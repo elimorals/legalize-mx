@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2004-09-25"
+last_updated: "2004-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2004.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1405,11 +1405,9 @@ Faltando los parientes a que se refieren las disposiciones anteriores, tienen ob
 
 284.- El adoptante y el adoptado tienen la obligación de darse alimentos en los casos en que la tienen los padres y los hijos. En el supuesto de la adopción plena, se aplicará lo conducente a los derechos y obligaciones existentes entre los hijos consanguíneos y sus parientes.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
 
-285.- Los Alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad, embarazo y parto. Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación primaria y secundaria o su equivalente y para proporcionarles algún oficio, arte o profesión lícitos adecuados a su sexo y circunstancias personales.
-
-Tratándose de personas con discapacidad, en los términos de la Ley de la materia, lo indispensable para lograr en lo posible su rehabilitación, tratamiento y desarrollo.
+285.- Los Alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad, embarazo y parto. Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación preescolar, primaria y secundaria o su equivalente y para proporcionarles algún oficio, arte o profesión lícitos adecuados a su sexo y circunstancias personales. Tratándose de personas con discapacidad, en los términos de la Ley de la materia, lo indispensable para lograr en lo posible su rehabilitación, tratamiento y desarrollo.
 
 286.- El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al Juez, según las circunstancias, fijar la manera de ministrar los alimentos.
 
@@ -1707,9 +1705,17 @@ II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la v
 
 361.- La posesión de estado, para los efectos de la fracción II del artículo 359, se justificará demostrando, por los medios ordinarios de prueba, que el hijo ha sido tratado por el presunto padre, o por su familia, como hijo del primero, y que éste ha proveído a su subsistencia, educación y establecimiento.
 
-362.- Está permitido al hijo nacido fuera de matrimonio y a sus descendientes, investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios; pero la indagación no será permitida cuando tenga por objeto atribuir el hijo a una mujer casada.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
 
-363.- No obstante lo dispuesto en la parte final del artículo anterior, el hijo podrá investigar la maternidad si ésta se deduce de una sentencia civil o de defensa social.
+362.- Está permitido al hijo nacido fuera de matrimonio y a sus descendientes, investigar la maternidad, la cual puede probarse por cualquier de los medios ordinarios, pero la indagación no será permitida cuando tenga por objeto atribuir el hijo a una mujer casada.
+
+No obstante lo dispuesto en el párrafo anterior, el hijo podrá investigar la maternidad si éste se deduce de una sentencia civil o penal.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+
+363.- La prueba de marcadores genéticos, cuando resulte positiva constituye un principio de prueba para los efectos de la fracción IV del artículo 359.
+
+Cuando el interesado acepte de manera voluntaria que se le practique la prueba mencionada, el Estado facilitará su realización.
 
 364.- El hecho de dar alimentos no constituye por sí solo prueba, ni aun presunción, de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
 
@@ -4881,7 +4887,7 @@ Esta disposición no será aplicable cuando el testador, al adquirir la mayoría
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1231.- Por causa de interés público son incapaces de adquirir bienes inmuebles, sea por sucesión testamentaria o intestamentaria, aquellos a quienes la Constitución Política de los Estados Unidos Mexicanos y las leyes reglamentarias de ésta, prohiben la adquisición de esa clase de bienes.
+1231.- Por causa de interés público son incapaces de adquirir bienes inmuebles, sea por sucesión testamentaria o intestamentaria, aquellos a quienes la Constitución Política de los Estados Unidos Mexicanos y las leyes reglamentarias de ésta, prohíben la adquisición de esa clase de bienes.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
@@ -4973,7 +4979,7 @@ Lo dispuesto en el párrafo anterior se aplicará también al heredero aparente,
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1255.- La condición se tendrá por cumplida cuando, siendo puramente potestativa de dar o de hacer alguna cosa, el que ha sido gravado con ella ofrece cumplirla; pero aquel en cuyo favor se estableció rehusa aceptar la cosa o el hecho.
+1255.- La condición se tendrá por cumplida cuando, siendo puramente potestativa de dar o de hacer alguna cosa, el que ha sido gravado con ella ofrece cumplirla; pero aquel en cuyo favor se estableció rehúsa aceptar la cosa o el hecho.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
@@ -7139,7 +7145,7 @@ Si se adjudica como cobrable un crédito, los coherederos no responden de la ins
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1679.- El heredero cuyos bienes hereditarios fueren embargados por créditos a cargo de la sucesión, y aquel contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohiba enajenar los bienes que recibieron.
+1679.- El heredero cuyos bienes hereditarios fueren embargados por créditos a cargo de la sucesión, y aquel contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohíba enajenar los bienes que recibieron.
 
 # LIBRO CUARTO. DE LAS OBLIGACIONES
 
@@ -10061,9 +10067,9 @@ I.- Por la revocación;
 
 II.- Por la renuncia del mandatario;
 
-III.- Por la muerte del mandante con excepción del mandato irrevocable, en el caso previsto en el artículo 2499, ultimo párrafo, o por muere del mandatario;
+III.- Por la muerte del mandante con excepción del mandato irrevocable, en el caso previsto en el artículo 2499, último párrafo, o por muere del mandatario;
 
-IV.- Por la interdicción del mandante, con excepción del mandato irrevocable, en el caso previsto en el artículo 2499, ultimo párrafo, o por la interdicción del mandatario;
+IV.- Por la interdicción del mandante, con excepción del mandato irrevocable, en el caso previsto en el artículo 2499, último párrafo, o por la interdicción del mandatario;
 
 V.- Por el vencimiento del plazo y por la conclusión del negocio para el que fue concedido;
 
@@ -10079,7 +10085,7 @@ En estos casos tampoco puede el mandatario renunciar el poder.
 
 La parte que revoque o renuncie el mandato en tiempo inoportuno, debe indemnizar a la otra de los daños y perjuicios que le cause.
 
-Cuando el mandato se otorgue como un medio para cumplir otra obligación contraída por el mandante a favor del mandatario, este último esta facultado para hacerse pago al ejercer el mandato, salvo convenio en contrario.
+Cuando el mandato se otorgue como un medio para cumplir otra obligación contraída por el mandante a favor del mandatario, este último está facultado para hacerse pago al ejercer el mandato, salvo convenio en contrario.
 
 2496.- Cuando se ha dado un mandato para tratar con determinada persona, el mandante debe notificar a ésta la revocación del mandato, so pena de quedar obligado por los actos del mandatario, ejecutados después de la revocación, siempre que haya habido buena fe de parte de esa persona.
 
@@ -12194,3 +12200,21 @@ P.O. 7 DE AGOSTO DE 2004.
 P.O. 25 DE SEPTIEMBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2004.
+
+DECRETO 1119/04 XIV P.E. QUE REFORMA LOS ARTS. 362 Y 363
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2004.
+
+DECRETO 1158/04 XV P.E. QUE REFORMA EL ART. 285
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año de preescolar, a partir del ciclo 2005-2006; el primer año de preescolar, a partir del ciclo 2008-2009.
