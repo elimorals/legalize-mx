@@ -4,7 +4,7 @@ identifier: "BCN-codigo-fiscal-del-estado-de-baja-california-18798"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-12-31"
-last_updated: "1989-12-10"
+last_updated: "1996-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1996.
 
 Código publicado en la Sección Decimosegunda del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 1988.
 
@@ -135,11 +135,11 @@ Se considera que establecen cargas a los particulares las normas que se refieren
 
 La recaudación, administración, determinación y cobranza de los ingresos que el Estado tiene derecho a percibir, estará a cargo de la Secretaría de Finanzas y sus unidades administrativas, de acuerdo con la competencia que les señalan el presente Código, el Reglamento Interior de la Secretaría de Finanzas y los demás ordenamientos legales aplicables.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 14.
 
-Son autoridades fiscales del Estado para los efectos de este Código y demás disposiciones aplicables:
+Son autoridades fiscales del Estado para los efectos de este Código y demás disposiciones aplicables, y competentes para administrar contribuciones Estatales y Federales coordinadas:
 
 I.- El Gobernador.
 
@@ -665,9 +665,17 @@ XIV.- Traficar con los documentos y comprobantes de pago de prestaciones fiscale
 
 Multa de dos a doscientas veces el salario mínimo.
 
-XV.- No enterar, dentro de los plazos señalados, las cantidades retenidas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-Multa de una a veinte veces el salario mínimo.
+XV.- No enterar, dentro de los plazos señalados, las cantidades retenidas, aún cuando no hubieren hecho la retención o no hayan recibido el pago de las contraprestaciones.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Multa de 50 a 100 salarios mínimos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+En caso de que la omisión sea detectada a través del ejercicio de las facultades de comprobación, la multa será del 150% del importe del impuesto omitido.
 
 ###### ARTICULO 49.
 
@@ -1831,7 +1839,7 @@ El Fisco del Estado tendrá preferencia para adjudicarse en cualquier almoneda, 
 
 I.- A falta de postores, por la base de la postura legal que habrá de servir para la almoneda siguiente.
 
-II.- A falta de pujas, por la base de la postura legal no mejorada;
+II.- A falta de pujas, por la base de la postura legal no mejorada.
 
 III.- En caso de posturas o pujas iguales, por la cantidad en que se haya producido el empate.
 
@@ -1984,3 +1992,7 @@ P.O. 10 DE DICIEMBRE DE 1989.
 ###### ARTICULO UNICO.
 
 El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Baja California.
+
+P.O. 31 DE DICIEMBRE DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
