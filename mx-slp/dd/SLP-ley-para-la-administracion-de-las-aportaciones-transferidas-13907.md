@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "2001-03-20"
+last_updated: "2003-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA ADMINISTRACION DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -525,11 +525,15 @@ Los Asesores Técnicos sólo tendrán participación con voz pero no con voto. L
 
 El Consejo electo se constituirá formalmente en asamblea con mayoría simple, la cual se hará constar en un acta, debiendo presentar su Reglamento Interno para este efecto, durante la primera semana del segundo mes del año en que deba constituirse.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 68.
 
-Los Presidentes Municipales, por acuerdo de cabildo, emitirán convocatoria para la elección de los representantes sociales comunitarios mediante asambleas que para este efecto se celebren. La convocatoria deberá expedirse durante la primera semana del mes de enero, del año siguiente a aquél en que se renueven los ayuntamientos.
+Los presidentes municipales, por acuerdo de cabildo, emitirán convocatoria para la elección de los representantes sociales comunitarios mediante asambleas que para ese efecto se celebren. La convocatoria deberá expedirse cuando menos siete días antes del día de la elección, la que deberá celebrarse durante la primera semana del segundo mes de ejercicio de los ayuntamientos.
 
-El Cabildo podrá emitir convocatoria en cualquier tiempo para la integración de nuevos miembros de representaciones sociales comunitarias.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE DICIEMBRE DE 2003)</small>
+
+El cabildo mandará publicar y difundir la convocatoria en los medios de comunicación, o por otros conductos idóneos en aquellos municipios donde no fueran accesibles dichos medios. En caso de que las representaciones sociales comunitarias que integran el Consejo quedarán sin representación, el cabildo emitirá nueva convocatoria para la integración exclusiva de los representantes que faltaran, lo que se hará de conformidad con esta Ley y, en su caso, con el Reglamento de la misma.
 
 ###### ARTICULO 69.
 
@@ -726,5 +730,11 @@ UNICO. El presente Decreto entrará en vigor el 1 de enero de 2001.
 P.O. 20 DE MARZO DE 2001.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
