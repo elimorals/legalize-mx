@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-expropiacion-de-ocupacion-temporal-y-de-limitacion-5349"
 country: "mx"
 rank: "ley"
 publication_date: "1992-07-03"
-last_updated: "1992-07-03"
+last_updated: "1996-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EXPROPIACION, DE OCUPACION TEMPORAL Y DE LIMITACION DE DOMINIO PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 1996.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 3 de julio de 1992.
 
@@ -69,7 +69,9 @@ III.- El embellecimiento, ampliación y saneamiento de las poblaciones; la const
 
 IV.- El Ordenamiento Ecológico del Territorio del Estado y de los Municipios; el establecimiento de áreas naturales protegidas; el cuidado de los sitios necesarios para asegurar el mantenimiento e incremento de los recursos genéticos de la flora y fauna silvestre y acuáticos, frente al peligro de deterioro grave o extinción y en general todo aquello que tienda a preservar y restaurar el medio ambiente y el equilibrio ecológico;
 
-V.- La ordenación de los asentamientos humanos, el establecimiento de reservas territoriales, el desarrollo urbano de los Municipios en la Entidad; la planeación y regulación de la fundación, conservación, mejoramiento y crecimiento de los centros de población;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 1996)</small>
+
+V.- La ordenación de los asentamientos humanos; el establecimiento de reservas territoriales; el desarrollo urbano de los Municipios en la Entidad; la regularización de la tenencia de la tierra del régimen de pequeña propiedad destinado a la explotación agropecuaria; la planeación y regulación de la fundación, conservación, mejoramiento y crecimiento de los centros de población;
 
 VI.- La conservación de los sitios naturales de belleza panorámica, de las antigüedades y objetos de arte, de los edificios y monumentos históricos, y de las cosas que se consideren parte importante en la preservación de la cultura del Estado y los Municipios;
 
@@ -280,3 +282,15 @@ El Secretario de Gobierno,
 LIC. SALVADOR ROCHA DIAZ.
 
 (Rúbricas)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE FEBRERO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR EL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+EL EJECUTIVO DEL ESTADO Y LOS AYUNTAMIENTOS DE LA ENTIDAD, EN SU CASO, Y LOS PARTICULARES AFECTADOS MEDIANTE DECLARATORIA DE EXPROPIACION, DENTRO DE LOS DOS AÑOS SIGUIENTES A LA FECHA DE ENTRADA EN VIGENCIA DEL PRESENTE DECRETO, PODRAN CELEBRAR CONVENIOS SOBRE LA FORMA Y TERMINOS DE LA INDEMNIZACION; CUANDO LA EXPROPIACION TENGA COMO CAUSA DE UTILIDAD PUBLICA LA REGULARIZACION DE LA TENENCIA DE LA TIERRA DE PEQUEÑA PROPIEDAD, DESTINADO A LA EXPLOTACION AGROPECUARIA.
