@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-expropiacion-ocupacion-temporal-o-limitacion-de-8117"
 country: "mx"
 rank: "ley"
 publication_date: "1992-04-25"
-last_updated: "1992-04-25"
+last_updated: "2001-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EXPROPIACION, OCUPACION TEMPORAL O LIMITACION DE DOMINIO PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 25 de abril de 1992.
 
@@ -81,7 +81,9 @@ XII.- La creación, ampliación, regularización, saneamiento o mejoramiento de 
 
 XIII.- El proyecto, diseño y realización de las obras de remodelación y regeneración urbanas;
 
-XIV.- La superficie necesaria para la utilización de aguas de jurisdicción estatal en beneficio colectivo; y,
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2001)</small>
+
+XIV.- La superficie necesaria para la explotación, uso y aprovechamiento de las aguas de jurisdicción estatal, y la superficie necesaria para la explotación, uso y aprovechamiento de las aguas nacionales asignadas al Estado o los Ayuntamientos, destinadas al uso doméstico en beneficio colectivo de una comunidad urbana o rural; y,
 
 XV.- Los demás casos previstos por leyes especiales.
 
@@ -214,3 +216,11 @@ Todos los negocios en tramitación al entrar en vigor esta Ley, continuarán rig
 Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Tamaulipas, a los veintidós días del mes de abril de mil novecientos noventa y dos, El Gobernador Constitucional del Estado, ING. AMERICO VILLARREAL GUERRA.- El Secretario General de Gobierno, LIC. ANIBAL PEREZ VARGAS.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE JUNIO DE 2001
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
