@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-y-desarrollo-urbano-del-estado-345
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-26"
-last_updated: "1994-07-26"
+last_updated: "1996-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de julio de 1994.
 
@@ -147,13 +147,21 @@ XXVIII.- Secretaría: la Secretaría de Desarrollo Social del Estado;
 
 XXIX.- Servicios urbanos: las actividades operativas públicas, prestadas directamente por la autoridad competente o concesionadas, para satisfacer necesidades colectivas en los centros de población;
 
-XXX.- Subdivisión: la partición de un terreno que no requiera del trazo de una o más vías públicas;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1996)</small>
 
-XXXI.- Usos: los fines particulares a que podrán dedicarse determinadas zonas o predios de un centro de población conforme a las previsiones derivadas de esta ley y demás disposiciones aplicables.
+XXX.- Subdivisión: la partición de un terreno que no requiera del trazo de una o más vías públicas y que se apegue a los criterios establecidos en el artículo 247 de esta ley;
 
-XXXII.- Zona metropolitana: el espacio territorial de influencia dominante de un centro de población; y
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 1996)</small>
 
-XXXIII.- Zonificación: la determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
+XXXI.- Unidad administrativa municipal: la Dirección de Desarrollo Urbano o su equivalente.
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1996)</small>
+
+XXXII.- Usos: los fines a que podrán dedicarse determinadas zonas o predios de un centro de población conforme a las previsiones derivadas de esta ley y demás disposiciones aplicables;
+
+XXXIII.- Zona metropolitana: el espacio territorial de influencia dominante de un centro de población; y
+
+XXXIV.- Zonificación: la determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
 
 ###### ARTICULO 4.
 
@@ -243,9 +251,11 @@ IV.- La documentación que acredite que el solicitante está al corriente en el 
 
 V.- Si el solicitante actúa a nombre y representación de un tercero, deberá acreditar su mandato en los términos de las leyes aplicables. Sin esta circunstancia se tendrá por no presentada la solicitud.
 
-Las constancias y documentos a que se refiere este artículo, deberán estar vigentes conforme a las normas que regulan su expedición, a la fecha de presentación de la solicitud.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1996)</small>
 
-No será tramitada la solicitud que no reúna los requisitos señalados.
+Las autorizaciones, permisos, licencias, constancias y documentos a que se refiere este artículo, deberán estar vigentes conforme a las normas que regulan su expedición a la fecha de presentación de la solicitud. Tratándose de aquellos referidos en las fracciones III y V, la fecha de expedición de los mismos no deberá ser mayor de 90 días.
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 21 DE JUNIO DE 1996)</small>
 
 ###### ARTICULO 8.
 
@@ -369,7 +379,11 @@ XI.- Ordenar la publicación de los planes y programas o declaratorias de desarr
 
 XII.- Promover y aplicar la política de protección del patrimonio cultural y natural del Estado; y
 
-XIII.- Aplicar y hacer cumplir las disposiciones de esta ley y las que regulen la materia.
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 1996)</small>
+
+XIII.- Establecer los mecanismos, unidades y organismos que, conforme al Programa Estatal de Desarrollo Urbano, considere convenientes o necesarios para promover el desarrollo urbano y regional, con la participación de las organizaciones de los sectores social y privado que convoque para tal fin; y
+
+XIV.- Aplicar y hacer cumplir las disposiciones de esta ley y las que regulen la materia.
 
 ###### ARTICULO 17.
 
@@ -389,7 +403,9 @@ VI.- Participar coordinadamente con los ayuntamientos, los Gobiernos de las enti
 
 VII.- Gestionar la inscripción de las resoluciones, programas y declaratorias de desarrollo urbano en el Registro Público de la Propiedad, que expidan las autoridades competentes;
 
-VIII.- Llevar el registro de los programas y declaratorias estatales de desarrollo urbano para su difusión, consulta pública, control y evaluación, así como el de peritos en materia de construcción y en diseño urbano, y el de peritos valuadores con antecedentes expedida por la autoridad competente;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1996)</small>
+
+VIII.- Llevar el registro de los programas y declaratorias estatales de desarrollo urbano para su difusión, consulta pública, control y evaluación, así como el de Directores Responsables de Obra y Corresponsables;
 
 IX.- Dictaminar sobre las declaratorias de provisiones, reservas, usos y destinos de áreas y predios que le sometan para su opinión los ayuntamientos, a efecto de que sean congruentes con la legislación y el Programa Estatal de Desarrollo Urbano;
 
@@ -593,7 +609,9 @@ Cada uno de los ayuntamientos de la entidad contará con un órgano de opinión 
 
 El Consejo Municipal de Desarrollo Urbano estará integrado por:
 
-I.- Un Presidente, que será el Presidente Municipal;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1996)</small>
+
+I.- Un Presidente, que será electo por los propios miembros del Consejo, a propuesta, en terna, del Presidente Municipal;
 
 II.- Un Secretario Técnico, que será el titular de la Unidad Administrativa encargada de las funciones de planificación y de desarrollo urbano del municipio;
 
@@ -604,6 +622,10 @@ a).- Un representante de cada una de las dependencias y entidades de la Administ
 b).- Un representante de las delegaciones o representaciones en la entidad de las dependencias y entidades de la Administración Pública Federal, que se relacionen con el desarrollo urbano;
 
 c).- Un representante de cada una de las cámaras, colegios, asociaciones y organizaciones de los sectores social y privado del municipio, que a juicio del Presidente Municipal deban integrarse al Consejo, en virtud de que sus actividades incidan en el desarrollo urbano o se vinculen con él.
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 1996)</small>
+
+IV.- Un coordinador que será el Presidente Municipal.
 
 Los miembros del Consejo contarán con un suplente designado por ellos mismos. Las ausencias del Presidente del Consejo serán suplidas por quien él designe.
 
@@ -1067,9 +1089,11 @@ Los planes y programas municipales de desarrollo urbano y los que de ellos se de
 
 Serán nulos de pleno derecho los actos de aprobación de planes y programas de desarrollo urbano que no cuenten previamente con la opinión del Consejo Consultivo de Desarrollo Urbano del Estado y del Consejo Municipal de Desarrollo Urbano respectivo.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1996)</small>
+
 ###### ARTICULO 72.
 
-Una vez aprobados los programas de desarrollo urbano, deberán ser enviados a la Secretaría, para la publicación de su memoria descriptiva, completa o abreviada en el Periódico Oficial del Gobierno del Estado y en uno de los diarios de mayor circulación de la entidad.
+Una vez aprobados los programas de desarrollo urbano, deberán ser enviados a la Secretaría, para la publicación de su memoria descriptiva, completa o abreviada en el Periódico Oficial del Gobierno del Estado.
 
 Se inscribirán íntegramente en el Registro Público de la Propiedad y en los registros de planeación de desarrollo urbano que corresponda, dentro de los veinte días naturales siguientes a la fecha en que se inicie su vigencia.
 
@@ -1855,7 +1879,9 @@ Las construcciones deberán remeterse 5 metros a partir del alineamiento, superf
 
 II.- USOS DEL SUELO.- El aprovechamiento predominante será de vivienda unifamiliar en la totalidad del fraccionamiento;
 
-III.- CESION DE AREAS.- El fraccionador deberá ceder a título gratuito a favor del municipio el 15% de la superficie vendible del fraccionamiento, debidamente urbanizada, la que será destinada en su totalidad para área verde;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1996)</small>
+
+III.- CESION DE AREAS.- El fraccionador deberá ceder a título gratuito a favor del municipio el 15% de la superficie vendible del fraccionamiento, debidamente urbanizada, la que será destinada en su totalidad para área verde. Dicha área deberá, ser entregada debidamente arborizada por el fraccionador, quien deberá, además darle mantenimiento durante un año, contado a partir de la fecha del acta de entrega recepción del fraccionamiento al municipio que corresponda;
 
 IV.- VIALIDAD.- Las avenidas deberán tener un ancho mínimo de 22 metros, medido de alineamiento a alineamiento. Las banquetas serán de 3 metros de ancho, de las cuales el 25% se empleará como zona arbolada debiendo ser arborizada por el fraccionador y cuyo mantenimiento estará a cargo del municipio respectivo.
 
@@ -1863,7 +1889,9 @@ Las calles locales deberán tener un ancho mínimo de 13 metros, medido de aline
 
 En el caso de que existan calles peatonales, éstas deberán contar con una área arbolada del 40% de su ancho.
 
-V.- INFRAESTRUCTURA Y EQUIPAMIENTO URBANO. Los fraccionamiento (sic) residenciales deberán contar en este aspecto, cuando menos, con lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 1996)</small>
+
+V.- INFRAESTRUCTURA URBANA. Los fraccionamientos a que se refiere este artículo deberán contar cuando menos, con:
 
 a).- Abastecimiento de agua potable de la red de la ciudad, red de distribución y tomas domiciliarias, o fuente propia de abastecimiento de agua potable cuando no se pueda conectar con la red de la ciudad;
 
@@ -1899,7 +1927,9 @@ II.- USOS DEL SUELO.- El aprovechamiento predominante será de vivienda unifamil
 
 En este tipo de fraccionamientos se permitirá la construcción de vivienda multifamiliares o edificios habitacionales en un máximo de 15% de la superficie vendible, la cual deberá ser señalada en el proyecto de lotificación;
 
-III.- CESION DE AREAS.- El fraccionador deberá ceder a título gratuito a favor del municipio el 15% de la superficie vendible del fraccionamiento, debidamente urbanizada, la que será destinada en su totalidad para área verde;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1996)</small>
+
+III.- CESION DE AREAS.- El fraccionador deberá ceder a título gratuito a favor del municipio el 15% de la superficie vendible del fraccionamiento, debidamente urbanizada, la que será destinada en su totalidad para área verde. Dicha área deberá ser entregada debidamente arborizada por el fraccionador, quien deberá, además darle mantenimiento durante un año, contado a partir de la fecha del acta de entrega recepción del fraccionamiento al municipio que corresponda;
 
 IV.- VIALIDAD.- Las avenidas deberán tener un ancho mínimo de 22 metros, medido de alineamiento a alineamiento. Las banquetas serán de 3 metros de ancho, de las cuales el 25% se empleará como zona arbolada, debiendo ser arborizada por el fraccionador y cuyo mantenimiento estará a cargo del municipio respectivo.
 
@@ -1907,7 +1937,9 @@ Las calles locales deberán tener un ancho mínimo de 13 metros, medido de aline
 
 En el caso de que existan calles peatonales, éstas deberán contar con una área arbolada del 40% de su ancho.
 
-V.- INFRAESTRUCTURA Y EQUIPAMIENTO URBANO.- Los fraccionamientos residenciales deberán contar en este aspecto, cuando menos, con:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 1996)</small>
+
+V.- INFRAESTRUCTURA URBANA.- Los fraccionamientos a que se refiere este artículo deberán contar cuando menos, con:
 
 a).- Abastecimiento de agua potable de la red de la ciudad, red de distribución y tomas domiciliarias, o fuente propia de abastecimiento de agua potable cuando no se pueda conectar con la red de la ciudad;
 
@@ -1943,7 +1975,9 @@ II.- USOS DEL SUELO.- El aprovechamiento predominante será de vivienda unifamil
 
 En este tipo de fraccionamiento se permitirá la construcción de viviendas multifamiliares o edificios habitacionales en un máximo del 30% de la superficie vendible, la cual deberá ser señalada en el proyecto de lotificación;
 
-III.- CESION DE AREAS.- El fraccionador deberá ceder a título gratuito a favor del municipio el 15% de la superficie vendible del fraccionamiento, debidamente urbanizada de la cual el ayuntamiento podrá destinar el 50% para equipamiento urbano con el consentimiento de los vecinos respecto al tipo de equipamiento, y el 50% restante como área verde.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1996)</small>
+
+III.- CESION DE AREAS.- El fraccionador deberá ceder a título gratuito a favor del municipio el 15% de la superficie vendible del fraccionamiento debidamente urbanizada, de la cual el ayuntamiento podrá destinar el 50% para equipamiento urbano, en el caso de que el equipamiento urbano sea distinto al establecido en el artículo 3, fracción XIV de esta ley se deberá contar con el consentimiento de los vecinos y el 50% restante como área verde. Dicha área deberá ser entregada debidamente arborizada por el fraccionador, quien deberá, además darle mantenimiento durante un año, contado a partir de la fecha del acta de entrega recepción del fraccionamiento;
 
 IV.- VIALIDAD.- Las avenidas deberán tener un ancho de 17 metros medido de alineamiento a alineamiento; las banquetas serán de 2.50 metros de ancho, de los cuales el 40% se empleará como zona arbolada.
 
@@ -1953,7 +1987,9 @@ Cuando necesariamente una calle local tenga que ser cerrada, se construirá un r
 
 En caso de que existan calles peatonales, éstas deberán contar con una área arbolada del 40% de su ancho.
 
-V.- INFRAESTRUCTURA Y EQUIPAMIENTO URBANO. Los fraccionamientos a que se refiere este artículo deberán contar, cuando menos, con:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 1996)</small>
+
+V.- INFRAESTRUCTURA URBANA. Los fraccionamientos a que se refiere este artículo deberán contar cuando menos, con:
 
 a).- Abastecimiento de agua potable de la red de la ciudad, red de distribución y tomas domiciliarias, o fuente propia de abastecimiento de agua potable cuando no se pueda conectar con la red de la ciudad;
 
@@ -1985,7 +2021,9 @@ II.- USOS DEL SUELO.- El aprovechamiento predominante será vivienda y se permit
 
 En este tipo de fraccionamiento se permitirá la construcción de viviendas multifamiliares o edificios habitacionales en un máximo de 60% de la superficie vendible, la cual deberá ser señalada en el proyecto de lotificación.
 
-III.- CESION DE AREAS.- El fraccionador deberá ceder a título gratuito a favor del municipio el 15% de la superficie vendible del fraccionamiento debidamente urbanizada, de la cual el ayuntamiento podrá destinar el 80% para equipamiento urbano con el consentimiento de los vecinos respecto al tipo de equipamiento, y el 20% como área verde.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1996)</small>
+
+III.- CESION DE AREAS.- El fraccionador deberá ceder a título gratuito a favor del municipio el 15% de la superficie vendible del fraccionamiento debidamente urbanizada, de la cual el ayuntamiento podrá destinar el 80% para equipamiento urbano, en el caso de que el equipamiento urbano sea distinto al establecido en el artículo 3o, fracción XIV de esta ley se deberá contar con el consentimiento de los vecinos, y el 20% restante como área verde. Dicha área deberá ser entregada debidamente arborizada por el fraccionador, quien deberá, además darle mantenimiento durante un año, contado a partir de la fecha del acta de entrega recepción del fraccionamiento;
 
 IV.- VIALIDAD.- Las avenidas deberán tener un ancho de 16 metros, medido de alineamiento a alineamiento; las banquetas serán de 2 metros de ancho, de los cuales del 20 al 40% se empleará como zona arbolada.
 
@@ -1997,7 +2035,9 @@ En el caso de que existan calles peatonales éstas deberán contar con una área
 
 Cualquier lote que tenga acceso a través de la calle peatonal deberá estar situado a una distancia menor de 70 metros de una calle de circulación de vehículos o del lugar de estacionamiento correspondiente; y
 
-V.- INFRAESTRUCTURA Y EQUIPAMIENTO URBANO.- Los fraccionamientos que sean aprobados dentro de este tipo, deberán tener en este aspecto como mínimo, lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 1996)</small>
+
+V.- INFRAESTRUCTURA URBANA.- Los fraccionamientos a que se refiere este artículo deberán contar cuando menos, con:
 
 a).- Abastecimiento de agua potable de la red de la ciudad, red de distribución y tomas domiciliarias, o fuente propia de abastecimiento de agua potable cuando no se pueda conectar con la red de la ciudad;
 
@@ -2025,7 +2065,9 @@ II.- USOS DEL SUELO.- El aprovechamiento predominante será vivienda y se permit
 
 En este tipo de fraccionamiento se permitirá la construcción de viviendas multifamiliares o edificios habitacionales en un máximo de 60% de la superficie vendible;
 
-III.- CESION DE AREAS.- El fraccionador deberá ceder a título gratuito a favor del municipio el 15% de la superficie vendible del fraccionamiento debidamente urbanizada, de la cual el ayuntamiento podrá destinar el 80% para equipamiento urbano con el consentimiento de los vecinos respecto al tipo de equipamiento, y el 20% como área verde.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1996)</small>
+
+III.- CESION DE AREAS.- El fraccionador deberá ceder a título gratuito a favor del municipio el 15% de la superficie vendible del fraccionamiento debidamente urbanizada, de la cual el ayuntamiento podrá destinar el 80% para equipamiento urbano, en el caso de que el equipamiento urbano sea distinto al establecido en el artículo 3o, fracción XIV de esta ley se deberá contar con el consentimiento de los vecinos, y el 20% restante como área verde. Dicha área deberá ser entregada debidamente arborizada por el fraccionador, quien deberá, además darle mantenimiento durante un año, contado a partir de la fecha del acta de entrega recepción del fraccionamiento.
 
 IV.- VIALIDAD.- Las avenidas deberán tener un ancho de 16 metros, medido de alineamiento a alineamiento; las banquetas serán de 2 metros de ancho.
 
@@ -2037,7 +2079,9 @@ En el caso de que existan calles peatonales éstas deberán contar con una área
 
 Cualquier lote que tenga acceso a través de la calle peatonal deberá estar situado a una distancia menor de 70 metros de una calle de circulación de vehículos o del lugar de estacionamiento correspondiente; y
 
-V.- INFRAESTRUCTURA Y EQUIPAMIENTO URBANO.- Los fraccionamientos que sean aprobados dentro de este tipo, deberán tener en este aspecto como mínimo, lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 1996)</small>
+
+V.- INFRAESTRUCTURA URBANA.- Los fraccionamientos a que se refiere este artículo deberán contar cuando menos, con:
 
 a).- Abastecimiento de agua potable de la red de la ciudad, red de distribución y tomas domiciliarias, o fuente propia de abastecimiento de agua potable cuando no se pueda conectar con la red de la ciudad;
 
@@ -2255,15 +2299,19 @@ El municipio deberá utilizar las donaciones para el servicio de personas de esc
 
 #### SECCION OCTAVA. DEL PROCEDIMIENTO PARA LA AUTORIZACION DE FRACCIONAMIENTOS
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1996)</small>
+
 ###### ARTICULO 196.
 
-La autorización de los fraccionamientos será facultad exclusiva del ayuntamiento, previa satisfacción de los requisitos establecidos por esta ley.
+La autorización de los fraccionamientos será facultad exclusiva del ayuntamiento al través del Presidente Municipal, previa satisfacción de los requisitos establecidos por esta ley.
 
-Serán nulas de pleno derecho todas aquellas autorizaciones que no se ajusten a lo dispuesto en el párrafo anterior, por lo que ningún servidor público en lo individual tendrá facultades al respecto.
+Serán nulas de pleno derecho todas aquellas autorizaciones que no se ajusten a lo dispuesto en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1996)</small>
 
 ###### ARTICULO 197.
 
-La solicitud para la autorización de fraccionamientos deberá presentarse por escrito ante el ayuntamiento, a fin de que éste elabore el proyecto de dictamen respectivo y previa opinión del Consejo Municipal de Desarrollo Urbano que corresponda, los someta a su resolución en sesión de cabildo.
+La solicitud para la autorización de fraccionamientos deberá presentarse por escrito ante el Presidente Municipal, el cual, al través de la unidad administrativa correspondiente y previa opinión del Consejo Municipal de Desarrollo Urbano, expedirá la autorización respectiva.
 
 ###### ARTICULO 198.
 
@@ -2309,19 +2357,23 @@ El Consejo Municipal de Desarrollo Urbano respectivo, habiendo emitido su opini�
 
 Contando con la opinión del Consejo Municipal respectivo y de las demás autoridades competentes, el Presidente Municipal integrará el proyecto de resolución sobre la solicitud de fraccionamiento, mismo que someterá al Cabildo en su siguiente sesión.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1996)</small>
+
 ###### ARTICULO 207.
 
-El ayuntamiento en sesión de cabildo, estudiará el proyecto de resolución con base en el dictamen que someta a su consideración el Presidente Municipal, y emitirá su resolución aprobando o rechazando la solicitud respectiva con sujeción a esta ley y demás disposiciones aplicables.
+El Presidente Municipal, en representación del Ayuntamiento y con base en el dictamen que someta a su consideración la unidad administrativa municipal, encargada de la planeación urbana, emitirá su resolución aprobando o rechazando la solicitud respectiva con sujeción a esta ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1996)</small>
 
 ###### ARTICULO 208.
 
-Toda resolución del ayuntamiento en materia de fraccionamientos, para su validez, deberá ser suscrita por el Presidente Municipal, asistido del Secretario, y por el Síndico del Ayuntamiento, y el titular de la unidad administrativa a cargo de la planificación urbana en el municipio.
+Toda resolución del ayuntamiento en materia de fraccionamientos, para su validez, deberá ser suscrita por el Presidente Municipal, el Síndico y el Secretario del Ayuntamiento y el Titular de la Unidad Administrativa Municipal a cargo de la planificación urbana.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1996)</small>
 
 ###### ARTICULO 209.
 
-Una vez que el ayuntamiento en sesión de cabildo haya emitido su resolución, la notificará al interesado, indicándole en el caso de que le haya sido favorable, las obligaciones que deberá cumplir relativas al pago de los derechos o cargas fiscales estatales o municipales, al otorgamiento de cesiones, a las características y especificaciones de las obras de urbanización y a la constitución de las garantías para caucionar el cumplimiento de las disposiciones contenidas en la autorización.
-
-Las resoluciones del ayuntamiento relativas a cada solicitud de fraccionamiento se publicarán por una sola vez en la Gaceta Oficial del Municipio, en caso de haberla, y en el Periódico Oficial del Gobierno del Estado a costa del solicitante.
+Una vez que el Presidente Municipal, en representación del Ayuntamiento, haya emitido su resolución, se le notificará al interesado al través de la unidad administrativa encargada de la planificación urbana, indicándole en el caso de que le haya sido favorable, las obligaciones que deberá cumplir relativas al pago de los derechos estatales y municipales, al otorgamiento de cesiones, a las características y especificaciones de las obras de urbanización y a la constitución de las garantías para caucionar el cumplimiento de las disposiciones contenidas en la autorización.
 
 ###### ARTICULO 210.
 
@@ -2567,11 +2619,19 @@ La autorización de subdivisiones deberá apegarse a los siguientes criterios:
 
 I.- Se entenderá por subdivisión la partición de un terreno cuya superficie no exceda de 10 000 metros cuadrados y no requiera del trazo de una o más vías públicas, en caso contrario se considerará como fraccionamiento para todos los efectos legales;
 
-II.- No se autorizará la subdivisión cuando ésta de como resultado una fracción menor al lote tipo del fraccionamiento al cual corresponda;
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 1996)</small>
 
-III.- En los centros de las ciudades o localidades del Estado, el ayuntamiento establecerá los requisitos mínimos, procurando guardar la armonía y la imagen urbana de los centros de población; y
+II.- Se autorizará la subdivisión de predios mayores a 10,000 metros cuadrados, cuando la fracción a subdividir sea destinada a equipamiento urbano o cuando las áreas a subdividir den como resultado fracciones superiores a los 10,000 metros cuadrados y no se pretenda realizar un fraccionamiento;
 
-IV.- Cuando alguno de los lotes no tenga acceso directo a una vía pública autorizada y se proponga la apertura de un paso de servicios, éste no será inferior a 3 metros de anchura.
+III.- No se autorizará la subdivisión cuando ésta de como resultado una fracción menor al lote tipo del fraccionamiento al cual corresponda;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1996)</small>
+
+IV.- En los centros de las ciudades o localidades del Estado, el ayuntamiento establecerá los requisitos y definirá los frentes de lote, procurando guardar la armonía y la imagen urbana de los centros de población; y
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1996)</small>
+
+V.- Cuando alguno de los lotes no tenga acceso directo a una vía pública existente, la aprobación de la subdivisión se dará solamente mediante la apertura de una servidumbre de paso, la que no podrá tener un ancho menor de 3 metros, debiéndose plasmar su desincorporación en la escritura del predio correspondiente.
 
 ###### ARTICULO 248.
 
@@ -2980,3 +3040,15 @@ LIC. CARLOS JUARISTI SEPTIEN
 EL SECRETARIO DE DESARROLLO SOCIAL
 
 LIC. ROGELIO RAMOS ORANDAY
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE JUNIO DE 1996.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto. El decreto No. 59 del 9 de enero de 1987, publicado en el Periódico Oficial del Gobierno del Estado Número 13 del mismo mes y año, mediante el que se crea el Consejo Promotor para el Desarrollo de las Reservas Territoriales de Torreón, Coahuila quedará abrogado en la fecha en que entren en vigor el instrumento administrativo que emita el Ejecutivo del Estado por el que se cree el organismo estatal que deba sustituirlo, siempre que en él se prevea la sustitución por éste de las funciones, derechos y obligaciones que están a cargo de aquél, de manera que no se lesionen derechos adquiridos por los particulares.
+
+TERCERO.- Las personas que hayan obtenido autorización para fraccionamientos y que no hubiesen llevado al cabo la entrega al Ayuntamiento que corresponda de los bienes inmuebles, equipo e instalaciones destinados a los servicios públicos y obras de urbanización a la fecha en que entre en vigor el presente decreto, deberán observar lo dispuesto en las reformas contenidas en los artículos 174 a 178 de este instrumento.
+
+CUARTO.- Las solicitudes de autorización de fraccionamientos que hayan sido presentadas ante los ayuntamientos con anterioridad a la fecha en que entre en vigor este decreto, serán atendidas y resueltas conforme lo dispuesto a las reformas previstas en este instrumento.
