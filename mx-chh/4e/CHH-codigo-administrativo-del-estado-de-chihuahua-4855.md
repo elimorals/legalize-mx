@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1996-07-27"
+last_updated: "1997-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 1997.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -1593,7 +1593,9 @@ III.- Haber tenido y tener buena conducta privada y profesional; y
 
 IV.- No tener impedimento físico o mental que se oponga a las funciones registrales.
 
-Los requisitos anteriores se exigirán también respecto de los Jefes y Subjefes de las Oficinas del Registro Público de la Propiedad.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+
+Los requisitos anteriores se exigirán también respecto de los Jefes, Subjefes y Registradores de las Oficinas del Registro Público de la Propiedad.
 
 ###### ARTICULO 273.
 
@@ -1603,75 +1605,119 @@ En los Distritos Judiciales en los que el Ejecutivo del Estado no haya designado
 
 En cada Oficina se registrarán los actos o contratos relativos a bienes situados en el Distrito a que el Registro Público pertenezca. Cuando los bienes correspondan por su ubicación a dos o más Distritos, se hará el registro en cada uno de ellos exclusivamente por lo que se refiere a la parte de los bienes situados en él.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 275.
 
-Los Encargados del Registro Público de la Propiedad sólo podrán desempeñar la procuración judicial y ejercer la profesión de abogado, cuando se trate de un asunto propio, de su cónyuge, de sus parientes consanguíneos o afines en línea recta sin limitación de grados o colaterales que lo sean por consanguinidad dentro del cuarto grado o por afinidad dentro del segundo.
+Los Jefes de las Oficinas del Registro Público de la Propiedad sólo podrán desempeñar la procuración judicial y ejercer la profesión de abogado, cuando se trate de un asunto propio, de su cónyuge, de sus parientes consanguíneos o afines en línea recta sin limitación de grados o colaterales que lo sean por consanguinidad dentro del cuarto grado o por afinidad dentro del segundo.
 
 Sólo podrán actuar como Notarios, cuando de conformidad con los artículos 273 y 343 de este Código sean titulares de un juzgado de Primera Instancia y Encargados de la Oficina del Registro Público de la Propiedad y ejerzan la función notarial por receptoría.
 
-REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 1988)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 276.
 
-Son obligaciones de los Jefes de las Oficinas del Registro Público de la Propiedad.
+Son obligaciones de los Jefes de Oficina del Registro Público de la Propiedad:
 
 I.- Realizar sus funciones con exacto cumplimiento de las prescripciones de este Código, de la legislación civil y de las demás disposiciones legales correspondientes;
 
 II.- Resolver las dudas que los interesados le consulten y hacerles saber los requisitos que faltan a los documentos que se presenten para su inscripción y el modo de subsanarlos;
 
-III.- Revisar los documentos presentados para su registro y el pago de las contribuciones;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
 
-IV.- Verificar la inscripción de los documentos por riguroso orden de presentación de las boletas de pago;
+III.- Ejercer las funciones señaladas en este Código a los Registradores y Certificadores, cuando no los hubiere en la Oficina respectiva o, en su caso, coordinar las actividades de los Registradores y Certificadores adscritos a dicha Oficina, quienes estarán a su cargo;
 
-V.- Hacer las inscripciones dentro de los tres días hábiles siguientes a la presentación de la boleta de pago de los derechos respectivos, salvo que el exceso de trabajo lo impida o los documentos correspondientes fueren devueltos para que se subsane la falta de los requisitos que establecen las leyes. En este último caso, a petición de parte interesada, se pondrá la razón en que se funde el no haber efectuado la inscripción en el término fijado anteriormente;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
 
-VI.- Autorizar con su firma y sello las inscripciones que se verifiquen, así como las notas respectivas al calce de los títulos presentados;
+IV.- Rendir los informes que soliciten las autoridades legalmente facultadas para ello;
 
-VII.- Rendir los informes que soliciten las autoridades legalmente facultadas para pedirlos;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
 
-VIII.- Rendir dentro de los primeros cinco días hábiles de cada mes, a la Tesorería General del Estado y al Departamento de Economía, una noticia pormenorizada del número de escrituras registradas en cada Sección, el valor de las operaciones correspondientes al ramo y el monto de los derechos causados. Las Oficinas de los Registros Públicos de la Propiedad enviarán esta misma noticia a la Oficina Central del Registro;
+V.- Rendir, dentro de los primeros cinco días hábiles de cada mes, a la Dirección General de Finanzas y Administración una noticia pormenorizada del número de escrituras registradas en cada Sección, el valor de las operaciones correspondientes al ramo y el monto de los derechos causados. Las Oficinas de los Registros Públicos de la Propiedad enviarán esta misma información al Departamento del Registro Público de la Propiedad y del Notariado;
 
-IX.- Permitir en los términos del artículo 2893 del Código Civil que cualquier persona examine los libros del Registro, siempre que esto se efectúe en la Oficina dentro de las horas de despacho y no se esté trabajando en el libro que se pretende examinar. Los interesados podrán tomar notas, pero no sacar copias de los asientos ni de los documentos agregados en los apéndices;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1988)</small>
+VI.- Permitir, en los términos del artículo 2893 del Código Civil, que cualquier persona examine los libros del Registro, siempre que ésto se efectúe en la Oficina dentro de las horas de despacho y no se esté trabajando en el libro que se pretende examinar. Los interesados podrán tomar notas, pero no sacar copia de los asientos ni de los documentos agregados en los apéndices;
 
-X.- Las demás que establezcan otras disposiciones al Departamento del Registro Público de la Propiedad y del Notariado le corresponde conservar bajo su cuidado los libros y demás anexos que hayan pertenecido a una oficina del registro suprimida legalmente, haciendo en ello las anotaciones y expidiendo las copias y certificaciones que prevenga la Ley.
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
+
+VII.- Las demás que establezcan este Código y otras disposiciones legales.
+
+VIII.- (DEROGADA, P.O. 26 DE FEBRERO DE 1997)
+
+IX.- (DEROGADA, P.O. 26 DE FEBRERO DE 1997)
+
+X.- (DEROGADA, P.O. 26 DE FEBRERO DE 1997)
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1997)</small>
+
+El Departamento del Registro Público de la Propiedad y del Notariado conservará, bajo su responsabilidad, los libros y demás anexos que hayan pertenecido a una Oficina del Registro suprimida legalmente, haciendo en ello las anotaciones y expidiendo copias y certificaciones que prevenga la Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1997)</small>
+
+ARTICULO 276 BIS.- Son obligaciones de los Registradores:
+
+I.- Revisar los documentos presentados para su registro y el pago de las contribuciones.
+
+II.- Verificar la inscripción de los documentos por riguroso orden de presentación de las boletas de pago.
+
+III.- Hacer las inscripciones dentro de los tres días hábiles siguientes a la presentación de la boleta de pago de los derechos respectivos, salvo que el exceso de trabajo lo impida o los documentos correspondientes fueren devueltos para que se subsane la falta de los requisitos que establecen las leyes. En este último caso, a petición de parte interesada, se pondrá la razón en que se funde el no haber efectuado la inscripción en el término fijado anteriormente.
+
+IV.- Autorizar, con su firma y el sello de la oficina a la que estén adscritos, las inscripciones que se verifiquen, así como las notas respectivas.
+
+V.- Las demás que establezcan este Código y otras disposiciones legales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 277.
 
-Los Encargados del Registro Público están sujetos a las mismas sanciones que los Notarios y son pecuniariamente responsables de los perjuicios que se ocasionen:
+Los Jefes de las Oficinas del Registro Público de la Propiedad están sujetos a las mismas sanciones que los Notarios y son pecuniariamente responsables de los perjuicios que se ocasionen:
 
-I.- Por no inscribir en el término de tres días los títulos que se presenten a su registro, siempre que el retardo no esté justificado en los términos establecidos en la fracción V del artículo anterior;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
+
+I.- Por no inscribir en el término de tres días los títulos que se presenten a su registro;
 
 II.- Por error sustancial cometido en las inscripciones, cancelaciones o anotaciones;
 
 III.- Por cancelar una inscripción o anotación sin el título correspondiente y sin los requisitos legales;
 
-IV.- Por error sustancial en las certificaciones de liberación o gravamen de los inmuebles o derechos reales o por no expedir dichas certificaciones en el término de tres días, a menos que este retardo esté justificado de conformidad con lo prevenido en la fracción V del artículo anterior;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
+
+IV.- Por error substancial en las certificaciones de liberación o gravamen de los inmuebles o derechos reales o por no expedir dichas certificaciones en el término de tres días;
 
 V.- En general, por faltar al cumplimiento de las obligaciones que les imponen las leyes, siempre que con su grave omisión resulte perjuicio a tercero.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1997)</small>
+
+La responsabilidad prevista en este artículo, por las omisiones, errores substanciales y acciones en que incurran, en sus respectivos casos, también será aplicable a los Registradores y Certificadores.
 
 ###### ARTICULO 278.
 
 Las responsabilidades que determina el artículo anterior se traducirán en los daños y perjuicios que los Registradores causen a los interesados en los términos del Código Civil y del Código de Procedimientos Civiles del Estado o en la aplicación de las medidas de defensa social cuando ejecuten algún acto clasificado como infracción antisocial, en los términos del Código respectivo.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 279.
 
-Las faltas administrativas que cometan en el desempeño de sus funciones serán sancionadas por el titular del Ejecutivo a través de la Oficina Central del Registro Público de la Propiedad y por lo que corresponde al Encargado de ésta, directamente por aquél con multa de veinticinco a quinientos pesos.
+Las faltas administrativas que cometan en el desempeño de sus funciones serán sancionadas por el titular del Ejecutivo a través del Jefe del Departamento del Registro Público de la Propiedad y del Notariado y por lo que corresponde a éste, directamente por aquél con multa por el equivalente de un día de salario del que corresponda al infractor.
 
 ###### ARTICULO 280.
 
 En tanto las leyes federales no dispongan situación en contrario, los Registradores Públicos de la Propiedad se encargarán del Registro de Comercio, de acuerdo con las disposiciones respectivas.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 281.
 
-Las faltas temporales o accidentales de los Encargados de los Registros, se suplirán por el subalterno inmediato de la Oficina y en caso de que el titular lo sea un Juez de conformidad con el artículo 273 de este Código será suplido por quien deba sustituirlo con arreglo a la Ley Orgánica del Poder Judicial sin necesidad de nombramiento ni formalidad especial alguna.
+Las faltas temporales o accidentales de los Jefes de las Oficinas del Registro Público de la Propiedad, se suplirán por el subalterno inmediato de la Oficina y en caso de que el titular sea un Juez, de conformidad con el artículo 273 de este Código, será suplido por quien deba sustituirlo con arreglo a la Ley Orgánica del Poder Judicial. En ambos casos operará la suplencia sin necesidad de nombramiento ni formalidad especial alguna.
 
-Por lo que a las faltas temporales o accidentales del Encargado de la Oficina Central del Registro Público de la Propiedad se refiere, se suplirán por el Subjefe correspondiente en los términos del artículo 272 de este Código y a falta del mismo por el subalterno inmediato.
+Por lo que hace a las faltas temporales o accidentales del Jefe del Departamento del Registro Público de la Propiedad y del Notariado, éstas se suplirán de acuerdo con el orden siguiente. Por el Jefe de la Oficina Registral, en ausencia de éste, por el Jefe de la Oficina del Notariado y, en ausencia de ambos, por el Jefe de la Oficina del Registro Público de la Propiedad del Distrito Morelos.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 282.
 
-Cuando se separe definitivamente del ejercicio de sus funciones el Encargado del Registro Público, pondrá en cada uno de los libros en uso, la constancia de separación y de entrega a la persona designada para sustituirlo. El Encargado que sustituya al anterior firmará de recibo las notas a que éste se refiere.
+Cuando se separe definitivamente del ejercicio de sus funciones el Jefe de la Oficina del Registro Público de la Propiedad, pondrá en cada uno de los libros en uso, la constancia de separación y de entrega a la persona designada para sustituirlo. El servidor público que sustituya al anterior titular de la oficina firmará de recibo las notas a que éste se refiere.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
 
@@ -1703,17 +1749,19 @@ Las hojas que forman los apéndices se sellarán y numerarán progresivamente y 
 
 En el caso de que se haya agotado el espacio para anotaciones marginales, así como las hojas destinadas al efecto, el Registrador podrá continuar en las páginas de los libros que se lleven en uso en la Oficina y que se destinen a estos efectos, haciendo las anotaciones correspondientes que enlacen unos libros con otros; o autorizar cuaderno-apéndice para que se anoten las segregaciones de determinada inscripción, haciéndose la referencia al autorizarlo y anotándose al margen de la inscripción relativa.
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 285
 
-BIS.- Podrán utilizarse procedimientos electro magnéticos, (sic) inscribiéndose en el lado anverso de la hoja un extracto del documento a registrar; el reverso será destinado para las anotaciones que posteriormente afecten, graven, limiten o modifiquen la inscripción.
+BIS.- Podrán utilizarse procesos electrónicos tanto para el mantenimiento de índices y duplicados del archivo registral, como para realizar las inscripciones; inscribiéndose en el lado anverso de la hoja un extracto del documento a registrar; tanto el margen del anverso como el reverso serán destinados para las anotaciones que posteriormente afecten, graven, limiten o modifiquen la inscripción.
 
-La primera hoja de cada libro sin numerar, será destinada a su respectiva autorización y las siguientes a inscripciones.
+Los libros se imprimirán en hojas sueltas y constarán al concluirse de ciento treinta hojas numeradas en su anverso y dos hojas más sin numerar. La primera y última hojas sin numerar, de cada libro, serán destinadas a su respectiva autorización y las restantes a inscripciones.
 
-Para cada sección podrán llevarse varios libros, ya sea en forma individual o en forma simultánea. Si es en forma individual, la numeración de la (sic) inscripciones se seguirá en orden progresivo hasta terminar el libro; si se utilizan varios libros en forma simultánea, se seguirá un orden riguroso yendo de un libro a otro, en cada acto hasta llegar al último y volviendo de este al primero.
+Para cada sección deberá llevarse un solo libro a la vez. La enumeración de las inscripciones se iniciará con el número uno y se seguirá en orden progresivo, correspondiendo un número para cada inscripción hasta terminar el libro.
 
-Para el caso de que se agote el reverso de la hoja destinada para anotaciones derivadas de la inscripción, se podrán continuar haciendo las anotaciones correspondientes que las enlacen con el cuaderno o cuadernos apéndices que sean necesarios, previa autorización del Jefe del Departamento.
+Inmediatamente que un libro quede integrado conforme a lo previsto en los dos párrafos anteriores, se encuadernará con pastas sólidas y se identificará con el número ordinal y de sección que le corresponda, tanto en el lomo como en su portada.
+
+Para el caso de que se agote el reverso de la hoja destinada para anotaciones derivadas de la inscripción, se podrán continuar haciendo las anotaciones correspondientes que las enlacen con el libro o libros de anotaciones que sean necesarios, previa autorización del Jefe del Departamento.
 
 ###### ARTICULO 286.
 
@@ -1759,11 +1807,15 @@ Se entenderá por títulos, para los efectos de la inscripción, los documentos 
 
 Al ser recibido un documento, a petición de parte interesada, se extenderá un recibo del mismo en el que se hará constar la naturaleza del documento, las partes que intervienen, el objeto a que se refiere y los anexos que se acompañan.
 
-Asimismo, a solicitud de parte interesada, se anotará el documento presentado poniendo constancia en él de la hora, día, mes y año en que fue recibido para su inscripción.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+
+Asimismo se anotará el documento presentado poniendo constancia en él de la hora, día, mes y año en que fue recibido para su inscripción, así como el número ordinal que le corresponda en el trámite diario.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 294.
 
-Tan luego como el documento presentado sea revisado por el Encargado de la Oficina, se entregará al solicitante la constancia necesaria para que cubra los derechos que la inscripción debe causar y una vez presentada la boleta que acredite su pago, se procederá a practicar la inscripción solicitada. El Registrador ordenará la inscripción si encuentra que el título presentado es de los que debe inscribirse y cumple los requisitos formales y materiales exigidos por la ley. En caso contrario se devolverá el título sin registrar, siendo necesaria resolución judicial para que se haga el registro.
+Tan luego como el documento sea presentado, se entregará al solicitante la constancia necesaria para que cubra los derechos que cause la inscripción y una vez presentada la boleta que acredite su pago, se procederá a revisar el mismo por quien corresponda y, en su caso, a practicar la inscripción solicitada. El Registrador ordenará la inscripción si encuentra que el título presentado es de los que deben inscribirse y cumple los requisitos formales y materiales exigidos por la ley. En caso contrario se devolverá el título sin registrar, siendo necesaria para que se haga el registro, resolución judicial dictada en juicio en que el Registrador sea parte.
 
 ###### ARTICULO 295.
 
@@ -1819,25 +1871,33 @@ Mientras se practiquen las diligencias necesarias para la rectificación, el reg
 
 Las inscripciones podrán cancelarse por consentimiento de las partes o por resolución judicial.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 306.
 
-El consentimiento de las partes interesadas en la extinción de la inscripción respectiva deberá constar en escritura pública, excepto cuando se trate de ventas condicionales, retroventas, hipotecas o fideicomisos, pues en estos casos bastará que las partes manifiesten su voluntad al calce de los títulos, de que puede cancelarse la inscripción. Con esta constancia, el notario que autorizó los actos mencionados cancelará la matriz de la escritura correspondiente, cerciorado que sea de la autenticidad de la firma, anotará e inutilizará el testimonio de la escritura y remitirá oficio al Encargado del Registro Público, participándole la cancelación para que proceda en consecuencia.
+El consentimiento de las partes interesadas en la extinción de la inscripción respectiva deberá constar en escritura pública, excepto cuando se trate de ventas condicionales, retroventas, hipotecas o fideicomisos, pues en estos casos bastará que las partes manifiesten su voluntad al calce de los títulos, de que puede cancelarse la inscripción. Con esta constancia, el Notario que autorizó los actos mencionados cancelará la matriz de la escritura correspondiente, cerciorado que sea de la autenticidad de la firma, anotará e inutilizará el testimonio de la escritura y remitirá oficio al Jefe de la Oficina del Registro Público de la Propiedad, participándole la cancelación para que proceda en consecuencia.
 
 ###### ARTICULO 307.
 
 La cancelación de la inscripción de una cédula hipotecaria no origina la cancelación de la hipoteca respectiva, la que deberá efectuarse de conformidad con el artículo anterior.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 308.
 
-En los casos de confusión, quedan de pleno derecho cancelados todos los gravámenes y limitaciones de dominio consignados en favor de la persona que adquiere; por lo que el Encargado del Registro Público deberá efectuar las cancelaciones correspondientes.
+En los casos de confusión, quedan de pleno derecho cancelados todos los gravámenes y limitaciones de dominio consignados en favor de la persona que adquiere; por lo que el Jefe de la Oficina del Registro Público de la Propiedad deberá efectuar las cancelaciones correspondientes.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 309.
 
-Siempre que ante un Tribunal se pida la nulidad o cancelación de una inscripción o del documento que la motivó, la autoridad judicial, deberá participarlo de oficio al Encargado del Registro Público quien deberá hacer la inscripción marginal correspondiente sin costo alguno.
+Siempre que ante un Tribunal se pida la nulidad o cancelación de una inscripción o del documento que la motivó, la autoridad judicial deberá participarlo de oficio al Jefe de la Oficina del Registro Público que corresponda, quien deberá hacer la anotación correspondiente sin costo alguno.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 310.
 
-Cuando se solicite el amparo de la justicia federal y como acto reclamado sea señalada la autorización de una inscripción o de una anotación marginal y se designe como autoridad responsable al Encargado del Registro, se hará una anotación marginal que indique la existencia del juicio de garantías, la que se cancelará cuando tenga conocimiento de que se declaró ejecutoriada la sentencia que niegue la protección de la justicia federal o decrete el sobreseimiento del juicio. En caso contrario procederá conforme lo resuelto en la sentencia constitucional.
+Cuando se solicite el amparo de la Justicia Federal y como acto reclamado sea señalada la autorización de una inscripción o de una anotación marginal y se designe como autoridad responsable al Jefe de la Oficina del Registro Público, se hará una anotación marginal que indique la existencia del juicio de garantías la que se cancelará cuando se tenga conocimiento oficial de que se declaró ejecutoriada la sentencia que niegue la protección de la Justicia Federal o decrete el sobreseimiento del juicio. En caso contrario procederá conforme lo resuelto en la sentencia constitucional.
 
 ### CAPITULO VI. DE LAS INSCRIPCIONES EN SECCION PRIMERA
 
@@ -1851,7 +1911,9 @@ II.- Usufructo, uso y habitación;
 
 III.- Servidumbres;
 
-IV.- Transacciones, reservas de derechos, condiciones, novaciones y cualesquiera otros que transmitan, modifiquen o extingan la propiedad de los bienes inmuebles o de derechos reales impuestos sobre ellos;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
+
+IV.- Transacciones, reservas de derechos, condiciones, novaciones, fideicomisos y cualesquiera otros que trasmitan, modifiquen o extingan la propiedad de los bienes inmuebles o de derechos reales impuestos sobre ellos;
 
 V.- Resoluciones judiciales en las que se adquiera por cualquier concepto la propiedad de un inmueble;
 
@@ -1897,13 +1959,17 @@ Si se tratare de fincas no inscritas, podrá inscribirse el último título que 
 
 En el caso del artículo anterior, el interesado deberá presentar, para que el registro sea autorizado, cuando menos los títulos de propiedad inmediatamente anteriores a aquél cuyo registro se pretende y que amparen la propiedad de la finca o fincas de que se traten durante los diez años anteriores a la fecha del título presentado.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 319.
 
-Cuando se presente para su registro un título de traslación de dominio de finca ya inscrita, se exigirá el título anterior, a cuyo calce después de la anotación que debe tener, se hará la correspondiente a la traslación, anotándose marginalmente la inscripción o inscripciones relativas.
+Siempre que se inscriba un título en la Sección Primera, relativo a la traslación de dominio de finca ya inscrita, se cancelará la inscripción antecedente.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 320.
 
-Cuando la traslación de dominio se refiera a una fracción de la finca, se registrará la fracción segregada y se anotará la segregación hecha tanto en los documentos que la amparan como en las inscripciones que le corresponden.
+Cuando los títulos inscritos contengan la traslación de dominio de una fracción de la finca ya inscrita, se registrará la fracción segregada y se anotará la segregación hecha a la inscripción antecedente.
 
 ###### ARTICULO 321.
 
@@ -2037,11 +2103,17 @@ X.- Las modificaciones o cancelaciones de los actos que se mencionan en las frac
 
 ### CAPITULO XII. DE LAS CERTIFICACIONES
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+
 ### CAPITULO XIII. DISPOSICIONES GENERALES
 
 ###### ARTICULO 332.
 
-El Encargado del Registro tiene obligación de dar a quien lo solicite certificaciones literales o en lo conducente, de las inscripciones o constancias asentadas en los libros de la Oficina.
+El Jefe de la Oficina del Registro Público tiene obligación de dar a quien lo solicite certificaciones literales o en lo conducente, de las inscripciones o constancias asentadas en los libros de la oficina.
+
+En su caso, las certificaciones expedidas en forma automática por sistemas de cómputo, haciendo mención de lo anterior, se expedirán por el Certificador respectivo.
+
+El Certificador adscrito a una oficina que cuente con sistemas de comunicación con otras Oficinas, vía sistemas de cómputo, estará facultado para expedir certificaciones de constancias existentes en los archivos de aquellas oficinas del Registro Público que también cuenten con dichos sistemas.
 
 ###### ARTICULO 333.
 
@@ -2065,7 +2137,9 @@ Los certificados se expedirán a petición verbal de quien los solicite o por ma
 
 Los libros del Registro serán públicos, pero los interesados en consultarlos se sujetarán a las siguientes prescripciones:
 
-I.- Deberán solicitarse por escrito al Encargado del Registro o al Oficial Auxiliar respectivo, llenando la forma en que se mencione los libros que pretende consultar, el número de las inscripciones y los folios respectivos;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
+
+I.- Deberán solicitarse por escrito al Jefe de la Oficina del Registro Público de la Propiedad o al Oficial Auxiliar respectivo, llenando la forma en que se mencione los libros que pretende consultar, el número de las inscripciones y los folios respectivos;
 
 II.- Sólo podrán mostrarse los libros cuando no se esté realizando trabajo en ellos;
 
@@ -2075,11 +2149,15 @@ IV.- No se podrá exigir de la Oficina otro auxilio distinto que el de la exhibi
 
 V.- Los particulares son directamente responsables de los daños que sufran los libros por el mal trato que les proporcionen;
 
-VI.- El Encargado del Registro o el Oficial Auxiliar puede negar la consulta de los libros a las personas que no cumplan con las prescripciones anteriores.
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
+
+VI.- El Jefe de la Oficina del Registro Público de la Propiedad o el Oficial Auxiliar puede negar la consulta de los libros a las personas que no cumplan con las prescripciones anteriores.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 338.
 
-El Encargado del Registro está facultado para imponer multas hasta de quinientos pesos a la persona que destruya o maltrate los libros o a quienes en cualquier forma falten al orden y respeto debidos a la Oficina, sin perjuicio de hacer la consignación correspondiente al Ministerio Público en los casos en que se cometa alguna infracción antisocial.
+El Jefe de la Oficina del Registro Público de la Propiedad está facultado para imponer multas hasta por el equivalente de un día de salario mínimo general diario de la zona económica de que se trate, a la persona que destruya o maltrate los libros o a quienes en cualquier forma falten al orden y respeto debidos a la Oficina, sin perjuicio de hacer la consignación correspondiente al Ministerio Público en los casos en que se presuma la comisión de un delito.
 
 # LIBRO TERCERO
 
@@ -7255,7 +7333,7 @@ La Junta Local de Caminos se integrará y funcionará con arreglo a las disposic
 
 ###### ARTICULO 1281.
 
-Corresponde al Estado la reglamentación control y vigilancia de la instalación de anuncios u obras con fines de publicidad en las siguientes circunscripciones:
+Corresponde al Estado la reglamentación, control y vigilancia de la instalación de anuncios u obras con fines de publicidad en las siguientes circunscripciones:
 
 a).- En el derecho de vía de los caminos del Estado de Chihuahua:
 
@@ -10840,3 +10918,9 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 En las Juntas Municipales de Agua y Saneamiento, cuyo Consejo Directivo haya cumplido el encargo a la fecha de entrada en vigor del presente Decreto, por el término establecido por el Artículo 1569 del Código Administrativo del Estado, el Consejo se renovará en los términos de este Decreto, contando las autoridades correspondientes para hacer las propuestas, con treinta días naturales a partir de su entrada en vigor.
+
+P.O. 26 DE FEBRERO DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
