@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-division-territorial-del-estado-de-morelos-7051"
 country: "mx"
 rank: "ley"
 publication_date: "1932-12-18"
-last_updated: "1936-05-31"
+last_updated: "1937-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 1936.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 1937.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el domingo 18 de diciembre de 1932.
 
@@ -107,9 +107,11 @@ Corresponden a la jurisdicción del Municipio de Mazatepec, los siguientes centr
 
 Corresponden a la jurisdicción del Municipio de Miacatlán, los siguientes centros de población: Coatetelco, La Mina, Miacatlán Cabecera del Municipio, Palo Grande, Palpan y Tlajotla.
 
+> <small>N. DE E. REFORMADO POR DECRETO NÚMERO 203, PUBLICADO EN EL P.O. DE 31 DE ENERO DE 1937.</small>
+
 ###### Art. 18.
 
-Corresponden a la jurisdicción del Municipio de Ocuituco, los siguientes centros de población: Huecahuasco, Huejotengo, Hueyapan, Jumiltepec, Metepec, Ocoxaltepec, Ocuituco Cabecera del Municipio, Huepacalco, Tetela del Volcán, Tlalmimilulpan y Xochicalco.
+Corresponden a la jurisdicción del Municipio de Ocuituco, los siguientes centros de población: Huecahuasco, Huejotengo, Jumiltepec, Metepec, Ocoxaltepec, Ocuituco Cabecera del Municipi, Huepacalco.
 
 ###### Art. 19.
 
@@ -128,6 +130,10 @@ Corresponden a la jurisdicción del Municipio de Tepoztlán, los siguientes cent
 ###### Art. 22.
 
 Corresponden a la jurisdicción del Municipio de Tetecala, los siguientes centros de población: Actopan, Contlalco, Cuautlita y Tetecala Cabecera del Municipio.
+
+> <small>N. DE E. ADICIONADO POR DECRETO NÚMERO 203, PUBLICADO EN EL P.O. DE 31 DE ENERO DE 1937.</small>
+
+Art. s/n. Corresponden a la jurisdicción del Municipio de Tetela del Volcán los siguientes centros de población: Hueyapan, Xochicalco y Taimilulpan, siendo cabecera del Municipio el citado pueblo de Tetela del Volcán.
 
 ###### Art. 23.
 
@@ -198,3 +204,11 @@ Unico.- El presente Decreto entrará en vigor desde la fecha de su publicación 
 P.O. 31 DE MAYO DE 1936.
 
 Unico.- El presente Decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE ENERO DE 1937.
+
+Primero.- Para integrar el Consejo Municipal respectivo en el nuevo Municipio de Tetela del Volcán, Morelos, quedan nombrados los ciudadanos Faustino Montero, Trinidad Ariza y Emilio Canizal, con el carácter de Regidores Propietarios, y los ciudadanos Gil Aguilar, J. Guadalupe Jiménez y Agustín Pérez, como Regidores Suplentes.
+
+Segundo.- Los ciudadanos designados como Regidores para integrar el H. Consejo Municipal relativo, tomarán posesión de sus cargos el día siguiente a la fecha de la publicación del presente Decreto en el Periódico Oficial del Estado.
+
+Tercero.- Se convoca a Elecciones Extraordinarias en el Municipio de Tetela del Volcán, Morelos, las que se sujetarán a los términos y plazos que marca la Ley Electoral Municipal vigente y sus reformas, para las Elecciones Ordinarias, contándose desde la fecha en que empiece a funcionar el H. Concejo Municipal designado.
