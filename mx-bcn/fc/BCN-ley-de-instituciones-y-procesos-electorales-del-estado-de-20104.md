@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-instituciones-y-procesos-electorales-del-estado-de-20104
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-30"
-last_updated: "2000-10-30"
+last_updated: "2003-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2003.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 30 de octubre de 2000.
 
@@ -231,9 +231,11 @@ Los órganos electorales competentes podrán eximir al ciudadano de cumplir con 
 
 ### CAPÍTULO PRIMERO. DE LAS ELECCIONES ORDINARIAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
 ###### ARTÍCULO 20.
 
-Las elecciones ordinarias deberán celebrarse el segundo domingo del mes de julio del año que corresponda, para elegir:
+Las elecciones ordinarias deberán celebrarse el primer domingo del mes de agosto del año que corresponda, para elegir:
 
 I. Gobernador Constitucional, cada seis años;
 
@@ -1303,9 +1305,11 @@ El convenio de coalición deberá presentarse para su registro ante el Consejo E
 
 En caso de elecciones extraordinarias, se estará al plazo que para el registro de candidaturas señale la convocatoria respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
 ###### ARTÍCULO 103.
 
-El Consejo Estatal Electoral, una vez recibido el convenio a que se refiere el Artículo anterior, integrará expediente y resolverá a más tardar dentro de los cinco días que le sigan, a la fecha en que se presente el convenio para su respectivo registro.
+El Consejo Estatal Electoral, una vez recibido el convenio a que se refiere el Artículo anterior, integrará expediente y resolverá a más tardar el día diecinueve de febrero del año de la elección, sobre su solicitud.
 
 De aprobarse el convenio, se notificará de inmediato a la coalición interesada, ordenando su publicación en el Periódico Oficial del Estado y en los diarios de mayor circulación en la entidad, dentro de los tres días siguientes a la fecha en que se apruebe.
 
@@ -1461,9 +1465,11 @@ Dentro de los cinco días siguientes a la toma de protesta ante el Congreso del 
 
 Si transcurridas tres rondas de votaciones ninguno de los Consejeros alcanzare la votación requerida, la elección se hará por mayoría calificada del Congreso del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
 ###### ARTÍCULO 119.
 
-El Consejo Estatal Electoral se reunirá el veintinueve de enero del año de la elección, a efecto de celebrar sesión de instalación en la que procederá a:
+El Consejo Estatal Electoral se reunirá el catorce de febrero del año de la elección, a efecto de celebrar sesión de instalación en la que procederá a:
 
 I. Rendir protesta de Ley al Consejero Presidente;
 
@@ -1975,9 +1981,11 @@ Los Secretarios Fedatarios de los Consejos Distritales Electorales, además de c
 
 Diez días antes de la fecha de instalación de los Consejos Distritales Electorales, el Consejo Estatal Electoral celebrará sesión a efecto de tomar la protesta de Ley correspondiente al Consejero Presidente de cada uno de los Consejos Distritales Electorales, expidiéndoles la constancia correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
 ###### ARTÍCULO 144.
 
-El Consejero Presidente del Consejo Distrital que corresponda, convocará por escrito a la sesión de instalación a más tardar el veinticuatro de febrero del año de la elección, con el objeto de preparar el proceso electoral procediendo, previa recepción de las acreditaciones de los Consejeros Ciudadanos y representantes de partidos políticos, en dicha sesión a:
+El Consejero Presidente del Consejo Distrital que corresponda, convocará por escrito a la sesión de instalación a más tardar el once de marzo del año de la elección, con el objeto de preparar el proceso electoral procediendo, previa recepción de las acreditaciones de los Consejeros Ciudadanos y representantes de partidos políticos, en dicha sesión a:
 
 I. Tomar la protesta de Ley a los Consejeros Ciudadanos numerarios y supernumerarios; así como a los representantes de los partidos políticos;
 
@@ -2259,7 +2267,9 @@ IV. Las demás que disponga esta Ley.
 
 El Congreso del Estado elegirá a los siete Consejeros Ciudadanos numerarios y a los dos supernumerarios del Consejo Estatal Electoral, mediante el voto de las dos terceras partes de sus integrantes, de conformidad con las siguientes bases:
 
-I. Emitirá, a más tardar sesenta días antes de la fecha de instalación del Consejo Estatal Electoral, convocatoria dirigida a los ciudadanos residentes en el Estado, a efecto de que se presenten como aspirantes a integrar dicho órgano, publicándola en el Periódico Oficial del Estado y en los diarios de mayor circulación;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2003)</small>
+
+I. Emitirá, a más tardar noventa días antes de la fecha de instalación del Consejo Estatal Electoral, convocatoria dirigida a los ciudadanos residentes en el Estado, a efecto de que se presenten como aspirantes a integrar dicho órgano, publicándola en el Periódico Oficial del Estado y en los diarios de mayor circulación;
 
 II. La convocatoria deberá contener, por lo menos, el plazo de la inscripción, requisitos a cubrir por los aspirantes y procedimiento a que se sujetarán las comparecencias ante el Congreso;
 
@@ -2755,7 +2765,7 @@ Al ciudadano que le sea negada la inscripción al Padrón Estatal Electoral, pod
 
 ###### ARTÍCULO 199.
 
-La Dirección General del Registro Estatal de Electores, realizará anualmente, a partir del dieciséis de octubre y hasta el veintinueve de enero siguiente, una campaña intensiva de actualización del Catálogo General de Electores y del Padrón Estatal Electoral, convocando y orientando a la ciudadanía a cumplir con las obligaciones siguientes, según corresponda:
+La Dirección General del Registro Estatal de Electores, realizará anualmente, a partir del dieciséis de octubre y hasta el catorce de febrero siguiente, una campaña intensiva de actualización del Catálogo General de Electores y del Padrón Estatal Electoral, convocando y orientando a la ciudadanía a cumplir con las obligaciones siguientes, según corresponda:
 
 I. Acudir ante las oficinas de la Dirección General o a los lugares que ésta determine, para ser incorporado al Catálogo General de Electores, el ciudadano que:
 
@@ -2795,13 +2805,17 @@ Los partidos políticos coadyuvarán con el Instituto Estatal Electoral en las t
 
 Los ciudadanos que durante el período de actualización acudan a darse de alta o a dar aviso de cambio de domicilio, o bien que durante la aplicación de la técnica censal sean requeridos por el personal de la Dirección General del Registro Estatal de Electores, tendrán la obligación de señalar el domicilio en que hubieren sido registrados con anterioridad, y en su caso, firmar y poner la huella digital en los documentos para la actualización respectiva.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
 ###### ARTÍCULO 201.
 
-Los ciudadanos podrán solicitar su incorporación en el Catálogo General de Electores, o en su caso, su inscripción o rectificación al Padrón Estatal Electoral en períodos distintos a los de actualización a que se refiere el Artículo 199 de esta Ley, desde el día siguiente al de la última elección ordinaria efectuada y hasta el día veintinueve de enero del año de la próxima elección ordinaria a celebrarse.
+Los ciudadanos podrán solicitar su incorporación en el Catálogo General de Electores, o en su caso, su inscripción o rectificación al Padrón Estatal Electoral en períodos distintos a los de actualización a que se refiere el Artículo 199 de esta Ley, desde el día siguiente al de la última elección ordinaria efectuada y hasta el día catorce de febrero del año de la próxima elección ordinaria a celebrarse.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
 
 ###### ARTÍCULO 202.
 
-Los residentes en el Estado que en el año de la elección cumplan dieciocho años de edad, entre el dieciséis de enero y el día de la elección deberán solicitar su inscripción, a más tardar el día veintinueve de enero.
+Los residentes en el Estado que en el año de la elección cumplan dieciocho años de edad, entre el dieciséis de enero y el día de la elección deberán solicitar su inscripción, a más tardar el día catorce de febrero.
 
 ###### ARTÍCULO 203.
 
@@ -2812,6 +2826,8 @@ Cuando el ciudadano solicite modificación por cambio de domicilio deberá exhib
 Al recibir el ciudadano la Credencial Estatal actualizada, deberá entregar la anterior, la cual será inutilizada de inmediato, para su posterior destrucción.
 
 ### CAPÍTULO CUARTO. DE LA ACTUALIZACIÓN DEL CATÁLOGO GENERAL DE ELECTORES Y DEL PADRÓN ESTATAL ELECTORAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2003)</small>
 
 ###### ARTÍCULO 204.
 
@@ -2829,17 +2845,21 @@ Las solicitudes de inscripción realizadas por los ciudadanos que no cumplan con
 
 En el supuesto a que se refiere el párrafo anterior, la Dirección General, elaborará relaciones con los nombres de los ciudadanos cuyas solicitudes hubiesen sido canceladas, clasificándolas por sección electoral y alfabéticamente, a fin de que sean entregadas a los representantes de los partidos políticos acreditados ante la Comisión Estatal de Vigilancia, a más tardar el día quince de noviembre de cada año, para su conocimiento y observaciones.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
 ###### ARTÍCULO 207.
 
-Las relaciones a que se refiere el Artículo 206 de esta Ley, serán exhibidas desde el día dieciséis de noviembre y hasta el día veintinueve de enero del año siguiente en las oficinas o módulos de la Dirección General del Registro Estatal de Electores y en los lugares públicos que previamente determine la Comisión Estatal de Vigilancia, a fin de que surtan efectos de notificación por estrados a los ciudadanos interesados y que éstos tengan la posibilidad de solicitar nuevamente su inscripción en el Padrón Estatal Electoral durante el plazo para la campaña intensiva a que se refiere el Artículo 199 de esta Ley.
+Las relaciones a que se refiere el Artículo 206 de esta Ley, serán exhibidas desde el día dieciséis de noviembre y hasta el día catorce de febrero del año siguiente en las oficinas o módulos de la Dirección General del Registro Estatal de Electores y en los lugares públicos que previamente determine la Comisión Estatal de Vigilancia, a fin de que surtan efectos de notificación por estrados a los ciudadanos interesados y que éstos tengan la posibilidad de solicitar nuevamente su inscripción en el Padrón Estatal Electoral durante el plazo para la campaña intensiva a que se refiere el Artículo 199 de esta Ley.
 
 ###### ARTÍCULO 208.
 
 Cuando corresponda a un año electoral y se esté en los supuestos previstos en los artículos 206 y 207 de esta Ley, y el ciudadano no ha modificado sus datos, el formato de Credencial Estatal de Elector no será destruido, se suspenderá el trámite señalado en el Artículo 209 de esta Ley, y se conservará a disposición del ciudadano hasta el último día señalado en esta Ley para la entrega de credenciales.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
 ###### ARTÍCULO 209.
 
-Los formatos de las credenciales de los ciudadanos cuya solicitud haya sido cancelada en los términos de los artículos 206 y 207 de esta Ley, serán inutilizados, para su posterior destrucción, a más tardar el día quince de febrero de cada año, bajo la supervisión de la Comisión Estatal de Vigilancia.
+Los formatos de las credenciales de los ciudadanos cuya solicitud haya sido cancelada en los términos de los artículos 206 y 207 de esta Ley, serán inutilizados, para su posterior destrucción, a más tardar el último día del mes de febrero de cada año, bajo la supervisión de la Comisión Estatal de Vigilancia.
 
 ###### ARTÍCULO 210.
 
@@ -2885,7 +2905,9 @@ Asimismo, la Dirección General del Registro Estatal de Electores recabará de l
 
 La Dirección General del Registro Estatal de Electores revisará periódicamente el grado de depuración y actualización del Padrón Estatal Electoral, y aplicará las medidas conducentes para preservar su máxima confiabilidad.
 
-La depuración y actualización del Padrón Estatal Electoral deberá suspenderse a más tardar el día veintinueve de enero del año de la elección.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
+La depuración y actualización del Padrón Estatal Electoral deberá suspenderse a más tardar el día catorce de febrero del año de la elección.
 
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
 
@@ -2915,9 +2937,11 @@ La Lista se formulará por distrito y por secciones electorales, ordenados alfab
 
 La lista Nominal será puesta a disposición de los partidos políticos y de los ciudadanos para su revisión, y en su caso, para que formulen las observaciones que estimen pertinentes, de acuerdo al procedimiento y plazo que señala el Artículo siguiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
 ###### ARTÍCULO 220.
 
-La Dirección General del Registro Estatal de Electores entregará a sus delegaciones municipales las Listas Nominales de Electores básicas sin imagen para ser exhibidas, a más tardar el día treinta de abril; serán fijadas en lugares públicos por quince días contados a partir de la fecha de su recepción, a efecto de que los partidos políticos a través de las Comisiones de Vigilancia y los ciudadanos, presenten de manera individualizada y circunstanciada ante la delegación respectiva, las observaciones que sobre la misma hagan.
+La Dirección General del Registro Estatal de Electores entregará a sus delegaciones municipales las Listas Nominales de Electores básicas sin imagen para ser exhibidas, a más tardar el día dieciséis de mayo; serán fijadas en lugares públicos por quince días contados a partir de la fecha de su recepción, a efecto de que los partidos políticos a través de las Comisiones de Vigilancia y los ciudadanos, presenten de manera individualizada y circunstanciada ante la delegación respectiva, las observaciones que sobre la misma hagan.
 
 Los partidos políticos tienen derecho a obtener por conducto de sus representantes ante la Comisión Estatal de Vigilancia, copia en medios magnéticos a partir de su exhibición, o en papel en fecha posterior.
 
@@ -2937,17 +2961,23 @@ I. Habiendo obtenido oportunamente su Credencial Estatal de Elector, no aparezca
 
 II. Sin haber obtenido su Credencial Estatal de Elector, haya sido incluido.
 
-En los supuestos anteriores se podrá presentar solicitud de rectificación, a más tardar el catorce de mayo del año de la elección.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
+En los supuestos anteriores se podrá presentar solicitud de rectificación, a más tardar el treinta de mayo del año de la elección.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
 
 ###### ARTÍCULO 223.
 
-Cualquier ciudadano o partido político podrá gestionar en forma individualizada y circunstanciada, hasta el día catorce de mayo del año del proceso electoral, las modificaciones a las Listas Nominales de Electores ante la Dirección General del Registro Estatal de Electores, por cualquiera de las causas enunciadas en el artículo anterior, siempre y cuando estas sean debidamente comprobadas.
+Cualquier ciudadano o partido político podrá gestionar en forma individualizada y circunstanciada, hasta el día treinta de mayo del año del proceso electoral, las modificaciones a las Listas Nominales de Electores ante la Dirección General del Registro Estatal de Electores, por cualquiera de las causas enunciadas en el artículo anterior, siempre y cuando éstas sean debidamente comprobadas.
 
 ###### ARTÍCULO 224.
 
 Las Listas Nominales de Electores Complementarias sin imagen contendrán únicamente los nombres de los ciudadanos cuyas observaciones a las Listas Nominales de Electores Básicas sin imagen, hubieren procedido.
 
-Cuando las observaciones fueran procedentes, la Dirección General del Registro Estatal de Electores, a más tardar el diecinueve de mayo del año de la elección, entregará a las delegaciones municipales las Listas Nominales de Electores Complementarias sin imagen, para ser exhibidas en lugares públicos por diez días, a efecto de que los partidos políticos a través de las Comisiones de Vigilancia, y los ciudadanos presenten ante la delegación respectiva, las observaciones concretas e individualizadas que sobre las mismas hagan.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
+Cuando las observaciones fueran procedentes, la Dirección General del Registro Estatal de Electores, a más tardar el cuatro de junio del año de la elección, entregará a las delegaciones municipales las Listas Nominales de Electores Complementarias sin imagen, para ser exhibidas en lugares públicos por diez días, a efecto de que los partidos políticos a través de las Comisiones de Vigilancia, y los ciudadanos presenten ante la delegación respectiva, las observaciones concretas e individualizadas que sobre las mismas hagan.
 
 En caso de no haber observaciones o éstas fueran improcedentes, no se requerirá la elaboración y exhibición, de las Listas Nominales de Electores Complementarias sin imagen.
 
@@ -2955,21 +2985,27 @@ En caso de no haber observaciones o éstas fueran improcedentes, no se requerir�
 
 Las Listas Nominales de Electores Básicas con imagen, serán elaboradas a partir de la conclusión del período de exhibición de las Listas Nominales de Electores Básicas sin imagen, y en caso de que proceda la elaboración y exhibición de las Listas Nominales de Electores Complementarias sólo se modificará la Lista Nominal Básica con imagen, en aquellas partes en que haya procedido alguna observación, o de resultar conveniente, se anexarán las hojas correspondientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
 ###### ARTÍCULO 226.
 
-A más tardar el día ocho de junio del año en que se celebre el proceso electoral ordinario, la Dirección General del Registro Estatal de Electores entregará, en medios magnéticos, previa solicitud, a cada uno de los representantes propietarios de los partidos políticos acreditados ante la Comisión Estatal de Vigilancia, copia de las Listas Nominales de Electores, ordenadas alfabéticamente y por secciones, correspondientes a cada uno de los distritos electorales, de todos aquellos ciudadanos que hubiesen obtenido su Credencial Estatal de Elector al día veinticuatro de abril anterior.
+A más tardar el día veinticuatro de junio del año en que se celebre el proceso electoral ordinario, la Dirección General del Registro Estatal de Electores entregará, en medios magnéticos, previa solicitud, a cada uno de los representantes propietarios de los partidos políticos acreditados ante la Comisión Estatal de Vigilancia, copia de las Listas Nominales de Electores, ordenadas alfabéticamente y por secciones, correspondientes a cada uno de los distritos electorales, de todos aquellos ciudadanos que hubiesen obtenido su Credencial Estatal de Elector al día once de mayo anterior.
 
 Las Listas Nominales de Electores que se entreguen a los partidos políticos serán para su uso exclusivo y no podrán destinarlas a finalidad u objeto distinto al de su revisión.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
 ###### ARTÍCULO 227.
 
-A más tardar el día ocho de junio del año de la elección, el Director General del Registro Estatal de Electores informará al Consejero Presidente del Consejo Estatal Electoral, del estado que guardan las Listas Nominales de Electores, para que en un plazo no mayor de cinco días, éste convoque al Consejo a efecto de que una vez sometidos a su consideración se declare, en su caso, que el Padrón Estatal Electoral y el Listado Nominal de Electores son válidos y definitivos.
+A más tardar el día veinticuatro de junio del año de la elección, el Director General del Registro Estatal de Electores informará al Consejero Presidente del Consejo Estatal Electoral, del estado que guardan las Listas Nominales de Electores, para que en un plazo no mayor de cinco días, éste convoque al Consejo a efecto de que una vez sometidos a su consideración se declare, en su caso, que el Padrón Estatal Electoral y el Listado Nominal de Electores son válidos y definitivos.
 
 Los representantes propietarios de los partidos políticos, acreditados ante la Comisión Estatal de Vigilancia obtendrán de la Dirección General del Registro Estatal de Electores copia en papel del Listado Nominal de Electores, una vez que las mismas hayan sido declaradas válidas y definitivas.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
 ###### ARTÍCULO 228.
 
-La Dirección General del Registro, una vez aprobado el Padrón Estatal Electoral y el Listado Nominal de Electores, señalados en el Artículo 227 de esta Ley, ordenará la impresión de las Listas Nominales de Electores con imagen por distrito y por sección electoral, para su entrega al Consejo Estatal Electoral, a más tardar el día veintiséis de junio del año de la elección.
+La Dirección General del Registro, una vez aprobado el Padrón Estatal Electoral y el Listado Nominal de Electores, señalados en el Artículo 227 de esta Ley, ordenará la impresión de las Listas Nominales de Electores con imagen por distrito y por sección electoral, para su entrega al Consejo Estatal Electoral, a más tardar el día doce de julio del año de la elección.
 
 ###### ARTÍCULO 229.
 
@@ -2979,7 +3015,9 @@ Las Listas Nominales de Electores con imagen, se integrarán con los mismos dato
 
 La Dirección General del Instituto Estatal Electoral, distribuirá las Listas Nominales de Electores con imagen a los Consejeros Presidentes de los Consejos Distritales Electorales, para que éstos, con apoyo de la Dirección de Organización, los hagan llegar a cada uno de los Presidentes de las Mesas Directivas de Casilla, dentro de los cinco días anteriores al de la jornada electoral.
 
-El Consejo Estatal Electoral, a más tardar el veintiséis de junio del año de la elección, determinará a propuesta de la Comisión Estatal de Vigilancia, el procedimiento mediante el cual los partidos políticos podrán cotejar las Listas Nominales de Electores con imagen en los Consejos Distritales Electorales.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
+El Consejo Estatal Electoral, a más tardar el doce de julio del año de la elección, determinará a propuesta de la Comisión Estatal de Vigilancia, el procedimiento mediante el cual los partidos políticos podrán cotejar las Listas Nominales de Electores con imagen en los Consejos Distritales Electorales.
 
 El cotejo a que se refiere el párrafo anterior, deberá realizarse a más tardar diez días antes de la jornada electoral.
 
@@ -3061,13 +3099,17 @@ El duplicado de la Credencial podrá sustituir, en caso de que el Consejo Estata
 
 El ciudadano al recibir su Credencial Estatal de Elector, deberá presentar ante el funcionario electoral, identificación con fotografía cuyo tipo sea aprobado por la Comisión Estatal de Vigilancia, verificando que todos los datos estén correctos, y en caso de conformidad procederá a firmarla y poner su huella digital, debiendo el funcionario electoral conservar constancia de entrega de la Credencial, con la referencia de los medios de identificación.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
 ###### ARTÍCULO 235.
 
-Los ciudadanos que habiendo cumplido con los requisitos y trámites correspondientes para obtener su Credencial Estatal de Elector, tendrán hasta el día veinticuatro de abril del año de la elección para recogerla.
+Los ciudadanos que habiendo cumplido con los requisitos y trámites correspondientes para obtener su Credencial Estatal de Elector, tendrán hasta el día once de mayo del año de la elección para recogerla.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2003)</small>
 
 ###### ARTÍCULO 236.
 
-Los ciudadanos que hayan extraviado su Credencial Estatal de Elector, o esté deteriorada, deberán solicitar su correspondiente reposición, a la que se le inscribirá la palabra "reposición", a más tardar el día primero de marzo del año de la elección.
+Los ciudadanos que hayan extraviado su Credencial Estatal de Elector, o esté deteriorada, deberán solicitar su correspondiente reposición, a la que se le inscribirá la palabra "reposición", a más tardar el día diecisiete de marzo del año de la elección.
 
 Si el extravío o el deterioro de la credencial, ocurre con posterioridad a la fecha indicada en el párrafo anterior, el ciudadano también podrá solicitar la reposición, y si le es negada se estará a lo dispuesto por el Artículo 421 de esta Ley.
 
@@ -3079,9 +3121,11 @@ La resolución recaída a la solicitud será notificada personalmente al ciudada
 
 En contra de la resolución que declare improcedente la solicitud o la falta de respuesta en tiempo, procederá el recurso de inconformidad. Para tal efecto, los ciudadanos interesados tendrán a su disposición, en las oficinas de la Dirección General del Registro Estatal de Electores, los formatos necesarios para la interposición del recurso.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
 ###### ARTÍCULO 238.
 
-El período para expedir y entregar la Credencial Estatal de Elector concluirá el veinticuatro de abril del año de la elección.
+El período para expedir y entregar la Credencial Estatal de Elector concluirá el once de mayo del año de la elección.
 
 ###### ARTÍCULO 239.
 
@@ -3103,7 +3147,9 @@ El Consejo Estatal Electoral, con base en el calendario que apruebe, ordenará l
 
 Las auditorías las harán personas físicas o morales especializadas en el ramo, y se adjudicarán mediante el procedimiento de licitación pública que acuerde el Consejo Estatal Electoral.
 
-La auditoría, previa al proceso, deberá terminarse a más tardar el día tres de junio.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
+La auditoría, previa al proceso, deberá terminarse a más tardar el día diecinueve de junio.
 
 ###### ARTÍCULO 242.
 
@@ -3429,17 +3475,21 @@ III. La de Gobernador del Estado, será unipersonal.
 
 Los propietarios y suplentes de la fórmula de Diputados y de la planilla de Munícipes, a elegirse por el principio de mayoría relativa y por el principio de representación proporcional, serán considerados separadamente, salvo para los efectos del voto validamente emitidos.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
 ###### ARTÍCULO 282.
 
-Para el registro de candidaturas a todo cargo de elección popular, el partido político o coalición postulante deberá presentar y obtener el registro de la Plataforma Electoral que los candidatos sostendrán en las campañas políticas, a partir del día quince y hasta el veintinueve de marzo del año de la elección. De cualquier cambio o modificación, los partidos políticos o coaliciones deberán dar aviso, antes del inicio de las campañas.
+Para el registro de candidaturas a todo cargo de elección popular, el partido político o coalición postulante deberá presentar y obtener el registro de la Plataforma Electoral que los candidatos sostendrán en las campañas políticas, a partir del día treinta y uno de marzo y hasta el catorce de abril del año de la elección. De cualquier cambio o modificación, los partidos políticos o coaliciones deberán dar aviso, antes del inicio de las campañas.
 
 ###### ARTÍCULO 283.
 
 Los partidos políticos o coaliciones no podrán registrar en el mismo proceso electoral, a un mismo ciudadano para diferentes cargos de elección popular.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
 ###### ARTÍCULO 284.
 
-Los partidos políticos o coaliciones, a partir del día veintiuno de abril y hasta el cinco de mayo del año de la elección, deberán presentar la solicitud de registro de candidaturas, en los siguientes términos:
+Los partidos políticos o coaliciones, a partir del día siete al veintiuno de mayo del año de la elección, deberán presentar la solicitud de registro de candidaturas, en los siguientes términos:
 
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
 
@@ -3599,15 +3649,19 @@ Los Partidos Políticos podrán incluir dentro de sus gastos de campaña, los re
 
 No se considerarán para los topes de campaña, los gastos que realicen los partidos políticos para la operación ordinaria de sus órganos directivos, así como de sus organizaciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
 ###### ARTÍCULO 294.
 
-El Consejo Estatal Electoral, a más tardar el día veinticuatro de marzo del año de la elección, aprobará los topes máximos de gastos de campaña que pueda erogar cada partido político o coalición, en cada una de las elecciones, de la propuesta que le haya presentado la Dirección General del Instituto Estatal Electoral, bajo las siguientes reglas:
+El Consejo Estatal Electoral, a más tardar el día nueve de abril del año de la elección, aprobará los topes máximos de gastos de campaña que pueda erogar cada partido político o coalición, en cada una de las elecciones, de la propuesta que le haya presentado la Dirección General del Instituto Estatal Electoral, bajo las siguientes reglas:
 
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
 
 I. Determinará el valor unitario del voto, mediante el siguiente procedimiento:
 
-a) Obtendrá un factor de actualización, dividiendo el Indice Nacional de Precios al Consumidor del mes de enero del año de la elección entre Indice Nacional de Precios al Consumidor del mes de marzo del año del proceso electoral inmediato anterior;
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
+a) Obtendrá un factor de actualización, dividiendo el Indice Nacional de Precios al Consumidor del mes de enero del año de la elección entre Indice Nacional de Precios al Consumidor del mes de abril del año del proceso electoral inmediato anterior;
 
 b) Al resultado obtenido en el inciso anterior se le restará la unidad, la diferencia se dividirá entre dos y se añadirá nuevamente la unidad, y
 
@@ -3815,9 +3869,9 @@ El Consejo Distrital Electoral acordará, cuando las condiciones geográficas de
 
 El procedimiento de integración de las Mesas Directivas de Casilla, será el siguiente:
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2003)</small>
 
-I. Del quince al veinticuatro de marzo del año de la elección, los Consejos Distritales Electorales procederán a sortear a un quince por ciento de los ciudadanos de cada sección electoral que se encuentren comprendidos en la Lista Nominal de Electores, con corte al último día del mes de febrero del mismo año, y
+I. Del treinta y uno de marzo al nueve de abril del año de la elección, los Consejos Distritales Electorales procederán a sortear a un quince por ciento de los ciudadanos de cada sección electoral que se encuentren comprendidos en la Lista Nominal de Electores, con corte al dieciséis de marzo del mismo año, y
 
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
 
@@ -3827,15 +3881,19 @@ El procedimiento de sorteo y las bases de la convocatoria pública, serán deter
 
 El Consejo Distrital Electoral que corresponda, se apoyará para efectos de realizar el sorteo, en la Dirección General del Registro Estatal de Electores, en el que estará presente la Comisión que el Consejo designe, así como la Comisión Estatal de Vigilancia de la Dirección General del Registro Estatal de Electores, según el calendario que previamente determine el Consejo Estatal Electoral.
 
-Los ciudadanos que hayan sido seleccionados bajo cualquiera de las modalidades anteriores, recibirán cursos de capacitación e instrucción electoral, por parte de la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica, dentro del período comprendido del veintinueve de marzo al once de junio del año de la elección, para el desempeño de cualquiera de las funciones que corresponda a las Mesas Directivas de Casilla.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
+Los ciudadanos que hayan sido seleccionados bajo cualquiera de las modalidades anteriores, recibirán cursos de capacitación e instrucción electoral, por parte de la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica, dentro del período comprendido del catorce de abril al veintisiete de junio del año de la elección, para el desempeño de cualquiera de las funciones que corresponda a las Mesas Directivas de Casilla.
 
 ###### ARTÍCULO 316.
 
 Los Consejos Distritales Electorales, en el ámbito de su competencia, tendrán a su cargo la ejecución de los procedimientos a que se refiere el Artículo 315 de esta Ley; para dicho fin se apoyarán en las Direcciones Generales del Instituto Estatal Electoral. Asimismo, determinarán con base en el informe que proporcione la Dirección de Capacitación Electoral y Educación Cívica, los ciudadanos que integrarán las Mesas Directivas de Casilla, así como las funciones que desempeñará cada uno de ellos, tomando en cuenta su escolaridad e idoneidad.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
 ###### ARTÍCULO 317.
 
-Los Consejos Distritales Electorales, harán una evaluación objetiva para seleccionar de entre dichos ciudadanos a los que resulten aptos, a más tardar el dieciséis de junio del año de la elección.
+Los Consejos Distritales Electorales, harán una evaluación objetiva para seleccionar de entre dichos ciudadanos a los que resulten aptos, a más tardar el dos de julio del año de la elección.
 
 ###### ARTÍCULO 318.
 
@@ -3867,9 +3925,11 @@ V. Locales destinados a la venta o consumo de bebidas embriagantes.
 
 Para la ubicación de las casillas se preferirán, los locales ocupados por escuelas y oficinas públicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
 ###### ARTÍCULO 320.
 
-Los Consejos Distritales Electorales aprobarán el programa de actividades para la ubicación de casillas, el cual deberá implementarse del veintinueve de abril al catorce de mayo del año de la elección, de conformidad con el siguiente procedimiento:
+Los Consejos Distritales Electorales aprobarán el programa de actividades para la ubicación de casillas, el cual deberá implementarse del quince al treinta de mayo del año de la elección, de conformidad con el siguiente procedimiento:
 
 I. La Dirección de Organización Electoral, propondrá al Consejo Distrital Electoral que corresponda, dos o más lugares de ubicación de cada casilla;
 
@@ -3877,7 +3937,9 @@ II. Los Consejos Distritales designarán comisiones que recorran las secciones d
 
 III. Las Comisiones presentarán ante los Consejos Distritales, un dictamen conteniendo la lista de lugares que se proponen para ubicar las casillas.
 
-Los Consejos Distritales Electorales en sesión que celebren a más tardar el día catorce de mayo del año de la elección, aprobarán el dictamen de ubicación de casillas.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
+Los Consejos Distritales Electorales en sesión que celebren a más tardar el día treinta de mayo del año de la elección, aprobarán el dictamen de ubicación de casillas.
 
 Los Consejos Distritales Electorales podrán hacer modificaciones a la lista preliminar de ubicación de las Mesas Directivas de Casilla, siempre y cuando se justifique plenamente y se realicen hasta una semana antes del día de la elección, debiendo aparecer las modificaciones, en la publicación de la lista definitiva.
 
@@ -4327,9 +4389,11 @@ Los Presidentes de las Mesas Directivas de Casilla conservarán bajo su responsa
 
 ### CAPÍTULO PRIMERO. DE LA INSTALACIÓN Y APERTURA DE CASILLAS
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+
 ###### ARTÍCULO 346.
 
-El segundo domingo de julio del año de la elección ordinaria, a las 07:30 horas, los ciudadanos Presidente, Secretario y escrutadores de las Mesas Directivas de Casilla, procederán a la instalación de la casilla en presencia de los representantes de los partidos políticos que concurran.
+El primer domingo de agosto del año de la elección ordinaria, a las 07:30 horas, los ciudadanos Presidente, Secretario y escrutadores de las Mesas Directivas de Casilla, procederán a la instalación de la casilla en presencia de los representantes de los partidos políticos que concurran.
 
 ###### ARTÍCULO 347.
 
@@ -6264,3 +6328,29 @@ LIC. ALEJANDRO GONZALEZ ALCOCER
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C.P. JORGE RAMOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 28 DE OCTUBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El Presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado, con excepción de la reforma al artículo 294, misma que entrará en vigor el día 2 de agosto del 2004.
+
+###### ARTÍCULO SEGUNDO.
+
+Para la elección de Consejeros Ciudadanos que integrarán el Consejo Estatal Electoral y de los Magistrados que conformarán el Tribunal de Justicia Electoral del Poder Judicial del Estado, el Congreso del Estado expedirá las convocatorias respectivas, a más tardar (sic) veinte de noviembre del 2003.
+
+> <small>(F. DE E., P.O. 2 DE ENERO DE 2004)</small>
+
+###### ARTÍCULO TERCERO.
+
+Los Consejeros Ciudadanos del Consejo Estatal electoral, se elegirán a más tardar el día veinte de diciembre del 2003, conforme al procedimiento previsto, y entrarán en funciones el día ocho de enero del 2004, salvo que se produzca renuncia de aquél o aquellos que fueron nombrados conforme a esta Ley, caso en el cual se nombrará el Consejero o Consejeros inmediatamente después de que se produzca la vacante.
+
+###### ARTÍCULO CUARTO.
+
+Los Partidos políticos que a la fecha de entrada en vigor de las presentes reformas hayan registrado e iniciado sus procesos internos de selección de candidatos se ajustarán a la norma vigente anterior a esta reforma. Los informes financieros deberán contener los ingresos y egresos correspondientes, desde el inicio de su precampaña y hasta su conclusión.
+
+###### ARTÍCULO QUINTO.
+
+Los reglamentos interiores de los Consejos Electorales y de las Direcciones Generales del Instituto Estatal Electoral en vigor, deberán adecuarse, a más tardar en el mes de marzo del 2004.
