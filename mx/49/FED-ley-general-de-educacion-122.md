@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2004-12-10"
+last_updated: "2005-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 2005.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -334,15 +334,21 @@ Los beneficiados directamente por los servicios educativos deberán prestar serv
 
 #### Sección 3.- Del financiamiento a la educación
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 25.
 
-El Ejecutivo Federal y gobierno de cada entidad federativa, con sujeción a las disposiciones de ingresos y gasto público correspondientes que resulten aplicables, concurrirán al financiamiento de la educación publica y de los servicios educativos. El monto anual que el Estado- Federación, entidades federativas y municipios-, destine al gasto en la educación pública y en los servicios educativos, no podrá ser menor a 8% del producto interno bruto del país, destinado a este monto, al menos el 1% del producto interno bruto a la investigación científica y al desarrollo tecnológico en las instituciones de Educación Superior Públicas.
+El Ejecutivo Federal y el gobierno de cada entidad federativa, con sujeción a las disposiciones de ingresos y gasto público correspondientes que resulten aplicables, concurrirán al financiamiento de la educación pública y de los servicios educativos. El monto anual que el Estado -Federación, entidades federativas y municipios-, destine al gasto en educación pública y en los servicios educativos, no podrá ser menor a ocho por ciento del producto interno bruto del país, destinado de este monto, al menos el 1% del producto interno bruto a la investigación científica y al desarrollo tecnológico en las Instituciones de Educación Superior Públicas. En la asignación del presupuesto a cada uno de los niveles de educación, se deberá dar la continuidad y la concatenación entre los mismos, con el fin de que la población alcance el máximo nivel de estudios posible.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 Los recursos federales recibidos para ese fin por cada entidad federativa no serán transferibles y deberán aplicarse exclusivamente en la prestación de servicios y demás actividades educativas en la propia entidad.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
 El gobierno local prestará todas las facilidades y colaboración para que, en su caso, el Ejecutivo Federal verifique la correcta aplicación de dichos recursos.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 En el evento de que tales recursos se utilicen para fines distintos, se estará a lo previsto en la legislación aplicable sobre las responsabilidades administrativas, civiles y penales que procedan.
 
@@ -959,3 +965,13 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Con el objetivo de dar cumplimiento a lo señalado en la parte final del Artículo Cuarto Transitorio del Decreto por el que se modifican los artículos 3o. y 31 de la Constitución Política de los Estados Unidos Mexicanos, la Secretaría proveerá lo necesario para implementar programas de capacitación que permitan en un tiempo perentorio, garantizar la equidad de la calidad educativa y en su caso expedir la certificación que lo haga constar a quienes a la fecha de entrada en vigor de dicho Decreto, impartan el nivel.
 
 Artículo Tercero.- La consideración del nivel de preescolar como prerrequisito para el ingreso al nivel de educación primaria, se hará de conformidad con la calendarización que establece el Artículo Quinto Transitorio del Decreto por el que se modifican los artículos 3o. y 31 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación del 12 de noviembre del 2002.
+
+D.O.F. 4 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Para dar cabal cumplimiento a lo dispuesto en el presente Decreto, las autoridades educativas federal, estatales y municipales, en sus respectivos ámbitos de competencia, establecerán instrumentos y mecanismos técnico-pedagógicos y financieros como estímulos o subvenciones, a fin de ampliar la cobertura y garantizar la permanencia, el fortalecimiento y eficiencia terminal de los estudiantes del nivel medio superior de la educación pública del país y fortalecer su estructura.
