@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-materiales-de-guerra-123"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-13"
-last_updated: "1993-04-13"
+last_updated: "2001-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-04-12"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE MATERIALES DE GUERRA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2001.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el martes 13 de abril de 1993.
 
@@ -35,35 +35,57 @@ REGLAMENTO DE LA ESCUELA MILITAR DE MATERIALES DE GUERRA
 
 ### CAPITULO I. Misión General
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 1o.
 
-La Escuela Militar de Materiales de Guerra, es un establecimiento de educación militar que tiene como misión formar Oficiales y Sargentos de Materiales de Guerra para satisfacer las necesidades del Ejército y Fuerza Aérea Mexicanos.
+La Escuela Militar de Materiales de Guerra es un Establecimiento de Educación Militar, que tiene como misión formar Oficiales, Sargentos de Materiales de Guerra y Oficiales Técnicos Especializados en Armamento y Técnicos en Mantenimiento Industrial para satisfacer las necesidades del Ejército y Fuerza Aérea Mexicanos.
 
 ### CAPITULO II. Dependencia
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 2o.
 
-La Escuela Militar de Materiales de Guerra depende del Alto Mando del Ejército y Fuerza Aérea a través de la Dirección General de Educación Militar.
+La Escuela Militar de Materiales de Guerra depende del Alto Mando del Ejército y Fuerza Aérea a través de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
 ### CAPITULO III. Objetivos
 
 ###### ARTICULO 3o.
 
-La Escuela Militar de Materiales de Guerra tiene los siguientes objetivos:
+La Escuela Militar de Materiales de Guerra tiene los objetivos siguientes:
 
 I. Formar Subtenientes de Materiales de Guerra;
 
-II. Formar Sargentos Primeros y Segundos de Materiales de Guerra;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-III. Proporcionar formación militar a los alumnos en los aspectos: disciplinario e intelectual;
+II. Formar Sargentos Primeros de Materiales de Guerra;
 
-IV. Impartir conocimientos militares, científicos, técnicos y humanísticos, para coadyuvar en el cumplimiento de las misiones generales del Ejército y Fuerza Aérea;
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-V. Desarrollar en los alumnos una formación moral sólida para consolidar los valores nacionales y los tradicionales del Ejército y Fuerza Aérea;
+III. Formar Sargentos Segundos de Materiales de Guerra;
 
-VI. Preparar al personal del servicio de Materiales de Guerra para desempeñarse como asesores del mando en asuntos de su competencia; y
+IV. Proporcionar formación militar a los alumnos en los aspectos: disciplinario e intelectual;
 
-VII. Impartir cursos de actualización, especialización y perfeccionamiento relacionados con el material de guerra, que ordene la superioridad.
+V. Impartir conocimientos militares, científicos, técnicos y humanísticos, para coadyuvar en el cumplimiento de las misiones generales del Ejército y Fuerza Aérea;
+
+VI. Desarrollar en los alumnos una formación moral sólida para consolidar los valores nacionales y los tradicionales del Ejército y Fuerza Aérea;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VII. Preparar al personal del servicio de Materiales de Guerra para desempeñarse como asesores del mando en asuntos de su competencia;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VIII. Impartir cursos de actualización, especialización y perfeccionamiento relacionados con el material de guerra y de mantenimiento industrial que ordene la superioridad;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IX. Especializar a Capitanes y Tenientes de Materiales de Guerra, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+X. Capacitar a oficiales de Materiales de Guerra como Especialistas en Armamento y Técnicos en Mantenimiento Industrial.
 
 ## TITULO SEGUNDO. Organización
 
@@ -87,13 +109,25 @@ II. Subdirección:
 
 A. Subdirector; y
 
-B. Secretaría Particular;
+B. (DEROGADO, D.O.F. 22 DE JUNIO DE 2001)
 
-III. Cuerpo de Alumnos:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Cuerpo de Alumnos y Oficiales en instrucción:
 
 A. Comandante, auxiliado por un Grupo de Comando; y
 
-B. Compañías de Alumnos;
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+B. Oficiales del Cuerpo;
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+C. Oficiales en instrución (sic), y
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+D. Compañías de Alumnos;
 
 IV. Sección Pedagógica:
 
@@ -101,7 +135,9 @@ A. Jefatura;
 
 B. Subsección de Planes y Programas;
 
-C. Subsección de Estadística y Evaluación; y
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+C. Subsección de Estadística, Evaluación y Doctrina Militar, y
 
 D. Subsección Psicopedagógica;
 
@@ -123,7 +159,17 @@ G. Subsección del Curso de Formación de Sargentos Segundos de Materiales de Gu
 
 H. Subsección de Educación Física y Deportes.
 
-VI. Ayudantía General:
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. Sección de Cursos de Especialización:
+
+A. Subsección de Planes y Programas;
+
+B. Subsección de Estadística y Evaluación; y
+
+C. Subsección de Control Académico.
+
+VII. Ayudantía General:
 
 A. Ayudante General;
 
@@ -131,9 +177,9 @@ B. Subayudantía;
 
 C. Servicios Técnicos; y
 
-D. Servicios Administrativos y Generales;
+D. Servicios Administrativos y Generales.
 
-VII. Sección Administrativa:
+VIII. Sección Administrativa:
 
 A. Jefatura;
 
@@ -141,11 +187,13 @@ B. Subsección de Personal;
 
 C. Subsección de Recursos Materiales;
 
-D. Subsección de Contabilidad; y
+D. Subsección de Contabilidad, y
 
-E. Subsección de Informática, Archivo y Correspondencia; y
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-VIII. Unidad Ejecutora de Pago.
+E. Subsección de Informática, Archivo y Correspondencia.
+
+IX. Unidad Ejecutora de Pago.
 
 ###### ARTICULO 6o.
 
@@ -161,7 +209,21 @@ A. Jefe de la Sección Pedagógica;
 
 B. Jefe de la Sección Académica; y
 
-C. Comandante del Cuerpo de Alumnos.
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+C. Jefe de la Sección de Cursos de Especialización;
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+D. Comandante del Cuerpo de Alumnos;
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+E. Jefe de la Subsección de Apoyos Didácticos, y
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+F. Jefe de la Subsección Psicopedagógica.
 
 El Secretario, será el vocal de menor jerarquía y antigüedad.
 
@@ -169,9 +231,15 @@ El Secretario, será el vocal de menor jerarquía y antigüedad.
 
 ### CAPITULO I. De la Dirección
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 7o.
 
-La Dirección, es el órgano rector de la Escuela Militar de Materiales de Guerra a cargo de un Coronel o Teniente Coronel Ingeniero Industrial o de Materiales de Guerra, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Director.
+La Dirección es el órgano rector de la Escuela Militar de Materiales de Guerra, a cargo de un Coronel o Teniente Coronel Ingeniero Industrial o de Materiales de Guerra, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Director, mismo que debe reunir cualquiera de los requisitos siguientes:
+
+I. Tener experiencia académica, o
+
+II. Tener experiencia docente.
 
 ###### ARTICULO 8o.
 
@@ -183,7 +251,9 @@ II. Hacer cumplir los lineamientos establecidos en el Plan General de Educación
 
 III. Administrar los recursos humanos económicos y materiales puestos a su disposición;
 
-IV. Presentar a la Dirección General de Educación Militar los planes y programas de estudio de los cursos, proyecto de calendario escolar y programas de prácticas y visitas del plantel;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Presentar a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, los planes y programas de estudio de los cursos, proyecto de calendario escolar y programas de prácticas y visitas a instalaciones militares y civiles;
 
 V. Convocar a la Junta Técnico-Consultiva;
 
@@ -193,7 +263,9 @@ Vll. Otorgar los nombramientos y distinciones que sean necesarios para cubrir lo
 
 Vlll. Vigilar permanentemente el bienestar del personal del plantel, promoviendo su afiliación conforme a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
-IX. Proponer a la Dirección General de Educación Militar las reformas al Manual de Organización y Funcionamiento del plantel cuando corresponda;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IX. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, las reformas al Manual de Organización y Funcionamiento del plantel cuando corresponda;
 
 X. Difundir permanentemente el contenido del presente Reglamento entre el personal que integra el plantel, supervisando su cumplimiento;
 
@@ -205,17 +277,27 @@ XIII. Proponer y opinar las altas, bajas y cambios del personal del plantel;
 
 XIV. Realizar la evaluación de las capacidades y funcionamiento de los órganos del plantel, estableciendo, medidas tendientes a mejorar su rendimiento;
 
-XV. Presentar a la Dirección General de Educación Militar un informe de actividades, al término de cada ciclo escolar;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-XVI. Proponer a la Dirección General de Educación Militar el proyecto de presupuesto de su competencia; y
+XV. Presentar a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, un informe de actividades al término de cada ciclo escolar;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, el proyecto de presupuesto de su competencia, y
 
 XVII. Las que le sean asignadas por la superioridad.
 
 ### CAPITULO II. De la Subdirección
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 9o.
 
-La Subdirección de la Escuela Militar de Materiales de Guerra, es un órgano de dirección de la misma y está a cargo de un Teniente Coronel o Mayor ingeniero industrial o de Materiales de Guerra, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Subdirector.
+La Subdirección de la Escuela Militar de Materiales de Guerra es un órgano de dirección de la misma y está a cargo de un Teniente Coronel o Mayor Ingeniero Industrial o de Materiales de Guerra, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Subdirector, mismo que debe reunir cualquiera de los requisitos siguientes:
+
+I. Tener experiencia académica, o
+
+II. Tener experiencia docente.
 
 ###### ARTICULO 10.
 
@@ -253,13 +335,17 @@ XV. Las que le sean asignadas por la superioridad.
 
 ### CAPITULO III. Del Cuerpo de Alumnos
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 11.
 
-El Cuerpo de Alumnos de la Escuela Militar de Materiales de Guerra, está a cargo de un Mayor de Materiales de Guerra, a quien se denomina Comandante del Cuerpo de Alumnos.
+El Cuerpo de Alumnos de la Escuela Militar de Materiales de Guerra está a cargo de un Mayor de Materiales de Guerra, a quien se denomina Comandante del Cuerpo de Alumnos, mismo que además debe tener experiencia docente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 12.
 
-El Comandante del Cuerpo de Alumnos tiene las siguientes funciones:
+El Comandante del Cuerpo de Alumnos tiene las atribuciones y responsabilidades siguientes:
 
 I. Ejercer la autoridad de mando militar en el Cuerpo de Alumnos del plantel;
 
@@ -281,7 +367,9 @@ lX. Organizar las compañías de alumnos;
 
 X. Proponer a la Dirección del plantel los nombramientos y distinciones que sean necesarios para cubrir los cuadros en las unidades de alumnos;
 
-XI. Supervisar el pago del PRE o haberes de los alumnos según corresponda;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XI. Supervisar el pago de la Percepción Recreativa Estudiantil (PRE) o haberes de los alumnos según corresponda;
 
 XII. Controlar estadísticamente los correctivos disciplinarios impuestos a los alumnos;
 
@@ -295,13 +383,21 @@ XVI. Las que le sean asignadas por la superioridad.
 
 ### CAPITULO IV. De la Sección Pedagógica
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 13.
 
-La Sección Pedagógica, es el órgano de planeación y evaluación educativa de la Escuela Militar de Materiales de Guerra, a cargo de un Mayor o Capitán Primero Ingeniero Industrial o de Materiales de Guerra, a quien se denomina Jefe de la Sección Pedagógica.
+La Sección Pedagógica es el órgano de planeación y evaluación educativa de la Escuela Militar de Materiales de Guerra, a cargo de un Mayor o Capitán Primero Ingeniero Industrial o de Materiales de Guerra, a quien se denomina Jefe de la Sección Pedagógica, mismo que debe reunir cualquiera de los requisitos siguientes:
+
+I. Tener experiencia académica, o
+
+II. Tener experiencia docente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 14.
 
-La Sección Pedagógica tiene las siguientes funciones:
+El Jefe de la Sección Pedagógica de la Escuela Militar de Materiales de Guerra tiene las atribuciones y responsabilidades siguientes:
 
 I. Planear, coordinar y supervisar las actividades pedagógicas del plantel;
 
@@ -337,17 +433,35 @@ XVI. Elaborar los programas de prácticas y visitas;
 
 XVII. Coordinar sus actividades con los demás órganos del plantel; y
 
-XVIII. Las que le sean asignadas por la superioridad.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVIII. Fomentar en el personal de profesores civiles se compenetren en la doctrina castrense;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIX. Proponer, generar, investigar, desarrollar, impulsar y difundir aspectos relacionados con la educación, la profesión, la cultura y doctrina militar, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XX. Las que le sean asignadas por el Director del plantel.
 
 ### CAPITULO V. De la Sección Académica
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 15.
 
-La Sección Académica, es el órgano de ejecución y control de los planes y programas de estudio de la Escuela Militar de Materiales de Guerra, a cargo de un Mayor o Capitán Primero Ingeniero Industrial o de Materiales de Guerra, a quien se denomina Jefe de la Sección Académica.
+La Sección Académica es el órgano de ejecución y control de los planes y programas de estudio de la Escuela Militar de Materiales de Guerra, a cargo de un Mayor o Capitán Primero Ingeniero Industrial o de Materiales de Guerra, a quien se denomina Jefe de la Sección Académica, mismo que debe reunir cualquiera de los requisitos siguientes:
+
+I. Tener experiencia académica, o
+
+II. Tener experiencia docente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 16.
 
-La Sección Académica tiene las siguientes funciones:
+El Jefe de la Sección Académica de la Escuela Militar de Materiales de Guerra tiene las atribuciones y responsabilidades siguientes:
 
 I. Coordinar y supervisar el desarrollo de los planes y programas de estudio del plantel;
 
@@ -383,19 +497,81 @@ XVI. Coordinar sus actividades con los demás órganos del plantel; y
 
 XVII. Las que le sean asignadas por la superioridad.
 
-### CAPITULO VI. De la Ayudantía General
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-### CAPITULO VII. De la Sección Administrativa
+### CAPITULO V BIS. De la Sección de Cursos de Especialización
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTÍCULO 16 Bis.
+
+La Sección de Cursos de Especialización es el órgano de planeación, evaluación educativa, ejecución y control de los planes y programas de estudio del Curso Técnico Especializado en Armamento y del Curso de Técnico en Mantenimiento Industrial de la Escuela Militar de Materiales de Guerra, a cargo de un Mayor o Capitán Primero Ingeniero Industrial o de Materiales de Guerra Técnico Especialista en Armamento o Técnico en Mantenimiento Industrial, a quien se le denominará Jefe de la Sección del Curso de Especialización, mismo que debe reunir cualquiera de los requisitos siguientes:
+
+I. Tener experiencia académica, o
+
+II. Tener experiencia docente.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTÍCULO 16 Bis
+
+1.- El Jefe de la Sección de Cursos de Especialización, tiene las atribuciones y responsabilidades siguientes:
+
+I. Representar al Curso Técnico Especializado en Armamento y de Mantenimiento Industrial;
+
+II. Administrar los recursos humanos y materiales;
+
+III. Hacer cumplir los lineamientos establecidos en el Plan General de Educación Militar;
+
+IV. Presentar a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea los planes y Programas de Estudio del curso, el Proyecto de calendario escolar y los programas de prácticas y visitas;
+
+V. Conferir los cargos al personal docente titular, adjunto o suplente;
+
+VI. Desempeñarse como Jefe de la Sección Académica y Pedagógica;
+
+VII. Coordinar y supervisar las actividades del personal de Tropa y Oficiales en Instrucción;
+
+VIII. Elaborar los Planes y Programas de Estudio;
+
+IX. Dirigir el proceso enseñanza-aprendizaje;
+
+X. Coordinar y supervisar la actualización permanente del Manual de Organización y funcionamiento del curso, recomendando los cambios necesarios;
+
+XI. Convocar las juntas de coordinación con el personal docente del curso;
+
+XII. Coordinar y certificar la elaboración de la Documentación que se genere con motivo de las actividades Pedagógicas, Académicas y de Graduación;
+
+XIII. Designar a los integrantes de los jurados para la aplicación de exámenes profesionales de fin de curso;
+
+XIV. Promover a la Dirección General de Materiales de Guerra los proyectos o reformas a los Planes y Programas de estudio, para posteriormente si son aprobados promoverlos a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea;
+
+XV. Promover la creación de otros cursos especializados;
+
+XVI. Proponer y opinar las altas, bajas y cambios del personal de tropa del curso;
+
+XVII. Realizar la evaluación de la capacidad y funcionamiento del curso, estableciendo medidas tendientes a mejorar su rendimiento;
+
+XVIII. Presentar a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea y Dirección General de Materiales de Guerra, un informe de actividades al término de cada ciclo escolar, y
+
+XIX. Las funciones que sean asignadas por la superioridad.
+
+### CAPITULO VII (SIC). De la Ayudantía General
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 17.
 
 La Ayudantía General de la Escuela Militar de Materiales de Guerra, es el órgano encargado de satisfacer las necesidades de vida interna del plantel, a cargo de un Mayor o Capitán Primero de Materiales de Guerra, a quien se denomina Ayudante General.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 18.
 
-El Ayudante General tiene las siguientes funciones:
+El Ayudante General de la Escuela Militar de Materiales de Guerra tiene las atribuciones y responsabilidades siguientes:
 
-I. Las correspondientes a un Ayudante y a un Jefe de Instrucción de un Cuerpo de Tropa, respecto al personal de la planta de la Escuela;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+I. Representar al Curso Técnico Especializado en Armamento y de Mantenimiento Industrial;
 
 II. Vigilar el cumplimiento de las órdenes que emita la superioridad con respecto al servicio, al régimen interior y a la seguridad;
 
@@ -415,15 +591,19 @@ IX. Coordinar sus actividades con los demás órganos del plantel; y
 
 X. Las que le sean asignadas por la superioridad.
 
-### CAPITULO VIII. De la Unidad Ejecutora de Pago
+### CAPITULO VII. De la Sección Administrativa
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 19.
 
-La Sección Administrativa de la Escuela Militar de Materiales de Guerra, es el órgano de apoyo administrativo del plantel, a cargo de un Mayor o Capitán Primero de Administración, a quien se denomina Jefe de la Sección Administrativa.
+La Sección Administrativa de la Escuela Militar de Materiales de Guerra es el órgano de apoyo administrativo del plantel, a cargo de un Mayor o Capitán Primero de Materiales de Guerra u Oficinista, a quien se denomina Jefe de la Sección Administrativa.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 20.
 
-La Sección Administrativa tiene las siguientes funciones:
+El Jefe de la Sección Administrativa de la Escuela Militar de Materiales de Guerra tiene las atribuciones y responsabilidades siguientes:
 
 I. Elaborar y tramitar la documentación que se genere con motivo de los movimientos, de personal perteneciente al plantel y mantener completos y actualizados los expedientes del mismo;
 
@@ -457,29 +637,35 @@ XV. Coordinar sus actividades con los demás órganos del plantel; y
 
 XVI. Las que le sean asignadas por la superioridad.
 
-### CAPITULO IX. De la Junta Técnico-Consultiva
+### CAPITULO VIII. De la Unidad Ejecutora de Pago
 
 ###### ARTICULO 21.
 
 La Unidad Ejecutora de Pago de la Escuela Militar de Materiales de Guerra, está a cargo de un Jefe u Oficial Pagador, a quien se denomina Jefe de la Unidad Ejecutora de Pago, nombrado por el Alto Mando del Ejército y Fuerza Aérea.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 22.
 
-El Jefe de la Unidad Ejecutora de Pago de la Escuela Militar de Materiales de Guerra, tiene la responsabilidad de proporcionar el servicio de pago de haberes y demás percepciones al personal de la misma, de conformidad con las disposiciones legales aplicables y directivas que emita la superioridad.
+El Jefe de la Unidad Ejecutora de Pago de la Escuela Militar de Materiales de Guerra, tiene la responsabilidad de proporcionar el servicio de pago de haberes, Percepción Recreativa Estudiantil (PRE) y demás percepciones al personal de la misma, de conformidad con las disposiciones legales aplicables y directivas que emita la superioridad.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 23.
 
-La Unidad Ejecutora de Pago, normará sus actividades de conformidad con las disposiciones legales vigentes.
+La Unidad Ejecutora de Pago norma su estructura y funcionamiento de conformidad con las disposiciones legales respectivas.
 
-### CAPITULO I. Clasificación
+### CAPITULO IX. De la Junta Técnico-Consultiva
 
 ###### ARTICULO 24.
 
 La Junta Técnico-Consultiva de la Escuela Militar de Materiales de Guerra, es un órgano colegiado que tiene por finalidad asesorar en materia pedagógica y académica al Director del plantel.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 25.
 
-La Junta Técnico-Consultiva tiene las siguientes funciones:
+La Junta Técnica Consultiva tiene las atribuciones y responsabilidades siguientes:
 
 I. Analizar y proponer soluciones a problemas de carácter pedagógico y académico que surjan en el plantel;
 
@@ -505,29 +691,37 @@ Los vocales de la Junta Técnico-Consultiva serán suplidos en sus ausencias, po
 
 ## TITULO CUARTO. Del Personal
 
-### CAPITULO II. Del Personal Directivo y Académico
+### CAPITULO I. Clasificación
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 28.
 
-El personal de la Escuela Militar de Materiales de Guerra se clasifica como sigue:
+El Personal de la Escuela Militar de Materiales de Guerra se clasifica como sigue:
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 I. Directivo:
 
-A. Director; y
+A. Director, y
 
-B. Subdirector;
+B. Subdirector.
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 II. Académico:
 
-A. Jefes de las Secciones Pedagógica y Académica; y
+A. Jefes de las secciones Pedagógica y Académica, y
 
-B. Jefes de Subsección de las Secciones Pedagógica y Académica;
+B. Jefes de las subsecciones de las secciones Pedagógica y Académica.
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 III. Docente:
 
-A. Profesores; y
+A. Profesores, y
 
-B. Instructores;
+B. Instructores.
 
 IV. Del Cuerpo de Alumnos:
 
@@ -549,33 +743,43 @@ D. Jefes de las Subsecciones respectivas; y
 
 VI. De la planta:
 
-Está Constituido por el personal de los Servicios Técnicos, Administrativos y Generales y todo aquel no incluido en la clasificación que establece este artículo.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-### CAPITULO III. Del Personal Docente
+Está constituido por el personal de los servicios técnicos, administrativos y generales y aquel otro no incluido en la clasificación que establece este artículo.
+
+### CAPITULO II. Del Personal Directivo y Académico
 
 ###### ARTICULO 29.
 
 El personal Directivo y Académico tiene las atribuciones y responsabilidades establecidas en la legislación militar, el presente Reglamento y disposiciones aplicables de la superioridad.
 
-### CAPITULO IV. Del Cuerpo de Alumnos
+### CAPITULO III. Del Personal Docente
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 30.
 
-El personal docente, tiene la responsabilidad del desarrollo del proceso enseñanza-aprendizaje de las asignaturas a su cargo y del cumplimiento a lo establecido en el presente Reglamento en las partes correspondientes.
+Al personal docente le corresponde el desarrollo del proceso enseñanza-aprendizaje de las asignaturas a su cargo, tiene las atribuciones y responsabilidades que para su jerarquía establecen las leyes y reglamentos militares, las prescritas en el presente Reglamento y disposiciones que emita la superioridad; este personal puede ser profesor o instructor.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 31.
 
-Es profesor, el personal militar o civil que tiene a su cargo labores de enseñanza o transmisión de conocimientos, pudiendo ser titular o adjunto.
+Es profesor el militar o civil que tienen a su cargo con carácter de titular o de adjunto, labores permanentes de enseñanza o transmisión de conocimientos, previa acreditación del título profesional que avale el dominio de la o las asignaturas por impartir.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 32.
 
-Es instructor, el personal militar o civil a quien se encomienda la impartición de materias que sólo requieren habilidad, pericia o destreza.
+Son instructores los militares a quienes se encomienda la impartición de conocimientos sobre materias que requieren habilidad, pericia o destreza y que acrediten previamente ante la Sección Académica el conocimiento que vayan a impartir.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 33.
 
-Los profesores e instructores honorarios, son los que imparten conocimientos o prácticas y que no perciben remuneración por éste hecho.
+Los profesores o instructores honorarios son los que imparten conocimientos o prácticas y que no perciben remuneración por este hecho, debiendo extendérseles un nombramiento como estímulo a dichas actividades.
 
-### CAPITULO V. Del Personal Administrativo y de la Planta
+### CAPITULO IV. Del Cuerpo de Alumnos
 
 #### SECCION PRIMERA. Del Comandante, Grupo de Comando y Oficiales del Cuerpo
 
@@ -597,9 +801,11 @@ Los militares y civiles de nacionalidad extranjera que ingresen a la Escuela Mil
 
 El personal de alumnos que cause alta en la Escuela Militar de Materiales de Guerra, integrará una antigüedad por cada curso, que será designada con el número ordinal correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 38.
 
-Los alumnos tendrán las siguientes obligaciones:
+Los alumnos tienen las atribuciones y responsabilidades siguientes:
 
 I. Asistir puntualmente a las actividades que señalan las distribuciones de tiempo respectivas;
 
@@ -611,7 +817,7 @@ IV. Desempeñar los servicios y comisiones que se les asignen; y
 
 V. Conocer y observar el contenido del presente reglamento en las partes correspondientes.
 
-### CAPITULO UNICO
+### CAPITULO V. Del Personal Administrativo y de la Planta
 
 ###### ARTICULO 39.
 
@@ -619,7 +825,7 @@ El personal Administrativo y de la Planta de la Escuela Militar de Materiales de
 
 ## TITULO QUINTO. De la Admisión
 
-### CAPITULO I. Generalidades
+### CAPITULO UNICO
 
 ###### ARTICULO 40.
 
@@ -639,25 +845,31 @@ Los concursantes de procedencia civil que cumplan con los requisitos de admisió
 
 ## TITULO SEXTO. Del Proceso Enseñanza-Aprendizaje
 
-### CAPITULO II. De la Planeación
+### CAPITULO I. Generalidades
 
 ###### ARTICULO 44.
 
 La formación del personal de alumnos de la Escuela Militar de Materiales de Guerra, se realiza mediante el proceso enseñanza-aprendizaje en sus tres fases: planeación, ejecución y evaluación.
 
-### CAPITULO III. De la Ejecución
+### CAPITULO II. De la Planeación
 
 ###### ARTICULO 45.
 
 La planeación tiene por finalidad establecer los objetivos de aprendizaje, los métodos y técnicas de enseñanza, así como determinar los métodos de evaluación con base en los planes y programas de estudio del plantel.
 
-### CAPITULO IV. De la Evaluación
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 45 Bis.
+
+La planeación didáctica es el conjunto de acciones que permiten establecer la estructura, diseño y secuencia del proceso enseñanza-aprendizaje con el fin de organizarlo, sistematizarlo, dirigirlo, evaluarlo y en su caso, rectificarlo para alcanzar los objetivos prescritos en los planes y programas de estudio del plantel.
+
+### CAPITULO III. De la Ejecución
 
 ###### ARTICULO 46.
 
 La ejecución de la enseñanza tiene por objeto desarrollar el contenido de los planes y programas de estudio a través de la interacción del personal docente y de alumnos.
 
-### CAPITULO V. De los Jurados
+### CAPITULO IV. De la Evaluación
 
 ###### ARTICULO 47.
 
@@ -685,7 +897,9 @@ Es aquel que se aplica a todo el personal en instrucción al término del semest
 
 III. Extraordinario:
 
-Aquel que se aplica a los alumnos por reprobar el examen final ordinario de cualquier asignatura; y
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+Es aquel que se aplica al personal de alumnos cuya calificación final de la asignatura sea menor de seis puntos, calculado de acuerdo a lo establecido en el artículo 53, de este Reglamento.
 
 IV. Especial:
 
@@ -703,13 +917,17 @@ III. Prácticos; o
 
 IV. Una combinación de los anteriores.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 51.
 
-Para calificar los exámenes se utilizará la escala numérica de CERO a CIEN puntos, sin incluir decimales.
+Para calificar los exámenes se utiliza la escala numérica de cero a diez puntos incluyendo decimales.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 52.
 
-La calificación mínima aprobatoria será de SESENTA PUNTOS.
+La calificación mínima aprobatoria es de seis puntos.
 
 ###### ARTICULO 53.
 
@@ -727,7 +945,7 @@ La calificación obtenida en un examen extraordinario o especial, se asentará e
 
 Los alumnos que utilicen medios fraudulentos para resolver algún examen, serán suspendidos del mismo y calificados con CERO.
 
-### CAPITULO I. De las Faltas de Asistencia Académica
+### CAPITULO V. De los Jurados
 
 ###### ARTICULO 56.
 
@@ -735,7 +953,7 @@ Los jurados para apIicar los diferentes tipos de exámenes mencionados en este R
 
 ## TITULO SEPTIMO. De las Faltas, Bajas y Reingresos
 
-### CAPITULO II. De las Bajas
+### CAPITULO I. De las Faltas de Asistencia Académica
 
 ###### ARTICULO 57.
 
@@ -765,7 +983,7 @@ Las faltas justificadas por actos del servicio, no serán acumuladas.
 
 El registro y cómputo de faltas se dará a conocer periódicamente a los alumnos por la Sección Académica del plantel.
 
-### CAPITULO III. De los reingresos
+### CAPITULO II. De las Bajas
 
 ###### ARTICULO 64.
 
@@ -791,21 +1009,51 @@ VII. Estar comprendido en alguna causal de inutilidad, de acuerdo con las tablas
 
 VIII. Existir irregularidades en la documentación presentada al ingresar al plantel;
 
-IX. Violar las cláusulas establecidas en el contrato filiación;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IX. Violar las cláusulas establecidas en el compromiso filiación;
 
 X. Encontrarse en alguna causal de baja establecida en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; y
 
 XI. Para personal extranjero Becario, faltar injustificadamente a sus labores académicas durante tres días consecutivos.
 
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XII. Adquirir otra nacionalidad;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIII. Solicitud del interesado que sea aceptada por la superioridad;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIV. Reprobar tres exámenes parciales de una misma asignatura en un semestre;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Encontrarse sujeto a proceso en el fuero de guerra, en el orden común o federal, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Ser adicto a cualquier tipo de drogas heroicas.
+
 ###### ARTICULO 66.
 
-Los alumnos que causen baja de la Escuela Militar de Materiales de Guerra, quedarán a disposición de la Secretaría de la Defensa Nacional para los efectos que correspondan.
+(DEROGADO, D.O.F. 22 DE JUNIO DE 2001)
 
-### CAPITULO I. De los Certificados de Estudio
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 66 Bis.
+
+Al personal de alumnos que por cualquier motivo vaya a ser dado de baja del plantel se le comunicará previamente por escrito esta circunstancia, haciéndole saber las razones y fundamentos legales, concediéndole un término de 15 días naturales contados a partir de la fecha en que sea notificado, a efecto de que manifieste lo que a sus intereses convenga sobre el particular.
+
+### CAPITULO III. De los reingresos
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 67.
 
-Para efectos del presente Reglamento, se considera como reingreso, al acto mediante el cual los alumnos que habiendo causado baja de la Escuela Militar de Materiales de Guerra antes de terminar sus estudios, son admitidos nuevamente para continuarlos.
+Para efectos del presente Reglamento se considera como reingreso el acto mediante el cual el personal de alumnos que habiendo causado baja de la Escuela Militar de Materiales de Guerra antes de terminar sus estudios es admitido nuevamente para continuarlos.
 
 ###### ARTICULO 68.
 
@@ -837,13 +1085,15 @@ Los alumnos que reprueben un examen especial, no podrán reingresar al plantel.
 
 Los alumnos de los cursos para Sargentos 2/os. y 1/os. de Materiales de Guerra que causen baja del plantel antes de terminar los estudios correspondientes, no podrán reingresar.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 72.
 
-Los alumnos que causen baja del plantel por situarse en lo establecido en el artículo 65 fracciones IV, VI, VII, VIII, IX, X ú Xl del presente Reglamento, no podrán reingresar.
+Los alumnos que causen baja del plantel por situarse en lo establecido en el artículo 65, fracciones IV, VI, VII, VIII, IX, X, XI, XII, XIII y XIV, del presente Reglamento no podrán reingresar.
 
 ## TITULO OCTAVO. De los Reconocimientos Académicos
 
-### CAPITULO II. De los Premios y Recompensas
+### CAPITULO I. De los Certificados de Estudio
 
 ###### ARTICULO 73.
 
@@ -853,7 +1103,7 @@ I. Certificados de estudios; y
 
 II. Patente o nombramiento, según corresponda.
 
-### CAPITULO I. De la Disciplina
+### CAPITULO II. De los Premios y Recompensas
 
 ###### ARTICULO 74.
 
@@ -861,21 +1111,39 @@ Los incentivos que se otorgan a los alumnos de la Escuela Militar de Materiales 
 
 I. Premio y Diploma de Primero, Segundo o Tercer lugar: a quienes obtengan los tres promedios más altos al finalizar el curso correspondiente;
 
-Estos premios sólo serán otorgados siempre y cuando los promedios obtenidos no sean menores de 85 puntos;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+Estos premios sólo serán otorgados siempre y cuando los promedios obtenidos no sean menores de 8.5 puntos;
 
 II. Diploma de Primero, Segundo o Tercer lugar: a quienes obtengan los tres promedios más altos en cada año lectivo del curso respectivo;
 
-III. Figurar en el Cuadro de Honor, durante el mes siguiente al período de evaluación en que hayan obtenido un promedio de 80 puntos o más; y
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-IV. Otros que autorice la Secretaría de la Defensa Nacional.
+III. Figurar en el cuadro de honor, durante el mes siguiente al periodo de evaluación en que haya obtenido un promedio de 8.5 puntos o más;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Exento de realizar el examen final ordinario al personal de alumnos que obtenga un promedio mínimo de 9.0 puntos en una materia, después de haber sustentado los exámenes parciales de la misma, asentándose la calificación obtenida en el promedio, quedando a elección del alumno la opción de presentar o no dicha evaluación para incrementar su promedio general, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Otros que autorice la Secretaría de la Defensa Nacional.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 74 Bis.
+
+El personal de alumnos que termine satisfactoriamente sus estudios además de lo establecido en este Reglamento recibirá gafete distintivo del curso correspondiente.
 
 ## TITULO NOVENO. Disposiciones Complementarias
 
-### CAPITULO II. De la Garantía de Permanencia
+### CAPITULO I. De la Disciplina
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 75.
 
-Los arrestos que se impongan a los alumnos de procedencia militar de la Escuela Militar de Materiales de Guerra, serán graduados por el Director del plantel conforme a lo establecido en la legislación militar, se cumplirán a partir del momento en que se les comunique.
+Los arrestos que se impongan a los alumnos de procedencia militar, serán graduados por el Director del plantel, conforme a lo establecido en la legislación militar vigente y se cumplirán a partir del momento en que se les comunique.
 
 ###### ARTICULO 76.
 
@@ -885,29 +1153,37 @@ La graduación de arrestos impuestos a los alumnos de la Escuela Militar de Mate
 
 Los arrestos impuestos a los alumnos se computarán con 20 puntos de demérito por cada veinticuatro horas.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 78.
 
-El Director de la Escuela Militar de Materiales de Guerra podrá graduar los arrestos que se impongan al personal de alumnos de procedencia civil hasta por 15 días en el interior del plantel.
+El Director de la Escuela Militar de Materiales de Guerra podrá graduar los arrestos que se impongan al personal de alumnos en calidad de internos hasta por 300 (trescientos) puntos de demérito en el interior del plantel.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 79.
 
-Los alumnos de procedencia civil, cumplirán sus arrestos los sábados y domingos de franquicia y los días inhábiles de las semanas laborables que determine la Dirección del plantel.
+Los alumnos de procedencia civil y personal militar en calidad de internos cumplirán sus arrestos los sábados y domingos de franquicia y los días inhábiles de las semanas laborables que determine el Director del plantel.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 80.
 
-Los alumnos de procedencia civil cumplirán sus arrestos en las semanas laborables de la siguiente manera:
+Los alumnos de procedencia civil y personal militar en calidad de internos cumplirán sus arrestos en las semanas laborables de la manera siguiente:
 
-I. A partir de la hora de franquicia del sábado hasta las 2400 horas del mismo, 10 puntos de demérito;
+I. A partir de la hora de franquicia del sábado hasta las 0800 horas del domingo, 20 puntos de demérito;
 
-II. A partir de la hora de franquicia del sábado hasta las 1200 horas del domingo, 20 puntos de demérito;
+II. De las 0800 horas del domingo hasta la hora que termine la franquicia, 20 puntos de demérito;
 
-III. Sin disfrutar la franquicia del sábado y domingo, 30 puntos de demérito; y
+III. Sin disfrutar la franquicia del sábado y domingo, 40 puntos de demérito, y
 
-IV. Los arrestos graduados con más de 72 horas, más de 60 puntos, se cumplirán alternando dos fines de semana continuos de reclusión por uno de franquicia.
+IV. Los arrestos graduados con más de 80 puntos de demérito, se cumplirán alternando dos fines de semana continuos de reclusión por uno de franquicia.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 81.
 
-Los alumnos de procedencia civil cumplirán sus arrestos ininterrumpidamente conforme al cómputo establecido, en los días inhábiles correspondientes a semanas no laborables.
+Los alumnos internos cumplirán sus arrestos ininterrumpidamente conforme al cómputo establecido, en los días inhábiles correspondientes a semanas no laborables.
 
 ###### ARTICULO 82.
 
@@ -929,6 +1205,8 @@ El Comandante del Cuerpo de Alumnos propondrá la distribución de tiempo que de
 
 El personal directivo, académico docente militar, del cuerpo de alumnos, administrativo y de la planta, queda sujeto a lo establecido en las leyes y reglamentos (sic) militares.
 
+### CAPITULO II. De la Garantía de Permanencia
+
 ###### ARTICULO 87.
 
 Los civiles que causen alta como alumnos en la Escuela Militar de Materiales de Guerra, otorgarán un depósito en efectivo cuyo monto fijará la Secretaría de la Defensa Nacional.
@@ -948,3 +1226,11 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se derogan el decreto que crea la Escuela de Tropas de Material de Guerra de fecha 26 de diciembre de 1945, publicado en el Diario Oficial de la Federación de 25 de enero de 1946 y todas las demás disposiciones que se opongan al presente ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de abril de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de la Defensa Nacional, Antonio Riviello Bazán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 22 DE JUNIO DE 2001.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
