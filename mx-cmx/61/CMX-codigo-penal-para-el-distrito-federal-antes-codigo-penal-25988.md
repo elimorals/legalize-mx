@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1996-12-13"
+last_updated: "1996-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1996.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -4426,9 +4426,7 @@ XIV.- Al que venda o traspase una negociación sin autorización de los acreedor
 
 XV.- Al que explote las preocupaciones, la superstición o la ignorancia del pueblo, por medio de supuesta evocación de espíritus, adivinaciones o curaciones.
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1955)</small>
-
-XVI.- Al que ejecute actos violatorios de derechos de propiedad literaria, dramática o artística, considerados como falsificación en las leyes relativas;
+XVI.- (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 1996)
 
 > <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 1955)</small>
 
@@ -4918,11 +4916,11 @@ Al que sin contar con la autorización que se requiera conforme a la Ley Foresta
 
 La misma pena se aplicará a quien dolosamente ocasione incendios en bosques, selva, o vegetación natural que dañen recursos naturales, la flora o la fauna silvestre o los ecosistemas.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 419.
 
-A quien transporte, comercie, acopie o transforme troncos de árboles derribados o cortados con un diámetro mayor de veinte centímetros en sus extremos, sin incluir corteza, o de diez centímetros, si se encuentra seccionado en su longitud, y con longitud superior a ciento ochenta centímetros, procedentes de aprovechamiento para los cuales no se haya autorizado, conforme a la Ley Forestal, un programa de manejo, se impondrá pena de tres meses a seis años de prisión y de cien a veinte mil días multa.
+A quien transporte, comercie, acopie o transforme recursos forestales maderables en cantidades superiores a cuatro metros cúbicos rollo o su equivalente, para los cuales no se haya autorizado su aprovechamiento conforme a la Ley Forestal, se impondrá pena de tres meses a seis años de prisión y de cien a veinte mil días multa, excepto en los casos de aprovechamientos de recursos forestales para uso doméstico, conforme a lo dispuesto en la Ley Forestal.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -4967,6 +4965,58 @@ Las dependencias de la administración pública competentes, deberán proporcion
 ###### ARTICULO 423.
 
 Tratándose de los delitos ambientales, los trabajos en favor de la comunidad a que se refiere el artículo 24 de este ordenamiento, consistirán en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+## TITULO VIGESIMO SEXTO. DE LOS DELITOS EN MATERIA DE DERECHOS DE AUTOR
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 424.
+
+Se impondrá prisión de seis meses a seis años y de trescientos a tres mil días multa:
+
+I. Al que especule en cualquier forma con los libros de texto gratuitos que distribuye la Secretaría de Educación Pública;
+
+II. Al editor, productor o grabador que a sabiendas produzca más números de ejemplares de una obra protegida por la Ley Federal del Derecho de Autor, que los autorizados por el titular de los derechos;
+
+III. A quien produzca, fabrique, importe, venda, almacene, transporte, distribuya o arriende obras protegidas por la Ley Federal del Derecho de Autor en forma dolosa, a escala comercial y sin autorización del titular de los derechos, y
+
+IV. A quien fabrique con fines de lucro un dispositivo o sistema cuya finalidad sea desactivar los dispositivos electrónicos de protección de un programa de computación.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 425.
+
+Se impondrá prisión de seis meses a dos años o de trescientos a tres mil días multa, al que a sabiendas y sin derecho explote con fines de lucro una interpretación o una ejecución.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 426.
+
+Se impondrá prisión de seis meses a cuatro años y de trescientos a tres mil días multa, en los casos siguientes:
+
+I. A quien fabrique, importe, venda o arriende un dispositivo o sistema para descifrar una señal de satélite cifrada, portadora de programas, sin autorización del distribuidor legítimo de dicha señal, y
+
+II. A quien realice con fines de lucro cualquier acto con la finalidad de descifrar una señal de satélite cifrada, portadora de programas, sin autorización del distribuidor legítimo de dicha señal.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 427.
+
+Se impondrá prisión de seis meses a seis años y de trescientos a tres mil días multa, a quien publique a sabiendas una obra substituyendo el nombre del autor por otro nombre.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 428.
+
+Las sanciones pecuniarias previstas en el presente título se aplicarán sin perjuicio de la reparación del daño, cuyo monto no podrá ser menor al cuarenta por ciento del precio de venta al público de cada producto o de la prestación de servicios que impliquen violación a alguno o algunos de los derechos tutelados por la Ley Federal del Derecho de Autor.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 429.
+
+Los delitos previstos en este título se perseguirán por querella de parte ofendida, salvo el caso previsto en el artículo 424, fracción I, que será perseguido de oficio. En el caso de que los derechos de autor hayan entrado al dominio público, la querella la formulará la Secretaría de Educación Pública, considerándose como parte ofendida.
 
 > <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
@@ -5493,3 +5543,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan los artículos del 183 al 187 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente; el artículo 58 de la Ley Forestal; y los artículos 30 y 31 de la Ley Federal de Caza.
+
+D.O.F. 24 DE DICIEMBRE DE 1996.
+
+PRIMERO.- El artículo Segundo del presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Los artículos Primero y Tercero entrarán en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A las personas que hubieren cometido delitos contemplados en la Ley Federal de Derechos de Autor publicada en el Diario Oficial de la Federación el 29 de diciembre de 1956, con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las sanciones vigentes al momento en que se hubieren realizado dichas conductas. Al efecto, los artículos 135 a 144 de dicha ley, seguirán vigentes y se aplicarán a la persecución, sanción y ejecución de sentencias por hechos ejecutados hasta antes de la entrada en vigor del Título Vigésimo Sexto que se adiciona al Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal por este Decreto.
