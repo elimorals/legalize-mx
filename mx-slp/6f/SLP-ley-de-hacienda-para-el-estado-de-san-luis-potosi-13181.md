@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2003-12-13"
+last_updated: "2004-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2004.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -651,9 +651,25 @@ IV. Por la expedición de copia certificada de inscripción, 2.39 salarios míni
 
 V. Por las certificaciones relativas o constancias o documentos que obren en el archivo notarial, 2.39 por cada foja, siempre y cuando lo ordene la autoridad competente o la soliciten la o las personas que hayan intervenido en el acto notarial;
 
-VI. Por cualquier anotación marginal en los libros del Registro Público de la Propiedad y de Comercio, no prevista en las disposiciones anteriores, 1.76, por foja o fracción; y
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2004)</small>
 
-VII. Por la búsqueda de datos en este archivo, que no efectúe directamente el personal del Registro Público de la Propiedad, se deberá pagar 0.5.
+VI. Por cualquier anotación marginal en los libros de Registro Público de la Propiedad y de Comercio, no prevista en las disposiciones anteriores, 1.76 por foja o fracción;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2004)</small>
+
+VII. Por la búsqueda de datos en este archivo, que no efectúe directamente el personal del Registro Público de la Propiedad y de Comercio, se deberá pagar 0.5, y
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2004)</small>
+
+VIII. Por consultas efectuadas por los usuarios a la base de datos del Registro Público de la Propiedad y de Comercio, directamente o a través de la red de información mundial, lo siguiente:
+
+a) Por acceso a la base de datos, 1.68 salarios mínimos;
+
+b) Por consulta por folio mercantil o inmobiliario, 0.5 salarios mínimos, y
+
+c) Por expedición de constancias simples por actos mercantiles o inmobiliario, 0.5 salarios mínimos.
+
+Para efecto de que los fedatarios, corredores públicos y usuarios en general puedan efectuar sus pagos electrónicamente, la Secretaría de Finanzas deberá abrir una cuenta con las instituciones de crédito que resulten necesarias, así como poner en venta en las oficinas de recaudación, las tarjetas de prepago para dicho fin.
 
 ###### ARTICULO 57.
 
@@ -1988,3 +2004,9 @@ P.O. 13 DE DICIEMBRE DE 2003.
 PRIMERO. Este Decreto entrará en vigor a partir del 1 de enero de 2004.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE JUNIO DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
