@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interno-de-la-comision-de-derechos-humanos-del-3485"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-10-20"
-last_updated: "1993-10-20"
+last_updated: "2000-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2000.
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el miércoles 20 de octubre de 1993.
 
@@ -35,21 +35,25 @@ REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
+
 ###### ARTICULO 1.
 
-El presente ordenamiento regula la estructura, facultades y funcionamiento de la Comisión de Derechos Humanos del Estado de Campeche como organismo descentralizado con personalidad jurídica y patrimonio propios, cuyo objeto esencial es la protección, la observancia, la promoción, el estudio y la divulgación de los derechos humanos previstos por el orden jurídico mexicano y por los instrumentos jurídicos internacionales que México ha ratificado.
+El presente ordenamiento regula la estructura, facultades y funcionamiento de la Comisión de Derechos Humanos del Estado de Campeche como organismo con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios, que tiene por objeto esencial es la protección, observancia, promoción, estudio y divulgación de los derechos humanos previstos por el orden jurídico mexicano.
 
-La Comisón (sic) Estatal es también un órgano de la sociedad y defensor de ésta.
+La Comisión Estatal es también un órgano de la sociedad y defensor de ésta.
 
 ###### ARTICULO 2.
 
 Para los efectos de este Reglamento, se denominará Comisión Estatal u Organismo a la Comisión de Derechos Humanos del Estado de Campeche y Ley a la Ley de la Comisión de Derechos Humanos del Estado de Campeche, publicada en el Periódico Oficial del Gobierno del Estado de Campeche el día uno de enero de 1993.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
+
 ###### ARTICULO 3.
 
 Para el desarrollo y el cumplimiento de las funciones y atribuciones que corresponden a la Comisión Estatal, ésta contará con los órganos y estructura administrativa que establecen su Ley y este Reglamento.
 
-Asimismo podrá contar con un órgano oficial de difusión que, en su caso, se denominará "Gaceta de la Comisión de Derechos Humanos del Estado de Campeche", de periodicidad cuatrimestral. Cuando lo amerite el volumen de material a publicar de que se disponga, y lo permitan los recursos presupuestales con los que la Comisión Estatal cuente, el Consejo podrá autorizar la publicación de suplementos de la Gaceta.
+Asimismo podrá contar con un órgano oficial de difusión que, en su caso, se denominará "Gaceta de la Comisión de Derechos Humanos del Estado de Campeche", de periodicidad cuatrimestral. Cuando lo amerite el volumen de material a publicar de que se disponga, y lo permitan los recursos presupuestales con los que la Comisión Estatal cuente, el Consejo Consultivo podrá autorizar la publicación de suplementos de la Gaceta.
 
 En la Gaceta se publicarán las Recomendaciones o sus síntesis, los Documentos de No Responsabilidad, informes especiales y materiales varios que, por su importancia, merezcan darse a conocer mediante dicha publicación.
 
@@ -157,11 +161,13 @@ IV. La Secretaría Ejecutiva.
 
 La Presidencia es el órgano ejecutivo de la Comisión Estatal; está a cargo de un Presidente a quien corresponde realizar, en los términos establecidos por la Ley, las funciones directivas del Organismo del cual es su representante legal.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
+
 ###### ARTICULO 22.
 
 Las Visitadurías Generales y la Secretaría Ejecutiva son órganos auxiliares de la Presidencia de la Comisión Estatal y realizarán sus funciones en los términos de la Ley y de acuerdo con las instrucciones que al efecto gire la propia Presidencia de la Comisión.
 
-El Secretario Técnico del Consejo también auxiliará a la Presidencia de la Comisión en los términos de este Reglamento.
+El Secretario Técnico del Consejo Consultivo también auxiliará a la Presidencia de la Comisión en los términos de este Reglamento.
 
 ###### ARTICULO 23.
 
@@ -175,69 +181,93 @@ Durante las ausencias temporales del Presidente de la Comisión Estatal, sus fun
 
 Con las excepciones establecidas en la Ley y en este Reglamento, corresponde al Presidente de la Comisión Estatal, nombrar libre y discrecionalmente a todo el personal del Organismo, y removerlo con apego a lo dispuesto en la Ley de los Trabajadores al Servicio de los Poderes, Municipios e Instituciones Descentralizadas del Estado de Campeche.
 
-### CAPITULO III. DEL CONSEJO
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE JULIO DE 2000)</small>
+
+### CAPITULO III. DEL CONSEJO CONSULTIVO
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
 ###### ARTICULO 26.
 
-El Consejo tendrá competencia para establecer los lineamientos generales de actuación y los programas anuales de trabajo del Organismo. Las funciones del Consejo son las que se establecen en el Artículo 18 de la Ley y además auxiliará al Presidente de la Comisión Estatal, cuando éste se lo requiera, en:
+El Consejo Consultivo tendrá competencia para establecer los lineamientos generales de actuación y los programas anuales de trabajo del Organismo. Las funciones del Consejo Consultivo son las que se establecen en el Artículo 18 de la Ley y además auxiliará al Presidente de la Comisión Estatal, cuando éste se lo requiera, en:
 
-I.- Observar y vigilar el cumplimiento por parte de los órganos y estructura administrativa de la comisión Estatal, de las normas de control, fiscalización y evaluación;
+I. Observar y vigilar el cumplimiento por parte de los órganos y estructura administrativa de la Comisión Estatal, de las normas de control, fiscalización y evaluación;
 
-II.- Supervisar eL cumplimiento de los lineamientos generales y sistemas y procedimientos administrativos por parte de Las dependencias de la Comisión Estatal;
+II.- Supervisar el cumplimiento de los lineamientos generales y sistemas y .procedimientos administrativos por parte de las dependenciasde la Comisión Estatal;
 
-III.- Vigilar que Las erogaciones del Organismo se ajusten a los presupuestos autorizados;
+III.- Vigilar que las erogaciones del Organismo se ajusten a los presupuestos autorizados;
 
-IV.- Instrumentar las normas complementarias en materia de control, así como realizar las auditorías o revisiones que se requieran a ls dependencias de l Comisión Estatal, y proponer y vigilar la aplicación de las medidas correctivas y observaciones que correspondan;
+IV.- Instrumentar las normas complementarias en materia de control, así como realizar las auditorías o revisiones que se requieran a las dependencias de la Comisión. Estatal, y proponer y vigilar la aplicación de las medidas correctivas y observaciones que correspondan;
 
-V.- Recibir y atender las quejas y denuncias respecto a Los servidores públicos de la Comisión Estatal, practicar investigaciones sobre sus actos, fincar en su caso las responsabilidades a que haya lugar y aplicar, por conducto del Presidente de la Comisión Estatal, las sanciones que procedan; y
+V.- Recibir y atender las quejas y denuncias respecto a los servidores públicos de la Comisión Estatal, practicar investigaciones sobre sus actos, fincar en su caso las responsabilidades a que haya lugar y aplicar, por conducto del Presidente de la Comisión Estatal, las sanciones que procedan; y
 
 VI.- Las demás funciones que le atribuyan otras disposiciones legales y reglamentarias.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
+
 ###### ARTICULO 27.
 
-El nombramiento de los miembros del Consejo, los requisitos para su designación, las formas de substituirlos y el régimen legal que les es aplicable, son los que establecen los Artículos 16 y 17 de la Ley.
+El nombramiento de los miembros del Consejo Consultivo, los requisitos para su designación, las formas de substituirlos y el régimen legal que les es aplicable, son los que establecen los Artículos 16 y 17 de la Ley.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
 ###### ARTICULO 28.
 
-Cuando se requiera de la interpretación de cualquier disposición del presente Reglamento o de aspectos que éste no prevea, el Presidente de la Comisión Estatal lo someterá a la consideración del Consejo para que éste dicte el acuerdo respectivo.
+Cuando se requiera de la interpretación de cualquier disposición del presente Reglamento o de aspectos que éste no prevea, el Presidente de la Comisión Estatal lo someterá a la consideración del Consejo Consultivo para que éste dicte el acuerdo respectivo.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
 ###### ARTICULO 29.
 
-Los lineamientos generales de actuación de la Comisión Estatal que apruebe el Consejo, de acuerdo con la Ley y este Reglamento, se establecerán mediante declaraciones, acuerdos o tesis, mismos que serán publicados en el Periódico Oficial del Gobierno del Estado, en uno de los diarios de mayor circulación en la entidad y, además, en la Gaceta de la propia Comisión.
+Los lineamientos generales de actuación de la Comisión Estatal que apruebe el Consejo Consultivo, de acuerdo con la Ley y este Reglamento, se establecerán mediante declaraciones, acuerdos o tesis, mismos que serán publicados en el Periódico Oficial del Gobierno del Estado, en uno de los diarios de mayor circulación en la entidad y, además, en la Gaceta de la propia Comisión.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
 ###### ARTICULO 30.
 
-Las sesiones ordinarias del Consejo se celebrarán cuando menos una vez al mes de acuerdo con el calendario que señale el propio Consejo.
+Las sesiones ordinarias del Consejo Consultivo se celebrarán cuando menos una vez al mes de acuerdo con el calendario que señale el propio Consejo.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
 ###### ARTICULO 31.
 
-Se podrá convocar a sesiones extraordinarias del Consejo, por el Presidente de la Comisión Estatal, por sí o a solicitud de tres de sus miembros, cuando se estime que haya razones de importancia para ello.
+Se podrá convocar a sesiones extraordinarias del Consejo Consultivo, por el Presidente de la Comisión Estatal, por sí o a solicitud de tres de sus miembros, cuando se estime que haya razones de importancia para ello.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
 ###### ARTICULO 32.
 
-De cada una de las sesiones ordinarias o extraordinarias del Consejo, se levantará acta, en la que se asiente una síntesis de las intervenciones de cada Consejero y de los funcionarios administrativos que a ellas asistan. Igualmente se transcribirán los acuerdos o tesis que hayan sido aprobados.
+De cada una de las sesiones ordinarias o extraordinarias del Consejo Consultivo, se levantará acta, en la que se asiente una síntesis de las intervenciones de cada Consejero y de los funcionarios administrativos que a ellas asistan. Igualmente se transcribirán los acuerdos o tesis que hayan sido aprobados.
 
-Las actas serán aprobadas, en su caso, por el Consejo en la sesión ordinaria inmediatamente posterior.
+Las actas serán aprobadas, en su caso, por el Consejo Consultivo en la sesión ordinaria inmediatamente posterior.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
 ###### ARTICULO 33.
 
-Para la realización de las sesiones ordinarias o extraordinarias, el Secretario Técnico del Consejo enviará a los Consejeros, por lo menos con 72 horas de anticipación, el citatorio y el orden del día previsto para la sesión, así como todos los materiales que por su naturaleza deban ser estudiados por los Consejeros antes de llevar a cabo la misma.
+Para la realización de las sesiones ordinarias o extraordinarias, el Secretario Técnico del Consejo Consultivo enviará a los Consejeros, por lo menos con 72 horas de anticipación, el citatorio y el orden del día previsto para la sesión, así como todos los materiales que por su naturaleza deban ser estudiados por los Consejeros antes de llevar a cabo la misma.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
 ###### ARTICULO 34.
 
-Se requerirá como quórum para llevar a cabo la sesión del Consejo, la asistencia de cuando menos la mitad de los miembros del Consejo. Transcurrida media hora de la fijada para el inicio de la sesión, ésta comenzará válidamente con los miembros presentes, siempre y cuando se encuentre entre éstos el Presidente de la Comisión Estatal, o quien legalmente lo sustituya, y el Secretario Técnico. Las decisiones del Consejo se tomarán por la mayoría de votos de los miembros presentes.
+Se requerirá como quórum para llevar a cabo la sesión del Consejo Consultivo, la asistencia de cuando menos la mitad de los miembros del Consejo. Transcurrida media hora de la fijada para el inicio de la sesión, ésta comenzará válidamente con los miembros presentes, siempre y cuando se encuentre entre éstos el Presidente de la Comisión Estatal, o quien legalmente lo sustituya, y el Secretario Técnico. Las decisiones del Consejo Consultivo se tomarán por la mayoría de votos de los miembros presentes.
 
-Durante el desarrollo de las sesiones ordinarias del Consejo, los Visitadores Generales informarán a éste, en términos numéricos, sobre las quejas recibidas en el mes correspondiente; los expedientes que fueron concluidos y sus causas; las Recomendaciones y los Documentos de No Responsabilidad expedidos; las personas atendidas para efectos de orientación y cualquier otro aspecto que resulte importante a juicio de los Consejeros.
+Durante el desarrollo de las sesiones ordinarias del Consejo Consultivo, los Visitadores Generales informarán a éste, en términos numéricos, sobre las quejas recibidas en el mes correspondiente; los expedientes que fueron concluidos y sus causas; las Recomendaciones y los Documentos de No Responsabilidad expedidos; las personas atendidas para efectos de orientación y cualquier otro aspecto que resulte importante a juicio de los Consejeros.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
 ###### ARTICULO 35.
 
-El Consejo de la Comisión Estatal contará con un Secretario Técnico que será designado en los términos establecidos por el Artículo 17, segundo párrafo, de la Ley. El Secretario Técnico acordará con el Presidente de la Comisión Estatal.
+El Consejo Consultivo de la Comisión Estatal contará con un Secretario Técnico que será designado en los términos establecidos por el Artículo 17, segundo párrafo, de la Ley. El Secretario Técnico acordará con el Presidente de la Comisión Estatal.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
 ###### ARTICULO 36.
 
-El Secretario Técnico del Consejo tendrá las siguientes funciones:
+El Secretario Técnico del Consejo Consultivo tendrá las siguientes funciones:
 
-I. Proponer el proyecto de acta de las sesiones ordinarias y extraordinarias que el Consejo celebre;
+I. Proponer el proyecto de acta de las sesiones ordinarias y extraordinarias que el Consejo Consultivo celebre;
 
 II. Remitir oportunamente a los consejeros citatorios, órdenes del día y demás material indispensable para realizar las sesiones ordinarias y extraordinarias;
 
@@ -251,9 +281,9 @@ VI.- Supervisar las actividades de distribución y comercialización de las publ
 
 VII.- Mantener un contacto permanente con los representantes de los medios de comunicación social, con el fin de tenerlos informados sobre las acciones que la Comisión Estatal pretenda difundir;
 
-VIII.- Coordinar las reuniones de prensa del Presidente y demás funcionarios de la Comisión Estatal; y
+VIII. Coordinar las reuniones de prensa del Presidente y demás funcionarios de la Comisión Estatal; y
 
-IX.- Las demás que al efecto le establezcan el Presidente o el Consejo de la Comisión Estatal.
+IX.- Las demás que al efecto le establezcan el Presidente o el Consejo Consultivo de la Comisió (sic) Estatal.
 
 ### CAPITULO IV. DE LAS VISITADURÍAS GENERALES
 
@@ -671,6 +701,8 @@ Sólo procederá notificar a la autoridad o servidor público que hubiese sido s
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
+
 ###### ARTICULO 97.
 
 Concluida la investigación y reunidos los elementos de convicción necesarios para probar la existencia de violaciones a Derechos Humanos, el Visitador General iniciará la elaboración de la Recomendación correspondiente.
@@ -783,7 +815,7 @@ Cuando un quejoso de manera dolosa hubiese faltado a la verdad ante la Comisión
 
 ###### ARTICULO 114.
 
-El Presidente de la Comisión Estatal deberá enviar un informe anual de actividades al Congreso del Estado y al titular del Ejecutivo Estatal, que también será difundido ampliamente para conocimiento de la sociedad.
+El Presidente de la Comisión de Derechos Humanos deberá presentar un informe anual, a los Poderes del Estado, sobre las actividades que haya realizado en el período respectivo. Dicho informe será difundido en la forma más amplia posible para el conocimiento de la sociedad.
 
 ###### ARTICULO 115.
 
@@ -802,3 +834,11 @@ SEGUNDO.- Se derogan todas aquellas disposiciones emitidas por la Comisión Esta
 REGLAMENTO APROBADO UNÁNIMEMENTE POR EL CONSEJO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE EN SESIÓN EXTRAORDINARIA DE 8 DE JUNIO DE 1993.
 
 CAMPECHE, CAM., A 8 DE JUNIO DE 1993.- LIC. CARLOS FELIPE ORTEGA RUBIO, PRESIDENTE DEL CONSEJO Y DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO.- RÚBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE JULIO DE 2000.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Campeche.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones reglamentarias en lo que se opongan al contenido del presente acuerdo.
