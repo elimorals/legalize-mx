@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1950-11-11"
+last_updated: "1951-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 1950.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 1951.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -211,7 +211,7 @@ La soberanía del Estado reside en el pueblo, y a nombre de este la ejerce el Po
 
 ###### Art. 21.
 
-El Estado adopta la forma de Gobierno establecida en el artículo 4º de esta Constitución.
+El Estado adopta la forma de Gobierno establecida en el artículo 4° de esta Constitución.
 
 ###### Art. 22.
 
@@ -931,9 +931,9 @@ XXXI. Pedir al Congreso, o a la Comisión Permanente, si aquel no estuviere reun
 
 XXXII. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a estos el auxilio que necesiten para el ejercicio expedito de sus funciones.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1949)</small>
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 1951)</small>
 
-XXXIII.- Concurrir a la apertura de los períodos de sesiones del Congreso pudiendo informar en ellas acerca de todos o algunos de los ramos de la Administración Pública, cuando lo estime conveniente o así lo solicite el Congreso; pero deberá rendir un informe completo sobre ésta, en sesión pública extraordinaria del Congreso, el día catorce de septiembre de cada año.
+XXXIII.- Concurrir a la apertura de los periodos de Sesiones del Congreso, pudiendo informar en ellas acerca de todos o algunos de los Ramos de la Administración Pública, cuando lo estime conveniente o así lo solicite el Congreso; pero deberá rendir un informe completo sobre ésta en Sesión Pública Extraordinaria del Congreso, el día 5 de febrero de cada año.
 
 XXXIV. Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad.
 
@@ -1535,7 +1535,7 @@ Esta Constitución se promulgará desde luego por Bando solemne en todo el Estad
 
 ###### Art. 2º.
 
-Quedan derogadas todas las leyes, circulares y disposiciones, en cuanto se opongan a la presente Constitución.
+Quedan derogadas todas las leyes , circulares y disposiciones, en cuanto se opongan a la presente Constitución.
 
 ###### Art. 3º.
 
@@ -1551,7 +1551,7 @@ Los Magistrados del Supremo Tribunal de Justicia electos el día siete de noviem
 
 ###### Art. 6º.
 
-El Congreso tendrá en el año de mil novecientos veintinno (sic), tres períodos de sesiones ordinarias: el primero, en el mes de febrero; el segundo, en los meses de abril, mayo y junio, estos dos improrrogables; y el tercero, prorrogable hasta por un mes, en los meses de septiembre, octubre y noviembre. En estos períodos se ocupará especialmente de expedir las leyes que sean necesarias para la reorganización de los servicios públicos, de conformidad con los preceptos de esta Constitución, ya sea que la iniciativa de ellas se haga por el mismo Congreso o por el Ejecutivo.
+El Congreso tendrá en el año de mil novecientos veintiuno, tres períodos de sesiones ordinarias: el primero, en el mes de febrero; el segundo, en los meses de abril, mayo y junio, estos dos improrrogables; y el tercero, prorrogable hasta por un mes, en los meses de septiembre, octubre y noviembre. En estos períodos se ocupará especialmente de expedir las leyes que sean necesarias para la reorganización de los servicios públicos, de conformidad con los preceptos de esta Constitución, ya sea que la iniciativa de ellas se haga por el mismo Congreso o por el Ejecutivo.
 
 ###### Art. 7º.
 
@@ -1746,3 +1746,9 @@ P.O. 11 DE NOVIEMBRE DE 1950.
 ###### ARTICULO SEGUNDO.
 
 Este Decreto iniciará su vigencia partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE MAYO DE 1951.
+
+1o.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+2o.- Queda derogado el Decreto No. 49 expedido por el H. Congreso Constitucional de esta Entidad Federativa, el 25 de enero de 1949.
