@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-12803"
 country: "mx"
 rank: "estatuto"
 publication_date: "1998-12-22"
-last_updated: "2001-11-28"
+last_updated: "2003-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12803&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1998-12-08"
 
 ESTATUTO ORGANICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE ABRIL DE 2003.
+
+> <small>N. DE E. LAS REFORMAS APROBADAS POR LA ASAMBLEA GENERAL DEL INFONAVIT EN EL ACUERDO NUMERO 1129, MODIFICAN DE MANERA SUSTANCIAL EL TEXTO DEL PRESENTE ESTATUTO, DANDO COMO RESULTADO UN TEXTO DIFERENTE, AUN Y CUANDO DIVERSOS ARTICULOS QUEDAN INTACTOS, SE PUBLICA EL MISMO EN FORMA INTEGRA.</small>
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación el martes 22 de diciembre de 1998.
 
@@ -29,9 +31,11 @@ Al margen un logotipo, que dice: Instituto del Fondo Nacional de la Vivienda par
 
 ESTATUTO ORGANICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES.
 
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
+
 ## TITULO PRIMERO. De la Dirección General
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 1o.
 
@@ -51,7 +55,7 @@ V. Presentar anualmente al Consejo de Administración, dentro de los dos primero
 
 VI. Presentar al Consejo de Administración, a más tardar el último día de octubre de cada año, los presupuestos de ingresos y egresos y de gastos de administración, operación y vigilancia, así como los programas de labores y de financiamientos para el año siguiente;
 
-VII. Presentar a la consideración del Consejo de Administración un informe mensual sobre las actividades del Instituto;
+VII. Presentar a la consideración del Consejo de Administración, un informe mensual sobre las actividades del Instituto;
 
 VIII. Presentar al Consejo de Administración, para su consideración y, en su caso, aprobación, los programas de financiamientos y créditos a que se refieren las fracciones I y II del artículo 42 de la Ley del INFONAVIT a ser subastados y otorgados, según corresponda, por el Instituto;
 
@@ -59,7 +63,7 @@ IX. Proponer al Consejo de Administración los nombramientos del Secretario Gene
 
 X. Dirigir las actividades de las Subdirecciones Generales, de la Contraloría Interna, de las Coordinaciones Generales de Zona y de la Coordinación de Comunicación Social;
 
-XI. Nombrar y remover al personal del Instituto, señalando sus funciones y remuneraciones, con sujeción a las leyes, presupuestos, tabuladores y en su caso del Contrato Colectivo de Trabajo;
+XI. Nombrar y remover al personal del Instituto, señalando sus funciones y remuneraciones, con sujeción a las leyes, presupuestos, tabuladores y en su caso, del Contrato Colectivo de Trabajo;
 
 XII. Efectuar la readscripción de las unidades administrativas y del personal del Instituto, en su caso;
 
@@ -69,27 +73,29 @@ XIV. Establecer la integración de los Comités Internos con carácter temporal 
 
 XV. Las demás que le señalen la Ley del Instituto y sus disposiciones reglamentarias o que le sean encomendadas por el Consejo de Administración.
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 2o.
 
 La Dirección General dispondrá de asesoría y del personal técnico y administrativo que requiera, para la atención de los asuntos de su competencia, conforme a los presupuestos y tabuladores aprobados.
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 3o.
 
 El Director General designará un Secretario Particular, quien desempeñará las funciones que le sean encomendadas por el titular.
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ## TITULO SEGUNDO. De las Direcciones Sectoriales
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 4o.
 
 En las ausencias temporales del Director General, ejercerá las facultades que le corresponden a éste, el funcionario que designe el propio Director General.
+
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 5o.
 
@@ -113,15 +119,17 @@ VII. Ser órgano de enlace a solicitud de las organizaciones respectivas y la Di
 
 VIII. En general, todas aquellas cuestiones necesarias y relativas al debido cumplimiento de los fines del Instituto, relacionadas con su competencia.
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ## TITULO TERCERO. De la Secretaría General
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 6o.
 
 Las Direcciones Sectoriales contarán con el personal y los elementos que requieran para el eficaz cumplimiento de sus atribuciones y funciones en los términos de los presupuestos y tabuladores aprobados.
+
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 7o.
 
@@ -129,37 +137,39 @@ La Secretaría General fungirá como unidad de apoyo a los órganos colegiados y
 
 En las ausencias temporales del Secretario General, el Prosecretario ejercerá sus funciones.
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 8o.
 
 Para el mejor cumplimiento de sus funciones, la Secretaría General deberá establecer comunicación permanente con las Direcciones Sectoriales.
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 9o.
 
 La Secretaría General fungirá como unidad de enlace entre la Dirección General y las Comisiones Consultivas Regionales, en los términos que establezca el Reglamento de dichos órganos de consulta.
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ## TITULO CUARTO. De las Subdirecciones Generales
 
-> <small>(ADICIONADA SU DENOMINACION, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ### CAPITULO I. De las Subdirecciones Generales
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 10o.
 
 La Secretaría General fungirá, a través de la Secretaría Técnica, como unidad de apoyo de los Comités Internos cuya responsabilidad no corresponda a otra Unidad Administrativa.
 
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
+
 ###### ARTICULO 11o.
 
-Para el cumplimiento de los objetivos, atribuciones y funciones de sus órganos, el Instituto contará con las Subdirecciones Generales de Crédito, de Administración de Cartera, Jurídica y de Fiscalización, Técnica, de Innovación y Calidad, y de Planeación y Finanzas.
+Para el cumplimiento de los objetivos, atribuciones y funciones de sus órganos, el Instituto contará con las Subdirecciones Generales de Crédito, de Administración de Cartera, Jurídica y de Fiscalización, Técnica, de Innovación y Calidad y de Planeación y Finanzas.
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 12o.
 
@@ -177,25 +187,25 @@ V. Coordinar sus actividades con las de los titulares de otras áreas, así como
 
 VI. Planear, evaluar y controlar el funcionamiento de las unidades que le sean adscritas por el Director General;
 
-VII. Coadyuvar a promover el desarrollo de su personal, participando en la formulación de cursos de capacitación;
+VII. Coadyuvar a promover el desarrollo de su personal, participando en la formulación de cursos de capacitación; y
 
 VIII. Formular y emitir opiniones e informes.
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ### CAPITULO II. De la Subdirección General de Crédito
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 13o.
 
 Las Subdirecciones Generales tendrán igual rango y contarán con las unidades administrativas necesarias para la realización de las funciones encomendadas, en los términos de los presupuestos y tabuladores aprobados.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ### CAPITULO III. De la Subdirección General de Administración de Cartera
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 14o.
 
@@ -207,7 +217,7 @@ II. Proponer al Consejo de Administración las innovaciones y mejoras a las dist
 
 III. Adecuar el procedimiento de otorgamiento de crédito para brindar al derechohabiente un servicio más ágil y eficaz;
 
-IV. Analizar y administrar el riesgo de crédito tanto en sus aspectos cualitativos como cuantitativos;
+IV. Asegurar que el otorgamiento de crédito se realiza dentro de los parámetros de riesgo establecidos por la Subdirección General de Planeación y Finanzas;
 
 V. Garantizar la calidad financiera de los créditos originados, asegurando la veracidad y pertinencia de la documentación e información tanto del crédito propiamente dicho, como de sus aspectos técnicos y jurídicos, en coordinación con las áreas competentes;
 
@@ -221,15 +231,15 @@ IX. Asesorar a los derechohabientes en lo referente a sus derechos para obtener 
 
 X. Revisar y proponer los ajustes necesarios a las pólizas de seguro de las viviendas con objeto de garantizar el valor de las mismas al momento del otorgamiento del crédito;
 
-XI. Vigilar la adecuada formalización de los créditos mediante la integración del expediente personal y de vivienda, así como la firma e inscripción de la escritura, coordinándose con la Subdirección General Jurídica y de Fiscalización en lo procedente;
+XI. Asegurar la adecuada formalización de los créditos mediante la integración del expediente personal y de vivienda, así como la firma e inscripción de la escritura, de acuerdo a las normas establecidas por las Subdirecciones Generales, Jurídica y de Fiscalización y de Administración de Cartera;
 
-XII. Evaluar desde el punto de vista de los derechohabientes los distintos procesos de originación y asignación de los créditos;
+XII. Evaluar desde el punto de vista de los derechohabientes los distintos procesos de originación (sic) y asignación de los créditos;
 
-XIII. Evaluar desde el punto de vista crediticio los paquetes de línea II y III, cofinanciamientos, subastas y demás esquemas de financiamiento, incluido el descuento de cartera, que se presenten para aprobación del Instituto;
+XIII. Evaluar desde el punto de vista crediticio los paquetes de Línea II y III, cofinanciamientos, subastas y demás esquemas de financiamiento, incluido el descuento de cartera, que se presenten para aprobación del Instituto;
 
 XIV. Vigilar la correcta aplicación, distribución y registro de los recursos destinados a las diferentes líneas de crédito y subastas;
 
-XV. Establecer programas que aseguren la reasignación de la vivienda irregular recuperada por el Instituto a los trabajadores derechohabientes;
+XV. Establecer programas que aseguren la reasignación expedita de la vivienda recuperada por el Instituto, a los trabajadores derechohabientes, en términos de los lineamientos aplicables para reasignación de vivienda;
 
 XVI. Proporcionar a la Subdirección General de Planeación y Finanzas la información del área de su competencia para la elaboración del Programa Anual de Financiamientos del Instituto;
 
@@ -239,123 +249,125 @@ XVIII. Operar las Reglas para el Otorgamiento de Crédito al amparo del artícul
 
 XIX. Las demás que le señalen las disposiciones normativas institucionales y, en general, todas aquellas cuestiones relativas al cumplimiento de los objetivos del Instituto, que sean afines con las fracciones que anteceden y que le encomiende el Director General.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ### CAPITULO IV. De la Subdirección General Jurídica y de Fiscalización
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 15o.
 
 La Subdirección General de Administración de Cartera tendrá las siguientes funciones:
 
-I. Registrar, operar, supervisar y controlar la cartera de créditos, una vez que éstos hayan sido otorgados y hasta su liquidación definitiva. Las funciones sustantivas a considerar son: la conciliación de cifras contables con las áreas con quienes se interactúa; aplicación de pagos; análisis de amortización; generación y envío de estados de cuenta y comunicación a acreditados; evaluación de la cartera, atención a acreditados y resolución de quejas y aclaraciones; recuperación y cobranza extrajudicial; emitir oportunamente los Avisos de Suspensión de la Retención cuando el crédito haya sido liquidado, traspasado o cancelado y, en general, funciones relacionadas con los créditos que se encuentran en administración;
+I. Registrar, operar, supervisar y controlar la cartera de créditos, una vez que éstos hayan sido otorgados y hasta su liquidación definitiva. Las funciones sustantivas a considerar son: la conciliación de cifras contables con las áreas con quienes se interactúa; aplicación de pagos; análisis de amortización; generación y envío de estados de cuenta y comunicación a acreditados; evaluación de la cartera, atención a acreditados y resolución de quejas y aclaraciones; recuperación y cobranza judicial y extrajudicial; emitir oportunamente los Avisos de Suspensión de la Retención cuando el crédito haya sido liquidado, traspasado o cancelado y, en general, funciones relacionadas con los créditos que se encuentran en administración;
 
 II. Establecer los programas y sistemas internos para el control y recuperación de créditos, en coordinación con las áreas de informática;
 
 III. Planear, diseñar e instrumentar estrategias de cobro conforme a los planes aprobados, así como administrar el proceso de recuperación de los créditos otorgados, a través de la aplicación de programas e instrumentos administrativos y legales existentes y aquellos que, en su caso, aprueben los Organos Colegiados, que coadyuven a su amortización;
 
-IV. Diseñar e instrumentar programas de facilidades de pago a los acreditados que no están sujetos a una relación laboral, conforme a las autorizaciones que, en su caso, reciban del Consejo de Administración. Instrumentar y operar los programas de recuperación necesarios que permitan una atención y seguimiento personalizado a los acreditados en el Régimen Especial de Amortización, y coordinándose con el Area de Fiscalización para los que se encuentren en el Régimen Ordinario;
+IV. Ejecutar los programas de abatimiento de la cartera vencida, así como el seguimiento de los casos previstos en la Ley del INFONAVIT, de acuerdo a los lineamientos y criterios establecidos por la Subdirección General Jurídica y de Fiscalización;
 
-V. Realizar gestiones y emitir solicitudes a los trabajadores para el pago de abonos omitidos, en los casos que no se encuentren sujetos a una relación laboral y que no estén inscritos en los programas de facilidades de pago al acreditado;
+V. Diseñar e instrumentar programas de facilidades de pago a los acreditados que no están sujetos a una relación laboral, conforme a las autorizaciones que, en su caso, reciban del Consejo de Administración. Instrumentar y operar los programas de recuperación necesarios que permitan una atención y seguimiento personalizado a los acreditados en el Régimen Especial de Amortización, y coordinándose con el Area de Fiscalización para los que se encuentren en el Régimen Ordinario;
 
-VI. Administrar la cartera descontada a las entidades financieras que, en su caso, sea aprobada por el Consejo de Administración, en los términos del Artículo 42 de la Ley del Instituto;
+VI. Realizar gestiones y emitir solicitudes a los trabajadores para el pago de abonos omitidos, en los casos que no se encuentren sujetos a una relación laboral y que no estén inscritos en los programas de facilidades de pago al acreditado;
 
-VII. Analizar y determinar el nivel de riesgo y no pago por tipo de cartera, para la propuesta de estrategias de cobranza y recuperación, así como para informar a los Organos Colegiados;
+VII. Administrar la cartera descontada a las entidades financieras que, en su caso, sea aprobada por el Consejo de Administración, en los términos del artículo 42 de la Ley del Instituto;
 
-VIII. Instrumentar los mecanismos de control y conciliación con las áreas de tesorería y recaudación, de los ingresos al Instituto por los diferentes esquemas de recuperación de cartera;
+VIII. Analizar y determinar el nivel de riesgo y no pago por tipo de cartera, para la propuesta de estrategias de cobranza y recuperación, así como para informar a los Organos Colegiados;
 
-IX. Preparar y administrar la cartera institucional susceptible de respaldar la emisión de títulos hipotecarios y ser utilizada en otros esquemas de financiamiento previamente aprobados por el Consejo de Administración;
+IX. Instrumentar los mecanismos de control y conciliación con las áreas de tesorería y recaudación, de los ingresos al Instituto por los diferentes esquemas de recuperación de cartera;
 
-X. Establecer procedimientos internos para los asuntos de su competencia;
+X. Establecer el control de los programas para la devolución y compensación de las cantidades pagadas en exceso por amortizaciones de crédito al Fondo Nacional de la Vivienda;
 
-XI. Difundir y dar cumplimiento a la normatividad y procedimientos emitidos con base en los planes institucionales de calidad;
+XI. Asegurar el cumplimiento de la normatividad correspondiente a la integración y custodia de los expedientes de los acreditados, en la medida que representan la garantía documental de la cartera de créditos del Instituto, así como lo referente a la liberación de adeudos, de acuerdo a las normas establecidas por la Subdirección General Jurídica y de Fiscalización;
 
-XII. Elaborar y proponer programas de capacitación e intercambio para el personal, en lo relativo a las funciones de su competencia;
+XII. Preparar y administrar la cartera institucional susceptible de respaldar la emisión de títulos hipotecarios y ser utilizada en otros esquemas de financiamiento previamente aprobados por el Consejo de Administración;
 
-XIII. Coordinar y dar seguimiento con el Area de Fiscalización, a las metas de cobranza de empresas omisas;
+XIII. Establecer procedimientos internos para los asuntos de su competencia;
 
-XIV. Las demás que le señalen las disposiciones normativas institucionales y, en general, todas aquellas cuestiones relativas al debido cumplimiento de los objetivos del Instituto, que sean afines con las fracciones anteriores y que le encomiende el Director General.
+XIV. Difundir y dar cumplimiento a la normatividad y procedimientos emitidos con base en los planes institucionales de calidad;
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+XV. Elaborar y proponer programas de capacitación e intercambio para el personal, en lo relativo a las funciones de su competencia;
+
+XVI. Coordinar y dar seguimiento con el Area de Fiscalización, a las metas de cobranza de empresas omisas;
+
+XVII. Las demás que le señalen las disposiciones normativas institucionales y, en general, todas aquellas cuestiones relativas al debido cumplimiento de los objetivos del Instituto, que sean afines con las fracciones anteriores y que le encomiende el Director General.
+
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ### CAPITULO V. De la Subdirección General Técnica
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 16o.
 
 La Subdirección General Jurídica y de Fiscalización tendrá las siguientes funciones:
 
-I. Representar legalmente al Instituto en toda clase de convenios, contratos o actos jurídicos que conforme a las instituciones y poderes generales o especiales le otorgue la Dirección General, así como llevar el registro y control de los mismos;
+I. Representar legalmente al Instituto en toda clase de convenios, contratos o actos jurídicos que conforme a las instrucciones y poderes generales o especiales le otorgue la Dirección General, así como llevar el registro y control de los mismos;
 
-II. Revisar y sancionar legalmente todos los actos jurídicos, convenios y contratos en que sea parte el Instituto;
+II. Proporcionar asesoría y soporte, así como normar jurídicamente a todas las áreas del Instituto, a efecto de asegurar que las operaciones se realizan con apego a la Ley y normatividad aplicables;
 
-III. Ejercer las atribuciones que corresponden al Instituto en su carácter de organismo fiscal autónomo, conforme a lo dispuesto por los artículos 23, 30 y 55 de su Ley y en los términos que establezcan los Reglamentos Internos del Instituto en Materia de Facultades como Organismo Fiscal Autónomo y el de Imposición de Multas por Infracción a las disposiciones de la Ley, publicados en el Diario Oficial de la Federación, el 24 de marzo de 1998;
+III. Revisar y sancionar legalmente todos los actos jurídicos, convenios y contratos en que sea parte el Instituto;
 
-IV. Establecer procedimientos administrativos internos de los asuntos en el ámbito de su competencia;
+IV. Ejercer las atribuciones que corresponden al Instituto en su carácter de organismo fiscal autónomo, conforme a lo dispuesto por los artículos 23, 30 y 55 de su Ley y en los términos que establezcan los Reglamentos Internos del Instituto en Materia de Facultades como Organismo Fiscal Autónomo y el de Imposición de Multas por Infracción a las disposiciones de la Ley, publicados en el Diario Oficial de la Federación, el 24 de marzo de 1998;
 
-V. Difundir y vigilar el cumplimiento de la normatividad y procedimientos emitidos;
+V. Establecer procedimientos administrativos internos de los asuntos en el ámbito de su competencia;
 
-VI. Verificar el sistema de administración de las aportaciones al Fondo Nacional de la Vivienda, depositadas en las subcuentas de vivienda, de las cuentas individuales del Sistema de Ahorro para el Retiro, así como de los descuentos patronales para la amortización de los créditos, a fin de detectar las posibles omisiones y requerir su pago;
+VI. Difundir y vigilar el cumplimiento de la normatividad y procedimientos emitidos;
 
-VII. Establecer las normas y el control de los programas para la devolución y compensación de las cantidades pagadas en exceso de las aportaciones y amortizaciones de crédito, al Fondo Nacional de la Vivienda;
+VII. Establecer las normas de los programas para la devolución y compensación de las cantidades pagadas en exceso de las aportaciones y amortizaciones de crédito, al Fondo Nacional de la Vivienda;
 
-VIII. Establecer las normas y el control de los programas de titulación e inscripción ante los Registros Públicos de la Propiedad, de los instrumentos privados a que se refieren los artículos 42 y 51 de la Ley del Instituto, así como coordinar las actividades que en esta materia lleve a cabo el Instituto con el apoyo del Notariado Nacional;
+VIII. Establecer las normas de los programas de titulación e inscripción ante los Registros Públicos de la Propiedad, de los instrumentos públicos o privados a que se refiere la Ley del Instituto, así como establecer y coordinar programas a efecto de concluir con el rezago histórico en materia de titulación e inscripción y proporcionar asesoría en la materia a la Subdirección General de Crédito;
 
-IX. Llevar el control y custodia de los títulos de propiedad correspondientes a los conjuntos habitacionales financiados por el Instituto con anterioridad a las reformas legales de 1992;
+IX. Intervenir en los actos jurídicos para la enajenación de la reserva territorial del Instituto, así como establecer y coordinar programas para la recuperación de esta última cuando se encuentre invadida o con problemas jurídicos;
 
-X. Intervenir en los actos jurídicos para la enajenación de la reserva territorial del Instituto;
+X. Revisar y sancionar los aspectos legales de todas las convocatorias de subastas o licitaciones que lleve a cabo el Instituto y participar en los procesos de éstas;
 
-XI. Revisar y sancionar los aspectos legales de todas las convocatorias de subastas o licitaciones que lleve a cabo el Instituto y participar en los procesos de éstas;
+XI. Suscribir convenios de coordinación con la Secretaría de Hacienda y Crédito Público, Instituto Mexicano del Seguro Social y demás autoridades fiscales locales, para coadyuvar en la función recaudatoria del Instituto;
 
-XII. Suscribir convenios de coordinación con la Secretaría de Hacienda y Crédito Público, Instituto Mexicano del Seguro Social y demás autoridades fiscales locales, para coadyuvar en la función recaudatoria del Instituto;
+XII. Determinar los lineamientos y establecer los procedimientos para controlar los recursos administrativos y juicios de carácter fiscal en que el Instituto sea parte;
 
-XIII. Coordinar las labores de fiscalización del INFONAVIT con otras entidades dentro del marco legal aplicable;
+XIII. Defender los intereses del Instituto ante el Tribunal Federal de Justicia Fiscal y Administrativa y ante el Poder Judicial de la Federación en su carácter de Organismo Fiscal Autónomo;
 
-XIV. Determinar los lineamientos y establecer los procedimientos para controlar los recursos administrativos y juicios de carácter fiscal en que el Instituto sea parte;
+XIV. Asesorar en materia jurídica a la Subdirección General de Administración de Cartera, en lo referente a programas de abatimiento de la cartera vencida establecidos en la Ley del Instituto, fijando los lineamientos y criterios a seguir en esta materia;
 
-XV. Defender los intereses del Instituto ante el Tribunal Federal de Justicia Fiscal y Administrativa y ante el Poder Judicial de la Federación en su carácter de Organismo Fiscal Autónomo;
+XV. Llevar el control de los poderes que otorgue el Director General, en términos del artículo 23 fracción I de la Ley del INFONAVIT, a los funcionarios del Instituto o terceros que autorice el Consejo de Administración, así como las revocaciones de dichos poderes;
 
-XVI. Coordinar los programas de abatimiento a la vivienda irregular, estableciendo los lineamientos y criterios a seguir en esta materia;
+XVI. Normar y supervisar la función jurídica de las Delegaciones Regionales, así como normar la correspondiente a fiscalización;
 
-XVII. Llevar el control de los poderes que otorgue el Director General, en términos del Artículo 23, fracción I de la Ley del INFONAVIT, a los funcionarios del Instituto o terceros que autorice el Consejo de Administración, así como las revocaciones de dichos poderes;
+XVII. Revisar y sancionar la reglamentación interna y normatividad en el ámbito de su competencia que se someterá a los Organos Colegiados del Instituto para su aprobación;
 
-XVIII. Coordinar y dar seguimiento con las Areas Jurídicas y de Fiscalización de las Delegaciones Regionales a las metas de los programas que se operen conforme a la competencia de estas áreas;
+XVIII. Verificar que los anteproyectos y proyectos ejecutivos en materia de subastas reúnan los requisitos indispensables para la contratación del financiamiento;
 
-XIX. Revisar y sancionar la reglamentación interna y normatividad en el ámbito de su competencia que se someterá a los Organos Colegiados del Instituto para su aprobación;
+XIX. Verificar que las ofertas de paquetes en línea II y las solicitudes de paquetes en línea III y cofinanciamiento y demás esquemas de financiamiento, reúnan la documentación señalada en los instructivos correspondientes;
 
-XX. Verificar que los anteproyectos y proyectos ejecutivos en materia de subastas reúnan los requisitos indispensables para la contratación del financiamiento;
+XX. Intervenir con la representación del Instituto en los juicios y conflictos jurídicos en los que éste sea parte;
 
-XXI. Verificar que las ofertas de paquetes en línea II y las solicitudes de paquetes en línea III y cofinanciamiento y demás esquemas de financiamiento, reúnan la documentación señalada en los instructivos correspondientes;
+XXI. Diseñar la política de contratación y caución de despachos externos que en representación del INFONAVIT intervengan en litigios en los que el Instituto sea parte o tenga algún interés, vigilando que se apeguen en todo momento a los intereses institucionales;
 
-XXII. Intervenir con la representación del Instituto en los juicios y conflictos jurídicos en los que éste sea parte;
+XXII. Vigilar el cumplimiento de la Ley, Reglamentos, Reglas Generales, Instructivos, Acuerdos y Circulares, así como difundir y unificar los criterios jurídicos en la aplicación de las normas que rigen al Instituto y actuar como órgano de consulta respecto a ellas;
 
-XXIII. Diseñar la política de contratación y caución de despachos externos que en representación del INFONAVIT intervengan en litigios en los que el Instituto sea parte o tenga algún interés, vigilando que se apeguen en todo momento a los intereses institucionales;
+XXIII. Formular y someter a la Dirección General las propuestas de proyectos de Ley, Reglamentos, Reglas Generales, Instructivos, Acuerdos y Circulares, relativos a las actividades del Instituto;
 
-XXIV. Vigilar el cumplimiento de la Ley, Reglamentos, Reglas Generales, Instructivos, Acuerdos y Circulares, así como difundir y unificar los criterios jurídicos en la aplicación de las normas que rigen al Instituto y actuar como órgano de consulta respecto a ellas;
+XXIV. Coordinar el desahogo de las visitas y demás solicitudes que formule la Comisión de Inconformidades y de Valuación, en los términos del Reglamento respectivo;
 
-XXV. Formular y someter a la Dirección General las propuestas de proyectos de Ley, Reglamentos, Reglas Generales, Instructivos, Acuerdos y Circulares, relativos a las actividades del Instituto;
+XXV. Autorizar la aceptación de fianzas que otorguen desarrolladores, contratistas, proveedores y terceros, que garanticen obligaciones a su cargo ante el Instituto, en los contratos y convenios que éstos celebren;
 
-XXVI. Establecer los programas y el control de entrega de depósitos a los trabajadores o a sus beneficiarios y de la liberación de adeudos y en su caso en coordinación con la Subdirección General de Crédito en apoyo a los nuevos esquemas de crédito que el Consejo de Administración apruebe;
+XXVI. Establecer las normas y acciones para la aplicación de sanciones a empresas que presten sus servicios al Instituto;
 
-XXVII. Coordinar el desahogo de las visitas y demás solicitudes que formule la Comisión de Inconformidades y de Valuación, en los términos del Reglamento respectivo;
+XXVII. Atender las relaciones jurídico-laborales con el personal del Instituto, en coordinación con la Subdirección General de Innovación y Calidad;
 
-XXVIII. Autorizar la aceptación de fianzas que otorguen desarrolladores, contratistas, proveedores y terceros, que garanticen obligaciones a su cargo ante el Instituto, en los contratos y convenios que éstos celebren;
+XXVIII. Elaborar y proponer programas de capacitación e intercambio para el personal, en lo relativo a las funciones de su competencia;
 
-XXIX. Establecer las normas y acciones para la aplicación de sanciones a empresas que presten sus servicios al Instituto;
+XXIX. Las demás que le señalen las disposiciones normativas institucionales y, en general, todas aquellas cuestiones relativas al cumplimiento de los objetivos del Instituto que sean afines con las fracciones anteriores y que le encomiende el Director General.
 
-XXX. Atender las relaciones jurídico-laborales con el personal del Instituto, en coordinación con la Subdirección General de Innovación y Calidad;
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
-XXXI. Elaborar y proponer programas de capacitación e intercambio para el personal, en lo relativo a las funciones de su competencia;
+### CAPITULO VI
 
-XXXII. Las demás que le señalen las disposiciones normativas institucionales y, en general, todas aquellas cuestiones relativas al cumplimiento de los objetivos del Instituto que sean afines con las fracciones anteriores y que le encomiende el Director General.
+De la Subdirección General de Innovación y Calidad.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
-
-### CAPITULO VI. De la Subdirección General de Innovación y Calidad
-
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 17o.
 
@@ -373,9 +385,7 @@ V. Evaluar con apego a la normatividad y desde el punto de vista urbanístico, d
 
 VI. Emitir normas y procedimientos relativos a la supervisión, valuación, inspección y verificación de las obras en el sistema de subastas y de paquetes de líneas II, III, cofinanciamientos y demás esquemas de financiamiento;
 
-VII. Realizar la evaluación operativa de las empresas de supervisión, valuación, verificación, compañías constructoras y promotoras que participen en los programas de
-
-financiamiento de vivienda;
+VII. Realizar la evaluación operativa de las empresas de supervisión, valuación, verificación, compañías constructoras y promotoras que participen en los programas de financiamiento de vivienda;
 
 VIII. Administrar y promover la vivienda institucional con la demanda, a través de organismos, empresas e instituciones en la materia;
 
@@ -387,15 +397,17 @@ XI. Revisar y sancionar los precios de venta de las viviendas para asegurar que 
 
 XII. Analizar, evaluar y dictaminar los anteproyectos y proyectos de construcción de vivienda en lo relativo a aspectos arquitectónicos, de ingeniería y equipamiento urbano conforme a las normas expedidas;
 
-XIII. Elaborar y proponer programas de capacitación e intercambio para el personal, en lo relativo a las funciones de su competencia;
+XIII. Elaborar y proponer programas de capacitación e intercambio para el personal, en lo relativo a las funciones de su competencia, y
 
 XIV. Las demás que le señalen las disposiciones normativas institucionales y en general todas aquellas cuestiones relativas al cumplimiento de los objetivos del Instituto que sean afines con las fracciones anteriores y que le encomiende el Director General.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
-### CAPITULO VII. De la Subdirección General de Planeación y Finanzas
+### CAPITULO VII
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+De la Subdirección General de Planeación y Finanzas.
+
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 18o.
 
@@ -423,7 +435,7 @@ X. Integrar y formular los proyectos de presupuestos de gastos de administració
 
 XI. Programar, registrar y controlar las erogaciones que se efectúen con cargo a los gastos de administración, operación y vigilancia y el de inversiones propias del Instituto;
 
-XII. Proporcionar a la Subdirección General de Planeación y Finanzas la información de gastos de administración, operación y vigilancia y de inversiones propias para la elaboración de los Presupuestos de Ingresos y Egresos del Instituto;
+XII. Proporcionar a la Subdirección General de Planeación y Finanzas la información de los gastos de administración, operación y vigilancia y de inversiones propias para la elaboración de los Presupuestos de Ingresos y Egresos del Instituto;
 
 XIII. Garantizar el desarrollo y la operación de los sistemas y procesos de medición y seguimiento de la calidad de los servicios que proporciona el Instituto;
 
@@ -451,17 +463,19 @@ XXIV. Promover y administrar programas de colaboración y apoyo con entidades gu
 
 XXV. Coordinar con la PROCESAR los sistemas de información que hagan posible el intercambio adecuado de datos entre ambas instituciones, así como su homologación;
 
-XXVI. Las demás que le señalen las disposiciones normativas institucionales y, en general, todas aquellas cuestiones relativas al debido cumplimiento de los objetivos del Instituto, que sean afines con las fracciones anteriores y que le encomiende el Director General.
+XXVI. Las demás que le señalen las disposiciones normativas institucionales y en general todas aquellas cuestiones relativas al debido cumplimiento de los objetivos del Instituto, que sean afines con las fracciones anteriores y que le encomiende el Director General.
 
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
-### CAPITULO II
+### CAPITULO I
+
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 19o.
 
 La Subdirección General de Planeación y Finanzas tendrá a su cargo las funciones siguientes:
 
-I. Formular y dar seguimiento a los planes y programas, así como administrar la subcuenta de vivienda y los recursos financieros del Instituto;
+I. Formular y dar seguimiento a los planes y programas así como administrar la subcuenta de vivienda y los recursos financieros del Instituto;
 
 II. Coordinar la planeación estratégica del Instituto, tomando en consideración el contenido del Plan Nacional de Desarrollo y sus programas sectoriales;
 
@@ -473,31 +487,45 @@ V. Establecer y operar los mecanismos e indicadores de evaluación de las accion
 
 VI. Realizar los cálculos necesarios para que la Dirección General someta a la aprobación del Consejo de Administración los remanentes de operación, estimado y definitivo de cada ejercicio que deberán aplicarse al pago de intereses a las subcuentas de vivienda de los derechohabientes;
 
-VII. Garantizar una adecuada coordinación con las dependencias del Sistema de Ahorro para el Retiro como son: CONSAR, IMSS, PROCESAR, AFORES, SIEFORES y las demás instituciones participantes en dicho Sistema;
+VII. Garantizar una adecuada coordinación con las dependencias del Sistema de Ahorro para el Retiro como son: CONSAR, IMSS; PROCESAR, AFORES, SIEFORES y las demás instituciones participantes en dicho Sistema;
 
 VIII. Asegurar el óptimo rendimiento de los fondos de los trabajadores depositados en la subcuenta de vivienda del Sistema de Ahorro para el Retiro;
 
-IX. Administrar y controlar la recaudación de aportaciones y amortizaciones que provengan del esquema fiscal obligado a los patrones, así como la de otros ingresos;
+IX. Administrar y controlar la recaudación de aportaciones y amortizaciones que provengan del esquema fiscal obligado a los patrones así como la de otros ingresos;
 
-X. Dictar los lineamientos para transferir los fondos de la Subcuenta de Vivienda a las AFORES para la contratación de la pensión correspondiente en los términos y condiciones que señala la legislación aplicable;
+X. Verificar el sistema de administración de las aportaciones al Fondo Nacional de la Vivienda, depositadas en las subcuentas de vivienda, de las cuentas individuales del Sistema de Ahorro para el Retiro, así como de los descuentos patronales para la amortización de los créditos, a fin de detectar las posibles omisiones y requerir su pago;
 
-XI. Administrar los recursos líquidos del Instituto, cuidando que sean suficientes para cumplir con sus compromisos presentes y futuros;
+XI. Establecer el control de los programas para la devolución y compensación de las cantidades pagadas en exceso de las aportaciones al Fondo Nacional de la Vivienda;
 
-XII. Realizar estudios y análisis de los mercados financieros y, en su caso, instrumentar nuevas alternativas de fondeo que apruebe el Consejo de Administración que permitan al Instituto obtener recursos adicionales para financiar un mayor número de créditos;
+XII. Dictar los lineamientos para transferir los fondos de la Subcuenta de Vivienda a las AFORES para la contratación de la pensión correspondiente en los términos y condiciones que señala la legislación aplicable;
 
-XIII. Promover con entidades financieras la existencia de programas de financiamiento a la construcción de vivienda;
+XIII. Administrar los recursos líquidos del Instituto, cuidando que sean suficientes para cumplir con sus compromisos presentes y futuros;
 
-XIV. Evaluar desde el punto de vista financiero, las empresas que tengan relación con el Instituto, con excepción de lo dispuesto en las fracciones XIII y XIV del artículo 14o. del presente Estatuto;
+XIV. Realizar estudios y análisis de los mercados financieros y en su caso, instrumentar nuevas alternativas de fondeo que apruebe el Consejo de Administración que permitan al Instituto obtener recursos adicionales para financiar un mayor número de créditos;
 
-XV. Administrar la caja de seguros de crédito y autoseguro de daños del Instituto;
+XV. Analizar y administrar el riesgo financiero institucional tanto en sus aspectos cualitativos como cuantitativos;
 
-XVI. Operar los sistemas de contabilidad de los ingresos y egresos del Instituto, sus controles internos para el conocimiento y vigilancia de sus operaciones y la formulación de los Estados Financieros;
+XVI. Coordinar la operación de fiscalización del INFONAVIT con otras entidades, dentro del marco legal aplicable;
 
-XVII. Validar y valuar la reserva territorial, lotes comerciales y bienes adjudicados y asegurar su enajenación;
+XVII. Supervisar la función de Fiscalización de las Delegaciones Regionales;
 
-XVIII. Promover y administrar programas de colaboración y apoyo con entidades gubernamentales, instituciones financieras y crediticias, así como con organismos privados, en el área de su competencia;
+XVIII. Administrar la entrega de los depósitos en el Fondo Nacional de la Vivienda;
 
-XIX. Las demás que señalen las disposiciones normativas aplicables y, en general, todas aquellas cuestiones relativas al cumplimiento de los objetivos del Instituto que sean afines con las fracciones anteriores y que le encomiende el Director General.
+XIX. Promover con entidades financieras la existencia de programas de financiamiento a la construcción de vivienda;
+
+XX. Evaluar desde el punto de vista financiero, las empresas que tengan relación con el Instituto, con excepción de lo dispuesto en las fracciones XIII y XIV del artículo 14o. del presente Estatuto;
+
+XXI. Administrar la caja de seguros de crédito y autoseguro de daños del Instituto;
+
+XXII. Operar los sistemas de contabilidad de los ingresos y egresos del Instituto, sus controles internos para el conocimiento y vigilancia de sus operaciones y la formulación de los Estados Financieros;
+
+XXIII. Validar y valuar la reserva territorial, lotes comerciales y bienes adjudicados y asegurar su enajenación;
+
+XXIV. Promover y administrar programas de colaboración y apoyo con entidades gubernamentales, instituciones financieras y crediticias, así como con organismos privados, en el área de su competencia;
+
+XXV. Las demás que señalen las disposiciones normativas aplicables en general, todas aquellas cuestiones relativas al cumplimiento de los objetivos del Instituto que sean afines con las fracciones anteriores y que le encomiende el Director General.
+
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 20o.
 
@@ -511,13 +539,15 @@ III. Coordinar la edición de las publicaciones institucionales;
 
 IV. Coordinar la elaboración y difusión de revistas, videos, trípticos, carteles, convocatorias, avisos y demás elementos relacionados con las actividades institucionales;
 
-V. Coordinar y operar las campañas de difusión institucionales;
+V. Coordinar y operar las campañas de difusión institucionales, y
 
-VI. Las demás que le señalen las disposiciones normativas institucionales y, en general, todas aquellas cuestiones relativas al cumplimiento de los objetivos del Instituto que sean afines con las fracciones anteriores y que le encomiende el Director General.
+VI. Las demás que le señalen las disposiciones normativas institucionales y en general todas aquellas cuestiones relativas al cumplimiento de los objetivos del Instituto que sean afines con las fracciones anteriores y que le encomiende el Director General.
+
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ## TITULO QUINTO. De la Coordinación de Comunicación Social
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 21o.
 
@@ -525,33 +555,33 @@ La Contraloría Interna dependerá directamente del Director General y tendrá a
 
 I. Vigilar que las inversiones y las operaciones del Instituto se apeguen estrictamente a la normatividad institucional;
 
-II. Establecer las políticas y normas para el desarrollo de los sistemas de auditoría interna del Instituto;
+II. Establecer las políticas y normas para el desarrollo de los sistemas de Auditoría Interna del Instituto;
 
 III. Practicar las auditorías a las distintas áreas del Instituto, conforme a las directrices que fije el Director General;
 
 IV. Tramitar y atender las quejas y denuncias que se presenten con motivo de los actos de funcionarios y empleados del Instituto;
 
-V. Vigilar el cumplimiento de las normas y procedimientos de operación y, en su caso, aplicar las sanciones a que hubiere lugar de conformidad con los ordenamientos jurídicos institucionales;
+V. Vigilar el cumplimiento de las normas y procedimientos de operación y en su caso, aplicar las sanciones a que hubiere lugar de conformidad con los ordenamientos jurídicos institucionales;
 
-VI. Coordinar las relaciones institucionales con los auditores externos designados por la Comisión de Vigilancia, sin perjuicio de las atribuciones que correspondan a otras dependencias del Instituto;
+VI. Coordinar las relaciones institucionales con los Auditores Externos designados por la Comisión de Vigilancia, sin perjuicio de las atribuciones que correspondan a otras dependencias del Instituto;
 
-VII. Las demás que le señalen las disposiciones normativas aplicables y, en general, todas aquellas cuestiones relativas al cumplimiento de los objetivos del Instituto que sean afines con las fracciones anteriores y que le encomiende el Director General.
+VII. Las demás que le señalen las disposiciones normativas aplicables y en general, todas aquellas cuestiones relativas al cumplimientos (sic) de los objetivos del Instituto que sean afines con las fracciones anteriores y que le encomiende el Director General.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ## TITULO SEXTO. De la Contraloría Interna
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 22o.
 
 Las Coordinaciones Generales de Zona son entidades revestidas de facultades por la Dirección General, para supervisar la operación conforme a las normas establecidas y para promover el desarrollo de las Delegaciones Regionales, así como de la Coordinación del Distrito Federal, en su caso, que tengan asignadas en el área de su circunscripción.
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ## TITULO SEPTIMO. De las Coordinaciones Generales de Zona
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 23o.
 
@@ -571,41 +601,41 @@ VI. Coordinar la celebración de convenios de desregulación, desgravación y es
 
 VII. Las demás que señalen las disposiciones normativas institucionales y, en general, todas aquellas cuestiones relativas al cumplimiento de los fines del Instituto, que sean afines con las fracciones anteriores y que les encomiende el Director General.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 24o.
 
-Las Delegaciones Regionales son órganos revestidos de facultades delegadas por la Dirección General y las Subdirecciones Generales en el ámbito de su competencia, las cuales se ejercerán en representación del Instituto en la circunscripción territorial que se les asigne, así como de aquellas recomendaciones derivadas de la supervisión que, en lo específico, les sean encomendadas por las Coordinaciones Generales de Zona.
+Las Delegaciones Regionales son órganos revestidos de facultades delegadas por la Dirección General y las Subdirecciones Generales en el ámbito de su competencia, las cuales se ejercerán en representación del Instituto en la circunscripción territorial, que se les asigne, así como de aquellas recomendaciones derivadas de la supervisión que, en lo específico, les sean encomendadas por las Coordinaciones Generales de Zona.
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 25o.
 
 Para el mejor cumplimiento de los objetivos del Instituto, las funciones operativas se desconcentrarán a las delegaciones, conforme a los lineamientos establecidos en el reglamento respectivo.
 
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ## TITULO OCTAVO. De las Delegaciones Regionales
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 26o.
 
 Para articular y coordinar las actividades de las Delegaciones Regionales, el Instituto contará con las Coordinaciones Generales de Zona autorizadas por el Director General.
 
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ## TITULO NOVENO. De los Comités Internos
 
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 27o.
 
 El Director General establecerá Comités Internos con carácter temporal o permanente para el mejor cumplimiento de los fines del Instituto.
 
-I. Los Comités Internos establecidos por el Director General no requerirán, para su funcionamiento, de recursos humanos, materiales y financieros propios;
+I. Los Comités Internos establecidos por el Director General, no requerirán, para su funcionamiento, de recursos humanos, materiales y financieros propios;
 
-II. Para el desempeño de las actividades de los Comités Internos que se establezcan, se determinará la normatividad que regule su integración y funcionamiento.
+II. Para el desempeño de las actividades de los Comités Internos que se establezcan, se determinará la normatividad que regule su integración y funcionamiento, y (sic)
 
 ## TRANSITORIOS
 
@@ -642,3 +672,13 @@ El presente Estatuto Orgánico modifica al aprobado por Acuerdo 1046 de la sesi�
 ###### ARTICULO SEGUNDO.
 
 Estas modificaciones entrarán en vigor a partir de la fecha de su aprobación por la Asamblea General del INFONAVIT.
+
+D.O.F. 8 DE ABRIL DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente Estatuto Orgánico modifica al aprobado por Acuerdo 1057 de la 79 asamblea general extraordinaria del Instituto, publicado en el Diario Oficial de la Federación el día 28 de noviembre de 2001.
+
+###### ARTICULO SEGUNDO.
+
+Estas modificaciones entrarán en vigor a partir de la fecha de su aprobación por la H. Asamblea General del Instituto.
