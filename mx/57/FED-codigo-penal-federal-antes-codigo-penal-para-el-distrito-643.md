@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1996-11-07"
+last_updated: "1996-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE NOVIEMBRE DE 1996.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -3339,7 +3339,7 @@ Delitos contra la libertad y el normal desarrollo psicosexual
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO D.O.F. 13 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 260.
 
@@ -3763,7 +3763,7 @@ Además de lo dispuesto en los artículos 51 y 52 para la fijación de las penas
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 310.
 
@@ -4675,13 +4675,21 @@ El juez, teniendo en cuenta la naturaleza de la acción, las circunstancias pers
 
 ###### ARTICULO 401.
 
-Para los efectos de este capítulo se entiende por:
+Para los efectos de este Capítulo, se entiende por:
 
-I.- Funcionarios electorales, quienes en los términos de la legislación federal electoral integren los órganos que cumplen funciones públicas electorales;
+I.- Servidores Públicos, las personas que se encuentren dentro de los supuestos establecidos por el artículo 212 de este Código.
 
-II.- Funcionarios partidistas, los dirigentes de los partidos políticos nacionales, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales federales los propios partidos otorgan representación para actuar en la jornada electoral ante los órganos electorales en los términos de la legislación federal electoral; y
+Se entenderá también como Servidores Públicos a los funcionarios y empleados de la Administración Pública Estatal y Municipal;
 
-III.- Documentos públicos electorales, las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, las de los cómputos distritales, y en general, los documentos expedidos en el ejercicio de sus funciones por los órganos del Instituto Federal Electoral.
+II.- Funcionarios electorales, quienes en los términos de la legislación federal electoral integren los órganos que cumplen funciones electorales;
+
+III.- Funcionarios partidistas, los dirigentes de los partidos políticos nacionales y de las agrupaciones políticas, y sus representantes ante los órganos electorales, en los términos de la legislación federal electoral;
+
+IV.- Candidatos, los ciudadanos registrados formalmente como tales por la autoridad competente;
+
+V.- Documentos públicos electorales, las actas de la jornada electoral, las relativas al escrutinio y cómputo de cada una de las elecciones, paquetes electorales y expedientes de casilla, las actas circunstanciadas de las sesiones de cómputo de los consejos locales y distritales, y las de los cómputos de circunscripción plurinominal y, en general todos los documentos y actas expedidos en el ejercicio de sus funciones por los órganos del Instituto Federal Electoral; y
+
+VI.- Materiales electorales, los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadoras de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
 
 > <small>(REFORMADO, D.O.F. 25 DE MARZO DE 1994)</small>
 
@@ -4689,65 +4697,43 @@ III.- Documentos públicos electorales, las actas oficiales de instalación de c
 
 Por la comisión de cualquiera de los delitos comprendidos en el presente Capítulo se podrá imponer además de la pena señalada, la inhabilitación de uno a cinco años, y en su caso, la destitución del cargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 403.
 
 Se impondrán de diez a cien días multa y prisión de seis meses a tres años, a quien:
 
-> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
-
 I.- Vote a sabiendas de que no cumple con los requisitos de la ley;
-
-> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
 
 II.- Vote más de una vez en una misma elección;
 
-> <small>(REFORMADA, D.O.F. 25 DE MARZO DE 1994)</small>
+III.- Haga proselitismo o presione objetivamente a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes, con el fin de orientar el sentido de su voto;
 
-III.- Haga proselitismo o presione a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes;
+IV.- Obstaculice o interfiera dolosamente el desarrollo normal de las votaciones, el escrutinio y cómputo, el traslado y entrega de los paquetes y documentación electoral, o el adecuado ejercicio de las tareas de los funcionarios electorales;
 
-> <small>(REFORMADA, D.O.F. 25 DE MARZO DE 1994)</small>
+V.- Recoja en cualquier tiempo, sin causa prevista por la ley, credenciales para votar de los ciudadanos;
 
-IV.- Obstaculice o interfiera el desarrollo normal de las votaciones del escrutinio, o del cómputo;
+VI.- Solicite votos por paga, dádiva, promesa de dinero u otra recompensa durante las campañas electorales o la jornada electoral;
 
-> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
+VII.- El día de la jornada electoral viole, de cualquier manera, el derecho del ciudadano a emitir su voto en secreto;
 
-V.- Recoja sin causa prevista por la ley credenciales de elector de los ciudadanos;
+VIII.- Vote o pretenda votar con una credencial para votar de la que no sea titular;
 
-> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
+IX.- El día de la jornada electoral lleve a cabo el transporte de votantes, coartando o pretendiendo coartar su libertad para la emisión del voto;
 
-VI.- Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
+X.- Introduzca en o sustraiga de las urnas ilícitamente una o más boletas electorales, o se apodere, destruya o altere boletas, documentos o materiales electorales, o impida de cualquier forma su traslado o entrega a los órganos competentes;
 
-> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
+XI.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que, mediante amenaza o promesa de paga o dádiva, comprometa su voto en favor de un determinado partido político o candidato;
 
-VII.- Viole de cualquier manera el secreto del voto;
+XII.- Impida en forma violenta la instalación de una casilla, o asuma dolosamente cualquier conducta que tenga como finalidad impedir la instalación normal de la casilla; o
 
-> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
+XIII.- Durante los ocho días previos a la elección y hasta la hora oficial del cierre de las casillas que se encuentren en las zonas de husos horarios más occidentales del territorio nacional, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias de los ciudadanos.
 
-VIII.- Vote o pretenda votar con una credencial de la que no sea titular;
-
-> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
-
-IX.- El día de la elección organice la reunión y traslado de votantes con el objeto de llevarlos a votar y de influir en el sentido de su voto;
-
-> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
-
-X.- Introduzca en o sustraiga de las urnas ilícitamente una o más boletas electorales; destruya o altere boletas o documentos electorales;
-
-> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
-
-XI.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa; o
-
-> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
-
-XII.- Impida en forma violenta la instalación de una casilla.
-
-> <small>(REFORMADO, D.O.F. 25 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 404.
 
-Se impondrán hasta 500 días multa, a los ministros de cultos religiosos, que por cualquier medio en el desarrollo de actos propios de su ministerio, induzcan al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención.
+Se impondrán hasta 500 días multa a los ministros de cultos religiosos que, en el desarrollo de actos públicos propios de su ministerio, induzcan expresamente al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención del ejercicio del derecho al voto.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MARZO DE 1994)</small>
 
@@ -4759,75 +4745,77 @@ Se impondrá de cincuenta a doscientos días multa y prisión de dos a seis año
 
 I.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al Registro Federal de Electores;
 
-> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-II.- Se abstenga de cumplir, sin causa justificada, con sus obligaciones electorales con perjuicio del proceso;
+II.- Se abstenga de cumplir, sin causa justificada, con las obligaciones propias de su cargo, en perjuicio del proceso electoral;
 
 > <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
 
 III.- Obstruya el desarrollo normal de la votación sin mediar causa justificada;
 
-> <small>(REFORMADA, D.O.F. 25 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-IV.- Altere los resultados electorales, sustraiga o destruya boletas o documentos electorales;
+IV.- Altere los resultados electorales, sustraiga o destruya boletas, documentos o materiales electorales;
 
-> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-V.- No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada; y
+V.- No entregue o impida la entrega oportuna de documentos o materiales electorales, sin mediar causa justificada;
 
-> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-VI.- En ejercico (sic) de sus funciones ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+VI.- En ejercicio de sus funciones ejerza presión sobre los electores y los induzca objetivamente a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 
 > <small>(REFORMADA, D.O.F. 25 DE MARZO DE 1994)</small>
 
 VII.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la ley de la materia, la instale en lugar distinto al legalmente señalado, o impida su instalación;
 
-> <small>(REFORMADA, D.O.F. 25 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-VIII.- Al que expulse de la casilla electoral sin causa justificada a representante de un partido político o coarte los derechos que la ley le concede;
+VIII.- Sin causa prevista por la ley expulse u ordene el retiro de la casilla electoral de representantes de un partido político o coarte los derechos que la ley les concede;
 
-> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
+IX.- (DEROGADA, D.O.F. 22 DE NOVIEMBRE DE 1996)
 
-IX.- Conociendo la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto, no tome las medidas conducentes para que cesen;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
+X.- Permita o tolere que un ciudadano emita su voto a sabiendas de que no cumple con los requisitos de ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales; o
 
-X.- Permita o tolere a sabiendas que un ciudadano emita su voto cuando no cumple con los requisitos de ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales; o
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
+XI.- Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
 
-XI.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MARZO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 406.
 
-Se impondrán de cien a doscientos días multa y prisión de uno a seis años, al funcionario partidista que:
+Se impondrán de cien a doscientos días multa y prisión de uno a seis años, al funcionario partidista o al candidato que:
 
-> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-I.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+I.- Ejerza presión sobre los electores y los induzca a la abstención o a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 
 > <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
 
 II.- Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
 
-> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-III.- Substraiga, destruya, altere o haga un uso indebido de documentos oficiales de índole electoral;
+III.- Sustraiga, destruya, altere o haga uso indebido de documentos o materiales electorales;
 
-> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-IV.- Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
+IV.- Obstaculice el desarrollo normal de la votación o de los actos posteriores a la misma sin mediar causa justificada, o con ese fin amenace o ejerza violencia física sobre los funcionarios electorales;
 
-> <small>(REFORMADA, D.O.F. 25 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-V.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados; y
+V.- Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados;
 
-> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-VI.- Impida con violencia la instalación; apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por la Ley en la materia.
+VI.- Impida con violencia la instalación, apertura o cierre de una casilla; o
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+VII.- Obtenga y utilice a sabiendas y en su calidad de candidato, fondos provenientes de actividades ilícitas para su campaña electoral.
 
 > <small>(REFORMADO, D.O.F. 25 DE MARZO DE 1994)</small>
 
@@ -4835,11 +4823,21 @@ VI.- Impida con violencia la instalación; apertura o cierre de una casilla o la
 
 Se impondrán de doscientos a cuatrocientos días multa y prisión de uno a nueve años, al servidor público que:
 
-I.- Obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-II.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio en favor de un partido político o candidato; o
+I.- Obligue a sus subordinados, de manera expresa y haciendo uso de su autoridad o jerarquía, a emitir sus votos en favor de un partido político o candidato;
 
-III.- Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo tales como vehículos, inmuebles y equipos, al apoyo de un partido político o de un candidato, sin perjuicio de las penas que pueda corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo correspondiente a sus labores para que éstos presten servicio a un partido político o candidato. En la comisión de este delito no habrá el beneficio de la libertad provisional.
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+II.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, en el ámbito de su competencia, a la emisión del sufragio en favor de un partido político o candidato;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+III.- Destine, de manera ilegal, fondos, bienes o servicios que tenga a su disposición en virtud de su cargo tales como vehículos, inmuebles y equipos, al apoyo de un partido político o de un candidato, sin perjuicio de las penas que pueda corresponder por el delito de peculado; o
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+IV.- Proporcione apoyo o preste algún servicio a los partidos políticos o a sus candidatos, a través de sus subordinados, usando del tiempo correspondiente a sus labores, de manera ilegal.
 
 > <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
 
@@ -4867,11 +4865,11 @@ II.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido del d
 
 La pena a que se refiere el artículo anterior se podrá incrementar en una cuarta parte si las conductas son cometidas por personal del órgano que tenga a su cargo el servicio del Registro Nacional de Ciudadanos conforme a la ley de la materia, o si fuere de nacionalidad extranjera.
 
-> <small>(ADICIONADO, D.O.F. 25 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 411.
 
-Se impondrá de setenta a doscientos días multa y prisión de tres a siete años, a quien por cualquier medio participe en la alteración del registro de electores, el Padrón Electoral y los listados nominales o en la expedición ilícita de Credenciales para Votar.
+Se impondrá de setenta a doscientos días multa y prisión de tres a siete años, a quien por cualquier medio altere o participe en la alteración del Registro Federal de Electores, de los listados nominales o en la expedición ilícita de credenciales para Votar.
 
 > <small>(ADICIONADO, D.O.F. 25 DE MARZO DE 1994)</small>
 
@@ -5398,3 +5396,7 @@ D.O.F. 7 DE NOVIEMBRE DE 1996.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los artículos 167, fracción IX, y 196 bis del Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal, vigentes hasta la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal.
+
+D.O.F. 22 DE NOVIEMBRE DE 1996.
+
+Unico.- Las reformas al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal a que se refiere el artículo QUINTO del presente Decreto, entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
