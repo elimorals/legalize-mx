@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "1994-12-30"
+last_updated: "1995-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA MUNICIPAL NUMERO 677
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -61,15 +61,15 @@ b) Cuando se derive de contratos de compraventa con reserva de dominio y certifi
 
 c) Cuando se trate de predios propiedad de la Federación, del Estado o de sus municipios que estén en poder de instituciones descentralizadas con personalidad jurídica y patrimonios propios, o en poder de particulares, por contrato, concesión, permiso, o por cualquier otro título, para su uso, goce o explotación.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
-IV.- Los derechos sobre la propiedad o posesión de terrenos ejidales y comunales, en los términos previstos en la Ley Federal de la Reforma Agraria, así como la posesión de construcciones permanentes en dichos terrenos.
+IV.- Los derechos sobre la posesión de terrenos ejidales y comunales, así como de las construcciones permanentes en dichos terrenos.
 
 V.- La propiedad de bienes raíces donde se ubiquen plantas de beneficio y establecimientos metalúrgicos, así como sus instalaciones en los términos del artículo 23 de la Ley de Impuestos y Fomento a la Minería.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
-VI.- Los inmuebles que forman parte del patrimonio de los organismos públicos descentralizados que se utilicen para oficinas administrativas, o en general para propósitos distintos a los de su objeto.
+VI.- Los inmuebles que forman parte del patrimonio de los organismos públicos descentralizados federales o estatales que se utilicen para oficinas administrativas, o en general para propósitos distintos a los de su objeto.
 
 ###### ARTICULO 2o.
 
@@ -107,9 +107,9 @@ VIII.- El fideicomitente o en su caso el fiduciario en tanto no trasmitan la pro
 
 IX.- Los organismos públicos descentralizados federales en términos de la Ley General de Bienes Nacionales, en los mismos términos los Estatales y Municipales.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
-X.- Los titulares de derechos agrarios sobre la propiedad ejidal o comunal de conformidad con la legislación agraria federal.
+X.- Los titulares de derechos agrarios sobre la propiedad ejidal o comunal.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -169,27 +169,27 @@ I.- A partir del bimestre siguiente a aquel en que se produzca el hecho, acto o 
 
 II.- A partir del bimestre siguiente al en que se notifique nuevo avalúo cuando éste sea efectuado por haber transcurrido el plazo de un año en predios urbanos y de tres años en predios rústicos.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 10.
 
-El impuesto se causará conforme a la tarifa factorizada que fije al efecto la Ley de Ingresos de los Municipios.
+El impuesto se causará conforme a las bases y las tasas establecidas en la Ley de Ingresos de los Municipios vigente.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 11.
 
-Quedan exentos del pago de este impuesto únicamente los bienes del dominio público de la Federación, del Estado o de los municipios.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+Quedan exentos del pago de este impuesto únicamente los bienes de dominio público de la Federación, del Estado o de los Municipios. Entendiéndose por estos los bienes de uso común, bienes destinados a un servicio público y bienes propios.
 
 ###### ARTICULO 11
 
-BIS.- Cuando las autoridades catastrales tengan duda de que algún inmueble no sea del dominio público, solicitará a las autoridades competentes la comprobación de su propiedad.
+BIS.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 12.
 
-Los beneficiarios de las exenciones deberán manifestar a la misma autoridad cualquier modificación de las circunstancias que hubieren fundado las mismas, la Tesosería Municipal dictará resolución nulificando la excención (sic) a partir del momento en que hubiere desaparecido el fundamento de la misma, y ordenará el recobro de los impuestos cuyo pago se hubiese omitido, así como los recargos, multas y accesorios que procedan.
+Los beneficiarios de las exenciones deberán manifestar a la misma autoridad cualquier modificación de las circunstancias que hubieren fundado las mismas, la Tesorería Municipal dictará resolución nulificando la exención a partir del momento en que hubiere desaparecido el fundamento de la misma, y ordenará el cobro de los impuestos cuyo pago se hubiese omitido, así como los recargos, multas y accesorios que procedan.
 
 ###### ARTICULO 13.
 
@@ -217,31 +217,33 @@ d) Para el cuarto año, el 40% del valor catastral actual determinado.
 
 e) Para el quinto, el 30% del valor catastral actual determinado.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 16.
 
-El pago del impuesto deberá hacerse en las Tesorerías Municipales o agencias autorizadas al efecto.
+El pago del impuesto deberá hacerse en las Tesorerías Municipales o Delegaciones autorizadas al efecto.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 17.
 
-El impuesto a que se refiere la presente Ley, se pagará por bimestres adelantados dentro de los primeros 15 días de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año, para los contribuyentes de este impuesto, cuyas bases de tributación sean superiores a cien salarios mínimos vigentes en el municipio.
+El impuesto a que se refiere la presente Ley podrá pagarse por bimestres adelantados dentro de los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año, para los contribuyentes de este impuesto, cuyas bases de tributación sean superiores a 100 salarios mínimos vigentes en el Municipio.
 
 ###### ARTICULO 18.
 
 El hecho de ser aceptado el pago anual anticipado no impide el cobro de diferencias que proceda hacerse por cambio en las bases de tributación.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 19.
 
-El pago anticipado de una anualidad deberá hacerse durante el primer mes del ejercicio fiscal correspondiente y gozará del descuento que establezca la Ley de Ingresos de los Municipios.
+El pago anticipado de una anualidad, deberá hacerse durante los tres primeros meses del ejercicio fiscal correspondiente y gozará del descuento que establezca la Ley de Ingresos de los Municipios.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 20.
 
-Los contribuyentes cuyos predios tengan asignado un valor catastrado o no catastrado hasta cien salarios mínimos vigente en el municipio, pagarán el impuesto anual en una sola exhibición durante los primeros 15 días del mes de enero de cada año.
+Los contribuyentes cuyos predios tengan asignado un valor catastrado o no catastrado hasta mil salarios mínimos vigentes en el Municipio, pagarán el impuesto anual en una sola exhibición durante los dos primeros meses de cada año.
 
 ###### ARTICULO 21.
 
@@ -253,9 +255,9 @@ I.- Los particulares y notarios públicos harán las manifestaciones y avisos qu
 
 II.- Proporcionar al personal debidamente autorizado los datos e informes que le soliciten, así como permitir el libre acceso a los predios para la realización de los trabajos catastrales.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
-III.- Dar aviso de sus cambios de domicilio dentro de los quince días siguientes a aquel en que se efectúe, si no lo hicieren, se tendrá como tal el que hubieren señalado anteriormente y, en su defecto el del predio mismo.
+III.- Dar aviso de sus cambios de domicilio dentro de los treinta días siguientes a aquél en que se efectúe, si no lo hicieren se tendrá como tal el que hubieren señalado anteriormente y, en su defecto el del predio mismo.
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -551,25 +553,27 @@ Es objeto de este impuesto la percepción de ingresos derivados de la explotaci�
 
 Son sujetos del impuesto las personas físicas y morales que perciban los ingresos derivados de la explotación de las actividades a que se refiere el artículo anterior.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 42.
 
-Es base para el pago del impuesto el monto de los ingresos obtenidos; cobrándose un tanto por ciento sobre el valor de los boletos de entrada.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+Es base para el pago del impuesto el monto de los ingresos obtenidos; cobrándose las tasas o cuotas establecidas en la Ley de Ingresos de los Municipios.
 
 ###### ARTICULO 43.
 
-El impuesto se pagará de conformidad al porcentaje que señale la Ley de Ingresos de los Municipios.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 1995)
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 44.
 
-Los contribuyentes de este impuesto que de manera normal o permanente exploten este género de actividades, están obligados a empadronarse dentro de los 10 días siguientes a la fecha de iniciación de sus operaciones.
+Los contribuyentes de este impuesto que de manera normal o permanente exploten este género de actividades, están obligados a empadronarse dentro de los treinta días siguientes a la fecha de iniciación de sus operaciones. La solicitud de empadronamiento deberá presentarse ante la Tesorería Municipal correspondiente, utilizando las formas oficiales aprobadas al efecto.
 
-La solicitud de empadronamiento deberá presentarse ante la Tesorería Municipal correspondiente, utilizando las formas oficiales aprobadas al efecto.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 45.
 
-Los contribuyentes que operen habitual o permanentemente, cubrirán el impuesto en los primeros 20 días de cada mes en las Tesorerías Municipales correspondientes.
+Los contribuyentes que operen habitual o permanentemente, cubrirán el impuesto en los primeros quince días de cada mes en las Tesorerías Municipales correspondientes.
 
 En el caso de los espectáculos de carácter accidental o transitorio, la empresa garantizará previamente en efectivo o en alguna de las formas señaladas en el Código Fiscal Municipal a satisfacción de la Tesorería Municipal, el importe probable del impuesto, el cual se liquidará al día siguiente de cada función o espectáculo. Cubierto el impuesto cesará la garantía inmediata.
 
@@ -605,23 +609,39 @@ La base de estos impuestos será el monto total del pago por los conceptos seña
 
 Los impuestos se causarán conforme a las tasas, porcentajes y tarifas factorizadas que establezca la Ley de Ingresos de los Municipios y se pagarán en el mismo acto en que se pague el concepto principal. Si el pago de créditos fiscales se realiza en forma extemporánea estos impuestos causarán recargos de ley.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 51-A.
+
+Con fines de fomento educativo y asistencia social, se causará un impuesto adicional conforme lo establece la Ley de Ingresos para los Municipios.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 51-B.
+
+Con la finalidad de fomentar la construcción de caminos en los Municipios, se causará un impuesto adicional de conformidad con lo que establezca al efecto la Ley de Ingresos para los Municipios.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 51-C.
+
+Con el interés de fomentar la corriente turística, se causará un impuesto adicional de acuerdo a como lo establezca la Ley de Ingresos para los Municipios.
+
+Para la aplicación del presente artículo, se entenderá como zonas preponderantemente turísticas para las Ciudades de Acapulco, Ixtapa-Zihuatanejo y Taxco, Guerrero, aquellas que sean determinadas en acuerdo de cabildo por los H. Ayuntamientos correspondientes y que estén debidamente publicadas en la Gaceta Municipal respectiva.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 51-D.
+
+Con el objeto de apoyar el programa de recuperación de equilibrio ecológico forestal en el Municipio, se causará un impuesto adicional en los términos que señale la Ley de Ingresos para los Municipios.
+
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 25 DE DICIEMBRE DE 1990)</small>
 
 #### SECCION QUINTA. De Peritos Valuadores
 
 ###### ARTICULO 51
 
-BIS.- Perito Valuador es la persona con capacidad técnica y legalmente autorizada por la Secretaría de Finanzas y Administración del Gobierno del Estado, para emitir su opinión en materia de valoración de suelo y de construcción de la Propiedad Raíz.
-
-A).- El Perito Valuador, deberá realizar sus avalúos con responsabilidad, honestidad, profesionalismo y estricto apego a las normas aplicables.
-
-I.- Es obligación de los Peritos Valuadores que practiquen la valuación en territorios de los Municipios del Estado para fines fiscales, inscribirse en el Registro Estatal de Valuadores; el cual llevará en orden y al corriente el archivo en esta Secretaría. La vigencia de este registro será de un año, a partir de la fecha de su expedición.
-
-B).- Para la aplicación correcta de los valores unitarios de los predios, el Perito Valuador podrá solicitar a la Dirección o área de Catastro Municipal, la información relativa a los valores unitarios de suelo y construcción; así como los procedimientos para la valuación catastral implícita en el instructivo.
-
-I.- Los avalúos que realicen los Peritos Valuadores, deberán de aplicar las normas de la presente Ley, y se basarán en lineamientos técnicos y administrativos que emitan los municipios del Estado y las sociedades nacionales de crédito.
-
-II.- La vigencia del valor determinado por avalúo para efectos fiscales, será de seis meses contados a partir de la fecha de formulación del mismo, así como a lo previsto por el segundo párrafo de la fracción V del Artículo 143 del Código Fiscal Municipal.
+BIS.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 1995)
 
 ### CAPITULO II. De los derechos
 
@@ -737,9 +757,11 @@ VII.- El precio de la venta de bienes mostrencos.
 
 VIII.- Los ingresos que tengan analogía con los mencionados.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 67.
 
-Para los efectos del pago de las multas que se impongan, ya sea de orden judicial o administrativo, los funcionarios o empleados que las establezcan lo comunicarán oficialmente a las Tesorerías Municipales para hacerlas efectivas, expresando el nombre del infractor, lugar de su residencia, concepto e importe de la misma.
+Para los efectos del pago de las multas de carácter administrativo que se impongan, los funcionarios o empleados facultados para ello, lo notificarán oficialmente a las Tesorerías Municipales para hacerlas efectivas, expresando el nombre del infractor, lugar de su residencia, y el concepto e importe de la misma.
 
 ### CAPITULO VI. Ingresos extraordinarios
 
@@ -902,3 +924,13 @@ El presente Decreto surtirá efectos al día siguiente de su publicación en el 
 P.O. 30 DE DICIEMBRE DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE DICIEMBRE DE 1995.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y seis.
