@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-republicano-ayuntamiento-de-15080"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-20"
-last_updated: "2000-11-20"
+last_updated: "2002-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE GUADALUPE, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 20 de agosto de 1999.
 
@@ -621,7 +621,9 @@ XV.- Nomenclatura y Vías Públicas;
 
 XVI.- Salud;
 
-XVII.- Ecología;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2002)</small>
+
+XVII.- Protección Ambiental;
 
 XVIII.- Tránsito;
 
@@ -769,7 +771,7 @@ EL C. SECRETARIO DE AYUNTAMIENTO
 
 C. HERIBERTO GARCIA GOMEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DE ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 20 DE NOVIEMBRE DE 2000.
 
@@ -778,3 +780,21 @@ PRIMERO.- Estas modificaciones entrarán en vigor al día siguiente de su public
 SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes modificaciones.
 
 TERCERO.- Enviése al C. Secretario General de Gobierno, para que por su conducto se publique en el Periódico Oficial del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normativas que contravenga (sic) el contenido de las presentes modificaciones y adiciones.
+
+###### ARTICULO TERCERO.
+
+Envíese al C. Secretario General de gobierno para que por su conducto se publique en el Periódico Oficial del Estado.
+
+###### ARTICULO CUARTO.
+
+Cúmplase.
