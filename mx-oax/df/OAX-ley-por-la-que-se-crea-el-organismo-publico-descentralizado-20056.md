@@ -4,7 +4,7 @@ identifier: "OAX-ley-por-la-que-se-crea-el-organismo-publico-descentralizado-200
 country: "mx"
 rank: "ley"
 publication_date: "1982-10-16"
-last_updated: "1994-10-15"
+last_updated: "2005-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE CREA EL INSTITUTO DE VIVIENDA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el Sábado 16 de octubre de 1982.
 
@@ -139,7 +139,13 @@ I.- Un Presidente,
 
 II.- Un Secretario, y
 
-III.- Vocales.
+(ERFORMADA, P.O. 22 DE MARZO DE 2005)
+
+III.- Vocales, y
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2005)</small>
+
+IV. Un Comisario, que será el Secretario de la Contraloría, en términos de la Ley de Entidades Paraestatales del Estado de Oaxaca.
 
 ###### ARTICULO 8o.
 
@@ -147,17 +153,19 @@ El Presidente del Consejo de Administración será el Gobernador del Estado, o l
 
 El Secretario será nombrado y removido libremente por el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 9o.
 
 Serán Vocales del Consejo de Administración, los titulares de las siguientes Dependencias del Poder Ejecutivo del Estado;
 
-I.- Dirección General de Desarrollo Urbano y Obras Publicas.
+I.- Secretaría de Obras Publicas.
 
-II.- Comisión de Planeación y Control de la Inversión Pública.
+II.- Comité Estatal de Planeación para el Desarrollo de Oaxaca.
 
-III.- Dirección General de Finanzas.
+III.- Secretaría de Finanzas.
 
-IV.- Dirección General de Desarrollo Económico, y
+IV.- Secretaría de Economía, y
 
 V.- Los demás que determine el Consejo de Administración.
 
@@ -288,3 +296,7 @@ Al C......
 P.O. 15 DE OCTUBRE DE 1994.
 
 UNICO.- EL Presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
