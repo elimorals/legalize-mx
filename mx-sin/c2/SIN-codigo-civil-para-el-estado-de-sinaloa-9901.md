@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1959-08-25"
+last_updated: "1970-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 1959.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1970.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -553,15 +553,15 @@ En los casos de emancipación por efecto del matrimonio no se formará acta sepa
 
 ###### Artículo 94.
 
-Las actas de emancipación por decreto judicial se formarán insertando a la letra la resolución del Juez que autorizó la emancipación. Se anotará el acta de nacimiento, expresando al margen de ella haber quedado emancipado el menor, citando la fecha de la emancipación y el número y foja del acta respectiva.
+(DEROGADO, P.O. 9 DE ABRIL DE 1970)
 
 ###### Artículo 95.
 
-Si en la Oficina en que se registró la emancipación no existe el acta de nacimiento del emancipado, el Oficial del Registro Civil remitirá copia del acta de emancipación al del lugar en que se registró el nacimiento, para que haga la anotación correspondiente.
+(DEROGADO, P.O. 9 DE ABRIL DE 1970)
 
 ###### Artículo 96.
 
-La omisión del registro de emancipación no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 81.
+(DEROGADO, P.O. 9 DE ABRIL DE 1970)
 
 ### CAPITULO VII.
 
@@ -887,9 +887,11 @@ Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mu
 
 Para contraer matrimonio el hombre necesita haber cumplido dieciséis años y la mujer catorce. Los Presidentes Municipales pueden conceder dispensa de edad por causas graves y justificadas.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1970)</small>
+
 ###### Artículo 149.
 
-El hijo o la hija que no hayan cumplido veintiún año (sic), no pueden contraer matrimonio sin consentimiento de su padre y de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene la madre aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consetimiento (sic) de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos; si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
+El hijo o la hija que no haya cumplido 18 años, no pueden contraer matrimonio sin el consentimiento de sus padres si vivieran ambos, o del que sobreviva. Este derecho lo tiene la madre aunque haya contraído segundas nupcias si el hijo vive con ella. A falta o por imposibilidad de sus padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva, a falta o por imposibilidad de los abuelos paternos se requiere el consentimiento de los abuelos maternos si vivieran ambos o el del que se sobreviva.
 
 ###### Artículo 150.
 
@@ -1341,7 +1343,9 @@ La menor edad de dieciséis años en el hombre y de catorce en la mujer dejará 
 
 I.- Cuando haya habido hijos;
 
-II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los veintiún años, y ni él ni el otro cónyuge hubieren intentado la nulidad.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1970)</small>
+
+II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los 18 años y ni él ni el otro conyugue (sic) hubiesen intentado la nulidad.
 
 Artículo 138 (sic).- La nulidad por falta de consentimiento de los ascendientes solo podrá alegarse por aquel o aquellos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tengan conocimiento del matrimonio.
 
@@ -1977,9 +1981,13 @@ La acción que compete al hijo para reclamar su estado, es imprescriptible para 
 
 Los demás herederos del hijo podrán intentar la acción de que trata el artículo anterior:
 
-I.- Si el hijo ha muerto antes de cumplir veinticinco años;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1970)</small>
 
-II.- Si el hijo cayó en demencia antes de cumplir los veinticinco años y murió después en el mismo estado.
+I.- Si el hijo ha muerto antes de cumplir 22 años;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1970)</small>
+
+II.- Si el hijo cayó en demencia antes de cumplir los 22 años y murió después en el mismo estado.
 
 ###### Artículo 350.
 
@@ -2445,7 +2453,9 @@ Al efecto, el precio de la venta se depositará en una institución de crédito,
 
 El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
 
-I.- Por la emancipación o la mayor edad de los hijos;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1970)</small>
+
+I.- Por la emancipación derivada del matrimonio o la mayor edad los hijos;
 
 II.- Por la pérdida de la patria potestad;
 
@@ -2479,7 +2489,9 @@ La patria potestad se acaba:
 
 I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-II.- Con la emancipación;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1970)</small>
+
+II.- Con la emancipación derivada del matrimonio.
 
 III.- Por la mayor edad del hijo.
 
@@ -2549,9 +2561,11 @@ III.- Los sordo-mudos que no saben leer ni escribir;
 
 IV.- Los ebrios consuetudinarios y los que habitualmente hacen uso inmoderado de drogas enervantes.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1970)</small>
+
 ###### Artículo 452.
 
-Los menores de edad emancipados tienen incapacidad legal para los actos que se mencionan en el artículo relativo del Capítulo Primero del Título Décimo de este libro.
+Los menores de edad emancipados por razón del matrimonio, tienen incapacidad legal para los actos que se mencionan en el artículo relativo del Capítulo I del Título Décimo de este libro.
 
 ###### Artículo 453.
 
@@ -3441,7 +3455,9 @@ Designarán por sí mismos al curador, con aprobación judicial:
 
 I.- Los comprendidos en el artículo 497, observándose lo que allí se dispone respecto de esos nombramientos;
 
-II.- Los menores de edad emancipados, en el caso previsto en la fracción III del artículo 644.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1970)</small>
+
+II.- Los menores de edad emancipados por razón del matrimonio, en el caso previsto en la fracción III del artículo 644.
 
 ###### Artículo 626.
 
@@ -3479,6 +3495,8 @@ En los casos en que conforme a este Código tenga que intervenir el curador; cob
 
 De la Emancipación.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1970)</small>
+
 ###### Artículo 632.
 
 En cada Municipalidad habrá un Consejo Local de Tutelas compuesto de un presidente y de dos vocales, que durarán un año en el ejercicio de su cargo. Serán nombrados por los respectivos Ayuntamientos en la primera sesión que celebren, en el mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas costumbres y que tengan interés en proteger a la infancia desvalida.
@@ -3512,6 +3530,8 @@ Mientras que se nombra tutor, el Juez debe dictar las medidas necesarias para qu
 ### CAPITULO II.
 
 De la Mayor Edad.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1970)</small>
 
 ###### Artículo 636.
 
@@ -3547,31 +3567,31 @@ De las Medidas Provisionales en caso de Ausencia.
 
 ###### Artículo 642.
 
-El matrimonio del menor produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
+El matrimonio del menor de 18 años, produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
 
 ###### Artículo 643.
 
-Los mayores de dieciocho años que estén sujetos a patria potestad o a la tutela, tienen derecho a que se les emancipe, si demuestran su buena conducta y su aptitud para el manejo de sus intereses.
-
-Los padres o tutores pueden emancipar a sus hijos y pupilos que se encuentren en las condiciones mencionadas en el párrafo anterior, siempre que éstos consientan en su emancipación.
+(DEROGADO, P.O. 9 DE ABRIL DE 1970)
 
 ###### Artículo 644.
 
 El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
 
-I.- Del consentimiento del que lo emancipó para contraer matrimonio antes de llegar a la mayor edad. Si el que otorgó la emancipación ejercía la patria potestad y ha muerto o está incapacitado legalmente al tiempo en que el emancipado intente casarse, necesita éste el consentimiento del ascendiente a quien corresponda darlo, y en su defecto, el del Juez;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1970)</small>
 
-II.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
+I.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
 
-III.- De un tutor para los negocios judiciales.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1970)</small>
+
+II.- De un tutor para los negocios judiciales.
 
 ###### Artículo 645.
 
-Hecha la emancipación, no puede ser revocada.
+(DEROGADO, P.O. 9 DE ABRIL DE 1970)
 
 ###### Artículo 646.
 
-Fuera del caso a que se refiere el artículo 642, la emancipación siempre será decretada por el Juez, y la resolución correspondiente se remitirá al Oficial del Registro Civil para que levante el acta respectiva.
+(DEROGADO, P.O. 9 DE ABRIL DE 1970)
 
 ### CAPITULO II.
 
@@ -3579,7 +3599,7 @@ De la Declaración de Ausencia.
 
 ###### Artículo 647.
 
-La mayor edad comienza a los veintiún años cumplidos.
+La mayor edad comienzo (sic) a los 18 años cumplidos.
 
 ###### Artículo 648.
 
@@ -12449,7 +12469,9 @@ El mandato será siempre por escrito y podrá otorgarse:
 
 I.- En escritura pública;
 
-II.- En carta poder o escrito privado firmado por el otorgante ante dos testigos y ratificadas las firmas ante Notario o Jueces de Primera Instancia, cuando sea judicial y el interés del negocio no sea mayor de un mil pesos.
+II.- En escrito privado, firmado por el otorgante y dos testigos y ratificadas las firmas ante Notario Público, Juez de Primera Instancia, Jueces Menores o ante el correspondiente funcionario o empleado administrativo, cuando el mandato se otorgue para asuntos administrativos;
+
+III.- En carta poder sin ratificación de firmas.
 
 ###### Artículo 2434.
 
@@ -15266,3 +15288,7 @@ UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondie
 P.O. 25 DE AGOSTO DE 1959.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondientes, a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 9 DE ABRIL DE 1970.
+
+UNICO.- El presente Decreto surtirá sus efectos legales a los tres días de su publicación en el Periódico Oficial "El Estado de Sinaloa".
