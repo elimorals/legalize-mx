@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "1978-10-23"
+last_updated: "1978-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTICULO 123 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE OCTUBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1978.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -74,7 +74,9 @@ Todos los miembros de los servicios policíacos y de tránsito, exceptuando a lo
 
 III.- En el Poder Legislativo: en la Cámara de Diputados: el Oficial Mayor, el Director General de Departamentos y Oficinas, el Tesorero General, los Cajeros de la Tesorería, Director General de Administración, el Oficial Mayor de la Gran Comisión, el Director Industrial de la Imprenta y Encuadernación y el Director de la Biblioteca del Congreso.
 
-En la Contaduría Mayor de Hacienda: el Contador Mayor, el Oficial Mayor de la Contaduría, los Auditores y el Pagador General.
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1978)</small>
+
+En la Contaduría Mayor de Hacienda: el Contador y el Subcontador Mayor, los Directores y Subdirectores, los Jefes de Departamento, los Auditores, los Asesores y los Secretarios Particulares de los funcionarios mencionados.
 
 En la Cámara de Senadores: Oficial Mayor, Tesorero y Subtesorero;
 
@@ -1327,3 +1329,7 @@ D.O.F. 23 DE OCTUBRE DE 1978.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 29 DE DICIEMBRE DE 1978.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
