@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-municipal-5456"
 country: "mx"
 rank: "ley"
 publication_date: "1982-12-31"
-last_updated: "1994-12-30"
+last_updated: "1996-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NUMERO 220, PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 1994, SE APRUEBAN LAS CUOTAS Y TARIFAS DE LOS 84 MUNICIPIOS DEL ESTADO DE HIDALGO PARA EL AÑO DE 1995; PARA LO CUAL, REMITASE A LAS PAGINAS 567 A 13217 DE LA PUBLICACION CITADA.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: P.O. 21 DE OCTUBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 1982.
 
@@ -261,9 +259,19 @@ h).- Fracción XI al 1.5% anual;
 
 i).- Fracción XIII.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 1996)</small>
 
-ARTICULO 8 H.- La cuota del impuesto será anual, pero su importe se pagará bimestralmente, sin embargo el pago podrá hacerse por anualidad anticipada durante el mes de enero de cada ejercicio, en este caso se gozará del descuento que se determine en la Ley de Ingresos correspondiente a ese ejercicio fiscal.
+ARTICULO 8 H.- La cuota del impuesto será anual, pero su importe se pagará bimestralmente, sin embargo el pago podrá hacerse por anualidad anticipada durante el mes de enero de cada ejercicio, en este caso se gozará del descuento que se determine en la Ley de Ingresos correspondiente a ese ejercicio fiscal. Esta anualidad podrá prorrogarse hasta 60 días mas por acuerdo de la Asamblea Municipal.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1996)</small>
+
+Como excepción a lo previsto en el Párrafo anterior, cuando el mes de Enero del Ejercicio Fiscal correspondiente coincida con el año de renovación del Ayuntamiento, el pago del impuesto predial o de la anualidad anticipada según lo estipulado, se realizará a partir del 16 de Enero de ese Ejercicio Fiscal.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1996)</small>
+
+La autoridad fiscal municipal llevará a cabo la difusión necesaria a través de los medios de comunicación masiva a su alcance, para informar a los contribuyentes del impuesto, el plazo en que puedan efectuar el pago anticipado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
 La cuota del impuesto tratándose de predios ejidales se pagará en una sola exhibición durante el tiempo de la cosecha.
 
@@ -1255,7 +1263,7 @@ Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para 
 
 ###### ARTICULO 127.
 
-Es objeto de este derecho las licencias para la construcción de guarniciones.
+Es objeto de este derecho las licencias para la contruccion de guarniciones.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -1834,3 +1842,9 @@ P.O. 30 DE DICIEMBRE DE 1994.
 DECRETO NUM. 220.
 
 UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR A PARTIR DEL DIA SIGUIENTE A SU PUBLICACIÓN EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+P.O. 21 DE OCTUBRE DE 1996.
+
+###### ARTICULO UNICO.
+
+Una vez aprobado el decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
