@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2003-11-14"
+last_updated: "2004-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2004.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -225,13 +225,13 @@ V.- En su condición de padres, deben ser asistidos en la forma que la Legislaci
 
 Son obligaciones de los habitantes del Estado:
 
-I.- Si son mexicanos, las que se señalan en el artículo 31 de la Constitución General de la República y en la presente;
+I.- Si son mexicanos, las que se señalan en el artículo 31 de la Constitución General de la República y en la presente.
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
-II.- Si además de mexicanos, son ciudadanos, las contenidas en los Artículos 5, 31 y 36 de la Constitución General de la República, las que señala la presente Constitución y las que establezca la Ley;
+II.- Si además de mexicanos, son ciudadanos, las contenidas en los Artículos 5, 31 y 36 de la Constitución General de la República, las que señala la presente Constitución y las que establezca la Ley.
 
-III.- Si son extranjeros, acatar y respetar en todas sus partes lo establecido en la Constitución General de la República, en la del Estado y en las disposiciones legales que de ambas emanen; sujetarse a los fallos y sentencias de los tribunales sin poder intentar otros recursos que los que se concede a los mexicanos y contribuir a los gastos públicos de la manera que dispongan las leyes y autoridades del Estado;
+III.- Si son extranjeros, acatar y respetar en todas sus partes lo establecido en la Constitución General de la República, en la del Estado y en las disposiciones legales que de ambas emanen; sujetarse a los fallos y sentencias de los tribunales sin poder intentar otros recursos que los que se concede a los mexicanos y contribuir a los gastos públicos de la manera que dispongan las leyes y autoridades del Estado.
 
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1999)</small>
 
@@ -323,7 +323,7 @@ a).- Se obtendrá el porcentaje de votación de los partidos políticos o coalic
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 2004)</small>
 
-1.- Realizará la sumatoria de los votos obtenidos por los partidos políticos o coaliciones, en la elección de Diputados por el principio de representación proporcional, que reúnan los requisitos, y
+1.- Realizará la sumatoria de los votos obtenidos por los partidos políticos o coaliciones, en la elección de Diputados por el principio de representacón (sic) proporcional, que reúnan los requisitos, y
 
 2.- La votación de cada partido se dividirá entre la sumatoria obtenida en el numeral anterior y se multiplicará por cien;
 
@@ -505,15 +505,17 @@ X.- Cumplir con las obligaciones que marca el Artículo 5 de esta Constitución;
 
 XI.- Aprobar, para cada Ejercicio Fiscal, las Leyes de Ingresos del Estado y de los Municipios, así como el Presupuesto de Egresos del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2004)</small>
 
-XII.- Revisar, analizar, auditar, dictaminar y discutir anualmente para su aprobación o desaprobación las cuentas públicas anuales del Gobierno del Estado, Municipios, Organismos e Instituciones Descentralizados, Empresas de Participación Estatal, Fideicomisos y demás Entidades que administren recursos públicos o cuando lo estime conveniente;
+XII.- Revisar, analizar, auditar y dictaminar por medio del Organo de Fiscalización Superior del Estado para su aprobación o desaprobación las cuentas públicas anuales del Gobierno del Estado, Municipios, Organismos e Instituciones Descentralizadas, Empresas de Participación Estatal, Fideicomisos, Organismos Públicos constitucionalmente autónomos y demás entidades que administren recursos públicos;
 
-XIII.- Vigilar por medio de una Comisión de su seno el funcionamiento de la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+XIII.- Vigilar, coordinar y evaluar el funcionamiento del Órgano de Fiscalización Superior del Estado por medio de la Comisión que determine la Ley;
 
-XIV.- Nombrar y remover al Contador Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2004)</small>
+
+XIV.- Nombrar y remover al Auditor Superior de Fiscalización;
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
@@ -595,9 +597,9 @@ XXXV.- Formar su reglamento interior y expedir todas las leyes que sean necesari
 
 XXXVI. - Elaborar y aprobar el Plan de Desarrollo Legislativo, en los términos de esta Constitución.
 
-### CAPITULO IV.. DE LA PLANEACION LEGISLATIVA
+### CAPITULO IV.. DEL ORGANO DE FISCALIZACION SUPERIOR
 
-> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 28.
 
@@ -683,6 +685,10 @@ Si los reglamentos, circulares y demás disposiciones de observancia general, no
 
 Las leyes que expida el Congreso del Estado, excepto las de índole tributario o fiscal, podrán ser sometidas a Referéndum, conforme lo disponga la Ley.
 
+(ADICIONADO, P.O. 30 DE ENERO DE 2004) (F. DE E., P.O. 9 DE ABRIL DE 2004)
+
+Los proyectos de Ley y los decretos aprobados por el Congreso, se remitirán al Ejecutivo firmados por el Presidente y el Secretario del Congreso.
+
 > <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 35.
@@ -693,19 +699,51 @@ El Gobernador del Estado no podrá hacer observaciones sobre los decretos que ma
 
 Los asuntos que sean materia de acuerdo económico, se sujetarán a los trámites que fija el Reglamento Interior del Congreso.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1999)</small>
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2004)</small>
+
+### CAPITULO V.. DE LA PLANEACION LEGISLATIVA
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+###### ARTICULO 37.
+
+El Congreso del Estado contará con un órgano de fiscalización denominado Órgano de Fiscalización Superior, de carácter técnico y con autonomía de gestión en el ejercicio de sus atribuciones para decidir sobre su organización, recursos, funcionamiento y resoluciones.
+
+> <small>(F. DE E., P.O. 9 DE ABRIL DE 2004)</small>
+
+El Órgano Superior de Fiscalización Superior será administrado y dirigido por un Auditor Superior de Fiscalización, quien actuará con plena independencia e imparcialidad y responderá solo al mandato de la Ley.
+
+Será designado por mayoría calificada del Congreso del Estado y podrá ser removido en los mismos términos de su elección.
+
+Para ser Auditor Superior de Fiscalización se requiere además de los requisitos establecidos en las fracciones I, II, V, VI, VII del artículo 60 de esta Constitución, poseer Título Profesional de Contador Público, Licenciado en Derecho o profesión afín, así como tener reconocido prestigio profesional, capacidad y experiencia técnica. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los remunerados en asociaciones científicas, docentes, artísticas o de beneficiencia (sic).
+
+> <small>(F. DE E., P.O. 9 DE ABRIL DE 2004)</small>
+
+El Auditor Superior de Fiscalización, no podrá desempeñar cargo alguno en los poderes o entidades fiscalizados durante los dos años siguientes a la terminación de su gestión.
+
+El Órgano de Fiscalización Superior, tendrá las atribuciones siguientes:
+
+I.- Fiscalizar la administración, manejo, custodia y aplicación de fondos, subsidios y recursos de los poderes del Estado y de las entidades públicas estatales, incluyendo a los municipios, organismos dotados de autonomía y particulares, cuando manejen recursos de origen público, que incluirá auditoría de desempeño, eficiencia, economía, legalidad y cumplimiento;
+
+II.- Entregar el informe de resultado de la revisión de la Cuenta Pública al Congreso del Estado dentro de los plazos que establece la Ley. Dentro de dicho informe se incluirán los dictámenes de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los planes y programas respectivos, que comprenderá los comentarios y observaciones de los auditados, mismo que tendrá carácter público.
+
+El Órgano de Fiscalización Superior deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+
+III.- Dar a conocer al Congreso del Estado los actos u omisiones en que se presuma alguna irregularidad o conducta ilícita en la administración, manejo, custodia y aplicación de fondos y recursos públicos;
+
+IV.- Efectuar visitas domiciliarias en los términos que señale la Ley;
+
+V.- Proponer las bases para la determinación de daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal, o al Patrimonio de las Entidades Públicas Estatales y Municipales; así como para las indemnizaciones y sanciones pecuniarias correspondientes a los responsables, haciéndolo del conocimiento del Congreso quien procederá conforme a la Ley.
+
+La Ley determinará el procedimiento para la designación del Auditor Superior de Fiscalización. Dicho titular durará en su encargo cuatro años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la Ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Octavo de esta Constitución.
+
+Los poderes del Estado y los sujetos de fiscalización proporcionarán auxilio al Órgano de Fiscalización Superior para el ejercicio de sus funciones.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
 ### CAPITULO I.. DEL PODER EJECUTIVO
 
 (REFORMADO, P.O. 31 DE DICIEMBRE DE 1985) (F. DE E. 20 DE MARZO DE 1986)
-
-###### ARTICULO 37.
-
-Los proyectos de ley y los decretos aprobados por el Congreso, se remitirán al Ejecutivo firmados por el Presidente y el Secretario o los Secretarios del Congreso.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2003)</small>
-
-### CAPITULO II.. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
 ###### ARTICULO 38.
 
@@ -721,7 +759,7 @@ El Plan de Desarrollo Legislativo, se elaborará sin perjuicio del derecho conte
 
 ## TITULO CUARTO
 
-### CAPITULO III.. DEL SECRETARIO DE GOBIERNO
+### CAPITULO II.. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
 ###### ARTICULO 40.
 
@@ -833,9 +871,7 @@ Si al comenzar un período constitucional no se presentare el Gobernador electo 
 
 Todos los acuerdos y disposiciones que el Gobernador diere en uso de sus facultades, deberán para su valides (sic) ser autorizados con la firma del Secretario de Gobierno o de quien conforme a la Ley haga sus veces.
 
-### CAPITULO I.. DE LA JURISDICCION ADMINISTRATIVA
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1989)</small>
+### CAPITULO III.. DEL SECRETARIO DE GOBIERNO
 
 ###### ARTICULO 49.
 
@@ -905,9 +941,9 @@ XXIV.- Remover al Procurador General de Justicia del Estado, en los términos de
 
 XXV.- Las demás que le señalen expresamente esta Constitución y las Leyes Federales.
 
-### CAPITULO II.. DEL PODER JUDICIAL
+### CAPITULO I.. DE LA JURISDICCION ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1989)</small>
 
 ###### ARTICULO 50.
 
@@ -933,9 +969,9 @@ III.- Las demás que le confiera la Ley Orgánica de la Administración Pública
 
 El Secretario de Gobierno no podrá desempeñar otro puesto o empleo público o privado, con excepción de los docentes, ni ejercer profesión alguna durante el ejercicio de sus funciones.
 
-### CAPITULO III.. DEL MINISTERIO PUBLICO Y DE LA DEFENSORIA DE OFICIO
+### CAPITULO II.. DEL PODER JUDICIAL
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
 
 ###### ARTICULO 54.
 
@@ -945,17 +981,17 @@ Las faltas del Secretario de Gobierno, serán suplidas por el Oficial Mayor del 
 
 > <small>(ADICIONADO, P.O. 20 DE MAYO DE 1988)</small>
 
-### CAPITULO I.. DEL MUNICIPIO Y DEL GOBIERNO MUNICIPAL
+### CAPITULO III.. DEL MINISTERIO PUBLICO Y DE LA DEFENSORIA DE OFICIO
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 55.
 
 La función jurisdiccional para resolver controversias de carácter administrativo y fiscal que se susciten entre los particulares y la Administración Pública Estatal o Municipal, así como entre el fisco estatal y los fiscos municipales sobre preferencia de créditos fiscales, estará a cargo del Tribunal de lo Contencioso Administrativo del Estado, que será autónomo en sus fallos e independiente de cualquier Autoridad Administrativa, dotado de plena jurisdicción e imperio suficiente para hacer cumplir sus resoluciones.
 
-### CAPITULO II.. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+### CAPITULO I.. DEL MUNICIPIO Y DEL GOBIERNO MUNICIPAL
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 56.
 
@@ -1161,7 +1197,7 @@ Los Consejeros de la Judicatura, Magistrados, Jueces y demás funcionarios del P
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-### CAPITULO III.. DE LAS BASES GENERALES EN MATERIA MUNICIPAL
+### CAPITULO II.. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -1189,7 +1225,7 @@ El Tribunal de Justicia Electoral, por conducto de su Presidente, presentará su
 
 El Tribunal expedirá su Reglamento Interno y las disposiciones administrativas para su adecuado funcionamiento.
 
-### CAPITULO IV.. DE LAS ATRIBUCIONES, FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
+### CAPITULO III.. DE LAS BASES GENERALES EN MATERIA MUNICIPAL
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -1239,7 +1275,7 @@ La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y d
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-### CAPITULO V.. DEL PATRIMONIO Y LA HACIENDA PUBLICA MUNICIPAL
+### CAPITULO IV.. DE LAS ATRIBUCIONES, FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -1273,7 +1309,7 @@ El Ayuntamiento es el órgano colegiado de representación popular, depositario 
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DEL 2001)</small>
 
-### CAPITULO VI.. DE LOS CONCEJOS MUNICIPALES
+### CAPITULO V.. DEL PATRIMONIO Y LA HACIENDA PUBLICA MUNICIPAL
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -1365,7 +1401,9 @@ Los Militares en servicio activo y los titulares de los cuerpos policíacos, sal
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-### CAPITULO UNICO.. DE LA HACIENDA PUBLICA
+### CAPITULO VI.. DE LOS CONCEJOS MUNICIPALES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 81.
 
@@ -1397,9 +1435,7 @@ VII.- Establecer las normas que determinen los procedimientos mediante los cuale
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-### CAPITULO UNICO.. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+### CAPITULO UNICO.. DE LA HACIENDA PUBLICA
 
 ###### ARTICULO 82.
 
@@ -1503,7 +1539,9 @@ Cuando a juicio del Ayuntamiento respectivo resulte necesario, se podrá conveni
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-### CAPITULO UNICO.. PREVENCIONES GENERALES
+### CAPITULO UNICO.. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 85.
 
@@ -1533,7 +1571,7 @@ Los presupuestos de egresos serán aprobados por los ayuntamientos, con base en 
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-### CAPITULO I.. DE LAS REFORMAS A LA CONSTITUCION
+### CAPITULO UNICO.. PREVENCIONES GENERALES
 
 ###### ARTICULO 86.
 
@@ -1555,7 +1593,7 @@ Las personas integrantes de los Concejos Municipales o los Munícipes designados
 
 ## TITULO SEPTIMO
 
-### CAPITULO II.. DE LA INVIOLABILIDAD DE ESTA CONSTITUCION
+### CAPITULO I.. DE LAS REFORMAS A LA CONSTITUCION
 
 ###### ARTICULO 88.
 
@@ -1582,6 +1620,8 @@ El Poder Judicial contará y administrará igualmente, con los recursos que se s
 ## TITULO OCTAVO
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+### CAPITULO II.. DE LA INVIOLABILIDAD DE ESTA CONSTITUCION
 
 ###### ARTICULO 91.
 
@@ -1939,29 +1979,29 @@ Por esta sola vez los términos a que se refieren los artículos 18 y 42 de esta
 
 Mexicali, B. Cfa., 15 de Agosto de 1953.
 
-LIC. EVARISTO BONIFAZ GOMEZ,
-
 Dip. Presidente,
 
-MIGUEL CALETTE ANAYA,
+LIC. EVARISTO BONIFAZ GOMEZ
 
 Dip. Vicepresidente,
+
+MIGUEL CALETTE ANAYA
 
 DIPUTADOS:
 
 DR. FRANCISCO DUEÑAS MONTES
 
-AURELIO CORRALES JR.
+AURELIO CORRALES Jr.
 
 LIC. FRANCISCO H. RUIZ JR.
 
-LIC. ALEJANDRO LAMADRID JR.
-
 Dip. Secretario,
 
-CELEDONIO APODACA BARRERA,
+LIC. ALEJANDRO LAMADRID JR.
 
-Dip. Prosecretario.
+Dip. Prosecretario,
+
+CELEDONIO APODACA BARRERA
 
 En tal virtud y con fundamento en los artículos 7 siete del Decreto de 10 diez de noviembre de 1952 mil novecientos cincuenta y dos publicado en el Diario Oficial de la Federación (número 17 del Tomo CXCV), correspondiente al día 21 veintiuno del mismo mes y Primero Transitorio de la Constitución del Estado de Baja California, promúlguese por Bando Solemne y publíquese en el Periódico Oficial y en los lugares públicos.
 
@@ -1969,11 +2009,11 @@ Dado en el Palacio del Poder Ejecutivo en Mexicali, Estado de Baja California a 
 
 El Gobernador Provisional del Estado,
 
-LIC. ALFONSO GARCIA GONZALEZ.
+LIC. ALFONSO GARCIA GONZALEZ
 
-El Secretario General de Gobierno,
+El Secretario General de Gobierno
 
-LIC. JOSE ELIAS CASTRO.
+LIC. JOSE ELIAS CASTRO
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
 
@@ -2502,3 +2542,33 @@ Una vez obtenido el voto aprobatorio de los Ayuntamientos hágase la declaratori
 ###### ARTÍCULO TERCERO.
 
 La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+P.O. 30 DE ENERO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado tendrá un plazo de tres meses contados a partir de la entrada en vigor de este Decreto, para expedir la Ley que regule la organización y funcionamiento del Órgano de Fiscalización Superior.
+
+###### ARTÍCULO TERCERO.
+
+En tanto no se establezca y empiece a ejercer sus atribuciones el Órgano de Fiscalización Superior con la naturaleza jurídica que se le otorga en este Decreto, la Contaduría Mayor de Hacienda del Congreso del Estado continuará ejerciendo las atribuciones que actualmente tiene conforme a esta Constitución, la Ley de Fiscalización de las Cuentas Públicas del Estado de Baja California y demás disposiciones aplicables.
+
+###### ARTÍCULO CUARTO.
+
+Una vez creado el Órgano de Fiscalización Superior con la naturaleza y atribuciones que se le otorgan conforme a este Decreto, se le transmitirán los bienes y recursos de la actual Contaduría Mayor de Hacienda del Congreso del Estado y continuará atendiendo los asuntos pendientes a cargo de esta última.
+
+###### ARTÍCULO QUINTO.
+
+La revisión de la cuenta pública conforme al régimen previsto en los artículos que se modifican por este Decreto, se hará a partir de la cuenta pública del primer ejercicio fiscal posterior a la fecha de entrada en vigor de las normas que regulen la organización y funcionamiento del Órgano de Fiscalización Superior. La revisión de las cuentas públicas de ejercicios anteriores, se efectuará conforme a las disposiciones vigentes en dichos ejercicios.
+
+###### ARTÍCULO SEXTO.
+
+Los servidores públicos de la Contaduría Mayor de Hacienda del Congreso del Estado no serán afectados en sus derechos laborales con motivo de la entrada en vigor de este Decreto y de las leyes que en consecuencia se emitan.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las referencias que se hagan en otras disposiciones legales a la Contaduría Mayor de Hacienda, o al Contador Mayor de Hacienda, se entenderán hechas al Órgano de Fiscalización Superior o al Auditor Superior de Fiscalización respectivamente.
