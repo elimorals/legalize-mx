@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-al-activo-antes-ley-del-impuesto-al-activo-258
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-31"
-last_updated: "1990-12-26"
+last_updated: "1991-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2587&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-12-30"
 
 LEY DEL IMPUESTO AL ACTIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1988.
 
@@ -71,21 +71,33 @@ I.- Se sumarán los promedios mensuales de los activos financieros, correspondie
 
 El promedio mensual de los activos será el que resulte de dividir entre dos la suma del activo al inicio y al final del mes, excepto los correspondientes a operaciones contratadas con el sistema financiero o con su intermediación, el que se calculará en los mismos términos que prevé el segundo párrafo de la fracción III del artículo 7o.- B de la Ley del Impuesto sobre la Renta.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-II.- Tratándose de los activos fijos, gastos y cargos diferidos, se calculará el promedio de cada bien, actualizando en los términos del artículo 3o. de esta Ley, su saldo pendiente de deducir en el impuesto sobre la renta al inicio del ejercicio o el monto original de la inversión en el caso de bienes adquiridos en el mismo y de aquéllos no deducibles para los efectos de dicho impuesto, aún cuando para estos efectos no se consideren activos fijos. El saldo actualizado se disminuirá con la mitad de la deducción anual de las inversiones en el ejercicio, determinada conforme a los artículos 41 y 47 de la Ley del Impuesto sobre la Renta, dividiendo el resultado entre doce y el cociente se multiplicará por el número de meses en los que el bien haya sido utilizado en el ejercicio por el cual se determina el impuesto.
+II.- Tratándose de los activos fijos, gastos y cargos diferidos, se calculará el promedio de cada bien, actualizando en los términos del artículo 3o. de esta Ley, su saldo pendiente de deducir en el impuesto sobre la renta al inicio del ejercicio o el monto original de la inversión en el caso de bienes adquiridos en el mismo y de aquéllos no deducibles para los efectos de dicho impuesto, aun cuando para estos efectos no se consideren activos fijos. El saldo actualizado se disminuirá con la mitad de la deducción anual de las inversiones en el ejercicio, determinada conforme a los artículos 41 y 47 de la Ley del Impuesto sobre la Renta.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+En el caso del primer y último ejercicio en el que se utilice el bien, el valor promedio del mismo se determinará dividiendo el resultado antes mencionado entre doce y el cociente se multiplicará por el número de meses en los que el bien se haya utilizado en dichos ejercicios.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 En el caso de activos fijos por los que se hubiera optado por efectuar la deducción inmediata a que se refiere el artículo 51 de la Ley del Impuesto sobre la Renta, se considerará como saldo por deducir, el que hubiera correspondido de no haber optado por dicha deducción, en cuyo caso se aplicarán los porcientos máximos de deducción autorizados en los artículos 43, 44 y 45 de la Ley del Impuesto sobre la Renta, de acuerdo con el tipo de bien de que se trate.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-III.- El monto original de la inversión de cada terreno, actualizado en los términos del artículo 3º. de esta Ley, se dividirá entre doce y el resultado se multiplicará por el número de meses que tenga el ejercicio por el cual se determina el impuesto.
+III.- El monto original de la inversión de cada terreno, actualizado en los términos del artículo 3o. de esta Ley, se dividirá entre doce y el cociente se multiplicará por el número de meses en que el terreno haya sido propiedad del contribuyente en el ejercicio por el cual se determina el impuesto.
 
 IV.- Los inventarios de materias primas, productos semiterminados o terminados que el contribuyente utilice en la actividad empresarial y tenga al inicio y al cierre del ejercicio, valuados conforme al método que tenga implantado, se sumarán y el resultado se dividirá entre dos.
 
 En el caso de que el contribuyente cambie su método de valuación, deberá cumplir con las reglas que al efecto establezca la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+Los residentes en el extranjero a que se refiere el párrafo segundo del artículo 1o., que mantengan en territorio nacional activos de los comprendidos en las fracciones II y IV de este artículo por un periodo menor a un año, calcularán el impuesto correspondiente a los bienes comprendidos en la fracción II considerando el resultado de dividir el valor que se consigne en el pedimento a que se refiere la legislación aduanera disminuido con la mitad de la deducción por inversiones que le hubiera correspondido por el periodo que permanecieron en territorio nacional, de haber sido contribuyentes del impuesto sobre la renta, entre 365 multiplicado por el número de días que permanecieron en el territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+Para calcular el valor de los activos señalados en la fracción IV de este artículo, los contribuyentes a que se refiere el párrafo anterior considerarán el valor consignado a la entrada al país de dichos activos, adicionado del valor consignado cuando se retornen al extranjero y dividiendo el resultado entre dos. Este último resultado se dividirá entre 365 y el cociente se multiplicará por el número de días que permanecieron en territorio nacional. Los valores a que se refiere este párrafo serán los consignados en los pedimentos a que se refiere la legislación aduanera.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -143,13 +155,17 @@ IV.- Los intereses devengados a favor, no cobrados.
 
 Los activos financieros denominados en moneda extranjera, se valuarán al tipo de cambio del primer día de cada mes. Para este efecto, cuando no sea aplicable el tipo controlado de cambio, se estará al tipo de cambio promedio para enajenación con el cual inicien operaciones en el mercado las instituciones de crédito de la ciudad de México.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 5o.
 
-Los contribuyentes podrán deducir del valor del activo en el ejercicio, las deudas contratadas con empresas residentes en el país o con establecimientos permanentes ubicados en México de residentes en el extranjero.
+Los contribuyentes podrán deducir del valor del activo en el ejercicio, las deudas contratadas con empresas residentes en el país o con establecimientos permanentes ubicados en México de residentes en el extranjero, siempre que se trate de deudas no negociables. También podrán deducirse las deudas negociables en tanto no se le notifique al contribuyente la cesión del crédito correspondiente a dichas deudas a favor de una empresa de factoraje financiero, y aun cuando no habiéndosele notificado la cesión el pago de la deuda se efectúe a dicha empresa o a cualquier otra persona no contribuyente de este impuesto.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 No son deducibles las deudas contratadas con el sistema financiero o con su intermediación.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 Para los efectos de este artículo, los contribuyentes deducirán el valor promedio de las deudas en el ejercicio de que se trate. Dicho promedio se calculará sumando los promedios mensuales de los pasivos y dividiendo el resultado entre el número de meses que comprende el ejercicio. Los promedios se determinarán sumando los saldos al inicio y al final del mes y dividiendo el resultado entre dos.
 
@@ -157,29 +173,49 @@ Para los efectos de este artículo, los contribuyentes deducirán el valor prome
 
 Las personas físicas podrán deducir del valor del activo en el ejercicio, además, un monto equivalente a quince veces el salario mínimo general del área geográfica del contribuyente levado al año. Cuando dicho monto sea superior al valor del activo del ejercicio, sólo se podrá efectuar la deducción hasta por una cantidad equivalente a dicho valor.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 5o-A.
 
-Los contribuyentes podrán determinar el impuesto del ejercicio, considerando el que resulte de actualizar el que les hubiera correspondido en el penúltimo ejercicio inmediato anterior de haber estado obligados al pago del impuesto en dicho ejercicio. En el caso en que el penúltimo ejercicio haya sido irregular, el impuesto que se considerará para los efectos de este párrafo será el que hubiere resultado de haber sido éste un ejercicio regular.
+Los contribuyentes podrán determinar el impuesto del ejercicio, considerando el que resulte de actualizar el que les hubiera correspondido en el penúltimo ejercicio inmediato anterior de haber estado obligados al pago del impuesto en dicho ejercicio, sin incluir, en su caso, el beneficio que se deriva de la reducción a que se refiere la fracción I del artículo 23 del Reglamento de esta Ley. En el caso en que el penúltimo ejercicio haya sido irregular, el impuesto que se considerará para los efectos de este párrafo será el que hubiere resultado de haber sido éste un ejercicio regular.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 El impuesto a que se refiere el párrafo anterior se actualizará por el periodo transcurrido desde el último mes de la primera mitad del penúltimo ejercicio inmediato anterior, hasta el último mes de la primera mitad del ejercicio por el que se determine el impuesto.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+Una vez ejercida la opción que establece este artículo, el contribuyente deberá pagar el impuesto con base en la misma por los ejercicios subsecuentes, incluso cuando se deba pagar este impuesto en el periodo de liquidación.
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 6o.
 
-No pagarán el impuesto al activo quienes no sean contribuyentes del impuesto sobre la renta, así como las empresas que componen el sistema financiero.
+No pagarán el impuesto al activo las siguientes personas:
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+I.- Quienes no sean contribuyentes del impuesto sobre la renta.
 
-Lo dispuesto en el párrafo anterior no será aplicable a las personas que otorguen el uso o goce temporal de bienes que se utilicen en la actividad de un contribuyente de los mencionados en el artículo 1o. de esta Ley, a excepción de las que estén autorizadas para recibir donativos deducibles para efectos de la Ley del Impuesto sobre la Renta en los términos de la fracción I del artículo 24 y fracción IV del artículo 140 de dicha Ley.
+II.- Las empresas que componen el sistema financiero.
 
-No se pagará el impuesto por el período preoperativo, ni por los ejercicios de inicio de actividades, el siguiente y el de liquidación. Lo dispuesto en este párrafo no es aplicable a los ejercicios posteriores a fusión, transformación de sociedades o traspaso de negociaciones.
+III.- Las personas físicas que realicen actividades empresariales al menudeo en puestos fijos y semifijos en la vía pública o como vendedores ambulantes, cuando las mismas hayan optado por pagar el impuesto sobre la renta de conformidad con lo dispuesto por el Reglamento de la Ley del Impuesto sobre la Renta.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+IV.- Quienes otorguen el uso o goce temporal de bienes cuyos contratos de arrendamiento fueron prorrogados en forma indefinida por disposición legal (rentas congeladas), únicamente por dichos bienes.
 
-No será aplicable lo dispuesto en este artículo a los contribuyentes que inicien actividades con motivo de la escisión de sociedades.
+V.- Las personas físicas residentes en México que no realicen actividades empresariales y otorguen el uso o goce temporal de bienes a las personas a que se refieren las fracciones I y II de este artículo, únicamente por dichos bienes.
+
+VI.- Quienes utilicen bienes destinados sólo a actividades deportivas, cuando dicha utilización sea sin fines de lucro o únicamente por sus socios o miembros, así como quienes se dediquen a la enseñanza y cuenten con autorización o reconocimiento de validez oficial de estudios en los términos de la Ley Federal de Educación, únicamente por los bienes empleados en las actividades señaladas por esta fracción.
+
+Las personas a que se refieren las fracciones I y II de este artículo que mantengan los inventarios a que se refiere el párrafo segundo del artículo 1o. de esta Ley, o que otorguen el uso o goce temporal de bienes que se utilicen en la actividad de un contribuyente de los mencionados en el artículo 1o. de esta Ley, a excepción de las que estén autorizadas para recibir donativos deducibles para efectos de la Ley del Impuesto sobre la Renta en los términos de la fracción I del artículo 24 y fracción IV del artículo 140 de dicha Ley, pagarán el impuesto por dichos bienes.
+
+No se pagará el impuesto por el periodo preoperativo, ni por los ejercicios de inicio de actividades, el siguiente y el de liquidación, salvo cuando este último dure más de dos años. Lo dispuesto en este párrafo no es aplicable a los ejercicios posteriores a fusión, transformación de sociedades o traspaso de negociaciones, ni a los contribuyentes que inicien actividades con motivo de la escisión de sociedades.
+
+Los contribuyentes cuya actividad preponderante consista en el otorgamiento del uso o goce temporal de los bienes a que se refieren las fracciones II y III del artículo 2o. de esta Ley, pagarán el impuesto incluso por los ejercicios de inicio de actividades y el siguiente. Estos contribuyentes no podrán ejercer la opción a que se refiere el artículo 5o-A durante los ejercicios mencionados.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 6o-A.
+
+Los contribuyentes que reciban créditos de una empresa de comercio exterior residente en México debidamente registrada, podrán optar por pagar por cuenta y orden de dicha empresa, el impuesto que a esta última le corresponda por los créditos que les otorguen.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -187,9 +223,9 @@ No será aplicable lo dispuesto en este artículo a los contribuyentes que inici
 
 Los contribuyentes efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-Las personas morales y las personas físicas enterarán el impuesto a más tardar el día 11 ó el 17 del mes inmediato posterior a aquél al que corresponda el pago, respectivamente.
+Las personas morales y las personas físicas enterarán el impuesto a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago, respectivamente.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -217,7 +253,9 @@ Los contribuyentes menores pagarán este impuesto como parte de la determinació
 
 El contribuyente podrá disminuir el monto de los pagos provisionales, cumpliendo los requisitos que señale el Reglamento de esta Ley.
 
-Cuando a través de un fideicomiso o de una asociación en participación se realicen actividades empresariales, el fiduciario o el asociante efectuará por cuenta del contribuyente los pagos provisionales a que se refiere este artículo, por el activo correspondiente a las actividades realizadas por el fideicomiso o asociación, considerando para tales efectos el activo que correspondió a dicha actividad en el último ejercicio del fiduciario o asociante.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+Cuando a través de un fideicomiso o de una asociación en participación se realicen actividades empresariales, el fiduciario o el asociante efectuará por cuenta de los fideicomisarios o por cuenta propia y de los asociados, según sea el caso, los pagos provisionales a que se refiere este artículo, por el activo correspondiente a las actividades realizadas por el fideicomiso o asociación, considerando para tales efectos el activo que correspondió a dichas actividades en el último ejercicio del fiduciario o asociante.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -250,6 +288,10 @@ II.- El pago del ajuste en el impuesto sobre la renta y del pago provisional del
 Las personas morales contribuyentes del impuesto al activo, deberán presentar ante las oficinas autorizadas, conjuntamente con la declaración del impuesto sobre la renta, declaración determinando el impuesto del ejercicio dentro de los tres meses siguientes a la fecha en que éste termine.
 
 Tratándose de personas físicas, la declaración de este impuesto, se presentará durante el período comprendido entre los meses de febrero a abril del año siguiente a aquél por el que se presenta la declaración.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+Los residentes en el extranjero que no tengan establecimiento permanente en el país y que sean contribuyentes de este impuesto en los términos del artículo 1o., que mantengan activos en el país durante un periodo menor de un año, quedan relevados de efectuar pagos provisionales y únicamente deberán presentar ante las oficinas autorizadas, declaración de este impuesto a más tardar el mes siguiente a aquél en que retornen dichos bienes al extranjero. Contra estos pagos se podrán acreditar las retenciones del impuesto sobre la renta que se les hubieran efectuado en el mismo periodo.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -301,9 +343,9 @@ Los contribuyentes podrán también acreditar contra los pagos provisionales que
 
 Las personas morales que tengan en su activo acciones emitidas por sociedades residentes en el extranjero podrán acreditar contra el impuesto al activo, el impuesto sobre la renta pagado en el extranjero por dichas sociedades, hasta por el monto que resulte conforme a lo previsto en el segundo párrafo del artículo 6o. de la Ley del impuesto mencionado.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-Los derechos al acreditamiento y a la devolución previstos en este artículo son personales del contribuyente y no podrán ser transmitidos a otra persona ni como consecuencia de fusión. En el caso de escisión, estos derechos se podrán dividir entre la sociedad escindida y las que surjan en la proporción en que se divida el capital.
+Los derechos al acreditamiento y a la devolución previstos en este artículo son personales del contribuyente y no podrán ser transmitidos a otra persona ni como consecuencia de fusión. En el caso de escisión, estos derechos se podrán dividir entre la sociedad escindente y las escindidas, en la proporción en que se divida el valor del activo de la escindente en el ejercicio en que se efectúa la escisión, determinado éste después de haber efectuado la disminución de las deudas deducibles en los términos del artículo 5o. de esta Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -415,6 +457,20 @@ La sociedad controladora y las controladas podrán efectuar sus pagos provisiona
 
 Para efectos de este impuesto, la controladora y las controladas estarán a lo dispuesto en la Ley del Impuesto sobre la Renta en lo que se refiere a incorporación, desincorporación, acreditamiento y devolución del impuesto sobre la renta, así como para el cálculo de pagos provisionales y del ejercicio.
 
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 13-A.
+
+En la escisión de sociedades, las sociedades escindentes y las escindidas estarán a lo siguiente:
+
+I.- Determinarán el monto de los pagos provisionales que les corresponda en el ejercicio en que se efectúe la escisión, considerando el pago provisional del periodo determinado conforme a los párrafos tercero y quinto del artículo 7o. de esta Ley en la proporción en que participe cada una de ellas del valor de su activo a que se refiere el artículo 2o. de la misma, después de disminuirle en la misma proporción las deudas deducibles en los términos del artículo 5o. de este ordenamiento, ambos referidos al ejercicio en que se efectúa la escisión.
+
+II.- Tendrán derecho a acreditar en el ejercicio, los pagos provisionales enterados con anterioridad a la escisión, los que se dividirán entre las sociedades en la misma proporción a que se refiere la fracción anterior.
+
+III.- La sociedad escindente y las escindidas deberán continuar con la opción a que se refiere el artículo 5o-A de esta Ley, cuando la hubiera ejercido la escindente, en cuyo caso en el ejercicio en que se efectúa la escisión y el siguiente, deberán considerar ambas sociedades, el impuesto del penúltimo y último ejercicio inmediato anterior al de la escisión, en la proporción a que se refiere la fracción I de este artículo. A partir del tercer ejercicio en que se efectuó la escisión considerarán el impuesto que le hubiera correspondido a la sociedad en el penúltimo ejercicio inmediato anterior.
+
+En caso de que la escindente no haya ejercido la opción a que se refiere el artículo 5o-A de esta Ley con anterioridad a la escisión y la escindente y las escindidas ejerzan dicha opción en el ejercicio en que se efectúa la escisión o en el siguiente, deberán hacerlo en los términos que establece el párrafo anterior.
+
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 14.
@@ -508,3 +564,7 @@ III.- No se les impondrán sanciones ni gastos de ejecución durante el periodo 
 Los contribuyentes a que se refiere este artículo, podrán presentar el aviso de opción al régimen simplificado hasta el 30 de abril de 1991.
 
 TERCERO.- Por el año de 1991, las personas físicas que se dediquen a la agricultura, ganadería, pesca o silvicultura, así como las personas morales a que se refiere el último párrafo del artículo 67-H de la Ley del Impuesto sobre la Renta, podrán efectuar un pago único en el impuesto sobre la renta, al activo y al valor agregado, por los ingresos, bienes y actividades, que correspondan a los referidos giros, mismo que se presentará conjuntamente con la declaración del ejercicio de los impuestos antes referidos.
+
+D.O.F. 20 DE DICIEMBRE DE 1991.
+
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1992.
