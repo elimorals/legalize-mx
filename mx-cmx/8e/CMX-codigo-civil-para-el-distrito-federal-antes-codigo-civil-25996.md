@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1985-02-07"
+last_updated: "1986-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1986.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -3803,6 +3803,8 @@ Mientras que se nombra tutor, el Juez de lo Familiar debe dictar las medidas nec
 
 ### CAPITULO V. De la presunción de muerte del ausente
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+
 ###### ARTICULO 635.
 
 Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor, salvo lo dispuesto en la fracción IV del artículo 537.
@@ -4055,7 +4057,7 @@ Los herederos que no administren, podrán nombrar un interventor, que tendrá la
 
 ###### ARTICULO 686.
 
-El que éntre en la posesión provisional, tendrá, respecto de los bienes, las mismas obligaciones, facultades y restricciones que los tutores.
+El que éntre (sic) en la posesión provisional, tendrá, respecto de los bienes, las mismas obligaciones, facultades y restricciones que los tutores.
 
 ###### ARTICULO 687.
 
@@ -4141,9 +4143,11 @@ Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada l
 
 ###### ARTICULO 705.
 
-Cuando hayan transcurrido seis años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
+Cuando hayan transcurrido 6 años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
 
-Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que hayan transcurrido dos años, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán medidas provisionales autorizadas por el Capítulo I de este Título.
+Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, o por encontrarse a bordo de un buque que naufrague, o al verificarse una inundación u otro siniestro semejante, bastará que hayan transcurrido dos años, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en estos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán medidas provisionales autorizadas por el capítulo I de este Título.
+
+Cuando la desaparición sea consecuencia de incendio, explosión, terremoto o catástrofe aérea o ferroviaria, y exista fundada presunción de que el desaparecido se encontraba en el lugar del siniestro o catástrofe, bastará el transcurso de seis meses, contados a partir del trágico acontecimiento, para que el juez de lo familiar declare la presunción de muerte. En estos casos, el juez acordará la publicación de la solicitud de declaración de presunción de muerte, sin costo alguno y hasta por tres veces durante el procedimiento, que en ningún caso excederá de treinta días.
 
 ###### ARTICULO 706.
 
@@ -8911,7 +8915,7 @@ ARTICULO 2,225.- La ilicitud en el objeto, en el fin o en la condición del acto
 
 ARTICULO 2,226.- La nulidad absoluta por regla general no impide que el acto produzca provisionalmente sus efectos, los cuales serán destruídos retroactivamente cuando se pronuncie por el juez la nulidad. De ella puede prevalerse todo interesado y no desaparece por la confirmación o la prescripción.
 
-ARTICULO 2,227.- La nulidad es relativa cuando no reune todos los caracteres enumerados en el artículo anterior. Siempre permite que el acto produzca provisionalmente sus efectos.
+ARTICULO 2,227.- La nulidad es relativa cuando no reune odos los caracteres enumerados en el artículo anterior. Siempre permite que el acto produzca provisionalmente sus efectos.
 
 ARTICULO 2,228.- La falta de forma establecida por la ley, si no se trata de actos solemnes, así como el error, el dolo, la violencia, la lesión, y la incapacidad de cualquiera de los autores del acto, produce la nulidad relativa del mismo.
 
@@ -12265,7 +12269,7 @@ SEGUNDO (sic).- Se derogan las disposiciones legales que se opongan al presente 
 
 D.O.F. 17 DE ENERO DE 1970.
 
-DECRETO QUE REFORMA LOS ARTICULOS 77, 78, 79, 363, 368, 390, 391, 397 FRACCION III, 398, 403, 405 FRACCION I Y 406 FRACCIONES I Y II DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+DECRETO QUE REFORMA LOS ARTICULOS 77, 78, 79, 363, 368, 390, 391, 397 FRACCION III, 398, 403, 405 FRACCION I Y 406 FRACCIONES I Y II DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 UNICO.- Este Decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
 
@@ -12390,3 +12394,9 @@ TRANSITORIO PRIMERO.- Los contratos celebrados con anterioridad a la promulgaci�
 DECRETO DE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES RELACIONADAS CON INMUEBLES EN ARRENDAMIENTO.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE ENERO DE 1986.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas al Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
