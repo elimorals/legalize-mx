@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-organismo-descentralizado-16823"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-30"
-last_updated: "2002-12-04"
+last_updated: "2003-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, 30 de junio de 1999.
 
@@ -317,145 +317,139 @@ XV.- Las demás que este Reglamento y otras disposiciones le confieran.
 
 ### CAPÍTULO VI. DE LAS UNIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2003)</small>
+
 ###### Artículo 22.
 
-la Dirección General, las Direcciones de Área, Unidades Hospitalarias y Jurisdicciones Sanitarias, se integrarán de la manera siguiente:
+La Dirección General, las Direcciones de Área, Unidades Hospitalarias y Jurisdicciones Sanitarias, se integrarán de la manera siguiente:
 
-DIRECCIÓN GENERAL
+A) DIRECCIÓN GENERAL
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2002)</small>
+I. Unidad de Control de Gestión;
 
-- Unidad de la Beneficencia Pública Estatal
+II. Unidad de Progresa;
 
-- Unidad de Progresa.
+III. Unidad de Beneficencia Pública Estatal;
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2002)</small>
+IV. Subdirección Jurídica;
 
-Subdirección Jurídica
+V. Departamento Contencioso Administrativo;
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2002)</small>
+VI. Comisaría de la Contraloría en los Servicios de Salud de Morelos;
 
-Departamento Contencioso Administrativo
+VII. Departamento de Supervisión y Auditoría, y
 
-Departamento de Asuntos Jurídicos
+VIII. Departamento de Evaluación y Control.
 
-- Comisaría de la Contraloría en los servicios de Salud de Morelos
+B) DIRECCIÓN DE ATENCIÓN A LA SALUD
 
-Departamento de supervisión y Auditoría
+I. Subdirección de Enseñanza, Investigación y Capacitación;
 
-Departamento de Evaluación y Control
+II. Departamento de Enseñanza e Investigación;
 
-Dirección de Atención a la Salud
+III. Departamento de Capacitación;
 
-- Subdirección de Enseñanza, Investigación y Capacitación
+IV. Subdirección de Salud Pública;
 
-Departamento de Enseñanza e Investigación
+V. Departamento de Epidemiología;
 
-Departamento de Capacitación
+VI. Departamento de Prevención y control de Enfermedades;
 
-- Subdirección de Salud Pública
+VII. Departamento de Promoción de la Salud;
 
-Departamento de Epidemiología
+VIII. Subdirección de 1er. Nivel de Atención;
 
-Departamento de Prevención y Control de Enfermedades
+IX. Departamento de Regulación de Servicios del Primer Nivel de Atención;
 
-Departamento de Promoción de la Salud
+X. Departamento de Salud Reproductiva;
 
-Departamento de Salud Reproductiva
+XI. Subdirección de Hospitales;
 
-- Subdirección de 1er Nivel de Atención
+XII. Departamento de Regulación de Servicios del Segundo Nivel de Atención;
 
-Departamento de Regulación de Servicios del Primer Nivel de Atención
+XIII. Unidades Hospitalarias;
 
-- Subdirección de Hospitales
+XIV. Hospital General de Axochiapan;
 
-Departamento de Regulación de Servicios del Segundo Nivel de Atención
+XV. Hospital General de Cuautla;
 
-- Unidades Hospitalarias
+XVI. Hospital General de Cuernavaca;
 
-- Hospital General de Axochiapan
+XVII. Hospital General de Jojutla;
 
-- Hospital General de Cuautla
+XVIII. Hospital General de Tetecala;
 
-- Hospital General de Cuernavaca
+XIX. Jurisdicciones Sanitarias;
 
-Hospital General de Jojutla
+XX. Jurisdicción Sanitaria I Cuernavaca;
 
-- Hospital General de Tetecala
+XXI. Jurisdicción Sanitaria II Zacatepec, y
 
-- Jurisdicciones Sanitarias
+XXII. Jurisdicción Sanitaria III Cuautla.
 
-- Jurisdicción Sanitaria I Cuernavaca
+C) DIRECCIÓN DE REGULACIÓN, CONTROL Y FOMENTO SANITARIO
 
-- Jurisdicción Sanitaria II Zacatepec
+I. Subdirección de Administración y Fomento Sanitario;
 
-- Jurisdicción Sanitaria III Cuautla
+II. Departamento de Administración Sanitaria;
 
-Dirección de Regulación Sanitaria
+III. Departamento de Salud Ambiental Ocupacional y Saneamiento Básico;
 
-- Subdirección de Administración y Fomento sanitario
+IV. Subdirección de Calidad y Control Sanitario;
 
-Departamento de Administración Sanitaria
+V. Departamento de Control Sanitario;
 
-Departamento de Salud Ambiental Ocupacional y Saneamiento Básico
+VI. Centro Estatal de la Transfusión Sanguínea;
 
-- Subdirección de Calidad y Control Sanitario
+VII. Laboratorio Estatal de Salud Pública;
 
-Departamento de Control Sanitario
+VIII. Departamento de Vigilancia Epidemiológica y
 
-Centro Estatal de la Transfusión Sanguínea
+IX. Departamento de Vigilancia Sanitaria.
 
-- Laboratorio Estatal de Salud Pública
+D) DIRECCIÓN DE PLANEACIÓN Y EVALUACIÓN
 
-Departamento de Microbiología
+I. Subdirección de Planeación y Desarrollo;
 
-Departamento de Físico Químicos
+II. Departamento de Estadística;
 
-Dirección de Planeación y Evaluación
+III. Departamento de Programación;
 
-- Subdirección de Planeación y Desarrollo
+IV. Departamento de Evaluación y
 
-Departamento de Estadística
+V. Departamento de Informática.
 
-Departamento de Programación
+E) DIRECCIÓN DE ADMINISTRACIÓN
 
-Departamento de Evaluación
+I. Subdirección de Recursos Humanos;
 
-Departamento de Informática
+II. Departamento de Sistematización de Pagos;
 
-Dirección de Administración
+III. Departamento de Pagos.
 
-- Subdirección de Recursos Humanos
+IV. Departamento de Operación;
 
-Departamento de sistematización de Pagos
+V. Departamento de Relaciones Laborales;
 
-Departamento de Pagos
+VI. Subdirección de Recursos Financieros;
 
-Departamento de Operación
+VII. Departamento de Integración Presupuestal;
 
-Departamento de Relaciones Laborales
+VIII. Departamento de Control Presupuestal y Contabilidad;
 
-- Subdirección de Recursos Financieros
+IX. Departamento de Tesorería;
 
-Departamento de Integración Presupuestal
+X. Subdirección de Recursos Materiales;
 
-Departamento de Control Presupuestal y Contabilidad
+XI. Departamento de Servicios Generales;
 
-Departamento de Tesorería
+XII. Departamento de Adquisiciones;
 
-- Subdirección de Recursos Materiales
+XIII. Departamento de Obras, conservación y Mantenimiento;
 
-Departamento de Servicios Generales
+XIV. Subdirección de Almacenes y Control de Abasto, y
 
-Departamento de Adquisiciones
-
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2002)</small>
-
-Subdirección de Almacenes y Control de Abasto
-
-Departamento de Almacenes y Abastecimiento
-
-Departamento de Obras Conservación y Mantenimiento
+XV. Departamento de Almacenes y Abastecimiento.
 
 ### CAPÍTULO VII. DE LAS ATRIBUCIONES DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -697,9 +691,11 @@ XVI.- Establecer y mantener actualizado el inventario de investigaciones en salu
 
 XVII.- Vigilar el cumplimiento de las normas de enseñanza en salud de la entidad, conforme a las disposiciones aplicables e informar regularmente a la Secretaría de Salud.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2003)</small>
+
 ###### Artículo 30.
 
-La Dirección de Regulación Sanitaria tendrá las atribuciones específicas siguientes:
+La Dirección de Regulación, Control y Fomento Sanitario Tendrá las atribuciones específicas siguientes:
 
 I.- Coordinar el proceso de planeación, programación, presupuestación y evaluación del área de Regulación Sanitaria, proponiendo las metas, para el cumplimiento de los objetivos y programas Federales y Estatales establecidos en el Plan Nacional de Desarrollo, el Programa de Reforma del Sector Salud, el Programa de Modernización Administrativa, el Modelo de Atención a la Salud a Población Abierta, el Plan Estatal de Desarrollo, el Diagnóstico Estatal de Salud. En estricto apego a Leyes, Reglamentos y Normas Oficiales Mexicanas en la materia y demás normatividad aplicable;
 
@@ -1168,5 +1164,9 @@ P.O. 27 DE FEBRERO DE 2002.
 P.O. 4 DE DICIEMBRE DE 2002.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano informativo del Gobierno del Estado.
+
+P.O. 2 DE JULIO DE 2003.
+
+ÚNICO. El presente Decreto entrará en Vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano informativo del Gobierno del Estado.
 
 ### CAPÍTULO X. DE LAS MODIFICACIONES AL REGLAMENTO
