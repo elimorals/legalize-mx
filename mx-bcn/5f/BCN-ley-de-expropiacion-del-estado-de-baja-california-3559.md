@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-expropiacion-del-estado-de-baja-california-3559"
 country: "mx"
 rank: "ley"
 publication_date: "1954-02-28"
-last_updated: "1957-03-31"
+last_updated: "1960-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EXPROPIACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 1957.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 1960.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 28 de febrero de 1954.
 
@@ -43,15 +43,19 @@ LEY DE EXPROPIACION DEL ESTADO DE BAJA CALIFORNIA.
 
 La propiedad particular no puede ser ocupada sin consentimiento de su dueño sino por causas de utilidad pública y mediante indemnización, de acuerdo con las prescripciones siguientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 1960)</small>
+
 ###### ARTICULO 2o.
 
-Se consideran causas de utilidad pública:
+Se considerarán causas de utilidad pública:
 
 I.- El establecimiento, explotación o conservación de un servicio público;
 
 II.- La apertura, ampliación o alineamiento de calles, la construcción de calzadas, puentes, caminos y túneles para facilitar el tránsito urbano y suburbano;
 
-III.- El embellecimiento, ampliación y saneamiento de las poblaciones y puertos, la construcción de hospitales, escuelas, parques, jardines, cárceles, campos deportivos o de aterrizaje, construcciones de oficinas para el Gobierno Estatal o Municipal y de cualquiera obra destinada a prestar servicios de beneficio colectivo;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 1960)</small>
+
+III.- El embellecimiento, ampliación y saneamiento de las poblaciones y puertos, la construcción y ampliación de hospitales, dispensarios médicos, centro de recuperación de la salud, asilos, hospicios, escuelas para cualquier grado o clase de enseñanza, parques, jardines, campos deportivos, gimnasios, auditorios, centros para difusión de la cultura, cárceles, campos de aterrizaje, edificios para oficinas del Gobierno del Estado o Municipios o de cualquiera otra obra destinada a prestar servicios de beneficio colectivo.
 
 IV.- La conservación de los lugares de belleza panorámica, de las antigüedades y objetos de arte, de los edificios y monumentos arqueológicos o históricos y de las cosas que se consideren como características notables de nuestra cultura nacional;
 
@@ -71,9 +75,11 @@ XI.- La creación o mejoramiento de centros de población, colonias urbanas y ag
 
 XII.- Los demás casos previstos por las leyes especiales.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 1960)</small>
+
 ###### ARTICULO 3o.
 
-En los casos comprendidos en la numeración del artículo 2º., previa declaración del Ejecutivo del Estado, procederá la expropiación, la ocupación temporal, total o parcial, o la simple limitación de los derechos de dominio para los fines del Estado o en interés de la colectividad.
+En los casos comprendidos en el Artículo 2, previa la declaración de utilidad pública que haga el Ejecutivo del Estado, procederá la expropiación, la ocupación temporal, total o parcial de los bienes o la simple limitación de los derechos de dominio o posesión, para los fines del Estado o en interés de la colectividad.
 
 ###### ARTICULO 4o.
 
@@ -83,11 +89,11 @@ Al Ejecutivo corresponde declarar la utilidad pública, bien sea de oficio o bie
 
 Con la iniciativa se acompañará un proyecto de la obra que se pretenda ejecutar, expresando la utilidad pública que produzca la propiedad o propiedades que deban ocuparse; nombres y domicilios de sus dueños o poseedores, o la circunstancia de ser desconocidos. El Ejecutivo, cuando lo crea conveniente, recabará información, dictámenes u opiniones, a efecto de resolver sobre la pública utilidad; y cuando proceda de oficio a la expropiación, formará el expediente relativo.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1957)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 1960)</small>
 
 ###### ARTICULO 6o.
 
-El Ejecutivo hará la declaratoria de expropiación respectiva mediante acuerdo que se publicará en el Periódico Oficial del Estado y será notificado personalmente a los interesados. En caso de ignorarse el nombre o el domicilio de éstos, surtirá efectos de notificación personal una segunda publicación del Acuerdo en el Periódico Oficial, que se hará no menos de quince días después de la primera.
+La declaratoria de utilidad pública y el acuerdo de expropiación, la ocupación temporal, total o parcial, o la simple limitación de los derechos de dominio o de posesión, del Ejecutivo, se publicará en el Periódico Oficial del Estado y será notificada personalmente a los interesados. En caso de ignorarse el nombre o el domicilio de éstos, surtirá efectos de notificación personal, una segunda publicación del acuerdo en el Periódico Oficial, la que se hará no menos de quince días después de la primera.
 
 ###### ARTICULO 7o.
 
@@ -101,9 +107,11 @@ El recurso administrativo de revocación se interpondrá directamente ante el Ej
 
 Cuando no se haya hecho valer el recurso de revocación, o en caso de que haya sido resuelta en contra de las pretensiones del recurrente, la autoridad administrativa que corresponda procederá desde luego a la ocupación del bien de cuya expropiación u ocupación temporal se trate, o impondrá la ejecución inmediata de las disposiciones sobre limitación de derechos que procedan.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 1960)</small>
+
 ###### ARTICULO 10.
 
-En los casos a que se refieren las fracciones I, V, VI, VII y XII del artículo 2o. de esta Ley, el Ejecutivo del Estado, hecha la declaratoria, podrá ordenar la ocupación temporal o imponer la ejecución inmediata a las disposiciones de limitación de dominio, sin que la interposición del recurso administrativo o revocación suspenda la ocupación del bien o bienes de que se trate, o la ejecución de las disposiciones de limitación del dominio.
+En los casos a que se refieren las fracciones I, II, III, V, VI, VII y XII del Artículo 2 de esta Ley, el Ejecutivo del Estado, hecha la declaratoria, podrá ordenar la ocupación temporal o imponer la ejecución inmediata a las disposiciones de limitación de dominio o posesión, sin que la interposición del recurso administrativo de revocación suspenda la ocupación del bien o bienes de que se trate, o la ejecución de las disposiciones de limitación del dominio o de la posesión.
 
 ###### ARTICULO 11.
 
@@ -192,3 +200,13 @@ UNICO.- El Presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 31 DE MARZO DE 1957.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 10 DE MAYO DE 1960.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor desde la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En todos los casos en los que se hubiere hecho la declaratoria de expropiación con anterioridad a la vigencia de esta Ley, y estuviere pendiente la ocupación o la ejecución de la limitación de los derechos o la resolución del recurso de revocación, se aplicará la Ley conforme a la cual se decretó la expropiación o la limitación de esos derechos.
