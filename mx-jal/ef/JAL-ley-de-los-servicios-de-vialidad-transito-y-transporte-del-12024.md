@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "1999-07-08"
+last_updated: "1999-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1999.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -119,13 +119,25 @@ b) La prestación del servicio público de transporte, en sus distintas modalida
 
 Esta definición no es aplicable al transporte público de alquiler, taxis o radiotaxis;
 
-IV. Consejo Estatal: Consejo Consultivo de Vialidad, Tránsito y Transporte;
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
-V. Registro Estatal: Registro Estatal de los Servicios Públicos de Tránsito y Transporte;
+IV. Subrogación: Es un acto administrativo mediante el cual los organismos públicos descentralizados del Ejecutivo, contratan con los particulares para que presten el servicio público de transporte por un tiempo determinado y bajo las condiciones que marca la ley;
 
-VI. Organismo Coordinador: Organismo Coordinador de la Operación Integral del Servicio de Transporte Público; y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
-VII. CEIT: Centro Estatal de Investigación de la Vialidad y Transporte.
+V. Consejo Estatal: Consejo Consultivo de Vialidad, Tránsito y Transporte;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+VI. Registro Estatal: Registro Estatal de los Servicios Públicos de Tránsito y Transporte;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+VIII (sic). Organismo Coordinador: Organismo Coordinador de la Operación Integral del Servicio de Transporte Público; y
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+IX. CEIT: Centro Estatal de Investigación de la Vialidad y Transporte.
 
 ###### Artículo 6.
 
@@ -199,7 +211,9 @@ a) La formulación y conducción de la política estatal de comunicaciones y tra
 
 b) La expedición de las normas generales de carácter técnico en las materias objeto de esta Ley;
 
-c) El registro de concesiones, permisos, vehículos, conductores y operadores, para su identificación y la certificación de derechos;
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+c) El registro de concesiones, permisos, subrogaciones, vehículos, conductores y operadores, para su identificación y la certificación de derechos;
 
 d) La programación, construcción y administración de la infraestructura carretera y de la infraestructura y equipamiento vial, así como la reglamentación y control del tránsito en sus vías de comunicación;
 
@@ -363,6 +377,8 @@ IX. Autorizar la localización y características de los elementos que integran 
 
 X. Determinar, previo acuerdo con las autoridades competentes, las rutas de acceso y paso de vehículos del servicio público de transporte de pasajeros, suburbanos y foráneos, y de carga; así como los itinerarios para los vehículos de carga, y otorgar las autorizaciones correspondientes;
 
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
 XI. Determinar la localización del equipamiento para el transporte público, tanto para la operación de las terminales de autobuses de pasajeros, como de las terminales de carga, a efecto de tramitar las respectivas concesiones y permisos;
 
 XII. Autorizar la ubicación de los lugares para el establecimiento de los sitios y matrices de éstos, a propuesta de los interesados;
@@ -419,7 +435,9 @@ IV. Coadyuvar con otras autoridades en la conservación del orden público y la 
 
 V. Cuidar que se cumplan y apliquen las disposiciones de esta Ley y sus reglamentos en materia de vialidad, tránsito y transporte, así como informar y orientar a quienes transiten en las vías públicas;
 
-VI. Tomar conocimiento de las infracciones que cometan los conductores de los vehículos, concesionarios o permisionarios a esta Ley o sus reglamentos y, en su caso, levantar y hacer constar dichas infracciones, para los efectos de determinar y aplicar la sanción correspondiente; y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+VI. Tomar conocimiento de las infracciones que cometan los conductores de los vehículos, concesionarios, permisionarios y subrogatarios, a esta Ley o sus reglamentos y, en su caso, levantar o hacer constar dichas infracciones, para los efectos de determinar y aplicar la sanción correspondiente; y
 
 VII. Las demás que les sean señaladas por esta Ley y sus reglamentos.
 
@@ -479,7 +497,9 @@ II. El Titular de la dependencia del Ejecutivo del Estado competente en materia 
 
 III. Un representante, en su caso, de la dependencia del Poder Ejecutivo Federal competente en materia de comunicaciones y transportes;
 
-IV. Los representantes de los organismos estatales, concesionarios y permisionarios organizados del servicio de transporte público;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+IV. Los representantes de los organismos estatales, concesionarios, permisionarios y subrogatarios organizados del servicio de transporte público;
 
 V. Los representantes de los municipios que se integren como consejeros, en los supuestos siguientes:
 
@@ -531,7 +551,9 @@ III. El Director del Organismo Coordinador de la operación integral del servici
 
 IV. El Director del Centro Estatal de Investigación de la Vialidad y el Transporte; y
 
-V. Los representantes debidamente acreditados de los organismos estatales, concesionarios y permisionarios organizados del servicio de transporte público.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+V. Los representantes debidamente acreditados de los organismos estatales, concesionarios, permisionarios y subrogatarios organizados del servicio de transporte público.
 
 ###### Artículo 35.
 
@@ -569,7 +591,9 @@ c) Planeación económica y social; y
 
 d) Equilibrio ecológico y protección del ambiente;
 
-IV. Un representante del transporte estatal; un representante de los permisionarios del servicio público de la agrupación que tenga mayor número de afiliados y un representante del Consejo Metropolitano de Desarrollo;
+> <small>(REFORMADA P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+IV. Dos representantes del transporte estatal; un representante de los subrogatarios; tres representantes de los permisionarios del servicio público de transporte de las agrupaciones que tengan mayor número de afiliados; un representante de la agrupación cuyo reconocimiento otorguen los integrantes del CEIT y un representante del Consejo Metropolitano de Desarrollo;
 
 V. El Director del Organismo Coordinador de la Operación Integral del Transporte Público; y
 
@@ -581,7 +605,9 @@ Corresponderá al Centro Estatal de Investigación de la Vialidad y el Transport
 
 I. Estudiar y dictaminar las demandas que en materia de vialidad y transporte reciba del Consejo Consultivo; del Organismo Coordinador de la Operación Integral del Transporte y de la Dependencia del Ejecutivo competente en materia de vialidad, tránsito y transporte;
 
-II. Realizar los estudios técnicos, económicos y sociales, que permitan desarrollar un sistema eficiente de vialidad y transporte, con la participación de los concesionarios, permisionarios y de las instituciones de educación superior, así como determinar las vialidades dando prioridad al servicio colectivo del transporte público de pasajeros y la regulación de su operación;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+II. Realizar los estudios técnico, económicos y sociales, que permitan desarrollar un sistema eficiente de vialidad y transporte, con la participación de los concesionarios, permisionarios, subrogatarios y de las instituciones de educación superior, así como determinar las vialidades dando prioridad al servicio colectivo del transporte público de pasajeros y la regularización de su operación;
 
 III. Realizar los estudios técnicos necesarios para la elaboración de los dictámenes que justifiquen, en su caso:
 
@@ -759,7 +785,9 @@ I. Exhibir el documento que acredite la propiedad o posesión legítima del veh�
 
 II. Acreditar el pago de los impuestos y derechos que establezcan las disposiciones fiscales aplicables;
 
-III. Tratándose de vehículos destinados para la prestación de un servicio público, en su caso, los datos de la concesión o permiso;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+III. Tratándose de vehículos destinados para la prestación de un servicio público, en su caso, los datos de la concesión, permiso o subrogación;
 
 IV. Si existe un registro anterior, acreditar su cancelación y, en su caso, el cambio de propietario;
 
@@ -1439,9 +1467,13 @@ Las concesiones y permisos para prestar el servicio público de transporte de pa
 
 I. Los concesionarios serán personas físicas o jurídicas, con domicilio legal en el Estado de Jalisco;
 
-II. Las concesiones o permisos serán otorgados para prestar el servicio público de transporte, exclusivamente con la ruta, derrotero, itinerarios y horarios que se precisen en la concesión. La dependencia del Ejecutivo del Estado, competente en materia de Vialidad, Tránsito y Transporte, en coordinación con la dependencia municipal competente, establecerá los recorridos de las rutas. Para este efecto tomará en cuenta la opinión, estudios y datos de los organismos competentes;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
-III. Para un mismo itinerario, ruta o tramo, podrán concurrir a la prestación del servicio público de transporte uno o más concesionarios o permisionarios, conforme a datos y estudios que para tal efecto proporcionen los organismos competentes;
+II. Las concesiones, permisos o subrogaciones serán otorgados para prestar el servicio público de transporte, exclusivamente con la ruta, derrotero, itinerarios y horarios que se precisen en la concesión. La dependencia del Ejecutivo del Estado competente en materia de Vialidad, Tránsito y Transporte, en coordinación con la dependencia municipal competente, establecerá los recorridos de las rutas. Para tal efecto tomará en cuenta la opinión, estudios y datos de los organismos competentes;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+III. Para un mismo itinerario, ruta o tramo, podrán concurrir a la prestación del servicio público de transporte uno o más concesionarios, permisionarios o subrogatarios, conforme a datos y estudios que para tal efecto proporcionen los organismos competentes;
 
 IV. La dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, tendrá siempre la facultad de modificar las rutas, tramos, itinerarios e inclusive de suprimirlos en función de las opiniones, datos y estudios proporcionados por los organismos competentes;
 
@@ -1793,11 +1825,55 @@ El pasaje obligatoriamente será gratuito para los miembros de la policía preve
 
 Los horarios e itinerarios serán aprobados por la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, tomando en cuenta las opiniones, estudios y datos proporcionados por los organismos auxiliares y de consulta competentes, conforme a las normas y procedimientos que se establezcan en el reglamento.
 
-### CAPITULO I. De la organización y funcionamiento del Registro Estatal de los Servicios Públicos de Tránsito y Transporte
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+### CAPITULO XIII. De la Subrogación de la Operación en la Prestación del Servicio Público de Transporte
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+###### Artículo 149 Bis.
+
+Los organismos públicos descentralizados del Ejecutivo del Estado cuyo objeto sea la prestación del servicio público colectivo de pasajeros, cuando no cuenten con la infraestructura y equipamiento suficiente para atender las necesidades que requiera la ciudadanía, podrán celebrar contratos de subrogación con particulares para la operación en la prestación del servicio, exclusivamente en la modalidad de transporte colectivo urbano y suburbano, reservándose estos organismos la titularidad y administración de las rutas, así como el despacho y la supervisión del servicio en las mismas, que les sean asignadas por la dependencia del Ejecutivo del Estado en materia de vialidad, tránsito y transporte.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+###### Artículo 149 Bis 1.
+
+Los subrogatarios tendrán los siguientes derechos y obligaciones:
+
+I. Operar la prestación del servicio público de transporte, acatando las normas correspondientes a su modalidad y clase;
+
+II. Proteger, orientar y respetar a los usuarios del servicio;
+
+III. Cobrar a los usuarios el precio que establezca la tarifa vigente, conforme a la modalidad y clase del servicio de que se trate;
+
+IV. Entregar al usuario contra el pago del precio, el boleto o comprobante correspondiente;
+
+V. Responder a los daños a terceros, a los viajeros que hayan pagado el importe de su pasaje por accidentes ocurridos con motivo de la prestación del servicio; para tal efecto, estarán obligados a contar con un seguro de viajero que cubra el daño a terceros, atención médica y hospitalaria a las personas;
+
+VI. Verificar que los conductores u operadores a su servicio, reúnan los requisitos establecidos en esta Ley y se desempeñen conforme a las fracciones II a IV, de este artículo;
+
+VII. Identificar a sus vehículos mediante los colores, emblemas y numeración que asigne el Organismo Público Descentralizado con quien haya celebrado el contrato de subrogación;
+
+VIII. Renovar su contrato;
+
+IX. Designar libremente a quien deba suceder por fallecimiento en sus derechos derivados de la subrogación, conforme al procedimiento establecido en el reglamento de esta Ley;
+
+X. Transmitir, con la autorización del Organismo Público Descentralizado y previo pago de los derechos correspondiente, los derechos del mismo;
+
+XI. Tendrán preferencia en la otorgación de nuevas subrogaciones, en el orden en que cronológicamente tengan celebrados sus contratos de servicio;
+
+XII. Los demás que se establezcan en esta Ley, en el contrato de subrogación y en la forma técnica que en su oportunidad se expida y las disposiciones internas que emitan los organismos públicos descentralizados.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+###### Artículo 149 Bis 2.
+
+El reglamento, establecerá las condiciones en las que los organismos públicos descentralizados puedan subrogar la operación del servicio, así como los requisitos particulares a que diera lugar la celebración del contrato.
 
 ## TITULO SEXTO. Del Registro Estatal de los Servicios Públicos de Tránsito y Transporte
 
-### CAPITULO II. De las inscripciones en el Registro Estatal de los Servicios Públicos de Tránsito y Transporte
+### CAPITULO I. De la organización y funcionamiento del Registro Estatal de los Servicios Públicos de Tránsito y Transporte
 
 ###### Artículo 150.
 
@@ -1821,7 +1897,7 @@ Los concesionarios estarán obligados a proporcionar al Registro Estatal de los 
 
 Para acreditar los elementos de toda concesión, los gobiernos estatal y municipales, los concesionarios y en general toda persona autorizada, solicitará los registros y certificaciones correspondientes al Registro Estatal de los Servicios Públicos de Tránsito y Transporte.
 
-### CAPITULO I. De las responsabilidades
+### CAPITULO II. De las inscripciones en el Registro Estatal de los Servicios Públicos de Tránsito y Transporte
 
 ###### Artículo 152.
 
@@ -1869,7 +1945,7 @@ El Registro Estatal de los Servicios Públicos de Tránsito y Transporte, expedi
 
 ## TITULO SEPTIMO. De las responsabilidades; medidas de seguridad; infracciones; sanciones; inspección y vigilancia y medios de defensa de los particulares
 
-### CAPITULO II. De las medidas de seguridad
+### CAPITULO I. De las responsabilidades
 
 ###### Artículo 154.
 
@@ -1885,7 +1961,7 @@ III. Faltar a la obligación de mantener a consulta del público los documentos 
 
 Los servidores públicos, estatales y municipales, encargados de la aplicación de la presente Ley, que no observen u omitan acatar sus disposiciones, incurrirán en responsabilidad y serán sancionados conforme las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-### CAPITULO III. De las sanciones administrativas en materia de vialidad y tránsito
+### CAPITULO II. De las medidas de seguridad
 
 ###### Artículo 156.
 
@@ -1947,7 +2023,7 @@ Las autoridades de vialidad y tránsito, en ningún otro caso de los antes previ
 
 Las autoridades de vialidad y tránsito, no están autorizadas para recoger al operador o conductor, su licencia, permiso, gafete de identificación, tarjeta de circulación y cualquier otro documento, con excepción de los vehículos de transporte público, de carga o de pasajeros.
 
-### CAPITULO IV. De las sanciones administrativas en materia del servicio público del transporte
+### CAPITULO III. De las sanciones administrativas en materia de vialidad y tránsito
 
 ###### Artículo 160.
 
@@ -2207,7 +2283,7 @@ Tratándose de la infracción contenida en la fracción II del Artículo 167, al
 
 Por la reincidencia en las infracciones previstas en los Artículos 165, 166 fracción II, 167 fracción II y VI, y 169, cometidas por, conductores del servicio público de transporte colectivo de pasajeros, dentro de los treinta días siguientes, la sanción se incrementará en cien días de salario mínimo general vigente en la zona en que se cometa la infracción.
 
-### CAPITULO V. De las infracciones, de su calificación, aplicación y ejecución de las sanciones correspondientes
+### CAPITULO IV. De las sanciones administrativas en materia del servicio público del transporte
 
 ###### Artículo 171.
 
@@ -2271,7 +2347,7 @@ En cualesquiera de los casos antes descritos, la suspensión será hasta por sei
 
 La licencia de operador o conductor de servicio público se cancelará como sanción y mediante resolución administrativa, cuando se incurra en violación de la tarifa autorizada, en los casos previstos por esta Ley y el reglamento.
 
-### CAPITULO VI. De las notificaciones
+### CAPITULO V. De las infracciones, de su calificación, aplicación y ejecución de las sanciones correspondientes
 
 ###### Artículo 177.
 
@@ -2315,7 +2391,7 @@ En los casos de sanciones alternativas en que el infractor opte por el trabajo e
 
 Cuando se imponga un arresto administrativo, se comunicará la resolución a la autoridad competente para que lo ejecute.
 
-### CAPITULO VII. De la inspección y vigilancia
+### CAPITULO VI. De las notificaciones
 
 ###### Artículo 184.
 
@@ -2333,7 +2409,7 @@ III. Si están señalados en semanas, meses o años, o tienen una fecha determin
 
 IV. Para fijar la duración de los términos, los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales, contadas de las veinticuatro a las veinticuatro horas.
 
-### CAPITULO VIII. De los medios de defensa
+### CAPITULO VII. De la inspección y vigilancia
 
 ###### Artículo 186.
 
@@ -2408,6 +2484,8 @@ II. Por escrito, dentro de un plazo de cinco días, contado a partir de la fecha
 ###### Artículo 195.
 
 En todo caso, la autoridad que practique la inspección, deberá comunicar al visitado el resultado de la misma en un plazo no mayor de quince días, siguientes a la fecha en que se hubiere practicado la visita de inspección. El incumplimiento de este requisito invalidará los efectos de la misma que fueren adversos a los intereses del visitado y producirá la responsabilidad a que haya lugar, para el servidor público que intervino.
+
+### CAPITULO VIII. De los medios de defensa
 
 ###### Artículo 196.
 
@@ -2556,3 +2634,7 @@ P.O. 15 DE JUNIO DE 1999.
 P.O. 8 DE JULIO DE 1999.
 
 ÚNICO.- Este decreto entrará en vigor 30 días siguientes a su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 6 DE NOVIEMBRE DE 1999.
+
+PRIMERO. Para la celebración de nuevos contratos de subrogación, con motivo de la presente reforma, el organismo público descentralizado deberá pedir opinión al representante de los subrogatarios.
