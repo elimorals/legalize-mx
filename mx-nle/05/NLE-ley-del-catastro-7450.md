@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "1996-12-27"
+last_updated: "1997-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -95,15 +95,19 @@ La Junta Central Catastral se integrará por tres representantes oficiales que d
 
 La Junta Central Catastral, tendrá el carácter de permanente y se encargará de fijar los criterios generales aplicables en el Estado y de revisar los valores que determine la Junta Municipal Catastral en los que exista desacuerdo de los particulares, siendo auxiliada al efecto por la Dirección de Catastro.
 
-La Dirección de Catastro formulará los proyectos de Bases Generales de Valores por Unidades Tipo, mismos que serán revisados y aprobados en las sesiones de las Juntas Municipales Catastrales.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+La Dirección de Catastro en coordinación con los Municipios, formulará los proyectos de Bases Generales de Valores por Unidades Tipo, mismos que serán revisados y aprobados en las sesiones de las Juntas Municipales Catastrales.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 6o.
 
-Las Juntas Municipales Catastrales se integrarán por tres representantes oficiales, que designará el Tesorero Municipal, quienes tendrán el carácter de Presidente, Secretario y Vocal; por un representante de la Cámara de Propietarios de Bienes Raíces en el Estado o de otra Asociación de Propietarios en los lugares en donde dicha Cámara no tenga Delegación, un representante del Instituto Mexicano de Valuación de Nuevo León, A. C. y un representante de la Secretaría de Finanzas y Tesorería General del Estado, los cuales tendrán el carácter de vocales. El Presidente tendrá voto de calidad en caso de empate. Cuando en algún Municipio no haya Asociación de Propietarios, la Tesorería Municipal hará las designaciones de los representantes de los particulares, para cuyo efecto deberán reunir a un número no menor de diez propietarios de predios de los tres tipos que la Ley señala, para que del grupo se designe a las personas que deban representar a los propietarios en las Juntas Municipales Catastrales. Se nombrarán suplentes tanto para los representantes oficiales como para los los (SIC) particulares, quienes se encargarán de suplir las faltas temporales o definitivas de los propietarios.
+Las Juntas Municipales Catastrales se integrarán por tres representantes oficiales, que designará el Tesorero Municipal, quienes tendrán el carácter de Presidente, Secretario y Vocal; por un representante de la Cámara de Propietarios de Bienes Raíces en el Estado o de otra Asociación de Propietarios en los lugares en donde dicha Cámara no tenga Delegación, un representante del Instituto Mexicano de Valuación de Nuevo León, A. C. y un representante de la Secretaría de Finanzas y Tesorería General del Estado, los cuales tendrán el carácter de vocales. El Presidente tendrá voto de calidad en caso de empate. Cuando en algún Municipio no haya Asociación de Propietarios, la Tesorería Municipal hará las designaciones de los representantes de los particulares, para cuyo efecto deberán reunir a un número no menor de diez propietarios de predios de los tres tipos que la Ley señala, para que del grupo se designe a las personas que deban representar a los propietarios en las Juntas Municipales Catastrales. Se nombrarán suplentes tanto para los representantes oficiales como para los los (sic) particulares, quienes se encargarán de suplir las faltas temporales o definitivas de los propietarios.
 
-En las sesiones de estas Juntas se revisarán los valores que proponga la Dirección de Catastro y aprobarán los nuevos valores unitarios de construcción aplicables a la circunscripción territorial de su Municipio, los que podrán equiparse a los de aquellos Municipios que integran la zona catastral correspondiente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+En las sesiones de estas Juntas se revisarán los valores que proponga la Dirección de Catastro en coordinación con los Municipios y aprobarán los nuevos valores unitarios de construcción aplicables a la circunscripción territorial de su Municipio, los que podrán equipararse a los de aquellos Municipios que integran la zona catastral correspondiente. Así mismo, revisarán los valores en los que exista desacuerdo de los particulares. Respecto al Acuerdo que al efecto se emita, el particular podrá acudir a la Junta Central Catastral, en los términos de lo dispuesto en el artículo 5o. de esta Ley.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -119,11 +123,11 @@ En los Municipios en donde no exista la integración de las Juntas Municipales, 
 
 La Dirección de Catastro se compondrá de un Director y de los empleados técnicos y administrativos que designe el Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 9o.
 
-La Dirección de Catastro tendrá a su cargo la formulación de las Bases Generales de Valores por Unidades Tipo; la realización de los trabajos de limitación de regiones de cada Municipio del Estado, dividiéndolo en zonas urbanas, sub-urbanas y rústicas; el registro, control y actualización del padrón catastral, utilizando la fotogrametría u otros métodos técnicos de medición y cálculos masivos a través de los cuales se pueda conocer la ubicación, medidas y colindancias del predio, las construcciones existentes y demás características del mismo, así como los datos de identificación del propietario o poseedor y establecer las normas técnicas para la formación, mejoramiento y conservación de los registros catastrales para el control y valuación en materia inmobiliaria.
+La Dirección de Catastro en coordinación con los Municipios, tendrá a su cargo la formulación de las Bases Generales de Valores por Unidades Tipo; la realización de los trabajos de limitación de regiones de cada Municipio del Estado, dividiéndolo en zonas urbanas, suburbanas y rústicas; así mismo, la Dirección de Catastro, llevará el registro, control y actualización del padrón catastral, utilizando con el apoyo de los Municipios, la fotogrametría u otros métodos técnicos de medición y cálculos masivos a través de los cuales se pueda conocer la ubicación de medidas y colindancias del predio, las construcciones existentes y demás características del mismo, así como los datos de identificación del propietario o poseedor y establecer las normas técnicas para la formación, mejoramiento y conservación de los registros catastrales para el control y valuación en materia inmobiliaria.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -141,11 +145,11 @@ A la Dirección de Catastro le competerán todas las atribuciones catastrales no
 
 De las Operaciones Catastrales.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 12o.
 
-De acuerdo con el artículo 9o. la Dirección de Catastro procederá a la delimitación y levantamiento de los planos de predios rústicos, urbanos y sub-urbanos, y formará y mantendrá al día un plano catastral de cada Municipio, así como los planos parciales de los mismos, por regiones o zonas, que sean necesarios para tener un conocimiento de la propiedad raíz, que sirva para la elaboración de las Bases Generales de Valores por Unidades Tipo y para la valorización de predios.
+De acuerdo con el artículo 9o. la Dirección de Catastro en forma conjunta con los Municipios, procederá a la delimitación y levantamiento de los planos rústicos, urbanos y suburbanos y formará y mantendrá al día un plano catastral de cada Municipio, así como los planos parciales de los mismos, por regiones o zonas, que sean necesarios para tener un conocimiento de la propiedad raíz, que sirva para la elaboración de la Bases Generales de Valores por Unidades Tipo y para la valorización de predios.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -191,11 +195,11 @@ En las zonas rústicas, la determinación de las Bases Generales de Valores por 
 
 El valor catastral se obtendrá al aplicar a cada predio, según sus características, las Bases Generales de Valores por Unidades Tipo, aprobadas en los términos de esta Ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 18o.
 
-Las bases generales de valores por unidades tipo, deberán ser del dominio público y estarán a disposición de los interesados en las oficinas de la Dirección de Catastro.
+Las Bases Generales de Valores por Unidades Tipo deberán ser del dominio público y estarán a disposición de los interesados en las oficinas de la Dirección de Catastro y en los Municipios correspondientes.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -225,13 +229,13 @@ El avalúo de los predios se hará con estricto apego a las Bases Generales de V
 
 Los valores de los predios a los que ya se hubiese determinado un valor catastral, podrán ser actualizados cuando en el predio se hagan construcciones, reconstrucciones, ampliaciones o mejoras, o se modifique el uso del suelo.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 23o.
 
-Para determinar el valor catastral de los predios de los nuevos fraccionamientos o urbanizaciones, la Dirección de Catastro formulará y propondrá, en base al tipo de fraccionamiento, a su ubicación o infraestructura, el valor por unidad tipo en metros cuadrados, mismo que será revisado y aprobado por la Junta Municipal Catastral que corresponda o la Junta Central según sea el caso y que servirá para el cálculo del valor catastral.
+Para determinar el valor catastral de los predios de los nuevos fraccionamientos o urbanizaciones, la Dirección de Catastro en coordinación con los Municipios, formulará y propondrá, en base al tipo de fraccionamiento, a su ubicación o infraestructura, el valor por unidad tipo en metros cuadrados, mismo que será revisado y aprobado por la Junta Municipal Catastral que corresponda o la Junta Central según sea el caso y que servirá para el cálculo del valor catastral.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 24o.
 
@@ -303,7 +307,7 @@ La solicitud de inscripción de un predio en el padrón catastral, sólo procede
 
 De las Infracciones y de las Sanciones.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 21.
 
@@ -325,7 +329,7 @@ Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios
 
 ###### ARTICULO 31o.
 
-Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios que consignen datos falsos en sus declaraciones, avisos, solicitudes, planos, o manifestaciones, con excepción del relativo al valor del predio. II.- Los propietarios o poseedores de los predios que no presenten oportunamente los planos, datos, informes, declaraciones, solicitudes, manifestaciones y cualquier otro documento que señalen las leyes o las convocatorias respectivas, o sean requeridos por las autoridades catastrales. III.- Los propietarios o poseedores de predios que se nieguen a aclarar las dudas que surjan con motivo de sus declaraciones o manifestaciones. IV.- Los funcionarios y empleados públicos o privados a quienes esta Ley impone la obligación de auxiliar a los organismos catastrales para el mejor desempeño de sus funciones, y que no le presten oportuna y eficaz cooperación cuando le sea solicitada. V.- Los funcionarios y empleados de los organismos catastrales que por negligencia o dolo, posibiliten la infracción de esta Ley por los sujetos obligados a cumplirla.
+Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios que consignen datos falsos en sus declaraciones, avisos, solicitudes, planos, o manifestaciones, con excepción del relativo al valor del predio. II.- Los propietarios o poseedores de los predios que no presenten oportunamente los planos, datos, informes, declaraciones, solicitudes, manifestaciones y cualquier otro documento que señalen las leyes o las convocatorias respectivas, o sean requeridos por las autoridades catastrales, en un plazo no menor a treinta días contados a partir del inicio de los citados eventos. III.- Los propietarios o poseedores de predios que se nieguen a aclarar las dudas que surjan con motivo de sus declaraciones o manifestaciones. IV.- Los funcionarios y empleados públicos o privados a quienes esta Ley impone la obligación de auxiliar a los organismos catastrales para el mejor desempeño de sus funciones, y que no le presten oportuna y eficaz cooperación cuando le sea solicitada. V.- Los funcionarios y empleados de los organismos catastrales que por negligencia o dolo, posibiliten la infracción de esta Ley por los sujetos obligados a cumplirla.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -439,6 +443,18 @@ En los términos previstos en los artículos 20 y 21 de la Ley del Catastro del 
 
 En los términos previstos en los artículos 20 y 21 de la Ley del Catastro del Estado, durante el año de 1997 se aplicará un incremento en las Bases Generales de Valores por Unidades Tipo y en los valores catastrales de los predios ubicados en el Estado, de hasta un 5% respecto de los terrenos y en las construcciones de un 10%. En ningún caso los valores catastrales podrán rebasar los valores reales de los inmuebles.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 19o.
+
+Los Municipios del Área Metropolitana, deberán integrar su Junta Municipal en un plazo no mayor de tres meses a partir de enero de 1998.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 20o.
+
+En los términos previstos en los Artículos 20 y 21 de la Ley del Catastro del Estado, durante el año de 1998 se aplicará un incremento en las Bases Generales de Valores por Unidades Tipo y en los valores catastrales de los predios ubicados en el Estado, de hasta un 5% respecto de los terrenos y en las construcciones de un 10%. En ningún caso los valores catastrales podrán rebasar el valor actual real de los inmuebles.
+
 Lo tendrá entendido el C. Gobernador Constitucional del Estado, mandándolo imprimir, publicar y circular a quienes corresponda.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado de Nuevo León, en Monterrey, su Capital, a los ocho días del mes de enero de mil novecientos sesenta y cuatro.- PRESIDENTE: DIP. MARIO GARZA VALDEZ.- DIP. SECRETARIO HILARIO CONTRERAS GARCIA.- DIP. SECRETARIO: ARTURO DE LA GARZA GONZALEZ". Rúbricas.
@@ -474,6 +490,12 @@ TERCERO.- Se dejan sin efecto todas las disposiciones que se contrapongan con el
 CUARTO.- Por nuevos fraccionamientos, en los términos del Artículo 23 de este Decreto, se entienden aquellos cuya autorización para fraccionar se otorgue con posterioridad a la iniciación de vigencia de este Decreto.
 
 P.O. 25 DE DICIEMBRE DE 1978.
+
+###### ARTICULO 23o.
+
+BIS.- Los Municipios presentarán a la Dirección de Catastro, los estudios comerciales correspondientes a su circunscripción territorial y vigilarán el comportamiento del mercado para mantener actualizados estos valores, ya que servirán de base para determinar el valor actual real que expida la Secretaría de Finanzas y Tesorería General del Estado, mismo que se utilizará para el cálculo del Impuesto Sobre Adquisición de Inmuebles.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO PRIMERO
 
@@ -604,3 +626,7 @@ El presente Decreto entrará en vigor el día 1o. de Enero de 1996.
 P.O. 27 DE DICIEMBRE DE 1996.
 
 UNICO:- El presente decreto entrará en vigor el 1º de Enero de 1997.
+
+P.O. 29 DE DICIEMBRE DE 1997.
+
+ÚNICO:- El presente Decreto entrará en vigor el día primero de enero de 1998.
