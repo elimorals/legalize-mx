@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-10296"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-13"
-last_updated: "1995-09-13"
+last_updated: "1995-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1995.
 
 Ley Publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el 13 de septiembre de 1995.
 
@@ -191,9 +191,11 @@ Dentro de los primeros quince días del mes de octubre del año de la elección,
 
 La Comisión se integrará por un Presidente y cuatro vocales y se elegirá por mayoría simple en votación por cédula en los términos del Artículo 162 de esta Ley y, por voto individualizado para quien fungirá como Presidente de la Comisión que resulte de la fórmula propuesta.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 1995)</small>
+
 ###### ARTICULO 20.
 
-Dentro de los primeros quince días del mes de noviembre del año de la elección, el Congreso del Estado en Pleno se erigirá en Colegio Electoral y designará una Comisión especial de tres Diputados que habrá de elaborar el dictamen sobre la validez de las elecciones de los Ayuntamientos, para lo cual se sujetará a lo dispuesto en el artículo 21 de la Constitución Política del Estado y al procedimiento previsto en el artículo 407 de la Ley de Instituciones y Procesos Electorales del Estado de Baja California.
+Dentro de los primeros quince días del mes de noviembre del año de la elección, el Congreso del Estado en pleno, se erigirá en Colegio Electoral y designará una Comisión Especial de cinco Diputados que habrá de elaborar el dictamen sobre la validez de las elecciones de los Ayuntamientos, para lo cual se sujetará a lo dispuesto en el artículo 21 de la Constitución Política del Estado y al procedimiento previsto en el Artículo 407 de la Ley de Instituciones y Procesos Electorales del Estado de Baja California.
 
 La Comisión se integrará por un Presidente y cuatro vocales y se elegirá por mayoría simple en votación por cédula en los términos del Artículo 162 de esta Ley y, por voto individualizado para quien fungirá como Presidente de la Comisión que resulte de la fórmula propuesta.
 
@@ -439,23 +441,45 @@ En los casos de que el Secretario deje de asistir injustificadamente a las sesio
 
 Las Comisiones y Subcomisiones son órganos de trabajo del Congreso del Estado de conformidad con lo dispuesto por el artículo 26 de esta Ley. Las Comisiones serán:
 
-1. De Régimen Interno y Prácticas Parlamentarias;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1995)</small>
 
-2. De Dictamen Legislativo;
+I.- De Régimen Interno y Prácticas Parlamentarias;
 
-3. De Vigilancia de la Oficialía Mayor;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1995)</small>
 
-4. De Vigilancia de la Contaduría Mayor de Hacienda;
+II.- De Dictamen Legislativo;
 
-5. De Investigación, y
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1995)</small>
 
-6. Especiales.
+III.- De Vigilancia de la Oficialía Mayor;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1995)</small>
+
+IV.- De Vigilancia de la Contaduría Mayor de Hacienda;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1995)</small>
+
+V.- De Investigación;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1995)</small>
+
+VI.- Especiales; y
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 1995)</small>
+
+VII.- Las demás que se consideren necesarias.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 1995)</small>
 
 ###### ARTICULO 45.
 
-Las Comisiones de Régimen Interno y Prácticas Parlamentarias, de Dictamen Legislativo, de Vigilancia de la Oficialía Mayor y de Vigilancia de la Contaduría Mayor, se constituyen con carácter definitivo y funcionan para toda una Legislatura, sus integrantes durarán en el cargo tres años; para efectos de esta Ley se denominan "ordinarias".
+Las Comisiones de Régimen Interno y Prácticas Parlamentarias, de Dictamen Legislativo, de Vigilancia de la Oficialía Mayor y de Vigilancia de la Contaduría Mayor de Hacienda, se constituyen con carácter definitivo y funcionan para toda una Legislatura, sus integrantes durarán en el cargo tres años; para efectos de esta Ley se denominan "ordinarias".
 
 Las Comisiones ordinarias se integrarán durante los primeros 30 días del primer período ordinario del primer año de ejercicio constitucional de la Legislatura, con excepción de la Comisión de Régimen Interno y Prácticas Parlamentarias que deberá quedar integrada en la primera sesión ordinaria de la Legislatura entrante.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 1995)</small>
+
+Durante cualquier período ordinario podrán integrarse otras Comisiones Ordinarias y Subcomisiones según lo exija la importancia de la materia o asunto, éstas se integrarán de conformidad con el artículo 47 de esta Ley.
 
 ###### ARTICULO 46.
 
@@ -981,9 +1005,11 @@ Toda petición de particulares o autoridades que no tengan derecho de iniciativa
 
 Toda iniciativa deberá presentarse al Presidente del Congreso por escrito y firmada, con su exposición de motivos en la cual exponga su autor o autores las consideraciones jurídicas, políticas, sociales o económicas que justifican, explican, motivan y dan procedencia a la proposición de creación, reforma, derogación o abrogación de una Ley, artículo de la misma o decreto.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1995)</small>
+
 ###### ARTICULO 117.
 
-En las reformas, derogación o abrogación de los ordenamientos jurídicos se observarán los mismos trámites establecidos para su formación en el Capitulo III de la Constitución Política del Estado.
+En las reformas, derogación o abrogación de los ordenamientos jurídicos se observarán los mismos trámites establecidos para su formación en el Título III, Capítulo III de la Constitución Política del Estado.
 
 ###### ARTICULO 118.
 
@@ -1233,7 +1259,9 @@ Igualmente podrá sujetarse a votación nominal un acuerdo o propuesta cuando lo
 
 La votación nominal se emitirá de la siguiente forma:
 
-I.- Cada miembro del Congreso, comenzando por el lado derecho del Presidente, dirá: en voz alta su nombre completo, apellido paterno o apellido paterno y materno, añadiendo la expresión "a favor", "en contra";
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1995)</small>
+
+I.- Cada miembro del Congreso, comenzando por el lado derecho del Presidente dirá: en voz alta su nombre completo, apellido paterno o apellido paterno y materno, añadiendo la expresión "a favor", "en contra" o "me abstengo";
 
 II.- El Secretario anotará a los Diputados que aprueben y a los que desaprueben;
 
@@ -1259,9 +1287,11 @@ V.- Las resoluciones que no tengan señalada un tipo específico de votación.
 
 Para llevar a cabo una votación económica, el Secretario de la Mesa Directiva, preguntará: "Por instrucciones de la Presidencia se pregunta a los señores Diputados si están a favor o en contra de la propuesta sometida a su consideración", debiendo los Diputados expresar su voto levantando la mano, primeramente los que estén a favor y enseguida los que estén en contra.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1995)</small>
+
 ###### ARTICULO 159.
 
-El Secretario hará el recuento de los votos y dirá en voz alta el número total de votos a favor y de votos en contra, y el Presidente declarará el resultado final.
+El Secretario hará el recuento de los votos y dirá en voz alta el número total de votos a favor, de votos en contra y de abstenciones, y el Presidente declarará el resultado final.
 
 ###### ARTICULO 160.
 
@@ -1269,9 +1299,11 @@ Cuando hubiera duda sobre el resultado de la votación, cualquier Diputado podr�
 
 Cuando se objetare por más de dos ocasiones el resultado de la votación económica, el Presidente ordenará al Secretario que la efectúe de forma nominal.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1995)</small>
+
 ###### ARTICULO 161.
 
-Los Diputados en las votaciones nominales y económicas, tienen obligación de votar a favor o en contra, debiendo fundamentar en su caso la abstención.
+Los Diputados en las votaciones nominales y económicas tienen la obligación de votar a favor o en contra, debiendo razonar su abstención.
 
 ###### ARTICULO 162.
 
@@ -1307,13 +1339,9 @@ I.- Representar a la Oficialía Mayor ante toda clase de autoridades, Entidades 
 
 II.- Formular y ejecutar los programas de trabajo de la Oficialía Mayor;
 
-III.- Elaborar y rendir:
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1995)</small>
 
-a) A las Subcomisiones de Legislación Estatal y de Legislación Municipal por conducto de la Comisión de Vigilancia, las opiniones sobre las iniciativas de Ley o reformas a las leyes estatales o municipales y, de reformas o adiciones a la Constitución Política de los Estados Unidos Mexicanos;
-
-b) Los estudios legislativos que solicite el Pleno del Congreso del Estado o la Comisión de Legislación y Puntos Constitucionales;
-
-c) A la Comisión de Vigilancia informe de labores, cuando menos con 10 días de anticipación al término de los períodos ordinarios de sesiones del Congreso del Estado;
+III.- Elaborar y rendir a la Comisión de Vigilancia de la Oficialía Mayor, informe de labores al término de los períodos ordinarios del Congreso del Estado;
 
 IV.- Ejecutar, cuando se le requiera, los convenios de coordinación, colaboración y cooperación técnica que celebre el Congreso del Estado con el Congreso de la Unión, con los Congresos de las demás Entidades Federativas, con los Municipios, con los otros Poderes e instituciones de educación superior, científicas o tecnológicas, y
 
@@ -1337,7 +1365,9 @@ III.- Tener vecindad en el Estado con residencia efectiva de por lo menos cinco 
 
 La vecindad no se interrumpe cuando en el ejercicio de un cargo público, por motivo de estudios o por causas ajenas a su voluntad, se tenga que residir fuera del territorio del Estado.
 
-IV.- Poseer título de Licenciado en Derecho expedido y registrado legalmente, quien deberá acreditar que durante tres años prestó servicios en cargos públicos relacionados con el ejercicio del derecho. El nombramiento de Suboficial Mayor recaerá en Licenciado en Derecho, en Economía o en Administración Pública o experiencia en el desempeño del cargo como equivalente, quien deberá reunir los requisitos a que se refiere este artículo;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1995)</small>
+
+IV.- Poseer título de Licenciado en Contaduría Pública, Administración de Empresas, Derecho, Economía, Administración Pública o Licenciaturas afines, expedido y registrado legalmente, quien deberá acreditar que durante cinco años prestó servicios en cargos públicos relacionados con la Administración Pública Estatal o Municipal; o experiencia equivalente en la Administración Privada. El nombramiento de Suboficial Mayor recaerá en Licenciado en Contaduría Pública, Administración de Empresas, Derecho o Administración Pública, con experiencia en el desempeño de puestos administrativos y manejo de personal relacionados con la Administración Pública o Privada, o tener experiencia equiparable en este tipo de funciones;
 
 V.- Ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de las funciones públicas que le hayan sido encomendadas;
 
@@ -1377,7 +1407,9 @@ III.- Tener vecindad en el Estado con residencia efectiva de por lo menos cinco 
 
 La vecindad no se interrumpe cuando en el ejercicio de un cargo público, por motivo de estudios o por causas ajenas a su voluntad, se tenga que residir fuera del territorio del Estado.
 
-IV.- Poseer Título de Contador Público expedido y registrado legalmente, y deberán acreditar, que los cinco años anteriores a su designación prestaron servicios en cargos relacionados con la administración pública y conocimientos en contabilidad y auditoría gubernamentales;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1995)</small>
+
+IV.- Poseer Título de Contador Público expedido y registrado legalmente y deberá acreditar, de preferencia, que los cinco años anteriores a su designación prestó servicios en cargos relacionados con la Administración Pública y conocimientos de Contabilidad y Auditoría Gubernamentales o experiencia equivalente en Administración Privada;
 
 V.- Ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de las funciones públicas que le hayan sido encomendadas;
 
@@ -1464,3 +1496,11 @@ LIC. ERNESTO RUFFO APPEL.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RODOLFO VALDEZ GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE OCTUBRE DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
