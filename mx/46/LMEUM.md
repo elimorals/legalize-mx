@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1963-12-30"
+last_updated: "1969-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1969.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -54,17 +54,17 @@ Las únicas monedas circulantes serán:
 
 a). Los billetes del Banco de México, S.A., con las denominaciones que fijen sus Estatutos.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1969)</small>
 
-b). Las monedas de plata de uno, cinco y diez pesos con los diámetros, leyes, pesos, cuños y demás características que señalen los decretos relativos.
+b). Las monedas de plata de veinticinco pesos, con el diámetro, ley, peso, cuños y demás características que señale el decreto relativo;
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1969)</small>
 
-c). Las monedas de cuproníquel de cincuenta y de veinticinco centavos, con el diámetro, composición de liga metálica, peso, cuños y demás características que señala el decreto relativo;
+c). Las monedas de cuproníquel de cinco pesos, un peso, cincuenta y veinticinco centavos, con los diámetros, composición de ligas metálicas, pesos, cuños y demás características que señalen los decretos relativos;
 
-> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 1955)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1969)</small>
 
-d). Las monedas de latón de veinte, diez, cinco y un centavos, con los diámetros, composición de ligas metálicas, pesos, cuños y demás características que señala el decreto relativo;
+d). Las monedas de latón de veinte, diez, cinco y un centavos, con los diámetros, composición de ligas metálicas, pesos, cuños y demás características que señalen los decretos relativos;
 
 (ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 21 DE OCTUBRE DE 1957)
 
@@ -94,7 +94,7 @@ D.O.F. 31 DE DICIEMBRE DE 1956
 
 ###### ARTICULO 5°.
 
-Las monedas de diez y cinco pesos a que se refiere el inciso b) del Artículo 2o. de esta Ley, tendrán poder liberatorio limitado a quinientos pesos y las de un peso a cien pesos todas en un mismo pago; las de cincuenta centavos a que se refiere el inciso c) tendrán poder liberatorio limitado a cincuenta pesos en un mismo pago; las mencionadas en el inciso d) tendrán poder liberatorio limitado en un mismo pago como sigue: a veinte pesos las de veinte centavos; a diez pesos las de diez centavos; a cinco pesos las de cinco centavos y a un peso las de un centavo; las conmemorativas a que se refiere el inciso e) tendrán poder liberatorio limitado al valor total de 100 piezas en un mismo pago.
+Las monedas metálicas a que se refieren los incisos b) y siguientes del artículo 2o. de esta ley, tendrán poder liberatorio limitado al valor de cien piezas de cada denominación en un mismo pago.
 
 ###### ARTICULO 6°.
 
@@ -196,7 +196,7 @@ Se declaran libres la exportación y la importación de oro acuñado o en pasta,
 
 Los billetes del Banco de México tendrán poder liberatorio ilimitado.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1969)</small>
 
 ###### ARTICULO 5°.
 
@@ -537,3 +537,13 @@ D.O.F. 30 DE DICIEMBRE DE 1963.
 Artículo Primero.- Se deroga el artículo 2o., del decreto del 13 de septiembre de 1955. Las monedas en circulación a que se refiere el artículo que se deroga continuarán sujetas a lo dispuesto en el artículo 2o. Transitorio de la Ley Monetaria.
 
 Artículo Segundo.- El presente decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1969.
+
+###### ARTICULO PRIMERO.
+
+Las monedas de plata de veinticinco, diez, cinco y un pesos cuyos diámetros, pesos, leyes, cuños y demás características se señalaron en los Decretos de 13 de septiembre de 1955, 26 de diciembre de 1956 y 29 de diciembre de 1966; las monedas de cuproníquel de cincuenta y veinticinco centavos cuyos diámetros, pesos, composición de ligas metálicas, cuños y demás características se señalaron en el Decreto de 23 de diciembre de 1966; y, las monedas de latón de diez, cinco y un centavos, cuyos diámetros, pesos, composición de ligas metálicas, cuños y demás características se señalaron en el Decreto de 13 de septiembre de 1955, continuarán en circulación con el poder liberatorio que les señalaba el artículo 5o. de la Ley Monetaria de los Estados Unidos Mexicanos que se reforma, hasta en tanto sean retiradas de la circulación por las autoridades competentes.
+
+###### ARTICULO SEGUNDO.
+
+La presente reforma entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
