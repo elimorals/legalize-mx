@@ -4,7 +4,7 @@ identifier: "SIN-ley-del-servicio-de-seguridad-publica-del-estado-de-sinaloa-100
 country: "mx"
 rank: "ley"
 publication_date: "1986-04-04"
-last_updated: "1993-04-05"
+last_updated: "2001-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 LEY DEL SERVICIO DE SEGURIDAD PUBLICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 1993.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA CONFORME A LO DISPUESTO EN EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE EXPIDE LA LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SINALOA, PUBLICADA EN EL PERIODICO OFICIAL EL 25 DE JULIO DE 2001.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 4 de abril de 1986.
 
@@ -648,3 +650,19 @@ Los títulos, certificados, diplomas, constancias y otros documentos escolares q
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 25 DE JULIO DE 2001.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SINALOA
+
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+LA PRESENTE LEY ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL "EL ESTADO DE SINALOA".
+
+###### ARTICULO SEGUNDO.
+
+SE ABROGA LA LEY DE SERVICIO DE SEGURIDAD PUBLICA DEL ESTADO DE SINALOA, PUBLICADA EN EL PERIODICO OFICIAL "EL ESTADO DE SINALOA", NUMERO 41, DE 4 DE ABRIL DE 1986, SEGUNDA SECCION, DECRETO NUMERO 372, ASI COMO SUS REFORMAS Y ADICIONES PUBLICADAS EN EL MISMO MEDIO.
