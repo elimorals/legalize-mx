@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-de-las-cuentas-publicas-para-el-estado-290
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-20"
-last_updated: "2003-01-31"
+last_updated: "2004-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE FISCALIZACION DE LAS CUENTAS PUBLICAS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 21 DE MAYO DE 2004., EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 20 de septiembre de 1992.
 
@@ -682,3 +684,21 @@ P.O. 31 DE ENERO DE 2003.
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE MAYO DE 2004.
+
+PRIMERO.- La presente Ley entrará en vigor, al día siguiente de publicarse en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Fiscalización de las Cuentas Públicas para el Estado de Baja California, publicada en el Periódico Oficial del Estado, de fecha 20 de septiembre de 1992, conforme a lo dispuesto en los transitorios subsecuentes y se derogan las demás disposiciones legales, reglamentarias o administrativas en lo que se opongan a la presente Ley.
+
+TERCERO.- El Órgano, revisará las Cuentas Públicas, conforme a las disposiciones de esta Ley, a partir de la Cuenta Pública del año 2005, que las Entidades Fiscalizables presentarán a más tardar el 31 de marzo del 2006.
+
+CUARTO.- En tanto no se establezca y empiece a ejercer sus atribuciones el Órgano, con la naturaleza jurídica que se le otorga en esta Ley, los servidores públicos de la Contaduría Mayor de Hacienda, continuarán en el desempeño de sus funciones. Una vez que el Órgano esté en funciones, dichos servidores públicos pasarán a formas parte de él y se respetarán sus derechos laborales en los términos de ley.
+
+Asimismo, todos los equipos, archivos, expedientes, papeles y en general los bienes de la Contaduría Mayor de Hacienda, pasarán al Órgano, quedando destinados y afectos a su servicio. El Órgano igualmente se subroga en todos los derechos y obligaciones de aquélla.
+
+QUINTO.- Los asuntos que se encuentren pendientes de remitirse a la Contaduría Mayor de Hacienda, se encuentren en trámite o en proceso ante ella al entrar en vigor la presente Ley, continuarán tramitándose, por el Órgano en los términos de la Ley de Fiscalización de las Cuentas Públicas para el Estado de Baja California, a que se refiere el artículo Segundo Transitorio anterior.
+
+SEXTO.- Dentro del término de noventa días naturales, a la entrada en vigor del presente Decreto se deberá expedir el Reglamento Interior del Órgano, conforme lo dispuesto en esta Ley.
+
+SÉPTIMO.- Las Referencias que se hacen en diversos ordenamientos legales a la Contaduría Mayor de Hacienda, se entenderán hechas a El Órgano de Fiscalización Superior del Estado.
