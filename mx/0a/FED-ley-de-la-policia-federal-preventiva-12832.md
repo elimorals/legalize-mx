@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-policia-federal-preventiva-12832"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-04"
-last_updated: "1999-01-04"
+last_updated: "2000-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12832&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-31"
 
 LEY DE LA POLICIA FEDERAL PREVENTIVA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 4 de enero de 1999.
 
@@ -49,9 +49,11 @@ La presente Ley es reglamentaria del artículo 21 constitucional en lo relativo 
 
 La Policía Federal Preventiva tendrá como función primordial salvaguardar la integridad y derechos de las personas, prevenir la comisión de delitos, así como preservar las libertades, el orden y la paz públicos, en los términos de esta ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 2.
 
-La Policía Federal Preventiva dependerá de la Secretaría de Gobernación. Su dirección estará a cargo de un Comisionado, nombrado y removido por el Presidente de la República. El Comisionado tendrá el más alto rango en la Policía Federal Preventiva y ejercerá sobre ésta atribuciones de mando, dirección y disciplina.
+La Policía Federal Preventiva dependerá de la Secretaría de Seguridad Pública, cuyo titular tendrá la facultad de proponer al Presidente de los Estados Unidos Mexicanos el nombramiento de un Comisionado, quien tendrá el más alto rango en dicha Policía y ejercerá sobre ésta atribuciones de mando, dirección y disciplina.
 
 La Policía Federal Preventiva tendrá autonomía técnica y operativa en el ejercicio de sus atribuciones.
 
@@ -260,3 +262,21 @@ SÉPTIMO.- Se derogan todas las disposiciones legales que se opongan al presente
 México, D.F., a 13 de diciembre de 1998.- Sen. José Ramírez Gamero, Presidente.- Dip. Luis Patiño Pozas, Presidente.- Sen. Gabriel Covarrubias Ibarra, Secretario.- Dip. Martín Contreras Rivera, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 30 DE NOVIEMBRE DE 2000.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEXTO.
+
+El Presidente de la República deberá expedir el Reglamento Interior de la Secretaría de Seguridad Pública, así como realizar las adecuaciones correspondientes a los reglamentos interiores de las Secretarías, en un plazo no mayor de seis meses, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
