@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2004-10-02"
+last_updated: "2004-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2004.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -283,7 +283,7 @@ VI. Promoverán y gestionarán ante los municipios y demás entes públicos, de 
 
 ###### Artículo 17.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco, es un organismo público descentralizado con personalidad jurídica y patrimonio propios, encargado de la asistencia social pública y las demás funciones que le asigna este Código y las disposiciones legales aplicables.
+El Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco, es un organismo público descentralizado con personalidad jurídica y patrimonio propios, encargado de la asistencia social pública y demás funciones que le asigna este Código y las demás disposiciones legales aplicables.
 
 ###### Artículo 18.
 
@@ -325,13 +325,21 @@ XIII. Operar el Consejo Estatal para la Prevención y Atención de la Violencia 
 
 XIV. Elaborar el programa e impartir los cursos a que hace referencia el artículo 267 bis del Código Civil del Estado de Jalisco.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2004)</small>
 
-El Organismo Estatal deberá contar con el número de profesionistas suficientes para impartir los cursos prematrimoniales, en todos los municipios, de acuerdo a las necesidades; y
+El organismo Estatal deberá contar con el número de profesionistas suficientes para impartir los cursos prematrimoniales, en todos los municipios, de acuerdo a las necesidades;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2004)</small>
 
-XV. Las demás que establezcan las leyes aplicables en la materia.
+XV. Promover la participación de las familias jaliscienses en el desarrollo de programas públicos relacionados con la vida familiar;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2004)</small>
+
+XVI. Realizar estudios e investigaciones sobre la familia; así como promover acciones a favor de su atención, defensa y protección; y
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2004)</small>
+
+XVII. Las demás que establezcan las leyes aplicables en la materia.
 
 ###### Artículo 19.
 
@@ -1897,7 +1905,7 @@ X. Las demás que señalen este libro y otras disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
 
-### CAPITULO II. Del Organismo Estatal
+### CAPITULO III. Del Consejo de Valoración de las Personas con Discapacidad
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
 
@@ -1921,9 +1929,9 @@ VII. Cooperar con el Sistema Estatal de Información en materia de asistencia so
 
 VIII. Las demás que señalen este libro y otras disposiciones legales y reglamentarias aplicables.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 24 DE JUNIO DE 2003)</small>
 
-### CAPITULO III. Del Consejo de Valoración de las Personas con Discapacidad
+### CAPITULO II. Del Organismo Estatal
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
 
@@ -1957,7 +1965,7 @@ VI. Las demás que señalen otras disposiciones legales aplicables.
 
 La evaluación de las personas con discapacidad se basará en criterios unificados y sus resultados tendrán validez ante cualquier organismo público o privado con excepción de los que se utilicen como dictámenes o peritajes médicos en controversias planteadas ante tribunales judiciales o laborales del Estado de Jalisco.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
 
 ## TITULO TERCERO. DE LA PRESTACION DE SERVICIOS A PERSONAS CON DISCAPACIDAD
 
@@ -2497,9 +2505,9 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-## TITULO TERCERO. DE LA PARTICIPACION DE LOS MUNICIPIOS
+## TITULO CUARTO. DEL PROGRAMA PERMANENTE
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -2511,9 +2519,9 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 > <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-## TITULO CUARTO. DEL PROGRAMA PERMANENTE
+## TITULO TERCERO. DE LA PARTICIPACION DE LOS MUNICIPIOS
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO UNICO. De las Líneas de Acción
 
@@ -2521,7 +2529,7 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO QUINTO. DE LAS UNIDADES DE ATENCION
 
@@ -2541,7 +2549,7 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO II. De la Participación de las Autoridades en la Asistencia de la Violencia Intrafamiliar
 
@@ -2579,7 +2587,7 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. De los Conciliadores
 
 ###### Artículo 216.
 
@@ -2593,9 +2601,9 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-### CAPITULO II. De los Conciliadores
+### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 219.
 
@@ -2633,11 +2641,11 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-## TITULO V (SIC). DE LA ESTADISTICA Y EVALUACION
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO UNICO. Del Informe
 
@@ -2645,13 +2653,13 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 # LIBRO SEPTIMO. DE LOS ADULTOS MAYORES
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2695,7 +2703,7 @@ Para los efectos de la presente ley, se consideran adultos mayores a las persona
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
+## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2773,7 +2781,7 @@ V. Los demás que establezcan los ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
+## TITULO SEPTIMO. RESPONSABILIDADES Y SANCIONES
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2809,11 +2817,11 @@ V. Los demás que establezcan a su cargo las disposiciones aplicables.
 
 Corresponde a la familia procurar que sus miembros adopten pautas de conducta y acciones que favorezcan a lo largo de su vida un desarrollo individual saludable y productivo teniendo presente el envejecimiento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
+## TITULO V (SIC). DE LA ESTADISTICA Y EVALUACION
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 236.
 
@@ -3015,7 +3023,7 @@ Es responsabilidad de la Dirección del Trabajo y Previsión Social ofrecer capa
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEPTIMO. RESPONSABILIDADES Y SANCIONES
+## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -3057,7 +3065,7 @@ El cuidado inadecuado, abuso o negligencia que afecte a los Adultos Mayores y la
 
 Artículo 255 bis.- Queda prohibida toda discriminación que atente contra la dignidad y los derechos de los adultos mayores.
 
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 # LIBRO OCTAVO. DE LA DONACION DE ALIMENTOS
 
@@ -3229,7 +3237,7 @@ Para lo no previsto en el presente Libro se estará a lo señalado en el Libro T
 
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial "El Estado de Jalisco".
 
-Artículo Segundo.- Se abroga la Ley sobre el Sistema Estatal de Asistencia Social, contenida en el decreto número 13114, publicado en el periódico oficial "El Estado de Jalisco" el 5°. de marzo de 1988, así como todas sus reformas y adiciones.
+Artículo Segundo.- Se abroga la Ley sobre el Sistema Estatal de Asistencia Social, contenida en el decreto número 13114, publicado en el periódico oficial "El Estado de Jalisco" el 5° de marzo de 1988, así como todas sus reformas y adiciones.
 
 Artículo Tercero.- Se abroga la Ley Orgánica del Instituto Jalisciense de Asistencia Social, contenida en el decreto número 7432, publicada en el Periódico oficial "El Estado de Jalisco" del 8 de marzo de 1988, así como todas sus reformas y adiciones.
 
@@ -3237,9 +3245,9 @@ Artículo Cuarto.- Se abroga la Ley Orgánica de la Beneficencia Privada, conten
 
 Artículo Quinto.- Se abroga la Ley Orgánica del Patronato de Promotores Voluntarios del Estado de Jalisco, contenida en el decreto número 9758, publicado en el Periódico oficial "El Estado de Jalisco", del día 4 de marzo de 1978.
 
-Artículo Sexto.- Se abroga la Ley Orgánica del Instituto Cabañas contenida en el decreto número 10362, publicada en el Periódico Oficial "El Estado de Jalisco", del 5. de febrero de 1981.
+Artículo Sexto.- Se abroga la Ley Orgánica del Instituto Cabañas contenida en el decreto número 10362, publicada en el Periódico Oficial "El Estado de Jalisco", del 5 de febrero de 1981.
 
-Artículo Séptimo.- Se abroga la Ley para Fomentar la Donación Altruista de Alimentos en Jalisco contenida en el decreto número 15520, publicado en el Periódico Oficial "El Estado de Jalisco" del 8. de noviembre de 1994.
+Artículo Séptimo.- Se abroga la Ley para Fomentar la Donación Altruista de Alimentos en Jalisco contenida en el decreto número 15520, publicado en el Periódico Oficial "El Estado de Jalisco" del 8 de noviembre de 1994.
 
 Artículo Octavo.- Las instituciones de asistencia social privada ya existentes quedarán sujetas a las disposiciones del presente Código.
 
@@ -3388,3 +3396,9 @@ P.O. 10 DE FEBRERO DE 2004.
 P.O. 2 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE OCTUBRE DE 2004.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se emite la siguiente declaración Estatal de los Derechos de la Familia, instruyéndose a la Secretaría General del Congreso del Estado de Jalisco para que proceda a su impresión, enviándose a las autoridades competentes, estatales y municipales, con el fin de que participen en la difusión de esta declaratoria entre la sociedad.
