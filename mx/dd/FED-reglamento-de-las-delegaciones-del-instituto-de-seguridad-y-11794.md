@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-las-delegaciones-del-instituto-de-seguridad-y-117
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-01"
-last_updated: "2001-05-29"
+last_updated: "2001-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11794&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1997-09-18"
 
 REGLAMENTO DE LAS DELEGACIONES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MAYO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 2001.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 1 de octubre de 1997.
 
@@ -405,9 +405,17 @@ VII.- Atender oportunamente los requerimientos presupuestales de las Unidades Ad
 
 VIII.- Vigilar que las operaciones financieras que realiza la Delegación se registren contablemente, conforme a la normatividad y a los procedimientos autorizados;
 
-IX.- Supervisar que todas las cuentas de cheques de la Delegación, cuenten oportunamente con sus respectivas conciliaciones bancarias e informar a la Tesorería General del Instituto sobre los depósitos de ingresos captados, de conformidad con las normas sobre la guarda y custodia de valores, y
+> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2001)</small>
 
-X.- Integrar la información sobre los Seguros, Prestaciones y Servicios otorgados a los Derechohabientes en el ámbito de la Delegación, y remitir periódicamente a las Unidades Administrativas Centrales la información presupuestal y contable para la consolidación de los reportes institucionales establecidos por la Secretaría de Hacienda y Crédito Público, la Secretaría de Contraloría y Desarrollo Administrativo y los que requieran otras dependencias de la Administración Pública Federal.
+IX.- Supervisar que todas las cuentas de cheques de la Delegación, cuenten oportunamente con sus respectivas conciliaciones bancarias e informar a la Tesorería General del Instituto sobre los depósitos de ingresos captados, de conformidad con las normas sobre la guarda y custodia de valores;
+
+> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2001)</small>
+
+X.- Integrar la información sobre los Seguros, Prestaciones y Servicios otorgados a los Derechohabientes en el ámbito de la Delegación, y remitir periódicamente a las Unidades Administrativas Centrales la información presupuestal y contable para la consolidación de los reportes institucionales establecidos por la Secretaría de Hacienda y Crédito Público, la Secretaría de Contraloría y Desarrollo Administrativo y los que requieran otras dependencias de la Administración Pública Federal, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE DICIEMBRE DE 2001)</small>
+
+XI.- Formular los pliegos preventivos de responsabilidades a los servidores públicos que hubieren perpetrado un daño económico al patrimonio del Instituto, en términos de lo dispuesto por la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, derivado de las auditorías, visitas o investigaciones que practique la Contraloría General en el ISSSTE. Dichos pliegos deberán ser calificados previamente por el Organo Interno de Control en el Instituto. Dicha facultad podrá ser ejercida por el Subdirector General de Finanzas, de conformidad con lo dispuesto por el artículo 51 A del Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
 C) En materia de obras públicas:
 
@@ -869,7 +877,7 @@ México, D.F., a 18 de septiembre de 1997.- El Secretario de la Junta Directiva 
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-D.O.F. 29 DE JUNIO DE 1998.
+D.O.F. 29 DE JUNIO DE 1998
 
 UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
@@ -884,3 +892,9 @@ Tercero.- Ajústese el Manual de Organización y Procedimientos de las Delegacio
 D.O.F. 29 DE MAYO DE 2001.
 
 UNICO.- Las reformas, adiciones y derogaciones a que se contrae el presente Acuerdo entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE DICIEMBRE DE 2001.
+
+###### ARTICULO UNICO.
+
+La presente adición entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
