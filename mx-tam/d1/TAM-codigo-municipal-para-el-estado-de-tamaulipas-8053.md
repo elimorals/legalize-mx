@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "1989-04-22"
+last_updated: "1991-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 1991.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1159,25 +1159,29 @@ No causarán este impuesto, los bienes del dominio público de la Federación, d
 
 IMPUESTO SOBRE ADQUISICION DE INMUEBLES
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1991)</small>
 
 ###### ARTICULO 124.
 
-Están obligados al pago del impuesto sobre adquisición de inmuebles, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo y las construcciones adheridas a él, ubicados en los municipios del Estado de Tamaulipas, así como los derechos relacionados con los mismos, a que este apartado se refiere. El impuesto se calculará aplicando la tasa que señala la Ley de Ingresos Municipales al valor del inmueble después de hacer las reducciones autorizadas.
-
-Cuando del inmueble formen parte departamentos habitacionales, la reducción se hará por cada uno de ellos. Lo dispuesto en este párrafo no es aplicable a hoteles.
+Están obligados al pago del Impuesto sobre Adquisición de Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo y las construcciones adheridas a él, ubicados en los Municipios del Estado de Tamaulipas, así como los derechos relacionados con los mismos, a que este apartado se refiere. El impuesto se calculará aplicando la tasa del 2% al valor del inmueble después de hacer las deducciones autorizadas.
 
 DE LAS EXENCIONES
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1991)</small>
+
 ###### ARTICULO 125.
 
-No se causará este impuesto respecto de las adquisiciones de inmuebles que hagan la Federación o el Estado, para formar parte de sus bienes de dominio público.
+No se causará este impuesto respecto de las adquisiciones de inmuebles que hagan la Federación, el Estado y los Municipios, para formar parte de sus bienes de dominio público, así como los que adquieran los Partidos Políticos Nacionales, siempre y cuando dichos inmuebles sean para su propio uso.
+
+Tampoco se pagará el impuesto en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
 
 ###### ARTICULO 126.
 
 Se entiende por adquisición la que derive de:
 
-I.- Todo acto por el que se transmita la propiedad incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades. No quedan incluidas las adquisiciones que se realicen al constituir o disolver la sociedad conyugal, así como en el acto en que modifiquen las capitulaciones matrimoniales.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 1991)</small>
+
+I.- Todo acto por el que se transmita la propiedad incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de Asociaciones o Sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean en inmuebles propiedad de los copropietarios o de los cónyuges.
 
 II.- La compra-venta en la que el vendedor se reserva la propiedad, aun cuando la transferencia de ésta opere con posterioridad.
 
@@ -1193,11 +1197,19 @@ VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, 
 
 VIII.- Prescripción positiva.
 
-IX.- La cesión de derechos del heredero, legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa en proporción a éstos.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 1991)</small>
 
-X.- Enajenación a través de fideicomiso, en los términos del Código Fiscal de la Federación.
+IX.- La cesión de derechos del heredero, legatario o copropietario en la parte relativa y en proporción a los inmuebles.
 
-XI.- El arrendamiento financiero de bienes inmuebles. En las permutas se considerará que se efectúan dos adquisiciones.
+Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuada después de la declaratoria de herederos o legatarios.
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 1991)</small>
+
+X.- Enajenación a través de fideicomisos.
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 1991)</small>
+
+XI.- La división de la copropiedad y la disolución de la sociedad conyugal por la parte que se adquiera en demasía del porciento que le correspondía al copropietario o cónyuge. En las permutas se considerará que se efectúan dos adquisiciones.
 
 ###### ARTICULO 127.
 
@@ -1211,9 +1223,19 @@ En la constitución, adquisición o extinción del usufructo o de la nuda propie
 
 Para los fines de este impuesto se considera que el usufructo y la nuda propiedad tiene un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1991)</small>
+
+Las Autoridades Fiscales estarán facultadas para practicar, ordenar o tomar en cuenta el avalúo del inmueble, referido a la fecha de adquisición y cuando el valor que resulta de dicho avalúo, exceda en más de un 10% del precio pactado, éste no se tomará en cuenta y el impuesto se calculará sobre el valor del avalúo determinándose las diferencias de impuesto que resulte.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1991)</small>
+
+Cuando no se pacte precio, el impuesto se calculará con base en el avalúo pericial mencionado en el primer párrafo de este artículo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 1991)</small>
+
 ###### ARTICULO 128.
 
-El pago del impuesto deberá hacerse dentro del mes siguiente a aquel en que se realice cualquiera de los supuestos que a continuación se señalan:
+El pago del impuesto deberá hacerse dentro de los quince días hábiles siguientes a aquél en que se realice cualquiera de los supuestos que a continuación se señalan:
 
 I.- Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
 
@@ -1227,17 +1249,47 @@ V.- En los casos no previstos en las fracciones anteriores, cuando los actos de 
 
 El contribuyente podrá pagar el impuesto por anticipado.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1991)</small>
+
 ###### ARTICULO 129.
 
-Las reducciones a que se refiere el Artículo 124 se calcularán en la siguiente forma:
+Las deducciones a que se refiere el Artículo 124, serán las siguientes:
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1987)</small>
+I.- La deducción consistirá en 15 veces el salario mínimo general elevado al año, vigente en la capital del Estado, en la fecha que deba efectuarse el pago; en las adquisiciones de terrenos que no excedan de 250 M2., y cuando incluyan casa o departamento habitacional; éstos no excedan de 100 M2. y se adquieran a través de:
 
-I.- En los casos de las fracciones II, III, IV, V, VI, VII, VIII, IX y X del Artículo 126, la reducción consistirá en cinco veces el salario mínimo general elevado al año vigente en la Capital del Estado, en la fecha en que deba efectuarse el pago.
+a).- El Instituto Tamaulipeco de la Vivienda y Urbanización.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1987)</small>
+b).- El Sistema para la Integración de la Población al Desarrollo Urbano de Tamaulipas.
 
-II.- En las compra-ventas en que medien créditos de interés social tanto para la construcción o adquisición de viviendas, la reducción consistirá en diez veces el salario mínimo general elevado al año, vigente en la Capital del Estado, en la fecha en que deba efectuarse el pago.
+c).- Fideicomiso Fondo Nacional de Habitaciones Populares.
+
+d).- Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+e).- El Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado.
+
+f).- La Unidad de Previsión y Seguridad Social para los Trabajadores del Estado de Tamaulipas.
+
+g).- Comisión para la Regularización de la Tenencia de la Tierra.
+
+h).- Créditos otorgados por Instituciones de Crédito.
+
+II.- La deducción será de 300 veces el salario mínimo general elevado al año vigente en la capital del Estado, en la fecha que deba efectuarse el pago, en las adquisiciones de terrenos que efectúan los Organismos que se mencionan a continuación:
+
+a).- El Instituto Tamaulipeco de la Vivienda y Urbanización.
+
+b).- El Sistema para la Integración de la Población al Desarrollo Urbano de Tamaulipas.
+
+c).- Fideicomiso Fondo Nacional de Habitaciones Populares.
+
+d).- Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+e).- El Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado.
+
+f).- La Unidad de Previsión y Seguridad Social para los Trabajadores del Estado de Tamaulipas.
+
+g).- Comisión para la Regularización de la Tenencia de la Tierra.
+
+La deducción autorizada en esta fracción se aplicará únicamente en los casos en que las adquisiciones de inmuebles se efectúen con la finalidad de destinarlos a satisfacer las solicitudes de terrenos y vivienda de acuerdo con los fines de los organismos señalados.
 
 ###### ARTICULO 130.
 
@@ -1247,9 +1299,41 @@ Los fedatarios no estarán obligados a enterar el impuesto cuando consignen en e
 
 El enajenante responde solidariamente del impuesto que deba pagar el adquiriente.
 
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1991)</small>
+
+Cuando por el avalúo practicado, ordenado o tomado en cuenta por las Autoridades Fiscales, resulte liquidación de diferencias de impuestos, los fedatarios no serán responsables solidarios por las mismas.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1991)</small>
+
 ###### ARTICULO 131.
 
-Para efectuar la reducción a que se refiere el Artículo 124 se aplicará el salario mínimo correspondiente a la zona económica de ubicación del inmueble vigente en el año de calendario en que éste, en los supuestos de pago del impuesto a que se refiere el Artículo 128.
+Para los efectos de este impuesto se entiende por:
+
+I.- Adquisición, la que se realice a través del fideicomiso en los siguientes casos:
+
+a).- En el acto en el que el fideicomitente designa o se obliga a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir del fiduciario los bienes.
+
+b).- En el acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
+
+c).- La cesión de los derechos que se tengan sobre los bienes afectos al fideicomiso en el acto en el que el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
+
+d).- En el acto en el que el fideicomitente ceda sus derechos si entre éstos se incluye el de que los bienes se transmitan a su favor.
+
+II.- Arrendamiento financiero, es el contrato por el cual se otorga el uso o goce temporal de bienes tangibles, siempre que se cumpla con los siguientes requisitos:
+
+1.- Que se establezca un plazo forzoso que sea igual o superior al mínimo para deducir la inversión en los términos de las disposiciones fiscales federales o cuando el plazo sea menor, se permita a quien recibe el bien, que al término del plazo ejerza cualquiera de las siguientes opciones:
+
+a).- Transferir la propiedad del bien objeto del contrato mediante el pago de una cantidad determinada, que deberá ser inferior al valor del mercado del bien al momento de ejercer la opción.
+
+b).- Prorrogar el contrato por un plazo cierto durante el cual los pagos serán por un monto inferior al que se fijó durante el plazo inicial del contrato.
+
+c).- Obtener parte del precio por la enajenación a un tercero del bien objeto del contrato.
+
+2.- Que la contraprestación sea equivalente o superior al valor del bien al momento de otorgar su uso o goce.
+
+3.- Que se establezca una tasa de interés aplicable para determinar los pagos y el contrato se celebre por escrito.
+
+4.- Consignar expresamente en el contrato el valor del bien objeto de la operación y el monto que corresponda al pago de intereses.
 
 ###### ARTICULO 132.
 
@@ -2391,7 +2475,7 @@ El Tribunal apreciará en conciencia las pruebas que se le presenten, sin sujeta
 
 ###### ARTICULO 284.
 
-Cualquier incidente que se suscite con motivo de la personalidad o de la representación, de la competencia del Tribunal, del interés de terceros, sobre la nulidad de actuaciones y otros motivos análogos, será resuelto de plano al dictar resolución en los términos a que se refiere el artículo anterior.
+Cualquier incidente que se suscite con motivo de la personalidad o de la representación, de la competencia del Tribunal, del interés de terceros, sobre la nulidad de actuaciones y otros motivos análogos, será resuelto de plano al dictar resolución en los términos a que se refiere el Artículo anterior.
 
 ###### ARTICULO 285.
 
@@ -2566,3 +2650,19 @@ Se derogan cuantas disposiciones se opongan al contenido de este Decreto.
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MAYO DE 1991.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto surtirá sus efectos a partir del 1o. de julio de 1991.
+
+###### ARTICULO SEGUNDO.
+
+Durante el período de julio a diciembre de 1991 y los años de 1992 y 1993 se aplicarán las tasas del 8%, 6% y 4% respectivamente, en lugar de la tasa establecida en el Artículo 124 que se reforma.
+
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 1991)</small>
+
+###### ARTICULO TERCERO.
+
+Durante el período de julio a diciembre de 1991 y los años 1992 y 1993, el impuesto que resulte a cargo del contribuyente, en ningún caso será mayor a aquél que se hubiera determinado en los términos de las disposiciones vigentes al 31 de diciembre de 1990.
