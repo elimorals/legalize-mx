@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2003-09-16"
+last_updated: "2003-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -509,11 +509,17 @@ XXXVI. Promover la constitución de asociaciones para la conservación y mejoram
 
 XXXVII. Proveer en el ámbito de su competencia, el cumplimiento de las disposiciones de ésta Ley y su reglamento;
 
-> <small>(REFORMADA, 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2003)</small>
 
-XXXVIII. Tramitar el procedimiento administrativo y el recurso de reconsideración previsto en esta Ley, y
+XXXVIII. Tramitar el procedimiento administrativo y el recurso de reconsideración previsto en esta Ley;
 
-XXXIX. Las demás que le señalen ésta Ley, su reglamento y otras normas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2003)</small>
+
+XXXIX. En caso de que alguno de los ayuntamientos de la Entidad acuerde ingresar algún programa para realizar fraccionamientos de vivienda económica de interés social, lo podrá pactar con las dependencias estatales y federales competentes en el ramo; pudiendo llevar a cabo las obras de urbanización progresiva en este tipo de fraccionamientos, siempre y cuando sea aprobado por cuando menos las dos terceras partes de los integrantes del Cabildo y cuente con los recursos económicos suficientes para su ejecución; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE DICIEMBRE DE 2003)</small>
+
+XL. Las demás que le señalen esta Ley, su reglamento y otras normas aplicables.
 
 ## TITULO TERCERO. DE LOS ORGANISMOS DE PARTICIPACION SOCIAL Y CONSULTA
 
@@ -1719,7 +1725,7 @@ IV. Zonas Típicas: Aquellas áreas que por su aspecto peculiar contienen un nú
 
 V. Lugares de bellezas naturales: Los sitios cuyas características de flora y fauna requieran de conservación y mejoramiento, y
 
-VI. Inventario: El catálogo de los bienes muebles e inmuebles clasificados por su reelevancia (sic)arqueológica, histórica, arquitectónica, artística y natural en el Estado.
+VI. Inventario: El catálogo de los bienes muebles e inmuebles clasificados por su reelevancia (sic) arqueológica, histórica, arquitectónica, artística y natural en el Estado.
 
 ###### ARTICULO 97.
 
@@ -2259,7 +2265,9 @@ II. Que se ubiquen a una distancia de resguardo de un kilómetro, contado a part
 
 III. Que se ubiquen a una distancia de resguardo de dos kilómetros a la redonda, contados a partir de los límites de otra que se encuentre previamente autorizada su construcción o en funcionamiento.
 
-Se podrá aprobar la instalación y funcionamiento de sólo una Estación de Servicio denominada Gasolinera dentro de la propiedad de un centro comercial, sin perjuicio de lo establecido en el párrafo anterior, siempre y cuando éste cumpla con el mínimo de estacionamientos permitidos por la legislación en la materia, y sea factible la instalación de la Estación de Servicio denominada Gasolinera dentro de los Planes de Desarrollo Urbano Municipales.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
+Se podrá aprobar la instalación y funcionamiento de solo una Estación de Servicio denominada Gasolinera dentro de la propiedad de un centro comercial, sin que se aplique lo establecido en el párrafo anterior, siempre y cuando éste cumpla con el mínimo de estacionamientos permitidos por la legislación en la materia, y sea factible la instalación de la Estación de Servicio denominada Gasolinera dentro de los planes de desarrollo urbano municipales.
 
 Aquellos centros de población que cuenten con menos de cien mil habitantes, no estarán sujetos a lo dispuesto en esta fracción.
 
@@ -2601,6 +2609,8 @@ e) Abasto, comercio y demás exigidas por las normas básicas que establezca el 
 
 ### CAPITULO III. FRACCIONAMIENTOS HABITACIONALES DE URBANIZACION PROGRESIVA
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 158.
 
 La clasificación de fraccionamientos en los centros de población que cuenten con su plan de desarrollo urbano vigente, se sujetará a las normas y densidades que el mismo establezca, así como a los reglamentos de construcción municipal. Los municipios que no cuenten con su respectivo plan de desarrollo urbano, acatarán lo dispuesto por el Reglamento de esta Ley. Los fraccionamientos se clasifican de la siguiente forma:
@@ -2629,21 +2639,23 @@ d) Fraccionamientos Industriales.
 
 ###### ARTICULO 159.
 
-Los fraccionamientos habitacionales de urbanización progresiva, son aquellos que por las condiciones especiales de la zona en que se ubicarán, por la limitada capacidad económica de quienes vayan a habitarlos y por la urgencia inmediata de resolver problemas de vivienda, podrán ser autorizados por al (sic) Ayuntamiento, con los requisitos mínimos de urbanización que determine el Reglamento de ésta Ley, ajustándose a los lineamientos marcados en los planes de desarrollo urbano aplicables y previo estudio socioeconómico del caso.
+Los fraccionamientos habitacionales de urbanización progresiva, son aquellos que por las condiciones especiales de la zona en que se ubicarán, por la limitada capacidad económica de quienes vayan a habitarlos y por la urgencia inmediata de resolver problemas de vivienda, podrán ser autorizados por el ayuntamiento con los requisitos mínimos de urbanización que determine el Reglamento de esta Ley, ajustándose a los lineamientos marcados en los planes de desarrollo urbano aplicables y previo estudio socioeconómico del caso. Cuando se trate de fraccionamientos económicos de interés social, el propio ayuntamiento podrá llevar a cabo las obras de urbanización progresiva, siempre y cuando la autorización sea aprobada por cuando menos las dos terceras partes de los integrantes del cabildo y el municipio cuente con los recursos económicos suficientes para su ejecución.
 
 ###### ARTICULO 160.
 
 El fraccionamiento de urbanización progresiva se establece con las peculiaridades siguientes:
 
-I. Tendrá por objeto facilitar a las capas de la población de más bajos ingresos, el acceso a terrenos urbanizados por los propios beneficiarios, a fin de que edifiquen sus viviendas en los lotes resultantes, generalmente mediante el sistema de autoconstrucción o autoproducción;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
+I. Tendrá por objeto facilitar a las capas de la población de más bajos ingresos, el acceso a terrenos urbanizados por los propios beneficiarios, a fin de que edifiquen sus viviendas en los lotes resultantes, generalmente mediante el sistema de autoconstrucción o autoproducción, salvo cuando se trate de fraccionamientos económicos de interés social, en los que será el ayuntamiento el que podrá llevar a cabo las obras de urbanización progresiva, siempre y cuando la autorización sea aprobada por cuando menos las dos terceras partes de los integrantes del cabildo y el municipio cuente con los recursos económicos suficientes para su ejecución;
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
 
 II. Su promoción, organización y ejecución corresponderá a la Secretaría o al ayuntamiento respectivo, y a organismos públicos de vivienda, en su caso, asociados con cooperativas y demás organizaciones sociales legalmente constituidas, siempre y cuando no se persiga una finalidad de lucro;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2003)</small>
 
-III. Estos fraccionamientos estarán destinados únicamente a vivienda unifamiliar, y la superficie mínima de los lotes será de noventa metros cuadrados, y
+III. Estos fraccionamientos estarán destinados únicamente a vivienda unifamiliar, y la superficie mínima de los lotes será de noventa metros cuadrados; salvo cuando se trate de fraccionamientos económicos de interés social, en los que la superficie mínima del lote será de sesenta y siete metros cincuenta centímetros cuadrados, con un frente mínimo de cuatro metros cincuenta centímetros lineales;
 
 IV. Para la ocupación física de los lotes, será suficiente que éstos estén dotados de las obras mínimas para infraestructura que señale el Reglamento de ésta Ley.
 
@@ -3640,3 +3652,9 @@ P.O. 16 DE SEPTIEMBRE DE 2003.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones y ordenamientos legales que se opongan a este Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones y ordenamientos legales que se opongan al presente Decreto.
