@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-agua-potable-y-alcantarillado-del-estado-de-baja-3210"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-31"
-last_updated: "1980-12-31"
+last_updated: "1982-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1982.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 31 de diciembre de 1980.
 
@@ -685,7 +685,17 @@ d).- A los funcionarios o empleados que autoricen el traspaso o traslado de giro
 
 Cuando no se cumpla con las obligaciones señaladas en el artículo 9o. Fracción III podrá ordenarse las suspensión de las construcciones hasta que se instale la toma correspondiente.
 
-VII.- Cualquier otra infracción a las disposiciones de este capítulo no considerada en las fracciones que anteceden se sancionará con multa de $ 250.00 a $ 25,000.00.
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1982)</small>
+
+VII.- Se prohibe el derramamiento o desperdicio intencional o imprudencial del agua potable por cualquier medio, incluyendo el lavado de banquetas y calles pavimentadas o con cualquier otro fin. Al infractor de esta disposición se le sancionará con multa de uno a cinco veces el importe del salario que perciba.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1982)</small>
+
+VIII.- Durante los meses de abril a octubre, inclusive el regadío de jardines interiores en predios particulares y el de prados y arboledas exteriores, deberá efectuarse en el horario comprendido entre las 7:00 P.M. a 6:00 A.M. Quien infrinja esta disposición por primera ocasión recibirá apercibimiento formal de la autoridad correspondiente y en caso de reincidencia será sancionado con la limitación del servicio, independientemente de que esté o no al corriente en el pago por consumo de agua potable.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 1982)</small>
+
+IX.- Cualquier otra infracción a las disposiciones de este capítulo, no considerada en las fracciones que anteceden, se sancionará con multa de uno a cinco veces el importe del salario que perciba el infractor.
 
 ###### ARTICULO 84.
 
@@ -818,3 +828,11 @@ LIC. ANGEL CESAR MENDOZA ARAMBURO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. GUILLERMO MERCADO ROMERO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 31 DE DICIEMBRE DE 1982.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
