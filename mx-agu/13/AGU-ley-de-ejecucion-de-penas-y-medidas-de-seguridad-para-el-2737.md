@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-para-el-2737"
 country: "mx"
 rank: "ley"
 publication_date: "1994-08-07"
-last_updated: "2003-02-17"
+last_updated: "2003-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2003.
+> <small>N. DE E. LA PRESENTE LEY SERA ABROGADA POR EL ARTICULO CUARTO TRANSITORIO DE LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL PERIODICO OFICIAL EL 21 DE JULIO DE 2003; ORDENAMIENTO QUE ENTRARA EN VIGOR EL 8 DE OCTUBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2003.
 
 Ley publicada en el Suplemento al No. 32 del Periódico Oficial del Estado de Aguascalientes, el 7 de agosto de 1994.
 
@@ -582,3 +584,49 @@ El presente decreto entrará en vigor a los treinta días siguientes a la fecha 
 P.O. 17 DE FEBRERO DE 2003.
 
 UNICO.- La presente reforma entrará en vigor a los diez días siguientes a su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE JULIO DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 8 de octubre de 2003, con excepción de lo referente a la aplicación de recursos del Fondo para la Atención de Víctimas del Delito e indemnizaciones por sentencia absolutoria, que entrarán en vigor el día 15 de enero del año 2004.
+
+SEGUNDO.- Se abroga el Código Penal para el Estado de Aguascalientes publicado en el Periódico Oficial del Estado el 7 de agosto de 1994.
+
+TERCERO.- Se abroga el Código de Procedimientos Penales para el Estado de Aguascalientes publicado en el Periódico Oficial del Estado el 12 de abril de 1992.
+
+CUARTO.- Se abroga la Ley de Ejecución de Penas y Medidas de Seguridad para el Estado de Aguascalientes publicada en el Periódico Oficial del Estado el 7 de agosto de 1994.
+
+QUINTO.- La LVIII Legislatura del Estado de Aguascalientes, deberá realizar las modificaciones correspondientes y necesarias para la efectividad de la aplicación de la Legislación que con este Decreto se aprueba, de las siguientes normas vigentes:
+
+a).- Ley Orgánica del Poder Judicial;
+
+b).- Ley Orgánica de la Administración Pública del Estado;
+
+c).- Ley Orgánica de la Procuraduría General de Justicia;
+
+d).- Ley de Consejos Tutelares y de Reeducación Social para Menores del Estado;
+
+e).- Ley de Seguridad Pública para el Estado;
+
+f).- Ley de Responsabilidades de los Servidores Públicos del Estado;
+
+g).- Código Civil del Estado de Aguascalientes;
+
+h).- Código de Procedimientos Civiles para el Estado;
+
+i).- Código Electoral del Estado,
+
+j).- Ley Orgánica Municipal del Estado,
+
+k).- Ley del Instituto de Asesoría y Defensoría Pública del Estado de Aguascalientes,
+
+l).- Código Fiscal para el Estado de Aguascalientes,
+
+m).- Ley de Hacienda del Estado de Aguascalientes; y
+
+Las demás leyes que resulten necesario adecuar.
+
+SEXTO.- Se recomienda a los Honorables Cabildos de los Municipios del Estado, a realizar las modificaciones correspondientes a los Bandos de Policía y Buen Gobierno, para el efecto de que incluyan como acciones motivo de sanción administrativa, aquellas que de acuerdo a la presente Legislación no se consideran delictivas, pero que pueden generar conflicto social.
+
+SEPTIMO.- Las actividades legislativas descritas en el Artículo Transitorio Quinto del presente Decreto, se realizarán antes de la entrada en vigencia de la Legislación Penal del Estado de Aguascalientes.
+
+OCTAVO.- Los trámites iniciados conforme al contenido de los códigos y ley que con este decreto se abrogan, seguirán su curso conforme a las disposiciones de la misma. No obstante, puede aplicarse la normatividad que con este decreto se aprueba, previo acuerdo general sobre situaciones específicas de orden procedimental, dictaminado por la Procuraduría General de Justicia del Estado, Supremo Tribunal de Justicia y Secretaría General de Gobierno, en sus respectivos ámbitos de competencia.
