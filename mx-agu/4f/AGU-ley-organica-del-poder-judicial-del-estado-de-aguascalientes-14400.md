@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "1995-07-30"
+last_updated: "1997-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1997.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -43,15 +43,17 @@ LEY ORGANICA DEL PODER JUDICIAL
 
 ### CAPITULO I. De los Tribunales del Estado
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1997)</small>
 
 ###### ARTICULO 1o.
 
-El Poder Judicial del Estado se integra por el Supremo Tribunal de Justicia, Juzgados de Primera Instancia, Civiles y Penales, Mixtos de Primera Instancia, Familiares y Mixtos Menores, el Consejo de la Judicatura Estatal, el Instituto de Capacitación y la Contraloría Interna.
+El Poder Judicial del Estado se integra por el Supremo Tribunal de Justicia, el Tribunal Electoral, Juzgados de Primera Instancia, Civiles y Penales, Mixtos de Primera Instancia, Familiares y Mixtos Menores, el Consejo de la Judicatura Estatal, el Instituto de Capacitación y la Contraloría Interna.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1997)</small>
 
 ###### ARTICULO 2o.
 
-El Supremo Tribunal de Justicia y los Jueces ejercerán sus jurisdicciones respectivas en el lugar, grado y términos que les asigna esta Ley, los Códigos Procesales y las Leyes vigentes.
+El Supremo Tribunal de Justicia, el Tribunal Electoral y los Jueces ejercerán su jurisdicción respectiva en el lugar, grado y términos que les asigna esta Ley, los Códigos Procesales, la Ley Electoral del Estado y las leyes vigentes.
 
 ###### ARTICULO 3o.
 
@@ -123,7 +125,9 @@ Son atribuciones del Supremo Tribunal de Justicia del Estado en pleno:
 
 I.- Presentar Iniciativas de Ley ante la Legislatura del Estado, en asuntos que tengan por objeto mejorar la impartición de justicia;
 
-II.- Expedir su Reglamento Interior y los de los Juzgados del Estado;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1997)</small>
+
+II.- Expedir su Reglamento Interior, el del Tribunal Electoral y los de los Juzgados del Estado;
 
 III.- Conocer de las competencias que se susciten en materia civil o penal entre los Jueces del Estado y entre éstos y las autoridades administrativas del Estado;
 
@@ -172,6 +176,14 @@ XXII.- Conocer y resolver las controversias que se susciten entre los miembros d
 XXIII.- Ejercitar las demás facultades que le confieren las Leyes; y
 
 XXIV.- Aprobar el presupuesto anual de egresos del Poder Judicial.
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1997)</small>
+
+XXV.- Resolver las recusaciones y excusas que por impedimento legal tengan los Magistrados del Tribunal Electoral; y
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1997)</small>
+
+XXVI.- Adscribir a los Magistrados Supernumerarios al Tribunal Electoral, para que suplan a los propietarios en sus faltas temporales.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
@@ -437,7 +449,7 @@ II.- El Centro de Cómputo.
 
 ###### ARTICULO 32.
 
-El Supremo Tribunal de Justicia determinará dónde habrá los órganos a que se refiere el artículo anterior, y dictará las medidas y normatividad conducentes para la correcta aplicación del turno, y el funcionamiento del Centro de Cómputo.
+El Supremo Tribunal de Justicia determinará donde habrá los órganos a que se refiere el artículo anterior, y dictará las medidas y normatividad conducentes para la correcta aplicación del turno, y el funcionamiento del Centro de Cómputo.
 
 ###### ARTICULO 33.
 
@@ -451,6 +463,84 @@ II.- Turnar por riguroso orden numérico los documentos de que trata la fracció
 
 En el Supremo Tribunal de Justicia el turno lo llevarán los presidentes de Salas.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 1997)</small>
+
+## TITULO PRIMERO BIS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 1997)</small>
+
+### CAPITULO VIII (SIC). Del Tribunal Electoral
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1997)</small>
+
+ARTICULO 33 A.- En términos de lo que establecen los Artículos 17 y 51 de la Constitución Política del Estado, el Tribunal Electoral es la máxima autoridad jurisdiccional en materia electoral y órgano temporal especializado; es autónomo e independiente en sus decisiones y sus resoluciones y actos se sujetarán de manera invariable a los principios de legalidad y definitividad.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1997)</small>
+
+ARTICULO 33 B.- El Tribunal Electoral funcionará como una Sala integrada por tres Magistrados Propietarios y dos suplentes. Los Magistrados Propietarios del Tribunal Electoral elegirán a su Presidente de entre sus miembros. Las sesiones de resolución jurisdiccional del Tribunal Electoral serán públicas y resolverá en pleno por unanimidad o por mayoría de votos.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1997)</small>
+
+ARTICULO 33 C.- El Pleno del Tribunal Electoral, en los términos que señalen la Constitución Política del Estado y las leyes aplicables, es competente para la substanciación y resolución de los recursos siguientes:
+
+I.- De Apelación que procederá contra actos o resoluciones del Consejo Estatal Electoral;
+
+II.- De Inconformidad, contra los resultados consignados en las actas de cómputo municipal o distrital;
+
+III.- De Nulidad, para anular la votación recibida en una casilla o declarar la nulidad de una elección; y
+
+IV.- Las demás facultades y atribuciones que la Ley Electoral del Estado le confieran.
+
+Las resoluciones del Pleno del Tribunal Electoral sólo podrán revisarse o modificarse por el Colegio Electoral en la elección de Gobernador.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1997)</small>
+
+ARTICULO 33 D.- Los Magistrados del Tribunal Electoral se nombrarán en la forma que establece el Artículo 54 de la Constitución Política del Estado. Los miembros de dicho Tribunal sólo durarán en su encargo el tiempo que dure el proceso electoral correspondiente, en términos de esta Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1997)</small>
+
+ARTICULO 33 E.- Para ser integrante del Tribunal Electoral se deberán reunir los requisitos que establece el Artículo 5o. de esta Ley, así como los siguientes:
+
+I.- Estar inscrito en el padrón electoral y contar con credencial para votar con fotografía;
+
+II.- No desempeñar ni haber desempeñado cargo en el Comité Ejecutivo Estatal o equivalente, en un partido político o cualquier otro tipo de organización social en los siete años anteriores a la fecha de designación; y
+
+III.- No tener ni haber tenido cargo alguno de elección popular, en los cinco años anteriores a la fecha de designación.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1997)</small>
+
+ARTICULO 33 F.- Las atribuciones del Presidente del Tribunal Electoral serán:
+
+I.- Representar al Tribunal ante toda clase de autoridades;
+
+II.- Convocar y presidir las sesiones y dirigir los debates;
+
+III.- Nombrar al Secretario General y a los Secretarios Instructores en número suficiente para desahogar el trabajo;
+
+IV.- Vigilar que se cumpla con las determinaciones del Tribunal;
+
+V.- Rendir un informe al término del Proceso Electoral; y
+
+VI.- Notificar al Consejo Estatal EIectoral y al Colegio Electoral, en su caso, las resoluciones que dicte.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1997)</small>
+
+ARTICULO 33 G.- Son obligaciones de los Magistrados Electorales las siguientes:
+
+I.- Concurrir, participar y votar, cuando corresponda, en las sesiones públicas y reuniones internas a las que sean convocados por el Presidente del Tribunal, absteniéndose de votar únicamente cuando tengan impedimento legal;
+
+II.- Formular los proyectos de sentencias que recaigan a los expedientes que les sean turnados para tal efecto;
+
+III.- Discutir y votar los proyectos de sentencia que sean sometidos a su consideración en las sesiones públicas;
+
+IV.- Admitir los medios de impugnación y los escritos de terceros interesados o coadyuvantes, en los términos que señala la Ley Electoral;
+
+V.- Someter a consideración del Pleno, cuando proceda, la acumulación de las impugnaciones, así como la procedencia de la conexidad, en términos de la Ley Electoral;
+
+VI.- Formular los requerimientos ordinarios necesarios para la integración de los expedientes en los términos de la legislación aplicable; requerir cualquier informe o documento que, obrando en poder de los órganos del Consejo Estatal Electoral, de las autoridades estatales o municipales, de los partidos políticos o de los particulares, pueda servir para la substanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en la Ley Electoral;
+
+VII.- Las demás atribuciones que les señalen las leyes aplicables necesarias para el correcto funcionamiento del Tribunal.
+
 ## TITULO SEGUNDO
 
 ### CAPITULO I. De los Juzgados de Primera Instancia
@@ -462,10 +552,6 @@ En el Supremo Tribunal de Justicia el turno lo llevarán los presidentes de Sala
 ### CAPITULO II. De los Juzgados Menores
 
 ### CAPITULO III. De los Peritos
-
-### CAPITULO IV. Visita de Juzgados
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 34.
 
@@ -661,7 +747,9 @@ Los Notificadores tendrán fe pública en el desempeño de sus funciones.
 
 Los servidores públicos tienen obligación de asistir a las horas de despacho y también a las extraordinarias que el Juez determine, dedicándose con eficiencia a sus labores, conforme a las órdenes que reciban del Juez y de los Secretarios de Acuerdos.
 
-### CAPITULO V. De los Procedimientos para Imponer Correcciones Disciplinarias
+### CAPITULO IV. Visita de Juzgados
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 51.
 
@@ -693,9 +781,7 @@ III.- Para diligenciar exhortos o despachos que reciban y que sean de su compete
 
 En los Juzgados Menores Mixtos actuará con el Juez un Secretario y tendrá la planta de empleados que fije el Presupuesto.
 
-### CAPITULO VI. De las Renuncias, Licencias y Manera de Suplir las Faltas
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+### CAPITULO V. De los Procedimientos para Imponer Correcciones Disciplinarias
 
 ###### ARTICULO 55.
 
@@ -705,7 +791,9 @@ El Supremo Tribunal de Justicia formulará anualmente una lista de connotados pr
 
 En caso de que en la localidad no existan profesionales en la materia de que se trate, se estará a lo que disponga el Código Procesal de la materia.
 
-### CAPITULO I. Del Archivo Judicial
+### CAPITULO VI. De las Renuncias, Licencias y Manera de Suplir las Faltas
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 57.
 
@@ -717,7 +805,7 @@ La visita general tendrá por objeto percatarse del despacho general de los nego
 
 Las visitas de que trate el artículo anterior serán presididas por el Magistrado Visitador, el acta respectiva la firmarán además el Juez y el Secretario del Juzgado en que se practique la visita.
 
-### CAPITULO II. De las Excitativas de Justicia
+### CAPITULO I. Del Archivo Judicial
 
 ###### ARTICULO 59.
 
@@ -749,15 +837,17 @@ La sentencia será dictada por el pleno del Supremo Tribunal de Justicia.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ABRIL DE 1995)</small>
 
-### CAPITULO III. Del Fondo para la Administración de Justicia
+### CAPITULO II. De las Excitativas de Justicia
 
 ###### ARTICULO 64.
 
 Las renuncias de los Magistrados propietarios serán sometidas ante el Consejo de la Judicatura Estatal, en los términos del Artículo 56 de la Constitución Política del Estado; las de los Jueces y demás servidores públicos del Poder Judicial las conocerá el Supremo Tribunal de Justicia, quien de inmediato las hará del conocimiento del Consejo de la Judicatura Estatal.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1997)</small>
+
 ###### ARTICULO 65.
 
-Las licencias a los Magistrados del Supremo Tribunal de Justicia, para dejar de concurrir al despacho por más de treinta días con o sin goce de sueldo, sólo pueden serles concedidas por la Legislatura del Estado o por la Diputación Permanente.
+Las licencias de los Magistrados, para dejar de concurrir al despacho por más de treinta días con o sin goce de sueldo, sólo pueden serles concedidas por la Legislatura del Estado o por la Diputación Permanente.
 
 ###### ARTICULO 66.
 
@@ -795,7 +885,7 @@ Las faltas absolutas, temporales o accidentales del Secretario del Supremo Tribu
 
 Las faltas de los demás servidores públicos de la administración de justicia, cuando excedan de quince días serán suplidas por la persona que se nombre.
 
-### CAPITULO IV. Del Departamento de Computación e Informática
+### CAPITULO III. Del Fondo para la Administración de Justicia
 
 ###### ARTICULO 73.
 
@@ -809,7 +899,9 @@ I.- Los tocas o actuaciones de segunda instancia, relativos a los negocios civil
 
 II.- Los procesos concluidos en apelación o primera instancia;
 
-III.- Los expedientes concluidos que se hubieren iniciado ante el Supremo Tribunal;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1997)</small>
+
+III.- Los expedientes concluidos que se hubieren iniciado ante el Supremo Tribunal o ante el Tribunal Electoral;
 
 IV.- Los duplicados de los libros de entradas, archivos y demás que los jueces deben remitir; y
 
@@ -835,19 +927,21 @@ Las copias certificadas y testimonios de documentos archivados sólo podrán exp
 
 Los documentos que obren en expedientes o actuaciones archivadas sólo podrán desglosarse para su entrega a quien tenga derecho a recibirlo.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1997)</small>
+
 ###### ARTICULO 80.
 
-Los reglamentos del Supremo Tribunal de Justicia y de los Juzgados de Primera Instancia y Menores Mixtos respectivamente, determinarán la forma en que deben establecerse la oficina de archivo judicial y detallarán los deberes del personal que tenga a su cargo dicha oficina.
+Los reglamentos del Supremo Tribunal de Justicia, del Tribunal Electoral y de los Juzgados de Primera Instancia y Menores Mixtos, respectivamente, determinarán la forma en que deba establecerse la oficina de archivo judicial y detallarán los deberes del personal que tenga a su cargo dicha oficina.
 
-### CAPITULO V. Disposiciones Generales
+### CAPITULO IV. Del Departamento de Computación e Informática
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1997)</small>
 
 ###### ARTICULO 81.
 
 Toda excitativa de justicia se promoverá por escrito ante la autoridad que haya hecho el nombramiento de aquélla contra quien se solicite, y se despachará o denegará previo informe justificado de ésta última con audiencia del Ministerio Público. Aquélla para rendir su informe y ésta para formular su pedimento, tendrá respectivamente el término de tres días, y de igual término gozará la autoridad que haya de resolver.
 
-### CAPITULO VI. Del Consejo de la Judicatura Estatal
-
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
+### CAPITULO V. Disposiciones Generales
 
 ###### ARTICULO 82.
 
@@ -877,7 +971,9 @@ a).- El otorgamiento de estímulos y recompensas económicas a la planta de serv
 
 b).- La participación de Magistrados y Jueces en congresos de Derecho;
 
-c).- La adquisición de equipo, mobiliario y libros de consulta que se necesiten en las salas del Supremo Tribunal de Justicia y en los juzgados del fuero común del Estado, que no estén autorizados en su presupuesto;
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1997)</small>
+
+c).- La adquisición de equipo, mobiliario y libros de consulta que se necesiten en las salas del Supremo Tribunal de Justicia, en el Tribunal Electoral y en los juzgados del fuero común del Estado, que no estén autorizados en su presupuesto;
 
 d).- La capacitación, mejoramiento y especialización profesional del personal del Poder Judicial del Estado.
 
@@ -885,17 +981,19 @@ d).- La capacitación, mejoramiento y especialización profesional del personal 
 
 La Secretaría de Finanzas informará mensualmente al Presidente del Supremo Tribunal de Justicia el estado contable del fondo, que se integra con los depósitos en dinero o en valores que se efectúen ante los tribunales judiciales del fuero común.
 
-### CAPITULO VII. Del Instituto de Capacitación del Poder Judicial del Estado
+### CAPITULO VI. Del Consejo de la Judicatura Estatal
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 85.
 
-El Departamento de Computación e Informática del Poder Judicial, dependerá de la Presidencia del Supremo Tribunal de Justicia, y tendrá como funciones las siguientes:
+El Departamento de Computación e Informática del Poder Judicial dependerá de la Presidencia del Supremo Tribunal de Justicia, y tendrá como funciones las siguientes:
 
 a).- La computarización de las acciones del Supremo Tribunal de Justicia en áreas de administración, contabilidad, recursos humanos, materiales y otros que se requieran;
 
-b).- La captura de datos procedentes de los Juzgados de Primera Instancia y de las salas del Supremo Tribunal de Justicia, relativos a los diversos juicios, procedimientos y procesos que ante ellos se tramiten, con el fin de efectuar un seguimiento de los mismos, por medio del sistema de computación;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1997)</small>
+
+II (sic).- La captura de datos procedentes de los juzgados de primera instancia, del Tribunal Electoral y de las salas del Supremo Tribunal de Justicia, relativos a los diversos juicios, procedimientos y procesos que ante ellos se tramiten, con el fin de efectuar un seguimiento de los mismos, por medio del sistema de computación;
 
 c).- Con base en los registros computarizados que se obtengan, proporcionar a las partes interesadas o autorizadas información actualizada del estado procesal de los asuntos en que intervengan;
 
@@ -907,7 +1005,7 @@ e).- El registro computarizado y la informática de todas aquellas actividades d
 
 Para una mejor eficiencia del servicio de computación e informática, el Presidente del Supremo Tribunal de Justicia, autorizará el establecimiento de las oficinas que fueren necesarias, dependientes del departamento de computación e informática, tanto en la capital del Estado como en los Partidos Judiciales que se requieran, de acuerdo con las posibilidades presupuestales, determinando en su caso, los lugares en donde técnicamente sea conveniente establecerlos según las necesidades del servicio y el volumen de trabajo.
 
-### CAPITULO VIII. De la Contraloría Interna del Poder Judicial del Estado
+### CAPITULO VII. Del Instituto de Capacitación del Poder Judicial del Estado
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
 
@@ -943,6 +1041,10 @@ Cuando el exceso de labores lo requiera, el Tribunal para evitar demoras en la a
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ABRIL DE 1995)</small>
 
+### CAPITULO VIII. De la Contraloría Interna del Poder Judicial del Estado
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 94.
 
 El Consejo de la Judicatura Estatal se integrará según lo dispone el Artículo 55 de la Constitución Política del Estado.
@@ -963,7 +1065,9 @@ El Consejo tendrá además un Secretario que será el Oficial Mayor del Supremo 
 
 Corresponde al Consejo de la Judicatura Estatal:
 
-I.- Nombrar a los Jueces y servidores públicos del Poder Judicial con excepción de los del Supremo Tribunal de Justicia;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1997)</small>
+
+I.- Nombrar a los Jueces y servidores públicos del Poder Judicial, con excepción de los del Supremo Tribunal de Justicia y los del Tribunal Electoral;
 
 II.- Informar al Supremo Tribunal de Justicia de las renuncias y licencias que hayan tramitado los Jueces para separarse de su cargo;
 
@@ -1134,3 +1238,7 @@ P.O. 30 DE JULIO DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JUNIO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
