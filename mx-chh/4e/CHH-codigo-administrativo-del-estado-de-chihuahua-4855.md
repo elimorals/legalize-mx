@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1984-08-25"
+last_updated: "1985-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 1985.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -2037,7 +2037,7 @@ Las actas del Registro Civil sólo se asentarán en los libros a que se refiere 
 
 ###### ARTICULO 232.
 
-Si al terminar el año en curso quedaren en los libros hojas en blanco, seguirá actuándose en las restantes una vez que se haya asentado la razón correspondiente sobre el número de actas levantadas en el año concluido.
+Si al terminar el año en curso quedaren en los libros hojas en blanco, seguirá actuándose en las restantes una vez que se haya asentado la razón correspondiente sobre el número de actas levantadas en el año conluido.
 
 ###### ARTICULO 233.
 
@@ -3699,8 +3699,6 @@ Igualmente harán del conocimiento de estos organismos, todo hecho que pueda mot
 
 ### CAPITULO III. DE LOS COMITES ELECTORALES
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
 ###### ARTICULO 478.
 
 La Comisión Estatal Electoral es el organismo encargado de velar por el cumplimiento de las normas constitucionales, las contenidas en este Código y demás disposiciones que garanticen el derecho de organización política de los ciudadanos y responsable de la preparación, desarrollo y vigilancia del proceso electoral, y se integra con los siguientes comisionados:
@@ -3743,7 +3741,9 @@ VII.- Investigar por los medios legales pertinentes, cualesquiera hechos relacio
 
 VIII.- Tener a sus órdenes, directamente o por medio de sus organismos y dependencias, la fuerza pública necesaria para garantizar el desarrollo del proceso electoral;
 
-IX.- Nombrar los funcionarios y auxiliares especiales para que efectúen las investigaciones y los generales necesarios en cada Distrito y Municipio, los que deberán reunir los mismos requisitos que se exige a los miembros de los organismos electorales, en las circunscripciones territoriales en que aquéllos actúen;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+IX.- Nombrar los funcionarios administrativos necesarios en cada Distrito y Municipio;
 
 X.- Desahogar las consultas que acerca de los asuntos de su competencia les formulen los ciudadanos, candidatos o partidos políticos;
 
@@ -3761,15 +3761,21 @@ XVI.- Recabar de los Comités Electorales Distritales y Municipales las informac
 
 XVII.- Las demás que le confiere la ley.
 
-Son facultades del Presidente de la Comisión Estatal Electoral someter a la consideración del Ejecutivo Local durante el mes de diciembre el proyecto del presupuesto de egresos de la Comisión y sus Dependencias y cuidar su ejercicio; vigilar además el cumplimiento de los acuerdos de la Comisión Estatal Electoral; y todas aquéllas que le confieren este Libro y disposiciones relativas.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+El Presidente de la Comisión Estatal Electoral nombrará los auxiliares necesarios en cada Distrito y Municipio y someterá a la consideración del Ejecutivo Local durante el mes de diciembre el proyecto del Presupuesto de egresos de la Comisión y sus dependencias y cuidará su ejercicio, vigilará además el cumplimiento de los acuerdos de la Comisión Estatal Electoral y tendrá las demás facultades que le confieren este Libro y demás disposiciones relativas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 480.
 
-Para que la Comisión Estatal Electoral pueda sesionar, será necesario que estén presentes la mayoría de sus integrantes, entre los que deberán estar el Presidente, dos Comisionados del Poder Ejecutivo, tres del Legislativo y el Notario. Las resoluciones se tomarán por mayoría de votos y en caso de empate el voto del Presidente será de calidad.
+Para que la Comisión Estatal Electoral pueda sesionar, será necesario que estén presentes la mayoría de sus integrantes, entre los que deberán estar el Presidente, dos Comisionados del Poder Ejecutivo, tres del Legislativo, el Director de Gobernación y el notario. Las resoluciones se tomarán por mayoría de votos y en caso de empate, el Presidente tendrá además voto de calidad.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 Si los comisionados propietarios de los partidos políticos dejaren de asistir sin causa justificada, a juicio de la propia Comisión, se llamará a los suplentes y si éstos no concurriesen, se requerirá al partido que corresponda para que dentro del término de cinco días realice nuevas designaciones y si no lo hiciere se le tendrá por perdido el derecho.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 Esta segunda designación será definitiva y el partido político no podrá remover a los designados a los que en caso de reiterada inasistencia se les tendrá por perdida la representación.
 
@@ -3777,19 +3783,17 @@ Esta segunda designación será definitiva y el partido político no podrá remo
 
 ### CAPITULO IV. DE LAS MESAS DIRECTIVAS DE CASILLA
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 481.
 
-El desarrollo del proceso electoral será dirigido en cada Distrito y Municipio por los Comités Electorales, Distritales y Municipales, respectivamente. Ningún miembro de los Comités será elegible para Gobernador, Diputado propietario o suplente, Presidente Municipal o Regidor propietarios o suplentes; los ciudadanos que figuren como candidatos están impedidos para formar parte de los organismos electorales, a excepción hecha del Colegio Electoral.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 1985)
 
-Cuando en la Cabecera Municipal funcione un solo Comité Distrital, éste dirigirá también el proceso electoral municipal.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 482.
 
-Los Comités Electorales Distritales y Municipales funcionarán en cada una de las cabeceras de Distrito o Municipio, con la salvedad a que se refiere el artículo anterior; se integrarán con nueve ciudadanos en pleno ejercicio de sus derechos políticos, sean residentes en el Distrito o Municipio, tengan un modo honesto de vivir y no desempeñen ningún cargo de elección popular y sean de reconocida probidad, y con un comisionado de cada partido político. Por cada miembro propietario de los Comités habrá un suplente.
+Los Comités Distritales y Municipales Electorales funcionarán en cada una de las Cabeceras de Distrito o Municipio, se integrarán con nueve ciudadanos en pleno ejercicio de sus derechos políticos, sean residentes en el Distrito o Municipio, tengan un modo honesto de vivir, no desempeñen ningún cargo de elección popular y sean de reconocida probidad; y con un comisionado de cada partido político. Por cada miembro propietario de los Comités habrá un suplente.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
@@ -3797,47 +3801,67 @@ Los Comités Electorales Distritales y Municipales funcionarán en cada una de l
 
 A más tardar el veinticinco de enero del año de la elección la Comisión Estatal Electoral convocará a los partidos políticos nacionales con registro definitivo o locales expedido que sea el certificado a que se refiere el artículo 506 de este Código, a través de sus representantes, a efecto de que en el plazo de los diez días siguientes, de común acuerdo propongan las personas que deban integrar los Comités Electorales Distritales y Municipales. Si no se pusieren de acuerdo, la Comisión Estatal Electoral hará la designación de dichas personas, debiendo quedar integrados los Comités Electorales, a más tardar el día quince de febrero.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 484.
 
-Los integrantes de los Comités Distritales y Municipales nombrados con el consenso unánime de los partidos políticos o por la Comisión Estatal Electoral, designarán entre ellos al Secretario y fungirán como Presidente y Vocales las personas que para tal efecto señale la Comisión Estatal Electoral.
+Para que los Comités Distritales y Municipales Electorales puedan sesionar, es necesaria la presencia de la mayoría de sus integrantes, entre los que deberán estar el Presidente, el Secretario y cinco vocales. Toda resolución se tomará por mayoría de votos y en caso de empate el Presidente tendrá voto de calidad.
 
-Para que los Comités Electorales Distritales y Municipales puedan sesionar, es necesaria la presencia de la mayoría de sus integrantes entre los que deberán estar el Presidente, el Secretario y tres vocales. Toda resolución se tomará por mayoría de votos y en caso de empate, será de calidad el del Presidente.
+Los Presidentes de los Comités Distritales y Municipales Electorales estarán facultados para designar los auxiliares que se requieran.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 485.
 
-Los Comités Electorales Distritales y Municipales tendrán las atribuciones siguientes:
+Los Comités Distritales y Municipales Electorales tendrán las atribuciones siguientes:
 
-I.- Vigilar la observancia de este Libro y demás disposiciones relativas;
+A).- Los Comités Distritales:
 
-II.- Vigilar e intervenir en la preparación y desarrollo del proceso electoral del Distrito o Municipio en que actúen;
+I.- Vigilar la observancia de este Libro y demás disposiciones relativas.
 
-III.- Registrar a los candidatos a Diputados y a miembros de Ayuntamientos;
+II.- Vigilar e intervenir en la preparación y desarrollo del proceso electoral del Distrito en que actúen;
 
-IV.- Desahogar las consultas que sobre asuntos de su competencia les formulen los ciudadanos, los candidatos o los partidos políticos;
+III.- Registrar a los Candidatos a Diputados;
+
+IV.- Desahogar las consultas que sobre asuntos de su competencia les formulen los ciudadanos, los Candidatos o los Partidos políticos;
 
 V.- Informar a la Comisión Estatal Electoral de todos los asuntos de su competencia y del resultado del proceso electoral;
 
 VI.- Acatar para su funcionamiento las normas que dicte la Comisión Estatal Electoral;
 
-VII.- Hacer la división territorial del Municipio en secciones electorales para la instalación de las casillas y la publicación de su ubicación y de los funcionarios que la integren de acuerdo con este Código;
+VII.- Registrar los nombramientos de los representantes generales de los partidos políticos;
 
-VIII.- Designar a los auxiliares necesarios para cada sección electoral de su circunscripción;
+VIII.- Constituirse en Juntas Computadoras, y
 
-IX.- Designar a los ciudadanos que deben integrar las mesas directivas de las casillas;
+IX.- Las demás que les confieren las leyes.
 
-X.- Entregar a los presidentes de las mesas directivas de casilla la documentación, formas aprobadas y útiles necesarios para el cumplimiento de sus funciones;
+B).- Los Comités Municipales:
 
-XI.- Recibir las peticiones que formulen los partidos políticos y los candidatos en relación a las inconformidades que se hagan valer en atención a las decisiones tomadas por las mesas directivas de las casillas;
+I.- Vigilar la observancia de este Libro y demás disposiciones relativas;
 
-XII.- Registrar los nombramientos de los representantes y coordinadores de los partidos políticos;
+II.- Vigilar e intervenir en la preparación y desarrollo del proceso electoral del Municipio en que actúen;
 
-XIII.- Constituirse en Juntas Computadoras; y
+III.- Registrar los Candidatos a miembros de Ayuntamientos;
 
-XIV.- Las demás que les confieren las leyes.
+IV.- Desahogar las consultas que sobre los asuntos de su competencia les formulen los ciudadanos los Candidatos o los partidos políticos;
+
+V.- Informar a la Comisión Estatal Electoral de todos los asuntos de su competencia y del resultado del proceso electoral;
+
+VI.- Acatar para su funcionamiento las normas que dicte la Comisión Estatal Electoral;
+
+VII.- Hacer del conocimiento público la ubicación de las casillas y la lista de los funcionarios que las integren de acuerdo con este Código;
+
+VIII.- Designar a los ciudadanos que deban integrar las mesas directivas de las casillas, de conformidad con el artículo 486 de este Código;
+
+IX.- Entregar a los presidentes de las mesas directivas de casilla la documentación, formas aprobadas y útiles necesarios para el cumplimiento de sus funciones;
+
+X.- Recibir las peticiones que formulen los partidos políticos y los candidatos en relación a las inconformidades que se hagan valer en atención a las decisiones tomadas por las mesas directivas de las casillas;
+
+XI.- Registrar los nombramientos de los representantes de los partidos políticos ante las mesas directivas de las casillas;
+
+XII.- Constituirse en Juntas Computadoras, y
+
+XIII.- Las demás que les confieren las leyes.
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
 
@@ -3847,9 +3871,9 @@ XIV.- Las demás que les confieren las leyes.
 
 ###### ARTICULO 486.
 
-Los Comités Electorales Distritales y Municipales convocarán a los representantes de los partidos políticos que participen legalmente en el proceso electoral dentro del Distrito o Municipio a fin de que de común acuerdo, propongan las personas que deban integrar las mesas en las diferentes casillas electorales dentro del Distrito o Municipio.
+Los Comités Municipales Electorales convocarán a los representantes de los partidos políticos que participen legalmente en el proceso electoral dentro del Municipio a fin de que de común acuerdo, propongan las personas que deban integrar las mesas en las diferentes casillas electorales.
 
-Si no hubiere acuerdo, los Comités Electorales Distritales o Municipales, designarán al personal que deba integrar la mesa directiva. La designación deberá recaer en ciudadanos residentes en la circunscripción de la sección, en pleno ejercicio de sus derechos políticos, que sean de reconocida probidad y tengan un modo honesto de vivir.
+Si no hubiere acuerdo, los Comités Municipales Electorales designarán al personal que deba integrar la mesa directiva. La designación deberá recaer en ciudadanos residentes en la circunscripción de la sección, en pleno ejercicio de sus derechos políticos, que sean de reconocida probidad y tengan un modo honesto de vivir.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
@@ -3859,13 +3883,15 @@ Las mesas directivas de casilla son los organismos que tienen a su cargo la rece
 
 Se integrarán con un Presidente, un Secretario, dos Escrutadores y los suplentes respectivos.
 
-Los partidos políticos o coaliciones que participen en el proceso electoral, tienen derecho a designar un solo representante ante las mesas directivas de casilla, en la forma y términos que establece el artículo 530, el que a su vez tendrá la representación de todos los candidatos que aquéllos postulen.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 488.
 
-Los funcionarios de las mesas directivas de casilla y los representantes de los partidos políticos, ante ellas acreditados, tienen las atribuciones siguientes:
+Los funcionarios de las mesas directivas de casilla tienen las atribuciones siguientes:
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 A).- De la mesa directiva de casilla:
 
@@ -3879,9 +3905,13 @@ IV.- Permanecer en la casilla electoral, desde su instalación hasta su clausura
 
 V.- Formular las actas de instalación, cierre de la votación y finales de escrutinio;
 
-VI.- Integrar en los paquetes respectivos la documentación correspondiente a cada elección, para hacerla llegar de inmediato a los Comités Electorales Distritales o Municipales que corresponda;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+VI.- Integrar en los paquetes respectivos la documentación correspondiente a cada elección, para hacerla llegar de inmediato a los Comités Municipales Electorales que correspondan, los que conservarán en su poder los paquetes relativos a la elección de Ayuntamiento y remitirán en un término de setenta y dos horas los paquetes de la elección de Diputados y Gobernador al Comité Distrital Electoral correspondiente.
 
 VII.- Las demás que le confieran este Código y disposiciones relativas.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 B).- De los Presidentes:
 
@@ -3903,6 +3933,8 @@ VIII.- Concluidas las labores de la casilla, turnar oportunamente al Comité Ele
 
 IX.- Las demás que les confieran esta Ley y disposiciones relativas.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+
 C).- De los Secretarios:
 
 I.- Levantar las actas de instalación, cierre de votación, final de escrutinio y demás complementarias;
@@ -3913,6 +3945,8 @@ III.- Tomar nota de los incidentes ocurridos en la votación, y
 
 IV.- Las demás que les confieran este Código y disposiciones relativas.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+
 D).- De los Escrutadores:
 
 I.- Comprobar si la cantidad de boletas depositadas en cada urna corresponde al número de electores anotados en las listas nominal y adicional;
@@ -3921,15 +3955,7 @@ II.- Verificar el número de votos emitidos en favor de cada candidato o fórmul
 
 III.- Las demás que les confieran este Libro y las disposiciones relativas.
 
-E).- De los representantes de partidos:
-
-I.- Vigilar el cumplimiento de este Código;
-
-II.- Representar a los candidatos;
-
-III.- Presentar en forma respetuosa, pacífica y por escrito, las protestas y reclamaciones que legalmente procedan;
-
-IV.- Auxiliar a la mesa de casilla en el ejercicio de sus atribuciones.
+E).- (DEROGADO, P.O. 14 DE DICIEMBRE DE 1985)
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
 
@@ -4113,7 +4139,9 @@ Durante el lapso a que se refiere el artículo anterior los ciudadanos y partido
 
 A más tardar el quince de mayo y treinta y uno de mayo respectivamente, del año de la elección ordinaria, las delegaciones municipales devolverán a la Comisión Estatal Electoral por conducto de los Comités Distritales, las listas electorales básicas y complementarias, con las correcciones procedentes.
 
-El Registro Estatal de Electores enviará las listas nominales definitivas de electores las que comprenderán a los ciudadanos inscritos hasta el treinta de mayo del año de la elección, a la Comisión Estatal Electoral para que las distribuya entre los Comités Distritales Electorales antes del quince de junio del año de la elección ordinaria y éstos procedan a su vez, de igual manera respecto de los presidentes de casillas.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+El Registro Estatal de Electores enviará las listas nominales definitivas de electores, las que comprenderán a los ciudadanos inscritos hasta el treinta de abril del año de la elección, a la Comisión Estatal Electoral para que las distribuya entre los Comités Municipales Electorales antes del quince de junio del año de la elección ordinaria y éstos procedan a su vez, de igual manera respecto de los Presidentes de Casillas.
 
 El día de la elección, cualquier elector, partido político o sus representantes, podrán presentar ante la mesa directiva de casilla, las protestas y observaciones a la inclusión o exclusión de electores.
 
@@ -4389,7 +4417,9 @@ b).- En los monumentos artísticos, edificios públicos y otros que tengan un va
 
 IV.- Los partidos deberán cuidar que su propaganda no modifique el paisaje ni perjudique a los elementos que forman el entorno natural. En consecuencia se abstendrán de utilizar con estos fines, accidentes orográficos tales como cerros, colinas y montañas;
 
-V.- No se permitirá la celebración de mítines, reuniones públicas ni cualquier otro acto de propaganda pública en el día de la elección y los tres que le precedan.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+V.- No se permitirá la celebración de mítines, reuniones públicas ni cualquier otro acto de propaganda pública en el día de la elección y los tres que le precedan. La infracción de esta disposición se sancionará por la Comisión Estatal Electoral con la cancelación del registro del o de los candidatos a cuyo favor se realicen estos actos.
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
 
@@ -4535,7 +4565,9 @@ Las candidaturas a Diputados se registrarán por fórmulas integradas cada una p
 
 Las candidaturas para miembros del Ayuntamiento se registrarán por plantillas integradas cada una por un presidente municipal propietario y su respectivo suplente, así como el número de regidores que determine el Código Municipal propietarios y suplentes, ante el Comité Electoral Municipal que corresponda.
 
-El Registro deberá contener los mismos datos que se señalan para la solicitud.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+La Comisión Estatal Electoral podrá exigir la comprobación de los requisitos constitucionales de elegibilidad de los candidatos y en su caso, cancelar dicho registro.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
@@ -4559,19 +4591,75 @@ En la misma forma se publicarán y difundirán las cancelaciones de registros y 
 
 Los partidos políticos o coaliciones tienen derecho, desde que queden registrados sus candidatos a designar un solo representante ante las mesas directivas de casilla.
 
-Los nombramientos de los representantes se inscribirán ante los Comités Electorales, a más tardar el cuarto domingo de junio del año de la elección ordinaria.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
-La solicitud para registrar los nombramientos de los representantes a que se refieren los párrafos anteriores deberán contener: nombre, apellidos, domicilio y partido o coalición representados.
+Los nombramientos de los representantes se inscribirán ante los Comités Municipales Electorales a más tardar el cuarto domingo de junio del año de la elección ordinaria.
 
-Cuando un Comité Electoral niegue el registro de nombramiento de representantes ante las casillas, la Comisión Estatal Electoral, a solicitud de los partidos podrá hacer el registro supletoriamente.
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
-Los partidos políticos y coaliciones tienen derecho, dentro del plazo señalado en los párrafos anteriores, a designar coordinadores de sus representantes ante las mesas directivas de casilla, para un distrito o municipio; estos nombramientos se inscribirán ante los Comités Electorales que corresponda.
+Para ser representante deberán acreditarse los siguientes requisitos:
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+I.- Ser residente, por lo menos seis meses anteriores a su designación, en la circunscripción de la sección electoral en la que hubiere sido designado;
+
+II.- Estar inscrito en el Padrón Electoral de la Sección electoral;
+
+III.- Tener credencial de elector;
+
+IV.- Estar en pleno ejercicio de sus derechos políticos;
+
+V.- Ser de reconocida probidad, y
+
+VI.- Tener un modo honesto de vivir.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+La solicitud para registrar los nombramientos de los representantes a que se refieren los párrafos anteriores deberá contener: Nombre y apellidos, ocupación, domicilio, copia de la credencial de elector y partido o coalición y candidatos representados.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+Los Comités Municipales Electorales podrán exigir la comprobación documentada de los requisitos para proceder a registrar el nombramiento de los representantes.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+La solicitud deberá estar firmada por el órgano del partido político o coalición, con facultades para efectuarla de acuerdo a sus estatutos y por los candidatos que participen en la elección y cuya representación ostente.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+Cuando un Comité Municipal Electoral niegue el registro de nombramiento de representantes ante las casillas, la Comisión Estatal Electoral, a solicitud de los partidos, podrá hacer el registro supletoriamente si se comprueba fehacientemente el cumplimiento de los requisitos exigidos en este artículo.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+El representante tiene las siguientes atribuciones:
+
+a).- Vigilar el cumplimiento de este Código;
+
+b).- Representar a los partidos, coaliciones y sus candidatos;
+
+c).- Presentar en forma respetuosa, pacífica y por escrito el recurso que legalmente proceda;
+
+d).- Auxiliar a la mesa de casilla en el ejercicio de sus atribuciones cuando se le solicite, y
+
+e).- Las demás que otras disposiciones le confieran.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+Los partidos políticos y coaliciones tienen derecho dentro del plazo señalado en este artículo a designar hasta tres representantes generales para un distrito electoral en el número que determine cada Comité Distrital.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+Los requisitos para ser designado representante general serán los mismos que los establecidos para los representantes, con excepción del domicilio, que deberá tenerlo dentro del distrito correspondiente. La función de los representantes generales será vigilar el cumplimiento de este Código, la efectividad del sufragio el día de la elección y de interponer recursos ante los organismos electorales.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+Los candidatos propietarios y suplentes no podrán figurar como representantes ante las mesas de las casillas ni como representantes generales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 531.
 
-El segundo domingo de junio del año de la elección ordinaria harán del conocimiento público en su circunscripción territorial el número de casillas que se integrará y la ubicación de ellas. Las casillas de cada sección se numerarán progresivamente.
+Las casillas de cada sección se numerarán progresivamente por Municipio o Distrito.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 No podrán señalarse para la instalación de casillas las casas habitadas por funcionarios o empleados públicos, ni las fábricas.
 
@@ -4581,9 +4669,13 @@ No podrán señalarse para la instalación de casillas las casas habitadas por f
 
 Los locales y lugares que se señalen para la ubicación de las casillas deberán reunir las condiciones que hagan posible, el fácil y libre acceso de los electores y la emisión secreta del sufragio.
 
-Los partidos políticos, los candidatos y los ciudadanos en general podrán impugnar los nombramientos de los miembros de las mesas directivas de las casillas, cuando no reúnan los requisitos señalados en este Código, ante el Comité Electoral respectivo, dentro de los tres días siguientes a la publicación de las listas definitivas.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
-El tercer domingo de junio los Comités Electorales Municipales harán del conocimiento público las listas definitivas de las casillas electorales que hayan de instalarse en sus respectivas circunscripciones y los lugares para su instalación, así como de los ciudadanos designados como presiente, secretario o escrutadores propietarios y suplentes, de cada una de ellas.
+El tercer domingo de junio los Comités Municipales Electorales harán del conocimiento público las listas de las casillas electorales que hayan de instalarse en sus respectivas circunscripciones y los lugares para su instalación, así como de los ciudadanos designados como Presidente, Secretario o escrutadores propietarios y suplentes.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+Los partidos políticos, los candidatos y los ciudadanos en general podrán impugnar los nombramientos de los miembros de las mesas directivas de las casillas, cuando no reúnan los requisitos señalados en este Código, ante el Comité Electoral respectivo, dentro de los tres días siguientes a la publicación de las listas.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
@@ -4607,25 +4699,35 @@ f).- Las firmas impresas del Presidente y Secretario de la Comisión Estatal Ele
 
 En caso de cancelación o sustitución de uno o más candidatos, las boletas que ya estuvieran impresas serán corregidas en la parte relativa, o sustituidas por otras, conforme acuerde la Comisión Estatal Electoral.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 534.
 
-A más tardar ocho días antes de la elección deberán estar en poder de los Comités Electorales las boletas electorales para la votación: las que serán selladas al dorso. Los representantes de los partidos políticos tienen derecho a que se les expida constancia del número de boletas selladas.
+A más tardar ocho días antes de la elección deberán estar en poder de los Comités Municipales Electorales las boletas electorales para la votación, las que serán selladas al dorso. Los representantes de los partidos políticos tienen derecho a que se les expida constancia del número de boletas selladas.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 535.
 
-Los Comités Electorales entregarán a cada presidente de casilla dentro de los cinco días anteriores al de la elección siguiente:
+Los Comités Municipales Electorales entregarán a cada Presidente de casilla dentro de los cinco días anteriores al de la elección, lo siguiente:
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1979)</small>
 
 I.- Lista nominal de electores de la sección;
 
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1979)</small>
+
 II.- Boletas para cada elección, en número igual al de los electores que figuren en la lista nominal de su sección más un 10%;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1979)</small>
 
 III.- Las urnas para recibir la votación, una para Gobernador, otra para Diputados y una más para miembros de los Ayuntamientos, según la elección de que se trate;
 
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1979)</small>
+
 IV.- Documentación, formas aprobadas, útiles de escritorio y demás elementos necesarios.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 En las secciones electorales que por razones de distancia o por el número de electores requieran del establecimiento de dos o más casillas, se estará a las disposiciones que dicte la Comisión Estatal Electoral.
 
@@ -4713,7 +4815,7 @@ a).- Que se encuentren transitoriamente en lugar distinto al de su sección elec
 
 b).- Que el elector sea militar en servicio activo, en cuyo caso votará en la casilla más próxima al lugar en donde desempeñe su servicio;
 
-c).- Que se trate de representantes de partidos políticos quienes votarán en la casilla en que actúen; y
+c).- (DEROGADO, P.O. 14 DE DICIEMBRE DE 1985)
 
 d).- Que se trate de auxiliares designados por los organismos electorales.
 
@@ -4739,13 +4841,15 @@ El personal de las fuerzas armadas, tropa y policía, deben presentarse a votar 
 
 II.- El elector, personalmente, o quien lo auxilie en caso de impedimento físico, introducirá la boleta electoral en la urna respectiva;
 
-III.- El secretario de la casilla anotará en la lista nominal electoral la palabra "votó". El presidente de la casilla devolverá a éste su credencial con idéntica anotación y la fecha de la elección.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+III.- El secretario de la casilla anotará en la lista nominal electoral la palabra votó. El Presidente de la casilla devolverá al elector su credencial con la indicación de haber votado en la fecha de la elección.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 543.
 
-El ciudadano que hubiere extraviado su credencial de elector y su nombre se encuentre en la lista nominal electoral podrá sufragar previa identificación, anotándose esta circunstancia en el acta correspondiente.
+El ciudadano que no presentare su credencial de elector y su nombre se encuentre en la lista nominal electoral podrá sufragar, previa identificación a satisfacción del presidente de la casilla, anotándose esta circunstancia en el acta correspondiente.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
@@ -4879,17 +4983,13 @@ En el procedimiento de escrutinio se seguirá el siguiente orden: elección de m
 
 Los representantes de los partidos tendrán derecho a que se les expidan copias de las actas levantadas en la casilla.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 557.
 
-Concluidas las labores se clausurará la casilla y el presidente, bajo se (sic) responsabilidad, hará llegar los paquetes electorales sujetándose a lo siguiente:
+Concluidas las labores se clausurará la casilla y el Presidente, bajo su responsabilidad, hará llegar los paquetes electorales sujetándose a lo dispuesto en el artículo 488 apartado A, fracción VI de este Código.
 
-a).- Las relativas a la elección de los miembros del Ayuntamiento se entregarán al Comité Municipal Electoral respectivo salvo cuando en la cabecera municipal funcione un solo Comité Distrital Electoral en cuyo caso la entrega se hará a éste;
-
-b).- Las que contenga la elección de Diputados y de Gobernador se hará en igual forma y los Comités Municipales Electorales, tendrán la obligación de hacerlos llegar en el plazo de veinticuatro horas contadas a partir de su recepción, a los Comités Distritales Electorales.
-
-Los presidentes de las casillas entregarán los paquetes electorales a los Comités Electorales que correspondan en un plazo de veinticuatro horas si la casilla fuera urbana y de cuarenta y ocho horas si la casilla fuera rural.
+Los presidentes de las casillas entregarán los paquetes electorales al Comité Municipal Electoral que corresponda en un plazo de veinticuatro horas si la casilla es urbana y de cuarenta y ocho horas, si es rural.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
@@ -4897,11 +4997,11 @@ Los presidentes de las casillas entregarán los paquetes electorales a los Comit
 
 El segundo domingo de julio del año de la elección los Comités Electorales se constituirán en Juntas Computadoras.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 559.
 
-Al erigirse el Comité Electoral en Junta Computadora será presidente el Comité Electoral respectivo y las personas que hubieren actuado como vocales del mismo, tendrán el carácter de escrutadores.
+Al erigirse el Comité Electoral en Junta Computadora serán presidente y secretario los del Comité Electoral respectivo y las personas que hubieren actuado como vocales del mismo, tendrán el carácter de escrutadores.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
@@ -4909,45 +5009,59 @@ Al erigirse el Comité Electoral en Junta Computadora será presidente el Comit�
 
 Iniciada la sesión, la Junta procederá a hacer el cómputo general de la votación recogida en el Distrito o Municipio, practicando en su orden las operaciones siguientes:
 
-I.- Se examinarán los paquetes electorales separando los que tengan muestras de alteración y aquéllos cuyas actas contengan inconformidades presentadas por los representantes de los partidos;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
-II.- Se abrirán los que aparezcan sin muestra de alteración, siguiendo el orden numérico de las casillas y en el caso de los Comités Distritales además, en el orden alfabético de sus Municipios.
+I.- Se examinarán los paquetes electorales separando los que tengan muestras de alteración;
 
-Se tomará nota de los resultados que consten en las actas finales de escrutinio contenidas en el paquete y si hubiere objeción fundada en relación a las constancias o a esa acta, se repetirá el escrutinio de la sección haciendo el recuento de los votos;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
-III.- Anotará respecto de cada sección, las objeciones relativas a los votos que no hubieren sido tomados en cuenta o los que hayan sido indebidamente aceptados en el escrutinio o en la computación, así como los relativos a irregularidades en el funcionamiento de las casillas, todo lo cual se hará constar en el acta correspondiente;
+II.- Se abrirán los que aparezcan sin muestra de alteración, siguiendo el orden numérico de las casillas y en el caso de los Comités Distritales además, el orden alfabético de sus Municipios, tomándose nota de los resultados que consten en las actas finales de escrutinio contenidas en el paquete y serán válidos sus resultados cuando dichas actas coincidan con las que obran en poder del Comité, haciéndose el cómputo con estos resultados y si no coincidieren, se hará constar en el acta que se levante sin computar los votos de estos expedientes, para que los mismos se califiquen en su caso por el Colegio Electoral;
 
-IV.- En caso de que faltare el paquete electoral que deba revisarse, se tomarán en cuenta los certificados que se hubieren expedido por el presidente y el secretario de la casilla;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
-V.- Abrirá los paquetes que aparecieren alterados; si las actas de escrutinio coinciden con las copias autorizadas que se hubieran remitido previamente por los presidentes de casillas, procederá a hacer el cómputo de estos expedientes junto con los demás; si no coinciden, se hará constar en el acta que se levante sin computar los votos de éstos expedientes, para que los mismos se califiquen en su caso por el Congreso del Estado;
+III.- En el caso de los paquetes separados por tener muestras de alteración, se compulsarán las actas de escrutinio siguiendo el orden numérico de las casillas y en el caso de los Comités Distritales además, el orden alfabético de sus Municipios y de existir discrepancias en los términos de la fracción anterior, no será computada la votación de la casilla en la que aparezcan, a efecto de que sean calificados por el Colegio Electoral;
 
-VI.- Levantará por duplicado el acta del cómputo de acuerdo con el modelo aprobado por la Comisión Estatal Electoral, haciendo constar en ella las operaciones practicadas, las objeciones que se hayan presentado por escrito y el resultado de la elección;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
-VII.- Extenderá constancia de acuerdo con el modelo que apruebe la Comisión Estatal Electoral al candidato a Gobernador, a los candidatos a Diputados y miembros de los Ayuntamientos propietarios y suplentes, que hayan obtenido mayor número de votos en la elección.
+IV.- Levantará el acta de cómputo de acuerdo con el modelo aprobado por la Comisión Estatal Electoral, haciendo constar en ella las operaciones practicadas y el resultado de la elección, anexando los escritos de inconformidad que se hubieren presentado;
 
-El procedimiento señalado en las fracciones anteriores, se seguirá en las Juntas Computadoras Distritales, en primer lugar, respecto de la elección de Diputados y enseguida, respecto de la de Gobernador. Si alguna Junta Computadora conoce de las elecciones de Gobernador, Diputados y miembros de los Ayuntamientos, la computación se iniciará por los paquetes de los últimos.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
-Las Juntas Computadoras Distritales y las Municipales en su caso, dentro de los ocho días siguientes enviarán al Congreso del Estado y a la Comisión Estatal Electoral un informe firmado por su Presidente y Secretario, para los efectos señalados en los artículos 40 y 126 de la Constitución Política del Estado, que deberá contener lo siguiente:
+V.- Extenderá la constancia de acuerdo con el modelo que apruebe la Comisión Estatal Electoral a los candidatos a diputados y miembros de los ayuntamientos propietarios y suplentes, que hayan obtenido mayor número de votos en la elección.
 
-1.- Los partidos políticos o coaliciones que participaron con candidatos en la elección;
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+El procedimiento señalado en las fracciones anteriores, se seguirá en las Juntas Computadoras Distritales en primer lugar, respecto de la elección de diputados y enseguida la de gobernador. Las Juntas Computadoras Municipales seguirán el procedimiento establecido en lo que corresponda a la elección de los ayuntamientos.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+Los organismos electorales que encontraren documentación que corresponda a otra jurisdicción, la enviarán de inmediato al órgano competente.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+Las Juntas Computadoras Distritales y las Municipales dentro de los ocho días siguientes enviarán al Congreso del Estado y a la Comisión Estatal Electoral un informe firmado por su Presidente y Secretario, para los efectos señalados en los artículos 40 y 126 de la Constitución Política del Estado, que deberá contener lo siguiente:
+
+1.- Los partidos políticos o coaliciones que participaron con los candidatos en la elección;
 
 2.- El nombre de los candidatos triunfantes y del partido o coalición que los ha postulado;
 
-3.- El número de votantes en la elección para Diputados y miembros de los Ayuntamientos y el porcentaje obtenido por los candidatos y sus partidos o coaliciones;
+3.- El número de votantes en la elección para Diputados y miembros de los ayuntamientos y el porcentaje obtenido por los candidatos y sus partidos o coaliciones;
 
-4.- El número de sufragios que obtuvo cada fórmula de candidatos.
+4.- El número de sufragios que obtuvo cada fórmula de candidatos, y
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+5.- Una copia del acta de cómputo respectiva y de los recursos de inconformidad presentados.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 561.
 
-Los Comités Electorales formarán por separado un paquete con el total de la documentación en relación a la elección de miembros de Ayuntamientos, otro para la de Diputados y uno más para la de Gobernador, los que debidamente sellados y cerrados los remitirán dentro de los ocho días siguientes a la Comisión Estatal Electoral, expresando en la cubierta los datos que permitan su identificación.
+Los Comités Municipales Electorales formarán un paquete con el total de la documentación en relación a la elección de los miembros del ayuntamiento; los Comités Distritales Electorales formarán por separado un paquete con el total de la documentación en relación a la elección de Diputados y otro para la de Gobernador. Los Comités Electorales remitirán los paquetes, relativos a la elección de Gobernador, Diputados y los de los ayuntamientos siempre que estos fueran impugnados, debidamente sellados y cerrados dentro de los ocho días siguientes a la Oficialía Mayor del Congreso del Estado, expresando en la Cubierta los datos que permitan su identificación.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+Los paquetes que contengan la documentación de la elección de los ayuntamientos no impugnados se enviarán en la forma que establece el párrafo anterior a la Secretaría General de Gobierno, para el efecto de que ordene la publicación en el Periódico Oficial el Estado, de la planilla que haya obtenido mayoría de votos.
 
 ###### ARTICULO 562.
 
-La Junta Computadora se abstendrá de juzgar sobre los vicios que encuentre en los expedientes electorales o en las boletas que contengan los votos emitidos, limitándose a hacerlos constar en el acta final para conocimiento del órgano calificador.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 1985)
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
@@ -4957,29 +5071,25 @@ La Junta realizará ininterrumpidamente sus labores y ningún miembro de ella, d
 
 Si a pesar de esta prohibición se ausentaren de la Junta alguno o algunos de sus miembros o dejaren de presentarse, los trabajos se iniciarán y continuarán cualquiera que sea su número y su decisión será válida.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 564.
 
-Se exceptúan de lo dispuesto en el artículo anterior, el caso de que cualquiera autoridad o particular ejercieran violencia sobre los miembros de la Junta, pues entonces ésta suspenderá sus trabajos hasta que obtenga plenas garantías, y hará constar en un acta los hechos que motivaron la suspensión de sus trabajos y la consignará a la autoridad judicial respectiva.
+Se exceptúa de lo dispuesto en el artículo anterior, cuando se ejerciere violencia sobre los miembros de la Junta, pues entonces ésta suspenderá sus trabajos hasta que obtenga plenas garantías, levantando acta de los hechos que motivaron la suspensión, haciéndolo del conocimiento de la autoridad competente.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 El Presidente de la Junta tendrá el mando de la fuerza pública que se comisione para la custodia de la Computadora.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 565.
 
-Recibida la documentación electoral que contenga la elección de Ayuntamientos, la Comisión Estatal Electoral la mantendrá en su poder por el término de quince días contados a partir de la fecha del cómputo para el efecto de que los partidos políticos estén en posibilidad de reclamar la nulidad de la elección.
-
-Transcurrido el plazo anterior, la Comisión hará envío de la documentación electoral al Congreso del Estado en los casos de los Municipios cuya elección fue reclamada de nulidad para los efectos de su calificación y a la Secretaría General de Gobierno comunicará los nombres de los candidatos que hayan obtenido mayoría en los Municipios y cuya elección no haya sido reclamada por nulidad, para efecto de su publicación en el Periódico Oficial del Estado.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+Los representantes de los partidos políticos podrán interponer por escrito y por cuadruplicado el recurso de inconformidad contra los datos consignados en el acta final del cómputo distrital o municipal y la expedición de la constancia de mayoría respectiva. El recurso tiene por objeto hacer valer las causales de nulidad de la elección señaladas en esta Ley. Se interpondrá en el mismo acto ante la Junta Computadora o dentro de las setenta y dos horas siguientes a la terminación del cómputo.
 
 ###### ARTICULO 566.
 
-Recibida por la Comisión Estatal Electoral la documentación relativa a la elección de Diputados y de Gobernador, los partidos políticos dispondrán del término a que se refiere el artículo anterior a efecto de que presenten ante este Organo sus solicitudes de nulidad.
-
-La Comisión, transcurrido el término sin juzgar sobre la procedencia o calificación hará envío de la documentación electoral y de los escritos que se hubieren presentado, al Congreso del Estado.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 1985)
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
@@ -5029,7 +5139,13 @@ I.- Cuando se haya instalado en lugar distinto al señalado sin causa justificad
 
 II.- Cuando se ejerza violencia física o exista cohecho, soborno o presión de alguna autoridad o particular sobre los funcionarios de la mesa directiva de la casilla o de los electores, de tal manera que se afecten la libertad o el secreto del voto y tengan relevancia en los resultados de la votación de la casilla;
 
-III.- Por haber mediado error grave o dolo manifiesto en la computación de votos que altere sustancialmente el resultado de la votación.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+III.- Por haber mediado error grave o dolo manifiesto en el escrutinio o en la computación de votos que altere sustancialmente el resultado de la votación, y
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+IV.- Cuando el número de votantes anotados en la lista adicional en los términos del artículo 541 fracción III de este Código, exceda en un 10% al número de electores que tienen derecho a votar en la casilla.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
@@ -5089,13 +5205,17 @@ II.- Se presente a una casilla electoral portando armas;
 
 III.- Vote por más de una vez, suplante u obligue a otro a votar por determinado candidato;
 
-IV.- Manifieste datos falsos al Registro Estatal de Electores;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+IV.- Manifieste datos falsos al Registro Nacional o Estatal de Electores;
 
 V.- Ejecute actos de lucro con el voto, o presente boletas electorales falsas;
 
 VI.- Impida la instalación oportuna de la casilla electoral u obstaculice su funcionamiento o su clausura;
 
-VII.- Impida a un tercero su inscripción en el Registro Estatal de Electores, la emisión de su voto o el desempeño de sus funciones electorales;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+VII.- Impida a un tercero su inscripción en el Registro Nacional o Estatal de Electores, la emisión de su voto o el desempeño de sus funciones electorales;
 
 VIII.- A quien reuniendo los requisitos para ello se abstenga de votar en las elecciones;
 
@@ -5105,7 +5225,9 @@ X.- Al que tres días antes de la elección o durante ésta realice mítines, re
 
 XI.- Al que sin llenar los requisitos establecidos por este Código, use para una organización el nombre de partido o continúe usándolo para una organización cuyo registro haya sido cancelado temporal o definitivamente;
 
-XII.- Ilícitamente obtenga la inscripción o cancelación de un tercero en el Registro Estatal de Electores;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
+
+XII.- Ilícitamente obtenga la inscripción o cancelación de un tercero en el Registro Nacional o Estatal de Electores;;
 
 XIII.- Instale ilegalmente una casilla o usurpe funciones electorales.
 
@@ -13624,3 +13746,7 @@ Se abroga el decreto número 116 de fecha 21 de mayo de 1963 publicado en el Per
 ###### ARTICULO TERCERO.
 
 Se derogan los artículos 189, 190 y 191 del Código Municipal del Estado.
+
+P.O. 14 DE DICIEMBRE DE 1985.
+
+ARTICULO TRANSITORIO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
