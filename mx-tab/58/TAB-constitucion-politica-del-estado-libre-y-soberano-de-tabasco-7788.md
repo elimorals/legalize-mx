@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1928-11-28"
+last_updated: "1930-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1928.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1930.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -465,9 +465,9 @@ XXIII.- Convocar a elecciones de Gobernador cuando ocurra falta absoluta en los 
 
 XXIV.- Elegir Gobernador interino en los casos de falta absoluta, si ésta ocurriese dentro de los últimos años, y en el caso de la fracción anterior mientras se convoca a elecciones.
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 1921)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1930)</small>
 
-XXV.- Elegir Gobernador Interino en los casos de falta temporal del Gobernador Constitucional.
+XXV.- Elegir Gobernador Interino en los casos de falta temporal del Gobernador Constitucional si ésta es mayor de quince días, que en ningún caso excederá de seis meses, teniéndose por absoluta cuando pase de este tiempo. En caso de falta temporal del Gobernador Constitucional, que no exceda de quince días, se hará cargo del Despacho del Poder Ejecutivo el Secretario General de Gobierno.
 
 XXVI.- Conocer de las acusaciones que se hagan a los funcionarios públicos de que habla esta Constitución, por delitos oficiales, formulando, en su caso, acusación contra ellos ante el Supremo Tribunal de Justicia, y erigirse en Gran Jurado para declarar si hay o no lugar a proceder en contra de los que gozan de fuero Constitucional, cuando sean acusados por delitos del orden común.
 
@@ -539,7 +539,9 @@ I.- Acordar por sí sola, cuando a su juicio lo exijan el bien o la seguridad de
 
 II.- Recibir la protesta de ley a los funcionarios que deban prestarla ante el Congreso.
 
-III.- Conceder licencia a los mismos funcionarios a que se refiere la fracción anterior hasta por quince días.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1930)</small>
+
+III.- Conceder licencia a los mismos funcionarios a que se refiere la fracción anterior hasta por quince días, rigiendo en cuanto al Gobernador lo previsto en los artículos 64, fracción XXV y 79 de esta Constitución.
 
 IV.- Dictaminar sobre todos los asuntos que queden sin resolución en los expedientes, a fin de que en el inmediato período sigan tramitándose.
 
@@ -615,9 +617,11 @@ Tampoco podrá ser electo para el período inmediato el ciudadano que fue Gobern
 
 Si al comenzar un período constitucional no se presentare el Gobernador electo, o la elección no estuviere hecha, o en caso de haberse verificado no se hubiere declarado su legalidad, cesará sin embargo el Gobernador que haya terminado el período, procediéndose entonces por la Cámara en los términos de las fracciones XXIII, XXIV y XXV del artículo 64.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1930)</small>
+
 ###### Art. 79.
 
-El Gobernador no podrá ausentarse del territorio del Estado sin permiso de la Legislatura o de su Comisión Permanente.
+El Gobernador no podrá ausentarse del territorio del Estado por más de quince días sin permiso de la Legislatura.
 
 ###### Art. 80.
 
@@ -701,7 +705,9 @@ El gobernador puede tener una guardia civil hasta de treinta y tres hombres, sie
 
 No puede el Gobernador:
 
-I.- Renunciar su cargo, ni ausentarse del territorio del Estado, ni separarse del ejercicio de sus funciones, sin causa grave calificada por el Congreso.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1930)</small>
+
+I.- Renunciar su cargo, ni ausentarse del territorio del Estado por más de quince días ni separarse del ejercicio de sus funciones, sin causa grave calificada por el Congreso.
 
 II.- Sancionar leyes, expedir decretos, dar órdenes generales o de pago sin que sean autorizados por el Secretario General de Gobierno.
 
@@ -753,9 +759,11 @@ MAGISTRADOS Y JUECES.
 
 Los acuerdos, órdenes y disposiciones que dicte el Gobernador, así como los documentos que suscriba en el ejercicio de sus funciones constitucionales, deberán ser autorizados por el Secretario sin este requisito no surtirán efectos legales.
 
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1930)</small>
+
 ###### Art. 90.
 
-No podrá desempeñar ningún otro empleo del Estado o de la Federación por el cual se disfrute sueldo, ni ejercer profesión alguna.
+No podrá desempeñar ningún otro empleo del Estado o de la Federación por el cual se disfrute sueldo, ni ejercer profesión alguna, salvo el caso previsto por la fracción XXV del artículo 64 de esta Constitución.
 
 ###### Art. 91.
 
@@ -1300,3 +1308,7 @@ P.O. 28 DE NOVIEMBRE DE 1928.
 ###### Artículo UNICO.
 
 Este Decreto surte sus efectos legales desde la fecha de su promulgación, que se hará por Bando Solemne en todo el Estado.
+
+P.O. 17 DE DICIEMBRE DE 1930.
+
+UNICO.- Este decreto surte sus efectos legales desde la fecha de su promulgación, que se hará por Bando Solemne en todo el Estado.
