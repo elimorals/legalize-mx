@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "1999-08-12"
+last_updated: "2001-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -69,7 +69,11 @@ VII. El desarrollo de la enseñanza, la investigación científica y tecnológic
 
 A. Es materia de salubridad general:
 
-I. La atención médica, preferentemente en beneficio de grupos más vulnerables;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+I. La atención médica, preferentemente en beneficio de los grupos más vulnerables.
+
+Para los efectos de la presente Ley se entienden como grupos vulnerables los adultos mayores, las personas con discapacidad, las personas de escasos recursos, y en general todos aquellos que se encuentran en situación de extrema dificultad o incapacidad para satisfacer sus necesidades básicas.
 
 II. La atención materno-infantil;
 
@@ -115,7 +119,9 @@ I. Mercados y centros de abasto;
 
 II. Construcciones, excepto las de los establecimientos de salud;
 
-III. Cementerios, crematorios y funerarias;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+III. Cementerios, crematorios, funerarias y criptas;
 
 IV. Aseo público;
 
@@ -123,7 +129,9 @@ V. Rastros;
 
 VI. Agua potable y alcantarillado;
 
-VII. Establos, granjas y zahurdas;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+VII. Establos, granjas, zahúrdas y demás establecimientos de cría o explotación de animales;
 
 VIII. Reclusorios;
 
@@ -139,9 +147,21 @@ XIII. Tintorerías, lavanderías y lavaderos públicos;
 
 XIV. Transportes;
 
-XV. Gasolineras; y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
 
-XVI. Las demás materias que determine esta Ley y otras disposiciones legales aplicables.
+XV. Gasolineras;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
+
+XVI. Comercialización y venta de alimentos y bebidas en la vía pública;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
+
+XVII. Centros antirrábicos; y
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+XVIII. Las demás materias que determine esta Ley y otras disposiciones legales aplicables.
 
 ### CAPITULO II. De las autoridades sanitarias y su competencia
 
@@ -151,17 +171,17 @@ XVI. Las demás materias que determine esta Ley y otras disposiciones legales ap
 
 I. El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
 
-II. La Secretaría de Salud y Bienestar Social del Estado; y
+II. La Secretaría de Salud Jalisco;
 
 III. Los Ayuntamientos en los términos de los convenios que celebren con el Gobierno del Estado, de conformidad con esta Ley y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 5.
 
-° Corresponde al Titular del Ejecutivo del Estado, por conducto de la Secretaría de Salud y Bienestar Social del Estado:
+° Corresponde al titular del Ejecutivo del Estado, por conducto de la Secretaría de Salud Jalisco, en los términos del artículo anterior:
 
 A. En materia de salubridad general:
 
@@ -179,21 +199,43 @@ VI. Las demás que sean necesarias para hacer efectivas las facultades anteriore
 
 B. En materia de salubridad local:
 
-I. Dictar las normas técnicas, ejercer la regulación y el control sanitario de los establecimientos y servicios de salubridad local a que se refiere el apartado B del Art. 3 de esta Ley, y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+I. Dictar los criterios y lineamientos técnicos aplicables en materia de salubridad local, ejercer la regulación y el control sanitario de los establecimientos y servicios de salubridad local a que se refiere el apartado B del artículo 3 de esta ley, y
 
 II. Promover, orientar, fomentar y apoyar las acciones en materia de salubridad local a cargo de los municipios con sujeción a la política nacional y estatal de salud y a los convenios que suscriban.
 
-Tanto en materia de salubridad general, cuanto en la de salubridad local, vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente Ley y demás disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+Tanto en materia de salubridad general, cuanto en la de salubridad local, vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente ley y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+C. Coordinarse con las autoridades ambientales, laborales, de protección civil, de sanidad animal y vegetal, a efecto de cumplir y hacer cumplir, en la esfera de su competencia, el derecho a la protección de la salud.
+
+Se determinan como áreas de coordinación prioritarias las relativas a:
+
+I. Desastres;
+
+II. Residuos peligrosos biológico infecciosos;
+
+III. Salud ocupacional, y
+
+IV. Salud ambiental.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 6.
 
-° Para los efectos de esta Ley, se entiende por norma técnica el conjunto de reglas científicas y tecnológicas de carácter obligatorio, emitidas por la Secretaría de Salud y Bienestar Social del Estado, que establezcan los requisitos que deben satisfacerse, en materia de salubridad local, con el objeto de uniformar principios, criterios, políticas y estrategias.
+° Los criterios y lineamientos técnicos que emita la Secretaría de Salud Jalisco en materia de salubridad local, conforme al artículo 5 apartado B fracción I de esta Ley, serán de observancia obligatoria para los particulares.
 
 ###### Art. 7.
 
 ° El Ejecutivo Estatal podrá convenir con los Ayuntamientos, la prestación, por parte de éstos, de los servicios de salubridad general concurrente y de salubridad local, cuando su desarrollo económico y social lo haga necesario. En dichos convenios, se podrán estipular acciones sanitarias que deban ser realizadas por las Delegaciones y Agencias Municipales.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Los convenios a que se refiere el párrafo anterior, fomentarán la descentralización al nivel municipal. La descentralización de los servicios de atención médica, salud pública y regulación sanitaria al nivel municipal se realizará con la mayor prontitud y conforme los programas y calendarios que se prevean en el Plan Estatal de Desarrollo correspondiente.
 
 ###### Art. 8.
 
@@ -231,9 +273,11 @@ Las bases y modalidades del ejercicio coordinado de las atribuciones de los Gobi
 
 El Sistema Estatal de Salud estará constituido por las entidades públicas y las personas físicas o morales de los sectores social y privado, que presten servicios de salud y su competencia se define por esta Ley y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 13.
 
-El Sistema Estatal de Salud, con la intervención que corresponda al Comité de Planeación para el Desarrollo del Estado, definirá los mecanismos de coordinación y colaboración, en materia de planeación de los servicios de salud en el Estado, a fin de dar cumplimiento al derecho a la protección de la salud, de conformidad con las disposiciones de esta Ley y las que al efecto sean aplicables.
+El Sistema Estatal de Salud, con la intervención que corresponda a la Secretaría de Salud Jalisco y al Comité de Planeación para el Desarrollo del Estado, definirá los mecanismos de coordinación y colaboración, en materia de planeación de los servicios de salud en el Estado, a fin de dar cumplimiento al derecho a la protección de la salud, de conformidad con las disposiciones de esta ley y las que al efecto sean aplicables.
 
 ###### Art. 14.
 
@@ -243,7 +287,9 @@ I. Proporcionar servicios de salud a toda la población del Estado y mejorar la 
 
 II. Contribuir al adecuado desarrollo demográfico del Estado;
 
-III. Colaborar al bienestar social de la población mediante servicios de asistencia social, principalmente a menores en estado de abandono, a los ancianos desamparados y a los minusválidos, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+III. Contribuir al bienestar social de la población mediante la prestación de servicios de atención médica y la coordinación de los servicios de asistencia social, para fomentar el desarrollo físico, mental y social de grupos vulnerables;
 
 IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
 
@@ -253,11 +299,11 @@ VI. Impulsar, en el ámbito estatal, un sistema racional de administración y de
 
 VII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 15.
 
-La coordinación del Sistema Estatal de Salud estará a cargo de la Secretaría de Salud y Bienestar Social del Estado, la cual tendrá las atribuciones siguientes:
+La coordinación del Sistema Estatal de Salud estará a cargo de la Secretaría de Salud Jalisco, la cual tendrá las atribuciones siguientes:
 
 I. Establecer y conducir la política estatal en materia de salud en los términos de esta Ley, demás disposiciones legales aplicables, y congruentes con las políticas del Sistema Nacional de Salud y con lo dispuesto por el Ejecutivo Estatal;
 
@@ -275,7 +321,9 @@ VI. Determinar la periodicidad y características de la información que deberá
 
 VII. Coordinar el proceso de programación de las actividades de salud en el Estado;
 
-VIII. Formular recomendaciones a las entidades competentes sobre la asignación de los recursos que requieran los programas de salud del Estado;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+VIII. Formular recomendaciones a las entidades competentes sobre la asignación de recursos por programa, por unidad presupuestal, por organismo o por objeto de gasto que se requieran para la prestación de servicios de salud en el Estado;
 
 IX. Impulsar, en el ámbito estatal, las actividades científicas y tecnológicas en el campo de salud;
 
@@ -293,19 +341,19 @@ XV. Impulsar la permanente actualización de las disposiciones legales en materi
 
 XVI. Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 16.
 
-La Secretaría de Salud y Bienestar Social del Estado promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
+La Secretaría de Salud Jalisco promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 17.
 
-La concertación de acciones entre la Secretaría de Salud y Bienestar Social del Estado, y los integrantes de los sectores social y privado se realizará, mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+La concertación de acciones entre la Secretaría de Salud Jalisco, y los integrantes de los sectores social y privado se realizará, mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
 
 I. Se establecerán las responsabilidades que asumirán los integrantes de los sectores social y privado;
 
@@ -319,11 +367,25 @@ III. Se especificará el carácter operativo de la concertación de acciones, co
 
 IV. Se expresarán las demás estipulaciones que, de común acuerdo, establezcan las partes.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 18.
 
-El Titular del Poder Ejecutivo del Estado por conducto de la Secretaría de Salud y Bienestar Social, y con la participación que corresponda al Comité de Planeación para el Desarrollo Estatal, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios de los Sistemas Nacional y Estatal de Salud.
+El titular del Poder Ejecutivo del Estado por conducto de la Secretaría de Salud Jalisco, y con la participación que corresponda al Comité de Planeación para el Desarrollo Estatal, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios de los Sistemas Nacional y Estatal de Salud.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Art. 18 bis. En los términos del artículo 52 de la Ley Orgánica del Poder Ejecutivo, para ayudar en el ejercicio de las funciones que le corresponden al titular del Ejecutivo se integran al Sistema Estatal de Salud los organismos públicos descentralizados que a continuación se enuncian:
+
+I. Servicios de Salud Jalisco, autoridad coadyuvante de la Secretaría de Salud Jalisco;
+
+II. Hospital Civil de Guadalajara;
+
+III. Instituto Jalisciense de Cancerología;
+
+IV. Consejo Estatal de Trasplantes, y
+
+V. Comisión de Arbitraje Médico del Estado de Jalisco.
 
 ## TITULO TERCERO. Servicios de salud
 
@@ -343,9 +405,11 @@ II. De salud pública; y
 
 III. De asistencia social.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 21.
 
-Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos más vulnerables.
+Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
 
 ###### Art. 22.
 
@@ -371,7 +435,9 @@ VII. La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
 VIII. La promoción del mejoramiento de la nutrición;
 
-IX. La asistencia social a los grupos más necesitados, y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+IX. La asistencia social a los grupos vulnerables;
 
 X. Las demás que establezcan esta Ley y otras disposiciones legales aplicables.
 
@@ -411,17 +477,17 @@ III. Orientar y capacitar a la población, preferentemente, en materia de nutric
 
 Las autoridades sanitarias estatales, en coordinación con las autoridades federales competentes, propondrán y desarrollarán programas de educación para la salud, procurando optimizar los recursos y alcanzar la cobertura total de la población.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
-El Gobierno del Estado, por conducto de la Secretaría de Salud y Bienestar Social, en coordinación con las autoridades competentes, promoverá programas de educación para la salud, que puedan ser difundidos por los medios masivos de comunicación social en el Estado.
+El Gobierno del Estado, por conducto de la Secretaría de Salud Jalisco, en coordinación con las autoridades competentes, promoverá programas de educación para la salud, que puedan ser difundidos por los medios masivos de comunicación social en el Estado.
 
 #### SECCION TERCERA. De la nutrición
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 28.
 
-El Gobierno del Estado, por conducto de la Secretaría de Salud y Bienestar Social, elaborará y desarrollará programas de nutrición estatales, promoviendo la participación de los organismos cuyas atribuciones tengan relación con los mismos, así como de los sectores social y privado.
+El Gobierno del Estado, por conducto de la Secretaría de Salud Jalisco, elaborará y desarrollará programas de nutrición estatales, promoviendo la participación de los organismos cuyas atribuciones tengan relación con los mismos, así como de los sectores social y privado.
 
 ###### Art. 29.
 
@@ -429,17 +495,17 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 
 #### SECCION CUARTA. De los efectos del ambiente en la salud
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 30.
 
-La Secretaría de Salud y Bienestar Social del Estado será la autoridad que tome las medidas y realice las actividades a que se refiere esta Ley, tendientes a la protección de la salud humana, ante los riesgos y daños derivados de las condiciones del ambiente, sin perjuicio de la competencia que corresponda a otras autoridades.
+La Secretaría de Salud Jalisco será la autoridad que tome las medidas y realice las actividades a que se refiere esta Ley, tendientes a la protección de la salud humana, ante los riesgos y daños derivados de las condiciones del ambiente, sin perjuicio de la competencia que corresponda a otras autoridades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 31.
 
-Corresponde a la Secretaría de Salud y Bienestar Social del Estado:
+Corresponde a la Secretaría de Salud Jalisco:
 
 I. Desarrollar investigación permanente y sistemática de los riesgos y daños que, para la salud de la población, origina la contaminación del ambiente;
 
@@ -447,11 +513,11 @@ II. Vigilar la calidad del agua para el uso y consumo humano, y
 
 III. Vigilar la seguridad radiológica para el uso y aprovechamiento de fuentes de radiación, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 32.
 
-La Secretaría de Salud y Bienestar Social del Estado, en el ámbito de su competencia, se coordinará con las autoridades federales correspondientes para la prestación de los servicios a que se refiere el artículo anterior.
+La Secretaría de Salud Jalisco, en el ámbito de su competencia, se coordinará con las autoridades federales correspondientes para la prestación de los servicios a que se refiere el artículo anterior.
 
 ###### Art. 33.
 
@@ -463,19 +529,19 @@ Queda prohibida la descarga de aguas residuales o de contaminantes en cualquier 
 
 Los usuarios que aprovechen en su servicio aguas que posteriormente serán utilizadas para uso o consumo de la población, estarán obligados a darles el tratamiento correspondiente, a fin de evitar riesgos para la salud humana, de conformidad con las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 35.
 
-La Secretaría de Salud y Bienestar Social del Estado, en coordinación con las autoridades federales competentes, municipales, ejidales y comunales correspondientes, y con la dependencia encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por los plaguicidas, substancias tóxicas y desperdicios o basuras.
+La Secretaría de Salud Jalisco, en coordinación con las autoridades federales competentes, municipales, ejidales y comunales correspondientes, y con la dependencia encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por los plaguicidas, substancias tóxicas y desperdicios o basuras.
 
 #### SECCION QUINTA. De la salud ocupacional
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 36.
 
-La Secretaría de Salud y Bienestar Social del Estado ejercerá el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales para el cumplimiento de los requisitos que deben reunir, de conformidad con lo que establezcan los reglamentos respectivos.
+La Secretaría de Salud Jalisco ejercerá el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales para el cumplimiento de los requisitos que deben reunir, de conformidad con lo que establezcan los reglamentos respectivos.
 
 ###### Art. 37.
 
@@ -495,6 +561,10 @@ Las autoridades sanitarias estatales realizarán actividades de vigilancia epide
 
 Las autoridades sanitarias estatales, en coordinación con las autoridades sanitarias federales, elaborarán programas y realizarán campañas, para el control y erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la salubridad general de la República.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Art. 39 bis. Para la coordinación de acciones y programas para la prevención y control del síndrome de la inmunodeficiencia adquirida y la infección por VIH, se integra el Consejo Estatal Contra el SIDA como un órgano desconcentrado de la Secretaría de Salud Jalisco.
+
 ###### Art. 40.
 
 Es obligatorio hacer del conocimiento de la autoridad sanitaria más cercana, la presencia de las siguientes enfermedades y en los términos que a continuación se especifican:
@@ -505,7 +575,19 @@ II. Inmediatamente, en los casos de cualquiera enfermedad que se presente en for
 
 III. Dentro de las veinticuatro horas, en los casos de enfermedades objeto de vigilancia internacional; poliomielitis, meningitis meningocóccica, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, paludismo, sarampión, tosferina, así como los de difteria y los casos de encefalitis equina venezolana en humanos, y
 
-IV. Los primeros casos individuales de las demás enfermedades transmisibles que se presenten en un área no infectada, así como los de importancia para el Estado.
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
+
+IV. Inmediatamente, de los casos en que se detecte la presencia del virus de la Inmunodeficiencia Humana (VIH) o de anticuerpos de dicho virus, en alguna persona, y
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+V. Los primeros casos individuales de las demás enfermedades transmisibles que se presenten en un área no infectada, así como los de importancia para el Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Art. 40 bis. Toda persona tiene derecho a ser informada sobre las medidas preventivas para evitar adquirir o transmitir enfermedades por contacto sexual.
+
+Las instituciones públicas de salud ofrecerán servicios de detección de enfermedades de transmisión sexual y consejería sobre la prevención de dichas enfermedades.
 
 ###### Art. 41.
 
@@ -525,21 +607,25 @@ II. El aislamiento de los enfermos por el período de transmisibilidad y la cuar
 
 III. La observación, en el grado que se requiera, de los contactos humanos y animales;
 
-IV. La aplicación de sueros, vacunas y otros recursos preventivos y terapéuticos;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+IV. La aplicación de sueros, vacunas y otros recursos preventivos y terapéuticos, siempre que la condición inmunológica del sujeto lo permita sin poner en riesgo su salud;
 
 V. La descontaminación microbiana y parasitaria, desinfección y desinfestación de zonas, habitaciones, ropas, utensilios y otros objetos expuestos a la contaminación;
 
 VI. La destrucción o control de vectores y reservorios y de fuentes de infección naturales o artificiales, cuando representen peligro para la salud;
 
-VII. La inspección de pasajeros que puedan ser portadores de gérmenes, así como la de equipajes, medios de transporte, mercancías y otros objetos que puedan ser fuentes o vehículos de agentes patógenos; y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+VII. La verificación de pasajeros que puedan ser portadores de gérmenes, así como la de equipajes, medios de transporte, mercancías y otros objetos que puedan ser fuentes o vehículos de agentes patógenos; y
 
 VIII. Las demás que determine esta Ley, sus reglamentos y la Secretaría de Salud.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 44.
 
-Las autoridades no sanitarias cooperarán en el ejercicio de las acciones para combatir las enfermedades transmisibles, adoptando las medidas resultantes de las normas técnicas que dicte la Secretaría de Salud y Bienestar Social del Estado.
+Las autoridades no sanitarias cooperarán en el ejercicio de las acciones para combatir las enfermedades transmisibles, adoptando las medidas resultantes de las normas oficiales mexicanas que dicte la Secretaría de Salud Jalisco.
 
 ###### Art. 45.
 
@@ -607,7 +693,7 @@ V. Las demás que sean necesarias para la prevención, tratamiento y control de 
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-#### SECCION PRIMERA. De los usuarios de los servicios de salud
+#### SECCION PRIMERA. Disposiciones Generales
 
 ###### Art. 57.
 
@@ -639,17 +725,41 @@ II. En el trabajo; y
 
 III. De tránsito.
 
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
-Para la mayor eficacia de las acciones a que se refiere el Artículo anterior, se creará el Consejo Estatal para la Prevención de Accidentes, del que formarán parte representantes de los sectores mencionados con antelación. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional, Estatal de Salud.
+Para la mayor eficacia de las acciones preventivas y de control de accidentes, como órgano desconcentrado de la Secretaría de Salud Jalisco, se integra el Consejo Estatal para la Prevención de Accidentes, del que forman parte representantes de los sectores público social y privado.
 
-#### SECCION SEGUNDA. De la participación de la comunidad
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los sistemas nacional y estatal de salud.
+
+#### SECCION SEGUNDA. De la comisión de arbitraje médico del Estado de Jalisco
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ### CAPITULO IV. De la atención médica
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Art. 59 bis. Para los efectos de compensar y redistribuir los costos de la atención médica de urgencia que preste el Estado, las instituciones de seguros de gastos médicos y las de seguridad social, podrán convenir con organismos del sector público el pago correspondiente por los asegurados que se atiendan en establecimientos públicos de salud.
+
+Los convenios que se suscriban en los términos del párrafo anterior podrán estipular el pago en efectivo, en especie o en servicios.
 
 ###### Art. 60.
 
 Se entiende por atención médica el conjunto de servicios que se proporcionan al individuo con el fin de promover la protección o restauración de su salud.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Los sectores público, privado y social contribuirán a ampliar la cobertura y mejorar la calidad de los servicios de atención médica.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+En los términos que determina la legislación aplicable, es obligatoria la prestación de servicios de atención médica:
+
+I. En el caso de urgencias; entendiéndose por tal, todo problema médico-quirúrgico agudo, que ponga en peligro la vida, un órgano o una función y que requiera atención inmediata; y
+
+II. Cuando se trate del ejercicio de la acción extraordinaria de salubridad general, en los términos que determina la Ley General de Salud.
 
 ###### Art. 61.
 
@@ -661,6 +771,10 @@ II. Curativas, que tiene como fin efectuar un diagnóstico temprano y proporcion
 
 III. De rehabilitación, que incluyen acciones tendientes a corregir las invalideces físicas y mentales.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Art. 61 bis. Como instancia de coordinación de acciones de los sectores público, privado y social, para la prevención y abatimiento de las enfermedades bucodentales de mayor incidencia y prevalencia se integra la Comisión Interinstitucional de Salud Bucodental.
+
 ### CAPITULO V. De la atención materno-infantil
 
 ###### Art. 62.
@@ -671,13 +785,23 @@ I. La atención de la mujer durante el embarazo, el parto y el puerperio;
 
 II. La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna; y
 
-III. La promoción de la integración y el bienestar familiar.
+III. La promoción de la integración y el bienestar familiar;
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
+
+IV. La información a la mujer, sobre la infección por el Virus de la Inmunodeficiencia Humana (VIH), haciendo de su conocimiento las ventajas de una detección oportuna, y
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
+
+V. La atención médica de las mujeres embarazadas y de los niños que viven con VIH.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 63.
 
-En la realización de acciones tendientes a la prevención de la mortalidad materno-infantil, los Sistemas para el Desarrollo integral de la Familia, Estatal y Municipales, observarán las instrucciones que, sobre esta materia, reciban de la Secretaría de Salud y Bienestar Social del Estado.
+En la realización de acciones tendientes a la prevención de la mortalidad materno-infantil, los sistemas para el desarrollo integral de la familia, estatal y municipales, observarán las instrucciones que, sobre esta materia, reciban de la Secretaría de Salud Jalisco.
+
+En los establecimientos en que se presten servicios de atención médica materno-infantil se formarán los comités hospitalarios que determinen las Normas Oficiales Mexicanas aplicables, especialmente los destinados a prevenir la mortalidad materna y perinatal.
 
 ###### Art. 64.
 
@@ -691,19 +815,31 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 Las autoridades estatales sanitarias, educativas y laborales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
 
-I. Los programas para padres, destinados a promover la atención materno-infantil;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+I. Los programas para padres, destinados a promover la atención materno-infantil y abatir la violencia intrafamiliar;
 
 II. Las actividades recreativas, de esparcimiento y culturales, destinadas a fortalecer el núceo (sic) familiar y a promover la salud física y mental de sus integrantes;
 
 III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas, y
 
-IV. Las demás que coadyuven a la protección de la salud materno-infantil.
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
+
+IV. El establecimiento de programas de información y sensibilización, adecuados a la capacidad de los destinatarios, respecto de los medios de transmisión del VIH, y sus formas de prevención;
+
+V. Las demás que coadyuven a la protección de la salud materno-infantil.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 67.
 
-En materia de higiene escolar, corresponde al Gobierno del Estado establecer las normas técnicas para proteger la salud del educando y de la comunidad escolar de los centros educativos, dependientes o incorporados al Estado. Las autoridades educativas y sanitarias estatales se coordinarán para la aplicación de las mismas.
+En materia de higiene escolar, corresponde al Gobierno del Estado establecer las normas oficiales mexicanas para proteger la salud del educando y de la comunidad escolar de los centros educativos, dependientes o incorporados al Estado. Las autoridades educativas y sanitarias estatales se coordinarán para la aplicación de las mismas.
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades estatales sanitarias y educativas competentes.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Las autoridades educativas y sanitarias promoverán el establecimiento de módulos de salud en los centros escolares de educación básica y media básica para la prestación del paquete básico de servicios de salud.
 
 ### CAPITULO VI. De los servicios de planificación familiar
 
@@ -715,7 +851,9 @@ Los servicios de planificación familiar tienen carácter prioritario, aquellos 
 
 Los servicios de planificación familiar comprenden:
 
-I. La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar y educación sexual con base en objetivos y estrategias que establezcan los Consejos Nacional y Estatal de Población;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+I. La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar, educación sexual y prevención de la infección por VIH y otras enfermedades de transmisión sexual, con base en objetivos y estrategias que establezcan los consejos nacional y estatal de población;
 
 II. La atención y vigilancia de los aceptantes y usuarios de los servicios de planificación familiar; y
 
@@ -745,15 +883,19 @@ Para los efectos del párrafo anterior se consideran como factores y causas que 
 
 Para la promoción de la salud mental, la Secretaría de Salud y Bienestar Social del Estado, impulsará la coordinación entre el organismo estatal que atienda o maneje la asistencia social y las instituciones de salud, con las autoridades competentes, en cada materia, para fomentar y apoyar:
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
 
-I. El desarrollo de actividades educativas, socioculturales y recreativas, que contribuyan a la salud mental, preferentemente de la infancia, sin menoscabo de la atención que amerite la población adulta y senescente;
+I. La planeación, realización y evaluación de actividades educativas, socioculturales, recreativas, productivas y ocupacionales que contribuyan a la salud mental y al desarrollo físico, psicológico y social del individuo y la comunidad, preferentemente en beneficio de la infancia y la juventud y sin menoscabo de la atención que amerite la población adulta y senescente;
 
 > <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1999)</small>
 
 II. La difusión de las orientaciones para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras que puedan causar alteraciones mentales o dependencia, incrementando las campañas en el ámbito de la población de mayor riesgo; y
 
-III. Las demás acciones que, directa o indirectamente, contribuyan al fomento de la salud mental de la población.
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
+
+III. La prestación de servicios de apoyo psicológico, individual y grupal, a las personas que viven con VIH/SIDA y otras enfermedades que afecten o puedan afectar la salud mental, y
+
+IV. Las demás acciones que, directa o indirectamente, contribuyan al fomento de la salud mental de la población.
 
 ###### Art. 74.
 
@@ -765,21 +907,25 @@ I. La atención de personas con padecimientos mentales; el tratamiento y la reha
 
 II. La organización, operación y supervisión de instituciones públicas, sociales o privadas dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
 
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
-La realización de las acciones a que se refiere el presente capítulo, estarán a cargo del Instituto Jalisciense de Salud Mental.
+La prestación de servicios de salud mental deberá ser integral e incluirá actividades de medicina preventiva, curativa, de rehabilitación y reinserción social, sujetándose a lo dispuesto por el Reglamento de la Ley General de Salud y las Normas Oficiales Mexicanas aplicables para la Prestación de Servicios de Atención Médica.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 75.
 
-El Ejecutivo del Estado, conforme a las normas técnicas básicas que establezca la Secretaría de Salud, prestará atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental.
+El Ejecutivo del Estado, conforme a las normas oficiales mexicanas que establezca la Secretaría de Salud, prestará atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales o especializadas en salud mental.
 
 Al efecto, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 76.
 
-El internamiento de personas con padecimientos mentales en establecimientos destinados a tal efecto, se ajustará a los requisitos científicos y legales que determine la Secretaría de Salud y Bienestar Social y las disposiciones legales aplicables, así como a principios éticos y sociales.
+El internamiento de personas con padecimientos mentales en establecimientos destinados a tal efecto, se ajustará a los requisitos científicos y legales que determine la Secretaría de Salud Jalisco.
+
+No podrá negarse el acceso a los servicios de salud a que se refiere el párrafo anterior por la sola razón de padecer enfermedad infectocontagiosa.
 
 ###### Art. 77.
 
@@ -805,21 +951,49 @@ Para los efectos de esta Ley, se entiende por asistencia social el conjunto de a
 
 El Gobierno del Estado contará con un organismo que tendrá entre sus objetivos, en coordinación con el organismo federal encargado de la asistencia social, la promoción de ésta en el ámbito estatal, la prestación de servicios en ese campo y la realización de las demás acciones que establezcan las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Art. 80 bis. Las personas con discapacidad como sujetos de asistencia social prioritaria recibirán en el Sistema Estatal de Salud los servicios de atención médica que correspondan conforme al nivel de atención y posibilidades de resolución de los establecimientos de salud.
+
+La prevención de la discapacidad, habilitación y rehabilitación de discapacitados comprende:
+
+I. La investigación de las causas de la discapacidad y de los factores que la condicionan;
+
+II. La promoción de la participación de la comunidad en la prevención y control de las causas condicionantes de la discapacidad;
+
+III. La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales que pueden causar discapacidad;
+
+IV. La orientación educativa en materia de rehabilitación a la colectividad en general y a las familias de personas con discapacidad en particular;
+
+V. La atención integral de las personas con discapacidad, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que éstos requieran;
+
+VI. La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con discapacidad, y
+
+VII. La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de habilitación o rehabilitación.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Art. 80 ter. La atención médica que se preste a los adultos mayores deberá cumplir con los criterios establecidos en el Código de Asistencia Social del Estado, las Normas Oficiales Mexicanas y demás disposiciones legales aplicables, e incluirá programas educativos y de promoción de la salud.
+
 ### CAPITULO X. De la disponibilidad de medicamentos y otros insumos
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 81.
 
-El Gobierno del Estado, de conformidad con las disposiciones legales aplicables, vigilará que las instituciones que presten servicios de salud en la entidad, apliquen el Cuadro Básico de Insumos del Sector Salud. Asimismo, convendrá con el Gobierno Federal los términos en que las entidades públicas del Estado que presten servicios de salud, puedan participar en la elaboración del mencionado Cuadro Básico.
+El Gobierno del Estado, de conformidad con las disposiciones legales aplicables, vigilará que las instituciones que presten servicios de salud en la entidad, apliquen el cuadro básico de insumos del sector salud.
+
+El Ejecutivo Estatal celebrará los convenios y acuerdos de coordinación con la Federación a efecto de promover la participación de las entidades públicas estatales que presten servicios de salud en la elaboración del cuadro básico de insumos, conforme a las disposiciones que al efecto dicte el Consejo de Salubridad General.
 
 ###### Art. 82.
 
 El Gobierno del Estado coadyuvará con las autoridades federales competentes, para que se garantice a la población la disponibilidad de medicamentos esenciales.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 83.
 
-La Secretaría de Salud y Bienestar Social del Estado coadyuvará con las entidades públicas correspondientes, para que los establecimientos de los sectores público, social y privado, dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a lo que al efecto establezcan las leyes aplicables.
+La Secretaría de Salud Jalisco coadyuvará con las entidades públicas correspondientes, para que los establecimientos de los sectores público, social y privado, dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a lo que al efecto establezcan las leyes aplicables.
 
 ###### Art. 84.
 
@@ -827,9 +1001,9 @@ El Gobierno del Estado, en coordinación con las dependencias competentes del Ej
 
 ### CAPITULO XI. De los prestadores de los servicios de salud
 
-#### SECCION PRIMERA. Disposiciones Generales
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+#### SECCION PRIMERA. De los usuarios de los servicios de salud
 
 ###### Art. 85.
 
@@ -847,21 +1021,279 @@ IV. Otros que se presten de conformidad con lo que establezca la autoridad sanit
 
 Son servicios públicos a la población en general, los que se proporcionen en establecimientos públicos de salud a los habitantes del Estado, que así lo requieran, regidos por criterios de universalidad y de gratuidad, fundados en las condiciones socioeconómicas de los usuarios.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Los prestadores de servicios públicos de salud cumplirán, en la atención de los usuarios, con los criterios de calidad y oportunidad que se establecen en las Normas Oficiales Mexicanas.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 87.
 
-Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud, se ajustarán a lo que disponga la legislación fiscal del Estado y al convenio de coordinación que se celebre con el Ejecutivo Federal.
+Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud, se ajustarán a lo que disponga la legislación fiscal del Estado y los acuerdos de coordinación con el Ejecutivo Federal y deberán ser en términos reales lo más moderadas que sea posible.
 
 ###### Art. 88.
 
 Para la determinación de las cuotas de recuperación, se tomará en cuenta el costo de los servicios y las condiciones socioeconómicas del usuario. Se fundarán en principios de solidaridad social, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas o en las zonas de menor desarrollo económico y social, conforme a las disposiciones legales que al efecto emita el Gobierno del Estado.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Se consideran sujetos preferentes de exención a los grupos vulnerables.
+
 ###### Art. 89.
 
 Son servicios de salud de carácter social los que preste directamente o mediante la contratación de seguros individuales o colectivos, los grupos y organizaciones sociales a sus miembros y a los beneficiarios de los mismos.
 
-#### SECCION SEGUNDA. Del Consejo Estatal de Transplante de Organos y Tejidos
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+Art. 89 bis. Son servicios de salud privados los que presten personas físicas o jurídicas en las condiciones que convengan con los usuarios, y sujetas a los ordenamientos legales, civiles y mercantiles. En materia de tarifas, se estará a lo dispuesto en la Ley General de Salud.
+
+Conforme lo determina el Reglamento de la Ley General de Salud en materia de Servicios de Atención Médica, las tarifas autorizadas deberán fijarse en lugar visible al público dentro de los establecimientos.
+
+En beneficio de los grupos vulnerables, el Ejecutivo Estatal, por conducto de la Secretaría de Salud Jalisco, podrá acordar con personas físicas y jurídicas que presten servicios de salud privados, el establecimiento de:
+
+I. Prestación de servicios gratuitos;
+
+II. Tarifas inferiores a las determinadas por la Secretaría de Comercio y Fomento Industrial; y
+
+III. Prestación de servicios subrogados de atención médica a población abierta, mediante el pago, por parte del Estado, de un subsidio.
+
+#### SECCION SEGUNDA. De la participación de la comunidad
+
+###### Art. 91-A.
+
+La Comisión de Arbitraje Médico del Estado de Jalisco se integra como un organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, dotado de plena autonomía para la efectiva realización de sus facultades de planeación, organización y eficiente funcionamiento y para el correcto ejercicio de su presupuesto en términos de la legislación aplicable.
+
+Para los efectos de esta sección, cuando se utilice el término Comisión se estará haciendo referencia a la Comisión de Arbitraje Médico del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+###### Art. 91-B.
+
+La Comisión tendrá por objeto difundir, asesorar, proteger y defender los derechos de los usuarios y prestadores de servicios de atención médica, promoviendo la equidad en sus funciones de conciliación y arbitraje en los asuntos que se sometan a su conocimiento.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+###### Art. 91-C.
+
+La Comisión tendrá las siguientes atribuciones:
+
+I. Realizar labores de divulgación, orientación, apoyo y asesoría en materia de derechos y obligaciones de los usuarios y prestadores de servicios de salud, así como orientarles sobre las acciones civiles y penales que les puedan corresponder por responsabilidad profesional, por daño patrimonial o moral o cualesquiera otras que pudieran presentarse.
+
+La presentación de quejas deja a salvo los derechos de los usuarios y prestadores de servicios de salud para ejercer las acciones respectivas. Para tal fin, la Comisión estará obligada a entregar copias de todo lo actuado, a costa del solicitante que sea parte en el procedimiento de arbitraje o conciliación;
+
+II. Impulsar la formación y fortalecimiento de la cultura de respeto a los derechos de los usuarios;
+
+III. Recibir, atender e investigar las quejas que presenten los interesados, por la posible irregularidad o negativa injustificada en la prestación de servicios de atención médica;
+
+IV. Investigar la veracidad de los actos y omisiones que sean materia de las quejas planteadas, para lo cual, la Comisión podrá recibir toda la información y pruebas que aporten los profesionales, técnicos y auxiliares de la salud directamente involucrados, los usuarios y las instituciones prestadoras de servicio, y requerir aquellas otras que sean necesarias para dilucidar tales quejas, así como practicar las diligencias que correspondan;
+
+V. Intervenir en amigable composición para conciliar conflictos derivados de la prestación de servicios médicos por alguna de las causas que se mencionan:
+
+a. Probables hechos y omisiones, de usuarios y prestadores, derivados de la prestación del servicio de atención médica; y
+
+b. Probables casos de negligencia, imprudencia, impericia o inadvertencia, con consecuencia sobre la salud del usuario.
+
+Para tal fin la Comisión podrá formular propuestas de conciliación de manera que se busque la solución pronta del conflicto planteado en beneficio de las partes;
+
+VI. Fungir como árbitro y pronunciar los laudos que correspondan cuando las partes se sometan expresamente al arbitraje;
+
+VII. Emitir sugerencias para el mejoramiento de la prestación de los servicios de salud y opiniones técnicas cuando sean necesarias para la substanciación de las quejas a que atienda.
+
+Para la emisión de las opiniones técnicas deberá auxiliarse en la consulta a los Colegios de profesionistas en salud y los demás que se requieran según la naturaleza del caso;
+
+VIII. Hacer del conocimiento del órgano de control competente, la negativa expresa o tácita de un servidor público de proporcionar la información que le hubiere solicitado la Comisión, en ejercicio de sus atribuciones;
+
+IX. Hacer del conocimiento de las autoridades competentes, y de los colegios, academias, asociaciones y consejos de médicos, así como de los comités de ética u otros similares, la negativa expresa o tácita de los prestadores de servicios, de proporcionar la información que le hubiere solicitado la Comisión;
+
+X. Orientar a los usuarios y autoridades, respecto de los Colegios de Profesionistas e Instituciones de Educación Superior a los que podrán presentar sus solicitudes de dictámenes o peritajes médicos;
+
+XI. Celebrar convenios, contratos y acuerdos con los sectores público, privado y social necesarios para su operación;
+
+XII. Sugerir, a su coordinadora de sector, anteproyectos de reformas, modificaciones, actualizaciones o adecuaciones al marco normativo legal y reglamentario en materia de derechos y obligaciones de los usuarios y prestadores de servicios de atención médica;
+
+XIII. Administrar sus recursos humanos, así como los materiales y financieros que conformen su patrimonio, con sujeción a las disposiciones legales aplicables; y
+
+XIV. Las demás que le confieran las disposiciones jurídicas y administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+###### Art. 91-D.
+
+Para el cumplimiento de sus funciones, la Comisión contará con:
+
+I. Un Consejo;
+
+II. Un Comisionado;
+
+III. Dos Subcomisionados; y
+
+IV. Las unidades administrativas que determine su Reglamento Interno.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+###### Art. 91-E.
+
+El Consejo se integrará por:
+
+I. El Comisionado;
+
+II. Un representante de la Asociación Médica de Jalisco, Colegio Médico A.C.;
+
+III. Un representante por la Federación Jalisciense de Colegios, Asociaciones y Academias de Profesionistas;
+
+IV. Un representante de la Federación de Colegios de Profesionistas del Estado de Jalisco;
+
+V. Un representante del Consejo Coordinador de Colegios de Profesionistas;
+
+VI. Un representante de la Universidad de Guadalajara;
+
+VII. Un representante de la Universidad Autónoma de Guadalajara;
+
+VIII. Un representante de la Secretaría de Salud Jalisco.
+
+La designación de consejeros deberá recaer en personas de reconocida solvencia moral y profesional. Los consejeros referidos en las fracciones III, IV, V, VI, VII y VIII, deberán además tener el carácter de profesionistas médicos. El cargo de consejero será honorífico y por tanto no remunerado, excepto en el caso del Comisionado.
+
+Podrán ser invitados con derecho a voz un representante del Instituto Mexicano del Seguro Socia (sic) y uno del Instituto de Seguridad y Servicio Social de los Trabajadores del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+###### Art. 91-F.
+
+El Consejo sesionará ordinariamente, por lo menos una vez cada dos meses, extraordinariamente cada que se requiera por convocatoria del Comisionado y celebrará una sesión especial anual para la aprobación del Programa Operativo Anual. Las decisiones se tomarán por mayoría de votos, en caso de empate el Comisionado tendrá voto de calidad.
+
+El Consejo tendrá las siguientes funciones:
+
+I. Definir, en congruencia con los planes y programas nacionales y estatales, las políticas de administración y de servicios, a seguir por la Comisión;
+
+II. Examinar, discutir y aprobar, en su caso, los programas y planes de trabajo y los proyectos de presupuesto;
+
+III. Recibir y aprobar los informes de actividades, ejercicio del presupuesto y estados financieros;
+
+IV. Evaluar los resultados de los programas y planes de trabajo, con base en los informes recibidos, y trazar directrices para mejorar el desempeño de la Comisión;
+
+V. Vigilar la correcta aplicación de los recursos asignados a la Comisión;
+
+VI. Revisar la estructura orgánica básica de la Comisión, y proponer al titular del Ejecutivo del Estado para su aprobación, las modificaciones que juzgue convenientes;
+
+VII. Aprobar su reglamento interior de sesiones, y el Manual de Organización de la Comisión;
+
+VIII. Proponer al Ejecutivo Estatal, por conducto de su coordinadora de sector, modificaciones al Reglamento Interior de la Comisión;
+
+IX. Autorizar la adquisición o la enajenación de sus bienes inmuebles, siempre y cuando exista justificación para ello, y otorgar poderes especiales para actos de dominio al Comisionado; y
+
+X. Las demás que sean necesarias para el adecuado ejercicio de las señaladas en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+###### Art. 91-G.
+
+El Comisionado será nombrado por el Ejecutivo Estatal de entre una terna propuesta por el Consejo, y tendrá las siguientes atribuciones:
+
+I. Representar a la Comisión en los asuntos que se deriven de las funciones de la misma;
+
+II. Ejecutar los acuerdos y resoluciones que emita el Consejo;
+
+III. Nombrar y remover a los servidores públicos de la Comisión, así como expedir sus nombramientos, conforme a la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios;
+
+IV. Nombrar apoderados para actos de administración y para pleitos y cobranzas, conforme a las disposiciones vigentes aplicables;
+
+V. Delegar, en sus subalternos cualesquiera de sus facultades, salvo aquellas que esta Ley y sus reglamentos dispongan que deberán ser ejercidas directamente por él;
+
+VI. Proponer al Consejo las políticas de administración y de servicios de la Comisión;
+
+VII. Vigilar el cumplimiento del objeto de la Comisión;
+
+VIII. Presentar al Consejo para su aprobación, los planes de trabajo, informes de actividades y estados financieros anuales del Organismo;
+
+IX. Formular el anteproyecto de Programa Operativo Anual y Presupuesto de la Comisión, y someterlo a la consideración del Consejo;
+
+X. Instrumentar los sistemas y procedimientos que permitan la mejor aplicación de los recursos;
+
+XI. Realizar tareas de difusión relacionadas con el objeto de la Comisión;
+
+XII. Suscribir los contratos necesarios para la operación de la Comisión, una vez que se hubieren cumplido los procedimientos de adjudicación correspondientes, con estricto apego a la Ley de Adquisiciones y Enajenaciones del Estado, la Ley de Obras Públicas del Estado, la Ley de Presupuesto, Contabilidad y Gasto Público Estatal y demás ordenamientos jurídicos aplicables;
+
+XIII. Suscribir los acuerdos o convenios de coordinación, concertación y colaboración, con dependencias y entidades del sector público y con organismos del sector privado y social;
+
+XIV. Planear y dirigir técnica y administrativamente el funcionamiento de la Comisión;
+
+XV. Presentar al Ejecutivo Estatal, un informe anual de las actividades realizadas y de los resultados obtenidos, acompañando los informes específicos que se le requieran, y
+
+XVI. Las demás que el Consejo, esta Ley y otras disposiciones legales le confieran.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+###### Art. 91-H.
+
+El Comisionado durará en su encargo un periodo de cuatro años y podrá reelegirse por una sola ocasión.
+
+Para ser nombrado Comisionado se requiere:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles y tener por lo menos cinco años de residencia en el Estado;
+
+II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
+
+III. Tener título legalmente expedido y registrado de licenciatura en medicina o derecho, con por lo menos diez años de ejercicio profesional en el área de salud, en activo al momento de su designación;
+
+IV. Haberse distinguido por su probidad, competencia y antecedentes profesionales en el ejercicio de las actividades que se vinculen a las atribuciones de la Comisión;
+
+V. No haber sido condenado, por sentencia ejecutoriada, por delito intencional; y
+
+VI. No desempeñar ningún cargo directivo de carácter público al momento de su designación.
+
+A partir del momento de su designación el Comisionado deberá abstenerse de ejercer cargo, comisión o empleo en los sectores público, privado o social, con excepción de la docencia.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+###### Art. 91-I.
+
+Para auxiliar al Comisionado en el ejercicio de las responsabilidades que le corresponden, contará con el apoyo de dos Subcomisionados de igual jerarquía:
+
+I. Un médico, y
+
+II. Un abogado.
+
+Los Subcomisionados deberán reunir los mismos requisitos de elegibilidad que el Comisionado.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+###### Art. 91-J.
+
+Corresponde a los Subcomisionados el ejercicio de las siguientes facultades:
+
+I. Auxiliar al Comisionado, dentro del ámbito de su competencia, en el ejercicio de sus atribuciones;
+
+II. Desempeñar los encargos que el Comisionado les encomiende;
+
+III. Representar a la Comisión en los actos que su Titular determine por acuerdo expreso;
+
+IV. Acordar con el Comisionado los asuntos de su unidad administrativa;
+
+V. Planear, programar, organizar, dirigir y evaluar las actividades de su unidad administrativa, conforme a las instrucciones del Comisionado;
+
+VI. Proporcionar la información que solicite el Comisionado;
+
+VII. Coordinarse entre sí para el mejor despacho de los asuntos competencia de la Comisión;
+
+VIII. Vigilar que se cumpla con las disposiciones aplicables en los asuntos de su competencia; y
+
+IX. Las demás que las disposiciones legales y reglamentarias le confieran de manera personal y directa.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+###### Art. 91-K.
+
+El procedimiento para la resolución de controversias será público, gratuito, inmediato, predominantemente oral y se iniciará a instancia de parte.
+
+Los procedimientos de arbitraje y amigable composición se sujetarán al Reglamento de Procedimientos para la Atención de Quejas que al efecto se expida.
+
+El arbitraje, en lo conducente, se sujetará a los numerales 730, 732, 739, 740, 742, 743, 744, 745, 746, 747, 748, 749, 750, 751, 752, 753, 754, 755, 756 y 757 del Código de Procedimientos Civiles del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+###### Art. 91-L.
+
+La estructura orgánica interna de la Comisión será la que fije su Reglamento Interior.
 
 ###### Art. 90.
 
@@ -869,7 +1301,7 @@ El Ejecutivo Estatal y los Ayuntamientos podrán convenir con las instituciones 
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
 
-#### SECCION TERCERA. Del Registro Estatal de Donadores
+#### SECCION PRIMERA. Disposiciones Generales
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
@@ -877,15 +1309,21 @@ El Ejecutivo Estatal y los Ayuntamientos podrán convenir con las instituciones 
 
 La Secretaría de Salud y Bienestar Social del Estado, en coordinación con la Dirección de Profesiones, vigilará el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos procurando la coordinación con las autoridades educativas, estatales y federales.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 13 DE MARZO DE 2001)</small>
+
 ### CAPITULO XII. De los usuarios de los servicios de salud y participación de la comunidad
 
-#### SECCION CUARTA. De la Participación Social
+#### SECCION SEGUNDA. Del consejo estatal de trasplantes
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 92.
 
 Para los efectos de esta Ley, se considera usuario de los servicios de salud, a toda persona que requiera y obtenga, los que presten los sectores públicos, social y privado, en las condiciones y conforme a las bases que, para cada modalidad, se establezcan en esta Ley y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+La prestación de los servicios de atención médica, deberá respetar en todo momento los derechos de los usuarios.
 
 ###### Art. 93.
 
@@ -895,15 +1333,23 @@ Los usuarios tienen derecho a obtener servicios de salud con oportunidad y a rec
 
 Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud, y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 95.
 
-La Secretaría de Salud y Bienestar Social del Estado establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos de la población en general y a los servicios sociales y privados.
+La Secretaría de Salud Jalisco establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos de la población en general y a los servicios sociales y privados.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 96.
 
-Las autoridades sanitarias del Estado e instituciones de salud, establecerán sistemas de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como los mecanismos para que presenten sus quejas, reclamaciones o sugerencias respecto de su prestación por parte de los servidores públicos.
+Las autoridades sanitarias del Estado e instituciones de salud, establecerán:
+
+I. Sistemas de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran;
+
+II. Procedimientos para la presentación de quejas, reclamaciones o sugerencias respecto de la prestación de servicios de atención médica por parte de los servidores públicos, y
+
+III. Mecanismos alternativos de solución de controversias, mediante el arbitraje y la conciliación, que se sujetarán a lo dispuesto en la presente Ley.
 
 ###### Art. 97.
 
@@ -913,7 +1359,9 @@ Las personas e instituciones públicas o privadas que tengan conocimiento de acc
 
 De conformidad con las disposiciones legales aplicables, los Agentes del Ministerio Público o quienes ejerzan sus funciones que reciban informes o denuncias sobre personas que requieran de servicios de salud de urgencia, deberán disponer que las mismas sean trasladadas de inmediato al establecimiento de salud más cercano.
 
-#### SECCION PRIMERA. Del servicio social de los pasantes
+#### SECCION TERCERA. Del Registro Estatal de Donadores
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 99.
 
@@ -935,23 +1383,41 @@ V. Formulación de sugerencias para mejorar los servicios de salud;
 
 VI. Información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de los servicios de salud; y
 
-VII. Otras actividades que coadyuven a la protección de la salud.
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+VII. Información a las autoridades sanitarias a cerca (sic) de efectos secundarios y reacciones adversas por el uso de medicamentos y otros Insumos para la salud o por el uso, desvío o disposición final de substancias tóxicas o peligrosas y sus desechos, y
+
+VIII. Otras actividades que coadyuven a la protección de la salud.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 101.
 
-Las Secretarías de Promoción y Desarrollo Económico y de Salud y Bienestar Social del Estado, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar, organizadamente, en los programas de promoción y mejoramiento de la salud individual o colectiva, así como los de prevención de enfermedades y accidentes; de invalidez y rehabilitación de inválidos.
+Las secretarías de Promoción y Desarrollo Económico y de Salud de Jalisco, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar, organizadamente, en los programas de promoción y mejoramiento de la salud individual o colectiva, así como los de prevención de enfermedades y accidentes; de invalidez y rehabilitación de inválidos.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 102.
 
-Con sujeción a la Ley Orgánica Municipal, en las Cabeceras, Delegaciones y Agencias Municipales, podrán constituirse Comités de Salud, que tendrán como objetivo participar en el mejoramiento y Vigilancia de los servicios de salud de su localidad y promover la mejoría de las condiciones ambientales que favorezcan la salud de la población.
+Con sujeción a la Ley Orgánica Municipal, en cada Municipio, delegación o agencia podrá constituirse un consejo municipal o comité, según sea el caso, que tendrán como objetivos fomentar una cultura orientada a la salud, coadyuvar al mejoramiento, vigilancia y prestación de los servicios de salud de su localidad, y promover la preservación de condiciones ambientales que favorezcan a la salud pública.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 103.
 
-Corresponderá a los Cabildos Municipales, en coordinación con las Secretarías de Promoción y Desarrollo Económico y de Salud y Bienestar Social del Estado, la organización de los comités a que se refiere el artículo anterior, y la vigilancia en el cumplimiento de los fines para los que sean creados.
+Corresponderá a los ayuntamientos, en coordinación con las entidades y dependencias competentes en las materias de planeación del desarrollo, y de salud, la planeación, autorización, constitución y organización de los consejos a que se refiere el artículo anterior.
+
+Los consejos municipales de salud realizarán las siguientes funciones:
+
+I. Elaborar en su ámbito, el diagnóstico municipal de salud;
+
+II. Identificar las prioridades en materia de salud, en el ámbito municipal;
+
+III. Elaborar y ejecutar proyectos de intervención para la solución de los problemas identificados como prioritarios, y
+
+IV. Apoyar la integración y vigilar el funcionamiento de los comités de salud que, en su caso, se constituyan en las delegaciones y agencias municipales.
+
+La evaluación del funcionamiento de los consejos municipales de salud y la vigilancia en el cumplimiento de sus fines se realizará por las autoridades sanitarias del Estado en base a los programas autorizados al efecto.
 
 ###### Art. 104.
 
@@ -965,7 +1431,9 @@ La acción popular podrá ejercitarse por cualquiera persona, bastando para darl
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE JUNIO DE 1999)</small>
 
-#### SECCION SEGUNDA. Del servicio social profesional
+#### SECCION CUARTA. De la Participación Social
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
 ###### Art. 104-A.
 
@@ -985,147 +1453,243 @@ Asimismo, las autoridades sanitarias estatales procurarán el apoyo y la coordin
 
 Es de interés público en el Estado de Jalisco, el promover la cultura de donación entre la población, como forma esencialmente humanista y de solidaridad entre los individuos, en virtud de que representa una alternativa para recobrar la salud de las personas.
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 104-D.
 
-El Gobierno del Estado, a través del Titular del Poder Ejecutivo, garantizará mecanismos eficaces que por una parte, aseguren el respeto a la voluntad de los individuos que hayan determinado donar sus órganos y tejidos en los términos establecidos en la legislación sanitaria y en el Código Civil para el Estado de Jalisco, y por la otra, el que las instituciones de salud acreditadas y certificadas legalmente para ello, puedan realizar los procedimientos de transplante con fines terapéuticos, en forma oportuna y adecuada en beneficio de los pacientes.
+El Gobierno del Estado, a través del Titular del Poder Ejecutivo, garantizará mecanismos eficaces para:
+
+I. Asegurar el respeto a la voluntad de los individuos que expresamente hayan determinado donar sus órganos y tejidos en los términos de la legislación aplicable;
+
+II. Promover que las instituciones de salud acreditadas y certificadas legalmente para ello, puedan realizar los procedimientos de trasplante con fines terapéuticos, en forma oportuna y adecuada en beneficio de los usuarios de los servicios de salud, y
+
+III. Colaborar en la vigilancia sanitaria de los trasplantes, fomentando la coordinación entre las autoridades sanitarias a que se refiere esta Ley.
 
 Las autoridades estatales que intervengan en los diversos procedimientos de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, actuarán con la debida diligencia que ameritan estos casos, y auxiliarán en el ágil desahogo de los trámites que por ley deben cubrirse.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 104-E.
 
-El Consejo Estatal de Transplante, es el organismo público del Poder Ejecutivo del Estado, que tiene a su cargo el apoyar, coordinar, promover, consolidar e implementar las diversas acciones y programas, en materia de la disposición de órganos y tejidos de seres humanos con fines terapéuticos.
+El Consejo Estatal de Trasplantes, es el organismo público descentralizado del Poder Ejecutivo del Estado, que tiene a su cargo apoyar, coordinar, promover, consolidar e implementar las diversas acciones y programas, en materia de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, así como decidir y vigilar la asignación de órganos y tejidos en los términos que determina la legislación aplicable.
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 104-F.
 
-El Consejo Estatal de Transplantes se integrará en forma permanente por:
+El Consejo Estatal de Trasplantes se integrará en forma permanente por:
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
 
 I. El Gobernador del Estado, quien será su "Presidente Honorario";
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
+
 II. El Secretario de Salud, quien fungirá como "Presidente Ejecutivo";
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
 
 III. El Director General de Regulación Sanitaria de la Secretaría de Salud, quien será su "Coordinador General";
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
+
 IV. El Secretario de Educación, como "vocal";
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
 
 V. El Procurador de Justicia, como "vocal";
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
+
 VI. El Presidente de la Comisión de Higiene y Salud Pública del Congreso del Estado, como "vocal";
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
 
 VII. Los rectores de las Universidades de Guadalajara y Autónoma de Guadalajara, como "vocales";
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
+
 VIII. El Director General, del Organismo Público Descentralizado Hospital Civil de Guadalajara, como "vocal";
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
 
 IX. El Presidente del Colegio de Notarios del Estado, como "vocal";
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
+
 X. El Director Regional Occidente del Instituto Mexicano del Seguro Social, como "vocal";
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
 
 XI. El Delegado del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado, como "vocal"; y
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
+
 XII. El Presidente de la Asociación de Hospitales Particulares de la Entidad, como "vocal".
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 104-G.
 
-El Presidente Ejecutivo del Consejo Estatal de Transplantes, designará al Secretario Técnico del propio Consejo, el cual tendrá las responsabilidades que le señale el Reglamento Interior del Consejo Estatal de Transplantes y coordinará los trabajos del Comité Técnico de Transplantes.
+El Presidente Ejecutivo del Consejo Estatal de Trasplantes, designará al Secretario Técnico del propio Consejo, el cual tendrá las responsabilidades que le señale el Reglamento Interior del Consejo Estatal de Transplantes y coordinará los trabajos del Comité Técnico de Transplantes.
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 104-H.
 
-El Consejo Estatal de Transplante sesionará conforme lo establezca su reglamento interior.
+El Consejo Estatal de Trasplantes sesionará conforme lo establezca su reglamento interior.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
 El Presidente Ejecutivo podrá ser suplido en las sesiones por el Coordinador General.
 
-Por cada vocal propietario, se designará a un suplente que lo sustituirá durante sus faltas temporales.
-
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
-#### SECCION PRIMERA. Del programa contra el alcoholismo y el abuso de bebidas alcohólicas
+Por cada vocal propietario, se designará a un suplente que lo sustituirá durante sus faltas temporales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
+
+#### SECCION PRIMERA. Del servicio social de los pasantes
 
 ###### Art. 104-I.
 
-El Consejo Estatal de Transplante, tendrá a su cargo las atribuciones siguientes:
+El Consejo Estatal de Trasplantes, tendrá a su cargo las atribuciones siguientes:
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
 
 I. Diseñar, instrumentar, operar y dirigir el Sistema Estatal de Transplante;
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
+
 II. Elaborar y aplicar el Programa Estatal de Transplante;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
 
 III. Mantener comunicación y coordinación con el Consejo Nacional de Transplante, a efecto de emprender acciones de complementación y colaboración con las acciones del Registro Nacional de Transplante;
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
+
 IV. Proporcionar información y colaborar con las acciones del Registro Nacional de Transplantes;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
 
 V. Dictar medidas y lineamientos generales, para una mejor operación, al Registro Estatal de Donadores del Estado de Jalisco; y colaborar con las instituciones y autoridades competentes, a fin de que se respete con eficacia la voluntad de las personas que han decidido donar sus órganos y tejidos, en los términos previstos en el Código Civil para el Estado de Jalisco;
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
+
 VI. Llevar el Registro de Receptores o sujetos susceptibles a trasplante, que se integrará en forma sistemática y cronológica de acuerdo con su presentación, con los casos que obligadamente, cada una de las instituciones de salud integrantes del propio Consejo proporcionen e inscriban;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
 
 VII. Expedir en cada caso inscrito de receptor o sujeto susceptible a trasplante, al propio interesado, su cédula que certifique su lugar progresivo en el registro y la fecha de su incorporación;
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
+
 VIII. Promover a través de actividades de educación, investigación, información y difusión, una cultura de donación entre la población;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
 
 IX. Fomentar y sistematizar el estudio y la investigación, en el transplante de órganos y tejidos de seres humanos con fines terapéuticos, mediante la instauración de premios, concursos, becas y reconocimientos; así como propiciar programas de capacitación para el personal médico y de enfermería en transplante;
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
+
 X. Revisar permanentemente la legislación y la reglamentación, en la materia de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, a efecto de presentar ante las instancias competentes, observaciones y propuestas;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
 
 XI. Promover y coordinar la colaboración y la complementación de acciones, entre las autoridades sanitarias federales y estatales involucradas en el procedimiento para la disposición de órganos y tejidos de seres humanos con fines terapéuticos; así como sus consejos homólogos de otras entidades federativas;
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
+
 XII. Promover y coordinar la participación de los sectores social y privado, en acciones de apoyo en la materia, para lo cual principalmente impulsará la constitución de un patronato que allegue recursos financieros y materiales; así como invitar, cuando lo estime conveniente, a representantes de instituciones sociales, privadas y públicas, en calidad de vocales invitados, a participar en las sesiones del Consejo, a las cuales ocurrirán con voz pero sin voto;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
 
 XIII. Presentar por conducto de su Presidente, durante el primer bimestre de cada año, un informe sobre lo realizado por el organismo, así como sobre los avances en cuanto a transplante de órganos y tejidos de seres humanos con fines terapéuticos;
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
+
 XIV. Proponer e impulsar ante las instituciones de educación superior y de salud, la formación de recursos humanos en la especialidad de transplante, así como estudios e investigaciones en la materia en calidad de postgrados o especialidades;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
 
 XV. Implementar un sistema de información con respecto al sistema y al Programa Estatal de Transplantes, que permitan tanto la toma de decisiones, como la evaluación de la atención médica relacionada con los transplantes;
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
+
 XVI. Diseñar el sistema logístico e informático, que permita la operación eficaz del Registro Estatal de Donadores;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
 
 XVII. Solicitar al Registro Estatal de Donadores, en forma quincenal, un informe respecto del número de donadores inscritos, así como de los casos de personas en que por voluntad propia o determinación médica, queden fuera del propio registro;
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
+
 XVIII. Coadyuvar para prevenir el tráfico ilegal de órganos y tejidos;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
 
 XIX. Aprobar su reglamento interior; y
 
-XX. Las demás que le señale su reglamento.
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+XX. Decidir y vigilar la asignación de órganos y tejidos en los términos de la legislación aplicable, y
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+XXI. Las demás que le señale su reglamento y las demás disposiciones jurídicas conducentes.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 104-J.
 
-El Consejo Estatal de Transplantes tendrá personalidad jurídica y patrimonios propios, que le permitan un mejor cumplimiento de sus atribuciones.
+El Consejo Estatal de Trasplantes tendrá personalidad jurídica y patrimonios propios, que le permitan un mejor cumplimiento de sus atribuciones.
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 104-K.
 
-El Consejo Estatal de Transplantes, contará con la colaboración de un "Comité Técnico" que integrarán profesionales peritos en la materia de transplantes, que designarán las instituciones de salud señaladas en el artículo 104-F.
-
-El "Comité Técnico" coadyuvará para la mejor realización del Programa Estatal de Transplante, contará con las funciones que le señale el Reglamento Interior del Consejo, procurará el intercambio de experiencias entre las instituciones de salud que realicen transplantes.
-
-El Secretario Técnico, cuidará celosamente que se respete el orden cronológico establecido en el reglamento de receptores.
-
-Por excepción, podrá dejar de respetarse lo anterior cuando por criterios médicos plenamente comprobados de "Incompatibilidad", el Comité Técnico, bajo su estricta responsabilidad, juzgue procedente, que la donación y transplante de algún órgano o tejido, no deba ajustarse al orden preestablecido en el registro de receptores, para lo cual deberá emitir un dictamen justificativo del proceso mediante el cual se acredite dicha acción, apoyada en el expediente clínico completo, que comprenda exámenes de laboratorio, gabinete y toda la documentación generante de la misma en comento.
-
-Esto último obligará a dar información ilimitada a instancia del "Receptor Postergado", si así lo requiriera para que pueda ser motivo de análisis y en su caso de reclamo a conveniencia del mismo.
-
-El Comité Técnico, certificará y autorizará los casos, en que cuando una persona donadora, se encuentre en el supuesto para disponer de sus órganos o tejidos y tiene en ese momento familiares por consanguinidad, cónyuge, concubinario o afinidad dentro del cuarto grado, plenamente demostrado, que requieran del transplante, se utilicen los mismos a favor del familiar, sin tener que ajustarse al orden del Registro de Receptores. En este proceso se deberá proceder conforme al párrafo anterior, en lo conducente.
+El Consejo Estatal de Trasplantes contarán con la colaboración de un Comité Técnico que integrarán profesionales peritos en la materia de trasplantes, que designarán las instituciones de salud señaladas en el artículo 104-F.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
+El "Comité Técnico" coadyuvará para la mejor realización del Programa Estatal de Transplante, contará con las funciones que le señale el Reglamento Interior del Consejo, procurará el intercambio de experiencias entre las instituciones de salud que realicen transplantes.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+
+El Secretario Técnico, cuidará celosamente que se respete el orden cronológico establecido en el reglamento de receptores.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Por excepción, podrá dejar de respetarse el orden preestablecido en el registro de receptores, cuando el Comité Técnico, bajo su responsabilidad, juzgue procedente, por criterios médicos plenamente comprobados de edad, padecimiento, histocompatibilidad y demás aplicables conforme al grado de avance de la ciencia y técnica.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Cuando se proceda conforme al párrafo anterior, el Comité Técnico deberá emitir por escrito, dictamen justificatorio de dicha decisión, coherente con los datos que consten en el expediente clínico.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
+El Comité Técnico estará obligado a proporcionar información amplia y suficiente sobre los motivos y fundamentos de su decisión, cuando ésta le sea requerida por la autoridad competente, por el receptor postergado, su cónyuge, concubina, concubinario o familiares directos dentro del segundo grado.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
+El Comité Técnico, certificará y dará aviso al Registro Estatal de Donadores, con relación a los casos en que haya una persona donadora, que se encuentre en el supuesto para disponer de sus órganos o tejidos y tiene en ese momento parentesco por afinidad, por consanguinidad o civil, o cónyuge, concubina o concubinario, conforme lo determina la Ley aplicable.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+La violación al estricto cumplimiento a lo prescrito con anterioridad será sancionado en los términos previstos en la legislación openal (sic).
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 104-L.
 
-El Consejo Estatal de Transplantes para un mejor cumplimiento de sus objetivos, a través de su pleno, podrá determinar la integración y trabajo de comisiones, permanentes o transitorias, las cuales se regirán por lo establecido en el Reglamento Interior del propio Consejo.
+El Consejo Estatal de Trasplantes para un mejor cumplimiento de sus objetivos, a través de su pleno, podrá determinar la integración y trabajo de comisiones, permanentes o transitorias, las cuales se regirán por lo establecido en el Reglamento Interior del propio Consejo.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE JUNIO DE 1999)</small>
 
 ###### Art. 104-M.
 
-El Registro Estatal de Donadores del Estado de Jalisco, tiene por objeto primordial, el asegurar con eficacia, el cumplimiento y la observancia de la voluntad de la persona que dona sus órganos y tejidos en los términos previstos por los artículos 36, 37, 38 y 39 fracción II del Código Civil para el Estado de Jalisco.
+El Registro Estatal de Donadores del Estado de Jalisco, tiene por objeto primordial, el asegurar con eficacia, el cumplimiento y la observancia de la voluntad de la persona que expresamente dona sus órganos y tejidos en los términos previstos por la legislación aplicable.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
@@ -1133,15 +1697,37 @@ El Registro Estatal de Donadores del Estado de Jalisco, tiene por objeto primord
 
 El Registro Estatal de Donadores estará a cargo de la Dirección del Archivo de Instrumentos Públicos del Estado.
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 104-O.
 
-Unicamente tendrán acceso a la información del Registro Estatal de Donadores, el "Consejo Estatal de Transplantes", y las instituciones estatales y nacionales que cuenten con acreditación oficial, para realizar transplantes de órganos y tejidos de seres humanos y a quienes por ley la requieran.
+El Registro Estatal de Donadores tiene carácter confidencial, únicamente tendrán acceso a su información:
 
-Las instituciones de salud, estatales o nacionales, que estén acreditadas oficialmente para realizar transplantes de órganos y tejidos de seres humanos, y cuenten con la autorización correspondiente del Consejo Estatal de Transplantes, podrán solicitar al Registro Estatal de Donadores, siempre y cuando se hayan acreditado conforme los requisitos señalados en el reglamento del Consejo Estatal, en casos específicos en que se encuentren ante un probable donador, la confirmación indubitable del carácter de éste, así como de la disposición que el mismo hubiese hecho respecto de sus órganos y tejidos, con el objeto de proceder, en su caso y previo el cumplimiento de la diversa legislación, al transplante.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
 
-La Dirección del Archivo de Instrumentos Públicos, bajo su más estricta responsabilidad, garantizará la observancia de este artículo, prohibiendo y evitando el acceso a la información del Registro Estatal de Donadores, de personas o instituciones, que no cuenten con acreditación oficial y autorización expresa del Consejo Estatal de transplantes.
+I. La autoridad judicial;
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+II. La autoridad sanitaria;
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+III. El Consejo Estatal de Trasplantes; y
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+IV. Los establecimientos autorizados, conforme a la legislación aplicable, para la realización de trasplantes, en los casos y con las limitaciones que establece este ordenamiento.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Los establecimientos autorizados para la realización de trasplantes en casos específicos en que se encuentren ante un probable donador deberán solicitar y obtener información del Registro Estatal de Donadores, así como la disposición que el mismo hubiese hecho respecto de sus órganos y tejidos, con el objeto de proceder, en su caso y previo el cumplimiento de la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
+La Dirección del Archivo de Instrumentos Públicos, bajo su responsabilidad, garantizará la observancia de este artículo.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
 Los notarios públicos ante quienes se ratifique la voluntad de ser donador de órganos y tejidos, bajo su más estricta responsabilidad, evitarán el acceso a dicha información, de terceros ajenos al propio donador. El trámite notarial a que se refiere este párrafo, no generará costo alguno al potencial donador.
 
@@ -1159,9 +1745,7 @@ Con el objeto de coordinar la participación y colaboración de la sociedad y de
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
-#### SECCION SEGUNDA. Del programa contra el tabaquismo
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1999)</small>
+#### SECCION SEGUNDA. Del servicio social profesional
 
 ###### Art. 104-R.
 
@@ -1169,17 +1753,29 @@ El Patronato para la Donación y el Transplante de Organos y Tejidos, será pres
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
-#### SECCION TERCERA. Del programa contra la farmacodependencia
+#### SECCION PRIMERA. Disposiciones generales
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Art. 126 bis. Los programas para la prevención de las adicciones serán prioritarios, en los términos de las políticas que al efecto establezca la autoridad sanitaria.
+
+Dichos programas deberán incluir acciones de prevención, y atención integral de los problemas causados por el abuso en el consumo de bebidas alcohólicas, tabaco y otras substancias susceptibles de crear adicción.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Art. 126 ter. Como órgano desconcentrado de la Secretaría de Salud Jalisco, se integra el Consejo Estatal para la prevención de las adicciones que tiene por objeto promover y apoyar las acciones de los sectores público social y privado tendientes a la prevención y combate de los problemas de salud pública, causados por las adicciones que regula el presente título.
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 104-S.
 
 El Patronato para la Donación y el Transplante de Organos y Tejidos, procurará la más amplia participación de la comunidad para apoyar con recursos financieros y materiales las actividades propiamente médicas y quirúrgicas en materia de transplante de órganos y tejidos, así como las de capacitación, información, difusión y mejoramiento de las instalaciones de las instituciones que participen en el sistema y en el programa estatales (sic) de Transplante, como lo son las de salud y el Registro Estatal de Donadores del Estado de Jalisco.
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 104-T.
 
-El Consejo Estatal de Transplantes definirá la aplicación y los rubros en que se utilizarán los recursos financieros y materiales que se obtengan por la gestión del Patronato, tanto para el Sistema como para el Programa Estatal de Transplantes.
+El Consejo Estatal de Trasplantes definirá la aplicación y los rubros en que se utilizarán los recursos financieros y materiales que se obtengan por la gestión del Patronato, tanto para el Sistema como para el Programa Estatal de Trasplantes.
 
 ## TITULO CUARTO. Recursos humanos para la salud
 
@@ -1221,9 +1817,35 @@ En virtud del convenio que celebren el Gobernador del Estado y el Ejecutivo Fede
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones deberán consignarse en documentos, papelería y publicidad que utilicen en el ejercicio de tales actividades.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Art. 109 bis. Para reconocer el mérito y las contribuciones realizadas en el área de la salud, se instituyen los siguientes premios:
+
+I. Condecoración al mérito en el área de las ciencias médicas;
+
+II. Premio al mérito en el área de salud pública;
+
+III. Premio al mérito en la investigación clínica;
+
+IV. Premio al mérito en la investigación química y biológica aplicada a la salud;
+
+V. Premio a la contribución en salud buco-dental;
+
+VI. Premio al mérito en enfermería, y
+
+VII. Premio al mérito del auxiliar en las ciencias de la salud.
+
+Los premios consistirán en presea y roseta. Las preseas serán medallas de oro de ley de 0.900. La roseta será un botón que se ostente sobre las prendas de vestir y que se usa fuera de los actos solemnes para representar la presea correspondiente.
+
+Los premios se otorgarán anualmente, por regla general, y su costo será contemplado en el presupuesto de egresos correspondiente. Si durante el año no hubiere contribución relevante en la materia, se declarará la vacancia del premio y éste no será otorgado.
+
+La asignación de los premios será determinada por la votación de jurados que examinarán las propuestas presentadas. La integración del jurado y el procedimiento para la convocatoria, recepción de propuestas y calificación de las mismas serán determinados en el Reglamento que al efecto se expida.
+
 ### CAPITULO II. Del servicio social de pasantes y profesionales
 
-#### SECCION PRIMERA. Definición
+#### SECCION SEGUNDA. Programa para la prevención del alcoholismo y el abuso de bebidas alcohólicas
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 110.
 
@@ -1247,7 +1869,9 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación con las instituciones educativas y de la salud, definirá los mecanismos para que los pasantes de las profesiones para la salud participen en la Organización y operación de los Comités de Salud a que se refiere el Art. 102 de esta Ley.
 
-#### SECCION SEGUNDA. Clasificación
+#### SECCION TERCERA. Del programa para la prevención del tabaquismo
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 114.
 
@@ -1261,11 +1885,15 @@ Las autoridades sanitarias estatales recomendarán normas y criterios, para la f
 
 Las autoridades sanitarias del Estado, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud, establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Para la coordinación de acciones y programas se integra la Comisión Interinstitucional para la Formación de Recursos Humanos para la Salud.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 116.
 
-Corresponde al Gobernador, por conducto de la Secretaría de Salud y Bienestar Social del Estado, sin perjuicio de las atribuciones de las autoridades educativas en la materia, y en coordinación con éstas:
+Corresponde al Gobernador, por conducto de la Secretaría de Salud Jalisco, sin perjuicio de las atribuciones de las autoridades educativas en la materia, y en coordinación con éstas:
 
 I. Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del Estado, en materia de salud;
 
@@ -1275,21 +1903,21 @@ III. Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro 
 
 IV. Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud, en actividades docentes o técnicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 117.
 
-La Secretaría de Salud y Bienestar Social coadyuvará con las autoridades e instituciones educativas, cuando éstas lo soliciten, en:
+La Secretaría de Salud Jalisco coadyuvará con las autoridades e instituciones educativas, cuando éstas lo soliciten, en:
 
 I. Los requisitos para la apertura y funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud, en los diferentes niveles académicos y técnicos, y
 
 II. La definición del perfil de los profesionales para la salud, en sus etapas de formación.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 118.
 
-La Secretaría de Salud y Bienestar Social del Estado, en coordinación con las autoridades federales competentes, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los Sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud en el Estado.
+La Secretaría de Salud Jalisco, en coordinación con las autoridades federales competentes, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los Sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud en el Estado.
 
 ###### Art. 119.
 
@@ -1319,11 +1947,13 @@ V. Al estudio de técnicas y métodos que se recomienden y empleen, para la pres
 
 VI. A la producción nacional de insumos para la salud.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 121.
 
-La Secretaría de Salud y Bienestar Social del Estado apoyará y estimulará la promoción, constitución y funcionamiento de establecimientos destinados a la investigación para la salud.
+La Secretaría de Salud Jalisco apoyará y estimulará la promoción, constitución y funcionamiento de establecimientos destinados a la investigación para la salud.
+
+Para la coordinación de acciones y programas se integra la Comisión Interinstitucional de Investigación en Salud.
 
 ###### Art. 122.
 
@@ -1340,6 +1970,10 @@ II. Podrá realizarse sólo cuando el conocimiento que se pretenda producir no p
 III. Podrá efectuarse sólo cuando exista una razonable seguridad de que no se expone a riesgos ni daños inecesarios (sic) al sujeto en experimentación; y
 
 IV. Se obtendrá el consentimiento por escrito del sujeto en quien se realizará la investigación, a falta de tal consentimiento, el de su representante legal, o en su defecto, la autorización de la autoridad sanitaria competente. En todos estos casos, se hará de su conocimiento los objetivos de la experimentación y de las posibles consecuencias positivas y negativas para su salud.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
+
+V. Se sujetará estrictamente al Reglamento de la Ley General de Salud en materia de Investigación para la Salud y a las Normas Oficiales Mexicanas aplicables.
 
 > <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
 
@@ -1377,31 +2011,63 @@ Los establecimientos que presten servicios de salud y los profesionales, técnic
 
 ### CAPITULO UNICO. De los programas contra las adicciones
 
-#### SECCION TERCERA. Disposiciones comunes
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 13 DE MARZO DE 2001)</small>
 
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+#### SECCION CUARTA. Del programa para la prevención de la farmacodependencia
 
-#### SECCION PRIMERA. Causas de revocación
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
+#### SECCION PRIMERA. Definición
 
 ###### Art. 127.
 
-El Gobierno del Estado, dentro de su jurisdicción territorial, se coordinará con las Autoridades Sanitarias Federales en la ejecución del programa contra el alcoholismo y el abuso de bebidas alcohólicas, en los términos y acciones que señalan los Arts. 185 y 186 de la Ley General de Salud.
+El Gobierno del Estado, dentro de su jurisdicción territorial, se coordinará con las autoridades federales y municipales en la ejecución del programa para la prevención del alcoholismo y el abuso de bebidas alcohólicas, en los términos y acciones que señalan las disposiciones aplicables de la Ley General de Salud.
+
+El programa para la prevención del alcoholismo y el abuso de bebidas alcohólicas incluirá estrategias para la prestación de servicios de atención médica y psicológica a los alcohólicos y sus familiares.
+
+En la implementación del programa de referencia, se buscará la participación de grupos de autoayuda, y de las empresas productoras y comercializadoras de bebidas alcohólicas.
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 128.
 
-El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución del programa contra el tabaquismo, en los términos y acciones que señalan los artículos del 188 al 190 de la Ley General de Salud.
+El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución, en el territorio del Estado, del Programa para la prevención del Tabaquismo, en los términos y acciones que señalan las disposiciones aplicables de la Ley General de Salud.
 
-Dicha coordinación comprenderá entre otras acciones la educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos y la prohibición de fumar en lugares cerrados de los edificios públicos, con excepción de las áreas restringidas reservadas en ellos para los fumadores.
+El programa para la prevención del tabaquismo incluirá estrategias para la prestación de servicios de atención integral a los enfermos de tabaquismo y otros padecimientos relacionados.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
-Art. 128 bis. El Gobierno del Estado, por conducto de la Secretaría de Salud Jalisco promoverá acuerdos de coordinación con los ayuntamientos para la ejecución de las acciones que se desprendan del programa contra el tabaquismo.
+Art. 128 bis. El expendio, suministro o venta de tabaco se sujetará a las disposiciones legales y reglamentarias aplicables.
 
-#### SECCION SEGUNDA. Del procedimiento para la revocación
+Con el objeto de proteger la salud de las personas no fumadoras de los efectos de la inhalación involuntaria de humos producidos por la combustión de tabaco, en cualquiera de sus formas, en unidades de transporte público colectivo, locales cerrados y establecimientos en los que se expendan alimentos al público, hospitales, clínicas y otros centros de reunión, se expedirá, en los términos de la legislación aplicable, el Reglamento de Protección a los No Fumadores.
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+#### SECCION SEGUNDA. Clasificación
 
 ###### Art. 129.
 
-El Gobierno del Estado coadyuvará con la Secretaría de Salud a la ejecución, en el territorio del Estado, del Programa Nacional contra la Farmacodependencia, en los términos de los acuerdos de coordinación respectivos.
+El Gobierno del Estado coadyuvará con la Secretaría de Salud a la ejecución, en el territorio del Estado, del Programa Nacional para la prevención de la Farmacodependencia, en los términos de las disposiciones de la Ley General de Salud, y de los acuerdos de coordinación respectivos.
+
+Dicho programa abarcará, cuando menos, las siguientes áreas:
+
+I. Capacitación e investigación;
+
+II. Comunicación Educativa, y
+
+III. Prevención, atención y rehabilitación.
+
+La capacitación e investigación que se efectúen en los términos del presente artículo deberán ser permanentes en las instituciones públicas de salud del Estado, y se orientarán a conocer factores causales y de riesgo en materia de adicciones, así como sobre sus consecuencias, y la forma de prevenirlas y tratarlas.
+
+La comunicación educativa que al efecto se realicen (sic) estará dirigida a formar y fortalecer los valores de los educandos, propiciando el desarrollo integral del individuo, la familia y la comunidad.
+
+El Consejo Estatal para la Prevención de Adicciones, y las autoridades sanitarias del Estado, impulsarán la participación social y comunitaria, buscando la intervención responsable y activa de la población en las acciones que se conlleven a solventar el problema de la farmacodependencia.
+
+Las autoridades jurisdiccionales y administrativas del Gobierno del Estado darán apoyo institucional para propiciar la reinserción social integral de los adictos rehabilitados.
+
+#### SECCION TERCERA. Disposiciones comunes
+
+> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
 
 ###### Art. 130.
 
@@ -1417,21 +2083,23 @@ IV. Promover y llevar a cabo campañas permanentes de información y orientació
 
 A los establecimientos que vendan o utilicen substancias inhalantes que no se ajusten al control que disponga el Gobierno Estatal y los Ayuntamientos, así como los responsables de los mismos, se les aplicarán las sanciones administrativas (sic) correspondan en los términos de esta Ley.
 
+#### SECCION PRIMERA. Causas de revocación
+
 ## TITULO OCTAVO
 
 ### CAPITULO UNICO. De los expendios de alimentos, bebidas no alcohólicas y alcohólicas
 
-(REFORMADO, P.O. 7 DE ABRIL DE 1990) (F. DE E., P.O. 31 DE MAYO DE 1990)
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 131.
 
-De conformidad con las normas técnicas que expida la Secretaría de Salud y Bienestar Social del Estado, autorizar el funcionamiento de los establecimientos que expendan o suministren al público alimentos, bebidas no alcohólicas, y alcohólicas en estado natural, mezcladas, preparadas, adicionadas o acondicionadas para su consumo dentro o fuera de los mismos.
+De conformidad con los criterios y lineamientos técnicos que expida la Secretaría de Salud Jalisco, autorizar el funcionamiento de los establecimientos que expendan o suministren al público alimentos, bebidas no alcohólicas, y alcohólicas en estado natural, mezcladas, preparadas, adicionadas o acondicionadas para su consumo dentro o fuera de los mismos.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 132.
 
-Los Ayuntamientos, en el ámbito de su competencia, en coordinación con la Secretaría de Salud y Bienestar Social del Estado, y en los términos de esta Ley y demás disposiciones aplicables, autorizarán la ubicación, el funcionamiento y los horarios de los establecimientos a que se refiere este Capítulo.
+Los ayuntamientos, en el ámbito de su competencia, en coordinación con la Secretaría de Salud Jalisco, y en los términos de esta Ley y demás disposiciones aplicables, autorizarán la ubicación, el funcionamiento y los horarios de los establecimientos a que se refiere este Capítulo.
 
 ###### Art. 133.
 
@@ -1445,19 +2113,29 @@ Para los efectos del artículo anterior, se tomará en cuenta la distancia de ce
 
 Corresponde la regulación y el control sanitarios de las materias a que se refiere el Art. 3.º Apartado B de esta Ley, al Gobierno del Estado y a los Ayuntamientos, en el ámbito de sus respectivas competencias, en los términos de este ordenamiento, de las demás disposiciones legales aplicables y de los convenios que ambas entidades suscriban.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Art. 134 bis. Para los efectos de este Título se entiende por control sanitario, el conjunto de acciones de orientación, educación, muestreo, verificación y en su caso, aplicación de medidas de seguridad y sanciones que ejerce la Secretaría de Salud Jalisco, con la participación de los productores, comercializadores y consumidores, en base a los acuerdos de coordinación celebrados con la Federación y a lo establecido en la normativa jurídica aplicable.
+
+El ejercicio del control sanitario se aplicará a todos los bienes, servicios, actividades, establecimientos y procesos que sean competencia de la autoridad sanitaria local, conforme a lo que dispone este ordenamiento.
+
+El muestreo que se realice deberá cumplir con los requisitos que al efecto establece la Ley General de Salud, a efecto de garantizar la seguridad jurídica de los particulares.
+
 ###### Art. 135.
 
 La regulación y control sanitarios comprende la autorización, vigilancia, aplicación de sanciones y medidas de seguridad, de la salubridad local, a que alude el artículo anterior.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 136.
 
-La Secretaría de Salud y Bienestar Social del Estado emitirá las normas técnicas a que quedará sujeto el control sanitario en materia de salubridad local.
+La Secretaría de Salud y Bienestar Social del Estado emitará (sic) las normas oficiales a que quedará sujeto el control sanitario en materia de salubridad local.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 137.
 
-Los establecimientos enunciados en el Apartado B del Art. 3.º de esta Ley, requieren para su funcionamiento, además de satisfacer los requisitos establecidos en las disposiciones legales aplicables, los siguientes:
+Los establecimientos enunciados en el apartado B del artículo 3° fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XII, XV, XVI, XVII y XVIII de esta ley, requieren para su operación:
 
 > <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
 
@@ -1467,15 +2145,17 @@ II. Contar, en su caso, con un responsable que reúna los requisitos que se esta
 
 III. Contar, en su caso, con los auxiliares de responsable (sic) que determinen los Reglamentos aplicables, tomando en cuenta la cantidad de productos de que se trata, la diversidad de líneas de producción y el horario de las operaciones. La autoridad sanitaria competente podrá dispensar este requisito previo estudio fundado y motivado.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 138.
 
-Todo cambio de propietario, de razón o denominación social de un establecimiento, autorizado por el Ayuntamiento y la oficina hacendaria respectiva, deberá ser comunicado por el peticionario a la Secretaría de Salud y Bienestar Social del Estado, en un plazo no mayor de 30 días a partir de la fecha en que se hubiese realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
+Todo cambio de propietario, de razón o denominación social de un establecimiento, autorizado por el Ayuntamiento y la oficina hacendaria respectiva, deberá ser comunicado por el peticionario a la Secretaría de Salud Jalisco, en un plazo no mayor de 30 días a partir de la fecha en que se hubiese realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 139.
 
-Las normas técnicas a que se refiere el Art. 136, las resoluciones sobre otorgamientos o revocación de autorizaciones administrativas que señale esta Ley y la información que se estime de interés general, serán publicadas en el Periódico Oficial El Estado de Jalisco.
+Los criterios y lineamientos técnicos a que se refiere el artículo 136 y la información que se estime de interés general, serán publicadas en el Periódico Oficial El Estado de Jalisco.
 
 ###### Art. 140.
 
@@ -1495,9 +2175,11 @@ e) Rastros.
 
 II. Asistencia Social.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 141.
 
-En todo lo no previsto en este Título, se estará a lo que disponga esta Ley, los Reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
+En todo lo no previsto en este título, se estará a lo que disponga esta ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas oficiales mexicanas correspondientes.
 
 ### CAPITULO II. De los mercados y centros de abasto
 
@@ -1519,13 +2201,19 @@ Los vendedores, locatarios y personal cuya actividad esté vinculada con los mer
 
 Para los efectos de esta Ley, se entiende por construcción toda edificación o local que se destine a la habitación, enseñanza, recreatividad, trabajo o cualquier otro uso.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 146.
 
-En los aspectos sanitarios, las construcciones, reconstrucciones, modificaciones y adaptaciones deberán cumplir con esta Ley, las demás disposiciones legales y normas técnicas aplicables.
+En los aspectos sanitarios, las construcciones, reconstrucciones, modificaciones y adaptaciones deberán cumplir con esta ley, las demás disposiciones legales y normas oficiales mexicanas aplicables.
 
 ###### Art. 147.
 
 Cuando se trate de iniciar y realizar la construcción, reconstrucción, modificación o acondicionamiento total o parcial de un edifico o local, se requerirá independientemente de los permisos que exijan otras disposiciones legales, de la autorización sanitaria del proyecto en cuanto a iluminación, ventilación, instalaciones sanitarias y contra accidentes conforme a esta Ley y demás ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+La autorización sanitaria a que (sic) refiere este artículo será otorgada por el Ayuntamiento, en los casos en que, conforme a la normativa aplicable se le hubiere descentralizado tal atribución.
 
 > <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
 
@@ -1533,19 +2221,25 @@ Cuando se trate de iniciar y realizar la construcción, reconstrucción, modific
 
 Cuando el uso que se pretenda dar a un edificio o local sea público, además de los requisitos previstos en otras disposiciones aplicables, se deberá contar con agua potable y servicios Sanitarios públicos, los cuales deberán reunir los requisitos correspondientes.
 
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 149.
 
-El responsable de la construcción, reconstrucción, modificación o acondicionamiento de cualquiera de los establecimientos a que se refiere este Título, deberá dar aviso de inicio y terminación de obra a la autoridad competente, quien vigilará el cumplimiento de los requisitos aprobados en el proyecto a que se refiere Esta Ley, demás disposiciones legales aplicables y las normas técnicas correspondientes.
+El responsable de la construcción, reconstrucción, modificación o acondicionamiento de cualquiera de los establecimientos a que se refiere este título, deberá dar aviso de inicio y terminación de obra a la autoridad competente, quien vigilará el cumplimiento de los requisitos aprobados en el proyecto a que se refiere esta ley, demás disposiciones legales aplicables y las normas oficiales mexicanas correspondientes.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 150.
 
-Los propietarios o responsables de las construcciones de edificios o locales, deberán dar aviso a la conclusión de la obra a la autoridad competente en un término de 30 días, para que si la autoridad lo considera conveniente, practique inspección para constatar el cumplimiento de las disposiciones legales aplicables y en su caso tomar las medidas que esta Ley les faculte.
+Los propietarios o responsables de las construcciones de edificios o locales, deberán dar aviso a la conclusión de la obra a la autoridad competente en un término de 30 días, para que si la autoridad lo considera conveniente, practique verificación para constatar el cumplimiento de las disposiciones legales aplicables y en su caso tomar las medidas que esta ley les faculte.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 151.
 
-Los edificios y locales terminados podrán dedicarse al uso que se destinen, una vez inspeccionados y otorgada la autorización de parte de la autoridad sanitaria competente, en su caso.
+Los edificios y locales terminados podrán dedicarse al uso que se destinen, una vez verificados y otorgada la autorización de parte de la autoridad sanitaria competente, en su caso.
+
+La autorización sanitaria a que (sic) refiere este artículo será otorgada por el Ayuntamiento, en los casos en que, conforme a la normativa aplicable se le hubiere descentralizado tal atribución.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
 
@@ -1553,9 +2247,11 @@ Los edificios y locales terminados podrán dedicarse al uso que se destinen, una
 
 Los edificios, locales, construcciones o terrenos urbanos, podrán ser inspeccionados por las autoridades competentes, bajo la norma técnica de la Secretaría de Salud y Bienestar Social del Estado, quienes ordenarán las obras necesarias para satisfacer las condiciones higiénicas, en los términos de esta Ley, los Reglamentos respectivos y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 153.
 
-Los propietarios o poseedores de los edificios y locales, o de los negocios en ellos establecidos, estarán obligados a ejecutar las obras que se requieran para cumplir con las condiciones de higiene y seguridad que establezcan las disposiciones legales y normas técnicas aplicables.
+Los propietarios o poseedores de los edificios y locales, o de los negocios en ellos establecidos, estarán obligados a ejecutar las obras que se requieran para cumplir con las condiciones de higiene y seguridad que establezcan las disposiciones legales y normas oficiales mexicanas aplicables.
 
 ###### Art. 154.
 
@@ -1565,13 +2261,15 @@ Cuando los edificios, construcciones o terrenos representen un peligro por su in
 
 Cuando se contravengan algunas de las disposiciones anteriores o las del Reglamento respectivo, la autoridad sanitaria competente podrá, previo el cumplimiento de los requisitos legales respectivos, ordenar la suspensión de las obras o su demolición apoyándose en las demás autoridades competentes.
 
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MARZO DE 2001)</small>
 
-### CAPITULO IV. De los cementerios, crematorios y Funerarias
+### CAPITULO IV. De los Cementerios, Crematorios, Funerarias y Criptas
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 156.
 
-Para los efectos de esta Ley, se considera:
+Para los efectos de esta ley, se considera:
 
 I. Cementerio: El lugar destinado a la inhumación de cadáveres o restos humanos;
 
@@ -1579,21 +2277,29 @@ II. Crematorio: Las instalaciones destinadas a la incineración de cadáveres o 
 
 III. Funeraria: Establecimiento al que acuden los deudos, a rendir honores póstumos a un ser que ha perdido la vida.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
+
+IV. Cripta: El lugar destinado a la conservación de cenizas de cadáveres o restos humanos.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 157.
 
-Para establecer un nuevo cementerio o crematorio, se necesita licencia expedida por la autoridad municipal correspondiente, quien la concederá, previa opinión que emita la Secretaría de Salud y Bienestar Social del Estado.
+Para establecer un nuevo cementerio o crematorio, se necesita licencia expedida por la autoridad municipal correspondiente, quien la concederá, previa opinión que emita la Secretaría de Salud Jalisco.
 
 ###### Art. 158.
 
 El funcionamiento de los cementerios y crematorios estará sujeto a esta Ley y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 159.
 
-El traslado de cadáveres de un municipio a otro dentro del Estado, sólo podrá hacerse mediante autorización de la Secretaría de Salud y Bienestar Social o de los Ayuntamientos, en los términos de los convenios que se celebren, cumpliendo con los requisitos sanitarios que a juicio de la misma dependencia deban de cumplirse y previo el pago de los derechos fiscales respectivos.
+El traslado de cadáveres de un Municipio a otro no requerirá de autorización sanitaria, excepto:
+
+I. Cuando se trate de cadáveres de personas que hubieren padecido enfermedades infectocontagiosas sujetas a notificación inmediata, y
+
+II. Cuando el traslado se pretenda realizar después de las cuarenta y ocho horas posteriores a la muerte de que se trata.
 
 ### CAPITULO V. Del aseo público
 
@@ -1609,9 +2315,11 @@ Los residuos sólidos recolectados, podrán procesarse cuando sean industrializa
 
 Las autoridades municipales podrán fijar lugares especiales para depósito de los residuos sólidos en la vía pública, en sitios de recreo, y señalarán los casos en que los centros de reunión o espectáculos, mercados, centros de abastos y viviendas multifamiliares los deberán tener. En el procedimiento de disposición final podrán existir plantas de transferencias, las que evitarán cualquier efecto contaminante, aplicando la legislación vigente en materia de contaminación ambiental.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 163.
 
-Los animales muertos deberán ser incinerados o enterrados antes de que entren en descomposición. La autoridad municipal señalará el sitio donde esto haya de hacerse bajo las normas que establezca la autoridad sanitaria.
+Los animales muertos deberán ser incinerados o enterrados antes de que entren en descomposición. La autoridad municipal señalará el sitio donde esto haya de hacerse bajo las normas oficiales mexicanas.
 
 ###### Art. 164.
 
@@ -1649,17 +2357,17 @@ El funcionamiento, aseo y conservación de los rastros municipales, estará a ca
 
 Los Gobiernos Estatal y Municipales procurarán, coordinadamente y de conformidad con la Ley Orgánica Municipal, que las poblaciones tengan servicio regular, de aprovisionamiento y distribución de agua potable.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 172.
 
-Los proyectos de abastecimiento de agua potable deberán ser sometidos a la consideración de la Secretaría de Salud y Bienestar Social del Estado, para el análisis de las aguas.
+Los proyectos de abastecimiento de agua potable deberán ser sometidos a la consideración de la Secretaría de Salud Jalisco, para el análisis de las aguas.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 173.
 
-Las autoridades municipales o los Sistemas Estatal, Municipales o Intermunicipales de los Servicios de Agua Potable y Alcantarillado, en su caso, realizarán análisis periódicos para comprobar la potabilidad de las aguas destinadas al consumo humano, bajo la supervisión y de acuerdo a las normas técnicas que, para el efecto, fije o establezca la Secretaría de Salud y Bienestar Social.
+Las autoridades municipales o los sistemas estatal, municipales o intermunicipales de los servicios de agua potable y alcantarillado, en su caso, realizarán análisis periódicos para comprobar la potabilidad de las aguas destinadas al consumo humano, bajo la supervisión y de acuerdo al Reglamento de Control Sanitario de Productos y Servicios y las Normas Oficiales Mexicanas aplicables.
 
 ###### Art. 174.
 
@@ -1669,11 +2377,11 @@ En las poblaciones sin sistema de agua potable no podrá utilizarse, para consum
 
 Todas las poblaciones del Estado deberán contar con sistemas para el desagüe rápido e higiénico de sus desechos, preferentemente, por medio de alcantarillado.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 176.
 
-En las poblaciones donde no haya sistema de alcantarillado, en tanto se establece éste, se autorizará, por la autoridad municipal y previo control, la construcción de fosas sépticas de acuerdo a las normas técnicas que determine la Secretaría de Salud y Bienestar Social.
+En las poblaciones donde no haya sistema de alcantarillado, en tanto se establece éste, se autorizará, por la autoridad municipal y previo control, la construcción de fosas sépticas de acuerdo a las normas oficiales mexicanas.
 
 ###### Art. 177.
 
@@ -1683,29 +2391,43 @@ Los proyectos para la implantación del sistema de alcantarillado deberán ser d
 
 Queda prohibido que los desechos o líquidos que produzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
 
-### CAPITULO VIII. De los establos, granjas y zahurdas
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MARZO DE 2001)</small>
+
+### CAPITULO VIII. De los establos, granjas, zahúrdas y demás establecimientos de cría o explotación de animales
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 179.
 
-Para los efectos de esta Ley, se entiende por:
+Para los efectos de esta ley, se entiende por:
 
 I. Establo: La explotación de cinco o más vacas lecheras en producción o de quince o más cabras o borregos;
 
 II. Granja: La explotación de treinta o más aves o conejos; y
 
-III. Zahurda: La explotación de diez o más cerdos de engorda.
+III. Zahurda: La explotación de diez o más cerdos de engorda;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
+
+IV. Establecimientos de cría o explotación de animales: El establecimiento fijo o móvil que se destine a la reproducción, crianza, engorda o cualquier otro tipo de explotación de especies animales, con excepción del sacrificio.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 180.
 
-Los establos, granjas y zahurdas, deberán estar ubicados fuera de los poblados y los que actualmente se encuentran dentro, deberán reubicarse en el plazo que fije la autoridad sanitaria correspondiente.
+Los establos, granjas, zahúrdas y establecimientos de cría o explotación de animales deberán estar ubicados fuera de los poblados y los que actualmente se encuentran dentro, deberán reubicarse en el plazo que fije la autoridad sanitaria correspondiente.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 181.
 
-La autoridad sanitaria competente aprobará el funcionamiento de establos, granjas, y zahurdas, cuando éstos reúnan las condiciones sanitarias que fija esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
+La autoridad sanitaria competente aprobará el funcionamiento de establos, granjas, zahúrdas y establecimientos de cría o explotación de animales, cuando éstos reúnan las condiciones sanitarias que fija esta Ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 182.
 
-Los establecimientos que no estén comprendidos en el Art. 179 deberán reunir las condiciones sanitarias que fija esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
+Los establecimientos comprendidos en el artículo 179 de esta Ley deberán reunir las condiciones sanitarias que fija este ordenamiento, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas aplicables.
 
 ### CAPITULO IX. De los reclusorios
 
@@ -1717,9 +2439,11 @@ Para los efectos de esta Ley, se entiende por reclusorio el local destinado a la
 
 Los reclusorios estarán sujetos al control sanitario de los Gobiernos Estatal o Municipal, en su caso, de conformidad con las disposiciones que señalan esta Ley y demás normas legales aplicables.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 185.
 
-Los reclusorios deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas técnicas correspondientes, con un departamento de baños y otro de enfermería, este último para la atención de aquellos casos de enfermedad de los internos, en que no sea necesario el traslado de éstos a un hospital.
+Los reclusorios deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas oficiales mexicanas correspondientes, con un departamento de baños y otro de enfermería, este último para la atención de aquellos casos de enfermedad de los internos, en que no sea necesario el traslado de éstos a un hospital.
 
 ### CAPITULO X. De los baños públicos
 
@@ -1727,9 +2451,11 @@ Los reclusorios deberán contar, además de lo previsto por las disposiciones le
 
 Para los efectos de esta Ley, se entiende por baño público el establecimiento destinado a utilizar el agua para el aseo corporal, deporte o uso terapéutico, bajo la forma de baño, y al que pueda concurrir el público. Quedan incluidos en la denominación, los llamados de vapor u otros similares.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 187.
 
-La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
+La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las normas oficiales mexicanas.
 
 ### CAPITULO XI. De los centros de reunión y de espectáculos
 
@@ -1737,9 +2463,11 @@ La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Le
 
 Para efectos de esta Ley, se entiende por centros de reunión y de espectáculos todos aquellos lugares destinados a fines recreativos, sociales, deportivos o culturales al servicio del público.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 189.
 
-La autoridad municipal, una vez terminada la edificación del centro de reunión o de espectáculo y antes de abrirse al público hará la inspección y declaración correspondiente. Asimismo, podrá en cualquier momento, ordenar la clausura de los centros públicos de reunión o espectáculo que no reúnan las condiciones de seguridad e higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran. Dicha clausura prevalecerá entre tanto no sean corregidas las causas que la motivaron.
+La autoridad municipal, una vez terminada la edificación del centro de reunión o de espectáculo y antes de abrirse al público hará la verificación y declaración correspondiente. Asimismo, podrá en cualquier momento, ordenar la clausura de los centros públicos de reunión o espectáculo que no reúnan las condiciones de seguridad e higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran. Dicha clausura prevalecerá entre tanto no sean corregidas las causas que lo motivaron.
 
 ###### Art. 190.
 
@@ -1769,9 +2497,11 @@ II. Motel: La edificación especialmente destinada a albergar los automovilistas
 
 III. Casa de huéspedes o Pensión: Casa donde se albergan personas para vivir en ella, mediante el pago de una mensualidad.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 194.
 
-La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
+La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las normas oficiales mexicanas.
 
 ### CAPITULO XIV. De las tintorerías, lavanderías y lavaderos públicos
 
@@ -1791,15 +2521,17 @@ III. Lavadero Público: El establecimiento al cual acuden los interesados para r
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar a cualquiera de los servicios señalados en el artículo anterior, así como para su funcionamiento, se requiere contar con autorización sanitaria, misma que se expedirá cuando el solicitante haya satisfecho los requisitos que establezcan las normas legales aplicables.
 
-### CAPITULO XV. De los medios de servicios de transporte
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MARZO DE 2001)</small>
+
+### CAPITULO XV. De los medios de transporte público de transporte (sic)
 
 ###### Art. 197.
 
 Para los efectos de esta Ley se entiende por medio de servicio de transporte, todo vehículo destinado al traslado de carga o pasajeros, sea cual fuere su medio de propulsión.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
-Los transportes de carga deberán contar con la autorización sanitaria correspondiente, que será expedida por la Secretaría de Salud y Bienestar Social del Estado, una vez cubiertos los requisitos que marca esta Ley y normas técnicas correspondientes.
+Los transportes de carga deberán contar con la autorización sanitaria correspondiente, que será expedida por la Secretaría de Salud Jalisco, una vez cubiertos los requisitos que marca esta ley y normas oficiales mexicanas.
 
 ### CAPITULO XVI. De las gasolineras
 
@@ -1813,13 +2545,87 @@ Para los efectos de esta Ley, se entiende por gasolinera el establecimiento dest
 
 Las gasolineras deberán contar con las instalaciones de seguridad e higiene que establezca el Reglamento correspondiente y otras disposiciones legales aplicables.
 
-### CAPITULO I. De las autorizaciones
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2001)</small>
 
-### CAPITULO II. De la revocación de autorizaciones sanitarias
+### CAPITULO XVII. De la comercialización y venta de alimentos y bebidas en la vía pública
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+###### Art. 199-A.
+
+Para los efectos de esta Ley se entiende por comercialización y venta de alimentos y bebidas en la vía pública la actividad de preparación, conservación, suministro, expendio o comercialización de alimentos y bebidas para consumo humano que se realiza en áreas de dominio público o de uso común.
+
+El comercio ambulante de alimentos y bebidas en la vía pública, deberá sujetarse a esta Ley, y las demás disposiciones jurídicas y administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+###### Art. 199-B.
+
+La Secretaría de Salud Jalisco y los ayuntamientos se coordinarán para llevar a efecto el control sanitario del comercio ambulante de alimentos y bebidas en la vía pública.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2001)</small>
+
+### CAPITULO XIX (SIC). De los centros antirrábicos
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+###### Art. 199-C.
+
+Para los efectos de esta Ley se entiende por centro antirrábico el establecimiento operado o concesionado por los ayuntamientos bajo la normatividad sanitaria, con el objeto de contribuir a la prevención y control de la rabia y coadyuvar con las autoridades sanitarias competentes.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+###### Art. 199-D.
+
+Los centros antirrábicos que establezcan los ayuntamientos podrán tener las siguientes funciones:
+
+I. Atender quejas sobre animales domésticos agresores;
+
+II. Capturar animales domésticos agresores y aquéllos que deambulen libremente en la vía pública;
+
+III. Observar clínicamente a los animales domésticos agresores capturados;
+
+IV. Vacunar a los animales capturados y a aquéllos que para tal fin sean llevados voluntariamente;
+
+V. Practicar la necropsia de animales sospechosos de padecer rabia, y en su caso, enviar las muestras al laboratorio respectivo;
+
+VI. Obtener, en su caso, los diagnósticos de rabia en animales a través de los exámenes correspondientes;
+
+VII. Canalizar a las personas agredidas por animales, a instituciones públicas de salud para su tratamiento oportuno;
+
+VIII. Dar la notificación inmediata, en casos sospechosos y confirmados de rabia, a la autoridad sanitaria para los efectos correspondientes, y
+
+IX. Sacrificar a los animales susceptibles de transmitir la rabia en los términos de la Ley de Protección a los Animales, en los siguientes casos:
+
+a) Habiéndose cumplido el lapso de observación no hayan sido reclamados por sus propietarios;
+
+b) Tratándose de animales agresores reincidentes o que causen lesiones graves;
+
+c) Tratándose de animales que constituyan un riesgo o causen un daño para la salud, integridad física o la vida de las personas, y
+
+d) Cuando los propietarios así lo soliciten, por escrito, debidamente suscrito, en que justifiquen la necesidad imperiosa del sacrificio para evitar sufrimientos innecesarios al animal.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+###### Art. 199-E.
+
+Los propietarios de animales domésticos estarán obligados a:
+
+I. Conservarlos en adecuado estado, otorgándoles alojamiento apropiado y evitando que representen o generen riesgo o daño para la salud pública, y
+
+II. Vacunarlos, y no permitirles deambular libremente en espacios públicos.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+###### Art. 199-F.
+
+Las autoridades sanitarias y los centros antirrábicos llevarán a cabo campañas permanentes de orientación a la población respecto a la vacunación y control de los animales domésticos.
 
 ## TITULO DECIMO. Autorizaciones y certificaciones
 
-### CAPITULO III. De los certificados
+### CAPITULO I. De las autorizaciones
+
+#### SECCION SEGUNDA. Del procedimiento para la revocación
 
 ###### Art. 200.
 
@@ -1845,11 +2651,11 @@ Las autoridades sanitarias del Estado Expedirán las autorizaciones respectivas,
 
 Quedan exceptuadas del pago de derechos las dependencias del Gobierno Estatal, de los Municipios, los establecimientos educativos del sector público y las instituciones de asistencia social privada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 203.
 
-Las autorizaciones sanitarias serán otorgadas por la Secretaría de Salud y Bienestar Social con las excepciones que establezca esta Ley; serán por tiempo determinado y podrán ser prorrogadas.
+Las autorizaciones sanitarias serán otorgadas por la Secretaría de Salud Jaliscocon (sic) las excepciones que establezca esta ley, serán por tiempo determinado y podrán ser prorrogadas.
 
 Las autoridades sanitarias del Estado, mediante campañas, llevarán a cabo actividades de censos, vigilancia y promoción de estas autorizaciones.
 
@@ -1857,15 +2663,33 @@ Las autoridades sanitarias del Estado, mediante campañas, llevarán a cabo acti
 
 Las autorizaciones sanitarias podrán revalidarse de conformidad con los términos que al efecto fijen las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 205.
 
-La Secretaría de Salud y Bienestar Social del Estado expedirá la licencia sanitaria para el funcionamiento de establecimientos que presten servicios de asistencia social.
+La Secretaría de Salud Jalisco expedirá la licencia sanitaria para el funcionamiento de establecimientos que presten servicios de asistencia social.
+
+Las autorizaciones en materia de salubridad general se sujetarán a lo dispuesto por la Ley General de Salud y sus disposiciones complementarias.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 206.
 
-Los obligados a tener licencia sanitaria deberán exhibirla en lugar visible del establecimiento o vehículo respectivo.
+Para las autorizaciones en materia de salubridad local se estará a lo siguiente:
+
+I. Requieren de autorización sanitaria bajo la modalidad de licencia los establecimientos mencionados en el artículo 137 de esta Ley;
+
+II. Requieren de autorización sanitaria mediante la modalidad de permiso:
+
+a) El traslado de cadáveres de un municipio a otro, en los casos previstos en el artículo 159 de esta Ley;
+
+b) Los proyectos de construcción, reconstrucción, modificación, o acondicionamiento total o parcial de un edificio o local, en los términos previstos en el Capítulo III del Título Noveno de esta Ley;
+
+c) Los edificios y locales una vez terminados, en los cuales se examinará la habitabilidad para efecto de poder ocuparlos o aplicarlos al uso al que se destinen, en los términos previstos en el Capítulo III del Título IX de esta Ley.
+
+III. No requieren autorización sanitaria, pero requieren de aviso de funcionamiento los establecimientos a que refiere el artículo 3° apartado B) fracciones XI y XIII de este ordenamiento.
+
+El aviso de funcionamiento deberá sujetarse a lo dispuesto por el artículo 207 de este ordenamiento.
 
 ###### Art. 207.
 
@@ -1873,15 +2697,39 @@ En el caso de licencias sanitarias, la solicitud de revalidación deberá presen
 
 La solicitud de prórroga deberá presentarse a las autoridades sanitarias con antelación al vencimiento de la autorización y sólo procederá ésta cuando se sigan cumpliendo los requisitos que señalan esta Ley, las demás disposiciones legales aplicables y previo el pago de los derechos correspondientes.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Los permisos sanitarios se otorgarán por la autoridad sanitaria estatal o municipal, conforme a lo dispuesto por esta Ley y a los acuerdos de coordinación que al efecto se celebren.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Deberán dar aviso de funcionamiento los establecimientos que esta Ley determina.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+El aviso a que se refiere este artículo deberá presentarse por escrito a la autoridad sanitaria, dentro de los diez días posteriores al inicio de operaciones y contendrá los siguientes datos:
+
+I. Nombre y domicilio de la persona física o moral propietaria del establecimiento;
+
+II. Domicilio del establecimiento y fecha de inicio de operaciones;
+
+III. Declaración, bajo protesta de decir verdad, de que se cumplen los requisitos y las disposiciones aplicables al establecimiento;
+
+IV. Clave de la actividad del establecimiento, y
+
+V. Número de cédula profesional de responsable sanitario para el caso de establecimientos de particulares.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 208.
 
-Cuando los establecimientos a que se refiere el Art. 137 cambien de ubicación, de razón social o denominación, de giro o de propietario, deberán obtener nueva licencia sanitaria.
+Cuando los establecimientos a que se refiere el artículo 3° apartado B cambien de ubicación, de razón social o denominación, de giro o de propietario, deberán presentar nueva licencia sanitaria o aviso de funcionamiento, conforme a los artículos 137 y 206 fracción III de esta Ley.
 
 ###### Art. 209.
 
 Las autorizaciones a que se refiere esta Ley podrán ser revisados (sic) por la autoridad sanitaria competente en los términos de las disposiciones legales aplicables.
 
-### CAPITULO UNICO. Disposiciones generales
+### CAPITULO II. De la revocación de autorizaciones sanitarias
 
 ###### Art. 210.
 
@@ -1937,13 +2785,15 @@ La autoridad sanitaria competente emitirá la resolución que corresponda, al co
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, de prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO I. De las medidas de seguridad sanitaria
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+### CAPITULO III. De los certificados
 
 ###### Art. 217.
 
 Para los efectos de esta Ley, se entiende por certificados las constancias expedidas en los términos que establezcan las autoridades sanitarias del Estado, para la comprobación o información de determinados hechos.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+La Secretaría de Salud Jalisco podrá expedir certificados, autorizaciones o cualquier otro documento, con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen terceros autorizados conforme a la Ley General de Salud.
 
 ###### Art. 218.
 
@@ -1967,15 +2817,15 @@ Los certificados médicos de salud o prenupciales podrán ser otorgados por las 
 
 Los certificados de defunción o de muerte fetal serán expedidos por profesionales de la medicina o por las autoridades sanitarias competentes, una vez comprobado el fallecimiento y determinadas sus causas.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 221.
 
-Los certificados a que se refiere este Capítulo, excepto el de salud, se extenderán, en los modelos aprobados por la Secretaría de Salud y por las normas técnicas que la misma emita.
-
-Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
+Los certificados a que se refiere este capítulo, excepto el de salud, se extenderán, en los modelos aprobados por la Secretaría de Salud, y por las normas oficiales mexicanas.
 
 ## TITULO DECIMO PRIMERO. Vigilancia sanitaria
 
-### CAPITULO II. De las sanciones administrativas
+### CAPITULO UNICO. Disposiciones generales
 
 ###### Art. 222.
 
@@ -1989,57 +2839,71 @@ Las demás dependencias y entidades públicas coadyuvarán a la vigilancia del c
 
 El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación a los infractores sin perjuicio de que se apeguen, si procedieren, las medidas de seguridad y las sanciones correspondientes.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 225.
 
-La vigilancia sanitaria se llevará a cabo mediante visitas de inspección a cargo de inspectores designados por las autoridades sanitarias competentes, quienes deberán realizar las respectivas diligencias, de conformidad con las prescripciones de esta Ley y observando estrictamente lo dispuesto por el Art. 16 de la Constitución Política de los Estados Unidos Mexicanos.
+La vigilancia sanitaria se llevará a cabo mediante visitas de verificación inspección a cargo de verificadores designados por las autoridades sanitarias competentes, quienes deberán realizar las respectivas diligencias, de conformidad con las prescripciones de esta ley y observando estrictamente lo dispuesto por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 226.
 
-Las autoridades sanitarias competentes podrán encomendar a sus inspectores, además, actividades de orientación, educación y aplicación, en su caso, de las medidas de seguridad a que se refiere el Art. 232 de esta Ley.
+Las autoridades sanitarias competentes podrán encomendar a sus verificadores, además actividades de orientación, educación y aplicación, en su caso, de las medidas de seguridad a que se refiere el artículo 232 de esta ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 227.
 
-Las inspecciones podrán ser ordinarias y extraordinarias. Las primeras se efectuarán en días y en horas hábiles y las segundas en cualquier tiempo.
+Las verificaciones podrán ser ordinarias y extraordinarias. Las primeras se efectuarán en días y en horas hábiles y las segundas en cualquier tiempo.
 
 Para los efectos de esta Ley, tratándose de establecimientos industriales, comerciales o de servicios, se consideran días y horas hábiles las de su funcionamiento habitual o autorizado.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 228.
 
-Los inspectores sanitarios en el ejercicio de sus funciones, previa su identificación, tendrán libre acceso a los edificios, establecimientos comerciales, de servicios y en general, a todos los lugares a que se refiere esta Ley, apegándose a lo que dispone la parte final del artículo siguiente.
+Los verificadores sanitarios en el ejercicio de sus funciones, previa su identificación, tendrán libre acceso a los edificios, establecimientos comerciales, de servicios y en general, a todos los lugares a que se refiere esta ley, apegándose a lo que dispone la parte final del artículo siguiente.
 
-Los propietarios, responsables, encargados u ocupantes de establecimientos o conductores de vehículos objeto de inspección, estarán obligados a permitir el acceso y a dar facilidades e informes a los inspectores para el desarrollo de su labor.
+Los propietarios, responsables, encargados u ocupantes de establecimientos o conductores de vehículos objeto de verificación, estarán obligados a permitir el acceso y a dar facilidades e informes a los verificadores para el desarrollo de su labor.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 229.
 
-Los inspectores, para practicar visitas, deberán estar provistos de órdenes escritas, expedidas por la autoridad sanitaria local competente, en las que deberá precisarse el lugar o zona que habrá de inspeccionarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
+Losverificadores (sic), para practicar visitas, deberán estar provistos de órdenes escritas, expedidas por la autoridad sanitaria local competente, en las que deberá precisarse el lugar o zona que habrá de verificarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
 
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+La orden de verificación deberá ser exhibida a la persona con quien se entienda la diligencia a la que se entregará una copia.
 
-La orden de inspección deberá ser exhibida a la persona Con quien se entienda la diligencia a la que se entregará una copia.
+Las órdenes podrán expedirse para visitar establecimientos de una rama determinada de actividades o señalar al verificador la zona en la que vigilará el cumplimiento, por todos los obligados, de las disposiciones sanitarias. Tratándose de actividades que se realicen a bordo de vehículo, o en la vía pública, las órdenes podrán darse para vigilar una rama determinada de actividades o una zona, que se delimitará en la misma orden.
 
-Las órdenes podrán expedirse para visitar establecimientos de una rama determinada de actividades o señalar al inspector la zona en la que vigilará el cumplimiento, por todos los obligados, de las disposiciones sanitarias. Tratándose de actividades que se realicen a bordo de vehículo, o en la vía pública, las órdenes podrán darse para vigilar una rama determinada de actividades o una zona, que se delimitará en la misma orden.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 230.
 
-En la diligencia de inspección sanitaria se deberán observar las siguientes reglas:
+En la diligencia de verificación sanitaria se deberán observar las siguientes reglas:
 
-I. Al iniciar la visita, el inspector deberá exhibir la credencial vigente, expedida por la autoridad sanitaria competente, que lo acredite legalmente para desempeñar dicha función. Esta circunstancia se deberá anotar en el acta correspondiente;
+I. Al iniciar la visita, el verificador deberá exhibir la credencial vigente, expedida por la autoridad sanitaria competente, que lo acredite legalmente para desempeñar dicha función. Esta circunstancia se deberá anotar en el acta correspondiente;
 
-II. Al inicio de la visita se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo, que proponga dos testigos que deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, los designará la autoridad que practique la inspección. Esta circunstancia, el nombre, domicilio y firma de los testigos, se hará constar en el acta;
+II. Al inicio de la visita se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo, que proponga dos testigos que deberán permanecer durante el desarrollo de la visita.
+
+Ante la negativa o ausencia del visitado, los designará la autoridad que practique la verificación. Esta circunstancia, el nombre, domicilio y firma de los testigos, se hará constar en el acta;
 
 III. En el acta que se levante con motivo de la inspección, se asentarán las circunstancias de la diligencia y las deficiencias o anomalías sanitarias observadas y, en su caso, las medidas de seguridad que se ejecuten; y
 
-IV. Al concluir la inspección, se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo, de manifestar lo que a su derecho convenga, asentando su dicho en el acta respectiva y recabando su firma en el propio documento del que se le entregará una copia.
+IV. Al concluir la verificación, se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo, de manifestar lo que a su derecho convenga, asentando su dicho en el acta respectiva y recabando su firma en el propio documento del que se le entregará una copia.
 
 La negativa a firmar el acta o recibir copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez ni la de la diligencia practicada.
 
 ## TITULO DECIMO SEGUNDO. Medidas de seguridad sanitaria, sanciones y recurso de inconformidad
 
-### CAPITULO III. Del procedimiento para aplicar las medidas de seguridad y sanciones
+### CAPITULO I. De las medidas de seguridad sanitaria
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 231.
 
-Se consideran medidas de seguridad, aquellas disposiciones de inmediata ejecución que dicte la Secretaría de Salud y Bienestar Social del Estado y las autoridades municipales, de conformidad con los preceptos de esta Ley y demás disposiciones y convenios aplicables, para proteger y preservar la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que, en su caso, correspondieren.
+Se consideran medidas de seguridad, aquellas disposiciones de inmediata ejecución que dicte la Secretaría de Salud Jalisco y las autoridades municipales, de conformidad con los preceptos de esta Ley y demás disposiciones y convenios aplicables, para proteger y preservar la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que, en su caso, correspondieren.
 
 ###### Art. 232.
 
@@ -2087,31 +2951,33 @@ La observación personal consiste en la estrecha supervisión sanitaria de los p
 
 Se ordenará la vacunación de personas expuestas a contraer enfermedades transmisibles, en los siguientes casos:
 
-I. Cuando no hayan sido vacunados contra la tifoidea, la tosferina, la difteria, el tétanos, la tuberculosis, la poliomielitis, el sarampión y demás enfermedades transmisibles, cuya vacunación se estime obligatoria;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+I. Cuando no hayan sido vacunados contra la tifoidea, la tosferina, la difteria, el tétanos, la tuberculosis, la poliomielitis, el sarampión y demás enfermedades transmisibles, cuya vacunación se estime obligatoria, y siempre que no exista contraindicación médica para ello;
 
 II. En caso de epidemia grave; y
 
 III. Si existiera peligro de invasión de dichos padecimientos, en el Estado.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 237.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Salud y Bienestar Social podrá ordenar o proceder a la vacunación de animales que puedan convertirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
+El Ejecutivo del Estado, por conducto de la Secretaría de Salud Jalisco, podrá ordenar o proceder a la vacunación de animales que puedan convertirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 238.
 
-La Secretaría de Salud y Bienestar Social del Estado, y las autoridades municipales, en los términos del Art. 4.° de esta Ley, ejecutarán las medidas necesarias para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando representen un peligro grave para la salud de las personas.
+La Secretaría de Salud Jalisco, y las autoridades municipales, en los términos del Art. 4.° de esta Ley, ejecutarán las medidas necesarias para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando representen un peligro grave para la salud de las personas.
 
 En todo caso, se dará a las dependencias, encargadas de la sanidad animal la intervención que corresponda.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 239.
 
-La Secretaría de Salud y Bienestar Social del Estado y las autoridades municipales, podrán ordenar la inmediata suspensión de trabajos o de servicios o la prohibición de actos de uso, cuando de continuar aquellos, se ponga en peligro la salud de las personas.
+La Secretaría de Salud Jalisco y las autoridades municipales, podrán ordenar la inmediata suspensión de trabajos o de servicios o la prohibición de actos de uso, cuando de continuar aquellos, se ponga en peligro la salud de las personas.
 
 ###### Art. 240.
 
@@ -2131,9 +2997,7 @@ Si del dictamen resultare que el bien asegurado es nocivo, la autoridad sanitari
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y del dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPITULO IV. Del recurso de inconformidad
-
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+### CAPITULO II. De las sanciones administrativas
 
 ###### Art. 243.
 
@@ -2161,21 +3025,31 @@ III. Las condiciones socio-económicas del infractor, y
 
 IV. La calidad de reincidente del infractor.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 246.
 
-Se sancionará con multa equivalente hasta de veinte veces el salario mínimo general diario, vigente en la zona económica donde se produzca la infracción, la violación de las disposiciones contenidas en los Arts. 41, 42, 43, 56, 97, 98, 109, 124, 126, 137, frac. I, 144, 202, 206, 207, 208, 219, 220 y 221 de esta Ley.
+Se sancionará con multa hasta de veinte veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos: 41, 42, 56, 109, 124, 126, 137, fracción I, 144, 202, 206, 207, 208, 219, 220 y 221 de esta ley.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 247.
 
-Se sancionará con multa equivalente de diez hasta cien veces el salario mínimo general diario vigente en la zona económica donde se produzca la infracción, la violación de las disposiciones contenidas en los Arts. 33, 46, 52, 147, 157, 159, 202, 210, 228 y 239 de esta Ley.
+Se sancionará con multa de veinte hasta cien veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos: 43, 46, 52, 97, 98, 147, 157, 159, 210, 228 y 239 de esta ley.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 248.
 
-Se sancionará con multa equivalente de cincuenta a quinientas veces el salario mínimo general diario, vigente en la zona económica donde acontezca la infracción, la violación a los Arts. 34, 122 y 123 de esta Ley.
+Se sancionará con multa equivalente de cien hasta quinientas veces el salario mínimo general vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos: 33 y 34 de esta Ley.
+
+Se sancionará con multa (sic) con multa equivalente de quinientas hasta mil veces el salario mínimo general vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos: 122 y 123 de esta ley.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 249.
 
-Las infracciones no previstas expresamente en este Capítulo serán sancionadas con multa equivalente hasta por quinientas veces el salario mínimo general diario, vigente en la zona económica de que se trate, atendiendo las reglas de calificación que se establecen en el Art. 245 de esta Ley.
+Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo las reglas de calificación que se establecen en el artículo 245 de esta Ley.
 
 ###### Art. 250.
 
@@ -2189,7 +3063,9 @@ La aplicación de las multas será sin perjuicio de que se ejecuten las medidas 
 
 Procederá la clausura, temporal o definitiva, parcial o total, según la gravedad de la infracción y las características de la actividad o establecimiento, en los siguientes casos:
 
-I. Cuando los establecimientos a que se refiere el apartado B del Art. 3.º de esta Ley, carezcan de la correspondiente licencia sanitaria;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+I. Cuando los establecimientos a que se refiere el artículo 3° apartado B de esta ley, carezcan de licencia o aviso sanitario;
 
 II. Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de esta Ley y de las disposiciones que de ella emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la autoridad sanitaria;
 
@@ -2213,7 +3089,7 @@ II. A la persona que, en rebeldía, se niegue a cumplir los requerimientos o dis
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO V. De la prescripción
+### CAPITULO III. Del procedimiento para aplicar las medidas de seguridad y sanciones
 
 ###### Art. 255.
 
@@ -2253,19 +3129,25 @@ X. Jerarquía; y
 
 XI. Buena fe.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+En lo no previsto en el procedimiento administrativo sancionador que prevé esta Ley, se estará a lo dispuesto en la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 257.
 
-La Secretaría de Salud y Bienestar Social del Estado y las autoridades municipales que se encuentren en el supuesto previsto en la frac. III, del Art. 4.° de esta Ley, con base al resultado de inspección, dictarán las medidas necesarias para corregir, en su caso, las irregularidades que se hubiesen encontrado, notificando al interesado y dándole un plazo adecuado para su cumplimiento.
+La Secretaría de Salud Jalisco y las autoridades municipales que se encuentren en el supuesto previsto en la fracción III, del artículo 4 de esta ley, con base al resultado de verificación, dictarán las medidas necesarias para corregir, en su caso, las irregularidades que se hubiesen encontrado, notificando al interesado y dándole un plazo adecuado para su cumplimiento.
 
 ###### Art. 258.
 
 Las autoridades sanitarias estatales y las municipales, en su caso, podrán hacer uso de los medios legales necesarios, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 259.
 
-Turnada un acta de inspección, las autoridades sanitarias competentes citarán al interesado, personalmente o por correo certificado con acuse de recibo para que, dentro de un plazo no menor de cinco días, ni mayor de treinta, comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes, en relación con los hechos asentados en la propia acta.
+Turnada un acta de verificación, las autoridades sanitarias competentes citarán al interesado, personalmente o por correo certificado con acuse de recibo para que, dentro de un plazo no menor de cinco días, ni mayor de treinta, comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes, en relación con los hechos asentados en la propia acta.
 
 ###### Art. 260.
 
@@ -2281,17 +3163,25 @@ Una vez oído al presunto infractor o a su representante legal y desahogadas las
 
 Si el presunto infractor no compareciera dentro del plazo fijado en el Art. 259 de esta ley, se procederá a dictar, en su rebeldía, la resolución definitiva, notificándose en los términos del artículo anterior.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 263.
 
-En los casos de suspensión de trabajos o de servicios o de clausura temporal o definitiva, parcial o total, el personal comisionado para su ejecución procederá a levantar acta circunstanciada de la diligencia, siguiendo para ello los lineamientos generales establecidos para las inspecciones.
+En los casos de suspensión de trabajos o de servicios o de clausura temporal o definitiva, parcial o total, el personal comisionado para su ejecución procederá a levantar acta circunstanciada de la diligencia, siguiendo para ello los lineamientos generales establecidos para las verificaciones.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 264.
 
-Cuando el contenido de un acta de inspección se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria correspondiente hará la denuncia respectiva ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
+Cuando el contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria correspondiente hará la denuncia respectiva ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
+
+### CAPITULO IV. Del recurso de inconformidad
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 265.
 
-Contra los actos o resoluciones dictados en materia de salubridad general o de salubridad local, por las autoridades sanitarias, competentes, que den fin a una Instancia o Resuelvan un Expediente, los interesados podrán optar por agotar el recurso de inconformidad previsto en esta Ley o interponer el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado, sujetándose en su caso a lo dispuesto en la Ley del Procedimiento Contencioso Administrativo para el Estado de Jalisco.
+Contra los actos o resoluciones dictados en materia de salubridad general o de salubridad local, por las autoridades sanitarias, competentes que den fin a una instancia o resuelvan un expediente, los interesados podrán optar por agotar el recurso de inconformidad previsto en esta Ley o interponer el juicio de nulidad ante el Tribunal de lo Administrativo del Estado, sujetándose en su caso a lo dispuesto en la Ley de Justicia Administrativa del Estado de Jalisco.
 
 ###### Art. 266.
 
@@ -2345,9 +3235,13 @@ II. Que no se siga perjuicio al interés social ni se contravengan disposiciones
 
 III. Que sean de difícil reparación los daños y Perjuicios que se causen al recurrente, con la ejecución del acto o resolución combatida.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 273.
 
-En la tramitación del recurso de inconformidad, se aplicará, supletoriamente, el Código de Procedimientos Civiles del Estado de Jalisco.
+En la tramitación del recurso de inconformidad, se aplicarán, supletoriamente en el siguiente orden, la Ley de Procedimiento Administrativo del Estado de Jalisco y el Código de Procedimientos Civiles del Estado.
+
+### CAPITULO V. De la prescripción
 
 ###### Art. 274.
 
@@ -2444,3 +3338,15 @@ PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en
 SEGUNDO.- Se insta al Ejecutivo para que conforme a las disposiciones legales aplicables, realice todos los actos necesarios para la debida integración y funcionamiento del Instituto Jalisciense de Salud Mental.
 
 TERCERO.- Se derogan las disposiciones legales y administrativas que se opongan al presente.
+
+P.O. 13 DE MARZO DE 2001.
+
+PRIMERO.- Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+SEGUNDO.- Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta ley, iniciados durante la vigencia de la Ley Estatal de Salud que se ha reformado, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento de verificarse los actos.
+
+TERCERO.- Las autorizaciones expedidas con anterioridad a la vigencia de esta ley, seguirán siendo válidas hasta su vencimiento. Las nuevas o la renovación de las anteriores se otorgarán en los términos de la presente reforma y demás disposiciones aplicables.
+
+CUARTO.- En tanto se expiden los reglamentos de la presente ley y los criterios y lineamientos técnicos sobre salubridad local, se aplicarán el Reglamento de la Ley Estatal de Salud en Materia de Festividades Populares y los Reglamentos de la Ley Estatal de Salud en materia de Salubridad Local, publicados con fecha 26 de marzo de 1988 y 4 de octubre de 1990 en el Periódico Oficial El Estado de Jalisco.
+
+QUINTO.- Al Ejecutivo Estatal le corresponderá hacer la primera convocatoria al Consejo de la Comisión de Arbitraje Médico del Estado de Jalisco dentro de los treinta días siguientes a la publicación del presente decreto.
