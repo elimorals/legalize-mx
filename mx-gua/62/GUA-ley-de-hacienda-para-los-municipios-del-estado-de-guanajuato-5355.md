@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "1991-09-03"
+last_updated: "1991-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1991.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -1521,6 +1521,32 @@ Tratándose de inmuebles destinados a casa-habitación de interés social, la ba
 
 El impuesto Predial, se determinará y liquidará de acuerdo con las tasas que establezca anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
+
+Si como resultado de la aplicación de las tasas que señala la Ley de Ingresos para los Municipios, se obtiene una cantidad inferior a la cuota mínima anual que establece dicha Ley, el impuesto a pagar será la cuota mencionada.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
+
+Asimismo, tributarán bajo la cuota mínima anual, previo dictamen de la Tesorería Municipal, los inmuebles que se encuentren en los siguientes supuestos.
+
+A).- Los destinados al servicio de educación cuya constitución y funcionamiento se ajusten a las leyes de la materia.
+
+B).- Los que perteneciendo a particulares, estén destinados a un servicio público gratuito autorizado por el Estado o por el Municipio, siempre que por los mismos sus propietarios no perciban rentas.
+
+C).- Los que sean propiedad de asociaciones, fundaciones e instalaciones de beneficencia y asistencia social, siempre que estén destinados directamente a los fines de las mismas.
+
+D).- Los que pertenezcan a jubilados y pensionados, siempre y cuando no perciban ingresos por otro concepto y el inmueble no exceda del valor fiscal equivalente a 20 veces el salario mínimo general diario, elevado al año que corresponda al lugar en que se encuentre ubicado el inmueble.
+
+E).- Las casas habitación adquiridas con financiamiento otorgado por el Instituto de Seguridad Social del Estado de Guanajuato; Instituto del Fondo Nacional de la Vivienda para los Trabajadores; Fondo Nacional de Habitaciones Populares; Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o por el Fondo de la Vivienda del Ejército, Fuerza Aérea y Armada, así como los otorgados por organismos similares. La referida cuota mínima, se cubrirá durante el plazo otorgado para el pago de dicho crédito.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
+
+Para los efectos de este inciso, no se considerará adquisición, los créditos para mejora o ampliación de las casas habitación.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
+
+Para este efecto, se requiere solicitud del contribuyente y ésta surtirá efectos a partir del bimestre siguiente a la presentación de dicha solicitud, y procederá siempre y cuando se trate de un solo inmueble.
+
 ###### ARTICULO 165.
 
 Este Impuesto deberá pagarse bimestralmente dentro del primer mes que corresponda, hecha excepción de las cuotas mínimas a que se refiere la Ley de Ingresos para los Municipios del Estado, que se cubrirá anualmente durante el primer bimestre.
@@ -1551,7 +1577,13 @@ Todo inmueble deberá estar inscrito en los padrones fiscales. La violación de 
 
 El valor fiscal de los inmuebles, solo podrá ser modificado, por la manifestación del valor de los inmuebles de los contribuyentes; cuando se produzca un cambio en cuanto al nombre del contribuyente, a las características del inmueble; o por otra circunstancia que origine una alteración de su valor con motivo de la ejecución de obras públicas, así como en la reconstrucción o rehabilitación de dichas obras.
 
-No habiendo alguna de las causas anteriores, el valor fiscal solo podrá ser modificado por avalúo, si han transcurrido cuando menos cinco años fiscales desde la fecha en que haya surtido efectos el anterior. Dicho avalúo entrará en vigor a partir del bimestre siguiente a la fecha en que se notifique.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
+
+No habiendo alguna de las causas anteriores, el valor fiscal solo podrá ser modificado por avalúo, si han transcurrido cuando menos cuatro años fiscales desde la fecha en que haya surtido efectos el anterior. Dicho avalúo entrará en vigor a partir del bimestre siguiente a la fecha en que se notifique.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
+
+Al término de la vigencia de los cuatro años, a que se refiere el párrafo anterior, en tanto se practica el nuevo avalúo, la Tesorería Municipal, incrementará la base del impuesto, aplicándole el factor que resulte de dividir el índice nacional de precios al consumidor que publique el Banco de México, del primer mes del bimestre en que haya vencido al avalúo anterior, entre el índice nacional de precios al consumidor del primer mes del bimestre en que se haya notificado.
 
 ###### ARTICULO 169.
 
@@ -1619,9 +1651,9 @@ IV.- Existan inmuebles ocultos a la acción fiscal.
 
 Están obligados al pago de este Impuesto las personas físicas o morales que transmiten o adquieren por cualquier título o causa, bienes inmuebles ubicados en el Estado, así como los derechos reales vinculados a los mismos.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO P.O. 27 DE DICIEMBRE DE 1991)</small>
 
-No se pagará este Impuesto tratándose de adquisiciones de inmuebles que haga la Federación, el Estado y los Municipios para formar parte del dominio público.
+No se causará este impuesto tratándose de adquisiciones de inmuebles que hayan realizado la Federación, el Estado o los Municipios para formar parte del dominio público, y los Partidos Políticos Nacionales, siempre y cuando dichos inmuebles sean para su propio uso; asimismo en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos de contrato de arrendamiento financiero.
 
 ###### ARTICULO 180.
 
@@ -2212,6 +2244,12 @@ El presente Decreto entrará en vigor el cuarto día siguiente al de su publicac
 Los bienes inmuebles que a la fecha de entrada en vigor del presente Decreto estén tributando sobre la base de rentabilidad, lo seguirán haciendo en función de la misma, hasta en tanto se practique el avalúo correspondiente.
 
 P.O. 3 DE SEPTIEMBRE DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrara en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1991.
 
 ###### ARTICULO UNICO.
 
