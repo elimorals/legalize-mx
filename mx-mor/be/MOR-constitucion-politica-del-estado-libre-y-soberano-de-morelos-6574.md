@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1988-01-06"
+last_updated: "1988-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1988.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -774,7 +774,7 @@ Tampoco podrá hacerlas al Decreto de Convocatoria que expida la Diputación Per
 
 DE LOS SECRETARIOS.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1988)</small>
 
 ###### Artículo 53.
 
@@ -1118,25 +1118,17 @@ DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
 ###### Artículo 74.
 
-Para el despacho de los negocios encomendados al Ejecutivo habrá tantos servidores públicos como la administración del Estado lo requiera, en los términos de la Ley Orgánica de la Administración Pública del Estado.
+Para el despacho de los negocios encomendados al Ejecutivo habrá un Secretario General de Gobierno y los Secretarios de Despacho que establezca la Ley Orgánica de la Administración Pública Estatal, la que determinará su competencia y atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1988)</small>
 
 ###### Artículo 75.
 
-Para ser Secretario del Despacho se requiere:
+Para ser Secretario General del Gobierno ó Secretario de Despacho se requiere:
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
+I.- Ser ciudadano morelense por nacimiento ó por residencia, debiendo en éste último caso, tener un mínimo de 10 años de residencia en el Estado.
 
-I.- Ser ciudadano Morelense por nacimiento o ciudadano mexicano por nacimeinto, (sic) debiendo en este último caso tener un mínimo de cinco años de residencia en el Estado.
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
-
-II.- Ser mayor de 25 años de edad y,
-
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
-
-III.- Tener la preparación necesaria a juicio del Gobernador del Estado, para el desempeño de su cargo.
+II.- Ser mayor de 25 años.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -1158,11 +1150,11 @@ En cualquier tiempo el Congreso del Estado o la Diputación Permanente podrá ci
 
 Los Secretarios del Despacho serán responsables de las resoluciones del Gobernador que autoricen con su firma, contrarias a la Constitución y Leyes Federales o a la Constitución y Leyes del Estado, sin perjuicio de las responsabilidades que correspondan al Gobernador.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1988)</small>
 
 ###### Artículo 79.
 
-Los funcionarios a que se refiere el Artículo 74 de la presente Constitución, no podrán ejercer la abogacía, la notaría, ni gestionar negocios del orden judicial o administrativo, salvo los que por competencia legal les corresponda.
+Los servidores públicos a que se refiere el Artículo 74, de ésta Constitución no podrán desempeñar ningún otro puesto, cargo ó comisión, salvo la docencia, ó aquellos que por estar directamente relacionados con las funciones de su encargo, sean autorizados en los términos de lo dispuesto por la ley.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
 
@@ -1196,19 +1188,19 @@ VII.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
 
 VIII.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1988)</small>
 
 ###### Artículo 81.
 
-Los responsables de la administración de los ingresos y egresos del Estado serán los Secretarios de Finanzas y de Programación y Presupuesto, respectivamente.
+La administración de los ingresos y egresos del Estado estará a cargo de los servidores públicos que determine la Ley Orgánica de la Administración Pública Estatal.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1988)</small>
 
 ###### Artículo 82.
 
-El pago de los sueldos señalados en el Presupuesto, se hará con equidad a todos los funcionarios y servidores del Estado.
+El pago de las retribuciones señaladas en el Presupuesto se hará con equidad a todos los servidores públicos del Estado.
 
-Es caso de responsabilidad para el Secretario de Programación y Presupuesto cualquier infracción a este Artículo.
+Es obligación del Secretario de Despacho correspondiente, vigilar el cumplimiento de este principio.
 
 ###### Artículo 83.
 
@@ -1506,7 +1498,7 @@ I.- La circunscripción geográfica de cada Municipio deberá establecerse de ta
 
 Los Municipios del Estado, cuando así fuere necesario y lo determinen las Leyes, con el concurso del Estado, tendrán a su cargo los siguientes Servicios Públicos:
 
-a).- Agua Potable y Alcantarillado,
+a).- Agua Potable y Alcantarillado;
 
 b).- Alumbrado Público;
 
@@ -2131,3 +2123,9 @@ P.O. 6 DE ENERO DE 1988.
 Primero.- El presente Decreto entrará en vigor, a partir de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Remítase el presente Decreto al Ejecutivo de la Entidad, para los efectos de su promulgación y publicación.
+
+P.O. 15 DE JUNIO DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Morelos.
