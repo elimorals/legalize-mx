@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1994-del-tribunal-en-pleno-del-dia-primero-630
 country: "mx"
 rank: "acuerdo"
 publication_date: "1994-02-25"
-last_updated: "1997-03-07"
+last_updated: "1997-03-14"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63024&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-02-01"
 
 ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MARZO DE 1997.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 25 de febrero de 1994.
 
@@ -131,7 +131,9 @@ CUARTO.- Se reforma, modifica y adiciona el punto segundo, fracciones II, V, XII
 
 "XVI.- ...
 
-1.- Dos tribunales colegiados y un tribunal unitario, con residencia en la ciudad de Guanajuato, Guanajuato;
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL NUMERO 8/1997 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 1997)</small>
+
+1.- Dos tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Guanajuato, Guanajuato;
 
 2.- Juzgados Primero y Segundo de Distrito en el Estado de Guanajuato, con residencia en la ciudad de Guanajuato;
 
@@ -290,3 +292,13 @@ SEGUNDO.- Se modifica el Acuerdo 1/1994 del Pleno de la Suprema Corte de Justici
 TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
 
 CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
+
+D.O.F. 14 DE MARZO DE 1997.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día siete de abril de mil novecientos noventa y siete.
+
+SEGUNDO.- Se modifica el Acuerdo 1/1994 del Pleno de la Suprema Corte de Justicia de la Nación, de fecha primero de febrero de mil novecientos noventa y cuatro, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
