@@ -4,7 +4,7 @@ identifier: "FED-ley-de-navegacion-y-comercio-maritimos-588"
 country: "mx"
 rank: "ley"
 publication_date: "1963-11-21"
-last_updated: "1963-11-21"
+last_updated: "1964-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=588&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LNCM"
 
 LEY DE NAVEGACION Y COMERCIO MARITIMOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 1964.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 21 de noviembre de 1963.
 
@@ -81,6 +81,12 @@ En los aspectos no previstos por el Libro IV de la Ley, que se refiere a las man
 Prof. Remón Berrueto Ramón, S. P.- Rodolfo Echeverría Alvarez, D. P.- Prof. Caritino Maldonado, S. S., Noé G. Elizondo Martínez, D. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los diez días del mes de enero de mil novecientos sesenta y tres.- El Presidente de la República, Adolfo López Mateos.- Rúbrica.- El Secretario de Marina, Manuel Zermeño Araico.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Walter C. Buchanan.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortíz Mena.- Rúbrica.- El Secretario de Industria y Comercio, Raúl Salinas Lozano.- Rúbrica.- El Secretario de Relaciones Exteriores, Manuel Tello.- Rúbrica.- El Secretario del Patrimonio Nacional, Eduardo Bustamante.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Salomón González Blanco.- Rúbrica.- El Secretario de Gobernación, Gustavo Díaz Ordaz.- Rúbrica.- El Secretario de Salubridad y Asistencia, José Alvarez Amézquita.- Rúbrica.- El Secretario de Obras Públicas, Javier Barros Sierra.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 20 DE AGOSTO DE 1964.
+
+UNICO.- Estas modificaciones entrarán en vigor en la fecha de su publicación en el "Diario Oficial" de la Federación.
 
 ###### ARTICULO 7o.
 
@@ -1004,9 +1010,11 @@ Las acciones derivadas del contrato de fletamento prescribirán en un año, a pa
 
 B). DEL FLETAMENTO POR ENTERO O POR COMPARTIMENTO
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1964)</small>
+
 ###### ARTICULO 160.
 
-Salvo pacto en contrario, reglamento, costumbre o uso local, las mercancías o efectos transportados en buque por entero o en compartimento completo, serán entregados al costado del buque.
+Salvo pacto en contrario, reglamento, costumbres o uso local, las mercancías o efectos transportados en buques por entero o en compartimiento completo, serán entregadas en las bodegas del buque.
 
 ###### ARTICULO 161.
 
@@ -1020,9 +1028,11 @@ El término de las estadías de un buque en puerto, salvo pacto, reglamento, cos
 
 La duración de las estadías, salvo pacto, reglamento, costumbre o uso local, se determinará por la Autoridad Portuaria, teniendo en cuenta los medios disponibles para la carga o descarga.
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1964)</small>
+
 ###### ARTICULO 164.
 
-En el término de las estadías, sólo se computarán los días laborables y se suspenderá cuando se impida la carga o descarga por causas no imputables al cargador o al consignatario.
+En el término de las estadías se computarán los días laborables y no laborables, y sólo se suspenderán cuando se impida la carga o descarga por causas imputables al transportador, salvo pacto en contrario de las partes.
 
 ###### ARTICULO 165.
 
@@ -1100,9 +1110,11 @@ Si el consignatario rehusare recibir las mercancías, el porteador podrá deposi
 
 El porteador podrá pedir al Juez que autorice la venta, por medio de Corredor o de comerciante establecido, de las mercancías suficientes para cubrir los créditos del transporte. El remanente, si lo hubiere, se depositará a disposición del cargador, del destinatario o del titular del conocimiento.
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1964)</small>
+
 ###### ARTICULO 175.
 
-El transportador será responsable de los daños o averías que sufran las mercancías y efectos, a menos que pruebe que se debieron a vicios ocultos de las cosas, a caso fortuito, a negligencia o faltas náuticas de la tripulación, o a hechos o instrucciones del cargador, del consignatario, o del titular del conocimiento.
+El transportador será responsable de los daños o averías que sufran las mercancías y efectos cuando le sean imputables. Cuando los daños se deban a vicios ocultos, caso fortuito o fuerza mayor, a instrucciones del cargador, del consignatario o del titular del conocimiento, el transportador quedará exento de responsabilidad.
 
 ###### ARTICULO 176.
 
@@ -1190,29 +1202,23 @@ La contravención por parte del naviero de las disposiciones del artículo anter
 
 El billete de pasaje para la transportación de personas en los buques nacionales, será nominativo y no podrá transferirse sin autorización del naviero.
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1964)</small>
+
 ###### ARTICULO 194.
 
-El porteador responderá por los daños que por su culpa sufran las personas transportadas y sus equipajes.
+El porteador será responsable de los daños que sufran las personas transportadas y sus equipajes.
 
-La indemnización por la muerte de un pasajero será igual al importe de los ingresos provenientes de su trabajo durante seiscientos cincuenta días. Para hacer el cómputo se tomará el promedio de sus ingresos durante los doce meses anteriores a la muerte, y se considerará como máximo de ingreso diario el décuplo del salario de un marinero de cubierta. Si la víctima no tuviera ingresos o no se probare su monto, la indemnización se calculará tomando como base el salario indicado.
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1964)</small>
 
 ###### ARTICULO 195.
 
-Si se causaren daños a las personas, que no les originasen la muerte inmediata, el porteador está obligado:
+La responsabilidad y la indemnización por muerte de pasajeros, a que se refiere el artículo anterior, se normarán por las disposiciones legales que rijan al seguro del viajero.
 
-I.- A cubrir la atención médico-quirúrgica, medicinas, curaciones, y todos los gastos necesarios para el restablecimiento de la víctima.
-
-II.- A pagar la cantidad correspondiente a los ingresos normales del trabajo de la víctima, calculados conforme al artículo anterior, mientras ésta no pudiere trabajar.
-
-III.- A indemnizar por la incapacidad permanente que resulte.
-
-En caso de sobrevenir la muerte, se aplicará el artículo anterior.
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1964)</small>
 
 ###### ARTICULO 196.
 
-La obligación establecida por el artículo anterior, fracción I, se limita al importe de dos mil días de salario de un marinero de cubierta; la que impone la fracción II no excederá del importe de dos mil días de ingreso de la víctima, considerando como ingreso máximo el décuplo del salario de un marinero, y la indemnización a que se refiere la fracción III no excederá del importe de novecientos días de ingreso de la víctima, considerando como máximo ingreso el indicado décuplo del salario de un marinero.
-
-Si la víctima no tuviere ingresos, el Juez fijará la indemnización, según las circunstancias del caso, dentro de los límites que este artículo señala.
+Si se causaren daños a las personas transportadas, que no les originen la muerte inmediata, el porteador está obligado a pagar una indemnización, en los términos de las disposiciones legales establecidas para el seguro del viajero.
 
 ###### ARTICULO 197.
 
