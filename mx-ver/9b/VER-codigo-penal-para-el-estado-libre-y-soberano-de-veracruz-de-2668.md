@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-266
 country: "mx"
 rank: "codigo"
 publication_date: "1980-09-13"
-last_updated: "1999-04-17"
+last_updated: "1999-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE ABRIL DE 1999.
 
 Código publicado en la Gaceta Oficial de Veracruz-Llave, el sábado 13 de septiembre de 1980.
 
@@ -159,7 +159,7 @@ XV.-El terrorismo, a que se refiere el artículo 249;
 
 XVI.-El sabotaje, a que se refiere el artículo 250;
 
-> <small>(REFORMADA, G.O. 17 DE ABRIL DE 1999)</small>
+(REFORMADA, G.O. 17 DE ABRIL DE 1999)(REPUBLICADA, G.O. 22 DE ABRIL DE 1999)
 
 XVII. El abuso de autoridad y el delito de tortura;
 
@@ -2307,7 +2307,7 @@ VI.-Teniendo a su cargo fondos públicos les dé, a sabiendas, una aplicación p
 
 VII.-Valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y que no sea del conocimiento público; haga por sí o por interpósita persona, inversiones, enajenaciones o adquisiciones o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o algún tercero.
 
-VIII.- (DEROGADA, G.O. 17 DE ABRIL DE 1999)
+VIII.-(DEROGADA, G.O. 17 DE ABRIL DE 1999)(REPUBLICADA, G.O. 22 DE ABRIL DE 1999)
 
 ### CAPITULO III. COALICION
 
@@ -2972,5 +2972,9 @@ G.O. 8 DE SEPTIEMBRE DE 1998.
 ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 G.O. 17 DE ABRIL DE 1999.
+
+Único. Las presentes reformas entrarán en vigor a los quince días después de su publicación en la Gaceta Oficial del estado.
+
+G.O. 22 DE ABRIL DE 1999.
 
 Único. Las presentes reformas entrarán en vigor a los quince días después de su publicación en la Gaceta Oficial del estado.
