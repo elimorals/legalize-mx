@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-adquisiciones-arrendamientos-contratacion-de-10975"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-13"
-last_updated: "1997-09-13"
+last_updated: "1997-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 13 de septiembre de 1997.
 
@@ -133,15 +133,23 @@ V. Todos aquellos de naturaleza análoga a los mencionados en las fracciones ant
 
 Las adquisiciones, arrendamientos y la contratación de servicios y de obra pública con cargo total o parcial a fondos federales conforme a los convenios entre el Ejecutivo Federal, el Estado y los Municipios, estarán sujetos a las disposiciones de la Ley Federal de la materia.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1997)</small>
+
 ###### Artículo 6.
 
 El gasto de las adquisiciones, arrendamientos y servicios, así como de obra pública, se sujetará a lo previsto en la Constitución Política del Estado, en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado, a las disposiciones específicas previstas en los Presupuestos de Egresos del Estado y de los Municipios, así como en las demás disposiciones aplicables.
 
-En el ámbito del Poder Ejecutivo, la Dirección y la Contraloría dictarán las disposiciones administrativas que sean estrictamente necesarias para el adecuado cumplimiento de esta Ley, tomando cada una en cuenta la opinión de la otra, así como de la Dependencia o Entidad involucradas.
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 1997)</small>
+
+###### Artículo 7.
+
+En el ámbito del Poder Ejecutivo, la Dirección y la Contraloría dictarán las disposiciones administrativas que sean estrictamente necesarias para el adecuado cumplimiento de esta ley, tomando cada una en cuenta la opinión de la otra, así como de la dependencia o entidad involucrada.
 
 Lo propio harán el Poder Legislativo en su ámbito interior, a través de sus órganos de administración, y los Ayuntamientos por conducto de los órganos facultados conforme al Código Municipal.
 
-Artículo 8 (sic).- El Ejecutivo aplicará estas disposiciones por conducto de la Dirección, la Dirección General de Comunicaciones y Obras Públicas, la Coordinación y la Contraloría, por lo que respecta a sus adquisiciones, arrendamientos y contratación de servicios y obra pública, así como de su sector paraestatal.
+###### Artículo 8.
+
+El Ejecutivo aplicará estas disposiciones por conducto de la Dirección, la Dirección General de Comunicaciones y Obras Públicas, la Coordinación y la Contraloría, por lo que respecta a sus adquisiciones, arrendamientos y contratación de servicios y obra pública, así como de su sector paraestatal.
 
 El Congreso del Estado las aplicará a través de sus respectivos órganos de administración, en lo referente a sus adquisiciones, arrendamientos y contratación de servicios y obra pública.
 
@@ -1037,9 +1045,11 @@ Recibida la obra, la unidad o área administrativa bajo cuya responsabilidad que
 
 ### Capítulo IV. De las excepciones a la licitación pública
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE DICIEMBRE DE 1997)</small>
+
 ###### Artículo 101.
 
-En los supuestos y con sujeción a las formalidades que prevé el artículo 102 de esta ley, los Entes Públicos, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de adquisiciones, arrendamientos, servicios y obra pública, a través de un procedimiento de licitación restringida o adjudicación directa, cuando el importe de cada operación no exceda de los montos máximos previstos, respectivamente, en los presupuestos de Egresos del estado y de los Municipios, siempre que las operaciones no se fraccionen para quedar comprendidas en este supuesto de excepción a la licitación pública.
+Los entes públicos, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de adquisiciones, arrendamientos, servicios y obra pública, a través de un procedimiento de licitación restringida o adjudicación directa, cuando el importe de cada operación no exceda de los montos máximos previstos, respectivamente, en los Presupuestos de Egresos del Estado y de los Municipios, siempre que las operaciones no se fraccionen para quedar comprendidas en este supuesto de excepción a la Licitación Pública.
 
 La opción que ejerzan deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para la Entidad, Ayuntamiento, Dependencia u Organismo respectivo. En el dictamen que al efecto se emita, deberán acreditar, de entre los criterios mencionados, aquellos en que se funde el ejercicio de la opción, considerando el monto del contrato y la naturaleza de la adquisición, arrendamiento, servicio u obra pública.
 
@@ -1279,6 +1289,10 @@ SEXTO.- Esta Ley no será aplicable al Poder Judicial del Estado. Sin perjuicio 
 
 Entre tanto, se regirá por la normatividad anterior.
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 1997)</small>
+
+SEPTIMO.- En los términos del artículo 101 de esta ley, los entes públicos, bajo su responsabilidad y hasta el 31 de diciembre de 1997, podrán contratar obra pública sin sujetarse al procedimiento de licitación pública, siempre que el monto del contrato no exceda, para el caso del estado de cincuenta veces el salario mínimo general de la zona elevado al año I, para el caso de los Municipios, de veinticinco veces el salario mínimo general de la zona elevado al año.
+
 D A D O en el Palacio del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los veintiséis días del mes de Junio de Mil Novecientos Noventa y Siete.
 
 DIPUTADO PRESIDENTE
@@ -1302,3 +1316,11 @@ C.P. FRANCISCO JAVIER BARRIO TERRAZAS
 EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE DICIEMBRE DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
