@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-6631"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "1995-12-27"
+last_updated: "1998-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1998.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -1349,9 +1349,11 @@ La cuota del impuesto predial es anual, de acuerdo con lo dispuesto en el Artíc
 
 La forma y lugar de pago del impuesto predial, se regirán por las disposiciones relativas del título segundo del libro primero de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 217.
 
-De conformidad con lo dispuesto en los artículos 167 y 168, la Secretaría de Finanzas del Estado, tendrá acción real para el cobro del impuesto predial y de las prestaciones accesorias a éste.
+De conformidad con lo dispuesto en los artículos 167 y 168, la Secretaría de Hacienda, tendrá acción para el cobro del impuesto predial y de las prestaciones accesorias a éste, conforme a lo establecido en los convenios que al efecto suscriba con los ayuntamientos.
 
 En consecuencia, el procedimiento de ejecución fiscal que establece el Libro Primero de esta Ley, afectará a los predios directamente cualquiera que sea el propietario o poseedor.
 
@@ -5548,3 +5550,9 @@ III.- Si para la interposición de un recurso o para el ejercicio de algún otro
 IV.- Todos los recursos, consultas y demás actos de los particulares, de las autoridades fiscales o de entre ambos, que se inicien a partir del día en que entre en vigor esté Código, se regularán plenamente por el mismo.
 
 CUARTO.- El Titular del Poder Ejecutivo del Estado instrumentará las adecuaciones que correspondan al reglamento interior de la Secretaría de Hacienda, en cumplimiento de las disposiciones contenidas en este Código, contando para ello con un plazo de noventa días hábiles a partir de la entrada en vigor de este ordenamiento.
+
+P.O. 7 DE ENERO DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial "Tierra y Libertad" Organo de Difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Ejecutivo para los efectos a que se refiere el artículo 47 de la Constitución Política del Estado de Morelos.
