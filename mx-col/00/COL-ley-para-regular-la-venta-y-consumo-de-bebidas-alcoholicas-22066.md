@@ -4,7 +4,7 @@ identifier: "COL-ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas-2206
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-20"
-last_updated: "1989-01-28"
+last_updated: "2003-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22066&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1989.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS, PUBLICADA EN EL P.O. EL 11 DE ENERO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial "El Estado de Colima", el sábado 20 de agosto de 1983.
 
@@ -498,3 +500,13 @@ Se procurará que los establecimientos comprendidos en el inciso B) del Artícul
 Se procederá a la clausura definitiva de aquellos establecimientos que no cumplan con esta disposición.
 
 El Titular del Ejecutivo del Estado, brindará auxilio a las autoridades municipales, para el eficaz cumplimiento de esta disposición.
+
+P.O. 11 DE ENERO DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+SEGUNDO.- Se abroga la Ley para Regular la Venta y Consumo de Bebidas Alcohólicas, aprobada mediante decreto número 81, publicada el 20 de agosto de 1983, y todas las disposiciones que se opongan a este ordenamiento.
+
+TERCERO.- En tanto se establecen los órganos de lo contencioso-administrativos municipal a que se refiere el artículo 17, será competente el Tribunal de lo Contencioso-administrativo del Estado.
+
+CUARTO.- Los Ayuntamientos expedirán los reglamentos municipales a que se refiere esta Ley, en un plazo que no excederá de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto.
