@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2000-11-04"
+last_updated: "2002-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-> <small>N. DE E. MEDIANTE DECRETO NUMERO 18182 PUBLICADA EN ESTA FECHA, EL LEGISLADOR REFORMA, ADICIONA Y DEROGA LA LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE JALISCO, MODIFICANDO DE MANERA SUSTANCIAL EL TEXTO QUE A LA FECHA TENIA DICHO ORDENAMIENTO PRESENTANDOSE EL TEXTO APROBADO Y PUBLICADO EN EL PERIODICO OFICIAL.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -1267,6 +1265,16 @@ II. La operación de los sistemas de limpia y las autorizaciones para la instala
 
 III. Las autorizaciones para la instalación y operación de confinamientos controlados de residuos sólidos industriales.
 
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2002)</small>
+
+###### Artículo 87 Bis.
+
+Los Poderes Públicos del Estado, Ayuntamientos, Organismos Públicos Autónomos, Descentralizados y Paraestatales, y sus dependencias deberán capacitar a sus servidores públicos y establecer las medidas que se requieran para el reciclaje de los residuos sólidos no peligrosos que generen respectivamente, en los siguientes casos:
+
+I. Cuando las instituciones públicas, antes mencionadas puedan de manera autónoma establecer sus propios métodos de reciclaje;
+
+II. Mediante celebración de convenios, cuando en la circunscripción territorial donde se encuentre, existan instituciones públicas o privadas que utilicen los residuos sólidos en proceso de reciclado o existan centros de acopio derivados de este proceso puedan ser recibidos.
+
 ###### Artículo 88.
 
 Los residuos que se acumulen, o puedan acumularse, y se depositen o infiltren en los suelos, reunirán las condiciones necesarias para prevenir o evitar:
@@ -2164,3 +2172,7 @@ PRIMERO. Las presentes reformas entrarán en vigor el día siguiente de su publi
 SEGUNDO. El término de seis meses que previene el artículo séptimo transitorio del decreto No. 18182 para la expedición y publicación en el Periódico Oficial "El Estado de Jalisco" de los reglamentos que se establecen en la presente ley por parte del Titular del Ejecutivo, comenzará a contar a partir de la publicación del presente Decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE JULIO DE 2002.
+
+ÚNICO.- Este decreto entrará en vigor a los 90 días de su publicación en el Periódico Oficial "El Estado de Jalisco".
