@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2001-06-29"
+last_updated: "2002-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2002.
 
-Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
+Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo20 de agosto de 1989.
 
 OSCAR BAYLON CHACON
 
@@ -2199,7 +2199,9 @@ Notificación del auto.- El auto de formal prisión se notificará al responsabl
 
 Constancias de antecedentes penales.- Dictado el auto de formal prisión o de sujeción a proceso, se identificará al procesado por el sistema adoptado administrativamente. El Juez comunicará a las oficinas de identificación las resoluciones que pongan fin al proceso y que hayan causado ejecutoria, para que se hagan las anotaciones correspondientes.
 
-La constancia de antecedentes penales solo será expedida por la Dirección de Prevención y Readaptación Social en el Estado, y contendrá la identificación del inculpado y todos los datos relativos a cualquier averiguación o proceso penal instaurado en su contra, cuando la requiera una autoridad competente, pero cuando sea el interesado quien la solicite, los antecedentes solo harán referencia a sentencias condenatorias debidamente ejecutoriadas. En cualquier otro caso, la constancia especificará la ausencia de antecedentes penales.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2002)</small>
+
+La constancia de antecedentes penales solo será expedida por la Secretaría de Seguridad Pública, y contendrá la identificación del inculpado y todos los datos relativos a cualquier averiguación o proceso penal instaurado en su contra, cuando la requiera una autoridad competente, pero cuando sea el interesado quien la solicite, los antecedentes solo harán referencia a sentencias condenatorias, por delitos de carácter doloso, debidamente ejecutoriadas. En cualquier otro caso, la constancia especificará la ausencia de antecedentes penales.
 
 ###### Artículo 280.
 
@@ -3380,3 +3382,9 @@ DECRETO NUMERO 169
 P.O. 29 DE JUNIO DE 2001.
 
 UNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE JUNIO DE 2002.
+
+###### ARTICULO UNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
