@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2000-05-29"
+last_updated: "2000-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MAYO DE 2000. REPUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2000.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -1632,7 +1632,7 @@ Del depósito mercantil en general.
 
 ###### Art. 273.
 
-El mandato aplicado á actos concretos de comercio, se reputa comisión mercantil. Es comitente el que confiere comisión mercantil y comisionista el que la desempaña (sis).
+El mandato aplicado á actos concretos de comercio, se reputa comisión mercantil. Es comitente el que confiere comisión mercantil y comisionista el que la desempaña (sic).
 
 ###### Art. 274.
 
@@ -1942,7 +1942,7 @@ Siempre que con asentimiento del depositante dispusiese el depositario de las co
 
 ###### Art. 339.
 
-(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
@@ -2098,9 +2098,9 @@ De las permutas mercantiles.
 
 (DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
-## TÍTULO SEXTO.
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE JUNIO DE 2000)</small>
 
-DE LA COMPRAVENTA Y PERMUTA MERCANTILES Y DE LA CESIÓN DE CRÉDITOS COMERCIALES.
+## TÍTULO SEXTO.. DE LA COMPRAVENTA Y PERMUTA MERCANTILES, DE LA CESIÓN DE CRÉDITOS COMERCIALES Y DE LA CONSIGNACION MERCANTIL
 
 ### CAPÍTULO III.
 
@@ -2182,17 +2182,19 @@ Mientras que las mercancías vendidas estén en poder del vendedor, aunque sea e
 
 Los depósitos y ventas públicas á que hubiere lugar en la ejecución de las compraventas mercantiles, se harán por la autoridad judicial.
 
-### CAPÍTULO I.
+### CAPÍTULO IV
 
-Del contrato de seguros en general.
+De la Consignación Mercantil.
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2000)</small>
 
 ###### Art. 388.
 
 Las disposiciones relativas al contrato de compraventa, son aplicables al de permuta mercantil, salva la naturaleza de éste.
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-Del seguro contra incendios.
+Del contrato de seguros en general.
 
 ###### Art. 389.
 
@@ -2206,23 +2208,69 @@ La cesión producirá sus efectos legales con respecto al deudor desde que le se
 
 Salvo pacto en contrario, el cedente de un crédito mercantil responderá tan solo de la legitimidad del crédito y de la personalidad con que hizo la cesión.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE JUNIO DE 2000)</small>
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-Del seguro sobre la vida.
+Del seguro contra incendios.
 
 ###### Art. 392.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+La consignación mercantil es el contrato por virtud del cual, una persona denominada consignante transmite la disponibilidad y no la propiedad de uno o varios bienes muebles, a otra persona denominada consignatario, para que le pague un precio por ellos en caso de venderlos en el término establecido, o se los restituya en caso de no hacerlo.
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2000)</small>
 
 ###### Art. 393.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+El contrato consignatorio se regirá por lo siguiente:
+
+I. El consignatario tendrá la obligación de pagar el precio pactado con el consignante o de devolver el bien, salvo lo dispuesto por el tercer párrafo, de la fracción VI, de este artículo.
+
+II. El consignante transmitirá la posesión de los bienes al consignatario, y en su momento, la propiedad de los mismos al adquirente; en caso contrario, estará obligado a responder por los daños y perjuicios causados, así como por el saneamiento en caso de evicción de los bienes dados en consignación o por los vicios ocultos respectivos.
+
+III. Las partes contratantes podrán pactar una retribución para el consignatario que consistirá en una suma determinada de dinero, en un porcentaje sobre el precio de venta o en algún otro beneficio, pudiéndose facultar al consignatario para que retenga el porcentaje establecido en el contrato.
+
+Si el bien objeto del contrato no fue vendido dentro del plazo pactado, el consignante no estará obligado a retribuir al consignatario, salvo pacto en contrario.
+
+Cuando se pacte una retribución para el consignatario sin que el bien o bienes consignados hayan sido vendidos y sin que dicha retribución haya sido cubierta, se entenderá que lo consignado responde por el importe pactado; en este caso el consignatario podrá constituir en prenda dichos bienes hasta en tanto le sea cubierta la retribución, estándose además a lo dispuesto en el segundo párrafo de la fracción VII de este articulo.
+
+En caso de que el bien consignado sea vendido y habiéndose pactado una retribución para el consignatario ésta no se haya determinado, se estará a aquella que generalmente se fije en este tipo de contratos en la plaza respectiva, tomando en cuenta las características del bien consignado, su valor de mercado y los gastos erogados por el consignatario para su conservación.
+
+IV. Una vez verificada la venta del bien dado en consignación, el consignatario tendrá dos días hábiles para entregar la ganancia pactada al consignante, salvo pacto en contrario.
+
+En caso de que el consignatario retenga el bien o el producto obtenido de la venta de manera injustificada, salvo pacto en contrario, además de estar obligado a restituir el bien o pagar el producto obtenido de la venta, éste deberá pagar al consignante un tres por ciento del valor de mercado del bien consignado por cada mes o fracción que dure la retención respectiva, en cuyo caso los riesgos derivados de la pérdida o deterioro por caso fortuito o fuerza mayor se entenderán transmitidos al consignatario.
+
+A fin de poder exigir la restitución del bien consignado o el pago del producto obtenido de la venta del mismo, en caso de que las partes hayan celebrado el contrato respectivo por escrito, el mismo traerá aparejada ejecución en términos de lo establecido en la fracción VIII, del artículo 1391 de este Código.
+
+V. En el caso de que los bienes consignados no hayan sido vendidos, el consignante no podrá disponer de ellos en tanto no se verifique el término establecido en el contrato para la venta de los mismos.
+
+VI. El consignatario deberá realizar todos los actos tendientes a la conservación tanto de los bienes consignados como de los derechos relacionados con los mismos.
+
+Para los anteriores efectos, el consignante deberá proveer de los fondos necesarios para ello con cuando menos dos días de anticipación a la realización del acto de conservación respectivo. En caso de que el consignatario hubiese efectuado alguna erogación para los efectos de este párrafo, el consignatario tendrá derecho a que el importe de la misma le sea reembolsado por el consignante, aplicándose en lo conducente lo dispuesto en el tercer párrafo, de la fracción III de este artículo.
+
+Los riesgos del bien se transmiten al consignatario cuando éste le sea entregado de manera real por el consignante, con la excepción de la pérdida o deterioro por caso fortuito o fuerza mayor tratándose de bienes individualmente designados los cuales correrán a cargo del consignante.
+
+VII. El consignatario podrá disponer válidamente del bien sólo con el fin previsto en el contrato. Los efectos consignados no podrán ser embargados por los acreedores del consignatario.
+
+El consignatario debe poner de inmediato a disposición del consignante los bienes dados en consignación cuando ocurra alguno de los supuestos previstos en el artículo 394, a efecto de que éste los recoja dentro de los dos días hábiles siguientes a la notificación respectiva. Si el consignante no recoge la mercancía dentro del término señalado con anterioridad, salvo pacto en contrario, estará obligado a cubrir al consignatario el equivalente al dos por ciento mensual del valor de mercado del bien de que se trate por concepto de almacenaje por cada mes o fracción que tarde en recoger el mismo, en cuyo caso, los riesgos derivados de la pérdida o deterioro por caso fortuito o fuerza mayor se entenderán transmitidos al consignante.
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2000)</small>
 
 ###### Art. 394.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+Son causas de terminación del contrato consignatorio:
+
+I. La ejecución total de las obligaciones derivadas del contrato;
+
+II. El vencimiento del plazo pactado;
+
+III. La Muerte de alguno de los contratantes;
+
+IV. El mutuo consentimiento; y,
+
+V. Incumplimiento de las obligaciones de alguna de las partes.
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
 ## TÍTULO SÉPTIMO.
 
@@ -2230,9 +2278,9 @@ DE LOS CONTRATOS DE SEGUROS.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
-### CAPÍTULO IV.
+### CAPÍTULO III.
 
-Del seguro de transporte terrestre.
+Del seguro sobre la vida.
 
 ###### Art. 395.
 
@@ -2248,9 +2296,9 @@ Del seguro de transporte terrestre.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
-### CAPÍTULO V.
+### CAPÍTULO IV.
 
-De las demás clases de seguros.
+Del seguro de transporte terrestre.
 
 ###### Art. 398.
 
@@ -2366,9 +2414,9 @@ De las demás clases de seguros.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
-### CAPÍTULO I.
+### CAPÍTULO V.
 
-De la forma, plazos y vencimientos de las letras de cambio.
+De las demás clases de seguros.
 
 ###### Art. 426.
 
@@ -2436,9 +2484,9 @@ De la forma, plazos y vencimientos de las letras de cambio.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-De la provisión.
+De la forma, plazos y vencimientos de las letras de cambio.
 
 ###### Art. 442.
 
@@ -2466,9 +2514,9 @@ De la provisión.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-Del endoso en las letras de cambio.
+De la provisión.
 
 ###### Art. 448.
 
@@ -2482,9 +2530,9 @@ DEL CONTRATO Y LETRAS DE CAMBIO.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO IV.
+### CAPÍTULO III.
 
-De la presentación de las letras de cambio y su aceptación.
+Del endoso en las letras de cambio.
 
 ###### Art. 449.
 
@@ -2568,9 +2616,9 @@ De la presentación de las letras de cambio y su aceptación.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO V.
+### CAPÍTULO IV.
 
-Del aval.
+De la presentación de las letras de cambio y su aceptación.
 
 ###### Art. 469.
 
@@ -2606,9 +2654,9 @@ Del aval.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO VI.
+### CAPÍTULO V.
 
-Del pago.
+Del aval.
 
 ###### Art. 477.
 
@@ -2640,9 +2688,9 @@ Del pago.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO VII.
+### CAPÍTULO VI.
 
-De los protestos.
+Del pago.
 
 ###### Art. 484.
 
@@ -2694,9 +2742,9 @@ De los protestos.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO VIII.
+### CAPÍTULO VII.
 
-De la intervención en la aceptación y pago.
+De los protestos.
 
 ###### Art. 496.
 
@@ -2712,9 +2760,9 @@ De la intervención en la aceptación y pago.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO IX.
+### CAPÍTULO VIII.
 
-De las acciones que competen al portador de una letra de cambio.
+De la intervención en la aceptación y pago.
 
 ###### Art. 499.
 
@@ -2762,9 +2810,9 @@ De las acciones que competen al portador de una letra de cambio.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO X.
+### CAPÍTULO IX.
 
-Del recambio y resaca.
+De las acciones que competen al portador de una letra de cambio.
 
 ###### Art. 510.
 
@@ -2808,9 +2856,9 @@ Del recambio y resaca.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO I.
+### CAPÍTULO X.
 
-De las libranzas, vales y pagarés.
+Del recambio y resaca.
 
 ###### Art. 520.
 
@@ -2842,9 +2890,9 @@ De las libranzas, vales y pagarés.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-De los cheques.
+De las libranzas, vales y pagarés.
 
 ###### Art. 527.
 
@@ -2888,9 +2936,9 @@ De los cheques.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-De las cartas de crédito.
+De los cheques.
 
 ###### Art. 537.
 
@@ -2932,9 +2980,9 @@ DE LAS LIBRANZAS, VALES, PAGARÉS, CHEQUES Y CARTAS DE CRÉDITO.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO I.
+### CAPÍTULO III.
 
-Del contrato mercantil de trasporte terrestre.
+De las cartas de crédito.
 
 ###### Art. 545.
 
@@ -2968,7 +3016,7 @@ Del contrato mercantil de trasporte terrestre.
 
 ### CAPÍTULO I.
 
-De los efectos al portador.
+Del contrato mercantil de trasporte terrestre.
 
 ###### Art. 552.
 
@@ -3020,9 +3068,9 @@ De los efectos al portador.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-Del robo, hurto ó extravío de los documentos de crédito y efectos al portador.
+De los efectos al portador.
 
 ###### Art. 564.
 
@@ -3076,9 +3124,9 @@ Del robo, hurto ó extravío de los documentos de crédito y efectos al portador
 
 DE LOS TRASPORTES POR VÍAS TERRESTRES Ó FLUVIALES.
 
-### CAPÍTULO I.
+### CAPÍTULO II.
 
-De los navieros.
+Del robo, hurto ó extravío de los documentos de crédito y efectos al portador.
 
 ###### Art. 576.
 
@@ -3368,9 +3416,9 @@ DE LOS EFECTOS AL PORTADOR Y DE LA FALSEDAD, ROBO, HURTO Ó EXTRAVÍO DE LOS MIS
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-De los capitanes.
+De los navieros.
 
 ###### Art. 616.
 
@@ -3386,9 +3434,9 @@ De los capitanes.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-De los oficiales y tripulación del buque.
+De los capitanes.
 
 ###### Art. 619.
 
@@ -3616,9 +3664,9 @@ DE LOS RIESGOS, DAÑOS Y ACCIDENTES DEL COMERCIO MARÍTIMO.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO IV.
+### CAPÍTULO III.
 
-De los sobrecargos.
+De los oficiales y tripulación del buque.
 
 ###### Art. 666.
 
@@ -3690,11 +3738,9 @@ De los sobrecargos.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO I.
+### CAPÍTULO IV.
 
-Del contrato de fletamento.
-
-De las formas y efectos del contrato de fletamento.
+De los sobrecargos.
 
 ###### Art. 683.
 
@@ -3766,9 +3812,11 @@ De las formas y efectos del contrato de fletamento.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-De los derechos y obligaciones del fletante.
+Del contrato de fletamento.
+
+De las formas y efectos del contrato de fletamento.
 
 ###### Art. 700.
 
@@ -3868,9 +3916,9 @@ De los derechos y obligaciones del fletante.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-De las obligaciones del fletador.
+De los derechos y obligaciones del fletante.
 
 ###### Art. 724.
 
@@ -3892,9 +3940,9 @@ DE LA JUSTIFICACIÓN Y LIQUIDACIÓN DE LAS AVERÍAS.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO IV.
+### CAPÍTULO III.
 
-De la rescisión total o parcial del contrato del fletamento.
+De las obligaciones del fletador.
 
 ###### Art. 727.
 
@@ -3966,9 +4014,9 @@ De la rescisión total o parcial del contrato del fletamento.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO V.
+### CAPÍTULO IV.
 
-De los pasajeros en los viajes por mar.
+De la rescisión total o parcial del contrato del fletamento.
 
 ###### Art. 744.
 
@@ -4012,9 +4060,9 @@ De los pasajeros en los viajes por mar.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO VI.
+### CAPÍTULO V.
 
-Del conocimiento.
+De los pasajeros en los viajes por mar.
 
 ###### Art. 754.
 
@@ -4054,9 +4102,9 @@ Del conocimiento.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO VII.
+### CAPÍTULO VI.
 
-Del contrato á la gruesa ó préstamo á riesgo marítimo.
+Del conocimiento.
 
 ###### Art. 763.
 
@@ -4080,11 +4128,9 @@ Del contrato á la gruesa ó préstamo á riesgo marítimo.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO VIII.
+### CAPÍTULO VII.
 
-De los seguros marítimos.
-
-De la forma de este contrato.
+Del contrato á la gruesa ó préstamo á riesgo marítimo.
 
 ###### Art. 768.
 
@@ -4140,9 +4186,11 @@ De la forma de este contrato.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO IX.
+### CAPÍTULO VIII.
 
-De las cosas que pueden ser aseguradas y su evaluación.
+De los seguros marítimos.
+
+De la forma de este contrato.
 
 ###### Art. 781.
 
@@ -4198,9 +4246,9 @@ De las cosas que pueden ser aseguradas y su evaluación.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO X.
+### CAPÍTULO IX.
 
-Obligaciones entre el asegurador y asegurado.
+De las cosas que pueden ser aseguradas y su evaluación.
 
 ###### Art. 794.
 
@@ -4276,9 +4324,9 @@ Obligaciones entre el asegurador y asegurado.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO XI.
+### CAPÍTULO X.
 
-De los casos en que se anula, rescinde ó modifica el contrato de seguro.
+Obligaciones entre el asegurador y asegurado.
 
 ###### Art. 812.
 
@@ -4306,9 +4354,9 @@ De los casos en que se anula, rescinde ó modifica el contrato de seguro.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO XII.
+### CAPÍTULO XI.
 
-Del abandono de las cosas aseguradas.
+De los casos en que se anula, rescinde ó modifica el contrato de seguro.
 
 ###### Art. 818.
 
@@ -4360,9 +4408,9 @@ Del abandono de las cosas aseguradas.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO I.
+### CAPÍTULO XII.
 
-De las averías.
+Del abandono de las cosas aseguradas.
 
 ###### Art. 830.
 
@@ -4470,9 +4518,9 @@ De las averías.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-De las arribadas forzosas.
+De las averías.
 
 ###### Art. 856.
 
@@ -4508,9 +4556,9 @@ De las arribadas forzosas.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-De los abordajes.
+De las arribadas forzosas.
 
 ###### Art. 864.
 
@@ -4588,9 +4636,9 @@ DE LAS QUIEBRAS.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
-### CAPÍTULO IV.
+### CAPÍTULO III.
 
-De los naufragios.
+De los abordajes.
 
 ###### Art. 881.
 
@@ -4646,9 +4694,9 @@ De los naufragios.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO I.
+### CAPÍTULO IV.
 
-Disposiciones comunes á toda clase de averías.
+De los naufragios.
 
 ###### Art. 894.
 
@@ -4680,9 +4728,9 @@ Disposiciones comunes á toda clase de averías.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-De la liquidación de las averías gruesas.
+Disposiciones comunes á toda clase de averías.
 
 ###### Art. 901.
 
@@ -4742,9 +4790,9 @@ De la liquidación de las averías gruesas.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-De la liquidación de las averías simples.
+De la liquidación de las averías gruesas.
 
 ###### Art. 915.
 
@@ -4822,9 +4870,9 @@ Art. 1,047. En todos los casos en que el presente Código no establezca para la 
 
 Art. 1,048. La prescripción en materia mercantil correrá contra los menores é incapacitados, quedando á salvo los derechos de éstos para repetir contra sus tutores ó curadores.
 
-### CAPÍTULO I.
+### CAPÍTULO III.
 
-Disposiciones generales.
+De la liquidación de las averías simples.
 
 ###### Art. 921.
 
@@ -4848,9 +4896,9 @@ Disposiciones generales.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-De la clasificación de las quiebras.
+Disposiciones generales.
 
 ###### Art. 926.
 
@@ -4926,9 +4974,9 @@ De la clasificación de las quiebras.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-De los efectos del estado de quiebra.
+De la clasificación de las quiebras.
 
 ###### Art. 944.
 
@@ -4942,9 +4990,9 @@ De los efectos del estado de quiebra.
 
 DISPOSICIONES GENERALES.
 
-### CAPÍTULO IV.
+### CAPÍTULO III.
 
-De la época de la quiebra.
+De los efectos del estado de quiebra.
 
 ###### Art. 945.
 
@@ -4976,9 +5024,9 @@ De la época de la quiebra.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
-### CAPÍTULO V.
+### CAPÍTULO IV.
 
-Del convenio de los quebrados con sus acreedores.
+De la época de la quiebra.
 
 ###### Art. 952.
 
@@ -5022,9 +5070,9 @@ Del convenio de los quebrados con sus acreedores.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
-### CAPÍTULO VI.
+### CAPÍTULO V.
 
-De la graduación.
+Del convenio de los quebrados con sus acreedores.
 
 ###### Art. 962.
 
@@ -5116,25 +5164,9 @@ De la graduación.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
-### CAPÍTULO VII.
+### CAPÍTULO VI.
 
-De la rehabilitación.
-
-Art. 1,009. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,010. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,011. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,012. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,013. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,014. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,015. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+De la graduación.
 
 ###### Art. 984.
 
@@ -5154,29 +5186,23 @@ Art. 1,015. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA L
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
-### CAPÍTULO VIII.
+### CAPÍTULO VII.
 
-Disposiciones generales relativas á las quiebras, en las sociedades mercantiles.
+De la rehabilitación.
 
-Art. 1,016. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,009. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,017. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,010. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,018. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,011. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,019. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,012. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,020. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,013. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,021. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,014. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,022. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,023. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,024. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,025. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,015. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
@@ -5222,33 +5248,31 @@ Art. 1,025. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA L
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
-### CAPÍTULO IX.
+### CAPÍTULO VIII.
 
-De las quiebras de las compañías y empresas de ferrocarriles y demás obras públicas.
+Disposiciones generales relativas á las quiebras, en las sociedades mercantiles.
 
-Art. 1,026. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,016. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,027. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,017. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,028. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,018. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,029. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,019. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,030. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,020. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,031. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,021. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,032. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,022. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,033. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,023. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,034. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,024. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,035. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,025. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,036. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,037. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ###### Art. 998.
 
@@ -5277,6 +5301,34 @@ Art. 1,007. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA L
 Art. 1,008. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+
+### CAPÍTULO IX.
+
+De las quiebras de las compañías y empresas de ferrocarriles y demás obras públicas.
+
+Art. 1,026. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,027. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,028. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,029. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,030. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,031. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,032. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,033. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,034. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,035. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,036. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,037. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ### CAPÍTULO I.
 
@@ -5407,40 +5459,6 @@ Lo dispuesto en la fracción anterior, se observará también respecto de los es
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
 Art. 1,062. En el caso de que se demuestre haber solicitado al protocolo dependencia o archivo público la expedición del documento y no se expida, el juez ordenará al jefe o director responsable, que lo expida a costa del solicitante dentro del plazo de tres días y le informe al juez con apercibimiento en caso de no hacerlo de imposición de sanción pecuniaria hasta por los importes autorizados por la ley, que se aplicará en beneficio de la parte perjudicada.
-
-### CAPÍTULO III.
-
-De las formalidades judiciales.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,063. Los juicios mercantiles se substanciarán de acuerdo a los procedimientos, aplicables conforme este Código, las leyes especiales en materia de comercio y en su defecto por la ley procesal local respectiva.
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,064. Las actuaciones judiciales han de practicarse en días y horas hábiles, bajo pena de nulidad. Son días hábiles todos los días del año, menos los domingos y aquellos en que no laboren los tribunales competentes en materia mercantil que conozcan el procedimiento. Se entienden horas hábiles las que median desde las siete hasta las diecinueve horas.
-
-Art. 1,065. El juez puede habilitar los días y horas inhábiles para actuar ó para que se practiquen diligencias cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,066. El Secretario, o quien haga sus veces, hará constar el día y la hora en que se presente un escrito, dando cuenta con él a más tardar dentro de veinticuatro horas, bajo sanción de multa hasta por el equivalente a diez veces el salario mínimo general vigente en el lugar en que se ventila el procedimiento, sin perjuicio de las demás que merezca conforme a las leyes.
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,067. Los autos podrán ser consultados por las partes o por las personas autorizadas para ello permaneciendo siempre dentro del local del tribunal. La frase "dar o correr traslado" significa que los autos quedan a disposición de los interesados y en su caso se entreguen copias. Las disposiciones de este artículo comprenden al Ministerio Público.
-
-> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-El tribunal está obligado a expedir a costa del solicitante, sin demora alguna, copia simple o fotostática de los documentos o resoluciones que obren en autos, bastando que la parte interesada lo solicite verbalmente, sin que se requiera decreto judicial, dejando constancia en autos de su recepción.
-
-> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Para obtener copia certificada de cualquier documento que obre en juicio, la parte interesada debe solicitarlo en comparecencia o por escrito, requiriéndose decreto judicial, y cuando se pidiere copia o testimonio de parte de un documento o pieza, el contrario tendrá derecho de que a su costa se adicione con lo que crea conducente del mismo documento o pieza. Cuando la parte interesada solicite copia certificada de uno o varios documentos completos, en ningún caso se dará vista a la contraria. Al entregarse las copias certificadas, el que las reciba debe dejar en autos razón y constancia de su recibo, en el que señale las copias que reciba.
-
-> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Para obtener copia o testimonio de cualquier documento que se encuentre en archivos o protocolos que no están a disposición del público, aquél que pretenda lograrlo y carezca de legitimación en el acto contenido en el documento, requiere de decreto judicial, que no se dictará sino con conocimiento de causa y audiencia de parte, procediéndose incidentalmente, en caso de oposición.
 
 ## TÍTULO SEGUNDO
 
@@ -5677,6 +5695,40 @@ Art. 1,413. Las partes, durante el juicio, podrán convenir en que los bienes em
 Art. 1,414. Cualquier incidente o cuestión que se suscitare en los juicios ejecutivos mercantiles, serán resueltos por el juez con apoyo en las disposiciones respectivas de este título, y en su defecto, en lo relativo a los incidentes en los juicios ordinarios mercantiles; y a falta de unas y otras, a lo que disponga la ley procesal de la entidad federativa correspondiente, procurando la mayor equidad entre las partes sin perjuicio para ninguna de ellas.
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2000)</small>
+
+### CAPÍTULO III.
+
+De las formalidades judiciales.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,063. Los juicios mercantiles se substanciarán de acuerdo a los procedimientos, aplicables conforme este Código, las leyes especiales en materia de comercio y en su defecto por la ley procesal local respectiva.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,064. Las actuaciones judiciales han de practicarse en días y horas hábiles, bajo pena de nulidad. Son días hábiles todos los días del año, menos los domingos y aquellos en que no laboren los tribunales competentes en materia mercantil que conozcan el procedimiento. Se entienden horas hábiles las que median desde las siete hasta las diecinueve horas.
+
+Art. 1,065. El juez puede habilitar los días y horas inhábiles para actuar ó para que se practiquen diligencias cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,066. El Secretario, o quien haga sus veces, hará constar el día y la hora en que se presente un escrito, dando cuenta con él a más tardar dentro de veinticuatro horas, bajo sanción de multa hasta por el equivalente a diez veces el salario mínimo general vigente en el lugar en que se ventila el procedimiento, sin perjuicio de las demás que merezca conforme a las leyes.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,067. Los autos podrán ser consultados por las partes o por las personas autorizadas para ello permaneciendo siempre dentro del local del tribunal. La frase "dar o correr traslado" significa que los autos quedan a disposición de los interesados y en su caso se entreguen copias. Las disposiciones de este artículo comprenden al Ministerio Público.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+El tribunal está obligado a expedir a costa del solicitante, sin demora alguna, copia simple o fotostática de los documentos o resoluciones que obren en autos, bastando que la parte interesada lo solicite verbalmente, sin que se requiera decreto judicial, dejando constancia en autos de su recepción.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Para obtener copia certificada de cualquier documento que obre en juicio, la parte interesada debe solicitarlo en comparecencia o por escrito, requiriéndose decreto judicial, y cuando se pidiere copia o testimonio de parte de un documento o pieza, el contrario tendrá derecho de que a su costa se adicione con lo que crea conducente del mismo documento o pieza. Cuando la parte interesada solicite copia certificada de uno o varios documentos completos, en ningún caso se dará vista a la contraria. Al entregarse las copias certificadas, el que las reciba debe dejar en autos razón y constancia de su recibo, en el que señale las copias que reciba.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Para obtener copia o testimonio de cualquier documento que se encuentre en archivos o protocolos que no están a disposición del público, aquél que pretenda lograrlo y carezca de legitimación en el acto contenido en el documento, requiere de decreto judicial, que no se dictará sino con conocimiento de causa y audiencia de parte, procediéndose incidentalmente, en caso de oposición.
 
 ### CAPÍTULO IV.
 
@@ -6878,26 +6930,6 @@ En todos los casos en que el tribunal designe a los peritos, los honorarios de �
 
 Art. 1,258. Las partes tendrán derecho a interrogar al o a los peritos que hayan rendido su dictamen, salvo en los casos de avalúos a que se refiere el artículo 1257, y a que el juez ordene su comparecencia en la audiencia que para tal fin se señale, en la que se interrogará por aquél que la haya solicitado o por todos los colitigantes que la hayan pedido.
 
-### CAPÍTULO XVI.
-
-Del reconocimiento ó inspección judicial.
-
-Art. 1,259. El reconocimiento ó inspección judicial puede practicarse á petición de parte ó de oficio, si el juez lo cree necesario.
-
-> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-El reconocimiento se practicará el día, hora y lugar que se señalen.
-
-> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Las partes, sus representantes o abogados pueden concurrir a la inspección y hacer las observaciones que estimen oportunas.
-
-> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-También podrán concurrir a ellas los testigos de identidad o peritos que fueren necesarios.
-
-Art. 1,260. Del reconocimiento se levantará una acta, que firmarán todos los que á él concurran, y en la que se asentarán con exactitud los puntos que lo hayan provocado, las observaciones de los interesados, las declaraciones de los peritos, si los hubiere, y todo lo que el juez creyere conveniente para esclarecer la verdad.
-
 ###### Art. 1247.
 
 Las partes sólo podrán objetar los documentos dentro de los tres días siguientes a la apertura del término de prueba, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad podrán ser objetados en igual término, contado desde el día siguiente a aquel en que surta efectos la notificación del auto que ordene su recepción. En ambos casos se hará en forma incidental.
@@ -6951,6 +6983,26 @@ VI. Lo dispuesto en este artículo sólo da competencia al juez para conocer y d
 VII. Si durante la secuela del procedimiento se tramitare diverso proceso penal sobre la falsedad del documento en cuestión, el tribunal, sin suspender el juicio y según las circunstancias, podrá determinar al dictar sentencia si se reservan los derechos del impugnador para el caso en que penalmente se demuestre la falsedad o bien puede subordinar la eficacia ejecutiva de la sentencia a la prestación de una caución.
 
 Art. 1,251. En el caso de que alguna de las partes sostenga la falsedad de un documento que pueda ser de influencia notoria en el pleito, se observarán las prescripciones relativas del Código de Procedimientos Penales respectivo.
+
+### CAPÍTULO XVI.
+
+Del reconocimiento ó inspección judicial.
+
+Art. 1,259. El reconocimiento ó inspección judicial puede practicarse á petición de parte ó de oficio, si el juez lo cree necesario.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+El reconocimiento se practicará el día, hora y lugar que se señalen.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Las partes, sus representantes o abogados pueden concurrir a la inspección y hacer las observaciones que estimen oportunas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+También podrán concurrir a ellas los testigos de identidad o peritos que fueren necesarios.
+
+Art. 1,260. Del reconocimiento se levantará una acta, que firmarán todos los que á él concurran, y en la que se asentarán con exactitud los puntos que lo hayan provocado, las observaciones de los interesados, las declaraciones de los peritos, si los hubiere, y todo lo que el juez creyere conveniente para esclarecer la verdad.
 
 ### CAPÍTULO XVII.
 
@@ -7200,18 +7252,6 @@ Art. 1,329. Cuando hayan sido varios los puntos litigiosos, se hará con la debi
 
 Art. 1,330. Cuando hubiere condena de frutos, intereses, daños ó perjuicios, se fijará su importe en cantidad líquida, ó se establecerán por lo menos las bases con arreglo á las cuales deba hacerse la liquidación, cuando no sean el objeto principal del juicio.
 
-### CAPÍTULO XXIII.
-
-De la aclaración de sentencia.
-
-Art. 1,331. El recurso de aclaración de sentencia sólo procede respecto de las definitivas.
-
-Art. 1,332. El juez, al aclarar las cláusulas ó palabras contradictorias, ambiguas ú oscuras de la sentencia, no puede variar la sustancia de ésta.
-
-Art. 1,333. La interposición del recurso de aclaración de sentencia, interrumpe el término señalado para la apelación.
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE MAYO DE 1996)</small>
-
 ###### Art. 1298-A.
 
 Se reconoce como prueba los mensajes de datos. Para valorar la fuerza probatoria de dichos mensajes, se estimará primordialmente la fiabilidad del método en que haya sido generada, archivada, comunicada o conservada.
@@ -7253,6 +7293,18 @@ Art. 1,304. Un solo testigo hace prueba plena, cuando ambas partes personalmente
 Art. 1,305. Las presunciones legales de que trata el artículo 1,281, hacen prueba plena.
 
 Art. 1,306. Los jueces, según la naturaleza de los hechos, la prueba de ellos, el enlace natural más ó menos necesario que existe entre la verdad conocida y la que se busca, y la aplicación más ó menos exacta que se pueda hacer de los principios consignados en los artículos 1,283 á 1,286, apreciarán en justicia el valor de las presunciones humanas.
+
+### CAPÍTULO XXIII.
+
+De la aclaración de sentencia.
+
+Art. 1,331. El recurso de aclaración de sentencia sólo procede respecto de las definitivas.
+
+Art. 1,332. El juez, al aclarar las cláusulas ó palabras contradictorias, ambiguas ú oscuras de la sentencia, no puede variar la sustancia de ésta.
+
+Art. 1,333. La interposición del recurso de aclaración de sentencia, interrumpe el término señalado para la apelación.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE MAYO DE 1996)</small>
 
 ### CAPÍTULO XXIV.
 
@@ -7652,6 +7704,10 @@ En todo lo no previsto en este Capítulo serán aplicables las disposiciones con
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
 
+## TITULO TERCERO BIS. De los procedimientos de ejecución de la prenda sin transmisión de posesión y del fideicomiso de garantía
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2000)</small>
+
 ### CAPÍTULO I.
 
 Disposiciones generales.
@@ -7723,10 +7779,6 @@ Art. 1,422. Cuando se requiera la intervención judicial será competente para c
 Cuando el lugar del arbitraje se encuentre fuera del territorio nacional, conocerá del reconocimiento y de la ejecución del laudo el juez de primera instancia federal o del orden común competente, del domicilio del ejecutado o, en su defecto, el de la ubicación de los bienes.
 
 > <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
-
-## TITULO TERCERO BIS. De los procedimientos de ejecución de la prenda sin transmisión de posesión y del fideicomiso de garantía
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2000)</small>
 
 ### CAPÍTULO II.
 
@@ -8035,114 +8087,6 @@ Art. 1,460. El procedimiento de nulidad se sustanciará incidentalmente, de conf
 La resolución no será objeto de recurso alguno.
 
 > <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
-
-### CAPÍTULO IX.
-
-Reconocimiento y ejecución de laudos.
-
-> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
-
-Art. 1,461. Un laudo arbitral, cualquiera que sea el país en que haya sido dictado, será reconocido como vinculante y, después de la presentación de una petición por escrito al juez, será ejecutado de conformidad con las disposiciones de este capítulo.
-
-La parte que invoque un laudo o pida su ejecución deberá presentar el original del laudo debidamente autenticado o copia certificada del mismo, y el original del acuerdo de arbitraje a que se refieren los artículos 1416 fracción I y 1423 o copia certificada del mismo. Si el laudo o el acuerdo no estuviera redactado en español, la parte que lo invoca deberá presentar una traducción a este idioma de dichos documentos, hecha por perito oficial.
-
-> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
-
-Art. 1,462. Sólo se podrá denegar el reconocimiento o la ejecución de un laudo arbitral, cualquiera que sea el país en que se hubiere dictado, cuando:
-
-I. La parte contra la cual se invoca el laudo, pruebe ante el juez competente del país en que se pide en reconocimiento o la ejecución que:
-
-a) Una de las partes en el acuerdo de arbitraje estaba afectada por alguna incapacidad, o que dicho acuerdo no es válido en virtud de la ley a que las partes lo han sometido, o si nada se hubiere indicado a este respecto, en virtud de la ley del país en que se haya dictado el laudo;
-
-b) No fue debidamente notificada de la designación de un árbitro o de las actuaciones arbitrales, o no hubiere podido, por cualquier otra razón, hacer valer sus derechos;
-
-c) El laudo se refiere a una controversia no prevista en el acuerdo de arbitraje o contiene decisiones que exceden los términos del acuerdo de arbitraje. No obstante, si las disposiciones del laudo que se refieren a las cuestiones sometidas al arbitraje pueden separarse de las que no lo están, se podrá dar reconocimiento y ejecución a las primeras;
-
-d) La composición del tribunal arbitral o el procedimiento arbitral no se ajustaron al acuerdo celebrado entre las partes o, en defecto de tal acuerdo, que no se ajustaron a la ley del país donde se efectuó el arbitraje; o
-
-e) El laudo no sea aún obligatorio para las partes o hubiere sido anulado o suspendido por el juez del país en que, o conforme a cuyo derecho, hubiere sido dictado ese laudo; o
-
-II. El juez compruebe que, según la legislación mexicana, el objeto de la controversia no es susceptible de arbitraje; o que el reconocimiento o la ejecución del laudo son contrarios al orden público.
-
-> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
-
-Art. 1,463. Si se solicitó a un juez del país en que, o conforme a su derecho, fue dictado el laudo, su nulidad o suspensión, el juez al que se solicita el reconocimiento o la ejecución de laudo podrá, si lo considera procedente, aplazar su decisión y a instancia de la parte que pida el reconocimiento o la ejecución del laudo, podrá también ordenar a la otra parte que otorgue garantías suficientes.
-
-El procedimiento de reconocimiento o ejecución se sustanciará incidentalmente de conformidad con el Artículo 360 del Código Federal de Procedimientos Civiles. La resolución no será objeto de recurso alguno.
-
-Art. 1,464. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,465. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,466. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,467. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,468. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,469. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,470. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,471. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,472. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,473. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,474. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,475. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,476. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,477. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,478. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,479. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,480. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,481. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,482. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,483. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,484. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,485. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,486. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,487. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,488. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,489. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,490. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,491. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,492. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,493. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,494. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,495. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,496. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,497. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,498. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,499. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,500. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ### CAPÍTULO IX.
 
@@ -8577,3 +8521,9 @@ Sexto.- La Secretaría, en coordinación con los gobiernos estatales, determinar
 Séptimo.- Las solicitudes de inscripción de actos mercantiles en el Registro Público de Comercio y los medios de defensa iniciados con anterioridad a la entrada en vigor del presente Decreto, se substanciarán y resolverán, hasta su total conclusión, conforme a las disposiciones que les fueron aplicables al momento de iniciarse o interponerse.
 
 Octavo.- La Secretaría deberá publicar en el Diario Oficial de la Federación los lineamientos y formatos a que se refieren los artículos 18 y 20, que se reforman por virtud del presente Decreto, en un plazo máximo de noventa días, contados a partir de la fecha de su entrada en vigor.
+
+D.O.F. 5 DE JUNIO DE 2000.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
