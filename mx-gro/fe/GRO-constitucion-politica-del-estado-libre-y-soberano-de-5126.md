@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1950-12-13"
+last_updated: "1951-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-> <small>N. DE E. EL H. XXXVIII CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO APROBO EN SU DECRETO NUMERO 86 SUPRESIONES, REFORMAS Y ADICIONES A LA CONSTITUCION POLITICA VIGENTE DEL ESTADO, MODIFICANDO DE MANERA SUSTANCIAL EL TEXTO QUE A LA FECHA TENIA DICHO ORDENAMIENTO, AL QUEDAR DEROGADA LA CONSTITUCION DEL ESTADO DE FECHA 29 DE NOVIEMBRE DE 1880 CON TODAS SUS ADICIONES Y REFORMAS, PRESENTANDOSE POR TAL MOTIVO SOLO EL TEXTO APROBADO Y PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO EL 13 DE DICIEMBRE DE 1950.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1950.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1951.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -253,7 +251,7 @@ La Capital del Estado, es la Ciudad de Chilpancingo de los Bravos, donde deben r
 
 El Territorio del Estado comprende el que le señaló la Ley de su creación con la modificación contenida en el Decreto número 1 del 23 de marzo de 1907, relativo al arreglo de límites con el vecino Estado de Michoacán.
 
-Se divide en las siguientes Muncipalidades (sic): Ometepec, Igualapa, Xochistlahuaca, Tlacoachistlahuaca, Cuajinicuilapa, Tlacoapa, Taxco de Alarcón, Tetipac, Pilcaya, Teloloapan, Cuetzala del Progreso, Arcelia, Ixcateopan, Pedro Ascencio Alquisiras, Apaxtla, Ayutla de los Libres, Cuauhtepec, Copala, San Luis Acatlán, Azoyú, Florencio Villarreal, Chilapa, Atlixtac, Ahuacuotzingo, Zitlala, Copalillo, Chilpancingo de los Bravos, Zumpango del Río, Leonardo Bravo, Tlacotepec, Tecpan de Galeana, Atoyac de Alvarez, Benito Juárez, Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán, Quechultenango, Iguala, Tepecoacuilco, Cocula, Huitzuco, Buena Vista de Cuéllar, Atenango del Río, Coyuca de Catalán, Zirándaro, Ajuchitlán del Progreso, San Miguel Totolapan, Pungarabato, Cutzamala de Pinzón, Tlalchapa, Tlapehuala, La Unión, Coahuayutla de Guerrero, Petatlán, Tlapa, Copanatoyac, Atlamajalcingo del Monte, Alcozauca de Guerrero, Zapotitlán Tablas, Malinaltepec, Xalpatlahuac, Alpoyeca, Metlatonoc, Acapulco de Juárez, Coyuca de Benítez, San Marcos, Tecoanapa, Huamuxtitlán, Xochihuehuetlán, Cualac, Tlalixtaquilla y Olinalá.
+Se divide en las siguientes Municipalidades: Ometepec, Igualapa, Xochistlahuaca, Tlacoachistlahuaca, Cuajinicuilapa, Tlacoapa, Taxco de Alarcón, Tetipac, Pilcaya, Teloloapan, Cuetzala del Progreso, Arcelia, Ixcateopan, Pedro Ascencio Alquisiras, Apaxtla, Ayutla de los Libres, Cuautepec, Copala, San Luis Acatlán, Azoyú, Florencio Villarreal, Chilapa, Atlixtac, Ahuacuotzingo, Zitlala, Copalillo, Chilpancingo de los Bravo, Zumpango del Río, Leonardo Bravo, Heliodoro Castillo, Juan R. Escudero, Tecpan de Galeana, Atoyac de Alvarez, Benito Juárez, Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán, Quechultenango, Iguala, Tepecoacuilco, Cocula, Huitzuco, Buena Vista de Cuéllar, Atenango del Río, Coyuca de Catalán, Zirándaro, Ajuchitlán del Progreso, San Miguel Totolapan, Pungarabato, Cutzamala de Pinzón, Tlalchapa, Tlapehuala, La Unión, Coahuayutla, Petatlán, Tlapa, Copanatoyac, Atlamajalcingo del Monte, Alcozauca de Guerrero, Zapotitlán Tablas, Malinaltepec, Xalpatlahuac, Alpoyeca, Metlatonoc, Acapulco de Juárez, Coyuca de Benítez, San Marcos, Tecoanapa, Huamuxtitlán, Xochihuehuetlán, Cualac, Tlalixtaquilla y Olinalá.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
@@ -1161,7 +1159,7 @@ Esta Constitución no perderá su fuerza ni vigor, aún cuando por alguna rebeli
 
 ### CAPITULO I. DEL MUNICIPIO COMO PARTE DE LA DIVISION TERRITORIAL DEL ESTADO Y DE SU ORGANIZACION POLITICA Y ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1951)</small>
 
 ### CAPITULO II. DE LOS DISTRITOS
 
@@ -1500,3 +1498,9 @@ Queda derogada la Constitución del Estado de fecha 29 de noviembre de 1880, con
 P. O. 13 DE DICIEMBRE DE 1950.
 
 UNICO:- Por haberse recibido la aprobación de los HH. Ayuntamientos del Estado de acuerdo con lo ordenado por el artículo 111 de la Constitución, estas reformas surtirán sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 1951.
+
+Artículo Primero. El Municipi o (sic) de Juan R. Escudero comprenderán los núcleos de población que se le asignen al hacerse la modificación correspondiente a la Ley Número 59 Orgánica de División Territorial del Estado.
+
+Artículo Segundo. La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
