@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1988-05-01"
+last_updated: "1988-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1988.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -317,9 +317,7 @@ Los partidos políticos nacionales registrados, tendrán derecho a participar en
 
 ###### ARTICULO 26.
 
-El Estado de Durango está integrado por los siguientes Municipios: Canatlán, Canelas, Coneto de Comonfort, Cuencamé, Durango, El Oro, Gómez Palacio, Guadalupe Victoria, Guanaceví, Hidalgo, Indé, Lerdo, Mapimí Mezquital, Nazas, Nombre de Dios, Ocampo, Otáez, Pánuco de Coronado, Peñón Blanco, Poanas, Pueblo Nuevo Rodeo, San Bernardo, San Dimas, San Juan de Guadalupe, San Juan del Río, San Luis del Cordero, San Pedro del Gallo, Santa Clara, Santiago Papasquiaro, Simón Bolívar, Súchil, Tamazula, Tepehuanes, Tlahualilo, Topia y Vicente Guerrero y con los demás que se formen en lo sucesivo.
-
-El Territorio del Estado tiene la extensión y límites que señala la Ley de División Territorial.
+El Estado de Durango está integrado por los siguientes Municipios: Canatlán, Canelas, Coneto de Comonfort, Cuencamé, Durango, El Oro, Gómez Palacio, Guadalupe Victoria, Guanaceví, Hidalgo, Indé, Lerdo, Mapimí, Mezquital, Nazas, Nombre de Dios, Nuevo Ideal, Ocampo Otaéz, Pánuco de Coronado, Peñón Blanco, Poanas, Pueblo Nuevo, Rodeo, San Bernardo, San Dimas, San Juan de Guadalupe, San Juan del Río, San Luis del Cordero, San Pedro del Gallo, Santa Clara, Santiago Papasquiaro, Simón Bolívar, Súchil, Tamazula, Tepehuanes, Tlahualilo, Topia y Vicente Guerrero y con los demás que se formen en lo sucesivo. El territorio del Estado tiene la extensión y límites que señala la Ley de División Territorial.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -487,7 +485,7 @@ El Congreso o la Comisión Permanente, en su caso, expedirá la convocatoria par
 
 ### CAPITULO SEGUNDO. DEL TERRITORIO
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 43.
 
@@ -823,9 +821,9 @@ c).- El Gobernador interino cuando haya desempeñado el cargo en los dos último
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
+SECCON A.- DE SU ORGANIZACION
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1988)</small>
 
 ###### ARTICULO 60.
 
@@ -1277,6 +1275,10 @@ La competencia del Supremo Tribunal de Justicia, el funcionamiento del Pleno y d
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
+SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+
 ###### ARTICULO 92.
 
 El Supremo Tribunal de Justicia del Estado se integra por siete Magistrados numerarios y siete Magistrados supernumerarios; éstos últimos suplirán a aquéllos en sus faltas temporales y también, temporalmente, en sus faltas definitivas, a cuyo efecto serán llamados en el orden numérico en que hubieren sido electos.
@@ -1360,10 +1362,6 @@ XI.- Las demás que le confieren esta Constitución y las leyes;
 XII.- (DEROGADA, P.O. 24 DE ABRIL DE 1988)
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCON A.- DE SU ORGANIZACION
-
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 1988)</small>
 
 ###### ARTICULO 98.
 
@@ -2052,3 +2050,7 @@ P.O. 1 DE MAYO DE 1988.
 PRIMERO.- El presente Decreto entrará en vigor (3) días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 29 DE DICIEMBRE DE 1988.
+
+UNICO.- El presente Decreto surtirá sus efectos legales el 1° de Enero de 1989.
