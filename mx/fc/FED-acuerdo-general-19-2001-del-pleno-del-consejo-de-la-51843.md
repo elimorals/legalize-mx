@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-19-2001-del-pleno-del-consejo-de-la-51843"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-03-20"
-last_updated: "2001-03-20"
+last_updated: "2003-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51843&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-03-12"
 
 ACUERDO GENERAL 19/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA ASISTENCIA A LOS CONCURSOS DE OPOSICION PARA EL INGRESO A LAS CATEGORIAS DE MAGISTRADO DE CIRCUITO Y JUEZ DE DISTRITO, POR PARTE DE LOS JUECES DE DISTRITO, ASI COMO DE LOS SERVIDORES PUBLICOS DE LA CARRERA JUDICIAL ADSCRITOS A TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 24/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 29 DE MAYO DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 20 de marzo de 2001.
 
@@ -68,3 +70,13 @@ PRIMERO.- El presente Acuerdo surtirá efectos a partir del día siguiente al de
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 19/2001, del Pleno del Consejo de la Judicatura Federal, Relativo a la Asistencia a los Concursos de Oposición para el Ingreso a las Categorías de Magistrado de Circuito y Juez de Distrito, por parte de los Jueces de Distrito, así como de los Servidores Públicos de la Carrera Judicial Adscritos a Tribunales de Circuito y Juzgados de Distrito, fue aprobado por el propio Pleno, en sesión extraordinaria de doce de marzo de dos mil uno, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a doce de marzo de dos mil uno.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 29 DE MAYO DE 2003.
+
+PRIMERO.- El presente acuerdo surtirá efectos a partir del día siguiente al de su aprobación.
+
+SEGUNDO.- A partir de la entrada en vigor del presente acuerdo se abroga el diverso Acuerdo General 19/2001, del Pleno del Consejo de la Judicatura Federal.
+
+TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
