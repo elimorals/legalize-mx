@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1982-12-14"
+last_updated: "1983-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 1983.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -643,7 +643,9 @@ V. Dictar todas las leyes necesarias para el mejor funcionamiento de los Municip
 
 VI. Decretar los ingresos que deben constituir la Hacienda Municipal;
 
-VII.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1983)</small>
+
+VII.- Dictar Leyes para la Planeación Democrática del Desarrollo del Estado.
 
 > <small>(ADICIONADA, P.O. 28 DE JUNIO DE 1979)</small>
 
@@ -1009,9 +1011,9 @@ XII. Cuidar de la instrucción de la Guardia Nacional en el Estado, conforme a l
 
 XIII. Cuidar de la recaudación y buena administración de las rentas generales del Estado;
 
-> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 1979)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1983)</small>
 
-XIV. Elaborar, ejecutar y revisar periódicamente los Planes de Desarrollo del Estado, así como los Parciales y Especiales derivados de aquéllos.
+XIV.- Planear y conducir el desarrollo integral del Estado en la esfera de su competencia; establecer procedimientos de participación y de consulta popular en el Sistema de Planeación Democrática, y los criterios para la formulación, instrumentación, ejecución, control y evaluación del Plan y los Programas de Desarrollo.
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -2534,3 +2536,9 @@ G.G. 14 DE DICIEMBRE DE 1982.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día de su publicación en la Gaceta del Gobierno del Estado.
+
+G.G. 19 DE DICIEMBRE DE 1983.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta del Gobierno del Estado.
