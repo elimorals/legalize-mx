@@ -4,7 +4,7 @@ identifier: "FED-ley-del-servicio-publico-de-energia-electrica-697"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-22"
-last_updated: "1986-12-31"
+last_updated: "1989-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=697&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1975-12-10"
 
 LEY DEL SERVICIO PUBLICO DE ENERGIA ELECTRICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1989.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 22 de diciembre de 1975.
 
@@ -537,7 +537,9 @@ La Comisión Federal de Electricidad continuará prestando el servicio público 
 
 A partir de la fecha en que entre en vigor esta ley, quedarán sin efecto todas las concesiones otorgadas para la prestación del servicio público de energía eléctrica.
 
-Las empresas concesionarias, entrarán o continuarán en disolución y liquidación y prestarán el servicio hasta ser totalmente liquidadas.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1989)</small>
+
+Las empresas concesionarias, entrarán o continuarán en disolución y liquidación y prestarán el servicio hasta ser totalmente liquidadas. Concluida la liquidación de la Compañía de Luz y Fuerza del Centro, S.A., y sus asociadas Compañía de Luz y Fuerza de Pachuca, S.A., Compañía Mexicana Meridional de Fuerza, S.A., y Compañía de Luz y Fuerza Eléctrica de Toluca, S.A., el Ejecutivo Federal, dispondrá la constitución de un organismo descentralizado con personalidad jurídica y patrimonio propios, el cual tendrá a su cargo la prestación del servicio que han venido proporcionando dichas compañías. El Decreto de creación del organismo establecerá, con arreglo a esta disposición, la estructura, organización y funciones que tendrá el propio organismo para el adecuado cumplimiento de sus fines.
 
 ###### ARTICULO QUINTO.
 
@@ -564,3 +566,17 @@ D.O.F. 31 DE DICIEMBRE DE 1986.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1987.
+
+D.O.F. 27 DE DICIEMBRE DE 1989.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se aplicará en sus términos el convenio del 14 de marzo de 1989 celebrado entre la Compañía de Luz y Fuerza del Centro, S.A. y sus asociadas y el Sindicato Mexicano de Electricistas, respetándose los derechos de los trabajadores, conforme a la ley, al contrato colectivo y a los demás pactos laborales, de los cuales es titular la citada agrupación obrera.
+
+###### ARTICULO TERCERO.
+
+El Ejecutivo Federal dispsondrá (sic) lo necesario para dar celeridad a los procedimientos de liquidación de las citadas empresas, para que al concluirlos, se constituya el organismo que se ordena crear.
