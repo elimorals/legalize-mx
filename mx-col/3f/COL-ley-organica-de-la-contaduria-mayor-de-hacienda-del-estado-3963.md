@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-contaduria-mayor-de-hacienda-del-estado-3963
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-08-27"
-last_updated: "1988-08-27"
+last_updated: "2004-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2004.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 27 de agosto de 1988.
 
@@ -79,7 +79,9 @@ I.- Verificar y evaluar si las entidades realizaron sus actividades financieras 
 
 II.- Ordenar y practicar auditorías, visitas e inspecciones y, en general, realizar las investigaciones necesarias para lograr el cabal cumplimiento de sus atribuciones y solicitar de cualquier persona física o moral la documentación que le fuere necesaria para dicho fin;
 
-III.- Revisar las Cuentas Públicas Estatal y Municipales;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+III. Revisar los resultados semestrales de las cuentas públicas, considerando el desahogo de las confrontas derivadas de las observaciones, la elaboración y entrega de los informes primero de auditoría, hasta la terminación del informe final de auditoría con las recomendaciones sobre la aplicación de posibles sanciones, el cual deberá quedar concluido dentro de los siguientes sesenta días naturales a la presentación de los mismos por el gobierno del Estado y los Ayuntamientos, debiendo remitirlo dentro de ese plazo a la Comisión de Hacienda y Presupuesto para la elaboración del dictamen correspondiente.
 
 IV.- Formular recomendaciones a las entidades fiscalizadas sobre sistemas, métodos, procedimientos o medidas cuya adopción por parte de éstas estime convenientes; vigilar la atención que se preste a las mismas y, en su caso, concertar con las propias entidades acciones tendientes a la implantación de las mencionadas recomendaciones;
 
@@ -127,7 +129,9 @@ I.- Someter a la consideración del Congreso el presupuesto anual de la Contadur
 
 II.- Estudiar y aprobar, en su caso, el ejercicio del presupuesto trimestral y revisar las cuentas anuales y mensuales que presente la Contaduría Mayor de Hacienda;
 
-III.- Recibir del Congreso y turnar para su revisión a la Contaduría Mayor de Hacienda las Cuentas Públicas Estatales y Municipales;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+III. Recibir del Congreso y turnar para su revisión a la Contaduría Mayor de Hacienda el dictamen de revisión de los resultados semestrales de la cuenta pública municipal, así como el resultado de la cuenta pública semestral del gobierno del Estado;
 
 IV.- Ordenar, en caso de juzgarse necesario, la práctica de visitas, inspecciones, auditorías o trabajos de investigación, adicionales a los contenidos en los programas de trabajo formulados por la Contaduría Mayor de Hacienda;
 
@@ -138,6 +142,18 @@ VI.- Ser el conducto de comunicación entre el Congreso del Estado y la Contadur
 VII.- Aclarar y resolver consultas sobre la aplicación de esta Ley, su Reglamento y el Reglamento Interior de la Contaduría Mayor de Hacienda para efectos administrativos; y
 
 VIII.- Dictar las medidas que estime necesarias para que la Contaduría Mayor de Hacienda cumpla con las funciones que le corresponden legalmente, así como con los acuerdos e instrucciones que dicte el Congreso del Estado.
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2004)</small>
+
+IX.- Recibir de la Contaduría Mayor de Hacienda los informes finales de auditoría del primer y segundo semestre, dentro de los siguientes sesenta días naturales a la presentación de los resultados de las cuentas públicas semestrales estatal y municipales;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2004)</small>
+
+X.- Elaborar y presentar al pleno del Congreso el dictamen de los resultados semestrales de las cuentas públicas estatal y municipales, a más tardar el 15 de noviembre el correspondiente al primer semestre de cada año, y el 15 de mayo del siguiente año el que corresponda al segundo semestre, para que el Congreso expida el decreto en el que se consigne la conclusión del proceso de revisión y fiscalización de los resultados de la cuenta pública de que se trate, en términos de la fracción XI del artículo 33 de la Constitución Política del estado Libre y Soberano de Colima; y
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2004)</small>
+
+XI.- Las demás que le otorgue esta Ley, las demás disposiciones legales aplicables y las que le encomiende el Congreso del Estado.
 
 C A P I T U L O T E R C E R O
 
@@ -222,6 +238,14 @@ Así mismo, forman parte de la Cuenta Pública los estados contables, financiero
 La revisión que realice la Contaduría Mayor de Hacienda tendrá por objeto: precisar el ingreso y el gasto público; determinar el resultado de la gestión financiera de las Entidades durante el ejercicio que se revisa; verificar si el ingreso deriva de la aplicación estricta de las Leyes de Ingresos y demás Leyes y Reglamentos aplicables en materia fiscal; comprobar si el gasto público se ajustó a los presupuestos de egresos y verificar si se han cumplido los programas y subprogramas aprobados.
 
 La revisión no sólo comprenderá la conformidad de las partidas de ingresos y egresos, sino que se extenderá a una revisión legal, económica, financiera y contable del ingreso y gasto público y verificará la exactitud y la justificación de las cantidades erogadas, así como de si los cobros y pagos hechos se efectuaron de acuerdo con los precios y tarifas autorizadas o de mercado, pudiendo la Contaduría Mayor de Hacienda ejercer sus atribuciones para fiscalizar, controlar y evaluar a las entidades en cualquier momento, siempre que se hubieren realizado los actos o hechos o tenido lugar las omisiones que constituyan la materia de su función.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2004)</small>
+
+Dichos resultados se elaborarán por los meses comprendidos de enero a junio y de julio a diciembre de cada año, debiendo integrar en este último periodo las cifras consolidadas anuales de los resultados de la gestión estatal y municipales, según corresponda.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2004)</small>
+
+Respecto del primer semestre del año, los resultados tendrán carácter provisional, por lo que se podrán realizar ajustes durante el semestre siguiente, mismos que habrán de reflejarse en los resultados anuales.
 
 ###### ARTICULO 15.
 
@@ -384,3 +408,13 @@ LIC. ELIAS ZAMORA VERDUZCO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. HECTOR DUEÑAS GONZALEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE JULIO DE 2004.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+Segundo.- La revisión y fiscalización de la cuenta pública municipal correspondiente al ejercicio fiscal 2003, se sujetará a las bases y disposiciones constitucionales del sistema anual de rendición de cuentas establecidas antes de la presente reforma.
+
+Tercer.- Para el caso de la aprobación por el Cabildo y su remisión al Congreso del Estado del dictamen de revisión de los resultados de la cuenta pública, correspondiente al primer semestre de 2004, por única vez se amplía el plazo al 31 de agosto de 2004, sujetándose la Contaduría Mayor de Hacienda y el Congreso para su revisión y fiscalización a la fecha establecida en el artículo 33, fracción XI, de la Constitución Política del Estado Libre y Soberano de Colima.
