@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2003-04-21"
+last_updated: "2003-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGANICO DE LA FINANCIERA RURAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 2003.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -269,7 +269,9 @@ III. Actuar como delegado fiduciario general;
 
 IV. Presentar al Consejo las propuestas que, conforme a la Ley, correspondan efectuar a los comités de la Financiera;
 
-V. Proponer al Consejo el nombramiento de los servidores públicos de la Financiera que ocupen cargos con las dos jerarquías administrativas inmediatas inferiores a la de aquél, así como a sus delegados fiduciarios;
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
+V. Proponer al Consejo el nombramiento de los servidores públicos de la Financiera que ocupen cargos con dos jerarquías administrativas inmediatas inferiores a la de aquél, a sus delegados fiduciarios y a los titulares de las coordinaciones regionales;
 
 VI. Someter a la autorización del Consejo el establecimiento, reubicación y cierre de coordinaciones regionales y agencias en el territorio nacional;
 
@@ -283,7 +285,7 @@ X. Nombrar a los servidores públicos de la Financiera, distintos de los señala
 
 XI. Remover a los servidores públicos y empleados de la Financiera;
 
-XII. Designar el domicilio de la Financiera en el Distrito Federal y ordenar su publicación en el Diario Oficial de la Federación.
+XII. Designar el domicilio de la Financiera en el Distrito Federal y ordenar su publicación en el Diario Oficial de la Federación;
 
 XIII. Instruir la constitución de comités internos de trabajo distintos a los contemplados por los artículos 37 y 38 de la Ley, integrados por servidores públicos de la Financiera, a efecto de que lleven a cabo tareas definidas por el propio Director General en materias específicas, de conformidad con las necesidades operativas y sustantivas de la propia Institución;
 
@@ -295,11 +297,13 @@ XVI. Las demás que le atribuya el Consejo y la Ley.
 
 Las facultades del Director General previstas en las fracciones III, IV, V, VI, VII y X de este artículo serán indelegables.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
 ### CAPITULO III. DE LAS DIRECCIONES GENERALES ADJUNTAS
 
 ###### ARTICULO 17.
 
-La Unidad Integral de Riesgos estará adscrita orgánicamente de manera directa a la Dirección General y tendrá las siguientes atribuciones:
+La Unidad para la Administración Integral de Riesgos, estará adscrita de manera directa a la Dirección General y tendrá las siguientes atribuciones:
 
 I. Proponer la metodología para identificar, medir, monitorear e informar los riesgos cuantificables que enfrenta la Institución en sus operaciones;
 
@@ -377,9 +381,13 @@ IV. Coordinar las actividades de comunicación y seguimiento de información de 
 
 V. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomiende el Secretario Técnico.
 
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTICULO 21.
 
-Corresponde al Prosecretario del Consejo coadyuvar con el Secretario en el seguimiento de los acuerdos que tome el Consejo Directivo y suplirlo en sus ausencias, en cuyo caso tendrá las mismas facultades señaladas en el artículo catorce anterior.
+La Prosecretaría del Consejo Directivo de la Financiera Rural, estará adscrita orgánicamente de manera directa a la Dirección General Adjunta Jurídica.
+
+Corresponde al Prosecretario del Consejo, coadyuvar con el Secretario del Consejo Directivo en el seguimiento de los acuerdos que tome el Consejo Directivo y suplirlo en sus ausencias, en cuyo caso tendrá las mismas facultades señaladas en el Artículo Quince anterior.
 
 ###### ARTICULO 22.
 
@@ -403,13 +411,27 @@ VIII. Dentro de su esfera de atribuciones, suplir al Director General de la Fina
 
 IX. Dirigir, coordinar y supervisar el proceso jurídico y administrativo fiduciario, para una adecuada selección, aceptación y administración de negocios fiduciarios, así como en la prestación de la actividad valuatoria;
 
-X. Llevar a cabo la coordinación técnica con las unidades jurídicas de las Coordinaciones Regionales, a efecto de lograr uniformidad en la defensa de los intereses de la Institución, y
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
 
-XI. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomienden el Director General o el Consejo Directivo.
+X. Dirigir la coordinación técnica con las Gerencias Jurídicas de las Coordinaciones Regionales, a efecto de lograr uniformidad en la defensa de los intereses de la Institución.
+
+Para tales efectos, las Gerencias Jurídicas de las Coordinaciones Regionales dependerán en materia técnica y decisoria de la Dirección General Adjunta Jurídica, cuyas resoluciones vincularán en todo momento a dichas Gerencias Jurídicas;
+
+> <small>(ADICIONADA, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
+XI. Aprobar el nombramiento y remoción de los Gerentes Jurídicos de las Coordinaciones Regionales de la Financiera;
+
+> <small>(ADICIONADA, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
+XII. Dar seguimiento a los acuerdos tomados por el Consejo Directivo, en las sesiones en que sea nombrado Secretario del mismo, y
+
+XIII. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomienden el Director General o el Consejo Directivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 23.
 
-Corresponde al Director Ejecutivo Contencioso:
+Corresponde al Subdirector Corporativo Jurídico Contencioso:
 
 I. Definir, coordinar, instrumentar, dar seguimiento, controlar y evaluar la defensa de los intereses de la Institución en todo tipo de controversia administrativa y judicial;
 
@@ -425,15 +447,17 @@ VI. Coadyuvar en la contratación de servicios de abogados externos para la defe
 
 VII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto Jurídico.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTICULO 24.
 
-Corresponde al Director Ejecutivo Corporativo y Normativo:
+Corresponde al Subdirector Corporativo Jurídico de Normatividad y Consulta:
 
 I. Dirigir y apoyar en el desarrollo del análisis, interpretación y consulta de leyes, reglamentos, decretos y demás disposiciones legales y administrativas aplicables;
 
 II. Evaluar y sancionar los lineamientos para la función jurídica de la Financiera Rural;
 
-III. Elaborar los contratos y convenios típicos y atípicos y sancionar los que presenten las diferentes áreas de la Financiera Rural, así como aquellos en los que se establezca la coordinación con dependencias y entidades de la Administración Pública y organismos de los sectores social y privado;
+III. (DEROGADA, D.O.F. 17 DE NOVIEMBRE DE 2003)
 
 IV. Planear y aplicar políticas y procedimientos para la administración del riesgo legal, promoviendo que los contratos y convenios en los que participe la Institución, prevengan vicios en la celebración de operaciones;
 
@@ -495,7 +519,7 @@ I. Supervisar que las operaciones de crédito, previo a su registro y aplicació
 
 II. Proponer los lineamientos para el registro resguardo (sic) y custodia de la documentación legal, de garantías y valores que respaldan los créditos autorizados;
 
-III. Supervisar periódicamente que las agencias designadas, cuenten en el guardavalores con la documentación original que respalde la operación de los créditos;
+III. (DEROGADA, D.O.F. 17 DE NOVIEMBRE DE 2003)
 
 IV. Supervisar que sean procesadas las operaciones de crédito de la mesa de control;
 
@@ -509,11 +533,15 @@ VII. Llevar a cabo las demás actividades dentro del área de su competencia, qu
 
 Corresponde a la Dirección Ejecutiva de Programas y Productos:
 
-I. Proponer la creación, diseño y adecuación de programas y productos de crédito, de acuerdo a las necesidades del mercado y objetivos de la Institución;
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
+I. Proponer la creación y adecuación de programas y productos de crédito o garantía, de acuerdo a las necesidades del mercado y objetivos de la Institución y participar activamente en el desarrollo e implementación de los mismos;
 
 II. Supervisar la implantación de los programas de colocación diseñados en conjunto con el Gobierno Federal, Estatal y/o Municipal, con Intermediarios Financieros Rurales, así como los programas de microcrédito, a través de los distintos procesos y productos de crédito que ofrece la Financiera Rural;
 
-III. Supervisar la creación, diseño y adecuación de productos de crédito o garantía, de acuerdo a las necesidades del mercado y objetivos de la Institución;
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
+III. Coordinar la investigación de campo a fin de conocer los movimientos y tendencias del sector en la oferta de productos y servicios; coordinar la investigación de campo que permita un continuo monitoreo de la rentabilidad de los productos y servicios que ofrece la institución a su clientela;
 
 IV. Elaborar en coordinación con otras áreas de la institución, en su caso, estudios que propicien mejores condiciones de mercado y la conveniencia de operar nuevos productos y servicios, que permitan a la Institución ofrecer un servicio integral y competitivo;
 
@@ -547,55 +575,51 @@ V. Definir, operar y administrar la base de datos de (sic) cartera institucional
 
 VI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables así como aquellas que le encomiende el Director General Adjunto de Programas y Operación.
 
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTICULO 31.
 
-Corresponde a la Subdirección de Seguimiento de Procesos:
+Corresponde a la Dirección Ejecutiva de Coordinación y Evaluación Regional.
 
-I. Generar informes de manera sistemática sobre el estado que guarda la cartera crediticia total de la Institución;
+I. Coordinar y evaluar el funcionamiento de las coordinaciones regionales y agencias;
 
-II. Informar a las instancias superiores y órganos de control, de los resultados sobre la recuperación del crédito;
+II. Coordinar el diseño del sistema de información gerencial, que permita generar y administrar la información de la operación de la Institución;
 
-III. Generar indicadores de gestión de la cartera de crédito de la Institución para las instancias superiores;
+III. Informar a las instancias superiores, y órganos de control, de los resultados de la operación de los programas de la Institución;
 
-IV. Diseñar y coordinar los reportes de seguimiento de las coordinaciones regionales y de las agencias así como establecer los mecanismos de comunicación con las mismas para mantenerlas informadas de su situación;
+IV. Diseñar y coordinar los reportes de seguimiento de las coordinaciones regionales y de las agencias, así como establecer un canal único de información;
 
-V. Dar seguimiento a las líneas de negocio y a los costos de operación de las diferentes unidades de gestión de la Institución;
+V. Preparar la información que por Ley y disposiciones normativas debe ser entregada a entidades reguladoras y externas de la Financiera Rural;
 
-VI. Generar los reportes de información para entregar a las autoridades, y
+VI. Establecer mecanismos de evaluación que permitan detectar desviaciones a la normatividad, avances en el cumplimiento de programas y de seguimiento a la gestión operativa;
 
-VII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables así como aquellas que le encomiende el Director General Adjunto de Programas y Operación.
+VII. Participar en la elaboración de diagnósticos de la operación, detectando debilidades y fortalezas que permitan actuar de forma preventiva, autocrítica y propositiva en el funcionamiento de las coordinaciones regionales y agencias;
+
+VIII. Coordinar y dar seguimiento a los avances de las áreas operativas respecto de los programas de trabajo previamente establecidos;
+
+IX. Contribuir a la mejora continua de los programas y procesos de la Financiera Rural, y
+
+X. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto de Programas y Operación.
+
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 32.
 
-Corresponde a la Subdirección de Programas de Crédito:
+Corresponde a la Subdirección de Desarrollo de Programas y Productos de Crédito:
 
-I. Diseñar y proponer programas de crédito, de acuerdo a las necesidades del mercado y objetivos de la Institución;
+I. Participar en el diseño de productos y programas de crédito o garantía;
 
-II. Elaborar y dar seguimiento a los programas específicos que en materia de financiamiento rural se determinen en el Presupuesto de Egresos de la Federación, en los que se podrán incluir programas de tasa preferenciales, así como coordinarse con instancias que aporten capital de riesgo para el apoyo de diversos proyectos vinculados con el objeto de la Financiera;
+II. Desarrollar e implementar productos y programas de crédito o garantía;
 
-III. Establecer y supervisar los programas de crédito al sector rural;
+III. Desarrollar y dar seguimiento a los programas específicos que en materia de financiamiento rural se determinen en el presupuesto de Egresos de la Federación, en los que se podrán incluir programas de tasa (sic) preferenciales, así como coordinarse con instancias que aporten capital de riesgo para el apoyo de diversos proyectos vinculados con el objeto de la Financiera;
 
-IV. Llevar a cabo la implantación de los programas diseñados con el Gobierno Federal, Estatal y/o Municipal, con Intermediarios Financieros Rurales, así como los programas de microcrédito, a través de los distintos procesos y productos de crédito que ofrece la Financiera Rural;
+IV. Llevar a cabo la implantación de los programas diseñados con el Gobierno Federal, Estatal y/o municipal, con Intermediarios Financieros Rurales, así como los programas de microcrédito, a través de los distintos procesos y productos de crédito que ofrece la Financiera Rural, y
 
-V. Implantar los programas de crédito al sector rural;
-
-VI. Establecer los mecanismos de retroalimentación a través de las Coordinaciones Regionales para conocer las necesidades de la clientela a fin de modificar o diseñar programas acordes a las necesidades del mercado objetivo;
-
-VII. Elaborar y dar seguimiento a los programas específicos que en materia de financiamiento rural se determinen en el Presupuesto de Egresos de la Federación, en los que se podrán incluir programas de tasa preferenciales; así como coordinarse con instancias que aporten capital de riesgo para el apoyo de diversos proyectos vinculados con el objeto de la Financiera, y
-
-VIII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables así como aquellas que le encomiende el Director General Adjunto de Programas y Operación.
+V. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director Ejecutivo de Programas y Productos.
 
 ###### ARTICULO 33.
 
-Corresponde a la de Subdirección de Diseño de Productos:
-
-I. Diseñar, proponer e implantar los productos de crédito, de acuerdo a las necesidades del mercado y objetivos de la Institución;
-
-II. Establecer los mecanismos de retroalimentación a través de las Coordinaciones Regionales para conocer las necesidades de la clientela a fin de modificar o diseñar estrategias, productos y servicios acorde a las necesidades de nuestro mercado;
-
-III. Coordinar la investigación de campo a fin de conocer los movimientos y tendencias del sector en la oferta de productos y servicios; coordinar la investigación de campo que permita un continuo monitoreo de la rentabilidad de los productos y servicios que ofrece la Institución a su clientela, y
-
-IV. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables así como aquellas que le encomiende el Director General Adjunto de Programas y Operación.
+(DEROGADO, D.O.F. 17 DE NOVIEMBRE DE 2003)
 
 ###### ARTICULO 34.
 
@@ -615,7 +639,17 @@ VI. Coordinar la relación con las Sociedades de Información Crediticia y vigil
 
 VII. Coordinar el Comité Integral de Riesgos, así como cuidar que sus recomendaciones en cuanto a riesgo operativo, de crédito, legal y financiero sean atendidas por las áreas correspondientes, y
 
-VIII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomienden el Director General o el Consejo Directivo.
+> <small>(ADICIONADA, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
+VIII. Coordinar a las Gerencias de Análisis de Crédito de las Coordinaciones Regionales;
+
+Para tales efectos, las Gerencias de Análisis de Crédito, para la emisión de opiniones y toma de decisiones en materia crediticia, tendrán independencia de las Coordinaciones Regionales y dependerán funcionalmente de la Dirección General Adjunta de Política de Crédito y Riesgo, cuyas resoluciones vincularán en todo momento a dichas Gerencias de Análisis de Crédito;
+
+> <small>(ADICIONADA, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
+IX. Aprobar el nombramiento y remoción de los Gerentes de Análisis de Crédito de las Coordinaciones Regionales de la Financiera, y
+
+X. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomienden el Director General o el Consejo Directivo.
 
 ###### ARTICULO 35.
 
@@ -801,7 +835,37 @@ V. Planear y evaluar los sistemas de información para responder a los requerimi
 
 VI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomienden el Director General o el Consejo Directivo.
 
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTICULO 45.
+
+Corresponde a la Dirección Ejecutiva de Finanzas:
+
+I. Establecer el marco de referencia del plan estratégico institucional y aportar elementos de juicio para la planeación, mediante el análisis recurrente de su entorno socioeconómico, financiero y sectorial, así como de las condiciones en que opera;
+
+II. Coordinar con otras áreas la realización de estudios para determinar zonas potenciales, mejores condiciones de mercado y nuevos productos y servicios financieros, que favorezcan la productividad, rentabilidad y eficiencia de la Institución;
+
+III. Coordinar la integración del plan estratégico institucional;
+
+IV. Coordinar la definición y proponer las diversas metodologías relativas al proceso de planeación, para normar y orientar en el sistema la integración de los planes y proyectos;
+
+V. Dirigir la formulación de lineamientos de política, proyectos y acciones, a fin de apoyar el desarrollo estratégico de las funciones encomendadas a la Institución;
+
+VI. En colaboración con otras áreas de la institución el desarrollo de los sistemas de información de la Financiera, que permitan el seguimiento y evaluación del proceso de planeación, la productividad, rentabilidad y eficiencia de la Institución;
+
+VII. Planear y dirigir la evaluación institucional y presentar los informes de autoevaluación;
+
+VIII. Mantener y supervisar el adecuado funcionamiento de los sistemas de información contable y fiscal para proporcionar la información que requieren las autoridades y cumplir con las obligaciones establecidas por las leyes y normas vigentes;
+
+IX. Garantizar el cumplimiento de las normas y políticas para el registro contable, control y reportes a las autoridades de acuerdo a las directrices establecidas por las autoridades financieras;
+
+X. Garantizar el cumplimiento de manera oportuna, de las obligaciones que en materia fiscal tiene la Institución, de acuerdo a las leyes y normas vigentes, y
+
+XI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto de Planeación y Finanzas.
+
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
+###### ARTICULO 46.
 
 Corresponde a la Subdirección de Sistemas:
 
@@ -829,37 +893,9 @@ XI. Planear, organizar y dirigir la operación del centro de cómputo, y
 
 XII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto de Planeación y Finanzas.
 
-###### ARTICULO 46.
-
-Corresponde a la Subdirección de Planeación Financiera:
-
-I. Establecer el marco de referencia del plan estratégico institucional y aportar elementos de juicio para la planeación, mediante el análisis recurrente de su entorno socioeconómico, financiero y sectorial, así como de las condiciones en que opera;
-
-II. Dirigir la formulación de lineamientos de política, proyectos y acciones, a fin de apoyar el desarrollo estratégico de las funciones encomendadas a la Institución;
-
-III. Coordinar la definición y proponer las diversas metodologías relativas al proceso de planeación, para normar y orientar en el sistema la integración de los planes y proyectos;
-
-IV. Coordinar la integración del plan estratégico institucional;
-
-V. Coordinar con otras áreas la realización de estudios para determinar zonas potenciales, mejores condiciones de mercado y nuevos productos y servicios financieros, que favorezcan la productividad, rentabilidad y eficiencia de la Institución;
-
-VI. Planear y dirigir la evaluación institucional y presentar los informes de autoevaluación, y
-
-VII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto de Planeación y Finanzas.
-
 ###### ARTICULO 47.
 
-Corresponde a la Subdirección de Contabilidad:
-
-I. Garantizar el cumplimiento de manera oportuna, de las obligaciones que en materia contable y presupuestal tiene la Institución, de acuerdo a las leyes y normas vigentes;
-
-II. Mantener el adecuado funcionamiento de los sistemas de información contable y presupuestal para proporcionar la información que requieren las autoridades;
-
-III. Definir y aplicar las normas y políticas para el registro contable, la elaboración, seguimiento y control presupuestal de acuerdo a las directrices establecidas por las autoridades financieras;
-
-IV. Establecer los sistemas de información para responder a los requerimientos internos y externos de información, y
-
-V. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto de Planeación y Finanzas.
+(DEROGADO, D.O.F. 17 DE NOVIEMBRE DE 2003)
 
 ###### ARTICULO 48.
 
@@ -875,7 +911,15 @@ IV. Administrar el portafolio de inversiones;
 
 V. Administrar, coordinar, controlar y supervisar el flujo de efectivo en moneda nacional y extranjera, de acuerdo a las estrategias operativas y financieras dictadas por la Dirección Adjunta de Finanzas y Planeación así como en estricto apego a la normatividad establecida, y
 
-VI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que por instrucción expresa le encomiende el Director General Adjunto de Planeación y Finanzas.
+> <small>(ADICIONADA, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
+VI. Supervisar las normas y políticas para el seguimiento y control presupuestal y garantizar el cumplimiento de manera oportuna, de las obligaciones que en materia presupuestal tiene la Institución, de acuerdo con las leyes y normas vigentes;
+
+> <small>(ADICIONADA, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
+VII. Establecer y mantener el adecuado funcionamiento de los sistemas de información presupuestal para responder a los requerimientos internos y externos de las autoridades, y
+
+VIII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que por instrucción expresa le encomiende el Director General Adjunto de Planeación y Finanzas.
 
 ### CAPITULO IV. DE LAS COORDINACIONES REGIONALES
 
@@ -1011,6 +1055,8 @@ La Coordinación Regional Noroeste tendrá como sede la ciudad de Hermosillo, So
 
 ### CAPITULO I. DEL CONTROL, VIGILANCIA Y EVALUACION
 
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTICULO 55.
 
 La Coordinación Regional Norte tendrá como sede la ciudad de Torreón, Coahuila y se adscriben a su competencia las siguientes entidades federativas:
@@ -1089,17 +1135,21 @@ La Coordinación Regional Sureste tendrá como sede la ciudad de Mérida, Yucat�
 
 ###### ARTICULO 60.
 
-La Financiera contará con un comisario propietario y con un suplente, designados por la Secretaría de Contraloría y Desarrollo Administrativo, quienes asistirán con voz pero sin voto a las reuniones del Consejo. Los comisarios públicos vigilarán y evaluarán la operación de la Financiera y tendrán las atribuciones contenidas en la Ley Federal de las Entidades Paraestatales y demás disposiciones legales aplicables.
+La Financiera contará con un comisario propietario y con un suplente, designados por la Secretaría de la Función Pública, quienes asistirán con voz pero sin voto a las reuniones del Consejo. Los comisarios públicos vigilarán y evaluarán la operación de la Financiera y tendrán las atribuciones contenidas en la Ley Federal de las Entidades Paraestatales y demás disposiciones legales aplicables.
 
 ###### ARTICULO 61.
 
 La Financiera contará con un Organo Interno de Control, cuyo titular será designado en términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, y en el ejercicio de sus facultades se auxiliará por los titulares de las áreas de auditoria, quejas y responsabilidades designadas en los mismos términos.
 
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en el artículo 47 fracciones III y IV del Reglamento Interior de la Secretaría de la Contraloría y Desarrollo Administrativo, la Ley Orgánica de la Administración Pública Federal, la Ley de (sic) Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y los demás ordenamientos legales y administrativos aplicables.
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en el artículo 47 fracciones III y IV del Reglamento Interior de la Secretaría de la Función Pública, la Ley Orgánica de la Administración Pública Federal, la Ley de (sic) Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y los demás ordenamientos legales y administrativos aplicables.
 
 ### CAPITULO I. GENERALIDADES
 
-ArtIculo 62.- La Financiera contará con los comités de Operación, de Crédito, de Administración Integral de Riesgos, así como el de Recursos Humanos y Desarrollo Institucional, sin perjuicio de los demás que constituya el Consejo a propuesta del Director General.
+###### ARTICULO 62.
+
+La Financiera contará con los comités de Operación, de Crédito, de Administración Integral de Riesgos, así como el de Recursos Humanos y Desarrollo Institucional, sin perjuicio de los demás que constituya el Consejo a propuesta del Director General.
 
 ###### ARTICULO 63.
 
@@ -1107,13 +1157,21 @@ Los comités de la Financiera se constituirán con el propósito de auxiliarla e
 
 Los comités de la Financiera tendrán una encomienda específica y no intervendrán en la administración operativa de la Financiera.
 
-ArtIculo 64.- Los comités a que se refiere el artículo anterior se integrarán por servidores públicos de la Financiera, por representantes de dependencias y entidades del sector público y, en su caso por expertos en la materia de que se trate para cada Comité. En el caso de aquellos comités en los que participen expertos, dicha circunstancia se señalará expresamente en el presente Estatuto.
-
 ## TITULO III. DEL CONTROL, VIGILANCIA Y EVALUACION
 
 ### CAPITULO II. DE LOS COMITES CONSTITUIDOS POR EL CONSEJO
 
-ArtIculo 66.- El Comité de Operación tendrá las facultades siguientes:
+###### ARTICULO 64.
+
+Los comités a que se refiere el artículo anterior se integrarán por servidores públicos de la Financiera, por representantes de dependencias y entidades del sector público y, en su caso por expertos en la materia de que se trate para cada Comité. En el caso de aquellos comités en los que participen expertos, dicha circunstancia se señalará expresamente en el presente Estatuto.
+
+###### ARTICULO 65.
+
+El funcionamiento, integración, estructura, operación y procedimiento operativo los comités de la Financiera se regularán por las disposiciones contenidas en el presente título y por las reglas de operación que se elaboren para tal efecto y sean aprobadas por el Consejo, siempre y cuando dichas reglas no contravengan al Estatuto, la ley y demás normatividad aplicable.
+
+###### ARTICULO 66.
+
+El Comité de Operación tendrá las facultades siguientes:
 
 I. Someter a consideración y aprobación del Consejo las políticas generales sobre tasas de interés, plazos, garantías y demás características de las operaciones de la Financiera, orientadas a preservar y mantener los recursos de su patrimonio destinados al otorgamiento de créditos;
 
@@ -1125,11 +1183,9 @@ IV. Aprobar la reestructuración de créditos otorgados por la Financiera confor
 
 V. Proponer al Consejo los lineamientos para la recuperación y liquidación, reestructuración, quitas y quebrantos de los préstamos o créditos otorgados por la Financiera, y
 
-VI. Las demás que determine la Ley, el Estatuto y el Consejo.
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
 
-###### ARTICULO 65.
-
-El funcionamiento, integración, estructura, operación y procedimiento operativo los comités de la Financiera se regularán por las disposiciones contenidas en el presente título y por las reglas de operación que se elaboren para tal efecto y sean aprobadas por el Consejo, siempre y cuando dichas reglas no contravengan al Estatuto, la ley y demás normatividad aplicable.
+VI. Las demás que determine la Ley, el Estatuto y el Consejo y las Reglas de Operación del Comité.
 
 ###### ARTICULO 67.
 
@@ -1153,9 +1209,19 @@ VIII. Director General Adjunto de Planeación y Finanzas.
 
 IX. El Secretario Técnico.
 
-Los representantes previstos en los incisos I, II y IX acudirán con voz pero sin voto.
+> <small>(ADICIONADA, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
 
-ArtIculo 68.- El Comité de Crédito tendrá las facultades siguientes:
+X. El Titular del Organo Interno de Control en calidad de asesor.
+
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
+Los integrantes previstos en los incisos I, II, IX y X acudirán con derecho a voz pero sin voto. En los casos en que los Titulares integrantes del Comité no puedan asistir a la Sesión, nombrarán a un Suplente con el nivel jerárquico inmediato inferior al de ellos.
+
+### CAPITULO I. DE LAS SUPLENCIAS
+
+###### ARTICULO 68.
+
+El Comité de Crédito tendrá las facultades siguientes:
 
 I. Autorizar el otorgamiento de préstamos o créditos, de conformidad con la fracción II del artículo 9o. de la Ley;
 
@@ -1169,9 +1235,9 @@ V. Para casos específicos podrán invitarse a expertos externos en calidad de a
 
 VI. Opinar al Consejo sobre la constitución de reservas de la Financiera, y
 
-VII. Las demás que determine la Ley, el Estatuto y el Consejo.
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
 
-### CAPITULO I. DE LAS SUPLENCIAS
+VII. Las demás que determine la Ley, el Estatuto y el Consejo y las Reglas de Operación del Comité.
 
 ###### ARTICULO 69.
 
@@ -1191,13 +1257,31 @@ VI. Tres servidores públicos con categoría mínima de subdirector de la Financ
 
 VII. El Director General Adjunto de Finanzas y Planeación, en calidad de asesor.
 
-Los representantes previstos en los incisos III, V y VII, acudirán con voz pero sin voto.
+> <small>(ADICIONADA, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
+VIII. Un representante del Banco de México.
+
+> <small>(ADICIONADA, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
+IX. El servidor público de la Financiera que sea nombrado Secretario del Comité, por el propio Organo.
+
+> <small>(ADICIONADA, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
+X. El Titular del Organo Interno de Control en calidad de asesor.
+
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
+Los integrantes previstos en los incisos III, V, VII, VIII y X acudirán con voz pero sin voto. En los casos en que los Titulares integrantes del Comité no puedan asistir a la Sesión, nombrarán a un Suplente con el nivel jerárquico inmediato inferior al de ellos.
 
 ###### ARTICULO 70.
 
 El Comité de Crédito acordará la creación de instancias locales en las Coordinaciones Regionales para el otorgamiento de préstamos o créditos y para atender otros asuntos relacionados con la cartera, diferentes a los de reestructuración de adeudos, hasta por la cantidad de 700,000 Unidades de Inversión y a su vez determinará las reglas de operación de dichas instancias.
 
-ArtIculo 71.- El Comité de Administración Integral de Riesgos fijará la metodología para la estimación de pérdidas por riesgos de crédito, de mercado, de liquidez, operativos y legales, entre otros; determinará la constitución de reservas, en su caso, y sugerirá al Consejo los términos para la aplicación de dichas reservas, así como las demás atribuciones que este Estatuto y el Consejo señalen.
+###### ARTICULO 71.
+
+El Comité de Administración Integral de Riesgos fijará la metodología para la estimación de pérdidas por riesgos de crédito, de mercado, de liquidez, operativos y legales, entre otros; determinará la constitución de reservas, en su caso, y sugerirá al Consejo los términos para la aplicación de dichas reservas, así como las demás atribuciones que este Estatuto y el Consejo señalen.
+
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 72.
 
@@ -1205,9 +1289,15 @@ El Comité de Administración Integral de Riesgos estará integrado de la siguie
 
 I. El Director General de la Financiera Rural.
 
-II. El Subdirector de la Unidad para la Administración Integral de Riesgos.
+II. El Director General Adjunto de Política de Crédito y Riesgo.
 
-III. Dos expertos independientes designados por el Consejo a propuesta del Director General.
+III. El Titular de la Unidad para la Administración Integral de Riesgos.
+
+IV. Dos expertos independientes designados por el Consejo a propuesta del Director General.
+
+V. Un representante del Banco de México.
+
+VI. El Titular del Organo Interno de Control en calidad de asesor.
 
 ###### ARTICULO 73.
 
@@ -1221,7 +1311,9 @@ III. Proponer y aprobar los indicadores de evaluación de desempeño para la det
 
 IV. Las demás relacionadas con relaciones laborales y desarrollo institucional.
 
-ArtIculo 74.- El Comité de Recursos Humanos y Desarrollo Institucional, estará integrado de la siguiente forma:
+###### ARTICULO 74.
+
+El Comité de Recursos Humanos y Desarrollo Institucional, estará integrado de la siguiente forma:
 
 I. Dos representantes de la Secretaría de Hacienda y Crédito Público;
 
@@ -1233,7 +1325,15 @@ IV. El miembro del Consejo Directivo que tenga el carácter de independiente;
 
 V. El Director General de la Financiera;
 
-VI. Un representante de la Comisión Nacional Bancaria y de Valores, con voz pero sin voto, y (sic)
+VI. Un representante de la Comisión Nacional Bancaria y de Valores, con voz pero sin voto, y
+
+> <small>(ADICIONADA, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
+VII. El Titular del Organo Interno de Control en calidad de Asesor.
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
+Los integrantes previstos en los incisos VI, VII acudirán con voz pero sin voto. En los casos en que los Titulares integrantes del Comité no puedan asistir a la Sesión, nombrarán a un Suplente con el nivel jerárquico inmediato inferior al de ellos.
 
 ## TITULO V. DE LAS SUPLENCIAS Y DEMAS DISPOSICIONES
 
@@ -1253,7 +1353,7 @@ Las ausencias del Contralor Interno, así como de los titulares de las áreas de
 
 Las atribuciones encomendadas por este Estatuto a los titulares de las Direcciones Generales Adjuntas, podrán, previo acuerdo de adscripción, ser ejercidas conjuntamente por ellos, con directores ejecutivos, subdirectores o gerentes, de la Dirección General Adjunta correspondientes.
 
-## TITULO IV. De los ComitEs de la Financiera
+## TITULO IV. De los Comités de la Financiera
 
 ### CAPITULO II. DEL EJERCICIO DE LAS ATRIBUCIONES
 
@@ -1263,8 +1363,16 @@ PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de 
 
 SEGUNDO.- Ordénese la inscripción del presente Estatuto en el Registro Público de Organismos Descentralizados, de conformidad con lo establecido en los artículos 15 fracción IX y 25 fracción I, de la Ley Federal de las Entidades Paraestatales.
 
-El presente Estatuto fue aprobado en la sesión número dos extraordinaria, celebrada el 28 de marzo del año 2003 por el Consejo Directivo de la Financiera Rural, Organismo Público Descentralizado, creado por decreto publicado en el Diario Oficial de la Federación el 26 de diciembre de 2002.
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 2003)</small>
+
+El presente Estatuto fue aprobado en la sesión número uno extraordinaria, celebrada el 28 de marzo del año 2003 por el Consejo Directivo de la Financiera Rural, Organismo Público Descentralizado, creado por decreto publicado en el Diario Oficial de la Federación el 26 de diciembre de 2002.
 
 En cumplimiento del Acuerdo Segundo de la referida sesión, que me instruye para llevar a cabo los trámites necesarios para la publicación del citado Estatuto Orgánico, en el Diario Oficial de la Federación y en uso de las facultades que me confiere el artículo 44 de la Ley Orgánica de la Financiera, como administrador y representante legal, para su debida publicación y observancia expido el presente Estatuto en la Ciudad de México, Distrito Federal, a los nueve días del mes de abril del año dos mil tres. José Antonio Meade Kuribreña, Director General de la Financiera Rural. Rúbrica.
 
 México, D.F., a 9 de abril de 2003.- El Director General de la Financiera Rural, José Antonio Meade Kuribreña.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 17 DE NOVIEMBRE DE 2003.
+
+UNICO.- La presente Reforma al Estatuto Orgánico y las modificaciones a los artículos que en ella se comprenden, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
