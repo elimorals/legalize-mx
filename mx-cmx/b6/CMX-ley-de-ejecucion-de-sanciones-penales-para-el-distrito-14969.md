@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-ejecucion-de-sanciones-penales-para-el-distrito-14969"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-17"
-last_updated: "2002-11-07"
+last_updated: "2004-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14969&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-09-15"
 
 LEY DE EJECUCION DE SANCIONES PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE JUNIO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal el viernes 17 de septiembre de 1999. Republicada en el Diario Oficial de la Federación el jueves 30 de septiembre de 1999.
 
@@ -136,19 +136,21 @@ La Secretaría, a través de la Subsecretaría de Gobierno, La Dirección Genera
 
 Para el cumplimiento de las funciones contenidas en la presente Ley, la Dirección General y la Dirección contarán con las instalaciones, personal y presupuesto que se le asigne.
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
 ###### Artículo 7°.
 
-Para la aplicación de la presente Ley, la Autoridad Ejecutora podrá celebrar convenios con las autoridades federales o de los Estados, o con instituciones de educación superior, sujetándose a las disposiciones del Estatuto de Gobierno del Distrito Federal y de la Ley Orgánica de la Administración Pública del Distrito Federal.
+Para la aplicación de la presente Ley, el Jefe de Gobierno podrá celebrar convenios con las autoridades federales o de los Estados, con instituciones educativas y con particulares, sujetándose a las disposiciones del Estatuto de Gobierno del Distrito Federal y de la Ley Orgánica de la Administración Pública del Distrito Federal.
 
 ## TITULO PRIMERO. DE LOS MEDIOS DE PREVENCION Y DE READAPTACION SOCIAL
 
 ### CAPITULO I. DE LA PREVENCION GENERAL
 
-> <small>(REFORMADO, G.O. 25 DE JULIO DE 2000)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 8°.
 
-La Subsecretaría, a través del a Dirección General, organizará las instituciones del Sistema Penitenciario del Distrito Federal, vigilando que el proceso de readaptación de los internos esté basado ene l trabajo, la capacitación para el mismo y la educación.
+La Subsecretaría, a través de la Dirección General, organizará las instituciones del Sistema Penitenciario del Distrito Federal, previendo que el proceso de readaptación de los internos se base en el trabajo, la capacitación para el mismo y la educación. Asimismo, formulará anualmente los programas respectivos, considerando los convenios que se suscriban en los términos del artículo 7° de esta ley y de conformidad con los lineamientos que expida el Jefe de Gobierno.
 
 ###### Artículo 9°.
 
@@ -172,19 +174,27 @@ El tratamiento se fundará en las sanciones penales impuestas y en los resultado
 
 La readaptación social tiene por objeto colocar al sentenciado ejecutoriado en condiciones de no delinquir nuevamente.
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
 ###### Artículo 13.
 
-Se consideran medios para alcanzar la readaptación social del sentenciado, el trabajo, la capacitación para el mismo y la educación, en base a la disciplina, los cuales serán requisitos indispensables para quienes deseen acogerse a los beneficios señalados en esta ley.
+Se consideran medios para alcanzar la readaptación social del sentenciado, el trabajo, la capacitación para el mismo y la educación, con base en la disciplina. Su acreditación será requisito indispensable para el otorgamiento del tratamiento en externación y de los beneficios de libertad anticipada.
+
+Para los efectos del otorgamiento del tratamiento en externación y de los beneficios de libertad anticipada, se establecerán en el programa a que se refiere el artículo 8 de esta ley los términos en que se acreditará la realización de las actividades laborales, la capacitación para el trabajo y la educación.
 
 ### CAPITULO III. DEL TRABAJO
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2004)</small>
+
 ###### Artículo 14.
 
-En las Instituciones del Sistema Penitenciario del Distrito Federal se buscará que el procesado o sentenciado adquiera el hábito del trabajo y sea una fuente de autosuficiencia personal y familiar, tomando en consideración su interés, vocación, aptitudes y capacidad laboral.
+En las instituciones del Sistema Penitenciario del Distrito Federal se buscará que el procesado y el sentenciado adquieran el hábito del trabajo y sea una fuente de autosuficiencia personal y familiar, tomando en cuenta su interés, vocación, aptitudes, capacidad laboral y la oferta de trabajo.
 
 En las actividades laborales se observarán las disposiciones contenidas en el artículo 123 constitucional, en lo referente a la jornada de trabajo, días de descanso, higiene, seguridad y a la protección de la maternidad.
 
-El trabajo se organizará previo estudio del mercado a fin de favorecer la correspondencia entre la demanda de éste y la producción penitenciaria con vista a la autosuficiencia económica de cada Institución.
+> <small>(ADICIONADO [N. DE. E. REFORMADO], G.O. 4 DE JUNIO DE 2004)</small>
+
+La organización del trabajo se sustentará en la oferta laboral contenida en los convenios celebrados en los términos del artículo 7° de esta ley.
 
 ###### Artículo 15.
 
@@ -214,11 +224,25 @@ III.- 30% para el fondo de ahorro; y
 
 IV.- 10% para los gastos personales del interno.
 
-Si no hubiese condena a la reparación del daño o ésta ya hubiera sido cubierta, o no existiesen dependientes económicos del sentenciado, los porcentajes respectivos se aplicarán en forma proporcional y equitativa.
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+Si no hubiese condena a la reparación del daño o ésta ya hubiera sido cubierta, o no existiesen dependientes económicos, los porcentajes respectivos se aplicarán en forma proporcional y equitativa.
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+El Jefe de Gobierno determinará los mecanismos administrativos y financieros que garanticen la administración eficaz y transparente del producto del trabajo cubierto por los particulares que hubieren celebrado convenio con el Gobierno del Distrito Federal, de los fondos a que se refiere este artículo y para la ministración de dicho producto a los beneficiarios del mismo.
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+En todo caso, la Contraloría General del Distrito Federal llevará a cabo auditorias y revisiones para verificar la eficiencia de la administración y de las operaciones que se llevan a cabo.
 
 ###### Artículo 18.
 
 El importe de la reparación de los daños ocasionados intencionalmente por el procesado o sentenciado en los bienes, herramientas o instalaciones de la Institución, será cubierta con el producto de su trabajo.
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+Artículo 18 bis. El Gobierno del Distrito Federal implementará un programa de incentivos fiscales para las personas físicas y morales con las que se celebren convenios para la realización de actividades laborales por procesados y sentenciados en las instituciones del Sistema Penitenciario del Distrito Federal.
 
 ### CAPITULO IV. DE LA CAPACITACION
 
@@ -306,43 +330,13 @@ A todo sentenciado que se le haya concedido el beneficio de la Condena Condicion
 
 El Tratamiento en Externación es un medio de ejecutar la sanción penal, de carácter eminentemente Técnico, por el que se somete al sentenciado ejecutoriado a un proceso tendiente al fortalecimiento de los valores sociales, éticos, cívicos y morales, que le permitirá una adecuada reinserción a la sociedad.
 
-> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 2002)</small>
-
 ###### Artículo 33 Bis.
 
-No se concederá el tratamiento en externación a los sentenciados por los delitos de: tráfico de menores en los supuestos de los párrafos tercero o cuarto del artículo 169; corrupción de menores e incapaces a que se refieren los artículos 183, 185 y el 186; pornografía infantil previsto en los artículos 187 y 188; lenocinio a que se refieren los artículos 189 y 190; extorsión a que se refiere el tercero y cuarto párrafo del artículo 236; robo previsto en el artículo 220, en relación con la fracción I del artículo 223 o la fracción I del artículo 224 y el 225 del Nuevo Código Penal para el Distrito Federal.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2000)</small>
+(DEROGADO, G.O. 4 DE JUNIO DE 2004)
 
 ###### Artículo 34.
 
-En las instituciones de Tratamiento en Externación sólo se atenderá al sentenciado que:
-
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
-
-I.- La pena privativa de libertad impuesta no exceda de cinco años.
-
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
-
-II.- Durante el desarrollo del proceso y hasta que cause ejecutoria la sentencia hubiese gozado de Libertad Provisional Bajo Caución.
-
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
-
-III.- Sea primodelincuente.
-
-> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2000)</small>
-
-IV.- Cuente con trabajo permanente o se encuentre estudiando en institución reconocida oficialmente con excepción de aquellos de 75 o más años;
-
-> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2000)</small>
-
-V.- Cuente con una persona conocida, que se comprometa y garantice a la Autoridad Ejecutora, el cumplimiento de las obligaciones contraidas por el externado;
-
-VI.- Cumpla con actividades en favor de la comunidad, las cuales serán establecidas por la Dirección.
-
-VII.- Cuente con trabajo permanente o se encuentre estudiando en Institución reconocida oficialmente, con excepción de aquellos de 75 o mas años.
-
-VIII.- En caso de haber sido condenado a la reparación del daño, ésta se haya garantizado, cubierto o declarado prescrita.
+(DEROGADO, G.O. 4 DE JUNIO DE 2004)
 
 > <small>(REFORMADO, G.O. 25 DE JULIO DE 2000)</small>
 
@@ -350,11 +344,15 @@ VIII.- En caso de haber sido condenado a la reparación del daño, ésta se haya
 
 El tratamiento a que se refiere el artículo 33 de esta Ley, se diseñará y aplicará por profesionales bajo la supervisión de la Dirección. El tratamiento tendrá como finalidad la readaptación social, con base al trabajo, la capacitación para el mismo, la educación y la responsabilidad social.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2004)</small>
+
 ###### Artículo 36.
 
-Cuando un sentenciado por sus características personales, así como la dinámica del delito, haya estado detenido durante el proceso, al causar ejecutoria la sentencia definitiva, podrá someterse también a tratamiento en externación cuando reúna los siguientes requisitos:
+El tratamiento en externación se otorgará a los sentenciados por delitos culposos, que hayan cumplido al menos una cuarta parte de la pena privativa de libertad impuesta y cuando se reúnan los siguientes requisitos:
 
-I.- No se encuentre en los supuestos de las fracciones I y II del artículo 34 de esta Ley;
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
+
+I.- La sentencia haya causado ejecutoria;
 
 II.- La pena de prisión impuesta no exceda de 7 años;
 
@@ -364,11 +362,13 @@ III.- Sea Primodelincuente;
 
 IV.- Técnicamente se acredite haber presentado un desarrollo intrainstitucional favorable; durante dos periodos de valoración consecutivos;
 
-V.- Cuente con una persona conocida, que se comprometa y garantice a la Autoridad Ejecutora, el cumplimiento de las obligaciones contraidas por el externado;
+V.- Cuente con una persona conocida, que se comprometa y garantice a la Autoridad Ejecutora, el cumplimiento de las obligaciones contraídas por el externado;
 
 VI.- Compruebe fehacientemente contar en el exterior con un oficio, arte o profesión o exhiba las constancias que acrediten que continúa estudiando;
 
-VII.- En caso de haber sido condenado a la reparación del daño, ésta se haya garantizado, cubierto o declarado prescrita; y
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
+
+VII.- Se cubra la reparación del daño;
 
 VIII.- (DEROGADA, G.O. 25 DE JULIO DE 2000)
 
@@ -422,11 +422,11 @@ II.- Libertad Preparatoria.
 
 III.- Remisión Parcial de la Pena.
 
-> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 42.
 
-Los beneficios de libertad anticipada, no se concederán a los sentenciados por los delitos de: privación de la libertad en los términos del último párrafo del artículo 160; violación previsto en el artículo 174 con relación al artículo 178, fracción I; secuestro contenido en los artículos 163, 164, 165 y 166, con excepción de lo previsto en el último párrafo del 164; desaparición forzada de personas previsto en el artículo 168; pornografía infantil a que se refiere el artículo 187; por los delitos de asociación delictuosa y delincuencia organizada previsto por los artículos 253, 254 y 255; tortura a que se refieren los artículos 294 y 295; robo con violencia conforme a lo previsto en el artículo 220, en relación con los artículos 224, fracción I y 225 del Nuevo Código Penal para el Distrito Federal.
+Los beneficios de libertad anticipada, no se concederán a los sentenciados por los delitos de: homicidio doloso, previsto en el artículo 128; inseminación artificial previsto en los artículos 150 y 151; privación de la libertad en los términos del último párrafo del artículo 160; desaparición forzada de personas previsto en el artículo 168; violación previsto en los artículos 174 y 175; secuestro contenido en los artículos 163, 164, 165 y 166, con excepción de lo previsto en el último párrafo del 164, pornografía infantil a que se refiere el artículo 187; por los delitos de asociación delictuosa y delincuencia organizada previsto en los artículos 253, 254 y 255; tortura a que se refieren los artículos 294 y 295; robo agravado en los términos del artículo 224 fracciones I, II, III hipótesis primera, VI, VII, VIII hipótesis primera y IX y 225; encubrimiento por receptación previsto en el artículo 243 segundo párrafo, todos del Nuevo Código Penal.
 
 ### CAPITULO V. DE LA LIBERTAD PREPARATORIA
 
@@ -438,25 +438,29 @@ El Tratamiento Preliberacional es el beneficio que se otorga al sentenciado, des
 
 El otorgamiento del Tratamiento Preliberacional se concederá al sentenciado que cumpla con los siguientes requisitos:
 
-I.- Cuando haya compurgado el 50% de la pena privativa de libertad impuesta.
+I.- Cuando haya compurgado el 50% de la pena privativa de libertad impuesta;
 
 > <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
 
-II.- Que haya trabajado en actividades reconocidas por el Centro de Reclusión.
+II.- Que haya trabajado en actividades reconocidas por el Centro de Reclusión;
 
-III.- Que haya observado buena conducta.
+III.- Que haya observado buena conducta;
 
 > <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
 
-IV.- Que participe en actividades educativas, recreativas culturales o deportivas que se organicen en la institución.
+IV.- Que participe en actividades educativas, recreativas culturales o deportivas que se organicen en la institución;
 
-V.- En caso de haber sido condenado a pagar la reparación del daño, ésta se haya garantizado, cubierto o declarado prescrita.
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
 
-VI.- No ser reincidente.
+V.- Se cubra la reparación del daño;
+
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
+
+VI.- No estar sujeto a otro u otros procesos penales o no haber sido condenado por sentencia ejecutoriada, por delito doloso y de la misma inclinación delictiva;
 
 > <small>(ADICIONADA, G.O. 25 DE JULIO DE 2000)</small>
 
-VII.- Cuente con una persona conocida, que se comprometa y garantice a la Autoridad Ejecutora, el cumplimiento de las obligaciones contraidas por el preliberado.
+VII.- Cuente con una persona conocida, que se comprometa y garantice a la Autoridad Ejecutora, el cumplimiento de las obligaciones contraidas por el preliberado;
 
 > <small>(ADICIONADA, G.O. 25 DE JULIO DE 2000)</small>
 
@@ -486,17 +490,19 @@ La Libertad Preparatoria se otorgará al sentenciado que cumpla con las tres qui
 
 > <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
 
-I.- Haber acreditado niveles de instrucción y actividades culturales durante el tiempo de reclusión.
+I.- Haber acreditado niveles de instrucción y actividades culturales durante el tiempo de reclusión;
 
 > <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
 
-II.- Haber participado en el área laboral.
+II.- Haber participado en el área laboral;
 
-III.- En caso de haber sido condenado a pagar la reparación del daño, ésta se haya garantizado, cubierto o declarado prescrita.
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
+
+III.- Se cubra la reparación del daño;
 
 > <small>(ADICIONADA, G.O. 25 DE JULIO DE 2000)</small>
 
-IV.- Cuente con una persona conocida, que se comprometa y garantice a la autoridad Ejecutora, el cumplimiento de las obligaciones contraidas por el preliberado.
+IV.- Cuente con una persona conocida, que se comprometa y garantice a la autoridad Ejecutora, el cumplimiento de las obligaciones contraidas por el preliberado;
 
 > <small>(ADICIONADA, G.O. 25 DE JULIO DE 2000)</small>
 
@@ -512,7 +518,9 @@ Cuando se trate de delitos cometidos por servidores públicos, la reparación de
 
 No se otorgará la Libertad Preparatoria a aquel sentenciado que:
 
-I.- Hubiera incurrido en segunda reincidencia y a los habituales.
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
+
+I.- Esté sujeto a otro u otros procesos penales o haya sido condenado por sentencia ejecutoriada, por delito doloso y de la misma inclinación delictiva;
 
 II.- Se encuentre en el caso señalado por el artículo 42 de ésta Ley.
 
@@ -528,9 +536,9 @@ Por cada dos días de trabajo se hará remisión de uno de prisión, siempre que
 
 La remisión funcionará independientemente de la libertad preparatoria. Para este efecto, el computo de plazos se hará en el orden que beneficie al reo. El ejecutivo regulará el sistema de cómputos para la aplicación de este precepto, que en ningún caso quedará sujeto a normas reglamentarias de los establecimientos de reclusión o a disposición de las autoridades encargadas de la custodia y de la readaptación social.
 
-> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-La autoridad al conceder la remisión parcial de la pena, establecerá las condiciones que deba cumplir el sentenciado, conforme a lo establecido en la fracción III y los incisos a) a d) del artículo 90 del Nuevo Código Penal para el Distrito Federal. La remisión parcial de la pena no se concederá a los sentenciados que se encuentren en cualquiera de los casos a que se refiere el artículo 42 de esta Ley.
+La autoridad al conceder la remisión parcial de la pena, establecerá las condiciones que deba cumplir el sentenciado para el efecto de lo previsto en las fracciones I, II, III y IV del artículo 90 del Nuevo Código Penal para el Distrito Federal y, en todo caso, el sentenciado deberá acreditar que se ha cubierto la reparación del daño.
 
 > <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 2002)</small>
 
@@ -572,7 +580,7 @@ El procedimiento que se establece en este capítulo se sujetará a los términos
 
 I.- Iniciado el procedimiento, se integrará el expediente único dentro de diez días hábiles.
 
-II.- El Consejo deberá emitir su dictámen dentro del término de cinco días hábiles.
+II.- El Consejo deberá emitir su dictamen dentro del término de cinco días hábiles.
 
 III.- La Dirección emitirá su resolución en un término no mayor a cinco días hábiles.
 
@@ -727,3 +735,9 @@ Primero: El presente decreto entrará en vigor en la misma fecha en que entre en
 Segundo: Túrnese al C. Jefe de Gobierno del Distrito Federal para su debida publicación.
 
 Tercero: Publíquese en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, hágase lo propio en el Diario Oficial de la Federación.
+
+G.O. 4 DE JUNIO DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
