@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2004-05-18"
+last_updated: "2004-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -687,7 +687,13 @@ XXVI. Presentar con oportunidad y veracidad la declaración de situación patrim
 
 XXVII. Los funcionarios encargados de la Hacienda Pública Estatal y Municipal, que no realicen la presentación y entrega de las cuentas públicas dentro de los plazos establecidos, se harán acreedores a las sanciones previstas por la ley; y
 
-XXVII. Las demás que le impongan las leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2004)</small>
+
+XXVIII. Abstenerse de utilizar los vehículos propiedad de las autoridades a las que se refiere el artículo 3º de esta ley o que tengan en posesión bajo cualquier título, fuera del horario de trabajo del servidor público o en actividades distintas a las que requiere la naturaleza del empleo, cargo o comisión respectivo; y
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2004)</small>
+
+XXIX. Las demás que le impongan las leyes y reglamentos.
 
 ###### Artículo 62.
 
@@ -1148,5 +1154,9 @@ P.O. 12 DE OCTUBRE DE 2002.
 Único.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 18 DE MAYO DE 2004.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE JULIO DE 2004.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
