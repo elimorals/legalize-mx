@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-educacion-de-aguascalientes-antes-ley-2662
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-07"
-last_updated: "1992-06-07"
+last_updated: "1993-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES -ANTES LEY DEL INSTITUTO DE EDUCACION BASICA Y NORMAL DEL ESTADO DE AGUASCALIENTES-
 
-LEY DEL INSTITUTO DE EDUCACION BASICA Y NORMAL DEL ESTADO DE AGUASCALIENTES
+LEY DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1993.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -37,21 +37,37 @@ El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedi
 
 La H. LIV Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le concede el Artículo 27 de la Constitución Política Local, en nombre del Pueblo, decreta:
 
-LEY DEL INSTITUTO DE EDUCACION BASICA Y NORMAL DEL ESTADO DE AGUASCALIENTES.
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ENERO DE 1993)</small>
+
+LEY DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES.
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1993)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley es de orden público e interés social y tiene por objeto el crear un Organismo Público Descentralizado que se denominará INSTITUTO DE EDUCACION BASICA Y NORMAL DEL ESTADO DE AGUASCALIENTES.
+Esta Ley es de orden público y de interés social y tiene por objeto el crear un organismo público descentralizado que se denominará Instituto de Educación de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1993)</small>
 
 ###### ARTICULO 2o.
 
-El mencionado Organismo tendrá personalidad jurídica, patrimonio propio y funciones de autoridad, y tendrá su domicilio legal en la ciudad de Aguascalientes, Aguascalientes.
+El Instituto que se crea con la presente Ley, tendrá personalidad jurídica y patrimonio propios, ejercerá funciones de autoridad y tendrá su domicilio en la Capital del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1993)</small>
 
 ###### ARTICULO 3o.
 
-El objeto del Instituto que se crea con la presente Ley, será el de asumir la responsabilidad política y la dirección relacionada con los servicios de educación básica -preescolar, primaria y secundaria-, de educación normal y demás relativos para la formación y actualización de maestros, así como la educación especial inicial, física y misiones culturales- en el Estado de Aguascalientes, y los que en su oportunidad se decida sean incorporados, con respecto a los principios establecidos en el Artículo 5o. de la Ley Federal de Educación, y se convierta en la autoridad facultada y reconocida para aplicar y vigilar el cumplimiento de la legislación en materia educativa.
+El objeto del Instituto será:
+
+I.- Asumir la responsabilidad política y la dirección relacionada con los servicios de educación básica, preescolar, primaria y secundaria, de educación normal y demás relativos para la formación y actualización de docentes, así como la educación especial, inicial, física y misiones culturales en el Estado de Aguascalientes, y los que en su oportunidad se decida sean incorporados, acatando lo dispuesto por el Artículo 5o. de la Ley Federal de Educación;
+
+II.- Planear, programar, organizar, supervisar y evaluar las Instituciones de Educación Media, incluyendo todas aquellas modalidades propedéuticas, terminales o bivalentes cuya Dirección la Federación transfiera al Estado, con el objeto de que este nivel se integre eficazmente a los niveles de enseñanza básica y superior y, en su caso, al mercado de trabajo;
+
+III.- Normar y supervisar las academias y demás centros de capacitación para el trabajo, registrados en el Instituto, con la finalidad de vincular al sector productivo;
+
+IV.- Propiciar la coordinación y planeación de la educación superior del Estado, dentro de las limitaciones que deriven de la autonomía y disposiciones jurídicas propias de las Instituciones de Educación Superior, a fin de lograr vincular eficazmente la educación con el empleo, las necesidades regionales y el aparato productivo; asimismo se buscará la coordinación con las instituciones formadoras y de actualización de docentes.
 
 ###### ARTICULO 4o.
 
@@ -101,9 +117,11 @@ VII.- Determinar la integración de los grupos de trabajo con carácter temporal
 
 VIII.- Las demás que sean necesarias para el adecuado ejercicio de las facultades señaladas.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1993)</small>
+
 ###### ARTICULO 8o.
 
-El Consejo Interior celebrará sesiones ordinarias mensuales, así como las extraordinarias que se requieran, en términos del reglamento que para el efecto se apruebe.
+El Consejo Interior celebrará sesiones ordinarias trimestrales, así como las extraordinarias que se requieran, en términos del Reglamento que para el efecto se apruebe.
 
 ###### ARTICULO 9o.
 
@@ -117,7 +135,9 @@ I.- Ejecutar los acuerdos y disposiciones del Consejo Interior;
 
 II.- Autorizar los actos de autoridad que el organismo ordene, delegando esa facultad en otros servidores públicos, previo acuerdo del Consejo Interior;
 
-III.- Presentar al Consejo Interior los informes y estados financieros, en forma bimestral;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1993)</small>
+
+III.- Presentar al Consejo Interior los informes y estados financieros en forma trimestral;
 
 IV.- Presentar al Consejo Interior, para su aprobación, los planes de trabajo, presupuestos, informes de actividades y estados financieros anuales del organismo;
 
@@ -125,9 +145,27 @@ V.- Expedir los nombramientos del personal y llevar las relaciones laborales de 
 
 VI.- Planear, dirigir y controlar el funcionamiento del organismo en base a las instrucciones del Consejo Interior, por cuyo acuerdo podrá suscribir contratos y/o convenios con las dependencias federales, promover la participación de los padres de familia y los sectores sociales, en apoyo a los planteles educativos y supervisar y evaluar la operación de los mismos.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1993)</small>
+
 ###### ARTICULO 11.
 
-Como auxiliares inmediatos del Director General, existirán en el organismo, los Subdirectores de Planeación Educativa, de Educación Básica, de Educación Terminal, y de Servicios Administrativos, así como los jefes de los Departamentos de Programación y Presupuesto, de Estadística, de Estudios y Proyectos, de Registro y Certificación Escolar, de Educación Inicial, de Educación Preescolar, de Educación Especial, de Educación Primaria, de Educación Secundaria General, de Educación Secundaria Técnica, de Telesecundaria, de Educación Básica para Adultos, de Educación Normal, de Educación Física, de Recursos Humanos, de Recursos Financieros, de Servicios Culturales, de Materiales y Servicios, del Centro de Cómputo, de Capacitación y Desarrollo de Personal, de Información y Difusión, y de Servicios Jurídicos. Estos servidores públicos serán nombrados por el Consejo Interior del Instituto.
+Como auxiliares inmediatos del Director General existirán en el organismo las siguientes Direcciones, Subdirecciones y Unidades de Apoyo:
+
+I.- Dirección de Planeación y Evaluación.- La cual tendrá a su cargo dos Subdirecciones: la de Planeación y Programación y la de Evaluación Educativa;
+
+II.- Dirección de Educación Básica.- La cual tendrá a su cargo tres Subdirecciones: la de Educación Inicial y Preescolar, la de Educación Primaria y Especial y de Educación Secundaria;
+
+III.- Dirección de educación Media y Superior.- La cual tendrá dos Subdirecciones: la de Formación y Actualización de Docentes y la de Educación Media, Tecnológica y Universitaria;
+
+IV.- Dirección Jurídica;
+
+V.- Dirección de Servicios Administrativos;
+
+VI.- Unidad de Contraloría Interna; y
+
+VII.- Centro de Estudios de Investigación Educativa.
+
+Los servidores públicos responsables de las áreas anteriores, así como los jefes de los departamentos dependientes de estas áreas, serán nombrados por el Consejo Interior del Instituto.
 
 ###### ARTICULO 12.
 
@@ -147,9 +185,11 @@ El Instituto acepta que los planes y programas de estudio destinados a la educac
 
 Para el debido cumplimiento de los objetivos del Instituto, a través de sus representantes legales, solicitará el apoyo de las autoridades competentes del Estado y de sus Municipios, quienes lo brindarán cuando tales solicitudes estén debidamente fundadas y motivadas.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1993)</small>
+
 ###### ARTICULO 15.
 
-El control escolar relativo a inscripciones, reinscripciones, registros, acreditación, certificación y/o revalidación de estudios, así como la expedición de títulos de educación normal, será responsabilidad del Instituto, a través de la Subdirección de Planeación Educativa.
+El Control Escolar relativo a inscripciones, reinscripciones, registros, acreditación, certificación, y/o revalidación de estudios, así como la expedición de títulos profesionales en los niveles y modalidades educativas de formación y actualización de docentes, será responsabilidad del Instituto, a través de la Dirección de Planeación y Evaluación.
 
 ### CAPITULO TERCERO. Organos de Vigilancia
 
@@ -234,3 +274,13 @@ Miguel Angel Barberena Vega.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Ing. José de Jesús Infante de Alba.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE ENERO DE 1993.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- En tanto se expidan las disposiciones reglamentarias del presente Decreto serán aplicables las disposiciones que no se opongan a la Ley y al Reglamento vigente.
