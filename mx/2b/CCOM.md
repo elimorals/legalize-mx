@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2000-06-05"
+last_updated: "2003-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -5370,9 +5370,9 @@ VI. El convenio también deberá expresar los nombres de los otorgantes, su capa
 
 En las demás materias, a falta de acuerdo especial u omisión de las partes en la regulación procesal convenida, se observarán las disposiciones de este libro.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-Art. 1,054. En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este libro y en su defecto se aplicará la ley de procedimientos local respectiva.
+Art. 1,054.- En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este libro y en su defecto se aplicará el Código Federal de Procedimientos Civiles.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -5393,6 +5393,10 @@ VI. Las copias simples de los documentos que se presenten confrontadas y autoriz
 VII. El secretario dará cuenta al titular del tribunal junto con los oficios, correspondencia, razones actuariales, promociones o cualquier escrito con proyecto de acuerdo recaído a dichos actos, a más tardar dentro del día siguiente al de su presentación, bajo pena de responsabilidad, conforme a las leyes aplicables. El acuerdo que se prepare será reservado, y
 
 VIII. Los tribunales podrán ordenar que se subsane toda omisión que notaren en la substanciación, para el efecto de regularizar el procedimiento correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Art. 1,055 Bis.- Cuando el crédito tenga garantía real, el acreedor podrá ejercitar sus acciones en juicio ejecutivo mercantil, ordinario, especial, sumario hipotecario o el que corresponda, de acuerdo a esta Ley, a la legislación mercantil o a la legislación civil aplicable, conservando la garantía real y su preferencia en el pago, aun cuando los bienes gravados se señalen para la práctica de la ejecución.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -5554,7 +5558,9 @@ Traen aparejada ejecución:
 
 I. La sentencia ejecutoriada ó pasada en autoridad de cosa juzgada y la arbitral que sea inapelable, conforme al art. 1,346, observándose lo dispuesto en el 1,348;
 
-II. Los instrumentos públicos;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+II. Los instrumentos públicos, así como los testimonios y copias certificadas que de los mismos expidan los fedatarios públicos;
 
 III. La confesión judicial del deudor, según el artículo 1,288;
 
@@ -5582,9 +5588,9 @@ VIII. Los demás documentos que por disposición de la ley tienen el carácter d
 
 Art. 1,392. Presentada por el actor su demanda acompañada del título ejecutivo, se proveerá auto, con efectos de mandamiento en forma, para que el deudor sea requerido de pago, y no haciéndolo se le embarguen bienes suficientes para cubrir la deuda, los gastos y costas, poniéndolos bajo la responsabilidad del acreedor, en depósito de persona nombrada por éste.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-Art. 1,393. No encontrándose al deudor a la primera busca en el inmueble señalado por el actor, pero cerciorado de ser el domicilio de aquél, se le dejará citatorio fijándole hora hábil, dentro de un lapso comprendido entre las seis y las setenta y dos horas posteriores, y si no aguarda, se practicará la diligencia de embargo con los parientes, empleados o domésticos del interesado, o cualquier otra persona que viva en el domicilio señalado, siguiéndose las reglas de la ley procesal local, respecto de los embargos.
+Art. 1,393.- No encontrándose el deudor a la primera busca en el inmueble señalado por el actor, pero cerciorado de ser el domicilio de aquél, se le dejará citatorio fijándole hora hábil, dentro de un lapso comprendido entre las seis y las setenta y dos horas posteriores, y si no aguarda, se practicará la diligencia de embargo con los parientes, empleados o domésticos del interesado, o cualquier otra persona que viva en el domicilio señalado, siguiéndose las reglas del Código Federal de Procedimientos Civiles, respecto de los embargos.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -5610,6 +5616,18 @@ V. Las demás acciones y derechos que tenga el demandado.
 
 Cualquiera dificultad suscitada en el orden que deba seguirse, no impedirá el embargo. El ejecutor la allanará, prefiriendo lo que prudentemente crea más realizable, á reserva de lo que determine el juez.
 
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Tratándose de embargo de inmuebles, a petición de la parte actora, el juez requerirá que la demandada exhiba el o los contratos celebrados con anterioridad que impliquen la transmisión del uso o de la posesión de los mismos a terceros. Sólo se aceptarán contratos que cumplan con todos los requisitos legales y administrativos aplicables.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Una vez trabado el embargo, el ejecutado no puede alterar en forma alguna el bien embargado, ni celebrar contratos que impliquen el uso del mismo, sin previa autorización del juez, quien al decidir deberá recabar la opinión del ejecutante. Registrado que sea el embargo, toda transmisión de derechos respecto de los bienes sobre los que se haya trabado no altera de manera alguna la situación jurídica de los mismos en relación con el derecho que, en su caso, corresponda al embargante de obtener el pago de su crédito con el producto del remate de esos bienes, derecho que se surtirá en contra de tercero con la misma amplitud y en los mismos términos que se surtiría en contra del embargado, si no hubiese operado la transmisión.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Cometerá el delito de desobediencia el ejecutado que transmita el uso del bien embargado sin previa autorización judicial.
+
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
 Art. 1,396. Hecho el embargo, acto contínuo se notificará al deudor, o a la persona con quien se haya practicado la diligencia para que dentro del término de cinco días comparezca el deudor ante el juzgado a hacer paga llana de la cantidad demandada y las costas, o a oponer las excepciones que tuviere para ello.
@@ -5634,7 +5652,9 @@ Art. 1,401. En los escritos de demanda, contestación y desahogo de vista de és
 
 Si los testigos no se hubieren mencionado con sus nombres y apellidos en los escritos que fijan la litis, el juez no podrá admitirlas aunque se ofrezcan por las partes posteriormente, salvo que importen excepción superveniente.
 
-Desahogada la vista o transcurrido el plazo para hacerlo, el juez admitirá y mandará preparar las pruebas que procedan, de acuerdo a la ley procesal local, abriendo el juicio a desahogo de pruebas, hasta por un término de quince días, dentro de los cuales deberán realizarse todas las diligencias necesarias para su desahogo, señalando las fechas necesarias para su recepción.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Desahogada la vista o transcurrido el plazo para hacerlo, el juez admitirá y mandará preparar las pruebas que procedan, de acuerdo con el Código Federal de Procedimientos Civiles, abriendo el juicio a desahogo de pruebas, hasta por un término de quince días, dentro de los cuales deberán realizarse todas las diligencias necesarias para su desahogo, señalando las fechas necesarias para su recepción.
 
 Las pruebas que se reciban fuera del término concedido por el juez, o su prórroga si la hubiere decretado, serán bajo la responsabilidad de éste, quien sin embargo, podrá mandarlas concluir en una sola audiencia indiferible que se celebrará dentro de los diez días siguientes.
 
@@ -5688,11 +5708,19 @@ Art. 1,411. Presentado el avalúo y notificadas las partes para que ocurran al j
 
 Art. 1,412. No habiéndose presentado postor á los bienes, el acreedor podrá pedir la adjudicación de ellos por el precio que para subastarlos se les haya fijado en la última almoneda.
 
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Art. 1,412 Bis.- Cuando el monto líquido de la condena fuere superior al valor de los bienes embargados, previamente valuados en términos del artículo 1410 de este Código, y del certificado de gravámenes no aparecieren otros acreedores, el ejecutante podrá optar por la adjudicación directa de los bienes que haya en su favor al valor fijado en el avalúo.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Art. 1,412 Bis 1.- Tratándose del remate y adjudicación de inmuebles, el juez y el adjudicatario, sin más trámite, otorgarán la escritura pública correspondiente ante fedatario público.
+
 Art. 1,413. Las partes, durante el juicio, podrán convenir en que los bienes embargados se avalúen ó vendan en la forma y términos que ellos acordaren, denunciándolo así oportunamente al juzgado por medio de un escrito firmado por ellas.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-Art. 1,414. Cualquier incidente o cuestión que se suscitare en los juicios ejecutivos mercantiles, serán resueltos por el juez con apoyo en las disposiciones respectivas de este título, y en su defecto, en lo relativo a los incidentes en los juicios ordinarios mercantiles; y a falta de unas y otras, a lo que disponga la ley procesal de la entidad federativa correspondiente, procurando la mayor equidad entre las partes sin perjuicio para ninguna de ellas.
+Art. 1,414.- Cualquier incidente o cuestión que se suscite en los juicios ejecutivos mercantiles, será resuelto por el juez con apoyo en las disposiciones respectivas de este título; y en su defecto, en lo relativo a los incidentes en los juicios ordinarios mercantiles; y a falta de uno u otro, a lo que disponga el Código Federal de Procedimientos Civiles, procurando la mayor equidad entre las partes sin perjuicio para ninguna de ellas.
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2000)</small>
 
@@ -5700,9 +5728,9 @@ Art. 1,414. Cualquier incidente o cuestión que se suscitare en los juicios ejec
 
 De las formalidades judiciales.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-Art. 1,063. Los juicios mercantiles se substanciarán de acuerdo a los procedimientos, aplicables conforme este Código, las leyes especiales en materia de comercio y en su defecto por la ley procesal local respectiva.
+Art. 1,063.- Los juicios mercantiles se substanciarán de acuerdo a los procedimientos aplicables conforme este Código, las leyes especiales en materia de comercio y en su defecto por el Código Federal de Procedimientos Civiles.
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
@@ -5792,13 +5820,23 @@ Las partes podrán designar personas solamente autorizadas para oír notificacio
 
 El juez al acordar lo relativo a la autorización a que se refiere este artículo deberá expresar con toda claridad el alcance con el que se reconoce la autorización otorgada.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-Art. 1,070. Cuando se ignore el domicilio de la persona que debe ser notificada, la primera notificación se hará publicando la determinación respectiva por tres veces consecutivas en el periódico oficial del Estado, o del Distrito Federal en que el comerciante deba ser demandado.
+Art. 1,070.- Cuando se ignore el domicilio de la persona que debe ser notificada, la primera notificación se hará publicando la determinación respectiva tres veces consecutivas en un periódico de circulación amplia y de cobertura nacional y en un periódico local del Estado o del Distrito Federal en que el comerciante deba ser demandado.
 
-> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
+Previamente a la notificación por edictos en términos del párrafo anterior, el juez ordenará recabar informe de una autoridad o una institución pública que cuente con registro oficial de personas. Bastará el informe de una sola autoridad o institución para que proceda la notificación por edictos.
 
-Mientras un litigante no hiciere substitución del domicilio en donde se tenga que practicar las diligencias y notificaciones personales, seguirán haciéndose en el que para tal fin hubiere señalado. El notificador tendrá la obligación de realizarlas en el domicilio señalado, y en caso de no existir el mismo o de negativa a recibirlas, lo deberá hacer constar en autos para que surtan efectos así como las subsecuentes, por publicación en el boletín, gaceta o periódico judicial o en los estrados de los tribunales, además de que las diligencias en que dicha parte debiere tener intervención se practicarán en el local del juzgado sin su presencia.
+La autoridad o institución proporcionará los datos de identificación y el último domicilio que aparezca en sus registros de la persona buscada. Esta información no queda comprendida dentro del secreto fiscal o de alguna otra reserva que las autoridades o instituciones estén obligadas a observar conforme a las disposiciones que las rige.
+
+Cuando la autoridad o institución proporcione información de diversas personas con el mismo nombre, la parte actora podrá hacer las observaciones y aclaraciones pertinentes para identificar el domicilio que corresponda a la persona buscada o, en su caso, para desestimar domicilios proporcionados. El juez revisará la información presentada así como las observaciones hechas por la parte actora y resolverá lo conducente.
+
+En el caso de que en el documento base de la acción se haya pactado domicilio convencional para recibir las notificaciones, si se acude a realizar la notificación personal en dicho domicilio y éste no corresponde al de la demandada, se procederá a la notificación por edictos sin necesidad de recabar el informe a que se refieren los párrafos anteriores.
+
+Mientras un litigante no hiciere substitución del domicilio en donde se deban practicar las diligencias o notificaciones personales, seguirán haciéndose en el que para tal fin hubiere señalado. El notificador tendrá la obligación de realizarlas en el domicilio señalado, y en caso de no existir el mismo o de negativa a recibirlas, lo deberá hacer constar en autos para que surtan efectos así como las subsecuentes, por publicación en el boletín, gaceta o periódico judicial o en los estrados de los tribunales, además de que las diligencias en que dicha parte debiere tener intervención se practicarán en el local del juzgado sin su presencia.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Art. 1,070 Bis.- Las instituciones y autoridades estarán obligadas a proporcionar la información a que se refiere el artículo 1070 de este Código, en un plazo no mayor a treinta días hábiles y, en caso de no hacerlo, la autoridad judicial dictará las medidas de apremio correspondientes a la persona o funcionario responsables de contestar los informes, sin perjuicio de las responsabilidades en que incurran por su incumplimiento, derivadas de la legislación aplicable a los servidores públicos.
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
@@ -7536,13 +7574,19 @@ Art. 1,371. Evacuado el traslado de que trata el artículo 1,368, el juez decidi
 
 Art. 1,372. Vencido el término de prueba se pasará al periodo de alegatos por tres días comunes para las partes.
 
-Art. 1,373. Si la tercería fuere de dominio, el juicio principal en que se interponga seguirá sus trámites hasta antes del remate, y desde entonces se suspenderán los procedimientos hasta que se decida la tercería.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Art. 1,373.- Si la tercería fuere de dominio sobre bienes muebles, el juicio principal en que se interponga seguirá sus trámites y la celebración del remate únicamente podrá ser suspendida cuando el opositor exhiba título suficiente, a juicio del juez, que acredite su dominio sobre el bien en cuestión, o su derecho respecto de la acción que se ejercita. Tratándose de inmuebles, el remate sólo se suspenderá si el tercero exhibe escritura pública o instrumento equivalente, inscritos en el Registro Público correspondiente.
 
 Art. 1,374. Si la tercería fuere de preferencia, seguirán los procedimientos del juicio principal en que se interponga, hasta la realización de los bienes embargados, suspendiéndose el pago, que se hará, definida la tercería, al acreedor que tenga mejor derecho. Entretanto se decida ésta, se depositará el precio de la venta.
 
 Art. 1,375. Bastará la interposición de una tercería excluyente, para que el ejecutante pueda ampliar la ejecución en otros bienes del deudor, y si éste no los tuviere, para pedir la declaración de quiebra.
 
 Art. 1,376. Si la tercería, cualquiera que sea, se interpone ante un juez de paz o menor, y el interés de ella excede del que la ley respectivamente somete á la jurisdicción de estos jueces, aquel ante quien se interponga remitirá lo actuado en el negocio principal y tercería, al juez que designe el tercer opositor y sea competente para conocer del negocio que representa mayor interés. El juez designado correrá traslado de la demanda verbal entablada y decidirá la tercería, sujetándose en la sustanciación á lo prevenido en los artículos anteriores.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Art. 1,376 Bis.- A todo opositor que no obtenga sentencia favorable, se le condenará al pago de gastos y costas a favor del ejecutante.
 
 ### CAPITULO I. Del procedimiento extrajudicial de ejecución de garantías otorgadas mediante prenda sin transmisión de posesión y fideicomiso de garantía
 
@@ -7590,17 +7634,23 @@ Art. 1,414 Bis 6.- No será necesario agotar el procedimiento a que se refieren 
 
 ### CAPITULO II. Del procedimiento judicial de ejecución de garantías otorgadas mediante prenda sin transmisión de posesión y fideicomiso de garantía
 
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-Art. 1,414 Bis 7.- Se tramitará de acuerdo a este procedimiento todo juicio que tenga por objeto el pago de un crédito cierto, líquido y exigible y la obtención de la posesión material de los bienes que lo garanticen, siempre que la garantía se haya otorgado mediante prenda sin transmisión de posesión o fideicomiso de garantía.
+Art. 1,414 Bis 7.- Se tramitará de acuerdo a este procedimiento todo juicio que tenga por objeto el pago de un crédito cierto, líquido y exigible y la obtención de la posesión material de los bienes que lo garanticen, siempre que la garantía se haya otorgado mediante prenda sin transmisión de posesión, o bien, mediante fideicomiso de garantía en que no se hubiere convenido el procedimiento previsto en el artículo 403 de la Ley General de Títulos y Operaciones de Crédito.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
 Para que el juicio se siga de acuerdo con las disposiciones de este Capítulo, es requisito indispensable que el mencionado crédito conste en documento público o escrito privado, según corresponda, en términos de la Ley General de Títulos y Operaciones de Crédito y que sea exigible en los términos pactados o conforme con las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Art. 1,414 Bis 8. Presentado el escrito de demanda, acompañado del contrato respectivo y la determinación del saldo que formule el acreedor, y cuando el acreedor sea una institución de crédito, anexando la certificación de saldo que corresponda, el juez bajo su más estricta responsabilidad, si encuentra que se reúnen los requisitos fijados en el artículo anterior, en un plazo no mayor de dos días, admitirá la misma y dictará auto con efectos de mandamiento en forma para que el deudor sea requerido de pago y, de no hacerlo, el propio deudor, el depositario, o quien detente la posesión, haga entrega de la posesión material al actor o a quien éste designe, de los bienes objeto de la garantía indicados en el contrato. En este último caso, el acreedor o quien éste designe, tendrá el carácter de depositario judicial y deberá informar al juez sobre el lugar en el que permanecerán los bienes que le han sido entregados, en tanto no sean vendidos.
+
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,414 Bis 8.- Presentado el escrito de demanda, acompañado del contrato respectivo y la determinación del saldo que formule el acreedor, y cuando el acreedor sea una institución de crédito anexando la certificación de saldo que corresponda, el juez bajo su más estricta responsabilidad, si encuentra que se reúnen los requisitos fijados en el artículo anterior, en un plazo no mayor de dos días, admitirá la misma y dictará auto con efectos de mandamiento en forma para que el deudor sea requerido de pago y, de no hacerlo, haga entrega de la posesión material al actor, de los bienes objeto de la garantía indicados en el contrato. En este último caso, el acreedor tendrá el carácter de depositario judicial y deberá informar al juez sobre el lugar en el que permanecerán los bienes que le han sido entregados, en tanto no sean vendidos.
-
 En el mismo auto mediante el cual se requiera de pago al deudor, el juez lo emplazará a juicio, en caso de que no pague o no haga entrega de la posesión material de los bienes dados en garantía al acreedor, para que dentro del término de cinco días ocurra a contestarla y a oponer, en su caso, las excepciones que se indican en el artículo 1414 bis 10.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
 La referida determinación de saldo podrá elaborarse a partir del último estado de cuenta que, en su caso, el deudor haya recibido y aceptado, siempre y cuando se haya pactado, o bien el acreedor esté obligado por disposición de Ley a entregar estados de cuenta al deudor. Se entenderá que el deudor ha recibido y aceptado este último estado de cuenta, si no lo objeta por escrito dentro de los 10 días hábiles siguientes de haberlo recibido o bien efectúa pagos parciales al acreedor con posterioridad a su recepción.
 
@@ -7672,29 +7722,41 @@ Art. 1,414 Bis 16.- El juez debe presidir la audiencia, ordenar el desahogo de l
 
 Art. 1,414 Bis 17.- Obtenido el valor de avalúo de los bienes, de acuerdo con lo dispuesto en el artículo 1414 bis, se estará a lo siguiente:
 
-I. Cuando el valor de los bienes sea menor o igual al monto del adeudo condenado, quedará liquidado totalmente el crédito respectivo, sin corresponder en consecuencia acción o derecho alguno a la parte actora para ejercitar o hacer valer con posterioridad en contra del demandado, por lo que respecta al contrato base de la acción, de conformidad con lo señalado por los artículos 379 y 412 de la Ley General de Títulos y Operaciones de Crédito. En este caso el acreedor o el fiduciario, según corresponda, podrá disponer libremente de los bienes objeto de la garantía, y
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-II. Cuando el valor de los bienes sea mayor al monto del adeudo condenado, la parte acreedora o la fiduciaria, según se trate y una vez deducido el crédito, los intereses y los gastos generados, entregará al deudor el remanente que corresponda por la venta de los bienes.
+I. Cuando el valor de los bienes sea igual al monto del adeudo condenado, quedará liquidado totalmente el crédito respectivo, sin corresponder en consecuencia acción o derecho alguno a la parte actora para ejercitar o hacer valer con posterioridad en contra del demandado, por lo que respecta al contrato base de la acción. En este caso, el acreedor o el fiduciario, según corresponda, podrá disponer libremente de los bienes objeto de la garantía;
 
-La venta a elección del acreedor o fiduciario, se podrá realizar ante el juez que conozca del juicio o fedatario público, mediante el procedimiento siguiente:
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-a) Se notificará personalmente al deudor el día y la hora en que se efectuará la venta de los bienes a que se refiere el inciso siguiente. Dicha notificación deberá realizarse con cinco días de anticipación a la fecha de la venta;
+II. Cuando el valor de los bienes sea menor al monto del adeudo condenado, el acreedor o fiduciario, según corresponda, podrá disponer libremente de los bienes objeto de la garantía y conservará las acciones que en derecho le corresponda, por la diferencia que no le haya sido cubierta, conforme lo establecen las leyes correspondientes.
 
-b) Se publicará en un periódico de la localidad en que se encuentren los bienes con por lo menos cinco días hábiles de antelación, un aviso de venta de los mismos, en el que se señale el lugar, día y hora en que se pretenda realizar la venta, señalando la descripción de los bienes, así como el precio de venta, determinado conforme al artículo 1414 bis.
+Se exceptúa de lo dispuesto en el párrafo anterior, a los créditos a la vivienda por un monto inferior a 100,000 Unidades de Inversión (UDIs), siempre que se haya pagado cuando menos el 50% del saldo insoluto del crédito. En este caso el valor del bien dado en garantía, actualizado a UDIs, responderá por el resto del crédito otorgado, sin corresponder en consecuencia acción o derecho alguno sobre otros bienes, títulos o derechos que no hayan sido dados en garantía a la parte actora para ejercitar o hacer valer con posterioridad en contra del deudor, por lo que respecta al contrato base de la acción.
 
-En dicha publicación podrán señalarse las fechas en que se realizarán, en su caso, las ofertas sucesivas de venta de los bienes. Cada semana en la que no haya sido posible realizar la venta de los bienes, el valor mínimo de venta de los mismos, se reducirá en un 10%, pudiendo el acreedor, a su elección, obtener la propiedad plena de los mismos cuando el precio de dichos bienes esté en alguno de los supuestos a que se refiere la fracción I de este artículo.
+En ningún caso y bajo ninguna forma se podrá renunciar a este derecho;
 
-El deudor que desee que se realicen más publicaciones relativas a la venta de los bienes podrá hacerlo directamente a su costa.
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-c) Realizada la venta de los bienes, si el precio de venta de los mismos fuera superior al monto del adeudo, el acreedor procederá a entregar el remanente que corresponda al deudor en un plazo no mayor de cinco días, una vez que se haya deducido el monto del crédito otorgado, incluyendo intereses y demás gastos incurridos para la venta, en efectivo, cheque de caja o mediante billete de depósito a favor del deudor a través de fedatario.
+III. Cuando el valor de los bienes sea mayor al monto del adeudo condenado, la parte acreedora o la fiduciaria, según se trate y una vez deducido el crédito, los intereses y los gastos generados, entregará al deudor el remanente que corresponda por la venta de los bienes.
 
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+La venta a elección del acreedor o fiduciario se podrá realizar ante el juez que conozca del juicio o fedatario público, mediante el procedimiento siguiente:
 
-Art. 1,414 Bis 18.- En caso de incumplimiento de la parte actora a lo señalado en la fracción II del artículo anterior, el juez lo apercibirá con las medidas de apremio establecidas en el artículo 1414 bis 9, y le ordenará pagar una pena equivalente a cien y hasta tres mil veces, el salario mínimo diario general vigente en el Distrito Federal en las fechas de incumplimiento, por día transcurrido, mientras subsista el incumplimiento.
+a) Se notificará personalmente al deudor, conforme a lo señalado en el Libro Quinto, Capítulo IV, del Título Primero de este Código, el día y la hora en que se efectuará la venta de los bienes a que se refiere el inciso siguiente. Dicha notificación deberá realizarse con cinco días de anticipación a la fecha de la venta;
 
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+b) Se publicará en un periódico de la localidad en que se encuentren los bienes por lo menos con cinco días hábiles de antelación, un aviso de venta de los mismos, en el que se señale el lugar, día y hora en que se pretenda realizar la venta, señalando la descripción de los bienes, así como el precio de la venta, determinado conforme al artículo 1414 Bis.
 
-Artículo 1,414 Bis 19.- El acreedor o fiduciario, en tanto no realice la entrega al deudor del remanente de recursos que proceda en términos del artículo 1414 bis 17, fracción II, por la venta de los bienes objeto de la garantía, cubrirá a éste, por todo el tiempo que dure el incumplimiento, una tasa de interés equivalente a dos veces el Costo de Captación a Plazo de pasivos denominados en moneda nacional (CCP), que mensualmente da a conocer el Banco de México, mediante publicaciones en el Diario Oficial de la Federación.
+En dicha publicación podrán señalarse las fechas en que se realizarán, en su caso, las ofertas sucesivas de venta de los bienes. Cada semana en la que no haya sido posible realizar la venta de los bienes, el valor mínimo de venta de los mismos, se reducirá en un 10%, pudiendo el acreedor, a su elección, obtener la propiedad plena de los mismos cuando el precio de dichos bienes esté en alguno de los supuestos a que se refieren las fracciones I o II de este artículo.
+
+El deudor que desee que se realicen más publicaciones relativas a la venta de los bienes podrá hacerlo directamente a su costa, y
+
+c) Realizada la venta de los bienes, si el precio de venta de los mismos fuera superior al monto del adeudo, el acreedor procederá a entregar el remanente que corresponda al deudor en un plazo no mayor de cinco días, una vez que se haya deducido el monto del crédito otorgado, incluyendo intereses y demás gastos incurridos para la venta, en efectivo, cheque de caja o mediante billete de depósito a favor del deudor a través del fedatario.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Art. 1,414 Bis 18.- En caso de incumplimiento de la parte actora a lo señalado en la fracción III, inciso c), del artículo anterior, el juez lo apercibirá con las medidas de apremio establecidas en el artículo 1414 Bis 9, y le ordenará pagar una pena equivalente a cien y hasta tres mil veces, el salario mínimo diario general vigente en el Distrito Federal en las fechas de incumplimiento, por día transcurrido, mientras subsista el incumplimiento.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Art. 1,414 Bis 19.- El acreedor o fiduciario, en tanto no realice la entrega al deudor del remanente de recursos que proceda en términos del artículo 1414 Bis 17, fracción III, por la venta de los bienes objeto de la garantía, cubrirá a éste, por todo el tiempo que dure el incumplimiento, una tasa de interés equivalente a dos veces el Costo de Captación a Plazo de pasivos denominados en moneda nacional (CCP), que mensualmente da a conocer el Banco de México, mediante publicaciones en el Diario Oficial de la Federación.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
@@ -8514,7 +8576,9 @@ Para tal efecto, la Secretaría de Comercio y Fomento Industrial proporcionará 
 
 Cuarto.- En tanto se expide el Reglamento correspondiente, seguirán aplicándose los capítulos I a IV y VII del Título II del Reglamento del Registro Público de Comercio, publicado en el Diario Oficial de la Federación el 22 de enero de 1979, en lo que no se opongan a lo dispuesto en el presente Decreto.
 
-Quinto.- La captura del acervo histórico del Registro Público de Comercio deberá concluirse, en términos de los convenios de coordinación previstos en el artículo 18 del Código de Comercio a que se refiere el presente Decreto, a más tardar el 30 de noviembre del 2002.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Quinto.- La captura del acervo histórico del Registro Público de Comercio deberá concluirse, en términos de los convenios de coordinación previstos en el artículo 18 del Código de Comercio a que se refiere el presente Decreto, a más tardar el 31 de diciembre de 2004.
 
 Sexto.- La Secretaría, en coordinación con los gobiernos estatales, determinará los procedimientos de recepción de los registros de los actos mercantiles que hasta la fecha de entrada en vigor del presente Decreto efectuaban los oficios de hipotecas y los jueces de primera instancia del orden común, así como los mecanismos de integración a las bases de datos central y a las ubicadas en las entidades federativas. Dicha recepción deberá efectuarse en un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
 
@@ -8527,3 +8591,19 @@ D.O.F. 5 DE JUNIO DE 2000.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE JUNIO DE 2003.
+
+DECRETO POR EL QUE SE MODIFICA EL ARTICULO QUINTO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ..., CODIGO DE COMERCIO, ... PUBLICADO EL 29 DE MAYO DE 2000.
+
+UNICO. El Presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE JUNIO DE 2003.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CODIGO DE COMERCIO.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Las disposiciones de este Decreto no serán aplicables a los créditos contratados con anterioridad a la fecha de entrada en vigor del mismo, ni aun tratándose de novación o reestructuración de créditos.
