@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-creacion-del-organismo-publico-15861"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-03"
-last_updated: "1999-08-03"
+last_updated: "2000-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE CREACION DEL ORGANISMO PUBLICO DESCENTRALIZADO SERVICIOS DE SALUD JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2000.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 3 de agosto de 1999.
 
@@ -931,9 +931,11 @@ XXIV. Observar y aplicar las Condiciones Generales de Trabajo vigentes en el Org
 
 XXV. Las demás que se deriven de las leyes, reglamentos, acuerdos y convenios o le sean delegadas por superior jerárquico.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 38.
 
-Se consideran como Hospitales Metropolitanos, al Hospital General de Occidente, el Hospital Materno-Infantil “Esperanza López Matemos”, y el Hospital Psiquiátrico de Jalisco.
+Se consideran Hospitales Metropolitanos: el Hospital General de Occidente, el Hospital Materno-Infantil "Esperanza López Mateos", el Hospital Psiquiátrico de Jalisco y los demás que con tal carácter sean creados. Los Hospitales Metropolitanos, para efectos programáticos, podrán adscribirse a la coordinación de los Institutos a que se refiere este Reglamento.
 
 ###### Artículo 39.
 
@@ -965,53 +967,153 @@ XII. Recabar, simplificar, analizar y otorgar la información útil para tomar d
 
 XIII. Las demás que se deriven de las leyes, reglamentos, acuerdos y convenios o le sean delegadas por superior jerárquico.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 40.
 
-Se consideran como Institutos: al Instituto de Cirugía Reconstructiva, al Instituto Dermatológico de Jalisco “Dr. José Barba Rubio” y demás que con tal carácter sean creados para cumplir con el derecho a la protección de la salud.
+Se consideran como Institutos: el Instituto Jalisciense de Cirugía Reconstructiva "Dr. José Guerrero Santos", el Instituto Dermatológico de Jalisco "Dr. José Barba Rubio", el Instituto Jalisciense de Salud Mental, el Instituto Jalisciense de Alivio al Dolor y Cuidados Paliativos y los demás que con tal carácter sean creados.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 41.
 
-Los Institutos tienen competencia para:
+En general, los Institutos tendrán competencia para:
 
 I. Coadyuvar al funcionamiento y consolidación del Sistema Estatal de Salud y contribuir al cumplimiento del derecho a la protección de la Salud en el ámbito de su competencia;
 
-II. Apoyar la ejecución de los programas sectoriales de salud en el ámbito de sus funciones y servicios;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
 
-III. Brindar servicios de atención medica en la especialidad que le corresponda, así como evaluar sus resultados;
+Il. Procurar la coordinación con los organismos de los sectores público, privado y social en la referencia y contrarreferencia, prestación y evaluación de servicios de atención médica en el área de su especialidad;
 
-IV. Formular y ejecutar los planes y programas de estudio y realizar actividades de capacitación y actualización de su personal profesional, técnico y auxiliar;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
 
-V. Coordinar y ejecutar acciones de investigación para la salud en las disciplinas correspondientes con apego a las disposiciones aplicables;
+III. Elaborar anteproyectos de programas estatales de salud en el área de su especialidad, los cuales serán presentados a la consideración de la Secretaría de Salud Jalisco, como coordinadora sectorial;
 
-VI. Realizar actividades de promoción de la salud, detección y rehabilitación en lo relativo al área de su especialización, para satisfacer las expectativas del usuario y del prestador de servicios;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+IV. Apoyar la ejecución de los programas sectoriales de salud en el ámbito de sus funciones y servicios;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+V. Organizar la prestación de servicios de atención médica especializada en el área de su competencia, pudiendo operar unidades de salud en los tres niveles de atención médica, cuando el modelo sanitario lo permita;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+VI. Prestar servicios de atención médica preventiva, curativa y de rehabilitación, cuidando de la reinserción social de los usuarios que por su estado de salud física y mental así lo requieran;
 
 VII. Operar según corresponda, la regionalización de los servicios médicos, para acercarlos física y funcionalmente a la población usuaria, mediante el programa de cirugía extramuros;
 
 VIII. Evaluar y autoevaluar la prestación de los servicios de: atención médica; auxiliares de diagnóstico y tratamiento; y de apoyo paramédico;
 
-IX. Formar los recursos humanos especializados en las disciplinas correspondientes, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
 
-X. Prestar asesoramiento a las instancias que lo requieran, así mismo actuar como órgano de consulta en las distintas dependencias;
+IX. Establecer relaciones de cooperación con organismos del sector público, social y privado, que coadyuven en las acciones encaminadas a la atención médica de alta especialidad;
 
-XI. Establecer relación directa con organismos del sector público, social y privado, que coadyuven en las acciones encaminadas a la atención médica de alta especialidad;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
 
-XII. Administrar los recursos humanos, materiales y financieros necesarios para el adecuado funcionamiento del Instituto;
+X. Fomentar la participación activa de los sectores público, social y privado en el área de su especialidad, en acciones para el cuidado de la salud, la formación de hábitos saludables y el fortalecimiento de una cultura orientada a la salud;
 
-XIII. Constituir el patronato como órgano de apoyo y consulta, además de promover la participación de la comunidad en los términos de los ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
 
-XIV. Administrar y controlar de conformidad con las disposiciones aplicables los ingresos que se generen por concepto de colegiaturas que cubran los médicos por realizar una residencia de especialización;
+XI. Coordinar y ejecutar acciones de investigación para la salud en las disciplinas correspondientes, con apego a las disposiciones aplicables;
 
-XV. Estructurar en el ámbito de su competencia mecanismos de avaluación en enseñanza, capacitación, e investigación;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+XII. Planear, coordinar y realizar acciones de investigación científica en estrecha vinculación con las autoridades e instituciones de educación relacionadas con su objeto;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+XIII. Integrar un acervo de información y documentación que facilite a las autoridades e instituciones competentes, la investigación, estudio y análisis de los distintos aspectos epidemiológicos de la salud;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+XIV. Prestar asesoramiento a las instancias que lo requieran, así mismo, actuar como órgano de consulta en las distintas dependencias;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+XV. Formular y ejecutar los planes y programas de estudio y realizar actividades de capacitación y actualización de su personal profesional, técnico y auxiliar;
 
 XVI. Difundir información técnica y científica en la materia, así como publicar los resultados de las investigaciones y trabajos que realice;
 
 XVII. Promover y realizar reuniones y eventos de intercambio científico con instituciones afines;
 
-XVIII. Conceder extensiones o reducciones en el importe de las colegiaturas que se cubran por las especializaciones que se impartan, con estricto apego a la normatividad aplicable tanto nacional como extranjera;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
 
-XIX. Otorgar diplomas y expedir certificados de estudios, grados y títulos de conformidad con las disposiciones aplicables, y
+XVIII. Formar y capacitar recursos humanos en el área de su especialidad, en estrecha vinculación académica con la Universidad de Guadalajara, por su carácter de universidad pública del Estado; así como con autoridades e instituciones de educación que se relacionen con su objeto;
 
-XX. Las demás que se deriven de las leyes, reglamentos, acuerdos y convenios de coordinación o le sean delegadas por superior jerárquico.
+XIX. Otorgar diplomas y expedir certificados de estudios, grados y títulos de conformidad con las disposiciones aplicables, y (sic)
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+XX. Estructurar, en el ámbito de su competencia, mecanismos de evaluación en enseñanza, capacitación e investigación;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+XXI. Elaborar su programa anual de trabajo, conforme a las políticas dictadas para los Sistemas Nacional y Estatal de Salud y para el Organismo en particular;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+XXII. Mantener en operación las unidades médicas y administrativas con que cuente cada Instituto y las que en el futuro se les integren;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+XXIII. Administrar, con apego a la normatividad jurídica y las políticas dictadas para el Organismo, los recursos humanos, materiales y financieros necesarios para el adecuado funcionamiento del Instituto de que se trate;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+XXIV. Administrar y controlar, de conformidad con las disposiciones aplicables, los ingresos que se generen por concepto de colegiaturas que cubran los médicos por realizar una residencia de especialización;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+XXV. Promover la constitución del patronato que corresponda a cada Instituto, como órgano de apoyo y consulta;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+XXVI. Conceder exenciones o reducciones en el importe de las colegiaturas que se cubran por las especializaciones que se impartan, con estricto apego a la normatividad aplicable tanto nacional como extranjera; y
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+XXVII. Las demás que este Reglamento y otras disposiciones legales le confieran para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+Artículo 41 bis. Los Institutos en el desarrollo de programas de salud y la realización de acciones de salud pública, formación de recursos humanos e investigación científica, tendrán autonomía técnica y operativa, pero estarán bajo la supervisión y control de la Dirección General de Salud Pública.
+
+La atención médica curativa y de rehabilitación que brinden los Institutos quedarán a cargo de los Directores de dichos Institutos, bajo la competencia de la Dirección General de Regiones y Hospitales.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+Artículo 41 bis 1. Los Institutos contarán con un Director y con el personal administrativo, médico, paramédico y afín, que se determine en su plantilla de personal.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+Artículo 41 bis 2. Los Directores de los Institutos deberán ser médicos, con experiencia en administración hospitalaria y con certificado de especialidad en la materia que atienda el Instituto que dirijan.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+Artículo 41 bis 3. Los Directores de los Institutos tendrán las siguientes funciones:
+
+I. Cumplir con las disposiciones emanadas de las autoridades competentes del
+
+Organismo;
+
+Il. Dirigir el funcionamiento del Instituto de que se trate, conforme a las disposiciones jurídicas y administrativas aplicables;
+
+III. Presentar a las unidades competentes del Organismo, con la periodicidad debida, los programas, presupuestos, informes de actividades, estados financieros y la demás documentación e información que les sea requerida;
+
+IV. Cumplir con la integración de los comités hospitalarios respectivos;
+
+V. Apoyar, en el área de su competencia, las actividades de enseñanza e investigación; y
+
+VI. Las demás que se deriven de las leyes, reglamentos y acuerdos de coordinación, las que le sean delegadas por superior jerárquico, así como aquellas que se detallen en el manual de organización de cada Instituto.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+Artículo 41 bis 4. Cada Instituto podrá contar con un Comité Técnico Consultivo que, de existir, tendrá la función de asesorar al Director en asuntos de carácter técnico y proponerle la adopción de medidas de carácter general tendientes al mejoramiento operacional del Instituto de que se trate.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+Artículo 41 bis 5. Cada Instituto deberá contar con un Patronato que gestionará la obtención de recursos y coordinará la participación: de la comunidad en los programas autorizados y conforme a los lineamientos que expida el Director General del Organismo.
 
 ### CAPÍTULO IX. DE LA CONTRALORÍA
 
@@ -1070,3 +1172,23 @@ Lic. Fernando Guzmán Pérez Peláez
 El C. Secretario de Salud
 
 Dr. Cristóbal Ruiz Gaytán López
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE DICIEMBRE DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Acuerdo que crea el Instituto Jalisciense de Salud Mental, publicado en el Periódico Oficial "El Estado de Jalisco" con fecha 29 de julio de 1999.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Acuerdo que crea el Instituto Jalisciense de Alivio al Dolor y Cuidados Paliativos publicado en el Periódico Oficial "El Estado de Jalisco" con fecha 29 de enero del año 2000.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones reglamentarias que se opongan al presente Acuerdo.
