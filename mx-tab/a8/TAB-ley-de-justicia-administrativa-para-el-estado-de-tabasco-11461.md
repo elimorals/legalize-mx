@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-justicia-administrativa-para-el-estado-de-tabasco-11461"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-19"
-last_updated: "1997-02-19"
+last_updated: "1997-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -1175,7 +1175,7 @@ Manifestada por un Magistrado la causa de impedimento, el Pleno del Tribunal cal
 
 ###### ARTICULO 112.
 
-Las partes podrán recursar (sic) a los Magistrados o a los peritos designados por las Salas, cuando estén en alguno de los casos de impedimento a que se refiere el artículo 109 de esta Ley.
+Las partes podrán recusar a los Magistrados o a los peritos designados por las Salas, cuando estén en alguno de los casos de impedimento a que se refiere el artículo 109 de esta Ley.
 
 ###### ARTICULO 113.
 
