@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1940-03-09"
+last_updated: "1941-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 1940.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 1941.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -183,9 +183,11 @@ En la misma forma se procederá cuando durante diez días seguidos no pudieran c
 
 Se entiende también que los Diputados que falten diez días consecutivos sin causa justificada o sin previa licencia del Presidente del Congreso, con la cual se dará conocimiento a éste, renuncia a concurrir hasta el período inmediato, llamándose desde luego a los suplentes.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1941)</small>
+
 ###### Art. 30.
 
-El Congreso tendrá cada año un período de sesiones ordinarias que comenzará el siete de agosto y terminará el treinta de noviembre.
+El Congreso tendrá cada año un período de sesiones ordinarias que comenzará el siete de agosto y terminará el treinta y uno de diciembre.
 
 ###### Art. 31.
 
@@ -1026,3 +1028,7 @@ P.O. 9 DE MARZO DE 1940.
 Artículo primero. La reforma anterior surtirá sus efectos legales a partir de las próximas elecciones que para Diputados al H. Congreso del Estado deberán efectuarse el dos de junio del año en curso.
 
 Artículo segundo. Publíquese por bando solemne en las cabeceras Municipales el día y hora que a bien tenga señalar el Ejecutivo del Estado.
+
+P.O. 20 DE NOVIEMBRE DE 1941.
+
+UNICO. La presente reforma entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
