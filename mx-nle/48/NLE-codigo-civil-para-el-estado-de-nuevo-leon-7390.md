@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1982-12-31"
+last_updated: "1983-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1983.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -349,7 +349,7 @@ Los testigos que intervengan en las actas del Registro Civil deberán ser cuando
 
 ###### Art. 51.
 
-La nulidad del hecho o acto inscrito y la falsedad de las actas del Registro Civil, sólo podrán probarse judicilamente.
+La nulidad del hecho o acto inscrito y la falsedad de las actas del Registro Civil, sólo podrán probarse judicialmente.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -383,7 +383,7 @@ Los hechos y actos del estado civil del propio Oficial, de su cónyuge, ascendie
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
-### CAPITULO VIII. ACTAS DE INSCRIPCION DE SENTENCIAS
+### CAPITULO VIII. ACTAS DE INSCRIPCIONES DE SENTENCIAS
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -11823,7 +11823,7 @@ Si la renta no excede de veinticinco pesos mensuales, es potestativo para el arr
 
 No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2343.
 
-(SUSPENDIDA LA VIGENCIA POR ARTICULO SEPTIMO DE DECRETO NUMERO 36, P.O. 13 DE JUNIO DE 1962)
+> <small>(DEROGADA LA SUSPENSION DEL ARTICULO SEPTIMO DEL DECRETO NUMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTICULO UNICO DEL DECRETO NUMERO 40, P.O. 5 DE ENERO DE 1983)</small>
 
 ###### Art. 2346.
 
@@ -11835,7 +11835,7 @@ La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses
 
 El propietario de un predio rústico debe cultivarlo, sin perjuicio de dejarlo descansar el tiempo que sea necesario para que no se agote su fertilidad. Si no lo cultiva, tiene obligación de darlo en arrendamiento o en aparcería, de acuerdo con lo dispuesto en la Ley de Tierras Ociosas.
 
-(SUSPENDIDA LA VIGENCIA POR ARTICULO SEPTIMO DE DECRETO NUMERO 36, P.O. 13 DE JUNIO DE 1962)
+> <small>(DEROGADA LA SUSPENSION DEL ARTICULO SEPTIMO DEL DECRETO NUMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTICULO UNICO DEL DECRETO NUMERO 40, P.O. 5 DE ENERO DE 1983)</small>
 
 ###### Art. 2348.
 
@@ -11947,7 +11947,7 @@ Lo dispuesto en el artículo 2359 es aplicable a los aperos de la finca arrendad
 
 Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte dado en forma indubitable con dos meses de anticipación si el predio es urbano, y con un año si es rústico.
 
-(SUSPENDIDA LA VIGENCIA POR ARTICULO SEPTIMO DE DECRETO NUMERO 36, P.O. 13 DE JUNIO DE 1962)
+> <small>(DEROGADA LA SUSPENSION DEL ARTICULO SEPTIMO DEL DECRETO NUMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTICULO UNICO DEL DECRETO NUMERO 40, P.O. 5 DE ENERO DE 1983)</small>
 
 ###### Art. 2373.
 
@@ -11973,7 +11973,7 @@ Si el arrendador aprueba expresamente el contrato especial de subarriendo, el su
 
 El arrendamiento puede terminar:
 
-(SUSPENDIDA LA VIGENCIA POR ARTICULO SEPTIMO DE DECRETO NUMERO 36, P.O. 13 DE JUNIO DE 1962)
+> <small>(DEROGADA LA SUSPENSION DEL ARTICULO SEPTIMO DEL DECRETO NUMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTICULO UNICO DEL DECRETO NUMERO 40, P.O. 5 DE ENERO DE 1983)</small>
 
 I.- Por haberse cumplido el plazo fijado en el contrato o por la ley, o por estar satisfecho el objeto para que la cosa fué arrendada;
 
@@ -11991,7 +11991,7 @@ VII.- Por expropiación de la cosa arrendada hecha por causa de utilidad públic
 
 VIII.- Por evicción de la cosa dada en arrendamiento.
 
-(SUSPENDIDA LA VIGENCIA POR ARTICULO SEPTIMO DE DECRETO NUMERO 36, P.O. 13 DE JUNIO DE 1962)
+> <small>(DEROGADA LA SUSPENSION DEL ARTICULO SEPTIMO DEL DECRETO NUMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTICULO UNICO DEL DECRETO NUMERO 40, P.O. 5 DE ENERO DE 1983)</small>
 
 ###### Art. 2378.
 
@@ -12017,7 +12017,7 @@ Cuando haya prórroga en el contrato de arrendamiento, y en los casos de que hab
 
 El arrendador puede exigir la rescisión del contrato:
 
-(SUSPENDIDA LA VIGENCIA POR ARTICULO SEPTIMO DE DECRETO NUMERO 36, P.O. 13 DE JUNIO DE 1962)
+> <small>(DEROGADA LA SUSPENSION DEL ARTICULO SEPTIMO DEL DECRETO NUMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTICULO UNICO DEL DECRETO NUMERO 40, P.O. 5 DE ENERO DE 1983)</small>
 
 I.- Por falta de pago de la renta en los términos prevenidos en los artículos 2346 y 2348;
 
@@ -15081,7 +15081,7 @@ P.O. 29 DE DICIEMBRE DE 1982.
 
 ###### ARTICULO SEGUNDO
 
-- Quedan derogadas todas las disposiciones que se opongan a las presentes reformas.
+- Quedan derogadas todas las disposiciones que se opongan a la presentes reformas.
 
 P.O. 31 DE DICIEMBRE DE 1982.
 
@@ -15092,3 +15092,9 @@ Este Decreto entrará en vigor el día 1o. de enero de 1983.
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que contraríen o se opongan al contenido de este Decreto.
+
+P.O. 5 DE ENERO DE 1983.
+
+PRIMERO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO:- Los procedimientos judiciales que se encuentren pendientes de resolución antes de la vigencia de este Decreto, se seguirán tramitando conforme a lo dispuesto en el que se reforma.
