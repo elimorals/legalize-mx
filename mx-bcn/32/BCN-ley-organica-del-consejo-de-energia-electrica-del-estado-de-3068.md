@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-consejo-de-energia-electrica-del-estado-de-306
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-19"
-last_updated: "1995-05-19"
+last_updated: "2002-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3068&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY ORGANICA DEL CONSEJO DE ENERGIA ELECTRICA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO PRIMERO DEL DECRETO NO. 41, PUBLICADO EN EL PERIODICO OFICIAL EL 15 DE MARZO DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial el 19 de mayo de 1995.
 
@@ -356,3 +358,25 @@ DADO en el Salón de Sesiones Licenciado Benito Juárez García, de este H. Pode
 DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCION I DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO, MANDO SE IMPRIMA, PUBLIQUE, OBSERVE Y SE LE DE EL DEBIDO CUMPLIMIENTO.
 
 MEXICALI, BAJA CALIFORNIA, A LOS OCHO DIAS DEL MES DE MAYO DE MIL NOVECIENTOS NOVENTA Y CINCO. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. ERNESTO RUFFO APPEL. RUBRICA. EL SECRETARIO GENERAL DE GOBIERNO, LIC RODOLFO VALDEZ GUTIERREZ. RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 15 DE MARZO DE 2002.
+
+PRIMERO.- Se aprueba la abrogación de la Ley Orgánica que Crea el Consejo de Energía Eléctrica del estado de Baja California, resolución que empezará a surtir sus efectos a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Remítase la presente resolución al Ejecutivo del Estado para que en el ejercicio de las facultades que se derivan de su representación en la Junta de Gobierno del ente que se extingue, tome las medidas administrativas, contables, laborales, presupuestales y patrimoniales conducentes, a efecto de proceder a la liquidación del Consejo de Energía como organismo público descentralizado, con personalidad jurídica y patrimonios propios.
+
+TERCERO.- El patrimonio del Consejo de Energía Eléctrica pasará a formar parte del patrimonio de la administración pública del Gobierno del Estado, y será asignado a las dependencias o entidades que la Secretaría de Planeación y Finanzas y Oficialía de Mayor de Gobierno coordinadamente determinen.
+
+CUARTO.- Los responsables de las Unidades Administrativas del Consejo de Energía Eléctrica del Estado de Baja California, procederán a la entrega y recepción de los asuntos y recursos públicos del Organismo, a los servidores públicos que determinen las dependencias indicadas en el resolutivo anterior.
+
+## TRANSITORIOS.
+
+###### ARTICULO PRIMERO.
+
+El Consejo de Energía Eléctrica del Estado de Baja California, sólo ejercerá sus funciones, programas y acciones durante el año 2002 y conforme al presupuesto aprobado para el ejercicio fiscal del mismo año; de subsistir adeudos a proveedores o prestadores de servicios, éstos serán cubiertos a través de Oficialía Mayor de Gobierno. En el entendido que a más tardar en treinta días a partir de la presente publicación deberá cesar en sus funciones.
+
+###### ARTICULO SEGUNDO.
+
+El Consejo de Energía Eléctrica a través de las unidades administrativas que correspondan, deberá proceder a la liquidación de sus trabajadores a más tardar en treinta días siguientes a la publicación del presente; la Oficialía Mayor de Gobierno asumirá los derechos y obligaciones que debieran corresponderle al Consejo de Energía Eléctrica como si de un trabajador de la administración pública se trate.
