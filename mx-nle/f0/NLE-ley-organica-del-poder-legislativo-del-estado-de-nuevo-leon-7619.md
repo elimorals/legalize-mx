@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "1994-11-21"
+last_updated: "1994-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -363,7 +363,9 @@ II.- Trabajo Legislativo; y
 
 III.- Técnico-Administrativos y de Apoyo.
 
-Los órganos de Dirección serán: La Directiva y la Comisión de Coordinación y Gobierno Interno.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+Los órganos de Dirección serán: La Directiva y la Gran Comisión.
 
 Los Organos de Trabajo Legislativo serán: Las Comisiones Legislativas y los Comités.
 
@@ -429,25 +431,35 @@ Los actos de los integrantes de la directiva, ejecutados en contra de la Ley ser
 
 Los integrantes de la directiva podrán ser removidos de sus cargos por incumplimiento de sus atribuciones, siendo necesario para tal efecto el voto de la mayoría simple de los diputados presentes en la sesión y la audiencia del interesado.
 
-### CAPITULO III. LA COMISION DE COORDINACION Y GOBIERNO INTERNO
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+### CAPITULO III. GRAN COMISION
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 61.
 
-La Comisión de Coordinación y Gobierno Interno del Congreso, es el órgano de Dirección que tiene a su cargo las atribuciones que le otorga esta Ley y su Reglamento.
+La Gran Comisión del Congreso, es el órgano de Dirección que tiene a su cargo las atribuciones que le otorga esta Ley y su Reglamento.
 
 Se integra pluralmente con nueve diputados y se compondrá por un Presidente, un Vice-Presidente, un Secretario y seis Vocales. El Pleno designará al Secretario y a los seis vocales.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 62.
 
-Será Presidente de la Comisión de Coordinación y Gobierno Interno el Coordinador del Grupo Legislativo mayoritario y Vice-Presidente el Coordinador del Grupo Legislativo que integre el segundo Grupo Legislativo en número de diputados.
+Será Presidente de la Gran Comisión el Coordinador del Grupo Legislativo mayoritario y Vice-Presidente el Coordinador del Grupo Legislativo que integre el segundo Grupo Legislativo en número de diputados.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 63.
 
-La Comisión de Coordinación y Gobierno Interno quedará instalada en la tercera Sesión del Primer Período Ordinario en que se inicien las actividades de la Legislatura correspondiente.
+La Gran Comisión quedará instalada en la tercera Sesión del Primer Período Ordinario en que se inicien las actividades de la Legislatura correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 64.
 
-La Comisión de Coordinación y Gobierno Interno tendrá a su cargo las siguientes funciones:
+La Gran Comisión tendrá a su cargo las siguientes funciones:
 
 I.- Presentar Iniciativas sobre asuntos concernientes a los diferentes ramos de la Administración Pública del Estado y de los Municipios, tomando en cuenta las propuestas de los Diputados, respetando lo dispuesto en los Artículos 68 y 69 de la Constitución Política Local;
 
@@ -583,7 +595,9 @@ Son Comisiones Permanentes de Dictamen Legislativo las siguientes:
 
 29) Agua y Drenaje.
 
-30) Organización interna de Gobierno.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+30) Organización Interna de los Poderes y de la Administración Pública.
 
 31) Conducta Civil.
 
@@ -649,23 +663,29 @@ La Asamblea del Congreso del Estado podrá crear, cuando las necesidades así lo
 
 ### CAPITULO III. DE LOS ORGANOS TECNICO-ADMINISTRATIVOS Y DE APOYO
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 79.
 
-La Oficialía Mayor del Congreso es el Organo Técnico Legislativo, y tendrá a su cargo formular y preparar la documentación y prestar los servicios que requiera el Congreso para el desarrollo del trabajo legislativo. Rendirá un informe a la Comisión de Coordinación y Gobierno Interno del as actividades legislativas al término de cada Período Ordinario de Sesiones.
+La Oficialía Mayor del Congreso es el Organo Técnico Legislativo, y tendrá a su cargo formular y preparar la documentación y prestar los servicios que requiera el Congreso para el desarrollo del trabajo legislativo. Rendirá un informe a la Gran Comisión de las actividades legislativas al término de cada Período Ordinario de Sesiones.
 
 ###### Artículo 80.
 
 La Tesorería del Congreso se encargará del manejo de las partidas presupuestales que correspondan al gasto de la administración del Congreso.
 
-Rendirá trimestralmente un informe a la Comisión de Coordinación y Gobierno Interno, al Comité de Administración del Congreso del Estado y a la Comisión de Vigilancia para el ejercicio de las atribuciones que la Ley le otorga.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+Rendirá trimestralmente un informe a la Gran Comisión, al Comité de Administración del Congreso del Estado y a la Comisión de Vigilancia para el ejercicio de las atribuciones que la Ley le otorga.
 
 ###### Artículo 81.
 
 La integración, actividades y funcionamiento de los Organos Técnico-Administrativos y de Apoyo, estará sujeta a lo dispuesto por el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 82.
 
-El Oficial Mayor será designado por el Pleno del Congreso a propuesta de la Comisión de Coordinación y Gobierno Interno. El Tesorero será designado por la Comisión de Coordinación y Gobierno Interno a propuesta de su Presidente quien además tendrá la facultad de nombrar a los directores de los Organos Técnico-Administrativos y de Apoyo.
+El Oficial Mayor será designado por el Pleno del Congreso a propuesta de la Gran Comisión. El Tesorero será designado por la Gran Comisión a propuesta de su Presidente quien además tendrá la facultad de nombrar a los directores de los Organos Técnico-Administrativos y de Apoyo.
 
 ## TITULO SEXTO. DE LA DIPUTACION PERMANENTE
 
@@ -752,3 +772,9 @@ UNICO:- El presente Decreto entrará en vigor el día siguiente de su publicaci�
 P.O. 21 DE NOVIEMBRE DE 1994.
 
 UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1994.
+
+PRIMERO:- El presente Decreto entrara en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado.
+
+SEGUNDO:- Cuando en una Ley, Reglamento o cualquier otra disposición este expresado el término de "Comisión de Coordinación y Gobierno Interno", se entenderá que se refiere a la "Gran Comisión".
