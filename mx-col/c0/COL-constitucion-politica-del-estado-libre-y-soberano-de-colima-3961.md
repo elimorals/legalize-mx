@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1928-11-10"
+last_updated: "1932-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1928.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 1932.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -773,7 +773,9 @@ De la Instrucción Pública.
 
 ###### Artículo 104.
 
-El Estado se dividirá para su administración política y judicial, en siete Municipalidades, teniendo por cabecera cada una, la población que lleva su nombre y son las siguientes: Colima, Manzanillo, Villa de Alvarez, Comala, Tecomán, Coquimatlán y Cuauhtémoc. Los que hasta la fecha han sido Municipios de Ixtlahuacán y El Mamey, quedarán incorporados respectivamente a Tecomán y Villa de Alvarez, debiendo ser administrados por Juntas Municipales que conforme a la Ley, deberán nombrar los Ayuntamientos, a los cuales se incorporan los territorios de los Municipios extintos. Estas Juntas Municipales, residirán en los pueblos de Ixtlahuacán y El Mamey, respectivamente.
+El Estado se dividirá para su administración Política y Judicial, en nueve Municipios teniendo por cabeceras cada uno la población que lleva su nombre y son los siguientes: Colima, Manzanillo, Villa de Alvarez, Minatitlán, Comala, Tecomán, Ixtlahuacán, Coquimatlán y Cuauhtémoc.
+
+Tratándose de elecciones para Diputados Propietarios y Suplentes al Congreso Local, los Municipios de Villa de Alvarez y Minatitlán, formarán un solo Distrito Electoral así como también los Municipios de Tecomán e Ixtlahuacán.
 
 ###### Artículo 105.
 
@@ -785,7 +787,7 @@ Las congregaciones que tengan menos de quinientos habitantes, se considerarán a
 
 ## TITULO IX.. DE LA DIVISION POLITICA DEL ESTADO. (SIC)
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1932)</small>
 
 ###### Artículo 107.
 
@@ -1168,6 +1170,10 @@ P.O. 10 DE NOVIEMBRE DE 1928.
 ###### Artículo 3o.
 
 Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación.
+
+P.O. 18 DE JUNIO DE 1932.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ORDENAMIENTO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.</small>
 
 ###### Artículo 2.
 
