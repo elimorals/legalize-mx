@@ -4,7 +4,7 @@ identifier: "VER-ley-del-notariado-6779"
 country: "mx"
 rank: "ley"
 publication_date: "1965-06-01"
-last_updated: "1997-02-25"
+last_updated: "2004-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DEL NOTARIADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE FEBRERO DE 1997.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO DEROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN EL ALCANCE A LA G.O. DE 5 DE JULIO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: DEROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 1 de junio de 1965.
 
@@ -1530,3 +1532,17 @@ La numeración de los instrumentos con que cada notario iniciará el uso del pro
 Séptimo. Los encargados provisionales que hubieren sido nombrados con ese carácter en términos del texto anterior del artículo 82 y del ahora derogado transitorio segundo de la Ley del Notariado continuarán despachando sus respectivas notarías, hasta en tanto se asignen a los triunfadores de los exámenes de oposición que se convoquen en términos del artículo 40 de esta Ley, para cuyo efecto se considerarán vacantes. Cumplido lo anterior harán entrega del protocolo a su cargo en un plazo no mayor a diez días a partir de que reciban la notificación del Departamento de Inspección y Archivo General de Notarías.
 
 Octavo. El incremento del número de directivos para integrar el Consejo queda condicionado a que la Asamblea de Notarios reforme oportunamente los estatutos del Colegio de Notarios, para adecuarlos a esta ley.
+
+G.O. 5 DE JULIO DE 2004.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan la Ley del Notariado publicada en la Gaceta Oficial del Estado el primero de junio de mil novecientos sesenta y cinco, y todas las disposiciones que se opongan a la presente Ley.
+
+A partir de la fecha en que el Ejecutivo sancione el arancel para el cobro de honorarios por los Notarios Públicos quedará abrogada la Ley que Establece el Arancel para el Cobro de Honorarios por los Notarios Públicos, publicada en la Gaceta Oficial del Estado el dieciséis de diciembre de mil novecientos sesenta y siete.
+
+Tercero. El Consejo proveerá lo necesario para la creación del Instituto de Estudios Superiores del Colegio, nombrando a su órgano de gobierno y expidiendo su reglamentación interna, en un plazo de ciento ochenta días, contados a partir de que entre en vigor esta Ley.
+
+Cuarto. Los trámites ya iniciados para realizar los exámenes de aspirante al ejercicio del notariado, los de oposición y los demás regulados por la Ley que se deroga, se continuarán con apego a sus disposiciones.
+
+Quinto. El excedente de los diez mil salarios mínimos vigentes en la capital del Estado, que constituyen el fondo de la garantía se destinará a la constitución de la mutualidad notarial.
