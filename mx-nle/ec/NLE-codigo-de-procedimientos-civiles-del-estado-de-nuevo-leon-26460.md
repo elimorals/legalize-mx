@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1983-01-05"
+last_updated: "1983-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -5215,6 +5215,8 @@ Si para la debida identificación fuere necesario reconocer la firma por no exis
 
 DE LA ADOPCION.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1983)</small>
+
 ###### Artículo 893.
 
 A instancia de parte legítima, formulada ante el tribunal del lugar en que se haya otorgado, puede declararse formal el testamento privado de una persona, sea que conste por escrito o sólo de palabra en el caso del artículo 1465 del Código Civil.
@@ -5519,23 +5521,19 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 ###### Artículo 935.
 
-El que pretenda adoptar a alguna persona deberá acreditar:
+El que pretenda adoptar a alguna persona deberá acreditar las exigencias del Artículo 390 del Código Civil.
 
-I.- Que es mayor de cuarenta años y tiene, por lo menos, diecisiete años más de edad de la persona que trata de adoptar;
+Además, en la promoción inicial se deberá manifestar el nombre, apellidos, nacionalidad, edad y domicilio del menor o incapacitado, y el nombre, nacionalidad, edad, estado civil y domicilio de quienes ejerzan sobre él la patria potestad o la tutela o la institución de beneficencia que lo haya acogido; así como el nombre, nacionalidad, edad, estado civil domicilio del o de los adoptantes, y nombre, nacionalidad y domicilio de los padres del o de los adoptantes.
 
-II.- Que no tiene descendientes:
+Si la adopción se hizo con anterioridad y faltaren datos del o de los adoptantes o padres de éstos, se acreditarán, por resolución pronunciada en Jurisdicción Voluntaria.
 
-III.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trata de adoptar;
+Cuando el menor hubiese sido acogido por un Institución Pública, el adoptante recabará constancia del tiempo de la exposición o abandono para los efectos de la Fracción IV del Artículo 444 del Código Civil.
 
-IV.- Que la adopción es benéfica para la persona que trata de adoptarse;
+Si hubieren transcurrido menos de tres meses de la exposición o abandono, se decretará el depósito del menor con el presunto adoptante, entre tanto se consuma dicho plazo.
 
-V.- Que es el adoptante de buenas costumbres.
+Si el menor abandonado tuviere padres conocidos y no hubiere sido acogido por Institución Pública, se decretará el depósito con el presunto adoptante, por el término de tres meses para los mismos efectos.
 
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 1982)</small>
-
-VI.- Que alguna Institución Médica, Pública o Privada, o dos médicos particulares autorizados, le hayan expedido un certificado de salud o constancia de exámen médico.
-
-En la promoción inicial deberá manifestarse el nombre y edad del menor o incapacitado, y el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela o de las personas o instituciones de beneficencia que lo hayan acogido.
+Cuando se trate de adopciones respecto a menores expuestos en Instituciones protectoras de la niñez, el trámite de las mismas se hará a través de las instituciones oficiales sin costo alguno para los interesados.
 
 ###### Artículo 936.
 
@@ -6092,3 +6090,9 @@ P.O. 5 DE ENERO DE 1983.
 DECRETO NUM. 49, QUE REFORMA A LOS ARTICULOS 939, 940, 941, 942 Y 943 DEL CODIGO DE PROCEDIEMIENTOS CIVILES VIGENTE EN EL ESTADO Y SE ADICIONA EL ARTICULO 943-BIS.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 1983.
+
+###### ARTICULO UNICO
+
+- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
