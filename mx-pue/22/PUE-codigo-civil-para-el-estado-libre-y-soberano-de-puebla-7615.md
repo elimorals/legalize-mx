@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "1990-04-27"
+last_updated: "1990-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1990.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -1679,9 +1679,11 @@ XI.- La locura.
 
 De los impedimentos que establece el artículo anterior, sólo son dispensables la falta de edad y el parentesco por consanguinidad en la línea colateral desigual.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+
 ###### Artículo 300.
 
-No pueden contraer matrimonio el hombre antes de cumplir catorce años y la mujer antes de cumplir doce.
+No pueden contraer matrimonio el hombre y la mujer, antes de cumplir 16 años de edad.
 
 ###### Artículo 301.
 
@@ -2301,9 +2303,11 @@ II.- Cuando se haya celebrado sin observar las formalidades establecidas en los 
 
 III.- En caso de error, cuando ésta sea esencialmente sobre la persona.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+
 ###### Artículo 403.
 
-La nulidad fundada en la edad menor de catorce años en el hombre y de doce en la mujer, puede ser demandada por los ascendientes de aquél o de ésta, y a falta de ascendientes por quien desempeñaba la tutela o por el tutor que para el efecto se nombre.
+La nulidad fundada en la edad menor de 16 años en el hombre y la mujer, puede ser demandada por los ascendientes y a falta de éstos, por quien desempeñaba la tutela o por el tutor que al efecto se nombre.
 
 ###### Artículo 404.
 
@@ -12441,7 +12445,7 @@ No puede arrendar el copropietario sin consentimiento de los otros copropietario
 
 ###### Artículo 2266.
 
-Pueden arrendarse los bienes que puedan usarse sin consumirse, incluyendo el usufructo, excepto aquéllos que la ley prohíbe arrendar.
+Pueden arrendarse los bienes que puedan usarse sin consumirse, incluyendo el usufructo, excepto aquéllos que la ley prohibe arrendar.
 
 ###### Artículo 2267.
 
@@ -19334,3 +19338,7 @@ Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 ###### ARTICULO TERCERO.
 
 Los procedimientos judiciales que se hayan iniciado antes de la vigencia del presente Decreto, continuarán hasta su conclusión, aplicándose la legislación que les dio inicio.
+
+P.O. 21 DE DICIEMBRE DE 1990.
+
+TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
