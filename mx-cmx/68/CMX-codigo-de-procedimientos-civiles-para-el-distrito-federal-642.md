@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1967-01-21"
+last_updated: "1970-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL Y TERRITORIOS FEDERALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ENERO DE 1970.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -1050,9 +1050,11 @@ ARTICULO 158
 
 En las contiendas sobre propiedad o posesión de un inmueble, la competencia se determinará por el valor que tenga. Si se trata de usufructo o derechos reales sobre inmuebles, por el valor de la cosa misma. Pero de los interdictos conocerán siempre los jueces de primera instancia de la ubicación de la cosa.
 
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
+
 ARTICULO 159
 
-De las cuestiones sobre estado o capacidad de las personas, sea cual fuere el interés pecuniario que de ellas dimanare conocerán los jueces de primera instancia.
+De las cuestiones sobre estado o capacidad de las personas y en general de las cuestiones familiares que requieran intervención judicial, sea cual fuere el interés pecuniario que de ellas dimanare, conocerán los jueces civiles de primera instancia, con excepción de las cuestiones sobre interdicción, reconocimiento de hijos y adopción de menores e incapacitados, de las que conocerán los jueces pupilares.
 
 ARTICULO 160
 
@@ -5664,33 +5666,33 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 ### CAPITULO IV. Adopción
 
-> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1938)</small>
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
 
 ARTICULO 923
 
-El que pretenda adoptar a alguna persona, deberá acreditar:
+El que pretenda adoptar, deberá acreditar los requisitos señalados por el artículo 390 del Código Civil.
 
-I.- Que es mayor de treinta años y que tiene por lo menos, diecisiete años más de edad que la persona que trate de adoptar;
+En la promoción inicial deberá manifestar el nombre y edad del menor o incapacitado y el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de las personas o institución pública que lo hayan acogido y acompañar certificado médico de buena salud. Las pruebas pertinentes se recibirán sin dilación en cualquier día y hora hábil.
 
-II.- Que no tiene descendientes;
+Cuando el menor hubiere sido acogido por una institución pública, el adoptante recabará constancia del tiempo de la exposición o abandono para los efectos del artículo 444 fracción IV del Código Civil.
 
-III.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trata de adoptarse;
+Si hubieren transcurrido menos de seis meses de la exposición o abandono, se decretará el depósito del menor con el presunto adoptante, entre tanto se consuma dicho plazo.
 
-IV.- Que la adopción es benéfica para la persona que trata de adoptarse;
+Si el menor no tuviere padres conocidos y no hubiere sido acogido por institución pública, se decretará el depósito con el presunto adoptante, por el término de seis meses para los mismo (sic) efectos.
 
-V.- Que es el adoptante persona de buenas costumbres.
-
-En la promoción inicial deberá manifestar el nombre y edad del menor o incapacitado, y el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela o de las personas o institución de beneficencia que la hayan acogido.
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
 
 ARTICULO 924
 
-Rendidas las justificaciones que se exigen en el artículo anterior y obteniendo el consentimiento de las personas que deben darlo conforme a los artículos 397 y 398 del Código Civil, el tribunal resolverá dentro de tercero día.
+Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 397 y 398 del Código Civil o vencido en su caso el término del depósito, el juez pupilar resolverá dentro del tercer día lo que proceda sobre la adopción.
 
 ARTICULO 925
 
 Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el artículo 407 del Código Civil.
 
-Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaren para la adopción y sin oír al representante del Ministerio Público.
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
+
+Si el adoptado fuere menor de edad, para resolver sobre la revocación se oirá previamente a las personas que prestaron su consentimiento conforme al artículo 397 del Código Civil, cuando fuere conocido su domicilio, o su caso se oirá al representante del Ministerio Público y al Consejo de Tutelas.
 
 Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en los casos del artículo anterior, pueden rendirse toda clase de pruebas.
 
@@ -6237,3 +6239,7 @@ El presente Decreto entrará en vigor treinta días después de su publicación 
 ###### ARTICULO TERCERO.
 
 Se faculta al Tribunal Pleno para tomar todos los acuerdos que considere necesarios para la aplicación de las disposiciones del presente Decreto.
+
+D.O.F. 17 DE ENERO DE 1970.
+
+UNICO.- Este decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
