@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1919-11-05"
+last_updated: "1921-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 1919.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 1921.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1226,7 +1226,9 @@ Los Jueces de Primera Instancia, residentes en la Capital del Estado, otorgarán
 
 ### CAPITULO UNICO.
 
-De la Responsabilidad de los Funcionarios y Empleados Públicos.
+De las Responsabilidades de los Funcionarios y Empleados Públicos.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1921)</small>
 
 ###### Artículo 154.
 
@@ -1254,6 +1256,8 @@ Se suprime en el Estado el recurso de casación en materia criminal y en asuntos
 
 ## TITULO SEXTO.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 1921)</small>
+
 ### CAPITULO UNICO.
 
 De la Inviolavilidad (sic) y reforma de la Constitución.
@@ -1262,47 +1266,61 @@ De la Inviolavilidad (sic) y reforma de la Constitución.
 
 ###### Artículo 159.
 
-Todo funcionario o empleado público, cualquiera que sea su categoría, es responsable de los delitos, faltas u omisiones en que incurra en el ejercicio de su cometido. Para los delitos oficiales se concede acción popular, sin obligación de constituirse parte.
+Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, y el Presidente, Síndicos y Regidores de los Ayuntamientos, son responsables de los delitos del orden común que cometan durante el tiempo de su encargo, y de los delitos, faltas y omisiones en que incurran en el ejercicio de ese mismo cargo. El Gobernador del Estado sólo podrá ser acusado durante el tiempo de sus funciones por los delitos de traición a la Patria, violación expresa de la Constitución General o del Estado, ataques a la libertad electoral y delitos graves del orden común.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 1919)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1921)</small>
 
 ###### Artículo 160.
 
-Los Diputados al Congreso del Estado, el Gobernador del mismo y los Magistrados del Superior Tribunal de Justicia, son responsables por los delitos comunes que cometan durante el tiempo de su encargo y por los delitos, faltas u omisiones en que incurran en el ejercicio del mismo.
+Si el delito fuere común, el Congreso, erigido en Gran Jurado, declarará, por mayoría absoluta de votos, si ha lugar o no a proceder contra el acusado; en caso negativo la declaración no será obstáculo para que las acusaciones continúen su curso cuando el Funcionario haya dejado de tener fuero, pues la resolución del Jurado no prejuzga los fundamentos de la acusación. En caso afirmativo el acusado quedará desde luego separado de su encargo y sujeto a los Tribunales Comunes
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 1919)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1921)</small>
 
 ###### Artículo 161.
 
-Ninguno de los Poderes del Estado podrá separadamente suspender o destituir a uno o más funcionarios Municipales en caso de que se les suponga responsabilidad, sino cuando los tres Poderes de consuno lo estimen justificado; así mismo ninguno de los Funcionarios que desempeñen los Poderes Ejecutivo, Legislativo y Judicial podrán ser acusados en caso de responsabilidad durante el período Constitucional en que ejerzan sus funciones, terminado el cual se procederá contra el presunto responsable conforme a la ley, salvo el caso de alta traición a la Patria.
+Si el delito cometido por los Funcionarios a que se refiere el artículo 159, fuere oficial, la Legislatura, erigida en Gran Jurado, declarará también, por mayoría absoluta de votos, si ha lugar o no a que se proceda contra el acusado. En caso negativo, cesará todo procedimiento. En el afirmativo, quedará el Funcionario inmediatamente suspenso en sus funciones y sujeto a la acción del Superior Tribunal de Justicia, quien instruirá el proceso respectivo y fallará en definitiva, absolviendo o condenando al inculpado, con audiencia de éste, del Procurador General de Justicia y del acusador si lo hubiere
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1921)</small>
 
 ###### Artículo 162.
 
-Si el delito cometido por los altos funcionarios y empleados a que se refiere el artículo anterior, fuere oficial, la Legislatura erigida en Gran Jurado, declarará también a mayoría de votos y con audiencia del acusado si ha o no lugar a proceder contra éste. En caso negativo, cesará todo procedimiento. En el afirmativo, quedará el funcionario o empleado inmediatamente suspenso en sus funciones y sujeto a la acción del Superior Tribunal de Justicia, quien instruirá el proceso respectivo y fallará en definitiva, absolviendo o condenando al inculpado con audiencia de este, del Procurador General y del acusador, si lo hubiere.
+En los delitos comunes, y en los delitos, faltas u omisiones oficiales que cometan los demás Funcionarios o Empleados Públicos, conocerán los Tribunales ordinarios, en los términos que fije la Ley.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1921)</small>
 
 ###### Artículo 163.
 
-En los delitos comunes, y en los delitos, faltas u omisiones oficiales que cometan los demás funcionarios o empleados públicos conocerán los tribunales ordinarios, conforme a sus atribuciones y en los términos que fije la ley.
+Se concede acción popular, sin obligación de constituirse en parte para denunciar ante la Cámara de Diputados los delitos cometidos, comunes y oficiales, por los Funcionarios y Empleados Qublicos (sic).
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1921)</small>
 
 ###### Artículo 164.
 
-Declarada la culpabilidad de cualesquiera de los funcionarios o empleados públicos a que se contrae el artículo 160 por los delitos, faltas u omisiones oficiales, queda expedito el derecho del Estado o el de los particulares, para hacer efectiva ante los tribunales competentes y con arreglo a las leyes la responsabilidad pecuniaria que hubiere contraído por los daños y perjuicios causados al incurrir en el delito, falta u omisión.
+Declarada la culpabilidad de cualquiera de los Funcionarios a que se contrae el artículo 159, por delitos, faltas u omisiones oficiales, queda expedito el derecho del Estado y el de los particulares para hacer efectivas, ante los Tribunales competentes, las responsabilidades civiles que hubiere contraído el acusado por los daños y perjuicios que cause al incurrir en el delito, falta u omisión.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1921)</small>
 
 ###### Artículo 165.
 
-De las penas impuestas por delitos oficiales, no podrá concederse al reo la gracia de indulto.
+La responsabilidad por delitos o faltas oficiales, sólo podrá exigirse durante el tiempo en que el Funcionario Público ejerza su encargo y un año después de haber terminado en sus funciones. El Congreso deberá hacer la declaración de haber o no lugar al proceso trátese de delitos comunes u oficiales, dentro de los sesenta días siguientes a la fecha en que reciba la denuncia; y dentro de un plazo igual, deberá el Tribunal de Justicia pronunciar su fallo en los citados delitos.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1921)</small>
 
 ###### Artículo 166.
 
-La responsabilidad por delitos o faltas oficiales, sólo podrá exigirse durante el tiempo en que el funcionario público ejerza su encargo y un año después, debiendo dentro de este plazo hacer necesariamente el Congreso la declaración de haber o no lugar a proceder.
+En las penas impuestas por delitos oficiales, no podrá concederse al reo la gracia de indulto.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1921)</small>
 
 ###### Artículo 167.
 
-Si dentro del plazo de cuatro años, contados desde la fecha en que el funcionario acusado por delitos oficiales cesó en el ejercicio de su cargo, no se hubiere pronunciado en su contra sentencia firme condenatoria, se tendrá por prescrita la acción penal y la civil y excento (sic) el inculpado de toda responsabilidad.
+No gozan de fuero constitucional los Funcionarios del Estado ni del Municipio, por los delitos oficiales, faltas u omisiones en que incurran en el desempeño de cualquier otro empleo, cargo o comisión, que hayan aceptado durante el período en que conforme a la ley se disfrute de fuero. Lo mismo sucederá respecto de los delitos del orden común, siempre que al verificarse no desempeñe el infractor las funcíones propias de su cargo. Para que la causa pueda iniciarse cuando el Funcionario haya vuelto a tomar posesión de su cargo, deberá procederse con arreglo a los artículos 160 y 161, según el caso.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1921)</small>
 
 ###### Artículo 168.
 
-Una ley hará la clasificación de las responsabilidades; determinará la tramitación que no esté especificada en esta Constitución, y señalará las penas consiguientes.
+En demandas del orden civil, no hay fuero ni inmunidad para ningún Funcionario Público; pero no podrá decretarse ninguna providencia de arraigo en su contra.
 
 ## TITULO OCTAVO.
 
@@ -1521,3 +1539,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 5 DE NOVIEMBRE DE 1919.
 
 Quedan derogadas las disposiciones legales que se opongan a la presente ley.
+
+P.O. 14 DE MAYO DE 1921.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
