@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1971-02-14"
+last_updated: "1981-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 1981.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -175,17 +175,21 @@ El tribunal que resuelva la incompetencia declarará de oficio la nulidad.
 
 Competencia por materia.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1968)</small>
+> <small>(REFORMADO, PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 1981)</small>
 
 ###### Art. 23.
 
-Los Jueces Municipales son competentes para conocer exclusivamente de negocios contenciosos de cuantía no mayor de $5,000.00.
+Los jueces municipales son competentes para conocer exclusivamente de negocios contenciosos cuya cuantía no sea mayor de la cantidad que resulte de multiplicar setenta y cinco veces el salario mínimo general diario obligatorio más alto vigente en el Estado de Guanajuato.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1968)</small>
 
 En ningún caso podrán conocer de reclamaciones contra la Federación, el Estado o los Municipios.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1981)</small>
+
 ###### Art. 24.
 
-Los jueces de partido conocerán de todos los negocios no comprendidos en el artículo anterior y de los recursos contra las resoluciones de los jueces municipales.
+Los jueces de partido conocerán de todos los negocios no comprendidos en el artículo anterior, de los no valuables en dinero y de los recursos contra las resoluciones de los jueces municipales.
 
 ###### Art. 25.
 
@@ -196,6 +200,10 @@ Las Salas del Supremo Tribunal conocerán de la segunda instancia en los negocio
 El valor del negocio se fijará por lo que reclame el actor. Los réditos, daños y perjuicios no se tomarán en consideración si se refieren a época posterior a la fecha de la demanda, aun cuando en ella se reclamen.
 
 Cuando lo reclamado no tenga un valor fijado en la demanda, atentas las condiciones del negocio, deberá el juez ante quien se presente aquélla fijarlo discrecionalmente, oyendo, en caso necesario, un perito nombrado por el, para definir la competencia, siendo apelable esta resolución. La determinación del tribunal de alzada fijará definitivamente la competencia, de tal manera que el juez declarado competente lo será para resolver el negocio, aun cuando, con posterioridad, resulte, en el procedimiento, que la cuantía del negocio no queda comprendida dentro de su competencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE FEBRERO DE 1981)</small>
+
+Para fijar la competencia tratándose de obligaciones de las que deriven prestaciones periódicas se atenderá al importe de su valor en doce meses. Cuando sólo se reclamen prestaciones periódicas vencidas se estará a lo dispuesto en el primer párrafo de este artículo.
 
 ###### Art. 27.
 
@@ -477,7 +485,9 @@ Los jueces y magistrados podrán ordenar que se subsane toda omisión que notare
 
 Los tribunales, para hacer cumplir sus determinaciones, pueden emplear cualesquiera de los siguientes medios de apremio:
 
-I.- Multa hasta de cincuenta pesos, y
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 1981)</small>
+
+I.- Multa hasta por mil pesos, y
 
 II.- El auxilio de la fuerza pública.
 
@@ -719,9 +729,11 @@ Cuando la pregunta contenga dos o más hechos, el tribunal la examinará prudent
 
 Se tienen por insidiosas las preguntas que se dirijan a ofuscar la inteligencia del que ha de responder, con el objeto de obtener una confesión contraria a la verdad.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1981)</small>
+
 ###### Art. 105.
 
-Desde que se abra el juicio a prueba, hasta antes de la audiencia final, todo litigante está obligado a absolver posiciones, personalmente, cuando así lo exija el que las articule.
+Todo litigante está obligado a absolver posiciones, cuando así lo exija el que las articule, dentro de los primeros veinticinco días del término probatorio ordinario o extraordinario.
 
 ###### Art. 106.
 
@@ -941,9 +953,11 @@ Si fueren más de dos los litigantes, nombrarán un perito los que sostuvieren u
 
 Si los que deben nombrar un perito no pudieren ponerse de acuerdo, el tribunal designará uno de entre los que propongan los interesados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 1981)</small>
+
 ###### Art. 149.
 
-La parte que desee rendir prueba pericial, deberá promoverla dentro de los diez primeros días del término ordinario o extraordinario, en su caso, por medio de un escrito en que formulará las preguntas o precisará los puntos sobre que debe versar; hará la designación del perito de su parte, y propondrá un tercero para el caso de desacuerdo.
+La parte que desee rendir prueba pericial, deberá promoverla dentro de los quince días del término ordinario o extraordinario, en su caso, por medio de un escrito en que formulará las preguntas o precisará los puntos sobre que debe versar; hará la designación del perito de su parte, y propondrá un tercero para el caso de desacuerdo.
 
 El tribunal concederá a las demás partes el término de tres días para que adicionen el cuestionario con lo que les interese, previniéndoles que, en el mismo término, nombren el perito que les corresponda y manifiesten si están o no conformes con que se tenga como perito tercero al propuesto por el promovente.
 
@@ -1028,6 +1042,10 @@ Reconocimiento o Inspección Judicial.
 ###### Art. 164.
 
 La inspección judicial puede practicarse a petición de parte o por disposición del juez, con citación previa y expresa, cuando pueda servir para aclarar o fijar hechos relativos a la contienda y que no requieran conocimientos técnicos especiales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE FEBRERO DE 1981)</small>
+
+La parte que desee ofrecer esta prueba, lo deberá hacer dentro de los quince días del término ordinario o extraordinario, en su caso.
 
 ###### Art. 165.
 
@@ -1453,11 +1471,11 @@ Cuando el auto contra el cual se haya admitido el recurso de apelación en ambos
 
 En los autos que queden en el tribunal no podrá nunca dictarse resolución alguna que modifique, revoque o en otra forma afecte lo acordado en la resolución apelada, entre tanto que el recurso este pendiente, para lo cual se dejará copia de ella.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1968)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1981)</small>
 
 ###### Art. 243.
 
-Sólo son apelables las sentencias que recaigan en negocios cuyo valor exceda de $5,000.00 y en aquellos cuyo interés no sea susceptible de valuarse en dinero.
+Sólo son apelables las sentencias dictadas por los jueces de partido.
 
 ###### Art. 244.
 
@@ -1475,9 +1493,11 @@ La apelación debe interponerse ante el tribunal que haya pronunciado la resoluc
 
 Interpuesta la apelación en tiempo hábil, el tribunal la admitirá sin sustanciación alguna, si procede legalmente, y, dentro de las cuarenta y ocho horas siguientes a la notificación, remitirá al tribunal de apelación los autos originales, cuando el recurso se hubiere admitido en ambos efectos. Si se hubiere admitido sólo en efecto devolutivo, se remitirá el testimonio correspondiente, tan pronto como quede concluído.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1981)</small>
+
 ###### Art. 248.
 
-En el auto en que se admita la apelación se emplazará al apelante para que, dentro de los tres días siguientes de habérsele notificado, ocurra al tribunal de apelación a continuar el recurso, ampliándose el término que se le señale, en su caso, por razón de la distancia.
+En el auto en que se admita la apelación se emplazará al apelante para que, dentro de los cinco días siguientes de habérsele notificado, ocurra al Tribunal de apelación a continuar el recurso.
 
 ###### Art. 249.
 
@@ -1781,9 +1801,13 @@ En el cómputo del término extraordinario no se excluirán días, por ningún m
 
 Cuando la ley no señale término para la práctica de algún acto judicial o para el ejercicio de algún derecho, se tendrán por señalados los siguientes:
 
-I.- Diez días para pruebas, y
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 1981)</small>
 
-II.- Tres días para cualquier otro caso.
+I.- 15 días para pruebas, y
+
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 1981)</small>
+
+II.- 3 días para cualquier otro caso.
 
 ###### Art. 305.
 
@@ -1887,9 +1911,13 @@ Cuando, a juicio del notificador, hubiere sospecha fundada de que se niegue que 
 
 Cuando la persona que haya de ser notificada por primera vez, resida fuera del lugar del juicio, se aplicará lo dispuesto por el artículo 305.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1981)</small>
+
 ###### Art. 324.
 
-Cuando hubiere que citar a juicio a alguna persona que haya desaparecido, no tenga domicilio fijo o se ignore dónde se encuentra, la notificación se hará por edictos, que contendrán una relación sucinta de la demanda y se publicarán por tres veces, de ocho en ocho días, en el Periódico Oficial del Estado, haciéndose saber que debe presentarse dentro del término de treinta días, contados del siguiente al de la última publicación. Se fijará, además, en la puerta del tribunal, una copia íntegra de la resolución, por todo el tiempo del emplazamiento. Si pasado este término no comparece por sí, por apoderado o por gestor que pueda representarlo, se seguirá el juicio en rebeldía, haciéndose las ulteriores notificaciones por rotulón, que se fijará en la puerta del juzgado, y deberá contener, en síntesis, la determinación judicial que ha de notificarse.
+Cuando hubiere que citar a juicio a alguna persona que haya desaparecido, no tenga domicilio fijo o se ignore dónde se encuentra, la notificación se hará por edictos, que contendrán una relación sucinta de la demanda y se publicará por dos veces consecutivas en el Periódico Oficial del Estado y por dos veces seguidas en uno de los diarios de mayor circulación en el partido judicial. En caso de que no hubiese diarios, la publicación se hará en el del partido judicial más próximo que los tenga. Por estos medios se hará saber a la persona citada que debe presentarse dentro del término de treinta días contados del siguiente al de la última publicación en el Periódico Oficial. Se fijará, además, en la puerta del tribunal una copia íntegra de la resolución por todo el tiempo del emplazamiento. Si pasado este término no comparece por sí, por apoderado o por gestor que pueda representarla se seguirá el juicio en rebeldía, haciéndose las ulteriores notificaciones por rotulón, que se fijarán en la puerta del juzgado y deberá contener, en síntesis, la determinación judicial que ha de notificarse.
+
+Las publicaciones que se hagan en el diario a que se refiere el párrafo anterior, deberá ser, por lo menos, en un treintaidosavo de plana.
 
 ###### Art. 325.
 
@@ -2207,7 +2235,7 @@ Suspensión.
 
 ###### Art. 375.
 
-El proceso se suspende cuando el tribunal del juicio no esta en posibilidad de funcionar, por un caso de fuerza mayor, y cuando alguna de las partas (sic) o su representante procesal, en su caso, sin culpa alguna suya, se encuentra en la absoluta imposibilidad de atender al cuidado de sus intereses en el litigio.
+El proceso se suspende cuando el tribunal del juicio no está en posibilidad de funcionar, por un caso de fuerza mayor, y cuando alguna de las partas (sic) o su representante procesal, en su caso, sin culpa alguna suya, se encuentra en la absoluta imposibilidad de atender al cuidado de sus intereses en el litigio.
 
 ###### Art. 376.
 
@@ -2769,13 +2797,17 @@ IX.- El derecho de usufructo, pero sí los frutos de éste;
 
 X.- Los derechos de uso y habitación;
 
-XI.- Los sueldos y emolumentos de los funcionarios y empleados públicos;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 1981)</small>
+
+XI.- Los sueldos y emolumentos de funcionarios y empleados, salvo el caso de pensiones alimenticias;
 
 XII.- Las servidumbres, a no ser que se embargue el fundo a cuyo favor estén constituídas; excepto la de aguas que es embargable independientemente;
 
 XIII.- La renta vitalicia, en los términos establecidos en el Código Civil;
 
-XIV.- El salario mínimo y los sueldos, pensiones y comisiones hasta mil quinientos pesos anuales;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 1981)</small>
+
+XIV.- Los salarios de los trabajadores salvo el caso de pensiones alimenticias;
 
 XV.- Los ejidos de los pueblos y la parcela individual que en su fraccionamiento haya correspondido a cada ejidatario, y
 
@@ -2791,9 +2823,7 @@ El beneficio de este artículo no es renunciable.
 
 ###### Art. 477.
 
-En los casos en que el secuestro recaiga sobre sueldos, salarios, comisiones o pensiones, sólo podrá embargarse la quinta parte del exceso sobre mil quinientos pesos hasta tres mil y la cuarta del exceso sobre tres mil en adelante; pero, para hacer efectivo el pago de alimentos, podrá embargarse la parte bastante para cubrir la pensión alimenticia.
-
-El beneficio de este artículo no es renunciable.
+(DEROGADO, P.O. 5 DE FEBRERO DE 1981)
 
 ###### Art. 478.
 
@@ -3965,11 +3995,11 @@ Siempre que haya oposición de algún aspirante a la herencia o de cualquier acr
 
 Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando con intervención de un notario, de acuerdo con lo que se establece en este capítulo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 1958)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE FEBRERO DE 1981)</small>
 
 ### CAPITULO IX.
 
-Disposiciones sobre testamentarías e intestados cuyo caudal aparente no exceda de dos mil pesos.
+Disposiciones sobre testamentarias e intestados cuyo caudal aparente no exceda de la cuantía fijada en el Artículo 23 de este Código.
 
 ###### Art. 676.
 
@@ -4682,3 +4712,17 @@ P.O. 14 DE FEBRERO DE 1971.
 ###### ARTICULO UNICO.
 
 Este decreto surtirá efectos tres días después del siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE FEBRERO DE 1981.
+
+###### ARTICULO PRIMERO.
+
+De los asuntos en trámite seguirán conociendo los jueces ante los cuales se inició el juicio.
+
+###### ARTICULO SEGUNDO.
+
+Cuando se modifique la competencia en razón de la cuantía seguirán conociendo de los asuntos en trámite los jueces ante los que se plantearon.
+
+###### ARTICULO TERCERO.
+
+Este decreto entrará en vigor el día 15 de abril de 1981.
