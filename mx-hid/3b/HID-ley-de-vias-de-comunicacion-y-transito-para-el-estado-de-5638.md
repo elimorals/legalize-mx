@@ -4,7 +4,7 @@ identifier: "HID-ley-de-vias-de-comunicacion-y-transito-para-el-estado-de-5638"
 country: "mx"
 rank: "ley"
 publication_date: "1970-01-08"
-last_updated: "1970-01-08"
+last_updated: "1983-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE VIAS DE COMUNICACION Y TRANSITO PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: EL 16 DE JULIO DE 1983.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Hidalgo, el 8 de enero de 1970.
 
@@ -1527,37 +1527,49 @@ Artículo 246 (sic).- Queda prohibida la instalación de anuncios y obras destin
 
 ### CAPITULO UNICO. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1983)</small>
+
 ###### Artículo 247.
 
-Los conductores de los vehículos y sus propietarios, se les impondrá una sanción de cincuenta pesos, por cada una de las violaciones a los siguientes artículos o fracciones:
+A conductores de los vehículos o sus propietarios, se les impondrá una sanción de trescientos pesos, por cada una de las violaciones a los siguientes artículos o fracciones:
 
-21, 22, 27, 30 por fracción que no cumplan; 32 por fracción; 33, 34, 36, por fracción; 37, 41 fracciones I y II; 49, 51, 53, 58; 70 por cada persona; 72, 73, 75, 76, 77, 78, 79, 80, 81, 82, 83, 85, 88, 89, 90, 91, 92, 93, 102, 104, 110, 113, 114, 115, 118, 120, 121, 125, 138, 142, 143, 144, 145, 146, 147, 161, 162, 163, 166, 216, 217 fracciones I, II, III y IV y en la fracción V, por persona que se exceda del 20% del cupo permitido en un vehículo.
+21, 22, 27, 30 por Fracción que no cumplan; 32 por Fracción; 33, 34, 36, por Fracción; 37, 41, Fracciones I y II; 49, 51, 53, 58; 70 por cada persona; 72, 73, 75, 76, 77, 78, 79, 80, 81, 82, 83, 85, 88, 89, 90, 91, 92, 93, 102, 104, 110, 113, 114, 115, 118, 120, 121, 125, 138, 142, 143, 144, 145, 146, 147, 161, 162, 163, 166, 216, 217, Fracciones I, II, III y IV y en la Fracción V, por persona que se exceda del 20% del cupo permitido en un vehículo.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1983)</small>
 
 ###### Artículo 248.
 
-Se les impondrá una multa de cien pesos a los infractores de alguno de los artículos o fracciones siguientes:
+Se les impondrá una multa de quinientos pesos a los infractores de alguno de los Artículos o Fracciones siguientes:
 
-19, 26, 58, Fracciones I y II; 86, 87, 95, 96, 97, 99, 101, 103, 105, 106, 107, 108, 109, 112, 116, 117, 119, 124, 126, 127, 129, 130, 133, 134, 135, 136, 148, 155, 156, 159, 207, 210, 215, 217 fracción II; 218, 221, 222, 223, fracciones I, II y III; 240 por fracción, 241 y 244.
+19, 26, 58, Fracciones I y II; 86, 87, 95, 96, 97, 99, 101, 103, 105, 106, 107, 108, 109, 112, 116, 117, 119, 124, 126, 127, 129, 130, 133, 134, 135, 136, 148, 155, 156, 159, 207, 210, 215; multas de un mil pesos a los infractores de los Artículos o fracciones siguientes: 217, Fracción II; 218, 221, 222; multa de tres mil pesos a los infractores de los Artículos 223 Fracciones I, II y III; 240, por fracción, y multa de un mil pesos a los infractores de los Artículos 241 y 244.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1983)</small>
 
 ###### Artículo 249.
 
-Las infracciones en contra de algunos de los siguientes Artículos o fracciones de los mismos, serán sancionadas con $200.00; 16, 98, 122, 128, 192, 226, 242 y 243.
+Las infracciones en contra de algunos de los siguientes Artículos o fracciones de los mismos, serán sancionadas con quinientos pesos; 16, 98, 122, 128 y multa de dos mil pesos a los infractores de los Artículos 192, 226, 242 y 243.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1983)</small>
 
 ###### Artículo 250.
 
-Por las violaciones de los artículos o sus fracciones siguientes, se impondrá al infractor y propietario la sanción de trescientos pesos:
+Por las violaciones de los Artículos o sus fracciones siguientes, se impondrá al infractor o al propietario la sanción de quinientos pesos.
 
-20, 35, 39, 52, 59, 123, 131 y diez pesos por kilómetro que se exceda de la velocidad máxima indicada por señalamiento, ley o reglamento; 132, 137, 160 por vehículo; 164, 168, 173, 174, 205, por vehículo y 206.
+20, 35, 39, 52, 59, 123, 131 y cincuenta pesos por kilómetro que se exceda de la velocidad máxima indicada por señalamientos, ley o reglamento; 132, 137, 160 por vehículo; 164, 168, 173, 174; multa por un mil pesos a los infractores de los Artículos 205, por vehículo y 206.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1983)</small>
 
 ###### Artículo 251.
 
-Los conductores que no cumplan con lo estipulado en los artículos que a continuación se enumeran, se harán acreedores a una sanción de un quinientos pesos:
+Los conductores que no cumplan con lo estipulado en los Artículos que a continuación se enumeran, se harán acreedores a una sanción de un mil pesos.
 
-84, 158, 167, 172, 176 y la cancelación de la concesión o concesiones que se excedan de cinco; 177, quinientos pesos por cada persona física; 178, quinientos pesos por cada persona; 200 y 201, independiente de que sea revocada la concesión; 202, independiente de que sea por caducidad o rescindidas, 223 en sus fracciones II y III; 231, por unidad y 233 y la demolición de la obra.
+84, 158, 167, 172, 176, y la cancelación de la concesión o concesiones que se excedan de cinco; 177, un mil pesos por cada persona física; 178, un mil pesos por cada persona, 200 y 201, independiente de que sea revocada la concesión; 202, independiente de que sea por caducidad o rescindidas, 223 en sus fracciones II y III; multa de dos mil pesos a los infractores de los Artículos, 231, por unidad y 233 y la demolición de la obra.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1983)</small>
 
 ###### Artículo 252.
 
-Será de mil pesos la sanción para los conductores que infrinjan los artículos siguientes: 180 y 230.
+Será de tres mil pesos la sanción para los conductores que infrinjan los Artículos siguientes: 180 y 230.
 
 ###### Artículo 253.
 
@@ -1614,3 +1626,9 @@ Diputado Presidente. ISMAEL VILLEGAS ROSAS.- Diputado Secretario. OCTAVIO RUBIO 
 Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 DADO en el Palacio del Poder Ejecutivo, en la ciudad de Pachuca de Soto, Hgo., a los 13 días del mes de noviembre de mil novecientos sesenta y nueve.- El Gobernador Constitucional del Estado, LIC. MANUEL SANCHEZ VITE.- El Secretario General de Gobierno, LIC. GABRIEL ROMERO REYES.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE JULIO DE 1983.
+
+UNICO- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Periódico Oficial" del Gobierno del Estado.
