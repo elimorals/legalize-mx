@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "1988-03-31"
+last_updated: "1991-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MARZO DE 1988.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE FEBRERO DE 1991.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -797,9 +797,9 @@ XIII.- En los casos de reclamación de alimentos, el del domicilio del acreedor 
 
 XIV.- En los casos relativos al nombre, lo será el del domicilio del promovente;
 
-> <small>(REFORMADA, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 1991)</small>
 
-XV.- El que deba conocer por virtud de la cuantía de las reclamaciones. Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demande el actor como suerte principal. Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se atenderá al monto de las mismas. Para conocer de las reclamaciones cuyo importe no exceda cincuenta mil pesos, es competente un Juez Municipal; de este monto en adelante y hasta el equivalente a ciento ochenta días de salario mínimo general vigente en la capital del Estado, durante el mes de enero del año en que se presente la demanda o reconvención, es competente un Juez Menor sin que la diferencia anual de salarios sea motivo de incompetencia; de ese equivalente en adelante, un Juez de Primera Instancia.
+XV.- El que deba conocer por virtud de la cuantía de las reclamaciones. Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demande el actor como suerte principal. Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se atenderá al monto de las mismas. Para conocer de las reclamaciones cuyo importe no exceda del equivalente a treinta días de salario mínimo general vigente en la capital del Estado, durante el mes de enero del año en que se presente la demanda o reconvención, es competente un Juez Municipal; de este monto en adelante y hasta el equivalente a quinientos días del salario mínimo general antes mencionado, es competente un Juez Menor, sin que la diferencia anual de salarios sea motivo de incompetencia; de ese equivalente en adelante, un Juez de Primera Instancia.
 
 > <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
 
@@ -5275,7 +5275,7 @@ ARTICULO 2°
 
 La sustanciación de los negocios de jurisdicción contenciosa que estén pendientes en primera o única instancia al entrar en vigor este Código, se sujetarán a las disposiciones del anterior, hasta pronunciarse sentencia. La tramitación de la apelación contra el fallo que se dicte en esos negocios, se sujetará a este Código; pero para la procedencia del recurso regirán las disposiciones del Código anterior.
 
-La sustanciación de los negocios de jurisdicción voluntaria, se acomodará desde luego a las disposiciones de este Código.
+La substanciación de los negocios de jurisdicción voluntaria, se acomodará desde luego a las disposiciones de este Código.
 
 ARTICULO 3°
 
@@ -5392,3 +5392,17 @@ Se deroga el segundo párrafo del artículo 523 y el artículo 747 del Código d
 ###### ARTICULO CUARTO.
 
 Los negocios que se encuentran en trámite en los Juzgados de Primera Instancia y Municipales, al entrar en vigor las disposiciones a que se refiere el artículo segundo transitorio, continuarán conociendo de ellos los Juzgados en donde se radicaron, hasta su terminación.
+
+G.O. 19 DE FEBRERO DE 1991.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Los negocios que se encuentren en trámite en los Juzgados de Primera Instancia y Menores que por efectos de esta Ley, deba conocer un Juez inferior, continuarán conociendo de ellos los Juzgados en donde se radicaron, hasta su terminación.
