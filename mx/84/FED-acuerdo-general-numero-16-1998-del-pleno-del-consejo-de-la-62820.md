@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "1999-03-24"
+last_updated: "1999-04-05"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ABRIL DE 1999.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL ACUERDO QUE MODIFICA AL PRESENTE ORDENAMIENTO, VER ARTICULO PRIMERO TRANSITORIO DEL MISMO.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -117,9 +119,13 @@ II.- SEGUNDO CIRCUITO:
 
 III.- TERCER CIRCUITO:
 
-1.- Ocho tribunales colegiados especializados: dos en materia penal, dos en materia administrativa, tres en materia civil y uno en materia de trabajo; y, tres tribunales unitarios, todos con residencia en la ciudad de Guadalajara.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 12/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE ABRIL DE 1999)</small>
 
-2.- Catorce juzgados de distrito especializados: nueve en materia penal, tres en materia administrativa y dos en materia civil, todos con residencia en la ciudad de Guadalajara.
+1.- Diez tribunales colegiados especializados: dos en materia penal, dos en materia administrativa, cuatro en materia civil y dos en materia de trabajo; y, tres tribunales unitarios, todos con residencia en la ciudad de Guadalajara.
+
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 13/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE ABRIL DE 1999)</small>
+
+2.- Dieciséis juzgados de distrito especializados: nueve en materia penal, tres en materia administrativa y cuatro en materia civil, todos con residencia en la ciudad de Guadalajara.
 
 3.- Dos juzgados de distrito en el Estado de Colima, con sede en la ciudad del mismo nombre.
 
@@ -361,7 +367,9 @@ Los Juzgados Quinto y Sexto de Distrito en el Estado de México, con residencia 
 
 III.- TERCER CIRCUITO:
 
-Los catorce juzgados de distrito en el Estado de Jalisco, con residencia en la ciudad de Guadalajara, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 13/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE ABRIL DE 1999)</small>
+
+Los dieciséis juzgados de distrito en el Estado de Jalisco, con residencia en la ciudad de Guadalajara, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa
 
 Los Juzgados Primero y Segundo de Distrito en el Estado de Colima, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
@@ -612,6 +620,36 @@ TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en e
 D.O.F. 24 DE MARZO DE 1999.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día veintiséis de abril de mil novecientos noventa y nueve.
+
+SEGUNDO.- Se modifica el Acuerdo General número 16/1998, del Pleno del Consejo de la Judicatura Federal, de fecha veinte de mayo de mil novecientos noventa y ocho, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 5 DE ABRIL DE 1999.
+
+ACUERDO GENERAL NUMERO 11/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día tres de mayo de mil novecientos noventa y nueve.
+
+SEGUNDO.- Se modifica el Acuerdo General número 16/1998, del Pleno del Consejo de la Judicatura Federal, de fecha veinte de mayo de mil novecientos noventa y ocho, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 5 DE ABRIL DE 1999.
+
+ACUERDO GENERAL NUMERO 12/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día tres de mayo de mil novecientos noventa y nueve.
+
+SEGUNDO.- Se modifica el Acuerdo General número 16/1998, del Pleno del Consejo de la Judicatura Federal, de fecha veinte de mayo de mil novecientos noventa y ocho, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 5 DE ABRIL DE 1999.
+
+ACUERDO GENERAL NUMERO 13/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día tres de mayo de mil novecientos noventa y nueve.
 
 SEGUNDO.- Se modifica el Acuerdo General número 16/1998, del Pleno del Consejo de la Judicatura Federal, de fecha veinte de mayo de mil novecientos noventa y ocho, en los términos señalados en el presente Acuerdo.
 
