@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-de-salud-4940"
 country: "mx"
 rank: "ley"
 publication_date: "1987-02-08"
-last_updated: "1990-08-19"
+last_updated: "1996-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 1996.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el 8 de Febrero de 1987.
 
@@ -193,7 +193,7 @@ IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como la int
 
 V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del Estado, que propicien el desarrollo satisfactorio de la vida.
 
-V(SIC).- Impulsar en el ámbito estatal un sistema racional de administración y desarrollo de
+VI.- Impulsar en el ámbito estatal un sistema racional de administración y desarrollo de
 
 los recursos humanos para mejorar la salud.
 
@@ -425,7 +425,7 @@ El Gobierno del Estado, en coordinación con las dependencias competentes del Ej
 
 ### CAPITULO II
 
-De los Expendios de Alimentos,
+De los expendios de Alimentos,
 
 Bebidas no Alcohólicas y Alcohólicas
 
@@ -697,7 +697,7 @@ A tal efecto, podrán obtener orientación y asesoramiento en las instituciones 
 
 ## TITULO CUARTO. RECURSOS HUMANOS PARA LA SALUD
 
-### CAPITULO I. PROFESIONALES, TECNICOS Y AUXILIARES
+### CAPITULO I. PROFESIONALES, TECNICO Y AUXILIARES
 
 ###### ARTICULO 77o.
 
@@ -795,7 +795,7 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ### CAPITULO UNICO
 
-###### ARTÍCULO 91o.
+###### ARTICULO 91o.
 
 La investigación para la salud comprende el desarrollo de acciones que contribuyan:
 
@@ -1137,37 +1137,15 @@ Para la mayor eficacia de las acciones a las que se refiere este Artículo, se c
 
 ###### ARTICULO 132o.
 
-Para los efectos de esta Ley, se entiende por Asistencia Social el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
-
-Será objeto de esta Ley y los servicios asistenciales que presten tanto las instituciones públicas como las privadas.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 1996)
 
 ###### ARTICULO 133o.
 
-Son actividades básicas de Asistencia Social:
-
-I.- La atención a personas que, por sus carencias socio-económicas o por problemas de invalidez, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo.
-
-II.- La atención en establecimientos especializados a menores y ancianos en estado de abandono;
-
-III.- La promoción del bienestar del sesante y el desarrollo de acciones de preparación para la senectud;
-
-IV.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
-
-V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos e inválidos sin recursos;
-
-VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
-
-VII.- La promoción de la participación consciente y organizada de la población con carencias en las acciones de promoción, asistencia y desarrollo social que se lleven a cabo en su propio beneficio;
-
-VIII.- El apoyo a la educación y capacitación para el trabajo de personas con carencias socio-económicas, y
-
-IX.- La prestación de servicios funerarios.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 1996)
 
 ###### ARTICULO 134o.
 
-Para fomentar el desarrollo de programas públicos de asistencia social, el Gobierno del Estado promoverá la canalización de recursos y apoyo técnicos necesarios.
-
-Asímismo, procurará destinar los poyos necesarios a los programas de asistencia social, públicos y privados para fomentar su aplicación.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 1996)
 
 ###### ARTICULO 135o.
 
@@ -1175,7 +1153,9 @@ Los menores en estado de desprotección social, tienen derecho a recibir los ser
 
 ###### ARTICULO 136o.
 
-Los integrantes del Sistema Estatal de Salud, deberán dar atención preferente e inmediata a menores y ancianos sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental. Asímismo, darán esta atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psico-somático de los individuos.
+Los integrantes del Sistema Estatal de Salud, deberán dar atención preferente e inmediata a menores y ancianos sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental.
+
+Asímismo, darán esta atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psico-somático de los individuos.
 
 En estos casos, las instituciones de salud, del Estado, podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores y ancianos, sin perjuicio de dar intervención a las autoridades competentes.
 
@@ -1189,7 +1169,7 @@ El Gobierno del Estado y los Municipios proveerán la creación de establecimien
 
 ###### ARTICULO 139o.
 
-El Gobierno del Estado y los Municipios en coordinación con las dependencias y entidades públicas correspondientes, distribuirán raciones alimenticias en aquellas zonas de agudo retrazo (sic) socio-económico o en las que se padezcan desastres originados por sequía, inundaciones, terremotos y otros fenómenos naturales o contingencias con efectos similares.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 1996)
 
 ###### ARTICULO 140o.
 
@@ -2262,3 +2242,9 @@ P.O. 19 DE AGOSTO DE 1990.
 PRIMERO.- El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a las presentes reformas y artículos que se crean.
+
+P.O. 15 DE SEPTIEMBRE DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+SEGUNDO.- Se derogan los Artículos 132, 133, fracciones de la I a la IX, 134 y 139 del Título Noveno, denominado "Asistencia Social, Prevención de Invalidez y Rehabilitación de Inválidos", Capítulo Único, de la Ley Estatal de Salud, expedida mediante Decreto N° 13, publicado en el Periódico Oficial N° 12 del 8 de Febrero de 1987.
