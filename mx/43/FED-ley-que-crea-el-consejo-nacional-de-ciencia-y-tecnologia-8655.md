@@ -4,7 +4,7 @@ identifier: "FED-ley-que-crea-el-consejo-nacional-de-ciencia-y-tecnologia-8655"
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-29"
-last_updated: "1999-05-21"
+last_updated: "2002-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8655&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1970-12-27"
 
 LEY QUE CREA EL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE MAYO DE 1999.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR LA LEY ORGANICA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 5 DE JUNIO DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación el martes 29 de diciembre de 1970.
 
@@ -470,3 +472,15 @@ La Junta Directiva convocará a la integración del Consejo Consultivo dentro de
 ###### ARTICULO TERCERO.
 
 La Junta Directiva del Conacyt realizará las modificaciones necesarias al estatuto orgánico en un plazo de noventa días, contados a partir de la entrada en vigor de este Decreto.
+
+D.O.F. 5 DE JUNIO DE 2002.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE TIENEN RELACION CON LA LEY.
+
+PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.
+
+Se abroga la Ley que crea el Consejo Nacional de Ciencia y Tecnología, publicada en el Diario Oficial de la Federación el 29 de diciembre de 1970.
