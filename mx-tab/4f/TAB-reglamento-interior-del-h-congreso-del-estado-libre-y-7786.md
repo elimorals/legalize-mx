@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-h-congreso-del-estado-libre-y-7786"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-28"
-last_updated: "1998-03-07"
+last_updated: "1998-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1998.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 28 de agosto de 1993.
 
@@ -173,7 +173,7 @@ El Presidente de la primera mesa directiva electa citará a los miembros de la n
 
 ###### ARTICULO 17.
 
-Para la sesión solemne a que se refiere el artículo 15 de este Reglamento, se nombrarán dos comisiones compuestas de tres Diputados cada una, que se encargarán de acompañar a la entrada y salida del recinto oficial a los representantes de los Poderes Ejecutivo y Judicial; asimismo en caso de asistencia del Titular del Poder Ejecutivo Federal o su representante, se nombrará otra comisión para los mismos efectos.
+Para la sesión solemne a que se refiere el artículo 15 de este Reglamento, se nombrarán dos comisiones compuestas de tres Diputados cada una, que se encargarán de acompañar a la entrada y salida del recinto oficial a los representantes de los Poderes Ejecutivo y Judicial? asimismo en caso de asistencia del Titular del Poder Ejecutivo Federal o su representante, se nombrará otra comisión para los mismos efectos.
 
 ###### ARTICULO 18.
 
@@ -269,9 +269,11 @@ En la convocatoria se señalará fecha y hora de inicio del período extraordina
 
 ### CAPITULO VII. COMISIÓN PERMANENTE
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 39.
 
-En el período de receso del Congreso, que será del uno de Mayo al treinta y uno de agosto, funcionará la Comisión Permanente.
+Durante el período del receso del Congreso, que será del uno de junio al treinta y uno de julio de cada año, funcionará la Comisión Permanente.
 
 ###### ARTICULO 40.
 
@@ -477,7 +479,9 @@ b) Aplicar las sanciones a que se hagan acreedores los Servidores Públicos que 
 
 c) Ordenar a la Contaduría Mayor de Hacienda, cuando lo estime conveniente, practicar visitas, inspecciones y auditoría a quienes estén sujetos a cuenta pública;
 
-d) Vigilar que las cuentas públicas, del erario estatal y municipal, queden concluidas y glosadas antes del inicio del segundo período ordinario de sesiones del Congreso. El incumplimiento de este precepto, imputable a los Servidores Públicos de la Contaduría, es causa de responsabilidad en los términos de las Leyes aplicables;
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
+d) Vigilar que las cuentas públicas del erario estatal y municipal, queden concluidas y glosadas, por períodos trimestrales, a más tardar dentro del segundo mes siguiente al trimestre que corresponda. El incumplimiento de este precepto, imputable a los servidores públicos de la Contaduría Mayor de Hacienda, es causa de responsabilidad en los términos de las leyes aplicables;
 
 e) Examinar y dictaminar, con fundamento en los informes técnicos y financieros que rinda la contaduría Mayor de Hacienda, sobre las cuentas públicas del Estado y los Municipios; y
 
@@ -973,11 +977,13 @@ VIII. Supervisar que las entidades sujetas a cuenta pública realicen sus operac
 
 IX. Recibir del Estado, Municipios, Organismos e Instituciones que manejen fondos y valores públicos, la información relativa a las cuentas públicas;
 
-X. Presentar, en los términos del artículo 38 de la Ley Orgánica del Poder Legislativo, a la Comisión Inspectora de Hacienda del Congreso, los informes anuales de la revisión, glosa y auditoría de las cuentas públicas de los tres poderes del Estado y de los Municipios, para que, con fundamento en dichos informes técnico contables, la Comisión Inspectora de Hacienda rinda al Congreso, los dictámenes correspondientes a las cuentas públicas;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
+
+X. Presentar a la Comisión Inspectora de Hacienda del Congreso, los informes trimestrales de la revisión, glosa y auditoría de las cuentas públicas de los Tres Poderes del Estado y de los Municipios, para que con fundamento en dichos informes técnico contables, la Comisión Inspectora de Hacienda, rinda al Congreso, los dictámenes correspondientes a las cuentas públicas;
 
 XI. Para lo previsto en las fracciones II, III, IV y V se deberá contar con la autorización de la Comisión Inspectora de Hacienda, a la que informará de los resultados de la misma;
 
-XII. Acordar una vez por semana con el Presidente de la Gran Comisión sobre el desempeño de sus funcion; y
+XII. Acordar una vez por semana con el Presidente de la Gran Comisión sobre el desempeño de sus funciones; y
 
 XIII. Las demás que le competan conforme a las disposiciones legales, ó que le señale el Presidente de la Gran Comisión.
 
@@ -1017,9 +1023,9 @@ V. Presentar las recomendaciones que en el ámbito de su competencia, deban obse
 
 VI. Integrar, mantener actualizado y custodiar el archivo permanente de las dependencias y entidades públicas sujetas a fiscalización;
 
-VII. Proponer y mantener actualizados los convenios de intercambio de documentación e información que convenga establecer con instituciones homologas, dependencias y entidades de la administración publica e instituciones académicas y de investigación locales o nacionales;
+VII. Proponer y mantener actualizados los convenios de intercambio de documentación e información que convenga establecer con instituciones homologas, dependencias y entidades de la administración publica e instituciones académicas y de investigación locales o nacionales,
 
-VIII. Asesorar a los ayuntamientos en la operación de sus sistemas de control, fiscalización y evaluación, formulando y proponiendo los convenios de apoyo técnico que para tal efecto, fuere necesario suscribir entre el Congreso del Estado a través de la Contaduría Mayor de Hacienda y los Gobiernos Municipales;
+VIII. Asesorar a los ayuntamientos en la operación de sus sistemas de control, fiscalización y evaluación, formulando y proponiendo los convenios de apoyo técnico que para tal efecto, fuere necesario suscribir entre el Congreso del Estado a través de la Contaduría Mayor de Hacienda y los Gobiernos Municipales,
 
 IX. Analizar los proyectos de normas de contabilidad y control en materia de programación, presupuestación y administración de recursos financieros que sean presentados a la Contaduría Mayor de Hacienda, que elaboren las dependencias y entidades de la administración publica estatal y municipal; y
 
@@ -1055,9 +1061,9 @@ I. Practicar auditorias, visitas e inspecciones, a fin de comprobar que la plane
 
 II. Recabar, integrar y presentar al área jurídica, la documentación que sustente las irregularidades que detecte en las visitas, inspecciones y auditorias;
 
-III. Presentar las observaciones y recomendaciones, que en el ámbito de su competencia deban observar las entidades sujetas a fiscalización;
+III. Presentar las observaciones y recomendaciones, que en el ámbito de su competencia deban observar las entidades sujetas a fiscalización,
 
-IV. Analizar y verificar el contenido de los informes que en materia de obras públicas presentan al Contador Mayor de Hacienda, las Dependencias y Entidades Estatales y Municipales; y
+IV. Analizar y verificar el contenido de los informes que en materia de obras públicas presentan al Contador Mayor de Hacienda, las Dependencias y Entidades Estatales y Municipales, y
 
 V. Las demás que le señale el Contador Mayor de Hacienda.
 
@@ -1073,13 +1079,13 @@ II. Verificar que se mantenga actualizado el inventario de los bienes muebles e 
 
 III. Establecer y mantener actualizados los mecanismos y procedimientos para salvaguardar los bienes muebles e inmuebles propiedad de las entidades mencionadas en la fracción anterior;
 
-IV. Practicar visitas e inspecciones a fin de comprobar que la planeación y adjudicación de bienes y servicios, se hayan ajustado a las leyes respectivas? así como practicar auditorias de recursos humanos;
+IV. Practicar visitas e inspecciones a fin de comprobar que la planeación y adjudicación de bienes y servicios, se hayan ajustado a las leyes respectivas; así como practicar auditorias de recursos humanos;
 
-V. Verificar que el procedimiento de enajenación de bienes se haya realizado de conformidad a las leyes aplicables,
+V. Verificar que el procedimiento de enajenación de bienes se haya realizado de conformidad a las leyes aplicables;
 
 VI. Recibir y mantener actualizados los movimientos del personal al servicio de los tres poderes del Estado y Municipios;
 
-VII. Expedir constancia de antigüedad laboral a los empleados estatales y municipales que lo soliciten, y
+VII. Expedir constancia de antigüedad laboral a los empleados estatales y municipales que lo soliciten; y
 
 VIII. Las demás que le señale el Contador Mayor de Hacienda.
 
@@ -1309,7 +1315,9 @@ III. Recibir, proveer y controlar los recursos financieros;
 
 IV. Pagar los sueldos, salarios y demás prestaciones al personal que labora en el Congreso, así como efectuar los pagos a los Proveedores de artículos y servicios que se requieran;
 
-V. Elaborar la información correspondiente a la Cuenta Pública del Congreso y remitirla a la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
+
+V. Elaborar mensualmente la información relativa al avance financiero y presupuestal y, en representación del Presidente de la Gran Comisión, remitirla, dentro de los siguientes treinta días del mes que corresponda, a la Contaduría Mayor de Hacienda. Asimismo, enviar trimestralmente a la citada Contaduría, dentro de los treinta días siguientes del trimestre respectivo, la cuenta pública del Congreso, para su revisión y calificación trimestral;
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
 
@@ -1508,3 +1516,9 @@ P.O. 7 DE MARZO DE 1998.
 PRIMERO.- El presente decreto entrará en vigor a partir del momento de su aprobación; publíquese en el Periódico Oficial del Gobierno del Estado de Tabasco.
 
 SEGUNDO.- Se derogan las disposiciones del Decreto número 203 del 9 de enero de 1997 publicado en el Periódico Oficial del Gobierno del Estado de Tabasco, número 5681 del 15 de febrero de ese mismo año, que se opongan a las del presente Decreto; así como cualquier otra disposición legal contraria al mismo.
+
+P.O. 8 DE AGOSTO DE 1998.
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
