@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1942-12-30"
+last_updated: "1943-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE DICIEMBRE DE 1942.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE OCTUBRE DE 1943.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -537,7 +537,9 @@ XIV. Resolver sobre las renuncias de sus propios miembros, del Gobernador, de lo
 
 XV. Conceder, licencias a sus propios miembros, al Gobernador, a los Magistrados del Tribunal Superior de Justicia y a los Jueces de Primera Instancia, cuando la de los Funcionarios Judiciales, excedieren de tres meses y les sean sometidas por el Ejecutivo.
 
-XVI. (DEROGADA, G.G. 22 DE OCTUBRE DE 1941)
+> <small>(ADICIONADA, G.G. 2 DE OCTUBRE DE 1943)</small>
+
+XVI. Revisar los expedientes relativos a elecciones municipales, cuando se solicite su intervención, haciendo la declaración que corresponda.
 
 XVII. Decretar anualmente, a iniciativa del Ejecutivo, los gastos del Estado e imponer para cubrirlos, las contribuciones indispensables, determinando su cuota, duración, y modo derecaudarlas (sic);
 
@@ -619,9 +621,9 @@ V. Conceder o negar las licencias a que se refiere la fracción XV del artículo
 
 VI. Dictaminar sobre todos los asuntos que quedan pendientes de resolución a fin de que continúen sus trámites al abrirse los períodos de sesiones;
 
-> <small>(ADICIONADA, G.G. 20 DE DICIEMBRE DE 1941)</small>
+> <small>(ADICIONADA, G.G. 2 DE OCTUBRE DE 1943)</small>
 
-VII. Otorgar o negar su aprobación a los nombramientos de Magistrados y Jueces de Primera Instancia, así como a las solicitudes de licencia de los mismos funcionarios que les someta el Gobernador del Estado.
+VII. Revisar los expedientes de elecciones municipales a que se refiere la fracción XVI del Artículo 70 de esta Constitución, en los casos de receso de la Legislatura.
 
 VIII. Cumplir con las obligaciones que le impongan la Legislatura siempre que no fueren contrarias a las leyes.
 
@@ -981,9 +983,7 @@ c).- Nombrar a todos los funcionarios y empleados del Ramo Judicial, a propuesta
 
 IX. Ejercer las demás atribuciones que le señale la ley orgánica respectiva.
 
-> <small>(ADICIONADA, G.G. 22 DE OCTUBRE DE 1941)</small>
-
-X. Revisar los expedientes relativos de elecciones municipales cuando se solicite su intervención, haciendo la declaración que corresponda.
+X. (DEROGADA, G.G. 2 DE OCTUBRE DE 1943)
 
 ###### Art. 110.
 
@@ -1123,11 +1123,11 @@ Los miembros de un Ayuntamiento serán designados en una sola elección, disting
 
 Por cada miembro del Ayuntamiento que se elija como propietario, se elegirá un suplente.
 
-> <small>(REFORMADO, G.G. 9 DE SEPTIEMBRE DE 1939)</small>
+> <small>(REFORMADO, G.G. 2 DE OCTUBRE DE 1943)</small>
 
 ###### Art. 140.
 
-Para ser miembro de un Ayuntamiento, será indispensable ser ciudadano del Estado, nativo del Municipio, en ejercicio de sus derechos civiles y políticos y con vecindad no menor de dos años inmediatamente anteriores al día de la elección.
+Para ser miembro de un Ayuntamiento, será indispensable ser originario del Estado, en pleno ejercicio de sus derechos civiles y políticos y con vecindad efectiva en el municipio para el que fuere electo, no menor de dos años antes de la fecha de la elección.
 
 > <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1927)</small>
 
@@ -1399,7 +1399,7 @@ IV. El trabajo nocturno se pagará con cuota doble de la fijada para el diurno, 
 
 V. En ningún trabajo se utilizarán los servicios de menores de quince años que no hayan recibido o no reciban la educación primaria obligatoria;
 
-VI. Las incapacidades para el trabajo, provenientes de trabajo de riesgo contante y ocurridas por accidentes ocasionados por el trabajo mismo, en empresas capitalistas cuyo capital exceda de cincuenta mil pesos, podrán ser de tres clases:
+VI. Las incapacidades para el trabajo, provenientes de trabajo de riesgo constante y ocurridas por accidentes ocasionados por el trabajo mismo, en empresas capitalistas cuyo capital exceda de cincuenta mil pesos, podrán ser de tres clases:
 
 a. Incapacidad permanente y absoluta;
 
@@ -1842,3 +1842,15 @@ El Poder público del Estado, que designe la presente Constitución, representar
 ###### ARTICULO TERCERO.
 
 Estas reformas y adiciones entrarán en vigor el día de su publicación en la "Gaceta del Gobierno".
+
+G.G. 2 DE OCTUBRE DE 1943.
+
+DECRETO NUMERO 1, POR EL QUE SE REFORMA LA CONSTITUCION POLITICA DEL ESTADO DE MEXICO EN SU ARTICULO 140.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 2 DE OCTUBRE DE 1943.
+
+DECRETO NUMERO 2, POR EL QUE SE DEROGA LA FRACCION X DEL ARTICULO 109, SE ABROGA EL ARTICULO PRIMERO DEL DECRETO NUMERO 59 DE 18 DE OCTUBRE DE 1941, EN LA PARTE QUE DEROGO LA FRACCION XVI AL ARTICULO 70 Y LA VII DEL ARTICULO 73 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
