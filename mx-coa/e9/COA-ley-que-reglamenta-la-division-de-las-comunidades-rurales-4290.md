@@ -4,7 +4,7 @@ identifier: "COA-ley-que-reglamenta-la-division-de-las-comunidades-rurales-4290"
 country: "mx"
 rank: "ley"
 publication_date: "1933-10-11"
-last_updated: "1933-10-11"
+last_updated: "1933-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY QUE REGLAMENTA LA DIVISION DE LAS COMUNIDADES RURALES EN EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1933.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 11 de octubre de 1933.
 
@@ -48,6 +48,12 @@ El objeto de la presente Ley, es la reglamentación del Decreto No. 681 expedido
 ###### Art. 2o.
 
 La división de las comunidades rurales en el Estado de Coahuila, por entrañar un beneficio colectivo, se declara de utilidad pública y en la forma que después se expresará, sólo quedará a los afectados el derecho de pedir la indemnización correspondiente.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 1933)</small>
+
+###### Art. 2o. Bis.
+
+Por las causas señaladas en el artículo anterior, toda disolución llevada a cabo de acuerdo con el decreto de que habla el artículo 1o. se tendrá como válida, dándose entero valor y fuerza a los planos aprobados por el Ejecutivo del Estado, según los cuales se haya verificado la disolución, siempre y cuando no se contravenga la presente Ley.
 
 ###### Art. 3o.
 
@@ -242,3 +248,9 @@ NAZARIO S. ORTIZ GARZA.
 El Srio. del Ejvo. Del Estado,
 
 GUILLERMO BERCHELMANN.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE OCTUBRE DE 1933.
+
+EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS DISPOSICIONES PRELIMINARES DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
