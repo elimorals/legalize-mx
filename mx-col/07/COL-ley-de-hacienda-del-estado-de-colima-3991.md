@@ -1,0 +1,2814 @@
+---
+title: "LEY DE HACIENDA DEL ESTADO DE COLIMA"
+identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
+country: "mx"
+rank: "ley"
+publication_date: "1992-12-26"
+last_updated: "1992-12-26"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-col"
+scjn_id: "3991"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "52 PRIMERA SECCION"
+reform_count: "98"
+scjn_last_update: "2026-06-30"
+issue_date: "1992-12-21"
+state: "COL"
+---
+# LEY DE HACIENDA DEL ESTADO DE COLIMA
+
+LEY DE HACIENDA DEL ESTADO DE COLIMA
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
+
+CARLOS DE LA MADRID VIRGEN, Gobernador Constitucional del Estado Libre y Soberano, a sus habitantes sabed:
+
+Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente:
+
+DECRETO
+
+EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 33 FRACCIONES II y XXVI, DE LA CONSTITUCION POLITICA LOCAL, EN NOMBRE DEL PUEBLO, Y
+
+...
+
+Por lo anteriormente expuesto y fundado ha tenido a bien expedir el siguiente
+
+DECRETO No. 131
+
+###### ARTICULO UNICO.
+
+Se aprueba la Ley de Hacienda del Estado de Colima en los siguientes términos.
+
+LEY DE HACIENDA DEL ESTADO DE COLIMA
+
+## TITULO PRIMERO. DE LOS IMPUESTOS
+
+### CAPITULO I. Del Impuesto a la Prestación del Servicio de Enseñanza
+
+###### Artículo 1.
+
+Es objeto de este impuesto la percepción de ingresos, con motivo de la prestación del servicio de enseñanza realizada por particulares, cuando tengan autorización o reconocimiento de validez oficial de estudios en los términos de la Ley Federal de Educación y de la Ley para la Educación del Estado de Colima.
+
+###### Artículo 2.
+
+Son sujetos de este impuesto, quienes perciban ingresos de los señalados en el Artículo anterior.
+
+###### Artículo 3.
+
+Es base del impuesto, el monto total de ingresos percibidos, por la realización de los actos a que se refiere este capítulo.
+
+###### Artículo 4.
+
+Este impuesto se causará y pagará aplicando a la base que señala el Artículo anterior, la tasa del 2%.
+
+###### Artículo 5.
+
+El impuesto a que se refiere este capítulo se calculará por ejercicios. Los contribuyentes efectuaran pagos provisionales bimestrales a cuenta del impuesto anual, a más tardar los días 17 de los meses de marzo, mayo, julio, septiembre, noviembre del período y enero del siguiente año, mediante declaración que presentarán en la Receptoría de Rentas correspondiente al domicilio fiscal del contribuyente, en las formas aprobadas para el efecto. El pago provisional se determinará considerando la totalidad de ingresos percibidos en el bimestre.
+
+###### Artículo 6.
+
+Los contribuyentes de este impuesto, tendrán las siguientes obligaciones:
+
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas, por conducto de la Receptoría de Rentas de su jurisdicción dentro de los quince días siguientes a la fecha en que se inicien las actividades generadoras de ingresos objeto de este impuesto, en las formas aprobadas para el efecto, adjuntando a la solicitud copia del documento equivalente que se hubiera presentado para efectos del Registro Federal de Contribuyentes.
+
+II.- Presentar las declaraciones y pagar el impuesto en la forma y términos establecidos en este capítulo.
+
+III.- Presentar los avisos de cambio que se produzcan en los datos que debe contener el Registro Estatal de Contribuyentes, dentro de los quince días siguientes a la fecha en que el cambio se efectúe, ante la autoridad y en la forma señalada en la fracción I.
+
+IV.- Proporcionar a las autoridades fiscales, los datos e informes relacionados con este impuesto que les sean solicitados dentro del plazo que para ello se fije.
+
+V.- Recibir las ordenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaria de Finanzas, todos los documentos e informes que les soliciten para comprobar el cumplimiento de las obligaciones fiscales.
+
+VI.- Llevar los libros o registros y expedir documentación comprobatoria de sus ingresos de conformidad con las disposiciones fiscales federales correspondientes.
+
+###### Artículo 7.
+
+La Secretaría de Finanzas podrá estimar los ingresos de los sujetos de este impuesto, en los siguientes casos:
+
+I.- Cuando no presenten sus declaraciones, no lleven libros o registros o no expidan la documentación comprobatoria a que están obligados y
+
+II.- Cuando por los informes que se obtengan, se ponga de manifiesto la percepción de ingresos en un promedio superior cuando menos de un diez por ciento, a los declarados por el contribuyente.
+
+Para practicar las estimaciones a que hace referencia este Artículo, las autoridades fiscales podrán tomar en cuenta la información reportada a las autoridades educativas del Estado, las cuotas por mensualidades e inscripciones cobradas por establecimientos similares, el número de alumnos activos, la renta del local que ocupa, en su caso, sueldos y honorarios pagados, gastos fijos y otros datos que puedan obtenerse y sean utilizables.
+
+###### Artículo 8.
+
+Los sujetos que obtengan ingresos de los mencionados en el presente capítulo en el año calendario, presentarán declaración anual durante el mes de mayo del año siguiente, en la Receptoría de Rentas de su jurisdicción y en las formas oficiales que para el efecto sean aprobadas por la Secretaria de Finanzas, acompañando a la misma una copia de la declaración anual que debió haberse presentado ante las autoridades federales, de conformidad con las disposiciones fiscales correspondientes.
+
+###### Artículo 9.
+
+Para los efectos del Artículo anterior, el impuesto se calculará sobre el ingreso anual obtenido y al resultado se le disminuirá el importe de los pagos provisionales efectuados en los términos de este capítulo.
+
+### CAPITULO II. Del Impuesto Sobre Ejercicio de Profesiones
+
+###### Artículo 10.
+
+Son objeto de este impuesto, los ingresos que se obtengan en efectivo o en especie, derivado del libre ejercicio de una profesión, de una actividad técnica o que requiera habilidad, de una actividad cultural, artística, deportiva o de cualquier otra naturaleza.
+
+En tanto esté en vigor el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado por el Gobierno Federal y el Gobierno del Estado de Colima, solo podrán ser objeto de este impuesto los ingresos que no estén gravados por la Ley del Impuesto al Valor Agregado.
+
+###### Artículo 11.
+
+Son sujetos de este impuesto, las personas físicas que, habitual o eventualmente obtengan los ingresos a que se refiere el Artículo anterior.
+
+Cuando las personas a que se refiere este Artículo operen organizadas en agrupaciones profesionales, asociaciones o sociedades de carácter civil, serán las personas físicas las sujetas del impuesto.
+
+###### Artículo 12.
+
+Es base de este impuesto el monto total de los ingresos percibidos en el período, disminuidos los gastos e inversiones necesarios para su obtención.
+
+Tratándose de los sujetos del impuesto a que se refiere el segundo párrafo del Artículo anterior, la base del impuesto será la parte que a cada uno de ellos les corresponde en los ingresos totales de la organización, disminuidos los gastos e inversiones necesarios para su obtención.
+
+###### Artículo 13.
+
+Son deducciones autorizadas las siguientes:
+
+I.- Sueldos, gratificaciones anuales, aportaciones de seguridad social e impuesto sobre erogaciones por remuneración al trabajo personal prestado bajo la dirección y dependencia de un patrón, a cargo del contribuyente.
+
+II.- Las inversiones en adquisición de inmuebles destinados exclusivamente al desarrollo de la actividad generadora de los ingresos gravados, hasta por un monto anual equivalente al 10% del importe de la inversión.
+
+III.- Los gastos de mantenimiento, ampliaciones y mejoras del inmueble donde se realicen las actividades a que se refiere este capítulo.
+
+IV.- Las inversiones en adquisición de mobiliario y equipo de oficina e instrumental propio para la realización de la actividad del contribuyente.
+
+V.- Las inversiones en automóviles y los gastos para su mantenimiento.
+
+VI.- Las erogaciones por arrendamiento financiero, cuando los contratos se refieran al instrumental y equipo propio para la realización de la actividad del contribuyente.
+
+VII.- El impuesto predial y las cuotas por servicios de agua potable y alcantarillado, respecto del inmueble donde se desarrollen las actividades gravadas, cuando este sea propiedad del contribuyente y en la proporción señalada por la fracción III de este Artículo, en caso de que el inmueble sea la propia casa habitación del contribuyente.
+
+VIII.- El importe del arrendamiento del inmueble donde se ubique el establecimiento en que se realicen las actividades gravadas.
+
+IX.- Los gastos de viaje del contribuyente con motivo justificado de su asistencia a seminarios y convenciones efectuados en el país o en el extranjero.
+
+X.- Los pagos por concepto de servicio telefónico y energía eléctrica del local que se utilice para el desempeño de la actividad gravada.
+
+XI.- Las cuotas que se paguen a sociedades o asociaciones civiles de profesionistas a que pertenezca el contribuyente.
+
+###### Artículo 14.
+
+Para que procedan las deducciones autorizadas que se señalan en el Artículo anterior, deberán reunir los siguientes requisitos:
+
+I.- Que sean estrictamente indispensables para la obtención de los ingresos por los que se esta obligado al pago de este impuesto.
+
+II.- Que se comprueben con documentación que reúna los requisitos que señalan las disposiciones fiscales federales para los contribuyentes del Impuesto Sobre la Renta.
+
+III.- Que estén debidamente registradas en contabilidad.
+
+IV.- Que su importe en conjunto no exceda del monto de los ingresos obtenidos por el contribuyente durante el ejercicio.
+
+V.- Que el costo de adquisición declarado por el contribuyente corresponda al de mercado.
+
+VI.- Que en el caso de compras de importación se compruebe que se cumplieron los requisitos legales para su importación. Como importe de dichas compras sólo se aceptará el que haya sido declarado con motivo de la importación.
+
+VII.- Que tratándose de inversiones en automóviles, sólo se autoriza la deducción respecto de vehículos definidos como utilitarios en los términos de la Ley del Impuesto Sobre la Renta.
+
+VIII.- Que tratándose de contratos de arrendamiento financiero sólo se considere el monto pactado como valor del bien en los contratos respectivos.
+
+IX.- Respecto a los gastos de viaje a que se refiere la fracción IX del Artículo anterior, los relativos a hospedaje, alimentación y arrendamiento de vehículos sólo podrán deducirse en conjunto por un monto diario equivalente a 150 días de salario mínimo general de la zona económica correspondiente al Estado de Colima, si se erogan en el extranjero o de 80 días de salario mínimo si se erogan en territorio nacional.
+
+###### Artículo 15.
+
+El impuesto a que se refiere este capítulo se calculará por ejercicios fiscales. Los contribuyentes efectuarán pagos provisionales bimestrales a cuenta del impuesto anual, a más tardar los días 17 de los meses de marzo, mayo, julio, septiembre, noviembre del período y enero del siguiente año, mediante declaración que presentarán en la Receptoría de Rentas correspondiente, en las formas oficiales aprobadas para el efecto. El pago provisional se determinará considerando la totalidad de los ingresos percibidos en el bimestre, deduciendo de los mismos el monto de las deducciones autorizadas en el Artículo 13 de esta Ley y aplicándole al resultado la tasa del 3% tratándose de contribuyentes habituales y del 5% para los contribuyentes eventuales.
+
+###### Artículo 16.
+
+Serán solidariamente responsables del pago de este impuesto:
+
+I.- Las agrupaciones, sociedades o asociaciones, así como cualesquiera otras independientemente del nombre con que se les designe, tanto por quiénes las integran en calidad de socios como respecto de quiénes les presten servicios, bajo la dirección y dependencias de las mismas; y
+
+II.- Las personas físicas, morales o unidades económicas, que recibiendo los servicios profesionales den origen a la percepción de los ingresos gravados.
+
+###### Artículo 17.
+
+Los sujetos que obtengan ingresos de los comprendidos en este capítulo, tendrán además las siguientes obligaciones:
+
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas, por conducto de la Receptoría de Rentas de su jurisdicción dentro de los quince días siguientes a aquel en que se inicien las actividades generadoras de ingresos objeto de este impuesto, en las formas oficiales aprobadas para el efecto, anexando a la solicitud copias del documento equivalente que se hubiera presentado para efectos del Registro Federal de Contribuyentes.
+
+II.- Pagar los impuestos en la forma y términos establecidos en este capítulo.
+
+III.- Presentar los avisos de cambio que se produzcan en los datos que debe contener el Registro Estatal de Contribuyentes, dentro de los quince días siguientes a la fecha en que el cambio se efectúe, ante la autoridad y en la forma señalada en la fracción I.
+
+IV.- Proporcionar a las Autoridades Fiscales, los datos e informes que le sean solicitados dentro del plazo que para ello se les fije.
+
+V.- Recibir las ordenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las Autoridades Fiscales de la Secretaria de Finanzas, todos los informes y documentos que le soliciten para el desempeño de sus funciones; y
+
+VI.- Llevar los libros o registros y expedir la documentación comprobatoria, tanto de sus ingresos como del pago del impuesto, de conformidad con las disposiciones fiscales federales correspondientes.
+
+###### Artículo 18.
+
+Los retenedores del impuesto y, en general, quiénes hagan pagos a los contribuyentes del mismo, tienen la obligación de proporcionar los datos y documentos que les sean solicitados por las Autoridades Fiscales del Estado y recibir las visitas de inspección o permitir la practica de auditorías para verificar el pago correcto de este gravamen.
+
+###### Artículo 19.
+
+La Secretaria de Finanzas podrá estimar los ingresos de los sujetos de este impuesto, en los siguientes casos:
+
+I.- Cuando no presenten sus declaraciones, no lleven los libros o registros, no expidan la documentación comprobatoria a que están obligados; y
+
+II.- Cuando por los informes que se obtengan, se ponga de manifiesto la percepción de un promedio de ingresos superior, cuando menos en un diez por ciento, al declarado por el contribuyente.
+
+Para practicar las estimaciones a que se refiere este Artículo se tendrán en cuenta las actividades realizadas por el contribuyente, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse.
+
+###### Artículo 20.
+
+Los sujetos que obtengan ingresos de los mencionados en el presente capítulo en el año calendario, están obligados a presentar declaración anual durante el mes de mayo del año siguiente, en la Receptoría de Rentas de su jurisdicción y en las formas oficiales que para el efecto sean aprobados por la Secretaría de Finanzas, acompañando a la misma una copia de la declaración anual que por estos ingresos tenga obligación de presentar, de conformidad con las disposiciones fiscales federales correspondientes.
+
+No están obligados a presentar declaración anual, los contribuyentes eventuales, y los pagos provisionales efectuados por estos se consideraran como definitivos.
+
+###### Artículo 21.
+
+El calculo del impuesto se hará sobre el total de los ingresos que obtengan durante el año, a los cuales se podrán hacer las deducciones autorizadas en este capítulo, aplicándole al resultado la tasa que señala el Artículo 15 de esta Ley; contra el resultado anterior, se acreditará el importe de los pagos provisionales efectuados, en los términos de este capítulo; y el 10% del salario mínimo general de la Zona, elevado al año.
+
+###### Artículo 22.
+
+Las personas físicas que obtengan ingresos de los señalados en este capítulo, para calcular su impuesto anual, podrán hacer, además de las deducciones autorizadas en el Artículo 13, las siguientes deducciones personales:
+
+I.- Los honorarios médicos, dentales y los gastos hospitalarios efectuados por el contribuyente para si, para su conyugue (sic), o para las personas con quiénes viva en concubinato y para sus ascendientes o descendientes en línea recta, siempre y cuando dichas personas no reciban durante el año calendario ingresos en cantidad igual o superior a la que resulte de calcular el salario mínimo general del área geográfica del contribuyente elevado al año.
+
+II.- Los gastos de funerales efectuados en favor de las personas a que se refiere la fracción anterior, en la parte que no exceda del salario mínimo general del área geográfica del contribuyente elevado al año.
+
+III.- Los donativos no onerosos ni remunerativos que se otorguen en favor de la federación, del Estado, o de sus municipios, y de las instituciones asistenciales o de beneficencia reconocidas por las leyes de la materia, así como de las asociaciones y sociedades civiles que realicen actividades similares.
+
+Para que procedan las deducciones a que se refiere este Artículo, se deberán comprobar con documentación que reúna los requisitos señalados en la fracción II del Artículo 14 de esta Ley, expedida en favor de las personas obligadas al pago de este impuesto. Si el contribuyente recupera parte de dichas cantidades, únicamente tendrá derecho a deducir la parte no recuperable.
+
+### CAPITULO III. Del Impuesto a la Transmisión de la Propiedad de Vehículos Automotores
+
+###### Artículo 23.
+
+Es objeto de este impuesto la transmisión de la propiedad de vehículos y automotores usados, por cualquier título.
+
+###### Artículo 24.
+
+Son sujetos de este impuesto las personas físicas o morales que realicen los actos de transmisión a que se refiere el Artículo anterior.
+
+###### Artículo 25.
+
+La base gravable para la determinación de este impuesto será:
+
+I.- Tratándose de automóviles, camiones y motocicletas:
+
+a).- Para vehículos del ultimo año modelo, el 90% del importe total de la primera facturación, sin incluir intereses por financiamiento.
+
+b).- Para vehículos de años modelos anteriores al año de calendario en el que se realizo la transmisión: el valor consignado en el Tabulador Oficial que se publique en el Periódico Oficial del Estado.
+
+II.- Tractores agrícolas, vehículos acuáticos, aéreos y otros automotores: el precio de operación.
+
+###### Artículo 26.
+
+Para los efectos de este impuesto se considerará efectuada la operación dentro del Estado, salvo prueba en contrario, por el sólo hecho de dar de alta un vehículo en el padrón vehícular estatal.
+
+###### Artículo 27.
+
+Este impuesto se calculará aplicando a la base gravable, la tasa del 3%.
+
+###### Artículo 28.
+
+El pago de este impuesto deberá efectuarse en la Receptoría de Rentas de jurisdicción correspondiente, dentro de los quince días siguientes a la fecha en que se efectúe la transmisión de la propiedad.
+
+###### Artículo 29.
+
+Los vehículos objeto de la transmisión, garantizaran preferentemente el pago del impuesto a que se refiere el presente capítulo.
+
+###### Artículo 30.
+
+Para la recaudación de este impuesto, se observaran las siguientes reglas:
+
+I.- Las personas que realicen las operaciones de transmisión de la propiedad a que se refiere este capítulo, deberán manifestarlas ante la Receptoría de Rentas correspondiente dentro del término establecido por el Artículo 28, mediante declaración debidamente requisitada y firmada, en las formas aprobadas por la Secretaría de Finanzas.
+
+II.- La Receptoría de Rentas, al recibir la declaración a que se refiere la fracción anterior y verificar su debida requisitación y firma, efectuará el cobro del impuesto; regresará al contribuyente copia de la declaración y sellará la factura o comprobante que ampare la propiedad del vehículo materia de la transmisión, anotando el número del recibo oficial y la fecha de pago del impuesto.
+
+III.- Las autoridades correspondientes no darán trámite a ninguna solicitud de alta, baja o traspaso de vehículos respecto de los cuales no se hubiera cubierto previamente el impuesto a que se refiere este capítulo. Si al solicitar cualquiera de los tramites a que se refiere el párrafo anterior, se llegare a descubrir que la fecha posible de la transmisión de la propiedad del vehículo, difiere aquella en que fue literalmente inscrita la leyenda de cesión, se tomará en cuenta para liquidar los impuestos, determinar y cobrar los recargos e imponer las sanciones que procedan; y
+
+IV.- Las empresas dedicadas a la compraventa de vehículos usados, llevaran un registro de los adquiridos o que reciban a comisión o en consignación, en el que anotaran; Nombre, domicilio del transmitente, comitente o consignante, figura jurídica del acto por el que se reciba cada vehículo y los datos y características que lo identifiquen. Las empresas a que se refiere la fracción anterior, deberán presentar al momento de solicitar la alta o cambio de propietario del vehículo, la factura que les haya sido entregada por el propietario anterior, con el objeto de que la autoridad se cerciore del cabal cumplimiento de las obligaciones fiscales.
+
+###### Artículo 31.
+
+No causa este impuesto, la obtención de ingresos por la enajenación de vehículos por la que deba pagarse el Impuesto al Valor Agregado, de conformidad con la Ley respectiva.
+
+###### Artículo 32.
+
+Son solidariamente responsables del pago de este impuesto:
+
+I.- Los adquirientes de los vehículos, por los créditos fiscales que se hubieran omitido.
+
+II.- Los comisionistas, consignatarios o cualquier otra persona que intervengan en las operaciones de transmisión de propiedad de vehículos, de las previstas en este capítulo.
+
+III.- Los servidores públicos que autoricen cualquier trámite de los referidos en la fracción III del Artículo 30.
+
+### CAPITULO IV. Del Impuesto Sobre Espectáculos Públicos
+
+###### Artículo 33.
+
+Son objeto de este impuesto, los ingresos que se obtengan por el derecho de admisión a espectáculos públicos consistentes en Palenques de Gallos.
+
+###### Artículo 34.
+
+Son sujetos de este impuesto las personas físicas o morales que perciban ingresos de los señalados en el Artículo anterior.
+
+###### Artículo 35.
+
+Este impuesto se causará y pagará aplicando a la base la tasa del 8%, sin deducción alguna.
+
+###### Artículo 36.
+
+El pago de este impuesto deberá efectuarse en la Receptoría de Rentas correspondiente al domicilio en el que se realice la actividad gravada, al día siguiente de aquel en que ésta se lleve a cabo, con base en el ingreso que hubiese determinado el interventor designado por la Receptoría de Rentas. En caso de que la Receptoría de Rentas no designe interventor, la base serán los ingresos que bajo protesta de decir verdad declare haber obtenido el contribuyente.
+
+###### Artículo 37.
+
+Responden solidariamente del pago de este impuesto:
+
+I.- Los propietarios, poseedores o los responsables de administrar o concesionar los establecimientos o lugares en los que realicen las actividades gravadas, a menos que en un plazo no menor de diez días anteriores a la celebración de la actividad materia de este impuesto, den aviso por escrito a la Receptoría de Rentas correspondiente, de la celebración del contrato.
+
+II.- Los servidores públicos que tengan a su cargo el otorgamiento de permisos o licencias para la celebración de la actividad gravada, en caso de no dar aviso a la Receptoría de Rentas.
+
+###### Artículo 38.
+
+Los contribuyentes de este impuesto, tienen además las siguientes obligaciones:
+
+I.- Presentar ante la Receptoría de Rentas que corresponda a más tardar el tercer día anterior al inicio de la actividad gravada, un informe por escrito en el que indique el período por el cual se realizará dicha actividad.
+
+II.- Garantizar a satisfacción de la Receptoría de Rentas en alguna de las formas previstas en el Código Fiscal del Estado, que no será inferior al importe del impuesto que pudiera causarse por tres días de actividades previo a la iniciación del evento.
+
+III.- Informar por escrito a la Receptoría de Rentas correspondiente en caso de ampliación del periodo original de actividades, a más tardar el último día que comprenda el programa cuya vigencia se vaya a ampliar.
+
+IV.- Presentar ante la Receptoría de Rentas que corresponda para su resello, el boletaje correspondiente a cada función, cuando menos al segundo día hábil anterior a aquel en que se vaya a realizar la actividad.
+
+V.- No vender boletos en tanto no estén resellados por la Receptoría de Rentas correspondiente.
+
+VI.- Destruir los boletos recibidos por los espectadores a la entrada del espectáculo.
+
+VII.- Entregar a la Receptoría de Rentas correspondiente, el boletaje resellado sobrante, para que sea inutilizado.
+
+VIII.- Permitir a los interventores designados por la Receptoría de Rentas, la verificación y determinación de la base gravable y del impuesto causado.
+
+IX.- En general, adoptar las medidas de control que para la correcta determinación de este impuesto, establezca la Receptoría de Rentas.
+
+###### Artículo 39.
+
+En caso de que los sujetos de este impuesto no cumplan con la obligación de otorgar garantía de conformidad con lo dispuesto en la fracción II del Artículo anterior, el Receptor de Rentas ordenará la intervención de la caja del establecimiento, facultando al interventor designado, para retirar de la misma, un importe igual al monto del impuesto causado, más el costo que implique la intervención, el cual se ingresará a la caja de la Receptoría de Rentas al día siguiente hábil.
+
+###### Artículo 40.
+
+Las autoridades competentes, al otorgar permisos para la explotación de espectáculos de los previstos por este capítulo, deberán informar a la Receptoría de Rentas correspondiente de las autorizaciones que otorguen, a más tardar diez días antes del inicio del espectáculo.
+
+###### Artículo 41.
+
+Garantizarán preferentemente el pago de este impuesto, los bienes muebles, el equipo y las instalaciones, que se utilicen para el desarrollo de la actividad gravada.
+
+### CAPITULO I. Disposiciones Generales
+
+### CAPITULO II. De los servicios prestados por la Secretaría General de Gobierno
+
+### CAPITULO III. Servicios Prestados por la Secretaría de Finanzas
+
+### CAPITULO IV. Servicios Prestados en la Secretaría de Desarrollo Urbano y Rural
+
+### CAPITULO V. Servicios Prestados en la Secretaría de Educación, Cultura y Deporte
+
+## TITULO SEGUNDO. DE LOS DERECHOS
+
+### CAPITULO VI. Servicios Prestados en la Secretaría de Salud y Bienestar Social
+
+###### Artículo 42.
+
+Los derechos por la prestación de servicios públicos, se causaran en el momento en que el particular reciba el servicio, salvo que la disposición que fije el derecho señale cosa distinta.
+
+###### Artículo 43.
+
+El importe de las tasas o tarifas que para cada derecho señalan los siguientes capítulos, deberán ser cubiertas previamente a la prestación del servicio, cuando así proceda, en las Receptorías de Rentas del Estado o en las oficinas que autorice la Secretaria de Finanzas, previa publicación de la autorización en el Periódico Oficial del Estado.
+
+###### Artículo 44.
+
+La dependencia o servidor público que preste el servicio por el cual se paguen los derechos, procederá a la prestación del mismo, al presentarle el interesado el recibo oficial que acredite su pago. Ningún otro comprobante justificará el pago correspondiente.
+
+###### Artículo 45.
+
+Cuando el derecho por la prestación de un servicio deba pagarse por anualidad, el entero deberá efectuarse en el mes de enero del año al que corresponda el pago y presentar el comprobante a más tardar el 15 de febrero siguiente ante la dependencia que presta el servicio.
+
+Si el servicio, cuyas cuotas se paguen por anualidades se solicita después de transcurrido el mes de enero, el entero deberá efectuarse dentro de los diez días siguientes a la autorización por parte del estado. Las subsecuentes anualidades se pagaran conforme al párrafo anterior.
+
+###### Artículo 46.
+
+Cuando no se llenen los requisitos legales para el otorgamiento del permiso, concesión o autorización o se haya establecido alguna restricción o prohibición, el pago de los derechos por los servicios no implica necesariamente el otorgamiento de los mismos.
+
+###### Artículo 47.
+
+El servidor público que preste algún servicio, en contravención a lo dispuesto en este capítulo, será responsable de su pago, independientemente de las sanciones administrativas y corporales a que se pueda hacer acreedor.
+
+### CAPITULO VII. Servicios Prestados en el Poder Judicial
+
+###### Artículo 48.
+
+Por los servicios prestados en la Dirección General de Gobierno se pagarán los derechos siguientes:
+
+Numero de días de
+
+salarios mínimos
+
+I.- Expedición de Fiat de Notario 270,000
+
+II.- Por nombramiento de Notario Interino 90,000
+
+III.- Por autorización de Protocolo 4,500
+
+IV.- Por legalización de firmas, por cada una 1,800
+
+V.- Expedición de copias certificadas del Duplicado de Libros del Registro Civil, cada una 0.900
+
+VI.- Por la expedición de informes de actas del Registro Civil en el Archivo General correspondiente:
+
+a).- Hasta 1963, por cada año 0.045
+
+b).- De 1963 a la fecha, por cada año 0.072
+
+VII.- Por la expedición de constancias de inscripciones o no inscripciones de testamento 1.350
+
+VIII.- Por la inscripción de avisos de otorgamiento de testamento 1.350
+
+IX.- Por certificados, por expedición de constancias y otros documentos 1.350
+
+X.- Por servicio foráneo de la tramitación de la documentación de pasaporte 4.500
+
+XI. Por autorización de Registros Extemporáneos 1,350
+
+XII.- Por autorización de "Inscripciones de" Actas del Registro Civil realizados en el extranjero con Nacionales 1,800
+
+XIII.- Por autorización de Matrimonio entre extranjeros 9,000
+
+XIV.- Por autorizaciones de Matrimonio entre extranjeros con nacionales 9,000
+
+XV.- Autorización de Divorcios Administrativos 6,300
+
+XVI.- Aclaración y Complementación de Actas del Registro civil 6,300
+
+XVII.- Por solicitud de Actas o Constancias que obran en las oficinas registradoras de otras Entidades Federativas 2,700
+
+###### Artículo 49.
+
+Por los servicios prestados en la Dirección de Seguridad Publica y Vialidad.
+
+Numero de días de
+
+salario mínimo
+
+I.- Almacenaje de vehículos en los depósitos de la Dirección, por día:
+
+a).- Camiones con capacidad de carga de 3,000 Kg. en adelante
+
+y autobuses 0.450
+
+b).- Camiones con capacidad de carga menor a 3,000 Kg. 0.270
+
+c).- Automóviles 0.180
+
+d).- Motocicletas 0.090
+
+e).- Bicicletas 0.045
+
+II.- Por servicios de grúa:
+
+a).- Dentro y fuera de la ciudad 4.500
+
+Más:
+
+1.- Por kilometro recorrido en camino asfaltado 0.225
+
+2.- Por kilometro recorrido en camino de terracería o brecha 0.270
+
+3.- Por cada hora de maniobras 2.250
+
+III.- Por la aplicación de exámenes para obtener licencia de manejo:
+
+a).- De conocimientos viales (incluye material didáctico) 0.900
+
+b).- Para determinación de tipo sanguíneo 0.900
+
+c).- De agudeza visual 0.900
+
+IV.- Por la aplicación de examen para determinar estado de ebriedad 1.800
+
+V.- Expedición de credencial de identificación para conductores de vehículos de servicio público de pasajeros 0.900
+
+VI.- Por expedición de constancias, por cada una 1.350
+
+###### Artículo 50.
+
+Por los servicios prestados en la Dirección de Transporte.
+
+Numero de días de salario
+
+mínimo
+
+I.- Expedición de licencias para manejar vehículos de motor con vigencia de cuatro años:
+
+a).- Automovilista 8.000
+
+b).- Chofer y conductor de servicios 5.830
+
+c).- Motociclista 3.239
+
+II.- Por expedición de concesión, cesión o traspaso de derecho, a vehículos de servicio público, conforme a la siguiente clasificación:
+
+a).- De ruta, sitio, servicio turístico y sujetos a arrendamiento
+
+puro 270.000
+
+b).- Materialistas, carga y turismo 129.600
+
+c).- Escuelas de manejo 81.000
+
+d).- Servicio exclusivo funerario 97.170
+
+e).- Motocarro o motocicleta de carga, para servicio turístico o para arrendamiento 23,752
+
+III.- Por revalidación de concesión de vehículos de sitio, ruta y aquellos cuya prestación este sujeta a contrato de arrendamiento, anualmente:
+
+a).- Por cada vehículo de sitio y escuelas de manejo 10.257
+
+b).- Por cada vehículo de ruta 11.900
+
+c).- Por cada vehículo cuya prestación este sujeta a contrato de arrendamiento puro 35.100
+
+d).- Por cada vehículo que preste servicio de materialista, carga y turismo 15.000
+
+e).- Por cada vehículo exclusivo funerario 16.200
+
+f).- Motocarro o motocicleta de carga, para servicio turístico o para arrendamiento 3.250
+
+IV.- Por dotación de placas de circulación:
+
+a).- Vehículos de servicio particular, incluyendo tarjeta de circulación y calcomanía de placas 11.900
+
+b).- Vehículos de servicio público incluyendo tarjetas de circulación y calcomanía de placas 12.400
+
+c).- Motocicletas, incluyendo tarjetas de circulación 1.600
+
+d).- Placas de demostración 40.500
+
+e).- Renovación anual de tarjeta de circulación y calcomanía de placas o su reposición 1.600
+
+f).- Renovación anual de tarjeta de circulación de motocicletas
+
+o su reposición 0.500
+
+g).-Remolques 9.700
+
+Los derechos consignados en los incisos a), b), c) y e), tratándose de canje por término del período de vigencia, así como los previstos en los incisos f), deberán pagarse durante los meses de enero a marzo.
+
+V.- Por expedición de constancias, por cada una 1.000
+
+VI.- Por la expedición de permisos provisionales:
+
+a).- Para manejar vehículos con vigencia de seis meses 1.600
+
+b).- Para circular sin placas con vigencia de 30 días 1.600
+
+###### Artículo 51.
+
+Por los servicios prestados en la Dirección General de Prevención y Readaptación Social.
+
+I.- Por la expedición de certificado de no antecedentes penales. 0.900
+
+###### Artículo 52.
+
+Por los servicios prestados en la Dirección del Registro Público de la Propiedad y el Comercio.
+
+Numero de días de salarios mínimos
+
+I.- Registro Publico de la Propiedad.
+
+a).- Examen de todo documento público o privado que se presente al Registro para su inscripción, cuando se rehuse éste por ser inscribible o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial 1.080
+
+b).- Por inscripción o registro de títulos, ya se trate de documentos públicos o privados, contratos de arrendamiento, resoluciones judiciales, administrativas, o de cualquier otra clase, por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o posesión de bienes inmuebles, sobre el valor más alto entre operación y traslado de dominio, se cobrará:
+
+1.- Cuando el valor sea menor de 3.814 días de salario mínimo 5.000
+
+2.- Cuando el valor esté entre los 3.815 y 4.964 días de salario mínimo 8.000
+
+3.- Cuando el valor esté entre los 4.965 y 6.116 días de salario mínimo 12.000
+
+4.- Cuando el valor base sea mayor a 6.116 días de salario mínimo, el 0.4% sin que el mínimo sea menor de 25.000
+
+5.- Cuando el valor no pueda precisarse 3.149
+
+6.- Por la inscripción de la escritura constitutiva al régimen de propiedad en condominio cuando en la escritura no se especifique valor, sino únicamente el número de departamentos, lotes, viviendas, casas o locales del inmueble, se pagará por cada de éstos
+
+Si en la escritura constitutiva se consigna valor se causará la tasa del 0.4% sobre dicho valor 3.779
+
+7.- Por cancelación 3.149
+
+c).- Por la inscripción de la escritura constitutiva del capital social o de los aumentos del mismo, se pagará la tasa del 0.4% sin que el mínimo sea menor de 5.000
+
+d).- La inscripción de cualquier modificación a la escritura constitutiva de Sociedades Civiles, exceptuando el aumento de capital social 3.149
+
+e).- La inscripción de las asociaciones de carácter civil, sobre el monto del capital inicial, el 0.4%
+
+Sin que el mínimo sea menor de 5.000
+
+Si no se fija capital 5.000
+
+f).- La inscripción de gravámenes sobre bienes inmuebles sea por contrato, por resolución judicial o por disposición testamentaria: de los títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan los derechos reales sobre inmuebles distintos a los de dominio del propietario, y de embargo, cédulas hipotecarias, servidumbres o fianzas, el 0.4% sobre el valor, si (sic) que el mínimo sea menor de 5.000
+
+g).- Por anotación de un segundo o ulterior testimonio de cualquier acto jurídico 3.149
+
+h).- La inscripción de títulos de propiedad de bienes o derechos que modifiquen, aclaren o disminuyan el capital o sólo sean consecuencia legal de contratos que causaren derechos de registro y que otorguen por las mismas partes que figuran en el primer título, sin aumentar el capital ni transferir derechos, así como ampliaciones de embargo 3.689
+
+i).- Si en el nuevo título a que se refiere el inciso anterior se aumenta el capital o se transfiere algún derecho, se aplicará la tasa del 0.4% sobre el importe del aumento, sin que sea menor, de 5.000
+
+j).- Las operaciones crediticias a que se refiere el Artículo 66 fracción I de la Ley de Instituciones de crédito, se cobrara, por una sola vez:
+
+1.- Cuando el monto de la operación sea hasta el equivalente a 3.814 días de salario mínimo 5.000
+
+2.- Cuando el valor de operación esté entre los 3.815 y 4.964 días de salario mínimo 8.000
+
+3.- Cuando el valor de la operación esté entre los 4.965 y 6.116 días de
+
+salario mínimo 12.000
+
+4.- Cuando el valor de la operación sea mayor al equivalente de 6.116 días de salario mínimo:
+
+4.1.- El 0.125% sobre el monto de la operación cuando se trate de créditos de habitación (sic)o avio, para fines agropecuarios
+
+4.2.- El 0.25% sobre el monto de la operación cuando se trate de créditos distintos a los señalados en el subpunto anterior
+
+k).- La anotación de demandas o cualquier documento judicial que exprese el valor, se aplicará la tasa 0.4% sobre dicho valor sin que el importe del derecho a pagar sea menor de 5.000
+
+l).- Las inscripciones de la Constitución del patrimonio de la familia y de las informaciones "Adperpetuam". Se pagará la tasa del 0.4% sobre el valor de la inscripción sin que el derecho sea menor de 5.000
+
+m).- La inscripción de testamentos y de constancias relativas a actuaciones de juicios sucesorios, independientemente de los derechos, depósitos y por la inscripción de las transmisiones a que haya lugar 2.069
+
+n).- Si se trata de bienes muebles, la inscripción de la condición resolutoria en los casos de venta, de pacto o de reserva de propiedad, de la prenda general, de la prenda de frutos pendientes de bienes raíces y de la prenda de títulos de crédito, la tasa del 0.2% del valor de la inscripción sin que el importe del derecho sea menor de 2.500
+
+ñ).- Por depósito de testamentos ológrafos:
+
+1.- Si se hace en las oficinas del Registro Público 2.069
+
+2.- Si se hace fuera de las oficinas del Registro Público en horas ordinarias 2.069
+
+3.- Si se hace fuera de las oficinas del Registro Público en horas extraordinarias 3.149
+
+o).- Por el depósito de cualquier documento 2.069
+
+La oficina del Registro Público de Propiedad devolverá al depositante los documentos que pretenda depositar, si dentro de los tres días siguientes a su presentación no hubiese cubierto los derechos respectivos
+
+p).- La inscripción de fraccionamientos de terrenos:
+
+1.- Por cada lote: Residencia y Campestre 2.069
+
+Industrial y Granja 0.900
+
+Popular 0.135
+
+2.- En las relotificaciones, por cada lote:
+
+Residencial y Campestre 1.080
+
+Industrial y Granja 0.360
+
+Popular 0.135
+
+Los derechos a que se refiere esta fracción se cobrarán también a los fundos legales que no hubieren cumplido con la manifestación respectiva. Por lo que hace a los fraccionamientos el registro se hará previa autorización de la dependencia a que corresponda y de acuerdo con la ley de la materia.
+
+q).- Ratificación de documentos y firmas ante al registrador 3.149
+
+r).- La búsqueda de constancias por la expedición de certificados o informes, por cada predio, por año 0.180
+
+s).- La expedición mecanográfica de certificaciones relativas a las constancias del registro, independientemente de la búsqueda:
+
+1.- Por la primera hoja 1.619
+
+2.- Por cada hoja más 0.540
+
+t).- La expedición de toda clase de constancias en copias fotostáticas certificada:
+
+1.- Por la primera hoja 1.080
+
+2.- Por cada hoja más 0.450
+
+u).- Por los informes que se rindan por escrito a solicitud de las autoridades cuando sea a costa del interesado, incluyendo la búsqueda 1.080
+
+v).- La cancelación del registro de sociedades civiles por extinción de las mismas, la tasa del 0.2% sobre el valor de la cancelación sin que el mínimo sea
+
+inferior a 2.500
+
+w).- La Cancelación de las inscripciones en los casos a que se refiere el inciso n) causará la tasa del 0.2% sobre el valor de la cancelación, sin que el importe del derecho sea inferior a 2.500
+
+x).- Búsqueda de informes y certificaciones:
+
+1.- De uno a diez años anteriores 2.069
+
+2.- De once a más años anteriores 2.609
+
+3.- Además de la cuota anterior, por cada gravamen o limitación de dominio 0.310
+
+4.- De no inscripción:
+
+4.1.- Cuando el valor de la propiedad sea hasta el equivalente a 6.116 días de salario mínimo 1.000
+
+4.2.- Cuando el valor de la propiedad sea mayor al equivalente a 6.116 días de
+
+salario mínimo 3.149
+
+y).- Impresión de informes a solicitud del interesado por hoja 1.080
+
+II.- Registro Público de Comercio:
+
+a).- Examen de todo documento público o privado que se presente al registro para su inscripción, cuando se rehuse éste por no procedente o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial 1.619
+
+b).- Inscripción de la escritura constitutiva de sociedades mercantiles o de las relativas a aumentos de capital social sobre el monto de capital social o de los aumentos, se pagará la tasa del 0.4%, si el mínimo sea inferior a
+
+En las sociedades de capital variable se tomará como base el capital inicial. Para las sucursales de las sociedades se tomará como base el capital asignado
+
+a ellas 5.000
+
+c).- Inscripción de las modificaciones a la escritura constitutiva de sociedades mercantiles, que no se refieran a aumento de capital social 3.689
+
+d).- Inscripción de actas de asambleas de socios o de junta
+
+de administradores 3.689
+
+e).- Depósito del programa a que se refiere el artículo 92 de la Ley General de Sociedades Mercantiles 2.609
+
+f).- Inscripción de actas de emisión de bonos y obligaciones de sociedades anónimas, se pagara el 0.6% del valor de la emisión sin que el mínimo sea inferior a 8.000
+
+g).- Inscripción de la disolución de sociedades mercantiles 3.689
+
+h).- Inscripción de la liquidación de sociedades mercantiles 3.689
+
+i).- Inscripción de la disolución y liquidación de sociedades mercantiles, cuando se lleve a efecto en un solo acto 5.398
+
+En los casos de este inciso y de los dos que lo anteceden si como consecuencia de la liquidación de la sociedad se adjudican bienes inmuebles, los derechos se causarán sobre el valor de los que se adjudiquen a los socios o a terceros aplicando la tasa del 0.4% sin que el mínimo (sic) inferior a 5.000
+
+j).- Cancelación de la inscripción del contrato de sociedad 2.609
+
+k).- Inscripción de poderes y sustitución de los mismos:
+
+1.- Si se designa un solo apoderado 3.689
+
+2.- Por cada apoderado más que se designe en el mismo poder 1.080
+
+3.- Por cada poderdante, cuando aparezca en los poderes más de uno 1.080
+
+El otorgamiento de poderes a los administradores o gerentes de sociedades mercantiles en las escrituras constitutivas o modificatorias no causarán las cuotas de esta fracción
+
+l).- Inscripción o renovación de poderes, por cada apoderado 1.080
+
+m).- Inscripciones relativas a: habilitación de edad, licencias y emancipación para ejercer el comercio. La renovación de unos y otros y las escrituras a que se refieren las fracciones X y XI del artículo 21 del Código de Comercio 1.80
+
+n).- Inscripción de contratos mercantiles de cualquier clase enumerados en el artículo 75 del Código de Comercio, sobre el valor, 1.5%
+
+ñ).- Por inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial 2.609
+
+o).- Depósito y guarda de cualquier documento 1.080
+
+p).- Ratificación de documentos y firmas ante el registrador 3.149
+
+Tratándose de planos, causarán las siguientes tarifas:
+
+1.- En fotostáticas hasta tamaño oficio 0.540
+
+2.- Hasta cuatro veces el tamaño oficio 0.765
+
+3.- Mayores de estos 1.080
+
+q).- Constancias a que se refieren las disposiciones sobre asentamientos, por cada una 1.080
+
+r).- La expedición de toda clase de constancias en copia fotostática certificada:
+
+1.- Por la primera hoja 1.080
+
+2.- Por cada hoja más 0.135
+
+s).- Expedición de certificaciones relativas a constancias del Registro:
+
+1.- Por la primera hoja 1.080
+
+2.- Por cada hoja más 0.135
+
+t).- Impresión de informes a solicitud del interesado por hoja 1.080
+
+### CAPITULO VIII. Otros Derechos
+
+###### Artículo 53.
+
+Por los servicios prestados en la Dirección de Ingresos:
+
+Numero de días de
+
+salario mínimo
+
+I.- Certificaciones y constancias, cuando para su expedición no se requiera búsqueda en los archivos 1.000
+
+II.- Certificaciones y constancias, cuando para su expedición se requiera búsqueda en los archivos 2.000
+
+III.- Estacionamiento Constitución, por el derecho de uso:
+
+a).- Por la primera hora 0.180
+
+b).- Por cada hora adicional 0.090
+
+c).- Pensión mensual de vehículos, por cada uno y por mes calendario adelantado 13.500
+
+d).- Pensión mensual, de motocicletas, por cada una y por mes de calendario adelantado 4.500
+
+###### Artículo 54.
+
+Por los servicios prestados en la Dirección de Catastro:
+
+Numero de días de
+
+salarios mínimos
+
+I.- Copias heliográficas y fotostáticas:
+
+a).- Copia certificada en heliográfica o fotostática de planos generales de:
+
+1.- COLIMA-VILLA DE ALVAREZ 4.050
+
+2.- COLIMA-VILLA DE ALVAREZ REDUCCION 2.700
+
+3.- MANZANILLO 5.850
+
+4.- MANZANILLO REDUCCION 3.600
+
+5.- OTRAS POBLACIONES 2.250
+
+b).- Copia fotostática certificada de un predio con acotaciones 1.350
+
+c).- Copia heliográfica certificada de plano manzanero 3.600
+
+d).- Servicio de copias a Dependencias Oficiales o particulares de planos no catastrales:
+
+1.- Si no proporciona papel heliográfico, por m2 1.080
+
+2.- Si proporciona papel heliográfico, por m2 0.450
+
+II.- Certificaciones:
+
+a).- Certificaciones de documentos catastrales a solicitud del interesado 1.800
+
+b).- Certificación catastral de un predio para tramitar juicio a favor del poseedor 9.000
+
+c).- Constancia certificada de inscripción o no en los registros catastrales 0.900
+
+III.- Avalúos asignación de claves y mediciones:
+
+a).- Por avalúo o rectificación de avalúo de predio urbano a solicitud del interesado:
+
+1.- Hasta un valor catastral equivalente a 3.814 días de salario mínimo 2.000
+
+2.- Cuando el valor catastral esté entre 3.815 y 4.964 días de salario mínimo 2.500
+
+3.- Cuando el valor catastral esté entre 4.965 y 6.616 días de salario mínimo 3.500
+
+4.- Más de un valor catastral equivalente a 6.616 días de salario mínimo, se pagará sobre dicho valor, el 0.1%
+
+b).- Por avalúo o rectificación de avalúo de predio rústico que se practique sobre plano levantado y firmado por el perito responsable incluyendo clasificación de suelo; a solicitud del interesado:
+
+1.- Hasta un valor catastral equivalente a 3.814 días de salario mínimo 2.000
+
+2.- Cuando el valor catastral este entre 3.815 y 4964 días de salario mínimo 2.500
+
+3.- Cuando el valor catastral esté entre los 4.965 y 6.116 días de salario mínimo 3.500
+
+4.- Más de un valor catastral equivalente a 6.116 días de salario mínimo, se pagará sobre dicho valor, el 0.1%
+
+c).- Por asignación de claves catastrales urbanas en nuevos fraccionamientos se cubrirá el siguiente derecho:
+
+1.- Popular:
+
+Por fraccionamiento 9.000
+
+Más Por lote 0.090
+
+2.- Granjas:
+
+Por fraccionamiento 11.250
+
+Más Por lote 0.270
+
+3.- Industrial:
+
+Por fraccionamiento 11.250
+
+Más Por lote 0.270
+
+4.- Residencial Campestre:
+
+Por fraccionamiento 13.000
+
+Más Por lote 0.450
+
+5.- Residencial:
+
+Por fraccionamiento 15.760
+
+Más Por lote 0.180
+
+d).- Por asignación de claves catastrales en lotificación urbana de un fraccionamiento por motivo de modificación de su área registrada en catastro, se cubrirá el siguiente derecho:
+
+1.- Popular:
+
+Por fraccionamiento 9.000
+
+Más Por lote 0.090
+
+2.- Granjas:
+
+Por fraccionamiento 11.250
+
+Más Por lote 0.270
+
+3.- Industrial:
+
+Por fraccionamiento 11.250
+
+Más Por lote 0.270
+
+4.- Residencial campestre:
+
+Por fraccionamiento 13.000
+
+Más Por lote 0.450
+
+5.- Residencial:
+
+Por fraccionamiento 15.760
+
+Más por lote 0.180
+
+e).- Cuando por motivo de una solicitud de rectificación o medición de un predio, sea necesario el traslado del personal técnico para la verificación física respectiva, se cubrirá previamente el siguiente derecho:
+
+1.- En la ciudad de las oficinas catastrales 1.800
+
+2.- Fuera de la ciudad de oficinas centrales 1.800
+
+Más, por cada kilometro recorrido 0.090
+
+IV.- Fusiones, subdivisiones, cesiones y registros:
+
+a).- Por la fusión o subdivisión de predios, cuando el valor catastral de los predios fusionados o subdivididos sea de:
+
+1.- Hasta un valor catastral equivalente a 2.250 días de salario mínimo 2.250
+
+2.- Más de un valor catastral equivalente a 2.250 días de salario mínimo, se pagará sobre dicho valor el 0.1%
+
+b).- Registro de cesión de derechos de predios registrados catastralmente sólo para el pago de impuesto predial 2.250
+
+c).- Por el registro de actas o avisos notariales en los que se constituya o modifique el régimen de propiedad en condominio:
+
+Por cada lote, departamento, finca o local, se cobrara 1.800
+
+d).- Por inscripción o registro de títulos documentos públicos o privados, en virtud de los cuales se adquiera, transmita, modifique o extinga el dominio o posesión de bienes inmuebles o modifiquen los registros catastrales:
+
+1.- Cuando el valor del inmueble sea hasta el equivalente a 6.116 días de salario mínimo, se cubrirá un derecho de 1.000
+
+2.- Cuando el valor del inmueble sea mayor al equivalente de 6.116 días de salario mínimo 2.700
+
+e).- Por la búsqueda de todo informe relacionado con los predios catastrales registrados, a solicitud de los interesados se cubrirá por el derecho a que se le proporcione dicho servicio, la cantidad por predio de 1.800
+
+### CAPITULO UNICO
+
+###### Artículo 55.
+
+Por los servicios prestados en la Dirección General de Desarrollo Urbano y Obras Publicas.
+
+Numero de días de salario mínimo
+
+I.- Por la autorización de fraccionamientos se pagara:
+
+1.- Habitación popular 50.000
+
+más, por cada lote vendible 1.000
+
+2.- Granjas 85.000
+
+más, por cada lote vendible 2.000
+
+3.- Industrial 110.000
+
+más por cada lote vendible 1.500
+
+4.- Residencial campestre 335.000
+
+más por cada lote vendible 11.000
+
+5.- Residencial 260.000
+
+más por cada lote vendible 10.000
+
+6.- Habitación tipo medio 155.000
+
+más, por cada lote vendible 5.500
+
+II.- Por supervisión para la autorización de los trabajos técnicos (revisión de redes de agua potable alcantarillado compactaciones en arroyos, de calles y banquetas, etc.) en cualquier clasificación de fraccionamientos, se pagará 105.000
+
+más, por cada lote vendible 1.000
+
+III.- Por la autorización para la modificación de fraccionamientos se pagará:
+
+1.- Popular 15.000
+
+más, por cada lote modificado 1.000
+
+2.- Granjas 20.000
+
+más, por cada lote modificado 1.000
+
+3.- Industrial 20.000
+
+más por cada lote modificado 1.500
+
+4.- Residencial campestre 80.000
+
+más por cada lote modificado 2.500
+
+5.- Residencial 65.000
+
+más por cada lote modificado 2.000
+
+IV.- Por la autorización de sub-división de inmuebles, se pagará:
+
+1.- Popular 2.000
+
+más por cada parte en la que se subdivida el inmueble 1.000
+
+2.- Media 4.000
+
+más por cada parte en la que se subdivida el inmueble 2.000
+
+3.- Comercio 12.000
+
+más por cada parte en la que se subdivida el inmueble 6.000
+
+4.- Residencial 9.000
+
+más por cada parte en la que se subdivida el inmueble 4.500
+
+5.- Industrial 16.000
+
+más por cada parte en la que se subdivida el inmueble 8.000
+
+V.- Por la autorización para la constitución de condominios se pagará:
+
+1.- Popular 30.00
+
+más, por cada condominio o parte en que se integre el condominio 3.000
+
+2.- Medio 70.000
+
+más, por cada condominio o parte en que se integre el condominio 7.000
+
+3.- Industrial 60.000
+
+más, por cada condominio o parte en que se integre el condominio 6.000
+
+4.- Turístico 450.000
+
+más, por cada condominio o parte en que se integre el condominio 45.000
+
+5.- Residencial 180.000
+
+más, por cada condominio o parte en que se integre el condominio 18.000
+
+6.- Comercial 350.000
+
+más, por cada condominio o parte en que se integre el condominio 35.000
+
+### CAPITULO UNICO
+
+### CAPITULO UNICO
+
+###### Artículo 56.
+
+Por los servicios prestados en la Dirección General de Fomento Agropecuario:
+
+I.- Manutención por cada cabeza de ganado recogido en la vía pública, cada día o fracción que permanezca en los lugares públicos destinados a su encierro. 1.000
+
+### CAPITULO UNICO
+
+###### Artículo 57.
+
+Por los servicios prestados en la Dirección General de Educación Pública se pagarán los derechos siguientes:
+
+Numero de días de salario mínimo
+
+I.- Expedición de títulos 9.900
+
+II.- Expedición de certificados de estudio para dentro y fuera del Estado 0.860
+
+III.- Expedición de certificados originales y duplicados de academias incorporadas a la educación oficial del Estado 1.620
+
+IV.- Expedición de constancias 1.670
+
+V.- Por incorporación:
+
+a).- Preescolar y primaria 35.990
+
+b).- Secundaria 44.990
+
+c).- Academias comerciales, contador privado, secretaria ejecutiva, taquígrafa e idiomas 40.490
+
+d).- Academias de belleza, corte y confección de ropa y alta costura 31.490
+
+e).- Institutos de computación 58.480
+
+f).- Bachillerato 62.980
+
+g).- Licenciatura 71.980
+
+VI.- Por reincorporación (anual):
+
+a).- Licenciatura 71.980
+
+b).- Bachillerato y equivalente 67.480
+
+c).- Secundaria y equivalente 62.980
+
+d).- Primaria 58.480
+
+e).- Preescolar 53.990
+
+###### Artículo 58.
+
+Por los servicios prestados en el Instituto Superior de Educación Normal del Estado de Colima "PROFR. GREGORIO TORRRES (SIC) QUINTERO", se pagarán los siguientes derechos:
+
+Numero de días de salario mínimo
+
+I.- Por el derecho a examen de admisión:
+
+a).- Bachillerato 2.700
+
+b).- Licenciatura 3.599
+
+II.- Por inscripción:
+
+a).- Bachillerato 6.748
+
+b).- Licenciatura 8.097
+
+III.- Por exámenes de regularización:
+
+a).- Bachillerato:
+
+1.- Primera oportunidad 1.350
+
+2.- Segunda oportunidad 1.799
+
+b).- Licenciatura:
+
+1.- Primera oportunidad 1.799
+
+2.- Segunda oportunidad 2.249
+
+IV.- Por expedición de duplicados de certificados de estudios 0.900
+
+V.- Por expedición de constancias de estudio 0.450
+
+VI.- Por trámites de baja 0.450
+
+VII.- Por exámenes profesionales 17.994
+
+###### Artículo 59.
+
+Por el acceso a las unidades deportivas y uso de sus instalaciones, así como del Estadio Colima, se causarán los siguientes derechos:
+
+Numero de días de salario mínimo
+
+UNIDADES DEPORTIVAS
+
+I.- Entrada general 0.045
+
+II.- Cancha de frontenis, por persona 0.090
+
+III.- Cancha de voleibol y basquetbol con iluminación artificial, por hora 0.360
+
+IV.- Alberca, por niño 0.045
+
+V.- Alberca, por adulto 0.180
+
+VI.- Cancha de tenis, por hora y por persona adulta 0.225
+
+VII.- Cancha de tenis, por hora con iluminación artificial y por persona adulta 0.360
+
+VIII.- Cancha de Squash, con iluminación artificial por persona adulta 0.360
+
+IX.- Cancha de squash, por hora y por persona adulta 0.225
+
+X.- Campo de futbol, por partido con iluminación artificial 3.599
+
+XI.- Campo de futbol, por partido sin iluminación artificial 0.900
+
+XII.- Campo de beisbol, sin iluminación artificial, por partido 0.900
+
+XIII.- Tenis de mesa, por hora y por persona 0.090
+
+XIV.- Auditorio, por partido de voleibol y basquetbol 2.699
+
+XV.- Gimnasio de fisicoculturismo, por mes por persona 1.799
+
+XVI.- Gimnasio de fisicoculturismo, por día por persona 0.135
+
+XVII.- Baños de vapor, por mes por persona 1.799
+
+XVIII.- Baños de vapor, por día por persona 0.135
+
+ESTADIO COLIMA
+
+XIX.- Campo de futbol, por partido 1.799
+
+En el caso de las fracciones, VI, VII y IX, se cobrará a los menores un 50% de las cuotas establecidas.
+
+###### Artículo 60.
+
+Por el acceso y uso de las instalaciones del Parque Regional Metropolitano "GRISELDA ALVAREZ", se pagarán los siguientes derechos:
+
+Numero de días de salario mínimo
+
+I.- Alberca, por niño 0.135
+
+II.- Alberca, por adulto 0.180
+
+III.- Uso de lanchas:
+
+a).- Grandes, por hora 0.225
+
+b).- Chicas, por hora 0.180
+
+IV.- Ingreso a zona de bosque 0.045
+
+V.- Educación vial 0.090
+
+### CAPITULO UNICO
+
+###### Artículo 61.
+
+En la Dirección de Regulación Sanitaria se pagarán los derechos por los servicios que proporcionen las autoridades competentes de acuerdo con la Ley Estatal de Salud y su Reglamento, de conformidad a la siguiente tarifa:
+
+Numero de días de salario mínimo
+
+I.- Por la autorización de planos:
+
+a).- Popular y medio, por m2 0.032
+
+b).- Residencia, comercial, industrial y otros, por m2 0.054
+
+II.- Por verificación y vigilancia:
+
+a).- Cabarets, centros nocturnos, salones de baile, discotecas y similares, por visita programada, de acuerdo al riesgo y catálogo de giros vigente 16.195
+
+b).- Bares, cantinas, cervecerías, centros botaneros y similares, por visita programada, de acuerdo al riesgo y catálogo de giros vigente 16.195
+
+c).- Hoteles, moteles, departamentos amueblados y similares por visita programada, de acuerdo al riesgo y catálogo de giros vigente 16.195
+
+III.- Programa de "AGUA LIMPIA" en establecimientos:
+
+asesoría técnica, tratamiento y potabilización de algibes, tinacos y otros depósitos de agua, por m3 de agua 0.450
+
+IV.- Por concepto de análisis por muestra:
+
+a).- Procedente de verificación sanitaria a establecimientos:
+
+1.- Análisis microbiológicos 3.239
+
+2.- Análisis fisicoquímicos 6.300
+
+b).- Por asesoría técnica con toma de 2 a 4 muestras con análisis microbiológico 12.960
+
+c).- En caso de requerir análisis microbiológico de un mayor número de muestras, se ajustará a lo dispuesto en el punto 1 del inciso a) de esta fracción. El punto 2 del inciso a) de esta fracción, invariablemente tendrá el mismo costo por cada muestra a la que se practique análisis fisicoquímico.
+
+V.- Por fotocopiado de documentos de normatividad técnica:
+
+a).- Tamaño carta, cada copia 0.018
+
+b).- Tamaño oficio, cada copia 0.027
+
+###### Artículo 62.
+
+En la Dirección de Servicios Médicos, se pagarán los derechos por los servicios que proporcionan los hospitales y centros de salud, de conformidad con la siguiente tarifa:
+
+Numero de días
+
+de salario mínimo
+
+MINIMA MEDIA ALTA
+
+1000 CONSULTA EXTERNA
+
+1001 CONSULTA GENERAL 0.390 0.580 0.900
+
+1002 CONSULTA URGENCIA E X E N T O
+
+1003 CONSULTA DE ESPECIALIDAD 0.460 0.690 0.990
+
+1004 HIDRATACION DE MENORES E X E N T O
+
+1005 OBSERVACION DE 2-12 HORAS 1.190 1.800 2.700
+
+1006 OBSERVACION DE 12-23 HORAS 1.800 2.700 4.050
+
+1007 HIDRATACION ORAL A
+
+MENORES E X E N T O
+
+2000 CIRUGIA MENOR
+
+2001 DIA EN CAMA EN
+
+CUALQUIER SERVICIO 3.600 5.370 8.040
+
+2002 DIA INCUBADORA 3.000 4.500 6.740
+
+2003 CIRCUNCISIÓN MENORES
+
+DE UN AÑO 3.200 6.490 9.780
+
+2004 CIRCUNCISION MAYORES
+
+DE UN AÑO 3.200 6.490 9.780
+
+2005 CURACION GENERAL 0.670 1.020 1.530
+
+2006 EXTRACCION DE QUISTES
+
+SUPERFICIALES 0.670 1.020 1.530
+
+2007 EXTRACCION DE CUERPOS
+
+EXTRAÑOS 0.670 1.020 1.530
+
+2008 EXTRACCION DE UÑAS,
+
+CADA UNA 0.670 1.020 1.530
+
+2009 SUTURAS 1.260 1.890 2.830
+
+2010 EXTIRPACION DE TUMORES
+
+SUPERFICIALES 3.200 6.490 9.780
+
+2011 EXTIRPACION DE TUMORES
+
+Y QUISTES PROFUNDOS 3.200 6.490 9.780
+
+2012 QUISTE PILONIDAL 3.200 6.490 9.780
+
+3000 SALUD DENTAL
+
+3001 ATENCION POR CUADRANTES 0.910 1.370 2.050
+
+3002 CONSULTA 0.390 0.580 0.870
+
+3003 RECUBRIMIENTOS PULPARES 0.620 0.930 1.390
+
+3005 CURACION 0.240 0.360 0.540
+
+3007 APLICACIÓN DE FLUOR E X E N T O
+
+3008 RADIOGRAFIA DENTAL 0.670 1.010 1.520
+
+3009 SUTURAS 0.270 0.400 0.610
+
+3010 PROFILAXIS 0.720 1.080 1.620
+
+3011 DRENAJE DE ABSCESO EN
+
+CONSULTA EXTERNA 0.450 0.900 1.350
+
+3012 PULPOTOMIA 0.810 1.210 1.820
+
+3100 OBTURACIONES.
+
+3101 CON AMALGAMA DE PLATA 0.980 1.470 2.220
+
+3102 CON RESINA COMPUESTA 1.160 1.740 2.620
+
+3103 I.R.M. 0.580 0.880 1.310
+
+3104 SILICATO 0.880 1.310 1.970
+
+3105 RESTAURANCION CON
+
+CORONA DE CELULOIDE 1.250 1.880 2.820
+
+3200 EXTRACCIONES DENTALES.
+
+3201 EXTRACIONES
+
+SIMPLES (POR PIEZA) 0.710 1.070 1.600
+
+3205 EXTRACCIONES MULTIPLES
+
+BAJO ANESTESIA GENERAL 1-10
+
+PIEZAS 1.440 2.160 3.250
+
+3300 CIRUGIA.
+
+3301 GINGIVECTOMIA (PAQUETE) 1.490 2.230 3.350
+
+3305 EXTIRPACION TUMORES
+
+O QUISTES (PAQ.) 1.710 2.560 3.840
+
+3306 REDUCCION E INMOVILIZACION
+
+DE FRACTURAS DENTO
+
+ALVEOLARES 1.350 2.020 3.040
+
+3307 PARADONCIA 1.620 2.430 3.640
+
+3308 SUTURA DE TEJIDOS
+
+BLANCOS 0.310 0.470 0.710
+
+4000 SALUD MENTAL.
+
+4001 PRUEBAS DE PERSONALIDAD 0.490 0.970 1.460
+
+4002 PRUEBAS VOCACIONALES 0.490 0.970 1.460
+
+4003 TERAPIA CONYUGAL 0.320 0.650 0.970
+
+4004 TERAPIA DE GRUPO 0.220 0.400 0.650
+
+4005 TERAPIA FAMILIAR 0.220 0.400 0.650
+
+4006 TERAPIA INDIVIDUAL 0.220 0.400 0.650
+
+4007 CONSULTA LA PRIMERA VEZ 0.130 0.270 0.400
+
+4008 CONSULTA SUBSECUENTE 0.130 0.270 0.400
+
+4009 DIA CAMA PABELLON
+
+PSIQUIATRICO 3.570 5.360 8.040
+
+4010 PAQUETE PRUEBAS
+
+PSICOM (MAS DE 5 PERSONAS) C/U 0.810 1.620 2.430
+
+5000 DERMATOLOGIA.
+
+5001 BIOPSIA 0.670 1.020 1.520
+
+5002 ELECTRODESECACIÓN 0.670 1.020 1.520
+
+5003 ELECTROFULGURACION 0.670 1.020 1.520
+
+5004 EXTIRPACION DE VERRUGAS 3.200 6.490 9.780
+
+5005 EXTIRPACION DE LUNARES 3.200 6.490 9.780
+
+6000 NEUMOLOGIA.
+
+6001 LARINGOSCOPIA DIRECTA
+
+E INDIRECTA 3.200 4.790 7.190
+
+7000 NEUROLOGIA Y NEUROCIRUGIA.
+
+7001 PUNCION LUMBAR 0.540 1.080 1.620
+
+7002 CRANOTOMIA 22.300 30.350 38.390
+
+7003 CRENIECTOMIA 22.300 30.350 38.390
+
+7004 MENINGOPLASTIA 22.300 30.350 38.390
+
+7005 COLOCACION DE
+
+VALVULA PUDENS (CON SONDA) 22.300 30.350 38.390
+
+7006 ABORDAJE DE COLUMNA
+
+CERVICAL VIA ANT 2.230 3.350 5.020
+
+8000 GINECO OBSTETRICIA.
+
+8001 PARTO (PAQUETE) 6.650 9.970 14.960
+
+8002 CESAREA (PAQUETE) 14.870 20.220 25.580
+
+8003 LEGRADO (PAQUETE) 3.200 6.470 9.780
+
+8004 HISTERECTOMIA (PAQUETE) 14.910 20.220 25,580
+
+8005 BARTHOLINECTOMIA
+
+(PAQUETE) 3.200 7.370 9.780
+
+8006 CONIFICACION (PAQUETE) 3.200 6.470 9.780
+
+8007 RESECCION ALTA O BAJA
+
+DEL CERVIX (PAQUETE) 10.580 16.430 22.270
+
+8008 DEBRIDACION DE
+
+ABSCESO MAMARIO (PAQUETE) 3.200 6.470 9.780
+
+8009 CIRUGIA POR CORRECCION
+
+ESTETICA PELVICA.(PAQUETE) 10.580 16.430 22.270
+
+8010 RESECCION QUISTES Y
+
+TUMORES BENIGNOS (PAQUETE) 3.200 6.470 9.780
+
+8011 DRENAJE FONDO DE
+
+SACO (PAQUETE) 3.200 6.470 9.780
+
+8012 REPARACION FISTULAS VESICO
+
+VAGINAL O RECTAL (PAQUETE) 14.870 20.220 25.590
+
+8013 EXERESIS MODULO
+
+MAMARIO (PAQUETE) 3.200 6.470 9.780
+
+8014 EXTIRPACION
+
+POLIPO CERVICAL (PAQUETE) 10.580 16.430 22.270
+
+8015 LAPAROSCOPIA (PAQUETE) 14.870 20.220 25.590
+
+8016 SALPINGO FARECTOMIA
+
+(PAQUETE) E X E N T O
+
+8018 EMBARAZO EXTRAUTERINO
+
+(PAQUETE) 14.870 20.220 25.590
+
+8019 PARTO DISTOCICO 10.580 16.430 22.270
+
+8020 EXTIRPACION DE
+
+QUISTE OVARIO 10.580 16.430 22.270
+
+9000 CIRUGIA GENERAL.
+
+9002 TIROIDECTOMIA (PAQUETE) 22.310 33.040 38.390
+
+9003 COLECISTECTOMIA SIMPLE
+
+(PAQUETE) 14.870 20.230 25.590
+
+9004 COLECISTECTOMIA CON
+
+EXPLORACION DE VIAS BILIARES 14.870 20.230 25.590
+
+9005 GASTRECTOMIA (PAQUETE) 14.870 20.230 20.200
+
+9006 HERNIOPLASTIA INGUINAL Y DE
+
+PARED ABDOMINAL (PAQUETE) 10.580 16.430 22.270
+
+9007 MASTECTOMIA (PAQUETE) 14.870 20.230 25.590
+
+9008 RESECCION INTESTINAL
+
+(PAQUETE) 14.870 20.230 25.590
+
+9009 HERNIAS DIAFRAGMATICAS
+
+(PAQUETE) 14.870 20.230 25.590
+
+9010 LAPARATOMIA EXPLORATORIA
+
+(PAQUETE) 14.870 20.230 25.590
+
+9011 APENDICECTOMIA (PAQUETE) 10.580 16.430 22.270
+
+9012 ORQUEDECTOMIA SIMPLE
+
+(PAQUETE) 14.870 20.230 25.590
+
+9013 TORACOTOMIA EXPLORATIVA
+
+(PAQUETE) 14.870 20.230 25.590
+
+9014 COLOSTOMIA (PAQUETE) 14.870 20.230 25.590
+
+9015 SAFENECTOMIA (PAQUETE) 10.580 16.430 22.270
+
+9018 EXPLENECTOMIA (PAQUETE) 14.870 20.230 25.590
+
+9019 LILTOTOMIA 10.580 16.430 22.270
+
+9020 EVENTRACION
+
+POSTQUIRURGICA 10.580 16.430 22.270
+
+10000 CIRUGIA URGENCIAS.
+
+10004 SELLO DE AGUA (PAQUETE) 10.580 16.430 22.270
+
+10005 TRAQUEOSTOMIA (PAQUETE) 10.580 16.430 22.270
+
+10006 APLICACIÓN MARCAPASO
+
+TEMPORAL 10.580 16.430 22.270
+
+11000 CIRUGIA PLASTICA Y RECONSTRUCTIVA.
+
+11001 PLASTIA DE CICATRICES
+
+(PAQUETE) 3.200 6.470 9.780
+
+11002 COLGAJOS INJERTOS
+
+(PAQUETE) 3.200 6.470 9.780
+
+11005 RINOPLASTIA (PAQUETE) 22.300 30.350 38.390
+
+11007 LABIO LEPORINO Y
+
+PALADAR HENDIDO (PAQUETE) E X E N T O
+
+11008 BLEFAROPLASTIA
+
+(PAQUETE) 22.300 30.350 38.390
+
+11009 CIRUGIA MAXILO FACIAL
+
+(PAQUETE) 22.300 30.350 38.390
+
+11010 TENDINORRAFIA (PAQUETE) 3.200 6.470 9.780
+
+11013 FACIOTOMIA 3.200 6.470 9.780
+
+11014 PROGNATISMO 14.870 20.230 25.590
+
+11015 NEURORRAFIAS 10.580 16.430 22.270
+
+12000 OFTALMOLOGIA.
+
+12001 CATARATAS 10.580 16.430 22.270
+
+12002 ESTRABISMO 10.580 16.430 22.270
+
+12003 PTERIGON Y PINGUECULA 10.580 16.430 22.270
+
+12004 CHALAZION 3.200 6.470 9.780
+
+12005 DACRIOSCISTECTOMIA 10.580 16.430 22.270
+
+12006 ENTROPION Y EXTROPION 10.580 16.430 22.270
+
+12007 EXTRACCION
+
+CUERPOS EXTRAÑOS 3.200 6.470 9.780
+
+12008 GLAUCOMA 14.870 20.230 25.590
+
+12009 GRADUACION LENTES 0.460 0.690 1.040
+
+12010 SONDEO 0.670 1.020 1.520
+
+14000 OTORRINOLARINGOLOGIA, OTOLOGIA.
+
+14005 PARESENTESIS DE TIMPANO 3.200 6.470 9.780
+
+14006 COLOCACION DE TUBO
+
+DE VENTIL 3.200 6.470 9.780
+
+14007 TIMPANOTOMIA
+
+EXPLORADORA 10.580 16.430 22.270
+
+14008 MIRINGOPLASTIA 10.580 16.430 22.270
+
+14009 TIMPANOPLASTIA 10.580 16.430 22.270
+
+14010 MASTOIDECTOMIA SIMPLE 10.580 16.430 22.270
+
+14011 MASTOIDECTOMIA CON
+
+TIMPANOPLASTIA 14.870 20.230 25.590
+
+14012 TRAT.QUIRURG.
+
+PARALIS. FACIAL 14.870 20.230 25.590
+
+14013 MASTOIDECTOMIA RADICAL 14.870 20.230 25.590
+
+14016 TRAT. QUIRURG.
+
+TUMORES M. DE OIDOS 10.580 16.430 22.270
+
+14017 TRATAM. QUIRURG.
+
+TUMORES B. DE OIDOS 10.580 16.430 22.270
+
+14018 TRAT. QUIR. ABSCESO
+
+OTOGENO ENDOCRANEANO 22.300 30.350 38.390
+
+14019 TRAT. QUIR. ESTENOSIS
+
+DEL COND. AUDITIVO EXT. 10.580 16.430 22.270
+
+14020 OTOPLASTIA 10.580 16.430 22.270
+
+14024 DEBRIDACION DE
+
+HEMATOMA Y/O ABSCESO SEP. NA. 3.200 6.470 9.780
+
+14025 TRATAM. QUIRURG.
+
+DE SEQUIAS 10.580 16.430 22.270
+
+14026 TRATAMIENTO
+
+FRACTURA NASAL 10.580 16.430 22.270
+
+14027 TRATAM. QUIRURG.
+
+ATRESIA COANAL 14.870 20.230 25.590
+
+14028 CORRECCION
+
+QUIRURGICO SEPTUM NASAL 22.300 30.350 38.390
+
+14031 TRATAM. QUIRURG.
+
+PERFORACIONES DEN 10.580 16.430 22.270
+
+14032 EXT. TUMORES
+
+BENINGNOS FOSASNASALES 10.580 16.430 22.270
+
+14033 TRAT. QUIRURG.
+
+ANGIOFIBROMA NASF. 14.870 20.230 25.590
+
+14034 TRAT. QUIRURG.
+
+SINUSITIS FRONT. Y/O ET. 10.580 16.430 22.270
+
+14035 TRATAM. QUIRURG.
+
+SINUSITIS MAXILAR CALDWELL 10.580 16.430 22.270
+
+14037 MAXILECTOMIA 14.870 20.230 25.590
+
+14038 AMIGDALECTOMIA
+
+CON A SIN ADENODECTOMIA 10.580 16.430 22.270
+
+14039 DEBRIDACION ABSCESOS
+
+FARINGOAMIGDALINOS 10.580 16.430 22.270
+
+14040 TRATAMIENTO
+
+QUIRURG. DE RANULA 10.580 16.430 22.270
+
+14041 EXTIRPACION
+
+GLANDULA SUBMAXILAR 10.580 16.430 22.270
+
+14042 OCLUSION FISTULA
+
+OROANTRAL 10.580 16.430 22.270
+
+14050 TRAT- QUIR. REMANENT.
+
+EMBRIONARIOS DEL C.U. 10.580 16.430 22.270
+
+15000 UROLOGIA.
+
+15001 NEFRECTOMIA 14.870 20.230 25.590
+
+15002 PIELILOTOMIA 14.870 20.230 25.590
+
+15003 CISTOSTOMIA 14.870 20.230 25.590
+
+15004 PROSTATECTOMIA 14.870 20.230 25.590
+
+15005 CORREC. REFLUJO
+
+VESICO URETRAL 14.870 20.230 25.590
+
+15006 DILATACION URETRAL 3.200 6.470 9.780
+
+15007 PUNCION DE ABSCESO
+
+PROSTATICO 10.580 16.430 22.270
+
+15009 MEATOTOMIAS 3.200 6.470 9.780
+
+15014 EXTIRPACION TUMORES
+
+RETROPERATINEALES 14.870 20.230 25.590
+
+15015 EXTIRPACION
+
+TUMORES RENALES 14.870 20.230 25.590
+
+15016 BIOPSIA RENAL
+
+PERCUTANEA 10.580 16.430 22.280
+
+16100 ORTOPEDIA.
+
+16101 FRACTURA SIMPLE
+
+(PAQUETE) 3.200 6.470 9.780
+
+16102 REDUC. QUIRURGICA DE
+
+FRACTURA (PAQUETE) 10.580 16.430 22.270
+
+16106 OSTEOSINTESIS CON
+
+TORNILLO DE VITALIUM (PAQUETE) 10.580 16.430 22.270
+
+16107 TRATAMIENTO LUXACION DE HOMBRO, CODO, DEDO,
+
+CADERA O RODILLA. (PAQUETE) 10.580 16.430 22.270
+
+16008 REDUCCION QUIRURGICA
+
+DE LUXACION DE HOMBRO, CODO,
+
+DEDO CADERA O RODILLA 10.580 16.430 22.270
+
+16084 TRACCION ESQUELETICA
+
+(PAQUETE) 3.200 6.470 9.780
+
+16100 ORTOPEDIA, AMPUTACION O DESARTICULACION.
+
+16101 BRAZO 10.580 16.430 22.270
+
+16102 ANTEBRAZO 10.580 16.430 22.270
+
+16103 MUSLO 14.870 20.230 25.590
+
+16104 PIERNA 10.580 16.430 22.270
+
+16105 MANO 10.580 16.430 22.270
+
+16106 PIE 10.580 16.430 22.270
+
+16107 DEDO 3.200 6.470 9.780
+
+16108 ORTEJO 3.200 6.470 9.780
+
+16200 ARTRODESIS.
+
+16201 HOMBRO 14.870 20.230 25.590
+
+16202 COLUMNA 22.300 30.350 38.390
+
+16203 CADERA 14.870 20.230 25.590
+
+16300 FRACTURA DE CADERA.
+
+16301 ARTROPLASTIA TOTAL 22.300 30.350 38.390
+
+16302 ARTROPLASTIA PARCIAL 14.870 20.230 25.590
+
+16303 OSTEOSINTESIS 14.870 20.230 25.590
+
+16304 ELONGACION 10.580 16.430 22.270
+
+16305 EXTIRPACION DISCAL 22.300 30.350 38.390
+
+16306 LAMINECTOMIA 22.300 30.350 38.390
+
+16400 HALLUS VALGUS.
+
+16401 UNILATERAL 3.200 6.470 9.780
+
+16402 BILATERAL 10.580 16.430 22.270
+
+16500 LUXACIONES GLENOHUMERAL.
+
+16501 MIEMBRO TORAXICO
+
+REDUCCION MANUAL 3.200 6.470 9.780
+
+16503 RADIO CARPIANA
+
+REDUCCION MANUAL 3.200 6.470 9.700
+
+16505 DEDOS REDUCCION MANUAL 3.200 6.470 9.780
+
+16507 MIEMBRO PELVICO
+
+REDUCCION MANUAL 10.580 16.430 22.270
+
+16509 RODILLA REDUCCION
+
+MANUAL 10.580 16.430 22.270
+
+16511 TOBILLO
+
+REDUCCION MANUAL 10.580 16.430 22.270
+
+16513 PIE REDUCCION MANUAL 3.200 6.470 9.780
+
+16514 PIE REDUCCION
+
+QUIRURGICA 10.580 16.430 22.270
+
+16600 OSTEOPLASTIA.
+
+16601 HUMERO ANTEBRAZO DEDO, FEMUR,
+
+RODILLA TIBIA O PERONE. 10.580 16.430 22.270
+
+16602 CADERA, TOBILLO, PIE,
+
+MANO CODO 10.580 16.430 22.270
+
+16603 COLUMNA 22.300 30.350 38.390
+
+16700 OSTEOSINTESIS.
+
+16701 HUMERO, ANTEBRAZO, DEDO, FEMUR,
+
+RODILLA, TIBIA O PERONE, TOBILLO, PIE,
+
+MANO O CODO 3.200 6.470 9.780
+
+16702 CADERA, MENISECTOMIA
+
+O COLUMNA 14.870 20.230 25.590
+
+16800 OSTEOTOMIA
+
+16801 HUMERO, CODO, ANTEBRAZO,
+
+MANO, DEDO, FEMUR, RODILLA, TIBIA Y/O
+
+PERONE, TOBILLO O PIE 10.580 16.430 22.270
+
+16802 CADERA O COLUMNA 14.870 20.230 25.590
+
+16900 RASPA SECUESTRECTOMIA
+
+16901 TOBILLO 3.200 6.470 9.780
+
+16902 HUMERO, CODO, ANTEBRAZO,
+
+TIBIA, Y/O PERONE, MANO, DEDO,
+
+FEMUR, RODILLA, PIE 0.090 0.180 0.270
+
+16903 VENDAS DE YESO C/U
+
+(REPOSICION) 0.090 0.180 0.270
+
+17000 PEDIATRIA
+
+17002 PILOROSPLASTIA
+
+(PAQUETE) 10.580 16.430 22.270
+
+17003 ANOPLASTIA PERINEAL 10.580 16.430 22.270
+
+17005 CIRUGIA DE PROBLEMAS DEL
+
+TRACTO GASTROINDESTINAL
+
+(PAQ.) 14.870 20.230 25.590
+
+17006 ORQUIDOPEXIA (PAQUETE) 10.580 16.430 22.270
+
+17007 CIRUGIA DE PROBLEMAS
+
+CONGENITOS DEL TRACTO INTESTINAL
+
+(PAQUETE) 14.870 20.230 25.590
+
+17009 DESCENSO ABDOMINO
+
+PERINEAL 10.580 16.430 22.270
+
+17107 DESINFAGINACION DEL
+
+INTESTINO 14.870 20.230 25.590
+
+17112 ATRESIAS DE INTESTINO 14.870 20.230 25.590
+
+17113 ESPLENECTOMIA 14.870 20.230 25.590
+
+17114 ANASTOMOSIS DE HIGADO,
+
+RIÑON, T/DIGESTIVO 14.870 20.230 25.590
+
+17116 TUMORECTOMIAS
+
+ABDOMINALES 14.870 20.230 25.590
+
+17126 FISTULA RECTO URINARIA 14.870 20.230 25.590
+
+17127 QUISTE IDEOPATICO 10.580 16.430 22.270
+
+17131 QUISTE TIROGLOSO 14.870 20.230 22.270
+
+17132 MIECTOMIA 10.580 16.430 22.270
+
+17133 EVENTRACIONES, BRIDAS,
+
+RESECCION 10.580 16.430 22.270
+
+17134 EXONFALOS SIMPLES 3.200 6.470 9.780
+
+17135 EXONFALOS EN DOS
+
+TIEMPOS 3.200 6.470 9.780
+
+17400 NEUROCIRUGIA PEDRIATICA.
+
+17401 QUISTE PILONIDAL 3.200 6.470 9.780
+
+17403 PLASTIA DE MENINGOCELE 22.300 30.350 38.390
+
+17404 PLASTIA DE MENINGOCELE 22.300 30.350 38.390
+
+17406 CRANEOPLASTIA 22.300 30.350 38.390
+
+17407 CRANEOTOMIA O
+
+CRANIECTOMIA 22.300 30.350 38.390
+
+17408 DERIVACION DE LIQUIDO
+
+CEFALORAQUIDEO 22.300 30.350 38.390
+
+17500 UROLOGIA PEDIATRICA.
+
+17505 BIOPSIA RENAL 10.580 16.430 22.270
+
+17506 NEFRECTOMIA SEMI O TOTAL 14.870 20.230 25.590
+
+17511 CIRCUNCISION 3.200 6.470 9.780
+
+17512 CIRCUNCISION CON PLASTIBEL
+
+Y ANESTESIA 3.200 6.470 9.780
+
+17513 CICATRIZ FIBROSA DEL
+
+PREPUCIO 3.200 6.470 9.780
+
+17514 CORRECCION DE
+
+HIPOSPADIAS 10.580 16.430 22.270
+
+17515 LITOTOMIA 10.580 16.430 22.270
+
+17516 REFLUJO VESICO URETRAL 10.580 16.430 22.270
+
+17517 REIMPLANTE DE URETRERO 14.870 20.230 25.590
+
+17518 VALVAS (sic) POSTERIORES 14.870 20.230 25.590
+
+17519 TUMORES DE VEJIGA 14.870 20.230 25.590
+
+18000 CIRUGIA PROCTOCOLOGICA.
+
+18001 HEMORREIDECTOMIA
+
+(PAQUETE) 10.580 16.430 22.270
+
+18002 EXTIRPACION DE POLIPO
+
+BENIGNO DE ANO O RECTO (PAQ) 10.580 16.430 22.270
+
+18003 DEBRIDACION DE
+
+ABSCESOS (PAQUETE) 3.200 6.470 9.780
+
+18004 FISTULECTOMIA (PAQUETE) 10.580 16.430 22.270
+
+18006 RECTONECTOMIA (PAQUETE) 10.580 16.430 22.270
+
+18011 HEMICOLECTOMIAS O
+
+COLECTOMIAS 14.870 20.230 25.590
+
+18012 RESECCION ABDOMINO
+
+PERINEAL 14.870 20.230 25.590
+
+18013 TRANSPOSICION DE COLON 14.870 20.230 25.590
+
+18026 CURACIONES
+
+PROCTOLOGICAS 0.670 1.020 1.520
+
+18029 CUARPOS EXTRAÑOS EN
+
+ESOFAGO Y RECTO 3.200 6.470 9.780
+
+18031 CIRUGIA DE PANCREAS 14.870 20.230 25.590
+
+19000 LABORATORIO
+
+19002 BIOMETRIA HEMATICA 0.660 0.980 1.470
+
+19003 SERIE ROJA 0.300 0.450 0.670
+
+19004 SERIE BLANCA 0.300 0.540 0.810
+
+19005 SEDIMENTACION GLOBULAR 0.100 0.200 0.300
+
+19006 RECUENTO DE PLAQUETAS 0.260 0.390 0.580
+
+19007 RECUENTO DE
+
+RETICULOCITOS 0.200 0.300 0.450
+
+19008 DETER. DE GRUPO
+
+SANGUIENO Y FACTOR R.H. 0.260 0.390 0.580
+
+19009 PRUEBAS CRUZADAS 0.760 1.290 2.210
+
+19010 TIEMPO DE SANGRADO 0.110 0.160 0.240
+
+19011 TIEMPO DE COAGULACION 0.170 0.200 0.300
+
+19012 TIEMPO DE PROTOMBINA 0.350 0.530 0.790
+
+19013 TIEMPO PARCIAL DE
+
+TROMBOPLASTINA 0.340 0.510 0.770
+
+19015 RETRACCION DE COAGULO 0.050 0.110 0.160
+
+19017 QUIMICA SANGUINEA 1.040 1.560 2.350
+
+19018 GLUCOSA 0.310 0.470 0.710
+
+19019 UREA 0.330 0.500 0.750
+
+19020 CREATIMINA 0.400 0.590 0.890
+
+19021 ACIDO URICO 0.400 0.860 1.290
+
+19023 PRUEBA DE TOLERANCIA
+
+A LA GLUCOSA 0.490 0.970 1.460
+
+19024 BILIRRUBINAS 0.440 0.650 0.970
+
+19027 COLESTEROL TOTAL 0.440 0.660 0.990
+
+19029 PROTEINAS TOTALES
+
+Y ALBUMINA 0.310 0.470 0.710
+
+19035 TRIGLICERIDOS 0.300 1.080 1.620
+
+19036 TRANSAMINAS
+
+GLUTAMINICO PIRUVICA 0.410 0.810 1.210
+
+19037 TRANSAMINAS GLUTAMINICO
+
+AXALACETICA 0.400 0.810 1.210
+
+19038 FOSFATASA ALCALINA 0.420 0.540 0.810
+
+19039 FOSFATASA ACIDA 0.490 0.650 0.970
+
+19040 FOSFATASA ACIDA
+
+FRACCION PROSTATICA 0.490 0.740 1.110
+
+19041 AMILASA 0.620 0.930 1.390
+
+19043 CREATININA FOSFOQUINASA 1.470 2.210 3.320
+
+19044 DESHIDROGENASA LACTICA 1.170 1.750 2.630
+
+19045 REACCIONES FEBRILES 0.460 0.690 1.030
+
+19046 ANTIESTRIPTOLISINAS 1.030 1.550 2.320
+
+19047 PROTEINA C. REACTIVA 0.540 0.810 1.210
+
+19050 V.D.R.L 0.170 0.320 0.490
+
+19051 COOMBS DIRECTO 0.400 0.810 1.210
+
+19052 COOMBS INDIRECTO 0.400 1.290 1.940
+
+19054 PRUEBA DIAGNOSTICO
+
+DEL EMBARAZO 0.320 0.650 0.970
+
+19055 EXAMEN BACTERIOSCOPIA 0.180 0.270 0.400
+
+19056 CULTIVO CON
+
+ANTIBIOGRAMA 1.350 2.020 3.040
+
+19060 COPROPARASITOSCOPIA 0.160 0.320 0.490
+
+19062 OBSERVACION DE AMIBA
+
+EN PLATINA CALIENTE 0.130 0.180 0.270
+
+19063 INVESTIGACION DE
+
+PLASMODIUM E X E N T O
+
+19064 EXAMEN GENERAL DE
+
+ORINA 0.300 0.450 0.670
+
+19066 EOSINOFILOS EN MOCO
+
+NASAL 0.270 0.400 0.610
+
+19067 SANGRE OCULTA EN HECES 0.180 0.270 0.400
+
+19072 FACTOR REUMATOIDE 0.390 0.580 0.870
+
+19075 HEMOGLOCUTEX 0.160 0.320 0.490
+
+19113 INVESTIGACION DE BAAR E X E N T O
+
+19115 PAPANICOLAU E X E N T O
+
+19117 GONADOTROPINAS
+
+CUALITATIVAS Y CUANTITATIVAS 1.440 2.160 3.240
+
+19121 ANTICUERPOS ANTI AMIBA 3.240 4.860 6.470
+
+19202 ANTICUERPOS ANTI
+
+CITOMEGALOVIRUS 3.240 4.860 6.470
+
+19203 ANTICUERPÓS ANTI
+
+TOXOPLASMA 5.400 12.140 16.190
+
+19204 ANTICUERPOS
+
+ANTICISTICERCO 4.320 6.470 8.630
+
+19205 ANTICUERPOS
+
+ANT TREPONEMA 4.320 6.470 8.630
+
+19206 ANTICUERPOS ANTI HERPES 4.320 6.470 8.630
+
+19207 ANTICUERPOS ANTI
+
+NUCLEARES 4.050 6.080 8.090
+
+19208 ANTICUERPSO ANTI
+
+RUBEOLA 4.320 6.470 8.630
+
+19209 ANTICUERPOS ANTI VIH 3.600 0.000 0.000
+
+19301 ANTIGENO DE
+
+SUPERFICIE B (HEPATITIS) 1.800 2.430 3.240
+
+19302 INVESTIGACION
+
+DE CLAMYDIAS 4.500 7.280 9.710
+
+20000 ESTUDIOS RAFIOGRAFICOS SIMPLES.
+
+20001 14 X 17 0.900 1.800 2.700
+
+20002 14 X 14 0.810 1.440 2.250
+
+20003 11 X 14 0.810 1.350 2.070
+
+20004 10 X 12 0.720 1.260 1.890
+
+20065 8 X 10 0.720 1.260 1.890
+
+21000 ESTUDIOS SIMPLES CON MEDIO DE CONTRASTE.
+
+21004 COLON POR ENEMA 3.780 7.550 11.330
+
+21005 SERIE GASTRO DUODENAL 3.600 5.400 8.090
+
+21006 ESOFAGOGRAFIA 2.700 4.050 6.070
+
+21007 TRANSITO INTESTINAL 4.320 6.470 9.710
+
+21008 UROGRAFIA EXCRETORA 5.400 8.090 12.140
+
+21010 COLON CON
+
+DOBLE CONTRASTE 4.950 7.420 11.130
+
+21014 UROGRAFIA EXCRETORIA
+
+INFANTIL 3.600 5.400 8.090
+
+22000 ESTUDIOS ESPECIALES DE RAYOS "X"
+
+22001 COLANGIOGRAFIA TRANS
+
+OPERATIORIA Y 3.240 4.860 7.280
+
+POST OPERATORIA 2.160 3.240 4.860
+
+22014 MEDICION MIEMBROS INFERIORES
+
+(TRES PLACAS EN UNA) 2.160 3.240 4.860
+
+22024 FISTULOGRAFIA 1.620 2.430 3.640
+
+22026 COLANGIOGRAFIA
+
+PERCUTANEA 3.240 4.860 7.280
+
+22027 HISTEROSALPINGOSONOGRAFIA.
+
+3.600 5.400 8.090
+
+22028 MIELOGRAFIA LUMBAR,
+
+DORSAL, CERVICAL 7.190 10.790 16.190
+
+22029 COLECISTOGRAFIA (ORAL) 3.600 5.400 8.090
+
+22030 TRANSITO INTESTINAL
+
+C/SERIE ESOF. GASTROD 5.760 8.630 12.950
+
+24000 ESTUDIOS ESPECIALES
+
+24008 ELECTROCARDIOGRAMA 0.810 1.620 2.430
+
+24009 ENCEFALOGRAMA 1.620 2.430 3.640
+
+24010 ECOSONOGRAMA (HIGADO, BAZO, RENAL,
+
+PROSTATA, TESTICULO PELVICO, MAMA, TIROIDES,
+
+OBSTETRICO) CADA UNO 2.250 3.370 5.060
+
+24011 ECOCARDIOGRAMA 3.150 4.720 7.080
+
+24012 ESTUDIO AUDIOMETRICO
+
+BASICO 0.540 0.810 1.210
+
+26000 ANATOMIA PATOLOGICA
+
+26004 LIQUIDO PLEURAL 1.260 2.520 3.600
+
+26006 CITOLOGIA DE ORTINA
+
+EN SERIE 3-5 1.260 2.520 3.600
+
+26007 ASPIRACIONES DIVERSAS 1.260 2.520 3.600
+
+26008 CITOLOGIA GASTRICA 2.430 4.860 6.960
+
+26013 BIOPSIAS DIVERSAS 0.990 1.980 2.970
+
+26014 PATOLOGIA QUIRURGICA
+
+(ORGANOS DEL CUERPO HUMANO) 0.540 1.080 1.620
+
+26015 CITOLOGIA LIQUIDO
+
+ASCITICO 0.540 1.080 1.620
+
+27000 TRAT. TERAPEUT. "CLINICA DE DOLOR".
+
+27001 BLOQUEO RAMA TRIGEMINAL 0.630 0.940 1.420
+
+27002 BLOQUEO GANGLIO GASER 0.900 1.350 2.020
+
+27003 BLOQUEO TRIGEMINALES
+
+TERMINALES 0.630 0.940 1.420
+
+27004 BLOQUEO NERVIO LINGUAL 0.630 0.940 1.420
+
+27005 BLOQUEO NERVIO
+
+GLOSOFARINGEO 0.630 0.940 1.420
+
+27006 BLOQUEO DE GANGLIO
+
+ESPENOPALATINO 0.630 0.940 1.420
+
+27007 BLOQUE DE NERVIO
+
+OCCIPITAL 0.630 0.940 1.420
+
+27008 BLOQUEO DE RAIZ CERVICAL
+
+PROFUNDA 1.080 1.620 2.430
+
+27009 BLOQUEO DE PLEXO
+
+CERVICAL SUP. 1.080 1.620 2.430
+
+27010 BLOQUEO DE NERVIO
+
+FARINGEO 1.080 1.620 2.430
+
+27011 BLOQUEO DE NERVIO
+
+FRENICO 1.080 1.620 2.430
+
+27012 BLOQUEO DE NERVIO
+
+SUPRAESCAPULAR 0.810 1.210 1.820
+
+27013 BLOQUEO SIMPATICO
+
+SERVICODORSAL C/CONT. R.X. 1.800 2.700 4.050
+
+27014 BLOQUEO SIMPATICO
+
+SERVICODORSAL S/CONT. R.X. 1.800 2.700 4.050
+
+27015 BLOQUEO PERIDUAL
+
+ANTI INFLAMAT 1.080 1.620 2.430
+
+27016 BLOQUEO PERIDUAL LITICO 1.080 1.620 2.430
+
+27017 BLOQUEO SUBARAGNOIDEO
+
+LITICO 1.440 2.160 3.240
+
+27018 BLOQUEO PARAVERTEBRAL 0.900 1.350 2.020
+
+27019 BLOQUEO DE NERVIOS
+
+INTERCOSTALES 0.900 1.350 2.020
+
+27020 BLOQUEO DE NERVIOS
+
+ABDOMINOGENITAL 0.900 1.350 2.020
+
+27021 BLOQUEO DE NERVIO
+
+CRURAL 0.900 1.350 2.020
+
+27022 BLOQUEO DE NERVIO
+
+FERMOROART 0.900 1.350 2.020
+
+27023 BLOQUEO DE NERVIO OBT. 0.900 1.350 2.020
+
+27024 BLOQUEO DE NERVIO
+
+CIATICO 1.080 1.620 2.430
+
+27025 BLOQUEO ARTICULACION
+
+SACROLIACA 0.900 1.350 2.020
+
+27026 BLOQUEO DE ARTICULACION
+
+COXO FEMORAL 0.900 1.350 2.020
+
+27027 BLOQUEO DE NERVIO
+
+SAFENO 0.900 1.350 2.020
+
+27028 BLOQUEO TRANS SACRO 0.900 1.350 2.020
+
+27029 BLOQUEO DE RAMAS TERM.
+
+DE MIEMBROS PEL. 1.080 1.620 2.430
+
+27030 BLOQUEO DE ARTICULACION
+
+DE RODILLAS 1.080 1.620 2.430
+
+27031 BLOQUEO CAUDAL 1.080 1.620 2.430
+
+27032 BLOQUEO DE BURSA
+
+ANT. DE HOMBRO 0.900 1.350 2.020
+
+27033 BLOQUEO DE PLEXO
+
+BRONQUIAL 1.080 1.620 2.430
+
+27034 BLOQUEOS PERIFERICOS
+
+DE MIEMBROS SUP. 0.900 1.350 2.020
+
+27035 BLOQUEO DE GANGLIO
+
+SIMPATICO LUB. CONT. R.X. 1.800 2.700 4.050
+
+27036 BLOQUEO DE GANGLIO
+
+SIMPATICO LUMBAR C/R.X. 1.800 2.700 4.050
+
+27037 BLOQUEO DE CAPSULA
+
+DE HOMBRO 0.900 1.350 2.020
+
+27038 BLOQUEO PERIVASCULAR
+
+DE ARTERIA TEMP. 0.900 1.350 2.020
+
+27039 ESTIMULACION ELECTRICA
+
+CUTANEA 0.900 1.350 2.020
+
+27900 TERAPIA INTENSIVA.
+
+27901 DIA ESTANCIA TERAPIA
+
+INTENSIVA 22.300 30.350 38.390
+
+27902 GASOMETRIA 0.720 1.080 1.620
+
+27903 DIALISIS PERITONEAL CON
+
+EQUIPO 2.700 4.050 6.070
+
+27904 DIALISIS PERITONEAL SIN
+
+EQUIPO 1.080 1.620 2.430
+
+27905 PLEUROTOMIA 2.250 3.370 5.060
+
+27906 ALIMENTACION ARTIFICIAL
+
+POR DIA 1.350 2.020 3.390
+
+28000 CERTIFICADOS.
+
+28001 PRENUPCIALES 0.400 0.810 1.210
+
+28002 MEDICO DE SALUD 0.270 0.540 0.810
+
+28003 CERTIFICADO INTERNACIONAL
+
+DE VACUNACION 0.270 0.540 0.810
+
+28006 ESCOLAR 0.160 0.320 0.490
+
+29000 OTROS.
+
+29001 TRANSFUSION SANGUINEA POR UNIDAD
+
+(NO INCLUYE SANGRE) 3.200 6.470 9.780
+
+29003 LAVADO GASTRICO 3.200 6.470 9.780
+
+29004 LAVADO QUIRURGICO 10.580 16.430 22.270
+
+29005 SONDEO VESICAL 3.200 6.470 9.780
+
+29006 VENOCLISIS 0.400 1.010 1.510
+
+29007 INYECCIONES
+
+INTRAVENOSAS 0.050 0.180 0.270
+
+29008 INYECCIONES
+
+INTRAMUSCULARES 0.050 0.180 0.270
+
+29010 VACUNACION ANTIRRABICA
+
+CANINA E X E N T O
+
+29030 MEDICAMENTOS NO INCLUIDOS EN PAQUETES
+
+(DE ACUERDO AL PRECIO DE C/U DE ELLOS)
+
+### CAPITULO UNICO
+
+###### Artículo 63.
+
+Por los servicios prestados en el Poder Judicial se pagarán los derechos siguientes:
+
+número de días
+
+de salario Mínimo
+
+I.- Expedición de copias simples:
+
+a).- Por la primera hoja 0.180
+
+b).- Por cada hoja más o fracción 0.030
+
+II.- Expedición de copias certificadas:
+
+a).- Por la primera hoja 0.674
+
+b).- Por cada hoja más o fracción 1.350
+
+III.- Registro y diligencia de exhortos 0.720
+
+IV.- Copias certificadas de Sentencia de Divorcio 1.350
+
+###### Artículo 64.
+
+Por otros servicios prestados en las Dependencias del Gobierno del Estado:
+
+número de días
+
+de salario Mínimo
+
+I.- Certificaciones:
+
+a).- Por hoja 1.000
+
+b).- Cuando el certificado, copia o informe requieran búsqueda especial de antecedentes 2.000
+
+c).- Por certificaciones que se soliciten a autoridades por localizarlos y expedirlos, a excepción de los expedidos por el Registro Público de la Propiedad y del comercio:
+
+1.- En escritura o contratos privados:
+
+a).- Por la primera hoja 1.000
+
+b).- Por cada hoja más o fracción 0.270
+
+2.- Por cualquier otro documento de carácter no contractual:
+
+a).- Por la primera hoja 1.000
+
+b).- Por cada hoja más o fracción 0.270
+
+II.- Por los servicios de vigilancia e inspección, los contratistas con quienes celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente a 1.5 al millar sobre el importe de cada una de las estimaciones de trabajo; dichos importes serán retenidos por las dependencias que efectúen los pagos correspondientes
+
+## TITULO TERCERO. DE LOS DERECHOS DE COOPERACION Y DE LAS CONTRIBUCIONES DE MEJORAS
+
+## TITULO CUARTO. DE LOS PRODUCTOS
+
+###### Artículo 65.
+
+Los derechos de cooperación y las contribuciones de mejoras se pagarán de conformidad con lo establecido en el Decreto que para tal fin expida el Congreso del Estado.
+
+## TITULO QUINTO. DE LOS APROVECHAMIENTOS
+
+###### Artículo 66.
+
+Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Gobierno del Estado por la realización de actividades que no corresponden al desarrollo de sus funciones propias de derecho público, así como de la explotación o aprovechamiento de los bienes que constituyen el patrimonio, tales como:
+
+I.- Venta de bienes muebles e inmuebles.
+
+II.- Arrendamiento y explotación de bienes muebles e inmuebles.
+
+III.- Rendimientos financieros de capital y valores del Gobierno del Estado.
+
+IV.- Los generados por sus establecimientos o empresas.
+
+V.- Los productos que se obtengan de operaciones hechas con bienes producidos o con servicios prestados por establecimientos que dependan del Gobierno del Estado y que sean pagados en los propios establecimientos.
+
+VI.- Venta de publicaciones oficiales, leyes y reglamento que edite el Gobierno del Estado.
+
+VII.- Los provenientes de publicaciones en el Periódico Oficial del Estado.
+
+VIII.- Venta de formas oficiales e impresas.
+
+IX.- Otros productos no especificados.
+
+###### Artículo 67.
+
+Para la determinación de los montos de los productos a que se refiere este título, se estará a las tarifas que para el efecto apruebe el H. Congreso del Estado, las que deberán publicarse en el Periódico Oficial del Estado; o en su defecto a los actos o contratos que los rijan.
+
+###### Artículo 68.
+
+Estarán exentas del pago de productos, las publicaciones que se hagan en el Periódico Oficial a solicitud de los Gobiernos Federal, Estatal o Municipales, siempre que se trate de asuntos oficiales que estén comprendidos dentro de la esfera de sus atribuciones.
+
+## TITULO SEXTO. DE LAS PARTICIPACIONES
+
+###### Artículo 69.
+
+Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Estado por concepto de:
+
+I.- Recargos a razón de 3% mensual sobre saldos insolutos en los casos de prórrogas para el pago de créditos fiscales; en el pago extemporáneo de los mismos, se aplicará la tasa del 4.5% por cada mes o fracción, desde la fecha de su exigibilidad.
+
+II.- Reintegro e indemnizaciones.
+
+III.- Multas.
+
+IV.- Cauciones cuyas pérdidas se declaren por resolución firme a favor del Estado.
+
+V.- Bienes vacantes, tesoros ocultos, herencias, legados, donaciones y otros conceptos en favor del Estado.
+
+VI.- Gastos de ejecución:
+
+a).- 10% por la notificación de los créditos fiscales.
+
+b).- 10% por el embargo de bienes, y
+
+c).- 10% por el remate, enajenación fuera de remate o adjudicación al fisco estatal.
+
+Estos porcentajes se aplicarán sobre el crédito fiscal insoluto y no podrá ser inferior a un salario mínimo general diario de la zona económica correspondiente al Estado de Colima, por cada diligencia.
+
+VII.- Honorarios por notificación:
+
+El equivalente a un día de salario mínimo general diario de la zona económica correspondiente al Estado de Colima, por cada notificación de requerimiento para el cumplimiento de obligaciones relativas a la presentación de solicitudes, avisos o declaraciones no presentadas en los plazos legales.
+
+VIII.- Gastos Extraordinarios de Ejecución;
+
+El equivalente a cinco veces el salario mínimo general diario de la zona económica correspondiente al Estado de Colima, por el transporte y almacenaje de los bienes embargados por las autoridades fiscales, hasta el remate, adjudicación en favor del fisco estatal o la recuperación de los mismos por parte de los contribuyentes, cuando dichos actos se realicen con recursos del Gobierno del Estado.
+
+IX.- Subsidios.
+
+X.- Administración de impuestos y otros conceptos municipales.
+
+XI.- Aportaciones del Gobiernos (sic) Federal y de terceros para obras y servicios públicos a cargo del Estado, para obras de beneficio social.
+
+XII.- Otros ingresos no especificados.
+
+## TITULO SEPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
+
+###### Artículo 70.
+
+Son participaciones las que obtenga el Estado de la Federación, de conformidad con la Ley de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal.
+
+## TITULO OCTAVO. DISPOSICIONES GENERALES
+
+###### Artículo 71.
+
+Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Estado por concepto de:
+
+I.- Empréstitos.
+
+II.- Impuestos extraordinarios.
+
+III.- Derechos extraordinarios.
+
+IV.- Expropiaciones.
+
+V.- Aportaciones extraordinarias de los entes públicos.
+
+###### Artículo 72.
+
+Las resoluciones que en relación con esta Ley dicte la Secretaría de Finanzas, sólo podrán ser recurridas en la forma y términos que señala el Código Fiscal del Estado.
+
+###### Artículo 73.
+
+Las infracciones a las disposiciones de esta Ley serán sancionadas de conformidad con lo previsto por el Código Fiscal del Estado.
+
+###### Artículo 74.
+
+El C. Gobernador Constitucional del Estado, solicitará al Congreso del Estado la autorización correspondiente para expedir, o modificar en su caso el Tabulador Oficial para el Pago del Impuesto a la Transmisión de la Propiedad de Vehículos Automotores.
+
+###### Artículo 75.
+
+Para los efectos del Título Segundo, se entenderá por ``día de salario mínimo'', el salario mínimo general diario vigente en el Estado, en la fecha de pago del derecho de que se trate.
+
+###### Artículo 76.
+
+Los gastos de ejecución y los honorarios por notificación que se recauden, se distribuirán entre el personal de la Secretaría de Finanzas que directa o indirectamente haya intervenido en el cobro, notificación de las obligaciones o ejecución de los créditos fiscales, de conformidad con lo que determine el Reglamentos respectivo.
+
+###### Artículo 77.
+
+Las liquidaciones de créditos fiscales que contengan fracción en centavos se ajustarán al múltiplo de cinco centavos más próximos.
+
+## TRANSITORIOS
+
+PRIMERO.- La presente Ley entrará en vigor el día primero de enero de 1993, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+SEGUNDO.- Se abroga la Ley de Hacienda del Estado expedida el 23 de diciembre de 1981, y publicada en el Periódico Oficial "EL ESTADO DE COLIMA", el 26 del mismo mes y año, sus posteriores reformas y adiciones y todas las disposiciones y demás ordenamientos que se opongan a la presente Ley.
+
+El Gobernador Constitucional del Estado dispondrá se publique, circule y observe.
+
+La Comisión que suscribe solicita atentamente que, de ser aprobado el presente dictamen, se expidan los decretos correspondientes
+
+PROFR. SALVADOR VIRGEN OROZCO.
+
+DIPUTADO PRESIDENTE.
+
+DR. J. JESUS VELASCO MARQUEZ.
+
+DIPUTADO SECRETARIO.
+
+C. ANTONIO SUASTEGUI RENTERIA.
+
+DIPUTADO SECRETARIO.
+
+Por lo tanto mando se imprima, publique, circule y observe.
+
+Dado en Palacio de Gobierno, a los 21 días del mes de diciembre de 1992.
+
+EL GOBERNADOR CONST. DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GRAL. DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.- EL SECRETARIO DE FINANZAS, C.P. ERNESTO TERRIQUEZ SAMANO.- Rúbrica.-
