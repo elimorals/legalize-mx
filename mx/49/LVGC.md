@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1972-12-30"
+last_updated: "1974-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -136,7 +136,9 @@ II.- Por esta ley, sus reglamentos y demás leyes especiales;
 
 III.- A falta de disposiciones de esa legislación, por los preceptos del Código de Comercio;
 
-IV.- En defecto de unas y de otras, por los preceptos de los Códigos Civil del Distrito Federal y Territorios, y Federal de Procedimientos Civiles; y
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+IV.- En defecto de unas y de otros, por los preceptos del Código Civil del Distrito Federal y Federal de Procedimientos Civiles.
 
 V.- En su defecto, de acuerdo con las necesidades mismas del servicio público de cuya satisfacción se trata.
 
@@ -150,9 +152,11 @@ Los actos y contratos sujetos a registro, que tengan por objeto vías generales 
 
 Se exceptúan de la obligación anterior los actos y contratos relacionados con embarcaciones cuyo valor no exceda de $20,000.00.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 7o.
 
-Las vías generales de comunicación, los servicios públicos que en ellas se establezcan, los capitales y empréstitos empleados en ellos, las acciones, bonos y obligaciones emitidos por las empresas, no podrán ser objeto de contribuciones de los Estados, Departamento del Distrito Federal, Territorios Federales o Municipios.
+Las vías generales de comunicación, los servicios públicos que en ellas se establezcan, los capitales y empréstitos empleados en ellos, las acciones, bonos y obligaciones emitidos por las empresas, no podrán se objeto de contribuciones de los Estados, Departamentos del Distrito Federal o municipios.
 
 ### CAPITULO III. Concesiones, permisos y contratos
 
@@ -2540,7 +2544,9 @@ I.- Los hechos y actos jurídicos que ocurran a bordo de las aeronaves mexicanas
 
 II.- Los actos delictuosos ocurridos a bordo de cualquier aeronave sobre territorio extranjero, cuando produzcan o se pretenda que tengan efectos en territorio mexicano.
 
-Son aplicables a la navegación aérea civil las disposiciones que sobre nacimientos y defunciones a bordo de un buque mexicano, establece el Código Civil para el Distrito y Territorios Federales.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+Son aplicables a la navegación aérea civil las disposiciones que sobre nacimientos y defunciones a bordo de un buque mexicano establece el Código Civil para el Distrito Federal.
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
@@ -3050,11 +3056,13 @@ II.- En el artículo 345, si comprueba que el retraso fué motivado por condicio
 
 III.- En todos los casos, si comprueba que el daño se debió a hechos o circunstancias propios de la víctima o a hechos ilícitos de un tercero.
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 347.
 
-El derecho a percibir las indemnizaciones establecidas en esta sección y la fijación del monto de los casos del penúltimo páárrafo (sic) del artículo 343 y de los artículos 344 y 345, se sujetará a las disposiciones aplicables al Código Civil para el Distrito y Territorios Federales.
+El derecho a percibir las indemnizaciones establecidas en esta sección y la fijación del monto de los casos del penúltimo párrafo del artículo 343 y de los artículos 344 y 345, se sujetarán a las disposiciones aplicables del Código Civil para el Distrito Federal.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 Las acciones para exigir el pago de las indemnizaciones establecidas en esta sección, prescribirán en el plazo de un año, a partir de la fecha de los hechos que les dieron nacimiento o, en su defecto, de la fecha de iniciación del viaje prevista en el contrato de transporte.
 
@@ -3064,7 +3072,9 @@ Las acciones para exigir el pago de las indemnizaciones establecidas en esta sec
 
 Para los efectos de la responsabilidad, el transporte que se efectúe en cumplimiento de una obligación impuesta por la ley, se equipara al realizado conforme a contrato por remuneración.
 
-Los daños que sufran las personas o cosas transportadas en aeronaves de servicio privado, se regirán por las disposiciones del Código Civil para el Distrito y Territorios Federales.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+Los daños que sufran las personas o cosas transportadas en aeronaves de servicio privado se regirán por las disposiciones del Código Civil para el Distrito Federal.
 
 > <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 1950)</small>
 
@@ -3102,15 +3112,17 @@ Los límites de la responsabilidad a que se refiere este artículo no se aplicar
 
 En los casos a que se refiere este artículo, la empresa garantizará el pago de la indemnización correspondiente, en los términos del reglamento respectivo.
 
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 350.
 
-El derecho a percibir las indemnizaciones correspondientes a los daños sufridos, establecido en esta sección, y a la fijación de su monto, se sujetará a las disposiciones aplicables del Código Civil para el Distrito y Territorios Federales.
+El derecho a percibir las indemnizaciones correspondientes a los daños sufridos, establecido en esta sección, y la fijación de su monto, se sujetará a las disposiciones aplicables del Código Civil para el Distrito Federal.
 
-> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 Las reclamaciones para los casos de pérdida, avería o retraso de la carga o equipaje facturado, deberán ser hechos valer ante la empresa dentro de los tres días siguientes a la fecha de entrega o a la fecha en que debió entregarse. La falta de reclamación oportuna impedirá el ejercicio de las acciones correspondientes.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 Las acciones para exigir el pago de las indemnizaciones establecidas en esta Sección, prescribirá en el plazo de noventa días a partir de la fecha en que debió entregarse la carga o el equipaje facturado.
 
@@ -3170,11 +3182,13 @@ II.- Cuando la persona que opere la aeronave, lo haga sin su consentimiento. No 
 
 En los casos de colisión de dos o más aeronaves, los propietarios o poseedores serán solidariamente responsables por los daños causados a los terceros, a los bienes en la superficie, cada uno dentro de los límites establecidos.
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 355.
 
-El derecho a percibir la indemnización correspondiente a los daños sufridos a que se refiere esta Sección y la fijación de su monto, se sujetarán a las disposiciones aplicables del Código Civil para el Distrito y Territorios Federales.
+El derecho a percibir la indemnización correspondiente a los daños sufridos a que se refiere esta sección, y la fijación de su monto, se sujetarán a las disposiciones aplicables del Código Civil para el Distrito Federal.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 Las acciones para exigir esta indemnización, prescribirán en un año, a partir de la fecha en la cual ocurrieron los hechos.
 
@@ -5014,11 +5028,11 @@ La falta de cumplimiento de las disposiciones relativas a faros y señales de se
 
 Se impondrá multa de cincuenta a cinco mil pesos o prisión hasta por seis meses a cualquiera persona que se niegue a tomar parte en operaciones de búsqueda y salvamento de aeronaves, si para ello fuere requerida por la autoridad. Igual sanción se aplicará a todo aquel que teniendo conocimiento directo de un accidente aéreo, no lo haga saber inmediatamente a las autoridades dependientes de la Secretaría de Comunicaciones, más próximas al lugar del accidente.
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 570.
 
-Se aplicarán a la navegación aérea, en su caso, las disposiciones del Código Penal para el Distrito y Territorios Federales relativas a la piratería.
+Se aplicarán a la navegación aérea, en su caso, las disposiciones del Código Penal para el Distrito Federal relativas a la piratería.
 
 ###### ARTICULO 571.
 
@@ -5371,3 +5385,9 @@ D.O.F. 30 DE DICIEMBRE DE 1972.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 23 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
