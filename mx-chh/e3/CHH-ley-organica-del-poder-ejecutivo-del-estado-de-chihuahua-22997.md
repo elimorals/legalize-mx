@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2004-04-14"
+last_updated: "2004-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -163,11 +163,45 @@ Los reglamentos, decretos y acuerdos expedidos por el Gobernador del Estado debe
 
 Los titulares de las dependencias, para el despacho de los asuntos de su competencia, se auxiliarán de Directores, Jefes de Departamento y demás servidores públicos que establezca el reglamento interior respectivo, y autorice el presupuesto de egresos.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
 ###### ARTICULO 13.
 
 Al frente de la Procuraduría General de Justicia habrá un Procurador, quien se auxiliará en el ejercicio de sus funciones por un Subprocurador General, Subprocuradores de Zona y los órganos que determine su Ley Orgánica.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+Le (sic) designación del Procurador General de Justicia, se llevará a cabo de acuerdo al siguiente procedimiento:
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+I.- El Gobernador del Estado enviará al Congreso del Estado una terna de candidatos a ocupar el puerto de Procurador General de Justicia. Los candidatos deberán reunir los requisitos que establece el Artículo 95 de la Constitución Política del Estado, para lo cual, deberá acompañar a su propuesta la documentación que compruebe dichos requisitos.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+II.- El Procurador General de Justicia será designado por el Congreso dentro de los quince días hábiles siguientes a aquél en que reciba la terna propuesta por el Gobernador, debiendo, en caso de encontrarse en receso, citar a periodo extraordinario para tales efectos
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+III.- La designación se hará, mediante el voto de las dos terceras partes de la totalidad de los diputados integrantes, en escrutinio secreto. Los integrantes de la terna que para tal efecto envíe el Gobernador, comparecerán previamente ante la Junta de Coordinación Parlamentaria.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+IV.- Si ninguna de las personas propuestas obtiene las dos terceras partes de los votos, se realizará una segunda votación, únicamente respecto de los dos que hayan alcanzado mayor número de votos, designándose a quien obtenga las dos terceras partes de los votos de los diputados integrantes, en escrutinio secreto.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+V.- Si en la segunda votación, ninguno obtuviera las dos terceras partes de los votos, o bien, transcurren quince días hábiles a la recepción de la terna y no ha sido nombrado el Procurador General de Justicia, éste será designado libremente por el Gobernador, debiendo nombrar a uno distinto a los que integraron la terna enviada al Congreso.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+VI.- Una vez que el Congreso designe al Procurador General de Justicia, el Gobernador del Estado le tomará la protesta de ley, teniendo, en su caso, facultad de removerlo libremente.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+El procedimiento descrito en las fracciones anteriores, se realizará cada vez que se amerite el nombramiento de un nuevo Procurador General de Justicia.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+Durante el tiempo que dure el procedimiento de designación del Procurador General de Justicia, el Gobernador del Estado designará libre y directamente a quien deba encargarse del despacho del procurador.
 
 El Procurador General de Justicia es el Consejero Jurídico del Poder Ejecutivo, en los términos que determine la ley.
 
@@ -223,7 +257,7 @@ En casos extraordinarios o cuando exista duda de la competencia de alguna depend
 
 Cuando alguna dependencia necesite informes, datos o la cooperación técnica de cualquier otra, ésta tendrá la obligación de proporcionarlos.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 24.
 
@@ -231,11 +265,13 @@ Para el estudio, planeación y despacho de los asuntos del orden administrativo,
 
 Secretaría General de Gobierno.
 
-Secretaría de Finanzas y Administración.
+Secretaría de Finanzas.
 
 Secretaría de Planeación y Evaluación.
 
 Secretaría de Fomento Social.
+
+Secretaría de Administración.
 
 Secretaría de Desarrollo Industrial.
 
@@ -255,9 +291,9 @@ Secretaría de la Contraloría.
 
 Procuraduría General de Justicia.
 
-Coordinación de Comunicación Social.
+Secretaría de Seguridad Pública.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+Coordinación de Comunicación Social.
 
 Coordinación de Desarrollo Administrativo y Modernización.
 
@@ -291,9 +327,7 @@ VII.- Publicar en el Periódico Oficial del Gobierno del Estado las leyes, decre
 
 VIII.- Coordinar la elaboración del informe anual que el Gobernador debe presentar al Congreso, sobre el Estado que guarde la Administración Pública;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-IX.- Tomar las medidas de prevención social necesarias para la ejecución de las sentencias dictadas por los Tribunales en contra de los reos que hayan sido puestos a disposición del Ejecutivo y acordar todo lo relativo a la libertad absoluta, libertad preparatoria, condena condicional, libertad preliberacional, indultos y beneficios, exhortos y las demás atribuciones que en este ramo especifican el Código Penal del Estado y el de Procedimientos en la misma materia;
+IX.- (DEROGADA, P.O. 2 DE OCTUBRE DE 2004)
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -305,7 +339,7 @@ XI.- Apoyar las actividades de las autoridades municipales y comunicarles los ac
 
 XII.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
-XIII.- Vigilar el adecuado funcionamiento de las cárceles y establecimientos penitenciarios, así como el de los consejos tutelares para menores, centros de rehabilitación o de mejoramiento para menores y demás instituciones similares;
+XIII.- (DEROGADA, P.O. 2 DE OCTUBRE DE 2004)
 
 XIV.- Tramitar las expropiaciones por causa de utilidad pública;
 
@@ -319,13 +353,13 @@ XVI.- Ejercer las funciones que la ley determina en materia de cultos, iglesias,
 
 XVII.- En los términos de la Ley respectiva, expedir las licencias definitivas a los negocios donde se expendan, distribuyan o consuman bebidas alcohólicas, y vigilar la correcta aplicación de las disposiciones en esta materia;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-XVIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de Gobernación, Registral de la Propiedad y Notariado, del Trabajo y Previsión Social, Registral Civil, y Tránsito y Transporte, así como vigilar la organización y el funcionamiento de las Direcciones que ejerzan las atribuciones anteriores de acuerdo con los ordenamientos legales aplicables;
+XVIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de Gobernación, Registral de la Propiedad y Notariado, del Trabajo y Previsión Social, Registral Civil, y Transporte, así como vigilar la organización y el funcionamiento de las Direcciones que ejerzan las atribuciones anteriores y de acuerdo con los ordenamientos legales aplicables;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-XIX. Ejercer la vigilancia del tránsito y garantizar la seguridad de las carreteras dependientes del Estado y los caminos y demás vías de comunicación de competencia estatal; asimismo, coordinar y normar las funciones de las delegaciones de tránsito del Estado;
+XIX. Ejercer y garantizar la seguridad de las carreteras dependientes del Estado y los caminos y demás vías de comunicación de competencia estatal;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -335,109 +369,45 @@ XX. Aprobar las tarifas de transporte público y tramitar las solicitudes para e
 
 XIX.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 26.
 
-A la Secretaría de Finanzas y Administración corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Finanzas corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+I.- Atender todo lo concerniente a las funciones de naturaleza fiscal y en general, ejercer las atribuciones que le confieren la Constitución Política, El Código Fiscal del Estado, la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público, la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios y demás ordenamientos;
 
-I.- Atender todo lo concerniente a la administración financiera y fiscal y en general, ejercer las atribuciones que le confiere la Constitución Política, el Código Fiscal del Estado, la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público, la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios y demás ordenamientos;
-
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
-
-II.- Elaborar y presentar al Ejecutivo el proyecto anual de la Ley de Ingresos y el Presupuesto de Egresos;
-
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
+II.- Elaborar y presentar el proyecto anual de la Ley de Ingresos al Ejecutivo, y conjuntamente con la Secretaría de Administración y la Secretaría de Planeación y Evaluación el Presupuesto de Egresos;
 
 III.- Ejercer las atribuciones derivadas de los convenios fiscales que celebre el Gobierno del Estado con el Gobierno Federal o con los Municipios de la Entidad;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
-
 IV.- Recaudar los fondos provenientes de la ejecución de la Ley de Ingresos, así como los que por otros conceptos deba percibir el Estado, ejercitando en su caso la facultad económico-coactiva;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 V.- Custodiar y concentrar los fondos y valores del Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+VI.- Dirigir la negociación de la deuda pública del Estado, así como llevar el registro y control del endeudamiento estatal y municipal de conformidad con la Ley de Deuda Pública para el Estado de Chihuahua y sus municipios;
 
-VI.- Dirigir la negociación de la deuda Pública del Estado, así como llevar el registro y control del endeudamiento estatal y municipal, de conformidad con la Ley de Deuda Pública para el Estado de Chihuahua y sus municipios;
+VII.- Representar, salvo disposición expresa del Gobernador, el interés del Estado en controversias fiscales;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+VIII.- Intervenir en representación del Gobierno del Estado, en los diversos órganos de la coordinación fiscal, para proponer y obtener mayores ingresos federales coordinados;
 
-VII.- Representar, salvo disposición expresa del Gobernador, el interés del Estado en controversias fiscales y participar en cualquier acto, contrato o convenio que obligue económicamente al Gobierno del Estado;
+IX. Atender todo lo concerniente a la captación de los fondos provenientes de la aplicación de la Ley de Ingresos y de aquellos que tenga derecho a percibir el Gobierno del Estado, por cuenta propia o ajena, autorizando los procedimientos necesarios para el manejo, registro y control de los mismos;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+X.- Promover la elaboración y ejecución de programas tendientes a incrementar los ingresos propios del Estado;
 
-VIII.- Autorizar y controlar el ejercicio del Presupuesto de Egresos y efectuar las erogaciones conforme al mismo;
+XI.- Llevar la contabilidad de la Hacienda Pública Estatal;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+XII.- Formular por trimestres y anualmente la cuenta general de ingresos y egresos;
 
-IX.- Autorizar la estructura programática del presupuesto de egresos e integrar a éste los programas operativos anuales que hayan sido aprobados, de conformidad con lo dispuesto por esta ley, por la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público y por la Ley de Planeación para el Estado de Chihuahua;
+XIII.- Establecer medidas de control respecto a los ingresos de las entidades paraestatales, así como de los Patronatos que manejen fondos fiscales vía subsidios, en los términos de la Ley de Entidades Paraestatales del Estado de Chihuahua;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
+XIV. Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de ingresos, fiscalización, y contabilidad; así como vigilar la organización y funcionamiento de las direcciones que ejerzan las atribuciones anteriores;
 
-X.- Llevar la contabilidad de la Hacienda Pública Estatal;
+XV.- Realizar los pagos, de acuerdo con el presupuesto de egresos y las órdenes que reciba, en la inteligencia de que salvo los correspondientes a la nómina estatal, pasivos fiscales, retenciones a los trabajadores de cualquier índole, transferencias a los Municipios, y las solicitudes de pago emitidas por la Secretaría de Planeación y Evaluación en materia del programa de inversión, no podrá hacer ningún otro sin orden escrita y directa de la Secretaría de Administración, y en su caso del Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
+XVI.- Llevar el registro y control del Padrón de Contribuyentes;
 
-XI.- Formular por trimestre y anualmente la cuenta general de ingresos y egresos;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-XII.- Establecer medidas de control respecto a los ingresos y egresos de las entidades paraestatales, así como de los patronatos que manejen fondos oficiales, en los términos de la Ley de Entidades Paraestatales del Estado de Chihuahua;
-
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
-
-XIII.- Proporcionar asesoría en materia de interpretación y aplicación de las leyes tributarias del Estado y realizar una labor permanente de difusión y orientación fiscal;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-XIV.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de ingresos, fiscalización, egresos, contabilidad, recursos humanos, materiales y servicios; así como vigilar la organización y funcionamiento de las direcciones que ejerzan las atribuciones anteriores;
-
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
-
-XV.- Vigilar el cumplimiento de las disposiciones legales y reglamentarias que rigen las relaciones entre el Estado y los Servidores Públicos;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-XVI.- Reclutar y seleccionar en apoyo de las dependencias, al personal de base del Poder Ejecutivo; tramitando dentro del límite de los recursos presupuestales todo lo relativo a nombramientos, promociones, cambios de adscripción, licencias, renuncias y bajas de los servidores públicos;
-
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
-
-XVII.- Mantener actualizado el escalafón y el tabulador de los Trabajadores al Servicio del Estado y los relativos al Personal al Servicio de la Educación a cargo del Estado, así como programar los estímulos y recompensas;
-
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
-
-XVIII.- Capacitar al personal al servicio y llevar los registros del mismo, controlar su asistencia y vacaciones;
-
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
-
-XIX.- Otorgar becas y promover actividades socioculturales y deportivas para los Servidores Públicos;
-
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
-
-XX.- Formular el inventario y llevar el control de los bienes muebles e inmuebles del Estado;
-
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
-
-XXI.- Celebrar los contratos que tengan por objeto proporcionar locales a las oficinas gubernamentales;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-XXII.- Cuidar de la conservación y el mantenimiento de los bienes muebles e inmuebles propiedad del Estado y celebrar acuerdos o convenios con las demás dependencias y entidades de la Administración Pública Estatal y Paraestatal, para encomendarles esta función;
-
-XXIII.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
-
-XXIV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
-
-XXV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
-
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 1993)</small>
-
-XXVI.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
+XVII.- Las demás que le atribuyan expresamente las Leyes, los reglamentos y las demás disposiciones normativas.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -518,6 +488,46 @@ XII.- Desarrollar programas para garantizar a la mujer la igualdad de oportunida
 > <small>(ADICIONADA, P.O. 29 DE ENERO DE 1994)</small>
 
 XIII.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+ARTICULO 27 BIS.- A la Secretaría de Administración le corresponde el despacho de los siguientes asuntos:
+
+I.- Elaborar conjuntamente con la Secretaría de Finanzas y la Secretaría de Planeación y Evaluación el Presupuesto de Egresos, para su presentación al Ejecutivo;
+
+II.- Emitir Con base en el decreto que apruebe el Presupuesto de Egresos del Gobierno del Estado, la normatividad para el ejercicio y control del gasto público estatal, que deban de realizar las dependencias y entidades de la administración pública estatal;
+
+III.- Proponer conjuntamente con la Secretaría de Planeación y Evaluación la estructura programática del presupuesto de egresos ante la Secretaría de Finanzas de conformidad con lo dispuesto por esta ley, por la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público, y por la Ley de Planeación para el Estado de Chihuahua;
+
+IV.- Expedir las órdenes para las erogaciones con cargo al presupuesto de las dependencias de la administración pública estatal y organismos descentralizados, con excepción de los pagos que competen a la Secretaría de Finanzas y a la Secretaría de Planeación y Evaluación;
+
+V.- Establecer medidas de control respecto a los egresos de las entidades paraestatales, así como de los Patronatos que manejen fondos fiscales, en los términos de la Ley de Entidades Paraestatales del Estado de Chihuahua;
+
+VI.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de egresos; así como vigilar la organización y funcionamiento de las direcciones que ejerzan las atribuciones anteriores;
+
+VII.- Velar por el cumplimiento de las leyes, reglamentos y demás disposiciones aplicables en relación con los recursos materiales y servicios directamente relacionados con el Gobierno del Estado, y vigilar que las dependencias y entidades ejerzan conforme a la Ley, las atribuciones que ésta les confiera en la materia;
+
+VIII.- Llevar a cabo el debido cumplimiento de la normatividad aplicable en materia de administración y enajenación de bienes del patrimonio del Gobierno del Estado, así como de las normas y criterios para su adquisición, uso y destino conforme a los ordenamientos jurídicos aplicables;
+
+IX.- Apoyar a las dependencias en la programación de la adquisición de sus bienes, servicios y recursos materiales, así como el desarrollo de los sistemas administrativos que requieran para el desempeño de sus actividades, en los términos que establezcan las leyes respectivas;
+
+X.- Planear y diseñar integralmente las modificaciones que deban hacerse a la Administración Pública Estatal en lo relativo al establecimiento de las estructuras de organización y de los sistemas de información y operación más adecuados para el logro de objetivos del gobierno;
+
+XI.- Programar, realizar y celebrar los contratos relativos a las adquisiciones, suministros de bienes muebles e inmuebles, equipo informático y los servicios necesarios para el cumplimiento de los fines de la Administración Pública del Estado;
+
+XII.- Llevar y mantener actualizado el registro de proveedores de bienes y servicios de la administración pública estatal; y el inventario de los bienes muebles e inmuebles propiedad del Estado Estableciendo programas para su conservación y mantenimiento;
+
+XIII.- Celebrar los contratos de arrendamiento que tengan por objeto proporcionar locales a las oficinas gubernamentales y dar las bases generales para los contratos de arrendamiento que con el mismo fin celebren las entidades del sector paraestatal;
+
+XIV.- Intervenir en los términos de las leyes de la materia en la celebración de contratos de compraventa, comodato, donaciones y demás en los que se afecte el patrimonio del Gobierno del Estado;
+
+XV.- Vigilar el cumplimiento de las disposiciones legales y reglamentarias que rigen las relaciones entre el Estado y los Servidores Públicos;
+
+XVI.- Reclutar y seleccionar en apoyo de las dependencias, al personal de base del Poder Ejecutivo; tramitando dentro del límite de los recursos presupuestales todo lo relativo a nombramientos, promociones, cambios de adscripción, licencias, renuncias y bajas de los servidores públicos; capacitar al personal y llevar los registros del mismo, controlar su asistencia y vacaciones; así como otorgar becas y promover actividades socioculturales y deportivas para los Servidores Públicos;
+
+XVII.- Mantener actualizado el escalafón y el tabulador de los trabajadores al servicio del Estado y los relativos al personal al servicio de la educación a cargo del Estado, así como programar los estímulos y recompensas;
+
+XVIII.- Las demás que le atribuyan expresamente las Leyes, los reglamentos y las demás disposiciones normativas.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -811,7 +821,9 @@ VII.- Recibir y revisar las declaraciones de situación patrimonial de los servi
 
 VIII.- Practicar auditorías a las entidades paraestatales y a los municipios cuando utilicen recursos federales o estatales, con motivo del ejercicio de las atribuciones que en esta materia lleve a cabo por sí o por conducto de firmas profesionales independientes;
 
-IX.- Seleccionar, con la opinión del Secretario de Finanzas y Administración, los despachos externos de auditores que, con base en su solvencia moral, capacidad atribuida y reconocimiento profesional, puedan ser contratados para que practiquen las auditorías a que se refiere la fracción anterior;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+IX.- Seleccionar, con la opinión del Secretario de Administración, los despachos externos de auditores que, con base en su solvencia moral, capacidad atribuida y reconocimiento profesional, puedan ser contratados para que practiquen las auditorías a que se refiere la fracción anterior;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
@@ -856,6 +868,54 @@ V.- Dictar las medidas adecuadas para combatir y erradicar la violencia contra l
 VI.- Otorgar la protección que la ley prevé a los derechos de las víctimas, estableciendo y reforzando mecanismos jurídicos y administrativos que permitan obtener la reparación del daño.
 
 El Procurador intervendrá por sí o por conducto de los Agentes del Ministerio Público, en el ejercicio de las atribuciones a que se refiere este artículo, según las previsiones de las leyes y reglamentos y los acuerdos que dicte el Ejecutivo local o el propio Procurador. El Reglamento prevendrá la distribución de los asuntos entre las unidades técnicas y administrativas de la Dependencia.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+ARTICULO 35 BIS.- A la Secretaría de Seguridad Pública corresponde el despacho de los siguientes asuntos:
+
+I.- Desarrollar las políticas de seguridad pública que establezca el titular el (sic) Poder Ejecutivo, y proponer la política criminal en el ámbito Estatal, que comprende las normas, instrumentos y acciones para prevenir de manera eficaz la comisión de delitos e infracciones;
+
+II.- Realizar las investigaciones de orden científico para determinar las causas y factores de los diversos tipos de criminalidad;
+
+III.- Implementar acciones tendientes a prevenir ciertas formas de comportamiento criminal;
+
+IV.- Fungir como nivel superior jerárquico inmediato de las unidades administrativas de los cuerpos de seguridad pública estatales;
+
+V.- Formular al Ejecutivo Estatal las propuestas necesarias para la elaboración del Programa Estatal de Seguridad Pública;
+
+VI.- Proponer al Ejecutivo del Estado las medidas que garanticen la congruencia de la política pública en materia de seguridad, prevención del delito y readaptación social de delincuentes entre las Direcciones de Seguridad Pública Municipal y/o comandancias de policía, en el ámbito de sus respectivas competencias;
+
+VII.- Representar al titular del Poder Ejecutivo en el Consejo Estatal de Seguridad Pública y en el Sistema Nacional de Seguridad Pública;
+
+VIII.- Proponer en el seno del Consejo Estatal de Seguridad Pública, los medios indispensables para la prevención de la criminalidad y la comisión de delitos e infracciones;
+
+IX. Suministrar, intercambiar y sistematizar la información sobre seguridad pública con la Procuraduría General de Justicia y demás autoridades estatales y municipales, en la materia;
+
+X.- Fomentar a nivel estatal la participación ciudadana, en la formulación y desarrollo de programas de prevención;
+
+XI.- Establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar técnica y científicamente la información para la prevención de delitos e infracciones;
+
+XII.- Elaborar y difundir los estudios e investigaciones criminólogicas;
+
+XIII.- A través de programas específicos, otorgar atención a las víctimas del delito y celebrar acuerdos de colaboración con otras instituciones del sector público, privado y social;
+
+XIV.- Celebrar convenios de colaboración, en el ámbito de su competencia y en el marco del Sistema Estatal y Nacional de Seguridad Pública, con autoridades federales, Estatales y Municipales;
+
+XV.- Diseñar la política penitenciaria en los delitos del orden local; desarrollar el procedimiento de ejecución de sanciones penales, así como organizar y dirigir los programas a liberados, sentenciados o procesados;
+
+XVI.- Vigilar el adecuado funcionamiento de las cárceles y establecimientos penitenciarios, así como el de los consejos tutelares para menores, centro de rehabilitación o de mejoramiento para menores y demás instituciones similares;
+
+XVII.- Participar, conforme a los convenios respectivos, en el traslado de los internos de los Centros de Reclusión en el Estado;
+
+XVIII.- Diseñar la política criminal para la aplicación de las medidas de seguridad a los imputables adultos que están sometidos a procedimiento especial;
+
+XIX.- Dirigir y vigilar el cumplimiento de las leyes y reglamentos con relación a las funciones de tránsito y protección civil, así como vigilar la organización y el funcionamiento de las direcciones que ejerzan las atribuciones correspondientes y de acuerdo con los ordenamientos legales aplicables;
+
+XX.- Ejercer la vigilancia del tránsito y coordinar y normar las funciones de las delegaciones de tránsito en el Estado;
+
+XXI.- Generar la infraestructura necesaria para la profesionalización de los cuerpos de seguridad pública;
+
+XXII.- Las demás que le atribuyan expresamente las leyes o reglamentos.
 
 ###### ARTICULO 36.
 
@@ -949,11 +1009,13 @@ La vigilancia de la participación estatal estará a cargo de un Comisario desig
 
 Las relaciones de las empresas de participación estatal minoritaria con la administración pública centralizada o paraestatal, serán las que determine la ley.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 41.
 
-Los fideicomisos a que se refiere esta Ley, serán aquellos cuya creación autorice al Congreso de acuerdo a lo dispuesto en el artículo 64, fracción XLI, de la Constitución Política del Estado. En los instrumentos relativos a la formalización del fideicomiso deberá indicarse el decreto del Congreso del Estado que lo autoriza. La Secretaría de Finanzas y Administración será el fideicomitente único de la administración pública centralizada. Las entidades a que se refiere el artículo 3 de esta ley fungirán como fideicomitentes en los fideicomisos en que dichas entidades aporten recursos para la constitución del patrimonio fideicomitido.
+Los fideicomisos a que se refiere esta Ley, serán aquellos cuya creación autorice al (sic) Congreso de acuerdo a lo dispuesto en el artículo 64 fracción XLI de la Constitución Política del Estado. En los instrumentos relativos a la formalización del fideicomiso deberá indicarse el decreto del Congreso del Estado que lo autoriza. La Secretaría de Finanzas será el fideicomitente único de la administración centralizada.
+
+Las entidades a que se refiere el artículo 3 de esta ley fungirá (sic) como fideicomitentes en los fideicomisos en que dichas entidades aporten recursos para la constitución del patrimonio fideicomitido.
 
 ###### ARTICULO 42.
 
@@ -1234,3 +1296,69 @@ P.O. 14 DE ABRIL DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE OCTUBRE DE 2004.
+
+DECRETO No. 1186
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas y adiciones a que se refiere este decreto entrarán en vigor el día cuatro de octubre del año dos mil cuatro.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal contará con término de noventa días naturales, a partir del inicio de la vigencia del presente Decreto, para proponer las reformas legales necesarias para adecuar el marco jurídico estatal, así como para realizar las adecuaciones reglamentarias y administrativas, a efecto de poder estar en aptitud de operar la Secretaría de Seguridad Pública, en los términos del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Conforme a las disposiciones legales aplicables, el Ejecutivo Estatal realizará las transferencias presupuestarias necesarias a efecto de que la Secretaría de Seguridad Pública pueda despachar los asuntos de su competencia. En tanto las transferencias anteriormente señaladas no se realicen, el despacho de los asuntos continuará a cargo de la Secretaría General de Gobierno.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos que en aplicación de las reformas y adiciones contenidas en este decreto pasen a formar parte de la Secretaría de Seguridad Pública, en ninguna forma resultaran afectados en los derechos que hayan adquirido en virtud de su relación laboral con la Administración Pública Estatal.
+
+###### ARTÍCULO QUINTO.
+
+El cambio de alguna unidad administrativa a otra, se hará incluyendo a los servidores públicos adscritos, mobiliario, vehículos, instrumentos, aparatos, archivos y, en general todo cuanto corresponda.
+
+P.O. 2 DE OCTUBRE DE 2004.
+
+DECRETO No. 1195
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE OCTUBRE DE 2004.
+
+DECRETO No. 1231
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas y adiciones a que se refiere este decreto entraran en vigor el día cuatro de octubre del año dos mil cuatro.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente decreto, se faculta al Ejecutivo para reorganizar la estructura de sus dependencias y redistribuir las partidas del Presupuesto de Egresos, sin excederse del monto total autorizado para el presente ejercicio, en un plazo no mayor de 90 días naturales.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo Estatal contará con término de noventa días naturales, a partir del inicio de la vigencia del presente Decreto, para proponer las reformas legales necesarias para adecuar el marco jurídico estatal, así como para realizar las adecuaciones reglamentarias y administrativas, a efecto de poder estar en aptitud de operar la Secretaría de Finanzas y la Secretaría de Administración, en los términos del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Las funciones a cargo de alguna dependencia, establecidas en la ley que se reforma mediante este decreto o en cualquier otra ley o reglamento, así como en convenios o acuerdos celebrados con dependencias o entidades de la administración pública estatal, federal o municipal, serán asumidas por la dependencia que corresponda de conformidad con el presente decreto, a partir de la entrada en vigor del mismo
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que con motivo de este decreto deban pasar de una dependencia o entidad a otra, permanecerán en el último trámite que hubiesen alcanzado, hasta que las unidades administrativas se incorporen a la Dependencia que señale este decreto, a excepción de los casos urgentes sujetos a plazos improrrogables.
+
+###### ARTÍCULO SEXTO.
+
+Cuando en este decreto se de una denominación nueva o distinta a alguna dependencia cuyas funciones estén establecidas por otra ley, dichas atribuciones se entenderán concedidas a la dependencia que determine el presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los servidores públicos que en aplicación de las reformas y adiciones contenidas en este decreto pasen a formar parte de la Secretaría de Finanzas o la Secretaría de Administración, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral con la Administración Pública Estatal.
+
+###### ARTÍCULO OCTAVO.
+
+El cambio de alguna unidad administrativa a otra, se hará incluyendo a los servidores públicos adscritos, mobiliario, vehículos, instrumentos, aparatos, archivos y, en general todo cuanto corresponda.
