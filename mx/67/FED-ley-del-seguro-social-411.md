@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1973-03-27"
+last_updated: "1974-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL EL 27 DE MARZO DE 1973.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -2212,7 +2210,9 @@ Las reservas se invertirán:
 
 I.- Hasta un ochenta y cinco por ciento en la adquisición, construcción o financiamiento de hospitales, sanatorios, clínicas, guarderías infantiles, almacenes, farmacias, laboratorios, centros de convalecencia, centros de seguridad social y demás muebles e inmuebles propios para los fines de la Institución;
 
-II.- Hasta un diez por ciento en bonos o títulos emitidos por el Gobierno Federal, Estados, Distrito o Territorios Federales, Municipios, instituciones nacionales de crédito o entidades encargadas del manejo de servicios públicos, siempre que se sujete a lo dispuesto en el artículo siguiente.
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+II.- Hasta un diez por ciento en bonos o títulos emitidos por el Gobierno Federal, Estados, Distrito Federal, Municipios, instituciones nacionales de crédito o entidades encargadas del manejo de servicios públicos, siempre que se sujete a lo dispuesto en el artículo siguiente.
 
 Los remanentes disponibles para inversión, podrán destinarse a préstamos hipotecarios, que se sujetarán a los requisitos establecidos en el artículo 265, en anticipos de pensiones y en acciones, bonos o títulos de instituciones nacionales de crédito o sociedades mexicanas, en los términos del artículo 266 y sin que en ningún caso esta última inversión exceda del cinco por ciento del total de las reservas.
 
@@ -2338,11 +2338,11 @@ Es inextinguible el derecho al otorgamiento de una pensión, ayuda asistencial o
 
 El Director General del Instituto, los consejeros, los funcionarios y empleados, así como las personas que a título de técnicos o de otro cualquiera sean llamados a colaborar, estarán sujetos a las responsabilidades civiles y penales en que pudieren incurrir como encargados de un servicio público.
 
-> <small>(F. DE E., D.O.F. 27 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 282.
 
-Las personas que desempeñen algún cargo en el Instituto aún en comisión por tiempo limitado, quedarán sujetas a lo dispuesto por los artículos 210 a 224 del Código Penal para el Distrito y Territorios Federales, en sus respectivos casos, salvo las que se encuentren comprendidas en el artículo 111 de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación.
+Las personas que desempeñen algún cargo en el Instituto aún en comisión por tiempo limitado, quedarán sujetas a lo dispuesto por los artículos 210 a 224 del Código Penal para el Distrito Federal en sus respectivos casos, salvo las que se encuentren comprendidas en el artículo 111 de la Ley de Responsabilidades de los funcionarios y Empleados de la Federación.
 
 ###### ARTICULO 283.
 
@@ -2431,3 +2431,11 @@ ARTICULO DECIMOCTAVO.- La incorporación al régimen obligatorio de los trabajad
 México, D. F., 22 de febrero de 1973.- Rafael Castillo Castro, D. P.- Carlos Pérez Cámara, S. P.- Raúl Rodríguez Santoyo, D. S.- Roberto Pizano Saucedo, S. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintiséis días del mes de febrero de mil novecientos setenta y tres.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Porfirio Muñoz Ledo.- Rúbrica.- El Secretario de Salubridad y Asistencia, Jorge Jiménez Cantú.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Hugo B. Margáin.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
