@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "1997-02-07"
+last_updated: "2001-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2001.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -41,11 +41,19 @@ CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
 ### CAPITULO PRIMERO. De las Disposiciones Generales
 
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de este Código son de orden público e interés general y tienen por objeto regular el procedimiento administrativo ante las autoridades del Poder Ejecutivo del Estado, los municipios y los organismos auxiliares de carácter estatal y municipal, así como el proceso administrativo ante el Tribunal de lo Contencioso Administrativo del Estado de México.
+Las disposiciones de este Código son de orden público e interés general y tienen por objeto regular el acto y el procedimiento administrativo ante las autoridades del Poder Ejecutivo del Estado, los municipios y los organismos descentralizados de carácter estatal y municipal con funciones de autoridad, así como el proceso administrativo ante el Tribunal de lo Contencioso Administrativo del Estado de México.
 
-El presente ordenamiento no es aplicable a la Universidad Autónoma del Estado de México y a la Comisión de Derechos Humanos del Estado de México, salvo que las disposiciones legales que las rigen señalen lo contrario.
+Salvo disposición expresa en contrario, el presente ordenamiento no es aplicable a los integrantes de la Legislatura del Estado de México, a la Universidad Autónoma del Estado de México, a la Comisión de Derechos Humanos del Estado de México, a la Comisión de Arbitraje Médico del Estado de México, a los consejos tutelares de menores, a las materias laboral y electoral, ni a los conflictos suscitados entre los integrantes de los ayuntamientos, y por la elección de las autoridades auxiliares municipales.
+
+Para efectos de este Código, se entiende por:
+
+I.- Acto administrativo, la declaración unilateral de voluntad, externa y de carácter individual, emanada de las autoridades de las dependencias del Poder Ejecutivo del Estado, de los municipios y de los organismos descentralizados de carácter estatal y municipal, que tiene por objeto crear, transmitir, modificar o extinguir una situación jurídica concreta;
+
+II.- Procedimiento administrativo, la serie de trámites que realizan las dependencias y organismos descentralizados de la administración pública estatal o municipal, con la finalidad de producir y, en su caso, ejecutar un acto administrativo.
 
 ###### Artículo 2.
 
@@ -115,7 +123,9 @@ Las promociones y actuaciones se efectuarán en días y horas hábiles.
 
 Son días hábiles todos los del año, con exclusión de los sábados, domingos y aquéllos que se señalen en el calendario oficial correspondiente, que deberá publicarse, en el mes de diciembre del ejercicio anterior, en la «Gaceta del Gobierno» o en la del municipio cuando se trate del calendario municipal. La existencia de personal de guardia no habilita los días.
 
-Son horas hábiles las comprendidas entre las 9:00 y las 20:00 horas.
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2001)</small>
+
+Son horas hábiles las comprendidas entre las 9:00 y las 18:00 horas.
 
 ###### Artículo 13.
 
@@ -179,6 +189,10 @@ Las partes podrán consultar los expedientes en que se documenta el procedimient
 
 Cuando se destruyan o extravíen los expedientes o alguna de sus piezas, la autoridad administrativa o el Tribunal ordenarán, de oficio o a petición de parte, su reposición.
 
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2001)</small>
+
+Los particulares interesados en el procedimiento, y las partes en el proceso, coadyuvarán con el Tribunal en la reposición del expediente.
+
 ###### Artículo 22.
 
 Las resoluciones serán claras, precisas y congruentes con las cuestiones planteadas por las partes o las derivadas del expediente del procedimiento y proceso administrativo.
@@ -214,6 +228,10 @@ Las notificaciones se entenderán con la persona que deba ser notificada o su re
 En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia simple del documento a que se refiere la notificación.
 
 El notificador asentará razón de todas y cada una de las circunstancias observadas en la diligencia de notificación.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2001)</small>
+
+El Tribunal podrá encomendar por exhorto a los tribunales de lo contencioso administrativo de los estados, la práctica de las diligencias de notificación que deban efectuarse en sus respectivas jurisdicciones.
 
 ###### Artículo 27.
 
@@ -430,6 +448,10 @@ I. Que sean de fecha posterior a los escritos señalados en el párrafo anterior
 II. Los de fecha anterior respecto de los cuales, protestando decir verdad, asevere la parte que los presente no haber tenido conocimiento de su existencia, salvo prueba en contrario de parte interesada, en su caso; y
 
 III. Los que no haya sido posible adquirir con anterioridad, por causas que no sean imputables a la parte interesada, siempre que se haya hecho oportunamente la designación del archivo o lugar en que se encuentren los originales.
+
+(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2001) (F. DE E., G.G. 28 DE ENERO DE 2002)
+
+En estos casos, los documentos podrán presentarse hasta antes de que se dicte sentencia.
 
 ###### Artículo 63.
 
@@ -885,15 +907,23 @@ Todo particular interesado podrá desistirse de su solicitud. Si el escrito de i
 
 Las autoridades administrativas podrán celebrar con los particulares acuerdos o convenios de carácter conciliatorio que pongan fin a los asuntos, siempre que no sean contrarios a las disposiciones legales aplicables.
 
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 135.
 
-Las peticiones que los particulares hagan a las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos auxiliares de carácter estatal o municipal, deberán ser resueltas en forma escrita, dentro de un plazo que no exceda de 30 días posteriores a la fecha de su presentación o recepción. Cuando se requiera al promovente que cumpla los requisitos omitidos o proporcione los elementos necesarios para resolver, el término comenzará a correr desde que el requerimiento haya sido cumplido.
+Las peticiones que los particulares hagan a las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos descentralizados con funciones de autoridad, de carácter estatal o municipal, deberán ser resueltas en forma escrita, dentro de un plazo que no exceda de treinta días hábiles posteriores a la fecha de su presentación o recepción.
 
-Transcurrido el citado plazo, sin que se notifique la resolución expresa, el silencio de las autoridades competentes se considerara como resolución afirmativa ficta, que significa decisión favorable a los derechos e intereses legítimos de los peticionarios, conforme a las disposiciones legales que rigen a la materia. Para acreditar la existencia de la resolución afirmativa ficta, los particulares solicitarán a la autoridad ante la que se presentó la petición, la certificación de que ha operado aquélla, en la que se precisarán sus efectos legales, misma que deberá expedirse dentro de los tres días posteriores a la presentación de la solicitud. En caso de que no se expida la certificación en este último plazo, los peticionarios acreditarán la existencia de la resolución afirmativa ficta, que producirá todos sus efectos legales ante autoridades administrativas y particulares, con la presentación de la copia del escrito que contenga la petición formulada, que incluya claramente el sello fechador de la dependencia administrativa o la constancia de recepción firmada por el servidor público respectivo.
+Cuando se requiera al promovente para que se exhiba los documentos omitidos o cumpla con requisitos, formales, o proporcione los datos necesarios para su resolución, el plazo empezará a correr desde que el requerimiento haya sido cumplido. Si la autoridad omite efectuar el requerimiento, la resolución afirmativa ficta se configurará en términos del siguiente.
 
-No operará la resolución afirmativa ficta tratándose de peticiones que impliquen la adquisición de la propiedad o posesión de bienes del Estado, municipios y organismos auxiliares de carácter estatal o municipal, el otorgamiento concesiones para la prestación de servicios públicos, la autorización de fraccionamientos o subdivisiones de terrenos, la autorización de exenciones para el pago de créditos fiscales y la resolución del recurso administrativo de inconformidad. Tampoco se configura la resolución afirmativa ficta, cuando la petición se hubiere presentado ante autoridad incompetente o los particulares interesados no hayan reunido los requisitos que señalen las normas jurídicas aplicables.
+Transcurrido el citado plazo sin que se notifique la resolución expresa, los interesados podrán solicitar a la autoridad ante la que presentó la petición, la certificación de que ha operado en su favor la afirmativa ficta, que significa decisión favorable a los derechos e intereses legítimos de los peticionarios.
 
-En todos los casos en que no opera la resolución afirmativa ficta, el silencio de las autoridades en el plazo de 30 días posteriores a la presentación o recepción de la petición, se considerará como resolución negativa ficta, que significa decisión desfavorable para los derechos e intereses de los peticionarios, para efectos de su impugnación en el juicio contencioso administrativo.
+Dentro de los tres días hábiles posteriores a la presentación de la solicitud de la certificación, la autoridad deberá expedirla salvo cuando el interesado no cumpla con los supuestos de procedencia establecidos en la ley de la materia.
+
+En caso de que la autoridad competente no de respuesta a la solicitud de certificación dentro del plazo señalado en el párrafo anterior, los peticionarios acreditarán la existencia de la resolución afirmativa ficta, que producirá todos sus efectos legales ante las autoridades administrativas, con la presentación del documento que acuse de recibo original que contenga la petición formulada en el que aparezca claramente, o sello fechador original de la dependencia administrativa o la constancia de recepción con firma original del servidor público respectivo.
+
+La resolución de la afirmativa ficta operará tratándose de peticiones que den inicio a procedimientos en las materias reguladas por el Código Administrativo del Estado de México. Excepto, tratándose de peticiones que tengan por objeto la transmisión de la propiedad o la posesión de bienes del Estado, municipios y organismos auxiliares de carácter estatal o municipal, la afectación de derechos de terceros, el otorgamiento o modificación de concesiones para la prestación de servicios públicos, autorizaciones de conjuntos urbanos, licencias de uso del suelo, normas técnicas, y resolución del recurso administrativo de inconformidad. Tampoco se configura la resolución afirmativa ficta, cuando la petición se hubiese presentado ante la autoridad incompetente, así como en los casos de la rescisión de las relaciones laborales con los policías.
+
+En todos los casos en que no opera la resolución afirmativa ficta, el silencio de las autoridades en el plazo de treinta días hábiles posteriores a la presentación o recepción de la petición, se considerará como resolución negativa ficta, que significa decisión desfavorable a los derechos e intereses de los peticionarios, para efectos de su impugnación en el juicio contencioso administrativo.
 
 ###### Artículo 136.
 
@@ -1497,23 +1527,31 @@ Las licencias a los magistrados serán concedidas por la Sala Superior hasta por
 
 El Tribunal tendrá un presidente, quien durará en su encargo dos años, pudiendo ser reelecto por otro período igual.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 211.
 
-El Tribunal contará con secretarios generales de acuerdos, jefes de unidad, secretarios de acuerdos, secretarios proyectistas, asesores comisionados, actuarios y demás servidores públicos necesarios para su funcionamiento.
+El Tribunal contará con un secretario general del pleno, secretarios generales de acuerdos, jefes de unidad, secretarios de acuerdos, secretarios proyectistas, asesores comisionados, actuarios y demás servidores públicos necesarios para su funcionamiento.
 
 El ingreso y promoción de estos servidores públicos, se realizará mediante el sistema de carrera jurisdiccional, en la que se considerarán los factores de honestidad, preparación, eficiencia y antigüedad.
 
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 212.
 
-Las atribuciones de los secretarios generales de acuerdos, jefes de unidad, secretarios de acuerdos, secretarios proyectistas, asesores comisionados, actuarios y demás servidores públicos, se establecerán en el reglamento interior del Tribunal.
+Las atribuciones del secretario general del pleno, de los secretarios generales de acuerdos, jefes de unidad, secretarios de acuerdos, secretarios proyectistas, asesores comisionados, actuarios y demás servidores públicos, se establecerán en el reglamento interior del Tribunal.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 213.
 
-Los magistrados, secretarios generales de acuerdos, jefes de unidad, secretarios de acuerdos, secretarios proyectistas, asesores comisionados y actuarios, estarán impedidos para desempeñar cualquier otro empleo dependiente de la federación, Estado, municipios, organismos auxiliares o bien de otra entidad federativa o de algún particular, excepto los de carácter docente, siempre que su desempeño no afecte las funciones propias de estos servidores públicos y tratándose de magistrados sea gratuito. También estarán impedidos para ejercer la profesión de abogado, salvo en causa propia, de su cónyuge o de sus familiares hasta el cuarto grado. Tampoco podrán ser agentes de cambio o ministros de algún culto religioso.
+Los magistrados, secretario general del pleno, secretarios generales de acuerdos, jefes de unidad, secretarios de acuerdos, secretarios proyectistas, asesores comisionados y actuarios, estarán impedidos para desempeñar cualquier otro empleo dependiente de la federación, Estado, municipios, organismos auxiliares o de otra entidad federativa o de algún particular, excepto los de carácter docente, siempre que su desempeño no afecte las funciones propias de estos servidores públicos y tratándose de magistrados sea gratuito. También estarán impedidos para ejercer la profesión de abogado, salvo en causa propia, de su cónyuge o de sus familiares hasta el cuarto grado. Tampoco podrán ser agentes de cambio o ministros de algún culto religioso.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 214.
 
-Los magistrados, secretarios generales de acuerdos, jefes de unidad, secretarios de acuerdos, secretarios proyectistas, asesores comisionados y actuarios que hayan cumplido 70 años de edad o padezcan incapacidad física o mental, para el desempeño de su cargo, no podrán seguir prestando sus servicios en el Tribunal. Percibirán las prestaciones que establezca la legislación aplicable.
+Los magistrados, secretario general del pleno, secretarios generales de acuerdos, jefes de unidad, secretarios de acuerdos, secretarios proyectistas, asesores comisionados y actuarios que hayan cumplido setenta años de edad o padezcan incapacidad física o mental, para el desempeño de su cargo, no podrán seguir prestando sus servicios en el Tribunal. Percibirán las prestaciones que establezca la legislación aplicable.
 
 ###### Artículo 215.
 
@@ -1533,9 +1571,11 @@ El pleno se compondrá de los magistrados de la sala superior y del presidente d
 
 Las resoluciones del pleno se tomarán por unanimidad o por mayoría de votos de sus integrantes presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 218.
 
-Son atribuciones del pleno de la sala superior:
+Son atribuciones del pleno de la Sala Superior:
 
 I. Designar al presidente del Tribunal;
 
@@ -1549,7 +1589,9 @@ V. Conceder licencias a los magistrados del Tribunal, hasta por 15 días;
 
 VI. Designar a quienes suplan las ausencias temporales de los magistrados del Tribunal;
 
-VII. Nombrar a los secretarios generales de acuerdos y jefes de unidad del Tribunal;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2001)</small>
+
+VII. Nombrar al Secretario General del Pleno, a los Secretarios Generales de Acuerdos y Jefes de Unidad del Tribunal;
 
 VIII. Formular anualmente el presupuesto de egresos del Tribunal;
 
@@ -1683,9 +1725,11 @@ VII. Informar, semanalmente, al presidente del Tribunal, el estado de las labore
 
 VIII. Las demás que se señalen en este Código.
 
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 228.
 
-Las salas regionales conocerán por razón de territorio, respecto de los actos y disposiciones generales que dicten, ordenen, ejecuten o traten de ejecutar las autoridades administrativas y fiscales con sede en su jurisdicción. Si fueren varias las autoridades demandadas, conocerá del juicio la sala regional en cuya jurisdicción radique la autoridad ordenadora.
+La competencia de las salas regionales por razón de territorio se determina por el domicilio de la parte actora.
 
 ### CAPITULO TERCERO. Del Juicio Contencioso Administrativo
 
@@ -1973,7 +2017,7 @@ En cualquier momento de la tramitación del proceso administrativo, las partes p
 
 ###### Artículo 266.
 
-Las demás cuestiones que surjan dentro del procedimiento se decidirán de plano, salvo las que trasciendan al resultado de juicio, que se resolverán en la sentencia. Tales cuestiones se harán valer por parte interesada dentro de los tres días posteriores a la notificación del acuerdo respectivo. Las cuestiones previas no suspenderán la tramitación del juicio.
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2001)
 
 #### SECCION SEPTIMA. De la Audiencia
 
@@ -2059,17 +2103,7 @@ VII. Los puntos resolutivos, en los que se expresarán: la declaratoria de sobre
 
 ###### Artículo 274.
 
-Serán causas de invalidez de los actos impugnados:
-
-I. Incompetencia de la autoridad que los haya dictado, ordenado, ejecutado o los trate de ejecutar;
-
-II. Omisión de los requisitos formales que legalmente deban revestir los actos, cuando ello afecte las defensas del particular y trascienda al sentido de los mismos;
-
-III. Vicios del procedimiento que afecten las defensas del particular y trasciendan al sentido de los actos;
-
-IV. Violación de las disposiciones aplicadas o no haberse aplicado las debidas, en cuanto al fondo del asunto; y
-
-V. Arbitrariedad, desproporción, desigualdad, injusticia manifiesta, desvío de poder o cualquier otra causa similar a éstas.
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2001)
 
 ###### Artículo 275.
 
@@ -2110,6 +2144,10 @@ En el propio oficio en que se haga la notificación a los demandados, se les pre
 Si dentro de los tres días siguientes a la notificación a los demandados, la sentencia no quedare cumplida o no se encontrare en vías de cumplimiento, la sala regional competente, de oficio o a petición de parte, dará vista a las autoridades para que manifiesten lo que a su derecho convenga. Se formulará la misma vista, cuando el actor manifieste que existe defecto o exceso en la ejecución de la sentencia o que se ha repetido el acto impugnado.
 
 La sala regional resolverá si el demandado ha cumplido con los términos de la sentencia, si no existe defecto o exceso en la ejecución de la misma y si no se ha repetido el acto impugnado; de lo contrario, la requerirá para que cumpla la decisión respectiva en un plazo de tres días posteriores al en que surta efectos la notificación y previniéndola que, en caso de renuencia, se le impondrá una multa hasta por la cantidad equivalente de 50 a 1,000 días de salario mínimo vigente en la jurisdicción correspondiente. Cuando la naturaleza del acto lo permita, el magistrado comisionará al secretario de acuerdos o actuario para que dé cumplimiento a la ejecutoria, en caso de que no lo haga la autoridad en ese plazo.
+
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2001) (F.DE E., P.O. 28 DE ENERO DE 2002)
+
+En los casos en que por la naturaleza del asunto no sea materialmente posible dar cumplimiento a la sentencia o iniciar su cumplimiento dentro del plazo establecido en el primer párrafo de este artículo, el magistrado podrá ampliarlo hasta por diez días, contados a partir del día siguiente al en que se notifique a los demandados el requerimiento correspondiente.
 
 ###### Artículo 281.
 
@@ -2238,3 +2276,13 @@ LIC. CESAR CAMACHO QUIROZ (Rúbrica)
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. HECTOR XIMENEZ GONZALEZ (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.G. 21 DE DICIEMBRE DE 2001.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Los procedimientos y procesos administrativos que se encuentren en trámite al entrar en vigor este decreto, se decidirán conforme a las disposiciones legales anteriores al mismo.
