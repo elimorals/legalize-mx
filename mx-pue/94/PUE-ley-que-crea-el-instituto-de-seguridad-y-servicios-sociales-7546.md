@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-instituto-de-seguridad-y-servicios-sociales-754
 country: "mx"
 rank: "ley"
 publication_date: "1981-02-10"
-last_updated: "1981-02-10"
+last_updated: "1983-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE CREA EL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO DE PUEBLA, COMO UN ORGANISMO PUBLICO DESCENTRALIZADO, CON PERSONALIDAD JURIDICA Y PATRIMONIO PROPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Suplemento Número 1 del Periódico Oficial del Estado de Puebla, el martes 10 de febrero de 1981.
 
@@ -67,6 +67,10 @@ El domicilio del Instituto será la Ciudad de Puebla de Zaragoza, y establecerá
 
 La acción de esta Ley comprende a todos los Trabajadores al Servicio de los Poderes del Estado de Puebla, pensionistas del ramo, así como a los familiares beneficiarios, tanto de los trabajadores como de los pensionistas mencionados, ya sean funcionarios por designación o empleados por nombramientos legales, o de elección popular.
 
+> <small>(ADICIONADO, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
+La acción y beneficios de esta Ley comprende también a los miembros integrantes de la Junta Directiva y comisarios en ejercicio del Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio de los Poderes del Estado.
+
 ###### ARTICULO 3o.
 
 Para los efectos de esta Ley se entiende:
@@ -107,7 +111,9 @@ XII.- Pago póstumo;
 
 XIII.- Devolución del valor de sus aportaciones al fondo de pensiones a los trabajadores que se separen del servicio;
 
-XIV.- Estímulos económicos a los 20 y 30 años de servicio; y
+> <small>(REFORMADA, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
+XIV.- Estímulos económicos a los 20, 25 y 30 años de servicio; y
 
 XV.- Los demás que se establezcan en el texto de esta Ley.
 
@@ -117,9 +123,13 @@ El Gobierno del Estado, remitirá al Instituto, en el mes de enero de cada año,
 
 Asimismo, pondrá en conocimiento del Instituto, dentro de los 15 días siguientes a la fecha:
 
-I.- Las altas y bajas de los trabajadores; y
+> <small>(REFORMADA, P. O. 13 DE DICIEMBRE DE 1983)</small>
 
-II.- Las modificaciones de los sueldos sujetos a descuentos.
+I.- Las altas y bajas de los trabajadores y los fallecimientos de los pensionistas de la Ley de 1933 que pertenezcan al Instituto.
+
+> <small>(REFORMADA, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
+II.- Las modificaciones de los sueldos y pensiones que cubre el Estado, sujetos a descuentos.
 
 ###### ARTICULO 6o.
 
@@ -141,9 +151,11 @@ Los trabajadores que por cualquier causa no PERCIBAN íntegramente su sueldo, s�
 
 El Instituto recopilará y clasificará la información sobre el personal, a efecto de formular escalas de sueldo, promedio de duración, las estadísticas y cálculos necesarios para encauzar las prestaciones que debe proporcionar el propio Instituto, y, en su caso, proponer al Gobierno del Estado y a la Sección LI del S.N.T.E. y al Sindicato de los Trabajadores al Servicio de los Poderes del Estado, las modificaciones que fueran procedentes.
 
+> <small>(REFORMADO, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 10.
 
-El Instituto formulará el padrón general de trabajadores en servicio y cuidará de registrar las altas y bajas y modificaciones de sueldo que ocurran, con objeto de que dicho padrón esté al corriente y sirva de base para formular las liquidaciones que se refieran a las cuotas de los trabajadores y la aportación del Gobierno del Estado.
+El Instituto formulará el padrón general de trabajadores en servicio y pensionistas, y cuidará de registrar las altas y bajas y modificaciones de sueldo que ocurran, con objeto de que dicho padrón esté al corriente y sirva de base para formular las liquidaciones que se refieran a las cuotas de los trabajadores y la aportación del Gobierno del Estado.
 
 ###### ARTICULO 11.
 
@@ -245,7 +257,9 @@ I.- Planificar y llevar a cabo las operaciones y servicios del Instituto;
 
 II.- Dictar los acuerdos que estimen necesarios para proporcionar las prestaciones establecidas en esta Ley;
 
-III.- Conceder, negar, suspender, modificar y revocar las jubilaciones, en los términos de esta Ley; previa notificación al interesado;
+> <small>(REFORMADA, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
+III.- Conceder, negar, suspender, modificar y revocar las jubilaciones o pensiones, en los términos de esta Ley; previa notificación al interesado.
 
 IV.- Nombrar y remover al personal de base y de confianza del Instituto, a propuesta del Director General;
 
@@ -321,17 +335,21 @@ XVII.- Las demás que señalen esta Ley y sus reglamentos.
 
 De los Sueldos, Cuotas, Aportaciones y su Aplicación.
 
+> <small>(REFORMADO, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 25.
 
-El sueldo básico que se tomará en cuenta para los efectos de esta Ley, se integrará solamente con el sueldo presupuestal y el sobresueldo asignado, excluyendo cualquier otra prestación que el trabajador percibiera con motivo de su trabajo.
+Para efectos de esta Ley se considerará sueldo básico, el integrado con el sueldo base más el sobresueldo.
 
 ###### ARTICULO 26.
 
 Los trabajadores a que se refiere el Artículo 3o. de esta Ley, deberán aportar una cuota obligatoria del 8% del sueldo básico mensual que disfrutan, salvo renuncia por escrito porque cuoticen (sic) en otra Institución de Seguridad Social.
 
+> <small>(REFORMADO PRIMER PARRAFO, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 27.
 
-La cuota del Seguro a que se refiere este Capítulo en favor de pensionistas y sus beneficiarios, se cubrirá en la siguiente forma:
+La cuota que comprende este capítulo, por lo que se refiere a pensionistas, se cubrirá en la siguiente forma:
 
 I.- 3% a cargo del pensionista, sobre la pensión que disfrute; y
 
@@ -345,7 +363,9 @@ Los trabajadores que desempeñen dos o más empleos en el Gobierno del Estado, c
 
 El Gobierno del Estado está obligado a:
 
-I.- Efectuar los descuentos de las cuotas a que se refiere el Artículo 26 de esta Ley y las que el Instituto determine con motivo de su aplicación.
+> <small>(REFORMADA, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
+I.- Efectuar los descuentos de las cuotas a que se refieren los artículos 26 y 27 de esta Ley y las que el Instituto determine con motivo de su aplicación.
 
 II.- Enviar al Instituto las nóminas y recibos en que figuren las retenciones, dentro de los diez días siguientes a la fecha en que se efectuaron; y
 
@@ -364,6 +384,10 @@ III.- Cuando el trabajador sufra prisión preventiva seguida de sentencia absolu
 IV.- Cuando el trabajador fuere suspendido, por todo el tiempo que dure la suspensión y siempre que por resolución firme sea reinstalado en su empleo.
 
 En los casos mencionados, el trabajo deberá pagar la totalidad de las cuotas a que se refiere el Artículo 26. Si el trabajador falleciere antes de reanudar sus labores y sus familiares beneficiarios tuvieren derecho a pensión, éstos deberán cubrir el importe de esas cuotas, a fin de poder disfrutar de la misma.
+
+> <small>(ADICIONADO, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
+La separación del trabajo sin causa imputable al trabajador, que haya ingresado como mínimo 24 cotizaciones sobre el sueldo básico mensual, le otorga el derecho a seguir perteneciendo al Instituto y a gozar de sus beneficios , siempre que por escrito lo solicite y cubra el 25% de salario básico que percibía al momento de dejar de laborar para el Gobierno del Estado o Instituto, efectuándose los aumentos de las cotizaciones correspondientes en las distintas fechas en que se incremente el salario que percibía.
 
 ###### ARTICULO 31.
 
@@ -621,7 +645,9 @@ V.- Si la imposibilidad del pago ocurre dentro de los cinco primeros años, el i
 
 VI.- Los honorarios notariales para el otorgamiento de las escrituras serán cubiertos por mitad entre el Instituto y los Trabajadores; el pago de los impuestos y gastos adicionales será por cuenta exclusiva de éstos.
 
-Los pensionistas gozarán de los beneficios de este Artículo en los términos que dentro de los lineamientos de esta Ley fije la Junta Directiva por medio de acuerdos generales.
+> <small>(REFORMADO, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
+Los pensionistas gozarán de los beneficios de este artículo.
 
 ###### ARTICULO 57.
 
@@ -657,27 +683,35 @@ III.- Efectuar mejoras o reparaciones de las mismas;
 
 IV.- Redención de gravámenes que reporten tales inmuebles.
 
-Los pensionistas gozarán de los beneficios que establece este artículo, con sujeción a los acuerdos generales que en los términos y dentro de los lineamientos de esta Ley, dicte la Junta Directiva.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1983)</small>
+
+Los pensionistas gozarán de los beneficios que establece este artículo.
 
 ###### ARTICULO 62.
 
 Los préstamos hipotecarios se sujetarán en lo conducente a las condiciones y facilidades que establece el Artículo 56 y se cubrirán mediante amortizaciones mensuales que incluirán capital e intereses.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 63.
 
-El Instituto formulará tablas para determinar las cantidades amortizables según el sueldo del trabajador, tomando como base que las amortizaciones no deben sobrepasar del 50% del sueldo o sueldos que el trabajador disfruta y por los cuales se le practiquen los descuentos para el Instituto. En los casos en que el trabajador justifique tener otros ingresos permanentes que puedan computarse para la amortización del préstamo, éste podrá sobrepasar el máximo fijado para su sueldo en forma proporcional. En todo caso, el límite máximo para los créditos hipotecarios aún tratándose de préstamos mancomunados será de $ 500,000.00.
+El Instituto formulará tablas para determinar las cantidades amortizables según el sueldo del trabajador, tomando como base que las amortizaciones no deben sobrepasar del 50% del sueldo o sueldos que el trabajador disfrute y por los cuales se le practiquen los descuentos para el Instituto. En los casos en que el trabajador justifique tener otros ingresos permanentes que puedan computarse para la amortización del préstamo, éste podrá sobrepasar el máximo para los créditos hipotecarios será de $ 1´000,000.00 y para los mancomunados hasta por el máximo que por derecho le corresponda a cada uno de ellos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P. O. 13 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 64.
 
-El préstamo no excederá del 75% del valor comercial fijado por el Instituto al inmueble, a menos que el interesado proporcione otras garantías reales adicionales bastantes para garantizar el excedente.
+El préstamo no excederá del 90% del valor comercial fijado por el Instituto al inmueble, a menos que el interesado proporcione otras garantías reales adicionales bastantes para garantizar el excedente.
 
 Cuando el trabajador no estuviere de acuerdo con el avalúo practicado por el Instituto, podrá designar un perito que practique uno nuevo, y en caso de discrepar los peritajes, se podrá nombrar un tercero por ambas partes, la Junta Directiva resolverá en definitiva.
 
+> <small>(REFORMADO, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 65.
 
-Los préstamos hipotecarios que se hagan a los trabajadores causarán el interés del doce por ciento anual sobre saldos insolutos.
+Los préstamos hipotecarios que se efectúen a los trabajadores causarán el interés del 14% anual sobre saldos insolutos.
 
-La Junta Directiva podrá modificar ese tipo de interés, cuando lo impongan situaciones excepcionales de mercado.
+La Junta Directiva podrá modificar ese tipo de interés, cuando lo requieran las necesidades del propio Instituto.
 
 ###### ARTICULO 66.
 
@@ -695,13 +729,19 @@ Préstamos para la Adquisición de Bienes de Consumo Duradero con Reserva de Dom
 
 Los trabajadores y pensionistas que hayan contribuido por más de 12 meses al Instituto, podrán obtener préstamos para la adquisición de bienes de consumo duradero. Este tipo de operaciones se realizará de acuerdo con las siguientes bases:
 
-PRIMERA.- El monto de los préstamos podrá ser hasta por la cantidad correspondiente a 6 veces el sueldo mensual del trabajador. Un mismo trabajador podrá obtener varios préstamos si la suma de todos ellos no sobrepasa esta cantidad.
+> <small>(REFORMADA, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
+PRIMERA.- El monto de los préstamos podrá ser hasta por la cantidad correspondiente a diez veces el sueldo básico mensual o pensión, un mismo trabajador o pensionado podrá obtener varios préstamos si la suma de todos ellos no sobrepasa esta cantidad.
 
 SEGUNDA.- Para el otorgamiento de los préstamos se considerarán bienes de consumo duradero los siguientes artículos: muebles de recámara, muebles de línea blanca, muebles de comedor, muebles de sala, calentadores de agua, automóviles nuevos y los que a juicio del Instituto se consideren como tales.
 
-TERCERA.- El plazo de los préstamos puede ser hasta de un máximo de 2 años para su liquidación.
+> <small>(REFORMADA, P. O. 13 DE DICIEMBRE DE 1983)</small>
 
-CUARTA.- Los préstamos causarán el interés que fije el Reglamento respectivo pero en ningún caso podrá ser mayor del 12% anual, calculado sobre saldos insolutos.
+TERCERA.- El plazo de los préstamos puede ser hasta de un máximo de 30 meses para su liquidación.
+
+> <small>(REFORMADA, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
+CUARTA.- Los préstamos causarán el interés que fije el Reglamento respectivo pero en ningún caso podrá ser mayor del 14% anual, calculado sobre saldos insolutos.
 
 QUINTA.- El pago del monto total del préstamo se hará en abonos mensuales iguales e incluirá capital, intereses y comisión.
 
@@ -711,11 +751,15 @@ Hasta 6 meses 0.5% (medio por ciento) sobre el monto total.
 
 Más de 6 meses hasta un 1 año, 1% sobre el monto total.
 
-Más de 1 año hasta 2 años 1.5% sobre el monto total.
+> <small>(REFORMADO, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
+Más de 1 año 1.5% sobre el monto total.
 
 SEPTIMA.- El préstamo que se conceda no excederá del 75% del valor de la factura del bien adquirido; el 25% restante deberá ser pagado en efectivo por el propio trabajador.
 
-OCTAVA.- El préstamo otorgado al trabajador quedará garantizado con el bien adquirido, el cual no será responsable el Instituto por la calidad del propio bien ni de su mantenimiento. Tratándose de la adquisición de automóviles serán requisito esencial para el otorgamiento del crédito que el automóvil se asegure por todo el tiempo de amortización del préstamo, a cuyo efecto el Instituto será el beneficiario y queda facultado para contratar el seguro correspondiente, a cuenta del acreditado.
+> <small>(REFORMADA, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
+OCTAVA.- El préstamo otorgado al trabajador quedará garantizado con la factura del bien adquirido. Tratándose de la adquisición de automóviles serán requisito esencial para el otorgamiento del crédito, que el automóvil se asegure por todo el tiempo de amortización del préstamo, a cuyo efecto el Instituto será el beneficiario y queda facultado para contratar el seguro correspondiente, a cuenta del acreditado.
 
 NOVENA.- El otorgamiento de créditos estará condicionado a la situación económica que guarde el Instituto y al criterio que la Junta Directiva establezca al respecto, con el fin de cuidar que el asegurado haga una buena inversión y que sus ingresos le den la capacidad de pago necesaria.
 
@@ -727,9 +771,13 @@ Préstamos a Corto Plazo.
 
 Los préstamos a corto plazo se harán a los Trabajadores del Gobierno del Estado y a los pensionistas conforme a las normas que siguen:
 
-I.- El monto de los préstamos no deberá exceder del importe de seis meses del sueldo básico del solicitante.
+> <small>(REFORMADA, P. O. 13 DE DICIEMBRE DE 1983)</small>
 
-II.- Para que se conceda un préstamo, el solicitante deberá contribuir a un fondo especial de garantía que se creará por acuerdo de la Junta Directiva, mediante el pago de primas en los términos que la propia Junta determine. Estas primas en ningún caso tendrán carácter devolutivo.
+I.- El monto de los préstamos no deberá exceder del importe de 6 meses del sueldo básico o pensión del solicitante.
+
+> <small>(REFORMADA, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
+II.- Para que se conceda un préstamo, el solicitante deberá contribuir a un fondo especial de garantía que se creará con una aportación del .02, por una sola vez en cada caso, que se calculará en la siguiente forma: Al importe del préstamo solicitado más los intereses, se restará el total del fondo de pensiones acumulado a la fecha de la solicitud del préstamo, y la cantidad que resulte será multiplicada por el .02 cuyo resultante será el fondo de garantía. A los trabajadores de confianza, funcionarios de elección popular, Magistrados y Jueces de lo Civil y de Defensa Social del Tribunal Superior de Justicia, se les aplicará la misma fórmula con .04.
 
 III.- En tanto se constituye y está en condiciones de operación este fondo, el Instituto podrá exigir garantía colateral consistente en fianza personal y otorgada por otro contribuyente del Instituto. No podrán ser codeudores los funcionarios y empleados de confianza del Estado; y
 
@@ -755,21 +803,29 @@ Los préstamos causarán el interés que, mediante acuerdos generales, fije la J
 
 El pago del capital e intereses, se hará en abonos mensuales.
 
+> <small>(REFORMADO, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 75.
 
-No podrá concederse nuevo préstamo mientras permanezca insoluto el anterior. Solamente podrá renovarse cuando haya transcurrido la mitad del plazo por el que fue concedido, siempre que hayan sido cubiertos los abonos de dicho período y el deudor pague la prima de renovación que será fijada por la Junta Directiva mediante acuerdos generales.
+No podrá concederse nuevo préstamo mientras permanezca insoluto el anterior. Sólo podrá renovarse cuando haya transcurrido como mínimo, una tercera parte del plazo por el que fue concedido, siempre que hayan sido cubiertos los abonos de dicho período.
+
+> <small>(REFORMADO, P. O. 13 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 76.
 
-Los adeudos que por concepto de préstamo no fueren cubiertos por los trabajadores después de un año de su vencimiento, se cargarán al fondo de garantía a que se refiere el Artículo 69 fracción II. Sin embargo, quedará subsistente el crédito contra el deudor, pudiendo el Instituto acudir a los medios legales para su cobro, debiéndose abonar a dicho fondo las cantidades que se recuperen.
+Los adeudos que por concepto de préstamo no fueren cubiertos por los deudores, se cargarán al fondo de garantía a que se refiere el artículo 69 fracción II de esta Ley, cuando se agoten los medio judiciales sin haber conseguido el cobro correspondiente.
 
 ### CAPITULO DECIMO PRIMERO.
 
 Jubilaciones.
 
+> <small>(REFORMADO, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 77.
 
-Tienen derecho a la jubilación los trabajadores varones con un mínimo de 30 años y las mujeres con un mínimo de 27 años de servicio, que hubieren contribuido normalmente al fondo del Instituto a partir de su creación, en el caso de ser derechohabiente fundador, si no lo es, que hubieren contribuido durante todos los años de servicio.
+Tienen derecho a la jubilación los trabajadores varones que hayan cumplido 30 años de servicios y las mujeres que hayan laborado durante 27 años, siempre y cuando hubieren contribuido normalmente al fondo del Instituto a partir de su creación, en el caso de ser derechohabientes fundadores, si no lo son, que hubieren contribuido durante los años de servicio.
+
+Por lo que respecta a los trabajadores que ha absorbido el Instituto por los ordenamientos de esta Ley, deberán cubrir las cotizaciones que les correspondieran aportar en proporción a los salarios devengados en sus años de servicio, y para tal efecto, la Dirección General del Instituto establecerá el procedimiento de pago y el plazo en el que deba efectuarse.
 
 ###### ARTICULO 78.
 
@@ -793,9 +849,13 @@ Tienen derecho a pensión por vejez, los trabajadores que habiendo cumplido 55 a
 
 El cómputo de los años de servicio se hará considerando uno solo de los empleos, aún cuando el trabajador hubiese desempeñado simultáneamente varios, cualesquiera que fueran; en consecuencia, para dicho cómputo se considerarán por una sola vez, el tiempo durante el cual haya tenido o tenga el interesado, el carácter de trabajador.
 
+> <small>(REFORMADO, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 82.
 
-El monto de la pensión se fijará aplicando a las bases determinadas en el Artículo 78, los siguientes porcentajes:
+El monto de la pensión se fijará aplicando a las bases determinadas en el artículo 78, los siguientes porcentajes:
+
+VARONES
 
 15 años de servicios: 50%
 
@@ -828,6 +888,34 @@ El monto de la pensión se fijará aplicando a las bases determinadas en el Art�
 29 años de servicios: 95%
 
 30 años de servicios: 100%
+
+MUJERES
+
+15 años de servicios: 57.5%
+
+16 años de servicios: 60%
+
+17 años de servicios: 62.5%
+
+18 años de servicios: 65%
+
+19 años de servicios: 67.5%
+
+20 años de servicios: 70%
+
+21 años de servicios: 72.5%
+
+22 años de servicios: 75%
+
+23 años de servicios: 80%
+
+24 años de servicios: 85%
+
+25 años de servicios: 90%
+
+26 años de servicios: 95%
+
+27 años de servicios: 100%
 
 En el cómputo final, toda fracción de más de 6 meses, se computará o considerará como año completo.
 
@@ -947,7 +1035,9 @@ Generalidades Sobre las Jubilaciones y de las Pensiones por Vejez, Invalidez y M
 
 El derecho a la jubilación y a la pensión por vejez, invalidez o muerte, nace cuando el trabajador o sus familiares derechohabientes se encuentren en los presupuestos consignados en esta Ley y satisfagan los requisitos que la misma señala.
 
-El Instituto deberá resolver la solicitud de pensión en un plazo no mayor de quince días, a partir de la fecha en que quede integrado el expediente.
+> <small>(REFORMADO, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
+El Instituto deberá resolver la solicitud de pensión o jubilación en un plazo no mayor de cuarenta días, a partir de la fecha en que se haya integrado el expediente correspondiente.
 
 ###### ARTICULO 98.
 
@@ -991,7 +1081,9 @@ Pago Póstumo.
 
 Los deudos de los trabajadores o pensionistas que fallezcan tendrán derecho a recibir como ayuda económica el importe de 4 meses del sueldo o pensión que disfrutaban. Para la percepción de esta cantidad basta la presentación del certificado de defunción y los comprobantes de pago de los gastos del funeral.
 
-Si se trata de un trabajador en servicio, el pago a que se refiere el párrafo anterior es a cargo del Estado; si se trata de un pensionista el pago será a cargo del Instituto.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1983)</small>
+
+Si se trata de un trabajador en servicio, o de pensionado por la Ley del 20 de septiembre de 1933, el pago a que se refiere el párrafo anterior es a cargo del Estado; si se trata de un pensionista del Instituto, el pago estará a cargo del mismo.
 
 ###### ARTICULO 105.
 
@@ -1015,9 +1107,11 @@ Las obligaciones que en favor del Instituto establece esta Ley con cargo al Esta
 
 De la Conservación de Derechos.
 
+> <small>(REFORMADO, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 108.
 
-Los trabajadores que al dejar de prestar sus servicios al Estado, no tuvieren derecho a recibir la totalidad de las prestaciones establecidas en esta Ley, conservarán los derechos que hubieren adquirido a la fecha de la baja, por un lapso que no deberá exceder de tres años.
+Los trabajadores al dejar de prestar sus servicios al Estado, conservarán los derechos a servicios médicos por un lapso que no deberá exceder de tres meses.
 
 ###### ARTICULO 109.
 
@@ -1037,17 +1131,21 @@ El trabajador que sin tener derecho a pensión se separe del servicio, tendrá d
 
 El trabajador que por separación rescate sus aportaciones, en caso de reingreso al servicio pierde el derecho a que se compute como antigüedad el lapso que dicha devolución comprenda.
 
+> <small>(REFORMADO, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 112.
 
-Al trabajador suspendido o cesado por imputársele la comisión de algún delito en el desempeño de su cargo que entrañe responsabilidad económica con el Instituto, no se le hará la devolución de ningún descuento hasta que los Tribunales dicten sentencia definitiva absolutoria; en caso contrario sólo se le devolverá el importe de los descuentos o el sobrante si lo hubiere después de cubrir dicha responsabilidad.
+Cuando el trabajador cometa un delito de fuero común que cause un perjuicio material o económico al Instituto, éste ejercitará las acciones legales correspondientes en resguardo de sus intereses.
 
 ### CAPITULO VIGESIMO.
 
 Estímulos Económicos.
 
+> <small>(REFORMADO, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 113.
 
-Se establecen estímulos económicos de $ 10,000.00 y $ 15,000.00 para los trabajadores que cumplan 20 ó 30 años de servicio.
+Se establecen estímulos económicos de $ 10,000.00, $ 12,000.00 y $ 15,000.00 para los trabajadores que cumplan 20, 25 y 30 años de servicios respectivamente. Estos estímulos podrán incrementarse de conformidad con las condiciones económicas del Instituto y previo acuerdo de la Junta Directiva.
 
 ###### ARTICULO 114.
 
@@ -1113,6 +1211,10 @@ En tales casos las personas físicas o Instituciones que suscriban dichos contra
 
 Se faculta a la Junta Directiva para que, administrativamente reglamente esta Ley.
 
+> <small>(ADICIONADO, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 126 BIS.- El Director General del Instituto, al concluir sus funciones, entregará a quien le sucediere en el cargo, el patrimonio del Instituto, con intervención de la Junta Directiva, mediante inventario y balance respectivo, levantándose el acta correspondiente, debidamente suscrita por las personas que intervengan en la entrega.
+
 ### CAPITULO VIGESIMO TERCERO.
 
 De las Responsabilidades y Sanciones.
@@ -1137,7 +1239,7 @@ Cuando se establezca una responsabilidad pecuaria (sic) a cargo del trabajador o
 
 El Instituto tomará las medidas pertinentes en contra de quienes indebidamente aprovechen los beneficios establecidos por esta Ley.
 
-T R A N S I T O R I O S
+T R A N S I T O R I O S:
 
 ###### ARTICULO PRIMERO.
 
@@ -1161,21 +1263,27 @@ Se derogan todas las disposiciones que se opongan a la presente Ley y la de Pens
 
 Los trabajadores que al entrar en vigor esta Ley se encuentren prestando sus servicios al Estado, aportarán al fondo de pensiones el importe de los ahorros en la Institución Ahorro de Funcionarios y Empleados Públicos a efecto de reconocerles sus derechos de antigüedad, tales derechos se considerarán como tiempo de contribución al Instituto para los fines de esta Ley.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO SEXTO.
 
-Las personas que hayan retirado con anticipación a la vigencia de la presente Ley sus cuotas de la Institución Ahorro de Funcionarios y Empleados Públicos, podrán dentro del término de 3 meses más reintegrarlos al I.S.S.S.T.E.P. a fin de que se les compute su antigüedad.
+Las personas que hayan retirado con anterioridad a la vigencia de la presente Ley sus cuotas de la Institución Ahorro de Funcionarios y Empleados Públicos del Gobierno del Estado, podrán reintegrarlas al Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio de los Poderes del Estado de Puebla, a fin de que se les compute su antigüedad.
 
 ###### ARTICULO SEPTIMO.
 
 Las participaciones establecidas en los Capítulos IV y V de esta Ley, serán proporcionados por el Instituto una vez que hayan quedado sin efecto los contratos de subrogación que tengan celebrados el Gobierno del Estado con las Instituciones encargadas de proporcionarlos, a la fecha en que entre en vigor la presente Ley.
 
+> <small>(REFORMADO, P. O. 13 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO OCTAVO.
 
-Los jubilados y pensionistas que deseen hacer uso de los servicios médicos del Instituto, tienen un plazo máximo de 60 días contados a partir del día siguiente en que entre en vigor esta Ley, para presentar solicitud por escrito.
+Los pensionistas de la Ley del 20 de septiembre de 1933, si aportan al Instituto el importe de sus ahorros acumulados en la Institución Ahorro de Funcionarios y Empleados Públicos del Gobierno del Estado de Puebla o reintegran los que hubieren retirado, tendrán derecho a gozar de los beneficios que establecen los capítulos Décimo y Décimo Cuarto de esta Ley.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO NOVENO.
 
-En relación a los trabajadores que tengan otro tipo de seguridad social, tienen un plazo de 60 días para presentar su documentación comprobatoria y escrito de renuncia de pertenecer al I.S.S.S.T.E.P.
+En relación a los trabajadores que tengan otro tipo de seguridad social, si lo desean, pueden presentar su documentación comprobatoria y escrito de renuncia al derecho de pertenecer al Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio de los Poderes del Estado de Puebla.
 
 ###### ARTICULO DECIMO.
 
@@ -1192,3 +1300,15 @@ En los acuerdos de incorporación gradual que se dicten, se determinará con pre
 La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 COMISION: Representante del C. Gobernador, Lic. Fernando Montero Luna.- Rúbrica.- Representante de la Secretaría de Finanzas, Lic. Francisco Landero Alamo. Rúbrica.- Representante del Poder Judicial, Lic. y Magistrada Graciela Rosas de Sánchez.- Rúbrica.- Representante del Poder Legislativo, Dr. Y Dip. Rodolfo Barrios Luna.- Rúbrica.- Represente del Seguro de Vida, Lic. y Magistrado Roque Jiménez Lama.- Rúbrica.- Representante de la Institución Ahorro de Funcionarios y Empleados Públicos, C.P. Benjamín Rojas Flores.- Rúbrica.- Representante de los Servicios Médicos del I.S.M.E., Dip. Olegario Batalla.- Rúbrica.- Representantes de la Sección 51, Dip. y Profr. Guillermo Melgarejo Palafox; Profr. Enrique Núñez Zamora.- Rúbricas.- Representantes del Sindicato de Trabajadores al Servicio de los Poderes del Estado, Gustavo Castell Sosa, René Fernández Angulo.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P. O. 13 DE DICIEMBRE DE 1983.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
