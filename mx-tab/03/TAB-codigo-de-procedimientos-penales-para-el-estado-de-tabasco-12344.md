@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-penales-para-el-estado-de-tabasco-1234
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-22"
-last_updated: "1998-02-21"
+last_updated: "2002-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el 22 de febrero de 1997.
 
@@ -1309,7 +1309,9 @@ Por lo que respecta a las conclusiones del ofendido, se estará a lo previsto en
 
 El Juez remitirá al Procurador las conclusiones del Ministerio Público cuando sean inacusatorias, se aparten de los resultados que arrojen las pruebas practicadas o no incluyan algún delito probado en la instrucción. El Procurador dispondrá de diez días, a partir del recibo del expediente, para confirmar o sustituir las conclusiones del agente. Transcurrido dicho plazo sin que haya respuesta del Procurador, se entenderá que las conclusiones han sido confirmadas.
 
-Si el Ministerio Público omite la presentación de conclusiones, el Juez tendrá por formuladas las inacusatorias y lo hará saber al Procurador, para que éste proceda en contra de aquél.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2002)</small>
+
+Si el Ministerio Público omite la presentación de conclusiones en el término de ley, el Juez tendrá por formuladas las inacusatorias y procederá a dar vista al Procurador quien dispondrá del término señalado en el párrafo anterior para confirmar las conclusiones inacusatorias o substituirlas. Si fenece el plazo sin que haya respuesta del Procurador, se entenderá que las conclusiones han sido confirmadas. El Procurador, deberá proceder, en términos de las disposiciones aplicables, en contra el Agente del Ministerio Público responsable.
 
 Cuando la defensa omita la presentación de conclusiones, se tendrán por formuladas las de inculpabilidad, y en el caso de que el omiso sea defensor de oficio, se comunicará la falta al jefe de defensores para los efectos de la determinación de su responsabilidad.
 
@@ -1401,17 +1403,13 @@ El Procurador fijará los lineamientos a los que deba ajustarse el Ministerio P�
 
 Cuando el inculpado o su defensor y el ofendido o su asesor legal manifiesten su inconformidad con una resolución, se entenderá interpuesto el recurso que proceda. Si es errónea la elección del recurso que haga cualquiera de dichos participantes, se tendrá por interpuesto el que corresponda para impugnar la resolución.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2002)</small>
+
 ###### ARTÍCULO 194.
 
-Los recursos tienen por consecuencia, bajo las previsiones de este Título, confirmar, revocar, anular o modificar la resolución recurrida. Para ello, el tribunal que conozca de la impugnación examinará los motivos y fundamentos de la resolución combatida, su conformidad con la ley aplicable, la apreciación que contenga acerca de los hechos a los que se refiere y la debida observancia, en su caso, de las normas relativas a la admisión y valoración de la prueba.
+Los recursos tienen por consecuencia, bajo las previsiones de este título, confirmar, revocar, anular o modificar la resolución recurrida. Para ello, el Juez o la Sala del Tribunal competente, examinará los motivos y fundamentos de la resolución combatida, su conformidad con la ley aplicable, la apreciación que contenga acerca de los hechos a los que se refiere y la debida observancia, en su caso, de las normas relativas a la admisión y valoración de la prueba. Tratándose de la apelación la Sala que conozca del recurso al pronunciar su fallo, podrá confirmar, revocar o modificar la resolución apelada, asimismo en los casos procedentes, podrá anularla y como consecuencia de ello ordenar, en su caso, la reposición del procedimiento.
 
-> <small>(F. DE E., P.O. 1 DE MARZO DE 1997)</small>
-
-Cuando el juzgador que conozca de la impugnación revoque o anule la resolución combatida, la autoridad facultada para emitirla deberá dictar otra que la sustituya. Cuando se confirme la resolución impugnada, no habrá lugar a nueva resolución de quien dictó ésta. Cuando se modifique, la autoridad que conoce de la impugnación señalará los puntos de la resolución que deben conservarse y aquellos que no deben subsistir, y establecerá los nuevos términos de los puntos resolutivos cuya modificación disponga.
-
-> <small>(F. DE E., P.O. 1 DE MARZO DE 1997)</small>
-
-El órgano jurisdiccional emisor de la resolución impugnada, al recibir la sentencia que resolvió el recurso, contará con un plazo de cinco días para cumplirla y comunicar por oficio al órgano jurisdiccional que resolvió sobre el recurso que se cumplió, enviando copia certificada de la ejecutoria.
+Cuando proceda revocar, anular o modificar, la autoridad que conoce de la impugnación emitirá directamente la nueva resolución en los términos que legalmente proceda.
 
 ###### ARTÍCULO 195.
 
@@ -2070,3 +2068,11 @@ P.O. 21 DE FEBRERO DE 1998.
 PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Quedan sin efecto las disposiciones que se opongan a lo ordenado en el presente decreto.
+
+P.O. 6 DE ABRIL DE 2002.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. En consecuencia, quedan derogadas las disposiciones que se opongan al mismo.
+
+SEGUNDO. Los procedimientos penales que se estén tramitando ante las autoridades del Estado al entrar en vigor el correspondiente Decreto, continuarán tramitándose bajo las normas de éste, a no ser que las disposiciones reformadas con motivo del mismo, concedan mayores derechos al inculpado, en cuyo caso se aplicarán, para este fin, las mismas por serle más favorables.
+
+TERCERO. Los recursos interpuestos antes de la entrada en vigor del correspondiente Decreto, que no se hubiesen admitido o desechado y los que se estén tramitando, se admitirán o substanciarán conforme a lo determinado en el mismo y en lo conducente en las demás disposiciones del Código de Procedimientos Penales para el Estado de Tabasco.
