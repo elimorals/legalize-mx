@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "1992-12-13"
+last_updated: "1995-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -233,6 +233,10 @@ Este impuesto se liquidará de conformidad con las cuotas que al efecto señale 
 
 En caso de que en una misma función se presenten dos o más espectáculos, el impuesto se causará con la cuota más alta.
 
+### CAPITULO III. Del Impuesto Sobre Tenencia o Uso de Vehículos Automotores
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 1995)</small>
+
 #### SECCION PRIMERA. Del objeto
 
 ###### ARTICULO 17.
@@ -321,6 +325,8 @@ I.- Los bienes inmuebles en que se exploten espectáculos o diversiones pública
 
 II.- El equipo y las instalaciones que se utilicen en la diversión o espectáculo.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1995)</small>
+
 #### SECCION SEXTA. De las Obligaciones de los Contribuyentes
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 1992)</small>
@@ -355,13 +361,127 @@ En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando 
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
-#### SECCION UNICA
+#### SECCION PRIMERA. De los Sujetos
+
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1995) (F. DE E., P.O. 14 DE ENERO DE 1996)
+
+###### ARTICULO 22-A.
+
+Están obligadas al pago de este Impuesto las personas físicas y morales que sean usuarias o tenedoras de vehículos automotores que circulen de manera habitual por la circunscripción territorial del Estado de Aguascalientes. Se presumirá lo anterior cuando el propietario, tenedor o usuario tenga domicilio en el Estado. Se exceptúan del pago de este Impuesto los discapacitados, los pensionados y jubilados que así lo acrediten.
+
+Este Impuesto se causará por ejercicios fiscales, los cuales se fijarán por año calendario. El pago del impuesto se efectuará durante los seis primeros meses del ejercicio ante las oficinas autorizadas por la Secretaría de Finanzas del Estado, y en las formas por ella aprobadas.
+
+No estarán obligados al pago de este impuesto los tenedores o usuarios de vehículos automotores que circulen con placas definitivas asignadas por otras Entidades Federativas, que acrediten ante la Secretaría de Finanzas del Estado, que se pagó un gravamen similar por el mismo ejercicio fiscal.
+
+Para los efectos de esta Ley, la autoridad fiscal presumirá que el propietario, es tenedor o usuario del vehículo automotor objeto de este impuesto.
+
+(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 1995) (F. DE E., P.O. 14 DE ENERO DE 1996)
 
 ###### ARTICULO 29.
 
 Las empresas que gocen de franquicias fiscales al amparo de los ordenamientos legales respectivos del Estado, quedarán sujetas a la vigilancia de la Secretaría de Finanzas por el término que duren tales franquicias.
 
-#### SECCION UNICA
+### CAPITULO IV. Del Impuesto Sobre la Prestación de Servicios de Hospedaje
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 22-G.
+
+Están obligadas al pago del impuesto establecido en esta Ley las personas físicas y morales que dentro del Estado de Aguascalientes, de manera permanente o temporal, presten servicios de albergue u hospedaje en hoteles, moteles, casas de huéspedes o cualquier instalación creada para ese fin, a cambio de una contraprestación en dinero o especie, sin importar la duración de los mismos.
+
+Los ingresos por este impuesto serán destinados para la promoción y difusión de la actividad turística del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 22-H.
+
+El impuesto se calculará aplicando la tasa del 2% al ingreso neto de las contraprestaciones por los servicios de hospedaje recibido por el prestador. En ningún caso se considerará que dicho impuesto forma parte del ingreso neto por los servicios de hospedaje.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 22-I.
+
+El contribuyente trasladará el impuesto en forma expresa y por separado a las personas que reciban los servicios gravados por esta Ley. Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe hacer a dichas personas por un monto equivalente al impuesto establecido en este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 22-J.
+
+El impuesto se calculará por ejercicios fiscales, los cuales se fijarán por año calendario. Los contribuyentes presentarán declaración del ejercicio en las oficinas autorizadas dentro de los tres meses siguientes al cierre del ejercicio.
+
+Los contribuyentes de este impuesto efectuarán pagos provisionales bimestrales, mediante el formato autorizado y en las oficinas de la Secretaría de Finanzas del Estado, dentro de los quince días siguientes al bimestre inmediato anterior. El pago provisional consiste en el impuesto correspondiente al total de las actividades realizadas en el período por el que se efectúa. Los anticipos recibidos durante el bimestre se incluirán en el pago provisional correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 22-K.
+
+Se tiene obligación de pagar impuesto:
+
+I.- Cuando sean exigibles las contraprestaciones.
+
+II.- En caso de anticipos por reservaciones, cuando se reciba total o parcialmente su importe.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 22-L.
+
+Los contribuyentes de este impuesto tienen las siguientes obligaciones:
+
+I.- Licitar su inscripción al Padrón de Contribuyentes del Estado de Aguascalientes, en las formas aprobadas por la Secretaría de Finanzas del Estado.
+
+La Secretaría de Finanzas del Estado estará a cargo del Padrón de Contribuyentes del Estado de Aguascalientes, el cual se conformará con la clave del Registro Federal de Contribuyentes que asigne la Secretaría de Hacienda y Crédito Público a los contribuyentes de impuestos federales.
+
+II.- Presentar en las fechas establecidas las declaraciones del ejercicio y de pagos provisionales en las formas autorizadas por la Secretaría de Finanzas del Estado.
+
+III.- llevar contabilidad, conforme a las disposiciones fiscales federales o de acuerdo a los principios de contabilidad generalmente aceptados.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 22-M.
+
+La Secretaría de Finanzas del Estado tendrá las siguientes facultades:
+
+I.- Ordenar y practicar revisiones de las declaraciones de los contribuyentes, solicitando exhiban en sus oficinas la documentación comprobatoria que ampare los conceptos en ellas asentados.
+
+II.- Determinar presuntivamente el valor de las contraprestaciones sujetas al pago de este impuesto, cuando:
+
+a).- El contribuyente no presente la declaración del ejercicio o de cuatro o más bimestres en el ejercicio.
+
+b).- Se oponga u obstaculice al ejercicio de las facultades señaladas para la Secretaría de Finanzas del Estado.
+
+c).- No efectúe los registros contables en los términos de las disposiciones fiscales aplicables.
+
+d).- Exista discrepancia superior al 3% entre los datos asentados en las declaraciones y los de la contabilidad.
+
+III.- Para la determinación presuntiva a que se refiere la fracción anterior, la Secretaría de Finanzas del Estado, utilizará los siguientes elementos:
+
+a).- Los datos y documentación comprobatoria propiedad del contribuyente.
+
+b).- Los datos proporcionados por los beneficiarios de los servicios.
+
+c).- Los informes proporcionados por las autoridades encargadas de normar la actividad realizada por el contribuyente.
+
+#### SECCION SEGUNDA. Del Objeto
+
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1995) (F. DE E., P.O. 14 DE ENERO DE 1996)
+
+###### ARTICULO 22-B.
+
+Es objeto de este impuesto, la tenencia o uso de automóviles, motocicletas, omnibuses, camiones y tractores, a excepción de tractores destinados a actividades agrícolas, que sean de año modelo posterior a diez ejercicios fiscales, a partir del año de su fabricación.
+
+Para los efectos de este Artículo, se consideran:
+
+a).- Automóviles: Vehículos destinados para el transporte de hasta diez pasajeros, accionados con motores de combustión interna de 4, 6 y 8 cilindros.
+
+b).- Motocicletas: Vehículos accionados con motores de combustión interna de 1, 2 y 4 cilindros.
+
+c).- Omnibuses: Vehículos destinados para el transporte de más de diez pasajeros, accionados con motores de combustión interna de 4, 6, 8 o más cilindros.
+
+d).- Camiones: Vehículos destinados para el transporte de bienes o personas y bienes, cuando la Ley de la materia lo permita, accionados con motores de combustión interna de 4, 6, 8 o más cilindros.
+
+e).- Tractores: Vehículos fabricados para arrastrar remolques enganchados mediante sistemas mecánicos o hidráulicos, accionados por motores de combustión interna de 4, 6, 8 o más cilindros.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 30.
 
@@ -369,7 +489,23 @@ El pago de derechos por servicios de vigilancia a empresas que gocen de franquic
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
-#### SECCION UNICA
+#### SECCION TERCERA. De la Base
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 22-C.
+
+El presente impuesto se causará por la tenencia o uso de automóviles, motocicletas, omnibuses, camiones y tractores, a excepción de tractores destinados a actividades agrícolas que sean de año modelo posterior a diez ejercicios fiscales a partir del año de su fabricación, accionados por motores de combustión interna de 1, 2, 4, 6, 8 o más cilindros.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 22-D.
+
+Para el pago de este impuesto, se aplicarán las siguientes tasas:
+
+(VEASE TABLA ANEXA)
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 31.
 
@@ -377,13 +513,35 @@ Si con motivo de la revisión de las declaraciones presentadas por los contribuy
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
-#### SECCION UNICA
+#### SECCION CUARTA. De la Responsabilidad Solidaria
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 22-E.
+
+Para efectos de este impuesto son responsables solidarios:
+
+I.- Quienes por cualquier título adquieran la propiedad, tenencia o uso de vehículos automotores objeto de este impuesto, sin cerciorarse con la documentación comprobatoria correspondiente de su pago. La responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados.
+
+II.- Las personas físicas o morales con actividad permanente o temporal de compra venta de vehículos automotores, o que los reciban en consignación o comisión, la responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados.
+
+III.- Los servidores públicos que en ejercicio de sus funciones, autoricen movimientos al padrón vehicular del Estado de Aguascalientes, sin cerciorarse con la documentación comprobatoria correspondiente de su pago. La responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados. Lo anterior, sin perjuicio de las responsabilidades de los servidores públicos del Estado de Aguascalientes.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 32.
 
 Después de transcurridos dos meses sin que el derecho a que se refiere el artículo anterior, haya sido pagado o si existe incumplimiento a las condiciones de la concesión de la franquicia, el Secretario de Finanzas queda facultado para declarar la nulidad de la franquicia fiscal de que vengan disfrutando las empresas.
 
-#### SECCION UNICA
+#### SECCION QUINTA. Del Padrón Vehicular del Estado de Aguascalientes
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 22-F.
+
+La Secretaría de Finanzas del Estado estará a cargo del Padrón Vehicular del Estado de Aguascalientes; en el cual se inscribirán las unidades automotores que porten placas definitivas de circulación asignadas por el Gobierno del Estado y los vehículos con placas definitivas asignadas por otras Entidades que sean propiedad de personas con domicilio en el Estado de Aguascalientes.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 33.
 
@@ -409,9 +567,13 @@ IX.- Los productos de archivo.
 
 X. Productos diversos.
 
+#### SECCION UNICA
+
 ###### ARTICULO 34.
 
 Para la percepción de estos ingresos se estará a lo dispuesto, según el caso, en la Ley de Ingresos del Estado, en los contratos o concesiones respectivos, o en las escrituras constitutivas o decretos que den nacimiento a los establecimientos o empresas del Estado, y en defecto de ellos, en las disposiciones legales que les sean aplicables.
+
+#### SECCION UNICA
 
 ###### ARTICULO 35.
 
@@ -449,9 +611,15 @@ XV.- Indemnizaciones.
 
 XVI.- Otros no especificados.
 
+#### SECCION UNICA
+
 ###### ARTICULO 36.
 
 Son ingresos extraordinarios aquellos que la hacienda pública del Estado perciba, cuando circunstancias especiales coloquen al propio Estado frente a necesidades imprevistas que lo obliguen a efectuar erogaciones no presupuestadas.
+
+#### SECCION UNICA
+
+#### SECCION UNICA
 
 ###### ARTICULO 37.
 
@@ -532,3 +700,11 @@ Lic. Oscar López Velarde Vega.
 P.O. 13 DE DICIEMBRE DE 1992.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 31 DE DICIEMBRE DE 1995.
+
+###### ARTICULO PRIMERO.
+
+Para el caso del Capítulo III, "Del Impuesto Sobre Tenencia o Uso de Vehículos Automotores", las reformas establecidas en el presente Decreto entrarán en vigor el día 1o. de enero de 1996.
+
+ARTlCULO SEGUNDO.- Para el caso del Capítulo IV, "Del Impuesto Sobre la Prestación de Servicios de Hospedaje", las reformas establecidas en el presente Decreto entrarán en vigor el día 1o. de marzo de 1996.
