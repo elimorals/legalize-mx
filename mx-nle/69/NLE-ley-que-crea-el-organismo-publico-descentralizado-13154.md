@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-13154"
 country: "mx"
 rank: "ley"
 publication_date: "1988-09-09"
-last_updated: "1992-04-29"
+last_updated: "2004-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "RED ESTATAL DE AUTOPISTAS DE NUEVO LEON"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 9 de septiembre de 1988.
 
@@ -37,13 +37,37 @@ LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "RED ESTATAL DE AUT
 
 ### CAPITULO I. DE LA NATURALEZA Y DEL OBJETO
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 1o.
 
-Se crea el organismo público descentralizado denominado "RED ESTATAL DE AUTOPISTAS DE NUEVO LEON", con personalidad jurídica y patrimonio propios, mismo que tendrá su domicilio en la Ciudad de Monterrey, Estado de Nuevo León.
+Se crea el Organismo Público Descentralizado Denominado "Red Estatal de Autopistas de Nuevo León", con personalidad jurídica y patrimonio propios, el cual, como parte integrante de la Administración Pública del Estado, tendrá a su cargo en forma exclusiva la planeación, proyección, promoción, conservación, construcción, explotación, administración y operación de todo el sistema Estatal de Autopistas de Cuota del Estado.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTICULO 2o.
 
-El organismo tendrá por objeto planear, proyectar, promover, conservar, administrar y en su caso construir las autopistas que se establezcan en el territorio del Estado, y cuya realización se lleve a cabo con recursos mayoritariamente estatales.
+El Organismo tendrá por objeto planear, proyectar, promover, conservar, construir, explotar, administrar y operar todas las autopistas de cuota que se establezcan en el territorio del Estado, cuya realización se lleve a cabo con recursos mayoritariamente estatales, o de aquellas respecto de las cuales cualquiera de las actividades antes mencionadas, le sean encomendadas por cualquier título legal.
+
+El organismo tendrá las siguientes atribuciones:
+
+I. La planeación, proyección, promoción, conservación, construcción, explotación, administración y operación de las autopistas de cuota que se establezcan en el territorio del Estado cuya realización se lleve a cabo con recursos total o mayoritariamente estatales, o de aquellas que se le hayan asignado o encomendado en cualquier forma, o que formen parte de su patrimonio por cualquier otro concepto, así como llevar a cabo cualesquiera otra actividad o servicio conexos, complementarios o auxiliares, necesarios o deseables para el cumplimiento de su objeto.
+
+II. Llevar a cabo por sí, o a través de terceros, las actividades antes mencionadas con cargo a su patrimonio;
+
+III. Obtener financiamiento y créditos con cargo a su patrimonio, con sujeción a las disposiciones legales aplicables;
+
+IV. Explotar y operar por sí, o a través de terceros, mediante concesiones o cualquier otro acto jurídico permitido en términos de las disposiciones legales aplicables, los bienes y servicios relacionados con su objeto;
+
+V. Celebrar cualesquier convenio, con cesionarios o adquirientes de cualesquiera de sus derechos, con el propósito de determinar los términos y condiciones respecto de la operación, explotación y mantenimiento de las autopistas de cuota, las cuotas de peaje aplicables y cualesquier mecanismo aplicable para la determinación de dichas cuotas de peaje, así como los demás ingresos relacionados con las actividades o servicios conexos, complementarios o auxiliares, incluyendo los convenios previstos en los Artículos 16 y 17 de esta ley;
+
+VI. Participar en sociedades afines con su objeto, previa autorización de las instancias legales correspondientes;
+
+VII. Gravar o afectar en fideicomisos revocables o irrevocables, cualquiera de sus bienes, derechos y/o ingresos;
+
+VIII. Celebrar transacciones y compromisos arbitrales; y
+
+IX. En general, celebrar cualesquier acto jurídico y administrativo encaminado al cumplimiento de su objeto, y ejercer las facultades y obligaciones que esta Ley y demás ordenamientos legales aplicables le impongan, así como las que en forma expresa le deleguen el Ejecutivo del Estado o alguna otra instancia competente, en los ámbitos relacionados con sus fines y objeto.
 
 ### CAPITULO II. DE LOS ORGANOS DE GOBIERNO, ADMINISTRACION Y VIGILANCIA
 
@@ -183,29 +207,39 @@ El patrimonio del organismo se integrará con:
 
 I. Las aportaciones que hagan en su favor los gobiernos federal, estatal y municipales y los que obtenga de las instituciones y organismos públicos, privados o sociales y personas físicas;
 
-II. Los ingresos que perciba derivados de la prestación de los servicios que tiene encomendados y de las actividades complementarias a los mismos;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
 
-III. Las instalaciones, construcciones, maquinaria y demás activos que forman parte del patrimonio del organismo;
+II. El derecho a percibir cuotas por la explotación de las autopistas y carreteras;
 
-IV. los rendimientos, frutos, productos y aprovechamientos que obtenga de las operaciones que realice o que le corresponda por cualquier título legal, y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
+III. Los ingresos que perciba derivados de la explotación de autopistas y carreteras, los cuales tendrán la naturaleza de aprovechamientos; así como de la prestación de los servicios conexos, complementarios o auxiliares, que tiene encomendados y de las actividades complementarias a los mismos;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
+IV. Las instalaciones, construcciones, maquinaria y demás activos que forman parte del patrimonio del organismo; y
 
 V. Los créditos, donaciones y demás bienes muebles e inmuebles y derechos que adquiera por cualquier título legal.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 16o.
 
-Las cuotas y tarifas que establezca el Consejo de Administración del ente paraestatal, por concepto del uso y aprovechamiento de los servicios de las autopistas estatales, que deba recaudar este organismo, se someterán a la aprobación definitiva del Ejecutivo del Estado.
+Excepto por lo dispuesto en el párrafo siguiente, las cuotas y tarifas que establezca el Consejo de Administración del ente paraestatal, por concepto del uso y aprovechamiento de los servicios de las autopistas estatales, que deba recaudar este organismo, se someterán a la aprobación definitiva del Ejecutivo del Estado.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 1992)</small>
+En caso de que las cuotas de peaje y/o el derecho a percibirlas se hayan afectado con fundamento en lo dispuesto por el artículo 17 de esta Ley, el fiduciario o el Organismo administrador de los recursos, podrán ser los que autoricen las modificaciones a las cuotas y tarifas en la medida en que sea necesario para el cumplimiento de las obligaciones financieras derivadas de la afectación.
 
-En caso de que las cuotas de peaje se hayan afectado con fundamento en lo dispuesto por el artículo 17 de esta Ley, será el organismo administrador de los recursos el que autorice las modificaciones a las cuotas y tarifas, modificaciones que podrán hacerse en la medida en que sea necesario para el cumplimiento de las obligaciones financieras derivadas de la afectación.
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTICULO 17o.
 
-Los recursos que perciba el organismo por la prestación de sus servicios se destinarán a cubrir sus costos de administración y operación, a la conservación de las vías de comunicación cuyo mantenimiento, operación o administración se le encomiende, y sus excedentes a la promoción y construcción de nuevas autopistas y al mejoramiento y ampliación de la red de caminos y carreteras del Estado, con sujeción a lo que establezcan las disposiciones jurídicas aplicables.
+Los recursos que perciba el organismo se destinarán a cubrir sus costos de administración y operación, a la conservación de las autopistas que le sean propias y de aquellas cuyo mantenimiento, operación o administración le correspondan, y sus excedentes, a la promoción, construcción, mejoramiento y ampliación de la red de autopistas del Estado, así como para fortalecer las finanzas públicas de éste.
 
-Por acuerdo del Ejecutivo del Estado, las cuotas de peaje de las autopistas cuya explotación y operación le haya conferido dicho Ejecutivo, podrán ser objeto de afectación en fideicomiso o mediante cualquier otra figura, que permita la obtención de fondos destinados a la prestación de los servicios públicos que el Estado otorga a la comunidad, o bien, a la consolidación de la deuda pública centralizada o paraestatal.
+Por acuerdo del Ejecutivo del Estado, las cuotas de peaje y/o el derecho a percibir dichas cuotas, podrán ser objeto de gravamen o afectación en fideicomiso o en cualquier otra figura, que permita, mediante actos que no generen un pasivo directo o contingente a cargo del Estado, la obtención de fondos destinados a la prestación de los servicios públicos que el Estado otorga a la comunidad, o bien, a la consolidación o pago de la deuda pública centralizada o paraestatal.
+
+Corresponderá exclusivamente al Organismo resarcir de la pérdida o menoscabo patrimonial o la privación de cualquier ganancia lícita que se ocasione a terceros por cualquier incumplimiento a los convenios celebrados en términos del artículo 2° fracción V de esta Ley, relacionadas con la afectación en fideicomiso o gravamen a que se refiere el presente artículo.
+
+Corresponderá exclusivamente al Estado resarcir de la pérdida o menoscabo patrimonial o la privación de cualquier ganancia lícita que se ocasione a terceros, si por cualquier acto o hecho de una entidad o autoridad gubernamental estatal, se provoca el incumplimiento de las obligaciones asumidas por el organismo o por el fiduciario respectivo, relacionadas con la afectación en el fideicomiso o gravamen a que se refiere el presente Artículo.
 
 ### CAPITULO IV. DE LAS RELACIONES LABORALES
 
@@ -242,3 +276,13 @@ LIC. JOSE N. GONZALEZ PARAS
 P.O. 29 DE ABRIL DE 1992.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- A la entrada en vigor de la presente reforma se ratifica el derecho del Organismo Público Descentralizado Denominado Red Estatal de Autopistas de Nuevo León, para explotar la Autopista Monterrey-Cadereyta.
+
+Artículo Tercero.- Los derechos de reversión y los derechos fideicomisarios que correspondan al Estado de Nuevo León conforme al Fideicomiso 1339 de fecha 27 de mayo de 1992 redundarán en beneficio del Organismo Público Descentralizado Red Estatal de Autopistas de Nuevo León.
+
+Artículo Cuarto.- En caso de que se modifique posteriormente la Ley que crea el Organismo Público Descentralizado Red Estatal de Autopistas de Nuevo León, se deberán respetar los derechos de los terceros que hayan contratado con el organismo, en los términos y condiciones pactados.
