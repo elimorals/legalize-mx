@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-los-derechos-del-nino-en-el-estado-de-zacatecas-12886"
 country: "mx"
 rank: "ley"
 publication_date: "1997-05-07"
-last_updated: "1997-05-07"
+last_updated: "2003-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LOS DERECHOS DEL NIÑO EN EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2003.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 7 de mayo de 1997.
 
@@ -138,6 +138,10 @@ VIII. La integridad física y mental, por lo que queda terminantemente prohibida
 IX. El afecto, seguridad moral y material en la familia, elementos indispensables para el desarrollo armónico de la personalidad del niño, serán mantenidos por las instituciones públicas, cuando éstas suplan a aquélla.
 
 X. El derecho del niño a opinar y ser oído por todo funcionario en los asuntos que sean de su interés, independientemente de que tenga o no padres o tutores o de que haya quien ejerza su representación.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2003)</small>
+
+XI. El derecho a una vida sin violencia en la familia.
 
 ### CAPITULO TERCERO. COORDINACION INSTITUCIONAL
 
@@ -373,8 +377,20 @@ DADO en el Despacho del Poder Ejecutivo a los seis días del mes de mayo de mil 
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
-LIC. ARTURO ROMO GUTIERREZ.
+LIC. ARTURO ROMO GUTIERREZ
 
 EL SECRETARIO GENERAL DE GOBIERNO
 
-PROFR. JOSE MANUEL MALDONADO ROMERO.
+PROFR. JOSE MANUEL MALDONADO ROMERO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE FEBRERO DE 2003
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
