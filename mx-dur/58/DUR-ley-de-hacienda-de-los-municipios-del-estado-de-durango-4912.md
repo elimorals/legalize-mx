@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "1992-07-26"
+last_updated: "1992-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -1011,9 +1011,13 @@ Son sujetos de este impuesto las personas físicas, morales o unidades económic
 
 Para los efectos de este impuesto, se entiende por diversión y espectáculos públicos, toda función teatral, cinematográfica, deportiva o de cualquier otra índole que se verifique en salones, teatro, plazas, calles, locales, abiertos o cerrados en donde se reúnan los asistentes con el propósito de esparcimiento. En el caso de que estos eventos sean presentados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos sin un fin específico de lucro, no se considerarán como espectáculos públicos.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 86.
 
-Los sujetos de este impuesto pagarán el 15% de las entradas brutas que se obtengan, pudiendo fijar la Presidencia Municipal una cuota diaria o fija, atendiendo al criterio de la Tesorería Municiapl. (sic) en cuanto a los fines que se persiguen en la celebración de las diversiones o espectáculos.
+Los sujetos de este impuesto pagarán el 15% de las entradas brutas que se obtengan, pudiendo fijar la Presidencia Municipal una cuota diaria fija, atendiendo al criterio de la Tesorería Municipal, en cuanto a los fines que se persiguen en la celebración de las diversiones o espectáculos.
+
+Tratándose de espectáculos públicos consistentes en obras de teatro y funciones de circo o cine la tasa aplicable será del 8%.
 
 ###### ARTÍCULO 87.
 
@@ -2050,6 +2054,8 @@ De toda manifestación de apertura, traspaso, traslado o de clausura de giros o 
 Al establecer el servicio público de agua potable se notificará por medio de oficio, con acuse de recibo a los propietarios poseedores de los predios, giros o establecimientos mencionados en los artículos de este mismo Capítulo ubicados en la zona abastecida a efecto de que cumplan con lo dispuesto en el artículo.
 
 La notificación, surtirá efectos a partir del día siguiente a aquel en que se haya recibido el oficio respectivo.
+
+CUOTAS PARA EL COBRO DEL SERVICIO DE AGUA POTABLE y ALCANTARILLADO.
 
 CUOTAS PARA EL COBRO DEL SERVICIO DE AGUA POTABLE y ALCANTARILLADO
 
@@ -3125,7 +3131,7 @@ Tendrán carácter de productos los ingresos que se obtengan por la venta de bie
 
 POR ESTACIONAMIENTO DE VEHICULOS EN LA VIA PUBLICA EN AQUELLOS LUGARES DONDE EXISTEN APARATOS MARCADORES DE TIEMPO.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 229.
 
@@ -3137,9 +3143,19 @@ APROVECHAMIENTOS.
 
 ###### ARTICULO 230.
 
-En aquellos lugares donde existen aparatos marcadores de tiempo (estacionómetros), por cada media hora o fracción menor de tiempo $100 pesos al infractor de esta obligación se le aplicará una sanción de $5,000.00 pesos.
+En aquéllos lugares donde existen aparatos medidores de tiempo (estacionómetros), por cada 2 horas o fracción menor de tiempo, se cobrarán por servicios de estacionamiento público .50 centavos (Nuevos Pesos), al infractor de esta obligación se le aplicará una sanción equivalente a un 20% de incremento a la tarifa actual de 1992, sujetándose a las siguientes reglas:
 
-Se consignará a la autoridad correspondiente a quienes insulten ó agredan a los encargados.
+a).- Si cubre la infracción dentro de los 3 días hábiles siguientes a la infracción incurrida, se le descontará el 30% de la cantidad a pagar.
+
+b).- Si cubre la infracción después del 3er. día que se menciona en el inciso anterior, pero hasta antes de 30 días transcurridos, desde que se cometió la infracción no tendrá derecho a descuento alguno; y
+
+c).- si paga después de 30 días de haber cometido la infracción, pero antes de 45 días, se duplicará la multa; si después de ese período no se hace efectivo, dará inicio el procedimiento de ejecución contra el deudor.
+
+Se aplicará una multa equivalente a 15 días de salario mínimo general vigente en el estado a quienes insulten o agredan a las personas encargadas de la vigilancia de los estacionómetros, con motivo del ejercicio de sus funciones, sin perjuicio de su consignación a la autoridad competente por los delitos que le resultaren.
+
+Las personas que opten por adquirir calcomanías semestrales por el uso de zonas marcadas con estacionómetros, deberá cubrir una cantidad equivalente a 10 días de salario mínimo general vigente en el Estado; si la adquisición se hace durante los primeros 15 días de su puesta en venta, se descontará un 25% del costo total de dicha calcomanía
+
+Las personas que para maniobras de carga y descarga frente a sus domicilios, requieran de cajones de estacionamiento, deberán cubrir una cuota semestral equivalente a un 20% de incremento a la tarifa actual de 1992, por cada espacio que corresponda a un aparato medidor de tiempo y tomando en cuenta las disposiciones de la Ley de Tránsito y Transportes y su Reglamento.
 
 ## TITULO QUINTO
 
@@ -3304,3 +3320,17 @@ P.O. 26 DE JULIO DE 1992.
 ###### ARTICULO SEGUNDO
 
 - El presente Decreto entrará en vigor en todo el territorio del Estado de Durango, el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 1992.
+
+DECRETO No. 74.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 24 DE DICIEMBRE DE 1992.
+
+DECRETO No. 75.
+
+UNICO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
