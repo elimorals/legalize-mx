@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-la-ley-del-transporte-para-el-estado-de-puebla-15
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-13"
-last_updated: "1999-08-13"
+last_updated: "2002-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO DE LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2002.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de agosto de 1999.
 
@@ -65,9 +65,11 @@ Para efectos de este Reglamento, se entenderá por: SECRETARÍA.- La Secretaría
 
 ### CAPÍTULO II. DE LAS AUTORIDADES DEL TRANSPORTE Y LOS SUPERVISORES
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 5.
 
-Las autoridades a que se refieren las fracciones I, II y III del artículo 4 de la Ley, tendrán las facultades que les confieren este Reglamento, así como los demás ordenamientos aplicables en la materia.
+Las autoridades del transporte, reconocidas por la Ley y el presente Reglamento, podrán en todo momento, fundando y motivando su actuación, cancelar o dejar sin efectos sus actos administrativos y en contra de dicha resolución, procederá el Recurso de Inconformidad.
 
 ###### ARTÍCULO 6.
 
@@ -261,7 +263,7 @@ Para que un vehículo del Servicio Público de Transporte o del Servicio Mercant
 
 También deberán estar provistos cuando menos, de los accesorios y dispositivos siguientes:
 
-I.- De un aparato que sirva para emitir sonidos claros y perceptibles, como claxon, bocina, timbre u otros análogos, el cual deberá ser de acuerdo a la clase de vehículo; el empleo de sirena queda reservado para las ambulancias, los vehículos de policía, de bomberos y los convoys militares. Se prohibe el uso de silbatos accionados con el escape del vehículo;
+I.- De un aparato que sirva para emitir sonidos claros y perceptibles, como claxon, bocina, timbre u otros análogos, el cual deberá ser de acuerdo a la clase de vehículo; el empleo de sirena queda reservado para las ambulancias, los vehículos de policía, de bomberos y los convoys militares. Se prohíbe el uso de silbatos accionados con el escape del vehículo;
 
 II.- De un velocímetro en perfecto estado de funcionamiento y con la iluminación debida durante la noche;
 
@@ -309,17 +311,25 @@ El itinerario que se autorice para este tipo de transportes, será respetado por
 
 La prestación del Servicio de Transporte de Personal se regirá bajo las condiciones que acuerden la empresa y el prestador del servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 31.
 
-El Servicio de Transporte Mercantil Escolar, deberá contar con el aval del Director de la Escuela y de los padres de familia así como especificar zona de influencia de servicio, horarios a seguir y cumplir con las siguientes condiciones:
+El Servicio de Transporte Mercantil Escolar, deberá contar con el aval del Director de la Escuela y de los padres de familia, así como especificar zona de influencia de servicio, horarios a seguir y cumplir con las siguientes condiciones:
 
-I.- Deberán ser tipo minibús, microbús y autobús;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+I.- Deberán ser tipo minibús, microbús y autobús, o el vehículo que a juicio de la Secretaría, reúna las condiciones para realizar el servicio;
 
 II.- Deberán estar pintados de color amarillo tránsito, con rótulos en las partes frontal y posterior de "Precaución Transporte Escolar", en color negro mate;
 
-III.- Estarán acondicionados con puertas de ascenso y descenso;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
 
-IV.- Contar con piso antiderrapante, rejillas en las ventanillas, pasamanos a una altura adecuada a los usuarios, extintor, llanta auxiliar, dispositivos de prevención y botiquín de primeros auxilios;
+III.- Estarán acondicionados con puerta o puertas de ascenso y descenso;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+IV.- Contar con piso antiderrapante, rejillas en las ventanillas, pasamanos a una altura adecuada a los usuarios, extintor, llanta auxiliar, dispositivos de prevención, cuando las características de los vehículos así lo permitan, y con botiquín de primeros auxilios;
 
 V.- Ningún vehículo que traslade escolares deberá transportar a más pasajeros que el número indicado en la autorización correspondiente;
 
@@ -429,9 +439,11 @@ Las placas para los vehículos del Servicio Público de Transporte y del Servici
 
 Queda prohibido llevar sobre las placas de los vehículos del Servicio Público de Transporte y del Servicio Mercantil, o anexas a las mismas, distintivos, objetos u otras placas con rótulos e inscripciones de cualquier índole, que oculten, velen o impidan ver con claridad, parcial o totalmente, sus letras, números e identificaciones.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 50.
 
-Se negará o cancelará el registro o cualquier trámite encaminado a obtenerlo, si se comprueba que la información proporcionada es falsa o si alguno de los documentos o constancias exigibles carecen de autenticidad; de ocurrir esta circunstancia y si el hecho se ubica en los supuestos legales previstos por la legislación penal, se dará aviso al Ministerio Público para que proceda en consecuencia.
+Se negará o cancelará el registro; o se anulará cualquier trámite encaminado a obtenerlo, si se comprueba que la información proporcionada es falsa o si alguno de los documentos o constancias exigibles carecen de autenticidad; o cuando presten el servicio público de transpone o mercantil, sin contar con el título de concesión o permiso respectivo; de incurrir esta circunstancia y si el hecho se ubica en los supuestos previstos por la legislación penal, se dará aviso al Ministerio Público para que proceda en consecuencia.
 
 ###### ARTÍCULO 51.
 
@@ -459,9 +471,11 @@ En caso de pérdida o extravió de una o ambas placas, o de la tarjeta de circul
 
 En estos casos la Secretaría tomará las medidas necesarias para prevenir el mal uso de las placas de que se trata.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 54.
 
-Los vehículos del Servicio Público de Transporte y del Servicio Mercantil, podrán solicitar a la Secretaría permisos provisionales para el caso de robo, descompostura o baja del vehículo por un tiempo que no exceda de noventa días naturales, debiendo entregar en su caso a la autoridad, en depósito las placas correspondientes en tanto no se haga la acreditación de la que habla la tramitación de cambio de vehículo que señala el presente Reglamento, en el entendido de que el transportista deberá comprobar fehacientemente con documentos idóneos las circunstancias de que se trate.
+Los concesionarios o permisionarios del Servicio Público de Transpone y del Servicio Mercantil, podrán solicitar permisos provisionales para el caso de robo, descompostura o baja del vehículo, por un tiempo que no exceda de noventa días naturales, debiendo entregar en su caso a la autoridad, en depósito las placas correspondientes, en tanto no se haga la acreditación de la que habla la tramitación de cambio de vehículo que señala el presente Reglamento, en el entendido de que el transportista deberá comprobar fehacientemente con documentos idóneos las circunstancias de que se trate.
 
 ###### ARTÍCULO 55.
 
@@ -513,15 +527,21 @@ VI.- En los casos en que exista una orden proveniente de Autoridad Judicial, que
 
 VII.- Por tener infracciones no pagadas, y
 
-VIII.- Cuando el solicitante no apruebe el examen teórico-práctico, médico o de agudeza visual que practique el personal autorizado por la Secretaría;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+VIII.- Cuando el solicitante no apruebe el examen teórico, médico o de agudeza visual que practique el personal autorizado por la Secretaría.
 
 ### CAPÍTULO II. CLASIFICACIONES DE LAS LICENCIAS PARA CONDUCIR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 63.
 
-Los tipos de licencia que expedirá la Secretaría y sus correspondientes requisitos son:
+Los tipos de licencia que expedirá la Secretaría y sus correspondientes requisitos:
 
-I.- LICENCIA PROVISIONAL PARA AUTOMOVILISTA Y MOTOCICLISTA.- Se otorga a personas con edad de dieciséis a diecisiete años 11 meses; así como a quienes habiendo cumplido dieciocho años o siendo mayores de esta edad, estén aprendiendo a conducir. Estas licencias tendrán una vigencia de seis meses.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
+
+I.- LICENCIA PROVISIONAL PARA AUTOMOVILISTA Y MOTOCICLISTA.- Se otorgará a personas mayores de dieciséis y menores de dieciocho años. Estas licencias tendrán una vigencia de seis meses.
 
 REQUISITOS:
 
@@ -529,7 +549,9 @@ a).- Copia certificada del acta de nacimiento expedida por el Registro Civil.
 
 b).- Requisitar formato para solicitud de trámite de licencia.
 
-c).- Comprobante domiciliario actualizado.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
+c).- Comprobante domiciliario cuya fecha de expedición no sea mayor a tres meses.
 
 d).- Identificación oficial vigente, con fotografía y firma.
 
@@ -545,9 +567,13 @@ i).- En caso de ser extranjero, demostrar la legal estancia en el País con los 
 
 j).- Aprobar el examen médico de agudeza visual que practique el personal de la Secretaría.
 
-k).- Aprobar el examen teórico y práctico que establezca la Secretaría.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
 
-II.- LICENCIA DE AUTOMOVILISTA.- Se otorgará a partir de los dieciocho años, es de uso particular, la requieren los conductores de automóviles o vehículos análogos, pick up y panel de su pertenencia o propiedad de terceros, que en su capacidad no excedan de 3.5 toneladas, no presten servicios al público y, por consiguiente, no reciban retribución alguna. Tendrá una vigencia de tres, cinco o diez años.
+k).- Aprobar el examen teórico que establezca la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
+
+II.- LICENCIA DE AUTOMOVILISTA.- Se otorgará a partir de los dieciocho años, es de uso particular, la requieren los conductores de automóviles o vehículos análogos pick-up y panel, que en su capacidad no excedan de 3.5 toneladas, no presten servicios al público y, por consiguiente, no reciban retribución alguna. Tendrá una vigencia de tres o cinco años.
 
 REQUISITOS:
 
@@ -555,13 +581,17 @@ a).- Copia certificada del acta de nacimiento expedida por el Registro Civil.
 
 b).- Requisitar formato para solicitud de trámite de licencia.
 
-c).- Comprobante domiciliario actualizado.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
+c).- Comprobante domiciliario cuya fecha de expedición no sea mayor a tres meses.
 
 d).- Identificación oficial vigente, con fotografía y firma.
 
 e).- Aprobar examen médico de agudeza audiovisual, realizado por el personal de la Secretaría.
 
-f).- Aprobar examen teórico y práctico de manejo.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
+f).- Aprobar examen teórico de manejo.
 
 g).- Constancia de no adeudo de infracciones.
 
@@ -569,7 +599,9 @@ h).- Pago de los derechos correspondientes.
 
 i).- En caso de ser extranjero, demostrar la legal estancia en el País con los documentos que determine la Secretaría.
 
-III.- LICENCIA DE MOTOCICLISTA.- La requieren los conductores de vehículos de dos, tres o cuatro ruedas, impulsados con motor de gasolina con transmisión de cadena o de flecha, otorgándose a partir de los dieciocho años de edad y tendrá una vigencia de tres, cinco o diez años.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
+
+III.- LICENCIA DE MOTOCICLISTA.- La requieren los conductores de vehículos de dos, tres o cuatro ruedas, impulsados con motor de gasolina con trasmisión de cadena o de flecha, otorgándose a partir de los dieciocho años de edad y tendrá una vigencia de tres o cinco años.
 
 REQUISITOS:
 
@@ -581,7 +613,9 @@ REQUISITOS:
 
 Los mismos que los de la licencia de automovilista.
 
-V.- LICENCIA TEMPORAL DE ENTRENAMIENTO DE CHOFER DEL SERVICIO PÚBLICO Y DEL SERVICIO MERCANTIL.- Ésta se otorgará sólo a personas que hayan cumplido dieciocho años o sean mayores de edad, tendrá una vigencia de seis meses y se expedirá hasta por cuatro veces consecutivas a los conductores de vehículos destinados al Servicio Público y al Servicio Mercantil, que deseen obtener por primera vez licencia de chofer del Servicio Público y del Servicio Mercantil.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
+
+V.- LICENCIA TEMPORAL DE ENTRENAMIENTO DE CHOFER DEL SERVICIO PÚBLICO Y DEL SERVICIO MERCANTIL.- Ésta se otorgará sólo a personas mayores de edad, tendrá una vigencia de seis meses y se expedirá a los conductores de vehículos destinados al Servicio Público y al Servicio Mercantil, que deseen obtener por primera vez licencia de chofer del Servicio Público y del Servicio Mercantil.
 
 REQUISITOS:
 
@@ -591,15 +625,21 @@ b).- Requisitar formato para solicitud de trámite.
 
 c).- Saber leer y escribir.
 
-d).- Comprobante domiciliario actualizado.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
+d).- Comprobante domiciliario cuya fecha de expedición no sea mayor a tres meses.
 
 e).- Identificación oficial vigente.
 
-f).- Certificado médico expedido por institución pública del Sector Salud.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
+f).- Certificado médico expedido por institución pública o privada, de reconocido prestigio, con el que se acredite gozar de buena salud, así como de no padecer enfermedades auditivas y/o visuales, que impidan conducir.
 
 g).- Acreditar haber aprobado a satisfacción los cursos de capacitación y adiestramiento establecidos por la Secretaría, en los términos que ésta determine.
 
-h).- Aprobar un examen de conocimientos básicos de la Ley y su Reglamento, así como de mecánica general, que establezca la Secretaría.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
+h).- Aprobar un examen de conocimientos básicos de educación vial, así como de la Ley y su Reglamento, que establezca la Secretaría.
 
 i).- Constancia de no adeudo de infracciones.
 
@@ -608,6 +648,10 @@ j).- Pago de derechos correspondientes.
 k).- En caso de ser extranjero, demostrar la legal estancia en el País con los documentos que determine la Secretaría.
 
 l).- Aprobar el examen de agudeza audiovisual, que practique el personal de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
+
+m).- Carta de No Antecedentes Penales expedida por la Procuraduría General de Justicia del Estado.
 
 VI.- LICENCIA DE CHOFER PARA EL SERVICIO PÚBLICO Y EL SERVICIO MERCANTIL.- Las requieren los conductores de vehículos destinados al Servicio Público y al Servicio Mercantil, otorgándose a partir de los dieciocho años de edad y tendrá una vigencia de tres años.
 
@@ -619,15 +663,21 @@ b).- Requisitar formato de solicitud de trámite de licencia.
 
 c).- Saber leer y escribir.
 
-d).- Comprobante domiciliario actualizado.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
+d).- Comprobante domiciliario cuya fecha de expedición no sea mayor a tres meses.
 
 e).- Identificación oficial vigente con fotografía y firma.
 
-f).- Certificado médico expedido por institución pública del Sector Salud.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
+f).- Certificado médico expedido por institución pública o privada, de reconocido prestigio, con el que se acredite gozar de buena salud, así como de no padecer enfermedades auditivas y/o visuales, que impidan conducir.
 
 g).- Acreditar haber aprobado a satisfacción los cursos de capacitación y adiestramiento establecidos por la Secretaría, en los términos que ésta determine.
 
-h).- Aprobar un examen de conocimientos básicos de la Ley y su Reglamento, así como de mecánica general, que establezca la Secretaría.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
+h).- Aprobar un examen de conocimientos básicos de educación vial, así como de la Ley y su Reglamento, que establezca la Secretaría.
 
 i).- Constancia de no adeudo de infracciones.
 
@@ -637,15 +687,25 @@ k).- En caso de ser extranjero demostrar la legal estancia en el País con los d
 
 l).- Aprobar el examen de agudeza audiovisual, que practique el personal de la Secretaría.
 
-m).- Haber obtenido licencia temporal de entrenamiento de chofer del Servicio Público o del Servicio Mercantil por un periodo de dos años.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
+m).- Haber obtenido licencia temporal de entrenamiento de chofer del Servicio Público o del Servicio Me (sic)
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
+
+n).- Carta de No Antecedentes Penales expedida por la Procuraduría General de Justicia del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
 
 ###### ARTÍCULO 64.
 
-Se realizará el canje de licencias de conducir cuando la Secretaría otorgue otra licencia a solicitud del usuario, por haber terminado la vigencia anterior, debiendo éste entregar la licencia que tenga en su poder, conservándose el número del expediente de licencia, así como la antigüedad de aquélla. Para el trámite anterior se deberán cumplir los siguientes requisitos:
+Se realizará el canje de licencias de conducir cuando la Secretaría otorgue otra licencia. Para el trámite anterior se deberán cumplir los siguientes requisitos:
 
 I.- Requisitar formato para la solicitud de canje de licencia;
 
-II.- Comprobante domiciliario actualizado;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+II.- Comprobante domiciliario cuya fecha de expedición no exceda de tres meses;
 
 III.- Identificación oficial vigente, con fotografía y firma;
 
@@ -655,17 +715,23 @@ V.- Constancia de no adeudo de infracciones, y
 
 VI.- Pago de derechos correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 65.
 
-La reposición de la licencia de conducir se realizará a solicitud del usuario, cuando éste no tenga en su poder la licencia vigente, porque la haya extraviado o porque se la hayan robado.
+La reposición de la licencia de conducir se realizará a solicitud del usuario cuando éste no tenga en su poder la licencia vigente, por que la haya extraviado o por que se la hayan robado.
 
 REQUISITOS:
 
 I.- Requisitar formato para solicitud de reposición de licencia;
 
-II.- Presentar copia certificada del acta levantada ante el Ministerio Público, por robo o pérdida de la licencia, así como su ratificación en los casos que proceda;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
 
-III.- Comprobante domiciliario actualizado;
+II.- Presentar copia del acta levantada ante el Ministerio Público, por robo o pérdida de la licencia, así como su ratificación en los casos en que proceda;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+III.- Comprobante domiciliario cuya vigencia no sea mayor de tres meses;
 
 IV.- Identificación oficial vigente, con fotografía y firma del interesado;
 
@@ -723,9 +789,11 @@ La licencia además podrá ser suspendida, hasta por un periodo de seis meses, s
 
 A fin de dar cumplimiento a lo dispuesto por este capítulo, la Secretaría se coordinará con las autoridades competentes en materia de seguridad vial, las que conforme a sus atribuciones, deberán hacer del conocimiento a esta Dependencia cualquier infracción relacionada con este Reglamento.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 73.
 
-Una vez que la Secretaría, tenga conocimiento de que ha ocurrido cualquiera de los casos señalados para suspender o cancelar licencias, deberá citar al titular de la misma, fijando día y hora para la celebración de una audiencia dentro de un término de veinte días hábiles, haciéndole saber el objeto de la misma requiriéndolo para que presente las pruebas que considere convenientes y que estén debidamente relacionadas, apercibiéndolo que de no comparecer se le tendrá por conforme con la resolución que se dicte.
+Una vez que la Secretaría, tenga conocimiento de que ha ocurrido cualquiera de los casos señalados para suspender o cancelar licencias, deberá a través del área jurídica, citar al titular de la misma, fijando día y hora para la celebración de una audiencia dentro de un término de veinte días hábiles, haciéndole saber el objeto de la misma, requiriéndolo para que presente las pruebas que considere convenientes y que estén debidamente relacionadas, apercibiéndolo que de no comparecer se le tendrá por conforme con la resolución que se dicte.
 
 ###### ARTÍCULO 74.
 
@@ -749,15 +817,35 @@ Siendo el transporte un servicio público, atributo del Estado, éste tendrá en
 
 Los tipos a que se refiere el párrafo anterior consistirán en el servicio que presten cada una de las mismas de conformidad con los itinerarios, tarifas, horarios, terminales de transferencia, y todo aquello que exijan las necesidades del público, congruentes con el desarrollo social y económico de la Entidad.
 
-La Secretaría expedirá las concesiones en forma potestativa y discrecional, atentas a las condiciones peculiares que concurran específicamente en cada caso, teniendo la facultad de revocarlas en la forma y términos que establezcan la Ley y este Reglamento.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
+La Secretaría expedirá las concesiones en forma potestativa y discrecional, atendiendo a las condiciones peculiares que concurran específicamente en cada caso, evitando siempre las prácticas monopólicas, y teniendo la facultad de revocarlas en la forma y términos que establezcan la Ley y este Reglamento.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
+
+No obstante lo anterior, la Secretaría procurará otorgar las concesiones a través de licitación pública, para lo cual deberá, elaborar y publicar en el Periódico Oficial del Estado y en un diario de mayor circulación, conjuntamente con la declaratoria de necesidad respectiva, los estudios técnicos integrales que justifiquen la necesidad de incrementar las concesiones existentes, el cual deberá mantener el balance entre la oferta y la demanda del servicio materia de la concesión, de acuerdo con la modalidad de que se trate.
 
 ###### ARTÍCULO 78.
 
 Las concesiones que se otorguen para la prestación de cualquiera de los tipos del Servicio Público de Transporte, requieren el cumplimiento de todas las condiciones que establece la Ley, este Reglamento y el Título de Concesión correspondiente.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 79.
 
-De conformidad con lo establecido en la Ley, para poder prestar cualquiera de los tipos del Servicio Público de Transporte, se requiere de una concesión otorgada por la Secretaría.
+La declaratoria de necesidad que se menciona en el artículo 77 del presente Reglamento, contendrá como mínimo lo siguiente:
+
+I.- Los resultados de los estudios técnicos integrales que justifiquen su otorgamiento;
+
+II.- El lugar donde se prestará el servicio, la modalidad y el número de concesiones a expedir;
+
+III.-El tipo y características de los vehículos que se requieran;
+
+IV.- Las condiciones generales para la prestación del servicio;
+
+V.- El número de concesiones y vehículos autorizados basta ese momento para prestar el servicio, en la modalidad correspondiente; y,
+
+VI.- Las demás que señalen las disposiciones jurídicas y administrativas.
 
 ###### ARTÍCULO 80.
 
@@ -775,17 +863,29 @@ IV.- Transporte Mixto, de personas y de bienes.
 
 De conformidad con lo que establece la Ley, las concesiones serán expedidas por la Secretaría, una vez que los interesados hayan satisfecho en su totalidad los requisitos y las condiciones establecidas por la propia Ley y este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 82.
 
 Previo al otorgamiento de una concesión para la prestación del Servicio Público de Transporte, la Secretaría deberá:
 
-I.- Llevar a cabo los estudios técnicos necesarios, para determinar las necesidades del servicio de que se trate;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
 
-II.- Instrumentar las medidas tendientes a fomentar la constitución de personas morales, con la participación de las personas físicas que cuenten con concesiones;
+I.- Llevar a cabo los estudios técnicos integrales necesarios para determinar los requerimientos del servicio de que se trate;
 
-III.- Para las personas morales, verificar que los solicitantes disponen de la capacidad jurídica, técnica, financiera y operativa suficiente para satisfacer las exigencias del servicio correspondiente, en beneficio del público usuario, y
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+II.- Notificar al solicitante o solicitantes sobre la procedencia de otorgamiento de concesión;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+III.- Emitir la orden de pago de derechos por otorgamiento de concesión, debiendo presentar el solicitante comprobante de pago de los mismos; y
 
 IV.- Además de los estudios técnicos, deberá observarse lo dispuesto en el artículo 66 de la Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
+
+Una vez realizado todo lo anterior y satisfechos los demás requisitos establecidos en la Ley y el presente Reglamento, se otorgará la concesión, emitiéndose el Título de Concesión respectivo.
 
 ###### ARTÍCULO 83.
 
@@ -799,7 +899,9 @@ III.- Declaración bajo protesta de decir verdad, señalando el número de conce
 
 IV.- Puntos correspondientes a la ruta que se desee explotar, el municipio o los municipios que atraviese y concretamente, en el Servicio Urbano, señalar los nombres de las calles y lugares donde se pretenda ubicar la base, terminales o sitio, según sea el caso;
 
-V.- Garantía que otorga a favor de la Secretaría de Finanzas, para asegurar la continuidad de los trámites correspondientes;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+V.- Garantía otorgada a favor de la Secretaría de Finanzas y Desarrollo Social, para asegurar la continuidad de los trámites correspondientes;
 
 VI.- Carta compromiso por la cual se obliga a contratar el seguro del viajero, dentro del término de treinta días hábiles contados a partir del día siguiente del otorgamiento de la concesión, a fin de proteger a los usuarios y terceros sobre cualquier daño que puedan sufrir con motivo de la prestación del servicio;
 
@@ -833,21 +935,31 @@ IX.- Comprobante del depósito de garantia del trámite correspondiente.
 
 Por cada solicitud se formará un expediente que contendrá todos los documentos exhibidos, así como la resolución que declare procedente o improcedente el otorgamiento de la concesión. Los interesados podrán solicitar copia certificada a su costa de las constancias que les sean útiles, las que serán expedidas por conducto de la Subsecretaría del Transporte, recibiéndolas personalmente el peticionario.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 85.
 
-La garantía que se debe otorgar a favor de la Secretaría de Finanzas para asegurar la continuidad de los trámites correspondientes, deberá ser equivalente al veinte por ciento del pago de derechos, por el otorgamiento de cada una de las concesiones, de conformidad con lo establecido en la Ley de Ingresos del Estado, vigente.
+La garantía que se debe otorgar a favor de la Secretaria de Finanzas y Desarrollo Social para asegurar la continuidad de los trámites correspondientes, deberá ser equivalente al veinte por ciento del pago de derechos por el otorgamiento de cada una de las concesiones, de conformidad con lo establecido en la Ley de Ingresos del Estado.
 
 ###### ARTÍCULO 86.
 
 La garantía a que se refiere el artículo anterior, será devuelta al solicitante una vez que le sea otorgada o no la concesión, en la inteligencia de que en caso de que éste deje de realizar algún trámite al que esté obligado por un término mayor de treinta días naturales o no presente el vehículo o vehículos con los que pretenda prestar el servicio ni la documentación respectiva, dentro de los noventa días siguientes a la fecha de la expedición de la concesión, la Secretaría declarará el abandono del trámite, perdiéndose el importe de la garantía en beneficio del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 87.
 
-Para el otorgamiento de la concesión, los vehículos con los que se pretenda realizar el Servicio Público de Transporte deberán tener una antigüedad máxima de tres años a la fecha en que se determine procedente el otorgamiento de la concesión.
+Para el otorgamiento de la concesión, los vehículos con los que se pretenda realizar el Servicio Público de Transporte en zonas urbanas, deberán tener una antigüedad máxima de tres años a la fecha de otorgamiento de la concesión, y en los demás casos hasta de cinco años.
 
-Una vez que la Secretaría determine que es procedente el otorgamiento de la concesión se deberá presentar el vehículo o vehículos con los que se pretenda prestar el servicio, así como la documentación en original y dos copias con la que se acredite la propiedad de los mismos, en un término que no exceda de noventa días naturales tratándose de vehículos nuevos y de cuarenta y cinco días naturales tratándose de vehículos que tengan la antigüedad que señala el párrafo anterior. En caso contrario, se perderá la garantía citada a favor del Gobierno del Estado.
+Una vez que la Secretaría determine que es procedente el otorgamiento de la concesión se deberá presentar el vehículo o vehículos con los que se pretenda prestar el servicio, así como la documentación en original y dos copias con la que se acredite la propiedad de los mismos, en un término que no exceda de noventa días naturales tratándose de vehículos nuevos y de cuarenta cinco días naturales, tratándose de vehículos que tengan la antigüedad que señala el párrafo anterior. En caso contrario, se perderá la garantía citada a favor del Gobierno del Estado.
 
-Aprobado el vehículo o vehículos por la Secretaría, se expedirá la orden de pago de las contribuciones que correspondan.
+Aprobado el vehículo o vehículos por la Secretaría, se expedirá la orden de pago de las contribuciones correspondientes, previo dictamen técnico de otorgamiento de la concesión.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
+
+ARTÍCULO 87 BIS.- Las concesiones que se otorguen a las personas físicas o jurídicas para prestar el Servicio Público de Transporte, tendrán una vigencia indefinida; sin embargo, la autoridad o la comisión respectiva certificará cada tres años, la validez de las mismas.
+
+Respecto a las concesiones otorgadas, los concesionarios tienen la obligación de prestar el servicio con vehículos que no excedan de diez años de antigüedad de fabricación, y de realizar el trámite anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas y Desarrollo Social, en términos de la Ley de Ingresos del Estado.
 
 ###### ARTÍCULO 88.
 
@@ -865,9 +977,11 @@ Una vez que la solicitud con todos sus documentos complementarios haya sido reci
 
 Cuando el solicitante haya cubierto satisfactoriamente los requisitos señalados en los artículos anteriores, los técnicos de la Secretaría dedicados al análisis, estudio y calificación de la documentación, procederán a elaborar el dictamen correspondiente, el cual deberá tomar en cuenta todos los factores que en su conjunto garanticen la prestación del servicio, de conformidad con lo señalado por la Ley y este Reglamento. Si el dictamen determina como improcedente el otorgamiento de la concesión, el solicitante podrá tramitar de inmediato que le sea devuelta la garantía que hubiere otorgado.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 92.
 
-En igualdad de circunstancias y condiciones respecto a otros solicitantes, se dará preferencia a las personas físicas o morales de mayor antigüedad en la prestación del servicio siempre que cuenten con las mejores condiciones técnicas, financieras y de operación necesarias para la prestación del mismo.
+En igualdad de circunstancias respecto de otros solicitantes, se dará preferencia a las personas físicas o jurídicas que cuenten con las mejores condiciones técnicas, financieras y de operación necesarias para la prestación del mismo.
 
 ###### ARTÍCULO 93.
 
@@ -887,13 +1001,33 @@ IV.- Cuando se trate de servicios intermedios entre poblaciones en las que ya ex
 
 V.- Cuando haya falsedad en los informes o documentación presentados, sin perjuicio de las sanciones penales que procedan a juicio de la Autoridad Judicial competente.
 
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
+
+ARTÍCULO 94 BIS.- Son causales de improcedencia para el otorgamiento de una concesión, las siguientes:
+
+I.- Cuando no se hayan cubierto los requisitos previstos por la Ley del Transporte y el presente Reglamento;
+
+II.- Cuando del estudio técnico integral se determine que es improcedente dicho otorgamiento; y
+
+III.- Cuando del análisis del expediente administrativo de otorgamiento de concesión o permiso se derive que hay falsedad en los informes y documentación presentados, sin perjuicio de las sanciones que en materia penal procedan.
+
 ###### ARTÍCULO 95.
 
 La Secretaría está facultada para establecer el número de concesiones, que conforme a los estudios realizados, se requieran para prestar en forma eficiente y continua cada tipo de servicio, pero velará porque no se constituyan monopolios ni se incurra en prácticas que tiendan a propiciarlos.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 96.
 
-Admitida la solicitud y satisfechos los requisitos establecidos en la Ley, el presente Reglamento y las normas que conforme a dichas disposiciones establezca la Secretaría; así como elaborado el dictamen de procedencia de otorgamiento de la concesión y una vez cubiertos los derechos fiscales correspondientes, el Secretario expedirá el "Título de Concesión".
+El Secretario, expedirá el Titulo de Concesión, cuando se hayan cumplido y obren en el expediente administrativo, como mínimo los siguientes requisitos:
+
+I.- Estudio Técnico respectivo o en su caso la declaratoria de necesidad correspondiente publicada en el Periódico Oficial del Estado;
+
+II.- Notificación de procedencia de otorgamiento de concesión, ya que el mismo es requisito indispensable para su otorgamiento;
+
+III.- La orden y el comprobante de pago de los derechos de otorgamiento de concesión; y
+
+IV.- Los demás que en su caso procedan.
 
 ###### ARTÍCULO 97.
 
@@ -920,6 +1054,22 @@ Tratándose de incapacidad o discapacidad física o mental, o de ausentes e igno
 Queda al prudente arbitrio de la Secretaría autorizar la cesión de esta concesión.
 
 Una vez que sea autorizada la cesión y cubiertos los derechos correspondientes, la Secretaría emitirá el "Título de Concesión" respectivo en términos del acuerdo correspondiente.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
+
+La cesión quedará sin efecto cuando haya falsedad en los informes o documentos presentados, ordenándose la cancelación del trámite, sin perjuicio de las sanciones penales que procedan.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
+
+ARTÍCULO 98 BIS.- El procedimiento para reconocimiento de beneficiarios se realizará de la siguiente forma:
+
+I.- Los beneficiarios deberán cumplir con los mismos requisitos que los concesionarios;
+
+II.- La solicitud para nombrar a beneficiarios se hará por triplicado, previo estudio y análisis, se procederá a dictar la resolución que corresponda; y
+
+III.- Reconocidos los beneficiarios se procederá a hacerlos constar en el "Título y Tarjetón de Concesión" respectivo. Asimismo se procederá a inscribirlos en el padrón de concesionarios.
+
+Para la aplicación de la concesión, los beneficiarios deberán presentar el acta de defunción del concesionario, así como cumplir con los requisitos establecidos en el artículo que antecede.
 
 ###### ARTÍCULO 99.
 
@@ -981,9 +1131,21 @@ XIV.- Sello de la Secretaría del año que está revalidando.
 
 En el mismo tarjetón se contemplará los casos en que se suscite el cambio de los vehículos, poniendo el número del acuerdo correspondiente, la fecha y folio del recibo de pago.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 101.
 
-El Servicio de Autotransporte Federal que cuente con el permiso correspondiente otorgado por la autoridad competente, deberá solicitar a la Secretaría la autorización que dentro de su esfera de competencia deba expedir a efecto de que pueda prestar el Servicio de Transporte de Pasajeros en los tramos de la infraestructura vial de jurisdicción estatal, previo estudio correspondiente, escuchándose la opinión de los establecidos.
+El Servicio de Autotransporte Federal que cuente con el permiso otorgado por la autoridad competente, deberá solicitar a la Secretaría la autorización, a efecto de que pueda prestar el servicio de transporte de pasajeros en los tramos de la infraestructura vial de la jurisdicción estatal, previo estudio correspondiente.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
+
+ARTÍCULO 101 BIS.- La Secretaría podrá en todo momento otorgar autorizaciones con carácter de provisionales, gratuitas y renovables, las cuales no excederán del término de tres meses en los siguientes casos:
+
+a).- Cuando se trate de experimentar una ruta nueva en el Estado; y
+
+b).- Cuando exista mayor demanda de transporte, motivada por ferias, exposiciones y excursiones o por cualquier otra circunstancia que a criterio de la Secretaría, justifique tal situación.
+
+Las autorizaciones provisionales concedidas, dejarán de surtir sus efectos en cuanto el estudio técnico determine la improcedencia o procedencia de otorgamiento de concesiones.
 
 ### CAPÍTULO II. REVOCACIÓN DE LAS CONCESIONES
 
@@ -991,37 +1153,81 @@ El Servicio de Autotransporte Federal que cuente con el permiso correspondiente 
 
 Las concesiones podrán ser revocadas cuando los prestadores del servicio de que se trate se encuentren en los supuestos que señala el artículo siguiente, así como por cualquier otra circunstancia que implique la prestación irregular y deficiente del servicio de un modo permanente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 103.
 
-Las concesiones que se otorguen para la prestación de los servicios a que hace referencia este Reglamento, podrán ser revocadas por las siguientes causas:
+Las concesiones, que se otorgan para la prestación de los servicios a que hace referencia este Reglamento, podrán ser revocadas por las siguientes causas:
 
-I.- Porque se preste el Servicio Público de Transporte de forma diferente a lo autorizado en la concesión;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
 
-II.- Porque los vehículos con los que se presta el servicio no conserven de un modo permanente las características requeridas para el tipo de que se trate;
+I.- Porque se preste el Servidor Público de Transporte en forma diferente a lo autorizado en la concesión;
 
-III.- Porque no se preste el servicio con la eficiencia, uniformidad y regularidad requeridas, no obstante los apercibimientos de las autoridades;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
 
-IV.- Por no sustituir en noventa días naturales el vehículo, cuando se haya solicitado la baja del vehículo en operación, o no realizar el alta del vehículo correspondiente;
+II.- Porque los vehículos con los que se presta el servicio no conserven de un modo permanente las características para el tipo de que se trate;
 
-V.- Porque el concesionario realice la transmisión de la concesión, así como los derechos en ella conferidos, sin autorización previa de la Secretaría, en términos de lo dispuesto por este Reglamento;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+III.- Porque no se preste el servicio con la eficiencia, uniformidad y regularidad requeridas, no obstante tres apercibimientos debidamente fundados y motivados de las autoridades;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+IV.- Por no sustituir en noventa días naturales el vehículo, cuando se haya solicitado la baja del mismo en operación o no realizar el alta correspondiente;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+V.- Porque el concesionario no realice ante la Secretaría, la transmisión de la concesión, así como los derechos en ella conferidos;
 
 VI.- Porque se suspenda o interrumpa el servicio sin justificación, no existiendo motivos de causa mayor o caso fortuito que hagan materialmente imposible su prestación;
 
-VII.- Por reincidir dos veces en la violación de las tarifas para cada tipo de servicio, dentro de los seis meses siguientes contados a partir de la última violación cometida por el concesionario o su conductor;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
 
-VIII.- Por circular en forma reiterada y constante con placas del Servicio Público de Transporte que no correspondan al vehículo autorizado;
+VII.- Por alteración a las tarifas establecidas por la Secretaría, cometida por el concesionario o su conductor, para cada tipo de servicio;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+VIII.- Por circular con placas del Servicio Público de Transporte, que no correspondan al vehículo autorizado o que éstas sean falsas;
 
 IX.- Por bloquear intencionalmente la infraestructura vial del Estado, utilizando los vehículos del Servicio Público de Transporte;
 
-X.- Porque los concesionarios no tomen las medidas que procedan para evitar la reincidencia en la comisión de infracciones, que representen grave riesgo para la seguridad de los usuarios o de terceros;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+X.- Por reincidir tres veces en un periodo de seis meses, en la comisión de infracciones por el concesionario o su conductor, que represente grave riesgo para la seguridad de los usuarios o de terceros;
 
 XI.- Por cometer un hecho delictuoso relacionado con el carácter de concesionario, previa sentencia ejecutoriada;
 
-XII.- Por la falta de liquidación oportuna, dentro del ejercicio fiscal correspondiente, de la revalidación de las concesiones a que lo obliguen las leyes de la materia;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
 
-XIII.- Por haber presentado el concesionario, documentación falsa o alterada para la obtención de la concesión para la prestación del Servicio Público de Transporte, y sin perjuicio de consignar los hechos al Ministerio Público correspondiente, y
+XII.- Si decretada la suspensión provisional, subsistiera el incumplimiento en el pago de los adeudos correspondientes por concepto de revalidación de concesión;
 
-XIV.- Por cualquier otra circunstancia que implique la prestación irregular y deficiente del servicio de un modo permanente, o cuando lo reclame el interés social.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+XIII.- Por haber presentado el concesionario, documentación falsa o alterada para la obtención de la concesión, así como cualquier trámite relacionado con la misma, para la prestación del Servicio Público de Transporte y sin perjuicio de consignar el hecho al Ministerio Público correspondiente;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+XIV.- Por no registrar en el mes de enero de cada año, la póliza de seguro del viajero y daños a terceros vigente;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+XV.- Por circular más de tres veces fuera del itinerario o la ruta señalada en el Titulo de Concesión o prestar el servicio en un Municipio distinto al autorizado;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+XVI.- Por tener registrado, o tratar de registrar en la concesión un vehículo robado;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+XVII.- Por sentencia ejecutoriada;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+XVIII.- Porque el concesionario que preste el Servicio a través de choferes, exija a los mismos cuentas excesivas, que implique prestar el Servicio Público de Transporte de forma riesgosa para el usuario, así como a la sociedad en general; y
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+XIX.- Por cualquier otra circunstancia que implique la prestación irregular y deficiente del servicio de un modo permanente, o cuando lo reclame el interés social.
 
 La revocación de las concesiones operará previo cumplimiento del procedimiento que al efecto señala la Ley y el presente Reglamento.
 
@@ -1041,15 +1247,23 @@ V.- Por quiebra, para lo cual se estará a lo dispuesto por la Ley de la materia
 
 La revocación de las concesiones a que hace referencia el presente artículo operará desde el momento en que se presente cualquiera de las causas enumeradas.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 105.
 
-La revocación de las concesiones, será declarada administrativamente por el Secretario, de conformidad con las atribuciones que le confieren los ordenamientos legales vigentes y de acuerdo al procedimiento siguiente:
+La revocación de las concesiones será declarada administrativa mente por el Secretaría de conformidad con las atribuciones que le confieren los ordenamientos legales vigentes y de acuerdo al procedimiento siguiente:
 
-I.- Apercibir al concesionario de las violaciones para que ajuste su servicio a lo establecido en el Título de Concesión, la Ley y el Reglamento;
+I.- La Secretaría notificará personalmente y por escrito al concesionario, los motivos de revocación en que a su juicio haya incurrido;
 
-II.- La Secretaría, hará saber al concesionario los motivos por los cuales se ha considerado procedente revocar su concesión y se le concederá un plazo improrrogable de treinta días hábiles, contados a partir del día siguiente en que se haga la notificación, para que presente las pruebas y defensas que estime convenientes, y
+II.- Le señalará un término de veinticinco días hábiles, de los cuales los primeros cinco serán para el ofrecimiento de pruebas y admitidas éstas, se contará con quince para su desahogo, quedando cinco para la presentación de alegatos y manifestación de lo que a su derecho convenga;
 
-III.- Presentadas las pruebas y defensas o transcurrido el plazo señalado en la fracción anterior sin que éstas se hubieren presentado, el Secretario dictará la resolución correspondiente.
+III.- Serán admisibles todos los medios de prueba, excepto la confesional de la autoridad, así como las que fueren contra la moral o el derecho;
+
+IV.- No se tendrán por ofrecidas, las pruebas que se presenten fuera del término señalado para tal efecto en el presente Reglamento, así corno las que no tengan relación con los hechos impugnados, con excepción de las pruebas supervenientes las que se admitirán antes de dictarse la resolución definitiva; y
+
+V.- Concluida la fase anterior, la Secretaría contará con un término de veinticinco días hábiles para dictar la resolución correspondiente.
+
+Contra la resolución que revoque la concesión procede el Recurso de Inconformidad.
 
 ###### ARTÍCULO 106.
 
@@ -1069,17 +1283,21 @@ Todos los concesionarios de cualquiera de los Servicios Públicos de Transporte,
 
 ### CAPÍTULO III. DE LAS SOCIEDADES TRANSPORTISTAS
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 110.
 
-De conformidad con las disposiciones de la Ley, las personas morales cuyo objeto social sea la prestación del Servicio Público de Transporte y del Servicio Mercantil, podrán adoptar la forma de cualquiera de las sociedades reconocidas por las leyes mexicanas.
+De conformidad con las disposiciones de la Ley, las personas jurídicas cuyo objeto social sea la prestación del Servicio Público de Transporte y del Servicio Mercantil de Transporte de Personas en vehículos de alquiler o taxi, podrán adoptar cualquiera de las sociedades mercantiles y cooperativas reconocidas por las leyes mexicanas.
 
 ###### ARTÍCULO 111.
 
 Las Sociedades Transportistas debidamente constituidas y cuya personalidad se encuentre reconocida por la Secretaría, deberán presentar a la misma el Reglamento de Operación relativo a la prestación del Servicio Público de Transporte o de la prestación del Servicio Mercantil cuando sea el caso.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 112.
 
-Las Sociedades Transportistas que se constituyan deberán tramitar ante la Secretaría, el reconocimiento de su personalidad, por lo que deberán presentar ante la misma, copia certificada del acta constitutiva debidamente requisitada y formalizada, de conformidad con lo establecido en las leyes que amparen su creación, así como el padrón actualizado de sus integrantes.
+Las sociedades mercantiles y cooperativas cuyo objeto sea la prestación del Servicio Público de Transporte y de Servicio Mercantil de Transporte de Personas en vehículos de alquiler o taxi, deberán tramitar ante la Secretaría el reconocimiento de su personalidad, por lo que deberán presentar ante la misma, copia certificada del acta constitutiva debidamente requisitada y formalizada, de conformidad con lo establecido en las leyes que amparen su creación, así como el padrón actualizado de sus integrantes.
 
 ###### ARTÍCULO 113.
 
@@ -1125,15 +1343,19 @@ e).- Especial.
 
 f).- Giros Restringidos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 117.
 
-Para obtener un permiso para prestar cualquiera de los Servicios de Transporte Mercantil, es necesario formular una solicitud por escrito, la cual se presentará en original y dos copias ante la Secretaría. Dicha solicitud, deberá contener lo siguiente:
+Para obtener un permiso con el fin de prestar cualquiera de los Servicios de Transporte Mercantil, es necesario formular una solicitud por escrito, la cual se presentará en original y dos copias ante la Secretaría. Dicha solicitud, deberá contener lo siguiente:
 
 I.- Nombre completo, edad, nacionalidad y domicilio, si se trata de una persona física o, en su caso, denominación legal y domicilio social, si es una persona moral;
 
 II.- El tipo de servicio que se pretenda prestar y las características de los vehículos que destinarán a la prestación del servicio;
 
-III.- Tratándose de vehículos destinados a la prestación de Servicios de Alquiler o Taxis, deberá otorgar una garantía a favor de la Secretaría de Finanzas, para asegurar la continuidad de los trámites correspondientes. La garantía a que se hace referencia, será el equivalente al veinte por ciento del valor del pago de derechos por el otorgamiento del permiso estipulado en la Ley de Ingresos del Estado vigente;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+III.- Tratándose de vehículos destinados a la prestación de Servicios de Alquiler o Taxis, los solicitantes deberán sujetarse al procedimiento establecido en el Capítulo I, del Título Cuarto de este Reglamento;
 
 IV.- Carta compromiso por la que se obliga a contratar el seguro del viajero dentro del término de treinta días hábiles contados a partir del día siguiente de la expedición del permiso, a fin de proteger a los usuarios y terceros sobre cualquier daño que puedan sufrir con motivo de la prestación del servicio;
 
@@ -1165,37 +1387,77 @@ VI.- Comprobante del depósito de garantía del trámite correspondiente;
 
 VII.- Identificación oficial vigente con fotografía y firma del interesado, y
 
-VIII.- Los demás requisitos que señalen la Ley, este Reglamento y las normas que emita la Secretaría.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
 
-Por cada solicitud se formará un expediente que contendrá todos los documentos exhibidos así como la resolución que declare procedente o improcedente el otorgamiento del permiso. Los interesados podrán solicitar copia certificada a su costa, de las constancias que le sean útiles, las que serán expedidas por conducto de la Subsecretaría de Transportes, recibiéndolas personalmente el peticionario.
+VIII.- Registro federal de contribuyentes;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+IX.- Factura, carta factura o contrato de arrendamiento financiero. En caso de vehículos extranjeros comprobar regularización ante la Secretaria de Hacienda y Crédito Público;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+X.- Tarjeta de circulación;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+XI.- Placas de circulación;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+XII.- Comprobante de no adeudo de infracciones; y
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+XIII.- Tratándose de vehículos destinados a la prestación del servicio mercantil de personas en su modalidad de transporte escolar, personal y de turismo, deberá contarse con la autorización de la instancia correspondiente, ya sea de la institución educativa o de la empresa, y para el caso del transporte de turismo, de la Secretaría de Turismo.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
 
 ###### ARTÍCULO 119.
 
 Los permisos para el Servicio de Transporte en Automóviles de Alquiler o Taxis concedidos a personas físicas, serán personales y ampararán un solo vehículo, no otorgándose más de cinco a cada persona física.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 120.
 
-Las personas morales debidamente constituidas que aspiren a prestar el Servicio de Transporte con Automóviles de Alquiler o Taxis, se les otorgarán los permisos para satisfacer el servicio de que se trate, previo el estudio correspondiente. Cada permiso amparará un solo vehículo.
+A las personas jurídicas debidamente constituidas que aspiren a prestar el servicio de Transporte con Automóviles de Alquiler o Taxis, se les otorgarán los permisos necesarios para satisfacer el servicio de que se trate, previo el Estudio Integral correspondiente. Cada permiso amparará un solo vehículo.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
 
 ###### ARTÍCULO 121.
 
-En igualdad de circunstancias y condiciones respecto a otros solicitantes, se dará preferencia a las personas físicas o morales de mayor antigüedad en la prestación del servicio siempre que cuenten con las mejores condiciones técnicas, financieras y de operación necesarias para la prestación del mismo.
+En igualdad de circunstancias y condiciones respecto a otros solicitantes, se procurará dar preferencia a las personas físicas o jurídicas que cuenten con las mejores condiciones técnicas, financieras (sic) de operación necesarias para la prestación del mismo.
 
 ###### ARTÍCULO 122.
 
 Sin perjuicio de lo establecido en los artículos anteriores, tanto las personas físicas como las morales podrán prestar cualquiera de los Servicios de Transporte Mercantil a que se hace referencia en este capítulo, siempre y cuando cumplan con los requisitos necesarios.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 123.
 
-Para acreditarse como permisionario del Servicio de Transporte en Automóviles de Alquiler o Taxis, la Secretaría expedirá un tarjetón de permiso que contendrá los requisitos señalados en el artículo 100 de este Reglamento, con la variación de que establecerá en su caso el sitio a que pertenece el vehículo y la población o Municipio en la que se encuentra autorizado para la prestación del servicio y demás datos que sean necesarios.
+El Secretario, expedirá el Titulo de Permiso, cuando se hayan cumplido y obren en el expediente administrativo, como mínimo los siguientes requisitos:
+
+I.- Estudio Técnico respectivo o en su caso la declaratoria de necesidad correspondiente publicada en el Periódico Oficial del Estado;
+
+II.- Notificación de procedencia de otorgamiento de concesión, requisito indispensable para ello;
+
+III.- La orden y el comprobante de pago de los derechos de otorgamiento de concesión; y
+
+IV.- Los demás que en su caso procedan.
+
+El tarjetón de permiso contendrá los requisitos señalados en el artículo 100 de este Reglamento, con la variación de que establecerá en su caso el sitio a que pertenece el vehículo y la población o Municipio en la que se encuentra autorizado para la prestación del servicio y demás datos que sean necesarios.
 
 ###### ARTÍCULO 124.
 
 Previo al otorgamiento de los permisos para el Servicio de Transporte en Automóviles de Alquiler o Taxis, la Secretaría, deberá llevar a cabo los estudios que determinen las necesidades del servicio.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 125.
 
-Los permisos a que se hace referencia tendrán una vigencia de un año, con excepción del Servicio de Transporte con Automóviles de Alquiler o Taxis, los de materiales para construcción o diversos, los de carga ligera y mudanzas, cuya duración será indefinida. Lo anterior no libera al permisionario de realizar el trámite de revalidación, a través del pago anual correspondiente, que deberá efectuar ante la Secretaría de Finanzas, en términos de la Ley de Ingresos del Estado vigente.
+Los permisos a que se hace referencia tendrán una vigencia de un año, con excepción del Servicio Mercantil de Transporte de personas en Automóviles de Alquiler o Taxis, que deberán sujetarse a lo dispuesto en el artículo 70 de la Ley y 87 bis del presente Reglamento, así como los de materiales para construcción o diversos, los de carga ligera y mudanzas, cuya duración será indefinida. Lo anterior no libera al permisionario de realizar el trámite de revalidación, a través del pago anual correspondiente, que deberá efectuar ante la Secretaría de Finanzas y Desarrollo Social, en términos de la Ley de Ingresos del Estado vigente.
 
 ###### ARTÍCULO 126.
 
@@ -1229,27 +1491,83 @@ I.- Porque se preste el Servicio Mercantil de forma diferente a lo autorizado en
 
 II.- Porque los vehículos con los que se preste el servicio, no conserven de un modo permanente las características requeridas para el tipo de servicio que se trate;
 
-III.- Porque los permisionarios no tomen las medidas que procedan para evitar la reincidencia en la comisión de infracciones, que representen grave riesgo para la seguridad de los usuarios o de terceros;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
 
-IV.- Por la falta de liquidación oportuna, dentro del ejercicio fiscal correspondiente, de la revalidación de los permisos a que lo obliguen las leyes de la materia;
+III.- Porque no se preste el servicio con la eficiencia, uniformidad y regularidad requeridas, no obstante tres apercibimientos debidamente fundados y motivados de las autoridades;
 
-V.- Por las causas legales que se establezcan en el título de permisos;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
 
-VI.- Por circular en forma reiterada con placas del Servicio Mercantil que no correspondan al vehículo autorizado;
+IV.- Por no sustituir en noventa días naturales el vehículo, cuando se haya solicitado la baja del mismo en operación, o no realizar el alta correspondiente;
 
-VII.- Por bloquear intencionalmente la infraestructura vial del Estado utilizando vehículos de Servicio Mercantil, y
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
 
-VIII.- Por haber presentado el permisionario, documentación falsa o alterada para la obtención del permiso para la prestación del Servicio Mercantil; sin perjuicio de dar vista de los hechos al Ministerio Público correspondiente.
+V.- Porque el permisionario realice la transmisión del permiso, así como los derechos en él conferidos, sin autorización previa de la Secretaría, en términos de lo dispuesto por este Reglamento;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+VI.- Porque se suspenda o interrumpa el servicio sin justificación, no existiendo motivos de causa mayor o caso fortuito que hagan materialmente imposible su prestación;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+VII.- Por circular con placas del Servicio Mercantil de Transpone de Personas en automóviles de alquiler o taxis, que no correspondan al vehículo autorizado o que estas sean falsas;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+VIII.- Por bloquear intencionalmente la infraestructura vial del Estado, utilizando los vehículos del Servicio Mercantil;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+IX.- Por reincidir tres veces en un periodo de seis meses, en la comisión de infracciones por el concesionario o su conductor, que representen grave riesgo para la seguridad de los usuarios o de terceros;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+X.- Por cometer un hecho delictuoso relacionado con el carácter de permisionario, previa sentencia ejecutoriada;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+XI.- Por haber presentado el permisionario, documentación falsa o alterada para la obtención del permiso, así como cualquier trámite relacionado con el mismo, para la prestación del Servicio Mercantil de Transporte y sin perjuicio de consignar el hecho al Ministerio Público correspondiente;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+XII.- Por no registraren el mes de enero de cada año, la póliza del seguro del viajero y daños a terceros vigente;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+XIII.- Por prestar el servicio en un Municipio distinto al autorizado;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+XIV.- Por tener registrado o tratar de registrar en el permiso un vehículo robado;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+XV.- Por sentencia ejecutoriada;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+XVI.- Si decretada la suspensión provisional, subsistiera el incumplimiento en el pago de los adeudos correspondientes por concepto de revalidación de concesión; y
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+XVII.- Por cualquier otra circunstancia que implique la prestación irregular y deficiente de un modo permanente o cuando lo reclame el interés social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
 
 ###### ARTÍCULO 132.
 
-La cancelación de los permisos será declarada administrativamente por el Secretario de acuerdo a las atribuciones que le confieren los ordenamientos legales vigentes y conforme al procedimiento siguiente:
+La cancelación de los permisos será declarada administrativamente por el Secretario, de acuerdo a las atribuciones que le confieren los ordenamientos legales vigentes y conforme al procedimiento siguiente:
 
-I.- Apercibir al permisionario de las violaciones en las que incurre, para que ajuste su servicio a lo que señala el "Titulo de Concesión", la Ley y el Reglamento;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+I.- Se iniciará el procedimiento de cancelación, si el permisionario incurre en cualquiera de las causales de cancelación establecidas en el artículo 131 de este Reglamento;
 
 II.- La Secretaría hará saber al permisionario los motivos por los cuales se ha considerado procedente cancelar su permiso y se le concederá un plazo de treinta días hábiles, contados a partir del día siguiente en que se haga la notificación, para que presente las pruebas y defensas que estime convenientes, y
 
 III.- Presentadas las pruebas y defensas, o transcurrido el plazo señalado en la fracción anterior sin que éstas se hubieran presentado, el Secretario, en su oportunidad dictará la resolución correspondiente.
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+IV.- El procedimiento de cancelación para los permisos del Servicio Mercantil de Transporte de Personas en automóviles de alquiler o taxi, se sujetará a lo dispuesto en el artículo 105 del presente Reglamento.
 
 ###### ARTÍCULO 133.
 
@@ -1339,9 +1657,11 @@ El seguro a que se refiere el artículo anterior, deberá cubrir una indemnizaci
 
 Tratándose del transporte de objetos, mercancía o bienes, el seguro deberá amparar la carga desde el momento en que dicha mercancía sea recepcionada por el prestador del servicio hasta que se reciba por el consignatario o destinatario, en el lugar señalado en la guía de carga o factura correspondiente.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 144.
 
-Los seguros se deben contratar con una institución legalmente constituida.
+Los seguros a los que hace referencia el artículo 142 de este Reglamento, deberán registrarse en el mes de enero de cada año y deberán contratarse con una Institución autorizada por la Secretaría de Hacienda y Crédito Público, con la cobertura que a criterio de la Secretaría sea la más conveniente para la prestación del Servicio de que se trate.
 
 ###### ARTÍCULO 145.
 
@@ -1773,6 +2093,8 @@ La cancelación o revocación de la concesión, autorización o permiso de los S
 
 ### CAPÍTULO I. RECURSOS
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 197.
 
 La Secretaría permanentemente promoverá la creación de los Centros de Capacitación y Adiestramiento para todos aquellos conductores de vehículos destinados a la prestación del Servicio Público de Transporte y del Servicio Mercantil.
@@ -1845,37 +2167,57 @@ Todos los Servicios Auxiliares susceptibles de concesión, se regirán por lo es
 
 ###### ARTÍCULO 201.
 
-En contra de las resoluciones que se dicten en los términos de la Ley y el presente Reglamento, procede interponer el recurso de inconformidad.
+Contra actos definitivos de la autoridad, que el particular, el concesionario o el permisionario consideren lesivos a sus derechos, procede el Recurso de Inconformidad.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
 
 ###### ARTÍCULO 202.
 
-El recurso de inconformidad se interpondrá por escrito ante la Secretaría, dentro del plazo de cinco días hábiles, contados a partir del día siguiente a aquél en que surta sus efectos la notificación de la resolución que se recurre; mismo que deberá contener lo siguiente:
+El Recurso de Inconformidad se interpondrá por escrito ante la Dirección de Asuntos Jurídicos de la Secretaría de Comunicaciones y Transportes, dentro de los ocho días siguientes a la notificación del acto recurrible y contendrá:
 
-I.- Nombre del recurrente y domicilio para recibir notificaciones, debiendo acompañar las documentales que acrediten la personalidad con la que se ostenta;
+I.- Nombre y domicilio del recurrente;
 
-II.- Resolución que se recurre y fecha en que se le notificó o tuvo conocimiento de la misma;
+II.- Nombre y domicilio de la persona física o jurídica que tenga interés jurídico en que subsista o prevalezca el acto reclamado, si existiere;
 
-III.- Los agravios que le causa la resolución impugnada;
+III.- Acto recurrido y fecha en que se le notificó o tuvo conocimiento del mismo y autoridad responsable y autoridad emisora del acto;
 
-IV.- Las disposiciones legales que estime violadas, y
+IV.- Hechos y abstenciones que tengan relación con el acto reclamado;
 
-V.- El ofrecimiento de las pruebas que a su interés convengan, las cuales deberán ser relacionadas con cada uno de los hechos controvertidos, acompañando copia del documento en el que conste la resolución recurrida.
+V.- Expresión de agravios que causa el acto que se impugna, conceptos de violación y disposiciones legales que estime violadas;
+
+VI.- El ofrecimiento de pruebas y peticiones; y
+
+VII.- En su caso, la solicitud de la suspensión del acto reclamado.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
+
+ARTÍCULO 202 BIS.- Procede la suspensión del acto que se impugna, cuando:
+
+I.- Lo solicite el agraviado;
+
+II.- No se cause perjuicio al interés social, o se contravengan normas de orden público; y
+
+III.- Sean de difícil reparación los daños y perjuicios que se causen al agraviado con la ejecución del acto.
+
+El otorgamiento o negación de la suspensión se acordará en el auto que admita el Recurso de Inconformidad.
+
+Al concederse la suspensión, se procurará fijar la situación en que habrán de quedar las cosas y se tomarán las medidas pertinentes para conservar la materia del recurso hasta la terminación del mismo.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
 
 ###### ARTÍCULO 203.
 
-La substanciación del recurso de inconformidad, se sujetará al siguiente procedimiento:
+La autoridad notificará al recurrente la admisión del recurso dentro de los cinco días siguientes a su presentación, señalándole un plazo de quince días para el desahogo de pruebas, quedando cinco días para presentar alegatos, los términos señalados en este artículo se computarán en días hábiles; y su substanciación se llevará a cabo de la siguiente manera:
 
-I.- Serán admisibles todos los medios de prueba, excepto la confesional y testimonial de la autoridad, así como las que fueren contra la moral o el derecho;
+I.- Serán admisibles todos los medios de prueba, excepto la confesional de la autoridad, así como las que fueren contra la moral o el derecho;
 
-II.- No se tendrán por ofrecidas, las pruebas que se presenten fuera del término señalado para tal efecto en el presente Reglamento, así como las que no tengan relación con los hechos impugnados;
+II.- No se tendrán por ofrecidas, las pruebas que se presenten fuera del término señalado para tal efecto en el presente Reglamento, así como las que no tengan relación con los hechos impugnados, con excepción de las pruebas supervenientes las que se admitirán antes de dictarse la resolución definitiva;
 
-III.- En un término de quince días hábiles a partir de la fecha de interposición del recurso, la autoridad resolverá sobre su admisión, así como de las pruebas que procedan.
+III.- La autoridad podrá pedir los informes que estime pertinentes, por parte de quienes hayan intervenido en la emisión del acto recurrido;
 
-IV.- Dentro de los quince días hábiles siguientes al de la admisión, señalará día y hora para que tenga verificativo una audiencia en la cual se desahogarán las pruebas que así lo ameriten y se formulen alegatos, ya sea en forma verbal o por escrito;
+IV.- La autoridad dictará resolución definitiva dentro de los treinta días hábiles siguientes al término de alegatos y si así no lo hiciere se tendrá por conformada la negativa ficta al recurso interpuesto; y
 
-V.- La autoridad podrá pedir los informes que estime pertinentes, por parte de quienes hayan intervenido en la emisión de la resolución recurrida, y
-
-VI.- Concluido el término probatorio a que se refiere la fracción III, la autoridad, dictará la resolución correspondiente en un término de treinta días hábiles, salvo en aquellos casos en que por la propia naturaleza del asunto, se requiera de más tiempo.
+V.- En relación al presente recurso y en todo aquello que no hubiera disposición expresa, será aplicado supletoriamente el Código de Procedimientos Civiles vigente para el Estado de Puebla.
 
 ###### ARTÍCULO 204.
 
@@ -1891,7 +2233,9 @@ III.- No aparezca suscrito por quien deba hacerlo.
 
 Se desechará por improcedente el recurso de inconformidad, en los siguientes casos:
 
-I.- Cuando se impugnen actos que no sean resoluciones;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+I.- Cuando se impugnen actos que no sean definitivos;
 
 II.- Cuando los actos sean materia de otro recurso que se encuentre pendiente de resolución, promovido por el mismo recurrente y por el mismo acto impugnado;
 
@@ -1901,11 +2245,21 @@ IV.- Cuando sean actos consentidos tácita o expresamente, y
 
 V.- Cuando se esté tramitando ante los tribunales algún recurso o medio de defensa legal, interpuesto por el promovente, que pueda tener por efecto modificar, revocar o nulificar el acto materia del recurso.
 
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2002)</small>
+
+VI.- Cuando los actos hayan cesado o dejado de surtir sus efectos.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
+
+ARTÍCULO 205 BIS.- Operará la caducidad procesal y se mandará a archivar el asunto como totalmente concluido, cuando cualquiera que sea el estado del recurso no se haya efectuado algún acto procesal dentro del término de noventa días naturales, ni el recurrente promueva en ese lapso.
+
 ###### ARTÍCULO 206.
 
 La resolución que pone fin al recurso de inconformidad, se notificará personalmente al interesado en el domicilio señalado para tal efecto y no procederá recurso administrativo alguno en su contra.
 
 ### CAPÍTULO III. SANCIONES
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
 
 ###### ARTÍCULO 207.
 
@@ -1953,13 +2307,29 @@ Para el caso de que el infractor no se encuentre presente, el supervisor elabora
 
 ###### ARTÍCULO 214.
 
-Los propietarios de los vehículos que, con base a lo establecido en la Ley, este Reglamento y otros ordenamientos legales, sean retirados de la vía pública y llevados a los depósitos autorizados por la Secretaría, se harán acreedores a la sanción que corresponda a la falta cometida, sin perjuicio de cubrir el pago por concepto de arrastre y depósito de acuerdo con las tarifas autorizadas.
+Los propietarios de los vehículos que, con base a lo establecido en la Ley, este Reglamento y otros ordenamientos legales, sean retirados de la vía pública y llevados a los depósitos autorizados por la Secretaría, se harán acreedores a la sanción que corresponda por la falta cometida, sin perjuicio de cubrir el pago por concepto de arrastre y depósito de acuerdo con las tarifas autorizadas. Dichas sanciones podrán consistir en:
 
-En caso de que no exista infracción, sólo utilizarán la grúa a petición del propietario, siempre y cuando la unidad no esté en condiciones de circular y se trasladará el vehículo al encierro que señale aquél, quien pagará el servicio de grúa de acuerdo con lo que señale la Ley de Ingresos del Estado, vigente.
+I.- Multa;
+
+II.- Apercibimiento;
+
+III.- Suspensión de la concesión y/o permiso; y
+
+IV.- Revocación de la concesión o cancelación del permiso, de conformidad con lo establecido en el presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
+
+ARTÍCULO 214 BIS.- Podrán ser suspendidos provisionalmente las concesiones y/o permisos de transporte mercantil, por las siguientes causas:
+
+I.- Por verse involucrado el vehículo con el que se preste el Servicio Público de Transporte o Servicio Mercantil, en un percance vial donde se cause homicidio o lesiones graves en forma culposa o intencional, hasta en tanto en cuanto la autoridad judicial o administrativa determine lo conducente; y
+
+II.- Por falta de liquidación oportuna de la revalidación de la concesión o permiso del ejercicio fiscal correspondiente, a que obliguen las leyes de la materia.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
 
 ###### ARTÍCULO 215.
 
-El pago de las multas impuestas por concepto de infracciones de transportes se efectuará ante la Secretaría de Finanzas.
+El pago de las multas impuestas por concepto de infracciones de transporte se efectuará ante la Secretaria de Finanzas y Desarrollo Social.
 
 ###### ARTÍCULO 216.
 
@@ -2007,7 +2377,9 @@ II.- Título de concesión o permiso y/o tarjetón de concesión o permiso que s
 
 III.- Tarjeta de circulación;
 
-IV.- Recibo de pago de la infracción o infracciones debidamente requisitado por la Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
+IV.- Recibo de pago de la infracción o Infracciones debidamente requisitado por la Secretaría de Finanzas y Desarrollo Social;
 
 V.- Identificación con fotografía del propietario o su representante legal, tratándose de personas morales, y
 
@@ -2031,9 +2403,17 @@ El trámite de devolución de los vehículos del Servicio Público de Transporte
 
 En la detención de vehículos destinados al Servicio Público de Transporte y al Servicio Mercantil por violación a cualquiera de las normas de la Ley y este Reglamento, y los ordenamientos legales correspondientes, se elaborará un inventario del vehículo detenido, de acuerdo al formato impreso, el cual será firmado por el conductor infractor, el conductor de la grúa que lo traslade en caso de utilizarse y el responsable del resguardo. En caso de que el infractor se negare a firmar, se asentará razón de dicha negativa, sin que ello afecte su validez.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO 230.
 
-Cualquier trámite que se realice ante la Secretaría deberá presentarse por escrito, y firmado por el interesado. En los casos en que el Reglamento no disponga otra cosa. Si dentro del término de noventa días hábiles posteriores al inicio de cualquier trámite ante esta Secretaría, el usuario no realiza ninguna actuación, se declarará el abandono del mismo, y quedará sin efecto alguno el trámite y se considerará como no iniciado.
+Cualquier trámite que se realice ante la Secretaría, deberá presentarse por escrito, y firmado por el interesado; en los casos en que el Reglamento no disponga otra cosa. Si dentro del término de treinta días hábiles posteriores al inicio de cualquier trámite, el promovente no realiza ninguna actuación, se declarará el abandono del mismo, quedando sin efecto alguno y considerándose como no iniciado.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
+
+###### ARTÍCULO 231.
+
+Con relación al presente Reglamento y en todo aquello que no hubiera disposición expresa serán aplicados supletoriamente el Código Civil y el Código de Procedimientos Civiles, vigentes para el Estado de Puebla.
 
 ## TRANSITORIOS
 
@@ -2074,3 +2454,11 @@ Es facultad del Titular de la Secretaría, interpretar las disposiciones de este
 Las cuestiones accidentales que se deriven de la aplicación del presente Reglamento y no previstas en el mismo, serán resueltas por el Titular de la Secretaría, por medio del acuerdo que al respecto se pronuncie.
 
 Dado en la Ciudad de Puebla de Zaragoza, en la sede del Poder Ejecutivo, a los dieciocho días del mes de junio de mil novecientos noventa y nueve. El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS ALBERTO JULIÁN Y NÁCER.- Rúbrica.- El Secretario de Comunicaciones y Transportes.- INGENIERO ARTURO ACHARD VELÁZQUEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE MARZO DE 2002.
+
+PRIMERO.- La Secretaría podrá en todo momento otorgar autorizaciones con carácter de provisionales, antes de un otorgamiento de concesión o permiso, hasta tanto en cuanto se establezca la procedencia o improcedencia de los estudios técnicos integrales, cuyos requisitos se establecerán por parte de la misma, cuando así lo estime conveniente.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
