@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-impuesto-al-activo-antes-435"
 country: "mx"
 rank: "reglamento"
 publication_date: "1989-03-30"
-last_updated: "1992-11-05"
+last_updated: "1993-10-04"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=435&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1989-03-29"
 
 REGLAMENTO DE LA LEY DEL IMPUESTO AL ACTIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE NOVIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE OCTUBRE DE 1993.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 30 de marzo de 1989.
 
@@ -55,7 +55,7 @@ Lo anterior permite que los valores así obtenidos coincidan con el costo actual
 
 Que, por otra parte, en ocasiones, la aplicación de un nuevo ordenamiento requiere que en la esfera administrativa se facilite su cumplimiento; máxime en el caso específico en que el nuevo ordenamiento está relacionado con las disposiciones y elementos que regulan la determinación del impuesto sobre la renta, llevando de esta forma a permitir una aplicación semejante, para ambos impuestos, en cuanto a los procedimientos, plazos, cálculo de reducciones como formas de incentivo, momentos de inclusión de bienes para la determinación de las contribuciones, así como de algunos otros elementos o mecanismos;
 
-Que los lineamientos del sistema de planeación económica a que se refieren los artículos 25 y 26 Constitucionales han sido considerados en la Ley del Impuesto al Activo de las Empresas que se reglamenta, de tal manera que propugna un trato igualitario a las empresas y lograr que aquellas que operan deficitariamente superen esta situación que afecta la economía y las finanzas del país, dado que éstas también originan gastos públicos, en relación con los cuales deben contribuir
+Que los lineamientos del sistema de planeación económica a que se refieren los artículos 25 y 26 Constitucionales han sido considerados en la Ley del Impuesto al Activo de las Empresas que se reglamenta, de tal manera que propugna un trato igualitario a las empresas y lograr que aquellas que operan deficitariamente superen esta situación que afecta la economía y las finanzas del país, dado que éstas también originan gastos públicos, en relación con los cuales deben contribuir.
 
 Que en tal virtud, se hace necesario proveer a la adecuada aplicación del impuesto al activo de las empresas, así como disponer medidas que faciliten a los contribuyentes el cumplimiento de sus obligaciones; he tenido a bien expedir el siguiente:
 
@@ -161,7 +161,7 @@ Los contribuyentes que ejerzan la opción prevista en este artículo, deberán d
 
 ###### ARTICULO 13.
 
-Para los efectos del artículo 4o., fracciones ll y lll, de la Ley, se consideran activos financieros las inversiones y los depósitos en instituciones del sistema financiero.
+Para los efectos del artículo 4o., fracciones II y III, de la Ley, se consideran activos financieros las inversiones y los depósitos en instituciones del sistema financiero.
 
 > <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -188,6 +188,22 @@ Para los efectos de lo dispuesto por el primer párrafo del artículo 5o-A de la
 ###### ARTICULO 16.
 
 Para los efectos del penúltimo párrafo del artículo 6o. de la Ley, se considera ejercicio de inicio de actividades, aquél en que el contribuyente comience a presentar, o deba comenzar a presentar, las declaraciones de pago provisional del impuesto sobre la renta, incluso cuando se presenten sin el pago de dicho impuesto.
+
+> <small>(ADICIONADO, D.O.F. 4 DE OCTUBRE DE 1993)</small>
+
+Los contribuyentes dedicados a la prestación de servicios de hotelería podrán considerar como ejercicio de inicio de actividades aquél en el que, por primera vez, obtengan ingresos por la prestación de dichos servicios.
+
+> <small>(ADICIONADO, D.O.F. 4 DE OCTUBRE DE 1993)</small>
+
+Los contribuyentes a que se refiere el párrafo anterior que hubieran iniciado la prestación de sus servicios de hotelería y realicen con posterioridad obras de expansión, que consistan en la construcción de uno o más edificios o unidades hoteleras distintas a las ya existentes y en operación, podrán calcular el impuesto al activo sin considerar en el valor de su activo los promedios de los activos y pasivos correspondientes a los edificios o unidades hoteleras en construcción, mientras no inicien la obtención de ingresos por la prestación de servicios de hotelería respecto de los nuevos edificios o unidades hoteleras; debiendo incluir dichos conceptos en el cálculo del impuesto a partir del primer ejercicio en que se obtengan los ingresos correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 4 DE OCTUBRE DE 1993)</small>
+
+En el caso en que transcurran cinco años contados a partir de que se inicie la construcción de la unidad hotelera y no se hubieren obtenido ingresos por la prestación de los servicios de hotelería, el contribuyente pagará el impuesto que se hubiera causado de no haber aplicado lo dispuesto en los dos párrafos que anteceden, así como los accesorios que correspondan.
+
+> <small>(ADICIONADO, D.O.F. 4 DE OCTUBRE DE 1993)</small>
+
+Para los efectos de este artículo se considerará como unidad hotelera aquella en que se prestan servicios de alojamiento en habitación mediante la remuneración respectiva, siempre que el contribuyente se encuentre inscrito en el registro que lleva la autoridad competente para los prestadores de los servicios de hotelería o turísticos del sistema de tiempo compartido.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -368,3 +384,7 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 D. O. 5 DE NOVIEMBRE DE 1992.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE OCTUBRE DE 1993.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
