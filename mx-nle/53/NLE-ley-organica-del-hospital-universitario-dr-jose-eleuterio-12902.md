@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-hospital-universitario-dr-jose-eleuterio-12902
 country: "mx"
 rank: "ley_organica"
 publication_date: "1955-01-29"
-last_updated: "1955-01-29"
+last_updated: "1984-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL HOSPITAL UNIVERSITARIO "DR. JOSE ELEUTERIO GONZALEZ"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1984.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 29 de enero de 1955.
 
@@ -35,11 +35,17 @@ DECRETO NUMERO 105
 
 LEY ORGANICA DEL HOSPITAL UNIVERSITARIO "DR. JOSE ELEUTERIO GONZALEZ".
 
-"Artículo 1o.- El Hospital "Dr. José Eleuterio González", es una Institución del Estado dedicada a prestar servicios públicos asistenciales, en función de la salud humana y de la enseñanza y el progreso de las ciencias médicas en Nuevo León. En consecuencia, se considerará en lo sucesivo como una dependencia de la Universidad de Nuevo León, organizada como Departamento clínico de la Facultad de Medicina de la citada Institución, y se regirá por los preceptos de esta Ley y de la correspondiente a la Universidad de Nuevo León.
+> <small>(REFORMADO, P.O. 2 NOVIEMBRE DE 1984)</small>
+
+###### Artículo 1o.
+
+El Hospital "Dr. José Eleuterio González", es una institución del Estado dedicada a prestar servicios públicos asistenciales, en función de la salud humana y de la enseñanza y el progreso de las ciencias médicas en Nuevo León. En consecuencia, se considerará en lo sucesivo como una dependencia de la Universidad Autónoma de Nuevo León, organizada como un Departamento clínico de la Facultad de Medicina de la citada Institución, y se regirá por los preceptos de esta Ley y de la correspondiente a la Universidad Autónoma de Nuevo León.
+
+> <small>(REFORMADO, P.O. 2 NOVIEMBRE DE 1984)</small>
 
 ###### Artículo 2o.
 
-Los terrenos y edificios, instalaciones, equipos, instrumental y bienes muebles que actualmente integran el patrimonio del citado establecimiento bajo el régimen de la beneficiencia (sic) Pública y posteriormente de la Asistencia Social, quedan afectos exclusivamente a las funciones encomendadas al Hospital Universitario como dependencia de la Facultad de Medicina. Estos bienes se regirán para lo sucesivo por las disposiciones relativas al patrimonio de la Universidad de Nuevo León y en lo futuro sólo podrán afectarse las partes de terreno que no estén destinadas a los fines anteriores, para el establecimiento de centros de la misma índole médica, educativa y asistencial, creados por el Estado o por la Universidad.
+Los terrenos y edificios, instalaciones, equipos, instrumental y bienes muebles que actualmente integran el patrimonio del citado establecimiento bajo el régimen de la beneficencia pública y posteriormente de la asistencia social, quedan afectos exclusivamente a las funciones encomendadas al Hospital Universitario como dependencia de la Facultad de Medicina. Estos bienes se regirán para lo sucesivo por las disposiciones relativas al patrimonio de la Universidad Autónoma de Nuevo León y en lo futuro sólo podrán afectarse las partes de terreno que no estén destinadas a los fines anteriores, para el establecimiento de centros de la misma índole médica, educativa y asistencial, creados por el Estado o por la Universidad.
 
 ###### Artículo 3o.
 
@@ -51,15 +57,19 @@ II.- Los subsidios o subvenciones que obtenga con carácter permanente o eventua
 
 III.- Los ingresos propios procedentes de las cuotas de recuperación, servicios a otras Instituciones, donativos y demás sumas que perciba por cualesquiera otros medios derivados de sus actividades.
 
+> <small>(REFORMADO, P.O. 2 NOVIEMBRE DE 1984)</small>
+
 ###### Artículo 4o.
 
-La Autoridad superior del Hospital "Dr. José Eleuterio González", residirá en el Consejo Universitario de la Universidad de Nuevo León; pero éste sólo deberá ejercerla por medio de disposiciones de orden general, correspondiendo en todo caso la resolución de problemas particulares de carácter administrativo, disciplinario o asistencial, a la Dirección de la Facultad de Medicina, que será la misma del propio Hospital. Lo anterior se entenderá sin perjuicio de las facultades que competen al Consejo respecto al nombramiento del personal universitario, según este Ordenamiento y las disposiciones de la Ley Orgánica de la Universidad de Nuevo León y sus Reglamentos.
+La autoridad superior del Hospital "Dr. José Eleuterio González", residirá en el Consejo Universitario de la Universidad Autónoma de Nuevo León; pero ésta sólo deberá ejercerla por medio de disposiciones de orden general, correspondiendo en todo caso la resolución de problemas particulares de carácter administrativo, disciplinario o asistencial, a la Dirección de la Facultad de Medicina, que será la misma del propio Hospital. Lo anterior se entenderá sin perjuicio de las facultades que competen al Consejo respecto al nombramiento del personal Universitario, según este Ordenamiento y las disposiciones de la Ley Orgánica de la Universidad Autónoma de Nuevo León y sus reglamentos.
 
 ###### Artículo 5o.
 
 La Autoridad directa o inmediata del Hospital Universitario, se ejercerá por conducto de los siguientes órganos:
 
-I.- Un Director, que será siempre el Director de la Facultad de Medicina de la Universidad de Nuevo León; quien podrá auxiliarse de un sub-director nombrado por él mismo y de otros elementos, bajo sus órdenes y responsabilidad; el Administrador General nombrado por aquel; y los demás empleados que se consideren necesarios para el desempeño de las funciones del establecimiento. El Director será nombrado conforme a las disposiciones de la Ley Orgánica de la Universidad de Nuevo León; y en los mismos términos de dicha Ley podrá ser removido y suplidas sus faltas o ausencias.
+> <small>(REFORMADA, P.O. 2 NOVIEMBRE DE 1984)</small>
+
+I.- Un Director, que será siempre el Director de la Facultad de Medicina de la Universidad Autónoma de Nuevo León; quien podrá auxiliarse de un SubDirector nombrado por él mismo y de otros elementos, bajo sus órdenes y responsabilidad; el administrador general nombrado por aquél; y los demás empleados que se consideren necesarios para el desempeño de las funciones del establecimiento. El Director será nombrado conforme a las disposiciones de la Ley Orgánica de la Universidad Autónoma de Nuevo León; y en los mismos términos de dicha Ley podrá ser removido y suplidas sus faltas o ausencias.
 
 II.- La Junta General de Jefes de los Servicios con competencias técnico-médicas, la cual tendrá a su cargo la elaboración del Reglamento General de Trabajo y los especiales, salvo el del personal administrativo, que será de la competencia de la Dirección; Junta que designará, además, un representante ante el Consejo Universitario con el carácter de conserje propietario.
 
@@ -79,9 +89,11 @@ IV.- SERVICIOS MEDICO-QUIRURGICOS; cada uno de ellos a cargo de un profesor jefe
 
 V.- SERVICIOS TECNICOS, encargados de las actividades intermedias para las labores asistenciales y docentes como sigue:- 1.- Anestesiología.- 2.- Anatomía Patológica.- 3.- Enfermería.- 4.- Estudios Médicos, que comprenderán la dirección y responsabilidad de los elementos siguientes:- a).- Internos.- b).- Residentes.- c).- Auxiliares.- d).- Practicantes.- e).- Alumnos.- 5.- Banco de Sangre.- 6.- Laboratorio.- 7.- Medicina Legal y 8.- Radiología, y los que en lo sucesivo se estime pertinente crear.
 
+> <small>(REFORMADO, P.O. 2 NOVIEMBRE DE 1984)</small>
+
 ###### Artículo 7o.
 
-Los Profesores Jefes de Servicios Médicos Quirúrgicos y Técnicos, los Médicos auxiliares de los mismos, el personal de estudios Médicos y de Servicios Técnicos serán nombrados por el Consejo Universitario conforme a los resultados de los concursos de Oposición que se verificarán para cada plaza en que se calificará su capacidad profesional y se computarán sus antecedentes académicos y escolares.- Dichos concursos deberán efectuarse necesariamente dentro de los plazos y en los términos que fije el Reglamento que aprueba el Consejo Universitario, previo proyecto que elabore la Junta Directiva de Maestros de la Facultad de Medicina y la Junta General de Jefes de los Servicios del Hospital tomando en cuenta también, los proyectos que elabore cualesquiera órgano que desee consultar el propio Consejo; estipulándose en dichos proyectos la forma y frecuencia con que se llevarán a cabo, sujetándose además a las siguientes bases.- a).- El concurso de Oposición para internos requerirá que los concursantes hayan obtenido su título profesional de Médico Cirujano en la Facultad de Medicina o de otra Facultad Nacional reconocida por la Universidad de Nuevo León. b).- El concurso de Oposición para Residentes exigirá igual requisito anterior y demás (sic) un internado previo efectuado en el propio Hospital Universitario o en cualquier otro reconocido por la Facultad de Medicina. c).- El Concurso de Oposición para asignar Médicos Auxiliares de los Jefes de Servicio exigirá Título Profesional de la Facultad, o Facultad reconocida por la Universidad de Nuevo León, haber acreditado un internado y una residencia en el Hospital Universitario o en Establecimientos aprobados por la Facultad de Medicina. d).- El concurso de Oposición para ocupar los puestos de Sub-Jefes y Jefes de servicio exigirá de los aspirantes haber cumplido con los anteriores requisitos de título, residencia y Médico Auxiliar salvo las normas transitorias que se consignen en el Reglamento de la presente Ley para aplicarse por única vez a los actuales titulares de estos puestos para suplir algunos de los requisitos antes mencionados. Los anteriores concursos de oposición se tendrán en práctica dentro del plazo de un año a partir de la promulgación de esta Ley, para cubrir todas las categorías vacantes antes indicadas, y en lo sucesivo con la periodisidad (sic) que indique el reglamento.
+Los Profesores Jefes de Servicios Médicos Quirúrgicos y Técnicos, los Médicos Auxiliares de los mismos, el personal de estudios médicos y de servicios técnicos, serán nombrados por el Consejo Universitario conforme a los resultados de los concursos de oposición que se verificarán para cada plaza en que se calificará su capacidad profesional y se computarán sus antecedentes académicos y escolares. Dichos concursos deberán efectuarse necesariamente dentro de los plazos y en los términos que fije el Reglamento que apruebe el Consejo Universitario, previo proyecto que elabore la Junta Directiva de Maestros de la Facultad de Medicina y la Junta General de Jefes de los Servicios del Hospital, tomando en cuenta también, los proyectos que elabore cualesquiera órgano que desee consultar el propio Consejo; estipulándose en dichos proyectos la forma y frecuencia con que se llevarán a cabo, sujetándose además a las siguientes bases: a).- El Concurso de Oposición para Interno requerirá que los concursantes hayan obtenido su título profesional de Médico Cirujano en la Facultad de Medicina o de otra Facultad nacional reconocida por la Universidad Autónoma de Nuevo León. b).- El concurso de Oposición para Residentes exigirá igual requisito anterior y demás (sic) un internado previo efectuado en el propio Hospital Universitario o en cualquier otro reconocido por la Facultad de Medicina. c).- El Concurso de Oposición para asignar Médicos Auxiliares de los Jefes de Servicios, exigirá Título Profesional de la Facultad, o Facultad reconocida por la Universidad Autónoma de Nuevo León, haber acreditado un internado y una residencia en el Hospital Universitario o en establecimientos aprobados por la Facultad de Medicina. d).- El concurso de Oposición para ocupar los puestos de Sub-Jefes y Jefes de servicio exigirá de los aspirantes haber cumplido con los anteriores requisitos de título, residencia y Médico Auxiliar salvo las normas transitorias que se consignen en el Reglamento de la presente Ley para aplicarse por única vez a los actuales titulares de estos puestos para suplir algunos de los requisitos antes mencionados. Los anteriores concursos de oposición se tendrán en práctica dentro del plazo de un año a partir de la promulgación de esta Ley, para cubrir todas las categorías vacantes antes indicadas, y en lo sucesivo con la periodisidad (sic) que indique el reglamento.
 
 ###### Artículo 8o.
 
@@ -130,3 +142,9 @@ JOSE S. VIVANCO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ELIAS CANTU
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P. O. 2 DE NOVIEMBRE DE 1984.
+
+UNICO:- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
