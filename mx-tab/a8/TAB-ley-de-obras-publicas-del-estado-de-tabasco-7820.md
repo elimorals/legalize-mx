@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-obras-publicas-del-estado-de-tabasco-7820"
 country: "mx"
 rank: "ley"
 publication_date: "1983-07-13"
-last_updated: "1990-12-19"
+last_updated: "1991-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 13 de julio de 1983.
 
@@ -247,93 +247,41 @@ VIII. Las demás previsiones que deban tomarse en consideración según la natur
 
 En el caso de obras cuya ejecución rebase un ejercicio presupuestal, deberá determinarse tanto el presupuesto total de la obra, como el relativo a los ejercicios de que se trate.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1991)</small>
+
 ### CAPITULO II. DEL REGISTRO DE CONTRATISTAS DE OBRAS PUBLICAS
 
 ###### Artículo 17.
 
-La Secretaría llevara el registro de contratistas de obras públicas y fijara los criterios y procedimientos para clasificar a las personas inscritas en él, de acuerdo con su especialidad, capacidad técnica y economiza, y su ubicación en el Estado.
-
-La Secretaría hará del conocimiento de las dependencias y entidades, y del publico en general, las personas inscritas en el registro, las dependencias y entidades solo podrán celebrar contratos de obra pública o de servicios relacionados con la misma, con las personas cuyo registro se encuentre vigente.
-
-La clasificación a la que se refiere este artículo, deberá ser considerado por las dependencias y entidades en la convocatoria y contratación de las obras públicas.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1991)
 
 ###### Artículo 18.
 
-Las personas interesadas en inscribirse en el registro de contratistas de obras públicas deberán solicitarlo por escrito, acompañando, según su naturaleza jurídica y característica, la siguiente información y documentos:
-
-I.- Datos generales de la interesada.
-
-II.- La capacidad legal de la solicitante;
-
-III.- Experiencia y especialidad;
-
-IV.- Capacidad y recursos técnicos, económicos y financieros;
-
-V.- Maquinaria y equipo disponibles;
-
-VI.- Ultima declaración del Impuesto Sobre la Renta;
-
-VII.- Escritura constitutiva y reformas;
-
-VIII.- Inscripción en el Registro Federal de Causantes y en la Cámara de la Industria que le corresponda;
-
-IX.- Cédula profesional, para el caso de prestación de servicios.
-
-X.- Registro en el Instituto Mexicano del seguro Social y en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, y
-
-XI.- Los demás documentos e información que la Secretaría considere pertinentes.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1990)</small>
-
-Quedan exceptuados de la obligación de inscribirse en el Registro de Contratistas de Obras Públicas, las dependencias y entidades en la realización de trabajos, en los supuestos previstos en los Artículos 27, 28 y 52 de esta Ley.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1990)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1991)
 
 ###### Artículo 19.
 
-La vigencia en el Registro de Contratista de Obras Públicas, será por cuatro años, de los meses de julio a junio de ese período.
-
-Los contratistas que tengan interés en continuar inscritos en el Registro de Contratista de Obras Públicas presentaran ante la Secretaría, dentro de los treinta días hábiles anteriores al vencimiento de su vigencia, su solicitud de revalidación y actualización de los documentos que la propia Secretaría indique, de los exigidos por el Artículo anterior.
-
-La inscripción y la revalidación causaran los derechos que establezca la Ley correspondiente.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1991)
 
 ###### Artículo 20.
 
-. La Secretaría dentro de un termino que no excederá de 30 días hábiles contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción o revalidación. Transcurrido este plazo sin que haya respuesta, se tendrá por registrado al solicitante o por revalidado el registro.
+. (DEROGADO, P.O. 28 DE DICIEMBRE DE 1991)
 
 ###### Artículo 21.
 
-Para los efectos de los artículos 17, 18, 19 y 20 de esta Ley, la Secretaría podrá considerar valido el registro vigente de las personas inscritas en el padrón de contratistas de obras públicas del Gobierno Federal.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1991)
 
 ###### Artículo 22.
 
-La Secretaría esta facultada para suspender el registro de los contratistas cuando:
-
-I.- Se declara en estado de quiebra, suspensión de pagos en su caso, sujetos a concurso de acreedores; o
-
-II.- Incurran en cualquier acto u omisión que les sea imputable y que perjudique los intereses de la dependencia o entidad contratante.
-
-III.- (DEROGADA, P.O. 19 DE DICIEMBRE DE 1990)
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1991)
 
 ###### Artículo 23.
 
-La Secretaría esta facultada para cancelar el registro de los contratistas cuando:
-
-I.- La información que hubieren proporcionado para la inscripción o revalidación resultare falsa, o hayan actuado con dolo o mala fe en una licitación o ejecución de obra;
-
-II.- No cumplan en sus términos con algún contrato por causa imputable a ellos, y perjudiquen con ello gravemente los intereses de la entidad o dependencia afectada, o el interés general;
-
-III.- Se declare en quiebra fraudulenta;
-
-IV.- Hayan celebrado contratos en contravención a lo dispuesto por esta Ley, por causas que les sean imputables;
-
-V.- Se les declare incapacitados legalmente para contratar, y
-
-VI.- (DEROGADA, P.O. 19 DE DICIEMBRE DE 1990)
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1991)
 
 ###### Artículo 24.
 
-Contra las resoluciones que nieguen las solicitudes de inscripción o revalidación, o determinen la suspensión o la cancelación del registro, el interesado podrá interponer recurso de revocación en los términos de esta Ley..
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1991)
 
 ### CAPITULO III. DE LOS SERVICIOS RELACIONADOS CON LA OBRA PUBLICA
 
@@ -351,13 +299,11 @@ No quedan comprendidos dentro de los servicios a que se refiere el artículo ant
 
 ### CAPITULO IV. DE LA EJECUCION DE LAS OBRAS
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 27.
 
-Las Dependencias y Entidades podrán realizar las obras publicas por contrato o por administración directa.
-
-Las dependencias y entidades que realicen obras por administración directa o mediante contrato y los contratistas con quienes aquellas contraten, observarán las disposiciones que en materia de construcción rijan en el Estado; y cumplirán los requisitos técnicos y administrativos que para las obras públicas se establezcan en el Reglamento de esta Ley, el que señalara las normas mínimas, incluyendo las de seguridad, que deberán observarse en la ejecución de las mismas.
+Las Dependencias y Entidades que realicen obras por Administración Directa o mediante contrato y los contratistas con quienes aquellas contraten, observaran las disposiciones que en materia de construcción rijan en el ámbito estatal y municipal.
 
 La violación de esta disposición, independientemente de la responsabilidad penal y administrativa a que diera lugar para los servidores públicos y los contratistas, originará la nulidad de pleno derecho del contrato celebrado para la ejecución de la obra que se trate.
 
@@ -407,15 +353,19 @@ V. El plazo para la inscripción en el proceso de adjudicación, que no podrá s
 
 VI. El lugar, fecha y hora en que se celebrará el acto de la apertura de proposiciones;
 
-VII. La especialidad de acuerdo al Registro de Contratistas, que se requiera para participar en el concurso; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1991)</small>
+
+VII. La experiencia o capacidad técnica que se requiera para participar en el concurso de acuerdo con las características de la obra; y
 
 VIII. Las fechas de iniciación y terminación de las fases que comprende la ejecución de obra pública, así como los criterios conforme a los cuales se decidirá la adjudicación.
 
 En el ejercicio de sus respectivas atribuciones, la Contraloría y la Dependencia cabeza de sector, podrán intervenir en todo el proceso de adjudicación del Contrato.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1991)</small>
+
 ###### Artículo 32.
 
-Todo interesado que satisfaga los términos de la convocatoria tendrá derecho a presentar proposiciones.
+Todo interesado que satisfaga los términos de la convocatoria tendrá derecho a presentar proposiciones. Para tal efecto, las Dependencias y Entidades no podrán exigir requisitos adicionales a los previstos en el Artículo anterior y en el Reglamento de esta Ley.
 
 ###### Artículo 33.
 
@@ -443,7 +393,9 @@ I. Aquéllas en cuya empresa participe el funcionario que deba decidir directame
 
 II. Los contratistas que por causas imputables a ellos mismos se encuentren en situación de mora, respecto de la ejecución de otra u otras obras públicas que tengan contratadas,
 
-III. Los que carezcan de registro correspondiente o por cualquier otra causa se encuentren impedidos para ello por disposiciones de la Ley.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1991)</small>
+
+III. Los que por cualquier otra causa se encuentren impedidos para ello por disposiciones de la Ley.
 
 En los casos a que se refiere el Primer Párrafo del Artículo 4 de esta Ley, se aplicará lo dispuesto en este Artículo, para lo cual se pactará lo conducente en los convenios respectivos. Lo establecido en este Artículo, se aplicará también a los contratos de servicios relacionados con la obra pública.
 
@@ -527,21 +479,19 @@ Los anticipos y las estimaciones de trabajo ejecutado correspondiente a contrato
 
 A fin de agilizar la ejecución, la Secretaría de Finanzas o las entidades contratantes con patrimonio propio podrán efectuar pagos parciales de las estimaciones en tanto la Secretaría proceda a su autorización definitiva y la Contraloría verifica el avance de las obras.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 47.
 
-Cuando durante la vigencia de un contrato de obras, ocurran circunstancias de orden económico no previstas en el contrato, pero que de hecho y sin dolo, culpa, negligencia o ineptitud de cualquiera de las partes, determinen un aumento o reducción en un cinco por ciento o mas de los costos de los trabajos aún no ejecutados, dichos costos podrán ser revisados. Las Dependencias o Entidades emitirán la resolución que acuerde el aumento o reducción correspondiente, con la intervención de la Secretaría.
+Cuando durante la vigencia de un contrato de obras, ocurran circunstancias de orden económico no previstas en el contrato, pero que de hecho y sin dolo, culpa, negligencia o ineptitud de cualquiera de las partes, determinen un aumento o reducción de los costos de los trabajos aún no ejecutados, dichos costos podrán ser revisados, conforme lo determinen las partes en el respectivo contrato. Las Dependencias o Entidades emitirán la resolución que acuerde el aumento o reducción correspondiente, previa aprobación de la Contraloría.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 48.
 
-El contratista comunicará a la Dependencia o Entidad la terminación de los trabajos que le fueron encomendados y ésta verificará que los trabajos estén debidamente concluidos dentro de los treinta días hábiles siguientes, salvo que se pacte expresamente otro plazo.
+El contratista comunicará a la Dependencia o Entidad la terminación de los trabajos que le fueron encomendados y ésta verificará que los trabajos estén debidamente concluidos dentro del plazo que se pacte expresamente en el contrato.
 
-La recepción de los trabajos se hará dentro de los treinta días hábiles siguientes a la fecha que haya comprobado la conclusión de los trabajos en los términos del párrafo anterior.
-
-La dependencia o entidad comunicará a la Secretaría y a la Contraloría la terminación de los trabajos y, con anticipación no menor de diez días hábiles, informará la fecha señalada para su recepción a fin de que, si lo estiman conveniente nombren representantes que asistan al acto.
-
-En la fecha señalada, la dependencia o entidad bajo su responsabilidad, recibirá los trabajos y levantará el acta correspondiente con o sin la comparecencia de los representantes a que se refiere el párrafo anterior.
+Una vez que se haya constatado la terminación de los trabajos en los términos del párrafo anterior, la Dependencia o Entidad procederá su recepción dentro del plazo que para tal efecto se haya establecido en el propio contrato. Al concluir dicho plazo, sin que la Dependencia o Entidad haya recibido los trabajos, estos se tendrán por recibidos.
 
 ###### Artículo 49.
 
@@ -647,15 +597,13 @@ Tomada la resolución a que se refiere el Segundo Párrafo de este Artículo y s
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 63.
 
-Quienes infrinjan las disposiciones contenidas en esta Ley o las normas que con base en ella se dicten, podrán ser sancionados por la Secretaría con multa equivalente a la cantidad de diez a mil veces el salario mínimo diario vigente en el Estado en la fecha de la infracción. Sin perjuicio de lo anterior, los contratistas que incurran en infracciones a esta Ley, según la gravedad del acto u omisión del que fueren responsables, calificación que será hecha por la Secretaría con base en las pruebas recabadas, podrán ser sancionados con la suspensión o cancelación de Contratistas de Obras Municipales
+Quienes infrinjan las disposiciones contenidas en esta Ley o las normas que con base en ella se dicten, serán sancionados por la Secretaría con multa equivalente a la cantidad de cinco a trescientas veces el salario mínimo general elevado al mes, vigente en el Estado en la fecha de la infracción.
 
-Cuando proceda, la Contraloría podrá proponer a la dependencia o entidad contratante, la rescisión administrativa del Contrato en que incida la infracción.
-
-A los servidores públicos que infrinjan las disposiciones de esta Ley, la Contraloría aplicara, conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos, las sanciones correspondientes.
+Cuando proceda, la Contraloría podrá proponer a la Secretaría, la imposición de multas a los contratistas en los términos del párrafo anterior, y a la Dependencia o Entidad contratante, la rescisión administrativa del Contrato en que incida la infracción.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1990)</small>
 
@@ -741,15 +689,7 @@ VIII. Vencido el plazo para la rendición de las pruebas, la Secretaría dictar�
 
 ###### Artículo 71.
 
-Contra la resolución que cancele o suspenda la inscripción en el registro de contratistas de obras publicas, podrá solicitarse la suspensión del acto impugnado, mientras se tramita el recurso conforme a las siguientes bases:
-
-I.- Será solicitada en el mismo escrito en el que se interponga el recurso;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1990)</small>
-
-II.- Dentro de los diez días hábiles siguientes, la Secretaría señalara la garantía y el monto por el que está debe otorgarse.
-
-III.- Otorgada la garantía, se suspenderá la aplicación de la resolución impugnada.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1991)
 
 T R A N S I T O R I O S
 
@@ -800,3 +740,9 @@ SEGUNDO.- Dentro de los 30 días hábiles siguientes a la iniciación de la vige
 TERCERO.- Dentro de los 30 días hábiles siguientes a la publicación del Reglamento de la Ley, la Secretaría deberá expedir las disposiciones administrativas para la aplicación de la Ley y del Reglamento.
 
 CUARTO.- Las personas que tengan vigente su registro como Contratistas de Obras Públicas del Gobierno del Estado, continuaran inscritas hasta el 30 de junio de 1994.
+
+P.O. 28 DE DICIEMBRE DE 1991.
+
+###### ARTÍCULO PRIMERO
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial.
