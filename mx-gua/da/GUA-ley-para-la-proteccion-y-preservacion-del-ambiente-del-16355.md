@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-y-preservacion-del-ambiente-del-16355"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-08"
-last_updated: "2000-02-08"
+last_updated: "2004-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2004.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 8 de febrero de 2000.
 
@@ -85,55 +85,65 @@ IV.- Los programas y acciones tendientes a mejorar la calidad del aire, suelo y 
 
 V.- La preservación de los sitios necesarios para asegurar el mantenimiento e incremento de los recursos genéticos, de la flora y fauna silvestre, frente al peligro de deterioro grave o de extinción.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 4o.
 
-Tratándose de definiciones y conceptos ambientales será supletoria la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+Tratándose de definiciones y conceptos ambientales serán supletorias la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Vida Silvestre, la Ley de Aguas Nacionales y la Ley General de Desarrollo Forestal Sustentable.
 
 Para los efectos de esta Ley se entiende por:
 
-I.- Consejo ciudadano: Reunión de individuos de una localidad para tratar asuntos de interés común en materia ambiental;
+I.- Actividad de emergencia: Acción o conjunto de acciones que están asociadas a la prevención, control o mitigación de daños causados o que pudieran ocasionarse con motivo de desastres naturales, accidentes o catástrofes;
 
-II.- Consejo consultivo ambiental: Grupo en el que participan investigadores, académicos, industriales, organizaciones ambientalistas y especialistas en materia ambiental; así como representantes de reconocido prestigio de los sectores social y privado, cuya función primordial es asesorar a las distintas autoridades en acciones de prevención, protección y mejoramiento del ambiente; asimismo, sus integrantes podrán opinar y proponer la formulación y ejecución de los programas ambientales del Estado o Municipio de que se trate;
+II.- Actividades riesgosas: Aquéllas que puedan causar daños a los ecosistemas y a la salud de la población y que no están consideradas como altamente riesgosas por la Federación, de conformidad con la normatividad aplicable y las normas oficiales mexicanas;
 
-III.- Fondo ambiental: Mecanismo cuyo objetivo es financiar parcial o totalmente los proyectos y actividades orientados a la conservación, manejo y restauración de los recursos naturales;
+III.- Aguas residuales: Las aguas de composición variada provenientes de las descargas de usos público urbano, doméstico, industrial, comercial, de servicios, agrícola, pecuario, de las plantas de tratamiento y en general, de cualquier uso, así como la mezcla de ellas;
 
-IV.- Paisaje: Ordenamiento natural o inducido de los elementos de un ecosistema como son: relieve montañoso, aparatos volcánicos, corrientes fluviales, cuerpos lacustres, comunidades faunísticas y masas forestales, así como de los elementos antropogénicos;
+IV.- Alto valor ambiental: Potencial de factores bióticos y abióticos que interactúan en un ecosistema determinado y que propician una biodiversidad relevante o las condiciones para el desarrollo de la misma; así como para ayudar al abastecimiento de agua, regular el clima o proteger otros recursos naturales;
 
-V.- Valor escénico: Características del paisaje que hacen que un sitio se signifique por su belleza, valor histórico, educativo, de recreo o científico; así como por otras razones análogas que representen un interés general;
+V.- Área de restauración ecológica: Zona que tiene por objeto restaurar e incrementar las funciones y procesos bióticos originales del área; atrayendo la inversión privada y fomentando la participación social, a través de la investigación científica y tecnológica que proporcione alternativas para recuperar los ecosistemas;
 
-VI.- Actividades riesgosas: Aquellas que puedan causar daños a los ecosistemas y a la salud de la población y que no están consideradas como altamente riesgosas por la federación;
+VI.- Área de uso sustentable: Zona natural protegida de jurisdicción estatal que tiene como objetivo, producir bienes y servicios que respondan a las necesidades económicas, sociales y culturales de la población, con base en el aprovechamiento sustentable de usos compatibles;
 
-VII.- Residuos sólidos municipales: Aquellos que resultan de las actividades domésticas, comerciales y de servicios en pequeña escala, no considerados como peligrosos conforme a la normatividad ambiental vigente;
+VII.- Consejo consultivo ambiental: Grupo en el que participan investigadores, académicos, industriales, organizaciones ambientalistas y especialistas en materia ambiental; así como representantes de reconocido prestigio de los sectores social y privado, cuya función primordial es asesorar a las distintas autoridades en acciones de prevención, protección y mejoramiento del ambiente; asimismo, sus integrantes podrán opinar y proponer la formulación y ejecución de los programas ambientales del Estado o Municipio de que se trate;
 
-VIII.- Residuos sólidos no peligrosos: Aquellos que resultan de las actividades industriales y de servicios en gran escala no considerados como peligrosos conforme a la normatividad ambiental vigente;
+VIII.- Contaminación grave: Presencia en el ambiente de uno o más contaminantes cuyos niveles rebasen los parámetros de las normas oficiales mexicanas cuyo efecto cause o pueda causar un deterioro irreversible a los ecosistemas involucrados y/o cause un daño grave a la salud;
 
-IX.- Contaminación grave: Presencia en el ambiente de uno o más contaminantes cuyo efecto cause o pueda causar un deterioro irreversible a los ecosistemas involucrados;
+IX.- Control: Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
 
-X.- Zona intermedia de salvaguarda: Franja perimetral de terreno contigua a las instalaciones, que por sus actividades representan un riesgo a los ecosistemas y a la salud de la población, cuya extensión la define el correspondiente estudio de riesgo;
+X.- Cuerpo receptor de jurisdicción estatal: Corriente o depósito natural de agua, presas, cauces, embalses creados por el hombre, redes de alcantarillado, colectores, emisores, canales, zanjas, drenes y humedales donde se descargan aguas residuales y que no están reservados a la Federación;
 
-XI.- Eventos extraordinarios: Efectos adversos al equilibrio ecológico derivados de un accidente, durante la ejecución u operación normal de la obra o actividad de que se trate;
+XI.- Daño ambiental: El perjuicio que se ocasiona o que puede provocarse u ocasionarse a futuro, a los intereses particulares o colectivos, públicos o privados, sobre los elementos naturales que han sido sometidos a los efectos del ambiente deteriorado o en proceso de deterioro, que afectan tanto su calidad de vida como otras formas de vida;
 
-XII.- Programa para prevención de accidentes: Esfuerzo integrado que comprende componentes, procedimientos y personal asignado para llevar a cabo todas las actividades de seguridad, preventivas y correctivas, tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución u operación normal de la obra o actividad de que se trate;
+XII.- Desechos sólidos potencialmente peligrosos: Aquéllos que guardan un estado pasivo de peligrosidad potencialmente expuesto por su combinación con otros desechos o la fragmentación de sus componentes, cuyo manejo requiere el cuidado de su separación y disposición controlada;
 
-XIII.- Cuerpo receptor de jurisdicción estatal: Corriente o depósito natural de agua, presas, cauces, embalses creados por el hombre, redes de alcantarillado, colectores, emisores, canales, zanjas, drenes y humedales donde se descargan aguas residuales y que no están reservados a la federación;
+XIII.- Deterioro Ambiental: Es la alteración que sufren uno o varios elementos que conforman los ecosistemas, ante la presencia de un elemento ajeno a las características propias de los mismos;
 
-XIV.- Actividad de emergencia: Acción o conjunto de acciones que están asociados a la prevención, control o mitigación de daños causados o que pudieran ocasionarse con motivo de desastres naturales, accidentes o catástrofes;
+XIV.- Especie y poblaciones en riesgo: Aquéllas identificadas como probablemente extintas en el medio silvestre, en peligro de extinción, amenazadas o sujetas a protección especial, con arreglo a las disposiciones legales;
 
-XV.- Alto valor ambiental: Potencial de factores bióticos y abióticos que interactúan en un ecosistema determinado y que propician una biodiversidad relevante o las condiciones para el desarrollo de la misma; así como para ayudar al abastecimiento de agua, regular el clima o proteger otros recursos naturales;
+XV.- Emergencia Ecológica: Situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus elementos, pone en peligro a uno o varios ecosistemas;
 
-XVI.- Parque ecológico: Area natural protegida de jurisdicción estatal que tiene como objetivo brindar oportunidades de recreo o esparcimiento en espacios naturales e instalaciones artificiales, que contribuyan a la formación de una cultura ambiental, detener la degradación de los recursos del área y mantener la calidad del paisaje y su superación con la introducción de nuevas variedades de flora y fauna bajo estricto control;
+XVI.- Fondo ambiental: Mecanismo cuyo objetivo es financiar parcial o totalmente los proyectos y actividades orientados a la conservación, manejo y restauración de los recursos naturales y medio ambiente;
 
-XVII.- Area de uso sustentable: Zona natural protegida de jurisdicción estatal que tiene como objetivo, producir bienes y servicios que respondan a las necesidades económicas, sociales y culturales de la población, con base en el aprovechamiento sustentable de usos compatibles;
+XVII.- Hábitat: El sitio específico en un medio ambiente físico, ocupado por un organismo, por una población, por una especie o por comunidades de especies en un tiempo determinado;
 
-XVIII.- Area de restauración ecológica: Zona que tiene por objeto restaurar e incrementar las funciones y procesos originales del área; atrayendo la inversión privada y fomentando la participación social, a través de la investigación científica y tecnológica que proporcione alternativas para recuperar los ecosistemas;
+XVIII.- Norma técnica ambiental: Conjunto de reglas científicas o tecnológicas que expide el Instituto de Ecología del Estado con carácter obligatorio sujetándose a lo dispuesto en las leyes aplicables; cuya finalidad es establecer los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades o uso y destino de bienes de competencia estatal que causen o puedan causar desequilibrio ecológico o daño al ambiente y además que uniforme principios, criterios, políticas y estrategias en la materia;
 
-XIX.- Reserva de conservación: Area que tiene por objeto proteger fenómenos o procesos naturales inalterados para mantener la diversidad biológica;
+XIX.- Parque ecológico: Área natural protegida que tiene como objetivo brindar oportunidades de recreo o esparcimiento en espacios naturales e instalaciones artificiales, que contribuyan a la formación de una cultura ambiental, detener la degradación de los recursos del área y mantener la calidad del paisaje y su superación con la introducción de nuevas variedades de flora y fauna bajo estricto control;
 
-XX.- Especie o subespecie rara: Aquélla cuya población es biológicamente viable pero muy escasa de manera natural, pudiendo estar restringida a un área de distribución reducida o hábitats muy específicos;
+XX.- Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
-XXI.- Norma técnica ambiental: Conjunto de reglas científicas o tecnológicas que expide el Instituto de Ecología del Estado con carácter obligatorio sujetándose a lo dispuesto en las leyes aplicables; cuya finalidad es establecer los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades o uso y destino de bienes de competencia estatal que causen o puedan causar desequilibrio ecológico o daño al ambiente y además que uniforme principios, criterios, políticas y estrategias en la materia; y
+XXI.- Programa para prevención de accidentes: Esfuerzo integrado que comprende componentes, procedimientos y personal asignado para llevar a cabo todas las actividades de seguridad, preventivas y correctivas, tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución u operación normal de la obra o actividad de que se trate;
 
-XXII.- Desechos sólidos potencialmente peligrosos: Aquéllos que guardan un estado pasivo de peligrosidad potencialmente expuesto por su combinación con otros desechos o la fragmentación de sus componentes, cuyo manejo requiere el cuidado de su separación y disposición controlada.
+XXII.- Reserva de conservación: Área que tiene por objeto proteger fenómenos o procesos naturales inalterados para mantener la diversidad biológica;
+
+XXIII.- Residuos sólidos municipales: Aquellos que resultan de las actividades domésticas, comerciales y de servicios en pequeña escala, no considerados como peligrosos conforme a la normatividad ambiental vigente;
+
+XXIV.- Residuos sólidos no peligrosos: Aquellos que resultan de las actividades industriales y de servicios en gran escala no considerados como peligrosos conforme a la normatividad ambiental vigente;
+
+XXV.- Tratamiento de agua residual: Proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se le hayan incorporado; y
+
+XXVI.- Valor escénico: Características del paisaje que hacen que un sitio se signifique por su belleza, valor histórico, educativo, de recreo o científico; así como por otras razones análogas que representen un interés general.
 
 ### CAPITULO SEGUNDO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
@@ -191,7 +201,21 @@ XVIII.- Ejercer las funciones que en materia de preservación del equilibrio eco
 
 XIX.- Expedir los reglamentos de esta Ley, las normas técnicas ambientales, los listados de actividades riesgosas y demás normatividad complementaria para el correcto ejercicio de sus atribuciones; y
 
-XX.- Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley y otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XX.- Regular y controlar la conservación y aprovechamiento sustentable de la vida silvestre y su hábitat;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XXI.- Integrar un registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XXII.- Participar con la Federación en la integración del Sistema Nacional de Información Ambiental y de Recursos Naturales; y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XXIII.- Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley y otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación.
 
 ###### Artículo 7o.
 
@@ -205,7 +229,9 @@ III.- Aplicar los instrumentos de política ambiental previstos en esta Ley y pr
 
 IV.- Establecer los sitios de disposición final de los residuos sólidos urbanos e industriales que no sean peligrosos;
 
-V.- Aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como emisiones de contaminantes a la atmósfera provenientes de fuentes móviles que no sean consideradas de jurisdicción federal, con la participación que de acuerdo a esta Ley corresponda al Estado;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+V.- Aplicar las disposiciones jurídicas que se expidan en el Estado en materia ambiental, relativas a la prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como emisiones de contaminantes a la atmósfera provenientes de fuentes móviles que no sean consideradas de jurisdicción federal, con la participación que de acuerdo a esta Ley corresponda al Estado;
 
 VI.- Aplicar las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos municipales e industriales que no estén considerados como peligrosos, de conformidad con lo dispuesto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
@@ -231,13 +257,17 @@ XVI.- Formular y conducir la política municipal de información y difusión en 
 
 XVII.- Participar en la evaluación del impacto ambiental de obras o actividades de competencia estatal, cuando las mismas se realicen en el ámbito de su circunscripción territorial, de conformidad con lo previsto por esta Ley y su reglamento;
 
-XVIII.- Establecer y operar sistemas de monitoreo de emisiones de contaminantes a la atmósfera;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XVIII.- Participar con el Estado en la instrumentación y operación de sistemas y programas para el mejoramiento de la calidad del aire, así como en las acciones para el monitoreo atmosférico;
 
 XIX.- Establecer medidas para limitar o impedir la circulación dentro de la zona urbana municipal de los vehículos automotores, cuyos niveles de emisión de contaminantes a la atmósfera rebasen los límites máximos permisibles que determinen los reglamentos y normas oficiales mexicanas correspondientes;
 
 XX.- Reducir los niveles de emisión de contaminantes de los vehículos automotores, aplicando las medidas conducentes para ello;
 
-XXI.- Integrar y mantener actualizado el inventario de fuentes fijas de contaminación de su competencia;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XXI.- Integrar y actualizar el registro municipal de fuentes, emisiones y transferencia de contaminantes de su competencia y coadyuvar en la integración y actualización del registro de fuentes, emisiones y transferencia de contaminantes del Estado;
 
 XXII.- Elaborar informes periódicos sobre el estado que guarda el medio ambiente en el Municipio correspondiente;
 
@@ -247,7 +277,17 @@ XXIV.- Llevar y actualizar el registro municipal de las descargas a las redes de
 
 XXV.- Expedir los reglamentos para el cumplimiento de las atribuciones que le otorga esta Ley; y
 
-XXVI.- Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley y otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación o al Estado.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XXVI.- Celebrar convenios de coordinación con el Estado para que éste realice actividades o ejerza facultades en bienes y zonas de jurisdicción municipal, en las materias de esta Ley, siempre que el Municipio no cuente con la infraestructura necesaria para ejercer sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XXVII.- Participar con la Federación en la integración del Sistema Nacional de Información Ambiental y de Recursos Naturales; y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XXVIII.- Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley y otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación o al Estado.
 
 ###### Artículo 8o.
 
@@ -321,7 +361,13 @@ XIII.- Realizar actos de control, consistentes en la inspección y vigilancia de
 
 XIV.- Promover la participación y responsabilidad de la sociedad en acciones de información, difusión y vigilancia de la normatividad ambiental; y
 
-XV.- Las demás que le otorguen esta Ley y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XV.- Iniciar las acciones que procedan ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que produzcan desequilibrios ecológicos o daños al ambiente, por violaciones a la presente Ley, coadyuvando con la autoridad; y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XVI.- Las demás que le otorguen esta Ley y demás disposiciones jurídicas aplicables.
 
 ### CAPITULO TERCERO. DE LA COORDINACION
 
@@ -329,21 +375,91 @@ XV.- Las demás que le otorguen esta Ley y otras disposiciones jurídicas aplica
 
 El Estado podrá suscribir convenios o acuerdos de coordinación con la Federación para asumir las siguientes funciones:
 
-I.- El manejo y vigilancia de las áreas naturales protegidas de competencia federal;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+I.- La administración y vigilancia de las áreas naturales protegidas de competencia de la Federación, conforme a lo establecido en el programa de manejo respectivo y en las disposiciones aplicables de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
 II.- El control de los residuos peligrosos considerados de baja peligrosidad conforme a la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-III.- La prevención y control de la contaminación de la atmósfera proveniente de fuentes fijas y móviles de jurisdicción federal;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+III.- La prevención y control de la contaminación de la atmósfera proveniente de fuentes fijas y móviles de jurisdicción federal y, en su caso, la expedición de las autorizaciones correspondientes;
 
 IV.- El control de acciones para la protección, preservación y restauración del equilibrio ecológico y del ambiente en la zona federal de los cuerpos de agua considerados como nacionales;
 
-V.- La protección, preservación y restauración de los recursos naturales a que se refiere la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la flora y fauna silvestre, así como el control de su aprovechamiento sustentable;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+V.- La protección y preservación del suelo, la flora y la fauna silvestre, terrestre y los recursos forestales;
 
 VI.- La realización de acciones operativas tendientes a cumplir con los fines previstos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-VII.- La realización de acciones para la vigilancia del cumplimiento de las disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente; y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
-VIII.- Todas aquéllas en las que coincida el interés de la Federación y del Estado.
+VII.- La inspección y vigilancia del cumplimiento de las disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente; de la Ley General de Vida Silvestre y demás disposiciones que de ellas deriven;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+VIII.- La evaluación del impacto ambiental, que pueda causar la realización de obras o actividades, públicas o privadas, que se encuentren reservadas a la Federación y, en su caso, expedir las autorizaciones correspondientes con excepción de las obras o actividades siguientes:
+
+a) Obras hidráulicas, así como vías generales de comunicación, oleoductos, gasoductos, carboductos y poliductos;
+
+b) Industria del petróleo, petroquímica, del cemento, siderúrgica y eléctrica;
+
+c) Exploración, explotación y beneficio de minerales y sustancias reservadas a la Federación en los términos de las leyes Minera y Reglamentaria del Artículo 27 Constitucional en materia nuclear;
+
+d) Instalaciones de tratamiento, confinamiento o eliminación de residuos peligrosos, así como radioactivos;
+
+e) Aprovechamiento de especies de difícil regeneración;
+
+f) Cambios de uso de suelo de áreas forestales y zonas áridas;
+
+g) Obras y actividades en lagunas, ríos y lagos;
+
+h) Obras en áreas naturales protegidas de competencia de la Federación y actividades que por su naturaleza puedan causar desequilibrios ecológicos graves, así como actividades que pongan en riesgo el ecosistema;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+IX.- La prevención y control de la contaminación ambiental originada por ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas y móviles de competencia federal y, en su caso, la expedición de las autorizaciones correspondientes;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+X.- Autorizar, registrar y supervisar técnicamente el establecimiento de unidades de manejo para la conservación de vida silvestre;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XI.- Atender los asuntos relativos al manejo, control y remediación de problemas asociados a ejemplares y poblaciones que se tornen perjudiciales;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XII.- Aplicar las medidas de sanidad relativas a la vida silvestre;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XIII.- Aplicar las medidas relativas al hábitat crítico y a las áreas de refugio para proteger las especies acuáticas reguladas en la Ley General de Vida Silvestre y normas oficiales mexicanas correspondientes;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XIV.- Promover y aplicar las medidas relativas al trato digno y respetuoso de la fauna silvestre;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XV.- Promover el establecimiento de las condiciones para el manejo y destino de ejemplares fuera de su hábitat natural, de conformidad con los procedimientos establecidos en la Ley General de Vida Silvestre;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XVI.- Promover el establecimiento de las condiciones necesarias para el desarrollo de mercados para la vida silvestre, basados en criterios de sustentabilidad, así como aplicar los instrumentos de política ambiental para estimular el logro de los objetivos de conservación y aprovechamiento sustentable de la misma;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XVII.- Otorgar, suspender, modificar y revocar las autorizaciones, certificaciones, registros y demás actos administrativos vinculados al aprovechamiento y liberación de ejemplares de las especies y poblaciones silvestres, al ejercicio de la caza deportiva y para la prestación de servicios de este tipo de aprovechamiento, así como para la colecta científica, de conformidad con las normas y demás disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XVIII.- Promover el desarrollo de proyectos, estudios y actividades encaminados a la educación, capacitación e investigación sobre la vida silvestre, para el desarrollo del conocimiento técnico y científico y el fomento de la utilización del conocimiento tradicional; y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XIX.- Todas aquéllas en las que coincida el interés de la Federación y del Estado.
 
 ###### Artículo 11.
 
@@ -409,7 +525,13 @@ XII.- Garantizar el derecho de las comunidades, incluyendo a los pueblos indíge
 
 XIII.- El control y la prevención de la contaminación ambiental, el adecuado aprovechamiento de los elementos naturales y el mejoramiento del entorno natural en los asentamientos humanos, son elementos fundamentales para elevar la calidad de vida de la población; y
 
-XIV.- Los demás que señale la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XIV.- Conservar la diversidad genética y el manejo integral de los hábitat naturales y la recuperación de las especies silvestres; y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+XV.- Los demás que señale la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
 ### CAPITULO QUINTO. DE LOS INSTRUMENTOS DE LA POLITICA AMBIENTAL
 
@@ -439,11 +561,15 @@ II.- Regional; y
 
 III.- Municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 20.
 
-En la formulación de los ordenamientos ecológicos se deberá considerar lo siguiente:
+En la formulación de los programas de ordenamiento ecológico se deberá considerar lo siguiente:
 
-I.- La naturaleza y características de los ecosistemas existentes en el territorio estatal;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+I.- La conservación y preservación de la naturaleza y las características de los ecosistemas existentes en el territorio estatal;
 
 II.- La vocación de cada zona o región, en función de sus recursos naturales, la distribución de la población y las actividades económicas predominantes;
 
@@ -559,7 +685,9 @@ VIII.- Las relativas al manejo de instalaciones de tratamiento, recicladoras, co
 
 IX.- Las que estando reservadas a la Federación, se descentralicen en favor del Estado o municipios;
 
-X.- Las derivadas de la industria de autopartes, alimenticia y de bebidas, textil, electrónica, mueblera, metal-mecánica, cerámica y artesanal, curtiduría, fundición, hospitalaria, ladrilleras, del vidrio y vitivinícola;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+X.- Las derivadas de la industria de autopartes, alimenticia y de bebidas, textil, electrónica, mueblera, metal-mecánica, cerámica y artesanal, curtiduría, fundición, hospitalaria, ladrilleras, del vidrio, vitivinícola y zapatera;
 
 XI.- Las comerciales y de servicio que por sus características y objeto impliquen riesgo al ambiente; y
 
@@ -685,7 +813,9 @@ c) Exista falsedad en la información proporcionada por los promoventes, respect
 
 d) No se haya proporcionado la información complementaria en tiempo y forma; y
 
-e) Se funde en duda técnica en virtud de que en los estudios presentados no aparezca demostrada la tecnología propuesta para evitar, mitigar o reducir los efectos que sobre el ambiente pueda causar la obra o actividad; o bien, cuando ésta consista en la aplicación de tecnologías novedosas cuyos resultados sobre el ambiente no hayan sido probados y documentados.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+e) Se fundamente en datos o elementos científicos en virtud de que en los estudios presentados no aparezca demostrada la tecnología propuesta para evitar, mitigar o reducir los efectos que sobre el ambiente pueda causar la obra o actividad; o bien, cuando ésta consista en la aplicación de tecnologías novedosas cuyos resultados sobre el ambiente no hayan sido probados y documentados.
 
 La autoridad podrá exigir el otorgamiento de una fianza, previa a la expedición de la autorización, para garantizar el cumplimiento de las condiciones que en cada caso se establezcan.
 
@@ -719,7 +849,9 @@ V.- Fraccionamientos habitacionales que pretendan ubicarse dentro del centro de 
 
 VI.- Mercados y centrales de abastos;
 
-VII.- Aprovechamiento de minerales o sustancias no reservados a la Federación, que constituyan depósitos de naturaleza semejante a los componentes de los terrenos para la fabricación de materiales para la construcción u ornato;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+VII.- Aprovechamiento de minerales o sustancias no reservados a la Federación que constituyan depósitos de naturaleza semejante a los componentes de los terrenos agrícolas para la fabricación de materiales para la construcción u ornato;
 
 VIII.- Instalaciones dedicadas al manejo de residuos no peligrosos; y
 
@@ -1135,9 +1267,11 @@ IV.- La operación y administración de los sistemas de agua potable y alcantari
 
 V.- Las políticas y programas para la protección de especies acuáticas endémicas, amenazadas, en peligro de extinción o sujetas a protección especial.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 100.
 
-La Comisión Estatal de Agua y Saneamiento coadyuvará en la vigilancia para el cumplimiento de las normas oficiales mexicanas relativas al establecimiento y manejo de zonas de protección de aguas de jurisdicción estatal y promoverá el establecimiento de reservas de agua para consumo humano.
+La Comisión Estatal del Agua de Guanajuato coadyuvará en la vigilancia para el cumplimiento de las normas oficiales mexicanas relativas al establecimiento y manejo de zonas de protección de aguas de jurisdicción estatal y promoverá el establecimiento de reservas de agua para consumo humano.
 
 ###### Artículo 101.
 
@@ -1187,6 +1321,10 @@ IX.- La formulación de los programas de ordenamiento ecológico a que se refier
 
 Quienes realicen actividades agrícolas y pecuarias, deberán llevar a cabo las prácticas de preservación, aprovechamiento sustentable y restauración necesarias para evitar la degradación del suelo y desequilibrios ecológicos y, en su caso, lograr la rehabilitación, en los términos de lo dispuesto por esta Ley y las demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+En caso de inobservancia, se impondrán a los responsables las sanciones contempladas en el Título Sexto, Capítulo Tercero de esta Ley.
+
 ###### Artículo 105.
 
 Los ayuntamientos promoverán la introducción y generalización de prácticas de protección y restauración de los suelos en las actividades agropecuarias, además deberán exigir la presentación de manifestaciones de impacto ambiental previos al otorgamiento de autorizaciones para efectuar cambios de uso de suelo.
@@ -1195,9 +1333,11 @@ Los ayuntamientos promoverán la introducción y generalización de prácticas d
 
 Los ayuntamientos podrán fijar restricciones de carácter ambiental, tanto al uso de suelo como a las autorizaciones de construcción, así como las que fueren necesarias para la aplicación y cumplimiento de las disposiciones de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 107.
 
-En la expedición de licencias de uso de suelo, la autoridad municipal podrá considerar los siguientes principios:
+En la expedición de licencias de uso de suelo, la autoridad municipal deberá considerar los siguientes principios:
 
 I.- El aprovechamiento de los suelos tenderá a conformar la estructura urbana y rural y su entorno ambiental, de acuerdo a lo previsto en los programas de ordenamiento ecológico y en los planes de desarrollo urbano;
 
@@ -1207,97 +1347,215 @@ III.- Precisará las condiciones a que, en su caso, quedará sujeto el aprovecha
 
 ## TITULO CUARTO. PROTECCION AL AMBIENTE
 
-### CAPITULO PRIMERO. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DE LA ATMOSFERA
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+### CAPITULO PRIMERO. DEL REGISTRO DE EMISIONES Y TRANSFERENCIA DE CONTAMINANTES
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 108.
 
-En todas las emisiones a la atmósfera deberán ser observadas las previsiones de esta Ley y las disposiciones reglamentarias que de ella emanen, así como las normas oficiales mexicanas.
+El Ejecutivo del Estado, a través del Instituto de Ecología del Estado, y con la colaboración de los Ayuntamientos, integrará un registro de fuentes, emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia, así como de aquellas sustancias que determinen las disposiciones jurídicas aplicables.
 
-### CAPITULO SEGUNDO. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DEL AGUA Y DE LOS ECOSISTEMAS ACUATICOS
+La información del registro se integrará con los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante el Instituto y, en su caso, ante los Ayuntamientos.
+
+Las personas físicas y morales responsables de fuentes contaminantes están obligadas a proporcionar la información periódica con los datos desagregados por sustancia y por fuente, y documentos necesarios para la integración del registro, anexando nombre y dirección de sus establecimientos.
+
+La información registrada será pública y tendrá efectos declarativos. El Instituto de Ecología del Estado permitirá el acceso a dicha información en los términos de esta Ley y demás disposiciones jurídicas aplicables y las difundirá de manera periódica.
+
+La información contenida en el registro será útil además, para efectos de coadyuvar con la autoridad ambiental federal, en la integración del registro de emisiones y transferencia de contaminantes a que se refiere el artículo 109 Bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+### CAPITULO SEGUNDO. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DE LA ATMOSFERA
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+#### SECCION PRIMERA. DE LA REGULACION DE LAS EMISIONES A LA ATMOSFERA
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 109.
 
-Para controlar, reducir o evitar la contaminación de la atmósfera, el Instituto de Ecología del Estado tendrá las siguientes facultades:
+En todas las emisiones a la atmósfera deberán observarse las previsiones de esta Ley, y las disposiciones reglamentarias que de ella emanen, así como las normas oficiales mexicanas expedidas por la Federación. Se prohíbe emitir contaminantes a la atmósfera que ocasionen o puedan ocasionar desequilibrios ecológicos o daños al ambiente y a la salud de la población.
 
-I.- Integrar y mantener actualizado el inventario de las fuentes emisoras de contaminantes a la atmósfera de jurisdicción estatal, coordinándose con el gobierno federal y con los ayuntamientos para la integración del inventario nacional;
+Para la protección de la atmósfera se considerarán, de manera enunciativa mas no limitativa, los siguientes criterios:
 
-II.- Formular y aplicar programas para la reducción de emisión de contaminantes a la atmósfera, con base en la calidad del aire que se determine para cada área, zona o región del Estado. Dichos programas deberán prever los objetivos que se pretenden alcanzar, los plazos correspondientes y los mecanismos para su instrumentación;
+I. La reducción y control de las emisiones de contaminantes a la atmósfera, sean estas de fuentes fijas o móviles, para asegurar que la calidad del aire sea satisfactoria para la salud y bienestar de la población, así como para mantener el equilibrio ecológico;
 
-III.- Promover y apoyar a los municipios, en la formulación y aplicación de programas de gestión de calidad del aire;
+II. La mitigación de los efectos que coadyuvan en el cambio climático; y
 
-IV.- Promover ante los responsables de la operación de fuentes contaminantes, la aplicación de nuevas tecnologías con el propósito de reducir las emisiones a la atmósfera; y
+III. La promoción del uso de combustibles alternativos en fuentes fijas y móviles.
 
-V.- Emitir las disposiciones y establecer las medidas tendientes a evitar la quema de cualquier tipo de residuo sólido o líquido, incluyendo basura doméstica, hojarasca, hierva seca, esquilmos agrícolas, llantas usadas, plásticos y otros; así como las quemas con fines de desmonte de uso pecuario y agrícola.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 110.
 
-La Procuraduría de Protección al Ambiente requerirá a los responsables de la operación de fuentes fijas de jurisdicción estatal, el cumplimiento de los límites máximos permisibles de emisión de contaminantes, de conformidad con lo dispuesto en la presente Ley.
+Todas aquellas personas que realicen o vayan a realizar actividades generadoras de contaminación atmosférica, deberán instalar y operar equipos o sistemas para el control de sus emisiones, que garanticen el cumplimiento de lo establecido en la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 111.
 
-Para la operación y funcionamiento de las fuentes fijas de jurisdicción estatal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas, se requerirá autorización del Instituto de Ecología del Estado.
+En materia de prevención y control de la contaminación de la atmósfera generada por fuentes fijas y móviles de jurisdicción estatal, compete al Ejecutivo del Estado:
+
+I.- Controlar la contaminación del aire en los bienes y zonas de jurisdicción estatal, así como en fuentes fijas que funcionen como establecimientos industriales, exceptuándose los de jurisdicción federal;
+
+II.- Establecer las medidas preventivas y correctivas necesarias para reducir las emisiones contaminantes a la atmósfera y para evitar contingencias ambientales por contaminación atmosférica;
+
+III.- Establecer para toda la Entidad, sistemas y programas de verificación de emisiones de automotores en circulación que no sean de autotransporte federal;
+
+IV.- Vigilar el cumplimiento de las normas oficiales mexicanas para la prevención y control de la contaminación atmosférica, en las materias y supuestos de su competencia;
+
+V.- Promover ante los responsables de la operación de fuentes contaminantes de su competencia, la aplicación de la mejor tecnología con el propósito de reducir las emisiones a la atmósfera y, en su caso, requerir a los mismos el cumplimiento de los límites máximos permisibles de emisión de contaminantes, de conformidad con lo dispuesto en el reglamento de la presente Ley y en la normatividad aplicable;
+
+VI.- Integrar y mantener actualizado el inventario de las fuentes emisoras de contaminantes a la atmósfera de jurisdicción estatal, coordinándose con el Ejecutivo Federal y con los Ayuntamientos para la integración del inventario nacional;
+
+VII.- Emitir las disposiciones y establecer las medidas tendientes a evitar la quema de cualquier tipo de residuo sólido o líquido, incluyendo basura doméstica, hojarasca, hierba seca, esquilmos agrícolas, llantas usadas, plásticos y otros; así como las quemas con fines de desmonte de uso pecuario y agrícola; y
+
+VIII.- Expedir las autorizaciones que en el ámbito de sus atribuciones le correspondan, aplicando las sanciones pertinentes.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 112.
 
-Se prohibe emitir contaminantes a la atmósfera que ocasionen o puedan ocasionar desequilibrios ecológicos o daños al ambiente. En todas las emisiones a la atmósfera deberán observarse las previsiones de esta Ley y las disposiciones reglamentarias que de ella emanen, así como las normas oficiales mexicanas expedidas por la Federación.
+En materia de prevención y control de la contaminación atmosférica, compete a los Ayuntamientos:
+
+I.- Controlar la contaminación del aire en los bienes y zonas de jurisdicción municipal, así como en fuentes fijas que funcionen como establecimientos comerciales o de servicios;
+
+II.- Aplicar los criterios generales para la protección de la atmósfera, en los planes de desarrollo urbano de su competencia, definiendo las zonas en que sea permitida la instalación de industrias, de conformidad con el ordenamiento ecológico y sus programas respectivos;
+
+III.- Tomar las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica, en coordinación con las autoridades competentes;
+
+IV.- Promover ante los responsables de la operación de fuentes contaminantes de su competencia, la aplicación de la mejor tecnología con el propósito de reducir las emisiones a la atmósfera y, en su caso, requerir a los mismos el cumplimiento de los límites máximos permisibles de emisión de contaminantes, de conformidad con lo dispuesto en el reglamento de la presente Ley y en la normatividad aplicable;
+
+V.- Operar en coordinación con el Estado, los sistemas y programas de verificación de emisiones de automotores en circulación, que no sean de autotransporte federal;
+
+VI.- Aplicar las normas oficiales mexicanas y técnicas ambientales para la protección de la atmósfera, en las materias y supuestos de su competencia; y
+
+VII.- Ejercer las demás atribuciones que le confiera esta Ley y sus reglamentos.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 113.
 
-El Instituto de Ecología del Estado y los ayuntamientos promoverán en las zonas que se hubieren determinado como aptas para uso industrial, próximas a áreas habitacionales, la instalación de industrias que utilicen tecnologías y combustibles que generen menor contaminación atmosférica.
+Corresponde al Ejecutivo del Estado y a los Ayuntamientos:
+
+I.- Promover en las zonas que se hubieren determinado como aptas para uso industrial, cercanas a las áreas habitacionales, la instalación de industrias que utilicen tecnologías y energéticos no contaminantes o de baja contaminación y que no generen radiaciones electromagnéticas, humos, vapores, olores, ruido y vibraciones por encima de los límites máximos permisibles establecidos en las normas aplicables;
+
+II.- Establecer requisitos y procedimientos para regular las emisiones del transporte público, dentro de sus respectivas competencias, excepto el federal, así como las medidas de tránsito y en su caso, la suspensión de circulación en casos graves de contaminación;
+
+III.- Formular y aplicar programas de contingencia ambiental, de manera coordinada y, en su caso, con la participación de la autoridad federal competente, con base en la calidad del aire que se determine para cada área, zona o región del Estado. Dichos programas deberán prever los objetivos que se pretendan alcanzar, los planes correspondientes y los mecanismos para su instrumentación;
+
+IV.- Imponer sanciones y medidas por infracciones a esta Ley, reglamentos y bandos de policía y buen gobierno que expidan los Ayuntamientos de acuerdo con esta Ley; y
+
+V.- Ejercer las demás atribuciones que les confiera esta Ley y sus reglamentos.
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+#### SECCION SEGUNDA. DE LA EMISION DE CONTAMINANTES GENERADOS POR FUENTES FIJAS
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 114.
 
-En la determinación de usos de suelo de los centros de población que lleven a cabo las autoridades competentes mediante planes o programas de desarrollo urbano u otros mecanismos legales, será obligatorio considerar las condiciones topográficas y meteorológicas para asegurar la adecuada dispersión de contaminantes.
+Para la operación y funcionamiento de las fuentes fijas de jurisdicción estatal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas, se requerirá autorización del Instituto de Ecología del Estado.
+
+Para obtener la autorización a que se refiere este artículo, los responsables de las fuentes fijas deberán presentar solicitud por escrito acompañada de la información y documentación que señalen las disposiciones del Reglamento que al efecto se expida.
+
+La información a que se refiere este artículo deberá presentarse en el formato que determine el Instituto de Ecología del Estado, quien podrá requerir la información adicional o complementaria que considere necesaria y verificar en cualquier momento la veracidad de la misma.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 115.
 
-Todas aquellas personas que realicen actividades contaminantes de la atmósfera, deberán instalar equipos o sistemas para el control de sus emisiones, que satisfagan las normas oficiales mexicanas respectivas.
+Una vez recibida la información a que se refiere el artículo que antecede e integrado el expediente, el Instituto de Ecología del Estado fundada y motivadamente otorgará o negará la autorización correspondiente, dentro del plazo de treinta días hábiles contados a partir de la fecha en que se presente toda la información requerida. Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que se ha negado la autorización solicitada.
+
+De otorgarse la autorización, el Instituto de Ecología del Estado deberá señalar en la licencia correspondiente:
+
+I.- Los límites máximos permisibles de emisión por tipo de contaminante a que deberá sujetarse la fuente autorizada, en los casos en que por sus particularidades en sus procesos o características especiales de construcción, no puedan encuadrarse dentro de la normatividad aplicable;
+
+II.- La periodicidad con que deberá llevarse a cabo la medición y el monitoreo de sus emisiones;
+
+III.- La periodicidad con que deberá remitirse al Instituto de Ecología del Estado el inventario de emisiones;
+
+IV.- Las medidas y acciones que habrán de desarrollar los responsables de las fuentes fijas, para prevenir y controlar la contaminación de la atmósfera, pudiendo ser las siguientes:
+
+a) Instalar equipos o sistemas de control de emisiones y realizar monitoreos de las mismas, para mantenerlas por debajo de los niveles máximos permisibles para cada uno de los contaminantes emitidos a la atmósfera, de acuerdo a lo señalado en las normas oficiales mexicanas y demás disposiciones legales aplicables;
+
+b) Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine el Instituto de Ecología del Estado;
+
+c) Aplicar la mejor tecnología disponible para reducir y controlar sus emisiones y asegurar una calidad del aire satisfactoria para el bienestar de la población y el mantenimiento del equilibrio ecológico;
+
+d) Instalar plataformas y puertos de muestreo en las chimeneas o puntos de emisión;
+
+e) Efectuar el monitoreo perimetral de las emisiones contaminantes a la atmósfera en los periodos que determine el Instituto de Ecología del Estado, cuando la fuente de que se trate se localice en zonas urbanas, cuando colinde con Áreas Naturales Protegidas, o cuando por sus características de operación o por sus materias primas, productos o subproductos puedan causar grave deterioro al ambiente;
+
+f) Llevar y mantener actualizada una bitácora de sus procesos industriales y una de operación y mantenimiento de los equipos utilizados para el control de las emisiones, de acuerdo a los formatos emitidos por el Instituto de Ecología del Estado;
+
+g) Dar aviso anticipado al Instituto de Ecología del Estado del inicio de operaciones de sus procesos, en el caso de paros programados, y de inmediato en el caso de que éstos sean circunstanciales, si ellos pueden provocar contaminación;
+
+h) Avisar de inmediato al Instituto de Ecología del Estado en el caso de falla del equipo de control para que éste determine lo conducente;
+
+i) Las medidas que deberán efectuarse en caso de contingencias;
+
+j) Establecer una franja perimetral de amortiguamiento de la contaminación generada, de acuerdo a las medidas de mitigación consideradas en la autorización de impacto ambiental; y
+
+V.- Las demás que establezca esta Ley o las disposiciones que de ella se deriven.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 116.
 
-Las personas que realicen o vayan a realizar actividades generadoras de contaminación atmosférica, deberán proporcionar toda la información que las autoridades municipales o estatales requieran, a efecto de integrar y mantener actualizado el inventario de fuentes fijas de contaminación de la atmósfera.
+La Procuraduría de Protección al Ambiente requerirá a los responsables de la operación de fuentes fijas de jurisdicción estatal, el cumplimiento de los límites máximos permisibles de emisión de contaminantes, de conformidad con lo dispuesto en la presente Ley, así como las autorizaciones o permisos conducentes.
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+#### SECCION TERCERA. DE LA EMISION DE CONTAMINANTES GENERADOS POR FUENTES MÓVILES
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 117.
 
-En materia de prevención y control de la contaminación atmosférica, compete al Estado:
+Queda prohibida la circulación de vehículos automotores que emitan gases, humos, polvos o partículas, cuyos niveles de emisión de contaminantes a la atmósfera rebasen los límites máximos permisibles establecidos en las normas oficiales mexicanas.
 
-I.- Controlar la contaminación del aire en los bienes y zonas de jurisdicción estatal, así como en fuentes fijas que funcionen como establecimientos industriales, exceptuándose las de jurisdicción federal;
+Los propietarios o poseedores de vehículos automotores que circulen en el territorio del Estado, están obligados a cumplir con los límites de emisiones contaminantes establecidos en la normatividad aplicable. Para ello deberán:
 
-II.- Requerir a los responsables de la operación de fuentes fijas de jurisdicción estatal, el cumplimiento de los límites máximos permisibles de emisión de contaminantes, de conformidad con lo dispuesto en el reglamento de la presente Ley y en las normas oficiales mexicanas respectivas;
+I.- Realizar el mantenimiento regular de sus vehículos automotores a efecto de mantenerlos en buenas condiciones de funcionamiento y dentro de los límites de emisiones permitidos en la normatividad aplicable;
 
-III.- Expedir las autorizaciones que en el ámbito de sus atribuciones le correspondan y aplicar las sanciones pertinentes;
+II.- Someter sus vehículos automotores a la verificación de emisiones contaminantes, en los centros de verificación autorizados, dentro del periodo que les corresponda, en los términos del Programa Estatal de Verificación Vehicular que para el efecto expida el Instituto de Ecología del Estado; y
 
-IV.- Integrar y mantener actualizado el inventario de fuentes fijas de contaminación; y
+III.- Observar las medidas y restricciones que las autoridades competentes dicten para prevenir y controlar emergencias y contingencias ambientales, así como para mejorar la vialidad.
 
-V.- Ejercer las demás atribuciones que le confiere esta Ley y los reglamentos.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 118.
 
-En materia de prevención y control de la contaminación atmosférica, compete a los ayuntamientos:
+En materia de prevención y control de la contaminación atmosférica producida por fuentes móviles, el Instituto de Ecología del Estado tendrá las siguientes atribuciones:
 
-I.- Controlar la contaminación del aire en los bienes y zonas de jurisdicción municipal, así como en fuentes fijas que funcionen como establecimientos comerciales o de servicios, exceptuándose las de jurisdicción federal;
+I.- Regular el establecimiento y operación de sistemas y programas de verificación de emisiones de vehículos automotores en circulación;
 
-II.- Aplicar los criterios generales para la protección de la atmósfera, en los planes de desarrollo urbano de su competencia, definiendo las zonas en que sea permitida la instalación de industrias contaminantes;
+II.- Autorizar el establecimiento, registro, funcionamiento y control de los centros de verificación vehicular del Estado;
 
-III.- Establecer y operar sistemas de verificación de emisiones de automotores en circulación, que no sean autotransporte federal; y
+III.- Expedir anualmente el Programa Estatal de Verificación Vehicular; y
 
-IV.- Ejercer las demás atribuciones que les confiere esta Ley y los reglamentos.
+IV.- Las demás que le correspondan de conformidad con este ordenamiento y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 119.
 
-Corresponde al Ejecutivo del Estado y a los ayuntamientos:
+Para controlar, reducir o evitar la contaminación de la atmósfera generada por vehículos automotores, los Ayuntamientos deberán:
 
-I.- Establecer requisitos y procedimientos para regular las emisiones del transporte público, excepto el federal y las medidas de tránsito, y en su caso, la suspensión de circulación, en casos graves de contaminación;
+I.- Establecer medidas preventivas y correctivas para reducir la emisión de contaminantes a la atmósfera en bienes y zonas de jurisdicción municipal;
 
-II.- Tomar las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica;
+II.- Exigir a los propietarios o poseedores de vehículos automotores, el cumplimiento del programa de verificación vehicular del Estado y, en su caso, retirar de la circulación aquellos vehículos que no lo cumplan; y
 
-III.- Elaborar los informes sobre el estado del ambiente en la Entidad o Municipio correspondiente;
+III.- Promover el mejoramiento de los sistemas de tránsito y transporte e implementar toda clase de medidas en sus vialidades para disminuir las emisiones contaminantes.
 
-IV.- Imponer sanciones y medidas por infracciones a esta Ley, reglamentos o bandos de policía y buen gobierno que expidan los ayuntamientos de acuerdo con esta Ley; y
+> <small>(REFORMADA SU NUMERACION, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
-V.- Ejercer las demás atribuciones que les confiere esta Ley y los reglamentos.
-
-### CAPITULO TERCERO. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DEL SUELO
+### CAPITULO TERCERO. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DEL AGUA Y DE LOS ECOSISTEMAS ACUATICOS
 
 ###### Artículo 120.
 
@@ -1345,11 +1603,15 @@ Las aguas residuales tratadas de jurisdicción estatal, podrán utilizarse en la
 
 En los aprovechamientos existentes de aguas residuales en la agricultura, se promoverán acciones para mejorar la calidad del recurso, la reglamentación de los cultivos y las prácticas de riego.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 126.
 
-La Comisión Estatal de Agua y Saneamiento, en coordinación con otras instancias de gobierno, realizará un sistemático y permanente monitoreo de la calidad de las aguas de jurisdicción estatal, para detectar la presencia de contaminantes o exceso de desechos orgánicos y aplicar las medidas que procedan.
+La Comisión Estatal del Agua de Guanajuato, en coordinación con otras instancias de gobierno, realizará un sistemático y permanente monitoreo de la calidad de las aguas de jurisdicción estatal, para detectar la presencia de contaminantes o exceso de desechos orgánicos y aplicar las medidas que procedan.
 
-### CAPITULO CUARTO. DE LA COORDINACION PARA EL CONTROL DE LAS ACTIVIDADES CONSIDERADAS COMO NO ALTAMENTE RIESGOSAS
+> <small>(REFORMADA SU NUMERACION, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+### CAPITULO CUARTO. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DEL SUELO
 
 ###### Artículo 127.
 
@@ -1375,7 +1637,9 @@ III.- Las alteraciones en el suelo que perjudiquen su aprovechamiento, uso o exp
 
 Los ayuntamientos autorizarán el funcionamiento de los sistemas de recolección, traslado, tratamiento y disposición final de residuos sólidos municipales, debiendo observar las normas oficiales mexicanas expedidas sobre los sitios, el diseño, la construcción y la operación de las instalaciones.
 
-### CAPITULO QUINTO. DEL RUIDO, VIBRACIONES, ENERGIA TERMICA Y LUMINICA, OLORES Y CONTAMINACION VISUAL
+> <small>(REFORMADA SU NUMERACION, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+### CAPITULO QUINTO. DE LA COORDINACION PARA EL CONTROL DE LAS ACTIVIDADES CONSIDERADAS COMO NO ALTAMENTE RIESGOSAS
 
 ###### Artículo 130.
 
@@ -1429,7 +1693,9 @@ Cuando para garantizar la seguridad de los vecinos de una industria que lleve a 
 
 El Ejecutivo del Estado promoverá ante los ayuntamientos que los programas de desarrollo urbano establezcan que en dichas zonas no se permitirán los usos habitacionales, comerciales y otros que pongan en riesgo a la población.
 
-### CAPITULO SEXTO. DE LA COMISION TECNICO CONSULTIVA SOBRE ORGANISMOS GENETICAMENTE MODIFICADOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+### CAPITULO SEXTO. DEL RUIDO, VIBRACIONES, ENERGIA TERMICA Y LUMINICA, OLORES Y CONTAMINACION VISUAL
 
 ###### Artículo 138.
 
@@ -1445,39 +1711,29 @@ Cualquier actividad no cotidiana que se realice en los centros de población cuy
 
 Los ayuntamientos deberán incorporar en sus bandos de policía y buen gobierno y reglamentos, disposiciones que regulen obras, actividades y anuncios publicitarios, a fin de crear una imagen agradable de los centros de población y evitar la contaminación visual de los mismos. Igualmente determinarán las zonas que tengan un valor escénico o de paisaje y regularán y autorizarán los tipos de obras o actividades que se puedan realizar con el propósito de evitar su deterioro.
 
-### CAPITULO PRIMERO. DE LA PARTICIPACION SOCIAL
+> <small>(REFORMADA SU NUMERACION, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+### CAPITULO SEXTO. DE LA COMISION TECNICO CONSULTIVA SOBRE ORGANISMOS GENETICAMENTE MODIFICADOS
 
 ###### Artículo 141.
 
-El Instituto de Ecología del Estado promoverá la integración de una Comisión Técnico Consultiva sobre organismos genéticamente modificados, la cual tendrá por objeto asesorar, evaluar y dar seguimiento a las acciones que lleven a cabo las autoridades competentes, sobre los efectos que puede ocasionar la introducción al Estado de material de propagación de especies vegetales y animales genéticamente modificados.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 142.
 
-La Comisión Técnico Consultiva deberá dictaminar con base en los estudios que el interesado presente, si las especies en cuestión y los herbicidas requeridos en el caso del cultivo de semillas o especies vegetales, representan alteraciones al ambiente, que incidan en los aspectos siguientes:
-
-I.- La conservación y preservación de la biodiversidad;
-
-II.- La preservación y aprovechamiento sustentable del uso de suelo;
-
-III.- Los efectos sobre la salud humana, los microorganismos y especies benéficas; y
-
-IV.- En general, las modificaciones significativas en el ecosistema.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 143.
 
-La Comisión Técnico Consultiva deberá emitir su opinión o recomendación a las autoridades competentes, expresando si el interesado demostró que la especie genéticamente modificada no representa alteraciones perjudiciales al ambiente, así como el cumplimiento de los requisitos establecidos por las leyes aplicables.
-
-Deberá señalar además, los procedimientos a seguir para la introducción de especies genéticamente modificadas en el caso de emitir una opinión favorable.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 144.
 
-La autoridad competente deberá resolver sobre la introducción de la especie genéticamente modificada al Estado, tomando en consideración la opinión o recomendación que al respecto emita la Comisión Técnico Consultiva, debiendo expresar las causas de aceptación o rechazo de dicha opinión.
-
-La Comisión Técnico Consultiva podrá evaluar y dar seguimiento a los asuntos respecto de los cuales haya emitido opinión o recomendación.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2004)
 
 ## TITULO QUINTO. PARTICIPACION SOCIAL E INFORMACION AMBIENTAL
 
-### CAPITULO SEGUNDO. DE LOS CONSEJOS CONSULTIVOS AMBIENTALES
+### CAPITULO PRIMERO. DE LA PARTICIPACION SOCIAL
 
 ###### Artículo 145.
 
@@ -1499,7 +1755,7 @@ V.- Impulsar el fortalecimiento de la conciencia ecológica, a través de la rea
 
 VI.- Concertar acciones e inversiones con los sectores social y privado y con instituciones académicas, grupos y organizaciones sociales, pueblos indígenas y demás personas físicas y morales interesadas, para la preservación y restauración del equilibrio ecológico y protección al ambiente.
 
-### CAPITULO TERCERO. DEL SISTEMA ESTATAL DE INFORMACION AMBIENTAL
+### CAPITULO SEGUNDO. DE LOS CONSEJOS CONSULTIVOS AMBIENTALES
 
 ###### Artículo 147.
 
@@ -1553,19 +1809,23 @@ En los Consejos Consultivos Ambientales deberán intervenir organizaciones no gu
 
 El funcionamiento y organización de los Consejos Consultivos Ambientales se regulará por lo dispuesto en el reglamento de esta Ley.
 
-### CAPITULO PRIMERO. DE LA INSPECCION Y VIGILANCIA
+### CAPITULO TERCERO. DEL SISTEMA ESTATAL DE INFORMACION AMBIENTAL
 
 ###### Artículo 152.
 
 El Ejecutivo del Estado establecerá y coordinará a través del Instituto de Ecología del Estado, el Sistema Estatal de Información Ambiental que se integrará con los datos e información que generen las dependencias y entidades de la administración pública, estatal y municipal, que realicen funciones en la materia; además de toda aquella información de índole ambiental recopilada de cualquier fuente y la proporcionada por las instituciones de investigación y educación superior en el Estado.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 153.
 
-La Procuraduría, los ayuntamientos y los Consejos Consultivos Ambientales, emitirán informes ambientales en forma semestral en el ámbito de sus respectivas competencias y de conformidad con sus atribuciones.
+Los Ayuntamientos y sus Consejos Consultivos Ambientales, emitirán informes ambientales en forma anual, mismos que serán dados a conocer a la ciudadanía en general para su conocimiento y a las autoridades ambientales del Estado como insumo para la formulación y ejecución de la política ambiental de la Entidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 154.
 
-El Ejecutivo del Estado a través del Instituto de Ecología del Estado integrará un informe ambiental trianual del Estado, el cual deberá incluir la siguiente información:
+El Ejecutivo del Estado a través del Instituto de Ecología del Estado, integrará bianualmente un informe ambiental del Estado, en el que se dé a conocer el estado que guardan las políticas ambientales de la Entidad. Dicho informe deberá incluir la siguiente información:
 
 I.- Recursos naturales;
 
@@ -1579,9 +1839,11 @@ V.- Infraestructura ambiental; y
 
 VI.- Prospectiva ambiental.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 155.
 
-El informe trianual deberá publicarse en el Periódico Oficial del Gobierno del Estado, durante el mes de marzo del año siguiente al que corresponda, con excepción del informe inicial que podrá publicarse en cualquier tiempo, y difundirse entre todos los sectores de la sociedad para su conocimiento.
+El informe bianual deberá publicarse en el Periódico Oficial del Gobierno del Estado, durante el mes de marzo siguiente al que corresponda y difundirse en todos los sectores de la sociedad para su conocimiento.
 
 ###### Artículo 156.
 
@@ -1617,7 +1879,7 @@ Quién reciba información ambiental de las autoridades competentes, en los tér
 
 ## TITULO SEXTO. MEDIDAS DE CONTROL, DE SEGURIDAD Y SANCIONES
 
-### CAPITULO SEGUNDO. DE LAS MEDIDAS DE SEGURIDAD
+### CAPITULO PRIMERO. DE LA INSPECCION Y VIGILANCIA
 
 ###### Artículo 160.
 
@@ -1673,7 +1935,7 @@ Cuando se trate de segunda o posterior inspección para verificar el cumplimient
 
 En los casos en que el infractor realice las medidas correctivas o de urgente aplicación para subsanar las irregularidades detectadas, en los plazos ordenados por la Procuraduría de Protección al Ambiente, siempre y cuando el infractor no sea reincidente, y no se trate de alguno de los supuestos previstos en el artículo 169 de esta Ley, ésta podrá revocar o modificar la sanción o sanciones impuestas.
 
-### CAPITULO TERCERO. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPITULO SEGUNDO. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 169.
 
@@ -1691,9 +1953,7 @@ Asimismo, la Procuraduría de Protección al Ambiente podrá promover ante la au
 
 Cuando la Procuraduría de Protección al Ambiente ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
 
-### CAPITULO CUARTO. DEL RECURSO DE REVISION
-
-> <small>(F. DE E., P.O. 3 DE MARZO DEL 2000)</small>
+### CAPITULO TERCERO. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 171.
 
@@ -1765,7 +2025,9 @@ En ningún caso, los responsables de la infracción que hubiera dado lugar al de
 
 El Estado y los ayuntamientos, podrán promover ante las autoridades competentes, con base en los estudios que hagan para tal efecto, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos o cualquier actividad que afecte o pueda afectar el ambiente, los recursos naturales, o causar desequilibrio ecológico o pérdida de la biodiversidad.
 
-### CAPITULO QUINTO. DE LA DENUNCIA POPULAR
+### CAPITULO CUARTO. DEL RECURSO DE REVISION
+
+> <small>(F. DE E., P.O. 3 DE MARZO DEL 2000)</small>
 
 ###### Artículo 177.
 
@@ -1797,9 +2059,13 @@ Tratándose de obras o actividades que contravengan las disposiciones de esta Le
 
 En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta Ley, serán nulas y no producirán efecto legal alguno, y los servidores públicos responsables serán sancionados conforme a lo dispuesto en la Ley de en (sic) la materia. Dicha nulidad podrá ser exigida por medio del recurso a que se refiere el artículo anterior.
 
+### CAPITULO QUINTO. DE LA DENUNCIA POPULAR
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 182.
 
-Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Procuraduría de Protección al Ambiente o ante otras autoridades todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente Ley y los demás ordenamientos que rigen materias relacionadas con la protección al ambiente y la preservación y restauración del equilibrio ecológico.
+Toda persona física o moral podrá denunciar ante la Procuraduría de Protección al Ambiente del Estado o ante otras autoridades todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales o contravenga las disposiciones de la presente Ley y demás ordenamientos que rigen materias relacionadas con la protección al ambiente y la preservación y restauración del equilibrio ecológico.
 
 Si la denuncia fuera presentada ante la autoridad municipal y resulta del orden estatal, deberá ser remitida para su atención y trámite a la Procuraduría de Protección al Ambiente.
 
@@ -1807,21 +2073,27 @@ Si la denuncia fuera presentada ante la autoridad municipal y resulta del orden 
 
 Los municipios aplicarán el presente procedimiento en el ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 184.
 
-La denuncia popular podrá ejercerse por cualquier persona, bastando que se presente por escrito y contenga:
+La denuncia popular podrá presentarse por cualquier persona, en cualquiera de las siguientes formas:
 
-I.- Nombre, domicilio y teléfono del denunciante;
+I.- Por escrito, que deberá contener:
 
-II.- Los actos, hechos u omisiones denunciados;
+a) Nombre, domicilio y teléfono del denunciante;
 
-III.- Nombre o razón social, y domicilio del presunto infractor o de la fuente contaminante; y
+b) Los actos, hechos u omisiones denunciados;
 
-IV.- Las pruebas que en su caso ofrezca el denunciante.
+c) Nombre o razón social, y domicilio del presunto infractor o de la fuente contaminante; y
 
-Asimismo, la denuncia podrá formularse por vía telefónica, en cuyo supuesto el servidor público que la reciba, levantará acta circunstanciada y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días siguientes a la formulación de la denuncia sin perjuicio de que la Procuraduría de Protección al Ambiente investigue de oficio los hechos constitutivos de la denuncia.
+d) Las pruebas que en su caso ofrezca el denunciante.
 
-Si el denunciante solicita a la Procuraduría de Protección al Ambiente quedar en el anonimato, por razones de seguridad e interés particular, ésta llevará a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente Ley o demás disposiciones jurídicas le otorgan.
+II.- Por comparecencia ante la Procuraduría de Protección al Ambiente del Estado, por lo que el servidor público que la reciba levantará acta circunstanciada de la denuncia, la que firmará el denunciante, procediendo a registrar la denuncia y darle el trámite que señala esta Ley; y
+
+III.- Por teléfono o cualquier otro medio electrónico, en cuyo supuesto el servidor público que la reciba levantará acta circunstanciada y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días siguientes a la formulación de la denuncia, sin perjuicio de que la Procuraduría de Protección al Ambiente del Estado investigue de oficio los hechos constitutivos de la denuncia.
+
+Si el denunciante solicita a la Procuraduría de Protección al Ambiente del Estado quedar en el anonimato, por razones de seguridad e interés particular, ésta llevará a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente Ley y demás disposiciones jurídicas le otorgan.
 
 ###### Artículo 185.
 
@@ -1875,7 +2147,9 @@ II.- Por haberse dictado la recomendación correspondiente;
 
 III.- Cuando no existan contravenciones a la normatividad ambiental;
 
-IV.- Por falta de interés del denunciante en los términos de este capítulo;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+IV.- Por falta de interés del denunciante en los términos de este Capítulo cuando se ha dejado de actuar en un periodo de 30 días hábiles;
 
 V.- Por haberse dictado anteriormente un acuerdo de acumulación de expedientes;
 
@@ -1888,6 +2162,38 @@ VII.- Por desistimiento del denunciante.
 Las autoridades y servidores públicos involucrados en asuntos de la competencia de la Procuraduría de Protección al Ambiente, o que por razón de sus funciones o actividades puedan proporcionar información pertinente deberán cumplir en sus términos con las peticiones que dicha dependencia les formule en tal sentido.
 
 Las autoridades y servidores públicos a los que se les solicite información o documentación que se estime con carácter reservado, conforme a lo dispuesto en la legislación aplicable, lo comunicarán a la Procuraduría de Protección al Ambiente. En este supuesto, dicha dependencia deberá manejar la información proporcionada bajo la más estricta confidencialidad.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+### CAPITULO SEXTO. DE LOS DAÑOS AMBIENTALES
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+###### Artículo 194.
+
+Sin perjuicio de las demás disposiciones aplicables y de las sanciones penales o administrativas que procedan, toda persona que contamine o deteriore el ambiente, produciendo con su acción u omisión desequilibrios ecológicos, daños al medio ambiente, afectación a los recursos naturales, a la biodiversidad, a la vida silvestre o su hábitat, será responsable y estará obligada a reparar los daños causados, conforme a la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+###### Artículo 195.
+
+Cualquier persona física o moral podrá denunciar ante la Procuraduría de Protección al Ambiente del Estado, daños al ambiente, a los recursos naturales o a la vida silvestre o a su hábitat, sin necesidad de demostrar que sufre una afectación personal y directa en razón de dichos daños.
+
+La Procuraduría de Protección al Ambiente evaluará cuidadosamente la denuncia presentada y, en caso de ser procedente, ejercerá la acción de responsabilidad por daños a los recursos naturales y a la vida silvestre y su hábitat, sin perjuicio de la acción de indemnización que promueva el afectado.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+###### Artículo 196.
+
+La acción para demandar la reparación del daño al medio ambiente, prescribirá en cinco años, a partir de la fecha en que hayan cesado los efectos del daño.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+###### Artículo 197.
+
+La reparación del daño consistirá en la restitución de las cosas al estado que guardaban antes de producirse el daño y si ello no fuera posible, la conmutación de la pena por el pago de una indemnización.
+
+El pago de la indemnización será destinado al desarrollo de programas, proyectos y actividades vinculadas con la restauración, mejoramiento y conservación de los recursos naturales, el ambiente y las especies, así como a la difusión, capacitación y vigilancia en materia ambiental.
 
 T R A N S I T O R I O S
 
@@ -1924,3 +2230,19 @@ LIC. RAMON MARTIN HUERTA.
 EL SECRETARIO DE GOBIERNO.
 
 LIC. ANTONIO OBREGON PADILLA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 12 DE NOVIEMBRE DE 2004.
+
+Artículo Primero.- El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones administrativas que se opongan al presente.
+
+Artículo Tercero.- El Programa Estatal de Verificación Vehicular para el año 2005 y las demás disposiciones generales que sobre la materia expida el Instituto de Ecología del Estado, se aplicarán en toda la Entidad, quedando sin vigencia las que expidan los Ayuntamientos del Estado.
+
+Artículo Cuarto.- El Ejecutivo del Estado deberá expedir el Reglamento sobre Contaminación Atmosférica en un plazo de seis meses contados a partir de la entrada en vigor del presente decreto.
+
+Artículo Quinto.- Los Ayuntamientos del Estado deberán adecuar sus bandos y reglamentos municipales en un plazo de seis meses, contados a partir de la entrada en vigor del presente decreto.
+
+Artículo Sexto.- El Ejecutivo del Estado y los Ayuntamientos deberán integrar los registros de fuentes, emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia, a que se refiere el artículo 108, en un plazo de seis meses, contados a partir de la entrada en vigor del presente decreto, debiendo expedir las disposiciones administrativas que resulten pertinentes.
