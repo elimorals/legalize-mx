@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1987-09-06"
+last_updated: "1988-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 1988.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -341,31 +341,27 @@ El ejercicio de las funciones que ésta Constitución señala al Poder Legislati
 
 El Congreso se integra con Diputados electos popular y directamente cada tres años. Par (sic) cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1988)</small>
 
 ###### ARTICULO 31.
 
-El Congreso del Estado estará integrado por doce Diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales y hasta cuatro diputados que serán electos según el principio de representación proporcional, conforme al sistema de listas votadas en una circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado.
+El Congreso del Estado se integrará con 15 diputados electos según el principio de votación mayoritaria relativa en distritos electorales uninominales, y hasta con 6 diputados que serán electos según el principio de representación proporcional, mediante listas votadas en la circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado.
 
-La demarcación territorial de los doce distritos electorales uninominales será la que resulte de dividir la población total del Estado entre los distritos señalados.
+La elección de los diputados de representación proporcional, bajo el sistema de listas, deberá sujetarse a lo que en particular disponga la legislación electoral relativa, de conformidad con las siguientes bases:
 
-La elección de los diputados según el principio de representación proporcional y sistemas de listas, se sujetará a las bases generales siguientes y a lo que en lo particular disponga la Ley Electoral del Estado.
+I.- Para obtener la inscripción de sus listas, el partido político que lo solicite, deberá acreditar que tiene su registro definitivo y que participa con candidatos a diputados por mayoría relativa por lo menos en la tercera parte de los distritos electorales uninominales.
 
-I.- Para obtener el registro de sus listas, el partido político que lo solicite deberá acreditar su registro y que participa con candidatos a diputados por mayoría relativa en por lo menos ocho distritos electorales uninominales.
+II.- Tendrá derecho a que le sean atribuidos diputados electos según el principio de proporcionalidad, todo aquel partido que:
 
-II.- Tendrá derecho a que le sean asignados diputados electos según el principio de representación proporcional todo aquel partido que:
+a).- Alcance al menos el 1.5% de la votación emitida para el total de las listas.
 
-a).- No haya obtenido dos o más constancias de mayoría.
+b).- No haya obtenido 3 ó más constancias de mayoría.
 
-b).- Que alcance por lo menos el 1.5% del total de la votación emitida por el total de las listas.
+III.- Al partido que se encuentre dentro de los supuestos señalados en las fracciones I y II de este artículo, le serán asignados los diputados que correspondan de acuerdo al porcentaje de votos obtenidos en la circunscripción. La legislación electoral relativa, determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
 
-III.- Al partido político que satisfaga los requisitos señalados en las Fracciones anteriores le serán asignados los diputados que correspondan, de acuerdo con el porcentaje de votos obtenidos para el total de dichas listas.
+IV.- En caso de que dos o más partidos con derecho a participar en la distribución por listas, obtuviese en su conjunto 3 o más constancias de mayoría, solo será objeto de distribución el 50% de las curules que deban asignarse por principio de proporcionalidad.
 
-La Ley determinará las fórmulas electorales y los procedimientos que se observarán para la asignación, en las que, en todo caso, se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
-
-IV.- En el caso de que dos o más partidos con derecho a participar en la distribución de listas, obtuviesen en su conjunto cuatro o más constancias de mayoría, solo serán objeto de distribución tres de las curules que deban asignarse por el principio de representación proporcional.
-
-V.- Cuando solo un partido político obtenga el mínimo de votos requeridos para participar e(sic) la distribución de las listas, únicamente serán objeto de asignación dos curules por el principio de representación proporcional. Si son dos los partidos que obtengan el referido mínimo se repartirán tres curules. Se exceptúa el caso en que uno o dos partidos obtengan, conjunta o separadamente, el 10% como mínimo de la votación emitida para todas las listas, en cuya circunstancia serán objeto de designación las cuatro curules de representación proporcional.
+La demarcación territorial de los quince distrito (sic) electorales uninominales, será la que resulte de dividir la población total del Estado entre los distritos señalados.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 1984)</small>
 
@@ -429,19 +425,15 @@ Los diputados que sin licencia dejaren de concurrir por un mes seguido a cualqui
 
 Igual pena sufrirán los suplentes, en su caso, desde que sean llamados para reemplazar al propietario. Para la aplicación de esta pena se necesita la declaración expresa del Congreso. Las faltas sin licencia, de menos de un mes, se sujetarán a las prescripciones y penas que señale el Reglamento del propio Congreso.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1988)</small>
 
 ###### ARTICULO 37.
 
-Las elecciones para integrar el Congreso serán calificadas a travás (sic) de un Colegio Electoral, que se formará con seis presuntos Diputados de los electos en los distritos uninominales designados por el Partido Político que hubiere obtenido mayor número de constancias registradas por la Comisión Estatal Electoral; y tres de los electos por el sistema de representación proporcional, debidamente reconocidos por la Comisión Estatal Electoral, los que deberán ser designados por los partidos políticos minoritarios, que hubiesen obtenido mayor votación en la circunscripción plurinominal en órden decreciente.
+Las elecciones para integrar el Congreso, serán calificadas a través de un Colegio Electoral que se formará con todos los presuntos diputados que hubieren obtenido constancia expedida por la Comisión Estatal Electoral tanto por los electos por el principio de votación mayoritaria relativa, como los electos por el principio de representación proporcional.
 
-Procede el recurso de reclamación ante el Supremo Tribunal de Justicia del Estado, contra las resoluciones del Colegio Electoral.
+Corresponde al Gobierno del Estado la preparación, desarrollo y vigilancia de los procesos electorales, la ley determinará los organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos; además, establecerá los medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por esta Constitución y las leyes que de ella emanen e instituirá un Tribunal de la (sic) Contencioso Electoral, que tendrá la competencia que determine la Ley; las resoluciones serán obligatorias y solo podrán ser modificadas por el Colegio Electoral de la Cámara de Diputados, que será la última instancia en la calificación de las elecciones. Todas estas resoluciones tendrán el carácter de definitivas e inatacables.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 38.
 
@@ -533,6 +525,10 @@ El Gobernador, dentro de los últimos quince días de su mandato, enviará al Co
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
+SECCION D.- DE LAS FACULTADES DEL CONGRESO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 1984)</small>
+
 ## TITULO TERCERO
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
@@ -587,9 +583,9 @@ Ninguna iniciativa que sea desechada por el Congreso podrá ser presentada de nu
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION D.- DE LAS FACULTADES DEL CONGRESO
+SECCION E.- DE LA COMISION PERMANENTE
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 1984)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 55.
 
@@ -751,11 +747,7 @@ XXXV.- Expedir, con base en lo dispuesto en el Artículo 123 de la Constitución
 
 XXXVI.- Recibir las declaraciones y resoluciones de las Cámaras de Diputados y Senadores del Congreso de la Unión en materia de responsabilidades de los servidores públicos.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCION E.- DE LA COMISION PERMANENTE
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 56.
 
@@ -785,7 +777,11 @@ VI.- Las demás que le confiere está Constitución.
 
 La Comisión Permanente dará cuenta en la segunda sesión del período ordinario siguiente de la Legislatura, de las labores desarrolladas, presentando al efecto una memoria escrita de sus trabajos, así corno de los expedientes que hubiere formado.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ### CAPITULO TERCERO. DEL PODER EJECUTIVO
 
@@ -1273,10 +1269,6 @@ La competencia del Supremo Tribunal de Justicia, el funcionamiento del Pleno y d
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
-
 ###### ARTICULO 92.
 
 El Supremo Tribunal de Justicia del Estado se integra por siete Magistrados numerarios y siete Magistrados supernumerarios; éstos últimos suplirán a aquéllos en sus faltas temporales y también, temporalmente, en sus faltas definitivas, a cuyo efecto serán llamados en el orden numérico en que hubieren sido electos.
@@ -1359,13 +1351,9 @@ X.- Rendir ante el Congreso el día treinta y uno de Julio de cada año, por voz
 
 XI.- Las demás que le confieren esta Constitución y las leyes;
 
-> <small>(ADICIONADA, P.O. 26 DE JULIO DE 1979)</small>
+XII.- (DEROGADA, P.O. 24 DE ABRIL DE 1988)
 
-XII.- Conocer del recurso de reclamación contra las resoluciones del Colegio Electoral del Congreso del Estado. Si considera que se cometieron violaciones sustanciales en el desarrollo del proceso electoral o en la calificación misma, lo hará del conocimiento del Congreso para que emita nueva resolución que tendrá el carácter de definitiva e intachable.
-
-La Ley fijará los requisitos de procedimiento y el trámite a que se sujetará este recurso.
-
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 98.
 
@@ -1411,7 +1399,11 @@ Los jueces civiles, familiares, penales, de primera instancia con jurisdicción 
 
 Los Presidentes de las Juntas Municipales, Jefes de Cuartel y de Manzana, son auxiliares en la administración de la justicia y, para ese efecto, se sujetarán a las disposiciones de la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 103.
 
@@ -2040,3 +2032,9 @@ El presente Decreto entrará en vigor tres días después de su publicación en 
 P.O. 6 DE SEPTIEMBRE DE 1987.
 
 UNICO.- El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ABRIL DE 1988.
+
+PRIMERO.- El presente Decreto entrará en vigor (3) tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
