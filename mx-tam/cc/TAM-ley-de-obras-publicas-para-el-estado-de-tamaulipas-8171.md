@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-obras-publicas-para-el-estado-de-tamaulipas-8171"
 country: "mx"
 rank: "ley"
 publication_date: "1984-11-03"
-last_updated: "2001-10-11"
+last_updated: "2003-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE OBRAS PUBLICAS PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DEL 2001.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADAS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS, PUBLICADA EN PERIODICO OFICIAL EL DIA 21 DE AGOSTO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL. ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, 3 de noviembre de 1984.
 
@@ -824,3 +826,25 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 El Padrón de Contratistas de Obras Públicas y la documentación existente en la Secretaría de Desarrollo Urbano y Ecología, deberán ser entregados a la contraloría, en un término no mayor de treinta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 21 DE AGOSTO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor 90 días naturales después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Obras Públicas para el Estado de Tamaulipas publicada en el Periódico Oficial del Estado el 3 de noviembre de 1984, y sus reformas publicadas en el propio Periódico Oficial del Estado de 16 de febrero de 1994 y de 11 de octubre de 2001, al tiempo que se derogan todas las demás disposiciones que se opongan a la presente ley.
+
+###### ARTÍCULO TERCERO.
+
+La Comisión constituida con fundamento en el Artículo Tercero Transitorio del Decreto mediante el cual se reforma la Ley de Obras Públicas para el Estado de Tamaulipas, publicado en el Periódico Oficial del Estado el día 16 de febrero de 1994, deberá sujetarse a lo establecido en este ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos de contratación; de aplicación de sanciones y de inconformidades, así como los demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en que se iniciaron.
+
+Los contratos de obras públicas y de servicios relacionados con las mismas que se encuentren vigentes al entrar en vigor esta ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
+
+Las rescisiones administrativas que por causas imputables al contratista se hayan determinado de acuerdo con lo dispuesto en la Ley de Obras Públicas para el Estado de Tamaulipas publicada en el Periódico Oficial del Estado el día 3 de noviembre de 1984, y sus reformas del 16 de febrero de 1994 y del 11 de octubre de 2001, se continuarán considerando para los efectos de los artículos 59, fracción II, y, 89 fracción II, de esta ley.
