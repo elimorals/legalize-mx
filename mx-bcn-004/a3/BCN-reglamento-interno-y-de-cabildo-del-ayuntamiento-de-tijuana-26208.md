@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2002-11-29"
+last_updated: "2003-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 29 DE NOVIEMBRE DE 2002.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2003.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -615,6 +613,8 @@ En la sesión correspondiente, el Secretario informará de la remisión anticipa
 
 ### CAPITULO SEGUNDO. DE LAS COMISIONES PERMANENTES, ESPECIALES Y CONJUNTAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 72.
 
 Naturaleza.- Los Regidores ejercen las atribuciones que la Ley del Régimen Municipal para el Estado de Baja California les otorga en materia de análisis, supervisión, vigilancia propuesta de los problemas del Municipio y sus soluciones, a través de las Comisiones que la propi (sic) Ley y este reglamento establece.
@@ -683,7 +683,7 @@ Funcionarios de la administración municipal y ciudadanos.- A solicitud de l (si
 
 ###### ARTICULO 79.
 
-Comisiones permanentes.- Sin perjuicio de la facultad de establecer la (sic) comisiones que considere necesarias para la atención de los asuntos de su competencia, e (sic) Ayuntamiento de Tijuana instituye las siguientes Comisiones permanentes:
+Comisiones Permanentes.- Sin perjuicio de la facultad de establecer las comisiones que considere necesarias para la atención de los asuntos de su competencia, el Ayuntamiento de Tijuana instituye las siguientes comisiones permanentes:
 
 I.- Comisión de Gobernación y Legislación;
 
@@ -709,7 +709,9 @@ XI.- Comisión de Juventud;
 
 XII.- Comisión de Asistencia y Desarrollo Social;
 
-XIII.- Comisión de Turismo y Comercio;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
+XIII.- Comisión de Turismo, Comercio y Ciudades Hermanas.
 
 XIV.- Comisión de Desarrollo Económico;
 
@@ -909,15 +911,25 @@ V.- Procurar mediante el principio de subsidiaridad, el apoyo oportuno y adecuad
 
 VI.- En general, aquellas que el Cabildo le encomiende.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 92.
 
-Comisión de Turismo y Comercio.- La Comisión de Turismo y Comercio tendrá la (sic) siguientes atribuciones:
+Comisión de Turismo, Comercio y Ciudades Hermanas.- La Comisión de Turismo, Comercio y Ciudades Hermanas tendrá las siguientes atribuciones:
 
-I.- Representar al Ayuntamiento ante el Comité de Turismo y Convenciones, transmitir sus informe (sic) financieros y programas anuales al Cabildo y opinar sobre la (sic) estrategias de promoción turística;
+I.- Representar al Ayuntamiento o en su caso al Presidente Municipal ante el Comité de Turismo y Convenciones, transmitir sus informes financieros y programas anuales al Cabildo y opinar sobre las estrategias de promoción turística y comercial;
 
-II.- Proponer al Cabildo proyectos de acuerdos y resoluciones para normar, promover y desarrollar la actividad comercial y turística en el ámbito de la competencia municipal, y
+II.- Proponer al Cabildo proyectos de acuerdos y resoluciones para normar, promover y desarrollar actividad comercial y turística en el ámbito de la competencia municipal;
 
-III.- En general, aquellas que el Cabildo le encomiende.
+III.- Vigilar el funcionamiento de los organismos que promuevan o regulen el desarrollo turístico y comercial del Municipio y en los que tenga injerencia el Ayuntamiento o Cabildo a través de sus instituciones o dependencias;
+
+IV.- Proponer, evaluar y promover ante el Cabildo la firma de convenios de hermanamientos entre el Ayuntamiento de la ciudad de Tijuana y otras ciudades del territorio nacional o internacional;
+
+V.- De ser necesario representar al Ayuntamiento o en su caso al Presidente Municipal en la celebración de convenios de hermanamientos que se realicen entre el Ayuntamiento de la ciudad de Tijuana y otras ciudades del territorio nacional o internacional;
+
+VI.- Vigilar que se dé seguimiento a los convenios de hermanamiento que se realicen entre el Ayuntamiento de la ciudad de Tijuana y otras ciudades del territorio nacional o internacional; y
+
+VII.- En general aquellas que el Cabildo le encomiende.
 
 ###### ARTICULO 93.
 
@@ -1158,3 +1170,11 @@ SEGUNDA.- Derogación.- A partir de la fecha de inicio de la vigencia del presen
 TERCERA.- Las Comisiones de Cabildo que se hubieren conformado con anterioridad a la entrada e (sic) vigor del presente ordenamiento, subsistirán hasta en tanto el Ayuntamiento adopte acuerdo que la modifique.
 
 DADO en la Sala de Cabildo de Palacio Municipal en la Ciudad de Tijuana, Baja California a los _ días (sic) del mes de diciembre del año dos mil uno.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+P.O. 28 DE FEBRERO DE 2003.
+
+ACUERDO TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
