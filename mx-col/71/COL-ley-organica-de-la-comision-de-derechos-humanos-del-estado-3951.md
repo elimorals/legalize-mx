@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-comision-de-derechos-humanos-del-estado-3951
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-05-30"
-last_updated: "1994-01-15"
+last_updated: "2001-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 30 de mayo de 1992.
 
@@ -85,11 +85,17 @@ El Presidente de la Comisión lo será también del Consejo, el cargo de los mie
 
 Cada tres años deberán ser sustituídos los cinco miembros del Consejo de mayor antigüedad, a excepción de su Presidente.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 7.
 
-Los miembros del Consejo serán propuestos por el Ejecutivo del Estado con la aprobación del Congreso del Estado.
+Para nombrar a los miembros del Consejo, el Gobernador del Estado someterá una terna por cada nombramiento a la consideración del Congreso, el cual designará al Consejero que deba cubrir la vacante. La designación se hará por el voto de la mayoría calificada, en el improrrogable plazo de treinta días naturales. Si el Congreso no resolviere dentro de dicho plazo, ocupará el cargo de consejero la persona que de cada una de las ternas, designe el Gobernador. En caso de que el Congreso rechace la totalidad de la terna propuesta, el Gobernador someterá una nueva, con respecto a la cual el Congreso resolverá en el improrrogable plazo de 15 días naturales. Si el Congreso no resuelve en dicho plazo o si esta segunda terna fuera rechazada, ocupará el cargo la persona que de esta terna, designe el Gobernador.
 
-El Consejo contará con un Secretario Técnico quien será designado por el propio Consejo, a propuesta del Presidente de la Comisión.
+Si a la conclusión del período legal del cargo de Consejero a que se refiere este ordenamiento, el Congreso del Estado no ha elegido al sustituto, la persona que lo viene desempeñando continuará en el cargo hasta que tome posesión el que lo sustituya.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2001)</small>
+
+ARTICULO 7 BIS.- El Consejo contará con un Secretario Técnico que será designado por el propio Consejo, a propuesta del Presidente de la Comisión.
 
 ###### ARTICULO 8.
 
@@ -121,11 +127,13 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito intencional
 
 El Titular de la Secretaría Ejecutiva deberá ser una persona con experiencia administrativa y prestigio académico.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 11.
 
-El Presidente de la Comisión será electo por mayoría calificada de dos terceras partes del Congreso del Estado, de una terna propuesta por el Titular del Poder Ejecutivo.
+Para nombrar al Presidente de la Comisión Estatal de Derechos Humanos, el Gobernador del Estado someterá una terna a la consideración del Congreso. La designación se hará por el voto de la mayoría calificada, en del (sic) improrrogable plazo de treinta días naturales. Si el Congreso no resolviere dentro de dicho plazo, ocupará el cargo la persona que de esta terna, designe el Gobernador. En caso de que el Congreso rechace la totalidad de la terna propuesta, el Gobernador someterá una nueva, con respecto a la cual el Congreso resolverá dentro del improrrogable plazo de 15 días naturales. Si el Congreso no resuelve en dicho plazo o si esta segunda terna fuera rechazada, ocupará el cargo la persona que de esa terna, designe el Gobernador.
 
-El Congreso observará que los candidatos reúnan los requisitos señalados en el artículo anterior.
+Si a la conclusión del período legal del cargo de Presidente a que se refiere este ordenamiento, el Congreso del Estado no ha elegido al sustituto, la persona que lo viene desempeñando continuará en el cargo hasta que tome posesión el que lo sustituya.
 
 ###### ARTICULO 12.
 
@@ -550,3 +558,7 @@ El presente Decreto entrará en vigor el día de su aprobación y deberá public
 ###### ARTICULO SEGUNDO.
 
 En cumplimiento a lo dispuesto por el tercer párrafo del artículo 6 que se reforma, los miembros del Consejo realizarán una insaculación en la primera sesión que realicen, una vez que entre en vigor este Decreto, para conocer el orden en que serán sustituidos la mitad de sus consejeros. La primera sustitución se efectuará en el mes de septiembre de 1995.
+
+P.O. 16 DE JUNIO DE 2001.
+
+ÚNICO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
