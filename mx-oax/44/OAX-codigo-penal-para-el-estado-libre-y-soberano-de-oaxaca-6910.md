@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2001-09-15"
+last_updated: "2002-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2002.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4513,6 +4513,140 @@ II.- Cuando la ofensa sea contra el Estado.
 
 Cuando el delito se cometa por medio de algún periódico, los dueños, gerentes o directores de éste, tengan o no responsabilidad penal, estarán obligados a publicar el fallo, imponiéndoseles multa de cien pesos por cada día que pase sin hacerlo, después de aquél en que se les notifique la sentencia. El importe de la multa no podrá exceder de diez mil pesos.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE ABRIL DE 2002)</small>
+
+### CAPITULO I.
+
+Privación ilegal de la libertad.
+
+(REUBICADO, P.O. 1 DE ABRIL DE 2002)
+
+346.- Se aplicarán la pena de prisión de tres meses a cinco años y multa de cien a quinientos pesos:
+
+I.- Al que sin orden de autoridad competente, siendo un particular y fuera de los casos previstos por la Ley, arreste o detenga a otro en una cárcel privada o en otro lugar, hasta por tres días. Si la detención arbitraria excede de ese término, la sanción será de un mes por cada día de la detención;
+
+II.- Al que de alguna manera viole, con perjuicio de otros los derechos y garantías establecidos por la Constitución Federal y la del Estado en favor de las personas.
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2002)</small>
+
+III.- Al servidor público que no realice la consignación de un detenido dentro de los plazos legales o lo incomunique de cualquier forma o niegue información sobre la existencia de su detención.
+
+(REUBICADO, P.O. 1 DE ABRIL DE 2002)
+
+347.- Se impondrán de tres meses a tres años de prisión y multa de cien a quinientos pesos:
+
+I.- Al que obligue a otro a prestarle trabajos o servicios personales, sin la retribución debida, ya sea empleando violencia física o moral, o valiéndose del engaño, de la intimidación o de cualquier otro medio; y
+
+II.- Al que celebre con otro un contrato que prive a éste de la libertad o le imponga condiciones que lo constituyan en una especie de servidumbre, o que se apodere de alguna persona y la entregue a otro con el objeto de que éste celebre dicho contrato.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
+347 Bis.- Cuando se sustraiga a un menor de doce años de edad, de su seno familiar por un pariente sin limitación de grado, que no ejerza la patria potestad o la tutela sobre él, y con el propósito distinto a los señalados en el artículo 348 BIS C, se le impondrá la pena de uno a cinco años de prisión y multa de cincuenta a quinientos días de salario.
+
+Este delito sólo se perseguirá por querella de la parte ofendida si el menor no sufrió algún daño, en caso contrario, si el daño constituyere un delito que deba perseguirse de oficio, la querella será inadmisible y se atenderá a las reglas del concurso de delitos.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
+347 Bis A.- Cuando se detenga en calidad de rehén a una persona o servidor público, con el fin de presionar para que un servidor público realice o deje de realizar un acto de cualquier naturaleza, se le impondrá al autor de esta conducta de tres a diez años de prisión y multa de cincuenta a cuatrocientos salarios mínimos.
+
+En este supuesto, si el sujeto activo deja en libertad a la persona ilegalmente retenida, en forma espontánea dentro de las veinticuatro horas siguientes al inicio de la privación de la libertad, el delito se perseguirá por querella y en su caso, la sanción que se aplique será de la tercera parte del mínimo a la tercera parte del máximo; y si desiste de la privación de la libertad, dentro de las setenta y dos horas siguientes de iniciada aquella, la pena será de las dos terceras partes de la mínima, a las dos terceras partes de la máxima.
+
+SI con la conducta descrita en el primer párrafo de este artículo, concurrieren amenazas de privar a los rehenes de la vida o de causarles un daño de cualquier tipo se agravará la pena de uno a tres años.
+
+Si resultare otro delito, se atenderá a la pena agravada y a las reglas del concurso de delitos.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
+347 Bis B.- A quien ilegalmente prive a una persona de su libertad mediante la violencia física o moral, la seducción o el engaño, con la intención de realizar actos tendientes a contraer matrimonio, se le aplicará la pena de dos a ocho años de prisión y multa de veinticinco a trescientos salarios mínimos.
+
+Si el pasivo es menor de doce años de edad se presumirá el engaño; si es mayor de doce y menor de dieciséis años se presumirá la seducción. En estos supuestos la pena se incrementará de un año dos meses a tres años de prisión.
+
+Si el activo del delito realiza algún acto erótico sexual con la víctima, se sancionará de acuerdo a las reglas del concurso de delitos.
+
+SI el activo de este delito restituye la libertad a la víctima dentro de las setenta y dos horas, voluntariamente o en atención al primer requerimiento que le haga la autoridad, sin que hubiere existido la realización de algún acto erótico sexual, la sanción será de seis meses a dos años de prisión.
+
+Este delito sólo se perseguirá por querella de la parte ofendida.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
+### CAPITULO II.
+
+Secuestro.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ABRIL DE 2002)</small>
+
+348.- Comete el delito de secuestro quien ilegalmente detenga o prive de su libertad a otro, para obtener un rescate en dinero o en especie o para causarle un daño o perjuicio, o cuando se trate de causar molestias graves a personas distintas del secuestrado, pero relacionadas con éste.
+
+Al responsable de este delito se le impondrá de quince a treinta y cinco años de prisión y multa de quinientos a setecientos treinta salarios mínimos.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
+348 Bis.- Comete el delito de secuestro exprés el que prive de la libertad a otra persona, con el objeto de obtener un lucro mediante el uso de cualesquiera de los siguientes medios: Tarjetas de crédito, tarjetas de débito, título de crédito, medios electrónicos, informáticos, mecánicos, en especie o efectivo.
+
+Al que cometa el delito señalado en el párrafo anterior, se le impondrá la pena de diez a quince años de prisión y multa de quinientos a setecientos treinta días de salario.
+
+Si el tiempo de la privación de la libertad excediera de cinco horas se aplicará lo dispuesto en el artículo 348.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
+348 Bis A.- Además de la pena que le corresponda, conforme a los dos artículos anteriores, se aplicarán al sujeto activo de seis meses a cinco años de prisión:
+
+I.- Cuando los plagiarios obren en grupo o banda, compuesta de tres o más personas;
+
+II.- Cuando el secuestrado sea menor de dieciséis años de edad o mayor de sesenta, o cuando presente alguna discapacidad física o mental;
+
+III.- Cuando el Plagiario cause una mutilación física o extraiga alguno de los órganos de su víctima;
+
+IV.- Cuando el plagiario pertenezca o haya pertenecido a cualquier Institución de Seguridad Pública o Privada;
+
+V.- Cuando la secuestrada sea mujer; y
+
+VI.- Cuando el plagiario tenga una relación de confianza o lealtad con el secuestrado.
+
+Si resultare otro delito en perjuicio o agravio de la víctima de secuestro, se estará a las reglas del concurso de delitos.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
+348 Bis B.- Al que realice un acto o actos simulados de secuestro tendentes a engañar a la autoridad o para obtener un lucro o causar un daño a un tercero, se le impondrá de dos a cuatro años de prisión y multa de cincuenta a cien salarios mínimos.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE ABRIL DE 2002)</small>
+
+### CAPITULO III.
+
+Trafico de menores.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
+348 Bis C.- Comete el delito de tráfico de menores de doce años de edad, al que lo prive de la libertad con objeto de obtener un lucro para sí o para un tercero, le extraigan uno a varios de sus órganos; lo integren a otra familia; para prostituirlo o hacerlo intervenir en actividades de pornografía.
+
+Al que cometa este delito se le impondrá la pena de quince a treinta y cinco años de prisión y multa de quinientos a setecientos treinta salarios mínimos.
+
+La misma sanción se aplicará al que reciba y actualice en el menor cualesquiera de los supuestos descritos en el primer párrafo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ABRIL DE 2002)</small>
+
+### CAPITULO IV.
+
+Desaparición forzada de personas.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
+348 Bis D.- Comete el delito de desaparición forzada, quien por orden o con la autorización o apoyo de autoridades del Estado, privare en cualquier forma de la libertad a una o más personas, por motivos políticos, ocultando su paradero, negándose a revelar su destino o reconocer su detención, así como el Servidor Público que ordene, autorice o apoye la desaparición.
+
+Se equipara al delito de desaparición forzada de persona, la ocultación de familiares de víctimas de este delito o nacidos de una madre víctima de desaparición forzada, durante el cautiverio.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
+348 Bis E.- A quien cometa el delito de desaparición forzada de personas, se le impondrá una pena de prisión de cinco a treinta años de prisión y multa de trescientos a setecientos salarios mínimos, así como la inhabilitación por el tiempo de la pena fijada en la sentencia ejecutoriada, para el desempeño de cualquier cargo o empleos públicos.
+
+La pena de prisión podrá ser disminuida hasta en una tercera parte en beneficio de aquel que hubiere participado en la comisión del delito, cuando administre información que permita esclarecer los hechos; y hasta en una mitad, cuando contribuya a lograr la aparición con vida de la víctima.
+
+El Estado y los municipios serán solidariamente responsables del pago de los daños y perjuicios causados por sus servidores públicos.
+
+TITULO DECIMONOVENO.
+
+Delitos en contra de las personas en su patrimonio.
+
 ### CAPITULO I.
 
 Robo.
@@ -4889,6 +5023,12 @@ II.- De cinco a doce años de prisión y de doscientos a quinientos días multa,
 
 389.- Los daños se perseguirán por querella, excepto los previstos en el artículo 388.
 
+## TITULO DECIMO OCTAVO (SIC).
+
+Delitos contra la libertad y violación de otras garantías.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
 ### CAPITULO I.
 
 Delitos contra la Legitimidad de las Elecciones.
@@ -5101,54 +5241,6 @@ En todos los casos previstos en los dos artículos precedentes, el Ministerio P�
 
 ARTICULOS TRANSITORIOS:
 
-## TITULO DECIMO OCTAVO (SIC).
-
-Privación ilegal de la libertad y violación de otras garantías.
-
-346.- Se aplicarán la pena de prisión de tres meses a cinco años y multa de cien a quinientos pesos:
-
-I.- Al que sin orden de autoridad competente, siendo un particular y fuera de los casos previstos por la Ley, arreste o detenga a otro en una cárcel privada o en otro lugar, hasta por tres días. Si la detención arbitraria excede de ese término, la sanción será de un mes por cada día de la detención;
-
-II.- Al que de alguna manera viole, con perjuicio de otros los derechos y garantías establecidos por la Constitución Federal y la del Estado en favor de las personas.
-
-347.- Se impondrán de tres meses a tres años de prisión y multa de cien a quinientos pesos:
-
-I.- Al que obligue a otro a prestarle trabajos o servicios personales, sin la retribución debida, ya sea empleando violencia física o moral, o valiéndose del engaño, de la intimidación o de cualquier otro medio; y
-
-II.- Al que celebre con otro un contrato que prive a éste de la libertad o le imponga condiciones que lo constituyan en una especie de servidumbre, o que se apodere de alguna persona y la entregue a otro con el objeto de que éste celebre dicho contrato.
-
-348.- Se impondrán de diez a treinta años de prisión y multa de mil a cinco mil pesos, cuando la detención arbitraria tenga el carácter de plagio o secuestro, en alguna de las formas siguientes:
-
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
-
-I.- Cuando se trate de obtener rescate;
-
-> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
-
-II.- Cuando se pretenda causar daño perjuicio a la persona secuestrada;
-
-Se causa daño o perjuicio a la persona secuestrada, aun cuando se alegue intención sexual o de contraer matrimonio;
-
-> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
-
-III.- Cuando se trate de causar molestias graves a personas distintas del secuestrado, pero relacionadas con éste;
-
-IV.- Cuando se haga uso de amenazas graves, de maltrato o de tormento;
-
-V.- Cuando la detención se haga en camino público o en paraje solitario;
-
-VI.- Cuando los plagiarios obren en grupo o banda;
-
-VII.- Cuando el robo de infante se cometa en un menor de doce años de edad, por quien sea extraño a su familia, y no ejerza la tutela sobre el menor. Cuando el delito lo comete un familiar del menor que no ejerza sobre él la patria potestad, ni la tutela, la pena será de seis a diez años de prisión;
-
-VIII.- Cuando se detenga en calidad de rehén a una persona y se le amenaza con privarla de la vida o causarle un daño, con el fin de presionar a la autoridad para que realice o deje de realizar un acto de cualquier naturaleza.
-
-Si el plagiario pone en libertad a la persona secuestrada, espontáneamente, antes de tres días y sin causar ningún perjuicio grave, sólo se aplicará la sanción correspondiente a la detención ilegal, de acuerdo con los dos Artículos anteriores. Si resultare perjuicio o daño grave se agregará la pena que corresponda al nuevo delito.
-
-TITULO DECIMONOVENO.
-
-Delitos en contra de las personas en su patrimonio.
-
 ## TITULO VIGESIMO.
 
 Encubrimiento.
@@ -5320,6 +5412,10 @@ P.O. 15 DE SEPTIEMBRE DE 2001.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 1 DE ABRIL DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 10.
 
