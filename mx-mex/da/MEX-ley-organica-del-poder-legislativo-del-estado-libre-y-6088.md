@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2004-01-09"
+last_updated: "2004-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ABRIL DE 2004.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -119,9 +119,11 @@ La Comisión Instaladora recibirá de los organismos electorales correspondiente
 
 La Comisión Instaladora citará a los diputados electos a una junta dentro de los diez días anteriores al inicio del primer período ordinario de la Legislatura entrante.
 
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
 ###### Artículo 17.
 
-A más tardar el 4 de septiembre del año de renovación de la Legislatura, con intervención de la Comisión Instaladora, los diputados electos se reunirán y elegirán mediante votación por cédula y por mayoría de votos a la directiva que fungirá durante el primer mes y que se integrará por un presidente, dos vicepresidentes, dos secretarios y dos prosecretarios.
+A más tardar el 4 de septiembre del año de renovación de la Legislatura, con intervención de la Comisión Instaladora, los diputados electos se reunirán y elegirán mediante votación por cédula y por mayoría de votos a la directiva, que se integrará por un Presidente, dos Vicepresidentes y tres Secretarios. El Presidente fungirá durante todo el período ordinario de sesiones y los demás integrantes serán renovados mensualmente.
 
 ###### Artículo 18.
 
@@ -271,9 +273,11 @@ La Legislatura recibirá en sesión solemne el 5 de septiembre de cada año, el 
 
 La Legislatura recibirá anualmente para su revisión y calificación la cuenta de gastos del Estado, correspondiente al año inmediato anterior, a más tardar el 20 de julio.
 
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
 ###### Artículo 36.
 
-La Legislatura, a petición de dos o más comisiones, podrá acordar que se solicite al Ejecutivo del Estado, informe por escrito o verbalmente, por conducto de quien él designe, sobre asuntos de cualquier ramo de la administración pública estatal.
+La Legislatura, a petición de una o más comisiones, podrá acordar que se solicite al Ejecutivo del Estado, informe por escrito o verbalmente, por conducto de quien él designe, sobre asuntos de cualquier ramo de la administración pública estatal.
 
 ###### Artículo 37.
 
@@ -303,6 +307,8 @@ Corresponde a la Legislatura interpretar y declarar si una resolución suya es l
 
 ### CAPITULO II. DE LA DIRECTIVA DE LA LEGISLATURA
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
+
 ###### Artículo 39.
 
 La Asamblea tendrá competencia plena sobre todos los asuntos y materias que la Constitución Política de los Estados Unidos Mexicanos, la Constitución y otras leyes atribuyan al Poder Legislativo.
@@ -325,7 +331,9 @@ I. La Directiva de la Legislatura;
 
 II. La Diputación Permanente;
 
-III. La Gran Comisión;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+III. La Junta de Coordinación Política;
 
 IV. Las comisiones y los comités.
 
@@ -333,23 +341,27 @@ IV. Las comisiones y los comités.
 
 Los órganos de la Legislatura serán integrados por diputados de diversos grupos parlamentarios.
 
-### CAPITULO IV. DE LA GRAN COMISION
+### CAPITULO IV. DE LA JUNTA DE COORDINACION POLITICA
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 42.
 
-La Directiva de la Legislatura estará integrada por un presidente, dos vicepresidentes, dos secretarios y dos prosecretarios. Los vicepresidentes suplirán en sus faltas alternativamente al presidente; los secretarios a los vicepresidentes, y los prosecretarios, lo harán respecto de los secretarios.
+La Directiva de la Legislatura estará integrada por un presidente, dos vicepresidentes y tres secretarios. Los vicepresidentes suplirán en sus faltas alternativamente al presidente y los secretarios a los vicepresidentes.
 
-Los integrantes de la Directiva se elegirán mensualmente en votación secreta y no podrán ser electos para ocupar igual cargo u otro durante el mismo período. Las mismas disposiciones regirán en la elección de la directiva de los períodos extraordinarios.
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+El Presidente será electo para todo el periodo ordinario de sesiones, los demás integrantes de la Directiva serán electos mensualmente. La elección se llevará a cabo mediante votación secreta. El Presidente fungirá en su encargo por todo el peíodo ordinario de sesiones, los demás integrantes fungirán por un mes. El Presidente no podrá ser electo para ocupar igual cargo durante el período de sesiones siguiente. Las mismas disposiciones regirán en la elección de la directiva de los períodos extraordinarios.
 
 El Presidente de la Directiva, lo será también de la Legislatura.
 
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
 ###### Artículo 43.
 
-Los integrantes de la directiva que presidirán la Legislatura en el mes de inicio de los períodos ordinarios o extraordinarios, serán electos en junta dentro de los siete días anteriores al inicio del período; en el supuesto de que la junta no pudiere realizarse, podrán elegirse el primer día del período respectivo.
+Los integrantes de la Directiva que presidirán la Legislatura al inicio de los periodos ordinarios o extraordinarios, serán electos en junta dentro de los siete días anteriores al inicio del periodo; en el supuesto de que la junta no pudiere realizarse, podrán elegirse, en junta el primer día del periodo respectivo, antes de la primera sesión.
 
-Cada mes en la fecha en que se hubieren abierto las sesiones iniciará su gestión la nueva directiva, para lo cual deberá ser elegida dentro de los siete días anteriores, o bien, en la primera sesión del mes en el que deba fungir.
+Cada mes en la fecha en que se hubieren abierto las sesiones iniciarán su gestión los Vicepresidentes y los Secretarios, para lo cual deberán ser elegidos dentro de los siete días anteriores, o bien, en la primera sesión del mes en el que deban fungir.
 
 ###### Artículo 44.
 
@@ -362,6 +374,14 @@ Los integrantes de la directiva desempeñarán sus funciones conforme a lo dispu
 ###### Artículo 46.
 
 Corresponde a la directiva, bajo la autoridad del presidente, vigilar la buena marcha del trabajo legislativo, aplicando con imparcialidad las disposiciones de la ley y el reglamento.
+
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+Cuando el Presidente no convoque a sesión en términos de la Ley y el Reglamento, podrá convocar la directiva por acuerdo de la mayoría de sus integrantes.
+
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+La Asamblea podrá, en su caso, proceder de acuerdo al artículo 48 de esta Ley.
 
 ###### Artículo 47.
 
@@ -377,11 +397,15 @@ IV. Abrir, suspender, declarar recesos y levantar las sesiones;
 
 V. Citar a sesión;
 
-VI. Integrar el orden del día, dándolo a conocer a los diputados;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+VI. Integrar el orden del día, dándolo a conocer a los diputados, con base en el acuerdo emitido previamente por la Conferencia para la Dirección y Programación de los Trabajos Legislativos;
 
 VII. Conducir los debates y deliberaciones;
 
-VIII. Acordar el trámite de los asuntos que se sometan a la consideración de la Legislatura;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+VIII. Acordar el trámite de los asuntos que se sometan a la consideración de la Legislatura, con base en el acuerdo tomado por la Conferencia para la Dirección y Programación de los Trabajos Legislativos, cuando así proceda;
 
 IX. Someter a discusión los dictámenes que presenten las comisiones;
 
@@ -419,9 +443,11 @@ XX. Adoptar las decisiones y medidas que se requieran para la organización y bu
 
 XXI. Las demás que se deriven de la Constitución, la ley, el reglamento o de las disposiciones o acuerdos que emita la Asamblea.
 
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
 ###### Artículo 48.
 
-El Presidente de la Legislatura podrá ser removido por la Asamblea cuando de manera reiterada quebrante las disposiciones de la ley; para ello se requiere que algún diputado presente moción fundada y motivada en ese sentido. Se escuchará a un orador en contra si lo hubiere, luego de lo cual la Asamblea resolverá si se turna o no a discusión; de ser afirmativa, se escuchará a dos oradores en pro y dos en contra y se someterá a votación nominal. Para que la remoción sea aprobada, se requiere del voto de las dos terceras partes de los diputados presentes.
+El Presidente de la Legislatura podrá ser removido por la Asamblea cuando quebrante las disposiciones de la ley; para ello se requiere que algún diputado presente moción fundada y motivada en ese sentido. Se escuchará a un orador en contra si lo hubiere, luego de lo cual la Asamblea resolverá si se turna o no a discusión; de ser afirmativa, se escuchará a dos oradores en pro y dos en contra y se someterá a votación nominal. Para que la remoción sea aprobada, se requiere del voto de las dos terceras partes de los diputados presentes.
 
 ###### Artículo 49.
 
@@ -467,15 +493,21 @@ XV. Las demás que se deriven de las disposiciones legales o acuerdos de la Asam
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
-Artículo 67 BIS.- Un Grupo Parlamentario es el conjunto de diputados integrados según su filiación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas en la Legislatura.
+###### Artículo 67 Bis.
+
+Un Grupo Parlamentario es el conjunto de diputados integrados según su filiación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas en la Legislatura.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
-Artículo 67 BIS-1.- Cada Grupo Parlamentario se integrará por lo menos con dos diputados y solo podrá haber uno por cada partido político que cuente con diputados en la Legislatura.
+###### Artículo 67 Bis
+
+1.- Cada Grupo Parlamentario se integrará por lo menos con dos diputados y solo podrá haber uno por cada partido político que cuente con diputados en la Legislatura.
 
 (ADICIONADO, G.G. 19 DE AGOSTO DEL 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)
 
-Artículo 67 BIS-2.- Previo a la Sesión de Instalación de la Legislatura, cada grupo parlamentario de conformidad con lo que dispone esta ley, entregará al Secretario de Asuntos Parlamentarios la documentación siguiente:
+###### Artículo 67 Bis
+
+2.- Previo a la Sesión de Instalación de la Legislatura, cada grupo parlamentario de conformidad con lo que dispone esta ley, entregará al Secretario de Asuntos Parlamentarios la documentación siguiente:
 
 a) Acta en la que conste la decisión de sus miembros de constituirse en grupo, con especificación del nombre del mismo y lista de sus integrantes;
 
@@ -483,35 +515,51 @@ b) Nombre del diputado que haya sido acreditado por la dirigencia de su partido 
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
-Artículo 67 BIS-3.- El Secretario de Asuntos Parlamentarios hará publicar los documentos constitutivos de los grupos parlamentarios en la Gaceta del Gobierno.
+###### Artículo 67 Bis
+
+3.- El Secretario de Asuntos Parlamentarios hará publicar los documentos constitutivos de los grupos parlamentarios en la Gaceta del Gobierno.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+###### Artículo 67 Bis
+
+4.- El coordinador propondrá a la Junta de Coordinación Política el nombre de los diputados de su Grupo Parlamentario que integrarán las comisiones legislativas y comités y promoverá los entendimientos necesarios para la elección de los integrantes de la Directiva, participando con voz y voto en la Junta de Coordinación Política y, cuando ésta sea erigida en Conferencia para la Dirección y Programación de los Trabajos Legislativos.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
-Artículo 67 BIS-4.- El coordinador propondrá a la Gran Comisión el nombre de los diputados de su Grupo Parlamentario que integrarán las comisiones y comités legislativos y promoverá los entendimientos necesarios para la elección de los integrantes de la Directiva, participando con voz y voto en la Gran Comisión y, cuando ésta sea erigida en Conferencia para la Dirección y Programación de los Trabajos Legislativos.
+###### Artículo 67 Bis
+
+5.- Durante el ejercicio de la Legislatura, cada coordinador del Grupo Parlamentario comunicará a la Directiva las modificaciones que ocurran en la integración de su grupo. Con base en las comunicaciones de los coordinadores de los grupos parlamentarios, el Presidente de la Directiva llevará el registro del número de integrantes de cada uno de ellos y sus modificaciones. Dicho número será actualizado en forma permanente y servirá para los cómputos que se realizan por el sistema de voto ponderado.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
-Artículo 67 BIS-5.- Durante el ejercicio de la Legislatura, cada coordinador del Grupo Parlamentario comunicará a la Directiva las modificaciones que ocurran en la integración de su grupo. Con base en las comunicaciones de los coordinadores de los grupos parlamentarios, el Presidente de la Directiva llevará el registro del número de integrantes de cada uno de ellos y sus modificaciones. Dicho número será actualizado en forma permanente y servirá para los cómputos que se realizan por el sistema de voto ponderado.
+###### Artículo 67 Bis
+
+6.- Los grupos parlamentarios proporcionarán información, asesoría y preparación de los elementos necesarios para articular el trabajo parlamentario de sus miembros.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+###### Artículo 67 Bis
+
+7.- De conformidad con la representación y proporcionalidad de cada Grupo Parlamentario, la Junta de Coordinación Política acordará la asignación de recursos y locales adecuados a cada uno de ellos. Adicionalmente a esas asignaciones, la Junta de Coordinación Política dispondrá el presupuesto para cada Grupo Parlamentario.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
-Artículo 67 BIS-6.- Los grupos parlamentarios proporcionarán información, asesoría y preparación de los elementos necesarios para articular el trabajo parlamentario de sus miembros.
+###### Artículo 67 Bis
 
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS-7.- De conformidad con la representación y proporcionalidad de cada Grupo Parlamentario, la Gran Comisión acordará la asignación de recursos y locales adecuados a cada uno de ellos. Adicionalmente a esas asignaciones, la Gran Comisión dispondrá el presupuesto para cada Grupo Parlamentario.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS-8.- Todas las prerrogativas que no sean dietas serán acordadas y ejercidas a través del Grupo Parlamentario.
+8.- Todas las prerrogativas que no sean dietas serán acordadas y ejercidas a través del Grupo Parlamentario.
 
 (ADICIONADO, G.G. 19 DE AGOSTO DEL 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)
 
-Artículo 67 BIS-9.- El presupuesto anual de los grupos parlamentarios se incorporará a la cuenta pública del Poder Legislativo, para su acreditación administrativa. De dicho documento se remitirá un ejemplar a la Contraloría del Poder Legislativo y a la Contaduría General de Glosa.
+###### Artículo 67 Bis
+
+9.- El presupuesto anual de los grupos parlamentarios se incorporará a la cuenta pública del Poder Legislativo, para su acreditación administrativa. De dicho documento se remitirá un ejemplar a la Contraloría del Poder Legislativo y a la Contaduría General de Glosa.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
-Artículo 67 BIS-10.- Los diputados que no se inscriban o dejen de pertenecer a un Grupo Parlamentario sin integrarse a otro existente, serán considerados como diputados sin partido.
+###### Artículo 67 Bis
+
+10.- Los diputados que no se inscriban o dejen de pertenecer a un Grupo Parlamentario sin integrarse a otro existente, serán considerados como diputados sin partido.
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DEL 2003)</small>
 
@@ -519,9 +567,13 @@ Artículo 67 BIS-10.- Los diputados que no se inscriban o dejen de pertenecer a 
 
 La Diputación Permanente funcionará durante los recesos de la Legislatura, representándola en los términos previstos por la Constitución, la ley y otras disposiciones legales.
 
-> <small>(ADICIONADO, G.G. 11 DE DICIEMBRE DEL 2002)</small>
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
-Durante los recesos las Comisiones de Dictamen y Comités funcionarán cuando el Presidente de la Diputación Permanente les turne para su estudio una iniciativa o asunto.
+Durante los recesos las comisiones legislativas y los comités continuarán funcionando.
+
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+El Presidente de la Diputación Permanente les podrá turnar para su estudio iniciativas o asuntos.
 
 ###### Artículo 52.
 
@@ -555,7 +607,9 @@ V. Convocar a los presidentes de las comisiones correspondientes para la integra
 
 VI. Despachar la correspondencia oficial de la Legislatura;
 
-VII. Formar comisiones para el despacho de los asuntos de su competencia;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+VII. Turnar a las Comisiones Legislativas y Comités, por conducto de su presidente, los asuntos de su competencia o, en su caso, formar las Comisiones Especiales para su despacho;
 
 VIII. Las demás que le confieran la Constitución, la ley y otros ordenamientos.
 
@@ -577,27 +631,33 @@ En la segunda sesión de los períodos ordinarios, se dará cuenta con los dict�
 
 En el ejercicio de sus funciones, la Directiva de la Diputación Permanente observará en lo conducente las normas que rigen para la Directiva de la Legislatura.
 
+> <small>(REFORMADA SU DENOMINACION, G.G. 30 DE ABRIL DE 2004)</small>
+
 ### CAPITULO VI. DE LAS COMISIONES Y COMITÉS
 
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 ###### Artículo 60.
 
-La Gran Comisión se constituye como el órgano colegiado facultado para desempeñar la tarea de concertación política de las fuerzas representadas en el Poder Legislativo.
+La Junta de Coordinación Política se constituye como el órgano colegiado facultado para desempeñar la tarea de concertación política de las fuerzas representadas en el Poder Legislativo.
 
-La Gran Comisión funcionará para todo el ejercicio constitucional y estará integrada por los coordinadores de los grupos parlamentarios reconocidos y autorizados en términos de esta ley, los cuales gozarán de voz y voto ponderado a su representación proporcional dentro de la Cámara.
+La Junta de Coordinación Política funcionará para todo el ejercicio constitucional y estará integrada por los coordinadores de los grupos parlamentarios reconocidos y autorizados en términos de esta ley, los cuales gozarán de voz y voto ponderado de acuerdo con el número de legisladores que integran el grupo parlamentario que representan. Para su organización interna contará con un Presidente y un Secretario, los demás integrantes fungirán como vocales.
 
-La Gran Comisión propondrá la integración de las comisiones y comités a la aprobación de la Asamblea.
+La Junta de Coordinación Política propondrá la integración de las comisiones y comités a la aprobación de la Asamblea.
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+La Junta de Coordinación Política contará para su buen funcionamiento con un Secretario Técnico nombrado por el Presidente de dicha Junta.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 61.
 
-El Presidente y el Secretario durarán un año, al término del cual, la Asamblea elegirá, en la segunda sesión ordinaria del primer periodo de sesiones del año que corresponda, de entre los integrantes de la Gran Comisión a quienes deberán ocupar dichos cargos.
+El Presidente y el Secretario durarán un año, al término del cual, la Asamblea elegirá, en la segunda sesión ordinaria del primer periodo de sesiones del año que corresponda, de entre los integrantes de la Junta de Coordinación Política a quienes deberán ocupar dichos cargos.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 62.
 
-Son atribuciones de la Gran Comisión:
+Son atribuciones de la Junta de Coordinación Política:
 
 I.- Proponer a la Asamblea los integrantes de las comisiones y de los comités, así como su sustitución cuando exista causa justificada para ello;
 
@@ -607,7 +667,9 @@ II. Proponer a la Asamblea la integración de nuevas comisiones legislativas, es
 
 III.- Apoyar en el desarrollo de sus trabajos a las comisiones y comités;
 
-IV.- Supervisar la edición del Diario de Debates;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+IV. Supervisar la edición del "Diario de Debates" y de la "Gaceta Parlamentaria";
 
 > <small>(REFORMADA, G.G. 19 DE AGOSTO DEL 2003)</small>
 
@@ -621,19 +683,33 @@ VIII.- Conocer y resolver sobre las responsabilidades administrativas en que inc
 
 IX.- Conocer y resolver sobre las responsabilidades administrativas en que incurran los servidores públicos del Poder Legislativo y los integrantes de los ayuntamientos de los municipios de la entidad, por el incumplimiento de las obligaciones que señala la ley de la materia, pudiendo delegar tales funciones a la Contraloría, tratándose de los servidores públicos del Poder Legislativo que no sean de elección popular;
 
-X.- Las demás que le confieran la ley, el reglamento o la Asamblea.
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+X. Presentar a la Directiva y al Pleno puntos de acuerdo, pronunciamientos y declaraciones de la Legislatura que entrañen una posición política del órgano colegiado;
 
-Artículo 62 BIS.- La Gran Comisión se constituirá en Conferencia para la Dirección y Programación de los Trabajos Legislativos, con la finalidad de desarrollar ordenadamente el trabajo de los legisladores. Se integrará con los miembros de la Gran Comisión y con el Presidente de la Directiva que tendrá voz pero sin voto.
+> <small>(ADICIONADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-A sus reuniones podrán ser convocados los presidentes de las comisiones legislativas, cuando exista un asunto de su competencia con voz pero sin voto.
+XI. Las demás que le confieran la ley, el reglamento o la Asamblea.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
+
+###### Artículo 62 Bis.
+
+La Conferencia para la Dirección y Programación de los Trabajos Legislativos se integrará con los miembros de la Junta de Coordinación Política y el Presidente y un Secretario de la Directiva, con la finalidad de desarrollar ordenadamente el trabajo de la Legislatura.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+La Conferencia para la Dirección y Programación de los Trabajos legislativos deberá sesionar de forma previa a cada sesión del Pleno de la Legislatura y a sus reuniones podrán ser convocados los Presidentes de las comisiones legislativas, cuando exista un asunto de su competencia con voz pero sin voto.
 
 La Conferencia para la Dirección y Programación de los Trabajos Legislativos estará sujeta a las siguientes reglas:
 
-1. El Presidente de la Gran Comisión presidirá la Conferencia para la Dirección y Programación de los Trabajos Legislativos y supervisará el cumplimiento de sus acuerdos a través de la Secretaría de Asuntos Parlamentarios.
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
-2. La Conferencia para la Dirección y Programación de los Trabajos Legislativos deberá sesionar por lo menos cada 15 días en periodos ordinarios de sesiones y cuando así lo determine durante los recesos; en ambos casos, a convocatoria de su Presidente o a solicitud de por lo menos la mitad mas uno de los coordinadores de los grupos parlamentarios.
+1. El Presidente de la Junta de Coordinación Política presidirá la Conferencia para la Dirección y Programación de los Trabajos Legislativos y supervisará el cumplimiento de sus acuerdos a través de la Secretaría de Asuntos Parlamentarios.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+2. En cada una de sus sesiones, la Conferencia para la Dirección y Programación de los Trabajos Legislativos, deberá determinar los puntos a tratar en el orden del día de la sesión de la Legislatura, en su caso, la propuesta de turno a la comisión o comisiones que corresponda a cada uno de los puntos a tratar en dicho orden del día, proponer a la Legislatura o a la Diputación Permanente la dispensa de trámite de las iniciativas de ley o decreto, establecer los formatos de debate y los calendarios para el examen de los dictámenes por parte del Pleno de la Legislatura.
 
 3. La Conferencia para la Dirección y Programación de los Trabajos Legislativos adoptará sus resoluciones por consenso; en caso de no alcanzarse éste, se tomarán por mayoría absoluta mediante el sistema de voto ponderado de los coordinadores de los grupos parlamentarios. El Presidente tendrá voto de calidad en caso de empate.
 
@@ -641,13 +717,33 @@ La Conferencia para la Dirección y Programación de los Trabajos Legislativos e
 
 4. El Secretario de Asuntos Parlamentarios del Poder Legislativo actuará como secretario técnico de la Conferencia para la Dirección y Programación de los Trabajos Legislativos, quien asistirá a las reuniones con voz pero sin voto, preparará los documentos necesarios, levantará el acta correspondiente y llevará el registro y seguimiento de los acuerdos.
 
-La Conferencia para la Dirección y Programación de los Trabajos Legislativos tendrá las atribuciones que le marque esta ley y las que le señale la Gran Comisión.
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+La Conferencia para la Dirección y Programación de los Trabajos Legislativos tendrá las atribuciones que le marque esta ley y las que le señale la Junta de Coordinación Política.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 63.
 
-La Gran Comisión se reunirá por lo menos una vez al mes para tratar los asuntos de su competencia. Para que las resoluciones sean válidas deberán estar por lo menos la mitad más uno de los coordinadores de los grupos parlamentarios, entre quienes deberá estar el Presidente en turno. Sus acuerdos se tomarán por mayoría de votos, en función de la proporcionalidad representativa de los coordinadores de los grupos parlamentarios presentes.
+La Junta de Coordinación Política se reunirá por lo menos una vez al mes para tratar los asuntos de su competencia. Para que sus resoluciones sean válidas, deberán estar por lo menos la mitad mas uno de los coordinadores de los grupos parlamentarios, entre quienes deberá estar el Presidente en turno. Sus acuerdos se tomarán por mayoría de votos, en función de la proporcionalidad representativa de los coordinadores de los grupos parlamentarios presentes.
+
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+###### Artículo 63 Bis.
+
+El Presidente de la Junta de Coordinación Política, designará un secretario técnico que tendrá las atribuciones siguientes:
+
+I. Asistir a las reuniones de la Junta de Coordinación Política;
+
+II. Integrar el orden del día de las reuniones de la Junta de Coordinación Política, de acuerdo con la instrucción del Presidente;
+
+III. Elaborar las minutas de las reuniones de la Junta de Coordinación Política;
+
+IV. Dar seguimiento a los acuerdos emitidos por la Junta de Coordinación Política; y
+
+V. Las demás que determine el Presidente y la Junta de Coordinación Política.
+
+En cualquier momento el Presidente de la Junta de Coordinación Política podrá remover al Secretario Técnico, cuando así proceda.
 
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
@@ -655,27 +751,43 @@ La Gran Comisión se reunirá por lo menos una vez al mes para tratar los asunto
 
 En las faltas temporales del Presidente, lo sustituirá el secretario. Las faltas temporales del Secretario serán cubiertas por los vocales en su orden.
 
-En los casos en que los titulares se ausenten de manera definitiva, serán sustituidos ante la Gran Comisión por los coordinadores de los Grupos Parlamentarios respectivos, según la afiliación del diputado que corresponda.
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+En los casos en que los titulares se ausenten de manera definitiva, serán sustituidos ante la Junta de Coordinación Política por los coordinadores de los Grupos Parlamentarios respectivos, según la afiliación del diputado que corresponda.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 65.
 
-Son atribuciones del Presidente de la Gran Comisión:
+Son atribuciones del Presidente de la Junta de Coordinación Política:
 
-I. Coordinar las funciones de la Gran Comisión;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-II. Convocar a sesiones de la Gran Comisión;
+I. Coordinar las funciones de la Junta de Coordinación Política;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+II. Convocar a sesiones de la Junta de Coordinación Política;
 
 III. Conducir las relaciones con los otros poderes del Estado, con los poderes federales, con los gobiernos de los demás estados de la federación y con los ayuntamientos de los municipios de la entidad;
 
-IV. Ejecutar las resoluciones y acuerdos de la Gran Comisión, proveyendo a su exacta observancia;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-V. Proponer a la Gran Comisión, la integración de las comisiones y comités de la Legislatura, así como la sustitución de sus miembros;
+IV. Ejecutar las resoluciones y acuerdos de la Junta de Coordinación Política, proveyendo a su exacta observancia;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+V. Proponer a la Junta de Coordinación Política, la integración de las comisiones y comités de la Legislatura, así como la sustitución de sus miembros;
 
 VI. Dirigir, coordinar, supervisar y evaluar la organización administrativa de la Legislatura;
 
-VII. Proponer a la Gran Comisión la creación de las unidades administrativas que sean necesarias;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-VIII. Formular a la Gran Comisión las propuestas que deban ser sometidas a la Asamblea para nombrar a los servidores públicos del Poder Legislativo cuya designación este reservada a ésta;
+VII. Proponer a la Junta de Coordinación Política la creación de las unidades administrativas que sean necesarias;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+VIII. Formular a la Junta de Coordinación Política las propuestas que deban ser sometidas a la Asamblea para nombrar a los servidores públicos del Poder Legislativo cuya designación esté reservada a ésta;
 
 IX. Expedir los nombramientos de los servidores públicos del Poder Legislativo, designados por la Asamblea;
 
@@ -683,11 +795,17 @@ X. Nombrar y remover al personal de la Legislatura en los casos que no sea compe
 
 XI. Representar al Poder Legislativo ante el Instituto de Seguridad Social de los Servidores Públicos del Estado;
 
-XII. Suscribir, con autorización de la Gran Comisión, las operaciones y convenios financieros y crediticios con instituciones, organismos o dependencias, públicas o privadas;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-XIII. Administrar el presupuesto de egresos de la Legislatura, tomando en cuenta las opiniones del Comité de Administración y de la Gran Comisión;
+XII. Suscribir, con autorización de la Junta de Coordinación Política, las operaciones y convenios financieros y crediticios con instituciones, organismos o dependencias, públicas o privadas;
 
-XIV. Informar anualmente a la Asamblea de las actividades de la Gran Comisión;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+XIII. Administrar el presupuesto de egresos de la Legislatura, tomando en cuenta las opiniones del Comité de Administración y de la Junta de Coordinación Política;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+XIV. Informar anualmente a la Asamblea de las actividades de la Junta de Coordinación Política;
 
 > <small>(ADICIONADA, G.G. 19 DE AGOSTO DEL 2003)</small>
 
@@ -697,19 +815,23 @@ XV. Emitir la convocatoria para la selección de secretarios técnicos, misma qu
 
 El proceso de selección de candidatos a secretarios técnicos se realizará conforme al procedimiento señalado en el reglamento.
 
-> <small>(REFORMADA, G.G. 19 DE AGOSTO DEL 2003)</small>
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-XVI. Las demás que le confieran la ley, otras disposiciones legales, la Asamblea o la Gran Comisión.
+XVI. Las demás que le confieran la ley, otras disposiciones legales, la Asamblea o la Junta de Coordinación Política.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 66.
 
-Son atribuciones del Secretario de la Gran Comisión:
+Son atribuciones del Secretario de la Junta de Coordinación Política:
 
 I. Citar a sesión a los diputados que la integran, por acuerdo del presidente;
 
 II. Registrar la asistencia a las sesiones y verificar el quórum;
 
-III. Asentar en actas los acuerdos tomados por la Gran Comisión y firmarlos, junto con el presidente;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+III. Asentar en actas los acuerdos tomados por la Junta de Coordinación Política y firmarlos, junto con el presidente;
 
 IV. Informar al presidente de la documentación recibida;
 
@@ -723,7 +845,9 @@ Son atribuciones de los vocales:
 
 I. Auxiliar al secretario en el despacho de los asuntos a su cargo;
 
-II. Las que les encomiende la Gran Comisión o su presidente.
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+II. Las que les encomiende la Junta de Coordinación Política o su Presidente.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE AGOSTO DEL 2003)</small>
 
@@ -737,65 +861,117 @@ II. Las que les encomiende la Gran Comisión o su presidente.
 
 La Legislatura para el ejercicio de sus funciones, contará con comisiones legislativas, especiales, jurisdiccionales y comités. En el reglamento se regulará la organización y funcionamiento de dichos órganos.
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 69.
 
-A más tardar, en la tercera sesión del primer período de sesiones ordinarias, a propuesta de la Gran Comisión y mediante votación económica, la Asamblea aprobará para todo el ejercicio constitucional, la integración de las comisiones legislativas siguientes:
+A más tardar, en la tercera sesión del primer periodo de sesiones ordinarias, a propuesta de la Junta de Coordinación Política y mediante votación económica, la Asamblea aprobará para todo el ejercicio constitucional la integración de las Comisiones Legislativas siguientes:
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 - Gobernación y Puntos Constitucionales
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
 - Legislación y Administración Municipal
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 - Procuración y Administración de Justicia
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
 - Planificación y Finanzas Públicas
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 - Trabajo, Previsión y Seguridad Social
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
 - Educación, Cultura, Ciencia y Tecnología
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 - Desarrollo Urbano
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
 - Planificación Demográfica
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 - Desarrollo Agropecuario y Forestal
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
 - Protección Ambiental
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 - Desarrollo Económico, Industrial, Comercial y Minero
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
 - Comunicaciones y Transportes
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 - Derechos Humanos
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
 - Salud, Asistencia y Bienestar Social
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 - Seguridad Pública y Tránsito
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
 - Asuntos Electorales
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 - Patrimonio Estatal y Municipal
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
 - Desarrollo Turístico y Artesanal
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 - Asuntos Metropolitanos
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
 - Inspección de la Contaduría General de Glosa
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 - Asuntos Indígenas
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
 - Protección Civil
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 - Para la Protección e Integración al Desarrollo de las Personas con Discapacidad
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
 - Seguimiento de Programas de Apoyo Social del Estado y Municipios del Estado de México
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 - De Límites Territoriales del Estado de México y sus Municipios
 
 > <small>(ADICIONADO, G.G. 23 DE OCTUBRE DE 2003)</small>
 
 - Equidad y Género
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 La Asamblea podrá determinar la creación de otras comisiones legislativas, así como fijar el número de sus integrantes, de acuerdo con las necesidades institucionales de la Legislatura.
 
@@ -818,6 +994,10 @@ Los diputados podrán ser miembros de hasta cuatro comisiones legislativas y de 
 ###### Artículo 72.
 
 Las comisiones legislativas tendrán como funciones estudiar y analizar los proyectos de ley o decreto y los asuntos que les sean turnados con el objeto de elaborar los dictámenes o informes, debiendo dar cuenta de ellos al Presidente de la Legislatura en los plazos establecidos por la ley y el reglamento.
+
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+Para el cumplimiento de esta función el pleno de cada Comisión Legislativa podrá constituir subcomisiones de trabajo con el objeto de agilizar y especializar la labor de dictaminación.
 
 ###### Artículo 73.
 
@@ -863,6 +1043,14 @@ Los comités se integrarán en forma similar a las comisiones legislativas y só
 
 > <small>(DEROGADO ULTIMO PARRAFO, G.G. 9 DE ENERO DE 2004)</small>
 
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+Artículo 76 BIS.- Son atribuciones del Comité de Administración:
+
+I. Conocer y opinar sobre las transferencias y ampliaciones presupuestales que se requieran para el mejor funcionamiento de la Legislatura;
+
+II. Vigilar que se ejerza el presupuesto de acuerdo a la programación y calendarización aprobadas.
+
 ###### Artículo 77.
 
 Los integrantes de las comisiones o comités sólo podrán ser sustituidos por causa justificada mediante determinación de la Asamblea, de conformidad con lo previsto en el reglamento.
@@ -887,9 +1075,9 @@ Las iniciativas de ley o decreto, o cualquier otra propuesta dictaminada como no
 
 Las iniciativas de ley o decreto deberán cubrir los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DEL 2003)</small>
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-I. Presentarse por escrito, firmadas por él o sus autores y serán entregadas a la Secretaría de Asuntos Parlamentarios, a la Secretaría de la Legislatura o de la Diputación Permanente, la Presidencia de la Gran Comisión, o a quien esté legitimado para ello;
+I. Presentarse por escrito, firmadas por él o sus autores y serán entregadas a la Presidencia de la Legislatura o de la Diputación Permanente, por conducto de la Secretaría de Asuntos Parlamentarios;
 
 II. Contener exposición de motivos, en la que se expresará el objeto, utilidad, oportunidad y demás elementos que las sustenten y de ser posible, las consideraciones jurídicas que las fundamenten;
 
@@ -905,9 +1093,11 @@ Ninguna iniciativa podrá discutirse sin que primero pase a las comisiones corre
 
 Tratándose de asuntos calificados como urgentes o de obvia resolución, la Legislatura o la Diputación Permanente podrá acordar la dispensa de trámites, excepto el de votación.
 
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
 ###### Artículo 84.
 
-Las comisiones a las que sean remitidas las iniciativas o asuntos presentados a la Legislatura, harán llegar su dictamen al Presidente dentro de los quince días siguientes de haberlas recibido, para el efecto de su presentación a la Asamblea; si esto no fuere posible, deberán solicitar a la Presidencia una prórroga que les será concedida hasta por igual término y por una sola vez, salvo que por acuerdo de la Asamblea se les conceda un plazo mayor. Si en el plazo señalado no presentan el dictamen, el Presidente nombrará una comisión especial para que dictamine en el término improrrogable de 10 días. Cuando las leyes establezcan plazos, las comisiones se sujetarán a ellos.
+La Comisión o Comisiones a las que sean remitidas las iniciativas o asuntos presentados a la Legislatura, harán llegar su dictamen al Presidente dentro de los treinta días hábiles siguientes de haberlas recibido, para el efecto de su presentación a la Asamblea; si esto no fuere posible, deberán solicitar a la Presidencia una prórroga que les será concedida hasta por igual término y por una sola vez, salvo que por acuerdo de la Asamblea se les conceda un plazo mayor. Si en el plazo señalado no presentan el dictamen, el Presidente nombrará una comisión especial para que dictamine en el término improrrogable de 10 días. Cuando las leyes establezcan plazos, las Comisiones se sujetarán a ellos.
 
 ###### Artículo 85.
 
@@ -995,7 +1185,13 @@ Para el control, fiscalización, revisión y calificación del ingreso y del gas
 
 Las atribuciones y funcionamiento de la Secretaría de Asuntos Parlamentarios, la Contraloría, la Secretaría de Administración y Finanzas, la Dirección General de Comunicación Social y el Instituto de Estudios Legislativos, serán regulados por el Reglamento correspondiente.
 
-La organización administrativa de las dependencias será acordada por la Gran Comisión a propuesta de su presidente.
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+Los titulares de estas dependencias podrán durar en su encargo el ejercicio constitucional de la Legislatura, concluido éste, tendrán que ser electos los nuevos titulares o ratificados los anteriores durante los dos primeros meses del primer periodo ordinario de sesiones de la nueva Legislatura.
+
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+La organización administrativa de las dependencias será acordada por la Junta de Coordinación Política a propuesta de su Presidente.
 
 ### CAPITULO UNICO. DE LA COMISION DE INSTRUCCIÓN Y DICTAMEN
 
@@ -1039,11 +1235,11 @@ SUSPENSION O REVOCACION DEL MANDATO DE SUS MIEMBROS
 
 Para los casos de suspensión de ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato de alguno de sus miembros, se integrará la Comisión de Instrucción y Dictamen.
 
-(REFORMADO, P.O. 19 DE AGOSTO DE 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 104.
 
-La Comisión de Instrucción y Dictamen se integrará por seis diputados que serán dos de la Gran Comisión, los presidentes de las comisiones de Gobernación y Puntos Constitucionales, Procuración y Administración de Justicia, un diputado de la primera minoría y uno de la segunda a propuesta de los grupos parlamentarios respectivos.
+La Comisión de Instrucción y Dictamen se integrará por seis diputados que serán dos de la Junta de Coordinación Política, los Presidentes de las comisiones de Gobernación y Puntos Constitucionales, y de Procuración y Administración de Justicia, un diputado de la primera minoría y uno de la segunda a propuesta de los grupos parlamentarios respectivos.
 
 ###### Artículo 105.
 
@@ -1190,3 +1386,17 @@ G.G. 9 DE ENERO DE 2004.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor el día siguiente de su publicación.
+
+G.G. 30 DE ABRIL DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en otros ordenamientos legales, reglamentarios y demás disposiciones, se señalen funciones y atribuciones de "la Gran Comisión", o se haga referencia a la misma, se entenderá que corresponden a "la Junta de Coordinación Política".
+
+CUARTO.- La Gaceta Parlamentaria establecida en el presente Decreto, es de naturaleza distinta a la señalada en el Reglamento Interno del Instituto de Estudios Legislativos del Poder Legislativo. Para evitar confusiones, en el próximo periodo ordinario de sesiones de la Legislatura, se modificará la denominación de la editada por el Instituto de Estudios Legislativos.
+
+QUINTO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+SEXTO.- Las disposiciones concernientes a la integración y periodo de duración de la Directiva, así como a la denominación del órgano Junta de Coordinación Política serán vigentes hasta en tanto entren en vigor las reformas a la Constitución Política del Estado Libre y Soberano de México, aprobadas por esta Legislatura.
