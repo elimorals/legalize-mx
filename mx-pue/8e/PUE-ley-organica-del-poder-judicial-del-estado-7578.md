@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-7578"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1987-01-06"
-last_updated: "1987-01-06"
+last_updated: "1992-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1992.
 
 Ley Publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla el martes 6 de enero de 1987.
 
@@ -611,11 +611,15 @@ En los Juzgados donde haya dos Secretarios la suplencia la hará el que designe 
 
 En caso de falta absoluta se procederá a nuevo nombramiento.
 
-II.- En los casos de inhibición por excusa o recusación de un Juez de lo Civil de la Capital del Estado, el asunto pasará al de igual categoría de la misma jurisdicción, en el orden numérico que corresponda.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 1992)</small>
+
+II.- En los casos de inhibición por excusa o recusación de un Juez de lo Civil de la Capital del Estado o de un Juez de lo Civil Foráneo, en cuyo Distrito Judicial existan dos o mas juzgados, el asunto pasará al de igual categoría de la misma jurisdicción, en el orden numérico que corresponda.
 
 Cuando cambie el Juez que primeramente conoció del negocio y se inhiba el que este conociendo del mismo, se remitirá el expediente a aquel, para su continuación.
 
-En los casos de inhibición por excusa o recusación, de los Jueces de lo Civil foráneos, conocerá del asunto el Juez de lo Civil del distrito judicial más cercano. Cuando el asunto deba pasar al distrito judicial de Puebla, conocerá del mismo el Juez de lo Civil que corresponda, por turno que llevará el Presidente del Tribunal Superior. Si el asunto es del orden familiar, conocerá de él, el Juez de lo Familiar en turno.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1992)</small>
+
+En los casos de inhibición por excusa o recusación, de los Jueces de lo Civil foráneos, en donde existan uno, dos o más que ya se hubiesen inhibido, conocerá del asunto el Juez de lo Civil del Distrito Judicial más cercano. Cuando el asunto deba pasar al Distrito Judicial de Puebla, conocerá del mismo el Juez de lo Civil que corresponda, por turno que llevará el Presidente del Tribunal Superior de Justicia del Estado. Si el asunto es del orden familiar, conocerá de él, el Juez de lo Familiar en turno.
 
 III.- En los casos de inhibición por excusa o recusación de un Juez de lo Familiar de la Capital, el asunto pasará al que le siga en número; en defecto de éstos, a los Jueces de lo Civil de la Capital.
 
@@ -1672,3 +1676,9 @@ Lo mismo se observará respecto de los asuntos en trámite, de los Juzgados Meno
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza a los 23 días del mes de Diciembre de 1986- Diputado Presidente.- Profr. Neftalí Dante Nolasco Hernández.- Rúbrica.- Diputado Secretario.- Profr. Javier Steffanoni Dossetti.- Rúbrica.- Diputado Secretario.- Teodoro Ortega García.- Rúbrica.
 
 Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintitrés días del mes de Diciembre de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado.- Lic. Guillermo Jiménez Morales.- Rúbrica.- El Secretario de Gobernación.- Lic. Humberto Gutiérrez Manzano.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE JULIO DE 1992.
+
+TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
