@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "1999-05-18"
+last_updated: "2000-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 2000.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -1781,7 +1781,9 @@ I. Del Código Penal para el Distrito Federal en Materia de Fuero Común y para 
 
 12) Contra la salud, previsto en los artículos 194, 195, párrafo primero, 195 Bis, excepto cuando se trate de los casos previstos en las dos primeras líneas horizontales de las tablas contenidas en el apéndice I, 196 Bis, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero;
 
-13) Corrupción de menores o incapaces, previsto en el artículo 201;
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2000)</small>
+
+13) Corrupción de menores o incapaces, previsto en el artículo 201; y pornografía infantil, previsto en el artículo 201 bis;
 
 14) Los previstos en el artículo 205, segundo párrafo;
 
@@ -4666,3 +4668,7 @@ D.O.F. 18 DE MAYO DE 1999.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las menciones que en otras disposiciones de carácter federal se hagan al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se entenderán referidas al Código Penal Federal.
+
+D.O.F. 4 DE ENERO DE 2000.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
