@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2004-10-29"
+last_updated: "2004-12-17"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE DICIEMBRE DE 2004.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -709,13 +709,15 @@ Los juzgados de distrito en el Estado de Baja California, con residencia en Tiju
 
 Los juzgados de distrito en el Estado de Baja California, con residencia en Ensenada, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio del mismo nombre.
 
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL 75/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F.17 DE DICIEMBRE DE 2004)</small>
+
 XVI.- DECIMOSEXTO CIRCUITO:
 
-Los juzgados de distrito en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Allende, Atarjea, Cuerámaro, Doctor Mora, Dolores Hidalgo, Guanajuato, Huanímaro, Irapuato, Pénjamo, Pueblo Nuevo, Romita, Salamanca, San Diego de la Unión, San José Iturbide, San Luis de la Paz, Santa Catarina, Silao, Tierra Blanca, Victoria y Xichú.
+Los juzgados de Distrito en el estado de Guanajuato, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Allende, Atarjea, Cuerámaro, Doctor Mora, Dolores Hidalgo, Guanajuato, Huanímaro, Irapuato, Pueblo Nuevo, Romita, San Diego de la Unión, San José Iturbide, San Luis de la Paz, Santa Catarina, Tierra Blanca, Victoria y Xichú.
 
-Los juzgados de distrito en el Estado de Guanajuato, con sede en León, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Manuel Doblado, León, Ocampo, Purísima del Rincón, San Felipe y San Francisco del Rincón.
+Los juzgados de Distrito en el estado de Guanajuato, con sede en León, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Manuel Doblado, León, Ocampo, Pénjamo, Purísima del Rincón, San Felipe, San Francisco del Rincón y Silao.
 
-Los juzgados de distrito en el Estado de Guanajuato, con residencia en Celaya, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Comonfort, Coroneo, Cortázar, Jaral del Progreso, Jerécuaro, Moroleón, Salvatierra, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarimoro, Uriangato, Valle de Santiago, Villagrán y Yuriria.
+Los juzgados de Distrito en el estado de Guanajuato, con residencia en Celaya, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Comonfort, Coroneo, Cortázar, Jaral del Progreso, Jerécuaro, Moroleón, Salamanca, Salvatierra, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarímoro, Uriangato, Valle de Santiago, Villagrán y Yuriria.
 
 XVII.- DECIMOSEPTIMO CIRCUITO:
 
@@ -1402,5 +1404,11 @@ D.O.F. 29 DE OCTUBRE DE 2004.
 ACUERDO 64/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XXII, NUMERO 3.
 
 PRIMERO.- Este acuerdo entrará en vigor el siete de noviembre de dos mil cuatro.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 17 DE DICIEMBRE DE 2004.
+
+PRIMERO.- Este acuerdo entrará en vigor el tres de enero de dos mil cinco.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
