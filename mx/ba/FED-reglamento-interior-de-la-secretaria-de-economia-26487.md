@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-economia-26487"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-11-22"
-last_updated: "2002-11-22"
+last_updated: "2004-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26487&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-11-19"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE ECONOMIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2004.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2002.
 
@@ -1559,7 +1559,7 @@ XII.- Las demás que establezcan los ordenamientos jurídicos aplicables y las q
 
 ###### ARTÍCULO 51.
 
-El Titular de la Comisión Federal de Mejora Regulatoria tendrá la facultad de expedir copias certificadas de los documentos que obren en sus archivos y estará auxiliado en el ejercicio de sus funciones por el Coordinador General de Energía, Infraestructura y Medio Ambiente; el Coordinador General de Salud, Educación Laboral, Fiscal y Financiero; el Coordinador General de Servicios, Agropecuario, Comercio e Industria; el Coordinador General de Manifestaciones de Impacto Regulatorio; el Coordinador General de Estudios Especiales; el Coordinador Ejecutivo, y el Coordinador de Estados y Municipios.
+(DEROGADO POR ARTICULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION FEDERAL DE MEJORA REGULATORIA, D.O.F. 28 DE ENERO DE 2004)
 
 ## TRANSITORIOS
 
@@ -1570,3 +1570,11 @@ SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Economía, publi
 TERCERO.- Los asuntos pendientes a la entrada en vigor del presente Reglamento, serán resueltos por aquella o aquellas unidades administrativas a las que se les haya atribuido la competencia respectiva.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de noviembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Economía, Luis Ernesto Derbez Bautista.- Rúbrica.
+
+N. DE. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+D.O.F. 28 DE ENERO DE 2004.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se deroga el artículo 51 del Reglamento Interior de la Secretaría de Economía, publicado en el Diario Oficial de la Federación el 22 de noviembre de 2002, y las demás disposiciones que se opongan al presente Reglamento.
