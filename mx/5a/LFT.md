@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1977-12-30"
+last_updated: "1978-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ABRIL DE 1978.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -53,6 +53,10 @@ Las normas de trabajo tienden a conseguir el equilibrio y la justicia social en 
 El trabajo es un derecho y un deber sociales. No es artículo de comercio, exige respeto para las libertades y dignidad de quien lo presta y debe efectuarse en condiciones que aseguren la vida, la salud y un nivel económico decoroso para el trabajador y su familia.
 
 No podrán establecerse distinciones entre los trabajadores por motivo de raza, sexo, edad, credo religioso, doctrina política o condición social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 28 DE ABRIL DE 1978)</small>
+
+Asimismo, es de interés social promover y vigilar la capacitación y el adiestramiento de los trabajadores.
 
 ###### Artículo 4°.
 
@@ -230,7 +234,11 @@ VI. La forma y el monto del salario;
 
 VII. El día y el lugar de pago del salario; y
 
-VIII. Otras condiciones de trabajo, tales como días de descanso, vacaciones y demás que convengan el trabajador y el patrón.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE ABRIL DE 1978)</small>
+
+VIII. La indicación de que el trabajador será capacitado o adiestrado en los términos de los planes y programas establecidos o que se establezcan en la empresa, conforme a lo dispuesto en esta Ley; y
+
+IX. Otras condiciones de trabajo, tales como días de descanso, vacaciones y demás que convengan el trabajador y el patrón.
 
 ###### Artículo 26.
 
@@ -916,7 +924,7 @@ IV. Dentro de los treinta días siguientes a la resolución dictada por la Secre
 
 ###### Artículo 122.
 
-El reparto de utilidades entre los trabajadores deberá efectuarse dentro de los sesenta días siguientes a la fecha en que deba pagarse el impuesto anual, aun cuando esté en trámite objeción de los trabajadores.
+El reparto de utilidades entre los trabajadores deberá efectuarse dentro de los sesenta días siguientes a la fecha en que deba pagarse el impuesto anual, aun cuando esté en trámite (sic) objeción de los trabajadores.
 
 Cuando la Secretaría de Hacienda y Crédito Público aumente el monto de la utilidad gravable, sin haber mediado objeción de los trabajadores o haber sido ésta resuelta, el reparto adicional se hará dentro de los sesenta días siguientes a la fecha en que se notifique la resolución. Sólo en el caso de que ésta fuera impugnada por el patrón, se suspenderá el pago del reparto adicional hasta que la resolución quede firme, garantizándose el interés de los trabajadores.
 
@@ -924,7 +932,7 @@ El importe de las utilidades no reclamadas en el año en que sean exigibles, se 
 
 ###### Artículo 123.
 
-La utilidad repartible se dividirá en dos partes iguales: la primera se repartirá por igual entre todos los trabajadores, tomando en consideración el número de días trabajado por cada uno en el año, independientemente del monto de los salarios. La segunda se repartirá en proporción al monto de los salarios devengados por el trabajo prestado durante el año.
+La utilidad repartible se dividirá en dos partes iguales: la primera se repartirá por igual entre todos los trabajadores, tomando en consideración el número de días trabajado (sic) por cada uno en el año, independientemente del monto de los salarios. La segunda se repartirá en proporción al monto de los salarios devengados por el trabajo prestado durante el año.
 
 ###### Artículo 124.
 
@@ -940,7 +948,7 @@ I. Una comisión integrada por igual número de representantes de los trabajador
 
 II. Si los representantes de los trabajadores y del patrón no se ponen de acuerdo, decidirá el Inspector del Trabajo;
 
-III. Los trabajadores podrán hacer las observaciones que juzguen conveniente, dentro de un término de quince días; y
+III. Los trabajadores podrán hacer las observaciones que juzguen conveniente (sic), dentro de un término de quince días; y
 
 IV. Si se formulan objeciones, serán resueltas por la misma comisión a que se refiere la fracción I, dentro de un término de quince días.
 
@@ -1004,63 +1012,75 @@ El derecho de los trabajadores a participar en las utilidades no implica la facu
 
 Son obligaciones de los patrones:
 
-I.- Cumplir las disposiciones de las normas de trabajo aplicables a sus empresas o establecimientos;
+I. Cumplir las disposiciones de las normas de trabajo aplicables a sus empresas o establecimientos;
 
-II.- Pagar a los trabajadores los salarios e indemnizaciones, de conformidad con las normas vigentes en la empresa o establecimiento;
+II. Pagar a los trabajadores los salarios e indemnizaciones, de conformidad con las normas vigentes en la empresa o establecimiento;
 
-III.- Proporcionar oportunamente a los trabajadores los útiles, instrumentos y materiales necesarios para la ejecución del trabajo, debiendo darlos de buena calidad, en buen estado y reponerlos tan luego como dejen de ser eficientes, siempre que aquéllos no se hayan comprometido a usar herramienta propia. El patrón no podrá exigir indemnización alguna por el desgaste natural que sufran los útiles, instrumentos y materiales de trabajo;
+III. Proporcionar oportunamente a los trabajadores los útiles, instrumentos y materiales necesarios para la ejecución del trabajo, debiendo darlos de buena calidad, en buen estado y reponerlos tan luego como dejen de ser eficientes, siempre que aquéllos no se hayan comprometido a usar herramienta propia. El patrón no podrá exigir indemnización alguna por el desgaste natural que sufran los útiles, instrumentos y materiales de trabajo;
 
-IV.- Proporcionar local seguro para la guarda de los instrumentos y útiles de trabajo pertenecientes al trabajador, siempre que deban permanecer en el lugar en que prestan los servicios, sin que sea lícito al patrón retenerlos a título de indemnización, garantía o cualquier otro. El registro de instrumentos o útiles de trabajo deberá hacerse siempre que el trabajador lo solicite;
+IV. Proporcionar local seguro para la guarda de los instrumentos y útiles de trabajo pertenecientes al trabajador, siempre que deban permanecer en el lugar en que prestan los servicios, sin que sea lícito al patrón retenerlos a título de indemnización, garantía o cualquier otro. El registro de instrumentos o útiles de trabajo deberá hacerse siempre que el trabajador lo solicite;
 
-V.- Mantener el número suficiente de asientos o sillas a disposición de los trabajadores en las casas comerciales, oficinas, hoteles, restaurantes y otros centros de trabajo análogos. La misma disposición se observará en los establecimientos industriales cuando lo permita la naturaleza del trabajo;
+V. Mantener el número suficiente de asientos o sillas a disposición de los trabajadores en las casas comerciales, oficinas, hoteles, restaurantes y otros centros de trabajo análogos. La misma disposición se observará en los establecimientos industriales cuando lo permita la naturaleza del trabajo;
 
-VI.- Guardar a los trabajadores la debida consideración, absteniéndose de mal trato de palabra o de obra;
+VI. Guardar a los trabajadores la debida consideración, absteniéndose de mal trato de palabra o de obra;
 
-VII.- Expedir cada quince días, a solicitud de los trabajadores, una constancia escrita del número de días trabajados y del salario percibido;
+VII. Expedir cada quince días, a solicitud de los trabajadores, una constancia escrita del número de días trabajados y del salario percibido;
 
-VIII.- Expedir al trabajador que lo solicite o se separe de la empresa, dentro del término de tres días, una constancia escrita relativa a sus servicios;
+VIII. Expedir al trabajador que lo solicite o se separe de la empresa, dentro del término de tres días, una constancia escrita relativa a sus servicios;
 
-IX.- Conceder a los trabajadores el tiempo necesario para el ejercicio del voto en las elecciones populares y para el cumplimiento de los servicios de jurados, electorales y censales, a que se refiere el artículo 5°., de la Constitución, cuando esas actividades deban cumplirse dentro de sus horas de trabajo;
+IX. Conceder a los trabajadores el tiempo necesario para el ejercicio del voto en las elecciones populares y para el cumplimiento de los servicios de jurados, electorales y censales, a que se refiere el artículo 5°., de la Constitución, cuando esas actividades deban cumplirse dentro de sus horas de trabajo;
 
-X.- Permitir a los trabajadores faltar a su trabajo para desempeñar una comisión accidental o permanente de su sindicato o del Estado, siempre que avisen con la oportunidad debida y que el número de trabajadores comisionados no sea tal que perjudique la buena marcha del establecimiento. El tiempo perdido podrá descontarse al trabajador a no ser que lo compense con un tiempo igual de trabajo efectivo. Cuando la comisión sea de carácter permanente, el trabajador o trabajadores podrán volver al puesto que ocupaban, conservando todos sus derechos, siempre y cuando regresen a su trabajo dentro del término de seis años. Los substitutos tendrán el carácter de interinos, considerándolos como de planta después de seis años;
+X. Permitir a los trabajadores faltar a su trabajo para desempeñar una comisión accidental o permanente de su sindicato o del Estado, siempre que avisen con la oportunidad debida y que el número de trabajadores comisionados no sea tal que perjudique la buena marcha del establecimiento. El tiempo perdido podrá descontarse al trabajador a no ser que lo compense con un tiempo igual de trabajo efectivo. Cuando la comisión sea de carácter permanente, el trabajador o trabajadores podrán volver al puesto que ocupaban, conservando todos sus derechos, siempre y cuando regresen a su trabajo dentro del término de seis años. Los substitutos tendrán el carácter de interinos, considerándolos como de planta después de seis años;
 
-XI.- Poner en conocimiento del sindicato titular del contrato colectivo y de los trabajadores de la categoría inmediata inferior, los puestos de nueva creación, las vacantes definitivas y las temporales que deban cubrirse;
+XI. Poner en conocimiento del sindicato titular del contrato colectivo y de los trabajadores de la categoría inmediata inferior, los puestos de nueva creación, las vacantes definitivas y las temporales que deban cubrirse;
 
-XII.- Establecer y sostener las escuelas "Artículo 123 Constitucional", de conformidad con lo que dispongan las leyes y la Secretaría de Educación Pública;
+XII. Establecer y sostener las escuelas "Artículo 123 Constitucional", de conformidad con lo que dispongan las leyes y la Secretaría de Educación Pública;
 
-XIII.- Colaborar con las Autoridades del Trabajo y de Educación, de conformidad con las leyes y reglamentos, a fin de lograr la alfabetización de los trabajadores;
+XIII. Colaborar con las Autoridades del Trabajo y de Educación, de conformidad con las leyes y reglamentos, a fin de lograr la alfabetización de los trabajadores;
 
-XIV.- Hacer por su cuenta, cuando empleen más de cien y menos de mil trabajadores, los gastos indispensables para sostener en forma decorosa los estudios técnicos, industriales o prácticos, en centros especiales, nacionales o extranjeros, de uno de sus trabajadores o de uno de los hijos de éstos, designado en atención a sus aptitudes, cualidades y dedicación, por los mismos trabajadores y el patrón. Cuando tengan a su servicio más de mil trabajadores deberán sostener tres becarios en las condiciones señaladas. El patrón sólo podrá cancelar la beca cuando sea reprobado el becario en el curso de un año o cuando observe mala conducta; pero en esos casos será substituido por otro. Los becarios que hayan terminado sus estudios deberán prestar sus servicios al patrón que los hubiese becado, durante un año, por lo menos;
+XIV. Hacer por su cuenta, cuando empleen más de cien y menos de mil trabajadores, los gastos indispensables para sostener en forma decorosa los estudios técnicos, industriales o prácticos, en centros especiales, nacionales o extranjeros, de uno de sus trabajadores o de uno de los hijos de éstos, designado en atención a sus aptitudes, cualidades y dedicación, por los mismos trabajadores y el patrón. Cuando tengan a su servicio más de mil trabajadores deberán sostener tres becarios en las condiciones señaladas. El patrón sólo podrá cancelar la beca cuando sea reprobado el becario en el curso de un año o cuando observe mala conducta; pero en esos casos será substituido por otro. Los becarios que hayan terminado sus estudios deberán prestar sus servicios al patrón que los hubiese becado, durante un año, por lo menos;
 
-XV.- Organizar permanente o periódicamente cursos o enseñanzas de capacitación profesional o de adiestramiento para sus trabajadores, de conformidad con los planes y programas que, de común acuerdo, elaboren con los sindicatos o trabajadores, informando de ellos a la Secretaría del Trabajo y Previsión Social, o a las autoridades de trabajo de los Estados, Territorios y Distrito Federal. Estos podrán implantarse en cada empresa o para varias, en uno o varios establecimientos o departamentos o secciones de los mismos, por personal propio o por profesores técnicos especialmente contratados, o por conducto de escuelas o institutos especializados o por alguna otra modalidad. Las autoridades del trabajo vigilarán la ejecución de los cursos o enseñanzas;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
-XVI.- Instalar, de acuerdo con los principios de seguridad e higiene, las fábricas, talleres, oficinas y demás lugares en que deban ejecutarse los trabajos. En instalación y manejo de las maquinarias de las mismas, drenajes, plantaciones en regiones insalubres y otros centros de trabajo, adoptarán los procedimientos adecuados para evitar perjuicios al trabajador, procurando que no se desarrollen enfermedades epidémicas o infecciosas, y organizando el trabajo de modo que resulte para la salud y la vida del trabajador la mayor garantía compatible con la naturaleza de la empresa o establecimiento;
+XV. Proporcionar capacitación y adiestramiento a sus trabajadores, en los términos del Capítulo III Bis de este Título.
 
-XVII.- Observar las medidas adecuadas y las que fijen las leyes, para prevenir accidentes en el uso de maquinaria, instrumentos o material de trabajo, y disponer en todo tiempo de los medicamentos y material de curación indispensables, a juicio de las autoridades que corresponda, para que oportunamente y de una manera eficaz, se presten los primeros auxilios; debiendo dar, desde luego, aviso a la autoridad competente de cada accidente que ocurra;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
-XVIII.- Fijar y difundir las disposiciones conducentes de los reglamentos de higiene y seguridad en lugar visible de los establecimientos y lugares en donde se preste el trabajo;
+XVI. Instalar, de acuerdo con los principios de seguridad e higiene, las fábricas, talleres, oficinas y demás lugares en que deban ejecutarse las labores, para prevenir riesgos de trabajo y perjuicios al trabajador, así como adoptar las medidas necesarias para evitar que los contaminantes excedan los máximos permitidos en los reglamentos e instructivos que expidan las autoridades competentes. Para estos efectos, deberán modificar, en su caso, las instalaciones en los términos que señalen las propias autoridades;
 
-XIX.- Proporcionar a sus trabajadores los medicamentos profilácticos que determine la autoridad sanitaria en los lugares donde existan enfermedades tropicales o endémicas, o cuando exista peligro de epidemia;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
-XX.- Reservar, cuando la población fija de un centro rural de trabajo exceda de doscientos habitantes, un espacio de terreno no menor de cinco mil metros cuadrados para el establecimiento de mercados públicos, edificios para los servicios municipales y centros recreativos, siempre que dicho centro de trabajo esté a una distancia no menor de cinco kilómetros de la población más próxima;
+XVII. Cumplir las disposiciones de seguridad e higiene que fijen las leyes y los reglamentos para prevenir los accidentes y enfermedades en los centros de trabajo y, en general, en los lugares en que deban ejecutarse las labores; y, disponer en todo tiempo de los medicamentos y materiales de curación indispensables que señalen los instructivos que se expidan, para que se presten oportuna y eficazmente los primeros auxilios; debiendo dar, desde luego, aviso a la autoridad competente de cada accidente que ocurra;
 
-XXI.- Proporcionar a los sindicatos, si lo solicitan, en los centros rurales de trabajo, un local que se encuentre desocupado para que instalen sus oficinas, cobrando la renta correspondiente. Si no existe local en las condiciones indicadas, se podrá emplear para ese fin cualquiera de los asignados para alojamiento de los trabajadores;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
-XXII.- Hacer las deducciones que soliciten los sindicatos de las cuotas sindicales ordinarias, siempre que se compruebe que son las previstas en el artículo 110, fracción VI;
+XVIII. Fijar visiblemente y difundir en los lugares donde se preste el trabajo, las disposiciones conducentes de los reglamentos e instructivos de seguridad e higiene;
 
-XXIII.- Hacer las deducciones de las cuotas para la constitución y fomento de sociedades cooperativas y de cajas de ahorro, de conformidad con lo dispuesto en el artículo 110, fracción IV;
+XIX. Proporcionar a sus trabajadores los medicamentos profilácticos que determine la autoridad sanitaria en los lugares donde existan enfermedades tropicales o endémicas, o cuando exista peligro de epidemia;
 
-XXIV.- Permitir la inspección y vigilancia que las autoridades del trabajo practiquen en su establecimiento para cerciorarse del cumplimiento de las normas de trabajo y darles los informes que a ese efecto sean indispensables, cuando lo soliciten. Los patrones podrán exigir a los inspectores o comisionados que les muestren sus credenciales y les den a conocer las instrucciones que tengan; y
+XX. Reservar, cuando la población fija de un centro rural de trabajo exceda de doscientos habitantes, un espacio de terreno no menor de cinco mil metros cuadrados para el establecimiento de mercados públicos, edificios para los servicios municipales y centros recreativos, siempre que dicho centro de trabajo esté a una distancia no menor de cinco kilómetros de la población más próxima;
 
-XXV.- Contribuir al fomento de las actividades culturales y del deporte entre sus trabajadores y proporcionarles los equipos y útiles indispensables.
+XXI. Proporcionar a los sindicatos, si lo solicitan, en los centros rurales de trabajo, un local que se encuentre desocupado para que instalen sus oficinas, cobrando la renta correspondiente. Si no existe local en las condiciones indicadas, se podrá emplear para ese fin cualquiera de los asignados para alojamiento de los trabajadores;
+
+XXII. Hacer las deducciones que soliciten los sindicatos de las cuotas sindicales ordinarias, siempre que se compruebe que son las previstas en el artículo 110, fracción VI;
+
+XXIII. Hacer las deducciones de las cuotas para la constitución y fomento de sociedades cooperativas y de cajas de ahorro, de conformidad con lo dispuesto en el artículo 110, fracción IV;
+
+XXIV. Permitir la inspección y vigilancia que las autoridades del trabajo practiquen en su establecimiento para cerciorarse del cumplimiento de las normas de trabajo y darles los informes que a ese efecto sean indispensables, cuando lo soliciten. Los patrones podrán exigir a los inspectores o comisionados que les muestren sus credenciales y les den a conocer las instrucciones que tengan; y
+
+XXV. Contribuir al fomento de las actividades culturales y del deporte entre sus trabajadores y proporcionarles los equipos y útiles indispensables.
 
 (REFORMADA [N. DE E. ADICIONADA], D.O.F. 9 DE ENERO DE 1974)(F. DE E., D.O.F. 10 DE ENERO DE 1974)
 
-XXVI.- Hacer las deducciones previstas en las fracciones IV del artículo 97 y VII del artículo 110, y enterar los descuentos a la institución bancaria acreedora, o en su caso al Fondo de Fomento y Garantía para el Consumo de los Trabajadores. Esta obligación no convierte al patrón en deudor solidario del crédito que se haya concedido al trabajador.
+XXVI. Hacer las deducciones previstas en las fracciones IV del artículo 97 y VII del artículo 110, y enterar los descuentos a la institución bancaria acreedora, o en su caso al Fondo de Fomento y Garantía para el Consumo de los Trabajadores. Esta obligación no convierte al patrón en deudor solidario del crédito que se haya concedido al trabajador.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-XXVII.- Proporcionar a las mujeres embarazadas la protección que establezcan los reglamentos.
+XXVII. Proporcionar a las mujeres embarazadas la protección que establezcan los reglamentos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE ABRIL DE 1978)</small>
+
+XXVIII. Participar en la integración y funcionamiento de las Comisiones que deban formarse en cada centro de trabajo, de acuerdo con lo establecido por esta Ley.
 
 ###### Artículo 133.
 
@@ -1068,27 +1088,27 @@ Queda prohibido a los patrones:
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-I.- Negarse a aceptar trabajadores por razón de edad o de su sexo;
+I. Negarse a aceptar trabajadores por razón de edad o de su sexo;
 
-II.- Exigir que los trabajadores compren sus artículos de consumo en tienda o lugar determinado;
+II. Exigir que los trabajadores compren sus artículos de consumo en tienda o lugar determinado;
 
-III.- Exigir o aceptar dinero de los trabajadores como gratificación porque se les admita en el trabajo o por cualquier otro motivo que se refiera a las condiciones de éste;
+III. Exigir o aceptar dinero de los trabajadores como gratificación porque se les admita en el trabajo o por cualquier otro motivo que se refiera a las condiciones de éste;
 
-IV.- Obligar a los trabajadores por coacción o por cualquier otro medio, a afiliarse o retirarse del sindicato o agrupación a que pertenezcan, o a que voten por determinada candidatura;
+IV. Obligar a los trabajadores por coacción o por cualquier otro medio, a afiliarse o retirarse del sindicato o agrupación a que pertenezcan, o a que voten por determinada candidatura;
 
-V.- Intervenir en cualquier forma en el régimen interno del sindicato;
+V. Intervenir en cualquier forma en el régimen interno del sindicato;
 
-VI.- Hacer o autorizar colectas o suscripciones en los establecimientos y lugares de trabajo;
+VI. Hacer o autorizar colectas o suscripciones en los establecimientos y lugares de trabajo;
 
-VII.- Ejecutar cualquier acto que restrinja a los trabajadores los derechos que les otorgan las leyes;
+VII. Ejecutar cualquier acto que restrinja a los trabajadores los derechos que les otorgan las leyes;
 
-VIII.- Hacer propaganda política o religiosa dentro del establecimiento;
+VIII. Hacer propaganda política o religiosa dentro del establecimiento;
 
-IX- Emplear el sistema de "poner en el índice" a los trabajadores que se separen o sean separados del trabajo para que no se les vuelva a dar ocupación;
+IX. Emplear el sistema de "poner en el índice" a los trabajadores que se separen o sean separados del trabajo para que no se les vuelva a dar ocupación;
 
-X.- Portar armas en el interior de los establecimientos ubicados dentro de las poblaciones; y
+X. Portar armas en el interior de los establecimientos ubicados dentro de las poblaciones; y
 
-XI.- Presentarse en los establecimientos en estado de embriaguez o bajo la influencia de un narcótico o droga enervante.
+XI. Presentarse en los establecimientos en estado de embriaguez o bajo la influencia de un narcótico o droga enervante.
 
 ### CAPITULO II. Obligaciones de los Trabajadores
 
@@ -1096,25 +1116,25 @@ XI.- Presentarse en los establecimientos en estado de embriaguez o bajo la influ
 
 Son obligaciones de los trabajadores:
 
-I.- Cumplir las disposiciones de las normas de trabajo que les sean aplicables;
+I. Cumplir las disposiciones de las normas de trabajo que les sean aplicables;
 
-II.- Observar las medidas preventivas e higiénicas que acuerden las autoridades competentes y las que indiquen los patrones para la seguridad y protección personal de los trabajadores;
+II. Observar las medidas preventivas e higiénicas que acuerden las autoridades competentes y las que indiquen los patrones para la seguridad y protección personal de los trabajadores;
 
-III.- Desempeñar el servicio bajo la dirección del patrón o de su representante, a cuya autoridad estarán subordinados en todo lo concerniente al trabajo;
+III. Desempeñar el servicio bajo la dirección del patrón o de su representante, a cuya autoridad estarán subordinados en todo lo concerniente al trabajo;
 
-IV.- Ejecutar el trabajo con la intensidad, cuidado y esmero apropiados y en la forma, tiempo y lugar convenidos;
+IV. Ejecutar el trabajo con la intensidad, cuidado y esmero apropiados y en la forma, tiempo y lugar convenidos;
 
-V.- Dar aviso inmediato al patrón, salvo caso fortuito o de fuerza mayor, de las causas justificadas que le impidan concurrir a su trabajo;
+V. Dar aviso inmediato al patrón, salvo caso fortuito o fuerza mayor, de las causas justificadas que le impidan concurrir a su trabajo;
 
-VI.- Restituir al patrón los materiales no usados y conservar en buen estado los instrumentos y útiles que les haya dado para el trabajo, no siendo responsables por el deterioro que origine el uso de estos objetos, ni del ocasionado por caso fortuito, fuerza mayor, o por mala calidad o defectuosa construcción;
+VI. Restituir al patrón los materiales no usados y conservar en buen estado los instrumentos y útiles que les haya dado para el trabajo, no siendo responsables por el deterioro que origine el uso de estos objetos, ni del ocasionado por caso fortuito, fuerza mayor, o por mala calidad o defectuosa construcción;
 
-VII.- Observar buenas costumbres durante el servicio;
+VII. Observar buenas costumbres durante el servicio;
 
-VIII.- Prestar auxilios en cualquier tiempo que se necesiten, cuando por siniestro o riesgo inminente peligren las personas o los intereses del patrón o de sus compañeros de trabajo;
+VIII. Prestar auxilios en cualquier tiempo que se necesiten, cuando por siniestro o riesgo inminente peligren las personas o los intereses del patrón o de sus compañeros de trabajo;
 
-IX.- Integrar los organismos que establece esta Ley;
+IX. Integrar los organismos que establece esta Ley;
 
-X.- Someterse a los reconocimientos médicos previstos en el reglamento interior y demás normas vigentes en la empresa o establecimiento, para comprobar que no padecen alguna incapacidad o enfermedad de trabajo, contagiosa o incurable;
+X. Someterse a los reconocimientos médicos previstos en el reglamento interior y demás normas vigentes en la empresa o establecimiento, para comprobar que no padecen alguna incapacidad o enfermedad de trabajo, contagiosa o incurable;
 
 XI. Poner en conocimiento del patrón las enfermedades contagiosas que padezcan, tan pronto como tengan conocimiento de las mismas;
 
@@ -1270,7 +1290,7 @@ II.- Los trabajadores tienen las obligaciones siguientes:
 
 a). Pagar las rentas.
 
-b). Cuidar de la habitación como si fuera propio.
+b). Cuidar de la habitación como si fuera propia.
 
 c). Poner en conocimiento de la empresa los defectos o deterioros que observen.
 
@@ -1290,11 +1310,221 @@ Los trabajadores tendrán derecho a ejercitar ante las Juntas de Conciliación y
 
 Las empresas tendrán derecho a ejercitar ante las Juntas de Conciliación y Arbitraje, las acciones que les correspondan en contra de los trabajadores por incumplimiento de las obligaciones que les impone este capítulo.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+### CAPITULO III BIS. De la Capacitación y Adiestramiento de los Trabajadores
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-A.
+
+Todo trabajador tiene el derecho a que su patrón le proporcione capacitación o adiestramiento en su trabajo que le permita elevar su nivel de vida y productividad, conforme a los planes y programas formulados, de común acuerdo, por el patrón y el sindicato o sus trabajadores y aprobados por la Secretaría del Trabajo y Previsión Social.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-B.
+
+Para dar cumplimiento a la obligación que, conforme al artículo anterior les corresponde, los patrones podrán convenir con los trabajadores en que la capacitación o adiestramiento se proporcione a éstos dentro de la misma empresa o fuera de ella, por conducto de personal propio, instructores especialmente contratados, instituciones, escuelas u organismos especializados, o bien mediante adhesión a los sistemas generales que se establezcan y que se registren en la Secretaría del Trabajo y Previsión Social. En caso de tal adhesión, quedará a cargo de los patrones cubrir las cuotas respectivas.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-C.
+
+Las instituciones o escuelas que deseen impartir capacitación o adiestramiento, así como su personal docente, deberán estar autorizadas y registradas por la Secretaría del Trabajo y Previsión Social.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-D.
+
+Los cursos y programas de capacitación o adiestramiento de los trabajadores, podrán formularse respecto a cada establecimiento, una empresa, varias de ellas o respecto a una rama industrial o actividad determinada.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-E.
+
+La capacitación o adiestramiento a que se refiere el artículo 153-A, deberá impartirse al trabajador durante las horas de su jornada de trabajo; salvo que, atendiendo a la naturaleza de los servicios, patrón y trabajador convengan que podrá impartirse de otra manera; así como en el caso en que el trabajador desee capacitarse en una actividad distinta a la de la ocupación que desempeñe, en cuyo supuesto, la capacitación se realizará fuera de la jornada de trabajo.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-F.
+
+La capacitación y el adiestramiento deberán tener por objeto:
+
+I.- Actualizar y perfeccionar los conocimientos y habilidades del trabajador en su actividad; así como proporcionarle información sobre la aplicación de nueva tecnología en ella;
+
+II.- Preparar al trabajador para ocupar una vacante o puesto de nueva creación;
+
+III.- Prevenir riesgos de trabajo;
+
+IV.- Incrementar la productividad; y,
+
+V.- En general, mejorar las aptitudes del trabajador.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-G.
+
+Durante el tiempo en que un trabajador de nuevo ingreso que requiera capacitación inicial para el empleo que va a desempeñar, reciba ésta, prestará sus servicios conforme a las condiciones generales de trabajo que rijan en la empresa o a lo que se estipule respecto a ella en los contratos colectivos.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-H.
+
+Los trabajadores a quienes se imparta capacitación o adiestramiento están obligados a:
+
+I. Asistir puntualmente a los cursos, sesiones de grupo y demás actividades que formen parte del proceso de capacitación o adiestramiento;
+
+II. Atender las indicaciones de las personas que impartan la capacitación o adiestramiento, y cumplir con los programas respectivos; y,
+
+III. Presentar los exámenes de evaluación de conocimientos y de aptitud que sean requeridos.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-I.
+
+En cada empresa se constituirán Comisiones Mixtas de Capacitación y Adiestramiento, integradas por igual número de representantes de los trabajadores y del patrón, las cuales vigilarán la instrumentación y operación del sistema y de los procedimientos que se implanten para mejorar la capacitación y el adiestramiento de los trabajadores, y sugerirán las medidas tendientes a perfeccionarlos; todo esto conforme a las necesidades de los trabajadores y de las empresas.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-J.
+
+Las autoridades laborales cuidarán que las Comisiones Mixtas de Capacitación y Adiestramiento se integren y funcionen oportuna y normalmente, vigilando el cumplimiento de la obligación patronal de capacitar y adiestrar a los trabajadores.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-K.
+
+La Secretaría del Trabajo y Previsión Social podrá convocar a los patrones, sindicatos y trabajadores libres que formen parte de las mismas ramas industriales o actividades, para constituir Comités Nacionales de Capacitación y Adiestramiento de tales ramas industriales o actividades, los cuales tendrán el carácter de órganos auxiliares de la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento a que se refiere esta Ley.
+
+Estos Comités tendrán facultades para:
+
+I.- Participar en la determinación de los requerimientos de capacitación y adiestramiento de las ramas o actividades respectivas;
+
+II.- Colaborar en la elaboración del Catálogo Nacional de Ocupaciones y en la de estudios sobre las características de la maquinaria y equipo en existencia y uso en las ramas o actividades correspondientes;
+
+III.- Proponer sistemas de capacitación y adiestramiento para y en el trabajo, en relación con las ramas industriales o actividades correspondientes;
+
+IV.- Formular recomendaciones específicas de planes y programas de capacitación y adiestramiento;
+
+V.- Evaluar los efectos de las acciones de capacitación y adiestramiento en la productividad dentro de las ramas industriales o actividades específicas de que se trate; y,
+
+VI.- Gestionar ante la autoridad laboral el registro de las constancias relativas a conocimientos o habilidades de los trabajadores que hayan satisfecho los requisitos legales exigidos para tal efecto.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-L.
+
+La Secretaría del Trabajo y Previsión Social fijará las bases para determinar la forma de designación de los miembros de los Comités Nacionales de Capacitación y Adiestramiento, así como las relativas a su organización y funcionamiento.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-M.
+
+En los contratos colectivos deberán incluirse cláusulas relativas a la obligación patronal de proporcionar capacitación y adiestramiento a los trabajadores, conforme a planes y programas que satisfagan los requisitos establecidos en este Capítulo.
+
+Además, podrá consignarse en los propios contratos el procedimiento conforme al cual el patrón capacitará y adiestrará a quienes pretendan ingresar a laborar en la empresa, tomando en cuenta, en su caso, la cláusula de admisión.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-N.
+
+Dentro de los quince días siguientes a la celebración, revisión o prórroga del contrato colectivo, los patrones deberán presentar ante la Secretaría del Trabajo y Previsión Social, para su aprobación, los planes y programas de capacitación y adiestramiento que se haya acordado establecer, o en su caso, las modificaciones que se hayan convenido acerca de planes y programas ya implantados con aprobación de la autoridad laboral.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-O.
+
+Las empresas en que no rija contrato colectivo de trabajo, deberán someter a la aprobación de la Secretaría del Trabajo y Previsión Social, dentro de los primeros sesenta días de los años impares, los planes y programas de capacitación o adiestramiento que, de común acuerdo con los trabajadores, hayan decidido implantar. Igualmente, deberán informar respecto a la constitución y bases generales a que se sujetará el funcionamiento de las Comisiones Mixtas de Capacitación y Adiestramiento.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-P.
+
+El registro de que trata el artículo 153-C se otorgará a las personas o instituciones que satisfagan los siguientes requisitos:
+
+I.- Comprobar que quienes capacitarán o adiestrarán a los trabajadores, están preparados profesionalmente en la rama industrial o actividad en que impartirán sus conocimientos;
+
+II.- Acreditar satisfactoriamente, a juicio de la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento, tener conocimientos bastantes sobre los procedimientos tecnológicos propios de la rama industrial o actividad en la que pretendan impartir dicha capacitación o adiestramiento; y,
+
+III.- No estar ligadas con personas o instituciones que propaguen algún credo religioso, en los términos de la prohibición establecida por la fracción IV del Artículo 3o. Constitucional.
+
+El registro concedido en los términos de este artículo podrá ser revocado cuando se contravengan las disposiciones de esta Ley.
+
+En el procedimiento de revocación, el afectado podrá ofrecer pruebas y alegar lo que a su derecho convenga.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-Q.
+
+Los planes y programas de que tratan los artículos 153-N y 153-O, deberán cumplir los siguientes requisitos:
+
+I.- Referirse a períodos no mayores de cuatro años;
+
+II.- Comprender todos los puestos y niveles existentes en la empresa;
+
+III.- Precisar las etapas durante las cuales se impartirá la capacitación y el adiestramiento al total de los trabajadores de la empresa;
+
+IV.- Señalar el procedimiento de selección, a través del cual se establecerá el orden en que serán capacitados los trabajadores de un mismo puesto y categoría;
+
+V.- Especificar el nombre y número de registro en la Secretaría del Trabajo y Previsión Social de las entidades instructoras; y,
+
+VI.- Aquellos otros que establezcan los criterios generales de la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento que se publiquen en el "Diario Oficial" de la Federación.
+
+Dichos planes y programas deberán ser aplicados de inmediato por las empresas.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-R.
+
+Dentro de los sesenta días hábiles que sigan a la presentación de tales planes y programas ante la Secretaría del Trabajo y Previsión Social, ésta los aprobará o dispondrá que se les hagan las modificaciones que estime pertinentes; en la inteligencia de que, aquellos planes y programas que no hayan sido objetados por la autoridad laboral dentro del término citado, se entenderán definitivamente aprobados.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-S.
+
+Cuando el patrón no dé cumplimiento a la obligación de presentar ante la Secretaría del Trabajo y Previsión Social los planes y programas de capacitación y adiestramiento, dentro del plazo que corresponda, en los términos de los artículos 153-N y 153-O, o cuando presentados dichos planes y programas, no los lleve a la práctica, será sancionado conforme a lo dispuesto en la fracción IV del artículo 878 de esta Ley, sin perjuicio de que, en cualquiera de los dos casos, la propia Secretaría adopte las medidas pertinentes para que el patrón cumpla con la obligación de que se trata.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-T.
+
+Los trabajadores que hayan sido aprobados en los exámenes de capacitación o adiestramiento en los términos de este Capítulo, tendrán derecho a que la entidad instructora les expida las constancias respectivas, mismas que, autentificadas por la Comisión Mixta de Capacitación y Adiestramiento de la empresa, se harán del conocimiento de la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento, por conducto del correspondiente Comité Nacional o, a falta de éste, a través de las autoridades del trabajo, a fin de que aquélla las registre y las tome en cuenta al formular el padrón de trabajadores capacitados que corresponda, en los términos de la fracción IV del artículo 539.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-U.
+
+Cuando implantado un programa de capacitación, un trabajador se niegue a recibir ésta, por considerar que tiene los conocimientos necesarios para el desempeño de su puesto y del inmediato superior, deberá acreditar documentalmente dicha capacidad o presentar y aprobar, ante la entidad instructora, el examen de suficiencia que señale la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento.
+
+En este último caso, se extenderá a dicho trabajador la correspondiente constancia de habilidades laborales.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-V.
+
+La constancia de habilidades laborales es el documento expedido por el capacitador, con el cual el trabajador acreditará haber llevado y aprobado un curso de capacitación.
+
+Las empresas están obligadas a enviar a la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento para su registro y control, listas de las constancias que se hayan expedido a sus trabajadores.
+
+Las constancias de que se trata surtirán plenos efectos, para fines de ascenso, dentro de la empresa en que se haya proporcionado la capacitación o adiestramiento.
+
+Si en una empresa existen varias especialidades o niveles en relación con el puesto a que la constancia se refiera, el trabajador, mediante examen que practique la Comisión Mixta de Capacitación y Adiestramiento respectiva acreditará para cuál de ellas es apto.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-W.
+
+Los certificados, diplomas, títulos o grados que expidan el Estado, sus organismos descentralizados o los particulares con reconocimiento de validez oficial de estudios, a quienes hayan concluido un tipo de educación con carácter terminal, serán inscritos en los registros de que trata el artículo 539, fracción IV, cuando el puesto y categoría correspondientes figuren en el Catálogo Nacional de Ocupaciones o sean similares a los incluidos en él.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 153-X.
+
+Los trabajadores y patrones tendrán derecho a ejercitar ante las Juntas de Conciliación y Arbitraje las acciones individuales y colectivas que deriven de la obligación de capacitación o adiestramiento impuesta en este Capítulo.
+
 ### CAPITULO IV. Derechos de Preferencia, Antigüedad y Ascenso
 
 > <small>(REFORMADO, D.O.F. 2 DE JULIO DE 1976)</small>
-
-### CAPITULO V. Invenciones de los Trabajadores
 
 ###### Artículo 154.
 
@@ -1326,13 +1556,19 @@ Los trabajadores de planta y los mencionados en el artículo 156 tienen derecho 
 
 Una comisión integrada con representantes de los trabajadores y del patrón formulará el cuadro general de las antigüedades, distribuido por categorías de cada profesión u oficio y ordenará se le dé publicidad. Los trabajadores inconformes podrán formular objeciones ante la comisión y recurrir la resolución de ésta ante la Junta de Conciliación y Arbitraje.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 159.
 
-Las vacantes definitivas o por una duración mayor de treinta días o cuando se cree un puesto nuevo, serán cubiertas por el trabajador mas antiguo de la categoría inmediata inferior de la respectiva profesión u oficio. Si concurren dos o más trabajadores de la misma antigüedad, tendrá prioridad el más capaz y, en igualdad de circunstancias, el que tenga a su cargo una familia.
+Las vacantes definitivas, las provisionales con duración mayor de treinta días y los puestos de nueva creación, serán cubiertos escalafonariamente, por el trabajador de la categoría inmediata inferior, del respectivo oficio o profesión.
 
-Si el patrón cumplió la obligación prevista en el artículo 132, fracción XV, el trabajador al que corresponda el puesto deberá acreditar que posee los conocimientos y la aptitud necesarios para desempeñarlo. En los contratos colectivos se establecerá el procedimiento para que el trabajador compruebe los conocimientos y aptitudes, bien con el certificado que se le hubiese extendido al terminar los cursos o enseñanzas de capacitación o adiestramiento, con el certificado de algún instituto o escuela de capacitación, por medio de un examen o de un período de prueba no mayor de treinta días, por varios de estos procedimientos, o por alguna otra modalidad que se convenga. Si el resultado de la prueba o pruebas no es favorable al trabajador, será llamado el que le siga en antigüedad. En los mismos contratos colectivos se establecerá la manera de cubrir las vacantes cuando no exista dentro de la empresa ningún trabajador con los conocimientos y aptitud necesarios para desempeñar el puesto.
+Si el patrón cumplió con la obligación de capacitar a todos los trabajadores de la categoría inmediata inferior a aquélla en que ocurra la vacante, el ascenso corresponderá a quien haya demostrado ser apto y tenga mayor antigüedad. En igualdad de condiciones, se preferirá al trabajador que tenga a su cargo una familia y, de subsistir la igualdad, al que, previo examen, acredite mayor aptitud.
+
+Si el patrón no ha dado cumplimiento a la obligación que le impone el artículo 132, fracción XV, la vacante se otorgará al trabajador de mayor antigüedad y, en igualdad de esta circunstancia, al que tenga a su cargo una familia.
+
+Tratándose de puestos de nueva creación para los cuales, por su naturaleza o especialidad, no existan en la empresa trabajadores con aptitud para desempeñarlos y no se haya establecido un procedimiento para tal efecto en el contrato colectivo, el patrón podrá cubrirlos libremente.
+
+En los propios contratos colectivos y conforme a lo dispuesto en esta Ley, se establecerá la forma en que deberán acreditarse la aptitud y otorgarse los ascensos.
 
 ###### Artículo 160.
 
@@ -1368,7 +1604,7 @@ V. En caso de muerte del trabajador, cualquiera que sea su antigüedad, la prima
 
 VI. La prima de antigüedad a que se refiere este artículo se cubrirá a los trabajadores o a sus beneficiarios, independientemente de cualquier otra prestación que les corresponda.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO V. Invenciones de los Trabajadores
 
 ###### Artículo 163.
 
@@ -1510,19 +1746,27 @@ I. Exigir que se les exhiban los certificados médicos que acrediten que están 
 
 II. Llevar un registro de inspección especial, con indicación de la fecha de su nacimiento, clase de trabajo, horario, salario y demás condiciones generales de trabajo;
 
-III. Distribuir el trabajo a fin de que dispongan del tiempo necesario para cumplir sus programas escolares y asistir a escuelas de capacitación profesional; y
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
-IV. Proporcionar a la Inspección del Trabajo los informes que les solicite.
+III. Distribuir el trabajo a fin de que dispongan del tiempo necesario para cumplir sus programas escolares;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+IV. Proporcionarles capacitación y adiestramiento en los términos de esta Ley; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE ABRIL DE 1978)</small>
+
+V. Proporcionar a las autoridades del trabajo los informes que soliciten.
 
 ## TITULO SEXTO. Trabajos especiales
 
-### CAPITULO II. Trabajadores de confianza
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 181.
 
 Los trabajos especiales se rigen por las normas de este Título y por las generales de esta Ley en cuanto no las contraríen.
 
-### CAPITULO III. Trabajadores de los buques
+### CAPITULO II. Trabajadores de confianza
 
 ###### Artículo 182.
 
@@ -1546,7 +1790,7 @@ El trabajador de confianza podrá ejercitar las acciones a que se refiere el cap
 
 En el caso a que se refiere el artículo anterior, si el trabajador de confianza hubiese sido promovido en un puesto de planta, volverá a él, salvo que exista causa justificada para su separación.
 
-### CAPITULO IV. Trabajo de las Tripulaciones Aeronáuticas
+### CAPITULO III. Trabajadores de los buques
 
 ###### Artículo 187.
 
@@ -1756,7 +2000,7 @@ IV. El descanso semanal será forzosamente en tierra.
 
 El Ejecutivo Federal determinará la forma de sostener y mejorar los servicios de la "Casa del Marino" y fijará las aportaciones de los patrones.
 
-### CAPITULO V. Trabajo Ferrocarrilero
+### CAPITULO IV. Trabajo de las Tripulaciones Aeronáuticas
 
 ###### Artículo 215.
 
@@ -1968,7 +2212,7 @@ VIII. El incumplimiento de las obligaciones señaladas en el artículo 237 y la 
 
 La Junta Federal de Conciliación y Arbitraje, previamente a la aprobación del reglamento interior de trabajo, recabará la opinión de la Secretaría de Comunicaciones y Transportes a fin de que en el mismo se observen las disposiciones de la Ley de Vías Generales de Comunicaciones y sus reglamentos.
 
-### CAPITULO VI. Trabajo de Autotransportes
+### CAPITULO V. Trabajo Ferrocarrilero
 
 ###### Artículo 246.
 
@@ -2022,7 +2266,7 @@ I. La recepción de carga o pasaje fuera de los lugares señalados por la empres
 
 II. La negativa a efectuar el viaje contratado o su interrupción, sin causa justificada.
 
-### CAPITULO VII. Trabajo de maniobras de Servicio Público en zonas bajo Jurisdicción Federal
+### CAPITULO VI. Trabajo de Autotransportes
 
 ###### Artículo 256.
 
@@ -2098,7 +2342,7 @@ I. La negativa a efectuar el viaje contratado o su interrupción sin causa justi
 
 II. La disminución importante y reiterada del volumen de ingresos, salvo que concurran circunstancias justificadas.
 
-### CAPITULO VIII. Trabajadores del Campo
+### CAPITULO VII. Trabajo de maniobras de Servicio Público en zonas bajo Jurisdicción Federal
 
 ###### Artículo 265.
 
@@ -2180,7 +2424,7 @@ En los contratos colectivos podrá estipularse la constitución de un fondo afec
 
 Alcanzado el monto del fondo, no se harán nuevas aportaciones, salvo para reponer las cantidades que se paguen.
 
-### CAPITULO IX. Agentes de Comercio y otros Semejantes
+### CAPITULO VIII. Trabajadores del Campo
 
 ###### Artículo 279.
 
@@ -2242,7 +2486,7 @@ II. Impedir la entrada a los vendedores de mercancías o cobrarles alguna cuota;
 
 III. Impedir a los trabajadores que críen animales de corral dentro del predio contiguo a la habitación que se hubiese señalado a cada uno.
 
-### CAPITULO X. Deportistas profesionales
+### CAPITULO IX. Agentes de Comercio y otros Semejantes
 
 ###### Artículo 285.
 
@@ -2276,9 +2520,9 @@ Los trabajadores no podrán ser removidos de la zona o ruta que se les haya asig
 
 Es causa especial de rescisión de las relaciones de trabajo la disminución importante y reiterada del volumen de las operaciones, salvo que concurran circunstancias justificativas.
 
-### CAPITULO XI. Trabajadores Actores y Músicos
+### CAPITULO X. Deportistas profesionales
 
-### CAPITULO XII. Trabajo a domicilio
+### CAPITULO XI. Trabajadores Actores y Músicos
 
 ###### Artículo 292.
 
@@ -2354,7 +2598,7 @@ I. La indisciplina grave o las faltas repetidas de indisciplina; y
 
 II. La pérdida de facultades.
 
-### CAPITULO XIII. Trabajadores Domésticos
+### CAPITULO XII. Trabajo a domicilio
 
 ###### Artículo 304.
 
@@ -2390,7 +2634,7 @@ La prestación de servicios dentro de la República, en lugar diverso de la resi
 
 Cuando la naturaleza del trabajo lo requiera, los patrones estarán obligados a proporcionar a los trabajadores actores y músicos camerinos cómodos, higiénicos y seguros, en el local donde se preste el servicio.
 
-### CAPITULO XIV. Trabajo en Hoteles, Restaurantes, Bares y otros Establecimientos Análogos
+### CAPITULO XIII. Trabajadores Domésticos
 
 ###### Artículo 311.
 
@@ -2542,11 +2786,9 @@ VI. Practicar visitas en los locales donde se ejecute el trabajo, para vigilar q
 
 VII. Informar a las Comisiones del Salario Mínimo las diferencias de salarios que adviertan, en relación con los que se paguen a trabajadores que ejecuten trabajos similares.
 
+### CAPITULO XIV. Trabajo en Hoteles, Restaurantes, Bares y otros Establecimientos Análogos
+
 ### CAPITULO XV. Industria Familiar
-
-### CAPITULO XVI. Trabajos de Médicos Residentes en Período de Adiestramiento en una Especialidad
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
 ###### Artículo 331.
 
@@ -2592,7 +2834,7 @@ III. El patrón deberá cooperar para la instrucción general del trabajador dom
 
 Además de las obligaciones a que se refiere el artículo anterior, en los casos de enfermedad que no sea de trabajo, el patrón deberá:
 
-l. Pagar al trabajador doméstico el salario que le corresponda hasta por un mes;
+I. Pagar al trabajador doméstico el salario que le corresponda hasta por un mes;
 
 II. Si la enfermedad no es crónica, proporcionarle asistencia médica entre tanto se logra su curación o se hace cargo del trabajador algún servicio asistencial; y
 
@@ -2622,9 +2864,11 @@ El trabajador doméstico podrá dar por terminada en cualquier tiempo la relaci�
 
 El patrón podrá dar por terminada la relación de trabajo sin responsabilidad, dentro de los treinta días siguientes a la iniciación del servicio; y en cualquier tiempo, sin necesidad de comprobar la causa que tenga para ello, pagando la indemnización que corresponda de conformidad con lo dispuesto en los artículos 49, fracción IV, y 50.
 
-### CAPITULO I. Coaliciones
+### CAPITULO XVI. Trabajos de Médicos Residentes en Período de Adiestramiento en una Especialidad
 
-### CAPITULO II. Sindicatos, Federaciones y Confederaciones
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+### CAPITULO I. Coaliciones
 
 ###### Artículo 344.
 
@@ -2662,7 +2906,7 @@ II. Verificar que las propinas correspondan en su totalidad a los trabajadores; 
 
 III. Vigilar que se respeten las normas sobre jornada de trabajo.
 
-### CAPITULO III. Contrato Colectivo de Trabajo
+### CAPITULO II. Sindicatos, Federaciones y Confederaciones
 
 ###### Artículo 351.
 
@@ -2678,7 +2922,7 @@ La Inspección del Trabajo vigilará el cumplimiento de las normas a que se refi
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
-### CAPITULO IV. Contrato-Ley
+### CAPITULO III. Contrato Colectivo de Trabajo
 
 ###### Artículo 353-A.
 
@@ -2718,7 +2962,7 @@ II.- Acatar las órdenes de las personas designadas para impartir el adiestramie
 
 III.- Cumplir las disposiciones internas de la Unidad Médica Receptora de Residentes de que se trate, en cuanto no contraríen las contenidas en esta Ley;
 
-IV.- Asistir a las conferencias de teoría sesiones clínicas, anatomoclínicas, clinicorradiológicas, bibliográficas y demás actividades académicas que se señalen como parte de los estudios de especialización;
+IV.- Asistir a las conferencias de teoría (sic) sesiones clínicas, anatomoclínicas, clinicorradiológicas, bibliográficas y demás actividades académicas que se señalen como parte de los estudios de especialización;
 
 V.- Permanecer en la Unidad Médica Receptora de Residentes, en los términos del artículo siguiente; y
 
@@ -2744,7 +2988,7 @@ En relación con este Capítulo, no regirá lo dispuesto por el artículo 39 de 
 
 Son causas especiales de rescisión de la relación de trabajo, sin responsabilidad para el patrón, además de la que establece el artículo 47, las siguientes:
 
-I.- El incumplimiento de las obligaciones a que aluden las fracciones I, II, III y VI del artículo 353-D;
+I.- El incumplimiento de las obligaciones a que aluden las fracciones I, II, III y VI del artículo 353.D;
 
 II.- La violación de las normas técnicas o administrativas necesarias para el funcionamiento de la Unidad Médica Receptora de Residentes en la que se efectúe la residencia;
 
@@ -2766,11 +3010,11 @@ II.- La supresión académica de estudios en la Especialidad en la rama de la Me
 
 Las disposiciones de este Capítulo no serán aplicables a aquellas personas que exclusivamente reciben cursos de capacitación o adiestramiento, como parte de su formación profesional, en las instituciones de salud.
 
-### CAPITULO V. Reglamento Interior de Trabajo
+### CAPITULO IV. Contrato-Ley
 
 ## TITULO SEPTIMO. Relaciones Colectivas de Trabajo
 
-### CAPITULO VI. Modificación Colectiva de las Condiciones de Trabajo
+### CAPITULO V. Reglamento Interior de Trabajo
 
 ###### Artículo 354.
 
@@ -2780,7 +3024,7 @@ La Ley reconoce la libertad de coalición de trabajadores y patrones.
 
 Coalición es el acuerdo temporal de un grupo de trabajadores o de patrones para la defensa de sus intereses comunes.
 
-### CAPITULO VII. Suspensión Colectiva de las Relaciones de Trabajo
+### CAPITULO VI. Modificación Colectiva de las Condiciones de Trabajo
 
 ###### Artículo 356.
 
@@ -3038,7 +3282,7 @@ IV. Copia autorizada del acta de la asamblea en que se haya elegido la directiva
 
 La documentación se autorizará de conformidad con lo dispuesto en el párrafo final del artículo 365.
 
-### CAPITULO VIII. Terminación Colectiva de las Relaciones de Trabajo
+### CAPITULO VII. Suspensión Colectiva de las Relaciones de Trabajo
 
 ###### Artículo 386.
 
@@ -3084,9 +3328,25 @@ IV. Las jornadas de trabajo;
 
 V. Los días de descanso y vacaciones;
 
-VI. El monto de los salarios; y
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
-VII. Las demás estipulaciones que convengan las partes.
+VI. El monto de los salarios;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+VII. Las cláusulas relativas a la capacitación o adiestramiento de los trabajadores en la empresa o establecimientos que comprenda;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE ABRIL DE 1978)</small>
+
+VIII. Disposiciones sobre la capacitación o adiestramiento inicial que se deba impartir a quienes vayan a ingresar a laborar a la empresa o establecimiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE ABRIL DE 1978)</small>
+
+lX. Las bases sobre la integración y funcionamiento de las Comisiones que deban integrarse de acuerdo con esta Ley; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE ABRIL DE 1978)</small>
+
+X. Las demás estipulaciones que convengan las partes.
 
 ###### Artículo 392.
 
@@ -3164,9 +3424,7 @@ Si firmado un contrato colectivo, un patrón se separa del sindicato que lo cele
 
 En los casos de disolución del sindicato de trabajadores titular del contrato colectivo o de terminación de éste, las condiciones de trabajo continuarán vigentes en la empresa o establecimiento.
 
-### CAPITULO I
-
-Disposiciones Generales.
+### CAPITULO VIII. Terminación Colectiva de las Relaciones de Trabajo
 
 ###### Artículo 404.
 
@@ -3212,9 +3470,15 @@ II. La Entidad o Entidades Federativas, la zona o zonas que abarque o la expresi
 
 III. Su duración, que no podrá exceder de dos años;
 
-IV. Las condiciones de trabajo señaladas en el artículo 391, fracciones IV, V, y VI; y
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
-V. Las demás estipulaciones que convengan las partes.
+IV. Las condiciones de trabajo señaladas en el artículo 391, fracciones IV, V, VI y IX;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE ABRIL DE 1978)</small>
+
+V. Las reglas conforme a las cuales se formularán los planes y programas para la implantación de la capacitación y el adiestramiento en la rama de la industria de que se trate; y,
+
+VI. Las demás estipulaciones que convengan las partes.
 
 ###### Artículo 413.
 
@@ -3288,7 +3552,9 @@ I. Por mutuo consentimiento de las partes que representen la mayoría a que se r
 
 II. Si al concluir el procedimiento de revisión, los sindicatos de trabajadores y los patrones no llegan a un convenio, salvo que aquéllos ejerciten el derecho de huelga.
 
-### CAPITULO II. Objetivos y Procedimientos de Huelga
+### CAPITULO I
+
+Disposiciones Generales.
 
 ###### Artículo 422.
 
@@ -3340,7 +3606,7 @@ IV. Los trabajadores o el patrón, en cualquier tiempo, podrán solicitar de la 
 
 El reglamento surtirá efectos a partir de la fecha de su depósito. Deberá imprimirse y repartirse entre los trabajadores y se fijará en los lugares más visibles del establecimiento.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. Objetivos y Procedimientos de Huelga
 
 ###### Artículo 426.
 
@@ -3352,7 +3618,7 @@ II. Cuando el aumento del costo de la vida origine un desequilibrio entre el cap
 
 La solicitud se ajustará a lo dispuesto en los artículos 398 y 419, fracción I, y se tramitará de conformidad con las disposiciones para conflictos colectivos de naturaleza económica.
 
-### CAPITULO II. Competencia Constitucional de las Autoridades del Trabajo
+### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 427.
 
@@ -3398,7 +3664,9 @@ El patrón deberá anunciar con toda oportunidad la fecha de reanudación de los
 
 Si el patrón no cumple las obligaciones consignadas en el párrafo anterior, los trabajadores podrán ejercitar las acciones a que se refiere el artículo 48.
 
-### CAPITULO III. Procuraduría de la Defensa del Trabajo
+### CAPITULO II. Competencia Constitucional de las Autoridades del Trabajo
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 433.
 
@@ -3448,7 +3716,7 @@ Cuando se trate de la implantación de maquinaria o de procedimientos de trabajo
 
 ## TITULO OCTAVO. Huelgas
 
-### CAPITULO IV. Servicio Público del Empleo
+### CAPITULO III. Procuraduría de la Defensa del Trabajo
 
 ###### Artículo 440.
 
@@ -3496,7 +3764,9 @@ No es aplicable lo dispuesto en el párrafo anterior cuando la huelga tenga por 
 
 La Junta de Conciliación y Arbitraje y las autoridades civiles correspondientes deberán hacer respetar el derecho de huelga, dando a los trabajadores las garantías necesarias y prestándoles el auxilio que soliciten para suspender el trabajo.
 
-### CAPITULO V. Inspección del Trabajo
+### CAPITULO IV. Del Servicio Nacional del Empleo, Capacitación y Adiestramiento
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 450.
 
@@ -3938,27 +4208,25 @@ III. Cuando tengan a su servicio más de trescientos trabajadores, instalar un h
 
 IV. Previo acuerdo con los trabajadores, podrán los patrones celebrar contratos con sanatorios u hospitales ubicados en el lugar en que se encuentre el establecimiento o a una distancia que permita el traslado rápido y cómodo de los trabajadores, para que presten los servicios a que se refieren las dos fracciones anteriores;
 
-V. Dar aviso de los accidentes ocurridos a la Junta de Conciliación Permanente, a la de Conciliación y Arbitraje o al Inspector del Trabajo, dentro de las setenta y dos horas siguientes;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
-VI. En caso de muerte por riesgo de trabajo, dar aviso a las mismas autoridades, tan pronto como tengan conocimiento de ella; y
+V. Dar aviso escrito a la Secretaría del Trabajo y Previsión Social, al Inspector del Trabajo y a la Junta de Conciliación Permanente o a la de Conciliación y Arbitraje, dentro de las 72 horas siguientes, de los accidentes que ocurran, proporcionando los siguientes datos y elementos:
 
-VII. Proporcionar a la Junta o al Inspector del Trabajo los datos y elementos de que dispongan, especialmente los siguientes:
+a) Nombre y domicilio de la empresa;
 
-a) Nombre y domicilio del trabajador y de la empresa.
+b) Nombre y domicilio del trabajador; así como su puesto o categoría y el monto de su salario;
 
-b) Lugar y hora del accidente.
+c) Lugar y hora del accidente, con expresión sucinta de los hechos;
 
-c) Nombre y domicilio de las personas que lo presenciaron.
+d) Nombre y domicilio de las personas que presenciaron el accidente; y,
 
-d) Lugar en que esté siendo atendido el accidentado.
+e) Lugar en que se presta o haya prestado atención médica al accidentado.
 
-e) Trabajo que desempeñaba.
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
-f) Salario que devengaba.
+VI. Tan pronto se tenga conocimiento de la muerte de un trabajador por riesgos de trabajo, dar aviso escrito a las autoridades que menciona la fracción anterior, proporcionando, además de los datos y elementos que señala dicha fracción, el nombre y domicilio de las personas que pudieran tener derecho a la indemnización correspondiente.
 
-> <small>(F. DE E., D.O.F. 30 DE ABRIL DE 1970)</small>
-
-g) Nombre y domicilio de las personas a quienes pueda corresponder la indemnización en caso de muerte.
+VII. (DEROGADA, D.O.F. 28 DE ABRIL DE 1978)
 
 > <small>(F. DE E., D.O.F. 30 DE ABRIL DE 1970)</small>
 
@@ -4010,9 +4278,59 @@ II. Hacer constar en actas especiales las violaciones que descubran; y
 
 III. Colaborar con los trabajadores y el patrón en la difusión de las normas sobre prevención de riesgos, higiene y salubridad.
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
 ###### Artículo 512.
 
-En los reglamentos de esta Ley se determinarán las medidas que deberán observarse, a fin de prevenir los riesgos de trabajo y lograr que éste se efectúe en condiciones que aseguren la vida y la salud de los trabajadores.
+En los reglamentos de esta Ley y en los instructivos que las autoridades laborales expidan con base en ellos, se fijarán las medidas necesarias para prevenir los riesgos de trabajo y lograr que éste se preste en condiciones que aseguren la vida y la salud de los trabajadores.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 512-A.
+
+Con el objeto de estudiar y proponer la adopción de medidas preventivas para abatir los riesgos en los centros de trabajo, se organizará la Comisión Consultiva Nacional de Seguridad e Higiene en el Trabajo, integrada por representantes de las Secretarías del Trabajo y Previsión Social y de Salubridad y Asistencia, y del Instituto Mexicano del Seguro Social, así como por los que designen aquellas organizaciones nacionales de trabajadores y de patrones a las que convoque el Titular de la Secretaría del Trabajo y Previsión Social, quien tendrá el carácter de Presidente de la citada Comisión.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 512-B.
+
+En cada Entidad Federativa se constituirá una Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo, cuya finalidad será la de estudiar y proponer la adopción de todas aquellas medidas preventivas para abatir los riesgos en los centros de trabajo comprendidos en su jurisdicción.
+
+Dichas Comisiones Consultivas Estatales serán presididas por los Gobernadores de las Entidades Federativas y en su integración participarán también representantes de las Secretarías del Trabajo y Previsión Social y Salubridad y Asistencia, y del Instituto Mexicano del Seguro Social; así como los que designen las organizaciones de trabajadores y de patrones a las que convoquen, conjuntamente, la Secretaría del Trabajo y Previsión Social y el Gobernador de la Entidad correspondiente.
+
+El representante de la Secretaría del Trabajo y Previsión Social ante la Comisión Consultiva Estatal respectiva, fungirá como Secretario de la misma.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 512-C.
+
+La organización de la Comisión Consultiva Nacional de Seguridad e Higiene en el Trabajo y la de las Comisiones Consultivas Estatales de Seguridad e Higiene en el Trabajo, serán señaladas en el reglamento de esta Ley que se expida en materia de seguridad e higiene.
+
+El funcionamiento interno de dichas Comisiones, se fijará en el Reglamento Interior que cada Comisión expida.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 512-D.
+
+Los patrones deberán efectuar las modificaciones que ordenen las autoridades del trabajo a fin de ajustar sus establecimientos, instalaciones o equipos a las disposiciones de esta Ley, de sus reglamentos o de los instructivos que con base en ellos expidan las autoridades competentes. Si transcurrido el plazo que se les conceda para tal efecto, no se han efectuado las modificaciones, la Secretaría del Trabajo y Previsión Social procederá a sancionar al patrón infractor, con apercibimiento de sanción mayor en caso de no cumplir la orden dentro del nuevo plazo que se le otorgue.
+
+Si aplicadas las sanciones a que se hace referencia anteriormente, subsistiera la irregularidad, la Secretaría, tomando en cuenta la naturaleza de las modificaciones ordenadas y el grado de riesgo, podrá clausurar parcial o totalmente el centro de trabajo hasta que se dé cumplimiento a la obligación respectiva, oyendo previamente la opinión de la Comisión Mixta de Seguridad e Higiene correspondiente, sin perjuicio de que la propia Secretaría adopte las medidas pertinentes para que el patrón cumpla con dicha obligación.
+
+Cuando la Secretaría del Trabajo determine la clausura parcial o total, lo notificará por escrito, con tres días hábiles de anticipación a la fecha de la clausura, al patrón y a los representantes del sindicato. Si los trabajadores no están sindicalizados, el aviso se notificará por escrito a los representantes de éstos ante la Comisión Mixta de Seguridad e Higiene.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 512-E.
+
+La Secretaría del Trabajo y Previsión Social establecerá la coordinación necesaria con la Secretaría de Salubridad y Asistencia y con el Instituto Mexicano del Seguro Social para la elaboración de programas y el desarrollo de campañas tendientes a prevenir accidentes y enfermedades de trabajo.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 512-F.
+
+Las autoridades de las Entidades Federativas auxiliarán a las del orden federal en la aplicación de las normas de seguridad e higiene en el trabajo, cuando se trate de empresas o establecimientos que, en los demás aspectos derivados de las relaciones laborales, estén sujetos a la jurisdicción local.
+
+Dicho auxilio será prestado en los términos de los artículos 527-A y 529.
 
 ###### Artículo 513.
 
@@ -4090,7 +4408,7 @@ TITULO ONCE
 
 Autoridades del Trabajo y Servicios Sociales
 
-### CAPITULO VI. Comisión Nacional de los Salarios Mínimos
+### CAPITULO V. Inspección del Trabajo
 
 ###### Artículo 523.
 
@@ -4104,7 +4422,9 @@ III. A las autoridades de las Entidades Federativas, y a sus Direcciones o Depar
 
 IV. A la Procuraduría de la Defensa del Trabajo;
 
-V. Al Servicio Público del Empleo;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+V. Al Servicio Nacional del Empleo, Capacitación y Adiestramiento;
 
 VI. A la Inspección del Trabajo;
 
@@ -4128,93 +4448,107 @@ La Secretaría del Trabajo y Previsión Social y los Departamentos y Direcciones
 
 La Secretaría del Trabajo y Previsión Social organizará un Instituto del Trabajo, para la preparación y elevación del nivel cultural del personal técnico y administrativo.
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
 ###### Artículo 526.
 
-Compete a la Secretaría de Hacienda y Crédito Público la intervención que le señala el Título Tercero, capítulo VIII, y a la Secretaría de Educación Pública vigilar el cumplimiento de las obligaciones que impone a los patrones esta Ley en materia educativa.
+Compete a la Secretaría de Hacienda y Crédito Público, la intervención que le señala el Título Tercero, Capítulo VIII, y a la Secretaría de Educación Pública, la vigilancia del cumplimiento de las obligaciones que esta Ley impone a los patrones en materia educativa e intervenir coordinadamente con la Secretaría del Trabajo y Previsión Social, en la capacitación y adiestramiento de los trabajadores, de acuerdo con lo dispuesto en el Capítulo IV de este Título.
 
-### CAPITULO VII. Comisiones Regionales de los Salarios Mínimos
+### CAPITULO VI. Comisión Nacional de los Salarios Mínimos
 
 ###### Artículo 527.
 
-La aplicación de las normas de trabajo corresponde a las Autoridades Federales, cuando se trate de:
+La aplicación de las normas de trabajo corresponde a las autoridades federales, cuando se trate de:
 
-I. La industria minera y de hidrocarburos;
+I. Ramas industriales:
 
-II. La industria petroquímica;
+1.- Textil;
 
-III. Las industrias metalúrgica y siderúrgica, abarcando la explotación de los minerales básicos, su beneficio y fundición, así como la obtención de hierro metálico y acero en todas sus formas y ligas y los productos laminados de los mismos;
+2.- Eléctrica;
 
-IV. La industria eléctrica;
+3.- Cinematográfica;
 
-V. La industria textil;
+4.- Hulera;
 
-VI. La industria cinematográfica;
+5.- Azucarera;
 
-VII. La industria hulera;
+6.- Minera;
 
-VIII. La industria azucarera;
+7.- Metalúrgica y siderúrgica, abarcando la explotación de los minerales básicos, el beneficio y la fundición de los mismos, así como la obtención de hierro metálico y acero a todas sus formas y ligas y los productos laminados de los mismos;
 
-IX. La industria del cemento;
+8.- De hidrocarburos;
 
-> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
+9.- Petroquímica;
 
-X.- La Industria de Fabricación y Ensamble de Vehículos Automotrices;
+10.- Cementera;
 
-> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
+11.- Calera;
 
-XI.- La Industria de productos Químicos-Farmacéuticos y Medicamentos;
+12.- Automotriz, incluyendo autopartes mecánicas o eléctricas;
 
-> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
+13.- Química, incluyendo la química farmacéutica y medicamentos;
 
-XII.- La Industria de Celulosa y Papel;
+14.- De celulosa y papel;
 
-> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
+15.- De aceites y grasas vegetales;
 
-XIII.- La Industria de Aceites y Grasas Vegetales;
+16.- Productora de alimentos, abarcando exclusivamente la fabricación de los que sean empacados, enlatados o envasados o que se destinen a ello;
 
-> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
+17.- Elaboradora de bebidas que sean envasadas o enlatadas o que se destinen a ello;
 
-XIV.- La Industria Empacadora y Enlatadora de Alimentos;
+18.- Ferrocarrilera;
 
-> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
+19.- Maderera básica que comprende la producción de aserradero y la fabricación de triplay o aglutinados de madera;
 
-XV.- La Industria Embotelladora de Refrescos: Aguas Naturales y Aguas Gaseosas;
+20.- Vidriera, exclusivamente por lo que toca a la fabricación de vidrio plano, liso o labrado, o de envases de vidrio; y,
 
-> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
+21.- Tabacalera, que comprende el beneficio o fabricación de productos de tabaco.
 
-XVI.- La Industria Ferrocarrilera;
+II. Empresas:
 
-> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
+1.- Aquéllas que sean administradas en forma directa o descentralizada por el Gobierno Federal;
 
-XVII.- Empresas que sean administradas en forma directa o descentralizada por el Gobierno Federal;
+2.- Aquéllas que actúen en virtud de un contrato o concesión federal y las industrias que les sean conexas; y,
 
-> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
+3.- Aquéllas que ejecuten trabajos en zonas federales o que se encuentren bajo jurisdicción federal, en las aguas territoriales o en las comprendidas en la zona económica exclusiva de la Nación.
 
-XVIII.- Empresas que actúen en virtud de un contrato o concesión federal y las que les sean conexas;
+También corresponderá a las autoridades federales la aplicación de las normas de trabajo en los asuntos relativos a conflictos que afecten a dos o más Entidades Federativas; contratos colectivos que hayan sido declarados obligatorios en más de una Entidad Federativa; y, obligaciones patronales en las materias de capacitación y adiestramiento de sus trabajadores y de seguridad e higiene en los centros de trabajo.
 
-> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
-XIX.- Empresas que ejecuten trabajos en Zonas Federales y Aguas Territoriales;
+###### Artículo 527-A.
 
-> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
+En la aplicación de las normas de trabajo referentes a la capacitación y adiestramiento de los trabajadores y las relativas a seguridad e higiene en el trabajo, las autoridades de la Federación serán auxiliadas por las locales, tratándose de empresas o establecimientos que, en los demás aspectos derivados de las relaciones laborales, estén sujetos a la jurisdicción de estas últimas.
 
-XX.- Conflictos que afecten a dos o más Entidades Federativas; y
-
-> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
-
-XXI.- Contratos Colectivos que hayan sido declarados obligatorios en más de una Entidad Federativa;
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 528.
 
-Son empresas conexas las relacionadas permanente y directamente para la elaboración de productos determinados o para la prestación unitaria de servicio.
+Para los efectos del punto 2 de la fracción II del artículo 527, son empresas conexas las relacionadas permanente y directamente para la elaboración de productos determinados o para la prestación unitaria de servicios.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 529.
 
-La aplicación de las normas de trabajo corresponde a las Autoridades de las Entidades Federativas en los casos no previstos en los dos artículos anteriores.
+En los casos no previstos por los artículos 527 y 528, la aplicación de las normas de trabajo corresponde a las autoridades de las Entidades Federativas.
 
-### CAPITULO VIII. Procedimiento ante las Comisiones Nacional y Regionales de los Salarios Mínimos
+De conformidad con lo dispuesto por el artículo 527-A, las autoridades de las Entidades Federativas deberán:
 
-> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+I.- Poner a disposición de las Dependencias del Ejecutivo Federal competentes para aplicar esta Ley, la información que éstas les soliciten para estar en aptitud de cumplir sus funciones;
+
+II.- Participar en la integración y funcionamiento del respectivo Consejo Consultivo Estatal de Capacitación y Adiestramiento;
+
+III.- Participar en la integración y funcionamiento de la correspondiente Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo;
+
+IV.- Reportar a la Secretaría del Trabajo y Previsión Social las violaciones que cometan los patrones en materia de seguridad e higiene y de capacitación y adiestramiento e intervenir en la ejecución de las medidas que se adopten para sancionar tales violaciones y para corregir las irregularidades en las empresas o establecimientos sujetos a jurisdicción local;
+
+V.- Coadyuvar con los correspondientes Comités Nacionales de Capacitación y Adiestramiento;
+
+VI.- Auxiliar en la realización de los trámites relativos a constancias de habilidades laborales; y,
+
+VII.- Previa determinación general o solicitud específica de las autoridades federales, adoptar aquellas otras medidas que resulten necesarias para auxiliarlas en los aspectos concernientes a tal determinación o solicitud.
+
+### CAPITULO VII. Comisiones Regionales de los Salarios Mínimos
 
 ###### Artículo 530.
 
@@ -4262,35 +4596,145 @@ Las Autoridades están obligadas a proporcionar a la Procuraduría de la Defensa
 
 Los reglamentos determinarán las atribuciones, la forma de su ejercicio y los deberes de la Procuraduría de la Defensa del Trabajo.
 
-### CAPITULO IX. Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+### CAPITULO VIII. Procedimiento ante las Comisiones Nacional y Regionales de los Salarios Mínimos
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
 
 ###### Artículo 537.
 
-El Servicio Público del Empleo tiene por objeto acopiar informes y datos que permitan procurar ocupación a los trabajadores.
+El Servicio Nacional del Empleo, Capacitación y Adiestramiento tendrá los siguientes objetivos:
 
-Los sistemas privados para la colocación de los trabajadores no podrán perseguir fines lucrativos y sus servicios serán gratuitos para los trabajadores. Podrán quedar exceptuadas de la prohibición de perseguir fines lucrativos, las agencias dedicadas a la colocación de trabajadores que pertenezcan a profesiones en las que la colocación se efectúe en condiciones especiales.
+I.- Estudiar y promover la generación de empleos;
+
+II.- Promover y supervisar la colocación de los trabajadores;
+
+III.- Organizar, promover y supervisar la capacitación y el adiestramiento de los trabajadores; y,
+
+IV.- Registrar las constancias de habilidades laborales.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 538.
 
-El Servicio Público del Empleo tiene las funciones siguientes:
+El Servicio Nacional del Empleo, Capacitación y Adiestramiento estará a cargo de la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento, como organismo desconcentrado dependiente de la Secretaría del Trabajo y Previsión Social.
 
-I. Llevar un registro de las personas que soliciten empleo y de las empresas que manifiesten tener puestos vacantes;
-
-II. Dirigir a los solicitantes más adecuados por su preparación y aptitudes, hacia los empleos vacantes;
-
-III. Practicar investigaciones para determinar las causas del desempleo y formular informes que contengan las bases para una política de pleno empleo;
-
-IV. Solicitar toda clase de informes y estudios de las instituciones oficiales, federales o estatales y de las particulares que se ocupen de problemas económicos, tales como los institutos de investigaciones sociales y económicas, las organizaciones sindicales, las cámaras de comercio, las de industria y otras instituciones semejantes; y
-
-V. Las demás que le confieran las leyes.
-
-Para el cumplimiento de sus funciones, el Servicio Público del Empleo se establecerá en los lugares que se juzgue conveniente.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 539.
 
-El Servicio Público del Empleo y los sistemas privados se regirán por los reglamentos que se expidan. En los mismos reglamentos se determinarán las excepciones a que se refiere el párrafo segundo del artículo 537.
+De conformidad con lo que dispone el artículo que antecede y para los efectos del 537, a la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento corresponden las siguientes actividades:
 
-### CAPITULO X. Juntas Federales de Conciliación
+I.- En materia de promoción de empleos:
+
+a) Practicar estudios para determinar las causas del desempleo y del subempleo de la mano de obra rural y urbana;
+
+b) Analizar permanentemente el mercado de trabajo, estimando su volumen y sentido de crecimiento;
+
+c) Formular y actualizar permanentemente el Catálogo Nacional de Ocupaciones, en coordinación con la Secretaría de Educación Pública;
+
+d) Promover, directa o indirectamente, el aumento de las oportunidades de empleo;
+
+e) Practicar estudios y formular planes y proyectos para impulsar la ocupación en el país, así como procurar su correcta ejecución;
+
+f) Proponer lineamientos para orientar la formación profesional hacia las áreas con mayor demanda de mano de obra;
+
+g) Proponer la celebración de convenios en materia de empleo, entre la Federación y las Entidades Federativas; y,
+
+h) En general, realizar todas aquéllas que las leyes y reglamentos encomienden a la Secretaría del Trabajo y Previsión Social en esta materia.
+
+II.- En materia de colocación de trabajadores:
+
+a) Encauzar a los demandantes de trabajo hacia aquellas personas que requieran sus servicios, dirigiendo a los solicitantes más adecuados, por su preparación y aptitudes, hacia los empleos que les resulten más idóneos;
+
+b) Autorizar y registrar, en su caso, el funcionamiento de agencias privadas que se dediquen a la colocación de personas;
+
+c) Vigilar que las entidades privadas a que alude el inciso anterior, cumplan las obligaciones que les impongan esta ley, sus reglamentos y las disposiciones administrativas de las autoridades laborales;
+
+d) Intervenir, en coordinación con las respectivas Unidades Administrativas de las Secretarías de Gobernación, de Patrimonio y Fomento Industrial, de Comercio y de Relaciones Exteriores, en la contratación de los nacionales que vayan a prestar sus servicios en el extranjero;
+
+e) Proponer la celebración de convenios en materia de colocación de trabajadores, entre la Federación y las Entidades Federativas; y,
+
+f) En general, realizar todas aquéllas que las leyes y reglamentos encomienden a la Secretaría del Trabajo y Previsión Social en esta materia.
+
+III.- En materia de capacitación o adiestramiento de trabajadores:
+
+a) Cuidar de la oportuna constitución y el funcionamiento de las Comisiones Mixtas de Capacitación y Adiestramiento;
+
+b) Estudiar y, en su caso, sugerir la expedición de Convocatorias para formar Comités Nacionales de Capacitación y Adiestramiento, en aquellas ramas industriales o actividades en que lo juzgue conveniente; así como la fijación de las bases relativas a la integración y funcionamiento de dichos Comités;
+
+c) Estudiar y, en su caso, sugerir, en relación con cada rama industrial o actividad, la expedición de criterios generales que señalen los requisitos que deban observar los planes y programas de capacitación y adiestramiento, oyendo la opinión del Comité Nacional de Capacitación y Adiestramiento que corresponda;
+
+d) Autorizar y registrar, en los términos del artículo 153-C, a las instituciones o escuelas que deseen impartir capacitación y adiestramiento a los trabajadores; supervisar su correcto desempeño; y, en su caso, revocar la autorización y cancelar el registro concedido;
+
+e) Aprobar, modificar o rechazar, según el caso, los planes y programas de capacitación o adiestramiento que los patrones presenten;
+
+f) Estudiar y sugerir el establecimiento de sistemas generales que permitan, capacitar o adiestrar a los trabajadores, conforme al procedimiento de adhesión, convencional a que se refiere el artículo 153-B;
+
+g) Dictaminar sobre las sanciones que deban imponerse por infracciones a las normas contenidas en el Capítulo III Bis del Título Cuarto;
+
+h) Establecer coordinación con la Secretaría de Educación Pública para implantar planes o programas sobre capacitación y adiestramiento para el trabajo y, en su caso, para la expedición de certificados conforme a lo dispuesto en esta Ley, en los ordenamientos educativos y demás disposiciones en vigor;
+
+i) En general, realizar todas aquéllas que las leyes y reglamentos encomienden a la Secretaría del Trabajo y Previsión Social en esta materia.
+
+IV.- En materia de registro de constancias de habilidades laborales:
+
+a) Establecer registros de constancias relativas a trabajadores capacitados o adiestrados, dentro de cada una de las ramas industriales o actividades; y,
+
+b) En general, realizar todas aquéllas que las leyes y reglamentos confieran a la Secretaría del Trabajo y Previsión Social en esta materia.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 539-A.
+
+Para el cumplimiento de sus funciones en relación con las empresas o establecimientos que pertenezcan a ramas industriales o actividades de jurisdicción federal, la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento será asesorada por un Consejo Consultivo integrado por representantes del Sector Público, de las organizaciones nacionales de trabajadores y de las organizaciones nacionales de patrones, a razón de cinco miembros por cada uno de ellos con sus respectivos suplentes.
+
+Por el Sector Público participarán sendos representantes de la Secretaría del Trabajo y Previsión Social, de la Secretaría de Educación Pública, de la Secretaría de Comercio, de la Secretaría de Patrimonio y Fomento Industrial y del Instituto Mexicano del Seguro Social.
+
+Los representantes de las organizaciones obreras y de las patronales serán designados conforme a las bases que expida la Secretaría del Trabajo y Previsión Social.
+
+El Consejo Consultivo será presidido por el Secretario del Trabajo y Previsión Social; fungirá como Secretario del mismo, el Coordinador General de la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento; y su funcionamiento se regirá por el reglamento que expida el propio Consejo.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 539-B.
+
+Cuando se trate de empresas o establecimientos sujetos a jurisdicción local y para la realización de las actividades a que se contraen las fracciones III y IV del artículo 539, la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento, será asesorada por Consejos Consultivos Estatales de Capacitación y Adiestramiento.
+
+Los Consejos Consultivos Estatales estarán formados por el Gobernador de la Entidad Federativa correspondiente, quien los presidirá; sendos representantes de la Secretaría del Trabajo y Previsión Social, de la Secretaría de Educación Pública y del Instituto Mexicano del Seguro Social; tres representantes de las organizaciones locales de trabajadores y tres representantes de las organizaciones patronales de la Entidad. El representante de la Secretaría del Trabajo y Previsión Social fungirá como Secretario del Consejo.
+
+La Secretaría del Trabajo y Previsión Social y el Gobernador de la Entidad Federativa que corresponda expedirán, conjuntamente, las bases conforme a las cuales deban designarse los representantes de los trabajadores y de los patrones en los Consejos Consultivos mencionados y formularán, al efecto, las invitaciones que se requieran.
+
+Los Consejos Consultivos se sujetarán en lo que se refiere a su funcionamiento interno, al reglamento que al efecto expida cada uno de ellos.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 539-C.
+
+Las autoridades laborales estatales auxiliarán a la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento para el desempeño de sus funciones, de acuerdo a lo que establecen los artículos 527-A y 529.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 539-D.
+
+El servicio para la colocación de los trabajadores será invariablemente gratuito para ellos y será proporcionado, según el régimen de aplicación de esta Ley, por la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento o por los órganos competentes de las Entidades Federativas, de conformidad con lo establecido por la fracción II del artículo 539, en ambos casos.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 539-E.
+
+Podrán participar en la prestación del servicio a que se refiere el artículo anterior, otras dependencias oficiales, instituciones docentes, organizaciones sindicales o patronales, instituciones de beneficencia y demás asociaciones civiles que no persigan fines de lucro. En estos casos, lo harán del conocimiento de la Secretaría del Trabajo y Previsión Social para fines de registro y control y para que la citada Dependencia, a través de la Unidad respectiva, esté en posibilidad de coordinar las acciones en esta materia.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
+###### Artículo 539-F.
+
+Las autorizaciones para el funcionamiento de agencias de colocaciones, con fines lucrativos, sólo podrán otorgarse excepcionalmente, para la contratación de trabajadores que deban realizar trabajos especiales.
+
+Dichas autorizaciones se otorgarán previa solicitud del interesado, cuando a juicio de la Secretaría del Trabajo y Previsión Social se justifique la prestación del servicio por particulares y una vez que se satisfagan los requisitos que al efecto se señalen. En estos casos, de acuerdo con lo establecido en el artículo 539-D, el servicio deberá ser gratuito para los trabajadores y las tarifas conforme a las cuales se presten, deberán ser previamente fijadas por la Secretaría del Trabajo y Previsión Social.
+
+### CAPITULO IX. Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
 
 ###### Artículo 540.
 
@@ -4418,9 +4862,7 @@ III. Cuando a juicio del Director General la sanción aplicable sea la destituci
 
 Los reglamentos determinarán las atribuciones, la forma de su ejercicio y los deberes de la Inspección del Trabajo.
 
-### CAPITULO XI. Juntas Locales de Conciliación
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+### CAPITULO X. Juntas Federales de Conciliación
 
 ###### Artículo 551.
 
@@ -4594,7 +5036,9 @@ III. Actuar como Secretario del Consejo de Representantes; y
 
 IV. Los demás que le confieran las leyes.
 
-### CAPITULO XII. Junta Federal de Conciliación y Arbitraje
+### CAPITULO XI. Juntas Locales de Conciliación
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### Artículo 564.
 
@@ -4638,7 +5082,7 @@ V. Informar a la Comisión Nacional, cada quince días, del desarrollo de sus tr
 
 VI. Los demás que les confieran las leyes.
 
-### CAPITULO XIII. Juntas Locales de Conciliación y Arbitraje
+### CAPITULO XII. Junta Federal de Conciliación y Arbitraje
 
 ###### Artículo 570.
 
@@ -4702,7 +5146,7 @@ III. Las decisiones se tomarán por mayoría de votos de los miembros presentes.
 
 IV. De cada sesión se levantará un acta, que suscribirán el Presidente y el Secretario.
 
-### CAPITULO I. Representantes de los Trabajadores y de los Patrones en las Juntas Federal y Locales de Conciliación y Arbitraje y en las Juntas de Conciliación Permanentes
+### CAPITULO XIII. Juntas Locales de Conciliación y Arbitraje
 
 ###### Artículo 575.
 
@@ -4858,11 +5302,11 @@ Los sindicatos, federaciones y confederaciones de trabajadores o los patrones, n
 
 En los procedimientos a que se refiere este capítulo se observarán las normas contenidas en el artículo 574.
 
+### CAPITULO I. Representantes de los Trabajadores y de los Patrones en las Juntas Federal y Locales de Conciliación y Arbitraje y en las Juntas de Conciliación Permanentes
+
 ### CAPITULO II. Representantes de los Trabajadores y de los Patrones en las Comisiones Nacional y Regionales de los Salarios Mínimos
 
 ### CAPITULO III. Representantes de los Trabajadores y de los Patrones en la Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
-
-### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 591.
 
@@ -4952,11 +5396,11 @@ IV. Actuar como Juntas de Conciliación y Arbitraje para conocer y resolver los 
 
 V. Cumplimentar los exhortos y practicar las diligencias que les encomienden otras Juntas Federales o Locales de Conciliación y las Juntas Federales y Locales de Conciliación y Arbitraje; y
 
-> <small>(ADICIONADA [N. DE E.REFORMADA], D.O.F. 24 DE DICIEMBRE DE 1974)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 24 DE DICIEMBRE DE 1974)</small>
 
 VI.- Denunciar ante el Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar el salario mínimo general a uno o varios de sus trabajadores; y (sic)
 
-> <small>(ADICIONADA [N. DE E.REFORMADA], D.O.F. 2 DE JULIO DE 1976)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 2 DE JULIO DE 1976)</small>
 
 VII.- De ser procedente, aprobar los convenios que les sean sometidos por las partes.
 
@@ -4964,7 +5408,7 @@ VII.- De ser procedente, aprobar los convenios que les sean sometidos por las pa
 
 VIII. Las demás que les confieran las leyes.
 
-### CAPITULO II. Normas de Competencia
+### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 601.
 
@@ -4978,7 +5422,7 @@ No funcionarán las Juntas de Conciliación en los Municipios o zonas económica
 
 Son aplicables a las Juntas Locales de Conciliación las disposiciones contenidas en el capítulo anterior. Las atribuciones asignadas a la Secretaría del Trabajo y Previsión Social se ejercerán por los Gobiernos de los Estados y Territorios.
 
-### CAPITULO III. Recusaciones y Excusas
+### CAPITULO II. Normas de Competencia
 
 ###### Artículo 604.
 
@@ -5180,7 +5624,7 @@ d) En los casos de empate, el voto del o de los representantes ausentes se sumar
 
 III. Para la audiencia de discusión y votación del laudo, será necesaria la presencia del Presidente o Presidente Especial y del cincuenta por ciento de los representantes de los trabajadores y de los patrones, por lo menos. Si concurre menos del cincuenta por ciento, el Presidente señalará nuevo día y hora para que se celebre la audiencia; si tampoco se reúne la mayoría, se citará a los suplentes, quedando excluidos los faltistas del conocimiento del negocio. Si tampoco concurren los suplentes, el Presidente de la Junta o el de la Junta Especial, dará cuenta al Secretario del Trabajo y Previsión Social, para que designe las personas que los substituyan. En caso de empate, los votos de los ausentes se sumarán al del Presidente.
 
-### CAPITULO IV. Procedimiento ante las Juntas de Conciliación
+### CAPITULO III. Recusaciones y Excusas
 
 ###### Artículo 621.
 
@@ -5424,7 +5868,7 @@ TITULO TRECE
 
 Representantes de los Trabajadores y de los Patrones
 
-### CAPITULO V. Procedimiento para la Tramitación y Resolución de los Conflictos Individuales y de los Colectivos de Naturaleza Jurídica
+### CAPITULO IV. Procedimiento ante las Juntas de Conciliación
 
 ###### Artículo 648.
 
@@ -5704,9 +6148,7 @@ V. El acusado podrá ofrecer las pruebas que juzgue conveniente; y
 
 VI. Terminada la recepción de las pruebas, el Jurado escuchará los alegatos y dictará resolución, comunicándola, si fuese condenatoria, a la Autoridad a la que corresponda decretar la destitución.
 
-### CAPITULO VI. Procedimientos Especiales
-
-> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
+### CAPITULO V. Procedimiento para la Tramitación y Resolución de los Conflictos Individuales y de los Colectivos de Naturaleza Jurídica
 
 ###### Artículo 676.
 
@@ -5746,7 +6188,9 @@ Tienen derecho a participar en la elección los sindicatos de trabajadores y de 
 
 El Secretario del Trabajo y Previsión Social podrá delegar en las autoridades de las Entidades Federativas, total o parcialmente, las atribuciones que le corresponden en la certificación de padrones y credenciales y en el funcionamiento de las convenciones.
 
-### CAPITULO VII. Procedimiento para la Tramitación y Resolución de los Conflictos Colectivos de Naturaleza Económica
+### CAPITULO VI. Procedimientos Especiales
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
 ###### Artículo 683.
 
@@ -5766,13 +6210,13 @@ TITULO CATORCE
 
 Derecho Procesal del Trabajo
 
+### CAPITULO VII. Procedimiento para la Tramitación y Resolución de los Conflictos Colectivos de Naturaleza Económica
+
 ### CAPITULO VIII. Recursos
 
 ### CAPITULO IX. Providencias Cautelares
 
 ### CAPITULO X. Tercerías
-
-### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 685.
 
@@ -5808,7 +6252,7 @@ VII. El laudo; y
 
 VIII. En casos urgentes o cuando concurran circunstancias especiales a juicio de la Junta.
 
-### CAPITULO II. Procedimiento de Embargo
+### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 689.
 
@@ -5862,7 +6306,7 @@ No obstante lo dispuesto en el artículo anterior, si la persona se manifiesta s
 
 Los escritos que se presenten ante la Junta se turnarán diariamente al Pleno o a la Junta Especial que corresponda.
 
-### CAPITULO III. Remates
+### CAPITULO II. Procedimiento de Embargo
 
 ###### Artículo 698.
 
@@ -7104,73 +7548,97 @@ TITULO DIECISEIS
 
 Responsabilidades y Sanciones
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
 ###### Artículo 876.
 
-Las violaciones a las normas de trabajo cometidas por los trabajadores o los patrones se sancionarán de conformidad con las disposiciones de este Título, independientemente de la responsabilidad en que incurran por el incumplimiento de sus obligaciones.
+Las violaciones a las normas de trabajo cometidas por los patrones o por los trabajadores, se sancionarán de conformidad con las disposiciones de este Título, independientemente de la responsabilidad que les corresponda por el incumplimiento de sus obligaciones.
+
+La cuantificación de las sanciones pecuniarias que en el presente Titulo se establecen, se hará tomando como base de cálculo la cuota diaria de salario mínimo general vigente en el lugar y tiempo en que se cometa la violación.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 877.
 
-Se impondrá multa de quinientos a cinco mil pesos al patrón que no cumpla las normas que determinan el porcentaje o la utilización exclusiva de trabajadores mexicanos en las empresas o establecimientos.
+Al patrón que no cumpla las normas que determinan el porcentaje o la utilización exclusiva de trabajadores mexicanos en las empresas o establecimientos, se le impondrá una multa por el equivalente de 15 a 155 veces el salario mínimo general, conforme a lo dispuesto en el artículo que antecede.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 878.
 
-Se impondrá multa:
+Se impondrá multa, cuantificada en los términos del artículo 876, por el equivalente:
 
-I. De cien a cinco mil pesos al patrón que no cumpla las disposiciones contenidas en los artículos 61, 69, 76 y 77;
+I.- De 3 a 155 veces el salario mínimo general, al patrón que no cumpla las disposiciones contenidas en los artículos 61, 69, 76, y 77;
 
-II. (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 1974)
+II.- De 15 a 315 veces el salario mínimo general, al patrón que no cumpla las obligaciones que le impone el Capítulo VIII del Título Tercero;
 
-III. De quinientos a diez mil pesos al patrón que no cumpla las obligaciones que le impone el capítulo VIII del Título Tercero;
+III.- De 3 a 95 veces el salario mínimo general, al patrón que no cumpla las obligaciones señaladas en el artículo 132, fracciones IV, VII, VIII, IX, X, XII, XIV, XXII y XXIV;
 
-IV. De cien a tres mil pesos al patrón que no cumpla las obligaciones señaladas en el artículo 132, fracciones IV, VII, VIII, IX, X, XII, XIV, XV, XXII, XXIII y XXIV;
+IV.- De 15 a 315 veces el salario mínimo general, al patrón que no cumpla con lo dispuesto por la fracción XV del artículo 132. La multa se duplicará, si la irregularidad no es subsanada dentro del plazo que se conceda para ello;
 
-V. De quinientos a diez mil pesos al patrón que no observe la instalación de sus establecimientos las normas de seguridad e higiene o las medidas que fijen las leyes para prevenir los riesgos de trabajo. La multa se aumentará hasta veinte mil pesos si dentro del término que determina el Inspector del Trabajo no se subsanan las irregularidades; y
+V.- De 15 a 315 veces el salario mínimo general, al patrón que no observe en la instalación de sus establecimientos las normas de seguridad e higiene o las medidas que fijen las leyes para prevenir los riesgos de trabajo. La multa se duplicará, si la irregularidad no es subsanada dentro del plazo que se conceda para ello, sin perjuicio de que las autoridades procedan en los términos del artículo 512-D;
 
-VI. De quinientos a cinco mil pesos al patrón que viole las prohibiciones contenidas en el artículo 133, fracciones II, IV, VI y VII.
+VI.- De 15 a 155 veces el salario mínimo general, al patrón que viole las prohibiciones contenidas en el artículo 133, fracciones II, IV, VI y VII.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 879.
 
-Se impondrá multa de cien a cinco mil pesos al patrón que viole las normas que rigen el trabajo de las mujeres y de los menores.
+Al patrón que viole las normas que rigen el trabajo de las mujeres y de los menores, se le impondrá multa por el equivalente de 3 a 155 veces el salario mínimo general, calculado en los términos del artículo 876.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 880.
 
-Se impondrá multa al armador, naviero o fletador:
+Al armador, naviero o fletador, de conformidad a lo dispuesto por el artículo 876, se le impondrá multa por el equivalente:
 
-I. De cien a mil pesos si no cumple las disposiciones contenidas en los artículos 204, fracción II y 213, fracción II; y
+I.- De 3 a 31 veces el salario mínimo general, si no cumple las disposiciones contenidas en los artículos 204, fracción II, y 213, fracción II; y,
 
-II. De cien a cinco mil pesos al que no cumpla la obligación señalada en el artículo 204, fracción IX.
+II.- De 3 a 155 veces el salario mínimo general, al que no cumpla la obligación señalada en el artículo 204, fracción IX.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 881.
 
-Se impondrá multa de quinientos a cinco mil pesos al patrón que viole las normas protectoras del trabajo del campo y del trabajo a domicilio.
+Al patrón que viole las normas protectoras del trabajo del campo y del trabajo a domicilio, se le impondrá multa por el equivalente de 15 a 155 veces el salario mínimo general, conforme a lo establecido en el artículo 876.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 882.
 
-Se impondrá multa de cien a quinientos pesos al patrón que no facilite al trabajador doméstico que carezca de instrucción, la asistencia a una escuela primaria.
+Conforme a lo dispuesto en el artículo 876, al patrón que no facilite al trabajador doméstico que carezca de instrucción, la asistencia a una escuela primaria, se le impondrá multa por el equivalente de 3 a 15 veces el salario mínimo general.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 883.
 
-Se impondrá multa de cien a cinco mil pesos al patrón que viole las normas protectoras del trabajo en hoteles, restaurantes, bares y otros establecimientos semejantes.
+Al patrón que viole las normas protectoras del trabajo en hoteles, restaurantes, bares y otros establecimientos semejantes, se le impondrá multa por el equivalente de 3 a 155 veces el salario mínimo general, conforme a lo establecido en el artículo 876.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 884.
 
-El incumplimiento de las normas relativas a la remuneración de los trabajos, duración de la jornada, descansos, contenidas en un contrato-ley, cometido en el transcurso de una semana, se sancionará con multa de quinientos a diez mil pesos, tomando en consideración la gravedad de la falta. Si el incumplimiento se prolonga dos o más semanas, se acumularán las multas. La reincidencia se sancionará con la misma multa, aumentada en un veinticinco por ciento.
+El incumplimiento de las normas relativas a la remuneración de los trabajos, duración de la jornada, descansos, contenidas en un contrato ley, cometido en el transcurso de una semana, se sancionará con multa por el equivalente de 15 a 315 veces el salario mínimo general, conforme a lo establecido en el artículo 876, tomando en consideración la gravedad de la falta. Si el incumplimiento se prolonga dos o más semanas, se acumularán las multas. La reincidencia se sancionará con la misma multa, aumentada en un veinticinco por ciento.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 885.
 
-Se impondrá multa de cien a mil pesos al patrón que viole las normas contenidas en el reglamento interior de trabajo.
+Al patrón que viole las normas contenidas en el Reglamento Interior de Trabajo, se le impondrá multa por el equivalente de 3 a 30 veces el salario mínimo general, conforme a lo establecido en el artículo 876.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 886.
 
-Las violaciones a las normas de trabajo no previstas en este capítulo o en alguna otra disposición de esta Ley, se sancionarán con multa de cien a diez mil pesos, tomando en consideración la gravedad de la falta y las circunstancias del caso.
+De conformidad con lo que establece el artículo 876, por violaciones a las normas de trabajo no sancionadas en este Capítulo o en alguna otra disposición de esta Ley, se impondrá al infractor multa por el equivalente de 3 a 315 veces el salario mínimo general, tomando en consideración la gravedad de la falta y las circunstancias del caso.
 
-Cuando la multa se aplique a un trabajador, ésta no podrá exceder al importe señalado en el último párrafo del artículo 21 constitucional.
+Cuando la multa se aplique a un trabajador, ésta no podrá exceder al importe señalado en último párrafo del artículo 21 constitucional.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 887.
 
-Las sanciones se impondrán por el Secretario del Trabajo y Previsión Social, por los Gobernadores de los Estados y por el Jefe del Departamento del Distrito Federal.
+Las sanciones de que trata este Capítulo serán impuestas, en su caso, por el Secretario del Trabajo y Previsión Social, por los Gobernadores de los Estados o por el Jefe del Departamento del Distrito Federal, quienes podrán delegar el ejercicio de esta facultad en los funcionarios subordinados que estimen conveniente, mediante acuerdo que se publique en el periódico oficial que corresponda.
 
 ###### Artículo 888.
 
@@ -7188,19 +7656,19 @@ Los trabajadores, los patrones y los sindicatos, federaciones y confederaciones 
 
 Los Presidentes de las Juntas Especiales, los de las Juntas Federales Permanentes de Conciliación, los de las Locales de Conciliación y los inspectores del trabajo tienen la obligación de denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar o pague a sus trabajadores cantidades inferiores a las señaladas como salario mínimo general.
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 891.
 
-Al patrón de cualquier negociación industrial, agrícola, minera, comercial o de servicios que haga entrega a uno o varios de sus trabajadores de cantidades inferiores al salario fijado como mínimo general o haya entregado comprobantes de pago que amparen sumas de dinero superiores de las que efectivamente hizo entrega, se les castigará con las penas siguientes:
+Al patrón de cualquier negociación industrial, agrícola, minera, comercial o de servicios que haga entrega a uno o varios de sus trabajadores de cantidades inferiores al salario fijado como mínimo general o haya entregado comprobantes de pago que amparen sumas de dinero superiores de las que efectivamente hizo entrega, se le castigará con las penas siguientes:
 
-I. Con prisión de tres meses a dos años y multa hasta dos mil pesos, cuando el monto de la omisión no exceda del importe de un mes de salario mínimo general de la zona correspondiente.
+I.- Con prisión de tres meses a dos años y multa que equivalga hasta 20 veces el salario mínimo general, conforme a lo establecido por el artículo 876, cuando el monto de la omisión no exceda del importe de un mes de salario mínimo general de la zona correspondiente;
 
-II. Con prisión de tres meses a dos años y multa de cinco mil pesos cuando el monto de la omisión sea mayor al importe de un mes, pero no exceda de tres meses de salario mínimo general de la zona correspondiente.
+II.- Con prisión de tres meses a dos años y multa que equivalga hasta 50 veces el salario mínimo general, conforme a lo establecido por el artículo 876, cuando el monto de la omisión sea mayor al importe de un mes, pero no exceda de tres meses de salario mínimo general de la zona correspondiente; y,
 
-III. Con prisión de tres meses a dos años y multa hasta diez mil pesos si la omisión excede a los tres meses de salario mínimo general de la zona correspondiente.
+III.- Con prisión de tres meses a dos años y multa que equivalga hasta 100 veces el salario mínimo general, conforme a lo establecido por el artículo 876, si la omisión excede a los tres meses de salario mínimo general de la zona correspondiente.
 
-Si el patrón de la negociación industrial, agrícola, minera, comercial o de servicio, paga al trabajador lo que le adeuda, más los intereses moratorios, antes de formular conclusiones al Ministerio Público, se le condenará únicamente al pago de la multa.
+Si el patrón de la negociación industrial, agrícola, minera, comercial o de servicio paga al trabajador lo que le adeuda, más los intereses moratorios, antes de formular conclusiones el Ministerio Público, se le condenará únicamente el pago de la multa.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -7357,3 +7825,9 @@ D.O.F. 30 DE DICIEMBRE DE 1977.
 PRIMERO.- De conformidad con lo establecido por el artículo 11 de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional, las relaciones laborales entre los Médicos Residentes y los titulares de las dependencias a las que se encuentren adscritas las Unidades Médicas Receptoras de Residentes, sujetas al régimen de la citada ley, se regirán en tanto así proceda por lo dispuesto en el Capítulo que se adiciona a la Ley Federal del Trabajo, en los términos de este Decreto.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 28 DE ABRIL DE 1978.
+
+PRIMERO.- El presente Decreto entrará en vigor el día primero de mayo del presente año.
+
+SEGUNDO.- En los términos del Artículo Segundo Transitorio del Decreto que reformó la Fracción XXXI, del Apartado A, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y que fue publicado en el "Diario Oficial" de la Federación correspondiente al 9 de enero de 1978, las autoridades locales del trabajo seguirán atendiendo, hasta su total terminación, los conflictos laborales que se encontraban en trámite a la iniciación de la vigencia de la citada reforma y que hayan surgido dentro de las ramas industriales o actividades que han quedado comprendidas en el régimen de aplicación federal de las leyes del trabajo.
