@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-xix-94-del-pleno-de-la-suprema-corte-de-63049"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1994-09-14"
-last_updated: "1994-09-14"
+last_updated: "1996-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63049&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-06"
 
 ACUERDO NO. XIX/94 DEL TRIBUNAL EN PLENO DEL DIA SEIS DE SEPTIEMBRE DE MIL NOVECIENTOS NOVENTA Y CUATRO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE MAYO DE 1996.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 14 de septiembre de 1994.
 
@@ -55,11 +55,17 @@ I.- Un tribunal colegiado en materia penal, un tribunal colegiado en materias ad
 
 2.- ....
 
-3.- ....
+> <small>(REFORMADO POR LOS PUNTOS OCTAVO Y UNDECIMO DEL ACUERDO GENERAL NUMERO 10/1996 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE MAYO DE 1996)</small>
 
-4.- Juzgados Segundo, Tercero y Cuarto de Distrito en el estado de Veracruz, con residencia en Boca del Río;
+3.- Juzgados Primero y Segundo de Distrito en el Estado de Veracruz, con residencia en la ciudad de Xalapa;
 
-5.- ...."
+> <small>(REFORMADO POR LOS PUNTOS OCTAVO Y UNDECIMO DEL ACUERDO GENERAL NUMERO 10/1996 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE MAYO DE 1996)</small>
+
+4.- Juzgados Tercero, Cuarto y Quinto de Distrito en el Estado de Veracruz, con residencia en Boca del Río;
+
+> <small>(REFORMADO POR LOS PUNTOS OCTAVO Y UNDECIMO DEL ACUERDO GENERAL NUMERO 10/1996 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE MAYO DE 1996)</small>
+
+5.- Juzgados Sexto y Séptimo de Distrito en el Estado de Veracruz, con residencia en la ciudad de Tuxpan.
 
 TERCERO.- Se modifica el punto Tercero fracción XI, del Acuerdo 1/1993, de trece de enero de mil novecientos noventa y tres, para quedar en los términos siguientes:
 
@@ -92,3 +98,17 @@ Licenciado José Javier Aguilar Domínguez, Secretario General de Acuerdos de la
 CERTIFICA:
 
 Que este Acuerdo XIX/94, relativo a la determinación de la nueva sede de los órganos jurisdiccionales con residencia en Veracruz, Veracruz, de la fecha de iniciación de funcionamiento del Juzgado Cuarto de Distrito en ese Estado y de las reglas de distribución de asuntos entre los juzgados de Distrito con asiento en Boca del Río, Veracruz, fue emitido por el Tribunal Pleno en Sesión Privada de seis de septiembre de mil novecientos noventa y cuatro, por unanimidad de dieciséis votos de los señores ministros: Presidente Ulises Schmill Ordóñez, Ignacio Magaña Cárdenas, Diego Valadés Ríos, Miguel Montes García, Carlos Sempé Minvielle, Noé Castañón León, José Antonio Llanos Duarte, Samuel Alba Leyva, Clementina Gil de Lester, Atanasio González Martínez, José Manuel Villagordoa Lozano, Fausta Moreno Flores, Carlos García Vázquez, Mariano Azuela Güitrón, Juan Díaz Romero y Sergio Hugo Chapital Gutiérrez.- México, Distrito Federal, a seis de septiembre de mil novecientos noventa y cuatro.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 16 DE MAYO DE 1996.
+
+PRIMERO.- Este Acuerdo entrará en vigor el tres de junio de mil novecientos noventa y seis.
+
+SEGUNDO.- Se modifican los Acuerdos 1/1993 y XIX/94 del Pleno de la Suprema Corte de Justicia de la Nación, de fechas trece de enero de mil novecientos noventa y tres y seis de septiembre de mil novecientos noventa y cuatro, respectivamente, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- El Pleno del Consejo de la Judicatura Federal resolverá cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
+
+QUINTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
