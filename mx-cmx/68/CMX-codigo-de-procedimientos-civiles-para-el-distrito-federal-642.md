@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1999-04-17"
+last_updated: "2000-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE ABRIL DE 2000.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -326,7 +326,7 @@ II.- Cuando los juzgados que conozcan respectivamente de los juicios pertenezcan
 
 > <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1988)</small>
 
-III.- Cuando se trate de un proceso que se ventile en el extranjero
+III.- Cuando se trate de un proceso que se ventile en el extranjero.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -1242,11 +1242,11 @@ Los efectos y formas de su declaración se sujetarán a las siguientes normas:
 
 > <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 1964)</small>
 
-I.- La caducidad de la instancia es de orden público, irrenunciable y no puede ser materia de convenios entre las partes. El juez la declarará de oficio o a petición de cualquiera de las partes cuando concurran las circunstancias a que se refiere el presente artículo.
+I.- La caducidad de la instancia es de orden público, irrenunciable y no puede ser materia de convenios entre las partes. El juez la declarará de oficio o a petición de cualquiera de las partes cuando concurran las circunstancias a que se refiere el presente artículo;
 
 > <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 1964)</small>
 
-II.- La caducidad extingue el proceso pero no la acción; en consecuencia se puede iniciar un nuevo juicio, sin perjuicio de lo dispuesto en la fracción V de este artículo.
+II.- La caducidad extingue el proceso pero no la acción; en consecuencia se puede iniciar un nuevo juicio, sin perjuicio de lo dispuesto en la fracción V de este artículo;
 
 > <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -1262,25 +1262,25 @@ V.- La caducidad de los incidentes se causa por el transcurso de treinta días c
 
 > <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 1964)</small>
 
-VI.- Para los efectos del artículo 1168 fracción II del Código Civil se equipara a la desestimación de la demanda la declaración de caducidad del proceso.
+VI.- Para los efectos del artículo 1168 fracción II del Código Civil se equipara a la desestimación de la demanda la declaración de caducidad del proceso;
 
 VII.- (DEROGADA, D.O.F. 14 DE MARZO DE 1973)
 
 > <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 1964)</small>
 
-VIII.- No tiene lugar la declaración de caducidad; a).- En los juicios universales de concursos y sucesiones, pero sí en los juicios con ellos relacionados que se tramiten independientemente, que de aquellos surjan o por ellos se motiven; b).- En las actuaciones de jurisdicción voluntaria; c).- En los juicios de alimentos y en los previstos por los artículos 322 y 323 del Código Civil; y d).- En los juicios seguidos ante la justicia de paz.
+VIII.- No tiene lugar la declaración de caducidad; a).- En los juicios universales de concursos y sucesiones, pero sí en los juicios con ellos relacionados que se tramiten independientemente, que de aquellos surjan o por ellos se motiven; b).- En las actuaciones de jurisdicción voluntaria; c).- En los juicios de alimentos y en los previstos por los artículos 322 y 323 del Código Civil; y d).- En los juicios seguidos ante la justicia de paz;
 
 > <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 1964)</small>
 
-IX.- El término de la caducidad sólo se interrumpirá por promociones de las partes o por actos de las mismas realizados ante autoridad judicial diversa siempre que tengan relación inmediata y directa con la instancia.
+IX.- El término de la caducidad sólo se interrumpirá por promociones de las partes o por actos de las mismas realizados ante autoridad judicial diversa siempre que tengan relación inmediata y directa con la instancia;
 
 > <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 1964)</small>
 
-X.- La suspensión del procedimiento produce la interrupción del término de la caducidad. La suspensión del proceso tiene lugar: a).- Cuando por fuerza mayor el juez o las partes no puedan actuar; b).- En los casos en que es necesario esperar la resolución de una cuestión previa o conexa por el mismo juez o por otras autoridades; c).- Cuando se pruebe ante el juez en incidente que se consumó la caducidad por maquinaciones dolosas de una de las partes en perjuicio de la otra; d).- En los demás casos previstos por la ley.
+X.- La suspensión del procedimiento produce la interrupción del término de la caducidad. La suspensión del proceso tiene lugar: a).- Cuando por fuerza mayor el juez o las partes no puedan actuar; b).- En los casos en que es necesario esperar la resolución de una cuestión previa o conexa por el mismo juez o por otras autoridades; c).- Cuando se pruebe ante el juez en incidente que se consumó la caducidad por maquinaciones dolosas de una de las partes en perjuicio de la otra; d).- En los demás casos previstos por la ley;
 
 > <small>(REFORMADA, D.O.F. 14 DE MARZO DE 1973)</small>
 
-XI.- Contra la declaración de caducidad se da sólo el recurso de revocación en los juicios que no admiten apelación. Se substanciará con un escrito de cada parte en que se propongan pruebas y la audiencia de recepción de éstas, de alegatos y sentencia. En los juicios que admiten la alzada cabe la apelación en ambos efectos. Si la declaratoria se hace en segunda instancia se admitirá la reposición. Tanto en la apelación de la declaración como en la reposición la substanciación se reducirá a un escrito de cada parte en que se ofrezcan pruebas y una audiencia en que se reciban, se alegue y se pronuncie resolución. Contra la negativa a la declaración de caducidad en los juicios que igualmente admitan la alzada cabe la apelación en el efecto devolutivo, con igual substanciación.
+XI.- Contra la declaración de caducidad se da sólo el recurso de revocación en los juicios que no admiten apelación. Se substanciará con un escrito de cada parte en que se propongan pruebas y la audiencia de recepción de éstas, de alegatos y sentencia. En los juicios que admiten la alzada cabe la apelación en ambos efectos. Si la declaratoria se hace en segunda instancia se admitirá la reposición. Tanto en la apelación de la declaración como en la reposición la substanciación se reducirá a un escrito de cada parte en que se ofrezcan pruebas y una audiencia en que se reciban, se alegue y se pronuncie resolución. Contra la negativa a la declaración de caducidad en los juicios que igualmente admitan la alzada cabe la apelación en el efecto devolutivo, con igual substanciación;
 
 > <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 1964)</small>
 
@@ -1454,7 +1454,7 @@ II.- El del lugar señalado en el contrato para el cumplimiento de la obligació
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
 
-III.- El de la ubicación de la cosa, si se ejercita una acción real sobre bienes inmuebles. Lo mismo se observará respecto a las cuestiones derivadas del contrato de arrendamiento de inmuebles.
+III.- El de la ubicación de la cosa, si se ejercita una acción real sobre bienes inmuebles. Lo mismo se observará respecto a las cuestiones derivadas del contrato de arrendamiento de inmuebles;
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
@@ -1484,7 +1484,7 @@ X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patr
 
 XI.- Para decidir las diferencias conyugales y los juicios de nulidad del matrimonio, lo es el del domicilio conyugal;
 
-XII.- En los juicios de divorcio, el tribunal del domicilio conyugal y en caso de abandono de hogar, el del domicilio del cónyuge abandonado.
+XII.- En los juicios de divorcio, el tribunal del domicilio conyugal y en caso de abandono de hogar, el del domicilio del cónyuge abandonado;
 
 > <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1640,7 +1640,7 @@ XI.- Cuando él, su cónyuge o alguno de sus parientes consanguíneos en línea 
 
 > <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1967)</small>
 
-XII.- Cuando alguno de los litigantes o de sus abogados es o ha sido denunciante, querellante o acusador del funcionario de que se trate, de su cónyuge o de alguno de sus expresados parientes, o se ha constituido parte civil en causa criminal seguida contra cualquiera de ellos, siempre que el Ministerio Público haya ejercitado la acción penal.
+XII.- Cuando alguno de los litigantes o de sus abogados es o ha sido denunciante, querellante o acusador del funcionario de que se trate, de su cónyuge o de alguno de sus expresados parientes, o se ha constituido parte civil en causa criminal seguida contra cualquiera de ellos, siempre que el Ministerio Público haya ejercitado la acción penal;
 
 XIII.- Cuando el funcionario de que se trate, su cónyuge o alguno de sus expresados parientes, sea contrario a cualquiera de las partes en negocio administrativo que afecte a sus intereses;
 
@@ -1812,7 +1812,7 @@ VI.- Pidiendo un socio o comunero la presentación de los documentos y cuentas d
 
 VII.- Pidiendo el examen de testigos, cuando éstos sean de edad avanzada o se hallen en peligro inminente de perder la vida, o próximos a ausentarse a un lugar con el cual sean tardías o difíciles las comunicaciones, y no pueda deducirse aún la acción, por depender su ejercicio de un plazo o de una condición que no se haya cumplido todavía;
 
-VIII.- Pidiendo el examen de testigos para probar alguna excepción, siempre que la prueba sea indispensable y los testigos se hallen en alguno de los casos señalados en la fracción anterior.
+VIII.- Pidiendo el examen de testigos para probar alguna excepción, siempre que la prueba sea indispensable y los testigos se hallen en alguno de los casos señalados en la fracción anterior;
 
 > <small>(ADICIONADA, D.O.F. 7 DE ENERO DE 1988)</small>
 
@@ -2734,7 +2734,7 @@ III.- Los documentos auténticos, libros de actas, estatutos, registros y catast
 
 > <small>(REFORMADA, D.O.F. 14 DE MARZO DE 1973)</small>
 
-IV.- Las certificaciones de las actas del estado civil expedidas por los Jueces del Registro Civil, respecto a constancias existentes en los libros correspondientes.
+IV.- Las certificaciones de las actas del estado civil expedidas por los Jueces del Registro Civil, respecto a constancias existentes en los libros correspondientes;
 
 V.- Las certificaciones de constancias existentes en los archivos públicos expedidas por funcionarios a quienes competa;
 
@@ -3268,7 +3268,7 @@ I.- Continuación del procedimiento de tal modo que no pueda suspenderse ni inte
 
 II.- Los jueces que resuelvan deben ser los mismos que asistieron a la recepción de las pruebas y alegatos de las partes. Si por causa insuperable dejare el juez de continuar la audiencia y fuere distinto el que lo substituyere en el conocimiento del negocio, puede ordenar la ampliación de cualquier diligencia probatoria en términos de lo dispuesto por el artículo 279, de esta ley;
 
-III.- Mantener la mayor igualdad entre las partes de modo que no se haga concesión a una de ellas sin que se haga lo mismo con la otra:
+III.- Mantener la mayor igualdad entre las partes de modo que no se haga concesión a una de ellas sin que se haga lo mismo con la otra;
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1986)</small>
 
@@ -3542,7 +3542,7 @@ Cuando el título ejecutivo contenga la obligación de entregar cosas que sin se
 
 I.- Si no se designa la calidad de la cosa y existieren de varias clases en poder del deudor, se embargarán las de mediana calidad;
 
-II.- Si hubiere sólo calidades diferentes a la estipulada, se embargarán si así lo pidiere el actor, sin perjuicio de que en la sentencia definitiva se hagan los abonos recíprocos correspondientes.
+II.- Si hubiere sólo calidades diferentes a la estipulada, se embargarán si así lo pidiere el actor, sin perjuicio de que en la sentencia definitiva se hagan los abonos recíprocos correspondientes;
 
 > <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1987)</small>
 
@@ -3584,7 +3584,7 @@ La sección de ejecución se integrará con:
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 21 DE ENERO DE 1967)</small>
 
-I.- Copia cotejada de la demanda y en su caso de la sentencia.
+I.- Copia cotejada de la demanda y en su caso de la sentencia;
 
 > <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1987)</small>
 
@@ -6586,7 +6586,7 @@ Tienen derecho a pedir la partición de la herencia:
 
 3o.- El cesionario del heredero y el acreedor de un heredero que haya trabado ejecución en los derechos que tenga en la herencia, siempre que hubiere obtenido sentencia de remate y no haya otros bienes con que hacer el pago;
 
-4o.- Los coherederos del heredero condicional siempre que aseguren el derecho de éste para el caso de que se cumpla la condición hasta saberse que ésta ha faltado o no puede ya cumplirse y sólo por lo que respecta a la parte en que consista el derecho pendiente y a las cauciones con que se haya asegurado. El albacea o el contador partidor en su caso proveerá al aseguramiento del derecho pendiente.
+4o.- Los coherederos del heredero condicional siempre que aseguren el derecho de éste para el caso de que se cumpla la condición hasta saberse que ésta ha faltado o no puede ya cumplirse y sólo por lo que respecta a la parte en que consista el derecho pendiente y a las cauciones con que se haya asegurado. El albacea o el contador partidor en su caso proveerá al aseguramiento del derecho pendiente;
 
 5o.- Los herederos del heredero que muere antes de la partición.
 
@@ -6990,7 +6990,7 @@ II.- Si hubiere alguna cantidad de dinero depositada para darle destino determin
 
 III.- Exigirán también que rindan cuenta los tutores que deban darla y que por cualquier motivo no hayan cumplido con la prescripción expresa del artículo 590 del Código Civil;
 
-IV.- Obligarán a los tutores a que depositen en el establecimiento público destinado al efecto, los sobrantes de las rentas o productos del caudal de los menores, después de cubiertas las sumas señaladas con arreglo a los artículos 538, 539 y 554 del Código Civil, y de pagado el tanto por ciento de administración.
+IV.- Obligarán a los tutores a que depositen en el establecimiento público destinado al efecto, los sobrantes de las rentas o productos del caudal de los menores, después de cubiertas las sumas señaladas con arreglo a los artículos 538, 539 y 554 del Código Civil, y de pagado el tanto por ciento de administración;
 
 V.- Si los jueces lo creyeren conveniente, decretarán el depósito cuando se presenten dificultades insuperables para el inmediato cumplimiento de los artículos 557 y 558 del Código Civil;
 
@@ -7224,7 +7224,7 @@ II.- El permiso para que los cónyuges celebren contratos entre ellos o para obl
 
 > <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1970)</small>
 
-III.- La calificación de la excusa de la patria potestad en los casos a que se refiere el artículo 448 del Código Civil.
+III.- La calificación de la excusa de la patria potestad en los casos a que se refiere el artículo 448 del Código Civil;
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1986)</small>
 
@@ -7314,7 +7314,7 @@ La audiencia se llevará a cabo dentro de los treinta días contados a partir de
 
 ARTICULO 948
 
-Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar bajo protesta de decir verdad no estar en aptitud de hacerlo, se impondrá al actuario del juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos asimismo, para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación se hará con apercibimiento de arresto hasta por treinta y seis horas, de no comparecer el testigo o el perito sin causa justificada y al promovente de la prueba, de imponerle una multa hasta por el equivalente de treinta días de salario mínimo vigente en el Distrito Federal. En caso de que el señalamiento de domicilio resulte inexacto o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante. Las partes en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir. r.
+Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar bajo protesta de decir verdad no estar en aptitud de hacerlo, se impondrá al actuario del juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos asimismo, para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación se hará con apercibimiento de arresto hasta por treinta y seis horas, de no comparecer el testigo o el perito sin causa justificada y al promovente de la prueba, de imponerle una multa hasta por el equivalente de treinta días de salario mínimo vigente en el Distrito Federal. En caso de que el señalamiento de domicilio resulte inexacto o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante. Las partes en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
 
 > <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -7624,7 +7624,7 @@ II.- Las partes pueden hacerse mutuamente las preguntas que quieran, interrogar 
 
 > <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
 
-III.- Todas las acciones y excepciones o defensas se harán valer en el acto mismo de la audiencia, sin sustanciar artículos o incidentes de previo pronunciamiento. Si de lo que expongan o aprueben las partes resultará demostrada la procedencia de una excepción dilatoria, el juez lo declarará así, desde luego, y dará por terminada la audiencia. Ante los jueces de paz, sólo se admitirá reconvención hasta por el monto de su competencia en términos del artículo 2o. de esta ley.
+III.- Todas las acciones y excepciones o defensas se harán valer en el acto mismo de la audiencia, sin sustanciar artículos o incidentes de previo pronunciamiento. Si de lo que expongan o aprueben las partes resultará demostrada la procedencia de una excepción dilatoria, el juez lo declarará así, desde luego, y dará por terminada la audiencia. Ante los jueces de paz, sólo se admitirá reconvención hasta por el monto de su competencia en términos del artículo 2o. de esta ley;
 
 IV.- (DEROGADA, D.O.F. 24 DE MAYO DE 1996)
 
@@ -7652,7 +7652,7 @@ ARTICULO 24
 
 Los jueces de paz tienen obligación de proveer a la eficaz e inmediata ejecución de sus sentencias y a ese efecto dictarán todas las medidas necesarias en la forma y términos que a su juicio fueren procedentes, sin contrariar las reglas siguientes:
 
-I.- Si al pronunciarse la sentencia estuvieren presentes ambas partes, el juez las interrogará acerca de la forma que cada una proponga para la ejecución y procurará que lleguen a un avenimiento a ese respecto.
+I.- Si al pronunciarse la sentencia estuvieren presentes ambas partes, el juez las interrogará acerca de la forma que cada una proponga para la ejecución y procurará que lleguen a un avenimiento a ese respecto;
 
 II.- El condenado podrá proponer fianza de persona abonada para garantizar el pago, y el juez, con audiencia de la parte que obtuvo, calificará la fianza según su arbitrio, y si la aceptare podrá conceder un término hasta de quince días para el cumplimiento y aun mayor tiempo si el que obtuvo estuviere conforme en ella. Si vencido el plazo el condenado no hubiere cumplido, se procederá de plano contra el fiador, quien no gozará de beneficio alguno;
 
@@ -8178,22 +8178,32 @@ G.O. 17 DE ABRIL DE 1999.
 
 DECRETO SOBRE LA APLICACION EN EL DISTRITO FEDERAL DE DISPOSICIONES EN MATERIA CIVIL COMUN PREVISTAS EN LOS DECRETOS PUBLICADOS EN EL DIARIO OFICIAL DE LA FEDERACION LOS DIAS 21 DE JULIO DE 1993, 23 DE SEPTIEMBRE DE 1993 Y 19 DE OCTUBRE DE 1998 POR LOS QUE SE REFORMAN ENTRE OTROS ORDENAMIENTOS, EL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL Y EL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL.
 
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2000)</small>
+
 ###### Artículo 1o.
 
-En materia civil común en el Distrito Federal son aplicables las disposiciones del Código Civil para el Distrito Federal, en Materia Común, y para toda la República en Materia Federal y del Código de Procedimientos Civiles para el Distrito Federal previstas en los siguientes decretos:
+En materia civil común son aplicables las disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia federal y del Código de Procedimientos Civiles para el Distrito Federal previstas en los siguientes decretos:
 
-I.- Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal, en Materia Común, y para toda la República en Materia Federal; Código de Procedimientos Civiles para el Distrito Federal y Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 de julio de 1993.
+I.- Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal en Materia Común, y para toda la República en Materia Federal; del Código de Procedimientos Civiles para el Distrito Federal y la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 de julio de 1993.
 
-II.- Decreto por el que se modifican los artículos transitorios del diverso por el que se reforman el Código Civil para el Distrito Federal, en Materia Común, y para toda la República en Materia Federal, y el Código de Procedimientos Civiles para el Distrito Federal y la Ley Federal de Protección al Consumidor, publicado el 21 de julio de 1993, publicado en el Diario Oficial de la Federación el 23 de septiembre de 1993.
+II.- Decreto por el que se modifican los artículos transitorios del diverso por el que se reforman, adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal en Materia Común, y para toda la República en Materia Federal; del Código de Procedimientos Civiles para el Distrito Federal y la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 de julio de 1993, publicado en el Diario Oficial de la Federación el 23 de septiembre de 1993.
 
-III.- Decreto por el que se reforman los artículos transitorios del diverso por el que se reforman, adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal, en Materia Común, y para toda la República en Materia Federal; del Código de Procedimientos Civiles para el Distrito Federal y de la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 de julio de 1993, publicado en el Diario Oficial de la Federación el 19 de octubre de 1998.
+III.- Decreto por el que se reforman los artículos transitorios del diverso por el que se reforman, adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal en Materia Común, y para toda la República en Materia Federal; del Código de Procedimientos Civiles para el Distrito Federal y la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 de julio de 1993, publicado en el Diario Oficial de la Federación el 19 de octubre de 1998.
+
+IV.- Decreto sobre la aplicación en el Distrito Federal de disposiciones en Materia Civil Común previstas en los Decretos publicados en el Diario Oficial de la Federación los días 21 de julio de 1993, 23 de septiembre de 1993 y 19 de octubre de 1998 por los que se reforman entre otros ordenamientos, el Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal y el Código de Procedimientos Civiles para el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 17 de abril de 1999.
+
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2000)</small>
 
 ###### Artículo 2o.
 
-Las disposiciones del decreto mencionado en la fracción I del artículo anterior del presente decreto, se aplicarán desde el 30 de abril del año 2000, excepto en los casos previstos en artículo transitorio segundo del artículo unico del decreto a que se refiere la fracción II del artículo anterior del presente decreto para los que se aplican desde el 19 de octubre de 1993 según lo disponen el artículo transitorio mencionado.
+Las disposiciones del decreto mencionado en la fracción I del artículo anterior del presente decreto, se aplicarán desde el 31 de diciembre del año 2001, excepto en los casos previstos en el artículo transitorio segundo del artículo único del decreto mencionado en la fracción II del artículo anterior del presente decreto para los que se aplican desde el 19 de octubre de 1993 según lo disponen el artículo transitorio mencionado.
 
-Asimismo, a los juicios y procedimientos judiciales actualmente en trámite, así como los que se inicien antes del 30 de abril del año 2000, derivados de contratos de arrendamiento de inmuebles para habitación y sus prorrogas, que no se encuentren en los supuestos establecidos en el artículo transitorio del artículo unico del decreto a que se refiere la fracción II del artículo anterior del presente decreto, se aplicarán hasta su conclusión, las disposiciones del Código de Procedimientos Civiles para el Distrito Federal vigentes con anterioridad al 19 de octubre de 1993.
+Asimismo, a los juicios y procedimientos judiciales actualmente en trámite, así como los que se inicien antes del 31 de diciembre del año 2001, derivados de contratos de arrendamiento de inmuebles para habitación y sus prorrogas, que no se encuentren en los supuestos establecidos en el artículo transitorio del artículo único del decreto a que se refiere la fracción II del artículo anterior del presente decreto, se aplicaran hasta su conclusión, las disposiciones del Código de Procedimientos Civiles para el Distrito Federal vigentes con anterioridad al 19 de octubre de 1993.
 
 ## TRANSITORIO
 
 UNICO: El presente decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 28 DE ABRIL DE 2000.
+
+Único.- El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial del Distrito Federal.
