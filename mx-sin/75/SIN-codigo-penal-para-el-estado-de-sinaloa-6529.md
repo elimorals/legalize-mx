@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2003-08-11"
+last_updated: "2004-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2004.
 
 Código publicado en la Sección Primera del Periódico Oficial "El Estado de Sinaloa", el miércoles 28 de octubre de 1992.
 
@@ -319,7 +319,7 @@ La duración de la semilibertad no podrá exceder del tiempo correspondiente a l
 
 La reclusión a que se refiere el presente artículo tendrá lugar en centros distintos a los establecidos para la prisión preventiva y de los señalados para la extinción de la pena.
 
-### CAPITULO V. DECOMISO Y PERDIDA DE LOS INSTRUMENTOS Y OBJETOS RELACIONADOS CON EL DELITO
+### CAPITULO IV. SANCION PECUNIARIA
 
 ###### ARTICULO 32.
 
@@ -443,7 +443,7 @@ Los objetos de uso lícito con que se cometa el delito, propiedad del acusado, s
 
 Si las personas que tienen derecho a la reparación del daño renuncian a ella o se abstienen de recibir su importe, éste se aplicará en favor del Fondo Auxiliar para la Administración de Justicia del Estado, conforme a la ley respectiva.
 
-### CAPITULO IV. SANCION PECUNIARIA
+### CAPITULO V. DECOMISO Y PERDIDA DE LOS INSTRUMENTOS Y OBJETOS RELACIONADOS CON EL DELITO
 
 ###### ARTICULO 51.
 
@@ -847,9 +847,17 @@ V.- Rehabilitación;
 
 VI.- Indulto;
 
-VII.- Prescripción; y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
 
-VIII.- Las demás que señalen las leyes.
+VII.- Reconocimiento de Inocencia;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+
+VIII.- Prescripción; y
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
+
+IX.- Las demás que señalen las leyes.
 
 ###### ARTICULO 107.
 
@@ -859,9 +867,11 @@ La extinción de la pretensión punitiva y de la potestad de ejecutar las penas 
 
 La extinción de la pretensión punitiva será resuelta por el Ministerio Público durante la averiguación previa o por el órgano jurisdiccional en cualquier etapa del proceso.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 109.
 
-Si durante la ejecución de las penas o medidas de seguridad se advierte que se extinguió la pretensión punitiva o la potestad de ejecutarlas, sin que esta circunstancia se haya hecho valer en la averiguación previa o durante el proceso, quien hubiere advertido la extinción propondrá la libertad absoluta del reo ante la autoridad ejecutora y ésta resolverá lo procedente.
+Si durante la ejecución de las penas o medidas de seguridad se advierte que se extinguió la pretensión punitiva o la potestad de ejecutarlas, sin que esta circunstancia se haya hecho valer en la averiguación previa o durante el proceso, quien hubiere advertido la extinción propondrá la libertad absoluta del sentenciado ante el Juez de Primera Instancia de Vigilancia de la Ejecución de Consecuencias Jurídicas del Delito y éste resolverá lo procedente.
 
 ### CAPITULO IV. AMNISTIA
 
@@ -885,7 +895,9 @@ La muerte del inculpado extingue la pretensión punitiva y la del sentenciado la
 
 La amnistía extingue la pretensión punitiva o las penas o medidas de seguridad impuestas, a excepción del decomiso y de la reparación de los daños y perjuicios, en los términos de la ley que se dictare concediéndola. Si ésta no expresare su alcance, se entenderá que la pretensión punitiva y las penas y medidas de seguridad se extinguen con todos sus efectos con relación a todos los responsables del delito.
 
-### CAPITULO VII. INDULTO
+### CAPITULO VII. INDULTO Y RECONOCIMIENTO DE INOCENCIA
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 114.
 
@@ -907,23 +919,29 @@ La rehabilitación tiene por objeto reintegrar al sentenciado en el goce de sus 
 
 Para lograr la readaptación social de los condenados por sentencia ejecutoria a una sanción privativa de libertad, el Ejecutivo del Estado organizará y mantendrá adecuados los lugares donde aquélla deba cumplirse, sobre la base del trabajo, la capacitación para el mismo y la educación.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ENERO DE 2004)</small>
+
 ### CAPITULO IX. PRESCRIPCION DE LA PRETENSION PUNITIVA
 
 ###### ARTICULO 118.
 
-El indulto sólo se concederá para la sanción impuesta en sentencia irrevocable.
+El indulto es por gracia y el reconocimiento de inocencia es un derecho.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 119.
 
-Se otorgará indulto, cualquiera que sea la sanción impuesta, cuando aparezca que el condenado sea inocente.
+Se procederá al reconocimiento de inocencia, cualquiera que sea la sanción impuesta, cuando aparezca que el condenado es inocente.
 
 ###### ARTICULO 120.
 
 Es facultad discrecional del Ejecutivo del Estado conceder el indulto, por haber prestado el reo importantes servicios a la nación o al Estado o cuando por razones humanitarias o sociales así lo amerite el caso, siempre que la conducta observada por el reo refleje un alto grado de readaptación social y su liberación no represente un peligro para la tranquilidad y seguridad pública.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 121.
 
-El indulto en ningún caso extinguirá la obligación de pagar la multa y la reparación del daño ni afectará el decomiso decretado respecto de instrumentos, productos y objetos del delito.
+El indulto en ningún caso extinguirá las obligaciones de pagar la multa y reparación del daño, ni afectará el decomiso decretado respecto de instrumentos, productos y objetos de delito. El reconocimiento de inocencia anulará la sentencia y extinguirá todos sus efectos.
 
 ### CAPITULO X. PRESCRIPCION DE LA POTESTAD DE EJECUTAR LAS PENAS
 
@@ -1279,7 +1297,7 @@ I.- Obtener un rescate o cualquier otra prestación indebida;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2001)</small>
 
-II..- Que la autoridad realice un acto contrario a derecho o deje de hacer lo que la ley la obligue;
+II.- Que la autoridad realice un acto contrario a derecho o deje de hacer lo que la ley la obligue;
 
 > <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2001)</small>
 
@@ -1634,8 +1652,6 @@ Cuando el valor de lo robado sea:
 > <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
 
 I.- Mayor de veinte veces y menor a cincuenta veces el salario mínimo vigente o no sea posible determinar su valor, se impondrá prisión de tres meses a dos años y de cuarenta a cien días multa.
-
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
 La pena prevista en esta fracción se aplicará aún cuando el valor de lo robado no sea mayor de veinte salarios mínimos si el robo se realiza en alguno de los supuestos previstos en los artículos 204 y 205.
 
@@ -2517,7 +2533,7 @@ A los mexicanos que cometan alguno de los delitos previstos en el artículo ante
 
 Para los efectos de este Código, servidor público es toda persona que desempeñe algún empleo, cargo o comisión de cualquier naturaleza en la administración pública del Estado o sus municipios, centralizada, paraestatal o paramunicipal, o en los Poderes Legislativo y Judicial del Estado de Sinaloa y todas aquellas personas que manejen o apliquen recursos económicos del Estado o de los ayuntamientos.
 
-###### ARTÍCULO 297.
+###### ARTICULO 297.
 
 Los servidores públicos que cometan alguno de los delitos previstos en el presente Título, serán sancionados con las penas de prisión y multa que para cada caso se señalan y privación del cargo e inhabilitación para desempeñar otro empleo, cargo o comisión pública, hasta por el doble del tiempo de la pena corporal que corresponda al delito cometido.
 
@@ -3202,3 +3218,17 @@ P.O. 11 DE AGOSTO DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 2 DE ENERO DE 2004.
+
+DECRETO NÚMERO 452, POR EL QUE SE REFORMAN LOS ARTÍCULOS 106, FRACCIONES VII Y VIII; 118; 119; 121; SE ADICIONA EL ARTÍCULO 106 CON UNA FRACCIÓN IX; Y SE CAMBIA LA DENOMINACIÓN DEL CAPÍTULO VII, TÍTULO QUINTO, LIBRO PRIMERO, TODOS DEL CÓDIGO PENAL DEL ESTADO DE SINALOA.
+
+Artículo Único.- El Presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 2 DE ENERO DE 2004.
+
+DECRETO NÚMERO 453, POR EL QUE SE REFORMA EL ARTÍCULO 109 DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 4 de enero de 2004, previa publicación en el Periódico Oficial "El Estado de Sinaloa".
