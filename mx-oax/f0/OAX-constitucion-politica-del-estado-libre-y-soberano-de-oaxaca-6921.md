@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1992-02-10"
+last_updated: "1993-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1993.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -51,7 +51,7 @@ La Ley es igual para todos. La Constitución General de la República y esta Con
 
 Las facultades que la Constitución Política de los Estados Unidos Mexicanos no otorga expresamente a la federación, se entienden reservadas para el Estado.
 
-El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deben hacer lo que la Ley les ordena. Los particulares pueden hacer lo que la Ley no les prohibe y deben hacer, lo que la Ley les ordena.
+El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deben hacer, lo que la Ley les ordena. Los particulares pueden hacer lo que la Ley no les prohibe y deben hacer, lo que la Ley les ordena.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
 
@@ -523,7 +523,7 @@ Cada Municipio será administrado por un Ayuntamiento de elección popular direc
 
 > <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
 
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna Autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes; pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna Autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato, con el carácter de suplentes; pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -1715,6 +1715,16 @@ II. Autorizar con su firma las disposiciones de observancia general que expida e
 
 III. Todas las que le confieran las respectivas leyes reglamentarias.
 
+### CAPITULO V. De los Derechos Humanos
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 1993)</small>
+
+ARTICULO 138 BIS. La Comisión Estatal de Derechos Humanos es un organismo Descentralizado, con personalidad jurídica y patrimonio propios, que se encargará de la protección, observancia, promoción, estudio y divulgación de los Derechos Humanos, previstos por el orden jurídico mexicano.
+
+Esta Comisión conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público del Estado que violen estos derechos, con excepción de los del Poder Judicial Estatal. Asimismo, formulará recomendaciones públicas autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
 ###### ARTICULO 112.
 
 La recaudación de las contribuciones municipales estará a cargo de un Tesorero Municipal nombrado por el Ayuntamiento.
@@ -2051,7 +2061,7 @@ La ley reglamentará el ejercicio de estas funciones y señalará las que corres
 
 Las funciones de Procurador General y las de Agente del Ministerio Público, son incompatibles con el ejercicio de la abogacía y con cualquier otro cargo, empleo o comisión por el que se disfrute sueldo.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE ENERO DE 1993)</small>
 
 ###### ARTICULO 139.
 
@@ -2518,3 +2528,7 @@ Las Adiciones y Reformas a los artículos 25, 39, 90 bis y 150 entrarán en vigo
 P.O. 10 DE FEBRERO DE 1992.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE ENERO DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
