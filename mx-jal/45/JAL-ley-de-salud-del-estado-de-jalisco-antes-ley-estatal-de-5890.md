@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "1999-06-12"
+last_updated: "1999-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -813,7 +813,9 @@ El Gobierno del Estado, en coordinación con las dependencias competentes del Ej
 
 ### CAPITULO XI. De los prestadores de los servicios de salud
 
-#### SECCION PRIMERA. Del servicio social de los pasantes
+#### SECCION PRIMERA. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
 ###### Art. 85.
 
@@ -843,7 +845,9 @@ Para la determinación de las cuotas de recuperación, se tomará en cuenta el c
 
 Son servicios de salud de carácter social los que preste directamente o mediante la contratación de seguros individuales o colectivos, los grupos y organizaciones sociales a sus miembros y a los beneficiarios de los mismos.
 
-#### SECCION SEGUNDA. Del servicio social profesional
+#### SECCION SEGUNDA. Del Consejo Estatal de Transplante de Organos y Tejidos
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
 ###### Art. 90.
 
@@ -851,7 +855,9 @@ El Ejecutivo Estatal y los Ayuntamientos podrán convenir con las instituciones 
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
 
-#### SECCION PRIMERA. Del programa contra el alcoholismo y el abuso de bebidas alcohólicas
+#### SECCION TERCERA. Del Registro Estatal de Donadores
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
 ###### Art. 91.
 
@@ -859,9 +865,9 @@ La Secretaría de Salud y Bienestar Social del Estado, en coordinación con la D
 
 ### CAPITULO XII. De los usuarios de los servicios de salud y participación de la comunidad
 
-#### SECCION SEGUNDA. Del programa contra el tabaquismo
+#### SECCION CUARTA. De la Participación Social
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1999)</small>
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
 ###### Art. 92.
 
@@ -893,7 +899,7 @@ Las personas e instituciones públicas o privadas que tengan conocimiento de acc
 
 De conformidad con las disposiciones legales aplicables, los Agentes del Ministerio Público o quienes ejerzan sus funciones que reciban informes o denuncias sobre personas que requieran de servicios de salud de urgencia, deberán disponer que las mismas sean trasladadas de inmediato al establecimiento de salud más cercano.
 
-#### SECCION TERCERA. Del programa contra la farmacodependencia
+#### SECCION PRIMERA. Del servicio social de los pasantes
 
 ###### Art. 99.
 
@@ -939,21 +945,231 @@ Se concede acción popular para denunciar, ante las autoridades sanitarias del E
 
 La acción popular podrá ejercitarse por cualquiera persona, bastando para darle curso el señalamiento de los datos que permitan localizar la causa del riesgo.
 
-### CAPITULO I. De los profesionales, técnicos y auxiliares
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 1999)</small>
 
-#### SECCION PRIMERA. Definición
+### CAPITULO XIII. De la Disposición de Organos y Tejidos de Seres Humanos
 
-#### SECCION SEGUNDA. Clasificación
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE JUNIO DE 1999)</small>
 
-#### SECCION TERCERA. Disposiciones comunes
+#### SECCION SEGUNDA. Del servicio social profesional
 
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+###### Art. 104-A.
 
-#### SECCION PRIMERA. Causas de revocación
+Los aspectos concernientes al control sanitario de la disposición de órganos, tejidos, y sus componentes y derivados, productos y cadáveres de seres humanos, con fines terapéuticos, son regulados conforme a las normas correspondientes contenidas en la Ley General de Salud; el Reglamento de la Ley General de Salud en materia de control sanitario de la disposición de órganos, tejidos y cadáveres de seres humanos; las normas oficiales mexicanas; y de los acuerdos de observancia general que en la materia dicten las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+
+###### Art. 104-B.
+
+El Gobierno del Estado, a través del Titular del Poder Ejecutivo, concurrirá con las autoridades federales en la materia, a efecto de coadyuvar en los objetivos del Sistema Nacional de Transplantes, así como en las diversas acciones y actividades que se deriven del Programa Nacional de Transplantes.
+
+Asimismo, las autoridades sanitarias estatales procurarán el apoyo y la coordinación con: el Consejo Nacional de Transplantes, los consejos de transplantes de las demás entidades federativas, las instituciones de educación superior a través de sus escuelas y facultades de medicina, los colegios y las academias legalmente reconocidos de medicina, cirugía y ciencias; y las instituciones de salud: públicas, sociales y privadas con autorización legal y capacidad técnica para realizar conforme a los procedimientos jurídicos y protocolos médicos vigentes, la disposición de órganos y tejidos con fines terapéuticos.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+
+###### Art. 104-C.
+
+Es de interés público en el Estado de Jalisco, el promover la cultura de donación entre la población, como forma esencialmente humanista y de solidaridad entre los individuos, en virtud de que representa una alternativa para recobrar la salud de las personas.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+
+###### Art. 104-D.
+
+El Gobierno del Estado, a través del Titular del Poder Ejecutivo, garantizará mecanismos eficaces que por una parte, aseguren el respeto a la voluntad de los individuos que hayan determinado donar sus órganos y tejidos en los términos establecidos en la legislación sanitaria y en el Código Civil para el Estado de Jalisco, y por la otra, el que las instituciones de salud acreditadas y certificadas legalmente para ello, puedan realizar los procedimientos de transplante con fines terapéuticos, en forma oportuna y adecuada en beneficio de los pacientes.
+
+Las autoridades estatales que intervengan en los diversos procedimientos de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, actuarán con la debida diligencia que ameritan estos casos, y auxiliarán en el ágil desahogo de los trámites que por ley deben cubrirse.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE JUNIO DE 1999)</small>
+
+###### Art. 104-E.
+
+El Consejo Estatal de Transplante, es el organismo público del Poder Ejecutivo del Estado, que tiene a su cargo el apoyar, coordinar, promover, consolidar e implementar las diversas acciones y programas, en materia de la disposición de órganos y tejidos de seres humanos con fines terapéuticos.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+
+###### Art. 104-F.
+
+El Consejo Estatal de Transplantes se integrará en forma permanente por:
+
+I. El Gobernador del Estado, quien será su "Presidente Honorario";
+
+II. El Secretario de Salud, quien fungirá como "Presidente Ejecutivo";
+
+III. El Director General de Regulación Sanitaria de la Secretaría de Salud, quien será su "Coordinador General";
+
+IV. El Secretario de Educación, como "vocal";
+
+V. El Procurador de Justicia, como "vocal";
+
+VI. El Presidente de la Comisión de Higiene y Salud Pública del Congreso del Estado, como "vocal";
+
+VII. Los rectores de las Universidades de Guadalajara y Autónoma de Guadalajara, como "vocales";
+
+VIII. El Director General, del Organismo Público Descentralizado Hospital Civil de Guadalajara, como "vocal";
+
+IX. El Presidente del Colegio de Notarios del Estado, como "vocal";
+
+X. El Director Regional Occidente del Instituto Mexicano del Seguro Social, como "vocal";
+
+XI. El Delegado del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado, como "vocal"; y
+
+XII. El Presidente de la Asociación de Hospitales Particulares de la Entidad, como "vocal".
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+
+###### Art. 104-G.
+
+El Presidente Ejecutivo del Consejo Estatal de Transplantes, designará al Secretario Técnico del propio Consejo, el cual tendrá las responsabilidades que le señale el Reglamento Interior del Consejo Estatal de Transplantes y coordinará los trabajos del Comité Técnico de Transplantes.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+
+###### Art. 104-H.
+
+El Consejo Estatal de Transplante sesionará conforme lo establezca su reglamento interior.
+
+El Presidente Ejecutivo podrá ser suplido en las sesiones por el Coordinador General.
+
+Por cada vocal propietario, se designará a un suplente que lo sustituirá durante sus faltas temporales.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+
+#### SECCION PRIMERA. Del programa contra el alcoholismo y el abuso de bebidas alcohólicas
+
+###### Art. 104-I.
+
+El Consejo Estatal de Transplante, tendrá a su cargo las atribuciones siguientes:
+
+I. Diseñar, instrumentar, operar y dirigir el Sistema Estatal de Transplante;
+
+II. Elaborar y aplicar el Programa Estatal de Transplante;
+
+III. Mantener comunicación y coordinación con el Consejo Nacional de Transplante, a efecto de emprender acciones de complementación y colaboración con las acciones del Registro Nacional de Transplante;
+
+IV. Proporcionar información y colaborar con las acciones del Registro Nacional de Transplantes;
+
+V. Dictar medidas y lineamientos generales, para una mejor operación, al Registro Estatal de Donadores del Estado de Jalisco; y colaborar con las instituciones y autoridades competentes, a fin de que se respete con eficacia la voluntad de las personas que han decidido donar sus órganos y tejidos, en los términos previstos en el Código Civil para el Estado de Jalisco;
+
+VI. Llevar el Registro de Receptores o sujetos susceptibles a trasplante, que se integrará en forma sistemática y cronológica de acuerdo con su presentación, con los casos que obligadamente, cada una de las instituciones de salud integrantes del propio Consejo proporcionen e inscriban;
+
+VII. Expedir en cada caso inscrito de receptor o sujeto susceptible a trasplante, al propio interesado, su cédula que certifique su lugar progresivo en el registro y la fecha de su incorporación;
+
+VIII. Promover a través de actividades de educación, investigación, información y difusión, una cultura de donación entre la población;
+
+IX. Fomentar y sistematizar el estudio y la investigación, en el transplante de órganos y tejidos de seres humanos con fines terapéuticos, mediante la instauración de premios, concursos, becas y reconocimientos; así como propiciar programas de capacitación para el personal médico y de enfermería en transplante;
+
+X. Revisar permanentemente la legislación y la reglamentación, en la materia de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, a efecto de presentar ante las instancias competentes, observaciones y propuestas;
+
+XI. Promover y coordinar la colaboración y la complementación de acciones, entre las autoridades sanitarias federales y estatales involucradas en el procedimiento para la disposición de órganos y tejidos de seres humanos con fines terapéuticos; así como sus consejos homólogos de otras entidades federativas;
+
+XII. Promover y coordinar la participación de los sectores social y privado, en acciones de apoyo en la materia, para lo cual principalmente impulsará la constitución de un patronato que allegue recursos financieros y materiales; así como invitar, cuando lo estime conveniente, a representantes de instituciones sociales, privadas y públicas, en calidad de vocales invitados, a participar en las sesiones del Consejo, a las cuales ocurrirán con voz pero sin voto;
+
+XIII. Presentar por conducto de su Presidente, durante el primer bimestre de cada año, un informe sobre lo realizado por el organismo, así como sobre los avances en cuanto a transplante de órganos y tejidos de seres humanos con fines terapéuticos;
+
+XIV. Proponer e impulsar ante las instituciones de educación superior y de salud, la formación de recursos humanos en la especialidad de transplante, así como estudios e investigaciones en la materia en calidad de postgrados o especialidades;
+
+XV. Implementar un sistema de información con respecto al sistema y al Programa Estatal de Transplantes, que permitan tanto la toma de decisiones, como la evaluación de la atención médica relacionada con los transplantes;
+
+XVI. Diseñar el sistema logístico e informático, que permita la operación eficaz del Registro Estatal de Donadores;
+
+XVII. Solicitar al Registro Estatal de Donadores, en forma quincenal, un informe respecto del número de donadores inscritos, así como de los casos de personas en que por voluntad propia o determinación médica, queden fuera del propio registro;
+
+XVIII. Coadyuvar para prevenir el tráfico ilegal de órganos y tejidos;
+
+XIX. Aprobar su reglamento interior; y
+
+XX. Las demás que le señale su reglamento.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+
+###### Art. 104-J.
+
+El Consejo Estatal de Transplantes tendrá personalidad jurídica y patrimonios propios, que le permitan un mejor cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+
+###### Art. 104-K.
+
+El Consejo Estatal de Transplantes, contará con la colaboración de un "Comité Técnico" que integrarán profesionales peritos en la materia de transplantes, que designarán las instituciones de salud señaladas en el artículo 104-F.
+
+El "Comité Técnico" coadyuvará para la mejor realización del Programa Estatal de Transplante, contará con las funciones que le señale el Reglamento Interior del Consejo, procurará el intercambio de experiencias entre las instituciones de salud que realicen transplantes.
+
+El Secretario Técnico, cuidará celosamente que se respete el orden cronológico establecido en el reglamento de receptores.
+
+Por excepción, podrá dejar de respetarse lo anterior cuando por criterios médicos plenamente comprobados de "Incompatibilidad", el Comité Técnico, bajo su estricta responsabilidad, juzgue procedente, que la donación y transplante de algún órgano o tejido, no deba ajustarse al orden preestablecido en el registro de receptores, para lo cual deberá emitir un dictamen justificativo del proceso mediante el cual se acredite dicha acción, apoyada en el expediente clínico completo, que comprenda exámenes de laboratorio, gabinete y toda la documentación generante de la misma en comento.
+
+Esto último obligará a dar información ilimitada a instancia del "Receptor Postergado", si así lo requiriera para que pueda ser motivo de análisis y en su caso de reclamo a conveniencia del mismo.
+
+El Comité Técnico, certificará y autorizará los casos, en que cuando una persona donadora, se encuentre en el supuesto para disponer de sus órganos o tejidos y tiene en ese momento familiares por consanguinidad, cónyuge, concubinario o afinidad dentro del cuarto grado, plenamente demostrado, que requieran del transplante, se utilicen los mismos a favor del familiar, sin tener que ajustarse al orden del Registro de Receptores. En este proceso se deberá proceder conforme al párrafo anterior, en lo conducente.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+
+###### Art. 104-L.
+
+El Consejo Estatal de Transplantes para un mejor cumplimiento de sus objetivos, a través de su pleno, podrá determinar la integración y trabajo de comisiones, permanentes o transitorias, las cuales se regirán por lo establecido en el Reglamento Interior del propio Consejo.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE JUNIO DE 1999)</small>
+
+###### Art. 104-M.
+
+El Registro Estatal de Donadores del Estado de Jalisco, tiene por objeto primordial, el asegurar con eficacia, el cumplimiento y la observancia de la voluntad de la persona que dona sus órganos y tejidos en los términos previstos por los artículos 36, 37, 38 y 39 fracción II del Código Civil para el Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+
+###### Art. 104-N.
+
+El Registro Estatal de Donadores estará a cargo de la Dirección del Archivo de Instrumentos Públicos del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+
+###### Art. 104-O.
+
+Unicamente tendrán acceso a la información del Registro Estatal de Donadores, el "Consejo Estatal de Transplantes", y las instituciones estatales y nacionales que cuenten con acreditación oficial, para realizar transplantes de órganos y tejidos de seres humanos y a quienes por ley la requieran.
+
+Las instituciones de salud, estatales o nacionales, que estén acreditadas oficialmente para realizar transplantes de órganos y tejidos de seres humanos, y cuenten con la autorización correspondiente del Consejo Estatal de Transplantes, podrán solicitar al Registro Estatal de Donadores, siempre y cuando se hayan acreditado conforme los requisitos señalados en el reglamento del Consejo Estatal, en casos específicos en que se encuentren ante un probable donador, la confirmación indubitable del carácter de éste, así como de la disposición que el mismo hubiese hecho respecto de sus órganos y tejidos, con el objeto de proceder, en su caso y previo el cumplimiento de la diversa legislación, al transplante.
+
+La Dirección del Archivo de Instrumentos Públicos, bajo su más estricta responsabilidad, garantizará la observancia de este artículo, prohibiendo y evitando el acceso a la información del Registro Estatal de Donadores, de personas o instituciones, que no cuenten con acreditación oficial y autorización expresa del Consejo Estatal de transplantes.
+
+Los notarios públicos ante quienes se ratifique la voluntad de ser donador de órganos y tejidos, bajo su más estricta responsabilidad, evitarán el acceso a dicha información, de terceros ajenos al propio donador. El trámite notarial a que se refiere este párrafo, no generará costo alguno al potencial donador.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE JUNIO DE 1999)</small>
+
+###### Art. 104-P.
+
+Es de interés público el promover la participación y colaboración de la sociedad y de sus diversos sectores, para apoyar las labores de las diversas instituciones de salud debidamente acreditadas, que realicen transplantes de órganos y tejidos de seres humanos con fines terapéuticos.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+
+###### Art. 104-Q.
+
+Con el objeto de coordinar la participación y colaboración de la sociedad y de sus diversos sectores, se instituye el Patronato para la Donación y el Transplante de Organos y Tejidos.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+
+#### SECCION SEGUNDA. Del programa contra el tabaquismo
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1999)</small>
+
+###### Art. 104-R.
+
+El Patronato para la Donación y el Transplante de Organos y Tejidos, será presidido por la Presidenta del Sistema Estatal para el Desarrollo Integral de la Familia, y su mesa directiva se conformará de acuerdo con el instrumento público que le de formalidad.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+
+#### SECCION TERCERA. Del programa contra la farmacodependencia
+
+###### Art. 104-S.
+
+El Patronato para la Donación y el Transplante de Organos y Tejidos, procurará la más amplia participación de la comunidad para apoyar con recursos financieros y materiales las actividades propiamente médicas y quirúrgicas en materia de transplante de órganos y tejidos, así como las de capacitación, información, difusión y mejoramiento de las instalaciones de las instituciones que participen en el sistema y en el programa estatales (sic) de Transplante, como lo son las de salud y el Registro Estatal de Donadores del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+
+###### Art. 104-T.
+
+El Consejo Estatal de Transplantes definirá la aplicación y los rubros en que se utilizarán los recursos financieros y materiales que se obtengan por la gestión del Patronato, tanto para el Sistema como para el Programa Estatal de Transplantes.
 
 ## TITULO CUARTO. Recursos humanos para la salud
 
-### CAPITULO II. Del servicio social de pasantes y profesionales
+### CAPITULO I. De los profesionales, técnicos y auxiliares
 
 ###### Art. 105.
 
@@ -991,9 +1207,9 @@ En virtud del convenio que celebren el Gobernador del Estado y el Ejecutivo Fede
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones deberán consignarse en documentos, papelería y publicidad que utilicen en el ejercicio de tales actividades.
 
-### CAPITULO III. De la formación, capacitación y actualización del personal
+### CAPITULO II. Del servicio social de pasantes y profesionales
 
-#### SECCION SEGUNDA. Del procedimiento para la revocación
+#### SECCION PRIMERA. Definición
 
 ###### Art. 110.
 
@@ -1017,11 +1233,13 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación con las instituciones educativas y de la salud, definirá los mecanismos para que los pasantes de las profesiones para la salud participen en la Organización y operación de los Comités de Salud a que se refiere el Art. 102 de esta Ley.
 
+#### SECCION SEGUNDA. Clasificación
+
 ###### Art. 114.
 
 Las autoridades sanitarias estatales, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPITULO UNICO. De las acciones y bases para la investigación
+### CAPITULO III. De la formación, capacitación y actualización del personal
 
 ###### Art. 115.
 
@@ -1069,9 +1287,7 @@ La operación de los programas correspondientes en los Establecimientos de salud
 
 ## TITULO QUINTO. Investigación para la salud
 
-### CAPITULO UNICO. De su captación y suministro
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
+### CAPITULO UNICO. De las acciones y bases para la investigación
 
 ###### Art. 120.
 
@@ -1123,7 +1339,9 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ## TITULO SEXTO. Información para la salud
 
-### CAPITULO UNICO. De los programas contra las adicciones
+### CAPITULO UNICO. De su captación y suministro
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
 
 ###### Art. 125.
 
@@ -1143,9 +1361,13 @@ Los establecimientos que presten servicios de salud y los profesionales, técnic
 
 ## TITULO SEPTIMO. Programas contra las adicciones
 
-### CAPITULO UNICO. De los expendios de alimentos, bebidas no alcohólicas y alcohólicas
+### CAPITULO UNICO. De los programas contra las adicciones
 
-(REFORMADO, P.O. 7 DE ABRIL DE 1990) (F. DE E., P.O. 31 DE MAYO DE 1990)
+#### SECCION TERCERA. Disposiciones comunes
+
+> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+
+#### SECCION PRIMERA. Causas de revocación
 
 ###### Art. 127.
 
@@ -1160,6 +1382,8 @@ Dicha coordinación comprenderá entre otras acciones la educación sobre los ef
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1999)</small>
 
 Art. 128 bis. El Gobierno del Estado, por conducto de la Secretaría de Salud Jalisco promoverá acuerdos de coordinación con los ayuntamientos para la ejecución de las acciones que se desprendan del programa contra el tabaquismo.
+
+#### SECCION SEGUNDA. Del procedimiento para la revocación
 
 ###### Art. 129.
 
@@ -1181,7 +1405,9 @@ A los establecimientos que vendan o utilicen substancias inhalantes que no se aj
 
 ## TITULO OCTAVO
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO UNICO. De los expendios de alimentos, bebidas no alcohólicas y alcohólicas
+
+(REFORMADO, P.O. 7 DE ABRIL DE 1990) (F. DE E., P.O. 31 DE MAYO DE 1990)
 
 ###### Art. 131.
 
@@ -1199,7 +1425,7 @@ Para los efectos del artículo anterior, se tomará en cuenta la distancia de ce
 
 ## TITULO NOVENO. Salubridad local
 
-### CAPITULO II. De los mercados y centros de abasto
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 134.
 
@@ -1259,7 +1485,7 @@ II. Asistencia Social.
 
 En todo lo no previsto en este Título, se estará a lo que disponga esta Ley, los Reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO III. De las construcciones
+### CAPITULO II. De los mercados y centros de abasto
 
 ###### Art. 142.
 
@@ -1273,7 +1499,7 @@ Los mercados y centros de abasto estarán bajo la vigilancia de la autoridad com
 
 Los vendedores, locatarios y personal cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar en esos lugares las condiciones higiénicas indispensables para el debido mantenimiento de sus locales.
 
-### CAPITULO IV. De los cementerios, crematorios y Funerarias
+### CAPITULO III. De las construcciones
 
 ###### Art. 145.
 
@@ -1327,7 +1553,7 @@ Cuando se contravengan algunas de las disposiciones anteriores o las del Reglame
 
 > <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
 
-### CAPITULO V. Del aseo público
+### CAPITULO IV. De los cementerios, crematorios y Funerarias
 
 ###### Art. 156.
 
@@ -1355,7 +1581,7 @@ El funcionamiento de los cementerios y crematorios estará sujeto a esta Ley y d
 
 El traslado de cadáveres de un municipio a otro dentro del Estado, sólo podrá hacerse mediante autorización de la Secretaría de Salud y Bienestar Social o de los Ayuntamientos, en los términos de los convenios que se celebren, cumpliendo con los requisitos sanitarios que a juicio de la misma dependencia deban de cumplirse y previo el pago de los derechos fiscales respectivos.
 
-### CAPITULO VI. De los rastros
+### CAPITULO V. Del aseo público
 
 ###### Art. 160.
 
@@ -1377,7 +1603,7 @@ Los animales muertos deberán ser incinerados o enterrados antes de que entren e
 
 Los residuos sólidos se recibirán de preferencia en transportes dotados de caja hermética y su manejo será sólo en lo estrictamente indispensable para transportarse al sitio de disposición final.
 
-### CAPITULO VII. Del agua potable y alcantarillado
+### CAPITULO VI. De los rastros
 
 ###### Art. 165.
 
@@ -1403,7 +1629,7 @@ El sacrifico de animales en los rastros autorizados se efectuará en los días y
 
 El funcionamiento, aseo y conservación de los rastros municipales, estará a cargo de la autoridad municipal competente. Si fueren particulares, quedarán a cargo de las personas responsables de realizarlo y bajo la inspección de las autoridades competentes. En ambos casos, quedarán sujetos a la observancia de lo dispuesto por esta Ley, Reglamentos y normas técnicas aplicables. Queda prohibido el funcionamiento de rastros no autorizados por la autoridad sanitaria competente.
 
-### CAPITULO VIII. De los establos, granjas y zahurdas
+### CAPITULO VII. Del agua potable y alcantarillado
 
 ###### Art. 171.
 
@@ -1443,7 +1669,7 @@ Los proyectos para la implantación del sistema de alcantarillado deberán ser d
 
 Queda prohibido que los desechos o líquidos que produzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
 
-### CAPITULO IX. De los reclusorios
+### CAPITULO VIII. De los establos, granjas y zahurdas
 
 ###### Art. 179.
 
@@ -1467,7 +1693,7 @@ La autoridad sanitaria competente aprobará el funcionamiento de establos, granj
 
 Los establecimientos que no estén comprendidos en el Art. 179 deberán reunir las condiciones sanitarias que fija esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO X. De los baños públicos
+### CAPITULO IX. De los reclusorios
 
 ###### Art. 183.
 
@@ -1481,7 +1707,7 @@ Los reclusorios estarán sujetos al control sanitario de los Gobiernos Estatal o
 
 Los reclusorios deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas técnicas correspondientes, con un departamento de baños y otro de enfermería, este último para la atención de aquellos casos de enfermedad de los internos, en que no sea necesario el traslado de éstos a un hospital.
 
-### CAPITULO XI. De los centros de reunión y de espectáculos
+### CAPITULO X. De los baños públicos
 
 ###### Art. 186.
 
@@ -1491,9 +1717,7 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO XII. De las peluquerías, salones de belleza o de estética
-
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+### CAPITULO XI. De los centros de reunión y de espectáculos
 
 ###### Art. 188.
 
@@ -1507,7 +1731,9 @@ La autoridad municipal, una vez terminada la edificación del centro de reunión
 
 El funcionamiento de los establecimientos a que se refiere el Art. 188 deberá ajustarse a lo dispuesto por las disposiciones legales aplicables, y contará con los servicios de seguridad e higiene que establezcan las normas correspondientes.
 
-### CAPITULO XIII. De los hoteles, moteles, pensiones y casas de huéspedes
+### CAPITULO XII. De las peluquerías, salones de belleza o de estética
+
+> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
 
 ###### Art. 191.
 
@@ -1517,9 +1743,7 @@ Para los efectos de esta Ley, se entiende por Peluquerías y salones de belleza,
 
 El funcionamiento de los establecimientos mencionados en el artículo anterior y el personal que en ellos labore, deberán apegarse a lo señalado en esta Ley y demás normas aplicables.
 
-### CAPITULO XIV. De las tintorerías, lavanderías y lavaderos públicos
-
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+### CAPITULO XIII. De los hoteles, moteles, pensiones y casas de huéspedes
 
 ###### Art. 193.
 
@@ -1535,7 +1759,9 @@ III. Casa de huéspedes o Pensión: Casa donde se albergan personas para vivir e
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO XV. De los medios de servicios de transporte
+### CAPITULO XIV. De las tintorerías, lavanderías y lavaderos públicos
+
+> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
 
 ###### Art. 195.
 
@@ -1551,9 +1777,7 @@ III. Lavadero Público: El establecimiento al cual acuden los interesados para r
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar a cualquiera de los servicios señalados en el artículo anterior, así como para su funcionamiento, se requiere contar con autorización sanitaria, misma que se expedirá cuando el solicitante haya satisfecho los requisitos que establezcan las normas legales aplicables.
 
-### CAPITULO XVI. De las gasolineras
-
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+### CAPITULO XV. De los medios de servicios de transporte
 
 ###### Art. 197.
 
@@ -1563,7 +1787,9 @@ Para los efectos de esta Ley se entiende por medio de servicio de transporte, to
 
 Los transportes de carga deberán contar con la autorización sanitaria correspondiente, que será expedida por la Secretaría de Salud y Bienestar Social del Estado, una vez cubiertos los requisitos que marca esta Ley y normas técnicas correspondientes.
 
-### CAPITULO I. De las autorizaciones
+### CAPITULO XVI. De las gasolineras
+
+> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
 
 ###### Art. 198.
 
@@ -1573,13 +1799,13 @@ Para los efectos de esta Ley, se entiende por gasolinera el establecimiento dest
 
 Las gasolineras deberán contar con las instalaciones de seguridad e higiene que establezca el Reglamento correspondiente y otras disposiciones legales aplicables.
 
-### CAPITULO II. De la revocación de autorizaciones sanitarias
+### CAPITULO I. De las autorizaciones
 
-### CAPITULO III. De los certificados
+### CAPITULO II. De la revocación de autorizaciones sanitarias
 
 ## TITULO DECIMO. Autorizaciones y certificaciones
 
-### CAPITULO UNICO. Disposiciones generales
+### CAPITULO III. De los certificados
 
 ###### Art. 200.
 
@@ -1641,9 +1867,7 @@ Cuando los establecimientos a que se refiere el Art. 137 cambien de ubicación, 
 
 Las autorizaciones a que se refiere esta Ley podrán ser revisados (sic) por la autoridad sanitaria competente en los términos de las disposiciones legales aplicables.
 
-### CAPITULO I. De las medidas de seguridad sanitaria
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+### CAPITULO UNICO. Disposiciones generales
 
 ###### Art. 210.
 
@@ -1699,7 +1923,9 @@ La autoridad sanitaria competente emitirá la resolución que corresponda, al co
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, de prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO II. De las sanciones administrativas
+### CAPITULO I. De las medidas de seguridad sanitaria
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
 
 ###### Art. 217.
 
@@ -1735,7 +1961,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO DECIMO PRIMERO. Vigilancia sanitaria
 
-### CAPITULO III. Del procedimiento para aplicar las medidas de seguridad y sanciones
+### CAPITULO II. De las sanciones administrativas
 
 ###### Art. 222.
 
@@ -1795,9 +2021,7 @@ La negativa a firmar el acta o recibir copia de la misma o de la orden de visita
 
 ## TITULO DECIMO SEGUNDO. Medidas de seguridad sanitaria, sanciones y recurso de inconformidad
 
-### CAPITULO IV. Del recurso de inconformidad
-
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+### CAPITULO III. Del procedimiento para aplicar las medidas de seguridad y sanciones
 
 ###### Art. 231.
 
@@ -1893,7 +2117,9 @@ Si del dictamen resultare que el bien asegurado es nocivo, la autoridad sanitari
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y del dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPITULO V. De la prescripción
+### CAPITULO IV. Del recurso de inconformidad
+
+> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
 
 ###### Art. 243.
 
@@ -1972,6 +2198,8 @@ I. A la persona que interfiera o se oponga al ejercicio de las funciones de la a
 II. A la persona que, en rebeldía, se niegue a cumplir los requerimientos o disposiciones de la autoridad sanitaria, provocando con ello un peligro a la salud de las personas.
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
+
+### CAPITULO V. De la prescripción
 
 ###### Art. 255.
 
@@ -2176,3 +2404,11 @@ P.O. 7 DE ABRIL DE 1990.
 P.O. 12 DE JUNIO DE 1999.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 17 DE JUNIO DE 1999.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se autoriza al Titular del Poder Ejecutivo del Estado para que conforme con las disposiciones legales aplicables realice todas las gestiones y actos necesarios, para lograr la integración de la estructura y funcionamiento del Consejo Estatal de Transplantes de Organos y Tejidos.
+
+TERCERO.- El Consejo Estatal de Transplantes de Organos y Tejidos, aprobará su reglamento interior a más tardar dentro de los noventa días contados a partir de la entrada en vigor del presente decreto.
