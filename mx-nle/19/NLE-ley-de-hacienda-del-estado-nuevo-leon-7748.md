@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1978-12-25"
+last_updated: "1979-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1979.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -43,9 +43,11 @@ LEY DE HACIENDA DEL ESTADO
 
 Los Impuestos, contribuciones especiales, derechos, productos y aprovechamientos que debe percibir el Estado de Nuevo León, de acuerdo con la Ley de Ingresos respectiva, se causarán y recaudarán conforme a las disposiciones de ésta y de las demás leyes fiscales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 2o.
 
-La Ley de Ingresos establecerá anualmente los impuestos, derechos, productos y aprovechamientos que deban recaudarse.
+La Ley de Ingresos establecerá anualmente los impuestos, contribuciones especiales, derechos, productos y aprovechamientos que deban recaudarse.
 
 Sólo por Ley que lo disponga expresamente, podrá dedicarse el rendimiento de un impuesto, derecho, producto o aprovechamiento, a un fin especial.
 
@@ -79,9 +81,21 @@ La ignorancia de las leyes, reglamentos, circulares y demás disposiciones fisca
 
 Las leyes, reglamentos y demás disposiciones fiscales de alcance general, relativas a la Hacienda Pública del Estado de Nuevo León, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial, o en la fecha que señalen las mismas leyes, reglamentos o disposiciones, siempre que su vigencia no sea anterior a la publicación.
 
+> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 9o.
 
-La administración y recaudación de los impuestos, derechos, productos y aprovechamientos que establece la Ley de Ingresos del Estado, serán de la competencia de la Tesorería General del Estado, la cual podrá ser auxiliada por otras Dependencias Oficiales o por organismos públicos o privados, por disposición de la Ley o a petición de la propia Tesorería.
+La administración y recaudación de los impuestos, contribuciones especiales, derechos, productos y aprovechamientos que establece la Ley de Ingresos del Estado, serán de la competencia de la Secretaría de Finanzas y Tesorería General del Estado, la cual podrá ser auxiliada por otras Dependencias Oficiales o por organismos públicos o privados, por disposición de la Ley o a petición de la propia Secretaría de Finanzas y Tesorería General del Estado.
+
+Cuando en esta Ley o en alguna otra se dé una denominación nueva o distinta a la Secretaría de Finanzas y Tesorería General del Estado o a alguna de las Direcciones, Unidades, Departamentos o Dependencias que la integran, se entenderá que dicha disposición legislativa se está refiriendo a la denominación que para cada caso concreto, de acuerdo con las funciones y atribuciones respectivas, establece el Reglamento Interior de la Secretaría de Finanzas y Tesorería General del Estado.
+
+> <small>(ADICIONADO, P. O. 28 DE DICIEMBRE DE 1979)</small>
+
+###### ARTICULO 9o. Bis.
+
+El pago de los créditos fiscales deberá hacerse en efectivo, salvo disposición expresa de una ley particular. Los giros postales, telegráficos o bancarios y los cheques certificados se admitirán como efectivo.
+
+También se admitirán como medio de pago, los cheques de cuentas personales de los causantes que cumplan con los requisitos que para hacer uso de esta forma de pago, establezcan las disposiciones fiscales o las que al efecto dicte la Secretaría de Finanzas y Tesorería General del Estado.
 
 ## TITULO SEGUNDO. De los Impuestos
 
@@ -187,11 +201,13 @@ c) Los predios que perteneciendo a particulares, estén destinado (sic) a un ser
 
 d) Los predios ejidales;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1979)</small>
 
-e) Los predios cuyo valor real determinado por la Oficina Técnica Catastral no excedan de $300,000.00 y que pertenezcan
+e) Los predios cuyo valor real determinado por la Oficina Técnica Catastral no excedan de $450.000.00 y que pertenezcan:
 
-1.- Huérfanos menores de 16 años;
+> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1979)</small>
+
+1.- Huérfanos menores de 18 años;
 
 2.- Mujeres cualquiera que sea su edad con excepción de casadas;
 
@@ -213,7 +229,9 @@ h) Los predios propiedad del Gobierno Federal, Municipal o de la Universidad Aut
 
 i) Los predios afectos al patrimonio de familia, en los términos del Código Civil del Estado;
 
-j) Los predios pertenecientes a los trabajadores del Estado, siempre que en ellos habiten y no tengan otro bien raíz en la entidad.
+> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1979)</small>
+
+j) Los predios pertenecientes a los trabajadores al servicio del Estado, siempre que el inmueble objeto del impuesto vaya a destinarse o se destine a vivienda y no posean otro bien raíz en el Estado;
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
@@ -969,9 +987,11 @@ Las infracciones que se cometan al presente capítulo, si no se encuentran expre
 
 ### CAPITULO TERCERO. Del Impuesto sobre Enajenación de Automóviles, Camiones y demás vehículos de motor
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 104.
 
-Es objeto de este impuesto la enajenación de automóviles, camiones y demás vehículos de motor, que de manera eventual se realice dentro del territorio del Estado, siempre que no cause el Impuesto Federal Sobre Ingresos Mercantiles.
+Es objeto de este impuesto la enajenación de automóviles, camiones y demás vehículos de motor, que de manera eventual se realice dentro del territorio del Estado, siempre que dicha enajenación no sea objeto del Impuesto Federal al Valor Agregado.
 
 ###### ARTICULO 105.
 
@@ -1035,13 +1055,11 @@ La Universidad Autónoma de Nuevo León notificará a la Tesorería General, de 
 
 ###### ARTICULO 116.
 
-Es objeto de este impuesto, la celebración de contratos de mutuo garantizados con hipoteca o fideicomiso de garantía sobre inmuebles
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 117.
 
-Son sujetos del Impuesto a que se refiere este Capítulo, las personas físicas, morales o unidades económicas que aparezcan como acreedores en los contratos de mutuo señalados en el Artículo anterior. Son solidariamente responsables del pago de este Impuesto, las personas físicas, morales o unidades económicas que aparezcan como deudores en los referidos contratos.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ### CAPITULO QUINTO. Del Impuesto sobre Capitales Invertidos con Garantía de Inmuebles
 
@@ -1049,155 +1067,95 @@ Son sujetos del Impuesto a que se refiere este Capítulo, las personas físicas,
 
 ###### ARTICULO 118.
 
-Es base de este impuesto, el monto del capital prestado que aparezca consignado en los contratos respectivos.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 119.
 
-Es tasa de este impuesto, el 1% anual sobre el monto del capital prestado.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 120.
 
-El impuesto se pagará por semestres adelantados, dentro de los quince primeros días de los meses de enero y julio de cada año.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 121.
 
-Los Notarios Públicos que intervengan en la celebración de los contratos objeto de este impuesto, deberán presentar los avisos de alta, baja o modificaciones en las formas aprobadas por la Tesorería General, dentro de los quince días siguientes al en que se realicen estas circunstancias.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 122.
 
-Los Registradores de la Propiedad y del Comercio, se abstendrán de registrar o cancelar hipotecas o fideicomisos de garantía, si no se comprueba en el primer caso, el empadronamiento del causante, y en el segundo caso, la liquidación del impuesto correspondiente.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 123.
 
-Son objeto de este impuesto las erogaciones realizadas con motivo de la asistencia a diversiones y espectáculos públicos dentro del territorio del Estado, celebrados en lugares tales como estadios, parques, cines, teatros, albercas, autódromos, salones de baile, gimnasios, billares, boliches, patinaderos, golfitos y otros de naturaleza análoga.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 #### SECCION SEPTIMA. De las declaraciones y pago del Impuesto
 
 ###### ARTICULO 124.
 
-Son sujetos del Impuesto sobre Diversiones y Espectáculos Públicos, quienes efectúen las erogaciones a que se refiere el Artículo anterior.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 125.
 
-La base del impuesto será el importe total del boletaje adquirido o de la cuota pagada o que deba pagarse.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 126.
 
-Este impuesto se causará, liquidará y pagará de acuerdo con la siguiente.
-
-T A R I F A :
-
-I.- En los casos de funciones deportivas que se desarrollen a base de personas no profesionales, siempre que los fondos que se obtengan se destinen al fomento del deporte ........................... 2%
-
-II.- Tratándose de funciones de índole deportiva en que actúen profesionales, siempre que los fondos se destinen al fomento del deporte ........................... 4%
-
-III.- Cuando los productos que se obtengan del espectáculo o de la diversión pública de que se trate, se destinen a fines de asistencia social o beneficio colectivo, o cuando el espectáculo se presente por una compañía que fomente el arte teatral y cuyas utilidades en su mayor parte sean para los artistas ........................... 8%
-
-IV.- En los demás casos ........................... 15 %
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 127.
 
-Cuando además el espectáculo o diversión se preste en el mismo local otro u otros servicios que no constituyan espectáculos o diversiones, el cobro de estos servicios se hará en forma independiente del precio de los boletos que den derecho a entrar al local, pero en ningún caso podrá ser obligatorio para el público el pago de los mismos servicios como condición para la venta de esos boletos El incumplimiento a esta disposición dará lugar a considerar que todas las cuotas se cobran por el espectáculo o diversión y, en consecuencia, a que el impuesto se cause y liquide sobre el importe total de lo pagado.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 128.
 
-El impuesto se causará al efectuarse la adquisición de los boletos o comprobantes que den derecho a asistir a la diversión o espectáculo público de que se trate.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 129.
 
-Las empresas que organicen o exploten las diversiones o espectáculos públicos, deberán retener el impuesto causado, siendo en todo caso solidariamente responsable de su pago.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 #### SECCION OCTAVA. De las Obligaciones de los Causantes
 
 ###### ARTICULO 130.
 
-Cuando las empresas de espectáculos expidan pases, sobre éstos pagarán el impuesto correspondiente, como si se hubiese cubierto el importe del boleto o cuota respectivos, a menos que dichos pases estén autorizados con el sello de la Tesorería General. Los pases que se autoricen no podrán exceder del 5% del número total de las localidades.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 131.
 
-El impuesto retenido deberá ser enterado en la Oficina Recaudadora de la jurisdicción de la empresa de diversiones o espectáculos públicos correspondiente, dentro de los siguientes plazos:
-
-I.- Tratándose de retenedores habituales, dentro de los siete días siguientes a aquél en que se haya celebrado la diversión o el espectáculo, y;
-
-II.- Por lo que hace a los retenedores accidentales, el mismo día en que se celebre la diversión o el espectáculo.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 132.
 
-Las personas que habitualmente organicen, exploten o patrocinen diversiones o espectáculos públicos, además de retener este impuesto estarán obligadas:
-
-I.- A empadronarse ante la Tesorería General por conducto de la Oficina Recaudadora correspondiente, dentro de los diez días siguientes al de iniciación de sus operaciones haciendo uso de las formas oficialmente aprobadas, que contendrán cuando menos los siguientes datos:
-
-a).- Nombre y domicilio del retenedor;
-
-b).- Clase de diversión o espectáculo;
-
-c).- Lugar en que va a celebrarse;
-
-d).- Hora señalada para que principien las funciones, y;
-
-e).- Número de localidades de cada clase que haya en el local destinado al espectáculo.
-
-II.- A manifestar a la Tesorería General por conducto de la Oficina Recaudadora de su jurisdicción, cada vez que ocurra algún cambio de los hechos que se mencionan en la fracción I de este artículo, a más tardar el día anterior al en que ocurran.
-
-III.- A entregar a la Tesorería General un ejemplar de sus programas, cuando menos tres horas antes de que deba dar principio la función.
-
-IV.- A manifestar por escrito a la Tesorería General de la cancelación del espectáculo o diversión, cuando menos con tres días de anticipación.
-
-V.- A permitir y facilitar el desempeño de las comisiones que se encomiende al personal que designe la Tesorería General.
-
-VI.- A expedir boletos individuales de entrada o comprobantes de pago de cuotas, foliados consecutivamente y autorizados por la Tesorería General, en los que consten cuando menos los siguientes datos:
-
-a).- Nombre de la empresa o persona que organice o explote la diversión o espectáculo público;
-
-b).- El valor de la entrada;
-
-c).- El monto del impuesto que cause, y;
-
-d).- En general, adoptar las medidas de control que para el correcto pago de este impuesto establezca la Tesorería General del Estado.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 133.
 
-Quienes organicen o exploten diversiones o espectáculos públicos de manera accidental, tendrán las mismas obligaciones que establece el artículo anterior, excepto las comprendidas en las fracciones I, II y IV, y además las siguientes:
-
-I.- Dar aviso a la Tesorería General por conducto de la Oficina Recaudadora, cuando menos con tres días de anticipación de la iniciación de la diversión o espectáculo público de que se trate;
-
-II.- Manifestar ante las mismas autoridades, cuando menos con un día de anticipación, de la suspensión temporal o definitiva del espectáculo o diversión, y;
-
-III.- Garantizar a satisfacción de la Tesorería General, el pago del impuesto a que se refiere este Capítulo.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 134.
 
-En los casos en que legalmente proceda la devolución de la totalidad o de una parte del importe de las entradas de un espectáculo o diversión, se observarán las reglas siguientes:
-
-I.- Si la devolución comprende la totalidad del importe de las entradas, no se causará el impuesto, y ;
-
-II.- Si la devolución comprende sólo una parte del importe de las entradas, no se causará el impuesto sobre las cantidades devueltas.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 135.
 
-Para el cumplimiento de las disposiciones de este Capítulo, los inspectores e interventores fiscales y las empresas retenedoras se ajustarán a las disposiciones que expida la Tesorería General, en las que se regulará la forma en que deberán practicarse las inspecciones, intervenciones y liquidaciones respectivas.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 #### SECCION NOVENA. De las obligaciones de terceros y de la responsabilidad solidaria
 
 ###### ARTICULO 136.
 
-Las Autoridades Municipales deberán dar aviso, con la anticipación necesaria, de los permisos que otorguen para la celebración de espectáculos o diversiones públicas.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 137.
 
-Están exentos del pago de este impuesto:
-
-I.- La Federación y los Municipios, cuando dichas Entidades sean las que organicen directamente las diversiones o espectáculos públicos a que se refiere este Capítulo. En consecuencia, no se gozará de este beneficio, si las propias Entidades sólo patrocinan las diversiones o espectáculos públicos;
-
-II.- Cuando los productos derivados de la diversión o espectáculo de que se trate, se destinen directamente a la Educación o Asistencia Social prestados por la Federación, el Estado o los Municipios.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 #### SECCION DECIMA. De la Vigilancia
 
 ###### ARTICULO 138.
 
-Las exenciones a que se refiere la fracción II del artículo anterior, se solicitarán por escrito ante la Tesorería General acompañándose los elementos que la justifiquen.
-
-Cuando proceda el, Ejecutivo del Estado, por conducto de la mencionado (sic) Tesorería, declarará la exención.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ### CAPITULO SEXTO. Del Impuesto sobre Diversiones, Espectáculos Públicos y Apartos (sic) Fonoelectromecánicos
 
@@ -1397,83 +1355,43 @@ c) Las actividades realizadas por el causante, y otros datos que puedan utilizar
 
 ###### ARTICULO 161.
 
-Es objeto de este impuesto, la percepción de ingresos derivados del libre ejercicio de una profesión, de actividad técnica, cultural, artística, deportiva o de cualquiera otra naturaleza, cuando se ejerza sin estar subordinados a un patrón.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 162.
 
-Son sujetos de este impuesto las personas físicas que perciban los ingresos a que se refiere el Artículo anterior.
-
-Cuando las personas a que se refiere el párrafo anterior operen organizados en agrupaciones profesionales, asociaciones o sociedades de carácter civil, serán las personas físicas los sujetos del impuesto.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 163.
 
-Es base de este impueto (sic) el monto total de los ingresos a que se refiere el Artículo 161.
-
-Tratándose de los sujetos del impuesto a que se refiere el segundo párrafo del Artículo anterior, la base del impuesto será la parte que a cada uno de ellos les corresponda en los ingresos totales de la organización.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 164.
 
-Este impuesto se causará con tasa del 1 5% sobre la base a que se refiere el Artículo anterior.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 165.
 
-Quienes hagan pagos a causantes eventuales de este impuesto, deberán retenerlo y enterarlo en la Oficina recaudadora correspondiente, dentro de los quince días siguientes al en que se cause, siendo en todo caso solidariamente responsables del pago del mismo.
-
-La misma obligación tendrán quienes en forma habitual efectúen pagos a deportistas, profesionistas, artísticas, técnicos extranjeros, causante habituales o accidentes de este impuesto.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 166.
 
-El pago de este impuesto se hará semestralmente, dentro de los primeros quince días de los meses de enero y julio, mediante declaración en las formas aprobadas por la Tesorería General del Estado.
-
-La obligación de presentar declaración subsistirá aún cuando no se hayan obtenido ingresos gravables.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 167.
 
-Los sujetos de este impuesto están obligados a:
-
-I.- Empadronarse en la Tesorería General por conducto de la Oficine (sic) Recaudadora de su jurisdicción, dentro de los diez días hábiles siguientes a aquel en que inicien sus actividades, utilizando al efecto las formas oficiales, las cuales deberán contener cuando menos los siguientes datos:
-
-a).- Nombre y domicilio del causante;
-
-b).- Profesión o actividad que ejerza;
-
-c).- Lugar en donde se encuentre ubicado el despacho, oficina o consultorio profesional, y;
-
-d).- Fecha de iniciación de actividades.
-
-II.- Dar aviso a la Tesorería General, por conducto de la Oficina Recaudadora correspondiente, en los casos de cambio de domicilio, así como en los de suspensión o cambio de la actividad gravada, dentro del mismo plazo señalado en la fracción anterior, contado a partir de la fecha en que ocurra el cambio;
-
-III.- Proporcionar a las Autoridades Fiscales los datos e informes que les sean solicitados dentro del plazo que para ello se les fije;
-
-IV.- Recibir las visitas de inspección y proporcionar a los auditores fiscales comisionados para el efecto, todos los informes y documentos que soliciten en el desempeño de sus funciones, y;
-
-V.- Llevar lo (sic) libros o registros y expedir la documentación comprobatoria tanto de sus ingresos como del pago del impuesto.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 168.
 
-Los retenedores del impuesto, y en general quienes hagan pagos a los causantes del mismo, tienen la obligación de proporcionar los datos y documentos que les sean solicitados por las Autoridades Fiscales del Estado, para verificar el correcto pago de este gravamen.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 169.
 
-Están exentos del pago de este impuesto:
-
-I.- Los ingresos que perciban los artesanos, y;
-
-II.- Los ingresos que perciban los agentes de instituciones de crédito, de seguros y de fianzas.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 170.
 
-La Tesorería General podrá estimar los ingresos de los sujetos de este impuesto, en los siguientes casos:
-
-I.- Cuando no presenten sus declaraciones, no lleven los libros o registros, o no expidan la documentación comprobatoria a que están obligados, y;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1977)</small>
-
-II.- Cuando por los informes que se obtengan, se ponga de manifiesto la percepción de un promedio semestral de ingresos superior en un tres por ciento al declarado por el causante.
-
-Para practicar las estimaciones a que se refiere este artículo, se tendrán en cuenta las actividades realizadas por el causante, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ### CAPITULO DECIMO. Del Impuesto sobre Honorarios
 
@@ -1525,41 +1443,31 @@ En caso de reincidencia en el incumplimiento de la obligación mencionada en est
 
 ###### ARTICULO 180.
 
-Es objeto de este impuesto la realización de actividades de transporte de personas o cosas dentro del territorio del Estado.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 181.
 
-Son sujetos de este impuesto, las personas físicas, morales o unidades económicas que habitual o accidentalmente realicen las actividades gravadas.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 182.
 
-Es base de este impuesto la unidad o unidades destinadas al transporte de personas o cosas.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 183.
 
-El impuesto se cubrirá de acuerdo con las siguientes tasas:
-
-a).- Automóviles y camionetas de alquiler para pasajeros, de $15.00 a $ 30.00 mensuales por unidad;
-
-b).- Camionetas y camiones de alquiler para carga, de $20 00 a $ 50 00 mensuales por unidad;
-
-c).- Microbuses de $50.00 a $150.00 mensuales por unidad;
-
-d).- Línea de camiones o trolebuses de pasajeros, de $200.00 a $500.00 mensuales por unidad.
-
-Para fijar estas cuotas, la Tesorería tomará en consideración el capital invertido en los negocios, el volumen de operaciones, la importancia de las rutas y demás elementos que estimen necesarios.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 184.
 
-Los sujetos de este impuesto están obligados a empadronarse dentro de los diez días hábiles siguientes a la fecha de iniciación de operaciones, utilizando las formas oficiales aprobadas por la Tesorería.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 185.
 
-El mismo plazo señalado en el Artículo anterior tendrán para manifestar los cambios, altas o bajas.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 186.
 
-El pago del impuesto se hará dentro de los primeros quince días de cada mes.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 187.
 
@@ -1941,15 +1849,23 @@ Las infracciones a esta Ley por lo que se refiere a marbetes se sancionará con 
 
 Cuando el retenedor o causante adhiera sobre el envase de bebidas alcohólicas marbetes cuyo valor no corresponda al impuesto que debió enterarse conforme al Artículo 215, se procederá como lo indica el Artículo anterior.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1979)</small>
+
 ### CAPITULO DECIMO SEGUNDO. Del Impuesto sobre Empresas Porteadoras de Personas o Cosas
 
 ###### ARTICULO 249.
 
-OBJETO: Es objeto de este impuesto el sacrificio de ganado y aves que se realice dentro del Estado.
+OBJETO: Es objeto de este impuesto la propiedad o posesión de ganado y aves que sean sacrificados.
 
 ###### ARTICULO 250.
 
 SUJETOS: Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas sin personalidad jurídica, propietarias o poseedoras del ganado y aves materia del sacrificio.
+
+> <small>(ADICIONADO, P. O. 28 DE DICIEMBRE DE 1979)</small>
+
+###### ARTICULO 250 Bis.
+
+Este impuesto se causa en el momento en que se realice el sacrificio.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
@@ -1979,83 +1895,39 @@ Los encargados de los rastros no permitirán la matanza de ganado o aves, si no 
 
 ###### ARTICULO 252.
 
-Es objeto de este impuesto:
-
-a) El acto constitutivo del fideicomiso traslativo de Dominio de bienes.
-
-b) La cesión de derechos de fideicomitente o de fideicomisario.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 253.
 
-Son sujetos de este impuesto:
-
-a) Los fideicomisarios, tratándose del acto constitutivo del fideicomiso traslativo de dominio de bienes.
-
-b) Los cesionarios, en los casos de cesión de derechos de fideicomitente o de fideicomisario.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 254.
 
-El impuesto se aplicará sobre el valor del inmueble o derecho objeto de la operación.
-
-I.- Si no exedede (sic) de $50,000.00………..2%
-
-II.- Si excede de 50,000.00
-
-pero no de 100,000.00………………3%
-
-III.- Si excede de 100,000.00
-
-pero no de 250,000.00………………4%
-
-IV.- Mayores de 250,000.00……………….5%
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 255.
 
-En la determinación de este impuesto se deberán seguir las reglas siguientes:
-
-Para los efectos fiscales, el impuesto sobre Traslado de Dominio se calculará, tomándose el valor más alto entre el declarado en la operación y el indicado en el certificado del valor anual real que, al efecto, expedirá la Tesorería General del Estado.
-
-En los términos de la Ley General del Timbre, se practicará avalúo bancario por alguna Institución de crédito autorizada para ello por la Secretaría de Hacienda y Crédito Público. En caso de que dicho avalúo arroje un valor más elevado que el declarado en la operación o el indicado en el certificado de valor actual real, será dicho avalúo el que sirva de base para el pago del impuesto.
-
-En operaciones menores de $50,000.00 es opcional para la Tesorería General exigir el avalúo bancario.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 256.
 
-El impuesto se cubrirá en efectivo o mediante cheque certificado, dentro de los treinta días siguientes a la fecha del acto o contrato que implique la generación del gravamen. Para tal efecto, los notarios o autoridades que actúen por receptoría enviarán a la Tesorería General, dentro del plazo señalado, copia de la nota prevista por el artículo 90 de la Ley Federal del Timbre.
-
-Tratnádose (sic) de actos que deban constar en escritura pública, los notarios y las Autoridades señaladas en el párrafo anterior, retendrán y enterarán el impuesto oportunamente.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 257.
 
-Están exentos de este impuesto:
-
-a) El Estado, la Federación y los Municipios.
-
-b) Las Juntas de Mejoramiento Moral, Cívico y Material, previa autorización del
-
-Ayuntamiento respectivo.
-
-c) Los Trabajadores al Servicio del Estado, Federación o Municipio, siempre que habiten el inmueble objeto del impuesto y no posean otro bien raíz en el Estado.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
-
-d) Los entes u organismos creados por el Gobierno del Estado de Nuevo León, para solucionar el problema de la vivienda y de la tenencia legal de la tierra, así como las personas que resulten directamente beneficiadas con sus programas.
-
-e) Las operaciones celebradas por o con personas que lleven a cabo programas concretos, con finalidades y características iguales o similares a las que persigue el fideicomiso denominado ''Fomento Metropolitano de Monterrey'', para solucionar el problema de la vivienda y de la tenencia legal de la tierra, previa autorización del H. Congreso del Estado, a iniciativa del C. Gobernador, quien solicitará opinión del Presidente Municipal que corresponda.
-
-f) El acto constitutivo del fideicomiso de garantía, de administración o testamentario.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 258.
 
-La trasmisión de dominio de un inmueble, en ejecución de un fideicomiso, causará el impuesto sobre Traslado de Dominio, salvo cuando ésta se haga en favor del o de los fideicomisarios designados en el acto constitutivo del fideicomiso, o de los adquirientes de los Derechos de fideicomisario por cualquier título, siempre que en la constitución o adquisición se haya cubierto el impuesto correspondiente.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 259.
 
-En caso de que, al constituírse el fideicomiso, no se designe fideicomisario, el impuesto será a cargo del fideicomitente.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 260.
 
-Responderán solidariamente del pago de este Impuesto el vendedor, los Notarios, Corredores Públicos y Jueces que actúen por receptoría, cuando autoricen la operación sin haberse cerciorado del correcto cumplimiento del pago de este impuesto.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ## TITULO TERCERO. De los Derechos
 
@@ -2083,7 +1955,7 @@ El funcionario o empleado público que preste algún servicio por el que se caus
 
 ###### ARTICULO 266.
 
-Por los servicios prestados en la Secretaría General de Gobierno, se causarán y pagarán los derechos que se señalan en los siguientes Artículo, de este Capítulo.
+Por los servicios prestados en la Secretaría de Servicios a los Trabajadores y Productividad, se causarán y pagarán los derechos que se señalan en los siguientes artículos, de este capítulo.
 
 ###### ARTICULO 267.
 
@@ -2155,35 +2027,57 @@ La inspección inicial deberá llevarse a cabo previamente a su funcionamiento y
 
 Lo (sic) derechos, establecidos por este Artículo, se cubrirán por semestres anticipados dentro de los primeros 15 días de los meses de enero y julio.
 
-### CAPITULO DECIMO QUINTO. Impuesto sobre sacrificio de Ganado y Aves
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+
+### CAPITULO DECIMO QUINTO. Impuesto sobre Ganado y Aves que se sacrifiquen
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 269.
 
-Por autorización a la (sic) sociedades comerciales para la adquisición de terrenos necesarios para su objeto, en los términos de la Fracción IV del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, $250.00.
+Por los servicios prestados en la Secretaría General de Gobierno, se causarán y pagarán los siguientes derechos:
 
-Por expedición de constancias y certificados que extiendan las Dependencias de la Secretaría General de Gobierno, $50.00.
+I.- Por autorización a las sociedades comerciales para la adquisición de terrenos necesarios para su objeto, en los términos de la Fracción IV del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, $250.00.
+
+II.- Por expedición de constancias y certificados que extiendan las Dependencias de la Secretaría General de Gobierno, $50.00.
 
 ###### ARTICULO 270.
 
 Por los servicios del Registro Civil, de acuerdo con la siguiente:
 
-T A R I F A:
+T A R I F A
 
 Concepto:
 
-I.- Inscripción de hechos relativos al nacimiento, reconocimiento de hijos y defunción $60.00
+> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1979)</small>
 
-II.- Inscripción de acta de matrimonio $500.00
+I.- Inscripción de hechos relativos al nacimiento y reconocimiento de hijos y defunción $40.00.
 
-III.- Inscripción de acta de divorcio $1,000.00
+> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1979)</small>
 
-IV.- Expedición de copias certificadas de las actas del estado civil, cada una $50.00
+II.- Inscripción de actas de matrimonio $350.00.
+
+> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1979)</small>
+
+III.- Inscripción de actas de divorcio $700.00.
+
+> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1979)</small>
+
+IV.- Expedición de copias certificadas de las actas del estado civil, cada una $35.00.
 
 V.- Cuando los servicios del oficial se presten a solicitud del interesado en horas, días inhábiles, o en lugar distinto a la sede de la Oficialía, su inscripción causará cuota de otro tanto más de la suma fijada en las fracciones anteriores.
 
-VI.- Por anotaciones marginales $125.00
+> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1979)</small>
+
+VI.- Las anotaciones marginales $85.00.
 
 Gozarán de reducción del 50% del monto de los derechos indicados en las fracciones precedentes, las personas de escasos recursos, sin ingresos fijos o regulares, que comprueben tal situación, bajo la responsabilidad del oficial del Registro Civil al que corresponda la prestación del servicio.
+
+> <small>(ADICIONADO, P. O. 28 DE DICIEMBRE DE 1979)</small>
+
+###### ARTICULO 270 Bis.
+
+La extemporaneidad en el pago de los derechos establecidos en el artículo anterior, en ningún caso dará lugar a la imposición de sanciones o al cobro de recargos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
@@ -2293,7 +2187,7 @@ Si en dichos establecimientos se presenta al público habitualmente la actuació
 
 c).- Hoteles de paso, cabarets, prostíbulos, casa de asignación o lugares semejantes $18,000.00
 
-II.- Por empadronamiento y refrendo anual de empresas porteadoras de personas o cosas, de $100.00 a $2,000.00
+II.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 1979)
 
 III.- Por la expedición de constancias y certificados que extiendan las Dependencias de la Secretaría de Finanzas y Tesorería General $50.00
 
@@ -2301,7 +2195,7 @@ IV.- Por registro de contratos de arrendamiento de bienes inmuebles para casa-ha
 
 V.- Por inspección y vigilancia a industrias que gocen de franquicias fiscales, de conformidad con la Ley de Fomento Industrial y Desarrollo Económico y acuerdos que les sean relativos 5%
 
-VI.- Por registro de contratos afectos al Impuesto sobre capitales invertidos con garantía de inmuebles, o sus modificaciones $200.00
+VI.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 1979)
 
 VII.- Por expedición de placas y tarjetas de circulación para vehículos de motor, excepto motocicletas y motonetas, anualmente $100.00
 
@@ -2353,15 +2247,23 @@ d).- Si excede de $500,000.00 $500.00
 
 XVIII.- Por revalidación o refrendo anual de fierros de herrar o marcas de sangre $50.00
 
-### CAPITULO SEGUNDO. De los Derechos por Servicios Prestados por la Secretaría General de Gobierno
+### CAPITULO SEGUNDO
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1979)</small>
+
+De los derechos por Servicios Prestados por la Secretaría de Servicios a los Trabajadores y Productividad.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+
+### CAPITULO SEGUNDO BIS
+
+De los derechos por Servicios Prestados por la Secretaría General de Gobierno.
+
+> <small>(REFORMADO Y REUBICADO, P. O. 28 DE DICIEMBRE DE 1979)</small>
 
 ### CAPITULO TERCERO. De los Derechos por Servicios Prestados por la Oficialía Mayor
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
-
-### CAPITULO CUARTO. De los Derechos por Servicios Prestados por la Tesorería General
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1977)</small>
 
 ###### ARTICULO 277.
 
@@ -2389,21 +2291,7 @@ c) Catastro torácico ................................................... $5.00
 
 Las personas obligadas a obtener certificados de salud podrán hacerse el examen médico, análisis sanguíneo y catastro torácico, con personas o en establecimientos autorizados distintos a los dependientes de los Servicios Coordinados de Salud Pública en el Estado; acreditado lo anterior, únicamente cubrirán lo correspondiente a la expedición del certificado de salud.
 
-III.- Por la expedición de placa sanitaria a establecimientos comerciales, industriales, avícolas o de transporte, cuando el capital sea:
-
-a) Hasta de $5,000.00 ............................................. $25.00
-
-b) De $5,000.01 a $20,000.00 .............................. $60.00
-
-c) De $20,000.01 a $100,000.00 ........................... $120.00
-
-d) De $100,000.01 a 4500,000.00 .......................... $250.00
-
-e) De más de $500,000.00 ....................................... $500.00
-
-Cuando se trate de establecimientos que tengan sucursales, despachos, bodegas o dependencias, la matriz deberá proveerse de la placa sanitaria respectiva de acuerdo con su capital y las sucursales, despachos, bodegas o dependencias, pagarán por su placa la cuota mínima.
-
-Tratándose de iniciación de operaciones, la placa deberá obtenerse dentro de los 30 días siguientes a la iniciación y, posteriormente, dentro del mes de enero de cada año.
+III.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 1979)
 
 IV.- Por la expedición de certificados para la venta de medicina de patente en poblaciones donde no existan boticas legalmente establecidas, según la importancia del negocio, de $50.00 a $250.00.
 
@@ -2413,19 +2301,21 @@ VI.- Por servicios de la Educación que constitucionalmente no sea obligatoria y
 
 VII.- Por la expedición de constancias y certificados diversos de los enunciados anteriormente, que expidan las Dependencias de la Dirección de Educación, $50.00.
 
-VIII.- Por registro de fierros y señales de ganado, por cada uno .........$50.00
+VIII.- Por registro de fierros y señales de ganado, por cada uno $50.00
 
-IX.- Por la expedición de constancias y certificados, que expidan las Dependencias de Gobierno del Estado, no mencionadas en las disposiciones de este Título ........$50.00
+IX.- Por la expedición de constancias y certificados, que expidan las Dependencias de Gobierno del Estado, no mencionadas en las disposiciones de este Título $50.00
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
 
 ARTICULO 277 bis.- Los derechos que causen las fábricas, agencias, depósitos o expendios de cerveza, no excederán en su totalidad de $200.00 anuales, incluyendo adicionales, por el desarrollo de su actividad de elaboración o venta de cerveza.
 
-### CAPITULO QUINTO. De los Derechos por Servicios Prestados por Diversas Dependencias
+### CAPITULO CUARTO. De los Derechos por Servicios Prestados por la Tesorería General
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1977)</small>
 
 ## TITULO CUARTO. De los Productos
 
-### CAPITULO UNICO
+### CAPITULO QUINTO. De los Derechos por Servicios Prestados por Diversas Dependencias
 
 ###### ARTICULO 278.
 
@@ -2454,6 +2344,8 @@ IX.- Diversos.
 Los productos, por conceptos diversos a los señalados en el Artículo anterior, se cobrarán de acuerdo con los contratos, o en los términos de las concesiones de conformidad con las leyes o disposiciones aplicables.
 
 ## TITULO QUINTO. De los Aprovechamientos
+
+### CAPITULO UNICO
 
 ### CAPITULO UNICO
 
@@ -2489,13 +2381,17 @@ X.- Otros no especificados.
 
 En los Municipios de Monterrey, Guadalupe, San Nicolás de los Garza, Garza García, Santa Catarina y Apodaca, se pagará el 43.5% (cuarenta y tres y medio por ciento) adicional sobre el importe de los siguientes impuestos:
 
-Predial; Herencias, Legados y Donaciones; y Capitales Invertidos con Garantía de Inmuebles.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+
+Predial; Herencias, Legados y Donaciones.
 
 En los demás Municipios del Estado la tasa adicional será del 30% (treinta por ciento).
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 282.
 
-En los Municipios de Monterrey, Guadalupe, San Nicolás de los Garza, Garza García, Santa Catarina y Apodaca, se pagará el 23.5% (veintitres y medio por ciento) adicional sobre el importe de los siguientes derechos: Por Servicios de Salubridad (excepto la expedición de certificados de salud y de placa sanitaria); del Registro Público de la Propiedad y del Comercio; y otros derechos (excepto por la expedición de pasaportes y por el registro de fierros y señales de ganado).
+En los Municipios de Monterrey, Escobedo, Guadalupe, San Nicolás de los Garza, Garza García, Santa Catarina y Apodaca, se pagará el 23.5% (veintitrés y medio por ciento) adicional sobre el importe de los siguientes derechos: Por Servicios de Salubridad (excepto la expedición de certificados de salud); del Registro Público de la Propiedad y del Comercio; y otros derechos (excepto por la expedición de pasaportes y por el registro de fierros y señales de ganado).
 
 En los demás Municipios del Estado, esta tasa adicional será del 20% (veinte por ciento).
 
@@ -2563,9 +2459,7 @@ La Oficina Técnica Catastral, aún cuando no reciba dichos planos, procederá a
 
 ###### ARTICULO CUARTO
 
-- En tanto rijan los Convenios de Coordinación entre el Estado Libre y Soberano de Nuevo León y la Secretaría de Hacienda y Crédito Público, para el cobro del Impuesto Federal Sobre Ingresos Mercantiles y para el cobro de los Impuestos sobre Producción de Aguardiente y sobre Envasamiento de Bebidas Alcohólicas, estos gravámenes se causarán, liquidarán y recaudarán, en la forma y términos previstos en las Leyes Federales de la materia, y en los convenios relativos.
-
-En caso de terminación de los convenios indicados, cesará la suspensión de la vigencia de las Leyes del Impuesto sobre Ingresos Mercantiles y sobre Expendio de Bebidas Alcohólicas, del Estado de Nuevo León.
+- (DEROGADO, P.O. 28 DE DICIEMBRE DE 1979).
 
 ###### ARTICULO QUINTO
 
@@ -2628,3 +2522,13 @@ Esta Ley entrará en vigor el día 1o. de Enero de 1979.
 ###### ARTICULO SEGUNDO
 
 Se derogan las disposiciones que se opongan al fiel y exacto cumplimiento de esta Ley.
+
+P.O. 28 DE DICIEMBRE DE 1979.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día 1o. de Enero de 1980.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las Leyes, Resoluciones y Disposiciones que se opongan al presente Decreto.
