@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-14868"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-25"
-last_updated: "2002-02-11"
+last_updated: "2002-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2002.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 25 de diciembre de 1996.
 
@@ -303,71 +303,85 @@ II. De los demás asuntos que expresamente les encomiende la presente Ley.
 
 El Tribunal Electoral de conformidad con el Artículo 90 fracción IV de la Constitución Política del Estado, es un órgano especializado del Poder Judicial del Estado, con facultad jurisdiccional en materia electoral y en consecuencia el único competente para interpretar el alcance de la Ley Electoral del Estado.
 
-Para su funcionamiento el tribunal se dividirá en Salas de Primera y Segunda Instancia. Las Salas de Primera Instancia serán regionales, en el número y con la jurisdicción territorial que determine el Pleno del Supremo Tribunal de Justicia del Estado y tendrán competencia para resolver los recursos de revisión e inconformidad que señala la Ley Electoral del Estado. La Sala de Segunda Instancia conocerá del recurso de reconsideración, y en la segunda votación en las elecciones para la renovación de ayuntamientos, únicamente del recurso de apelación a que se refiere la Ley Electoral del Estado.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
 
-El Tribunal se integrará a más tardar durante la primera quincena del mes de enero del año de la elección. La Sala Regional de Primera Instancia con sede en la capital del Estado se instalará para ejercer sus funciones durante la segunda quincena del mismo mes de enero. Las restantes Salas Regionales de Primera Instancia y la Sala de Segunda Instancia se instalarán durante la primera quincena de marzo y la segunda quincena de mayo del año de la elección respectivamente. Sus funciones concluirán cuando se resuelva en forma definitiva e inatacable el último de los recursos presentados en la elección de que se trate. Cuando se presenten recursos fuera de los tiempos señalados anteriormente o las circunstancias así lo ameriten, el Pleno del Supremo Tribunal de Justicia integrará una Sala Regional Central de Primera Instancia y la Sala de Segunda Instancia, durante todo el tiempo que sea necesario.
+El Tribunal Electoral se integrará durante la última quincena de octubre del año anterior al de la elección ordinaria de que se trate, e iniciará sus funciones con la instalación de la Sala de Segunda Instancia, y de la Sala Regional de Primera Instancia correspondiente a la zona centro, durante la primera quincena del mes de noviembre del mismo año.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
+
+El Tribunal se compondrá con una Sala de Segunda Instancia, que funcionará en forma colegiada y con Salas de Primera Instancia, que serán regionales y unitarias, en el número y con la jurisdicción que determine el Pleno del Supremo Tribunal de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2002)</small>
+
+Concluido el proceso electoral, las Salas de Primera y Segunda instancia entrarán en receso, y sólo renovarán sus funciones cuando se interponga algún recurso del cual les corresponda conocer, pero lo harán únicamente por el tiempo estrictamente necesario para substanciarlo y resolverlo; también entrarán en funciones, en su caso, en los procesos electorales extraordinarios, desde que inicien hasta que concluyan.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 27.
 
-Las Salas Regionales de Primera Instancia del Tribunal Electoral se integrarán cada una por tres Magistrados numerarios que serán designados de la siguiente forma:
+Las Salas de Primera Instancia, a excepción de la correspondiente a la región centro que en cuanto al período de instalación estará a lo dispuesto en el segundo párrafo del artículo 26 de esta Ley, se instalarán durante el mes de enero del año de la elección, con un magistrado y el personal jurídico y administrativo necesario para el ejercicio de sus funciones.
 
-I. El Pleno de Supremo Tribunal de Justicia deberá presentar al Congreso del Estado una lista de hasta el triple del total de los candidatos a elegir.
+Los magistrados de las Salas de Primera Instancia del Tribunal Electoral serán designados en la siguiente forma:
 
-Para conformar la lista de que habla el párrafo anterior, el Pleno del Supremo Tribunal de Justicia tomará en consideración a profesionales del derecho de todas las zonas del Estado, valorando su probidad, honradez, solvencia moral, imparcialidad, capacidad profesional y conocimiento del derecho. Asimismo revisará escrupulosamente que los profesionistas propuestos cubran los mismos requisitos que establece la Constitución Política del Estado para ser Magistrado del Supremo Tribunal de Justicia, así como los particulares que señala esta Ley para serlo del Tribunal Electoral; y
+I. El Pleno del Supremo Tribunal de Justicia deberá presentar al Congreso del Estado, con cuando menos sesenta días de anticipación al inicio del mes en que deban integrarse las Salas conforme a esta Ley, una lista de hasta el triple del total de los candidatos a elegir, y
 
-II. De la lista propuesta por el Pleno del Supremo Tribunal de Justicia, el Congreso del Estado designará por el voto de cuando menos las dos terceras partes de sus miembros presentes a los Magistrados Numerarios y Supernumerarios que integrarán cada Sala.
+II. De la lista propuesta por el Pleno del Supremo Tribunal de Justicia, el Congreso del Estado designará, dentro del plazo que señala el artículo 96 de la Constitución Política del Estado, por el voto de cuando menos las dos terceras partes de sus miembros presentes, a los Magistrados Numerarios y Supernumerarios que integrarán cada Sala; si no lo hiciere, se procederá en lo conducente en los términos que establece el citado artículo, debiendo entonces el Pleno del Tribunal, hacer las designaciones respectivas.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 28.
 
-Los Magistrados de las Salas de Primera Instancia del Tribunal Electoral, serán nombrados para ejercer sus funciones por el término a que se refiere el Artículo 26 de la presente Ley, sin perjuicio de que puedan ser reelectos en elecciones posteriores.
+Los magistrados de las Salas de Primera Instancia del Tribunal Electoral concluirán sus funciones cuando se integre el Tribunal Electoral que conocerá de los recursos en el próximo proceso electoral ordinario, pudiendo ser reelectos.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 29.
 
-Los Presidentes de las Salas Regionales de Primera Instancia del Tribunal Electoral deberán ser electos para cada proceso electoral, por sus integrantes, de entre alguno de sus miembros.
+El Congreso del Estado deberá hacer del conocimiento público la designación que efectúe de los magistrados de las Salas de Primera Instancia del Tribunal Electoral, a través del Periódico Oficial del Estado, notificando además a los partidos políticos sobre dichas designaciones.
 
 #### Sección Segunda. Del Funcionamiento de las Salas Regionales de Primera Instancia del Tribunal Electoral
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 30.
 
-Las Salas Regionales de Primera Instancia del Tribunal Electoral funcionarán únicamente durante los plazos señalados en la presente Ley.
+Las Salas de Primera Instancia del Tribunal Electoral, funcionarán únicamente durante el plazo señalado en la presente Ley.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 31.
 
-El Congreso del Estado deberá hacer del conocimiento público la designación que efectúe de los Magistrados de las Salas Regionales de Primera Instancia del Tribunal Electoral, a través del Periódico Oficial del Estado, notificando además a los partidos políticos sobre dichas designaciones.
+Las Salas de Primera Instancia tendrán competencia para conocer de los recursos de inconformidad que se presenten para impugnar lo relativo a las fracciones I, II, III, IV, V y VI del artículo 191 de la Ley Electoral del Estado, tanto para elecciones ordinarias como extraordinarias.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 32.
 
-Para la tramitación, integración y substanciación de los expedientes relativos a los medios de impugnación que deben resolver las Salas Regionales de Primera Instancia del Tribunal, el Presidente de cada una de ellas nombrará a un Secretario y al personal auxiliar que considere necesario.
+Para la tramitación, integración y substanciación de los expedientes relativos a los recursos que deban resolver, las Salas de Primera Instancia contarán con un Secretario General de Acuerdos, los secretarios de estudio y cuenta, y personal auxiliar necesario.
 
 ###### ARTICULO 33.
 
 Los Secretarios de las Salas Regionales de Primera Instancia del Tribunal Electoral, deberán ser mexicanos, mayores de veintiséis años, en pleno ejercicio de sus derechos políticos, tener título de Abogado legalmente expedido y contar con una experiencia mínima de tres años en el ejercicio de la profesión.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 34.
 
-Son facultades de los Presidentes de las Salas Regionales de Primera Instancia del Tribunal Electoral:
+Son facultades y obligaciones de los magistrados de las Salas de Primera Instancia del Tribunal Electoral:
 
-I. Convocar en los términos de esta Ley a los demás miembros de la Sala para la instalación e inicio de sus funciones; de acuerdo al Reglamento expedido por el Supremo Tribunal de Justicia;
+I. Conocer, tramitar y resolver los recursos de su competencia conforme a lo que disponga la Ley Electoral del Estado;
 
-II. Presidir las sesiones de la Sala, dirigir los debates y conservar el orden durante las mismas;
+II. Remitir a la Sala de Segunda Instancia los informes de los asuntos que ante ellos se tramiten y los demás que se les soliciten;
 
-III. Administrar los recursos humanos, financieros y materiales necesarios para el buen funcionamiento de la Sala;
+III. Administrar los recursos humanos, financieros y materiales necesarios para el eficiente funcionamiento de la Sala;
 
-IV. Representar a la Sala ante toda clase de autoridades;
+IV. Vigilar que se notifique legalmente a las partes así como los organismos electorales las resoluciones que pronuncie la Sala, y
 
-V. Despachar a través de la Secretaría la correspondencia de la Sala;
-
-VI. Instruir por medio del Secretario todos los expedientes que se abran para el despacho de los asuntos que deba conocer la Sala;
-
-VII. Vigilar que se notifique a las partes así como a los organismos electorales las resoluciones que pronuncie la Sala;
-
-VIII. Distribuir, sin excluirse, los asuntos que reciba la Sala para que los Magistrados propongan el proyecto de resolución final; y
-
-IX. Las demás que le atribuyan la ley y el Reglamento respectivo.
+V. Las demás que les encomienden esta Ley y su Reglamento.
 
 ###### ARTICULO 35.
 
-Las Salas Regionales de Primera Instancia del Tribunal Electoral funcionarán siempre en Pleno y sus resoluciones se tomarán por mayoría de votos. Sus sesiones serán públicas en la misma forma y términos que las de los organismos electorales previstos en esta Ley.
+(DEROGADO, P.O. 15 DE JULIO DE 2002)
 
 ###### ARTICULO 36.
 
@@ -375,25 +389,43 @@ Los Magistrados Supernumerarios suplirán las faltas o ausencias temporales o de
 
 #### Sección Tercera. De la Sala de Segunda Instancia del Tribunal Electoral
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 37.
 
-Durante el proceso electoral se integrará una Sala de Segunda Instancia con cinco Magistrados Numerarios y cinco Supernumerarios, designados por el voto de cuando menos las dos terceras partes de los miembros presentes del Congreso del Estado, de la propuesta que le presente el Supremo Tribunal de Justicia del Estado.
+La Sala de Segunda Instancia se integrará con tres magistrados numerarios y tres supernumerarios, designados por el voto de cuando menos las dos terceras partes de los miembros presentes del Congreso del Estado, de la propuesta que deberá presentar el Pleno del Supremo Tribunal de Justicia del Estado, cuando menos sesenta días antes del inicio del mes en que la Sala deba integrarse conforme a esta Ley.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 38.
 
-Para tales efectos el Pleno del Supremo Tribunal de Justicia, incluirá en la propuesta, cuando menos el triple de los Magistrados Numerarios señalados en el artículo inmediato anterior, dentro de los cuales el Congreso del Estado, nombrará a los Numerarios y a los Supernumerarios.
+Para efecto de lo señalado en el artículo inmediato anterior, el Pleno del Supremo Tribunal de Justicia incluirá en la propuesta, a cuando menos el triple de los magistrados numerarios que deben integrarla conforme a esta Ley, por lo cual el Congreso del Estado nombrará, dentro del término que señala el artículo 96 de la Constitución Política del Estado, a los numerarios y a los supernumerarios; quienes concluirán su encargo cuando se integre el Tribunal que deberá conocer de los recursos en el próximo proceso electoral ordinario, pudiendo ser reelectos. En caso de que el Congreso no hiciere los nombramientos dentro del término antes señalado, se estará en lo conducente a lo que al respecto establece el artículo antes citado, debiendo entonces el Pleno del Tribunal, hacer las designaciones respectivas.
+
+Para conformar las propuestas de magistrados del Tribunal Electoral, el Pleno del Supremo Tribunal de Justicia tomará en consideración a profesionales del derecho de todas las zonas del Estado, valorando su probidad, honradez, solvencia moral, imparcialidad, capacidad profesional y conocimiento del derecho. Asimismo, revisará escrupulosamente que los profesionistas propuestos cubran los mismos requisitos que establece la Constitución Política del Estado para ser Magistrado del Supremo Tribunal de Justicia, así como los particulares que señala esta Ley para serlo del Tribunal Electoral.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 39.
 
-El Presidente de la Sala de Segunda Instancia será electo por sus integrantes de entre alguno de sus miembros.
+El Congreso del Estado deberá publicar en el Periódico Oficial del Estado, la designación de los magistrados integrantes de la Sala de Segunda Instancia del Tribunal Electoral, notificando además a los partidos políticos sobre dichas designaciones.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 40.
 
-La Sala de Segunda Instancia es competente para conocer y resolver los recursos de reconsideración y el de apelación a que se refiere la Ley Electoral del Estado, que se interpongan de acuerdo a lo establecido por la misma. Sus resoluciones serán definitivas e inatacables.
+El Presidente de la Sala de Segunda Instancia será electo por sus integrantes de entre sus miembros, y fungirá a la vez como Presidente del Tribunal Electoral.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 41.
 
-El Congreso del Estado deberá hacer del conocimiento público la designación que efectuó de los Magistrados integrantes de la Sala de Segunda Instancia del Tribunal Electoral, así como de su instalación e iniciación de labores, a través del Periódico Oficial del Estado, notificando además a los partidos políticos sobre dichas designaciones.
+La Sala de Segunda Instancia funcionará en forma colegiada y será competente para conocer:
+
+I. Durante y fuera del proceso electoral del recurso de reconsideración, y
+
+II. En la segunda votación en las elecciones para la renovación de ayuntamientos, como única instancia, del recurso de apelación.
+
+La Sala de Segunda Instancia será la responsable de las tareas de formación, investigación, capacitación y difusión en la materia.
 
 ###### ARTICULO 42.
 
@@ -421,9 +453,13 @@ VIII. Turnar a los Magistrados, sin excluirse, los expedientes para que se formu
 
 IX. Vigilar que se dicten en tiempo y forma las resoluciones de la Sala.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 44.
 
-Para que sesione válidamente la Sala de Segunda Instancia del Tribunal se requerirá la presencia de por lo menos tres Magistrados, entre los cuales deberá estar el Presidente. Sus resoluciones se tomarán por mayoría de votos. En caso de empate el Presidente tendrá voto de calidad.
+Para que sesione válidamente la Sala de Segunda Instancia, se requerirá la presencia de los tres magistrados que la integran.
+
+Los magistrados supernumerarios suplirán las faltas o ausencias temporales o definitivas de los magistrados de número.
 
 ###### ARTICULO 45.
 
@@ -457,9 +493,11 @@ VII. Tener conocimientos de derecho electoral.
 
 Durante el tiempo que ejerzan las funciones de su cargo, los Magistrados no podrán dedicarse al libre ejercicio de su profesión ni desempeñar cargos, empleos o comisiones de la Federación, Estados, municipios, partidos políticos, o de los particulares, excepción hecha de los docentes, que no sean de tiempo completo y de beneficencia cuando sean compatibles con el ejercicio de su cargo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 49.
 
-Son facultades y obligaciones de los Magistrados las siguientes:
+Son facultades y obligaciones de los magistrados de la Sala de Segunda Instancia del Tribunal Electoral, las siguientes:
 
 I. Concurrir, participar y votar cuando corresponda, en las sesiones a las que sean convocados por el Presidente;
 
@@ -471,7 +509,9 @@ IV. Discutir y votar los proyectos de resolución que sean sometidos a su consid
 
 V. Formular voto particular razonado, en caso de disentir de un proyecto de resolución aprobado por la mayoría;
 
-VI. Las demás que les otorgue el Reglamento del Tribunal Electoral.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2002)</small>
+
+VI. Las demás que les otorguen esta Ley y su Reglamento Interno.
 
 ###### ARTICULO 50.
 
@@ -1145,9 +1185,7 @@ Son sujetos de responsabilidad administrativa los Jueces de Primera Instancia, J
 
 La responsabilidad de los delitos o faltas administrativas de los Magistrados y Jueces del Supremo Tribunal de Justicia, se sujetará a las disposiciones que establezca la Constitución Política del Estado.
 
-### CAPITULO II. De las Faltas Administrativas
-
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2000)</small>
+### CAPITULO III. De las Sanciones Administrativas
 
 ###### ARTICULO 128.
 
@@ -1207,7 +1245,9 @@ IV. Hacer notificaciones, citaciones o emplazamientos a las partes, por cédula 
 
 V. Practicar embargos, aseguramiento o retención de bienes, o lanzamiento de personas o corporación que no sea la designada en el auto respectivo, o cuando en el momento de la diligencia o antes de retirarse el personal del juzgado, se le demuestre que esos bienes son ajenos; para comprobar tal hecho, en todo caso, deberán agregar a los autos la documentación que se les presente, a efecto de dar cuenta a quien hubiere ordenado la diligencia.
 
-### CAPITULO III. De las Sanciones Administrativas
+### CAPITULO II. De las Faltas Administrativas
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2000)</small>
 
 ###### ARTICULO 132.
 
@@ -1422,3 +1462,9 @@ En caso de que las partes no acepten conciliar sus intereses, el Juez iniciará 
 Las resoluciones de los Jueces Menores en asuntos de justicia indígena no admiten recurso alguno.
 
 QUINTO. Las relaciones laborales que en su caso se vean afectadas como consecuencia de este Decreto, se resolverán en los términos de la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado y Municipios, vigente.
+
+P.O. 15 DE JULIO DE 2002.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones y ordenamientos que se opongan al presente Decreto.
