@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1977-12-31"
+last_updated: "1978-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1978.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -215,6 +215,10 @@ Cuando la determinación o liquidación deban ser hechas por las autoridades fis
 
 35.- Los funcionarios fiscales facultados debidamente, podrán expedir circulares para dar a conocer a las diversas dependencias el criterio de la autoridad superior que deberán seguir, en cuanto a la aplicación de las normas tributarias. De dichas circulares no nacen obligaciones ni derechos para los particulares.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+El microfilm de los documentos que obran en los archivos de la Tesorería General del Estado y sus reproducciones, obtenidos por las autoridades fiscales, tendrán su valor probatorio sin necesidad de cotejo con sus originales, siempre y cuando sean certificados por funcionario competente.
+
 36.- Las autoridades fiscales, a fin de determinar la existencia del crédito fiscal, dar las bases de su liquidación o fijarlo en cantidad líquida, cerciorarse del cumplimiento a las disposiciones fiscales y comprobar la comisión de infracciones a dichas disposiciones, estarán facultadas para:
 
 I.- Practicar visitas en el domicilio o dependencia de los sujetos pasivos, de los responsables solidarios o de los terceros para revisar sus libros, documentos y correspondencia que tengan relación con las obligaciones fiscales.
@@ -353,6 +357,10 @@ La autoridad fiscal recibirá el pago hecho por el sujeto pasivo, responsable so
 
 Las manifestaciones y declaraciones de los notarios, jueces que actúen por receptoría y contadores, salvo el caso del artículo 81, se entenderán hechas bajo su estricta responsabilidad, siendo solidariamente responsables del pago del impuesto omitido sin perjuicio de las sanciones a que se hagan acreedores en los términos de este mismo Código.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+Cuando se omita la presentación de declaraciones para el pago de impuestos propios o retenidos, transcurridos diez días a partir del siguiente al en que se haya vencido el plazo en que el causante o retenedor debió presentarlas, la Tesorería General del Estado podrá hacerle efectivo un impuesto igual al de la última declaración con las modificaciones que en su caso hubiere tenido con motivo de la revisión. Este impuesto podrá ser rectificado por la Tesorería General del Estado. Los contribuyentes o retenedores, por su parte, continuarán obligados a presentar las declaraciones omitidas, caso en el impuesto pagado se acreditará contra el que resulte de dicha declaración, que podrá ser objeto de revisión.
+
 45.- La falta de pago de un crédito fiscal en la fecha o término establecido en las disposiciones respectivas, determina que el crédito sea exigible.
 
 46.- El Tesorero General del Estado podrá conceder prórrogas para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el término dentro del cual deben pagarse las parcialidades no excederá de un año, salvo que se trate de adeudos cuantiosos correspondientes a ejercicios fiscales anteriores, o de situaciones excepcionales, casos en los cuales el término podrá ser hasta de tres años.
@@ -383,9 +391,9 @@ Las autoridades, a solicitud del interesado expresada en el momento de hacer el 
 
 La protesta quedará sin efecto y el pago se considerará definitivo desde la fecha en que se hizo el entero respectivo, cuando no se promuevan dentro del término legal los recursos o medios de defensa o fueren rechazados o sobreseídos o cuando de la resolución que se dicte resultare la procedencia del pago.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 1975)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
 
-50.- Los causantes y responsables solidarios que no paguen los créditos fiscales que les sean exigibles, deberán cubrir recargos por la mora; serán de 3% por cada mes de calendario o fracción en que se retarde el pago. En ningún caso los recargos excederán del importe de crédito fiscal omitido.
+50.- Los causantes y responsables solidarios que no paguen los créditos fiscales que les sean exigibles, deberán cubrir recargos por la mora; la tasa será de un 3% por cada mes o fracción que transcurra; a partir de la fecha de exigibilidad hasta que se efectúe el pago. En ningún caso los recargos excederán el importe del crédito fiscal omitido.
 
 51.- El fisco estatal está obligado a devolver las cantidades que se le paguen indebidamente, conforme a las reglas que siguen:
 
@@ -617,7 +625,9 @@ La Tesorería General del Estado estará facultada para expedir los instructivos
 
 Tampoco podrán ratificar firmas y el contenido de documentos en los cuales consten actos que causen algún gravamen sin comprobar que el mismo ha sido cubierto.
 
-Los Notarios y en general los funcionarios encargados de la fé pública, dentro de los 30 días hábiles siguientes contados a partir de la fecha en que se firme la escritura respectiva, deberán presentar ante la Recaudación de Rentas que corresponda, nota con 3 copias, en la que harán constar el número y fecha de la escritura, nombre de los otorgantes, naturaleza del acto, valor de la operación y del avalúo en su caso, ubicación de los bienes inmuebles si fueren materia del acto o resolución y liquidación de los impuestos que se causen a juicio del Notario; de estar exceptuados conforme a la Ley deberán expresarlo así, señalando la causa de la exención y su fundamento legal.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+Los Notarios y en general los funcionarios encargados de la fé pública, dentro de los 30 días hábiles siguientes contados a partir de la fecha en que se firme la escritura respectiva, deberán presentar ante la Recaudación de Rentas que corresponda, nota con 3 copias, salvo de los testamentos, en la que harán constar el número y fecha de la escritura, nombre de los otorgantes, naturaleza del acto, valor de la operación avalúo en su caso, ubicación de los bienes inmuebles si fueren materia del acto o resolución y liquidación de los impuestos que se causen a juicio del Notario; de estar exceptuados conforme a la Ley deberán expresarlo así, señalando la causa de la exención y su fundamento legal.
 
 Las autoridades correspondientes, si el objeto de la operación son bienes inmuebles, harán constar en la nota los datos catastrales relativos y si se encuentran al corriente en el pago de las contribuciones ordinarias y extraordinarias. El original de la nota se devolverá con la certificación de que se cubrió el impuesto conforme a la liquidación formulada bajo la responsabilidad del Notario, facultándolo para la autorización de la escritura.
 
@@ -1043,19 +1053,19 @@ III.- Tratándose de plantas de beneficio y establecimientos metalúrgicos, la b
 
 ### CAPITULO III. IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
 
 149.- El objeto de este impuesto es la tenencia o uso de automóviles y camiones.
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
 
 150.- Son sujetos del impuesto las personas físicas o morales tenedoras o usuarios de los vehículos a que se refiere el artículo anterior.
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
 
 151.- Las plantas ensambladoras, sus distribuidores y los demás comerciantes en el ramo de automóviles, causarán el impuesto por los vehículos que estando registrados en las Oficinas de Tránsito a su nombre, estén al servicio de la negociación o de sus funcionarios y empleados.
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
 
 152.- Quedan exceptuados del impuestos (sic) los tenedores y los usuarios de los vehículos a que se refieren las siguientes fracciones:
 
@@ -1069,29 +1079,29 @@ IV.- Las ambulancias que estén al servicio de la Federación, Estados, Municipi
 
 V.- Los que tengan para su venta las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de automóviles, siempre que carezcan de placas de circulación.
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
 
 153.- A los vehículos comprendidos en la fracción III del artículo anterior, se les expedirá un oficio de exención del tributo y una calcomanía especial diferentes a la de los vehículos por los que se haya cubierto el gravamen, previa comprobación por parte de la Tesorería General del Estado de que los mismos quedan comprendidos dentro del supuesto de esa fracción.
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
 
 154.- Los tenedores o usuarios de vehículos que por cualquier motivo dejen de estar comprendidos en alguna de las fracciones del artículo 152, causarán el impuesto correspondiente, el cual se cubrirá dentro de los 15 días siguientes al cambio de situación.
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
 
 155.- Quienes por cualquier título adquieran la propiedad, la tenencia o uso de vehículos sujetos al impuesto, son solidariamente responsables del pago que por concepto de tal impuesto se adeudare respecto del vehículo o vehículos materia del traspaso de la propiedad, de la tenencia o del uso; aunque como consecuencia del traspaso y del servicio a que los vehículos se destinen, queden comprendidos en las fracciones I, II y V del artículo 152.
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
 
 156.- Las personas que reciban en consignación o comisión para su venta automóviles cuya tenencia o uso grava este capítulo, son solidariamente responsables por los impuestos que se adeuden.
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
 157.- El impuesto se causará anualmente y deberá quedar cubierto dentro de los dos primeros meses de cada año.
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
@@ -1137,7 +1147,7 @@ año anteriores al de la aplicación
 
 de la Ley "150.00 "150.00 "150.00
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
 
 159.- Para la aplicación de la tarifa se tomará en cuenta la siguiente clasificación:
 
@@ -1147,11 +1157,11 @@ II.- Segunda categoría: Comprende vehículos cuyo precio oficial de venta al p�
 
 III.- Tercera categoría: Comprende vehículos cuyo precio oficial de venta al público exceda de $50,000.00.
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
 
 160.- Como modelo debe considerarse el año del modelo o el de fabricación; como marca el nombre comercial del vehículo; y como tipo, las características especiales del mismo.
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
@@ -1167,19 +1177,19 @@ III.- Cuota que corresponda cubrir conforme al artículo 158 de este Capítulo o
 
 La Tesorería General del Estado por conducto de sus oficinas recaudadoras entregará la calcomanía que compruebe el pago o la exención del impuesto, que sólo servirá para amparar el vehículo para la que fué entregada.
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
 
 162.- Las Oficinas de Tránsito del Estado no autorizarán altas ni cambios de placas si el vehículo no ostenta en el parabrisas la calcomanía que compruebe el pago del impuesto, o en su caso la exención del gravamen. Siempre que comprueben que no se ha cubierto el impuesto, lo harán del conocimiento de la Recaudación de Rentas respectiva para que proceda a su cobro. Las autoridades que infrinjan esta disposición serán responsables solidariamente del impuesto omitido.
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
 
 163.- Los tenedores o usuarios de los vehículos están obligados a fijar en el parabrisas la calcomanía que compruebe el pago del impuesto. En caso de que por falta de dicha calcomanía no puedan demostrar al ser requeridos para ello, que están al corriente en el pago del impuesto, se procederá en los términos del artículo 337.
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
 
 164.- El hecho de no fijarse en el vehículo la calcomanía que compruebe el pago del impuesto como se establece en el artículo anterior, se sancionará con una multa equivalente al 20% del impuesto que corresponda.
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
@@ -1255,7 +1265,11 @@ La vigencia de las exenciones que se concedan de acuerdo con lo dispuesto por es
 
 #### SECCION CUARTA. PAGO
 
-108.- El impuesto se pagará por bimestres adelantados dentro de los días 1o. al 15 de los meses de enero, marzo, mayo, julio, septiembre y noviembre. Deberá enterarse en las oficinas recaudadoras de rentas de la demarcación correspondiente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+108.- El impuesto se pagará dentro del bimestre correspondiente. Deberá enterarse en las oficinas recaudadoras de rentas de la demarcación en que se ubica el inmueble.
+
+Para los efectos de este artículo, el año se entiende dividido en seis bimestres: enero-febrero, marzo-abril, mayo-junio, julio-agosto, septiembre-octubre y noviembre-diciembre.
 
 109.- En el caso de predios no empadronados en la Tesorería General del Estado por causa imputable al sujeto del impuesto, se harán efectivos cinco años de impuestos anteriores a la fecha del descubrimiento de la omisión, aplicándose las sanciones correspondientes, salvo que el interesado compruebe que el lapso es menor.
 
@@ -1323,53 +1337,47 @@ IV.- A registrarse en la Recaudación de Rentas de su jurisdicción, dentro del 
 
 170.- Las Oficinas Públicas de la Federación, del Estado y de los Municipios, así como los organismos descentralizados, las empresas de participación o propiedad del Gobierno Federal, del Gobierno Estatal, o similares, que hagan pagos a sujetos de este impuesto, cumplirán con las mismas obligaciones señaladas en los artículos anteriores.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1977)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
 
 171.- El impuesto se causará conforme a la siguiente
 
 TARIFA:
 
-Porcentaje para
+Porcentajes para
 
 aplicarse sobre
 
-el excedente del
+Límite Inferior Límite Superior Cuota Fija el excedente del
 
-Límite Inferior Límite Superior Cuota Fija límite inferior.
+M $ N M $ N M $ N. límite inferior.
 
-M$N M$N M$N
+De 0.01 a 4,500.00 0.00 exento
 
-De 0.01 a 3,500.00 0.00 más exento
+De 4,500.01 a 5,000.00 30.00 más 4.0
 
-De 3,500.01 a 4,000.00 30.00 más 2.4
+De 5,000.01 a 6,000.00 50.00 más 3.2
 
-De 4,000.01 a 5,000.00 42.00 más 3.2
+De 6,000.01 a 7,000.00 82.00 más 2.8
 
-De 5,000.01 a 6,000.00 74.00 más 4.3
+De 7,000.01 a 8,000.00 110.00 más 3.0
 
-De 6,000.01 a 7,000.00 117.00 más 3.4
+De 8,000.01 a 9,000.00 140.00 más 3.2
 
-De 7,000.01 a 8,000.00 151.00 más 3.6
+De 9,000.01 a 10,000.00 172.00 más 4.2
 
-De 8,000.01 a 9,000.00 187.00 más 3.9
+De 10,000.01 a 12,000.00 214.00 más 4.0
 
-De 9,000.01 a 10,000.00 226.00 más 4.2
+De 12,000.01 a 15,000.00 294.00 más 4.9
 
-De 10,000.01 a 12,000.00 268.00 más 4.6
+De 15,000.01 a 18,000.00 441.00 más 5.9
 
-De 12,000.01 a 15,000.00 360.00 más 5.5
+De 18,000.01 a 21,000.00 618.00 más 6.9
 
-De 15,000.01 a 18,000.00 525.00 más 6.5
+De 21,000.01 a 25,000.00 825.00 más 7.6
 
-De 18,000.01 a 21,000.00 720.00 más 7.5
+De 25,000.01 a 30,000.00 1,129.00 más 7.9
 
-De 21,000.01 a 25,000.00 945.00 más 8.2
-
-De 25,000.01 a 30,000.00 1,273.00 más 8.5
-
-De 30,000.00 en adelante 1,698.00 más 8.7
-
-Cuando los causantes de este impuesto perciban hasta $500.00 mensuales en adición al salario mínimo general de la zona económica respectiva o a la base mínima gravada, cualquiera que sea mayor, por concepto gravable, el importe del impuesto a pagar se calculará aplicando al ingreso que exceda al salario mínimo general o a la base mínima gravada, el factor .002 y el resultado obtenido se multiplicará por el importe que resulte de aplicar la tarifa contenida en este Artículo al ingreso total percibido durante el mes.
+De 30,000.01 en adelante 1,524.00 más 8.1
 
 DE LAS EXENCIONES
 
@@ -1757,7 +1765,9 @@ III.- Por la readquisición de la propiedad de los bienes inmuebles, cuando volu
 
 IV.- Por la transmisión de la nuda propiedad.
 
-V.- Por la cesión de derechos hereditarios sobre bienes inmuebles.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+V.- Por la cesión de derechos reales, personales, hereditarios y legatarios sobre bienes inmuebles, así como la cesión de derechos del fideicomitente o fideicomisario.
 
 134.- Son sujetos del impuesto:
 
@@ -1771,7 +1781,9 @@ IV.- El adquirente en los casos de prescripción.
 
 V.- El fideicomitente en los casos de los párrafos segundo y tercero del artículo 132. En estos casos las declaraciones y pagos del impuesto los hará el fiduciario por cuenta del fideicomitente.
 
-VI.- El cesionario de los derechos hereditarios en los casos de la fracción V del artículo anterior.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+VI.- El cesionario de los derechos reales, personales, hereditarios, legatarios y fiduciarios en los casos a que alude la fracción V del artículo anterior.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
@@ -1861,7 +1873,7 @@ X.- En los demás casos exceptuados por leyes especiales.
 
 148.- Tendrán responsabilidad objetiva en el pago del impuesto, los adquirentes de inmuebles cuando los sujetos con responsabilidad directa a que se refieren las fracciones I, III, IV y V del Artículo 133, no paguen el impuesto causado en relación con esos mismos inmuebles o lo cubran en cantidad menor de la que les corresponde, de acuerdo con las disposiciones de este Capítulo. En consecuencia, en cualquier tiempo la Tesorería podrá seguir el procedimiento económico coactivo, para hacer efectivo el adeudo, sobre el inmueble de que se trate.
 
-N. DE E., LOS ARTICULOS 149 A 165, QUE INTEGRAN EL CAPITULO III DEL TITULO TERCERO, DEL CODIGO FISCAL DEL ESTADO, FUERON SUSPENDIDOS CON MOTIVO DEL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL CELEBRADO ENTRE EL ESTADO DE CHIHUAHUA Y LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO, P.O. 2 DE ENERO DE 1974.
+N. DE E., LOS ARTICULOS 149 A 165, QUE INTEGRAN EL CAPITULO III DEL TITULO TERCERO, DEL CODIGO FISCAL DEL ESTADO, FUERON SUSPENDIDOS CON MOTIVO DEL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL CELEBRADO ENTRE EL ESTADO DE CHIHUAHUA Y LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO, P.O. 21 DE OCTUBRE DE 1978.
 
 #### SECCION PRIMERA. OBJETO Y SUJETO
 
@@ -1951,7 +1963,9 @@ I.- Cuando no presenten la declaración mensual o no lleven los libros a que est
 
 II.- Cuando por los informes que se obtengan se ponga de manifiesto la percepción de un promedio de ingresos brutos superior al declarado en un 3%.
 
-Para practicar las estimaciones a que se refiere este precepto se tendrán en cuenta las actividades realizadas por el causante, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+Para practicar las estimaciones a que se refiere este precepto se tendrán en cuenta las actividades realizadas por el causante, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse, así como los gastos de carácter privado en que haya incurrido el causante y constituyan un índice para los efectos de este artículo.
 
 Sobre los ingresos brutos estimados, se reconocerá como deducción única, el importe del 20% de dichos ingresos.
 
@@ -2517,31 +2531,31 @@ f).- La determinación estimativa practicada, tiene la vigencia señalada en est
 
 #### SECCION SEGUNDA. TARIFA
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
 
 243.- El impuesto se causará de acuerdo con la siguiente Tarifa:
 
-I.- Por cada cabeza de ganado bovino $ 55.00
+I.- Por cada cabeza de ganado bovino $110.00
 
-II.- Por cada cabeza de ganado porcino 12.00
+II.- Por cada cabeza de ganado porcino "24.00
 
-III.- Por cada cabeza de ganado mular 20.00
+III.- Por cada cabeza de ganado mular "40.00
 
-IV.- Por cada cabeza de ganado caballar 17.00
+IV.- Por cada cabeza de ganado caballar "34.00
 
-V.- Por cada cabeza de ganado ovino 5.00
+V.- Por cada cabeza de ganado ovino "10.00
 
-VI.- Por cada cabeza de ganado caprino 3.00
+VI.- Por cada cabeza de ganado caprino "6.00
 
-VII.- Por cada cabeza de ganado asnal 3.00
+VII.- Por cada cabeza de ganado asnal "6.00
 
-VIII.- Por cada cabeza de becerro mamón con edad
+VIII.- Por cada cabeza de becerro mamón con
 
-máxima de 30 días. 30.00
+edad máxima de 30 días "60.00
 
-IX.- Por cada cabeza de cabrito con edad máxima
+IX.- Por cada cabeza de cabrito con edad
 
-de 30 días. 0.75
+máxima de 30 días "1.50
 
 #### SECCION TERCERA. PAGO
 
@@ -3093,7 +3107,9 @@ XIX.- Dotación de placas para vehículos;
 
 XX.- Expedición de licencias para guiar vehículos;
 
-XXI.- Resello de licencias;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+XXI.- Por la expedición de resello para licencias de manejar;
 
 XXII.- Examen médico que se practique a personas que soliciten licencia o resello para guiar vehículos;
 
@@ -3103,11 +3119,17 @@ XXIV.- Expedición de certificados para suplir tarjetas de circulación de vehí
 
 XXV.- Revisión mecánica de vehículos y otros servicios prestados por la Dirección General de Tránsito y sus Dependencias;
 
-XXVI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1972)
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
 
-XXVII.- Expedición de duplicados de las licencias a que se refiere la fracción anterior;
+XXVI.- Por presentación de servicios de grúa y hospedaje;
 
-XXVIII.- Expedición de certificados para el uso de explosivos y sus artificios;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+XXVII.- Por el otorgamiento de permiso de ruta para explotar carreteras estatales, de permisos de establecimientos de sitios de autos, cargas ligeras, camiones materialistas, camiones de carga pesada, servicio vial, transporte de pasajeros, así como también transportes urbanos;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+XXVIII.- Por la revalidación de permisos a que se refiere la fracción anterior, con una vigencia de cuatro años por cada unidad;
 
 XXIX.- Expedición de pasaportes;
 
@@ -3137,7 +3159,11 @@ XLI.- Expedición y revalidación de registros ganaderos;
 
 XLII.- Habilitación de edad en los términos de la fracción XXVII del artículo 64 de la Constitución Política del Estado; y
 
-XLIII.- Los demás que señalen las leyes.
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+XLIII.- Expedición de certificados para el uso de explosivos y sus artificios; y
+
+XLIV.- Los demás que señalen las leyes.
 
 309.- Por la prestación de los servicios indicados en el artículo anterior, se cobrarán las cuotas que fije el Gobernador del Estado en la tarifa que para el efecto expida, tomando en cuenta el valor de la erogación que los servicios ocasionen.
 
@@ -3427,7 +3453,9 @@ Cuando se haya iniciado el juicio de oposición o interpuesto los recursos que p
 
 394.- Los actos en materia fiscal pueden impugnarse mediante los recursos de revisión y reconsideración o por medio del juicio de oposición promovido ante la autoridad judicial, pudiendo elegirse cualquiera de esos medios. La resolución que se dicte en los recursos administrativos será también impugnable en el juicio de oposición.
 
-Tratándose de nulidad de notificaciones, tercerías, prescripción y caducidad, es obligatorio para el particular agotar los procedimientos respectivos antes de iniciar el recurso o el juicio.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+Tratándose de nulidad de notificaciones, tercerías, prescripción, caducidad e inconformidades contra las actas de visita, es obligatorio para el particular agotar los procedimientos respectivos antes de iniciar el recurso o el juicio.
 
 El Tesorero General igualmente podrá impugnar mediante juicio de oposición, las resoluciones de las autoridades fiscales que hayan sido favorables a los particulares.
 
@@ -3935,7 +3963,9 @@ En el juicio de oposición no procederá la gestión de negocios.
 
 408.- Las notificaciones se harán:
 
-I.- A las autoridades fiscales por oficio, o por oficio y telegrama a la vez en casos urgentes y cuando se trate de resoluciones que exijan cumplimiento inmediato;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+I.- A las autoridades fiscales por oficio con acuse de recibo, o por oficio y telegrama a la vez en casos urgentes y cuando se trate de resoluciones que exijan cumplimiento inmediato;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
@@ -4405,7 +4435,7 @@ Salvo el caso de que el beneficiario sea persona física no empresario, los acue
 
 496.- Si en cualquier momento se comprobare que los beneficiarios de las franquicias establecidas por este Capítulo, han dejado de cumplir con alguno de los requisitos que el mismo previene como condición para el otorgamiento y subsistencia de aquellas, la Tesorería General del Estado hará efectivos todos los impuestos y derechos omitidos, imponiéndose además al causante una sanción que en ningún caso será inferior a otro tanto de la tributación cuya exención se concedió.
 
-497.- Se prohibe la cesión de los beneficios que se conceden en este Capítulo, sin previa autorización escrita de la Tesorería General del Estado.
+497.- Se prohíbe la cesión de los beneficios que se conceden en este Capítulo, sin previa autorización escrita de la Tesorería General del Estado.
 
 ## TRANSITORIOS.
 
@@ -4534,3 +4564,7 @@ P.O. 31 DE DICIEMBRE DE 1977.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor en todo el Estado de Chihuahua, el día 1o. de enero de 1978.
+
+P.O. 30 DE DICIEMBRE DE 1978.
+
+ARTICULO TRANSITORIO.- La presente Ley entrará en vigor en todo el Estado a partir del día primero de enero de mil novecientos setenta y nueve.
