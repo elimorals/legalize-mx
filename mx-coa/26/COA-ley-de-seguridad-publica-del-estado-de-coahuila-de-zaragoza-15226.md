@@ -4,7 +4,7 @@ identifier: "COA-ley-de-seguridad-publica-del-estado-de-coahuila-de-zaragoza-152
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-18"
-last_updated: "1999-05-18"
+last_updated: "2001-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 18 de mayo de 1999.
 
@@ -165,7 +165,9 @@ IV. Promover una amplia participación de la ciudadanía en el análisis de la p
 
 V. Celebrar con los otros Poderes del Estado, con la Federación, las Entidades Federativas y sus municipios, los Ayuntamientos locales y cualesquier otro organismo e institución de los sectores público, privado y social, por sí o por conducto de la Secretaría de Gobierno, los convenios que se requieran para el mejor desarrollo de la función de seguridad pública en el Estado y sus municipios.
 
-VI. Coadyuvar con las autoridades federales y locales de otras entidades de la República en la adopción de medidas y desarrollo de acciones tendientes a mejorar los servicios de seguridad pública en el Estado.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VI. Coadyuvar con las autoridades federales, municipales y de otras entidades de la República en la adopción de medidas y el desarrollo de acciones tendientes a mejorar los servicios de seguridad pública.
 
 VII. Autorizar, a través del Secretario de Gobierno, la prestación de servicios de seguridad a los particulares, cuando reúnan los requisitos impuestos por esta Ley y sus Reglamentos.
 
@@ -177,9 +179,13 @@ X. Proveer en la esfera administrativa la exacta observancia de las disposicione
 
 XI. Las demás que le confiera la presente Ley y otros ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 13.
 
-Corresponde al Gobernador del Estado ser el jefe supremo de las fuerzas de seguridad pública en el Estado y tener a sus órdenes y mandar la fuerza pública del municipio en que resida habitual o transitoriamente.
+Corresponde al Gobernador del Estado ser el jefe supremo de las fuerzas de seguridad pública del Gobierno del Estado. En los casos en que éste juzgue como de fuerza mayor o alteración grave del orden público podrá dictar a los cuerpos de seguridad pública municipales las órdenes que estime necesarias.
+
+El Ejecutivo Federal tendrá el mando de la fuerza pública en los lugares donde resida habitual o transitoriamente.
 
 ###### ARTÍCULO 14.
 
@@ -203,13 +209,17 @@ V. Ejercer las demás facultades que les confieren esta ley y otros ordenamiento
 
 Compete a los Presidentes Municipales en materia de seguridad pública:
 
-I. Velar por el mantenimiento del orden público y la tranquilidad social en el Municipio, así como prevenir la comisión de delitos y proteger a las personas en sus bienes y derechos.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+I. Tener bajo su mando a la policía preventiva municipal, así como velar por el mantenimiento del orden público y la tranquilidad social en el Municipio y prevenir la comisión de delitos y proteger a las personas en sus bienes y derechos.
 
 II. Formular y aprobar el plan de seguridad pública municipal de acuerdo a lo establecido en el Plan Integral de Gobierno y Administración Municipal.
 
 III. Establecer las medidas necesarias para la debida observancia y cumplimiento de las disposiciones en materia de seguridad pública.
 
-IV. Celebrar con el Gobierno del Estado, con otros ayuntamientos de la entidad y con organismos e instituciones de los sectores público, social y privado los convenios que sean necesarios para la mejor prestación del servicio de seguridad pública en el municipio.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+IV. Celebrar con el Gobierno del Estado, con otros ayuntamientos de la entidad o de otras entidades de la República, así como con organismos e instituciones de los sectores público, social y privado, en los términos de las disposiciones aplicables, los convenios que sean necesarios para la mejor prestación del servicio de seguridad pública en el municipio. Tratándose de convenios de asociación de los ayuntamientos de la entidad con ayuntamientos de otros Estados, se requerirá la autorización del Congreso del Estado.
 
 V. Analizar la problemática de seguridad pública en el municipio, estableciendo objetivos y políticas para su adecuada solución que sirvan de apoyo a los programas y planes estatales, regionales y municipales de seguridad pública.
 
@@ -233,9 +243,11 @@ Los municipios de la entidad contarán con las autoridades en materia de segurid
 
 Dichas autoridades tendrán a su cargo la ejecución de las disposiciones que en uso de sus facultades dicten los Ayuntamientos y los Presidentes Municipales.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 20.
 
-En los casos de perturbación o amenaza de alteración grave del orden público en uno o varios municipios y por el tiempo que estime conveniente, el Gobernador del Estado podrá asumir el mando directo e inmediato de todas las corporaciones de seguridad pública, en la totalidad o en parte del territorio estatal, e inclusive apoyarse en los elementos que presten servicios privados de seguridad en la entidad.
+En los casos de fuerza mayor, alteración, perturbación o amenaza grave del orden público en uno o varios municipios de la entidad, el Gobernador del Estado podrá asumir el mando directo e inmediato de todos los cuerpos de seguridad pública, en la totalidad o en parte del territorio estatal. Para tal efecto, podrá apoyarse en los elementos que presten servicios privados de seguridad en la entidad, por el tiempo que estime conveniente.
 
 #### SECCIÓN TERCERA. CLASIFICACIÓN DE LOS CUERPOS DE SEGURIDAD PÚBLICA
 
@@ -429,9 +441,13 @@ Las relaciones de trabajo entre los demás servidores públicos no considerados 
 
 #### SECCIÓN PRIMERA. CORDINACIÓN (SIC) EN MATERIA DE SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 33.
 
-El Ejecutivo del Estado y los Ayuntamientos están obligados a coordinarse para formular planes, desarrollar programas y ejecutar acciones de manera conjunta para lograr los objetivos en materia de seguridad pública.
+El Ejecutivo del Estado y los ayuntamientos, en los términos de las disposiciones aplicables y conforme a los convenios que para tal efecto celebren, deberán coordinarse para formular planes, desarrollar programas y ejecutar acciones de manera conjunta para lograr los objetivos en materia de seguridad pública.
+
+En casos que no admitan demora el Ejecutivo del Estado y los ayuntamientos, se coordinarán de inmediato para ejecutar los programas y las acciones necesarias para lograr de manera conjunta los objetivos en materia de seguridad pública.
 
 ###### ARTÍCULO 34.
 
@@ -1252,3 +1268,45 @@ ROGELIO MONTEMAYOR SEGUY
 EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE MARZO DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado en coordinación con todos los Ayuntamientos de la entidad, antes del inicio del ejercicio fiscal del año 2002, establecerán los criterios necesarios para que los valores unitarios de suelo y de construcción que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, sean equiparables a los valores del mercado de dicha propiedad y procederán, en su caso, a realizar las reformas o adiciones legales correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+Para tal efecto, el Congreso del Estado a través de la Comisión de Finanzas coordinará, a partir de la entrada en vigor de este decreto, un programa con los municipios para definir los criterios proporcionales y equitativos que se deben establecer para fijar la base de las contribuciones sobre la propiedad inmobiliaria, de conformidad con las disposiciones aplicables.
+
+En este programa deberá participar el Instituto Coahuilense del Catastro y la Información Territorial como órgano de apoyo y asesoría necesaria.
+
+###### ARTÍCULO TERCERO.
+
+Los juzgados de conciliación deberán continuar con la denominación y competencia que actualmente tienen, hasta el treinta y uno de agosto del año dos mil uno, fecha en que concluirán sus funciones, quedando sin efecto los nombramientos de sus titulares. Consecuentemente, las disposiciones contenidas en los artículos de la Ley Orgánica del Poder Judicial que hagan referencia a los juzgados de conciliación estarán en vigor hasta la fecha señalada, con excepción de lo dispuesto en la fracción I del artículo 43.
+
+El personal que formaba parte de los Juzgados de Conciliación podrán integrar los juzgados municipales que establece el Código Municipal, según lo acuerde el Ayuntamiento respectivo.
+
+En todo caso, se deberán respetar los derechos laborales del personal que formaba parte de los Juzgados de Conciliación. Los ayuntamientos emitirán los acuerdos necesarios para regularizar su situación laboral y su reorganización dentro de la administración pública municipal.
+
+Hasta en tanto el Consejo de la Judicatura determine nuevos distritos judiciales, seguirán vigentes, para todos los efectos legales, los ocho distritos previstos en el texto anterior del artículo 5° de la Ley Orgánica del Poder Judicial, que ahora se reforma; y que tienen como cabecera las ciudades de: Saltillo, Monclova, Sabinas, Piedras Negras, Acuña, Torreón, San Pedro de las Colonia y Parras de la Fuente.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos dentro del plazo de un año contado a partir de la entrada en vigor de este decreto, deberán instalar las Unidades Municipales de Protección Civil, según sus necesidades, condiciones y particularidades socioeconómicas.
+
+Estas unidades formarán parte de la administración pública municipal, según el acuerdo que emita el Ayuntamiento.
+
+En aquellos municipios que no cuenten con estas unidades, el Ejecutivo del Estado a través de la instancia correspondiente podrá coadyuvar, colaborar o sustituir la función de las mismas hasta en tanto el municipio pueda asumir plenamente esta función.
+
+###### ARTÍCULO QUINTO.
+
+Dentro del plazo de un año contado a partir de la entrada en vigor de este decreto, los ayuntamientos deberán adecuar su reglamentación, acuerdos, circulares y demás disposiciones generales.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones en contrario.
