@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-catastro-del-estado-de-chihuahua-4543"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-18"
-last_updated: "2002-11-09"
+last_updated: "2003-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CATASTRO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2003.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -317,17 +317,23 @@ El valor catastral será el que resulte de sumar el valor del terreno y el de la
 
 El valor catastral deberá reflejar el valor real del inmueble.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 2003)</small>
+
 ###### Artículo 25.
 
-La asignación y actualización del valor catastral se efectuará por los Municipios, mediante cualquiera de los siguientes procedimientos:
+La asignación y actualización del valor catastral se efectuará por los municipios, y se aplicará el que resulte mayor, de acuerdo a lo siguiente:
 
 I. Por declaración del contribuyente, sujeta a la aprobación de la autoridad municipal;
 
 II. Por avalúo directo realizado por perito valuador, autorizado por la Comisión Nacional Bancaria y de Valores o por la autoridad municipal correspondiente, a solicitud del contribuyente;
 
-III. Valuación directa conforme a los instructivos que se aprueben; y
+III. Valuación directa conforme a los instructivos que se aprueben; y (sic)
 
-IV. Determinación del valor con base en la aplicación de valores unitarios de terreno y construcción. Dicha determinación se podrá efectuar con base en la documentación oficial que emitan las Autoridades Catastrales, tomando en consideración la información proporcionada al catastro por los propietarios o poseedores de predios, o con base en los registros de información con que cuenten las mismas Autoridades.
+IV. Determinación del valor con base en la aplicación de valores unitarios de terreno y construcción. Dicha determinación se podrá efectuar con base en la documentación oficial que emitan las Autoridades Catastrales, tomando en consideración la información proporcionada al catastro por los propietarios o poseedores de predios, o con base en los registros de información con que cuenten las mismas Autoridades;
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2003)</small>
+
+V. Por determinación de la autoridad municipal, tomando como referencia el valor declarado por los activos fijos, cuando cause el Impuesto al Activo.
 
 ###### Artículo 26.
 
@@ -478,3 +484,19 @@ P.O. 9 DE NOVIEMBRE DE 2002.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ENERO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil tres.
+
+###### ARTÍCULO SEGUNDO.
+
+Durante el primer semestre de 2003, los contribuyentes del Impuesto Predial efectuarán el pago de esta contribución, de acuerdo a los valores y tasa aplicadas durante el ejercicio fiscal de 2002, sin perjuicio de los descuentos por pago anticipado que se establezcan, de los incrementos acordados por el Ayuntamiento con carácter general y los que deriven de nuevas construcciones y actualizaciones de valores catastrales, anteriores a la entrada en vigor del presente Decreto.
+
+A partir del segundo semestre del ejercicio 2003, quienes efectúen el pago del impuesto, lo harán conforme a lo dispuesto por el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la aplicación de las disposiciones que establece el presente Decreto, entendida esta a partir del segundo semestre del año dos mil tres, el monto el monto (sic) del incremento en su caso del impuesto predial a pagar por los sujetos obligados de la relación tributaria, no podrá exceder en un diez por ciento, respecto al monto enterado, por el mismo bien, en el año inmediato anterior. Esta disposición operará en cada caso por año, hasta que se alcance el cien por ciento del impuesto a pagar sin perjuicio de la actualización que pueda corresponder.
