@@ -4,7 +4,7 @@ identifier: "LIE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-27"
-last_updated: "1998-01-23"
+last_updated: "1999-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIE"
 
 LEY DE INVERSION EXTRANJERA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 1999.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de diciembre de 1993.
 
@@ -166,13 +166,13 @@ c) Transporte aéreo especializado;
 
 III.- Hasta el 49% en:
 
-a) Sociedades controladoras de grupos financieros;
+a) (DEROGADO, D.O.F. 19 DE ENERO DE 1999)
 
-b) Instituciones de banca múltiple;
+b) (DEROGADO, D.O.F. 19 DE ENERO DE 1999)
 
-c) Casas de bolsa;
+c) (DEROGADO, D.O.F. 19 DE ENERO DE 1999)
 
-d) Especialistas bursátiles;
+d) (DEROGADO, D.O.F. 19 DE ENERO DE 1999)
 
 e) Instituciones de seguros;
 
@@ -683,6 +683,16 @@ SEGUNDO. El segundo párrafo del artículo 10-A de la Ley de Inversión Extranje
 D.O.F. 23 DE ENERO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 19 DE ENERO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+DECRETO POR EL QUE SE EXPIDE LA LEY DE PROTECCION AL AHORRO BANCARIO, Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LAS LEYES DEL BANCO DE MEXICO, DE INSTITUCIONES DE CREDITO, DEL MERCADO DE VALORES Y PARA REGULAR LAS AGRUPACIONES FINANCIERAS.
+
+PRIMERO.- El articulo segundo del presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan los incisos a), b), c) y d) de la fracción III del articulo 7o. de la Ley de Inversión Extranjera.
 
 ## TITULO CUARTO. DE LA INVERSION DE PERSONAS MORALES EXTRANJERAS
 
