@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1994-10-22"
+last_updated: "1995-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE OCTUBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE MAYO DE 1995.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -447,7 +447,9 @@ Las sesiones de todos los órganos colegiados electorales serán públicas.
 
 La Ley establecerá un sistema de medios de impugnación, de los que conocerán el organismo público encargado de la función electoral en el Estado y el Tribunal Estatal de Elecciones. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten invariablemente al principio de legalidad.
 
-El Tribunal Estatal de Elecciones será órgano autónomo, de carácter permanente, y máxima autoridad jurisdiccional en el ámbito de su competencia. Resolverá, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en la elección de Gobernador, así como las que se presenten en las elecciones de Diputados a la Legislatura del Estado y en las de los Ayuntamientos; teniendo sus resoluciones en este último caso el carácter de definitivas e inatacables.
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 1995)</small>
+
+El Tribunal Estatal de Elecciones será órgano autónomo, de carácter permanente, y máxima autoridad jurisdiccional en el ámbito de su competencia. Resolverá, en los términos de esta Constitución y de la Ley de la materia, las impugnaciones que se presenten en la elección de Gobernador, así como las que se presenten en las elecciones de Diputados a la Legislatura del Estado y en las de los Ayuntamientos; teniendo sus resoluciones en estos dos últimos casos, el carácter de definitivas e inatacables.
 
 El Tribunal Estatal de Elecciones se organizará en los términos que señale la Ley y expedirá su propio Reglamento interior.
 
@@ -467,9 +469,9 @@ II. Tendrá derecho a que le sean atribuidos diputados electos según el princip
 
 III. El partido que cumpla con los supuestos señalados en las fracciones I y II de este artículo le serán asignados, por el principio de representación proporcional, el número de diputados de su lista regional que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal;
 
-> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 1995)</small>
 
-IV. La ley determinará la fórmula electoral y procedimientos que se observarán en dicha asignación, en la que se seguirá el orden que tuviesen los candidatos en la lista correspondiente;
+IV. La Ley determinará la fórmula electoral y los procedimientos que se observarán en dicha asignación;
 
 > <small>(REFORMADA, G.O. 19 DE ENERO DE 1988)</small>
 
@@ -601,11 +603,19 @@ Los trabajos para la instalación de la Legislatura, en su primer período de se
 
 El día de la instalación y antes del acto, los Diputados harán formal protesta de guardar esta Constitución y la General de la República, mirando en todo por el bien del Estado. Igual protesta se exigirá a los que no hayan asistido a la instalación, cuando se presenten a desempeñar su encargo.
 
-> <small>(REFORMADO, G.O. 12 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE FEBRERO DE 1991)</small>
 
 ###### Artículo 60.
 
-El Gobernador del Estado presentará, ante la Legislatura, el día 30 de noviembre, un informe por escrito de las actividades realizadas por el Poder Ejecutivo en el año correspondiente. Este informe será analizado por la Legislatura en sesiones subsecuentes, a las que podrán concurrir los Secretarios del Despacho, para ampliar o detallar aspectos relacionados con sus ramos.
+El Gobernador del Estado y el Presidente del Tribunal Superior de Justicia, leerán, cada uno de ellos, ante la Legislatura, los días 25 y 15 de octubre respectivamente, un informe anual, en el que expondrán, en términos generales el desarrollo de las labores encomendadas a los Poderes Ejecutivo y Judicial.
+
+> <small>(REFORMADO, G.O. 29 DE OCTUBRE DE 1981)</small>
+
+A dichos informes dará contestación el Presidente de la Legislatura.
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
+Si el Gobernador no pudiere concurrir por hallarse enfermo o por otra causa justificada, dará lectura a su Informe el Secretario General de Gobierno.
 
 > <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
 
@@ -675,9 +685,9 @@ II. Iniciar ante el Congreso General las leyes y decretos que sean de la compete
 
 III. Reclamar, ante la Suprema Corte de Justicia de la Nación, cuando alguna ley o acto del Gobierno Federal constituya un ataque a la soberanía o independencia del Estado o de la Constitución General;
 
-> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 1995)</small>
 
-IV. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y declarar electo al que haya obtenido mayoría;
+IV. Hacer el cómputo estatal de la votación en las elecciones de Gobernador y declarar electo al que haya obtenido la mayoría de votos;
 
 > <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
 
@@ -1299,9 +1309,9 @@ En cualquier tiempo, la Legislatura del Estado o la Diputación Permanente, podr
 
 El ejercicio del Poder Judicial del Estado se deposita en los órganos a que se refiere el Artículo 36 de esta Constitución.
 
-> <small>(REFORMADO, G.O. 12 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
-El Tribunal Superior de Justicia estará integrado por 16 Magistrados Numerarios y 4 Supernumerarios; funcionará en Pleno o en Salas, según lo determine la Ley Orgánica; y será presidido por un Magistrado que no integrará Sala sino en los casos expresamente establecidos en la propia ley y designado por el Tribunal en Pleno, en la segunda sesión del mes de diciembre de cada año, pudiendo ser reelecto; en sus faltas temporales no mayores de treinta días, será sustituido por el Magistrado que él designe, pero si excediere de ese término, la designación la hará el Tribunal en Pleno. Los Magistrados Supernumerarios suplirán en sus ausencias a los Numerarios y además, tendrán el carácter de Visitadores Judiciales. Cada Magistrado del Tribunal Superior, al entrar a ejercer su cargo, protestará ante la Legislatura y, en los recesos de ésta, ante la Diputación Permanente: guardar y hacer guardar la Constitución Federal, la Particular del Estado y las leyes que de ella emanen, mirando en todo por la prosperidad y bienestar del Estado, así como impartir recta y pronta justicia.
+El Tribunal Superior de Justicia estará integrado por 16 Magistrados Numerarios y 4 Supernumerarios; funcionará en Pleno o en Salas, según lo determine la Ley Orgánica y será presidido por un Magistrado que no integrará Sala, sino en los casos expresamente establecidos en la propia ley y designado por el Tribunal en Pleno, en la primera sesión del mes de diciembre de cada año, pudiendo ser reelecto; en sus faltas temporales, no mayores de treinta días, será sustituido por el Magistrado que él designe, pero si excediere de ese término, la designación la hará el Tribunal en Pleno. Los Magistrados Supernumerarios suplirán en sus ausencias a los Numerarios y además, tendrán el carácter de Visitadores Judiciales. Cada Magistrado del Tribunal Superior al entrar a ejercer su cargo, protestará ante la Legislatura y en los recesos de ésta, ante la Diputación Permanente, guardar y hacer guardar la Constitución Federal, la particular del Estado y las leyes que de ellas emanen, mirando en todo por la prosperidad y bienestar del Estado, así como impartir recta y pronta justicia.
 
 > <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
 
@@ -1310,10 +1320,6 @@ Los Jueces de Primera Instancia y los Menores, protestarán en los mismos térmi
 > <small>(ADICIONADO, G.O. 19 DE ENERO DE 1988)</small>
 
 Los Jueces Municipales protestarán ante los Jueces Primeros o únicos Menores o de Primera Instancia, y los auxiliares ante los Jueces Municipales.
-
-> <small>(ADICIONADO, G.O. 12 DE OCTUBRE DE 1993)</small>
-
-El Magistrado Presidente del Tribunal Superior de Justicia presentará ante el Pleno de este Organismo y demás integrantes del Poder Judicial, en la primera sesión de diciembre, un informe por escrito de las actividades realizadas por este Poder en el año correspondiente. Este informe se entregará a la Legislatura del Estado.
 
 > <small>(REFORMADO, G.O. 21 y 23 DE DICIEMBRE DE 1944)</small>
 
@@ -2241,16 +2247,6 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 
 Se derogan todas las disposiciones que se opongan a este ordenamiento.
 
-G.O. 12 DE OCTUBRE DE 1993.
-
-###### ARTICULO PRIMERO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial", Órgano del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan a las reformas a que se refiere el presente decreto.
-
 G.O. 16 DE DICIEMBRE DE 1993.
 
 ###### ARTICULO PRIMERO.
@@ -2270,6 +2266,30 @@ SEGUNDO.- En el órgano superior de dirección establecido en el segundo párraf
 TERCERO.- El trámite de los asuntos que actualmente conoce el Tribunal de lo Contencioso Electoral, así como el personal, los documentos, expedientes y recursos materiales de éste, pasarán al Tribunal Estatal de Elecciones, manteniendo su integración con los Magistrados ya designados por la Legislatura del Estado en el mes de abril próximo pasado.
 
 G.O. 22 DE OCTUBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial', Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 25 DE MAYO DE 1995.
+
+DECRETO No. 87.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 25 DE MAYO DE 1995.
+
+DECRETO No. 88.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 ###### ARTICULO PRIMERO.
 
