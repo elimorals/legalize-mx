@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1947-02-12"
+last_updated: "1947-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE FEBRERO DE 1947.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1947.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -766,7 +766,7 @@ A.- Aprobado un proyecto en la Cámara de su origen, pasará para su discusión 
 
 B.- Se reputará aprobado por el Poder Ejecutivo, todo proyecto no devuelto con observaciones a la Cámara de su origen, dentro de diez días útiles; a no ser que, corriendo este término hubiere el Congreso cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerse el primer día útil en que el Congreso esté reunido.
 
-C.- El proyecto de ley o decreto desechado en todo o en parte por el Ejecutivo, será devuelto, con sus observaciones, a la Cámara de su origen. Deberá ser discutido de nuevo por ésta,, (sic) y si fuese confirmado por las dos terceras partes del número total de votos, pasará otra vez a la Cámara revisora. Si por esta fuese sancionado por la misma mayoría, el proyecto será ley o decreto y volverá al Ejecutivo para su promulgación.
+C.- El proyecto de ley o decreto desechado en todo o en parte por el Ejecutivo, será devuelto, con sus observaciones, a la Cámara de su origen. Deberá ser discutido de nuevo por ésta,, y si fuese confirmado por las dos terceras partes del número total de votos, pasará otra vez a la Cámara revisora. Si por esta fuese sancionado por la misma mayoría, el proyecto será ley o decreto y volverá al Ejecutivo para su promulgación.
 
 Las votaciones de ley o decreto, serán nominales.
 
@@ -874,9 +874,9 @@ VIII.- Para dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos 
 
 IX.- Para impedir que en el comercio de Estado a Estado se establezcan restricciones.
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 1942)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1947)</small>
 
-X.- Para legislar en toda la República sobre hidrocarburos, minería, industria cinematográfica, comercio, instituciones de crédito y energía eléctrica, para establecer el Banco de Emisión Unico en los términos del artículo 28 de esta Constitución y para expedir las leyes del trabajo reglamentarias del artículo 123 de la propia Constitución.
+X.- Para legislar en toda la República sobre hidrocarburos, minería, industria cinematográfica, comercio, juegos con apuestas y sorteos, instituciones de crédito y energía eléctrica, para establecer el Banco de Emisión Unico en los términos del artículo 28 de la Constitución y para expedir las leyes del trabajo reglamentarias del artículo 123 de la propia Constitución.
 
 XI.- Para crear y suprimir empleos públicos de la Federación y señalar, aumentar o disminuir sus dotaciones.
 
@@ -1338,7 +1338,7 @@ Corresponde a los Tribunales de la Federación conocer:
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1946)</small>
 
-I. De todas las controversias del orden civil o criminal que se susciten sobre el cumplimiento y aplicación de leyes federales o con motivo de los tratados celebrados con las potencias extranjeras. Cuando dichas controversias sólo afecten intereses particulares, podrán conocer también de ellas, a elección del actor, los jueces y tribunales locales del orden común de los Estados, del Distrito Federal y Territorios. Las sentencias de primera instancia serán apelables para ante el superior inmediato del juez que conozca del asunto en primer grado.
+I.- De todas las controversias del orden civil o criminal que se susciten sobre el cumplimiento y aplicación de leyes federales o con motivo de los tratados celebrados con las potencias extranjeras. Cuando dichas controversias sólo afecten intereses particulares, podrán conocer también de ellas, a elección del actor, los jueces y tribunales locales del orden común de los Estados, del Distrito Federal y Territorios. Las sentencias de primera instancia serán apelables para ante el superior inmediato del juez que conozca del asunto en primer grado.
 
 En los juicios en que la Federación esté interesada, las leyes podrán establecer recursos ante la Suprema Corte de Justicia contra las sentencias de segunda instancia o contra las de tribunales administrativos creados por ley federal, siempre que dichos tribunales estén dotados de plena autonomía para dictar sus fallos.
 
@@ -2161,5 +2161,9 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 D.O.F. 12 DE FEBRERO DE 1947.
 
 DECRETO QUE ADICIONA EL PARRAFO PRIMERO DE LA FRACCION I DEL ARTICULO 115.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 29 DE DICIEMBRE DE 1947.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
