@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-tribunal-electoral-del-estado-de-18099"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-08"
-last_updated: "2004-03-24"
+last_updated: "2004-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 8 de noviembre de 2000.
 
@@ -251,6 +251,8 @@ Cuando se presente la hipótesis prevista en el segundo párrafo del artículo 2
 
 DEL SECRETARIO GENERAL
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2004)</small>
+
 ###### ARTÍCULO 23.
 
 El Secretario General del Tribunal tendrá como atribuciones las siguientes:
@@ -273,21 +275,23 @@ VIII. Formar expediente por cada uno de los asuntos económicos o administrativo
 
 IX. Comunicar oficialmente los acuerdos administrativos que ordene el Pleno del Tribunal;
 
-X. Preparar la sesión del Pleno oportunamente incluyendo los asuntos de la orden del día, cuando la sesión sea Pública, solo listará los asuntos cuyos proyectos de resolución le sean entregados con setenta y dos horas de anticipación a la fecha acordada para la celebración del pleno.
+X. Preparar la sesión del Pleno oportunamente incluyendo los asuntos de la orden del día, cuando la sesión sea pública, solo listará los asuntos cuyos proyectos de resolución le sean entregados con setenta y dos horas de anticipación a la fecha acordada para la celebración del pleno;
 
 XI. Proporcionar a los Magistrados los datos e informes que le pidan para el despacho de los asuntos del Tribunal;
 
 XII. Cuando en la sesión del Pleno, la votación sea secreta, se estará en lo dispuesto en el Artículo 19 de este Reglamento;
 
-XIII. El Secretario General proveerá con toda oportunidad llevar los registros de los libros mencionados en el artículo siguiente.
+XIII. El Secretario General proveerá con toda oportunidad llevar los registros de los siguientes libros mencionados en el artículo siguiente;
 
 XIV. Obrarán en poder del Secretario General los legajos de la correspondencia y exhortos, telegramas y telefonemas, facturas de correspondencia y circulares del Tribunal o que el Magistrado Presidente del mismo emita;
 
-XV. El resguardo de la documentación mencionada en las fracciones III y IV de este artículo, estarán bajo la custodia del Secretario General bajo su más estricta responsabilidad y el extravío, perdida o robo de las documentales en comento, deberá ser hecha del conocimiento del Magistrado Presidente en forma inmediata y denunciar los hechos en caso de darse la hipótesis de la existencia de hechos delictuosos;
+XV. El resguardo de la documentación mencionada en las fracciones III y IV de este artículo, estarán bajo la custodia del Secretario General bajo su más estricta responsabilidad y el extravío, perdida o robo de las documentales en comento, deberá ser hecha del conocimiento del Presidente Magistrado en forma inmediata y denunciar los hechos, en caso de darse la hipótesis de la existencia de hechos delictuosos;
 
-XVI. El Secretario General ejercerá especial vigilancia para que la correspondencia sea despachada con la debida oportunidad mediante los manuales de organización que establezca, en el que detallará la fecha, dirección, número de cada pieza; así como ser depositada en la oficina de correos y amparada con la correspondiente factura, cuidando los expedientes y demás piezas que tengan especial importancia y se les de el carácter de correspondencia registrada; y
+XVI. El Secretario General ejercerá especial vigilancia para que la correspondencia sea despachada con la debida oportunidad mediante los manuales de organización que establezca, en el que detallará la fecha, dirección, número de cada pieza; así como ser depositada en la oficina de correos y amparada con la correspondiente factura, cuidando los expedientes y demás piezas que tengan especial importancia y se les de el carácter de correspondencia registrada;
 
-XVII. Las demás que le señala la Constitución, el Código y este Reglamento.
+XVII. Realizar funciones de instrucción, proyección y notificación, en forma simultánea, en tiempos no electorales;
+
+XVIII. Las demás que le señala la Constitución Política del Estado, el Código y este Reglamento.
 
 ###### ARTÍCULO 24.
 
@@ -475,7 +479,7 @@ IX. Las encomendadas por el Presidente, los Magistrados o el Secretario General 
 
 X. Las demás que le señale el Código y este reglamento.
 
-DE LAS ÁREAS DEL PERSONALTÉCNICO Y ADMINISTRATIVO
+DE LAS ÁREAS DEL PERSONAL TÉCNICO Y ADMINISTRATIVO
 
 ###### ARTÍCULO 32.
 
@@ -1388,3 +1392,7 @@ P.O. 24 DE MARZO DE 2004.
 PRIMERO.- La creación de la Unidad de Información Pública y del Consejo de Información Clasificada, surte sus efectos a partir del veintisiete de febrero de dos mil cuatro.
 
 SEGUNDO.- La presente reforma y adición al Reglamento Interno del Tribunal Electoral del Poder Judicial del Estado, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad"
+
+P.O. 25 DE AGOSTO DE 2004.
+
+LAS REFORMAS CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA ENTRADA EN VIGOR DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 7 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MORELOS.
