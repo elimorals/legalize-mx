@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "1994-09-27"
+last_updated: "1994-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1994.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -47,9 +47,11 @@ LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
 La base de la Organización Política y Administrativa y de la División Territorial del Estado de Campeche, es el Municipio Libre.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 2.
 
-Cada Municipio será gobernado y administrado por un Ayuntamiento de elección popular directa, contará con personalidad jurídica y administrará libremente su hacienda.
+Cada Municipio será gobernado y administrado por un Ayuntamiento de elección popular directa, contará con personalidad jurídica propia, manejará su patrimonio conforme a la ley y no habrá ninguna autoridad intermedia entre aquél y el Gobierno del Estado.
 
 ###### ARTICULO 3.
 
@@ -67,47 +69,35 @@ Los Municipios del Estado velarán por el estricto cumplimiento del Artículo 3 
 
 Los Ayuntamientos otorgarán su colaboración al funcionamiento de la Bolsa de Trabajo del Gobierno del Estado, a fin de dar empleo al mayor número de sus vecinos y legalizarán los contratos de trabajo celebrados por los trabajadores residentes en su jurisdicción cuando deban prestar sus servicios en el extranjero.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 7.
 
-La Autoridad Municipal actuará como auxiliar de la Autoridad Federal en materia de cultos, llevará un registro de los encargados de los templos y otro en el que relacionará la existencia de estos últimos y avisará a la Secretaría de Gobernación por conducto del Gobierno del Estado, de la apertura de nuevos locales al culto.
+La autoridad municipal actuará como auxiliar de la autoridad federal en materia de cultos, en los términos de las leyes reglamentarias federal y estatal correspondientes.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 8.
 
-Los Municipios del Estado deben atender prioritariamente a los siguientes fines:
+Las funciones primordiales del Municipio son permitir el gobierno democrático de la comunidad para la promoción del desarrollo integral de la misma y deberá atender prioritariamente los servicios públicos siguientes:
 
-a) Seguridad.
+a) Agua Potable y Alcantarillado;
 
-b) Paz pública.
+b) Alumbrado Público;
 
-c) Moralización.
+c) Limpia;
 
-d) Prestación de los servicios municipales y conservación de los mismos, de acuerdo con la siguiente enumeración:
+d) Mercados y Centrales de Abasto;
 
-1.- Limpieza.
+e) Panteones;
 
-2.- Mantenimiento de los inmuebles de su propiedad.
+f) Rastro;
 
-3.- Conservación de lugares públicos.
+g) Calles, Parques y Jardines; y
 
-4.- Alumbrado público.
+h) Seguridad Pública y Tránsito.
 
-5.- Nomenclatura.
-
-6.- Reforestación.
-
-7.- Parques y jardines.
-
-8.- Mercados.
-
-9.- Rastros.
-
-10.- Panteones.
-
-11.- Calles y paseos.
-
-12.- Servicios de agua.
-
-13.- Ornato.
+Los demás que la Legislatura local determine según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera. Para la mejor prestación y ampliación de la cobertura de los servicios públicos, los Ayuntamientos podrán crear y operar organismos descentralizados de carácter municipal o empresas con participación estatal o intermunicipal, en los términos señalados en el artículo 108 bis de esta ley.
 
 ### CAPITULO II. Jurisdicción
 
@@ -125,9 +115,21 @@ Los municipios libres en que se divide el Estado son: Calkiní, Campeche, Carmen
 
 Los ayuntamientos serán auxiliados en sus funciones por Juntas Municipales en las secciones que se dividan, Comisarios y Agentes Municipales en los centros de población que se determinen en los Reglamentos de la presente Ley.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 12.
 
-Las poblaciones del Estado se clasifican en 4 categorías: Ciudades, Villas, Pueblos y Congregaciones. Ciudades serán las poblaciones mayores de 5,000 habitantes; Villas las de más de 3,000; Pueblos las de más de 1,000 y Congregaciones las de menos de 1,000 habitantes. Las zonas urbanas ejidales y los centros de población que se formen en los ejidos, independientemente de la categoría que les corresponda por el número de los habitantes y con objeto de evitar conflictos de autoridad con los Comisarios Ejidales en las comunidades así formadas, serán gobernadas directamente por los ayuntamientos del Municipio a que correspondan, que podrán auxiliarse de Agentes Municipales, para tal fin.
+Las poblaciones del Estado se clasifican en 4 categorías: Ciudades, Villas, Pueblos y Congregaciones.
+
+Ciudad, es el centro de población con no menos de 5,000 habitantes, que cuente con servicios públicos, servicios médicos y de policía, calles pavimentadas o de materiales similares, edificios adecuados para los servicios municipales, hospital, rastro, panteón, instituciones bancarias, industriales, comerciales y agrícolas, hoteles y planteles educativos de enseñanza básica y media superior.
+
+Villa, es el centro de población con no menos de 3,000 habitantes, que cuente con servicios públicos, servicios médicos y de policía, calles pavimentadas o de materiales similares, edificios adecuados para los servicios municipales, hospital, mercado, panteón y escuelas de enseñanza básica.
+
+Pueblo, es el centro de población con no menos de 1,000 habitantes, que cuente con servicios públicos indispensables, edificios para las autoridades del lugar, panteón y escuelas de enseñanza preescolar y primaria.
+
+Congregación, es el centro de población con menos de 1,000 habitantes, que cuente con edificios para escuela rural y delegación o subdelegación municipal.
+
+Las zonas urbanas ejidales y los centros de población que se formen en los ejidos, independientemente de la categoría que les corresponda por el número de los habitantes y con objeto de evitar conflictos de autoridad con los comisarios ejidales en las comunidades así formadas, serán gobernadas directamente por el Ayuntamiento del Municipio al que correspondan, que podrá auxiliarse de agentes municipales para tal fin.
 
 ###### ARTICULO 13.
 
@@ -577,9 +579,13 @@ La creación y supresión de municipios, secciones municipales, modificación de
 
 ### CAPITULO III. De la Organización Territorial
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 22.
 
-El territorio de los municipios es el que con todo detalle, coordenadas, superficie y señalamiento de límites, les corresponde en el mapa oficial del Estado de Campeche, que una vez aprobado por la totalidad de los integrantes de la Legislatura Estatal y la totalidad de los Honorables Ayuntamientos, formará parte de la presente Ley.
+El territorio de los Municipios es el que con todo detalle, coordenadas, superficie y señalamiento de límites, les corresponde en el Mapa Oficial del Estado de Campeche, el cual será aprobado por la Legislatura del Estado.
+
+Las nuevas poblaciones que se erijan en el Estado, tendrán como fundo legal la superficie que sea suficiente para satisfacer las necesidades de las mismas, de acuerdo con el plano que al efecto se levante. Para todos los efectos de esta materia deberá atenderse a lo dispuesto en la Ley de Asentamientos Humanos del Estado.
 
 ###### ARTICULO 23.
 
@@ -591,7 +597,9 @@ II.- En Comisarías Municipales a cargo de un Comisario de elección popular, la
 
 III.- En los centros de población descritos en el Artículo 12 que deberán determinarse en el reglamento de esta Ley de cada uno de los Municipios, en los cuales los Ayuntamientos podrán nombrar y remover libremente a los Agentes Municipales que estimen conveniente;
 
-IV.- Cada Ayuntamiento, de acuerdo con las peculiares características del Municipio a su cargo, podrá crear sectores, manzanas o cuarteles al efecto de poder mantener una mejor comunicación con los habitantes de su Municipio.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+IV.- Cada Ayuntamiento, de acuerdo con las peculiares características de cada Municipio a su cargo, podrá dividir territorialmente y administrar los centros de población descritos en el artículo 12 de esta ley, en sectores, cuarteles y manzanas, a efecto de poder mantener una mejor comunicación con los habitantes.
 
 ###### ARTICULO 24.
 
@@ -613,9 +621,11 @@ II.- Contribuir para los gastos municipales de la manera que dispongan las leyes
 
 III.- Las demás que les impongan las leyes de acuerdo a su estatuto personal.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 27.
 
-Son vecinos de los Municipios los habitantes que radiquen dentro de su territorio durante un período de seis meses.
+Son vecinos de los Municipios los habitantes con residencia efectiva en su territorio durante un período de seis meses.
 
 ###### ARTICULO 28.
 
@@ -655,9 +665,13 @@ II.- Regidores;
 
 III.- Síndicos.
 
-El Ayuntamiento del Municipio de la Capital se compondrá de 1 Presidente, 7 Regidores y 2 Síndicos, por elección popular directa, pudiendo haber hasta 2 Regidores más, electos por el sistema de representación proporcional.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-Los demás Ayuntamientos se compondrán de 1 Presidente, 5 Regidores y 1 Síndico por elección popular directa y para los efectos de representación proporcional estarán sujetos a lo dispuesto por los Ordenamientos Electorales.
+El Ayuntamiento del Municipio de la capital se compondrá del presidente, 7 regidores y 2 síndicos, por elección popular directa, pudiendo haber hasta 2 regidores y 1 síndico más, electos por el sistema de representación proporcional.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+Los demás Ayuntamientos se compondrán del presidente, 5 regidores y 2 síndicos por elección popular directa y, para los efectos de representación proporcional, estarán sujetos a lo dispuesto en el párrafo anterior.
 
 ### CAPITULO III. De las Juntas Municipales
 
@@ -713,7 +727,9 @@ I.- Los empleados de la Federación, del Estado o del Municipio, si no se separa
 
 II.- Los que tuvieren mando de fuerza pública si no lo dejaren cuarenta y cinco días antes de la elección;
 
-III.- El padre o la madre, concurriendo ambos o con el hijo o hija, el hermano o hermana en concurrencia con el hermano o hermana, el socio con su socio y el patrón con su dependiente;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+III.- Los parientes por consanguinidad o afinidad hasta el tercer grado, el socio con su socio y el patrón con su dependiente;
 
 IV.- Los que por sentencia firme hubieren sido condenados a la pérdida de sus derechos políticos, pero sólo por el tiempo señalado en la sentencia; y
 
@@ -805,9 +821,11 @@ Cuando algún regidor, sin causa justificada, dejare de cumplir sus obligaciones
 
 La suspensión de un regidor por las causas mencionadas, podrá ser temporal o definitiva y será impuesta, en el primer caso, por el Presidente Municipal, y en el segundo por el Ayuntamiento reunido en pleno.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 58.
 
-Para lo no previsto por esta Ley, sobre el funcionamiento de los Ayuntamientos se estará a lo que determine su Reglamento y demás disposiciones que dicten.
+Para lo no previsto por esta ley, sobre el funcionamiento de los Ayuntamientos, se estará a lo que determine su Reglamento Interior y demás disposiciones que dicten.
 
 ### CAPITULO VII. De las Facultades y Obligaciones de los Ayuntamientos
 
@@ -815,9 +833,13 @@ Para lo no previsto por esta Ley, sobre el funcionamiento de los Ayuntamientos s
 
 Son facultades y obligaciones de los Ayuntamientos:
 
-I.- Formular el Bando Municipal y normas de carácter general y reglamentos municipales necesarios para el cumplimiento de sus fines, para la organización y prestación de los servicios públicos municipales y aquellas que demanden la tranquilidad y seguridad de las personas y sus bienes, y la moralidad, seguridad y salubridad pública, con arreglo a las bases generales que se fijen en esta Ley;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-II.- Dividir el territorio municipal en Comisarías, Sectores, Manzanas y Cuarteles;
+I.- Formular las normas de carácter general y reglamentos municipales necesarios para el cumplimiento de sus fines, para la organización y prestación de los servicios públicos municipales y aquellas que demanden la tranquilidad y seguridad de las personas y sus bienes, y la moralidad, seguridad y salubridad pública, con arreglo a las bases generales que se fijen en esta ley;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+II.- Dividir el territorio municipal en comisarías, conforme a lo dispuesto por el Artículo 11 de esta ley;
 
 III.- Otorgar, con la aprobación de la Legislatura y a través del Ejecutivo, a los centros de población, la categoría y denominación política que les corresponda conforme a esta Ley;
 
@@ -825,7 +847,9 @@ IV.- Contratar o concesionar mediante concurso, obras y servicios públicos muni
 
 V.- Autorizar a las Juntas Municipales para celebrar toda clase de contratos con excepción de aquellos a que se contrae la fracción anterior, en cuyos casos remitirán las solicitudes debidamente informadas, al Ejecutivo del Estado para su resolución;
 
-VI.- Crear los Departamentos necesarios para el despacho de los negocios del orden administrativo y para la eficaz prestación de los servicios públicos municipales;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+VI.- Crear las unidades administrativas necesarias para el despacho de los negocios del orden administrativo y para la eficaz prestación de los servicios públicos municipales;
 
 VII.- Formular, y ejecutar los planes y programas de su competencia;
 
@@ -841,9 +865,13 @@ XII.- Solicitar al Ejecutivo del Estado la expropiación de bienes por causas de
 
 XIII.- Municipalizar en su caso, mediante el procedimiento respectivo, los servicios públicos municipales cuando estén a cargo de particulares;
 
-XIV.- Nombrar al Secretario, Tesorero y Jefes de Departamento, a propuesta del Presidente Municipal y removerlos por justa causa;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-XV.- Formular la iniciativa de la Ley de Ingresos y Presupuesto de Egresos, remitiéndolas al Congreso dentro de los primeros 15 días del mes de noviembre de cada año;
+XIV.- Nombrar al secretario, tesorero y titulares de las unidades administrativas municipales, a propuesta del presidente del Ayuntamiento y removerlos por justa causa.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+XV.- Formular la iniciativa de Ley de Ingresos de su Municipio y remitirla al Congreso del Estado para su aprobación, en su caso, dentro de los primeros quince días del mes de Diciembre de cada año; y formular, aprobar y publicar su Presupuesto Anual de Egresos, dentro de los primeros quince días del mes de Enero de cada año;
 
 XVI.- Celebrar convenios de colaboración con otros municipios de la Entidad; con el Estado o particulares y remitirlos en su caso a la Legislatura Local para su aprobación, a través del Ejecutivo;
 
@@ -863,7 +891,21 @@ XXIII.- Comparecer en juicio para la gestión o defensa de los intereses municip
 
 XXIV.- Formar su reglamento interior, cuidando de establecer las reglas que han de observarse en las sesiones y en la discusión y votación de los asuntos;
 
-XXV.- En general, promover en la esfera administrativa lo necesario para el mejor desempeño de las funciones que le señalen esta u otras leyes y reglamentos.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+XXV.- Constituir, operar o participar en organismos descentralizados de carácter municipal o empresas con participación estatal o intermunicipal, con autorización del Congreso Local.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+XXVI.- Dividir el territorio de sus centros de población en sectores, cuarteles y manzanas según corresponda, determinando las áreas de cada circunscripción, o modificar la división existente;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+XXVII.- Crear la dependencia que lleve el catastro municipal, sujetándose a las disposiciones correspondientes de la Ley de Catastro del Estado de Campeche; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+XXVIII.- En general, promover en la esfera administrativa lo necesario para el mejor desempeño de las funciones que les señalen ésta u otras leyes y reglamentos.
 
 ###### ARTICULO 60.
 
@@ -891,19 +933,29 @@ VIII.- Ejecutar planes y programas distintos a los aprobados, sin que previament
 
 El Presidente Municipal, es el órgano ejecutor de las determinaciones del Ayuntamiento y tiene las siguientes facultades y obligaciones:
 
-I.- Promulgar y publicar el Bando Municipal;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-II.- Dar publicidad a las normas de carácter general y reglamentos aprobados por el Ayuntamiento;
+I.- Representar legalmente al Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+II.- Promulgar las normas de carácter general y reglamentos aprobados por el Ayuntamiento y publicarlos, por conducto del Ejecutivo del Estado, en el Periódico Oficial del Estado;
 
 III.- Presidir y dirigir las sesiones de los Ayuntamientos;
 
-IV.- Dentro de su competencia cumplir y hacer cumplir las disposiciones contenidas en las Leyes y Reglamentos Federales, Estatales y Municipales, así como aplicar en su caso, a los infractores de estos últimos, las sanciones correspondientes;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+IV.- Dentro de su competencia cumplir y hacer cumplir las disposiciones contenidas en las leyes y reglamentos federales, estatales y municipales; calificar las faltas y sancionar a los infractores de los reglamentos gubernativos y de policía, así como de los demás reglamentos y disposiciones administrativas, por sí o a través de la autoridad que al efecto designe;
 
 V.- Convocar a sesiones extraordinarias a los integrantes del Ayuntamiento;
 
-VI.- Proponer al Ayuntamiento, los nombramientos de Secretario, Tesorero y Jefes de Departamentos Municipales;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-VII.- Vigilar que los Departamentos Administrativos Municipales, se integren y funcionen en forma legal;
+VI.- Proponer al Ayuntamiento, los nombramientos de secretario, tesorero y demás titulares de las unidades administrativas municipales;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+VII.- Vigilar que las unidades administrativas municipales, se integren y funcionen en forma legal;
 
 VIII.- Vigilar que se integren y funcionen los Consejos de Colaboración y Comisiones Municipales;
 
@@ -911,7 +963,9 @@ IX.- Vigilar la recaudación en todas las ramas de la Hacienda Municipal;
 
 X.- Vigilar que la inversión de los fondos municipales se aplique con estricto apego al presupuesto;
 
-XI.- Celebrar a nombre del Ayuntamiento y por acuerdo de éste, todos los actos y contratos necesarios para el desempeño de los negocios administrativos y eficaz prestación de los servicios públicos municipales;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+XI.- Celebrar a nombre del Ayuntamiento y por acuerdo de éste, todos los actos y contratos necesarios para el desempeño de los negocios administrativos y eficaz prestación de los servicios públicos municipales, por sí o a través de apoderado que al efecto designe;
 
 XII.- Vigilar e inspeccionar las dependencias municipales, para cerciorarse de su funcionamiento, tomando aquellas medidas que estime pertinentes para la mejor administración municipal;
 
@@ -925,7 +979,9 @@ XV.- Informar al Ayuntamiento de la forma en que ha cumplido los acuerdos de és
 
 XVI.- Informar en la primera quincena de Diciembre de cada año, en Sesión Solemne de Cabildo del Ayuntamiento, del estado que guarda la Administración Municipal y de las labores realizadas durante el año;
 
-XVII.- Nombrar al personal administrativo cuando así se requiera; y
+> <small>(REFORMADA P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+XVII.- Nombrar, conceder licencia y remover a los servidores públicos del Ayuntamiento, cuando a éste no estén reservadas esas atribuciones; y
 
 XVIII.- Todas las demás que le concedan o fijen las Leyes, Reglamentos o el propio Ayuntamiento.
 
@@ -947,7 +1003,11 @@ VI.- Cobrar personalmente o por interpósita persona, multa o arbitrio alguno, o
 
 VII.- Utilizar a los empleados o policías municipales para asuntos particulares; y
 
-VIII.- Residir durante su gestión fuera del territorio municipal.
+VIII.- Residir durante su gestión fuera del territorio municipal;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+IX.- Las demás contenidas en esta ley y otras normas aplicables.
 
 ###### ARTICULO 63.
 
@@ -981,7 +1041,9 @@ VI.- Revisar y firmar los cortes de caja de la Tesorería Municipal;
 
 VII.- Cuidar que la aplicación de los gastos se haga llenando todos los requisitos legales y conforme al presupuesto respectivo;
 
-VIII.- Vigilar que las multas que impongan las autoridades municipales y Jueces Populares ingresen a la Tesorería, previo comprobante respectivo;
+> <small>(REFORMADA P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+VIII.- Vigilar que las multas que impongan las autoridades municipales, ingresen a la tesorería, previo comprobante respectivo;
 
 IX.- Cerciorarse de que el Tesorero Municipal haya otorgado la fianza respectiva, comprobando la existencia y la idoneidad del fiador;
 
@@ -1041,6 +1103,10 @@ Las comisiones serán:
 
 I.- De Gobernación y Seguridad Pública, que presidirá el Presidente Municipal;
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+I BIS.- De Protección al Medio Ambiente, que también presidirá el Presidente Municipal;
+
 II.- De Hacienda, que presidirá el Síndico; y
 
 III.- Aquellas que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
@@ -1049,13 +1115,19 @@ III.- Aquellas que determine el Ayuntamiento de acuerdo con las necesidades del 
 
 Las Comisiones carecerán de facultades ejecutivas, y los asuntos, disposiciones y acuerdos que no estén señalados expresamente para una Comisión quedarán al cuidado de la Comisión de Gobernación y Seguridad Pública.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+Las comisiones podrán ser individuales o colegiadas y permanentes o transitorias, y sus materias serán establecidas en el Reglamento Interior del Ayuntamiento, de acuerdo con las necesidades municipales, teniendo siempre el carácter de permanentes y obligatorias la de Gobernación y Seguridad Pública, la de Hacienda y la de Protección al Medio Ambiente.
+
 ### CAPITULO XII. De las Juntas Municipales y Comisarías
 
 ###### ARTICULO 72.
 
 Son atribuciones de las Juntas Municipales:
 
-I.- Formar el Presupuesto de Ingresos y Egresos de la Sección, remitiéndolo al Ayuntamiento que corresponda, dentro de los primeros ocho días del mes de noviembre de cada año, para que, observado o aprobado, se eleve al Congreso para su aprobación definitiva;
+> <small>(REFORMADA P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+I.- Formular el proyecto de presupuesto de egresos de la Sección Municipal, remitiéndolo al Ayuntamiento que corresponda, dentro de los primeros quince días del mes de Noviembre de cada año para que sea tomado en consideración en la formulación del Presupuesto de Egresos del mismo Ayuntamiento;
 
 II.- Nombrar Secretario y Tesorero;
 
@@ -1063,7 +1135,15 @@ III.- Formar cada año los padrones de los niños en edad escolar;
 
 IV.- Rendir los informes que soliciten los Ayuntamientos de que dependan, sobre todos los ramos de la Administración Municipal;
 
-V.- Representar a los Ayuntamientos en las Secciones Municipales y ejercer, por delegación de éstos, las funciones que les correspondan.
+V.- Representar a los Ayuntamientos en las Secciones Municipales y ejercer, por delegación de éstos, las funciones que les correspondan;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+VI.- Celebrar sesiones ordinarias y extraordinarias, en la forma que prevenga su Reglamento Interior o el acuerdo que al efecto emita; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+VII.- Las demás que le conceda la presente ley o el reglamento correspondiente.
 
 ###### ARTICULO 73.
 
@@ -1081,11 +1161,23 @@ III.- Dar cumplimiento a los acuerdos de la Junta Municipal, informando a ésta 
 
 IV.- Dar cuenta al Presidente Municipal de quien dependa, de cualquiera novedad que ocurra dentro de su jurisdicción, tomando las medidas que el caso requiera;
 
-V.- Cumplir y hacer cumplir el Bando de Policía y demás reglamentos del Ayuntamiento;
+> <small>(REFORMADA P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-VI.- Publicar y circular, sin demora, las leyes, decretos y órdenes de carácter general que se le comuniquen, cumpliéndolas y haciéndolas cumplir;
+V.- Cumplir y hacer cumplir los reglamentos, circulares y disposiciones administrativas de observancia general que expida el Ayuntamiento y el Reglamento de Policía del Estado;
 
-VII.- Convocar a sesiones extraordinarias cada vez que lo juzgue necesario o cuando lo soliciten, cuando menos dos Regidores.
+> <small>(REFORMADA P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+VI.- Dentro del ámbito de su competencia, cumplir y hacer cumplir las leyes, reglamentos, decretos y órdenes de carácter general que se publiquen en el Periódico Oficial del Estado;
+
+VII.- Convocar a sesiones extraordinarias cada vez que lo juzgue necesario o cuando lo soliciten, cuando menos dos Regidores;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+VIII.- Nombrar, conceder licencia y remover a los servidores públicos de la Junta Municipal, cuando a ésta no estén reservadas esas atribuciones; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+IX.- Las demás que le conceda la presente ley o el reglamento correspondiente.
 
 ###### ARTICULO 75.
 
@@ -1093,37 +1185,63 @@ Son atribuciones de los Comisarios Municipales, las siguientes:
 
 I.- Velar por el orden y la seguridad pública de la Comisaría, dando cuenta a la Autoridad Municipal de quien dependan, de cualquier novedad que ocurra;
 
-II.- Cumplir las órdenes que se les comuniquen y publicar sin demora las leyes, decretos o bandos que, para este objeto, se les remitan;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-III.- Cuidar de que asistan a las Escuelas Primarias todos los niños en edad escolar.
+II.- Cumplir y hacer cumplir los reglamentos, circulares y disposiciones administrativas de observancia general que expida el Ayuntamiento; el Reglamento de Policía del Estado, así como las leyes, reglamentos, decretos y órdenes de carácter general que se publiquen en el Periódico Oficial del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+III.- Cuidar que los niños en edad escolar y jóvenes asistan a las escuelas primaria y secundaria respectivamente;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+IV.- Calificar las faltas e imponer sanciones a los infractores, en los términos de las leyes y reglamentos respectivos; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+V.- Las demás que señale el Ayuntamiento, así como las leyes, reglamentos y demás ordenamientos jurídicos.
 
 ### CAPITULO XIII. De otros Auxiliares de la Administración Municipal
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 76.
 
-Las Autoridades Auxiliares Municipales, actuarán en sus respectivas jurisdicciones como Delegados de los Ayuntamientos y por consiguiente tendrán las atribuciones que sean necesarias para mantener, en los términos de esta Ley, el orden y la tranquilidad o seguridad de los vecinos del lugar donde actúen, conforme lo determinen los Bandos Municipales respectivos.
+Las autoridades auxiliares municipales fungirán en sus respectivas jurisdicciones como delegados de los Ayuntamientos y por lo consiguiente tendrán las atribuciones que sean necesarias para mantener, en los términos de esta ley, el orden, la seguridad y la tranquilidad de los vecinos del lugar donde funjan, conforme lo determinen las disposiciones de carácter general.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 77.
 
-Para los efectos de esta Ley, además de las Juntas y Comisarios, son Autoridades Auxiliares Municipales:
+Para los efectos de esta ley, además de las Juntas y Comisarios, son autoridades municipales los:
 
 I.- Agentes Municipales;
 
-II.- Inspectores de Cuartel;
+II.- Delegados de Sector;
 
-III.- Jefes de Manzana.
+III.- Inspectores de cuartel; y
+
+IV.- Jefes de Manzana.
 
 ###### ARTICULO 78.
 
 Las Autoridades Auxiliares serán nombradas y removidas libremente por los Ayuntamientos.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 79.
 
-Para ser Agente Municipal, Inspector de Cuartel o Jefe de Manzana, bastará ser ciudadano campechano y tener buena conducta.
+Para ser agente municipal, delegado de sector, inspector de cuartel o jefe de manzana, se requiere ser ciudadano campechano, conocido y de notorio arraigo en la área o demarcación territorial respectiva, tener buena conducta y reunir además los requisitos que fijen los reglamentos correspondientes.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 80.
 
-Los Inspectores de Cuartel estarán bajo la dependencia inmediata de la primera autoridad Municipal de la población. Los Jefes de Manzana dependerán de los respectivos Inspectores de Cuartel; y los Agentes Municipales serán subalternos de la Autoridad Municipal a cuya circunscripción corresponda la población.
+Los delegados de sector estarán bajo la dependencia inmediata del Ayuntamiento correspondiente. Los jefes de manzana dependerán de los inspectores de cuartel y éstos de los delegados de sector. Los agentes municipales serán subalternos de la autoridad municipal a cuya circunscripción corresponda la población.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 80 BIS.- Los delegados de sector tendrán las atribuciones que les señalen los reglamentos respectivos.
 
 ###### ARTICULO 81.
 
@@ -1137,9 +1255,11 @@ En las fincas rústicas también serán nombrados Agentes Municipales con las fa
 
 ### CAPITULO I. De las Comisiones de Planificación y Desarrollo
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 83.
 
-Los Ayuntamientos, para la solución a los problemas municipales, podrán integrar Comisiones de Planificación y Desarrollo.
+Los Ayuntamientos, para la solución de los problemas municipales, podrán integrar durante el curso de su gestión, como órganos de consulta, Comisiones de Planificación y Desarrollo.
 
 ###### ARTICULO 84.
 
@@ -1153,7 +1273,9 @@ III.- Realizar estudios y captar la información necesaria para cumplir con los 
 
 IV.- Comparecer ante el Cabildo cuando éste lo requiera o cuando las comisiones lo estimen conveniente; y
 
-V.- Proponer, previo estudio, a las autoridades municipales la creación de nuevos servicios o mejoramiento de los existentes, mediante el sistema de cooperación.
+V.- Proponer, previo estudio, a las autoridades municipales la creación de nuevos servicios o mejoramiento de los existentes, mediante el sistema de cooperación;
+
+VI .- Opinar sobre la creación y establecimiento de nuevos centros de población dentro del municipio.
 
 ###### ARTICULO 85.
 
@@ -1163,7 +1285,9 @@ Los Ayuntamientos procurarán que en la integración de las Comisiones de Planif
 
 Las Comisiones de Planificación y Desarrollo se integrarán con un mínimo de tres miembros y podrán tener tantos como se juzgue conveniente para el eficaz desempeño de sus funciones.
 
-Los integrantes de las Comisiones de Planificación y Desarrollo, podrán ser removidos cada tres años.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+Los integrantes de las Comisiones de Planificación y Desarrollo sólo estarán en el ejercicio de su encargo por similar tiempo al de la gestión del Ayuntamiento que los haya designado.
 
 ### CAPITULO II. De los Consejos de Colaboración Municipal
 
@@ -1211,13 +1335,17 @@ Cuando uno o más de los miembros del Consejo no cumpla con sus obligaciones, el
 
 ### CAPITULO I. De los Secretarios y demás Empleados
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 93.
 
-Habrá en cada Ayuntamiento y Junta Municipal un Secretario y los empleados subalternos de oficina que fueren necesarios.
+Habrá en cada Ayuntamiento y Junta Municipal un secretario, un tesorero y los demás servidores públicos que fueren necesarios y permita el respectivo presupuesto de egresos.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 94.
 
-Los Secretarios de los Ayuntamientos y Juntas Municipales, así como los empleados subalternos, serán nombrados y removidos libremente por los Ayuntamientos o Juntas Municipales, a mayoría de votos y gozarán de los sueldos o emolumentos que señalen los presupuestos municipales.
+Los secretarios y los tesoreros de los Ayuntamientos y Juntas Municipales, serán nombrados y removidos por los Ayuntamientos o Juntas Municipales, a mayoría de votos y gozarán de los sueldos o emolumentos que señalen los presupuestos municipales.
 
 ###### ARTICULO 95.
 
@@ -1243,7 +1371,23 @@ VII.- Firmar con el Presidente las actas de las sesiones y la correspondencia of
 
 VIII.- Tener ordenado y bien conservado el archivo con arreglo al reglamento interior y a los acuerdos del Cuerpo y cuidar de que todos los libros se lleven en debida forma;
 
-IX.- Ejercer las demás atribuciones que les señalen los reglamentos y acuerdos de la Corporación.
+IX.- Ejercer las demás atribuciones que les señalen los reglamentos y acuerdos de la Corporación;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+IX.- Controlar la correspondencia oficial y dar cuenta diaria con todos los asuntos al presidente, para acordar el trámite;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+X.- Citar por escrito a los miembros del Ayuntamiento a las sesiones de cabildo mencionando en el citatorio, lugar, día y hora del Cabildo;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+XI.- Tener una colección ordenada y anotada de leyes, decretos, reglamentos, Periódico Oficial del Estado, circulares y órdenes relativas de los distintos ramos de la administración municipal; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+XII.- Ejercer las demás atribuciones que les señalen los reglamentos y acuerdos de la corporación.
 
 ###### ARTICULO 97.
 
@@ -1251,27 +1395,29 @@ Los demás empleados subalternos están obligados a asistir puntualmente al desp
 
 ### CAPITULO II. De la Hacienda Municipal
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 98.
 
 La Hacienda Municipal se compone:
 
-I.- De los bienes muebles e inmuebles de la propiedad del Municipio;
+I.- De los bienes muebles e inmuebles de la propiedad del Ayuntamiento;
 
-II.- De los bienes muebles e inmuebles, destinados a los servicios públicos municipales;
+II.- De los productos y aprovechamientos derivados de esos bienes;
 
-III.- De los bienes de uso común municipal;
+III.- De los impuestos sobre la propiedad inmobiliaria y todas las contribuciones derivadas de su funcionamiento, división, consolidación, traslación y mejora, así como los que tengan por base el cambio de valor de los inmuebles;
 
-IV.- De los bienes propios de cualquier otra clase, cuyos productos se destinen al sostenimiento de los servicios públicos;
+IV.- De los derechos derivados de la prestación de servicios públicos;
 
-V.- De los capitales y créditos a favor del municipio, así como las donaciones, herencias y legados que recibiere;
+V.- De los productos derivados de la explotación de los recursos naturales propiedad de la Federación que se encuentren en los territorios de los Municipios, conforme a los términos y proporciones que le asignen las leyes y convenios relativos;
 
-VI.- De las rentas y productos de todos los bienes municipales;
+VI.- De las participaciones que se le asignen de acuerdo a las leyes federales y estatales en los impuestos y demás gravámenes de la Federación y del Estado;
 
-VII.- De las contribuciones que perciban por la aplicación de la Ley de Hacienda Municipal, las que decrete la Legislatura y las que señalen otras disposiciones;
+VII.- De las utilidades de los organismos descentralizados de carácter municipal o empresas con participación estatal o intermunicipal;
 
-VIII.- De los réditos producidos por créditos a su favor;
+VIII.- De las tasas adicionales que, en su caso, fijen el Congreso de la Unión y la Legislatura local; y
 
-IX.- De las participaciones que perciban de acuerdo con las Leyes Federales y del Estado.
+IX.- De los capitales y créditos a favor del Municipio, así como las donaciones, herencias y legados que reciba.
 
 ###### ARTICULO 99.
 
@@ -1296,6 +1442,10 @@ V.- Cumplir con los requisitos que señalen otras Leyes.
 ###### ARTICULO 101.
 
 Los Tesoreros Municipales, tomarán posesión de su cargo, previo el corte de caja que practiquen, el cual será visado por el Presidente y Síndico del Ayuntamiento y firmado por quien reciba la Tesorería Municipal. En el mismo acto, recibirá por inventario el archivo, los muebles, los útiles de la dependencia, los libros de registro anotados al día y la relación de deudores en todos los ramos de ingresos.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+Lo anterior se aplicará sin perjuicio de la observancia y cumplimiento de las disposiciones que sobre el particular contiene la Ley que Establece las bases para la Entrega-Recepción del Despacho de los Titulares y Otros Servidores de las Dependencias y Entidades de la Administración Pública Estatal y Municipal.
 
 ###### ARTICULO 102.
 
@@ -1400,6 +1550,14 @@ La prestación de los servicios públicos deberá realizarse por los Ayuntamient
 Cuando los servicios públicos sean prestados directamente por el Ayuntamiento, serán administrados con la vigilancia del Presidente o por los órganos municipales respectivos, en la forma que determine esta Ley, sus reglamentos o el propio Ayuntamiento.
 
 Cuando los Ayuntamientos decidan aplicar un sistema mixto de prestación de un servicio público, tendrán a su cargo la organización y dirección correspondiente, conforme a las disposiciones de los propios Ayuntamientos. A la declaratoria respectiva deberá adherirse el concurrente.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 108 BIS.- Para la más eficaz prestación, mantenimiento y operación de los servicios públicos municipales, podrán crearse organismos descentralizados de carácter municipal o empresas con participación estatal o intermunicipal.
+
+Asimismo, los Ayuntamientos podrán celebrar convenios intermunicipales para la capacitación de su personal.
+
+Para los efectos de este artículo, se entiende por empresa paramunicipal a aquellas entidades que crea el Ayuntamiento, por acuerdo de cabildo y con la aprobación del Congreso del Estado, para la prestación de algún servicio público o para llevar a cabo los planes y programas municipales con objetivos y fines específicos.
 
 ###### ARTICULO 109.
 
@@ -1531,47 +1689,61 @@ Los acuerdos, concesiones, permisos o autorizaciones otorgados por autoridades, 
 
 ### CAPITULO VI. De los Recursos Administrativos
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 128.
 
-Los acuerdos o actos de las Autoridades Municipales podrán ser impugnados por parte interesada, mediante la interposición de los recursos que establece esta Ley.
+Contra los actos administrativos dictados por las autoridades municipales, sólo procederán los recursos de revocación y revisión. No obstante lo anterior, cuando en un Reglamento expedido por el Ayuntamiento se regule algún recurso diverso a los anteriores, el interesado podrá hacer uso de este último o de los previstos en esta Ley, a su elección.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 129.
 
-Los recursos serán de revocación y revisión, éste último por lo que hace a los actos o acuerdos del Presidente Municipal cuando se impugne la resolución dictada en el recurso de revocación.
+La tramitación del recurso de revocación, se sujetará a las normas siguientes y para lo no previsto en esta Ley se aplicará supletoriamente la legislación procesal civil vigente en el Estado:
+
+I.- Se interpondrá por escrito, en el que se precisarán los agravios que cause la resolución o acto impugnado al recurrente y en el que se haga ofrecimiento de pruebas;
+
+II.- El escrito deberá presentarse dentro de los diez días hábiles siguientes a la fecha en que surta efectos la notificación del acto que se impugna ante la autoridad municipal que dictó o realizó dicho acto. Si el recurrente tiene su domicilio en población distinta del lugar en que reside la autoridad citada, podrá enviar su escrito dentro del mismo término por correo certificado con acuse de recibo, o bien, presentarlo ante la autoridad que le haya notificado la resolución. En estos casos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se haga la entrega en la oficina de correos o a la autoridad que efectuó la notificación;
+
+III.- La autoridad encargada de resolver el recurso, proveerá desde luego el desahogo de las pruebas ofrecidas y al efecto señalará un término de diez días hábiles dentro del cual los interesados deberán exhibir todos los documentos que hubieren ofrecido y presentar a sus peritos y testigos. Si por la naturaleza de las pruebas ofrecidas o porque su desahogo dependa de terceros, la autoridad considera insuficiente el plazo de diez días, podrá ampliarlo hasta por treinta días hábiles más;
+
+IV.- Para la resolución de los recursos, las autoridades podrán pedir que se les rindan los informes que estimen pertinentes por parte de quienes hayan intervenido en el acto que se impugna; y
+
+V.- Rendidas las pruebas y recibidos, en su caso, los informes, se dictará resolución dentro de un plazo que no excederá de quince días hábiles.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 130.
 
-El recurso de revocación deberá promoverse en forma escrita, dentro del término de quince días siguientes al de la notificación o ejecución del acto o acuerdo impugnado ante el Presidente Municipal, excepto si se recurre un acto o acuerdo del Ayuntamiento, caso en el cual el recurso de revocación deberá dirigirse a este último.
+Contra las resoluciones dictadas por las autoridades municipales a las que se refiere el artículo anterior, sólo procede el recurso de revisión que se presentará por escrito, dentro del plazo de los diez días hábiles siguientes a aquél en que el recurrente quede debidamente notificado de la resolución respectiva, ante el Ayuntamiento del que dependa jerárquicamente la autoridad que emitió la resolución impugnada, o ante esta última autoridad.
 
-La autoridad que realizó el acto que se impugna deberá resolver en un término máximo de quince días.
+El Ayuntamiento revisor, si ante él se hubiere interpuesto directamente la revisión, requerirá a la autoridad inferior la remisión inmediata del expediente instruido para la emisión del fallo recurrido, la que deberá enviarlo en un lapso no mayor de tres días hábiles. Dentro del mismo lapso indicado, la autoridad inferior deberá remitir al Ayuntamiento, para revisar, el mencionado expediente si ante dicha autoridad fuese interpuesto directamente el recurso.
 
-El recurso de revisión se interpondrá ante el Ayuntamiento en los mismos términos que el de revocación.
+Recibido el expediente, el Ayuntamiento deberá dictar la resolución que corresponda dentro de un plazo de cinco días hábiles.
 
-La sola interposición de cualquiera de estos recursos bastará para que se suspenda la ejecución del acuerdo o acto impugnado, excepto cuando se trate de arresto.
+Sólo en el caso que el recurrente pudiera ofrecer pruebas supervinientes a las aportadas ante la autoridad inferior, el Ayuntamiento podrá acordar para su desahogo un término que no excederá de diez días hábiles. Contra las resoluciones del Ayuntamiento no cabe recurso alguno.
 
-Si se tratare de clausura, cancelación de un permiso, licencia o concesión, la suspensión no tendrá efectos restitutorios respecto de los actos ya ejecutados.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 131.
 
-El escrito en que se promueva el recurso, deberá contener:
+La sola interposición de cualquiera de estos recursos bastará para que se suspenda la ejecución del acuerdo o acto impugnado, excepto cuando se trate de arresto. Si se tratare de clausura, cancelación de un permiso, licencia o concesión, la suspensión no tendrá efectos restitutorios respecto de los actos ya ejecutados.
 
-I.- El documento o documentos en que se funde su derecho y que acrediten, en su caso, el interés jurídico del promovente;
-
-II.- Los hechos en que funde su petición; y
-
-III.- Asimismo, las pruebas que crean necesarias para demostrar los extremos de su petición.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 132.
 
-El Ayuntamiento deberá tomar en cuenta, para su resolución, las pruebas que acompañe el promovente al interponer el recurso, así como los argumentos que a este respecto exponga.
+Toda persona física o moral puede comparecer ante las autoridades municipales, a interponer los recursos administrativos, por sí, o por medio de representante legalmente autorizado. Los interesados podrán autorizar por escrito, a la persona que en su nombre reciba notificaciones. En ningún trámite administrativo se admitirá la gestión de negocios. Los apoderados y representantes legítimos, deberán acreditar su personalidad al comparecer ante las autoridades municipales.
 
 ## TITULO V. DE LA ADMINISTRACION DE LOS RECURSOS MUNICIPALES
 
 ### CAPITULO I. De la Administración de las Finanzas Municipales
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 133.
 
-La Administración de las Finanzas Municipales se regirá por la Ley de Ingresos de cada Municipio, su Presupuesto de Egresos, la Ley de Hacienda Municipal y las demás disposiciones legales aplicables.
+La administración de las finanzas municipales se regirá por la Constitución General de la República, la Constitución Local del Estado, la Ley de Ingresos de cada Municipio, su Presupuesto de Egresos, la Ley de Hacienda Municipal, esta Ley y las demás disposiciones jurídicas aplicables.
 
 ###### ARTICULO 134.
 
@@ -1615,13 +1787,17 @@ Los sistemas contables y de control serán establecidos por cada Ayuntamiento de
 
 ### CAPITULO II. De la Administración y Desarrollo de Personal
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 139.
 
-Los Ayuntamientos designarán libremente a los funcionarios y empleados que requiera el buen servicio del Municipio. Para los efectos de este artículo se consideran funcionarios el Secretario, Tesorero, Directores, Jefes de Departamento, Oficina o Sección y Asesores, los cuales podrán ser removidos libremente por los Ayuntamientos.
+Los servidores públicos municipales serán nombrados y removidos en la forma y términos que previenen esta Ley y demás disposiciones legales y reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 140.
 
-Los empleados de los Ayuntamientos gozarán de todos los derechos que les otorga el Apartado "B" del Artículo 123 de la Constitución de la República.
+Las relaciones laborales entre los Gobiernos Municipales y sus servidores públicos se regirán por las disposiciones de esta Ley, de los Reglamentos que de la misma se deriven, de las demás disposiciones de observancia general que emitan los Ayuntamientos y de las correspondientes de la ley que regula las de los trabajadores que prestan servicios a los Poderes del Estado, Municipios y sus organismos descentralizados.
 
 ###### ARTICULO 141.
 
@@ -1645,49 +1821,123 @@ Los materiales, enseres, útiles de escritorio, vehículos y demás bienes que s
 
 Los bienes que sean adquiridos y no se vayan a utilizar de inmediato, deberán conservarse en estado óptimo mediante un adecuado sistema de almacenamiento.
 
-## TITULO VI. LEGISLACION MUNICIPAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-### CAPITULO I. Del Bando y Reglamentos
+## TITULO VI. REGLAMENTACION MUNICIPAL
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+### CAPITULO I. Bases Normativas para la Aprobación y Expedición de Reglamentos, Circulares y Disposiciones Administrativas de Observancia General
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 146.
 
-Los Ayuntamientos expedirán el Bando Municipal y el Presidente lo promulgará.
+Para la aprobación y expedición de los reglamentos municipales, los Ayuntamientos deben sujetarse a las disposiciones del presente Título y a las siguientes bases normativas:
+
+I.- Que los ordenamientos respeten las garantías individuales, consagradas en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Campeche;
+
+II.- Que los ordenamientos sean congruentes y no contravengan o invadan disposiciones o competencias federales y estatales;
+
+III.- Los reglamentos municipales, sea cual fuere el ámbito de competencia sobre la cual incidan, deberán contemplar los siguientes aspectos:
+
+a) Delimitación de la materia que regulan;
+
+b) Sujetos obligados;
+
+c) Objetos sobre los que recae la reglamentación o regulación;
+
+d) Fin que pretende alcanzar;
+
+e) Derechos y obligaciones;
+
+f) Autoridad responsable;
+
+g) Facultades, atribuciones y limitaciones de las autoridades;
+
+h) Sanciones;
+
+i) Recursos; y
+
+j) Vigencia.
+
+IV. Que tengan como propósito fundamental la seguridad, el bienestar y la tranquilidad de la población;
+
+V.- Que su aplicación fortalezca al Municipio libre;
+
+VI.- Que en la elaboración se haya tomado en cuenta la opinión de la comunidad y que en los ordenamientos estén previstos procedimientos de revisión y se garantice la oportuna actualización de cada reglamento;
+
+VII.- Que en su articulado se incluya la formación y funcionamiento de unidades administrativas municipales, responsables de la inspección y vigilancia del cumplimiento de los reglamentos, así como de la aplicación de sanciones cuando proceda;
+
+VIII.- Que la normatividad de la administración y de los servicios públicos tenga como propósitos primordiales, la eficiencia de los mismos y el mejoramiento general de la población del Municipio; y
+
+IX.- Que esté prevista la más idónea difusión de sus principales ordenamientos.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 147.
 
-El Bando Municipal deberá contener las normas de observancia general que requiera el régimen, el gobierno y la administración municipal.
+Cuando el Ayuntamiento apruebe a través del cabildo la expedición o modificación de un reglamento, ordenará su publicación en el Periódico Oficial del Estado para los efectos de su vigencia.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 148.
 
-El Bando Municipal podrá modificarse en cualquier momento, siempre y cuando se cumplan los requisitos de su aprobación, expedición y promulgación.
+Los reglamentos municipales son ordenamientos jurídicos que establecen normas de observancia obligatoria para el propio Ayuntamiento y para los habitantes del Municipio con el propósito de ordenar armónicamente la convivencia social en el territorio municipal y buscar el bienestar de la comunidad.
+
+Los reglamentos municipales serán expedidos por los propios Ayuntamientos a través de sus Cabildos quienes los aprobarán ajustándose a las bases normativas que se señalan en la presente ley y para su vigencia será necesaria su publicación en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 149.
 
-Los Ayuntamientos podrán expedir los reglamentos que regulen el régimen de las diversas esferas de competencia municipal.
+Los reglamentos municipales tendrán los siguientes propósitos generales:
+
+I.- Establecer la normatividad para el adecuado funcionamiento del Cabildo como órgano de máxima autoridad del Ayuntamiento y de la correcta administración del patrimonio municipal;
+
+II.- Establecer los ordenamientos para la más idónea división política territorial del Municipio;
+
+III.- Crear las disposiciones para preservar el orden público como requerimiento prioritario de la sociedad, en los aspectos de seguridad personal y patrimonial de los habitantes del Municipio, salud pública, preservación del medio ambiente, vialidad, esparcimiento, cultura y demás aspectos fundamentales de la vida comunitaria;
+
+IV.- Establecer las bases para garantizar, en beneficio de la sociedad, la más adecuada prestación de los servicios públicos municipales directamente por el ayuntamiento o a través de sus concesionarios; y
+
+V.- Estimular la participación de la comunidad en la gestión municipal.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 150.
 
-Los Bandos, sus reformas y adiciones, así como los reglamentos municipales deberán darse a la publicidad para que tengan plena vigencia y establecer la fecha en que se inicia su obligatoriedad, precisamente al promulgarse.
+Con la normatividad que acuerde el cabildo, los Ayuntamientos podrán modificar los reglamentos municipales cumpliendo con las disposiciones contenidas en la presente ley y con los procedimientos que se establezcan en los reglamentos.
+
+Los Ayuntamientos tendrán la facultad de expedir circulares y disposiciones administrativas de observancia general en su circunscripción territorial.
 
 ### CAPITULO II. De las Sanciones
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 151.
 
-Las infracciones a las normas contenidas en el Bando o Reglamentos Municipales, se sancionarán con:
+Las infracciones a las normas contenidas en los reglamentos, circulares y disposiciones administrativas de observancia general emitidos por los Ayuntamientos se sancionarán con:
 
 I.- Amonestación;
 
-II.- Multa hasta de cincuenta mil pesos, pero si el infractor es jornalero, ejidatario u obrero, la multa no excederá del salario de una semana;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+II.- Multa hasta de trescientos cincuenta veces el salario mínimo general diario vigente en la Entidad, pero si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso;
 
 III.- Suspensión temporal o cancelación del permiso o licencia;
 
 IV.- Clausura;
 
-V.- Arresto hasta de quince días, si el infractor se negare a pagar la multa, siempre y cuando ésta no exceda de quinientos pesos y no se haya impuesto por motivo fiscal;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+V.- Arresto hasta por treinta y seis horas, si el infractor se negare a pagar la multa;
 
 VI.- A los concesionarios de los servicios públicos municipales:
 
-a) Multa hasta de cien mil pesos;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+a) Multa hasta de quinientas veces el salario mínimo general diario vigente en el Estado; y
 
 b) Cancelación de la concesión; y
 
@@ -1703,13 +1953,23 @@ Los funcionarios municipales necesitan licencia del Ayuntamiento para separarse 
 
 Las faltas de los funcionarios municipales podrán ser temporales o definitivas, siendo las primeras aquéllas que no excedan de quince días.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 153.
 
-Las faltas temporales del Presidente Municipal o Presidente de la Junta Municipal serán suplidas por el Regidor Primero y en defecto de éste por el que le siga en número.
+Las faltas hasta de quince días del presidente municipal o presidente de la Junta Municipal, serán suplidas por el miembro del Ayuntamiento o de la Junta Municipal que sea designado en sesión ordinaria del Cabildo o Junta respectivos.
 
-Las de los Regidores no se suplirán cuando no excedan de ocho días y mientras haya el número suficiente de miembros que marca la Ley, para que los actos del Ayuntamiento o Junta Municipal tengan validez, pero cuando no haya ese número o excedieren del plazo indicado, se llamará al suplente respectivo.
+Cuando el presidente municipal o presidente de la Junta Municipal, se tenga que ausentar durante un lapso no mayor de cinco días, estarán facultados para designar al miembro del Ayuntamiento o Junta Municipal que cubrirá su ausencia con aviso al Cabildo o a la Junta, en su caso.
 
-Para cubrir las faltas absolutas de los miembros de los Ayuntamientos o Juntas Municipales serán llamados los suplentes respectivos. Si faltase también el suplente para cubrir la vacante que corresponda, la Legislatura a proposición del Ejecutivo designará los sustitutos.
+La falta de los síndicos o regidores no se suplirá cuando no exceda de quince días y mientras haya el número suficiente de miembros que marca la ley para que los actos del Ayuntamiento o Junta Municipal tengan validez; pero cuando no haya ese número o excediere del plazo indicado, se llamará al suplente respectivo.
+
+Para cubrir las faltas definitivas de los miembros de los Ayuntamientos o Juntas Municipales serán llamados los suplentes respectivos; si faltasen también los suplentes, para cubrir la vacante que corresponda, la Legislatura a proposición del Ejecutivo designará a los sustitutos.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 153 BIS.- Las faltas temporales por licencia de menos de dos meses de los demás servidores de la administración municipal, serán cubiertas por la persona que designe el presidente municipal o el presidente de la Junta Municipal.
+
+Las faltas definitivas y temporales por licencia de más de dos meses, serán cubiertas por las personas que designe el Ayuntamiento o Junta Municipal, a propuesta del presidente municipal o del presidente de la Junta, respectivamente.
 
 ###### ARTICULO 154.
 
@@ -1733,37 +1993,59 @@ III.- Cuando existan entre sus miembros conflictos que hagan imposible el cumpli
 
 IV.- Cuando se dicte en su contra auto de formal prisión por delito doloso; y
 
-V.- Por incapacidad física o legal.
+V.- Por incapacidad física o legal;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+VI.- Por disponer de los recursos del Municipio para su provecho, por sí mismo o a través de interpósita persona.
 
 ###### ARTICULO 157.
 
 En los casos previstos por las fracciones I, II, IV y V del artículo que antecede, la inhabilitación operará de pleno derecho, debiendo la autoridad de mayor jerarquía del Ayuntamiento o Junta Municipal en funciones, llamar a los suplentes para que de inmediato se presenten a fungir, y si éstos no concurren al llamado, dará aviso de esta circunstancia al Ejecutivo del Estado para que solicite de la Legislatura o Diputación Permanente la inhabilitación y remoción de los mismos, y proponga a los sustitutos.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+En el caso previsto en la fracción VI se procederá de conformidad con lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado. En caso de que se determine la suspensión temporal del servidor público, la designación de quien lo sustituya deberá ajustarse a lo que para nombramientos previene esta ley.
+
 ###### ARTICULO 158.
 
 Cuando el Ejecutivo del Estado tenga conocimiento de la existencia de la situación prevista por la fracción III del artículo 156 de esta Ley, previa investigación y análisis de los hechos, podrá pedir la inhabilitación y remoción de los miembros del Ayuntamiento o Junta Municipal a la Legislatura Local o Diputación Permanente y proponer sustitutos.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 159.
 
-Si por imposibilidad física o legal, licencia o por cualquier otra causa, de la totalidad de los miembros propietarios y suplentes de un Ayuntamiento o Junta Municipal éste quedare privado de sus funciones y consiguientemente el Municipio carente de autoridad, el Ejecutivo del Estado solicitará la inhabilitación correspondiente a la Legislatura del Estado o Diputación Permanente en su caso, enviando las constancias relativas y proponiendo al mismo tiempo la designación del Ayuntamiento o Junta Municipal sustituto que concluirá el periodo respectivo.
+El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que esta ley contempla, permitiéndoles la oportunidad suficiente de defensa, pudiendo ofrecer pruebas y hacer los alegatos que a su juicio convengan.
 
-### CAPITULO III. Responsabilidad de Funcionarios y Empleados Municipales
+En caso de declararse desaparecido el Ayuntamiento, o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procediere que entraren en funciones los suplentes ni que se celebren nuevas elecciones, la Legislatura designará, de entre los vecinos, a los Consejos Municipales que concluirán el período respectivo.
+
+Si alguno de los miembros dejare de desempeñar su cargo, será substituido por su suplente o se procederá según lo disponga la ley.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+### CAPITULO III. Responsabilidad de los Servidores Públicos Municipales
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 160.
 
-Los funcionarios y empleados de los Ayuntamientos, Juntas Municipales y Comisarias, son responsables de los delitos y faltas oficiales que cometan durante su encargo.
+Los servidores públicos de los Ayuntamientos, Juntas Municipales y Comisarías serán responsables de los delitos y faltas oficiales que cometan, conforme a las disposiciones de la ley de la materia.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 161.
 
-En delitos del orden común, los funcionarios y empleados municipales no gozarán de fuero alguno, pudiendo en consecuencia proceder en su contra la autoridad judicial respectiva.
+La comisión de delitos comunes por parte de cualquier servidor público municipal será perseguida y sancionada en los términos de la legislación penal vigente en la Entidad.
 
 ###### ARTICULO 162.
 
 Por las infracciones cometidas a esta Ley y Reglamentos Municipales, los funcionarios y empleados serán juzgados conforme a la Ley.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 163.
 
-En los juicios del orden civil no hay fuero ni inmunidad para ningún funcionario o empleado público municipal.
+En demandas del orden civil que se entablen contra cualquier servidor público municipal, no se requerirá declaración de procedencia.
 
 ## TITULO VIII. DE LA PRESTACION DE LOS SERVICIOS PUBLICOS MUNICIPALES
 
@@ -1797,11 +2079,15 @@ I.- Cuando se constate que el servicio, se presta en forma distinta a los térmi
 
 II.- Cuando no se cumpla con las obligaciones que deriven de la concesión;
 
-III.- Cuando no se preste el servicio concesionado regularmente;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+III.- Cuando el concesionario no preste el servicio por más de 90 días sin autorización expresa del Ayuntamiento, a menos de que se trate de caso fortuito o fuerza mayor, siempre y cuando la ley o el reglamento de la materia sobre la que verse la concesión no señale otro término;
 
 IV.- Cuando no se acaten las normas fijadas por el Ayuntamiento para la prestación del servicio;
 
-V.- Cuando se deje de prestar el servicio, a menos que se trate de caso fortuito o fuerza mayor;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+V.- Cuando se constate que el concesionario tiene más de una concesión que implique un monopolio, conforme al artículo 28 de la Constitución Federal;
 
 VI.- Cuando el concesionario no esté capacitado o carezca de los elementos materiales o técnicos para la prestación del servicio;
 
@@ -1951,9 +2237,11 @@ g) Datos del funcionamiento de los servicios públicos municipales; y
 
 h) Recursos económicos con que se cuenta para la prestación del servicio público.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 190.
 
-Los planes se compondrán de:
+Los planes y programas se compondrán de:
 
 a) Planos, fotografías, informes y dictámenes que muestren el estado del territorio y las condiciones en que se encuentran todos los elementos urbanos.
 
@@ -1963,9 +2251,11 @@ c) Normas urbanísticas aplicables tanto a la edificación en las zonas urbanas 
 
 d) Estudio económico-financiero de los recursos municipales para la ejecución de los planes.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 191.
 
-Los planes y programas, se harán del conocimiento del Ejecutivo del Estado, para los efectos de coordinación con los de carácter estatal y aprobación, en su caso, en los términos del artículo 21 de la Ley de Asentamientos Humanos del Estado de Campeche.
+Los programas municipales de desarrollo urbano y las declaratorias de usos, reservas y destinos que aprueben los Ayuntamientos se harán del conocimiento del Gobernador del Estado para los efectos de la Ley de Asentamientos Humanos del Estado.
 
 ###### ARTICULO 192.
 
@@ -1994,6 +2284,294 @@ Los planes y programas podrán ser modificados o suspendidos en todo tiempo, sig
 ###### ARTICULO 196.
 
 Los Ayuntamientos podrán elaborar y ejecutar planes y programas que excedan su período constitucional, pero su ejecución requerirá aprobación de la Legislatura.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+### CAPITULO IV. DE LOS CRONISTAS MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 197.
+
+Para los efectos de la presente ley, se considera como cronista municipal el funcionario público de la administración municipal que tiene como objetivos fundamentales el registro de sucesos notables acaecidos dentro de la jurisdicción territorial del Municipio al que pertenezca, así como investigar, conservar, exponer y promover la cultura de dicho Municipio.
+
+El cronista permanecerá indefinidamente en su cargo y sólo podrá renunciar a él, por justa causa a juicio del Ayuntamiento. Percibirá el salario o emolumento que se le fije conforme a la partida presupuestal que corresponda.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 198.
+
+El cronista municipal para el desarrollo de sus funciones contará con las atribuciones siguientes:
+
+I.- Llevar el registro cronológico de los sucesos notables de su Municipio;
+
+II.- Investigar, conservar, exponer y promover la cultura municipal;
+
+III.- Elaborar la monografía de su Municipio; compilar tradiciones y leyendas o crónicas; llevar un registro de monumentos arqueológicos, artísticos e históricos de su Municipio;
+
+IV.- Elaborar el calendario cívico municipal, derivándose de éste la promoción de eventos cívicos a conmemorarse;
+
+V.- Proponer al Ayuntamiento modificaciones de nombre del Municipio y de sus centros de población, basándose siempre en razones de índole histórica y social;
+
+VI.- Proponer la creación, modificación o cambio de escudos y lemas del Municipio; y
+
+VII.- Las demás que le confiera el Ayuntamiento, esta ley, reglamentos o disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 199.
+
+En el presupuesto anual de egresos de cada Municipio se destinará una partida para sufragar los gastos y honorarios que se deriven del desarrollo de las funciones que correspondan al cronista municipal.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 200.
+
+Constituyen causas que ameritan la remoción al cargo de cronista municipal, las siguientes:
+
+I.- Incapacidad legal;
+
+II.- Incumplimiento de las actividades señaladas y las propias de su función;
+
+III.- El cambio de residencia fuera de su Municipio; y
+
+IV.- Las demás que resulten procedentes a juicio del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 201.
+
+La elección de la persona designada por el Cabildo para ocupar el cargo de cronista municipal se la hará saber a aquélla a través de la Dirección de Cultura y Deporte del Municipio respectivo, en un término que no excederá de ocho días hábiles.
+
+La fecha para la toma de protesta estará a cargo del presidente municipal en un acto público, también se le hará saber a la persona designada a efecto de que si está de acuerdo proceda a protestar el cargo y como consecuencia dé inicio a las funciones inherentes al mismo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 202.
+
+En el caso que la persona designada no esté de acuerdo con su designación, el Ayuntamiento del Municipio de que se trate se volverá a reunir en sesión para designar a la persona que deberá ocupar el cargo respectivo.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+## TITULO X. DE LA ELECCION DE LOS COMISARIOS MUNICIPALES
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 203.
+
+Los Comisarios durarán tres años en el ejercicio de su cargo y lo asumirán el día 1 de Noviembre del año en que resulten electos. Su elección se arreglará conforme a las disposiciones contenidas en el presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 204.
+
+A los diez días de la fecha de su instalación, cada uno de los Ayuntamientos de los Municipios del Estado procederá a sesionar para aprobar y expedir la correspondiente convocatoria a elecciones, misma que contendrá, cuando menos, los siguientes datos:
+
+I.- Fecha del registro de candidatos;
+
+II.- Número de firmas requeridas en términos del artículo 206;
+
+III.- Autoridad ante la cual se deberá presentar la solicitud de registro;
+
+IV.- Relación de los requisitos enunciados en los artículos 39 y 40 de esta misma ley;
+
+V.- Fechas de apertura y de cierre de campañas de promoción de candidaturas;
+
+VI.- Fecha de la elección;
+
+VII.- Requisitos que deben satisfacer los representantes de las fórmulas; y
+
+VIII.- Los demás que conforme a la presente ley y demás disposiciones legales, reglamentarias o acuerdos de cabildo aplicables deba de contener.
+
+Las convocatorias se publicarán en el Periódico Oficial del Gobierno del Estado y se fijarán en lugar visible del exterior de las comisarías.
+
+En el proceso electoral consignado en este Capítulo todos los días y horas serán hábiles, y los términos y plazos que en el mismo se señalan serán improrrogables.
+
+Durante el proceso electoral los Ayuntamientos sesionarán en forma extraordinaria todas las veces que sea necesario.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 205.
+
+Las candidaturas se registrarán mediante fórmulas compuestas de un propietario y un suplente.
+
+La recepción de solicitudes de registro de las fórmulas de candidatos tendrá lugar únicamente al día siguiente al inicio de la vigencia de la convocatoria en el Periódico Oficial. El plazo para presentar solicitudes vencerá a las veinticuatro horas del día de referencia. Fenecido dicho plazo no se admitirá solicitud alguna.
+
+La solicitud se presentará ante la Secretaría del Ayuntamiento, quien la turnará oportunamente a éste, junto con la documentación que se le anexe, para que en una sola sesión extraordinaria, que se efectuará al día siguiente de la recepción, a la que convocará previamente, la examine y acuerde si procede o no el otorgamiento del registro solicitado.
+
+El acuerdo del Ayuntamiento no admitirá en su contra recurso alguno; y al día siguiente de efectuada la sesión a que se refiere el párrafo anterior, se comunicará, por oficio, a la fórmula solicitante y se hará público fijando una copia en los estrados de los edificios de los Ayuntamientos y en el exterior de las comisarías correspondientes.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 206.
+
+Para obtener el registro, los integrantes de una fórmula de candidatos deberán acreditar con la documentación pertinente, además de los requisitos mencionados en la fracción IV del artículo 204, que cuentan con el apoyo de cuando menos treinta de los ciudadanos vecinos de la respectiva demarcación de la Comisaría Municipal, a través de las firmas correspondientes en la solicitud respectiva; cantidad que, atendiendo a la densidad de tales electores, el Ayuntamiento en la convocatoria podrá determinar que sea mayor.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 207.
+
+En la elección de los Comisarios Municipales los candidatos se registrarán y competirán en forma independiente a cualquiera filiación o corriente partidista.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 208.
+
+Los integrantes de las fórmulas, con registro otorgado, sólo podrán realizar las campañas de promoción de sus candidaturas dentro de los tres días anteriores al de la votación. Fuera de ese término, ningún candidato podrá efectuar actividad alguna de propaganda, so pena de cancelación por el Ayuntamiento del registro de la fórmula en que participe, previa comprobación de los hechos pertinentes.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 209.
+
+Las actividades de campaña únicamente podrán consistir en celebración de mítines, visitas domiciliarias y reuniones de trabajo. La propaganda electoral permitida será la que se efectúe mediante equipos de sonido, medios masivos de comunicación, mantas y volantes impresos, quedando excluida la pintura de bardas, albarradas, muros y paredes o la propaganda de cualquier otro tipo.
+
+La violación de este precepto ameritará también la cancelación del registro.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 210.
+
+La jornada electoral tendrá lugar el penúltimo domingo de Octubre del año de la elección.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 211.
+
+La responsabilidad de la jornada electoral corresponderá a las Juntas Municipales cuando las Comisarías se ubiquen dentro de su Sección, en caso de no ser así la responsabilidad estará a cargo del Ayuntamiento.
+
+En consecuencia, la dotación de los correspondientes material y documentación electorales, equipo de oficina y de transporte, y cualquiera otro recurso de índole material, económica o de apoyo técnico que requieran los funcionarios que intervengan en el proceso electoral será por cuenta de quien en el caso específico sea responsable de la jornada electoral.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 212.
+
+La recepción de la votación para la elección de Comisarios estará a cargo de la o las mesas receptoras de votos, cuyas directivas estarán integradas por un presidente, que lo será el representante del Ayuntamiento o de la Junta Municipal, un secretario y dos escrutadores, por cada mesa.
+
+El representante del Ayuntamiento será designado libremente a propuesta del presidente del cuerpo colegiado, en la sesión a que se hace referencia en el siguiente párrafo. La Junta nombrará a su representante en la misma forma, en sesión extraordinaria que para ese solo efecto celebre tres días antes de la fecha en que sesione el Ayuntamiento, a fin de que con oportunidad pueda comunicarle a aquél la o las designaciones que haga. Por cada representante propietario se designará a un suplente.
+
+Cinco días antes de la elección, el Ayuntamiento, en sesión de cabildo determinará, entre otros requisitos o datos, el número y ubicación de las mesas receptoras de votación, así como el horario a que se sujetará la elección en cada una de ellas y procederá a insacular del padrón de electores registrados en cada Comisaría Municipal a quienes fungirán como secretarios y escrutadores, propietarios y suplentes, de dichas mesas receptoras.
+
+Hecha la insaculación, dentro de las cuarenta y ocho horas siguientes a la misma, el Ayuntamiento procederá a comunicarla a los elegidos mediante oficio que les gire al efecto.
+
+Los anteriores acuerdos se harán de conocimiento general a través de impresos que se fijarán en el exterior de las comisarías, dentro del mismo lapso de cuarenta y ocho horas.
+
+Los integrantes de las fórmulas, si lo desean, en sus escritos de solicitud de registro, podrán designar persona conocida y de arraigo en la demarcación comisarial para que los represente en cada una de la o las mesas receptoras de votación. El Ayuntamiento, en la sesión de insaculación, aprobará la o las designaciones si la persona o personas propuestas reúnen los requisitos requeridos, caso contrario las desechará de plano. No se admitirá por ningún motivo designación alguna hecha con posterioridad a la solicitud de registro, ni aun en el caso de que el Ayuntamiento hubiere desaprobado la designación. La aceptación o rechazo de representantes de fórmulas se comunicará a éstas, por oficio, dentro de las cuarenta y ocho horas siguientes a la adopción del respectivo acuerdo de cabildo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 213.
+
+La documentación electoral que se utilizará en las elecciones de Comisarios Municipales consistirá exclusivamente en actas de instalación y cierre de la mesa receptora de votos, actas de escrutinio y cómputo de boletas electorales.
+
+Las actas y boletas guardarán, en lo conducente, un formato similar a las que se utilizan para la elección de diputados locales, con la salvedad de que en el sitio que en aquéllas ocupan los logotipos de los partidos se pondrán círculos que tendrán un color por cada fórmula para facilitar su identificación por quienes no sepan leer.
+
+El color se asignará por el Ayuntamiento en la misma sesión en que se otorgue el registro a la fórmula y se hará del conocimiento de ésta para que pueda utilizarlo en su material de propaganda.
+
+A la directiva de cada una de las mesas receptoras se le entregará, en original y tantas copias como fueren necesarias, un juego de formatos de acta de instalación y cierre y de acta de escrutinio y cómputo; igualmente se le entregarán tantos formatos de boletas como electores aparezcan inscritos en el correspondiente padrón y, previendo la asistencia de electores omitidos involuntariamente del listado, al anterior número de boletas se añadirá un excedente del diez por ciento.
+
+El material electoral consistirá en urnas transparentes, mamparas para proteger el secreto del voto, tinta indeleble y demás que el Ayuntamiento determine mediante el respectivo acuerdo de cabildo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 214.
+
+El día de la elección, en el local en que tenga su sede la oficina del Comisario Municipal, y en los que establezca el respectivo acuerdo de cabildo, en la hora que él mismo haya señalado, el representante del Ayuntamiento o de la Junta Municipal procederá a instalar la mesa receptora de votación que le haya tocado presidir.
+
+Si alguno de los miembros propietarios de la directiva no se encontrare presente será llamado de inmediato su suplente. En caso de que el suplente no pudiere o rehusare comparecer al cumplimiento de su función, los miembros presentes de la directiva elegirán, a propuesta del presidente, de entre los asistentes a votar que se encuentren en los primeros lugares de la cola, a quien deba sustituirlo.
+
+Antes de procederse a la recepción de la votación, la directiva contará el número de boletas que obren en su poder, tomándose nota de ello en el acta, con la finalidad de que al cerrarse la votación, previo el conteo de las boletas sobrantes y de las depositadas en la urna, se constate que la suma de estas dos últimas, de la que también se tomará nota en acta, es igual al número de las boletas con las que se inició la jornada.
+
+De la instalación de la mesa se levantará acta, la cual será suscrita por todos los integrantes de la directiva y, si lo solicitaren al presidente de la mesa, los representantes de las fórmulas.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 215.
+
+El procedimiento para votar será el siguiente:
+
+a) El elector se identificará ante el presidente de la mesa con su respectiva credencial para votar con fotografía;
+
+b) El presidente de la mesa leerá en voz alta el nombre del elector para que el secretario lo localice en el padrón y anote en el mismo, con un sello, la palabra "votó". Si el elector no apareciere incluido en el padrón, y justificare su no inclusión, el presidente ordenará al secretario que lo registre en una lista adicional, tomando los datos necesarios de la credencial exhibida;
+
+c) Hecho lo anterior el presidente le entregará un formato impreso de boleta electoral, en la que el elector, de manera secreta, hará constar su voto, cruzando con una equis el recuadro en el que se contengan los nombres de los candidatos que integren la fórmula de su preferencia y el círculo con el color que identifique dicha fórmula;
+
+d) Acto seguido el elector depositará la boleta en la urna transparente que al efecto se haya colocado en la mesa de recepción; y
+
+e) Depositada la boleta, el presidente aplicará tinta indeleble en uno de los pulgares del elector, preferentemente el de la mano derecha, y le devolverá la credencial exhibida.
+
+Para efectos de lo previsto en la segunda parte del inciso b), se reitera, la mesa de recepción contará con un diez por ciento extra de boletas, sobre el número de electores que aparezcan consignados en el padrón.
+
+El presidente de la mesa cuidará el respeto al secreto del voto, estando facultado para requerir el auxilio de la fuerza pública para desalojar del lugar de la votación a todo aquél que pretenda perturbar el orden y a ponerlo a disposición del Ministerio Público, formulando oportunamente la correspondiente denuncia, si el hecho resulta presuntamente delictivo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 216.
+
+Las mesas receptoras de votación permanecerán abiertas por espacio de cinco horas, contadas a partir del momento en que dicha mesa quede instalada, en términos de la convocatoria respectiva; este plazo podrá ampliarse hasta diez horas, conforme a lo que se determine en la propia convocatoria.
+
+Si antes de concluir el plazo fijado ya hubiesen votado todos los ciudadanos que deban hacerlo en la mesa correspondiente, se procederá de inmediato a dar por terminada la recepción de votos.
+
+En todo caso, si concluido el plazo fijado para recepcionar la votación o habiendo votado ya todos los que deban hacerlo en la mesa correspondiente, aún hubieren electores formados en la cola no podrá procederse al cierre de la votación hasta en tanto estos últimos hayan votado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 217.
+
+Terminada la votación, la directiva de la mesa de recepción levantará la correspondiente acta de cierre de la votación, misma que firmarán todos los miembros de la directiva y, si lo solicitaren al presidente de la mesa, los representantes de las fórmulas. Acto seguido se procederá a hacer el cómputo de los votos recibidos, previa inutilización de las boletas sobrantes. Se tendrán por nulas las boletas depositadas en blanco o que tengan más de un recuadro o círculo cruzado.
+
+En las demarcaciones comisariales en que se instale más de una mesa receptora de votos, corresponderá al Ayuntamiento hacer la suma global de los resultados de las actas de escrutinio y cómputo de esas mesas, para obtener el resultado total de la elección. Ese procedimiento tendrá lugar en la sesión en que se acuerde el otorgamiento de las constancias de mayoría y se hará constar en el acta respectiva.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 218.
+
+Hecho el cómputo se procederá a levantar el acta de escrutinio y cómputo, la cual será signada por todos los miembros de la directiva y, si lo solicitaren al presidente de la mesa, los representantes de las fórmulas, y a formar el paquete electoral, para su remisión al Ayuntamiento.
+
+Luego el presidente de la mesa, en unión de los demás miembros de la directiva, hará de conocimiento público los resultados de la votación, fijando en el exterior del local el correspondiente aviso.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 219.
+
+Con los originales de las actas de instalación y cierre, y de escrutinio y cómputo, así como con las boletas útiles y las que se hayan inutilizado, el presidente de la mesa procederá a formar un paquete que luego de ser debidamente cerrado, será firmado por los integrantes de la directiva y, si lo solicitaren al presidente de la mesa, los representantes de las fórmulas.
+
+El paquete será entregado personalmente por dicho presidente al Ayuntamiento. El presidente conservará una copia de dichas actas y, de serle solicitada, dará copia de ellas a los representantes de las fórmulas de candidatos.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 220.
+
+En caso de existir inconformidad con los resultados del escrutinio, la fórmula inconforme podrá acudir por escrito, dentro de las veinticuatro horas siguientes a la de la conclusión del cómputo, ante el respectivo Ayuntamiento, haciendo valer sus motivos de inconformidad. La inconformidad será estudiada y resuelta en sesión de cabildo dentro de las veinticuatro horas siguientes a su presentación. La resolución que se emita al respecto no admitirá recurso alguno.
+
+Las inconformidades sólo podrán versar sobre hechos, debidamente documentados, que sean fehacientes para tener por acreditado que alguno de los integrantes de la fórmula o ambos:
+
+I.- No reúnen los requisitos señalados en la fracción IV del artículo 204;
+
+II.- Incurrieron en infracción de lo dispuesto por los artículos 208 y/o 209; o
+
+III.- Propiciaron la alteración del orden durante la jornada electoral.
+
+De quedar debidamente acreditado alguno de los anteriores supuestos la inconformidad se resolverá dando por cancelado el registro otorgado, dejando sin efectos la votación emitida en su favor. En este caso el triunfo se otorgará a la fórmula que haya obtenido el porcentaje de votos más alto entre las restantes fórmulas que compitieron, siempre y cuando entre dicho porcentaje y el que a su favor hubiese tenido la fórmula cuyo registro quedó cancelado no medie una diferencia mayor al diez por ciento.
+
+Si la diferencia porcentual entre ambas fórmulas fuese mayor al diez por ciento, la elección en lo general será declarada nula y dentro de los quince días siguientes a la fecha de la misma se procederá a realizar una nueva elección, en la cual los integrantes de la fórmula cuyo registro quedó anulado no podrán ser candidatos. Los términos y plazos que en este capítulo se fijan serán adecuados en lo conducente y determinados por el Ayuntamiento en la convocatoria y demás acuerdos que oportunamente al efecto expida.
+
+En caso de la anulación general de la elección, el encargo del comisario saliente quedará prorrogado hasta el día en que haga entrega al comisario propietario que resultare electo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 221.
+
+Transcurridos los plazos que se señalan en el artículo anterior, el Ayuntamiento procederá a extender las constancias de mayoría a las fórmulas que hayan resultado triunfantes en la justa electoral.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 222.
+
+El día 1 de Noviembre del año de la elección, a las nueve horas, ante el funcionario que al efecto haya sido designado por el Ayuntamiento o Junta Municipal para representarlo, los Comisarios electos rendirán la protesta de ley y de inmediato asumirán el ejercicio de sus cargos haciéndoles entrega formal de la oficina en términos de ley los Comisarios salientes.
 
 T R A N S I T O R I O S
 
@@ -2062,3 +2640,17 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 27 DE SEPTIEMBRE DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1994.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente Decreto.
+
+Tercero.- Las elecciones de los Comisarios Municipales que fungirán, por esta única ocasión, en el período comprendo del 1 de Febrero de 1995 al 31 de Octubre de 1997, tendrán lugar en el mes de enero del año de 1995 y quienes resulten electos rendirán protesta el día 1 de febrero del mismo año.
+
+Cuarto.- Por esta única ocasión se prorroga hasta el 31 de enero de 1995 el mandato que por elección popular obtuvieron los comisarios municipales electos en el mes de noviembre del año de 1991, con salvedad de lo que se dispone en el último párrafo del artículo 220 si se diere el caso.
+
+Quinto.- Entre tanto los ayuntamientos y las juntas municipales elaboran sus propios padrones electorales para las elecciones a que este decreto se contrae, así como sus credenciales para votar, quedan facultados para utilizar los padrones utilizados por el consejo electoral del estado en las últimas elecciones generales y en la entidad y para aceptar la credencial para votar con fotografía expedida por el instituto federal electoral.
+
+Sexto.- Para efectos de lo dispuesto en el artículo anterior se faculta a los ayuntamientos y juntas municipales para celebrar con el consejo electoral del estado los convenios de colaboración y apoyo que considere necesarios.
