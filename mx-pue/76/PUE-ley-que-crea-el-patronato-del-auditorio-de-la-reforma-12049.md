@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-patronato-del-auditorio-de-la-reforma-12049"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-19"
-last_updated: "1977-08-19"
+last_updated: "2004-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY QUE CREA EL PATRONATO DEL AUDITORIO DE LA REFORMA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DEL H. CONGRESO DEL ESTADO, PUBLICADO EN EL P.O. DEL 3 DE DICIEMBRE DE 2004, SE ABROGA LA PRESENTE LEY.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla el viernes 19 de agosto de 1977.
 
@@ -150,3 +152,19 @@ TRANSITORIO.- Esta Ley entrará en vigor al día siguiente de su publicación en
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Puebla de Zaragoza a los 18 días del mes de Agosto de 1977.- Lic. Carlos J. Arruti Ramírez, D.P.- Miguel Becerra Contreras, D.S.- Celestino del Río Solano, D.S.- Rúbricas.
 
 Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los dieciocho días del mes de agosto de mil novecientos setenta y siete.- El Gobernador Constitucional del Estado, Dr. Alfredo Toxqui Fernández de Lara.- Rúbrica.- El Secretario General de Gobierno, Lic. Carlos Trujillo Pérez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley que crea el Patronato del Auditorio de la Reforma, publicada en el Periódico Oficial del Estado de fecha diecinueve de agosto de mil novecientos setenta y siete.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
