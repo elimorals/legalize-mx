@@ -4,7 +4,7 @@ identifier: "VER-ley-del-notariado-6779"
 country: "mx"
 rank: "ley"
 publication_date: "1965-06-01"
-last_updated: "1988-04-05"
+last_updated: "1992-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL NOTARIADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE ABRIL DE 1988.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE ABRIL DE 1992.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 1 de junio de 1965.
 
@@ -57,11 +57,13 @@ Los Notarios actualmente en ejercicio, así como los que fueren nombrados confor
 
 El conjunto de Notarios de la Entidad constituirá el Colegio de Notarios del Estado, el cual desempeñará las funciones que esta Ley le asigna.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 5°.
 
-Habrá en la Capital del Estado un Departamento de Inspección y Archivo General de Notarías, que dependerá de la Secretaría de Gobierno y que estará a cargo de un Licenciado en Derecho, especialista en la materia, nombrado y removido libremente por el Ejecutivo de la Entidad y que se denominará: "Jefe del Departamento de Inspección y Archivo General de Notarías".
+La Inspección y Archivo General de Notarías, se encomienda a la Secretaría General de Gobierno y se ejercerá por conducto de un Departamento, cuya organización y atribuciones serán en términos de esta Ley, la Ley Orgánica de la Administración Pública y el Reglamento Interior de la Secretaría General de Gobierno del Estado.
+
+El Departamento de Inspección y Archivo General de Notarías, estará a cargo de un licenciado en Derecho, especialista en la materia, nombrado y removido libremente por el Ejecutivo.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1971)</small>
 
@@ -71,13 +73,19 @@ Son atribuciones del Departamento de Inspección y Archivo General de Notarías:
 
 I.- Autorizar los libros de Protocolo.
 
-II.- Revisar los libros de Protocolo; verificar el cumplimiento de las Leyes; certificar la razón de clausura e informar de ello a la Secretaría de Gobierno.
+> <small>(REFORMADA, G.O. 4 DE ABRIL DE 1992)</small>
 
-III.- Practicar las inspecciones y visitas a las Notarías, ordenadas por el Ejecutivo del Estado o por la Secretaría de Gobierno.
+II.- Revisar los libros de Protocolo, verificar el cumplimiento de las Leyes, certificar la razón de cierre e informar de ello a la Secretaría General de Gobierno.
+
+> <small>(REFORMADA, G.O. 4 DE ABRIL DE 1992)</small>
+
+III.- Practicar las inspecciones y visitas a las Notarías, ordenadas por el Ejecutivo del Estado o por la Secretaría General de Gobierno.
 
 IV.- Desahogar todas las consultas formuladas, relacionadas con la función notarial.
 
-V.- Vigilar que los Notarios cumplan la Ley en ejercicio de sus funciones y comunicar a la Secretaría de Gobierno cualquier irregularidad que notare.
+> <small>(REFORMADA, G.O. 4 DE ABRIL DE 1992)</small>
+
+V.- Vigilar que los Notarios cumplan la Ley en ejercicio de sus funciones y comunicar a la Secretaría General de Gobierno cualquier irregularidad que notare.
 
 VI.- Recoger el Protocolo y el Archivo de las Notarías que por mandamiento del Ejecutivo de la Entidad sean clausuradas.
 
@@ -115,9 +123,11 @@ La Dirección del Notariado queda a cargo del Ejecutivo del Estado.
 
 Las demarcaciones notariales corresponderán a las de los Distritos Judiciales.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL 1992)</small>
+
 ###### ARTICULO 9°.
 
-La Oficina de los Notarios se denominará "Notaría Pública" y llevará el número que le corresponda en cada demarcación notarial. Estará abierta al público por lo menos siete horas diarias y en lugar visible ostentará un letrero con el nombre y apellidos del Notario y el número de la Notaría.
+La Oficina de los Notarios se denominará "Notaría Pública" y llevará el número que le corresponda en cada demarcación notarial. Estará abierta al público por lo menos siete horas diarias los días hábiles; en todo caso, la Notaría deberá permanecer abierta en las fechas y en los horarios en que, por disponerlo la Ley, el Notario debe prestar sus servicios. En lugar visible, ostentará un letrero con el nombre y apellidos del Notario y el número de la Notaría.
 
 ###### ARTICULO 10.
 
@@ -171,6 +181,10 @@ Hecho por el Departamento de Inspección y Archivo General de Notarías el estud
 
 El examen se efectuará en la localidad que determine el Colegio de Notarios. El Jurado se compondrá de cinco miembros que serán el representante que designe el Ejecutivo del Estado, quien tendrá el carácter de Presidente; el Presidente del H. Tribunal Superior de Justicia del Estado; el Director de la Facultad de Derecho de la Universidad Veracruzana; el Presidente del Colegio de Notarios y un Vocal nombrado por el propio Colegio, quien actuará como secretario.
 
+> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
+
+El Presidente del Tribunal Superior de Justicia, el Director de la Facultad de Derecho de la Universidad Veracruzana y el Presidente del Colegio de Notarios, podrán designar quien los sustituya en caso de que no puedan asistir al examen.
+
 ###### ARTICULO 19.
 
 Consistirá el examen en una prueba práctica que será la redacción de un instrumento, cuyo tema se sorteará de veinte propuestos, sellados y colocados en sobres cerrados, por el Colegio de Notarios. Cada uno de los miembros del Jurado podrá interrogar al sustentante con relación al tema de que se trate.
@@ -179,11 +193,11 @@ Consistirá el examen en una prueba práctica que será la redacción de un inst
 
 El Colegio de Notarios cuidará de tener seleccionados por lo menos veinte temas para sortear el que haya de ser presentado a los examinados; estos temas serán discutidos y aprobados para su selección por el Consejo Directivo, de entre los que presenten los componentes del Colegio. Aquellos temas que hayan sido motivo de examen o que carezcan de actualidad o de interés a juicio del Consejo Directivo, serán eliminados y no podrán presentarse dentro de los que sirvan para nuevos exámenes.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 21.
 
-Recibido del Ejecutivo del Estado el acuerdo para algún examen, el Presidente del Colegio convocará al Consejo Directivo y citará al Candidato para que en su presencia se sortee (sic) el tema, después de lo cual, se procederá a nombrar un Notario que integre el Jurado y dos Notarios Públicos para que concurran al examen como suplentes de los Jurados que no asistieren o estuvieren impedidos. Los designados podrán excusarse si tuvieren algún impedimento.
+Recibido del Ejecutivo del Estado el Acuerdo para algún examen, el Presidente del Colegio Convocará al Consejo Directivo y citará al candidato para que en su presencia se sortee (sic) el tema, después de lo cual, se procederá a nombrar un Notario que integre el Jurado y los Notarios Públicos necesarios para que concurran al examen como suplentes de los Jurados que no asistieren o estuvieren impedidos. Los designados podrán excusarse si tuvieren algún impedimento.
 
 ###### ARTICULO 22.
 
@@ -269,7 +283,9 @@ VI.- Ser vecino del Estado.
 
 VII.- Ser Aspirante al ejercicio del Notariado.
 
-VIII.- No haber sido condenado en proceso penal por delito intencional e infamante.
+> <small>(REFORMADA, G.O. 4 DE ABRIL DE 1992)</small>
+
+VIII.- No haber sido condenado por delito cometido con dolo.
 
 IX.- No haber sido separado del ejercicio del Notariado dentro de la República, con causa justificada.
 
@@ -283,19 +299,21 @@ los (sic) requisitos que fijan las fracciones I y II del artículo anterior se c
 
 Al ser notificado el Presidente del Colegio de Notarios para la recepción de la información testimonial a que se refiere el artículo anterior, convocará al Consejo Directivo para que sus miembros manifiesten si están conformes con la pretensión del promovente o si conocen a ciencia cierta alguna circunstancia que la contradiga, en el concepto de que estarán obligados a suministrar al Consejo Directivo cuantos datos tengan sobre el particular. El Colegio acreditará el Delegado correspondiente y en caso de que hubiere oposición fundada de algún Consejero, acordará las preguntas que deben hacerse a los testigos y proporcionará al Delegado los elementos de prueba que acrediten la objeción, para que los haga valer en el procedimiento.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 31 DE AGOSTO DE 1974)</small>
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 40.
 
-Cuando estuviere vacante una Notaría o cuando fuera creada por el Ejecutivo del Estado, a solicitud del Colegio de Notarios, la Secretaría de Gobierno publicará un anuncio por tres veces consecutivas en la "Gaceta Oficial" del Estado, convocando a los Aspirantes al Ejercicio del Notariado que pretendan obtener por Oposición el Nombramiento de Notario; el mismo anuncio se publicará también por tres veces consecutivas en el periódico de más circulación del Estado. En el plazo de 30 días contados a partir de la última publicación, los pretendientes presentarán por duplicado al Ejecutivo del Estado su solicitud con la documentación que acredita los particulares del artículo 37. En las solicitudes se anotará la fecha y hora de su presentación. Sólo se aprobarán las que satisfagan los requisitos anotados y las que fueren aprobadas se turnarán al Colegio de Notarios enviándole un tanto de ellas y de los documentos anexos.
+Cuando estuviere vacante una Notaría o cuando fuera creada por el Ejecutivo del Estado, a solicitud del Colegio de Notarios, la Secretaría General de Gobierno publicará un anuncio por tres veces consecutivas en la 'Gaceta Oficial' del Estado, convocando a los aspirantes al ejercicio del Notariado que pretendan obtener por oposición el Nombramiento de Notario; el mismo anuncio se publicará también por tres veces consecutivas en el periódico de más circulación del Estado. En el plazo de treinta días contados a partir de la última publicación, los pretendientes presentarán por duplicado al Ejecutivo del Estado su solicitud con la documentación que acredite los particulares del artículo 37. En las solicitudes se anotará la fecha y hora de su presentación. Sólo se aprobarán las que satisfagan los requisitos anotados y las que fueren aprobadas se turnarán al Colegio de Notarios enviándole un tanto de ellas y de los documentos anexos.
 
 ###### ARTICULO 41.
 
 El Colegio de Notarios del Estado señalará día y hora para la celebración de los exámenes de oposición. Este señalamiento lo dará a conocer el Colegio a los concursantes, cuando menos con quince días de anticipación, por medio de oficio enviado por correo certificado con acuse de recibo a la dirección que al efecto hubieren designado en su solicitud.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 42.
 
-El Jurado se compondrá de cinco miembros que serán el representante que designe del Ejecutivo del Estado, quien tendrá el carácter de Presidente; el Presidente del H. Tribunal Superior de Justicia del Estado; el Director de la Facultad de Derecho de la Universidad Veracruzana; el Presidente del Colegio de Notarios y un Vocal nombrado por el propio Colegio, quien actuará como Secretario.
+El jurado se integrará de conformidad con lo dispuesto por los artículos 18 y 21 de esta Ley.
 
 ###### ARTICULO 43.
 
@@ -311,9 +329,15 @@ La prueba teórica tendrá lugar en el local que señale el Colegio de Notarios 
 
 Se procederá al examen de los candidatos por el orden de presentación de sus instancias. El que por cualquier motivo no concurriese a la hora señalada, perderá su turno y será el último. Si tampoco se presentare al llegar su nuevo turno, se le tendrá por desistido; pero si acreditare debidamente hallarse enfermo u otro motivo justificado, a juicio del Jurado, podrá concedérsele un breve plazo improrrogable.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 46.
 
-Una vez concluído el examen teórico, el Secretario dará lectura al trabajo práctico del sustentante. En seguida el Jurado, a puerta cerrada y en escrutinio secreto, procederá a la calificación del sustentante. Los Sinodales individualmente calificarán cada una de las pruebas con notas del 1 al 10 y las calificaciones obtenidas se promediarán para determinar las que en definitiva correspondan y las cuales se darán a conocer desde luego al interesado.
+Una vez concluido el examen teórico, el Secretario dará lectura al trabajo práctico del sustentante. En seguida el Jurado, a puerta cerrada y en escrutinio secreto, procederá a la calificación del sustentante. Los sinodales individualmente calificarán cada una de las pruebas con notas del cero al cien y las calificaciones obtenidas se promediarán para determinar las que en definitiva correspondan y las cuales se darán a conocer desde luego al interesado.
+
+El sustentante que no obtenga una calificación mínima de setenta puntos, se considerará reprobado y perderá el derecho de volver a examinarse por el lapso de un año, contado desde la fecha de examen; incluyendo aquellos donde ya haya solicitado su participación.
+
+Si ningún sustentante resulta aprobado, se declarará desierto el examen y nuevamente se convocará.
 
 ###### ARTICULO 47.
 
@@ -331,11 +355,17 @@ Cumplidos los requisitos señalados en los artículos anteriores, el Gobernador 
 
 Cuando no hubiere oposición por no haberse presentado más que una sola solicitud dentro del término señalado en el artículo 40, el Gobernador del Estado podrá expedir el nombramiento en favor del solicitante, previa opinión del Colegio de Notarios.
 
+> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
+
+Igual procedimiento se seguirá, cuando el día en que deba celebrase el examen de oposición, sólo se presenta un sustentante o presentándose varios, todos menos uno de ello, hayan perdido el derecho en términos del artículo 46 de esta Ley.
+
 ###### ARTICULO 51.
 
 Para que el Notario pueda ejercer sus funciones no basta que obtenga el nombramiento, debe, además:
 
-I.- Dar fianza por valor de veinte mil pesos.
+> <small>(REFORMADA, G.O. 4 DE ABRIL DE 1992)</small>
+
+I.- Dar fianza por el equivalente a doscientos días del salario mínimo general vigente en la capital del Estado, al día primero de enero de cada año.
 
 > <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1971)</small>
 
@@ -353,9 +383,11 @@ En vez de la fianza de que trata la fracción I del artículo anterior, es potes
 
 El Notario, en cualquier tiempo, puede sustituir una garantía por otra, según le convenga, con aviso al Ejecutivo del Estado.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 54.
 
-La fianza se otorgará ante la Secretaría de Gobierno por Compañía de Fianzas autorizada. La hipoteca y el depósito se constituirán ante la autoridad administrativa que designe el Ejecutivo o ante la autoridad judicial competente.
+La fianza se otorgará ante la Secretaría General de Gobierno por Compañía de Fianzas autorizada. La hipoteca y el depósito se constituirán ante la autoridad administrativa que designe el Ejecutivo.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1971)</small>
 
@@ -431,7 +463,9 @@ III.- Por el Juez de Primera Instancia de la Demarcación.
 
 Son causas de suspensión de un Notario en el ejercicio de sus funciones:
 
-I.- Sujeción a proceso en el que haya sido declarado formalmente preso por delito intencional, mientras no se pronuncie sentencia definitiva.
+> <small>(REFORMADA, G.O. 4 DE ABRIL DE 1992)</small>
+
+I.- Sujeción a proceso en el que haya sido declarado formalmente preso por delito cometido con dolo, mientras no se pronuncie sentencia definitiva.
 
 II.- Sanción administrativa impuesta por el Ejecutivo del Estado, por sí o a solicitud del Colegio de Notarios, por faltas comprobadas al Notario en ejercicio de sus funciones.
 
@@ -462,6 +496,10 @@ V.- Si no conservare viva la garantía que responda de su actuación.
 VI.- Si dentro de cada año natural en que ejerciere, otorgare menos de veinticuatro instrumentos, salvo que actúe por razón de su calidad de Juez de Primera Instancia.
 
 VII.- Por hechos supervenientes que le impidan el ejercicio de sus funciones.
+
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 1992)</small>
+
+VIII.- Haber sido condenado en sentencia ejecutoriada por delito cometido con dolo.
 
 ###### ARTICULO 71.
 
@@ -639,11 +677,11 @@ El Consejo Directivo funcionará en el lugar señalado como sede del Colegio de 
 
 ### Capítulo Octavo. INSPECCION DE LAS NOTARIAS
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 102.
 
-El Gobernador del Estado o el Secretario de Gobierno podrán en cualquier tiempo mandar practicar en las Notarías de la Entidad las inspecciones que juzguen pertinentes.
+El Gobernador del Estado o el Secretario General de Gobierno, podrán en cualquier tiempo mandar practicar en las Notarías de la Entidad las inspecciones que juzguen pertinentes.
 
 ###### ARTICULO 103.
 
@@ -721,7 +759,9 @@ IV.- Resolver consultas jurídicas.
 
 V.- Ser arbitrador o secretario en juicios arbitrales.
 
-VI.- Recibir informaciones de dominio sobre construcciones o mejoras de fincas rústicas o urbanas a solicitud de quien las hubiere realizado. En este caso se requerirá la declaración cuando menos de dos testigos idóneos a juicio del Notario.
+> <small>(REFORMADA, G.O. 4 DE ABRIL DE 1992)</small>
+
+VI.- Recibir y tramitar las informaciones testimoniales y diligencias de jurisdicción voluntaria que determine el Código de Procedimientos Civiles del Estado, así como, ejercer las funciones que los demás ordenamientos legales le asignen.
 
 ###### ARTICULO 110.
 
@@ -741,9 +781,11 @@ Se prohibe a los Notarios recibir o conservar dinero o documentos que represente
 
 El protocolo está constituído por los libros o volúmenes en los cuales el Notario asienta las escrituras y las actas y por el Apéndice en el que se glosan los documentos relacionados con aquéllos.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 114.
 
-El Notario podrá llevar simultáneamente varios libros de protocolo abiertos, pero sin exceder de diez. Si fueren más de dos, necesitará autorización de la Secretaría de Gobierno, quien oirá el parecer del Colegio de Notarios.
+El Notario podrá llevar simultáneamente varios libros de Protocolo abiertos, pero sin exceder de diez. Si fueren más de dos, necesitará autorización de la Secretaría General de Gobierno quien oirá la opinión del Consejo Directivo del Colegio de Notarios.
 
 ###### ARTICULO 115.
 
@@ -1025,13 +1067,15 @@ El testimonio será parcial cuando en él sólo se transcriba parte ya sea de la
 
 Al final de cada testimonio se hará constar su calidad de primero, segundo o ulterior número ordinal, el nombre del interesado a quien se expide, a qué título, el número de hojas del testimonio y la fecha de la expedición.
 
-Se salvarán las testaduras y entrerrenglonaduras de la manera prescrita para las escrituras. El testimonio será autorizado por el Notario con su firma y sello.
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
+El testimonio será autorizado por el Notario con su firma y sello y no deberá llevar; testaduras, entrerreglonaduras, enmendaduras, ni raspaduras.
+
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 158.
 
-Las hojas del testimonio tendrán las dimensiones que fija el artículo 115 para las del protocolo y contendrán cuarenta renglones como máximo.
-
-Cada hoja del testimonio llevará el sello y firma del Notariado.
+Cada hoja del testimonio llevará el sello y firma del Notario, las líneas de escritura serán de igual distancia unas de otras y contendrán cuarenta renglones como máximo.
 
 ###### ARTICULO 159.
 
@@ -1107,7 +1151,9 @@ El Ejecutivo del Estado, en su caso, castigará administrativamente a los Notari
 
 I.- Amonestación por oficio.
 
-II.- Multa de quinientos a diez mil pesos.
+> <small>(REFORMADA, G.O. 4 DE ABRIL DE 1992)</small>
+
+II.- Multa hasta por el equivalente a quinientos días del salario mínimo general vigente en la capital del Estado, en el momento en que se haya cometido la infracción.
 
 III.- Suspensión del cargo hasta por seis meses; y
 
@@ -1123,9 +1169,11 @@ El Ejecutivo del Estado designará un visitador que practique la investigación 
 
 Recibido el informe del Colegio, la autoridad que designe el Ejecutivo, oirá personalmente al Notario de que se trate, concediéndole el término de diez días para que aporte pruebas en su descargo, fenecido el cual, se dictará la resolución definitiva sin que haya lugar a ulterior recurso administrativo. La substanciación del procedimiento señalado, en ningún caso podrá exceder del término de un mes.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 169.
 
-La responsabilidad administrativa en que incurran los Notarios por violación a los preceptos de la presente Ley, la hará efectiva el Ejecutivo del Estado por conducto de la Secretaría de Gobierno.
+La responsabilidad administrativa en que incurran los Notarios por violación a los preceptos de la presente Ley, la hará efectiva el Ejecutivo del Estado por conducto de la Secretaría General de Gobierno.
 
 ###### ARTICULO 170.
 
@@ -1250,3 +1298,13 @@ A partir de la fecha en que el Ejecutivo del Estado expida el arancel para el co
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 4 DE ABRIL DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente ordenamiento entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a este ordenamiento.
