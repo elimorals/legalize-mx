@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-de-la-ley-de-educacion-preparatoria-del-estado-3832"
 country: "mx"
 rank: "reglamento"
 publication_date: "1943-05-27"
-last_updated: "1946-09-05"
+last_updated: "1947-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO DE LA LEY DE EDUCACION PREPARATORIA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 1947.
 
 Reglamento publicado en la Segunda Sección de Periódico Oficial del Estado de Campeche, el jueves 27 de mayo de 1943.
 
@@ -897,7 +897,7 @@ Si no obtuvieren nota aprobatoria en ellos o no los sustentaren, tendrán derech
 
 Los alumnos a que se contraen las fracciones I, II y III del artículo 81, sólo podrán sustentar exámenes extraordinarios en el segundo período de exámenes extraordinarios a que se refiere el artículo 80.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
 
 ###### Art. 85.
 
@@ -943,17 +943,23 @@ Se causarán en las escuelas preparatorias oficiales del Estado, las siguientes 
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
 
-I.- Por inscripción de alumnos, por asignaturas $ 0.50
+I.- Por inscripción de alumnos, por asignatura $0.50.
 
-II.- Por colegiatura mensualmente “5.00
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 1947)</small>
+
+II.- Por colegiatura, mensualmente $ 10.00
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 1947)</small>
 
 III.- Por cada examen extraordinario
 
 comprendido en lo dispuesto por las
 
-fracciones I, II y III del artículo 81 “18.00
+fracciones I, II y III del artículo 81 “30.00
 
-IV.- Por cada examen de revaloración “18.00
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 1947)</small>
+
+IV.- Por cada examen de revaloración “20.00
 
 V.- Por los certificados de exámenes en los
 
@@ -1474,3 +1480,7 @@ Unico.- El presente decreto entrará en vigor a partir de la fecha de su publica
 P.O. 5 DE SEPTIEMBRE DE 1946.
 
 UNICO.- El presente decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 1947.
+
+UNICO.- El presente Decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
