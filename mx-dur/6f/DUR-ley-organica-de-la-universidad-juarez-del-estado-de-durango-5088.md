@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-universidad-juarez-del-estado-de-durango-508
 country: "mx"
 rank: "ley_organica"
 publication_date: "1962-06-07"
-last_updated: "1962-06-07"
+last_updated: "1974-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DE LA UNIVERSIDAD JUAREZ DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 1974.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 7 de junio de 1962.
 
@@ -39,7 +39,7 @@ CONSIDERANDO que el Artículo 9o. de dicha Ley previene, que en tanto se expide 
 
 CONSIDERANDO que dicha Ley Orgánica del Instituto Juárez resulta ya anacrónica y además inadecuada, por que no se adapta a las nuevas y crecientes necesidades de la Universidad, que ha registrado un considerable aumento en su población escolar, aparte de la creación de nuevas escuelas, cuyo funcionamiento exige una reglamentación adecuada y la determinación precisa de sus órganos y funciones.
 
-CONSIDERANDO que en cumplimiento a lo establecido en el citado Artículo 9o. de la Ley que creó la Universidad, se ha formulado el Proyecto de la Nueva Ley Orgánica, que se compone de 9 títulos, a saber: Personalidad y Fines, Estructura, del Gobierno de la Universidad, de los Consejos Técnicos Consultivos de las Escuelas, del Contralor y del Tesorero, del Patrimonio Universitario, de los Profesores, de los Allumnos (sic) y de las Responsabilidades y Sanciones; dicho Proyecto respeta la Ley que estableció la Universidad y en general contiene los principios que rigen las corrientes pedagógicas modernas, como la libertad de Cátedra y el respeto absoluto a la libre manifestación del pensamiento.
+CONSIDERANDO que en cumplimiento a lo establecido en el citado Artículo 9o. de la Ley que creó la Universidad, se ha formulado el Proyecto de la Nueva Ley Orgánica, que se compone de 9 títulos, a saber: Personalidad y Fines, Estructura, del Gobierno de la Universidad, de los Consejos Técnicos Consultivos de las Escuelas, del Contralor y del Tesorero, del Patrimonio Universitario, de los Profesores, de los Alumnos y de las Responsabilidades y Sanciones; dicho Proyecto respeta la Ley que estableció la Universidad y en general contiene los principios que rigen las corrientes pedagógicas modernas, como la libertad de Cátedra y el respeto absoluto a la libre manifestación del pensamiento.
 
 Con base en los anteriores considerandos la XLVII Legislatura del Estado, expide el siguiente:
 
@@ -181,7 +181,9 @@ a).- En ceremonias solemnes y los días de iniciación y clausura de cursos.
 
 b).- Cuando se presente algún problema grave que ponga en peligro la existencia o la unidad de la Universidad, en cuyos casos dictará las resoluciones que juzgue procedentes.
 
-c).- En ocasión del nombramiento de Rector, para el efecto de elegir a las personas que integren la terna que deberá presentarse al Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1974)</small>
+
+c).- Para la elección del Rector de la Universidad.
 
 d).- En ocasión del nombramiento de Directores de las Escuelas, los que deberán designarse de la terna que presente el Rector, oyendo a los Consejos Técnicos Consultivos.
 
@@ -285,9 +287,11 @@ XI.- Las demás que se deriven de esta Ley, de su Reglamento General y de los Re
 
 ### CAPITULO IV. DEL RECTOR
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1974)</small>
+
 ###### Artículo 25.
 
-El Rector es el Jefe Nato de la Universidad, su representante legal y Presidente del Consejo Universitario y de la Junta Directiva; durará en su cargo seis años y podrá figurar en nuevas ternas para periodos sucesivos.
+El Rector es el Jefe nato de la Universidad su Representante y Presidente del Consejo Universitario y de la Junta Directiva, durará en su cargo seis años y podrá ser reelecto.
 
 En los asuntos jurídicos, la representación de la Universidad podrá ser delegada en el apoderado o apoderados que designe la Rectoría.
 
@@ -309,9 +313,11 @@ V.- Gozar de estimación general como persona honorable y prudente.
 
 En caso de faltas del Rector que no excedan de tres meses, el Secretario General asumirá sus funciones, pero si la ausencia fuere mayor, se procederá a elegir un Rector Provisional.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1974)</small>
+
 ###### Artículo 28.
 
-El Rector será nombrado por el Ejecutivo del Estado, de la terna propuesta por el Consejo Universitario.
+El Rector será electo por el Consejo Universitario por mayoría de votos.
 
 ###### Artículo 29.
 
@@ -574,3 +580,9 @@ Por tanto mando se imprima, publique, circule y comunique a quiénes corresponda
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los treinta días del mes de abril del año de mil novecientos sesenta y dos.
 
 El Gobernador Constitucional del Estado, FRANCISCO GONZALEZ DE LA VEGA.- El Secretario General de Gobierno, LIC. RAFAEL HERNANDEZ PIEDRA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE OCTUBRE DE 1974.
+
+UNICO.- El presente Decreto entrará en vigor tres días después de la fecha de su publicación en el Periódico Oficial del Estado.
