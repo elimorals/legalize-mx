@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-10166"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-05-04"
-last_updated: "1995-05-04"
+last_updated: "1999-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO ELECTORAL DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 1999.
 
 Código publicado en la Sección Quinta del Periódico Oficial del Estado de Michoacán, el jueves 4 de mayo de 1995.
 
@@ -109,7 +109,7 @@ I. Podrán participar únicamente cuando hayan obtenido su acreditación ante la
 
 II. La solicitud de acreditación deberá señalar los datos de identificación personal y la manifestación expresa de que se conducirán conforme a los principios de imparcialidad, objetividad, certeza y legalidad, y sin vínculo alguno a partidos u organizaciones políticas;
 
-III. La acreditación se solicitará ante los Consejos General, Distrital o Municipal, en su caso, anexando fotocopia de su credencial para votar y dos fotografías, desde quince días después de iniciado el proceso y hasta quince días antes de la jornada electoral. La petición podrá hacerse en forma personal o a través de la organización civil a la que pertenezcan, y,
+III. La acreditación se solicitará ante los Consejos General, Distrital o Municipal, en su caso, anexando fotocopia de su credencial para votar y dos fotografías, desde quince días después de iniciado el proceso y hasta quince días antes de la jornada electoral. La petición podrá hacerse en forma personal o a través de la organización civil a la que pertenezcan; y,
 
 IV. El consejo resolverá respecto de las solicitudes presentadas.
 
@@ -245,7 +245,7 @@ Los partidos políticos son entidades de interés público, con personalidad jur
 
 ###### Artículo 22.
 
-Los partidos políticos tienen como finalidad promover la participación de los ciudadanos en la vida democrática y contribuir a la integración de la representación estatal y municipal. Como organizaciones de ciudadanos, hacer posible mediante sufragio, el acceso de éstos al ejercicio del poder público con base en programas, principios e ideas que postulan.
+Los partidos políticos tienen como finalidad promover la participación de los ciudadanos en la vida democrática y contribuir a la integración de la representación estatal y municipal. Como organizaciones de ciudadanos, hacer posible mediante sufragio, el acceso de éstos al ejercicio del poder público con basen en programas, principios e ideas que postulan.
 
 ###### Artículo 23.
 
@@ -393,7 +393,7 @@ I. Participar, conforme a lo dispuesto en la Constitución Política de los Esta
 
 II. Gozar de las garantías que el sistema jurídico les otorga para realizar sus actividades;
 
-III. Disfrutar de las prerrogativas y recibir el financiamiento público;
+III. Disfrutar de las prerrogativas y recibir el financiamiento público, en los términos de este Código;
 
 IV. Postular candidatos en las elecciones a las que se refiere el presente Código;
 
@@ -563,9 +563,9 @@ VII. Las empresas mexicanas de carácter mercantil.
 
 ###### Artículo 49.
 
-Los partidos políticos gozarán de libertad para realizar propaganda en favor de sus candidatos, programas y plataformas, respetando mutuamente su publicidad;
+Los partidos políticos gozarán de libertad para realizar propaganda en favor de sus candidatos, programas y plataformas, respetando mutuamente su publicidad.
 
-Las campañas electorales, tendrán un tope de gastos que fijará el Consejo General para cada una, con base en los estudios que el propio Consejo realice. Para ello, considerará los siguientes aspectos: el valor unitario del voto en la última elección ordinaria realizada; la duración de la campaña; el número de ciudadanos inscritos en el padrón electoral de los distritos o municipios según la elección correspondiente y el índice de inflación que reporte el Banco de México del mes de enero a la fecha en que se inicio la campaña electoral.
+Las campañas electorales, tendrán un tope de gastos que fijará el Consejo General para cada una, con base en los estudios que el propio Consejo realice. Para ello, considerará los siguientes aspectos: el valor unitario del voto en la última elección ordinaria realizada; la duración de la campaña; el número de ciudadanos inscritos en el padrón electoral de los distritos o municipios según la elección correspondiente y el índice de inflación que reporte el Banco de México del mes de enero a la fecha en que se inicio la campaña electoral;
 
 ###### Artículo 50.
 
@@ -735,7 +735,7 @@ Las elecciones de gobernador y diputados se harán con base en la división terr
 
 Distrito I.- Cuitzeo, Santa Ana Maya, Tarímbaro y por la parte norte de Morelia, considerando como límite con el segundo distrito, la carretera México-Nogales y las avenidas Madero y Acueducto. Cabecera; Morelia norte.
 
-Distrito II.- Acuitzio, Charo, Huiramba, Lagunillas, Madero y la parte sur de Morelia. Cabecera: Morelia sur.
+Distrito II.- Acuitzio, Charo, Huiramba, Lagunillas, Madero y la parte sur de Morelia, Cabecera: Morelia sur.
 
 Distrito III.- Coeneo, Erongarícuaro, Huaniqueo, Pátzcuaro, Quiroga, Salvador Escalante y Tzintzúnzan. Cabecera: Pátzcuaro.
 
@@ -763,7 +763,7 @@ Distrito XIV.- Cotija, Charapan, Cherán, Los Reyes, Nahuátzen, Paracho, Perib�
 
 Distrito XV.- Aporo, Contepec, Epitacio Huerta, Maravatío, Sénguio, Tlalpujahua y Tuxpan. Cabecera: Maravatío.
 
-Distrito XVI.- Aguililla, Aquila, Buenavista, Coahuayana, Coalcomán de Vázquez Pallares, Chinicuila, y Tepalcatepec. Cabecera: Coalcomán.
+Distrito XVI.- Aguililla, Aquila, Buenavista, Coahuayana, Coalcomán de Vázquez Pallares, Chinicuila y Tepalcatepec. Cabecera: Coalcomán
 
 Distrito XVII.- Arteaga, Lázaro Cárdenas, Tumbiscatio. Cabecera: Lázaro Cárdenas.
 
@@ -1097,6 +1097,10 @@ d) Si aún quedaran pendientes fórmulas de consejeros ciudadanos por designar, 
 
 e) Los consejeros ciudadanos, propietarios y suplentes durarán en su cargo hasta cuatro años, pudiendo ser ratificados;
 
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 1999)</small>
+
+Los consejeros ciudadanos continuarán en sus funciones aunque haya fenecido su período o el plazo para el que fueron nombrados, sin que ello implique ratificación en el cargo, mientras no sean designados quienes deban sustituirlos; y,
+
 IV. Un representante por partido político, que tendrá derecho a voz.
 
 ###### Artículo 112.
@@ -1242,6 +1246,10 @@ XI. Proveer lo necesario para la recepción y custodia de los paquetes de casill
 XII. Las demás que le confiera este Código, el Consejo General y otras disposiciones legales.
 
 El Presidente durará en su encargo cuatro años, debe cumplir los requisitos señalados en los incisos a), b), c), d), g), h) e i) del artículo ciento doce y además, no ser militante de partido alguno en los tres años inmediatos anteriores y no ser funcionario de la federación, el Estado o los municipios. Al cumplir el período estará inhabilitado para realizar función pública, en los siguientes dos años.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 1999)</small>
+
+El Presidente del Consejo General continuará en sus funciones aunque hay fenecido el período o el plazo para el que fue nombrado, sin que ello implique ratificación en el cargo, mientras no sea designado quien deba sustituirlo.
 
 ###### Artículo 116.
 
@@ -1981,9 +1989,9 @@ El Consejo General encargará a una institución académica o técnica de recono
 
 ###### Artículo 162.
 
-A las siete treinta horas del día de la elección, los integrantes de la mesa directiva de casilla, propietarios y suplentes, se presentarán al lugar de ubicación de la casilla, así como los representantes de los partidos políticos, quienes portarán la identificación que los acredite, con el propósito de verificar que existe la documentación y material electoral.
+A las siete treinta horas del día de la elección, los integrantes de la mesa directiva de casilla, propietarios y suplentes, se presentarán al lugar de ubicación de la casilla, así como los representantes de los partidos políticos, quienes portarán la identifiación que los acredite, con el propósito de verificar que existe la documentación y material electoral.
 
-A las ocho horas del día de la elección, los integrantes de la mesa directiva de casilla, propietarios o suplentes, procederán a la instalación, de la casilla en presencia de los representantes de partidos políticos que concurran, levantando el acta de instalación, en la que deberá asentarse que se abrieron las urnas en presencia de los funcionarios, representantes y electores asistentes y que se comprobó estaban vacías.
+A las ocho horas del día de la elección, los integrantes de la mesa directiva de casilla, propietarios o suplentes, procederán a la instalación de la casilla en presencia de los representantes de partidos políticos que concurrán, levantando el acta de instalación, en la que deberá asentarse que se abrieron las urnas en presencia de los funcionarios, representantes y electores asistentes y que se comprobó estaban vacías.
 
 A solicitud de un partido político, las boletas electorales podrán ser rubricadas o selladas por uno de los representantes partidistas ante la casilla designado por sorteo, quien podrá hacerlo por partes para no obstaculizar el desarrollo de la votación. La falta de rúbrica o sello en las boletas no será motivo para anular los sufragios recibidos.
 
@@ -2353,7 +2361,7 @@ b) Abrirá los paquetes que aparezcan sin alteración de acuerdo al orden numér
 
 c) Si los resultados de las actas no coinciden, o no existiere el acta de escrutinio y cómputo en el expediente de la casilla ni obrare en poder del Presidente del Consejo, se procederá a realizar nuevamente el escrutinio y cómputo de la casilla, levantándose el acta correspondiente. Los resultados se anotarán en la forma establecida para ello dejándose constancia en el acta circunstanciada correspondiente; de igual manera, se hará constar en dicha acta las objeciones que hubiese manifestado cualquiera de los representantes ante el Consejo, quedando a salvo sus derechos para impugnar ante el Tribunal Electoral del estado el cómputo de que se trate. En ningún caso se podrá interrumpir u obstaculizar la realización de los cómputos;
 
-d) Cuando existan errores o alteraciones evidentes en las actas, el Consejo Distrital podrá acordar realizar nuevamente el escrutinio y cómputo en los término (sic) señalados en la fracción anterior;
+d) Cuando existan errores o alteraciones evidentes en las actas, el Consejo Distrital podrá acordar realizar nuevamente el escrutinio y cómputo en los término señalados en la fracción anterior;
 
 e) A continuación se abrirán los paquetes con muestras de alteración y se realizarán según sea el caso, las operaciones señaladas en las fracciones anteriores, haciéndose constar lo procedente en el acta respectiva;
 
@@ -2484,6 +2492,10 @@ III. No desempeñar ni haber desempeñado en partido político, cargo de direcci
 ###### Artículo 204.
 
 Los magistrados serán designados para ejercer sus funciones por el término de cuatro años, pudiendo ser ratificados. Su retribución será equivalente a la de los magistrados del Supremo Tribunal de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 1999)</small>
+
+Los magistrados del Tribunal Electoral del Estado continuarán en sus funciones aunque haya fenecido su período o el plazo para el que fueron nombrados, sin que ello implique ratificación en el cargo, mientras no sean designados quienes deban sustituirlos.
 
 ###### Artículo 205.
 
@@ -2745,7 +2757,7 @@ Para los efectos de este Código, se consideran pruebas:
 
 I. Documentales públicas:
 
-a) Las actas oficiales de los escrutinios y cómputo de las mesas directivas de casilla, y las de cómputos realizados por los consejos electorales;
+a) Las actas oficiales de los escrutinios y cómputo de las mesas directivas de casilla, y las de cómputo, realizados por los consejos electorales;
 
 b) Las actas oficiales de cada elección, así como las originales autógrafas o las copias certificadas que deben constar en los expedientes de cada elección;
 
@@ -2999,7 +3011,7 @@ Los recursos de revisión deberán ser resueltos por el Consejo General a más t
 
 Cuando los recursos de revisión que se presenten cinco días antes de la elección no guarden relación con uno de inconformidad, se declarará la improcedencia del recurso y se ordenará su archivo.
 
-Los recursos de apelación serán resueltos por el Tribunal, dentro de los cinco días siguientes a aquél en que se admitan. Los recursos de inconformidad serán resueltos por el propio Tribunal, dentro de los diez días siguientes a su admisión, tratándose de la elección de diputados; dentro de los veinte días siguientes si se trata de la elección de Ayuntamientos y dentro de los treinta días siguientes si se trata de la elección de Gobernador.
+Los recursos de apelación serán resueltos por el Tribunal, dentro de los cinco días siguientes a aquél en que se admitan. Los recursos de inconformidad serán resueltos por el propio Tribunal, dentro de los diez días siguientes a su admisión, trarándose de la elección de diputados; dentro de los veinte días siguientes si se trata de la elección de Ayuntamientos y dentro de los treinta días siguientes si se trata de la elección de Gobernador.
 
 Los recursos de reconsideración serán resueltos por la Sala de Segunda Instancia, a más tardar tres días antes de la toma de posesión de las autoridades electas en el proceso correspondiente; o en su caso, de la constitución del Colegio Electoral.
 
@@ -3011,7 +3023,7 @@ I. La fecha, lugar y autoridad que la dicte;
 
 II. El resumen de los hechos o puntos de Derecho controvertidos;
 
-III. El examen y la valoración de las pruebas documentales ofrecidas, aportadas y admitidas, y en su caso, las ordenadas por el Tribunal Electoral;
+III. El examen y la valoración de las pruebas documentales ofrecidas, aportadas y admitidas y en su caso, las ordenadas por el Tribunal Electoral;
 
 IV. El análisis de los agravios expresados;
 
@@ -3274,3 +3286,11 @@ DIPUTADO PRESIDENTE.- CENOBIO CONTRERAS ESQUIVEL.- DIPUTADO SECRETARIO. PROFR. C
 En cumplimiento a lo dispuesto por la Fracción I del Artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 3 días del mes de mayo de 1995, mil novecientos noventa y cinco.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. AUSENCIO CHAVEZ HERNANDEZ.- EL SECRETARIO DE GOBIERNO.- LIC. J. JESUS REYNA GARCIA.- (FIRMADOS).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 20 DE MAYO DE 1999.
+
+###### ARTICULO UNICO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
