@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-municipal-del-estado-de-nayarit-11037"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-28"
-last_updated: "1994-07-09"
+last_updated: "1994-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1994.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 28 de diciembre de 1983.
 
@@ -51,11 +51,11 @@ La Hacienda Pública de los Municipios del Estado, para cumplir con los gastos y
 
 Son Leyes Fiscales del Municipio:
 
-I. La presente Ley de Hacienda.
+I. La presente Ley de Hacienda
 
-II. Las Leyes de Ingresos y Presupuesto de Egresos Municipales.
+II. Las Leyes de Ingresos y Presupuesto de Egresos Municipales
 
-III. Las que autoricen ingresos Extraordinarios
+III. Las que autoricen ingresos extraordinarios
 
 IV. Las que organicen los servicios administrativos necesarios para la recaudación, distribución y control de los ingresos y egresos.
 
@@ -67,13 +67,15 @@ La presente Ley establece las características generales que tendrán los ingres
 
 ###### ARTICULO 4o.
 
-Las Leyes de Ingresos Municipales establecerán anualmente los impuestos, derechos, productos, aprovechamientos y participaciones que deban recaudarse así como las tasas, cuotas o tarifas correspondientes. Sólo por Ley expresa podrá dedicarse el rendimiento de un impuesto o participación a un fin especial.
+Las Leyes de Ingresos Municipales establecerán anualmente los impuestos, derechos, productos, aprovechamientos y participaciones que deban recaudarse así como las tasas, cuotas o tarifas correspondientes.
+
+Sólo por Ley expresa podrá dedicarse el rendimiento de un impuesto o participación a un fin especial.
 
 ###### ARTICULO 5o.
 
 Para los efectos de esta Ley se tendrá como:
 
-I. Impuestos, las contribuciones establecidas en Ley, que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hechos previstas por la misma.
+I. Impuestos, las contribuciones establecidas en Ley, que deben pagar las personas físicas y morales que se encuentren en la situación jurídica a de hecho previstas por la misma.
 
 II. Derechos, las contraprestaciones establecidas por el poder público, conforme a la ley, en pago de un servicio.
 
@@ -81,7 +83,7 @@ III. Productos, los ingresos que percibe el Municipio por actividades que no cor
 
 IV. Participaciones, las cantidades que corresponden al Municipio en el rendimiento de la recaudación de determinados impuestos y aprovechamientos federales y estatales de conformidad con las leyes respectivas y de los convenios que se celebren sobre el particular.
 
-V. Aprovechamientos, los recargos, las multas y los demás ingresos de derecho público no clasificables como impuestos, derechos, productos o participaciones federales.
+V. Aprovechamientos, los recargos, les multas y los demás ingresos de derecho público no público como impuestos, derechos, productos a participaciones federales.
 
 ###### ARTICULO 6o.
 
@@ -93,13 +95,15 @@ Las declaraciones o avisos que haya obligación de presentar conforme a las disp
 
 Para hacer efectivo el cobro de las contribuciones Municipales, las Tesorerías podrán ejercer la facultad económica-coactiva rigiéndose para el efecto por las disposiciones que establece el Código fiscal del estado.
 
-###### ARTICULO 8o
+###### ARTICULO 8o.
 
 La ignorancia de las disposiciones fiscales no excusa su cumplimiento.
 
-###### ARTICULO 9o
+> <small>(REFORMADO, P. O. 29 DE JUNIO DE 1991)</small>
 
-La Interpretación de las leyes fiscales relativas a la Hacienda Municipal corresponde a la Legislatura del Estado o a la diputación permanente, en su caso.
+###### ARTICULO 9º.
+
+El impuesto sobre la Adquisición de Bienes Inmuebles se causa con la tasa del 8% sobre la base gravable que señala la Ley de Hacienda Municipal, de la cual se deducirá la cantidad equivalente a cinco veces el salario mínimo general anual vigente en el Estado en la fecha de la operación, siempre que se trate de vivienda. En los demás casos, se deducirá la cantidad equivalente a cuatro veces el salario mínimo general anual.
 
 ###### ARTICULO 10.
 
@@ -119,11 +123,11 @@ Los Reglamentos, Circulares, Acuerdos y demás disposiciones administrativos, en
 
 Son Autoridades Fiscales en los Municipios del Estado, las siguientes:
 
-I. El Ayuntamiento.
+I. El Ayuntamiento
 
-II. El Presidente Municipal.
+II. El Presidente Municipal
 
-III. El Tesorero Municipal.
+El Tesorero Municipal
 
 ###### ARTICULO 14.
 
@@ -155,9 +159,9 @@ V. La propiedad de predios donde se ubiquen plantas de beneficio y establecimien
 
 VI. La posesión de predios urbanos y rústicos en los siguientes casos:
 
-a) Cuando no exista propietario.
+a) Cuando no exista el propietario.
 
-b) Cuando se derive de contratos de promesa de venta, de venta de reserva de dominio y de promesa de venta o venta de certificados de participación inmobiliaria, de vivienda, de simple uso o cualquier otro similar que autorice la ocupación material del inmueble y que origine algún derecho posesorio, aún cuando los mencionados contratos certificados o títulos, se hayan celebrado u obtenido con motivo de operaciones de fideicomiso.
+b) Cuando se derive de contratos de promesa de venta, de venta con reserva de dominio y de promesa de venta o venta de certificados de participación inmobiliaria, de vivienda, de simple uso o cualquier otro similar que autorice la ocupación material del inmueble y que origine algún derecho posesorio, aún cuando los mencionados contratos certificados o títulos, se hayan celebrado u obtenido con motivo de operaciones de fideicomiso.
 
 c) Cuando por causas ajenas a la voluntad de los propietarios, éstos no se encuentren en posesión de los inmuebles.
 
@@ -167,7 +171,7 @@ VII. Las construcciones ubicadas en fundos legales y en zonas de urbanización e
 
 > <small>(ADICIONADA, P. O. 26 DE DICIEMBRE DE 1992)</small>
 
-VIII. La Pequeña Propiedad.
+VIII. La pequeña propiedad.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
 
@@ -201,9 +205,9 @@ VI. Con responsabilidad solidaria objetiva, los adquirentes por cualquier títul
 
 VII. Con responsabilidad solidaria:
 
-a) Los propietarios de predios que hubiesen promovido en venta o hubieren vendido con reserva de dominio, en el caso a que se refiere el inciso b) de la fracción VI del artículo 15.
+a) Los propietarios de predios que hubiesen prometido en venta o hubieren vendido con reserva de dominio, en el caso a que se refiere el inciso b) de la fracción VI del artículo 15.
 
-b) Los funcionarios, empleados y fedatarios públicos que autoricen indebidamente o sancionen algún trámite, mediante el cual se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes objeto de este impuesto sin que esté al corriente en el pago del mismo.
+b) Los funcionarios, empleados y fedatarios públicos que autoricen indebidamente o sancionen algún trámite, mediante el cual se adquiera, transmita, modifique o extinga el dominio la posesión de bienes objeto de este impuesto sin que esté al corriente en el pago del mismo.
 
 c) Las instituciones fiduciarias en los casos de la fracción III de este artículo.
 
@@ -231,7 +235,7 @@ II. El valor en que aparezcan registrados.
 
 III. El valor de la maquinaria y equipo en caso de plantas de beneficio y establecimientos metalúrgicos.
 
-IV. (DEROGADA, P. O. 26 DE DICIEMBRE DE 1992)
+IV.(DEROGADA, P. O. 26 DE DICIEMBRE DE 1992)
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1992)</small>
 
@@ -243,7 +247,7 @@ En el caso de la Fracción II del Artículo anterior la autoridad competente det
 
 ###### ARTICULO 20.
 
-Tratándose de terrenos destinados a cementerios el impuesto se causará sobre la superficie que no hubiese sido entregada para dedicarse a sepulturas. A este efecto durante el mes de Enero de cada año, los sujetos del impuesto manifestarán a la Tesorería Municipal, las superficies que hubieren entregado para sepulturas en año anterior, con objeto de que ésta dependencia determine la cuota del impuesto que habrá de pagarse en el año en que se haga la declaración y efectúe los ajustes que procedan respecto de lo pagado de más en el año anterior.
+Tratándose de terrenos destinados a cementerios el impuesto se causará sobre la superficie que no hubiese sido entregada para dedicarse a sepulturas. A este efecto durante el mes de Enero de cada año, los sujetos del impuesto manifestarán a la Tesorería Municipal, las superficies que hubieren entregado para sepulturas en el año anterior, con objeto de que ésta dependencia determine la cuota del impuesto que habrá de pagarse en el año en que se haga la declaración y efectúe los ajustes que procedan respecto de lo pagado de más en el año anterior.
 
 En los casos de construcciones destinadas especialmente a cementerios con el sistema de gaveta superpuesta el impuesto predial se causará de acuerdo con las siguientes bases:
 
@@ -255,7 +259,7 @@ En los casos de construcciones destinadas especialmente a cementerios con el sis
 
 4. A partir de la fecha en que queden vendidas todas las gavetas dejará de causarse el impuesto predial respecto de la tierra y construcciones que pasen en propiedad del Municipio según las concesiones respectivas.
 
-5. Cuando el propietario aumente el precio de venta de las gavetas sobre los precios iniciales, la autoridad competente, hará la revaluación correspondiente del inmueble aunque no hayan transcurrido los tres años a que se refiere el artículo 21 de esta ley.
+5.Cuando el propietario aumente el precio de venta de las gavetas sobre los precios iniciales, la autoridad competente, hará la revaluación correspondiente del inmueble aunque no haya transcurrido los tres años a que se refiere el artículo 21 de esta ley.
 
 #### SECCION CUARTA. DEL VALOR CATASTRAL
 
@@ -291,7 +295,7 @@ VIII. Cuando se haya cancelado una exención del impuesto predial o concesión d
 
 IX. Cuando las construcciones de un predio sean demolidas o hubieren quedado en ruinas parcial o totalmente por el transcurso del tiempo o por siniestro.
 
-Las causas de modificación de la base del impuesto que se señalan en las fracciones I y IX del presente artículo deberán ser notificadas por el contribuyente o por el responsable solidario a la Tesorería Municipal dentro de los quince días siguientes contados a partir de la fecha en que se haya producido la causa.
+Las causas de modificación de la base del impuesto que se señalan en las fracciones I a IX del presente artículo deberán ser notificadas por el contribuyente o por el responsable solidario a la Tesorería Municipal, dentro de los quince días siguientes contados a partir de la fecha en que se haya producido la causa.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1992)</small>
 
@@ -405,7 +409,7 @@ Para los efectos de este impuesto, se tomarán en cuenta las definiciones que so
 
 Se denominarán Predios Urbanos:
 
-I. Las casas, los edificios y demás construcciones existentes dentro del perímetro o fundo legal de las poblaciones, aun en el caso de que se dediquen en todo o en parte a un cultivo agrícola, quedando comprendidas las construcciones que se destinen a casa habitación aún cuando se encuentren fuera del perímetro o fundo legal.
+I. Las casa, los edificios, y demás construcciones existentes dentro del perímetro o fundo legal de las poblaciones, aun en el caso de que se dediquen en todo o en partes a un cultivo agrícola, quedando comprendidas las construcciones que se destinen a casa habitación aún cuando se encuentren fuera del perímetro o fundo legal.
 
 II. Los solares o sitios para edificar con construcciones o sin ellas estén o no cercados que se encuentren situados dentro del perímetro o fundo legal de las poblaciones.
 
@@ -439,7 +443,7 @@ III. Construcciones permanentes las que tienen carácter definitivo y las posibi
 
 IV. Construcciones provisionales las que revelan un uso transitorio: en los casos de duda: la autoridad competente, determinará si las construcciones son o no provisionales.
 
-V. Valor catastral es el que fije a cada predio la autoridad competente.
+V.Valor catastral es el que fije a cada predio la autoridad competente.
 
 ###### ARTICULO 39.
 
@@ -454,6 +458,10 @@ Los recibos de pago que expida la Tesorería Municipal, tratándose de impuesto 
 ###### ARTICULO 40.
 
 Están obligadas al pago del Impuesto sobre adquisición de Inmuebles establecido en este Capítulo, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el Estado de Nayarit; así como los derechos relacionados con los mismos, a que este Capítulo se refiere. "El impuesto se causará aplicando la tasa del 2% al valor del inmueble y conforme lo establezcan las leyes de Ingresos de los Municipios".
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
+El valor del inmueble podrá ser el valor de adquisición del mismo, disminuido con el valor que se tomó como base para calcular el impuesto a que se refiere este capítulo en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
 
 > <small>(REFORMADO, P. O. 29 DE JUNIO DE 1991)</small>
 
@@ -473,7 +481,7 @@ Para los efectos de este capítulo, se entiende por adquisición la que se deriv
 
 > <small>(REFORMADA, P. O. 29 DE JUNIO DE 1991)</small>
 
-I. Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges.
+I. Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges
 
 II. La compraventa en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad.
 
@@ -483,7 +491,7 @@ IV. La cesión de derechos del comprador o del futuro comprador en los casos de 
 
 V. Fusión de Sociedades.
 
-VI. La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones a sociedades civiles o mercantiles.
+VI. La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades a dividendos de asociaciones a sociedades civiles o mercantiles.
 
 VII. Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal.
 
@@ -493,7 +501,9 @@ IX. La cesión de derechos del heredero o legatario, cuando entre los bienes de 
 
 X. Enajenación a través del fideicomiso, en los términos del Código Fiscal de la Federación.
 
-XI. El arrendamiento financiero, en los términos del Código Fiscal de la Federación. En las permutas se considerarán que se efectúan dos adquisiciones.
+XI. El arrendamiento financiero, en los términos del Código Fiscal de la Federación.
+
+En las permutas se considerarán que se efectúan dos adquisiciones.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
 
@@ -519,7 +529,7 @@ IV. Al protocolizarse o inscribirse el reconocimiento judicial de la prescripci�
 
 V. En los contratos de compra - venta con reserva de dominio y de arrendamiento financiero, cuando se celebre el contrato respectivo.
 
-VI. En la promesa de adquirir se presumirá celebrado el contrato prometido cuando venza el plazo fijado en el contrato respectivo, y en ese momento será exigible el impuesto correspondiente, salvo que se pruebe con instrumento público, que el futuro adquirente cedió sus derechos.
+VI. En la promesa de adquirir se presumirá celebrada el contrato prometido cuando venza el plazo fijado en el contrato respectivo, y en ese momento será exigible el impuesto correspondiente, salvo que se pruebe con instrumento público, que el futuro adquirente cedió sus derechos.
 
 VII. En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en Registro Público para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las Leyes.
 
@@ -535,9 +545,9 @@ Cuando por el evalúo practicado, ordenado o tomado en consideración por la aut
 
 ###### ARTICULO 46.
 
-Para efectuar la deducción a que se refieren las Leyes de Ingresos de los Municipios del estado, se aplicará el salario mínimo correspondiente al año calendario en que se realice la adquisición en los términos del artículo 44 de ésta ley.
+Para efectuar la deducción a que se refieren las Leyes de Ingresos de los Municipios del Estado, se aplicará el salario mínimo correspondiente al año calendario en que se realice la adquisición en los términos del artículo 44 de ésta ley.
 
-En los casos que se señalan a continuación la deducción se aplicará conforme al salario mínimo correspondiente al año de calendario en que se celebre el contrato, aún cuando el pago del impuesto deba hacerse cuando se realice cualquiera de los supuestos a que se refiere el artículo 44 de esta ley.
+En los casos que se señalan a continuación la deducción se aplicará conforme el salario mínimo correspondiente al año de calendario en que se celebre el contrato, aún cuando el pago del impuesto debe hacerse cuando se realice cualquiera de los supuestos a que se refiere el artículo 44 de esta Ley.
 
 I. La promesa de adquirir en los términos de la fracción III del artículo 42 de esta Ley.
 
@@ -655,7 +665,7 @@ b) Gastos de Ejecución
 
 c) Subsidios, donaciones, herencias y legados
 
-d) Anticipos o indemnizaciones
+d) Anticipos a indemnizaciones
 
 e) Otros ingresos no especificados.
 
@@ -780,3 +790,9 @@ Envíese un ejemplar del Periódico Oficial a la Coordinación General con Entid
 P.O. 9 DE JULIO DE 1994
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE LEY NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NAYARIT.
+
+P.O. 24 DE DICIEMBRE DE 1994
+
+###### ARTICULO UNICO.
+
+El presente Decreto surtirá sus efectos legales a partir del día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
