@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-rehabilitacion-y-reintegracion-social-de-personas-6365"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-13"
-last_updated: "2000-02-04"
+last_updated: "2000-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE REHABILITACION Y REINTEGRACION SOCIAL DE PERSONAS CON PROBLEMAS DE DROGADICCION Y ALCOHOLISMO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 13 de octubre de 1995.
 
@@ -73,43 +73,73 @@ El Poder Ejecutivo del Estado apoyará el establecimiento de instituciones del s
 
 El Poder Ejecutivo del Estado por conducto del Instituto de Servicios de Salud Pública del Estado de Baja California, establecerá una Comisión Interdisciplinaria, integrada por un Presidente, un Secretario y los vocales necesarios, quienes serán preferentemente profesionales en medicina, psicología, trabajo social y educación o personas dedicadas a esta tarea, debiendo incluir a los representantes de las instituciones reconocidas en la entidad del sector social o privado ocupadas de la rehabilitación.
 
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2000)</small>
+
+El Titular del Poder Ejecutivo designará y removerá libremente al Presidente de esta Comisión y éste nombrará al Secretario.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
+
 Para la integración de la Comisión Interdisciplinaria, el Poder Ejecutivo del Estado cuidará que la representación social o privada no exceda de la mitad mas uno de los miembros de la Comisión.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
 
 La presente Comisión Interdisciplinaria se integrará de la siguiente forma:
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
+
 1.- Presidente..............................................................................................Gobierno
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
 
 2.- Secretario...............................................................................................Gobierno
 
-3.- Jurisdicción Sanitaria Mexicali...............................................................Gobierno
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2000)</small>
 
-4.- Jurisdicción Sanitaria Tijuana................................................................Gobierno
+3.- Jefe de la Jurisdicción Sanitaria de Mexicali.
 
-5.- Jurisdicción Sanitaria Tijuana................................................................Gobierno
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2000)</small>
 
-6.- Jurisdicción Sanitaria Ensenada............................................................Gobierno
+4.- Jefe de la Jurisdicción Sanitaria de Tijuana.
 
-7.- Secretaría de Planeación y Finanzas....................................................Gobierno
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2000)</small>
 
-8.- Secretaría de Desarrollo Social.............................................................Gobierno
+5.- Jefe de la Jurisdicción Sanitaria de Ensenada.
 
-9.- Sistema Estatal para el Desarrollo Integral de la Familia......................Gobierno
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2000)</small>
 
-10.- Presidente de la Federación Médica.......................................................Ong´s
+6.- Secretario de Planeación y Finanzas del Estado.
 
-11.- Representante de Centros de Rehabilitación Mexicali............................Ong´s
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2000)</small>
 
-12.- Representante de Centros de Rehabilitación Mexicali............................Ong´s
+7.- Secretario de Desarrollo Social del Estado.
 
-13.- Representante de Centros de Rehabilitación Tijuana.............................Ong´s
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2000)</small>
 
-14.- Representante de Centros de Rehabilitación Tijuana.............................Ong´s
+8.- Director General del Sistema para el Desarrollo Integral de la Familia en el Estado.
 
-15.- Representante de Centros de Rehabilitación de Tecate........................Ong´s
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2000)</small>
 
-16.- Representante de Centros de Rehabilitación de Playas de Rosarito.....Ong´s
+9.- Presidente de la Federación Médica en el Estado de Baja California.
 
-17.- Representante de Centros de Rehabilitación Ensenada........................Ong´s
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2000)</small>
+
+10.- Dos representantes de los Centros de Rehabilitación de Mexicali
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2000)</small>
+
+11.- Dos representantes de los Centros de Rehabilitación de Tijuana.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2000)</small>
+
+12.- Representante de los Centros de Rehabilitación de Tecate.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2000)</small>
+
+13.- Representante de los Centros de Rehabilitación de Playas de Rosarito.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2000)</small>
+
+14.- Representante de los Centros de Rehabilitación de Ensenada.
 
 > <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
 
@@ -328,3 +358,15 @@ P.O. 4 DE FEBRERO DE 2000.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- En un plazo de sesenta días se expedirá el Reglamento que regirá la presente Ley.
+
+P.O. 3 DE NOVIEMBRE DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan los transitorios Segundo y Tercero del Decreto Número 158 publicado con fecha 21 de enero del 2000 en el Periódico Oficial del Estado.
+
+TERCERO.- El Instituto de Servicios de Salud Pública del Estado de Baja California, contará con un plazo de treinta días contados a partir de la vigencia de este Decreto, para formar la Comisión Interdisciplinaria a que se refiere el Artículo 6 de esta Ley y una vez constituida tendrá un plazo de sesenta días para proceder a formular su reglamentación, estructuración, implantación y funcionamiento de sus programas.
+
+CUARTO.- En un plazo de veinte días hábiles siguientes a la entrada en vigor de este Decreto, el Sistema para el Desarrollo Integral de la Familia, por conducto del Gobernador del Estado, en un acto de entrega-recepción, informará y turnará los asuntos que en ejercicio de esta Ley, se hayan efectuado o estén pendientes de realizarse al Instituto de Servicios de Salud Pública en el Estado de Baja California.
+
+QUINTO.- La alusión al Titular de la Secretaría de Desarrollo Social que se realza en el presente Decreto, se entenderá referida al Titular de la Coordinación de la Desarrollo Social del Estado, hasta en tanto se apruebe la creación de la Secretaría de Desarrollo Social.
