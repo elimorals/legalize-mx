@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-regularizar-la-titulacion-de-predios-urbanos-y-38437"
 country: "mx"
 rank: "ley"
 publication_date: "2004-03-19"
-last_updated: "2004-03-19"
+last_updated: "2004-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA REGULARIZAR LA TITULACION DE PREDIOS URBANOS Y SEMIURBANOS EN EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 10 de marzo de 2004.
 
@@ -65,9 +65,11 @@ Para los efectos de esta ley, se consideran predios urbanos los bienes inmuebles
 
 Los predios semiurbanos, son aquellos que se encuentren entre la zona urbana y la rural, que tengan construcción destinada a casa habitación y cuenten con algún servicio.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 3.
 
-Son objeto de la presente ley, los predios urbanos y semiurbanos cuyo valor de avalúo catastral no exceda de cincuenta veces el salario mínimo general diario vigente en el Estado, elevado al año.
+Son objeto de la presente Ley, los predios urbanos y semiurbanos, cuyo valor de avalúo catastral no exceda de cincuenta veces el salario mínimo general diario vigente en el Estado, elevado al año.
 
 ###### Artículo 4.
 
@@ -95,23 +97,33 @@ b).- Documento expedido por la autoridad municipal a que corresponda la ubicaci�
 
 c).- Solicitud a la oficina de Catastro correspondiente de empadronamiento catastral del inmueble o certificación de la clave catastral del mismo.
 
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+d).- Certificado de No Propiedad, expedido por el Registro Público de la Propiedad a favor del promovente.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 9.
 
-De considerarse necesario, se citará al presidente municipal del lugar, al ministerio público competente y al encargado correspondiente del Registro Público de la Propiedad, para que manifiesten lo que a los intereses que representan conviniere.
+El juez que conozca del procedimiento, ordenará la notificación de los vecinos más cercanos del inmueble que se pretende regularizar, así como la publicación de un edicto en un periódico de mayor circulación en el Estado, a efecto de que tengan conocimiento posibles interesados y hagan valer lo que a su derecho convenga. En caso de considerarlo necesario, citará al presidente municipal del lugar, al ministerio público competente y al encargado correspondiente del Registro Público de la Propiedad, para que manifiesten lo que a los intereses que representan conviniere.
 
 ###### Artículo 10.
 
 En todas las promociones iniciales, el solicitante expresará las medidas y colindancias del predio que pretende prescribir y podrá acompañar, para probarlo, los documentos públicos expedidos por la autoridad competente, sin perjuicio de que el propio juez sea quien los solicite, así como documentos que acrediten el tiempo de posesión cuando el predio esté inscrito con el nombre de otra persona, de ser posible comprobante de pago del impuesto predial del inmueble.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 11.
 
-Recibidas las promociones en los términos señalados, el juez las estudiará y dictará la resolución procedente la cual deberá contener, los datos de identificación del procedimiento, el mandamiento al actuario para que notifique a su discreción a dos o tres vecinos cercanos al inmueble, el mandamiento para que se publique en los estrados del juzgado y en el edificio de la presidencia municipal que corresponda, con el objeto de que tenga conocimiento algún posible interesado y que haga valer lo que a su derecho convenga.
+Satisfechas las formalidades y los requisitos en los términos señalados, el juez estudiará las solicitudes y dictará la resolución correspondiente, misma que deberá contener los datos de identificación del predio a regularizar y la referencia de las constancias procesales por las que se dio publicidad al procedimiento, para que los interesados conocieran el mismo.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 12.
 
 La resolución favorable de fondo que dicte el juez que conozca de la causa, se tendrá como título de propiedad y de inmediato ordenará su inscripción en la oficina del Registro Público de la Propiedad que corresponda.
 
-Así, también la oficina de Catastro deberá actualizar sus registros para el debido ordenamiento y pago del impuesto predial.
+Así también, la oficina de Catastro del Estado o de los municipios en su caso, deberán actualizar sus registros para el debido ordenamiento y pago del impuesto predial.
 
 ###### Artículo 13.
 
@@ -125,9 +137,11 @@ El juez que conozca de las promociones hechas en los términos de la presente le
 
 Los encargados del Registro Público de la Propiedad, procederán a la inscripción de las resoluciones que le envíe el juez para ese efecto.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 16.
 
-Este procedimiento especial para predios urbanos y semiurbanos, no causará el pago de impuesto o derecho alguno de carácter estatal o municipal por motivo de la traslación de dominio, salvo los establecidos por la Dirección de Catastro; por lo que todo funcionario que en ejercicio de su función solicite o reciba una gratificación por el cumplimiento de su servicio, será sancionado conforme a los establecido en la Ley de Responsabilidad de los Servidores Públicos. Tampoco será necesaria la previa protocolización de la declaratoria judicial dictada en los términos de la presente ley.
+Este procedimiento especial para predios urbanos y semiurbanos, no causará impuesto o derecho alguno de carácter estatal o municipal por motivo de la traslación de dominio, salvo los establecidos por la Dirección de Catastro del Estado o de los municipios en su caso, por lo que todo funcionario que en ejercicio de su función solicite o reciba una gratificación por el cumplimiento de su servicio, será sancionado conforme a los (sic) establecido en la Ley de Responsabilidad de los Servidores Públicos; tampoco será necesaria la previa protocolización de la declaratoria judicial dictada en los términos de la presente ley.
 
 T R A N S I T O R I O S
 
@@ -178,3 +192,11 @@ LIC. JOSÉ ALFREDO BOTELLO MONTES
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE AGOSTO DE 2004.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
