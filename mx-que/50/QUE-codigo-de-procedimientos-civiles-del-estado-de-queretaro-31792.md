@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-31792"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "2000-04-14"
+last_updated: "2001-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -2659,21 +2659,19 @@ XII.- La consignación en pago;
 
 XIII.- Las acciones relativas a servidumbres legales o que consten en títulos públicos;
 
-(EN SUSPENSO LA VIGENCIA, P.O. 12 DE NOVIEMBRE DE 1999)
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2001)</small>
 
-XIV.- Las rectificaciones y modificaciones de actas del Registro Civil, a que se refiere el artículo 130 del Código Civil.
+XIV.- Las rectificaciones y modificaciones de actas del Registro Civil, en el caso a que refiere el Artículo 133 del Código Civil;
 
-(EN SUSPENSO LA VIGENCIA, P.O. 14 DE ABRIL DE 2000)
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2001)</small>
 
-XV. Las solicitudes de inscripción en el Registro Civil, de los actos que no hubieran sido inscritos dentro de los plazos que el propio código señala para cada uno de ellos
+XV.- En los casos a que se refiere el último párrafo del artículo 132 del Código Civil;
 
 XVI.- La solicitud a que se refiere el artículo 57 del Código Civil;
 
 XVII.- En los casos a que se refiere el artículo 58 del Código Civil; y
 
 XVIII.- En general, las cuestiones que por su naturaleza requieran celeridad a juicio del juez, o porque así lo determine la ley.
-
-(EN SUSPENSO LA VIGENCIA, P.O. 12 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 432.
 
@@ -2690,8 +2688,6 @@ En los casos de la fracción XIV, del artículo 431, se oirá al Ministerio Púb
 ###### ARTÍCULO 434.
 
 En los casos de la fracción XVI del artículo 431, presentada la demanda, el juez de primera instancia llamará a los interesados a una audiencia, a la vez que solicitará informe del Director del Registro Civil en el sentido de que es cierta la existencia de los documentos cuya copia se pretende obtener. Si no hubiere oposición de parte interesada, concederá la expedición de las copias. Si la hubiere, resolverá lo que proceda.
-
-(EN SUSPENSO LA VIGENCIA, P.O. 12 DE NOVIEMBRE DE 1999)
 
 ###### ARTÍCULO 435.
 
@@ -3063,7 +3059,7 @@ III.- En el supuesto de que ninguna de las partes exhiba el avalúo dentro del p
 
 IV.- Si las dos partes exhibieren los avaluos en el plazo que se refiere la fracción I y los valores determinados de cada uno de ellos no coinciden, se tomará como base para el remate el promedio de ambos avaluos; siempre y cuando no exista un 30% de diferencia entre el mas bajo y el mas alto; en cuyo caso el juez ordenará que se practique nuevo avalúo nombrando perito tercero;
 
-V.- La vigencia del valor que se obtenga por los avaluos será de seis meses para que se lleve a cabo la primera almoneda de remate. Si entre ésta y las subsecuentes mediaron termino mayor de seis meses se deberán actualizar los valores;
+V.- La vigencia del valor que se obtenga por los avaluos será de seis meses para que se lleve a cabo la primera almoneda de remate. Si entre ésta y las subsecuentes mediaron término mayor de seis meses se deberán actualizar los valores;
 
 VI.- Obtenido el valor del avalúo, según el caso que corresponda de acuerdo a las fracciones anteriores, se procederá a rematar la finca en los términos de la sección III del capítulo V del título VII de este ordenamiento, en todo lo que no contravenga a esta disposición;
 
@@ -6481,7 +6477,7 @@ SEGUNDO.- El Ejecutivo del Estado por conducto de la Dependencia competente impu
 
 TERCERO.- Hasta en tanto exista legislación que modifique el concepto, se entiende por vivienda de interés social aquella cuyo valor no excede de veinte veces el salario mínimo general elevado al año y por vivienda popular aquella cuyo valor no excede de treinta y cinco veces el salario mínimo elevado al año.
 
-CUARTO.- Hasta el día 31 de marzo de 1994, los propietarios, poseedores o titulares de derechos de viviendas conceptuadas como de interés social o popular, podrán otorgar por declaración unilateral de voluntad y en escritura pública, disposición para designar beneficiarios en los términos de lo establecido por los artículos 1158, 1378 y 1460 Bis del código Civil que se adicionan, esta estipulación surtirá los efectos y se ejecutará al tenor de los articulos 904 y 921 Bis que se adicionan al Código de Procedimientos Civiles vigente en el Estado.
+CUARTO.- Hasta el día 31 de marzo de 1994, los propietarios, poseedores o titulares de derechos de viviendas conceptuadas como de interés social o popular, podrán otorgar por declaración unilateral de voluntad y en escritura pública, disposición para designar beneficiarios en los términos de lo establecido por los artículos 1158, 1378 y 1460 Bis del código Civil que se adicionan, esta estipulación surtirá los efectos y se ejecutará al tenor de los artículos 904 y 921 Bis que se adicionan al Código de Procedimientos Civiles vigente en el Estado.
 
 P.O. 9 DE JUNIO DE 1994
 
@@ -6497,7 +6493,7 @@ Las personas que al entrar en vigor la presente Ley estén tramitando juicio de 
 
 ###### ARTICULO TERCERO.
 
-Las disposiciones juridicas que se opongan a la presente quedan sin efecto mientras dure la vigencia de ésta, a cuyo término recobrarán aquellas su pleno vigor.
+Las disposiciones jurídicas que se opongan a la presente quedan sin efecto mientras dure la vigencia de ésta, a cuyo término recobrarán aquellas su pleno vigor.
 
 P.O. 9 DE JUNIO DE 1994
 
@@ -6629,7 +6625,7 @@ Una vez concluida la vigencia de esta Ley, los artículos suspendidos, nuevament
 
 ###### ARTICULO QUINTO.
 
-La Dirección General del Registro Civil, instrumentará una campaña de información amplia, a fin de que las persona que puedan beneficiarse con esta Ley, la instrumenten.
+La Dirección General del Registro Civil, instrumentará una campaña de información amplia, a fin de que las personas que puedan beneficiarse con esta Ley, la instrumenten.
 
 P.O. 14 DE ABRIL DE 2000
 
@@ -6640,3 +6636,11 @@ En el caso de las personas mayores de siete años respecto de quienes se esté t
 ###### ARTICULO SEGUNDO.
 
 Las demás disposiciones que se opongan a la presente Ley y pudieran impedir su aplicación respecto de quienes se acojan a ella en los lapsos a que se refiere su artículo primero, quedarán suspendidas en cuanto a su observancia en relación con ellos, durante esos lapsos.
+
+P.O. 21 DE SEPTIEMBRE DE 2001
+
+PRIMERO.- La presente ley entrará en vigor sesenta días después de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La sombra de Arteaga".
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente ley.
+
+TERCERO.- A partir de la vigencia de la presente ley, las personas que por sí, o a través de sus representantes legales, se encuentren tramitando juicio para obtener el registro de su nacimiento o realizar la rectificación o modificación de actas expedidas por el Registro Civil en los términos de esta ley, podrán optar por concluir ese procedimiento o acudir ante el Oficial del Registro Civil respectivo o ante la Dirección del Registro Civil, en los términos de lo dispuesto por este ordenamiento.
