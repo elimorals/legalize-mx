@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-5356"
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "1998-12-25"
+last_updated: "1999-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1999.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -59,47 +59,49 @@ II.- Tratándose de otros bienes muebles, el valor de la operación. Cuando este
 
 Este Impuesto se liquidará de acuerdo con la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 4.
 
-El impuesto se pagará dentro de los 15 días siguientes a la adquisición y se liquidará presentando la factura o documento en que se haya hecho constar.
+El impuesto se pagará dentro de los 15 días siguientes a la adquisición y se liquidará en la Oficina Recaudadora que corresponda, presentando la factura o documento en que se haya hecho constar.
 
-No se hará ningún registro ni inscripción si no se acredita previamente el pago de este Impuesto.
+Los contribuyentes, comprobarán el pago del Impuesto, mediante el comprobante correspondiente que expidan las Oficinas Recaudadoras, dependientes de la Secretaría de Planeación y Finanzas.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 5.
 
-En caso de adquisición de vehículos, la Dirección de Tránsito del Estado y sus Delegaciones correspondientes, vigilarán estrictamente que no se dé trámite a ninguna solicitud de alta, baja o traspaso de vehículos que no hubieran cubierto previamente el Impuesto a que se refiere este capítulo.
+En el caso de adquisición de vehículos, las Oficinas Recaudadoras, no harán ningún registro o inscripción, ni tramitarán ninguna solicitud de alta o baja de vehículos, cuando no se hubiera cubierto previamente el impuesto a que se refiere este Capítulo.
 
 ### CAPITULO SEGUNDO. DEL IMPUESTO SOBRE CINEMATOGRAFOS
 
 ###### ARTICULO 6.
 
-Están obligados al pago de este Impuesto las personas físicas o morales que habitual o eventualmente exploten u organicen espectáculos de cinematografos en el Estado, con fines lucrativos.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 7.
 
-La base para la determinación de este Impuesto, será el ingreso total o mensual, sin deducción alguna que se perciba por concepto del valor o precio del boleto que dé acceso a la sala cinematografa.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 8.
 
-Este Impuesto se liquidará de acuerdo a la tasa que señale anualmente la Ley de Ingresos para el Estado de Guanajuato.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 9.
 
-Este Impuesto se pagará mensualmente a más tardar el día 15 de cada uno de los meses del ejercicio, mediante declaración que se presentará en la oficina recaudadora que corresponda, en las formas aprobadas por la Secretaría de Administración Financiera del Estado.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 10.
 
-La Secretaría de Administración Financiera del Estado podrá celebrar convenios con los contribuyentes para el pago de este Impuesto, independientemente del costo del boleto pero con base en sus ingresos.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 11.
 
-La Secretaría de Administración Financiera podrá designar interventores para que vigilen la entrada de la sala y recauden el Impuesto que establece este capítulo.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 12.
 
-Los contribuyentes eventuales de este Impuesto, deberán presentar ante la oficina recaudadora de su jurisdicción los boletos o tarjetas para que sean sellados o foliados, cuando menos con tres días de anticipación a la celebración del espectáculo de cinematógrafos.
-
-En este caso el pago del Impuesto se efectuará al final del espectáculo al interventor designado para tal efecto por el Jefe de la Oficina Recaudadora correspondiente.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -205,11 +207,11 @@ III.- Imposibiliten, por cualquier medio, el conocimiento de las operaciones que
 
 Las infracciones a las disposiciones de este capítulo se sancionarán en los términos del Código Fiscal para el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
-###### Artículo 12-M.
+###### ARTICULO 12-M.
 
-La administración del 95% de los ingresos que se obtenga de este impuesto, corresponderá a la entidad pública que determine el Ejecutivo del Estado, sectorizada a la Secretaría de Desarrollo Económico; su órgano de gobierno se integrará con representantes del Gobierno del Estado y del sector turístico.
+La administración del 90% de los ingresos que se obtengan de este impuesto, corresponderá a la entidad pública que determine el Ejecutivo del Estado, sectorizada a la Secretaría de Desarrollo Económico; su órgano de gobierno se integrará con representantes del Gobierno del Estado y del sector turístico.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -223,11 +225,11 @@ La Secretaría de Planeación y Finanzas entregará a la entidad los ingresos ca
 
 En la cuenta pública estatal, se deberá reflejar la aplicación que se haga de lo recaudado por este concepto, en los términos de esta Ley. Para este efecto la entidad señalada deberá presentar a la Secretaría de Planeación y Finanzas un informe financiero en forma trimestral.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
-###### Artículo 12-N.
+###### ARTICULO 12-N.
 
-El 95% de los ingresos obtenidos de la recaudación de este impuesto, se destinarán a la constitución de un fondo de promoción y difusión para el turismo del Estado, que será administrado en los términos del artículo anterior; y el 5% a la Secretaría de Planeación y Finanzas para gastos de administración integral del impuesto.
+El 90% de los ingresos obtenidos de la recaudación de este impuesto, se destinarán a la constitución de un fondo de promoción y difusión para el turismo del Estado, que será administrado en los términos del artículo anterior; y el 10% a la Secretaría de Planeación y Finanzas para gastos de administración integral del impuesto.
 
 ## TITULO SEGUNDO. DE LOS DERECHOS
 
@@ -251,11 +253,13 @@ Estarán exentos del pago de derechos estatales la federación, el estado y los 
 
 ### CAPITULO SEGUNDO. DE LOS DERECHOS POR SERVICIOS DE TRANSITO
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 17.
 
-Toda persona al adquirir un vehículo, deberá registrarlo a su nombre, presentando el aviso de alta en la Oficina de Tránsito del Estado previo el pago de los derechos e impuestos respectivos en la Oficina Recaudadora de su domicilio, dentro de los diez días hábiles siguientes a la fecha de adquisición. La presentación extemporánea del citado aviso o del de canje, en su caso será sancionada con multa de 1.5 días de salario mínimo general diario que corresponda.
+Toda persona al adquirir un vehículo, deberá registrarlo a su nombre, presentando el aviso de alta en la Oficina Recaudadora, correspondiente a su domicilio, previo el pago de los derechos e impuestos respectivos, dentro de los diez días hábiles siguientes a la fecha de adquisición. La presentación extemporánea del citado aviso o del de canje, en su caso será sancionada con multa de 1.5 días de salario mínimo general diario que corresponda.
 
-Los documentos que acrediten el registro e identificación del vehículo deberán ser refrendados anualmente.
+Los documentos que acrediten el registro e identificación del vehículo deberán ser refrendados anualmente, dentro de los tres primeros meses del año, y en forma simultanea con el pago del Impuesto Sobre o Uso de Vehículos.
 
 ###### ARTICULO 18.
 
@@ -325,7 +329,7 @@ Igualmente el organismo administrador a que se refiere este artículo, podrá ce
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1998)</small>
 
-###### ARTICULO 22.
+###### Artículo 22.
 
 No se pagarán los derechos de carreteras y puentes estatales, por los vehículos militares, policiales, de bomberos, ambulancias y auxilio turístico, siempre que por sus características y emblemas se identifiquen como vehículos para tales efectos.
 
@@ -634,3 +638,9 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan al present
 P.O. 25 DE DICIEMBRE DE 1998.
 
 Artículo Unico.- El presente decreto entrará en vigor el día primero de marzo de 1999, una vez que haya sido publicado en el Periódico Oficial del Gobierno.
+
+P.O. 28 DE DICIEMBRE DE 1999.
+
+Artículo Primero.- El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
