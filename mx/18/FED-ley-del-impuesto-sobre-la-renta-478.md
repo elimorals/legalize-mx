@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-478"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1995-12-15"
+last_updated: "1996-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ENERO DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación, el Martes 30 de Diciembre de 1980.
 
@@ -542,9 +542,9 @@ A la utilidad fiscal determinada conforme a esta fracción se le restará, en su
 
 III.- Los pagos provisionales serán las cantidades que resulten de aplicar la tasa establecida en el artículo 10 de esta Ley sobre la utilidad fiscal que se determine en los términos de la fracción que antecede, pudiendo acreditarse contra el impuesto a pagar los pagos provisionales del mismo ejercicio efectuados con anterioridad. También podrá acreditarse contra dichos pagos provisionales la retención que le hubiera efectuado al contribuyente en el periodo, en términos del penúltimo párrafo del artículo 126.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1996)</small>
 
-Los contribuyentes cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de cuatro millones de nuevos pesos, efectuarán pagos provisionales en forma trimestral, a más tardar el día 17 de los meses de abril, julio, octubre y enero del año siguiente, a excepción de aquéllos que puedan ser considerados como una sola persona moral para efectos del segundo párrafo de la fracción I del artículo 32-A del Código Fiscal de la Federación. Cuando los contribuyentes antes señalados hubieran efectuado pagos provisionales trimestrales en los términos de este párrafo y obtengan en el ejercicio ingresos acumulables que excedan del monto antes indicado, podrán estar a lo previsto en este párrafo en el ejercicio siguiente a aquél en el que excedan de dicha cantidad.
+Los contribuyentes cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $5,938,132.00, efectuarán pagos provisionales en forma trimestral, a más tardar el día 17 de los meses de abril, julio, octubre y enero del año siguiente, a excepción de aquéllos que puedan ser considerados como una sola persona moral para efectos del segundo párrafo de la fracción I del artículo 32-A del Código Fiscal de la Federación. Cuando los contribuyentes antes señalados hubieran efectuado pagos provisionales trimestrales en los términos de este párrafo y obtengan en el ejercicio ingresos acumulables que excedan del monto antes indicado, podrán estar a lo previsto en este párrafo en el ejercicio siguiente a aquél en el que excedan de dicha cantidad.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -980,9 +980,9 @@ Tratándose de donativos otorgados a instituciones de enseñanza, los mismos ser
 
 II.- Que cuando esta Ley permita la deducción de inversiones se proceda en los términos de la Sección III de este Capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1996)</small>
 
-III.- Que se comprueben con documentación que reúna los requisitos que señalen las disposiciones fiscales relativas a la identidad y domicilio de quien los expida, así como de quien adquirió el bien de que se trate o recibió el servicio, y que en el caso de contribuyentes que en el ejercicio inmediato anterior hubieran obtenido ingresos acumulables superiores a cuatrocientos mil nuevos pesos, efectúen mediante cheque nominativo del contribuyente, los pagos en efectivo cuyo monto exceda de dos mil nuevos pesos excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado. La Secretaría de Hacienda y Crédito Público podrá liberar de la obligación de pagar las erogaciones con cheques nominativos a que se refiere esta fracción cuando las mismas se efectúen en poblaciones sin servicios bancarios o en zonas rurales.
+III.- Que se comprueben con documentación que reúna los requisitos que señalen las disposiciones fiscales relativas a la identidad y domicilio de quien los expida, así como de quien adquirió el bien de que se trate o recibió el servicio, y que en el caso de contribuyentes que en el ejercicio inmediato anterior hubieran obtenido ingresos acumulables superiores a $593,813.00, efectúen mediante cheque nominativo del contribuyente, los pagos en efectivo cuyo monto exceda de $2,969.00 excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado. La Secretaría de Hacienda y Crédito Público podrá liberar de la obligación de pagar las erogaciones con cheques nominativos a que se refiere esta fracción cuando las mismas se efectúen en poblaciones sin servicios bancarios o en zonas rurales.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -1126,17 +1126,17 @@ V.- Los gastos de representación.
 
 VI.- Los viáticos o gastos de viaje, en el país, o en el extranjero, cuando no se destinen al hospedaje, alimentación, transporte, uso o goce temporal de automóviles y pago de kilometraje, de la persona beneficiaria del viático o cuando se apliquen dentro de una faja de 50 kilómetros que circunde al establecimiento del contribuyente. Las personas a favor de las cuales se realice la erogación, deben tener relación de trabajo con el contribuyente en los términos del Capítulo I del Título IV de esta Ley o deben estar prestando servicios profesionales.
 
-> <small>(REFORMADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+(REFOMADO, D.O.F. 15 DE ENERO DE 1996)
 
-Tratándose de gastos de viaje destinados a la alimentación, sólo serán deducibles hasta por un monto que no exceda de N$ 233.00 pesos diarios por cada beneficiario, cuando los mismos se eroguen en territorio nacional, y N$ 466.00 pesos diarios, cuando se eroguen en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al hospedaje o transporte. Cuando a la documentación que ampare el gasto de alimentación el contribuyente acompañe la relativa al transporte, deberá además cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
+Tratándose de gastos de viaje destinados a la alimentación, sólo serán deducibles hasta por un monto que no exceda de $346.00 diarios por cada beneficiario, cuando los mismos se eroguen en territorio nacional, y $692.00, cuando se eroguen en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al hospedaje o transporte. Cuando a la documentación que ampare el gasto de alimentación el contribuyente acompañe la relativa al transporte, deberá además cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
 
-> <small>(REFORMADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+(REFOMADO, D.O.F. 15 DE ENERO DE 1996)
 
-Los gastos de viaje destinados al uso o goce temporal de automóviles y gastos relacionados, serán deducibles hasta por un monto que no exceda de N$ 262.00 pesos diarios, cuando se eroguen en territorio nacional o en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al hospedaje o transporte, debiendo cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
+Los gastos de viaje destinados al uso o goce temporal de automóviles y gastos relacionados, serán deducibles hasta por un monto que no exceda de $389.00 diarios, cuando se eroguen en territorio nacional o en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al hospedaje o transporte, debiendo cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
 
-> <small>(REFORMADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+(REFOMADO, D.O.F. 15 DE ENERO DE 1996)
 
-Los gastos de viaje destinados al hospedaje, sólo serán deducibles hasta por un monto que no exceda de N$ 1,178.00 pesos diarios, cuando se eroguen en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al transporte, debiendo además cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
+Los gastos de viaje destinados al hospedaje, sólo serán deducibles hasta por un monto que no exceda de $1,749.00 diarios, cuando se eroguen en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al transporte, debiendo además cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1170,9 +1170,9 @@ XII.- Las pérdidas por caso fortuito, fuerza mayor o por enajenación de bienes
 
 XIII.- El crédito comercial aun cuando sea adquirido de terceros.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1996)</small>
 
-XIV.- Los pagos por el uso o goce temporal de aviones y embarcaciones que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, así como de casas habitación, sólo serán deducibles en los casos en que reúnan los requisitos que señale el Reglamento de esta Ley. Tratándose de aviones, sólo será deducible el equivalente a N$ 2,332.00 pesos por día de uso o goce del avión de que se trate. No será deducible ningún gasto adicional relacionado con dicho uso o goce. Las casas de recreo, en ningún caso serán deducibles.
+XIV.- Los pagos por el uso o goce temporal de aviones y embarcaciones que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, así como de casas habitación, sólo serán deducibles en los casos en que reúnan los requisitos que señale el Reglamento de esta Ley. Tratándose de aviones, sólo será deducible el equivalente a $3,462.00 por día de uso o goce del avión de que se trate. No será deducible ningún gasto adicional relacionado con dicho uso o goce. Las casas de recreo, en ningún caso serán deducibles.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -1530,9 +1530,9 @@ I.- Las reparaciones así como las adaptaciones a las instalaciones se considera
 
 En ningún caso se considerarán inversiones los gastos por concepto de conservación, mantenimiento y reparación que se eroguen con el objeto de mantener el bien de que se trate en condiciones de operación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1996)</small>
 
-II. Las inversiones en automóviles sólo serán deducibles hasta por un monto de $150,000.00, siempre que sean automóviles utilitarios.
+II.- Las inversiones en automóviles sólo serán deducibles hasta por un monto de $150,000.00, siempre que sean automóviles utilitarios.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1546,9 +1546,9 @@ En ningún caso serán deducibles las inversiones en automóviles comprendido de
 
 Lo dispuesto en esta fracción no será aplicable tratándose de contribuyentes cuya actividad preponderante consista en el otorgamiento del uso o goce temporal de automóviles, siempre y cuando los destinen exclusivamente a dicha actividad.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1996)</small>
 
-III.- Las inversiones en casas habitación y en comedores que por su naturaleza no estén a disposición de todos los trabajadores de la empresa, así como en aviones y embarcaciones que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, sólo serán deducibles en los casos que reúnan los requisitos que señale el Reglamento de esta Ley. En el caso de aviones, la deducción se calculará considerando como monto original máximo de la inversión, una cantidad equivalente a N$ 2,642,868.00 pesos.
+III.- Las inversiones en casas habitación y en comedores que por su naturaleza no estén a disposición de todos los trabajadores de la empresa, así como en aviones y embarcaciones que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, sólo serán deducibles en los casos que reúnan los requisitos que señale el Reglamento de esta Ley. En el caso de aviones, la deducción se calculará considerando como monto original máximo de la inversión, una cantidad equivalente a $3,923,425.00.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1714,9 +1714,9 @@ Para los efectos de este artículo se consideran bienes nuevos los que se utiliz
 
 > <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1996)</small>
 
-La opción a que se refiere este artículo sólo podrá ejercerse tratándose de inversiones en bienes que se utilicen permanentemente en territorio nacional y fuera de las áreas metropolitanas y de influencia en el Distrito Federal, Guadalajara y Monterrey, las que serán determinadas por la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general. En caso de inversiones en bienes que se utilicen permanentemente en territorio nacional y dentro de las áreas metropolitanas y de influencia antes mencionadas, la opción a que se refiere este artículo sólo podrá ejercerse cuando se trate de contribuyentes cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de siete millones de pesos y que el valor de sus activos en el ejercicio determinado en los términos de la Ley del Impuesto al Activo no exceda de catorce millones de pesos.
+La opción a que se refiere este artículo sólo podrá ejercerse tratándose de inversiones en bienes que se utilicen permanentemente en territorio nacional y fuera de las áreas metropolitanas y de influencia en el Distrito Federal, Guadalajara y Monterrey, las que serán determinadas por la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general. En caso de inversiones en bienes que se utilicen permanentemente en territorio nacional y dentro de las áreas metropolitanas y de influencia antes mencionadas, la opción a que se refiere este artículo sólo podrá ejercerse cuando se trate de contribuyentes cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $7,000,000.00 y que el valor de sus activos en el ejercicio determinado en los términos de la Ley del Impuesto al Activo no exceda de $14,000,000.00 de pesos.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -2780,9 +2780,9 @@ Para los efectos de este artículo la información a que el mismo se refiere deb
 
 Las personas morales a que se refiere este Título efectuarán pagos provisionales mensuales a cuenta del impuesto anual a más tardar el día 17 del mes inmediato posterior al que corresponda el pago, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional se determinará restando de la totalidad de las entradas correspondientes al periodo comprendido desde el inicio del ejercicio hasta el último día del mes al que se refiere el pago, las salidas a que se refiere el artículo 67-C de la Ley, correspondientes al mismo periodo y aplicándole a la diferencia la tasa a que se refiere el artículo 67 de esta Ley. Contra el impuesto a pagar, podrán acreditar los pagos provisionales del mismo ejercicio efectuados con anterioridad.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1996)</small>
 
-Las personas morales a que se refiere este Título, que hayan obtenido en el ejercicio inmediato anterior ingresos que no excedieron de cuatro millones de nuevos pesos, podrán efectuar pagos provisionales trimestrales a cuenta del impuesto anual a más tardar el día 17 de los meses de abril, julio, octubre y enero del año siguiente. Dicho pago provisional se determinará en los términos de este artículo. Cuando los contribuyentes antes señalados hubieran efectuado pagos provisionales trimestrales en los términos de este párrafo y obtengan en un ejercicio ingresos acumulables que excedan del monto antes indicado, podrán estar a lo previsto en este párrafo en el ejercicio siguiente a aquél en el que excedan de dicha cantidad.
+Las personas morales a que se refiere este Título, que hayan obtenido en el ejercicio inmediato anterior ingresos que no excedieron de $5,938,132.00, podrán efectuar pagos provisionales trimestrales a cuenta del impuesto anual a más tardar el día 17 de los meses de abril, julio, octubre y enero del año siguiente. Dicho pago provisional se determinará en los términos de este artículo. Cuando los contribuyentes antes señalados hubieran efectuado pagos provisionales trimestrales en los términos de este párrafo y obtengan en un ejercicio ingresos acumulables que excedan del monto antes indicado, podrán estar a lo previsto en este párrafo en el ejercicio siguiente a aquél en el que excedan de dicha cantidad.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -3260,9 +3260,9 @@ b) Los demás donativos, siempre que el valor total de los recibidos en un año 
 
 Para los efectos del inciso b) de esta fracción, se considerará donativo, el remanente distribuible en bienes que se obtenga de las personas morales a que se refieren los artículos 70 y 73 de esta Ley. Lo dispuesto en este párrafo no será aplicable a los integrantes de sociedades cooperativas.
 
-> <small>(REFORMADA POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1996)</small>
 
-XXV.- Los que se obtengan por concepto de loterías, rifas, sorteos o concursos, a que se refiere el Capítulo IX de esta Ley, siempre que el valor de cada premio no exceda de N$ 1.00, así como los premios obtenidos con motivo de un concurso científico, artístico o literario, abierto al público en general o bien a determinado gremio o grupo de profesionales.
+XXV.- Los que se obtengan por concepto de loterías, rifas, sorteos o concursos, a que se refiere el Capítulo IX de esta Ley, siempre que el valor de cada premio no exceda de $1.00, así como los premios obtenidos con motivo de un concurso científico, artístico o literario, abierto al público en general o bien a determinado gremio o grupo de profesionales.
 
 XXVI.- Las indemnizaciones por daños que no excedan al valor de mercado del bien de que se trate.
 
@@ -3896,9 +3896,9 @@ Los contribuyentes que obtengan ingresos de los señalados en este Capítulo, ad
 
 I.- Solicitar su inscripción en el Registro Federal de Contribuyentes.
 
-> <small>(REFORMADA POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1996)</small>
 
-II.- Llevar contabilidad de conformidad con el Código Fiscal de la Federación, su reglamento y el reglamento de esta Ley cuando obtengan ingresos superiores a N$ 466.00 pesos por los conceptos a que se refiere este Capítulo, en el año de calendario anterior. No quedan comprendidos en lo dispuesto en esta fracción quienes opten por la deducción del 50% a que se refiere el artículo 90 de esta Ley.
+II.- Llevar contabilidad de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley cuando obtengan ingresos superiores a $692.00 por los conceptos a que se refiere este Capítulo, en el año de calendario anterior. No quedan comprendidos en lo dispuesto en esta fracción quienes opten por la deducción del 50% a que se refiere el artículo 90 de esta Ley.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -4078,9 +4078,9 @@ En operaciones consignadas en escrituras públicas, el pago provisional se hará
 
 Tratándose de la enajenación de otros bienes, el pago provisional será igual al 20% del monto total de la operación, que será retenido por el adquirente. El adquirente podrá efectuar una retención menor, cuando cumpla con los requisitos que señale el reglamento de esta Ley.
 
-> <small>(REFORMADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1996)</small>
 
-El retenedor dará al enajenante constancia de la retención y éste acompañará una copia de la misma al presentar su declaración anual. No se efectuará la retención cuando se trate de bienes muebles diversos de títulos valor o de partes sociales, cuando el monto de la operación sea menor a N$ 69,958.00 pesos.
+El retenedor dará al enajenante constancia de la retención y éste acompañará una copia de la misma al presentar su declaración anual. No se efectuará la retención cuando se trate de bienes muebles diversos de títulos valor o de partes sociales, cuando el monto de la operación sea menor a $103,855.00.
 
 Los contribuyentes que obtengan ingresos por la cesión de derechos de certificados de participación inmobiliaria no amortizables o de certificados de vivienda o de derechos de fideicomitente o fideicomisario, que recaigan sobre inmuebles, deberán calcular y enterar el pago provisional de acuerdo con lo establecido en los dos primeros párrafos de este artículo.
 
@@ -4330,9 +4330,9 @@ Los ingresos nominales a que se refiere este artículo serán los ingresos acumu
 
 Los contribuyentes deberán presentar las declaraciones de pagos provisionales siempre que haya impuesto a pagar, saldo a favor y cuando se trate de la primera declaración en la que no tengan impuesto a cargo. No deberán presentar declaraciones de pagos provisionales en el ejercicio de iniciación de operaciones, cuando hubieran presentado el aviso de suspensión de actividades que previene el Reglamento del Código Fiscal de la Federación, así como en los casos en que no haya impuesto a cargo, y no se trate de la primera declaración con esta característica, ni saldo a favor.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1996)</small>
 
-Los contribuyentes cuyos ingresos totales en el ejercicio inmediato anterior no hayan excedido de cuatro millones de nuevos pesos, efectuarán los pagos provisionales a que se refiere este artículo en forma trimestral, a más tardar el día 17 de los meses de abril, julio, octubre y enero del año siguiente. Cuando los contribuyentes antes señalados hubieran efectuado pagos provisionales trimestrales en los términos de este párrafo y obtengan en un ejercicio ingresos acumulables que excedan del monto antes indicado, podrán estar a lo previsto en este párrafo en el ejercicio siguiente a aquél en el que excedan de dicha cantidad.
+Los contribuyentes cuyos ingresos totales en el ejercicio inmediato anterior no hayan excedido de $5,938,132.00, efectuarán los pagos provisionales a que se refiere este artículo en forma trimestral, a más tardar el día 17 de los meses de abril, julio, octubre y enero del año siguiente. Cuando los contribuyentes antes señalados hubieran efectuado pagos provisionales trimestrales en los términos de este párrafo y obtengan en un ejercicio ingresos acumulables que excedan del monto antes indicado, podrán estar a lo previsto en este párrafo en el ejercicio siguiente a aquél en el que excedan de dicha cantidad.
 
 ###### ARTICULO 112.
 
@@ -4632,11 +4632,11 @@ Las autoridades fiscales tendrán las mismas facultades contenidas en el Capítu
 
 #### SECCION II. Del Régimen Simplificado a las Actividades Empresariales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1996)</small>
 
 ###### ARTICULO 119-A.
 
-Las personas físicas que obtengan ingresos de los señalados en este Capítulo, en lugar de aplicar lo dispuesto en la Sección I del mismo, podrán optar por pagar el impuesto sobre la renta en los términos establecidos en esta Sección, siempre que los ingresos propios de la actividad empresarial y los intereses obtenidos en el año de calendario anterior no hubieran excedido de un millón de nuevos pesos. Los contribuyentes que se dediquen a actividades agrícolas, ganaderas, pesqueras o silvícolas, así como al autotransporte de carga o pasajeros pagarán el impuesto sobre la renta en los términos establecidos en esta Sección por los ingresos que se deriven de estas actividades independientemente de su monto.
+Las personas físicas que obtengan ingresos de los señalados en este Capítulo, en lugar de aplicar lo dispuesto en la Sección I del mismo, podrán optar por pagar el impuesto sobre la renta en los términos establecidos en esta Sección, siempre que los ingresos propios de la actividad empresarial y los intereses obtenidos en el año de calendario anterior no hubieran excedido de $1,484,533.00. Los contribuyentes que se dediquen a actividades agrícolas, ganaderas, pesqueras o silvícolas, así como al autotransporte de carga o pasajeros pagarán el impuesto sobre la renta en los términos establecidos en esta Sección por los ingresos que se deriven de estas actividades, independientemente de su monto.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -4678,9 +4678,9 @@ En los primeros cinco ejercicios, el promedio se calculará con las proporciones
 
 Lo previsto en este artículo también será aplicable a los artesanos, por sus ingresos obtenidos por la enajenación al público en general de bienes que elaboren ellos mismos, siempre que estos sean producidos manualmente, con materiales no industrializados y tengan valor estético, así como histórico o cultural.
 
-> <small>(REFORMADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1996)</small>
 
-No será aplicable lo dispuesto en el párrafo anterior a los contribuyentes que en el año de calendario anterior hayan obtenido ingresos superiores a N$ 466,388.00 pesos, hayan tenido o utilizado en dicho ejercicio activos que excedieron del equivalente a quince veces el salario mínimo genera del área geográfica del contribuyente elevado al año, desarrollen su actividad bajo la dependencia económica o dirección de otra persona, tengan trabajadores a su servicio, así como cuando se trate de productos alimenticios. Para estos efectos, no se considera que el contribuyente tiene trabajadores a su servicio cuando desarrolle su actividad conjuntamente con otros artesanos que sean de los previstos en este artículo, siempre que no excedan de tres.
+No será aplicable lo dispuesto en el párrafo anterior a los contribuyentes que en el año de calendario anterior hayan obtenido ingresos superiores a $692,368.00, hayan tenido o utilizado en dicho ejercicio activos que excedieron del equivalente a quince veces el salario mínimo general del área geográfica del contribuyente elevado al año, desarrollen su actividad bajo la dependencia económica o dirección de otra persona, tengan trabajadores a su servicio, así como cuando se trate de productos alimenticios. Para estos efectos, no se considera que el contribuyente tiene trabajadores a su servicio cuando desarrolle su actividad conjuntamente con otros artesanos que sean de los previstos en este artículo, siempre que no excedan de tres.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -4738,9 +4738,9 @@ XI.- El entero de contribuciones a cargo de terceros que retenga el contribuyent
 
 XII.- Los pagos por salarios y en general por la prestación de un servicio personal subordinado, hasta por tres trabajadores o familiares que efectivamente les presten sus servicios con el único requisito de registrar el nombre y el monto del pago, siempre que cada uno de éstos no exceda del salario mínimo general del área geográfica del contribuyente elevado al año. Cuando la deducción se efectúe respecto de familiares del contribuyente, no se presumirá la existencia de relación laboral entre los mismos.
 
-> <small>(REFORMADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1996)</small>
 
-Lo previsto en esta fracción no será aplicable a las personas físicas que hayan obtenido en el ejercicio inmediato anterior ingresos superiores a N$ 466,388.00 pesos, así como a las mencionadas en el artículo 119-C de esta Ley.
+Lo previsto en esta fracción no será aplicable a las personas físicas que hayan obtenido en el ejercicio inmediato anterior ingresos superiores a $692,368.00, así como a las mencionadas en el artículo 119-C de esta Ley.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -5282,11 +5282,11 @@ Cuando la persona que otorgue el premio pague por cuenta del contribuyente el im
 
 No se considera como premio el reintegro correspondiente al billete que permitió participar en loterías.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1996)</small>
 
 ###### ARTICULO 130.
 
-El impuesto por los ingresos derivados de loterías, rifas, sorteos y concursos se calculará sobre el valor del premio correspondiente a cada boleto o billete entero, sin deducción alguna, aplicando el 8% para los premios con valor de N$ 1.01 a N$ 8.00 y el 15% para los premios con valor de N$ 8.01 en adelante.
+El impuesto por los ingresos derivados de loterías, rifas, sorteos y concursos se calculará sobre el valor del premio correspondiente a cada boleto o billete entero, sin deducción alguna, aplicando el 8% para los premios con valor de $1.01 a $12.00 y el 15% para los premios con valor de $12.01 en adelante.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
@@ -5502,9 +5502,9 @@ II.- Que cuando esta Ley permita la deducción de inversiones se proceda en los 
 
 III.- Que se resten una sola vez, aún cuando estén relacionadas con la obtención de diversos ingresos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1996)</small>
 
-IV.- Que se comprueben con documentación que reúna los requisitos que señalen las disposiciones fiscales relativas a la identidad y domicilio de quien los expida, así como de quien adquirió el bien de que se trate o recibió el servicio, y que en el caso de contribuyentes que en el ejercicio inmediato anterior hubieran obtenido ingresos acumulables superiores a cuatrocientos mil nuevos pesos, efectúen mediante cheque nominativo del contribuyente los pagos en efectivo cuyo monto exceda de dos mil nuevos pesos, excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado. La Secretaría de Hacienda y Crédito Público podrá liberar de la obligación de pagar las erogaciones con cheques nominativos a que se refiere esta fracción cuando las mismas se efectúen en poblaciones sin servicios bancarios o en zonas rurales.
+IV.- Que se comprueben con documentación que reúna los requisitos que señalen las disposiciones fiscales relativas a la identidad y domicilio de quien los expida, así como de quien adquirió el bien de que se trate o recibió el servicio y que en el caso de contribuyentes que en el ejercicio inmediato anterior hubieran obtenido ingresos acumulables superiores a $593,813.00, efectúen mediante cheque nominativo del contribuyente los pagos en efectivo cuyo monto exceda de $2,969.00, excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado. La Secretaría de Hacienda y Crédito Público podrá liberar de la obligación de pagar las erogaciones con cheques nominativos a que se refiere esta fracción cuando las mismas se efectúen en poblaciones sin servicios bancarios o en zonas rurales.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -5600,9 +5600,9 @@ I.- Los pagos por impuesto sobre la renta a cargo del propio contribuyente o de 
 
 Tampoco serán deducibles las cantidades que entregue el contribuyente en su carácter de retenedor a las personas que le presten servicios personales subordinados provenientes del crédito al salario a que se refieren los artículos 80-B y 81 de esta Ley, así como los accesorios de las contribuciones, a excepción de sus recargos.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1996)</small>
 
-II.- Las inversiones en casas habitación, comedores que por su naturaleza no estén a disposición de todos los trabajadores de la empresa, aviones y embarcaciones que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, así como los pagos por el uso o goce temporal de dichos bienes. En el caso de aviones, la deducción se calculará considerando como monto original máximo de la inversión, una cantidad equivalente a N$ 2,642,868.00 pesos.
+II.- Las inversiones en casas habitación, comedores que por su naturaleza no estén a disposición de todos los trabajadores de la empresa, aviones y embarcaciones que no tengan concesión o permiso del gobierno federal para ser explotados comercialmente, así como los pagos por el uso o goce temporal de dichos bienes. En el caso de aviones, la deducción se calculará considerando como monto original máximo de la inversión, una cantidad equivalente a $3,923,425.00.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -5636,17 +5636,17 @@ Para efectos de lo dispuesto en esta fracción se considera pago de interés las
 
 IX.- Los viáticos o gastos de viaje, en el país o en el extranjero, cuando no se destinen al hospedaje, alimentación, transporte, uso o goce temporal de automóviles y pago de kilometraje de la persona beneficiaria del viático o cuando se apliquen dentro de una faja de 50 kilómetros que circunde al domicilio del contribuyente. Las personas a favor de las cuales se realice la erogación, cuando no sea el propio contribuyente, deben tener relación de trabajo con éste, en los términos del Capítulo I de este Título, o deben estar prestando servicios profesionales.
 
-> <small>(REFORMADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1996)</small>
 
-Tratándose de gastos de viaje destinados a la alimentación, sólo serán deducibles hasta por un monto que no exceda de N$233.00 pesos diarios por cada beneficiario, cuando los mismos se eroguen en territorio nacional, y N$ 466.00 pesos diarios, cuando se eroguen en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al hospedaje o transporte. Cuando a la documentación que ampare el gasto de alimentación el contribuyente acompañe la relativa al transporte, deberá además cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
+Tratándose de gastos de viaje destinados a la alimentación, sólo serán deducibles hasta por un monto que no exceda de $346.00 diarios por cada beneficiario, cuando los mismos se eroguen en territorio nacional, y $692.00 diarios, cuando se eroguen en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al hospedaje o transporte. Cuando a la documentación que ampare el gasto de alimentación el contribuyente acompañe la relativa al transporte, deberá además cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
 
-> <small>(REFORMADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1996)</small>
 
-Los gastos de viaje destinados al uso o goce temporal de automóviles y gastos relacionados, serán deducibles hasta por un monto que no exceda de N$ 262.00 pesos diarios, cuando se eroguen en territorio nacional o en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al hospedaje o transporte, debiendo cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
+Los gastos de viaje destinados al uso o goce temporal de automóviles y gastos relacionados, serán deducibles hasta por un monto que no exceda de $389.00 diarios, cuando se eroguen en territorio nacional o en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al hospedaje o transporte, debiendo cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
 
-> <small>(REFORMADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1996)</small>
 
-Los gastos de viaje destinados al hospedaje, sólo serán deducibles hasta por un monto que no exceda de N$ 1,178.00 pesos diarios, cuando se eroguen en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al transporte, debiendo además cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
+Los gastos de viaje destinados al hospedaje, sólo serán deducibles hasta por un monto que no exceda de $1,749.00 diarios, cuando se eroguen en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al transporte, debiendo además cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -6016,17 +6016,17 @@ Tratándose de los ingresos por salarios y en general por la prestación de un s
 
 El impuesto se determinará aplicando al ingreso obtenido las tasas siguientes:
 
-> <small>(REFORMADA POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1996)</small>
 
-I.- Se estará exento por los primeros N$ 38,730.00 pesos obtenidos en el año de calendario de que se trate.
+I.- Se estará exento por los primeros $57,496.00 obtenidos en el año de calendario de que se trate.
 
-> <small>(REFORMADA POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1996)</small>
 
-II.- Se aplicará la tasa del 15% a los ingresos percibidos en el año de calendario de que se trate que excedan del monto señalado en la fracción que antecede y que no sean superiores a N$ 311,991.00 pesos.
+II.- Se aplicará la tasa del 15% a los ingresos percibidos en el año de calendario de que se trate que excedan del monto señalado en la fracción que antecede y que no sean superiores a $463,161.00.
 
-> <small>(REFORMADA POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1996)</small>
 
-III.- Se aplicará la tasa del 30% a los ingresos percibidos en el año de calendario de que se trate que excedan de N$ 311,991.00 pesos.
+III.- Se aplicará la tasa del 30% a los ingresos percibidos en el año de calendario de que se trate que excedan de $463,161.00.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
@@ -6052,11 +6052,17 @@ Tratándose de ingresos por jubilaciones, pensiones, haberes de retiro, así com
 
 El impuesto se determinará aplicando al ingreso obtenido las tasas siguientes:
 
-I.- Se estará exento por los primeros treinta y ocho mil setecientos treinta nuevos pesos obtenidos en el año de calendario de que se trate.
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1996)</small>
 
-II.- Se aplicará la tasa de 15% a los ingresos percibidos en el año de calendario de que se trate que excedan del monto señalado en la fracción que antecede y que no sean superiores a trescientos once mil novecientos noventa y un nuevos pesos.
+I.- Se estará exento por los primeros $57,496.00 obtenidos en el año de calendario de que se trate.
 
-III.- Se aplicará la tasa de 30% a los ingresos percibidos en el año de calendario de que se trate que excedan de trescientos once mil novecientos noventa y un nuevos pesos.
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1996)</small>
+
+II.- Se aplicará la tasa de 15% a los ingresos percibidos en el año de calendario de que se trate que excedan del monto señalado en la fracción que antecede y que no sean superiores a $463,161.00.
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1996)</small>
+
+III.- Se aplicará la tasa de 30% a los ingresos percibidos en el año de calendario de que se trate que excedan de $463,161.00.
 
 La persona que efectúe los pagos deberá realizar la retención del impuesto si es residente en el país o residente en el extranjero con un establecimiento o base fija en México. En los demás casos, el contribuyente enterará el impuesto correspondiente mediante declaración que presentará ante las oficinas autorizadas dentro de los quince días siguientes a la obtención del ingreso.
 
@@ -6068,17 +6074,17 @@ Tratándose de ingresos por honorarios y en general por la prestación de un ser
 
 El impuesto se determinará aplicando al ingreso obtenido las tasas siguientes:
 
-> <small>(REFORMADA POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1996)</small>
 
-I.- Se estará exento por los primeros N$ 38,730.00 pesos obtenidos en el año de calendario de que se trate.
+I.- Se estará exento por los primeros $57,496.00 obtenidos en el año de calendario de que se trate.
 
-> <small>(REFORMADA POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1996)</small>
 
-II.- Se aplicará la tasa del 15% a los ingresos percibidos en el año de calendario de que se trate, que excedan del monto señalado en la fracción que antecede y que no sean superiores a N$ 311,991.00 pesos.
+II.- Se aplicará la tasa del 15% a los ingresos percibidos en el año de calendario de que se trate, que excedan del monto señalado en la fracción que antecede y que no sean superiores a $463,161.00.
 
-> <small>(REFORMADA POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1996)</small>
 
-III.- Se aplicará la tasa del 30% a los ingresos percibidos en el año de calendario de que se trate que excedan de N$ 311,991.00 pesos.
+III.- Se aplicará la tasa del 30% a los ingresos percibidos en el año de calendario de que se trate que excedan de $463,161.00.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
@@ -6488,17 +6494,17 @@ Los contribuyentes que tengan representante en el país que reúna los requisito
 
 Tratándose de los ingresos por obtención de premios, se considerará que la fuente de riqueza se encuentra en territorio nacional cuando la lotería, rifa, sorteo o juego con apuestas y concursos de toda clase se celebran en el país. Salvo prueba en contrario, se entenderá que la lotería, rifa, sorteo o juego con apuestas y concursos de toda clase se celebra en el país cuando el premio se pague en el mismo.
 
-> <small>(REFORMADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1996)</small>
 
-El impuesto por los ingresos derivados de loterías, rifas, sorteos y concursos se calculará sobre el valor del premio correspondiente a cada boleto o billete entero, sin deducción alguna, aplicando el 8% para los premios con valor de N$ 1.00 a 8.00 y el 15% para los premios con valor de N$ 8.01 en adelante.
+El impuesto por los ingresos derivados de loterías, rifas, sorteos y concursos se calculará sobre el valor del premio correspondiente a cada boleto o billete entero, sin deducción alguna, aplicando el 8% para los premios con valor de $1.01 a $12.00 y el 15% para los premios con valor de $12.01 en adelante.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
 El impuesto por los ingresos derivados de juegos con apuestas se calculará aplicando el 1% sobre el valor total de la cantidad a distribuir entre todos los boletos que resulten premiados.
 
-> <small>(REFORMADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1996)</small>
 
-Se exceptúan del pago del impuesto a que se refiere este artículo los ingresos que se obtengan por concepto de loterías, rifas, sorteos o concursos, cuando el valor de cada premio no exceda de N$ 1.00.
+Se exceptúan del pago del impuesto a que se refiere este artículo los ingresos que se obtengan por concepto de loterías, rifas, sorteos o concursos, cuando el valor de cada premio no exceda de $1.00.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -6598,9 +6604,9 @@ VIII.- Operaciones financieras derivadas, los que provengan de las operaciones a
 
 Los contribuyentes a que se refiere el Título IV, de esta Ley, que efectúen depósitos en las cuentas personales especiales para el ahorro, realicen pagos de primas de contratos de seguro que tengan como base planes de pensiones relacionados con la edad, jubilación o retiro que al efecto autorice la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general, o bien adquieran acciones de las sociedades de inversión que sean identificables en los términos que también señale la propia Secretaría mediante disposiciones de carácter general, podrán restar el importe de dichos depósitos, pagos o adquisiciones, de la cantidad a la que se le aplicaría la tarifa del articulo 141 de esta Ley de no haber efectuado las operaciones mencionadas, correspondiente al ejercicio en que éstos se efectuaron o al ejercicio inmediato anterior, cuando se efectúan antes de que se presente la declaración respectiva, de conformidad con las reglas que a continuación se señalan:
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1996)</small>
 
-I.- El importe de los depósitos, pagos o, adquisiciones a que se refiere este artículo no podrán exceder en el año de calendario de que se trate, del equivalente a N$ 46,639.00 pesos, considerando todos los conceptos.
+I.- El importe de los depósitos, pagos o adquisiciones a que se refiere este artículo no podrán exceder en el año de calendario de que se trate, del equivalente a $69,237.00, considerando todos los conceptos.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -11021,3 +11027,13 @@ T r a n s i t o r i o s
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
 
 Segundo. De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en nuevos pesos y su abreviatura N, a partir del 1o. de enero de 1996 deberán entenderse como pesos y su símbolo $.
+
+D.O.F. 15 DE ENERO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Esta Resolución y sus Anexos deberán publicarse en el Diario Oficial de la Federación.
