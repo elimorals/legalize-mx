@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1965-05-22"
+last_updated: "1970-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1970.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -6023,6 +6023,8 @@ No tendrá valor la información cuando se hubiere recibido habiendo juicio pend
 
 Disposiciones Relativas a Otros Actos de Jurisdicción Voluntaria.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1970)</small>
+
 ###### Artículo 990.
 
 El apeo y deslinde tendrán lugar cuando no se hayan fijado los límites que separan un fundo de otro u otros y cuando hay motivo fundado para creer que no son exactos ya porque naturalmente se hayan confundido, ya porque se hayan destruido las señales que los marcaban, ya porque éstas se hayan colocado en lugar distinto del primitivo.
@@ -6087,17 +6089,13 @@ Los gastos de apeo se harán a prorrata por el que lo promueva y los propietario
 
 ###### Artículo 996.
 
-Se tramitará en la forma de incidente que habrá de seguirse con el Ministerio Público en todo caso:
+Se tramitará en forma de incidente que habrá de seguirse con el Ministerio Público en todo caso:
 
-I. La habilitación para comparecer en juicio que solicite el menor de más de dieciocho años cuando compruebe que los padres o ascendientes que ejerzan la patria potestad están ausentes, se ignore su paradero o se nieguen a representarlo. Sólo se le concederá autorización cuando fuere demandado o se le siguiere perjuicio grave de no promover juicio, y comprobare buena conducta y aptitud para el manejo de sus negocios;
+I. La autorización Judicial que soliciten los emancipados por razón del matrimonio, para enajenar o gravar bienes raíces, o para comparecer en juicio, en este último caso se les nombrará un tutor especial;
 
-II. La solicitud de emancipación o habilitación de edad que hagan los mayores de dieciocho años sujetos a patria potestad o tutela, si demostraren buena conducta o aptitud para el manejo de sus intereses. En este caso se oirá también a los padres o tutores;
+II. El permiso que para contratar con su marido y para obligarse solidariamente a ser su fiadora, solicite la mujer casada;
 
-III. La autorización judicial que soliciten los emancipados o habilitados de edad para enajenar o gravar bienes raíces o para comparecer en juicio; en este último caso se les nombrará un tutor especial;
-
-IV. El permiso que para contratar con su marido o para obligarse solidariamente a ser su fiadora, solicite la mujer casada;
-
-V. La calificación de la excusa de la patria potestad en los casos a que se refiere el artículo 449 del Código Civil.
+III. La calificación de la excusa de la Patria Potestad en los casos a que se refiere el artículo 449 del Código Civil.
 
 ###### Artículo 997.
 
@@ -6456,3 +6454,7 @@ UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondie
 P.O. 22 DE MAYO DE 1965.
 
 UNICO.- La presente reforma niciará (sic) su vigencia a los quince días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE ABRIL DE 1970.
+
+UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondientes 3 días después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
