@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aranceles-16161"
 country: "mx"
 rank: "ley"
 publication_date: "1901-06-25"
-last_updated: "1937-01-23"
+last_updated: "2002-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "TAM"
 
 LEY DE ARANCELES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 1937.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO UNICO DEL DECRETO NO. 80 PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO EL 15 DE OCTUBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el 7 de junio de 1901.
 
@@ -42,9 +44,7 @@ LEY DE ARANCELES
 
 Los abogados cobraran:
 
-I.- Por vista o lectura de documentos, papeles o expedientes de cualquiera clase, siempre que no pasen de veinticinco fojas, $ 10.00 diez pesos.
-
-Si excedieren de veinticinco fojas, por cada una de exceso $ 0.25.
+I.- Por vista o lectura de documentos, papeles o expedientes de cualquiera clase, siempre que no pasen de veinticinco fojas, $ 10.00 diez pesos. Si excedieren de veinticinco fojas, por cada una de exceso $ 0.25.
 
 Si la vista se hace fuera de su despacho, se duplicarán las cuotas anteriores.
 
@@ -88,7 +88,7 @@ IX.- Por cada escrito proponiendo pruebas, $ 10.00 diez pesos.
 
 X.- Por cada interrogatorio de posiciones a la contraria, de preguntas o repreguntas a los testigos, o cuestionarios a los peritos, por hoja $ 10.00 diez pesos.
 
-XI.- Por asistencia a juntas, audiencias o diligencias en el local del Juzgado, por cada hora o fracción, $ 20.00 veinte pesos.
+XI.- por asistencia a juntas, audiencias o diligencias en el local del Juzgado, por cada hora o fracción, $ 20.00 veinte pesos.
 
 XII.- Por asistencia a cualquier diligencia fuera del Juzgado por cada hora o fracción, desde $ 20.00 veinte pesos hasta $ 30.00 treinta pesos.
 
@@ -254,7 +254,9 @@ Por la defensa del procesado en la vista de segunda instancia en lo principal ha
 
 ###### Art. 20.
 
-En los negocios administrativos queda al arbitrio del abogado que haya prestado sus servicios, sujetarse para cobrar el importe de éstos, a las regulaciones establecidas por este Arancel o al juicio de peritos. Estos serán nombrados uno por cada parte y el tercero por el Juez que conozca del juicio sobre honorarios, de acuerdo con las disposiciones relativas del Código de Procedimientos Civiles.
+En los negocios administrativos queda al arbitrio del abogado que haya prestado sus servicios, sujetarse para cobrar el importe de éstos, a las regulaciones establecidas por este Arancel o al juicio de peritos.
+
+Estos serán nombrados uno por cada parte y el tercero por el Juez que conozca del juicio sobre honorarios, de acuerdo con las disposiciones relativas del Código de Procedimientos Civiles.
 
 Los peritos en el caso del artículo anterior deberán tomar en consideración, para fundar su dictamen, las circunstancias a que se refiere el artículo 2408 del Código, Civil, que hayan concurrido en el caso.
 
@@ -300,7 +302,7 @@ Cuando un abogado saliere del lugar de residencia devengará, además de los hon
 
 Cuando los abogados fueren nombrados peritos para valuar servicios de su misma profesión, créditos litigiosos o cualquiera otras acciones o derechos, cobrarán un 2% sobre el importe del avalúo si éste no excede de $ 50,000.00; un 1% además, por el excedente hasta $ 100,000.00 y un medio por ciento además, por lo que pase de esta cantidad.- En los avalúos podrán cobrar también los honorarios que le correspondan, conforme al artículo 1o, fracción I.
 
-### CAPITULO III (SIC). De los Honorarios de los Apoderados o Procuradores
+### CAPITULO III. De los Honorarios de los Apoderados o Procuradores
 
 ###### Art. 28.
 
@@ -490,7 +492,7 @@ Las visitas ulteriores, se cobrarán como expresa el art. 39.
 
 ###### Art. 61.
 
-En los partos distósicos el médico cobrará de cuarenta a ochenta pesos, según la importancia del caso, si practica solamente la versión por maniobras externas, internas ó combinadas la extracción manual o con el forceps, extracción de secundinas, taponamientos y otros trabajos de análoga importancia.
+En los partos distósicos el médico cobrará de cuarenta a ochenta pesos, según la importancia del caso, si practica solamente la versión por maniobras externas, internas ó combinadas la extracción manual o con el forceps, extracción de secundinas, taponamientos y otros trabajos de análoga importancia
 
 De ochenta a ciento cincuenta pesos, si hubiere que hacer embriotomía, y de ciento cincuenta a trescientos si se practicaren operaciones de mayor importancia. En estos casos la asistencia ulterior hasta por nueve días queda comprendida en el precio, y las visitas siguientes se cobraran conforme al art. 39.
 
@@ -1007,3 +1009,7 @@ Este decreto entrará en vigor desde el día de su publicación en el Periódico
 ###### Art. 2o.
 
 Se derogan desde esta fecha todas las disposiciones vigentes que se opongan a lo mandado en este Decreto.
+
+P.O. 15 DE OCTUBRE DE 2002.
+
+Artículo Único.. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
