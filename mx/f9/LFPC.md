@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2000-05-29"
+last_updated: "2000-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MAYO DE 2000.
-
-(REPUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MAYO DE 2000).
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 24 de diciembre de 1992.
 
@@ -652,6 +650,30 @@ La Secretaría, mediante normas oficiales mexicanas podrá sujetar contratos de 
 
 Las normas podrán referirse a cualesquiera términos y condiciones, excepto precio.
 
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2000)</small>
+
+ARTICULO 86 BIS.- En los contratos de adhesión de prestación de servicios deben incluirse por escrito en caso de existir, los servicios adicionales, especiales o conexos que pueda solicitar el consumidor de forma opcional por conducto y medio del servicio básico.
+
+Si el consumidor omitiera solicitar alguno de estos servicios, se entenderá que no podrá hacerlo, a menos que con posterioridad, exista una solicitud específica por escrito.
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2000)</small>
+
+ARTICULO 86 TER.- En los contratos de adhesión de prestación de servicios, el consumidor gozará de las siguientes prerrogativas:
+
+I. Adquirir o no la prestación de servicios adicionales, especiales o conexos al servicio básico;
+
+II. Contratar la prestación de los servicios adicionales, especiales o conexos con el proveedor que elija;
+
+III. Dar por terminada la prestación de los servicios adicionales, especiales o conexos al servicio básico en el momento que lo manifieste de manera expresa al proveedor, sin que ello implique que proceda la suspensión o la cancelación de la prestación del servicio básico. El consumidor sólo podrá hacer uso de esta prerrogativa si se encontrare al corriente en el cumplimiento de todas sus obligaciones contractuales y se hubiese vencido el plazo mínimo pactado; y
+
+IV. Las demás prerrogativas que señalen ésta y otras leyes o reglamentos.
+
+El consumidor gozará de las anteriores prerrogativas aun cuando no hubieren sido incluidas de manera expresa en el clausulado del contrato de adhesión de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2000)</small>
+
+ARTICULO 86 QUATER.- Cualquier diferencia entre el texto del contrato de adhesión registrado ante la Procuraduría Federal del Consumidor y el utilizado en perjuicio de los consumidores, se tendrá por no puesta.
+
 ###### ARTICULO 87.
 
 En caso de que los contratos de adhesión requieran de registro previo ante la Procuraduría, ésta se limitará a verificar que los modelos se ajusten a lo que disponga la norma correspondiente y a las disposiciones de esta ley, y emitirá su resolución dentro de los treinta días siguientes a la fecha de presentación de la solicitud de registro. Transcurrido dicho plazo sin haberse emitido la resolución correspondiente, los modelos se entenderán aprobados y será obligación de la Procuraduría registrarlos, quedando en su caso como prueba de inscripción la solicitud de registro. Para la modificación de las obligaciones o condiciones de los contratos que requieran de registro previo será indispensable solicitar la modificación del registro ante la Procuraduría, la cual se tramitará en los términos antes señalados.
@@ -1147,3 +1169,7 @@ Sexto.- La Secretaría, en coordinación con los gobiernos estatales, determinar
 Séptimo.- Las solicitudes de inscripción de actos mercantiles en el Registro Público de Comercio y los medios de defensa iniciados con anterioridad a la entrada en vigor del presente Decreto, se substanciarán y resolverán, hasta su total conclusión, conforme a las disposiciones que les fueron aplicables al momento de iniciarse o interponerse.
 
 Octavo.- La Secretaría deberá publicar en el Diario Oficial de la Federación los lineamientos y formatos a que se refieren los artículos 18 y 20, que se reforman por virtud del presente Decreto, en un plazo máximo de noventa días, contados a partir de la fecha de su entrada en vigor.
+
+D.O.F. 5 DE JUNIO DE 2000.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
