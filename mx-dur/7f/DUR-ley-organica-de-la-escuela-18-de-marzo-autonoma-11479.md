@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-escuela-18-de-marzo-autonoma-11479"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1940-05-16"
-last_updated: "1940-05-16"
+last_updated: "1940-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY ORGANICA DE LA ESCUELA "18 DE MARZO", AUTONOMA.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL INSTITUTO INDUSTRIAL 18 DE MARZO, PUBLICADA EN EL PERIODICO OFICIAL EL 28 DE NOVIEMBRE DE 1940.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el 16 de mayo de 1940.
 
@@ -124,3 +126,19 @@ Victoria de Durango, Mayo 9 de 1940. Agustín Jáquez.- D.P.- Mónico Corral.- D
 Por tanto mando se imprima, publique, circule y comuníquese a quienes corresponda para su exacta observancia.
 
 Dado en el Palacio del Poder Ejecutivo del Estado, a los nueve días del mes de mayo de mil novecientos cuarenta.- Enrique Calderón R.- El Srio. Gral. de Gobierno.- Lic. Raymundo Alvarez R.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 28 DE NOVIEMBRE DE 1940.
+
+###### Art. 1o.
+
+El Ejecutivo del Estado procederá inmediatamente a remover al actual Director del plantel denominado Escuela "18 de Marzo", que cambia por esta Ley su denominación por la "INSTITUTO INDUSTRIAL "18 de MARZO", designando persona idónea; así como a la debida integración del Cuerpo docente, seleccionándolo debidamente.
+
+###### Art. 2o.
+
+Esta Ley entra en vigor al publicarse en el Periódico Oficial del Estado, deroga el Decreto Núm. 414, de 9 de mayo de 1940, en que se promulgó la Ley Orgánica de la Escuela "18 de Marzo", Autónoma, sin privarse a la nueva Institución Educativa de la posesión de los bienes muebles e inmuebles que disfruta para servicio social.
+
+###### Art. 3o.
+
+El Ejecutivo del Estado, acordará desde luego la forma en que se continúen los Estudios y se le faculta para la debida organización del plantel.
