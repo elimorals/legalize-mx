@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1971-08-26"
+last_updated: "1972-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1972.
 
 Código publicado en el Suplemento 6 del Periódico Oficial Número 34, el Jueves 30 de Julio de 1936.
 
@@ -6155,7 +6155,7 @@ Por falta de reciprocidad internacional, son incapaces de heredar por testamento
 
 La herencia o legado que se deje a un establecimiento público, imponiéndole algún gravamen o bajo alguna condición, sólo serán válidos si el Gobierno del Estado los aprueba.
 
-(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADA, P.O. 25 DE FEBRERO DE 1965)
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
 
 ###### Artículo 1193.
 
@@ -10817,19 +10817,17 @@ En la venta de que habla el artículo 2168, mientras que no pasa la propiedad de
 
 El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1970)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1972)</small>
 
 ###### Artículo 2173.
 
-La venta de un inmueble cuyo valor en el contrato y en el catastro no exceda de cinco mil pesos, podrá hacerse constar en instrumento privado en los términos establecidos por la Ley Orgánica del Notariado.
+La venta de un inmueble cuyo valor en el contrato y en el catastro, no exceda de veinte mil pesos podrá hacerse en instrumento privado o en los términos prevenidos por la Ley del Notariado.
 
-Las operaciones de compra-venta sobre bienes inmuebles o derechos reales que celebren la Federación, el Estado o los municipios entre sí, podrán otorgarse por escrito en 3 ejemplares originales firmados por los contratantes, sin requerir la intervención de notario público. Uno de los ejemplares se depositará e inscribirá en el Registro Público de la Propiedad; el otro ejemplar, se entregará a la oficina de Rentas correspondiente, como aviso de traslación de dominio y, el restante, con la nota de haber quedado inscrito en el Registro, servirá de título al comprador. Esta misma regla se utilizará cuando las entidades enunciadas contraten con particulares, siempre y cuando la operación jurídica a realizar se efectué con el fin de impulsar la construcción de la vivienda popular o constituir un patrimonio de familia.
-
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1970)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1972)</small>
 
 ###### Artículo 2174.
 
-Si el valor fiscal o en venta del inmueble, excede de cinco mil pesos, deberá otorgarse escritura pública, salvo lo dispuesto en el segundo párrafo del artículo 2173.
+Si el valor del inmueble, fiscal o en venta, excede de veinte mil pesos, deberá otorgarse escritura pública.
 
 ### CAPITULO I. Del mutuo simple
 
@@ -11223,9 +11221,11 @@ Se prohibe a los encargados de los establecimientos públicos y a los funcionari
 
 El arrendamiento debe otorgarse por escrito cuando la renta pase de cien pesos anuales.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1972)</small>
+
 ###### Artículo 2259.
 
-Si el predio fuere rústico y la renta pasare de cinco mil pesos anuales, el contrato se otorgará en escritura pública.
+Si el predio fuere rústico y la renta pasare de veinte mil pesos anuales, el contrato se otorgará en escritura pública.
 
 ###### Artículo 2260.
 
@@ -11943,7 +11943,9 @@ El mandato debe otorgarse en escritura pública o en carta poder firmada ante do
 
 I. Cuando sea general;
 
-II. Cuando el interés del negocio para que se confiere llegue a cinco mil pesos o exceda de esa cantidad;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1972)</small>
+
+II. Cuando el interés del negocio para que se confiere llegue a veinte mil pesos o exceda de esa cantidad;
 
 III. Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
 
@@ -14580,3 +14582,7 @@ UNICO. El presente Decreto entrará en vigor desde la fecha de su publicación e
 P.O. 26 DE AGOSTO DE 1971.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE ENERO DE 1972.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
