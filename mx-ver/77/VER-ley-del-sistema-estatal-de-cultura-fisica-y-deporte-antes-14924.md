@@ -4,7 +4,7 @@ identifier: "VER-ley-del-sistema-estatal-de-cultura-fisica-y-deporte-antes-14924
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-12"
-last_updated: "1999-08-12"
+last_updated: "2003-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL SISTEMA ESTATAL DEL DEPORTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 12 de agosto de 1999.
 
@@ -95,9 +95,13 @@ XVII. Otorgar apoyo económico a los deportistas destacados para que asistan a l
 
 XVIII. Las demás que le atribuyan las leyes y reglamentos, o que le confiera el titular del Poder Ejecutivo.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 5.
 
-La actividad deportiva de orden profesional no queda comprendida dentro del Sistema Estatal del Deporte; pero podrán inscribirse en el Sistema los deportistas profesionales que deseen participar en competencias internacionales con representación estatal oficial, así como en las nacionales de carácter preparatorio, eliminatorio y selectivo para obtener dicha representación. Tales deportistas deben cumplir con las disposiciones reglamentarias para dichas competencias.
+La actividad deportiva de orden profesional no queda comprendida dentro del Sistema Estatal del Deporte, pero el Ejecutivo del Estado asignará apoyos a equipos deportivos profesionales que sean de propiedad estatal, así como a aquellos que por su amplio reconocimiento social entre los habitantes del estado, fomenten la difusión de la cultura y práctica deportivas.
+
+Los deportistas profesionales que deseen participar en competencias internacionales con representación estatal oficial, así como en los nacionales de carácter preparatorio, eliminatorio y selectivo para obtener dicha representación podrán inscribirse en el Sistema. Dichos deportistas deberán cumplir con las disposiciones reglamentarias para tales competencias.
 
 ###### Artículo 6.
 
@@ -664,3 +668,11 @@ Gobernador del estado.- Rúbrica.
 Nohemí Quiraso Hernández
 
 Secretaria General de Gobierno.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 29 DE DICIEMBRE DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
