@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-la-paz-baja-california-212
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2002-12-31"
+last_updated: "2003-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de marzo de 2001.
 
@@ -203,7 +203,7 @@ II. 2.5 al millar, si no están explotados por su dueño.
 
 En ningún caso el Impuesto Predial anual sobre la propiedad rústica será inferior a tres salarios mínimos.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 22.
 
@@ -217,7 +217,9 @@ III. A razón de 11 al millar sobre el valor catastral de los predios no edifica
 
 IV. A razón de 5.5 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
 
-Se considerará lote baldío aquel que teniendo construcciones, representen menos del 50% del valor catastral del terreno.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+Se considerará lote baldío aquél que teniendo construcciones, éstas representen menos del 50% del valor catastral del terreno, siempre y cuando no esté habitado por el propietario, ni se destine a uso distinto.
 
 En ningún caso el impuesto predial anual sobre la propiedad urbana deberá ser inferior a 3 salarios mínimos.
 
@@ -619,17 +621,21 @@ III. BANQUETA. Acera construida de mampostería o concreto o de una combinación
 
 ### CAPÍTULO VII. IMPUESTO ADICIONAL
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 58.
 
-Sobre el monto de los impuestos y derechos que establece esta Ley, excepto Impuesto Predial y sobre adquisición de inmuebles, y sobre diversiones y espectáculos públicos, deberá cubrirse el 30% adicional, que será pagado junto con el impuesto o derecho principal. Este ingreso adicional se destinará a un programa de reciclaje de basura y obras de los programas de recolección de basura y electrificación.
+Sobre el monto de los impuestos y derechos que establece esta ley, excepto impuesto predial, sobre adquisición de inmuebles, sobre diversiones y espectáculos públicos y servicios de agua potable, drenaje, alcantarillado, tratamiento, saneamiento y disposición de aguas residuales, deberá cubrirse el 30% adicional, que será pagado junto con el impuesto o derecho principal. Este ingreso adicional se destinará a un programa de reciclaje de basura y obras de los programas de recolección de basura y electrificación.
 
 ## TÍTULO TERCERO. DERECHOS
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 59.
 
-Los ingresos que por conceptos de derecho obtenga el Municipio, procederán de la prestación de los siguientes servicios:
+Los ingresos que por conceptos de derechos obtenga el Municipio, procederán de la prestación de los siguientes servicios:
 
 I. Registro Público de la Propiedad y del Comercio
 
@@ -637,7 +643,9 @@ II. Servicios Catastrales
 
 III. Licencias para construcción
 
-IV. Servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+IV. Servicios de agua potable, drenaje, alcantarillado, tratamiento saneamiento y disposición de aguas residuales
 
 V. Cooperación para obras públicas que realice el Municipio
 
@@ -919,41 +927,151 @@ III. Certificados, por cada hoja o fracción 0.3 del salario mínimo.
 
 IV. Otorgamiento de claves catastrales, por cada una 1.5 salarios mínimos
 
-V. Por búsqueda de datos para proporcionar información económica y/o certificado por predio 1.5 salario mínimo.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+V. Por búsqueda de datos para proporcionar información económica 1.5 salario mínimo.
 
-VI. Por deslindes o levantamientos prediales que se realicen a solicitud de particulares, de acuerdo con el tiempo en los que se ejecuten los trabajos, ubicación superficie y distancia en la que se ubiquen los predios:
+> <small>(REFORMADA PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-a) En la zona urbana:
+VI. Por deslindes o levantamientos prediales que se realicen a solicitud de particulares, de acuerdo con el tiempo en los que se ejecuten los trabajos, ubicación, superficie y distancia en la que se ubiquen los predios:
 
-Hasta 450 m2. 6 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-De 451 m2 hasta 900 m2. 12 salarios mínimos
+a) EN LA ZONA URBANA:
 
-De 901 m2 hasta 10,000 m2 (01 hectárea). 60 salarios mínimos
+hasta 250 m2. 6 salarios mínimos.
 
-De 10,001 m2 en adelante. 60 a 77 salarios mínimos
+de 251 m2 hasta 500 m2. 8 salarios mínimos.
 
-b) Predios rústicos y accidentados de mas de 4 puntos:
+de 501m2 hasta 1,000m2. 15 salarios mínimos.
 
-01 Hectárea. 77 salarios mínimos
+de 1,001 m2 hasta 2,000m2. 40 salarios mínimos.
 
-10 Hectáreas. 154 salarios mínimos
+de 2,001m2 hasta 5,000m2. 90 salarios mínimos.
 
-De 11 hasta 50 Hectáreas 231 salarios mínimos
+de 5,000m2 hasta 10,000m2(una hectárea) 90 a 115.5 salarios mínimos.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+b) PREDIOS RÚSTICOS Y ACCIDENTADOS:
+
+de más de 4 puntos:
+
+hasta 01 Hectárea. 80 salarios mínimos.
+
+mayor a 01 hectárea hasta 05 hectáreas. 100 salarios mínimos.
+
+mayores de 5 hectárea. $7.00 por m.l. de perímetro del predio
+
+En deslindes fuera del área urbana de la Ciudad de La Paz se cobrarán de manera adicional los gastos de traslado y viáticos del personal de campo asignado a razón de 0.25 salarios mínimos por kilómetro de distancia medido a partir de las oficinas de la dirección de catastro.
 
 VII. Por expedición de coordenadas UTM de 5 salarios mínimos en adelante
 
 VIII. Por elaboración de planos de 10 a 150 salarios mínimos
 
-IX. Impresión de planos de 2 a 5 salarios mínimos
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-X. Recepción de documentos en forma Extemporánea
+IX. Impresión de planos:
 
-a) Menos de 1 año: de 1 a 20 salarios mínimos
+a) Blanco y negro. de 2 a 5 salarios mínimos
 
-b) De 1 año en adelante: de 20 a 50 salarios mínimos.
+b) A color. de 3 a 10 salarios mínimos.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+X. Recepción de documentos en forma Extemporánea:
+
+hasta 15 días naturales. 1 salario mínimo.
+
+de 16 a 30 días naturales. 2 salarios mínimos.
+
+de 31 a 45 días naturales. 3 salarios mínimos.
+
+de 46 a 60 días naturales. 4 salarios mínimos.
+
+de 61 a 90 días naturales. 5 salarios mínimos.
+
+de 91 días a 6 meses. 10 salarios mínimos.
+
+de 6 meses un día a 1 año. 20 salarios mínimos.
+
+de 1 año un día a 2 años. 30 salarios mínimos.
+
+de 2 años más un día en adelante. 50 salarios mínimos.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+XI. Por registro de perito valuador o tipógrafo.
+
+a) Registro inicial. 60 salarios mínimos
+
+b) Revalidación de registro anual. 50 salarios mínimos
+
+Por acceso a los archivos y por registro de deslindes o levantamientos prediales que realicen peritos topógrafos acreditados en la Dirección de Catastro:
+
+a) En la Zona Urbana:
+
+hasta 450M2. 2 salarios mínimos
+
+de 451m2. hasta 900m2. 3 salarios mínimos
+
+de 901m2. hasta 10,000m2 (01 hectárea). 15 salarios mínimos
+
+de 10,001m2, en adelante. 15 a 19.15 salarios mínimos.
+
+b) Predios Rústicos y accidentados de más de 4 puntos:
+
+01 hectárea. 19.25 salarios mínimos
+
+hasta 10 hectáreas. 38.5 salarios mínimos
+
+de 11 hasta 50 hectáreas. 57.75 salarios mínimos
+
+Mayores a 50 hectáreas. Se caracteriza la diferencia con 50 hectáreas de acuerdo al grupo del inciso B) que pertenezca.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+XII. Por venta de productos digitales:
+
+a) Planimetría de la ciudad de la paz incluyendo nombres de calles y colonias a nivel manzanero. 100 salarios mínimos.
+
+b) Altimetría de la Ciudad de La Paz. 50 salarios mínimos.
+
+c) Planimetría de localidades urbanas diferentes a la ciudad de La Paz. 45 salarios mínimos.
+
+d) Altimetría de localidades urbanas diferentes a la ciudad de La Paz. 35 salarios mínimos.
+
+e) Imagen digital blanco y negro orto-rectificada. 40 salarios mínimos
+
+f) Impresión láser de imagen digital blanco y negro orto-rectificada. 5 salarios mínimos por página tamaño carta.
+
+g) Imagen de fotografía aérea digital blanco y negro. 7 salarios mínimos.
+
+h) Impresión láser de imagen fotográfica aérea blanco y negro. 2.5 salarios mínimos por pagina tamaño carta.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+XIII. Llenado de manifestación catastral. 01 salario mínimo.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+XIV. Otorgamiento de cédula catastral. 4 salarios mínimos
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+XV. Emisión de certificado de no propiedad. 1.5 salarios mínimos.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+XVI. Emisión de certificados de medidas y colindancias:
+
+Predios regulares hasta 4 puntos. 1.5 salarios mínimos.
+
+Predios irregulares de 5 a 10 puntos. 2 salarios mínimos.
+
+Predios de más de 11 puntos. 3 salarios mínimos.
+
+Certificado especial. 3 salarios mínimos.
 
 ### CAPÍTULO IV. LICENCIAS PARA CONSTRUCCIÓN
 
@@ -961,9 +1079,11 @@ b) De 1 año en adelante: de 20 a 50 salarios mínimos.
 
 Para edificar, reedificar, ampliar o reconstruir las fincas ubicadas en las poblaciones del Municipio, se requiere licencia previa de la dependencia municipal correspondiente.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 73.
 
-Para obtener la licencia a la que se refiere el artículo anterior, se deberá presentar una solicitud firmada por un profesionista en la materia, debidamente acreditado, y de acuerdo con las formas oficiales que se expidan.
+Para obtener la licencia a la que se refiere el artículo anterior, se deberá presentar una solicitud firmada por un profesionista en la materia, debidamente acreditado, y de acuerdo con las formas oficiales que se expidan, así como acreditar que el predio sujeto de la licencia de construcción esté al corriente en el pago del impuesto predial.
 
 ###### Artículo 74.
 
@@ -973,23 +1093,33 @@ La expedición de licencia de autorización por uso del suelo, causará un derec
 
 La expedición de licencia de urbanización para los desarrollos urbanos, tales como fraccionamientos, conjuntos habitacionales, desarrollos turísticos, condominales, industriales o una combinación de los anteriores, causará un derecho del 7 al millar sobre el valor total de las obras de urbanización.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+Si la obra no se concluye en el plazo concedido, se podrá solicitar el refrendo de la licencia, que se otorgará previo pago de los derechos correspondientes a razón de 3.5 al millar del valor de la obra pendiente por ejecutar, por el tiempo que se autorice para la conclusión de la misma, quedando obligado el interesado a dejar limpia la vía pública una vez terminado el plazo que se haya concedido.
+
 ###### Artículo 75.
 
 La Dependencia Municipal correspondiente podrá autorizar el registro de director responsable de obra, la fusión, subdivisión, lotificación o relotificación de predios, así como el uso del suelo para desarrollos urbanos y uso del suelo urbano para giros comerciales, dar visto bueno de seguridad y operación de obra previo pago de acuerdo a la siguiente:
 
 (VEASE TABLA ANEXA)
 
-### CAPÍTULO V. AGUA POTABLE, DRENAJE, ALCANTARILLADO, TRATAMIENTO Y DISPOSICIÓN DE AGUAS RESIDUALES
+> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+### CAPÍTULO V. AGUA POTABLE, DRENAJE, ALCANTARILLADO, TRATAMIENTO, SANEAMIENTO Y DISPOSICIÓN DE AGUAS RESIDUALES
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 76.
 
-La prestación de los servicios de drenaje, alcantarillado, tratamiento y disposición de aguas residuales, a la que se refiere este capítulo, causará derechos de acuerdo con lo que dispone la Ley de Agua Potable y Alcantarillado de Baja California Sur, en lo conducente.
+La prestación de los servicios de drenaje, alcantarillado, tratamiento, saneamiento y disposición de aguas residuales, a la que se refiere este capítulo, causará derechos de acuerdo con lo que dispone la Ley de Aguas para el Estado de Baja California Sur, en lo conducente.
 
 La prestación del servicio de agua potable a que se refiere este capítulo causara derechos conforme a las siguientes tarifas.
 
 #### SECCIÓN I. AGUA POTABLE
 
-I. Tarifas para el cobro del sistema de agua potable del Municipio de La Paz.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+I. Tarifas para el cobro del sistema de agua potable y alcantarillado de La Paz.
 
 a). Tarifas para aparatos medidores:
 
@@ -1061,9 +1191,33 @@ Hasta 500 M3 289.3 días de salario mínimo.
 
 Mas de 500 M3. 0.7 días de salario mínimo por cada M3
 
-#### SECCIÓN I. DEL PANTEÓN MUNICIPAL
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-#### SECCIÓN II. DEL PANTEÓN MUNICIPAL JARDINES DEL RECUERDO
+b) Tarifas para tomas domésticas sin aparato medidor:
+
+En el caso de las tomas domésticas que no cuenten con aparato medidor, la junta de gobierno del sistema de agua potable y alcantarillado de la paz, establecerá las cuotas promedio que se fijarán a partir del historial de consumo, las condiciones de la zona y la disponibilidad de agua potable.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+#### SECCIÓN II. ALCANTARILLADO, TRATAMIENTO Y SANEAMIENTO
+
+a) Por los servicios de alcantarillado, tratamiento y saneamiento, de uso doméstico se cubrirá por cada servicio:
+
+El 10% del valor del consumo de agua potable, cuando no exceda los 17m3.
+
+El 20% del valor del consumo de agua potable, cuando no exceda los 24m3.
+
+El 30% del valor del consumo de agua potable, cuando exceda los 25m3.
+
+b) Por los servicios de alcantarillado, tratamiento y saneamiento, de uso comercial e industrial, se cubrirá por cada servicio, el 30% del valor del consumo de agua potable.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+#### SECCIÓN III. DERECHOS POR CONEXIÓN
+
+Los usuarios del sistema de agua potable y alcantarillado de la paz con giro comercial, industrial y turístico, así como fraccionadoras, urbanizadoras y desarrolladoras, deberán pagar una cuota única que se entenderá como derechos de conexión, por el uso y aprovechamiento de la infraestructura hidráulica y sanitaria que opera el sapa: misma que tendrá que ser cubierta con anterioridad al inicio de las obras y será un requisito indispensable para el trámite de las licencias de construcción necesarias.
+
+Las fórmulas para el cálculo de los derechos de conexión a la red de agua potable o a la red de drenaje las establecerá la Junta de Gobierno del organismo operador, apegándose a lo establecido por la sección tercera de la Ley de Aguas para el Estado de Baja California Sur.
 
 ### CAPÍTULO VI. DERECHOS POR COOPERACIÓN PARA OBRAS PÚBLICAS QUE REALICE EL MUNICIPIO
 
@@ -1079,7 +1233,9 @@ III. Conexión de las redes de agua potable a fraccionamientos de terrenos.
 
 IV. Conexión del sistema de atarjeas para drenajes sanitarios a fraccionamientos de terrenos.
 
-V. Tratamiento y disposición de aguas residuales.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+V. Tratamiento, saneamiento y disposición de aguas residuales.
 
 VI. Banquetas.
 
@@ -1159,7 +1315,7 @@ I. Por registro de Nacimiento
 
 II. Por defunción
 
-III. Por reconocimiento
+III. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2003)
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -1179,27 +1335,35 @@ a) En horas inhábiles, en la oficina. 2 salarios mínimos
 
 b) Fuera de las oficinas. 15 salarios mínimos
 
-II. Registro de adopción:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+II. Registro de Adopción:
 
 a) En horas hábiles en la oficina. 5 salarios mínimos
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+b) Reconocimientos. 1 salario mínimo.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
 III. Matrimonios:
 
-a) En horas inhábiles en la oficina. 5 salarios mínimos
+a) En horas inhábiles en la oficina. 6 salarios mínimos
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+b) En horas hábiles fuera de la oficina. 15 salarios mínimos
 
-b) Fuera de las oficinas. 15 salarios mínimos
+c) En horas inhábiles fuera de la oficina. 25 salarios mínimos
 
-c) Registro de matrimonios contraído por extranjeros en horas hábiles en la oficina. 2 salarios mínimos
+d) Registro de matrimonios contraído por extranjeros en horas hábiles en la oficina. 2 salarios mínimos
 
-d) Registro de matrimonios contraídos por extranjeros en horas inhábiles. 20 salarios mínimos
+e) Registro de matrimonios contraídos por extranjeros en horas inhábiles. 20 salarios mínimos
 
-e) Registro de matrimonios contraídos por extranjero con ciudadano mexicano(a), en horas hábiles. 2 salarios mínimos
+f) Registro de matrimonios contraídos por extranjero con ciudadano mexicano(a), en horas hábiles. 2 salarios mínimos
 
-f) Registro de matrimonios contraídos por extranjero con ciudadano mexicano(a), en horas inhábiles. 20 salarios mínimos
+g) Registro de matrimonios contraídos por extranjero con ciudadano mexicano(a), en horas inhábiles. 20 salarios mínimos
 
-g) Por asiento de resolución judicial de cambio de régimen matrimonial 5 salarios mínimos
+h) Por asiento de resolución judicial de cambio de régimen matrimonial. 5 salarios mínimos
 
 IV. Divorcios:
 
@@ -1257,7 +1421,7 @@ IV. Búsqueda de documentos del archivo municipal, cuando no se precisen los dat
 
 ### CAPÍTULO IX. SERVICIOS FUNERARIOS Y PANTEONES
 
-#### SECCIÓN I. DERECHOS POR SERVICIOS DE CONTROL VEHICULAR
+#### SECCIÓN I. DEL PANTEÓN MUNICIPAL
 
 ###### Artículo 90.
 
@@ -1303,7 +1467,7 @@ No causarán los derechos señalados en este capítulo las inhumaciones de perso
 
 Por el otorgamiento de permisos para la construcción de obras dentro de los panteones o para la colocación de placas, lápidas o mausoleos, se cobrará un derecho equivalente al 2.5% del monto de la inversión.
 
-#### SECCIÓN II. SERVICIOS DE SEGURIDAD PÚBLICA
+#### SECCIÓN II. DEL PANTEÓN MUNICIPAL JARDINES DEL RECUERDO
 
 ###### Artículo 96.
 
@@ -1475,9 +1639,11 @@ Por metro lineal adicional. 10% del salario mínimo
 
 Por la expedición del número oficial. 1 salario mínimo.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 101.
 
-El derecho por alineamiento de predios sobre la vía pública será causado antes de la expedición del documento correspondiente.
+El derecho por alineamiento de predios sobre la vía pública será causado antes de la expedición del documento correspondiente, debiendo estar también al corriente en el pago del impuesto predial, del pago de agua potable y de la licencia de construcción.
 
 ###### Artículo 102.
 
@@ -1504,6 +1670,8 @@ b). A quienes soliciten certificado para cualquier fin distinto de los mencionad
 II. De morada conyugal 1 salario mínimo.
 
 ### CAPÍTULO XIII. SERVICIOS DE SEGURIDAD Y TRÁNSITO
+
+#### SECCIÓN I. DERECHOS POR SERVICIOS DE CONTROL VEHICULAR
 
 ###### Artículo 105.
 
@@ -1585,9 +1753,13 @@ Para la dotación y reposición de placas de identificación del servicio de con
 
 No se permitirá conducir vehículos de motor sin obtener previamente su licencia o permiso para conducir cumpliendo los requisitos establecidos y conforme a la siguiente tarifa:
 
-I. Licencia de chofer (por 3 años) 8.5 salarios mínimos
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-II. Licencia de automovilista (por 3 años) 5.5 salarios mínimos
+I. Licencia de Chofer (por 3 años) 10.8 salarios mínimos
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+II. Licencia de automovilista (por 3 años) 7 salarios mínimos
 
 III. Licencia de motociclista (por 3 años) 3.5 salario mínimo
 
@@ -1598,6 +1770,8 @@ Jóvenes mayores de 16 y menores De 18 años (máximo 90 días), previo curso de
 ###### Artículo 112.
 
 Por concepto de inscripción en cursos de educación vial, por cada participante se cobrará 3 salarios mínimos.
+
+#### SECCIÓN II. SERVICIOS DE SEGURIDAD PÚBLICA
 
 ###### Artículo 113.
 
@@ -1797,7 +1971,7 @@ Para los efectos de cobro de los derechos Las personas físicas o jurídicas que
 
 TARIFA
 
-I. La explotación de los estacionamientos pagarán por cada cajón $4.00
+I. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2003)
 
 II. Venta de bebidas alcohólicas en bailes o espectáculos, ferias y otros eventos con fines de lucro, por cada evento De 25 a 500 salarios mínimos.
 
@@ -1811,7 +1985,11 @@ V. Cuando los contribuyentes eventuales o ambulantes a que se refiere la fracci�
 
 a) si emplean vehículos de motor, pagarán sobre la cuota correspondiente el 50%
 
-### CAPÍTULO XVIII. POR EXPEDICIÓN DE LICENCIAS, REFRENDOS Y REVALIDACIONES, PERMISOS O AUTORIZACIONES PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS QUE EXPENDAN BEBIDAS ALCOHÓLICAS
+> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+### CAPÍTULO XVIII
+
+POR EXPEDICIÓN DE LICENCIAS, REVALIDACIONES, PERMISOS O AUTORIZACIONES Y CAMBIO DE DOMICILIO PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS QUE EXPENDAN BEBIDAS ALCOHÓLICAS
 
 ###### Artículo 133.
 
@@ -1839,51 +2017,97 @@ Son sujetos de este derecho las personas físicas o morales que se dediquen a la
 
 I. Por la expedición de licencias para el funcionamiento de establecimientos que almacenen, distribuyan, vendan y/o presten servicios que incluyan el consumo de bebidas alcohólicas, deberán causar derechos dentro de los rangos que establecen las tarifas que a continuación se mencionan y que deberán precisarse de acuerdo a lo que establezca el Ayuntamiento en su tabla tarifaria:
 
-a) Distribuidores con venta al mayoreo de 3,483 hasta 4,354, salarios mínimos;
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-b) Centros Nocturnos:
+a) Distribuidores con venta de bebidas alcohólicas 5,224 hasta 6,531 salarios mínimos.
 
-1. En zona turística 1,800 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-2. Fuera del área turística, de 1,800 salarios mínimos
+b) Centros nocturnos:
 
-3. Centros nocturnos de esparcimiento controlados por el Sector Salud, de 2,500 a 3,500 salarios mínimos
+1. En zona turística 2,700 salarios mínimos
+
+2. Fuera del área turística 2,000 salarios mínimos
+
+3. Centros nocturnos de esparcimiento controlados por el Sector Salud, de 3,750 a 5,250 salarios mínimos
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 c) Cantinas, bares, cervecerías, café cantante, peñas culturales:
 
-1. En zona turística, 1,000 salarios mínimos
+1. En zona turística, 1,500 salarios mínimos
 
-2. Fuera de la zona turística, de 1,000
+2. Fuera de la zona turística, 1,000 salarios mínimos
 
-d) Tiendas departamentales 1,000 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-e) Licorerías, Depósitos, y tienda de alimentos (ultramarinos) de 700 salarios mínimos.
+d) Tiendas departamentales 3,000 salarios mínimos
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+e) Licorerías, Depósitos, y tienda de alimentos (ultramarinos) de 1,050 salarios mínimos.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 f) Restaurant bar, hoteles y moteles:
 
-1. En zona turística 1000 salarios mínimos
+1. en zona turística 1,500 salarios mínimos
 
-2. Fuera de la zona turística, de 800 salarios mínimos
+2. fuera de la zona turística, 1,200 salarios mínimos
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 g) Restaurantes con venta de cerveza y licor solo con el consumo de alimentos
 
-1. En zona turística 500 salarios mínimos
+1. en zona turística 750 salarios mínimos
 
-2. Fuera de la zona turística, de 500 salarios mínimos
+2. fuera de la zona turística, 500 salarios mínimos
 
-h) Centros recreativos, clubes privados con membresía, asociaciones civiles y clubes deportivos de 100 a 500 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+h) Centros recreativos, clubes privados con membresía, asociaciones civiles y clubes deportivos de 150 a 500 salarios mínimos.
 
 II. La tabla tarifaria del inciso g) de la fracción anterior podrá disminuir tomando en cuenta la importancia demográfica, económica o turística del lugar donde se pretende establecer la licencia, de igual forma, a su capital social o a su número de empleados.
 
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
 III. El Ayuntamiento estará en facultad de otorgar permisos de los giros que a continuación se indican:
 
-a) Venta o consumo de bebidas alcohólicas de moderación de hasta 12º GL o vinos generosos al menudeo, en cenadurías, loncherías, cocinas económicas, coctelerías y negocios similares, por cada evento De 3 a 14 salarios mínimos
+a) Venta o consumo de bebidas alcohólicas de moderación de hasta 12º GL o vinos generosos al menudeo, en cenadurías, loncherías, cocinas económicas, coctelerías y negocios similares, por cada evento. De 4.5 a 21 salarios mínimos
 
-b) Servibares o sistemas similares instalados en hoteles, moteles, suites, departamentos amueblados demás establecimientos similares, por cada uno 1 salario mínimo anual
+b) Servibares o sistemas similares instalados en hoteles, moteles, suites, departamentos amueblados demás establecimientos similares, por cada uno 1.5 salario mínimo anual
 
-c) Producción o elaboración, destilación, ampliación, mezcla o transformación de bebidas alcohólicas (con venta al mayoreo y menudeo.) 50 salarios mínimos anuales
+c) Producción o elaboración, destilación, ampliación, mezcla o transformación de bebidas alcohólicas (con venta al mayoreo y menudeo.) 75 salarios mínimos anuales
 
-d) Giros donde se utilicen vinos y licores para preparar bebidas a bases de café, jugos, frutas, etc. 50 salarios mínimos anuales
+d) Giros donde se utilicen vinos y licores para preparar bebidas a bases de café, jugos, frutas, etc. 75 salarios mínimos anuales
+
+e) Ferias, eventos deportivos y diversiones análogas de carácter transitorio de acuerdo a los siguientes conceptos y tarifas:
+
+I. Kermés. 05 salarios mínimos.
+
+II. Degustación y eventos con bebidas de cortesía. 10 salarios mínimos
+
+III. Exhibiciones, arrancones, y carreras de automóviles. 40 salarios mínimos.
+
+IV. Lucha libre. 40 salarios mínimos.
+
+V. Funciones de box profesional. 50 salarios mínimos.
+
+VI. Charreadas y rodeos. 30 salarios mínimos.
+
+VII. Corridas de toros. 30 salarios mínimos
+
+VIII. Baile popular. 40 salarios mínimos.
+
+IX. Conciertos musicales masivos. 80 salarios mínimos.
+
+X. Carreras de caballos. 40 salarios mínmos.
+
+XI. Peleas de gallos. 30 salarios mínimos
+
+Cuando cualquiera de las actividades señaladas en las fracciones que anteceden se celebren en la zona rural se cobrará solamente el 50% de las tarifas respectivas.
+
+f) Cambio de domicilio 20% del costo de la licencia autorizada.
 
 ###### Artículo 137.
 
@@ -2213,17 +2437,21 @@ IV. Derechos por Legalización de Firmas, expedición de certificados y copias c
 
 V. Derechos por servicio de control vehicular, únicamente en licencias de conducir para automovilista, placas o calcomanías de un solo vehículo, propiedad del Pensionado o Jubilado.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 183.
 
-Se establece, en favor de los Pensionados y Jubilados, una reducción que será del 50% en el pago de los derechos causados por la prestación del servicio de Agua Potable y Alcantarillado.
+Se establece, en favor de los pensionados y jubilados, una reducción que será del 50% en el pago de los derechos causados por la prestación del servicio de agua potable y alcantarillado, tratamiento y saneamiento.
 
 ###### Artículo 184.
 
-Para aplicar las reducciones a las contribuciones de referencia, dentro de los límites de porcentaje señalados en los artículos 183 y 184 de esta Ley, la autoridad apreciará discrecionalmente las circunstancias del Pensionado o Jubilado en lo particular, considerando el monto de la pensión que tenga asignada.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2003)
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 185.
 
-Los Recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito por infracciones a las disposiciones fiscales a cargo de Pensionados o Jubilados, se reducirán conforme a los porcentajes y respecto de las contribuciones que se indican en los artículos 183 y 184 de esta Ley, en la misma proporción con la que se haya beneficiado al Pensionado o Jubilado.
+Los recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito por infracciones a las disposiciones fiscales a cargo de pensionados o jubilados, se reducirán conforme a los porcentajes y respecto de las contribuciones que se indican en Artículos 183 de esta ley.
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
@@ -2249,7 +2477,9 @@ III. De un 50% de descuento, en derechos por servicios en el Registro Civil, leg
 
 IV. De un 50% de descuento en derechos por servicios de control vehicular, únicamente en revistas anuales, tarjetas de circulación, calcomanías y placas exclusivas de su propiedad o de su tutor legal, autorizándose sólo un vehículo.
 
-V. De un 50% de descuento por el servicio de agua potable y alcantarillado para uso doméstico, en el pago de los derechos de las solicitudes de contrato del servicio de agua potable y alcantarillado, así mismo para la solicitud de cambio de propietario, para personas con discapacidad o tutor legal que acrediten los requisitos del programa.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+V. De un 50% de descuento por el servicio de agua potable y alcantarillado, tratamiento y saneamiento para uso doméstico, en el pago de los derechos de las solicitudes de contrato del servicio de agua potable y alcantarillado, así mismo para la solicitud de cambio de propietario, para personas con discapacidad o tutor legal que acrediten los requisitos del programa.
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
@@ -2396,5 +2626,9 @@ C. LIC. VÍCTOR MANUEL GULUARTE CASTRO
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 31 DE DICIEMBRE DE 2002.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2003.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
