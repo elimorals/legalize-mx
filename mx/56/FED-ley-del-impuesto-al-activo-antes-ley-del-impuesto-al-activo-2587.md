@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-al-activo-antes-ley-del-impuesto-al-activo-258
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-31"
-last_updated: "1991-12-20"
+last_updated: "1992-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2587&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-12-30"
 
 LEY DEL IMPUESTO AL ACTIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 1992.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1988.
 
@@ -271,13 +271,17 @@ I.- Compararán el pago provisional del impuesto al activo determinado conforme 
 
 II.- El pago provisional a que se refiere este artículo se hará por la cantidad que resulte mayor de acuerdo con la fracción anterior, pudiendo acreditar contra el impuesto a pagar, los pagos provisionales efectuados con anterioridad en los términos de este artículo.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 7o-B.
 
-Los contribuyentes a que se refiere el artículo 7o-A de esta Ley, efectuarán los ajustes mencionados en la fracción III del artículo 12-A de la Ley del Impuesto sobre la Renta, así como los pagos provisionales de este impuesto correspondientes al periodo de ajuste de que se trate, de conformidad con lo siguiente:
+Los contribuyentes a que se refiere el artículo 7o-A de esta Ley, efectuarán el ajuste mencionado en la fracción III del artículo 12-A de la Ley del Impuesto sobre la Renta, así como los pagos provisionales de este impuesto correspondientes al periodo de ajuste, de conformidad con lo siguiente:
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 I.- Se comparará el pago provisional del impuesto al activo determinado conforme al artículo 7o. de esta Ley, correspondiente al periodo por el que se efectúa el ajuste, con el monto del ajuste en el impuesto sobre la renta determinado de conformidad con el artículo 12-A de la Ley de la materia, sin considerar para efectos de dicha comparación la resta de los pagos provisionales señalados en tales preceptos.
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 II.- El pago del ajuste en el impuesto sobre la renta y del pago provisional del impuesto al activo a que se refiere este artículo se hará por la cantidad que resulte mayor de acuerdo con la fracción anterior, pudiendo acreditar contra el impuesto a pagar los pagos provisionales efectuados con anterioridad en los términos de este artículo y el anterior.
 
@@ -568,3 +572,9 @@ TERCERO.- Por el año de 1991, las personas físicas que se dediquen a la agricu
 D.O.F. 20 DE DICIEMBRE DE 1991.
 
 UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1992.
+
+D.O.F. 20 DE JULIO DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
