@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-y-vialidad-del-estado-de-san-luis-potosi-13007"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-28"
-last_updated: "1996-08-28"
+last_updated: "2001-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13007&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 28 de agosto de 1996.
 
@@ -51,7 +51,13 @@ La presente ley es de orden público y de interés general y establece las bases
 
 La prestación del servicio público de tránsito corresponde en el ámbito de sus respectivas competencias al Ejecutivo del Estado y a los ayuntamientos.
 
-Cuando exista manifiesta imposibilidad de algún Ayuntamiento para prestar el servicio de tránsito y vialidad por razones económicas o administrativas, el Ejecutivo del Estado, previo convenio con los ayuntamientos respectivos, podrá a través de la Dirección General de Protección Social y Vialidad, hacerse cargo en forma total o parcial de este servicio por el tiempo estrictamente necesario. Dichos convenios deberán ser aprobados por el Congreso del Estado.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Cuando exista manifiesta imposibilidad de algún Ayuntamiento para prestar el servicio de tránsito y vialidad por razones económicas o administrativas, el Ejecutivo del Estado, previo convenio con los ayuntamientos respectivos de conformidad con lo establecido en el tercer párrafo de la fracción III del artículo 114 de la Constitución Política del Estado, y en los términos que al efecto establecen los artículos 144 y 145 de la Ley Orgánica del Municipio Libre, podrá a través de la Dirección General de protección Social y Vialidad, hacerse cargo en forma total o parcial de este servicio por el tiempo estrictamente necesario.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+A falta del convenio a que se refiere el párrafo anterior, el Congreso del Estado determinará conforme al procedimiento que establece el ordenamiento antes citado, previa solicitud del Ayuntamiento correspondiente, los casos en que el Ejecutivo deberá asumir tal servicio.
 
 ###### ARTICULO 3o.
 
@@ -101,7 +107,9 @@ Corresponde al titular del Poder Ejecutivo del Estado:
 
 I.- Dictar lo necesario para la exacta observancia de las disposiciones de la presente ley;
 
-II.- Celebrar convenios con los diversos ayuntamientos del Estado, a petición de éstos, para prestar en forma concurrente o total el servicio público de tránsito en sus respectivas circunscripciones; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+II.- Celebrar conforme a lo dispuesto en la Ley Orgánica del Municipio Libre convenios con los ayuntamientos del Estado, a solicitud de éstos, los que deberán ser aprobados por cuando menos las dos terceras partes de los miembros del Cabildo de que se trate, para prestar en forma concurrente o total el servicio público de tránsito en sus respectivas circunscripciones; y
 
 III.- En casos de siniestros, caso fortuito o fuerza mayor, dictar las medidas conducentes para preservar la seguridad de la población en materia de tránsito y vialidad.
 
@@ -656,3 +664,11 @@ LIC. HORACIO SANCHEZ UNZUETA.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. FERNANDO SILVA NIETO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE MARZO DE 2001.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
