@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-penales-para-el-estado-de-tabasco-1234
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-22"
-last_updated: "2002-11-09"
+last_updated: "2003-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el 22 de febrero de 1997.
 
@@ -859,9 +859,13 @@ En estos casos, el agente que tenga noticia del delito consultará al Procurador
 
 Son delitos perseguibles por querella en los términos previstos por el Código Penal:
 
-I. Lesiones a que alude el artículo 116, fracción I;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
-II. Lesiones a las que se refiere el artículo 116, fracciones II a IV, si fueren inferidas en forma culposa;
+I. Lesiones a que alude el artículo 116, fracción I y II;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+II. Lesiones a las que se refiere el artículo 116, fracciones III y IV, si fueren inferidas en forma culposa;
 
 III. Lesiones previstas en el artículo 118, salvo cuando se trate de delito cometido con motivo del tránsito de vehículos y el conductor responsable se encuentre en los casos previstos por el segundo párrafo del artículo 126;
 
@@ -885,15 +889,31 @@ VIII. Calumnia prevista en el artículo 169. En este caso, rige para la querella
 
 IX. Incumplimiento de las obligaciones de asistencia familiar, establecido en el artículo 206;
 
-X. Sustracción o retención de menores o incapaces, a la que se refiere el artículo 209. La facultad de formular querella corresponde a quien tenga derechos familiares o de tutela respecto al menor o incapaz;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+X. Sustracción o retención de menores o incapaces, a que se refieren los artículos 209 y 209 bis. La facultad de formular querella corresponde a quien tenga derechos familiares o de tutela respecto al menor o incapaz;
 
 XI. Adulterio previsto en el artículo 222. Podrá querellarse el cónyuge ofendido, y en el caso de que se formule querella contra uno solo de los adúlteros, se procederá contra ambos;
 
-XII. Ejercicio indebido del propio derecho, al que alude el artículo 282; y
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1998)</small>
+XII. Ejercicio indebido del propio derecho, al que alude el artículo 282;
 
-XIII. Delitos contra el patrimonio de las personas previstos en el Título Décimo del Libro Segundo del Código Penal, excepto el abigeato, las operaciones con recursos de procedencia ilícita, aquellos en los que concurran calificativas y los dolosos cometidos contra instituciones públicas.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+XIII. Delitos contra el patrimonio de las personas previstos en el Título Décimo del Libro Segundo del Código Penal, excepto el abigeato, las operaciones con recursos de procedencia ilícita, aquellos en los que concurran calificativas y los dolosos cometidos contra instituciones públicas;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
+
+XIV. Hostigamiento sexual, previsto en los artículos 159 bis y 159 bis 1;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
+
+XV. Amenazas, previsto en el artículo 161; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
+
+XVI. Violencia familiar, previsto en los artículos 208 bis y 208 bis 1.
 
 ###### ARTÍCULO 116.
 
@@ -2184,3 +2204,9 @@ P.O. 9 DE NOVIEMBRE DE 2002.
 PRIMERO: El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial del Estado.
 
 SEGUNDO: Se derogan todas las disposiciones legales y reglamentos que se opongan al presente Decreto.
+
+P.O. 3 DE MAYO DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor a los cuarenta y cinco días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
