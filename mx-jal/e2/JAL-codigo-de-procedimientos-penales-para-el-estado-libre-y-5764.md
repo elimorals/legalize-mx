@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "1982-12-07"
+last_updated: "1986-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 1986.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -2531,9 +2531,11 @@ II. Que la acumulación se haya decretado en el caso previsto en la frac. I del 
 
 III. Que el Juez estime, si se trata de delitos conexos, que de continuar la acumulación la investigación se demoraría o dificultaría.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 1986)</small>
+
 ###### Art. 419.
 
-Contra el auto en que el Juez declare no haber lugar a la separación no procede recurso alguno; pero dicho auto no pasará en autoridad de cosa juzgada mientras no esté concluida la instrucción. Contra el auto que decrete la separación tampoco procede recurso alguno.
+Contra el auto en que el juez declare no haber lugar a la separación, no procede recurso alguno; pero dicho auto no pasará en autoridad de cosa juzgada mientras no esté concluida la instrucción.
 
 ###### Art. 420.
 
@@ -2838,3 +2840,9 @@ Lic. Flavio Romero de Velasco
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Alfonso de Alba Martín
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 25 DE FEBRERO DE 1986.
+
+ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
