@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "1997-02-21"
+last_updated: "1997-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1997.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -131,6 +131,8 @@ Las Juntas Locales de Conciliación y Arbitraje de Mexicali y Tijuana, son Tribu
 
 Cuando exista duda respecto de la competencia de las Dependencias para la atención de algún asunto, el Gobernador del Estado decidirá a cuál de ellas le corresponde atenderlo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 17.
 
 Para el estudio, planeación y despacho de los negocios en los diversos ramos de la Administración Pública del Estado, habrá un Secretario General de Gobierno.
@@ -143,21 +145,21 @@ II.- Procuraduría General de Justicia;
 
 III.- Secretaría de Finanzas;
 
-IV.- (DEROGADA, P.O. 10 DE OCTUBRE DE 1992)
+IV.- Secretaría de Planeación y Presupuesto;
 
-V.- Secretaría de Planeación y Presupuesto;
+V.- Secretaría de Asentamientos Humanos y Obras Públicas;
 
-VI.- Secretaría de Asentamientos Humanos y Obras Públicas;
+VI.- Secretaría de Desarrollo Económico;
 
-VII.- Secretaría de Desarrollo Económico;
+VII.- Secretaría de Fomento Agropecuario;
 
-VIII.- Secretaría de Fomento Agropecuario;
+VIII.- Secretaría de Turismo;
 
-IX.- Secretaría de Turismo;
+IX.- Secretaría de Educación y Bienestar Social;
 
-X.- Secretaría de Educación y Bienestar Social;
+X.- Secretaría de Salud;
 
-XI.- Secretaría de Salud;
+XI.- Secretaría Jurídica y Prevención Social;
 
 XII.- Dirección de Tránsito y Transportes;
 
@@ -169,17 +171,11 @@ XV.- Dirección de Relaciones Públicas;
 
 XVI.- Dirección de Comunicación Social;
 
-XVII.- Dirección Jurídica;
+XVII.- Dirección General de Ecología;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE FEBRERO DE 1992)</small>
+XVIII.- Comisión Agraria Mixta, y
 
-XVIII.- Dirección General de Ecología;
-
-XIX.- Comisión Agraria Mixta.
-
-> <small>(ADICIONADA, P.O. 8 DE JULIO DE 1994)</small>
-
-XX.- Dirección de Control y Evaluación Gubernamental.
+XIX.- Dirección General de Control y Evaluación Gubernamental.
 
 ## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
@@ -241,23 +237,37 @@ X.- Tramitar la expedición de pasaportes, en los términos de los Convenios res
 
 XI.- (DEROGADA, P.O. 31 DE MAYO DE 1991)
 
-XII.- Elaborar los Proyectos de Decreto de Expropiación, Ocupación Temporal y Limitación de Dominio en los casos de utilidad pública;
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
 
-XIII.- Tramitar los nombramientos de los Magistrados del Tribunal Superior de Justicia;
+XII.- Tramitar los nombramientos de los magistrados del Tribunal Superior de Justicia;
 
-XIV.- Llevar el registro y legalizar las firmas autógrafas de los servidores públicos estatales, los Presidentes y Secretarios Municipales y los demás servidores públicos a quien esté encomendada la fé pública.
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
 
-XV.- Organizar y conducir en el Estado el ejercicio de las funciones del Registro Civil y del Notariado;
+XIII.- Llevar el registro y legalizar las firmas autógrafas de los servidores públicos estatales, los Presidentes y Secretarios Municipales, y de los demás servidores públicos a quienes esté encomendada la fe pública;
 
-XVI.- Proporcionar los apoyos administrativos que requiera la Comisión Estatal Electoral, el Registro Estatal de Electores y demás organismos que por ley o convenio le corresponda atender dentro de su dependencia;
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
+
+XIV.- Organizar y conducir en el Estado, el ejercicio de las funciones del Registro Civil, y del Notariado;
+
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
+
+XV.- Proporcionar los apoyos administrativos que requiera la Comisión Estatal Electoral, el Registro Estatal de Electores, y demás organismos que por ley o convenio, le corresponda atender dentro de su dependencia;
+
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
+
+XVI.- Participar y coordinar, en su caso, actividades relacionadas con la beneficencia pública y privada, y la política poblacional;
 
 XVII.- Participar y coordinar, en su caso, actividades relacionadas con la beneficencia pública y privada, la seguridad pública y la política poblacional;
 
 XVIII.- Dirigir y orientar la prevención de la delincuencia y de toda conducta que afecte negativamente la seguridad y el bienestar social, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
 
-XIX.- Tramitar, por acuerdo del Gobernador, las solicitudes de indulto, libertad preparatoria, preliberación y remisión parcial de la pena, traslado de los sentenciados que estén a disposición del Ejecutivo y vigilar la ejecución de las sanciones dictadas por las Autoridades del Poder Judicial;
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
 
-XX.- Proponer al Gobernador del Estado la creación y, en su caso administrar las Instituciones que contribuyan al desarrollo de sus funciones tutelares;
+XIX.- Vigilar la marcha general de la administración pública, para asegurar el cumplimiento de las instrucciones y criterios generales que hubieren sido dictados por el titular del Ejecutivo;
+
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
+
+XX.- Establecer el sistema estatal de protección civil; coordinar las acciones y programas del Ejecutivo, relativos a la prevención de desastres; así como, ordenar la participación civil en eventos de emergencia, a fin de controlar y disminuir los daños materiales y humanos, y
 
 XXI.- Proponer al Gobernador la creación y, en su caso, administrar los Centros de Readaptación Social para Adultos en el Estado;
 
@@ -871,23 +881,55 @@ IV.- Desarrollar investigaciones de opinión pública, respecto a la imagen gene
 
 V.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
 ### CAPITULO XIX
 
-DE LA COMPETENCIA DE LA DIRECCION JURIDICA.
+DE LA COMPETENCIA DE LA SECRETARIA JURIDICA Y PREVENCION SOCIAL.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 38.
 
-A la Dirección Jurídica corresponde la atención y trámite de los siguientes asuntos:
+A la Secretaría Jurídica y Prevención Social le corresponde la atención y trámite de los siguientes asuntos:
 
-I.- Resolver las consultas que en materia jurídica le sean planteadas por el Gobernador, por las Dependencias y por las Entidades de la Administración Pública Estatal;
+I.- Vigilar que en los asuntos de orden administrativo que competen al Poder Ejecutivo, se observen los principios de constitucionalidad y legalidad;
 
-II.- Asesorar al Gobernador y a los Titulares de las Dependencias en los juicios de amparo que se promuevan con motivo de su actuación;
+II.- Intervenir en las controversias constitucionales en las que el Ejecutivo del Estado sea parte;
 
-III.- Formular los Proyectos de Ley o Reglamentos que le encomiende el Ejecutivo del Estado;
+III.- Representar al Gobernador del Estado, cuando éste así lo acuerde, en las acciones y controversias constitucionales a que se refiere el artículo 105 de la Constitución Federal;
 
-IV.- Intervenir en el trámite de los casos de expropiación, y
+IV.- Prestar consejo jurídico, emitir opinión y resolver las consultas que en materia jurídica le sean planteadas por el Gobernador y por las dependencias y entidades de la Administración Pública Estatal;
 
-V.- Los demás que determinen expresamente las Leyes y Reglamentos.
+V.- Formular o emitir opinión sobre la constitucionalidad de los proyectos de Ley o Reglamentos que le encomiende el Ejecutivo del Estado;
+
+VI.- Presidir e integrar la Comisión de Estudios Jurídicos, integrada por los responsables de las unidades de asuntos jurídicos de cada dependencia y entidad de la Administración Pública del Estado;
+
+VII.- Intervenir con la representación jurídica del Poder Ejecutivo en todos los juicios o negocios en que intervenga como parte, afecten su patrimonio o tenga interés jurídico;
+
+VIII.- Participar como coadyuvante en los juicios o negocios en que las dependencias y entidades de la Administración Pública del Estado intervengan con cualquier carácter, en su caso y previo acuerdo con el Titular, ejercer las acciones y excepciones que correspondan para la defensa administrativa y judicial;
+
+IX.- Organizar y controlar la Oficina Defensora de Oficio;
+
+X.- Intervenir en el trámite de los casos de expropiación;
+
+XI.- Proponer al Gobernador del Estado la creación y en su caso administrar las instituciones que contribuyan al desarrollo de la función tutelar para menores infractores y los Centros de Readaptación Social para adultos;
+
+XII.- Operar y administrar el Sistema Estatal Penitenciario, regular la clasificación e internación de reos; Diseñar y ejecutar los programas de rehabilitación educativa; y promover la creación del patronato de reincorporación e integración social de reos y liberados;
+
+XIII.- Tramitar, por acuerdo del Gobernador, las solicitudes de libertad preparatoria, preliberación y remisión parcial de la pena, traslado de los sentenciados que estén a disposición del Ejecutivo y vigilar la ejecución de las sanciones dictadas por las Autoridades del Poder Judicial;
+
+XIV.- Coordinar el Consejo Estatal de Seguridad Pública, y los programas de identificación e inventario de recursos humanos y materiales de las corporaciones, públicas y privadas, que brinden servicios de seguridad policial y preventiva en el Estado y en su red carretera;
+
+XV.- Participar en la elaboración y diseño de programas Académicos de Administración penitenciaria y capacitación de custodios;
+
+> <small>(F. DE E., P.O. 30 DE ENERO DE 1998)</small>
+
+XVI.- Fomentar la participación ciudadana, en la realización de programas y acciones tendientes a prevenir la toxicomanía en todos sus tipos; coordinándose con las autoridades cuya intervención establezcan las leyes federales;
+
+XVII.- Regular y controlar la prestación de servicios de seguridad privada y expedir la anuencia del Ejecutivo necesaria para su establecimiento y operación, y autorizar el equipo y los aditamentos de protección necesarios para su función, y
+
+XVIII.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACION, P.O. 29 DE FEBRERO DE 1992)</small>
 
@@ -1234,3 +1276,21 @@ P.O. 21 DE FEBRERO DE 1997.
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 31 DE DICIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El personal de las dependencias que, en aplicación de esta reforma pase a la Secretaría Jurídica y Prevención Social, en ninguna forma resultará afectado en los derechos que haya adquirido, en virtud de su relación laboral con la administración pública del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las referencias y atribuciones que en otras leyes y reglamentos, con anterioridad a la entrada en vigor de este decreto se entendían conferidas a la Dirección de Prevención y Readaptación Social, a la Dirección Jurídica del Estado y a la Defensoría de Oficio, se entenderán hechas y otorgadas a la Secretaría Jurídica y Prevención Social.
+
+###### ARTICULO TERCERO.
+
+Para efectos administrativos y presupuestales la Secretaría Jurídica y Prevención Social, recibirá a partir de la vigencia del presente decreto las partidas presupuestales, personal, mobiliario, vehículos, instrumentos, maquinaria, aparatos, archivos y, en general, el equipo que las dependencias afectadas hayan utilizado para la atención de los asuntos de su encargo.
+
+###### ARTICULO CUARTO.
+
+El presente decreto entrará en vigor el día primero de enero de 1998, con el Presupuesto de Egresos del Estado del mismo ejercicio fiscal. Publíquese en el Periódico Oficial, Órgano del Gobierno del Estado.
