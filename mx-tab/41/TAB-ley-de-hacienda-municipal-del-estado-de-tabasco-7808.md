@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-municipal-del-estado-de-tabasco-7808"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "1992-12-30"
+last_updated: "1993-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 1993.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 1992.
 
@@ -719,7 +719,9 @@ Los ayuntamientos o Concejos Municipales podrán mejorar los sistemas de recauda
 
 La base del Impuesto Predial es el Valor Fiscal del Predio.
 
-El Valor Fiscal será el que resulte de multiplicar el Valor Catastral del predio por el porcentaje fiscal correspondiente a la zona catastral respectiva.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE MARZO DE 1993)</small>
+
+El Valor Fiscal será el que resulte de multiplicar el valor catastral del predio por el porcentaje fiscal correspondiente a la zona catastral respectiva. El porcentaje fiscal no será inferior al 20%.
 
 Los Cabildos o Concejos Municipales podrán determinar Porcentajes Fiscales por zona catastral que deberán ser aprobados por el Congreso del Estado. Estos Porcentajes Fiscales dependerán del nivel económico, de la disponibilidad de infraestructura, y de los servicios existentes en cada zona catastral.
 
@@ -1145,17 +1147,17 @@ El otorgamiento de concesiones y cesión de derechos de propiedad de lotes y bó
 
 I.- De terrenos a perpetuidad en los cementerios, por cada lote de dos metros de longitud por uno de ancho, pagarán:
 
-a) Por el área total del fraccionamiento, por metro cuadrado: 0.03 d.s.m.g.v.
+A) En las cabeceras municipales: de 10 a 20 d.s.m.g.v.
 
-II.- Condominios, por metro cuadrado del terreno: 0.10 d.s.m.g.v.
+B) En los demás cementerios municipales: de 5 a 10 d.s.m.g.v.
 
-III.- Lotificaciones, por metro cuadrado del área total: 0.10 d.s.m.g.v.
+II.- Por la cesión de derechos de propiedad, y bóvedas entre particulares, pagarán:
 
-IV.- Relotificaciones, por metro cuadrado del área vendible: 0.05 d.s.m.g.v.
+A) En las cabeceras municipales: 10 d.s.m.g.v.
 
-V.- Divisiones, por metro cuadrado del área vendible: 0.08 d.s.m.g.v.
+B) En los demás cementerios municipales: 5 d.s.m.g.v.
 
-VI.- Subdivisiones, por metro cuadrado del área vendible: 0.05 d.s.m.g.v.
+III.- Por reposición de títulos de propiedad, pagarán: 5 d.s.m.g.v.
 
 ### CAPITULO V. DE LOS SERVICIOS MUNICIPALES DE OBRAS
 
@@ -1510,3 +1512,9 @@ LIC. MANUEL GURRIA ORDOÑEZ.
 LIC. ENRIQUE PRIEGO OROPEZA,
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE MARZO DE 1993.
+
+UNICO: El presente Decreto surtirá sus efectos legales a partir de su publicación en el Periódico Oficial del Estado.
