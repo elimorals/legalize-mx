@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2001-01-05"
+last_updated: "2001-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE OCTUBRE DE 2001.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -436,6 +436,10 @@ XXXII. Intervenir en la formulación y aplicación de programas de transporte p�
 XXXIII. Celebrar convenios para la administración y custodia de las zonas federales;
 
 XXXIV. Expedir en lo conducente, para efectos de lo dispuesto en las fracciones XXVII a XXXIII de este artículo, de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Federal, los reglamentos y disposiciones administrativas que fueren necesarias;
+
+(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO ‘DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS’, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 XXXV. Dictar, previo acuerdo de las dos terceras partes de sus integrantes, disposiciones que afecten al patrimonio inmobiliario municipal. La enajenación, transmisión de la posesión o dominio de bienes inmuebles se podrá otorgar siempre que medie autorización expresa del Congreso del Estado;
 
@@ -1489,11 +1493,15 @@ En la primera quincena del mes de agosto de cada año, las Comisiones, oyendo a 
 
 En la segunda quincena del mes de agosto los servidores públicos mencionados en el artículo anterior, con base en los ingresos y egresos que tengan autorizados y los proyectos de las Comisiones, formularán cada año los proyectos presupuestales de ingresos y egresos para el ejercicio correspondiente al año siguiente.
 
-En la primera quincena del mes de septiembre el Ayuntamiento, en sesión de cabildo, discutirá dichos proyectos.
+> <small>(REFORMADO, G.O. 12 DE OCTUBRE DE 2001)</small>
+
+Durante el mes de septiembre el Ayuntamiento, en sesión de Cabildo, discutirá dichos proyectos.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 107.
 
-En el curso del mes de septiembre de cada año, los Ayuntamientos remitirán por triplicado al Congreso del Estado, el proyecto anual de ley de ingresos y el Presupuesto de Egresos . En caso de que aquél haga observaciones las comunicará al Ayuntamiento a más tardar el día 30 de noviembre.
+En el curso del mes de octubre de cada año, los Ayuntamientos remitirán por triplicado, al Congreso del Estado, el proyecto anual de Ley de Ingresos y el Presupuesto de Egresos. En caso de que aquél haga observaciones, las comunicará al Ayuntamiento a más tardar el día 30 de noviembre. Si no cumplieren con la remisión, el Congreso tendrá por presentados los proyectos del año anterior y podrá ajustarlos en la medida que estime necesario.
 
 Cuando el proyecto anual de ley de ingresos sea elaborado por un Ayuntamiento cuyo ejercicio concluya en ese mismo año, las nuevas autoridades podrán enviar sus puntos de vista en los primeros quince días del mes de enero.
 
@@ -2252,3 +2260,11 @@ Atentamente
 Sufragio Efectivo. No reelección
 
 Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 12 DE OCTUBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO.- Por única vez, la discusión de los proyectos presupuestales de ingresos y egresos a que se refiere el último párrafo del artículo 106 de la Ley Orgánica del Municipio Libre, correspondientes al ejercicio fiscal del año 2002, podrá realizarse, en sesión de Cabildo, a más tardar el 18 de octubre de 2001.
