@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "1990-09-01"
+last_updated: "1991-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 1991.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -8965,9 +8965,9 @@ De dicho instrumento se formarán dos originales, uno para el comprador y el otr
 
 Si el valor del inmueble excede de cinco mil pesos su venta deberá constar en escritura pública.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1991)</small>
 
-Se excepcionan de lo anterior los contratos y operaciones relacionadas con los inmuebles que se adquieran con los créditos provenientes del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y el Instituto de la Vivienda del Estado de Nayarit, que podrán constar en documentos privados, ante dos testigos e inscribirse en el Registro Público de la Propiedad que corresponda, con la constancia del Registrador sobre la autenticidad de las firmas y la voluntad de las partes.
+Se excepcionan de lo anterior los contratos y operaciones relacionadas con los inmuebles que se adquieran con los créditos provenientes del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Instituto de la Vivienda del Estado de Nayarit y de la Comisión para la Regularización de la Tenencia de la Tierra, que podrán constar en documentos privados, ante dos testigos e inscribirse en el Registro Público de la Propiedad que corresponda, con la constancia del registrador sobre la autenticidad de las firmas y la voluntad de las partes.
 
 ###### Artículo 1693.
 
@@ -15306,3 +15306,9 @@ UNICO.- La presente reforma entrará en vigor a partir del día siguiente de su 
 P.O. 1º. DE SEPTIEMBRE DE 1990.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 23 DE FEBRERO DE 1991
+
+###### ARTICULO UNICO.
+
+Comuníquese el presente Decreto al C. Gobernador del Estado y publíquese en el Periódico Oficial, Organo del Gobierno del Estado.
