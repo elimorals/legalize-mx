@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1995-08-09"
+last_updated: "1995-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 1995.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -799,11 +799,11 @@ XXIV.- Convocar a elecciones extraordinarias de Diputados cuando, por cualquiera
 
 XXV.- Convocar a elecciones extraordinarias de Gobernador en los casos previstos en esta Constitución.
 
-XXVI.- (DEROGADA, P.O. 25 DE JULIO DE 1994)
+XXVI.- (DEROGADA, P.O. 25 DE JULIO DE 1994) (REPUBLICADA, P.O. 25 DE AGOSTO DE 1995)
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 1995)</small>
 
-XXVII.- Erigirse en Colegio Electoral para hacer la calificación y declaratoria respecto a las elecciones de Gobernador, Ayuntamientos y Agentes Municipales.
+XXVII.- Erigirse en Colegio Electoral, para hacer la calificación y declaratoria, respecto a las elecciones de Gobernador, Ayuntamientos y Presidentes Municipales Auxiliares.
 
 > <small>(REFORMADA, P.O. 25 DE JULIO DE 1994)</small>
 
@@ -849,9 +849,9 @@ XLIV.- Nombrar el día anterior al de la clausura de cada período de sesiones o
 
 XLV.- Expedir las Leyes que regulen su estructura y funcionamiento internos.
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 1994)</small>
+(REFORMADA, P.O. 25 DE AGOSTO DE 1995) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 1995)
 
-XLVI.- Recibir los expedientes relativos a la elección de Gobernador, de Ayuntamientos y de Agentes Municipales.
+XLVI.- Recibir los expedientes relativos a la elección de Gobernador, de Ayuntamientos y de Presidentes Municipales Auxiliares.
 
 XLVII.- Instalar la Junta Preparatoria del nuevo Congreso.
 
@@ -1297,11 +1297,11 @@ La Ley Orgánica del Poder Judicial determinará el número de Magistrados y Jue
 
 Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE AGOSTO DE 1995)</small>
 
 ###### ARTICULO 87.
 
-Los Ayuntamientos se compondrán de un Presidente Municipal, un Síndico y los Regidores que determine la Ley, nombrado (sic) cada tres años, en elección popular directa calificada por el Congreso en los términos que la propia Ley prescriba. Los Agentes Municipales electos en la misma elección de los Ayuntamientos y conforme lo dispongan las Leyes respectivas, formarán parte de los propios Ayuntamientos con el carácter de Regidores. Tomarán posesión el día tres de enero inmediato posterior a la elección. Y no podrán ser reelectos ni como propietarios ni como suplentes para el período inmediato al en que hubieren ejercido su encargo.
+Los Ayuntamientos se compondrán de un Presidente Municipal, un Síndico y los Regidores que determine la Ley, nombrados cada tres años, en elección popular directa calificada por el Congreso en los términos que la propia Ley prescriba. Los Presidentes Municipales Auxiliares electos en la misma elección de los Ayuntamientos y conforme lo dispongan las Leyes respectivas, formarán parte de los propios Ayuntamientos con el carácter de Regidores, tomarán posesión el día tres de enero inmediato posterior a la elección. Y no podrán ser reelectos ni como propietarios ni como suplentes, para el período inmediato al en que hubieren ejercido su encargo.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1984)</small>
 
@@ -1417,11 +1417,11 @@ i).- Y los demás que determinen las Leyes locales, tomando en cuenta las condic
 
 Los Municipios previo acuerdo entre sus respectivos Ayuntamientos y conforme lo determine la Ley de Coordinación Estatal y Municipal podrán, para la más eficaz prestación de los servicios públicos, asociarse y coordinarse.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE AGOSTO DE 1995)</small>
 
 ###### ARTICULO 94.
 
-La Ley Orgánica Municipal determinará las facultades y deberes de los Ayuntamientos.
+La Ley Orgánica Municipal, determinará las facultades y obligaciones de los Ayuntamientos y de las Presidencias Municipales Auxiliares.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -1864,3 +1864,9 @@ PRIMERO.- La Constitución de un Ayuntamiento no modifica la división territori
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan a la presente reforma constitucional.
+
+P.O. 25 DE AGOSTO DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación el Periódico Oficial del Gobierno del Estado.
