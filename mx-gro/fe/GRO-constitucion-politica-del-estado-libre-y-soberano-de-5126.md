@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2002-05-03"
+last_updated: "2002-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2002.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -173,73 +173,79 @@ Los Municipios integrantes del Estado de Guerrero son:
 
 44.- Mártir de Cuilapan
 
-45.- Metlatónoc
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2002)</small>
 
-46.- Mochitlán
+45.- Marquelia
 
-47.- Olinalá
+46.- Metlatónoc
 
-48.- Ometepec
+47.- Mochitlán
 
-49.- Pedro Ascencio Alquisiras
+48.- Olinalá
 
-50.- Petatlán
+49.- Ometepec
 
-51.- Pilcaya
+50.- Pedro Ascencio Alquisiras
 
-52.- Pungarabato
+51.- Petatlán
 
-53.- Quechultenango
+52.- Pilcaya
 
-54.- San Luis Acatlán
+53.- Pungarabato
 
-55.- San Marcos
+54.- Quechultenango
 
-56.- San Miguel Totolapan
+55.- San Luis Acatlán
 
-57.- Taxco de Alarcón
+56.- San Marcos
 
-58.- Tecoanapa
+57.- San Miguel Totolapan
 
-59.- Tecpan de Galeana
+58.- Taxco de Alarcón
 
-60.- Teloloapan
+59.- Tecoanapa
 
-61.- Tepecoacuilco de Trujano
+60.- Tecpan de Galeana
 
-62.- Tetipac
+61.- Teloloapan
 
-63.- Tixtla de Guerrero
+62.- Tepecoacuilco de Trujano
 
-64.- Tlacoapa
+63.- Tetipac
 
-65.- Tlacoachistlahuaca
+64.- Tixtla de Guerrero
 
-66.- Tlalchapa
+65.- Tlacoapa
+
+66.- Tlacoachistlahuaca
+
+67.- Tlalchapa
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 1988)</small>
 
-67.- Tlalixtaquilla de Maldonado
+68.- Tlalixtaquilla de Maldonado
 
-68.- Tlapa de Comonfort
+69.- Tlapa de Comonfort
 
-69.- Tlapehuala
+70.- Tlapehuala
 
 > <small>(REFORMADO, P.O. 20 DE JULIO DE 1993)</small>
 
-70.- La Unión de Isidoro Montes de Oca
+71.- La Unión de Isidoro Montes de Oca
 
-71.- Xalpatláhuac
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2002)</small>
 
-72.- Xochistlahuaca
+72.- Xalpatláhuac
 
-73.- Xochihuehuetlán
+73.- Xochistlahuaca
 
-74.- Zapotitlán Tablas
+74.- Xochihuehuetlán
 
-75.- Zirándaro
+75.- Zapotitlán Tablas
 
-76.- Zitlala
+76.- Zirándaro
+
+77.- Zitlala
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -647,7 +653,7 @@ Los diputados suplentes podrán ser electos para el período inmediato con el ca
 
 ### CAPITULO IV. DE LA INSTALACION Y FUNCIONAMIENTO DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MAYO DE 1989)</small>
+((REFORMADO PRIMER PARRAFO, P.O. 9 DE MAYO DE 1989)
 
 ###### ARTICULO 39.
 
@@ -1137,7 +1143,7 @@ Llegado el caso de la desaparición de los poderes del Estado se observará el p
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
+### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1243,11 +1249,11 @@ XXXVII.- Celebrar convenios con la Federación y los Ayuntamientos para la reali
 
 XXXVIII.- Las demás que se deriven de las Constituciones Federal y Local, así como de las Leyes que de ellas emanen.
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
-
-### CAPITULO UNICO
-
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
+
+(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ###### ARTICULO 75.
 
@@ -1277,9 +1283,9 @@ El Presidente presentará anualmente al Congreso un informe sobre las actividade
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
+### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
 
-(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 77.
 
@@ -1421,9 +1427,9 @@ Los nombramientos de los Magistrados y Jueces integrantes del Poder Judicial del
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
+### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 89.
 
@@ -1531,11 +1537,11 @@ VI.- De conformidad a los fines señalados por el párrafo tercero del artículo
 
 VII.- Planear y regular de manera conjunta y coordinada con la Federación, el Estado y otros Municipios en el ámbito de sus competencias el desarrollo de aquellas zonas urbanas situadas en los territorios municipales del Estado o de otras Entidades Federativas que formen o tiendan a formar una continuidad demográfica, de conformidad con las Leyes de la Materia.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
+
+### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
+
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 94.
 
@@ -1653,9 +1659,9 @@ No pueden ser electos como integrantes de los Ayuntamientos, los miembros en ser
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO
+### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 100.
 
@@ -1751,7 +1757,7 @@ Ninguna cuenta perteneciente a caudales públicos dejará de concluirse y glosar
 
 Todo Funcionario Público o empleado que tenga que manejar fondos, ya sea del Estado o del Municipio, deberá otorgar caución en términos de Ley.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 108.
 
@@ -2007,7 +2013,7 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
+### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -2031,19 +2037,11 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
-
-## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
-
-## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
+### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
+## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -2054,6 +2052,14 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 ### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1998)</small>
 
 ## TITULO DECIMO CUARTO. DE LA ADMINISTRACION PUBLICA
 
@@ -2834,3 +2840,7 @@ PRIMERO.- Túrnese el presente Decreto a los Ayuntamientos del Estado, para los 
 SEGUNDO.- Una vez que se tengan las Actas de los Ayuntamientos, por las que se aprueba o desecha el presente, llévese a cabo el cómputo correspondiente y emítase la declaratoria de validez correspondiente.
 
 TERCERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE MAYO DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
