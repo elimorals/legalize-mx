@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1981-12-16"
+last_updated: "1982-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1982.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -3847,11 +3847,15 @@ ART. 366.- La percepción de las participaciones se regirá por las leyes y conv
 
 ### CAPITULO I. Adicional para el Sostenimiento de la Universidad Autónoma de Sinaloa
 
-ART. 367.- Sobre el monto de los impuestos y derechos que a continuación se indican, se causará una tasa adicional del 10%, cuyo producto se destinará al sostenimiento de la Universidad Autónoma de Sinaloa:
+> <small>(REFORMADO PRIMER PARRAFO, P. O. 1 DE ENERO DE 1982)</small>
+
+ART. 367.- Sobre el monto de los impuestos y derechos que a continuación se indican, se causará una tasa adicional del 10%, cuyo producto se destinará a apoyar la educación superior en el Estado.
 
 I.- Impuestos:
 
-a).- Predial, con excepción del impuesto aplicable a predios rústicos ejidales utilizados con fines agrícolas, en cuyo caso la participación de la Universidad Autónoma de Sinaloa será del 7% del ingreso recaudado por este último concepto, en los términos establecidos en el último párrafo del inciso a) de la fracción II del Artículo 78 de esta Ley;
+> <small>(REFORMADO, P. O. 1 DE ENERO DE 1982)</small>
+
+a).- Predial, con excepción del impuesto aplicable a predios rústicos ejidales utilizados con fines agrícolas, en cuyo caso se destinará a la educación superior un 7% del ingreso recaudado por este último concepto, en los términos establecidos por el último párrafo del inciso a) de la Fracción II del Artículo 78 de esta Ley;
 
 b).- Sobre Producto de Capitales;
 
@@ -3903,13 +3907,17 @@ e).- Registro Público de la Propiedad y del Comercio, con excepción de los der
 
 f).- Servicio Sanitario, con excepción de los derechos por este concepto aplicables a expendios, agencias y depósitos de cerveza.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
-ART. 368.- En el rendimiento del Impuesto sobre Primera Venta de Gasolina, Grasas, Lubricantes y demás derivados del Petróleo, la Universidad Autónoma de Sinaloa tendrá una participación de 0.070922.
+ART. 368.- En el rendimiento del Impuesto sobre Primera Venta de Gasolina, Grasas, Lubricantes y demás derivados del Petróleo se destinará un 0.070922 a la educación superior.
 
-ART. 369.- La tasa adicional del 10% y demás participaciones que correspondan a la Universidad Autónoma de Sinaloa en los términos de los dos artículos precedentes, también se aplicarán a los "Rezagos" derivados de impuestos y derechos que los originen.
+> <small>(REFORMADO, P. O. 1 DE ENERO DE 1982)</small>
 
-ART. 370.- El gravamen a que se refiere este Capítulo se pagará al cubrirse el impuesto o derecho que lo motiva, y su producto se entregará quincenalmente a la Universidad Autónoma de Sinaloa.
+ART. 369.- La tasa adicional del 10% y demás porcentajes que se señalan en los dos artículos precedentes, también se aplicarán a los "Rezagos" derivados de Impuestos y Derechos que los originen.
+
+> <small>(REFORMADO, P. O. 1 DE ENERO DE 1982)</small>
+
+ART. 370.- El gravamen a que se refiere este Capítulo se pagará al cubrirse el Impuesto o Derecho que lo motiva, y su producto será entregado (quincenalmente) a las instituciones educativas de educación superior.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -5328,3 +5336,9 @@ P.O. 16 DE DICIEMBRE DE 1981.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 1 DE ENERO DE 1982.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
