@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1937-07-03"
+last_updated: "1938-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE JULIO DE 1937.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 1938.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -765,7 +765,9 @@ El importe total de las reservas técnicas deberá invertirse precisamente en lo
 
 I.- Bonos o títulos emitidos o garantizados por el Gobierno Mexicano;
 
-II.- Bonos hipotecarios, bonos de caja, aceptaciones, cédulas hipotecarias y obligaciones emitidas o garantizados, en su caso, por instituciones de crédito o auxiliares de concesión federal;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE JUNIO DE 1938)</small>
+
+I.- Bonos o títulos emitidos o garantizados por el Gobierno Mexicano, u obligaciones emitidas por el Departamento del Distrito Federal en los términos establecidos en el artículo 86;
 
 III.- Acciones y obligaciones de compañías mexicanas, que no sean mineras, petroleras o de seguros, aprobadas por la Secretaría de Hacienda por medio de acuerdos generales;
 
@@ -787,11 +789,11 @@ XI.- Primas netas pendientes de cobro que no tengan más de 30 días de vencidas
 
 Las inversiones de las reservas técnicas estarán afectas a las obligaciones contraídas por la institución por las pólizas emitidas, y no podrán disponer de ellas, total ni parcialmente, sino para cumplir las obligaciones contraídas y las que resulten por virtud de sentencia ejecutoriada de los Tribunales de la República, a favor de los asegurados o beneficiarios, de acuerdo con esta Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 30 DE JUNIO DE 1938)</small>
 
 ###### ARTICULO 86.
 
-Por lo menos el 20% de las reservas técnicas de las instituciones de seguros, estarán precisamente invertidas en obligaciones del Gobierno Federal, para obras de servicios públicos y en bonos hipotecarios de instituciones nacionales de crédito.
+Por lo menos el veinte por ciento de las reservas técnicas de las instituciones de seguros, estarán precisamente invertidas en obligaciones del Gobierno Federal para obras de servicios públicos y en bonos hipotecarios de instituciones nacionales de crédito, o en obligaciones del Departamento del Distrito Federal para obras de servicios públicos, con garantía específica de cuotas de servicio o de impuestos, suficientes a juicio de la Secretaría de Hacienda y Crédito Público, y siempre que el servicio de que se trate se entregue en fideicomiso, en favor de los tenedores de bonos, a una institución nacional, ya sea de crédito o auxiliar de crédito; o que se otorgue mandato irrevocable en favor del representante común de los tenedores de bonos para el cobro de las cuotas y percepción de los ingresos.
 
 > <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
@@ -1376,5 +1378,9 @@ D.O.F. 31 DE AGOSTO DE 1936.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 D.O.F. 3 DE JULIO DE 1937.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 30 DE JUNIO DE 1938.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
