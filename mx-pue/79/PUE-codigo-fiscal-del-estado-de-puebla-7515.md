@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "1993-12-17"
+last_updated: "1994-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 1994.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -52,6 +52,10 @@ La Hacienda Pública para atender los gastos del Estado percibirá en cada ejerc
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
 No serán válidas las exenciones a las contribuciones estatales no contenidas en las leyes fiscales del Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 1994)</small>
+
+Para efectos de la aplicación de las Leyes Fiscales del Estado se entenderá por ejercicio fiscal el período comprendido del 1o de enero al 31 de diciembre de cada año.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -107,6 +111,10 @@ Son participaciones las cantidades que el Gobierno del Estado tiene derecho a pe
 
 Son créditos fiscales los que tenga derecho a percibir el Estado o sus Organismos Descentralizados que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven las responsabilidades que el Estado tenga derecho a exigir de sus servidores públicos o de los particulares, así como aquellos a los que las Leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
 
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 1994)</small>
+
+La recaudación proveniente de todos los ingresos del Estado aún cuando se destinen a un fin específico se hará a través de la Secretaría de Finanzas del Estado o por las oficinas que la misma designe.
+
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1991)</small>
 
 ###### ARTICULO 9.
@@ -133,11 +141,13 @@ La aplicación de las leyes a que se refiere este artículo, le coresponderá (s
 
 Las leyes y demás disposiciones de carácter general que se refieran a la hacienda pública del Estado, que no prevengan expresamente otra cosa, obligan y surten sus efectos una vez publicadas en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 11.
 
-Las disposiciones fiscales que establezcan cargas a los particulares y las que señalan excepciones a las mismas, así como las que fijan las infracciones y sanciones, son de aplicación estricta. Se consideran que establecen cargas a los particulares las normas que se refieren al sujeto, objeto, base, tasa o tarifa.
+Las disposiciones fiscales que establezcan cargas a los particulares y las que señalan excepciones a las mismas, así como las que fijan las infracciones y sanciones, son de aplicación estricta. Se considera que establecen cargas a los particulares las normas que se refieren al sujeto, objeto, base, cuota, tasa o tarifa.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
 
 Las otras disposiciones fiscales se interpretarán aplicando cualquier método de interpretación jurídica, a falta de norma fiscal expresa, se aplicarán supletoriamente las disposiciones del derecho común cuando su aplicación no sea contraria a la naturaleza del Derecho Fiscal.
 
@@ -369,23 +379,25 @@ Las personas domiciliadas fuera del Estado que causen gravámenes estatales debe
 
 Son obligaciones de los contribuyentes:
 
-I.- Inscribirse en los registros de contribuyentes que señalan las Leyes Fiscales del Estado, ante las oficinas recaudadoras que correspondan dentro del mes siguiente a la fecha de iniciación de operaciones.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1994)</small>
+
+I.- Inscribirse en los registros de contribuyentes que señalan las Leyes Fiscales del Estado, ante la oficina recaudadora que le corresponda, dentro del mes siguiente a la fecha en que se coloquen en la situación jurídica o de hecho que dé origen a la causación de la contribución de que se trate.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
 II.- Presentar los avisos, declaraciones normales, complementarias y provisionales, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las Leyes Fiscales del Estado, en las formas autorizadas y con los requisitos que en las mismas se señalen.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1994)</small>
 
-Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, las seguirán presentando aun cuando no haya pago a efectuar, en tanto no presenten los avisos que correspondan para efectos del Registro Federal de Contribuyentes y del Registro Estatal.
+Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, las seguirán presentando aún cuando no haya pago a efectuar, en tanto no presenten los avisos que correspondan para efectos de los registros estatales respectivos.
 
 III.- Pagar las contribuciones que les correspondan en los términos que dispongan las Leyes Fiscales del Estado.
 
 IV.- Expedir documentación comprobatoria de sus actividades gravadas por las Leyes Fiscales del Estado, con los requisitos fiscales que las mismas señalan.
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1994)</small>
 
-V.- Conservar la documentación comprobatoria de las operaciones gravadas por las Leyes Fiscales del Estado, durante un plazo de cinco años.
+V.- Conservar la documentación comprobatoria de las operaciones gravadas por las leyes fiscales del Estado, durante un plazo de cinco años contados a partir del día en que debió prestarse (sic) la declaración correspondiente.
 
 VI.- Proporcionar a las Autoridades Fiscales los datos e informaciones que se le soliciten, dentro del plazo fijado para ello.
 
@@ -433,6 +445,10 @@ IV.- Señalar la Autoridad a la que se dirige y el propósito de la promoción.
 
 V.- Señalar domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas.
 
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 1994)</small>
+
+VI.- Acreditar la representación del promovente cuando gestione a nombre de otro.
+
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
 
 Cuando no se cumplan los requisitos a que se refiere este artículo, las Autoridades Fiscales requerirán al promovente para que en un plazo de 15 días cumplan con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada.
@@ -453,13 +469,13 @@ Dicho plazo empezará a contar a partir del día siguiente a aquél en que el co
 
 El silencio de las Autoridades Fiscales durante el término a que se refiere el Artículo anterior, se considerará como resolución negativa.
 
-> <small>(REFORMADO PARRAFO PRIMERO, P.O. 17 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 29.
 
-La autoridad fiscal recibirá las declaraciones, avisos, solicitudes, manifiestos y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverá copia sellada a quien los presente. Además de los casos que señalen las leyes fiscales, se podrá rechazar la presentación cuando no contengan el nombre del contribuyente, su número de registro estatal, su registro federal de contribuyentes y su domicilio fiscal o no aparezcan debidamente firmados, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso, la autoridad fiscal podrá cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
+La autoridad fiscal recibirá las declaraciones, avisos, solicitudes, manifiestos y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverá copia sellada y comprobante de pago en su caso, a quien los presente. Además de los casos que señalen las leyes fiscales, se podrá rechazar la presentación cuando no contenga o se anote de manera incorrecta el nombre del contribuyente, su número de registro estatal, su registro federal de contribuyentes y su domicilio fiscal o no aparezcan debidamente firmados, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso la autoridad fiscal podrá cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
 
-En los casos en que las formas para la presentación de avisos, declaraciones, manifestaciones y cualquier otro de naturaleza análoga que prevengan las disposiciones fiscales, no hubieran sido aprobados y publicados por la Secretaría de Finanzas, los obligados a presentarlas las formularán en escrito por cuadruplicado que contenga los datos señalados en el Artículos 26. En caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
+En los casos en que las formas para la presentación de avisos, declaraciones, manifestaciones y cualquier otro de naturaleza análoga que prevengan las disposiciones fiscales, no hubieran sido aprobados y publicados por la Secretaría de Finanzas, los obligados a presentarlas las formularán en escrito por cuadruplicado que contengan los datos señalados en los artículos 25 y 26 de este Código. En caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
 
 ## TITULO TERCERO. DEL NACIMIENTO Y PAGO DE LOS CREDITOS FISCALES
 
@@ -503,9 +519,13 @@ El cheque recibido por las Autoridades Fiscales que sea presentado en tiempo y n
 
 La indemnización mencionada, el monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1994)</small>
 
-En el caso de que se paguen contribuciones mediante cheque, este deberá librarse a cargo de instituciones de crédito que se encuentren dentro de la población donde esté establecida la oficina recaudadora de que se trate. Las autoridades fiscales, podrán autorizar mediante disposiciones de carácter general, que el cheque se libre a cargo de instituciones de crédito que se encuentren en poblaciones distintas a aquellas en donde esté establecida la autoridad fiscal.
+En el caso de que se paguen contribuciones mediante cheque, éste solo podrá aplicarse a un contribuyente, debiendo librarse a cargo de Instituciones de Crédito que se encuentren dentro de la población donde esté establecida la oficina recaudadora de que se trate. Las autoridades fiscales, podrán autorizar mediante disposiciones de carácter general, que el cheque se libre a cargo de Instituciones de Crédito que se encuentren en poblaciones distintas a aquellas en donde esté establecida la autoridad.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 1994)</small>
+
+El cheque mediante el cual se paguen las contribuciones y sus accesorios deberá expedirse a nombre de la Secretaría de Finanzas del Gobierno del Estado de Puebla, además deberá tener la inscripción "para abono en cuenta". Dicho cheque no será negociable.
 
 ###### ARTICULO 34.
 
@@ -517,7 +537,9 @@ El pago de las contribuciones y sus accesorios se pagarán en las oficinas recau
 
 Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberán pagarse recargos en concepto de indemnización al fisco del Estado por la falta de pago oportuno. Dichos recargos se calcularán conforme a una tasa que será 100 % mayor a la tasa que mediante ley fije anualmente el Congreso de la Unión.
 
-Los recargos se causarán hasta por 5 años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización, los gastos de ejecución y las multas por infracción a disposiciones fiscales. Cuando el pago hubiere sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1994)</small>
+
+Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización, los gastos de ejecución y las multas por infracción a disposiciones fiscales. Cuando el pago hubiere sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se causarán por cada mes o fracción que transcurra a partir del día siguiente en que debió hacerse el pago y hasta que el mismo se efectúe.
 
 Cuando el contribuyente pague en forma espontánea los créditos omitidos y los recargos, dichos recargos no excederán de los causados durante un año.
 
@@ -535,13 +557,17 @@ III.- Multas.
 
 IV.- La indemnización por cheques no pagados a la autoridad fiscal.
 
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 1994)</small>
+
+Para determinar las contribuciones se considerarán, inclusive las fracciones del peso. No obstante lo anterior para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 a 50 centavos se ajusten a la unidad inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
+
 ###### ARTICULO 37.
 
 Las Autoridades Fiscales están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con las Leyes Fiscales. La devolución deberá hacerse a petición del interesado de conformidad a las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1994)</small>
 
-I.- El contribuyente deberá solicitar la devolución por escrito ante la autoridad Fiscal del Estado, cumpliendo con los requisitos señalados en el artículo 26 de este Código.
+I.- El contribuyente deberá solicitar la devolución por escrito ante la autoridad fiscal del Estado, cumpliendo con los requisitos a que se refieren los artículos 25 y 26 de éste Código.
 
 II.- El contribuyente deberá acompañar a su solicitud el o los documentos de los que se desprenda el derecho a la devolución.
 
@@ -601,7 +627,9 @@ Si se trata de resoluciones administrativas que determinen la responsabilidad so
 
 V.- Solicitar el auxilio de la fuerza pública cuando los contribuyentes, responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales, así como imponer sanciones que señalen este Código y los demás ordenamientos fiscales del Estado.
 
-VI.- Autorizar el pago en parcialidades de contribuciones omitidas y sus accesorios, bajo los requisitos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 1994)</small>
+
+VI.- Autorizar el pago a plazos, ya sea diferido o en parcialidades de las contribuciones omitidas y sus accesorios, bajo los siguientes requisitos:
 
 a) Solicitud por escrito.
 
@@ -613,7 +641,9 @@ c) acompañar a la solicitud, los documentos que requiera la Autoridad Fiscal.
 
 Durante el plazo concedido se causarán recargos sobre el saldo insoluto, incluyendo los accesorios, a la tasa que mediante Ley fije anualmente el Congreso de la Unión, tomando en consideración el costo porcentual promedio de captación de recursos del sistema bancario, proporcionado por el Banco de México.
 
-Cesará la autorización para el pago en parcialidades y el crédito fiscal será inmediatamente exigible cuando deje de cubrirse alguna de las parcialidades.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1994)</small>
+
+Cesará la autorización para pagar a plazo en forma diferida o en parcialidades cuando desaparezca o resulte insuficiente la garantía del interés fiscal, sin que el contribuyente dé nueva garantía o amplíe la que resulte insuficiente, cuando el contribuyente sea declarado en quiebra o solicite su liquidación judicial y en el caso de que deje de cubrir tres parcialidades consecutivas con sus recargos.
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -673,7 +703,9 @@ Cuando las personas obligadas a presentar declaraciones, avisos y demás documen
 
 I.- Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones ya sea provisional o del ejercicio, podrán hacer efectiva al contribuyente o responsable solidario que haya incurrido en la omisión, una cantidad igual a la contribución que hubiera determinado en la última o cualquiera de las seis últimas declaraciones de que se trate, o a la que resulte para dichos períodos de la determinación formulada por la Autoridad, según corresponda, cuando haya omitido presentar oportunamente alguna declaración subsecuente para el pago de contribuciones propias o retenidas. Esta cantidad a pagar tendrá el carácter de pago provisional y no libera a los obligados de presentar la declaración omitida.
 
-Cuando la omisión sea de una declaración de las que se conozca de una manera fehaciente la cantidad a la que le es aplicable la tasa o cuota respectiva, las Autoridades Fiscales podrán hacer efectiva al contribuyente, con carácter provisional, una cantidad igual a la contribución que a éste corresponda determinar, sin que el pago lo libere de presentar la declaración omitida.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1994)</small>
+
+Cuando la omisión sea de una declaración de las que se conozca de manera fehaciente la cantidad a la que le es aplicable la tasa, cuota o tarifa respectiva, las autoridades fiscales podrán hacer efectiva al contribuyente con carácter provisional, una cantidad igual a la contribución que a este corresponda determinar sin que el pago lo libere de presentar la declaración omitida.
 
 Si el contribuyente o responsable solidario presenta la declaración omitida antes de que se le haga efectiva la cantidad resultante conforme a lo previsto en esta fracción, queda liberado de hacer el pago determinado provisionalmente.
 
@@ -687,19 +719,23 @@ III.- Embargar precautoriamente, los bienes o la negociación, en términos de l
 
 Y FISCALIZACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 42.
 
-Para los efectos a que se refiere el artículo 41 fracción VII, inciso c, se deberán observar las siguientes reglas:
+Para los efectos a que se refiere el artículo 41 fracción VII inciso c) de este Código, se deberán observar las siguientes reglas:
 
 I.- Los actos de verificación y las visitas domiciliarias deberán iniciarse mediante escrito debidamente fundado y motivado, emitido por Autoridad competente.
 
-II.- Deberá señalarse el lugar donde deba efectuarse la visita.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1994)</small>
 
-III.- Deberá indicarse el nombre del visitado.
+II.- Deberá señalarse el lugar o lugares donde deba efectuarse la vista (sic).
 
-Cuando se ignore el nombre de la persona que deba ser visitada, se señalarán datos suficientes que permitan su identificación.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1994)</small>
+
+III.- Deberá indicarse el nombre o nombres del o los visitados.
+
+Cuando se ignore el nombre de la persona o personas que deba (sic) ser visitada (sic), se señalarán datos suficientes que permitan su identificación.
 
 IV.- Se deberá indicar el nombre de las personas que practicarán la diligencia, las cuales podrán ser sustituidas, aumentadas o reducidas en su número, en cualquier tiempo por la Autoridad competente. La sustitución o aumento de las personas que deban efectuar la visita se notificará al visitado.
 
@@ -707,7 +743,9 @@ IV.- Se deberá indicar el nombre de las personas que practicarán la diligencia
 
 Las personas designadas para efectuar la visita la podrán hacer conjunta o separadamente.
 
-V.- Se deberán indicar las contribuciones sujetas a revisión y en su caso los ejercicios a que deberá limitarse la visita.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1994)</small>
+
+V.- Se deberán indicar las contribuciones sujetas a revisión y en su caso los ejercicios o períodos a que deberá limitarse la visita.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -727,6 +765,10 @@ Si el contribuyente presenta aviso de cambio de domicilio, después de recibida 
 
 La visita podrá llevarse a cabo en el lugar en que se encuentre el contribuyente cuando éste no ocupe el último domicilio fiscal manifestado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE AGOSTO DE 1994)</small>
+
+Cuando a juicio del visitador o visitadores exista peligro de que el visitado se ausente o pueda realizar maniobras para impedir el desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la Contabilidad y demás documentación que acredite el cumplimiento de las disposiciones fiscales, fundando y motivando la necesidad del aseguramiento.
+
 II.- Al iniciarse la visita en el domicilio fiscal, los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta inicial que se levante, sin que esta circunstancia invalide los resultados de la visita.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
@@ -737,7 +779,9 @@ Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lug
 
 III.- Las autoridades Fiscales podrán solicitar a otras Autoridades competentes que practiquen visitas, para comprobar hechos relacionados con las que aquéllas estén realizando.
 
-IV.- Los visitados, sus representantes o la persona con quien se entienda, la visita en el domicilio fiscal, están obligados a permitir a los visitadores designados por las Autoridades Fiscales el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y documentación que acredite el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copias para que previo cotejo con sus originales se certifiquen por éstos y sean anexados a las actas finales o parciales que levanten con motivo de la visita.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1994)</small>
+
+IV.- Los visitados, sus representantes o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores, designados por las autoridades fiscales el acceso al lugar o lugares de la misma, así como mantener a su disposición la contabilidad y documentación que acredite el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copias para que previo cotejo con sus originales, se certifiquen por éstos y sean anexados al acta final o a las parciales que levanten con motivo de la visita.
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -765,9 +809,9 @@ VI.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 1991)
 
 La visita en el domicilio fiscal se desarrollará conforme a las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1994)</small>
 
-I.- De toda visita en el domicilio fiscal, se levantará una sola acta en la que se harán constar de manera circunstanciada, los hechos y omisiones que se hubieren conocido por los visitadores. Asimismo, se determinarán las consecuencias legales de tales hechos y omisiones, los que se podrán hacer constar en la misma acta o en documento por separado.
+I.- De toda visita en el domicilio fiscal se levantará acta en la que se harán constar de manera circunstanciada, los hechos u omisiones que se hubieren conocido por los visitadores. Asimismo, se determinarán las consecuencias legales de tales hechos u omisiones, los que podrán hacer constar en la misma acta o en documento por separado.
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
@@ -835,9 +879,13 @@ Se tendrán los siguientes plazos para su presentación:
 
 a).- Los libros y registros que formen parte de la contabilidad, solicitados en el curso de una visita, deberán presentarse de inmediato, así como los diagramas y el diseño del sistema de registro electrónico, en su caso.
 
-b).- Seis días contados a partir del siguiente a aquél en que se le notificó la solicitud respectiva, cuando los documentos sean de los que deba tener en su poder el contribuyente y se los soliciten durante el desarrollo de una visita.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1994)</small>
 
-c).- Quince días contados a partir del siguiente a aquél el en (sic) que se le notificó la solicitud respectiva, en los demás casos.
+b).- Seis días contados a partir del siguiente a aquél en que surta sus efectos la notificación de la solicitud respectiva, cuando los documentos sean de los que deba tener en su poder el contribuyente y se lo soliciten durante el desarrollo de la visita.
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1994)</small>
+
+c).- Quince días contados a partir del siguiente a aquél en que surta sus efectos la notificación de la solicitud respectiva, en los demás casos.
 
 Los plazos a que se refiere este inciso se podrán ampliar por las autoridades fiscales por diez días más, cuando se trate de informes cuyo contenido sea difícil proporcionar o de conseguir.
 
@@ -1736,3 +1784,7 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Estado y ent
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE AGOSTO DE 1994.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
