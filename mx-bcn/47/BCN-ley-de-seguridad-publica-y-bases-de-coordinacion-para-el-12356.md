@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-y-bases-de-coordinacion-para-el-12356"
 country: "mx"
 rank: "ley"
 publication_date: "1998-04-17"
-last_updated: "2001-06-29"
+last_updated: "2001-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PUBLICA Y BASES DE COORDINACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 1998.
 
@@ -63,7 +63,9 @@ II. Proteger la integridad física de las personas así como sus bienes;
 
 III. Promover y coordinar los programas de prevención de delitos e infracciones a las leyes y reglamentos del Estado y los Municipios;
 
-IV. Establecer los mecanismos de coordinación y colaboración en la investigación y persecución de los delitos y de los delincuentes, y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+IV. Establecer los mecanismos de coordinación y colaboración en la investigación y persecución de los delitos y de los delincuentes, así como para el intercambio de información delictiva en los términos de esta Ley, y
 
 V. Señalar los mecanismos de coordinación entre las diversas autoridades para apoyo y auxilio a la población en casos de siniestros o desastres, conforme a los ordenamientos legales de la materia.
 
@@ -83,7 +85,9 @@ IV. Programa: al Programa de Seguridad Pública para el Estado de Baja Californi
 
 V. Cuerpos de Seguridad: a las corporaciones públicas o privadas a que se refiere el Artículo 6 de la presente Ley;
 
-VI. Instituto: al Instituto Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+VI. Instituto Estatal de Policía;
 
 VII. Elementos de seguridad pública: a los integrantes de los Cuerpos de Seguridad Pública, y
 
@@ -96,6 +100,10 @@ VIII. Consejo: al Consejo Estatal de Seguridad Pública, creado mediante el Acue
 La Procuraduría, además de las atribuciones que le corresponden, podrá coadyuvar, en el ámbito de su competencia, en las actividades y con los Cuerpos de Seguridad, a través de la Policía Ministerial.
 
 La Policía Ministerial quedará sujeta, por lo que corresponde a su ámbito de competencia, a las disposiciones de esta Ley, sin perjuicio de lo previsto en la Ley Orgánica de la Procuraduría General de Justicia del Estado, su Reglamento y en el Código de Procedimientos Penales para el Estado de Baja California.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
+El Procurador General de Justicia del Estado deberá celebrar con los Ayuntamientos del Estado, convenios de cooperación y coordinación para el intercambio de información delictiva en el cumplimiento de las atribuciones que competen a las policías preventivas municipales.
 
 ###### ARTÍCULO 6.
 
@@ -219,6 +227,10 @@ Las autoridades estatales y municipales, encargadas de la seguridad pública, de
 
 Cuando las acciones conjuntas sean para perseguir delitos y faltas administrativas, se cumplirán sin excepción los requisitos previstos en los ordenamientos constitucionales y legales.
 
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
+Cuando las acciones conjuntas se refieran al intercambio de información delictiva de la Procuraduría General de Justicia hacia los Ayuntamientos mediante convenios específicos, se atenderá con oportunidad, periodicidad y actualidad las informaciones requeridas.
+
 ###### ARTÍCULO 20.
 
 Los Cuerpos de Seguridad deberán cooperar sin restricción alguna con las autoridades penitenciarias, en la vigilancia y seguridad exterior en los operativos destinados al traslado de reclusos o internos.
@@ -227,7 +239,9 @@ Los Cuerpos de Seguridad deberán cooperar sin restricción alguna con las autor
 
 En el marco del Programa, los Ayuntamientos y el Ejecutivo del Estado, a través de la Procuraduría y la Secretaría, se coordinarán con las autoridades federales, estatales y municipales en las materias a que se refiere este título.
 
-Serán objeto de atención preferente la coordinación de acciones de prevención, persecución a la delincuencia y la participación de la sociedad en la materia.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
+Serán de Objeto de atención preferente, la coordinación de acciones para el intercambio de información delictiva de prevención, persecución a la delincuencia y la participación de la sociedad en la materia.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2001)</small>
 
@@ -363,9 +377,9 @@ Al efecto, la Secretaría, la Procuraduría y los Ayuntamientos, signarán los c
 
 Para efectos de esta Ley se entenderá como prestador de servicios de seguridad privados a:
 
-I. Los organismos o empresas de seguridad privada, organizados internamente por: las instituciones y organizaciones auxiliares de crédito, cuando carezcan de registro federal; las industrias, establecimientos fabriles o comerciales para su vigilancia interna, cuyos integrantes tengan una relación laboral de prestación de servicios con la unidad económica en la que desempeñen sus funciones;
+I. (DEROGADA, P.O. 17 DE AGOSTO DE 2001)
 
-II.- Las personas morales legalmente constituidas, cuyo objeto social sea la prestación de servicios de seguridad privada, ya sea para la guarda o custodia de locales o para la transportación de valores. Quedan asimilados a este grupo las personas físicas que presten el servicio de seguridad privada por conducto de terceros empleados a su cargo;
+II. Las personas morales legalmente constituidas, cuyo objeto social sea la prestación de servicios de seguridad privada, ya sea para la guarda o custodia de locales o para la transportación de valores. Quedan asimilados a este grupo las personas físicas que presten el servicio de seguridad privada por conducto de terceros empleados a su cargo;
 
 III. Los grupos de seguridad que a su costa organicen los habitantes de las colonias, fraccionamientos y zonas residenciales para ejercer, en cualquier horario, la función única y exclusiva de resguardar los inmuebles o las casas habitación ubicadas en las áreas que previamente se señalen;
 
@@ -376,6 +390,10 @@ V. Los vigilantes, que en forma independiente desempeñan la función de vigilan
 VI. Las personas físicas o morales, que presten los servicios de sistemas de alarmas en todas sus modalidades, y
 
 VII. En general, toda persona física o moral que realice actividades similares y auxiliares relacionadas con la seguridad.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
+Las obligaciones y prohibiciones que el Reglamento establece para los prestadores del servicio de seguridad privada, serán de observancia para las industrias, establecimientos fabriles o comerciales, que contraten a personal para realizar funciones de vigilancia interna, para la guarda o custodia de sus locales, bienes o valores, o para la transportación de estos últimos y que tengan una relación laboral de prestación de servicios con la unidad económica en la que desempeñen sus funciones.
 
 ###### ARTÍCULO 39.
 
@@ -460,6 +478,10 @@ II. Multa hasta de cinco mil veces el salario mínimo general vigente en el Esta
 III. Suspensión temporal del registro hasta que se corrija el incumplimiento, con difusión pública de dicha suspensión, y
 
 IV. Cancelación del registro con difusión pública de la misma. En este caso, la Secretaría notificará la cancelación a las autoridades correspondientes, a efecto de que realicen, en los términos de sus competencias, los actos que legalmente procedan.
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+V. Clausura de los establecimientos de todas aquellas personas físicas y morales que presten servicios sin la autorización y registro de la Secretaría.
 
 ###### ARTÍCULO 50.
 
@@ -677,7 +699,9 @@ I. Ser ciudadano mexicano por nacimiento en pleno goce y ejercicio de sus derech
 
 II. Ser de notoria buena conducta y reconocida solvencia moral;
 
-III. Haber cursado la escuela Preparatoria y poseer certificado aprobatorio de bachiller;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+III. Tratándose de quienes aspiren a ingresar a los cuerpos de Seguridad Pública Municipales, deberán acreditar como mínimo el nivel académico de secundaria o su equivalente, obligándose a cursar y aprobar los programas que les permitan alcanzar el grado de bachiller, conforme al tiempo y forma que establecen los reglamentos respectivos;
 
 IV. No tener antecedentes penales, ni estar sujeto a proceso penal por delito doloso;
 
@@ -813,7 +837,9 @@ IX. Ser asesorados y defendidos jurídicamente por el Ayuntamiento o la Procurad
 
 X. Recibir oportuna atención médica sin costo alguno para el elemento policial, cuando sea lesionado en cumplimiento de su deber, en caso de extrema urgencia, gravedad, deberán ser atendidos en la institución médica pública o privada más cercana al lugar donde se produjeron los hechos, y
 
-XI. Ser recluidos en áreas especiales para policías en los casos en que sean sujetos a prisión preventiva.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+XI. Ser recluidos en áreas que garanticen su integridad física, en tanto la autoridad investigadora resuelve su situación jurídica, así como cuando se encuentren sujetos a prisión preventiva;
 
 > <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2001)</small>
 
@@ -1140,3 +1166,17 @@ De la misma forma, hasta en tanto se expidan las disposiciones reglamentarias qu
 ###### ARTICULO QUINTO.
 
 Los reglamentos administrativos y demás disposiciones que resulten afectados por el presente Decreto, deberán adecuarse a sus términos en un plazo no mayor de sesenta días.
+
+P.O. 17 DE AGOSTO DE 2001.
+
+DECRETO NUMERO 330.
+
+ÚNICO.- Las presentes reformas entrarán en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 17 DE AGOSTO DE 2001.
+
+DECRETO NUMERO 336.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
