@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-al-activo-antes-ley-del-impuesto-al-activo-258
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-31"
-last_updated: "1997-06-23"
+last_updated: "1998-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2587&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-12-30"
 
 LEY DEL IMPUESTO AL ACTIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JUNIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE FEBRERO DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1988.
 
@@ -445,11 +445,11 @@ La Secretaría de Hacienda y Crédito Público dará a conocer anualmente la tab
 
 Los contribuyentes a que se refiere este artículo, que obtengan ingresos exclusivamente por la realización de actividades agrícolas, ganaderas o silvícolas, considerarán como valor de su activo en el ejercicio, el valor catastral de sus terrenos que sirva de base para determinar el impuesto predial. El cálculo de este impuesto se hará sin incluir maquinaria y equipo.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 22 MARZO DE 1997) (REPUBLICADO, D.O.F. 23 DE JUNIO DE 1997)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE FEBRERO DE 1998)</small>
 
 ###### ARTICULO 12-A.
 
-Los contribuyentes personas físicas a que se refiere el artículo anterior, que hayan obtenido en el año de calendario inmediato anterior ingresos que no excedieron de $885,567.00 y cumplan con la obligación establecida en la fracción III del artículo 119-I de la Ley del Impuesto sobre la Renta, llevando el cuaderno de entradas y salidas y el registro de bienes y deudas a que se refiere el Reglamento del Código Fiscal de la Federación, podrán determinar el impuesto al activo aplicando la tasa del 1.8%, al valor de los bienes que hubieran asentado en la relación de bienes y deudas formulada para los efectos del impuesto sobre la renta al 31 de diciembre del ejercicio por el que se calcule el impuesto, sin deducción alguna.
+Los contribuyentes personas físicas a que se refiere el artículo anterior, que hayan obtenido en el año de calendario inmediato anterior ingresos que no excedieron de $1'042,874.00 y cumplan con la obligación establecida en la fracción III del artículo 119-I de la Ley del Impuesto sobre la Renta, llevando el cuaderno de entradas y salidas y el registro de bienes y deudas a que se refiere el Reglamento del Código Fiscal de la Federación, podrán determinar el impuesto al activo aplicando la tasa del 1.8%, al valor de los bienes que hubieran asentado en la relación de bienes y deudas formuladas para los efectos del impuesto sobre la renta al 31 de diciembre del ejercicio por el que se calcule el impuesto, sin deducción alguna.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -714,3 +714,7 @@ D.O.F. 23 DE JUNIO DE 1997.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA MODIFICACION QUE SE RELACIONAN CON LA LEY.
 
 Primero. La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE FEBRERO DE 1998.
+
+> <small>N. DE E. LAS ACTUALIZACIONES CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL.</small>
