@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-sistema-banrural-289"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-13"
-last_updated: "1986-01-13"
+last_updated: "2002-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=289&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1985-12-28"
 
 LEY ORGANICA DEL SISTEMA BANRURAL
 
-TEXTO ORIGINAL
+N. DE E.: LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE FINANCIERA RURAL PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 26 DE DICIEMBRE DE 2002.
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 13 de enero de 1986.
 
@@ -520,3 +522,167 @@ Banco de Crédito Rural Peninsular-Mérida, Yuc.
 México, D. F., a 27 de diciembre de 1985.- Fernando Ortíz Arana, Dip. Presidente.- Socorro Díaz Palacios, Sen. Presidenta.- Juan Moisés Calleja, Dip. Secretario.- José Dorantes Segovia, Sen. Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de diciembre de mil novecientos ochenta y cinco.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 26 DE DICIEMBRE DE 2002.
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A partir del 1o. de julio de 2003, se abroga la Ley Orgánica del Sistema Banrural, publicada en el Diario Oficial de la Federación el 13 de enero de 1986, y quedan sin efecto los reglamentos orgánicos del Banco Nacional de Crédito Rural, S.N.C.; del Banco de Crédito Rural del Centro, S.N.C.; del Banco de Crédito Rural del Centro Norte, S.N.C.; del Banco de Crédito Rural del Centro Sur, S.N.C.; del Banco de Crédito Rural del Golfo, S.N.C.; del Banco de Crédito Rural del Istmo, S.N.C.; del Banco de Crédito Rural del Noreste, S.N.C.; del Banco de Crédito Rural del Noroeste, S.N.C.; del Banco de Crédito Rural del Norte, S.N.C.; del Banco de Crédito Rural de Occidente, S.N.C.; del Banco de Crédito Rural del Pacífico Norte, S.N.C.; del Banco de Crédito Rural del Pacífico Sur, S.N.C.; y del Banco de Crédito Rural Peninsular, S.N.C.
+
+TERCERO.- Se decreta la disolución y se ordena la liquidación de las sociedades nacionales de crédito que integran el Sistema Banrural, y que a continuación se enlistan:
+
+I. Banco Nacional de Crédito Rural;
+
+II. Banco de Crédito Rural del Centro;
+
+III. Banco de Crédito Rural del Centro Norte;
+
+IV. Banco de Crédito Rural del Centro Sur;
+
+V. Banco de Crédito Rural del Golfo;
+
+VI. Banco de Crédito Rural del Istmo;
+
+VII. Banco de Crédito Rural del Noreste;
+
+VIII. Banco de Crédito Rural del Noroeste;
+
+IX. Banco de Crédito Rural del Norte;
+
+X. Banco de Crédito Rural de Occidente;
+
+XI. Banco de Crédito Rural del Pacífico Norte;
+
+XII. Banco de Crédito Rural del Pacífico Sur, y
+
+XIII. Banco de Crédito Rural Peninsular.
+
+La disolución y liquidación de dichas sociedades nacionales de crédito iniciará el 1o. de julio de 2003.
+
+CUARTO.- Con objeto de que los apoyos a los Productores no se interrumpan, desde la entrada en vigor de la presente Ley y hasta el 30 de junio de 2003, las sociedades nacionales de crédito del Sistema Banrural sólo podrán continuar otorgando créditos refaccionarios y de habilitación o avío y pignoraticios, aun cuando el vencimiento de dichos créditos sea con posterioridad a la fecha de inicio de su liquidación.
+
+Durante dicho periodo, también podrán convenir reestructuraciones de créditos previamente concedidos.
+
+Para el otorgamiento de los créditos y reestructuraciones antes citados, deberán tomarse en cuenta los criterios contenidos en las bases para el otorgamiento de crédito del Sistema Banrural, vigentes a la fecha de entrada en vigor de esta Ley. De manera particular deberán considerarse:
+
+I. La viabilidad económica de los proyectos de inversión respectivos y los plazos de recuperación de éstos;
+
+II. Las relaciones que guarden entre sí los distintos conceptos de los estados financieros y la situación económica del Productor;
+
+III. La calificación administrativa y moral del Productor, y
+
+IV. El historial crediticio del acreditado.
+
+Las reestructuraciones requerirán autorización expresa del respectivo Consejo Directivo de la sociedad nacional de crédito acreedora.
+
+Las operaciones que se celebren de conformidad con el presente artículo serán transferidas directamente a la Financiera, una vez que inicie la liquidación de las sociedades nacionales de crédito acreedoras. Esta disposición deberá contenerse en los actos jurídicos que formalicen las operaciones a que se refiere este artículo.
+
+QUINTO.- Las sociedades nacionales de crédito del Sistema Banrural coadyuvarán a consolidar el inicio de operaciones de la Financiera y, para tales efectos, podrán celebrar convenios con ésta para brindarle el apoyo que la Financiera requiera.
+
+SEXTO.- La Secretaría de Hacienda instruirá al Fideicomiso Liquidador de Instituciones y Organizaciones Auxiliares del Crédito, para que se desempeñe como liquidador de las sociedades nacionales de crédito que se liquidan.
+
+En el proceso de disolución y liquidación deberá cuidarse en todo tiempo la adecuada protección de los intereses del público.
+
+El liquidador deberá destinar los recursos que resulten de la recuperación de activos de las sociedades nacionales de crédito referidas en el artículo Tercero Transitorio de esta Ley, para cubrir los pasivos y contingencias que se originen de la propia liquidación, así como los gastos de administración que realice en cumplimiento de su cargo. En su caso, el remanente será entregado a la Tesorería de la Federación, una vez publicado el balance final de liquidación.
+
+SEPTIMO.- En su disolución y liquidación, las sociedades nacionales de crédito del Sistema Banrural seguirán siendo titulares de las obligaciones por ellas contraídas.
+
+Durante la disolución y liquidación, el Gobierno Federal continuará respondiendo de las operaciones concertadas por dichas sociedades nacionales de crédito, en los mismos términos y condiciones establecidos en la Ley Orgánica del Sistema Banrural, publicada en el Diario Oficial de la Federación el 13 de enero de 1986, de igual forma responderá de cualquier sentencia firme en contra que se produjera después de la liquidación del Sistema Banrural.
+
+OCTAVO.- Para atender los requerimientos vinculados al Sistema Banrural señalados en la presente Ley, se autoriza al Ejecutivo Federal a transferir al Banco Nacional de Crédito Rural, S.N.C., en el ejercicio del 2002 y con cargo al Presupuesto de Egresos de la Federación del Ejercicio Fiscal 2002, la cantidad de $31,363,000,000.00 (treinta y un mil trescientos sesenta y tres millones de pesos 00/100 moneda nacional).
+
+Del monto señalado en el primer párrafo de este artículo, se destinarán hasta $15,682,000,000.00 (quince mil seiscientos ochenta y dos millones de pesos 00/100 moneda nacional) para cumplir con los requerimientos siguientes:
+
+I.- Pasivos y contingencias, así como ajustes al valor de los activos de las sociedades nacionales de crédito que integran el Sistema Banrural, incluida su cartera;
+
+II.- Las transferencias de los bienes muebles e inmuebles que el Sistema Banrural realice a dependencias y entidades paraestatales de la Administración Pública Federal en términos del artículo Decimotercero Transitorio de esta Ley;
+
+III.- Pasivos vinculados con las pérdidas que dichas sociedades nacionales de crédito hayan acumulado, y
+
+IV.- Los gastos de administración que el liquidador de las sociedades nacionales de crédito que integran el Sistema Banrural efectúe en cumplimiento de su cargo.
+
+Adicionalmente a las cantidades que se señalan en este artículo, el liquidador deberá destinar también los recursos que resulten de la recuperación de los activos del Sistema Banrural para atender los requerimientos establecidos en las fracciones I a IV del segundo párrafo de este mismo artículo.
+
+De igual forma, se destinarán del monto señalado en el primer párrafo de este artículo hasta $4,034,000,000.00 (cuatro mil treinta y cuatro millones de pesos 00/100 moneda nacional) para atender las contingencias y cumplir con las obligaciones laborales a que se refiere el artículo Decimocuarto Transitorio de la presente Ley.
+
+Del monto señalado en el primer párrafo del presente artículo, para el cumplimiento de las obligaciones con los trabajadores jubilados y pensionados del Sistema Banrural que se establecen en el artículo Decimoquinto Transitorio de esta Ley, se destinarán hasta $11,647,000,000.00 (once mil seiscientos cuarenta y siete millones de pesos 00/100 moneda nacional).
+
+La Comisión determinará la forma en la que el Banco Nacional de Crédito Rural, S.N.C., registrará contablemente los recursos señalados en el primer párrafo de este artículo. Asimismo, la Secretaría de Hacienda determinará las condiciones a las que se sujetará su administración y autorizará las adecuaciones necesarias a dichos requerimientos, siempre y cuando no se rebase la cantidad autorizada en el primer párrafo de este artículo, actualizada por los productos derivados tanto de sus intereses como de la recuperación de activos.
+
+En el evento de que los recursos para atender los requerimientos a que se refiere este artículo resulten inferiores a la cantidad fijada en dicho párrafo, el remanente deberá reintegrarse a la Tesorería de la Federación, en términos de la Ley de Ingresos del año correspondiente. En el supuesto de que dichos requerimientos sean superiores, la Secretaría de Hacienda deberá cuidar que la diferencia se prevea en el Presupuesto de Egresos de la Federación del ejercicio fiscal respectivo.
+
+En el balance final de la liquidación de las sociedades nacionales de crédito que integran el Sistema Banrural se deberá precisar el destino desglosado de todos los recursos señalados en este artículo y, una vez publicado dicho balance, el remanente será entregado a la Tesorería de la Federación.
+
+NOVENO.- Para constituir el patrimonio inicial de la Financiera, se autoriza al Ejecutivo Federal a transferir en el ejercicio 2002 y con cargo al Presupuesto de Egresos de la Federación del Ejercicio Fiscal 2002 la cantidad de $17,515,000,000.00 (diecisiete mil quinientos quince millones de pesos 00/100 moneda nacional).
+
+De la cantidad establecida en el párrafo anterior de este artículo, se transferirán $10,944,000,000.00 (diez mil novecientos cuarenta y cuatro millones de pesos 00/100 moneda nacional) directamente a la Financiera como recursos líquidos, de los cuales hasta $9,644,000,000.00 (nueve mil seiscientos cuarenta y cuatro millones de pesos 00/100 moneda nacional) serán destinados a la colocación crediticia; hasta $500,000,000.00 (quinientos millones de pesos 00/100 moneda nacional) para actividades de capacitación, organización y asesoría a los Productores e Intermediarios Financieros Rurales, en términos de lo dispuesto por las fracciones XVI y XVII del artículo 7o. de esta Ley; y hasta $800,000,000.00 (ochocientos millones de pesos 00/100 moneda nacional) para los gastos iniciales de administración y operación de la Financiera.
+
+El patrimonio inicial de la Financiera se complementará hasta con $6,571,000,000.00 (seis mil quinientos setenta y un millones de pesos 00/100 moneda nacional) constituidos por activos que en términos de los artículos Decimoprimero y Decimotercero Transitorios siguientes que le transfiera el Banco Nacional de Crédito Rural, S.N.C., a la propia Financiera. El Ejecutivo Federal canalizará los recursos señalados al Banco Nacional de Crédito Rural, S.N.C., para que éste a su vez entregue a la Financiera activos hasta por el importe señalado sin contraprestación alguna. El registro contable y la administración de estos recursos se sujetarán a lo señalado en el artículo anterior.
+
+En el caso de cartera, dicha transferencia se realizará a valor neto de reserva.
+
+La Financiera constituirá el fondo a que se refiere el segundo párrafo del artículo 22 de esta Ley con los recursos líquidos y activos señalados en el presente artículo, los cuales se canalizarán para realizar las operaciones mencionadas en el artículo 7o. de la referida Ley. El Consejo establecerá las reglas de operación del Fondo.
+
+La Secretaría de Hacienda autorizará las adecuaciones necesarias a los requerimientos establecidos en este artículo, siempre y cuando no se rebase la cantidad autorizada en el primer párrafo del mismo.
+
+DECIMO.- A los 90 días posteriores a la publicación de la presente Ley en el Diario Oficial de la Federación, la Secretaría de Hacienda podrá instruir a las sociedades nacionales de crédito del Sistema Banrural o, en su caso, al liquidador, a realizar todos los actos conducentes a efecto de que los depósitos en cuenta de cheques y los depósitos de aquéllas, sean transferidos a las instituciones de crédito que la propia Secretaría de Hacienda designe.
+
+DECIMOPRIMERO.- La Secretaría de Hacienda, en consulta con la Financiera y el liquidador, determinará aquellos préstamos o créditos otorgados por las sociedades nacionales de crédito que se liquidan susceptibles de ser transferidos, junto con sus respectivas garantías, a la propia Financiera, así como los plazos, términos y condiciones en los que dichas transferencias se lleven a cabo.
+
+Para tales efectos, la Secretaría de Hacienda considerará, entre otros elementos, la clasificación de los créditos de conformidad con las Reglas para la Calificación de la Cartera Crediticia de las Sociedades Nacionales de Crédito e Instituciones de Banca de Desarrollo, publicadas en el Diario Oficial de la Federación el 24 de octubre de 2000.
+
+DECIMOSEGUNDO.- El liquidador, podrá celebrar convenios de coordinación y colaboración con entidades federativas y/o las organizaciones de productores deudores de la banca, con el objeto de que coadyuven en la recuperación de la cartera vencida de las sociedades nacionales de crédito que se liquidan al 20 de noviembre de 2002, lo que deberá hacerse tomando en cuenta las condiciones que rijan en el mercado secundario de la cartera vencida y las circunstancias económicas de las regiones y especialmente la capacidad de pago del deudor.
+
+Los convenios respectivos contemplarán, entre otros aspectos, la distribución de los recursos provenientes de la recuperación neta de los préstamos o créditos de que se trate, así como la obligación de las entidades federativas u organizaciones de productores deudores, de destinar dichos recursos exclusivamente a programas de crédito o garantías vinculados con el objeto de la Financiera.
+
+DECIMOTERCERO.- Los bienes muebles e inmuebles de las sociedades nacionales de crédito que se liquidan, así como los que éstas se hayan adjudicado en pago, deberán transferirse o enajenarse, según su naturaleza y mejor aprovechamiento, a la Financiera o a dependencias y entidades paraestatales de la Administración Pública Federal, de conformidad con las disposiciones legales aplicables.
+
+La Secretaría de Hacienda determinará los procedimientos y autorizaciones necesarios para que dichas transferencias o enajenaciones se lleven a cabo.
+
+DECIMOCUARTO.- Los trabajadores en activo que al 30 de junio de 2003 laboren en las sociedades nacionales de crédito que se liquidan, deberán ser indemnizados y su relación laboral quedará extinguida, conforme a lo establecido en la normatividad aplicable. Todos sus derechos laborales serán respetados en términos de Ley.
+
+Las sociedades nacionales de crédito que integran el Sistema Banrural o el liquidador serán responsables de la terminación de la relación laboral y liquidación de los trabajadores antes citados.
+
+En términos del artículo Octavo Transitorio anterior, el Gobierno Federal realizará las acciones necesarias para que el liquidador cuente con los recursos suficientes para estos efectos y para las contingencias que en materia laboral tenga el Sistema Banrural.
+
+DECIMOQUINTO.- Los jubilados y pensionados de las sociedades nacionales de crédito que se liquidan continuarán recibiendo sus pensiones y jubilaciones conforme a las Condiciones Generales de Trabajo y convenios jubilatorios respectivos.
+
+Los jubilados y pensionados tendrán derecho a recibir atención médico-quirúrgica, farmacéutica y hospitalaria en los términos establecidos en el artículo 41 de las Condiciones Generales de Trabajo, conforme a su condición de jubilados y pensionados, según corresponda.
+
+Los beneficios al fallecimiento seguirán otorgándose a los derechohabientes de los jubilados y pensionados, conforme a las disposiciones aplicables a la entrada en vigor de la presente Ley.
+
+Para efectos de lo previsto en este artículo, se utilizarán las reservas constituidas para este fin por las sociedades nacionales de crédito que se liquidan. En términos del artículo octavo transitorio anterior, el Gobierno Federal realizará las acciones necesarias para que el liquidador cuente con los recursos necesarios para cumplir con lo señalado en este artículo.
+
+Los recursos señalados en el párrafo anterior serán depositados en un fideicomiso constituido de manera expresa para estos efectos y administrados por el liquidador.
+
+Las prestaciones a favor de los jubilados, pensionados y sus derechohabientes, en términos del presente artículo, podrán cubrirse directamente o bien mediante la celebración con terceros de los contratos respectivos.
+
+DECIMOSEXTO.- Las transferencias de bienes y derechos previstas en los artículos Transitorios Noveno, Décimo, Decimoprimero y Decimocuarto anteriores no quedarán gravadas por impuesto federal alguno.
+
+DECIMOSEPTIMO.- A más tardar el 1o. de abril de 2003, la Secretaría de Hacienda emitirá las bases en las que se señalen la forma y términos en que deberán efectuarse la disolución y liquidación de las sociedades nacionales de crédito del Sistema Banrural.
+
+DECIMOCTAVO.- La Secretaría de Hacienda, la Secretaría de Contraloría y Desarrollo Administrativo, y la Comisión, en el ámbito de sus respectivas competencias, vigilarán que los procedimientos de disolución y liquidación se realicen conforme a lo dispuesto en los artículos transitorios de la presente Ley, las bases de liquidación y demás disposiciones aplicables.
+
+DECIMONOVENO.- En tanto se celebra la primera sesión del Consejo, el Director General podrá designar a los servidores públicos de la Financiera que ocupen cargos con la jerarquía administrativa inmediata inferior y delegados fiduciarios. Dichas designaciones deberán ser sometidas a ratificación del Consejo, en la sesión antes mencionada.
+
+Mientras se aprueba la estructura orgánica de la Financiera, el Director General podrá designar al personal estrictamente indispensable para que ésta inicie operaciones.
+
+La primera estructura orgánica de la Financiera deberá presentarse al Consejo para su aprobación y posterior registro ante la Secretaría de Hacienda.
+
+VIGESIMO.- Lo dispuesto en el segundo párrafo de la fracción III del artículo 9o. de esta Ley no será aplicable, dentro de los siete años siguientes a la entrada en vigor de la Ley, a los préstamos o créditos que la Financiera otorgue a los acreditados de las sociedades nacionales de crédito del Sistema Banrural, que hayan estado y se mantengan al corriente en el pago de sus obligaciones crediticias.
+
+VIGESIMOPRIMERO.- La Financiera participará, en los mismos términos y condiciones, en los comités, comisiones y demás órganos colegiados de la Administración Pública Federal en los que participan las sociedades nacionales de crédito del Sistema Banrural.
+
+VIGESIMOSEGUNDO.- El Estatuto Orgánico de la Financiera deberá ser publicado en el Diario Oficial de la Federación, dentro de los 180 días naturales siguientes a la fecha de publicación de esta Ley, previa aprobación del Consejo.
+
+VIGESIMOTERCERO.- La Cámara de Diputados, por conducto de la Auditoría Superior de la Federación, y de las Comisiones que correspondan, así como la Secretaría de Contraloría y Desarrollo Administrativo en el ámbito de su competencia revisarán las operaciones realizadas por el Banco Nacional de Crédito Rural, S.N.C. y las demás sociedades nacionales de crédito que conforman el sistema Banrural, y así mismo darán seguimiento puntual y periódico al proceso de su disolución y liquidación, garantizando que los montos que se señalan en el artículo Octavo Transitorio se ejerzan con transparencia de conformidad a la normatividad vigente.
+
+En caso de que la Auditoría Superior de la Federación o la Secretaría de Contraloría y Desarrollo Administrativo detectaran irregularidades, se procederá de inmediato a deslindar las responsabilidades, promoviendo las acciones legales conforme a las disposiciones correspondientes.
+
+El Director General del Banco Nacional de Crédito Rural, S.N.C., o en su caso, el liquidador, así como las dependencias y entidades involucradas en el proceso de disolución y liquidación otorgarán las facilidades necesarias para que la Auditoría Superior de la Federación cumpla con sus funciones de acuerdo con el marco legal correspondiente y le informarán trimestralmente el estado que guardan los procesos de recuperación de la cartera vencida de las sociedades nacionales de crédito que se liquidan.
+
+TRANSITORIO DEL DECRETO
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
