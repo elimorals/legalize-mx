@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1999-01-15"
+last_updated: "1999-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 1999.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -285,7 +285,7 @@ c).- Votación estatal de cada partido: es el número total de votos obtenidos p
 
 d).- Porcentaje de votación estatal de cada partido político o coalición: es el resultado que se obtiene de multiplicar la votación estatal de cada partido político o coalición por cien y dividiéndolo entre la votación estatal válida;
 
-e).- Expectativa de integración al Congreso de cada partido político o coalición: es el resultado que se obtiene de multiplicar el Porcentaje de votación estatal de cada partido político o coalición por el número total de integrantes del Congreso y dividiéndolo entre cien,
+e).- Expectativa de integración al Congreso de cada partido político o coalición: es el resultado que se obtiene de multiplicar el Porcentaje de votación estatal de cada partido político o coalición por el número total de integrantes del Congreso y dividiéndolo entre cien;
 
 f).- Diputaciones obtenidas de mayoría por cada partido político o coalición: equivale al número de diputaciones que por el principio de mayoría relativa haya obtenido cada partido político o coalición; y
 
@@ -345,7 +345,7 @@ I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos e 
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-Aquellos ciudadanos candidatos a Diputados Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, fechado con anterioridad al período que se exige de residencia efectiva para ser electo.
+Aquellos ciudadanos candidatos a Diputados Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, fechado con anterioridad al período que se exige de residencia efectiva para ser electo;
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1979)</small>
 
@@ -561,7 +561,7 @@ II.- Al Gobernador;
 
 III.- Al Tribunal Superior en asuntos relacionados con la organización y funcionamiento de la administración de Justicia; así como al Tribunal de Justicia Electoral en asuntos inherentes a la materia electoral;
 
-IV.- A los Ayuntamientos.
+IV.- A los Ayuntamientos;
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -649,7 +649,9 @@ La víspera del día en que deban terminar las sesiones ordinarias, el Congreso 
 
 Son atribuciones de la Comisión Permanente:
 
-I.- Convocar al Congreso a período extraordinario de sesiones en los casos que la misma estime urgente o a moción del Ejecutivo, pudiendo hacer la convocatoria para lugar distinto de la capital del Estado, cuando las circunstancias así lo exijan;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
+
+I.- Acordar por sí en los casos que estime urgente o a propuesta del Ejecutivo Estatal, la convocatoria al Congreso a período extraordinario de sesiones, mediante el voto de la mayoría de los diputados presentes. La convocatoria señalará el asunto o los asuntos a tratar, pudiendo hacer la convocatoria para lugar distinto de la capital del Estado, cuando las circunstancias así lo exijan; en caso de que la convocatoria sea a propuesta del Ejecutivo, la Comisión tendrá cinco días hábiles para resolver la petición, en caso contrario se entenderá aceptada;
 
 II.- Conceder las licencias y permisos de la competencia del Congreso;
 
@@ -671,7 +673,7 @@ VI.- Constituirse como Comisión Instaladora;
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
-VII.- Entregar credenciales de identificación y acceso, a más tardar el día 15 de septiembre del año de la elección, a los Diputados electos que integran la nueva Legislatura, cuyas constancias de mayoría y validez, de asignación por el principio de representación proporcional, o por resolución firme del Tribunal de Justicia Electoral, haya recibido el Congreso.
+VII.- Entregar credenciales de identificación y acceso, a más tardar el día 15 de septiembre del año de la elección, a los Diputados electos que integran la nueva Legislatura, cuyas constancias de mayoría y validez, de asignación por el principio de representación proporcional, o por resolución firme del Tribunal de Justicia Electoral, haya recibido el Congreso;
 
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
 
@@ -787,7 +789,9 @@ V.- Asistir a la apertura del primer período de sesiones ordinarias del Congres
 
 VI.- Pedir y dar informes al Congreso y al Tribunal Superior de Justicia;
 
-VII.- Convocar al Congreso a sesiones extraordinarias;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
+
+VII.- Proponer al Congreso o a la Comisión Permanente, convoquen a período extraordinario de sesiones, exponiendo los motivos que lo justifiquen y precisando las iniciativas o asuntos que serán objeto del mismo;
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -797,7 +801,7 @@ IX.- Prestar a los tribunales el auxilio que éstos requieran para el ejercicio 
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 1998)</small>
 
-X.- Nombrar y remover libremente al Secretario de Gobierno y a los Funcionarios y empleados cuyo nombramiento y remoción no corresponda a otra autoridad
+X.- Nombrar y remover libremente al Secretario de Gobierno y a los Funcionarios y empleados cuyo nombramiento y remoción no corresponda a otra autoridad;
 
 XI.- Cuidar la recaudación y correcta inversión de los caudales del Estado;
 
@@ -829,11 +833,11 @@ XXII.- Celebrar convenios con la Federación sobre participación de impuestos y
 
 > <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 1998)</small>
 
-XXIII.- Presentar para su elección, al Congreso del Estado las propuestas de nombramiento para el cargo de Procurador General de Justicia del Estado, de conformidad con lo que establezca la Ley de la materia.
+XXIII.- Presentar para su elección, al Congreso del Estado las propuestas de nombramiento para el cargo de Procurador General de Justicia del Estado, de conformidad con lo que establezca la Ley de la materia;
 
 > <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 1998)</small>
 
-XXIV.- Remover al Procurador General de Justicia del Estado, en los términos de la Ley de la materia.
+XXIV.- Remover al Procurador General de Justicia del Estado, en los términos de la Ley de la materia;
 
 XXV.- Las demás que le señalen expresamente esta Constitución y las Leyes Federales.
 
@@ -1011,11 +1015,11 @@ V.- Consignar ante la autoridad competente a los jueces y demás funcionarios o 
 
 > <small>(REFORMADA, P.O 27 DE NOVIEMBRE DE 1998)</small>
 
-VI.- La elección de los jueces, secretarios de acuerdos y actuarios de entre quienes integren la lista que le presente el Consejo de la Judicatura en la cual deberá incluirse a todos los aspirantes que hayan resultado aprobados en los exámenes psicométricos de oposición y de méritos practicados conforme al reglamento respectivo, así como su adscripción, remoción y renuncia. Iguales facultados (sic) le corresponden en cuanto a los secretarios de estudio y cuenta, quienes serán propuestos por los Magistrados correspondientes.
+VI.- La elección de los jueces, secretarios de acuerdos y actuarios de entre quienes integren la lista que le presente el Consejo de la Judicatura en la cual deberá incluirse a todos los aspirantes que hayan resultado aprobados en los exámenes psicométricos de oposición y de méritos practicados conforme al reglamento respectivo, así como su adscripción, remoción y renuncia. Iguales facultados (sic) le corresponden en cuanto a los secretarios de estudio y cuenta, quienes serán propuestos por los Magistrados correspondientes;
 
 > <small>(ADICIONADA, P.O 27 DE NOVIEMBRE DE 1998)</small>
 
-VII.- Conocer del recurso de revisión que interpongan en su defensa los jueces, secretarios, actuarios y demás personal del Poder Judicial con excepción de los Magistrados, cuando con motivo de una queja o visita de inspección se les pretenda imponer una sanción por parte del Consejo de la Judicatura.
+VII.- Conocer del recurso de revisión que interpongan en su defensa los jueces, secretarios, actuarios y demás personal del Poder Judicial con excepción de los Magistrados, cuando con motivo de una queja o visita de inspección se les pretenda imponer una sanción por parte del Consejo de la Judicatura;
 
 > <small>(ADICIONADA, P.O 27 DE NOVIEMBRE DE 1998)</small>
 
@@ -1269,7 +1273,7 @@ IV.- No tener empleo, cargo o comisión en el Gobierno Federal, Estatal o Munici
 
 No podrán ser electos miembros de un Ayuntamiento, el Gobernador del Estado sea provisional, interino, substituto o encargado del despacho, aún cuando se separe de su cargo, así como los Magistrados y Jueces del Tribunal Superior de Justicia, el Secretario General de Gobierno del Estado, el Procurador General de Justicia y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes de la elección.
 
-Los Diputados Locales, Diputados y Senadores del Congreso de la Unión, los militares en servicio activo y Jefes de Policía, salvo que se separen de sus cargos en forma provisional, noventa días antes de la elección.
+Los Diputados Locales, Diputados y Senadores del Congreso de la Unión, los militares en servicio activo y Jefes de Policía, salvo que se separen de sus cargos en forma provisional, noventa días antes de la elección;
 
 V.- Estar en pleno goce de sus derechos políticos.
 
@@ -1433,7 +1437,7 @@ El Congreso del Estado, dentro de los ámbitos de su competencia, expedirá la L
 
 I.- Se impondrán, mediante juicio político, las sanciones indicadas en el Artículo 93 a los servidores públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
-No procede el juicio político por la mera expresión de ideas.
+No procede el juicio político por la mera expresión de ideas;
 
 II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la (sic) penal; y
 
@@ -2194,3 +2198,13 @@ En su oportunidad, pronunciada la Declaratoria en los términos establecidos por
 ###### ARTICULO TERCERO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE FEBRERO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+Aprobado que sea este Dictamen por la Honorable Asamblea, envíese a los Ayuntamientos del Estado la copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Agotado el trámite y pronunciada la declaratoria señalada por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
