@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-catastro-del-estado-de-michoacan-5961"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-05"
-last_updated: "1988-12-31"
+last_updated: "1989-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CATASTRO DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1989.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 5 de marzo de 1984.
 
@@ -141,7 +141,7 @@ IX. Zona urbana: las superficies constituidas por las áreas que componen los ce
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
-X. Zonas rústicas; las superficies constituidas por las áreas localizadas fuera de los límites de los centros de población;
+X. Zonas rústicas; las superficies Constituidas por las áreas localizadas fuera de los límites de los centros de población;
 
 XI. Construcciones: las obras de cualquier tipo, destino o uso, inclusive los equipos e instalaciones adheridos a ellas, clasificadas en:
 
@@ -225,7 +225,7 @@ X. Ratificar, y en su caso, rectificar los registros catastrales cuando así pro
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-XI. Elaborar los proyectos de valores unitarios de terreno y construcción de predios urbanos y rústicos.
+XI. Elaborar los proyectos de valares unitarios de terreno y construcción de predios urbanos y rústicos.
 
 ###### ARTICULO 8o.
 
@@ -379,6 +379,10 @@ La Tesorería General del Estado, fijará el monto de la garantía a los peritos
 
 A los Peritos valuadores autorizados por la Tesorería General del Estado que no apliquen correctamente en la valuación de predios los valores unitarios aprobados, atendiendo a la clasificación del terreno y construcción de que se trate, les será suspendida dicha autorización, sin perjuicio de las sanciones fiscales o penales en que incurran.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
+
+Asimismo la Tesorería General del Estado podrá celebrar convenios con los Ayuntamientos, para el ejercicio de las facultades de valuación de predios y de notificación de valores catastrales a que se refieren las fracciones IV y V del artículo 7o. de esta Ley, pudiendo los ayuntamientos proponer peritos valuadores que actúen dentro de jurisdicción territorial.
+
 ### CAPITULO SEXTO. DE LOS FRACCIONAMIENTOS Y CONDOMINIOS
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
@@ -495,6 +499,12 @@ II. A los que cometan violación a lo establecido en las fracciones II y VII del
 
 III. A quienes violen lo previsto en las fracciones V y VI del Artículo anterior, se les aplicará una multa equivalente al monto de 11 a 15 días de salario mínimo general vigente en la capital del Estado, en la fecha de la infracción, sin perjuicio de las sanciones que les impongan otros ordenamientos.
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1989)</small>
+
+IV. Cuando con motivo de la comisión de alguna de las infracciones a que se refiere el artículo anterior, se propicie que no se paguen los Impuestos Predial o sobre Adquisición de Inmuebles conforme a la Ley, se impondrá al infractor una multa equivalente a dos tantos de las contribuciones omitidas.
+
+Lo establecido en la fracción anterior sólo es aplicable a los responsables solidarios. El contribuyente directo sólo pagará el importe que dejó de cubrir.
+
 ###### ARTICULO 46.
 
 Los funcionarios y empleados de la Tesorería General, que por dolo o negligencia alteren o falsifiquen cualesquiera de los datos de un predio, que favorezcan o perjudiquen a un propietario o poseedor, o que permitan la infracción de esta Ley y su reglamento, serán suspendidos o destituidos de su empleo según la gravedad de la falta, pudiendo ser consignados a las autoridades competentes.
@@ -605,4 +615,10 @@ P.O. 31 DE DICIEMBRE DE 1988.
 
 ###### ARTICULO UNICO.
 
-El presente decreto entrará en vigor el día 1o. de enero de 1989, previa publicación en el Periódico Oficial del Estado.
+El presente decreto entrara en vigor el día 1o. de enero de 1989, previa publicación en el Periódico Oficial Del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día 1o. de enero de 1990, previa publicación en el Periódico Oficial del Estado.
