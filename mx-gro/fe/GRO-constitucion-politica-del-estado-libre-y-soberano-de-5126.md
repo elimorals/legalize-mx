@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1935-01-02"
+last_updated: "1935-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1935.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 1935.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -345,11 +345,15 @@ El día de la instalación, y antes del acto, los Diputados otorgarán la protes
 
 Para que el Congreso pueda instalarse y ejercer sus funciones, se necesita, por lo menos, la presencia de las dos terceras partes del número total de sus miembros; pero los presentes deberán reunirse el día señalado por la ley, y compeler, bajo las penas que ella designe, a efecto de que concurran, a los ausentes cuya elección se hubiere declarado legal por las respectivas juntas electorales.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1935)</small>
 
 ###### Artículo 37.
 
-Habrá en cada año dos períodos de sesiones ordinarias. El primero comenzará el día 1° de marzo y terminará el 31 de mayo. El segundo principiará el día 1° de septiembre y terminará el 30 de noviembre. Ambos períodos podrán prorrogarse hasta por treinta días cuando así lo requiera la importancia de los asuntos pendientes.
+Cada Legislatura tendrá dos períodos ordinarios de sesiones que comenzarán el primero de marzo y terminarán el treinta de junio.
+
+Los períodos ordinarios podrán prorrogarse hasta por el término de treinta días, para tratar los asuntos pendientes, cuando éstos así lo requieran.
+
+En caso de que por alguna circunstancia imprevista, no pudieren abrirse o cerrarse las sesiones en los días señalados, tendrán verificativo estos actos en la fecha que respectivamente acuerden los Diputados.
 
 ### CAPITULO II.
 
@@ -1276,3 +1280,7 @@ Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicaci
 P.O. 2 DE ENERO DE 1935.
 
 Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación.
+
+P.O. 26 DE JUNIO DE 1935.
+
+Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
