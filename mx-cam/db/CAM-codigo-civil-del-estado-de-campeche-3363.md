@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "1994-09-27"
+last_updated: "1996-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1996.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -3791,7 +3791,7 @@ El curador que no llene los deberes prescritos en el artículo precedente, será
 
 ###### Art. 642.
 
-Las funciones del curador cesarán cuando el incapacitado salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en el curaduría (sic).
+Las funciones del curador cesarán cuando el incapacitado salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en el curaduría.
 
 ###### Art. 643.
 
@@ -14665,6 +14665,14 @@ El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en
 
 Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituida para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+Las entidades financieras, los institutos de seguridad social y de vivienda podrán ceder los créditos que tengan garantizados con hipoteca sin necesidad de notificación al deudor, ni de escritura pública, ni de inscripción en el Registro Público de la Propiedad, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+En los supuestos previstos en los dos párrafos anteriores, la inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor de él o los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivados de ésta.
+
 ###### Art. 2824.
 
 La hipoteca generalmente durará por todo el tiempo que subsista la obligación que garantice y cuando ésta no tuviere término para su vencimiento, la hipoteca no podrá durar más de diez años.
@@ -15608,6 +15616,12 @@ P.O. 27 DE SEPTIEMBRE DE 1994.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones que se opongan a las contenidas en este decreto.
+
+P.O. 28 DE DICIEMBRE DE 1996.
+
+Primero.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ARTICULO UNICO.- ART. 2902".]
 
