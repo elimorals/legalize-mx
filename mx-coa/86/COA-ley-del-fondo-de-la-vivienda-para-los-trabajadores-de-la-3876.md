@@ -4,7 +4,7 @@ identifier: "COA-ley-del-fondo-de-la-vivienda-para-los-trabajadores-de-la-3876"
 country: "mx"
 rank: "ley"
 publication_date: "1986-04-29"
-last_updated: "1986-04-29"
+last_updated: "1987-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3876&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL FONDO DE LA VIVIENDA PARA LOS TRABAJADORES DE LA EDUCACION AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1987.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 29 de abril de 1986.
 
@@ -47,35 +47,35 @@ LEY DEL FONDO DE LA VIVIENDA PARA LOS TRABAJADORES DE LA EDUCACION AL SERVICIO D
 
 Se crea un Organismo de servicio social con personalidad jurídica y patrimonio propio, cuya denominación será FONDO DE LA VIVIENDA PARA LOS TRABAJADORES DE LA EDUCACION AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS, con domicilio social en la ciudad de Saltillo, Coahuila.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1987)</small>
+
 ###### ARTICULO 2°.
 
 Dicho Organismo tendrá por objeto:
 
-I.- Establecer y operar un sistema de financiamiento que permita al propio Organismo y a los trabajadores de la educación, en lo individual o colectivamente;
+I.- Establecer y operar un sistema de financiamiento que permita al propio organismo y a los trabajadores de la Educación, en lo individual y colectivamente:
 
-a).- Construir viviendas o conjuntos habitacionales.
+a).- Adquirir, Construir, Vender, Enajenar o Arrendar Bienes Inmuebles que se destinen a la construcción de Fraccionamientos, Viviendas, Conjuntos Habitacionales, incluyendo aquellas sujetas al régimen de condominio o cualquier inmueble que traiga consigo un beneficio social común para el bienestar de los trabajadores de la Educación.
 
-b).- Adquirir y enajenar bienes inmuebles destinados a la construcción de viviendas para los trabajadores de la educación.
+b).- Remodelar, ampliar o mejorar las mismas.
 
-c).- Adquirir viviendas, incluyendo aquellas sujetas al régimen de condominio.
+c).- Rescatar de Hipoteca los Bienes Inmuebles destinados para vivienda propiedad de los trabajadores.
 
-d).- Remodelar, ampliar o mejorar las mismas.
+d).- Urbanizar los predios destinados a la construcción de viviendas, conjuntos habitacionales o cualquier otro inmueble, que realice esta institución para el beneficio social de los trabajadores.
 
-e).- Rescatar de hipoteca, los bienes inmuebles destinados para vivienda propiedad de los trabajadores; y
+II.- Gestionar, Tramitar y Contratar Créditos de Interés Social para operaciones de compra-venta o arrendamiento, con cualquier institución del ramo o ante las sociedades nacionales de crédito para los trabajadores en forma individual y colectiva.
 
-f).- Urbanizar los predios destinados a la construcción de viviendas, o conjuntos habitacionales para los trabajadores.
+III.- Gestionar, Tramitar y Contratar cualquier tipo de crédito con cualquier institución del ramo, o ante las sociedades nacionales de crédito, para sí mismo o para obras de beneficio social para el bienestar de los trabajadores.
 
-II.- Gestionar, tramitar, y, contratar créditos con otras instituciones del ramo, para sí mismo o para los trabajadores de la educación, en forma individual o colectiva;
+IV.- Apoyar las solicitudes individuales de crédito de los trabajadores ante las sociedades nacionales de crédito.
 
-III.- Apoyar las solicitudes individuales de crédito de los trabajadores, ante las Sociedades Nacionales de Crédito;
+V.- Construir Fraccionamientos Ubanos (sic) y Rústicos de acuerdo con los tipos señalados para los habitacionales y campestres, establecidos en la Ley de la Materia;
 
-IV.- Construir fraccionamientos urbanos y rústicos, de acuerdo con los tipos señalados para los habitacionales y campestres, establecido en la Ley de la Materia;
+VI.- Promover la realización de programas habitacionales de beneficio Social para sus afiliados.
 
-V.- Promover la realización de programas habitacionales de beneficio social para sus afiliados.
+VII.- Gestionar ante las Autoridades correspondientes, lo concerniente a las operaciones relacionadas con los programas habitacionales que el Organismo realice; y
 
-VI.- Gestionar ante las autoridades correspondientes, lo concerniente a las operaciones relacionadas con los programas habitacionales que el Organismo realice; y
-
-VII.- Celebrar los actos jurídicos necesarios para el cumplimiento y observancia de esta Ley.
+VIII.- Celebrar los actos Jurídicos necesarios para el cumplimiento y observancia de esta Ley.
 
 ###### ARTICULO 3°.
 
@@ -225,7 +225,9 @@ IV.- Elaborar y aprobar el presupuesto anual de egresos e ingresos, y vigilar el
 
 V.- Elaborar y aprobar, en forma conjunta con el Consejo Consultivo, los tabuladores y prestaciones correspondientes al personal que presta sus servicios al Organismo;
 
-VI.- Aprobar, conjuntamente con el Consejo Consultivo, la adquisición, enajenación, cesión, así como cualquier operación en que comprometa el patrimonio del Organismo;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1987)</small>
+
+VI.- Aprobar conjuntamente con el Consejo Consultivo, la Adquisición, Enajenación, Cesión, así como cualquier operación de compra venta o arrendamiento en que se comprometa el Patrimonio del Organismo;
 
 VII.- Elaborar y mantener actualizados los inventarios de bienes muebles e inmuebles que constituyan el patrimonio del Organismo, velando por el uso correcto de los mismos;
 
@@ -1096,3 +1098,9 @@ EL SECRETARIO DEL EJECUTIVO DEL ESTADO
 LIC. ENRIQUE MARTINEZ Y MARTINEZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE MARZO DE 1987.
+
+EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS DISPOSICIONES PRELIMINARES DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
