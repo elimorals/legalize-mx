@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-75-2000-del-pleno-del-consejo-de-la-46471"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-11-17"
-last_updated: "2000-11-17"
+last_updated: "2004-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46471&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-11-10"
 
 ACUERDO GENERAL 75/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES PARA QUE LAS ADQUISICIONES, ARRENDAMIENTOS, PRESTACION DE SERVICIOS Y OBRA PUBLICA EN EL CONSEJO DE LA JUDICATURA FEDERAL, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTICULO 134 CONSTITUCIONAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JUNIO DE 2004.
 
 Acuerdo publicado en la Primera Sección Diario Oficial de la Federación, el viernes 17 de noviembre de 2000.
 
@@ -125,9 +125,25 @@ DE LA OBRA PUBLICA. La obra pública comprenderá los actos en virtud de los cua
 
 COMPONENTES DE OBRA PUBLICA. Dentro de la obra pública se comprenden:
 
-l. La construcción, adaptación, conservación, mantenimiento, reparación y demolición de bienes inmuebles; y,
+> <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004)</small>
 
-II. Los servicios relacionados con la obra pública, incluidos la instalación de bienes muebles cuando éstos formen parte integral de la obra, los trabajos de concepción, diseño, proyecto y cálculo, así como de los vinculados a investigaciones, asesorías, consultorías especializadas, supervisión de la ejecución de las obras, y proyectos integrales, que abarcarán desde el diseño de la obra hasta su culminación.
+l. La construcción, adaptación, conservación, mantenimiento, reparación, demolición, remodelación y rehabilitación de bienes inmuebles, y
+
+> <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004)</small>
+
+ll. Los servicios relacionados con la misma, tales como:
+
+Los trabajos que tengan por objeto concebir, diseñar y calcular los elementos que integran un proyecto de obra pública; las investigaciones, estudios, asesorías y consultorías que se vinculen con la misma.
+
+La planeación y el diseño, incluyendo los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto de ingeniería básica, estructural, de instalaciones, de infraestructura, industrial, electromecánica y de cualquier otra especialidad de la ingeniería que se requiera para integrar un proyecto ejecutivo de obra pública;
+
+Los estudios técnicos de mecánica de suelos, sismología, topografía, geología, aerofotogrametría, ambientales, ecológicos y de ingeniería de tránsito;
+
+Los estudios económicos y de planeación de preinversión, factibilidad técnico económica, ecológica o social, de evaluación, adaptación, tenencia de la tierra, financieros, de desarrollo o restitución de la eficiencia de las instalaciones;
+
+Los trabajos de coordinación, supervisión y control de obra; de laboratorio de análisis y control de calidad; de resistencia de materiales; de preparación de especificaciones de construcción, presupuestación o la elaboración de cualquier otro documento o trabajo para la adjudicación del contrato de obra correspondiente, y
+
+Todos aquellos análogos a los antes enunciados.
 
 ###### ARTICULO 9o.
 
@@ -173,7 +189,13 @@ II. El Director General de Recursos Materiales y Servicios Generales autorizará
 
 III. El Comité autorizará la adjudicación en caso de que el contrato deba adjudicarse mediante un procedimiento diverso a la licitación pública, en virtud de constituir un caso de excepción.
 
-El Comité autorizará la adjudicación de los contratos de proyectos relacionados con la obra pública, independientemente del monto a que asciendan dichos contratos, con base en la información e investigación que presente Recursos Materiales y Servicios Generales a través de la Secretaría Ejecutiva.
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004)</small>
+
+En los supuestos en que corresponda al Comité otorgar las autorizaciones para la adjudicación de los contratos relativos a proyectos relacionados con la obra pública, así como para la construcción, adaptación, conservación, mantenimiento, reparación, demolición, remodelación y rehabilitación de inmuebles, previamente deberá presentar a la Comisión la información que servirá de base para esos efectos.
+
+> <small>(ADICIONADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004)</small>
+
+Tratándose de obra pública en materia de construcción, adaptación, conservación, mantenimiento, reparación, demolición, remodelación y rehabilitación de inmuebles, se estará a lo dispuesto por los artículos 72 bis y 72 ter del presente Acuerdo.
 
 ###### ARTICULO 17.
 
@@ -237,7 +259,11 @@ XIII. Autorizar la modificación de los pedidos o contratos, en los supuestos en
 
 XIV. Establecer criterios para asegurar que el Consejo obtenga las mejores condiciones de precio, calidad, financiamiento y oportunidad en las adquisiciones y contrataciones, además de promover los elementos para acreditar la economía, eficiencia, eficacia, imparcialidad y honradez en los procedimientos, instrumentando las medidas que permitan en lo posible, comparar los precios ofrecidos por los proveedores frente a los de mercado a fin de lograr descuentos o beneficios adicionales para el Consejo; y,
 
-XV. Informar sobre el ejercicio de sus funciones al Pleno y a la Comisión, según se determine.
+> <small>(ADICIONADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004)</small>
+
+XV. Dar seguimiento a todo el trámite, hasta poner en estado de resolución, los asuntos que decida conocer la Comisión.
+
+XVI. Informar sobre el ejercicio de sus funciones al Pleno y a la Comisión, según se determine.
 
 ###### ARTICULO 22.
 
@@ -439,6 +465,36 @@ Cuando no resulte idóneo celebrar licitación pública para asegurar las condic
 
 En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega; forma y tiempo de pago, penas convencionales, anticipos y garantías, debiendo proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos.
 
+> <small>(ADICIONADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004)</small>
+
+Para el caso de los servicios relacionados con la obra pública, las bases que se emitan para las licitaciones públicas, deberán contener cuando menos, la siguiente información:
+
+I. La descripción general del servicio y el lugar en donde se llevarán a cabo los trabajos;
+
+II. Los términos de referencia que precisen el objeto y alcances del servicio; las especificaciones generales y particulares; el producto esperado y la forma de presentación;
+
+III. Las propuestas que presenten los contratistas para la celebración de estos contratos, tanto en su aspecto técnico como económico, deberán estar desglosadas y cumplir con los requisitos de las bases de la licitación pública;
+
+Por lo que se refiere a la elaboración de proyectos ejecutivos, los contratos de dichos servicios deberán contener, además de lo establecido en el párrafo anterior, lo dispuesto en el artículo 72 bis, 1a. y 2a. fase del presente Acuerdo.
+
+IV. La incorporación en el documento contractual respectivo, de los requisitos y alcances que precisa el objeto del servicio.
+
+V. De acuerdo a las características, magnitud y complejidad de los servicios, los datos siguientes:
+
+a. La descripción precisa y detallada de los servicios que se requieren;
+
+b. Plazos de ejecución, incluyendo un calendario de prestación de servicios;
+
+c. La información técnica y recursos que proporcionará el Consejo;
+
+d. Las especificaciones generales y particulares del proyecto;
+
+e. El producto o documentos esperados y su forma de presentación; y
+
+f. En su caso, la metodología a emplear en la prestación del servicio.
+
+VI. Las condiciones de tipo jurídico, técnico y económico que requiera la licitación pública.
+
 ###### ARTICULO 36.
 
 DE LA DETERMINACION ANUAL DE LOS PARAMETROS PARA EL PROCEDIMIENTO DE ADJUDICACION POR LICITACION PUBLICA. Para la determinación del procedimiento de adjudicación a que se refiere el artículo anterior, se atenderá al monto de la operación, sin incluir el Impuesto al Valor Agregado, conforme a los parámetros que emita el Consejo, los que serán determinados anualmente a propuesta del Comité en el primer mes del ejercicio de que se trate, de acuerdo al volumen de presupuesto que se haya destinado para las contrataciones materia del presente Acuerdo en el Presupuesto de Egresos del Consejo.
@@ -480,6 +536,10 @@ XIV. Adquisición de bienes y servicios, así como contratación de proyectos ej
 Las contrataciones a que se refiere el presente artículo, preferentemente se realizarán mediante el procedimiento de invitación restringida, salvo que ello no fuere posible o no resultare conveniente para los intereses del Consejo.
 
 Para los efectos del presente artículo, deberá obtenerse previamente la autorización del Comité, para lo cual el área operativa que corresponda deberá justificar la necesidad de celebrar la contratación mediante el procedimiento alterno de que se trate.
+
+> <small>(ADICIONADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004)</small>
+
+En los supuestos de las fracciones XII, XIII y XIV del presente artículo, el Comité rendirá un informe previo a la Comisión.
 
 ###### ARTICULO 38.
 
@@ -865,6 +925,86 @@ REQUISITOS PARA ADJUDICAR EL CONTRATO. Los contratos serán adjudicados a la per
 
 Los contratos que se celebren a través de adjudicación directa, serán asignados a la persona que ofrezca al Consejo las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás características pertinentes.
 
+> <small>(ADICIONADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004)</small>
+
+ARTÍCULO 72 BIS.- REQUISITOS PARA ADJUDICAR LOS CONTRATOS DE OBRA PUBLICA PARA LA CONSTRUCCION, ADAPTACION, CONSERVACION, MANTENIMIENTO, REPARACION, DEMOLICION, REMODELACION O REHABILITACION DE INMUEBLES. Los contratos de obra pública para la construcción, adaptación, conservación, mantenimiento, reparación, demolición, remodelación o rehabilitación de inmuebles, que corresponda adjudicar al Comité, previo informe que rinda a la Comisión, se sujetará a lo siguiente:
+
+El Comité, previo informe que rinda a la Comisión, aprobará las bases y condiciones de contratación que para tal efecto elabore Recursos Materiales y Servicios Generales.
+
+Tratándose de la adjudicación del proyecto ejecutivo, las bases, en su caso, deberán prever los siguientes requisitos:
+
+1a. Fase: Esquema elemental del proyecto arquitectónico, mediante croquis o gráficos a escala.
+
+- Recepción y sistematización de la información precisa.
+
+- Planteamiento del programa técnico de las necesidades arquitectónicas solicitadas al momento del encargo.
+
+- Estimación paramétricamente enunciativa del costo de la obra.
+
+- Memoria conceptual de las soluciones adoptadas.
+
+- Croquis o gráficos a escala mínima 1:100.
+
+- Estimación paramétrica del costo de la obra.
+
+- Memoria justificativa de las soluciones de tipo general.
+
+- Planos de plantas, fachadas y cortes a escala mínima 1:100, con medidas y cotas generales.
+
+- Estimación paramétrica del costo de la obra por partidas generales.
+
+- En esta fase, deben exponerse los aspectos fundamentales de las características generales del proyecto, como son: funcionales y formales, constructivas y económicas, con el objeto de establecer un avance del presupuesto en los términos paramétricos de las partidas que lo integran.
+
+2a. Fase: Deben definirse de modo preciso las características generales del proyecto, mediante la adopción y justificación de soluciones concretas.
+
+Se especificarán los componentes de las estructuras y de las instalaciones electromecánicas, propias del proyecto arquitectónico.
+
+Debiendo contarse con:
+
+1.- Memoria descriptiva de las características generales de la obra.
+
+2.- Planos generales a escala mínima 1:50 de las plantas, fachadas y cortes, con medidas y cotas.
+
+3.- Costo de la obra con estimación paramétrica global de cada capítulo, oficio, artesanía o tecnología.
+
+4.- Memorias técnicas del análisis matemático para la cimentación, la estructura y las instalaciones electromecánicas.
+
+5.- Planos de las cimentaciones, estructuras, instalaciones electromecánicas, oficios, artesanías, tecnologías y de todas aquellas participaciones consideradas en la contratación y aceptación del proyecto a escala mínima 1:50.
+
+6.- Catálogo de condiciones técnicas (especificaciones) generales y particulares.
+
+7.- Catálogo de mediciones generales (números generadores básicos).
+
+8.- Presupuesto obtenido por aplicación paramétrica de precios unitarios convencionales de obra.
+
+La persona física o moral a quien se haya adjudicado la elaboración de un proyecto ejecutivo o la supervisión de una obra, no podrá participar también en su ejecución material.
+
+El área operativa propondrá al Comité el monto de los anticipos que deban otorgarse, presentando las justificaciones y soportes técnicos que se requieran, y el Comité, previo informe que rinda a la Comisión, será quien determine lo procedente, siempre y cuando no rebasen los montos a que se refiere el artículo 80 de este Acuerdo.
+
+La licitación pública se llevará a cabo conforme a las bases y sus respectivos anexos.
+
+En el caso de invitación restringida a cuando menos tres contratistas, será el Comité, previo informe que rinda a la Comisión, quien determinará a partir de la propuesta que le formule Recursos Materiales y Servicios Generales, qué personas físicas o morales podrán participar en la convocatoria y con base en las ofertas que se hayan presentado, a cuál de ellas corresponde la adjudicación del contrato respectivo.
+
+La determinación anterior, se hará a propuesta de Recursos Materiales y Servicios Generales, quien deberá analizar la idoneidad de los participantes.
+
+En los supuestos de adjudicación directa a que se refieren las fracciones II y III del artículo 68 de este Acuerdo, será el Comité, previo informe que rinda a la Comisión, quien determine la adjudicación del contrato respectivo.
+
+La liquidación de la obra contratada será contra la recepción de los trabajos de construcción, una vez que se hayan cumplido todas y cada una de las partidas que integren el proyecto ejecutivo. La obra deberá encontrarse totalmente ejecutada en el plazo establecido, cumpliendo con las especificaciones y normas de calidad requeridas, conforme a lo establecido en el último párrafo del artículo 72 ter.
+
+Para los procedimientos anteriores, además de lo dispuesto por este artículo, se estará a lo estipulado en los artículos 16, último párrafo, 21, fracciones X, XV y XVI y 37, fracciones XII, XIII y XV de este Acuerdo.
+
+> <small>(ADICIONADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004)</small>
+
+ARTÍCULO 72 TER.- SUPERVISION Y RECEPCION DE OBRA. Supervisión es la medición del estado real de las partidas que componen el proyecto ejecutivo, a que se refiere el artículo 72 bis, de este Acuerdo, misma que deberá realizarse por la persona física o moral, que para tal efecto haya designado el Comité, previo informe que rinda a la Comisión.
+
+La supervisión deberá realizarse de acuerdo a los lineamientos que para el caso emita el Comité, previo informe que rinda a la Comisión.
+
+El informe de supervisión permitirá al Comité analizar y determinar si el responsable de la ejecución del proyecto de obra, cumple con las obligaciones estipuladas en el contrato respectivo.
+
+En la eventualidad de que, como resultado de la supervisión, se detecten irregularidades en el proyecto ejecutivo, o bien en la construcción de la obra pública, imputables al contratista adjudicado, el Comité, previo informe que rinda a la Comisión, podrá determinar las acciones a seguir, de conformidad con lo estipulado en el contrato y en la normatividad aplicable, así como ordenar hacer efectivas las garantías otorgadas por el contratista, en el supuesto de que este último no cumpliere con las recomendaciones que la Comisión le hubiera hecho para el cabal cumplimiento del contrato.
+
+La recepción de la obra pública a que se refiere el penúltimo párrafo del artículo 72 bis, se hará de conformidad con los artículos 91 y 93 del presente Acuerdo, y deberá contar con la opinión del equipo técnico que para el efecto el Comité, previo informe que rinda a la Comisión, señale, el cual será el encargado de revisar el cumplimiento de todas y cada una de las partidas que integran el proyecto ejecutivo.
+
 ###### ARTICULO 73.
 
 EVALUACION DE LAS PROPUESTAS. Para la adjudicación de los contratos, Recursos Materiales y Servicios Generales o Administración Regional, según corresponda, evaluarán las propuestas con el objeto de apreciar su solvencia, las características técnicas mínimas, la calidad, tiempo, lugar y condiciones de entrega o de ejecución y demás circunstancias establecidas en las bases o invitación respectiva, calificando únicamente aquellos concursantes que cumplan con la totalidad de los aspectos enunciados, independientemente de que la materia sea de adquisiciones, arrendamientos, prestación de servicios u obra pública.
@@ -878,6 +1018,10 @@ En caso de que los concursantes hayan manifestado en sus propuestas, de conformi
 DEFINICION. Para los efectos del presente Acuerdo, se denominan contratos a los convenios administrativos por los cuales se crean o transfieren obligaciones y derechos.
 
 El contrato se formalizará a través del documento en el que se hará constar el acuerdo de voluntades entre el Consejo y el proveedor o contratista, derivado del procedimiento de adjudicación.
+
+> <small>(ADICIONADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004)</small>
+
+Corresponderá a la Dirección General de Asuntos Jurídicos la elaboración y actualización de los modelos de contrato que deban celebrarse en materia de adquisiciones, arrendamientos, prestación de servicios y obra pública, para ser sometidos a la aprobación del Comité, en los términos de la fracción IX del artículo 21 de este Acuerdo.
 
 ###### ARTICULO 75.
 
@@ -895,7 +1039,9 @@ Los derechos y obligaciones que se deriven de los contratos, no podrán cederse 
 
 En aquellas adjudicaciones en las que a juicio del área operativa correspondiente resulte necesario elaborar un contrato, por la complejidad técnica y monto de la operación, dicho acuerdo se elaborará conforme con los modelos tipo aprobados por el Comité. En caso contrario, podrá optarse por formalizar la adjudicación mediante un pedido o una orden de trabajo.
 
-Para los efectos indicados en la última parte del párrafo anterior, se establecerán formatos tipo de pedidos y de órdenes de trabajo, que contengan las disposiciones necesarias a fin de garantizar el cumplimiento de las obligaciones a cargo de los proveedores o contratistas.
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004)</small>
+
+Para los efectos indicados en la última parte del párrafo anterior, la Dirección General de Asuntos Jurídicos elaborará y mantendrá actualizados los modelos de pedidos y órdenes de trabajo, que contengan las disposiciones necesarias que garanticen el cumplimiento de las obligaciones a cargo de los proveedores o contratistas, los cuales previamente a su aplicación, deberán ser aprobados por el Comité, de conformidad con lo dispuesto por la fracción IX del artículo 21 de este Acuerdo.
 
 ###### ARTICULO 76.
 
@@ -903,7 +1049,9 @@ MODIFICACION DE LOS CONTRATOS. Los contratos que se celebren en la materia objet
 
 l. Dentro del programa de inversiones aprobado y por razones fundadas y explícitas, Recursos Materiales y Servicios Generales o Administración Regional, según corresponda, podrán modificar los contratos que se celebren en materia de obra pública, mediante convenios u órdenes de trabajo, que podrán ser suscritos directamente por ellos, siempre y cuando no impliquen variaciones sustanciales al proyecto original y equivalgan al quince por ciento o menos, considerados conjunta o separadamente; cuando se encuentren por arriba del porcentaje indicado y hasta el veinticinco por ciento se requerirá la autorización del Secretario Ejecutivo.
 
-Si las modificaciones exceden el veinticinco por ciento indicado o varían sustancialmente el objeto del contrato, se formalizarán mediante la celebración de convenios adicionales entre las partes donde se hagan constar los nuevos términos y condiciones, con autorización del Comité; y,
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004)</small>
+
+Si las modificaciones exceden del veinticinco por ciento indicado o varían sustancialmente el objeto del contrato, requerirán la autorización del Comité previo informe que rinda a la Comisión y se formalizarán mediante la celebración de convenios adicionales entre las partes donde se hagan constar los nuevos términos y condiciones; y,
 
 ll. Recursos Materiales y Servicios Generales o Administración Regional, según corresponda, por razones fundadas, podrán acordar el incremento en la cantidad de bienes adquiridos mediante modificaciones a sus contratos vigentes, siempre que el monto total de las modificaciones no rebase, en conjunto, el quince por ciento de los conceptos y volúmenes establecidos originalmente en los mismos y el precio de los bienes sea igual al pactado originalmente, salvo fluctuaciones de carácter monetario o condiciones especiales del mercado debidamente justificadas, para lo cual se tomará como referencia el Indice Nacional de Precios al Consumidor que publica el Banco de México.
 
@@ -941,21 +1089,29 @@ l. Sobre la base de precios unitarios y tiempo determinado, en cuyo caso, el imp
 
 ll. A precio alzado, en cuyo caso, el importe de la remuneración o pago total fijo que deba cubrirse al contratista deberá estar desglosado por actividades principales o por la obra totalmente terminada, ejecutada en el plazo establecido, conforme al proyecto, especificaciones y normas de calidad requeridas. Cuando se cuente con proyectos integrales, los contratos se celebrarán a precio alzado. Los contratos de este tipo no podrán ser modificados en cuanto a monto o plazo, ni estarán sujetos a ajustes de costos.
 
+> <small>(ADICIONADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004)</small>
+
+Sin embargo, cuando se presenten circunstancias no previstas por las partes con posterioridad a la adjudicación del contrato, que pudieran dar lugar a un aumento o reducción de los costos, la Comisión tomando en consideración las causas y razonamientos del caso, que le presente el Comité, resolverá lo procedente.
+
+> <small>(ADICIONADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004)</small>
+
+Cuando se haya cumplido con lo estipulado en los artículos 72 ter, último párrafo y 91 de este Acuerdo, se procederá al pago restante del monto total contratado, conforme a lo establecido en las bases.
+
 ###### ARTICULO 79.
 
 DE LA RESIDENCIA DE LA SUPERVISION TECNICA EXTERNA. Recursos Materiales y Servicios Generales o Administración Regional, según corresponda, establecerán la residencia de la supervisión técnica externa con anterioridad a la iniciación de las obras que tengan un plazo de ejecución mayor a treinta días calendario, la cual será responsable directa de la supervisión, vigilancia, control y revisión de los trabajos, incluyendo la aprobación de las estimaciones presentadas por los contratistas.
 
 #### Sección III. De los Anticipos
 
-###### ARTICULO 80.
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004)</small>
 
-PORCENTAJE DE ANTICIPO. En las contrataciones que se realicen en el Consejo en materia de adquisiciones, arrendamientos y obra pública, podrá otorgarse a los proveedores y contratistas hasta el cincuenta por ciento de anticipo del monto total del contrato, siempre y cuando resulte conveniente para el Consejo en términos de oportunidad, calidad y precio.
+###### ARTÍCULO 80.
 
-Los anticipos de más del treinta y cinco por ciento y hasta el cincuenta por ciento, requerirán la autorización de la Secretaría Ejecutiva. En caso de que se justifique otorgar un porcentaje mayor, deberá ser autorizado por el Comité.
+PORCENTAJE DE ANTICIPO. En las contrataciones en materia de adquisiciones de bienes y servicios, podrá otorgarse a los proveedores hasta el cincuenta por ciento de anticipo del monto total del contrato, siempre y cuando resulte conveniente para el Consejo en términos de oportunidad, calidad y precio. Los anticipos de más del treinta y cinco y hasta el cincuenta por ciento, requerirán la autorización de la Secretaría Ejecutiva. En caso de que se justifique otorgar un porcentaje mayor, deberá ser autorizado por el Comité.
 
-En materia de obra pública y con autorización del Comité, podrá otorgarse un anticipo adicional, para la adquisición de equipos y materiales de importación que se requieran, para la realización de la obra, a fin de asegurar su costo.
+Tratándose de contratos de obra pública y servicios relacionados con la misma, con autorización del Comité, previo informe que rinda a la Comisión, se otorgará un anticipo de hasta el cincuenta por ciento del monto total del contrato como máximo; y conforme a los mismos requisitos, podrá otorgarse un anticipo adicional, para la adquisición de equipos y materiales de importación que se requieran para la realización de la obra. El monto del anticipo adicional, se realizará de acuerdo al tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana, publicado por el Banco de México, vigente a la fecha de adquisición.
 
-En las contrataciones que se realicen por conducto de las Administraciones Regionales y Delegaciones Administrativas, la Dirección General de Administración Regional podrá otorgar anticipos hasta por un treinta y cinco por ciento del monto total de la contratación. Los Administradores Regionales y Delegados Administrativos, bajo su más estricta responsabilidad, determinarán los casos en los que convenga al Consejo el otorgamiento de anticipos y garantizar la debida inversión de los mismos en los términos de los lineamientos que al efecto establezca el Comité.
+En las contrataciones que se realicen por conducto de las Administraciones Regionales y Delegaciones Administrativas, la Dirección General de Administración Regional, podrá otorgar anticipos hasta por un treinta y cinco por ciento del monto total de la contratación, previa autorización del Comité y a propuesta de los Administradores Regionales y Delegados Administrativos, quienes justificarán la conveniencia de su otorgamiento.
 
 ###### ARTICULO 81.
 
@@ -1011,15 +1167,17 @@ INFORME DEL AJUSTE. Cuando ocurran circunstancias no previstas en el contrato qu
 
 RECEPCION Y VERIFICACION DE LOS SERVICIOS. Recursos Materiales y Servicios Generales o Administración Regional, según corresponda, serán las responsables de la recepción de los bienes y de los servicios prestados, por lo que verificarán que cumplan con las especificaciones establecidas en el contrato respectivo.
 
-###### ARTICULO 91.
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004, D.O.F. 23 DE JUNIO DE 2004)</small>
 
-TERMINACION DE LOS TRABAJOS. Tratándose de obra pública, el contratista comunicará a Recursos Materiales y Servicios Generales la terminación de los trabajos que le fueron encomendados, a fin de que esa área se asegure que estén debidamente concluidos dentro del plazo pactado expresamente en el contrato y en los términos en que se fijaron.
+###### ARTÍCULO 91.
 
-Una vez que haya constatado la conclusión de los trabajos en los términos precisados en el párrafo anterior, procederá a su recepción con la formalidad y dentro del plazo que para tal efecto se haya establecido en el propio contrato.
+TERMINACION DE LOS TRABAJOS. Tratándose de obra pública, el contratista comunicará al equipo técnico que se haya designado, la terminación de los trabajos que le fueron encomendados, a fin de que se asegure que estén debidamente concluidos dentro del plazo pactado expresamente en el contrato y en los términos en que se fijaron.
 
-Recursos Materiales y Servicios Generales comunicará a la Contraloría la terminación de los trabajos e informará la fecha señalada para su recepción a fin de que, si lo estima conveniente, nombre un representante que asista al acto.
+Una vez que el equipo técnico haya constatado la conclusión de los trabajos en los términos precisados en el párrafo anterior, Recursos Materiales y Servicios Generales, procederá a su recepción con la formalidad y dentro del plazo que para tal efecto se haya establecido en el propio contrato, e informará a la Contraloría la fecha señalada para dicha recepción, a fin de que si lo estima conveniente, nombre un representante que asista al acto.
 
-En la fecha señalada, se recibirán los trabajos mediante el levantamiento del acta correspondiente.
+En la fecha señalada se recibirán los trabajos mediante el levantamiento del acta correspondiente.
+
+Tratándose de la ejecución material del proyecto ejecutivo, una vez que se cumpla con lo estipulado en el párrafo primero de este artículo, la Secretaría Ejecutiva procederá a informarlo al Comité.
 
 ###### ARTICULO 92.
 
@@ -1312,3 +1470,17 @@ SEXTO.- La Contraloría del Poder Judicial de la Federación deberá establecer 
 SEPTIMO.- Los procedimientos de adjudicación en la materia objeto del presente Acuerdo que hayan iniciado con anterioridad a su entrada en vigor, se regirán por la normatividad que se venía aplicando, salvo aquellos en que la Comisión de Administración determine lo contrario, salvaguardándose en todo caso los derechos que correspondan.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 75/2000, que fija las bases para que las Adquisiciones, Arrendamientos, Prestación de Servicios y Obra Pública en el Consejo de la Judicatura Federal, se ajusten a los criterios contemplados en el artículo 134 Constitucional, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión extraordinaria de diez de noviembre de dos mil, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas y Sergio Armando Valls Hernández.- México, Distrito Federal, a diez de noviembre de dos mil.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 23 DE JUNIO DE 2004.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Los procedimientos de adjudicación en materia de obra pública y servicios relacionados con la misma, que hayan iniciado con anterioridad a la entrada en vigor del presente Acuerdo, se regirán por la normatividad que se venía aplicando.
+
+CUARTO.- Las áreas operativas y la Dirección General de Asuntos Jurídicos, propondrán al Comité, por conducto del Secretario Ejecutivo, dentro de un plazo máximo de treinta días naturales contados a partir de la entrada en vigor del presente Acuerdo, la actualización de los modelos a que se refiere la fracción IX del artículo 21 de este Acuerdo.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
