@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-municipal-del-estado-de-tabasco-7808"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "1995-12-30"
+last_updated: "1996-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 1995.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 1992.
 
@@ -269,7 +269,7 @@ Sujeto deudor de un Crédito Fiscal, es la persona física o moral que está obl
 
 Si dos o más personas, están obligadas directamente al pago de un mismo Crédito Fiscal, tendrán la calidad de codeudores con responsabilidad solidaria.
 
-Esta regla se observará también en los casos de comunidad o copropiedad de bienes y en aquéllos en que se posea en común un bien determinado, cuando la propiedad o posesión sea la causa generadora del crédito.
+Esta regla se observara también en los casos de comunidad o copropiedad de bienes y en aquéllos en que se posea en común un bien determinado, cuando la propiedad o posesión sea la causa generadora del crédito.
 
 ###### Artículo 26.
 
@@ -719,7 +719,7 @@ Los ayuntamientos o Concejos Municipales podrán mejorar los sistemas de recauda
 
 La base del Impuesto Predial es el Valor Fiscal del Predio.
 
-> <small>(ADICIONADO [ N. DE E. REFORMADO], P.O. 17 DE MARZO DE 1993)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE MARZO DE 1993)</small>
 
 El valor fiscal será el que resulte de multiplicar el valor catastral del predio por el porcentaje fiscal correspondiente a la zona catastral respectiva. El porcentaje fiscal no será inferior al 20%.
 
@@ -1419,71 +1419,69 @@ El pago se deberá efectuar, en la Dirección de Finanzas o Tesorería Municipal
 
 ### CAPITULO IX. DE LAS AUTORIZACIONES PARA LA COLOCACION DE ANUNCIOS Y CARTELES O LA REALIZACION DE PUBLICIDAD
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO P.O. 28 DE DICIEMBRE DE 1996)</small>
 
-###### Artículo 146 Bis.
+###### Artículo 146
 
-Para toda clase de anuncios y carteles o cualquier tipo de publicidad, que realicen empresas dedicadas al arrendamiento de espacios publicitarios en cualquier forma, excepto las que se realicen por medio de televisión, radio, periódicos y revistas, se necesita licencia, permiso o autorización, por los que se pagarán los derechos conforme a la tarifa siguiente:
+Bis.- Para toda clase de anuncios y carteles o cualquier tipo de publicidad, excepto la que se realice por medio de televisión, radio, periódicos y revistas se necesita licencia, permiso o autorización. Asimismo, se pagarán los derechos conforme a la siguiente:
 
-I.- Anuncios:
+TARIFA DE DERECHOS
 
-I.1.- Pintados o adosados a fachadas, muros o marquesinas por M2, por día 0.02 días de salario mínimo general vigente;
+UBICACIÓN TIPO BASE CUOTA
 
-I.2- En azoteas:
+D.S.M.G.V.
 
-A) No luminosos por M2, por día 0.02 días de salario mínimo general vigente;
+I.- MURO O PINTADO
 
-B) Luminosos:
+MARQUESINA O ADOSADO M2. POR DÍA 0.008
 
-I.- Eléctricos por M2, por día 0.02 días de salario mínimo general vigente;
+II.- AZOTEA Y NO LUMINOSOS M.2 POR DIA 0.008
 
-II.- Gas neón por M2, por día 0.02 días de salario mínimo general vigente;
+TERRENOS ELÉCTRICOS M.2 POR DIA 0.008
 
-III.- Fluorescentes por M2, por día 0.02 días de salario mínimo general vigente;
+BALDÍOS NEÓN M.2 POR DIA 0.01
 
-IV.- Electrónicos por M2, por día 0.03 días de salario mínimo general vigente;
+FLUORESCENTE M.2 POR DIA 0.01
 
-I.3.- En terrenos o predios sin edificar:
+ELECTRÓNICO M.2 POR DÍA 0.03
 
-A) No luminosos por M2, por día 0.02 días de salario mínimo general vigente;
+III.- MOVILES NO
 
-B) Luminosos:
+SONOROS M.2 POR DÍA 0.008
 
-I.- Eléctricos por M2, por día 0.02 días de salario mínimo general vigente;
+Y EVENTUALES O
 
-II.- Gas neón por M2, por día 0.02 días de salario mínimo general vigente;
+## TRANSITORIOS
 
-III.- Fluorescentes por M2, por día 0.02 días de salario mínimo general vigente;
+IV.- ALTO PARLANTES
 
-I.4.- Móviles no sonoros (vehículos del servicio público) M2, por día 0.02 días de salario mínimo general vigente;
+O SONOROS, Y FIJOS O MÓVILES POR DÍA 0.02
 
-I.5.- Eventuales y transitorios M2, por día 0.02 días de salario mínimo general vigente;
+EN CINES
 
-II.- Publicidad y carteles:
+V.- CARTELES,
 
-II.1.- En cine por día 0.2 días de salario mínimo general vigente;
+MADERAS, MANTAS, M2. POR DÍA 0.008
 
-II.2.- Autoparlantes o sonoros:
+MANTEADOS DE
 
-A) Fijos por día 0.2 días de salario mínimo general vigente;
+PLÁSTICO
 
-B) Móvil por día 0.2 días de salario mínimo general vigente;
+VOLANTES POR DÍA 0.02
 
-II.3.- En carteles, maderas, mantas, manteados, plásticos, etc. por M2, por día 0.02 días de salario mínimo general vigente;
+En los casos en que la base de la tarifa se refiera a metros cuadrados por día, el pago se hará por las fracciones de metros.
 
-II.4.- Volantes por día 0.2 días de salario mínimo general vigente.
+El pago de los derechos especificados en la tabla anterior, se efectuará en la Dirección de Finanzas o Tesorería Municipal, dentro de los primeros cinco días hábiles de cada mes.
 
-Estos pagos se harán en la Dirección de Finanzas o Tesorería Municipal, dentro de los primeros cinco días hábiles de cada mes.
+Los pagos a que se refiere este artículo serán cubiertos por las personas físicas o morales que utilicen los anuncios o la publicidad, así como las empresas dedicadas al arrendamiento de espacios publicitarios cuyos productos, servicios o actividades sean objeto de anuncios, carteles o publicidad.
 
-Los pagos a que se refiere este artículo serán cubiertos por las empresas dedicadas al arrendamiento de espacios publicitarios cuyos productos, servicios o actividades sean objeto de anuncios, carteles o publicidad.
+Serán responsables solidarios los propietarios de los predios, fincas o construcciones en donde se fijen los anuncios que lleven a cabo la publicidad.
 
-Serán responsables solidarios los propietarios de los predios, fincas o construcciones en donde se fijen los anuncios o carteles en los que se lleve a cabo la publicidad.
-
-También serán responsables solidarios las personas físicas o morales que fijen los anuncios que lleven a cabo la publicidad.
+También serán responsables solidarios las personas físicas o morales que aparezcan en los anuncios, carteles o cualquier tipo de publicidad que sean fijados por terceros.
 
 Si en la fijación de anuncios o en la realización de la publicidad se utiliza la vía pública se deberán cubrir los derechos correspondientes.
 
-Estarán exentos del pago de estos derechos los anuncios o carteles o cualquier otro tipo de publicidad, que realicen las entidades gubernamentales en sus funciones de derecho público; los partidos políticos; las instituciones de asistencia o beneficencia públicas y las de carácter cultural, así como las personas físicas o jurídicas que para su funcionamiento o profesión necesitan identificarse.
+Estarán exentos del pago de estos derechos las entidades gubernamentales en sus funciones de derecho público; los partidos políticos; las instituciones de asistencia o beneficencia pública y las de carácter cultural; así como las personas físicas o morales que para su funcionamiento o profesión necesitan identificarse y requieran de anuncios o carteles que pinten, adosen o adhieran en el inmueble en el que ejercen su actividad.
 
 ## TITULO V. PRODUCTOS
 
@@ -1610,6 +1608,12 @@ P.O. 17 DE MARZO DE 1993.
 UNICO: El presente Decreto surtirá sus efectos legales a partir de su publicación en el Periódico Oficial del Estado.
 
 P.O. 30 DE DICIEMBRE DE 1995.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 28 DE DICIEMBRE DE 1996.
 
 ###### ARTÍCULO ÚNICO.
 
