@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-31731"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1995-11-23"
+last_updated: "1995-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1995.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -3869,17 +3869,29 @@ Son objeto de patrimonio de la familia:
 
 I. La casa habitación de la familia adquirida en propiedad por el jefe de la familia, o por alguno de sus miembros
 
-II. En algunos casos, en una parcela cultivable;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
-III. El mobiliario de uso doméstico;
+II. En el caso de pequeños propietarios, una parcela cultivable;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+III. El mobiliario de uso doméstico, indispensable para la convivencia familiar y que no tenga la característica de suntuoso;
 
 IV. Tratándose de familias campesinas, el equipo agrícola, considerándose como tal, los semovientes, las semillas, los útiles, implementos y aperos de labranza; y
 
 V. Tratándose de familias obreras o trabajadores en general, el equipo de trabajo, considerándose como tal, a la maquinaria, los útiles, las herramientas y en general toda clase de utensilios propios para el ejercicio del arte, oficio o actividad a que la familia se dedique.
 
-###### ARTÍCULO 705.
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
-La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente.
+VI. Los lotes destinados a la construcción de casa habitación y los derechos derivados del acto jurídico que transmita la propiedad sobre el terreno objeto de este fin, siempre que la familia no cuente con casa habitación o contando con ella, ésta no sea acorde con las necesidades o circunstancias particulares de la familia y no rebase el máximo fijado por el artículo 711.
+
+El valor catastral de dichos lotes, al ser incluidos en el patrimonio, deberán ajustarse al máximo legal señalado por el precepto antes indicado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 705.
+
+La formación del patrimonio familiar se podrá efectuar de forma independiente a los demás bienes de quien lo constituya, o de los bienes del cónyuge, los hijos que no sean mayores de edad, familiares que dependan económicamente de aquéllos o estén bajo su custodia, tutela o curatela, así como de las capitulaciones matrimoniales a que se refieren los Capítulos IV y V del Título Sexto, Libro Primero, de este Código.
 
 ###### ARTÍCULO 706.
 
@@ -3891,21 +3903,27 @@ Los beneficiarios de los bienes afectos al patrimonio de la familia serán repre
 
 El representante tendrá también la administración de dichos bienes.
 
-###### ARTÍCULO 708.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
-Los bienes afectos al patrimonio de la familia son inalienables y no estarán sujetos a embargo ni a gravamen, salvo cuando por resolución judicial se deba suministrar alimentos, en este único caso puede embargarse hasta el cincuenta por ciento de los frutos del patrimonio.
+###### ARTICULO 708.
+
+Los bienes afectos al patrimonio de la familia son inalienables y no estarán sujetos a embargo ni a gravamen, salvo en caso de interés público o cuando por resolución judicial y en porcentaje que en ésta se señale, que nunca será superior al sesenta por ciento, se deba suministrar alimentos.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 709.
 
-Sólo puede constituirse el patrimonio de la familia con bienes sitos en el Municipio en que esté domiciliado el que lo constituya.
+Se podrá constituir el patrimonio de la familia con bienes sitos en Municipios connurbados o colindantes, escogiendo como domicilio de constitución aquél en el que se ubique la casa habitación.
 
 ###### ARTÍCULO 710.
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 711.
 
-El valor máximo de los bienes afectos al patrimonio de familia será de cinco mil días de salario mínimo general en la zona de que se trate.
+El valor máximo de los bienes afectos al patrimonio de familia será la cantidad que resulte de multiplicar cincuenta veces el salario mínimo general diario en la zona económica de que se trate, elevado al año.
 
 ###### ARTÍCULO 712.
 
@@ -3927,7 +3945,9 @@ Además, comprobará lo siguiente:
 
 I. Que es mayor de edad o que esta emancipado;
 
-II. Que está domiciliado en el lugar donde quiere constituir el patrimonio;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+II. Que está domiciliado en el lugar donde quiere constituir el patrimonio, o que en razón de la connurbación a que se refiere el artículo 709 es posible hacer el correspondiente trámite;
 
 III. La existencia de la familia a cuyo favor se va a constituir el patrimonio. La comprobación de los vínculos familiares se hará con las copias certificadas de las actas del Registro Civil;
 
@@ -3935,9 +3955,11 @@ IV. Que son propiedad del constituyente los bienes destinados al patrimonio y qu
 
 V. Que el valor de los bienes que van a constituir el patrimonio no exceda del fijado en el artículo 711.- Este valor se comprobará por certificación de la Dirección de Catastro, por factura de casa comercial o a juicio de peritos.
 
-###### ARTÍCULO 714.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
-Si se llenan las condiciones exigidas en el artículo anterior, el juez, previos los trámites que fije el código de la materia, aprobará la constitución del patrimonio de la familia y mandará que se hagan las inscripciones correspondientes en el Registro Público.
+###### ARTICULO 714.
+
+Si se llenan las condiciones exigidas en el artículo anterior, el juez, previos los trámites que fije el código de la materia, aprobará la constitución del patrimonio de la familia y mandará que se hagan las inscripciones correspondientes en el Registro Público, así como la publicación, a cargo de quien lo constituya, por una sola vez y en los dos periódicos locales de mayor circulación, del aviso de la aprobación de la constitución referida.
 
 ###### ARTICULO 715.
 
@@ -3951,9 +3973,11 @@ Cuando haya peligro de que quien tiene obligación de dar alimentos pierda sus b
 
 La constitución del patrimonio de la familia no puede hacerse en fraude de los derechos de los acreedores.
 
-###### ARTÍCULO 718.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
-Constituido el patrimonio de la familia, ésta tiene obligación de habitar la casa y de cultivar la parcela. La primera autoridad municipal del lugar en que esté constituido el patrimonio puede, por justa causa, autorizar para que se dé en arrendamiento o aparecería, hasta por un año.
+###### ARTICULO 718.
+
+Constituido el patrimonio de la familia, ésta tiene obligación de habitar la casa y de cultivar la parcela. El juez de primera instancia que corresponda puede, por justa causa, autorizar para que se dé en arrendamiento o aparcería, hasta por dos años.
 
 ###### ARTÍCULO 719.
 
@@ -3961,17 +3985,25 @@ El patrimonio de la familia se extingue:
 
 I. Cuando todos los beneficiarios cesen de tener derecho de percibir alimentos;
 
-II. Cuando sin causa justificada la familia deje de habitar por un año la casa que debe servirle de morada, o de cultivar por su cuenta y por dos años consecutivos la parcela que le esté anexa;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+II. Cuando sin causa justificada la familia deje de habitar por dos años la casa que debe servirle de morada o de cultivar por su cuenta y por dos años consecutivos la parcela que le esté anexa;
 
 III. Cuando se demuestre que hay gran necesidad o notoria utilidad para la familia, de que el patrimonio quede extinguido; y
 
 IV. Cuando por causa de utilidad publica se expropien los bienes que lo forman.
 
-###### ARTÍCULO 720.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
-La declaración de que queda extinguido el patrimonio lo hará el juez competente, mediante el procedimiento fijado en el código respectivo, y la comunicará al Registro Público para que se hagan las cancelaciones correspondientes.
+###### ARTICULO 720.
 
-Cuando el patrimonio se extinga por la causa prevista en la fracción IV del artículo que precede, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial, debiendo hacerse en el Registro la cancelación que proceda.
+La declaración de que queda extinguido el patrimonio lo hará el juez competente mediante el procedimiento fijado en el código respectivo, y la comunicará al Registro Público para que se hagan las cancelaciones correspondientes.
+
+Cuando el patrimonio se extinga por la causa prevista en la fracción IV del artículo que precede hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial, debiendo hacerse en el Registro la cancelación que proceda.
+
+La declaratoria de disolución del vínculo matrimonial y terminación de la sociedad conyugal, no implica por sí misma la extinción del patrimonio de familia.
+
+Previamente a cualquier declaratoria de divorcio el juez de la causa debe cerciorarse si existe o no constituido el patrimonio de familia, dando cuenta de ello el Ministerio Público.
 
 ###### ARTÍCULO 721.
 
@@ -3999,9 +4031,11 @@ El Ministerio Público será oído en la extinción y en la reducción del patri
 
 Extinguido el patrimonio de la familia, los bienes que lo formaban vuelven al pleno dominio del que lo constituyó, o pasan a sus herederos si aquel ha muerto.
 
-###### ARTÍCULO 725.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
-Las certificaciones de autoridades administrativas, así como las anotaciones y el registro que haga la oficina del Registro Público con motivo de la constitución del patrimonio de la familia, serán hechas sin costo alguno para el interesado.
+###### ARTICULO 725.
+
+Las certificaciones de autoridades administrativas, así como las anotaciones y el registro que haga la oficina del Registro Público con motivo de la constitución, incremento, disminución o extinción del patrimonio de la familia, serán hechas sin costo alguno para el interesado.
 
 # LIBRO SEGUNDO. DE LOS BIENES
 
@@ -15096,3 +15130,13 @@ La presente Ley se publicará en el Periódico Oficial "La Sombra de Arteaga", y
 ###### ARTICULO TERCERO.
 
 Las disposiciones jurídicas que se opongan a la presente quedan derogadas mientras dura la vigencia de ésta, a cuyo término recobrarán aquellas su pleno vigor.
+
+P.O. 28 DE DICIEMBRE DE 1995
+
+PRIMERO. Los patrimonios constituidos conforme a las reglas de este Código, con anterioridad a la presente reforma subsisten en todas sus partes.
+
+SEGUNDO. Los procedimientos iniciados para constituir el patrimonio familiar, con anterioridad al presente decreto, se continuarán conforme a las reglas anteriores del Código Civil.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones legales y reglamentarias que se opongan a la presente.
+
+CUARTO. La presente Ley iniciará su vigencia el día 1° de enero de 1996.
