@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-empleados-del-gobierno-del-estado-698
 country: "mx"
 rank: "ley"
 publication_date: "1958-06-07"
-last_updated: "1985-08-17"
+last_updated: "1998-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1998.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el sábado 7 de junio de 1958.
 
@@ -63,9 +63,11 @@ Para los efectos de esta Ley no habrá distinción entre trabajadores de confian
 
 Pensión es una prestación periódica en efectivo que se adquiere en los términos de la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 5°.
 
-El patrimonio de la Oficina de Pensiones, que se denominará Fondo de Pensiones y con el que se cubrirán las prestaciones y demás beneficios derivados de esta Ley, se constituirá con:
+El patrimonio de la oficina de pensiones, que se denominará Fondo de Pensiones y con el que se cubrirán las prestaciones y demás beneficios derivados de esta Ley, se constituirá con:
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 1985)</small>
 
@@ -81,9 +83,13 @@ IV.- Los intereses, rentas, plusvalías y demás utilidades que se obtengan con 
 
 V.- El importe de los descuentos, intereses y pensiones que caduquen o prescriban a favor del Fondo de Pensiones.
 
-VI.- Las donaciones, herencias, legados y cualesquiera otras aportaciones de carácter civil o mercantil, que se hagan en favor de la Oficina de Pensiones y
+VI.- Las donaciones, herencias, legados y cualesquiera otras aportaciones de carácter civil o mercantil, que se hagan en favor de la Oficina de Pensiones y (sic)
 
 VII.- Todos los bienes muebles e inmuebles que adquiera la Oficina de Pensiones, así como el producto de los mismos, en su caso.
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 1998)</small>
+
+VIII.- Con el importe de las rentas a que se refiere la Fracción V del artículo 89 de este ordenamiento.
 
 ###### ARTICULO 6°.
 
@@ -705,11 +711,11 @@ Las operaciones hipotecarias autorizadas por esta Ley no causarán impuestos del
 
 INVERSIONES DEL FONDO DE PENSIONES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 1963)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 89.
 
-La Oficina de Pensiones podrá invertir los sobrantes del Fondo de Pensiones, en las siguientes operaciones:
+La Oficina de Pensiones podrá invertir los sobrantes del Fondo de Pensiones en las siguientes operaciones:
 
 I.- En compra y urbanización de terrenos, con la mira de formar colonias para los trabajadores contribuyentes a la formación y sostenimiento del Fondo de Pensiones. En las ventas de estos terrenos los trabajadores gozarán de un descuento de diez por ciento en relación con las operaciones que se hagan al contado con particulares. La Oficina de Pensiones queda obligada a formar e incrementar las reservas de seguridad para urbanización de terrenos, con la diferencia entre el valor de los terrenos mas gastos de urbanización, y el valor que parcialmente se asigne a los mismos, una vez urbanizados.
 
@@ -729,7 +735,13 @@ e).- Serán preferidos para la adquisición de casas, los empleados y pensionist
 
 III.- En construcción de granjas que tengan por objeto incrementar los ingresos familiares de los trabajadores a que se refiere esta Ley. La venta de esas granjas se hará en los mismos términos y con las mismas facilidades que las casas y terrenos propiedad de la Institución.
 
-IV.- En bonos hipotecarios destinados a financiar el problema de la habitación de los trabajadores a que se refiere esta Ley; en bonos del Ahorro Nacional; en títulos de crédito u obligaciones emitidas o garantizadas por Instituciones de Crédito; en acciones u obligaciones de compañías mexicanas que no sean mineras, petroleras o que funden sus utilidades en circunstancias imprevistas o de azar.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+IV.- En instrumentos de inversión financiera de plazo y tasa fijos, tales como los operados en sociedades de inversión, bonos, pagarés, notas, certificados, papel comercial, aceptaciones bancarias y otros similares emitidos por el Gobierno Federal, Instituciones de Crédito y Organismos Auxiliares, Sociedades Nacionales de Crédito, Empresas y Casas de Bolsa; títulos de crédito u obligaciones emitidas o garantizadas por Instituciones de Crédito y Sociedades Nacionales de Crédito; en obligaciones de compañías mexicanas o extranjeras, que sean operadas legalmente por agentes autorizados por la Comisión Nacional Bancaria y de Valores y que concurran al mercado de valores pero que no funde sus utilidades en circunstancias imprevistas del azar o sean motivo de especulación bursátil. Las inversiones a que se refiere este artículo se harán en las mejores condiciones de seguridad, rendimiento y liquidez; pudiendo, para su instrumentación, utilizar figuras legales de carácter fiduciario como contratos de fideicomiso o mandato.
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 1998)</small>
+
+V.- En la adquisición y adaptación de inmuebles para ser rentados a Entidades Públicas.
 
 Las inversiones a que se refiere este artículo se harán dentro del plan anual que acuerde el Consejo Directivo. Para las inversiones que no sean en inmuebles, se hará necesario además, la autorización del Ejecutivo del Estado.
 
@@ -1024,3 +1036,9 @@ Este decreto entrará en vigor el día de su publicación en el Periódico Ofici
 P.O. 17 DE AGOSTO DE 1985.
 
 UNICO.- Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado, con efectos retroactivos a partir del día uno de abril próximo.
+
+P.O. 17 DE ENERO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
