@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1999-10-29"
+last_updated: "2000-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2000.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -191,9 +191,9 @@ En los juicios del orden civil, la sentencia definitiva deberá ser conforme a l
 
 A nadie se afectará en su persona, familia, domicilio, papeles o posesiones, sino por mandamiento escrito de la autoridad competente que funde y motive la causa legal del procedimiento.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
-No podrá librarse orden de aprehensión o detención excepto por la autoridad judicial y sin que preceda denuncia, acusación o querella de un hecho determinado que, la ley señale como delito sancionado cuando menos con pena privativa de libertad, y existan datos que acrediten los elementos que integran el tipo penal y la probable responsabilidad del indiciado.
+No podrá librarse orden de aprehensión o detención excepto por la autoridad judicial y sin que preceda denuncia, acusación o querella de un hecho determinado que la ley señale como delito sancionado cuando menos con pena privativa de libertad, y existan datos que acrediten el cuerpo del delito y que hagan probable la responsabilidad del indiciado.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -231,11 +231,11 @@ Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. E
 
 El Gobierno del Estado organizará el sistema penal sobre la base del trabajo, la capacitación para el mismo y la educación, como medios para la readaptación social del delincuente. Las mujeres compurgarán sus penas en lugares separados de los destinados a los varones para tal efecto. Asimismo, establecerá instituciones especiales para el tratamiento de menores infractores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 27.
 
-En ningún caso, una detención ante autoridad judicial podrá exceder del término de setenta y dos horas, computadas a partir de que el indiciado sea puesto a su disposición, sin justificar su prolongación mediante auto de formal prisión y siempre que en lo actuado aparezcan datos suficientes que acrediten los elementos del tipo penal del delito que se impute al detenido y hagan probable la responsabilidad de éste. La prolongación de la detención en perjuicio del inculpado será sancionada por la ley penal.
+En ningún caso, una detención ante autoridad judicial podrá exceder del término de setenta y dos horas, computadas a partir de que el indiciado sea puesto a su disposición, sin justificar su prolongación mediante auto de formal prisión y siempre que en lo actuado aparezcan datos suficientes que acrediten el cuerpo del delito y hagan probable la responsabilidad del indiciado. La prolongación de la detención en perjuicio del inculpado será sancionada por la ley penal.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -673,11 +673,11 @@ Los diputados que incumplan con las obligaciones contenidas en las fracciones II
 
 #### SECCION SEGUNDA. De las Sesiones
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 61.
 
-La Legislatura tendrá durante el año dos períodos ordinarios de sesiones que comenzarán, el primero, el 26 de marzo y el segundo, el 8 de octubre. El primero no podrá prolongarse sino hasta el 26 de mayo y el segundo hasta el 15 de diciembre, del mismo año.
+La Legislatura tendrá durante el año dos períodos ordinarios de sesiones que comenzarán, el primero, el 26 de marzo y el segundo, el 20 de septiembre. El primero no podrá prolongarse sino hasta el 26 de junio y el segundo hasta el 15 de diciembre, del mismo año.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
 
@@ -889,9 +889,13 @@ XLIV.- Legislar sobre la protección, conservación y restauración del patrimon
 
 XLV.- Designar, mediante el procedimiento que la ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley;
 
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1999)</small>
+(REFORMA, P.O. 6 DE MARZO DE 2000)
 
-XLVI.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
+XLVI.- Expedir leyes encaminadas a combatir el alcoholismo.
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2000)</small>
+
+XLVII.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
 
 #### SECCION QUINTA. De la Diputación Permanente
 
@@ -2380,3 +2384,7 @@ SEGUNDO.- Los actuales integrantes del Consejo Consultivo y la Titular de la Com
 TERCERO.- En tanto la Legislatura en funciones expide las reformas al Decreto por el que se crea la Comisión de Derechos Humanos del Estado de Quintana Roo, ésta ejercerá sus atribuciones y competencias conforme a lo dispuesto por el presente Decreto y la ley reglamentaria vigente hasta dicha expedición.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE MARZO DE 2000.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
