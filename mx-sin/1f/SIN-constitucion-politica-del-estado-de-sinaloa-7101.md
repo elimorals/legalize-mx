@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1930-11-08"
+last_updated: "1933-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 1930.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 1933.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -1195,9 +1195,11 @@ Constituyen el patrimonio de la familia: la casa propiedad de un matrimonio leg�
 
 En el Estado no podrá expedirse ley o disposición alguna que limite la libertad de los herederos, legatarios y demás partícipes en una sucesión, para disponer a discreción de sus derechos en cualquier tiempo y en toda forma, ni que los obligue a mantener sus bienes en estado de comunidad, por más del término necesario para concluir el juicio sucesorio respectivo.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1933)</small>
+
 ###### Art. 154.
 
-Para los efectos de la Ley de Expropiación, en el Estado, podrá éste y los Municipios, en sus respectivas jurisdicciones, ocupar la propiedad privada por causa de utilidad pública, previa indemnización, en los siguientes casos:
+Para los efectos de la Ley de Expropiación, en el Estado, podrán éste y los Municipios, en sus respectivas jurisdicciones, ocupar la propiedad privada por causa de utilidad pública, MEDIANTE INDEMNIZACION, en los siguientes casos:
 
 I. Para la construcción y conservación de los caminos carreteros y vecinales y sus obras accesorias.
 
@@ -1213,7 +1215,7 @@ VI. Para la creación y fomento de la propiedad agrícola parcelaria.
 
 VII. Para la fundación de colonias y pueblos.
 
-VIII. Para el fraccionamiento de los terrenos comuneros y su adjudicación en lotes, cuando no habiendo podido reducirse a propiedad individual, por cualquier motivo, tengan más de diez años sin haberse constituido sus dueños en sociedad.
+VIII. Para el fraccionamiento de los terrenos comuneres (sic) y su adjudicación en lotes, cuando no habiendo podido reducirse a propiedad individual, por cualquier motivo, tengan más de diez años sin haberse constituido sus dueños en sociedad.
 
 IX. Para la creación de la propiedad comunal, para pástales en tierras que no sean de cultivo.
 
@@ -1228,8 +1230,6 @@ XIII. Para la fundación, ensanche, rectificación, saneamiento y urbanización 
 XIV. Para la apertura de calles y jardines y para la construcción de escuelas, mercados, hospitales, cárceles, rastros y demás establecimientos del servicio público urbano.
 
 XV. Para la construcción de parques y erección de monumentos en los sitios en que se hayan verificado célebres hechos históricos.
-
-XVI. Para la conservación de las ruinas e inscripciones históricas.
 
 La Ley relativa precisará todas las condiciones de detalle en la materia.
 
@@ -1328,5 +1328,9 @@ P.O. 31 DE MAYO DE 1930.
 2o.- Los Diputados electos por las nuevas circunscripciones o Distritos Electorales durarán en su ejercicio, por esta sola vez, dos años; en el concepto que tan luego como queden incorporadas a la Constitución estas reformas, se votará la ley que marque los nuevos Distritos Electorales.
 
 P.O. 8 DE NOVIEMBRE DE 1930.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SINALOA.
+
+P.O. 27 DE ABRIL DE 1933.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SINALOA.
