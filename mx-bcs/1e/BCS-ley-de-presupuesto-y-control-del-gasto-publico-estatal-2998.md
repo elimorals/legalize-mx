@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-presupuesto-y-control-del-gasto-publico-estatal-2998"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "1986-12-20"
+last_updated: "1987-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PRESUPUESTO Y CONTROL DEL GASTO PUBLICO ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE NOVIEMBRE DE 1987.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 20 de febrero de 1984.
 
@@ -67,7 +67,9 @@ VII. SECRETARIA DE DESARROLLO
 
 VIII. SECRETARIA DE ASENTAMIENTOS HUMANOS Y OBRAS PUBLICAS
 
-IX. SECRETARIA DE SALUD
+> <small>(REFORMADA, B.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+IX. SECRETARIA DE BIENESTAR SOCIAL
 
 X. PROCURADURIA GENERAL DE JUSTICIA
 
@@ -398,3 +400,9 @@ B.O. 20 DE DICIEMBRE DE 1986.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE NOVIEMBRE DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
