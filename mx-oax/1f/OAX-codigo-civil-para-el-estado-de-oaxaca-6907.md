@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1971-07-17"
+last_updated: "1979-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 1971
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1979.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -10851,9 +10851,11 @@ El juez de primera instancia respectivo y los de lo civil en la capital del Esta
 
 El juez deberá cerciorarse de la identidad de los contratantes, exigiendo, en caso necesario, la comparecencia y examen de testigos de identificación; y advertirá a las partes de la obligación que tienen de cumplir con las obligaciones fiscales y de presentar los documentos para su inscripción en el Registro Público.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE JULIO DE 1979)</small>
+
 ###### Artículo 2196.
 
-Si el valor del inmueble excede de mil pesos, su venta se hará en escritura pública.
+Si el valor del inmueble excede de mil pesos, su venta se hará en escritura pública, excepción hecha de aquellas operaciones de compraventa que celebren los Organismos Públicos Federales o Estatales, tendientes a regularizar la tenencia de la tierra, las que requerirán para su validez, cualquiera que sea el monto, solamente las firmas de las partes y de los testigos y sin que dichas operaciones se eleven a escritura pública.
 
 ###### Artículo 2197.
 
@@ -14654,3 +14656,9 @@ UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publ
 P.O. 17 DE JULIO DE 1971.
 
 Unico.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE JULIO DE 1979.
+
+PRIMERO.- Se derogan las disposiciones legales que se opongan al presente.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
