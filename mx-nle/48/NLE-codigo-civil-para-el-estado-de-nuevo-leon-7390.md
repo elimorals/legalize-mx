@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1982-01-01"
+last_updated: "1982-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 1982.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -349,7 +349,7 @@ Los testigos que intervengan en las actas del Registro Civil deberán ser cuando
 
 ###### Art. 51.
 
-La nulidad del hecho o acto inscrito y la falsedad de las actas del Registro Civil, sólo podrán probarse judicialmente.
+La nulidad del hecho o acto inscrito y la falsedad de las actas del Registro Civil, sólo podrán probarse jusicialmente.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -965,7 +965,7 @@ La modificación tendrá lugar cuando se solicite variar algún nombre, apellido
 
 ###### Art. 136.
 
-La cancelación, la rectificación o la modificación de una acta del estad (sic) civil, pueden pedirla:
+La cancelación, la rectificación o la modificación de un acta del estad (sic) civil, pueden pedirla:
 
 I.- Las personas de cuyo estado se trata;
 
@@ -7335,7 +7335,7 @@ Testamento público abierto, es el que se otorga ante notario y tres testigos id
 
 ###### Art. 1409.
 
-El testador expresará de un modo claro y terminante su voluntad al notario y a los testigos. El notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+El testador expresara de un modo claro y terminante su voluntad al notario y a los testigos. El notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
 
 ###### Art. 1410.
 
@@ -11185,11 +11185,13 @@ Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su r
 
 De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1982)</small>
 
 ###### Art. 2214.
 
-Si el valor del inmueble excede de $50.00000 (CINCUENTA MIL PESOS 00/100 M.N.), se hará en escritura pública.
+Si el valor del inmueble excede de $50,000.00 (cincuenta mil pesos 00/100 M.N.), se hará en Escritura Publica.
+
+No quedan comprendidos en lo anterior, los contratos traslativos de dominio, los de garantía y los de constitución de régimen de propiedad en condominio que se celebren con el Instituto de Fondo Nacional de la Vivienda para los Trabajadores, o por sus derechohabientes; así como los celebrados con los Organismos Públicos que tengan por objeto la regularización de la tenencia de la tierra o el otorgamiento de viviendas de interés social; los que podrán hacerse constar en documento privado otorgado ante dos testigos, cuya autenticidad de las firmas y voluntad de las partes se hará ante el propio Registrador Público de la Propiedad, al inscribirse los contratos correspondientes.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1975)</small>
 
@@ -14617,7 +14619,11 @@ XV.- Las escrituras que contengan la constitución del régimen de condominio y 
 
 XVI.- Los documentos en que se establezca propiedad pública cuyos titulares podrán ser el Estado, los municipios, organismos descentralizados creados por el Estado u organizados con base en ordenamientos jurídicos en vigor;
 
-XVII.- Los demás títulos que la Ley ordene expresamente sean registrados.
+XVII.- Los demás títulos que la Ley ordene expresamente sean registrados;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 1982)</small>
+
+XVIII.- Los contratos, operaciones, y la constitución del Régimen de propiedad en condominio de los conjuntos habitacionales que financíe el Instituto del Fondo Nacional de la Vivienda para los Trabajadores así como las operaciones de los trabajadores derechohabientes del Instituto, y los demás contratos traslativos de dominio celebrados con los organismos públicos o que tengan por objetivo la regularización de tenencia de la tierra; en los términos y condiciones establecidos por el artículo 2214 de este Código.
 
 ###### Art. 2895.
 
@@ -14669,7 +14675,11 @@ I.- Los testimonios de escritura pública u otros documentos auténticos;
 
 II.- Las sentencias y providencias judiciales certificadas legalmente;
 
-III.- Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que en su caso esté ratificado el contrato y reconocidas las firmas de las partes ante Notario Público, y de que estos hechos estén autorizados con la firma del funcionario público y el sello respectivo.
+III.- Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que en su caso esté ratificado el contrato y reconocidas las firmas de las partes ante Notario Público, y de que estos hechos estén autorizados con la firma del funcionario público y el sello respectivo;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 1982)</small>
+
+IV.- Los documentos privados en que consten las operaciones celebradas por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores o por sus derechohabientes; así como también los contratos traslativos de dominio, los de garantía y los que constituyan el régimen de propiedad en condominio celebrados con los Organismos Públicos destinados a la regularización de la tenencia de la tierra, o al otorgamiento de viviendas de interés social en los términos y con las condiciones previstas en el artículo 2214 de este Código.
 
 ###### Art. 2904.
 
@@ -15042,3 +15052,7 @@ P.O. 1 DE ENERO DE 1982.
 ###### ARTICULO SEGUNDO
 
 - Se derogan todas las disposiciones que se opongan a la propia reforma.
+
+P.O. 23 DE JUNIO DE 1982.
+
+UNICO:- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
