@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "2001-02-02"
+last_updated: "2003-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 02 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2003.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -1651,13 +1651,13 @@ Si el acreedor no comparece en el día, hora y lugar designados, o no envía pro
 
 Si la cosa debida fuese cosa cierta y determinada que debiera ser consignada en el lugar en donde se encuentra y el acreedor no la retirara ni la transportara, el deudor puede obtener del juez la autorización para depositarla en otro lugar.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1954)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 228.
 
-Cuando el acreedor no haya estado presente en la oferta y depósito debe ser notificado a (sic) esas diligencias entregándole copia simple de ellas.
+Cuando el acreedor no haya estado presente en la oferta y depósito debe ser notificado de esas diligencias entregándole copia simple de ellas.
 
-Tratándose de consignación de dinero en pago de rentas de fincas destinadas para habitación, el deudor deberá acompañar copia de su escrito para corrérsele traslado al acreedor, a fin de que en el término de tres días exprese lo que su derecho convenga: Si no lo hace, el Juez, sin más trámite, aprobará la consignación declarando extinguida la obligación hasta por el monto de la cantidad consignada, pero si dentro del término fijado comparece oponiéndose a la consignación el Juez citará a una audiencia que se fijará para el tercer día hábil siguiente en la que oyendo a las partes dictará sentencia.
+Tratándose de consignación de dinero en pago de rentas de fincas destinadas para habitación, comercio o industria, el deudor deberá acompañar copia de su escrito para corrérsele traslado al acreedor, a fin de que en el término de tres días exprese lo que a su derecho convenga. Si no lo hace, el Juez, sin más trámite, aprobará la consignación declarando extinguida la obligación hasta por el monto de la cantidad consignada, pero si dentro del término fijado comparece oponiéndose a la consignación, el Juez citará a una audiencia que se fijará para el tercer día hábil siguiente en la que oyendo a la (sic) partes dictará sentencia.
 
 ###### Artículo 229.
 
@@ -7098,3 +7098,7 @@ No obstante, si en las adopciones que actualmente se tramitan hubiere la volunta
 ###### ARTÍCULO CUARTO.
 
 Las adopciones realizadas con anterioridad a la entrada en vigor del presente Decreto podrán convertirse a plenas, de acuerdo con los requisitos y procedimientos establecidos por este Decreto.
+
+P.O. 13 DE AGOSTO DE 2003.
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
