@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1938-03-31"
+last_updated: "1954-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL Y TERRITORIOS FEDERALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MARZO DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ENERO DE 1954.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -1098,7 +1098,7 @@ XIII.- Cuando el funcionario de que se trate, su cónyuge o alguno de sus expres
 
 XIV.- Si él, su cónyuge o alguno de sus expresados parientes, sigue algún proceso civil o criminal en que sea juez, agente del Ministerio Público, árbitro o arbitrador, alguno de los litigantes;
 
-XV.- Si es tutor o curador de alguno de los interesados, o no han pasado tres años de haberlo sido.
+XV. Si es tutor o curador de alguno de los interesados, o no han pasado tres años de haberlo sido.
 
 ARTICULO 171
 
@@ -1304,33 +1304,45 @@ Si es instrumento público o privado reconocido y contiene cantidad ilíquida, p
 
 La liquidación se hace sumariamente con un escrito de cada parte y la resolución del juez sin ulterior recurso más que el de responsabilidad.
 
-### CAPITULO III. Del depósito de personas como acto prejudicial
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 9 DE ENERO DE 1954)</small>
+
+### CAPITULO III. Separación o depósito de personas como actos prejudiciales
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
 
 ARTICULO 205
 
-La mujer casada que viviendo al lado del marido intente demandarlo o acusarlo puede pedir su depósito.
+La mujer casada que viviendo al lado de su marido, intente demandarlo o acusarlo, puede pedir su separación o su propio depósito.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
 
 ARTICULO 206
 
-El marido que viviendo con su mujer intente demandarla o acusarla, debe pedir previamente su depósito.
+El marido que viviendo con su mujer intente demandarla o acusarla, puede pedir previamente la separación.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
 
 ARTICULO 207
 
-Sólo los jueces de primera instancia pueden decretar los depósitos de que hablan los artículos anteriores a no ser que, por circunstancias especiales, no pueda ocurrirse al juez competente, pues entonces el juez del lugar donde la cónyuge se encuentre, podrá decretar el depósito provisionalmente remitiendo las diligencias al competente y poniendo la persona a su disposición.
+Sólo los Jueces de Primera Instancia pueden decretar la separación o el depósito de que hablan los artículos anteriores, a no ser que por circunstancias especiales no pueda ocurrirse al juez competente, pues entonces el juez del lugar podrá decretar la separación o el depósito provisionalmente, remitiendo las diligencias al competente.
 
 ARTICULO 208
 
 La solicitud de la mujer puede ser escrita o verbal. Si la urgencia del caso lo amerita, el juez debe proceder con toda rapidez.
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+
 ARTICULO 209
 
-Presentada la solicitud se trasladará el juez a la casa del marido y, sin que se halle éste presente, hará comparecer a la mujer para que manifieste si ratifica o no el escrito en que hubiere pedido el depósito si por escrito se hubiere solicitado. Hecha la ratificación, el juez designará desde luego la persona que haya de encargarse del depósito y dispondrá que en el acto se entreguen a la mujer la cama y toda su ropa.
+Presentada la solicitud se trasladará el juez al domicilio conyugal y, sin que se halle presente el marido hará comparecer a la mujer para que manifieste si ratifica o no el escrito presentado. Hecha la ratificación el juez dictará las siguientes disposiciones: 1o.- Separar a los cónyuges; 2o.- Señalar el domicilio de la mujer en su caso; 3o.- Designar desde luego la persona que haya de encargarse del depósito si así procediere.
 
-Si hubiere cuestión sobre cuáles ropas deben entregarse, el juez sin ulterior recurso y teniendo en cuenta las circunstancias de las personas, determinará las que haya de llevar la interesada.
+Asimismo, atentas las circunstancias del caso, podrá limitarse a disponer la permanencia de la mujer en la casa conyugal si en ello estuviere de acuerdo el marido, previniendo a éste para que se abstenga de concurrir a la misma. El juez podrá, sin embargo, dictar otras disposiciones que estime pertinentes atendiendo a las circunstancias del caso, o variar las disposiciones decretadas, en virtud de causa justa o por acuerdo de los cónyuges ratificada en la presencia judicial.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
 
 ARTICULO 210
 
-Practicado todo lo que queda prevenido en los artículos anteriores, el juez personalmente extraerá a la mujer de la casa del marido y la llevará a casa del depositario.
+Practicado todo lo que queda prevenido en los artículos anteriores, el juez, personalmente, trasladará a la mujer y la llevará al domicilio que se hubiere designado o a la casa del depositario.
 
 ARTICULO 211
 
@@ -1338,19 +1350,25 @@ En el mismo acto de la diligencia intimará el juez al marido que no moleste a s
 
 Independientemente de lo anterior, el juez puede dictar las medidas que estime prudentes a efecto de evitar las molestias contra la mujer y depositario.
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+
 ARTICULO 212
 
-La casa donde se deposite a la mujer casada será en todo caso designada por el juez y debe de ser el depositario persona de notoria honorabilidad y buenas costumbres.
+En caso de depósito, la casa en donde se deposite a la mujer casada, será designada por ésta y el depositario que proponga deberá ser persona de notoria honorabilidad y buenas costumbres, todo a juicio del juez.
 
 ARTICULO 213
 
 Si los consortes tuvieren hijos, menores de edad, se pondrán éstos al cuidado de la persona que de común acuerdo hubieren designado. En defecto de ese acuerdo el juez resolverá provisionalmente debiendo en todo caso quedar al cuidado de la madre los hijos menores de siete años.
 
-Cualquiera reclamación de los consortes sobre el depósito de los hijos se substanciará y decidirá sumariamente sin ulterior recurso.
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+
+Cualquier reclamación de los consortes sobre el depósito de los hijos, se substanciará en los términos del artículo 432 de este Código, sin ulterior recurso.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
 
 ARTICULO 214
 
-Al día siguiente de constituído el depósito, mandará el juez intimar al marido o a la mujer en su caso, apercibiéndolos de que si dentro de diez días no acreditan haber intentado la demanda o la acusación, se levantará el depósito y será restituída la mujer a la casa de su marido.
+Al día siguiente de constituído el depósito o la separación, mandará el juez intimar al marido, o a la mujer en su caso, apercibiéndolos de que si, dentro de diez días no acreditan haber intentado la demanda o la acusación, se levantará el depósito o la separación y será restituída la mujer al domicilio conyugal.
 
 Esta providencia se notificará en forma legal a la mujer y al marido.
 
@@ -1362,13 +1380,17 @@ ARTICULO 216
 
 El término señalado para la duración del depósito podrá prorrogarse si se acreditare que por causa no imputable a la mujer, cuando ésta lo solicitó, ha sido imposible intentar la acción contra el marido.
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+
 ARTICULO 217
 
-Las pretenciones que puedan formularse por la mujer, por el marido o por el depositario sobre variación del depósito, o cualesquiera otros incidentes a que éste pueda dar lugar se substanciarán sumariamente.
+Las pretensiones que puedan formularse por la mujer, por el marido o por el depositario sobre variación del depósito o cualesquiera otros incidentes a que éste pueda dar lugar, serán resueltos por el juez, el que podrá: citar a las partes en cualquier tiempo, ya sea conjunta o separadamente; variar sus determinaciones, a petición de parte, si las circunstancias lo ameritan, bajo su responsabilidad y sin substanciación especial; y, resolverá con carácter provisional, lo que proceda respecto a entrega de ropa u otros objetos, subsistencias de la mujer y de los menores y lo demás que juzgue oportuno. Podrá también dictar las medidas que se requieran para que no se causen molestias a la mujer.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
 
 ARTICULO 218
 
-No acreditándose haberse intentado la demanda o la acusación dentro del término señalado, levantará el juez el depósito y restituirá a la mujer a la casa del marido.
+No acreditándose haberse intentado la demanda o presentado la cusación (sic) dentro del término señalado por el artículo 214 de esta ley, el juez levantará el depósito o la separación, restituirá a la mujer al domicilio conyugal y prevendrá al marido para que lo haga por sí mismo.
 
 ARTICULO 219
 
@@ -6067,3 +6089,9 @@ Al C......
 D.O.F. 31 DE MARZO DE 1938.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 9 DE ENERO DE 1954.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor diez días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
