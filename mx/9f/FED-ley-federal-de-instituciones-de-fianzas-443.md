@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1993-12-23"
+last_updated: "1995-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 1995.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -253,9 +253,9 @@ Las instituciones podrán emitir acciones no suscritas que conservarán en tesor
 
 Las instituciones podrán emitir acciones sin valor nominal, así como preferentes o de voto limitado. En caso de que existan más de una serie de acciones deberá indicarse expresamente el porcentaje del capital social que podrá corresponder a cada serie.
 
-> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-El capital pagado de las instituciones de fianzas podrá integrarse con una parte representada por acciones de voto limitado hasta por un monto equivalente al veinticinco por ciento del mismo, previa autorización de la Secretaría de Hacienda y Crédito Público.
+El capital social de las instituciones de fianzas podrá integrarse con una parte representada por acciones de voto limitado hasta por un monto equivalente al treinta por ciento del capital pagado, previa autorización de la Secretaría de Hacienda y Crédito Público. La adquisición de acciones de voto limitado no estará sujeta a los límites establecidos por el artículo 8o. y la fracción III de este artículo. Estas acciones no computarán para efecto del límite establecido en el último párrafo de la fracción III de este artículo.
 
 > <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
@@ -287,9 +287,9 @@ b).- (DEROGADO, D.O.F. 3 DE ENERO DE 1990)
 
 c).- Sociedades mutualistas de seguros, casas de bolsa, casas de cambio, organizaciones auxiliares del crédito y sociedades operadoras de sociedades de inversión.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-III.- Tratándose de las instituciones a que se refiere el inciso a) de la fracción I bis, de esta Ley, ninguna persona física o moral podrá ser propietaria de más del quince por ciento de su capital pagado, excepto:
+III.- Tratándose de las instituciones a que se refiere el inciso a) de la fracción I Bis, de esta Ley, ninguna persona física o moral podrá ser propietaria de más del veinte por ciento de su capital pagado, excepto:
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -343,13 +343,15 @@ g).- Las sociedades controladoras a que se refiere la Ley para Regular las Agrup
 
 h).- Las personas que de manera discrecional autorice la Secretaría de Hacienda y Crédito Público con la finalidad de propiciar el desarrollo técnico y de comercialización de la fianza; de procurar una adecuada diversificación de responsabilidades y de fortalecer la eficiencia y capacidad de retención de primas de las instituciones.
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-Las personas que en los términos de esta fracción lleguen a ser propietarias de más del 15% del capital pagado de una institución de fianzas o de una sociedad de las comprendidas en el inciso b) de esta fracción, deberán obtener certificado de tenencia accionaria de la Comisión Nacional de Seguros y Fianzas, en el que se hará constar el porcentaje correspondiente;
+i).- Las Instituciones Financieras del Exterior, directa o indirectamente, o las Sociedades Controladoras Filiales que adquieran acciones de cualquier serie, conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, con la finalidad de convertir a la respectiva institución de fianzas en una Filial.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-La Secretaría de Hacienda y Crédito Público, podrá discrecionalmente, autorizar la participación en el capital pagado de las instituciones de fianzas a entidades afianzadoras, aseguradoras, reaseguradoras o reafianzadoras del exterior y a personas físicas o morales extranjeras o agrupaciones de las mismas distintas de las excluidas en el penúltimo párrafo de la fracción I Bis. La autorización que se otorgue a un inversionista extranjero será intransmisible y la inversión mexicana siempre deberá ser mayoritaria y mantener la facultad de determinar el manejo de la institución y su control efectivo. A tal efecto, la inversión extranjera deberá hacerse constar en una serie especial de acciones representativas del capital de la sociedad correspondiente, misma que en ningún caso podrá rebasar el cuarenta y nueve por ciento del capital de la sociedad.
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+Las entidades afianzadoras, aseguradoras, reaseguradoras o reafianzadoras del exterior y las personas físicas o morales extranjeras distintas de las excluidas en el penúltimo párrafo de la fracción I Bis, podrán adquirir acciones representativas del capital de estas instituciones de fianzas. La inversión mexicana siempre deberá mantener la facultad de determinar el manejo de la institución y su control efectivo. A tal efecto, la inversión extranjera deberá hacerse constar en una serie especial de acciones representativas del capital de la sociedad correspondiente, misma que en ningún caso podrá rebasar el cuarenta y nueve por ciento del capital pagado de la sociedad;
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -363,9 +365,7 @@ a).- Manifestar por escrito el carácter con el que se concurre, sea éste el de
 
 b).- Manifestar por escrito el nombre de la o las personas a quienes pertenezcan las acciones que representen y señalar invariablemente el número de acciones que a cada una corresponda, cuando se asista con el carácter de mandatario, comisionista o cualquier tipo de representante, así como en los demás casos que determine la Comisión Nacional de Seguros y Fianzas, y.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
-
-c).- Exhibir, en su caso, el certificado a que se refiere el último párrafo de la fracción anterior.
+c).- (DEROGADO, D.O.F. 17 DE NOVIEMBRE DE 1995)
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -531,19 +531,29 @@ Se exceptúa de lo dispuesto en el párrafo anterior a las Filiales en cuyo capi
 
 La solicitud de autorización para organizarse y funcionar como Filial deberá cumplir con los requisitos establecidos en la presente Ley y en las reglas a las que se refiere el primer párrafo del artículo 15-B.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 15-G.
 
-El capital social de las Filiales deberá estar integrado por una sola serie de acciones. Una Institución Financiera del Exterior, directa o indirectamente, o una Sociedad Controladora Filial deberá ser en todo momento propietaria de acciones que representen cuando menos el noventa y nueve por ciento del capital social de la Filial.
+El capital social de las Filiales estará representado por dos series de acciones. Cuando menos el cincuenta y uno por ciento del capital social de las Filiales se integrará por acciones de la Serie "F". El cuarenta y nueve por ciento restante del capital social podrá integrarse indistinta o conjuntamente por acciones Serie "F" y "B".
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+La totalidad de las acciones Serie "F" de una Filial deberá ser propiedad en todo momento de una Institución Financiera del Exterior, directa o indirectamente, o de una Sociedad Controladora Filial. Las acciones Serie "B" que no sean propiedad de dicha Institución Financiera del Exterior o Sociedad Controladora Filial, estarán sujetas a lo dispuesto en el artículo 8o. y en las fracciones II Bis y III del artículo 15 de la presente Ley.
+
+Las acciones deberán pagarse íntegramente en el acto de ser suscritas.
+
+Las Filiales no podrán emitir acciones de voto limitado.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 15-H.
 
-Las acciones de una Filial únicamente podrán ser enajenadas previa autorización de la Secretaría de Hacienda y Crédito Público.
+Las acciones Serie "F" de una Filial únicamente podrán ser enajenadas previa autorización de la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 Salvo en el caso en que el adquirente sea una Institución Financiera del Exterior, una Sociedad Controladora Filial o una Filial, para llevar a cabo la enajenación deberán modificarse los estatutos sociales de la Filial cuyas acciones sean objeto de la operación para cumplir con lo dispuesto en la fracción III del artículo 15.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 Cuando el adquirente sea una Institución Financiera del Exterior, una Sociedad Controladora Filial o una Filial, deberá observarse lo dispuesto en las fracciones I, III y IV del artículo 15-I.
 
@@ -553,11 +563,13 @@ Cuando el adquirente sea una Institución Financiera del Exterior, una Sociedad 
 
 La Secretaría de Hacienda y Crédito Público podrá autorizar a las Instituciones Financieras del Exterior, a las Sociedades Controladoras Filiales o a las Filiales, la adquisición de acciones de una institución de fianzas siempre y cuando se cumplan los siguientes requisitos:
 
-I. La Institución Financiera del Exterior, la Sociedad Controladora Filial o la Filial, según sea el caso, deberá adquirir acciones que representen cuando menos el noventa y nueve por ciento del capital social;
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-II. Deberán modificarse los estatutos sociales de la institución de fianzas, cuyas acciones sean objeto de enajenación, a efecto de cumplir con lo dispuesto en el presente capítulo;
+I.- La Institución Financiera del Exterior, la Sociedad Controladora Filial o la Filial, según sea el caso, deberá adquirir acciones que representen cuando menos el cincuenta y uno por ciento del capital social;
 
-III. Cuando el adquirente sea una Institución Financiera del Exterior o una Sociedad Controladora Filial que ya sea propietaria de acciones representativas del capital social de una Filial, deberá fusionar ambas instituciones de fianzas a efecto de controlar solamente una Filial del mismo tipo; y
+II.- Deberán modificarse los estatutos sociales de la institución de fianzas, cuyas acciones sean objeto de enajenación, a efecto de cumplir con lo dispuesto en el presente capítulo;
+
+III.- Cuando el adquirente sea una Institución Financiera del Exterior o una Sociedad Controladora Filial que ya sea propietaria de acciones representativas del capital social de una Filial, deberá fusionar ambas instituciones de fianzas a efecto de controlar solamente una Filial del mismo tipo; y
 
 IV.- Cuando el adquirente sea una Filial deberá fusionarse con la institución de fianzas que haya sido adquirida.
 
@@ -567,11 +579,15 @@ IV.- Cuando el adquirente sea una Filial deberá fusionarse con la institución 
 
 Las Filiales no podrán emitir obligaciones subordinadas, salvo para ser adquiridas por la Institución Financiera del Exterior propietaria, directa o indirectamente, de las acciones de la Filial emisora. Tampoco les estará permitido a las Filiales el establecimiento de sucursales o subsidiarias fuera del territorio nacional.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 15-K.
 
-El consejo de administración de las Filiales, estará integrado por lo menos por cinco consejeros, de entre los cuales la mayoría deberá residir en territorio nacional.
+El consejo de administración de las Filiales, estará integrado por lo menos por cinco consejeros, de entre los cuales la mayoría deberá residir en territorio nacional. Su nombramiento deberá hacerse en asamblea especial para cada serie de acciones. A las asambleas que se reúnan con ese fin, así como aquéllas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
+
+Los propietarios de las acciones Serie "B", en su caso, tendrán derecho a nombrar cuando menos un consejero. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
+
+El presidente del consejo deberá elegirse de entre los propietarios de la Serie "F", y tendrá voto de calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir indistintamente a cualesquiera de los propietarios, en el entendido de que dentro de cada sesión, un suplente sólo podrá representar a un propietario.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -579,11 +595,11 @@ El consejo de administración de las Filiales, estará integrado por lo menos po
 
 Los directores generales de las Filiales deberán cumplir con los requisitos previstos en la fracción VIII bis-1 del artículo 15 de la presente Ley y residir en territorio nacional.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 15-M.
 
-El órgano de vigilancia de las Filiales estará integrado por lo menos por un comisario nombrado por la Institución Financiera del Exterior o por la Sociedad Controladora Filial tenedora de las acciones de la Filial.
+El órgano de vigilancia de las Filiales estará integrado por lo menos por un comisario designado por los accionistas de la Serie "F" y, en su caso, un comisario nombrado por los accionistas de la Serie "B", y sus respectivos suplentes.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -1543,7 +1559,7 @@ VII.- Informar a la Junta de Gobierno de los hechos o situaciones que, en su con
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
-VIII.- Informar a la Secretaría de Hacienda y Crédito Público acerca de infracciones administrativas y hechos delictuosos de que tenga conocimiento, por violaciones a la Ley de la materia y demás disposiciones legales aplicables;
+VIII.- Informar a la Secretaría de Hacienda y Crédito Público acerca de infracciones administrativas y hechos delictuosos de que tenga conocimiento, por violaciones a la Ley de la materia y demás disposiciones legales aplicables:
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -2261,9 +2277,9 @@ I.- Multa de 1,500 a 5,000 días de salario, por violación al primer párrafo d
 
 II.- Multa de 750 a 5,000 días de salario o la pérdida de su cargo, según la gravedad del caso, a los notarios, registradores o corredores que autoricen las escrituras o que inscriban actas en que se consigne alguna operación de las que esta Ley prohíbe expresamente, o para celebrar aquéllas para las cuales no esté facultado alguno de los otorgantes;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
-III.- Multa por el importe equivalente al diez por ciento del valor de las acciones que excedan del porcentaje permitido o de las acciones con el que se participe en la Asamblea, según sea el caso, conforme a la valuación que de esas mismas acciones se haga de acuerdo con las Reglas previstas en la fracción III del artículo 62 de esta Ley, a las personas que infringiendo lo dispuesto en las fracciones I, I Bis y III del artículo 15 y los artículos 15-G y 15-H de la misma Ley lleguen a ser propietarias de acciones de una institución de fianzas o de una sociedad de las comprendidas en los incisos a) y b) de la fracción IV del artículo 15, en exceso de los porcentajes permitidos, así como a los que al participar en las Asambleas incurran en falsedad al buscar las manifestaciones a que se refieren los incisos a) y b) de la fracción IV del citado artículo 15.
+III.- Multa por el importe equivalente al 10% del valor de las acciones que excedan del porcentaje permitido o de las acciones con que se participe en la asamblea, según el caso, conforme valuación que de esas mismas acciones se haga en términos de la fracción III del artículo 62 de esta Ley, a las personas que infringiendo lo dispuesto en las fracciones II bis y III del artículo 15 de la misma Ley, lleguen a ser propietarias de acciones de una institución de fianzas o de una sociedad de las comprendidas en los incisos b) y g) de la citada fracción III, del artículo 15, en exceso de los porcentajes permitidos, así como las que al participar en asamblea incurran en falsedad al hacer las manifestaciones a que se refieren los incisos a) y b) de la fracción IV del señalado artículo 15.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -2354,6 +2370,10 @@ XX.- Multa de 250 a 5,000 días de salario, si las disposiciones violadas de est
 ###### ARTICULO 112.
 
 Para proceder penalmente por los delitos previstos en los artículos 112 bis, 112 bis 1, 112 bis 2, 112 bis 3, 112 bis 4, 112 bis 5 y 112 bis 6 de esta Ley, será necesario que la Secretaría de Hacienda y Crédito Público formule petición, previa opinión de la Comisión Nacional de Seguros y Fianzas.
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas, dictará disposiciones de carácter general para prevenir y detectar en las instituciones de fianzas, actos u operaciones con recursos, derechos o bienes que procedan o representen el producto de un probable delito. Estas disposiciones deberán ser observadas por los empleados y funcionarios de los citados intermediarios. La violación de las mismas será sancionada con multa equivalente del diez hasta el cien por ciento del monto del acto u operación de que se trate, la cual será impuesta por la Comisión Nacional de Seguros y Fianzas a los intermediarios financieros mencionados.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -3164,3 +3184,17 @@ DECIMO TERCERO.- No obstante lo dispuesto en el artículo 29 fracción II de la 
 Las Instituciones Financieras del Exterior que antes de la entrada en vigor del tratado o acuerdo aplicable tengan inversiones en instituciones de seguros, podrán incrementar éstas de conformidad con dicho tratado.
 
 A las inversiones señaladas en los dos párrafos anteriores no les serán aplicables los límites de capital individuales y agregados de conformidad con el tratado o acuerdo internacional aplicable.
+
+D.O.F. 17 DE NOVIEMBRE DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
+
+QUINTO.- Lo establecido en los artículos segundo y tercero transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley para Regular las Agrupaciones Financieras, Ley de Instituciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley del Mercado de Valores, Ley de Sociedades de Inversión, Ley General de Instituciones y Sociedades Mutualistas de Seguros y Ley Federal de Instituciones de Fianzas, publicado en el Diario Oficial de la Federación el 23 de diciembre de 1993, no es aplicable a las sociedades financieras de objeto limitado, arrendadoras financieras, empresas de factoraje financiero e instituciones de seguros, filiales, que resulten de las adquisiciones que sean autorizadas por la Secretaría de Hacienda y Crédito Público.
+
+SEXTO.- Las sociedades financieras de objeto limitado, organizaciones auxiliares del crédito, casas de cambio, instituciones de seguros e instituciones de fianzas, deberán efectuar, en su caso, los actos corporativos necesarios para ajustar sus estatutos a lo dispuesto por el presente Decreto, dentro de un plazo máximo de ciento veinte días contado a partir del inicio de la vigencia del mismo.
+
+...
