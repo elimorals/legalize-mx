@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "1991-10-25"
+last_updated: "1992-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 1991.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE OCTUBRE DE 1991.]</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -1525,7 +1523,7 @@ Los Ayuntamientos celebrarán convenios de coordinación con el Gobierno del Est
 
 ###### ARTICULO 134.
 
-Para la enajenación, permuta o donación de un bien inmueble, propiedad del Ayuntamiento, deberá formularse solicitud de autorización al Congreso del Estado por conducto del Gobernador, la cual deberá contener los datos siguientes:
+Para la enajenación, permuta o donación de un bien inmueble, propiedad del Ayuntamiento, deberá formularse solicitud de autorización al Congreso del Estado por conducto del Gobernador, la cual deberá contener los siguientes datos:
 
 I. Título con el que se acredite la propiedad del inmueble;
 
@@ -1939,6 +1937,10 @@ IV. Consejos Consultivos de Presidentes o Comisariados Ejidales y de Bienes Comu
 
 V. Consejos de Colaboración Municipal;
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 1992)</small>
+
+V BIS.- Consejos de Presidentes de Colonias.
+
 VI. Consejos Consultivos de la Ciudad;
 
 VII. Consejos de Urbanismo;
@@ -2017,15 +2019,89 @@ XIV. Presentar a los habitantes de la Comisaría un informe anual de actividades
 
 XV. Las demás que señalen las leyes y reglamentos.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 202.
 
-Los Delegados Municipales serán designados por el Ayuntamiento a propuesta del Presidente Municipal y durarán en su encargo en tanto no sean relevados del cargo por el propio Ayuntamiento y tendrán a su cargo las funciones que les encomienden los acuerdos delegatorios y expresamente el Presidente Municipal, de quien dependerán jerárquicamente.
+En las cabeceras municipales con más de 20,000 habitantes, el Ayuntamiento, a propuesta del Presidente Municipal, podrá crear Delegaciones Municipales como órganos administrativos desconcentrados por territorio, jerárquicamente subordinados al Presidente Municipal, con el ámbito de competencia territorial que el propio Ayuntamiento establezca.
+
+Este Artículo es aplicable para aquéllas localidades en las que no existan Comisarías.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 203.
 
-Las delegaciones municipales contarán con el personal y con los recursos que el Ayuntamiento, a propuesta del Presidente, determine en base a las necesidades de los servicios que deban atender y conforme al presupuesto de egresos.
+Las Delegaciones tendrán las facultades delegadas en función del tamaño del ámbito territorial de competencia, la complejidad de problemas urbanos y sociales, los recursos técnicos y financieros de los servicios y obras públicas, el nivel de participación de los vecinos así como la capacidad administrativa y técnica disponible.
 
-### CAPITULO VIII. DE LOS CONSEJOS DE URBANISMO
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
+
+ARTICULO 203 A.- Para ser Delegado Municipal deberán reunir los siguientes requisitos:
+
+I.- Ser mayor de 30 años de edad;
+
+II.- Contar con experiencia administrativa;
+
+III.- No tener antecedentes penales, y
+
+IV.- Residir en el municipio de que se trate.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
+
+ARTICULO 203 B.- La Delegación estará a cargo de un titular denominado Delegado Municipal, mismo que podrá ser un Regidor, quien podrá conservar tal condición.
+
+Los Delegados serán designados a propuesta del Presidente Municipal en sesión de cabildo cuando alcancen las dos terceras partes de los votos.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
+
+ARTICULO 203 C.- Los Delegados deberán celebrar, invariablemente, acuerdo con el Presidente Municipal por lo menos cada quince días.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
+
+ARTICULO 203 D.- Los Delegados deberán presentar mensualmente a la Tesorería Municipal el estado de ingresos y egresos, incluidos los cobros por la prestación de servicios públicos y las aportaciones y cooperación que lleven a cabo los vecinos para obras y servicios públicos delegados.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
+
+ARTICULO 203 E.- Los Ayuntamientos deberán fijar las bases para la organización y funcionamiento de las Delegaciones en un reglamento expedido por el mismo.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
+
+ARTICULO 203 F.- El Presidente Municipal con base en lo acordado por el Ayuntamiento asignará a las Delegaciones los recursos humanos, financieros y materiales que sean indispensables para el eficiente ejercicio de las facultades delegadas y la atención oportuna de las necesidades populares conforme a criterios de descentralización, equilibrio territorial y disponibilidad.
+
+### CAPITULO VII BIS. DE LOS CONSEJOS DE PRESIDENTES DE COLONIAS
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
+
+ARTICULO 224 A.- En cada municipio el Ayuntamiento podrá contar con Consejos de Presidentes de Colonias, mismas que deberán ser a fines conforme a los indicadores urbanos y sociales, capacidad de pago, nivel de participación de sus vecinos, y localización territorial para agruparse para efectos del presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
+
+ARTICULO 224 B.- Los Consejos de Presidentes de Colonias tendrán las siguientes atribuciones:
+
+I.- Conocer los programas de mejoramiento urbano y de mantenimiento preventivo y correctivo que se realicen en las colonias correspondientes;
+
+II.- Apoyar en la ejecución de obras de mejoramiento urbano a las autoridades municipales;
+
+III.- Formular recomendaciones a las autoridades competentes, respecto de la prestación de servicios públicos o la ejecución de obras de mejoramiento urbano;
+
+IV.- Promover la participación ciudadana para la ejecución de obras y la prestación de servicios públicos;
+
+V.- Coadyuvar a los programas del Consejo de Colaboración Municipal;
+
+VI.- Informar al Ayuntamiento de los acuerdos tomados en las sesiones del Consejo, y
+
+VII.- Las demás que sean necesarias para el ejercicio de las anteriores.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
+
+ARTICULO 224 C.- Cada Consejo se integrará por los Presidentes de las Colonias que para el efecto del presente Capítulo se hayan agrupado, uno de los cuales se elegirá Presidente del Consejo, el cual además de representar al Consejo convocará y presidirá las sesiones del mismo.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
+
+ARTICULO 224 D.- Cada Consejo celebrará sesiones ordinarias trimestrales a las que asistirá un representante del Ayuntamiento, preferentemente el servidor público responsable del área de desarrollo urbano y obras públicas.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
+
+ARTICULO 224 E.- Cuando los asuntos a tratarse en las sesiones del Consejo estuviesen vinculados a las obras que realicen entidades o empresas públicas o privadas de servicios, se invitará a éstas a que designen un representante para asistir a las sesiones correspondientes.
 
 ###### ARTICULO 204.
 
@@ -2049,7 +2125,7 @@ III. Presentar al Ayuntamiento sus propuestas para introducir mejoras en la admi
 
 Los Consejos Consultivos de Comisarios Municipales celebrarán sesiones ordinarias durante los meses de enero, mayo, agosto y octubre de cada año, asistiendo a las mismas los integrantes del Ayuntamiento.
 
-### CAPITULO IX. DEL FONDO SOCIAL DE CREDITOS PARA OBRAS
+### CAPITULO VIII. DE LOS CONSEJOS DE URBANISMO
 
 ###### ARTICULO 208.
 
@@ -2063,7 +2139,7 @@ El Consejo Consultivo de Ciudadanos de las Delegaciones Municipales estará pres
 
 Los Consejos Consultivos de Ciudadanos de las Delegaciones Municipales tendrán a su cargo opinar sobre los programas de obras públicas sobre la prestación de servicios públicos de interés para la Delegación, y fomentar la participación ciudadana.
 
-### CAPITULO X. DEL CRONISTA MUNICIPAL
+### CAPITULO IX. DEL FONDO SOCIAL DE CREDITOS PARA OBRAS
 
 ###### ARTICULO 211.
 
@@ -2085,13 +2161,13 @@ III. Presentar al Ayuntamiento sus propuestas para introducir mejoras en la admi
 
 Los consejos a que se refiere este Capítulo celebrarán sesiones ordinarias durante los meses de enero, mayo, agosto y octubre de cada año, asistiendo a las mismas los integrantes del Ayuntamiento.
 
-### CAPITULO XI. DE LOS COMITES DE DESARROLLO INDIGENISTA
+### CAPITULO X. DEL CRONISTA MUNICIPAL
 
 ###### ARTICULO 214.
 
 En cada Municipio funcionará uno o varios Consejos de colaboración municipal en los términos de la Ley que Establece las Bases para la Participación de la Comunidad y de la Ley de Desarrollo Urbano del Estado, para promover, cofinanciar y ejecutar obras públicas, o prestar conjuntamente servicios públicos.
 
-### CAPITULO UNICO
+### CAPITULO XI. DE LOS COMITES DE DESARROLLO INDIGENISTA
 
 ###### ARTICULO 215.
 
@@ -2151,11 +2227,11 @@ En los términos de la Ley que Establece las Bases para el Fomento de la Partici
 
 Los Ayuntamientos podrán otorgar reconocimientos a nivel municipal a personas físicas o morales o bien a agrupaciones ciudadanas por sus contribuciones dentro de proyectos de beneficio colectivo que eleven el bienestar social o la producción.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE JUNIO DE 1992)</small>
+
 ### CAPITULO UNICO
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 225.
 
@@ -2191,7 +2267,7 @@ El Consejo a que se refiere este Capítulo celebrará sesiones ordinarias bimens
 
 El Consejo de Urbanismo podrá establecer para la mejor atención de sus facultades comités de estudio y dictamen.
 
-### CAPITULO II. DE LA DIRECCION DE ESPECTACULOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -2207,7 +2283,7 @@ Para la obtención de recursos para el fondo a que se refiere este capítulo, el
 
 El Organismo otorgará créditos con cargo al Fondo con sujeción a las reglas, condiciones, criterios y prioridades que aseguren la recuperación de los mismos y el logro de cometidos sociales.
 
-### CAPITULO III. DE LAS AUTORIZACIONES
+### CAPITULO II. DE LA DIRECCION DE ESPECTACULOS
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -2231,9 +2307,7 @@ Los Cronistas Municipales darán su opinión técnica sobre la pertinencia de qu
 
 En las Cabeceras Municipales y en las localidades que lo estimen necesario y conveniente el Ayuntamiento creará por acuerdo, el Consejo de Colaboración Municipal a que se refiere la Ley de Desarrollo Urbano, para la ejecución de obras y servicios públicos, designando con tal propósito a propuesta del Presidente Municipal, a los integrantes del mismo.
 
-### CAPITULO IV
-
-DEL COMITE MIXTO DE ESPECTACULOS Y DE LA ORGANIZACION DE LOS REPRESENTANTES DE LOS ESTABLECIMIENTOS.
+### CAPITULO III. DE LAS AUTORIZACIONES
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -2257,17 +2331,23 @@ III. Promover la correcta aplicación de las normas protectoras de los derechos 
 
 IV. Promover la implantación de programas de alfabetización para adultos, de educación bilingüe, bicultural y de educación para los adultos en el medio indígena.
 
-### CAPITULO V. DE LAS OBLIGACIONES DE LOS ESTABLECIMIENTOS DE ESPECTACULOS, CENTROS NOCTURNOS Y ANALOGOS
+### CAPITULO IV
+
+DEL COMITE MIXTO DE ESPECTACULOS Y DE LA ORGANIZACION DE LOS REPRESENTANTES DE LOS ESTABLECIMIENTOS.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
-### CAPITULO VI. DE LAS SANCIONES
+### CAPITULO V. DE LAS OBLIGACIONES DE LOS ESTABLECIMIENTOS DE ESPECTACULOS, CENTROS NOCTURNOS Y ANALOGOS
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
 ## TITULO OCTAVO. DEL REGIMEN DE RESPONSABILIDADES DE LOS FUNCIONARIOS
 
 PUBLICOS MUNICIPALES
+
+### CAPITULO VI. DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
 ###### ARTICULO 242.
 
@@ -2692,3 +2772,17 @@ En un plazo no mayor de diez días, a partir de que entre en vigor el presente D
 P.O. 11 DE OCTUBRE DE 1991.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE JUNIO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las Delegaciones Municipales existentes al momento de entrada en vigor del presente Decreto, conservarán las funciones y recursos que les han sido delegados o conferidos hasta en tanto que el Ayuntamiento correspondiente, en su caso, resuelva lo conducente.
+
+###### ARTICULO TERCERO.
+
+Las autoridades municipales de aquellos municipios en los que su cabecera municipal cuente con más de 20,000 habitantes y su zona urbana se integre por colonias, impulsarán la constitución de los Consejos de Presidentes de Colonias a que se refiere el Capítulo VII BIS de la Ley Orgánica del Municipio Libre.
