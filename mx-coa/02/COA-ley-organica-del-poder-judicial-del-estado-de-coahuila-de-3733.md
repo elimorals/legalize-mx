@@ -1,0 +1,2482 @@
+---
+title: "LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA"
+identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
+country: "mx"
+rank: "ley_organica"
+publication_date: "1990-12-11"
+last_updated: "1990-12-11"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-coa"
+scjn_id: "3733"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "99"
+reform_count: "28"
+scjn_last_update: "2025-07-18"
+issue_date: "1990-12-10"
+state: "COA"
+---
+# LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ENERO DE 1991 EN EL P.O. DEL ESTADO DE COAHUILA DE ZARAGOZA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
+LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
+
+EL C. LIC. ELISEO FRANCISCO MENDOZA BERRUETO, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
+
+QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, decreta:
+
+N ú m e r o : 223
+
+LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
+
+## TITULO PRIMERO. DISPOSICIONES GENERALES
+
+###### ARTICULO 1o.
+
+La justicia se imparte en nombre del pueblo y se administra por el Estado a través de la función jurisdiccional, ejercida por magistrados y jueces integrantes del Poder Judicial, independientes, imparciales, responsables y sometidos únicamente al imperio de la Ley.
+
+El ejercicio de la potestad jurisdiccional en todo tipo de procesos, corresponde exclusivamente a los órganos del Poder Judicial en los negocios que les encomienden las leyes, según los procedimientos que las mismas establezcan.
+
+###### ARTICULO 2o.
+
+La facultad a que se refiere el artículo anterior se ejerce:
+
+I.- Por el Tribunal Superior de Justicia;
+
+II.- Por los Tribunales Unitarios de Distrito;
+
+III.- Por los Juzgados de Primera Instancia, que en razón a la materia serán:
+
+a).- Civiles;
+
+b).- Familiares;
+
+c).- Penales; y
+
+d).- Mixtos, cuando deban conocer de dos o más materias;
+
+IV.- Por los Consejos tutelares para Menores;
+
+V.- Por los Juzgados de Conciliación; y
+
+VI.- Por los demás órganos que se creen en las leyes, con cualquier otra denominación y a los cuales se les confiera jurisdicción.
+
+Los árbitros voluntarios no ejercerán autoridad pública; pero conocerán del asunto o asuntos que les encomienden los interesados, de acuerdo a las reglas y restricciones que fijen las Leyes y según los términos de los compromisos respectivos.
+
+###### ARTICULO 3o.
+
+Son auxiliares de la administración de justicia:
+
+I.- El Ministerio Público y la Policía Judicial;
+
+II.- La Dirección de Seguridad Pública en el Estado;
+
+III.- La Procuraduría de la Defensa del Menor;
+
+IV.- Los Patronatos Distritales de Menores;
+
+V.- El director y los jefes de las oficinas del Registro Público de la Propiedad;
+
+VI.- El director y los oficiales del Registro Civil;
+
+VII.- Los depositarios e interventores;
+
+VIII.- Los peritos médicos legistas;
+
+IX.- Los intérpretes y demás peritos en los ramos que se les encomienden;
+
+X.- Los síndicos e interventores de concursos y quiebras;
+
+XI.- Los albaceas e interventores de sucesiones;
+
+XII.- Los tutores y curadores;
+
+XIII.- Los comandantes, delegados y agentes de Policía y Tránsito del Estado o Municipales;
+
+XIV.- Los abogados y los notarios públicos; y
+
+XV.- Todos los demás a quienes las leyes les confieran este carácter.
+
+###### ARTICULO 4o.
+
+Son obligaciones de las autoridades judiciales:
+
+I.- Ajustar sus procedimientos y resoluciones a las leyes;
+
+II.- Ejercer la función jurisdiccional gratuitamente;
+
+III.- Auxiliar a la Justicia Federal y demás autoridades, en los términos de las disposiciones legales aplicables;
+
+IV.- Diligenciar o mandar diligenciar exhortos, despachos o requisitorias, procedentes de las demás autoridades del Estado o de fuera de él, si estuvieren conforme a derecho;
+
+V.- Proporcionar a las autoridades competentes los datos e informes que éstas soliciten, cuando así proceda conforme a la Ley; y
+
+VI.- Las demás que las leyes les impongan.
+
+## TITULO SEGUNDO. DE LA DIVISION TERRITORIAL
+
+###### ARTICULO 5o.
+
+Para los efectos de esta Ley, el Estado de Coahuila se divide en ocho distritos judiciales, con las cabeceras y municipalidades siguientes:
+
+I.- Distrito de Saltillo, con cabecera en la ciudad de Saltillo, que comprende la municipalidad del mismo nombre, así como las de Arteaga, Ramos Arizpe y General Cepeda;
+
+II.- Distrito de Monclova, con cabecera en la ciudad de Monclova, que comprende la municipalidad del mismo nombre, así como las de Frontera, San Buenaventura, Nadadores, Lamadrid, Sacramento, Cuatrociénegas, Ocampo, Sierra Mojada, Abasolo, Escobedo, Candela y Castaños;
+
+III.- Distrito de Sabinas, con cabecera en la ciudad de Sabinas, que comprende la municipalidad del mismo nombre, así como las de Melchor Múzquiz, San Juan de Sabinas, Juárez y Progreso;
+
+IV.- Distrito de Río Grande, con cabecera en la ciudad de Piedras Negras, que comprende la municipalidad del mismo nombre, así como las de Guerrero, Allende, Nava, Morelos, Villa Unión e Hidalgo;
+
+V.- El Distrito de Acuña, con cabecera en Ciudad Acuña, que comprende la municipalidad del mismo nombre, así como las de Jiménez y Zaragoza;
+
+VI.- Distrito de Viesca, con cabecera en la ciudad de Torreón, que comprende la municipalidad del mismo nombre, así como las de Viesca y Matamoros;
+
+VII.- Distrito de San Pedro de las Colonias, con cabecera en la ciudad de San Pedro, que comprende la municipalidad del mismo nombre, así como la de Francisco I. Madero; y
+
+VIII.- Distrito de Parras de la Fuente, con cabecera en la ciudad de Parras, que comprende la municipalidad del mismo nombre.
+
+## TITULO TERCERO. DE LA ORGANIZACION DEL PODER JUDICIAL
+
+### CAPITULO I. DEL TRIBUNAL SUPERIOR DE JUSTICIA
+
+###### ARTICULO 6o.
+
+El Tribunal Superior de Justicia del Estado, estará integrado por diez magistrados numerarios y seis supernumerarios y funcionará en Pleno o en Salas, según lo determinen esta Ley y demás ordenamientos aplicables.
+
+Será presidente, uno de los magistrados numerarios, designado por el Pleno, quien no integrará Sala durante el tiempo que dure su encargo.
+
+###### ARTICULO 7o.
+
+Los magistrados que integren el Tribunal Superior de Justicia deberán residir en la Capital del Estado; durarán en su encargo seis años, al término de los cuales podrán ser reelectos y, si lo fueren, sólo podrán ser privados de sus puestos en los términos del Título Sexto de la Constitución Política local.
+
+### CAPITULO II. DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA
+
+###### ARTICULO 8o.
+
+El Pleno del Tribunal Superior de Justicia se integra con los diez magistrados numerarios y será presidido por aquel que designe el propio Cuerpo Colegiado, en los términos del artículo 13 de esta Ley.
+
+###### ARTICULO 9o.
+
+El Pleno del Tribunal Superior de Justicia sólo podrá funcionar con la concurrencia de las dos terceras partes de sus miembros por lo menos y sus resoluciones se tomarán por mayoría de votos de los magistrados presentes. Si de la votación resultare empate, el Presidente del Tribunal tendrá voto de calidad.
+
+Las resoluciones del Pleno deberán ser autorizadas por el presidente, el magistrado ponente si lo hubiere y el secretario general de acuerdos y, en su caso, también por los magistrados disidentes.
+
+Las observaciones y los votos particulares que se hagan por escrito, deberán ser firmados por los magistrados que lo formulen.
+
+###### ARTICULO 10.
+
+Las sesiones del Pleno del Tribunal Superior de Justicia, podrán ser ordinarias o extraordinarias y, en ambos casos, públicas o secretas. Las sesiones ordinarias se celebrarán los miércoles de cada semana excepto cuando por causa justificada el Pleno del Tribunal señale día diverso, y las extraordinarias, cuando sea necesario, previa convocatoria del presidente.
+
+Las sesiones en el proceso disciplinario siempre serán secretas.
+
+Cuando sea necesaria una reunión extraordinaria del Tribunal Pleno y no concurra el presidente, podrá ser convocada por la mayoría de los magistrados numerarios y será presidida por el magistrado que deba sustituirlo en los términos de esta Ley.
+
+###### ARTICULO 11.
+
+Corresponde al Pleno del Tribunal Superior de Justicia:
+
+I.- Ejercer el derecho de iniciar leyes, en los términos de la fracción III, del artículo 59, de la Constitución Política del Estado;
+
+II.- Conocer en segunda instancia de las causas civiles en que el Estado sea parte;
+
+III.- Conocer en única instancia de los procesos a que se refiere el tercer párrafo del artículo 165 de la Constitución Política del Estado;
+
+IV.- Conocer del incidente de anulación de la sentencia por inocencia;
+
+V.- Calificar los impedimentos, recusaciones y excusas de sus miembros y cuando se trate de los magistrados en conjunto de una Sala;
+
+VI.- Dirimir cualquier controversia que se suscite entre las Salas del Tribunal;
+
+VII.- Resolver, en única instancia, las demandas que por responsabilidad civil se presenten contra los magistrados del Tribunal Superior;
+
+VIII.- Ejercer la jurisdicción disciplinaria que le corresponde por faltas administrativas, en términos del Capítulo IV del Título Décimo de esta Ley;
+
+IX.- Conocer de las denuncias de contradicción sobre criterios sustentados por las Salas y por los Tribunales Unitarios de Distrito, procurando su uniformidad.
+
+Las resoluciones que sobre el particular pronuncie el Pleno, sólo tendrán el efecto de fijar el criterio de interpretación y no afectará las situaciones jurídicas concretas derivadas de las resoluciones dictadas en los procesos en que hubiese ocurrido la contradicción;
+
+X.- Elegir al Presidente del Tribunal Superior, que lo será también del Pleno;
+
+XI.- Realizar los cambios que sean necesarios entre los magistrados numerarios, con motivo de la elección del presidente del Tribunal;
+
+XII.- Exigir del presidente del Tribunal el fiel cumplimiento de sus obligaciones y la responsabilidad en que incurra de acuerdo a la Ley, en el ejercicio de sus funciones;
+
+XIII.- Nombrar y remover, en los términos que señala esta Ley, a los magistrados de Distrito, jueces de Primera Instancia, de Conciliación, integrantes de los Consejos Tutelares para Menores, secretario del Pleno y demás personal del Tribunal Superior que no dependa de las Salas;
+
+XIV.- Señalar o cambiar la adscripción de los titulares de los órganos jurisdiccionales subalternos, variar la materia y circunscripción territorial de éstos y cambiar el lugar de su residencia; así como establecer los criterios generales que sean necesarios para la adecuada distribución de los asuntos en los lugares en donde existan varios Juzgados de Primera Instancia;
+
+XV.- Señalar la adscripción de los magistrados para la integración de cada una de las Salas;
+
+XVI.- Otorgar estímulos y recompensas, conforme a las disposiciones de esta Ley, al personal judicial que lo merezca por el desempeño de su trabajo en el ejercicio de sus cargos;
+
+XVII.- Discutir, aprobar y modificar, según proceda, el proyecto de presupuesto anual de egresos que proponga el presidente del Tribunal;
+
+XVIII.- Acordar el aumento de las Salas del Tribunal Superior y el aumento o supresión de otros órganos, así como la planta de servidores públicos de la administración de justicia, cuando las necesidades del servicio lo requieran y lo permitan los recursos financieros del Poder Judicial;
+
+XIX.- Acordar, en las mismas condiciones que se señalan en la fracción que antecede, que los magistrados supernumerarios integren Salas Auxiliares del Tribunal Superior, asignándoles en el mismo acuerdo, el tiempo que deberán funcionar y los asuntos de los que deban conocer.
+
+En este caso los magistrados supernumerarios percibirán los mismos emolumentos que los numerarios.
+
+Los acuerdos a que se refiere esta fracción y la que antecede, serán publicados previamente en el Periódico Oficial del Estado, para que surtan sus efectos;
+
+XX.- Ordenar a sus miembros la práctica de visitas ordinarias y extraordinarias a los Tribunales Unitarios de Distritos, Juzgados de Primera Instancia y de Conciliación, Consejos Tutelares para Menores, cuando lo estime necesario a los lugares de reclusión o de readaptación con objeto de proveer a una mejor administración de justicia.
+
+En el caso de los Juzgados de Conciliación, la práctica de visitas podrán encomendarse a los Jueces de Primera Instancia;
+
+XXI.- Conferir a los magistrados supernumerarios, cuando no estén en funciones, las comisiones y representaciones que juzgue pertinentes, en beneficio de la administración de justicia;
+
+XXII.- Conceder licencias y permisos en los términos del Capítulo I, Título octavo de esta Ley.
+
+Las licencias y los magistrados del Tribunal Superior serán concedidas por el Congreso y en sus recesos, por la Diputación Permanente;
+
+XXIII.- Fijar en el último Pleno del año, el calendario de labores del Poder Judicial correspondiente al siguiente año, precisando los períodos de vacaciones, los días inhábiles y aquellos días en que no habrá actuaciones;
+
+XXIV.- Aprobar anualmente las listas de personas que podrán ejercer los cargos de síndicos e interventores en los juicios de concurso; albaceas e interventores en los juicios sucesorios; depositarios y demás auxiliares de la administración de justicia que deban designarse en los asuntos que se tramiten ante los tribunales, en los términos del Capítulo Primero del Título Décimo Tercero;
+
+XXV.- Fijar los emolumentos que deban percibir los magistrados supernumerarios, cuando conozcan de uno o varios asuntos determinados;
+
+XXVI.- Atender las excitativas de justicia, a petición fundada de parte;
+
+XXVII.- Supervisar el funcionamiento de los órganos que integran el Poder Judicial; así como el desempeño de sus servidores públicos y dictar las providencias necesarias para el mejoramiento de la administración de Justicia;
+
+XXVIII.- Designar al oficial mayor y al secretario particular de la Presidencia del Tribunal, a propuesta del Presidente del Pleno, así como al demás personal de ambas dependencias;
+
+XXIX.- Aprobar el Reglamento Interior del Tribunal y de las Salas;
+
+XXX.- Aprobar el Reglamento interior de los Tribunales Unitarios de Distrito, Juzgados, Consejos Tutelares y demás dependencias del Poder Judicial; y
+
+XXXI.- Las demás que le confieran las leyes.
+
+###### ARTICULO 12.
+
+El Tribunal Pleno designará un secretario General de Acuerdos y a los servidores públicos que se requiera.
+
+Para ser secretario General de Acuerdos del Tribunal Pleno, son necesarios los mismos requisitos que para ser Juez de Primera Instancia.
+
+El secretario General de Acuerdos será el fedatario de las actuaciones del Pleno y tendrá las demás facultades y obligaciones que éste le otorgue.
+
+### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA
+
+###### ARTICULO 13.
+
+El presidente del Tribunal Superior de Justicia será nombrado por el Pleno, en escrutinio secreto, al iniciarse la primera sesión del mes de enero de cada año.
+
+###### ARTICULO 14.
+
+Corresponde al presidente del Tribunal Superior de Justicia:
+
+I.- Dictar las providencias necesarias para que la administración de justicia sea eficaz, pronta y expedita;
+
+II.- Representar al Tribunal o designar a un magistrado para tal efecto;
+
+III.- Instruir los asuntos de la competencia del Pleno, hasta ponerlos en estado de resolución; salvo las audiencias que se celebrarán en sesión plenaria.
+
+Las providencias y acuerdos del presidente pueden ser reclamados ante el Pleno dentro del término de tres días, siempre que la reclamación se presente por alguna de las partes con motivo fundado, dicha reclamación se resolverá de plano.
+
+En caso de que la Presidencia estime dudoso o trascendental algún trámite, lo someterá a la consideración del Pleno, para que provea lo que corresponda;
+
+IV.- Autorizar con su firma, en unión del Secretario General, los proveídos de instrucción y las actas de las sesiones, haciendo constar en ellas una síntesis de las deliberaciones y los acuerdos que se tomen;
+
+V.- Presidir las sesiones que celebre el Tribunal Pleno; dirigir los debates conservando el orden durante las sesiones y poner a votación los negocios sometidos al conocimiento del Pleno, cuando se declare cerrada la discusión;
+
+VI.- Convocar a sesiones extraordinarias;
+
+VII.- Formular anualmente el proyecto de Presupuesto de Egresos del Poder Judicial y someterlo a la consideración del Pleno; aprobado éste, el presidente deberá proponerlo al Ejecutivo para los efectos del artículo 152 de la Constitución Política;
+
+VIII.- Establecer las políticas generales, supervisar la administración de los recursos humanos y el ejercicio del Presupuesto de Egresos que se fije para el Poder Judicial, así como los del Fondo de Mejoramiento de la Administración de Justicia;
+
+IX.- Rendir ante el Congreso del Estado, en el mes de enero de cada año, un informe sobre los movimientos de ingresos y egresos del año anterior, tanto del Presupuesto de Egresos como del Fondo para el Mejoramiento de la Administración de Justicia;
+
+X.- Rendir, en la última sesión del año, un informe anual al Pleno sobre las actividades desarrolladas por el Poder Judicial;
+
+XI.- Recibir las quejas motivadas por demoras o faltas en el despacho de los negocios de las Salas; integrando los expedientes respectivos, emitiendo opinión y turnándolos al Pleno para su conocimiento y resolución;
+
+XII.- Dar cuenta al Tribunal Pleno de las demandas de responsabilidad civil que se presenten en contra de los Magistrados del Tribunal Superior;
+
+XIII.- Conceder licencias económicas con goce de sueldo, por causa justificada hasta por quince días, a los magistrados de los Tribunales Unitarios de Distrito, a los jueces, a los integrantes de los Consejos Tutelares para Menores y a los demás empleados del Tribunal, que no dependan de las Salas;
+
+XIV.- Someter a la consideración del Pleno, las solicitudes de licencias de los servidores del Poder Judicial, cuando excedan de quince días;
+
+XV.- Comunicar al Gobernador del Estado, al Congreso y al Consejo de la Judicatura, las faltas absolutas de los magistrados del Tribunal Superior, para los efectos de que se haga designación;
+
+XVI.- Comunicar al Consejo de la judicatura las faltas temporales que excedan de quince días o las absolutas de los integrantes del Poder Judicial con puestos escalafonarios, para que se cubra la vacante en los términos de esta Ley;
+
+XVII.- Llevar el turno de los magistrados supernumerarios, haciendo las designaciones correspondientes para suplir las faltas que ocurran en el Pleno;
+
+XVIII.- Dirigir la Revista de Información Judicial y cualesquiera otra publicación de difusión judicial;
+
+XIX.- Compilar y publicar las ejecutorias sobresalientes pronunciadas por el Pleno, las Salas y los Tribunales Unitarios de Distrito;
+
+XX.- Presidir el Consejo de la Judicatura;
+
+XXI.- Organizar y coordinar la carrera judicial y los exámenes de Mérito;
+
+XXII.- Supervisar que la Oficialía Mayor lleve las hojas de servicio de todos los servidores de la administración de justicia y que en ella se hagan las anotaciones que procedan, incluyendo quejas fundadas y correcciones disciplinarias impuestas;
+
+XXIII.- Distribuir entre los Magistrados los asuntos de la competencia del Pleno, para la formulación del proyecto de resolución que deba dictarse;
+
+XIV (sic).- Llevar la correspondencia oficial del Tribunal;
+
+XXV.- Proponer anualmente al Pleno, en el mes de enero, una lista de personas que puedan ejercer las funciones que se señalan en la fracción XXIV del artículo 11 de esta Ley;
+
+XXVI.- Dirigir el Instituto de Especialización Judicial, así como organizar cursos de capacitación;
+
+XXVII.- Formular manuales de trámite y programas indispensables para mejorar la administración de la justicia;
+
+XXVIII.- Vigilar el buen funcionamiento de la Biblioteca y del Archivo Judicial; así como de las demás dependencias del Poder Judicial;
+
+XXIX.- Autorizar el registro, en la Secretaría del Pleno, de los títulos de abogados o licenciados en derecho, cuando ejerzan la profesión en el territorio del Estado;
+
+XXX.- Llevar el control estadístico de juicios iniciados, en trámite y concluidos y dar cuenta al Pleno de los informes mensuales que rindan los magistrados de Distrito, jueces de Primera Instancia y de Conciliación, así como los Presidentes de los Consejos Tutelares para Menores;
+
+XXXI.- Tener bajo su control el servicio de vigilancia de los edificios donde residan las diversas oficinas del Poder Judicial;
+
+XXXII.- Ejercer funciones de contralor general del Poder Judicial;
+
+XXXIII.- Expedir oportunamente los nombramientos que acuerde el Tribunal Pleno;
+
+XXXIV.- Integrar comisiones entre los magistrados del Tribunal Superior, para llevar a cabo estudios especiales, organizar seminarios y conferencias para la capacitación de los miembros del Poder Judicial e integrar secciones editoriales de la Revista de Información Judicial o de otras publicaciones;
+
+XXXV.- Ejercer la jurisdicción disciplinaria que le corresponda, en los términos del Título Décimo de esta Ley; y
+
+XXXVI.- Las demás que determinen las Leyes y le confiera el Pleno.
+
+###### ARTICULO 15.
+
+La Presidencia del Tribunal Superior de Justicia dispondrá del número de empleados que sean necesarios para el despacho de los asuntos de su competencia y que fije el presupuesto anual.
+
+### CAPITULO IV. DE LAS SALAS DEL TRIBUNAL
+
+###### ARTICULO 16.
+
+Habrá tres Salas del Tribunal Superior de Justicia, integradas cada una por tres magistrados numerarios. Estos se designarán por el número ordinal que les corresponda en el orden siguiente: civil, de lo familiar y penal.
+
+A cada Sala le corresponden dos magistrados supernumerarios adscritos por el Pleno, los cuales suplirán a los numerarios en los términos establecidos por esta Ley.
+
+###### ARTICULO 17.
+
+Las sesiones serán públicas, excepto cuando la moral o el orden público exija que sean secretas, tendrán verificativo por lo menos dos días hábiles de cada semana. Para su celebración se requiere la presencia de dos Magistrados.
+
+###### ARTICULO 18.
+
+Las resoluciones serán tomadas por mayoría de votos de los magistrados, quienes no podrán abstenerse de votar sino por impedimento, excusa o recusación que calificará la propia Sala, en cuyo caso se llamará al supernumerario y se dará cuenta. Cuando sólo asistan dos magistrados, las resoluciones se tomarán por unanimidad. Si no la hubiere, se dará nueva cuenta.
+
+Cada magistrado será ponente de los asuntos que le sean turnados.
+
+Las resoluciones llevarán la firma de los Magistrados que las acuerden y del secretario de acuerdos de la Sala.
+
+Los votos particulares y las observaciones por escrito deberán ser firmadas por el magistrado que los formule.
+
+###### ARTICULO 19.
+
+En la primera sesión del año, cada Sala elegirá de entre los Magistrados que la componen un Presidente, que durará en el cargo un año y podrá ser reelecto.
+
+###### ARTICULO 20.
+
+Corresponde a los Presidentes de Sala:
+
+I.- Instruir los asuntos de la competencia de la Sala hasta ponerlos en estado de resolución.
+
+Las providencias y acuerdos del presidente pueden ser reclamados ante la Sala, dentro del término de tres días, siempre que la reclamación se presente por alguna de las partes con motivo fundado.
+
+Dicha reclamación se resolverá de plano.
+
+En caso de que la Presidencia estime dudoso o trascendental algún trámite, lo someterá a la consideración de la Sala, para que provea lo que corresponda.
+
+II.- Distribuir por riguroso turno los negocios entre él y los demás miembros de la Sala, para su estudio y presentación oportuna del proyecto de resolución que en cada caso deba dictarse;
+
+III.- Presidir las sesiones, dirigir la discusión de los negocios sometidos al conocimiento de la Sala, ponerlos a votación cuando se declare cerrado el debate y conservar el orden durante las audiencias;
+
+IV.- Dar a la Secretaría de Acuerdos de la Sala, los puntos que comprendan las disposiciones resolutivas votadas y aprobadas;
+
+V.- Llevar la correspondencia de la Sala, autorizándola con su firma;
+
+VI.- Aprobar las cuentas de los gastos de oficina, dando razón pormenorizada de ello cada mes a la Presidencia del Tribunal;
+
+VII.- Vigilar que los Secretarios y demás personal de la adscripción cumplan con sus deberes y dar cuenta a la Sala de los casos de inobservancia;
+
+VIII.- Conceder permisos económicos, con goce de sueldo o sin él, al personal de la Sala hasta por cinco días, los permisos a los secretarios de estudio y cuenta, requieren autorización del magistrado al cual se encuentren adscritos;
+
+IX.- Rendir por escrito, al Pleno del Tribunal, un informe mensual de las labores desarrolladas por la Sala;
+
+X.- Llevar el turno de los Magistrados supernumerarios adscritos a la Sala, haciendo las designaciones correspondientes para suplir las faltas de los magistrados numerarios;
+
+XI.- Autorizar con su firma, en unión del secretario de acuerdos, los autos de trámite y las actas de las sesiones, haciendo constar en ellas una síntesis de las deliberaciones y los acuerdos que se tomen;
+
+XII.- Expedir oportunamente los nombramientos que acuerde la Sala;
+
+XIII.- Seleccionar y enviar bimestralmente al presidente del Tribunal, las tesis más importantes que se sustenten por la Sala; y
+
+XIV.- Las demás que le encomienden esta Ley y otros ordenamientos aplicables.
+
+###### ARTICULO 21.
+
+Corresponde a las Salas del Tribunal, en lo general:
+
+I.- Calificar los impedimentos, recusaciones y excusas de los magistrados de los Tribunales Unitarios de Distrito, en asuntos de sus respectivas competencias;
+
+II.- Dirimir los conflictos de competencia que se susciten entre los magistrados de los Tribunales Unitarios; los que surgieren entre los demás órganos judiciales subalternos, que correspondan a jurisdicciones de distintos Tribunales Unitarios de Distrito; en estos casos, atendiendo a la materia que tenga asignada cada Sala.
+
+Si el conflicto surgiere en asuntos de materia tutelar para menores, conocerá del asunto la Sala Familiar;
+
+III.- Elegir al Presidente de la Sala;
+
+IV.- Nombrar y remover al personal de la misma, en los términos que señala esta Ley.
+
+La proposición de los secretarios de estudio y cuenta la harán los magistrados a los que vayan a estar adscritos;
+
+V.- Proponer, como corresponda, al personal judicial que se haga acreedor a recibir estímulos y recompensas;
+
+VI.- Atender excitativas de justicia, en asuntos de su competencia a petición fundada de parte;
+
+VII.- Conceder licencias económicas al personal de su adscripción, con goce de sueldo o sin él, de más de cinco días sin pasar de quince.
+
+Toda solicitud de licencia requiere causa justificada y las de los secretarios de Estudio y Cuenta además, autorización del magistrado a quien estén adscritos; y
+
+VIII.- Las demás que les confieran las disposiciones legales aplicables.
+
+###### ARTICULO 22.
+
+Corresponde conocer a la Primera Sala:
+
+I.- De los recursos de apelación contra sentencias definitivas pronunciadas por los Jueces de Primera Instancia, en materia civil;
+
+II.- En única instancia, de las demandas de responsabilidad civil presentadas contra los magistrados de los Tribunales Unitarios y jueces de Primera Instancia;
+
+III.- De los recursos de apelación que deba conocer el Tribunal Unitario, a petición fundada del propio Tribunal o de oficio, cuando por sus características especiales el asunto lo amerite; y
+
+IV.- De los demás asuntos que le encomienden las leyes.
+
+###### ARTICULO 23.
+
+Corresponde conocer a la Segunda Sala:
+
+I.- De los recursos de apelación contra sentencias definitivas pronunciadas por los jueces de Primera Instancia, en Materia Penal;
+
+II.- En única instancia, de las demandas de responsabilidad civil presentadas en contra de los magistrados de los Tribunales Unitarios de Distrito y jueces, derivadas de su actuación en procesos penales;
+
+III.- De los recursos de apelación, cuya competencia corresponda al Tribunal Unitario, a petición fundada del propio Tribunal o de oficio por sus características especiales el asunto lo amerite; y
+
+IV.- De los demás asuntos que determinen las leyes.
+
+###### ARTICULO 24.
+
+Corresponde conocer a la Tercera Sala:
+
+I.- De los recursos de apelación contra sentencias definitivas pronunciadas por los Jueces de Primera Instancia, en asuntos de derecho familiar;
+
+II.- De las revisiones forzosas, en materia familiar;
+
+III.- En única instancia, las demandas de responsabilidad civil presentadas contra los Magistrados de Distrito y jueces de Primera Instancia, derivadas de asuntos de materia familiar; así como las que se formulen contra los integrantes de los Consejo Tutelares para Menores;
+
+IV.- De los recursos de apelación, cuya competencia corresponda al Tribunal Unitario, a petición fundada del propio Tribunal o de oficio, cuando por las características especiales el asunto lo amerite; y
+
+V.- Los demás asuntos que le señalen, esta Ley y demás disposiciones legales.
+
+###### ARTICULO 25.
+
+Para el desempeño de sus funciones cada Sala tendrá los Secretarios de acuerdos, de estudio y cuenta adscritos a cada uno de los magistrados, actuarios y demás servidores públicos, que requieran las necesidades del servicio y autorice el Presupuesto de Egresos.
+
+### CAPITULO V. DE LOS TRIBUNALES UNITARIOS DE DISTRITO
+
+### CAPITULO VI. DE LOS JUZGADOS DE PRIMERA INSTANCIA CIVILES, DE LO FAMILIAR, PENALES Y MIXTOS
+
+### CAPITULO VII. DE LOS CONSEJOS TUTELARES PARA MENORES
+
+### CAPITULO VIII. DE LOS JUECES DE CONCILIACION
+
+### CAPITULO IX. DE LOS SECRETARIOS, OFICIAL MAYOR, ACTUARIOS Y DEMAS EMPLEADOS DE LA ADMINISTRACION DE JUSTICIA
+
+###### ARTICULO 26.
+
+Los Tribunales Unitarios de Distrito, tendrán la jurisdicción y competencia que esta Ley les asigna, para su identificación se designarán por número ordinal y se distribuirán en el territorio del Estado, como sigue:
+
+I.- Primer Tribunal Unitario de Distrito, con residencia en la Capital del Estado y con jurisdicción en los Distritos judiciales de Saltillo y Parras de la Fuente;
+
+II.- Segundo Tribunal Unitario de Distrito, con residencia en la ciudad de Torreón y con jurisdicción en los distritos judiciales de Viesca y San Pedro;
+
+III.- Tercer Tribunal Unitario de Distrito, con residencia en la ciudad de Monclova y con jurisdicción en los Distritos Judiciales de Monclova y Sabinas; y
+
+IV.- Cuarto Tribunal Unitario de Distrito, con residencia en la ciudad de Piedras Negras y con jurisdicción en los distritos judiciales de Río Grande y Acuña.
+
+A los Tribunales Unitarios de Distrito quedarán adscritos, para los asuntos de su competencia, los demás órganos subalternos comprendidos dentro de la circunscripción territorial que esta Ley les tiene asignada.
+
+###### ARTICULO 27.
+
+Corresponde a los Tribunales Unitarios de Distrito, el conocimiento de los siguientes asuntos:
+
+I.- De los recursos de apelación y de queja respecto de autos y sentencias interlocutorias dictadas por los jueces de Primera Instancia que estén adscritos a su circunscripción territorial, en asuntos civiles, penales y familiares; así como del recurso de apelación extraordinaria en todos los casos previstos por la Ley.
+
+II.- De los impedimentos, excusas y recusaciones de los Jueces de Primera Instancia de su adscripción;
+
+III.- De los conflictos de competencia que se susciten entre los diversos órganos judiciales de su adscripción;
+
+IV.- Resolver las denuncias, quejas y acusaciones por faltas administrativas que se presenten en contra del personal del Tribunal Unitario; y
+
+V.- Las demás que señalen las leyes.
+
+###### ARTICULO 28.
+
+Al magistrado titular del Tribunal Unitario corresponde:
+
+I.- Nombrar y remover al personal del Tribunal, en los términos que señale la Ley;
+
+II.- Proponer, como corresponda, al personal judicial que se haga acreedor a recibir estímulos y recompensas;
+
+III.- Rendir al Tribunal Pleno, informe mensual de las labores desarrolladas;
+
+IV.- Conceder licencias económicas por causa justificada, con goce de sueldo o sin él, hasta por quince días al personal que dependa del Tribunal;
+
+V.- Vigilar el debido desempeño de las labores del personal, tomando las medidas convenientes para la prestación eficaz del servicio de administración de justicia; y
+
+VI.- Las demás que le confiera la Ley y el Pleno del Tribunal.
+
+###### ARTICULO 29.
+
+Cada Tribunal Unitario de Distrito tendrá, además del magistrado titular, los secretarios de acuerdos, de estudio y cuenta, actuarios y demás personal que requieran las necesidades del servicio y autorice el Presupuesto de Egresos.
+
+### CAPITULO I. DEL CONSEJO DE LA JUDICATURA
+
+###### ARTICULO 30.
+
+En los distritos judiciales del Estado habrán los Juzgados de Primera Instancia en Materia Civil, Familiar, Penal y Mixtos que autorice el Pleno del Tribunal Superior de Justicia, atendiendo a las necesidades del servicio y a la disponibilidad presupuestal.
+
+Los Juzgados tendrán la residencia y jurisdicción territorial que acuerde el propio Pleno del Tribunal.
+
+###### ARTICULO 31.
+
+Cuando funcionen en un mismo lugar varios Juzgados de Primera Instancia en Materia Civil o de lo Familiar, el Pleno del Tribunal Superior de Justicia acordará el sistema de recepción, turnos y distribución de demandas entre los mismos.
+
+Tratándose de Juzgados Penales, éstos conocerán por riguroso turno semanal.
+
+###### ARTICULO 32.
+
+En los Juzgados de Primera Instancia, habrá un juez que será el titular del órgano, el número de Secretarios, Actuarios y empleados que requieran, conforme a las necesidades del servicio y que autorice el Presupuesto de Egresos.
+
+###### ARTICULO 33.
+
+Los jueces de Primera Instancia, en Materia Civil conocerán:
+
+I.- De los asuntos civiles de jurisdicción contenciosa, común y concurrente; excepto si se controvierten cuestiones relacionadas con el patrimonio de familia, en los cuales la competencia corresponde a los jueces de lo Familiar.
+
+II.- De los juicios hereditarios y de sus conexidades, así como de las acciones de petición de herencia;
+
+III.- De los negocios de jurisdicción voluntaria cuyo conocimiento no corresponda específicamente a los jueces de lo Familiar;
+
+IV.- De las diligencias preliminares de consignación en asuntos de carácter civil;
+
+V.- De las diligencias de exhortos, rogatorias, suplicatorias, requisitorias y despachos, relacionados con asuntos civiles;
+
+VI.- De los asuntos en Materia Familiar, cuando en el lugar de su residencia no haya juzgado de esa Materia;
+
+VII.- De los negocios de la competencia de los jueces de Primera Instancia en Materia Penal, en los casos de impedimento, recusación o excusa de éste; y
+
+VIII.- De los demás asuntos que le encomienden las Leyes.
+
+###### ARTICULO 34.
+
+Los jueces de Primera Instancia en Materia Penal conocerán:
+
+I.- De los procesos por delitos del orden común;
+
+II.- De los asuntos de lo familiar por incompetencia subjetiva del juez de esa materia, los jueces penales solamente conocerán si también el juez civil del mismo lugar está impedido;
+
+III.- De la diligenciación de exhortos, requisitorias, rogatorias, suplicatorias y despachos, relacionadas con asuntos penales; y
+
+IV.- De los demás asuntos que les competan de acuerdo con las leyes.
+
+###### ARTICULO 35.
+
+Los Jueces de Primera Instancia en Materia Familiar conocerán:
+
+I.- De los procedimientos contenciosos relativos al matrimonio, a la ilicitud o nulidad del mismo y al divorcio, incluyendo los que se refieren al régimen de bienes en el matrimonio; de los que tengan por objeto modificaciones o rectificaciones en las actas del Registro Civil; de los que afecten el parentesco, a los alimentos, a la paternidad y a la filiación legítima, natural o civil; de los que tengan por objeto cuestiones relativas a la patria potestad, estado de interdicción y tutela y las cuestiones de ausencia y de presunción de muerte; de los que se refieran a cualquier cuestión relacionada con el patrimonio de familia como su constitución, disminución, extinción o afectación en cualquier forma;
+
+II.- De los negocios de jurisdicción voluntaria relacionados con el Derecho Familiar;
+
+III.- De los asuntos concernientes a otras acciones relativas al estado civil, a la capacidad de las personas y a las derivadas del parentesco;
+
+IV.- De las diligencias de consignación en todo lo relativo al derecho familiar;
+
+V.- De la diligenciación de los exhortos, requisitorias y despachos, relacionados con el derecho familiar; y
+
+VI.- De las cuestiones que afecten en sus derechos de personas a los menores e incapacitados y, en general, de todas las cuestiones familiares que reclamen la intervención judicial.
+
+###### ARTICULO 36.
+
+Los Jueces Mixtos de Primera Instancia conocerán de las causas civiles, penales y de lo familiar, con las facultades y atribuciones que establecen los artículos 33, 34 y 35 de esta Ley.
+
+###### ARTICULO 37.
+
+Son facultades y obligaciones de los jueces de Primera Instancia, en la esfera de su competencia:
+
+I.- Practicar visitas a los Centros de Readaptación Social, cuando menos cada mes, para los efectos de la parte final del artículo 19 de la Constitución General de la República e informar a los reos sobre el estado de su proceso;
+
+II.- Remitir cada mes al Tribunal Superior de Justicia una relación de los procesos y procesados, expresando en ella los nombres de éstos, delito o delitos, número de la causa, así como el estado que guardan;
+
+III.- Dar aviso al Tribunal, por duplicado, a más tardar dentro del tercer día, de la iniciación de los procesos de su competencia; de lo que en término de setenta y dos horas se resuelva; de los beneficios concedidos en su caso, al inculpado; de la suspensión del procedimiento o del auto de sobreseimiento; así como de las sentencias con las que concluyan;
+
+IV.- Dar aviso al Tribunal, por duplicado, a más tardar dentro del tercer día, de la iniciación de los juicios civiles de su competencia; de los autos definitivos que les pongan término; de los que ordenan su archivo provisional en espera de su promoción y de los que citen para sentencia; así como de la sentencia con la que concluyan;
+
+V.- Practicar las diligencias que el Pleno o la Sala del Tribunal, los Tribunales Unitarios o los jueces del Estado, les soliciten en auxilio judicial, así como las que con el mismo carácter les sean solicitadas por los Tribunales de la Federación y de otras entidades de la República;
+
+VI.- Nombrar y remover en los términos de ley, a los secretarios, actuarios y demás servidores públicos de su dependencia;
+
+VII.- Conceder licencias con goce de sueldo hasta por quince días, por causa justificada y por una sola vez al año, a los servidores públicos de su dependencia;
+
+VIII.- Ejercer en términos de ley, la jurisdicción disciplinaria que le corresponde respecto de su personal; y
+
+IX.- Las demás que les confieran las leyes.
+
+###### ARTICULO 38.
+
+Los jueces de Primera Instancia deberán rendir al Tribunal Superior de Justicia un informe estadístico mensual, en los primeros cinco días de cada mes y otro anual en los primeros cinco días del mes de septiembre de cada año, de asuntos iniciados en trámite y concluidos.
+
+###### ARTICULO 39.
+
+En los Juzgados de Primera Instancia habrá los Secretarios de estudio y cuenta que las necesidades del servicio requieran y autorice el Presupuesto de Egresos.
+
+### CAPITULO II. DE LA CARRERA JUDICIAL
+
+###### ARTICULO 40.
+
+En el Estado se instalarán los Consejos Tutelares para Menores que sean necesarios para atender los asuntos y aplicar las medidas tutelares a los menores de dieciséis años en estado de abandono, peligro o infractores, así como para conocer de las accesoriedades que con estos asuntos se relacionen. Su residencia territorial, se determinara por el Pleno del Tribunal.
+
+###### ARTICULO 41.
+
+Los Consejos Tutelares para Menores se integrarán por tres miembros: Un licenciado en derecho, un médico y un pedagogo.
+
+###### ARTICULO 42.
+
+La Presidencia de los Consejos Tutelares la ejercerá el licenciado en derecho, sin perjuicio de la igualdad de sus miembros.
+
+###### ARTICULO 43.
+
+Cada Consejo Tutelar tendrá adscrito un secretario quien deberá reunir los mismos requisitos que se exijan a los demás miembros para su designación, además de tener el título de licenciado en derecho; asimismo, contará con los empleados que señale el Presupuesto de Egresos.
+
+Prestarán también sus servicios, los trabajadores sociales que autorice el propio presupuesto y que con el carácter de agentes de Libertad Vigilada, realizarán las funciones de investigación, protección y vigilancia de los menores que el Consejo los encomiende.
+
+###### ARTICULO 44.
+
+Son facultades y obligaciones de los Consejos Tutelares para Menores:
+
+I.- Nombrar y remover al secretario y demás personal de su competencia;
+
+II.- Conocer de los asuntos de su competencia;
+
+III.- Sesionar cuando menos tres veces por semana, en los días y hora que determinen, cuidando que el tiempo destinado resulte suficiente para el debido despacho de los asuntos;
+
+IV.- Dar aviso al Tribunal Superior de Justicia de los expedientes que inicien;
+
+V.- Visitar semanalmente las Residencias Juveniles, con objeto de vigilar su funcionamiento, la exacta aplicación de las medidas tutelares decretaras en sus dictámenes integrales y los resultados que con las mismas se hayan alcanzado, comunicando al Director las deficiencias descubiertas y su decisión acerca de si el menor puede o no ser externado;
+
+VI.- Formular coordinadamente con la Procuraduría de la Defensa del Menor y la Familia y demás autoridades competentes, los programas de prevención en favor de los menores que estime convenientes, haciéndolos del conocimiento, tanto del Poder Ejecutivo del Estado como de aquellos ayuntamiento en cuya jurisdicción deban realizarse, con el objeto de que, en su caso, les brinden el apoyo necesario para su ejecución;
+
+VII.- Organizar el cuerpo de agentes de Libertad Vigilada qe (sic) actuará bajo sus órdenes directas y;
+
+VIII.- Rendir un informe mensual de sus actividades al Tribunal Superior de Justicia, en los primeros cinco días de cada mes y otro anual en los primeros cinco días del mes de septiembre.
+
+###### ARTICULO 45.
+
+Son facultades y obligaciones de los Presidentes de los Consejos Tutelares para Menores:
+
+I.- Representar al Consejo de todos los asuntos que les competan;
+
+II.- Tramitar los negocios cuyo conocimiento corresponda al Consejo, hasta ponerlos en estado de resolución;
+
+III.- Distribuir, entre los miembros del Consejo, todos los informes que se reciban relacionados con los menores sujetos a su jurisdicción, para que cada uno de ellos realice el estudio del caso que haya de resolverse;
+
+IV.- Presidir las sesiones del Consejo, dirigir los debates y poner a votación los negocios, cuando hayan sido suficientemente discutidos;
+
+V.- Vigilar que las resoluciones definitivas se pronuncien con arreglo a la Ley;
+
+VI.- Cuidar de que las labores del Consejo se desarrollen normalmente y dentro de los plazos que señale la Ley;
+
+VII.- Proponer a los demás miembros y, en su caso, al Tribunal Superior de Justicia, las medidas y acuerdos que juzgue convenientes para el mejor funcionamiento de la Institución;
+
+VIII.- Cuidar que los delegados de su adscripción, cumplan con las funciones que la ley les encomiende, y comunicar al Tribunal Superior de Justicia las omisiones e irregularidades en que incurran;
+
+IX.- Mantener el orden dentro del Consejo e imponer, en caso necesario, las medidas disciplinarias correspondientes;
+
+X.- Aplicar, en los términos que corresponda, las sanciones por faltas administrativas al personal del Consejo Tutelar;
+
+XI.- Llamar a los supernumerarios que deben suplir, en sus faltas temporales, a los propietarios;
+
+XII.- Dar a conocer al presidente del Patronato del Sistema para el Desarrollo Integral de la Familia, a la Dirección de Prevención y Readaptación Social y a las autoridades coadyuvantes, los acuerdos que el Consejo en Pleno haya tomado para prevenir la comisión de conductas antisociales;
+
+XIII.- Remitir al Tribunal Superior de Justicia del Estado, en los primeros diez días de cada mes, un informe del movimiento de los asuntos habidos durante el mes anterior;
+
+XIV.- Presidir el Consejo Técnico Interdisciplinario de las Residencias Juveniles de su adscripción; y
+
+XV.- Las demás que establezca la ley.
+
+###### ARTICULO 46.
+
+En los lugares en que no existen Consejos Tutelares para Menores, los jueces de lo Familiar, y en su defecto los de Primera Instancia del Ramo Civil y los Mixtos que designe el Tribunal Superior de Justicia en Pleno, funcionarán como delegados de aquellos, dentro de la adscripción y con la jurisdicción que el propio Tribunal Pleno les asigne.
+
+### CAPITULO III. DE LAS DESIGNACIONES
+
+###### ARTICULO 47.
+
+En cada municipio, habrá el número de Jueces de Conciliación que el Ayuntamiento respectivo considere indispensables, fijando su residencia de acuerdo con los Jueces de Primera Instancia de la jurisdicción.
+
+###### ARTICULO 48.
+
+Son atribuciones de los Jueces de Conciliación:
+
+I.- Intervenir en los negocios civiles cuya cuantía no exceda de 150 días de salario mínimo general, vigente en la Capital del Estado, oyendo a las partes por el sólo efecto de procurar su conciliación y avenimiento y, logrado que sea, levantará un acta en la que hará constar lo convenido entre las partes, autorizándola el juez con dos testigos de asistencia y firmándola los interesados, si supieren hacerlo.
+
+Si no se lograra la conciliación, los jueces emitirán opinión a verdad sabida y buena fe guardada, sobre cual de las partes tiene la razón, haciéndolo saber a los interesados. Si esta opinión no fuera objetada en el término de 3 días se tendrá como resolución definitiva.
+
+En caso contrario, reservarán el derecho a los interesados.
+
+Los convenios celebrados ante los jueces de Conciliación tendrán efecto de sentencia ejecutoriada.
+
+II.- Dar aviso al Ministerio Público, de los hechos que se presuman delictuosos ocurridos dentro del territorio en que actúen;
+
+III.- Dictar las medidas necesarias para la aprehensión de los presuntos responsables, en caso de flagrante delito;
+
+IV.- Tomar la declaración del ofendido, cuando se tratare de delitos contra la integridad física, dando fe del estado en que haya sido encontrado;
+
+V.- Recoger las armas, instrumentos y demás objetos que hayan servido para la comisión del delito, dando fe de las circunstancias en que fueron encontradas;
+
+VI.- Dar fe de las huellas materiales que dejaren los hechos delictuosos, dictando las medidas necesarias para que no desaparezcan, en tanto la autoridad competente tome las medidas que correspondan;
+
+VII.- Practicar las diligencias que les encomienden los jueces de Primera Instancia; y
+
+VIII.- Las demás que les fije la Ley.
+
+### CAPITULO IV. DE LA PERMANENCIA EN EL CARGO
+
+###### ARTICULO 49.
+
+Los Secretarios de acuerdos y los actuarios, tendrán fe pública en todo lo relativo al ejercicio de su cargo. Igual fe tendrán los demás empleados de la administración de justicia que en cada caso autorice la ley, el Tribunal Superior de Justicia, Sala, Tribunal Unitario o juez de Primera Instancia, para desempeñar funciones secretariales.
+
+###### ARTICULO 50.
+
+Son obligaciones de los secretarios de Acuerdos:
+
+I.- Recibir los escritos que se les presenten, anotando al calce: la razón del día y hora de presentación del documento y el nombre de la persona que la haga; el número de fojas que contengan y documentos que se acompañen. Asimismo, deben asentar razón idéntica en la copia, cuando se exija, con la firma de quien recibe el escrito y el sello de la oficina, para que dicha copia quede en poder del interesado para su resguardo;
+
+II.- Dar cuenta diariamente al Superior de quien dependa, bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a la de su presentación, con los escritos, oficios, promociones y demás documentos que se reciban;
+
+III.- Autorizar los despachos, exhortos, requisitorias, actas, diligencias, autos y toda clase de resoluciones que se expidan, asienten, practiquen o dicten por el Tribunal Superior, Sala, Tribunal Unitario o juez correspondiente;
+
+IV.- Hacer constar en los expedientes, el día en que comienzan a correr los términos y aquel en que deban concluir; cuidando que los procedimientos se desarrollen en los términos y plazos que establece la Ley;
+
+V.- Asistir a las diligencias de prueba que se reciban en el Pleno del Tribunal, la Sala, el Tribunal Unitario o el Juez, en su caso;
+
+VI.- Expedir y autorizar las copias que la ley determine o que deban darse a las partes por decreto judicial;
+
+VII.- Cuidar de que los expedientes sean debidamente foliados al agregarse cada una de las hojas, sellando por sí mismo las actuaciones, oficios y demás documentos que lo requieran, estampando su rúbrica en el centro del escrito;
+
+VIII.- Guardar en el secreto de la oficina, bajo su responsabilidad, los valores, escritos y documentos, cuando así lo disponga la ley;
+
+IX.- Levantar inventario y conservar en su poder los expedientes en trámite, mientras no se remitan al Archivo Judicial o al Superior, en su caso, debiendo entregarlos con las formalidades legales, cuando haya lugar a la remisión;
+
+X.- Proporcionar a los interesados los expedientes en que fueren partes y que soliciten para informarse del estado de los mismos, o para cualquier otro efecto legal, siempre que sea en su presencia y sin extraer las actuaciones de la oficina;
+
+XI.- Notificar personalmente a las partes, en los juicios o asuntos en trámite, con arreglo al artículo 110 y demás relativos del Código de Procedimientos Civiles;
+
+XII.- Evacuar las audiencias y practicar las diligencias que se les encomienden;
+
+XIII.- Remitir los expedientes al Archivo Judicial, a la Superioridad o al substituto legal, previa anotación en el libro de control;
+
+XIV.- Ordenar y vigilar que se despachen sin demora los asuntos y correspondencia del Tribunal Superior, de la Sala, Tribunal Unitario de Distrito o Juzgado, según corresponda;
+
+XV.- Tener a su cargo, bajo su responsabilidad, los libros pertenecientes a la oficina, designando, entre los servidores subalternos, al que deba llevarlos;
+
+XVI.- Conservar en su poder el sello de la oficina;
+
+XVII.- Administrar los gastos de oficio;
+
+XVIII.- Ejercer la supervisión y control sobre todos los servidores de su dependencia y proponer, en su caso, la imposición de medidas disciplinarias contra quienes no cumplan con su función; y
+
+XIX.- Las demás funciones que la ley les encomiende.
+
+###### ARTICULO 51.
+
+Los secretarios de estudio y cuenta, proyectarán, bajo la más absoluta reserva, las resoluciones que les encomienden el magistrado o el juez, al cual se encuentren adscritos, previo estudio que hagan del asunto. Para tal efecto, el magistrado o el juez, instruirán al secretario sobre los motivos de hecho y de derecho que deban fundar el proyecto de resolución.
+
+###### ARTICULO 52.
+
+El Tribunal Superior de Justicia contará con un oficial mayor, quien deberá reunir los siguientes requisitos: ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos; no tener más de sesenta y cinco años de edad el día de la designación; tener título oficial de abogado, en el área de administración.
+
+El Oficial Mayor tendrá las siguientes atribuciones:
+
+I.- Llevar el registro de abogados en ejercicio y la hoja de servicios d (sic) magistrados, jueces y demás servidores públicos, así como de los auxiliares de la administración de justicia;
+
+II.- Elaborar los sistemas de organización y métodos de trabajo de las dependencias judiciales y sugerir los cambios que juzgue pertinentes;
+
+III.- Ponderar los requerimientos de la administración de justicia y las necesidades existentes, acordando lo conducente con el presidente del Tribunal;
+
+IV.- Preparar anualmente el anteproyecto del Presupuesto de Egresos del Poder Judicial y ejercerlo conforme a las políticas generales que señale el presidente del Tribunal;
+
+V.- El manejo y la administración de la Revista de información judicial;
+
+VI.- Llevar el control de la información estadística de todas las dependencias del Poder Judicial; y
+
+VII.- Atender los demás asuntos que le correspondan, en los términos de la Ley o aqullos (sic) cuya atención le encomiende el Pleno o el Presidente del Tribunal Superior.
+
+###### ARTICULO 53.
+
+Los actuarios tendrán las obligaciones siguientes:
+
+I.- Recibir de los secretarios de acuerdos los expedientes de notificación personal, o de diligencias que deban efectuarse fuera de la oficina, firmando los conocimientos respectivos;
+
+II.- Hacer la notificación personal y practicar las diligencias decretadas, dentro de las horas hábiles del día, levantando el acta correspondiente en el lugar en que se efectúen y devolviendo el expediente al Secretario, previas las anotaciones correspondientes en el libro respectivo; y
+
+III.- Las demás que la ley o sus superiores les encomienden.
+
+###### ARTICULO 54.
+
+Los demás servidores públicos de las dependencias judiciales, desempeñarán las labores que la ley o sus superiores les encomienden.
+
+###### ARTICULO 55.
+
+El Pleno del Tribunal Superior de Justicia determinará los requisitos que deban satisfacer los pasantes que cumplan con su servicio social adscrito a las diversas dependencias del Poder Judicial, y les señalará sus derechos y deberes.
+
+Los pasantes de cada dependencia deberán llevar un libro y cumplir con las obligaciones inherentes al puesto de su asignación.
+
+## TITULO CUARTO. DE LAS CONDICIONES PARA EJERCER LA FUNCION JUDICIAL
+
+### CAPITULO V. DE LAS INCOMPATIBILIDADES
+
+###### ARTICULO 56.
+
+El Consejo de la Judicatura del Estado es un órgano de gobierno honorario que tendrá como funciones exclusivas intervenir en el nombramiento, inspección y régimen disciplinario del personal a servicio del Poder Judicial.
+
+Estará integrado por el presidente del Tribunal Superior de Justicia, quien lo presidirá; por el procurador general de Justicia, por un representante designado por el Congreso que cuente con título de abogado y haya ejercido la profesión cinco años por lo menos; por el magistrado del Tribunal Unitario de Distrito y el Juez de Primera Instancia que tenga mayor antigüedad en el ejercicio del cargo y por los decanos de los notarios y abogados de la capital del Estado que estén en activo.
+
+En el caso de que haya dos o más magistrados de distrito, o dos o más jueces de Primera instancia con la misma antigüedad, integrará el Consejo de la Judicatura de mayor edad, según corresponda.
+
+###### ARTICULO 57.
+
+Para el desempeño de sus funciones, el Consejo de la Judicatura expedirá su propio reglamento interior, tomando en consideración las bases siguientes:
+
+I.- Sesionará cuando menos una vez cada tres meses y cuantas veces sea convocado por sus presidente;
+
+II.- Para la validez de su acuerdo será necesaria la asistencia de la mayoría de sus integrantes;
+
+III.- El presidente tendrá voto de calidad;
+
+IV.- El Consejo de la Judicatura, por conducto del presidente del Tribunal Superior, podrá solicitar el auxilio de los magistrados de los Tribunales Unitarios de Distrito y de los Jueces de Primera Instancia. Ese mismo auxilio podrá solicitarlo el Ministerio Público a través del procurador general de justicia y de los colegios de abogados y notarios, a través de sus respectivos presidentes; y
+
+V.- Contará con un secretario que deberá satisfacer los mismos requisitos que los secretarios de estudio y cuenta.
+
+###### ARTICULO 58.
+
+Cuando deba designarse magistrados del Tribunal Superior de Justicia, propondrá al Gobernador del Estado, la lista de candidatos, que no podrá ser menor de tres para cada magistrado numerario o supernumerario. Para la formulación de estas listas, el Consejo de la Judicatura cuidará que los propuestos satisfagan los requisitos del artículo 13 de la Constitución Política del Estado, prefiriendo en todo caso, a aquellas personas que estén prestando o hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad y competencia, ampliamente acreditada en el ejercicio de la profesión de abogado.
+
+###### ARTICULO 59.
+
+El Consejo de la Judicatura emitirá opinión fundada en el improrrogable término de cinco días, en todos los casos de nombramientos que deba hacer el Pleno del Tribunal Superior de Justicia, de magistrados de los Tribunales Unitarios de Distrito, de jueces de Primera Instancia y de integrantes de Consejos Tutelares para Menores.
+
+Cuando la opinión del Consejo de la Judicatura sea unánimemente adversa a una propuesta, el Pleno del Tribunal Superior sólo podrá sostenerla mediante el voto de las dos terceras partes de sus integrantes.
+
+Si el Consejo de la Judicatura no admite opinión dentro del término a que se refiere el primer párrafo de este artículo, el Pleno del Tribunal procederá a hacer la designación correspondiente.
+
+###### ARTICULO 60.
+
+El Consejo de la Judicatura vigilará el estricto cumplimiento de las garantías constitucionales de la jurisdicción comprendidas en el ámbito de aplicación de esta Ley. En consecuencia, podrá solicitar ante la autoridad competente el cumplimiento estricto de las bases que regulan la carrera judicial; denunciar ante la propia autoridad todo acto arbitrario que afecte la permanencia de su cargo a cualquier miembro del Poder Judicial que en su concepto mantenga las cualidades o atributos que dieron lugar a su nombramiento y solicitar el ejercicio de la jurisdicción disciplinaria por la conducta de aquellos que así lo ameriten.
+
+### CAPITULO VI. DE LA TERMINACION DEL CARGO
+
+###### ARTICULO 61.
+
+La carrera judicial importa la determinación del sistema de ingreso en la judicatura y la forma como se obtiene el ascenso dentro de ella.
+
+###### ARTICULO 62.
+
+Las condiciones para el ingreso, formación, permanencia, ascenso y retiro del personal de servicio de la administración de justicia se sujetará a las bases siguientes:
+
+I.- La Presidencia del Tribunal Superior de Justicia, por conducto de la Oficialía Mayor, formará un cuerpo de aspirantes que integrará con los abogados y pasantes de derecho que deseen ingresar a la carrera judicial y que reúnan los requisitos para ocupar los cargos de entrada en las especializaciones civil, familiar, penal y tutelar conforme a la reglamentación que se expida para las admisiones;
+
+II.- El ingreso a la carrera judicial presupone la asistencia a los cursos que imparte el Instituto de Especialización Judicial y la aprobación del examen de méritos;
+
+III.- La carrera judicial se inicia en el puesto de actuario de juzgado de primera instancia y terminará en el de Magistrado del Tribunal;
+
+IV.- Los ascensos del escalafón sólo podrán hacerse con la voluntad del interesado, quien no podrá ser suspendido o cesado, salvo por falta o delitos y en la forma y términos que dispone esta Ley;
+
+V.- El Pleno del Tribunal Superior de Justicia será la única autoridad facultada para formalizar el examen de mérito y acordar nombramientos y ascensos;
+
+VI.- Todos los magistrados de los Tribunales Unitarios de Distrito, jueces, secretarios y actuarios serán numerados en los escalafones correspondientes a sus especialidades civil, familiar, penal y tutelar para menores;
+
+VII.- Cada especialidad del escalafón se dividirá en categorías ascendentes tomando como base las cantidades percibidas por concepto de sueldo y la categoría de la función;
+
+VIII.- Los factores de ascenso para la carrera judicial serán: los antecedentes profesionales, la antigüedad en el servicio judicial, la diligencia en el despacho de los asuntos, los datos de la hoja de servicios y el resultado del examen de méritos;
+
+IX.- No podrán ascender a ningún puesto superior, los que carezcan de algún requisito legal;
+
+X.- Las promociones escalafonarias serán públicas, para que soliciten su ascenso quienes se crean con derecho a ello;
+
+XI.- Los servidores de la administración de justicia de carrera disfrutarán de sueldos iguales cuando estén comprendidos en la misma categoría; y
+
+XII.- Salvo caso de renuncia voluntaria, cese o jubilación por causa justificada, la carrera judicial termina a los 70 años, en cuya edad la jubilación será forzosa.
+
+###### ARTICULO 63.
+
+Las vacantes que se registren en los cargos de magistrados de Tribunales Unitarios, jueces de Primera Instancia y consejeros de los Tribunales Tutelares para Menores, así como la de secretario, cualquiera que sea su categoría, y demás servidores públicos de la administración de justicia, serán cubiertas por escalafón, teniendo en cuenta la capacidad y aptitud del aspirante; su eficacia en sus actividades anteriores; las calificaciones periódicas que haya obtenido por su conducta, organización, rendimiento y calidad de su trabajo, en el ejercicio de los cargos que haya desempeñado; las calificaciones que haya obtenido en el Instituto de Especialización Judicial; y en igualdad de circunstancias, su antigüedad en el servicio; sin perjuicio de que también puedan cubrirse las vacantes con personas que, aunque no presten sus servicios al Poder Judicial, los hayan prestado con eficiencia y probidad notorias o por personas que sean merecedoras por su honradez, competencia y antecedentes. En todo caso, unos y otros deberán sustentar y aprobar el examen de méritos correspondiente.
+
+###### ARTICULO 64.
+
+El orden de escalafón en los cargos judiciales, es el siguiente:
+
+a).- Actuario de Juzgado de Primera Instancia;
+
+b).- Actuario del Tribunal Unitario de Distrito;
+
+c).- Actuario del Tribunal Superior de Justicia;
+
+d).- Secretario de Juzgado de Primera Instancia;
+
+e).- Secretario de acuerdo y trámite y de estudio y cuenta del Tribunal Unitario de Distrito;
+
+f).- Secretario de acuerdo y trámite de las Salas del Tribunal Superior de Justicia;
+
+g).- Secretario de estudio y cuenta de las Salas y Secretario del Pleno del Tribunal Superior de Justicia;
+
+h).- Juez de Primera Instancia y presidente del Consejo Tutelar para Menores; y
+
+i).- Magistrado del Tribunal Unitario.
+
+Los jueces de Conciliación no tendrán derecho a ascenso por escalafón; sin embargo, podrá hacer aplicación para obtener una categoría superior a partir de Secretario de Juzgado de Primera Instancia siempre y cuando reúnan los requisitos que para la misma exija la Ley y sustenten y aprueben el examen de méritos correspondiente, debiendo tomarse en consideración en todo caso la eficiencia y probidad con que se hayan desempeñado.
+
+###### ARTICULO 65.
+
+Los ascensos por escalafón y el examen de méritos que deben sustentar y aprobar los aspirantes a un cargo dentro de la judicatura, responden al propósito de lograr una rigurosa selección de servidores capaces y moralmente idóneos, para preservar la dignidad del Poder Judicial.
+
+###### ARTICULO 66.
+
+Habrá lugar a aplicar examen de méritos:
+
+I.- Para ingresar por primera vez a la Judicatura;
+
+II.- Para obtener un ascenso, cuando ocurra una vacante en un cargo de categoría superior, de acuerdo con el escalafón; y
+
+III.- En todos los casos, cuando tengan lugar nuevos nombramientos.
+
+Anualmente se aplicarán exámenes de méritos a quienes deseen ingresar o ascender dentro de la judicatura, cuando ocurran vacantes, y quienes resulten aprobados formarán parte de la reserva, cuyo registro se llevará en la Presidencia del Tribunal.
+
+###### ARTICULO 67.
+
+El examen de méritos constará de un reconocimiento oral sobre las materias de derecho que tengan relación con el cargo a que se aspira y, por escrito, sobre casos practicados que puedan presentarse en el desempeño de ese cargo.
+
+Antes de implementar el examen, el Pleno del Tribunal examinará los expedientes de los aspirantes y podrá excluir a los que no reúnan las condiciones legales.
+
+No se harán públicos los motivos de la exclusión, a menos que lo pida el excluido.
+
+###### ARTICULO 68.
+
+El Pleno del Tribunal, señalará, oportunamente, el lugar, día y hora en que habrán de inscribirse los aspirantes y sustentarse los exámenes de méritos; lo que se hará saber mediante circulares y avisos que se fijen en los estrados de los juzgados y del Tribunal.
+
+###### ARTICULO 69.
+
+Calificado el examen de méritos, se darán a conocer los nombres de quienes lo hayan aprobado, según lo dispuesto en la parte final del artículo anterior.
+
+###### ARTICULO 70.
+
+Al escoger entre los aspirantes que hayan aprobado, no se preferirá al de grado inferior o de especialidad distinta en relación con el cargo vacante sino cuando su calificación sea más alta que la de los de grado superior o de la misma especialidad.
+
+###### ARTICULO 71.
+
+En caso de que el número de concursantes sea superior al número de vacantes por cubrir, el ingreso se determinará por orden de calificaciones, atentos los demás requisitos que establece esta Ley.
+
+Cumplida la provisión de vacantes, los nombres de los aspirantes aprobados y no designados, continuarán figurando con sus calificaciones, durante el período respectivo, y serán enviados a quien corresponda llevar el registro de reservas.
+
+###### ARTICULO 72.
+
+El Pleno del Tribunal deberá ser informado oportunamente de los resultados generales de los exámenes de mérito, de los aspirantes aprobados y designados, así como de los aprobados que hayan de quedar en la reserva.
+
+###### ARTICULO 73.
+
+Inmediatamente que ocurra una vacante, el titular de la dependencia a quien corresponda la designación, dará aviso a la Presidencia del Tribunal Superior de Justicia para el envío actualizado de la lista de aspirantes en reserva.
+
+###### ARTICULO 74.
+
+Cuando no haya aspirantes aprobados para cubrir una vacante porque no se registren solicitudes, o se hubiere declarado desierto el examen de méritos, podrá prescindirse provisionalmente de este requisito y hacerse designación discrecional, con carácter interino, mientras se satisface. En tal caso no se producirá ascenso en el escalafón, ni permanencia en el cargo, más allá del tiempo necesario para que se cubra dicha formalidad.
+
+###### ARTICULO 75.
+
+Todos los titulares de las dependencias del Poder Judicial, comunicarán a la Presidencia del Tribunal Superior de Justicia la designación que hagan, a más tardar dentro del tercer día.
+
+###### ARTICULO 76.
+
+Todos los servidores públicos del Poder Judicial, deberán enviar su hoja de servicios, a la Oficialía Mayor de la Presidencia del Tribunal, con los datos que se les soliciten, dentro de los treinta días siguientes a la fecha de su designación.
+
+###### ARTICULO 77.
+
+Los jueces de Conciliación serán nombrados cada tres años por el Tribunal Superior de Justicia, a propuesta en terna de los ayuntamientos, y podrán desempeñar el cargo en períodos sucesivos. El período se iniciará el día primero de febrero y concluirá el día treinta y uno de enero, una vez transcurrido el término de tres años.
+
+Las ternas que propongan los ayuntamientos deberán integrarse, con personas que presten o hayan prestado sus servicios, con eficiencia y probidad, al Poder Judicial del Estado en cualquier cargo de confianza, o por aquellas personas que sean merecedoras por su honorabilidad, competencia y conocimiento del derecho.
+
+###### ARTICULO 78.
+
+Los servidores públicos de base del Poder Judicial, tendrán derecho a ascensos por escalafón, en los términos que establezca la Ley del Servicio Civil.
+
+### CAPITULO I. DE LA INSTALACION DE LOS PERIODOS DE SESIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
+
+###### ARTICULO 79.
+
+Los nombramientos de los magistrados y jueces integrantes del Poder Judicial serán hechos, preferentemente, entre aquellas personas que hayan prestado su servicio con eficiencia y probidad en la administración de justicia, o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+###### ARTICULO 80.
+
+Para ser nombrado Magistrado, se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento y coahuilense, en el pleno ejercicio de sus derechos políticos y civiles;
+
+II.- No tener más de 65 años de edad, ni menos de 35, el día de la designación;
+
+III.- No (sic) tener título oficial de abogado y haber ejercido la profesión cinco años por lo menos;
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena; y
+
+V.- Tener residencia en el Estado durante los últimos cinco años, salvo el caso de ausencia por desempeño de cargo público al servicio de la Federación o del Estado.
+
+###### ARTICULO 81.
+
+Los nombramientos de los magistrados del Tribunal Superior de Justicia serán hechos por el gobernador del Estado de la lista de candidatos que le presente el Consejo de la Judicatura y sometidos a la aprobación del Congreso, el que la otorgará o negará dentro del improrrogable término de cinco días.
+
+La lista de candidatos podrá ser rechazada por el Ejecutivo por una sola ocasión, en cuyo caso el Consejo de la Judicatura someterá a su consideración una nueva para que formule nombramiento.
+
+Cuando el Congreso no resuelva dentro del término que se señala para el efecto, se tendrán por aprobados los nombramientos.
+
+En el caso de que el Congreso del Estado no apruebe un nombramiento, el Gobernador del Estado hará una nueva designación dentro de las propuestas, que surtirá sus efectos desde luego, como provisional y que será sometido a la aprobación del propio Congreso en el siguiente período ordinario de Sesiones. En este período de sesiones, dentro de los primeros cinco días, el Congreso deberá aprobar o desaprobar el nombramiento, y si lo aprueba o nada resuelve, el magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Congreso desecha el nombramiento, se reiterará el procedimiento, cesando desde luego el magistrado provisional.
+
+###### ARTICULO 82.
+
+Para ser designado magistrado de Tribunal Unitario de Distrito, se requieren los mismos requisitos que para ser nombrado magistrado del Tribunal Superior de Justicia del Estado, más el haber sustentado y aprobado el examen de mérito.
+
+###### ARTICULO 83.
+
+Para ser juez de Primera Instancia, se requiere:
+
+I.- Ser mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+
+II.- No tener más de sesenta y cinco años de edad, ni menos de veinticinco, el día de la designación;
+
+III.- Tener título oficial de abogado y haber ejercido la profesión tres años por lo menos;
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena; y
+
+V.- Sustentar y aprobar el examen de méritos.
+
+###### ARTICULO 84.
+
+Los magistrados de los Tribunales Unitarios de Distrito y los jueces de Primera Instancia, serán nombrados por el Pleno del Tribunal Superior de Justicia del Estado.
+
+Se establecen dos turnos para los nombramientos de magistrados y jueces comprendidos en los escalafones correspondientes a las especialidades.
+
+El Primer Turno, en el que se cubrirán el 70% de las vacantes por ascensos, con sujeción estricta al escalafón previa la aprobación del examen de méritos.
+
+Segundo Turno, en el que se cubrirán el 30% de las vacantes entre quienes reúnan méritos sobresalientes y excepcionales en el ejercicio libre de la profesión o en otro ramo del gobierno distinto al judicial, siempre y cuando aprueben el examen de méritos.
+
+Cuando no haya aspirantes en propuestas para cubrir las vacantes del Segundo Turno, se estará a lo dispuesto para el primer turno.
+
+###### ARTICULO 85.
+
+Para integrar el Consejo Tutelar para Menores deben satisfacerse los requisitos siguientes:
+
+I.- Ser mexicano por nacimiento, en pleno ejercicio de sus deberes civiles y políticos;
+
+II.- No tener menos de veinticinco años el día de su designación;
+
+III.- Tener conocimientos especializados sobre el estudio, prevención y tratamientos de la conducta del menor y de la familia;
+
+IV.- Ser de reconocido honorabilidad;
+
+V.- Preferentemente estar casados y tener descendencia; y
+
+VI.- Sustentar y aprobar el examen de méritos, en los términos de esta Ley.
+
+###### ARTICULO 86.
+
+Los miembros de los Consejos Tutelares para Menores serán nombrados conforme a las disposiciones de esta Ley, por el Pleno del Tribunal Superior, durarán en su encargo seis años, al término de los cuales podrán ser reelectos y, si lo fueren, sólo podrán ser movidos de acuerdo con lo dispuesto por el Título Sexto de la Constitución Política del Estado.
+
+El médico y el pedagogo deberán prestar, preferentemente sus servicios, en las Residencias Juveniles a cargo del Sistema para el Desarrollo Integral de la Familia.
+
+Por cada titular se designará un supernumerario, quien deberá reunir los mismos requisitos que aquel, para suplirlo en sus faltas temporales o caso de impedimento o excusa.
+
+###### ARTICULO 87.
+
+Para ser designado juez de conciliación, se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento y coahuilense, en el pleno ejercicio de sus derechos políticos y civiles;
+
+II.- No tener más de 65 años de edad, ni menos de 25, el día de la designación;
+
+III.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena impuesta;
+
+IV.- Tener residencia efectiva durante los últimos cinco años, en el lugar donde habrá de ejercerse la función; y
+
+V.- De preferencia, tener conocimientos en materia de derecho.
+
+###### ARTICULO 88.
+
+Los jueces de conciliación serán nombrados cada tres años por el Pleno del Tribunal de Justicia del Estado, a propuesta en terna de los ayuntamientos respectivos y podrán desempeñar el cargo en períodos sucesivos.
+
+###### ARTICULO 89.
+
+Para ser Secretario en cualquiera de sus calidades se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+
+II.- No tener más de sesenta y cinco años de edad, ni menos de veintiuno, el día de la designación;
+
+III.- Tener título oficial de abogado;
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará el cargo cualquiera qe (sic) haya sido la pena; y
+
+V.- Sustentar y aprobar el examen de méritos.
+
+###### ARTICULO 90.
+
+Los actuarios del Tribunal Superior, de los Tribunales Unitarios y de los Juzgados de Primera Instancia necesitan:
+
+I.- Ser ciudadano mexicano por nacimiento, mayor de edad, en ejercicio de sus derechos civiles y políticos;
+
+II.- Tener buenos antecedentes de moralidad;
+
+III.- Tener título de licenciado en derecho; y
+
+IV.- Sustentar y aprobar el examen de méritos.
+
+###### ARTICULO 91.
+
+Los Secretarios, cualquiera que sea su categoría, y los actuarios, serán nombrados por los titulares del órgano judicial del que dependan.
+
+###### ARTICULO 92.
+
+Los Magistrados del Tribunal Superior de Justicia al iniciar el ejercicio de su cargo, rendirán la protesta de Ley ante el Congreso del Estado, y en sus recesos, ante la Diputación Permanente.
+
+Los magistrados de distrito, los jueces de Primera Instancia y los integrantes del Consejo Tutelar para menores, lo harán ante el Tribunal Superior de Justicia.
+
+Los jueces de Conciliación protestarán ante el ayuntamiento del municipio en que residan.
+
+Los demás servidores de la administración de justicia, rendirán la protesta de Ley ante la autoridad de quien dependan.
+
+###### ARTICULO 93.
+
+La protesta de los servidores públicos del Poder Judicial, se otorgará ante quien corresponda, en los términos siguientes: "¿Protesta desempeñar leal y patrióticamente el cargo de (el que se confiere al interesado) que se le ha conferido; guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de ellas emanen y cumplir fielmente los deberes que dicho cargo impone, mirando en todo por el bien y prosperidad de la unión y del estado?". El interesado responderá: "Si protesto". La autoridad que toma la protesta añadirá: "Si no lo hiciereis así, el Estado os lo demande".
+
+###### ARTICULO 94.
+
+De toda protesta de los servidores públicos del Poder Judicial, se levantará acta con el número de copias necesarias, una de las cuales se remitirá a la Oficialía Mayor de la Presidencia del Tribunal, para ser agregada a la hoja de servicios correspondiente.
+
+### CAPITULO II. DEL TRIBUNAL PLENO
+
+###### ARTICULO 95.
+
+Los magistrados de distrito, los jueces de Primera Instancia y los integrantes de los Consejos Tutelares para menores, durarán seis años en el ejercicio de su encargo y durante este período no podrán ser removidos sin previo juicio político o disciplinario, en los términos previstos por la Constitución Política del Estado, la Ley de la materia y este ordenamiento.
+
+Los magistrados, los jueces y los integrantes del Consejo Tutelar para Menores que hayan sido reelectos, sólo podrán ser privados de sus puestos en los términos del Título Sexto de la Constitución Política del Estado.
+
+###### ARTICULO 96.
+
+Los Secretarios y Actuarios una vez designados, no podrán ser suspendidos o cesados, salvo por falta o delitos y en la forma y términos previstos en esta Ley.
+
+### CAPITULO III. DE LAS SALAS Y DE LOS JUZGADOS
+
+###### ARTICULO 97.
+
+Ningún servidor público de la administración de justicia, podrá tener ocupación que lo coloque en situación de dependencia moral o económica de alguna corporación o persona en particular. Consecuentemente, los cargos de la rama jurisdiccional son incompatibles con el desempeño de cualquier otro cargo retribuido; con los cargos de elección popular y representación política; con la calidad de Ministro de cualquier culto; con la milicia; con la gestión profesional de negocios ajenos y, con cualquier cargo auxiliar de la administración de justicia.
+
+Se exceptúan de este precepto las actividades docentes y honoríficas, siempre que no se afecte la prestación regular de la función judicial.
+
+###### ARTICULO 98.
+
+Los magistrados numerarios, aún cuando gocen de licencia, no podrán ejercer su profesión de abogados ni patrocinar negocios ante los tribunales, salvo que se trate de negocios propios.
+
+###### ARTICULO 99.
+
+Para ningún cargo de la administración de justicia podrá designarse a personas que sean ascendientes, descendientes, cónyuges o colaterales, dentro del cuarto grado, por consanguinidad, segundo por afinidad, o civil, del servidor público que intervenga en la designación.
+
+###### ARTICULO 100.
+
+No podrán formar parte de una misma Sala del Tribunal Superior, de un Tribunal Unitario o de un Juzgado, dos o más personas que sean cónyuges o parientes entre sí, en los mismos grados a que alude el artículo anterior.
+
+### CAPITULO IV. DE LA VIGILANCIA JUDICIAL
+
+###### ARTICULO 101.
+
+Son causas de retiro forzoso de los magistrados, jueces y demás servidores del Poder Judicial:
+
+I.- Haber cumplido 70 años de edad; y
+
+II.- Padecer incapacidad física incurable o mental, incluso cuando ésta fuese parcial o transitoria.
+
+###### ARTICULO 102.
+
+Los magistrados y jueces jubilados que así lo deseen, podrán seguir adscritos al servicio de la judicatura en el Instituto de Especialización Judicial.
+
+## TITULO QUINTO. DEL FUNCIONAMIENTO DE LOS ORGANOS DEL PODER JUDICIAL
+
+### CAPITULO V. DE LA VALORACION DEL SERVICIO
+
+###### ARTICULO 103.
+
+El día en que tenga lugar la instalación del Tribunal Superior de Justicia, reunidos los magistrados propietarios y supernumerarios en la Sala de plenos, con la asistencia del Gobernador del Estado y del Presidente del Congreso, de los jueces y demás servidores del Poder Judicial, se efectuará la ceremonia respectiva, en la que el Presidente hará la declaratoria de iniciación del nuevo período.
+
+###### ARTICULO 104.
+
+El Tribunal Superior de Justicia tendrá cada año dos períodos de sesiones; el primero, comenzará el día dos de enero y terminará el dieciséis de julio; el segundo, comenzará el primero de agosto y terminará el dieciocho de diciembre.
+
+Al clausurar el Tribunal Superior cada período de sesiones, designará a uno o más magistrados que provean los trámites en asuntos urgentes, y despachen, durante el receso, los de resolución de notoria urgencia siempre que no correspondan en definitiva al Pleno o a las Salas y dicten las órdenes o medidas provisionales, también de carácter urgente, que exija el buen servicio de la justicia, debiendo dar cuenta al presidente del Tribunal, al reanudar éste sus sesiones, para que someta a la consideración del Pleno las resoluciones, órdenes o medidas provisionales dictadas durante el receso.
+
+También designará el Tribunal Superior al secretario y empleados que deban despachar los asuntos a que se refiere el párrafo anterior.
+
+###### ARTICULO 105.
+
+Al iniciarse cada período de sesiones, el Tribunal lo comunicará a los Poderes de la Unión y de los Estados. Copia del acta relativa se enviará al Periódico Oficial del Estado para su publicación.
+
+Lo mismo se observará en el caso de nuevas designaciones de Magistrados del Tribunal Superior.
+
+### CAPITULO I. DEL ARCHIVO JUDICIAL
+
+###### ARTICULO 106.
+
+El Tribunal Pleno sesionará ordinariamente, el miércoles de cada semana; y si fuere inhábil, la sesión se efectuará el día anterior hábil.
+
+###### ARTICULO 107.
+
+Cuando las circunstancias lo requieran, el Tribunal Pleno sesionará en forma extraordinaria, en los términos previstos por el artículo 10 de esta Ley.
+
+###### ARTICULO 108.
+
+La Secretaría del Pleno distribuirá oportunamente entre los Magistrados, una relación de los asuntos a tratar en las sesiones.
+
+###### ARTICULO 109.
+
+Las sesiones del Pleno se desarrollarán en forma siguiente:
+
+I.- El Presidente pasará lista de asistencia y declarará, en su caso, la integración del Pleno;
+
+II.- La Secretaría dará lectura al acta de la sesión anterior, para su aprobación, en su caso, y la misma será autorizada con las firmas del Presidente y del Secretario;
+
+III.- Se dará curso a los asuntos de su competencia, dándoseles el trámite correspondiente; y
+
+IV.- Se proveerá sobre los demás asuntos que por disposición legal; o a juicio del Pleno, requieran su intervención.
+
+###### ARTICULO 110.
+
+En los casos sujetos a decisión, el presidente propondrá el acuerdo y lo someterá a la consideración de los magistrados, recabándose la aprobación del mismo por unanimidad, o por mayoría de votos. En caso de oposición, el asunto se someterá a debate. El presidente cuidará de que la discusión sea moderada y sin apartarse del tema, para lo cual se concederá el uso de la palabra al disidente, quien podrá replicar a los que secunden la propuesta. Transcurrido el tiempo que se juzgue necesario para el desarrollo del debate, se pasará a votación. El presidente tendrá voto de calidad, en caso de empate. El voto particular se asentará en la resolución respectiva, sin perjuicio de que sea razonado, cuando así lo solicitare el magistrado disidente.
+
+### CAPITULO II. DEL INSTITUTO DE ESPECIALIZACION JUDICIAL
+
+###### ARTICULO 111.
+
+Las Salas y los Juzgados laborarán todos los días del año, excepción hecha de los sábados, domingos y aquéllos días que las leyes declaren festivos, o en los que el Tribunal acuerde que no haya actuaciones judiciales.
+
+El despacho diario se efectuará de las 9:00 horas a las 15:00 horas y de las 17:00 horas a las 19:00 horas.
+
+Los Titulares de cada dependencia determinarán las labores que se desarrollarán dentro de este horario.
+
+###### ARTICULO 112.
+
+Son deberes de magistrado y jueces:
+
+I.- Dirigir el proceso; vigilar su correcto desarrollo; adoptar las medidas conducentes para evitar tácticas dilatorias ilegales y procurar la mayor economía procesal;
+
+II.- Mantener la igualdad de las partes en el proceso;
+
+III.- Prevenir, remediar y sancionar, en su caso, los actos contrarios a la administración de justicia, así como la buena fé que debe presidir el desarrollo del proceso, denunciando al Ministerio Público todo hecho que pueda constituir un delito;
+
+IV.- Guardar reserva sobre las decisiones que se proponga dictar en el proceso; y
+
+V.- Dictar las resoluciones que procedan dentro de los términos legales.
+
+###### ARTICULO 113.
+
+Las audiencias serán públicas, a menos que por la naturaleza del asunto ameriten ser privadas.
+
+Serán presididas por el presidente de la Sala, el magistrado de Distrito o el juez; pero éstos bajo su vigilancia, podrán delegar su dirección en un secretario.
+
+###### ARTICULO 114.
+
+Queda prohibida la práctica de dictar los alegatos durante la audiencia. Los alegatos serán verbales; pero las partes pueden presentar sus conclusiones por escrito.
+
+###### ARTICULO 115.
+
+Los secretarios de Acuerdos deberán llevar, bajo su control y vigilancia, los siguientes libros:
+
+I.- De registro de entradas y salidas, con índice alfabético, por nombre del actor o del solicitante, si se trata de procesos civiles y familiares, o del inculpado, si se trata de procesos penales;
+
+II.- De registro de valores, independiente de los legajos que con aquellos se formen por riguroso orden numérico, conforme a la fecha de su presentación;
+
+III.- De exhortos, despachos y requisitorias, recibidos y diligenciados;
+
+IV.- De relación de negocios citados para sentencia definitiva, interlocutoria, y resueltos, independientemente de los legajos de copias certificadas de las resoluciones dictadas y glosadas en el orden de su pronunciamiento;
+
+V.- De asistencia del personal;
+
+VI.- De inventario de bienes;
+
+VII.- De control de los gastos de oficio; y
+
+VIII.- De remisiones al Archivo General.
+
+###### ARTICULO 116.
+
+En los juzgados del ramo penal deberán llevarse, además de los libros a que se refiere el artículo anterior, los siguientes:
+
+I.- De control de órdenes de aprehensión;
+
+II.- De presentaciones de procesados, con su auxiliar de lista de asistencia;
+
+III.- De objetos e instrumentos de delito;
+
+IV.- De procesos archivados provisionalmente; y
+
+V.- De actas de visita a los centros de detención.
+
+###### ARTICULO 117.
+
+Los actuarios, o quienes hagan sus veces, deberán llevar un libro en el que asienten diariamente las diligencias y notificaciones que practiquen fuera del local de la oficina en que presten sus servicios, con expresión:
+
+I.- De la fecha en que reciba el expediente respectivo;
+
+II.- De la fecha del auto que deban diligenciar;
+
+III.- Del lugar en que deba llevarse a cabo la diligencia, indicando la calle y número de la casa de que se trate;
+
+IV.- De la fecha en que se haya practicado la diligencia, notificación o actos de que se trate, o los motivos por los cuales no se hayan verificado; y
+
+V.- De la fecha de devolución del expediente.
+
+El titular revisará periódicamente el contenido de este libro y proveerá lo conducente.
+
+###### ARTICULO 118.
+
+Los expedientes sólo podrán ser facilitados, para su examen dentro de la oficina, previo el recibo correspondiente:
+
+I.- A las partes;
+
+II.- A los abogados de las partes, con título legalmente registrado;
+
+III.- A los empleados de éstos, debidamente autorizados, siempre que sean pasantes de Derecho;
+
+IV.- A las personas designadas en cada proceso como auxiliares de la Administración de Justicia, para el exclusivo desempeño de su cargo;
+
+V.- A los servidores públicos, que lo requieran en razón de sus funciones; y
+
+VI.- A las personas autorizadas por el Titular, para fines docentes o de investigación científica.
+
+### CAPITULO III. DE LA BIBLIOTECA
+
+###### ARTICULO 119.
+
+La vigilancia judicial tiene por objeto velar por que la justicia se administre oportuna y eficazmente, y conlleva al examen de la conducta de los servidores de la Administración de Justicia y puntual desempeño de sus deberes.
+
+###### ARTICULO 120.
+
+La vigilancia judicial se ejercerá por el Pleno del Tribunal Superior de Justicia, por su presidente, o por los jueces de Primera Instancia, en quienes aquellos deleguen esta función por lo que hace a los Juzgados de Conciliación.
+
+###### ARTICULO 121.
+
+La vigilancia judicial se ejercerá principalmente por medio de visitas generales y especiales.
+
+Las visitas generales se practicarán a cada dependencia judicial por lo menos una vez al año, y tendrán por objeto comprobar la Asistencia del personal; su comportamiento y rendimiento; el orden y exactitud de los datos contenidos en los libros y expedientes; el correcto manejo de los títulos valores; y la existencia de los efectos que correspondan a cada asunto; así como el estado de la oficina y condiciones de trabajo. Se recibirá en audiencia a los interesados que deseen hacer planteamientos relacionados con la administración de justicia; a cuyo efecto estas visitas serán anunciadas con toda anticipación.
+
+###### ARTICULO 122.
+
+De cada visita se levantará un acta, en la que se asentarán las conclusiones del caso. Con el original se dará cuenta al Pleno, dejándose una copia en poder del servidor público visitado y otra en poder del visitador.
+
+Si del acta resultaren irregularidades, se iniciará el procedimiento respectivo, a fin de hacer efectiva la sanción disciplinaria que corresponda.
+
+En el acta de visita se consignarán no sólo las irregularidades resultantes, sino también, se dejará constancia de los aspectos positivos que merezcan ser destacados.
+
+### CAPITULO IV. DEL FONDO PARA EL MEJORAMIENTO DE LA ADMINISTRACION DE JUSTICIA
+
+###### ARTICULO 123.
+
+El Pleno del Tribunal se encargará de ponderar periódicamente, los méritos y la conducta profesional observada por los magistrados, los jueces y los integrantes de los consejos tutelares para menores, así como por secretario del Pleno y el oficial mayor, en el desempeño de sus funciones, teniendo a la vista en cada caso, su hoja de servicios y el resultado de las visitas practicadas.
+
+###### ARTICULO 124.
+
+El presidente del Tribunal Superior de Justicia, los magistrados, los integrantes de los Consejos Tutelares para Menores y los jueces, harán una evaluación periódica de la actuación de sus secretarios, actuarios, y demás servidores que laboren en sus respectivas dependencias.
+
+###### ARTICULO 125.
+
+Las evaluaciones serán concentradas en la Presidencia del Tribunal Superior de Justicia, y una vez analizadas por el Pleno para los efectos a que hubiere lugar, se anotarán en la hoja de servicios de cada servidor público de la Administración de justicia.
+
+El presidente comunicará sus resultados al Consejo de la Judicatura.
+
+## TITULO SEXTO. DE LA SUSTITUCION EN CASO DE IMPEDIMENTO EXCUSA O RECUSACION
+
+###### ARTICULO 126.
+
+Si un magistrado del Tribunal Superior de Justicia dejare de conocer de algún asunto correspondiente al Pleno, por impedimento, excusa o recusación, será suplido por el magistrado numerario a quien corresponda el turno que deberá llevar el presidente del Tribunal.
+
+Si la excusa del magistrado es para no conocer de un asunto de Sala, la suplencia la hará el magistrado supernumerario que designe la Sala.
+
+Si todos los magistrados de una Sala estuvieren impedidos para conocer, pasará el asunto al conocimiento de la Sala que siga en número.
+
+Si un magistrado del Tribunal Unitario de Distrito dejare de conocer de un asunto por impedimento, recusación o excusa, pasará el negocio al Tribunal Unitario de Distrito más cercano.
+
+###### ARTICULO 127.
+
+Si un juez de Primera Instancia dejare de conocer de un negocio por excusa, recusación o impedimento, se observará lo dispuesto por el artículo 38 de esta Ley.
+
+###### ARTICULO 128.
+
+Cuando por excusa, recusación o impedimento un juez de Primera Instancia en Materia Civil, deje de conocer de un negocio pasará éste al de la misma materia en el propio distrito judicial; y si éste y los demás jueces de Primera Instancia en Materia Civil dejaren de conocer el negocio, pasará al conocimiento del juez Primero de Primera Instancia de lo Familiar en el mismo distrito; y si éste estuviere impedido, pasará al juez Segundo de Primera Instancia de lo Familiar, en el propio distrito, si lo hubiere; y si éste último dejare de conocer por las causas antes dichas, lo remitirá al juez Primero de Primera Instancia en Materia Penal; y si éste y los demás jueces de Primera Instancia en Materia Penal dejaren de conocer, pasará al juez de Primera Instancia en Materia Civil o mixto más próximo.
+
+Cuando por excusa o recusación, un juez de Materia de lo Familiar o en Materia Penal, deje de conocer de un negocio, se seguirá una tramitación análoga a la que se precisa en el párrafo anterior, en la inteligencia en la que siempre será preferido el Juez en turno del Ramo a que concierna el asunto, cuando en el lugar haya varios jueces.
+
+En el caso de que los jueces de Primera Instancia más próximos dejaren de conoce (sic) de un negocio por las causas antes indicadas, seguirán conociendo los jueces de la misma categoría que estuvieren más próximos.
+
+###### ARTICULO 129.
+
+En casos de excusa, recusación o impedimento de los Secretarios, éstos serán suplidos en los términos que esta Ley establece para sus faltas temporales.
+
+## TITULO SEPTIMO. DE LAS DEPENDENCIAS DEL TRIBUNAL SUPERIOR DE JUSTICIA
+
+### CAPITULO V. DEL BOLETIN DE INFORMACION JUDICIAL
+
+###### ARTICULO 130.
+
+El Archivo General del Poder Judicial dependerá del Tribunal Superior de Justicia y se integrará con el siguiente personal; Un Jefe con título de abogado, un Secretario y demás servidores públicos que señale el Presupuesto de Egresos. El presidente dictará las medidas que estime convenientes, y por medio de una comisión o directamente, practicará visitas semestrales ordinarias y extraordinarias, cuando lo considere necesario.
+
+###### ARTICULO 131.
+
+El Archivo Judicial del Estado tendrá sus oficinas centrales en la Capital, y si las necesidades del servicio lo requieren previo acuerdo del Tribunal Pleno, se establecerán dependencias en cualquier otro Distrito Judicial del Estado.
+
+###### ARTICULO 132.
+
+Se depositarán en el Archivo General:
+
+I.- Todos los expedientes del orden civil, de lo familiar y de lo penal totalmente concluidos, tanto por el tribunal Superior de Justicia, como por los juzgados de Primera Instancia y de Conciliación, así como los que se hubieren tramitado por los Tribunales Tutelares para Menores y sus delegaciones;
+
+II.- Los expedientes aún no concluidos en los que haya habido inactividad procesal de las partes por más de un año;
+
+III.- Cualesquiera otros expedientes concluidos que conforme a la ley deban integrarse por el Tribunal Superior y cuya remisión o entrega no haya de hacerse a oficina determinada, o a los interesados; y
+
+IV.- Los demás documentos y objetos que las leyes y el Tribunal Superior determinen.
+
+###### ARTICULO 133.
+
+Habrá en el Archivo cinco departamentos, uno de ellos corresponderá al ramo civil, otro al familiar, otro al tutelar para menores, otro al penal y otro al administrativo.
+
+###### ARTICULO 134.
+
+Las dependencias a que se refiere este capítulo, remitirán al archivo los expedientes respectivos para su resguardo; llevarán un libro en el cual harán constar, en forma de inventario, los expedientes que contengan cada remisión y al calce del inventario firmará de recibido el Jefe del Archivo.
+
+###### ARTICULO 135.
+
+Los expedientes y documentos entregados al Archivo serán anotados en un libro general de entrada y en otro que se llevará por orden alfabético, marcándoseles con un sello de la oficina y arreglándolos convenientemente para que no sufran deterioro. Se clasificarán y depositarán según el departamento a que correspondan, controlándose además mediante el sistema de tarjetas índices.
+
+###### ARTICULO 136.
+
+Por ningún motivo se extraerá expediente o documento alguno del Archivo Judicial, a no ser por orden escrita del presidente del Tribunal, o cuando medie solicitud de la autoridad que lo haya remitido a la oficina, o de la que legalmente la sustituya.
+
+La orden se clasificará en el lugar que ocupe el expediente extraído, y el conocimiento respectivo de salida de éste será suscrito por persona legalmente autorizada para recibirlo.
+
+###### ARTICULO 137.
+
+El jefe del Archivo puede expedir previo acuerdo del presidente del Tribunal o de la autoridad remisora, copia certificada de los documentos o expedientes que estén depositados en dicha oficina.
+
+###### ARTICULO 138.
+
+El examen de libros, documentos o expedientes del Archivo, sólo podrán hacerse dentro de la oficina y en presencia del Jefe de la misma, por los interesados o sus procuradores, o por cualquier abogado con título oficial.
+
+Será motivo de responsabilidad para el jefe del Archivo impedir el examen a que se refiere este artículo, y la sanción respectiva será impuesta por el Presidente del Tribunal Superior de Justicia.
+
+###### ARTICULO 139.
+
+La omisión en que incurran los secretarios por no remitir los expedientes al Archivo, será sancionada por el presidente del Tribunal, al recibir el informe del visitador.
+
+###### ARTICULO 140.
+
+Cualquier defecto o irregularidad que advierta el jefe del archivo en los expedientes o documentos que se le remitan para su depósito, lo comunicará al Presidente del Tribunal.
+
+### CAPITULO VI. DE LAS OFICINAS DEL PERSONAL E INTENDENCIA
+
+###### ARTICULO 141.
+
+Se crea el Instituto de Especialización Judicial con el propósito de preparar y capacitar al personal del Poder Judicial del Estado y a quienes deseen ingresar a la carrera judicial.
+
+###### ARTICULO 142.
+
+La Dirección del Instituto de Especialización Judicial, esta a cargo del presidente del Tribunal Superior de Justicia y contará con un consejo que se integrará por un magistrado de cada Sala del Tribunal, el Magistrado del Tribunal Unitario del Primer Distrito, un juez de Primera Instancia de cada materia de la Capital del Estado y dos catedráticos que designe la Dirección de la Facultad de Jurisprudencia.
+
+En la primera sesión del año que se verifique en el Instituto, los Magistrados del Tribunal Superior elegirán de entre ellos, el que deba fungir como presidente del Consejo, quien podrá ser reelecto.
+
+###### ARTICULO 143.
+
+La organización interna y el funcionamiento, los programas y planes de estudio; los requisitos de ingreso y sistemas de evaluación, serán precisados en el estatuto que expida el Pleno del Tribunal Superior de Justicia.
+
+### CAPITULO I. DE LOS PERMISOS, LICENCIAS Y VACACIONES
+
+###### ARTICULO 144.
+
+El Tribunal Superior de Justicia, contará con servicio de biblioteca, en los términos que disponga el reglamento interior.
+
+###### ARTICULO 145.
+
+La Dirección de la biblioteca estará a cargo de un bibliotecario, quien será nombrado por el Pleno del Tribunal.
+
+###### ARTICULO 146.
+
+Corresponde al bibliotecario:
+
+I.- Formar un inventario alfabético por autores de todos los libros y papeles de la biblioteca y un inventario general de muebles y útiles de dicha dependencia;
+
+II.- Clasificar las obras de biblioteca conforme al sistema adoptado por el Tribunal Superior de Justicia;
+
+III.- Formar cada semestre una relación de obras para su adquisición y de las que requieran encuadernación, enviándola al Presidente del Tribunal con el presupuesto respectivo;
+
+IV.- Conservar en buen estado los libros y papeles que integran, así como los muebles y útiles de la misma, dando cuenta de los desperfectos que sufran;
+
+V.- Llevar una relación diaria de lectores para fines de estadística; y
+
+VI.- Las demás que señalen las leyes y los reglamentos respectivos.
+
+### CAPITULO II. DE LA INSUBSISTENCIA, SUSPENSION Y PERDIDA DEL ENCARGO
+
+#### SECCION PRIMERA. DE LA ADMINISTRACION DEL FONDO
+
+###### ARTICULO 147.
+
+La Oficina del Fondo para el Mejoramiento de la Administración de Justicia estará integrada por:
+
+I.- Un contador;
+
+II.- Un auxiliar de contabilidad; y
+
+III.- Los demás empleados que fije el Presupuesto de Egresos.
+
+###### ARTICULO 148.
+
+El patrimonio del fondo para el Mejoramiento de la Administración de Justicia se integrará con:
+
+I.- Las multas, fianzas y cauciones que las autoridades judiciales hagan efectivas, las cuales serán remitidas al Fondo;
+
+II.- El monto de la reparación del daño, cuando la parte ofendida se niegue o renuncie a recibir su importe o no se presente persona alguna que justifique su derecho a recibirlo en el término de tres años;
+
+III.- Los intereses provenientes de cualquier tipo de depósito que entreguen al Fondo las autoridades judiciales del Estado; y
+
+IV.- En general los ingresos que se produzcan por la administración de valores o por cualquier otra prestación autorizada en la Ley.
+
+###### ARTICULO 149.
+
+Son funciones del contador encargado de la Oficina del Fondo:
+
+I.- La contabilización de la documentación relativa al Fondo;
+
+II.- El manejo de los fondos recibidos de las autoridades judiciales por conceptos de fianzas, multas o cauciones;
+
+III.- Elaborar informes semestrales acerca de la posición financiera que guarde el Fondo durante el período comprendido de 1o de enero al 30 de junio y del 1o de julio al 31 de diciembre de cada año; y
+
+IV.- Colaborar con la administración del Tribunal Superior de Justicia en las actividades que el Pleno, el presidente del Tribunal o el Reglamento Interior, le asignen con relación a las funciones propias de su competencia.
+
+###### ARTICULO 150.
+
+La administración del Fondo estará a cargo del Tribunal Pleno, por conducto del Presidente, invirtiendo en la adquisición de títulos valores de renta fija, que deberán ser nominativos y a favor del Tribunal Superior de Justicia.
+
+###### ARTICULO 151.
+
+El Pleno ordenará que cuando menos se celebre una auditoría anual, para verificar el manejo del fondo; dicha auditoría se practicará por la persona que designe el propio Pleno, preferentemente la Secretaría de Finanzas del Estado.
+
+#### SECCION SEGUNDA. DEL DESTINO DEL FONDO PARA EL MEJORAMIENTO DE LA ADMINISTRACION DE JUSTICIA
+
+###### ARTICULO 152.
+
+El patrimonio del Fondo se destinará:
+
+I.- A sufragar los gastos que origine su administración;
+
+II.- A la adquisición de los bienes materiales requeridos para la administración de justicia;
+
+III.- A la capacitación y mejoramiento profesional de los integrantes del Poder Judicial;
+
+IV.- A sufragar los gastos necesarios para la participación de magistrados, jueces, integrantes de los consejos Tutelares y demás personal que estime conveniente, en congresos, seminarios y reuniones que tengan por objeto evaluaciones, confrontaciones y mejoramiento de la administración de justicia;
+
+V.- Sufragar los gastos que por estímulos y recompensas se entreguen a los funcionarios y empleados del Poder Judicial; y
+
+VI.- Los demás objetivos que se acuerden por el Pleno.
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+###### ARTICULO 153.
+
+Se publicará semestralmente un Boletín de Información Judicial, como órgano del Poder Judicial del Estado, que tendrá por objeto dar a conocer:
+
+I.- Los fallos sobresalientes que sobre cualquier materia se pronuncien por los diversos tribunales del Estado;
+
+II.- Monografías sobre investigaciones jurídicas;
+
+III.- Informes de la Presidencia; y
+
+IV.- Efemérides del Poder Judicial.
+
+###### ARTICULO 154.
+
+El Consejo Editorial del Boletín se integrará con el Presidente del Tribunal, quien fungirá como Director, los Magistrados de las Salas, el Magistrado del Tribunal Unitario del Primer Distrito, un Juez de Primera Instancia en cada materia, un Secretario de Redacción y un Administrador, que será el Oficial Mayor de la Presidencia.
+
+La designación del Magistrado del Tribunal Unitario, de los Jueces y del Secretario de Redacción lo hará el Pleno del Tribunal, cada tres años.
+
+###### ARTICULO 155.
+
+En todo lo relativo a la Administración del Boletín, el Consejo Editorial tendrá las más amplias facultades, tanto para el manejo y aplicación de los ingresos que se obtengan, así como para la designación y remoción del personal administrativo.
+
+### CAPITULO II. DEL JUICIO POLITICO
+
+###### ARTICULO 156.
+
+La oficina de personal estará a cargo de un jefe que dependerá de la Oficialía Mayor y tendrá las atribuciones que ésta le asigne, por acuerdo del presidente del Pleno.
+
+###### ARTICULO 157.
+
+El cuidado, vigilancia, aseo y limpieza del edificio que ocupa el Tribunal, así como de los muebles y útiles de servicio de las oficinas respectivas, estarán directamente a cargo de los vigilantes e intendentes que sean necesarios.
+
+## TITULO OCTAVO. DE LAS AUSENCIAS TEMPORALES Y ABSOLUTAS EN EL DESEMPEÑO DE LOS CARGOS
+
+### CAPITULO III. DE LA DECLARACION DE PROCEDENCIA EN MATERIA DE RESPONSABILIDAD PENAL
+
+###### ARTICULO 158.
+
+Los servidores públicos de la Administración de Justicia tienen derecho a que se les otorguen permisos con goce de sueldo, por enfermedad, hasta el límite de la incapacidad que precise el certificado médico oficial, o por causa justificada, a juicio de quien lo conceda, hasta por 15 días en el año.
+
+###### ARTICULO 159.
+
+Los servidores públicos de la administración de justicia tienen derecho a licencia no remunerada, hasta por seis meses en el año, teniendo ésta el carácter de irrenunciable.
+
+###### ARTICULO 160.
+
+Los permisos y las licencias serán concedidos por el superior jerárquico del solicitante.
+
+###### ARTICULO 161.
+
+Magistrados, jueces, secretarios, actuarios y demás servidores de la administración de justicia, disfrutarán anualmente de dos períodos de vacaciones, de diez días hábiles cada uno, en la época que determine el Pleno del Tribunal Superior de Justicia.
+
+Los días de vacaciones suplementarios a que en lo individual tengan derecho los servidores públicos de base, les serán concedidos por el titular de la dependencia, de acuerdo con las necesidades del servicio y en los términos de la Ley de la materia.
+
+### CAPITULO IV. DE LA RESPONSABILIDAD ADMINISTRATIVA
+
+###### ARTICULO 162.
+
+La designación hecha para ocupar un cargo en la administración de justicia queda insubsistente:
+
+I.- Por la no aceptación; y
+
+II.- Por no presentarse la persona nombrada a rendir la protesta de Ley.
+
+###### ARTICULO 163.
+
+La suspensión en el desempeño del cargo puede tener lugar:
+
+I.- Por sujeción a juicio político, penal o administrativo del titular, en los términos del Título Décimo de esta Ley o de la Ley de responsabilidades de los servidores públicos del Estado; y
+
+II.- Por sanciones impuestas por autoridad competente.
+
+###### ARTICULO 164.
+
+El encargo se pierde:
+
+II (sic).- Por ejercer otro cargo público, incompatible con el que se viene desempeñando;
+
+III.- Por no presentarse a reanudar su función, vencido el término del permiso o licencia concedidos; y
+
+IV.- Por destitución, mediante resolución firme.
+
+## TITULO NOVENO. DEL PROCEDIMIENTO PARA SUPLIR LAS FALTAS TEMPORALES Y ABSOLUTAS DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
+
+###### ARTICULO 165.
+
+Las faltas temporales del Presidente del Tribunal, cuando no excedan de 15 días, serán suplidas por el decano de los magistrados.
+
+Si la ausencia del Presidente excede de 15 días, la sustitución se hará por acuerdo del Pleno, y en igual forma se suplirá la ausencia definitiva, en cuyo caso el designado concluirá el período legal correspondiente.
+
+###### ARTICULO 166.
+
+Las faltas temporales de los magistrados del Tribunal Superior, serán suplidas por los magistrados supernumerarios en el orden de su designación y de acuerdo con el turno que lleve el presidente del Pleno.
+
+###### ARTICULO 167.
+
+Las faltas temporales de los magistrados de los Tribunales Unitarios, jueces de Primera Instancia e integrantes de los Consejos Tutelares, serán suplidas por los respectivos secretarios de Acuerdos o del Consejo Tutelar que corresponda. Si las faltas exceden de quince días o son absolutas, continuarán los secretarios supliendo a los titulares en tanto se hace nueva designación de interino o definitivo, según el caso.
+
+###### ARTICULO 168.
+
+Las faltas temporales del secretario del Pleno cuando no excedan de quince días, serán suplidas por el oficial mayor. Las que excedan de este término o sean absolutas, motivarán designación de interino o definitivo, según corresponda.
+
+###### ARTICULO 169.
+
+Las faltas temporales de los secretarios de las Salas, cuando no excedan de quince días, serán suplidas por el Secretario de estudio y cuenta que corresponda conforme al turno que al efecto llevará la Presidencia de la propia Sala.
+
+Si la ausencia excede de quince días o es absoluta, se hará la designación del secretario interino o definitivo correspondiente.
+
+###### ARTICULO 170.
+
+Las faltas temporales de los secretarios de los juzgados de Primera Instancia serán suplidas por el secretario de estudio y Cuenta si lo hay, en caso contrario por el actuario de mayor antigüedad.
+
+###### ARTICULO 171.
+
+Toda ausencia de los jueces de Conciliación será suplida por la persona que designe el Pleno del Tribunal, con carácter de interino o definitivo, de entre las propuestas que haga el ayuntamiento respectivo.
+
+## TITULO DECIMO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+###### ARTICULO 172.
+
+Para los efectos de las responsabilidades a que se alude este título se reputarán como servidores públicos de la administración de justicia; a los magistrados del Tribunal Superior de Justicia; a los magistrados de los Tribunales Unitarios de Distrito; a los integrantes de los Consejos Tutelares para Menores; a los jueces de Primera Instancia y de Conciliación; y en general; a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza dentro del Poder Judicial.
+
+###### ARTICULO 173.
+
+Los servidores públicos de la administración de justicia podrán ser sancionados cuando incurran en responsabilidad, de conformidad con las prevenciones siguientes:
+
+I.- Se les impondrá, mediante juicio político, las sanciones de destitución e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales, o de su buen desempeño;
+
+II.- La comisión de delitos será sancionada con arreglo a la legislación penal; y
+
+III.- Se aplicarán sanciones administrativas por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia, que deban observar en el desempeño de su empleo, cargo o comisión.
+
+Los procedimientos para la aplicación de las sanciones mencionadas serán autónomos en su desarrollo, sin que puedan imponer dos veces, por una sola conducta, sanciones de la misma naturaleza.
+
+###### ARTICULO 174.
+
+Todo ciudadano o persona moral, por conducto de sus órganos de representación, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia por escrito ante quien corresponda, respecto de las conductas a que se refiere el artículo anterior.
+
+### CAPITULO II. DEL ORGANO Y PROCEDIMIENTO PARA EL OTORGAMIENTO
+
+###### ARTICULO 175.
+
+Son sujetos de juicio político: los magistrados del Tribunal Superior de Justicia; los magistrados de los Tribunales Unitarios de Distrito; los integrantes de los Consejos Tutelares para Menores; y los jueces de Primera Instancia.
+
+###### ARTICULO 176.
+
+Corresponde al Congreso del Estado, instruir el procedimiento relativo al juicio político, por las causas y con las formalidades establecidas por la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado, así como imponer, en su caso, las sanciones que juzgue aplicable (sic) de acuerdo con la misma Ley.
+
+###### ARTICULO 177.
+
+El procedimiento de juicio político sólo podrá iniciarse durante el período en que el servidor público desempeñe su cargo y dentro del año siguiente a él que se separe, por cualquier causa, del ejercicio de sus funciones. Las sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+###### ARTICULO 178.
+
+Para proceder penalmente contra los magistrados del Tribunal Superior de Justicia, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar, mediante resolución de las dos terceras partes del total de sus miembros, si ha lugar o no a proceder contra el inculpado.
+
+###### ARTICULO 179.
+
+La responsabilidad derivada de delitos cometidos por los magistrados durante el tiempo de su encargo, será exigible de acuerdo con los plazos de prescripción consignados en el Código Penal, los cuales nunca podrán ser inferiores a tres años. No correrá término alguno de prescripción en tanto el magistrado se encuentre en el desempeño de su cargo.
+
+### CAPITULO II. DE LOS ABOGADOS
+
+#### SECCION PRIMERA. DE LOS SUJETOS
+
+###### ARTICULO 180.
+
+Son sujetos de responsabilidad administrativa todos los miembros del Poder Judicial, cualquiera que sea su jerarquía.
+
+###### ARTICULO 181.
+
+La acción disciplinaria y la sanción que corresponda, proceden aún en los casos de renuncia o abandono del cargo.
+
+###### ARTICULO 182.
+
+La acción disciplinaria prescribe en tres años, contados desde el día siguiente a aquel en que se hubiere cometido la falta, o a partir del momento en que hubiese cesado, si fuere de carácter continuado. La iniciación del procedimiento interrumpe la prescripción.
+
+#### SECCION SEGUNDA. DE LAS FALTAS ADMINISTRATIVAS
+
+###### ARTICULO 183.
+
+Se consideran como faltas de los Magistrados en su actuación relacionada con el Pleno, las siguientes:
+
+I.- Dejar de asistir a las sesiones sin causa justificada;
+
+II.- Desintegrar sin motivo justificado, el quórum de los Plenos, una vez comenzados;
+
+III.- Dictar acuerdos o providencias que contengan decisiones generales sobre interpretación de las leyes;
+
+IV.- Llevar a su conocimiento los negocios en trámite ante los Tribunales Unitarios de Distrito, Consejos Tutelares para Menores, jueces de Primera Instancia y de Conciliación, a menos que se trate de ua (sic) investigación; y
+
+V.- Violar las normas que regulan el procedimiento para llevar a cabo los nombramientos que le competan.
+
+###### ARTICULO 184.
+
+Son faltas administrativas de los magistrados y jueces:
+
+I.- No dictar, sin causa justificada, las resoluciones que procedan en los negocios de su conocimiento, dentro de los términos señalados por la Ley;
+
+II.- Dictar resoluciones o efectuar trámites notoriamente innecesarios, que tiendan a dilatar el procedimiento;
+
+III.- Actuar en negocios en que estuvieren impedidos, conociendo la causa del impedimento;
+
+IV.- Hacer declaración de rebeldía en perjuicio de alguna de las partes, sin cerciorarse de su legal emplazamiento, o antes de que expire el término establecido por la ley;
+
+V.- No recibir en forma injustificada las pruebas admitidas a las Partes;
+
+VI.- Impedir, por cualquier medio ilegal, que las partes hagan uso de los recursos establecidos en la ley;
+
+VII.- Fijar fianzas contrafianzas notoriamente excesivas o insuficientes, en los casos que prescriban las leyes, así como admitir las de personas que no acrediten su solvencia;
+
+VIII.- Hacer en sus resoluciones calificaciones ofensivas o calumniosas, en perjuicio de las personas que intervienen en el proceso;
+
+IX.- Hacer constar falsamente en una diligencia judicial hechos no acaecidos o dejar de mencionar los ocurridos;
+
+X.- Asesorar a las partes en asuntos de su conocimiento o del conocimiento de otras autoridades judiciales;
+
+XI.- Dejar de asistir, sin justa causa, a los actos o diligencias que requieran su presencia; y
+
+XII.- No observar en el trato con sus subalternos la debida consideración.
+
+###### ARTICULO 185.
+
+Son faltas administrativas de los secretarios:
+
+I.- No dar cuenta, dentro de los términos legales, con los documentos oficiales, así como con las promociones de las partes;
+
+II.- No asentar al calce de los escritos a que se refiere la fracción anterior, la razón de recibo correspondiente;
+
+III.- No asentar en autos dentro del término legal, las certificaciones y constancias que procedan por disposición de la Ley o por mandato judicial;
+
+IV.- Actuar en los negocios en que estuvieren impedidos, conociendo el impedimento;
+
+V.- No formular el proyecto de resolución que se les hubiere encomendado, en el término fijado para ello;
+
+VI.- Obrar con negligencia en la custodia de los expedientes y documentos de su dependencia; propiciando su deterioro, destrucción, ocultamiento, sustracción o pérdida;
+
+VII.- No practicar los actos necesarios para la celebración de las audiencias en las fechas señaladas;
+
+VIII.- No hacer entrega oportuna a los actuarios de los expedientes que requieran notificación personal, o estén pendientes de diligenciación, cuando deba actuarse fuera del Juzgado;
+
+IX.- No hacer a las partes las notificaciones personales que procedan, cuando ocurran al juzgado o tribunal;
+
+X.- No mostrar a las partes, sin motivo justificado, los expedientes que les soliciten, o facilitárselos a quienes no cuenten con la debida autorización; y
+
+XI.- Proporcionar información telefónica, por escrito, o por cualquier otro medio a los interesados sobre el estado de los autos.
+
+###### ARTICULO 186.
+
+Son faltas de los actuarios:
+
+I.- No hacer, con la debida oportunidad y sin causa justificada, las notificaciones personales que procedan, ni llevar a cabo las diligencias que se les encomienden, cuando deban efectuarse fuera del juzgado o tribunal;
+
+II.- Redactar indebida o maliciosamente las notificaciones, emplazamientos, embargos o diligencias de cualquier género que deban realizar;
+
+III.- Dar referencia a algún litigante, con perjuicio de otros, por cualquier motivo;
+
+IV.- Practicar notificaciones, citaciones o emplazamientos a las partes, por cédula o instructivo, fuera del lugar designado en autos, o sin cerciorarse, cuando proceda, de que el interesado tiene su domicilio en el lugar donde se lleva a cabo la diligencia;
+
+V.- Practicar embargos, aseguramientos, retención de bienes o lanzamientos, de personas o corporaciones, que no estén mencionadas concretamente en la resolución que se cumplimenta, o cuando en el acto de la diligencia, se le haga ver que esos bienes son ajenos, en cuyo caso deberá agregar a los autos la documentación que se le presente y dar cuenta al juez;
+
+VI.- No levantar el acta relativa a la diligencia que practique, en el lugar y momento en que ésta se efectúe; y
+
+VII.- Recibir gratificaciones por el desempeño de su función, como no sea lo estrictamente necesario para su traslado al lugar en que deba efectuarse la diligencia.
+
+###### ARTICULO 187.
+
+Son faltas administrativas de los servidores públicos de base:
+
+I.- No observar el debido respeto y subordinación legítima hacia sus superiores jerárquicos inmediatos o mediatos;
+
+II.- No cumplir con las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
+
+III.- No cumplir con diligencia las instrucciones, requerimientos o trabajos que les sean encomendados;
+
+IV.- Recibir gratificaciones de los interesados por copias mecanográficas de actuaciones que excedan del valor que, por hoja, haya fijado la Oficialía Mayor del Tribunal; y
+
+V.- Realizar trabajos ajenos a la oficina.
+
+###### ARTICULO 188.
+
+Constituyen faltas administrativas comunes a todos los servidores públicos de la administración de justicia:
+
+I.- No cumplir, con la mayor diligencia el trabajo que le sea encomendado, o realizar actos u omisiones que hagan deficiente su labor;
+
+II.- No asistir a las horas reglamentarias al desempeño de sus labores;
+
+III.- Dejar de asistir sin motivo justificado al despacho de su oficina o cerrarla, limitando indebidamente las horas de trabajo;
+
+IV.- Autorizar a un subordinado a no asistir a sus labores sin causa justificada, así como otorgarle indebidamente permisos, licencias o comisiones con goce parcial o total de sueldo;
+
+V.- No atender con la debida corrección a los litigantes y al público en general;
+
+VI.- Solicitar o recibir dádivas, agasajos, préstamos, regalos y obtener toda clase de percepciones provenientes, directa o indirectamente, de alguna de las partes o de sus representantes o intermediarios, en negocio sometido a su conocimiento, o en el que haya de intervenir;
+
+VII.- Obtener o tratar de obtener por el desempeño de su función, beneficios adicionales a las prestaciones que le sean cubiertas con cargo al erario público;
+
+VIII.- Influir, directa o indirectamente, en el nombramiento, promociones, suspensión, remoción, cese o sanción de cualquier servidor público de la administración de justicia, ya sea interés personal, familiar o de negocios, o porque con ello pretenda derivar alguna ventaja o beneficio para sí o para un tercero;
+
+IX.- Abstenerse de cumplir las comisiones que legalmente se les confieran o retardar injustificadamente su ejecución;
+
+X.- No presentar con oportunidad y veracidad la declaración sobre su situación patrimonial, ante la Dependencia del Ejecutivo que corresponda en los términos que señala la Ley de Responsabilidades;
+
+XI.- No informar a su superior jerárquico o al titular de su dependencia de todo acto u omisión de los servidores públicos sujetos a su dirección, que puedan implicar inobservancia de las obligaciones propias del cargo;
+
+XII.- Expedir nombramiento en favor de quien se encuentre inhabilitado por resolución firme de autoridad competente;
+
+XIII.- Desempeñar algún otro empleo, cargo o comisión oficial o particular, que la ley prohiba;
+
+XIV.- Ejercer funciones de un empleo, cargo o comisión cuando haya concluido el período para el cual se le designó, o haber cesado, por alguna otra causa, en el ejercicio de sus funciones;
+
+XV.- Embriagarse habitualmente; hacer uso indebido de estupefacientes; practicar juegos prohibidos, u observar, en general, un comportamiento inmoral; y
+
+XVI.- Todo incumplimiento de los deberes propios del cargo.
+
+#### SECCION TERCERA. DE LAS SANCIONES
+
+###### ARTICULO 189.
+
+Las sanciones aplicables a las faltas administrativas consistirán en:
+
+I.- Apercibimiento;
+
+II.- Amonestación;
+
+III.- Multa;
+
+IV.- Suspensión;
+
+V.- Destitución del cargo; y
+
+VI.- Inhabilitación temporal para desempeñar empleo, cargo o comisión en el servicio público.
+
+###### ARTICULO 190.
+
+El apercibimiento consiste en la prevención verbal o escrita que se haga al servidor público, en el sentido de que de incurrir en una nueva falta, se le aplicarán una o más de las sanciones previstas en el artículo anterior, según el caso.
+
+###### ARTICULO 191.
+
+La amonestación consiste en la reprensión que se haga al infractor, por la falta cometida.
+
+###### ARTICULO 192.
+
+La multa consiste en la sanción pecuniaria impuesta al infractor en favor del Estado, la cual no podrá ser inferior al valor de 3 días de sueldo, ni exceder al de un mes, debiendo hacerse efectiva mediante descuento en nómina, de cuotas iguales, no superiores a la quinta parte del sueldo mensual, o a través del procedimiento económico-coactivo, con intervención de la autoridad competente.
+
+###### ARTICULO 193.
+
+La suspensión consiste en la separación temporal, que no podrá exceder de tres meses, del cargo, empleo o comisión, privando al servidor público del derecho a percibir remuneración, o cualesquiera otras prestaciones económicas a que tenga derecho.
+
+###### ARTICULO 194.
+
+La destitución consiste en la pérdida definitiva del cargo, empleo o comisión.
+
+###### ARTICULO 195.
+
+La inhabilitación implica la incapacidad temporal, hasta por diez años para obtener y ejercer cargo, empleo o comisión.
+
+###### ARTICULO 196.
+
+Las sanciones administrativas se impondrán, tomando en cuenta:
+
+I.- La gravedad y modalidad de la falta en que se haya incurrido;
+
+II.- El grado de participación;
+
+III.- Las circunstancias socio-económicas del infractor;
+
+IV.- Los motivos determinantes y los medios de ejecución;
+
+V.- La antigüedad en el servicio;
+
+VI.- La reincidencia; y
+
+VII.- El monto del beneficio, daño o perjuicio económico derivados de la falta.
+
+###### ARTICULO 197.
+
+Las sanciones impuestas se anotarán en la hoja de servicios del servidor público, a cuyo efecto deberá enviarse copia autorizada de la resolución relativa a la Oficialía Mayor de la Presidencia del Tribunal Superior de Justicia.
+
+###### ARTICULO 198.
+
+Para la aplicación de las sanciones a que se hace referencia en los artículos anteriores, se observarán las siguientes reglas:
+
+I.- El apercibimiento se aplicará por la primera falta cometida, cuando ésta sea levísima;
+
+II.- La amonestación se aplicará sólo en tratándose de faltas leves;
+
+III.- Después de dos amonestaciones, la nueva sanción será de multa;
+
+IV.- La triple sanción por faltas leves, o la comisión de una falta grave, motivará la suspensión del cargo, empleo o comisión;
+
+V.- La destitución se aplicará, como primera sanción, en caso de faltas muy graves, o después de dos sanciones de suspensión; y
+
+VI.- La inhabilitación sólo será aplicable por resolución jurisdiccional, que dictará el órgano que corresponda, con arreglo a las leyes aplicables.
+
+Cuando la destitución del cargo, empleo o comisión, afecte a un servidor público de base, se demandará la terminación de su contrato ante quien corresponda por la Oficialía Mayor del Tribunal, a solicitud de la autoridad que aplicó la sanción.
+
+#### SECCION CUARTA. DE LA APLICACION DE LAS SANCIONES ADMINISTRATIVAS
+
+###### ARTICULO 199.
+
+La jurisdicción disciplinaria se ejercerá:
+
+I.- Por el Tribunal Pleno, cuando se trate de quejas en contra de su Presidente;
+
+II.- Por el Presidente del Tribunal Superior de Justicia, cuando se trate de quejas en contra de los Magistrados integrantes de las Salas, Magistrados de Distrito, integrantes de los Consejos Tutelares para Menores y Jueces;
+
+III.- Por el presidente de la Sala, Magistrado Unitario de Distrito, presidente del Consejo Tutelar para Menores y jueces, cuando se trate de quejas en contra de los secretarios; y
+
+IV.- Por los secretarios de acuerdos, cuando se trate de quejas en contra de sus subalternos, y la falta sólo amerite como sanción, apercibimiento o amonestación.
+
+###### ARTICULO 200.
+
+Contra el presunto autor de alguna de las faltas previstas en la Sección Segunda de este Capítulo, se procederá de oficio o en virtud de queja presentada por escrito, ante la autoridad que corresponda, en los términos del artículo anterior.
+
+Las quejas anónimas, o aquellas que no sean ratificadas, no producirán efecto alguno.
+
+###### ARTICULO 201.
+
+Todos los servidores públicos tienen la obligación de respetar y hacer respetar el derecho a la formulación de quejas, y de evitar que, con motivo de éstas, se originen molestias indebidas al quejoso.
+
+Incurre en responsabilidad el servidor público que por sí, o por interpósita persona, empleando cualquier medio, impida la presentación de alguna queja, o que con motivo de ésta, realice cualquier acto u omisión que lesione injustamente los intereses de quien la formule.
+
+###### ARTICULO 202.
+
+El presidente del Tribunal Superior de Justicia, a petición de parte interesada, formulará excitativas a las autoridades que omitan o retarden la iniciación o el trámite de un procedimiento disciplinario.
+
+###### ARTICULO 203.
+
+Si los hechos materia de la queja fueren además, constitutivos de responsabilidad política o penal, se ordenará ponerlos en conocimiento de la autoridad competente, acompañándole copia autorizada de lo necesario. La existencia, en su caso de un juicio político o penal sobre los mismos hechos, no dará lugar a suspensión de la jurisdicción disciplinaria.
+
+###### ARTICULO 204.
+
+Las sanciones administrativas a que se refiere este Capítulo, se impondrán con sujeción al siguiente procedimiento:
+
+I.- En el auto inicial del proceso disciplinario, se ordenará correr traslado al infractor, con copia de la queja, para que informe por escrito dentro del término de cinco días, señalándose lugar, día y hora para la celebración de una audiencia de pruebas y alegatos, a más tardar dentro del término de 15 días;
+
+II.- Las pruebas deberán ofrecerse y rendirse durante la audiencia; pero cuando se trate de la confesional, testimonial o pericial, éstas deberán anunciarse con cinco días de anticipación para la debida preparación de su desahogo, debiendo citarse con toda oportunidad al absolvente, a los testigos, o a los peritos que designen el juzgador y los interesados;
+
+III.- En cualquier estado del procedimiento, el juzgador podrá interrogar libremente al denunciante y al denunciado, y practicar careos entre ambos;
+
+IV.- En cualquier tiempo antes de fallar, podrá el juzgador decretar pruebas para mejor proveer;
+
+V.- Abierta la audiencia se procederá a recibir, por su orden, las pruebas y los alegatos por escrito, esto último sin perjuicio de que los interesados puedan alegar verbalmente, sin que sus alegaciones se hagan constar en autos;
+
+VI.- Al concluir la audiencia, o dentro de los 8 días hábiles siguientes, se resolverá sobre la procedencia de la queja, imponiendo al infractor, en su caso, las sanciones administrativas correspondientes, notificándosele personalmente la resolución, dentro de las veinticuatro horas siguientes, y dándola a conocer, mediante oficio a la Presidencia del Tribunal Superior de Justicia; para los efectos legales a que hubiere lugar; y
+
+VII.- En cualquier momento, antes o después de la iniciación del proceso disciplinario, se podrá acordar la suspensión temporal del presunto autor en su cargo, empleo o comisión, si a juicio del titular de la dependencia, así conviniere para el desarrollo de la investigación. La suspensión temporal no prejuzga sobre la determinación final que se tome. Si el servidor público temporalmente suspendido, no resultare responsable de la falta que se le haya imputado, será restituido en el goce de sus derechos, y se le cubrirán las percepciones que debió recibir durante el término de la suspensión.
+
+###### ARTICULO 205.
+
+Se levantará acta circunstanciada de las diligencias que se practiquen, mismas que suscribirán quienes en ellas intervengan.
+
+###### ARTICULO 206.
+
+Las resoluciones dictadas por las autoridades que sustancien el procedimiento disciplinario, podrán ser impugnadas por los afectados, mediante el recurso de revisión que se interpondrá:
+
+I.- Ante el titular de la dependencia a que pertenece el servidor público, cuando la sanción se hubiere impuesto por un Secretario de Acuerdos;
+
+II.- Ante la Presidencia del Tribunal Superior de Justicia, cuando se trate de un secretario; y
+
+III.- Ante el Pleno del Tribunal Superior de Justicia, cuando el servidor público sancionado tenga el carácter de titular de una dependencia del Poder Judicial.
+
+###### ARTICULO 207.
+
+La interposición del recurso de revisión, deberá hacerse por escrito dentro de los 5 días siguientes a la fecha en que se verifique personalmente la resolución recurrida, y se admitirá en el efecto suspensivo, sin requisito alguno.
+
+###### ARTICULO 208.
+
+El recurso de revisión se tramitará en la forma siguiente:
+
+I.- En el escrito en que se interponga, se expresarán los agravios que a juicio del recurrente le cause la resolución impugnada, proponiendo las pruebas que considere necesarias;
+
+II.- La autoridad revisora solicitará el envío del expediente relativo y acordará sobre la admisión del recurso y de las pruebas ofrecidas desechando de plano las que no considere idóneas.
+
+Las pruebas admitidas se desahogarán en un plazo de cinco días, que podrá ampliarse por una sola vez, a solicitud del recurrente, por el término de cinco días; y
+
+III.- Concluido el período probatorio, la autoridad revisora emitirá resolución dentro de los ocho días siguientes, notificándola a los iteresados (sic).
+
+###### ARTICULO 209.
+
+La ejecución de las sanciones administrativas impuestas en resolución firme, se llevará a cabo de inmediato en sus términos; pero tratándose de los servidores públicos de base, la destitución se sujetará a lo previsto por la ley del servicio civil.
+
+###### ARTICULO 210.
+
+Si el presunto autor confesare la responsabilidad, se procederá de inmediato a dictar resolución, a no ser que quien conoce del procedimiento, disponga la recepción de pruebas para robustecer la veracidad de la confesión, se impondrá al infractor un tercio de la sanción aplicable, si es de naturaleza económica, pero en lo relativo a la indemnización deberá ser suficiente para cubrir el importe de los daños y perjuicios originados, y siempre deberá restituir lo que hubiere percibido con motivo de la infracción. Quedará al arbitrio prudencial de quien resuelva, dispensar al infractor de la suspensión, separación o inhabilitación.
+
+###### ARTICULO 211.
+
+Para el cumplimiento de las atribuciones que les confiere esta Ley, las autoridades a que se refiere el Artículo 199, podrán emplear los siguientes medios de apremio:
+
+I.- Sanción económica de hasta veinte veces el salario mínimo diario vigente en la Capital del Estado; y
+
+II.- Auxilio de la fuerza pública.
+
+Si existiere resistencia al mandamiento legítimo de autoridad se estará a lo dispuesto en las prevenciones que establezca la legislación penal.
+
+## TITULO DECIMO PRIMERO. DE LOS ESTIMULOS Y RECOMPENSAS
+
+###### ARTICULO 212.
+
+Unicamente los servidores públicos de la administración de justicia podrán obtener los reconocimientos previstos en este Título, siempre que reúnan los requisitos que en él se establecen.
+
+###### ARTICULO 213.
+
+Los estímulos se otorgarán a los servidores públicos de confianza, por el reconocimiento público o trayectoria ejemplar; por la actuación sobresaliente en el desempeño de las funciones que tengan asignadas, así como por cualquier acto excepcional, realizado con desinterés, que contribuya a los fines de la Justicia.
+
+Estos últimos podrán acompañarse de recompensas, conforme a las prevenciones de esta Ley.
+
+###### ARTICULO 214.
+
+Las recompensas se otorgarán a los servidores públicos de base, con más de 25 años de servicio, por su laboriosidad y comportamiento ejemplar.
+
+###### ARTICULO 215.
+
+Son estímulos:
+
+I.- La venera;
+
+II.- La roseta; y
+
+III.- La mención honorífica.
+
+###### ARTICULO 216.
+
+Son recompensas:
+
+I.- La mención honorífica;
+
+II.- La entrega de tres meses de sueldo; y
+
+III.- La concesión de quince días de vacaciones extraordinarias.
+
+###### ARTICULO 217.
+
+La venera combinará el símbolo de la Justicia con el Escudo del Estado. Sus características y diseño no podrán modificarse, una vez aprobados por el Pleno del Tribunal Superior de Justicia y únicamente podrá usarse por su titular en sesiones solemnes del Poder Judicial.
+
+###### ARTICULO 218.
+
+La roseta es un botón que se ostenta sobre la prenda de vestir y representa la venera recibida.
+
+###### ARTICULO 219.
+
+Con el estímulo o la recompensa se entregará una mención honorífica, en la que se expresarán las razones por las que se otorgaron, y deberá contener las firmas del presidente y magistrados del Tribunal Superior de Justicia.
+
+###### ARTICULO 220.
+
+El derecho al uso de la venera y la roseta, se pierde cuando el que las recibió sea sancionado con suspensión o pérdida del cargo.
+
+###### ARTICULO 221.
+
+El presidente y los magistrados del Tribunal Superior de Justicia, de consuno, resolverán los expedientes que se integren para el otorgamiento de los estímulos y recompensas.
+
+###### ARTICULO 222.
+
+Sólo habrá una asignación por año para un servidor público de confianza y para un servidor público de base; sin que sea obligatorio el otorgamiento de estímulos y recompensas, cuando no haya lugar a conferirlos.
+
+###### ARTICULO 223.
+
+Los estímulos y recompensas se tramitarán a propuesta:
+
+I.- Del titular de la dependencia;
+
+II.- De los compañeros de labores;
+
+III.- De las asociaciones de abogados legalmente constituidas e inscritas en el Tribunal;
+
+IV.- De los representantes del Sindicato de los Trabajadores al Servicio del Estado; y
+
+V.- Del interesado que se considere con derecho a ello.
+
+###### ARTICULO 224.
+
+Toda proposición será debidamente fundada y expresará los merecimientos del candidato.
+
+###### ARTICULO 225.
+
+El presidente del Tribunal Superior de Justicia llevará el registro de las candidaturas que se presenten e integrará los expedientes respectivos, que deberán iniciarse con la hoja de servicio del candidato.
+
+###### ARTICULO 226.
+
+El presidente y los magistrados sesionarán durante el mes de enero de cada año, para dictaminar sobre los expedientes sometidos a su consideración. Sus decisiones se tomarán por mayoría de votos y, en caso de empate, el presidente tendrá voto de calidad.
+
+Se designará a uno de los magistrados para que engrose el dictamen y una vez formalizado, se señalará el lugar y fecha en que deba tener verificativo la ceremonia respectiva.
+
+###### ARTICULO 227.
+
+Podrá proponerse el otorgamiento póstumo de un estímulo o recompensa.
+
+###### ARTICULO 228.
+
+En el Libro de Honor que debe llevar la Presidencia del Tribunal, se registrarán los nombres de las personas a quienes se haya otorgado un estímulo o recompensa, asentándose el texto íntegro del dictamen emitido y del acta de entrega.
+
+###### ARTICULO 229.
+
+Las erogaciones que motive el otorgamiento de estímulo y recompensas, serán con cargo al erario público.
+
+## TITULO DECIMO SEGUNDO. DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
+
+###### ARTICULO 230.
+
+Los cargos de los auxiliares de la administración de justicia son oficios de interés público que deben ser desempeñados por personas de buena conducta, imparcialidad e idoneidad absoluta. La función de los auxiliares no constituye una profesión. Para cada oficio se exigirán conocimientos y experiencia en la materia que corresponda y, cuando el caso lo requiera, título profesional legalmente expedido. Los honorarios respectivos son garantía constitucional y una equitativa retribución del servicio; pero en ningún caso podrán significar una carga excesiva para los que soliciten la intervención del órgano jurisdiccional.
+
+###### ARTICULO 231.
+
+Cada año, dentro de los primeros quince días del mes de enero, las personas que tengan interés de figurar en las listas de auxiliares de la administración de justicia como peritos, intérpretes, depositarios, interventores, síndicos de concurso, albaceas, partidores, liquidadores, tutores, curadores, notarios públicos y corredores, deberán formular su solicitud ante la Presidencia del Tribunal Superior de Justicia, directamente, o por conducto de un juzgado de Primera Instancia, con expresión de su identidad, domicilio, estudios, títulos profesionales, práctica y experiencia en su especialidad, cargos desempeñados y servicios que aspiren a prestar.
+
+###### ARTICULO 232.
+
+Durante la primera quincena del mes de febrero, el Pleno del Tribunal integrará el cuerpo de auxiliares y colaboradores de la Justicia, que hayan de servir ante los órganos del Poder Judicial en las materias que se estime necesarias, haciendo una escrupulosa selección de los solicitantes, teniendo en cuenta su especialidad y antecedentes.
+
+###### ARTICULO 233.
+
+El Pleno del Tribunal dividirá la lista general por distritos judiciales, teniendo en cuenta el lugar de residencia del seleccionado. La lista de cada distrito judicial se ordenará, procurando incluir en ella por lo menos un auxiliar para cada cargo, y por lo que toca a los peritos, uno por cada especialidad. En las listas así formadas, las personas en ellas comprendidas avocadas a los distintos cargos y especialidades, se colocarán en orden alfabético por apellidos.
+
+###### ARTICULO 234.
+
+Las listas se harán llegar oportunamente a las Salas y Juzgados, debiendo ser publicadas en los estrados, donde permanecerán a la vista del público, durante todo el año.
+
+###### ARTICULO 235.
+
+Si en la lista de un distrito judicial quedare desierto un cargo o especialidad, el Pleno del Tribunal la integrará con el nombre de la persona que posea la aptitud necesaria.
+
+###### ARTICULO 236.
+
+No podrán formar parte de las listas de auxiliares de la administración de justicia:
+
+I.- Los incapaces;
+
+II.- Los que hayan sido declarados responsables de cualquier delito intencional;
+
+III.- Quienes hayan rendido dictamen pericial, contra el cual hubieren prosperado objeciones por dolo, negligencia, soborno o simulación;
+
+IV.- Quienes como depositarios, síndicos, interventores, albaceas, liquidadores, partidores, tutelares o curadores, con administración de bienes, no hayan rendido oportunamente cuentas de su gestión, cubierto el saldo que resulte a su cargo, reintegrados los bienes que se le confiaron o que hayan utilizado éstos en provecho propio o de tercero, o se les haya fincado responsabilidad por administración negligente;
+
+V.- Aquellos que hayan sido suspendidos en el ejercicio de su profesión;
+
+VI.- Aquellos que hayan sido suspendidos o destituidos de su cargo o empleo, como servidores públicos por sanción disciplinaria;
+
+VII.- Quienes sin causa justificada se negaren a aceptar o ejercer el cargo de auxiliar para el que fueron designados; y
+
+VIII.- Los auxiliares de la Administración de Justicia que con motivo del cargo que se les hubiere conferido, hayan convenido honorarios con las partes, o solicitado o recibido el pago de ellos con anterioridad a la tasación de los mismos hecha por el juez, o excediendo el importe de la misma.
+
+###### ARTICULO 237.
+
+Cualquier ciudadano y el Ministerio Público podrán solicitar ante el Pleno del Tribunal, la exclusión de una persona que figure en la lista de auxiliares de la Administración de Justicia, invocando las causales previstas en el artículo precedente o alegando falta de idoneidad moral o técnica de aquella.
+
+Para la exclusión solicitada se notificará personalmente al auxiliar de que se trate, y se tramitará la instancia en la vía incidental, sin que ello impida su nombramiento en tanto se pronuncie la resolución correspondiente.
+
+###### ARTICULO 238.
+
+Si se decreta la exclusión ésta se comunicará a los juzgados de los distritos judiciales del domicilio del auxiliar excluido para los efectos consiguientes.
+
+###### ARTICULO 239.
+
+En la designación de auxiliares de la Administración de Justicia se observarán las siguientes reglas:
+
+I.- La autoridad judicial hará la designación de auxiliar que le corresponda, entre las personas que figuran en las listas, siguiendo el orden establecido en ellas;
+
+II.- La designación será rotatoria, de suerte que la misma persona no pueda ser nombrada por segunda vez, sino cuando se haya agotado la lista correspondiente. Empero, si al iniciarse o continuarse una diligencia faltaren los auxiliares, podrá procederse de inmediato a su reemplazo, con cualquiera de las personas que figuren en la lista correspondiente;
+
+III.- Cuando en una lista no hubiere auxiliares de la especialidad requerida para el caso, se hará la designación en persona calificada para el oficio;
+
+IV.- En los asuntos del orden penal, se recurrirá a los servidores públicos, profesionales y técnicos, que presten sus servicios en establecimientos o corporaciones dependientes del Gobierno del Estado o de los municipios. En su defecto, se designará a alguno de los auxiliares en los términos a que se refieren las fracciones precedentes, y sus honorarios serán a cargo del Estado; y
+
+V.- Las partes interesadas podrán nombrar libremente a los auxiliares de la Administración de Justicia, en los casos autorizados por la Ley.
+
+###### ARTICULO 240.
+
+Todo nombramiento será notificado al auxiliar designado, mediante oficio, remitido por correo certificado con acuse de recibo, al domicilio del mismo que figure en la lista oficial, de todo lo cual se dejará constancia en el expediente.
+
+###### ARTICULO 241.
+
+Si la persona designada estuviere impedida para desempeñar la función, se excusare de prestar el servicio, no tomare posesión oportuna, no concurriere a la diligencia o no cumpliere con su cargo dentro del término señalado, se procederá inmediatamente a su sustitución.
+
+###### ARTICULO 242.
+
+Siempre que se deje de practicar una prueba o diligencia por culpa de un auxiliar de la Administración de Justicia, el tribunal o el juez del conocimiento, le impondrá una multa de 3 a 30 tantos del salario mínimo diario vigente en la capital del Estado, sin perjuicio de las responsabilidades que procedan en su contra.
+
+###### ARTICULO 243.
+
+La Autoridad Judicial que no tome en cuenta las listas de auxiliares al hacer la designación correspondiente, incurrirá en falta administrativa que será sancionada con la suspensión del cargo por el término de 10 días.
+
+###### ARTICULO 244.
+
+La autoridad que conozca del negocio fijará, de oficio, en el acto de la designación, el monto de los honorarios que se causarán por la intervención de los auxiliares de la justicia, individualizando su monto, según su prudente arbitrio, entre un mínimo del 1% y un máximo del 5% sobre la cuantía del asunto, teniendo en cuenta la naturaleza del servicio; las dificultades que ofrezcan; las condiciones en que habrá de prestarse; el importe de las prestaciones reclamadas; la situación económica de quien deba cubrir los honorarios y los requerimientos profesionales o técnicos propios del cargo.
+
+En los asuntos de valor indeterminado, así como en aquellos que carezcan de cuantía, el juez tasará discrecionalmente los honorarios, tomando en cuenta la naturaleza e importancia del servicio, dentro de un mínimo de tres tantos y un máximo de cien tantos del salario mínimo diario, vigente en la capital del Estado.
+
+###### ARTICULO 245.
+
+Cuando los honorarios del auxiliar fueren objetados, la regulación se hará en forma incidental.
+
+###### ARTICULO 246.
+
+Una vez que quede firme la providencia que fije el monto de los honorarios del auxiliar, la parte interesada deberá exhibir certificado de depósito por el importe de su valor.
+
+Los honorarios de los peritos designados por el juez sin intervención de los interesados, serán garantizados y cubiertos por ambas partes, por mitad, sin perjuicio de lo que resuelva la sentencia definitiva respecto al pago de las costas.
+
+###### ARTICULO 247.
+
+Los auxiliares tendrán derecho a que, además de sus honorarios, se les reembolsen los gastos que justifiquen haber realizado en el desempeño de su función.
+
+###### ARTICULO 248.
+
+Cuando prosperen las objeciones por dolo, negligencia, soborno o simulación contra la actuación del auxiliar, no habrá lugar al pago de honorarios.
+
+###### ARTICULO 249.
+
+El ejercicio de la abogacía tiene como una de sus principales funciones, la de colaborar con las Autoridades Judiciales a la consecución de una recta y expedita Administración de Justicia.
+
+###### ARTICULO 250.
+
+Los profesionales del Derecho y las asociaciones de abogados en su caso, deberán:
+
+I.- Conservar la dignidad y el decoro de la profesión;
+
+II.- Colaborar en la recta y cumplida Administración de la Justicia;
+
+III.- Observar y exigir el respeto debido a las Autoridades Judiciales, colaboradores y auxiliares de la justicia, así como a la contraparte, sus abogados y demás personas que intervengan en los asuntos relacionados con su profesión;
+
+IV.- Obrar con lealtad y honradez en el desempeño de su profesión; y
+
+V.- Guardar el secreto profesional.
+
+###### ARTICULO 251.
+
+Para ejercer en el Estado de Coahuila la profesión de abogado, se requiere poseer título legalmente expedido y debidamente registrado en el Tribunal Superior de Justicia.
+
+###### ARTICULO 252.
+
+Quien solicite el registro de su título, deberá hacerlo por escrito ante el Tribunal exhibiendo el original y copia de aquel, así como el comprobante del pago de los derechos correspondientes.
+
+###### ARTICULO 253.
+
+El título se mandará registrar por acuerdo de la Presidencia, en el libro especial que se llevará para ese efecto, después de constatar su legalidad y autenticidad.
+
+###### ARTICULO 254.
+
+La Presidencia del Tribunal expedirá al interesado constancia del registro, debiendo citarse el número de éste, en cualquier trámite o promoción ante las autoridades judiciales.
+
+###### ARTICULO 255.
+
+Sólo los abogados con título debidamente registrado pueden ser admitidos como apoderados, patronos, voceros o autorizados para oír notificaciones.
+
+A las personas que sin estos requisitos hicieren promociones escritas, les serán devueltas sin acordar; pero si indebidamente se les diere curso, la parte contraria podrá alegar estas circunstancias como excepción dilatoria.
+
+La autoridad judicial que tolere la actuación de quien no tenga esa calidad, incurrirá en falta disciplinaria que será sancionada con multa, la primera vez, y con suspensión, en caso de reincidencia.
+
+###### ARTICULO 256.
+
+Se exceptúan de lo dispuesto en el artículo anterior, los siguientes casos:
+
+I.- La intervención de negocios propios promovidos por personas físicas, o por sí o por conducto de sus representantes legales, o por las personas morales, a través de sus órganos de representación;
+
+II.- La designación de defensor en los procesos penales;
+
+III.- La actuación en los juicios de menor cuantía que se ventilen ante los Juzgados de Conciliación; y
+
+IV.- En general, el ejercicio del derecho de petición y de las acciones públicas consagradas por la Constitución y las leyes respectivas.
+
+###### ARTICULO 257.
+
+La persona que ejerza la abogacía sin título, o sin contar con el registro correspondiente no podrá cobrar honorarios profesionales.
+
+###### ARTICULO 258.
+
+El hecho de que alguna persona se atribuya el carácter de abogado sin tener título legal, o ejerza actos propios de la profesión, será castigado con las sanciones que establece el Código Penal del Estado.
+
+###### ARTICULO 259.
+
+Las asociaciones de abogados podrán solicitar y obtener su registro ante el Tribunal Superior de Justicia, cumplidos los siguientes requisitos:
+
+I.- Exhibir el testimonio de protocolización de su escritura constitutiva y sus Estatutos, así como copia certificada de dichos documentos; y
+
+II.- Acompañar el directorio de sus miembros, así como una relación de los socios que integran su Consejo Directivo y su Comisión de Honor.
+
+###### ARTICULO 260.
+
+La asociaciones de abogados legalmente constituidas y registradas, quedan debidamente autorizadas para gestionar ante la Autoridad Judicial que corresponda, lo que estimen conducente para la mejor administración de justicia.
+
+T R A N S I T O R I O S
+
+###### ARTICULO PRIMERO.
+
+Esta ley empezará a regir el día quince de enero de mil novecientos noventa y uno.
+
+###### ARTICULO SEGUNDO.
+
+En sesión extraordinaria a la que se convoque al Pleno, se designará al presidente del Tribunal Superior de Justicia; y se adscribirán a las Salas correspondientes, los magistrados numerarios y supernumerarios. En cuanto a éstos últimos se les adscribirá por el orden de las Salas para las que fueron designados, llamándose en primer término a los de la Primera Sala y así sucesivamente hasta completar los que sean necesarios en los términos de la ley. El resto, si lo hubiere, quedarán en disponibilidad para cubrir futuras suplencias si se presentaren antes del término de su encargo.
+
+###### ARTICULO TERCERO.
+
+En tanto se establezca la Tercera Sala de lo Familiar, los negocios que son de su competencia serán conocidos y resueltos por la Primera Sala de lo Civil.
+
+###### ARTICULO CUARTO.
+
+Los asuntos en trámite o citados para sentencia, radicados en cada una de las Salas Unitarias, se turnarán a la Sala Colegiada correspondiente por razón de la materia.
+
+###### ARTICULO QUINTO.
+
+Se prorroga el período para el que fueron designados los actuales Magistrados del Tribunal Superior de Justicia del Estado, en los términos previstos por el Artículo Cuarto Transitorio del Decreto número 457, de reformas y adiciones a la Constitución Política del Estado de Coahuila de Zaragoza, de quince de junio de mil novecientos ochenta y ocho, publicado en el Periódico Oficial del Gobierno del Estado, Tomo XCV, Número 49, de diecisiete de junio del propio año.
+
+###### ARTICULO SEXTO.
+
+El Tribunal Superior de Justicia, por conducto de la Sala Colegiada que corresponda por razón de la materia, continuará conociendo de los asuntos de la competencia del Primer Tribunal Unitario de Distrito, en tanto éste se crea en la capital del Estado.
+
+El Tercer Tribunal Unitario de Distrito, con residencia en Monclova, Coahuila conocerá de los asuntos de su competencia y además de los que correspondan al Cuarto Tribunal Unitario de Distrito, con residencia en Piedras Negras, en tanto se crea este Tribunal.
+
+###### ARTICULO SEPTIMO.
+
+Los asuntos en trámite o citados para sentencia, radicados en cada una de las Salas que sean de la competencia de los Tribunales Unitarios de Distrito, se turnarán al que corresponda, según su jurisdicción.
+
+###### ARTICULO OCTAVO.
+
+Los magistrados de los Tribunales Unitarios de Distrito serán nombrados por el Pleno del Tribunal, en los términos de esta Ley. Iniciarán sus funciones el día 1o. de febrero de 1991 y las concluirán el 31 de enero de 1994. Al término de su encargo podrán ser reelectos y, si lo fueren, quedarán cubiertos por régimen previsto por este ordenamiento, para los casos de reelección.
+
+###### ARTICULO NOVENO.
+
+Se prorroga el término para el cual fueron designados los jueces de Primera Instancia y los integrantes de los Tribunales Tutelares para Menores, conforme a lo previsto en el Artículo Cuarto Transitorio del Decreto de reformas y adiciones de la Constitución Política del Estado de Coahuila de Zaragoza, de quince de junio de mil novecientos ochenta y ocho, a que se alude en Artículo Quinto Transitorio de esta Ley.
+
+###### ARTICULO DECIMO.
+
+Cuando así proceda, los Juzgados de Primera Instancia en materia Civil que vienen actuando como delegados de Tribunales Tutelares para Menores, remitirán las causas que ante ellos se encuentren pendientes, cualquiera que sea su estado, al Juzgado de lo Familiar que designe el Pleno del Tribunal.
+
+###### ARTICULO DECIMO PRIMERO.
+
+Los asuntos en trámite que se encuentren en los Juzgados Municipales que desaparecen en los términos de esta Ley, se remitirán a los Juzgados de Primera Instancia que correspondan por razón de la materia.
+
+###### ARTICULO DECIMO SEGUNDO.
+
+Los Juzgados de Conciliación que sustituyen a los Juzgados Auxiliares seguirán dependiendo en lo económico de los ayuntamientos, por lo que estos deberán autorizar las erogaciones indispensables para su funcionamiento, en sus presupuestos de egresos correspondientes al año de 1991. Los propios ayuntamientos deberán proponer ante el Pleno del Tribunal Superior las ternas correspondientes para la designación de los Jueces de Conciliación que deberán cubrir el período que se inicia el 1o. de febrero de 1991 y concluye el 31 de enero de 1994.
+
+###### ARTICULO DECIMO TERCERO.
+
+Los artículos correspondientes al título relativo a los auxiliares de la administración de justicia, se observarán una vez que el Pleno del Tribunal tenga a su disposición los elementos necesarios para elaborar las listas de auxiliares que en ellos se indican.
+
+###### ARTICULO DECIMO CUARTO.
+
+El Consejo de la Judicatura iniciará sus funciones de inmediato, a cuyo efecto el Presidente del Tribunal Superior de Justicia convocará a sus integrantes a una primera reunión que deberá celebrarse el 31 de enero de 1991.
+
+###### ARTICULO DECIMO QUINTO.
+
+En lo no previsto, el Tribunal Superior de Justicia en Pleno, y por mayoría de votos, dictará los acuerdos necesarios para hacer efectivas las disposiciones de la presente Ley.
+
+###### ARTICULO DECIMO SEXTO.
+
+Quedan abrogados el Reglamento Interior del Tribunal Superior de Justicia de 20 de marzo de 1919 y la Ley Orgánica del Poder Judicial en el Estado de 3 de enero de 1940 y derogadas, las demás disposiciones que se contengan en cualquier ordenamiento legal, y se opongan a la presente Ley.
+
+D A D O EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO EN LA CIUDAD DE SALTILLO, COAHUILA, A LOS VEINTIOCHO DIAS DEL MES DE SEPTIEMBRE DE MIL NOVECIENTOS NOVENTA.
+
+DIPUTADO PRESIDENTE.- PROFR. JOSE FEDERICO BORJON DE LOS SANTOS. (RUBRICA).
+
+DIPUTADO SECRETARIO.- MANUEL D. JIMENEZ HERRERA. (RUBRICA)
+
+DIPUTADO SECRETARIO.- PROFRA. Y LIC. MA. ANTONIETA NAVARRETE RAMOS. (RUBRICA).
+
+IMPRIMASE, COMUNIQUESE Y OBSERVESE.
+
+SALTILLO, COAHUILA, A 10 DE DICIEMBRE DE 1990.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+
+LIC. ELISEO MENDOZA BERRUETO.
+
+(RUBRICA).
+
+EL SECRETARIO DE GOBIERNO.
+
+LIC. JOSE FUENTES GARCIA.
+
+(RUBRICA).
