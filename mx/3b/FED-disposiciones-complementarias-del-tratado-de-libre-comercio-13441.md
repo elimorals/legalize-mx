@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2000-08-01"
+last_updated: "2000-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,9 +18,9 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO RELATIVO A LA SALVAGUARDA AGROPECUARIA DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MEDIANTE EL CUAL SE DETERMINA LA MERCANCIA COMPRENDIDA EN LA FRACCION Y CON LA TASA ARANCELARIA QUE SE INDICA
+ACUERDO RELATIVO A LA SALVAGUARDA AGROPECUARIA DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MEDIANTE EL CUAL SE DETERMINA LA MERCANCÍA COMPRENDIDA EN LA FRACCION Y CON LA TASA ARANCELARIA QUE SE INDICA
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 1 de agosto de 2000
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 5 de octubre de 2000.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Comercio y Fomento Industrial.
 
@@ -68,23 +68,11 @@ Se establecen las reglas de marcado de país de origen para determinar cuando un
 
 ###### ARTICULO UNICO.
 
-La importación de mercancías originarias de América del Norte, de conformidad con el Tratado de Libre Comercio de América del Norte, comprendidas en las fracciones arancelarias de la Tarifa de la Ley del Impuesto General de Importación que a continuación se indican, elegibles para ser consideradas como productos de los Estados Unidos de América, conforme al Acuerdo por el que se establecen reglas de marcado de país de origen para determinar cuando una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense, de conformidad con el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 7 de enero de 1994, estará sujeta a la siguiente tasa arancelaria ad-valorem:
+La importación de mercancías originarias de América del Norte, de conformidad con el Tratado de Libre Comercio de América del Norte, comprendidas en las fracciones arancelarias de la Tarifa de la Ley del Impuesto General de Importación que a continuación se indican, elegibles para ser consideradas como productos de los Estados Unidos de América, conforme al Acuerdo por el que se establecen reglas de marcado de país de origen para determinar cuándo una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense, de conformidad con el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 7 de enero de 1994, estará sujeta a la siguiente tasa arancelaria ad-valorem:
 
 Fracción Descripción Tasa
 
-2101.11.01 Café instántaneo sin aromatizar. 20%
-
-2101.11.02 Extracto de café líquido concentrado,
-
-aunque se presente congelado. 20%
-
-2101.11.99 Los demás. 20%
-
-2101.12.01 Preparaciones a base de extractos,
-
-esencias o concentrados o a base
-
-de café 20%
+0203.29.99 Las demás 20%
 
 #### SECCION I: ELIMINACION ARANCELARIA
 
@@ -354,4 +342,4 @@ Se adicionan al Apéndice del Decreto que establece la tasa aplicable para 2000 
 
 UNICO.- El presente Acuerdo tendrá vigencia a partir del día siguiente al de su publicación en el Diario Oficial de la Federación y hasta el 31 de diciembre de 2000.
 
-México, D.F., a 25 de julio de 2000.- Con fundamento en el artículo 42 del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial y por ausencia del Titular de esta Secretaría, firma el Subsecretario de Negociaciones Comerciales Internacionales, Luis de la Calle Pardo.- Rúbrica.
+México, D.F., a 29 de septiembre de 2000.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
