@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "1984-08-14"
+last_updated: "1988-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 1988.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -467,15 +467,15 @@ III. Si tuvo tiempo para obrar con la reflexión y cuidado necesarios; y
 
 IV. Tratándose de delitos cometidos con motivo del tránsito de vehículos, del manejo de motores, maquinaria o elementos relacionados con el trabajo, el estado del equipo, vías de comunicación y condiciones de funcionamiento mecánico.
 
-> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1988)</small>
 
 ### CAPITULO V. Reclusión para enfermos mentales, sordomudos y ciegos
 
 ###### Art. 50.
 
-Cuando por culpa se ocasione daño en propiedad ajena no mayor del importe de ochenta días de salario, o por cualquier valor, en el tránsito de vehículos o se causen lesiones de las señaladas en las fracs. I, II y III del Art. 207 de este Código, el delito solo se perseguirá a petición de la parte ofendida.
+Cuando por culpa se ocasionen daños en las cosas por cualquier valor, o bien se causen lesiones de las señaladas en las frac. I, II y III del Art. 207 de este Código, el delito sólo se perseguirá por querella de la parte ofendida.
 
-Esta disposición no se aplicará cuando el inculpado, en el momento de ocurrir el hecho, se encontrare en estado de ebriedad o bajo el influjo de estupefacientes u otras sustancias que produzcan efectos similares.
+Lo dispuesto en el párrafo que antecede no se aplicará cuando el inculpado en el momento de ocurrir el hecho, se encontrare en estado de ebriedad o bajo el influjo de estupefacientes y otras sustancias que produzcan efectos similares.
 
 ### CAPITULO VI. Sustitución y conmutación de sanciones
 
@@ -2591,7 +2591,7 @@ Primero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Segundo. Este Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
-P.O 14 DE AGOSTO DE 1984.
+P.O. 14 DE AGOSTO DE 1984.
 
 DECRETO 11601
 
@@ -2606,3 +2606,7 @@ DECRETO 11602
 Primero. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 21 DE ABRIL DE 1988.
+
+Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
