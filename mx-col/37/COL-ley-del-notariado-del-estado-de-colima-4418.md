@@ -4,7 +4,7 @@ identifier: "COL-ley-del-notariado-del-estado-de-colima-4418"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-04"
-last_updated: "1964-01-04"
+last_updated: "1965-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL NOTARIADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1965.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, los días 4, 11, 18 y 25 de enero de 1964.
 
@@ -163,7 +163,9 @@ I.- Expresará el lugar y fecha en que se extienda la escritura, su nombre y ape
 
 II.- Indicará la hora en los casos en que la Ley así lo prevenga;
 
-III.- Consignará los antecedentes y certificará que ha tenido a la vista los documentos que se le hubieren presentado para la formación de la escritura.- Si se tratare de inmuebles relacionará cuando menos el último título de propiedad del bien o del derecho a que se refiere la escritura, citará su inscripción en el Registro Público de la Propiedad o expresará la razón por la cual no está registrada;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 1965)</small>
+
+III.- Consignará los antecedentes y certificará que ha tenido a la vista los documentos que se les hubieren presentado para la formación de la escritura. Si se tratare de inmuebles relacionará cuando menos el último título de propiedad del bien o del derecho a que se refiere la escritura, citará su inscripción en el Registro Público de la Propiedad o expresará la razón por la cual no esté registrada y recabará del Registro Público certificado de libertad o gravámenes del inmueble de que se trate, asentando en la escritura si está o no gravada la propiedad;
 
 IV.- Al citar el nombre de un notario de número o adscrito ante cuya fe haya pasado algún instrumento, mencionará precisamente su fecha y el número de la notaría en la que el de número o adscrito despachaba al otorgarse el documento indicado;
 
@@ -734,3 +736,11 @@ El Gobernador Constitucional del Estado, dispondrá se publique, circule y obser
 Salón de Sesiones del H. Congreso del Estado.- Colima, Col., Diciembre 29 de 1963.- Diputado Presidente, PROFR. ISMAEL AGUAYO FIGUEROA.- Diputado Secretario, ENRIQUE CUEVAS RUIZ.- Diputado Secretario, JOSE AHUMADA SALAZAR.- Rúbricas.
 
 Por tanto mando se imprima, publique, circule y observe.- Palacio de Gobierno, Colima, Col., Diciembre 29 de 1963.- El Gobernador Constitucional del Estado, LIC. FRANCISCO VELASCO CURIEL.- Rúbrica.- El Secretario General de Gobierno, LIC. JULIO SANTA ANA E.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE JULIO DE 1965.
+
+###### ARTICULO UNICO.
+
+Este decreto empezará a surtir sus efectos a partir del día 1o. de agosto del presente año.
