@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1987-04-23"
+last_updated: "1987-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERÍODICO OFICIAL: 23 DE ABRIL DE 1987.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 1987.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -293,6 +293,22 @@ El Estado de Querétaro adopta para su régimen interior, la forma de Gobierno R
 
 El Estado organizará un Sistema de Planeación Democrática para su Desarrollo.
 
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 1987)</small>
+
+Corresponde al Gobierno del Estado la preparación, desarrollo y vigilancia de los procesos electorales. La Ley determinará los organismos que tendrán a su cargo esta función y la debida correponsabilidad de los Partidos Políticos y de los ciudadanos, además establecerá los medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, por esta Constitución y las Leyes que de ellas emanen e instituirá un Tribunal cuya competencia será la que la propia Ley determine; las resoluciones de dicho Tribunal serán obligatorias y solo podrán ser modificadas por el Colegio Electoral de la Legislatura y por los Ayuntamientos en el caso del Artículo 135 de esta Constitución, que serán la última instancia en la calificación de las elecciones; todas estas resoluciones tendrán el carácter de definitivas e inatacables.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 1987)</small>
+
+Los Partidos Políticos tienen como fin promover la participación del Pueblo en la vida democrática, contribuir a la integración de la representación popular y como organizaciones de ciudadanos, hacer posible el acceso de estos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante sufragio universal, libre, secreto y directo.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 1987)</small>
+
+Los Partidos Políticos Nacionales y Estatales con Registro tienen derecho a participar en las elecciones estatales y municipales.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 1987)</small>
+
+En los procesos electorales estatales y municipales los partidos Políticos contendientes legalmente acreditados contarán, en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular.
+
 ### CAPITULO UNICO
 
 De la división de los Poderes.
@@ -319,29 +335,23 @@ Del Poder Legislativo.
 
 El ejercicio del Poder Legislativo se deposita en un Cuerpo Colegiado que se denominará Legislatura del Estado, integrada por representantes populares denominados Diputados, electos cada tres años mediante votación directa, secreta, uninominal y por mayoría relativa. Por cada Diputado propietario se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1987)</small>
 
 ###### Art. 32.
 
-La Legislatura del Estado se compondrá de Doce Diputados electos en Distritos Electorales, según el principio de votación mayoritaria relativa y hasta con tres diputados de representación proporcional, mediante el sistema de listas, votadas en la circunscripción plurinominal que corresponderá a las (sic) totalidad del territorio del Estado.
+La Legislatura del Estado se compondrá de doce Diputados electos en Distritos Electorales uninominales, según el principio de votación mayoritaria relativa y hasta con siete Diputados de representación proporcional electos mediante el sistema de listas votadas en la circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado.- (sic) La elección de los siete Diputados según el principio de la representación proporcional y el sistema de listas, se sujetará a las bases generales siguientes, y a lo que en lo particular disponga la Ley.
 
-La elección de los Diputados de minorías, según el principio de proporcionalidad y el sistema de listas, deberá sujetarse a lo que en particular disponga la Ley Electoral de conformidad con las siguientes bases:
+I.- Para obtener el registro de su lista regional, el Partido Político que lo solicite, deberá acreditar que participa con candidatos a Diputados por mayoría relativa, en por lo menos cuatro de los doce Distritos uninominales.
 
-I.- Para obtener la inscripción de sus listas, el Partido Político que lo solicite, deberá acreditar que tiene su registro definitivo y que participa con candidatos a Diputados por mayoría relativa en por lo menos tres de los Distritos uninominales.
+II.- Tendrá derecho a que le sean atribuidos Diputados electos según el principio de representación proporcional, todo aquel Partido Político que alcance por lo menos 1.5% del total de la votación emitida en la circunscripción plurinominal.
 
-II.- Tendrá derecho a que le sean atribuidos Diputados electos según el principio de proporcionalidad, todo aquel Partido que:
+III.- Al Partido que se encuentre dentro de los supuestos señalados en las Fracciones I y II de este Artículo, le serán asignados los Diputados que corresponda de acuerdo al porcentaje de votos obtenidos en la circunscripción.
 
-a).- No haya obtenido tres o más constancias de mayoría.
+IV.- La Ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
 
-b).- Que alcance por lo menos el 1.5% de la votación emitida para el total de las listas.
+V.- Ningún Partido tendrá derecho a que le sean reconocidos más de 13 Diputados de la integración total de la Legislatura.
 
-III.- Al Partido que se encuentre dentro de los supuestos señalados en las fracciones I y II de este artículo, les serán asignados los Diputados que corresponda de acuerdo al porcentaje de votos obtenidos en la circunscripción.
-
-La Ley Electoral del Estado determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación: en todo caso se asignará el orden que tuviesen los candidatos en las listas correspondientes.
-
-IV.- En caso de que dos o más partidos con derecho a participar en la distribución por éstas, obtuviesen en su conjunto tres o más constancias de mayoría, sólo será objeto de distribución el 50% de las curules que deban asignarse por el principio de proporcionalidad.
-
-V.- Los diputados de mayoría y los de minoría, siendo representantes del pueblo, tendrán la misma categoría e iguales derechos y obligaciones.
+VI.- Los Diputados por el principio de mayoría relativa o por el de representación proporcional tienen la misma categoría e iguales derechos y obligaciones.
 
 ###### Art. 33.
 
@@ -397,17 +407,15 @@ III.- Cuando los Diputados propietarios hubieren dejado de concurrir sin causa j
 
 IV.- En los demás casos que señale el reglamento interior de la Cámara.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1987)</small>
 
 ###### Art. 39.
 
-La Legislatura calificará la elección de sus miembros a través de un Colegio Electoral que se integrará por tres presuntos Diputados que de acuerdo con las constancias de mayoría que registre la Comisión Electoral del Estado, hayan obtenido mayor número de votos y por dos presuntos Diputados de representación proporcional, uno de cada partido, con el porcentaje más alto de votación. Su resolución será definitiva e inacatable.
+La Legislatura calificará en definitiva la elección de sus miembros a través de un Colegio Electoral que se integrará con todos los presuntos Diputados que hubieren obtenido constancia expedida por la Comisión Electoral del Estado, tanto con los electos por el principio de votación mayoritaria relativa como los electos por el principio de representación proporcional.
 
-Los Diputados electos, presentarán sus constancias registradas en la Secretaría de la Legislatura, a fin de que se dé cuenta con ellas en la primera junta preparatoria, que deberá tener verificativo quince días antes de la apertura de las sesiones, eligiéndose en la propia junta, la mesa directiva conforme a la Ley Orgánica.
+Los Diputados electos presentarán sus constancias registradas en la Secretaría de la Legislatura a fin de que se dé cuenta con ellas en la primera junta preparatoria, la que deberá tener verificativo ocho días antes de la apertura de las sesiones, eligiéndose en la propia junta, la mesa directiva conforme a la Ley Orgánica.
 
-Durante los quince días a que se refiere el párrafo anterior, se tendrán las juntas necesarias para la calificación de las constancias y su aprobación y se elegirán Presidente y Secretario de la Legislatura, en los términos que disponga la Ley Orgánica del Congreso.
-
-En caso de que se instalen dos o más legislaturas, será la legal aquella que se instale en el Recinto Oficial y de acuerdo con la Ley, y sea además reconocida por el Poder Ejecutivo del Estado.
+Durante los ocho días a que se refiere el párrafo anterior se tendrán las juntas necesarias para la calificación de las constancias y su aprobación y se eligirán Presidente y Secretario de la Legislatura, en los términos que disponga la Ley Orgánica del Congreso.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
 
@@ -421,15 +429,17 @@ Para que los Diputados propietarios y suplentes puedan entrar a funcionar, deber
 
 de sus sesiones.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1987)</small>
+
 ###### Art. 41.
 
-La Legislatura del Estado se instalará el día 14 de septiembre, y el 16 del mismo mes del año que corresponda, abrirá su período de sesiones. En los casos de sesiones extraordinarias, el día que se fije en la convocatoria respectiva.
+La Legislatura del Estado se instalará el 26 de septiembre, y el 27 del mismo mes del año que corresponda, abrirá su primer período de Sesiones Ordinarias. En los casos de Sesiones Extraordinarias, el día que se fije en la convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1978)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1987)</small>
 
 ###### Art. 42.
 
-La Legislatura llevará a cabo, cada año, dos períodos de sesiones: el primero comenzará el 16 de Septiembre y concluirá el 31 de Diciembre; el segundo se iniciará el día 1° de abril y terminará el 31 de julio.
+La Legislatura llevará a cabo, cada año, dos períodos de Sesiones Ordinarias; el primero comenzará el 27 de septiembre y concluirá el 31 de diciembre, el segundo se iniciará el día 1° de mayo y terminará el 31 de julio.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
@@ -559,9 +569,9 @@ I.- Fijar cada año la Ley General de Ingresos y los Presupuestos de Egresos, co
 
 II.- Dar la resolución que corresponda, aprobando, reformando o reprobando las leyes de ingresos de los Municipios;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1987)</small>
 
-III.- Computar los votos emitidos en las elecciones de Diputados y de Gobernador del Estado, calificar la elección y hacer la declaración de los electos, en los términos de la ley, así como tomarles la protesta legal, lo mismo que a los Magistrados del Tribunal Superior de Justicia del Estado, y del Tribunal de lo Contencioso Administrativo del Estado.
+III.- Computar los votos emitidos en las elecciones de Diputados y de Gobernador del Estado, calificar la elección y hacer la declaración de los electos, en los términos de la Ley; así como tomarles la protesta legal, lo mismo que a los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo y del Tribunal de lo Contencioso Electoral del Estado;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
@@ -595,13 +605,13 @@ Las resoluciones que emita la Legislatura sobre tales asuntos, serán definitiva
 
 XI.- Designar de entre los vecinos a los Consejos Municipales, a propuesta del Ejecutivo, a efecto de que éstos concluyan los períodos constitucionales respectivos, en el supuesto de que se hubiese declarado desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procediere que entraren en funciones los suplentes ni se celebraren nuevas elecciones. Si alguno de los miembros dejare de desempeñar su cargo, será substituído por el suplente, o se procederá según lo disponga la Ley;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1987)</small>
 
-XII.- Elegir a los Magistrados Propietarios y Supernumerarios del Tribunal Superior de Justicia del Estado, así como al Magistrado Propietario del Tribunal de lo Contencioso Administrativo del Estado y a los Supernumerarios que requiera la Administración de la Justicia a través de este Tribunal.
+XII.- Elegir a los Magistrados propietarios y supernumerarios del Tribunal Superior de Justicia; al Magistrado propietario del Tribunal de lo Contencioso Administrativo y a los Supernumerarios que requiera de la Administración de la Justicia a través de este Tribunal; así como a los Magistrados propietarios y supernumerarios del Tribunal de lo Contencioso Electoral del Estado.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1987)</small>
 
-XIII.- Resolver acerca de la no aceptación o renuncia del cargo, que presenten los Diputados, el Gobernador, los Magistrados del Tribunal Superior de Justicia y los Magistrados del Tribunal de lo Contencioso Administrativo.
+XIII.- Resolver acerca de la no aceptación o renuncia del cargo, que presenten los Diputados, el Gobernador, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo y los Magistrados del Tribunal de lo Contencioso Electoral del Estado.
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1979)</small>
 
@@ -669,9 +679,9 @@ XXXVII.- Otorga o no concesiones a las compañías o particulares que lo solicit
 
 XXXVIII.- Revisar la Ley de Ingresos Municipales, y decretar la Ley General Orgánica de los Municipios;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1987)</small>
 
-XXXIX.- Llamar a los diputados suplentes en caso de imposibilidad o muerte de los propietarios, y si aquéllos también hubieren fallecido o estuvieren imposibilitados para cubrir las faltas de sus propietarios, expedir la convocatoria para que se proceda a nueva elección en el distrito o distritos electorales respectivos.
+XXXIX.- Llamar a los diputados suplentes electos por los principios de mayoría relativa o representación proporcional, en caso de imposibilidad o muerte de los propietarios, y si aquellos también hubiesen fallecido o estuvieren imposibilitados para cubrir las faltas de sus propietarios, declarar vacante el puesto, expidiendo, en su caso, la convocatoria para que se proceda a nueva elección en los términos que fije la Ley.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
@@ -811,33 +821,35 @@ El Congreso, cuando lo crea oportuno establecerá los juicios por Jurados, en lo
 
 Del Tribunal Superior de Justicia.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O 2 DE JULIO DE 1987)</small>
 
 ###### Art. 104.
 
-El Tribunal Superior de Justicia se compondrá por lo menos de cinco Magistrados Propietarios y cinco Supernumerarios, que serán elegidos directamente por la Legislatura del Estado, dentro de los ocho días siguientes a su instalación. Funcionará en Pleno o en Salas con los Magistrados Propietarios, o con los Supernumerarios, en su caso.
+El Tribunal Superior de Justicia se compondrá por lo menos de cinco Magistrados propietarios y cinco supernumerarios, que serán elegidos directamente por la Legislatura del Estado, dentro de los 4 días siguientes a su instalación, funcionará en pleno o en salas con los Magistrados propietarios, o con los supernumerarios, en su caso.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1985)</small>
+> <small>(REFORMADO, P.O 2 DE JULIO DE 1987)</small>
 
 ###### Art. 105.
 
-Los Magistrados del Tribunal Superior de Justicia durarán en sus funciones tres años y entrarán al desempeño de su encargo el primero de octubre del año en el que el C. Gobernador del Estado inicie el ejercicio de su encargo y el primero de octubre del año correspondiente que marca la mitad del período mencionado del propio ejecutivo, pudiendo ser destituidos en los términos del Titulo Noveno de esta Constitución.
+Los Magistrados del Tribunal Superior de Justicia, durarán en sus funciones 3 años y entrarán al desempeño de su encargo el 1° de octubre del año en que el C. Gobernador del Estado inicie el ejercicio de su encargo, y el 1° de octubre del año correspondiente que marca la mitad del período mencionado del propio Ejecutivo; podrán ser reelectos, y si lo fueren, solo podrán ser privados de sus puestos en los términos que determine esta Constitución y la Ley de Responsabilidades de los Servidores Públicos de la Entidad.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1937)</small>
+Los Magistrados y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+
+> <small>(REFORMADO, P.O 2 DE JULIO DE 1987)</small>
 
 ###### Art. 106.
 
 Para ser Magistrado en el Estado se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento, y en el pleno ejercicio de sus derechos políticos y civiles;
+I.- Ser ciudadano mexicano por nacimiento y en pleno ejercicio de sus derechos políticos y civiles.
 
-II.- Ser mayor de veinticinco años;
+II.- No tener más de 65 años de edad, ni menos de 35 el día de la elección.
 
-III.- Tener título profesional de Abogado, expedido por la autoridad competente o por corporación legalmente facultada para ello, y haber ejercido la profesión cuando menos dos años.
+III.- Poseer el día de la elección, con antiguedad (sic) mínima de 5 años, título profesional de abogado, expedido por la Autoridad o Institución Legalmente Facultada.
 
-IV.- No pertenecer al estado eclesiástico, ni ser ministro de alguna religión o secta;
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
 
-V.- Tener antecedentes intachables de moralidad.
+V.- Haber residido en el Estado durante los últimos 5 años.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1939)</small>
 
@@ -891,11 +903,11 @@ XI.- Las demás obligaciones que les impongan las leyes.
 
 ### CAPITULO III. De los Jueces del Estado
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1985)</small>
+> <small>(REFORMADO, P.O 2 DE JULIO DE 1987)</small>
 
 ###### Art. 110.
 
-Los Jueces del Estado serán nombrados por el Tribunal Superior de Justicia cada vez que el caso lo requiera, pudiendo ser destituídos en los términos del Título Noveno de esta Constitución.
+Los Jueces del Estado serán nombrados por el Tribunal Superior de Justicia, cada vez que el caso lo requiera, a quienes se les deberá respetar su independencia en el ejercicio de sus funciones, misma que estará garantizada en la Ley Orgánica del Poder Judicial.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
@@ -919,11 +931,11 @@ Los jueces del Estado durarán en su encargo todo el tiempo que dure su recto y 
 
 (DEROGADO, P.O. 8 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1987)</small>
 
 ###### Art. 116.
 
-La Ley Orgánica del Poder Judicial determinará el número de Jueces que debe haber en el Estado, los requisitos que deberán ser satisfechos para ser juez, sus respectivas jurisdicciones y competencia, el modo se suplir sus faltas, y las facultades y obligaciones de los Magistrados, jueces y demás empleados de la Administración de Justicia.
+La Ley Orgánica del Poder Judicial determinará el número de Jueces que deba haber en el Estado, los requisitos para el ingreso, normas que regulen su formación y permanencia, así como sus respectivas jurisdicciones y competencias, el modo de suplir sus faltas y las facultades y obligaciones de los Magistrados, Jueces y demás empleados de la administración de justicia.
 
 ### CAPITULO IV
 
@@ -1013,39 +1025,23 @@ Entre los Ayuntamientos y el Gobierno del Estado no habrá autoridad intermedia 
 
 Los cargos de Presidente Municipal y Regidores, en ningún caso serán gratuitos. El Presupuesto de Egresos determinará la remuneración que deban percibir.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1987)</small>
 
 ###### Art. 134.
 
-El número de Regidores que deberá haber en cada Municipalidad, será el que demande la eficaz atención de sus servicios públicos; pero no será menor de ocho en el Municipio de Querétaro, seis en los de Jalpan, San Juan del Río y Tequisquiapan y cuatro en las demás Municipalidades.
+El número de Regidores que, junto con el Presidente Municipal, integren los Ayuntamientos de cada municipalidad, será el que demande la eficaz atención de sus servicios públicos; pero no será menor de 8 en el Municipio de Querétaro; 6 en los de San Juan del Río, Tequisquiapan y Jalpan y 4 en las demás municipalidades.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+En el Municipio de Querétaro el Ayuntamiento, podrá tener hasta 4 regidores electos por el principio de representación proporcional; los Ayuntamientos de San Juan del Río, Tequisquiapan y Jalpan podrán tener hasta 3; el resto de los Ayuntamientos podrán tener hasta 2.
 
-En todos los Municipios del Estado, los Ayuntamientos podrán tener adicionalmente hasta dos Regidores electos según el principio de representación proporcional.
+El Partido Político con derecho a que le sean atribuidos regidores electos según el principio de representación proporcional deberá acreditar:
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
+A). Que registró fórmula de candidatos para integrar el Ayuntamiento en las elecciones municipales respectivas;
 
-De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuido un Regidor, al Partido Político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los siguientes requisitos:
+B). Que no alcanzó el triunfo por mayoría relativa en la misma elección;
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
+C).- Que alcanzó por lo menos el 5% del total de la votación emitida en el Municipio correspondiente.
 
-a).- Que hubieren registrado fórmula de candidato en las elecciones municipales respectivas;
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
-
-b).- No haya alcanzado el triunfo por mayoría relativa en la misma elección;
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
-
-c).- Alcance por lo menos el 12% por ciento del total de la votación emitida en el Municipio correspondiente.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
-
-Un segundo regidor podrá ser atribuido, al Partido que habiendo obtenido el segundo porcentaje en la votación minoritaria, tenga por lo menos más de la mitad de los sufragios que el Partido triunfador minoritario haya alcanzado, de no darse este mínimo de proporción se le atribuirá este segundo Regidor al Partido triunfador minoritario.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
-
-La ley electoral determinará los procedimientos que se observarán en dicha designación.
+La Ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación. Los regidores electos por los principios de mayoría relativa o de representación proporcional, tendrán la misma categoría e iguales derechos y obligaciones.
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 1923)</small>
 
@@ -1461,9 +1457,9 @@ Para ser Gobernador, se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento, y en el pleno ejercicio de sus derechos políticos y civiles;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 1939)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1987)</small>
 
-II.- Ser ciudadano del Estado por nacimiento o con vecindad no menor de treinta años, inmediatamente anteriores al día de la elección;
+II.- Ser ciudadano del Estado por nacimiento o por residencia efectiva no menor de cinco años, inmediatamente anteriores al día de la elección;
 
 > <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1918)</small>
 
@@ -1481,17 +1477,27 @@ VI.- No pertenecer al estado eclesiástico, ni ser ministro de alguna religión 
 
 No quedan comprendidos en la fracción IV del artículo anterior, los puestos de carácter docente en las escuelas, ni los facultativos en el ramo de beneficencia.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1987)</small>
+
 ###### Art. 79.
 
-El Gobernador entrará a ejercer su encargo, previa protesta ante la Legislatura, el día primero de octubre del año que corresponda; durará en él cuatro años, y no podrá ser reelecto en el período inmediato.
+El Gobernador del Estado entrará a ejercer su cargo, previa protesta ante la Legislatura, el día primero de octubre del año que corresponda.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1987)</small>
 
 ###### Art. 80.
 
-El ciudadano que sustituyere al Gobernador Constitucional en caso de falta absoluta de éste, no podrá ser electo Gobernador para el período inmediato.
+El Gobernador del Estado, cuyo orígen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de Interino, Provisional, Sustituto o Encargado de Despacho.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1987)</small>
 
 ###### Art. 81.
 
-No podrá ser Gobernador del Estado, para el próximo período, el ciudadano que hubiere desempeñado el cargo de Gobernador interino.
+No podrán ser electos para el período inmediato:
+
+A).- El Gobernador Sustituto Constitucional, o el designado para concluir el período en caso de falta absoluta del Gobernador Constitucional, aún cuando tenga distinta denominación.
+
+B).- El Gobernador Interino, el Provisional o el Ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador Constitucional, siempre que desempeñe el cargo de los dos últimos años del período.
 
 ###### Art. 82.
 
@@ -1775,6 +1781,12 @@ La presente Constitución substituye a la del Estado, promulgada el 16 de septie
 
 Art.10º .- Se derogan las leyes, decretos y reglamentos vigentes en el Estado, en todo lo que se opongan al cumplimiento de la presente Constitución.
 
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 1987)</small>
+
+###### Art. 11º.
+
+Los diputados que se elijan a la Cuadragésima Novena Legislatura del Estado, durarán en funciones del 14 de septiembre de 1988 al 25 de septiembre de 1991.
+
 Dada en el Salón de Sesiones del H. Congreso, en Querétaro, a cuatro de septiembre de mil novecientos diez y siete.- Presidente, LIC. BENITO REYNOSO, 1er. Diputado por la Municipalidad de Querétaro.- Vice-presidente, LIC. ROBERTO NIETO, 1er. Diputado por la Municipalidad de Cadereyta.- JUVENTINO RUIZ ALFARO, Diputado por la Municipalidad de Amealco.- JOSE OROZCO, JR., 2º Diputado por la Municipalidad de Cadereyta.- JOSÉ F. MARROQUIN, 2º Diputado por la Municipalidad de Querétaro.- LIC. LUIS GOMEZ, 3er. Diputado por la Municipalidad de Querétaro.- MARIANO RETANA, 4º Diputado por la Municipalidad de Querétaro.- PEDRO ARGAIN, 2º Diputado suplente por la Municipalidad de San Juan del Río.- EUGENIO MENDOZA, 1er. Diputado por la Municipalidad de Tolimán.- Secretario, DR. CARLOS ALCOCER; 5º Diputado por la Municipalidad de Querétaro.- Secretario, GUILLERMO ALCANTARA, 1er. Diputado por la Municipalidad de San Juan del Río.- Prosecretario, JUAN B. MENDOZA, 3er. Diputado por la Municipalidad de San Juan del Río.- Prosecretario, ISMAEL M. UGALDE, 2º Diputado por la Municipalidad de Tolimán.
 
 Por tanto, mando se imprima, circule y publique por bando solemne, en todo el Estado, para su debido cumplimiento.- Dado en el Palacio de Gobierno, a nueve de septiembre de mil novecientos diez y siete.- El Gobernador Constitucional, ERNESTO PERUSQUIA.- El Srio. General de Gobierno, Lic. J. RODRIGUEZ DE LA FUENTE.
@@ -2021,7 +2033,7 @@ P.O. 19 DE DICIEMBRE DE 1985
 
 Artículo Primero.- Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado, "La Sombra de Arteaga" y en los cartelones que señala el Artículo 164 de la Constitución Política Local y remítase copia autorizada de la misma a los Ayuntamientos de los Municipios de la Entidad para los efectos de lo previsto en el Artículo 163 de la Ley Suprema invocada.
 
-Artículo Segundo.- Aprobadas, en su caso, las Reformas Propuestas al texto Constitucional, la presente Ley entrará en vigor al día siguiente de la Publicación en el Periódico Oficial del Estado, de la declaratoria que al respecto emita el Congreso del Estado.
+Artículo Primero.- Aprobadas, en su caso, las Reformas Propuestas al texto Constitucional, la presente Ley entrará en vigor al día siguiente de la Publicación en el Periódico Oficial del Estado, de la declaratoria que al respecto emita el Congreso del Estado.
 
 P.O. 26 DE DICIEMBRE DE 1985
 
@@ -2046,3 +2058,9 @@ Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La
 ###### ARTICULO SEGUNDO.
 
 Aprobadas, en su caso las reformas propuestas al texto constitucional, la presente Ley entrará en vigor al día siguiente de la publicación en el Periódico Oficial del Estado, de la declaratoria que al respecto emita el Congreso del Estado.
+
+P.O. 2 DE JULIO DE 1987
+
+> <small>(F. DE E. P.O. 3 DE SEPTIEMBRE DE 1987)</small>
+
+UNICO.- Esta Ley entrará en vigor a partir de su publicación en el Periódico Oficial del Estado "La Sombra de Arteaga" y las reformas a los artículos 41 y 42 surtirán sus efectos a partir del 16 de septiembre de 1989.
