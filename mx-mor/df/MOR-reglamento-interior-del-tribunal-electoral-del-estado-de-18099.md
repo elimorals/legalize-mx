@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-tribunal-electoral-del-estado-de-18099"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-08"
-last_updated: "2003-01-22"
+last_updated: "2004-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 8 de noviembre de 2000.
 
@@ -475,7 +475,7 @@ IX. Las encomendadas por el Presidente, los Magistrados o el Secretario General 
 
 X. Las demás que le señale el Código y este reglamento.
 
-DE LAS ÁREAS DEL PERSONAL TÉCNICO Y ADMINISTRATIVO
+DE LAS ÁREAS DEL PERSONALTÉCNICO Y ADMINISTRATIVO
 
 ###### ARTÍCULO 32.
 
@@ -1087,7 +1087,7 @@ El Tribunal creará las comisiones necesarias, para la consecución de los fines
 
 La estructura, organización y funcionamiento de las comisiones se sujetarán al Reglamento que para el efecto se apruebe.
 
-> <small>(ADICIONADO CON LOS APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 22 DE ENERO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE ENERO DE 2003)</small>
 
 ### CAPÍTULO VII. DEL PROCEDIMIENTO PARA DIRIMIR LOS CONFLICTOS Y DIFERENCIAS LABORALES DE LOS SERVIDORES DEL INSTITUTO ESTATAL ELECTORAL Y DEL TRIBUNAL ESTATAL ELECTORAL
 
@@ -1283,6 +1283,70 @@ El Pleno del Tribunal dentro de un plazo igual resolverá lo conducente, pero po
 
 Los efectos de la sentencia del Tribunal podrán ser en el sentido de confirmar, modificar o revocar el acto o resolución impugnados. En el supuesto de que la sentencia ordene dejar sin efectos la destitución del servidor del Instituto Estatal Electoral o del Tribunal Estatal Electoral, según sea el caso, éste podrá negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario, más veinte días por cada año trabajado; y demás prestaciones a que tuviere derecho.
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2004)</small>
+
+###### ARTÍCULO 114.
+
+Se crea la Unidad de Información Pública del Tribunal Electoral del Poder Judicial del Estado de Morelos, surtiendo sus efectos a partir de su aprobación, en base a los Criterios Generales para el funcionamiento de la Unidad de Información del Tribunal Electoral del Poder Judicial del Estado de Morelos, aprobados en la Tercera Sesión Plenaria que con carácter de privada celebró en fecha veintisiete de febrero del año en curso; cuyo funcionamiento será de acuerdo, a los Criterios citados, al efecto de cumplimentar la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2004)</small>
+
+###### ARTÍCULO 115.
+
+Son responsables de la Unidad de Información Pública del Tribunal Electoral, las personas que funjan como Secretario General y Director Administrativo de este órgano jurisdiccional.
+
+El Consejo de Información clasificada estará integrado por: el Magistrado Presidente como titular de este órgano jurisdiccional; un Coordinador del Consejo; un Secretario Técnico; la persona que funja como Secretario General, en su carácter de jefe de la Unidad de Información Pública del Tribunal; y el Director Administrativo, analogado a órgano de control interno de este órgano electoral.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2004)</small>
+
+###### ARTÍCULO 116.
+
+La Unidad de Información Pública del Tribunal Estatal Electoral, realizará las siguientes funciones:
+
+a) Recibir y dar trámite, a las solicitudes de acceso a la información pública y a las relativas al ejercicio de la acción de habeas data.
+
+b) Difundir en coordinación con las dependencias y unidades administrativas correspondientes, la información a que se refiere el artículo 32 de la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos.
+
+c) Administrar, sistematizar, archivar y resguardar, la información clasificada como reservada y confidencial, en coordinación con las dependencias y unidades administrativas correspondientes.
+
+d) Notificar al Consejo de Información Clasificada acerca de toda la información susceptible de considerarse como reservada, para que este resuelva al respecto.
+
+e) Promover en la entidad pública de su adscripción, la actualización periódica de la información a que se refiere la ley.
+
+f) Orientar y auxiliar a las personas en la elaboración y entrega de las solicitudes de acceso a la información.
+
+g) Realizar los trámites y gestiones dentro de la entidad pública de su adscripción, para entregar la información solicitada y efectuar las notificaciones correspondientes.
+
+h) Promover la capacitación, actualización y habilitación oficial, de los servidores públicos que se encargarán de recibir y dar trámite a las solicitudes presentadas.
+
+i) Administrar y actualizar mensualmente el registro de las solicitudes, respuestas, trámites y costos, que implique el cumplimiento de sus funciones.
+
+j) Las necesarias para facilitar el ejercicio del derecho de acceso a la información y la protección general de datos personales, de acuerdo con los principios y preceptos establecidos en la ley reglamentaria.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2004)</small>
+
+###### ARTÍCULO 117.
+
+El Consejo de Información Clasificada tendrá las siguientes funciones:
+
+a) Recibir y dar trámite de oficio, a todas las solicitudes de información denegada por la Unidad de Información Pública.
+
+b) Emitir las resoluciones en las que se funde y motive que determinada información debe considerarse como reservada.
+
+c) Resolver acerca de los fundamentos y motivaciones que se adujeron en las respuestas negativas a las solicitudes de información, con el objeto de confirmar, modificar o revocar la clasificación de la información realizada por el titular de la entidad pública y unidad administrativa responsable; y requerir a la unidad administrativa y servidores públicos, a entregar la información correspondiente cuando sea el caso.
+
+d) Coordinarse con la Unidad de Información Pública para la atención debida de las solicitudes de acceso y la entrega de información requerida.
+
+e) Recibir, dar trámite y resolver las solicitudes denegadas en el ejercicio de la acción de habeas data.
+
+f) Coordinarse con la unidad administrativa responsable, para permitir el acceso a la información a que se refiere el artículo 32 de la ley reglamentaria.
+
+g) Realizar los trámites y gestiones necesarios, ante la entidad pública que corresponda, para cumplir con sus funciones.
+
+h) Supervisar dentro de la entidad pública correspondiente, la aplicación de las disposiciones emitidas por el Instituto, el Sistema Estatal de Documentación y Archivo, y los titulares de las dependencias, con el objeto de hacer cumplir la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos.
+
+i) Elaborar el informe anual que cada entidad pública deberá enviar al Instituto, en el que se de cuenta de la aplicación de la ley reglamentaria.
+
 T R A N S I T O R I O S (SIC)
 
 ###### ARTÍCULO ÚNICO.
@@ -1318,3 +1382,9 @@ LAS REFORMAS CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN R
 P.O. 22 DE ENERO DE 2003.
 
 ÚNICO.- Las presentes reformas y adiciones al Reglamento Interno del Tribunal Electoral del Estado, entrarán en vigor, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 24 DE MARZO DE 2004.
+
+PRIMERO.- La creación de la Unidad de Información Pública y del Consejo de Información Clasificada, surte sus efectos a partir del veintisiete de febrero de dos mil cuatro.
+
+SEGUNDO.- La presente reforma y adición al Reglamento Interno del Tribunal Electoral del Poder Judicial del Estado, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad"
