@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1978-12-25"
+last_updated: "1979-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1979.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -295,9 +295,11 @@ g) Las operaciones realizadas por o con personas que lleven a cabo programas con
 
 ### CAPITULO II. IMPUESTO SOBRE TRASLACION DE DOMINIO
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
 ### CAPITULO III. IMPUESTO SOBRE DIVERSIONES Y ESPECTACULOS PUBLICOS
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 22.
 
@@ -305,53 +307,71 @@ OBJETO.- Este Impuesto grava:
 
 a) La enajenación de bienes inmuebles ubicados en el Estado.
 
-b) Las informaciones ad-perpetuam y las sentencias Judiciales que impliquen reconocimiento de la posesión.
+b) Las informaciones ad-perpetuam y las sentencias judiciales que impliquen reconocimiento de la posesión.
 
 c) La enajenación y el derecho o renta a perpetuidad de lotes en los cementerios.
 
-d) La adjudicación de bienes inmuebles en pago; la aportación de bienes inmuebles que se haga a persona moral; la adquisición de inmuebles por fusión de sociedades; la adjudicación o dación en pago de bienes inmuebles por liquidación de persona moral, y; la venta con reserva de dominio de bienes de inmuebles.
+d) La adjudicación de bienes inmuebles en pago; la aportación de bienes inmuebles que se haga a persona moral; la adquisición de inmuebles por fusión de sociedades; la adjudicación o dación en pago de bienes inmuebles por liquidación de persona moral.
 
-Cuando se rescinda o se deje sin efectos, por cualquier causa, la venta con reserva de dominio de bien inmueble, por la que se haya cubierto oportunamente este tributo, el causante tendrá derecho la devolución del impuesto pagado.
+e) El acto constitutivo del fideicomiso traslativo de dominio de bienes inmuebles. Se entenderá que existe enajenación de bienes inmuebles por fideicomiso, en los términos de la fracción IV del artículo 15 del Código Fiscal de la Federación.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+
+###### ARTICULO 22 Bis.
+
+La trasmisión de dominio de un inmueble, en ejecución de un fideicomiso, causará el impuesto sobre Traslación de Dominio, salvo cuando ésta se haga en favor del o de los fideicomisarios designados en el acto constitutivo del fideicomiso, o de los adquirientes de los Derechos del fideicomisario por cualquier título, siempre que en la constitución o adquisición se haya cubierto el impuesto correspondiente.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 23.
 
-SUJETOS.- Son sujetos de este Impuesto:
+SUJETOS.- Son sujetos de este impuesto:
 
-a) Los adquirentes de los bienes.
+a) Los adquirientes de los bienes.
 
 b) Los beneficiarios de las resoluciones judiciales.
+
+c) Los fideicomisarios, tratándose del acto constitutivo del fideicomiso traslativo de dominio de bienes de inmuebles.
+
+En caso de que, al constituirse el fideicomiso, no se designe fideicomisario, el impuesto será a cargo del fideicomitente.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 24.
 
 TASA.- El Impuesto se aplicará sobre el valor del inmueble o derecho objeto de la operación:
 
-I.- Si no excede de $ 50,000.00 …………………………………2%
+I.- Si no excede de $100,000.00 2%
 
-II.- Si excede de $ 50,000.00
+II.- Si excede de $100,000.00 pero no de $250,000.00 3%
 
-pero no de $100,000.00…………………...........………3%
+III.- Si excede de $250,000.00 pero no de $500,000.00 4%
 
-III.- Si excede de $100,000.00
+IV.- Mayores de $500,000.00 5 %
 
-pero no de $250,000.00……………………...…………4%
-
-IV.- Mayores de $250,000.00…………………………………5%
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 25.
 
-DETERMINACION.- En la determinación de este impuesto se deberán seguir las siguientes reglas:
+DETERMINACION.- En la determinación de este impuesto se deberán seguir las reglas siguientes:
 
-I.- Para los efectos Fiscales, el impuesto de traslación de dominio se calculara, tomándose el valor más alto entre el declarado en la operación y el indicado en el certificado de valor actual real que, al efecto, expida la Tesorería General del Estado.
+I.- Para los efectos legales, el Impuesto de Traslación de Dominio se calculará, tomándose el valor más alto entre el declarado en la operación, el del avalúo de Institución de Crédito autorizada para operar por la Secretaria de Hacienda y Crédito Público, y el indicado en el certificado de valor actual real que, al efecto, expida la Tesorería General del Estado.
 
-En los términos de la Ley General del Timbre, se practicará avalúo bancario por alguna Institución de Crédito autorizada para ello por la Secretaría de Hacienda y Crédito Público. En caso de que dicho avalúo arroje un valor más elevado que el declarado en la operación o el indicado por la Tesorería Estatal, será dicho avalúo el que sirva de base para el pago del impuesto. En operaciones menores de $50,000.00 es opcional para la Tesorería Municipal exigir el avalúo bancario.
+En las operaciones menores de $50.000.00. (CINCUENTA MIL PESOS 00/100 M.N.) para el cálculo del impuesto se tomará el valor más alto entre el declarado en la operación y el indicado en el certificado de valor actual real que expida la Tesorería General del Estado.
 
 II.- En los contratos que tengan por objeto enajenaciones recíprocas de propiedades inmuebles, el impuesto se causará únicamente sobre los bienes que tengan mayor valor entre los que entregue cualquiera de los contratantes.
 
+III.- Por cada escritura relacionada con el objeto del impuesto, que extiendan los notarios, corredores, jueces y demás fedatarios que por disposición legal tengan funciones notariales, estarán obligados a formular una nota de traslación de dominio conforme al modelo oficial, liquidando o declarando, en su caso y bajo su responsabilidad, el monto del impuesto o la no causación o exención del mismo.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 26.
 
-PAGO.- El impuesto se cubrirá en efectivo o mediante cheque certificado, dentro de los treinta días siguientes a la fecha del acto o contrato que implique la generación del gravamen. Para tal efecto, los Notarios o Autoridades que actúen por receptoría enviarán a la Tesorería Municipal dentro del plazo señalado, copia de la nota prevista por el Artículo 90 de la Ley Federal del Timbre.
+PAGO.- El pago del impuesto no estará sujeto a previa calificación de la autoridad fiscal municipal; sin perjuicio del ejercicio de los derechos de fiscalización que ésta conserva.
 
-Tratándose de actos que deban constar en escritura pública, los Notarios y las Autoridades señaladas en el párrafo anterior, retendrán y enterarán el impuesto oportunamente.
+El impuesto se cubrirá en efectivo o mediante cheque certificado, ante las Oficinas Receptoras de las Tesorerías Municipales donde se ubique el bien materia del impuesto, o en las Instituciones Bancarias autorizadas por los Ayuntamientos, dentro de los treinta días siguientes a partir de la fecha en que se firme la escritura respectiva, anexando a la nota de traslación de dominio, copia autorizada de la referida escritura.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 27.
 
@@ -359,27 +379,29 @@ EXENCIONES.- Están exentos:
 
 a) El Estado, la Federación y los Municipios.
 
-b) Las Juntas de Mejoramiento Moral, Cívico y Material, previa autorización del ayuntamiento respectivo.
+b) Las Juntas de Mejoramiento Moral, Cívico y Material, previa autorización del Ayuntamiento respectivo.
 
-c) Los trabajadores al servicio del Estado, Federación o Municipio, siempre que habiten el inmueble objeto del Impuesto y no posean otro bien raíz en el Estado.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+c) Los trabajadores al servicio del Estado, Federación o Municipio, siempre que el inmueble objeto del impuesto vaya a destinarse o se destine a vivienda y no posean otro bien raíz en el Estado.
 
 d) Los entes u organismos creados por el Gobierno del Estado de Nuevo León para solucionar el problema de la vivienda y de la tenencia legal de la tierra, así como las personas que resulten directamente beneficiadas con sus programas.
 
-e) Las operaciones realizadas por o con personas que lleven a cabo programas concretos, con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey", para solucionar el problema de la vivienda y de la tenencia legal de la tierra, previa autorización del H. Congreso del Estado, a iniciativa del C. Gobernador, quien solicitará opinión del Presidente Municipal que corresponda.
+e) Las operaciones realizadas por o con personas que lleven a cabo programas concretos, con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey", para solucionar el problema de la vivienda y de la tenencia legal de la tierra, previa opinión del Gobierno del Estado emitida a través de la Secretaría de Asentamientos Humanos y Planificación.
 
 f) Informaciones ad-perpetuam y sentencias judiciales que impliquen reconocimiento de la posesión del inmueble, cuyo destino sea el señalado en las fracciones d) y e) de este precepto.
 
 g) La enajenación y el derecho o renta a perpetuidad de lotes en los panteones municipales.
 
+h) Las operaciones en que funjan como fideicomisarios Instituciones Públicas o Para-Públicas, destinadas a la solución del problema de la vivienda en la Entidad; tales como INFONAVIT, INDECO, FOVISSTE, etc.
+
+i) El acto consecutivo del fideicomiso de garantía de administración o testamentario.
+
 ###### ARTICULO 28.
 
 OBLIGACION SOLIDARIA.- Responderán solidariamente del pago de este Impuesto el vendedor, los Notarios, Corredores Públicos y Jueces que actúen por receptoría, cuando autoricen la operación sin haberse cerciorado del correcto cumplimiento del pago de este Impuesto.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
-Los notarios, corredores públicos y jueces que actúen por receptoría deberán asentar en los protocolos o libros oficiales en que hagan constar las operaciones objeto de este impuesto, ya sea al margen o incorporado dentro de su mismo texto, y en el apéndice correspondiente, los datos que identifiquen el recibo o documento oficial comprobatorio del pago de este impuesto, en cada operación, identificándolo con el número, folio, la fecha y el monto del gravamen, sin cuyo requisito se estimará que los fedatarios públicos mencionados no cumplieron con la obligación señalada en el párrafo anterior.
+Los Notarios, corredores públicos y jueces que actúen por receptoría serán solidariamente responsables del pago del impuesto y deberán asentar en los protocolos o libros oficiales en que hagan constar las operaciones objeto de este impuesto, ya sea al margen o incorporado dentro de su mismo texto, y en el apéndice correspondiente, los datos que identifiquen el recibo o documento oficial comprobatorio del pago de este impuesto, en cada operación, precisando la fecha y el monto del gravamen.
 
 ### CAPITULO IV. IMPUESTO SOBRE JUEGOS PERMITIDOS
 
@@ -387,17 +409,21 @@ Los notarios, corredores públicos y jueces que actúen por receptoría deberán
 
 ###### ARTICULO 29.
 
-OBJETO.- La celebración de diversiones o espectáculos públicos en el Estado.
+OBJETO:- La celebración de espectáculos públicos en el Estado.
 
-Por diversión o espectáculo público debe entenderse toda función de esparcimiento, sea teatral, cinematográfica, deportiva o de cualquier otra índole que se verifique en salones, teatros, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas pagando por ello cierta suma de dinero.
+Por espectáculo público debe entenderse toda función de esparcimiento, sea teatral, cinematográfica, deportiva o de cualquier otra índole que se verifique en salones, teatros, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas pagando por ello cierta suma de dinero.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 30.
 
-SUJETOS.- Las personas físicas, morales o unidades económicas sin personalidad jurídica, que ordinaria o accidentalmente organice o exploten diversiones o espectáculos públicos.
+SUJETOS:- Las personas físicas, morales o unidades económicas sin personalidad jurídica, que ordinaria o accidentalmente organicen o exploten espectáculos públicos.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 31.
 
-TASA.- Los sujetos pagarán, por concepto de este impuesto, el 10% de la entrada bruta que genere la diversión o espectáculo correspondiente, cuando realicen su actividad en los Municipios de Monterrey, Garza García, Guadalupe y San Nicolás de los Garza.
+TASA.- Los sujetos pagarán, por concepto de este impuesto, el 10% de la entrada bruta que genere el espectáculo correspondiente, cuando realicen su actividad en los Municipios de Monterrey, Garza García, Guadalupe y San Nicolás de los Garza.
 
 En los demás Municipios pagarán el 5%.
 
@@ -477,29 +503,19 @@ f) de $100.00 a $1,500.00 diarios, en el caso del inciso f) del Artículo 33.
 
 ###### ARTICULO 36.
 
-OBJETO.- La realización de propaganda comercial fonética o gráfica en la vía pública.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 37.
 
-SUJETOS.- Las personas físicas, morales o unidades económicas sin personalidad jurídica, que realicen propaganda en la vía pública.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 38.
 
-TASA.- El impuesto se cubrirá en los siguientes términos:
-
-a) Propaganda fonética, de $500.00 a $1,000.00 mensuales, por unidad de sonido.
-
-b) Propaganda gráfica de $200.00 a $1,000.00 mensuales.
-
-c) Anuncios pintados en las paredes de edificaciones $12.00, al mes por metro cuadrado.
-
-d) Anuncios en cartulina, lámina, plástico, tela, madera o cualquier otro material, $10.00 al mes por metro cuadrado, ya sea que se fije en paredes, fachadas, azoteas, vidrieras, banquetas, aparadores, carrocerías, etcétera, ya sea que se sostengan por otros medios.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 39.
 
-EXENCION.- Quedan exentos de este impuesto las denominaciones y razones sociales, y demás nombres comerciales puestos en los techos, fachadas o banquetas de los edificios donde se encuentre establecido el negocio, para identificar el local.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
 ### CAPITULO I. POR COOPERACION PARA OBRAS PUBLICAS
 
@@ -1193,11 +1209,41 @@ Los causantes que cubran extemporáneamente prestaciones fiscales de años anter
 
 Se derogan las disposiciones y Leyes que se opongan al fiel y exacto cumplimiento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 5o.
 
-En todo tiempo, al Ejecutivo del Estado, a través de la Tesorería General, podrá verificar si las personas señaladas en el Artículo 27, Incisos d), e) y f), cumplen con los requisitos establecidos para gozar de las exensiones que esta Ley les concede.
+Durante 1980 y mientras permanezca en vigor la adhesión del Estado de Nuevo León al Sistema Nacional de Coordinación Fiscal a que se contraen el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrados y suscritos por el Estado de Nuevo León y la Secretaría de Hacienda y Crédito Público en la ciudad de Mazatlán, Sinaloa, el 19 de octubre de 1979, así como los diversos convenios de colaboración que se celebrarían y suscribirían con motivo de dicha adhesión, el Impuesto sobre Juegos Permitidos de esta Ley permanecerá en vigor en la forma y términos siguientes:
 
-En caso de que se descubra que los beneficiados no cumplan con los requisitos por los cuales se les concedió la exensión se cancelarán los beneficios otorgados, haciéndoles efectivo el cobro de los impuestos, por los cuales gozaron de franquicia.
+IMPUESTO SOBRE JUEGOS PERMITIDOS.
+
+###### ARTICULO 33.
+
+OBJETO.- Es objeto de este impuesto la realización o explotación de:
+
+a) Rifas, sorteos, loterías de especulación o juegos con premios.
+
+b) Ferias.
+
+###### ARTICULO 34.
+
+SUJETOS.- Las personas físicas, morales o unidades económicas sin personalidad jurídica, que realicen o exploten las actividades gravadas.
+
+###### ARTICULO 35.
+
+TASA.- Este impuesto se pagará en los siguientes términos:
+
+a) 12% sobre el valor comercial de los premios en el caso del inciso a) del Artículo 33 de esta Ley.
+
+Tratándose de artículos de propaganda comercial, se pagará el 10% sobre el valor de los artículos rifados.
+
+b) $100.00 a $1,500.00 diarios, en el caso del inciso b) del Artículo 33 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+
+###### ARTICULO 6o.
+
+Si se dan por terminados los Convenios de adhesión al Sistema Nacional de Coordinación Fiscal y de Colaboración Administrativa en Materia Fiscal Federal, mencionados en el transitorio que antecede, así como los diversos convenios de colaboración que se celebrarían o suscribirían con motivo de la adhesión del Estado de Nuevo León al Sistema Nacional de Coordinación Fiscal, el Impuesto sobre Juegos Permitidos de esta Ley, entrará en vigor nuevamente al día siguiente al en que surta sus efectos la terminación de dichos convenios en la misma forma y términos en que aparece establecido en la Ley de Hacienda para los Municipios del Estado de Nuevo León correspondiente al ejercicio de 1979.
 
 Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -1254,3 +1300,15 @@ P.O. 25 DE DICIEMBRE DE 1978.
 ###### ARTICULO SEGUNDO
 
 - Se derogan las disposiciones que se opongan al fiel y exacto cumpliendo de esta Ley.
+
+P.O. 28 DE DICIEMBRE DE 1979.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día 1o. de enero de 1980.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las leyes, resoluciones y disposiciones que se opongan al presente Decreto.
+
+Lo anterior no exceptúa a los causantes que cubran extemporáneamente créditos fiscales, de las sanciones y recargos que les sean aplicables.
