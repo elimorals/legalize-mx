@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1992-03-10"
+last_updated: "1992-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1992.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2345,6 +2345,10 @@ Sub-tipo.- Al servidor público que indebidamente dé a conocer documento o noti
 
 Utilización indebida de descubrimiento científico, etc.- Igual pena se impondrá al servidor público que utilice en provecho propio o ajeno descubrimiento científico o técnico u otra información llegados a su conocimiento por razón de sus funciones, y que deba permanecer en secreto, siempre que el hecho no constituya otro delito.
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 1992)</small>
+
 ###### Artículo 305.
 
 Tipo y punibilidad.- Se impondrá de seis meses a cinco años de prisión y de cincuenta a doscientos cincuenta días multa al servidor público que:
@@ -2583,6 +2587,182 @@ Se impondrá sanción de un mes a cinco años de prisión y multa por el equival
 
 Se impondrá sanción de tres meses a cinco años de prisión y multa por el equivalente de cinco a diez mil días de salario mínimo general vigente en el Estado de Baja California, al que sin autorización expedida por autoridad competente, y en contravención a las disposiciones de la ley de la materia, sus reglamentos, normas técnicas y parámetros estatales aplicables, deposite, infiltre, autorice, ordene o descargue aguas residuales, desechos contaminantes en suelos, ríos, cuencas, vasos, demás depósitos o corrientes de agua asignadas al Estado o al Municipio, que ocasionen o puedan ocasionar graves daños a la salud pública, flora, fauna y a los ecosistemas.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 1992)</small>
+
+## TITULO SEXTO. DE LOS DELITOS EN MATERIA ELECTORAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 1992)</small>
+
+###### Artículo 343.
+
+Para los efectos de este título, se entiende por:
+
+I.- Funcionarios Electorales, quienes en los términos de la ley integren los órganos que cumplen funciones públicas electorales;
+
+II.- Funcionarios Partidistas, los dirigentes de los partidos políticos, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales, los propios partidos otorgan representación para actuar en el proceso electoral ante los órganos electorales en los términos de esta ley; y
+
+III.- Documentos Públicos Electorales, las actas oficiales de instalación de casillas; de los cómputos de las mesas directivas de casilla; de los cómputos distritales y municipales; y en general los documentos expedidos en el ejercicio de sus atribuciones por los órganos y funcionarios que cumplen funciones públicas electorales.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 1992)</small>
+
+###### Artículo 344.
+
+Por la comisión de cualquiera de los delitos comprendidos en el presente capítulo, se podrá imponer, además de la pena señalada para cada uno de ellos, la suspensión de derechos políticos de uno a seis años.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 1992)</small>
+
+###### Artículo 345.
+
+Se impondrá de diez a cien días multa, o prisión de seis meses a dos años o ambas sanciones a juicio del juez, a quien:
+
+I.- Vote a sabiendas de que no cumple con los requisitos establecidos por la Ley Electoral del Estado;
+
+II.- Vote más de una vez para efectos de en una misma elección;
+
+III.- Al que durante el día de la jornada y los tres días que le preceden realice actos de campaña electoral.
+
+La pena se aumentará un tercio si tales actos se realizan el día de la jornada electoral en el interior o en las inmediaciones de las casillas.
+
+IV.- Obstaculice o interfiera el desarrollo normal de las votaciones del escrutinio o del computo;
+
+V.- A quien ilícitamente obtenga la inscripción o la cancelación del registro de una persona en el Registro Estatal de Electores
+
+VI.- A quien por cualquier medio impida la inscripción de una persona en el Registro Estatal de Electores, la emisión de su voto en las elecciones o el desempeño de las funciones electorales que se le encomienden. Si para ello empleare la violencia o provocare tumulto o motín se acumulará la pena.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 1992)</small>
+
+###### Artículo 346.
+
+Se impondrán de veinte a cien días multa, o prisión de tres meses a cinco años, o ambas sanciones a juicio de juez, al funcionario electoral que:
+
+I.- Falsifique, altere en cualquier forma, sustraiga, sustituya, destruya o haga uso indebido de documentos relativos al Registro Estatal de Electores;
+
+II.- Al que se niegue o se abstenga de cumplir sin causa justificada, con sus obligaciones electorales, en perjuicio del proceso;
+
+III.- Obstaculice o interfiera con actos u omisiones el desarrollo normal de la votación sin mediar causa justificada;
+
+IV.- Durante el proceso electoral altere los resultados electorales, o sustraiga o destruya boletas electorales;
+
+V.- No entregue o impida la entrega oportuna de documentos oficiales de índole electoral sin mediar causa justificada;
+
+VI.- En ejercicio de sus funciones, ejerza presión sobre los electores y los conduzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+VII.- Con actos u omisiones motive la instalación, apertura o cierre dolosos de una o varias casillas fuera de los tiempos y formas previstas por la Ley Electoral del Estado;
+
+VIII.- Expulse de la casilla electoral sin causa justificada al representante de un partido político;
+
+IX.- Entregue boletas electorales a quien no exhiba su credencial de elector expedida por el Registro Estatal de Electores, o no aparezca inscrito en la lista nominal de electores, o ambas circunstancias;
+
+X.- Se niegue a entregar boletas electorales a quien legalmente reúna los requisitos para poder votar.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 1992)</small>
+
+###### Artículo 347.
+
+Se impondrán de cincuenta a cien días multa, o prisión de tres meses a cinco años, o ambas sanciones a juicio del juez, al funcionario partidista que:
+
+I.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+II.- Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
+
+III.- Sustraiga, destruya, altere o haga uso indebido de documentos oficiales de índole electoral;
+
+IV.- Interponga con dolo, mala fe o manifiesta temeridad un recurso en materia electoral a sabiendas que resultará desechado por notoriamente improcedente;
+
+V.- Simule un hecho o acto de campaña electoral, o medios de propaganda electoral, en perjuicio de algún partido político;
+
+VI.- Simule un acto jurídico o un escrito relacionado con el proceso electoral;
+
+VII.- Propale dolosamente noticias falsas en torno al desarrollo del proceso electoral, de la jornada electoral, de las actividades de partidos políticos y candidatos, o respecto a los resultados oficiales contenidos en las actas de cómputo; y
+
+VIII.- Impida la instalación; la apertura; el cierre de una casilla; o la obra o cierre fuera de los tiempos previstos por la Ley Electoral del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 1992)</small>
+
+###### Artículo 348.
+
+Se impondrá prisión de cuatro a seis años, y destitución del cargo, e inhabilitación para ocupar cualquier otro cargo público hasta por diez años, al servidor público que:
+
+I.- Abusando de sus funciones obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato;
+
+II.- A los funcionarios o empleados públicos que, abusando de sus funciones, sea directamente, sea por instrucciones dadas a personas bajo su dependencia jerárquica, intenten obtener los sufragios electorales a favor de una candidatura determinada o inducirlos a la abstención;
+
+III.- Condicione la prestación de un servicio público a la emisión del sufragio en favor de un partido político o candidato; y
+
+IV.- Indebidamente destine fondos o bienes que tenga a su disposición en virtud de su cargo, al apoyo de un partido político o candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione este apoyo a través de sus subordinados usando del tiempo correspondiente de sus labores para que éstos presten servicios a un partido político o candidato.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 1992)</small>
+
+###### Artículo 349.
+
+Se impondrá suspensión de derechos hasta por seis años, a quienes habiendo sido electos a diputados, munícipes o gobernador, no se presenten sin causa justificada a desempeñar sus funciones dentro del plazo previsto para el efecto.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 1992)</small>
+
+###### Artículo 350.
+
+Se impondrán de veinte a cien días multa o prisión de tres meses a cinco años, o ambas sanciones a juicio del juez, a quien:
+
+I.- Proporcione documentos o información falsa al Registro Estatal de Electores para obtener su credencial de elector o intente registrarse más de una vez;
+
+II.- Altere en cualquier forma, destruya o haga uso indebido de la credencial de elector;
+
+III.- Se presente a una casilla electoral portando armas;
+
+IV.- A los notarios públicos o a los que desempeñen sus funciones por ministerio de ley, que sin causa justificada se nieguen a dar fe de los actos en que deben intervenir en los términos de ley;
+
+V.- En una elección ejecute o pretenda ejecutar un acto que tenga por objeto la compra o venta de uno o más votos, sustraiga una o varias boletas o presente una falsa, o sustraiga documentos electorales;
+
+VI.- Pretenda obligar a otro a votar por determinado candidato mediante presión;
+
+VII.- Impida que una casilla electoral se instale oportunamente u obstruccione su funcionamiento o su clausura conforme a la ley;
+
+VIII.- Ostente a una agrupación como partido político local sin que esté registrado como tal en los términos de la Ley Electoral;
+
+IX.- Ostente a partidos políticos o agrupaciones cualesquiera como confederación de partidos políticos locales o coalición de partidos políticos locales sin que hayan obtenido el registro en los términos de la ley Electoral.
+
+La pena a que se refiere el artículo anterior se podrá incrementar en una cuarta parte, si las conductas son cometidas por personal del Registro Estatal de Electores o por extranjeros.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 1992)</small>
+
+###### Artículo 351.
+
+Se impondrán de treinta a ciento cincuenta días multa o prisión de tres meses a cinco años, o ambas sanciones a juicio del juez, a:
+
+I.- los funcionarios encargados del registro civil que omitan informar al Registro Estatal de Electores o a las autoridades electorales sobre las defunciones que tengan conocimiento;
+
+II.- A los funcionarios judiciales que se abstengan de comunicar a las autoridades electorales sus resoluciones que impongan suspensión o pérdida de derechos políticos;
+
+III.- Al funcionario municipal o estatal que no preste, con la oportunidad debida, la ayuda solicitada por las autoridades electorales;
+
+IV.- A los funcionarios encargados del Registro Estatal de Electores que no admitan las reclamaciones justificadas de cualquier persona excluída del padrón para ser inscrita o no admitan las solicitudes de inscripción procedentes;
+
+V.- Al miembro de la mesa directiva de una casilla electoral que se niegue sin justa causa a firmar la documentación de la casilla o que consienta, con conocimiento de ello, una votación ilegal, o que rehuse admitir el voto de un elector que tenga derecho a hacerlo;
+
+VI.- A los funcionarios electorales que se nieguen a reconocer la personalidad de los representantes de los partidos políticos o de los candidatos y les impidan el ejercicio de las atribuciones que les concede la ley;
+
+VII.- Al funcionario que por negligencia extravíe un paquete electoral;
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 1992)</small>
+
+###### Artículo 352.
+
+Se impondrán de cincuenta a doscientos cincuenta días multa o prisión de siete meses a cinco años, o ambas sanciones a juicio del juez, a:
+
+I.- Al funcionario que, con conocimiento presente o haga valer un documento electoral alterado, así como al que altere o utilice alguno, o al que teniendo fé pública certifique hechos falsos relativos a la función electoral.
+
+II.- A todo funcionario que prive de la libertad a los candidatos, sus representantes o los de un partido o sus propagandistas pretextando delitos o faltas que no se hayan cometido;
+
+III.- A quien se posesione de una casilla o la instale ilegalmente;
+
+IV.- A quien usurpe el carácter de funcionario de casilla;
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 1992)</small>
+
+###### Artículo 353.
+
+Será castigado con tres años de prisión y hasta quinientos días multa, además de la destitución del cargo y suspensión de los derechos políticos durante 3 años, a todo servidor público que de cualquier manera impida indebidamente la reunión de una asamblea, una manifestación pública o cualquier otro acto legal de propaganda electoral.
+
 ## ARTICULOS TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -2688,3 +2868,13 @@ Las presentes reformas entrarán en vigor al siguiente día de su publicación e
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan lo dispuesto en las presentes reformas.
+
+P.O. 30 DE JUNIO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+Se derogan los artículos 199, 200, 201, 202, 203, 205, 206, 207 y 208, así como el último párrafo del artículo 209 de la Ley Electoral del Estado Libre y Soberano de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Las presentes adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
