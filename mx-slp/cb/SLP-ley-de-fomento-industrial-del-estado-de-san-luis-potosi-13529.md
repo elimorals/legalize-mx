@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-industrial-del-estado-de-san-luis-potosi-13529"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-16"
-last_updated: "1999-01-16"
+last_updated: "2003-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE FOMENTO INDUSTRIAL DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO ECONOMICO DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL. ABROGADA.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 16 de enero de 1999.
 
@@ -344,3 +346,19 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. JUAN CARLOS BARRON CERDA.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE MARZO DE 2003.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado,
+
+SEGUNDO. Se abroga la Ley de Fomento Industrial del Estado de San Luis Potosí, publicada en la edición extraordinaria del Periódico Oficial del Estado, el 16 de enero de 1999.
+
+TERCERO. En un plazo no mayor de noventa días naturales contados a partir de la fecha de publicación de la presente Ley, se emitirá el Reglamento de la misma. Los reglamentos y disposiciones derivadas de la ley que se abroga, continuarán surtiendo sus efectos en todo aquello que no se oponga a la presente, en tanto se expidan los nuevos reglamentos.
+
+CUARTO. Las solicitudes de otorgamiento de estímulos que se encuentren en trámite a la entrada en vigor del presente ordenamiento, se resolverán en los términos de la ley que se abroga.
+
+QUINTO. Las personas físicas o morales que conforme a la ley que se abroga disfruten de incentivos, continuarán gozando de los beneficios concedidos hasta en tanto no se modifiquen o cancelen por la Secretaría, mediante resolución debidamente fundada y motivada.
+
+SEXTO. El Consejo deberá instalarse en un plazo no mayor de sesenta días naturales contados a partir de la fecha de publicación de esta Ley en el Periódico Oficial del Estado, para lo cual el Gobernador del Estado proveerá lo conducente.
