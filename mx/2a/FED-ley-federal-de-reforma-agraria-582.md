@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-reforma-agraria-582"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1971-04-16"
-last_updated: "1984-01-17"
+last_updated: "1991-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=582&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1971-03-22"
 
 LEY FEDERAL DE REFORMA AGRARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JULIO DE 1991.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 16 de abril de 1971.
 
@@ -1109,9 +1109,17 @@ La explotación y distribución de los productos que se obtengan de las parcelas
 
 ### CAPITULO QUINTO. Unidad agrícola industrial para la mujer
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 103.
 
-En cada ejido que se constituya deberá reservarse una superficie igual a la unidad de dotación, localizada en las mejores tierras colindantes con la zona de urbanización, que será destinada al establecimiento de una granja agropecuaria y de industrias rurales explotadas colectivamente por las mujeres del núcleo agrario, mayores de 16 años, que no sean ejidatarias.
+En cada ejido que se constituya deberá reservarse una superficie igual a la unidad de dotación, localizada en las mejores tierras colindantes con la zona de urbanización, que será destinada al establecimiento de una granja agropecuaria y de industrias rurales explotadas colectivamente por las mujeres del núcleo agrario, mayores de 16 años, que no sean ejidatarias, salvo las ya integradas a la unidad que adquieran la calidad de ejidatarias por sucesión.
+
+Todas las formas de Asociación o Sociedad que se constituyan para explotar la Unidad Agrícola e Industrial para la Mujer, tendrán plena capacidad para realizar toda clase de actos jurídicos, así como para contratar para sí, o para sus integrantes, los créditos de avío, refaccionarios, inmobiliarios y de otro género, a través de sus órganos de representación.
+
+Asimismo, en los ejidos y comunidades se destinará una parcela para constituir la Unidad Productiva para el Desarrollo Integral de la Juventud, en donde se realizarán actividades productivas, culturales, recreativas y de capacitación para el trabajo, para los hijos de ejidatarios o comuneros y avecindados mayores de 16 años, no ejidatarios. Esta Unidad será administrada por un comité formado exclusivamente por los integrantes de las mismas. Dicha Unidad se formará con carácter preferente en las parcelas vacantes o en los terrenos de uso común.
+
+Los participantes de los grupos para el desarrollo integral de la juventud podrán constituirse en cualquiera de las formas asociativas permitidas por la Ley, tendrán personalidad jurídica y podrán realizar todos los actos jurídicos que las leyes permitan.
 
 ###### ARTICULO 104.
 
@@ -4148,3 +4156,7 @@ CUARTO.- El Secretario de la Reforma Agraria procederá a regularizar las coloni
 QUINTO.- Se faculta al Secretario de la Reforma Agraria para que, previo el examen pormenorizado de las posesiones de terrenos baldíos y nacionales iniciadas con anterioridad al 23 de enero de 1963, que hubieren generado derechos en favor de quienes las ejerzan o de sus causahabientes, conforme a las disposiciones de la Ley de Terrenos Baldíos, Nacionales y Demasías derogadas por el Decreto que adicionó el artículo 58 del Código Agrario entonces vigente, y que entró en vigor el día mencionado anteriormente, extienda con la intervención que corresponda a las dependencias legalmente competentes, en cuanto proceda y se encuentren en explotación los terrenos respectivos, los títulos de dominio sobre los mismos, previa la expedición de declaratorias de terrenos nacionales, sobre las áreas en cuya comprensión se localicen.
 
 SEXTO.- Los preceptos de esta Ley que no se contemplen en el presente Decreto y en donde se mencionan dependencias oficiales o nombres que no corresponden a sus actuales denominaciones, se entenderán ajustadas a lo preceptuado por la Ley Orgánica de la Administración Pública Federal.
+
+D.O.F. 23 DE JULIO DE 1991.
+
+UNICO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
