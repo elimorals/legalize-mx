@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-deuda-publica-antes-ley-general-de-deuda-2614"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1976-12-31"
-last_updated: "1988-01-07"
+last_updated: "1995-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2614&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1976-12-30"
 
 LEY GENERAL DE DEUDA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 31 de diciembre de 1976.
 
@@ -55,7 +55,7 @@ IV.- Las empresas de participación estatal mayoritaria.
 
 V.- Las Instituciones que presten el servicio público de banca y crédito, las organizaciones auxiliares nacionales de crédito, las instituciones nacionales de seguros y las de fianzas, y
 
-VI.- Los fideicomisos en los que el fideicomitente sea el Gobierno Federal o alguna de las entidades mencionadas en las fracciones II al V (sic)
+VI.- Los fideicomisos en los que el fideicomitente sea el Gobierno Federal o alguna de las entidades mencionadas en las fracciones II al V (sic).
 
 ###### ARTICULO 2o.
 
@@ -87,17 +87,17 @@ I.- Emitir valores y contratar empréstitos para fines de inversión pública pr
 
 Las monedas, el plazo de las amortizaciones la tasa de los intereses de la emisión de valores o de la concertación de empréstitos, así como las demás condiciones, serán determinadas por la propia Secretaría de acuerdo con la situación que prevalezca en los mercados de dinero y capital.
 
-II.- Elaborar el programa financiero del sector público con base en el cual se manejará la deuda pública, incluyendo la previsión de divisas requeridas para el manejo de la deuda externa.
+II.- Elaborar el programa financiero del sector público con base en el cual se manejará la deuda pública, incluyendo la previsión de divisas requeridas para el manejo de la deuda externa;
 
 > <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1988)</small>
 
 III.- Autorizar a las entidades paraestatales para gestionar y contratar financiamientos externos, fijando los requisitos que deberán observar en cada eventualidad;
 
-IV.- Cuidar que los recursos procedentes de financiamientos constitutivos de la deuda pública se destinen a la realización de proyectos, actividades y empresas que apoyen los planes de desarrollo económico y social, que generen ingresos para su pago o que se utilicen para el mejoramiento de la estructura del endeudamiento público.
+IV.- Cuidar que los recursos procedentes de financiamientos constitutivos de la deuda pública se destinen a la realización de proyectos, actividades y empresas que apoyen los planes de desarrollo económico y social, que generen ingresos para su pago o que se utilicen para el mejoramiento de la estructura del endeudamiento público;
 
-V.- Contratar y manejar la deuda pública del Gobierno Federal y otorgar la garantía del mismo para la realización de operaciones crediticias que se celebren con organismos internacionales de los cuales México sea miembro o con las entidades públicas o privadas nacionales o de países extranjeros, siempre que los créditos estén destinados a la realización de proyectos de inversión o actividades productivas que estén acordes con las políticas de desarrollo económico y social aprobadas por el Ejecutivo y que generen los recursos suficientes para el pago del crédito y tengan las garantías adecuadas.
+V.- Contratar y manejar la deuda pública del Gobierno Federal y otorgar la garantía del mismo para la realización de operaciones crediticias que se celebren con organismos internacionales de los cuales México sea miembro o con las entidades públicas o privadas nacionales o de países extranjeros, siempre que los créditos estén destinados a la realización de proyectos de inversión o actividades productivas que estén acordes con las políticas de desarrollo económico y social aprobadas por el Ejecutivo y que generen los recursos suficientes para el pago del crédito y tengan las garantías adecuadas;
 
-VI.- Vigilar que la capacidad de pago de las entidades que contraten financiamientos sea suficiente para cubrir puntualmente los compromisos que contraigan. Para tal efecto deberá supervisar en forma permanente el desarrollo de los programas de financiamiento aprobados, así como la adecuada estructura financiera de las entidades acreditadas.
+VI.- Vigilar que la capacidad de pago de las entidades que contraten financiamientos sea suficiente para cubrir puntualmente los compromisos que contraigan. Para tal efecto deberá supervisar en forma permanente el desarrollo de los programas de financiamiento aprobados, así como la adecuada estructura financiera de las entidades acreditadas;
 
 VII.- Vigilar que se hagan oportunamente los pagos de capital e intereses de los créditos contratados por las entidades.
 
@@ -194,6 +194,10 @@ Las Entidades mencionadas en las fracciones III a VI del artículo 1o. de esta L
 Los proyectos a cargo de las dependencias del Gobierno Federal que requieran financiamientos para su realización, deberán producir los recursos suficientes para su amortización y las obligaciones que se asuman, en razón de que dichos financiamientos, no deberán ser superiores a la capacidad de pago de las entidades del sector público que los promuevan.
 
 La capacidad de pago de las dependencias del Gobierno Federal se establecerá en función de su disponibilidad presupuestal para los ejercicios subsecuentes.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 1995)</small>
+
+Tratándose de obligaciones derivadas de financiamientos de proyectos de infraestructura productiva de largo plazo, referidos a actividades prioritarias y mediante los cuales las entidades adquieran bienes o servicios bajo cualquier modalidad, cuya fuente de pago sea el suficiente flujo de recursos que el mismo proyecto genere, y en los que se cuente con la previa aprobación de la Secretaría de Hacienda y Crédito Público en los términos del artículo 30 de la Ley de Presupuesto, Contabilidad y Gasto Público Federal, sólo se considerará, para efectos de la presente Ley, como pasivo directo, a los montos de financiamiento a pagar durante el ejercicio anual corriente y el ejercicio siguiente y el resto del financiamiento se considerará como pasivo contingente hasta el pago total del mismo.
 
 ### CAPITULO V. De la Contratación de Financiamientos Para Entidades Distintas del Gobierno Federal
 
@@ -354,3 +358,7 @@ III.- Las demás disposiciones que se opongan a lo establecido por este ordenami
 ###### ARTICULO TERCERO.
 
 Al entrar en vigor este Decreto, el Ejecutivo Federal procederá a revisar las normas reglamentarias y administrativas que se hubieren expedido con anterioridad sobre las materias a que se refiere este ordenamiento, y realizará respecto de dichas normas, las adecuaciones y derogaciones que resulten pertinentes, las cuales surtirán efectos, en lo que hace a las entidades paraestatales, una vez que los órganos de gobierno de éstas hayan expedido las políticas, bases y lineamientos a que se refiere este Decreto, para lo cual el Ejecutivo Federal establecerá el plazo necesario.
+
+D.O.F. 21 DE DICIEMBRE DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1996.
