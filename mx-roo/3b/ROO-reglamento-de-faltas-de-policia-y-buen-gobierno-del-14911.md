@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-faltas-de-policia-y-buen-gobierno-del-14911"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-30"
-last_updated: "1999-06-30"
+last_updated: "2004-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14911&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # REGLAMENTO DE FALTAS DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE SOLIDARIDAD, QUINTANA ROO
 
-REGLAMENTO DE FALTAS DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE SOLIDARIDAD
+REGLAMENTO DE FALTAS DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE SOLIDARIDAD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE FALTAS AL BANDO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE SOLIDARIDAD, PUBLICADO EN EL P.O. DE 14 DE SEPTIEMBRE DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el miércoles 30 de junio de 1999.
 
@@ -484,3 +486,13 @@ T R A N S I T O R I O S
 Artículo Primero.- Este reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones municipales de Solidaridad, Quintana Roo que se opongan al presente Reglamento.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- Las cuestiones no previstas en el presente Reglamento, serán resueltas por el Ayuntamiento, a propuesta de Los Jueces Calificadores.
+
+SEGUNDO.- Se abroga el Reglamento de Faltas de Policía y Buen Gobierno del Municipio de Solidaridad Publicado en el Periódico Oficial el día 30 de Junio de 1999.
+
+TERCERO.- El presente Reglamento entrara en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
