@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1970-01-27"
+last_updated: "1974-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -358,11 +358,11 @@ DE LOS CORREDORES.
 
 Corredor es el agente auxiliar del comercio, con cuya intervención se proponen y ajustan los actos, contratos y convenios y se certifican los hechos mercantiles. Tiene fe pública cuando expresamente lo faculta este Código u otras leyes, y puede actuar como perito en asuntos de tráfico mercantil.
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### Art. 52.
 
-Sólo podrán usar la denominación de Corredor las personas habilitadas por la Secretaría de Industria y Comercio o por los Gobernadores de los Estados y Territorios, en los términos de este Código. La autoridad habilitante impondrá a quienes violen esta disposición, multas hasta de cinco mil pesos, que podrán imponerse diariamente mientras persista la infracción independientemente de la sanción penal a que se hagan acreedores.
+Sólo podrán usar la denominación de Corredor la personas habilitadas por la Secretaría de Industria y Comercio o por los Gobernadores de los Estados en los términos de este Código. La autoridad habilitante impondrá a quienes violen esta disposición, multas hasta de cinco mil pesos, que podrán imponerse diariamente mientras persista la infracción independientemente de la sanción penal a que se hagan acreedores.
 
 > <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
@@ -400,11 +400,13 @@ I. Satisfacer los requisitos señalados en las fracciones I, II, IV y V del art�
 
 II. Haber aprobado el examen teórico, jurídico mercantil, a que habrá de someterse el solicitante ante el Colegio de Corredores respectivo.
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### Art. 56.
 
-Las habilitaciones para ejercer como corredor serán expedidas en el Distrito Federal por la Secretaría de Industria y Comercio, y en los Estados y Territorios Federales por los Gobernadores.
+Las habilitaciones para ejercer como corredor serán expedidas en el Distrito Federal por la Secretaría de Industria y Comercio, y en los Estados por los Gobernadores.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 Cada año los corredores deberán rendir a dichas autoridades por conducto del Colegio de Corredores correspondiente, los informes que exija el reglamento.
 
@@ -3224,7 +3226,9 @@ Si un jefe de estación, un conductor de vehículo terrestre ó un patrón de em
 
 Los empresarios de transportes están obligados:
 
-I. A publicar en el periódico oficial del Estado, Distrito ó Territorio, y circular sus reglamentos, fijándolos en los parajes públicos, en la parte más visible de sus oficinas y en cada uno de los vehículos destinados á la conducción, poniendo los artículos relativos al reverso de los conocimientos de carga;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+I. A publicar en el periódico oficial del Estado, o del Distrito Federal, y circular sus reglamentos, fijándolos en los parajes públicos, en la parte más visible de sus oficinas y en cada uno de los vehículos destinados a la conducción, poniendo los artículos relativos al reverso de los conocimientos de carga;
 
 II. A dar á los pasajeros billetes de asiento, y á los cargadores la carta de porte á que se refiere el artículo 581;
 
@@ -4752,7 +4756,7 @@ II. Las acciones derivadas del contrato de préstamo á la gruesa.
 
 Art. 1,045. Se prescribirán en cinco años:
 
-I. Las acciones derivadas del contrato de sociedad y de operaciones sociales por lo que se refiere á derechos y obligaciones de la sociedad para con los socios, de los socios para con la Sociedad y de socios entre sí por razón de la sociedad;
+I. Las acciones derivadas del contrato de sociedad y de operaciones sociales por lo que se refiere á derechos y obligaciones de la sociedad para con los socios, de los socios para con la sociedad y de socios entre sí por razón de la sociedad;
 
 II. Las acciones que puedan competir contra los liquidatarios de las mismas sociedades por razón de su encargo.
 
@@ -5464,13 +5468,19 @@ Art. 1,068. Las notificaciones, citaciones y entrega de expedientes se verificar
 
 Art. 1,069. Todos los litigantes, en el primer escrito o en la primera diligencia judicial, deben designar casa ubicada en el lugar del juicio para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias. Igualmente deben designar la casa en que ha de hacerse la primera notificación á la persona o personas contra quienes promueven. Cuando un litigante no cumpla, las notificaciones se entenderán con los estrados del juzgado ó tribunal.
 
-Art. 1,070. Cuando se ignore el domicilio de la persona que debe ser notificada, la primera notificación se hará publicando la determinación respectiva por tres veces consecutivas en el periódico oficial del Estado, Distrito ó Territorios federales en que el comerciante deba ser demandado.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+Art. 1,070. Cuando se ignore el domicilio de la persona que debe ser notificada, la primera notificación se hará publicando la determinación respectiva por tres veces consecutivas en el periódico oficial del Estado, o del Distrito Federal en que el comerciante deba ser demandado.
 
 Art. 1,071. Cuando haya de notificarse ó citarse á una persona residente fuera del lugar del juicio, se hará la notificación o citación por medio de despacho o exhorto al juez de la población en que aquélla residiere.
 
-Art. 1,072. Cuando el despacho ó exhorto haya de remitirse al juez ó tribunal de otro Estado de la Federación, la legalización de las firmas se hará por el Gobernador del Estado ó del Distrito Federal, ó por el Jefe político del Territorio, quienes remitirán el exhorto á su igual jerárquico del Estado o Territorio, ó al Gobernador del Distrito Federal, para que estos funcionarios, directamente y sin intervención de ninguna otra autoridad, lo hagan llegar á poder del juez o tribunal requerido.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
-Art. 1,073. Si la citación o notificación hubiere de hacerse en país extranjero, se dirigirá el despacho ó exhorto por conducto del Ministro de Relaciones, el que legalizará las firmas de los Gobernadores de algún Estado o del Distrito Federal, o del Jefe político de un Territorio, quienes á su vez, habrán legalizado previamente la de los funcionarios judiciales que suscriban la requisitoria.
+Art. 1,072. Cuando el despacho o exhorto haya de remitirse al juez o tribunal de otro Estado de la Federación, la legalización de las firmas se hará por el Gobernador del Estado o del Distrito Federal, quienes remitirán el exhorto a su igual jerárquico del Estado, o al Jefe del Departamento del Distrito Federal, para que estos funcionarios, directamente y sin intervención de ninguna otra autoridad, lo hagan llegar a poder del juez o tribunal requerido.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+Art. 1,073. Si la citación o modificación hubiere de hacerse en país extranjero se dirigirá el despacho o exhorto por conducto del Ministerio de Relaciones, el que legalizará las firmas de los gobernadores de algún Estado o del Distrito Federal, quienes, a su vez, habrán legalizado previamente las de los funcionarios judiciales que suscriban la requisitoria.
 
 Art. 1,074. El Ministro de Relaciones remitirá el despacho ó exhorto, ya legalizado, á la legación o consulado si la nación lo tuviere en el lugar á que se dirige el despacho. En caso contrario, á la legación ó cónsul de la nación que tenga relaciones con la República, salvas siempre las reglas establecidas por los tratados y las del derecho internacional.
 
@@ -6973,3 +6983,9 @@ D.O.F. 27 DE ENERO DE 1970.
 DECRETO POR EL QUE SE DEROGAN LOS ARTICULOS 6o., 7o. Y FRACCION VIII DEL ARTICULO 21 DEL CODIGO DE COMERCIO.
 
 Artículo Unico.- El presente Decreto empezará a surtir sus efectos a los tres días de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 23 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
