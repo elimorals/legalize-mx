@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-3552"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-11"
-last_updated: "2002-12-23"
+last_updated: "2003-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de diciembre de 1992.
 
@@ -53,9 +53,9 @@ La Hacienda Pública del Estado de Campeche, para atender los gastos y cumplir l
 
 La Hacienda Pública del Estado de Campeche se compone:
 
-> <small>(REFORMADA, P.O. 16 DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
-I.- De los ingresos provenientes de los impuestos al comercio de libros, periódicos y revistas, sobre nóminas y sobre servicios de hospedaje.
+I.- De los ingresos provenientes de los impuestos al comercio de libros, periódicos y revistas; sobre nóminas; sobre servicios de hospedaje y, sobre loterías, rifas, sorteos y concursos.
 
 II.- De los ingresos provenientes de los derechos derivados de la prestación de servicios públicos.
 
@@ -83,11 +83,11 @@ X.- De los bienes muebles e inmuebles propiedad del Estado.
 
 Los ingresos fiscales, que se establecen en este ordenamiento, se regularán por lo establecido en la presente Ley y en el Código Fiscal del Estado de Campeche.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 3.
 
-El pago de los impuestos de la presente Ley deberá hacerse dentro de los primeros quince días del mes siguiente a que correspondan, en las oficinas recaudadoras de la Secretaría de Finanzas y Administración del Gobierno del Estado, a excepción de los impuestos previstos en los Capítulos IV y V del Título Segundo del presente ordenamiento.
+El pago de los impuestos de la presente Ley deberá hacerse en los plazos que la misma establece, en las oficinas recaudadoras de la Secretaría de Finanzas y Administración del Poder Ejecutivo del Gobierno del Estado o, en las instituciones de crédito autorizadas, mediante formulario de declaración que para esos efectos expida la Secretaría de Finanzas y Administración.
 
 ###### ARTICULO 4.
 
@@ -183,9 +183,11 @@ Es base de este impuesto el monto total de los ingresos percibidos.
 
 #### SECCION CUARTA. DEL PAGO
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 18.
 
-El pago de este impuesto será a razón del 1% sobre el monto total de los ingresos a que se refiere el artículo 17, mediante declaración de ingresos expresa en los formatos que para el efecto expida la Secretaría de Finanzas.
+La tasa aplicable a este impuesto será del 1% sobre el monto total de los ingresos a que se refiere el artículo 17 de esta ley. El pago de este impuesto tiene carácter de definitivo y deberá efectuarse a más tardar el día veinte del mes siguiente al que corresponda, mediante formulario de declaración que para el efecto expida la Secretaría de Finanzas y Administración.
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 16 DICIEMBRE DE 1998)</small>
 
@@ -257,9 +259,9 @@ Son objeto de este impuesto, las erogaciones en efectivo o en especie por concep
 
 Para los efectos de este impuesto, quedan comprendidas entre las erogaciones mencionadas anteriormente, aquéllas que se realicen por concepto de prestaciones o contraprestaciones cualquiera que sea el nombre con el que se le designe, ya sean ordinarias o extraordinarias, incluyendo comisiones a trabajadores, premios, gratificaciones, rendimientos, indemnizaciones derivadas de la rescisión de las relaciones laborales, primas vacacionales, dominicales, por antigüedad y previsión social, así como cualquier otra erogación en beneficio de los trabajadores en forma personal.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
-Son también objeto de este impuesto, las erogaciones por pagos realizados a los administradores, comisarios o miembros de los consejos directivos y de vigilancia en toda clase de sociedades y asociaciones, así como los honorarios asimilables a salarios por la prestación de servicios personales independientes que se realicen preponderantemente a un patrón.
+Son también objeto de este impuesto, las erogaciones por pagos realizados a los administradores, comisarios o miembros de los consejos directivos y de vigilancia, consultivos o de cualquier otra índole en toda clase de sociedades y asociaciones, los rendimientos o anticipos, que obtengan los miembros de las sociedades cooperativas de productores, los anticipos que reciban los miembros de sociedades y asociaciones civiles, siempre y cuando deriven de una relación laboral; así como los honorarios asimilables a salarios por la prestación de servicios personales independientes que se realicen preponderantemente a un patrón.
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
 
@@ -391,7 +393,7 @@ El traslado del impuesto a que se refiere este artículo no se considerará viol
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION TERCERA. DE LA BASE
+#### SECCION CUARTA. DE LA TASA
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -405,7 +407,7 @@ En dicha contraprestación quedan incluidos los depósitos, anticipos, gastos de
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION CUARTA. DE LA TASA
+#### SECCION TERCERA. DE LA BASE
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -427,7 +429,7 @@ El pago de este impuesto deberá efectuarse en las oficinas recaudadoras que cor
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION SEXTA. DE LAS OBLIGACIONES
+#### SECCION SEPTIMA. DE LAS ESTIMACIONES
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -449,9 +451,9 @@ VI.- Conservar la documentación comprobatoria de las operaciones gravadas por e
 
 VII.- Las demás que señale esta Ley y los ordenamientos fiscales aplicables.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION SEPTIMA. DE LAS ESTIMACIONES
+#### SECCION SEXTA. DE LAS OBLIGACIONES
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -465,15 +467,87 @@ II.- No proporcione la información que la autoridad fiscal le solicite, su cont
 
 III.- Se imposibilite, por cualquier medio, el conocimiento de las operaciones de los servicios objeto de este impuesto.
 
-### CAPITULO I. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO CIVIL
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
+
+### CAPITULO VI. DEL IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS Y CONCURSOS
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+#### SECCION QUINTA. DEL PAGO
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 35-H.
+
+Es objeto de este impuesto, la obtención de premios derivados de loterías, rifas, sorteos y concursos de toda clase, realizados por organismos públicos descentralizados de la Administración Pública Federal cuyo objeto sea la obtención de recursos para destinarlos a la Asistencia Pública.
+
+No se considerará como premio el reintegro correspondiente al billete o boleto que permitió participar en la lotería, rifa o sorteo.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+#### SECCION PRIMERA. DEL OBJETO
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 35-I.
+
+Son sujetos de este impuesto, las personas físicas, morales o unidades económicas que obtengan premios a que se refiere el artículo anterior.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+#### SECCION SEGUNDA. DE LOS SUJETOS
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 35-J.
+
+Será base del impuesto, el valor determinado o determinable que se obtenga del premio correspondiente a cada billete o boleto, sin deducción alguna.
+
+Tratándose de premios en especie, será base del impuesto, el valor con el que se promocione cada uno de los premios, en su defecto, el valor de facturación y en ausencia de ambos el de avalúo comercial.
+
+Cuando no se desglose y compruebe a satisfacción de la autoridad fiscal el valor o precio que corresponda a la rifa, sorteo o concurso de que se trate, se considerará que el valor o precio total del evento corresponde al objeto del impuesto.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+#### SECCION TERCERA. DE LA BASE
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 35-K.
+
+Sobre la base gravable de este impuesto, se aplicará la tasa del 6%.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+#### SECCION CUARTA. DE LA TASA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 35-L.
+
+Este impuesto se causa en el momento en que los premios sean pagados y quienes entreguen los premios a que se refiere este capítulo, deberán retener el impuesto correspondiente, independientemente del lugar donde se realice el evento.
+
+Las personas físicas o morales que retengan este impuesto, realizarán el entero respectivo a más tardar el día veinte del mes siguiente al en que se realice la retención, presentando la declaración mediante formulario que emita la Secretaría de Finanzas y Administración, ante la oficina recaudadora que corresponda o institución de crédito autorizada. Dicho pago se entenderá definitivo.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION SEXTA. DE LAS OBLIGACIONES
 
-> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 35
+
+LL.- Los sujetos obligados a la retención de este impuesto tendrán las siguientes obligaciones:
+
+I.- Presentar ante las autoridades fiscales competentes, los avisos y declaraciones que correspondan, dentro de los plazos y los lugares señalados para tal efecto.
+
+II.- Retener y enterar, en su caso, el impuesto que se cause conforme a estas disposiciones y proporcionar cuando así lo solicite el interesado, constancia de retención del impuesto a la persona que obtenga el premio.
+
+III.- Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria del pago del impuesto que corresponda.
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
-### CAPITULO II. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
+### CAPITULO I. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO CIVIL
 
 ###### ARTICULO 36.
 
@@ -537,7 +611,7 @@ b) Cambio del Régimen Patrimonial 25
 
 El pago de los derechos que establece el artículo anterior, deberá hacerse por el contribuyente, previamente a la prestación de los servicios.
 
-### CAPITULO III. POR CERTIFICACIONES Y COPIAS CERTIFICADAS
+### CAPITULO II. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
 ###### ARTICULO 38.
 
@@ -655,7 +729,7 @@ XXV.- Por la inscripción de aviso de testamento 1
 
 XXVI.- Por la verificación de constancia de aviso de testamento 1
 
-### CAPITULO IV. POR NOTARIADO Y ARCHIVOS DE INSTRUMENTOS PUBLICOS NOTARIALES
+### CAPITULO III. POR CERTIFICACIONES Y COPIAS CERTIFICADAS
 
 ###### ARTICULO 39.
 
@@ -703,7 +777,7 @@ b) Por las hojas subsiguientes, cada una .1
 
 El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de la Secretaría de Finanzas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previa a la obtención del servicio.
 
-### CAPITULO V. POR EXPEDICION DE TITULOS
+### CAPITULO IV. POR NOTARIADO Y ARCHIVOS DE INSTRUMENTOS PUBLICOS NOTARIALES
 
 ###### ARTICULO 42.
 
@@ -751,9 +825,7 @@ Por escrituras no especificadas en las que no se determine interés pecuniario a
 
 El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de la Secretaría de Finanzas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previo a la obtención del servicio.
 
-### CAPITULO VI. POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DEL ESTADO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+### CAPITULO V. POR EXPEDICION DE TITULOS
 
 ###### ARTICULO 49.
 
@@ -797,9 +869,9 @@ El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de l
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO VII. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LAS SECRETARIAS Y ORGANISMOS DESCONCENTRADOS DEL GOBIERNO DEL ESTADO
+### CAPITULO VI. POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DEL ESTADO
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 51.
 
@@ -853,9 +925,9 @@ Por el uso del camino de acceso a la Zona Arqueológica de Calakmul, se cobrará
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO VIII. POR AUTORIZACION PARA EL FUNCIONAMIENTO, EXPEDICION Y REVALIDACION DE LICENCIAS A DISTRIBUIDORES Y COMERCIALIZADORES DE BEBIDAS ALCOHOLICAS
+### CAPITULO VII. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LAS SECRETARIAS Y ORGANISMOS DESCONCENTRADOS DEL GOBIERNO DEL ESTADO
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 52.
 
@@ -1177,7 +1249,7 @@ II.- Por el ingreso que perciban por los servicios que prestan los organismos, d
 
 a) (DEROGADO, P.O. 9 DE JUNIO DE 1999)
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
 b) INSTITUTO CAMPECHANO
 
@@ -1189,19 +1261,19 @@ Preparatoria Licenciatura
 
 Inscripción
 
-180 190
+200 210
 
 Colegiatura Mensual
 
-130 150
+140 160
 
 Servicio Deportivo
 
-70
+80
 
 Material de Apoyo
 
-70
+80
 
 Servicio Médico Dental
 
@@ -1213,15 +1285,15 @@ Credencial
 
 Seguro de Vida
 
-40 40
+50 50
 
 Mantenimiento y Reparación de Equipo de Cómputo
 
-80 80
+100 100
 
 Curso de Introducción
 
-170 220
+200 250
 
 Exámenes
 
@@ -1231,39 +1303,39 @@ Preparatoria Licenciatura Postgrado
 
 Examen de Admisión
 
-280 280 560
+310 310 615
 
 Extraordinario
 
-160 170
+180 190
 
 Título de Suficiencia
 
-170 180
+190 200
 
 Profesional
 
-770 2200
+845 2420
 
 Semiescolarizado
 
-140
+155
 
 Especial de Regularización Plan Estudio
 
-210 280
+230 310
 
 Remediales
 
-280 420
+350 500
 
 Recuperación de Pasantía
 
-330
+400
 
 Asesoría
 
-50
+55
 
 Certificado, Constancia y Carta de Buena Conducta
 
@@ -1273,11 +1345,11 @@ Preparatoria Licenciatura Postgrado
 
 Expedición de Certificado de Estudios
 
-220 280 660
+250 320 725
 
 Expedición de Constancia de Estudios y Carta de Buena Conducta
 
-150 160 210
+160 170 230
 
 Constancia Provisional
 
@@ -1291,19 +1363,19 @@ Licenciatura Postgrado
 
 Expedición Acta de Grado
 
-200 350
+220 385
 
 Trámite de Firmas
 
-220 440
+240 485
 
 Derecho Hoja de Piel
 
-220 250
+240 270
 
-Elaboración de Título
+Elaboración del documento que corresponda
 
-300 400
+330 440
 
 Revisión de Tesis, Carta de Pasantes, Diplomas y Servicio Social
 
@@ -1313,19 +1385,19 @@ Preparatoria Licenciatura Postgrado
 
 Derecho Revisión de Tesis
 
-550 1000
+600
 
 Derecho Expedición de Diploma
 
-150
+160
 
 Derecho Expedición de Carta de Pasante
 
-180 560
+200 610
 
 Derecho Expedición de Servicio Social
 
-150 420
+160 460
 
 Revalidación de Estudios
 
@@ -1335,19 +1407,19 @@ Preparatoria Licenciatura
 
 Alumnos Foráneos
 
-240 240
+260 260
 
 Procedimiento de Titulación
 
 Concepto Costo
 
-*Examen General de Conocimiento 3300
+*Examen General de Conocimiento 3650
 
 Seminarios:
 
-Inscripción 1100
+Inscripción 1210
 
-Costo por materia (mínimo 3) 1100
+Costo por materia (mínimo 3) 1210
 
 *El alumno que cubra este costo, queda exento de pago del examen profesional.
 
@@ -1355,11 +1427,11 @@ Postgrado, Maestría y Diplomado
 
 Concepto Postgrado
 
-Inscripción 3000
+Inscripción 3300
 
-Costo por Materia 2000
+Costo por Materia 2200
 
-Credencial 40
+Credencial 60
 
 Otros cursos
 
@@ -1377,15 +1449,15 @@ Inglés (Laboratorio)
 
 Inscripción
 
-90 180
+100 200
 
 Colegiatura
 
-60 120
+65 130
 
 Credencial (Opcional)
 
-50 50
+55 55
 
 Difusión Cultural
 
@@ -1393,19 +1465,19 @@ Cursos Talleres
 
 Inscripción
 
-60 120
+65 130
 
 Colegiatura
 
-50 100
+55 110
 
 Credencial
 
-50 50
+55 55
 
 Seguro de Vida
 
-40 40
+45 45
 
 Servicios de Cómputo
 
@@ -1493,19 +1565,19 @@ Constancia de Pago
 
 Duplicado de Credencial
 
-50 50 50
+55 55 55
 
 Escuelas Incorporadas
 
 Concepto Costo
 
-Incorporación de escuelas 5500
+Incorporación de escuelas 6100
 
-Registro de inscripción por alumno 110
+Registro de inscripción por alumno 150
 
-Legalización de firmas en Certificado 220
+Legalización de firmas en Certificado 250
 
-Legalización de firmas en Carta de Buena Conducta 180
+Legalización de firmas en Carta de Buena Conducta 200
 
 Alquiler de Areas Culturales
 
@@ -1513,53 +1585,55 @@ Concepto
 
 Costo por hora Costo diario
 
-Base de 3 horas máxima, de excederse por ensayos se cobrará las horas adicionales por uso
+Base de 5 horas mínimo, de excederse por ensayos se cobrará las horas adicionales por uso
 
 Aula Magna "Benito Juárez", usando todo el servicio eléctrico
 
-290 1500
+300 1650
 
 Sala de Arte "Domingo Pérez Piña", servicio eléctrico de entrada y 1 sala
 
-120 850
+150 1000
 
 Sala de Arte "Domingo Pérez Piña", servicio de todas las salas
 
-230 1800
+250 2000
 
 Teatro "Ricardo Hernández Cárdenas", usando todo el servicio eléctrico
 
-350 2300
+400 2500
 
 Derecho de Piso
 
-350
+400
 
 Extemplo de "San José"
 
-2300
+2500
 
 En el caso del Ex Templo San José y la Sala de Arte Domingo Pérez Piña, tratándose de exhibiciones que excedan las 24 hrs. y con un mínimo de 7 días, se aplicará el costo diario y a partir del segundo día en adelante se aplicará una tarifa convencional de $200.00 cuota diaria sin derecho a aire acondicionado.
 
-En los eventos que se utilice personal para la operación del equipo y control de instalaciones en días no laborables tales como sábados, domingos y días festivos, se aplicará una cuota de $200.00 por cada técnico que participe por evento.
+En los eventos que se utilice personal para la operación del equipo y control de instalaciones en días no laborables tales como sábados, domingos y días festivos, se aplicará una cuota de $250.00 por cada técnico que participe por evento.
 
 Renta de Neverías
 
 Concepto Importe Mensual
 
-Educación Artística 800
+Educación Artística 880
 
-Edificio Central 3000
+Edificio Central 3300
 
-Areas de Guadalupe 2700
+Areas de Guadalupe 2970
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
 El pago de los derechos antes mencionados, deberán ser cubiertos en las oficinas recaudadoras de la Secretaría de Finanzas y Administración, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previamente a la obtención del servicio.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO I. POR ENAJENACION DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
+### CAPITULO VIII. POR AUTORIZACION PARA EL FUNCIONAMIENTO, EXPEDICION Y REVALIDACION DE LICENCIAS A DISTRIBUIDORES Y COMERCIALIZADORES DE BEBIDAS ALCOHOLICAS
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 52-A.
 
@@ -1681,7 +1755,7 @@ Las autoridades estatales regularán en sus reglamentos respectivos o mediante d
 
 ## TITULO CUARTO. DE LOS PRODUCTOS
 
-### CAPITULO II. POR EL IMPORTE DE LOS ARRENDAMIENTOS DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
+### CAPITULO I. POR ENAJENACION DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
 
 ###### ARTICULO 53.
 
@@ -1709,7 +1783,7 @@ Se autoriza al Ejecutivo del Estado para vender, en el precio y condiciones conv
 
 Asimismo, dichos bienes podrán ser donados a los ayuntamientos o instituciones de beneficencia pública para fines directos a la comunidad y con las salvedades o condiciones que el Ejecutivo determine.
 
-### CAPITULO III. POR TALLERES GRAFICOS DEL ESTADO Y PERIODICO OFICIAL
+### CAPITULO II. POR EL IMPORTE DE LOS ARRENDAMIENTOS DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
 
 ###### ARTICULO 57.
 
@@ -1723,7 +1797,7 @@ Los inmuebles se destinarán preferentemente a los usos de la Administración P�
 
 La Oficialía Mayor del Gobierno del Estado, formulará un minucioso inventario de todos los bienes muebles e inmuebles, patrimonio del Estado, y ninguno podrá ser dado de baja, ni retirado del servicio, sino por acuerdo expreso de la Oficialía Mayor y con la aprobación del Gobernador.
 
-### CAPITULO IV. POR BIENES MOSTRENCOS Y VACANTES
+### CAPITULO III. POR TALLERES GRAFICOS DEL ESTADO Y PERIODICO OFICIAL
 
 ###### ARTICULO 60.
 
@@ -1765,9 +1839,7 @@ a) Ejemplar 2.25
 
 b) Otras publicaciones editadas, se cobrará el costo de la impresión.
 
-### CAPITULO V. POR INSTITUCIONES DE ASISTENCIA SOCIAL
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+### CAPITULO IV. POR BIENES MOSTRENCOS Y VACANTES
 
 ###### ARTICULO 63.
 
@@ -1779,7 +1851,9 @@ Ingresarán al patrimonio de la Hacienda Pública, previo al procedimiento corre
 
 Los bienes de las personas que mueran intestadas, sin dejar parientes de acuerdo con lo establecido en el Código Civil vigente en el Estado, serán adjudicadas (sic) al patrimonio de la Hacienda Pública. A las personas que denuncien ante las autoridades competentes el hecho, así como la situación a que alude el artículo anterior, se les otorgará una participación del 20% sobre el importe de los bienes denunciados, si no existe reclamación alguna.
 
-### CAPITULO VI. POR LAS UTILIDADES DE LOS ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACION ESTATAL Y FIDEICOMISOS
+### CAPITULO V. POR INSTITUCIONES DE ASISTENCIA SOCIAL
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 65.
 
@@ -1791,13 +1865,13 @@ Los servicios que presten las instituciones de asistencia social en general incl
 
 La Secretaría de Finanzas y Administración del Estado, recaudará directamente las cuotas correspondientes.
 
-### CAPITULO VII. OTROS PRODUCTOS
+### CAPITULO VI. POR LAS UTILIDADES DE LOS ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACION ESTATAL Y FIDEICOMISOS
 
 ###### ARTICULO 67.
 
 Corresponden a la Hacienda Pública del Estado de Campeche, los ingresos por utilidades de los organismos descentralizados, empresas de participación estatal y fideicomisos. Dichas entidades se regirán conforme a las disposiciones contenidas al respecto en la Ley Orgánica de la Administración Pública del Estado de Campeche.
 
-### CAPITULO I. REZAGOS
+### CAPITULO VII. OTROS PRODUCTOS
 
 ###### ARTICULO 68.
 
@@ -1805,7 +1879,7 @@ Se consideran como otros Productos aquéllos que no se encuentren, comprendidos 
 
 ## TITULO QUINTO. DE LOS APROVECHAMIENTO (SIC)
 
-### CAPITULO II. RECARGOS
+### CAPITULO I. REZAGOS
 
 ###### ARTICULO 69.
 
@@ -1819,13 +1893,13 @@ Se consideran rezagos, los adeudos de impuestos, derechos y productos que pasen 
 
 Los rezagos se cubrirán en las oficinas en las que debieron pagarse los impuestos, derechos y productos de los cuales provengan.
 
-### CAPITULO III. GARANTIAS Y MULTAS
+### CAPITULO II. RECARGOS
 
 ###### ARTICULO 72.
 
 El pago de los créditos fiscales realizado fuera de los plazos señalados por esta Ley dará lugar al cobro de recargos y el monto de los mismos se actualizará desde el mes en que debió de hacerse el pago, hasta que el mismo se efectúe; además se causarán recargos por concepto de indemnización de conformidad con lo que establezca el Código Fiscal Estatal.
 
-### CAPITULO IV. REINTEGROS
+### CAPITULO III. GARANTIAS Y MULTAS
 
 ###### ARTICULO 73.
 
@@ -1863,7 +1937,7 @@ Dichas garantías pasarán a favor del Estado al momento de ser negado el otorga
 
 Ingresarán a la Hacienda Pública las multas impuestas administrativamente por cualquier autoridad del Estado, las establecidas en calidad de penas en los procesos de orden judicial y las provenientes de la conmutación de sanciones que dispongan las Leyes respectivas. Las autoridades que las impongan, tienen obligación de comunicarlo a las autoridades hacendarías.
 
-### CAPITULO V. DONACIONES
+### CAPITULO IV. REINTEGROS
 
 ###### ARTICULO 75.
 
@@ -1873,13 +1947,13 @@ Las cantidades pagadas de más o indebidamente con cargo al Presupuesto de Egres
 
 También ingresarán por este concepto las responsabilidades administrativas que se finquen por autoridad competente y que se hagan efectivas.
 
-### CAPITULO VI. PRESTAMOS
+### CAPITULO V. DONACIONES
 
 ###### ARTICULO 77.
 
 Ingresarán al Erario Estatal las donaciones que se hagan en favor del Estado. Cuando los bienes objeto de la donación no consistan en dinero, serán inventariados como bienes patrimoniales del Estado, para darles el uso o aprovechamiento que acuerde el Ejecutivo; en caso contrario en los términos fijados por el donante.
 
-### CAPITULO VII. APROVECHAMIENTOS DIVERSOS
+### CAPITULO VI. PRESTAMOS
 
 ###### ARTICULO 78.
 
@@ -1887,7 +1961,7 @@ El Gobernador del Estado queda facultado para obtener préstamos cuya rendición
 
 Estos se obtendrán de particulares, instituciones oficiales o privadas, mediante convenios que concerte el propio Gobernador, previa la autorización del Congreso Local.
 
-### CAPITULO UNICO
+### CAPITULO VII. APROVECHAMIENTOS DIVERSOS
 
 ###### ARTICULO 79.
 
@@ -1937,8 +2011,6 @@ Los contratistas y destajistas que realicen obras para el Gobierno del Estado, a
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 16 DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 85.
 
 Las participaciones por ingresos federales, se percibirán de acuerdo a lo dispuesto en la Ley Federal de la materia, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos; las cuales ingresarán íntegramente a la Secretaría de Finanzas.
@@ -1948,6 +2020,10 @@ Las participaciones por ingresos federales, se percibirán de acuerdo a lo dispu
 ## TITULO OCTAVO. DE LOS FONDOS DE APORTACIONES FEDERALES
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 16 DICIEMBRE DE 1998)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 16 DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 86.
 
@@ -2078,3 +2154,9 @@ Primero.- El presente decreto entrará en vigor el día 1 de enero de 2003, prev
 Segundo.- Las cuotas que han quedado establecidas en el inciso b) de la fracción II del Apartado M del artículo 52 de la Ley de Hacienda del Estado de Campeche, que son objeto de la presente reforma entrarán en vigor el día 1 de enero de 2003, con excepción de las relativas a las colegiaturas de las preparatorias y licenciaturas, que entrarán en vigor el día 1 de febrero de 2003.
 
 Tercero.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2003.
+
+Primero.- El presente decreto entrara en vigor el día 1 de enero de 2004, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
