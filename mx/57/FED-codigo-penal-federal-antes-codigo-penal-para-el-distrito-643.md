@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1968-03-08"
+last_updated: "1968-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MARZO DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1968.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -1484,6 +1484,10 @@ Al que ponga en movimiento una locomotora, carro, camión o vehículo similar y 
 Al que emplando (sic) explosivos o materias incendiarias, o por cualquier otro medio, destruya total o parcialmente una aeronave, una embarcación u otro vehículo de servicio público federal o local, si se encontraren ocupados por uno (sic) o más personas, se le aplicará prisión de 20 a 30 años.
 
 Si en el vehículo de que se trate no se hallare persona alguna, se aplicará prisión de 5 a 20 años.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1968)</small>
+
+Asimismo se impondrá prisión de cinco a veinte años, sin perjuicio de la pena que corresponda por otros delitos que cometa, al que hiciere cambiar de destino una aeronave valiéndose de amenazas, violencia, intimidación, o por cualquier otro medio ilícito, o la hiciere desviar de su ruta.
 
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
@@ -3463,15 +3467,25 @@ Encubrimiento
 
 Se aplicará de cinco días a dos años de prisión y multa de veinte a quinientos pesos, al que:
 
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
+
 I.- No procure por los medios lícitos que tenga a su alcance, impedir la consumación de los delitos que sabe van a cometerse, o se están cometiendo, si son de los que se persiguen de oficio.
+
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
 
 II.- No haya tomado las precauciones indispensables para asegurarse de que la persona de quien recibió la cosa en venta o prenda tendría derecho para disponer de ella, si resultare robada.
 
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
+
 III.- Requerido por las autoridades, no dé auxilio para la investigación de los delitos o para la persecución de los delincuentes.
+
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
 
 IV.- Preste auxilio o cooperación de cualquier especie al autor de un delito, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución del citado delito; y
 
-V.- Oculte al responsable de un delito, o los efectos objetos o instrumentos del mismo, o impida que se averigüe.
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
+
+V.- Oculte al responsable de un delito, o los efectos (sic) objetos o instrumentos del mismo, o impida que se averigüe.
 
 > <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 1967)</small>
 
@@ -3674,3 +3688,9 @@ El presente Decreto entrará en vigor quince días después de su publicación e
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan a las presentes reformas y adiciones.
+
+D.O.F. 24 DE DICIEMBRE DE 1968.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
