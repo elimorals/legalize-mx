@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-la-regularizacion-de-la-pequena-propiedad-de-21694"
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-06"
-last_updated: "2001-07-06"
+last_updated: "2002-12-20"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY PARA LA REGULARIZACION DE LA PEQUEÑA PROPIEDAD DE PREDIOS RUSTICOS EN EL ESTADO DE QUERETARO
 
-LEY PARA LA REGULARIZACIÓN DE LA PEQUEÑA PROPIEDAD DE PREDIOS RÚSTICOS EN EL ESTADO DE QUERÉTARO
+LEY PARA LA REGULARIZACION DE LA PEQUEÑA PROPIEDAD DE PREDIOS RUSTICOS EN EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2002.
 
 Publicado en el Periódico .Oficial "La Sombra de Arteaga", el 6 de Julio de 2001.
 
@@ -45,7 +45,9 @@ Esta Ley es de orden público e interés social, y tiene por objeto establecer l
 
 Para los efectos de esta Ley, se consideran predios rústicos aquellos que con este carácter estén considerados por la Dirección de Catastro del Estado.
 
-Sólo podrán beneficiarse con la presente Ley, quienes no tengan registrado predio rústico alguno a su favor, debiéndolo acreditar con el certificado de no propiedad, que deberán anexar a su solicitud.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+No podrán acogerse a este programa de regularización, los propietarios o poseedores de predios rústicos, que tengan más de dos predios.
 
 ###### ARTICULO 3.
 
@@ -107,7 +109,9 @@ La Secretaría de Gobierno a través de la Dirección Jurídica y Consultiva, de
 
 T R A N S I T O R I O S :
 
-PRIMERO.- La vigencia de la presente Ley es por el término de un año y medio contado a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga". Si una vez fenecido el término señalado se encontraren solicitudes pendientes de tramitación y resolución ante la autoridad judicial, y las mismas fueron iniciadas durante el periodo de su vigencia, se continuará su trámite hasta su conclusión.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+PRIMERO.- Se prorroga la vigencia de la presente ley, para concluir el 30 de junio del año 2003.
 
 SEGUNDO.- En la aplicación de esta Ley, coadyuvarán permanentemente la Secretaría de Gobierno. La Secretaría de Planeación y Finanzas y la Dirección de Catastro del Estado, siendo ésta última quien llevará a cabo el procedimiento aplicable.
 
@@ -156,3 +160,15 @@ DEL ESTADO
 LIC. MA. GUADALUPE MURGUIA GUTIERREZ
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE DICIEMBRE DE 2002
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
