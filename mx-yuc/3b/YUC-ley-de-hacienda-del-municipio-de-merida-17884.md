@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-17884"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2003-12-31"
+last_updated: "2004-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "YUC"
 LEY DE HACIENDA DEL MUNICIPIO DE MERIDA
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2003.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O. EL 28 DE ENERO DE 2004 NO APLICA AL ARTICULADO DEL DECRETO 377 PUBLICADO EN EL D.O. DE 31 DE DICIEMBRE DE 2003.</small>
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 30 de diciembre de 1999.
 
