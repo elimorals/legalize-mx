@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "1999-12-10"
+last_updated: "2000-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -133,7 +133,9 @@ El procedimiento de sustitución se sujetará a lo que señala la Ley Orgánica 
 
 (Facultades del Ministerio Público en la diligencias de preparación del ejercicio de la acción penal).- En las diligencias de preparación del ejercicio de la acción corresponderá al Ministerio Público:
 
-I.- Recibir las denuncias y querellas que le presenten en forma verbal o por escrito sobre los hechos que puedan constituir delitos del orden común;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2000)</small>
+
+I.- Recibir las denuncias y querellas que le presenten en forma verbal o por escrito sobre los hechos que puedan constituir delitos del orden común, debiendo procurar la conciliación entre el ofendido y el imputado, tratándose de delitos perseguibles por querella, previo consentimiento del primero;
 
 II.- Practicar u ordenar la práctica de todos los actos conducentes a la comprobación del cuerpo del delito y a la demostración de la responsabilidad del indiciado;
 
@@ -289,15 +291,15 @@ III.- A que se le notifique personalmente las determinaciones sobre el ejercicio
 
 IV.- A impugnar, en los términos y forma que el presente Código establece, las determinaciones del no ejercicio de la acción penal tomadas por el Procurador General de Justicia.
 
-> <small>(REFORMADO P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 37 (De los derechos del ofendido ante el órgano jurisdiccional).- La persona ofendida por el delito, en la fase del procedimiento ante el órgano jurisdiccional, tendrá los siguientes derechos:
 
-I.- Coadyuvar con el Ministerio Público durante la fase judicial del procedimiento penal, ofreciendo al juzgador, por conducto de aquél o directamente, medios de prueba que conduzcan a comprobar la existencia del delito, la responsabilidad penal del imputado, y la existencia del monto de los daños y perjuicios que se le hayan ocasionado;
+I.- Coadyuvar con el Ministerio Público durante la fase judicial del procedimiento penal, ofreciendo al juzgador, por conducto de aquél o directamente, medios de prueba que conduzcan a comprobar la existencia del delito, la responsabilidad penal del imputado, y la existencia y monto de los daños y perjuicios que se le hayan ocasionado;
 
-II.- Pedir directamente al órgano jurisdiccional que decrete el embargo precautorio de los bienes en que puedan hacerse efectivos, en su oportunidad, la reparación de los daños y perjuicios, así como que dicte las providencias necesarias para que se le restituya en el goce de sus derecho, en los términos previstos en este Código;
+II.- Pedir directamente al órgano jurisdiccional que decrete el embargo precautorio de los bienes en que puedan hacerse efectivos, en su oportunidad, la reparación de los daños y perjuicios, así como que dicte las providencias necesarias para que se le restituya en el goce de sus derechos, en los términos previstos en este Código;
 
-III.- En el mismo plazo concedido al Ministerio Público, formular conclusiones, únicamente por el que respecta a la existencia de daños y perjuicios y su monto;
+III.- En el mismo plazo concedido al Ministerio Público, formular conclusiones, únicamente por lo que respecta a la existencia de daños y perjuicios y su monto;
 
 IV.- Interponer el recurso de apelación, únicamente por lo que respecta al concepto a que se refiere la fracción anterior,
 
@@ -1221,6 +1223,10 @@ ARTICULO 223 (Medidas a tomar durante las diligencias de preparación del ejerci
 
 ARTICULO 224 (Acta inicial).- En el caso del artículo anterior, se procederá a levantar el acta correspondiente, que contendrá: la hora, fecha y modo en que se tenga conocimiento por la denuncia o querella; el nombre y carácter de la persona que denunció o se querelló de ellos, y su declaración, y la del indiciado, si se encontrare presente; la descripción de lo que haya sido objeto de inspección; los nombres y domicilio de los testigos que no se hayan podido examinar; el resultado de la observación de las particularidades que se hayan notado a raíz de ocurridos los hechos, en las personas que en ellos intervengan; las medidas y providencias que se hayan tomado para la investigación de los hechos, así como los demás datos y circunstancias que se estime necesario hacer constar.
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2000)</small>
+
+ARTICULO 224 bis (Conciliación). En las averiguaciones iniciadas por delitos perseguibles por querellas, y hasta antes de ejercitarse, en su caso, la acción penal, el Agente del Ministerio Público deberá poner a consideración del ofendido la posibilidad de llevar a cabo su conciliación con el imputado y si aquél aceptará por escrito, se dictarán las providencias necesarias para propiciar un acuerdo conciliatorio. De presentarse ambas partes para el posible acuerdo conciliatorio, se les exhortará para que procuren llegar al mismo, explicándoles sobre las consecuencias legales respecto a la averiguación en que se actúa, se les escuchará y se procederá a levantar el acta correspondiente. No será impedimiento para ejercitar la acción penal el que se encuentre pendiente la conciliación.
+
 ARTICULO 225 (Citación a los testigos).- El Ministerio Público podrá citar para que declaren sobre los hechos que se averiguan, a las personas que por cualquier concepto participen en ellos o aparezca tengan datos sobre los mismos.
 
 En el acta se hará constar quien mencionó a la persona que haya de citarse, o por qué motivo el funcionario que practique las diligencias estimó conveniente hacer la citación.
@@ -1801,7 +1807,7 @@ Transcurrido este plazo, con informe o sin él, se dictará la resolución que p
 
 ###### ARTICULO 316.
 
-El recurso de apelación procederá contra las siguientes resoluciones pronunciadas por los Jueces de Primera Instancia.
+.- El recurso de apelación procederá contra las siguientes resoluciones pronunciadas por los Jueces de Primera Instancia.
 
 I.- Las sentencias definitivas;
 
@@ -2019,7 +2025,9 @@ El Ministerio Público y el Defensor podrán nombrar peritos de su parte.
 
 En los partidos judiciales donde no exista perito psiquiatra, hará sus veces el médico legista.
 
-ARTICULO 343 (Contenido del dictamen psiquiátrico).- El dictamen expresará si el inculpado se encuentra en alguno de los estados a que se refiere el artículo 338 de este Código; si en la fecha en que se cometieron los hechos imputados el inculpado se encontraba en dicho estado; si la enfermedad lo incapacita para comprender el carácter ilícito del hecho, así como las consecuencias de su inobservancia, o para conducirse de acuerdo con esa comprensión; si comprende el proceso que se le sigue; si su estado le permite permanecer en prisión ordinaria, o bien, en caso contrario, sobre las condiciones en que deba efectuarse su reclusión o su entrega, cuando ésta proceda, a la persona a quien corresponda hacerse de cargo de él.
+> <small>(F. DE E., P.O. 24 DE AGOSTO DE 1989)</small>
+
+ARTICULO 343 (Contenido del dictamen psiquiátrico).- El dictamen expresará si el inculpado se encuentra en alguno de los estados a que se refiere el artículo 339 de este Código; si en la fecha en que se cometieron los hechos imputados el inculpado se encontraba en dicho estado; si la enfermedad lo incapacita para comprender el carácter ilícito del hecho, así como las consecuencias de su inobservancia, o para conducirse de acuerdo con esa comprensión; si comprende el proceso que se le sigue; si su estado le permite permanecer en prisión ordinaria, o bien, en caso contrario, sobre las condiciones en que deba efectuarse su reclusión o su entrega, cuando ésta proceda, a la persona a quien corresponda hacerse de cargo de él.
 
 ARTICULO 344 (Aplicación supletoria de las demás disposiciones de este Código).- Serán aplicables al procedimiento especial para inimputables, las disposiciones de este Código en todo aquello en que no se opongan a las reglas contenidas en este Capítulo.
 
@@ -2193,7 +2201,7 @@ P.O. 16 DE DICIEMBRE DE 1993.
 
 PRIMERO.- La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
-> <small>(F. DE E. P.O. 20 DE ENERO DE 1994)</small>
+> <small>(F. DE E., P.O. 20 DE ENERO DE 1994)</small>
 
 SEGUNDO.- Lo previsto en los artículos 29, fracción I, 119 y 121, en lo que se refiere al beneficio de libertad provisional bajo caución, iniciarán su vigencia a partir del 3 de septiembre de 1994.
 
@@ -2232,3 +2240,13 @@ La presente Ley entrará en vigor a partir del día siguiente al de su publicaci
 ###### ARTICULO SEGUNDO.
 
 Se derogan aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 25 DE AGOSTO DE 2000.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a los establecido en la presente ley.
