@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1949-07-30"
+last_updated: "1950-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1950.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -1029,11 +1029,11 @@ Todos los miembros del Ayuntamiento y el Tesorero Municipal serán responsables 
 
 El matrimonio es un contrato civil. El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. El matrimonio y los demás actos del estado civil de las personas, son de la exclusiva competencia de los funcionarios y autoridades del orden civil, en los términos prevenidos por las leyes, y tendrán la fuerza y validez que las mismas les atribuyan.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 150.
 
-La enseñanza que imparte el Estado será socialista, con exclusión de toda doctrina religiosa; combatirá el fanatismo y los prejuicios, para lo cual la escuela organizará sus enseñanzas y actividades en forma que permita crear en la juventud un concepto racional y exacto del Universo y de la vida social. Por tanto, no podrá establecerse en el territorio del Estado ninguna Escuela de educación primaria, secundaria o profesional que sea dirigida o apoyada económicamente por corporaciones religiosas, ministros de cualquier culto o por interpósitas personas. Tampoco podrán establecerse por sociedades por acciones que exclusiva y preferentemente se dediquen a actividades educativas. El personal docente en todo caso, además de la conveniente preparación profesional, estará de acuerdo con este precepto en su moral e ideología. Corresponde al Estado la formación de planes, programas y métodos de enseñanza. Los planteles particulares sólo podrán funcionar con la autorización expresa del Ejecutivo del Estado, quien discrecionalmente en cualquier tiempo podrá retirarla, así como el reconocimiento de validez de estudios hechos en los establecimientos citados. Contra esta determinación no procederá recurso ni juicio alguno. La educación primaria será obligatoria y el Estado la impartirá gratuitamente.
+La Educación Pública seguirá las normas que están precisadas en la Constitución General, y se procurará que los sistemas, planes y métodos de enseñanza sean adaptados a las necesidades peculiares del Estado de Oaxaca.
 
 ###### ARTICULO 151.
 
@@ -1500,5 +1500,9 @@ P.O. 23 DE JULIO DE 1949.
 EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
 
 P.O. 30 DE JULIO DE 1949.
+
+EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+
+P.O. 7 DE ENERO DE 1950.
 
 EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
