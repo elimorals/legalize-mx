@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1998-07-08"
+last_updated: "1998-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1998.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -59,9 +59,13 @@ El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les auto
 
 La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque la moral, los derechos de terceros, provoque algún delito o perturbe el orden público el derecho a la información será garantizado por el Estado.
 
-En consecuencia, es inviolable la libertad de escribir y publicar escritos sobre cualquier materia. Ninguna Ley ni autoridad puede establecer la previa censura, ni exigir a los autores o impresores ni coartar la libertad de imprenta, que no tiene más límite que el respeto a la vida privada, a la ley y a la paz pública. En ningún caso podrá secuestrarse la imprenta o cualquier otro medio que haya servido para hacer la impresión, como instrumento del delito.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
-Las leyes orgánicas dictarán cuantas disposiciones sean necesarias para evitar que so pretexto de las denuncias por delitos de prensa, sean encarcelados los expendedores, voceadores de periódicos, operarios y demás empleados del establecimiento en que haya impreso el escrito denunciado, a menos que se demuestre previamente la responsabilidad de aquéllos.
+En consecuencia, es inviolable la libertad de escribir y publicar escritos sobre cualquier materia. Ninguna ley ni autoridad pueden establecer la previa censura, ni exigir fianza a los autores o impresores, ni coartar la libertad de imprenta, que no tiene más límite que el respeto a la vida privada, a la ley y a la paz pública. En ningún caso podrá secuestrarse la imprenta o cualquier otro medio que haya servido para hacer la impresión, como instrumento del delito.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
+Las leyes orgánicas dictarán cuantas disposiciones sean necesarias para evitar que so pretexto de las denuncias por delitos de prensa, sean encarcelados los expendedores, voceadores de periódicos, operarios y demás empleados del establecimiento en que se haya impreso el escrito denunciado, a menos que se demuestre previamente la responsabilidad de aquellos.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -69,9 +73,13 @@ Las leyes orgánicas dictarán cuantas disposiciones sean necesarias para evitar
 
 Nadie debe ser juzgado por leyes privativas ni por tribunales especiales; son necesarias leyes expedidas con anterioridad al hecho y tribunales previamente establecidos por la ley.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 5°.
 
-En los juicios del orden criminal queda prohibido imponer por simple analogía y aun por mayoría de razón, pena alguna que no esté decretada por una ley exactamente aplicable al delito de que se trate. En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la ley, y a falta de ésta, se fundará en los principios generales del derecho.
+Nadie podrá ser privado, de la vida, de la libertad o de sus propiedades, posesiones o derechos, sino mediante juicio seguido ante los Tribunales previamente establecidos, en el que se cumplan las formalidades esenciales del procedimiento y conforme a las leyes expedidas con anterioridad al hecho.
+
+En los juicios del orden criminal queda prohibido imponer por simple analogía y aún por mayoría de razón, pena alguna que no esté decretada por una ley exactamente aplicable al delito de que se trate. En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la ley, y a falta de ésta, se fundará en los principios generales del derecho.
 
 ###### ARTICULO 6°.
 
@@ -95,23 +103,23 @@ Si la detención es resultado de infracciones a los Reglamentos gubernativos y d
 
 En todo proceso del orden penal, tendrá el inculpado las siguientes garantías:
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
+
+I. Inmediatamente que lo solicite, el Juez deberá otorgarle la libertad provisional bajo causión (sic), siempre y cuando no se trate de delitos en que, por su gravedad, la ley expresamente prohiba conceder este beneficio. En caso de delitos no graves, a solicitud del Ministerio Público, el Juez podrá negar la libertad provisional, cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la ley o, cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
+
+El monto y la forma de caución que se fije, deberán ser asequibles para el inculpado. En circunstancias que la ley determine, la autoridad judicial podrá modificar el monto de la caución. Para resolver sobre la forma y el monto de la caución, el Juez deberá tomar en cuenta la naturaleza, modalidades y circunstancias del delito; las características del inculpado y la posibilidad de cumplimiento de las obligaciones procesales a su cargo; los daños y perjuicios causados al ofendido; así como la sanción pecuniaria que, en su caso, pueda imponerse al inculpado;
+
+La ley determinará los casos graves en los cuales el Juez podrá revocar la libertad provisional;
+
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1994)</small>
 
-I.- Inmediatamente que lo solicite, el Juez deberá otorgarle la libertad provisional bajo caución, siempre y cuando se garantice el monto estimado de la reparación del daño y de las sanciones pecuniarias que en su caso puedan imponerse al inculpado y no se trate de delitos en que por su gravedad la ley expresamente prohiba conceder este beneficio.
-
-El monto y la forma de caución que se fije deberán ser asequibles para el inculpado. En circunstancias que la ley determine, la autoridad judicial podrá disminuir el monto de la caución inicial.
-
-El Juez podrá revocar la libertad provisional cuando el procesado inculpa en forma grave con cualquiera de las obligaciones que en términos de ley se deriven a su cargo en razón del proceso;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1994)</small>
-
-II.- No podrá ser obligado a declarar. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura. La confesión rendida ante cualquier autoridad distinta del Ministerio Público o del Juez, o ante éstos sin la asistencia de su defensor carecerá de todo valor probatorio;
+II. No podrá ser obligado a declarar. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura. La confesión rendida ante cualquier autoridad distinta del Ministerio Público o del Juez, o ante éstos sin la asistencia de su defensor carecerá de todo valor probatorio;
 
 III. Se le hará saber en audiencia pública y dentro de las cuarenta y ocho horas siguientes a su consignación a la justicia, el nombre de su acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en este acto su declaración preparatoria;
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1994)</small>
 
-IV.- Siempre que lo solicite, será careado en presencia del Juez, con quienes depongan en su contra;
+IV. Siempre que lo solicite, será careado en presencia del Juez, con quienes depongan en su contra;
 
 V. Se le recibirán los testigos y demás pruebas que ofrezca, concediéndosele el tiempo que la ley estime necesario al efecto y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite, siempre que se encuentren en el lugar del proceso;
 
@@ -121,11 +129,11 @@ VII. Le serán facilitados, en cualquier tiempo, todos los datos que solicite pa
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1994)</small>
 
-VIII.- Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediera de ese tiempo, salvo que solicite mayor plazo para su defensa;
+VIII. Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediera de ese tiempo, salvo que solicite mayor plazo para su defensa;
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1994)</small>
 
-IX.- Desde el inicio de su proceso será informado de los derechos que en su favor consigna esta Constitución y tendrá derecho a una defensa adecuada, por sí, por abogado o por persona de su confianza. Si no quiere o no puede nombrar defensor, después de haber sido requerido para hacerlo, el Juez le designará un defensor de oficio. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera;
+IX. Desde el inicio de su proceso será informado de los derechos que en su favor consigna esta Constitución y tendrá derecho a una defensa adecuada, por sí, por abogado o por persona de su confianza. Si no quiere o no puede nombrar defensor, después de haber sido requerido para hacerlo, el Juez le designará un defensor de oficio. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera;
 
 X. En ningún caso podrá prolongarse la prisión o detención, por falta de pago de honorarios de defensores o por cualquiera otra prestación de dinero, por causa de responsabilidad civil o algún otro motivo análogo.
 
@@ -143,21 +151,25 @@ En todo proceso penal, la víctima o el ofendido por algún delito, tendrá dere
 
 Ninguna autoridad, ningún poder público, puede suspender el efecto de las leyes, salvo en el caso previsto por el artículo veintinueve de la Constitución Federal.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 10.
 
-Ningún negocio judicial tendrá más de dos instancias, y el juez que de cualquiera manera haya intervenido en la primera, no podrá conocer en la segunda. Ningún negocio civil o criminal se sujetará por segunda vez a los Tribunales, cuando ya esté resuelto conforme a las leyes.
+Ningún negocio judicial tendrá más de dos instancias, y el Juez que de cualquier manera haya intervenido en la primera, no podrá conocer en la segunda. Ningún negocio civil o criminal se sujetará por segunda vez a los Tribunales, cuando ya esté resuelto conforme a las leyes. Queda prohibida la práctica de absolver de la instancia.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 11.
 
-Nadie puede ser aprisionado por deudas de carácter puramente civil. Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho. Los Tribunales estarán expeditos para administrar justicia en los plazos y términos que fije la ley; su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
+Nadie puede ser aprisionado por deudas de carácter puramente civil. Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho. Toda persona tiene derecho a que se le administre justicia por los Tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando en consecuencia, prohibidas las costas judiciales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE JULIO DE 1994)</small>
-
-En todo proceso penal la víctima o el ofendido por algún delito, tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando la requiera y los demás que señalen las leyes.
-
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 12.
+
+A ninguna persona podrá impedirse que se dedique a la profesión, industria, comercio o trabajo que le acomode, siendo lícitos. El ejercicio de esta libertad solo podrá vedarse por determinación judicial, cuando se ataquen los derechos de tercero, o por resolución gubernativa, dictada en los términos que marque la ley, cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo, sino por resolución judicial.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
 Ni la Ley, ni las autoridades reconocerán algún pacto, convenio o contrato que menoscabe la libertad del hombre, ya sea por causa de trabajo, de educación o voto religioso; ni los que impliquen renuncia de cualquiera de las garantías individuales o de beneficio de derecho en asuntos en que el Estado debe intervenir, para garantizar los intereses sociales.
 
@@ -193,7 +205,7 @@ El patrimonio familiar es inalienable, imprescriptible e inembargable.
 
 Todos los niños nacidos de matrimonio o fuera de él, tienen derecho a igual protección.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 Es derecho correlativo a la calidad de padres la determinación libre, informada y responsable acerca del número y espaciamiento de los hijos y su educación.
 
@@ -323,6 +335,10 @@ Los reglamentos para la portación de armas se sujetarán a la Ley Federal.
 
 No se podrá coartar el derecho de asociarse o reunirse pacíficamente con cualquier objeto lícito; pero solamente los ciudadanos de la República podrán hacerlo para tomar parte en los asuntos políticos del país. Ninguna reunión armada tiene derecho de deliberar.
 
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
+Todo hombre es libre para profesar la creencia religiosa que más le agrade y para practicar las ceremonias, devociones o actos del culto respectivo, siempre que no constituyan un delito o falta penados por la ley. Los actos religiosos de culto público se celebrarán ordinariamente en los templos. Los que extraordinariamente se celebren fuera de éstos se sujetarán a la ley reglamentaria.
+
 Los ministros de los cultos nunca podrán, en una reunión pública o privada constituida en junta, ni en actos del culto o de propaganda religiosa, hacer crítica de las leyes fundamentales del país, de las autoridades, en particular, o en general, del Gobierno.
 
 Queda estrictamente prohibida la formación de toda clase de agrupaciones políticas cuyo título tenga alguna palabra o indicación cualquiera que la relacione con alguna confesión religiosa. No podrán celebrarse reuniones de carácter político en los templos abiertos al culto.
@@ -373,11 +389,13 @@ La Ley facultará al Ejecutivo para que establezca los procedimientos de partici
 
 En el Sistema de Planeación Democrática, el Congreso tendrá la intervención que señale la Ley.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 21.
 
-La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquel.
+La imposición de las penas es propia y exclusiva de la autoridad judicial. La investigación y persecución de los delitos incumbe al Ministerio Público, el cual se auxiliará con una policía que estará bajo su autoridad y mando inmediato.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1985)</small>
 
 Compete a la Autoridad Administrativa la aplicación de las sanciones por las infracciones a los reglamentos gubernativos y de Policía.
 
@@ -629,9 +647,9 @@ El Congreso del Estado estará integrado por 25 diputados electos según el prin
 
 I.- Para obtener el registro de su lista estatal, el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos doce distritos uninominales.
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
 
-II.- Tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional, todo aquel partido que alcance por lo menos el uno y medio por ciento del total de la votación estatal emitida;
+II.- Tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional, todo aquel partido que alcance por lo menos el uno y medio por ciento del total de la votación estatal emitida.
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
@@ -639,7 +657,7 @@ III.- El Partido que cumpla con los supuestos señalados en las fracciones I y I
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
-IV.- La Ley determinará la fórmula electoral y los procedimientos que se observarán en dicha asignación, en la que se seguirá el orden que tuviesen los candidatos en la lista correspondiente;
+IV.- La Ley determinará la fórmula electoral y los procedimientos que se observarán en dicha asignación, en la que se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
 
 > <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
 
@@ -771,7 +789,7 @@ El segundo período de sesiones se destinará de preferencia a la revisión y ca
 
 Los períodos extraordinarios de sesiones, se destinarán exclusivamente a estudiar los asuntos contenidos en la convocatoria, y se cerrarán antes del día de la apertura del período ordinario, aun cuando no hubieren llegado a resolverse los asuntos que motivaren su reunión, reservando su conclusión para el período ordinario.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 47.
 
@@ -819,7 +837,9 @@ En la discusión de los proyectos de leyes y decretos, el Ejecutivo tendrá la i
 
 En el proceso de elaboración, promulgación y publicación de las leyes o decretos se observarán las reglas siguientes:
 
-I.- Aprobado un proyecto, se remitirá al Ejecutivo quien si no tuviere observaciones, lo publicará inmediatamente.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
+
+I.- Aprobado un proyecto, se remitirá al Ejecutivo quien si no tuviere observaciones, lo publicará inmediatamente, en el Periódico Oficial del Gobierno del Estado.
 
 II.- Si las tuviere, lo devolverá dentro del término de 10 días. De no hacerlo procederá a la promulgación y publicación inmediatas.
 
@@ -877,7 +897,9 @@ I. Dictar leyes para la administración del Gobierno interior del Estado, en tod
 
 II. Expedir leyes reglamentarias y ejercer las facultades que le otorga la Constitución General de la República;
 
-III. Arreglar y fijar los límites del Estado, en los términos que señala el artículo 116 de la Constitución Federal;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
+
+III. Arreglar y fijar los límites del Estado en los términos que señala el Artículo 46 de la Constitución Federal;
 
 IV. Iniciar leyes y decretos ante el Congreso de la Unión;
 
@@ -979,7 +1001,7 @@ XLV. Establecer tropas permanentes dentro del territorio del Estado; imponer der
 
 XLVI. Excitar a los Poderes de la Unión a que presten su protección al Estado en los casos señalados en el artículo 122 de la Constitución Federal, aun en el caso de que los perturbadores del orden interior del Estado declaren que su acción no va en contra del Gobierno Federal;
 
-XLVII. Determinar el número de ministros de los cultos que debe haber en el Estado, según las necesidades de cada localidad;
+XLVII. (DEROGADA, P.O. 8 DE AGOSTO DE 1998)
 
 XLVIII. Cumplir con las obligaciones legislativas que le impone la Constitución Federal y las que le impongan las leyes generales;
 
@@ -1043,7 +1065,9 @@ La Diputación Permanente, además de los períodos de receso, funcionará en el
 
 Son atribuciones de la Diputación Permanente:
 
-l. Acordar por su propia iniciativa o a petición del Ejecutivo, la convocación de la Legislatura a paríodo (sic) extraordinario de sesiones.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
+
+I. Acordar por propia iniciativa o a petición del ejecutivo, la convocación de la Legislatura a periodo extraordinario de sesiones.
 
 II. Ampliar por una sola vez el número de asuntos contenidos en la convocatoria, a petición de quien haya solicitado el período extraordinario de sesiones.
 
@@ -1056,6 +1080,8 @@ IV. Recibir la protesta de ley de los Servidores Públicos que deban otorgarla a
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 V. Conceder Licencias a los mismos Servidores Públicos a que se refiere la fracción anterior, hasta por el tiempo que dure el receso.
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
 
 VI. Resolver todas las renuncias que por causa de urgencia presenten los funcionarios que deban hacerlo ante la Legislatura, en los recesos de ésta.
 
@@ -1219,9 +1245,9 @@ III. Pedir a la Diputación Permanente la convocación de la Legislatura a perí
 
 IV. Enviar cada vez que crea conveniente al Secretario General de Gobierno, o al Secretario que tenga a su cargo la dependencia correspondiente, para que participen en las discusiones de las Leyes o decretos relativos a sus rspectivos (sic) ramos, pero sin asistir al acto de la votación;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
 
-V. Nombrar y remover libremente al Secretario General de Gobierno y a todos los demás secretarios, Servidores Públicos del Gobierno del Estado, cuyas designaciones o destituciones no estén determinados de otro modo por esta Constitución y las Leyes que de ella deriven;
+V.- Nombrar y remover libremente al Secretario General de Gobierno y a todos los demás secretarios y servidores públicos del Gobierno del Estado cuyas designaciones o destituciones no estén determinadas de otro modo por esta constitución y las leyes que de ella deriven;
 
 VI. Decretar la expropiación por causa de utilidad pública, de acuerdo con lo prevenido en los artículos 27 y 11 transitorio de la Constitución Federal, ajustando sus procedimientos a las leyes vigentes;
 
@@ -1613,6 +1639,14 @@ f).- Las demás que tiendan a promover el bienestar y progreso de sus respectiva
 
 En todos los programas de urbanización, planeación y regulación de las poblaciones, los Municipios señalarán las áreas naturales protegidas y las reservas territoriales necesarias.
 
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
+Los Municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto, y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Federal, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
+Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas formen o tiendan a formar una continuidad demográfica, la federación, el Estado y los municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la Ley Federal de la Materia.
+
 ###### ARTICULO 95.
 
 Los Poderes del Estado son los únicos superiores jerárquicos de los Cuerpos Municipales, sobre los que ejercen las facultades de organización y regulación de funcionamiento, sin coartar ni limitar las libertades que les conceden la Constitución General de la República y la particular del Estado.
@@ -1755,7 +1789,9 @@ V. Arrendar los bienes raíces que les pertenezcan sin previa autorización de l
 
 Los Municipios a través de sus Ayuntamientos administrarán libremente la Hacienda Municipal, la cual se compondrá de los bienes propios del Municipio y de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones impuestas por la Ley General de Ingresos Municipales o por las especiales en el caso de la última parte del artículo 104 de esta Constitución Política del Estado de Oaxaca; y en todo caso:
 
-A).- Percibirán las contribuciones, incluyendo tasas adicionales que establezca el Estado sobre la propiedad inmobiliaria; de su fraccionamiento, división, consolidación, traslación y mejoras, así como las que tenga por base el cambio de valor de los inmuebles.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
+
+A).- Percibirán las contribuciones, incluyendo tasas adicionales que establezca el Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejoras, así como las que tengan por base el cambio de valor de los inmuebles.
 
 Los municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
 
@@ -1849,11 +1885,11 @@ Esta Comisión conocerá de quejas en contra de actos u omisiones de naturaleza 
 
 La recaudación de las contribuciones municipales estará a cargo de un Tesorero Municipal nombrado por el Ayuntamiento.
 
-## TITULO V (SIC)
+## TITULO QUINTO
 
-De las Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+De las Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 113.
 
@@ -1939,11 +1975,11 @@ ARTICULO 153 BIS. El Estado está obligado a entregar sin demora a los indiciado
 
 Los Ayuntamientos del Estado están obligados a mejorar y conservar los caminos carreteros construidos en el territorio de sus respectivos municipios y a proceder a la apertura de los que sean necesarios para facilitar las comunicaciones vecinales.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1948)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 155.
 
-Los bienes raíces de beneficiencia (sic) o instrucción pública que puedan conservar las corporaciones respectivas conforme a las leyes, así como los capitales impuestos pertenecientes a las mismas; no podrán ser enajenadas ni de algún modo gravados sin decreto especial de la Legislatura del Estado.
+Los bienes raíces de beneficencia o instrucción pública que puedan conservar las corporaciones respectivas, conforme a las leyes así como los capitales impuestos pertenecientes a las mismas, no podrán ser enajenados ni de algún modo gravados sin decreto especial de la Legislatura del Estado.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
@@ -1973,9 +2009,11 @@ Tampoco podrá desempeñar empleo ni cargo público de elección popular, cualqu
 
 El requisito de la edad a los Servidores Públicos a quienes se exige la de treinta y cinco años para el ejercicio de su encargo, exceptuando el de Gobernador, puede ser dispensado en circunstancias especiales, calificadas por la Legislatura, pero nunca ni por ningún motivo se dispensarán más de cinco años de edad.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 159.
 
-Nunca podrán desempeñar a la vez por un solo individuo dos o más empleos o cargos públicos del Estado y de los Municipios, por lo que se disfrute sueldo, honorarios, gratificación o cualquiera otra ministración de dinero, con excepción de los relativos a los ramos de educación y beneficencia públicas.
+Nunca se podrá desempeñar a la vez, por un solo individuo dos o más empleos o cargos públicos del estado y de los municipios por los que se disfrute sueldo, honorarios, gratificación o cualquiera otra ministración de dinero, con excepción de los relativos a los ramos de educación y beneficencia públicas.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE NOVIEMBRE DE 1984)</small>
 
@@ -2001,17 +2039,23 @@ Todos los funcionarios y empleados públicos del Estado y de los Municipios reci
 
 Toda ministración de dinero, todo emolumento o gratificación concedida a los referidos funcionarios, ya sea por concepto de gastos de representación, sobresueldo o cualquier otro, se considerará como fraude al Estado, y las leyes y las autoridades impondrán las penas correspondientes, así a quien las autorice como a quien las reciba.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 162.
 
 La compensación de que habla el artículo anterior, sólo tendrá lugar por los servicios de presente. En los casos de legítimo impedimento y en los de largos servicios, se otorgarán pensiones con carácter de retiro o jubilación, conforme a las leyes que al efecto se expidan.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 163.
 
 Todo Servidor Público, sin excepción alguna y antes de tomar posesión de su cargo, otorgará la protesta legal, de acuerdo con las siguientes fórmulas:
 
-El Gobernador del Estado protestará en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir fiel y patrióticamente con los deberes de mi encargo, mirando en todo por el bien y prosperidad de la Unión y del Estado, y si no lo hiciere así, que la Nación y el Estado me lo demanden". Los demás Servidores Públicos rendirán la protesta ante quien corresponda en la siguiente forma: la autoridad que reciba la protesta dirá: "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de ... que el Estado os ha conferido?" --- El interrogado contestará: "Sí protesto". Acto continuo, la misma autoridad que tome la protesta dirá: "Si no lo hiciéreis así, que la Nación y el Estado os lo demanden".
+El Gobernador del Estado protestará en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir fiel y patrióticamente con los deberes de mi encargo mirando en todo por el bien y prosperidad de la Unión y del Estado, y si no lo hiciere así, que la Nación y el Estado me lo demanden".
+
+Los demás funcionarios y empleados rendirán la protesta ante quien corresponda en la siguiente forma: La autoridad que reciba la protesta dirá: ¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de ... que el Estado os ha conferido?.
+
+El interrogado contestará "Si protesto". Acto continuo, la misma autoridad que tome la protesta dirá: "Si no lo hiciereis así, que la Nación y el Estado os lo demanden".
 
 ###### ARTICULO 114.
 
@@ -2023,7 +2067,7 @@ Las cuentas de un Ayuntamiento serán glosadas preventivamente por el que lo sub
 
 ARTICULO 138 BIS A. La jurisdicción indígena se ejercerá por las autoridades comunitarias de acuerdo con los usos y costumbres de los pueblos y comunidades indígenas, dentro del marco del orden jurídico vigente y en los términos que determine la ley reglamentaria del artículo 16 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ### Capítulo V. De las Sesiones del Pleno del Instituto, de sus Resoluciones, de la Transparencia y de la Confidencialidad de las Votaciones
 
@@ -2239,9 +2283,13 @@ Las funciones de Procurador General y las de Agente del Ministerio Público, son
 
 ###### ARTICULO 139.
 
-Para los efectos de las responsabilidades a que alude este Título se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los funcionarios y empleados y, en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal, en los Organismos Descentralizados, empresas de participación estatal, sociedades y Asociaciones asimiladas a éstos, o en fideicomisos públicos; así como en la Administración pública Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este título se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los funcionarios y empleados, y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, en los organismos descentralizados, empresas de participación estatal, sociedades y asociaciones asimiladas a estos, o en fideicomisos públicos; así como en la administración pública municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 El Gobernador del Estado, para los efectos de este Título, sólo es responsable por delitos graves del orden común y por violación expresa del artículo 81o. de esta Constitución sin perjuicio de la responsabilidad política que se consigna en los términos del artículo 110o. de la Constitución Federal.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Titulares de las Secretarías, y el Procurador General de Justicia, son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las Leyes Federales, a esta Constitución y a las Leyes que de ellas emanen, así como por el manejo indebido de fondos y recursos del Estado.
 
@@ -2251,7 +2299,9 @@ Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de J
 
 El Congreso del Estado, expedirá la Ley de Responsabilidades de los Servidores Públicos y las demás normas conducentes a sancionar a quienes, teniendo este carácter incurran en responsabilidades de acuerdo con las siguientes prevenciones:
 
-I.- Se impondrán, mediante juicio político, las sanciones indicadas en el Artículo 141 de esta Constitución a los servidores públicos señalados en ella, cuando en el ejercicio de sus funciones incurren en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
+
+l.- Se impondrán mediante juicio político, las sanciones indicadas en el artículo 141 de esta Constitución a los servidores públicos señalados en ella, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
 No procede el juicio político por la mera expresión de ideas.
 
@@ -2261,7 +2311,9 @@ III.- Se aplicarán sanciones administrativas a los servidores públicos por los
 
 Los procedimientos para la aplicación de las sanciones a que se refieren las fracciones anteriores, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
-Las Leyes determinarán los casos y las circunstancias en los que se deban sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivo del mismo, por sí o por interpósita persona, aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, y cuya procedencia lícita, no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
+Las leyes determinarán los casos y las circunstancias en los que se deban sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivo del mismo por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, y cuya procedencia lícita, no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
 
 Cualquier Ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la Cámara de Diputados del Estado, respecto de las conductas a las que se refiere el presente artículo.
 
@@ -2289,21 +2341,21 @@ Conociendo el dictamen el Congreso del Estado, erigido en Jurado de Sentencia, a
 
 Las declaraciones y resoluciones del Congreso del Estado son inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ## TÍTULO DÉCIMO PRIMERO. De los Contenidos Audiovisuales
 
 ###### ARTICULO 142.
 
-Para proceder penalmente contra los Diputados al Congreso del Estado; los Magistrados del Tribunal Superior de Justicia; los titulares de las Secretarías; el Procurador General de Justicia; los Magistrados del Tribunal Estatal Electoral; el Consejero Presidente, el Director General, el Secretario General y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría calificada si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los Diputados al Congreso del Estado; los Magistrados del Tribunal Superior de Justicia; los titulares de las Secretarías; el Procurador General de Justicia; los Magistrados del Tribunal Estatal Electoral; el Consejero Presidente, el Director General, el Secretario General y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 Si la resolución de la Cámara fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el inculpado haya concluido el ejercicio de su encargo, pues la resolución no prejuzga los fundamentos de la imputación.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
-Si la Cámara declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen conforme a la Ley.
+Si la Cámara declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen conforme a la ley.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
@@ -2313,35 +2365,37 @@ Por lo que se refiere al Gobernador del Estado, sólo habrá lugar a acusarlo an
 
 Las declaraciones y resoluciones de la Cámara de Diputados son inatacables.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
-El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
+El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no concederá al reo la gracia del indulto.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá declaración de procedencia.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
-Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
+Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 143.
 
 No se requerirá declaración de procedencia de la Cámara de Diputados cuando alguno de los servidores públicos a que hace referencia el párrafo primero del artículo 142, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
 Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 142 se procederá de acuerdo con lo dispuesto en dicho precepto.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 144.
 
-Las Leyes sobre responsabilidades administrativas de los servidores públicos determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas, dichas sanciones, además de las que señalan las leyes, consistirán en suspensión, destitución e inhabilitación, en su caso, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del artículo 140, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+Las leyes sobre responsabilidades administrativas de los servidores públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del artículo 140, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
@@ -2351,7 +2405,9 @@ El procedimiento de juicio político sólo podrá iniciarse durante el período 
 
 La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeñe alguno de los encargos a que hace referencia el artículo 142.
 
-La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del artículo 140. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
+La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción tercera del artículo 140. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores de tres años.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
@@ -2800,6 +2856,10 @@ SEGUNDO.- El Congreso del Estado deberá emitir la Ley de Derechos de los Pueblo
 P.O. 8 DE JULIO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE AGOSTO DE 1998.
+
+UNICO.- Las reformas, adiciones y derogación a que se contrae este Decreto entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
