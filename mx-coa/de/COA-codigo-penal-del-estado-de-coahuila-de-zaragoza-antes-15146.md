@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2004-06-22"
+last_updated: "2004-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -1931,7 +1931,7 @@ II. ENTORPECIMIENTO DE LA INVESTIGACIÓN MEDIANTE FALSEDAD U OCULTACIÓN, ALTERA
 
 III. ENTORPECIMIENTO Y DILACIÓN INDEBIDA DE LA INVESTIGACIÓN. A propósito y sin existir motivo justificado, impida, dificulte o indebidamente retarde la averiguación de un delito; o esconda, altere, destruya o simule una o más de sus constancias.
 
-> <small>(F. DE E., P.O. 10 DE AGOSTO DE 1999)</small>
+> <small>(F. DE E. P.O. 10 DE AGOSTO DE 1999)</small>
 
 IV. ENTORPECIMIENTO DE LA INVESTIGACIÓN MEDIANTE CIERTAS DECLARACIONES FALSAS. Niegue ser testigo no obstante serlo o afirme ser testigo sin serlo, de un hecho delictuoso o de circunstancias relacionadas con éste; o respecto de quien se atribuya alguna intervención en el hecho; aunque sea sin rendir protesta de conducirse con verdad.
 
@@ -2939,6 +2939,8 @@ Se aplicarán las últimas sanciones del párrafo anterior en caso de que la có
 
 ### CAPÍTULO SEGUNDO. SECUESTRO
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 327.
 
 SANCIONES Y FIGURA TÍPICA DE ADULTERIO. Adulterio punible es la cópula de persona casada con otra que no sea su cónyuge si se realiza en el domicilio conyugal; o cuando en el medio social del ofendido, los sujetos activos hagan de manera conjunta ostentación pública a través de actos que en sí revelen o indiquen en forma segura su relación adulterina.
@@ -3247,7 +3249,23 @@ SANCIONES Y FIGURA TÍPICA EQUIPARADA A LA PRIVACIÓN DE LIBERTAD. Se aplicará 
 
 ###### ARTÍCULO 371.
 
-SANCIONES Y FIGURA TÍPICA DE SECUESTRO. Se aplicará de dieciséis a cuarenta años de prisión y multa: A quien por cualquier medio prive a otro de la libertad, con el fin de obtener rescate o cualquier beneficio; o para causar al secuestrado o a personas relacionadas con éste, daños o perjuicios ajenos al secuestro.
+SANCIONES Y FIGURA TÍPICA DE SECUESTRO. Se aplicará de veinte a cuarenta y cinco años de prisión y multa: A quien por cualquier medio prive a otro de la libertad, con el fin de obtener rescate o cualquier beneficio; o para causar al secuestrado o a personas relacionadas con éste, daños o perjuicios ajenos al secuestro.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+
+ARTÍCULO 371 BIS.- SANCIONES Y MODALIDADES AGRAVANTRES DEL SECUESTRO. Se aplicará prisión de treinta a cincuenta años de prisión y multa, cuando el secuestro concurra en cualquiera de las formas siguientes:
+
+I. SECUESTRO DE SUJETO CALIFICADO. Cuando el sujeto pasivo sea menor de edad o mayor de sesenta años, se trate de una mujer embarazada o que por cualquier otra circunstancia esté en situación de inferioridad respecto del secuestrador.
+
+II. SECUESTRO POR SUJETO CUALIFICADO. Cuando intervenga persona que tenga con el sujeto pasivo vínculo de parentesco, amistad, gratitud, relación laboral o cualquier otro que produzca confianza.
+
+III. SECUESTRO CON LA FINALIDAD DE EXTRAER ÓRGANOS. Que se cometa con la finalidad de extraer a la víctima algún órgano de su cuerpo para trasplante o comercialización, independientemente de los delitos que resultaran.
+
+IV. SECUESTRO POR MEDIO DE LA UTILIZACIÓN DE NARCÓTICOS. Que durante la privación de la libertad se haga uso de narcóticos o cualquier sustancia o elementos susceptibles de anular o disminuir la resistencia de la víctima.
+
+V. SECUESTRO POR SERVIDOR PÚBLICO O MIEMBRO DE SEGURIDAD PRIVADA. Cuando intervenga un servidor público o exservidor público; o miembro o exmiembro de alguna corporación policial o de seguridad privada, aunque la empresa de seguridad privada no se hubiere registrado.
+
+Así como la utilización de insignias, uniformes, placas, claves o códigos oficiales, en cuyo caso además de la pena señalada se impondrá según proceda la destitución del empleo, cargo o comisión y la inhabilitación definitiva para desempeñar cualquiera como servidor público, con aquel u otro carácter.
 
 ###### ARTÍCULO 372.
 
@@ -3267,11 +3285,19 @@ En todos los casos anteriores, si la privación de la libertad excede de seis ho
 
 INTERVENCIÓN OFICIOSA DE LAS AUTORIDADES Y SANCIONES POR LESIONES U HOMICIDIO AL SECUESTRADO. El delito de secuestro o su equiparado se perseguirán de oficio y la autoridad intervendrá tan pronto tenga conocimiento del ilícito, aun cuando el ofendido o sus familiares se opongan a ello, pero procurando siempre la salvaguardia del secuestrado.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+
+A los servidores públicos que teniendo el deber de hacerlo no procedan en los términos de esta disposición se les impondrá de tres meses a tres años de prisión, multa, destitución del empleo o cargo; e inhabilitación hasta por cinco años para desempeñar cualquier empleo cargo o comisión públicos.
+
 La pena máxima de prisión se aumentará a sesenta años, además de la multa, si al secuestrado conforme a los artículos anteriores, se le causan lesiones graves o gravísimas; o la muerte.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 375.
 
-SANCIONES Y FIGURA TÍPICA DE SECUESTRO SIMULADO. Se aplicará de cinco a diez años de prisión y multa, a quien simule el secuestro de una persona y pida obtener cualquier beneficio; o que se realice o se deje de realizar algún acto.
+SANCIONES Y FIGURA TÍPICA DE SECUESTRO SIMULADO. Se aplicará de cinco a diez años de prisión y multa, a quien simule el secuestro de una persona o el propio y pida obtener cualquier beneficio o que realice o deje de realizar algún acto.
+
+La misma pena se aplicará a cualquiera que participe en la comisión de este delito.
 
 ### CAPÍTULO TERCERO. CALUMNIA
 
@@ -3956,3 +3982,7 @@ P.O. 22 DE JUNIO DE 2004.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2004.
+
+ÚNICO. El presente decreto entrará en vigor a los noventa días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
