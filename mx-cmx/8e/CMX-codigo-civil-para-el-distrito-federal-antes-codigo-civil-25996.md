@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1994-01-06"
+last_updated: "1994-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1994.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -8165,15 +8165,23 @@ Los créditos por indemnización cuando la víctima fuere un asalariado son intr
 
 Las anteriores disposiciones se observarán en el caso del artículo 2647 de este Código.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+
+ARTICULO 1,916.- Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspectos físicos, o bien en la consideración que de sí misma tienen los demás. Se presumirá que hubo daño moral cuando se vulnere o menoscabe ilegítimamente la libertad o la integridad física o psíquica de las personas.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+
+Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material, tanto en responsabilidad contractual como extracontractual. Igual obligación de reparar el daño moral tendrá quien incurra en responsabilidad objetiva conforme al artículo 1913, así como el Estado y sus servidores públicos, conforme a los artículos 1927 y 1928, todos ellos del presente Código.
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-ARTICULO 1,916.- Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físicos (sic), o bien en la consideración que de sí misma tienen los demás.
-
-Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material, tanto en responsabilidad contractual, como extracontractual. Igual obligación de reparar el daño moral tendrá quien incurra en responsabilidad objetiva conforme al artículo 1913, así como el Estado y sus funcionarios conforme al artículo 1928, ambas disposiciones del presente Código.
 
 La acción de reparación no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
 El monto de la indemnización lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
 
@@ -8203,9 +8211,13 @@ ARTICULO 1,925.- Los jefes de casa o los dueños de hoteles o casas de hospedaje
 
 ARTICULO 1,926.- En los casos previstos por los artículos 1923, 1924 y 1925 el que sufra el daño puede exigir la reparación directamente del responsable, en los términos de este Capítulo.
 
-ARTICULO 1,927.- El que paga el daño causado por sus sirvientes, empleados u operarios, puede repetir de ellos lo que hubiere pagado.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
-ARTICULO 1,928.- El Estado tiene obligación de responder de los daños causados por sus funcionarios en el ejercicio de las funciones que les estén encomendadas. Esta responsabilidad es subsidiaria y sólo podrá hacerse efectiva contra el Estado, cuando el funcionario directamente responsable no tenga bienes, o los que tenga no sean suficientes para responder del daño causado.
+ARTICULO 1,927.- El Estado tiene obligación de responder del pago de los daños y perjuicios causados por sus servidores públicos con motivo del ejercicio de las atribuciones que les estén encomendadas. Esta responsabilidad será solidaria tratándose de actos ilícitos dolosos, y subsidiaria en los demás casos, en los que sólo podrá hacerse efectiva en contra del Estado cuando el servidor público directamente responsable no tenga bienes o los que tenga no sean suficientes para responder de los daños y perjuicios causados por sus servidores públicos.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+
+ARTICULO 1,928.- El que paga los daños y perjuicios causados por sus sirvientes, empleados, funcionarios y operarios, puede repetir de ellos lo que hubiere pagado.
 
 ARTICULO 1,929.- El dueño de un animal pagará el daño causado por éste, si no probare algunas de estas circunstancias:
 
@@ -8755,7 +8767,7 @@ ARTICULO 2,106.- La responsabilidad procedente de dolo es exigible en todas las 
 
 ARTICULO 2,107.- La responsabilidad de que se trata en este Título, además de importar la devolución de la cosa o su precio, o la de entrambos (sic), en su caso, importará la reparación de los daños y la indemnización de los perjuicios.
 
-ARTICULO 2,108.- Se entiende por daño la pérdida o menoscabo sufrido en el patrimonio por la falta de cumplimiento de una obligación.
+ARTICULO 2,108.- Se entiende por daño la perdida o menoscabo sufrido en el patrimonio por la falta de cumplimiento de una obligación.
 
 ARTICULO 2,109.- Se reputa perjuicio la privación de cualquiera ganancia lícita, que debiera haberse obtenido con el cumplimiento de la obligación.
 
@@ -12275,9 +12287,9 @@ Sufragio Efectivo. No Reelección.
 
 México, a 30 de agosto de 1928.- El Secretario de Estado y del Despacho de Gobernación, Emilio Portes Gil.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
-D.O.F. 1o. DE SEPTIEMBRE DE 1932.
+D.O.F. 1 DE SEPTIEMBRE DE 1932.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
@@ -12291,7 +12303,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 D.O.F. 11 DE NOVIEMBRE DE 1943.
 
-DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES
+DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES.
 
 ###### ARTICULO 1o.
 
@@ -12608,3 +12620,11 @@ CUARTO.- La numeración de los instrumentos con la que cada notario iniciará el
 QUINTO.- Los folios del Protocolo Abierto Especial actualmente en uso, serán utilizados por los notarios hasta que se terminen.
 
 SEXTO.- En los casos en que con anterioridad a la entrada en vigor del presente Decreto, se hubieren otorgado escrituras de adquisición de los inmuebles a que se refiere el artículo 1549-Bis del Código Civil, los propietarios podrán instituir uno o más legatarios en los términos establecidos por dicho artículo.
+
+D.O.F. 10 DE ENERO DE 1994.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y cuatro.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
