@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1981-01-07"
+last_updated: "1981-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1981.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -881,7 +881,7 @@ Las instituciones de seguros deberán depositar el efectivo, títulos o valores 
 
 Las instituciones de seguros, sin perjuicio de mantener el capital mínimo previsto por esta Ley, deberán tener capital neto por monto no menor, en ningún caso, a la cantidad mayor que se determine conforme a las bases siguientes:
 
-I.- La suma de las cantidades que se obtengan de aplicar los por cientos que señale la Secretaría de Hacienda y Crédito Público, al importe de las reservas de riesgos en curso, para cada operación, deduciendo a su resultado el monto de la reserva de previsión, así como al importe de la reserva a que se refiere la fracción III del artículo 50 y al importe de los fondos mencionados en la fracción IV del artículo 35 de esta Ley.
+I.- La suma de las cantidades que se obtengan de aplicar los por cientos que señale la Secretaría de Hacienda y Credito Público, al importe de las reservas de riesgos en curso, para cada operación, deduciendo a su resultado el monto de la reserva de previsión, así como al importe de la reserva a que se refiere la fracción III del artículo 50 y al importe de los fondos mencionados en la fracción IV del artículo 35 de esta Ley.
 
 En el caso de las reservas señaladas en la fracción IV del artículo 47, no se considerará la parte acumulada por ejercicios anteriores;
 
@@ -1601,23 +1601,7 @@ La inspección y vigilancia de las instituciones y de las sociedades mutualistas
 
 La Comisión Nacional Bancaria y de Seguros ejercerá, respecto a los síndicos y a los liquidadores, las funciones de vigilancia que tiene atribuidas en relación a las instituciones y sociedades mutualistas de seguros.
 
-Las cuotas que para compensar los gastos de inspección y vigilancia pagarán las instituciones y sociedades mutualistas de seguros y establecimientos que conforme a esta Ley están sujetos a aquéllas, se determinarán anualmente por la Secretaría de Hacienda y Crédito Público a propuesta de la Comisión Nacional Bancaria y de Seguros, de acuerdo con las normas siguientes:
-
-I.- El 50% del presupuesto de gastos de inspección y vigilancia se prorrateará en relación con el monto del capital y reservas de capital de cada institución;
-
-II.- El 30% en relación con las primas emitidas durante el año inmediato anterior, computándose las primas del seguro directo al 100% y en el reaseguro tomado a la tasa que sin exceder del 25% de las primas correspondientes fije discrecionalmente la Comisión Nacional Bancaria y de Seguros, ponderando las diferencias en escalas de operación entre el seguro directo y el reaseguro tomado; y
-
-III.- El 20% restante, en relación con las utilidades de las instituciones.
-
-Las instituciones nacionales que no tuvieren utilidades, pagarán la cuota que discrecionalmente fije la Secretaría de Hacienda y Crédito Público.
-
-Las sociedades mutualistas pagarán las cuotas de inspección y vigilancia calculadas en relación con las primas emitidas, sin exceder del 1% de sus gastos de administración.
-
-La Secretaría de Hacienda y Crédito Público, a propuesta de la Comisión Nacional Bancaria y de Seguros, podrá determinar las cuotas que, en su caso, deban pagar las demás personas y entidades sujetas a la inspección y vigilancia de dicha Comisión, tomando en cuenta la estimación de la incidencia que en su presupuesto tenga el ejercicio de tales funciones.
-
-Las cuotas serán pagadas por mensualidades adelantadas en el Banco de México, S. A.
-
-Las cuotas a que se refiere este artículo, y el presupuesto de egresos de la Comisión, no formarán parte de los ingresos del Gobierno Federal, ni figurarán en sus presupuestos.
+> <small>(DEROGADO TERCER, CUARTO, QUINTO, SEXTO, SEPTIMO Y OCTAVO PARRAFO POR ARTICULO TRIGESIMO TRANSITORIO DE LEY QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA FISCAL, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -2480,3 +2464,17 @@ En el plazo de un año contado a partir de que entre en vigor esta Ley, las soci
 ###### ARTICULO DECIMO SEGUNDO.
 
 Cualquier referencia que las leyes, disposiciones reglamentarias o administrativas distintas a las que son materia de la presente Ley hagan a las instituciones de seguros, deberá entenderse hecha para las instituciones y sociedades mutualistas de seguros.
+
+D.O.F. 31 DE DICIEMBRE DE 1981.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1982.
+
+...
+
+ARTICULO TRIGESIMO.- Se derogan los artículos 70 de la Ley General de Población; 28 de la Ley Federal de Armas de Fuego y Explosivos; 160 párrafos tercero y cuarto de la Ley General de Instituciones de Crédito y Organizaciones Auxiliares; 106 párrafos tercero a noveno de la Ley General de Instituciones de Seguros; 53 de la Ley del Mercado de Valores; 21 último párrafo y 49 de la Ley de Obras Públicas; 2o. de la Ley de Impuestos y Fomento a la Minería; 24 fracción VII de la Ley Reglamentaria del Artículo 27 Constitucional en materia Minera; 78, 203, 204, 205, 206, 207, 208 y 209 de la Ley de Invenciones y Marcas; 27 fracción V de la Leye (sic) sobre Adquisiciones, Arrendamientos y almacenes de la Administración Pública Federal; 14 último párrafo y 38 de la Ley General de Normas y de Pesas y Medidas; 184, 513, 514, 515, 516, 517, 520 y 521 de la Ley de Vías Generales de Comunicación; 18 primer párrafo de la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticos e Históricos; 34 fracción VI de la Ley Federal de Derechos de Autor; 17 y 344 del Código Sanitario de los Estados Unidos Mexicanos; 32 fracción VII y 37 penúltimo párrafo de la Ley Federal para el Fomento de la Pesca y 399, 498, 499, 501, 502, 503, 504, 505, 506, 542, 545 párrafos primero y segundo y 546 segundo párrafo del Código Aduanero de los Estados Unidos Mexicanos.
+
+...
