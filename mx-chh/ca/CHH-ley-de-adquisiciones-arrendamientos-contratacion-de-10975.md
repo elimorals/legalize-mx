@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-adquisiciones-arrendamientos-contratacion-de-10975"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-13"
-last_updated: "2000-12-30"
+last_updated: "2003-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA
 
 > <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA “LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA”, PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA “LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA”, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2003.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 13 de septiembre de 1997.
 
@@ -1081,7 +1081,9 @@ A. Tratándose de adquisiciones, arrendamientos y servicios, además podrá segu
 
 I. Existan razones justificadas para la adquisición y arrendamiento de bienes de marca determinada;
 
-II. Se trate de adquisiciones de bienes perecederos, granos y productos alimenticios básicos o semiprocesados y, bienes usados. Tratándose de estos últimos, el precio de adquisición no podrá ser mayor al que se determine mediante avalúo que practicarán las instituciones de banca y crédito u otros terceros legitimados para ello conforme a las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2003)</small>
+
+II. Se trate de adquisiciones de bienes perecederos, granos y productos alimenticios básicos o semiprocesados y, bienes usados. Tratándose de estos últimos, el precio de adquisición no podrá ser mayor al que se determine mediante avalúo que practicará una institución de crédito, o especialista en valuación debidamente acreditado ante el Departamento Estatal de Profesiones u otros terceros legítimos para ello conforme a las disposiciones aplicables;
 
 III. Se trate de adquisición de bienes o servicios de consultoría cuya difusión pudiera afectar al interés público o comprometer información de naturaleza confidencial para el Estado;
 
@@ -1354,3 +1356,13 @@ P.O. 30 DE DICIEMBRE DE 2000.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el primero de enero del año 2001.
+
+P.O. 8 DE MARZO DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todos aquellos especialistas en valuación que cuenten con título que los acredite como tales, podrán ejercer dicha especialidad en los términos de los anteriores preceptos legales, por los siguientes seis meses después de la publicación del presente decreto, siempre y cuando su registro ante el Departamento Estatal de Profesiones se encuentre en trámite. Concluido este término, deberá de cumplir todos los requisitos señalados. El trámite se comprobará con oficio expedido por el Departamento Estatal de Profesiones.
