@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1992-06-11"
+last_updated: "1992-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE AGOSTO DE 1992.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -1067,25 +1067,35 @@ II.- Los ingresos que adquiera por concepto de convenios, participaciones legale
 
 ### CAPITULO II. DE LA EXTENSION, LIMITES Y CABECERAS
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE ABRIL DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE AGOSTO DE 1992)</small>
 
-120.- El territorio del Estado de Baja California Sur se divide en cuatro Municipios que son: La Paz, Comondú, Mulegé y Los Cabos, que tendrán los siguientes límites:
+120.- El territorio del Estado de Baja California Sur, se divide en cinco municipios que son: La Paz, Comondú, Mulegé, Los Cabos y Loreto, quedando comprendidas las islas, islotes, cayos y arrecifes dentro de sus respectivas jurisdicciones; que tendrán los siguientes límites:
 
 > <small>(REFORMADO, B.O. 10 DE ABRIL DE 1980)</small>
 
 a).- Municipio de La Paz: al Norte, colinda con el Municipio de Comondú, línea descrita en la colindancia Sur de la municipalidad citada; por el Sur, con la colindancia Norte del Municipio de Los Cabos; por el Este y el Oeste, lo rodean aguas litorales del Golfo de California y el Océano Pacífico, respectivamente.
 
-b).- MUNICIPIO DE COMONDU: Al norte la misma línea de colindancia del sur del Municipio de Mulegé; por el sur, colinda con la municipalidad de La Paz, en una línea recta que parte del Golfo de California, del lugar conocido por Los Dolores que corresponde a la municipalidad de La Paz, cruzando la península hasta un lugar conocido por El Cayuco, rada que se ubica en la Costa de Bahía de Almejas, en el litoral del Océano Pacífico; por el este colinda con el litoral del Golfo de California y por el oeste con el Océano Pacífico.
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 1992)</small>
 
-c).- MUNICIPIO DE MULEGE: Al norte colinda con el Estado de Baja California, siendo su línea limítrofe el paralelo 28° de latitud norte; al sur con una línea que partiendo de la Punta de San Ildefonso, situada en el extremo sur de la Bahía de San Nicolás, sigue con rumbo suroeste hasta el punto conocido por Cerrito de la Pitahaya, situado al sureste e inmediato al Puerto de Santa Rosaliita (sic); de aquí con rumbo oeste, hasta llegar al litoral del Pacífico, con el lugar conocido por la Bocana de Rancho Nuevo; por el este con el Golfo de California y por el oeste con el Océano Pacífico.
+b).- MUNICIPIO DE COMONDU: al norte, colinda con el municipio de Mulegé en una línea que inicia en el cruce de la carretera transpeninsular y el Arroyo Cadeje con rumbo oeste hasta llegar al litoral del pacífico con el lugar conocido como la Bocana del Rancho Nuevo; al sur, colinda con el Municipio de La Paz, en una línea que inicia en el sitio conocido como Los Dolores del Municipio de La Paz, con un rumbo suroeste y cruzando la península hasta un lugar conocido como el Cayuco, rada que se ubica en la Costa de Bahía Almejas, en el litoral del pacífico; al este, con la colindancia oeste del Municipio de Loreto y el Golfo de California, y al oeste, colinda con el océano pacífico.
+
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 1992)</small>
+
+c).- MUNICIPIO DE MULEGE: al norte, colinda con el Estado de Baja California, siendo una línea limítrofe el paralelo 28 de latitud norte; al sur, colinda con los Municipios de Loreto y Comondú, con el primero en una línea que partiendo de la punta de San Idelfonso conocida también como Punta el Pulpito, situada en el extremo sur de La Bahía de San Nicolás, sigue con rumbo noroeste hasta el punto conocido como el Cerrito de la Pitahaya o del Pilón, situada al sureste del rancho de Santa Rosalillita, de aquí con rumbo oeste hasta llegar al cruce de la carretera transpeninsular y el Arroyo Cadeje, punto que sirve de límite para los municipios de Loreto, Comondú y Mulegé, siguiendo esta línea con rumbo oeste hasta llegar al litoral del pacífico con el lugar conocido como La Bocana de Rancho Nuevo, colindando en toda esta extensión con el Municipio de Comondú; al este, colinda con el Golfo de California; y al oeste, colinda con el océano pacífico.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 10 DE ABRIL DE 1980)</small>
 
 d).- Municipio de Los Cabos: al Norte, en línea quebrada con la Delegación de Todos Santos, partiendo del Océano Pacífico de un punto llamado "La Tinaja", que va en línea recta al copo de la Sierra de "La Soledad" rumbo al Este; de este punto hacia el Norte, en línea recta al copo de la sierra de "Santa Genoveva" y de este lugar pasando por el copo de la Sierra de "Las Casitas" hasta un lugar conocido como "San Vicente"; de este lugar en línea recta hacia el Este hasta llegar a "Piedras Gordas" Delegación de San Antonio, en el Golfo de California; al Sur, el Océano Pacífico; al Este, el Golfo de California, y al Oeste, el Océano Pacífico y la Delegación de Todos Santos.
 
-> <small>(REFORMADO, B.O. 10 DE ABRIL DE 1980)</small>
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 1992)</small>
 
-Las cabeceras de los Municipios antes descritos serán las siguientes: La Paz, la población del mismo nombre; Comondú, Ciudad Constitución; de Mulegé, Santa Rosalía y de Los Cabos, San José del Cabo.
+e).- MUNICIPIO DE LORETO: al norte, colinda con el Municipio de Mulegé, con la línea que partiendo de la punta de San Ildefonso conocida también como Punta Pulpito, situada en el extremo sur de la Bahía de San Nicolás, sigue con rumbo noroeste hasta el punto conocido como Cerrito de la Pitahaya o del Pilón situada al sureste del Rancho Santa Rosalillita; de aquí con rumbo oeste hasta llegar al cruce de la carretera transpeninsular y el Arroyo Cadeje, que es el límite también con el Municipio de Comondú; al sur colinda con el Municipio de Comondú con una línea que parte del Golfo de California, del lugar conocido como Ensenada el Cochi, hasta llegar al Cerro las Chivas con rumbo noroeste, que colinda también con el Municipio de Comondú; por el este, colinda con el litoral del Golfo de California y por el oeste colinda con el Municipio de Comondú, en línea quebrada de siete tramos que a continuación se describen:
+
+En el primer tramo, donde inicia una línea del cruce de la carretera transpeninsular y el Arroyo Cadeje con rumbo sureste, hasta llegar al Cerro de los Panales, situado al oeste de la Ranchería el Palo Blanco, que pertenece a la Municipalidad de Loreto y al norte de la Palmita perteneciente a la Municipalidad de Comondú, de este punto en el siguiente tramo en una línea con rumbo sureste hasta llegar al Cerro de Santo Tomás, que se ubica al noroeste del rancho del mismo nombre, perteneciendo al Municipio de Comondú; el siguiente tramo parte de una línea de este punto con rumbo noreste hasta llegar al Cerro Prieto, que se ubica al sur de Agua Verde, ambos, pertenecientes al Municipio de Loreto, de este punto el siguiente tramo sigue en rumbo sureste hasta llegar al Cerro Blanco ubicado al suroeste de la Bahía y Rancho Santa Martha, pertenecientes al Municipio de Loreto y al noreste de San José de la Noria, pertenecientes al Municipio de Comondú; el siguiente tramo inicia en este punto de donde sigue una línea con rumbo sureste hasta llegar al Cerro de los Berrendos, ubicado al oeste del rancho El Carrizalito y la Punta San Mateo, pertenecientes a la Municipalidad de Loreto; el siguiente tramo inicia en este punto, en una línea con rumbo sureste hasta el Cerro de las Chivas, ubicado al suroeste de Tembabiche y el último tramo inicia en este punto, con línea suroeste en el cruce del litoral del Golfo de California en el punto denominado Ensenada El Cochi.
+
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 1992)</small>
+
+Las cabeceras de los municipios antes descritos, serán las siguientes: de La Paz, la población con el mismo nombre; de Comondú, Ciudad Constitución; de Mulegé, Santa Rosalía; de Los Cabos, San José del Cabo y de Loreto, la población del mismo nombre.
 
 121.- Los Municipios se dividirán en:
 
@@ -1196,6 +1206,10 @@ El Ayuntamiento de La Paz, se integrará con un Presidente, un Síndico y catorc
 El Ayuntamiento de Comondú, se integrará con un Presidente, un Síndico y doce Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con cuatro Regidores electos por el principio de representación proporcional.
 
 Los Ayuntamientos de Mulegé y Los Cabos, se integrarán con un Presidente, un Síndico y diez Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con tres Regidores electos por el principio de representación proporcional.
+
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 1992)</small>
+
+El Ayuntamiento de Loreto, se integrará con un Presidente, un Síndico y cinco Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con un Regidor electo por el principio de representación proporcional.
 
 Por cada miembro de los Ayuntamientos, habrá un suplente.
 
@@ -1854,3 +1868,73 @@ B.O. 11 DE JUNIO DE 1992.
 DECRETO NUMERO 863.
 
 UNICO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE AGOSTO DE 1992.
+
+###### ARTICULO 1o.
+
+A PARTIR DE LA FECHA EN QUE ENTRE EN VIGOR ESTE DECRETO, TODAS LAS PERSONAS QUE DE MANERA DEFINITIVA, TEMPORAL O TRANSITORIA RESIDAN DENTRO DEL TERRITORIO QUE CORRESPONDA AL NUEVO MUNICIPIO, SE CONSIDERARAN VECINOS Y HABITANTES DEL MISMO Y QUEDARAN SUJETAS A LA JURISDICCION DE LAS AUTORIDADES DE ESTE.
+
+###### ARTICULO 2o.
+
+LOS BIENES DEL MUNICIPIO DE COMONDU UBICADOS EN EL TERRITORIO QUE SE LE SEGREGA, PASARAN, MEDIANTE EL PROCEDIMIENTO LEGAL CORRESPONDIENTE A INTEGRAR EL PATRIMONIO DEL MUNICIPIO DE LORETO.
+
+###### ARTICULO 3o.
+
+LAS OBLIGACIONES DE CONTENIDO ECONOMICO SUSCRITAS POR EL AYUNTAMIENTO DE COMONDU, POR OBRAS DE BENEFICIO COLECTIVO REALIZADAS POR ESTE EN EL TERRITORIO DEL MUNICIPIO DE LORETO, A PARTIR DE LA VIGENCIA DEL PRESENTE DECRETO PASARAN A CARGO DEL NUEVO GOBIERNO MUNICIPAL.
+
+###### ARTICULO 4o.
+
+EN TANTO SEA ELECTO CONSTITUCIONALMENTE Y ENTRE EN FUNCIONES EL AYUNTAMIENTO DEL MUNICIPIO DE LORETO, EL GOBIERNO MUNICIPAL ESTARA A CARGO DE UN CONCEJO INTEGRADO POR CINCO MIEMBROS Y SUS RESPECTIVOS SUPLENTES QUE SE ENCARGARA PROVISIONALMENTE DE LAS FUNCIONES DEL AYUNTAMIENTO.
+
+EL AYUNTAMIENTO DE COMONDU EJERCERA SUS ATRIBUCIONES EN EL MUNICIPIO QUE SE CREA, HASTA LA INSTALACION DEL CONCEJO MUNICIPAL A QUE SE REFIERE EL PRIMER PARRAFO DE ESTE ARTICULO.
+
+###### ARTICULO 5o.
+
+LOS INTEGRANTES DEL CONCEJO MUNICIPAL, SERAN DESIGNADOS POR EL CONGRESO DEL ESTADO O POR LA DIPUTACION PERMANENTE EN SU CASO, A PROPUESTA DEL GOBERNADOR DEL ESTADO DE ENTRE LOS VECINOS DEL MUNICIPIO DE LORETO Y SE INSTALARA EN SESION PUBLICA Y SOLEMNE QUE EL CONGRESO DEL ESTADO REALIZARA EN LA CABECERA MUNICIPAL, DENTRO DE LOS 90 DIAS SIGUIENTES AL DE LA PUBLICACION DEL PRESENTE DECRETO; PARA LO CUAL, TRASLADARA PROVISIONALMENTE SU SEDE AL RECINTO QUE SE DETERMINE AL EFECTO.
+
+LOS NOMBRAMIENTOS DE CONCEJALES MUNICIPALES QUE EL GOBERNADOR DEL ESTADO SOMETA AL CONGRESO DEL ESTADO, O A LA DIPUTACION PERMANENTE EN SU CASO, DEBERAN SER APROBADOS O DESECHADOS DENTRO DEL IMPRORROGABLE PLAZO DE 10 DIAS.
+
+SI EL CONGRESO DEL ESTADO, O LA DIPUTACION PERMANENTE, EN SU CASO, NADA RESOLVIERE DENTRO DEL PLAZO ANTERIOR, SE TENDRAN POR APROBADOS LOS NOMBRAMIENTOS Y LOS SERVIDORES PUBLICOS DESIGNADOS ENTRARAN A DESEMPEÑAR SUS FUNCIONES.
+
+EN EL CASO DE QUE EL CONGRESO DEL ESTADO O LA DIPUTACION PERMANENTE, NO HICIERE LA DESIGNACION DE ALGUNO DE LOS INTEGRANTES PROPUESTOS, EL CONCEJO MUNICIPAL EMPEZARA A REALIZAR SUS FUNCIONES CON LOS DESIGNADOS.
+
+EN LOS CASOS RECHAZADOS, SE COMUNICARA AL EJECUTIVO DEL ESTADO DENTRO DEL TERMINO DE SETENTA Y DOS HORAS PARA QUE FORMULE UNA NUEVA PROPUESTA.
+
+###### ARTICULO 6o.
+
+EL CONCEJO MUNICIPAL, UNA VEZ INSTALADO Y RENDIDA SU PROTESTA, CELEBRARA SU PRIMERA REUNION Y ELEGIRA UN PRESIDENTE Y COMISIONES.
+
+###### ARTICULO 7o.
+
+EL AYUNTAMIENTO DE COMONDU DARA POSESION Y HARA ENTREGA DE LAS OFICINAS MUNICIPALES AL CONCEJO MUNICIPAL, UNA VEZ INSTALADO ESTE, ANTE LA PRESENCIA DE UN REPRESENTANTE DEL CONGRESO.
+
+###### ARTICULO 8o.
+
+POR ESTA UNICA OCASION, EL CONCEJO MUNICIPAL RENDIRA SU INFORME CORRESPONDIENTE A SU EJERCICIO EL DIA SEÑALADO PARA QUE EL NUEVO AYUNTAMIENTO INICIE SUS FUNCIONES.
+
+###### ARTICULO 9o.
+
+UNA VEZ INSTALADO EL CONCEJO MUNICIPAL, EL DELEGADO MUNICIPAL DE LORETO CESARA EN SUS FUNCIONES, Y LOS SUBDELEGADOS MUNICIPALES CONTINUARAN EN SU CARGO HASTA EN TANTO SE PROCEDE A LA DIVISION TERRITORIAL DEL NUEVO MUNICIPIO, Y SE ELIJAN LOS DELEGADOS MUNICIPALES EN TERMINOS DEL ARTICULO 27-A DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+###### ARTICULO 10o.
+
+EL CONCEJO MUNICIPAL SERA DOTADO DE PRESUPUESTO PROPIO QUE SE DETERMINARA POR EL CONGRESO DEL ESTADO Y EJERCERA SUS FUNCIONES EN BASE A LAS DIRECTRICES QUE DICTE EL PROPIO CONGRESO, EN MATERIA DE ADMINISTRACION.
+
+AL EFECTO SERAN VIGENTES LOS ORDENAMIENTOS FISCALES Y ADMINISTRATIVOS APLICABLES PARA EL MUNICIPIO DE COMONDU, EN TANTO NO SE EXPIDAN LAS REFORMAS Y DISPOSICIONES PARTICULARES DEL MUNICIPIO DE LORETO.
+
+###### ARTICULO 11o.
+
+EN TERMINOS DE LO DISPUESTO POR LOS ARTICULOS 62 Y 68 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR, POR ESTA UNICA OCASION EL CONGRESO DEL ESTADO, NOMBRARA A LOS DOS COMISIONADOS PROPIETARIOS Y SUPLENTES CORRESPONDIENTES AL AYUNTAMIENTO DE LORETO, A FIN DE QUE QUEDEN DEBIDAMENTE INTEGRADOS EL COMITE MUNICIPAL ELECTORAL DE LORETO Y ANTE EL COMITE DISTRITAL ELECTORAL RESPECTIVAMENTE.
+
+###### ARTICULO 12o.
+
+EN TANTO NO SEAN EXPEDIDOS LOS ORDENAMIENTOS LEGALES DEL NUEVO MUNICIPIO, CONTINUARAN RIGIENDO LOS VIGENTES EN EL MUNICIPIO DE COMONDU, QUE NO SE OPONGAN A SU AUTONOMIA.
+
+###### ARTICULO 13o.
+
+SE FACULTA AL CONGRESO DEL ESTADO PARA DICTAR LAS NORMAS INTERPRETATIVAS Y ACLARATORIAS DEL PRESENTE DECRETO, Y PARA RESOLVER LAS CONTROVERSIAS QUE SU APLICACION MOTIVE. ASI MISMO, PARA DICTAR LOS ACUERDOS Y DISPOSICIONES NO PREVISTOS EN EL PRESENTE DECRETO.
+
+###### ARTICULO 14o.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
