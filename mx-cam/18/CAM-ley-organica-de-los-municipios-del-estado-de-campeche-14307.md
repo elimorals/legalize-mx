@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "2001-07-03"
+last_updated: "2001-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -181,7 +181,9 @@ c) Los ranchos de Asunción, Dolores, San Antonio Florida, San Felipe, San Franc
 
 A la Sección Municipal de Dzitbalché, corresponden:
 
-a) La Villa de Dzitbalché, Cabecera de la Sección.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2001)</small>
+
+a) La Ciudad de Dzitbalché, Cabecera de la Sección.
 
 b) El pueblo de Bacabchén.
 
@@ -2846,3 +2848,41 @@ P.O. 3 DE JULIO DE 2001.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente decreto.
+
+P.O. 5 DE OCTUBRE DE 2001.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+Tercero.- En sesión solemne a que alude el transitorio anterior tendrá lugar el día 11 de octubre del año en curso, a las 10:00 horas en la Ciudad de Dzitbalché, teniéndose como recinto oficial del Congreso para tal efecto, el tramo de la calle 25 entre las calles 18 y 20, frente a los bajos del respectivo Palacio Municipal, y conforme el siguiente orden del día:
+
+1. Pase de lista.
+
+2. Declaración de existencia de quórum.
+
+3. Apertura de la sesión.
+
+4. Designación de las comisiones de cortesía.
+
+5. Receso.
+
+6. Reanudación de la sesión.
+
+7. Palabras del Presidente de la H. Junta Municipal.
+
+8. Intervención a cargo del Diputado César Iván Arcila Amézquita.
+
+9. Palabras de la Presidenta del H. Ayuntamiento del Municipio de Calkiní.
+
+10. Mensaje del C. Gobernador Constitucional del Estado.
+
+11. Lectura del decreto de titulación de ciudad.
+
+12. Declaración solemne de titulación.
+
+13. Entrega de pergamino, a cargo del C. Gobernador Constitucional del Estado.
+
+14. Clausura de la sesión.
+
+15. Himno Campechano.
