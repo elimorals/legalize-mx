@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-42634"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2004-12-25"
-last_updated: "2004-12-25"
+last_updated: "2005-03-08"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2005
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2004.
 
@@ -79,13 +79,7 @@ de Bienes Muebles
 
 Este impuesto se causará y pagará de acuerdo con las siguientes tarifas, sobre el valor de cada operación:
 
-I. Tratándose de transmisión o promesa de cesión de derechos de valor de fideicomiso, el: 2.0 %
-
-II. Tratándose de transmisión o cesión de derechos relativos a palcos, butacas o plateas en locales para espectáculos públicos, el: 2.0 %
-
-III. Cuando las transmisiones operen por disolución, escisión y liquidación de toda clase de sociedades, el: 1.0 %
-
-IV. En las demás operaciones de enajenación o transmisión de bienes muebles o derechos sobre los mismos, no contenidas en las fracciones anteriores, el: 2.0 %
+(VER TABLA ANEXA)
 
 Si al aplicar las tasas anteriores resulta un impuesto inferior a $55.00 se cobrará esta cantidad.
 
@@ -97,11 +91,7 @@ e Instrumentos Notariales
 
 Este impuesto se causará y pagará sobre el valor consignado en la operación, de acuerdo con las siguientes tarifas:
 
-I. La celebración, realización o expedición de cualquier contrato y actos jurídicos en general, el: 1.0%
-
-II. Cuando se trate de contratos de mutuo, hipoteca, prenda, o de sustitución de deudor, por la celebración del contrato, el: 0.5%
-
-III. En los demás contratos, actos o instrumentos notariales de índole no contractual o sin valor pecuniario, se pagarán, por cada uno: $90.00
+(VER TABLA ANEXA)
 
 Si al aplicar las tasas anteriores resulta un impuesto inferior a $90.00, se cobrará esta cantidad.
 
@@ -169,57 +159,7 @@ Por los servicios que presten las oficinas del Registro Público de la Propiedad
 
 I. Por el registro de actos, contratos o resoluciones judiciales:
 
-a) Sobre el valor que resulte mayor entre el consignado, el comercial o el que se desprenda del contenido del documento a registrar, el: 0.50 %
-
-Si al aplicar la tasa anterior, resulta un derecho inferior a $115.00, se cobrará esta cantidad.
-
-Tratándose de vivienda de interés social o popular destinada a casa habitación, se cobrarán 5 cinco días de salario mínimo general vigente en el área geográfica correspondiente al inmueble.
-
-En los demás tipos de vivienda destinados a casa habitación se cobrarán 40 días de salario mínimo general vigente en el área geográfica correspondiente al inmueble.
-
-Se entiende por vivienda de interés social individual, aquella cuyo valor catastral no exceda de 20 salarios mínimos generales vigentes elevados al año, del área geográfica a que corresponda el inmueble.
-
-Se entiende por vivienda popular y unifamiliar, aquella cuyo valor catastral no exceda de 30 salarios mínimos generales vigentes, elevados al año, del área geográfica a que corresponda el inmueble.
-
-b) Por el registro de la construcción, si se trata de vivienda, se aplicará lo dispuesto en el inciso a) que antecede y en cualquier otro caso, sobre la base a que se refiere el artículo 17 de esta Ley, el: 0.50 %
-
-1) Cuando el titular registral lo solicite y no exista transmisión.
-
-2) Cuando comparezca en el acto de transmisión un tercero a transmitir la construcción.
-
-Si al aplicar las tasas anteriores resulta un derecho inferior a $280.00, se cobrará esta cantidad.
-
-c) Contratos de créditos que, con o sin garantía, otorguen las instituciones de crédito sobre el valor consignado, el: 0.35%
-
-d) La adjudicación de los bienes propiedad de sociedades o asociaciones a favor de los socios y asociados, sobre el valor de los bienes, el: 0.35%
-
-Si al aplicar las tasas anteriores resulta un derecho inferior a $280.00 se cobrará esta cantidad.
-
-e) Contratos de afianzamiento, se pagará sobre el valor consignado el: 0.50%
-
-f) Contratos de crédito refaccionario y de habilitación o avío que se otorgan para actividades agropecuarias:
-
-1. Personas Jurídicas, se les cobrará 28 veintiocho días de salario mínimo general vigente en la zona económica de Guadalajara.
-
-2. Personas físicas: Exentas
-
-(VEASE TABLA ANEXA)
-
-Se pagarán las tasas o cuotas anteriores, independientemente del cobro de derechos por las anotaciones y cancelaciones que se originen como consecuencia del registro de documentos.
-
-(VEASE TABLA ANEXA)
-
-VI. Por expedición de constancias de registro:
-
-(VEASE TABLA ANEXA)
-
-Los pensionados, jubilados, discapacitados y los que obtengan algún crédito del INFONAVIT, DIPE, IMSS o ISSSTE, respecto de los certificados de los incisos a) y b) quedarán exentos de pago.
-
-(VEASE TABLA ANEXA)
-
-En caso de personas físicas con actividades agropecuarias para créditos refaccionarios o de habilitación o avío, este servicio estará exento.
-
-(VEASE TABLA ANEXA)
+(VER TABLA ANEXA)
 
 No causarán derechos las copias que se agreguen al documento que se inscriba.
 
@@ -259,39 +199,7 @@ y del Archivo General del Estado
 
 Los servicios de anotación, expedición de testimonios, certificaciones, búsqueda de documentos y cualquier otro que de acuerdo a las Leyes respectivas deba realizar el Archivo de Instrumentos Públicos, o los servicios que preste el Archivo General del Estado, se causarán derechos conforme a la siguiente tarifa:
 
-I. Por la búsqueda en las oficinas del Archivo:
-
-De escrituras:
-
-1. Si se precisa el protocolo, número de escritura o la fecha: $45.00
-
-2. Si no se precisa el protocolo, número de escritura o la fecha: $70.00
-
-b) De expedientes en los Archivos General y Especial de Tierras y Aguas: $45.00
-
-II. Otros servicios:
-
-a) Por certificación de copias de documentos: $215.00
-
-Por cada hoja excedente de 10 hojas: $1.00
-
-b) Por tildación y anotación en el margen del protocolo depositado en el Archivo: $45.00
-
-c) Por autorizar un segundo o ulteriores testimonios: $110.00
-
-Por cada hoja excedente de 10 hojas: $1.00
-
-d) Por contestación de solicitud de búsquedas testamentarias: $65.00
-
-e) Fotocopia de documentos por hoja oficio o carta: $1.00
-
-f) Consulta de lector Microfilm, por hora: $15.00
-
-g) Por impresión de microfilm: $5.00
-
-h) Escaneo y/o fotografía digital, por foja, plano o fotografía: $10.00
-
-III. Cualquier otro servicio del Archivo de Instrumentos Públicos correspondientes a funciones notariales se cubrirá conforme al Arancel de Notarios.
+(VER TABLA ANEXA)
 
 ### Capítulo III. De las Autorizaciones para el Ejercicio Profesional y Notarial
 
@@ -299,21 +207,7 @@ III. Cualquier otro servicio del Archivo de Instrumentos Públicos correspondien
 
 Por los servicios prestados por la Secretaría General de Gobierno que a continuación se indican, se causarán los derechos de acuerdo a la siguiente tarifa:
 
-I. Expedición de patente de aspirante para el ejercicio del notariado: $130.00
-
-II. Por expedición de fíat para el ejercicio del notariado: $2,470.00
-
-III. Por autorización para cambiar la adscripción notarial: $1,250.00
-
-IV. Por autorización de convenios de asociación, entre Notarios Públicos: $ 630.00
-
-V. Por autorizaciones para el ejercicio profesional:
-
-a) Pasante o provisional: $ 30.00
-
-b) Definitiva y postgrados: $100.00
-
-VI. Por la autorización de libros de protocolo ordinario o abierto especial y de registro de certificaciones, por cada uno: $ 250.00
+(VER TABLA ANEXA)
 
 ### Capítulo IV. De los Servicios en el ramo de Vialidad, Tránsito, Transporte
 
@@ -471,6 +365,10 @@ Cuando se efectúe dentro de los 15 días naturales, se le concederá un descuen
 
 Cuando se efectúe dentro de los 30 días naturales, se le concederá un descuento del 10%.
 
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2005)</small>
+
+CUARTO BIS.- En lo referente al trámite de cambio de propietario en automóviles, camiones, camionetas, tractores automotores, incluyendo los vehículos eléctricos y remolques de uso articular, si el adquirente opta por el pago del derecho de canje de placas, incluyendo tarjeta de circulación, calcomanía y holograma de seguridad, de conformidad a lo establecido en la fracción IV del artículo 53 de la Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco, se le otorgará un descuento del 50%,siempre y cuando el vehículo no se encuentre en el supuesto descrito en el artículo 22 fracción I inciso a) numeral 1 último párrafo de esta Ley.
+
 QUINTO.- La tarjeta de circulación otorgada a los vehículos inscritos en el padrón vehicular del Estado de Jalisco, durante los años de 2002, 2003 ó 2004, será vigente para el ejercicio fiscal 2005, salvo en los casos de altas de vehículos en el padrón vehicular, así como cuando existan modificaciones a los datos del contribuyente o características del vehículo que se encuentren registrados en el padrón estatal.
 
 SEXTO: La inversión contemplada en la fracción VI numerales 1 inciso a) y 2 inciso d) del artículo 1 de esta Ley, correspondiente al Programa de Saneamiento de Agua para la Zona Conurbada de Guadalajara, se ajustará al siguiente calendario de montos de inversión conforme al Programa de Inversión Multianual:
@@ -528,3 +426,11 @@ El Secretario General de Gobierno
 LIC. HÉCTOR PÉREZ PLAZOLA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 8 DE MARZO DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- El Titular del Poder Ejecutivo del Estado, a través de las dependencias correspondientes, llevará a cabo todas las medidas necesarias efecto de mantener actualizadas las bases de datos del Registro Estatal de los Servicios Públicos de Tránsito y Transporte, a efecto de eficientar la coordinación y flujo de información entre las diferentes dependencias del Ejecutivo Estatal así como de las municipales o federales que la requieran.
