@@ -4,7 +4,7 @@ identifier: "FED-decreto-que-establece-las-causas-del-retiro-forzoso-o-1614"
 country: "mx"
 rank: "decreto"
 publication_date: "1951-02-19"
-last_updated: "1963-12-30"
+last_updated: "1995-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1614&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1950-12-28"
 
 DECRETO QUE ESTABLECE LAS CAUSAS DEL RETIRO FORZOSO O VOLUNTARIO DE LOS MINISTROS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 1963.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADA EN EL D.O.F. DE 26 DE MAYO DE 1995, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 19 de febrero de 1951.
 
@@ -120,3 +122,35 @@ La presente reforma entrará en vigor a partir de la fecha de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a las contenidas en este decreto.
+
+D.O.F. 26 DE MAYO DE 1995.
+
+PRIMERO. La presente ley entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los amparos indirectos promovidos en contra de actos de tribunales unitarios de circuito que a la fecha de entrada en vigor de esta ley se encuentren radicados en los juzgados de distrito, deberán seguir siendo tramitados y resueltos por estos.
+
+TERCERO. Se abroga la ley Orgánica del Poder Judicial de la Federación publicada en el Diario Oficial de la Federación de 5 de enero de 1988, y sus reformas.
+
+CUARTO. Se abroga el Decreto que Establece las Causas de Retiro Forzoso o Voluntario de los Ministros de la Suprema Corte de Justicia de la Nación del 19 de febrero de 1951 y su reforma de 1963.
+
+QUINTO. Los acuerdos administrativos dictados por la Suprema Corte de Justicia funcionando en Pleno y por la Comisión de Gobierno y Administración de la Suprema Corte de Justicia con fundamento en la Ley Orgánica que se abroga mediante el presente decreto, continuarán en vigor en lo que no se opongan a la presente ley hasta que el Consejo de la Judicatura Federal o la Suprema Corte de Justicia funcionando en Pleno dicte las normas administrativas que correspondan.
+
+SEXTO. Se faculta a la Suprema Corte de Justicia funcionando en Pleno y al Pleno del Consejo de la Judicatura Federal para dictar, en sus respectivos ámbitos de atribuciones, todas las medidas que sean necesarias para la efectividad e inmediato cumplimiento de la presente Ley.
+
+SEPTIMO. El presupuesto del Poder Judicial de la Federación para el ejercicio de 1995 será administrado y ejercido por el Presidente de la Suprema Corte de Justicia y por el Consejo de la Judicatura Federal, en sus rubros y montos requeridos respectivamente. Para este efecto, dentro de los treinta días siguientes a la entrada en vigor de la presente Ley, el presidente de la Suprema Corte de Justicia someterá al Pleno del Consejo de la Judicatura Federal la división de dicho presupuesto, tomando en cuenta las necesidades para la administración de ambos, durante el resto del presente ejercicio fiscal.
+
+OCTAVO. Se derogan los artículos 3o., 51 y 79 de la Ley Federal de Responsabilidades de los Servidores Públicos, únicamente en lo que se refiere a la Suprema Corte de Justicia.
+
+NOVENO. A partir de la entrada en vigor de esta ley, los días hábiles a que se refiere el primer párrafo del artículo 23 de la Ley de Amparo serán los que señala el artículo 160 de esta ley.
+
+DECIMO. Las atribuciones, presupuesto y personal con que actualmente cuenta el Instituto de Especialización Judicial, pasarán a formar parte del Instituto de la Judicatura.
+
+DECIMO PRIMERO. Para la suplencia en los casos de ausencia del Presidente de la Suprema Corte de Justicia a que se refiere el artículo 13 de esta ley, se considerará el orden de nombramientos aprobados por la Cámara de Senadores.
+
+DECIMO SEGUNDO. Los miembros del Comité Académico del Instituto de la Judicatura serán designados dentro de los treinta días siguientes a la publicación de la presente ley. La mitad de los miembros que integre el primer Comité Académico será designada para un período de dos años y la restante para un período de cuatro años.
+
+DECIMO TERCERO. Los ministros designados para períodos inferiores a quince años, de acuerdo con lo dispuesto por el artículo Cuarto Transitorio del Decreto por el que se reforman diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación del 31 de diciembre de 1994, tendrán derecho al haber por retiro en términos del primer párrafo del artículo 183 de esta ley, cuando cumplan el período por el que fueron designados. Cuando se retiren sin haber cumplido su período, tendrán derecho a su haber por retiro de manera proporcional al tiempo de su desempeño.
+
+DECIMO CUARTO. Dentro de los treinta días siguientes a la entrada en vigor de esta ley, el Presidente del Consejo de la Judicatura Federal y los consejeros designados por el Senado de la República y por el Poder Ejecutivo, procederán a insacular a los magistrados de circuito y al juez distrito que ocuparán el cargo de consejeros cumpliendo con los requisitos de esta ley, quienes desempeñarán el cargo hasta concluir el período a que se refiere el artículo Quinto Transitorio del Decreto por el que se reforman diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación del 31 de diciembre de 1994.
+
+DECIMO QUINTO. Las resoluciones del Pleno de la Suprema Corte de Justicia de la Nación constituyen jurisprudencia, siempre que lo resuelto en ellas se sustente en cinco sentencias no interrumpidas por otra en contrario, y que hayan sido aprobadas por lo menos por ocho ministros.
