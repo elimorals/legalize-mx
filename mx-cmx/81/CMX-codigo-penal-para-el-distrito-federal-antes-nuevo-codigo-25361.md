@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2004-06-04"
+last_updated: "2004-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE SEPTIEMBRE DE 2004.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1128,6 +1128,8 @@ En los casos contemplados en las fracciones I, II y III, los médicos tendrán l
 
 ### CAPÍTULO VI. RETENCIÓN Y SUSTRACCIÓN DE MENORES O INCAPACES
 
+> <small>(REFORMADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 149.
 
 A quien disponga de óvulos o esperma para fines distintos a los autorizados por sus donantes, se le impondrán de tres a seis años de prisión y de cincuenta a quinientos días multa.
@@ -1306,9 +1308,9 @@ Si la recuperación de la víctima se logra por datos proporcionados por el incu
 
 ###### ARTÍCULO 171.
 
-Al que sin tener relación familiar o de tutela con un menor de edad o incapaz, lo retenga sin el consentimiento de quien ejerza su custodia legitima o su guarda, se le impondrán prisión de uno a cinco años y de cien a quinientos días multa.
+Al que sin tener relación de parentesco, a que se refiere el artículo 173 de este Código, o de tutela de un menor de edad o incapaz, lo retenga sin el consentimiento de quien ejerza su custodia legítima o su guarda, se le impondrá prisión de uno a cinco años y de cien a quinientos días de multa.
 
-A quien bajo los mismos supuestos del párrafo anterior lo sustraiga de su custodia legitima o su guarda, se le impondrá de cinco a quince años de prisión y de doscientos a mil días multa.
+A quien bajo los mismos supuestos del párrafo anterior los sustraiga de su custodia legítima o su guarda, se le impondrá de cinco a quince años de prisión y de doscientos a mil días multa.
 
 ###### ARTÍCULO 172.
 
@@ -1316,11 +1318,21 @@ Si la retención o sustracción se realiza en contra de una persona menor de doc
 
 Si la sustracción tiene como propósito incorporar a la persona a círculos de corrupción de menores o traficar con sus órganos, las penas se aumentarán en un tanto.
 
+> <small>(REFORMADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 173.
 
-Si el agente es familiar del menor o del incapaz, pero no ejerce la patria potestad o la tutela sobre éste o mediante resolución judicial no ejerce la guarda o custodia, se le impondrá la mitad de las penas previstas en los artículos anteriores.
+Se impondrá de uno a cinco años de prisión y de cien a quinientos días de multa, al ascendiente, descendiente, pariente colateral o afín hasta el cuarto grado, que retenga o sustraiga a un menor o incapaz, en los siguientes casos:
 
-Cuando el sujeto devuelva espontáneamente al menor o al incapaz, dentro de las veinticuatro horas siguientes a la comisión del delito, se le impondrá una tercera parte de las sanciones antes señaladas.
+I. Que haya perdido la patria potestad o ejerciendo ésta se encuentre suspendido o limitado;
+
+II. No tenga la guarda y custodia provisional o definitiva o la tutela sobre él;
+
+III. No permita las convivencias decretadas por resolución judicial; o
+
+IV. Teniendo la guarda y custodia compartida, no devuelva al menor en los términos de la resolución que se haya dictado para ello.
+
+Este delito se perseguirá por querella.
 
 ## TÍTULO QUINTO. DELITOS CONTRA LA LIBERTAD Y LA SEGURIDAD SEXUALES Y EL NORMAL DESARROLLO PSICOSEXUAL
 
@@ -2452,6 +2464,10 @@ La pena será de uno a cinco años de prisión, cuando la desobediencia o resist
 
 Cuando la ley autorice el empleo de medidas de apremio para hacer efectivos los mandatos de la autoridad, la consumación de los delitos de desobediencia y resistencia de particulares, se producirá en el momento en que se agote el empleo de tales medidas de apremio.
 
+> <small>(ADICIONADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+
+Con excepción de los casos previstos en el artículo 73 Bis del Código de Procedimientos Civiles del Distrito Federal.
+
 ### CAPÍTULO I. ATAQUES A LAS VÍAS DE COMUNICACIÓN Y A LOS MEDIOS DE TRANSPORTE
 
 ###### ARTÍCULO 285.
@@ -3425,3 +3441,17 @@ G.O. 4 DE JUNIO DE 2004.
 PRIMERO.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 6 DE SEPTIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial de Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor a los noventa días siguientes a su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO TERCERO.
+
+Las presentes disposiciones se aplicarán a todos los procedimientos judiciales y administrativos en trámite ante las autoridades correspondientes y de acuerdo a lo dispuesto en el artículo 94 de Código de Procedimientos Civiles del DF; los interesados podrán promover los beneficios que le concede la presente Ley.
