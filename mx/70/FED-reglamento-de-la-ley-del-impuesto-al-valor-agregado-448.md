@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-impuesto-al-valor-agregado-448"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-02-29"
-last_updated: "1984-02-29"
+last_updated: "1988-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=448&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1984-02-28"
 
 REGLAMENTO DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 1988.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 29 de febrero de 1984.
 
@@ -103,6 +103,50 @@ Para determinar el impuesto del ejercicio a que se refiere el artículo 5o. de l
 
 Del impuesto del ejercicio se deducirán los pagos provisionales determinados conforme al artículo 12 de este Reglamento, así como los efectuados con motivo de la importación de bienes tangibles.
 
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 14-A.
+
+Para los efectos de lo dispuesto por el artículo 6o. de la Ley, las persona físicas o morales contribuyentes de este impuesto, cuyo volumen de operaciones realizadas hacia el extranjero, supere en forma habitual a los actos o actividades gravados en el país con tasas del 6%, 15% o 20%, podrán obtener el certificado para la aplicación de los saldos que tengan a favor en el impuesto al valor agregado por exportaciones, el que podrá ser utilizado en el pago de cualquier impuesto federal, propio o retenido, así como los accesorios de éstos, con excepción de aquellos que estén destinados a un fin específico.
+
+Dicho certificado tendrá las características, los requisitos de expedición y procedimiento de aplicación siguientes:
+
+> <small>(F. DE E., D.O.F. 6 DE DICIEMBRE DE 1988)</small>
+
+I.- Tendrá como base el monto del saldo a favor del impuesto al valor agregado del contribuyente, cuantificado en forma mensual y contará con los siguientes requisitos:
+
+a).- Nombre, denominación o razón social del titular y clave del Registro Federal de Contribuyentes;
+
+b).- El importe para la aplicación de los saldos a favor durante el período de vigencia del certificado; y
+
+c).- La fundamentación que justifica su expedición.
+
+II.- Tendrá una duración de tres meses, contados a partir de la fecha en que se inicie el período de vigencia consignado en el mismo.
+
+III.- Se expedirá previo cumplimiento por el contribuyente de los siguientes requisitos:
+
+a).- Presentar solicitud por escrito ante la autoridad administradora correspondiente dentro de los primeros quince días del mes anterior al trimestre por el cual se ha solicitado el certificado;
+
+b).- Anexar con su primera solicitud, copia actualizada del registro de importadores y exportadores expedido por autoridad competente y, para el caso de empresas maquiladoras de exportación, la clave actualizada que les corresponda dentro del Registro Nacional de la Industria Maquiladora de la Secretaría de Comercio y Fomento Industrial, y
+
+c).- Exhibir, con la solicitud correspondiente al primer trimestre:
+
+1.- Copia del programa de exportaciones que haya sido presentado ante la Secretaría de Comercio y Fomento Industrial.
+
+2.- Importe mensual de adquisiciones realizadas durante el año de la solicitud, señalando el impuesto al valor agregado trasladado y el pagado por importaciones, así como de las devoluciones que mensualmente fueron solicitadas.
+
+3.- Estimación del volumen de adquisiciones mensuales del año en que se aplicará el certificado, señalando el impuesto al valor agregado que se le trasladará y el que pagará en importaciones, así como de las enajenaciones, separando las que se realizarán en el país de las de exportación.
+
+IV.- Del importe total del certificado, el contribuyente podrá aplicar como pago virtual en las declaraciones que tenga que presentar en un mes determinado, hasta la cantidad máxima que resultare como saldo a favor, en la declaración del impuesto al valor agregado por el mes inmediato anterior.
+
+En caso de existir diferencias, se cargaran recargos en los términos del artículo 21 del Código Fiscal de la Federación.
+
+En caso de que la aplicación haya agotado el importe total del certificado, antes de la conclusión del trimestre, previa solicitud debidamente fundada por el contribuyente se podrá expedir otro, a fin de que la aplicación del mismo, sea llevada a cabo en los términos de este artículo.
+
+Si el saldo a favor que manifiesta el contribuyente en su declaración mensual del impuesto al valor agregado, supera la cantidad total aplicada mediante el certificado, con éste y previa solicitud podrá obtener la devolución del remanente no utilizado, o a elección del propio contribuyente, la diferencia no aplicada podrá sumarla a la que tendría derecho a aplicar por el mes posterior.
+
+V.- Su importe no será considerado para determinar la utilidad fiscal del contribuyente y su uso no limita el aprovechamiento de los estímulos fiscales, por constituir el monto de una devolución de impuestos.
+
 > <small>(F. DE E., D.O.F. 22 DE MAYO DE 1984)</small>
 
 ###### ARTICULO 15.
@@ -119,9 +163,19 @@ IV.- Enajenación de moneda nacional y extranjera, así como la de piezas de oro
 
 V.- Intereses pagados por instituciones de crédito y uniones de crédito.
 
-> <small>(F. DE E., D.O.F. 22 DE MAYO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
-No son aplicables las fracciones III, IV y V de este artículo a las instituciones y uniones de crédito, a las casas de bolsa y a las empresas cuya actividad principal sea la intermediación financiera o la enajenación de moneda extranjera o de piezas de oro o de plata que hubieran tenido el carácter de monedas o la de piezas denominadas "onza troy".
+No son aplicables las fracciones III, IV y V de este artículo a las instituciones de crédito, de seguros, de fianzas y para el depósito de valores, a las casas de bolsa y de cambio, a las sociedades de inversión y organizaciones auxiliares del crédito. No es aplicable la fracción II, a las sociedades mercantiles que perciban ingresos preponderantemente por los conceptos en ella previstos.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 15-A.
+
+Las autoridades fiscales competentes de las entidades federativas, podrán expedir certificados de compensación de los saldos del impuesto al valor agregado que hayan declarado los contribuyentes, cuando estos últimos, en lugar de proporcionar la información y acompañar la documentación señaladas en la solicitud de devolución o compensación de dicho saldo, anexen a la solicitud, declaratoria formulada por el contador público registrado ante la Secretaría en los términos del artículo 52, fracción I del Código, cuando dicho contador hubiera emitido o vaya a emitir, para efectos fiscales, dictamen relativo a los estados financieros del contribuyente referido al período al que corresponda el saldo a favor, siempre que en dicha declaratoria el contador manifieste bajo protesta de decir verdad haberse cerciorado de la veracidad de las operaciones de las que deriva el impuesto causado y el impuesto acreditable declarado por el contribuyente.
+
+> <small>(F. DE E., D.O.F. 6 DE DICIEMBRE DE 1988)</small>
+
+La declaratoria que formule el contador público conforme a lo previsto en el párrafo anterior, se deberá hacer de acuerdo con las disposiciones señaladas en el Reglamento del Código Fiscal de la Federación en relación con el dictamen de estados financieros y a las normas de auditoría que regulan la capacidad, independencia e imparcialidad profesional del contador público, el trabajo que desempeña y la información que rinda como resultado del mismo.
 
 ###### ARTICULO 16.
 
@@ -169,9 +223,19 @@ Para los efectos de la fracción II del artículo 9o. de la Ley, se considera qu
 
 Tratándose de construcciones nuevas, se atenderá al destino para el cual se construyó, considerando las especificaciones del inmueble y en su defecto las licencias o permisos de construcción.
 
-También se considerará como destinada a casa habitación aquella construcción cuando en su enajenación se pacte que el adquirente la destinará a ese fin, siempre que se garantice el impuesto que hubiera correspondido y se presente aviso de la enajenación de que se trata, ante las mismas autoridades recaudadoras autorizadas para recibir las declaraciones de este impuesto. Las autoridades fiscales cancelarán la garantía cuando por más de seis meses contados a partir de la fecha en que el adquirente reciba el inmueble, éste se destine a casa habitación.
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+
+Se considerará destinada a casa habitación, cuando en la enajenación de una construcción el adquirente declare que la destinará a ese fin, siempre que se garantice el impuesto que hubiera correspondido ante las mismas autoridades recaudadoras autorizadas para recibir las declaraciones de este impuesto. Dichas autoridades ordenarán la cancelación de la garantía cuando por más de seis meses contados a partir de la fecha en que el adquirente reciba el inmueble, éste se destine a casa habitación.
 
 Igualmente se consideran como destinadas a casa habitación las instalaciones y áreas cuyos usos estén exclusivamente dedicados a sus moradores, siempre que sea con fines no lucrativos.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 21-A.
+
+La prestación de los servicios de construcción de inmuebles destinados a casa habitación, ampliación de ésta, así como la instalación de casas prefabricadas que sean utilizadas para este fin, se consideran comprendidos dentro de lo dispuesto por la fracción II del artículo 9o. de la Ley, siempre y cuando el prestador del servicio proporcione la mano de obra y materiales.
+
+Tratándose de unidades habitacionales, no se considerarán como destinadas a casa habitación las instalaciones y obras de urbanización, mercados, escuelas, centros o locales comerciales, o cualquier otra obra distinta a las señaladas.
 
 ###### ARTICULO 22.
 
@@ -186,6 +250,12 @@ I.- Contar con un sistema de control que permita el acceso a dichos establecimie
 II.- Efectuar las enajenaciones, sin propósito de lucro. En consecuencia su precio de venta no deberá ser superior al costo y gastos de adquisición, impuestos trasladados y los gastos indispensables de operación.
 
 III.- Incluir en lugar visible de la documentación que expidan la leyenda "Venta a Consumidor Final".
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+
+Quedan comprendidos dentro de lo dispuesto en la fracción VIII del artículo 9o. de la Ley, todos
+
+los sindicatos de trabajadores.
 
 Los bienes enajenados por terceros en las áreas o locales por las que dichas tiendas les otorguen su uso o goce, no tendrán el beneficio a que se refiere este artículo.
 
@@ -287,7 +357,21 @@ No se pagará el impuesto por la importación de servicios prestados en el extra
 
 Para el efecto de determinar el valor sobre el que se aplicará la tasa del impuesto al valor agregado, en la importación de bienes tangibles a que se refiere el artículo 27 de la Ley, se considerarán los impuestos que se deban pagar con motivo de la importación, excluyendo del valor el monto de la parte subsidiada, en su caso.
 
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+
+También se podrá excluir de dicho valor, el monto del subsidio que se encuentre en trámite ante autoridad competente, siempre que medie autorización para que el monto del impuesto correspondiente al importe del subsidio se garantice conforme a lo establecido en el Código Fiscal de la Federación.
+
+(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988) (F. DE E., D.O.F. 6 DE DICIEMBRE DE 1988)
+
+Si otorgada la garantía, no se concedió el subsidio solicitado, la misma se hará efectiva sobre la diferencia de impuesto más los recargos correspondientes en los términos del citado Código.
+
 Cuando el contribuyente haga valer algún medio de defensa en contra de las resoluciones que dicten las autoridades aduaneras, el impuesto al valor agregado se pagará tomando en cuenta el monto del impuesto general de importación que se obtenga de los datos suministrados por el propio contribuyente, y la diferencia de impuesto que en su caso resulte, la pagará hasta que se resuelva en definitiva la controversia; en los casos en que la importación la realicen contribuyentes que deban presentar declaraciones del ejercicio del impuesto al valor agregado, no estarán obligados a garantizar el interés fiscal, siempre que exhiban copia sellada de las últimas declaraciones mensual y del ejercicio; tratándose del primer ejercicio deberán presentar copia sellada de la última declaración mensual.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 40-A.
+
+Para los efectos de lo dispuesto en el artículo 24 de la Ley, los contribuyentes que importan bienes intangibles o servicios por los que deban pagar este impuesto, podrán efectuar el acreditamiento en los términos de los artículos 4o. y 5o. de la propia Ley en la misma declaración de pago provisional del mes a que corresponde dichas importaciones.
 
 ###### ARTICULO 41.
 
@@ -299,9 +383,11 @@ El impuesto al valor agregado que se pague en la importación de bienes tangible
 
 Para determinar el incremento de valor a que se refiere el artículo 27 de la Ley, se considerará el valor de las materias primas o mercancías de procedencia extranjera incorporadas en el producto, de conformidad con el artículo 93 de la Ley Aduanera.
 
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 43.
 
-La Secretaría podrá autorizar que no se pague el impuesto por la importación de bienes tangibles, siempre que éste vaya a ser acreditado en los términos del artículo 4o. de la Ley y se trate de maquinaría y equipo que no se produzcan en el país.
+La Secretaría podrá autorizar que no se pague el impuesto por la importación de maquinaria y equipo que no se produzcan en el país, siempre que este vaya a ser acreditado en los términos del artículo 4o. de la Ley y los bienes se destinen a formar parte del activo fijo del importador.
 
 ### CAPITULO VI. De la Exportación de Bienes o Servicios
 
@@ -327,13 +413,19 @@ II.- Los identificados como efectuados para realizar sus actividades por las que
 
 III.- Los que no puedan identificarse en los términos de las fracciones anteriores.
 
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 47.
 
-Para los efectos del artículo 32 fracción III segundo párrafo de la Ley, los contribuyentes que realicen enajenaciones, presten servicios u otorguen el uso o goce temporal de un bien al público en general, así como, los comprendidos en el supuesto del artículo 35 de la Ley, podrán trasladar el impuesto incluyendo su monto en el valor de la contraprestación pactada. En todo caso, los contribuyentes estarán obligados a trasladar el impuesto en, forma expresa y por separado, cuando el adquirente, el prestatario del servicio o quien use o goce temporalmente el bien, así lo solicite. El impuesto podrá ser acreditable únicamente cuando el traslado se efectúe en forma expresa y por separado.
+De conformidad a lo establecido en el artículo 32, fracción III, segundo párrafo de la Ley, se entenderá que se realizan actos o actividades con el público en general cuando se trate de operaciones efectuadas por contribuyentes dedicados a actividades comerciales, en los términos del artículo 16, fracción I del Código Fiscal de la Federación, excepto cuando se trate de mayoristas, medio mayoristas o envasadores.
 
-> <small>(F. DE E., D.O.F. 22 DE MAYO DE 1984)</small>
+Tratándose de la prestación de servicios, en todo caso se considerará que los actos o actividades se realizan con el público en general.
 
-El precio que se cobre al cliente deberá ser, siempre el mismo, independientemente de que el impuesto se traslade dentro del precio o en l forma expresa y por separado de él, sin que la incorporación del impuesto dentro del precio implique por si sola violación de precios o tarifas, incluyendo los oficiales. Quien deba trasladar el impuesto para determinar el valor de la contraprestación pactada, dividirá el precio incluyendo el impuesto, entre 1.06, 1.15 o 1.2, según se trate de operaciones afectas a las tasas del 6%, 15%, o del 20%; esta misma operación se asentará en los libros de contabilidad, en el supuesto de que los contribuyentes estén obligados a llevarla.
+En los servicios de teléfono, energía eléctrica, hotelería incluyendo sus accesorios, restaurantes, suministro de gas y aerotransporte, así como en el arrendamiento de vehículos, invariablemente el impuesto se incluirá en el precio en el que los bienes y servicios se ofrezcan, pero en la documentación comprobatoria que se expida con motivo de estas operaciones el contribuyente podrá trasladar el impuesto al valor agregado en forma expresa y por separado, inclusive en servicios que preste al público en general, excepto cuando se trate de contribuyentes menores.
+
+El precio que se cobre al cliente deberá ser siempre el mismo, independientemente de que el impuesto se traslade dentro del precio o en forma expresa y por separado de él.
+
+Quien deba trasladar el impuesto, para determinar el valor de la contraprestación pactada dividirá el precio incluyendo el impuesto, entre 1.06, 1.15 ó 1.2, según se trate de operaciones afectas a la tasa del 6%, 15% o 20%. Si de la operación anterior resultan fracciones de la unidad monetaria, la cantidad se ajustará a la unidad más próxima. Tratándose de cantidades terminadas en cincuenta centavos, el ajuste se hará a la unidad inmediata inferior. El resultado obtenido se restará al monto total de la operación y la diferencia será el impuesto. Esta misma operación se asentará en los libros de contabilidad.
 
 ###### ARTICULO 48.
 
@@ -347,7 +439,37 @@ Cuando los contribuyentes menores a que se refiere el artículo 35 de la Ley, in
 
 Las autoridades fiscales elevarán al año el ingreso mensual estimado por el contribuyente y estimarán el monto del impuesto elevando al año el valor de los actos o actividades a que se hace mención en el párrafo anterior, al que aplicarán la tasa correspondiente, sin perjuicio del ejercicio de sus facultades de comprobación.
 
-En los casos en que los contribuyentes mencionados no estén obligados a presentar declaración del ejercicio por el primer año de actividades, deberán presentar aviso informando el monto real de sus ingresos, en el mes de enero siguiente a dicho año.
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 30 DE JUNIO DE 1988)</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 49-A.
+
+Los contribuyentes menores que opten por pagar el impuesto conforme al régimen general de la Ley después del primer bimestre del ejercicio, determinarán el valor de los actos o actividades, así como el impuesto acreditable correspondiente, considerando la estimación que de los mismos hubieran realizado las autoridades fiscales en la proporción que corresponda a los meses transcurridos desde el inicio de su ejercicio hasta la fecha en que empiecen a pagar el impuesto conforme al régimen general de la Ley.
+
+Tratándose de inversiones realizadas durante el ejercicio en que el contribuyente empiece a pagar el impuesto conforme al régimen general de la Ley, el impuesto trasladado será acreditable durante ese ejercicio en la proporción que representen, respecto de todo el año, los meses transcurridos entre la fecha en que optó por pagar el impuesto conforme al régimen general de la Ley y el final de dicho ejercicio.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 49-B.
+
+Para los efectos de lo dispuesto por el inciso a), del párrafo siguiente a la fracción II, del artículo 35 de la Ley, los contribuyentes menores que hayan obtenido en el ejercicio anterior al de que se trate, ingresos superiores a las cantidades que mediante disposiciones de carácter general señale la Secretaría, acreditarán el impuesto al valor agregado que les sea trasladado en los términos del artículo 4o. de la Ley.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 49-C.
+
+De conformidad a lo establecido por (sic) inciso b), del párrafo siguiente a la fracción II del artículo 35 y por el artículo 37, último párrafo de la Ley, a los contribuyentes menores que hayan obtenido en el ejercicio anterior al de que se trate, ingresos hasta por las cantidades a que se refiere el artículo precedente, las autoridades fiscales les estimarán en el impuesto acreditable aplicando el 60% de acreditamiento para la enajenación de bienes y el 30% para la prestación de servicios, excepto tratándose de los giros o de la enajenación de los bienes que se señalan a continuación, caso en que se aplicaran los siguientes porcentajes:
+
+I.- Comerciales:
+
+a).- Abarrotes sin venta de vinos y licores 80%
+
+b).- Bienes muebles usados, excepto los adquiridos mediante importación; bazares, fierro y desperdicios industrializables 30%
+
+c).- Alimentos en la vía pública por contribuyentes sin establecimiento fijo 30%
+
+II.- Fabricación de adobe, ladrillo, teja, tubos y otros artículos de barro 30%.
 
 > <small>(F. DE E., D.O.F. 22 DE MAYO DE 1984)</small>
 
@@ -381,9 +503,11 @@ Para los efectos de este artículo, se considera como entrega material de los bi
 
 ### CAPITULO VIII. De las Facultades de las Autoridades
 
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 51.
 
-Las cantidades acreditables que deben comprobarse en los términos del artículo 39 de la Ley, serán las que correspondan exclusivamente al ejercicio en que el valor de los actos o actividades se determine presuntivamente, y siempre que la documentación en que consten éstas reúna los requisitos que establece la Ley, el Código Fiscal de la Federación y su Reglamento.
+Las cantidades acreditables que deben comprobarse en los términos del artículo 39 de la Ley, serán las que correspondan al ejercicio o período en que el valor de los actos o actividades se determine presuntivamente, y siempre que la documentación en que consten éstas reúna los requisitos que establece la Ley, el Código Fiscal de la Federación y su Reglamento.
 
 ## TRANSITORIOS
 
@@ -396,3 +520,15 @@ El presente Reglamento entrará en vigor en toda la República el día 1o. de ma
 A partir del 1o. de marzo de 1984 se abroga el Reglamento de la Ley del Impuesto al Valor Agregado de 17 de diciembre de 1979 y se dejan sin efecto en lo que se oponga a este Reglamento, las disposiciones de carácter administrativo, reglas, consultas e interpretaciones de carácter general contenidas en circulares o publicadas en el Diario Oficial de la Federación, en materia del impuesto al valor agregado.
 
 Dado en la residencia del Poder Ejecutivo Federal a los veintiocho días del mes de febrero de mil novecientos ochenta y cuatro.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 30 DE JUNIO DE 1988.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 16 de julio de 1988.
+
+###### ARTICULO SEGUNDO.
+
+A partir de la entrada en vigor de este Decreto, se dejan sin efecto, en lo que se opongan al mismo, las disposiciones de carácter administrativo, reglas, consultas e interpretaciones de carácter general contenidas en circulares o publicadas en el Diario Oficial de la Federación, en materia del impuesto al valor agregado.
