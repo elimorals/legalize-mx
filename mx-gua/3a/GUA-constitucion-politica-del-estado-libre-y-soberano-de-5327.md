@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1996-12-24"
+last_updated: "1999-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 1999.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -105,17 +105,15 @@ Ninguna persona requerirá de Título para la enseñanza en cualquier rama del s
 
 Las Leyes respectivas, determinarán las profesiones que requerirán de Título para su ejercicio, las condiciones para obtenerlo, las Instituciones que han de expedirlo y registrarlo, así como las sanciones que deban imponerse a quienes ejerzan una profesión sin cumplir los requisitos legales.
 
-> <small>(REFORMADO PARRAFO PRIMERO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 18 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 8.
 
-La imposición de las penas es propia y exclusiva de la autoridad judicial. La investigación y persecución de los delitos incumbe al Ministerio Público, el cual contará entre sus auxiliares con un cuerpo pericia y con una policía que estará bajo su autoridad y mando directo e inmediato.
+La imposición de las penas es propia y exclusiva de la autoridad judicial. Sólo ésta podrá librar orden de aprehensión, siempre y cuando preceda denuncia o querella de un hecho que la ley señale como delito, sancionado cuando menos con pena privativa de libertad y existan datos suficientes que acrediten el cuerpo del delito y que hagan probable la responsabilidad del indiciado.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1994)</small>
-
-No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia, acusación o querella de un hecho determinado que la Ley señale como delito, sancionado con pena privativa de libertad y existan datos que acrediten los elementos que integran el tipo penal y la probable responsabilidad del indiciado.
+La investigación y persecución de los delitos incumbe al Ministerio Público, el cual contará entre sus auxiliares con un cuerpo pericial y una policía que estará bajo su autoridad y mando directo e inmediato.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1994)</small>
 
@@ -2268,3 +2266,9 @@ Artículo Quinto.- El actual Presidente del Supremo Tribunal de Justicia durará
 En la elección de Presidente del Supremo Tribunal de Justicia que tendrá lugar en el mes de enero de 1998, en los términos del artículo 84 de esta Constitución que se reforma, serán elegibles todos los Magistrados Propietarios.
 
 Artículo Sexto.- Los Magistrados que actualmente integran el Supremo Tribunal de Justicia durarán en su cargo seis años a partir de la fecha de su nombramiento.
+
+P.O. 18 DE JUNIO DE 1999.
+
+###### ARTÍCULO UNICO.
+
+El presente decreto entrará en vigor el cuarto día siguiente al de su publicación el Periódico Oficial del Gobierno del Estado.
