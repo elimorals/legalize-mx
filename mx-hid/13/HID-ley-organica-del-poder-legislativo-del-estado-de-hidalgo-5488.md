@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-de-hidalgo-5488"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-01-08"
-last_updated: "1990-05-09"
+last_updated: "1993-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL PODER LEGISLATIVO PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 1993.
 
 Ley publicada en el Alcance No. 2 del Periódico Oficial del Estado de Hidalgo, el 8 de enero de 1982
 
@@ -73,9 +73,33 @@ La H. Legislatura, de acuerdo con lo dispuesto en los Artículos 38 y 39 de la C
 
 Habrá dos Períodos Ordinarios de Sesiones al año; el primero se iniciará el 1º. de Abril y terminará el ultimo de Junio.- El segundo comenzará el 1º. de Octubre y terminará el 31 de Diciembre.- Los Periodos de Sesiones Extraordinarios se efectuaran cuando sean necesarios, mediante convocatoria de la Comisión Permanente o del Gobernador del Estado.
 
+(ADICIONADO, P.O. 11 DE ENERO DE 1993) (F. DE E., P.O. 25 DE ENERO DE 1993)
+
+ARTICULO 8º BIS.- La Cámara de Diputados, se constituirá en Colegio Electoral para calificar y declarar electo al ciudadano que haya obtenido la mayoría de votos en las elecciones convocadas para tal fin, para que proceda a rendir la protesta de ley como Gobernador Constitucional del Estado de Hidalgo.
+
+Para el efecto anterior, cuando se encuentre en Período Ordinario de Sesiones, fungirá con la Mesa Directiva en funciones; y, en sus recesos, la Comisión Permanente convocará a los integrantes del Congreso Local, para celebrar un Período Extraordinario, en los términos previstos por la Constitución Política en vigor.
+
+El Congreso del Estado, por conducto de la Oficialía Mayor, recibirá los paquetes electorales y demás documentación que le envíen los Organismos Electorales establecidos, quién los turnará a la Secretaría del Congreso, o de la Comisión Permanente, en su caso.
+
+Para los efectos del estudio y dictamen correlativos, se nombrará una Comisión Especial, compuesta por cinco Diputados: uno, fungirá como Presidente, dos, como Secretarios y dos como vocales. Esta Comisión emitirá su dictamen, el cual será sometido a la consideración de la Asamblea, con las formalidades legales correspondientes.
+
+Dicha calificación se hará por la mayoría de los Diputados asistentes a la sesión.
+
+Del resultado, el presidente de la Directiva declarará electo para el Período respectivo, al ciudadano que haya obtenido la mayoría de votos, ordenando que mediante Decreto se publique en el Periódico Oficial y por Bando Solemne a los Municipios del Estado.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1993)</small>
+
 ###### ARTICULO 9o.
 
-El Congreso, diez días antes de clausurar el último período ordinario de sesiones de su ejercicio constitucional, designará a cuatro diputados, uno como presidente y otro como vice-presidente; los dos restantes tendrán el carácter de secretarios, que con el nombre de Comisión instaladora, tendrá como función exclusiva extender a los presuntos diputados que presenten sus constancias de mayoría expedidas por los comités distritales y registradas por la Comisión Estatal, sus credenciales de acceso al Colegio Electoral e instalar la junta previa.
+El Congreso, diez días antes de clausurar el último Período Ordinario de Sesiones de su Ejercicio Constitucional, designará a cuatro diputados, uno como Presidente y otro como vice-presidente; los dos restantes tendrán el carácter de Secretarios, que con el nombre de Comisión Instaladora, tendrá como función exclusiva extender a los presuntos Diputados que presenten sus constancias de mayoría expedidas por los Comités Distritales y registradas por la Comisión Estatal Electoral, sus credenciales de acceso al Colegio Electoral e instalar la Junta Previa, así como a los presuntos Diputados electos bajo el principio de Representación Proporcional a que se refiere el párrafo siguiente:
+
+Al otorgar credenciales de acceso al Colegio Electoral a presuntos diputados electos bajo el principio de Representación Proporcional, se estará a las siguientes disposiciones:
+
+A) Se reconocerá hasta un presunto Diputado por cada Partido Político.
+
+B) Sólo participarán presuntos Diputados electos de Partidos Políticos que hayan alcanzado cuando menos el 1.5 por ciento de la votación total;
+
+C) Los presuntos Diputados electos deberán haber sido incluidos en listas de candidatos de Representación Proporcional o, en forma conjugada, haber sido registrados además de en esas listas, como candidatos a Diputados por mayoría relativa, sin que tal conjugación pueda exceder de un 20 por ciento del total de candidatos registrados por el Partido Político de que se trate, bajo el principio de Mayoría Relativa.
 
 ###### ARTICULO 10.
 
@@ -928,3 +952,13 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 9 DE MAYO DE 1990.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+P.O. 11 DE ENERO DE 1993.
+
+###### ARTICULO PRIMERO.
+
+Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
