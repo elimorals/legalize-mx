@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-catastro-municipal-del-estado-de-jalisco-12360"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-18"
-last_updated: "2000-07-25"
+last_updated: "2001-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de noviembre de 1997.
 
@@ -35,7 +35,7 @@ DECRETO
 
 NUMERO 16794. El Congreso del Estado decreta:
 
-ÚNICO. Se modifica el Decreto Número 16465, aprobado por esta H. Legislatura el día 19 de diciembre de 1996 y regresado por el Ejecutivo del Estado con sus observaciones, en los términos del entonces vigente artículo 33 constitucional, para quedar como sigue:
+ÚNICO. Se modifica el Decreto Número 16465, aprobado por esta H. Legislatura el día 19 de diciembre de 1996, y regresado por el Ejecutivo del Estado con sus observaciones, en los términos del entonces vigente artículo 33 constitucional , para quedar como sigue:
 
 Ley de Catastro Municipal del Estado de Jalisco
 
@@ -139,7 +139,7 @@ c) Las servidumbres de paso por medio de las cuales, a solicitud de los usuarios
 
 No tienen el carácter de vías públicas los predios pertenecientes al dominio privado de la Federación, del Estado, del Municipio o de los particulares, para fines restringidos o aprovechamientos privados, así como los bienes de uso común de los condominios;
 
-XVIII. Manzana: la superficie de terreno debidamente delimitada constituida por uno o más predios, colindante con vías o áreas públicas;;
+XVIII. Manzana: la superficie de terreno debidamente delimitada constituida por uno o más predios, colindante con vías o áreas públicas;
 
 XIX. Fusión: la unión en un solo predio de dos o más predios colindantes;
 
@@ -315,7 +315,9 @@ VI. Contratar con empresas especializadas en la materia, los trabajos que estime
 
 VII. Ordenar la publicación de las tablas de valores, en el caso de que se cumplan con todos los requisitos previstos en la presente ley así como en la Ley de Hacienda Municipal, y se acredite el caso de la positiva ficta;
 
-VIII. Convenir, en su caso y previo acuerdo de su cabildo con el Ejecutivo Estatal, para que éste asuma las funciones catastrales, conforme a lo previsto en el artículo anterior; y
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2001)</small>
+
+VIII. Convenir, en su caso y previo acuerdo del gobierno municipal con el Ejecutivo Estatal, para que éste asuma las funciones catastrales, conforme a lo previsto en el artículo anterior; y
 
 IX. Las demás atribuciones que le otorguen la presente Ley y otras disposiciones legales aplicables.
 
@@ -367,7 +369,9 @@ VIII. Registrar los bienes inmuebles para efectos catastrales;
 
 IX. Elaborar las propuestas de valores unitarios de terrenos y construcciones, así como los coeficientes de demérito o incremento y remitirlos para su conocimiento, información y análisis al Consejo Técnico de Catastro Municipal;
 
-X. Elaborar las propuestas de reglamentos e instructivos necesarios para realizar las actividades correspondientes a sus atribuciones y remitirlas para su conocimiento e información al Consejo Técnico de Catastro Municipal, buscando su homologación con las que para tal efecto emita el Consejo técnico Catastral del Estado y, finalmente, turnarlas al cabildo o al Gobernador del Estado según corresponda, para su aprobación;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2001)</small>
+
+X. Elaborar las propuestas de reglamentos e instructivos necesarios para realizar las actividades correspondientes a sus atribuciones y remitirlas para su conocimiento e información al Consejo Técnico de Catastro Municipal, buscando su homologación con las que para tal efecto emita el Consejo Técnico Catastral del Estado y, finalmente, turnarlas al ayuntamiento o al Gobernador del Estado según corresponda, para su aprobación;
 
 XI. Determinar y aplicar los valores catastrales provisionales de los bienes inmuebles, cuando no se hayan obtenido los elementos técnicos para determinar su valor catastral;
 
@@ -393,7 +397,9 @@ XXI. Expedir certificaciones sobre los actos jurídicos, inscripciones y documen
 
 XXII. Expedir, a solicitud expresa, copias certificadas de los documentos que obren en el archivo del catastro, las que bajo ningún concepto significarán el reconocimiento o aceptación de un derecho. Estos documentos son exclusivamente para fines fiscales, urbanísticos y estadísticos;
 
-XXIII. Informar al Tesorero Municipal cuando proceda efectuar el cobro de los derechos por los servicios catastrales prestados, de conformidad a lo que se establezca en su propia Ley de Ingresos;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+
+XXIII. Informar al servidor público encargado de la Hacienda Municipal cuando proceda efectuar el cobro de los derechos por los servicios catastrales prestados, de conformidad a lo que se establezca en su propia Ley de Ingresos;
 
 XXIV. Acreditar a los peritos valuadores conforme a las disposiciones de esta Ley y sus reglamentos;
 
@@ -563,19 +569,27 @@ I. Se integrará por:
 
 A. El Presidente Municipal o su representante, que será el Presidente del Consejo;
 
-B. El Tesorero Municipal o su representante, que será el Secretario del Consejo;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+
+B. El Funcionario encargado de la Hacienda Municipal o su representante, que será el Secretario del Consejo;
 
 C. El titular del catastro municipal o quien haga sus veces en caso de convenio;
 
-D. El Regidor que el cabildo determine;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
 
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2000)</small>
+D. El Regidor que el ayuntamiento determine;
 
-E. Un representante por parte de los sectores industrial, comercial y empresarial, designados por el reglamento que para el efecto emita el Cabildo;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+
+E. Un representante por parte de los sectores industrial, comercial y empresarial, designados en el reglamento que para el efecto emita el ayuntamiento;
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
 
 F. Un representante del sector agropecuario;
 
-G. Un representante común de las asociaciones de vecinos o en su caso un representante común de los propietarios de fincas urbanas;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+
+G. Un representante común de las personas jurídicas con funciones de organización ciudadana y vecinal o en su caso un representante común de los propietarios de fincas urbanas;
 
 > <small>(ADICIONADO, P.O. 25 DE JULIO DE 2000)</small>
 
@@ -591,7 +605,9 @@ J. Por las personas que el Consejo considere conveniente invitar a participar, p
 
 II. Los Consejos Técnicos de Catastro Municipal estarán facultados para estudiar, revisar y formular recomendaciones respecto de las propuestas de valores unitarios de terrenos y construcciones, y remitirlos con fines de homologación al Consejo Técnico Catastral del Estado;
 
-III. Sus facultades específicas se determinarán en el reglamento que expida el cabildo para normar su funcionamiento.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2001)</small>
+
+III. Sus facultades específicas se determinarán en el reglamento que expida el ayuntamiento para normar su funcionamiento.
 
 ### CAPÍTULO IV. De las operaciones catastrales
 
@@ -787,7 +803,9 @@ IV. En los casos en que el Consejo Técnico Catastral del Estado, con intervenci
 
 V. Si el Catastro Municipal respectivo reincide en proyectar una tabla de valores unitarios no apegada a los valores reales o de mercado o es omiso en emitir el proyecto respectivo, el Consejo Técnico Catastral del Estado solicitará a la Dirección de Catastro del Estado, que de manera subsidiaria elabore el proyecto de tablas de valores unitarios respectivo, siguiendo él mismo el procedimiento establecido en las fracciones II y III del presente artículo;
 
-VI. Una vez que los proyectos de tablas de valores unitarios sean respaldados por el Consejo Técnico Catastral del Estado en conjunción con la Comisión de Hacienda y Presupuestos del Congreso del Estado y con el apoyo técnico de la Contaduría Mayor de Hacienda, se remitirán a los Cabildos Municipales a fin de que presenten, en su caso, formal iniciativa ante el Congreso del Estado, a más tardar antes del 1º. de septiembre del año previo a su aplicación.
+(REFORMADA, P.O. 21 DE JULIO DE 2001) (F. DE E., 28 DE SEPTIEMBRE DE 2002)
+
+VI. Una vez que los proyectos de tablas de valores unitarios sean respaldados por el Consejo Técnico Catastral del Estado en conjunción con la Comisión de Hacienda y Presupuestos del Congreso del Estado y con el apoyo técnico de la Contaduría Mayor de Hacienda, se remitirán a los Ayuntamientos a fin de que presenten, en su caso, formal iniciativa ante el Congreso del Estado, a más tardar antes del 1º. de septiembre del año previo a su aplicación.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
@@ -951,7 +969,9 @@ III. En los predios urbanos revisar la superficie y medidas de los linderos; y
 
 IV. Determinar el valor de los predios, teniendo como base los valores reales, en los términos de la Ley de Hacienda Municipal.
 
-Los valuadores dependientes de la autoridad catastral deberán satisfacer únicamente los requisitos previstos en las fracciones II y III de este artículo, y además deberán aplicar los valores unitarios aprobados por el cabildo.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+
+Los valuadores dependientes de la autoridad catastral, deberán satisfacer únicamente los requisitos previstos en las fracciones II y III de este artículo, y además deberán aplicar los valores unitarios aprobados por el ayuntamiento.
 
 ### CAPÍTULO VII. Manifestaciones, avisos y notificaciones
 
@@ -1320,3 +1340,7 @@ Segundo. En tanto se expidan los reglamentos de esta Ley, se continuarán aplica
 Tercero. La modificación que se hace en este decreto al artículo 81 fracción II, tendrá vigencia a partir del 1º. de enero del año 2002.
 
 Cuarto. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 21 DE JULIO DE 2001.
+
+UNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
