@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2000-12-29"
+last_updated: "2001-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2001.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -6549,8 +6549,6 @@ El pago de este derecho se efectuará mensualmente en la tesorería, presentando
 
 #### SECCION PRIMERA. DEL SISTEMA DE PLANEACION DEMOCRATICA
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
 ###### Artículo 152.
 
 Por la guarda de animales depositados en los corrales de concejo propiedad municipal, independientemente de los gastos que origine su manutención, se pagarán derechos conforme a la siguiente:
@@ -6578,8 +6576,6 @@ Por el registro anual de instrumentos para la identificación de señales de san
 > <small>(REFORMADA SU DENOMINACION, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 #### SECCION SEGUNDA. DEL PLAN DE DESARROLLO
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 154.
 
@@ -9027,245 +9023,127 @@ Las operaciones de endeudamiento y su inscripción en el Registro de Deuda Públ
 
 ###### Artículo 284.
 
-Las disposiciones de este título tienen por objeto normar el proceso de la planeación del desarrollo del Estado y de los municipios, así como de la programación para la formulación, ejecución, control y evaluación de sus presupuestos de egresos.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ## TITULO NOVENO. DE LA PLANEACION Y DEL PRESUPUESTO DE EGRESOS
 
-### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 285.
 
-El desarrollo del Estado se sujetará al proceso de planeación ajustándose al Plan Nacional de Desarrollo, integrándose al Plan de Desarrollo del Estado a los programas sectoriales e instituciones de mediano plazo que cubran el período constitucional de gobierno y que incluso dejen bases firmes para el desarrollo a largo plazo, propio de otros períodos constitucionales.
-
-El Plan de Desarrollo del Estado estará a cargo de las dependencias que integran el Poder Ejecutivo así como de sus organismos.
-
-La población del Estado de México podrá contribuir al Plan de Desarrollo del Estado mediante propuestas que se formulen en foros o que hagan llegar por escrito a la Secretaría de Finanzas y Planeación.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ###### Artículo 286.
 
-Para efectos de este título, se entiende por planeación el proceso mediante el cual se definen los programas y acciones para impulsar el desarrollo integral y sustentable del Estado, fortalecer su soberanía y su régimen democrático, fomentar el crecimiento económico, el empleo y una justa distribución del ingreso y la riqueza, para lograr el pleno ejercicio de la libertad y dignidad de los individuos.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ###### Artículo 287.
 
-La conducción del desarrollo del Estado, la planeación y su ejercicio democrático es atribución del Gobernador, quien aprobará el Plan de Desarrollo y sus programas. Estas atribuciones se ejercerán en los municipios por el Presidente Municipal, salvo el Plan de Desarrollo que será aprobado por el ayuntamiento.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ###### Artículo 288.
 
-La planeación constituye un medio permanente para la utilización eficiente de los recursos públicos y la promoción del desarrollo integral de la entidad; y su ejercicio tendrá por objeto:
-
-I. Orientar racional y progresivamente el desarrollo económico y social.
-
-II. Lograr la participación activa de la sociedad en las acciones del gobierno.
-
-III. Promover el equilibrio económico entre las diferentes regiones de la entidad y entre los núcleos de población urbanos y rurales.
-
-IV. Hacer congruentes los objetivo de la planeación nacional, estatal y municipal.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ###### Artículo 289.
 
-Las dependencias y entidades públicas formarán parte del Sistema de información para la Planeación, Programación, Presupuestación y Evaluación y deberán mantener actualizada la información estadística que corresponda a su ámbito de competencia.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ### CAPITULO SEGUNDO. DE LA PLANEACION DEL DESARROLLO
 
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 290.
 
-La responsabilidad del proceso de desarrollo y el Sistema de Planeación Democrática corresponde al titular del Poder Ejecutivo del Estado, a través de la Secretaría.
-
-Con la coordinación de la Secretaría, las dependencias y entidades públicas del Poder Ejecutivo, son responsables de la planeación, programación y presupuestación, así como de la ejecución, seguimiento y evaluación de sus actividades sujetándose a los objetivos y políticas del Plan Nacional de Desarrollo y del Plan de Desarrollo del Estado de conformidad con los lineamientos del Sistema de Planeación Democrática.
-
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ###### Artículo 290 Bis.
 
-El presupuesto de egresos comprenderá las erogaciones por concepto de gasto corriente, transferencias, gasto de inversión en obras y acciones, inversión financiera, deuda pública y subsidios, y se entenderá por:
-
-I. Gasto corriente: las erogaciones destinadas al pago de servicios personales, así como a la adquisición de bienes y servicios.
-
-II. Transferencias: entrega de recursos a través de ayudas y apoyos económicos e inversión patrimonial al sector auxiliar, con el objeto de sufragar gasto corriente de consumo o de operación.
-
-III. Gasto de inversión en obras y acciones: incluye las asignaciones destinadas a cubrir el pago de las obras públicas, la adquisición de bienes muebles e inmuebles y la ejecución de proyectos productivos de carácter social.
-
-IV. Inversión financiera: importe de las erogaciones que se realizan para la adquisición de acciones, bonos y otros títulos de crédito.
-
-V. Deuda pública: total de préstamos concertados a plazos, para sufragar el gasto público.
-
-VI. Subsidios: previsiones presupuestales que se proporcionarán como apoyos económicos a los sectores social y privado para la ejecución de programas prioritarios y generales, de carácter temporal que determine la Secretaría.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ###### Artículo 291.
 
-Los programas son el instrumento jurídico administrativo para la ejecución del Plan de Desarrollo, y tendrán por objetivo mejorar las condiciones económicas y sociales de la población y podrán ser aplicados a corto o mediano plazos, salvo que por las prioridades del desarrollo se requiera de un plazo distinto.
-
-Los programas de corto plazo serán aplicados en forma anual, y los de mediano y largo plazo durante dos o más años respectivamente.
-
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ###### Artículo 291 Bis.
 
-La Secretaría es la encargada de la planeación, programación, presupuestación y evaluación de las actividades del Poder Ejecutivo y de la administración financiera y tributaria de la hacienda pública del Estado; en el caso de los municipios, estas tareas corresponden a la tesorería y a los órganos de planeación que en este ámbito operan.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
-La Secretaría será la responsable de integrar y someter a consideración del Gobernador el proyecto del Presupuesto de Egresos del Estado, en el caso de los municipios lo integrará la tesorería y lo someterá a consideración del ayuntamiento.
-
-La evaluación del presupuesto de egresos, basará sus resultados en la relación que exista entre su ejercicio y el cumplimiento de las metas y objetivos de los programas.
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 292.
 
-El Sistema de Planeación Democrática es el conjunto articulado de procesos y funciones de carácter social, político, económico y técnico, así como de mecanismos de concertación y coordinación entre las tres esferas de gobierno y los sectores de la sociedad, mediante los cuales deben efectuarse acciones de planeación de común acuerdo, para promover el desarrollo integral del Estado.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ###### Artículo 293.
 
-El Sistema de Planeación Democrática tendrá por objeto, transformar racional y progresivamente los cursos de acción del desarrollo económico y social, asegurando la participación activa de la sociedad en las acciones de gobierno, poniendo énfasis en la atención de las necesidades básicas para el mejoramiento de su calidad de vida, y en la conformación adecuada de las relaciones entre las diferentes regiones entre sí.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
-El sistema estará integrado por las dependencias y entidades públicas, apoyadas en la participación democrática de la población y su operación se llevará a cabo a través de la estructura de la administración pública estatal y municipal.
-
-Asimismo, el sistema de planeación estará integrado por los planes, programas, presupuestos, lineamientos metodológicos y demás documentos de planeación que autorice el Gobierno del Estado y los Ayuntamientos de la entidad; por las dependencias, instituciones y entidades públicas responsables de las funciones de planeación, programación y presupuestación.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 294.
 
-El Plan de Desarrollo del Estado se elaborará, aprobará y publicará dentro de un plazo de seis meses, contados a partir del inicio del período constitucional del gobierno y en su elaboración deberá considerarse la opinión de los diversos sectores de la sociedad. Su vigencia se circunscribe a dicho periodo o hasta la publicación del plan de desarrollo del siguiente período constitucional de gobierno; y sus previsiones y proyecciones deberán considerar objetivos y estrategias de largo plazo, que deben ser revisados y, en su caso, considerados en la elaboración del Plan de Desarrollo del siguiente período constitucional del gobierno.
-
-El Plan de Desarrollo del Estado deberá ser congruente con los objetivos del Plan Nacional de Desarrollo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ###### Artículo 295.
 
-En el plan de desarrollo se establecerán los lineamientos de política global, sectorial y regional del desarrollo, sujetando los demás instrumentos de la planeación a sus objetivos, estrategias y prioridades. Sus previsiones se referirán al conjunto de la actividad económica y social.
-
-Para efectos de la integración del plan de desarrollo se podrán elaborar programas sectoriales, regionales, institucionales y especiales.
-
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
-El Plan de desarrollo del Estado podrá ser modificado cuando por causas extraordinarias así se requiera, o bien, cuando con motivo del inicio de un período constitucional federal, se apruebe el Plan Nacional de Desarrollo, o en su caso como consecuencia de modificaciones posteriores a este último, con el objeto de hacer congruentes sus objetivos y metas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ###### Artículo 296.
 
-Antes de la aprobación del plan, el Gobernador lo remitirá a la Legislatura para su examen y opinión; la que podrá formular las observaciones que estime pertinentes durante su ejecución, evaluación y control.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ###### Artículo 297.
 
-El presidente municipal elaborará y someterá a la aprobación de ayuntamiento, el plan de desarrollo del municipio.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
-El plan se elaborará, aprobará y publicará dentro de un plazo de cuatro meses, contados a partir del inicio del período constitucional de gobierno, su vigencia se circunscribe a dicho periodo o hasta la publicación del plan de desarrollo del siguiente período constitucional de gobierno; y sus previsiones y proyecciones deberán considerar objetivos y estrategias de largo plazo, que deben ser revisados y, en su caso, considerados en la elaboración del Plan de Desarrollo Municipal del siguiente período constitucional de gobierno.
-
-El Plan de Desarrollo Municipal, deberá ser congruente con los objetivos y metas del Plan Estatal de Desarrollo.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
-Aprobado el Plan de Desarrollo, se publicará en el Periódico Oficial y su cumplimiento será obligatorio para las dependencias y entidades públicas, lo mismo que los programas que de él se deriven, una vez aprobados. Sus adecuaciones se sujetarán al mismo procedimiento establecido para su aprobación y es obligatorio para el Estado y para los municipios darles la más amplia difusión.
-
-Sus adecuaciones se sujetarán al mismo procedimiento establecido para su aprobación.
-
-Es obligatorio para el Estado y para los municipios dar la más amplia difusión a su plan de desarrollo.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ###### Artículo 298.
 
-Las dependencias y entidades públicas, conforme a sus atribuciones y obligaciones contempladas en este título, evaluarán periódicamente los resultados de la ejecución de sus planes y programas.
-
-El resultado de las evaluaciones y, en su caso, de las adecuaciones y correcciones, serán sometidas a la consideración del Gobernador y del ayuntamiento en el caso de los municipios.
-
-La Secretaría establecerá los mecanismos y sistemas para el adecuado control, seguimiento y evaluación de la ejecución de los planes, programas y presupuestos, de acuerdo con lo establecido en el presente Título y demás disposiciones aplicables.
-
-Compete a esta Secretaría realizar la evaluación sistemática del Plan de Desarrollo, de los Programas Sectoriales e Institucionales de Mediano Plazo y a las dependencias y entidades públicas lo referente a sus Programas Operativos Anuales, derivados del ejercicio presupuestal y del Sistema de Planeación Democrática y proveer lo necesario para la corrección de las desviaciones detectadas. Lo anterior sin demérito de las atribuciones y responsabilidades de la Secretaría de la Contraloría en la esfera de su competencia.
-
-La evaluación, en el ámbito estatal, se enmarcará en cuatro niveles:
-
-I. Evaluación estratégica, que identifica los logros alcanzados respecto a los objetivos del Plan de Desarrollo, que permitirá al Titular del Ejecutivo y a los Titulares de las Secretarías, la toma de decisiones para el desarrollo de los programas bajo su responsabilidad.
-
-II. Evaluación programática y presupuestal, que dará cuenta del alcance de los objetivos, acciones y logros programados, así como de la racionalidad y transparencia en el uso de recursos públicos, que permitirá a la Secretaría la toma de decisiones para modificar o corregir el desarrollo de los programas y la asignación de los recursos.
-
-III. Evaluación de la gestión pública, que señalará los alcances administrativos sobre el desempeño de las funciones y procesos clave con los que opera cada dependencia, que será analizada y calificada por la Secretaría de la Contraloría.
-
-IV. Evaluación de los servicios, que medirá la calidad con la que se están otorgando éstos, de acuerdo con estándares previamente definidos o en relación a las características y necesidades de la entidad, que será analizada y calificada por la Secretaría de Administración.
-
-La evaluación, en el ámbito municipal, será la que determine el ayuntamiento, misma que deberá ser congruente con los mecanismos establecidos en el Sistema de Planeación Democrática.
-
-Conforme a las atribuciones y obligaciones que se derivan del presente Título, los titulares de las dependencias del Poder Ejecutivo son responsables de entregar a la Secretaría la información solicitada por ésta, relativa al proceso de control, seguimiento y evaluación del Plan de Desarrollo del Estado de México, de los programas que de él se derivan y el ejercicio del presupuesto.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ###### Artículo 299.
 
-En el informe que anualmente se rinda sobre el estado que guarda la administración pública, se hará mención expresa del cumplimiento del Plan de Desarrollo y del avance de los programas.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ###### Artículo 300.
 
-Como parte de la cuenta pública, se informará a la Legislatura de las acciones y resultados de la ejecución del Plan de Desarrollo del Estado, y del avance de los programas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 301.
 
-En el ejercicio de sus atribuciones, el Gobernador podrá convenir con el Gobierno Federal y con los ayuntamientos, acciones para promover el desarrollo de manera coordinada. Los convenios que se suscriban, serán congruentes con los objetivos del desarrollo nacional, estatal y municipal.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ###### Artículo 302.
 
-En el Plan de Desarrollo y en los programas se hará referencia a los mecanismos de coordinación entre las diferentes instancias de gobierno y a las acciones que podrán concertarse como resultado de la participación democrática de la sociedad, considerando especialmente al Comité de Planeación para el Desarrollo del Estado de México, como el órgano fundamental para la coordinación y concertación de las acciones de planeación, programación y evaluación del desarrollo de la entidad.
-
-Las bases de coordinación de los convenios con los ayuntamientos de la entidad, atenderán, además, a la planeación estatal y a la programación sectorial, regional y especial, asimismo tomarán en cuenta la participación de las organizaciones sociales e individuos involucrados.
-
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ###### Artículo 302 Bis.
 
-El Comité de Planeación para el Desarrollo Municipal deberá reflejar la complejidad del tejido social y la pluralidad de la sociedad del municipio. De manera indicativa podrá incluir miembros que representen las fuerzas económicas principales; a los grupos profesionales, educativos, académicos y culturales; a funcionarios de otros niveles de gobierno con asiento en el municipio; y personalidades sociales, políticas y culturales y a todos individuos (sic) que puedan aportar al desarrollo local.
-
-El Ejecutivo Estatal y los municipales en sus respectivos ámbitos de competencia, promoverán y convendrán en su caso, diversos mecanismos de inversión pública conjunta, asegurando de manera permanente la participación social en la planeación del desarrollo.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ###### Artículo 303.
 
-Los convenios de coordinación en materia de planeación para el desarrollo que suscriba el Estado con los municipios, tendrán por objeto fortalecer la capacidad económica, administrativa y financiera de éstos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 304.
 
-Las dependencias y entidades públicas elaborarán programas anuales congruentes entre sí, que regirán la actividad de la administración pública y se considerarán para la conformación del presupuesto de egresos, salvo en el caso de programas especiales cuyo plazo de ejecución podrá ser distinto.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ### CAPITULO TERCERO. DE LOS PROGRAMAS
 
 ###### Artículo 305.
 
-Los programas sectoriales, regionales, institucionales y especiales, deberán ser congruentes con los objetivos, estrategias y prioridades establecidos en el plan de desarrollo; se sujetarán a la política de regionalización establecida; y definirá las responsabilidades de su ejecución, además de incluir la política económico-social y los aspectos administrativos que impongan las condiciones del desarrollo.
-
-En el caso de los planes, programas y proyectos de desarrollo regional que lleven cabo (sic) la Federación o el Estado, se deberá asegurar la participación de los municipios en su formulación y ejecución.
-
-Los programas regionales, procurarán la integración y el establecimiento de relaciones más equitativas entre las diferentes regiones del Estado y estarán orientados hacia el aprovechamiento integral de los recursos naturales y del trabajo del hombre en su ámbito territorial y hacia una mayor vinculación de las economías rural y urbana.
-
-Para dicho efecto se entenderá como región la porción del territorio estatal que integre varios municipios contiguos y que se identifican por alguna razón geográfica, socio-económica o político-administrativa. La regionalización del Estado se incorporará al cuerpo del Plan de Desarrollo.
-
-Los Programas Regionales, se distinguirán por su enfoque territorial y convergerán en ellos, las propuestas de los diversos programas sectoriales, institucionales, especiales, urbanos y ambientales del Estado.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ###### Artículo 306.
 
-Para la ejecución de los programas, se instrumentarán sistemas operativos de control, fiscalización y evaluación, a efecto de que la asignación de los recursos sea congruente con la política del desarrollo estatal.
-
-La metodología y procedimientos de control, seguimiento y evaluación del plan de desarrollo y de los programas que de él se deriven, serán establecidos por la Secretaría.
-
-Las dependencias y entidades públicas estatales podrán proporcionar a los ayuntamientos asesoría en materia de planeación, programación, evaluación y control.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 21 DE DICIEMBRE DE 2001)
 
 ###### Artículo 307.
 
@@ -9828,3 +9706,15 @@ TERCERO.- El personal y patrimonio al servicio del Instituto de capacitación Ha
 Los asuntos que se encuentren pendientes de resolver por parte del Instituto de Capacitación Hacendaria, serán asumidos por el Instituto Hacendario del Estado. Asimismo, se respetarán los derechos laborales de los trabajadores.
 
 En un término no mayor a noventa días se deberá expedir el Reglamento Interior del Instituto.
+
+G.G. 21 DE DICIEMBRE DE 2001.
+
+LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- Publíquese la presente Ley en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Esta Ley entrará en vigor el día primero de enero del año dos mil dos.
+
+TERCERO.- Se derogan los capítulos Primero "De las Disposiciones Generales", Segundo "De la Planeación del Desarrollo" y Tercero "De los Programas", del Título Noveno, denominado "De la Planeación y del Presupuesto de Egresos" que comprende de los artículos 284 al 306 del Código Financiero del Estado de México y Municipios, así como las disposiciones que se opongan a la presente Ley.
