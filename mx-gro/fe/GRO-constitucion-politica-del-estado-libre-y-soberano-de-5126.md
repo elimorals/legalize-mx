@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1970-05-27"
+last_updated: "1973-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 1973.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -369,7 +369,9 @@ Para ser Diputado se requieren los siguientes requisitos:
 
 I.- Ser Ciudadano guerrerense por nacimiento, varón o mujer e hijo de padres mexicanos, también por nacimiento y en ejercicio de sus derechos.
 
-II.- Tener veinticinco años de edad, cumplidos el día de la elección.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 1973)</small>
+
+II.- Tener veintiún años de edad, cumplidos el día de la elección.
 
 III.- Tener la instrucción primaria elemental y superior.
 
@@ -1648,5 +1650,9 @@ PRIMERO.- Se derogan todas las disposiciones legales que en cualquier forma se o
 SEGUNDO.- Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
 P.O. 27 DE MAYO DE 1970.
+
+UNICO.- Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MAYO DE 1973.
 
 UNICO.- Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
