@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1931-11-19"
+last_updated: "1933-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 1931.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 1933.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -101,7 +101,7 @@ El Poder Público del Estado se divide, para su ejercicio, en Legislativo, Ejecu
 
 Se deposita el ejercicio del Poder Legislativo del Estado en una asamblea que se denominará Congreso del Estado de Campeche.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1931)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1933)</small>
 
 ### CAPITULO III.
 
@@ -111,7 +111,7 @@ De su elección e instalación.
 
 ###### Art. 18.
 
-El Congreso del Estado se compondrá de representantes elegidos en su totalidad cada tres años, por los ciudadanos campechanos.
+El Congreso del Estado se compondrá de representantes electos directamente en su totalidad cada tres años por ciudadanos campechanos y en los términos que disponga la Ley Electoral del Estado.
 
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 1931)</small>
 
@@ -119,9 +119,13 @@ El Congreso del Estado se compondrá de representantes elegidos en su totalidad 
 
 Se elegirá un Diputado Propietario y un Suplente por cada 12,000 habitantes o por cada fracción que pase de 6,000. Los Municipios Libres que en toda su circunscripción no alcancen esta última cifra elegirán sin embargo un Diputado Propietario y un Suplente.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1933)</small>
+
 ###### Art. 20.
 
-La elección de Diputados será directa y en los términos que disponga la Ley Electoral.
+Los Diputados no podrán ser reelectos para el período inmediato.
+
+Los Diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los Diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
 ###### Art. 21.
 
@@ -171,7 +175,7 @@ Para desempeñar una comisión o empleo del Ejecutivo del Estado por el cual se 
 
 El Congreso no podrá instalarse sin la presencia de más de la mitad del número total de Diputados que deban integrarlo, pero los presentes deberán reunirse el día señalado por la Ley, y compeler a los ausentes a que concurran dentro de los quince días siguientes, con la advertencia de que si no lo hiciesen, se entenderá por ese sólo hecho que no aceptan su encargo, se llamará luego a los suplentes, que deberán presentarse en un plazo igual, y si no lo hiciesen, se declarará vacante el puesto y se convocará a nuevas elecciones.
 
-En la misma forma se procederá cuando durante diez días seguidos no pudieran celebrarse sesiones por falta de quorum, instalado ya el Congreso.
+En la misma forma se procederá cuando durante diez días seguidos no pudieran celebrarse sesiones por falta de quórum, instalado ya el Congreso.
 
 ###### Art. 29.
 
@@ -367,11 +371,11 @@ III. Los que tenga (sic) algún cargo o comisión del Gobierno Federal dentro de
 
 IV. El Secretario General, el Procurador General de Justicia, el Tesorero General y los Magistrados del Tribunal Superior de Justicia, si no se separan de sus cargos dentro de los cuarenta y cinco días antes de la elección.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1930)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1933)</small>
 
 ###### Art. 50.
 
-El Gobernador entrará a ejercer su encargo el diez y seis de septiembre, durará en él cuatro años y nunca podrá ser reelecto para el período inmediato.
+El Gobernador entrará a ejercer su encargo el 16 de septiembre y durará en él cuatro años. El ciudadano que haya desempeñado el cargo de Gobernador del Estado y cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese puesto ni aun con el carácter de interino, provisional, substituto o encargado del despacho.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
@@ -395,17 +399,21 @@ Cuando la falta de Gobernador ocurriese después del primer año del período pa
 
 Si al comenzar un período constitucional no se presentase el Gobernador electo o la elección no estuviese hecha y declarada, el diez y seis de septiembre cesará sin embargo el Gobernador, cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Provisional, el que designe el Congreso del Estado, o, en su caso, la Diputación permanente, procediéndose como disponen los artículos 51 y 52.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1933)</small>
+
 ###### Art. 55.
 
-Cuando la falta de Gobernador fuese temporal, el Congreso del Estado si estuviese reunido o en su defecto la Diputación permanente, designará un Gobernador interino, para que funcione durante el tiempo que dure dicha falta.
+Cuando la falta de Gobernador fuese temporal, el Congreso del Estado si estuviese reunido o, en su defecto la Diputación Permanente, designará un Gobernador Interino, para que funcione durante el tiempo que dure dicha falta. Si la falta se convirtiese de temporal en absoluta, se procederá como disponen los artículos anteriores.
 
-Si la falta se convirtiese de temporal en absoluta, se procederá como disponen los artículos anteriores. En caso de licencia del Gobernador del Estado, no quedará impedido el interino para ser electo en el período inmediato, siempre que no estuviere en funciones cuarenta y cinco días antes de celebrarse las elecciones.
+En caso de licencia del Gobernador del Estado, quedará impedido el interino para ser electo para el período inmediato, siempre que desempeñe el cargo en los dos últimos años del período.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1933)</small>
 
 ###### Art. 56.
 
-El ciudadano electo para substituir al Gobernador Constitucional en el caso de falta absoluta de éste no podrá ser electo Gobernador para el período inmediato. El ciudadano que hubiese sido designado Gobernador Provisional para convocar a elecciones, en el caso de falta absoluta del Gobernador ocurrida en el primer año del período respectivo, no podrá ser electo en las elecciones que se celebren con motivo de la falta de Gobernador para cubrir la cual fue designado.
+El ciudadano electo para substituir al Gobernador Constitucional en el caso de falta absoluta de éste, no podrá ser electo Gobernador para el período inmediato.
+
+El ciudadano que hubiese sido designado Gobernador Provisional en el caso de falta absoluta del Gobernador, no podrá ser electo para el período inmediato, siempre que desempeñe el cargo en los dos últimos años del período.
 
 ###### Art. 57.
 
@@ -643,13 +651,19 @@ III. Los Municipios administrarán libremente su hacienda, la cual se formará d
 
 IV. Los Municipios serán investidos de personalidad jurídica, para todos los efectos legales;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1923)</small>
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1933)</small>
 
-V. La primera autoridad administrativa del Municipio será el Presidente Municipal, quien tomará posesión el primero de enero, durará en su encargo dos años y no podrá ser nuevamente electo sino dos años después de haber cesado en sus funciones;
+V. La primera autoridad administrativa del Municipio será el Presidente Municipal, quien tomará posesión el 1º. de enero y durará dos años en su encargo.
 
-> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 1931)</small>
+Los componentes de los Ayuntamientos, Juntas y Comisarías Municipales tomarán posesión igualmente el 1º. de enero y durarán asimismo dos años en sus respectivos encargos;
 
-VI. Los componentes de los Ayuntamientos, Juntas y Comisarías Municipales, tomarán posesión igualmente el primero de enero, durarán dos años en sus respectivos encargos y no podrán ser nuevamente electos sino dos años después de haber cesado en sus funciones.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1933)</small>
+
+VI. Tanto el Presidente Municipal como los componentes de los Ayuntamientos, Juntas y Comisarías Municipales, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato.
+
+Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, no podrán ser electas para el período inmediato.
+
+Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios no podrán ser electos para el período inmediato con el carácter de suplentes; pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
 ### CAPITULO XI.
 
@@ -839,7 +853,7 @@ Art. segundo. Los componentes de los Ayuntamientos, los de las Juntas Municipale
 
 P.O. 30 DE AGOSTO DE 1921.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 15 DE OCTUBRE DE 1921.
 
@@ -931,19 +945,19 @@ III. Cuando siendo campechano por vecindad pierda ésta por avecindarse fuera de
 
 Los componentes de los Ayuntamientos, Juntas y Comisarios Municipales, durarán también un año en sus respectivos encargos y no podrán ser nuevamente electos sino dos años después de haber cesado en sus funciones.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 7 DE MARZO DE 1922.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 26 DE MAYO DE 1923.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 20 DE SEPTIEMBRE DE 1923.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 13 DE NOVIEMBRE DE 1924.
 
@@ -969,16 +983,18 @@ Unico. La presente reforma regirá en todo el territorio del Estado a partir del
 
 P.O. 29 DE NOVIEMBRE DE 1930.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 21 DE MARZO DE 1931.
 
-> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS SEGUNDO Y TERCERO DEL DECRETO.</small>
-
-Artículo segundo: Las anteriores reformas surtirán sus efectos legales a partir de las próximas elecciones para Diputados al Congreso del Estado deberán efectuarse el siete de junio del año en curso.
+Artículo segundo: Las anteriores reformas surtirán sus efectos legales a partir de las próximas elecciones para diputados al Congreso del Estado deberán efectuarse el siete de junio del año en curso.
 
 Artículo tercero: Publíquese por bando solemne en las cabeceras Municipales el día y hora que a bien tenga señalar el Ejecutivo del Estado.
 
 P.O. 19 DE NOVIEMBRE DE 1931.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+
+P.O. 10 DE OCTUBRE DE 1933.
 
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
