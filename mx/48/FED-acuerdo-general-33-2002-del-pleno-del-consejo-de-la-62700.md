@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-33-2002-del-pleno-del-consejo-de-la-62700"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-07-15"
-last_updated: "2002-07-15"
+last_updated: "2002-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62700&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-07-08"
 
 ACUERDO GENERAL 33/2002, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA DE MANERA TEMPORAL LA COMPETENCIA DE LOS TRIBUNALES COLEGIADOS EN MATERIA PENAL, ASI COMO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO, CON RESIDENCIA EN GUADALAJARA, JALISCO; ESTABLECE LAS REGLAS DE RECEPCION Y TURNO DE ASUNTOS NUEVOS DE LOS TRIBUNALES COLEGIADOS EN MATERIA ADMINISTRATIVA, DE LOS TRIBUNALES COLEGIADOS EN MATERIA PENAL Y DE LOS TRIBUNALES COLEGIADOS EN MATERIA DE TRABAJO DEL REFERIDO CIRCUITO; ASI COMO LA EXCLUSION TEMPORAL DEL TURNO DE ASUNTOS NUEVOS AL SEGUNDO Y TERCER TRIBUNALES COLEGIADOS EN MATERIA ADMINISTRATIVA DEL MENCIONADO CIRCUITO Y SEDE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE OCTUBRE DE 2002.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 15 de julio de 2002.
 
@@ -65,6 +65,8 @@ QUINTO.- Para los efectos del turno de que se trata, la Dirección General de In
 
 SEXTO.- Se excluye temporalmente del turno de asuntos nuevos por el lapso de dos meses al Segundo Tribunal Colegiado en Materia Administrativa, y por el lapso de un mes al Tercer Tribunal Colegiado en Materia Administrativa, ambos del Tercer Circuito, con residencia en Guadalajara, Jalisco.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/23/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 3 DE OCTUBRE DE 2002, SE EXTIENDE EL LAPSO ESTABLECIDO EN EL PRESENTE PARRAFO, COMPRENDIENDO DEL 1 DE OCTUBRE AL 30 DE NOVIEMBRE DE 2002.</small>
+
 Los periodos de exclusión comprenderán del uno de agosto al treinta de septiembre de dos mil dos, y del uno al treinta y uno de agosto del mismo año, respectivamente, por ende, los asuntos nuevos que se reciban en el primer lapso en la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia Administrativa del Tercer Circuito, serán del conocimiento exclusivo del Primer Tribunal Colegiado en Materia Administrativa, del Primer y Segundo Tribunales Colegiados en Materia Penal, así como del Primer y Segundo Tribunales Colegiados en Materia de Trabajo, todos del Tercer Circuito; con excepción de aquellos asuntos que estén relacionados con los que se encuentren en trámite en el Segundo y Tercer Tribunales Colegiados en Materia Administrativa del Circuito y sede mencionados, en cuyo supuesto se turnarán a estos últimos, con el propósito de evitar el pronunciamiento de resoluciones contradictorias; y las demás excepciones que procedan conforme a lo dispuesto por el Acuerdo General 23/2002, del Pleno del Consejo de la Judicatura Federal.
 
 Del primero al treinta de septiembre de dos mil dos, los asuntos nuevos que se reciban en la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia Administrativa del Tercer Circuito, se distribuirán entre los Tribunales Colegiados mencionados en el párrafo que precede y el Tercer Tribunal Colegiado en Materia Administrativa del propio Circuito, con las excepciones señaladas en el párrafo de referencia.
@@ -82,3 +84,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 33/2002, del Pleno del Consejo de la Judicatura Federal, Que Modifica de Manera Temporal la Competencia de los Tribunales Colegiados en Materia Penal, así como en Materia de Trabajo del Tercer Circuito, con Residencia en Guadalajara, Jalisco; Establece las Reglas de Recepción y Turno de Asuntos Nuevos de los Tribunales Colegiados en Materia Administrativa, de los Tribunales Colegiados en Materia Penal y de los Tribunales Colegiados en Materia de Trabajo del Referido Circuito; así como la Exclusión Temporal del Turno de Asuntos Nuevos al Segundo y Tercer Tribunales Colegiados en Materia Administrativa del Mencionado Circuito y Sede, fue aprobado por el propio Pleno, en sesión extraordinaria de ocho de julio de dos mil dos, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a ocho de julio de dos mil dos.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 3 DE OCTUBRE DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
