@@ -4,7 +4,7 @@ identifier: "SIN-ley-sobre-inmuebles-del-estado-y-municipios-11500"
 country: "mx"
 rank: "ley"
 publication_date: "1932-01-21"
-last_updated: "1932-01-21"
+last_updated: "1943-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY SOBRE INMUEBLES DEL ESTADO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 1943.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Sinaloa, el jueves 21 de enero de 1932.
 
@@ -157,7 +157,7 @@ Nadie puede adquirir por prescripción el derecho de propiedad ni cualquier otro
 
 ###### Artículo 20o.
 
-Para los demás bienes inmuebles que pertenecen al Estado o al Municipio en pleno dominio, pero que no están destinados a un servicio público, dependiente de los mismos, la prescripción contraria al Fisco, se computará duplicando los plazos marcados en el Código Civil, y sólo correrá a partir del día en que el Estado o los Municipios la perdieren, después de haber estado en posesión de dichos inmuebles.
+Para los demás bienes inmuebles que pertenecen al Estado o al Municipio en pleno dominio, pero que no están destinados a un servicio público, dependiente de los mismos, la prescripción contraria al Fisco, se computará duplicando los plazos marcados en el Código Civil, y solo correrá a partir del día en que el Estado o los Municipios la perdieren, después de haber estado en posesión de dichos inmuebles.
 
 ###### Artículo 21o.
 
@@ -201,6 +201,10 @@ Por regla general toda enajenación de bienes que dependan del Estado o de los M
 
 Los bienes inmuebles de que se ocupa esta Ley, son también susceptibles de enajenarse fuera de subasta pública, cuando así lo determinen expresamente las leyes, o en aquellos casos en que por razones de urgencia o por tratarse de bienes de poco valor o de contratos donde la venta estuviese ligada con distintos actos u operaciones, lo acordare así el Ejecutivo del Estado o los Municipios, con aprobación del Congreso.
 
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 1943)</small>
+
+Si los bienes inmuebles hubieren sido adjudicados al Estado, ya sea en casos de procedimientos económicos coactivos, o por herencias o bien en virtud de resoluciones judiciales que declaren vacantes dichos bienes, según las leyes que rijan esos actos, serán también susceptibles de enajenarse en subasta pública o fuera de almoneda, a juicio del C. Gobernador, sin que se requiera autorización expresa del Congreso del Estado, siempre que sean vendidos a un precio no menor de su valor fiscal.
+
 T R A N S I T O R I O S
 
 ###### Artículo 1o.
@@ -222,3 +226,9 @@ M. GAXIOLA.
 EL OFICIAL MAYOR ENC. DEL DESPACHO,
 
 JOSÉ C. PARRA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE MAYO DE 1943.
+
+Artículo único. Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el "Periódico Oficial del Gobierno del Estado".
