@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-la-contraloria-y-12618"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-08-22"
-last_updated: "1997-08-22"
+last_updated: "2004-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA Y MODERNIZACION ADMINISTRATIVA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA Y MODERNIZACION ADMINISTRATIVA PUBLICADO EN EL PERIODICO OFICIAL EL 16 DE MARZO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 22 de agosto de 1997.
 
@@ -610,3 +612,13 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente reglamen
 D A D O en la Residencia del Poder Ejecutivo del Estado de Coahuila de Zaragoza, en la Ciudad de Saltillo, Coahuila a los 18 días del mes de julio de mil novecientos noventa y siete.
 
 SUFRAGIO EFECTIVO. NO REELECCION. EL GOBERNADOR DEL ESTADO, ROGELIO MONTEMAYOR SEGUY (Rúbrica). EL SECRETARIO DE GOBIERNO, LIC. CARLOS JUARISTI SEPTIEN (Rúbrica). EL SECRETARIO DE LA CONTRALORIA Y MODERNIZACION ADMINISTRATIVA, C.P. JUAN ANTONIO CEDILLO RIOS (Rúbrica).
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+P. O. 16 DE MARZO DE 2004.
+
+PRIMERO. El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de la Contraloría del Estado de Coahuila publicado en el Periódico Oficial del Gobierno del Estado No. 67 del 22 de Agosto de 1997.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente reglamento.
