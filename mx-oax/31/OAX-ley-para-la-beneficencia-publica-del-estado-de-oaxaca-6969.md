@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-beneficencia-publica-del-estado-de-oaxaca-6969"
 country: "mx"
 rank: "ley"
 publication_date: "1936-06-27"
-last_updated: "1936-08-08"
+last_updated: "1936-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA BENEFICENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1936.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 1936.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 27 de Junio de 1936.
 
@@ -313,11 +313,15 @@ IV.- Promover la organización de juntas de beneficencia en las cabeceras de los
 
 V.- Rendir los informes necesarios al Ejecutivo del Estado, resolver las consultas que éste le haga y dictaminar sobre las solicitudes para el establecimiento de instituciones de beneficencia privada.
 
-VI.- Resolver todas las consultas que les hagan los establecimientos de beneficencia, remitiendo sus dictámenes al Ejecutivo para su ratificación en su caso.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 1936)</small>
+
+VI.- Resolver todas las consultas que le hagan los establecimientos de Beneficencia Pública.
 
 VII.- Remitir ternas en su caso para el nombramiento de patronos.
 
-VIII.- Dictaminar sobre los reglamentos que deben tener las fundaciones.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 1936)</small>
+
+VIII.- Dictaminar sobre los reglamentos que deben tener las Fundaciones de Beneficencia Privada.
 
 IX.- Dictar las medidas necesarias respecto de la administración de las fundaciones con el objeto de que no se distraigan los bienes destinados al objeto de las mismas.
 
@@ -329,7 +333,9 @@ XII.- Recibir las denuncias que se hagan sobre fundaciones de beneficencia que n
 
 XIII.- Promover ante los Tribunales el pronto despacho de los asuntos en que tenga interés la Beneficencia.
 
-XIV.- Dictaminar cuando una Fundación de Beneficencia debe transformarse, adaptarse o suprimirse y dictaminar también sobre el destino que ha de dársele a sus bienes.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 1936)</small>
+
+XIV.- Dictaminar cuándo una Fundación de Beneficencia Privada debe transformarse, adaptarse o suprimirse y dictaminar también sobre el destino que ha de dársele a sus bienes.
 
 XV.- Glosar las cuentas de la Beneficencia.
 
@@ -337,23 +343,29 @@ XVI.- Rendir un informe al Ejecutivo antes del quince de marzo y del primero de 
 
 XVII.- Todas las demás atribuciones que las leyes, acuerdos o reglamentos les confieren.
 
+> <small>(ADICIONADO [N. DE E.REFORMADO], P.O. 31 DE OCTUBRE DE 1936)</small>
+
 ###### Artículo 51.
 
-La vigilancia e inspección de los establecimientos, fundaciones u obras de beneficencia públias (sic) y privadas, se llevarán a cabo por las personas que en cada caso nombre el Ejecutivo, ya sea por sí o a instancia de la Junta de Beneficencia.
+La vigilancia e inspección de los establecimientos, Fundaciones u Obras de Beneficencia Privada, se llevarán a cabo por las personas que en cada caso nombre el Ejecutivo ya sea por sí o a instancia de la Junta de Beneficencia. La de las Instituciones de Beneficencia Pública, por los Inspectores o designados conforme al Reglamento.
 
 ###### Artículo 52.
 
-Todas las resoluciones de la Junta de Beneficencia serán elevadas al Ejecutivo del Estado para que éste resuelva en cada caso lo conveniente, pues esta Junta tiene el carácter de Cuerpo Consultivo del Gobierno del Estado.
+(DEROGADO, P.O. 31 DE OCTUBRE DE 1936)
 
 ### CAPITULO VI. EXTINCION DE LAS FUNDACIONES
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE OCTUBRE DE 1936)</small>
+
 ###### Artículo 53.
 
-Cuando las fundaciones u obras de beneficencia lleguen a ser inadaptables o inútiles por las nuevas necesidades sociales, cambiarán su objeto, ya sea por solicitud de sus patronos o por acuerdo del Ejecutivo. En todo caso se respetará la voluntad de los fundadores, siempre que no se oponga a las nuevas finalidades sociales y al derecho público.
+Cuando las Fundaciones u Obras de Beneficencia Privada lleguen a ser inadaptables o inútiles por las nuevas necesidades sociales, cambiarán su objeto, ya sea por solicitud de sus patronos o por acuerdo del Ejecutivo. En todo caso se respetará la voluntad de los fundadores, siempre que no se oponga a las nuevas finalidades sociales y al derecho público. La Junta Directiva de la Beneficencia resolverá los casos análogos respecto de las instituciones de Beneficencia Pública.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1936)</small>
 
 ###### Artículo 54.
 
-En el caso de no ser posible la adaptación en los términos indicados, mediante resolución del Ejecutivo, se declarará extinguida la Fundación, procediéndose desde luego a liquidarla. Si se trata de un establecimiento oficial, los bienes que le correspondan se destinarán a otra institución de beneficencia a juicio del Ejecutivo. Si se trata de Beneficencia privada, sus bienes pasarán a otra fundación u obra de beneficencia Privada, de acuerdo con los fundadores, patronos y Junta de Beneficencia, mediando acuerdo también del Ejecutivo.
+En el caso de no ser posible la adaptación en los términos indicados, mediante resolución del Ejecutivo, se declarará extinguida la Fundación, procediéndose desde luego a liquidarla. Si se trata de un establecimiento oficial, los bienes que le correspondan se destinarán a otra institución de Beneficencia a juicio de la Junta Directiva. Si se trata de Beneficencia Privada, sus bienes pasarán a otra Fundación u obra de Beneficencia Privada, de acuerdo con los fundadores, patronos y Junta de Beneficencia mediante acuerdo también del Ejecutivo.
 
 ###### Artículo 55.
 
@@ -416,5 +428,9 @@ Al C.......
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 8 DE AGOSTO DE 1936.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+
+P.O. 31 DE OCTUBRE DE 1936.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
