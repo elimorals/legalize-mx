@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-notariado-para-el-estado-de-campeche-18170"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-19"
-last_updated: "2000-09-19"
+last_updated: "2000-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2000.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Campeche, el martes 19 de septiembre de 2000.
 
@@ -1037,7 +1037,9 @@ VI.- Ejercer los demás derechos y obligaciones que les señalen ésta y otras l
 
 TRANSITORIOS:
 
-Primero.- La presente ley entrará en vigor a los treinta días hábiles de su publicación en el Periódico Oficial del Gobierno del Estado de Campeche.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2000)</small>
+
+Primero.- La presente ley entrará en vigor el día 1 de enero del año 2001.
 
 Segundo.- Se abroga la Ley del Notariado para el Estado de Campeche, expedida el 7 de octubre de 1944 y publicada en el Periódico Oficial del Gobierno del Estado el 14 de octubre del mismo año.
 
@@ -1050,3 +1052,11 @@ Salón de Sesiones del Palacio Legislativo, Campeche, Cam., a 18 de septiembre d
 En cumplimento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado el Palacio de Gobierno del Estado, en Campeche, a los diecinueve días del mes de septiembre del año dos mil.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, L.A. JOSE ANTONIO GONZALEZ CURI.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE NOVIEMBRE DEL 2000.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Campeche.
+
+Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente decreto.
