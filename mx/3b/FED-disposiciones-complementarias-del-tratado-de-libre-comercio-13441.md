@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2003-12-23"
+last_updated: "2003-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,27 +18,25 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO MINIMO PARA IMPORTAR EN EL PERIODO 2004-2007, LECHE EN POLVO ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA, DENTRO DEL ARANCEL-CUOTA, ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS MINIMOS PARA IMPORTAR EN EL PERIODO 2004-2007 DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MAIZ EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA O DE CANADA
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 23 de diciembre de 2003.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 2003.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 4o. fracción III; 5o. fracción V; 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26 al 36 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 302, párrafo 4 del Tratado de Libre Comercio de América del Norte; 4o. fracción III, 5o. fracción V, 6o., 14, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
 Que el Tratado de Libre Comercio de América del Norte, aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año, prevé entre sus objetivos, eliminar obstáculos al comercio y facilitar la circulación transfronteriza de bienes y servicios entre los territorios de las partes;
 
-Que el artículo 302 párrafo 4 del propio Tratado, establece que cada una de las partes podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar el cupo de importaciones realizadas según una cuota mediante aranceles (arancel-cuota) establecidos en el anexo 302.2, siempre y cuando tales medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
+Que el artículo 302 párrafo 4 del propio Tratado, establece que cada una de las partes podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar el cupo de importaciones realizadas según una cuota mediante aranceles (arancel-cuota), establecidos en el anexo 302.2, siempre y cuando tales medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
 
-Que el mecanismo de asignación del cupo de leche en polvo, es un instrumento de la política sectorial para complementar el abasto doméstico;
-
-Que el 12 de diciembre de 2003 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se suspenden las labores de la Secretaría de Economía durante el periodo que se indica, que refiere que se considerarán como inhábiles para todos los efectos legales, los días comprendidos del 22 de diciembre de 2003 y hasta el 6 de enero de 2004, por lo que en ese periodo no correrán los plazos que establecen las leyes y los trámites inscritos en el Registro Federal de Trámites y Servicios que se llevan a cabo ante la Secretaría de Economía, en el entendido de que las unidades administrativas de ésta proveerán todo lo necesario para que, en caso de que la naturaleza del trabajo lo exija, se mantenga laborando el personal mínimo con el fin de que se atiendan los asuntos urgentes, y
+Que el procedimiento de asignación de los cupos de importación referidos, es un instrumento de la política sectorial para promover las corrientes comerciales entre las Partes, y
 
 Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO MINIMO PARA IMPORTAR EN EL PERIODO 2004-2007, LECHE EN POLVO ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA, DENTRO DEL ARANCEL-CUOTA, ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS MINIMOS PARA IMPORTAR EN EL PERIODO 2004-2007 DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MAIZ EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA O DE CANADA
 
 ###### ARTICULO 1o.
 
@@ -72,7 +70,7 @@ Los permisos previos que se tramiten ante la Secretaría de Economía, para la i
 
 ###### ARTICULO PRIMERO.
 
-Los cupos mínimos que podrán ser importados de 2004 a 2007, dentro del arancel-cuota establecido para leche en polvo originaria de Estados Unidos de América, para efecto de lo dispuesto en el artículo 302 párrafo 4 del Tratado de Libre Comercio de América del Norte, son los que se presentan en el siguiente cuadro:
+Los cupos mínimos para importar maíz, excepto para siembra en el periodo 2004-2007, con el arancel-cuota establecido en el artículo 302 párrafo 4 del Tratado de Libre Comercio de América del Norte, son los que se determinan en el siguiente cuadro:
 
 (VEASE ARCHIVO ANEXO)
 
@@ -158,125 +156,91 @@ II.- Tratándose de productos calificados de Canadá, el criterio para trato pre
 
 ###### ARTICULO TERCERO.
 
-Podrán solicitar asignación directa del arancel-cuota de importación a que se refiere el presente Acuerdo:
+Podrán solicitar asignación de estos cupos, las personas físicas y morales establecidas en los Estados Unidos Mexicanos, que utilicen maíz, excepto para siembra, como insumo en sus procesos productivos y que se encuentren en operación, conforme a los siguientes criterios generales:
 
-I.- Importadores tradicionales:
+a) Procurar que los cupos de importación de maíz sean complementarios a las cosechas nacionales;
 
-A. La empresa del sector público encargada del programa de abasto social de leche, conforme a los requerimientos de su programa anual de compras de leche fluida y en polvo, y
+b) Fomentar la competitividad de la producción nacional y fortalecer la de las cadenas agroindustriales y del sector pecuario, tomando en cuenta los plazos de apertura de los tratados de libre comercio vigentes;
 
-B. Personas físicas o morales del sector privado, que utilizan leche en polvo en sus procesos productivos, que realicen una transformación sustancial de este insumo considerando: i) sus antecedentes de asignación de cupos de leche en polvo y de preparaciones a base de productos lácteos durante el año previo; y ii) sus consumos auditados de materias primas lácteas (leche fluida, leche en polvo, preparaciones a base de productos lácteos, suero de leche y crema de leche) de los últimos doce meses reportados, de conformidad con la hoja de requisitos anexa.
+c) Procurar el abasto de las necesidades nacionales de materia prima;
 
-II.- Nuevos importadores:
+d) Complementar con maíz importado el abasto de este grano a las regiones dentro del área de influencia de cosechas nacionales durante el periodo en que no se encuentren disponibles dichas cosechas;
 
-Podrán tener acceso a este cupo mediante el mecanismo de licitación pública.
+e) Procurar un trato equitativo entre los beneficiarios de las asignaciones en función de su participación en las compras nacionales y en el mercado, y
 
-Para efectos del presente Acuerdo, se entenderá por transformación sustancial aquella en donde la materia prima sufre un cambio importante a través de un proceso industrial, donde el producto que resulta de dicho proceso, tiene características distintas a las de la materia prima de donde proviene, no se puede comercializar al público como tal y se trata de una materia prima importante pero no la única.
+f) Para la distribución del cupo y los montos a asignar, se utilizará como referencia la balanza disponibilidad-consumo de maíz para cada año del periodo 2004-2007 y las cifras oficiales, de la base de datos de los “mercados de granos” de esta Secretaría y de la SAGARPA.
 
-Para la empresa mencionada en el inciso A) de este artículo, la asignación directa se realizará a través de la Dirección General de Comercio Exterior (DGCE), conforme a lo señalado en los artículos segundo y tercero de este Acuerdo; y para las empresas señaladas en el inciso B), la asignación directa se realizará a través de la DGCE, de conforme a las fórmulas establecidas por la Dirección General de Industrias Básicas (DGIB), que se señalan en el artículo cuarto de este Acuerdo, dentro de los siete días hábiles siguientes a la fecha en que la DGCE cuente con las solicitudes debidamente requisitadas para emitir la resolución correspondiente.
+La asignación del cupo de importación de maíz, será para los sectores de las industrias que a continuación se indican, considerando los criterios específicos que en cada uno de ellos se establecen.
 
-La mercancía no podrá comercializarse en el mismo estado físico en que se importa.
+Maíz Amarillo:
 
-La vigencia máxima de los certificados de cupo será al 31 de diciembre de cada año.
+La asignación de maíz amarillo será otorgada por la Dirección General de Comercio Exterior para las personas físicas o morales de las industrias almidonera, cerealera, frituras y botanas y del sector pecuario (alimentos balanceados, avicultura, porcicultura, ganadería bovina de carne y de leche), conforme al criterio de asignación, apertura de ventanilla y vigencia de los certificados que se detallan a continuación:
+
+(VEASE ARCHIVO ANEXO)
+
+El dictamen para las industrias: almidonera, cerealera, frituras y botanas será dentro de los siete días hábiles siguientes a la fecha en que la Dirección General de Comercio Exterior cuente con las solicitudes debidamente requisitadas; el dictamen para el sector pecuario se emitirá sólo hasta que la Dirección General de Comercio Exterior haya recibido la totalidad de las solicitudes. En todos los casos se deberá señalar el monto y plazo para ejercer la asignación, así como las condiciones a que deben sujetarse los beneficiarios.
+
+Maíz Blanco:
+
+La asignación de maíz blanco será otorgada por la Dirección General de Comercio Exterior, previo dictamen favorable de la Dirección General de Industrias Básicas de esta Secretaría, quien lo emitirá conjuntamente con la opinión de la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA, para las personas físicas o morales de las industrias harinera y molinera de nixtamal, comercializadoras que abastecen a la industria de la masa y la tortilla y para la empresa del sector público encargada de la distribución de este producto, ubicadas en los estados de Baja California, Coahuila, Chiapas, Nuevo León, Oaxaca, Tabasco, Tamaulipas, Veracruz y Yucatán, conforme al criterio de asignación, apertura de ventanilla y vigencia de los certificados que se detallan a continuación:
+
+(VEASE ARCHIVO ANEXO)
+
+El dictamen para las industrias harinera y molinera de nixtamal, comercializadoras que abastecen a la industria de la masa y la tortilla, del sector público encargada de distribuir este producto, será emitido por la Dirección General de Comercio Exterior previo dictamen favorable de la Dirección General de Industrias Básicas de esta Secretaría, quien lo emitirá conjuntamente con la opinión de la Dirección General de Desarrollo de Mercados, de Apoyos y Servicios a la Comercialización Agropecuaria ASERCA/SAGARPA de la Secretaría de Agricultura, Ganadería Desarrollo Rural, Pesca y Alimentación, dentro de los siete días hábiles siguientes a la fecha en que la Dirección General de Industrias Básicas haya recibido de la Dirección General de Comercio Exterior para su dictamen, las solicitudes debidamente requisitadas. En todos los casos se deberá señalar el monto y plazo para ejercer la asignación, así como, las condiciones a que deben sujetarse los beneficiarios.
+
+Los beneficiarios de los sectores almidonero, cerealero, harinero de maíz, del sector pecuario, de frituras y botanas y molinera de nixtamal, quedan obligados a presentar dentro de los quince días siguientes al vencimiento del cupo, un reporte emitido por auditor externo dirigido a la Dirección General de Industrias Básicas, correspondiente al periodo en que fue asignado el cupo, en el que se certifique los siguientes puntos:
+
+Inventario de maíz al inicio del periodo por origen (nacional e importado);
+
+Volumen de compras de maíz y/o granos forrajeros, identificándolas por origen (nacional e importado), anexando, en su caso, las hojas de descargo de los correspondientes certificados de cupo;
+
+Cantidad de grano utilizado, desglosando su origen (nacional o importado);
+
+Volumen de fabricación por tipo de producto final;
+
+Total de las mermas que se registraron en el periodo, diferenciando entre las correspondientes a la movilización del grano y las del procesamiento de éste, e
+
+Inventario de maíz al final del periodo por origen (nacional e importado).
+
+Las personas comercializadoras que abastecen a la industria de la masa y la tortilla, quedan obligados a presentar la información que a continuación se detalla:
+
+1. El primer día hábil de cada semana, un reporte dirigido a la Dirección General de Industrias Básicas, en el cual se indique el precio promedio de maíz importado al que estuvieron vendiendo a la industria de la masa y la tortilla por entidad federativa, hasta agotar el cupo. Este reporte, podrá ser enviado por correo electrónico a la siguiente dirección electrónica: ftostado@economia.gob.mx; por fax al (55) 52-29-65-08 o, en su caso, presentarlo directamente en la Representación Federal de la Secretaría de Economía, que corresponda;
+
+2. Reporte bimestral emitido por auditor externo, dentro de los siguientes treinta días posteriores al vencimiento de cada bimestre calendario, dirigido a la Dirección General de Industrias Básicas que certifique los siguientes datos:
+
+Las compras totales de maíz, desglosadas por su origen (nacional e importado); anexando, en su caso, las hojas de descargo de los correspondientes certificados de cupo;
+
+El inventario de maíz nacional e importado, con que contaba la empresa al inicio del bimestre, y
+
+Evidencia de que el volumen de maíz importado, se comercializó con las empresas de la industria de la masa y la tortilla, en los estados para los cuales se asignó el cupo, anexando el soporte electrónico de las ventas.
+
+Los reportes que se mencionan en el presente artículo deberán ser emitidos por un auditor externo registrado ante la Secretaría de Hacienda y Crédito Público (SHCP), debiendo indicar su número de registro correspondiente y rubricar todas las hojas y anexos, en su caso, que integren dichos reportes.
+
+A excepción de las empresas comercializadoras, la mercancía no podrá ser comercializada en el mismo estado físico en que se importe.
+
+Para la distribución del cupo y el monto a asignar se utilizará como referencia las cifras o estadísticas de los mercados de granos de la Secretaría de Economía (SE) y de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación (SAGARPA).
+
+Para la aplicación de los criterios que se mencionan en este artículo, la Dirección General de Comercio Exterior, podrá solicitar la interpretación de la Dirección General de Industrias Básicas.
 
 ###### ARTICULO CUARTO.
 
-Para la distribución por asignación directa del cupo a las empresas mencionadas en el inciso B) del artículo tercero del cupo a que se refiere el presente Acuerdo, considerando lo siguiente:
-
-Para establecer el tipo de empresas beneficiarias, se determinará un nivel de referencia equivalente al 30 por ciento de su consumo auditado de materias primas lácteas (leche fluida, leche en polvo, preparaciones a base de productos lácteos, suero de leche y crema de leche) durante el periodo reportado, el cual será calculado aplicando la siguiente fórmula:
-
-(VEASE ARCHIVO ANEXO)
-
-Los criterios de asignación aplicables a las empresas solicitantes de este cupo, son los que a continuación se indican:
-
-I. Para las empresas con un consumo de materias primas lácteas importadas durante el periodo previo reportado (últimos doce meses) bajo cupo (obtenido por asignación directa y/o licitación pública), inferior o igual a su nivel de referencia, se asignará la menor de las dos cantidades siguientes:
-
-a. Su nivel de referencia, 30 por ciento de su consumo auditado de materias primas lácteas durante el periodo reportado (últimos doce meses), o
-
-b. La cantidad que resulte mayor de: i) el monto total de los cupos de materias primas lácteas autorizados en el año previo por asignación directa y/o licitación pública, más un 10 por ciento o ii) el monto programado en el año previo de leche en polvo y preparaciones a base de productos lácteos*.
-
-* Para 2004 se refiere a la cantidad anual estimada para la asignación del tercer cuatrimestre de 2003, para cada uno de los solicitantes, con base en sus consumos de materias primas lácteas; para los años subsecuentes se refiere a la cantidad anual estimada para el año previo para cada uno de los solicitantes.
-
-En ambos casos, el resultado se ajustará por:
-
-- la proporción de los cupos de importación de leche en polvo asignados a la empresa respecto del total de los cupos de importación de materias primas lácteas (leche en polvo y preparaciones a base de productos lácteos) asignados a la empresa en el año previo;
-
-- la participación del cupo TLCAN, descrito en el inciso B del cuadro del artículo segundo de este Acuerdo, respecto al monto total disponible por asignación directa de los cupos mínimos (OMC y TLCAN) para el sector privado en cada año, y
-
-- la distribución estacional de la asignación de cupos de importación por cuatrimestre.
-
-La fórmula que se aplicará para este grupo será la siguiente:
-
-(VEASE ARCHIVO ANEXO)
-
-Notas:
-
-- Para 2004 la asignación directa de leche en polvo del año previo, sólo incluirá la asignación de cupos mínimos TLCAN y OMC, y cupo adicional OMC.
-
-- De 2005 a 2007 el programa se refiere al monto determinado mediante la aplicación de la fórmula en el año previo.
-
-- En los casos de asignaciones de cupo menores a 20 toneladas por cuatrimestre, se podrá conceder la consolidación de las asignaciones de cupo de dos cuatrimestres seguidos, que permita al solicitante hacer económicamente viable la importación.
-
-En ningún caso, la asignación por beneficiario podrá exceder el total del consumo de materias primas lácteas reportado en el año previo.
-
-II. Para las empresas con un consumo de materias primas lácteas importadas durante el periodo previo reportado (últimos doce meses) bajo cupo (obtenido por asignación directa y/o licitación pública), superior a su nivel de referencia, se asignará la mayor de las dos cantidades siguientes:
-
-a. Su nivel de referencia, 30 por ciento de su consumo auditado de materias primas lácteas durante el periodo reportado (últimos doce meses), o
-
-b. La cantidad que resulte menor de: i) el monto total autorizado en el año previo del cupo de leche en polvo y del cupo unilateral de preparaciones a base de productos lácteos obtenidos por asignación directa, menos un 10 por ciento; o, ii) el monto del programa de asignación directa de leche en polvo y de preparaciones a base de productos lácteos del año previo*.
-
-* Para 2004 se refiere a la cantidad anual estimada para la asignación del tercer cuatrimestre de 2003, para cada uno de los solicitantes, con base en sus consumos de materias primas lácteas; para los años subsecuentes se refiere a la cantidad anual estimada para el año previo para cada uno de los solicitantes.
-
-En ambos casos, el resultado se ajustará por:
-
-- la proporción de los cupos de importación de leche en polvo asignados a la empresa respecto del total de los cupos de importación de materias primas lácteas (leche en polvo y preparaciones a base productos lácteos) asignados a la empresa en el año previo;
-
-- la participación del cupo TLCAN, descrito en el inciso B del cuadro del artículo segundo de este Acuerdo, respecto del monto total disponible por asignación directa de los cupos mínimos (OMC y TLCAN) para el sector privado en cada año, y
-
-- la distribución estacional de la asignación de cupos de importación por cuatrimestre.
-
-La fórmula que se aplicará para este grupo será la siguiente:
-
-(VEASE ARCHIVO ANEXO)
-
-Notas:
-
-- Para 2004 la asignación directa de leche en polvo del año previo, sólo incluirá la asignación de cupos mínimos TLCAN y OMC, y cupo adicional OMC.
-
-- De 2005 a 2007 el programa se refiere al monto determinado mediante la aplicación de la fórmula en el año previo.
-
-- En los casos de asignaciones de cupo menores a 20 toneladas por cuatrimestre, se podrá conceder la consolidación de las asignaciones de cupo de dos cuatrimestres seguidos, que permita al solicitante hacer económicamente viable la importación.
-
-En ningún caso, la asignación por beneficiario podrá exceder el total del consumo de materias primas lácteas reportado en el año previo.
-
-III. Empresas industriales que utilizan leche en polvo en sus procesos productivos, sin antecedentes, que obtuvieron asignación de cupo en el año previo, sólo a través de licitación pública, se asignará un monto anual equivalente al 80 por ciento del volumen total obtenido por licitación pública en el año previo:
-
-La fórmula que se aplicará para este grupo será la siguiente:
-
-(VEASE ARCHIVO ANEXO)
-
-Nota:
-
-- En los casos de asignaciones de cupo menores a 20 toneladas por cuatrimestre, se podrá conceder la consolidación de las asignaciones de cupo de dos cuatrimestres seguidos, que permitan al solicitante hacer económicamente viable la importación.
-
-Para la aplicación de los criterios y fórmulas que se mencionan en este artículo, la Dirección General de Comercio Exterior, podrá solicitar la interpretación de la Dirección General de Industrias Básicas.
+La Dirección General de Industrias Básicas de esta Secretaría y la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA, efectuarán periódicamente reuniones con los representantes de las principales organizaciones de productores y de consumidores de maíz, con el fin de evaluar y dar seguimiento a la administración de este cupo.
 
 ###### ARTICULO QUINTO.
 
-Los beneficiarios señalados en fracción I, inciso B) del artículo tercero de este Acuerdo, estarán obligados a presentar dentro de los treinta días posteriores al vencimiento de sus certificados de cupo, un reporte para tener acceso a la siguiente asignación después de dicho plazo. El reporte deberá contener los siguientes datos: i) el monto del cupo de leche en polvo asignado de manera directa o por licitación pública; ii) los consumos de materias primas lácteas (leche fluida, leche en polvo, preparaciones a base de productos lácteos, suero de leche y crema de leche) de procedencia nacional, y iii) los volúmenes importados de estos insumos y su consumo en los procesos productivos de la empresa.
+Las solicitudes de asignación deberán presentarse en el formato SE-03-011-1 Solicitud de asignación de cupo en la ventanilla de la Representación Federal, de esta Secretaría que le corresponda. Las hojas de requisitos específicos, se establecen como anexo al presente Acuerdo.
 
 ###### ARTICULO SEXTO.
 
-Las solicitudes de asignación directa, deberán presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo” en la Representación Federal de esta Secretaría que le corresponda. La hoja de requisitos específicos se establece como anexo al presente Acuerdo.
+Una vez asignado el monto para importar dentro del arancel-cuota, la Secretaría, a través de la Representación Federal correspondiente, expedirá los respectivos certificados de cupo, previa solicitud del interesado en el formato SE-03-013-5 Solicitud de certificados de cupo (obtenido por asignación directa). El certificado de cupo, es nominativo e intransferible y deberá ser retornado a la oficina que lo expidió, dentro de los quince días siguientes al término de su vigencia.
 
 ###### ARTICULO SEPTIMO.
 
-Las licitaciones públicas previstas en el artículo segundo de este Acuerdo, se sujetarán a las bases que establezca la convocatoria correspondiente, la cual deberá ser publicada en el Diario Oficial de la Federación, por la Dirección General de Comercio Exterior, por lo menos 20 días hábiles antes de que inicie el periodo de registro de solicitudes, en la que se establecerá la fecha en que se pondrán a disposición de los interesados las bases correspondientes.
+Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las Representaciones Federales de la Secretaría o en la página de Internet de la Comisión Federal de Mejora Regulatoria en la dirección electrónica: www.cofemer.gob.mx
 
 ###### ARTICULO SEGUNDO.
 
-Con el objeto de complementar el abasto doméstico de leche en polvo, para el periodo 2004 al 2007 se aplicará el mecanismo de asignación mixto (asignación directa y licitación pública) al cupo mínimo correspondiente a cada año y referidos en el presente Acuerdo, conforme al cuadro siguiente:
-
-(VEASE ARVHIVO ANEXO)
+Durante el periodo 2004-2007 se aplicará a los cupos de importación a que se refiere el presente Acuerdo, el procedimiento de asignación directa.
 
 ###### ARTICULO OCTAVO.
 
@@ -418,34 +382,28 @@ Lo dispuesto en el presente ordenamiento no libera del pago de Cuotas Compensato
 
 Las disposiciones del presente Decreto no liberan del cumplimiento de las restricciones y regulaciones no arancelarias en los términos de la Ley de Comercio Exterior, la Ley Aduanera y demás disposiciones aplicables.
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
 
-SEGUNDO.- Lo dispuesto en el artículo 2o. del Acuerdo por el que se suspenden las labores de la Secretaría de Economía durante el periodo que se indica, publicado en el Diario Oficial de la Federación el 12 de diciembre de 2003, no aplicará respecto al periodo de recepción de solicitudes a que se refiere el inciso A) del artículo segundo del presente instrumento ni sobre la expedición de las resoluciones correspondientes.
-
-México, D.F., a 15 de diciembre de 2003.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+México, D.F., a 19 de diciembre de 2003.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
 
 SECRETARIA DE ECONOMIA
 
 DIRECCION GENERAL DE COMERCIO EXTERIOR
 
-REQUISITOS PARA LA ASIGNACION DEL CUPO MINIMO PARA IMPORTAR EN EL PERIODO 2004-2007
+DIRECCION DE OPERACION DE CUPOS DE IMPORTACION Y EXPORTACION
 
-LECHE EN POLVO (0402.10.01 Y 0402.21.01)
+2004-2007
 
-ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA
+REQUISITOS PARA LA ASIGNACION DEL CUPO DE IMPORTACION DE
 
-Asignación Directa 1/1
+MAIZ, EXCEPTO PARA SIEMBRA (AMARILLO)
+
+1005.90.03
+
+PROVENIENTES DE ESTADOS UNIDOS O CANADA
+
+ASIGNACION DIRECTA
 
 (VEASE ARCHIVO ANEXO)
-
-(1) El auditor externo deberá indicar su número de registro y firmar todas las hojas de los anexos que integren su reporte. Este reporte será válido para la solicitud de cupo de importación de leche en polvo OMC y/o TLCAN.
-
-(2) Esta información deberá actualizarse cada vez que la empresa modifique sus condiciones de operación reportadas.
-
-(3) Se deberá utilizar el factor de equivalencia acordado por los integrantes de la cadena productiva de leche y derivados lácteos. Esta información deberá presentarse también en archivo electrónico, mediante la entrega de diskette de 3.5” o CD.
-
-* No se menciona a la empresa del Sector Público porque no se sujeta a estos requisitos.
-
-NOTA: La Secretaría de Economía de conformidad con los artículos 62 al 69 de la Ley Federal de Procedimiento Administrativo, podrá verificar en cualquier momento la veracidad de la información presentada, así como realizar visitas de inspección a las instalaciones de los beneficiarios de este cupo. En caso de incumplimiento, se aplicarán las sanciones establecidas en la legislación de la materia.
