@@ -4,7 +4,7 @@ identifier: "FED-ley-de-navegacion-y-comercio-maritimos-588"
 country: "mx"
 rank: "ley"
 publication_date: "1963-11-21"
-last_updated: "1975-12-22"
+last_updated: "1981-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=588&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LNCM"
 
 LEY DE NAVEGACION Y COMERCIO MARITIMOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1981.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 21 de noviembre de 1963.
 
@@ -806,9 +806,33 @@ Los funcionarios y empleados administrativos de la Secretaría de Marina que no 
 
 #### SECCION C:. De los puertos de administración descentralizada
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 50.
 
-La administración descentralizada de los puertos a que se refiere el segundo párrafo del artículo 44, se organizará de acuerdo con la ley que para ese efecto expida el Congreso de la Unión.
+La administración descentralizada a que se refiere el segundo párrafo del artículo 44, se organizará y funcionará de acuerdo a los reglamentos que expida el Ejecutivo Federal, conforme a las siguientes bases:
+
+I.- Será declarada mediante Decreto del Presidente de la República.
+
+II.- Se efectuará a través de organismos públicos descentralizados que tendrán personalidad jurídica y patrimonio propios.
+
+III.- Serán autoridades del organismo público descentralizado de cada puerto:
+
+A).- El consejo de administración.
+
+B).- El director general.
+
+C).- El comisario o el consejo de vigilancia.
+
+Los consejos de administración se integrarán con representantes de Secretarías y departamentos de Estado que tengan competencia en las actividades portuarias, industriales y comerciales, así como de los Gobiernos de los Estados y Municipios en que se localice el puerto.
+
+IV.- Serán facultades de los organismos descentralizados de los puertos:
+
+A).- Administrar las instalaciones portuarias y sus recursos financieros y humanos.
+
+B).- Prestar los servicios portuarios a que se refiere esta Ley, por sí o a través de terceros de conformidad con las autorizaciones que al respecto dicte la Secretaría de Comunicaciones y Transportes.
+
+V.- El Ejecutivo Federal expedirá los reglamentos conforme a los cuales se administrarán y operarán los puertos a que alude este Artículo.
 
 ###### ARTICULO 51.
 
@@ -2193,3 +2217,9 @@ PRIMERO.- Las sociedades constituidas de acuerdo con lo dispuesto en el texto or
 Para operar con otras embarcaciones, deberán ajustarse a las disposiciones aplicables de la Ley con sus reformas y adiciones.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE DICIEMBRE DE 1981.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
