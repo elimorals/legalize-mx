@@ -4,7 +4,7 @@ identifier: "FED-ley-de-disciplina-de-la-armada-de-mexico-2553"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-26"
-last_updated: "1978-12-26"
+last_updated: "2002-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1978-12-14"
 
 LEY DE DISCIPLINA DE LA ARMADA DE MEXICO
 
-TEXTO ORIGINAL.
+N. DE E.: LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MEXICO PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 13 DE DICIEMBRE DE 2002.
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación el martes 26 de diciembre de 1978.
 
@@ -448,3 +450,11 @@ SEGUNDO.- La presente Ley deroga cualquier disposición anterior en lo que se le
 México, D. F., a 13 de diciembre de 1978.- Antonio Ocampo Ramírez, S. P.- Antonio Riva Palacio López, D. P.- Joaquín E. Repetto Ocampo, S. S.- Daniel Nogueira Huerta, D. S.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los catorce días del mes de diciembre de mil novecientos setenta y ocho.- José López Portillo.- Rúbrica.- El Secretario de Marina, Ricardo Cházaro Lara.- Rúbrica.- El Secretario de Gobernación, Jesús Reyes Heroles.- Rúbrica.
+
+> <small>N. DE E. A CONTIUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 13 DE DICIEMBRE DE 2002.
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga la Ley de Disciplina de la Armada de México, publicada en el Diario Oficial de la Federación con fecha 26 de diciembre de 1978.
