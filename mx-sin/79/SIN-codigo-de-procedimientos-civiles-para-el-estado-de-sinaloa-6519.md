@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1975-08-13"
+last_updated: "1975-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1975.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -5393,7 +5393,9 @@ I. Con la certificación de la defunción del autor de la herencia, se acompaña
 
 II. El inventario y avalúo se harán por el cónyuge que sobreviva o el albacea si estuviere designado y, en su defecto, por el heredero que sea de más edad; el avalúo deberá ser firmado por un perito oficial o, en su defecto, por cualquier comerciante de honorabilidad reconocida;
 
-III. El Juez convocará a junta a los interesados, nombrando en ella tutores especiales a los menores que tuvieren representante legítimo o cuando el interés de éstos fuere opuesto al de aquéllos y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra ponerlos de acuerdo, nombrarán un partidor entre los contadores oficiales que presten servicios al Erario, para que en el término de cinco días presente el proyecto de partición que dará a conocer a los interesados en una nueva junta a que serán convocados por cédula o correo. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación;
+> <small>(ADICIONADA, [N.DE E.REFORMADA] P.O. 24 DE OCTUBRE DE 1975)</small>
+
+III. El Juez convocará a junta a los interesados, nombrando en ella tutores especiales a los menores que tuvieren representante legítimo o cuando el interés de éstos fuere opuesto al de aquéllos y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra ponerlos de acuerdo, nombrarán un partidor entre los contadores oficiales que presten servicios al Erario, para que en el término de cinco días presente el proyecto de partición que dará a conocer a los interesados en una nueva junta a que serán convocados por cédula o correo. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación; excepción hecha de lo previsto por el artículo 740 Bis, en cuyo caso se estará a lo dispuesto por este último precepto;
 
 IV. Todas las resoluciones se harán constar en actas y no se requieren peticiones escritas de parte interesada para la tramitación del juicio, con excepción de la denuncia del intestado que se hará con copia para dar aviso al Fisco;
 
@@ -6513,6 +6515,12 @@ El presente Decreto entrará en vigor tres días después de su publicación en 
 
 P.O. 13 DE AGOSTO DE 1975.
 
-###### ARTICULO UNICO.
+###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 24 DE OCTUBRE DE 1975.
+
+###### ARTICULO UNICO.
+
+El presente Decreto empezará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
