@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-de-la-educacion-al-4470
 country: "mx"
 rank: "estatuto"
 publication_date: "1961-03-29"
-last_updated: "1961-03-29"
+last_updated: "1963-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURIDICO PARA LOS TRABAJADORES DE LA EDUCACION AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS
 
-TEXTO ORIGINA.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1963.
 
 Estatuto Jurídico publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 29 de marzo de 1961.
 
@@ -53,6 +53,8 @@ Trabajador de la Educación al Servicio del Estado, es toda persona que presta a
 
 La relación jurídica de trabajo reconocida por esta Ley (sic) se entiende establecida para todos los efectos legales, entre los trabajadores de la Educación al Servicio del Poder Ejecutivo y de los Municipios.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1963)</small>
+
 ###### ARTICULO 4o.
 
 Para los efectos de esta Ley (sic), los Trabajadores de la Educación al Servicio del Estado y de los Municipios, se dividirán en dos clases:
@@ -61,17 +63,17 @@ I.- Trabajadores de base y
 
 II.- Trabajadores de confianza.
 
-Son Trabajadores de confianza:
+Son Trabajadores de Confianza:
 
 a).- El Director General de Educación.
 
 b).- El Secretario de la Dirección General de Educación.
 
-c).- Los Directores de Escuelas profesionales del Estado y sus Secretarios.
+c).- Los Directores de Escuelas Profesionales del Estado y sus Secretarios.
 
 d).- Los Jefes de Sección de la Dirección General de Educación.
 
-e).- Los Inspectores de Zona.
+Son trabajadores de base todos los que señala actualmente el Artículo 2o. del Reglamento de Escalafón que está en vigor.
 
 ###### ARTICULO 5o.
 
@@ -539,15 +541,19 @@ d).- Por que se haga presión para frustrar una huelga parcial.
 
 e).- Porque se compruebe en forma evidente que existe una notable descompensación entre los salarios y el costo de las subsistencias.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1963)</small>
+
 ###### ARTICULO 66o.
 
-La huelga parcial es la que se decreta contra funcionarios Directivos de Centros de Trabajo o de Autoridades Municipales por cualquiera de las causas siguientes:
+La huelga parcial es la que se decreta contra funcionarios, directivos de centros de trabajo o de autoridades municipales, por cualquiera de las causas siguientes:
 
-a).- Violaciones frecuentemente repetidas de este Estatuto.
+a).- Por falta de pago de salarios consecutivos correspondientes a un mes de trabajo, salvo el caso de fuerza mayor que calificará el Tribunal de Arbitraje.
 
-b).- Negativa sistemática para comparecer ante el Tribunal de Arbitraje.
+b).- Violaciones frecuentemente repetidas de este Estatuto.
 
-c).- Desobediencia a las resoluciones del mismo Tribunal.
+c).- Negativa sistemática para comparecer ante el Tribunal de Arbitraje.
+
+d).- Desobediencia a las resoluciones del mismo Tribunal.
 
 ###### ARTICULO 67o.
 
@@ -629,21 +635,13 @@ De la Integración del Tribunal de Arbitraje.
 
 Los riesgos profesionales que sufran los trabajadores de la Educación al servicio del Gobierno del Estado y de los Municipios, se regirán por las disposiciones de la Ley Federal del Trabajo; pero las licencias que con este motivo se concedan, serán con goce de sueldo íntegro en los casos en que este Estatuto conceda igual prerrogativa tratándose de enfermedades no profesionales.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1963)</small>
+
 ###### ARTICULO 81o.
 
-Los Trabajadores de la Educación al Servicio del Estado y de los Municipios que sufran enfermedades no profesionales, tendrán derecho a que se les concedan licencias para dejar de concurrir a sus labores en los siguientes términos:
+Los permisos por enfermedades no profesionales de los trabajadores de la Educación, se concederán con goce de sueldo íntegro por el tiempo que señalen el o los certificados médicos que se vayan requiriendo y que determinen la incapacidad temporal que los imposibilite para trabajar, debiéndose comprobar durante ese tiempo la persistencia de la enfermedad.
 
-I.- A los empleados que tengan menos de un año de servicios, se les podrá conceder licencia por enfermedad no profesional hasta por quince días con goce de sueldo íntegro, hasta quince días más con medio sueldo y hasta cuarenta días más sin sueldo.
-
-II.- A los que tengan de uno a cinco años de servicios, hasta treinta días con goce de sueldo íntegro; hasta treinta días más con medio sueldo y hasta sesenta más sin sueldo.
-
-III.- A los que tengan de cinco a diez años de servicios hasta cuarenta y cinco días con goce de suelto íntegro, hasta cuarenta y cinco días con medio sueldo y hasta noventa días más sin sueldo.
-
-IV.- A los que tengan de diez años de servicios en adelante hasta sesenta días con goce de sueldo íntegro, hasta sesenta días más con medio sueldo y hasta ciento veinte días más sin sueldo.
-
-Los cómputos deberán hacerse por servicios continuados o cuando de existir una interrupción en la prestación de dichos servicios ésta no sea mayor de seis meses.
-
-Podrán gozar de la franquicia señalada de manera contínua o discontínua una sola vez cada año contando a partir del momento en que tomaron posesión de su puesto.
+Al comprobarse la incapacidad permanente o definitiva, el trabajador se acogerá a los beneficios del Seguro de los Trabajadores de la Educación o de la Ley de Pensiones.
 
 ## TITULO QUINTO.
 
@@ -900,3 +898,9 @@ El Srio. del Ejvo. del Estado.
 LIC. JOSE SAUCEDO SILLER.
 
 (Rúbrica.)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE ENERO DE 1963.
+
+EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS DISPOSICIONES PRELIMINARES DEL CODIGO CIVIL VIGENTE, PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
