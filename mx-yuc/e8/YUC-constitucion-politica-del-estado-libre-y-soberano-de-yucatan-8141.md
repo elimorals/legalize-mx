@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1979-12-24"
+last_updated: "1982-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 1979.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE ENERO 1982.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -399,7 +399,7 @@ XIV.- conceder premios y recompensas por servicios eminentes prestados al Estado
 
 XV.- expedir Leyes sobre Educación Pública, con sujeción a las bases siguientes:
 
-a) la educación que se imparta en el Estado será socialista, y además de excluir toda doctrina religiosa combatirá el fanatismo y los prejuicios, para lo cual la escuela organizará sus enseñanzas y actividades en forma que permita crear en la juventud un concepto racional y exacto del Universo y de la vida social;
+a) La educación que se imparta en el Estado será socialista, y además de excluir toda doctrina religiosa combatirá el fanatismo y los prejuicios, para lo cual la escuela organizará sus enseñanzas y actividades en forma que permita crear en la juventud un concepto racional y exacto del Universo y de la vida social;
 
 b) no podrán funcionar planteles particulares de educación sin haber obtenido previamente, en cada caso, la autorización expresa del Poder Público;
 
@@ -445,9 +445,9 @@ XXXII.- determinar según las necesidades locales, el número máximo de Ministr
 
 XXXIII.- erigirse en Jurado de Acusación para los altos funcionarios de que tratan los artículos 97 y 98;
 
-> <small>(REFORMADA, D.O.27 DE ENERO DE 1976)</small>
+> <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
 
-XXXIV.- Citar al Secretario de Gobierno para que informe cuando se discuta una Ley o se estudie un negocio que se relacione con el Ejecutivo;
+XXXIV.- Solicitar al Ejecutivo la comparecencia de cualquier funcionario de la administración pública estatal, para que informe u oriente cuando se discuta una ley o se estudie un negocio, que se relacione con la función de éste.
 
 XXXV.- expedir las bases generales de Policía y Buen Gobierno, a las que deberán sujetarse los Ayuntamientos en la formación de los Reglamentos respectivos;
 
@@ -633,9 +633,9 @@ V.- no ser Ministro de ningún culto;
 
 VI.- no estar en servicio activo, en caso de pertenecer al Ejército o Guardia Nacional, noventa días antes de la elección;
 
-> <small>(REFORMADA, D.O.27 DE ENERO DE 1976)</small>
+> <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
 
-VII.- no ser Secretario de Gobierno, de Asuntos Educativos y Sociales, Oficial Mayor, ni Director o Jefe de alguna de las dependencias del Ejecutivo, a menos que se separe de su puesto noventa días antes de la elección.
+VII.- no ser funcionario de los que menciona la Ley Orgánica del Poder Ejecutivo del Estado a menos que se separe de su puesto noventa días antes de la elección.
 
 VIII.- no estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 48.
 
@@ -661,23 +661,25 @@ El Gobernador Constitucional del Estado, entrará en funciones el día primero d
 
 El Gobernador, al tomar posesión de su encargo, prestará ante el Congreso o ante la Diputación Permanente, en los recesos de aquél, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, y las Leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado, y si así no lo hiciere, que la Nación y el Estado me lo demanden".
 
-> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, D.O. 29 DE ENERO 1982)</small>
 
 ###### Artículo 50.
 
-Si al comenzar un período constitucional no se presentare el Gobernador Electo, o la elección no estuviere hecha y declarada el día primero de febrero, cesará, sin embargo, el Gobernador cuyo período hubiere concluido y se encargará desde luego del Poder Ejecutivo, con el carácter de Interino el ciudadano que designe el Congreso. Si éste no estuviere reunido, se encargará del despacho provisionalmente el Secretario de Gobierno, entre tanto el Congreso designa al Gobernador Interino y convoca a las elecciones en los términos del artículo 52.
+Si al comenzar un período constitucional no se presentare el Gobernador electo, o la elección no estuviere hecha y declarada el día primero de febrero, cesará sin embargo, el Gobernador cuyo período hubiere concluido y se encargará desde luego del Poder Ejecutivo, con el carácter de Interino, el ciudadano que designe el Congreso.
 
-Si la ausencia del Gobernador Electo se debiere a fuerza, coacción, o cualquiera otra causa que le impidan materialmente llenar sus funciones, deberá comprobarse este hecho y en tal caso, el Gobernador Interino deberá entregarle el Gobierno al legalmente electo.
+Si éste no estuviere reunido, se encargará del despacho provisionalmente el Secretario General de Gobierno, entre tanto el Congreso designa al Gobernador Interino y convoca a las elecciones en los términos del artículo 52.
 
-> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
+Si la ausencia del Gobernador Electo se debiere a fuerza, coacción o cualquier otra causa que impidan materialmente llenar sus funciones, deberá comprobarse este hecho, y en tal caso, el Gobernador Interino deberá entregarle el Gobierno al legalmente electo.
+
+> <small>(REFORMADO, D.O. 29 DE ENERO 1982)</small>
 
 ###### Artículo 51.
 
 En las faltas absolutas y en las temporales del Gobernador, el Congreso por mayoría absoluta del número total de Diputados elegirá al ciudadano en quien concurran las condiciones necesarias para ser Gobernador Interino, a fin de que con ese carácter desempeñe el Poder Ejecutivo.
 
-Si al ocurrir dichas faltas del Gobernador, estuviere en funciones la Comisión Permanente, ésta procederá en los términos de la fracción VIII del artículo 43.
+Si al concurrir dichas faltas del Gobernador, estuviere en funciones la Comisión Permanente, ésta, procederá en los términos de la fracción VIII del artículo 43.
 
-Cuando la falta sea temporal, y no exceda de sesenta días, el Secretario de Gobierno atenderá el Despacho del Poder Ejecutivo.
+Cuando la falta sea temporal y no exceda de sesenta días, el Secretario General de Gobierno atenderá el Despacho del Poder Ejecutivo.
 
 > <small>(REFORMADO, D.O. 22 DE ENERO DE 1955)</small>
 
@@ -691,17 +693,17 @@ Si la falta del Gobernador fuere absoluta y faltaren tres años o más para term
 
 Nunca podrá ser electo para el periodo inmediato siguiente el ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador, si ha desempeñado el cargo en los últimos seis meses del periodo.
 
-> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, D.O. 29 DE ENERO 1982)</small>
 
 ###### Artículo 54.
 
-Siempre que ocurra una falta absoluta del Gobernador y mientras se reúne el Congreso y designa Gobernador Interino, se hará cargo del Despacho del Poder Ejecutivo el Secretario de Gobierno; por falta absoluta o temporal de este funcionario, en los casos en que conforme a la primera parte de esta disposición legal, deba asumir el Ejecutivo del Estado, se encargará de éste el Secretario de Asuntos Educativos y Sociales; y a falta de éste, el Oficial Mayor. En cualquiera de estos casos el encargado del Poder Ejecutivo hará entrega al Gobernador nombrado por el Congreso inmediatamente que se presente a recibirlo.
+Siempre que ocurra una falta absoluta del Gobernador y mientras se reúne el Congreso y designa Gobernador Interino, se hará cargo del despacho del Poder Ejecutivo el Secretario General de Gobierno; en los casos de falta absoluta o temporal de este funcionario, en que conforme a la Ley deba asumir el Ejecutivo del Estado, se encargará de éste el Oficial Mayor y a falta de éste el Secretario de Gobernación y Asuntos Jurídicos. En cualquiera de estos casos, el Encargado del Poder Ejecutivo hará entrega al Gobernador nombrado por el Congreso inmediatamente que se presente a recibirlo.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
 ### CAPITULO IV. De la Organización del Poder Ejecutivo
 
-> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, D.O. 29 DE ENERO 1982)</small>
 
 ###### Artículo 55.
 
@@ -711,17 +713,17 @@ I.- publicar y hacer cumplir las Leyes federales;
 
 II.- promulgar, publicar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo en la esfera administrativa, a su exacta observancia;
 
-> <small>(REFORMADA, D.O.27 DE ENERO DE 1976)</small>
+> <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
 
-III.- nombrar y remover libremente al Secretario de Gobierno, al Secretario de Asuntos Educativos y Sociales, al Oficial Mayor, Directores, Procurador General de Justicia y a todos los demás funcionarios y empleados del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las leyes;
+III.- nombrar y remover a los titulares de las dependencias que señala la Ley Orgánica del Poder Ejecutivo del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las Leyes;
 
 IV.- disponer de la Guardia Nacional y de la fuerza pública del Municipio en donde residiere habitual o transitoriamente;
 
 V.- disponer de la fuerza pública de los otros municipios para la defensa del Estado y para conservar la tranquilidad y el orden público cuando éste se alterare;
 
-> <small>(REFORMADA, D.O.27 DE ENERO DE 1976)</small>
+> <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
 
-VI.- nombrar en unión del Director de Asuntos Jurídicos uno o más apoderados para asuntos judiciales, dentro o fuera del Estado;
+VI.- nombrar uno o más apoderados para asuntos judiciales, dentro o fuera del Estado;
 
 VII.- pedir al Congreso la prórroga de sus sesiones ordinarias, cuando lo juzgue necesario para el servicio público;
 
@@ -741,15 +743,17 @@ XIII.- expedir la convocatoria para las elecciones públicas;
 
 XIV.- presentar en el segundo periodo de sesiones ordinarias del Congreso, o en su defecto en un periodo de sesiones extraordinarias a que se convoque antes de concluir el mes de diciembre, el Plan de Ingresos y Presupuesto de Egresos que han de regir en el año siguiente;
 
-XV.- Resolver definitivamente sobre las sanciones que las autoridades administrativas apliquen por infracciones a los Reglamentos gubernativos y de policía;
+> <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
+
+XV.- resolver definitivamente por sí o por conducto del Secretario General de Gobierno o del funcionario que al efecto señale, sobre las sanciones que las autoridades administrativas apliquen por infracciones a los Reglamentos Gubernativos, de Policía y de los demás recursos que conforme a las Leyes le competan;
 
 XVI.- suspender los acuerdos de los Ayuntamientos cuando fueren contrarios a la Constitución Federal o a la del Estado o a cualquier otra Ley, o lesionen los intereses municipales, sometiéndolos al Congreso del Estado para que éste resuelva definitivamente;
 
 XVII.- practicar visitas oficiales, cuando lo crea conveniente, a los municipios del Estado;
 
-> <small>(REFORMADA, D.O.27 DE ENERO DE 1976)</small>
+> <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
 
-XVIII.- concurrir al Congreso cuando lo juzgue conveniente para sostener alguna iniciativa presentada por el Ejecutivo o enviar en su representación al Funcionario del Ramo correspondiente, para el mismo objeto;
+XVIII.- concurrir al Congreso, cuando lo juzgue conveniente, para presentar o sostener alguna Iniciativa del Ejecutivo o autorizar a cualquier funcionario del mismo para dicho objeto;
 
 XIX.- conceder licencias a los empleados de su nombramiento;
 
@@ -769,9 +773,9 @@ XXII.- las demás que le confieren esta Constitución y otras leyes.
 
 No puede el Gobernador:
 
-> <small>(REFORMADA, D.O.27 DE ENERO DE 1976)</small>
+> <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
 
-I.- renunciar su cargo, ni ausentarse del territorio del Estado o separarse del ejercicio de sus funciones por más de sesenta días, sin causa grave calificada por el Congreso. El Secretario de Gobierno atenderá el despacho del Ejecutivo en las separaciones o ausencias del Gobernador que no excedan de sesenta días;
+I.- renunciar su cargo, ni ausentarse del territorio del Estado o separarse del ejercicio de sus funciones por más de sesenta días, sin causa grave calificada por el Congreso. El Secretario de General Gobierno atenderá el despacho del Ejecutivo en las separaciones o ausencias del Gobernador que no excedan de sesenta días;
 
 II.- imponer contribuciones;
 
@@ -789,19 +793,17 @@ VII.- permitir o tolerar que se establezcan en el Estado casas de juegos ilícit
 
 ###### Artículo 57.
 
-Para el despacho de los asuntos encomendados al Poder Ejecutivo del Estado, habrá un Secretario de Gobierno, un Secretario de Asuntos Educativos y Sociales, un Oficial Mayor, Directores y Jefes de Departamento que establezca la Ley Orgánica del Poder Ejecutivo del Estado, la cual señalará las atribuciones de cada uno de ellos.
+Para el despacho de los asuntos encomendados al Poder Ejecutivo, el Titular de éste se auxiliará de los funcionarios y empleados que menciona la Ley Orgánica del Poder Ejecutivo del Estado.
 
-> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, D.O. 29 DE ENERO 1982)</small>
 
 ###### Artículo 58.
 
-Para ser Secretario de Gobierno, de Asuntos Educativos y Sociales, Oficial Mayor u ocupar alguna de las Direcciones al Servicio del Poder Ejecutivo del Estado, se requiere ser ciudadano mexicano en ejercicio de sus derechos.
-
-> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
+Para ser titular de las dependencias del Poder Ejecutivo se requiere ser ciudadano mexicano en ejercicio de sus derechos.
 
 ###### Artículo 59.
 
-El Secretario de Gobierno tiene la obligación de concurrir al Congreso a rendir el informe a que se refiere la fracción XXXIV del artículo 30 de esta Constitución, cuantas veces fuere necesario para el caso.
+(DEROGADO, D.O. 29 DE ENERO 1982)
 
 > <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
 
@@ -809,17 +811,17 @@ El Secretario de Gobierno tiene la obligación de concurrir al Congreso a rendir
 
 Todas las disposiciones del Gobernador del Estado deberán ir firmadas por éste y por el Titular de la Dependencia a la que conciernan o por quien supla a éste. Sin este requisito no serán válidas.
 
-> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, D.O. 29 DE ENERO 1982)</small>
 
 ###### Artículo 61.
 
-Los Secretarios, el Oficial Mayor, los Directores, los Jefes de Departamento y de los servicios descentralizados en su caso, serán responsables de las disposiciones que autoricen con infracción de la Constitución General, de la Local y de las Leyes. Esta responsabilidad es sin perjuicio de la que resulte contra el Gobernador.
+Los titulares de las dependencias del Poder Ejecutivo, Directores, Jefes de Oficina y Organismos descentralizados, en su caso, serán responsables de las disposiciones que autoricen con infracción de la Constitución Federal, de la local y de las Leyes. Esta responsabilidad es sin perjuicio de la que resulte contra el Gobernador.
 
-> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, D.O. 29 DE ENERO 1982)</small>
 
 ###### Artículo 62.
 
-Las faltas del Secretario de Gobierno serán suplidas por el Secretario de Asuntos Educativos y Sociales, y las de éste, por el Oficial Mayor, con las mismas responsabilidades de los sustituidos.
+Las faltas del Secretario General de Gobierno serán suplidas por el Oficial Mayor y a falta de éste el Secretario de Gobernación y Asuntos Jurídicos, con las mismas responsabilidades del substituido.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -933,9 +935,9 @@ I.- hacer uso del derecho de iniciar Leyes que le confiere esta Constitución;
 
 II.- ejercer las funciones de Jurado que le confiere el artículo 100 de esta Constitución;
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
 
-III.- nombrar y remover a los Jueces de Primera Instancia, a los miembros de Tribunal de Menores, a los Jueces de Paz, a los Secretarios, a los Actuarios y demás empleados subalternos de la Administración de Justicia;
+III.- nombrar y remover a los Jueces de Primera Instancia, a los Jueces de Paz, a los Secretarios, a los Actuarios y demás empleados subalternos de la Administración de Justicia;
 
 IV.- admitir las renuncias que de sus encargos hagan los funcionarios y empleados referidos en la fracción anterior, así como conceder licencias a los mismos;
 
@@ -951,7 +953,7 @@ VI.- vigilar y promover cuanto se relacione con la buena marcha de la Administra
 
 ## TITULO NOVENO. De las responsabilidades de los Funcionarios Públicos del Estado
 
-> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, D.O. 29 DE ENERO 1982)</small>
 
 ###### Artículo 76.
 
@@ -1165,7 +1167,7 @@ Para cumplir las obligaciones y hacer debido uso de las facultades que el Estado
 
 ###### Artículo 97.
 
-Todos los funcionarios y empleados públicos son responsables por los delitos comunes que comentan durante el tiempo de su encargo, y por los delitos oficiales en que incurran en el ejercicio de ese mismo encargo. No obstante, a los Diputados Propietarios y Suplentes en funciones, al Gobernador, al Secretario de Gobierno y a los Magistrados, no se les puede hacer responsables sin que preceda la declaración afirmativa del H. Congreso Local en el sentido de que hubiere lugar a proceder contra el acusado, tratándose de delitos comunes, o de ser éste culpable tratándose de delitos oficiales.
+Todos los funcionarios y empleados públicos son responsables por delitos comunes que cometan durante el tiempo de su encargo y por los delitos oficiales en que incurran en el ejercicio de ese mismo encargo. No obstante, a los Diputados Propietarios y Suplentes en funciones, al Gobernador, al Secretario General de Gobierno y a los Magistrados, no se les puede hacer responsables sin que preceda la declaración afirmativa del Congreso Local en el sentido de que hubiere lugar a proceder contra el acusado, tratándose de delitos comunes, o de ser éste culpable tratándose de delitos oficiales.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1561,6 +1563,12 @@ D.O. 24 DE DICIEMBRE DE 1979.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
+D.O. 29 DE ENERO 1982.
+
 ###### ARTICULO PRIMERO.
 
-Se prorroga la vigencia del Plan de Ingresos y del Presupuesto de Egresos actuales, hasta el último día del mes de febrero de mil novecientos sesenta y uno.
+Este Decreto entrará en vigor el día primero de febrero del año en curso.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
