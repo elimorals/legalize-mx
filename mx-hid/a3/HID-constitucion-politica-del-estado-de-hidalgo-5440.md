@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1988-06-16"
+last_updated: "1991-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 1991.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -697,7 +697,9 @@ X. Nombrar al ciudadano que debe suplir al Gobernador Constitucional, en caso de
 
 XI. Conceder a los Diputados, Gobernador y Magistrados licencia para separarse de sus cargos en los términos establecidos por esta Constitución;
 
-XII. Autorizar la venta o cualquier tipo de enajenación de los bienes inmuebles, propiedad del Estado o de los Municipios, respectivamente, debiendo éstos justificar el motivo de la operación, y ser reivindicados estos, cuando faltase dicha autorización;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 1991)</small>
+
+XII. Expedir las leyes que rijan el patrimonio del Estado y el de los Municipios, autorizar a los ayuntamientos, cuando así procediere, a cualquier tipo de enajenación de bienes inmuebles del dominio de los Municipios, los que deberán justificar el monto de las operaciones respectivas si fueren a título oneroso, o el motivo si no lo fueren;
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -707,7 +709,9 @@ XIV. Dar posesión a los Diputados Suplentes en caso de inhabilitación o licenc
 
 XV. Nombrar definitivamente a los empleados de la Contaduría Mayor de Hacienda;
 
-XVI. Aprobar las expropiaciones, que por causa de utilidad pública, determine el Ejecutivo;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 1991)</small>
+
+XVI. Decretar se tramite la reivindicación de los bienes Estatales y Municipales, sin perjuicio de las facultades que para ello correspondan al Poder Ejecutivo del Estado y a los gobiernos municipales;
 
 XVII. Recibir y aprobar, en su caso, la cuenta justificada que está obligada a rendir toda persona física o moral que recibida a cualquier título, fondos del erario estatal, comprendidos en el Presupuesto de Egresos del año correspondiente;
 
@@ -1007,7 +1011,9 @@ XXXIII. (DEROGADA, P.O. 16 DE AGOSTO DE 1983) (REPUBLICADA, P.O. 16 DE ENERO DE 
 
 XXXIV. Representar al Estado en las comisiones tanto federales, como interestatales regionales;
 
-XXXV. Ejercer actos de dominio sobre el patrimonio del Estado, solicitando la autorización del Congreso en los casos que establece esta Constitución;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 1991)</small>
+
+XXXV. Ejercer actos de dominio sobre el patrimonio del Estado, en los términos que dispongan las leyes;
 
 XXXVI. Contratar empréstitos con aprobación del Congreso del Estado, para la ejecución de obras que estén destinadas a producir directamente un incremento en los ingresos del erario;
 
@@ -1047,7 +1053,9 @@ XLIX. Otorgar patentes de Notario, con sujeción a la Ley respectiva;
 
 L. Tomar las medidas necesarias en los casos de desastre y situaciones económicas difíciles o urgentes;
 
-LI. Tramitar las expropiaciones que por causa de utilidad pública, sean necesarias, mediante el pago de la indemnización de acuerdo con la Ley; y
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 1991)</small>
+
+LI. Decretar expropiaciones por causa de utilidad pública, mediante el pago de las indemnizaciones que correspondan conforme a la Ley; y
 
 LII. Las demás que le confiera esta Constitución y la General de la República.
 
@@ -1363,19 +1371,21 @@ I. De dominio público; y
 
 II. De dominio privado estatal.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1991)</small>
 
 ###### Artículo 102.
 
-Son bienes de dominio público:
+Son bienes del dominio público del Estado de Hidalgo:
 
-I. Los de uso común;
+I. Los de uso común sitios dentro del territorio Estatal, que no pertenezcan a la Federación o a los Municipios;
 
-II. Los inmuebles destinados por el Gobierno del Estado a un servicio público, los expedientes de las oficinas; y
+II. Los inmuebles destinados por el Estado a un servicio público y los que se equiparen a éstos conforme a la legislación ordinaria;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+III. Las tierras y sus componentes y las aguas, situadas dentro del territorio del Estado, que no pertenezcan a la Federación, a los Municipios o a otras personas físicas o jurídicas, conforme se defina por la ley que expida el Congreso del Estado;
 
-III. Los muebles e inmuebles que sean insustituibles tales como archivos, libros raros, piezas históricas, obras de arte y otros de igual naturaleza, previstos en las leyes federales sobre monumentos y zonas arqueológicas, artísticas e históricas. Estos bienes son inalienables, imprescriptibles e inembargables, y no están sujetos, mientras no varíe su situación jurídica, a acción reivindicatoria o de posesión, provisional o definitiva.
+IV. Los inmuebles de propiedad del Estado que por su naturaleza no sean normalmente substituibles; y
+
+V. Los demás que con ese carácter señale la Legislación ordinaria.
 
 > <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1383,11 +1393,11 @@ III. Los muebles e inmuebles que sean insustituibles tales como archivos, libros
 
 Son bienes de dominio privado estatal, los que le pertenecen en propiedad y los que en el futuro ingresen a su patrimonio, no previstos en las fracciones del artículo anterior.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1991)</small>
 
 ###### Artículo 104.
 
-Los bienes inmuebles del Estado son inembargables e imprescriptibles, y para enajenarlos o arrendarlos se requiere la autorización expresa del Congreso.
+Los bienes del dominio público del Estado son inalienables, imprescriptibles e inembargables. Para su disposición por el Gobierno del Estado, se requiere su previa desincorporación del dominio público, la que podrá ser decretada por los Poderes Ejecutivo y Legislativo del Estado.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -2508,3 +2518,11 @@ Se derogan las disposiciones legales que se opongan al presente ordenamiento.
 P.O. 16 DE JUNIO DE 1988.
 
 UNICO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE MARZO DE 1991.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del estado.
+
+SEGUNDO.- Las atribuciones que se encomiendan al Poder Ejecutivo en materia inmobiliaria, se ejercitarán por el mismo aplicando en lo conducente las disposiciones legales vigentes en tanto se expidan las leyes reglamentarias respectivas o, en lo conducente, las reformas que correspondan a dicha legislación vigente.
+
+TERCERO.- Se derogan las disposiciones que se opongan el presente Decreto.
