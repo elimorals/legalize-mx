@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1926-05-05"
+last_updated: "1927-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 1926.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 1927.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -771,9 +771,11 @@ V.- Tener un modo honesto de vivir; y
 
 VI.- Saber leer y escribir.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1927)</small>
+
 ###### Art. 123.
 
-Los miembros del Ayuntamiento se renovarán por mitad cada año, tomando posesión de su cargo los nuevamente electos el día primero de Enero, debiendo basarse esta renovación en la numeración par o impar que les haya correspondido.
+Los Miembros del Ayuntamiento se renovarán cada dos años, tomando posesión los electos el día primero de enero.
 
 ###### Art. 124.
 
@@ -999,6 +1001,8 @@ P.O. 5 DE MAYO DE 1926.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
+P.O. 11 DE JUNIO DE 1927.
+
 ###### Art. 4o.
 
 A ninguna persona podrá impedirse que se dedique a a (sic) profesión, industria, comercio o trabajo que le acomode, siendo lícitos. El ejercicio de ésta libertad sólo podrá vedarse por determinación judicial, cuando se ataquen los derechos de tercero, o por resolución gubernativa dictada en los términos que marque la ley, cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo, sino por resolución judicial.
@@ -1160,3 +1164,11 @@ La enumeración de estos derechos no tiene por objeto limitar, desigualar ni neg
 ###### Art. 27.
 
 En el Estado de Nuevo León la libertad del hombre no tiene más límite que la prohibición de la ley. De la ley emanan la autoridad de los que gobiernan y las obligaciones de los gobernados. En consecuencia, el ejercicio de la Autoridad debe limitarse a las atribuciones determinadas en las leyes.
+
+###### ARTICULO PRIMERO
+
+Esta Ley comenzará a surtir sus efectos el día primero de enero de 1928.
+
+###### ARTICULO SEGUNDO
+
+En los Ayuntamientos donde faltare algún Regidor o Síndico, el día primero de enero de 1928, lo designarán los mismos, de conformidad con el artículo 124 de la Constitución Política Local, para estar en todo de acuerdo con el Art. 2° de la Ley de Gobierno Interior de los Municipios reformada.nzará a surtir sus efectos el día primero de enero de 1928.
