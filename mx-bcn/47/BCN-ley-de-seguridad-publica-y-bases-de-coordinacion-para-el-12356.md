@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-y-bases-de-coordinacion-para-el-12356"
 country: "mx"
 rank: "ley"
 publication_date: "1998-04-17"
-last_updated: "2001-10-31"
+last_updated: "2002-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PUBLICA Y BASES DE COORDINACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 1998.
 
@@ -693,6 +693,8 @@ Las Academias e Instituciones de Policía Municipales, incluirán en la currícu
 
 ### CAPÍTULO SEGUNDO. DE LA SUSPENSIÓN TEMPORAL
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2002)</small>
+
 ###### ARTÍCULO 64.
 
 Se considera como Policía de Carrera, a quien haya cursado aprobatoriamente como mínimo el Programa de Formación Básica, realizado estudios y preparación especializados en el ramo y permanencia en el servicio de seguridad pública.
@@ -943,23 +945,25 @@ La conductas u omisiones de los elementos que integran los Cuerpos de Seguridad 
 
 ###### ARTÍCULO 90.
 
-La suspensión inmediata de funciones de elementos activos sujetos a investigación administrativa o averiguación previa, se dictará por el superior jerárquico o por el área administrativa que corresponda en cada Cuerpo de Seguridad, de tal manera que evite afectar el proceso de investigación y permita preservar los medios, cosas, objetos y personas, hasta la culminación y determinación de la responsabilidad que, en su caso, resulte.
+La suspensión temporal de funciones de los elementos activos de los Cuerpos de Seguridad podrán ser de carácter preventivo o correctivo.
 
-La suspensión temporal de las funciones, se determinará por el Consejo de Honor y Justicia. Podrá ser de carácter preventivo o correctivo atendiendo a las causas que lo motiven.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2002)</small>
 
 ###### ARTÍCULO 91.
 
-La suspensión temporal de carácter preventivo procederá contra el elemento que se encuentre sujeto a investigación administrativa o averiguación previa, por los actos u omisiones de los que puedan derivarse probable responsabilidad y cuya permanencia en el servicio, a juicio del Consejo de Honor y Justicia, puedan afectar a la investigación, corporación o a la comunidad en general.
+La suspensión temporal de carácter preventivo se dictará por el Consejo de Honor y Justicia, salvo en los casos en que este no pueda conocer con oportunidad en atención a la urgencia o gravedad del asunto, dicha suspensión se realizará por el superior jerárquico o el área administrativa que corresponda en cada cuerpo de seguridad, y estará dirigida hacia los elementos que se encuentren sujetos a investigación administrativa o averiguación previa, por los actos u omisiones de los que puedan derivarse probable responsabilidad, de tal manera que se evite afectar el proceso de investigación y permita preservar los medios, cosas, objetos y personas relacionadas con los hechos.
 
-La suspensión terminará hasta que el asunto de que se trate, quede total y definitivamente resuelto en la instancia final del procedimiento correspondiente.
+La suspensión a que se refiere el párrafo anterior, cesará hasta que el asunto de que se trate, quede total y definitivamente resuelto en la instancia final del procedimiento correspondiente.
 
-En el caso de que el elemento resulte declarado sin responsabilidad, se le reintegrarán los salarios y prestaciones que hubiese dejado de percibir hasta el momento con el motivo de la suspensión.
+En el caso de que el elemento resulte declarado sin responsabilidad, se le reintegrarán los salarios y prestaciones que hubiese dejado de percibir desde el momento en que se le dictó la suspensión.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2002)</small>
 
 ###### ARTÍCULO 92.
 
-La suspensión temporal de carácter correctivo, procederá contra el elemento que en forma reiterada o particularmente indisciplinada, haya incurrido en faltas cuya naturaleza no merecen la remoción. La suspensión a que se refiere este artículo no podrá exceder de treinta días naturales.
+La suspensión temporal de carácter correctivo se determinará por el Superior Jerárquico o el área administrativa que corresponda en cada cuerpo de seguridad o en su caso para el Consejo de Honor y Justicia y procederá contra el elemento que en forma reiterada o particularmente indisciplinada, haya incurrido en faltas cuya naturaleza no merecen la remoción.
+
+La suspensión a que se refiere este artículo no podrá exceder de treinta días naturales.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE JUNIO DE 2001)</small>
 
@@ -1222,3 +1226,7 @@ P.O. 31 DE OCTUBRE DE 2001.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se otorgará un plazo de noventa días a partir de la entrada en vigor de las presentes reformas, a efecto de que se adecuen todas aquellas normas jurídicas que impliquen impacto alguno en su contenido.
+
+P.O. 9 DE AGOSTO DE 2002.
+
+UNICO: Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
