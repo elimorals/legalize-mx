@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1992-12-31"
+last_updated: "1993-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 1993.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1727,7 +1727,9 @@ IV.- INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LAS FUERZAS ARMADAS MEXICANA
 
 V.- OTRAS INSTITUCIONES DE SEGURIDAD SOCIAL QUE PRESTEN ESTOS SERVICIOS EN LAS DIVERSAS ENTIDADES FEDERATIVAS DEL PAIS, O A DIVERSAS AGRUPACIONES SINDICALES.
 
-Tratándose de personas indigentes mayores de sesenta años, las que comprueben su edad con acta de nacimiento y la indigencia, previo estudio socioeconómico con vigencia anual que realice el Sistema para el Desarrollo Integral de la Familia en el Estado.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE SEPTIEMBRE DE 1993)</small>
+
+Tratándose de personas indigentes mayores de sesenta años, las que comprueben su edad con acta de nacimiento, o bien que se identifiquen con credencial expedida por el Instituto Nacional de la Senectud, previo estudio socioeconómico con vigencia anual que realice el Sistema para el Desarrollo Integral de la Familia del Estado o el Instituto Nacional de la Senectud.
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1991)</small>
 
@@ -2038,3 +2040,9 @@ P.O. 31 DE DICIEMBRE DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 17 DE SEPTIEMBRE DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
