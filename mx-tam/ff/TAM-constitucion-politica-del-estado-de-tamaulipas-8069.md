@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1936-05-02"
+last_updated: "1937-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 1936.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 1937.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1121,7 +1121,7 @@ Los Jueces de Primera Instancia del Estado y Menores Letrados, serán nombrados 
 
 ###### Art. 120.
 
-Los Jueces de Paz funcionarán cuando menos uno en cada Municipio.
+Los Jueces de Paz funcionarán cuando menos uno de cada Municipio.
 
 ###### Art. 121.
 
@@ -1276,6 +1276,10 @@ El Estado considera altamente honroso y meritorio servir a la educación públic
 ###### Art. 144.
 
 La Dirección Técnica de las Escuelas Oficiales en el Estado y la administración y distribución de los fondos propios de la Hacienda escolar, estará a cargo del Ejecutivo, por conducto de un Departamento que se denominará "DIRECCION GENERAL DE ENSEÑANZA PUBLICA EN TAMAULIPAS," una ley organizará esta y el número y modo de designación de sus agentes en cada Municipalidad.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 1937)</small>
+
+No obstante lo dispuesto por el párrafo anterior, queda facultado el Ejecutivo para celebrar con el Gobierno Federal, Convenios sobre coordinación de los servicios de enseñanza, pero en dichos convenios deberá reservarse el Ejecutivo la intervención que se estime necesaria para el buen desempeño de la educación pública, y deberá también asegurarse la estabilidad de los profesores al servicio del Estado.
 
 ###### Art. 145.
 
@@ -1566,3 +1570,7 @@ TRANSITORIO:- Este Decreto comenzará a surtir sus efectos a partir de la fecha 
 P.O. 2 DE MAYO DE 1936.
 
 Unico.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su promulgación.
+
+P.O. 9 DE ENERO DE 1937.
+
+Transitorio.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
