@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-478"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1995-04-01"
+last_updated: "1995-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Diario Oficial de la Federación, el Martes 30 de Diciembre de 1980.
 
@@ -145,6 +145,10 @@ Los residentes en México, podrán acreditar contra el impuesto que conforme a e
 Tratándose de ingresos por dividendos o utilidades distribuidos por sociedades residentes en el extranjero a personas morales residentes en México, también se podrá acreditar el impuesto sobre la renta pagado por dichas sociedades en el monto proporcional que corresponda al dividendo o utilidad percibido por el residente en México, que se determinará en los términos del Reglamento de esta Ley. Quien efectúe el acreditamiento a que se refiere este párrafo considerará como ingreso acumulable, además del dividendo o utilidad percibido, el monto del impuesto sobre la renta pagado por la sociedad, correspondiente al dividendo o utilidad percibido por el residente en México. El acreditamiento a que se refiere este párrafo sólo procederá cuando la persona moral residente en México sea propietaria de cuando menos el diez por ciento del capital social de la sociedad residente en el extranjero durante los seis meses anteriores a la fecha en que se decrete el dividendo o utilidad de que se trate.
 
 Tratándose de personas morales, el monto del impuesto acreditable a que se refiere el primer párrafo no excederá de la cantidad que resulte de aplicar la tasa a que se refiere el artículo 10 de esta Ley, a la utilidad fiscal que resulte conforme a las disposiciones aplicables de esta Ley por los ingresos percibidos en el ejercicio de fuente de riqueza ubicada en el extranjero. Para estos efectos, las deducciones que no sean atribuibles exclusivamente a los ingresos de fuente de riqueza ubicada en el extranjero deberán ser consideradas en la misma proporción que represente el ingreso proveniente del extranjero de que se trate respecto del ingreso total del contribuyente en el ejercicio. El monto del impuesto acreditable a que se refiere el segundo párrafo no excederá de la cantidad que resulte de aplicar la tasa a que se refiere el artículo 10 de esta Ley a la utilidad determinada de acuerdo con las disposiciones aplicables en el país de residencia de la sociedad del extranjero de que se trate con cargo a la cual se distribuyó el dividendo o utilidad percibido.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+Cuando la persona moral que en los términos del párrafo anterior tenga derecho a acreditar el impuesto sobre la renta pagado en el extranjero, se escinda, el derecho al acreditamiento le corresponderá exclusivamente a la escindente. Cuando esta última desaparezca lo podrá transmitir a las sociedades escindidas en la proporción en que se dividan el capital con motivo de la escisión, únicamente cuando el impuesto acreditable se hubiera pagado en un país con el que se encuentre en vigor un tratado para evitar la doble tributación y se cumpla con los requisitos establecidos en el mismo para su aplicación.
 
 En el caso de personas físicas, el monto del impuesto acreditable a que se refiere el primer párrafo de este artículo, no excederá de la cantidad que resulte de aplicar lo previsto en el Capítulo XII del Título IV de esta Ley a los ingresos percibidos en el ejercicio de fuente de riqueza ubicada en el extranjero, una vez efectuadas las deducciones autorizadas para dichos ingresos de conformidad con el capítulo que corresponda del Título IV antes citado. Para estos efectos, las deducciones que no sean atribuibles exclusivamente a los ingresos de fuente de riqueza ubicada en el extranjero deberán ser consideradas en la proporción antes mencionada.
 
@@ -326,6 +330,10 @@ En el caso de cancelación de una operación de la cual deriva una deuda, se can
 
 Tratándose de las inversiones en títulos de crédito a que se refiere la fracción IV, inciso a) de este artículo en las que el total o parte de los intereses se conocen hasta que se enajena, se amortiza o se redima el título de crédito, dicho monto se acumulará hasta que se conozca. El componente inflacionario de los créditos de los que derivan los intereses, se calculará hasta el mes en que dichos intereses se conocen, multiplicando el valor de adquisición de dichos créditos por el factor de ajuste correspondiente al periodo en que se devengaron. El componente inflacionario que resulte se sumará al componente inflacionario de los demás créditos, correspondiente al del mes en que se conozcan los referidos intereses.
 
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+El componente inflacionario de los créditos o deudas, de los que deriven intereses moratorios, de los créditos, préstamos o deudas, de los que deriven intereses, ganancia o pérdida cambiaria, que se acumulen o deduzcan en los términos de los artículos 17, fracción X, segundo párrafo, 24, fracción VIII, tercer párrafo, 108, fracción IX, segundo párrafo y 134, segundo párrafo de esta Ley, se calculará hasta el mes en que dichos intereses, ganancia o pérdida cambiaria, se acumulen o deduzcan, multiplicando el monto de los créditos o deudas respectivos por el factor de ajuste correspondiente al periodo en que se causaron dichos intereses, o se obtuvo la ganancia o la pérdida cambiaria. El componente inflacionario que resulte se sumará al componente inflacionario de los demás créditos o deudas, según se trate, correspondiente al del mes en que se acumulen o deduzcan los referidos intereses, ganancia o pérdida cambiaria.
+
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
 En las operaciones financieras derivadas de deuda, el componente inflacionario de los créditos o deudas originados por ellas se calculará hasta el mes en que se conozcan los intereses que resulten de las mismas.
@@ -460,9 +468,9 @@ Cuando los contribuyentes a que se refiere este artículo hubieran optado por ef
 
 El monto total del impuesto por acreditar en los ejercicios siguientes será el que se derive de la diferencia entre la deducción inmediata y la que hubiera realizado en los términos del artículo 41, correspondiente a los mismos activos fijos. Dicho monto será acreditable en cada ejercicio siguiente en una cantidad equivalente al impuesto que le corresponda pagar en el mismo, como consecuencia de la no deducibilidad de las inversiones de los activos fijos referidos.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-En cada uno de los ejercicios en los que se efectúe el acreditamiento a que se refiere el párrafo anterior, la utilidad fiscal neta calculada en los términos del artículo 124 y la utilidad fiscal a que se refiere el penúltimo párrafo del artículo 19-A, se disminuirán con la cantidad que resulte de restar a la utilidad por la que se acreditó el impuesto, el impuesto acreditado en el ejercicio, para los efectos de los preceptos referidos.
+En cada uno de los ejercicios en que se efectúe el acreditamiento a que se refiere el párrafo anterior, la utilidad fiscal neta calculada en los términos del artículo 124 de este ley, se disminuirá con la cantidad que resulte de restar a la utilidad por la que se acreditó el impuesto, el impuesto acreditado en el ejercicio, para los efectos del precepto referido.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -546,9 +554,9 @@ Tratándose del ejercicio de liquidación, los pagos provisionales se harán con
 
 Los ingresos nominales a que se refiere este artículo serán los ingresos acumulables, excepto la ganancia inflacionaria y considerando los ingresos por intereses y la ganancia cambiaria, sin restarles el componente inflacionario. Tratándose de créditos u operaciones denominados en unidades de inversión, se considerarán ingresos nominales, para efectos de este artículo, los intereses conforme se devenguen, incluyendo el ajuste que corresponda al principal por estar los créditos u operaciones denominados en dichas unidades.
 
-> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-Los contribuyentes que inicien operaciones con motivo de la escisión de sociedades efectuarán pagos provisionales a partir del mes en que ocurra la escisión, considerando el coeficiente de utilidad de la sociedad escindente para el ejercicio de que se trate. Para tales efectos, la sociedad escindente y las escindidas, considerarán como pagos provisionales efectivamente enterados, el monto de dichos pagos en la proporción en que se dividió el capital de la primera. El coeficiente a que se refiere este párrafo también se utilizará para los efectos del último párrafo de la fracción I de este artículo. En el ejercicio en que se lleve a cabo la escisión, las sociedades escindidas realizarán pagos provisionales en forma trimestral, únicamente si la escindente los efectuaba de dicha manera con anterioridad a la escisión.
+Los contribuyentes que inicien operaciones con motivo de la escisión de sociedades efectuarán pagos provisionales a partir del mes en que ocurra la escisión, considerando el coeficiente de utilidad de la sociedad escindente para el ejercicio de que se trate. El coeficiente a que se refiere este párrafo también se utilizará para los efectos del último párrafo de la fracción I de este artículo. En el ejercicio en que se lleve a cabo la escisión, las sociedades escindidas realizarán pagos provisionales en forma trimestral, únicamente si la escindente los efectuaba de dicha manera con anterioridad a la escisión. La sociedad escindente considerará como pagos provisionales efectivamente enterados con anterioridad a la escisión, la totalidad de dichos pagos que hubiera efectuado en el ejercicio en que ocurrió la escisión y no se podrán asignar a las sociedades escindidas, aún cuando la escindente desaparezca.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -710,6 +718,14 @@ En el caso de incumplimiento de contratos de arrendamiento financiero o de contr
 
 En el caso de contratos de arrendamiento financiero, se considerarán ingresos obtenidos en el ejercicio en que sean exigibles, los que deriven de cualquiera de las opciones a que se refiere el artículo 15 fracción I del Código Fiscal de la Federación.
 
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+IV. Tratándose de los intereses moratorios derivados del incumplimiento de obligaciones, excepto cuando provengan de operaciones contratadas con personas físicas que no realicen actividades empresariales, con residentes en el extranjero o con las personas morales comprendidas en el Título III de esta Ley, cuando se dé cualquiera de los siguientes supuestos:
+
+a) Se expida el comprobante que los ampare.
+
+b) Se perciban en efectivo, en bienes o en servicios.
+
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 16-A.
@@ -762,6 +778,10 @@ IX.- Las cantidades que se perciban para efectuar gastos por cuenta de terceros,
 
 X.- Los intereses y la ganancia inflacionaria, acumulables en los términos del artículo 7o.- B de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+El componente inflacionario de los créditos de los que deriven los intereses moratorios que se acumulen en los términos del artículo 16, fracción IV de esta Ley, se determinará en los términos del antepenúltimo párrafo del artículo 7o.-B de esta Ley, hasta el mes en que dichos intereses se acumulen.
+
 > <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
@@ -808,55 +828,27 @@ Para determinar la ganancia por enajenación de acciones, los contribuyentes dis
 
 I.- El costo promedio por acción, incluirá todas las acciones que el contribuyente tenga de la misma persona moral en la fecha de la enajenación, aún cuando no enajene todas ellas. Dicho costo se obtendrá dividiendo el monto original ajustado de las acciones entre el número total de acciones que tenga el contribuyente a la fecha de enajenación.
 
-II.- Se obtendrá el monto original ajustado de las acciones aplicando el procedimiento siguiente:
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-a).- Se sumará o restará, según sea el caso, al costo comprobado de adquisición actualizado de las acciones que tenga el contribuyente de la misma persona moral, las utilidades o pérdidas actualizadas obtenidas por dicha persona en el período transcurrido desde la fecha de su adquisición hasta la fecha de enajenación, en la parte que corresponda a las acciones que tenga el contribuyente. Unicamente se considerarán las utilidades o pérdidas de ejercicios terminados.
+II. El monto original ajustado de las acciones se determinará sumando al costo comprobado de adquisición actualizado de las acciones que tenga el contribuyente de la misma persona moral, la diferencia que resulte de restar al saldo de la cuenta de utilidad fiscal neta que en los términos del artículo 124 de esta Ley tenga la persona moral emisora a la fecha de la enajenación de las acciones, el saldo que dicha cuenta tenía a la fecha de adquisición, cuando el primero de los saldos sea mayor, en la parte que corresponda a las acciones que tenga el contribuyente adquiridas en la misma fecha. Cuando el segundo de los saldos mencionados sea mayor que el saldo señalado en primer término, la diferencia se restará al costo comprobado de adquisición actualizado de las acciones que se enajenan.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+Para los efectos de determinar la diferencia a que se refiere el párrafo anterior, los saldos de la cuenta de utilidad fiscal neta que la persona moral emisora de las acciones que se enajenan hubiera tenido a las fechas de adquisición y de enajenación de las acciones, se deberán actualizar por el periodo comprendido desde el mes en que se efectuó la última actualización previa a la fecha de la adquisición o de la enajenación, según se trate y hasta el mes en que se enajenen las acciones.
 
-b) Al resultado que se obtenga conforme al inciso a), se sumarán los dividendos o utilidades actualizados, percibidos en el mismo período por la persona moral de otras personas residentes en México, en la parte que corresponda a las acciones que tenga el contribuyente a excepción de los siguientes:
+Cuando la diferencia de los saldos actualizados de la cuenta de utilidad fiscal neta de la persona moral emisora, que en los términos de esta fracción se deba restar al costo comprobado de adquisición actualizado de las acciones que se enajenan, fuera mayor que el referido costo comprobado, el excedente formará parte de la ganancia.
 
-1.- Los dividendos o utilidades percibidos entre el 1o. de enero de 1975 y el 31 de diciembre de 1988.
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-2.- los percibidos en acciones y los que se reinviertan en la suscripción o pago de aumento de capital de la misma persona moral que los distribuyó dentro de los 30 días siguientes a su distribución.
-
-c).- Al resultado que se obtenga conforme al inciso b) que antecede, se le restarán los dividendos o utilidades actualizados, distribuidos por la persona moral durante el mismo período, en la parte que corresponda a las acciones que tenga el contribuyente, a excepción de los siguientes:
-
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-1. Los dividendos o utilidades distribuidos entre el 1o. de enero de 1987 y el 31 de diciembre de 1988, que hubiese deducido el contribuyente para determinar su resultado fiscal en el Titulo II de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-2.- Los que no provengan de la cuenta de utilidad fiscal neta, siempre que se haya pagado el impuesto en los términos del artículo 10-A.
-
-3.- Los distribuidos en acciones y los que se reinviertan en la suscripción o pago de aumento de capital de la misma persona moral que los distribuyó dentro de los 30 días siguientes a su distribución.
-
-III.- La actualización del costo comprobado de adquisición de las acciones, de las utilidades y pérdidas, así como de los dividendos o utilidades percibidos o distribuidos, en efectivo o en bienes, se efectuará por el período comprendido desde el mes de la adquisición, el último mes del ejercicio en que se obtenga, el mes en que se perciban o se paguen, respectivamente, hasta el mes en el que se enajenen.
-
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-Cuando los dividendos o utilidades distribuidos actualizados excedan a la cantidad que resulte de sumar al costo comprobado de adquisición actualizado, las utilidades actualizadas y los dividendos o utilidades percibidos actualizados y restando de dicha suma, las pérdidas actualizadas, el excedente formará parte de la ganancia.
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+III. La actualización del costo comprobado de adquisición de las acciones, se efectuará por el periodo comprendido desde el mes de su adquisición hasta el mes en que se enajenen.
 
 Tratándose de acciones emitidas por personas morales residentes en el extranjero, para determinar el costo promedio por acción a que se refiere este artículo, se considerará como monto original ajustado de las acciones, el costo comprobado de adquisición de las mismas, actualizado en los términos de la fracción III de este artículo.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
 Se considera costo comprobado de adquisición de las acciones emitidas por las sociedades escindidas, el que se derive del costo promedio por acción que tenían las acciones canjeadas de la escindente por cada accionista a la fecha de dicho acto y como fecha de adquisición la del canje.
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-El costo comprobado de adquisición de las acciones emitidas por la sociedad fusionante, o la que surja como consecuencia de la fusión será el que se derive del costo promedio por acción que hubieran tenido las acciones que se canjearon por cada accionista y la fecha de adquisición la del canje.
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+El costo comprobado de adquisición de las acciones emitidas por la sociedad fusionante, o la que surja como consecuencia de la fusión, será el que se derive del costo promedio por acción que hubieran tenido las acciones que se canjearon por cada accionista, y la fecha de adquisición la del canje.
 
 En el caso de fusión o escisión de sociedades, las acciones que adquieran las sociedades fusionante o las escindidas como parte de los bienes transmitidos, tendrán como costo comprobado de adquisición el costo promedio por acción que tenían en las sociedades fusionadas o escindente, al momento de la fusión o escisión.
 
-Cuando la fecha de adquisición de las acciones sea anterior al 1o. de enero de 1975, únicamente se considerarán las utilidades o pérdidas y los dividendos o utilidades distribuidos o percibidos que correspondan al período transcurrido entre esa fecha y aquélla en que se determine el costo promedio por acción.
-
-En el caso de enajenación de acciones de sociedades de inversión comunes, el monto original ajustado de las acciones se determinará sin efectuar el ajuste a que se refiere el inciso a) de la fracción II de este artículo, y únicamente considerarán los dividendos o utilidades percibidos o pagados a partir del 1o. de enero de 1984.
+En el caso de enajenación de acciones de sociedades de inversión comunes, el monto original ajustado de las acciones, se determinará sumando al costo comprobado de adquisición de las acciones, los dividendos o utilidades actualizados que la sociedad de inversión hubiera percibido a partir de la fecha de adquisición de las acciones, y restando la suma de los dividendos o utilidades actualizados que la referida sociedad de inversión hubiera pagado también a partir de esa fecha, en la parte que corresponda a las acciones que tenga el contribuyente. Unicamente se considerarán los dividendos o utilidades percibidos o pagados a partir del 1o. de enero de 1984. Cuando el importe de los dividendos o utilidades actualizados pagados que se deba restar en los términos de este párrafo, fuera mayor que la suma del costo comprobado de adquisición actualizado de las acciones y de los dividendos o utilidades actualizados percibidos, la diferencia resultante formará parte de la ganancia. Los dividendos o utilidades se actualizarán por el periodo comprendido desde el mes en que la sociedad de inversión los percibió o pagó y hasta el mes en que se enajenen las acciones.
 
 Las sociedades emisoras deberán proporcionar a los socios que lo soliciten, constancia con la información necesaria para determinar los ajustes a que se refiere este artículo. Tratándose de acciones inscritas en el Registro Nacional de Valores e Intermediarios, la sociedad emisora de las acciones, independientemente de la obligación de dar constancia a los accionistas, deberá proporcionar esta información a la Comisión Nacional de Valores en la forma y términos que señalen las autoridades fiscales.
 
@@ -866,15 +858,15 @@ Las sociedades emisoras deberán proporcionar a los socios que lo soliciten, con
 
 Los contribuyentes que determinen la ganancia por enajenación de acciones en los términos del artículo anterior, estarán a lo siguiente:
 
-Las acciones propiedad del contribuyente por las que ya se hubiera calculado el costo promedio tendrán como costo comprobado de adquisición en enajenaciones subsecuentes, el costo promedio por acción determinado conforme al cálculo efectuado en la enajenación inmediata anterior de acciones de la misma persona moral. En este caso se considerará como fecha de adquisición de las acciones, para los efectos de la actualización del costo comprobado, el mes en que se hubiere efectuado la enajenación inmediata anterior. Para estos efectos, las utilidades o pérdidas, los dividendos o utilidades percibidos y distribuidos que se considerarán para el cálculo, serán los que se obtengan, se perciban o se paguen en el período transcurrido desde la fecha de la enajenación inmediata anterior hasta la fecha de enajenación de que se trate.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+Las acciones propiedad del contribuyente por las que ya se hubiera calculado el costo promedio tendrán como costo comprobado de adquisición en enajenaciones subsecuentes, el costo promedio por acción determinado conforme al cálculo efectuado en la enajenación inmediata anterior de acciones de la misma persona moral. En este caso se considerará como fecha de adquisición de las acciones, para efectos de la actualización del costo comprobado, el mes en que se hubiera efectuado la enajenación inmediata anterior de acciones de la misma persona moral, y para determinar la diferencia de saldos de la cuenta de utilidad fiscal neta a que se refiere la fracción II del artículo 19 de esta Ley, se considerará como saldo de la referida cuenta a la fecha de adquisición, el saldo de la cuenta de utilidad fiscal neta que hubiera correspondido a la fecha de la enajenación inmediata anterior de las acciones de la misma persona moral.
 
 Se considerará que no tienen costo comprobado de adquisición, las acciones obtenidas por el contribuyente por capitalizaciones de utilidades u otras partidas integrantes del capital contable o por reinversiones de dividendos o utilidades efectuadas dentro de los 30 días siguientes a su distribución.
 
 Lo dispuesto en el párrafo anterior no será aplicable a las acciones adquiridas por el contribuyente antes del 1o. de enero de 1989 y cuya acción que les dio origen hubiera sido enajenada con anterioridad a la fecha mencionada, en cuyo caso se podrá considerar como costo comprobado de adquisición el valor nominal de la acción de que se trate; así como para aquéllas a las que ya se hubiese efectuado el cálculo del costo promedio en enajenaciones anteriores, mismas que estarán a lo dispuesto en el segundo párrafo de este artículo.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-Se considerará como utilidad para los efectos del inciso a) de la fracción II del artículo anterior, la utilidad fiscal incrementada con la participación de los trabajadores en las utilidades de la empresa deducida en los términos de la fracción III del artículo 25 de esta Ley, disminuida con el importe del impuesto sobre la renta que corresponda a la persona moral en el ejercicio de que se trate, sin incluir el que se pagó en los términos del artículo 10-A, la participación de los trabajadores en las utilidades de la empresa y las partidas no deducibles para efectos de dicho impuesto, excepto las señaladas en las fracciones IX y X del artículo 25 de esta Ley, de cada uno de los ejercicios correspondientes al periodo de que se trate. Por lo que se refiere a la pérdida, se considerará la diferencia que resulte de disminuir de la totalidad de los ingresos acumulables obtenidos en el ejercicio las deducciones autorizadas por esta Ley.
+> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 Las sociedades que hubieran determinado su impuesto sobre la renta conforme a bases especiales de tributación considerarán la utilidad que sirvió de base para determinar la participación de los trabajadores en las utilidades de las empresas.
 
@@ -950,9 +942,9 @@ No serán deducibles las remesas que efectúe el establecimiento permanente ubic
 
 Los establecimientos permanentes de empresas residentes en el extranjero que se dediquen al transporte internacional aéreo o terrestre, en lugar de las deducciones establecidas en el artículo 22 de esta Ley, efectuarán la deducción de la parte proporcional del gasto promedio que por sus operaciones haya tenido en el mismo ejercicio dicha empresa, considerando la oficina central y todos sus establecimientos. Cuando el ejercicio fiscal de dichas empresas residentes en el extranjero no coincida con el año de calendario, efectuarán la deducción antes citada, considerando el último ejercicio terminado de la empresa.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-Para los efectos del párrafo anterior el gasto promedio se determinará dividiendo la utilidad obtenida en el ejercicio por la empresa en todos sus establecimientos antes del pago del impuesto sobre la renta, entre el total de ingresos percibidos en el mismo ejercicio; el cociente se restará de la unidad y el resultado será el factor de gasto aplicable a los ingresos atribuibles al establecimiento en México.
+Para los efectos del párrafo anterior el gasto promedio se determinará dividiendo la utilidad obtenida en el ejercicio por la empresa en todos sus establecimientos antes del pago del impuesto sobre la renta, entre el total de ingresos percibidos en el mismo ejercicio; el cociente se restará de la unidad y el resultado será el factor de gasto aplicable a los ingresos atribuibles al establecimiento en México. Cuando en el ejercicio la totalidad de los ingresos de la empresa sean menores a la totalidad de los gastos de todos sus establecimientos, el factor de gasto aplicable a los ingresos será igual a 1.00.
 
 ###### ARTICULO 24.
 
@@ -1021,6 +1013,14 @@ Los contribuyentes del impuesto especial sobre producción y servicios por enaje
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 VIII.- Que en caso de intereses por capitales tomados en préstamo, éstos se hayan invertido en los fines del negocio. Cuando el contribuyente otorgue préstamos a terceros, sólo serán deducibles los intereses que se devenguen de capitales tomados en préstamos hasta por el monto de la tasa más baja de los intereses estipulados en los préstamos a terceros en la porción del préstamo que se hubiera hecho a éstos; si en alguna de estas operaciones no se estipularan intereses, no procederá la deducción respecto al monto proporcional de los préstamos hechos a terceros. Estas últimas limitaciones no rigen para instituciones de crédito, sociedades financieras de objeto limitado u organizaciones auxiliares del crédito, en la realización de las operaciones propias de su objeto.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+En el caso de capitales tomados en préstamo para la adquisición de inversiones o realización de gastos o cuando las inversiones o gastos se efectúen a crédito, y para los efectos de esta Ley dichas inversiones o gastos no sean deducibles o lo sean parcialmente, los intereses que se deriven de los capitales tomados en préstamo o de las operaciones a crédito, sólo serán deducibles en la misma proporción en que las inversiones o gastos lo sean.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+Tratándose de los intereses derivados de los préstamos a que se refiere la fracción III del artículo 134 de esta Ley, así como los intereses moratorios derivados del incumplimiento de obligaciones, excepto cuando estos últimos provengan de operaciones contratadas con personas físicas que no realicen actividades empresariales, con residentes en el extranjero o con las personas morales comprendidas en el Título III de esta Ley, se deducirán hasta que se paguen en efectivo, en bienes o en servicios. El componente inflacionario de las deudas de las que derivan dichos intereses se determinará de conformidad con lo previsto en el antepenúltimo párrafo del artículo 7o.- B de esta Ley, hasta el mes en que dichos intereses se deduzcan.
 
 > <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -1474,7 +1474,9 @@ d) (DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
 
 IX.- 100% para los siguientes bienes:
 
-a).- Para semovientes, vegetales y máquinas registradoras de comprobación fiscal.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+a) Para semovientes, vegetales, máquinas registradoras de comprobación fiscal y equipos electrónicos de registro fiscal.
 
 b).- Equipo destinado a la conversión a consumo de gas natural.
 
@@ -1528,9 +1530,9 @@ I.- Las reparaciones así como las adaptaciones a las instalaciones se considera
 
 En ningún caso se considerarán inversiones los gastos por concepto de conservación, mantenimiento y reparación que se eroguen con el objeto de mantener el bien de que se trate en condiciones de operación.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-II.- Las inversiones en automóviles sólo serán deducibles hasta por un monto de N$ 78,510.00 pesos, siempre que sean automóviles utilitarios.
+II. Las inversiones en automóviles sólo serán deducibles hasta por un monto de $150,000.00, siempre que sean automóviles utilitarios.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1562,7 +1564,9 @@ IV.- En los casos de bienes adquiridos por fusión o escisión, los valores suje
 
 V.- Los descuentos, primas, comisiones y demás gastos relacionados con la emisión de obligaciones incluyendo las emitidas por instituciones de crédito, se deducirán anualmente en proporción a las obligaciones pagadas durante cada ejercicio. Cuando las obligaciones se rediman mediante un solo pago, los gastos se deducirán por partes iguales durante los ejercicios que transcurran hasta que se efectúe el pago.
 
-VI.- La deducción de la inversión en cada película cinematográfica, la efectuarán los productores aplicando el importe total de los ingresos obtenidos por su exhibición. Si transcurridos tres ejercicios a partir de la fecha en que se inició la exhibición no hubiera quedado deducida la inversión, el remanente se deducirá por partes iguales en los dos ejercicios siguientes.
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+VI. Las inversiones en cada película cinematográfica, en cuyo caso dicha deducción se efectuará por los productores aplicando el importe total de los ingresos obtenidos por su exhibición o explotación. Si transcurridos tres ejercicios a partir de la fecha en que se inició la exhibición o la explotación no hubiera quedado deducida la inversión, el remanente se deducirá por partes iguales en los dos ejercicios siguientes.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -1620,107 +1624,81 @@ Los contribuyentes de este Título, podrán optar por efectuar la deducción inm
 
 Los porcientos que se podrán aplicar para deducir las inversiones a que se refiere este artículo, son los que a continuación se señalan:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-I.- Los porcientos por tipo de bien serán:
+I. Los porcientos por tipo de bien serán:
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+a) Tratándose de construcciones:
 
-a).- Tratándose de construcciones:
+1. 85% en el caso de inmuebles declarados o catalogados como monumentos arqueológicos, artísticos, históricos o patrimoniales por el Instituto Nacional de Antropología e Historia o el Instituto Nacional de Bellas Artes, que cuenten con el certificado de restauración expedido por la autoridad competente y siempre que dichos bienes se encuentren dentro de las zonas que la Secretaría de Hacienda y Crédito Público determine para tal efecto, mediante reglas de carácter general.
 
-1.- 77% en el caso de inmuebles declarados o catalogados como monumentos arqueológicos, artísticos, históricos o patrimoniales por el Instituto Nacional de Antropología e Historia o el Instituto Nacional de Bellas Artes, que cuenten con el certificado de restauración expedido por la autoridad competente y siempre que dichos bienes se encuentren dentro de las zonas que la Secretaría de Hacienda y Crédito Público determine para tal efecto, mediante reglas de carácter general.
+2. 74% en los demás casos.
 
-2.- 62% en los demás casos.
+b) 78% para ferrocarriles, carros de ferrocarril, locomotoras y embarcaciones.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+c) 93% tratándose de aviones dedicados a la aerofumigación agrícola.
 
-b).- 66% para ferrocarriles, carros de ferrocarril, locomotoras y embarcaciones.
+d) 94.4% tratándose de dados, troqueles, moldes, matrices y herramental, así como equipo destinado directamente a la investigación de nuevos productos de desarrollo de tecnología en el país.
 
-c).- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+e) 97% para semovientes, vegetales, máquinas registradoras de comprobación fiscal y equipos electrónicos de registro fiscal, así como equipo destinado a prevenir y controlar la contaminación ambiental en cumplimiento de las disposiciones legales respectivas, y equipo destinado para la conversión a consumo de gas natural.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+f) 94% para equipo de cómputo electrónico, consistente en una máquina o grupo de máquinas interconectadas conteniendo unidades de entrada, almacenamiento, computación, control y unidades de salida, usando circuitos electrónicos en los elementos principales para ejecutar operaciones aritméticas o lógicas en forma automática por medio de instrucciones programadas, almacenadas internamente o controladas externamente, así como para el equipo periférico de dicho equipo de cómputo, tal como, unidades de discos ópticos, impresoras, lectores ópticos, graficadores, unidades de respaldo, lectores de código de barras, digitalizadores, unidades de almacenamiento externo, así como monitores y teclados conectados a un equipo de cómputo.
 
-d).- 89% tratándose de aviones dedicados a la aerofumigación agrícola.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-e).- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+II. Los por cientos aplicables para maquinaria y equipo distintos de los señalados en la fracción anterior son los siguientes:
 
-f).- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+a) 85% para producción de energía eléctrica y su distribución, y para transportes eléctricos.
 
-g).- 91% tratándose de dados, troqueles, moldes, matrices y herramental, así como equipo destinado directamente a la investigación de nuevos productos de desarrollo de tecnología en el país.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+b) 74% para molienda de grano; producción de azúcar y derivados; de aceites comestibles; transportación marítima; fluvial y lacustre.
 
-h).- 95% para semovientes, vegetales y máquinas registradoras de comprobación fiscal, así como equipo destinado a prevenir y controlar la contaminación ambiental en cumplimiento de las disposiciones legales respectivas y equipo destinado para la conversión a consumo de gas natural.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+c) 78% para producción de metal, obtenido en primer proceso; productos de tabaco y derivados de carbón natural.
 
-i).- 90% para equipo de cómputo electrónico, consistente en una máquina o grupo de máquinas interconectadas conteniendo unidades de entrada, almacenamiento, computación, control y unidades de salida, usando circuitos electrónicos en los elementos principales para ejecutar operaciones aritméticas o lógicas en forma automática por medio de instrucciones programadas, almacenadas internamente o controladas externamente, así como para el equipo periférico de dicho equipo de cómputo, tal como unidades de discos ópticos, impresoras, lectores ópticos, graficadores, unidades de respaldo, lectores de código de barras, digitalizadores, unidades de almacenamiento externo, así como monitores y teclados conectados a un equipo de cómputo.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+d) 80% para fabricación de pulpa, papel y productos similares; petróleo y gas natural.
 
-1.- 89% para equipo consistente en una máquina o grupo de máquinas interconectadas conteniendo unidades de entrada, almacenamiento, computación, control y unidades de salida, usando circuitos electrónicos en los elementos principales para ejecutar operaciones aritméticas o lógicas en forma automática por medio de instrucciones programadas, almacenadas internamente o controladas externamente.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+e) 82% para fabricación de vehículos de motor y sus partes; construcción de ferrocarriles y navíos; fabricación de productos de metal, de maquinaria y de instrumentos profesionales y científicos; producción de alimentos y bebidas; excepto granos, azúcar, aceites comestibles y derivados.
 
-2.- 81% para equipo periférico del contenido en el subinciso anterior; perforadoras de tarjetas, verificadoras, tabuladoras, clasificadoras, intercaladoras y demás que no quedan comprendidas en dicho subinciso.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+f) 84% para curtido de piel y fabricación de artículos de piel; de productos químicos, petroquímicos y farmacobiológicos; de productos de caucho y de productos plásticos; impresión y publicación.
 
-II.- Los porcientos aplicables para maquinaria y equipo distintos de los señalados en la fracción anterior, son los siguientes:
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+g) 86% para la fabricación de ropa, fabricación de productos textiles, acabado, teñido y estampado.
 
-a) 77% para producción de energía eléctrica y su distribución, y para transportes eléctricos.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+h) 87% para la construcción de aeronaves.
 
-b).- 62% para molienda de grano; producción de azúcar y derivados; de aceites comestibles; transportación marítima; fluvial y lacustre.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+i) 90% para compañías de transmisión por radio y televisión.
 
-c).- 66% para producción de metal, obtenido en primer proceso; productos de tabaco y derivados de carbón natural.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+j) 93% para la industria de la construcción.
 
-d).- 71% para fabricación de pulpa, papel y productos similares, petróleo y gas natural.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+k) 93% para actividades de agricultura, ganadería, pesca o silvicultura.
 
-e).- 72% para fabricación de vehículos de motor y sus partes, construcción de ferrocarriles y navíos; fabricación de productos de metal, de maquinaria y de instrumentos profesionales y científicos; producción de alimentos y bebidas; excepto granos, azúcar, aceites comestibles y derivados.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+l) 85% para otras actividades no especificadas en esta fracción.
 
-f).- 76% para curtido de piel y fabricación de artículos de piel; de productos químicos, petroquímicos y farmacobiológicos; de productos de caucho y de productos plásticos, impresión y publicación.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-g).- 79% para la fabricación de ropa, fabricación de productos textiles, acabado, teñido y estampado.
-
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-h).- 81% para la construcción de aeronaves.
-
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-i).- 85% para compañías de transmisión por radio y televisión.
-
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-j).- 89% para la industria de la construcción.
-
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-k).- 89% para actividades de agricultura, ganadería, de pesca o silvicultura.
-
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-l).- 77% para otras actividades no especificadas en esta fracción.
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-m) 87% para el destinado a restaurantes.
+m) 92% para el destinado a restaurantes.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -1736,9 +1714,9 @@ Para los efectos de este artículo se consideran bienes nuevos los que se utiliz
 
 > <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-La opción a que se refiere este artículo sólo podrá ejercerse tratándose de inversiones en bienes que se utilicen permanentemente en territorio nacional y fuera de las áreas metropolitanas y de influencia del Distrito Federal, Guadalajara y Monterrey, las que serán determinadas por la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general. En el caso de inversiones en bienes que se utilicen permanentemente en territorio nacional y dentro de las áreas metropolitanas y de influencia antes mencionadas, la opción a que se refiere este artículo sólo podrá ejercerse cuando se trate de contribuyentes cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de cuatro millones de nuevos pesos; que el valor de sus activos en el ejercicio determinado en los términos de la Ley del Impuesto al Activo no exceda de 7.9 millones de nuevos pesos y que el número de trabajadores que les hayan prestado servicios en cada uno de los meses del ejercicio no sea superior a 170.
+La opción a que se refiere este artículo sólo podrá ejercerse tratándose de inversiones en bienes que se utilicen permanentemente en territorio nacional y fuera de las áreas metropolitanas y de influencia en el Distrito Federal, Guadalajara y Monterrey, las que serán determinadas por la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general. En caso de inversiones en bienes que se utilicen permanentemente en territorio nacional y dentro de las áreas metropolitanas y de influencia antes mencionadas, la opción a que se refiere este artículo sólo podrá ejercerse cuando se trate de contribuyentes cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de siete millones de pesos y que el valor de sus activos en el ejercicio determinado en los términos de la Ley del Impuesto al Activo no exceda de catorce millones de pesos.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -1764,175 +1742,11 @@ II.- Considerarán ganancia obtenida por la enajenación de los bienes, el total
 
 III.- Cuando los bienes se enajenen, se pierdan o dejen de ser útiles, se podrá efectuar un deducción, además de la prevista en el artículo anterior, por la cantidad que resulte de aplicar, al monto original de la inversión ajustado con el factor de actualización correspondiente al período comprendido desde el mes en que se adquirió el bien y hasta el último mes de la primera mitad del período en el que se haya efectuado la deducción señalada en el artículo 51 de esta Ley, los porcientos que resulten conforme al número de años transcurridos desde que se efectuó la deducción del artículo 51 de la Ley citada y el porciento de deducción inmediata aplicado al bien de que se trate, conforme a la siguiente:
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 TABLA
 
-PORCIENTO
-
-DEL MONTO NUMERO DE AÑOS TRANSCURRIDOS
-
-ORIGINAL DE LA
-
-INVERSION
-
-DEDUCIDO 2 3 4 5 6
-
-% % % % %
-
-95 0 0 0 0 0
-
-91 1.59 0 0 0 0
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-90 2.21 0 0 0 0
-
-89 3.51 1.19 0 0 0
-
-87 5.54 2.81 0.95 0 0
-
-85 7.57 4.61 2.34 0.79 0
-
-81 11.55 8.38 5.68 3.46 1.76
-
-79 13.48 10.27 7.45 5.04 3.08
-
-77 15.37 12.14 9.24 6.71 4.54
-
-76 17.20 13.97 11.03 8.40 6.10
-
-72 20.72 17.53 14.56 11.82 9.34
-
-71 22.41 19.24 16.27 13.52 10.98
-
-66 27.18 24.13 21.21 18.45 15.84
-
-62 31.55 28.63 25.81 23.10 20.51
-
-48 46.69 44.33 42.00 39.70 37.45
-
-PORCIENTO DEL NUMERO DE AÑOS TRANSCURRIDOS
-
-MONTO ORIGINAL
-
-DE LA INVERSION 7 8 9 10 11
-
-DEDUCIDO % % % % %
-
-95 0 0 0 0 0
-
-91 0 0 0 0 0
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-90 0 0 0 0 0
-
-89 0 0 0 0 0
-
-87 0 0 0 0 0
-
-85 0 0 0 0 0
-
-81 0.60 0 0 0 0
-
-79 1.56 0.53 0 0 0
-
-77 2.77 1.41 0.48 0 0
-
-76 4.13 2.52 1.28 0.43 0
-
-72 7.11 5.16 3.49 2.13 1.08
-
-71 8.67 6.60 4.79 3.24 1.98
-
-66 13.40 11.13 9.04 7.14 5.44
-
-62 18.03 15.68 13.47 11.39 9.46
-
-48 35.23 33.05 30.91 28.82 26.78
-
-PORCIENTO DEL NUMERO DE AÑOS TRANSCURRIDOS
-
-MONTO ORIGINAL
-
-DE LA INVERSION 12 13 14 15 16
-
-DEDUCIDO
-
-% % % % %
-
-95 0 0 0 0 0
-
-91 0 0 0 0 0
-
-89 0 0 0 0 0
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-90 0 0 0 0 0
-
-87 0 0 0 0 0
-
-85 0 0 0 0 0
-
-81 0 0 0 0 0
-
-79 0 0 0 0 0
-
-77 0 0 0 0 0
-
-76 0 0 0 0 0
-
-72 0.37 0 0 0 0
-
-71 1.00 0. 34 0 0 0
-
-66 3.94 2.67 1.63 0.83 0.28
-
-62 7.68 6.07 4.62 3.35 2.27
-
-48 24.78 22.84 20.95 19.12 17.35
-
-PORCIENTO DEL NUMERO DE AÑOS TRANSCURRIDOS
-
-MONTO ORIGINAL 17 18 19 20 21 22 en
-
-DE LA INVERSION adelante
-
-DEDUCIDO % % % % % %
-
-95 0 0 0 0 0 0
-
-91 0 0 0 0 0 0
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-90 0 0 0 0 0
-
-89 0 0 0 0 0 0
-
-87 0 0 0 0 0 0
-
-85 0 0 0 0 0 0
-
-81 0 0 0 0 0 0
-
-79 0 0 0 0 0 0
-
-77 0 0 0 0 0 0
-
-76 0 0 0 0 0 0
-
-72 0 0 0 0 0 0
-
-71 0 0 0 0 0 0
-
-66 0 0 0 0 0 0
-
-62 1.38 0.70 0.24 0 0 0
-
-48 15.64 14.00 12.43 10.93 9.51 0
+(VEASE TABLA ANEXA)
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -1964,11 +1778,11 @@ En los casos a que se refiere el párrafo anterior, la sociedad de inversión de
 
 Tratándose de sociedades de inversión de capitales, no será aplicable lo previsto en el artículo 7l-A de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 52-B.
 
-Los establecimientos en el extranjero de instituciones de crédito del país, deberán pagar el impuesto a la tasa del 15% por los ingresos por intereses que perciban del capital que coloquen o inviertan en el país, sin deducción alguna. Cuando en un acuerdo internacional celebrado por México con el país en el que se encuentre situado el establecimiento de que se trate, se establezca una tasa menor a la prevista en este artículo por los intereses que se paguen a instituciones de crédito de ese país, se aplicará la tasa prevista en el acuerdo en lugar de la contenida en este párrafo.
+Los establecimientos en el extranjero de instituciones de crédito del país deberán pagar el impuesto a la tasa del 15% por los ingresos por intereses que perciban del capital que coloquen o inviertan en el país, sin deducción alguna. Cuando los establecimientos en el extranjero de instituciones de crédito del país estén situados en un país con el que se encuentre en vigor un tratado para evitar la doble tributación, se pagará el impuesto a la tasa de 4.9% o, cuando así se prevea en el tratado correspondiente, a una tasa menor.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -2010,7 +1824,21 @@ Las instituciones de crédito podrán deducir el monto de las reservas preventiv
 
 El monto de la deducción a que se refiere el párrafo anterior en ningún caso excederá del 2.5% del saldo promedio anual de la cartera de créditos del ejercicio en el que se constituyan o incrementen las reservas de la institución de que se trate.
 
-El monto total de los castigos de créditos que ordene o autorice la Comisión Nacional Bancaria, deberá cargarse hasta donde alcance, a la reserva global correspondiente.
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+Cuando el monto de las reservas preventivas globales que se constituyan o incrementen sea superior al límite del 2.5% mencionado, el excedente se podrá deducir en ejercicios posteriores hasta agotarlo, siempre que esta deducción y la del ejercicio, no excedan del 2.5% citado. El excedente de las reservas preventivas globales que se puede deducir en ejercicios posteriores, se actualizará multiplicándolo por el factor de actualización correspondiente al periodo comprendido desde el mes de cierre del ejercicio al que corresponde y hasta el último mes del ejercicio inmediato anterior a aquél en que el excedente se deducirá.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+Cuando el saldo acumulado de las reservas preventivas globales que, de conformidad con las disposiciones fiscales o las que establezca la Comisión Nacional Bancaria y de Valores, tengan las instituciones de crédito al 31 de diciembre del ejercicio de que se trate, sea menor que el saldo acumulado actualizado de las citadas reservas que se hubiera tenido al 31 de diciembre del ejercicio inmediato anterior, la diferencia se considerará ingreso acumulable en el ejercicio. El saldo acumulado se actualizará por el periodo comprendido desde el último mes del ejercicio inmediato anterior hasta el último mes del ejercicio. En este caso, se podrá disminuir de este ingreso acumulable, hasta agotarlo, el excedente actualizado de las reservas preventivas globales pendiente de deducir, siempre que no se haya deducido con anterioridad en los términos de este artículo.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+El monto total de los castigos de créditos que ordene o autorice la Comisión Nacional Bancaria y de Valores, deberá cargarse hasta donde alcance a la reserva preventiva global y el excedente, si lo hubiera, sólo podrá deducirse en el ejercicio de liquidación.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+El saldo promedio anual de la cartera de créditos del ejercicio a que se refiere este artículo, será el que se obtenga de dividir la suma de los saldos diarios del ejercicio de la cartera de créditos, entre el número de días del ejercicio.
 
 Una vez que las instituciones de crédito opten por lo establecido en este artículo, no podrán variar dicha opción en los ejercicios subsecuentes.
 
@@ -2054,6 +1882,18 @@ II.- La de contingencia.
 
 Cuando al término de un ejercicio proceda disminuir las reservas a que se refiere este artículo en relación con las constituidas en el ejercicio inmediato anterior, la diferencia se acumulará como ingreso en el ejercicio en que proceda la disminución.
 
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+###### Artículo 54-A.
+
+Los contribuyentes que hubieran adquirido por dación en pago o adjudicación judicial o fiduciaria, inmuebles, certificados de vivienda o derechos de fideicomitente o de fideicomisario que recaigan sobre inmuebles, cuando el enajenante hubiera quedado exento en los términos de la fracción XXXI del artículo 77 de esta ley, no podrán deducir conforme al artículo 22 de la propia Ley esas adquisiciones, debiendo determinar la ganancia obtenida o la pérdida sufrida en la enajenación que realicen de dichos bienes, restando al ingreso que obtengan por su enajenación el costo comprobado de adquisición que le correspondía a la persona física que le hubiera enajenado el bien, el cual se podrá ajustar multiplicándolo por el factor de actualización correspondiente al periodo comprendido desde el mes en que el bien fue adquirido por la persona física que lo enajenó por dación en pago o adjudicación y la fecha en que dicho bien sea enajenado a un tercero por quien lo recibió en pago o por adjudicación.
+
+El costo comprobado de adquisición que se podrá ajustar en los términos del párrafo anterior, se determinará conforme a lo siguiente:
+
+I. Se restará del costo comprobado de adquisición que le hubiera correspondido a la persona física que dio el bien en pago o que lo enajenó por adjudicación, la parte correspondiente al terreno y el resultado será el costo de construcción. Cuando no se pueda efectuar esta separación se considerará como costo del terreno el 20% del total.
+
+II. El costo de construcción deberá disminuirse a razón del 3% anual por cada año transcurrido entre la fecha de adquisición por la persona física que dio el bien en pago o que lo enajenó por adjudicación, y la de enajenación del bien a un tercero distinto de quien lo recibió en pago o por adjudicación, en ningún caso dicho costo será inferior al 20% del costo inicial. Las mejoras o adaptaciones al inmueble de que se trate, que hubieren implicado inversiones deducibles deberán sujetarse al mismo tratamiento.
+
 ### CAPITULO III
 
 De las Pérdidas.
@@ -2064,25 +1904,21 @@ De las Pérdidas.
 
 La pérdida fiscal será la diferencia entre los ingresos acumulables del ejercicio y las deducciones autorizadas por esta Ley, cuando el monto de estas últimas sea mayor que los ingresos.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-La pérdida fiscal ocurrida en un ejercicio podrá disminuirse de la utilidad fiscal de los cinco ejercicios siguientes.
+La pérdida fiscal ocurrida en un ejercicio podrá disminuirse de la utilidad fiscal de los diez ejercicios siguientes.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-En los casos en que, al término del período a que se refiere el párrafo anterior, no se hubiere agotado la pérdida y en el ejercicio en que se generó la misma se hubiera determinado pérdida contable, el contribuyente podrá disminuir el remanente de la pérdida fiscal en los cinco ejercicios posteriores hasta agotarlo. El remanente que se disminuirá en los términos de este párrafo no podrá ser mayor del que se tendría, de haber disminuido la pérdida contable mencionada en lugar de la fiscal.
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-Para los efectos del párrafo anterior, la pérdida contable será la que resulte de aumentar al monto de la misma, el importe de la deducción inmediata de los activos fijos que se hubiere efectuado en el ejercicio, en los términos del artículo 51 de esta Ley, y de disminuir a la cantidad que se obtenga el importe de la depreciación de los activos mencionados que se haya tomado para calcular dicha pérdida contable.
+> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 Cuando el contribuyente no disminuya en un ejercicio la pérdida fiscal de otros ejercicios, pudiéndolo haber hecho conforme a este artículo, perderá el derecho a hacerlo en ejercicios posteriores hasta por la cantidad en que pudo haberlo efectuado.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-Para los efectos de este artículo, el monto de la pérdida fiscal ocurrida en un ejercicio, se actualizará multiplicándolo por el factor de actualización correspondiente al período comprendido desde el primer mes de la segunda mitad del ejercicio en que ocurrió, hasta el último mes del mismo ejercicio. La parte de la pérdida fiscal de ejercicios anteriores ya actualizada pendiente de aplicar contra utilidades fiscales se actualizará multiplicándola por el factor de actualización correspondiente al período comprendido desde el mes del cierre del ejercicio en que se actualizó por última vez y hasta el último mes del ejercicio inmediato anterior a aquél en que se aplicará.
+Para los efectos de este artículo, el monto de la pérdida fiscal ocurrida en un ejercicio, se actualizará multiplicándolo por el factor de actualización correspondiente al periodo comprendido desde el primer mes de la segunda mitad del ejercicio en que ocurrió, hasta el último mes del mismo ejercicio. La parte de la pérdida fiscal de ejercicios anteriores ya actualizada pendiente de aplicar contra utilidades fiscales se actualizará multiplicándola por el factor de actualización correspondiente al periodo comprendido desde el mes en que se actualizó por última vez y hasta el último mes de la primera mitad del ejercicio en el que se aplicará.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -2358,25 +2194,15 @@ Los conceptos a que se refiere el párrafo anterior se considerarán en la propo
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-###### ARTICULO 57
+###### Artículo 57
 
-LL.- Para determinar la ganancia en la enajenación de acciones emitidas por sociedades que tengan o hayan tenido el carácter de controladoras, los contribuyentes calcularán el costo promedio por acción de las que enajenen, considerando para los ejercicios en que aquéllas determinaron resultado fiscal consolidado, los siguientes conceptos:
+LL. Para determinar la ganancia en la enajenación de acciones emitidas por sociedades que tengan o hayan tenido el carácter de controladoras, los contribuyentes calcularán el costo promedio por acción de las que enajenen, considerando para los ejercicios en que aquéllas determinaron resultado fiscal consolidado los saldos de la cuenta de utilidad fiscal neta consolidada a que se refiere el artículo 57-H de esta Ley.
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+I.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-I.- Las utilidades o pérdidas a que se refiere el inciso a) de la fracción II del artículo 19 serán las consolidadas obtenidas por la sociedad controladora, determinadas conforme a lo dispuesto por el artículo 57-E de esta Ley.
+II.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-La utilidad fiscal consolidada incrementada con la participación de los trabajadores en las utilidades de la empresa deducida en los términos de la fracción III del artículo 25 de esta Ley, se disminuye con el impuesto sobre la renta que corresponda al resultado fiscal consolidado en el ejercicio de que se trate, sin incluir el que se pagó en los términos del artículo 10-A, la participación de los trabajadores en las utilidades de la empresa y las partidas no deducibles, de la sociedad controladora individualmente considerada y de las sociedades controladas en la proporción promedio en que la sociedad controladora participó, directa o indirectamente, en el capital social de las controladas, en el ejercicio en que obtuvo dicha utilidad.
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-II.- Los ingresos por dividendos percibidos serán los que obtuvo la controladora y las controladas, de personas morales ajenas a la consolidación, en la proporción promedio en que la sociedad controladora participe, directa o indirectamente, en su capital social, a la fecha en que se percibió el dividendo.
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-III.- Los dividendos o utilidades distribuidos en efectivo o en bienes serán los pagados por la sociedad controladora.
+III.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
@@ -2440,11 +2266,11 @@ Si en la declaración complementaria de consolidación resulta diferencia a carg
 
 Cuando se trate de declaraciones complementarias de las controladas, originadas por el dictamen a sus estados financieros, la controladora podrá presentar una sola declaración complementaria a más tardar a la fecha de presentación del dictamen relativo a la declaración de consolidación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-###### ARTICULO 57-L.
+###### Artículo 57-L.
 
-En los casos en que la sociedad controladora ejerza la opción de consolidar, deberá valuar sus acciones incorporando a su utilidad o pérdida fiscal, la parte proporcional que le corresponda de la utilidad fiscal incrementada con la participación de utilidades a los trabajadores deducida en los términos de la fracción III del artículo 25 de esta Ley o de la pérdida fiscal, disminuida, en su caso, con el impuesto sobre la renta sin incluir el que se pagó en los términos del artículo 10-A, la participación de los trabajadores en las utilidades de la empresa, que corresponda, por las acciones de sociedades residentes en el país en que la sociedad controladora y las controladas tengan la propiedad no menor del 25% ni mayor del 50% de las acciones con derecho a voto de aquellas sociedades, considerando el promedio por día que corresponda al ejercicio. Se podrá efectuar la valuación en los términos de este artículo a las acciones de las sociedades a que se refiere la fracción II del artículo 57-D de esta Ley, siempre que la sociedad controladora y las controladas tengan el 25% o más de las acciones con derecho a voto de las sociedades mencionadas. En todo caso, este método de valuación no incluirá las utilidades distribuidas a que se refiere la fracción II del artículo 19 de esta Ley. Lo dispuesto en este párrafo no se aplica a los casos previstos en el artículo 57-C de esta Ley.
+En los casos en que la sociedad controladora ejerza la opción de consolidar, deberá valuar sus acciones incorporando a su utilidad o pérdida fiscal, la parte proporcional que le corresponda de la utilidad fiscal incrementada con la participación de utilidades a los trabajadores deducida en los términos de la fracción III del artículo 25 de esta Ley o de la pérdida fiscal, disminuida, en su caso, con el impuesto sobre la renta sin incluir el que se pagó en los términos del artículo 10-A, la participación de los trabajadores en las utilidades de la empresa, que corresponda, por las acciones de sociedades residentes en el país en que la sociedad controladora y las controladas tengan la propiedad no menor del 25% ni mayor del 50% de las acciones con derecho a voto de aquellas sociedades, considerando el promedio por día que corresponda al ejercicio. Se podrá efectuar la valuación en los términos de este artículo a las acciones de las sociedades a que se refiere la fracción II del artículo 57-D de esta Ley, siempre que la sociedad controladora y las controladas tengan el 25% o más de las acciones con derecho a voto de las sociedades mencionadas. Lo dispuesto en este párrafo no se aplica a los casos previstos en el artículo 57-C de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -2478,7 +2304,7 @@ También se sumarán, en su caso, las partidas contenidas en las declaraciones d
 
 IV.- De la suma de partidas a que se refiere la fracción II de este artículo se disminuirá la suma de partidas a que se refiere la fracción anterior. Si la diferencia proviene de que las partidas de la fracción II hayan sido superiores, se sumaran para determinar la utilidad fiscal consolidada y en caso contrario se restará esa diferencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 57
 
@@ -2570,9 +2396,7 @@ VII.- Formular un estado de posición financiera y levantar inventario de existe
 
 VIII.- Presentar declaración en la que se determine el resultado fiscal del ejercicio y el monto del impuesto de este, ante las oficinas autorizadas dentro de los tres meses siguientes a la fecha en que termine dicho ejercicio. En dicha declaración también se determinarán la utilidad fiscal y el monto que corresponda a la participación de los trabajadores en las utilidades de la empresa.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-En el caso de fusión de sociedades, la sociedad que subsista o la que surja con motivo de la fusión, presentará la declaración del ejercicio de la sociedad o sociedades que desaparezcan.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 > <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -2898,7 +2722,7 @@ II.- Deberán llevar la contabilidad de conformidad con lo previsto por el Códi
 
 III.- Presentarán declaraciones provisionales en los términos del artículo 67-H de esta Ley, en lugar de efectuarlas de conformidad con lo dispuesto en la fracción VII del citado artículo 119-I de la misma.
 
-En el caso de fusión, la persona que subsista o la que se constituya con motivo de la fusión, presentará la declaración del ejercicio de la persona o personas que desaparezcan.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -2914,7 +2738,9 @@ V.- Considerarán como ejercicio irregular aquél en el que dejen de tributar co
 
 Cuando los contribuyentes dejen de cumplir con los requisitos para tributar conforme a este Título, entren en liquidación o se fusionen, estarán a lo siguiente:
 
-I.- Considerarán el capital contable actualizado que expresen en el estado de posición financiera formulado a la fecha en que dejen de pagar el impuesto conforme al régimen simplificado, adicionándole cualquier provisión no deducible conforme a esta Ley, pendiente de pago a dicha fecha y cuyo desembolso no corresponda al ejercicio a partir del cual dejan de tributar conforme al régimen simplificado, a excepción de las provisiones creadas para el pago del propio impuesto.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+I. Considerarán el capital contable actualizado que expresen en el estado de posición financiera formulado a la fecha en que dejen de pagar el impuesto conforme al régimen simplificado, adicionándole cualquier provisión no deducible conforme a esta Ley, pendiente de pago a dicha fecha y cuyo desembolso no corresponda al ejercicio a partir del cual dejen de tributar conforme al régimen simplificado, a excepción de las provisiones creadas para el pago del propio impuesto del ejercicio.
 
 Para los efectos de esta fracción, los contribuyentes podrán no considerar en su capital contable el efecto de la aplicación del método de participación a que se refieren los principios de contabilidad generalmente aceptados por sus inversiones realizadas en sus sociedades subsidiarias y asociadas en las que participen directa o indirectamente, siempre que en el saldo de la cuenta de capital de aportación que determinen en los términos de la fracción II de este artículo no se incluya dicho efecto contable.
 
@@ -3006,9 +2832,9 @@ I.- Sindicatos obreros y los organismos que los agrupen.
 
 II.- Asociaciones patronales.
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-III.- Cámaras de comercio e industria, agrupaciones agrícolas, ganaderas o pesqueras, así como los órganos que las reúnan.
+III. Cámaras de comercio e industria, agrupaciones agrícolas, ganaderas, pesqueras o silvícolas, así como los organismos que las reúnan.
 
 IV.- Colegios de profesionales y los organismos que los agrupen.
 
@@ -3248,9 +3074,9 @@ Están obligados al pago del impuesto establecido en este Título, las personas 
 
 No se consideran ingresos obtenidos por los contribuyentes, los rendimientos de bienes entregados en fideicomiso, en tanto dichos rendimientos únicamente se destinen a fines científicos, políticos o religiosos o a los establecimientos de enseñanza y a las instituciones de asistencia o de beneficencia, señalados en la fracción IV del artículo 140 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-Cuando las personas tengan deudas o créditos en moneda extranjera y obtengan ganancia cambiaria derivada de la fluctuación de dichas monedas, considerarán como ingreso la ganancia determinada conforme a lo previsto en la fracción II del artículo 133 de esta Ley.
+Cuando las personas tengan deudas o créditos en moneda extranjera y obtengan ganancia cambiaria derivada de la fluctuación de dicha moneda, considerarán como ingreso la ganancia determinada conforme a lo previsto en el artículo 134 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -3416,9 +3242,9 @@ c).- Que no se enajenen con entrega diferida de los títulos, o en general que n
 
 XXII.- Las cantidades que paguen las instituciones de seguros a los asegurados y por beneficiarios cuando ocurre el riesgo amparado por las pólizas contratadas, así como las que por dividendos, intereses o por la terminación del contrato de seguro o valor de rescate del mismo se entreguen a quien contrató el seguro o a sus beneficiarios en caso de fallecimiento del asegurado, siempre que no se trate de seguros relacionados con bienes de activo fijo.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-Lo dispuesto en el párrafo anterior no se aplicará a los dividendos o intereses que paguen las instituciones de seguros a los asegurados o a sus beneficiarios cuando dichos dividendos o intereses provengan de un contrato de seguro que haya sido pagado por el empleador en favor de sus trabajadores. En el caso de que el trabajador haya pagado parte de la prima del contrato de seguro, sólo se pagará el impuesto sobre la parte de los dividendos o intereses que éste reciba y que correspondan al porcentaje de la prima pagada por el empleador.
+Lo dispuesto en el párrafo anterior no se aplicará a los dividendos, intereses, así como a cualquier cantidad derivada de rescates o vencimientos que paguen las instituciones de seguros a los asegurados, a sus beneficiarios o a otra persona, cuando dichos pagos provengan de un contrato de seguro que haya sido pagado por el empleador en favor de sus trabajadores. En el caso de que el trabajador haya pagado parte de la prima del contrato de seguro, sólo se pagará el impuesto sobre la parte de los dividendos, intereses o de las cantidades derivadas de rescates o vencimientos que no correspondan al porcentaje de la prima pagada por el trabajador.
 
 XXIII.- Los que se reciban por herencia o legado.
 
@@ -3465,6 +3291,10 @@ b).- Cuando quien percibe estos ingresos sea socio o accionista en más del 10% 
 c).- Cuando se trata de ingresos que deriven de ideas o frases publicitarias, logotipos, emblemas, sellos distintivos, diseños o modelos industriales, manuales operativos u obras de arte aplicado.
 
 No será aplicable lo dispuesto en esta fracción cuando los ingresos se deriven de la explotación de las obras escritas o musicales de su creación en actividades empresariales distintas a la enajenación al público de sus obras, o en la prestación de servicios.
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+XXXI. Los derivados de la enajenación de inmuebles, certificados de vivienda, derechos de fideicomitente o fideicomisario que recaigan sobre inmuebles, que realicen los contribuyentes como dación en pago o adjudicación judicial o fiduciaria a contribuyentes que por disposición legal no puedan conservar la propiedad de dichos bienes. En estos casos, el adquirente deberá manifestar en el documento que se levante ante fedatario público y en el que conste la enajenación, su conformidad en determinar la utilidad que obtenga por la enajenación subsecuente que haga del bien de que se trate, considerando como fecha de adquisición del mismo y como monto original de la inversión, el que le hubiera correspondido a la persona física que enajenó el bien en los términos de esta fracción.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -4178,13 +4008,11 @@ La tasa a que se refiere la fracción II de este artículo se calculará dividie
 
 Cuando el contribuyente en un año de calendario no deduzca la parte de la pérdida a que se refiere la fracción I o no efectúe el acreditamiento a que se refiere la fracción II, de este artículo pudiéndolo haber hecho, perderá el derecho a hacerlo en años posteriores hasta por la cantidad en que pudo haberlo hecho.
 
-###### ARTICULO 98.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-El costo de adquisición será igual a la contraprestación que se haya pagado para adquirir el bien, sin incluir los intereses ni las erogaciones a que se refiere el artículo anterior; cuando el bien se adquirió a título gratuito o por fusión de sociedades, se estará a las reglas del artículo 100 de esta Ley.
+###### Artículo 98.
 
-> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+El costo de adquisición será igual a la contraprestación que se haya pagado para adquirir el bien, sin incluir los intereses ni las erogaciones a que se refiere el artículo anterior; cuando el bien se adquirió a título gratuito o por fusión o escisión de sociedades, se estará a lo dispuesto por el artículo 100 de esta ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -4220,9 +4048,9 @@ Tratándose de acciones, el costo promedio por acción se calculará conforme a 
 
 Tratándose de bienes adquiridos por herencia, legado o donación, se considerará como costo de adquisición, o costo promedio por acción según corresponda, el que haya pagado el autor de la sucesión o el donante, y como fecha de adquisición, la que hubiere correspondido a estos últimos. Cuando a su vez el autor de la sucesión o el donante hubieran adquirido a título gratuito, se aplicará la misma regla. Tratándose de la donación por la que se haya pagado el impuesto sobre la renta, se considerará como costo de adquisición o costo promedio por acción según corresponda, el valor de avalúo que haya servido para calcular dicho impuesto y como fecha de adquisición aquella en que se pagó el impuesto mencionado.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-En el caso de fusión de sociedades, se considerará como costo de adquisición de las acciones o de los certificados de aportación patrimonial de las sociedades nacionales de crédito, emitidos como consecuencia de la fusión, el que correspondió a las acciones o a los certificados de aportación patrimonial de las sociedades fusionadas.
+En el caso de fusión o escisión de sociedades, considerarán como costo comprobado de adquisición de las acciones emitidas como consecuencia de la fusión o escisión, el costo promedio por acción que correspondió a las acciones de las sociedades fusionadas o escindente, al momento de la fusión o escisión.
 
 ###### ARTICULO 101.
 
@@ -4358,6 +4186,10 @@ VIII.- La creación o incremento de reservas para fondos de pensiones o jubilaci
 
 IX.- Los intereses y la pérdida inflacionaria determinada conforme a lo dispuesto en el artículo 7o.- B de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+Tratándose de los intereses derivados de los préstamos a que se refiere la fracción III del artículo 134 de esta Ley, así como de los intereses moratorios derivados del incumplimiento de obligaciones, excepto cuando estos últimos provengan de operaciones contratadas con personas físicas que no realicen actividades empresariales, con residentes en el extranjero o con las personas morales comprendidas en el Título III de esta Ley, se deducirán hasta que se paguen en efectivo, en bienes o en servicios. El componente inflacionario de las deudas de las que deriven dichos intereses, se determinará de conformidad con lo previsto en el antepenúltimo párrafo del artículo 7o.-B de esta Ley, hasta el mes en que dichos intereses se deduzcan.
+
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 Tratándose de personas físicas residentes en el extranjero que tengan uno o varios establecimientos permanentes en el país, podrán efectuar las deducciones que correspondan a las actividades del establecimiento permanente, ya sean las erogadas en México o en cualquier otra parte, aun cuando se prorrateen con la oficina central o con sus establecimientos y se cumplan los requisitos establecidos por esta Ley o por su Reglamento.
@@ -4366,9 +4198,9 @@ Tratándose de personas físicas residentes en el extranjero que tengan uno o va
 
 La Secretaría de Hacienda y Crédito Público podrá determinar la utilidad de los establecimientos permanentes en el país de un residente en el extranjero con base en las utilidades totales de dicho residente, considerando la proporción que los ingresos o los activos de los establecimientos en México representen del total de unos u otros.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-Las compras y la deducción por inversiones las determinarán en los términos del Capítulo II, del Título II, de esta Ley.
+Las deducciones por inversiones, compras o adquisiciones, gastos y por cualquier otro concepto, las determinarán en los términos del Capítulo II del Título II de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -4424,21 +4256,17 @@ En los casos en que las deudas o créditos en moneda extranjera, se paguen o se 
 
 Cuando los ingresos por actividades empresariales obtenidos en el ejercicio sean menores a las deducciones autorizadas en este Capítulo, la diferencia será la pérdida fiscal. En este caso se estará a lo siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-I.- La pérdida fiscal ocurrida en un ejercicio podrá disminuirse de la utilidad fiscal de los cinco ejercicios siguientes.
+I. La pérdida fiscal ocurrida en un ejercicio podrá disminuirse de la utilidad fiscal de los diez ejercicios siguientes.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-En los casos en que, al término del periodo a que se refiere el párrafo anterior, no se hubiere agotado la perdida y en el ejercicio en que se generó la misma se hubiera determinado perdida contable, el contribuyente podrá disminuir el remanente de la perdida fiscal en los cinco ejercicios posteriores hasta agotarlo. El remanente que se disminuirá en los términos de este párrafo no podrá ser mayor del que se tendría de haber disminuido la perdida contable mencionada, en lugar de la fiscal.
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-Para los efectos del párrafo anterior, la perdida contable será la que resulte de aumentar al monto de la misma, el importe de la deducción inmediata de los activos fijos que se hubiera efectuado en el ejercicio, en los términos del artículo 51 de esta Ley; y de disminuir a la cantidad que se obtenga el importe de la depreciación de los activos mencionados que se haya tomado para calcular dicha perdida contable.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-Para los efectos de esta fracción, al monto de la pérdida fiscal ocurrida en un ejercicio, se actualizará multiplicándolo por el factor de actualización correspondiente al período comprendido desde el primer mes de la segunda mitad del ejercicio en que ocurrió, hasta el último mes del mismo ejercicio. La parte de la pérdida fiscal de ejercicios anteriores ya actualizada pendiente de aplicar contra utilidades fiscales se actualizará multiplicándola por el factor de actualización correspondiente al período comprendido desde el mes del cierre del ejercicio en que se actualizó por última vez y hasta el último mes del ejercicio inmediato anterior al ejercicio en que se aplicará.
+Para los efectos de esta fracción, el monto de la pérdida fiscal ocurrida en un ejercicio, se actualizará multiplicándolo por el factor de actualización correspondiente al periodo comprendido desde el primer mes de la segunda mitad del ejercicio en que ocurrió, hasta el último mes del mismo ejercicio. La parte de la pérdida fiscal de ejercicios anteriores ya actualizada pendiente de aplicar contra utilidades fiscales se actualizará multiplicándola por el factor de actualización correspondiente al periodo comprendido desde el mes en que se actualizó por última vez y hasta el último mes de la primera mitad del ejercicio en el que se aplicará.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -5022,7 +4850,9 @@ Cuando los contribuyentes a que se refiere esta Sección se dediquen a actividad
 
 Cuando los contribuyentes dejen de cumplir con los requisitos para tributar conforme a esta Sección, reduzcan su capital, dejen de realizar actividades empresariales u opten por pagar el impuesto conforme a la Sección I de este Capítulo, estarán a lo siguiente:
 
-I.- Considerarán el capital contable actualizado que expresen en el estado de posición financiera formulado a la fecha en que dejen de pagar el impuesto conforme al régimen simplificado a las actividades empresariales o reduzcan su capital, adicionándole cualquier provisión no deducible conforme a esta Ley, pendiente de pago a dicha fecha y cuyo desembolso no corresponda al ejercicio a partir del cual dejan de tributar conforme al citado régimen, a excepción de las provisiones creadas para el pago del propio impuesto.
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+I. Considerarán el capital contable actualizado que expresen en el estado de posición financiera formulado a la fecha en que dejen de pagar el impuesto conforme al régimen simplificado a las actividades empresariales o reduzcan su capital, adicionándole cualquier provisión no deducible conforme a esta Ley, pendiente de pago a dicha fecha y cuyo desembolso no corresponda al ejercicio a partir del cual dejen de tributar conforme al citado régimen, a excepción de las provisiones creadas para el pago del propio impuesto del ejercicio.
 
 II.- Constituirán la cuenta de capital de aportación con el capital inicial a la fecha en que inicie el ejercicio en que se comience a pagar el impuesto conforme a esta Sección, adicionada con las aportaciones de capital y disminuida con las reducciones de capital que se efectúen.
 
@@ -5092,15 +4922,65 @@ c).- Los contribuyentes cuya primera letra del registro federal de contribuyente
 
 II.- Las declaraciones a que se refiere la fracción anterior se presentarán en el mes que corresponda y a más tardar en el día cuyo número sea igual al del nacimiento del contribuyente. Cuando el día a que se refiere esta fracción sea el 29, 30 ó 31 y el mes de que se trate no contenga dicho día, el pago se efectuará el último día del mes.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-#### SECCION I. De las Deducciones en General
+#### SECCION III. De las Personas que Realicen Operaciones Exclusivamente con el Público en General
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 119-M.
+
+Las personas físicas con actividades empresariales que únicamente enajenen bienes o presten servicios al público en general, siempre que en el año de calendario anterior hayan obtenido ingresos por estas actividades y tenido o utilizado activos que no excedan, respectivamente, de una cantidad equivalente a 77 y 15 veces el salario mínimo general del área geográfica del contribuyente elevado al año, en lugar de aplicar lo dispuesto en las Secciones I o II de este Capítulo, podrán optar por pagar el impuesto sobre la renta que se cause por sus actividades empresariales, en los términos establecidos en esta Sección.
+
+Los contribuyentes que inicien actividades podrán optar por pagar el impuesto conforme a lo establecido en esta Sección, cuando los ingresos que obtengan y los activos que utilicen en el ejercicio no excedan de los límites a que se refiere el párrafo anterior.
+
+Cuando el contribuyente con anterioridad a la fecha en que ejerza la opción a que se refiere el primer párrafo de este artículo, hubiera venido pagando el impuesto conforme a las Secciones I o II de este Capítulo, deberá conservar la contabilidad que llevaba hasta la fecha en que ejerza la referida opción, por el plazo previsto en el artículo 30 del Código Fiscal de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 119-N.
+
+Las personas físicas que paguen el impuesto en los términos de esta Sección, calcularán el impuesto que les corresponda en los términos de la misma, aplicando el 2.5% al total de los ingresos que obtengan por su actividad empresarial sin deducción alguna.
+
+Para los efectos de la participación de los trabajadores en las utilidades de las empresas, la renta gravable a que se refiere el inciso e) de la fracción IX del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 120 de la Ley Federal del Trabajo, será la cantidad que resulte de multiplicar por el factor de 2.94 el impuesto sobre la renta que resulte a cargo del contribuyente.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 119
 
-BIS.- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
+Ñ. Los contribuyentes sujetos al régimen previsto en esta Sección, tendrán las obligaciones siguientes:
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+I. Solicitar su inscripción en el Registro Federal de Contribuyentes.
+
+II. Presentar aviso a más tardar el 31 de marzo del ejercicio en el que comiencen a pagar el impuesto conforme a esta Sección o en los 15 días siguientes al inicio de operaciones. Asimismo cuando dejen de pagar el impuesto conforme a la misma, deberán presentar aviso ante la autoridad administradora que corresponda dentro de los quince días siguientes a la fecha en que se dé dicho supuesto, mismo que surtirá sus efectos a partir del mes siguiente a aquél en que se presente.
+
+Una vez ejercida la opción mediante la presentación del aviso a que se refiere esta fracción, se considerará que el contribuyente la continúa ejerciendo, hasta en tanto no presente aviso a la misma autoridad señalando que cambia su opción o deje de estar en los supuestos para ejercerla. Cuando el contribuyente que hubiera optado por ejercer la opción prevista en este artículo, presente aviso para dejar de ejercerla, en ningún caso podrá volver a ejercerla posteriormente.
+
+III. Conservar los comprobantes de las adquisiciones que efectúen mismos que deben reunir requisitos fiscales de conformidad con lo previsto por el Código Fiscal de la Federación.
+
+IV. Presentar declaraciones cuatrimestrales en los meses de mayo, septiembre y enero en las que determinarán el impuesto causado en el cuatrimestre anterior, mismo que tendrá el carácter de definitivo.
+
+V. No realizar actividades mediante asociación en participación.
+
+Los contribuyentes que habiendo ejercido la opción prevista en esta Sección la cambien, a partir de la fecha del cambio de opción, deberán cumplir las obligaciones previstas en las fracciones II a VIII del artículo 112 o 119-I de esta Ley, según sea el caso.
+
+Los contribuyentes que paguen el impuesto en los términos de esta Sección, se considera que cambian su opción para pagar el impuesto en los términos de las Secciones I o II de este Capítulo, cuando expidan comprobantes de los ingresos que obtengan en sus actividades empresariales, en los que se consigne el nombre, denominación o razón social y domicilio de la persona a favor de quien se expidan o trasladen en dichos comprobantes el impuesto al valor agregado en forma expresa o por separado del precio del bien enajenado o del servicio prestado.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 119-O.
+
+Los contribuyentes que en los términos del artículo anterior hubieran cambiado su opción o ya no reúnan los requisitos para tributar en esta Sección, pagarán el impuesto conforme a las Secciones I o II de este Capítulo, y considerarán como fecha de inicio del ejercicio para efectos del pago del impuesto conforme a dichas Secciones, aquélla en que se dé dicho supuesto.
+
+Los pagos provisionales que les corresponda efectuar en el primer ejercicio conforme a la Sección I, cuando hubieran optado por pagar el impuesto en los términos de la misma, los podrán efectuar aplicando al total de sus ingresos del periodo sin deducción alguna el 2.5% o bien, considerando como coeficiente de utilidad el que corresponda a su actividad preponderante en los términos del artículo 62 de esta Ley.
+
+Los contribuyentes a que se refiere el primer párrafo de este artículo, a partir de la fecha en que comiencen a tributar en la Sección I, podrán deducir las inversiones realizadas durante el tiempo que estuvieron tributando en la presente Sección.
+
+Tratándose de bienes de activo fijo a que se refiere el párrafo anterior, la inversión pendiente de deducir se determinará restando al monto original de la inversión, la cantidad que resulte de multiplicar dicho monto por la suma de los por cientos máximos autorizados por esta Ley para deducir la inversión de que se trate, que correspondan a los ejercicios en los que el contribuyente haya tenido dichos activos.
+
+En el primer ejercicio que paguen el impuesto conforme a la Sección I de este Capítulo, al monto original de la inversión de los bienes, se le aplicará el por ciento que señale la Ley para el bien de que se trate, en la proporción que representen, respecto de todo el ejercicio, los meses transcurridos a partir de que se pague el impuesto conforme a la Sección I.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ### CAPITULO VII. De los Ingresos por Dividendos y en General por las Ganancias Distribuidas por Personas Morales
 
@@ -5192,7 +5072,7 @@ En el caso de escisión de sociedades, no será aplicable lo dispuesto en este a
 
 Para los efectos de este artículo, el capital contable deberá actualizarse conforme a los principios de contabilidad generalmente aceptados, cuando la persona utilice dichos principios para integrar su contabilidad; en caso contrario, el capital contable deberá actualizarse conforme a las reglas que para el efecto expida la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 122.
 
@@ -5207,6 +5087,54 @@ Contra el impuesto que se determine en la declaración anual, las personas físi
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 La opción prevista en este artículo no será aplicable tratándose de contribuyentes que perciban dividendos o utilidades distribuidos por contribuyentes que se ubiquen en los supuestos a que se refiere el artículo 13 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 123.
+
+Las personas morales que hagan los pagos por concepto de dividendos o utilidades a personas físicas o morales, tendrán las siguientes obligaciones:
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+I. Efectuar los pagos con cheque nominativo no negociable del contribuyente expedido a nombre del accionista o a través de transferencias de fondos reguladas por el Banco de México.
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+II.- Efectuar, tratándose de reducción de capital, el cálculo de la utilidad distribuida por acción determinada conforme a la fracción II del artículo 120 de esta Ley, considerando el saldo de la cuenta de utilidad fiscal neta por acción. Dicho saldo se determinará dividiendo el saldo de la cuenta de utilidad fiscal neta que tuviera la persona moral al momento de la reducción, entre el total de acciones de la misma persona a la fecha del reembolso, incluyendo las correspondientes a la reinversión o capitalización de utilidades, o de cualquier otro concepto que integre el capital contable de la misma.
+
+En el caso de las utilidades distribuidas que se determinen en los términos del artículo 121 de esta Ley, el impuesto que corresponda se calculará y enterará en los términos del artículo referido.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Para los efectos del tercer párrafo del artículo 124 de esta Ley, el impuesto a que se refiere el párrafo anterior no se restará del resultado fiscal de la persona moral que haga los pagos.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+No se efectuará entero alguno cuando los dividendos o utilidades provengan del saldo de la referida cuenta.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+El impuesto a que se refiere esta fracción se enterará conjuntamente con el pago provisional del mes que corresponda una vez transcurridos 30 días de la fecha en que se hizo el pago de dividendos o utilidades, ante las oficinas autorizadas. En los supuestos a que se refieren las fracciones IV, V y VI del artículo 120 de esta Ley, el impuesto que determine la persona moral conforme a este artículo, se enterará a más tardar en la fecha en que se presente o debió presentarse la declaración del ejercicio correspondiente.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Tratándose de reducción de capital de personas morales, el impuesto que corresponda en los términos de esta fracción a la utilidad distribuida por acción determinada conforme a la fracción II del artículo 120 de esta Ley, se calculará considerando el saldo de la cuenta de utilidad fiscal neta por acción. Este saldo se determinará dividiendo el saldo de la cuenta de utilidad fiscal neta que tuviera la persona moral al momento de la reducción, entre el total de acciones de la misma persona a la fecha del reembolso, incluyendo las correspondientes a la reinversión o capitalización de utilidades o de cualquier otro concepto que integre el capital contable de la misma.
+
+Tratándose de las utilidades distribuidas que se determinen en los términos del artículo 121 de esta Ley, el impuesto que corresponda se calculará y enterará en los términos del artículo referido.
+
+El impuesto retenido en los términos de este artículo por dividendos o utilidades que se paguen a personas morales a que se refieren los Títulos II y III de esta Ley, se considerará pago definitivo y los ingresos sobre los cuales se calcule la retención no serán acumulables.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+No serán ingresos acumulables para los accionistas personas físicas o morales los que obtengan por concepto de dividendos o utilidades.
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+III.- Presentar ante las oficinas autorizadas en el mes de febrero de cada año, declaración proporcionando los datos de identificación que correspondan a los accionistas a quienes en el año de calendario anterior les efectuaron pagos por dichos conceptos, señalando su monto.
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+IV.- Proporcionar a las personas a quienes les efectúen pagos por los conceptos a que se refiere este artículo, constancia en la que se señale su monto.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -5231,20 +5159,6 @@ III.- Presentar ante las oficinas autorizadas en el mes de febrero de cada año,
 IV.- Proporcionar a las personas a quienes les efectúen pagos por los conceptos a que se refiere este artículo, constancia en la que se señale su monto.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-###### ARTICULO 123.
-
-.............................................
-
-I.- .........................................................
-
-II.- Retener en todos los casos en el momento de hacer los pagos de dividendos o utilidades, la cantidad que resulte de aplicar el 55% al total del dividendo o utilidad pagado, adicionado, en su caso, con el impuesto acreditable que le corresponda en los términos del segundo párrafo del artículo 121 de esta Ley y de restarle el mismo impuesto acreditable. No procederá efectuar el acreditamiento para los fines de retención en los casos a que se refiere el último párrafo del artículo 121 de esta Ley.
-
-En el caso de reembolso de acciones que se hubieran entregado por concepto de capitalización de reservas, pago de utilidades o por reinversión de utilidades en el pago de aumento de capital en la misma sociedad, la retención se deberá efectuar sobre el total del reembolso, adicionado con el impuesto acreditable que resulte en los términos del segundo párrafo del artículo 121 de esta Ley. Cuando se trate de acciones adquiridas de un tercero, la retención se podrá calcular sobre el monto del reembolso, adicionado con el impuesto acreditable de referencia y disminuido su resultado con el costo de adquisición, si se cumple con los requisitos de información y control que establezca el reglamento de esta Ley y siempre que, en el caso de las acciones a que se refiere el último párrafo del artículo 120 de la misma, se haya adicionado el valor nominal de conformidad con dicho párrafo. En los casos en que la acción provenga en parte de aportación, no se efectuará la retención sobre el monto de la aportación respectiva.
-
-Tratándose de los dividendos o utilidades a que se refieren las fracciones IV, V, VI y VII del artículo 120 de esta Ley, el impuesto retenido disminuido en su caso con el impuesto acreditable, se enterará ante las oficinas autorizadas dentro de los 30 días siguientes a aquél en que se entreguen al accionista o al día del cierre del ejercicio al que corresponda, lo que ocurra primero, en los demás casos el entero se deberá hacer dentro de los 30 días siguientes a aquél en que se efectúen los pagos.
-
-III.- ......................................................
 
 ###### ARTICULO 124.
 
@@ -5310,15 +5224,21 @@ Quienes paguen los ingresos señalados en el artículo anterior están obligados
 
 I.- A la tasa del 20% sobre los diez primeros puntos porcentuales de los intereses pagados. Se libera de la obligación de retener a que se refiere esta fracción a quienes hagan el pago de intereses señalados en la fracción III del artículo 125 de esta Ley.
 
-Tratándose de los títulos de crédito a que se refiere el artículo 125, fracción III de esta Ley, que se enajenen con intervención de casas de bolsa, el impuesto se retendrá por dichas casas de bolsa y será del 20% sobre los primeros diez puntos porcentuales.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+Tratándose de los títulos de crédito a que se refiere el artículo 125 fracción III de esta Ley, que se enajenen con intervención de instituciones de crédito o casas de bolsa, el impuesto se retendrá por dichas instituciones de crédito o casas de bolsa y será del 20% sobre los primeros diez puntos porcentuales.
 
 > <small>(ADICIONADA, D.O.F. 1 DE ABRIL DE 1995)</small>
 
 II.- A la tasa del 15% sobre los intereses que se paguen, cuando los créditos, deudas u operaciones de los cuales deriven estén denominados en unidades de inversión. Se libera de la obligación de retener a que se refiere esta fracción a quienes hagan el pago de intereses señalados en la fracción III del artículo 125 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-Tratándose de los títulos de crédito a que se refiere el artículo 125, fracción III de esta Ley denominados en unidades de inversión que se enajenen con intervención de casas de bolsa, el impuesto se retendrá por dichas casas de bolsa y será del 15% sobre los intereses que se paguen.
+Tratándose de los títulos de crédito a que se refiere el artículo 125 fracción III de esta Ley denominados en unidades de inversión que se enajenen con intervención de instituciones de crédito o casas de bolsa, el impuesto se retendrá por dichas instituciones de crédito o casas de bolsa y será del 15% sobre los intereses que se paguen.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+Los intermediarios financieros a que se refiere el párrafo anterior no estarán obligados a efectuar la retención, cuando los títulos mencionados se depositen en una institución de crédito o casa de bolsa, distinta de la que intervino en su adquisición, o en una institución para el depósito de valores a que se refiere la Ley del Mercado de Valores, para su custodia y administración, siempre que proporcionen a estas últimas la información que establezca el Reglamento de esta Ley para que estas instituciones o casas de bolsa efectúen la retención del impuesto por los ingresos que se deriven de dichos títulos, en cuyo caso, quienes paguen los ingresos no estarán obligados a efectuar la retención.
 
 > <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 1995)</small>
 
@@ -5468,23 +5388,51 @@ c) Si la adjudicación se hace a un tercero, se consideran intereses vencidos la
 
 Para los efectos de esta fracción las autoridades fiscales podrán tomar como valor de los bienes el del avalúo que ordenen practicar o el valor que haya servido de base para la primera almoneda.
 
-> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 1995)</small>
-
-El monto de los intereses y la ganancia cambiaria acumulables que se perciban en los términos de este Capítulo se podrá determinar de conformidad con lo previsto en el artículo 7o-B de esta Ley y no será deducible la pérdida inflacionaria que, en su caso, se obtenga. Tratándose de créditos, deudas u operaciones que se encuentren denominados en unidades de inversión no será acumulable, para efectos de este Capítulo, el ajuste que se realice al principal por el hecho de estar denominados en las citadas unidades, siempre que se cumplan con las condiciones que, en su caso, establezca la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 II.- El perdón total o parcial del capital o de los intereses adeudados, cuando el acreedor (sic) derechos en contra del deudor, da lugar al pago del impuesto por parte del deudor sobre el capital y los intereses perdonados.
 
-> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 1995)</small>
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+III. Cuando provengan de créditos o préstamos otorgados a residentes en México, serán acumulables cuando se cobren en efectivo, en bienes o en servicios.
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+IV. Cuando provengan de depósitos efectuados en el extranjero, o de créditos o préstamos otorgados a residentes en el extranjero, serán acumulables conforme se devenguen.
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+V. Tratándose de créditos, deudas u operaciones que se encuentren denominados en unidades de inversión no será acumulable el ajuste que se realice al principal, siempre que se cumplan con las condiciones que, en su caso, establezca la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+El monto de los intereses y la ganancia cambiaria acumulables que se perciban en los términos de este artículo, se determinará de conformidad con lo previsto en el artículo 7o.-B de esta Ley. En el caso de la fracción III de este artículo, el componente inflacionario de los créditos o deudas de los que se derivan los intereses y ganancia cambiaria, se calculará en los términos del antepenúltimo párrafo del citado artículo 7o.-B, hasta el mes, inclusive, en que dichos intereses se acumulen.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+Los intereses que se deriven de los créditos, deudas u operaciones a que se refiere la fracción V de este artículo, serán acumulables sin ajuste alguno.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+Cuando el contribuyente tenga pérdida cambiaria o inflacionaria en el ejercicio, la misma podrá disminuirse de la ganancia cambiaria o de los intereses acumulables, que perciba en los términos de este Capítulo en los cinco ejercicios posteriores a aquél en que hubiera sufrido la pérdida.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+Si el contribuyente no disminuye en un ejercicio la pérdida cambiaria o la pérdida inflacionaria, de otros ejercicios, pudiéndolo haber hecho conforme a este artículo, perderá el derecho a hacerlo en ejercicios posteriores hasta por la cantidad en que pudo haberlo efectuado.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+Para los efectos de este Capítulo, el monto de la pérdida cambiaria o inflacionaria obtenida y no disminuida en un ejercicio, se actualizará multiplicándolo por el factor de actualización correspondiente al período comprendido desde el primer mes de la segunda mitad del ejercicio en que se obtuvo, hasta el último mes del mismo ejercicio. La parte de la pérdida cambiaria o inflacionaria de ejercicios anteriores ya actualizada pendiente de disminuir contra los intereses o la ganancia cambiaria, se actualizará multiplicándola por el factor de actualización correspondiente al período comprendido desde el mes de diciembre del ejercicio en que se actualizó por última vez y hasta el mes de diciembre del ejercicio inmediato anterior a aquel en que se aplicará.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 134-A.
 
-Los contribuyentes que obtengan ingresos de los señalados en el artículo 134 de esta ley, en forma periódica o esporádica, efectuarán pagos provisionales a cuenta del impuesto anual aplicando la tarifa del artículo 80 de esta Ley, a los ingresos obtenidos en el mes, sin deducción alguna. Cuando se trate de créditos, deudas u operaciones que se encuentren denominados en unidades de inversión, o cuando los contribuyentes opten por determinar los intereses y la ganancia cambiaria acumulables que se perciban en los términos de este Capítulo, de conformidad con lo previsto en el artículo 7o.-B de esta Ley, cubrirán como pago provisional a cuenta del impuesto anual el que resulte de aplicar la tarifa del referido artículo 80, a los intereses y la ganancia cambiaria acumulables obtenidos en el mes, ya sea que el ingreso se haya percibido en forma periódica o esporádica o, podrán optar por cubrir como pago provisional el 35% sobre los intereses y la ganancia cambiaria acumulables siempre que el ingreso se perciba en forma esporádica.
+Los contribuyentes que obtengan ingresos de los señalados en el artículo 134 de esta Ley, por los mismos efectuarán dos pagos provisionales semestrales a cuenta del impuesto anual excepto por los comprendidos en la fracción IV del citado artículo, dichos pagos se enterarán en los meses de julio del mismo ejercicio y enero del año siguiente a aquel en que termine el segundo semestre, aplicando a los ingresos acumulables obtenidos en el semestre, la tarifa que se determine tomando como base la tarifa del artículo 80 de la Ley citada, sumando las cantidades correspondientes a las columnas relativas al límite inferior, límite superior y cuota fija, que en los términos de dicho artículo resulten para cada uno de los meses comprendidos en el semestre por el que se efectúa el pago, pudiendo acreditar en su caso, contra el impuesto a cargo, las retenciones que les hubieran efectuado en el periodo de que se trate. La Secretaría de Hacienda y Crédito Público realizará las operaciones aritméticas previstas en este párrafo y publicará la tarifa correspondiente en el Diario Oficial de la Federación.
 
-En el supuesto de que los ingresos a que se refiere este artículo los obtengan los contribuyentes en forma periódica, efectuarán pagos provisionales mensuales a cuenta del impuesto anual, a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda, mediante declaración que presentarán ante las oficinas autorizadas, cuando los ingresos a que se refiere este artículo los obtenga el contribuyente en forma esporádica, el pago provisional se hará mediante declaración que presentarán ante las citadas oficinas dentro de los quince días siguientes a la obtención del ingreso.
+Cuando los ingresos a que se refiere este artículo se obtengan por pagos que efectúen las personas a que se refieren los Títulos II, II-A y III de esta Ley, dichas personas deberán retener como pago provisional el 35% sobre el monto de los intereses y la ganancia cambiaria acumulables.
 
-Cuando los ingresos a que se refiere este artículo se obtengan por pagos que efectúen las personas morales a que se refieren los títulos II, II-A y III de esta Ley, dichas personas deberán retener como pago provisional el 20% sobre el monto de los mismos sin deducción alguna. Cuando se trate de créditos, deudas u operaciones que se encuentren denominados en unidades de inversión, o cuando las personas que obtengan los intereses y la ganancia cambiaria previstos en el artículo 134 de esta Ley les comuniquen a las personas que les efectúen el pago de los mismos que optan por acumularlos de conformidad con lo previsto en el artículo 7o.-B de esta Ley, la retención se efectuará aplicando el 35% sobre el monto de los intereses y la ganancia cambiaria acumulables que se perciban en los términos de este Capítulo. Las personas que hagan la retención en los términos de este párrafo deberán proporcionar a los contribuyentes constancia de la retención. Dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas en el artículo 80 de la propia Ley.
-
-Contra los pagos provisionales que los contribuyentes determinen conforme a lo dispuesto por este artículo, podrán acreditarse las cantidades retenidas en los términos del párrafo anterior.
+Las personas que hagan la retención en los términos de este artículo, deberán proporcionar a los contribuyentes constancia de la retención. Dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas en el artículo 80 de la propia Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ABRIL DE 1995)</small>
 
@@ -5679,6 +5627,10 @@ VI.- Las sanciones, indemnizaciones por daños y perjuicios o penas convencional
 VII.- Los salarios, comisiones y honorarios pagados por quien concede el uso o goce temporal de inmuebles en un año de calendario, en el monto en que excedan, en su conjunto, del 10% de los ingresos anuales obtenidos por conceder el uso o goce temporal de inmuebles.
 
 VIII.- Los intereses pagados por el contribuyente que correspondan a inversiones de las que no se estén derivando ingresos acumulables por los que se pueda efectuar esta deducción.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+En el caso de capitales tomados en préstamo para la adquisición de inversiones o realización de gastos o cuando las inversiones o gastos se efectúen a crédito, y dichas inversiones o gastos no sean deducibles para los efectos de esta Ley, los intereses que se deriven de los capitales tomados en préstamo o de las operaciones a crédito, tampoco serán deducibles. Si las inversiones o gastos fueran parcialmente deducibles, los intereses sólo serán deducibles en esa proporción, incluso los determinados conforme a lo previsto en el artículo 7o.-B de esta Ley.
 
 Para efectos de lo dispuesto en esta fracción se considera pago de interés las cantidades que por concepto de impuestos o derechos o que por cualquier otro concepto se paguen por cuenta de quien obtiene el interés, o bien cualquier otro pago en efectivo o en especie que se haga por cualquier concepto a quien perciba el interés, siempre que dicho pago derive del mismo contrato que dio origen al pago de intereses.
 
@@ -6218,11 +6170,11 @@ Cuando en las enajenaciones que se consignen en escritura pública se pacte que 
 
 A.- (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-###### Artículo 151.
+###### ARTICULO 151.
 
-Tratándose de la enajenación de acciones o de títulos valor que representen la propiedad de bienes, se considerará que la fuente de riqueza se encuentra ubicada en territorio nacional, cuando sea residente en México la persona que los haya emitido o cuando el valor contable de dichas acciones provenga en más de un 50% de bienes inmuebles ubicados en el país.
+Tratándose de la enajenación de acciones o de títulos valor que representen la propiedad de bienes, se considerará que la fuente de riqueza se encuentra ubicada en territorio nacional, cuando sea residente en México la persona que los haya emitido o cuando el valor contable de dichas acciones o títulos valor provenga en más de un 50% de bienes inmuebles ubicados en el país.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -6237,6 +6189,14 @@ La retención deberá efectuarse por el adquirente si éste es residente en el p
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 Los contribuyentes que tengan representante en el país que reúna los requisitos establecidos en el artículo 160 de esta Ley podrán optar por aplicar la tasa de 30% sobre la ganancia obtenida que se determinará conforme a lo señalado en el Capítulo IV del Título IV de esta Ley, sin deducir las pérdidas a que se refiere el último párrafo del artículo 97 de la misma. En este caso el representante calculará el impuesto que resulte y lo enterará mediante declaración en la oficina autorizada que corresponda a su domicilio dentro de los quince días siguientes a la obtención del ingreso.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+Los contribuyentes que ejerzan la opción a que se refieren los párrafos anteriores deberán presentar un dictamen formulado por contador público registrado ante las autoridades fiscales conforme a las reglas que señale el Reglamento de esta Ley, en el que se indique que el cálculo del impuesto está de acuerdo con las disposiciones fiscales.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+Cuando el contador público no de cumplimiento a lo dispuesto en este artículo, se hará acreedor de las sanciones previstas en el Código Fiscal de la Federación.
 
 > <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -6366,7 +6326,9 @@ También se considera que la fuente de riqueza se encuentra en territorio nacion
 
 Para los efectos de este artículo se consideran intereses, cualquiera que sea el nombre con que se les designe, los rendimientos de créditos de cualquier clase, con o sin garantía hipotecaria y con derecho o no a participar en los beneficios; los rendimientos de la deuda pública, de los bonos u obligaciones incluyendo primas y premios asimilados a los rendimientos de tales valores, así como descuentos por la colocación de títulos valor, bonos u obligaciones; las comisiones o pagos que se efectúen con motivo de apertura o garantía de créditos; los pagos que se realicen a un tercero con motivo de la aceptación de un aval, del otorgamiento de una garantía o de la responsabilidad de cualquier clase. Asimismo, se considerarán intereses la prima o ganancia que se derive de enajenaciones a futuro de monedas extranjeras, salvo que estén vinculadas con la exportación o importación de bienes tangibles, distintos de moneda extranjera así como la ganancia que derive de la enajenación de los documentos señalados en la fracción III del artículo 125 de esta Ley. También se consideran intereses, los ajustes que se realicen mediante la aplicación de índices, factores o de cualquier otra forma, inclusive los ajustes que se realicen al principal por el hecho de que los créditos u operaciones estén denominados en unidades de inversión.
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+Para los efectos de este artículo se le dará el tratamiento de intereses a la ganancia derivada de los derechos de crédito, que sean a favor de residentes en México o establecimientos permanentes o bases fijas de residentes en el extranjero, adquiridos por residentes en el extranjero.
 
 El impuesto se calculará aplicando a los intereses que obtenga el contribuyente, sin deducción alguna, la tasa que en cada caso se menciona:
 
@@ -6390,6 +6352,18 @@ c).- Entidades que coloquen o inviertan en el país capital que provenga de tít
 
 Lo dispuesto en esta fracción también será aplicable a los intereses pagados a residentes en el extranjero provenientes de los títulos de crédito que se encuentren en alguno de los supuestos a que se refiere el artículo 125 de esta Ley, así como a los colocados en el extranjero a través de bancos o casas de bolsa, siempre que los documentos en los que conste la operación de financiamiento correspondiente se encuentren inscritos en la Sección Especial del Registro Nacional de Valores e Intermediarios. Asimismo, lo previsto en esta fracción será aplicable a los ingresos que provengan de operaciones financieras derivadas de deuda, siempre que cumplan con los requisitos que establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
 
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+Para los efectos de lo dispuesto en el párrafo anterior, la retención del impuesto por los intereses obtenidos de los títulos de crédito mencionados en el artículo 125 de la presente Ley que se enajenen con la intervención de las instituciones de crédito o casas de bolsa se efectuará por dichas instituciones de crédito o casas de bolsa. En este caso, el emisor de dichos títulos quedará liberado de efectuar la retención.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+Los intermediarios financieros a que se refiere el párrafo anterior no estarán obligados a efectuar la retención antes referida, cuando los títulos mencionados se depositen en una institución de crédito o casa de bolsa, distinta de la que intervino en su adquisición, o en una institución para el depósito de valores a que se refiere la Ley del Mercado de Valores, para su custodia y administración, siempre que proporcionen a estos últimos la información que establezca el Reglamento de esta Ley para que estas instituciones o casas de bolsa efectúen la retención del impuesto por los ingresos que se deriven de dichos títulos, en cuyo caso, quienes paguen los ingresos no estarán obligados a efectuar la retención.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+Los intereses a que se refiere esta fracción podrán estar sujetos a una tasa de 4.9 %, siempre que los beneficiarios efectivos sean residentes de un país con el que se encuentre en vigor un tratado para evitar la doble tributación y se cumplan los requisitos previstos en dicho tratado para aplicar las tasas que en el mismo se prevean para este tipo de intereses.
+
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 II.- 21%, a los intereses de los siguientes casos:
@@ -6403,6 +6377,10 @@ c).- Los pagos a proveedores del extranjero por enajenación de maquinaria y equ
 d).- Los pagados a residentes en el extranjero para financiar la adquisición de los bienes a que se refiere el inciso anterior y en general para habilitación y avío o comercialización, siempre que cualquiera de estas circunstancias se haga constar en el contrato y se trate de sociedades registradas para este efecto en la Secretaría de Hacienda y Crédito Público.
 
 Cuando los intereses a que se refiere esta fracción sean pagados por instituciones de crédito a los sujetos mencionados en la fracción I, se aplicará la tasa a que se refiere esta última fracción.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+Los intereses a que se refiere esta fracción, podrán estar sujetos a una tasa de 10%, siempre que los beneficiarios efectivos sean residentes de un país con el que se encuentre en vigor un tratado para evitar la doble tributación y se cumplan los requisitos previstos en dicho tratado para aplicar las tasas que en el mismo se prevean para este tipo de intereses.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -6453,6 +6431,10 @@ IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1988)
 En los ingresos por arrendamiento financiero se considerará que la fuente de riqueza se encuentra en territorio nacional, cuando los bienes se utilicen en el país, o cuando los pagos que se efectúen al extranjero se deduzcan total o parcialmente, por un establecimiento permanente o base fija en el país, aun cuando el pago se efectúe a través de cualquier establecimiento en el extranjero. Salvo prueba en contrario, se presume que los bienes se utilizan en el país, cuando quien use o goce el bien sea residente en el mismo, o residente en el extranjero con establecimiento permanente o base fija en el país.
 
 El impuesto se calculará aplicando la tasa del 15% a la cantidad que se hubiere pactado como interés en el contrato respectivo, debiendo efectuar la retención las personas que hagan los pagos.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+La tasa a que se refiere el párrafo anterior podrá ser de 10%, siempre que el beneficiario efectivo de los intereses sea residente de un país con el que se encuentre en vigor un tratado para evitar la doble tributación y se cumplan los requisitos previstos en dicho tratado para aplicar las tasas que en el mismo se prevean para este tipo de intereses.
 
 > <small>(REFORMADO PRIMER PARRARFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -6546,17 +6528,13 @@ El representante a que se refiere este Título, deberá ser residente en el paí
 
 Cuando el adquirente o el prestatario de la obra asuman la responsabilidad solidaria, el representante dejará de ser solidario; en este caso el responsable solidario tendrá la disponibilidad de los documentos a que se refiere este artículo, cuando las autoridades fiscales ejerciten sus facultades de comprobación.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-En los casos de enajenación de acciones o partes sociales, el representante dejará de ser responsable solidario, cuando el contador público registrado ante las autoridades fiscales, presente un dictamen formulado conforme a las reglas que señale el reglamento de esta Ley, en el que indique que el cálculo del impuesto está de acuerdo con las disposiciones fiscales.
+> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-Cuando el contador público no dé cumplimiento a lo dispuesto en este artículo, se hará acreedor de las sanciones previstas en el Código Fiscal de la Federación.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-El representante a que se refiere este artículo dará aviso de su designación a las autoridades fiscales dentro de los quince días siguientes a la misma. Cuando en este Título esté previsto que haya representante, y exhiba copia de su designación y del aviso a que se refiere este párrafo, el retenedor quedará librado de efectuar la retención.
+El representante a que se refiere este artículo dará aviso de su designación a las autoridades fiscales dentro de los quince días siguientes a la misma. Cuando en este Título esté previsto que haya representante, y exhiba copia de su designación y del aviso a que se refiere este párrafo, el retenedor quedará liberado de efectuar la retención cuando el aviso de designación se realice en tiempo.
 
 ###### ARTICULO 161.
 
@@ -6728,7 +6706,7 @@ BIS.- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-#### SECCION II. Del Costo
+#### SECCION I. De las Deducciones en General
 
 ###### ARTICULO 22
 
@@ -6760,7 +6738,7 @@ BIS.- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-#### SECCION III. De las Inversiones
+#### SECCION II. Del Costo
 
 ###### ARTICULO 29
 
@@ -6812,7 +6790,7 @@ BIS.- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-#### SECCION IV. De las Deducciones para Instituciones de Crédito, de Seguros y de Fianzas
+#### SECCION III. De las Inversiones
 
 ###### ARTICULO 41
 
@@ -6860,7 +6838,7 @@ BIS.- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-#### SECCION II. Disposiciones con vigencia a partir del año de 1986
+#### SECCION IV. De las Deducciones para Instituciones de Crédito, de Seguros y de Fianzas
 
 ###### ARTICULO 52
 
@@ -7041,6 +7019,12 @@ BIS.- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 ###### ARTICULO 118
 
 BIS.- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
+
+###### ARTICULO 119
+
+BIS.- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ## TITULO VIII. Del Mecanismo de Transición del Impuesto sobre la Renta a las Actividades Empresariales
 
@@ -8733,6 +8717,8 @@ Tratándose del ejercicio de iniciación de operaciones que hubiera comenzado du
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1985, excepto lo establecido por los Artículos Décimo y Décimo Primero que comenzarán a regir a partir del día 1o. de enero de 1986; Décimo Segundo que entrará en vigor el 1o. de julio de 1985; Vigésimo, en lo relativo a las adiciones y reformas a la Sección Cuarta, Capítulo VIII, Título I de la Ley Federal de Derechos, que regirán a partir del día 1o. de febrero de 1985; y Vigésimo Tercero que entrará en vigor el 1o. de agosto de 1985.
+
+#### SECCION II. Disposiciones con vigencia a partir del año de 1986
 
 ###### ARTICULO DECIMO.
 
@@ -11003,3 +10989,35 @@ D.O.F. 1 DE ABRIL DE 1995.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- A las obligaciones contraídas conforme a las normas previstas en el artículo primero del presente Decreto no les son aplicables las disposiciones que se opongan a dichas normas.
+
+D.O.F. 15 DE DICIEMBRE DE 1995.
+
+Disposiciones transitorias de la Ley del Impuesto sobre la Renta
+
+Artículo Séptimo. En relación con las modificaciones a que se refiere el Artículo Sexto que antecede, se estará a lo siguiente:
+
+I. Para los efectos de la fracción II y último párrafo del artículo 19 de la Ley del Impuesto sobre la Renta vigente a partir del 1o. de enero de 1996, el saldo de la cuenta de utilidad fiscal neta consolidada o el saldo de la cuenta de utilidad fiscal neta, relativa a los ejercicios comprendidos entre el 1o. de enero de 1975 y el 31 de diciembre de 1988, según corresponda, se determinará aplicando para cada año de que se trate lo dispuesto por los artículos 57-LL y 124 de la citada Ley y el procedimiento previsto en las fracciones I y II del Artículo Décimo Primero de las disposiciones transitorias de la Ley que Establece, Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales y que Adiciona la Ley General de Sociedades Mercantiles, publicada en el Diario Oficial de la Federación el 28 de diciembre de 1989 y de las fracciones VI y VIII del Artículo Décimo Primero de las disposiciones transitorias de la Ley que Establece, Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales y que Reforma otras Leyes Federales, publicada en el Diario Oficial de la Federación el 26 de diciembre de 1990. Cuando las acciones se hubieran adquirido antes del 1o. de enero de 1975, se considerará que el saldo de la cuenta de utilidad fiscal neta a la fecha de adquisición de las acciones que la empresa emisora tuvo fue cero.
+
+Cuando se trate de acciones de sociedades que paguen el impuesto sobre la renta en los términos del Título II-A de la ley de la materia, que por alguno de los ejercicios comprendidos en el periodo del 1o. de enero de 1975 al 31 de diciembre de 1988, hubieran determinado su impuesto conforme a bases especiales de tributación, el monto original ajustado de las acciones se determinará sumando al costo comprobado de adquisición actualizado de las acciones, el monto actualizado de la diferencia que resulte de disminuir a las utilidades que en el ejercicio de que se trate se hubieran tomado como base para el reparto de utilidades a sus trabajadores, el impuesto sobre la renta pagado en el ejercicio y la participación de los trabajadores en las utilidades de la empresa. Este monto y el costo comprobado de adquisición se actualizarán desde el último mes del ejercicio en que se obtuvieron y adquirieron y hasta el mes en que se enajenen las acciones.
+
+II. Los contribuyentes que con anterioridad al 1o. de enero de 1995 hubieran ejercido la opción prevista en el artículo 51 de la Ley del Impuesto sobre la Renta, cuando enajenen los bienes a los que la aplicaron, los pierdan o dejen de ser útiles, calcularán la deducción que por los mismos les corresponde en los términos de la fracción III del artículo 51-A de dicha Ley, aplicando los porcentajes contenidos en la tabla establecida para la mencionada fracción III del artículo 51-A vigente a la fecha en que ejercieron la opción.
+
+III. El monto de las reservas preventivas globales que las instituciones de crédito hayan constituido o incrementado en el ejercicio de 1995 de conformidad con las disposiciones establecidas por la Comisión Nacional Bancaria y de Valores, que excedan al 2.5% del saldo promedio anual de la cartera de créditos de dicho ejercicio, se podrá deducir a partir del ejercicio de 1996, en los términos previstos por el artículo 52-D de la Ley del Impuesto sobre la Renta vigente a partir del 1o. de enero de 1996.
+
+IV. Para los efectos de lo dispuesto por el segundo párrafo del artículo 55 y la fracción I del artículo 110 de la Ley del Impuesto sobre la Renta vigente a partir del 1o. de enero de 1996, las pérdidas fiscales que podrán disminuirse de la utilidad fiscal de los diez ejercicios siguientes a aquel en que ocurrieron, en los términos de las disposiciones fiscales señaladas, serán las ocurridas a partir del ejercicio de 1991.
+
+V. Para los efectos de lo dispuesto por el antepenúltimo párrafo del artículo 134 de la Ley del Impuesto sobre la Renta vigente a partir del 1o. de enero de 1996, la pérdida cambiaria o inflacionaria que podrá deducirse de los intereses acumulables o ganancia cambiaria que el contribuyente perciba en los términos del Capítulo X del Título IV de dicha Ley, en los cinco ejercicios posteriores a aquél en que hubiera sufrido la pérdida, únicamente serán las que se originen a partir del 1o. de enero de 1996.
+
+VI. Para los efectos de lo dispuesto por la fracción XIX del artículo 77 de la Ley del Impuesto sobre la Renta, en el año de 1996 la tasa de interés será de 10%.
+
+VII. Las cantidades previstas en el primer párrafo, de la fracción II del artículo 46, y el penúltimo párrafo del artículo 51 de la Ley del Impuesto sobre la Renta que se reforman a partir del 1o. de enero de 1996, ya se encuentran actualizadas para el mes de enero de 1996.
+
+VIII. Para los efectos de lo dispuesto en el primer párrafo del artículo 57-L de la Ley del Impuesto sobre la Renta, en el método de valuación señalado en dicho precepto, no se incluirán las utilidades distribuidas a que se refería la fracción II del artículo 19 de dicha Ley, vigente al 31 de diciembre de 1995.
+
+IX. Los intereses moratorios devengados con anterioridad al 1o. de enero de 1996, que antes de dicha fecha hubieran sido acumulados o deducidos, según sea el caso, por los contribuyentes para los efectos de la Ley del Impuesto sobre la Renta, no serán acumulables ni deducibles en los términos de los artículos 16, fracción IV, 24, fracción VIII y 108, fracción IX, de dicha ley vigente a partir del 1o. de enero de 1996, cuando se cobren o se paguen en efectivo, en bienes o en servicios, según sea el caso, o en la fecha en que se expida el comprobante, lo que ocurra primero.
+
+T r a n s i t o r i o s
+
+Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
+
+Segundo. De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en nuevos pesos y su abreviatura N, a partir del 1o. de enero de 1996 deberán entenderse como pesos y su símbolo $.
