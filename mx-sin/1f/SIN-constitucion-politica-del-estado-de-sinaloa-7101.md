@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1994-09-02"
+last_updated: "1994-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 1994.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -415,11 +415,11 @@ En los últimos tres casos, la convocatoria se hará por conducto de la misma Di
 
 Si el Congreso estuviere en período extraordinario de sesiones cuando deba comenzar el ordinario, cerrará aquél para inaugurar éste. A la apertura y clausura de todo período extraordinario de sesiones o prórroga del ordinario, deberán preceder los decretos respectivos.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Art. 40.
 
-El día 16 de Octubre de cada año, el Gobernador del Estado rendirá ante el Congreso instalado en Sesión Solemne, un informe por escrito sobre la situación que guarde la administración pública. El Presidente de la Legislatura contestará dicho informe en términos generales.
+El último sábado del mes de noviembre de cada año, el Gobernador del Estado rendirá ante el Congreso instalado en Sesión Solemne, un informe por escrito sobre la situación que guarde la Administración Pública. El Presidente de la Legislatura contestará dicho informe en términos generales.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1961)</small>
 
@@ -2594,6 +2594,12 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Dentro de los seis meses siguientes a partir de la vigencia de estas reformas y adiciones, se expedirá una Ley Orgánica del Poder Judicial que reglamente integralmente sus disposiciones constitucionales; mientras tanto, se seguirán aplicando las disposiciones legales de la actual Ley Orgánica vigente.
+
+P.O. 28 DE SEPTIEMBRE DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO PRIMERO.
 
