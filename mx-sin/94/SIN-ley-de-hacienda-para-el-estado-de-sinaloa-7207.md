@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1980-08-22"
+last_updated: "1980-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 1980.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -889,6 +889,10 @@ ART. 87.- Los transportistas y los intermediarios o mediadores entre los adquire
 
 ART. 88.- Cuando de las investigaciones que realice la Secretaría de Finanzas del Estado, directamente o por conducto de cualesquiera autoridad fiscal o administrativa, o los Recaudadores de Rentas, por si mismos o por los comisionados fiscales especiales que designen, resulten a su juicio elementos suficientes que demuestren la falsedad o la simulación de los contratos, recibos, documentos, declaraciones e informes que les hubieren proporcionado los causantes del impuesto, o que mediante ellos se ha eludido en todo o en parte, el pago del impuesto correspondiente, la Sub-Secretaría de Ingresos y sus dependencias aplicarán las sanciones respectivas, sin perjuicio de hacer efectivos los impuestos realmente causados y sus accesorios legales correspondientes.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+
+ART. 88 Bis.- Mientras se mantenga en vigor el anexo No. 3, al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrada entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspende la aplicación de las disposiciones fiscales contenidas en el inciso a) de la Fracción II del Artículo 78, la Fracción II del Artículo 79, la Fracción III del Artículo 85, el Artículo 86 y 87 de este Capítulo, en consecuencia, los sujetos pasivos a que se refiere el segundo párrafo de la Fracción I del Artículo 77 cubrirán este impuesto conforme a la base establecida en el inciso b) de la Fracción II del Artículo 78 de esta Ley.
+
 ### CAPITULO II. Impuesto Estatal sobre Ingresos Mercantiles
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
@@ -1042,6 +1046,10 @@ Cuando el causante que haya sido requerido para presentar la declaración o decl
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ART. 96.- Las obligaciones a que se refiere el Artículo 94 de esta Ley, no son aplicables a los causantes que obtengan ingresos en forma accidental, salvo la que se refiere a conservar la documentación comprobatoria de los ingresos percibidos por el término de cinco años, señalada en la fracción IV de dicho Artículo.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+
+ART. 96 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
 ### CAPITULO III. Impuesto sobre Producto de Capitales
 
@@ -1257,6 +1265,10 @@ b).- De cambio o baja;
 
 ART. 118.- Si los causantes de este impuesto omiten presentar sus declaraciones dentro de los plazos que fije esta Ley, la Secretaría de Finanzas del Estado hará la liquidación sobre la base de declaraciones suplidas, con los datos que posea y con los que le suministren las Oficinas Federales de Hacienda y con los que obtenga por otros medios.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+
+ART. 118 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+
 ### CAPITULO V. Impuesto sobre Producción de Azúcar y Mascabado
 
 ART. 119.- Son causantes de este impuesto, los productores de azúcar y mascabado en el Estado.
@@ -1303,6 +1315,10 @@ ART. 126.- Si se omite la presentación de declaraciones dentro de los plazos qu
 
 ART. 127.- El impuesto se causará desde la fecha en que se inicie la elaboración de los productos gravados, hasta que ésta termine.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+
+ART. 127 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+
 ### CAPITULO VI. Impuesto sobre Producción de Mieles Incristalizables
 
 ART. 128.- Es objeto de este impuesto la producción de mieles incristalizables en el Estado, y se causará a razón de $ 0.02 por kilogramo de miel incristalizable que se produzca.
@@ -1318,6 +1334,10 @@ ART. 131.- No causan el impuesto, las mieles incristalizables:
 I.- Transferidas de la fábrica de azúcar a la de alcohol o de aguardiente, siempre que la explotación de las fábricas la haga la misma persona;
 
 II.- Destruidas con autorización de la Secretaría de Hacienda y Crédito Público, así como las mermas y pérdidas por causas de fuerza mayor o caso fortuito, debidamente reconocidas por la propia Secretaría.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+
+ART. 131 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
 ### CAPITULO VII. Impuesto sobre la Producción Agrícola
 
@@ -1668,6 +1688,10 @@ c).- Acompañarán a la declaración a que se refiere el párrafo anterior, los 
 d).- Dar de baja su registro ante las Oficinas Recaudadoras, dentro de los diez días siguientes a la fecha de terminación de sus operaciones.
 
 ART. 138.- Los compradores de productos agrícolas, los intermediarios o mediadores, previa autorización de la Secretaría de Finanzas del Estado, podrán realizar en una exhibición el pago del impuesto correspondiente al producto obtenido de varios productores. Cuando se siga este procedimiento, los compradores, los intermediarios o mediadores estarán obligados a proporcionar a cada uno de los productores constancia escrita del pago del impuesto; en dicha constancia deberá indicarse el número y la fecha del recibo de pago, así como el mes a que corresponda la declaración en que se certifica por la Oficina Recaudadora la presentación del mencionado recibo.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+
+ART. 138 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
 ### CAPITULO VIII
 
@@ -2863,7 +2887,7 @@ pasaje 40.00 "
 
 d).- Para vehículos de servicio exclusivo de turismo 100.00 "
 
-XIV.- Para cada permiso para circular sin placas correspondientes a vehículos de servicio particular o público 20.00"
+XIV.- Para cada permiso para circular sin placas correspondientes a vehículos de servicio particular o público 20.00 "
 
 XV.- Por cada permiso para manejar sin licencia de conductor correspondiente a vehículos de servicio particular o público
 
@@ -3881,6 +3905,10 @@ ART. 370.- El gravamen a que se refiere este Capítulo se pagará al cubrirse el
 
 ART. 370 Bis.- Mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en los incisos i), j), k), l), y II) de la fracción I del Artículo 367, de este Capítulo.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+
+ART. 370 Bis 1.- Mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en los incisos c), d), e), f), m), n), ñ), o) y p) de la Fracc. I del Artículo 367, de este Capítulo, así como el inciso a), de la misma Fracción y Artículo, únicamente por lo que se refiere a los predios ejidales utilizados con fines agrícolas.
+
 ### CAPITULO II. Adicional Municipal
 
 ART. 371.- Sobre el monto de los impuestos que a continuación se indican, se causará una tasa adicional del 20%, destinada a la Hacienda Pública Municipal:
@@ -3943,6 +3971,10 @@ ART. 378.- La recaudación del gravamen adicional municipal y demás participaci
 
 ART. 378 Bis.- Mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en los conducente, las disposiciones fiscales contenidas en las fracciones VIII, IX, X, XI y XII del Artículo 371, así como en el Artículo 373, de este Capítulo.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+
+ART. 378 Bis 1.- Mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en las Fracciones II, III, IV, V, y XIII, del Artículo 371, de la Fracción II del Artículo 372, así como el Artículo 376, de este Capítulo.
+
 ### CAPITULO XVIII. Impuesto a la Industria Congeladora de Mariscos
 
 ART. 247.- Es objeto de este impuesto la congelación de pescados y mariscos.
@@ -3971,6 +4003,10 @@ II.- A presentar aviso de terminación de operaciones dentro de los 5 días háb
 
 III.- A llevar registro de entradas, salidas y existencias de productos a procesar así como de producción, entradas, salidas, ventas y existencias de productos procesados.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+
+ART. 252 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacineda (sic) y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+
 ## TITULO CUARTO. DE LOS PRODUCTOS
 
 ### CAPITULO III. 21 y 22% Adicionales
@@ -3980,6 +4016,10 @@ ART. 379.- En substitución de los varios impuestos adicionales que se venían c
 ART. 380.- En substitución de los varios impuestos adicionales que se venían cobrando, se establece uno equivalente a su suma, en proporción del 22%, que se causará sobre el monto del Impuesto sobre Producción Agrícola.
 
 ART. 381.- Sobre los impuestos adicionales a que se refiere este Capítulo no se causará gravamen adicional alguno.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+
+ART. 381 Bis.- Mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema de Coordinación Fiscal celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en los Artículos 379 y 380 de este Capítulo.
 
 ### CAPITULO XIX. Impuesto a la Industria Harinera
 
@@ -4010,6 +4050,10 @@ VI.- Recibir las visitas de inspección e investigación así como proporcionar 
 Los avisos, declaraciones y registros se formularán en las formas y de acuerdo con los instructivos que autorice la Secretaría de Finanzas del Estado.
 
 ART. 258.- No se causará el impuesto Estatal sobre Ingresos Mercantiles por la operación de venta de harina que efectúe la planta industrial harinera, por la cual haya cubierto el impuesto a que se refiere este Capítulo. Esta exención no incluye los sub-productos que pudieren obtenerse del proceso industrial para obtener harina.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+
+ART. 258 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
 ## TITULO QUINTO. DE LOS APROVECHAMIENTOS
 
@@ -4058,6 +4102,10 @@ VI.- A recibir las visitas de inspección e investigación, así como a proporci
 Los avisos, declaraciones y registros se formularán en las formas y de acuerdo con los instructivos que autorice para el efecto la Secretaría de Finanzas del Estado.
 
 ART. 264.- No se causará el Impuesto Estatal sobre Ingresos Mercantiles por la primera venta de semilla industrial, borra y demás subproductos que se obtengan al industrializar el algodón en rama, siempre y cuando se haya cubierto el impuesto contenido en cada Capítulo.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+
+ART. 264 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
 ## TITULO SEXTO. DE LAS PARTICIPACIONES
 
@@ -4801,6 +4849,10 @@ Los avisos, declaraciones y registros se formularán en las formas y de acuerdo 
 
 ART. 270.- No se causará el Impuesto Estatal sobre Ingresos Mercantiles por la operación de venta que efectúe el molino arrocero, de aquellos productos por los cuales ya hubiera pagado el impuesto contenido en ese Capítulo.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+
+ART. 270 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+
 ### CAPITULO XXII. Impuesto sobre Ingresos por Venta de Primera Mano de Hortalizas y Fruta
 
 ART. 271.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
@@ -4871,6 +4923,10 @@ ART. 282.- La Secretaría de Finanzas del Estado podrá disponer, si lo estima c
 
 ART. 283.- Las Autoridades Municipales no deberán permitir el sacrificio de ganado ni expedir guías para el traslado del mismo sin tener la comprobación previa del pago del impuesto a que se refiere este Capítulo.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+
+ART. 283 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+
 ### CAPITULO XXIV. Impuesto sobre Primera Venta de Productos Avícolas
 
 ART. 284.- Es objeto de este impuesto la primera venta de productos avícolas en el Estado.
@@ -4894,6 +4950,10 @@ ART. 287.- El impuesto se causará al efectuarse la primera venta de productos a
 ART. 288.- Se presumirá que hay venta para los efectos legales, cuando los productos avícolas se remitan de una población a otra del Estado, aún con el carácter de remitidos en remisión o en consignación, a falta de otros elementos que acrediten el momento de la operación.
 
 ART. 289.- No se causará el Impuesto Estatal Sobre Ingresos Mercantiles por los ingresos obtenidos por la primera venta de productos avícolas en el Estado, siempre y cuando el causante haya cubierto el impuesto contenido en este Capítulo.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+
+ART. 289 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
 ### CAPITULO XXV. Impuesto Pro-Caminos Vecinales
 
@@ -4922,6 +4982,10 @@ Por tonelada de milo-maíz 1.00
 Por hectárea de caña 10.00
 
 ART. 292.- El fisco del Estado queda facultado para seguir el procedimiento económico-coactivo en el cobro del impuesto a que se refiere este Capítulo, en los términos de las leyes que lo regulan.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+
+ART. 292 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
 ### CAPITULO I. Legalización de Firmas, Certificaciones y expedición de Copias de Documentos
 
@@ -5242,3 +5306,9 @@ P. O. 22 DE AGOSTO DE 1980.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa"
+
+P. O. 3 DE DICIEMBRE DE 1980.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
