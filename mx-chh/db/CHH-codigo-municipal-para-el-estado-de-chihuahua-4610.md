@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1998-03-14"
+last_updated: "1998-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 1998.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -451,7 +451,9 @@ XI.- Conceder a sus miembros licencia para separarse de su cargo por causa debid
 
 XII.- Aprobar, en su caso, el anteproyecto de Ley de Ingresos, que a su consideración presente el Presidente Municipal y remitirlo al Congreso del Estado, antes del día 30 de noviembre del año del ejercicio;
 
-XIII.- Aprobar el Presupuesto de Egresos de acuerdo con los ingresos que hubiere autorizado el Congreso y remitirlo al Ejecutivo del Estado para su publicación en el Periódico Oficial, a más tardar el día 31 de diciembre.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 1998)</small>
+
+XIII.- Aprobar el presupuesto de egresos de acuerdo con los ingresos que hubiere autorizado el Congreso y remitirlo al Ejecutivo del Estado para su publicación en el Periódico Oficial, a más tardar el día 31 de diciembre, siendo aplicable en lo conducente lo dispuesto por el Capítulo Unico del Título Cuarto, de la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado;
 
 Los presupuestos, sólo podrán ser ampliados, cuando los ingresos reales sean superiores al ingreso estimado en la ley;
 
@@ -1429,7 +1431,7 @@ VIII.- Recomendar al Ayuntamiento la presentación de iniciativa de Ley al Congr
 
 IX.- Recomendar la realización de obras y la prestación de servicios que contribuyan al bienestar de los habitantes del Municipio;
 
-X.- Designar cuando lo crea conveniente, comités especiales que de seguimiento a la ejecución de una obra determinada;
+X.- Designar cuando lo crea conveniente, comités especiales que de (sic) seguimiento a la ejecución de una obra determinada;
 
 XI.- Promover la participación y colaboración de los vecinos del Municipio en las acciones gubernamentales de beneficio colectivo; y
 
@@ -2782,3 +2784,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 14 DE MARZO DE 1998.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MAYO DE 1998.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
