@@ -4,7 +4,7 @@ identifier: "VER-ley-de-transito-y-transporte-para-el-estado-de-veracruz-6723"
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-19"
-last_updated: "2003-03-18"
+last_updated: "2003-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 LEY DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ-LLAVE
 
-> <small>N. DE E. EN RELACION A LA DENOMINACION DEL PRESENTE ORDENAMIENTO VEANSE LOS ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO NUMERO 547 DE REFORMA CONSTITUCIONAL PUBLICADO EN LA G.O. DE 18 DE MARZO DE 2003.</small>
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ LLAVE, PUBLICADA EN LA GACETA OFICIAL EL 8 DE AGOSTO DE 2003.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el martes 19 de enero de 1988.
 
@@ -592,3 +592,17 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 8 DE AGOSTO DE 2003.
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO. Se abroga la Ley de Tránsito y Transporte para el Estado de Veracruz-Llave de fecha 12 de enero de 1988, y se derogan todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO. El Reglamento de la Ley de Tránsito y Transporte para el Estado de Veracruz de Ignacio de la Llave se expedirá en un plazo de seis meses a partir de la entrada en vigor de esta Ley. En tanto se expide, se continuará aplicando el Reglamento de la Ley de Tránsito y Transporte para el Estado de Veracruz de fecha 24 de noviembre de 1988, en todo lo que no contravenga las disposiciones de esta Ley.
+
+CUARTO. En tanto los Municipios expiden o modifican sus respectivos Reglamentos de Tránsito, de acuerdo con las bases normativas previstas en esta Ley, se aplicarán en el ámbito municipal, las disposiciones reglamentarias que en materia de tránsito expida el Gobierno del Estado.
+
+QUINTO. La Dirección General de Tránsito y Transporte del Estado, hasta en tanto los Ayuntamientos no cuenten con los recursos humanos y materiales para desempeñar esta función y expidan la normatividad correspondiente, mantendrá la facultad de imponer sanciones pecuniarias en materia de tránsito.
+
+SEXTO. Las concesiones que, a partir de la expedición de la presente Ley se otorguen, podrán ser entregadas en garantía, en los términos de su Artículo 94 de esta Ley.
