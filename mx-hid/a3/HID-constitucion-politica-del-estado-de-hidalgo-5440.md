@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1930-03-16"
+last_updated: "1931-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 1930.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1931.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -54,6 +54,10 @@ P.O. 16 DE MARZO DE 1930.
 I.- Estas reformas empezarán a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial.
 
 II.- El primer período de cuatro años que deberán durar los Magistrados del Tribunal Superior de Justicia, comenzará el día primero de abril del corriente año, y otorgarán la protesta de ley ante el Ejecutivo del Estado.
+
+P.O. 16 DE ENERO DE 1931.
+
+Continúa en vigor el decreto 170 de 8 de mayo de 1930.
 
 ###### Artículo 3º.
 
@@ -179,6 +183,8 @@ III. Por sentencia ejecutoriada que imponga como pena esa pérdida.
 
 ### CAPITULO I. DE LA ORGANIZACION DEL CONGRESO
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1931)</small>
+
 ###### Artículo 11.
 
 Los derechos de ciudadano se suspenden:
@@ -225,7 +231,7 @@ Los Poderes Legislativo y Ejecutivo y el Tribunal Superior de Justicia, residir�
 
 ###### Artículo 18.
 
-El Poder Legislativo se deposita en una Asamblea que se denominará "Congreso del Estado de Hidalgo". Este se compondrá de Diputados electos popularmente, uno por cada sesenta mil habitantes o fracción que pase de veinte mil. Si con esta proporción, no resultaren electos 15 Diputados por lo menos, la Ley Electoral dividirá el Estado en 15 circunscripciones de población igual, en lo posible, y cada una de ellas elegirá su Diputado.
+El Poder Legislativo se deposita en una Asamblea que se denominará "Congreso del Estado de Hidalgo". Este se compondrá de Diputados electos popularmente, uno para cada sesenta mil habitantes o fracción que pase de veinte mil. Si con esta proporción, no resultaren electos once Diputados por lo menos, la Ley Electoral dividirá al Estado en once circunscripciones de población igual, en lo posible, y cada una de ellos (sic) elegirá un Diputado.
 
 ###### Artículo 19.
 
@@ -289,7 +295,7 @@ Los Diputados que falten a las sesiones sin causa justificada o sin licencia de 
 
 ###### Artículo 28.
 
-Durante el primer período de sesiones ordinarias, el Congreso se ocupará preferentemente de examinar y calificar las cuentas de recaudación y aplicación de los fondos del Estado y municipales correspondientes al año anterior; y en el segundo, y para que rijan en el año siguiente, se ocupará preferentemente de dictar la Ley de Ingresos del Estado y de los Municipios, y de aprobar el Presupuesto de Egresos del Estado que el Gobernador deberá estar al Congreso el segundo día de este periodo.
+Durante el primer período de sesiones ordinarias, el Congreso se ocupará preferentemente de examinar y calificar las cuentas de recaudación y aplicación de los fondos del Estado y municipales correspondientes al año anterior; y en el segundo, y para que rijan en el año siguiente, se ocupará preferentemente de dictar la Ley de Ingresos del Estado y de los Municipios, y de aprobar el Presupuesto de Egresos del Estado que el Gobernador deberá estar al Congreso el segundo día de este período.
 
 ###### Artículo 29.
 
@@ -333,7 +339,7 @@ En todo caso se dará aviso al Ejecutivo, del día señalado para la discusión 
 
 ###### Artículo 35.
 
-Aprobado un proyecto de ley o de decreto por el Congreso, se remitirá al Gobernador para su sanción y publicación. El Gobernador puede dentro de diez días útiles, devolverlo con observaciones. El proyecto de ley o de decreto devueltos al Congreso, deberá ser discutido de nuevo y si fuese confirmado por las dos tercios del número total de Diputados, volverá al Gobernador, quien deberá promulgarlo sin más trámite.
+Aprobado un proyecto de ley o de decreto por el Congreso, se remitirá al Gobernador para su sanción y publicación. El Gobernador puede dentro de diez días útiles, devolverlo con observaciones. El proyecto de ley o de decreto devueltos al Congreso, deberá ser discutido de nuevo y si fuese confirmado por los dos tercios del número total de Diputados, volverá al Gobernador, quien deberá promulgarlo sin más trámite.
 
 ###### Artículo 36.
 
@@ -699,7 +705,7 @@ II. Intervenir en la forma y términos que la ley disponga, en los juicios que a
 
 III. Defender los intereses del Estado ante los Tribunales.
 
-La ley organizará el Ministerio Público, determinara las atribuciones respectivas de las personas que lo formen y fijará el tiempo que cada una de ellas deba durar en sus funciones.
+La ley organizará el Ministerio Público, determinará las atribuciones respectivas de las personas que lo formen y fijará el tiempo que cada una de ellas deba durar en sus funciones.
 
 ###### Artículo 70.
 
