@@ -4,7 +4,7 @@ identifier: "COA-ley-del-servicio-forestal-estatal-de-coahuila-de-zaragoza-13402
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "1998-12-08"
+last_updated: "2001-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SERVICIO FORESTAL ESTATAL DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -559,6 +559,10 @@ Los cargos en el patronato serán de carácter honorífico por lo que sus miembr
 
 Los miembros del Patronato durarán en su cargo dos años, pudiendo ser reelectos para un período más. Concluido el término del periodo para el que fueron electos sus miembros, serán nuevamente convocadas las organizaciones, asociaciones, empresas e industrias para la designación de los integrantes del Patronato.
 
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+
+Cada uno de los integrantes del Patronato deberá designar a un suplente, que cubrirá sus ausencias temporales a excepción del Presidente cuyo suplente será el Secretario.
+
 ###### ARTÍCULO 41.
 
 Corresponden al Presidente del Patronato, las atribuciones siguientes:
@@ -625,11 +629,13 @@ El Patronato celebrará sesiones ordinarias cada cuatro meses y las extraordinar
 
 Para la validez de las sesiones del Patronato se requerirá de la asistencia de la mitad más uno de sus miembros y sus resoluciones se tomarán por mayoría de votos de los asistentes a las mismas. En caso de empate, el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 47.
 
-Corresponde a la Secretaría de la Contraloría y Modernización Administrativa, así como a la Contaduría Mayor de Hacienda del Congreso del Estado, en el ámbito de sus respectivas competencias y conforme a las atribuciones que tienen encomendadas, llevar a cabo la vigilancia de las actividades del Patronato del Servicio Forestal Estatal.
+Corresponde a la Secretaría de la Contraloría y Modernización Administrativa, así como a la Contaduría Mayor de Hacienda del Congreso del Estado, en el ámbito de sus respectivas competencias y conforme a las atribuciones que tienen encomendadas, llevar a cabo la vigilancia de las actividades del Patronato del Servicio Forestal Estatal y sus delegaciones.
 
-Para los efectos del presente artículo, dichas dependencias podrán solicitar al Patronato la presentación, en cualquier tiempo, de los informes financieros que requiera.
+Para los efectos del presente artículo, dichas dependencias podrán solicitar al Patronato o a sus delegaciones, la presentación, en cualquier tiempo, de los informes financieros que requiera.
 
 ###### ARTÍCULO 48.
 
@@ -655,19 +661,247 @@ IV.- Empresas que gocen de derechos de paso en áreas boscosas, para la transpor
 
 V.- En los demás que el Congreso determine para el efecto.
 
-### CAPÍTULO OCTAVO. DE LA ACCIÓN POPULAR
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2001)</small>
+
+### CAPÍTULO OCTAVO. DE LAS DELEGACIONES DEL PATRONATO DEL SERVICIO FORESTAL ESTATAL
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2001)</small>
+
+#### SECCIÓN PRIMERA. BASES GENERALES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 49.
 
-Se concede acción popular a toda persona para denunciar ante las autoridades forestales competentes, todo acto u omisión que cause o pueda causar situaciones de emergencia o peligro en materia forestal.
+El Patronato del Servicio Forestal Estatal contará con cinco delegaciones con sede en las ciudades de Acuña, Monclova, Múzquiz, Saltillo y Torreón.
 
-La persona o personas que denuncien falsamente hechos de los previstos en esta ley, con el propósito de generar alarma, caos o que impliquen la actuación y movilización de las autoridades forestales, serán puestas a disposición de las autoridades competentes de conformidad con la legislación aplicable.
+Cada una de las delegaciones comprenderá a los municipios que formen parte de la región de que se trate. Para determinar la circunscripción regional, el patronato del Servicio Forestal Estatal fijará el ámbito de comprensión de cada una de las delegaciones.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 50.
 
-Recibida la denuncia, se turnará a las instancias federales o, en su caso, estatales que correspondan según el caso, a fin de que se efectúen las diligencias necesarias para verificar los hechos y proceder en consecuencia.
+Las delegaciones del Patronato del Servicio Forestal Estatal tendrán por objeto coadyuvar en la gestión, recaudación y administración de fondos y recursos que serán destinados, preferentemente, en las regiones que correspondan a su sede, a la adquisición, conservación y mantenimiento de equipo, herramientas y demás recursos materiales que se requieran para la prevención, combate, control y restauración de catástrofes y calamidades forestales.
 
-Lo previsto en este artículo se realizará sin perjuicio de que se tomen las medidas urgentes que resulten necesarias para evitar que se pongan en riesgo a las personas o sus bienes, así como la seguridad social.
+Los gastos que origine la operatividad de las delegaciones se cubrirán bajo los principios de racionalidad, eficacia y eficiencia, a través de los propios recursos que recabe cada delegación y de las asignaciones que realice el Patronato del Servicio Forestal Estatal según lo estime conveniente.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+
+###### ARTÍCULO 51.
+
+Para el cumplimiento de su objeto, las delegaciones tendrán las atribuciones siguientes:
+
+I.- Gestionar ante los sectores público, social y/o privado de las regiones que correspondan, la recaudación y entrega de recursos para coadyuvar al cumplimiento del objeto del Patronato del Servicio Forestal Estatal y del suyo propio. Así como, radicar los fondos obtenidos a la tesorería del Patronato del Servicio Forestal Estatal y entregar los recibos correspondientes;
+
+II.- Formular y presentar los proyectos de asignación de recursos que elaboren sus correspondientes tesoreros ante el Patronato del Servicio Forestal Estatal;
+
+III.- Aprobar, previa opinión del Patronato del Servicio Forestal Estatal, la asignación de recursos;
+
+IV.- Elaborar estados financieros trimestrales presentarlos a la aprobación del Patronato del Servicio Forestal Estatal;
+
+V.- Administrar los recursos autorizados por el Patronato del Servicio Forestal Estatal y recibir las propuestas que formule el propio Patronato en su jurisdicción;
+
+VI.- Dar seguimiento, de los proyectos autorizados, a la aplicación local de los recursos financieros;
+
+VII.- Las demás que les confiera esta ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+
+###### ARTÍCULO 52.
+
+El Patronato del Servicio Forestal Estatal ejercerá la vigilancia y la supervisión de las actividades y funciones que realicen las delegaciones.
+
+Las delegaciones deberán presentar al Patronato del Servicio Forestal Estatal, de manera trimestral, un informe detallado sobre las actividades realizadas y sobre los recursos obtenidos, así como cualquier otro informe que en cualquier tiempo le soliciten las autoridades encargadas de su vigilancia.
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2001)</small>
+
+#### SECCIÓN SEGUNDA. INTEGRACIÓN Y FUNCIONAMIENTO DE LAS DELEGACIONES
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+
+###### ARTÍCULO 53.
+
+Las delegaciones del Patronato del Servicio Forestal Estatal se integrarán de la manera siguiente:
+
+I.- Por un Delegado, que será designado por el Gobernador del Estado a propuesta del Patronato del Servicio Forestal Estatal;
+
+II.- Por un Secretario, que será designado por el titular de la Secretaría de fomento Agropecuario;
+
+III.- Por un Tesorero, que será designado de entre y por los miembros de la propia delegación;
+
+IV.- Seis Vocales:
+
+a).- Tres representantes de organizaciones y/o asociaciones, cuyo objeto se relacione con actividades forestales o afines a ellas;
+
+b).- Tres representantes de industrias y/o empresas que tengan interés en apoyar las actividades del Patronato del Servicio Forestal Estatal y, en particular, de la Delegación correspondiente.
+
+El Patronato del Servicio Forestal Estatal, convocará a la ciudadanía a participar en la integración de la delegación. Así mismo fijará las bases para la selección, designación, ratificación y renovación de estos representantes.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+
+###### ARTÍCULO 54.
+
+Cada uno de los miembros de la delegación contará con un suplente que será designado por el patronato.
+
+Los miembros de las delegaciones durarán en su cargo dos años, pudiendo ser ratificados para un período más. Concluido el término del período para el cual fueron designados o electos, serán nuevamente convocadas las organizaciones, asociaciones, empresas y/o industrias para integrar a las delegaciones.
+
+Los cargos en las delegaciones serán de carácter honorífico. Sus miembros no percibirán remuneración alguna.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+
+###### ARTÍCULO 55.
+
+Las delegaciones celebrarán sesiones ordinarias cada tres meses y las extraordinarias que sean necesarias en cualquier tiempo, previa convocatoria del delegado.
+
+A las sesiones que celebren las delegaciones deberá asistir invariablemente un representante del Patronato del Servicio Forestal Estatal.
+
+Las sesiones se sujetarán a las bases siguientes:
+
+I.- Serán válidas cuando se integren con la mitad más uno de los miembros de las delegaciones, siempre que esté presente su delegado o quien deba suplirlo;
+
+II.- Podrán asistir a las sesiones de la delegación, previa invitación, aquellas personas que se juzgue conveniente en virtud de su experiencia y conocimientos reconocidos en cualquier tema relacionado con el objeto de las delegaciones, las cuales participarán en ellas con voz, pero sin voto;
+
+III.- En toda sesión de cada delegación se levantará el acta respectiva a través del Secretario. Las actas deberán contener una síntesis del asunto a tratar y el punto o puntos acordados. Se resguardarán por la Secretaría de la Delegación;
+
+IV.- La Secretaría al inicio de cada sesión dará lectura al acta de la sesión anterior para su aprobación. La misma deberá ser autorizada con las firmas del Delegado o quien deba suplirlo y del Secretario;
+
+V.- Se dará curso a los asuntos listados en el orden del día o de aquellos que requiera la intervención de la Delegación;
+
+VI.- El Delegado o quien deba suplirlo presidirá la sesión, dirigirá los debates, declarará cerrada la discusión cuando así lo estime y finalmente, someterá a votación los asuntos correspondientes;
+
+VII.- Las votaciones se tomarán por mayoría de votos de los miembros presentes de la Delegación. En caso de empate, el Delegado o quien deba suplirlo tendrá voto de calidad;
+
+VIII.- El Delegado por sí o a través de la Secretaría de la Delegación, deberá ejecutar los acuerdos sin demora y sin esperar a que se apruebe el acta de donde provenga el acuerdo.
+
+> <small>(ADICIONADO, P.O.- 16 DE MARZO DE 2001)</small>
+
+###### ARTÍCULO 56.
+
+El Delegado tendrá las atribuciones siguientes:
+
+I.- Presidir las sesiones que celebre la Delegación;
+
+II.- Declarar resueltos los asuntos en el sentido de las votaciones;
+
+III.- Autorizar con fondos especiales, en unión del Tesorero, la asignación emergente de recursos tratándose de situaciones de urgencia.
+
+En este caso, el Delegado deberá dar aviso inmediato al Patronato del Servicio Forestal Estatal;
+
+IV.- Convocar, por conducto del Secretario, a las sesiones que se desarrollarán con la presencia del representante del Patronato del Servicio Forestal Estatal.
+
+En el mes de noviembre de cada año, el Delegado convocará a sesión preparativa en la que se analizarán las acciones a desarrollar en el programa de trabajo para el siguiente año;
+
+V.- Las demás que le confiera esta ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O.- 16 DE MARZO DE 2001)</small>
+
+###### ARTÍCULO 57.
+
+El Secretario tendrá las atribuciones siguientes:
+
+I.- Asistir con voz, pero sin voto a las sesiones que celebre la Delegación;
+
+II.- Elaborar el orden del día de cada sesión y comunicar oportunamente a los miembros de la Delegación, al Patronato del Servicio Forestal Estatal y demás personas invitadas, las convocatorias correspondientes;
+
+III.- Dar cuenta a la Delegación de los asuntos de su competencia;
+
+IV.- Dar seguimiento a los acuerdos tomados por la Delegación e informar el avance de su cumplimiento;
+
+V.- Tomar las votaciones de los miembros de la Delegación presentes en cada sesión;
+
+VI.- Levantar las actas de las sesiones que celebre la Delegación y resguardarlas;
+
+VII.- Suscribir, en unión del Delegado, las actas de las sesiones que se celebren;
+
+VIII.- Las demás que le confiera la presente ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O.- 16 DE MARZO DE 2001)</small>
+
+###### ARTÍCULO 58.
+
+El Tesorero tendrá las atribuciones siguientes:
+
+I.- Llevar, conforme a los lineamientos que emita el Patronato del Servicio Forestal Estatal, la contabilidad de la delegación. En todo caso, deberá observar los lineamientos que fijen las autoridades encargadas de vigilar la función de la Delegación;
+
+II.- Asistir a las sesiones que celebre la delegación con voz y voto;
+
+III.- Canalizar los recursos y fondos que recaude la delegación y administrar los recursos autorizados por el Patronato del Servicio Forestal Estatal, informando de ello a la Delegación correspondiente;
+
+IV.- Llevar a cabo las actividades financieras que le autorice la Delegación y el Patronato del Servicio Forestal Estatal;
+
+V.- Elaborar, conforme a las propuestas de trabajo y los recursos disponibles, los proyectos de financiamiento de los mismos para presentarlos a la consideración de la Delegación y autorización del Patronato del Servicio Forestal Estatal;
+
+VI.- Autorizar, en unión del delegado, la asignación emergente de recursos;
+
+VII.- Rendir informes financieros trimestralmente al Patronato del Servicio Forestal Estatal;
+
+VIII.- Gestionar ante el Patronato del Servicio Forestal Estatal la entrega de recibos respecto de los recursos captados por la Delegación a quienes los hubieren aportado, así como asegurar su entrega a los mismos.
+
+El Tesorero mantendrá el control de los recibos;
+
+IX.- Las demás que le confiera esta ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O.- 16 DE MARZO DE 2001)</small>
+
+###### ARTÍCULO 59.
+
+Los vocales tendrán las atribuciones siguientes:
+
+I.- Asistir a las sesiones que celebre la Delegación correspondiente con voz y voto;
+
+II.- Participar en las actividades de obtención de recursos que determine implementar la Delegación o, en su caso, el Patronato del Servicio Forestal Estatal;
+
+III.- Evaluar la información que se les proporcione para el efecto de elaborar los programas de trabajo que se les encomienden;
+
+IV.- Las demás que les confiera esta ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2001)</small>
+
+#### SECCIÓN TERCERA. DISPOSICIONES FINALES
+
+> <small>(ADICIONADO, P.O.- 16 DE MARZO DE 2001)</small>
+
+###### ARTÍCULO 60.
+
+El Patronato del Servicio Forestal Estatal podrá delegar funciones a cada delegación según se estime conveniente.
+
+En todo caso, el Patronato deberá vigilar la actuación de las delegaciones. Toda controversia que surja en el seno de las delegaciones deberá ser resuelta por el Patronato.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+
+###### ARTÍCULO 61.
+
+El delegado deberá rendir un informe anual sobre todas las actividades de la Delegación, al Patronato del Servicio Forestal Estatal.
+
+Deberán publicarse en el Periódico Oficial del Gobierno del Estado, los estados financieros de las delegaciones con la periodicidad anual que conjuntamente se integrarán a los estados financieros dictaminados por contador público independiente del Patronato.
+
+Las autoridades encargadas de la vigilancia de las delegaciones podrán practicar, aislada o conjuntamente y en cualquier tiempo, las auditorías que estimen necesarias.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+
+###### ARTÍCULO 62.
+
+El Patronato del Servicio Forestal Estatal y sus delegaciones en el cumplimiento de su objeto, gozarán de las prerrogativas concedidas a los fondos y bienes del estado.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+
+### CAPÍTULO NOVENO. DE LA ACCIÓN POPULAR
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+
+###### ARTÍCULO 63.
+
+Toda persona deberá denunciar ante las autoridades, todo acto u omisión que cause o pueda causar situaciones de emergencia y/o peligro en materia forestal.
+
+La persona o personas que denuncien falsamente hechos, con el propósito de generar alarma, caos o que motiven la actuación innecesaria de las autoridades forestales, serán denunciadas y, en su caso, puestas a disposición de las autoridades competentes de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+
+###### ARTÍCULO 64.
+
+Recibida la denuncia, sin demora se turnará a las instancias federales o, estatales que correspondan según el caso, a fin de que de inmediato se efectúen las diligencias necesarias para verificar los hechos y se proceda a atender la emergencia y/o peligro forestales.
+
+Lo anterior se realizará sin perjuicio de la obligación de la autoridad forestal de tomar las medidas urgentes que resulten necesarias para evitar que se pongan en riesgo a las personas o sus bienes, así como la seguridad social.
 
 T R A N S I T O R I O S
 
@@ -716,3 +950,13 @@ LIC. OSCAR PIMENTEL GONZALEZ
 EL SECRETARIO DE DESARROLLO SOCIAL
 
 LIC. ROGELIO RAMOS ORANDAY
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE MARZO DE 2001.
+
+PRIMERO. La presente ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El Patronato del Servicio Forestal Estatal llevará a cabo las acciones necesarias para que las delegaciones que mediante esta ley se establecen, queden formalmente instaladas dentro de los 30 días siguientes a la fecha en que entre en vigor la presente ley.
+
+TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
