@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2004-05-03"
+last_updated: "2004-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY FEDERAL DE DERECHOS
 
 ULTIMA ACTUALIZACION POR MISCELANEA FISCAL: 3 DE MAYO DE 2004.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE NOVIEMBRE DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -11383,9 +11383,11 @@ de recepción conforme a la cuota de $29,158.29 $29,158.00
 
 Por la expedición y en su caso reposición de los siguientes documentos, se pagará el derecho de identidad marítima, conforme a las siguientes cuotas:
 
-cuota sin cuota con
+1er. Trimestre 1er. trimestre
 
-ajuste ajuste
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -15667,11 +15669,9 @@ II. De más de 1 hectárea hasta
 
 10 hectáreas $900.00 $900.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 19 DE NOVIEMBRE DE 2004)</small>
 
-III. De más de 20 hectáreas
-
-hasta 50 hectáreas $1,900.00 $1,900.00
+III. De más de 10 hectáreas hasta 50 hectáreas $1,900.00.
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -25429,7 +25429,7 @@ Estado de Guerrero: Chilpancingo de los Bravo, Huitzuco de los Figueroa e Iguala
 
 Estado de Nayarit: Bahía de Banderas y Tepic.
 
-Estado de Oaxaca: Acatlán de Pérez Figueroa, Ciudad Ixtepec, Cosolapa, Guadalupe Etla, El Espinal, Huajuapan de León, Juchitán de Zaragoza, Loma Bonita, Matías Romero, Miahuatlán de Porfirio Díaz, Natividad, Oaxaca de Juárez, Salina Cruz, San Agustín de las Juntas, San Agustín Yatareni, San Dionisio Ocotlán, San Francisco Ixhuatán, San Jacinto Amilpas, San Juan Mixtepec (Dist. O8 [sic]), San Miguel Soyaltepec, San Pablo Etla, San Pedro Mixtepec-Juquila, San Pedro Pochutla, San Sebastián Tutla, Santa Cruz Xoxocotlán, Santa Lucía del Camino, Santa María del Tule, Santiago Miltepec, Santo Domingo Tehuantepec, San Jerómino Tlacochauya, Tlacolula de Matamoros y Tlalixtac de Cabrera.
+Estado de Oaxaca: Acatlán de Pérez Figueroa, Ciudad Ixtepec, Cosolapa, Guadalupe Etla, El Espinal, Huajuapan de León, Juchitán de Zaragoza, Loma Bonita, Matías Romero, Miahuatlán de Porfirio Díaz, Natividad, Oaxaca de Juárez, Salina Cruz, San Agustín de las Juntas, San Agustín Yatareni, San Dionisio Ocotlán, San Francisco Ixhuatán, San Jacinto Amilpas, San Juan Mixtepec (Dist. 08 [sic]), San Miguel Soyaltepec, San Pablo Etla, San Pedro Mixtepec-Juquila, San Pedro Pochutla, San Sebastián Tutla, Santa Cruz Xoxocotlán, Santa Lucía del Camino, Santa María del Tule, Santiago Miltepec, Santo Domingo Tehuantepec, San Jerómino Tlacochauya, Tlacolula de Matamoros y Tlalixtac de Cabrera.
 
 Estado de Puebla: Santiago Miahuatlán y Zinacatepec.
 
@@ -26500,3 +26500,7 @@ SEGUNDO. Para los efectos de lo dispuesto en el artículo 2-C de la Ley del Impu
 D.O.F. 3 DE MAYO DE 2004.
 
 LA ACTUALIZACION POR MISCELANEA FISCAL CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+D.O.F. 19 DE NOVIEMBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
