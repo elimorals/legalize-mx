@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2004-09-08"
+last_updated: "2005-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -100,7 +100,7 @@ Son auxiliares de la administración de justicia y están obligados a cumplir la
 
 > <small>(ADICIONADA, G.O. 21 DE ENERO DE 1999)</small>
 
-I. La Subsecretaría de Gobierno del Distrito Federal.
+I. La Subsecretaría de Gobierno del Distrito Federal;
 
 II. La Dirección General de Prevención y Readaptación Social;
 
@@ -180,13 +180,13 @@ Los Magistrados durarán seis años en el ejercicio de su encargo, podrán ser r
 
 Todo Magistrado al término de su encargo, será sometido al procedimiento de ratificación.
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2005)</small>
 
-Para tal efecto, el Presidente del Tribunal Superior de Justicia del Distrito Federal deberá hacer del conocimiento del Jefe de Gobierno del Distrito Federal, con una antelación de por lo menos cuarenta y cinco días, el nombre del o los Magistrados que estén por concluir el ejercicio de su encargo.
+Para tal efecto, el Presidente del Tribunal Superior de Justicia del Distrito Federal deberá hacer del conocimiento del Jefe de Gobierno del Distrito Federal, con una antelación de por lo menos noventa días, el nombre del o los Magistrados que estén por concluir el ejercicio de su encargo.
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2005)</small>
 
-El Jefe de Gobierno del Distrito Federal remitirá a la Asamblea Legislativa del Distrito Federal, con una antelación de veinte días, el nombre y la documentación correspondiente del o los Magistrados nombrados por él, en los términos del Estatuto de Gobierno.
+El Jefe de Gobierno del Distrito Federal remitirá a la Asamblea Legislativa del Distrito Federal, con una antelación de veinte días, el nombre y la documentación correspondiente del o los Magistrados propuestos nombrados por él, en los términos del Estatuto de Gobierno. En el caso de ratificación, deberá de anexarse además, una breve exposición de motivos y extracto curricular del Magistrado propuesto.
 
 > <small>(REFORMADO, G.O. 21 DE ENERO DE 1999)</small>
 
@@ -274,11 +274,11 @@ Para ser Juez de Paz se requiere:
 
 > <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
 
-I.- Ser mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+I. Ser mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 > <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
 
-II.- Tener cuando menos veintiocho años de edad cumplidos al día de la designación;
+II. Tener cuando menos veintiocho años de edad cumplidos al día de la designación;
 
 III. Ser Licenciado en Derecho y tener Cédula Profesional expedida por la autoridad o institución legalmente facultada para ello;
 
@@ -458,7 +458,7 @@ IX. Proponer al Consejo de la Judicatura, a través de su Presidente las adecuac
 
 X. Conocer de las quejas que se presenten en contra de su Presidente, y
 
-XI. Conocer de los asuntos cuya resolución no esté expresamente atribuida a otro órgano judicial.
+XI. Conocer de los asuntos cuya resolución no esté expresamente atribuida a otro órgano judicial;
 
 > <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -520,7 +520,7 @@ Corresponde al Presidente del Tribunal Superior de Justicia del Distrito Federal
 
 > <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
 
-I.- Representar al Tribunal Superior de Justicia del Distrito Federal:
+I. Representar al Tribunal Superior de Justicia del Distrito Federal:
 
 a). En los actos oficiales, teniendo la facultad de delegar en Magistrados o Jueces dicha representación, y
 
@@ -772,7 +772,7 @@ VI. De los demás asuntos que les encomienden las leyes.
 
 Los juzgados penales ejercerán las competencias y atribuciones que les confieren las leyes, a partir de la recepción del turno de trámite que se establecerá por orden numérico en los términos del control que lleve a cabo la Dirección de Turno de Consignaciones Penales del Tribunal y de conformidad con las reglas que para el efecto expida el Consejo de la Judicatura del Distrito Federal.
 
-Estas reglas deberán garantizar objetividad e imparcialidad en los turnos así como equilibrio en las cargas de trabajo entre los distintos juzgados
+Estas reglas deberán garantizar objetividad e imparcialidad en los turnos así como equilibrio en las cargas de trabajo entre los distintos juzgados.
 
 Los servidores públicos del Tribunal y del Consejo de la Judicatura que con motivo de sus funciones posean información sobre el turno y las reglas deberán dar trato estrictamente confidencial a dicha información, haciéndose acreedores, en caso de incumplimiento, a la respectiva sanción penal o administrativa, de acuerdo con el carácter de la infracción.
 
@@ -2416,13 +2416,13 @@ En caso de negarse a firmar el Juez o Magistrado, se hará constar esta situaci�
 
 El acta levantada por el Visitador será entregada al titular del órgano visitado y a la Comisión de Disciplina Judicial, por conducto del Visitador General, a fin de que determine lo que corresponda y, en caso de responsabilidad, para que proceda en los términos previstos por esta Ley. El Visitador General, con base a las actuaciones realizadas por los Visitadores, propondrá a la Comisión de Disciplina Judicial, por medio de proyectos, las sanciones o medidas correctivas conducentes.
 
-> <small>(ADICIONADO, G.O. 24 DE ENERO DE 2003)</small>
+> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 207.
 
 El Consejo de la Judicatura del Distrito Federal podrá ordenar la realización de visitas extraordinarias de inspección o acordar la integración de Comisiones Especiales de Investigación, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por un Juez de Paz, por un Juez de Primera Instancia o por un Magistrado. En dichas Comisiones intervendrá además el Visitador General.
 
-> <small>(REFORMADO [ N. DE E. REUBICADO, ANTES TITULO DECIMO PRIMERO], G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES TITULO DECIMO PRIMERO], G.O. 24 DE ABRIL DE 2003)</small>
 
 ## TITULO DUODÉCIMO. De la Sustitución en Caso de Impedimentos, Recusaciones y Excusas
 
@@ -2606,7 +2606,7 @@ Si la falta se cometiere por alguna Sala del Tribunal Superior de Justicia del D
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-###### Articulo 223.
+###### Artículo 223.
 
 Son faltas de los Secretarios del ramo penal:
 
@@ -2943,3 +2943,9 @@ PRIMERO.- Remítase al Jefe de Gobierno para su debida promulgación y publicaci
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- El Consejo de la Judicatura contará con un término de noventa días para llevar a cabo los acuerdos a que se refiere el artículo 127 párrafo tercero después de publicada la presente ley.
+
+G.O. 26 DE ENERO DE 2005.
+
+Primero. Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
