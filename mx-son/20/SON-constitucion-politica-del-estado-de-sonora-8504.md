@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1996-06-20"
+last_updated: "1996-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE NOVIEMBRE DE 1996.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -334,6 +334,8 @@ Artículo 25 D. Habrá un Plan Estatal de Desarrollo al que se sujetarán obliga
 > <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
 Artículo 25 E. La Ley determinará los procedimientos de participación y consulta popular en el proceso de planeación y los criterios para la formulación, instrumentación, control y evaluación de los planes y los programas de desarrollo y los órganos responsables. Asimismo, las bases para que el Ejecutivo Estatal coordine mediante convenios con los Gobiernos Federal y Municipal e induzca y concierte con las representaciones de los sectores social y privado las acciones a realizar para su elaboración y ejecución.
+
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
 ## TITULO CUARTO.
 
@@ -883,6 +885,8 @@ Ministerio Público.
 
 Poder Judicial.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
+
 #### SECCION V.
 
 Defensoría de Oficio.
@@ -1409,6 +1413,8 @@ El Jefe de Defensores rendirá la protesta de Ley ante el Ejecutivo y será subs
 
 Para ser Defensor de Oficio se necesitan los mismos requisitos que para ser Agente del Ministerio Público.
 
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
+
 ### CAPITULO I.
 
 Integración y Organización de los Municipios.
@@ -1417,7 +1423,7 @@ Integración y Organización de los Municipios.
 
 ###### Artículo 112.
 
-El Poder Judicial se depositará para su ejercicio en un Supremo Tribunal de Justicia, en las Salas Regionales del Supremo Tribunal de Justicia, en los Juzgados de Primera Instancia y en los Juzgados Locales.
+El Poder Judicial se depositará, para su ejercicio, en un Supremo Tribunal de Justicia, en Tribunales Regionales de Circuito, en Juzgados de Primera Instancia y en Juzgados Locales. Existirá, además, el Consejo del Poder Judicial del Estado de Sonora, como un órgano permanente de la administración de justicia.
 
 > <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
 
@@ -1431,19 +1437,19 @@ El servicio judicial será gratuito. En consecuencia, quedan prohibidas las cost
 
 Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuída durante su encargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
 ###### Artículo 113.
 
-El Supremo Tribunal de Justicia se compondrá de siete Magistrados Propietarios y siete Suplentes, nombrados cada seis años.
+El Supremo Tribunal de Justicia se compondrá de siete Magistrados Propietarios y siete Suplentes y funcionará en Pleno, en Salas o en Comisiones.
 
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
 
 Los Magistrados del Supremo Tribunal de Justicia designados podrán ser reelectos y, si lo fueren, sólo podrán ser privados del cargo en los términos del Título Sexto de esta Constitución.
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
-Los Magistrados del Supremo Tribunal de Justicia tomarán posesión de su cargo, el día veinticinco de octubre del año en que se inicie el período constitucional del Ejecutivo. Si por cualquier motivo no se hace nombramiento o los designados no se presentan al desempeño de su cargo, continuarán en funciones los individuos que formen el Supremo Tribunal de Justicia, hasta que tomen posesión los nuevamente nombrados. Los que fueren nombrados en el curso del período, desempeñarán sus funciones hasta la conclusión del mismo.
+Los Magistrados del Supremo Tribunal de Justicia durarán en su encargo nueve años y serán sustituidos de manera escalonada, salvo que se actualice el supuesto previsto en el párrafo que antecede. Si por cualquier motivo no se hace nombramiento o los designados no se presentan al desempeño de su cargo, continuarán en funciones los individuos que formen el Supremo Tribunal de Justicia, hasta que tomen posesión los nuevamente nombrados. Los Magistrados nombrados para concluir el período de otro, por falta definitiva o absoluta de éste, desempeñarán sus funciones hasta la conclusión del período de aquél.
 
 > <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
 
@@ -1453,169 +1459,115 @@ Los nombramientos de los magistrados del Supremo Tribunal de Justicia serán hec
 
 En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación del Congreso en el siguiente período ordinario de sesiones. En este período ordinario de sesiones, dentro de los primeros tres días, el Congreso deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Congreso rechaza el nombramiento, cesará desde luego en sus funciones de Magistrado Provisional y el Gobernador del Estado someterá nuevo nombramiento, para su aprobación en los términos señalados.
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
 ###### Artículo 114.
 
-Para ser Magistrado del Supremo Tribunal de Justicia se requiere reunir los requisitos señalados en el artículo 95 de la Constitución Política de los Estados Unidos Mexicanos.
+Para ser Magistrado del Supremo Tribunal de Justicia se requiere reunir los requisitos señalados en las fracciones I a V del artículo 95 de la Constitución Política de los Estados Unidos Mexicanos. No podrán ser Magistrados del Supremo Tribunal de Justicia, las personas que hayan ocupado en el Estado el cargo de Secretario o su equivalente en la administración pública estatal, de Procurador General de Justicia o de Diputado local, durante el año previo al día de su designación.
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
+Los Magistrados del Supremo Tribunal de Justicia se distinguirán entre sí por el calificativo numérico que corresponda al orden en que hayan sido designados.
+
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
 ###### Artículo 115.
 
-El cargo de Magistrado del Supremo Tribunal de Justicia solamente es renunciable por causa grave calificada por el Congreso.
+Los Magistrados Propietarios y Suplentes del Supremo Tribunal de Justicia rendirán la protesta de ley ante el Congreso del Estado y, en sus recesos, ante la Diputación Permanente.
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
 ###### Artículo 116.
 
-Los Magistrados Propietarios y Suplentes del Supremo Tribunal de Justicia rendirán la protesta de ley ante el Congreso del Estado o ante la Diputación Permanente.
+El cargo de Magistrado del Supremo Tribunal de Justicia solamente es renunciable por causa grave calificada por el Congreso.
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
+Las licencias de los Magistrados del Supremo Tribunal de Justicia, cuando no excedan de un mes, podrán ser concedidas por el Pleno del Supremo Tribunal de Justicia; las que excedan de ese tiempo podrán concederse por la Legislatura local y, en sus recesos, por la Diputación Permanente. Ninguna licencia podrá exceder del término de dos años.
+
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
 ###### Artículo 117.
 
-El Supremo Tribunal de Justicia y sus Salas Regionales funcionarán conforme a las prescripciones de la Ley Orgánica respectiva, la cual se ajustará a las bases establecidas en esta Constitución. Los Magistrados del Supremo Tribunal de Justicia y los de las Salas Regionales del mismo, se distinguirán entre sí por el calificativo numérico que corresponda al orden en que hayan sido designados.
+La competencia del Supremo Tribunal de Justicia, su funcionamiento en Pleno, Salas o Comisiones, la competencia de los Tribunales Regionales de Circuito y la de los Juzgados de Primera Instancia y Locales, así como las responsabilidades en que incurran los servidores públicos del Poder Judicial del Estado, se regirán por lo que dispongan las leyes.
 
-> <small>(REFORMADO, B.O. 5 DE ABRIL DE 1952)</small>
+El Supremo Tribunal de Justicia, funcionando en Pleno, determinará el número, división en circuitos, jurisdicción territorial y, en su caso, especialización por materia, de los Tribunales Regionales de Circuito y de los Juzgados de Primera Instancia.
+
+Asimismo, el Pleno elegirá de entre sus miembros, en los plazos que determine la ley, al Presidente del Supremo Tribunal de Justicia, el cual no podrá ser reelecto para el período inmediato posterior, salvo que se trate de una suplencia; en cuyo caso el suplente sí podrá ser reelecto.
+
+El Supremo Tribunal de Justicia, por conducto de su Presidente, deberá rendir al Congreso y al Gobernador del Estado, los informes que le soliciten sobre el ramo judicial.
+
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
 ###### Artículo 118.
 
-El Supremo Tribunal de Justicia tendrá un Presidente, y lo será el Magistrado electo cada año por mayoría de votos de sus miembros.
+El Pleno del Supremo Tribunal de Justicia, para el adecuado ejercicio de sus funciones, estará facultado para expedir Acuerdos Generales, de conformidad con lo que establezca la ley.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
 ###### Artículo 119.
 
-Tendrá también un Secretario General y los demás que fueren necesarios para el despacho de los asuntos de su competencia.
+Cuando algún Magistrado del Supremo Tribunal de Justicia estuviere impedido para conocer de un asunto determinado, será suplido, en los términos establecidos por la ley orgánica respectiva. Si el magistrado impedido fuere el ponente de dicho asunto, quien lo substituya no asumirá la ponencia, quedando la elaboración del proyecto de resolución a cargo del magistrado siguiente en número, a quien no afecte impedimento.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+Cuando todos los magistrados en ejercicio estuvieren impedidos para conocer de determinado negocio, el Supremo Tribunal de Justicia se integrará por magistrados suplentes, correspondiendo presidir los debates y ser ponente, al primero que conforme a la ley hubiere sido llamado.
+
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
 ###### Artículo 120.
 
-Son facultades y obligaciones del Supremo Tribunal:
+El Consejo del Poder Judicial del Estado de Sonora se integrará, conforme a las bases que establezca la ley orgánica respectiva, hasta por once Consejeros y funcionará en Pleno.
 
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
+En Consejo del Poder Judicial del Estado de Sonora resolverá sobre la designación y adscripción de Magistrados Regionales de Circuito y Jueces de Primera Instancia, así como de los demás asuntos que la ley determine.
 
-I. Conocer en segunda instancia de los juicios civiles que señale la Ley Orgánica respectiva.
+El Presidente del Supremo Tribunal de Justicia también los será del Consejo.
 
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
+Los Consejeros ejercerán sus funciones con independencia e imparcialidad.
 
-II. Conocer en segunda instancia de los juicios penales que señale la Ley Orgánica respectiva.
+Las decisiones del Consejo que se refieren a la designación y adscripción de Magistrados Regionales de Circuito y Jueces de Primera Instancia, podrán ser revisadas por el Pleno del Supremo Tribunal de Justicia, exclusivamente, para verificar que hayan sido adoptadas conforme a las reglas que establezca la ley orgánica respectiva, revocando, modificando o confirmando las mismas.
 
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
-
-III. Dirimir las cuestiones de competencia que se susciten entre las Salas Regionales del Supremo Tribunal de Justicia y las que presenten entre los Jueces del Estado.
-
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
-
-IV. Nombrar y remover a los Magistrados de las Salas Regionales del Supremo Tribunal de Justicia y a los Jueces de Primera Instancia y aceptarles sus renuncias en la forma y términos señalados por la Ley. Los nombramientos serán hechos, preferentemente, entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
-
-> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
-
-IV Bis. Ordenar, cuando se considere conveniente por las necesidades del servicio, la instalación de Juzgados de Primera Instancia Supernumerarios y señalar el período de su funcionamiento y los asuntos de los que deben conocer.
-
-V. Nombrar y remover a sus Secretarios y a sus demás empleados subalternos, así como aceptarles su renuncia.
-
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
-
-VI. Aprobar los nombramientos de los Jueces Locales que hagan los de Primera Instancia.
-
-VII. Conceder licencia a los funcionarios y empleados cuyo nombramiento le compete, de acuerdo con lo que determinen las leyes relativas.
-
-VIII. Formar su Reglamento Interior.
-
-IX. Iniciar leyes y decretos ante el Congreso, en lo concerniente al ramo de justicia.
-
-X. Dictaminar sobre las peticiones de indulto necesario.
-
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
-
-XI. Ejercer debida vigilancia sobre las Salas Regionales del Supremo Tribunal de Justicia, Juzgados y empleados judiciales, para la pronta, completa e imparcial administración de justicia, dictando las medidas necesarias, a fin de corregir las anomalías que notare, pero sin entorpecer las funciones de los órganos jurisdiccionales señalados.
-
-XII. Ordenar visitas a los establecimientos de reclusión penal y adoptar y proponer las medidas correspondientes, según el resultado de aquéllos.
-
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
-
-XIII. Autorizar el pago de los honorarios de los Magistrados Suplentes, cuando ejercieren funciones.
-
-XIV. Proponer al Congreso se tomen las medidas encaminadas a remediar las omisiones y contradicciones que observare en las leyes.
-
-> <small>(REFORMADA, B.O. 8 DE NOVIEMBRE DE 1993)</small>
-
-XV. Rendir al Congreso y al Ejecutivo los informes que le pidan sobre el ramo judicial.
-
-XVI. Conocer de las controversias que se susciten entre el Ejecutivo del Estado y los Ayuntamientos.
-
-> <small>(REFORMADA, B.O. 9 DE ABRIL DE 1984)</small>
-
-XVII. Instruir y sentenciar de conformidad con las leyes relativas, en única instancia, los procesos penales que llegaren a iniciarse en contra de los servidores públicos enumerados en el primer párrafo del Artículo 146 de esta Constitución, por los delitos a que aluden los Títulos Séptimo y Octavo del Libro Segundo del Código Penal.
-
-XVIII. Las demás que le confieran o impongan las leyes.
-
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
 ###### Artículo 121.
 
-Cuando algún Magistrado del Supremo Tribunal de Justicia estuviere impedido para conocer de un asunto determinado, será suplido en los términos establecidos por la Ley Orgánica respectiva. Si el Magistrado impedido fuere el ponente en dicho asunto, quien lo sustituya no asumirá la ponencia, quedando la elaboración del proyecto de resolución a cargo del Magistrado siguiente en número, a quien no afecte impedimento.
+Los Magistrados de los Tribunales Regionales de Circuito y los Jueces de Primera Instancia serán nombrados y adscritos por el Consejo del Poder Judicial del Estado de Sonora, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que señalen los ordenamientos jurídicos respectivos; durarán cinco años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados, continuarán en el desempeño de sus funciones por diez años más, sin perjuicio de que puedan ser privados de sus cargos, en cualquier momento, en los casos y conforme a los procedimientos que establezca la ley.
 
-Cuando todos los Magistrados en ejercicio estuvieren impedidos para conocer de determinado negocio, el Supremo Tribunal se integrará por Magistrados Suplentes, correspondiendo presidir los debates y ser ponente al primero que conforme a la ley hubiere sido llamado.
-
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
 ###### Artículo 122.
 
-Los Magistrados del Supremo Tribunal de Justicia que estén en funciones, exceptuándose los casos que específicamente determine la ley respecto de los suplentes, no pueden ser abogados en negocios ajenos, apoderados, asesores o árbitros de derecho, ni desempeñar ningún empleo, cargo o comisión de la Federación, del Gobierno del Estado, de otras entidades, de los Municipios, o de particulares, salvo los cargos docentes y los honoríficos en asociaciones científicas o artísticas.
+El Pleno del Supremo Tribunal de Justicia nombrará al Secretario General de Acuerdos del Supremo Tribunal de Justicia y a los demás funcionarios y empleados de su adscripción.
 
-Esta misma prohibición regirá para los Magistrados de las Salas Regionales del Supremo Tribunal de Justicia.
+Los Magistrados Regionales de Circuito y los Jueces de Primera Instancia nombrarán a los servidores públicos de los Tribunales Regionales de Circuito y Juzgados de Primera Instancia, respectivamente, conforme a lo que establezca la ley en relación con la carrera judicial.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 19 DE DICIEMBRE DE 1991)</small>
+Artículo 122 A. (DEROGADO, B.O. 11 DE NOVIEMBRE DE 1996)
+
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
 ###### Artículo 123.
 
-Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia del Estado, durando en su ejercicio dos años y podrán desempeñar el cargo en períodos sucesivos. Cuando las necesidades del servicio lo requieran, se podrán nombrar Jueces de Primera Instancia Supernumerarios, en los términos que precise la Ley Orgánica respectiva.
+Los Magistrados del Supremo Tribunal de Justicia, los Magistrados Regionales de Circuito, los Jueces de Primera Instancia y los Jueces Locales que estén en funciones, exceptuándose los casos que específicamente determine la ley respecto a los suplentes, no pueden ser abogados en causa ajena, apoderados, asesores o árbitros de derecho, ni desempeñar ningún empleo, cargo o comisión de la Federación, del Gobierno del Estado, de otras entidades, de los municipios, o de particulares, salvo los cargos docentes y los honoríficos en asociaciones científicas o artísticas.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
 ###### Artículo 124.
 
-Para ser juez de primera instancia se requiere:
+La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, profesionalismo, imparcialidad, independencia y antigüedad, en su caso, y bajo los criterios de igualdad de oportunidades, méritos y capacidad.
 
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
-
-I. Ser mexicano en pleno ejercicio de sus derechos políticos y tener título de licenciado en derecho.
-
-II. No haber sido condenado en proceso en ningún delito y ser de reconocida moralidad.
-
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
 ###### Artículo 125.
 
-Los Jueces Locales serán nombrados cada dos años por los Jueces de Primera Instancia del Ramo Civil. El nombramiento será sometido a la aprobación del Supremo Tribunal.
+Para ser Magistrado Regional de Circuito se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, mayor de treinta años, gozar de buena reputación, no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año, contar con título de Licenciado en Derecho expedido legalmente y práctica profesional, de cuando menos cinco años; además se deberá observar lo que prevenga la ley de la materia para la carrera judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
 ###### Artículo 126.
 
-Para ser Juez Local se requiere:
+Para ser Juez de Primera Instancia se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, mayor de veintiséis años, contar con título de Licenciado en Derecho expedido legalmente, un mínimo de tres años de ejercicio profesional, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año.
 
-> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 1972)</small>
-
-I. Ser mexicano en pleno ejercicio de sus derechos políticos y tener 21 años cumplidos, por lo menos el día del nombramiento.
-
-> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
-
-II. No haber sido condenado en proceso por ningún delito y ser de reconocida moralidad.
-
-> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
-
-III. Tener la competencia necesaria para el desempeño del cargo, a juicio del juez que lo nombre.
-
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
 ###### Artículo 127.
 
-Los Jueces de Primera Instancia y los Locales conocerán de los asuntos que les encomienden las leyes, en la forma y términos que las mismas establezcan.
+Para ser Juez Local se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, mayor de veintiún años, gozar de buena reputación, no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año y tener la competencia necesaria para el desempeño del cargo, a juicio del Juez que lo nombre.
+
+Los jueces locales serán nombrados cada dos años por los Jueces de Primera Instancia. El nombramiento será sometido a la aprobación del Pleno del Supremo Tribunal de Justicia.
 
 > <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -1901,9 +1853,9 @@ El Congreso expedirá la Ley de Responsabilidades de los servidores públicos me
 
 I. Responsabilidad política, determinada mediante juicio político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
 
-> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
-Sólo podrán ser sujetos a juicio político, los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, de sus Salas Regionales y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los Subprocuradores, los Secretarios y Subsecretarios, los Jueces de Primer Instancia, los Agentes del Ministerio Público, los Presidentes Municipales, Síndicos, Regidores, Secretarios y Tesoreros de los Ayuntamientos, así como los Directores Generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los Municipios.
+Sólo podrán ser sujetos a juicio político, los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los Magistrados de los Tribunales Regionales de Circuito y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los Subprocuradores, los Secretarios y Subsecretarios, los Jueces de Primer Instancia, los Agentes del Ministerio Público, los presidentes municipales, síndicos, regidores, secretarios y tesoreros de los ayuntamientos, así como los directores generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los Municipios.
 
 Las sanciones consistirán en la destitución del servidor público y, en su caso, la inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
@@ -1927,11 +1879,11 @@ En el caso de que el Gobernador del Estado, Diputados Locales y Magistrados del 
 
 El procedimiento de juicio político, deberá iniciarse durante el tiempo en que el servidor público desempeñe un empleo, cargo o comisión, o dentro del año siguiente al de la conclusión de sus funciones. La (sic) sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
 ###### Artículo 146.
 
-Para proceder penalmente contra el Gobernador, Diputados al Congreso del Estado, Magistrados del Supremo Tribunal de Justicia, de sus Salas Regionales y del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, Secretarios y Subsecretarios, Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, Jueces de Primera Instancia y Agentes del Ministerio Público, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará, por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar o no a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, Diputados al Congreso del Estado, Magistrados del Supremo Tribunal de Justicia, Magistrados Regionales de Circuito y del Tribunal de lo Contencioso Administrativo; Procurador General de Justicia, Secretarios y Subsecretarios, presidentes municipales, síndicos y regidores de los ayuntamientos, Jueces de Primera Instancia y Agentes del Ministerio Público, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará, por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar o no a proceder contra el inculpado.
 
 > <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -2646,6 +2598,36 @@ B.O. 20 DE JUNIO DE 1996.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 11 DE NOVIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+Para adoptar la sustitución escalonada que previene esta ley, la designación de los Magistrados del Supremo Tribunal de Justicia que integrarán el Pleno de dicho órgano, se sujetará a lo siguiente: tres de los actuales Magistrados del Supremo Tribunal de Justicia concluirán sus funciones el 24 de octubre de 1997; la tercer ponente del Pleno del Supremo Tribunal de Justicia, dado su carácter inamovible, continuará en el ejercicio de su cargo; tres de los Magistrados más antiguos en su designación como tales prorrogarán el ejercicio de sus funciones, dos de ellos hasta el 24 de octubre del año 2000 y, el diverso, el de mayor antigüedad al servicio del Poder Judicial, hasta el 15 de septiembre del año 2003.
+
+###### ARTICULO TERCERO.
+
+El Consejo del Poder Judicial del Estado de Sonora se instalará en los términos que establezca la ley respectiva.
+
+###### ARTICULO CUARTO.
+
+El Pleno del Supremo Tribunal de Justicia, en ejercicio de la facultad establecida en el segundo párrafo del artículo 117 de la Constitución Política del Estado de Sonora, que se reforma en virtud de esta ley, y con base en lo que señale la ley orgánica respectiva, proveerá lo que resulte conducente para la transformación de las Salas Regionales del Supremo Tribunal de Justicia en Tribunales Regionales de Circuito, así como para la adecuación de los nombramientos de los servidores públicos que correspondan.
+
+###### ARTICULO QUINTO.
+
+Las disposiciones que reconozcan competencia al Supremo Tribunal de Justicia, se entenderán referidas a los Tribunales Regionales de Circuito, cuando la cuestión debatida sea de la competencia de éstos; asimismo, a partir de la vigencia de la presente ley, la competencia atribuida en cualquier ordenamiento jurídico a las Salas Regionales del Supremo Tribunal de Justicia, deberá entenderse conferida a los Tribunales Regionales de Circuito.
+
+###### ARTICULO SEXTO.
+
+Los Magistrados de las Salas Regionales del Supremo Tribunal de Justicia, previa la actualización que de sus nombramientos realice el Pleno del Supremo Tribunal de Justicia, continuarán en el ejercicio de sus cargos, como Magistrados Regionales de Circuito, hasta el 15 de septiembre de 1997.
+
+Asimismo, los Jueces de Primera Instancia nombrados para el período comprendido del 16 de septiembre de 1995 al 15 de septiembre de 1997, así como los que fueren designados en el curso de dicho período, continuarán en el desempeño de sus cargos, hasta la conclusión del mismo.
+
+Si al concluir el término precisado en los párrafos que anteceden el Consejo del Poder Judicial del Estado de Sonora no ha expedido los nombramientos correspondientes de Magistrado Regional de Circuito y de Jueces de Primera Instancia, continuarán en funciones quienes se encuentren desempeñando dichos cargos, hasta en tanto tomen posesión los nuevamente nombrados.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
