@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "1993-11-19"
+last_updated: "1996-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -161,7 +161,11 @@ XIV.- Gasolineras; y
 
 XV.- Giros comerciales e industriales; y
 
-XVI.- Las demás materias que determine esta ley y demás disposiciones generales aplicables.
+> <small>(ADICIONADA, P.O.24 DE DICIEMBRE DE 1996)</small>
+
+XVI.- De los establecimientos en donde se encuentren personas que ejerzan el sexo comercial;
+
+XVII.- Las demás materias que determine esta Ley y demás disposiciones generales aplicables.
 
 ###### ARTICULO 4.
 
@@ -350,6 +354,10 @@ V.- Certificar la calidad del agua para uso y consumo humano, en los términos d
 > <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 VI.- Incluir, en su caso, en los bandos de policía y buen gobierno, en sus reglamentos, circulares y demás disposiciones administrativas, normas relacionadas con los servicios de salud y asistencia social que estén a su cargo; y
+
+> <small>(ADICIONADO, P.O.24 DE DICIEMBRE DE 1996)</small>
+
+Asimismo, las normas relacionadas con las previsiones administrativas y de salud, de los lugares y personas a que se refiere la fracción XVI del apartado B) del artículo 3º de esta Ley; y
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
@@ -1977,7 +1985,29 @@ Queda estrictamente prohibida la entrada a niños menores de 5 años a salas cin
 
 Queda prohibido fumar dentro de los teatros, cines, auditorios, oficinas públicas y, en general, dentro de cualquier área cerrada a la que concurra el público.
 
-### CAPITULO I. Autorizaciones
+### CAPITULO XVI. De los establecimientos en donde se ejerce el Sexo Comercial
+
+> <small>(ADICIONADO, P.O.24 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 244 A.- Para los efectos de esta Ley, se entiende por establecimiento donde se ejerce el sexo comercial, aquel lugar en donde de manera permanente se realizan dichas actividades.
+
+La Secretaría de Salud del Estado de Guanajuato, dictará las disposiciones relativas a la vigilancia, verificación y control sanitario de las personas dedicadas al sexo comercial, así como de los lugares en donde se ejerce.
+
+> <small>(ADICIONADO, P.O.24 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 244 B.- El Ayuntamiento, considerando el dictamen sanitario de la Secretaría de Salud del Estado de Guanajuato, resolverá sobre las autorizaciones para los establecimientos en donde se ejerza el servicio del sexo comercial, atendiendo a las condiciones y requisitos que se establezcan en el reglamento correspondiente el cual deberá contener disposiciones de seguridad, higiene, salubridad, prohibiciones, sanciones administrativas y ubicación geográfica, considerando su distancia con centros de población, escuelas e iglesias, entre otras.
+
+La autorización del Ayuntamiento a que se refiere el párrafo anterior, no deberá contravenir lo dispuesto en el artículo 195 del Código Penal para el Estado de Guanajuato.
+
+El Ayuntamiento podrá revocar las autorizaciones cuando se dejen de cumplir o se infrinjan las disposiciones de esta Ley y los reglamentos respectivos, o por causas de interés público.
+
+> <small>(ADICIONADO, P.O.24 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 244 C.- Las personas que se dediquen al sexo comercial deberán sujetarse a las disposiciones que determine el Ayuntamiento, a través del reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O.24 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 244 D.- Para los efectos de este Capítulo, el Ayuntamiento determinará de conformidad con los planes de desarrollo urbano, la ubicación de los lugares donde se ejerza el sexo comercial.
 
 ###### ARTICULO 231.
 
@@ -2005,7 +2035,7 @@ III.- Lavadero público: el establecimiento al cual acuden los interesados para 
 
 La autorización a que se hace referencia en el artículo anterior se expedirá una vez cubiertos los requisitos que señala esta Ley y demás disposiciones legales aplicables.
 
-### CAPITULO II. Revocación de Autorizaciones Sanitarias
+### CAPITULO I. Autorizaciones
 
 ###### ARTICULO 236.
 
@@ -2031,7 +2061,7 @@ La autoridad sanitaria, expedirá las autorizaciones a que se refieren los artí
 
 Queda prohibido dar cualquier otro uso a estos establecimientos sólo para lo que fueron autorizados.
 
-### CAPITULO III. Certificados
+### CAPITULO II. Revocación de Autorizaciones Sanitarias
 
 ###### ARTICULO 241.
 
@@ -2043,9 +2073,7 @@ Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo d
 
 Los transportes a que se refiere el artículo anterior y que circulen en el interior del Estado, deberán cumplir con los requisitos sanitarios que marca esta ley, las demás disposiciones aplicables y las normas oficiales correspondientes.
 
-### CAPITULO UNICO. Vigilancia Sanitaria
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+### CAPITULO III. Certificados
 
 ###### ARTICULO 243.
 
@@ -2057,13 +2085,17 @@ Para los efectos de esta Ley, se entiende por gasolinera el establecimiento dest
 
 Las gasolineras deberán contar con las instalaciones sanitarias y de seguridad que establezca esta Ley, otras disposiciones legales aplicables y las normas oficiales relativas. Las instalaciones sanitarias deberán estar permanentemente limpias y en perfectas condiciones de funcionamiento.
 
-### CAPITULO I. Medidas de Seguridad Sanitaria
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O.24 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+### CAPITULO UNICO. Vigilancia Sanitaria
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ## TITULO DECIMO SEGUNDO
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO I. Medidas de Seguridad Sanitaria
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 245.
 
@@ -2141,7 +2173,7 @@ Los ingresos que se obtengan por los servicios de salubridad que se presten, se 
 
 > <small>(DEROGADO SEGUNDO PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
-### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 257.
 
@@ -2201,7 +2233,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO IV. Recurso de Inconformidad
+### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 265.
 
@@ -2237,7 +2269,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO DECIMO TERCERO
 
-### CAPITULO V. Prescripción
+### CAPITULO IV. Recurso de Inconformidad
 
 ###### ARTICULO 270.
 
@@ -2356,6 +2388,8 @@ ARTICULO 278 BIS-1.- En el caso de tomas de muestras de productos perecederos de
 ARTICULO 278 BIS-2.- En el caso de los productos recogidos en procedimiento de muestreo o verificación, sólo los laboratorios autorizados o habilitados por la Secretaría para tal efecto podrán determinar, por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
 
 ## TITULO DECIMO CUARTO. Medidas de Seguridad Sanitaria y Sanciones Administrativas
+
+### CAPITULO V. Prescripción
 
 ###### ARTICULO 279.
 
@@ -2754,3 +2788,9 @@ DR. DAVID CADENA BARQUIN.
 P.O. 19 DE NOVIEMBRE DE 1993.
 
 Artículo Único.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE DICIEMBRE DE 1996.
+
+###### ARTICULO UNICO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA PRIMERO DE ENERO DE MIL NOVECIENTOS NOVENTA Y SIETE, PREVIA SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
