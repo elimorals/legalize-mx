@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "1990-04-14"
+last_updated: "1991-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 1991.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -863,6 +863,8 @@ El juez que condene al pago de la reparación del daño podrá fijar plazo para 
 
 ### CAPITULO III. Armas y objetos prohibidos
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1991)</small>
+
 ###### Art. 102.
 
 Cuando el daño que se cause al ofendido produzca su muerte, el monto de la indemnización se fijará aplicando las cuotas que establece la Ley Federal del Trabajo. Si la víctima no percibe utilidad o salario, o no pudiere determinarse éste, el monto de la indemnización se fijará, tomando como base el salario mínimo.
@@ -985,7 +987,11 @@ El reo suspenso en su profesión u oficio o inhabilitado para ejercerlos, o el q
 
 ###### Art. 119.
 
-Se impondrán de seis meses a dos años de prisión al que ilícitamente, suministre, fabrique, compre, venda, porte, introduzca en el Estado o haga acopio de puntas, ganzúas, llaves maestras o santo-niños.
+Se impondrán de uno a tres años de prisión, al que ilegalmente, sin que existan circunstancias que lo justifiquen, en condiciones de desproporción en el ámbito que se encuentre, indebidamente y sin que lo requiera para el desempeño de sus actividades habituales de carácter doméstico, laboral o deportivo y sin que se den requerimientos relativos o vinculados con dichas actividades sin perseguir un fin lícito: fabrique, suministre, regale, compre, venda, porte, introduzca en el Estado o haga acopio de puntas, estrellas, ganzúas, chacos, llaves maestras, correas con balas, manoplas simples o acondicionadas con objetos punzocortantes, navajas, puñales, dagas, verduguillos, tranchetes, leznas, cuchillos u otro tipo de instrumentos comunmente utilizados sólo para agredir, u otros similares así como cualquier otro objeto punzocortante que se disimule en hebillas, bastones, cinturones o cualquier otra forma.
+
+No se considerarán como armas u objetos prohibidos los instrumentos, herramientas o utensilios que, comprendidos en el párrafo anterior, normalmente sean utilizados en las labores domésticas, del campo o en cualquier otro oficio, arte, profesión o actividad deportiva, pero su uso deberá de limitar siempre al local, ruta o área en que su poseedor se avoque o desempeñe tales actividades.
+
+Cuando haya necesidad de transportar los instrumentos o utensilios referidos en el primer párrafo, sea por requerimientos de trabajo o para la práctica de algún deporte, la o las personas que lo realicen quedarán exentas de cualquier responsabilidad penal.
 
 ### CAPITULO IV. Delitos cometidos contra representantes de la autoridad
 
@@ -2742,5 +2748,9 @@ Artículo Primero. Esta Ley entrará en vigor tres días después de su publicac
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a la presente Ley, pero las disposiciones derogadas continuarán aplicándose, exclusivamente a los hechos ejecutados durante su vigencia, a menos que los responsables manifiesten su voluntad de acogerse al ordenamiento que estimen más favorable entre las disposiciones de esta Ley y las que regían en la época de la perpetración del delito.
 
 P.O. 14 DE ABRIL DE 1990.
+
+Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 3 DE SEPTIEMBRE DE 1991.
 
 Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
