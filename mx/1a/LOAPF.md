@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "1983-12-30"
+last_updated: "1985-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1985.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -192,11 +192,11 @@ Cuando alguna Secretaría de Estado o Departamento Administrativo necesite infor
 
 ### CAPITULO II. De la Competencia de las Secretarías de Estado y los Departamentos Administrativos
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 26.
 
-Para el estudio, planeación y despacho de los negocios del orden administrativo, el Poder Ejecutivo de la Unión contará con las siguientes dependencias:
+Para el estudio, planeación y despacho de los negocios del orden administrativo, el Poder Ejecutivo de la Unión, contará con las siguientes dependencias:
 
 Secretaría de Gobernación
 
@@ -224,7 +224,9 @@ Secretaría de Desarrollo Urbano y Ecología
 
 Secretaría de Educación Pública
 
-Secretaría de Salubridad y Asistencia
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
+
+Secretaría de Salud
 
 Secretaría del Trabajo y Previsión Social
 
@@ -848,7 +850,11 @@ XIII.- Mantener al corriente el avalúo de los bienes inmuebles nacionales y reu
 
 XIV.- Tener a su cargo el registro de la propiedad federal, y elaborar y manejar el inventario general de los bienes de la Nación;
 
-XV.- Formular y conducir la política de saneamiento ambiental, en coordinación con la Secretaría de Salubridad y Asistencia;
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE FECHA 21 DE DICIEMBRE DE 1985 Y PUBLICADO EN EL D.O.F. EL 21 DE ENERO DE 1985; SE SUSTITUYE LA REFERENCIA "SECRETARIA DE SALUBRIDAD Y ASISTENCIA" POR LA DE "SECRETARIA DE SALUD".</small>
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1985)</small>
+
+XV.- Formular y conducir la política de saneamiento ambiental, en coordinación con la Secretaría de Salud;
 
 XVI.- Establecer los criterios ecológicos para el uso y destino de los recursos naturales y para preservar la calidad del medio ambiente;
 
@@ -960,9 +966,11 @@ XXX.- Organizar y promover acciones tendientes al pleno desarrollo de la juventu
 
 XXXI.- Los demás que le fijen expresamente las leyes y reglamentos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 1985)</small>
+
 ###### ARTICULO 39.
 
-A la Secretaría de Salubridad y Asistencia corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Salud, corresponde el despacho de los siguientes asuntos:
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
@@ -972,19 +980,27 @@ I.- Establecer y conducir la política nacional en materia de asistencia social,
 
 II.- Crear y administrar establecimientos de salubridad, de asistencia pública y de terapia social en cualquier lugar del territorio nacional y organizar la asistencia pública en el Distrito Federal;
 
-III.- Aplicar a la beneficencia pública los fondos que le proporcione la Lotería Nacional;
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1985)</small>
+
+III.- Aplicar a la Asistencia Pública los fondos que le proporcionen la Lotería Nacional y los Pronósticos para la Asistencia Pública; y administrar el patrimonio de la Beneficencia Pública en el Distrito Federal, en los términos de las disposiciones legales aplicables, a fin de apoyar los programas de servicios de salud;
 
 IV.- Organizar y vigilar las instituciones de beneficencia privada, en los términos de las leyes relativas, e integrar sus patronatos, respetando la voluntad de los fundadores;
 
 V.- Administrar los bienes y fondos que el Gobierno Federal destine para la atención de los servicios de asistencia pública;
 
-VI.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1982)
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 1985)</small>
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+VI.- Planear, normar, coordinar y evaluar el Sistema Nacional de Salud y proveer a la adecuada participación de las dependencias y entidades públicas que presten servicios de salud, a fin de asegurar el cumplimiento del derecho a la protección de la salud.
 
-VII.- Normar, promover y apoyar la impartición de asistencia médica y social a la maternidad y la infancia y vigilar la que se imparta por instituciones públicas o privadas.
+Asimismo, propiciará y coordinará la participación de los sectores social y privado en dicho Sistema Nacional de Salud y determinará las políticas y acciones de inducción y concertación correspondientes;
 
-VIII.- Regular la prevención social a niños hasta de seis años, ejerciendo sobre ellos la tutela que corresponda al Estado;
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1985)</small>
+
+VII.- Planear, normar y controlar los servicios de atención médica, salud pública, asistencia social y regulación sanitaria que correspondan al Sistema Nacional de Salud;
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1985)</small>
+
+VIII.- Dictar las normas técnicas a que quedará sujeta la prestación de servicios de salud en las materias de Salubridad General, incluyendo las de Asistencia Social, por parte de los Sectores Público, Social y Privado, y verificar su cumplimiento;
 
 IX.- Organizar y administrar servicios sanitarios generales en toda la República;
 
@@ -1010,9 +1026,9 @@ XIX.- Organizar congresos sanitarios y asistenciales;
 
 XX.- Prestar los servicios de su competencia, directamente o en coordinación con los Gobiernos de los Estados y del Distrito Federal;
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1985)</small>
 
-XXI.- Actuar como autoridad sanitaria y vigilar el cumplimiento del Código Sanitario de los Estados Unidos Mexicanos y de sus Reglamentos;
+XXI.- Actuar como autoridad sanitaria, ejercer las facultades en materia de salubridad general que las leyes le confieren al Ejecutivo Federal, vigilar el cumplimiento de la Ley General de Salud, sus reglamentos y demás disposiciones aplicables y ejercer la acción extraordinaria en materia de Salubridad General;
 
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
@@ -1361,3 +1377,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto por el presente Decreto.
 
 TERCERO.- Las entidades paraestatales que no estén inscritas en el Registro a que se refiere el artículo 49 Bis que se adiciona por el presente Decreto, deberán hacerlo en un plazo de tres meses contados a partir de la fecha en que el mismo entre en vigor.
+
+D.O.F. 21 DE ENERO DE 1985.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Cuando en esta y otras Leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas, se haga referencia a la Secretaría de Salubridad y Asistencia, se entenderá hecha a la Secretaría de Salud, dentro de la esfera de su competencia, en los términos del presente decreto.
+
+TERCERO.- La Secretaría de Salud procederá gradualmente a sustituir el registro e identificación de los equipos y bienes sujetos actualmente a la custodia y uso de la anterior Secretaría de Salubridad y Asistencia.
