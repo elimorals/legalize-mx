@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-coordinacion-fiscal-del-estado-de-quintana-roo-7240"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "1997-12-15"
+last_updated: "1999-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 31 de diciembre 1993.
 
@@ -369,11 +369,11 @@ Los Municipios no establecerán bajo ningún título, tasas adicionales, coopera
 
 ### CAPÍTULO V. Del Fondo de Aportación para la Infraestructura Social Municipal
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 19.
 
-Se integrará el Fondo de Aportaciones para la Infraestructura Social Municipal con los recursos que el Estado perciba del Gobierno Federal con ministraciones mensuales y por partes iguales, sin que para este efecto procedan los anticipos a que se refiere el segundo párrafo de Artículo 7º de la Ley de Coordinación Fiscal Federal.
+Se integrará el Fondo de Aportaciones para la Infraestructura Social Municipal con los recursos que el Estado obtenga del Gobierno Federal con las ministraciones mensuales en los primeros 10 meses del año y por partes iguales, de manera ágil y directa, sin más limitaciones ni restricciones, incluyendo las de carácter administrativo; así como las correspondientes a los fines que se establecen en el artículo 20 de esta ley; sin que para este efecto procedan los anticipos a que se refiere el segundo párrafo del artículo 9º de esta ley.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
@@ -414,6 +414,10 @@ V.- Vigilar que los avances físico-financieros se cumplan de conformidad con lo
 VI.- Apoyar a los Municipios en el desempeño, para alcanzar los objetivos y metas establecidas en el programa de desarrollo institucional; y
 
 VII.- En el caso de incumplimiento o desvío de lo previsto en los programas de desarrollo institucional, girar comunicación a la Secretaria de Hacienda del Gobierno del Estado, a fin de que se tomen las medidas conducentes en tanto persista la anomalía detectada.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+VIII.- Procurar que las obras que se realicen con los recursos de los fondos sean compatibles con la preservación y protección del medio ambiente y que impulsen el desarrollo sustentable.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
@@ -523,17 +527,45 @@ Para la implementación de la fórmula de distribución del Fondo de Aportacione
 
 Con base a los lineamientos anteriores y previo convenio con la Secretaría de Desarrollo Social, la Secretaría Estatal de Desarrollo Social, calculará las distribuciones correspondientes a los municipios, debiendo publicarse en el Periódico Oficial del Gobierno del Estado, a más tardar el 31 de enero del ejercicio fiscal aplicable, así como la fórmula y su respectiva metodología justificando cada elemento.
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 27.
 
-Las aportaciones que con cargo al Fondo y sus acciones a que se refiere este Capítulo, reciban los municipios no serán embargables, ni el Gobierno del Estado podrá, bajo ninguna circunstancia, gravarlas, afectarlas en garantía, ni destinarlas a fines distintos a los expresamente previstos el los artículos 20, 21 y 22 de esta Ley.
+El Fondo de Aportaciones para el Fortalecimiento de los Municipios se determinará anualmente en el Presupuesto de Egresos de la Federación con recursos federales, por un monto equivalente, solo para efectos de referencia, al 2.5% de la recaudación federal participable a que se refiere el articulo 2º de la Ley de Coordinación Fiscal Federal, según estimación que de la misma se realice en el propio presupuesto, en base en lo que al efecto establezca la ley de Ingresos de la Federación para ese ejercicio. Este fondo se enterará mensualmente por partes iguales a los municipios, a través del Estado, sin que para este efecto procedan los anticipos a que se refiere el segundo párrafo del artículo 9º de esta Ley.
 
-Las aportaciones con cargo al Fondo, serán administradas y ejercidas por los municipios que las reciban, de conformidad a la legislación aplicable.
+Las aportaciones federales que con cargo al Fondo a que se refiere este artículo reciban los Municipios a través del Estado, se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes. Respecto a las aportaciones que reciban con cargo a este fondo, los municipios tendrán las mismas obligaciones a que se refieren las fracciones I a III del artículo 23 de esta ley.
 
-La Unida de Programas Coordinados Federación-Estado y la Contaduría Mayor de Hacienda, como órgano técnico del Poder Legislativo, en el ámbito de sus respectivas facultades y competencia, serán los responsables de ejercer la vigilancia directa y constatar la correcta aplicación de los recursos que se reciban del Fondo y de fincar, en su caso, las responsabilidades administrativas correspondientes.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-No obstante lo señalado en el párrafo anterior, las responsabilidades administrativas, civiles y penales derivadas de afectaciones a la Hacienda Pública Federal en que, en su caso, incurran autoridades locales o municipales exclusivamente por motivo de desviación de los recursos recibidos del fondo señalado, para fines distintos a los previstos en este Capítulo, serán sancionadas en términos de la legislación aplicable.
+###### ARTICULO 28.
+
+El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, distribuirá el Fondo de Aportaciones para el Fortalecimiento de los Municipios en proporción directa al número de habitantes con que cuente el Estado, de acuerdo a la información estadística más reciente que al efecto emita el Instituto Nacional de Estadística, Geografía e Informática.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 29.
+
+Las aportaciones y sus accesorios que con cargo a los fondos a que se refieren los capítulos V y VI reciban los municipios no serán embargables, ni el Gobierno del Estado podrá, bajo ninguna circunstancia, gravarlas, afectarlas en garantía, ni destinarlas a fines distintos a los expresamente previstos en los artículos 20 y 27 de esta ley.
+
+Dichas aportaciones serán administradas y ejercidas por los municipios, conforme a la legislación aplicable. Por lo tanto, deberán registrarlas como ingresos propios destinados específicamente a los fines establecidos en los citados artículos.
+
+El control y supervisión del manejo de los recursos a que se refieren los capítulos V y VI quedará a cargo de las siguientes autoridades, en las etapas que se indican:
+
+I.- Desde el inicio del proceso de presupuestación, en términos de la legislación presupuestaria federal y hasta la entrega de los recursos correspondientes a las entidades federativas, corresponderá a la Secretaría de la Contraloría y Desarrollo Administrativo.
+
+II.- Recibidos los recursos de los fondos de que se trate por los municipios, hasta su erogación total, corresponderá a las autoridades de los gobiernos municipales según corresponda.
+
+La supervisión y vigilancia no podrán implicar limitaciones, ni restricciones, de cualquier índole, en la administración y ejercicio de los fondos.
+
+III.- La fiscalización de las cuentas públicas de los municipios, será efectuada por el Poder Legislativo del Estado, por conducto de su Contaduría Mayor de Hacienda conforme a la legislación en la materia, a fin de verificar que las dependencias de los municipios aplicaron los recursos de los fondos para los fines previstos en esta ley.
+
+IV.- La Contaduría Mayor de Hacienda de la Cámara de Diputados al fiscalizar la cuenta pública federal que corresponda, verificará que las dependencias del ejecutivo federal cumplieron con las disposiciones legales y administrativas federales, y por lo que hace a la ejecución de los recursos de los fondos a los que se refiere este capítulo, la misma se realizará en términos del artículo 3º, fracción III, de su ley orgánica.
+
+Cuando las autoridades Municipales que en el ejercicio de sus atribuciones de control y supervisión conozcan que los recursos del fondo no han sido aplicados a los fines que por cada fondo se señale en la ley, deberán hacerlo del conocimiento de la Secretaría de Contraloría y Desarrollo Administrativo en forma inmediata.
+
+Por su parte, cuando la Contaduría Mayor de Hacienda del Poder Legislativo detecte que los recursos de los fondos no se han destinado a los fines establecidos en esta ley, deberán hacerlo del conocimiento inmediato de la Contaduría Mayor de Hacienda de la Cámara de Diputados del Congreso de la Unión.
+
+Las responsabilidades administrativas, civiles y penales que deriven de afectaciones a la hacienda pública federal en que, en su caso, incurran las autoridades del Estado o Municipios exclusivamente por motivo de la desviación de los recursos recibidos de los fondos señalados, para fines distintos a los previstos en este capítulo, serán sancionados en los términos de la legislación federal, por las autoridades federales, en tanto que en los demás casos dichas responsabilidades serán sancionadas por la autoridad del Estado que corresponda con base en sus propias leyes.
 
 TRANSITORIOS:
 
@@ -626,3 +658,13 @@ P.O. 15 DE DICIEMBRE DE 1997.
 PRIMERO.- La vigencia del presente Decreto será retroactiva al 1º de enero de 1998 y estará condicionada a la aprobación de la modificación propuesta a la Ley de Coordinación Fiscal Federal para el propio año.
 
 SEGUNDO.- En tanto el Estado y sus municipios integran la normatividad para el adecuado ejercicio de los recursos que reciban en términos de la presente Ley, a través del Fondo de Aportaciones para la Infraestructura Social Municipal, podrán aplicar en forma supletoria los criterios y lineamientos contenidos en el Manual Unico de Operación el Ramo XXVI para el año de 1997 emitido por la Secretaría de Desarrollo Social Federal.
+
+P.O. 31 DE DICIEMBRE DE 1999
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todas las aportaciones recibidas por el Estado con fecha anterior a la publicación de este decreto y que conforme a la ley motiven la transferencia de recursos a los municipios serán cubiertos en forma retroactiva por parte del Gobierno del Estado de acuerdo a los procedimientos y normas previamente establecidos.
