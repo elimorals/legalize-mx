@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-415"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-27"
-last_updated: "1998-01-23"
+last_updated: "2000-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=415&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 2000.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 27 de diciembre de 1983.
 
@@ -352,7 +352,11 @@ Al principiar la enfermedad, tanto el trabajador como la dependencia o entidad e
 
 También tendrán derecho a los servicios que señala la fracción I del Artículo anterior en caso de enfermedad, los familiares derechohabientes del trabajador o del pensionista que enseguida se enumeran:
 
-I. La esposa, o a falta de ésta, la mujer con quien ha vivido como si lo fuera durante los cinco años anteriores a la enfermedad o con la que tuviese hijos, siempre que ambos permanezcan libres de matrimonio. Si el trabajador o pensionista tiene varias concubinas, ninguna de ellas tendrá derecho a recibir la prestación;
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2000)</small>
+
+I. El esposo o la esposa o a falta de éstos, el varón o la mujer con quien ha vivido como si lo fuera durante los cinco años anteriores a la enfermedad o con quien tuviesen hijos (as), siempre que ambos permanezcan libres de matrimonio.
+
+Si el trabajador o trabajadora, el o la pensionista tienen varias concubinas o concubinos, ninguno de estos tendrá derecho a recibir la prestación;
 
 II. Los hijos menores de dieciocho años, de ambos o de sólo uno de los cónyuges, siempre que dependan económicamente de alguno de ellos;
 
@@ -360,7 +364,7 @@ III. Los hijos solteros mayores de dieciocho años, hasta la edad de veinticinco
 
 IV. Los hijos mayores de dieciocho años incapacitados física o psíquicamente, que no puedan trabajar para obtener su subsistencia, lo que se comprobará mediante certificado médico expedido por el Instituto y por los medios legales procedentes;
 
-V. El esposo o concubinario de la trabajadora o pensionista, siempre que fuese mayor de 55 años de edad, o esté incapacitado física o psíquicamente y dependa económicamente de ella; y
+V. (DEROGADA, D.O.F. 12 DE MAYO DE 2000)
 
 VI. Los ascendientes, siempre que dependan económicamente del trabajador o pensionista.
 
@@ -2289,3 +2293,7 @@ NOVENO.- El Reglamento Interior de la Comisión, deberá expedirse en un plazo n
 D.O.F. 23 DE ENERO DE 1998.
 
 ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 12 DE MAYO DE 2000.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
