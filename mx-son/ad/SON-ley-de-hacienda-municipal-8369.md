@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "1984-07-16"
+last_updated: "1985-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE JULIO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE NOVIEMBRE DE 1985.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -579,9 +579,9 @@ Es objeto de este Impuesto, la adquisición de bienes inmuebles que consistan en
 
 Para los efectos de este Impuesto, se entiende por adquisición, la que derive de:
 
-> <small>(REFORMADA, B.O. 16 DE JULIO DE 1984)</small>
+> <small>(REFORMADA, B.O. 28 DE NOVIEMBRE DE 1985)</small>
 
-I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal.
+I.- Todo acto por el que se trasmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges.
 
 II.- La compra-venta en la que el vendedor se reserve la propiedad, aun cuando la transferencia de ésta opere con posteridad.
 
@@ -639,7 +639,9 @@ Para los fines de este impuesto, se considera que el usufructo y la nuda propied
 
 La tasa del impuesto será la del 8% sobre la base determinada, después de reducirla en cinco veces el salario mínimo general elevado al año, de la zona económica en la que se encuentre ubicado el inmueble, correspondiente al año de calendario en que se esté en los supuestos del pago del impuesto.
 
-La reducción a que se refiere el párrafo anterior, será de 7.5 veces tratándose de inmuebles destinados a casa-habitación, cuyo valor al momento de la operación, se encuentre dentro de los rangos que para préstamos hipotecarios de vivienda de interés social, fija periódicamente el Sistema Bancario Nacional; y de 10 veces, en los casos de adquisiciones de bienes inmuebles para destinarse a industrias que se encuentren ubicados en los parques industriales existentes en el Estado, debidamente inscritos en el Registro Nacional correspondiente.
+> <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 1985)</small>
+
+La reducción a que se refiere el párrafo anterior, será de 7.5 veces tratándose de adquisiciones de casas habitación, cuyo valor al momento de la operación, se encuentre dentro de los rangos que para préstamos hipotecarios de vivienda de interés social, fija periódicamente el Sistema Bancario Nacional y de 10 veces, en los casos de adquisiciones de bienes inmuebles para destinarse a industrias que se encuentren ubicadas en los parques industriales existentes en el Estado, debidamente inscritos en el Registro Nacional correspondiente.
 
 Cuando del inmueble formen parte departamentos habitacionales la reducción se hará por cada uno de ellos. Lo dispuesto en este párrafo no es aplicable a hoteles.
 
@@ -1238,3 +1240,7 @@ Lic. Carlos Gámez Fimbres.
 B.O. 16 DE JULIO DE 1984.
 
 UNICO.- ESTA LEY ENTRARÁ EN VIGOR EN TODO EL ESTADO, EL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO.
+
+B.O. 28 DE NOVIEMBRE DE 1985.
+
+UNICO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
