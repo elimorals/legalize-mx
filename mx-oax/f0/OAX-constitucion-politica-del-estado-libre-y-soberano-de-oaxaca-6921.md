@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1936-12-14"
+last_updated: "1938-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 1936.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 1938.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -259,9 +259,11 @@ Los Diputados durarán en su encargo cuatro años y no serán reelectos para el 
 
 Se elegirá un Diputado por cada cien mil habitantes o fracción mayor de cincuenta mil. Por cada Diputado Propietario se elegirá un suplente.
 
+> <small>(REFORMADO, 29 DE OCTUBRE DE 1938)</small>
+
 ###### ARTICULO 34.
 
-Para ser Diputado, propietario o suplente, se requiere: ser mexicano en el ejercicio de sus derechos; ser nativo del Estado, o vecino de él con residencia inmediata anterior de un año por lo menos; haber cumplido veinticinco años el (sic) día de la elección; no haber tomado participación directa o indirecta en alguna asonada, motín o cuartelazo, y tener un modo honesto de vivir. La vecindad no se pierde por ausencia en el desempeño de cargo público de elección popular.
+Para ser Diputado Propietario o Suplente se requiere: ser ciudadano en el ejercicio de sus derechos; ser nativo del Estado de Oaxaca y con residencia en su territorio inmediatamente anterior de un año por lo menos; haber cumplido veinticinco años el día de la elección; no haber tomado participación directa ni indirecta en alguna asonada, motín o cuartelazo, y tener un modo honesto de vivir. La vecindad no se pierde por ausencia en el desempeño de cargo público de elección popular.
 
 ###### ARTICULO 35.
 
@@ -733,7 +735,11 @@ XX. Mandar personalmente la fuerza pública en los municipios en que resida habi
 
 XXI. Nombrar instructores de la Guardia Nacional del Estado;
 
-XXII. Las demás que le impongan las leyes.
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1938)</small>
+
+XXII. Visitar durante su período de Gobierno, cuando menos una vez, para el objeto de conocer y resolver, en su caso, los problemas administrativos de las regiones del Estado, la cabecera de cada uno de los distritos judiciales y rentísticos del mismo y las zonas que en su concepto merezcan la atención preferente del Poder Público;
+
+XXIII. Las demás que le impongan las leyes.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
 
@@ -843,6 +849,8 @@ La administración interior de los Municipios se hará por los Ayuntamientos, po
 
 Los Ayuntamientos serán asambleas formadas por elección popular directa; se compondrán de un número variable de ciudadanos en razón del censo del Municipio; pero en ningún caso será menor de cinco y siempre en número impar. En la primera sesión que celebren los Ayuntamientos, la cual será presidida por el concejal de mayor edad, se elegirá a mayoría absoluta de votos un Presidente Municipal y uno o dos Síndicos Procuradores que deberán fungir durante el año de su elección. Los concejales restantes se denominarán Regidores.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1938)</small>
+
 #### SECCION SEGUNDA. Del Tribunal Superior de Justicia
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1934)</small>
@@ -853,7 +861,7 @@ Los Ayuntamientos serán asambleas formadas por elección popular directa; se co
 
 ###### ARTICULO 99.
 
-Todos los concejales durarán en su encargo dos años, se renovarán por mitad cada año, y no podrán ser reelectos para el período inmediato.
+Todos los Concejales durarán en su encargo dos años, se renovarán totalmente cada dos años, y no podrán ser reelectos para el período inmediato.
 
 #### SECCION CUARTA. Del Ministerio Público
 
@@ -1332,3 +1340,23 @@ Tercero.- La instalación de la XXXVII Legislatura, se sujetará a las disposici
 P.O. 14 DE DICIEMBRE DE 1936.
 
 UNICO.- Esta Ley (sic) comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial.
+
+P.O. 29 DE OCTUBRE DE 1938.
+
+DECRETO No. 20, QUE ADICIONA LA FRACCION XXII DEL ARTICULO 80 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+
+P.O. 29 DE OCTUBRE DE 1938.
+
+DECRETO No. 21, QUE REFORMA EL ARTICULO 34 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+
+P.O. 29 DE OCTUBRE DE 1938.
+
+DECRETO No. 22, QUE REFORMA EL ARTICULO 99 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+Primero.- Los Concejales de número par que se designen en la elección ordinaria de diciembre de mil novecientos treinta y nueve, durarán en su encargo sólo el año de mil novecientos cuarenta.
+
+Segundo.- En los comicios municipales que se efectuarán en diciembre de mil novecientos cuarenta, será electa la totalidad de los consejales (sic) de los Ayuntamientos.
