@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-consejo-de-ciencia-y-tecnologia-del-estado-de-17231"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2000-04-10"
+last_updated: "2001-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL CONSEJO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -201,7 +201,9 @@ II.- Un secretario técnico, que será el Director General del Consejo.
 
 III.- Consejeros, que serán:
 
-a).- El titular de cada una de las siguientes secretarías y organismos: Secretaría de Desarrollo Económico, Secretaría de Finanzas, Instituto de Educación de Aguascalientes, la Comisión de Planeación de Desarrollo Económico y la Coordinación de Asesores del C. Gobernador del Estado.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+a).- El titular de cada una de las siguientes secretarías y organismos: Secretaría de Desarrollo Económico, Secretaría de Finanzas, Instituto de Educación de Aguascalientes, Secretaría de Planeación y la Coordinación de Asesores del C. Gobernador del Estado.
 
 b).- A invitación del titular del Poder Ejecutivo:
 
@@ -450,3 +452,9 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2001.
+
+UNICO.- El presente decreto entrará en vigor a partir del 1º. de enero del año 2002.
