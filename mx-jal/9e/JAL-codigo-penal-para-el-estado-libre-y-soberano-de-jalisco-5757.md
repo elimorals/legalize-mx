@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2004-12-07"
+last_updated: "2005-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -581,7 +581,7 @@ Si se causaren por culpa grave homicidio o las lesiones señaladas en las fracci
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
-Se considera culpa grave en los homicidios o lesiones a que se refiere el párrafo anterior, si se cometen con motivo del tránsito de vehículos y se de una de las siguientes circunstancias:
+Se considera culpa grave en los homicidios o lesiones a que se refiere el párrafo anterior, si se cometen con motivo del tránsito de vehículos y se dé una de las siguientes circunstancias:
 
 I. Cuando conduzca el probable responsable, con exceso de velocidad en más de treinta kilómetros por hora del límite establecido para la zona en donde ocurra el accidente;
 
@@ -961,7 +961,7 @@ Cuando el reo hubiese compurgado ya una parte de su sanción, se necesitará par
 
 ###### Art. 90.
 
-La prescripción de las sanciones privativas de la libertad solo se interrumpe con la aprehensión del sentenciado, aún cuando se ejecute por delito diverso.
+La prescripción de las sanciones privativas de la libertad sólo se interrumpe con la aprehensión del sentenciado, aún cuando se ejecute por delito diverso.
 
 ### CAPITULO I. Evasión de presos
 
@@ -1657,7 +1657,13 @@ XV. No dictar auto de formal prisión o de libertad o de sujeción a proceso al 
 
 XVI. Obligar al indiciado o acusado a declarar usando la incomunicación o cualquier otro medio;
 
-XVII. Cuando, con motivo de la querella, denuncia o información a que hace referencia la fracción anterior, realice una conducta ilícita u omita una lícita debida, que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2005)</small>
+
+XVII. Cuando, con motivo de la querella, denuncia o información a que hace referencia la fracción anterior, realice una conducta ilícita u omita una lícita debida, que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo; y
+
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2005)</small>
+
+XVIII.- El incumplimiento de las resoluciones que emita el Instituto de Transparencia e Información Pública de Jalisco, en los términos de la ley de la materia.
 
 Al que cometa el delito de abuso de autoridad, se le impondrán las siguientes sanciones:
 
@@ -2711,7 +2717,7 @@ Cuando el raptor se case con la ofendida, no se procederá contra él ni contra 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
+### CAPITULO I. De las Definiciones
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2719,7 +2725,7 @@ Cuando el raptor se case con la ofendida, no se procederá contra él ni contra 
 
 Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o multa por el importe de cinco a veinte días de salario mínimo, al que públicamente diere a otro, fuera de riña, una bofetada, o cualquier otro golpe simple que no cause lesiones, si no lo hiciere en ejercicio del derecho de corrección.
 
-### CAPITULO I. De las Definiciones
+### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2745,7 +2751,7 @@ II. Si el imputado fuera una persona que haya obrado con carácter público y la
 
 III. Si el hecho imputado está declarado cierto por sentencia irrevocable y el inculpado obre por un interés legítimo sin ánimo de dañar.
 
-### CAPITULO V. Delitos cometidos por los Servidores Públicos
+### CAPITULO IV. Delitos Cometidos por Representantes de Partido
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2763,11 +2769,11 @@ Aunque se acredite la inocencia del calumniado, o que son falsos los hechos en q
 
 Tampoco se aplicará sanción alguna al autor de una denuncia, queja o acusación, si los hechos que en ella se imputan son ciertos, aunque no constituyan un delito y él, errónea o falsamente, les haya atribuido ese carácter.
 
-### CAPITULO VI. Disposiciones Comunes
+### CAPITULO V. Delitos cometidos por los Servidores Públicos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO IV. Delitos Cometidos por Representantes de Partido
+### CAPITULO VI. Disposiciones Comunes
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2795,9 +2801,9 @@ III. Al autor de un escrito presentado o de un discurso pronunciado, en cualquie
 
 Lo prevenido en esta fracción no comprende el caso en que la imputación sea calumniosa o se extienda a personas extrañas al litigio, o envuelva hechos que no se relacionen con el negocio de que se trata.
 
-## TITULO VIGESIMO PRIMERO. DE LOS DELITOS CONTRA EL AMBIENTE
+## TITULO VIGESIMO. DE LOS DELITOS FISCALES
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ### CAPITULO UNICO. (ADICIONADO, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
 
@@ -3051,9 +3057,9 @@ Se impondrán de uno a cuatro meses de prisión, por la sola circunstancia de qu
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
-## TITULO VIGESIMO. DE LOS DELITOS FISCALES
+## TITULO VIGESIMO PRIMERO. DE LOS DELITOS CONTRA EL AMBIENTE
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 233.
 
@@ -3801,7 +3807,7 @@ V. Propale dolosamente noticias falsas en torno al desarrollo de la jornada elec
 
 VI. Impida con violencia la instalación; apertura o cierre de una casilla.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 270.
 
@@ -3865,7 +3871,7 @@ Por la comisión de cualesquiera de los delitos comprendidos en el presente cap�
 
 Los responsables de los delitos contenidos en el presente capítulo por haber acordado o preparado su realización en los términos del artículo 11 de este Código, no podrán gozar del beneficio de la libertad provisional.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 279.
 
@@ -3977,7 +3983,7 @@ No se impondrá la sanción prevista en este artículo, si quien hubiere cometid
 
 Para los fines del artículo que antecede se tomará en cuenta el monto de lo defraudado o que se haya intentado defraudar dentro de un mismo período fiscal, aún cuando se trate de conceptos distintos y de diversas acciones u omisiones.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 289.
 
@@ -4318,3 +4324,21 @@ P.O. 7 DE DICIEMBRE DE 2004.
 DECRETO NO. 20787, QUE REFORMA DIVERSAS FRACCIONES DEL ART. 252.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 6 DE ENERO DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor a los 180 días siguientes, en que entre en vigor el Decreto de adición al artículo 4 y de reforma diversos artículos de la Constitución Política del Estado de Jalisco, relativas al derecho a la información pública, previa publicación en el periódico oficial "El Estado de Jalisco", salvo lo establecido en los artículos siguientes.
+
+SEGUNDO.- Las disposiciones del presente decreto relativas a la creación y funcionamiento del Instituto de Transparencia e Información Pública de Jalisco, serán obligatorias a partir del día siguiente de publicación de la reforma constitucional a que se refiere el artículo anterior.
+
+TERCERO.- El Presupuesto de Egresos del Estado para el ejercicio Fiscal 2005 deberá establecer la partida presupuestal asignada al Instituto de Transparencia e Información Pública de Jalisco.
+
+CUARTO.- El Congreso del Estado deberá nombrar al Presidente y a los primeros consejeros ciudadanos del Instituto de Transparencia e Información Pública a más tardar tres meses después de la entrada en vigor de las disposiciones a que se refiere el artículo segundo transitorio. En el primer periodo de su encargo, por única vez, dos consejeros serán nombrados por dos años; dos consejeros por tres años y el consejero Presidente por cuatro años.
+
+QUINTO.- El Presidente y los consejeros ciudadanos, una vez nombrados por el Congreso del Estado, podrán aplicar el presupuesto asignado al Instituto y llevar a cabo todas aquellas atribuciones que permitan su integración y funcionamiento.
+
+SEXTO.- Antes de la entrada en vigor de la Ley, los sujetos obligados deberán integrar las unidades de transparencia e información que ésta establece, así como emitir las disposiciones reglamentarias de la misma, para que estén integradas el día de inicio de su vigencia.
+
+SEPTIMO.- De no designarse las unidades de transparencia e información en el plazo establecido en el artículo anterior, se considerará como tal, en lo relativo a la recepción y entrega de solicitudes, a la Oficialía de partes de cada una de las entidades que, de acuerdo a la normatividad aplicable, conforman la estructura orgánica de los sujetos obligados.
+
+OCTAVO.- A la entrada en vigor del presente decreto, quedará abrogada la Ley de Transparencia e Información Pública del Estado de Jalisco publicada el 22 de enero de 2002 mediante decreto número 19446.
