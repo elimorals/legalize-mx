@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1995-02-15"
+last_updated: "1995-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE FEBRERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ABRIL DE 1995.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -1776,151 +1776,43 @@ VII. El Banco de México cargará, en las cuentas que lleva a las instituciones 
 
 ###### ARTICULO 123.
 
-La inspección y vigilancia de las instituciones de crédito en la prestación del servicio de banca y crédito y el cumplimiento de las disposiciones de esta Ley, quedan confiadas a la Comisión Nacional Bancaria.
-
-Será atribución de esa Comisión, aplicar a los servidores públicos de las instituciones de banca múltiple en las que el Gobierno Federal tenga el control por su participación accionaria, y de las instituciones de banca de desarrollo las disposiciones, así como las sanciones previstas en la Ley Federal de Responsabilidades de los Servidores Públicos, que corresponden a las contralorías internas, sin perjuicio de las que en los términos de la propia Ley, competen aplicar a la Secretaría de la Contraloría General de la Federación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
 ###### ARTICULO 124.
 
-Las instituciones de crédito y las sociedades o establecimientos sujetos conforme a esta Ley, a la inspección y vigilancia de la Comisión Nacional Bancaria, deberán cubrir las cuotas correspondientes en los términos de las disposiciones legales aplicables.
-
-Las cuotas a que se refiere este artículo y el presupuesto de egresos de la Comisión no formarán parte de los ingresos del Gobierno Federal ni figurarán en sus presupuestos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
 ###### ARTICULO 125.
 
-La Comisión Nacional Bancaria es un órgano desconcentrado de la Secretaría de Hacienda y Crédito Público.
-
-Tendrá las facultades y deberes siguientes:
-
-I. Realizar la inspección y vigilancia e imponer las sanciones que conforme a esta y otras leyes le competen;
-
-II. Fungir como órgano de consulta de la Secretaría de Hacienda y Crédito Público en los términos que la ley determine;
-
-III. Realizar los estudios que le encomiende la Secretaría de Hacienda y Crédito Público respecto del régimen bancario y de crédito; asimismo, presentará a dicha Dependencia y al Banco de México, propuestas, cuando así lo estime conveniente, respecto de dicho régimen;
-
-IV. Emitir las disposiciones necesarias para el ejercicio de las facultades que la Ley le otorga y para el eficaz cumplimiento de la misma y de los reglamentos que con base en ella se expidan, así como coadyuvar, mediante la expedición de disposiciones e instrucciones a las instituciones de crédito, con la política de regulación monetaria y crediticia que compete al Banco de México, siguiendo las instrucciones que reciba del mismo;
-
-V. Presentar opinión a la Secretaría de Hacienda y Crédito Público sobre la interpretación de esta Ley y demás relativas en caso de duda respecto a su aplicación;
-
-VI. Formular su reglamento interior que someterá a la aprobación de la Secretaría de Hacienda y Crédito Público, e intervenir en los términos y condiciones que esta Ley señala en la elaboración de los reglamentos a que la misma se refiere;
-
-VII. Formular anualmente sus presupuestos que someterá a la autorización de la Secretaría de Hacienda y Crédito Público;
-
-VIII. Rendir un informe anual de sus labores a la Secretaría de Hacienda y Crédito Público;
-
-IX. Proveer lo necesario para que las instituciones de crédito cumplan debida y eficazmente las operaciones y servicios concertados con los usuarios del servicio de banca y crédito, y las sociedades a que se refiere el artículo 88 de esta Ley con sus compromisos contraídos;
-
-> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
-
-X. Imponer sanciones administrativas por infracciones a ésta y las demás leyes que regulan las actividades, instituciones y personas sujetas a su inspección y vigilancia, así como de las disposiciones que emanen de ellas. Tales sanciones podrán ser, a juicio de la Comisión, amonestaciones u otras que establezcan las mencionadas leyes y disposiciones;
-
-> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
-
-XI. Conocer y resolver sobre el recurso de revocación que se interponga en contra de las sanciones aplicadas, así como condonar total o parcialmente, previa aprobación de la Junta de Gobierno, las multas impuestas;
-
-> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
-
-XII. Para celebrar convenios de diversa naturaleza con organismos supervisores y reguladores nacionales y de otros países, y otros organismos nacionales e internacionales, siempre y cuando los mismos tengan relación con las funciones de inspección, vigilancia y supervisión que tenga a cargo la Comisión Nacional Bancaria respecto de sus entidades supervisadas, así como para participar, dentro del ámbito de sus facultades, en foros de consulta y organismos supervisores a nivel nacional e internacional; y
-
-XIII. Las demás que le están atribuidas por esta Ley, por la Ley Reglamentaria de la Fracción XIII Bis del Apartado "B" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y por otras leyes.
-
-La Comisión Nacional Bancaria en el ejercicio de sus funciones de inspección y vigilancia, respecto de las operaciones que las instituciones de crédito lleven a cabo en términos de la Ley del Mercado de Valores, establecerá los mecanismos de coordinación necesarios con la Comisión Nacional de Valores, para el eficaz cumplimiento de las disposiciones en la materia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
 ###### ARTICULO 126.
 
-La Comisión Nacional Bancaria, para el cumplimiento de sus funciones contará con:
-
-I. Junta de Gobierno;
-
-II. Presidencia;
-
-III. Vicepresidencias;
-
-IV. Direcciones Generales;
-
-V. Delegaciones Regionales, y
-
-VI. Demás servidores públicos necesarios.
-
-(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE JUNIO DE 1992)(F. DE E., D.O.F. 3 DE JULIO DE 1992)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
 ###### ARTICULO 127.
 
-La junta de Gobierno estará integrada por diez vocales, más el Presidente y los Vicepresidentes de la Comisión. Cinco de ellos serán designados por la Secretaría de Hacienda y Crédito Público, tres por el Banco de México, uno por la Comisión Nacional de Valores y uno por la Comisión Nacional de Seguros y Fianzas. Por cada propietario se nombrará un suplente.
-
-La Secretaría de Hacienda y Crédito Público nombrará al Presidente de la Comisión Nacional Bancaria, que lo será a su vez de la Junta de Gobierno y deberá reunir los requisitos que para ocupar el cargo de director general, señala el artículo 24 de esta Ley.
-
-Los vocales deberán ser de nacionalidad mexicana, de reconocida calidad moral, experiencia y prestigio en materias económica y financiera y no podrán desempeñar cargos de elección popular, ni ser empleados, funcionarios, comisarios apoderados o agentes de las instituciones, y demás establecimientos sujetos a la inspección y vigilancia de la Comisión.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
 ###### ARTICULO 128.
 
-La Junta de Gobierno podrá constituir subcomités con fines específicos y designará una comisión de cuentas integrada por dos vocales, que se encargará de vigilar el manejo de los fondos del Organo. A propuesta de (sic) Presidente, nombrará un secretario de actas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
 ###### ARTICULO 129.
 
-Corresponde a la Junta de Gobierno el ejercicio de las facultades de la Comisión, sin perjuicio de las asignadas al Presidente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
 ###### ARTICULO 130.
 
-La Junta de Gobierno celebrará sesiones siempre que sea convocada por su Presidente y por lo menos se reunirá una vez al mes.
-
-Habrá quórum con la presencia de la mitad más uno de los miembros. Las resoluciones se tomarán por mayoría de votos de los presentes, y el Presidente, quien dirigirá los debates y dará cuenta de los asuntos en cartera, tendrá voto de calidad en los casos de empate.
-
-Las resoluciones y recomendaciones que apruebe la Junta serán comunicadas después de cada sesión a la Secretaría de Hacienda y Crédito Público.
-
-Los acuerdos de la Junta de Gobierno serán ejecutivos y corresponderá al Presidente, en ejercicio de sus atribuciones, darles oportuno cumplimiento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
 ###### ARTICULO 131.
 
-El Presidente es la máxima autoridad administrativa de la Comisión y ejercerá sus funciones directamente o por medio de los vicepresidentes, directores generales, delegados y demás servidores públicos de la propia Comisión. En las ausencias temporales del Presidente será sustituido por el vocal vicepresidente que designe al efecto.
-
-Serán facultades y obligaciones del Presidente de la Comisión:
-
-I. Inspeccionar y vigilar las instituciones de crédito proveyendo en los términos de esta Ley y demás relativas, el eficaz cumplimiento de sus preceptos;
-
-II. Intervenir en la emisión de títulos o valores, en los sorteos y en la cancelación de documentos, títulos y obligaciones, en los términos de ley, cuidando que la circulación de los mismos no exceda de los límites legales;
-
-III. Intervenir en los arqueos, cortes de caja y demás comprobaciones o verificaciones de contabilidad de las instituciones sometidas a su inspección y estimar los valores de su activo de acuerdo con el artículo 102 de esta Ley;
-
-IV. Elaborar y publicar las estadísticas relativas a las instituciones de crédito y a sus operaciones;
-
-V. Intervenir en los procedimientos de liquidación en los términos de ley;
-
-VI. Informar a la Junta de Gobierno, trimestralmente o cuando ésta se lo solicite sobre las labores de las oficinas a su cargo, y obtener su aprobación para la aplicación de las sanciones, así como para todas las disposiciones de carácter general o reglamentario que crea pertinentes;
-
-VII. Informar al Banco de México de los datos que tenga sobre el estado de solvencia de las instituciones de crédito;
-
-VIII. Formular anualmente el presupuesto de egresos de la Comisión, el cual una vez aprobado por la Junta de Gobierno, será sometido a la autorización de la Secretaría de Hacienda y Crédito Público;
-
-IX. Proponer a la Secretaría de Hacienda y Crédito Público la designación de los vocales vicepresidentes;
-
-X. Nombrar y remover, con la aprobación de la Junta de Gobierno, a los directores generales de la Comisión y designar y remover al resto del personal de la Comisión;
-
-XI. Vigilar la debida ejecución de las disposiciones y de los acuerdos de la Junta de Gobierno;
-
-XII. Informar a la Secretaría de Hacienda y Crédito Público sobre su actuación y sobre los casos concretos que ésta le solicite;
-
-XIII. Ordenar visitas o inspecciones distintas a las señaladas en el articulo 133 de esta Ley, y en su caso llevarlas a cabo;
-
-XIV. Representar con las más amplias facultades a la Comisión Nacional Bancaria, cuando realice todas aquellas funciones que a dicho Organo encomienden las leyes, sus reglamentos y los acuerdos correspondientes de la Junta de Gobierno;
-
-XV. Investigar los actos de terceros que hagan suponer la realización de operaciones violatorias de las disposiciones de esta Ley, pudiendo al efecto ordenar visitas de inspección a los presuntos responsables; en su caso, ordenar su intervención o proponer su clausura;
-
-XVI. Representar a la Comisión Nacional Bancaria en los compromisos arbitrales, en los términos que dispongan las respectivas leyes, así como dictar el laudo correspondiente, y
-
-> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
-
-XVII. Imponer, de acuerdo a las facultades que le delegue la Junta de Gobierno, las sanciones que correspondan, así como conocer y resolver sobre el recurso de revocación, en los términos de ésta y las demás leyes aplicables y las disposiciones que emanen de ellas, así como proponer a la Junta de Gobierno la condonación total o parcial de las multas;
-
-> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
-
-XVIII. La suscripción de los convenios que la Comisión Nacional Bancaria celebre con organismos supervisores y reguladores nacionales y de otros países, así como con otros organismos nacionales e internacionales, y para participar y designar participantes en foros de consulta y organismos supervisores a nivel nacional e internacional, de conformidad con la fracción XII del artículo 125 de esta Ley; y
-
-XIX. Las demás que le sean atribuidas por esta Ley y otras disposiciones legales.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
 ###### ARTICULO 132.
 
-La Comisión Nacional Bancaria contará con delegaciones regionales, las que dentro del área de su jurisdicción geográfica podrán realizar las funciones que se determinen en el Reglamento Interior de la Comisión, que expedirá el Ejecutivo Federal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
 ###### ARTICULO 133.
 
@@ -1967,6 +1859,8 @@ El interventor-gerente no quedará supeditado en su actuación a la asamblea de 
 El oficio que contenga el nombramiento de interventor-gerente deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio de la institución intervenida, sin más requisitos que el oficio respectivo de la Comisión Nacional Bancaria.
 
 ## TITULO SEPTIMO. De la Comisión Nacional Bancaria
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 142.
 
@@ -2200,7 +2094,7 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Se deroga el artículo 108 segundo párrafo de la Ley de Instituciones de Crédito y las demás disposiciones que se opongan a lo dispuesto en este decreto.
 
-...
+..
 
 D.O.F. 15 DE FEBRERO DE 1995.
 
@@ -2223,3 +2117,13 @@ III.- Para los efectos de la fracción anterior el costo promedio de las accione
 QUINTO.- Los consejeros y comisarios de la serie "C", de las instituciones de crédito y sociedades controladoras, continuarán en el desempeño de sus funciones mientras no se realicen las designaciones que correspondan a la nueva estructura de capital y los designados tomen posesión de sus cargos.
 
 SEXTO.- Durante el período establecido en el tratado o acuerdo internacional aplicable, las casas de bolsa Filiales no podrán emitir obligaciones subordinadas, salvo para ser adquiridas por la Institución Financiera del Exterior propietaria, directa o indirectamente, de las acciones de la casa de bolsa Filial emisora.
+
+D.O.F. 28 DE ABRIL DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor el 1o. de mayo de 1995.
+
+SEGUNDO.- Se derogan el Capítulo I del Título Séptimo de la Ley de Instituciones de Crédito; los artículos 40, 41 fracciones I, II, III, IV, VI a VIII, XI a XII y último párrafo y 42 a 46 de la Ley del Mercado de Valores, y la fracción V del artículo 29 de la Ley de Sociedades de Inversión.
+
+...
