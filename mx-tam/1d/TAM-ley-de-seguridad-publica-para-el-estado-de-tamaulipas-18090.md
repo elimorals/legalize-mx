@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-18090"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-06"
-last_updated: "2000-04-06"
+last_updated: "2004-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 6 de abril del 2000.
 
@@ -139,11 +139,13 @@ Las autoridades estatales y municipales de seguridad pública podrán disponer p
 
 ### CAPITULO II. DE LAS FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 11.
 
-El Gobernador del Estado tendrá el mando de los cuerpos de seguridad pública estatales.
+El Gobernador del Estado tendrá en todo momento el mando de los cuerpos de seguridad pública estatales; asimismo de los municipales en donde se resida habitual o transitoriamente.
 
-La policía preventiva municipal estará al mando del Presidente Municipal. Aquella acatará las órdenes que el Gobernador del Estado le trasmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+La policía preventiva y de tránsito municipales estarán bajo el mando del Presidente Municipal. Aquellas acatarán las órdenes que el Gobernador del Estado les trasmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
 ###### ARTICULO 12.
 
@@ -207,7 +209,9 @@ Son facultades y obligaciones de los Ayuntamientos:
 
 I.- Garantizar en el ámbito de su competencia, las libertades y derechos de las personas, preservar el orden y la paz públicos, expidiendo al efecto los reglamentos, bandos de policía y buen gobierno y demás disposiciones administrativas de observancia general en materia de seguridad pública;
 
-II.- Analizar la problemática de seguridad pública en su Municipio y establecer políticas y lineamientos para su solución, en apoyo a los programas estatales, regionales y municipales de seguridad pública;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+II.- Realizar un análisis de las condiciones, características y circunstancias imperantes en su Municipio en materia de seguridad pública, para que con apoyo en los programas estatales, regionales o municipales de la materia, se establezcan políticas y lineamientos para garantizar la seguridad y tranquilidad de los habitantes. La implementación de estrategias deberá tener continuidad y seguimiento, pudiéndose adicionar o incorporar nuestros mecanismos que optimicen los servicios de seguridad;
 
 III.- Suscribir convenios en materia de seguridad pública preventiva con el Gobierno del Estado, otros Municipios, y organismos e instituciones de los sectores público, social y privado;
 
@@ -237,9 +241,13 @@ VI.- Proponer al Ayuntamiento el nombramiento del Director de Seguridad Pública
 
 VII.- Autorizar altas y bajas del personal de las corporaciones municipales de seguridad pública, así como aplicar sanciones administrativas por faltas a esta ley y reglamentos respectivos, informando de cualquier movimiento a la Dirección General de Seguridad Pública y a la Unidad de Enlace Informático del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública;
 
-VIII.- Establecer el Registro Municipal del Personal de la Policía Preventiva;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
-IX.- Vigilar que los titulares de las corporaciones municipales de seguridad pública, consulten los antecedentes de cualquier aspirante a ingresar a éstas, en el Registro de Personal de Seguridad Pública, antes de que se autorice su ingreso;
+VIII.- Establecer, actualizar y fortalecer el registro municipal del personal de los cuerpos de policía y tránsito. Dicho registro contendrá: los datos generales de identificación del servidor público; sus huellas dactilares; fotografías de frente y de perfil; tipo sanguíneo; de ser el caso, las señas particulares que tuviera; datos de escolaridad y antecedentes laborales; condecoraciones, estímulos y, en su caso, sanciones merecidas; cursos de actualización recibidos; y, en general, toda información que permita una exacta identificación del servidor público. Igualmente, la información general de su familia y amistades;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+IX.- Vigilar que los titulares de las corporaciones municipales de seguridad pública invariablemente consulten los antecedentes de todo aspirante a ingresar a éstas, ante el Registro de Personal de Seguridad Pública, de cuya información dependerá su ingreso. Bajo ningún motivo o pretexto se autorizará el ingreso de quien se tuviera antecedentes negativos o inconvenientes;
 
 X.- Presentar mensualmente o con la periodicidad que se solicite, un informe a la Dirección General de Seguridad Pública, con los resultados de las investigaciones que contengan los elementos generales criminógenos, las zonas e incidencias en la comisión de delitos en su territorio, para conformar la estadística delictiva, y además, para adoptar las medidas preventivas necesarias; aprehender en flagrancia y evitar las faltas a los ordenamientos jurídicos;
 
@@ -327,9 +335,13 @@ XXI.- Las que le delegue o designe el Titular del Ejecutivo o el Secretario Gene
 
 XXII.- Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 20.
 
-El Director General de Seguridad Pública vigilará que las corporaciones a su cargo y los cuerpos de seguridad municipales registren y consulten permanentemente en la Unidad de Enlace Informático del Consejo Estatal de Seguridad Pública, la información a que se refiere el Capítulo III, del Título Quinto de esta ley, según corresponda.
+El Director General de Seguridad Pública vigilará, se asegurará y será responsable que las corporaciones a su cargo y los cuerpos de seguridad municipales registren y consulten permanentemente en la Unidad de Enlace Informático del Consejo Estatal de Seguridad Pública, la información a que se refiere el Capítulo III, del Título Quinto de esta ley, según corresponda, y se cerciorará que dicha información sea debidamente atendida.
+
+En caso de incumplimiento impondrá las sanciones establecidas en esta ley a los titulares de las corporaciones a su cargo, y, en tratándose de corporaciones municipales, propondrá a los Presidentes Municipales hacer lo propio con los titulares de sus cuerpos de seguridad.
 
 #### SECCIÓN SEGUNDA. DE LA UNIDAD INTERNA DE CONTROL Y EVALUACIÓN
 
@@ -387,7 +399,9 @@ V.- Obtener, analizar, estudiar y procesar información, así como instrumentar 
 
 VI.- Participar en auxilio de las autoridades competentes, en la investigación y persecución de delitos, en la detención de personas o en el aseguramiento de bienes que sean objeto de un delito, en los casos en que sea formalmente requerida;
 
-VII.- Participar en operativos conjuntos con otras corporaciones policiacas federales, estatales o municipales, que se determinen en el seno del Consejo Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+VII.- Participar en operativos conjuntos con otras corporaciones policiacas federales, estatales o municipales, que se determinen en el seno del Consejo Estatal de Seguridad Pública, o a solicitud formal del titular de cualquier corporación policial que lo requiera;
 
 VIII.- Practicar detenciones o aseguramientos en casos de flagrancia, poniendo a disposición de las autoridades competentes, a las personas detenidas o los bienes que se hayan asegurado o que estén bajo su custodia, en los términos y plazos constitucionales y legales establecidos;
 
@@ -479,7 +493,9 @@ I.- Formular y ejecutar el programa de trabajo de la corporación a su cargo e i
 
 II.- Ejecutar las acciones y operativos específicos que le instruya su inmediato superior jerárquico;
 
-III.- Registrar y consultar permanentemente en la Unidad de Enlace Informático del Consejo Estatal de Seguridad Pública, la información a que se refiere el Capítulo III, del Título Quinto de esta ley, según corresponda;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+III.- Registrar y consultar permanentemente en la Unidad de Enlace Informático del Consejo Estatal de Seguridad Pública, la información a que se refiere el Capítulo III, del Título Quinto de esta ley, según corresponda, absteniéndose de autorizar el ingreso de quien tuviera antecedentes negativos o inconvenientes;
 
 IV.- Integrar a sus elementos al servicio policial de carrera;
 
@@ -489,25 +505,33 @@ VI.- Informar sin demora al titular de la licencia oficial colectiva, las incide
 
 VII.- Exigir que el personal de la corporación a su mando use los uniformes e insignias con las características y especificaciones aprobadas; y prohibir el uso de grados, uniformes e insignias reservadas al Ejército, Armada, Fuerza Aérea y otras autoridades;
 
-VIII.- Auxiliar al Ministerio Público y a las autoridades judiciales y administrativas, cuando les sea legalmente requerido;
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
-IX.- Establecer mecanismos de comunicación de respuesta inmediata a la ciudadanía, para la atención de emergencias, quejas y sugerencias;
+VIII.- Entregar a su relevo, al concluir el periodo a su servicio, un informe exhaustivo del estado en que se encuentre el servicio de seguridad, tanto administrativa como operativamente; asimismo, deberá entregar los documentos y anexos que hubiere, citando los mecanismos implementados, el estado en que se hallen y la proyección que continuare. El nuevo titular los podrá modificar siempre y cuando previamente lo motive y justifique ante su superior jerárquico y éste se lo autorice:
 
-X.- Prohibir a los elementos en activo de sus respectivas corporaciones, que se dediquen a prestar servicios privados de protección y vigilancia;
+IX.- Auxiliar al Ministerio Público y a las autoridades judiciales y administrativas, cuando les sea legalmente requerido;
 
-XI.- Instrumentar la aplicación periódica de exámenes de laboratorio para detectar el consumo ilícito de estupefacientes, al personal bajo su mando;
+X.- Establecer mecanismos de comunicación de respuesta inmediata a la ciudadanía, para la atención de emergencias, quejas y sugerencias;
 
-XII.- Imponer las sanciones y medidas disciplinarias que procedan, al personal que incurra en faltas; y
+XI.- Prohibir a los elementos en activo de sus respectivas corporaciones, que se dediquen a prestar servicios privados de protección y vigilancia;
 
-XIII.- Las demás que les señalen las disposiciones jurídicas y reglamentarias aplicables.
+XII.- Instrumentar la aplicación periódica de exámenes de laboratorio para detectar el consumo ilícito de estupefacientes, al personal bajo su mando;
+
+XIII.- Imponer las sanciones y medidas disciplinarias que procedan, al personal que incurra en faltas; y
+
+XIV.- Las demás que les señalen las disposiciones jurídicas y reglamentarias aplicables.
 
 ###### ARTICULO 30.
 
 Son obligaciones comunes de las policías preventivas municipales:
 
-I.- Mantener el orden público y la tranquilidad social en su área de jurisdicción;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
-II.- Prevenir la comisión de faltas administrativas, conductas antisociales y delitos; proteger a las personas, sus bienes, libertades y derechos;
+I.- Mantener el orden público y la tranquilidad social en su jurisdicción, aplicando adecuadamente sus conocimientos y estrategias, y utilizando apropiadamente el equipo con que se cuente; realizando además, rondines y patrullajes a baja velocidad y prestando total atención a su entorno;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+II.- Prevenir la comisión de faltas administrativas, conductas antisociales o delitos; proteger a las personas, sus bienes, libertades y derechos, además de mostrar el respeto y la consideración debidas a la población;
 
 III.- Prestar auxilio a la población en caso de siniestros, accidentes o desastres naturales, en coordinación con las instancias de protección civil;
 
@@ -587,15 +611,43 @@ Corresponde al Ejecutivo del Estado, por conducto de la Secretaría General de G
 
 La autorización, operación, funcionamiento, supervisión, verificación, revalidación, regulación y control de los servicios privados de protección y vigilancia, se sujetará a las disposiciones contenidas en la ley de la materia.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+Ninguna persona física o moral, ni grupos o individuos bajo ningún titulo, nombre o denominación podrá realizar servicios privados de protección y vigilancia sin contar con la autorización y obtenido su registro para el efecto.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+Se prohibe a los propietarios, gerentes, administradores, mandatarios o encargados de toda empresa o negocio, de bienes, servicios, valores o espectáculos de cualquier índole, la contratación de personal para los servicios de protección y vigilancia que no tengan actualizado su registro o que no sean integrantes de alguna corporación oficial, exceptuándose al efecto los servicios propios de guardia nocturno o velador.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+En eventos o espectáculos públicos de carácter lucrativo en que por cualquier razón se expenda alcohol, se garantizará la seguridad de los asistentes a costa del organizador, promotor o responsable, debiendo contratar los servicios públicos o privados de seguridad, contando con por lo menos un agente de seguridad o elemento de protección y vigilancia por cada doscientos asistentes.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+Los servidores públicos adscritos a cualquier área de seguridad pública, del Estado o los Municipios, por ningún motivo ni bajo pretexto alguno podrán asociarse o ser propietarios por sí o por interpósita persona, de una empresa que preste servicios privados de seguridad.
+
 ###### ARTICULO 36.
 
 Las personas físicas o morales que presten servicios privados de protección y vigilancia, son auxiliares de la función de seguridad pública y coadyuvarán con las autoridades y las instituciones en situaciones de urgencia, desastre o cuando así lo solicite la Federación, el Estado o los Municipios.
 
 Asimismo, estarán obligados a proporcionar los datos necesarios para el registro del personal y equipo, información estadística y sobre delincuencia que posean, y cualquiera otra que les sea solicitada por la Dirección General de Seguridad Pública y por la Unidad de Enlace Informático del Consejo Estatal de Seguridad Pública, con el fin de integrar los registros a que se refiere el Capítulo Tercero, Titulo Quinto de esta ley, debiendo otorgar las facilidades necesarias para que las autoridades competentes puedan ejercer las funciones de supervisión y verificación de sus actividades.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+Los titulares de las corporaciones de seguridad pública municipal, podrán obtener la información que requieran las empresas privadas de protección y vigilancia, por conducto del Director General de Seguridad Pública del Estado o directamente ante los responsables de éstas. Dicha información será la estrictamente indispensable para una buena coordinación en el servicio.
+
 ###### ARTICULO 37.
 
 Los particulares que presten este servicio, no podrán ejercer las funciones que corresponden a las autoridades de seguridad pública o las fuerzas armadas nacionales.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+Asimismo, se les prohibe utilizar en su nombre, razón social o denominación, papelería, identificaciones personales, vehículos o instalaciones, las palabras "Policía", "Agente", o cualquier otro vocablo que infiera vínculo con la autoridad de los cuerpos de seguridad pública. Las empresas privadas deberán utilizar el término "Seguridad Privada" agregado al nombre de dicha empresa.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+Los uniformes y vehículos de éstas no serán similares a los oficiales, debiendo ser diferentes a los de los cuerpos de seguridad pública y procurándose que a simple vista no exista posibilidad alguna de confusión.
 
 ###### ARTICULO 38.
 
@@ -1205,9 +1257,11 @@ VI.- Las que determinen las demás disposiciones legales.
 
 Las sanciones e infracciones para los integrantes de los cuerpos de seguridad pública, especificadas en las fracciones I, II y III serán aplicadas por el jerárquico superior inmediato; las establecidas en las fracciones IV y V solo podrán ser aplicados por los Consejos de Honor y Justicia competentes, de acuerdo a la gravedad de la falta y las circunstancias de los hechos que las motiven.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 98.
 
-Los integrantes de las corporaciones de seguridad pública, podrán ser destituidos por las siguientes causas:
+Los integrantes de las corporaciones de seguridad pública, podrán ser destituidos por cualquiera de las siguientes causas:
 
 I.- Por faltar a sus labores por más de tres ocasiones en un período de treinta días naturales, sin permiso o causa justificada;
 
@@ -1229,9 +1283,19 @@ IX.- Por presentar dolosamente documentación falsificada o alterada;
 
 X.- Por aplicar a sus subalternos, en forma dolosa o reiterada, correctivos disciplinarios notoriamente injustificados;
 
-XI.- Por obligar a sus subalternos a entregarle dinero o cualquier otro tipo de dádivas, a cambio de permitirles el goce de las prestaciones a que todo policía tiene derecho; y
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
-XII.- Las demás que se establezcan en el reglamento respectivo.
+XI.- Por obligar, compeler o inducir a sus subalternos a entregarle dinero o cualquier otro tipo de dádivas, privilegios o beneficios, para sí o para otro, a cambio de permitirles el goce de las prestaciones a que todo policía tiene derecho o a cambio de servicio o favores de tipo personal;
+
+> <small>(ADICIONADA P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+XII.- Causar dolosamente el deterioro del equipo de trabajo o por hacer uso indebido de éste;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+XIII.- Resultar positivo en el examen de detección de uso o consumo de sustancias prohibidas; y
+
+XIV.- Las demás que se establezcan en los reglamentos respectivos.
 
 ###### ARTICULO 99.
 
@@ -1292,3 +1356,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los tres días del mes de abril de año dos mil uno.-
 
 ATENTAMENTE "SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.-El SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRÍGUEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 15 DE DICIEMBRE DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Lo dispuesto en la fracción VIII del artículo 16 de esta ley es de cumplimiento obligatorio impostergable para los Presidentes Municipales de Altamira, Ciudad Madero, El Mante, Matamoros, Nuevo Laredo, Reynosa, Río Bravo, Tampico, Valle Hermoso y Victoria. Los titulares de las presidencias municipales del Estado no referidas, deberán cumplir con la presente disposición tan pronto sea factible presupuestariamente, contando con un plazo de hasta dos años como máximo para dicho efecto.
