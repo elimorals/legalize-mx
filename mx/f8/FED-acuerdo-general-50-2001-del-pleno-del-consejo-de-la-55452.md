@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-50-2001-del-pleno-del-consejo-de-la-55452"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-08-22"
-last_updated: "2001-08-22"
+last_updated: "2002-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55452&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-08-13"
 
 ACUERDO GENERAL 50/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL FUNCIONAMIENTO DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION, Y ABROGA LOS DIVERSOS ACUERDOS GENERALES 14/2001 Y 26/2001, DEL PROPIO ORGANO COLEGIADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 23/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 31 DE MAYO DE 2002, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de agosto de 2001.
 
@@ -216,3 +218,17 @@ TERCERO.- Queda subsistente el Acuerdo General 74/2000, del Pleno del Consejo de
 CUARTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 50/2001, del Pleno del Consejo de la Judicatura Federal, Que Regula el Funcionamiento de las Oficinas de Correspondencia Común de los Tribunales de Circuito y Juzgados de Distrito del Poder Judicial de la Federación, y Abroga los Diversos Acuerdos Generales 14/2001 y 26/2001, del Propio Organo Colegiado, fue aprobado en sesión extraordinaria de trece de agosto de dos mil uno, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a trece de agosto de dos mil uno.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.OF. 31 DE MAYO DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se abroga el Acuerdo General 50/2001, del Pleno del Consejo de la Judicatura Federal.
+
+CUARTO.- Queda subsistente el Acuerdo General 74/2000, del Pleno del Consejo de la Judicatura Federal, en razón de la problemática que existe en los Juzgados de Distrito en Materia Administrativa en el Distrito Federal.
+
+QUINTO.- Los conflictos de turno que se encuentren en trámite, se resolverán conforme a las reglas establecidas en el presente acuerdo.
