@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2003-09-17"
+last_updated: "2003-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2003.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -555,13 +555,13 @@ XIV. Elegir a los Magistrados del Supremo Tribunal de Justicia del Estado en la 
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
 
-XV. Elegir Presidente Municipal, Síndicos Procuradores y Regidores sustitutos en casos de vacante.
+XV.- Elegir Presidente Municipal, Síndicos Procuradores y Regidores sustitutos en casos de vacante.
 
 XVI. Desempeñar todas las funciones que le encomiende la Ley Electoral para Poderes Federales.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE JUNIO DE 2001)</small>
 
-XVII. Expedir leyes que regulen la seguridad pública en el Estado; establezcan las bases de coordinación entre el Estado y los Municipios en materia de seguridad pública; y señalen la organización y funcionamiento de las instituciones de seguridad pública, así como las reglas para el establecimiento del servicio de carrera en dichas instituciones.
+XVII.- Expedir leyes que regulen la seguridad pública en el Estado; establezcan las bases de coordinación entre el Estado y los Municipios en materia de seguridad pública; y señalen la organización y funcionamiento de las instituciones de seguridad pública, así como las reglas para el establecimiento del servicio de carrera en dichas instituciones.
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
 
@@ -695,7 +695,7 @@ Toda Ley o decreto será promulgada bajo la firma del Presidente y Secretario de
 
 ###### Art. 48.
 
-Las leyes y decretos son obligatorios desde el día siguiente al de su promulgación, a no ser que en sus mismo (sic) mismos textos se designe la fecha en que deban comenzar a regir.
+Las leyes y decretos son obligatorios desde el día siguiente al de su promulgación, a no ser que en sus mismo (sic) textos se designe la fecha en que deban comenzar a regir.
 
 #### SECCION IV. DE LA DIPUTACION PERMANENTE
 
@@ -1071,7 +1071,7 @@ El Presidente de la Comisión Estatal de los Derechos Humanos, presentará anual
 
 #### SECCION III. DE LA DEFENSORIA DE OFICIO
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1938)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
 
 #### SECCION IV. DE LA HACIENDA PUBLICA
 
@@ -1079,15 +1079,15 @@ El Presidente de la Comisión Estatal de los Derechos Humanos, presentará anual
 
 ###### Art. 78.
 
-Habrá en el Estado un Cuerpo de Defensores de Oficio, cuya misión será procurar por los reos en asuntos penales, bajo las prescripciones de las leyes, y defender a los que lo soliciten en materia civil y administrativa, en los casos establecidos por la Ley Orgánica respectiva.
+Habrá en el Estado un Cuerpo de Defensores de Oficio, cuya misión será proporcionar el servicio de defensa a los indiciados en asuntos del orden penal, a los menores de edad sujetos a la jurisdicción del menor, y a quienes lo soliciten en las materias civil y administrativa, en los términos que establezca la Ley Orgánica respectiva.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Art. 79.
 
-El personal de la Defensoría de Oficio dependerá directamente del Gobernador del Estado; será nombrado y removido por él y estará formado por un Licenciado en Derecho que será el jefe y el cuerpo de defensores que lo integren, los que salvo en los casos de dispensa otorgada expresamente por el propio Gobernador del Estado, deberán ser igualmente Licenciados en Derecho.
+El Cuerpo de Defensores de Oficio dependerá del Ejecutivo del Estado. Estará a cargo de un Licenciado en Derecho que será el jefe y los defensores que lo integren, quienes serán igualmente Licenciados en Derecho.
 
-La Defensoría de Oficio se sujetará a las normas y lineamientos que señale el Reglamento respectivo.
+La Defensoría de Oficio contará con las unidades y dependencias necesarias sujetándose a las normas y lineamientos que señale su Ley Orgánica y el reglamento respectivo. En sus ordenamientos se precisará, entre otros requisitos, la forma y términos para el nombramiento de sus integrantes.
 
 #### SECCION IV BIS. Art. 89 A. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
 
@@ -1437,6 +1437,26 @@ Para ser Juez Menor se requiere: Ser ciudadano mexicano por nacimiento y sinaloe
 
 Se instituye la Jurisdicción Administrativa para conocer de las controversias que se susciten en relación con la legalidad, y, en su caso, la interpretación, cumplimiento y efectos de los actos, procedimientos y disposiciones de naturaleza administrativa emitidos por autoridades del Estado o de los Municipios para lo cual podrán crearse Tribunales Administrativos, dotados de plena autonomía para dictar sus fallos estableciéndose las normas de su organización, funcionamiento, competencia, procedimiento y recursos contra sus resoluciones.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+### CAPITULO VI. JUSTICIA DE MENORES
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+Art. 109 Bis A. Se establece un sistema de justicia para menores como función a cargo del Estado que se regirá por el principio de protección integral, a fin de garantizar los derechos del menor consagrados por la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la Constitución Política del Estado de Sinaloa y las leyes que de estos ordenamientos emanen.
+
+Para la realización de esta función, se crearán organismos con autonomía técnica, administrativa y jurisdiccional.
+
+Se instituye la jurisdicción especializada de Justicia de Menores en el Estado, para conocer de conductas realizadas por menores de edad en contravención a las leyes penales, y la cual se regirá por los principios de legalidad y de interés superior a la infancia, con el objeto de lograr su integración social.
+
+La ley reglamentaria precisará la edad mínima y máxima de los menores sujetos a esta jurisdicción.
+
+Habrá un órgano técnico responsable de indagar las conductas de los menores infractores, y órganos jurisdiccionales con plena autonomía para emitir sus resoluciones.
+
+La Ley reglamentará la organización y la competencia de estos órganos, el procedimiento y los recursos contra sus resoluciones.
+
+La ejecución de las medidas impuestas por los órganos jurisdiccionales de justicia de menores, se realizará por instituciones especializadas que se regirán por lo dispuesto en los tratados internacionales, esta Constitución y demás leyes que rigen la materia.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE ENERO DE 1984)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
@@ -1448,10 +1468,6 @@ Se instituye la Jurisdicción Administrativa para conocer de las controversias q
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
 ### CAPITULO III. DE LA DECLARATORIA DE PROCEDENCIA POR LA COMISION DE DELITOS
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
-
-### CAPITULO IV. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1739,7 +1755,7 @@ Las relaciones de trabajo entre los Municipios y sus trabajadores, se regirán p
 
 ## TITULO VII
 
-### CAPITULO V. DE LA PRESCRIPCION
+### CAPITULO IV. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1759,7 +1775,9 @@ Ningún servidor público del Gobierno del Estado y de los Ayuntamientos tiene d
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DISPOSICIONES DIVERSAS
+### CAPITULO V. DE LA PRESCRIPCION
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 132.
 
@@ -1799,7 +1817,7 @@ La Legislatura Local procederá conforme a lo previsto en este Capítulo, tratá
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LA INVIOLABILIDAD Y REFORMAS DE LA CONSTITUCION
+### CAPITULO I. DISPOSICIONES DIVERSAS
 
 ###### Art. 135.
 
@@ -1835,7 +1853,7 @@ La declaratoria de procedencia y la sentencia son inatacables.
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
-### CAPITULO V. SUSPENSION DE FUNCIONES, DESTITUCION, INHABILITACION O PRIVACION DE EMPLEOS, CARGOS O COMISIONES
+### CAPITULO II. DE LA INVIOLABILIDAD Y REFORMAS DE LA CONSTITUCION
 
 ###### Art. 138.
 
@@ -2891,37 +2909,19 @@ P.O. 17 DE SEPTIEMBRE DE 2003.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
+P.O. 19 DE SEPTIEMBRE DE 2003.
+
 ###### ARTÍCULO PRIMERO.
 
-Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO SEGUNDO.
 
-Este Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódo (sic) Oficial “Gaceta del Gobierno”.
+La ley reglamentaria de los organismos que integran el sistema de justicia de menores deberá expedirse en un año a partir de la vigencia del presente Decreto.
 
-G.G. 25 DE AGOSTO DE 2015.
+###### ARTÍCULO TERCERO.
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
-
-SEGUNDO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
-
-G.G. 23 DE NOVIEMBRE DE 2015.
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO. El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de su respectiva competencia, dispondrán lo necesario para que se realice una amplia campaña de difusión del presente decreto.
-
-G.G. 21 DE DICIEMBRE DE 2015.
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
-
-G.G. 6 DE ENERO DE 2016.
+En tanto no se inicie la vigencia de la ley reglamentaria mencionada en el Artículo Segundo Transitorio seguirán observándose la Ley Orgánica del Consejo Tutelar para Menores del Estado de Sinaloa y disposiciones complementarias.
 
 ###### ARTICULO PRIMERO.
 
