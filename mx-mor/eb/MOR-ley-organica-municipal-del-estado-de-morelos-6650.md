@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-6650"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-11-04"
-last_updated: "2000-10-11"
+last_updated: "2003-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2000.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS, PUBLICADA EN EL PERIODICO OFICIAL EL 13 DE AGOSTO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos el 4 de noviembre de 1992.
 
@@ -1989,7 +1991,7 @@ Decretada la revocación, se procederá en los términos del último párrafo de
 
 La declaración de desaparición de Ayuntamientos, la suspensión definitiva de un Ayuntamiento en su totalidad, la suspensión definitiva de uno de los miembros del Ayuntamiento en lo particular o la revocación del mandato conferido a alguno de los integrantes del Ayuntamiento, procederá a solicitud del Ejecutivo del Estado, conforme a lo dispuesto por el artículo 70 fracción XXVII de la Constitución Política local.
 
-### CAPITULO III. DEL CONCEJO MUNICIPAL
+### CAPITULO II. DEL PROCEDIMIENTO
 
 ###### Artículo 196.
 
@@ -2007,7 +2009,7 @@ IV.- Desahogada la audiencia, la Comisión deberá emitir su dictamen, el que se
 
 En caso de que los interesados no asistan a la audiencia a que se refiere el artículo anterior, se tendrá por precluido su derecho y por presuntivamente ciertos los hechos que se les imputen.
 
-### CAPITULO II. DEL PROCEDIMIENTO
+### CAPITULO III. DEL CONCEJO MUNICIPAL
 
 ###### Artículo 198.
 
@@ -2142,3 +2144,17 @@ Remítase el presente Decreto, al Titular del Poder Ejecutivo del Estado, para l
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+P.O. 13 DE AGOSTO DE 2003.
+
+PRIMERA.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA.- Se abroga la Ley Orgánica Municipal, expedida el 29 de octubre de 1992, publicada en el Periódico Oficial del Gobierno del Estado de Morelos, número 3612, el día cuatro de noviembre de mil novecientos noventa y dos, así como todas las demás disposiciones sobre la materia que se opongan a la presente Ley;
+
+TERCERA.- Los Ayuntamientos deberán proceder, en el término de seis meses a partir de la iniciación de la vigencia de esta Ley, a expedir los bandos, reglamentos, circulares y disposiciones administrativas de observancia general para el gobierno de sus respectivos Municipios; de existir estas normas y no ser contrarias a las disposiciones de la presente Ley, podrán seguir aplicándolas, previa ratificación de las mismas en Sesión de Cabildo y publicación del acta respectiva en el Periódico Oficial del Gobierno del Estado y la gaceta municipal.
+
+CUARTA.- Los recursos interpuesto contra los actos, resoluciones y acuerdos de las autoridades municipales que se hayan interpuesto antes de entrar en vigor esta Ley, se substanciarán y resolverán conforme a las reglas de la Ley que se abroga.
+
+QUINTA.- Los Ayuntamientos propondrán al Congreso del Estado, dentro de sus facultades constitucionales y legales la readecuación de la definición de categoría y denominación política de sus centros de población, dentro del plazo de 120 días a partir de la vigencia de la presente Ley, y el Congreso del Estado decretará lo correspondiente en un plazo de 90 días a la recepción de la propuesta. Hasta en tanto, los centros de población conservarán su categoría y definición actual.
+
+SEXTA.- Remítase la presente Ley al Titular del Poder Ejecutivo del Estado para los efectos de lo ordenado en la Constitución Política del Estado.
