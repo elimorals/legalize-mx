@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1994-01-07"
+last_updated: "1994-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 1994.
 
 Constitución Publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -283,23 +283,31 @@ El Poder Legislativo se deposita en una Asamblea de Representantes del pueblo qu
 
 El Congreso del Estado se integra con Diputados electos en su totalidad cada tres años. Por cada Diputado Propietario se elegirá un Suplente.
 
-La elección será libre, directa y sujeta a los Principios de Mayoría Relativa y de Representación Proporcional, en los términos de esta Constitución y del Código Electoral.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 1994)</small>
+
+La elección será libre, directa y sujeta a los principios de mayoría relativa y de representación proporcional, en los términos de esta Constitución y de la Legislación Electoral.
 
 Los Diputados Propietarios no podrán ser reelectos para el período inmediato, ni aún como Suplentes. Los Diputados Suplentes podrán ser electos para el período inmediato siguiente con el carácter de Propietarios, si no hubieren ejercido el cargo.
 
-El Congreso del Estado, se integra con quince diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y hasta por once diputados electos según el Principio de Representación Proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal, conforme lo determine el Código Electoral.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 1994)</small>
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+El Congreso del Estado, se integra con veinte diputados, electos según el principio de mayoría relativa, mediante el sistema de Distritos Uninominales, y hasta por once diputados electos según el principio de representación proporcional, de acuerdo al sistema de listas votadas en una circunscripción plurinominal, conforme lo determinará la legislación electoral.
 
-El partido político que obtenga más del cincuenta por ciento de la votación emitida, tendrá derecho a tres diputados de representación proporcional y hasta ocho restantes se podrán adjudicar a aquellos partidos que habiendo alcanzado el cinco por ciento de la votación total del Estado, obtengan una mayor proporción de votos.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 1994)</small>
+
+La Ley establecerá los mecanismos que garanticen mediante el voto, que los distritos electorales predominantemente indígenas tengan en el Congreso la representación correspondiente.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 1994)</small>
+
+El partido político que obtenga mas del cincuenta por ciento de la votación emitida, tendrá derecho a tres diputados de representación proporcional y los restantes se adjudicarán a aquellos partidos que habiendo alcanzado cuando menos el 1.5%, uno punto cinco por ciento, obtengan una mayor proporción de votos.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 La legislación respectiva determinará las reglas y el procedimiento a que se sujetará la asignación de diputados de representación proporcional.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 1994)</small>
 
-Ningún Partido tendrá derecho a que le sean reconocidos mas de dieciocho diputados, aún cuando hubiere obtenido un porcentaje de votos superior.
+Ningún partido tendrá derecho a que le sean reconocidos mas de veintidós diputados, aun cuando hubiere obtenido un porcentaje superior de votos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -361,15 +369,17 @@ D) Los funcionarios federales; y
 
 E) Los militares en servicio activo y quienes tengan mando de la Policía en el Distrito donde se efectúe la elección.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 1994)</small>
 
 ###### ARTICULO 19.
 
-Los Poderes Legislativo y Ejecutivo tienen a su cargo la vigilancia y organización en general, de las elecciones, con la participación de los partidos políticos y de los ciudadanos.
+Los ciudadanos y los partidos políticos, con el apoyo de los Poderes del Estado tienen a su cargo la organización y vigilancia de las elecciones. Los Comités Distritales Electorales, declararán la validez de las elecciones de diputados. El Congreso del Estado, a través de un Colegio Electoral integrado con todos sus diputados, calificará las elecciones de Gobernador y Ayuntamientos, y sus fallos serán definitivos e inapelables.
 
-El Congreso del Estado calificará las elecciones de sus miembros a través de un Colegio Electoral, integrado con todos los presuntos diputados que hubieren obtenido la constancia de mayoría expedida por el organismo competente para ello en el Estado.
+La legislación electoral, establecerá medios de impugnación, para garantizar que los actos de los organismos electorales, se ajusten a lo dispuesto por esta Constitución y las Leyes que de ella emanen; de las impugnaciones conocerá la Comisión Electoral y el Tribunal Electoral del Estado.
 
-El Código Electoral determinará el organismo publico que tendrá a su cargo esta función; además establecerá un sistema de medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por esta Constitución y las leyes que de ella emanen; impugnaciones de las que conocerán el organismo publico y un tribunal administrativo en materia electoral. El Tribunal tendrá la competencia y organización que determine el Código Electoral, funcionando en pleno, y resolverá en una sola instancia, sus sesiones serán publicas. Estará integrada por tres magistrados numerarios y dos supernumerarios, nombrados por el Congreso del Estado y en su receso por la Comisión Permanente, a mas tardar el 25 de octubre del año anterior a la elección. Las resoluciones del Tribunal serán obligatorias y contra ellas no procederá juicio ni recurso alguno, y solo podrán ser revisadas y en su caso modificadas por el Colegio Electoral. El cual será la ultima instancia en la calificación de elecciones, y sus fallos serán definitivos e inapelables.
+El Tribunal tendrá competencia y organización para funcionar en plenos y en salas. Sus sesiones serán publicas. Estará integrado por cinco magistrados numerarios, uno de los cuales fungirá como Presidente y dos Magistrados supernumerarios que harán las veces de jueces instructores y serán nombrados por el Congreso del Estado o por la Comisión Permanente, en los recesos de aquél, a mas tardar el 25 de octubre del año anterior a la elección, la propuesta en lista de cuando menos el doble de Magistrados del Tribunal Electoral será hecha por el Tribunal Superior de Justicia del Estado.
+
+Las resoluciones del Tribunal serán de pleno derecho y contra ellas no procederá juicio ni recurso alguno. Sus fallos serán definitivos e inapelables.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -393,11 +403,13 @@ También incurrirán en responsabilidad, que la misma Ley sancionara, los partid
 
 Los Diputados que no concurran a una sesión sin causa justificada, o sin el permiso del Diputado Presidente del Congreso, no tendrán derecho a la dieta correspondiente.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 1994)</small>
 
 ###### ARTICULO 22.
 
-El Congreso del Estado deberá quedar instalado el día primero de Noviembre del año de la elección, debiendo iniciar su periodo ordinario de sesiones ese mismo día de ese mismo mes, terminando el dos de febrero; y el otro periodo ordinario, el dos de mayo, terminando el treinta y uno de julio; en los cuales se ocupara del estudio, discusion y votacion de las Iniciativas de Ley que se le presenten y demas asuntos que le correspondan conforme a esta Constitucion. Habrá además en el año en que se verifiquen las elecciones ordinarias de Gobernador, un periodo extraordinario de sesiones, para el solo acto de erigirse en Colegio Electoral y hacer él cómputo de votos emitidos en la elección de Gobernador, así como la declaratoria respectiva en favor de la persona que hubiere obtenido la mayoría de sufragios. Dicho periodo será convocado por la Comisión Permanente tan pronto como tenga la mayoría de los expedientes electorales del Estado.
+El Congreso del Estado deberá quedar instalado el día primero de noviembre del año de la elección, debiendo iniciar su primer período ordinario de sesiones ese mismo día de ese mismo mes, terminando el dos de febrero; y el otro período ordinario, el 2 de mayo, terminando el 31 de julio; en los cuales se ocupará del estudio, discusión y votación de las iniciativas de Ley que se le presenten y demás asuntos que le corresponde conforme a esta Constitución. Habrá además en el año en que se verifiquen las elecciones ordinarias de Gobernador, un período extraordinario de sesiones, para el solo acto de erigirse en Colegio Electoral y hacer el cómputo de votos emitidos en la elección de Gobernador y Ayuntamientos, así como de la declaratoria respectiva en favor de la persona que hubiere obtenido la mayoría de sufragios.
+
+Dicho período será convocado por la Comisión Permanente tan pronto como tenga la mayoría de los expedientes electorales del Estado.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -529,9 +541,9 @@ XXI.- Prorrogar el periodo de sesiones ordinarias por el tiempo que lo requieran
 
 XXII.- Nombrar y remover libremente a sus funcionarios y empleados de confianza;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 1994)</small>
 
-XXIII.- Recibir la protesta al Gobernador del Estado, y a los Magistrados del Supremo Tribunal de Justicia del Estado, de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen;
+XXIII.- Otorgar o negar la aprobación de los nombramientos de Magistrados que se someta a su consideración conforme a esta Constitución y las leyes secundarias;
 
 XXIV.- Conceder licencia al Gobernador y a los Diputados para separarse de su cargo, en los términos de esta Constitución;
 
@@ -565,13 +577,13 @@ XXXIV.- Publicar su Memoria anual de labores;
 
 XXXV.- Dirimir los conflictos que se susciten entre el Ejecutivo y el Supremo Tribunal de Justicia del Estado, salvo que se trate de controversias sobre la constitucionalidad de sus actos, las que están reservadas a la Suprema Corte de Justicia de la Nación;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 1994)</small>
 
-XXXVI.- Erigirse en Colegio Electoral para hacer la calificación de las elecciones y declaración de electos de Diputados Estatales y Gobernador, asimismo hará la declaración de electos de los Senadores al Congreso de la Unión en los términos de la Constitución General de la República y el Código Federal de Instituciones y Procedimientos Electorales;
+XXXVI.- Erigirse en Colegio Electoral para calificar las elecciones de gobernador y ayuntamientos y declararlos electos, asimismo hará la declaración de electos en el caso de los Senadores al Congreso de la Unión, conforme a la Constitución General de la República y la Legislación Federal Electoral;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 1994)</small>
 
-XXXVII.- Otorgar o negar su aprobación a los nombramientos de Magistrados del Supremo Tribunal de Justicia del Estado que le someta a su consideración el Gobernador;
+XXXVII.- Recibir del Gobernador, Diputados y Magistrados la protesta a que se refiere el Artículo 37 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -583,9 +595,9 @@ XL.- Conocer, como Jurado de acusación, de los procedimientos que por delitos o
 
 XLI.- Erigirse en jurado para declarar si ha o no lugar para proceder contra alguno de los funcionarios públicos que gocen de fuero constitucional, cuando sean acusados por delitos del orden común;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 1994)</small>
 
-XLII.- Conocer y resolver, en los términos del Artículo 19 de esta Constitución y del Código Electoral de los casos de nulidad de elecciones, así como de cualquier otro conflicto que se suscite con motivo de éstas;
+XLII.- Conocer y resolver, en los términos del Artículo 19 de esta Constitución y de la Legislación Federal Electoral, de los casos de nulidad de elecciones; así como de cualquier otro conflicto que se suscite con motivo de éstas;
 
 > <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -637,17 +649,19 @@ VI.- Resolver todos los asuntos concernientes a las elecciones de funcionarios m
 
 VII.- Conocer de los asuntos relacionados con la Hacienda de los Municipios y revisar y aprobar sus cuentas;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 1994)</small>
 
-VIII.- Otorgar o negar su aprobación a los nombramientos de los Magistrados del Supremo Tribunal de Justicia del Estado que le someta el Gobernador;
+VIII.- Otorgar o negar la aprobación de los nombramientos de Magistrados que sometan a su consideración y en su caso recibirles la protesta;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 1994)</small>
 
-IX.- Recibir, en su caso, la protesta del Gobernador Provisional y de los Magistrados del Supremo Tribunal de Justicia del Estado;
+IX.- Nombrar Gobernador interino o provisional en los supuestos a que se refiere esta Constitución y recibir su protesta;
 
 X.- Conceder licencia por mas de treinta días al Gobernador del Estado;
 
-XI.- Nombrar Gobernador Interino o Provisional en los supuestos a que se refiere esta Constitución; y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 1994)</small>
+
+XI.- Recibir, en su caso, la protesta de Gobernador Interino o Provisional;
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -765,13 +779,13 @@ III.- Solicitar la protección de los Poderes de la Unión en caso de sublevaci�
 
 IV.- Cuidar que los fondos públicos en todo caso estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la Ley;
 
-V.- Otorgar a los particulares, mediante concesión la explotación de bienes propiedad del Estado, o la prestación de servicios públicos cuando así proceda con arreglo a la Legislación aplicable.
+V.- Otorgar a los particulares, mediante concesión la explotación de bienes propiedad del Estado, o la prestación de servicios públicos cuando así proceda con arreglo a la Legislación aplicable;
 
-VI.- Fomentar por todos los medios posibles la educación popular y procurar el adelanto y mejoramiento social y proveer, ejecutar o convenir la realización de toda clase de mejoras morales y materiales en beneficio o en interés de la colectividad.
+VI.- Fomentar por todos los medios posibles la educación popular y procurar el adelanto y mejoramiento social y proveer, ejecutar o convenir la realización de toda clase de mejoras morales y materiales en beneficio o en interés de la colectividad;
 
 > <small>(F. DE E., P.O. 7 DE NOVIEMBRE DE 1990)</small>
 
-Las obras públicas serán realizadas por el Poder Ejecutivo, por sí o adjudicándolas en concurso, mediante convocatoria, en los términos de la Ley respectiva; asimismo, podrá decretar la requisa y pago de materiales para la ejecución de éstas.
+Las obras públicas serán realizadas por el Poder Ejecutivo, por sí o adjudicándolas en concurso, mediante convocatoria, en los términos de la Ley respectiva; asimismo, podrá decretar la requisa y pago de materiales para la ejecución de éstas;
 
 > <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -811,9 +825,9 @@ XIX.- Presentar al Congreso, en su Primer Período Ordinario de Sesiones, el Pre
 
 XX.- Facilitar al poder judicial los auxilios que necesite para el ejercicio expedito de sus funciones;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 1994)</small>
 
-XXI.- Someter al Congreso, o a la Comisión Permanente para su aprobación o desaprobación, el nombramiento de Magistrados del Supremo Tribunal de Justicia del Estado o de sus substitutos en los casos previstos por esta Constitución;
+XXI.- Someter a consideración del Congreso o de la Comisión Permanente, los nombramientos de Magistrados;
 
 XXII.- Nombrar y remover libremente a los empleados y funcionarios de la Administración Pública del Estado de Chiapas, respetando en todo caso los derechos que les asistan conforme a la Legislación aplicable;
 
@@ -1051,11 +1065,11 @@ Los Ayuntamientos estarán integrados por:
 
 Un Presidente, un Síndico y tres Regidores Propietarios y sus suplentes de mayoría relativa en aquellos municipios cuya población no exceda de 7,500 habitantes.
 
-Un Presidente, un Síndico Propietario y un Suplente; seis regidores propietarios y tres suplentes de mayoría relativa en aquellos municipios cuya población sea de mas de 7,500 habitantes y no exceda de 100,000 habitantes.
+Un Presidente, un Síndico Propietario y un Suplente; seis regidores propietarios y tres suplentes de mayoría relativa en aquellos municipios cuya población sea de más de 7,500 habitantes y no exceda de 100,000 habitantes.
 
-Un Presidente, un Síndico Propietario y un Suplente; ocho Regidores Propietarios y cuatro Suplentes de mayoría relativa en aquellos municipios cuya población sea de mas de 100,000 habitantes.
+Un Presidente, un Síndico Propietario y un Suplente; ocho Regidores Propietarios y cuatro Suplentes de mayoría relativa en aquellos municipios cuya población sea de más de 100,000 habitantes.
 
-Además de los regidores electos por el sistema de mayoría relativa, en los municipios con población hasta de cien mil habitantes, los ayuntamientos se integrarán con un regidor más; hasta doscientos mil habitantes, con dos regidores mas y de mas de doscientos mil habitantes con tres regidores mas, los que serán electos según el principio de representación proporcional. La Ley Reglamentaria determinará las fórmulas y procedimientos para la asignación de estas Regidurías.
+Además de los regidores electos por el sistema de mayoría relativa, en los municipios con población hasta de cien mil habitantes, los ayuntamientos se integrarán con un regidor más; hasta doscientos mil habitantes, con dos regidores mas y de más de doscientos mil habitantes con tres regidores mas, los que serán electos según el principio de representación proporcional. La Ley Reglamentaria determinará las fórmulas y procedimientos para la asignación de estas Regidurías.
 
 Los agentes y delegados municipales serán nombrados y removidos en Sesión Plenaria por el Ayuntamiento del que dependan.
 
@@ -1645,9 +1659,9 @@ El Territorio del Estado de Chiapas es el que posee desde que forma parte de la 
 
 Para su oganización política y administrativa se dividirá en Municipios Libres, de acuerdo con las bases contenidas en el Artículo 115 de la Constitución Federal y la Ley Orgánica respectiva, siendo los siguientes:
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1994)</small>
 
-Acacoyagua, acala, Acapetahua, Altamirano, Amatan, Amatenango de la frontera, amatenango del valle, Angel lbino corzo, Arriaga, bejucal de ocampo, bella vista, berriozabal, bochil, Cacahoatan, catazaja, cintalala, coapilla, Comitan de Dominguez, Copainala, chalchihuitan, Chamula, Chanal, Chapultenango, Chenalho, Chiapa de Corzo, Chiapilla, Chicoasen, Chicomuselo, Chilon, el bosque, el porvenir, escuintla, francisco leon, frontera Comalapa, Frontera hidalgo, huehuetan, huitiupan, huixtan, huixtla, Ixhuatan, ixtacomitan, ixtapa, ixtapangajoya, jiquipilas, jitotol, Juarez, la concordia, la grandeza, la independencia, la libertad, las Margaritas, larrainzar, las rosas, la trinitaria, mapastepec, Mazapa de Madero, mazatan, metapa, mitontic, motozintla, Nicolas ruiz, Ocosingo, ocotepec, ocozocoautla de espinosa, Ostuacan, Osumacinta, oxchuc, palenque, pantelho, pantepec, pichucalco, Pijijiapan, Pueblo Nuevo Solistahuacan, rayon, reforma, sabanilla, salto de agua, san cristobal de las casas, san fernando, san lucas, san juan cancuc, siltepec, Simojovel, Sitala, Socoltenango, Solosuchiapa, soyalo, suchiapa, suchiate, sunuapa, tapachula, tapalapa, tapilula, tecpatan, tenejapa, teopisca, tila, tonala, totolapa, Tumbala, tuxtla gutierrez, tuxtla chico, tuzantan, tzimol, Union Juarez, Venustiano Carranza, Villaflores, Villa Comaltitlan, Villa Corzo, Yajalon y Zinacantan.
+Acacoyagua, Acala, Acapetahua, Altamirano, Amatan, Amatenango de la Frontera, Amatenango del Valle, Angel Ibino Corzo, Arriaga, Bejucal de Ocampo, Bella Vista, Berriozabal, Bochil, Cacahoatan, Catazaja, Cintalala, Coapilla, Comitan de Dominguez, Copainala, Chalchihuitan, Chamula, Chanal, Chapultenango, Chenalho, Chiapa de Corzo, Chiapilla, Chicoasen, Chicomuselo, Chilon, El Bosque, El Porvenir, Escuintla, Francisco León, Frontera Comalapa, Frontera Hidalgo, Guadalupe Tepeyac, Huehuetan, Huitiupan, Huixtan, Huixtla, Ixhuatan, Ixtacomitan, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juarez, Lacandonia, La Concordia, La Grandeza, La Independencia, La Libertad, Las Margaritas, Larrainzar, Las Rosas, La Trinitaria, Mapastepec, Marques de Comilla, Mazapa de Madero, Mazatan, Metapa, Mitontic, Motozintla, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelho, Pantepec, Pichucalco, Pijijiapan, Pueblo Nuevo Solistahuacan, Rayon, Reforma, Sabanilla, Salto de Agua, San Cristobal de las Casas, San Fernando, San Lucas, San Juan Cancuc, Siltepec, Simojovel, Sitala, Socoltenango, Solosuchiapa, Soyalo, Suchiapa, Suchiate, Sunuapa, Tapachula, Tapalapa, Tapilula, Tecpatan, Tenejapa, Teopisca, Tila, Tonala, Totolapa, Tumbala, Tuxtla Gutiérrez, Tuxtla Chico, Tuzantan, Tzimol, Unión Juárez, Venustiano Carranza, Villaflores, Villa Comaltitlan, Villa Corzo, Yajalón y Zinacantán.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -1997,7 +2011,7 @@ Esta Constitución se publicará en el Periódico Oficial, y con la mayor solemn
 
 ###### ARTICULO TERCERO.
 
-(DEROGADO, P.O. 7 DE ENERO DE 1994)
+Para los efectos del Artículo 36 reformado, la Legislatura del Estado, designará a la persona que ocupará el cargo de Gobernador con el carácter de interino del día primero al día ocho de diciembre de 1982, fecha esta ultima en que deberá tomar posesión el Gobernador Constitucional Electo.
 
 ###### ARTICULO CUARTO.
 
@@ -2092,3 +2106,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Por esta única ocasión, el Congreso del Estado o la Comisión Permanente en su caso, nombrará a los Magistrados Numerarios y Supernumerarios que integrarán el Tribunal Administrativo en materia electoral a que se refiere el Artículo 19 de la Constitución Política del Estado, a más tardar el día 10 de febrero de 1994.
+
+P.O. 10 DE MAYO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto de reformas y adiciones a la Constitución Política del Estado de Chiapas, entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El nombramiento de magistrados a que se refiere el Artículo 19 de la Constitución Política Local, por esta única ocasión deberá realizarse en el mes de mayo de 1994.
