@@ -4,7 +4,7 @@ identifier: "JAL-codigo-fiscal-del-estado-de-jalisco-12023"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-16"
-last_updated: "1998-02-19"
+last_updated: "1999-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO FISCAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1999.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 16 de diciembre de 1997.
 
@@ -669,7 +669,17 @@ Las personas físicas o jurídicas, cuando efectúen el pago de los créditos fi
 
 Los contribuyentes que se encuentran inscritos en dicho registro, están obligados a tener a disposición de las autoridades fiscales, en su domicilio fiscal, los registros y documentos relativos a su negociación; tendrán igualmente la obligación de citar el número de registro que les sea asignado en la documentación comprobatoria que expidan, así como en cada declaración, avisos de modificación al Registro Estatal, promoción, solicitud o gestión que hagan ante cualquier Oficina de Recaudación Fiscal o autoridad, y a colocar su comprobante de registro en lugar visible del establecimiento, sucursal, agencia o dependencia.
 
-Cuando los contribuyentes inscritos en el Registro Estatal, dejen de realizar sus actividades y den aviso de cancelación, estarán obligados a garantizar el interés fiscal, si presentaren adeudos, en los términos de las disposiciones de carácter administrativo que expida la Secretaría de Finanzas del Estado.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1999)</small>
+
+Cuando los contribuyentes inscritos en el Registro Estatal, dejen de realizar sus actividades y den aviso de suspensión de actividades o cancelación si presentaren adeudos, estarán obligados a garantizar el interés fiscal, en los términos de las disposiciones de carácter administrativo que expida la Secretaría de Finanzas del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1999)</small>
+
+Sólo se tramitarán los avisos de suspensión de actividades y cancelación de aquellos contribuyentes que se encuentren al corriente en el cumplimiento de sus obligaciones fiscales. En caso de existir adeudos deberá garantizarse el interés fiscal, en los términos de carácter administrativo que expida la Secretaría de Finanzas del Estado, los contribuyentes que reanuden actividades gravadas, deberán presentar ante la oficina de recaudación fiscal que tramitó la suspensión, el aviso de dicha reanudación dentro del mes siguiente a la fecha en que reiniciaron la actividad.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1999)</small>
+
+El aviso de reanudación no implica nueva inscripción al padrón estatal de contribuyentes.
 
 ###### Artículo 51.
 
@@ -685,9 +695,19 @@ c) De domicilio; y
 
 II. Aviso de suspensión de actividades.
 
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1999)</small>
+
+III. Cancelación.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1999)</small>
+
+IV. Reanudación de actividades
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 52.
 
-La solicitud de inscripción deberá presentarse ante las oficinas de recaudación fiscal de la circunscripción territorial del domicilio del contribuyente, o ante aquella que, mediante disposiciones de carácter administrativo, señale la Secretaría de Finanzas del Estado, dentro de los 30 días siguientes al día en que se realicen los hechos que a continuación se señalan:
+La solicitud de inscripción deberá presentarse ante las oficinas de recaudación fiscal de la circunscripción territorial del domicilio del contribuyente, o ante aquella que, mediante disposiciones de carácter administrativo, señale la Secretaría de Finanzas del Estado, dentro del mes siguiente al día en que se realicen los hechos que a continuación se señalan:
 
 I. Las personas jurídicas, a partir del día en que se firme su escritura constitutiva; y
 
@@ -713,17 +733,23 @@ Cuando el contribuyente cambie su domicilio, estableciéndose en otra entidad fe
 
 El aviso de cambio de domicilio deberá presentarse dentro del mes siguiente al día en que tenga lugar el hecho de que se trate, en la Oficina de Recaudación Fiscal de la jurisdicción que corresponda al nuevo domicilio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 55.
 
-El aviso de suspensión de actividades deberá presentarse en la Oficina de Recaudación Fiscal que corresponda, o ante aquella que, mediante disposiciones de carácter administrativo, señale la Secretaría de Finanzas del Estado, dentro del mes siguiente al día en que se dé alguna de las situaciones que enseguida se mencionan:
+Los aviso (sic) de suspensión y de cancelación de actividades deberán presentarse en la Oficina de Recaudación Fiscal que corresponda, o ante aquella que, mediante disposiciones de carácter administrativo, señale la Secretaría de Finanzas del Estado, dentro del mes siguiente al día en que se dé alguna de las situaciones que enseguida se mencionan:
 
-I. Las personas físicas, a partir del día en que suspendan sus actividades, cierren su establecimiento o dejen de realizar los actos que hayan dado lugar a la inscripción, o bien fallezcan. En este último caso, el aviso de suspensión de actividades podrá ser presentado por cualquier persona interesada en actualizar el registro correspondiente; y
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1999)</small>
 
-II. Las personas jurídicas:
+I. En el caso de aviso de suspensión de actividades, a partir del día en que se suspenda actividades o dejen de realizar la actividad gravada;
 
-a) Cuando entren en liquidación, a partir de la fecha de la liquidación total de sus activos;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1999)</small>
 
-b) En los casos de fusión, a partir de la fecha de la protocolización respectiva; y
+II. Para el aviso de cancelación de actividades:
+
+a) Cuando las personas físicas fallezcan el aviso podrá ser presentado por cualquier persona interesada en actualizar el registro correspondiente;
+
+b) Las personas jurídicas cuando entren en liquidación, a partir de la fecha de la liquidación total de sus activos y en los de fusión, a partir de la fecha de la protocolización respectiva;
 
 c) Tratándose de asociaciones y sociedades civiles, a partir de la fecha en que se protocolice el acta de asamblea en la cual se acuerde la disolución.
 
@@ -785,7 +811,7 @@ a) Nombre, denominación o razón social del contribuyente;
 
 b) Domicilio;
 
-c) Número de cuenta estatal;
+c) (DEROGADO, P.O. 16 DE DICIEMBRE DE 1999)
 
 d) Registro Federal de Contribuyentes;
 
@@ -827,7 +853,9 @@ A falta de disposición legal expresa, el pago deberá hacerse:
 
 I. Si le corresponde a las autoridades formular la liquidación, dentro de los quince días siguientes a la fecha en que haya surtido efecto la notificación de la misma;
 
-II. Si les corresponde hacer la determinación a los sujetos pasivos, responsables solidarios o responsables objetivos, dentro de los veinte días siguientes al nacimiento de la obligación fiscal; y
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1999)</small>
+
+II. Si les corresponde hacer la determinación a los sujetos pasivos, responsables solidarios o responsables objetivos, dentro de los quince días siguientes al nacimiento de la obligación fiscal; y
 
 III. Si se trata de obligaciones derivadas de contratos o concesiones que no señalen la fecha de pago, éste deberá hacerse dentro de los quince días siguientes a la fecha de su celebración u otorgamiento.
 
@@ -837,21 +865,59 @@ Se consideran créditos fiscales, los que tenga derecho a percibir el Estado que
 
 La falta de pago de un crédito fiscal en la fecha o plazo establecido en las leyes fiscales respectivas, determinan que el crédito sea exigible.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 68.
 
-El monto de un crédito fiscal o de las devoluciones a cargo del fisco estatal, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual, se aplicará el factor de actualización.
+El monto de un crédito fiscal o de las devoluciones a cargo del fisco estatal, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual, se aplicará el factor de actualización a las cantidades que se deben actualizar.
 
-En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1999) (F. DE E. P.O. 16 DE MARZO DE 2000)
+
+En el caso de un crédito fiscal el factor de actualización se obtendrá dividiendo A entre B donde:
+
+A = Indice nacional de precios al consumidor vigente en el momento en que suceda el pago del contribuyente.
+
+B = Indice citado, vigente en el momento en que se hace exigible el pago por parte del fisco.
+
+Tratándose del caso de devoluciones a cargo del fisco el factor de actualización se obtendrá dividiendo C entre D donde:
+
+C = Indice Nacional de precios al consumidor vigente en el momento de realizar la devolución.
+
+D = Indice citado vigente al momento en que fue recibido por el fisco el pago indebido motivo de la devolución.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1999)</small>
+
+Los créditos fiscales, así como las devoluciones a cargo del fisco estatal, no se actualizarán por fracciones de mes.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1999)</small>
+
+En los casos en que el Indice Nacional de precios al consumidor del mes anterior al que suceda el pago o se realice la devolución, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
 Las cantidades actualizadas, conservarán la naturaleza jurídica que tenían antes de la actualización.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 69.
 
-La Secretaría de Finanzas del Estado podrá conceder prórroga para el pago de los créditos fiscales, para que los mismos se realicen en parcialidades. La prórroga o el plazo dentro del cual deban pagarse las parcialidades no excederá de un año, salvo que se trate de adeudos cuantiosos correspondientes a ejercicios fiscales anteriores, casos en los que el plazo podrá ser hasta de tres años.
+La Secretaría de Finanzas del Estado podrá conceder prórroga para el pago de los créditos fiscales, para que los mismos se realicen en parcialidades. La prórroga o el plazo dentro del cual deban pagarse las parcialidades no excederá de un año, salvo que se trate de adeudos cuantiosos correspondientes a ejercicios fiscales anteriores, casos en los que el plazo podrá ser hasta de tres años, el procedimiento para ambos casos es el siguiente:
 
-En los casos anteriores, deberá garantizarse el interés fiscal, salvo que, conforme a este código, proceda su dispensa.
+I. La primera parcialidad será la que determine la propia autoridad;
 
-Durante los plazos concedidos se causarán recargos conforme a la tasa que fije anualmente la Ley de Ingresos del Estado.
+Para efectos de esta fracción, el saldo del adeudo inicial a la fecha de autorización, se integra por la suma de los siguientes conceptos:
+
+a) El monto de las contribuciones omitidas actualizado desde el mes en que se debieron pagar y hasta aquél en que se conceda la autorización;
+
+b) Las multas correspondientes hasta aquel en que se conceda la autorización;
+
+c) Los recargos y algún otro concepto distinto a los señalados, excepto los gastos de ejecución.
+
+La actualización que corresponda al periodo mencionado se efectuará conforme a lo previsto por el artículo 68 de este Código;
+
+II. El saldo que se utilizará para el cálculo de las parcialidades restantes, será el resultado de restar la primera parcialidad al saldo del adeudo inicial al que se refiere la fracción primera de este artículo;
+
+III. La segunda y siguientes parcialidades se calcularán tomando en consideración el saldo a que se refiere la fracción anterior y la tasa de recargos por prórroga determinada conforme a la Ley de Ingresos del Estado.
+
+En los casos anteriores, deberá garantizarse el interés fiscal, salvo que, conforme a este Código, proceda su dispensa.
 
 ###### Artículo 70.
 
@@ -889,7 +955,9 @@ El pago de los créditos fiscales deberá hacerse en efectivo, con cheque certif
 
 Se considera como no pagado un crédito fiscal, cuando éste sea efectuado mediante cheque con cargo a una cuenta otorgada por una Institución Bancaria y el cheque sea devuelto por ésta.
 
-La indemnización, el cobro del cheque, las multas y recargos, se notificarán y se harán efectivos mediante el procedimiento administrativo de ejecución, sin perjuicio de la denuncia de hechos respectiva ante las autoridades competentes.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1999)</small>
+
+El cheque recibido por las autoridades estatales que sea presentado en tiempo y no sea pagado dará lugar al cobro del monto del cheque y una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los demás conceptos a que se refiere este artículo. Para tal efecto, la autoridad requerirá al librador del cheque para que dentro de un plazo de tres días, efectúe el pago junto con la mencionada indemnización del 20%, o bien, acredite fehacientemente, con las pruebas documentales procedentes, que se realizó el pago o que dicho pago no se realizó por causas exclusivamente imputables a la institución de crédito. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad requerirá y cobrará el monto del cheque, la indemnización mencionada y los demás accesorios que correspondan, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad que en su caso procediere.
 
 ###### Artículo 73.
 
@@ -1115,11 +1183,15 @@ Cuando los plazos se fijen por mes, sin especificar que sean de calendario, se e
 
 No obstante lo dispuesto en los párrafos anteriores, si el último día del plazo, o en la fecha determinada, las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores, se prorrogará el plazo hasta el siguiente día hábil.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 103.
 
-Para los efectos de cómputos de plazos fiscales, son días inhábiles los sábados, los domingos y aquellos en que las oficinas de recaudación fiscal permanezcan cerradas durante el horario normal de labores..
+Para los efectos de cómputos de plazos fiscales, son días inhábiles el 1º de enero, 5 de febrero, 21 de marzo, 1º y 5 de mayo, 16 y 28 de septiembre, 12 de octubre, 2 y 20 de noviembre, 25 de diciembre, el día correspondiente a la transmisión del poder ejecutivo federal y los sábados y domingos.
 
-La presencia de personal de guardia no habilita los días en que se suspendan las labores.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1999)</small>
+
+La presencia de personal de guardia por vacaciones generales, no habilita los días en que se suspendan las labores.
 
 La práctica de diligencias por las autoridades fiscales deberá efectuarse en días y horas hábiles, que son las comprendidas de lunes a viernes, de 8:00 a 17:00 horas. Una diligencia de notificación iniciada en horas hábiles podrá concluirse en hora inhábil sin afectar su validez. Las autoridades fiscales, para la práctica de auditoría domiciliarias (sic), del procedimiento administrativo de ejecución, de notificaciones y de embargos precautorios, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar contribuciones en días u horas inhábiles, esta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos.
 
@@ -1213,7 +1285,11 @@ XVIII. Resistirse, por cualquier medio, a las visitas de revisión o auditoría;
 
 XIX. No presentar ante las autoridades fiscales, cuando éstas lo soliciten, los comprobantes fiscales, recibos, nota de venta y otros comprobantes de las compras efectuadas, multas de 10 a 100 días de salario mínimo general, vigente en la zona económica de Guadalajara; y
 
-XX. Ejercer el comercio sin cumplir con los requisitos que establecen las leyes fiscales, multas de 10 a 100 días de salario mínimo general, vigente en la zona económica de Guadalajara.
+XX. Ejercer el comercio sin cumplir con los requisitos que establecen las leyes fiscales, multas de 10 a 100 días de salario mínimo general, vigente en la zona económica de Guadalajara;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1999)</small>
+
+XXI. Presentar los avisos, declaraciones, contratos, solicitudes, datos e informes, que exijan las leyes fiscales; con datos incompletos o erróneos, multas de 3 a 15 días de salario mínimo general, vigente en la zona económica de Guadalajara.
 
 ###### Artículo 109.
 
@@ -1271,7 +1347,11 @@ X. Faltar a la obligación de guardar secreto respecto de los asuntos que conozc
 
 XI. Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento; cooperar en cualquier forma para evadir el pago de las contribuciones fiscales, multas de 5 a 50 días de salario mínimo general vigente en la zona económica de Guadalajara;
 
-XIII. (sic) Exigir o recibir bajo cualquier título, el pago por cualquier contribución que no esté expresamente prevista en la ley, aún cuando se aplique a la realización de las funciones propias de su cargo, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1999)</small>
+
+XII. Resistirse por cualquier medio a las visitas de inspección o auditorías, o no suministrar los datos, informes que legalmente puedan exigir los inspectores, visitadores o auditores, multa de 10 a 100 días de salario mínimo general vigente en la Zona Metropolitana de Guadalajara;
+
+XIII. Exigir o recibir bajo cualquier título, el pago por cualquier contribución que no esté expresamente prevista en la ley, aún cuando se aplique a la realización de las funciones propias de su cargo, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
 
 XIV. Exigir el pago de las contribuciones fiscales, recaudar, permitir u ordenar que se recaude algún crédito fiscal sin cumplir con las disposiciones aplicables y en perjuicio del control e interés del fisco, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
 
@@ -1712,6 +1792,10 @@ a) Por el requerimiento señalado en el artículo 129 de este Código;
 b) Por la diligencia de embargo a que se refiere el artículo 134 de este Código; y
 
 c) Por la diligencia de remate, enajenación fuera de remate o adjudicación a la Hacienda del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1999)</small>
+
+Cuando en los casos de los incisos anteriores, el 2% del crédito sea inferior a una vez el salario mínimo general diario de la zona económica correspondiente a Guadalajara, se cobrará esta cantidad en lugar del 2% del crédito.
 
 En ningún caso, los gastos de ejecución, por cada una de las diligencias a que se refiere esta fracción, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente al salario mínimo general de la zona económica correspondiente a Guadalajara, elevado al año; y
 
@@ -2220,3 +2304,7 @@ Lic. Raúl Octavio Espinoza Martínez
 P.O. 19 DE FEBRERO DE 1998.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 16 DE DICIEMBRE DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
