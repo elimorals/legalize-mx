@@ -4,7 +4,7 @@ identifier: "FED-codigo-agrario-de-los-estados-unidos-mexicanos-1528"
 country: "mx"
 rank: "codigo"
 publication_date: "1943-04-27"
-last_updated: "1943-07-17"
+last_updated: "1950-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1528&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1942-12-31"
 
 CODIGO AGRARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JULIO DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1950.
 
 Código publicado en el Diario Oficial de la Federación, el martes 27 de abril de 1943.
 
@@ -665,15 +665,23 @@ Los propietarios afectados con resoluciones dotatorias o restitutorias de ejidos
 
 Los afectados con dotación, tendrán solamente derecho de acudir al Gobierno Federal para que les sea pagada la indemnización correspondiente. Este derecho deberán ejercitarlo los interesados dentro del plazo de un año, a contar de la fecha en que se publique la resolución respectiva en el "Diario Oficial" de la Federación. Fenecido este término ninguna reclamación será admitida.
 
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1950)</small>
+
+Los dueños o poseedores de predios agrícolas o ganaderos en explotación, a los que se haya expedido o en lo futuro se expida, certificado de inafectabilidad, podrán promover el juicio de amparo contra la ilegal privación o afectación agraria de sus tierras o aguas. Igualmente podrán los ejidatarios intentar el juicio de amparo contra la privación o afectación ilegal de la parcela que posean, realizadas por cualquier autoridad.
+
 ### CAPITULO CUARTO. Dotaciones de tierras
 
 ###### ARTICULO 76.
 
 Para calcular el monto de la dotación en tierras de cultivo o cultivables, se partirá de la superficie o unidad individual de dotación que será:
 
-I.- De seis hectáreas en terrenos de riego o humedad; y
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 1950)</small>
 
-II.- De doce hectáreas en terrenos de temporal.
+I.- De diez hectáreas en terrenos de riego o humedad; y
+
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 1950)</small>
+
+II.- De veinte hectáreas en terreno temporal.
 
 Se considerarán como tierras de riego aquéllas que en virtud de obras artificiales, dispongan de aguas suficientes para sostener de un modo permanente, los cultivos propios de cada región, con independencia de la precipitación pluvial.
 
@@ -869,7 +877,9 @@ II. Las superficies que no excedan de doscientas hectáreas en terrenos de tempo
 
 III. Hasta ciento cincuenta hectáreas dedicadas al cultivo del algodón, si reciben riego de avenida fluvial o por sistema de bombeo;
 
-IV. Hasta trescientas hectáreas ocupadas con plantaciones de plátano, café, henequén, hule, cocotero, vid, olivo, quina, vainilla, cacao o árboles frutales;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 1950)</small>
+
+IV.- Hasta trescientas hectáreas en explotación cuando se destinen al cultivo de plátano, caña de azúcar, café, henequén, hule, cocotero, vid, olivo, quina, vainilla, cacao ó árboles frutales.
 
 > <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 1943)</small>
 
@@ -927,11 +937,15 @@ Cuando se trate de grandes propiedades que hayan sufrido expropiaciones agrarias
 
 Cuando una propiedad haya quedado reducida a la extensión inafectable, en virtud de una resolución agraria, o a solicitud del propietario se haya declarado como inafectable, no se tomarán en cuenta para los efectos de afectaciones posteriores, los cambios favorables que en la calidad de sus tierras se hayan operado en virtud de obras de irrigación, drenaje o por cualquier otro procedimiento, siempre que se reúnan los requisitos siguientes:
 
-I.- Que a la propiedad este inscrita en el Registro Agrario Nacional;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 1950)</small>
+
+l.- Que a la propiedad se le haya expedido certificado de inafectabilidad, y que éste se inscriba en el Registro Agrario Nacional.
 
 II.- Que el mejoramiento en la calidad de las tierras se deba a la industria del propietario y se haya consumado después de la resolución, localización o declaratoria de inafectabilidad; y
 
-III.- Que se haya dado aviso al mismo Registro de la iniciación y conclusión de las obras, presentando los planos, proyectos o documentos necesarios.
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 1950)</small>
+
+III.- Que se haya dado aviso a la Dirección de Inafectabilidad Agraria y al Registro Agrario Nacional, de la iniciación y conclusión de las obras, presentando los planos, proyectos o documentos necesarios.
 
 El Registro Agrario Nacional anotará la nueva clasificación de las tierras de la propiedad inafectable y expedirá, a solicitud y a costa de los interesados, las constancias correspondientes.
 
@@ -983,9 +997,11 @@ V. Las aguas destinadas al abastecimiento de ferrocarriles y demás sistemas de 
 
 VI. Las aguas destinadas a usos industriales o a generación de fuerza motriz, en el volumen indispensable para la existencia de las industrias que abastezcan, según opinión de la Secretaría de Economía Nacional y de Agricultura y Fomento.
 
-###### ARTICULO 114.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE ENERO DE 1950)</small>
 
-Las tierras destinadas preferentemente a la ganadería, aunque rebasen extensiones inafectables en terrenos de agostadero, de acuerdo con lo dispuesto en el artículo 106, serán inafectables por dotación, ampliación o creación de nuevo centro de población, hasta el límite de la superficie necesaria para mantener hasta doscientas cabezas de ganado mayor o su equivalencia en ganado menor, de acuerdo con la capacidad forrajera de los propios terrenos.
+###### Artículo 114.
+
+Las tierras destinadas preferentemente a la ganadería, aunque rebasen las extensiones inafectables en terrenos de agostadero, de acuerdo con lo dispuesto en el artículo 106, serán inafectables por dotación, ampliación o creación de nuevo centro de población, hasta el límite de la superficie necesaria para mantener hasta quinientas cabezas de ganado mayor, o su equivalente en ganado menor, de acuerdo con la capacidad forrajera de los propios terrenos.
 
 Cuando tierras de esta calidad no estén destinadas a la ganadería, pero su propietario se obligue en el término de un año a cubrirlas con ganado, podrá concedérsele certificado de inafectabilidad provisional por un año, y si cumple oportunamente las obligaciones que por él contraiga, se le otorgará certificado de inafectabilidad permanente. La tramitación, así como la fijación de las obligaciones del propietario y las sanciones, serán análogas a las que rigen las concesiones provisionales de inafectabilidad ganadera, y conforme a esas bases se reglamentarán.
 
@@ -1009,6 +1025,10 @@ No se procederá el otorgamiento de la concesión cuando los terrenos para los c
 
 Podrá otorgarse concesiones provisionales de inafectabilidad ganadera por el término improrrogable de un año, a los propietarios de tierras que deseen establecer una explotación pecuaria, siempre que sus terrenos reúnan la condición prescrita en la fracción IV, o que se excluyan de la afectación mediante permuta, llenando los requisitos establecidos en las fracciones II, III y IV del artículo 116. El cumplimiento oportuno de las obligaciones inherentes a una concesión provisional da derecho a obtener una definitiva por veinticinco años, al término de aquélla.
 
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1950)</small>
+
+Las negociaciones ganaderas amparadas por concesión de inafectabilidad, que comprueben de modo fehaciente, ante el Departamento Agrario, haber dado cumplimiento a las obligaciones contenidas en el artículo 118 y en el propio decreto-concesión, tendrán derecho a su prórroga por un plazo no mayor del concedido anteriormente.
+
 ###### ARTICULO 116.
 
 Cuando existan necesidades agrarias que satisfacer por dotación, ampliación o creación de un nuevo centro de población agrícola, los terrenos de las negociaciones ganaderas, que no queden comprendidos en la disposición del artículo 114 o no estén amparadas por concesión de inafectabilidad, quedarán sujetos a afectación, a menos que, dentro del radio legal, haya otras fincas afectables dedicadas a fines no ganaderos, caso en el cual las dotaciones ejidales se localizarán en las fincas no ganaderas. Si no existen éstas, las tierras ocupadas por ganaderías sólo podrán excluirse de la afectación mediante permuta, siempre que se llenen los requisitos siguientes:
@@ -1027,15 +1047,19 @@ La extensión que ampare la concesión de inafectabilidad para cada negociación
 
 La extensión inafectable no podrá exceder en ningún caso de trescientas hectáreas en las tierras más feraces y de cincuenta mil en las tierras más estériles, conforme a la clasificación que establezca el Reglamento respectivo.
 
-###### ARTICULO 118.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE ENERO DE 1950)</small>
 
-Las personas que obtengan un decreto-concesión de inafectabilidad ganadera, quedarán obligadas:
+###### Artículo 118.
+
+Las personas que obtengan un decreto-concesión de inafectabilidad ganadera quedarán obligados:
 
 I.- A cumplir las disposiciones que la Secretaría de Agricultura y Fomento dicte sobre mejoramiento y experimentación de ganado y forrajes;
 
 II.- A cooperar, en la forma equitativa que dicha Secretaría determine, para adquirir, instalar y mantener las estaciones termo-pluvio-barométricas y de evaporación que el Ejecutivo acuerde, en función de la capacidad económica de explotación;
 
-III.- A suministrar anualmente hasta el dos por ciento de crías de ganado mayor o hasta el cinco por ciento de ganado menor, debiendo ser invariablemente mayores de un año. La autoridad competente distribuirá el ganado que se obtenga por este medio entre los núcleos ejidales. Se exceptuarán de esta disposición las crías de ganado porcino, siempre que su explotación se haga por sistema distinto del pastoreo;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 1950)</small>
+
+III.- A suministrar anualmente hasta el dos por ciento de crías de ganado mayor o hasta el cinco por ciento de ganado menor, debiendo ser invariablemente mayores de un año. En vez de las crías mencionadas, el Departamento Agrario podrá determinar en qué casos debe suministrarse en dinero, el equivalente del valor de las crías, que se destinará a la adquisición de implementos agrícolas o a la realización de obras de mejoramiento económico de los ejidos. Será el propio Departamento Agrario quien distribuya el ganado o haga la aplicación del dinero. Se exceptúan de esta disposición las crías de ganado porcino siempre que su explotación se haga por sistema distinto del pastoreo.
 
 IV.- A incrementar su pie de ganado hasta aprovechar totalmente la producción pastal y forrajera del área declarada inafectable, dentro del plazo que el Ejecutivo Federal le conceda, en el decreto respectivo; y
 
@@ -1047,7 +1071,9 @@ Quienes obtengan un decreto-concesión provisional, deberán ejecutar, dentro de
 
 El Departamento Agrario, oyendo la opinión de la Secretaría de Agricultura y Fomento, podrá aceptar que las negociaciones ganaderas concesionarias, en lugar de las crías a que se refiere la fracción III del artículo anterior, entreguen su equivalente en sementales de otras razas o especies.
 
-###### ARTICULO 120.
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1950)</small>
+
+###### Artículo 120.
 
 Dentro de los terrenos sujetos a un decreto-concesión de inafectabilidad ganadera, podrá hacerse el señalamiento o localización de la pequeña propiedad agrícola o ganadera inafectable.
 
@@ -2732,3 +2758,9 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 D.O.F. 17 DE JULIO DE 1943.
 
 UNICO.- Este decreto entrará en vigor diez días después de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE ENERO DE 1950.
+
+###### ARTICULO UNICO.
+
+Este Decreto surtirá efectos al día siguiente de su publicación en el "Diario Oficial" de la Federación.
