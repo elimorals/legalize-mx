@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-contaduria-mayor-de-hacienda-del-15919"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-05-19"
-last_updated: "2001-02-14"
+last_updated: "2003-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15919&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2001.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AUDITORIA SUPERIOR GUBERNAMENTAL DEL ESTADO DE MORELOS, PUBLICADA EN EL PERIODICO OFICIAL EL 11 DE AGOSTO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley Publicada en el Periódico Oficial del Estado de Morelos, el día 19 de mayo de 1999.
 
@@ -536,3 +538,29 @@ P.O. 14 DE FEBRERO DE 2001.
 PRIMERO.- Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para los efectos señalados en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+P.O. 11 DE AGOSTO DE 2003.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Contaduría Mayor de Hacienda, publicada en el Periódico Oficial del Estado del 19 de mayo de 1999, y se derogarán todas las disposiciones legales, reglamentarias o administrativas que se opongan a la presente Ley.
+
+TERCERO.- La Auditoría Superior Gubernamental iniciará sus funciones a partir del mes de septiembre del año 2003.
+
+CUARTO.- Quien se encuentre fungiendo al frente de la actual Contaduría Mayor de Hacienda del Estado a la entrada en vigor de la presente, será el encargado de ir instrumentando todos los preceptos que marca la presente ley.
+
+QUINTO.- En todas las disposiciones legales o administrativas; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia de la Ley materia del presente Decreto, en que se haga referencia a la Contaduría Mayor de Hacienda, se entrenderán referidos a la Auditoría Superior Gubernamental.
+
+SEXTO.- Todos los bienes, archivos y recursos presupuestales de la Contaduría Mayor de Hacienda, pasarán a ser patrimonio de la Auditoría Superior Gubernamental quedando destinados y afectos a su servicio. La Auditoría Superior Gubernamental igualmente se subroga en todos los derechos y obligaciones de aquélla.
+
+SÉPTIMO.- Los servidores públicos de la Contaduría Mayor de Hacienda pasarán a formar parte de la Auditoría Superior Gubernamental.
+
+OCTAVO.- Los asuntos que se encuentren en trámite o en proceso incluyendo las revisiones a las Cuentas Públicas del año 2002 en la Contaduría Mayor de Hacienda al entrar en vigor la presente Ley, continuarán tramitándose, por la Auditoría Superior Gubernamental del Estado en los términos de la Ley Orgánica de la Contaduría Mayor de Hacienda que se abroga, hasta su conclusión.
+
+NOVENO.- Las auditorías a las Cuentas Públicas, conforme a las disposicines de esta ley, se efectuará (sic) a partir de las Cuentas Públicas del año 2003.
+
+DÉCIMO.- La Comisión emitirá la convocatoria para elegir a los integrantes del Consejo Ciudadano Consultivo previsto en la presente ley.
+
+DÉCIMO PRIMERO.- El actual Contador Mayor de Hacienda elaborará el Reglamento Interno de la Auditoría Superior Gubernamental dentro de los sesenta días siguientes a la entrada en vigor de la presente Ley.
+
+DÉCIMO SEGUNDO.- Remítase la presente Ley al Gobernador Constitucional del Estado, para los efectos previstos por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
