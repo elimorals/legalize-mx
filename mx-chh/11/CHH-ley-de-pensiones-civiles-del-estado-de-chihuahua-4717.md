@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-pensiones-civiles-del-estado-de-chihuahua-4717"
 country: "mx"
 rank: "ley"
 publication_date: "1981-12-19"
-last_updated: "1988-01-06"
+last_updated: "1989-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 1989.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de diciembre de 1981.
 
@@ -85,19 +85,29 @@ c).- Director.
 
 La Junta Directiva es el órgano máximo de la Institución y estará integrada por:
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 1988)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 1989)</small>
 
-I.- El Director General de Finanzas, quien fungirá como Presidente;
+I.- El Director General de Desarrollo Social, quien fungirá como Presidente;
 
 II.- El Director de Pensiones Civiles del Estado, que será designado por el Gobernador;
 
-III.- Un representante del Sindicato Nacional de los Trabajadores de la Educación, Sección XLII;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 1989)</small>
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 1988)</small>
+III.- El Director General de Finanzas;
 
-IV.- Un representante del Sindicato de Trabajadores al Servicio del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 1989)</small>
 
-V.- Un representante de la Universidad Autónoma de Chihuahua.
+IV. El Director General del Instituto Chihuahuense de Salud;
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 1989)</small>
+
+V.- Un representante del Sindicato Nacional de los Trabajadores de la Educación, Sección XLII;
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 1989)</small>
+
+VI.- Un representante del Sindicato de Trabajadores al Servicio del Gobierno del Estado; y
+
+VII.- Un representante de la Universidad Autónoma de Chihuahua.
 
 ###### ARTICULO 6.
 
@@ -129,7 +139,9 @@ VII.- Aprobar los presupuestos de Ingresos y Egresos de la Institución;
 
 VIII.- Proponer al Gobernador del Estado la presentación de iniciativas para reformar la ley;
 
-IX.- Solicitar a la Tesorería General del Estado la orden de auditoría a las Instituciones afiliadas, exclusivamente para verificar el cumplimiento de las aportaciones que corresponden a las mismas y a sus trabajadores en los términos de esta ley;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 1989)</small>
+
+IX.- Solicitar a la Dirección General de Finanzas la orden de auditoría a las instituciones afiliadas, exclusivamente para verificar el cumplimiento de las aportaciones que corresponden a las mismas y a sus trabajadores en los términos de esta Ley;
 
 X.- Convenir con las Instituciones afiliadas, organismos descentralizados o sindicatos, la incorporación o desincorporación de sus trabajadores al régimen de seguridad social que regula esta ley;
 
@@ -154,6 +166,10 @@ V.- Ser citados a las sesiones de la Junta Directiva, a las que podrán concurri
 ###### ARTICULO 9.
 
 Los acuerdos de la Junta Directiva se tomarán por mayoría de votos de los miembros presentes. Para su validez se requiere la asistencia de cuando menos tres de ellos. En caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 1989)</small>
+
+Para su validez, se requiere la asistencia de cuando menos tres de ellos. En caso de empate, el Presidente tendrá voto de calidad, el Director General del Instituto Chihuahuense de la Salud tendrá voz, pero no voto.
 
 ###### ARTICULO 10.
 
@@ -275,7 +291,9 @@ III.- Comunicar a Pensiones Civiles del Estado los movimientos de alta y baja de
 
 IV.- Expedir certificaciones y proporcionar los informes necesarios que sean solicitados por la Institución.
 
-El incumplimiento de las obligaciones contenidas en este precepto dará lugar, tratándose del Gobierno del Estado, a que se formule requerimiento a la Tesorería General para su corrección y a las instituciones afiliadas se les apercibirá que de no cumplir en el lapso que se fije para tal efecto, se someterá el hecho al conocimiento de la Junta Directiva, la cual podrá acordar su desincorporación al régimen establecido en esta ley, sin perjuicio de exigir en la vía que corresponda el cumplimiento de las prestaciones omitidas.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1989)</small>
+
+El incumplimiento de las obligaciones contenidas en este precepto dará lugar, tratándose del Gobierno del Estado, a que se formule requerimiento a la Dirección General de Finanzas para su corrección, y a las instituciones afiliadas se les apercibirá que, de no cumplir con el lapso que se fije para tal efecto, se someterá el hecho al conocimiento de la Junta Directiva, la cual podrá acordar su desincorporación al régimen establecido en esta Ley, sin perjuicio de exigir en la vía que corresponda el cumplimiento de las prestaciones omitidas.
 
 ### CAPITULO QUINTO. APLICACION DEL FONDO DE LA INSTITUCION
 
@@ -513,9 +531,9 @@ a).- Cuando al trabajador le haya sido aumentado su sueldo durante los últimos 
 
 b).- Cuando el trabajador ocupara varias plazas en el Estado o Instituciones afiliadas, se sumarán todas sus percepciones, salvo que durante los últimos cuatro años de servicio le haya sido asignada nueva plaza no escalafonaria, caso en el cuál se promediarán los sueldos obtenidos en ese lapso;
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 1986)</small>
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1989)</small>
 
-c).- Al trabajador que durante los últimos cuatro años anteriores a su retiro haya fungido y percibido sueldo como Titular de alguna de las dependencias a que se refiere el Artículo 20 del Código Administrativo del Estado; Magistrado del Supremo Tribunal de Justicia; Rector o Director de Escuela o Facultad de la Universidad Autónoma de Chihuahua, Director General o su equivalente en Instituciones afiliadas, se le promediarán las percepciones de los últimos cuatro años.
+c).- Al trabajador que durante los últimos cuatro años anteriores a su retiro haya fungido y percibido sueldo como titular de algunas de las dependencias a que se refieren los artículos de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, o su correlativo en otras administraciones; Magistrado del Supremo Tribunal de Justicia; Rector o Director de Escuela o Facultad de la Universidad Autónoma de Chihuahua; Director General o su equivalente en instituciones afiliadas, se le promediarán las percepciones de los últimos cuatro años.
 
 ###### ARTICULO 53.
 
@@ -688,3 +706,7 @@ P.O. 6 DE ENERO DE 1988.
 ###### ARTÍCULO SEGUNDO
 
 - Los préstamos hipotecarios y para la adquisición de bienes de consumo duradero otorgados antes de la vigencia de este Decreto, se regirán conforme a lo convenido con los interesados, por las tasas de interés establecidas por el mismo; tomando para ello como base el saldo insoluto del crédito calculado a la fecha de iniciación de vigencia.
+
+P.O. 17 DE MAYO DE 1989.
+
+UNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
