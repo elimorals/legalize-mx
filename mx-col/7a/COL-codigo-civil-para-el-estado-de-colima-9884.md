@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2000-03-25"
+last_updated: "2000-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2000.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de Septiembre de 1954.
 
@@ -3249,11 +3249,15 @@ ART. 722.- El Ministerio Público velará por los intereses del ausente, será o
 
 ### CAPITULO UNICO
 
-ART. 723.- Son objeto de patrimonio de la familia:
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2000)</small>
 
-I.- La casa habitación de la familia;
+ART. 723.- Son objeto del patrimonio de la familia:
 
-II.- En algunos casos, una parcela cultivable.
+I.- La casa que el jefe de la familia destine para la habitación de ésta;
+
+II.- En su caso, la parcela que el jefe de la familia destine para huerto familiar; y
+
+III.- En su caso, el vehículo que el jefe de la familia destine para uso y beneficio de ésta.
 
 ART. 724.- La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente.
 
@@ -10156,3 +10160,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los juicios que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de este Decreto, se seguirán substanciando y se resolverán conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 22 DE ABRIL DE 2000.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
