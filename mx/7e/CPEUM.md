@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1940-12-14"
+last_updated: "1942-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE DICIEMBRE DE 1940.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE OCTUBRE DE 1942.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -764,9 +764,11 @@ Tampoco podrá hacerlas al Decreto de convocatoria a sesiones extraordinarias qu
 
 DE LAS FACULTADES DEL CONGRESO.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE OCTUBRE DE 1942)</small>
+
 ###### Art. 73.
 
-El Congreso tiene facultad:
+El Congreso tiene facultades:
 
 I.- Para admitir nuevos Estados o Territorios a la Unión Federal.
 
@@ -840,13 +842,13 @@ VII.- Para imponer las contribuciones necesarias a cubrir el Presupuesto.
 
 VIII.- Para dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos sobre el crédito de la Nación; para aprobar esos mismos empréstitos y para reconocer y mandar pagar la deuda nacional.
 
-IX.- Para expedir aranceles sobre el comercio extranjero y para impedir que en el comercio de Estado a Estado se establezcan restricciones.
+> <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
-> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 1940)</small>
+IX.- Para impedir que en el comercio de Estado a Estado se establezcan restricciones.
 
-X.- Para legislar en toda la República sobre Minería, Industria Cinematografica, Comercio, Instituciones de Crédito y Energía Eléctrica, para establecer el Banco de Emisión Unico, en los términos del artículo 28 de esta Constitución, y para expedir las leyes del trabajo reglamentarias del artículo 123 de la propia Constitución.
+> <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
-La aplicación de las leyes del trabajo corresponde a las autoridades de los Estados en sus respectivas jurisdicciones, excepto cuando se trate de asuntos relativos a las industrias textil y electrica, ferrocarriles y demás empresas de transporte amparadas por concesión federal, minería e hidrocarburos, los trabajos ejecutados en el mar y en las zonas marítimas y, por último, las obligaciones que en materia educativa corresponden a los patrones, en la forma y términos que fijen las disposiciones reglamentarias.
+X.- Para legislar en toda la República sobre minería, industria cinematográfica, comercio, instituciones de crédito y energía eléctrica; para establecer el Banco de Emisión Unico, en los términos del artículo 28 de esta Constitución, y para expedir las leyes del trabajo, reglamentarias del artículo 123 de la propia Constitución. La aplicación de las leyes del trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, excepto cuando se trate de asuntos relativos a la industria textil, eléctrica, ferrocarriles y demás empresas de transporte amparadas por concesión federal, minería e hidrocarburos, los trabajos ejecutados en el mar y en las zonas marítimas, y, por último, las obligaciones que en materia educativa corresponden a los patrones, en la forma y términos que fijen las disposiciones reglamentarias.
 
 XI.- Para crear y suprimir empleos públicos de la Federación y señalar, aumentar o disminuir sus dotaciones.
 
@@ -902,9 +904,37 @@ XXVII.- Para aceptar la renuncia del cargo de Presidente de la República.
 
 XXVIII.- Para examinar la cuenta que anualmente debe presentarle el Poder Ejecutivo, debiendo comprender dicho examen, no solo la conformidad de las partidas gastadas por el Presupuesto de Egresos, sino también la exactitud y justificación de tales partidas.
 
-(REUBICADA [N. DE E. ANTES FRACCION XXXI], D.O.F. 20 DE AGOSTO DE 1928)
+> <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
-XXIX.- Para expedir todas las leyes que sean necesarias a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
+XXIX.- Para establecer contribuciones:
+
+1º.- Sobre el comercio exterior;
+
+2º.- Sobre el aprovechamiento y explotación de los recursos naturales comprendidos en los párrafos 4º y 5º del artículo 27;
+
+3º.- Sobre instituciones de crédito y sociedades de seguros;
+
+4º.- Sobre servicios públicos concesionados o explotados directamente por la Federación; y
+
+5º.- Especiales sobre:
+
+a).- Energía eléctrica;
+
+b).- Producción y consumo de tabacos labrados;
+
+c).- Gasolina y otros productos derivados del petróleo;
+
+d).- Cerillos y fósforos;
+
+e).- Aguamiel y productos de su fermentación; y
+
+f).- Explotación forestal.
+
+Las entidades federativas participarán en el rendimiento de estas contribuciones especiales, en la proporción que la ley secundaria federal determine. Las legislaturas locales fijarán el porcentaje correspondiente a los Municipios, en sus ingresos por concepto del impuesto sobre energía eléctrica.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
+
+XXX.- Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
 
 ###### Art. 74.
 
@@ -1436,7 +1466,13 @@ VI.- Gravar la circulación ni el consumo de efectos nacionales o extranjeros, c
 
 VII.- Expedir ni mantener en vigor leyes o disposiciones fiscales que importen diferencias de impues (sic) o requisitos por razón de la procedencia de mercancías nacionales o extranjeras, ya sea que esta diferencia se establezca respecto de la producción similar de la localidad, o ya entre producciones semejantes de distinta procedencia.
 
-VIII.- Emitir títulos de deuda pública, pagaderos en moneda extranjera o fuera del territorio nacional; contratar directa o indirectamente préstamos con gobiernos de otras naciones, o contraer obligaciones en favor de sociedades o particulares extranjeros, cuando hayan de expedirse títulos o bonos al portador o transmisibles por endoso.
+> <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 1942)</small>
+
+VIII.- Emitir títulos de deuda pública, pagaderos en moneda extranjera o fuera del territorio nacional; contratar directa o indirectamente préstamos con Gobiernos de otras naciones, o contraer obligaciones en favor de sociedades o particulares extranjeros, cuando haya de expedirse títulos o bonos al portador o transmisibles por endoso.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
+
+IX.- Gravar la producción, el acopio o la venta del tabaco en rama, en forma distinta o con cuotas mayores de las que el Congreso de la Unión autorice.
 
 El Congreso de la Unión y las Legislaturas de los Estados dictarán, desde luego, leyes encaminadas a combatir el alcoholismo.
 
@@ -1971,3 +2007,7 @@ D.O.F. 14 DE DICIEMBRE DE 1940.
 DECRETO QUE ADICIONA LA BASE SEGUNDA DE LA FRACCION VI DEL ARTICULO 73.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 24 DE OCTUBRE DE 1942.
+
+UNICO.- La presente Ley entrará en vigor el día 1º del mes siguiente al en que sea publicada en el "Diario Oficial" de la Federación.
