@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "1997-02-19"
+last_updated: "1997-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 1997.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -1999,7 +1999,9 @@ En lo no previsto, se aplicarán las normas del juicio ordinario en lo conducent
 
 Se tramitará en la vía especial todo juicio que tenga por objeto la constitución, ampliación, división, registro y extinción de una hipoteca, así como su nulidad, cancelación, o bien, el pago o prelación del crédito que la hipoteca garantice.
 
-Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas del presente capítulo, es requisito indispensable que el crédito conste en escritura debidamente registrada y que sea de plazo cumplido, o que deba anticiparse conforme a lo previsto en los artículos 1332 y 2278 del Código Civil.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1997)</small>
+
+Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas del presente capítulo, es requisito indispensable que el crédito conste en escritura pública o escrito privado; según corresponda en los términos de la legislación común y registrada en el Registro Público de la Propiedad y que sea de plazo cumplido, que éste sea exigible en los términos pactados o deba anticiparse conforme a lo previsto en los artículos 1332 y 2278 del Código Civil.
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
@@ -4510,3 +4512,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que contraríen la observancia de las presentes reformas y adiciones.
+
+P.O. 5 DE ABRIL DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los asuntos tramitados con la normatividad anterior, continuarán en su trámite con las nuevas disposiciones, en cuanto no afecten los intereses de las partes y el interés público.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que contraríen la observancia de las presentes reformas.
