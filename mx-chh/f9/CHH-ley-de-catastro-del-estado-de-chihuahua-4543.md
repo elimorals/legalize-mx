@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-catastro-del-estado-de-chihuahua-4543"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-18"
-last_updated: "2003-10-22"
+last_updated: "2004-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CATASTRO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -305,9 +305,11 @@ Para la definición de las áreas homogéneas se tomará en consideración lo di
 
 Las bases generales y sistemas para la clasificación y valuación de las zonas, predios, construcciones, así como la aplicación de factores de incremento y demérito para la determinación de valores catastrales, se establecerán en el Reglamento respectivo, que hará la distinción de acuerdo al Municipio de que se trate.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 22.
 
-De conformidad con la presente ley y las normas técnicas aplicables, los Ayuntamientos en el ámbito de su competencia, mandarán publicar en el Periódico Oficial del Estado, las tablas de valores unitarios para suelo y construcción aprobados.
+De conformidad con la presente ley y las normas técnicas aplicables, los Ayuntamientos en el ámbito de su competencia, enviarán anualmente, antes del treinta y uno de octubre del año anterior al ejercicio, al Congreso del Estado, para su aprobación y posterior publicación en el Periódico Oficial del Estado, las tablas de valores unitarios para suelo y construcción, que servirán de base para el cálculo de los impuestos que graven la propiedad inmobiliaria.
 
 ###### Artículo 23.
 
@@ -317,7 +319,9 @@ Para determinar el valor catastral de los predios, se aplicarán los valores uni
 
 El valor catastral será el que resulte de sumar el valor del terreno y el de la construcción, obtenidos conforme lo señala el artículo anterior.
 
-El valor catastral deberá reflejar el valor real del inmueble.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+El valor catastral deberá reflejar el valor de mercado del inmueble.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2003)</small>
 
@@ -347,23 +351,33 @@ Los valuadores deberán presentarse en horas y días hábiles en el predio objet
 
 La asignación, modificación y actualización de los valores catastrales por parte de la autoridad municipal, deberá notificarse a los propietarios o poseedores de los predios.
 
-En caso de que dentro del territorio del Municipio existan zonas en que no se hayan asignado valores unitarios o en las que habiéndoseles asignado, cambien de características esenciales en el período de vigencia, las autoridades catastrales, podrán determinar provisionalmente valores unitarios con base en los asignados para zonas similares.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+No será necesario hacer la notificación anterior respecto de las revaluaciones que con el carácter de general se hagan a todos los predios en aplicación de las tablas de valores unitarios de suelo y construcciones, que anualmente apruebe el Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+En caso de que dentro del territorio del Municipio existan zonas en que no se hayan asignado valores unitarios o en las que habiéndoseles asignado, cambien de características esenciales en el período de vigencia, las autoridades catastrales podrán determinar provisionalmente valores unitarios con base en los asignados para zonas similares.
 
 Los valores catastrales provisionales que se determinen para los predios con base en dichos valores unitarios, estarán vigentes por el año calendario correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+En todo caso, el propietario o poseedor inconforme con la modificación, actualización o asignación de valores realizada por la autoridad catastral, podrá ejercitar el medio de defensa previsto por el artículo 32 de esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 28.
 
 Los predios a los cuales ya se hubiese fijado un valor catastral, serán revaluados en los siguientes casos:
 
-I. Cuando se modifique el salario mínimo general de la zona económica donde se ubique el predio;
+I. De manera general y anualmente al inicio del ejercicio, adecuándolos a las tablas de valores unitarios de suelo y construcción, que apruebe el Congreso del Estado, para el ejercicio de que se trate;
 
-II. Cuando el valor catastral tenga una antigüedad mayor de un año;
+II. Cuando el predio sufra un cambio físico o de urbanización que afecte su valor;
 
-III. Cuando el predio sufra un cambio físico o de urbanización que afecte su valor;
+III. Cuando el avalúo existente haya sido dado con carácter provisional; y
 
-IV. Cuando el avalúo existente haya sido dado con carácter provisional; y
-
-V. Cuando en las fincas urbanas en construcción o reedificación, hayan transcurrido dos años desde su inicio sin haberse terminado.
+IV. Cuando en las fincas urbanas en construcción o reedificación, hayan transcurrido dos años desde su inicio sin haberse terminado.
 
 ### CAPITULO SEPTIMO. DE LAS INFRACCIONES, SANCIONES Y MEDIOS DE IMPUGNACION DE LOS ACTOS ADMINISTRATIVOS
 
@@ -395,9 +409,27 @@ Para efectos de la aplicación de las sanciones, se considerarán las caracterí
 
 Las infracciones determinadas por esta ley serán sancionadas por la autoridad municipal y se clasificarán independientes de los créditos fiscales y los accesorios, que se determinen con motivo de las omisiones o declaraciones inexactas en que incurrió el propietario o poseedor del predio.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 32.
 
-Los actos y resoluciones emitidas por las autoridades catastrales, con base en las disposiciones de esta Ley y que afecten a los contribuyentes, serán recurribles mediante los medios de impugnación que contempla el Código Municipal para el Estado de Chihuahua.
+La revaluación, actualización, modificación o asignación de valores catastrales, que resulte de la aplicación general de las tablas de valores unitarios de suelo y construcciones aprobadas por el Congreso del Estado o la que realice por cualquier otra causa la autoridad catastral, serán impugnables por el propietario o poseedor mediante el recurso de inconformidad, en los siguientes términos:
+
+I.- Se substanciará mediante un escrito dirigido a la autoridad catastral, acompañado de un avalúo practicado por un perito valuador autorizado, pidiendo la modificación del valor catastral.
+
+II.- Puede ser presentado en cualquier tiempo.
+
+El pago que haga el poseedor o propietario de cualquier tributo, calculado con base en el valor impugnado, será presunción de la conformidad y precluirá su derecho a inconformarse.
+
+III. La autoridad catastral deberá resolver en un plazo de diez días hábiles el recurso, debiendo el recurrente acudir en ese término a la Tesorería Municipal a notificarse de la resolución.
+
+IV.- La publicación de la resolución recaída al recurso en un lugar visible de la Tesorería, al décimo día hábil después de presentado el recurso, sufrirá los efectos de notificación al recurrente, para el caso de que no acuda a notificarse.
+
+V.- En caso de resultar procedente el recurso, la autoridad catastral aplicará al padrón catastral el valor determinado en la resolución, en un plazo no mayor a diez días hábiles.
+
+VI.- Contra la resolución dictada por la autoridad catastral, procede el recurso de revisión previsto en el Código Municipal para el Estado de Chihuahua.
+
+Los demás actos y resoluciones emitidas por las autoridades catastrales, con base en las disposiciones de esta Ley y que afecten a los contribuyentes, serán recurribles mediante los medios de impugnación que contempla el Código Municipal para el Estado de Chihuahua.
 
 ARTICULOS TRANSITORIOS:
 
@@ -558,3 +590,87 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 A partir de la entrada en vigor del presente Decreto y hasta antes del inicio del ejercicio fiscal de 2005, se efectuarán reuniones bimensuales de la Comisión de Programación, Presupuesto y Hacienda Pública con el Secretario de Desarrollo Municipal, para conocer y evaluar el grado de avance, de las administraciones municipales, en la revalorización catastral.
+
+P.O. 29 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO
+
+Este decreto entrará en vigor el primero de enero del año dos mil cinco.
+
+###### ARTÍCULO SEGUNDO
+
+Únicamente para el ejercicio fiscal 2005, a partir del primero de enero, el valor catastral de los predios será actualizado por la autoridad catastral municipal, de manera general, estableciéndose como nuevo valor de cada cuenta, el equivalente a la cantidad que produzca el mismo Impuesto Predial directo anual causado en el 2004, tomando como factores las tasas y tarifas previstas en el artículo 149 del Código Municipal para el Estado de Chihuahua, que entrarán en vigor el primero de enero de 2005.
+
+La actualización de cada cuenta de los predios urbanos será la que resulte de aplicar la siguiente fórmula:
+
+IMPUESTO CUOTA
+
+CAUSADO - FIJA
+
+2004 LÍMITE
+
+-------------------------------------- + INFERIOR =
+
+NUEVO VALOR CATASTRAL DEL RANGO
+
+TASA APLICABLE
+
+Para determinar las variables de la fórmula, se utilizará la siguiente matriz:
+
+VARIABLE POR CONSTANTES POR CADA RANGO
+
+CADA CUENTA
+
+IMPUESTO CAUSADO CUOTA LÍMITE TASA
+
+2004 FIJA INTERIOR APLICABLE
+
+DEL
+
+RANGO
+
+De 0.01 hasta 336.88 0 0 .002
+
+De 336842.20.89 hasta 842.20 336.88 168,440 .003
+
+De 842.21 hasta 1,852.84 842.20 336,880 .004
+
+De 1,852.85 hasta 4,800.54 1,852.84 589,540 .005
+
+De 4,800.55 en adelante 4,800.54 1,179,080 .006
+
+Las variables de la fórmula se definen de la siguiente manera:
+
+IMPUESTO CAUSADO 2004: Es el Impuesto Predial directo anual que causa, sin descuentos, ni recargos o sanciones, cada cuenta del padrón al 31 de diciembre de 2004, aplicando las tasas correspondientes a ese ejercicio.
+
+CUOTA FIJA: Es el pago fijo expresado en moneda nacional de cada límite de rango en la tarifa para el pago del Impuesto Predial urbano, previsto en el artículo 149 del Código Municipal, que entrará en vigor en el ejercicio 2005.
+
+LÍMITE INFERIOR DEL RANGO: Son límites de rango expresados en pesos de la tarifa para el cálculo del Impuesto Predial, prevista por el artículo 149 del Código Municipal, para el ejercicio 2005.
+
+TASA APLICABLE: Son las tasas progresivas por grados, que se aplicarán para el cálculo del Impuesto Predial a partir del año 2005.
+
+Para los predios rústicos:
+
+IMPUESTO CAUSADO 2004
+
+--------------------------------------- = NUEVO VALOR CATASTRAL
+
+.002
+
+Para los fundos mineros:
+
+IMPUESTO CAUSADO 2004
+
+--------------------------------------- = NUEVO VALOR CATASTRAL
+
+.0025
+
+###### ARTÍCULO TERCERO
+
+Las actualizaciones que resulten de la aplicación del artículo transitorio anterior, serán impugnables en los términos del artículo 32 de la Ley de Catastro del Estado de Chihuahua.
+
+###### ARTÍCULO CUARTO
+
+Todos los municipios deberán realizar una investigación con la participación de peritos valuadores autorizados, a fin de obtener el Estudio Integral de Valores de Mercado y con base en ello elaborar las tablas de valores, que someterán a la consideración del Congreso del Estado, en los términos de este decreto, para entrar en vigor en el año 2006. Así mismos, realizarán un programa intensivo de actualización catastral para captar predios omisos y nuevas construcciones.
+
+La inobservancia de lo anterior será sancionado en los términos del artículo 23, fracciones XVII y XVIII de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
