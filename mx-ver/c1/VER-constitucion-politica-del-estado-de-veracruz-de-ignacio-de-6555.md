@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1978-10-10"
+last_updated: "1979-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE OCTUBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE ENERO DE 1979.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -1407,9 +1407,13 @@ XXVI. Tomar en caso de invasión exterior o conmoción interior armada, las medi
 
 XXVII. Tener bajo su inmediata dependencia la policía, donde residan los Poderes del Estado;
 
-XXVIII. Nombrar inspectores que cuiden del cumplimiento de la Ley del Trabajo; y
+> <small>(REFORMADA, G.O. 18 DE ENERO DE 1979)</small>
 
-XXIX. Las demás que le concede expresamente esta Constitución.
+XXVIII. Fomentar, que los recursos naturales sean utilizados en forma racional, estableciendo políticas adecuadas y las normas tendientes a su cuidado, conservación y óptimo aprovechamiento;
+
+> <small>(REFORMADA, G.O. 18 DE ENERO DE 1979)</small>
+
+XXIX. Las demás que le conceda expresamente esta Constitución.
 
 ###### Artículo 88.
 
@@ -1560,3 +1564,9 @@ G.O. 10 DE OCTUBRE DE 1978.
 LEY No. 326.
 
 UNICO.- Esta Ley entrará en vigor al día siguiente al de su publicación en la 'Gaceta Oficial' del Estado.
+
+G.O. 18 DE ENERO DE 1979.
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
