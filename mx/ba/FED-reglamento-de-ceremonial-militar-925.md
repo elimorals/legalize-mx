@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-ceremonial-militar-925"
 country: "mx"
 rank: "reglamento"
 publication_date: "1938-11-10"
-last_updated: "1949-12-19"
+last_updated: "1995-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=925&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1938-09-12"
 
 REGLAMENTO DE CEREMONIAL MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE DICIEMBRE DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE SEPTIEMBRE DE 1995.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 10 de noviembre de 1938.
 
@@ -201,7 +201,9 @@ El cuerpo formará armado. En línea de tres filas en orden de revista en el lug
 
 En esta situación, el Comandante del Cuerpo mandará tocar "¡Atención!" y "Bandera", a cuyo toque, el ayudante conducirá directamente al abanderado, que irá en medio de la escolta de bandera, hasta colocarlo a la izquierda del Comandante; el ayudante se colocará a la izquierda de la escolta. Verificando esto, el Comandante del Cuerpo mandará presentar las armas. El Primer Magistrado o quien lo represente, tomará y desplegará la bandera que habrá conducido hasta ese lugar uno de sus ayudantes y se dirigirá al Cuerpo en estos términos:
 
-"CC. Jefes, Oficiales y Tropa del batallón (regimiento, etc.) número.... vengo en nombre de la Patria a encomendar a vuestro valor, patriotismo y estricta disciplina, esta bandera, que simboliza su independencia, sus instituciones, la integridad de su territorio y su honor militar. ¿Protestáis seguirla con fidelidad y constancia, y defenderla en los combates hasta alcanzar la victoria o perder la vida?”.
+> <small>(REFORMADO, D.O.F. 14 DE SEPTIEMBRE DE 1995)</small>
+
+"CC. Jefes, Oficiales y Tropa del batallón (regimiento, etc.) número... vengo en nombre de la Patria a encomendar a su valor, patriotismo y estricta disciplina esta bandera, que simboliza su independencia, sus instituciones, la integridad de su territorio y su honor militar. ¿Protestan honrarla y defenderla con lealtad y constancia?”.
 
 Los Jefes, Oficiales y Tropa contestarán:
 
@@ -209,7 +211,9 @@ Los Jefes, Oficiales y Tropa contestarán:
 
 El C. Presidente o su representante proseguirá:
 
-"Al concederes (sic) el amparo de su sombra y el honor de ponerla en vuestras manos, garantizo a la Patria, con fundamento en las virtudes que os reconozco, que como buenos y leales soldados sabréis cumplir vuestra protesta".
+> <small>(REFORMADO, D.O.F. 14 DE SEPTIEMBRE DE 1995)</small>
+
+"Al concederles el amparo de su sombra y el honor de ponerla en sus manos, garantizo a la Patria, con fundamento en las virtudes que les reconozco, que como buenos y leales soldados sabrán cumplir su protesta".
 
 Enseguida, entregará la bandera al Comandante del Cuerpo, quien después de pasarla al abanderado, que previamente habrá envainado su espada, mandará tocar "Bandera". El ayudante conducirá al abanderado con la escolta a su colocación, marchando por todo el frente del Cuerpo y a seis pasos de él; verificado esto, el mismo Comandante del Cuerpo mandará suspender el toque y la tropa, apuntando hacia arriba, hará una salva.
 
@@ -401,7 +405,9 @@ Cada vez que un General, Jefe u Oficial o individuo de tropa, cause alta en un C
 
 Para tomar la protesta a los Oficiales y tropa, se formará todo el Cuerpo armado y con bandera; la autoridad encargada de tomar aquélla, mandará presentar las armas y que el ayudante conduzca al abanderado con la escolta hasta situarlo diez pasos al frente y centro del Cuerpo; a continuación, ordenará que los oficiales y tropa que vayan a protestar se reúnan al frente y a cuatro pasos de la bandera, en una fila, debiendo quedar los oficiales a la derecha. El Comandante del Cuerpo y el ayudante se colocarán a la derecha de la escolta y el Segundo Comandante con el Jefe de Instrucción, a la izquierda; en seguida el citado segundo Comandante tomará la protesta, empleando la siguiente fórmula:
 
-"¿Protestáis seguir con fidelidad esta Bandera, emblema de nuestra Patria, y defenderla hasta perder la vida?"
+> <small>(REFORMADO, D.O.F. 14 DE SEPTIEMBRE DE 1995)</small>
+
+"¿Protesta (n) honrar y defender con lealtad y constancia esta bandera, que simboliza la independencia, el honor, las instituciones y la integridad del territorio nacional?"
 
 Los interrogados contestarán:
 
@@ -409,7 +415,9 @@ Los interrogados contestarán:
 
 A lo que el Comandante responderá:
 
-"Si no lo hiciéreis así, la Nación os lo demande".
+> <small>(REFORMADO, D.O.F. 14 DE SEPTIEMBRE DE 1995)</small>
+
+"Si no lo hiciera (n) así, la Nación se lo (s) demande".
 
 En seguida hará el ayudante que los que protestaron desfilen bajo la bandera, que el abanderado inclinará ligeramente hacia delante; unos y otros la saludarán como está prevenido y volverán a sus puestos. Terminado el acto, el ayudante conducirá la bandera a su colocación y cuando lo haya verificado, el Comandante mandará descansar las armas.
 
@@ -1320,3 +1328,9 @@ D.O. 19 DE DICIEMBRE DE 1949.
 ###### ARTICULO UNICO.
 
 El presente Ordenamiento comenzará a surtir sus efectos tres días después de su publicación en el "Diario Oficial" de la Federación, derogando todas las disposiciones que con él se opongan.
+
+D.O.F. 14 DE SEPTIEMBRE DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
