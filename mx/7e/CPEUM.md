@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1944-02-10"
+last_updated: "1944-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE FEBRERO DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE SEPTIEMBRE DE 1944.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -800,9 +800,9 @@ IV.- Para arreglar definitivamente los límites de los Estados, terminando las d
 
 V.- Para cambiar la residencia de los Supremos Poderes de la Federación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE SEPTIEMBRE DE 1944)</small>
 
-VI.- Para legislar en todo lo relativo al Distrito y Territorios Federales, sometiéndose a las bases siguientes:
+VI.- Para legislar en todo lo relativo al Distrito y Territorios Federales, sometiéndose a las bases siguientes.
 
 > <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1928)</small>
 
@@ -824,21 +824,19 @@ Cada Municipalidad de los Territorios estará a cargo de un Ayuntamiento de elec
 
 3a.- Los Gobernadores de los Territorios acordarán con el Presidente de la República, por el conducto que determine la ley.
 
-> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 1944)</small>
 
-4a.- Los nombramientos de los Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios serán hechos por el Presidente de la República y sometidos a la aprobación de la Cámara de Diputados, la que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si la Cámara no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación de la Cámara, no podrán tomar posesión los Magistrados nombrados por el Presidente de la República. En el caso de que la Cámara de Diputados no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Presidente de la República hará un tercer nombramiento, que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de la Cámara en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones, con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego en sus funciones el Magistrado provisional, y el Presidente de la República, someterá nuevo nombramiento a la aprobación de la Cámara, en los términos señalados.
+4ª.- Los nombramientos de los Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios, serán hechos por el Presidente de la República, y sometidos a la aprobación de la Cámara de Diputados, la que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si la Cámara no resolviera dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados nombrados por el Presidente de la República. En el caso de que la Cámara de Diputados no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Presidente de la República hará un tercer nombramiento, que surtirá sus efectos desde luego, como provisional y que será sometido a la aprobación de la Cámara en el siguiente período ordinario de sesiones. En este periodo de sesiones, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones, con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego en sus funciones el Magistrado provisional y el Presidente de la República someterá nuevo nombramiento a la aprobación de la Cámara, en los términos señalados.
 
-En los casos de faltas temporales por más de tres meses, de los Magistrados, serán estos substituídos mediante nombramientos que el Presidente de la República someterá a la aprobación de la Cámara de Diputados, y en sus recesos, a la de la Comisión Permanente observándose en su caso, lo dispuesto en las cláusulas anteriores.
+En los casos de faltas temporales por más de tres meses, de los Magistrados, serán éstos substituídos mediante nombramiento que el Presidente de la República someterá a la aprobación de la Cámara de Diputados, y en sus recesos, a la de la Comisión Permanente, observándose, en su caso, lo dispuesto en las cláusulas anteriores.
 
-En los casos de faltas temporales que no excedan de tres meses, la Ley Orgánica determinará la manera de hacer la substitución. Si faltare un Magistrado por defunción, renuncia o incapacidad, el Presidente de la República someterá un nuevo nombramiento a la aprobación de la Cámara de Diputados. Si la Cámara no estuviere en sesiones, la Comisión Permanente dará su aprobación provisional, mientras se reúne aquella y da la aprobación definitiva.
+En los casos de faltas temporales que no excedan de tres meses la Ley Orgánica determinará la manera de hacer la substitución. Si faltare un Magistrado por defunción, renuncia o incapacidad, el Presidente de la República someterá un nuevo nombramiento a la aprobación de la Cámara de Diputados. Si la Cámara no estuviere en sesiones, la Comisión Permanente dará su aprobación provisional, mientras se reúne aquella y da la aprobación definitiva.
 
-Los Jueces de Primera Instancia, Menores y Correccionales del Distrito Federal y de los Territorios serán nombrados por el Tribunal Superior de Justicia del Distrito Federal; deberán tener los requisitos que la ley señale, y serán substituídos en sus faltas temporales, en los términos que la misma ley determine.
+Los Jueces de Primera Instancia, menores y correccionales del Distrito Federal y de los Territorios, serán nombrados por el Tribunal Superior de Justicia del Distrito Federal, deberán tener los requisitos que la ley señale y serán substituidos, en sus faltas temporales, en los términos que la misma ley determine.
 
-La remuneración que los Magistrados y Jueces perciban por sus servicios, no podrá ser disminuída durante su encargo.
+La remuneración que los Magistrados y Jueces perciban por sus servicios no podrá ser disminuida durante su encargo.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1934)</small>
-
-Los Magistrados y los Jueces a que se refiere esta base, durarán en sus encargos seis años, pero podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111 o previo el juicio de responsabilidad correspondiente.
+Los Magistrados y los Jueces a que se refiere esta base podrán ser privados de sus puestos cuando observen mala conducta de acuerdo con la parte final del artículo 111, o previo el juicio de responsabilidad correspondiente.
 
 5a.- El Ministerio Público en el Distrito Federal y en los Territorios estará a cargo de un Procurador General, que residirá en la ciudad de México, y del número de agentes que determine la ley, dependiendo dicho funcionario directamente del Presidente de la República, quien lo nombrará y removerá libremente.
 
@@ -1204,11 +1202,13 @@ Los secretarios del Despacho, luego que esté abierto el período de sesiones or
 
 DEL PODER JUDICIAL.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1934)</small>
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 1944)</small>
 
 ###### Art. 94.
 
-Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en Tribunales de Circuito y en juzgados de Distrito, cuyo número y atribuciones fijará la ley. La Suprema Corte de Justicia de la Nación se compondrá de veintiún Ministros y funcionarios en Tribunal Pleno o dividida en cuatro Salas de cinco Ministros cada una, en los términos que disponga la ley. Las audiencias del Tribunal Pleno o de las Salas serán públicas, excepción hecha de los casos en que la moral o el interés público exijan que sean secretas. Las sesiones serán celebradas en la forma y términos que establezca la ley respectiva. La remuneración que perciban por sus servicios los ministros de la Suprema Corte, los magistrados de Circuito y los jueces de Distrito, no podrá ser disminuída durante su encargo. Los ministros de la Suprema Corte, los magistrados de Circuito y los jueces de Distrito, durarán en sus encargos seis años, pero podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111 o previo el juicio de responsabilidad correspondiente.
+Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en Tribunales de Circuito y en Juzgados de Distrito, cuyo número y atribuciones fijará la ley. La Suprema Corte de Justicia de la Nación, se compondrá de veintiún Ministros y funcionará en Tribunal Pleno o dividida en Salas, en los términos que disponga la ley. Las audiencias del Tribunal Pleno o de las Salas serán públicas, excepción hecha de los casos en que la moral o el interés público exijan que sean secretas. Las sesiones serán celebradas en la forma y términos que establezca la ley respectiva. La remuneración que perciban por sus servicios los Ministros de la Suprema Corte, los Magistrados de Circuito y los Jueces de Distrito, no podrá ser disminuida durante su encargo.
+
+Los Ministros de la Suprema Corte, los Magistrados de Circuito y los Jueces de Distrito podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111 o previo el juicio de responsabilidad correspondiente.
 
 ###### Art. 95.
 
@@ -1396,21 +1396,23 @@ En caso afirmativo, el acusado queda, por el mismo hecho, separado de su encargo
 
 No gozan de fuero constitucional los altos funcionarios de la Federación, por los delitos oficiales, faltas u omisiones en que incurran en el desempeño del (sic) algún empleo, cargo o comisión pública que hayan aceptado durante el período en que conforme a la ley se disfrute de fuero. Lo mismo sucederá respecto a los delitos comunes que cometan durante el desempeño de dicho empleo, cargo o comisión. Para que la causa pueda iniciarse cuando el alto funcionario haya vuelto a ejercer sus funciones propias, deberá procederse con arreglo a lo dispuesto en el artículo anterior.
 
-> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 1944)</small>
 
 ###### Art. 111.
 
-De los delitos oficiales conocerá el Senado erigido en Gran Jurado; pero no podrá abrir la averiguación correspondiente, sin previa acusación de la Cámara de Diputados. Si la Cámara de Senadores declarase, por mayoría de las dos terceras parte (sic) del total de sus miembros, después de practicar las diligencias que estime convenientes y de oír al acusado, que éste es culpable, quedará privado de su puesto, por virtud de tal declaración e inhabilitado para obtener otro por el tiempo que determinare la ley.
+De los delitos oficiales conocerá el Senado erigido en Gran Jurado; pero no podrá abrir la averiguación correspondiente, sin previa acusación de la Cámara de Diputados. Si la Cámara de Senadores declarase, por mayoría de las dos terceras partes del total de sus miembros, después de practicar las diligencias que estime convenientes y de oír al acusado, que éste es culpable, quedará privado de su puesto, por virtud de tal declaración, e inhabilitado para obtener otro por el tiempo que determine la ley.
 
 Cuando el mismo hecho tuviere señalada otra pena en la ley, el acusado quedará a disposición de las autoridades comunes para que lo juzguen y castiguen con arreglo a ella.
 
-En los casos de este artículo y en los del 109 las resoluciones del Gran Jurado y la declaración, en su caso, de la Cámara de Diputados, son inatacables.
+En los casos de este artículo y en los del 109, las resoluciones del Gran Jurado y la declaración, en su caso, de la Cámara de Diputados, son inatacables.
 
-Se concede acción popular para denunciar ante la Cámara de Diputados los delitos comunes u oficiales de los altos funcionarios de la Federación. Cuando la Cámara mencionada declare que ha lugar a acusar, nombrará una Comisión de su seno, para que sostenga ante el Senado la acusación de que se trate.
+Se concede acción popular para denunciar ante la Cámara de Diputados los delitos comunes u oficiales de los altos funcionarios de la Federación. Cuando la Cámara mencionada declare que hay lugar a acusar,, (sic) nombrará una comisión de su seno para que sostenga ante el Senado la acusación de que se trate.
 
-El Congreso de la Unión expedirá a la mayor brevedad, una ley de responsabilidad de todos los funcionarios y empleados de la Federación y del Distrito y Territorios Federales, determinando como delitos o faltas oficiales todos los actos u omisiones que puedan redundar en perjuicio de los intereses públicos y del buen despacho, aun cuando hasta la fecha no hayan tenido carácter delictuoso. Estos delitos o faltas serán siempre juzgados por un Jurado Popular, en los términos que para los delitos de imprenta, establece el artículo 20.
+El Congreso de la Unión expedirá a la mayor brevedad, una ley de responsabilidad de todos los funcionarios y empleados de la Federación y del Distrito y Territorios Federales, determinando como delitos o faltas oficiales todos los actos u omisiones que puedan redundan en perjuicio de los intereses públicos y del buen despacho, aun cuando hasta la fecha no hayan tenido carácter delictuoso. Estos delitos o faltas serán siempre juzgados por un Jurado Popular, en los términos que para los delitos de imprenta establece el artículo 20.
 
-El Presidente de la República podrá pedir ante la Cámara de Diputados la destitución, por mala conducta, de cualquiera de los Ministros de la Suprema Corte de Justicia de la Nación, de los Magistrados de Circuito, de los Jueces de Distrito, de los Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios, y de los Jueces del Orden Común del Distrito Federal y de los Territorios. En estos casos, sí la Cámara de Diputados, primero, y la Cámara de Senadores, después, declaran por mayoría absoluta de votos justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, independientemente de la responsabilidad legal en que hubiere incurrido, y se procederá a nueva designación.
+El Presidente de la República podrá pedir ante la Cámara de Diputados la destitución, por mala conducta, de cualquiera de los Ministros de la Suprema Corte de Justicia de la Nación, de los Magistrados de Circuito, de los Jueces de Distrito, de los Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios y de los jueces del orden común del Distrito Federal y de los Territorios. En estos casos, si la Cámara de Diputados primero y la de Senadores después, declaran por mayoría absoluta de votos justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, independientemente de la responsabilidad legal en que hubiere incurrido, y se procederá a nueva designación.
+
+El Presidente de la República, antes de pedir a las Cámaras la destitución de algún funcionario judicial, oirá a éste, en lo privado, a efecto de poder apreciar en conciencia la justificación de tal solicitud.
 
 ###### Art. 112.
 
@@ -2057,3 +2059,13 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 D.O.F. 10 DE FEBRERO DE 1944.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 21 DE SEPTIEMBRE DE 1944.
+
+###### ARTICULO PRIMERO.
+
+Dentro de los treinta días siguientes al en que entre en vigor esta reforma constitucional, el C. Presidente de la República hará, en los términos de la misma reforma, el nombramiento de los Ministros y Magistrados que deberán integrar la Suprema Corte de Justicia y el Tribunal Superior de Justicia del Distrito y Territorios Federales.
+
+###### ARTICULO SEGUNDO.
+
+La Suprema Corte y el Tribunal Superior de Justicia del Distrito y Territorios Federales harán, respectivamente, las designaciones de los funcionarios inamovibles a que se refiere esta ley, dentro del término de treinta días, que se contarán a partir de la fecha en que tales cuerpos judiciales queden constituídos con arreglo al artículo anterior.
