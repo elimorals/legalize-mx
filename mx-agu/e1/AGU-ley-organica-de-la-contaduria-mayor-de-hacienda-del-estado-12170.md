@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-contaduria-mayor-de-hacienda-del-estado-1217
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-06-21"
-last_updated: "1998-08-30"
+last_updated: "1999-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 1999.
 
 Ley publicada en el Suplemento 2 al Número 25 del Periódico Oficial del Estado de Aguascalientes, el 21 de junio de 1981.
 
@@ -153,11 +153,11 @@ X.- Rendir al Congreso del Estado informe mensual de sus labores.
 
 ### CAPITULO III. De la Comisión de Vigilancia de la Contaduría Mayor de Hacienda del Estado
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 1999)</small>
 
 ###### ARTICULO 8o.
 
-La Comisión de Vigilancia de la Contaduría Mayor de Hacienda tendrá las siguientes atribuciones:
+La Comisión de Vigilancia de la Contaduría Mayor de Hacienda del Estado, tendrá las siguientes atribuciones:
 
 I.- Recibir de las entidades la información y datos relativos a la cuenta pública, la que turnarán a la Contaduría Mayor de Hacienda para su revisión;
 
@@ -175,6 +175,10 @@ V.- Proponer al Congreso del Estado el nombramiento del Contador Mayor de Hacien
 
 VI.- Dictar las medidas que estime necesarias para que la Contaduría Mayor de Hacienda cumpla con las funciones que le correspondan.
 
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 1999)</small>
+
+VII.- Proponer al Pleno del Congreso para su aprobación el Reglamento Interior de la Contaduría Mayor de Hacienda sin que sea necesaria su publicación en el Periódico Oficial del Estado.
+
 ### CAPITULO IV. De los Funcionarios y Empleados
 
 > <small>(REFORMADO, P.O. 8 DE MARZO DE 1998)</small>
@@ -183,37 +187,33 @@ VI.- Dictar las medidas que estime necesarias para que la Contaduría Mayor de H
 
 Al frente de la Contaduría Mayor de Hacienda del Estado, como autoridad ejecutiva, estará un Contador Mayor de Hacienda, quien será auxiliado por el personal que sea necesario.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1999)</small>
+
 ###### ARTICULO 10.
 
-Para ser Contador Mayor de Hacienda se requiere satisfacer los siguientes requisitos:
+Para ser Contador Mayor de Hacienda se requiere:
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 1998)</small>
+I.- Ser mexicano, mayor de 30 años, con residencia en el Estado no menor de 3 años anteriores al día de su nombramiento, y estar en pleno ejercicio de sus derechos.
 
-I.- Ser ciudadano mexicano, mayor de 30 años, con residencia en el Estado no menor de tres años anteriores al día de su nombramiento y estar en pleno ejercicio de sus derechos;
+II.- Poseer título legalmente expedido y registrado de Contador Público, Licenciado en Economía, en Administración Pública o profesión afín y tener cuando menos tres años de experiencia en auditoría o funciones relacionadas con la hacienda pública.
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 1998)</small>
+III.- Ser de notoria honradez en el ejercicio de su profesión.
 
-II.- Poseer título de Contador Público Auditor y tener cuando menos dos años de ejercicio profesional, con experiencia en auditoría;
+IV.- No desempeñar cargo de elección popular durante el ejercicio del puesto.
 
-III.- Ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de las funciones públicas que le hayan sido encomendadas;
+V.- No desempeñar otros cargos en las entidades de la Administración Pública Federal, de los Estados o Municipios, durante el desempeño del puesto, a excepción de los docentes.
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 1998)</small>
+VI.- No prestar servicios profesionales a organismos, empresas o instituciones privadas nacionales e internacionales, que de alguna forma mantengan relaciones profesionales y/o comerciales con las Administraciones Públicas Federal, Estatal o Municipales.
 
-IV.- No desempeñar puesto de elección popular durante el ejercicio del cargo ni haberlo hecho en los tres años anteriores;
+VII.- No desempeñar, ni haber desempeñado cargos de dirección o su equivalente dentro de un partido político o cualquier otro tipo de organización política en los tres años anteriores a la fecha de su designación.
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 1998)</small>
-
-V.- No prestar servicios profesionales a entidades públicas o particulares, con excepción de las actividades docentes;
-
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 1998)</small>
-
-VI.- No desempeñar ni haber desempeñado cargo alguno en el Comité Ejecutivo Estatal o Municipal o en el equivalente dentro de un partido político o cualquier otro tipo de organización política en los tres años anteriores a la fecha de su designación.
-
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 1998)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1999)</small>
 
 ###### ARTICULO 11.
 
-El Contador Mayor de Hacienda será inamovible en su cargo siete años, pudiendo ser nombrado para otro período igual. Sólo podrá ser removido con aprobación por mayoría absoluta del Congreso, si se comprueba haber incurrido en falta de probidad, notoria ineficiencia, incapacidad física o mental que le impida cumplir con su responsabilidad o cometa algún delito intencional.
+El Contador Mayor de Hacienda durará en su cargo 4 años, pudiendo ser reelecto por otro período igual, a propuesta de la Comisión de Vigilancia.
+
+Sólo podrá ser removido de su cargo durante el tiempo que éste dure, cuando a solicitud de la Comisión de Vigilancia, se acredite su falta de honradez, notoria ineficiencia, incapacidad física o mental o que hubiere cometido algún delito intencional.
 
 > <small>(REFORMADO, P.O. 8 DE MARZO DE 1998)</small>
 
@@ -261,9 +261,37 @@ XI.- Contratar, conforme el presupuesto de la Contaduría, los servicios de prof
 
 XII.- En general, todas las que deriven de esta Ley, de su Reglamento y de las disposiciones y acuerdos que tome el Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1999)</small>
+
 ###### ARTICULO 14.
 
-La Contaduría Mayor de Hacienda contará con las dependencias, funcionarios y empleados que especifique el Reglamento Interior de la Contaduría Mayor de Hacienda.
+La Contaduría Mayor de Hacienda contará con dos Direcciones de Area, que se denominarán una de ellas de Auditoría e Información, y la otra, de Auditoría a Fondos Federales.
+
+Cada Dirección contará para la ejecución de su trabajo con el número de departamentos, auditores, áreas administrativas y personal auxiliar que requieran para su funcionamiento y que autorice el presupuesto de egresos, mismos que se determinarán en el Reglamento Interior de la Contaduría Mayor de Hacienda.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1999)</small>
+
+###### ARTICULO 14-A.
+
+A la Dirección de Auditoría e Información, corresponderá la revisión de las cuentas públicas de los Gobiernos del Estado y de los Municipios, y de los organismos e instituciones que administren fondos o valores públicos de acuerdo a un programa preestablecido y coordinado con la Comisión de Vigilancia, y de conformidad con los lineamientos que se establezcan en el Reglamento Interior que se emita.
+
+La Dirección de Auditoría a Fondos Federales será la encargada de la revisión de los fondos, subsidios y apoyos que provengan de la Federación y que sean entregados al Estado y a los Ayuntamientos para su operación.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1999)</small>
+
+###### ARTICULO 14-B.
+
+Para ser Director de Area se requiere:
+
+I.- Ser ciudadano mexicano, mayor de 30 años, con residencia en el Estado no menor a tres años anteriores al día de su nombramiento y en pleno ejercicio de sus derechos.
+
+II.- Poseer Título de Contador Público, Licenciado en Administración de Empresas o carrera afín, tener cuando menos tres años de ejercicio profesional, con experiencia de auditoría.
+
+III. Ser de reconocida honradez en el ejercicio de su profesión y en el desempeño de las funciones que le hayan sido encomendadas.
+
+IV. No prestar servicios profesionales a entidades públicas o particulares, con excepción de las actividades docentes.
+
+V. No desempeñar, ni haber desempeñado cargos de dirección o su equivalente dentro de un partido político o cualquier otro tipo de organización política en los tres años anteriores a la fecha de su designación.
 
 ###### ARTICULO 15.
 
@@ -498,3 +526,9 @@ UNICO.- Las presentes reformas, derogaciones y adiciones entrarán en vigor al d
 P.O. 30 DE AGOSTO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE FEBRERO DE 1999.
+
+PRIMERO.- La presente reforma entrará en vigor al día de su expedición.
+
+SEGUNDO.- La Comisión de Vigilancia deberá proponer al Pleno del Congreso el Reglamento Interior de la Contaduría Mayor de Hacienda del Congreso del Estado, dentro de un plazo no mayor de 30 días contados a partir de la entrada en vigor del presente decreto.
