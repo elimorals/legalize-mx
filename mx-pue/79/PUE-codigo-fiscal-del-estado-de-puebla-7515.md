@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2000-12-11"
+last_updated: "2001-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2001.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -1367,61 +1367,63 @@ La Autoridad Fiscal impondrá las sanciones por infracción a las disposiciones 
 
 A.- Por las infracciones señaladas en el artículo 58:
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
-
-I.- De $ 33.00 a $ 66.00 a la comprendida en la fracción VI.
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-II.- De $ 98.00 a $ 196.00 a la comprendida en la fracción II.
+I.- De $ 35.00 a $ 70.00 a la comprendida en la fracción VI.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
 
-III.- De $ 131.00 a $ 262.00 a la comprendida en la fracción III.
+II.- De $ 104.00 a $ 209.00 a la comprendida en la fracción II.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
 
-IV.- De $ 163.00 a $ 326.00 a la establecida en la fracción V.
+III.- De $ 140.00 a $ 279.00 a la comprendida en la fracción III.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
 
-V.- De $ 163.00 a $ 326.00 a la establecida en la fracción VII.
+IV.- De $ 174.00 a $ 347.00 a la establecida en la fracción V.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
 
-VI.- De $ 196.00 a $ 392.00 a la comprendida en la fracción XV.
+V.- De $ 174.00 a $ 347.00 a la establecida en la fracción VII.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
 
-VII.- De $ 262.00 a $ 524.00 a la señalada en la fracción XVIII.
+VI.- De $ 209.00 a $ 418.00 a la comprendida en la fracción XV.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
 
-VIII.- De $ 327.00 a $ 654.00 a las comprendidas en las fracciones IX y XI.
+VII.- De $ 279.00 a $ 558.00 a la señalada en la fracción XVIII.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
 
-IX.- De $ 490.00 a $ 980.00 a la establecida en la fracción X.
+VIII.- De $ 348.00 a $ 697.00 a las comprendidas en las fracciones IX y XI.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
 
-X.- De $ 523.00 a $ 1,046.00 a la comprendida en la fracción IV.
+IX.- De $ 522.00 a $ 1,044.00 a la establecida en la fracción X.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
 
-XI.- De $ 589.00 a $ 1,178.00 a las comprendidas en las fracciones I, VIII, XII y XIII.
+X.- De $ 557.00 a $ 1,115.00 a la comprendida en la fracción IV.
 
-(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)(F. DE E., P.O. 16 DE FEBRERO DE 2001)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
 
-XII.- De $ 654.00 a $ 1,308.00 a las señaladas en la fracción XVII.
+XI.- De $ 628.00 a $ 1,255.00 a las comprendidas en las fracciones I, VIII, XII y XIII.
 
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
 
-XIII.- De $ 1,635.00 a $ 3,270.00 a la comprendida en la fracción XIX.
+XII.- De $ 697.00 a $ 1,394.00 a las señaladas en la fracción XVII.
 
-(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2000)(F. DE E., P.O. 16 DE FEBRERO DE 2001)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
 
-XIV.- De $ 100.00 a $ 250.00 a quien cometa la comprendida en la fracción XX.
+XIII.- De $ 1,742.00 a $ 3,485.00 a la comprendida en la fracción XIX.
+
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
+
+XIV.- De $ 107.00 a $ 266.00 a quien cometa la comprendida en la fracción XX.
 
 B.- Cuando la comisión de la infracción señalada en el artículo 58-A sea descubierta por las Autoridades Fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes sanciones:
 
@@ -2284,3 +2286,7 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Estado y ent
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JULIO DE 2001.
+
+El presente Acuerdo entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
