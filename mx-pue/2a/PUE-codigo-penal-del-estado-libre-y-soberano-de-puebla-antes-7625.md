@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2000-03-24"
+last_updated: "2000-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2000.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1945,6 +1945,26 @@ I.- Al que falsifique o de algún modo intervenga en la falsificación de accion
 
 II.- Al que introduzca al Estado o ponga en circulación los documentos mencionados en la fracción anterior, a sabiendas de su falsedad.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2000)</small>
+
+Artículo 245 BIS.- Se impondrá prisión de tres a nueve años y multa de ciento cincuenta a cuatrocientos días de salario:
+
+I.- Al que produzca, imprima, enajene aun gratuitamente, distribuya o altere tarjetas, títulos, documentos o instrumentos utilizados para el pago de bienes y servicios o para disposición de efectivo, sin consentimiento de quien esté facultado para ello;
+
+II.- Al que adquiera, utilice o posea, tarjetas, títulos, documentos o instrumentos para el pago de bienes y servicios o para disposición de efectivo, a sabiendas de que son alterados o falsificados;
+
+III.- Al que adquiera, utilice, posea o detente indebidamente, tarjetas, títulos o documentos auténticos para el pago de bienes y servicios o para disposición de efectivo, sin consentimiento de quien esté facultado para ello;
+
+IV.- Al que altere, copie o falsifique los medios de identificación electrónica, cintas o dispositivos magnéticos de tarjetas, títulos, documentos o instrumentos para el pago de bienes y servicios o para disposición de efectivo; y
+
+V.- Al que acceda indebidamente a los equipos y sistemas de cómputo o electromagnéticos de las Instituciones emisoras de tarjetas, títulos, documentos o instrumentos, para el pago de bienes y servicios o para disposición de efectivo.
+
+Las mismas penas se impondrán, a quien utilice indebidamente información confidencial o reservada de la Institución o persona que legalmente esté facultada para emitir tarjetas, títulos, documentos o instrumentos para el pago de bienes y servicios o para disposición de efectivo.
+
+Si el sujeto activo es empleado o dependiente del ofendido, las penas aumentarán en una mitad.
+
+En caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este artículo, se aplicarán las reglas del concurso.
+
 ###### Artículo 246.
 
 Si el infractor fuere funcionario o empleado público, además de las sanciones indicadas, se le destituirá de su empleo o cargo y se le inhabilitará hasta por diez años para obtener cualquier otro.
@@ -2101,6 +2121,10 @@ III.- Al que usare uniforme, insignia, distintivo o condecoración a que no teng
 
 IV.- Al que preste servicios privados de seguridad o se ostente como prestador de los mismos, sin contar con la autorización y registro legalmente requeridos.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2000)</small>
+
+Para los efectos del presente ordenamiento, se considerará como Servidor Público, al Notario que cuente con la Patente en Ejercicio; incluyendo a su Auxiliar o Substituto según sea el caso.
+
 #### SECCION TERCERA.- ASALTO Y ATRACO
 
 ###### Artículo 259.
@@ -2167,6 +2191,10 @@ No se procederá contra el estuprador, sino por queja del ofendido, de sus padre
 
 Al que por medio de la violencia física o moral tuviere cópula con una persona sea cual fuere su sexo, se le aplicarán de seis a veinte años de prisión y multa de cincuenta a quinientos días de salario.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2000)</small>
+
+Cuando el sujeto pasivo sea menor de dieciocho años de edad, se duplicará la sanción establecida en el párrafo anterior.
+
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 268.
@@ -2217,7 +2245,9 @@ II.- La cópula con persona menor de doce años de edad; y
 
 III.- La introducción en una persona, por vía anal o vaginal, de cualquier objeto distinto al miembro viril, usando violencia física o moral.
 
-En los casos previstos en las fracciones I y II, se impondrá al autor del delito, de ocho a treinta años de prisión y multa de ciento veinte a mil doscientos días de salario. En el caso de la fracción III la sanción será la establecida en el artículo 267.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2000)</small>
+
+En los casos previstos en las fracciones I y II, se impondrá al autor del delito, de ocho a cuarenta años de prisión y multa de ciento veinte a mil doscientos días de salario. En el caso de la fracción III la sanción será la establecida en el artículo 267.
 
 #### SECCION SEGUNDA.- HOMICIDIO
 
@@ -3948,6 +3978,16 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 24 DE MARZO DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE NOVIEMBRE DE 2000.
 
 ###### ARTÍCULO PRIMERO.
 
