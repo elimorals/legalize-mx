@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2004-08-26"
+last_updated: "2004-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -1271,7 +1271,13 @@ XIII. Promover las actividades culturales y la recreación entre los trabajadore
 
 XIV. Promover entre los empleadores la equidad y la no discriminación tanto en la oferta de empleos como en la estabilidad, remuneración y desarrollo laboral, así como vigilar la observancia de tales principios al interior de la propia Secretaría.
 
-XV. Las demás que le señalen las leyes y reglamentos vigentes.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XV. Vigilar el cumplimiento de la normatividad que prohibe la discriminación laboral por parte de los patrones o empleadores, motivada por la edad, el género, origen étnico, la condición social, la religión, las opiniones, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, a menos que se trate del requerimiento propio de la idoneidad de las personas, para desempeñar una función; y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XVI. Las demás que le señalen las leyes y reglamentos vigentes.
 
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -1804,3 +1810,7 @@ P.O. 26 DE AGOSTO DE 2004.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente a la entrada en vigor del decreto número 20514 que contiene reformas al artículo 111 de la Constitución Política del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- El Comité Técnico de Transparencia y Valoración Salarial, deberá reunirse de forma inmediata a fin de aprobar su reglamento interno. El reglamento deberá ser aprobado dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 2 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
