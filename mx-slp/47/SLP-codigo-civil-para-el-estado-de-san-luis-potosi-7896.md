@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2002-05-04"
+last_updated: "2003-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2003.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -929,15 +929,9 @@ ART. 157.- El marido y la mujer, mayores de edad, tienen capacidad para administ
 
 ART. 158.- El marido y la mujer, menores de edad, tendrán la administración de sus bienes en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+ART. 159.- (DEROGADO, P.O. 20 DE MARZO DE 2003)
 
-ART. 159.- Los cónyuges requieren autorización judicial para contratar entre ellos, excepto cuando el contrato sea el de mandato para pleitos y cobranzas o para actos de administración.
-
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
-
-ART. 160.- También se requiere autorización judicial para que el cónyuge sea fiador de su consorte o se obligue solidariamente con él, en asuntos que sean de interés exclusivo de éste, salvo cuando se trate de otorgar caución para que el otro obtenga su libertad.
-
-La autorización, en los casos a que se refieren los dos artículos anteriores, no se concederá cuando resulten perjudicados los intereses de la familia o de uno de los cónyuges.
+ART. 160.- (DEROGADO, P.O. 20 DE MARZO DE 2003)
 
 ART. 161.- El contrato de compra-venta sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
 
@@ -1025,9 +1019,13 @@ ART. 190.- Son aplicables a las donaciones antenupciales las reglas de las donac
 
 ### CAPITULO V. De las Donaciones entre Consortes
 
-ART. 191.- Los consortes pueden hacerse donación; pero sólo se confirman con la muerte del donante, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los ascendientes a recibir alimentos.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
 
-ART. 192.- Las donaciones entre consortes pueden ser revocadas libremente y en todo tiempo por los donantes.
+ART. 191.- Los consortes pueden hacerse donaciones, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los acreedores alimentarios.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+
+ART. 192.- Las donaciones entre consortes pueden ser revocadas por los donantes, mientras subsista el matrimonio, cuando exista causa justificada para ello, a juicio del juez.
 
 ART. 193.- Estas donaciones no se anularán por la superveniencia de hijos, pero se reducirán cuando sean inoficiosas en los mismos términos que las comunes.
 
@@ -1150,6 +1148,74 @@ II.- Cuando no se ha otorgado la previa dispensa que requiera el artículo 143, 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
 ART. 224.- Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas o sanciones que señale la ley de la materia.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO IX. De la disolución del concubinato
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.8.- El concubinato se termina por las siguientes causas:
+
+I.- Por acuerdo mutuo entre las partes;
+
+II.- Por abandono del domicilio común, por parte de uno de los concubinos, si la separación es injustificada y se prolonga por más de seis meses sin ánimo de reconciliación. Durante éste plazo, el concubinato sigue produciendo sus efectos, y
+
+III.- Por muerte de alguno de los concubinos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.9.- La disolución del concubinato faculta a los concubinos a reclamarse mutuamente alimentos.
+
+Atendiendo a las circunstancias del caso, el Juez competente tendrá facultades para fijar el tiempo en que deban otorgarse y el monto de los mismos, considerando que la concubina o concubinario, no tengan bienes o no estén en aptitud de trabajar. Esta acción deberá ejercerse dentro de los seis meses siguientes a la ruptura del concubinato.
+
+En los casos de disolución del concubinato, el concubino inocente tendrá derecho a alimentos, mientras no contraiga matrimonio o establezca una nueva relación concubinaria y viva honestamente. Solo gozará de este derecho cuando no cuente con recursos, esté imposibilitado para trabajar o no tenga bienes propios para subsistir.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO VIII. Del concubinato
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.1.- El concubinato es la unión de hecho de un sólo hombre y una sola mujer, libres de impedimentos de parentesco y ligamen matrimonial, con el propósito tácito de integrar una familia a través de la cohabitación doméstica y sexual, el respeto y protección recíprocos, así como la eventual perpetuación de la especie.
+
+Si una misma persona establece varias uniones del tipo antes descrito, en ninguna se reputará concubinato.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.2.- Para que exista jurídicamente el concubinato, es necesario que la manifestación de voluntad se prolongue de manera pública y permanente:
+
+I.- Durante cinco años ininterrumpidos;
+
+II.- Durante dos años si la unión se produjo por medio de rito indígena o religioso de carácter público; o
+
+III.- Desde el nacimiento del primer hijo, si esto ocurre antes de los plazos anteriores, siempre y cuando la cohabitación se hubiere dado al menos por un año.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.3.- Se presumen hijos de los concubinos:
+
+I.- Los nacidos después de iniciada la unión libre, y
+
+II.- Los nacidos dentro de los trescientos días de terminado el concubinato.
+
+Los hijos nacidos de concubinato tendrán los mismos derechos y obligaciones como si lo fueran de matrimonio.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.4.- No estará obligado a contribuir económicamente el concubino que se encuentre imposibilitado para trabajar y careciere de bienes propios, ni tampoco el que por convenio expreso o tácito se ocupe íntegramente del cuidado del hogar o de la atención de los hijos menores, ya que en este caso el otro concubino responderá del sostenimiento del hogar.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.5.- Si el concubinato se prolonga hasta la muerte de uno de sus miembros, el concubino supérstite tendrá derecho a heredar en la misma proporción y condiciones de un cónyuge.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.6.- Las funciones paterno-filiares son iguales en el concubinato y en el matrimonio. Los concubinos arreglarán de común acuerdo todo lo relativo a educación y atención de los hijos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.7.- La concubina no tiene derecho a llevar el apellido del concubinario, ni durante la unión ni después de muerto éste.
 
 ### CAPITULO VII. Del Divorcio
 
@@ -1352,74 +1418,6 @@ El juez, al dictar la sentencia de divorcio, resolverá sobre tal indemnización
 ART. 251.- La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiere existido el juicio.
 
 ART. 252.- Ejecutoriada una sentencia de divorcio, el juez de primera instancia remitirá copia de ella al oficial del registro civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-### CAPITULO IX. De la disolución del concubinato
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.8.- El concubinato se termina por las siguientes causas:
-
-I.- Por acuerdo mutuo entre las partes;
-
-II.- Por abandono del domicilio común, por parte de uno de los concubinos, si la separación es injustificada y se prolonga por más de seis meses sin ánimo de reconciliación. Durante éste plazo, el concubinato sigue produciendo sus efectos, y
-
-III.- Por muerte de alguno de los concubinos.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.9.- La disolución del concubinato faculta a los concubinos a reclamarse mutuamente alimentos.
-
-Atendiendo a las circunstancias del caso, el Juez competente tendrá facultades para fijar el tiempo en que deban otorgarse y el monto de los mismos, considerando que la concubina o concubinario, no tengan bienes o no estén en aptitud de trabajar. Esta acción deberá ejercerse dentro de los seis meses siguientes a la ruptura del concubinato.
-
-En los casos de disolución del concubinato, el concubino inocente tendrá derecho a alimentos, mientras no contraiga matrimonio o establezca una nueva relación concubinaria y viva honestamente. Solo gozará de este derecho cuando no cuente con recursos, esté imposibilitado para trabajar o no tenga bienes propios para subsistir.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-### CAPITULO VIII. Del concubinato
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.1.- El concubinato es la unión de hecho de un sólo hombre y una sola mujer, libres de impedimentos de parentesco y ligamen matrimonial, con el propósito tácito de integrar una familia a través de la cohabitación doméstica y sexual, el respeto y protección recíprocos, así como la eventual perpetuación de la especie.
-
-Si una misma persona establece varias uniones del tipo antes descrito, en ninguna se reputará concubinato.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.2.- Para que exista jurídicamente el concubinato, es necesario que la manifestación de voluntad se prolongue de manera pública y permanente:
-
-I.- Durante cinco años ininterrumpidos;
-
-II.- Durante dos años si la unión se produjo por medio de rito indígena o religioso de carácter público; o
-
-III.- Desde el nacimiento del primer hijo, si esto ocurre antes de los plazos anteriores, siempre y cuando la cohabitación se hubiere dado al menos por un año.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.3.- Se presumen hijos de los concubinos:
-
-I.- Los nacidos después de iniciada la unión libre, y
-
-II.- Los nacidos dentro de los trescientos días de terminado el concubinato.
-
-Los hijos nacidos de concubinato tendrán los mismos derechos y obligaciones como si lo fueran de matrimonio.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.4.- No estará obligado a contribuir económicamente el concubino que se encuentre imposibilitado para trabajar y careciere de bienes propios, ni tampoco el que por convenio expreso o tácito se ocupe íntegramente del cuidado del hogar o de la atención de los hijos menores, ya que en este caso el otro concubino responderá del sostenimiento del hogar.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.5.- Si el concubinato se prolonga hasta la muerte de uno de sus miembros, el concubino supérstite tendrá derecho a heredar en la misma proporción y condiciones de un cónyuge.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.6.- Las funciones paterno-filiares son iguales en el concubinato y en el matrimonio. Los concubinos arreglarán de común acuerdo todo lo relativo a educación y atención de los hijos.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.7.- La concubina no tiene derecho a llevar el apellido del concubinario, ni durante la unión ni después de muerto éste.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2000)</small>
 
@@ -1769,54 +1767,6 @@ II.- A ser alimentado por éste;
 
 III.- A percibir la pensión hereditaria y los alimentos que fije la Ley.
 
-### CAPITULO V. De la Adopción
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 350.- La adopción es un acto jurídico destinado a crear entre el adoptante y el adoptado los derechos y obligaciones resultantes de la patria potestad y en su caso, la filiación. Esta institución se establece en función del interés superior y beneficio del adoptado.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 351.- En el Estado de San Luis Potosí, la adopción puede ser plena o simple, según se desprenda de los elementos aportados por los adoptantes en el procedimiento.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 352.- La adopción procede respecto de menores de edad y de incapacitados. Los adoptantes deberán de ser mayores de 25 años de edad en pleno ejercicio de sus derechos y deberán tener 15 años mas que el adoptado, tener reconocida solvencia moral y un modo honesto de vivir.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 353.- Nadie puede ser adoptado por más de una persona, salvo en el caso de que los adoptantes sean cónyuges. Estos sólo podrán adoptar cuando ambos estén de acuerdo en considerar al adoptado como hijo. Cuando la persona a adoptar sea hijo solamente de uno de los cónyuges, y éste ejerza exclusivamente la patria potestad, el otro podrá adoptarlo con el consentimiento del primero.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 354.- El tutor no podrá adoptar al pupilo sino hasta después que hayan sido definitivamente aprobadas las cuentas de la tutela.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 355.- Para que la adopción pueda efectuarse deberán consentir en ella en sus respectivos casos:
-
-I.- El o los que ejerzan la patria potestad sobre el menor que se trata de adoptar;
-
-II.- El tutor de quien va a ser adoptado;
-
-III.- La persona o personas que lo hayan acogido y lo traten como a un hijo, cuando no exista quien ejerza la patria potestad o la tutela;
-
-IV.- Los directores de las instituciones públicas o privadas autorizadas que alberguen al menor, cuando éste no tenga padres conocidos ni tutor, ni persona que ostensiblemente le imparta su protección o le haya acogido como hijo;
-
-V.- Los padres de la o las personas que pretendan adoptar, tratándose de adopción plena; y
-
-VI.- El menor que va a ser adoptado, cuando éste tenga más de doce años de edad.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 356.- Si la persona que ejerce la tutela o quien hubiere acogido como hijo, no consiente en la adopción sin causa justificada, el juez tomando en cuenta las circunstancias del caso y cuando se pruebe que la adopción será notoriamente benéfica y conveniente para el bienestar integral del adoptando (sic), podrá suplir el consentimiento.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 357.- El procedimiento judicial será el que fije el Código de Procedimientos Civiles en el Estado.
-
-Las instituciones de asistencia públicas y privadas autorizadas, observarán las disposiciones administrativas que sobre la materia establezca la Ley sobre el Sistema de Asistencia Social en el Estado y demás disposiciones legales aplicables.
-
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
 ### CAPITULO VI. De la adopción simple
@@ -1889,6 +1839,86 @@ Decretada la conversión, serán aplicadas las reglas de la adopción plena.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
+### CAPITULO VIII. De la adopción internacional
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.9.- Se considera adopción internacional cuando los adoptantes son extranjeros con residencia habitual fuera del territorio nacional, que desean adoptar a un menor mexicano domiciliado en territorio potosino, a través de una institución reconocida y validada en su país de origen vinculada a la protección de los menores.
+
+Los extranjeros que pretendan adoptar deberán ser personas de distinto sexo unidas en legítimo matrimonio y cumplir con los requisitos administrativos que contiene la Convención Internacional de la Haya y los que fije el Organismo Rector de la Asistencia Social en el Estado, en su carácter de autoridad central en materia de adopciones internacionales.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.10.- Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano y, en lo conducente, por las disposiciones de este Código. Las adopciones internacionales siempre serán plenas.
+
+En el procedimiento de adopción internacional en igualdad de circunstancias, se dará preferencia a adoptantes mexicanos sobre los extranjeros.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.11.- Los cónyuges extranjeros que pretendan adoptar a un menor de nacionalidad mexicana en el Estado de San Luis Potosí deberán presentar ante el juez, certificado de idoneidad expedido por la autoridad competente de su país de origen que acredite que los solicitantes son considerados aptos para adoptar, constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en dicho estado y la autorización de la Secretaría de Gobernación para internarse y permanecer en el país con la finalidad de realizar una adopción.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.12.- El Sistema para el Desarrollo Integral de la Familia del Estado o su equivalente en su carácter de autoridad central en materia de adopciones internacionales, tramitará y conocerá en exclusiva de los procedimientos administrativos sobre esta materia.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.13.- El Sistema para el Desarrollo Integral de la Familia en el Estado, o su equivalente en su carácter de autoridad central en materia de adopciones internacionales, deberá de informar semestralmente al juez que decretó la adopción y hasta que el adoptado adquiera la edad de doce años, sobre el estado, evolución y desarrollo de los menores concedidos en adopción.
+
+El Ministerio Público vigilará que se cumpla con esta disposición.
+
+ART. 370 BIS.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
+
+### CAPITULO V. De la Adopción
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 350.- La adopción es un acto jurídico destinado a crear entre el adoptante y el adoptado los derechos y obligaciones resultantes de la patria potestad y en su caso, la filiación. Esta institución se establece en función del interés superior y beneficio del adoptado.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 351.- En el Estado de San Luis Potosí, la adopción puede ser plena o simple, según se desprenda de los elementos aportados por los adoptantes en el procedimiento.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 352.- La adopción procede respecto de menores de edad y de incapacitados. Los adoptantes deberán de ser mayores de 25 años de edad en pleno ejercicio de sus derechos y deberán tener 15 años mas que el adoptado, tener reconocida solvencia moral y un modo honesto de vivir.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 353.- Nadie puede ser adoptado por más de una persona, salvo en el caso de que los adoptantes sean cónyuges. Estos sólo podrán adoptar cuando ambos estén de acuerdo en considerar al adoptado como hijo. Cuando la persona a adoptar sea hijo solamente de uno de los cónyuges, y éste ejerza exclusivamente la patria potestad, el otro podrá adoptarlo con el consentimiento del primero.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 354.- El tutor no podrá adoptar al pupilo sino hasta después que hayan sido definitivamente aprobadas las cuentas de la tutela.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 355.- Para que la adopción pueda efectuarse deberán consentir en ella en sus respectivos casos:
+
+I.- El o los que ejerzan la patria potestad sobre el menor que se trata de adoptar;
+
+II.- El tutor de quien va a ser adoptado;
+
+III.- La persona o personas que lo hayan acogido y lo traten como a un hijo, cuando no exista quien ejerza la patria potestad o la tutela;
+
+IV.- Los directores de las instituciones públicas o privadas autorizadas que alberguen al menor, cuando éste no tenga padres conocidos ni tutor, ni persona que ostensiblemente le imparta su protección o le haya acogido como hijo;
+
+V.- Los padres de la o las personas que pretendan adoptar, tratándose de adopción plena; y
+
+VI.- El menor que va a ser adoptado, cuando éste tenga más de doce años de edad.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 356.- Si la persona que ejerce la tutela o quien hubiere acogido como hijo, no consiente en la adopción sin causa justificada, el juez tomando en cuenta las circunstancias del caso y cuando se pruebe que la adopción será notoriamente benéfica y conveniente para el bienestar integral del adoptando (sic), podrá suplir el consentimiento.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 357.- El procedimiento judicial será el que fije el Código de Procedimientos Civiles en el Estado.
+
+Las instituciones de asistencia públicas y privadas autorizadas, observarán las disposiciones administrativas que sobre la materia establezca la Ley sobre el Sistema de Asistencia Social en el Estado y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
 ### CAPITULO VII. De la adopción plena
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
@@ -1946,38 +1976,6 @@ Tratándose de la adopción plena, el Registro Civil se abstendrá de proporcion
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
 ART. 370.8.- Ejecutoriada que sea la sentencia que decrete la adopción plena, quedarán extinguidos todos los vínculos con la familia de origen del menor.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-### CAPITULO VIII. De la adopción internacional
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 370.9.- Se considera adopción internacional cuando los adoptantes son extranjeros con residencia habitual fuera del territorio nacional, que desean adoptar a un menor mexicano domiciliado en territorio potosino, a través de una institución reconocida y validada en su país de origen vinculada a la protección de los menores.
-
-Los extranjeros que pretendan adoptar deberán ser personas de distinto sexo unidas en legítimo matrimonio y cumplir con los requisitos administrativos que contiene la Convención Internacional de la Haya y los que fije el Organismo Rector de la Asistencia Social en el Estado, en su carácter de autoridad central en materia de adopciones internacionales.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 370.10.- Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano y, en lo conducente, por las disposiciones de este Código. Las adopciones internacionales siempre serán plenas.
-
-En el procedimiento de adopción internacional en igualdad de circunstancias, se dará preferencia a adoptantes mexicanos sobre los extranjeros.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 370.11.- Los cónyuges extranjeros que pretendan adoptar a un menor de nacionalidad mexicana en el Estado de San Luis Potosí deberán presentar ante el juez, certificado de idoneidad expedido por la autoridad competente de su país de origen que acredite que los solicitantes son considerados aptos para adoptar, constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en dicho estado y la autorización de la Secretaría de Gobernación para internarse y permanecer en el país con la finalidad de realizar una adopción.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 370.12.- El Sistema para el Desarrollo Integral de la Familia del Estado o su equivalente en su carácter de autoridad central en materia de adopciones internacionales, tramitará y conocerá en exclusiva de los procedimientos administrativos sobre esta materia.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 370.13.- El Sistema para el Desarrollo Integral de la Familia en el Estado, o su equivalente en su carácter de autoridad central en materia de adopciones internacionales, deberá de informar semestralmente al juez que decretó la adopción y hasta que el adoptado adquiera la edad de doce años, sobre el estado, evolución y desarrollo de los menores concedidos en adopción.
-
-El Ministerio Público vigilará que se cumpla con esta disposición.
-
-ART. 370 BIS.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
 ## TITULO OCTAVO. De la Patria Potestad
 
@@ -2995,33 +2993,59 @@ ART. 676.- La constitución del patrimonio de la familia por alguna de las perso
 
 ART. 677.- El valor máximo permitido en términos de ley, respecto de los bienes que conformen el patrimonio de la familia será el que resulte de multiplicar la cantidad derivada del importe de ciento veinte días de salario mínimo vigente en el Estado por trescientos sesenta y cinco días. El incremento que sobrevenga respecto al valor de los mismos, originado por cualquier causa, no los sustrae del régimen que los salvaguarda, por lo que tal incremento o excedente tampoco será embargable; pero el valor original y su incremento, sí podrán disminuirse para encuadrarse dentro de los límites establecidos por esta ley.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2003)</small>
 
-ART. 678.- Para constituir el patrimonio de la familia, el cónyuge o el hijo que quieran hacerlo, deberán satisfacer los siguientes requisitos:
+ART. 678.- Para constituir el patrimonio de la familia, él o los peticionarios que quieran hacerlo, deberán satisfacer los siguientes requisitos:
 
-I.- Plantear por escrito ante juez competente, con jurisdicción en el lugar en que se encuentre la casa habitación o los demás bienes destinados a la constitución del patrimonio de la familia, la intención y voluntad de hacerlo;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1996)</small>
 
-II.- Indicar de manera clara y precisa los bienes que pretende afectar, a fin de poder acordarse, oportunamente, su inscripción en el Registro Público de la Propiedad y del Comercio;
+I.- Plantear por escrito ante juez competente, con jurisdicción en el lugar en que se encuentre la casa habitación o los demás bienes destinados a la constitución del patrimonio de la familia, la intención y voluntad de hacerlo.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+Para los mismos efectos, también se podrá acudir ante notario público en ejercicio en el distrito judicial en que se encuentre la casa habitación o los demás bienes destinados a la constitución del patrimonio de la familia;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2003)</small>
+
+II.- Indicar de manera clara y precisa los bienes que pretende afectar, a fin de que se hagan las correspondientes anotaciones e inscripciones de que dichos bienes estarán sujetos al patrimonio de la familia, en el Registro Público de la Propiedad y del Comercio;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1996)</small>
 
 III.- Ser mayor de edad o estar emancipado;
 
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1996)</small>
+
 IV.- Estar domiciliado en el lugar donde pretende constituir el patrimonio de su intención;
 
-V.- Comprobar la existencia de la familia legítima, a cuyo favor se va a constituir el patrimonio. La acreditación de los vínculos familiares se realizará con las copias o actas certificadas, expedidas por la institución jurídica del Registro Civil;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2003)</small>
+
+V.- Comprobar la existencia de la familia legítima a cuyo favor se va a constituir el patrimonio. La acreditación de los vínculos familiares se realizará con las copias o actas certificadas expedidas por la institución jurídica del registro civil. En los casos de concubinato, tal estado se acreditará bajo protesta de decir verdad y con las correspondientes partidas de nacimiento de los descendientes, en su caso;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1996)</small>
 
 VI.- Acreditar que los bienes destinados al patrimonio son legítimos del peticionante y que los mismos no reportan gravamen alguno; y
 
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1996)</small>
+
 VII.- Que el valor de los bienes destinados a constituir el patrimonio de la familia no exceda del máximo permitido en el Artículo 677. Dicho valor solamente se acreditará mediante avalúo catastral tratándose de inmuebles, en tanto que los bienes muebles serán valuados mediante dictamen pericial.
 
-ART. 679.- Si se llenan la condiciones exigidas en el artículo anterior, el juez, previos los trámites que fije el código de la materia, aprobará la constitución del patrimonio de la familia y mandará que se hagan las inscripciones correspondientes en el registro público.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
 
-ART. 680.- Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al máximum fijado en el artículo 677 podrá ampliarse el patrimonio hasta llegar a ese valor. La ampliación se sujetará al mismo procedimiento que para la constitución fije el código de la materia.
+ART. 679.- Si se llenan las condiciones exigidas en el artículo anterior, el juez, previos los trámites que fije el Código de la materia, aprobará la constitución del patrimonio para la familia y mandará que se hagan las inscripciones correspondientes en el registro público.
+
+En su caso, el notario procederá a la protocolización del instrumento constitutivo del patrimonio de la familia, y solicitará que se hagan las anotaciones e inscripciones correspondientes en el registro público.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+
+ART. 680.- Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al máximo fijado en el artículo 677 de este Código, podrá ampliarse el patrimonio hasta llegar a ese valor. La ampliación será realizada en la misma forma que la constitución.
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
 
 ART. 681.- Cuando haya peligro de que uno de los cónyuges o de los hijos, obligados a dar alimentos, pueda perder sus bienes por mala administración o porque los esté dilapidando, el otro podrá exigir judicialmente que se constituya el patrimonio de la familia hasta por el importe máximo establecido en el Artículo 677.
 
-Por otra parte, tienen derecho a exigir judicialmente su constitución, en los términos señalados con anterioridad, los padres, el cónyuge afectado o los hijos. Si son incapaces, entonces intervendrán sus tutores o el Ministerio Público. En ambos casos, los trámites para constituir el patrimonio de la familia se ajustarán en lo conducente a lo preceptuado en los artículos 678 y 679.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+
+Por otra parte, tienen derecho a exigir judicialmente su constitución en los términos señalados con anterioridad, los padres, el cónyuge afectado o los hijos. Si son incapaces, entonces intervendrán sus tutores o el Ministerio Público. En ambos casos, los trámites para constituir el patrimonio de la familia se ajustarán en lo conducente a lo preceptuado por las fracciones II a VII del artículo 678 de este ordenamiento y a los trámites que fije el Código de la materia.
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
 
@@ -3061,17 +3085,21 @@ ART. 687.- Constituído que sea el patrimonio de la familia, ésta debe de habit
 
 Del cumplimiento de habitar la casa, según lo dispuesto en el párrafo anterior, puede sustraerse la familia, sin necesidad de declaratoria judicial, si la persona que constituyó el patrimonio y los beneficiarios del mismo, por evidente necesidad o conveniencia, acuerdan darla en arrendamiento. Si al ocurrir lo anterior no hubiere mediado el acuerdo de referencia, el contrato o convenio pactado será nulo. Respecto a los hijos menores o personas incapaces, la responsabilidad de la determinación que se tome recae en los restantes miembros de la familia, salvo que exista persona que por declaración judicial los represente, la que en ese caso habrá de hacerlo.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2003)</small>
 
-ART. 688.- El patrimonio de la familia se extingue, mediante declaración judicial, en los siguientes casos:
+ART. 688.- Cuando los cónyuges o concubinos en su caso, tuvieren necesidad de extinguir el patrimonio de la familia establecido en los términos de los artículos 678 y 679 de este Código, podrán acudir ante notario público en ejercicio en el distrito judicial del lugar en que se encuentren los bienes afectos al mismo. El notario protocolizará la voluntad de los comparecientes y expedirá testimonio que deberá ser inscrito en el registro público correspondiente:
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1996)</small>
 
 I.- Cuando se demuestre que hay necesidad de la familia de que el patrimonio quede extinguido; y
 
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1996)</small>
+
 II.- Cuando tratándose del patrimonio formado con los bienes vendidos por las autoridades señaladas en el Artículo 682, se declare judicialmente nula o rescindida su venta, por la actualización del supuesto a que alude la fracción V del propio Artículo 684.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
 
-ART. 689.- Se requiere de declaración judicial para la extinción del patrimonio, la que se comunica al Registro Público de la Propiedad y del Comercio para los efectos correspondientes.
+ART. 689.- Se requerirá declaración judicial para extinguir el patrimonio de la familia, cuando se trate del patrimonio formado con los bienes vendidos por las autoridades señaladas en el artículo 682 y se declare judicialmente nula o rescindida su venta, por la actualización del supuesto a que alude la fracción V del propio artículo 684, la que se comunicará al Registro Público de la Propiedad y del Comercio para los efectos correspondientes.
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
 
@@ -3079,15 +3107,19 @@ ART. 690.- La expropiación que afecte los bienes que conforman el patrimonio de
 
 Realizados los depósitos de pago mencionados en el párrafo anterior, el tiular (sic) y sus beneficiarios quedan legitimados para decidir libremente, mantenerlos durante el tiempo de su interés en la institución financiera a fin de que durante un año, en el cual son inembargables, les puedan redituar intereses, o bien, sin necesidad de declaratoria judicial, pero teniéndose la conformidad a que se contrae el artículo 687, disponer de los mismos para poder estar en aptitud de adquirir otra casa, si ésta les resultare indispensable de habitar. Sólo hasta el momento en que se disponga de los pagos depositados se entenderá extinguido el patrimonio subrogado, no requiriéndose para entenderlo así, de declaración judicial alguna.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMERO PARRAFO, P.O. 20 DE MARZO DE 2003)</small>
 
-ART. 691.- Puede decretarse judicialmente la disminución del patrimonio de la familia, a pedimento de la misma, en los siguientes casos:
+ART. 691.- A solicitud de los peticionarios a que se refiere el artículo 678 de este Código, podrá disminuirse el patrimonio de la familia en los siguientes casos:
 
-I.- Cuando se acredite que su disminución evidentemente le es necesaria, o de manifiesto beneficio; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2003)</small>
+
+I. Cuando la disminución sea de manifiesto beneficio, y
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1996)</small>
 
 II.- Cuando el patrimonio familiar por causa posterior a su constitución, cualquiera que sea ésta, se incremente hasta en un doscientos por ciento más, del valor máximo que debe tener al momento de su inscripción.
 
-ART. 692.- El Ministerio Público será oído en la extinción y en la reducción del patrimonio de la familia.
+ART. 692.- (DEROGADO, P.O. 20 DE MARZO DE 2003)
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
 
@@ -4919,7 +4951,11 @@ I.- Público abierto;
 
 II.- Público cerrado; y
 
-III.- Ológrafo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MARZO DE 2003)</small>
+
+III.- Público simplificado, y
+
+IV.- Ológrafo.
 
 ART. 1347.- El especial puede ser:
 
@@ -4949,7 +4985,9 @@ VII.- Los que hayan sido condenados por el delito de falsedad;
 
 VIII.- Los que no estén domiciliados en el lugar donde se otorgue el testamento.
 
-ART. 1349.- Cuando el testador ignore el idioma del país, concurrirán al acto y firmarán el testamento, además de los testigos y el notario, dos intérpretes nombrados por el mismo testador.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+
+ART. 1349.- Cuando el testador ignore el idioma español, un intérprete nombrado por el mismo testador concurrirá al acto y firmará el testamento.
 
 ART. 1350.- Tanto el notario como los testigos que intervengan en cualquier testamento deberán conocer al testador o cerciorarse de algún modo de su identidad, y de que se halla en su cabal juicio y libre de cualquiera coacción.
 
@@ -4967,25 +5005,41 @@ ART. 1356.- Si los interesados están ausentes o son desconocidos, la noticia se
 
 ### CAPITULO II. Del Testamento Público Abierto
 
-ART. 1357.- Testamento público abierto, es el que se otorga ante notario y tres testigos idóneos.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
 
-ART. 1358.- El testador expresará de un modo claro y terminante su voluntad al notario y a los testigos. El notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+ART. 1357.- Testamento Público Abierto es el que se otorga ante notario, de conformidad con las disposiciones de este Capítulo.
 
-ART. 1359.- Si alguno de los testigos no supiere escribir, imprimirá su huella digital, poniéndose debajo de la misma su nombre, pero cuando menos deberá constar la firma de dos testigos.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
 
-ART. 1360.- Si el testador no pudiere o no supiere escribir, intervendrá otro testigo más, que firme a su ruego.
+ART. 1358.- El testador expresará de modo claro y terminante su voluntad al notario. El notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán la escritura el testador, el notario y, en su caso, los testigos y el intérprete; asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
 
-ART. 1361.- En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará por el testador uno de los instrumentales, haciéndose constar esta circunstancia.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+
+ART. 1359.- En los casos previstos en los artículos 1360, 1361 y 1362 de este Código, así como cuando el testador o el notario lo soliciten, dos testigos deberán concurrir al acto de otorgamiento y firmarán el testamento. Los testigos instrumentales a que se refiere este artículo podrán intervenir, además, como testigos de conocimiento.
+
+Si alguno de los testigos no supiere firmar, imprimirá su huella digital; pero cuando menos deberá constar la firma de un testigo.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+
+ART. 1360.- Cuando el testador declare que no sabe o no puede firmar el testamento, uno de los testigos firmará a ruego del testador y éste imprimirá su huella digital.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+
+ART. 1361.- Cuando el testador sea ciego o no pueda o no sepa leer, se dará lectura al testamento dos veces: una por el notario como está prescrito en el artículo 1358, y otra en igual forma, por uno de los testigos u otra persona que el testador designe.
 
 ART. 1362.- El que fuere enteramente sordo, pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona que lo lea a su nombre.
 
-ART. 1363.- Cuando el testador ignore el idioma del país, si puede, escribirá de su puño y letra su testamento, que será traducido al español por los dos intérpretes a que se refiere el artículo 1349. La traducción se transcribirá como testamento en el Protocolo respectivo y el original se archivará en el Apéndice correspondiente del notario que intervenga en el acto.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
 
-Si el testador no puede o no sabe escribir, uno de los intérpretes escribirá el testamento que dicte aquél, y leído y aprobado por el testador, se traducirá al español por los dos intérpretes que deben concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior.
+ART. 1363.- Cuando el testador ignore el idioma español, si puede escribirá su testamento, que será traducido al español por el intérprete a que se refiere el artículo 1349 de este Código. La traducción se transcribirá como testamento en el respectivo protocolo; y el original, firmado por el testador, el intérprete y el notario, se archivará en el apéndice correspondiente del notario que intervenga en el acto.
 
-Si el testador no puede o no sabe leer, dictará en su idioma el testamento a uno de los intérpretes. Traducido por los dos intérpretes, se procederá como dispone el párrafo primero de este artículo.
+Si el testador no puede o no sabe escribir, el intérprete escribirá el testamento que dicte aquél; y leído y aprobado por el testador, se traducirá al español por el intérprete que debe concurrir al acto. Hecha la traducción se procederá como se dispone en el párrafo anterior.
 
-ART. 1364.- Las formalidades se practicarán acto contínuo y el notario dará fe de haberse llenado todas.
+Si el testador no puede o no sabe leer, dictará en su idioma el testamento al intérprete; y leído por éste en voz alta y aprobado por el testador, el propio intérprete lo traducirá al español y se procederá como dispone el párrafo primero de este artículo. En este caso el intérprete podrá intervenir también como testigo de conocimiento.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+
+ART. 1364.- Las formalidades expresadas en este Capítulo se practicarán en un solo acto que comenzará con la lectura del testamento; el notario dará fe de haberse llenado aquéllas.
 
 ART. 1365.- Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto, y el notario será responsable de los daños y perjuicios e incurrirá, además, en la pena de pérdida de oficio.
 
@@ -5050,6 +5104,28 @@ ART. 1392.- Cumplido lo prescrito en los cinco artículos anteriores, el juez de
 ART. 1393.- El testamento cerrado quedará sin efecto siempre que se encuentre roto el pliego interior o abierto el que forma la cubierta, o borradas, raspadas o enmendadas las firmas que lo autorizan, aunque el contenido no sea vicioso.
 
 ART. 1394.- Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en los artículos 1354 y 1355 o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE MARZO DE 2003)</small>
+
+### CAPITULO III BIS. Testamento Público Simplificado
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+ART. 1394 BIS.- Testamento Público Simplificado es aquél que se otorga ante notario, respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente, en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleve a cabo cualquier autoridad, o en acto posterior, de conformidad con lo siguiente:
+
+I.- Que el precio del inmueble según avalúo catastral, no exceda del equivalente a veinticinco veces el salario mínimo general vigente en la zona elevado al año, al momento en que se otorgue el testamento. En los casos de regularización de inmuebles a que se refiere el párrafo anterior, no importará su monto;
+
+II.- El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por cuenta de los incapaces.
+
+Cuando el legatario instituido sea incapaz y no esté sujeto a patria potestad del testador ni bajo la de otro, se estará a lo dispuesto en el artículo 432 de este Código;
+
+III.- Si hubiere pluralidad de adquirentes del inmueble, cada copropietario podrá instituir uno o más legatarios respecto de su porción. Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda. En los supuestos a que se refiere este artículo no se aplicará lo dispuesto por el artículo 1142 de este Código;
+
+IV.- Los legatarios recibirán el legado con la obligación de dar alimentos a los acreedores alimentarios, si los hubiere, en la proporción que el valor del legado represente en la totalidad del acervo hereditario de los bienes del autor de la sucesión;
+
+V.- Los legatarios podrán reclamar directamente la entrega del inmueble y no les serán aplicables las disposiciones de los artículos 1549, 1606 y demás relativos de este Código, y
+
+VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios se hará en los términos del artículo 744-Bis del Código de Procedimientos Civiles para el Estado de San Luis Potosí.
 
 ### CAPITULO IV. Del Testamento Ológrafo
 
@@ -5165,6 +5241,8 @@ ART. 1433.- Si el testamento fuere confiado a la guarda del secretario de Legaci
 
 ART. 1434.- El papel en que se extiendan los testamentos otorgados ante los Agentes Diplomáticos o Consulares, llevará el sello de la Legación o Consulado respectivo.
 
+## TITULO CUARTO. De la Sucesión Legítima
+
 ### CAPITULO I. Disposiciones Generales
 
 ART. 1435.- La herencia legítima se abre:
@@ -5194,8 +5272,6 @@ ART. 1440.- Los parientes más próximos excluyen a los más remotos, salvo lo d
 ART. 1441.- Los parientes que se hallaren en el mismo grado, heredarán por partes iguales.
 
 ART. 1442.- Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el Capítulo I, Título VI, Libro Primero.
-
-## TITULO CUARTO. De la Sucesión Legítima
 
 ### CAPITULO II. De la Sucesión de los Descendientes
 
@@ -5273,6 +5349,8 @@ ART. 1472.- A falta de todos los herederos llamados en los capítulos anteriores
 
 ART. 1473.- Cuando sea heredera la Beneficencia Pública del Estado y entre lo que le corresponda existan bienes raíces que no pueda adquirir conforme al artículo 27 de la Constitución Federal, se venderán los bienes en pública subasta, antes de hacerse la adjudicación, aplicándose a la Beneficencia Pública el precio que se obtuviere.
 
+## TITULO QUINTO. Disposiciones comunes a las Sucesiones Testamentaria y Legítima
+
 ### CAPITULO I. De las precauciones que deben adoptarse cuando la viuda queda encinta
 
 ART. 1474.- Cuando a la muerte del marido la viuda crea haber quedado encinta, lo pondrá en conocimiento del juez que conozca de la sucesión, dentro del término de cuarenta días, para que lo notifique a los que tengan a la herencia un derecho de tal naturaleza que deba desaparecer o disminuir por el nacimiento del póstumo.
@@ -5298,8 +5376,6 @@ ART. 1482.- El juez decidirá de plano todas las cuestiones relativas a alimento
 ART. 1483.- Para cualquiera de las diligencias que se practiquen conforme a lo dispuesto en este Capítulo, deberá ser oída la viuda.
 
 ART. 1484.- La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez; mas los acreedores podrán ser pagados por mandato judicial.
-
-## TITULO QUINTO. Disposiciones comunes a las Sucesiones Testamentaria y Legítima
 
 ### CAPITULO II. De la apertura y transmisión de la Herencia
 
@@ -5691,6 +5767,14 @@ ART. 1626.- La partición hecha con un heredero falso es nula en cuanto tenga re
 
 ART. 1627.- Si hecha la partición aparecieren algunos bienes omitidos en ella, se hará una división suplementaria, en la cual se observarán las disposiciones contenidas en este Título.
 
+# LIBRO CUARTO. De las Obligaciones
+
+PRIMERA PARTE
+
+De las Obligaciones en General
+
+## TITULO PRIMERO. Fuentes de las Obligaciones
+
 ### CAPITULO I. Contratos
 
 ART. 1628.- Convenio es el acuerdo de dos o más personas para crear, transferir, modificar o extinguir obligaciones.
@@ -5718,14 +5802,6 @@ ART. 1632.- Los contratos se perfeccionan por el mero consentimiento; excepto aq
 ART. 1633.- La validez y el cumplimiento de los contratos no puede dejarse al arbitrio de uno de los contratantes.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 1997)</small>
-
-# LIBRO CUARTO. De las Obligaciones
-
-PRIMERA PARTE
-
-De las Obligaciones en General
-
-## TITULO PRIMERO. Fuentes de las Obligaciones
 
 ### CAPITULO I BIS. De la Imprevisión en los Contratos
 
@@ -5761,15 +5837,51 @@ ART. 1646.- El proponente quedará libre de su oferta cuando la respuesta que re
 
 ART. 1647.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
 
-División de los Contratos
+Representación
 
-ART. 1671.- El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
+ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
 
-ART. 1672.- El contrato es bilateral cuando las partes se obligan recíprocamente.
+ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
 
-ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
+ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
 
-ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
+Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
+
+Del objeto y del motivo o fin de los Contratos
+
+ART. 1660.- Son objeto de los contratos:
+
+I.- La cosa que el obligado debe dar;
+
+II.- El hecho que el obligado debe hacer o no hacer.
+
+ART. 1661.- La cosa objeto del contrato debe: 1o. Existir en la naturaleza. 2o. Ser determinada o determinable en cuanto a su especie. 3o. Estar en el comercio.
+
+ART. 1662.- Las cosas futuras pueden ser objeto de un contrato. Sin embargo, no puede serlo la herencia de una persona viva, aun cuando ésta preste su consentimiento.
+
+ART. 1663.- El hecho positivo o negativo, objeto del contrato, debe ser:
+
+I.- Posible;
+
+II.- Lícito.
+
+ART. 1664.- Es imposible el hecho que no puede existir porque es incompatible con una ley de la naturaleza o con una norma jurídica que debe regirlo necesariamente y que constituye un obstáculo insuperable para su realización.
+
+ART. 1665.- No se considerará imposible el hecho que no pueda ejecutarse por el obligado, pero sí por otra persona en lugar de él.
+
+ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público o a las buenas costumbres.
+
+ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
+
+Forma
+
+ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
+
+ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
+
+ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
+
+Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
 
 Cláusulas que pueden contener los Contratos
 
@@ -5827,12 +5939,6 @@ ART. 1694.- Los contratos que no están especialmente reglamentados en este Cód
 
 ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
 
-De la Capacidad
-
-ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
-
-ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
-
 Vicios del Consentimiento
 
 ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
@@ -5859,51 +5965,21 @@ ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del do
 
 ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
 
-Del objeto y del motivo o fin de los Contratos
+De la Capacidad
 
-ART. 1660.- Son objeto de los contratos:
+ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
 
-I.- La cosa que el obligado debe dar;
+ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
 
-II.- El hecho que el obligado debe hacer o no hacer.
+División de los Contratos
 
-ART. 1661.- La cosa objeto del contrato debe: 1o. Existir en la naturaleza. 2o. Ser determinada o determinable en cuanto a su especie. 3o. Estar en el comercio.
+ART. 1671.- El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
 
-ART. 1662.- Las cosas futuras pueden ser objeto de un contrato. Sin embargo, no puede serlo la herencia de una persona viva, aun cuando ésta preste su consentimiento.
+ART. 1672.- El contrato es bilateral cuando las partes se obligan recíprocamente.
 
-ART. 1663.- El hecho positivo o negativo, objeto del contrato, debe ser:
+ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
 
-I.- Posible;
-
-II.- Lícito.
-
-ART. 1664.- Es imposible el hecho que no puede existir porque es incompatible con una ley de la naturaleza o con una norma jurídica que debe regirlo necesariamente y que constituye un obstáculo insuperable para su realización.
-
-ART. 1665.- No se considerará imposible el hecho que no pueda ejecutarse por el obligado, pero sí por otra persona en lugar de él.
-
-ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público o a las buenas costumbres.
-
-ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
-
-Representación
-
-ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
-
-ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
-
-ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
-
-Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
-
-Forma
-
-ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
-
-ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
-
-ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
-
-Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
+ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
 
 ### CAPITULO II. De la declaración unilateral de la voluntad
 
@@ -6125,6 +6201,8 @@ ART. 1769.- Los jefes de familia que habiten una casa o parte de ella, son respo
 
 ART. 1770.- La acción para exigir la reparación de los daños causados en los términos del presente Capítulo, prescribe en dos años contados a partir del día en que se haya causado el daño.
 
+## TITULO SEGUNDO. Modalidades de las Obligaciones
+
 ### CAPITULO I. De las Obligaciones Condicionales
 
 ART. 1771.- La obligación es condicional cuando su existencia o su resolución dependen de un acontecimiento futuro e incierto.
@@ -6178,8 +6256,6 @@ ART. 1783.- La resolución del contrato fundado en falta de pago por parte del a
 ART. 1784.- Respecto de bienes muebles no tendrá lugar la rescisión, salvo lo previsto para las ventas en las que se faculte al comprador a pagar el precio en abonos.
 
 ART. 1785.- Si la rescisión del contrato dependiere de un tercero y éste fuere dolosamente inducido a rescindirlo, se tendrá por no rescindido.
-
-## TITULO SEGUNDO. Modalidades de las Obligaciones
 
 ### CAPITULO II. De las Obligaciones a Plazo
 
@@ -6409,6 +6485,8 @@ Esto mismo se observará si no lo hiciere de la manera convenida. En este caso e
 
 ART. 1861.- El que estuviere obligado a no hacer alguna cosa, quedará sujeto al pago de daños y perjuicios en caso de contravención. Si hubiere obra material, podrá exigir al acreedor que sea destruída a costa del obligado.
 
+## TITULO TERCERO. De la Transmisión de las Obligaciones
+
 ### CAPITULO I. De la Cesión de Derechos
 
 ART. 1862.- Habrá cesión de derechos cuando el acreedor transfiere a otro los que tenga contra su deudor.
@@ -6467,8 +6545,6 @@ ART. 1882.- El cesionario debe, por su parte, satisfacer al cedente todo lo que 
 
 ART. 1883.- Si la cesión fuere gratuita, el cedente no será responsable para con el cesionario, ni por la existencia del crédito, ni por la solvencia del deudor.
 
-## TITULO TERCERO. De la Transmisión de las Obligaciones
-
 ### CAPITULO II. De la Cesión de Deudas
 
 ART. 1884.- Para que haya substitución de deudor es necesario que el acreedor consienta expresa y tácitamente.
@@ -6502,6 +6578,10 @@ ART. 1892.- Cuando la deuda fuere pagada por el deudor con dinero que un tercero
 ART. 1893.- No habrá subrogación parcial en deudas de solución indivisible.
 
 ART. 1894.- El pago de los subrogados en diversas porciones del mismo crédito, cuando no basten los bienes del deudor para cubrirlos todos, se hará a prorrata.
+
+## TITULO CUARTO. Efectos de las Obligaciones
+
+I.- Efectos de las Obligaciones entre las Partes Cumplimiento de las Obligaciones
 
 ### CAPITULO I. Del Pago
 
@@ -6580,10 +6660,6 @@ ART. 1927.- Las cantidades pagadas a cuenta de deudas con intereses, no se imput
 ART. 1928.- La obligación queda extinguida cuando el acreedor recibe en pago una cosa distinta en lugar de la debida.
 
 ART. 1929.- Si el acreedor sufre la evicción de la cosa que recibe en pago, renacerá la obligación primitiva, quedando sin efecto la dación en pago.
-
-## TITULO CUARTO. Efectos de las Obligaciones
-
-I.- Efectos de las Obligaciones entre las Partes Cumplimiento de las Obligaciones
 
 ### CAPITULO II. Del Ofrecimiento del Pago y de la Consignación
 
@@ -6815,6 +6891,8 @@ ART. 2017.- Luego que se anule un acto simulado, se restituirá la cosa o derech
 
 También subsistirán los gravámenes impuestos a favor de tercero de buena fe.
 
+## TITULO QUINTO. Extinción de las Obligaciones
+
 ### CAPITULO I. De la Compensación
 
 ART. 2018.- Tiene lugar la compensación cuando dos personas reúnen la calidad de deudores y acreedores recíprocamente y por su propio derecho.
@@ -6875,8 +6953,6 @@ ART. 2037.- Las deudas pagaderas en diferente lugar pueden compensarse mediante 
 
 ART. 2038.- La compensación no puede tener lugar en perjuicio de los derechos de tercero legítimamente adquiridos.
 
-## TITULO QUINTO. Extinción de las Obligaciones
-
 ### CAPITULO II. De la Confusión de Derechos
 
 ART. 2039.- La obligación se extingue por confusión cuando las calidades de acreedor y de deudor se reúnen en una misma persona. La obligación renace si la confusión cesa.
@@ -6918,52 +6994,6 @@ ART. 2054.- El acreedor no puede reservarse el derecho de prenda o hipoteca de l
 ART. 2055.- Cuando la novación se efectúe entre el acreedor y algún deudor solidario, los privilegios e hipotecas del antiguo crédito sólo pueden quedar reservados con relación a los bienes del deudor que contrae la nueva obligación.
 
 ART. 2056.- Por la novación hecha entre el acreedor y alguno de los deudores solidarios, quedan exonerados todos los demás codeudores, sin perjuicio de lo dispuesto en el artículo 1832.
-
-### CAPITULO I. Disposiciones Generales
-
-ART. 2081.- Habrá compra-venta cuando uno de los contratantes se obliga a transferir la propiedad de una cosa o de un derecho, y el otro a su vez se obliga a pagar por ellos un precio cierto y en dinero.
-
-ART. 2082.- La venta existe y es obligatoria para las partes cuando se han convenido sobre la cosa y su precio, aunque la primera no haya sido entregada, ni el segundo satisfecho.
-
-ART. 2083.- Si el precio de la cosa vendida se ha de pagar parte en dinero y parte con el valor de otra cosa, el contrato será de venta cuando la parte de numerario sea igual o mayor que la que se pague con el valor de otra cosa. Si la parte en numerario fuere inferior, el contrato será de permuta.
-
-ART. 2084.- Los contratantes pueden convenir en que el precio sea el que corre en día o lugar determinados o el que fije un tercero.
-
-ART. 2085.- Fijado el precio por el tercero, no podrá ser rechazado por los contratantes, sino de común acuerdo.
-
-ART. 2086.- Si el tercero no quiere o no puede señalar el precio, quedará el contrato sin efecto; salvo convenio en contrario.
-
-ART. 2087.- El señalamiento del precio no puede dejarse al arbitrio de uno de los contratantes.
-
-ART. 2088.- El comprador debe pagar el predio (sic) en los términos y plazos convenidos. A falta de convenio lo deberá pagar al contado. La demora en el pago del precio lo constituirá en la obligación de pagar réditos al tipo legal sobre la cantidad que adeude.
-
-ART. 2089.- El precio de frutos y cereales vendidos a plazo a personas no comerciantes y para su consumo, no podrá exceder del mayor que esos géneros tuvieren en el lugar, en el período corrido desde la entrega hasta el fin de la siguiente cosecha.
-
-ART. 2090.- Las compras de cosas que se acostumbra gustar, pesar o medir, no producirán sus efectos sino después que se hayan gustado, pesado o medido los objetos vendidos.
-
-ART. 2091.- Cuando se trate de venta de artículos determinados y perfectamente conocidos, el contrato podrá hacerse sobre muestras.
-
-En caso de desavenencia entre los contratantes, dos peritos nombrados uno por cada parte, y un tercero, para el caso de discordia, nombrado por éstos, resolverán sobre la conformidad o inconformidad de los artículos con las muestras o calidades que sirvieron de base al contrato.
-
-ART. 2092.- Si la venta se hizo sólo a la vista y por acervo, aun cuando sea de cosas que se suelen contar, pesar o medir, se entenderá realizada luego que los contratantes se avengan en el precio, y el comprador no podrá pedir la rescisión del contrato alegando no haber encontrado en el acervo la cantidad, peso o medida que él calculaba.
-
-ART. 2093.- Habrá lugar a la rescisión si el vendedor presentare el acervo como de especie homogénea, y ocultare en él especies de inferior clase y calidad de las que están a la vista.
-
-ART. 2094.- Si la venta de uno o más inmuebles se hiciere por precio alzado y sin estimar especialmente sus partes o medidas, no habrá lugar a la rescisión, aunque en la entrega hubiere falta o exceso.
-
-ART. 2095.- Las acciones que nacen de los artículos 2092 a 2094 prescriben en un año, contado desde el día de la entrega.
-
-ART. 2096.- Los contratantes pagarán por mitad los gastos de escritura y registro, salvo convenio en contrario.
-
-ART. 2097.- Si una misma cosa fuere vendida por el mismo vendedor a diversas personas, se observará lo siguiente:
-
-I.- Si la cosa vendida fuere mueble, prevalecerá la venta primera en fecha; si no fuere posible verificar la prioridad de ésta, prevalecerá la hecha al que se halle en posesión de la cosa;
-
-II.- Si la cosa vendida fuere inmueble, prevalecerá la venta que primero se haya registrado; y si ninguna lo ha sido, se observará lo dispuesto en la fracción anterior.
-
-ART. 2098.- Son nulas las ventas que produzcan la concentración o acaparamiento, en una o en pocas manos, de artículos de consumo necesario, y que tengan por objeto obtener el alza de los precios de esos artículos.
-
-ART. 2099.- Las ventas al menudeo de bebidas embriagantes hechas al fiado en cantinas, no dan derecho para exigir su precio.
 
 ## TITULO SEXTO. De la Inexistencia y de la Nulidad
 
@@ -7022,6 +7052,52 @@ ART. 2079.- Para que la promesa de contratar sea válida debe constar por escrit
 ART. 2080.- Si el promitente rehusa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el juez; salvo el caso de que la cosa ofrecida haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
 
 ## TITULO SEGUNDO. De la Compra-Venta
+
+### CAPITULO I. Disposiciones Generales
+
+ART. 2081.- Habrá compra-venta cuando uno de los contratantes se obliga a transferir la propiedad de una cosa o de un derecho, y el otro a su vez se obliga a pagar por ellos un precio cierto y en dinero.
+
+ART. 2082.- La venta existe y es obligatoria para las partes cuando se han convenido sobre la cosa y su precio, aunque la primera no haya sido entregada, ni el segundo satisfecho.
+
+ART. 2083.- Si el precio de la cosa vendida se ha de pagar parte en dinero y parte con el valor de otra cosa, el contrato será de venta cuando la parte de numerario sea igual o mayor que la que se pague con el valor de otra cosa. Si la parte en numerario fuere inferior, el contrato será de permuta.
+
+ART. 2084.- Los contratantes pueden convenir en que el precio sea el que corre en día o lugar determinados o el que fije un tercero.
+
+ART. 2085.- Fijado el precio por el tercero, no podrá ser rechazado por los contratantes, sino de común acuerdo.
+
+ART. 2086.- Si el tercero no quiere o no puede señalar el precio, quedará el contrato sin efecto; salvo convenio en contrario.
+
+ART. 2087.- El señalamiento del precio no puede dejarse al arbitrio de uno de los contratantes.
+
+ART. 2088.- El comprador debe pagar el predio (sic) en los términos y plazos convenidos. A falta de convenio lo deberá pagar al contado. La demora en el pago del precio lo constituirá en la obligación de pagar réditos al tipo legal sobre la cantidad que adeude.
+
+ART. 2089.- El precio de frutos y cereales vendidos a plazo a personas no comerciantes y para su consumo, no podrá exceder del mayor que esos géneros tuvieren en el lugar, en el período corrido desde la entrega hasta el fin de la siguiente cosecha.
+
+ART. 2090.- Las compras de cosas que se acostumbra gustar, pesar o medir, no producirán sus efectos sino después que se hayan gustado, pesado o medido los objetos vendidos.
+
+ART. 2091.- Cuando se trate de venta de artículos determinados y perfectamente conocidos, el contrato podrá hacerse sobre muestras.
+
+En caso de desavenencia entre los contratantes, dos peritos nombrados uno por cada parte, y un tercero, para el caso de discordia, nombrado por éstos, resolverán sobre la conformidad o inconformidad de los artículos con las muestras o calidades que sirvieron de base al contrato.
+
+ART. 2092.- Si la venta se hizo sólo a la vista y por acervo, aun cuando sea de cosas que se suelen contar, pesar o medir, se entenderá realizada luego que los contratantes se avengan en el precio, y el comprador no podrá pedir la rescisión del contrato alegando no haber encontrado en el acervo la cantidad, peso o medida que él calculaba.
+
+ART. 2093.- Habrá lugar a la rescisión si el vendedor presentare el acervo como de especie homogénea, y ocultare en él especies de inferior clase y calidad de las que están a la vista.
+
+ART. 2094.- Si la venta de uno o más inmuebles se hiciere por precio alzado y sin estimar especialmente sus partes o medidas, no habrá lugar a la rescisión, aunque en la entrega hubiere falta o exceso.
+
+ART. 2095.- Las acciones que nacen de los artículos 2092 a 2094 prescriben en un año, contado desde el día de la entrega.
+
+ART. 2096.- Los contratantes pagarán por mitad los gastos de escritura y registro, salvo convenio en contrario.
+
+ART. 2097.- Si una misma cosa fuere vendida por el mismo vendedor a diversas personas, se observará lo siguiente:
+
+I.- Si la cosa vendida fuere mueble, prevalecerá la venta primera en fecha; si no fuere posible verificar la prioridad de ésta, prevalecerá la hecha al que se halle en posesión de la cosa;
+
+II.- Si la cosa vendida fuere inmueble, prevalecerá la venta que primero se haya registrado; y si ninguna lo ha sido, se observará lo dispuesto en la fracción anterior.
+
+ART. 2098.- Son nulas las ventas que produzcan la concentración o acaparamiento, en una o en pocas manos, de artículos de consumo necesario, y que tengan por objeto obtener el alza de los precios de esos artículos.
+
+ART. 2099.- Las ventas al menudeo de bebidas embriagantes hechas al fiado en cantinas, no dan derecho para exigir su precio.
 
 ### CAPITULO II. De la materia de la Compra-Venta
 
@@ -7187,11 +7263,7 @@ ART. 2148.- El contrato de compraventa de bienes inmuebles, requiere para su val
 
 ART. 2149.- Al otorgarse una escritura pública de compraventa, si alguno de los contratantes no supiere escribir, firmará a su nombre y ruego otra persona con capacidad legal; observándose lo dispuesto en el párrafo segundo del Artículo 1670.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1993)</small>
-
-ART. 2150.- Tratándose de bienes ya inscritos en el Registro y cuyo valor no exceda de trescientos sesenta y cinco veces el salario mínimo general diario vigente en el Estado en el momento de la operación cuando la venta sea al contado, podrá formalizarse haciéndola constar por escrito en el certificado de inscripción de propiedad que el registrador tiene la obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
-
-La constancia de la venta será ratificada ante el registrador, quien tiene la obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compraventa realizada en esta forma, hará una nueva inscripción de los bienes vendidos en favor del comprador.
+ART. 2150.- (DEROGADO, P.O. 20 DE MARZO DE 2003)
 
 ART. 2151.- La venta de bienes raíces no producirá efectos contra tercero sino después de registrada en los términos prescritos en este Código.
 
@@ -7204,6 +7276,20 @@ ART. 2153.- No pueden rematar por sí ni por interpósita persona, el juez, secr
 ART. 2154.- Por regla general, las ventas judiciales se harán en moneda efectiva y al contado, y cuando la cosa fuere inmueble, pasará al comprador libre de todo gravamen, a menos de estipulación expresa en contrario, a cuyo efecto el juez mandará hacer la cancelación o cancelaciones respectivas, en los términos que disponga el Código de Procedimientos Civiles.
 
 ART. 2155.- En las enajenaciones judiciales que hayan de verificarse para dividir cosa común, se observará lo dispuesto para la partición entre herederos.
+
+## TITULO TERCERO. De la Permuta
+
+ART. 2156.- La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2083.
+
+ART. 2157.- Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dió, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
+
+ART. 2158.- El permutante que sufra la evicción de la cosa que recibió en cambio, podrá reivindicar la que dió, si se halla aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
+
+ART. 2159.- Lo dispuesto en el artículo anterior, no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame el que sufrió la evicción.
+
+ART. 2160.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compra-venta, en cuanto no se opongan a los artículos anteriores.
+
+## TITULO CUARTO. De las Donaciones
 
 ### CAPITULO I. De las Donaciones en General
 
@@ -7258,20 +7344,6 @@ ART. 2183.- Si la donación fuere de ciertos y determinados bienes, el donatario
 ART. 2184.- Si la donación fuere de todos los bienes, el donatario será responsable de todas las deudas del donante anteriormente contraídas; pero sólo hasta la cantidad concurrente con los bienes donados y siempre que las deudas tengan fecha auténtica.
 
 ART. 2185.- Salvo que el donador dispusiere otra cosa, las donaciones que consistan en prestaciones periódicas se extinguen con la muerte del donante.
-
-## TITULO TERCERO. De la Permuta
-
-ART. 2156.- La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2083.
-
-ART. 2157.- Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dió, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
-
-ART. 2158.- El permutante que sufra la evicción de la cosa que recibió en cambio, podrá reivindicar la que dió, si se halla aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
-
-ART. 2159.- Lo dispuesto en el artículo anterior, no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame el que sufrió la evicción.
-
-ART. 2160.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compra-venta, en cuanto no se opongan a los artículos anteriores.
-
-## TITULO CUARTO. De las Donaciones
 
 ### CAPITULO II. De las personas que pueden recibir Donaciones
 
@@ -7347,6 +7419,8 @@ ART. 2211.- Cuando la reducción no exceda de la mitad del valor del inmueble, e
 
 ART. 2212.- Revocada o reducida, una donación por inoficiosa, el donatario sólo responderá de los frutos desde que fuere demandado.
 
+## TITULO QUINTO. Del Mutuo
+
 ### CAPITULO I. Del Mutuo Simple
 
 ART. 2213.- El mutuo es un contrato por el cual el mutuante se obliga a transferir la propiedad de una suma de dinero o de otras cosas fungibles al mutuatario, quien se obliga a devolver otro tanto de la misma especie y calidad.
@@ -7377,8 +7451,6 @@ ART. 2220.- En el caso de haberse pactado que la restitución se hará cuando pu
 
 ART. 2221.- No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
 
-## TITULO QUINTO. Del Mutuo
-
 ### CAPITULO II. Del Mutuo con Interés
 
 ART. 2222.- Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géneros.
@@ -7390,6 +7462,8 @@ ART. 2224.- El interés legal es el nueve por ciento anual. El interés convenci
 ART. 2225.- Si se ha convenido un interés más alto que el legal, el deudor, después de seis meses contados desde que se celebró el contrato, puede reembolsar el capital, cualquiera que sea el plazo fijado para ello, dando aviso al acreedor con dos meses de anticipación y pagando los intereses vencidos.
 
 ART. 2226.- Las partes no pueden, bajo pena de nulidad, convenir de antemano que los intereses se capitalicen y que produzcan intereses.
+
+## TITULO SEXTO. Del Arrendamiento
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -7428,8 +7502,6 @@ Esto mismo ocurrirá cuando un bien inmueble propiedad del Estado se acuerde des
 ART. 2239.- Si la transmisión de la propiedad se hiciere por causa de utilidad pública, el contrato se rescindirá, pero el arrendador y el arrendatario deberán ser indemnizados por el expropiador, conforme a lo que establezca la Ley respectiva.
 
 ART. 2240.- Los arrendamientos de bienes del Estado, municipales o de establecimientos públicos, estarán sujetos a las leyes respectivas y en lo que no lo estuvieren, a las disposiciones de este Título.
-
-## TITULO SEXTO. Del Arrendamiento
 
 ### CAPITULO II. De los Derechos y Obligaciones del Arrendador
 
@@ -7675,6 +7747,48 @@ ART. 2325.- Si el predio dado en arrendamiento fuere enajenado judicialmente, el
 
 ART. 2326.- En los casos de expropiación y de ejecución judicial, se observará lo dispuesto en los artículos 2286, 2287 y 2288.
 
+## TITULO SEPTIMO. Del Comodato
+
+ART. 2327.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
+
+ART. 2328.- Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituidas idénticamente.
+
+ART. 2329.- Los tutores, curadores y en general todos los administradores de bienes ajenos, no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
+
+ART. 2330.- Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
+
+ART. 2331.- El comodatario adquiere el uso, pero no los frutos y accesiones de la cosa prestada.
+
+ART. 2332.- EL comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
+
+ART. 2333.- Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior de ella, abandonando su propiedad al comodatario.
+
+ART. 2334.- El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aún cuando aquélla sobrevenga por caso fortuito.
+
+ART. 2335.- Si la cosa perece por caso fortuito, de que el comodatario haya podido garantizarla, empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
+
+ART. 2336.- Si la cosa ha sido estimada al prestarla, su pérdida, aún cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio si no hay convenio expreso en contrario.
+
+ART. 2337.- Si la cosa se deteriora por el sólo efecto del uso para que fue prestada, y sin culpa del comodatario, no es éste responsable del deterioro.
+
+ART. 2338.- El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
+
+ART. 2339.- Tampoco tiene derecho el comodatario para retener la cosa a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
+
+ART. 2340.- Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
+
+ART. 2341.- Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso a plazo, incumbe al comodatario.
+
+ART. 2342.- El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
+
+ART. 2343.- Si durante el préstamo el comodatario ha tenido que hacer, para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, éste tendrá obligación de reembolsarlo.
+
+ART. 2344.- Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirva de ella, el comodante es responsable de éstos, si conocía los defectos y no dió aviso oportuno al comodatario.
+
+ART. 2345.- El comodato termina por la muerte del comodatario.
+
+## TITULO OCTAVO. Del Depósito y del Secuestro
+
 ### CAPITULO I. Del Depósito
 
 ART. 2346.- El depósito es un contrato por el cual el depositario se obliga hacia el depositante a recibir una cosa, mueble o inmueble, que aquél le confía, y a guardarla para restituirla cuando la pida el depositante.
@@ -7727,48 +7841,6 @@ ART. 2367.- El posadero no se exime de la responsabilidad que le imponen los dos
 
 ART. 2368.- Las fondas, cafés, casas de baño y otros establecimientos semejantes, no responden de los efectos que introduzcan los parroquianos, a menos que los pongan bajo el cuidado de los empleados del establecimiento.
 
-## TITULO SEPTIMO. Del Comodato
-
-ART. 2327.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
-
-ART. 2328.- Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituidas idénticamente.
-
-ART. 2329.- Los tutores, curadores y en general todos los administradores de bienes ajenos, no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
-
-ART. 2330.- Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
-
-ART. 2331.- El comodatario adquiere el uso, pero no los frutos y accesiones de la cosa prestada.
-
-ART. 2332.- EL comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
-
-ART. 2333.- Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior de ella, abandonando su propiedad al comodatario.
-
-ART. 2334.- El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aún cuando aquélla sobrevenga por caso fortuito.
-
-ART. 2335.- Si la cosa perece por caso fortuito, de que el comodatario haya podido garantizarla, empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
-
-ART. 2336.- Si la cosa ha sido estimada al prestarla, su pérdida, aún cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio si no hay convenio expreso en contrario.
-
-ART. 2337.- Si la cosa se deteriora por el sólo efecto del uso para que fue prestada, y sin culpa del comodatario, no es éste responsable del deterioro.
-
-ART. 2338.- El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
-
-ART. 2339.- Tampoco tiene derecho el comodatario para retener la cosa a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
-
-ART. 2340.- Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
-
-ART. 2341.- Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso a plazo, incumbe al comodatario.
-
-ART. 2342.- El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
-
-ART. 2343.- Si durante el préstamo el comodatario ha tenido que hacer, para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, éste tendrá obligación de reembolsarlo.
-
-ART. 2344.- Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirva de ella, el comodante es responsable de éstos, si conocía los defectos y no dió aviso oportuno al comodatario.
-
-ART. 2345.- El comodato termina por la muerte del comodatario.
-
-## TITULO OCTAVO. Del Depósito y del Secuestro
-
 ### CAPITULO II. Del Secuestro
 
 ART. 2369.- El secuestro es el depósito de una cosa litigosa en poder de un tercero, hasta que se decida a quien debe entregarse.
@@ -7784,6 +7856,8 @@ ART. 2373.- Fuera de las excepciones acabadas de mencionar, rigen para el secues
 ART. 2374.- Secuestro judicial es el que se constituye por decreto del juez.
 
 ART. 2375.- El secuestro judicial se rige por las disposiciones del Código de Procedimientos Civiles y, en su defecto, por las mismas del secuestro convencional.
+
+## TITULO NOVENO. Del Mandato
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -7850,8 +7924,6 @@ ART. 2391.- Cuando el mandatario obra en su propio nombre, el mandante no tiene 
 En este caso, el mandatario es el obligado directamente en favor de la persona con quien ha contratado, como si el asunto fuere personal suyo. Exceptúase el caso en que se trate de cosas propias del mandante.
 
 Lo dispuesto en este artículo se entiende sin perjuicio de las acciones entre mandante y mandatario.
-
-## TITULO NOVENO. Del Mandato
 
 ### CAPITULO II. De las Obligaciones del Mandatario con respecto del Mandante
 
@@ -8015,11 +8087,11 @@ ART. 2433.- El mandatario que renuncie tiene obligación de seguir el negocio mi
 
 ART. 2434.- Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero que ignora el término de la procuración, no obliga al mandante, fuera del caso previsto en el artículo 2427.
 
+## TITULO DECIMO. Del Contrato de Prestación de Servicios
+
 ### CAPITULO I. Del Servicio Doméstico, del Servicio por Jornal, del Servicio a Precio Alzado en el que el operario sólo pone su trabajo y del Contrato de Aprendizaje
 
 ART. 2435.- El servicio doméstico, el servicio por jornal, el servicio a precio alzado en el que el operario sólo pone su trabajo, y el contrato de aprendizaje, se regirán por la Ley Federal del Trabajo.
-
-## TITULO DECIMO. Del Contrato de Prestación de Servicios
 
 ### CAPITULO II. De la prestación de Servicios Profesionales
 
@@ -9097,6 +9169,8 @@ ART. 2793.- No podrá intentarse demanda contra el valor o subsistencia de una t
 
 TERCERA PARTE
 
+## TITULO PRIMERO. De la concurrencia y prelación de los Créditos
+
 ### CAPITULO I. Disposiciones Generales
 
 ART. 2794.- El deudor responde del cumplimiento de sus obligaciones con todos sus bienes, con excepción de aquellos que, conforme a la Ley son inalienables o no embargables.
@@ -9146,8 +9220,6 @@ ART. 2807.- Concurriendo diversos acreedores de la misma clase y número, serán
 ART. 2808.- Los gastos judiciales hechos por un acreedor, en lo particular, serán pagados en el lugar en que deba serlo el crédito que los haya causado.
 
 ART. 2809.- El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo prevenga sólo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las penas que merezcan por el fraude.
-
-## TITULO PRIMERO. De la concurrencia y prelación de los Créditos
 
 ### CAPITULO II. De los Créditos Hipotecarios y Pignoraticios y de algunos otros privilegios
 
@@ -9249,6 +9321,8 @@ ART. 2827.- Pagados los créditos enumerados en los capítulos que preceden, se 
 
 ART. 2828.- Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a la fecha ni al origen de los créditos.
 
+## TITULO SEGUNDO. Del Registro Público
+
 ### CAPITULO I. Del Registro Público de la Propiedad
 
 ART. 2829.- Habrá Oficinas del Registro Público de la Propiedad en la Capital del Estado y en cada una de las cabeceras de los distintos Distritos Judiciales.
@@ -9259,15 +9333,15 @@ ART. 2831.- El Registro será público. Los encargados de la oficina tienen la o
 
 Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el artículo 1409.
 
-## TITULO SEGUNDO. Del Registro Público
-
 ### CAPITULO II. De los títulos sujetos a registro y de los efectos legales del registro
 
 ART. 2832.- Se inscribirán en el Registro:
 
 I.- Los títulos por los cuales se adquiere, transmite, modifica, grava o extingue el dominio, la posesión o los demás derechos reales sobre inmuebles;
 
-II.- La constitución del patrimonio de familia;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2003)</small>
+
+II.- La constitución y extinción del patrimonio de la familia;
 
 III.- Los contratos de arrendamiento de bienes inmuebles por un período mayor de seis años y aquellos en que haya anticipos de rentas por más de tres;
 
@@ -9720,3 +9794,9 @@ En todo lo no previsto, se aplicará supletoriamente el Código de Procedimiento
 TERCERO. La vista que se de al Ministerio Público tratándose de rectificación de actas del registro civil, conforme lo dispone el artículo 40 tercer párrafo del Código Civil que se reforma con este Decreto, deberá ser desahogada por éste en un término no mayor de tres días hábiles contados a partir del siguiente al en que la reciba; de no hacerlo, se le tendrá por manifestando (sic) su conformidad con la rectificación respectiva.
 
 CUARTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
