@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-pecuario-del-estado-de-jalisco-12361"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-04"
-last_updated: "1994-01-04"
+last_updated: "1995-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1995
 
 Ley publicada en P.O. 4 de enero de 1994 Sección III
 
@@ -293,7 +293,9 @@ I. El nombre del propietario, ubicación del predio, el ganado registrado, los f
 
 II. Fecha de inscripción y demás datos que faciliten la identificación del ganado y las generales del propietario;
 
-III. No podrán registrar fierro de herrar los engordadores e introductores de ganado a centros de sacrificio; y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+
+III. Quienes se dediquen a la actividad de engorda de ganado vacuno en pila, deberán registrar un fierro de herrar ganado, exclusivamente para esta actividad, siendo diferente a la figura del criador. El engordador deberá acreditar la propiedad de ganado que comercialice, con la factura de adquisición. Toda aquella persona que se dedique exclusivamente a la introducción de ganado a los centros de sacrificio y a la compra-venta de ganado para tal fin, podrá registrar fierro ni marca alguna; y
 
 IV. La Secretaría de Desarrollo Rural, no registrará ninguna señal, marca o fierro de fácil alteración, igual o con estrecha semejanza con otra ya registrada, en el municipio. Se dará preferencia a quien primero hubiese solicitado el registro de la señal, marca o fierro de herrar.
 
@@ -877,7 +879,7 @@ El Reglamento de esta Ley y el de clasificación de productos y subproductos pec
 
 ###### ARTICULO QUINTO.
 
-Una vez que entre en vigor la presente Ley, se deberán cancelar por la Secretaría de Desarrollo Rural los permisos de herrar, de engordadores, comisionistas e introductores. Respetándose únicamente los fierros de criador.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO SEXTO.
 
@@ -910,3 +912,9 @@ Lic. Carlos Rivera Aceves
 El Secretario General de Gobierno
 
 Lic. José Luis Leal Sanabria
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE NOVIEMBRE DE 1995
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
