@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "1993-03-27"
+last_updated: "1993-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1993.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1275,7 +1275,9 @@ El que debiendo ser examinado en juicio y sin que le aprovechen las excepciones 
 
 Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumará el delito de desobediencia cuando se hubiere agotado el medio de apremio que el juez haya dictado.
 
-### CAPITULO II. EXPEDICION ILICITA DE BEBIDAS ALCOHOLICAS
+### CAPITULO II. DE LA COMERCIALIZACION DEL AGUA
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 185.
 
@@ -1411,13 +1413,13 @@ El que sabiendo que padece un mal venéreo en período infectante o el síndrome
 
 Cuando se trate de cónyuges o concubinos, sólo podrá procederse por querella del ofendido.
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE NOVIEMBRE DE 1993)</small>
 
 ### CAPITULO IX. USO INDEBIDO DE ATRIBUCIONES Y FACULTADES
 
 ###### ARTICULO 204.
 
-(DEROGADO, P.O. 22 DE JUNIO DE 1988)
+Al que sin autorización de la autoridad competente o contraviniendo las normas técnicas sanitarias, embotelle y enajene agua no purificada o fabrique hielo no purificado destinados al consumo humano, será sancionado con prisión de seis meses a tres años y con multa de quince a cincuenta días salario, sin perjuicio de la pena que corresponda si con la comisión de este delito concurre otro.
 
 ### CAPITULO X. INTIMIDACION
 
@@ -1435,7 +1437,7 @@ Al responsable del delito de revelación de secretos se le impondrá una sanció
 
 ###### ARTICULO 207.
 
-Cuando la revelación punible sea hecha por personas que presten servicios profesionales o técnicos, o cuando el secreto revelado o publicado sea de carácter industrial, la sanción será de uno a cinco años de prisión y multa de treinta a setenta días salario, y en su caso, suspensión de profesión o inhabilitación de dos meses a un año.
+Cuando la revelación punible sea hecha por personas que preste servicios profesionales o técnicos, o cuando el secreto revelado o publicado sea de carácter industrial, la sanción será de uno a cinco años de prisión y multa de treinta a setenta días salario, y en su caso, suspensión de profesión o inhabilitación de dos meses a un año.
 
 ### CAPITULO XII. TRAFICO DE INFLUENCIA
 
@@ -1455,9 +1457,7 @@ III.- Los Organismos Descentralizados de las Entidades referidas en las dos frac
 
 Se impondrán las mismas sanciones previstas para el delito de que se trate a cualquier persona que participe en la perpetración de alguno de los delitos previstos en este título o el subsecuente.
 
-### CAPITULO UNICO
-
-DESEMPEÑO DE FUNCIONES JUDICIALES O ADMINISTRATIVAS.
+### CAPITULO UNICO. DESEMPEÑO DE FUNCIONES JUDICIALES O ADMINISTRATIVAS
 
 ###### ARTICULO 209.
 
@@ -1479,7 +1479,7 @@ Comete el delito de abandono de funciones públicas el que sin habérsele admiti
 
 ###### ARTICULO 211.
 
-A los responsables de los delitos previstos en este capítulo, se les impondrá una sanción de dos a seis años de prisión y multa de cien a cuatrocientos días de salario y destitución en su caso, e inhabilitación de tres a seis años para desempeñar un empleo, cargo o comisión públicos.
+A los responsables de los delitos previstos en este capítulo, se les impondrá una sanción de dos a seis años de prisión y multa de cien a cuatrocientos días de salario y destitución en su caso, e inhabilitación de tres a seis años para desempeñar un empleo, cargo o comisión pública.
 
 ### CAPITULO I. RESPONSABILIDAD MEDICA, TECNICA Y ADMINISTRATIVA
 
@@ -1517,9 +1517,9 @@ XI.- Otorgue cualquier identificación en que se acredite como servidor público
 
 ###### ARTICULO 213.
 
-Se sancionará con una pena de tres a doce años de prisión, multa de doscientos a cuatrocientos días de salario, destitución del cargo e inhabilitación de dos a catorce años para desempeñar otro empleo, cargo o comisión pública, al servidor público que ordene, consienta o aplique intencionalmente a una persona golpes, azotes, quemaduras, mutilaciones o cualquier otro tipo de violencia física o moral con el objeto de obtener de ella o de un tercero información, confesión de culpabilidad o cualquier otra conducta que dañe al pasivo o beneficie al servidor o a un tercero.
+Se sancionará con una pena de tres a doce años de prisión, multa de doscientos a cuatrocientos días de salario, destitución del cargo e inhabilitación de dos a catorce años para desempeñar otro empleo, cargo o comisión públicos, al servidor público que ordene, consienta o aplique intencionalmente a una persona golpes, azotes, quemaduras, mutilaciones o cualquier otro tipo de violencia física o moral con el objeto de obtener de ella o de un tercero información, confesión de culpabilidad o cualquier otra conducta que dañe al pasivo o beneficie al servidor o a un tercero.
 
-Las mismas penas previstas en este Artículo se aplicarán al servidor público que, con motivo del ejercicio de su cargo, instigue, compela o a un tercero o se sirva de él para infligir a una persona dolores o sufrimientos graves, sean físicos o psíquicos; o no evite que se inflijan dichos dolores o sufrimientos a una persona que esté bajo su custodia.
+Las mismas penas previstas en este Artículo se aplicarán al servidor público que, con motivo del ejercicio de su cargo, instigue, compela o autorice a un tercero o se sirva de él para infligir a una persona dolores o sufrimientos graves, sean físicos o psíquicos; o no evite que se inflijan dichos dolores o sufrimientos a una persona que esté bajo su custodia.
 
 Se aplicarán las mismas penas al tercero que, con cualquier finalidad, instigado o autorizado, explícita o implícitamente, por un servidor público, inflija dolores o sufrimientos graves sean físicos o psíquicos a un detenido.
 
@@ -1675,7 +1675,7 @@ I.- Cuando la cuantía a que asciendan las operaciones a que hace referencia est
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
 
-II.- Cuando la cuantía de las operaciones exceda de mil pero no de tres mil días salario, se impondrán de seis a nueve años de prisión, multa de doscientos a cuatrocientos días salario y destitución e inhabilitación de seis a doce años para desempeñar otro empleo, cargo o comisión pública;
+II.- Cuando la cuantía de las operaciones exceda de mil pero no de tres mil días salario, se impondrán de seis a nueve años de prisión, multa de doscientos a cuatrocientos días salario y destitución e inhabilitación de seis a doce años para desempeñar otro empleo cargo o comisión pública;
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
 
@@ -3228,3 +3228,9 @@ P.O. 27 DE MARZO DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor veinte días después de su publicación en el Periódico Oficial del Estado.
