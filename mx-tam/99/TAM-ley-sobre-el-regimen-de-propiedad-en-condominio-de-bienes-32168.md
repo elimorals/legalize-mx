@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-regimen-de-propiedad-en-condominio-de-bienes-32168
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-11"
-last_updated: "2003-06-11"
+last_updated: "2003-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE BIENES INMUEBLES PARA EL ESTADO DE TAMAULIPAS
 
-LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DE BIENES INMUEBLES PARA EL ESTADO DE TAMAULIPAS.
+LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE BIENES INMUEBLES PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el miércoles 11 de junio de 2003.
 
@@ -122,6 +122,10 @@ d) Mixtos.- Son aquellos en donde las unidades de propiedad exclusiva se destina
 Los condominios habitacionales, independientemente de su denominación o clasificación, que constituyan una acción de crecimiento y desarrollo urbano por la acción de dividir un predio para su enajenación en porciones de terreno individuales, consideradas como unidades en condominio o de propiedad exclusiva y que representan a su vez una parte alícuota o indiviso sobre bienes comunes, que requieren el trazo de una o más vías públicas y la introducción de servicios urbanos, estarán sujetos a las disposiciones derivadas de la Ley para el Ordenamiento Territorial y Desarrollo Urbano del Estado de Tamaulipas, por considerarlos fraccionamiento de acuerdo con lo dispuesto por el artículo 52, fracción I, 79 y 80 de dicha ley, con la obligación de ceder a favor del Municipio las superficies de terreno consideradas como vías públicas y el diez por ciento como destinos, sobre el área vendible resultante.
 
 No se tendrá la obligación de ceder el diez por ciento como destinos a que se refiere el párrafo anterior, cuando en el propio condominio se destine irreversiblemente dicha área para parques, jardines y plazas, equipamiento básico de áreas deportivas, caseta de vigilancia y asistencia social en las proporciones y términos establecidos en la fracción V del artículo 80 de la propia Ley para el Ordenamiento Territorial y Desarrollo Urbano.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2003)</small>
+
+En tratándose de condominios horizontales habitacionales, cuando el predio en el que se vayan a realizar las edificaciones de las unidades del mismo o lotes de terreno para futura edificación, tenga una dimensión comprendida dentro de una manzana del desarrollo urbano natural del Municipio correspondiente, el trazo de la vía de acceso y salida al condominio tiene carácter de bien de uso común y copropiedad de los condóminos, por lo que podrá diseñarse y realizarse en los términos que determinen los propios condóminos, sin que resulten aplicables las disposiciones de la Ley para el Ordenamiento Territorial y Desarrollo Urbano del Estado, en materia de fraccionamientos. A su vez, las instalaciones de drenaje y alumbrado tienen el mismo carácter y son copropiedad de los condóminos. En todo caso, la autoridad municipal determinará si de acuerdo al tamaño del predio que comprende al condominio habitacional, las vías internas de acceso y salida al mismo tienen una dimensión adecuada para el proyecto específico de construcción.
 
 ###### ARTÍCULO 6º.
 
@@ -910,3 +914,9 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veintiocho días del mes de Mayo del año dos mil tres.
 
 ATENTAMENTE.-"SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE NOVIEMBRE DE 2003.
+
+Artículo Unico - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
