@@ -4,7 +4,7 @@ identifier: "FED-ley-de-presupuesto-contabilidad-y-gasto-publico-federal-14"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1976-12-31"
+last_updated: "1977-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1976-12-30"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1977.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 31 de diciembre de 1976
 
@@ -161,9 +161,11 @@ VIII. Comentarios sobre las condiciones económicas, financieras y hacendarias a
 
 IX. En general, toda la información que se considere útil para mostrar la proposición en forma clara y completa.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
 ###### Artículo 20.
 
-El Proyecto de Presupuesto de Egresos de la Federación y el del Departamento del Distrito Federal, deberán ser presentados oportunamente al Presidente de la República, por la Secretaría de Programación y Presupuesto, para ser enviados a la Cámara de Diputados a más tardar el día 15 de diciembre del año inmediato anterior al que corresponda.
+El Proyecto de Presupuesto de Egresos de la Federación y el del Departamento del Distrito Federal deberán ser presentados oportunamente al Presidente de la República por la Secretaría de Programación y Presupuesto, para ser enviados a la Cámara de Diputados a más tardar el día 30 de noviembre del año inmediato anterior al que correspondan.
 
 ###### Artículo 21.
 
@@ -183,11 +185,15 @@ Las entidades a que se refieren las fracciones VI a VIII del artículo 2o., pres
 
 ### CAPITULO III. Del Ejercicio del Gasto Público Federal
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
 ###### Artículo 25.
 
-El Ejecutivo Federal por conducto de la Secretaría de Programación y Presupuesto, podrá asignar los recursos que se obtengan en exceso de los previstos en los Presupuestos de Egresos de la Federación y del Departamento del Distrito Federal, a los programas que considere convenientes y autorizará los traspasos de partidas cuando sea procedente, dándole la participación que corresponda a las Entidades interesadas. En tratándose de ingresos extraordinarios derivados de empréstitos, el gasto deberá ajustarse a lo dispuesto por el Decreto del Presupuesto de Egresos de la Federación. De los movimientos que se efectúen en los términos de este Artículo, el Ejecutivo informará al Congreso de la Unión al rendir la Cuenta de Hacienda Pública Federal.
+El Ejecutivo Federal, por conducto de la Secretaría de Programación y Presupuesto podrá asignar los recursos que se obtengan en exceso de los previstos en los Presupuestos de Egresos de la Federación y del Departamento del Distrito Federal, a los programas que considere convenientes y autorizará los traspasos de partidas cuando sea procedente, dándole la participación que corresponda a las Entidades interesadas. En tratándose de ingresos extraordinarios derivados de empréstitos, el gasto deberá ajustarse a lo dispuesto por el Decreto del Presupuesto de Egresos de la Federación. De los movimientos que se efectúen en los términos de este artículo, el Ejecutivo informará a la Cámara de Diputados del Congreso de la Unión al rendir la Cuenta de la Hacienda Pública Federal.
 
 El gasto público federal deberá ajustarse al monto autorizado para los programas y partidas presupuestales, salvo que se trate de las partidas que se señalen como de ampliación automática en los presupuestos, para aquellas erogaciones cuyo monto no sea posible prever.
+
+El Ejecutivo Federal determinará la forma en que deberán invertirse los subsidios que otorgue a los Estados, Municipios, instituciones o particulares, quienes proporcionarán a la Secretaría de Programación y Presupuesto la información que se les solicite sobre la aplicación que hagan de los mismos.
 
 ###### Artículo 26.
 
@@ -245,7 +251,9 @@ I. Los sueldos, salarios, honorarios, emolumentos, sobresueldos, compensaciones,
 
 II. Los haberes, sobrehaberes, asignaciones y demás remuneraciones del personal militar; y
 
-III. Las recompensas y las pensiones civiles, militares y de gracia a cargo del Erario Federal.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+III. Las recompensas y las pensiones de gracia a cargo del Erario Federal.
 
 La prescripción sólo se interrumpe por gestión de cobro hecha por escrito.
 
@@ -253,9 +261,11 @@ La prescripción sólo se interrumpe por gestión de cobro hecha por escrito.
 
 Cuando algún funcionario o empleado perteneciente a las entidades a que se refieren las fracciones I a V del artículo 2o. de esta ley fallezca y tuviere cuando menos una antigüedad en el servicio de seis meses los familiares o quienes hayan vivido con él en la fecha del fallecimiento y se hagan cargo de los gastos de inhumación, percibirán hasta el importe de 4 meses de los sueldos, salarios, haberes, gastos de representación, asignaciones de técnico y asignaciones de vuelo que estuviere percibiendo en esa fecha. Cuando el funcionario o empleado fallecido estuviere reconocido, conforme a las disposiciones legales respectivas, como veterano de la Revolución, el beneficio se aumentará hasta el importe de seis meses de las percepciones mencionadas.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
 ###### Artículo 37.
 
-Quienes efectúen gasto público federal estarán obligados a proporcionar a la Secretaría de Programación y Presupuesto, la información que les solicite y a permitirle a su personal la práctica de visitas para la comprobación del cumplimiento de las obligaciones derivadas de esta ley y de las disposiciones expedidas con base en ella.
+Quienes efectúen gasto público federal estarán obligados a proporcionar a la Secretaría de Programación y Presupuesto, la información que les solicite y a permitirle a su personal la práctica de visitas y auditorías para la comprobación del cumplimiento de las obligaciones derivadas de esta ley y de las disposiciones expedidas con base en ella.
 
 ###### Artículo 38.
 
@@ -285,15 +295,65 @@ A su vez, la Secretaría de Programación y Presupuesto, proporcionará a la Sec
 
 La Secretaría de Programación y Presupuesto girará las instrucciones sobre la forma y términos en que las entidades deban llevar sus registros auxiliares y contabilidad y, en su caso, rendirle sus informes y cuentas para fines de contabilización y consolidación. Asimismo, examinará periódicamente el funcionamiento del sistema y los procedimientos de contabilidad de cada entidad y podrá autorizar su modificación o simplificación.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
 ###### Artículo 43.
 
-Los estados financieros y demás información financiera, presupuestal y contable que emanen de las contabilidades de las entidades comprendidas en el Presupuesto de Egresos de la Federación serán consolidados por la Secretaría de Programación y Presupuesto, la que será responsable de formular la cuenta anual de la Hacienda Pública Federal y someterla a la consideración del Presidente de la República, para su presentación a la Cámara de Diputados, en los términos de la fracción I del artículo 65 Constitucional, dentro de los diez primeros días de la apertura de sesiones ordinarias del Congreso de la Unión.
+Los estados financieros y demás información financiera, presupuestal y contable que emanen de las contabilidades de las entidades comprendidas en el Presupuesto de Egresos de la Federación serán consolidados por la Secretaría de Programación y Presupuesto, la que será responsable de formular la Cuenta Anual de la Hacienda Pública Federal y someterla a la consideración del Presidente de la República, para su presentación a la Comisión Permanente del Congreso de la Unión, en los términos del artículo 74 Constitucional, dentro de los diez primeros días de junio del año siguiente al que corresponda.
 
-El Departamento del Distrito Federal formulará su cuenta pública anual, la que se someterá al Presidente de la República por conducto de la Secretaría de Programación y Presupuesto, para los fines señalados en el párrafo anterior.
+El Departamento del Distrito Federal formulará su cuenta pública anual, la que se someterá al Presidente de la República por conducto de la Secretaría de Programación y Presupuesto para los fines señalados en el párrafo anterior.
 
 ###### Artículo 44.
 
 En las dependencias del Ejecutivo y en el Departamento del Distrito Federal se establecerán órganos de auditoría interna, que cumplirán los programas mínimos que fije la Secretaría de Programación y Presupuesto.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+### CAPITULO V. De las Responsabilidades
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 45.
+
+La Secretaría de Programación y Presupuesto, dictará las medidas administrativas sobre las responsabilidades que afecten a la Hacienda Pública Federal y a la del Departamento del Distrito Federal, así como las que deriven del incumplimiento de las disposiciones contenidas en esta ley y de las que se hayan expedido con base en ella, y que se descubran con motivo de las visitas o auditorías que practique, de las investigaciones que realice, de la glosa que de su propia contabilidad hagan las entidades o las derivadas de los pliegos preventivos que levanten las autoridades competentes.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 46.
+
+Los funcionarios y demás personal de las entidades a que se refiere el artículo 2o. de esta Ley, serán responsables de cualquier daño o perjuicio estimable en dinero que sufra la Hacienda Pública Federal y a la del Departamento del Distrito Federal, o cualquier entidad que realice gasto público federal, por actos u omisiones que les sean imputables, o bien por incumplimiento o inobservancia de obligaciones derivadas de esta Ley, inherentes a su cargo o relacionados con su función o actuación.
+
+Son solidariamente responsables por los funcionarios y demás personal a que se refiere el párrafo anterior, los particulares en todos los casos en que hayan participado deliberadamente en la comisión de los actos que originen una responsabilidad.
+
+Las responsabilidades que se constituyan tendrán por objeto indemnizar por los daños y perjuicios que ocasionen a la Hacienda Pública Federal y a la del Departamento del Distrito Federal, o a las entidades que realicen gasto público federal, las que se fijarán por la Secretaría de Programación y Presupuesto en cantidad líquida, misma que se exigirá se cubra desde luego, sin perjuicio de que en su caso la Tesorería de la Federación o la Tesorería del Distrito Federal, las hagan efectivas a través del procedimiento administrativo de ejecución.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 47.
+
+La Secretaría de Programación y Presupuesto podrá dispensar las responsabilidades en que se incurra, siempre que los hechos que las constituyan, no revistan un carácter delictuoso ni se deban a culpa grave o descuido notorio del responsable y que los daños causados no excedan de $5,000.00.
+
+La Secretaría de Programación y Presupuesto podrá cancelar los créditos derivados de responsabilidades que no excedan de $10,000.00, siempre que no se haya podido obtener su cobro por algún medio legal o por incosteabilidad práctica de cobro. Cuando los créditos excedan de $10,000.00, se propondrá su cancelación a la Cámara de Diputados al rendir la Cuenta Anual correspondiente, acompañando los datos que funden la propuesta.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 48.
+
+La Secretaría de Programación y Presupuesto podrá imponer las siguientes correcciones disciplinarias a los funcionarios y empleados de las entidades a que se refiere el artículo 2o. de esta ley, que en el desempeño de sus labores incurran en faltas que ameriten el fincamiento de responsabilidades:
+
+I.- Multa de $100 a $10,000.
+
+II.- Suspensión temporal de funciones.
+
+La multa a que se refiere la fracción I se aplicará, en su caso, a los particulares que en forma dolosa participen en los actos que originen la responsabilidad.
+
+Las correcciones disciplinarias señaladas, se aplicarán independientemente de que se haga efectiva la responsabilidad en que hubiere incurrido.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 49.
+
+Las responsabilidades a que se refiere esta ley se constituirán y exigirán administrativamente, con independencia de las sanciones de carácter penal que en su caso lleguen a determinarse por la autoridad judicial.
 
 ## TRANSITORIOS
 
@@ -320,3 +380,19 @@ La Secretaría de Programación y Presupuesto respecto a lo dispuesto en los art
 México, D. F., a 29 de diciembre de 1976.- Enrique Ramírez y Ramírez, D. P.- Hilda Anderson de Rojas, S. P.- Crescencio Herrera Herrera, D. S.- Mario Carballo Pazos, S. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos setenta y seis.- José López Portillo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Julio Rodolfo Moctezuma Cid.- Rúbrica.- El Secretario de la Presidencia, Carlos Tello Macías.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Carlos Hank González.- Rúbrica.- El Secretario de Gobernación, Jesús Reyes Heroles.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 30 DE DICIEMBRE DE 1977.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1o. de enero de 1978.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Contaduría de la Federación y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+El Ejecutivo Federal por conducto de la Secretaría de Programación y Presupuesto fincará las responsabilidades conforme a lo dispuesto en la Ley Orgánica de la Contaduría de la Federación, en caso de actos de funcionarios, empleados y agentes de la Federación, así como por los correspondientes a los particulares que hayan participado deliberadamente en la comisión de los actos que originen responsabilidad, cuando los daños y perjuicios se hayan ocasionado al Erario Federal con anterioridad al 1o. de enero de 1978 y que resulten de la revisión de la contabilidad de la Federación, independientemente de la fecha en que se descubran o se comprueben.
