@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1988-04-09"
+last_updated: "1989-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1989.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -59,7 +59,7 @@ El Gobierno del Estado es Repúblicano, popular y representativo, teniendo como 
 
 ###### Art. 3.
 
-El territorio del Estado es el que le corresponde conforme a la Constitución Federal, y se divide en los siguientes Municipios: Acaponeta, Ahuacatlán, Amatlán de Cañas, Compostela, Del Nayar, Huajicori, Ixtlán del Río Jala, Xalisco, La Yesca, Rosamorada, Ruiz, San Blas San Pedro Lagunillas, Santiago Ixc., Santa María del Oro Tecuala Tepic y Tuxpan. Igualmente forman parte del Territorio del Estado las Islas que le corresponden conforme al Artículo 48° de la Constitución General de la República.
+El territorio del Estado es el que le corresponde conforme a la Constitución Federal, y se divide en los siguientes Municipios: Acaponeta, Ahuacatlán, Amatlán de Cañas, Compostela, Del Nayar, Huajicori, Ixtlán del Río Jala, Xalisco, La Yesca, Rosamorada, Ruiz, San Blas San Pedro Lagunillas, Santiago Ixc., Santa María del Oro Tecuala Tepic y Tuxpan. Igualmente forman parte del Territorio del Estado las Islas que le corresponden conforme al Artículo 48º de la Constitución General de la República.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -351,19 +351,19 @@ Los Diputados no podrán, durante el período de sus funciones, desempeñar otra
 
 El Congreso del Estado no podrá abrir sus sesiones ni ejercer sus funciones, sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes deberán reunirse el día señalado por la Ley y compeler a los ausentes a que concurran dentro de los diez días siguientes, con la advertencia de que, si no lo hicieren, se entenderá por ese sólo hecho, que no aceptan su cargo, llamándose desde luego a los suplentes, los que deberán presentarse en un plazo igual, y si tampoco concurren, se declarará vacante el cargo, siempre y cuando en ambos casos no medie causa justificada.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
 
-Cuando se produzcan vacantes en el Congreso por cualquiera de las causas previstas por esta Constitución, si se tratare de Diputados electos por mayoría, se convocará al suplente a menos que la Ley lo prohibiere; en este caso, el Congreso determinará si se convoca a elecciones o no se cubre la falta; si se tratare de Diputados por minoría, se cubrirá la vacante con aquellos candidatos del mismo partido político que hubieren quedado en lugar preferente en la lista respectiva.
+Cuando se produzcan vacantes en el Congreso por cualquiera de las causas previstas por esta Constitución, si se tratare de Diputados electos por Mayoría, se convocará al Suplente a menos que la Ley lo prohibiere; en este caso, el Congreso determinará si se convoca a elecciones o no se cubre la falta; si se tratare de Diputados por Representación Proporcional, se cubrirá la vacante con aquellos candidatos del mismo partido político que hubiere quedado en lugar preferente en la lista respectiva.
 
 ###### Art. 33.
 
 Si una vez instalado el Congreso o abierto su período de sesiones, no pudiere ejercer su cargo por falta de la mayoría requerida, se llamará inmediatamente a los suplentes los que permanecerán en funciones hasta la inmediata apertura de sesiones ordinarias.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
 
 ###### Art. 34.
 
-El Diputado que sin causa justificada faltare diez días consecutivos, perderá el derecho de concurrir a sesiones hasta el nuevo período ordinario, y se llamará al Suplente.
+El Diputado que sin causa justificada, faltare a cinco sesiones continuas o a diez discontinuas en un período ordinario de sesiones, perderá el derecho de concurrir a sesiones hasta el nuevo período ordinario, y se llamará al Suplente en los términos que la Ley Orgánica respectiva determine.
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 1980)</small>
 
@@ -371,11 +371,11 @@ El Diputado que sin causa justificada faltare diez días consecutivos, perderá 
 
 El Congreso del Estado se renovará cada tres años contados desde el 18 de Agosto hasta el 17 de Agosto de los años respectivos.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1980)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
 
 ###### Art. 36.
 
-La Legislatura del Estado celebrará anualmente dos Períodos de Sesiones Ordinarias: Uno que contará desde el 18 de Agosto hasta el día 17 de Noviembre y otro que comenzará el 18 de Febrero terminando el 17 de Mayo. Cada uno de estos períodos podrá prorrogarse hasta por un mes si así lo exige la importancia de los asuntos pendientes de resolución y lo juzgan necesario las dos terceras partes de los ciudadanos Diputados.
+La Legislatura del Estado celebrará anualmente dos Períodos de Sesiones Ordinarias: Uno que contará desde el 18 de Agosto hasta el 17 de Diciembre y otro que comenzará el 18 de Marzo terminando el 17 de Mayo. En los Recesos del Congreso podrán verificarse Períodos de Sesiones Extraordinarias por el tiempo y objeto que así lo exija la importancia de los asuntos, en los términos de las Convocatorias respectivas.
 
 > <small>(REFORMADO, P.O. 9 DE ENERO DE 1982)</small>
 
@@ -389,11 +389,11 @@ Durante el Primer Periodo Ordinario de Sesiones de cada año, la Legislatura se 
 
 En el Segundo Período de Sesiones Ordinarias de cada año, se hará la revisión de la cuenta de caudales públicos del año anterior, que habrá de presentar el Ejecutivo dentro de los primeros 30 días de este Periodo.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
 
 ###### Art. 39.
 
-Ocho días antes de cerrarse el periodo de Sesiones Ordinarias, se nombrará por el Honorable Congreso del Estado, una Diputación Permanente, compuesta de tres Diputados con el carácter de propietarios y otros dos como suplentes. El primero será el Presidente; y el Segundo, Primer Secretario; y el Tercero, Segundo Secretario, pudiendo el Primer Secretario; substituir las faltas del Ciudadano Presidente. Los suplentes serán Primero y Segundo Secretario en el orden de su nombramiento de igual manera que los propietarios.
+Al clausurarse el Periodo de Sesiones Ordinarias, se nombrará por el Congreso del Estado, una Diputación Permanente, integrada por un Presidente, un Vicepresidente, dos Secretarios, dos Vocales con sus Suplentes. El Vicepresidente auxiliará en el funcionamiento de dicho Organo y suplirá las ausencias del Presidente, y los Secretarios y Vocales ejercerán las atribuciones que son propias a la denominación de sus cargos los Suplentes sustituirán en su caso, a los Secretarios o Vocales. Invariablemente, la actuación de la Diputación Permanente será colegiada.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -493,9 +493,9 @@ VII. Dar la resolución correspondiente, aprobando, reformando o reprobando las 
 
 VIII. Convocar a elecciones, hacer el escrutinio de los votos emitidos para Gobernador; calificar dicha elección y declarar electo al que haya tenido mayoría de sufragios válidos.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, 15 DE FEBRERO DE 1989)</small>
 
-IX. Aprobar los nombramientos de los Magistrados Propietarios y Suplentes del Tribunal Superior de Justicia del Estado, que hará el Gobernador en los términos del artículo 83 de esta Constitución. Si el Congreso no resolviere dentro del improrrogable término de tres días, se tendrán por aprobados los nombramientos y en caso de que alguno o algunos de los nombramientos no sean aprobados dentro del citado término, el Gobernador hará un segundo nombramiento que surtirá sus efectos desde luego, con el carácter de provisional, y que será sometido a la aprobación de la Legislatura en el siguiente Periodo Ordinario de Sesiones, en el que si lo aprueba o nada resuelve, el Magistrado o Magistrados provisionales, continuarán en sus funciones con el carácter de definitivo.
+IX. Aprobar los nombramientos de los Magistrados numerarios y supernumerarios del Tribunal Superior de Justicia del Estado, que hará el Gobernador en los términos del Artículo 83 de esta Constitución.
 
 X. Recibir a los mismos funcionarios, la protesta de guardar y hacer guardar la Constitución General, la Particular del Estado y las leyes que de ambas emanen.
 
@@ -523,9 +523,9 @@ XVI. Facultar al Ejecutivo del Estado para que constituya Empresas Públicas y O
 
 XVII. Suspender o declarar desaparecidos Ayuntamientos o suspender o revocar el mandato otorgado a alguno de sus miembros y en su caso, integrar los Consejos Municipales, en los términos del Código para la Administración Municipal.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1984)</small>
+> <small>(REFORMADA, 15 DE FEBRERO DE 1989)</small>
 
-XVIII. Expedir la Ley Orgánica del Poder Legislativo y su Reglamento Interior y dictar las disposiciones necesarias para el servicio de sus Oficinas.
+XVIII. Formar y expedir la Ley Orgánica del Poder Legislativo y sus disposiciones Reglamentarias.
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -569,7 +569,9 @@ XXX. Dar reglas sobre colonización y enajenación de terrenos baldíos en el Es
 
 XXXI. Seguir procedimiento de responsabilidad a los servidores públicos del Estado, Empresas Públicas Descentralizadas o de los Ayuntamientos en su caso.
 
-XXXII. Expedir todas las leyes que sean necesarias o propias para hacer efectivas las facultades que anteceden.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1989)</small>
+
+XXXII. Citar, por conducto del Gobernador del Estado, a los Titulares de la Administración Pública Centralizada y Descentralizada a fin de abundar y aclarar los criterios, fundamentos, ejecución y consecuencias de los planes y programas que son a su cargo, así como de las Iniciativas de Ley o Decreto turnadas a la consideración del Poder Legislativo.
 
 XXXIII. Ejercer las facultades que le correspondan conforme a la Constitución General de la República y a la presente.
 
@@ -580,6 +582,10 @@ XXXIV.- Conceder el revalúo de cualquiera finca urbana o rústica con sujeción
 > <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 1943)</small>
 
 XXXV.- Erigirse en Colegio Electoral para calificar la elección de sus propios miembros.
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1989)</small>
+
+XXXVI. Expedir todas las Leyes que sean necesarias o propias para hacer efectivas las facultades que anteceden y todas las otras concedidas por esta Constitución a los Poderes del Estado.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
 
@@ -603,9 +609,11 @@ III. Al Tribunal Superior de Justicia, solamente en asuntos del orden Judicial.
 
 IV. A los Ayuntamientos en lo relativo a la Administración Municipal.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
+
 ###### Art. 50.
 
-Todo proyecto de ley, como los asuntos en que deba recaer resolución del Congreso, se sujetarán en su tramitación, a lo que su reglamento interior establezca.
+Todo Proyecto de Ley, como los asuntos en que deba recaer resolución del Congreso, se sujetarán a los procedimientos, formalidades y trámites Legislativos que establezca la Ley Orgánica y el Reglamento para el Gobierno Interior del Congreso.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
 
@@ -779,9 +787,9 @@ II.- Sancionar, promulgar y ejecutar las Leyes y Decretos dados por el Poder Leg
 
 III.- Iniciar ante la Legislatura, las Leyes y Decretos que juzgue convenientes para el mejoramiento de la administración pública y pedirle que inicie ante el Congreso de la Unión, lo que sea de la competencia Federal.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1989)</small>
 
-IV.- Presentar a la Legislatura, en la primera decena del mes de Noviembre, el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
+IV.- Presentar a la Legislatura, el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MARZO DE 1977)</small>
 
@@ -831,9 +839,9 @@ XVI.- Hacer que las elecciones sean libres e impedir que alguno ejerza presión 
 
 XVII.- Crear Organismos y Empresas Públicas Descentralizadas.
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1989)</small>
 
-XVIII.- Formar el catastro del Estado.
+XVIII.- Formar el Catastro del Estado, y Asesorar a los Municipios en la formación de sus catastros, y en su caso, celebrar convenios con ellos para hacerse cargo de algunas de las funciones relacionadas con la Administración de las contribuciones sobre la propiedad inmobiliaria, asumir la prestación de servicios públicos a ellos encomendados, o para fomentar su desarrollo, en apoyo a lo establecido por la Constitución Federal.
 
 XIX.- Conceder o denegar indulto o conmutar la pena, a los delincuentes sujetos a la competencia de los Tribunales del Estado, con los requisitos establecidos por las leyes.
 
@@ -905,7 +913,7 @@ El Gobernador del Estado durante el tiempo de sus funciones, será responsable p
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1969)</small>
 
-### CAPITULO II (SIC). Del Director General de Gobernación
+### CAPITULO II (sic). Del Director General de Gobernación
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
@@ -969,75 +977,117 @@ El Secretario General de Gobierno, en unión del Procurador General de Justicia,
 
 ### CAPITULO I. Del Poder Judicial
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
 
 ###### Art. 81.
 
-El ejercicio del Poder Judicial se deposita en su cuerpo que se denominará Tribunal Superior de Justicia del Estado, en Jueces de Primera Instancia y Menores.
+El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia del Estado, en Jueces de Primera Instancia y Jueces Menores.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1984)</small>
+El Tribunal Superior de Justicia se integrará de cinco Magistrados Numerarios y funcionará en Pleno o en Salas, se podrán nombrar hasta tres Magistrados Supernumerarios.
+
+En los términos en que la ley disponga las Sesiones del Pleno y de las Salas serán públicas, y por excepción secretas en los casos en que así lo exijan la moral o el interés público.
+
+La competencia del Tribunal Superior de Justicia, su funcionamiento en Pleno o en Salas, la competencia de los Juzgados de Primera Instancia y los Menores y las responsabilidades en que incurran los servidores públicos del Poder Judicial del Estado, se regirán por lo que dispongan las Leyes, de conformidad con las bases que esta Constitución establece.
+
+El Poder Judicial del Estado determinará el número, división, jurisdicción territorial y especialización por materia de los Juzgados de Primera Instancia y los Menores, en la correspondiente Ley Orgánica.
+
+La remuneración que perciban por sus servicios los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia y los Menores, no podrá ser disminuida durante su encargo.
+
+Los Magistrados del Tribunal Superior de Justicia, sólo podrán ser privados de sus puestos en los términos del Título Octavo de esta Constitución.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
 
 ###### Art. 82.
 
-El Tribunal Superior de Justicia del Estado, se compondrá de Cinco Magistrados Propietarios y Cinco Suplentes o Supernumerarios.
+Para ser electo Magistrado del Tribunal Superior de Justicia del Estado, se necesita:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+I. Ser Ciudadano Mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
+
+II. No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección;
+
+III. Poseer el día de la elección, con antigüedad mínima de cinco años, Título Profesional de Abogado, expedido por Autoridad o Corporación legalmente facultada para ello.
+
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+
+V. Haber residido en el país durante los últimos cinco años, salvo el caso de ausencia en servicio de la República por un tiempo menor de seis meses.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
 
 ###### Art. 83.
 
-Los Magistrados del Tribunal Superior de Justicia del Estado, serán nombrados por el Gobernador el veinte de Septiembre de los años respectivos, y los nombramientos serán sometidos a la aprobación del Congreso, en los términos de la fracción IX del artículo 47 de esta Constitución.
+Los nombramientos de los Magistrados del Tribunal Superior de Justicia serán hechos por el Gobernador Constitucional y sometidos a la aprobación del Congreso del Estado, quien otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si éste no resolviere dentro de dicho término se tendrán por aprobados los nombramientos.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+Sin la aprobación de la Legislatura no podrán tomar posesión los Magistrados del Tribunal Superior de Justicia nombrados por el Gobernador Constitucional. En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador del Estado hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de la Asamblea Legislativa en el siguiente Periodo Ordinario de Sesiones; dentro de los primeros diez días el Poder Legislativo deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si desecha el nombramiento cesará desde luego de sus funciones el Magistrado Provisional y el Gobernador del Estado someterá nuevo nombramiento a la aprobación de la Legislatura en los términos señalados.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
 
 ###### Art. 84.
 
-Los Magistrados del Tribunal Superior de Justicia, durarán en sus funciones seis años, no pudiendo ser removidos sin previo juicio de responsabilidades, en el que se pronuncie sentencia condenatoria firme. Tomarán posesión el día veinticuatro del mismo mes de Septiembre, en que se inicie el ejercicio Constitucional del Gobernador del Estado.
+Los Magistrados del Tribunal Superior de Justicia durarán en sus funciones seis años, contados a partir de la fecha en que rindan su Protesta de Ley, al término de los cuales si fueren reelectos por el Gobernador con la aprobación del Congreso del Estado, sólo podrán ser removidos de sus puestos en los términos del Título Octavo de esta Constitución.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+Los Magistrados y Jueces de Primera Instancia del Poder Judicial, al cumplir setenta años deberán retirarse de su encargo, para cuyo efecto, el Pleno del Tribunal Superior de Justicia, a instancia del interesado o de oficio, hará la declaratoria correspondiente.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
 
 ###### Art. 85.
 
-Para ser Magistrado del Tribunal Superior de Justicia del Estado se requiere:
+Los Jueces de Primera Instancia y los Menores, serán designados por el Pleno del Tribunal Superior de Justicia, deberán satisfacer los requisitos que exija la Ley y durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueren reelectos, sólo podrán ser privados de sus puestos en los términos del Título Octavo de esta Constitución.
 
-I.- Ser mexicano por nacimiento e hijo de padres mexicanos por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
-
-II.- Poseer Título Profesional de Abogado expedido por Autoridad o Corporación oficial legalmente autorizada para ello.
-
-III.- Ser de buena conducta y haberla observado intachable pública y notoriamente.
-
-IV.- Tener no menos de 30 años de edad cumplidos el día del nombramiento.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
 
 ###### Art. 86.
 
-Para ser Juez de Primera Instancia, se requiere: Ser ciudadano mexicano, mayor de edad, abogado con título oficial; pero en caso de falta absoluta de éste podrá serlo con carácter interino, un conocedor en Derecho a juicio del Tribunal Superior; y para ser Juez Menor, sólo se requiere ser ciudadano mexicano, mayor de edad Pasante en Derecho a juicio del mismo Tribunal.
+El Tribunal Superior de Justicia cada año designará uno de sus miembros como Presidente, pudiendo éste ser reelecto.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+Cada Magistrado del Tribunal Superior de Justicia, al entrar a ejercer su encargo, protestará ante el Congreso del Estado y, en sus recesos, ante la Diputación Permanente, en la siguiente forma:
+
+Presidente "¿PROTESTAIS DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE MAGISTRADO DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NAYARIT, QUE SE OS HA CONFERIDO Y GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO, ASI COMO LAS LEYES QUE DE ELLAS EMANEN, MIRANDO EN TODO POR EL BIEN Y LA PROSPERIDAD DEL ESTADO?"
+
+Magistrado "SÍ PROTESTO".
+
+Presidente "SI NO LO HICIEREIS ASÍ, LA NACION Y NAYARIT OS LO DEMANDE".
+
+Los Jueces de Primera Instancia y los Menores, protestarán ante el Pleno del Tribunal Superior de Justicia, n la forma que determine la Ley Orgánica respectiva.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
 
 ###### Art. 87.
 
-Los Jueces de Primera Instancia, los Menores y los demás empleados del Poder Judicial, serán nombrados por el Tribunal Superior de Justicia del Estado. Los Jueces de Primera Instancia no podrán ser removidos de sus cargos sin previo juicio en el que se haya pronunciado sentencia condenatoria ejecutoriada y los demás empleados podrán ser removidos por causa justificada a juicio del Tribunal.
+Los Magistrados Numerarios del Tribunal Superior de Justicia, serán suplidos en sus faltas temporales por los Supernumerarios.
+
+Si la falta excediere de hasta noventa días, el Gobernador del Estado someterá el nombramiento de un Magistrado Provisional a la aprobación del Congreso del Estado o en su receso a la de la Diputación Permanente, observándose, en su caso, lo dispuesto en la parte final del Artículo 83 de esta Constitución.
+
+Si faltare un Magistrado por Defunción o por cualquiera causa de separación definitiva, el Gobernador someterá nuevo nombramiento a la aprobación del Congreso del Estado. Si el Congreso no estuviere en funciones, la Diputación Permanente dará su aprobación, mientras se reúne aquél y da la aprobación definitiva.
+
+Los Magistrados Supernumerarios que suplan a los Numerarios, permanecerán en el desempeño del cargo hasta que tome posesión el Magistrado nombrado por el Gobernador del Estado, ya sea con carácter provisional o definitivo.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
 
 ###### Art. 88.
 
-Los Partidos Judiciales del Estado continúan divididos en la misma forma y condiciones en que han estado hasta hoy, a reserva de lo que disponga la ley orgánica judicial
+Las renuncias de los Magistrados del Tribunal Superior de Justicia solamente procederán por causas graves; serán sometidas al Ejecutivo y si éste las acepta, serán enviadas para su aprobación al Congreso del Estado y, en su receso a la Diputación Permanente.
+
+Las licencias de los Magistrados, cuando no excedan de hasta noventa días, serán concedidas por el Tribunal Superior de Justicia del Estado, las que excedan de este tiempo, las concederá el Gobernador del Estado con la aprobación del Congreso del Estado, o en sus recesos, con la de la Diputación Permanente. Ninguna licencia podrá exceder del término de dos años.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 1989)</small>
 
 ###### Art. 89.
 
-(DEROGADO, P.O. 26 DE DICIEMBRE DE 1981)
+Los nombramientos de los Magistrados y Jueces del Poder Judicial del Estado, serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, de acuerdo al procedimiento establecido por esta Constitución y en la Ley Orgánica respectiva.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
 
 ###### Art. 90.
 
-Los Magistrados, el Procurador de Justicia, Agentes del Ministerio Público, Jueces de Primera Instancia, Menores y sus respectivos Secretarios, no podrán ejercer la profesión de Abogados, ni por sí ni por interpósita persona, sino en sus negocios propios, en los de sus esposas y en los de sus hijos.
+Los Magistrados, el Procurador de Justicia, Agentes del Ministerio Público, Jueces de Primera Instancia, Menores y sus respectivos Secretarios, no podrán ejercer la profesión de Abogados, ni por sí ni por interpósita persona, sino en sus negocios propios, en el de su esposa y en los de sus hijos.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+Asimismo, no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, del Estado, Municipios o de Particulares, salvo los cargos en Asociaciones Científicas, docentes, literarias o de beneficencia. La infracción de estas disposiciones serán castigadas por la pérdida del cargo.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
 
 ###### Art. 91.
 
-Las competencias, modos de suplir faltas y obligaciones de los Magistrados, Jueces y demás empleados de la administración de Justicia, serán determinados por la Ley Orgánica del Poder Judicial.
+Las competencias, modo de suplir las faltas y obligaciones de los Magistrados, Jueces y demás Servidores Públicos y empleados del Poder Judicial, serán determinadas por la Ley Orgánica ajustada a lo previsto por esta Constitución.
 
 ### CAPITULO II. Del Ministerio Público
 
@@ -1473,7 +1523,7 @@ P.O. 30 DE MARZO DE 1919.
 
 Este Decreto comenzará a surtir sus efectos desde el día de su promulgación.
 
-P.O. 24 DE JULIO DE 1919.
+P.O. 24 DE JULIO DE 1919
 
 Este Decreto empezará a surtir sus efectos desde la fecha de su promulgación.
 
@@ -1707,12 +1757,6 @@ DECRETO 5979, REFORMA ART. 42.
 
 UNICO.- Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
-P.O. 5 DE NOVIEMBRE DE 1977.
-
-DECRETO 5980, REFORMA ARTS. 37 Y 69.
-
-UNICO.- Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
 P.O. 22 DE ABRIL DE 1978.
 
 ###### ARTICULO UNICO.
@@ -1808,3 +1852,35 @@ P.O. 9 DE ABRIL DE 1988.
 ###### ARTICULO PRIMERO.
 
 La presente reforma y adición a la Constitución Política del Estado entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 15 DE FEBRERO DE 1989.
+
+DECRETO NUMERO 7181, QUE REFORMA ARTS. 32, 34, 36, 39, 47, 50 Y 69.
+
+###### ARTICULO PRIMERO.
+
+Para cumplir las condiciones y efectos a que se refiere el Artículo 131 de la Constitución Política del Estado, suscríbase la Minuta Proyecto de Decreto por los Ciudadanos Diputados integrantes de esta Honorable Legislatura y túrnese por los medios más convenientes y directos a los Honorables Ayuntamientos Constitucionales de la Entidad, para los efectos que señala expresamente en citado precepto.
+
+###### ARTICULO SEGUNDO.
+
+Se confiere un plazo de quince días hábiles a partir de este fecha, para que los Honorables Ayuntamientos Constitucionales del Estado, emitan su resolución colegiada y, en caso de ser aprobatoria en las dos terceras partes a que alude el Artículo 131 referido, expídase en Decreto promulgatorio correspondiente, remitiéndolo al Titular del Poder Ejecutivo para los efectos legales procedentes.
+
+P.O. 15 DE FEBRERO DE 1989.
+
+DECRETO NUMERO 7195, QUE REFORMA ARTS. 81 AL 91.
+
+###### ARTICULO PRIMERO.
+
+Las presentes Reformas y Adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, una vez que se cumplimente lo establecido por el Artículo 131 de la Constitución Política del Estado de Nayarit.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de ratificación a que se refiere el principio de inamovilidad, los nombramientos de los actuales Magistrados, empezarán a contar a partir de la fecha en que rindieron la Protesta de Ley ante el Congreso del Estado.
+
+###### ARTICULO TERCERO.
+
+Los nombramientos de Jueces de Primera Instancia, realizados hasta la fecha, tendrán el carácter de inamovibles, y sólo se aplicará lo dispuesto por este Capítulo a los nuevos nombramientos.
+
+###### ARTICULO CUARTO.
+
+Recábese la aprobación de los Honorables Ayuntamientos Constitucionales del Estado, para los efectos respectivos.
