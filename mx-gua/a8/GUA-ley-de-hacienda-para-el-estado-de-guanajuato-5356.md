@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-5356"
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "1989-12-26"
+last_updated: "1995-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1995.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -194,6 +194,10 @@ VI.- Camiones de carga o tractores de 6 ejes.
 Dichos derechos serán cubiertos en las Oficinas autorizadas por el Gobierno del Estado, a través del Organismo Descentralizado denominado Carreteras y Puentes Estatales de Cuota de Guanajuato, constituyendo ingresos del mismo destinados a la construcción, conservación, mejoramiento, administración y explotación de los camiones (sic) y puentes afectos a su patrimonio.
 
 El organismo administrador a que se refiere este capítulo, deberá fijar en lugares visibles para los usuarios de las citadas vías de comunicación, las tarifas vigentes para el pago de los derechos correspondientes, referentes a cada una de las clases de vehículos que este artículo señala.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+Igualmente el organismo administrador a que se refiere este artículo, podrá celebrar convenios y promociones para reducción de las tarifas vigentes para el pago de los derechos correspondientes, por el uso de las carreteras y puentes estatales de cuota en operación.
 
 ###### ARTICULO 22.
 
@@ -458,3 +462,11 @@ El Secretario de Administración Financiera,
 C.P. Y M.A. MARCO ANTONIO VERGARA LARIOS.
 
 (Rúbricas).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE DICIEMBRE DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrara en vigor el cuarto día siguiente al de su publicación en el periódico oficial del gobierno del Estado.
