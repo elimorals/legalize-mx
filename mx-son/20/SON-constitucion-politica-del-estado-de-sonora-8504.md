@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1937-12-29"
+last_updated: "1939-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1937.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE ABRIL DE 1939.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -273,11 +273,11 @@ El ejercicio del Poder Legislativo del Estado se depositará en una Asamblea de 
 
 Elección de Diputados.
 
-> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADO, B.O. 29 DE ABRIL DE 1939)</small>
 
 ###### Artículo 30.
 
-Los Diputados al Congreso del Estado serán electos en su totalidad cada dos años, y los Ciudadanos que lo hubieren sido no podrán en el resto de su vida volver a desempeñar este cargo.
+Los Diputados al Congreso del Estado serán electos en su totalidad cada dos años.
 
 > <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 1928)</small>
 
@@ -297,11 +297,13 @@ I. Ser Ciudadano Sonorense en ejercicio de sus derechos políticos.
 
 II. Tener veinticinco años cumplidos al día de la elección.
 
-III. Haber residido en el Estado de Sonora el año anterior al día de la elección para los nativos del Estado; y cinco años inmediatamente anteriores al día de la elección a los no nacidos en él.
+> <small>(REFORMADA, B.O. 29 DE ABRIL DE 1939)</small>
 
-> <small>(REFORMADA, B.O. 17 DE JULIO DE 1937)</small>
+III. Haber residido en el Estado de Sonora, cuando menos un año inmediatamente anterior al día en que se haga la elección, para los nativos del Estado; y cinco años inmediatamente anteriores al día de la elección, para los no nacidos en él.
 
-IV. No haber sido Diputado Propietario o Suplente en ejercicio por un año o más, anteriormente.
+> <small>(REFORMADA, B.O. 29 DE ABRIL DE 1939)</small>
+
+IV. No haber sido Diputado Propietario, o Suplente en ejercicio por un año o más en el período inmediato anterior.
 
 V. No haber desempeñado alguno de los cargos de Gobernador, Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario de Gobierno o Tesorero General del Estado, dentro del año anterior al día de la elección.
 
@@ -309,7 +311,9 @@ VI. No haber sido Juez de Primera Instancia, Administrador de Rentas, Agente Fis
 
 VII. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso.
 
-VIII. Ser nativo del Distrito Electoral que represente, o no siéndolo y sí Sonorense, tener cuando menos un año de residencia en él.
+> <small>(REFORMADA, B.O. 29 DE ABRIL DE 1939)</small>
+
+VIII. Ser nativo del Distrito Electoral que represente, o no siéndolo, y así sonorense, tener cuando menos un año de residencia en él; pero se considerará como nativo, al que haya residido por más de diez años en el Distrito.
 
 IX. No haber sido condenado en juicio legal por algún delito infamante.
 
@@ -481,9 +485,9 @@ IV. Para ratificar o no la erección de nuevos Estados dentro de los límites de
 
 V. Para establecer las bases de todo arreglo amistoso sobre límites del territorio de Sonora.
 
-VI. Para proponer al Congreso de la Unión candidatos a Magistrados de la Suprema Corte de Justicia.
+VI. (DEROGADA, B.O. 29 DE ABRIL DE 1939)
 
-VII. Para legislar sobre el trabajo, con sujeción al Artículo 23 de la Constitución General.
+VII. (DEROGADA, B.O. 29 DE ABRIL DE 1939)
 
 VIII. Para dictar leyes conducentes a combatir el alcoholismo en el Estado.
 
@@ -595,15 +599,15 @@ III. Vigilar por la exacta observancia de la Constitución General, la particula
 
 IV. Circular la convocatoria a sesiones extraordinarias por medio del Presidente, si después del tercer día de comunicada al Ejecutivo, éste no lo hubiese verificado.
 
-> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADA, B.O. 29 DE ABRIL DE 1939)</small>
 
-V. Constituirse en Colegio Elecioral (sic) y nombrar en los términos de Ley, a los Ciudadanos que deban sustituir a los funcionarios indicados en la fracción II que antecede, en sus faltas temporales o absolutas, mientras se reúne el Congreso.
+V. Constituirse un Colegio Electoral y nombrar en los términos de Ley, a los ciudadanos que deben sustituir a los funcionarios indicados en la fracción I y II q´ (sic) anteceden, en sus faltas temporales o absolutas, mientras se reúne el Congreso.
 
 VI. Recibir durante sus funciones las protestas que deban otorgarse ante el Congreso.
 
-> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADA, B.O. 29 DE ABRIL DE 1939)</small>
 
-VII. Convocar al Congreso a sesiones extraordinarias para que provea en la forma correspondiente, cuando se trate de cubrir las faltas de los funcionarios a que se contrae la fracción II de este artículo; cuando igualmente se trate de delitos cometidos por los altos funcionarios del Estado, y en todos aquellos casos que a su juicio sean de gravedad y urgencia.
+VII. Convocar al Congreso a sesiones extraordinarias para que provea en la forma correspondiente, cuando se trata de cubrir las faltas de los funcionarios a que se contrae la fracción I y II de este Artículo; cuando igualmente se trate de delitos cometidos por altos funcionarios del Estado, y en todos aquellos casos que a su juicio sea de gravedad y urgencia.
 
 > <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 1928)</small>
 
@@ -657,7 +661,9 @@ I. Ser mexicano por nacimiento e hijo de padres mexicanos.
 
 II. Ser ciudadano sonorense en pleno ejercicio de sus derechos políticos.
 
-III. Ser nativo de Sonora y haber residido en el Estado el año anterior al día de la elección, o en caso de no serlo, tener cuando menos diez años de residencia inmediatamente anteriores al día de la elección.
+> <small>(REFORMADA, B.O. 29 DE ABRIL DE 1939)</small>
+
+III. Ser nativo de Sonora y haber residido cuando menos un año inmediatamente anterior al día de la elección, o en caso de no serlo, tener cuando menos diez años de residencia inmediatamente anteriores al día de la elección.
 
 IV. Ser mayor de treinta años para el día de la elección.
 
@@ -781,7 +787,9 @@ XXIV. Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos
 
 XXV. Nombrar al Secretario de Gobierno y Tesorero General del Estado sometiendo dichos nombramientos a la aprobación de la Legislatura.
 
-XXVI. Nombrar los Jueces del Registro Civil y fijar la demarcación en que deban ejercer sus funciones.
+> <small>(REFORMADA, B.O. 29 DE ABRIL DE 1939)</small>
+
+XXVI. Nombrar a los Oficiales de Registro Civil y fijar la demarcación en que deban ejercer sus funciones.
 
 XXVII. Otorgar las dispensas matrimoniales para cuya concesión lo faculta la Ley, pudiendo delegar esta facultad en los Presidentes Municipales.
 
@@ -865,7 +873,7 @@ Todo empleado de Hacienda que tenga algún manejo en los caudales del Estado lo 
 
 Jueces de Primera Instancia, Locales y Menores.
 
-> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
+> <small>(REFORMADO, B.O. 29 DE ABRIL DE 1939)</small>
 
 ###### Artículo 89.
 
@@ -1107,7 +1115,7 @@ Los Ministros que estén en el ejercicio de sus funciones, no pueden ser abogado
 
 ###### Artículo 123.
 
-Los jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia del Estado, a propuesta en terna por el Ejecutivo, durando en su ejercicio dos años, y podrán desempeñar el cargo en períodos sucesivos.
+Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia del Estado, durando en su ejercicio dos años y podrán desempeñar el cargo en períodos sucesivos.
 
 > <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
 
@@ -1203,7 +1211,9 @@ I. Ser ciudadano sonorense en pleno ejercicio de sus derechos políticos.
 
 II. Ser vecino del Municipio que lo nombre.
 
-III. No haber sido Presidente Municipal electo por el pueblo anteriormente, o haber desempeñado las funciones interinamente por un período de un año o más.
+> <small>(REFORMADA, B.O. 29 DE ABRIL DE 1939)</small>
+
+III. No haber sido Presidente Municipal electo por el pueblo, o haber desempeñado las funciones interinamente por el lapso de un año o más en el período inmediato anterior.
 
 ###### Artículo 135.
 
@@ -1237,7 +1247,7 @@ VIII. Proponer al Congreso del Estado candidatos para Magistrados al Supremo Tri
 
 IX. Proponer al Supremo Tribunal de Justicia candidatos para Jueces de Primera Instancia.
 
-X. Proponer a los Jueces de Primera Instancia candidatos a Jueces Locales y Menores.
+X. (DEROGADA, B.O. 29 DE ABRIL DE 1939)
 
 XI. Nombrar, remover y otorgar licencias a los empleados de su dependencia.
 
@@ -1403,11 +1413,15 @@ Ningún funcionario o empleado del Estado o del Municipio podrá ser apoderado e
 
 Los funcionarios y empleados del Estado y Municipales de las poblaciones fronterizas tienen la obligación de residir en territorio nacional. La no observancia de esta disposición significa para el contraventor la pérdida de su cargo o empleo.
 
-> <small>(ADICIONADO, B.O. 5 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADO, B.O. 29 DE ABRIL DE 1939)</small>
 
 ###### Artículo 162 Bis.
 
-La inhabilitación a que se refiere los artículos 30, fracción IV del 33, 72 y 134 A, de esta Constitución, es para las personas que hayan desempeñado los cargos de Gobernador, Diputado y Presidente Municipal en administraciones anteriores, para las que desempeñen los mismos cargos actualmente y para los que desempeñaren en lo sucesivo.
+La inhabilitación a que se refieren los artículos 33 Fracción IV (Reformada), 133, 134 A fracción III (Reformada) y 139 (Reformado) de esta Constitución, es con el carácter de temporal para las personas que hayan desempeñado durante la segunda mitad del período inmediato anterior, los cargos de Diputado, Presidente Municipal, Consejal (sic) y Comisario de Policía, por lo que si sólo fungieron dentro de la primera mitad, No quedarán incapacitadas para volver a ser electas, como tampoco quedarán si dejan transcurrir dos o mas períodos constitucionales; pero la inhabilitación a que se refiere el artículo 72, es de carácter permanente para las persona que hayan desempeñado el cargo de Gobernador en administraciones anteriores, para las que desempeñen los mismos cargos actualmente y para las que los desempeñaren en lo sucesivo, salvo lo que expresan los párrafos relativos de los artículos 73 y 74.
+
+> <small>(ADICIONADO, B.O. 29 DE ABRIL DE 1939)</small>
+
+Artículo 162 C. Ninguna de las personas a que se refiere el artículo anterior, podrá ser electa para ningún cargo en el período inmediato, si se encuentra actuando durante los actos preparatorios de las elecciones ordinarias o extraordinarias.
 
 ## TITULO OCTAVO.
 
@@ -1441,7 +1455,7 @@ La presente Constitución será promulgada por bando solemne, en esta Villa, el 
 
 ###### Artículo 2.
 
-Las Leyes, Decretos, Circulares y Disposiciones de observancia general que se han estado aplicando hasta hoy, continuarán en vigor, en todo aquello en que no contravengan a esta Constitución.
+Las Leyes, Decretos, Circulares y Disposiciones de observancia general, que se han estado aplicando hasta hoy, continuarán en vigor, en todo aquello en que no contravengan a esta Constitución.
 
 ###### Artículo 3.
 
@@ -1536,6 +1550,18 @@ UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el
 B.O. 29 DE DICIEMBRE DE 1937.
 
 UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 29 DE ABRIL DE 1939.
+
+LEY No. 112, QUE REFORMA EL ARTICULO 66 DE LA CONSTITUCION.
+
+UNICO. Esta Ley estará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 29 DE ABRIL DE 1939.
+
+LEY No. 113, QUE MODIFICA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+
+Unico.- Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
