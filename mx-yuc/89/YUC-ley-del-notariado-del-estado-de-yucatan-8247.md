@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-notariado-del-estado-de-yucatan-8247"
 country: "mx"
 rank: "ley"
 publication_date: "1977-07-04"
-last_updated: "1985-09-27"
+last_updated: "1991-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8247&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL NOTARIADO DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE SEPTIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE JULIO DE 1991.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 4 de julio de 1977.
 
@@ -919,7 +919,7 @@ Los Escribanos Públicos usarán un sello circular, de treinta y cinco milímetr
 
 Del Ejercicio de las Funciones de los Escribanos.
 
-(REFORMADO, D.O. 27 DE SEPTIEMBRE DE 1985) (F. DE E., D. O. 2 DE OCTUBRE DE 1985)
+(REFORMADO, D.O. 27 DE SEPTIEMBRE DE 1985) (F. DE E., D.O. 27 DE JULIO DE 1977)
 
 ###### Artículo 170.
 
@@ -1009,13 +1009,15 @@ Las infracciones legales que no constituyan delito, serán sancionadas por el Ej
 
 I.- Apercibimiento.
 
-II.- Multa de Mil a Diez Mil Pesos.
+> <small>(REFORMADA, D.O. 15 DE JULIO DE 1991)</small>
+
+II.- Multa hasta por el importe de cien a doscientos días de salario mínimo.
 
 III.- Suspensión en el ejercicio de sus funciones por el término que el Ejecutivo estime conveniente, según la gravedad de la infracción.
 
 > <small>(F. DE E., D.O. 15 DE OCTUBRE DE 1985)</small>
 
-IV.- Cese definitivo para los Escribanos, sin perjuicio de lo dispuesto en el artículo anterior.
+IV.- Cese definitivo sin perjuicio de lo dispuesto en el artículo anterior.
 
 ###### Artículo 183.
 
@@ -1074,3 +1076,7 @@ Este Decreto entrará en vigor el día siguiente de su publicación en el Diario
 ###### ARTICULO SEGUNDO.
 
 Los Escribanos Públicos que estén desempeñando cumplidamente su cargo, tendrán derecho a recibir el curso de capacitación y presentar el examen a que se refiere el Artículo 164 de esta Ley, aún sin contar con el grado de escolaridad requerido.
+
+D.O. 15 DE JULIO DE 1991.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
