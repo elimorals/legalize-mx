@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2000-04-20"
+last_updated: "2000-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2231,7 +2231,11 @@ VII. Padecer enajenación psíquica incurable declarada judicialmente;
 
 VIII. La separación del hogar conyugal por más de seis meses, sin causa justificada;
 
-IX. La separación del hogar conyugal originada por una causa que sea bastante para pedir el divorcio, si se prolonga por mas de un año, sin que el cónyuge que se separó entable la demanda de divorcio;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+IX. La separación del hogar conyugal por mas de un año sin el consentimiento del otro consorte.
+
+El plazo señalado en esta fracción empezará a contar a partir de la interpelación judicial o extrajudicial ante notario, que se haga al cónyuge separado para su reintegración al hogar conyugal;
 
 X. La declaración de ausencia legalmente hecha o la de presunción de muerte, en los casos de excepción en que no se necesita para que se haga ésta que proceda la declaración de ausencia;
 
@@ -16159,11 +16163,11 @@ No habiendo albacea nombrado, cada uno de los herederos puede, si no ha sido ins
 
 Habiendo albacea nombrado, él deberá promover la reclamación a que se refiere el artículo precedente; y siendo moroso en hacerlo, los herederos tienen derecho de pedir su remoción.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Art. 2993.
 
-El derecho de reclamar la herencia prescribe en diez años a partir de la fecha del fallecimiento del autor de la sucesión y en el caso de declaración de ausencia o presunción de muerte en la fecha en que el heredero aparente entró en posesión de los bienes. Este derecho es trasmisible a los herederos.
-
-Si los bienes heredados se encuentran en el patrimonio del heredero aparente, o de un tercero a quien se los trasmitió en calidad de donación, la sentencia deberá condenar a su restitución con los frutos producidos; si ya no los tiene por haberse trasmitido a un tercero adquirente de buena fe, deberá pagar el valor de los mismos más los perjuicios que se causen.
+El derecho a reclamar la herencia prescribe en diez años contados a partir del discernimiento del cargo al albacea de la sucesión. Este derecho es transmisible a los herederos y legatarios.
 
 ### CAPITULO X. De la rescisión y nulidad de las particiones
 
@@ -16924,5 +16928,17 @@ P.O. 23 DE MARZO DE 2000.
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 20 DE ABRIL DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2000.
+
+DECRETO 18439
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2000.
+
+DECRETO 18440
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
