@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-de-medios-de-impugnacion-en-materia-18285"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-30"
-last_updated: "2000-10-30"
+last_updated: "2001-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Aguascalientes, el 30 de octubre del 2000.
 
@@ -89,9 +89,11 @@ Las disposiciones del presente Título rigen para el trámite, substanciación y
 
 En ningún caso, la interposición de los medios de impugnación, producirá efectos suspensivos sobre el acto o resolución impugnado.
 
-###### ARTÍCULO 8°.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
-El Tribunal Local Electoral, es un órgano jurisdiccional autónomo en su funcionamiento e independiente en sus decisiones, temporal integrado por tres Magistrados adscritos al Poder Judicial del Estado. En tiempo no electoral será el Pleno del Tribunal quien conozca y resuelva de los recursos en los términos del Artículo 17 de la Constitución Política del Estado.
+###### ARTÍCULO 8°
+
+El Tribunal Local Electoral, es un órgano jurisdicccional (sic) autónomo en su funcionamiento e independiente en sus decisiones, temporal integrado por tres Magistrados adscritos al Poder Judicial del Estado. En tiempo no electoral será el Pleno del Supremo Tribunal de Justicia del Estado quien conozca y resuelva de los recursos en los términos del Artículo 17 de la Constitución Política del Estado.
 
 El Tribunal local Electoral, tendrá la facultad de declarar la validez de la elección de Gobernador del Estado.
 
@@ -756,3 +758,11 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor el primero de enero del año 2002.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo contenido en el presente Decreto.
