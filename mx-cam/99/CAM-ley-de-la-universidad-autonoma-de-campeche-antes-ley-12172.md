@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-la-universidad-autonoma-de-campeche-antes-ley-12172"
 country: "mx"
 rank: "ley"
 publication_date: "1965-08-31"
-last_updated: "1965-08-31"
+last_updated: "1989-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12172&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY DE LA UNIVERSIDAD AUTONOMA DE CAMPECHE -ANTES LEY CONSTITUTIVA DE LA UNIVERSIDAD DEL SUDESTE-
 
-LEY CONSTITUTIVA DE LA UNIVERSIDAD DEL SUDESTE
+LEY DE LA UNIVERSIDAD AUTÓNOMA DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 1989.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 31 de agosto de 1965.
 
@@ -37,7 +37,9 @@ El H. XLV Congreso Constitucional del Estado Libre y Soberano de Campeche, decre
 
 Número 3
 
-LEY CONSTITUTIVA DE LA UNIVERSIDAD DEL SUDESTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 1989)</small>
+
+LEY DE LA UNIVERSIDAD AUTÓNOMA DE CAMPECHE
 
 ###### ARTICULO 1o.
 
@@ -102,3 +104,13 @@ Dado en el Palacio del Poder Legislativo del Estado, en Campeche, a los veintiú
 Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche, a los veintiún días del mes de agosto del año de mil novecientos sesenta y cinco.- El Secretario General de Gobierno, Encargado del Despacho del Poder Ejecutivo del Estado, Profr. Nicolás Canto Carrillo.- El Oficial Mayor Int. en Funciones de Secretario General, Lic. Mario Rivas Cervera.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE OCTUBRE DE 1989.
+
+Primero.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado.
+
+Segundo.- Quedan incólumes la legislación y reglamentación que rigen en la mencionada institución educativa, así como los nombramientos que se hayan expedido y los actos administrativos, jurídicos y docentes que se hayan realizado al amparo de la denominación que se modifica.
+
+Tercero.- El Consejo Universitario adoptará las providencias que sean necesarias para hacer congruentes, con este decreto, el escudo, logotipos, papelería y sellos de la Universidad.
