@@ -1,0 +1,144 @@
+---
+title: "LEY DE FOMENTO Y PROTECCION A LA FRUTICULTURA PARA EL ESTADO DE DURANGO"
+identifier: "DUR-ley-de-fomento-y-proteccion-a-la-fruticultura-para-el-4909"
+country: "mx"
+rank: "ley"
+publication_date: "1988-06-26"
+last_updated: "1988-06-26"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4909&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-dur"
+scjn_id: "4909"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "51 BIS"
+reform_count: "4"
+scjn_last_update: "2017-03-05"
+issue_date: "1987-06-22"
+state: "DUR"
+---
+# LEY DE FOMENTO Y PROTECCION A LA FRUTICULTURA PARA EL ESTADO DE DURANGO
+
+LEY DE FOMENTO Y PROTECCION A LA FRUTICULTURA PARA EL ESTADO DE DURANGO
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 26 de junio de 1988.
+
+EL CIUDADANO LICENCIADO JOSE RAMIREZ GAMERO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE y SOBERANO de DURANGO, a sus Habitantes, s a b e d :
+
+Que la H. Legislatura del mismo se ha servido dirigirme el siguiente:
+
+Con fecha 19 de Marzo del presente año, el Titular del Poder Ejecutivo del Estado, envió a esta H. Legislatura Iniciativa que contiene Ley de Fomento y Protección a la Fruticultura para el Estado de Durango, la cual fue turnada a la Comisión de Asuntos Agropecuarios, Forestales y de Pesca; integrada por los CC. Diputados Rómulo Nava Martínez, Eustacio Pérez Rivera y Felipe Alba García, quienes emitieron su dictamen favorable en base a los siguientes:
+
+C O N S I D E R A N D O S
+
+PRIMERO.- Que el Gobierno del Estado debe velar por la defensa e incremento de la riqueza básica de las diversas regiones de la Entidad.
+
+SEGUNDO.- Que la producción frutícola y su industrialización han llegado a constituír una actividad económica de gran importancia en el Estado.
+
+TERCERO.- Que la amenaza de plagas y enfermedades requiere de una acción coordinada, conjunta y permanente, de parte de los frutícultores e industriales de la fruta y de las Autoridades Federales y Estatales, para evitar los peligros que ellas entrañan y que de no combatirlos adecuadamente se convertirían en una amenaza a la existencia misma de esa riqueza.
+
+CUARTO.- Que para lograr una mayor productividad, indispensable para el incremento de la riqueza frutícola del Estado, y por ende de los sectores de la población dedicados a esa actividad, se requiere ineludiblemente la divulgación de la técnica y de los mejores procedimientos en los diversos aspectos de la fruticultura.
+
+Por lo anteriormente considerado esta H. LVII Legislatura del Estado, expide el siguiente:
+
+DECRETO NUMERO 44
+
+LA H. QUINCUAGESIMA SEPTIMA LEGISLATURA del ESTADO LIBRE y SOBERANO de DURANGO, a nombre del Pueblo, D E C R E T A :
+
+LEY de FOMENTO y PROTECCION a la FRUTICULTURA
+
+para el ESTADO de DURANGO
+
+###### Artículo 1o.
+
+Se declara de interés público la producción frutícola y su industrialización en el Estado de Durango. En consecuencia, la observancia de esta Ley y de las disposiciones emanadas de la misma, son de observancia obligatoria para todos los fruticultores e industriales frutícolas del Estado.
+
+###### Artículo 2o.
+
+Las campañas para combatir las plagas y enfermedades que atacan a los árboles frutales, se llevarán a cabo bajo el control de la Secretaría de Agricultura y Recursos Hidráulicos del Poder Ejecutivo Federal y las contenidas en la presente Ley, con la colaboración del Gobierno del Estado, de las Uniones de Fruticultores, de los Ejidos Comuneros y Pequeños Propietarios dedicados a la fruticultura o a su industrialización en el Estado de Durango. Estas campañas abarcan, desde el punto de vista técnico, la totalidad de los árboles frutales de la región de que se trate, estén o no en producción y de las áreas inmediatamente contiguas que por sus características, puedan propiciar la aparición o permanencia de plagas o enfermedades.
+
+###### Artículo 3o.
+
+Es obligación de todo fruticultor o industrial frutícola, informar a la Delegación Estatal de la Secretaría de Agricultura y Recursos Hidráulicos, a la Dirección General de Agricultura y Ganadería del Gobierno del Estado y a los organismos Regionales a que mas adelante se refiere la presente Ley, inmediatamente que aparezca la presencia de cualquier plaga o enfermedad en alguno de sus árboles o instalaciones y de denunciar cuando tenga conocimiento de ellas, la aparición de plagas o enfermedades en aquellos árboles o instalaciones que, no estando en sus terrenos, puedan construir un peligro para su patrimonio, a fin de que se tomen las medidas adecuadas de control o extinción.
+
+###### Artículo 4o.
+
+Todo fruticultor o industrial frutícola, está obligado a propiciar las condiciones y facilitar el acceso a sus terrenos e instalaciones, a los Inspectores debidamente acreditados de la Secretaría de Agricultura y Recursos Hidráulicos, así como a los de la Dirección de Agricultura y Ganadería del Gobierno del Estado y a los Organismos Regionales que para el caso se organicen en términos de esta Ley, con el objeto de comprobar la presencia o ausencia de las plagas o enfermedades en sus árboles, instalaciones o terrenos de su propiedad o de los que tenga en posesión.
+
+###### Artículo 5o.
+
+Para facilitar a la Delegación Estatal de la Secretaría de Agricultura y Recursos Hidráulicos, la colaboración a que se refiere el Artículo 2o. de esta Ley y para lograr la más ágil y eficaz atención de las actividades que se requieran en cada reglón frutícola del Estado, para el combate de las plagas y enfermedades que afecten o puedan afectar la producción frutícola, así como para lograr la mayor tecnificación de todos los aspectos de la fruticultura, se faculta al Ejecutivo del Estado para que organice en cada zona un "Comité Regional para el Fomento y Protección a la Fruticultura", y para que delimite en cada caso, su territorio correspondiente dentro del cual podrá organizar Comités Locales del cual podrá organizar Comités Locales cuando estime necesario, para coadyuvar en las labores del Comité Regional.
+
+###### Artículo 6o.
+
+Cada uno de los Comités Regionales a que se refiere el Artículo anterior, estará integrado por un representante de la Secretaría de Agricultura y Recursos Hidráulicos; un representante de la Unión de Productores de Manzana o en su caso por un representante de los Productores Frutícolas de la región, de que se trate, un representante de los Industriales Frutícolas afiliados a la C.N.I.T., un representante de la Liga de Comunidades Agrarias y Sindicatos Campesinos del Estado de Durango y un representante del Gobierno del Estado.
+
+Cada representante Propietario tendrá Suplente, quien actuará en las Juntas del Comité Regional, en ausencia del respectivo Propietario.
+
+###### Artículo 7o.
+
+El C. Gobernador del Estado, solicitará del C. Delegado Estatal de la Secretaría de Agricultura y Recursos Hidráulicos, de la Unión de Productores de Manzana del Estado, de la Cámara Nacional de la Industria de la Transformación y de la Liga de Comunidades Agrarias y Sindicatos Campesinos del Estado de Durango, el nombramiento de sus respectivos representantes Propietarios y Suplentes, quienes integrarán junto con el representante del C. Gobernador, el Comité Regional de que se trate.
+
+###### Artículo 8o.
+
+El representante de la Delegación Estatal de la Secretaría de Agricultura y Recursos Hidráulicos, actuará siempre como Secretario Ejecutivo del Comité Regional y el representate del Gobierno del Estado fungirá siempre como Tesorero de dicho Organismo.
+
+###### Artículo 9o.
+
+Los cinco representantes Propietarios que integren el Comité Regional, elegirá dentro de ellos mismos al Presidente de dicho Comité, pudiendo recaer en una misma persona, las funciones de Presidente y Secretario Ejecutivo o de las de Presidente y Tesorero. Los Representantes, tanto Propietarios como Suplentes, subsistirán como tales; mientras tanto sus respectivos representados no dejen sin efecto, el nombramiento expedido a su favor y extiendan nuevo nombramiento a favor de otra persona.
+
+El Presidente de cada Comité Regional, desempeñará su cargo por un período de dos años, pudiendo ser reelecto conforme a lo dispuesto por el presente Artículo.
+
+###### Artículo 10o.
+
+Será responsabilidad de cada Comité Regional dentro del territorio de cada región, la promoción y ejecución de las actividades a que se refieren los Artículos 2 y 5 de esta Ley, y en consecuencia, cada Comité Regional tendrá las facultades que esta Ley les concede para el debido desempeño de sus funciones.
+
+###### Artículo 11o.
+
+Cada Comité Regional elaborará su Reglamento Interior, el que deberá ser sometido a la aprobación del C. Gobernador del Estado y del Delegado Estatal de la Secretaría de Agricultura y Recursos Hidráulicos.
+
+###### Artículo 12o.
+
+Los Comités Regionales a que esta Ley se refiere, son Organismos Públicos Descentralizados del Gobierno del Estado con personalidad jurídica y patrimonio propio.
+
+###### Artículo 13o.
+
+El Patrimonio de cada Comité Regional lo constituirán:
+
+1º.- El producto de la recaudación de los derechos que se establecen en esta Ley.
+
+2º.- Los bienes muebles o inmuebles que el Comité Regional adquiera o reciba a modo gratuito del Gobierno Federal.
+
+3º.- Los subsidios que el H. Congreso del Estado llegara a autorizar para los Comités Regionales de que trata esta Ley.
+
+###### Artículo 14o.
+
+Con el fin de integrar el patrimonio de cada Comité Regional, según el punto primero del Artículo anterior se establece con cargo a los propietarios de las huertas, un derecho anual de 0.95% del salario mínimo vigente del campo por reja de manzana de mesa, y un 0.095% por reja de fruta para industrialización. La Secretaría de Finanzas del Gobierno del Estado, directamente por conducto de las Oficinas Recaudadoras de la región de que se trate, se encargará de la recaudación de este derecho con todas las facultades que le otorga la Ley Económica Coactiva del Estado de Durango. El pago del derecho deberá hacerse a la salida de la fruta de la región. Dicho pago es obligatorio para todos los dueños de los árboles en producción, en el territorio de cada región de la Entidad en que el Ejecutivo del Estado, en uso de la facultad que le concede el Artículo 5 de esta Ley, organice el respectivo "Comité Regional para el Fomento y Protección a la Fruticultura".
+
+###### Artículo 15o.
+
+Se faculta al Ejecutivo del Estado para que, a solicitud debidamente fundamentada del respectivo Comité, se envíe al H. Congreso del Estado, Iniciativa de Decreto para que se incremente o se reduzca el importe del derecho de 0.95% sobre el salario mínimo diario vigente en el campo, por reja de manzana de mesa y 0.095% para fruta de uso industrial; en la inteligencia de que no se autorizará ninguna reducción, mientras tanto hubiere algún saldo pendiente de liquidar, de créditos o de cualquier tipo de pasivo, o bien mientras la región afectada no cuente con el equipo de aspersión necesario para lograr un control oportuno y efectivo.
+
+T R A N S I T O R I O S
+
+PRIMERO.- Se abroga la Ley de Fomento y Protección a la Fruticultura del Estado, de fecha Junio 1o. de 1971.
+
+SEGUNDO.- La presente Ley entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+El Ciudadano Gobernador Constitucional del Estado Libre y Soberano de Durango, dispondrá se publique, circule y observe
+
+Dado en el Salón de Sesiones del H. Congreso del Estado, en Victoria de Durango, Dgo., a los (22) veintidós días del mes de Junio del año de (1987) mil novecientos ochenta y siete.
+
+Dip. Lino Mijares Rosales, Presidente. Dip. Arq. Adrián Alanis Quiñones, Secretario.- Dip. Eustacio Pérez Rivera, Secretario Provisional.- Rúbricas.
+
+Por tanto mando se imprima, publique, circule y comuníquese a quienes corresponda para su exacta observancia.
+
+DADO en el PALACIO del PODER EJECUTIVO, en Victoria de Durango, Dgo. a los veintidós días del mes de Junio de mil novecientos ochenta y siete.
+
+El Gobernador Constitucional del Estado, Lic. José Ramírez Gamero.- Rúbrica.
+
+El Secretario General de Gobierno Lic. Gustavo Rivera Ramos.- Rúbrica.
