@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-2623"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-05-29"
-last_updated: "2001-07-02"
+last_updated: "2001-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
 
 Código publicado en la Sección Primera del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -545,7 +545,9 @@ II.- Asesorar a los Ayuntamientos, cuando éstos lo soliciten, en la elaboració
 
 III.- Participar con las autoridades estatales y municipales en la elaboración, ejecución, control y evaluación de los programas de ordenación de zonas conurbadas, regionales y subregionales de desarrollo urbano;
 
-IV.- Formular los programas estatales de obras públicas, en coordinación con la SEDESO, el COPLADEA y los Ayuntamientos;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+IV.- Formular los programas estatales de obras públicas, en coordinación con la SEDESO, la Secretaría de Planeación y los Ayuntamientos;
 
 V.- Proyectar, ejecutar, mantener, conservar y operar, directamente o a través de terceros las obras y servicios públicos que realice la Administración Pública Estatal;
 
@@ -553,7 +555,9 @@ VI.- Fomentar la construcción de obras públicas prioritarias formulando los es
 
 VII.- Proponer, en coordinación con la SEDESO y los Ayuntamientos, la adquisición de reservas territoriales que correspondan a los programas de obras y servicios públicos;
 
-VIII.- Coordinarse con las autoridades municipales y el COPLADEA a fin de realizar los programas estatales de obras públicas en los Municipios de la Entidad;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+VIII.- Coordinarse con las autoridades municipales y la Secretaría de Planeación a fin de realizar los programas estatales de obras públicas en los Municipios de la Entidad;
 
 IX.- Coordinarse con la SEDESO, así como con los Ayuntamientos de la Entidad, para la programación y presupuestación de obras y servicios públicos que se realicen en el Estado;
 
@@ -681,13 +685,17 @@ II.- Un Secretario Técnico, que será el Secretario de Desarrollo Social del Es
 
 III.- Los Presidentes Municipales cuando se analicen asuntos de sus municipios;
 
-IV.- Un representante de las siguientes dependencias y entidades de la administración pública estatal:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+IV.- Un representante de las siguientes dependencias y entidades de la Administración Pública Estatal:
 
 a) Secretaría de Finanzas.
 
 b) Secretaría de Obras Públicas.
 
-c) Comité de Planeación para el Desarrollo del Estado.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+c).- Secretaría de Planeación;
 
 d) Comisión Estatal de Desarrollo Económico y Comercio Exterior.
 
@@ -789,9 +797,25 @@ La Comisión Estatal deberá de sesionar trimestralmente con la asistencia míni
 
 La Comisión del Patrimonio Cultural es un órgano público de consulta y decisión, facultado para establecer y aplicar las políticas, para la conservación, protección y mejoramiento de los centros de población, zonas típicas, monumentos y lugares de valor cultural del Estado. Funcionará permanentemente en su sede de la ciudad capital del Estado con jurisdicción en toda la Entidad.
 
+> <small>N. DE E. EL PRESENTE ARTICULO FUE REFORMADO CON ESTA FECHA POR EL LEGISLADOR, ENCONTRANDOSE ESTE DEROGADO; POR LO QUE SE TRANSCRIBE LA REFORMA COMO FUE PUBLICADA.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 36.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
+La Comisión del Patrimonio Cultural se integrará por:
+
+I.- a III.-...
+
+IV.- Un representante de las siguientes dependencias y entidades de la Administración Pública Estatal;
+
+a). a b). ...
+
+c). Secretaría de Planeación.
+
+d). a f). ....
+
+V.- a VII.- ....
 
 ###### ARTICULO 37.
 
@@ -6958,3 +6982,7 @@ SEPTIMO.- Los Ayuntamientos deberán conformar el Consejo Cultural Honorífico e
 OCTAVO.- El Registro Público de la Propiedad y del Comercio, de acuerdo con lo establecido en el presente decreto, deberá habilitar una sección quinta que se denomine del Registro Público del Patrimonio Cultural del Estado así como los procedimientos administrativos aplicables.
 
 NOVENO.- Las disposiciones reglamentarias de la presente Ley deberán expedirse dentro de los ciento ochenta días contados a partir de la entrada en vigor de este ordenamiento.
+
+P.O. 26 DE NOVIEMBRE DE 2001.
+
+UNICO.- El presente decreto entrará en vigor a partir del 1o. de enero del año 2002.
