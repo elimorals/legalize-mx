@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-congreso-del-estado-de-morelos-13127"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-11-12"
-last_updated: "1998-11-04"
+last_updated: "1999-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13127&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 1999.
 
 Ley publicada en el Periódico Oficial, el día 12 de Noviembre de 1997.
 
@@ -299,43 +299,87 @@ V.- Por muerte.
 
 DE LA DISCIPLINA PARLAMENTARIA.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 22.
 
-Las sanciones disciplinarias que podrán aplicarse a los diputados, son:
+Los diputados como garantes del orden constitucional, tendrán como deber fundamental la salvaguarda del principio de legalidad; desempeñándose con probidad, lealtad y decoro en el cargo o comisión que le han sido conferidos, quedando obligados a observar los siguientes deberes:
 
-I.- Apercibimiento;
+I.- Cumplir con diligencia sus funciones de diputado y abstenerse de efectuar cualquier acto que cause demora o negligencia en su actividad parlamentaria, o implique el ejercicio indebido de su cargo o comisión;
 
-II.- Amonestación;
+II.- Utilizar los recursos humanos y materiales a su servicio, así como la información privilegiada a la que tenga acceso con motivo de su función, exclusivamente para fines de su cargo o comisión;
 
-III.- Amonestación con constancia de acta
+III.- Formular y ejecutar los planes y programas correspondientes a su cargo o comisión;
 
-IV.- Disminución de su remuneración.
+IV.- Observar las normas de cortesía y el respeto para con los miembros del Congreso, así como para con los servidores públicos e invitados al recinto oficial, en el despacho de los asuntos parlamentarios y en el curso de las sesiones; y
 
-V.- Pérdida del cargo
+V.- Guardar el debido respeto y compostura propios de su investidura en el ejercicio de sus funciones, aún fuera del recinto parlamentario.
 
-Las causas y los mecanismos de aplicación de las medidas disciplinarias se estipularan y se sujetarán a lo dispuesto por esta ley y su reglamento.
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 1999)</small>
 
-### CAPITULO I. DE LA MESA DIRECTIVA
+### CAPÍTULO IV. DE LAS MEDIDAS DISCIPLINARIAS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 23.
 
-La Mesa Directiva será la responsable de coordinar los trabajos de la asamblea, bajo la autoridad de su presidente, preservará la libertad de las deliberaciones, cuidar de la efectividad del trabajo legislativo y aplicar con imparcialidad las disposiciones de esta ley, de su reglamento, así como del cumplimiento de los acuerdos aprobados por el pleno.
+El incumplimiento de los deberes a que se refiere el artículo anterior dará origen a las siguientes sanciones:
+
+I.- AMONESTACIÓN.- Los diputados serán amonestados por el presidente del Congreso o de la diputación permanente en su caso, cuando:
+
+A) Con interrupciones infundadas, altere el orden de las sesiones;
+
+B) Agotado el tiempo y el número de sus intervenciones, sin autorización del presidente pretendiere continuar haciendo uso indebido de la tribuna; y
+
+C) Cuando incite al desorden al público asistente a las sesiones del Congreso.
+
+II.- AMONESTACIÓN CON CONSTANCIA EN ACTA.- Los diputados podrán ser amonestados con constancia en el acta por el presidente del Congreso o de la diputación permanente, cuando:
+
+A) En la misma sesión en la que se le aplicó una amonestación, incurra de nueva cuenta en alguna de las causas previstas en la fracción anterior;
+
+B) Provoque un tumulto en la asamblea;
+
+C) Porte armas dentro del recinto parlamentario;
+
+D) En una sesión agreda físicamente a algún compañero diputado; y
+
+E) En una sesión profiera amenazas u ofensas, a uno o varios diputados o a los miembros de las instituciones del Estado, los municipios o de la federación. En este supuesto, el Presidente del Congreso requerirá al diputado para que retire las amenazas u ofensas proferidas, de acatarlo, el presidente no le aplicará la amonestación.
+
+III.- APERCIBIMIENTO.- Los diputados serán apercibidos, por el Presidente del Congreso, cuando:
+
+A) Falten dos veces consecutivas a las sesiones, sin causa justificada;
+
+B) Se retiren de una sesión del pleno, sin justificación o autorización de la presidencia;
+
+C) Falten dos veces consecutivas a reuniones de la Comisión Legislativa a que pertenezcan, o se retiren de alguna de ellas sin justificación o autorización de los demás integrantes de la Comisión; y
+
+D) Cuando incurran en incumplimiento de los deberes a que se refiere el articulo 22.
+
+IV.- DISMINUCIÓN DE SU REMUNERACIÓN.- Los diputados que sin la licencia respectiva dejen de asistir hasta por el término de 8 sesiones consecutivas, no tendrán derecho de percibir las dietas correspondientes.
+
+Para los efectos de la presente Ley se entenderá como amonestación la llamada de atención que, de manera verbal, se haga a un diputado cuando contravenga el orden reglamentario de las sesiones.
+
+El apercibimiento es la advertencia por escrito que se hace a un diputado por incumplir con sus deberes y obligaciones inherentes al cargo.
 
 ## TITULO CUARTO. DE LOS ORGANISMOS DEL CONGRESO
 
-### CAPITULO II. DE LA PRESIDENCIA Y VICEPRESIDENCIA
+### CAPITULO I. DE LA MESA DIRECTIVA
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 24.
 
-La mesa directiva del Congreso se integrará por un presidente, un vicepresidente y dos secretarios.
+La Mesa Directiva será la responsable de coordinar los trabajos de la asamblea. Bajo la autoridad de su Presidente, preservará la libertad de las deliberaciones, cuidará de la efectividad del trabajo legislativo y aplicará las disposiciones de esta Ley, de su reglamento, así como los acuerdos aprobados por el pleno.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 25.
 
-La mesa directiva será electa por el pleno del Congreso en votación por cédula.
+La Mesa Directiva del Congreso se integrará por un Presidente, un Vicepresidente y dos Secretarios y será electa por el pleno del Congreso en votación por cédula.
 
-El presidente y el vicepresidente durarán en su ejercicio un mes y no podrán ser reelectos para ese cargo en el mismo período; los secretarios fungirán durante todo el período para el cual fueron designados y no podrán ser reelectos para el mismo cargo.
+El Presidente y el Vicepresidente durarán en su ejercicio un mes y no podrán ser reelectos para ese cargo en el mismo período; los Secretarios fungirán durante todo el período para el cual fueron designados y no podrán ser reelectos para el mismo cargo.
 
-### CAPITULO III. DE LA SECRETARIA
+### CAPITULO II. DE LA PRESIDENCIA Y VICEPRESIDENCIA
 
 ###### ARTICULO 26.
 
@@ -399,7 +443,7 @@ El Presidente en sus resoluciones o trámites estará subordinado al voto del Co
 
 El vicepresidente auxiliará al presidente en el desempeño de sus funciones y lo sustituirá en sus ausencias e impedimentos con todas las facultades establecidas por el artículo 27 de esta ley. Cuando este faltare en el pleno de la Asamblea por alguna causa que lo amerite o que lo impida, será sustituido por quien determine la Asamblea.
 
-### CAPITULO IV. DE LA COMISION DE REGIMEN INTERNO Y CONCERTACION POLITICA
+### CAPITULO III. DE LA SECRETARIA
 
 ###### ARTICULO 31.
 
@@ -431,7 +475,7 @@ l) Expedir, previa autorización del presidente, las certificaciones que solicit
 
 m) Las demás que les confiera esta ley, su reglamento y demás disposiciones emanadas del Congreso.
 
-### CAPITULO V. DE LAS COMISIONES LEGISLATIVAS
+### CAPITULO IV. DE LA COMISION DE REGIMEN INTERNO Y CONCERTACION POLITICA
 
 ###### ARTICULO 32.
 
@@ -493,9 +537,9 @@ l).- Coadyuvar con la mesa directiva a organizar y conducir los trabajos del Con
 
 j).- (sic) Las demás que le confiera el Pleno, esta Ley y sus disposiciones reglamentarias y no sean competencia de otra comisión.
 
-### CAPITULO I. DE SU DESIGNACION Y ATRIBUCIONES
+### CAPITULO V. DE LAS COMISIONES LEGISLATIVAS
 
-### CAPITULO I. DE LOS GRUPOS Y FRACCIONES PARLAMENTARIOS
+### CAPITULO I. DE SU DESIGNACION Y ATRIBUCIONES
 
 ###### ARTICULO 39.
 
@@ -767,9 +811,11 @@ b) Conocer y opinar sobre los casos relacionados con la afectación del entorno 
 
 c) Coadyuvar con las políticas y programas educativos sobre ecología y preservación del medio ambiente.
 
-### CAPITULO I. DE LOS ORGANOS ADMINISTRATIVOS DEL CONGRESO
+### CAPITULO I. DE LOS GRUPOS Y FRACCIONES PARLAMENTARIOS
 
 ## TITULO QUINTO. DE LA DIPUTACION PERMANENTE
+
+### CAPITULO I. DE LOS ORGANOS ADMINISTRATIVOS DEL CONGRESO
 
 ###### ARTICULO 61.
 
@@ -976,3 +1022,21 @@ Este Reglamento entrará en vigor al día siguiente de su aprobación.
 ###### ARTICULO CUARTO.
 
 Se deroga el artículo séptimo transitorio de la Ley Orgánica del Congreso del Estado de Morelos.
+
+P.O. 23 DE JUNIO DE 1999.
+
+DECRETO No. 585
+
+PRIMERO.- Aprobado que sea el presente Decreto, entrará en vigor al día siguiente de su aprobación por el Congreso del Estado de Morelos.
+
+SEGUNDO.- Túrnese al Titular del Poder Ejecutivo del Estado, para los efectos legales correspondientes.
+
+TERCERO.- Una vez que sea publicado en el Periódico Oficial "Tierra y Libertad", remítase copia a la Suprema Corte de Justicia de la Nación, para su conocimiento.
+
+P.O. 23 DE JUNIO DE 1999.
+
+DECRETO No. 666
+
+PRIMERO.- Aprobado que sea el presente Decreto, entrará en vigor al día siguiente de su aprobación por el Congreso del Estado de Morelos.
+
+SEGUNDO.- Túrnese al Titular del Poder Ejecutivo del Estado, para los efectos legales correspondientes.
