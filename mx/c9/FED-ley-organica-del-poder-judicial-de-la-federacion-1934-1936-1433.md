@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-1934-1936-1433
 country: "mx"
 rank: "ley_organica"
 publication_date: "1934-08-31"
-last_updated: "1935-01-01"
+last_updated: "1936-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1433&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1934-08-27"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION -(1934-1936)-
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO OCTAVO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADO EN EL D.O. DE 10 DE ENERO DE 1936, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE ENERO DE 1935.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE ENERO DE 1936 (ABROGADA).
 
 Ley publicada en la Sección Tercera del Diario Oficial, el viernes 31 de agosto de 1934.
 
@@ -1074,3 +1076,53 @@ En tanto se expide una nueva Ley Orgánica del Poder Judicial de la Federación,
 ###### ARTICULO 4°.
 
 Se reforma en los términos de la presente Ley, la (sic) Orgánica del Poder Judicial de la Federación, de fecha 29 de agosto de 1934.
+
+D.O. 10 DE ENERO DE 1936.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN".]
+
+###### ARTICULO 1o.
+
+Esta ley entrará en vigor el siguiente día de su promulgación, en el "Diario Oficial" de la Federación.
+
+###### ARTICULO 2o.
+
+Los recursos de súplica que se encuentren pendientes de fallo, serán resueltos por la Tercera Sala de la Suprema Corte de Justicia.
+
+###### ARTICULO 3o.
+
+El turno de los juzgados de Distrito a el Distrito Federal, en materia penal, administrativa, civil, será por semanas, de lunes al domingo siguiente, entre tanto la Suprema Corte de Justicia hace la regulación definitiva.
+
+###### ARTICULO 4°
+
+Mientras se expide la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación, a que se refiere el artículo 111 de la Constitución General de la República, continuarán en vigor los artículos 7o. a 9o. de la Ley Orgánica del Poder Judicial de la Federación, de 11 de diciembre de 1928.
+
+###### ARTICULO 5°
+
+Eentre (sic) tanto dura el recargo de trabajo en la Suprema Corte de Justicia, circunstancia ésta que calificará el Pleno, la Primera Sala de la misma, además de los asuntos que le señala el artículo 24 de esta ley, conocerá de la revisión de todos los incidentes de suspensión, excepto los relativos a amparos pedidos en materia de trabajo y prevención social.
+
+La Suprema Corte de Justicia, en Pleno, tendrá también facultad, mientras dure el rezago de labores, para distribuir el trabajo de alguna de las Salas de la misma, que estuviere retrasada en sus funciones, a otra u otras de las Salas que no se encontraren en ese caso.
+
+###### ARTICULO 6°
+
+Al entrar en vigor la presente ley, los jueces de Distrito en los lugares en que existan dos, remitirán al otro juzgado los asuntos de que no deban conocer conforme al artículo 44 de esta ley, con excepción de los siguientes:
+
+I.- Los juicios civiles en que se haya citado para sentencia dentro del mes anterior a la fecha en que entre en vigor esta ley.
+
+II.- Los asuntos del orden penal en que se haya celebrado la audiencia de derecho, o en que deba celebrarse dentro de los cinco días siguientes a la fecha expresada en la fracción anterior, para resolver en definitiva dentro del término legal.
+
+III.- Los juicios de amparo cuyas audiencias deban celebrarse dentro de los cinco días siguientes a la misma fecha.
+
+La remisión de los asuntos civiles y penales se hará mediante lista, por separado, que deberán firmar el juez y el secretario de cada juzgado, como constancia de entrega y de recibo, respectivamente, remitiendo un ejemplar al tribunal de Circuito que corresponda. En igual forma se procederá respeto de los juicios de amparo, remitiéndose la lista a la Suprema Corte de Justicia.
+
+La Suprema Corte dictará las medidas que estime oportunas, a efecto de que la remisión de expedientes se haga sin perjuicio del despacho de los juzgados respectivos.
+
+###### ARTICULO 7°
+
+Los jueces de Distrito tendrán jurisdicción para conocer, conforme a la Ley Orgánica del Juicio de Amparo, de los juicios de amparo promovidos ante ellos contra laudos de las Juntas de Conciliación y Arbitraje, sean federales o locales, y que se encuentren pendientes de resolución al entrar en vigor la presente ley.
+
+La Cuarta Sala de la Suprema Corte de Justicia tendrá también jurisdicción para conocer de los recursos que se hayan interpuesto en los juicios de amparo promovidos ante los juzgados de Distrito contra laudos de las Juntas de Conciliación y Arbitraje, sean federales o locales, y que se encuentren pendientes de resolución ante la misma Suprema Corte, así como de los que se interpongan en los juicios a que se refiere el párrafo anterior, conforme a la misma ley reglamentaria citada en él.
+
+###### ARTICULO 8°.
+
+Se deroga la Ley Orgánica del Poder Judicial de la Federación, expedida el 27 de agosto de 1934, con sus adiciones y reformas y todas las demás disposiciones que se opongan a la presente.
