@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-11860
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "1998-01-20"
+last_updated: "1999-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 1999.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -137,7 +137,9 @@ XIII. Ser el órgano de vinculación con la Comisión Nacional de Derechos Human
 
 XIV. Celebrar convenios y acuerdos, así como realizar reuniones de trabajo y establecer relaciones técnicas y operativas con organismos federales y locales, públicos y privados, en materia de derechos humanos;
 
-XV. Fomentar la participación de los ayuntamientos en materia de divulgación y respeto de los derechos humanos, por medio de la creación de oficinas regionales desconcentradas de la Comisión;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 1999)</small>
+
+XV. Promover la coordinación entre el organismo estatal de derechos humanos y los ayuntamientos, procurando la creación de oficinas que incrementen su presencia en el interior del Estado; fomentar además, la participación de éstos a través de sus comisiones ediiicias (sic) correspondientes, en la divulgación y respeto de los derechos humanos;
 
 XVI. Verificar el irrestricto respeto a los derechos humanos de las personas privadas de su libertad, en los establecimientos destinados a la detención preventiva, custodia o readaptación social que se ubiquen en la entidad;
 
@@ -978,3 +980,9 @@ Ing. Alberto Cárdenas Jiménez
 El Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE JUNIO DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
