@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1975-03-01"
+last_updated: "1975-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1975.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -461,7 +461,9 @@ XIV. Resolver sobre cuestiones de limites entre los Municipios.
 
 XV. Decretar la erección de nuevos pueblos en los términos que prevenga la ley.
 
-XVI. Autorizar al Gobernador para que de acuerdo con las bases que el Congreso determine, enajene los bienes raíces del Estado. Su enajenación deberá ser en subasta publica, bajo pena de nulidad, y cualquier ciudadano podrá demandar esta nulidad.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1975)</small>
+
+XVI. Autorizar al Ejecutivo de la Entidad para que enajene los bienes raíces del Estado sobre la base de avalúos bancarios o periciales de persona autorizada por la Dirección General de Obras Públicas. Las enajenaciones alentarán siempre al interés social.
 
 XVII. Dar bases para contratar empréstitos sobre el crédito del Estado y aprobar estos.
 
@@ -1145,6 +1147,10 @@ El Congreso del Estado deberá de expedir las Leyes reglamentarias necesarias pa
 
 Se derogan todas las Leyes y disposiciones que estén en contradicción con las anteriores reformas.
 
+###### Artículo 2o.
+
+Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
 ###### Artículo 3o.
 
 Las anteriores reformas entrarán en vigor en todo el Estado, a los quince días de su publicación en el Periódico Oficial del Estado.
@@ -1252,3 +1258,9 @@ Unico.- Este Decreto entrará en vigor a partir de la fecha de su publicación e
 P.O. 1 DE MARZO DE 1975.
 
 Unico.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MARZO DE 1975.
+
+###### Artículo 1o.
+
+Todas las actuaciones realizadas por el Ejecutivo Estatal en materia de permuta y enajenación a título gratuito u oneroso de bienes inmuebles propiedad del Estado, con anterioridad a la vigencia de la presente reforma, se ratifican y convalidan.
