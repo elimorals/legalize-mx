@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1974-04-16"
+last_updated: "1977-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 1974.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 1977.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -133,7 +133,7 @@ I. Poder ser votados para todos los cargos de elección popular, y nombrados par
 
 II. Reunirse para tratar y discutir los negocios públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 1974)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 1974)</small>
 
 ###### Artículo 14.
 
@@ -241,7 +241,7 @@ Sólo podrán ejercer jurisdicción en el territorio del Estado las autoridades 
 
 El ejercicio de las funciones propias del Poder Legislativo se encomienda a una corporación que se denominará "CONGRESO EL (SIC) ESTADO".
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1977)</small>
 
 ### CAPITULO QUINTO.
 
@@ -251,7 +251,15 @@ De los ciudadanos poblanos.
 
 ###### Artículo 26.
 
-El Congreso se compondrá cuando menos de once Representantes del Pueblo, electos respectivamente por los Distritos Electorales determinados por la Ley Electoral. Por cada diputado propietario se elegirá un suplente. La elección de diputados será directa en los términos que señale la Ley Electoral.
+El Congreso se compondrá cuando menos de once representantes del pueblo, electos respectivamente por los Distritos Electorales determinados por la Ley Electoral. Por cada diputado propietario se elegirá un suplente. La elección de diputados será directa y se complementará, además, con diputados de partido apegándose, en ambos casos, a lo dispuesto por la Ley Electoral, y, en el segundo, a las reglas siguientes:
+
+I.- Todo partido político que hubiese obtenido su registro conforme a la Ley Estatal Electoral, por lo menos con un año de anterioridad al día de la elección, al obtener el uno y medio por ciento de la votación total en el Estado, en la elección de diputados respectiva, tendrá derecho a que se acredite un diputado, de entre sus candidatos, y a uno más si ha obtenido el tres por ciento o más de la votación total.
+
+II.- Si logra la mayoría en dos o más distritos electorales, no tendrá derecho a que le sean acreditados diputados de partido, pero si triunfa el menor número, siempre que logre el uno y medio por ciento mencionado en la fracción anterior, tendrá derecho a que le sean acreditados hasta dos diputados, sumando el electo por mayoría y el que obtuvo el triunfo por razón de porcentaje.
+
+III.- Los diputados de partido serán acreditados por riguroso orden, de acuerdo con el número decreciente de sufragios que hayan obtenido en relación a los demás candidatos del mismo partido, en sus respectivos distritos.
+
+IV.- Los diputados de mayoría y los de partido, tendrán la misma categoría e iguales derechos y obligaciones.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
@@ -285,17 +293,17 @@ III. Saber leer y escribir.
 
 No pueden ser electos diputados propietarios o suplentes:
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1977)</small>
 
-I.- El Gobernador, el Secretario General, los Magistrados en ejercicio del Tribunal Superior de Justicia del Estado y el Tesorero General del Estado.
+I.- El Gobernador, el Secretario General, los Magistrados en ejercicio del Tribunal Superior de Justicia del Estado y el Secretario de Finanzas del Estado.
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
 II. Los Magistrados, Jueces y empleados Superiores de la Federación en el Estado.
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1977)</small>
 
-III.- El Procurador General de Justicia, el Oficial Mayor de Gobierno, el Secretario Particular del Gobernador, los Directores de las Dependencias del Poder Ejecutivo, el Presidente de la Junta de Conciliación y Arbitraje, el Secretario de la Comisión Agraria Mixta, los Militares en servicio activo y los Jefes de las Policías del Estado, si no se separan definitivamente de sus encargos, tres meses antes de la elección.
+III.- El Procurador General de Justicia, el Sub-Secretario General de Gobierno, el Secretario Particular del Gobernador, los Directores de las Dependencias del Poder Ejecutivo, el Presidente de la Junta Local de Conciliación y Arbitraje, el Secretario de la Comisión Agraria Mixta, los Militares en servicio activo y los Jefes de las Policías del Estado, si no se separan definitivamente de sus encargos, tres meses antes de la elección.
 
 IV. Los Ministros y Tesoreros de los cultos, cuando no hayan renunciado públicamente a su ministerio o cargo, cinco años, por lo menos, antes de la elección.
 
@@ -309,9 +317,11 @@ V.- Los Presidentes Municipales, los Jueces y Recaudadores de Rentas por la circ
 
 El cargo de diputado propietario o el de suplente en funciones, desde el momento en que se empiece a ejercer, será incompatible con cualquiera otro cargo o comisión de la Federación, del Estado o del Municipio, por los cuales se disfrute sueldo sin licencia previa del Congreso; y obtenida ésta, cesará el interesado en sus funciones representativas mientras desempeña la nueva ocupación que se le confiera. La infracción a esta disposición ocasionará la pérdida del carácter de diputado.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1977)</small>
+
 ###### Artículo 31.
 
-La Junta Preparatoria del Congreso, o éste mismo, calificarán las elecciones de los Diputados y sus resoluciones serán definitivas e irrevocables.
+La Junta Preparatoria del Congreso, o este mismo, calificará las elecciones de los Diputados, acreditará a los diputados de partido que corresponda, y sus resoluciones serán definitivas e irrevocables.
 
 ## TITULO TERCERO
 
@@ -331,23 +341,21 @@ Los Diputados son inviolables por las opiniones que manifiesten en el ejercicio 
 
 El Congreso se renovará en su totalidad cada tres años y comenzará a funcionar cada trienio, el día quince de enero posterior a las elecciones.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1977)</small>
 
 ###### Artículo 34.
 
-La Junta Preparatoria para la instalación y para la apertura del Congreso, y éste mismo, no pueden ejercer sus funciones sin la asistencia de más de la mitad del número total de diputados; pero los que asistan, cualquiera que sea su número, deberán reunirse en los días señalados por la Ley y compeler a los ausentes a que concurran dentro de los diez días siguientes, con la advertencia de que, si no lo hacen, se entenderá por ese solo hecho, que renuncian al cargo sin causa justificada, llamándose luego a los suplentes, los que deberán presentarse en un plazo de veinte días, y si no lo hicieren se declarará vacante el cargo y se convocará a nueva elección.
-
-El Diputado que falte quince días consecutivos sin causa justificada, o sin licencia previa, se entenderá que renuncia a concurrir hasta el período inmediato, llamándose desde luego al suplente.
-
-Si no hubiere la mayoría requerida para la instalación del Congreso, o para que ejerza sus funciones una vez instalado se llamará inmediatamente a los suplentes para que desempeñen su cargo, entre tanto transcurren los diez días señalados a los propietarios.
+La Junta Preparatoria para la instalación y para la apertura del Congreso y éste mismo, no pueden ejercer sus funciones sin la asistencia de más de la mitad del número total de diputados; pero los que asistan, cualquiera que sea su número deberán reunirse en los días señalados por la Ley y compeler a los ausentes a que concurran dentro de los diez días siguientes, con la advertencia de que si no lo hacen, se entenderá por ese solo hecho que renuncian al cargo sin causa justificada, llamándose luego a los suplentes, los que deberán presentarse en un plazo de veinte días, y si no lo hicieran se declararán vacante y el cargo y se convocará a nueva elección, siempre y cuando se trate de diputado de mayoría.
 
 ###### Artículo 35.
 
 Los Diputados que no concurran a una sesión, sin causa justificada, no tendrán derecho a la dieta correspondiente.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1977)</small>
+
 ###### Artículo 36.
 
-Diez días antes del fijado para la apertura del Congreso, los Diputados deben reunirse y los que se hallen presentes, formarán desde luego la Junta Preparatoria, la cual tendrá todas las reuniones que fueren necesarias para calificar las credenciales de los Diputados, excitar a los ausentes para que concurran y nombrar Presidente, Vice-Presidente y Secretarios del Congreso. Una vez calificadas dichas credenciales, en número suficiente, se procederá por el Presidente a hacer la declaración solemne de que queda instalada la Legislatura. Las credenciales que no fueren calificadas por la Junta Preparatoria, lo serán por el Congreso.
+Diez días antes del fijado para la apertura del Congreso, los diputados deben reunirse y los que se hallen presentes, formarán desde luego la Junta Preparatoria la cual tendrá todas las reuniones que fueren necesarias para calificar las credenciales de los diputados, acreditar a los diputados de partido, excitar a los ausentes para que concurran y nombrar Presidente, Vice Presidente y Secretarios del Congreso. Una vez calificadas dichas credenciales en número suficiente, se procederá por el Presidente a hacer la declaración solemne de que queda instalada la Legislatura. Las credenciales que no fueren calificadas por la Junta Preparatoria, lo serán por el Congreso.
 
 ###### Artículo 37.
 
@@ -427,9 +435,9 @@ Son facultades del Congreso:
 
 I.- De manera general legislar sobre todas las materias que correspondan por su naturaleza al régimen interior del Estado y no estén reservadas por la Constitución General de la República a los Poderes Federales, ni prohibidas a las Entidades Federativas por la misma Constitución, y a realizar todos los demás actos para los cuales esté facultado por esta Constitución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 1977)</small>
 
-II.- Legislar especialmente en las materias siguientes:
+II.- Legislar especialmente sobre las materias siguientes:
 
 1°. Fundos y Ejidos de los pueblos.
 
@@ -467,11 +475,11 @@ II.- Legislar especialmente en las materias siguientes:
 
 12°. Beneficencia, con la mira de facilitar la formación de asociaciones y la fundación de instituciones de Beneficencia Privada, motivadas por fines altruistas, sobre las bases de que serán laicas y que estarán bajo la vigilancia del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1977)</small>
 
-13°. Educación e Instrucción, procurando sean intensamente difundidas, con especialidad la educación primaria rudimentaria y estableciendo para el más amplio desarrollo de la cultura técnica superior, la "Universidad de Puebla."
+13o.- Educación e Instrucción, procurando sean intensamente difundidos con especialidad la Educación Primaria Rudimentaria y estableciendo para el más amplio desarrollo de la cultura técnica superior las Instituciones que se estimen convenientes.
 
-La enseñanza rudimentaria , primaria, secundaría y normal que se imparta por el Estado o los particulares, sin distinción de grados ni sexos, se sujetará a lo preceptuado en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y a las leyes reglamentarias correspondientes.
+La enseñanza rudimentaria, primaria, secundaria y normal que se imparta por el Estado o los particulares, sin distinción de grados ni sexos, se sujetará a lo preceptuado en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y a las leyes reglamentarias correspondientes.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
@@ -488,6 +496,10 @@ La enseñanza rudimentaria , primaria, secundaría y normal que se imparta por e
 > <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
 
 17º Trabajo y previsión social, conforme a la Constitución Federal, estableciéndose al efecto una Sección en la Secretaría del Ejecutivo, que vigile por el cumplimiento de las disposiciones que se dicten, y cuyo Jefe represente al Gobierno en la Junta Local de Conciliación y Arbitraje.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 1977)</small>
+
+18o.- Todas las demás que emanen de esta Constitución.
 
 III. Iniciar ante el Congreso General las Leyes y Decretos que sean de la competencia del mismo, así como la derogación de unas u otros; y secundar, cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de otros Estados.
 
@@ -541,13 +553,13 @@ XV. Conceder facultades extraordinarias al Ejecutivo en alguno o en todos los ra
 
 XVI. Elegir a los Magistrados del Tribunal Superior, a propuesta en terna del Ejecutivo.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1977)</small>
 
-XVII. Elegir a los Jueces de lo Civil y de lo Criminal a propuesta en terna del Ejecutivo.
+XVII.- Elegir a los jueces de lo Civil y de lo Penal a propuesta en terna del Ejecutivo.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1977)</small>
 
-XVIII. Aceptar las renuncias del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior y de los Jueces de lo Civil y de lo Criminal y conceder a los primeros licencia, en los términos que disponga la ley.
+XVIII.- Aceptar las renuncias del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior y de los Jueces de lo Civil y de lo Penal, y conceder a los primeros licencia, en los términos que disponga la ley.
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1936)</small>
 
@@ -606,6 +618,10 @@ XXX.- Expedir las Leyes necesarias para hacer efectivas todas las anteriores fac
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 1936)</small>
 
 XXXI. Erigirse en Colegio Electoral para cumplir con lo prevenido en el párrafo segundo del artículo 56 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 1977)</small>
+
+XXXII.- Decidir sobre las elecciones de los Ayuntamientos, cuando se reclama acerca de ellas.
 
 ###### Artículo 50.
 
@@ -705,9 +721,9 @@ II. Convocar a la Legislatura a algún punto del Estado fuera de la Capital, si 
 
 III. Recibir la protesta del Gobernador, Diputados, Magistrados del Tribunal Superior y Jueces de Primera Instancia.
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1936)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1977)</small>
 
-IV. Conceder licencia al Gobernador del Estado, a los diputados cuando el número de éstas no exceda de la mitad de los que la integran y a los empleados de la Legislatura y Contaduría General de Glosa, y nombrar en calidad de provisionales, Gobernador del Estado, Magistrados del Tribunal Superior, Jueces de lo Civil y de lo Criminal y empleados de la Secretaría de la Legislatura y Contaduría General de Glosa.
+IV.- Conceder licencia al Gobernador del Estado, a los diputados cuando el número de éstas no exceda de la mitad de los que la integran y a los empleados de la Legislatura y Contaduría General de Glosa, y nombrar en calidad de provisionales, Gobernador del Estado, Magistrados del Tribunal Superior, Jueces de lo Civil y de lo Penal, y empleados de la Secretaría de la Legislatura y Contaduría General de Glosa.
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1936)</small>
 
@@ -845,11 +861,13 @@ XIII. Fijar la interpretación de las leyes de ingresos y de egresos del Estado 
 
 XIV. Presentar al Congreso en los primeros diez días de las sesiones, los Presupuestos de los Ingresos y Egresos del Estado y de los Municipios y las cuentas de recaudación y aplicación de los fondos públicos en el año próximo anterior.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1977)</small>
 
-XV. Decidir sobre las elecciones de los Ayuntamientos cuando se reclame sobre ellas y resolver los conflictos suscitados en los Ayuntamientos y los relativos a los Municipios conforme lo determine esta Constitución y las leyes orgánicas relativas.
+XV.- Resolver los conflictos suscitados en los Ayuntamientos y los relativos a los Municipios conforme lo determine esta Constitución y las Leyes Orgánicas relativas.
 
-XVI. Nombrar al Secretario General, Procurador de Justicia, Suplente de éste, Tesorero General, Agentes del Ministerio Público y demás empleados que conforme a las Leyes no deban ser nombrados por otra autoridad.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1977)</small>
+
+XVI.- Nombrar al Secretario General, Procurador de Justicia, Suplente de éste, Secretario de Finanzas, Agentes del Ministerio Público y demás empleados que conforme a las leyes no deban ser nombrados por otra autoridad.
 
 XVII. Nombrar y remover con causa justificada a los funcionarios y empleados públicos a quienes nombre, cuando ello no estuviere determinado de otro modo en la Constitución o en las Leyes.
 
@@ -867,9 +885,9 @@ XXIII. Ejercer la superior inspección de todos los ramos de la Administración 
 
 XXIV. Conocer de las quejas que se interpongan contra los Ayuntamientos o sus Presidentes.
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1977)</small>
 
-XXV.- Autorizar y someter a la aprobación del Congreso, los Presupuestos de Ingresos de los Municipios del Estado, las ventas de bienes propios y los contratos que celebren los Ayuntamientos, cuando dichos contratos tengan una duración que exceda del período para el cual hubieren sido electos.
+XXV.- Autorizar y someter a la aprobación del Congreso, los Presupuestos de Ingresos y Egresos de los Municipios del Estado, las ventas de bienes propios y los contratos que celebren los ayuntamientos, cuando dichos contratos tengan una duración que excedan del período para el cual hubieren sido electos.
 
 XXVI. Recibir la protesta de todos los funcionarios y empleados de nombramiento del Gobernador que conforme a las Leyes no deban otorgarla ante otra autoridad.
 
@@ -880,6 +898,10 @@ XXVIII. Visitar durante su período los Municipios del Estado que estime conveni
 XXIX. Conceder indultos de penas en los términos y con los requisitos que exprese la Ley.
 
 XXX. Organizar la Secretaría General de Gobierno, sin alterar los Presupuestos.
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 1977)</small>
+
+XXXI.- Celebrar convenios con los Gobernadores de los Estados de la República, sujetándose a lo que establezcan las leyes locales respectivas, para que los reos sentenciados por delitos del orden común, de nacionalidad mexicana, sean trasladados al lugar de su origen o residencia para que cumplan su condena. El traslado de los reos solo podrá efectuarse con su consentimiento expreso.
 
 ###### Artículo 72.
 
@@ -909,9 +931,11 @@ El Secretario General, mientras esté en el ejercicio de sus funciones no podrá
 
 El Secretario substituirá al Gobernador en el caso previsto en el artículo 68 sin necesidad de protesta.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1977)</small>
+
 ###### Artículo 77.
 
-Las faltas temporales del Secretario se llenarán por el Oficial Mayor de Gobierno, que tendrá el carácter de Subsecretario, con los deberes y atribuciones que le señale la ley.
+Las faltas temporales del Secretario se llenarán por el Sub-Secretario General de Gobierno, con los deberes y atribuciones que le señale la ley.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 16 DE ABRIL DE 1974)</small>
 
@@ -1045,9 +1069,9 @@ Los funcionarios del Ministerio Público durarán en sus cargos hasta en tanto e
 
 ###### Artículo 99.
 
-El Territorio del Estado para su administración política se divide en Municipios.
+El territorio del Estado para su administración política se divide en Municipios.
 
-La ley Orgánica de Administración interior del Estado, fijará el mínimum de la población, extensión, límites y demás requisitos para formarlos, para suprimir unos y para erigir otros. Su funcionamiento se sujetará a las bases establecidas en esta Constitución.
+La Ley Orgánica Municipal, fijará el mínimun de la población, extensión, límites y demás requisitos para formarlos, para suprimir unos y para erigir otros. Su funcionamiento se sujetará a las bases establecidas en esta Constitución.
 
 ###### Artículo 100.
 
@@ -1057,7 +1081,7 @@ Cada Municipio será administrado por un Ayuntamiento de elección popular direc
 
 Los Ayuntamientos tienen personalidad jurídica para todos los efectos legales.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1977)</small>
 
 ## TITULO SEPTIMO.
 
@@ -1065,9 +1089,11 @@ Del Municipio Libre.
 
 ### CAPITULO UNICO.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1977)</small>
+
 ###### Artículo 102.
 
-Los Ayuntamientos sin infringir las Leyes de la Federación o del Estado tienen derecho de atender libremente, de la manera que juzguen más eficaz, a todos los ramos de la administración pública del municipio, sin excederse de los presupuestos y podrán expedir Reglamentos autónomos, órdenes, Decretos y circulares, en materia de policía y buen gobierno, necesarios para el cumplimiento de sus funciones.
+Los Ayuntamientos sin infringir las leyes de la federación o del estado, tienen derecho de atender libremente, de la manera que juzguen más eficaz, a todos los ramos de la administración pública del Municipio, sin excederse de los presupuestos, y podrán expedir reglamentos autónomos, acuerdos, órdenes y circulares, en materia de policía y buen gobierno, necesarios para el cumplimiento de sus funciones.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 1944)</small>
 
@@ -1075,17 +1101,17 @@ Los Ayuntamientos sin infringir las Leyes de la Federación o del Estado tienen 
 
 Los Ayuntamientos se renovarán en su totalidad cada tres años, en los términos que disponga la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFOA, P.O. 16 DE ABRIL DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 1977)</small>
 
 ###### Artículo 104.
 
-La Ley Orgánica Municipal, se sujetará a las bases siguientes:
+La Ley Orgánica Municipal se sujetará a las bases siguientes:
 
 I. Los Municipios administrarán libremente su hacienda, la cual se formará de las contribuciones que señale la Legislatura, del Estado, y en todo caso serán las suficientes para atender a sus necesidades.
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1977)</small>
 
-II. Los Ayuntamientos someterán a la aprobación de la Legislatura, por conducto del Titular del Poder Ejecutivo, sus Presupuestos de Ingresos y sus cuentas anuales, y no podrán contratar empréstitos, efectuar ventas de bienes propios, ni celebrar contratos que tengan una duración que exceda del período para el cual hubieren sido electos, sin autorización del Gobernador del Estado y la aprobación del Congreso.
+II.- Los Ayuntamientos someterán a la aprobación de la Legislatura por conducto del titular del Poder Ejecutivo, sus presupuestos de ingresos y de egresos y no podrán contratar empréstitos, efectuar ventas de bienes propios, ni celebrar contratos que tengan una duración que exceda del período para el cual hubieren sido electos, sin la autorización del Gobernador del Estado y la aprobación del Congreso.
 
 III. El Ejecutivo Federal y el Gobernador del Estado tendrán el mando de la policía y fuerza pública de los Municipios donde residieren habitual o transitoriamente. Las mismas, policía y fuerza pública del Municipio auxiliarán a las fuerzas del Estado, y recíprocamente.
 
@@ -1169,13 +1195,15 @@ De la Seguridad Pública.
 
 En el lugar donde residan los Poderes del Estado habrá una Contaduría General que dependerá inmediatamente del Congreso, compuesta de los empleados que designe la Ley, y en la cual Oficina se glosarán sin excepción las cuentas de los caudales públicos.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1977)</small>
+
 ###### Artículo 110.
 
 Toda cuenta de fondos públicos quedará glosada a más tardar un año después de su presentación.
 
 La falta de cumplimiento de este precepto será causa de responsabilidad, así de los empleados de la Contaduría como de la Comisión Inspectora.
 
-Esta tiene la obligación de presentar al Congreso, el cuarto día de los períodos segundo y cuarto de sesiones, una noticia detallada de las cuentas que se han glosado y de las pendientes, explicando por qué la Contaduría no ha terminado sus operaciones.
+Esta tiene la obligación de presentar al Congreso en el primer período de sesiones de cada año de ejercicio legal, una noticia detallada de las cuentas que se han glosado y de las pendientes, explicando por que la Contaduría no ha terminado sus operaciones.
 
 ###### Artículo 111.
 
@@ -1201,13 +1229,13 @@ Los particulares no necesitan autorización del Estado para impartir públicamen
 
 La enseñanza que se imparta en los establecimientos oficiales de educación primaria, preparatoria, normal y técnica comprendiendo la mercantil, la industrial y la agrícola, será gratuita.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1977)</small>
 
 ###### Artículo 116.
 
-El Estado protegerá la educación media y superior, que se imparta en la Entidad.
+El Estado protegerá la educación media y superior, que se imparta en la entidad.
 
-El ejercicio profesional se regirá conforme a lo que disponga la Ley Reglamentaria del Artículo 4o. Constitucional que rija en la Entidad.
+El ejercicio profesional se regirá conforme a lo que disponga la Ley Reglamentaria del artículo 5o. constitucional que rija en la entidad.
 
 ### CAPITULO TERCERO.
 
@@ -1233,7 +1261,7 @@ El Gobierno vigilará conforme a las leyes que se dicten: la conservación, mejo
 
 ###### Artículo 120.
 
-Para los efectos del inciso 16 de la fracción II del artículo 49 de la Constitución, se establecerá una Oficina dependiente del Departamento Ejecutivo, la que vigilará por el exacto cumplimiento de las disposiciones que se dicten sobre el Trabajo y Previsión social.
+Para los efectos del Inciso 17o. de la fracción II del artículo 49 de la Constitución, se establecerá una oficina dependiente del Poder Ejecutivo la que vigilará por el exacto cumplimiento de las disposiciones que se dicte sobre el trabajo y previsión social.
 
 ### CAPITULO QUINTO.
 
@@ -1246,6 +1274,8 @@ Los funcionarios del Estado son responsables de los delitos comunes y de los del
 ### CAPITULO SEXTO.
 
 Del Trabajo.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1977)</small>
 
 ###### Artículo 122.
 
@@ -1327,9 +1357,11 @@ No habrá en el Estado otros títulos ni distinciones que los que decrete el Con
 
 Nadie podrá entrar al desempeño de ningún cargo, empleo o comisión del Estado sin prestar previamente la protesta de cumplir, y en su caso hacer cumplir esta Constitución, la General de la República con sus adiciones y reformas y las leyes que de ambas emanen.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1977)</small>
+
 ###### Artículo 136.
 
-La autoridad ante quien se ejerza el derecho de petición, dictará su proveido por lo menos dentro de ocho días cuando las Leyes no señalen otro término.
+La autoridad ante quien se ejerza el derecho de petición, dictará su proveído, por escrito haciéndolo saber al peticionario en breve término.
 
 > <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
 
@@ -1439,7 +1471,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 17 DE NOVIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 128 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 13 DE NOVIEMBRE DE 1936.
 
@@ -1470,6 +1502,10 @@ P.O. 16 DE ABRIL DE 1974.
 ARTÍCULO UNO.- Las presentes reformas entrarán en vigor a los treinta días siguientes a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 ARTÍCULO DOS.- Dentro del año siguiente a la fecha en que entren en vigencia las presentes reformas, el Congreso deberá introducir las modificaciones necesarias en las Leyes vigentes del Estado, para que las mismas acaten aquéllas y entretanto dichas Leyes continuarán en vigor.
+
+P.O. 19 DE AGOSTO DE 1977.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### Artículo 5°.
 
