@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-obra-publica-para-el-estado-y-los-municipios-de-10506"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-22"
-last_updated: "1996-11-22"
+last_updated: "1997-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE OBRA PUBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 1997.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 22 de noviembre de 1996.
 
@@ -359,7 +359,9 @@ Formarán parte integrante del acuerdo, la descripción pormenorizada de la obra
 
 En la ejecución de la obra pública en la modalidad de administración directa, deberá observarse lo siguiente:
 
-I.- Que se refiera exclusivamente a obra de conservación y mantenimiento;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1997)</small>
+
+I.- Que se refiera a construcciones, conservación y mantenimiento;
 
 II.- En tratándose de obra pública estatal, se considerará que cada acción individualmente, no exceda del monto o límite máximo que se tiene establecido para la modalidad de adjudicación directa por contrato;
 
@@ -970,3 +972,11 @@ LIC. ANTONIO OBREGON PADILLA
 EN AUSENCIA DEL SECRETARIO DE GOBIERNO Y CON FUNDAMENTO EN
 
 EL ARTICULO 66 DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE OCTUBRE DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
