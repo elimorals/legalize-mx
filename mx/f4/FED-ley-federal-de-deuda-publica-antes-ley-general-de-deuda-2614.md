@@ -1,0 +1,282 @@
+---
+title: "LEY FEDERAL DE DEUDA PUBLICA -- ANTES -- LEY GENERAL DE DEUDA PUBLICA"
+identifier: "FED-ley-federal-de-deuda-publica-antes-ley-general-de-deuda-2614"
+country: "mx"
+rank: "ley_federal"
+publication_date: "1976-12-31"
+last_updated: "1976-12-31"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2614&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "2614"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "LEY"
+original_gazette_section: "44 SEGUNDA SECCION"
+reform_count: "8"
+scjn_last_update: "2018-01-30"
+issue_date: "1976-12-30"
+---
+# LEY FEDERAL DE DEUDA PUBLICA -- ANTES -- LEY GENERAL DE DEUDA PUBLICA
+
+LEY GENERAL DE DEUDA PUBLICA
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Diario Oficial de la Federación, el viernes 31 de diciembre de 1976.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+
+JOSE LOPEZ PORTILLO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
+
+Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente
+
+DECRETO:
+
+"El Congreso de los Estados Unidos Mexicanos, decreta:
+
+LA LEY GENERAL DE DEUDA PUBLICA
+
+### CAPITULO I. Disposiciones Generales
+
+###### ARTICULO 1o.
+
+Para los fines de esta ley, la deuda pública está constituida por las obligaciones de pasivo, directas o contingentes derivadas de financiamientos y a cargo de las siguientes entidades:
+
+I.- El Ejecutivo Federal y sus dependencias.
+
+II.- El Departamento del Distrito Federal.
+
+III.- Los organismos descentralizados.
+
+IV.- Las empresas de participación estatal mayoritaria.
+
+V.- Las instituciones y organizaciones auxiliares nacionales de crédito, las nacionales de seguros y de fianzas, y
+
+VI.- Los fideicomisos en los que el fideicomitente sea el Gobierno Federal o alguna de las entidades mencionadas en las fracciones II al V (sic)
+
+###### ARTICULO 2o.
+
+Para los efectos de esta ley se entiende por financiamiento la contratación dentro o fuera del país, de créditos, empréstitos o préstamos derivados de:
+
+I.- La suscripción o emisión de títulos de crédito o cualquier otro documento pagadero a plazo.
+
+II.- La adquisición de bienes, así como la contración (sic) de obras o servicios cuyo pago se pacte a plazos.
+
+III.- Los pasivos contingentes relacionados con los actos mencionados y,
+
+IV.- La celebración de actos jurídicos análogos a los anteriores.
+
+###### ARTICULO 3o.
+
+La Secretaría de Hacienda y Crédito Público, de conformidad con lo dispuesto por el Artículo 31 de la Ley Orgánica de la Administración Pública Federal, es la Dependencia del Ejecutivo Federal encargada de la aplicación de la presente ley, así como de interpretarla administrativamente y expedir las disposiciones necesarias para su debido cumplimiento.
+
+### CAPITULO II. De las Facultades de la Secretaría de Hacienda y Crédito Público
+
+###### ARTICULO 4o.
+
+Corresponde al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público:
+
+I.- Emitir valores y contratar empréstitos para fines de inversión pública productiva, para canje o refinanciamiento de obligaciones del Erario Federal o con propósitos de regulación monetaria.
+
+Las monedas, el plazo de las amortizaciones la tasa de los intereses de la emisión de valores o de la concertación de empréstitos, así como las demás condiciones, serán determinadas por la propia Secretaría de acuerdo con la situación que prevalezca en los mercados de dinero y capital.
+
+II.- Elaborar el programa financiero del sector público con base en el cual se manejará la deuda pública, incluyendo la previsión de divisas requeridas para el manejo de la deuda externa.
+
+III.- Autorizar a las entidades para gestionar y contratar financiamientos fijando los requisitos que deberán observarse en cada caso.
+
+IV.- Cuidar que los recursos procedentes de financiamientos constitutivos de la deuda pública se destinen a la realización de proyectos, actividades y empresas que apoyen los planes de desarrollo económico y social, que generen ingresos para su pago o que se utilicen para el mejoramiento de la estructura del endeudamiento público.
+
+V.- Contratar y manejar la deuda pública del Gobierno Federal y otorgar la garantía del mismo para la realización de operaciones crediticias que se celebren con organismos internacionales de los cuales México sea miembro o con las entidades públicas o privadas nacionales o de países extranjeros, siempre que los créditos estén destinados a la realización de proyectos de inversión o actividades productivas que estén acordes con las políticas de desarrollo económico y social aprobadas por el Ejecutivo y que generen los recursos suficientes para el pago del crédito y tengan las garantías adecuadas.
+
+VI.- Vigilar que la capacidad de pago de las entidades que contraten financiamientos sea suficiente para cubrir puntualmente los compromisos que contraigan. Para tal efecto deberá supervisar en forma permanente el desarrollo de los programas de financiamiento aprobados, así como la adecuada estructura financiera de las entidades acreditadas.
+
+VII.- Vigilar que se hagan oportunamente los pagos de capital e intereses de los créditos contratados por las entidades.
+
+###### ARTICULO 5o.
+
+La Secretaría de Hacienda y Crédito Público tendrá además las siguientes facultades:
+
+I.- Contratar directamente los financiamientos a cargo del Gobierno Federal en los términos de esta ley.
+
+II.- Someter a la autorización del Presidente de la República las emisiones de bonos del Gobierno Federal que se coloquen dentro y fuera del país, las cuales podrán constar de una o varias series que se pondrán en circulación en la oportunidad en que el Ejecutivo Federal lo autorice, a través de la Secretaría. Estas emisiones constituirán obligaciones generales directas e incondicionales de los Estados Unidos Mexicanos, de acuerdo con los términos fijados en las actas de emisión o en los documentos contractuales respectivos. Sus demás características serán señaladas por la misma Secretaría al suscribir las actas de emisión o los documentos contractuales mencionados.
+
+Los títulos que documenten las emisiones que se coloquen en el extranjero, adquiridos por extranjeros no residentes en el país, no causarán impuesto alguno. La Secretaría de Hacienda podrá extender este tratamiento a los agentes financieros del Gobierno Federal, cuando éstos realicen emisiones por cuenta del propio gobierno.
+
+III.- Tomar las medidas de carácter administrativo relativas al pago del principal, liquidación de intereses, comisiones, gastos financieros, requisitos y formalidades de las actas de emisión de los valores y documentos contractuales respectivos que se deriven de los empréstitos concertados, así como la reposición de los valores que documenten obligaciones en moneda nacional y extranjera y para su cotización en las bolsas de valores extranjeras y nacionales. Podrá también convenir con los acreditantes en la constitución de fondos de amortización para el pago de los valores que se rediman.
+
+IV.- Autorizar a las entidades mencionadas en las fracciones II a VI del Artículo 1o. para la contratación de financiamientos.
+
+V.- Llevar el registro de la deuda del sector público federal.
+
+###### ARTICULO 6o.
+
+Las entidades del sector público federal requerirán la autorización previa de la Secretaría de Hacienda y Crédito Público para efectuar negociaciones oficiales, gestiones informales o exploratorias sobre la posibilidad de acudir al mercado externo de dinero y capitales.
+
+Para obtener esta autorización deberán proporcionar a dicha Secretaría sus programas financieros anuales y de mediano y largo plazo, así como la demás información que se les solicite, a fin de determinar sus necesidades de crédito.
+
+###### ARTICULO 7o.
+
+El manejo que hagan las entidades de recursos provenientes de financiamientos contratados en los términos de esta ley, será supervisado por la Secretaría de Hacienda y Crédito Público la que podrá coordinarse con la Secretaría de Estado o el Departamento Administrativo al que corresponda el sector respectivo.
+
+###### ARTICULO 8o.
+
+Los financiamientos que la Secretaría de Hacienda y Crédito Público contrate o autorice deberán estar comprendidos en el programa financiero elaborado en los términos del capítulo III de esta ley y en el programa general de deuda.
+
+### CAPITULO III. De la Programación de la Deuda Pública
+
+###### ARTICULO 9o.
+
+El Congreso de la Unión autorizará los montos del endeudamiento directo neto interno y externo que sea necesario para el financiamiento del Gobierno Federal y de las entidades del sector público federal incluidas en la Ley de Ingresos y en el Presupuesto de Egresos de la Federación así como del Departamento del Distrito Federal. El Ejecutivo Federal informará al Congreso de la Unión del estado de la deuda, al rendir la cuenta pública anual y al remitir el proyecto de ingresos, asimismo informará trimestralmente de los movimientos de la misma. No se computarán dentro de dichos montos los movimientos referentes a propósitos de regulación monetaria.
+
+###### ARTICULO 10.
+
+El Ejecutivo Federal, al someter al Congreso de la Unión las iniciativas correspondientes a la Ley de Ingresos y al Presupuesto de Egresos de la Federación, deberá proponer los montos del endeudamiento neto necesario, tanto interno como externo, para el financiamiento del Presupuesto Federal del ejercicio fiscal correspondiente, proporcionando los elementos de juicio suficientes para fundamentar su propuesta. El Congreso de la Unión al aprobar la Ley de Ingresos, podrá autorizar al Ejecutivo Federal a ejercer o autorizar montos adicionales de financiamiento cuando, a juicio del propio Ejecutivo, se presenten circunstancias económicas extraordinarias que así lo exijan. Cuando el Ejecutivo Federal haga uso de esta autorización informará de inmediato al Congreso.
+
+El Ejecutivo Federal hará las proposiciones que correspondan en las iniciativas de Ley de Ingresos y del Presupuesto de Egresos del Departamento del Distrito Federal quedando sujetos los financiamientos relativos a las disposiciones de esta ley, en lo conducente.
+
+###### ARTICULO 11.
+
+Para determinar las necesidades financieras a que se refiere el artículo anterior, la Secretaría de Hacienda y Crédito Público deberá conocer por conducto de las Secretarías de Estado o Departamentos Administrativos encargados de la coordinación del sector que corresponda, los proyectos y programas de actividades debidamente aprobados por la Secretaría de Programación y Presupuesto, que requieran de financiamientos para su realización.
+
+###### ARTICULO 12.
+
+Los montos de endeudamiento aprobados por el Congreso de la Unión, serán la base para la contratación de los créditos necesarios para el financiamiento del Presupuesto Federal.
+
+###### ARTICULO 13.
+
+La Secretaría de Hacienda y Crédito Público, de acuerdo con las facultades que le concede el Capítulo II de esta ley, autorizará en su caso, los financiamientos que promuevan las entidades, del sector público; cuando estos sean del exterior o se concerten en moneda extranjera tendrá en cuenta la opinión de la Comisión Asesora de Financiamientos Externos.
+
+###### ARTICULO 14.
+
+Las entidades deberán indicar claramente los recursos que se utilizarán para el pago de los financiamientos que promuevan.
+
+###### ARTICULO 15.
+
+En ningún caso se autorizarán financiamientos que generen obligaciones que excedan, a juicio de la Secretaría de Hacienda y Crédito Público, de la capacidad de pago de las entidades del sector público que los promuevan.
+
+###### ARTICULO 16.
+
+El monto de las partidas que las entidades deban destinar anualmente para satisfacer compromisos derivados de la contratación de financiamientos, será revisado por la Secretaría de Hacienda y Crédito Público, a fin de que se incluyan en el Presupuesto de Egresos de la Federación.
+
+### CAPITULO IV. De la Contratación de los Financiamientos del Gobierno Federal
+
+###### ARTICULO 17.
+
+El Ejecutivo Federal y sus dependencias sólo podrán contratar financiamientos a través de la Secretaría de Hacienda y Crédito Público. El Departamento del Distrito Federal, los organismos descentralizados, las empresas de participación estatal mayoritarias, las instituciones y organizaciones auxiliares nacionales de crédito, las nacionales de seguros y fianzas y los fideicomisos a que se refiere el artículo 1o., sólo podrán contratar financiamientos con la autorización previas (sic) de la Secretaría de Hacienda y Crédito Público.
+
+###### ARTICULO 18.
+
+Los proyectos a cargo de las dependencias del Gobierno Federal que requieran financiamientos para su realización, deberán producir los recursos suficientes para su amortización y las obligaciones que se asuman, en razón de que dichos financiamientos, no deberán ser superiores a la capacidad de pago de las entidades del sector público que los promuevan.
+
+La capacidad de pago de las dependencias del Gobierno Federal se establecerá en función de su disponibilidad presupuestal para los ejercicios subsecuentes.
+
+### CAPITULO V. De la Contratación de Financiamientos Para Entidades Distintas del Gobierno Federal
+
+###### ARTICULO 19.
+
+Las entidades mencionadas en las fracciones II a VI del artículo 1o. de esta Ley, que no estén comprendidas dentro del Presupuesto de Egresos de la Federación, requieren autorización previa y expresa de la Secretaría de Hacienda y Crédito Público para la contratación de toda clase de financiamientos.
+
+La autorización sólo podrá comprender aquellos financiamientos incluidos dentro del programa de deuda, salvo el caso de los que se obtengan para fines de regulación monetaria.
+
+###### ARTICULO 20.
+
+Independientemente de lo dispuesto en el último párrafo del artículo anterior, las entidades mencionadas en el artículo 1o. de esta ley deberán formular en cada caso la solicitud correspondiente de la Secretaría de Hacienda y Crédito Público, acompañando la información que ésta determine.
+
+Deberán asimismo presentar ante dicha Secretaría, periódicamente y en la forma en que ésta lo requiera, sus estados financieros, datos sobre sus pasivos y la demás información adicional que les sea solicitada para determinar su capacidad de pago y la necesidad debidamente razonada del tipo de gasto que se pretenda financiar con los recursos del crédito. La Secretaría de Hacienda y Crédito Público podrá complementar la información a que se refiere este artículo mediante el examen de registros y documentos de las mismas entidades.
+
+###### ARTICULO 21.
+
+La Secretaría de Hacienda y Crédito Público se abstendrá de autorizar financiamientos a favor de las entidades a que se refiere este capítulo, cuando los programas de actividades, apoyados total o parcialmente con dichos financiamientos, no estén comprendidos en los planes y presupuestos aprobados.
+
+Los financiamientos deberán ser acordes con la capacidad de pago de las entidades, la cual se estimará conforme a los criterios que establezca en forma general o particular la citada Secretaría.
+
+###### ARTICULO 22.
+
+La Secretaría de Hacienda y Crédito Público comunicará por escrito su resolución a las entidades solicitantes, precisando, en su caso, las características y condiciones en que los créditos puedan ser concertados.
+
+Si el crédito obtenido se formaliza con una emisión de bonos o con un contrato, tanto en el acta de emisión, como en el contrato, así como en los bonos y documentos que de ellos se deriven, deberán citarse los datos fundamentales de la mencionada autorización. Igual disposición será observada en los demás títulos de crédito que suscriban, avalen o acepten las entidades del sector público federal. Los documentos de referencia no tendrán validez si en ellos no están consignados los datos de la autorización otorgada por la Secretaría de Hacienda y Crédito Público.
+
+Los documentos o títulos de crédito en que se hagan constar las obligaciones que contraigan las instituciones nacionales y las organizaciones auxiliares nacionales de crédito, así como las instituciones nacionales de seguros y fianzas, no requerirán para su validez que se incorpore en ellos los datos de la autorización relativa.
+
+### CAPITULO VI. De la Vigilancia de las Operaciones de Endeudamiento
+
+###### ARTICULO 23.
+
+Las entidades acreditadas, ya sean del Gobierno Federal o del sector paraestatal, llevarán los registros de los financiamientos en que participen conforme a las reglas que señale la Secretaría de Hacienda y Crédito Público. Deberán además proporcionar a la misma Secretaría, toda la información necesaria para llevar a cabo la vigilancia que le compete respecto a la aplicación de los recursos provenientes de financiamientos autorizados, con la periodicidad y en la forma que dicha Secretaría determine.
+
+###### ARTICULO 24.
+
+La Secretaría de Hacienda y Crédito Público vigilará que se incluyan en los presupuestos de las entidades del sector público los montos necesarios para satisfacer puntualmente los compromisos derivados de la contratación de financiamientos en los términos de los artículos 2o. y 17 de esta Ley.
+
+###### ARTICULO 25.
+
+Las entidades del sector público prestarán todo género de facilidades al personal de la Secretaría de Hacienda y Crédito Público que, en su caso, acuda a comprobar la debida contratación, aplicación y manejo de la deuda.
+
+###### ARTICULO 26.
+
+Sin perjuicio de lo señalado por los artículos del presente capítulo las Secretarías de Estado y los Departamentos Administrativos encargados de la coordinación de los sectores correspondientes, en el desempeño de sus funciones, vigilarán la utilización de los recursos provenientes de financiamientos autorizados a las entidades de su sector.
+
+### CAPITULO VII. Del Registro de Obligaciones Financieras
+
+###### ARTICULO 27.
+
+La Secretaría de Hacienda y Crédito Público mantendrá el registro de las obligaciones financieras constitutivas de deuda pública que asuman las entidades, en el que se anotarán el monto, características y destino de los recursos captados en su forma particular y global.
+
+La Secretaría de Hacienda y Crédito Público publicará en forma periódica los datos de la deuda pública, consignando todos aquellos que resulten significativos para su mejor comprensión.
+
+###### ARTICULO 28.
+
+Los titulares de las entidades están obligados a comunicar a la Secretaría de Hacienda y Crédito Público los datos de todos los financiamientos contratados así como de los movimientos que en éstos se efectúen.
+
+###### ARTICULO 29.
+
+Las operaciones de crédito autorizadas, así como su registro, sólo podrán modificarse con los mismos requisitos y formalidades relativos a su autorización.
+
+### CAPITULO VIII. De la Comisión Asesora de Financiamientos Externos
+
+###### ARTICULO 30.
+
+Se crea la Comisión Asesora de Financiamientos Externos del Sector Público, como órgano técnico auxiliar de consulta de la Secretaría de Hacienda en materia de crédito externo, que se integrará con un representante propietario y suplente de:
+
+a).- La Secretaría de Hacienda y Crédito Público, que la presidirá.
+
+b).- El Banco de México, S. A.; Nacional Financiera, S. A.; Banco Nacional de Obras y Servicios Públicos, S. A.; Banco Nacional de Crédito Rural, S. A.; Banco Nacional de Comercio Exterior, S. A.; Sociedad Mexicana de Crédito Industrial, S. A.; Financiera Nacional Azucarera, S. A.; y de las entidades del sector público que la Secretaría de Hacienda y Crédito Público considere conveniente.
+
+###### ARTICULO 31.
+
+Las labores de la Comisión serán coordinadas por un Secretariado Técnico, que estará a cargo del Director General de Crédito de la Secretaría de Hacienda y Crédito Público.
+
+###### ARTICULO 32.
+
+La Comisión tendrá las siguientes funciones:
+
+I.- Evaluar las necesidades de financiamiento del sector público federal.
+
+II.- Asesorar en el diseño de la política que deba adoptarse en materia de endeudamiento externo o en moneda extranjera, para el sector público federal, opinando sobre planes anuales en los que se precise la estrategia de captación de recursos externos, los montos que deban obtenerse de estos recursos y la fuente y aplicación de los mismos, en coordinación con las medidas que dicte el Ejecutivo Federal en materia financiera, para alcanzar los objetivos de la política económica nacional.
+
+III.- Proponer las medidas de coordinación de las entidades del sector público federal en todo lo que se refiera a captación de recursos externos para las mismas, considerando lineamientos de negociación sobre las condiciones generales de los créditos externos que se pretendan contratar.
+
+IV.- Estudiar los programas de financiamientos externos para las entidades del sector público federal con criterios de oportunidad y prelación.
+
+V.- Conocer y opinar sobre los estudios que se refieran a la deuda externa del sector público federal y recomendar políticas para mantenerla dentro de la capacidad de pago de dicho sector y del país.
+
+VI.- La Comisión asesorará a la Secretaría de Hacienda y Crédito Público sobre el monto del financiamiento externo que las entidades del sector público contraten anualmente.
+
+VII.- En general todos aquellos que permitan asesorar debidamente a la Secretaría de Hacienda y Crédito Público en el manejo de la deuda externa de las entidades del sector público y las que le señalen esta ley y otros ordenamientos.
+
+Para la programación de los financiamientos la Secretaría de Hacienda y Crédito Público podrá tomar en cuenta la opinión de la Comisión.
+
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+Esta ley entrará en vigor a partir del primero de enero de 1977.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga el artículo 26 de la Ley Orgánica de Nacional Financiera, S. A., relativo a la Comisión Especial de Financiamientos Exteriores y se abrogan las demás disposiciones legales que se opongan a la presente Ley.
+
+México, D.F., a 29 de diciembre de 1976.-Enrique Ramírez y Ramírez, D. P.- Hilda Anderson de Rojas, S. P.- Crescencio Herrera Herrera, D. S.- Mario Carballo Pazos, S. S.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos setenta y seis.- José López Portillo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Julio Rodolfo Moctezuma Cid.- Rúbrica.- El Secretario de Gobernación, Jesús Reyes Heroles.- Rúbrica.
