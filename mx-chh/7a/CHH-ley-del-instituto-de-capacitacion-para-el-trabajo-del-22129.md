@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-de-capacitacion-para-el-trabajo-del-22129"
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-12"
-last_updated: "2001-09-12"
+last_updated: "2002-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 12 de septiembre de 2001.
 
@@ -47,19 +47,27 @@ LEY DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE CHIHUAHUA
 
 ### CAPÍTULO I. NATURALEZA, OBJETO Y ATRIBUCIONES
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2002)</small>
+
 ###### Artículo 1.
 
-Se crea el Instituto de Capacitación para el Trabajo del Estado de Chihuahua como Organismo Público Descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propios, cuya cabeza de sector será la Secretaría de Educación y Cultura.
+Se crea el Instituto de Capacitación para el Trabajo del Estado de Chihuahua como Organismo Público Descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propios, cuya cabeza de sector será la Secretaría de Desarrollo Industrial.
 
 ###### Artículo 2.
 
 El Instituto de Capacitación para el Trabajo del Estado de Chihuahua tendrá como objeto:
 
-I. Impartir e impulsar la capacitación formal para el trabajo en la entidad, propiciando su mejor calidad y vinculación con el aparato productivo y las necesidades de desarrollo existentes en las distintas regiones de Chihuahua.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
 
-II. Promover el desarrollo de perfiles académicos que correspondan a las necesidades del mercado laboral.
+I. Impartir e impulsar la capacitación formal para el trabajo en la entidad, propiciando su mejor calidad y vinculación con el sector industrial y el aparato productivo en general, considerando las necesidades de desarrollo existentes en las distintas regiones de Chihuahua.
 
-III. Establecer programas de actualización para los instructores de los alumnos del Instituto y en general promover la alta capacitación.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
+
+II. Promover el desarrollo de perfiles de sus capacitandos que correspondan a las necesidades vinculadas del sector industrial con el mercado laboral.
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
+
+III. Establecer programas de actualización para los instructores de los capacitandos del Instituto y en general, promover la alta capacitación.
 
 IV. Colaborar con los sectores público, privado y social en la consolidación del desarrollo tecnológico y social de la comunidad.
 
@@ -69,17 +77,25 @@ Para el cumplimiento de su objeto, el Instituto de Capacitación para el Traba o
 
 I. Impartir capacitación a las áreas industriales y de servicios, a través de sus unidades.
 
-II. Formular los planes y programas de estudio que imparta, previa opinión de la Secretaría de Educación Pública del Poder Ejecutivo Federal, así como las modalidades educativas que garanticen la estructuración de aprendizajes que sean acordes con los requerimientos de la industria y los servicios para presentarlos a la consideración de la Junta Directiva.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
 
-III. Proporcionar a los alumnos los medios de apoyo para el aprendizaje tales como materiales audiovisuales, servicio de biblioteca, prácticas de laboratorio, prácticas de taller, sesiones de grupo, conferencias, mesas redondas, prácticas educativas en las empresas industriales o de servicios y los demás que se deriven de los métodos de enseñanza aprendizaje.
+II. Formular los planes y programas de capacitación o estudio que imparta, previa opinión de la Secretaría de Educación Pública del Poder Ejecutivo Federal, así como las modalidades de capacitación o educativas que garanticen la estructuración de aprendizajes que sean acordes con los requerimientos de la industria y los servicios para presentarlos a la consideración de la Junta Directiva.
 
-IV. Observar las disposiciones académicas correspondientes a la capacitación formal para el trabajo que imparte la Secretaría de Educación Pública, por conducto de la Subsecretaría de Educación e Investigación Tecnológicas.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
+
+III. Proporcionar a los alumnos o capacitandos los medios de apoyo para el aprendizaje, tales como materiales audiovisuales, servicio de biblioteca, prácticas de laboratorio, prácticas de taller, sesiones de grupo, conferencias, mesas redondas, prácticas educativas en las empresas industriales o de servicios y los demás que se deriven de los métodos de capacitación-enseñanza-aprendizaje.
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
+
+IV. Observar las disposiciones técnico-académicas correspondientes a la capacitación formal para el trabajo que imparte la Secretaría de Educación Pública, por conducto de la Subsecretaría de Educación e Investigación Tecnológicas.
 
 V. Acreditar y certificar el saber demostrado, independientemente de la forma en que se haya adquirido, conforme a la normatividad vigente emitida por la Secretaría de Educación Pública a través de la Dirección General de Centros de Capacitación.
 
 VI. Presentar servicios de asesoría y capacitación técnica a los sectores público, social y privado que lo soliciten.
 
-VII. Celebrar convenios, contratos y acuerdos con los sectores productivos de bienes y servicios público, social y privado, así como otras instituciones nacionales e internacionales de capacitación formal para el trabajo, conforme a lo dispuesto por la normatividad vigente aplicable.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
+
+VII. Celebrar convenios, contratos y acuerdos con los sectores productivos de bienes y servicios, público, social, privado e industrial, así como otras instituciones nacionales e internacionales de capacitación formal para el trabajo, conforme a lo dispuesto por la normatividad vigente aplicable.
 
 VIII. Crear un órgano de vinculación entre las unidades dependientes del Instituto con el sector productivo de bienes y servicios, con la participación de los representantes de los sectores involucrados.
 
@@ -107,11 +123,15 @@ II. El Director General.
 
 La Junta Directiva será la máxima autoridad del Instituto y estará conformada por:
 
-I. Dos representantes del Gobierno del Estado que serán, los titulares de las Secretarías de Finanzas y Administración, y de Educación y Cultura, fungiendo como su Presidente, el titular de esta última.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
+
+I. Tres representantes del Gobierno del Estado, que serán los titulares de las Secretarías de Finanzas y Administración; de Desarrollo Industrial, quien fungirá como su Presidente, y de Educación y Cultura, quien fungirá como Secretario.
 
 II. Dos representantes del Gobierno Federal que serán designados por el Secretario de Educación Pública.
 
-III. Un representante del Sector Social a invitación del Titular del Poder Ejecutivo del Estado; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
+
+III. Un representante del sector industrial, a invitación del Titular del Poder Ejecutivo del Estado; y
 
 IV. A invitación del Titular del Poder Ejecutivo del Estado dos representantes del sector productivo que participen en el financiamiento del Instituto mediante un patronato constituido para apoyar a la operación del mismo. Estos representantes serán designados por el propio Patronato, de conformidad con sus estatutos.
 
@@ -121,7 +141,9 @@ La Junta Directiva tendrá las siguientes facultades y obligaciones:
 
 I. Establecer, en congruencia con el programa sectorial correspondiente, las políticas generales del Instituto.
 
-II. Estudiar y, en su caso, aprobar y modificar los proyectos de planes y programas de estudio, mismos que deberán registrarse en la Secretaría de Educación Pública.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
+
+II. Estudiar y, en su caso, aprobar y modificar los proyectos de planes y programas de capacitación o estudio, mismos que deberán registrarse en la Secretaría de Educación Pública.
 
 III. Expedir los reglamentos, estatutos, acuerdos y demás disposiciones de su competencia.
 
@@ -141,11 +163,15 @@ X. Acordar anualmente los emolumentos que deberán recibir el Director General, 
 
 XI. Aceptar en su caso, las donaciones, legados y demás liberalidades que se otorguen a favor del Instituto.
 
-XII. Establecer los lineamientos y procedimientos a que deberá sujetarse el Instituto en la celebración de acuerdos, convenios y contratos con los sectores productivos de bienes y servicios: público, social y privado, al tenor de la presente ley; y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
+
+XII. Establecer los lineamientos y procedimientos a que deberá sujetarse el Instituto en la celebración de acuerdos, convenios y contratos con los sectores productivos de bienes y servicios, público, social privado e industrial, al tenor de la presente Ley y demás disposiciones aplicables.
 
 XIII. Nombrar a los Directores de las Unidades dependientes del Instituto, a partir de una terna propuesta por el Director General.
 
-XIV. Nombrar al Secretario de Actas, a propuesta del Presidente.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
+
+XIV. Las demás que le confieran la Ley de Entidades Paraestatales y demás ordenamientos que resulten aplicables.
 
 ###### Artículo 8.
 
@@ -205,7 +231,9 @@ II. Revocar los poderes que otorgue, desistirse del juicio de amparo, presentar 
 
 III. Formular el programa Institucional, sus respectivos subprogramas y proyectos de actividades, así como los presupuestos del Instituto y presentarlos para su aprobación a la Junta Directiva.
 
-IV. Conducir el funcionamiento del Instituto vigilando el cumplimiento de los planes y programas de estudio y los objetivos y metas propuestas.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
+
+IV. Conducir el funcionamiento del Instituto, vigilando el cumplimiento de los planes y programas de capacitación o estudio y los objetivos y metas propuestos.
 
 V. Vigilar el cumplimiento de las disposiciones que norman la estructura y funcionamiento del Instituto y ejecutar los acuerdos que tome la Junta Directiva.
 
@@ -251,7 +279,9 @@ VI. Ser de amplia solvencia moral y profesional.
 
 El patrimonio del Instituto estará constituido por:
 
-I. Las aportaciones, participaciones, subsidios y apoyos que le otorguen los gobiernos federal, estatal y en su caso municipal; así como de los sectores productivos de bienes y servicios, privado y social.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
+
+I. Los apoyos y subsidios, las aportaciones y participaciones, que le otorguen los gobiernos federal, estatal y en su caso municipales; así como los que provengan de los sectores productivos de bienes y servicios, privado, social e industrial.
 
 II. Los legados y las donaciones otorgadas en su favor y los fideicomisos en lo que se le señale como fideicomisario.
 
@@ -289,7 +319,9 @@ II. Técnico de apoyo, y
 
 III. Administrativo.
 
-Será instructor o personal Académico, el contratado por el Instituto para el desarrollo de las funciones sustantivas de capacitación, vinculación y extensionismo tecnológico, en los términos de las disposiciones que al respecto se expidan y de los planes y programas académicos que se aprueben.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2002)</small>
+
+Será instructor o personal académico, el contratado por el Instituto para el desarrollo de las funciones sustantivas de capacitación, vinculación y extensionismo tecnológicos, en los términos de las disposiciones que al respecto se expidan y de los planes y programas de capacitación o académicos que se aprueben.
 
 El personal técnico de apoyo, será el que contrate el Instituto para realizar actividades específicas que posibiliten, faciliten y complementen el desarrollo de las actividades de capacitación.
 
@@ -301,9 +333,11 @@ El nombramiento y permanencia del personal del Instituto se realizará a través
 
 ### CAPÍTULO X. DE LOS CAPACITANDOS
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2002)</small>
+
 ###### Artículo 25.
 
-Serán alumnos del Instituto de Capacitación para el Trabajo del Estado de Chihuahua, quienes habiendo cumplido con los procedimientos y requisitos de selección e ingreso, sean admitidos para cursar cualquiera de las especialidades que se impartan, y tendrán los beneficios y obligaciones que esta ley, y las disposiciones reglamentarias que se expidan les confieran.
+Serán aquéllos quienes habiendo cumplido con los procedimientos y requisitos de selección e ingreso, sean admitidos para cursar cualquiera de las especialidades que se impartan, y tendrán los beneficios y obligaciones que esta Ley y las disposiciones reglamentarias que se expidan les confieran.
 
 ### CAPÍTULO XI. DEL COMISARIO PÚBLICO
 
@@ -356,3 +390,9 @@ C.P. PATRICIO MARTINEZ GARCIA.
 SECRETARIO GENERAL DE GOBIERNO
 
 LIC. VICTOR EMILIO ANCHONDO PAREDES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE ABRIL DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
