@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-seguridad-social-para-los-servidores-publicos-del-8255"
 country: "mx"
 rank: "ley"
 publication_date: "1976-09-10"
-last_updated: "1981-01-22"
+last_updated: "1982-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE YUCATAN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARACTER ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ENERO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE ABRIL DE 1982.
 
 Ley publicada en el Diario Oficial el Viernes 10 de Septiembre de 1976.
 
@@ -879,11 +879,11 @@ I.- El Consejo Directivo, y
 
 II.- El Director General.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 16 DE ABRIL DE 1982)</small>
 
 ###### Artículo 111.
 
-El Consejo Directivo se compondrá de siete miembros, el primero designado directamente por el Gobernador del Estado con el cargo expreso de Director General del Instituto; tres más nombrados por el propio Gobernador: Director General de Hacienda del Estado, Director General de Inspección Administrativa y un representante del Ayuntamiento de Mérida; y otros tres designados por los trabajadores, de los cuales la Federación de los Sindicatos de Trabajadores al Servicio del Estado designará uno, el Magisterio otro y los Municipios el tercero. El Director será el Presidente del Consejo.
+El Consejo Directivo se compondrá de siete miembros, el primero designado directamente por el Gobernador del Estado con el cargo expreso de Director General del Instituto; el Secretario de Finanzas y Tesorero del Estado; el Titular de la Unidad de Inspección General Administrativa del Estado; otro también designado por el C. Gobernador del Estado, entre los Concejales que integren los Ayuntamientos de los Municipios del Estado; y tres más designados por los Trabajadores de los cuales la Federación de los Sindicatos de los Trabajadores al Servicio del Estado designará uno, el Magisterio otro y los trabajadores de los Ayuntamientos el tercero. El Director será el Presidente del Consejo.
 
 ###### Artículo 112.
 
@@ -1054,3 +1054,7 @@ UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación e
 D.O. 22 DE ENERO DE 1981.
 
 UNICO.- Este Decreto entrará en vigor el día veinticinco de enero en curso.
+
+D.O. 16 DE ABRIL DE 1982.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
