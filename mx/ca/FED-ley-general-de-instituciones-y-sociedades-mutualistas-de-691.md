@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1990-01-03"
+last_updated: "1990-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS
 
-> <small>N. DE E. DE ACUERDO CON LO ESTABLECIDO CON EL ARTICULO SEGUNDO DEL DECRETO DE FECHA 28 DE DICIEMBRE DE 1989 Y PUBLICADO EN EL D.O.F. EL 3 DE ENERO DE 1990, SE DEBERA ENTENDER SUSTITUIDO EL NOMBRE DEL ORGANISMO COMISION NACIONAL BANCARIA Y DE SEGUROS POR EL COMISION NACIONAL DE SEGUROS Y FIANZAS.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JULIO DE 1990.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -35,9 +33,7 @@ Que en el ejercicio de las facultades extraordinarias de que me hallo investido 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1990)</small>
 
-LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS
-
-DE SEGUROS
+LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO DE REFORMAS A LA PRESENTE LEY, PUBLICADO EN EL D.O.F. DE 3 DE ENERO DE 1990, CUANDO SE HAGA MENCION A LA COMISION NACIONAL BANCARIA Y DE SEGUROS SE DEBERA SUSTITUIR POR EL DE "COMISION NACIONAL DE SEGUROS Y FIANZAS"; MOTIVO POR EL CUAL, SE MODIFICAN DIVERSOS ARTICULOS DE ESTE ORDENAMIENTO NO SEÑALADOS EN EL ARTICULO PRIMERO DEL CITADO DECRETO.</small>
 
@@ -273,7 +269,7 @@ Se publicará en el Diario Oficial de la Federación, a costa de los interesados
 
 ###### ARTICULO 18.
 
-El negativo de las copias microfotográficas que saquen las empresas de seguros de los documentos que tuvieren en su poder, con motivo o en relación con los actos de su empresa y que señale la Comisión Nacional Bancaria y de Seguros, tendrán en juicio el mismo valor probatorio que los documentos microfilmados.
+El negativo de las copias microfotográficas que saquen las empresas de seguros de los documentos que tuvieren en su poder, con motivo o en relación con los actos de su empresa y que señale la Comisión Nacional de Seguros y Fianzas, tendrán en juicio el mismo valor probatorio que los documentos microfilmados.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -313,7 +309,7 @@ La Secretaría de Hacienda y Crédito Público, en cualquier momento, podrá sol
 
 Para los efectos de esta Ley, se considerarán agentes de seguros las personas físicas o morales que intervengan en la contratación de seguros mediante el intercambio de propuestas y aceptaciones, y en el asesoramiento para celebrarlos, para conservarlos o modificarlos, según la mejor conveniencia de los contratantes.
 
-Para el ejercicio de la actividad de agente de seguros se requerirá autorización de la Comisión Nacional Bancaria y de Seguros, quien la otorgará o negará discrecionalmente y que podrá revocar, previa audiencia de la parte interesada, en los términos del Reglamento respectivo. Las autorizaciones serán para una o varias operaciones o ramos, tendrán el carácter de intransferibles y podrán otorgarse a las siguientes personas cuando satisfagan los requisitos que se establezcan en el Reglamento:
+Para el ejercicio de la actividad de agente de seguros se requerirá autorización de la Comisión Nacional de Seguros y Fianzas, quien la otorgará o negará discrecionalmente y que podrá revocar, previa audiencia de la parte interesada, en los términos del Reglamento respectivo. Las autorizaciones serán para una o varias operaciones o ramos, tendrán el carácter de intransferibles y podrán otorgarse a las siguientes personas cuando satisfagan los requisitos que se establezcan en el Reglamento:
 
 a) Personas físicas vinculadas a las instituciones de seguros por una relación de trabajo, para desarrollar esta actividad;
 
@@ -321,7 +317,7 @@ b) Personas físicas que se dediquen a esta actividad con base en contratos merc
 
 c) Personas morales que se constituyan para operar en esta actividad.
 
-Las actividades que realicen los agentes de seguros se sujetarán a las disposiciones de esta Ley y del Reglamento respectivo, a las orientaciones de política general que en materia aseguradora señale la Secretaría de Hacienda y Crédito Público y a la inspección y vigilancia de la Comisión Nacional Bancaria y de Seguros. Les será, además, aplicable lo dispuesto por el artículo 71 de esta Ley.
+Las actividades que realicen los agentes de seguros se sujetarán a las disposiciones de esta Ley y del Reglamento respectivo, a las orientaciones de política general que en materia aseguradora señale la Secretaría de Hacienda y Crédito Público y a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas. Les será, además, aplicable lo dispuesto por el artículo 71 de esta Ley.
 
 Los agentes de seguros deberán reunir los requisitos que exija el Reglamento respectivo, pero en ningún caso podrá autorizarse a personas que por su posición o por cualquier circunstancia puedan ejercer coacción para contratar seguros.
 
@@ -347,9 +343,9 @@ Los agentes de seguros no proporcionarán datos falsos de las instituciones de s
 
 ###### ARTICULO 25.
 
-Para el ejercicio de la actividad de ajustador de seguros, se requerirá autorización de la Comisión Nacional Bancaria y de Seguros, quien la otorgará o negará discrecionalmente y que podrá revocar, previa audiencia de la parte interesada, en los términos del Reglamento respectivo.
+Para el ejercicio de la actividad de ajustador de seguros, se requerirá autorización de la Comisión Nacional de Seguros y Fianzas, quien la otorgará o negará discrecionalmente y que podrá revocar, previa audiencia de la parte interesada, en los términos del Reglamento respectivo.
 
-Las actividades que realicen los ajustadores de seguros se sujetarán a las disposiciones de esta Ley y del Reglamento respectivo, a las orientaciones de política general que en materia aseguradora señale la Secretaría de Hacienda y Crédito Público y a la inspección y vigilancia de la Comisión Nacional Bancaria y de Seguros. Les será, además, aplicable lo dispuesto por el artículo 71 de esta Ley.
+Las actividades que realicen los ajustadores de seguros se sujetarán a las disposiciones de esta Ley y del Reglamento respectivo, a las orientaciones de política general que en materia aseguradora señale la Secretaría de Hacienda y Crédito Público y a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas. Les será, además, aplicable lo dispuesto por el artículo 71 de esta Ley.
 
 Los ajustadores de seguros deberán reunir los requisitos que exija el Reglamento respectivo, pero en ningún caso podrá autorizarse a personas que por su posición o por cualquier circunstancia puedan ejercer coacción o actuar en contra de las prácticas profesionales generalmente aceptadas afectando los resultados del ajuste.
 
@@ -357,9 +353,9 @@ Los ajustadores de seguros deberán reunir los requisitos que exija el Reglament
 
 ###### ARTICULO 26.
 
-Las instituciones y sociedades mutualistas de seguros sólo podrán utilizar los servicios de intermediarios para la celebración de las operaciones de reaseguro, en el caso de residentes en el país, cuando se trate de personas que cuenten con autorización de la Comisión Nacional Bancaria y de Seguros, quien la otorgará o negará discrecionalmente y que podrá revocar, previa audiencia de la parte interesada, en los términos de las reglas de carácter general que dicte la Secretaría de Hacienda y Crédito Público.
+Las instituciones y sociedades mutualistas de seguros sólo podrán utilizar los servicios de intermediarios para la celebración de las operaciones de reaseguro, en el caso de residentes en el país, cuando se trate de personas que cuenten con autorización de la Comisión Nacional de Seguros y Fianzas, quien la otorgará o negará discrecionalmente y que podrá revocar, previa audiencia de la parte interesada, en los términos de las reglas de carácter general que dicte la Secretaría de Hacienda y Crédito Público.
 
-Las personas de que se trata se ajustarán a las reglas mencionadas, se someterán a la inspección y vigilancia de la Comisión Nacional Bancaria y de Seguros y se apegarán a las orientaciones de política general que señale la propia Secretaría. Les será, además, aplicable lo dispuesto por el artículo 71 de esta Ley.
+Las personas de que se trata se ajustarán a las reglas mencionadas, se someterán a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas y se apegarán a las orientaciones de política general que señale la propia Secretaría. Les será, además, aplicable lo dispuesto por el artículo 71 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -525,7 +521,7 @@ III.- Para participar en asambleas de accionistas de instituciones de seguros o 
 
 a).- Manifestar por escrito el carácter con el que se concurre, sea éste el de accionista, mandatario, comisionista, fiduciario o cualquier otro. Los mandatarios, comisionistas o cualquier tipo de representantes, no podrán en ningún caso participar en asambleas en nombre propio;
 
-b).- Manifestar por escrito el nombre de la o las personas a quienes pertenezcan las acciones que representen y señalar invariablemente el número de acciones que a cada una corresponda, cuando se asista con el carácter de mandatario, comisionista o cualquier tipo de representante, así como en los demás casos que determine la Comisión Nacional Bancaria y de Seguros;
+b).- Manifestar por escrito el nombre de la o las personas a quienes pertenezcan las acciones que representen y señalar invariablemente el número de acciones que a cada una corresponda, cuando se asista con el carácter de mandatario, comisionista o cualquier tipo de representante, así como en los demás casos que determine la Comisión Nacional de Seguros y Fianzas;
 
 c).- Exhibir, en su caso, el certificado a que se refiere el último párrafo de la fracción anterior.
 
@@ -563,55 +559,7 @@ X.- La fusión de dos o más instituciones de seguros, deberá efectuarse confor
 
 XI.- La disolución y liquidación de la sociedad deberá efectuarse de acuerdo con lo que dispone el Título IV de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
-
-ARTICULO 29 bis.- Las instituciones de seguros no podrán utilizar denominaciones iguales o semejantes a las de otros intermediarios financieros, ni ostentarse de cualquier manera como integrantes de grupos financieros, salvo cuando éstos se encuentren constituidos y funcionen conforme a las bases siguientes:
-
-I.- Sólo podrán estar integrados con almacenes generales de depósito, arrendadoras financieras, casas de bolsa, casas de cambio, empresas de factoraje financiero, instituciones de fianzas; instituciones de seguros, sociedades operadoras de sociedades de inversión, así como cualquier otra clase de sociedad que determine la Secretaría de Hacienda y Crédito Público.
-
-Cada grupo deberá contar por lo menos con tres de los intermediarios financieros antes citados, que no sean sociedades operadoras de sociedades de inversión.
-
-No podrán participar en un mismo grupo dos o más intermediarios financieros de una misma clase, salvo sociedades operadoras de sociedades de inversión. También podrán participar dos o más instituciones de seguros, cuando se trate de instituciones autorizadas para operar en ramos distintos.
-
-Los intermediarios financieros en cuyo capital participen instituciones de crédito, sólo podrán participar en un grupo financiero con autorización de la Secretaría de Hacienda y Crédito Público;
-
-II.- Las acciones con derecho a voto, que representen, por lo menos el cincuenta y uno por ciento del capital pagado de cada uno de los integrantes del grupo, deberán ser propiedad de una misma sociedad anónima controladora que tenga por objeto adquirir tales acciones;
-
-III.- Ninguna persona física o moral podrá adquirir, directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de más del quince por ciento del capital pagado de una sociedad controladora.
-
-Este límite también se aplicará a las personas que, de acuerdo con las disposiciones de carácter general que expida la Secretaría de Hacienda y Crédito Público mencionadas en la fracción X siguiente, deban considerarse para estos efectos como una sola persona;
-
-IV.- En ningún momento podrán participar en forma alguna en el capital de las sociedades controladoras, directamente o a través de interpósita persona:
-
-a) Gobiernos o dependencias oficiales extranjeras ni, en general, personas extranjeras, físicas o morales;
-
-b) Instituciones de crédito, ni cualquier otro intermediario financiero, incluso los que formen parte del respectivo grupo; ni
-
-c) Personas morales mexicanas, salvo las que autorice la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, las cuales se dictarán con vistas a favorecer la capitalización de las sociedades controladoras y siempre que dichas personas morales no participen simultáneamente en el capital de intermediarios financieros, ni éstos en el capital de las personas morales de referencia;
-
-V.- Salvo la excepción señalada en el párrafo siguiente, los intermediarios financieros que formen parte de uno de estos grupos, deberán abstenerse de participar en el capital de otros intermediarios financieros, incluso en el capital de los otros integrantes del grupo.
-
-Las instituciones de seguros y las instituciones de fianzas podrán participar, de conformidad con las disposiciones aplicables, en el capital de otras de estas instituciones;
-
-VI.- Las personas que adquieran acciones en contravención de lo dispuesto en las fracciones III a V anteriores deberán venderlas, dentro de los diez días hábiles siguientes a la fecha en que así lo requiera la Secretaría de Hacienda y Crédito Público.
-
-Si transcurrido el plazo citado no se regulariza la inversión, la sociedad emisora procederá a reembolsar las acciones adquiridas en contravención, al cincuenta porciento de su valor en libros según el último estado financiero aprobado. Las acciones así reembolsadas deberán recolocarse dentro del plazo que para tal efecto determine la propia Secretaría;
-
-VII.- La sociedad controladora y cada uno de los intermediarios financieros participantes deberán suscribir un convenio conforme al cual la primera responderá subsidiaria, solidaria e ilimitadamente por las pérdidas de todos y de cada uno de dichos intermediarios financieros. La referida responsabilidad deberá estar prevista expresamente en los estatutos de la sociedad controladora.
-
-En el convenio citado también deberá señalarse expresamente que cada uno de los intermediarios financieros del grupo no responderán por las pérdidas de la sociedad controladora, ni de las de los demás participantes del grupo;
-
-VIII.- La escritura constitutiva de la sociedad controladora, los convenios respectivos, así como las modificaciones a dichos documentos, deberán someterse a la previa aprobación de la Secretaría de Hacienda y Crédito Público, a efecto de revisar si los mismos se ajustan a lo señalado en el presente artículo y a las disposiciones generales mencionadas en la fracción X siguiente.
-
-Una vez otorgada dicha aprobación, la escritura constitutiva y, en su caso, sus reformas deberán ser inscritas en el Registro de Comercio, sin que sea preciso mandamiento judicial, ni de alguna otra autoridad;
-
-IX.- Las sociedades controladoras previstas en la fracción II anterior, estarán sujetas a la inspección y vigilancia de la Comisión Nacional de Valores; y
-
-X.- La Secretaría de Hacienda y Crédito Público expedirá las reglas generales que regulen, de conformidad con las bases señaladas en el presente artículo, la constitución y operación de grupos financieros no bancarios.
-
-Al ejercer las facultades que le confiere este artículo, la propia Secretaría escuchará la previa opinión del Banco de México y de las Comisiones Nacionales Bancarias, de Seguros y Fianzas, y de Valores.
-
-Las instituciones de seguros también podrán ostentarse como integrantes de consorcios de los mencionados en el artículo 11 de esta Ley.
+ARTICULO 29 bis.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, D.O.F. 18 DE JULIO DE 1990)
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -623,7 +571,7 @@ Podrán capitalizarse los fondos de reserva establecidos por el penúltimo párr
 
 ###### ARTICULO 31.
 
-Las instituciones de seguros realizarán su objeto social por medio de uno o más funcionarios que se designen especialmente al efecto y de cuyos actos responderá directa e ilimitadamente la institución, sin perjuicio de las responsabilidades civiles o penales en que ellos incurran personalmente. La Comisión Nacional Bancaria y de Seguros podrá en todo tiempo, acordar que se proceda a la remoción o suspensión de los miembros del consejo de administración, comisarios, directores y gerentes, y de los funcionarios que puedan obligar con su firma a la institución, cuando considere que tales designaciones no corresponden a personas con la suficiente calidad moral o técnica para la adecuada administración y vigilancia de las instituciones, oyendo previamente al interesado y al representante de la institución.
+Las instituciones de seguros realizarán su objeto social por medio de uno o más funcionarios que se designen especialmente al efecto y de cuyos actos responderá directa e ilimitadamente la institución, sin perjuicio de las responsabilidades civiles o penales en que ellos incurran personalmente. La Comisión Nacional de Seguros y Fianzas podrá en todo tiempo, acordar que se proceda a la remoción o suspensión de los miembros del consejo de administración, comisarios, directores y gerentes, y de los funcionarios que puedan obligar con su firma a la institución, cuando considere que tales designaciones no corresponden a personas con la suficiente calidad moral o técnica para la adecuada administración y vigilancia de las instituciones, oyendo previamente al interesado y al representante de la institución.
 
 > <small>(F. DE E., D.O.F. 26 DE MARZO DE 1981)</small>
 
@@ -645,7 +593,7 @@ III.- Los funcionarios o empleados de instituciones de crédito, de seguros, de 
 
 IV.- Los miembros del consejo de administración, propietarios o suplentes, directores generales, gerentes o auditores externos de las sociedades que a su vez controlen a la institución de seguros de que se trate, o de las empresas controladas por los accionistas mayoritarios de la misma.
 
-El nombramiento de comisarios sólo podrá recaer en personas que reúnan los requisitos que fije la Comisión Nacional Bancaria y de Seguros, mediante reglas de carácter general.
+El nombramiento de comisarios sólo podrá recaer en personas que reúnan los requisitos que fije la Comisión Nacional de Seguros y Fianzas, mediante reglas de carácter general.
 
 ###### ARTICULO 32 Bis.
 
@@ -895,7 +843,7 @@ Salvo lo dispuesto en este artículo, ni las instituciones de seguros ni los age
 
 Los agentes de seguros sólo podrán cobrar primas contra el recibo oficial expedido por las instituciones. Las primas así cobradas se entenderán recibidas directamente por las aseguradoras.
 
-Para que los agentes de seguros puedan celebrar contratos a nombre y por cuenta de una institución de seguros, requerirán autorización previa de la Comisión Nacional Bancaria y de Seguros, en los términos del Reglamento respectivo, para actuar como agente apoderado.
+Para que los agentes de seguros puedan celebrar contratos a nombre y por cuenta de una institución de seguros, requerirán autorización previa de la Comisión Nacional de Seguros y Fianzas, en los términos del Reglamento respectivo, para actuar como agente apoderado.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -931,7 +879,7 @@ Las instituciones deberán constituir una reserva de capital para fluctuaciones 
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
-Esta reserva será acumulativa y sólo podrá afectarse, en caso de perdidas diferenciales por baja en la estimación de los valores de su activo, conforme a las bases y requisitos que determine la Comisión Nacional Bancaria y de Seguros, así como en caso de déficit de las reservas técnicas en los términos previstos en el artículo 73 de esta Ley. Las cantidades dispuestas deberán reponerse si posteriormente desaparece total o parcialmente la pérdida.
+Esta reserva será acumulativa y sólo podrá afectarse, en caso de perdidas diferenciales por baja en la estimación de los valores de su activo, conforme a las bases y requisitos que determine la Comisión Nacional de Seguros y Fianzas, así como en caso de déficit de las reservas técnicas en los términos previstos en el artículo 73 de esta Ley. Las cantidades dispuestas deberán reponerse si posteriormente desaparece total o parcialmente la pérdida.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -939,7 +887,7 @@ El monto de esta reserva no se computará para los límites previstos en el art�
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
-La Comisión Nacional Bancaría y de Seguros, podrá autorizar la capitalización parcial de esta reserva cuando, a su juicio, el remanente sea suficiente para cubrir las posibles pérdidas considerando la seguridad de los valores de su activo, así como la adecuada integración de las reservas técnicas que deba mantener la institución.
+La Comisión Nacional de Seguros y Fianzas, podrá autorizar la capitalización parcial de esta reserva cuando, a su juicio, el remanente sea suficiente para cubrir las posibles pérdidas considerando la seguridad de los valores de su activo, así como la adecuada integración de las reservas técnicas que deba mantener la institución.
 
 ###### ARTICULO 45 Bis.
 
@@ -977,11 +925,11 @@ II.- Para los seguros de vida temporales a un año, la parte de la prima neta no
 
 III. Para las operaciones de accidentes y enfermedades y de daños, a excepción de los seguros de naturaleza catastrófica afectos a reservas especiales:
 
-a). En el seguro directo, el importe de la prima no devengada a la fecha de la valuación, correspondiente a las pólizas en vigor. Para fines de cálculo, se deducirá el costo de adquisición autorizado por la Comisión Nacional Bancaria y de Seguros y se utilizará el procedimiento que apruebe la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general; y
+a). En el seguro directo, el importe de la prima no devengada a la fecha de la valuación, correspondiente a las pólizas en vigor. Para fines de cálculo, se deducirá el costo de adquisición autorizado por la Comisión Nacional de Seguros y Fianzas y se utilizará el procedimiento que apruebe la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general; y
 
-b). En operaciones de reaseguro, el importe que por este concepto reporte la cedente, previa autorización de la Comisión Nacional Bancaria y de Seguros, o en su defecto se aplicará el principio de prima no devengada de acuerdo con el inciso anterior;
+b). En operaciones de reaseguro, el importe que por este concepto reporte la cedente, previa autorización de la Comisión Nacional de Seguros y Fianzas, o en su defecto se aplicará el principio de prima no devengada de acuerdo con el inciso anterior;
 
-IV.- Para los seguros de daños que por su naturaleza catastrófica puedan provocar una acumulación de responsabilidades y que, para los efectos de esta fracción clasifique la Secretaría de Hacienda y Crédito Público, la cantidad que resulte de aplicar los porcentajes que determine la propia Secretaría para cada cobertura, mediante reglas de carácter general, del total de las primas emitidas durante el año correspondientes a las obligaciones asumidas por seguros y reaseguro, menos cancelaciones y devoluciones. Esta reserva será acumulativa en el porcentaje que corresponda a primas de retención y sólo podrá afectarse en caso de siniestros previa autorización de la Comisión Nacional Bancaria y de Seguros;
+IV.- Para los seguros de daños que por su naturaleza catastrófica puedan provocar una acumulación de responsabilidades y que, para los efectos de esta fracción clasifique la Secretaría de Hacienda y Crédito Público, la cantidad que resulte de aplicar los porcentajes que determine la propia Secretaría para cada cobertura, mediante reglas de carácter general, del total de las primas emitidas durante el año correspondientes a las obligaciones asumidas por seguros y reaseguro, menos cancelaciones y devoluciones. Esta reserva será acumulativa en el porcentaje que corresponda a primas de retención y sólo podrá afectarse en caso de siniestros previa autorización de la Comisión Nacional de Seguros y Fianzas;
 
 > <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
 
@@ -1023,11 +971,11 @@ b).- Para las operaciones de daños:
 
 2.- Si se trata de siniestros que han sido valuados en forma distinta por ambas partes, el promedio de esas valuaciones;
 
-3.- Si se trata de siniestros respecto de los cuales los asegurados no han comunicado valuación alguna a las instituciones, la estimación que estas últimas hubieren hecho de esos siniestros. La Comisión Nacional Bancaria y de Seguros queda facultada, en este caso, para rectificar la estimación hecha por las empresas;
+3.- Si se trata de siniestros respecto de los cuales los asegurados no han comunicado valuación alguna a las instituciones, la estimación que estas últimas hubieren hecho de esos siniestros. La Comisión Nacional de Seguros y Fianzas queda facultada, en este caso, para rectificar la estimación hecha por las empresas;
 
 c).- Para las operaciones de accidentes y enfermedades se procederá como en las de vida, cuando se trate de capitales o rentas aseguradas por muerte o por incapacidad, y como en las de daños en los demás casos; y
 
-d).- Si se trata del supuesto del artículo 135 de esta Ley, la cantidad que designe la Comisión Nacional Bancaria y de Seguros.
+d).- Si se trata del supuesto del artículo 135 de esta Ley, la cantidad que designe la Comisión Nacional de Seguros y Fianzas.
 
 Las reservas a que se refieren los incisos a), b) y c) de esta fracción, deberán constituirse inmediatamente después de que se hayan hecho las estimaciones correspondientes y la reserva a que se refiere el inciso d), conforme a lo dispuesto por el artículo 135 citado.
 
@@ -1037,7 +985,7 @@ La Comisión Nacional de Seguros y Fianzas podrá, en cualquier momento, abocars
 
 > <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
 
-II.- Por siniestros ocurridos y no reportados, las sumas que autorice anualmente la Comisión Nacional Bancaria y de Seguros, considerando la experiencia de siniestralidad de la institución y las estimaciones que ésta hubiere hecho de siniestros en los que tenga evidencias y razonables posibilidades de responsabilidad para la misma.
+II.- Por siniestros ocurridos y no reportados, las sumas que autorice anualmente la Comisión Nacional de Seguros y Fianzas, considerando la experiencia de siniestralidad de la institución y las estimaciones que ésta hubiere hecho de siniestros en los que tenga evidencias y razonables posibilidades de responsabilidad para la misma.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1053,7 +1001,7 @@ La reserva de previsión se constituirá con las cantidades que resulten de apli
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
-Esta reserva será acumulativa, y sólo podrá afectarse conforme a las bases y requisitos que determine la Comisión Nacional Bancaria y de Seguros, cuando la siniestralidad de retención presente características extraordinarias en una o varias operaciones o ramos, así como en caso de déficit de las demás reservas técnicas de la institución en los términos previstos en el artículo 73 de esta Ley. Las cantidades dispuestas deberán reponerse conforme a las bases que determine la propia Comisión Nacional Bancaria y de Seguros.
+Esta reserva será acumulativa, y sólo podrá afectarse conforme a las bases y requisitos que determine la Comisión Nacional de Seguros y Fianzas, cuando la siniestralidad de retención presente características extraordinarias en una o varias operaciones o ramos, así como en caso de déficit de las demás reservas técnicas de la institución en los términos previstos en el artículo 73 de esta Ley. Las cantidades dispuestas deberán reponerse conforme a las bases que determine la propia Comisión Nacional de Seguros y Fianzas
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1255,11 +1203,11 @@ XI.- Adquirir bienes, títulos o valores que no deban conservar en su activo.
 
 Tampoco podrán adquirir los activos a que se refiere el artículo 61 de esta Ley, en exceso de los límites o con recursos distintos á los establecidos por el mismo artículo.
 
-Cuando una institución reciba en pago de adeudos o por adjudicación en remate dentro de juicios relacionados con créditos a su favor, o al ejercitar los derechos que les confieren las operaciones que celebren conforme a esta Ley, bienes, derechos, títulos o valores de los señalados en esta fracción, deberá venderlos en el plazo de un año a partir de su adquisición cuando se trate de títulos o de bienes muebles; de dos años cuando se trate de inmuebles urbanos; y, de tres años cuando se trate de inmuebles rústicos. Estos plazos podrán ser renovados por la Comisión Nacional Bancaria y de Seguros cuando sea imposible efectuar oportunamente su venta sin gran pérdida para la institución.
+Cuando una institución reciba en pago de adeudos o por adjudicación en remate dentro de juicios relacionados con créditos a su favor, o al ejercitar los derechos que les confieren las operaciones que celebren conforme a esta Ley, bienes, derechos, títulos o valores de los señalados en esta fracción, deberá venderlos en el plazo de un año a partir de su adquisición cuando se trate de títulos o de bienes muebles; de dos años cuando se trate de inmuebles urbanos; y, de tres años cuando se trate de inmuebles rústicos. Estos plazos podrán ser renovados por la Comisión Nacional de Seguros y Fianzas cuando sea imposible efectuar oportunamente su venta sin gran pérdida para la institución.
 
 > <small>(F. DE E., D.O.F. 26 DE MARZO DE 1981)</small>
 
-Expirados los plazos o, en su caso, las renovaciones que de ellos se concedan, la Comisión Nacional Bancaria y de Seguros sacará administrativamente a remate los bienes, derechos, títulos o valores que no hubieren sido vendidos;
+Expirados los plazos o, en su caso, las renovaciones que de ellos se concedan, la Comisión Nacional de Seguros y Fianzas sacará administrativamente a remate los bienes, derechos, títulos o valores que no hubieren sido vendidos;
 
 > <small>(F. DE E., D.O.F. 26 DE MARZO DE 1981)</small>
 
@@ -1281,7 +1229,7 @@ Tampoco podrán repartir dividendos, sin haber constituido debidamente tales res
 
 ###### ARTICULO 63.
 
-Las inversiones de las reservas técnicas y de las operaciones a que se refiere la fracción IV del artículo 34 de esta Ley, estarán afectas a las responsabilidades contraídas por la institución por los contratos celebrados y no podrán disponer de ellas, total ni parcialmente sino para cumplir las obligaciones asumidas y las que resulten por virtud de sentencia ejecutoria de los tribunales de la República o por laudo de la Comisión Nacional Bancaria y de Seguros, a favor de los asegurados o beneficiarios, de acuerdo con esta Ley. Por tanto, los bienes en que se efectúen las inversiones a que se refiere este artículo, son inembargables.
+Las inversiones de las reservas técnicas y de las operaciones a que se refiere la fracción IV del artículo 34 de esta Ley, estarán afectas a las responsabilidades contraídas por la institución por los contratos celebrados y no podrán disponer de ellas, total ni parcialmente sino para cumplir las obligaciones asumidas y las que resulten por virtud de sentencia ejecutoria de los tribunales de la República o por laudo de la Comisión Nacional de Seguros y Fianzas, a favor de los asegurados o beneficiarios, de acuerdo con esta Ley. Por tanto, los bienes en que se efectúen las inversiones a que se refiere este artículo, son inembargables.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -1369,11 +1317,11 @@ Los días autorizados en los términos de este artículo se considerarán inháb
 
 ###### ARTICULO 73.
 
-Sin perjuicio de que en los supuestos y términos previstos en esta Ley se afecten la reserva para fluctuaciones de valores, la de previsión, la parte acumulada de la de riesgos catastróficos, la de siniestros ocurridos y no reportados y, en su caso las reservas técnicas especiales a que se refiere el artículo 52, cuando una institución de seguros presente déficit en las reservas de riesgos en curso o para obligaciones pendientes de cumplir, la Comisión Nacional Bancaria y de Seguros podrá autorizar su reconstitución mediante aportaciones de los accionistas, aplicación de recursos patrimoniales o afectación de las reservas primeramente mencionadas. La institución interesada deberá someter a la aprobación de la propia Comisión Nacional Bancaria y de Seguros, en un plazo no mayor de quince días a partir de la fecha en que se manifieste el déficit, un plan proponiendo los términos en que se procedería a reconstituir dichas reservas, atendiendo la gravedad del déficit, las causas que lo originaron y las medidas para cumplir las obligaciones asumidas por la institución.
+Sin perjuicio de que en los supuestos y términos previstos en esta Ley se afecten la reserva para fluctuaciones de valores, la de previsión, la parte acumulada de la de riesgos catastróficos, la de siniestros ocurridos y no reportados y, en su caso las reservas técnicas especiales a que se refiere el artículo 52, cuando una institución de seguros presente déficit en las reservas de riesgos en curso o para obligaciones pendientes de cumplir, la Comisión Nacional de Seguros y Fianzas podrá autorizar su reconstitución mediante aportaciones de los accionistas, aplicación de recursos patrimoniales o afectación de las reservas primeramente mencionadas. La institución interesada deberá someter a la aprobación de la propia Comisión Nacional de Seguros y Fianzas, en un plazo no mayor de quince días a partir de la fecha en que se manifieste el déficit, un plan proponiendo los términos en que se procedería a reconstituir dichas reservas, atendiendo la gravedad del déficit, las causas que lo originaron y las medidas para cumplir las obligaciones asumidas por la institución.
 
-La Comisión Nacional Bancaria y de Seguros podrá autorizar también, que se proceda a modificar temporalmente las bases de valuación de la reserva matemática de primas a que se refiere la fracción I del artículo 47, tomando en cuenta la experiencia en mortalidad, el rendimiento de las inversiones y la posibilidad de que la institución pueda cumplir con los valores garantizados de sus pólizas.
+La Comisión Nacional de Seguros y Fianzas podrá autorizar también, que se proceda a modificar temporalmente las bases de valuación de la reserva matemática de primas a que se refiere la fracción I del artículo 47, tomando en cuenta la experiencia en mortalidad, el rendimiento de las inversiones y la posibilidad de que la institución pueda cumplir con los valores garantizados de sus pólizas.
 
-La aprobación que, en su caso, otorgue la Comisión Nacional Bancaria y de Seguros, quedará sujeta al cumplimiento del plan que se haya establecido para reponer las cantidades dispuestas de las reservas o para constituir la reserva matemática de primas conforme a las bases originales.
+La aprobación que, en su caso, otorgue la Comisión Nacional de Seguros y Fianzas, quedará sujeta al cumplimiento del plan que se haya establecido para reponer las cantidades dispuestas de las reservas o para constituir la reserva matemática de primas conforme a las bases originales.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1383,7 +1331,7 @@ Lo establecido en este artículo se entenderá sin perjuicio de que la Comisión
 
 ###### ARTICULO 74.
 
-Cuando la Comisión Nacional Bancaria y de Seguros advierta que la situación financiera de una institución de seguros determina deficientes en las reservas técnicas conforme a lo señalado en el artículo 73 de esta Ley, o bien, pérdidas que afecten a su capital pagado, la propia Comisión lo hará del conocimiento de la Secretaría de Hacienda y Crédito Público, la cual concederá a la sociedad un plazo de quince días a partir de la fecha de la notificación, para que ésta exponga lo que a su derecho convenga. Si la Secretaría de Hacienda y Crédito Público, juzga que han quedado comprobados los deficientes en las reservas técnicas o las pérdidas que afecten al capital pagado, fijará un plazo que no será menor de sesenta días para que se integren las reservas o el capital en la cantidad necesaria para mantener la operación de la sociedad dentro de las proporciones legales, notificándola para este efecto.
+Cuando la Comisión Nacional de Seguros y Fianzas advierta que la situación financiera de una institución de seguros determina deficientes en las reservas técnicas conforme a lo señalado en el artículo 73 de esta Ley, o bien, pérdidas que afecten a su capital pagado, la propia Comisión lo hará del conocimiento de la Secretaría de Hacienda y Crédito Público, la cual concederá a la sociedad un plazo de quince días a partir de la fecha de la notificación, para que ésta exponga lo que a su derecho convenga. Si la Secretaría de Hacienda y Crédito Público, juzga que han quedado comprobados los deficientes en las reservas técnicas o las pérdidas que afecten al capital pagado, fijará un plazo que no será menor de sesenta días para que se integren las reservas o el capital en la cantidad necesaria para mantener la operación de la sociedad dentro de las proporciones legales, notificándola para este efecto.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1421,7 +1369,7 @@ V bis.- Si no mantiene el capital mínimo de garantía en los términos del art�
 
 VI.- Cuando por causas imputables a la institución no aparezca debida y oportunamente registrada en su contabilidad las operaciones que haya efectuado.
 
-VII.- Si la institución obra sin consentimiento de la Secretaría de Hacienda y Crédito Público o de la Comisión Nacional Bancaria y de Seguros, en los casos en que la ley exija ese consentimiento;
+VII.- Si la institución obra sin consentimiento de la Secretaría de Hacienda y Crédito Público o de la Comisión Nacional de Seguros y Fianzas, en los casos en que la ley exija ese consentimiento;
 
 > <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
 
@@ -1649,7 +1597,7 @@ e).- El uso de los recursos del sector asegurador en actividades prioritarias y 
 
 ###### ARTICULO 83.
 
-Las sociedades mutualistas de seguros deberán someter a la previa aprobación de la Comisión Nacional Bancaria y de Seguros, las bases mediante las cuales se determinarán los gastos de gestión.
+Las sociedades mutualistas de seguros deberán someter a la previa aprobación de la Comisión Nacional de Seguros y Fianzas, las bases mediante las cuales se determinarán los gastos de gestión.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -1711,7 +1659,7 @@ Se constituirá un fondo de reserva con un 25%, cuando menos, de los remanentes 
 
 ###### ARTICULO 89.
 
-Las sociedades mutualistas de seguros deberán constituir las reservas técnicas a que se refiere el artículo 46 de esta Ley, con las modalidades que establezcan la Secretaría de Hacienda y Crédito Público y la Comisión Nacional Bancaria y de Seguros para su determinación y afectación, en uso de las facultades que a cada una corresponde, y tomando en cuenta la naturaleza de estas sociedades y la de sus asociados, quienes asumen el carácter de aseguradores y asegurados, así como el sistema de ajuste total o parcial de siniestros y el reparto de los remanentes o pérdidas de cada ejercicio entre los mutualizados.
+Las sociedades mutualistas de seguros deberán constituir las reservas técnicas a que se refiere el artículo 46 de esta Ley, con las modalidades que establezcan la Secretaría de Hacienda y Crédito Público y la Comisión Nacional de Seguros y Fianzas para su determinación y afectación, en uso de las facultades que a cada una corresponde, y tomando en cuenta la naturaleza de estas sociedades y la de sus asociados, quienes asumen el carácter de aseguradores y asegurados, así como el sistema de ajuste total o parcial de siniestros y el reparto de los remanentes o pérdidas de cada ejercicio entre los mutualizados.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -1811,7 +1759,7 @@ Es aplicable a las sociedades mutualistas de seguros, lo dispuesto por los artí
 
 ###### ARTICULO 97.
 
-La Secretaría de Hacienda y Crédito Público, oyendo a la sociedad mutualista de seguros afectada y a la Comisión Nacional Bancaria y de Seguros, podrá declarar la revocación de la autorización en los siguientes casos:
+La Secretaría de Hacienda y Crédito Público, oyendo a la sociedad mutualista de seguros afectada y a la Comisión Nacional de Seguros y Fianzas, podrá declarar la revocación de la autorización en los siguientes casos:
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1823,17 +1771,17 @@ III.- Si se infringe lo establecido en la fracción XI del artículo 78 de esta 
 
 IV.- Si la sociedad hiciera gestiones por conducto de una cancillería extranjera;
 
-V.- Si reiteradamente, a pesar de las observaciones de la Comisión Nacional Bancaria y de Seguros, la sociedad excede los límites de las obligaciones que pueda contraer, ejecuta operaciones distintas de las permitidas por la autorización y por la ley o no mantiene las proporciones del activo establecidas en esta Ley;
+V.- Si reiteradamente, a pesar de las observaciones de la Comisión Nacional de Seguros y Fianzas, la sociedad excede los límites de las obligaciones que pueda contraer, ejecuta operaciones distintas de las permitidas por la autorización y por la ley o no mantiene las proporciones del activo establecidas en esta Ley;
 
 VI.- Cuando por causas imputables a la sociedad no aparezcan debida y oportunamente registradas en su contabilidad las operaciones que haya efectuado;
 
-VII.- Si la sociedad obra sin consentimiento de la Secretaría de Hacienda y Crédito Público o de la Comisión Nacional Bancaria y de Seguros, en los casos en que la Ley exija ese consentimiento;
+VII.- Si la sociedad obra sin consentimiento de la Secretaría de Hacienda y Crédito Público o de la Comisión Nacional de Seguros y Fianzas, en los casos en que la Ley exija ese consentimiento;
 
 > <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
 
 VIII.- Si la sociedad no constituye e invierte; dentro de los diez días de haber sido notificada, la reserva específica para obligaciones pendientes de cumplir, que se ordene de acuerdo con lo dispuesto por la fracción I, inciso c) del artículo 135 de esta Ley; y
 
-IX.- Si se disuelve, quiebra o entra en estado de liquidación, salvo que el procedimiento respectivo termine por rehabilitación y la Comisión Nacional Bancaria y de Seguros opine favorablemente a que continúe con la autorización.
+IX.- Si se disuelve, quiebra o entra en estado de liquidación, salvo que el procedimiento respectivo termine por rehabilitación y la Comisión Nacional de Seguros y Fianzas opine favorablemente a que continúe con la autorización.
 
 La declaración de revocación se inscribirá en el Registro Público de Comercio previa orden de la misma Secretaría; incapacitará a la sociedad para otorgar cualquier seguro a partir de la fecha en que se notifique la revocación; y pondrá en estado de liquidación a la sociedad que hubiere dado principio a sus operaciones. La liquidación se practicará de conformidad con lo dispuesto por el Título IV de esta Ley, salvo cuando la causa de la revocación sea precisamente que la sociedad entre en estado de liquidación.
 
@@ -1871,13 +1819,13 @@ IV.- Cuando los precios de mercado a fin de ejercicio sean excepcionalmente favo
 
 V.- Los bienes o mercancías que tengan un mercado regular se estimarán por su cotización;
 
-VI.- Los inmuebles urbanos se estimarán por el promedio de avalúos que conforme a las siguientes bases practiquen los peritos designados por las instituciones o sociedades mutualistas de seguros y que apruebe la Comisión Nacional de y Fianzas:
+VI.- Los inmuebles urbanos se estimarán por el promedio de avalúos que conforme a las siguientes bases practiquen los peritos designados por las instituciones o sociedades mutualistas de seguros y que apruebe la Comisión Nacional de Seguros y Fianzas:
 
 a).- Se calculará el valor físico del inmueble, estimando el valor comercial del terreno más el costo de reposición de las construcciones, disminuido el demérito por el uso, según se observe por su estado de conservación y de los castigos que resulten por la ubicación, distribución y demás circunstancias.
 
 b).- Igualmente se hará una estimación del valor por renta, capitalizando las rentas líquidas que el inmueble sea capaz de producir, usando los tipos de interés que fijará administrativamente la Comisión Nacional de Seguros y Fianzas, teniendo en cuenta la clase de construcción, el tipo de la misma y demás circunstancias. Para calcular la renta líquida se disminuirán del producto bruto las contribuciones de toda índole, cuotas de agua, gastos de conservación, vacíos, depreciación, seguros y gastos generales de administración.
 
-Cuando una institución o sociedad mutualista de seguros no esté de acuerdo con algún avalúo practicado, someterá por escrito ante la Comisión Nacional Bancaria y de Seguros las razones de su inconformidad, y ésta resolverá, pudiendo oír en todo caso la opinión de otro perito nombrado por la misma Comisión Nacional Bancaria y de Seguros. Los honorarios de dicho perito serán también satisfechos por la institución o sociedad mutualista de seguros interesada.
+Cuando una institución o sociedad mutualista de seguros no esté de acuerdo con algún avalúo practicado, someterá por escrito ante la Comisión Nacional de Seguros y Fianzas las razones de su inconformidad, y ésta resolverá, pudiendo oír en todo caso la opinión de otro perito nombrado por la misma Comisión Nacional de Seguros y Fianzas. Los honorarios de dicho perito serán también satisfechos por la institución o sociedad mutualista de seguros interesada.
 
 Hecha la rectificación de valores de los bienes inmuebles, en los términos de esta fracción, la Comisión Nacional de Seguros y Fianzas podrá en cualquier tiempo, ordenar que se supla el defecto que se produzca por menor productividad líquida anual de los bienes o mandar verificar los valores consignados en los avalúos.
 
@@ -1891,13 +1839,13 @@ No se aceptarán dentro del costo de los inmuebles cantidades cargadas por conce
 
 Para que las reconstrucciones o reparaciones de inmuebles que aumenten el valor de los mismos puedan ser computadas en el activo, las instituciones o sociedades mutualistas de seguros interesadas someterán a la Comisión Nacional de Seguros y Fianzas, los proyectos respectivos, y una vez terminadas las obras, dicha Comisión aceptará como afecto al activo el valor que corresponda a tales construcciones o reparaciones, de acuerdo con el avalúo que mande practicar; y
 
-VII.- Los demás bienes y créditos serán estimados por la Comisión Nacional Bancaria y de Seguros, de acuerdo con las pruebas conducentes presentadas al efecto.
+VII.- Los demás bienes y créditos serán estimados por la Comisión Nacional de Seguros y Fianzas, de acuerdo con las pruebas conducentes presentadas al efecto.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 100.
 
-Todo acto, contrato o documento que importe obligación inmediata o eventual o que signifique variación en el activo o en el pasivo de una institución o sociedad mutualista de seguros deberá ser registrado en su contabilidad la que podrá llevarse, sin perjuicio de su valor probatorio legal, en libros encuadernados o en tarjetas u hojas sueltas que llenen los requisitos que fije la Comisión Nacional Bancaria y de Seguros.
+Todo acto, contrato o documento que importe obligación inmediata o eventual o que signifique variación en el activo o en el pasivo de una institución o sociedad mutualista de seguros deberá ser registrado en su contabilidad la que podrá llevarse, sin perjuicio de su valor probatorio legal, en libros encuadernados o en tarjetas u hojas sueltas que llenen los requisitos que fije la Comisión Nacional de Seguros y Fianzas.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -1933,15 +1881,15 @@ Los libros de contabilidad y los registros a que se refiere esta Ley, deberán c
 
 ###### ARTICULO 105.
 
-La Comisión Nacional Bancaria y de Seguros, queda facultada para establecer la forma y términos en que las instituciones y sociedades mutualistas de seguros deberán presentar y publicar sus estados financieros anuales; éstos deberán ser presentados junto con la información que deberán remitirle al efecto, dentro de los treinta días naturales siguientes al cierre del ejercicio. La publicación de tales estados financieros será bajo la estricta responsabilidad de los administradores y comisarios de la institución o sociedad mutualista que hayan sancionado y dictaminado la autenticidad de los datos contenidos en dichos estados contables. Ellos deberán cuidar de que éstos revelen efectivamente la verdadera situación financiera de la sociedad y quedarán sujetos a las sanciones correspondientes en el caso de que las publicaciones no se ajusten a esa situación.
+La Comisión Nacional de Seguros y Fianzas, queda facultada para establecer la forma y términos en que las instituciones y sociedades mutualistas de seguros deberán presentar y publicar sus estados financieros anuales; éstos deberán ser presentados junto con la información que deberán remitirle al efecto, dentro de los treinta días naturales siguientes al cierre del ejercicio. La publicación de tales estados financieros será bajo la estricta responsabilidad de los administradores y comisarios de la institución o sociedad mutualista que hayan sancionado y dictaminado la autenticidad de los datos contenidos en dichos estados contables. Ellos deberán cuidar de que éstos revelen efectivamente la verdadera situación financiera de la sociedad y quedarán sujetos a las sanciones correspondientes en el caso de que las publicaciones no se ajusten a esa situación.
 
-La Comisión Nacional Bancaria y de Seguros, al revisar los estados financieros ordenará modificaciones o correcciones que, a su juicio, fueren fundamentales para ameritar su publicación, podrá acordar que se publique con las modificaciones pertinentes y, en su caso, esta publicación se hará dentro de los quince días siguientes a la notificación del acuerdo respectivo. En ningún otro caso podrán efectuarse segundas publicaciones.
+La Comisión Nacional de Seguros y Fianzas, al revisar los estados financieros ordenará modificaciones o correcciones que, a su juicio, fueren fundamentales para ameritar su publicación, podrá acordar que se publique con las modificaciones pertinentes y, en su caso, esta publicación se hará dentro de los quince días siguientes a la notificación del acuerdo respectivo. En ningún otro caso podrán efectuarse segundas publicaciones.
 
 La revisión de la citada Comisión, no producirá efectos de carácter fiscal.
 
-Los auditores externos que dictaminen los estados financieros de las empresas de seguros, deberán reunir los requisitos que fije la Comisión Nacional Bancaria y de Seguros y suministrarle a ésta los informes y demás elementos de juicio, en los que sustenten sus dictámenes y conclusiones. Cuando las instituciones, y sociedades mutualistas de seguros estén facultadas para practicar operaciones de vida, estarán obligadas, además, a enviarle a la citada Comisión el dictamen de un actuario independiente a quien le serán aplicables los requisitos y condiciones señalados en este párrafo, sobre la valuación de la reserva matemática de primas correspondientes a las pólizas en vigor.
+Los auditores externos que dictaminen los estados financieros de las empresas de seguros, deberán reunir los requisitos que fije la Comisión Nacional de Seguros y Fianzas y suministrarle a ésta los informes y demás elementos de juicio, en los que sustenten sus dictámenes y conclusiones. Cuando las instituciones, y sociedades mutualistas de seguros estén facultadas para practicar operaciones de vida, estarán obligadas, además, a enviarle a la citada Comisión el dictamen de un actuario independiente a quien le serán aplicables los requisitos y condiciones señalados en este párrafo, sobre la valuación de la reserva matemática de primas correspondientes a las pólizas en vigor.
 
-Las instituciones de seguros no podrán pagar los dividendos decretados por sus asambleas generales de accionistas, y las sociedades mutualistas de seguros no podrán repartir ningún remanente entre los mutualizados, antes de dar por concluida la revisión de los estados financieros. Sin embargo, la Comisión Nacional Bancaria y de Seguros, discrecionalmente, podrá autorizar el reparto parcial de dichos dividendos o remanentes, en vista de la información y documentación que se le presenten.
+Las instituciones de seguros no podrán pagar los dividendos decretados por sus asambleas generales de accionistas, y las sociedades mutualistas de seguros no podrán repartir ningún remanente entre los mutualizados, antes de dar por concluida la revisión de los estados financieros. Sin embargo, la Comisión Nacional de Seguros y Fianzas, discrecionalmente, podrá autorizar el reparto parcial de dichos dividendos o remanentes, en vista de la información y documentación que se le presenten.
 
 Los repartos efectuados en contravención a lo dispuesto en el párrafo anterior, deberán ser restituidos a la sociedad. Serán solidariamente responsables a este respecto los accionistas o mutualizados que los hayan percibido y los administradores y funcionarios que los hayan pagado.
 
@@ -1963,7 +1911,7 @@ Las instituciones y sociedades mutualistas de seguros y las demás personas y em
 
 ###### ARTICULO 107.
 
-Las instituciones y las sociedades mutualistas de seguros, deberán rendir a la Secretaría de Hacienda y Crédito Público y a la institución u organismo que ésta determine de acuerdo a lo dispuesto por el artículo 57 de esta Ley, así como a la Comisión Nacional Bancaria y de Seguros, en la forma y términos que al efecto establezcan, los informes y pruebas que sobre su organización, operaciones, contabilidad, inversiones o patrimonio les soliciten para fines de regulación, supervisión, control, inspección, vigilancia, estadística y demás funciones que conforme a esta Ley u otras disposiciones legales y administrativas les corresponda ejercer.
+Las instituciones y las sociedades mutualistas de seguros, deberán rendir a la Secretaría de Hacienda y Crédito Público y a la institución u organismo que ésta determine de acuerdo a lo dispuesto por el artículo 57 de esta Ley, así como a la Comisión Nacional de Seguros y Fianzas, en la forma y términos que al efecto establezcan, los informes y pruebas que sobre su organización, operaciones, contabilidad, inversiones o patrimonio les soliciten para fines de regulación, supervisión, control, inspección, vigilancia, estadística y demás funciones que conforme a esta Ley u otras disposiciones legales y administrativas les corresponda ejercer.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -2133,7 +2081,7 @@ XXI.- Las demás que le sean atribuidas por esta Ley y otros ordenamientos legal
 
 ###### ARTICULO 110.
 
-Las visitas o inspecciones serán practicadas a todas las instituciones y sociedades mutualistas de seguros, por lo menos dentro de cada año y su frecuencia se determinará por las necesidades de cada caso concreto; ello sin perjuicio de las que se practiquen a solicitud de los comisarios o de un grupo de accionistas o de tenedores de pólizas, que presenten datos suficientes a juicio de la Comisión Nacional Bancaria y de Seguros, para justificar esa visita.
+Las visitas o inspecciones serán practicadas a todas las instituciones y sociedades mutualistas de seguros, por lo menos dentro de cada año y su frecuencia se determinará por las necesidades de cada caso concreto; ello sin perjuicio de las que se practiquen a solicitud de los comisarios o de un grupo de accionistas o de tenedores de pólizas, que presenten datos suficientes a juicio de la Comisión Nacional de Seguros y Fianzas, para justificar esa visita.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -2361,11 +2309,11 @@ En caso de reclamación contra una institución o sociedad mutualista de seguros
 
 I.- Se deberá agotar el procedimiento conciliatorio, cumpliendo las reglas que a continuación se señalan:
 
-a). El reclamante presentará un escrito ante la Comisión Nacional Bancaria y de Seguros, con el que se correrá traslado a la empresa de que se trate.
+a). El reclamante presentará un escrito ante la Comisión Nacional de Seguros y Fianzas, con el que se correrá traslado a la empresa de que se trate.
 
 La presentación de la reclamación ante la Comisión interrumpirá el plazo establecido en el artículo 81 de la Ley sobre el Contrato de Seguros.
 
-b). La empresa de seguros, dentro del término de cinco días contados a partir de aquél en que reciba el traslado, rendirá un informe por escrito a la Comisión Nacional Bancaria y de Seguros en el que responderá en forma detallada respecto a todos y cada uno de los hechos a que se refiere la reclamación, el cual deberá presentarse por conducto de un representante legítimo.
+b). La empresa de seguros, dentro del término de cinco días contados a partir de aquél en que reciba el traslado, rendirá un informe por escrito a la Comisión Nacional de Seguros y Fianzas en el que responderá en forma detallada respecto a todos y cada uno de los hechos a que se refiere la reclamación, el cual deberá presentarse por conducto de un representante legítimo.
 
 c). Al recibir la reclamación, la Comisión ordenará a la empresa de seguros que, dentro del término de diez días, constituya e invierta la reserva específica para obligaciones pendientes de cumplir, a menos de que a juicio de dicha Comisión fuere notoriamente improcedente dicha reclamación.
 
@@ -2383,7 +2331,7 @@ II.- En el juicio arbitral con amigable composición, de manera breve y concisa 
 
 La Comisión resolverá en conciencia y a buena fe guardada, sin sujeción a formalidades especiales pero observando las esenciales del procedimiento. No habrá incidentes y la resolución sólo admitirá aclaración de la misma, a instancia de parte, presentada dentro de los tres días siguientes al de la notificación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 III.- El juicio arbitral de estricto derecho se apegará al procedimiento que convencionalmente determinen las partes en acta ante la Comisión, fijando las reglas para tal efecto; aplicándose supletoriamente el Código de Comercio, con excepción de sus artículos 1235 y 1296; a falta de disposición de dicho Código, el Código de Procedimientos Civiles para el Distrito Federal, salvo lo dispuesto por el artículo 617.
 
@@ -2463,7 +2411,7 @@ En materia jurisdiccional:
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
-I.- Los tribunales no darán entrada a demanda alguna contra una empresa de seguros si el actor en ella no afirma bajo protesta de decir verdad, que ante la Comisión Nacional Bancaria y de Seguros se agotó el procedimiento conciliatorio a que se refiere la fracción I del artículo anterior.
+I.- Los tribunales no darán entrada a demanda alguna contra una empresa de seguros si el actor en ella no afirma bajo protesta de decir verdad, que ante la Comisión Nacional de Seguros y Fianzas se agotó el procedimiento conciliatorio a que se refiere la fracción I del artículo anterior.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
 
@@ -2595,7 +2543,7 @@ Cuando todos los actos que concurran a la celebración del contrato, incluyendo 
 
 Es excluyente de responsabilidad penal por desobediencia a la prohibición contenida en la fracción I del artículo 3o. de esta Ley, la ignorancia de que a una institución de seguros se hubiera revocado la concesión o a una sociedad mutualista la autorización, que originalmente tuviera para operar o de que, por cualquier otra causa, se hubieran extinguido o suspendido sus efectos antes de contratar con ella, ignorancia que se presumirá en el tomador del seguro y en el asegurado o sus causahabientes, pero no en el intermediario.
 
-La empresa o negociación que haya efectuado la operación u operaciones activas de seguros que prohibe la fracción I del referido artículo 3o., será intervenida administrativamente por la Comisión Nacional Bancaria y de Seguros, hasta que la operación u operaciones ilícitas se corrijan.
+La empresa o negociación que haya efectuado la operación u operaciones activas de seguros que prohibe la fracción I del referido artículo 3o., será intervenida administrativamente por la Comisión Nacional de Seguros y Fianzas, hasta que la operación u operaciones ilícitas se corrijan.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -2627,7 +2575,7 @@ IV.- Que incurran en la violación de cualquiera de las prohibiciones que establ
 
 > <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
 
-V.- Que intencionalmente inscriban datos falsos en la contabilidad o que produzcan datos falsos de los documentos o informes que deban proporcionar a la Secretaría de Hacienda y Crédito Público, a la institución u organismo que esta determine conforme al artículo 57 de esta Ley o a la Comisión Nacional Bancaria y de Seguros.
+V.- Que intencionalmente inscriban datos falsos en la contabilidad o que produzcan datos falsos de los documentos o informes que deban proporcionar a la Secretaría de Hacienda y Crédito Público, a la institución u organismo que esta determine conforme al artículo 57 de esta Ley o a la Comisión Nacional de Seguros y Fianzas.
 
 > <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
@@ -3126,3 +3074,17 @@ Las infracciones cometidas en anterioridad a la vigencia de este Decreto se sanc
 ###### ARTICULO OCTAVO.
 
 La Secretaría de Hacienda y Crédito Público dispondrá del término de un año, a partir de la vigencia del presente Decreto, para que en el orden administrativo establezca los procedimientos conducentes a su ejecución.
+
+D.O.F. 18 DE JULIO DE 1990.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan los artículos 15 bis de la Ley Federal de Instituciones de Fianzas, 29 bis de la Ley General de Instituciones de Seguros y 49 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; así como las demás disposiciones que se opongan a lo dispuesto por esta Ley.
+
+...
