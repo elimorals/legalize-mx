@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1995-07-21"
+last_updated: "1996-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1996.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -501,9 +501,9 @@ II. El auxilio de la fuerza pública;
 
 III. El cateo por orden escrita;
 
-IV. El arresto hasta por quince días.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 1996)</small>
 
-Si el caso exige mayor sanción, se dará parte a la autoridad competente.
+IV. El arresto hasta por treinta y seis horas.
 
 ###### Artículo 74.
 
@@ -7022,3 +7022,9 @@ Las presentes reformas iniciarán su vigencia a los treinta días de su publicac
 ###### ARTÍCULO SEGUNDO.
 
 Los recursos de revocación y apelación que procedan en contra de las resoluciones dictadas en fecha anterior a la de entrada en vigor del presente Decreto, serán tramitados conforme a las reglas procesales contenidas en las disposiciones legales que dejan de tener vigencia.
+
+P.O. 3 DE JULIO DE 1996.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
