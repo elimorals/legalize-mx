@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1959-07-23"
+last_updated: "1961-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 1959.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1961.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -51,13 +51,11 @@ La ley es igual para todos. De ella emanan la autoridad de los que mandan y las 
 
 Ningún profesor necesita título para la enseñanza de cualquier ramo del saber.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 1959)</small>
-
-Art. 4º En el Estado sólo podrán ejercer las profesiones de arquitecto, bacteriólogo, biólogo, cirujano dentista, contador, corredor público, enfermero, enfermera y partera, farmacéutivo (sic), licenciado en derecho, licenciado en economía, médico veterinario metalúrgico, notario público e ingeniero médico y químico en sus diversas ramas profesionales, personas que tengan título oficial expedido por las autoridades legales capacitadas para ello, y previa anotación en registros especiales que llevarán las autoridades del Estado a cuyo cargo esté la respectiva expedición, o en su defecto, por la Secretaría General del Gobierno. Las Presidencias Municipales velarán por el fiel cumplimiento de esta disposición.
+> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
 
 ###### Art. 4º.
 
-En el Estado sólo podrán ejercer las profesiones de abogado, médico-cirujano, ingeniero civil y de minas, escribano público, farmacéutico, partera y cirujano dentista, las personas que tengan título o diploma oficial, expedido por las autoridades legalmente capacitadas para ello, y previa anotación en registros especiales que llevarán las autoridades del Estado a cuyo cargo esté la respectiva expedición, o en su defecto, por la Secretaría del Gobierno General. Las Presidencias Municipales velarán por el fiel cumplimiento de esta disposición.
+En el Estado sólo podrán ejercer las profesiones de Arquitecto, Bacteriólogo, Biólogo, Cirujano Dentista, Contador, Corredor Público, Enfermero, Enfermera y Partera, Farmacéutico, Licenciado en Derecho, Licenciado en Economía, Médico Veterinario Metalúrgico, Notario Público, Ingeniero, Médico, y Químico en sus diversas ramas profesionales, las personas que tengan título oficial expedido por las autoridades legalmente capacitadas para ello, y previa anotación en registros especiales que llevarán las autoridades o, en su defecto, la Secretaría de Gobierno. Las Presidencias Municipales vigilarán el fiel cumplimiento de esta disposición.
 
 ###### Art. 5º.
 
@@ -255,11 +253,11 @@ El ejercicio del Poder Judicial corresponde al Supremo Tribunal de Justicia, a l
 
 Jamás podrán reunirse dos o más de estos Poderes en una persona o Corporación ni el Legislativo depositar la suma de su poder en una sola persona.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
+> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
 
 ###### Art. 32.
 
-El Gobernador del Estado, los Diputados a la Legislatura, los Presidentes Municipales, los Regidores y Síndicos de los Ayuntamientos serán nombrados popularmente y por elección directa. Los Magistrados serán designados por la Legislatura funcionando en Colegio Electoral; los Jueces de Partido y los Municipales, por el Supremo Tribunal de Justicia y los Jurados por los Ayuntamientos respectivos.
+El Gobernador del Estado, los Diputados a la Legislatura, los Presidentes Municipales, los Regidores y Síndicos de los Ayuntamientos serán nombrados popularmente y por elección directa. Los nombramientos de Magistrados serán hechos por el Gobernador del Estado y sometidos a la aprobación de la Legislatura, la que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si la Legislatura no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación de la Legislatura no podrán tomar posesión los Magistrados nombrados por el Gobernador del Estado. Si no fuere aprobado un nombramiento por la Legislatura, el Gobernador del Estado hará un nuevo nombramiento que surtirá sus efectos, desde luego, como provisional, y el mismo se someterá a la aprobación de la Legislatura en el siguiente período de sesiones. Dentro de los primeros diez días del siguiente período de sesiones, la Legislatura deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado continuará en sus funciones con el carácter de definitivo; en caso contrario, el Gobernador hará un nuevo nombramiento y lo someterá a la aprobación de la Legislatura en los términos señalados, cesando desde luego en sus funciones el Magistrado Provisional. Si la Legislatura no estuviere en período de sesiones, el nombramiento de Magistrados que haga el Gobernador surtirá sus efectos en forma provisional, sometiéndolo a la aprobación de la Legislatura en el período inmediato de sesiones, procediéndose entonces en la forma establecida. Los nombramientos de Jueces de Partido y Municipales se harán por el Supremo Tribunal, funcionando en Colegio Electoral, y los Jurados serán electos por los Ayuntamientos respectivos.
 
 ###### Art. 33.
 
@@ -341,15 +339,17 @@ X. Convocar a la Legislatura a sesiones extraordinarias, señalando los asuntos 
 
 XI. Concurrir a la apertura de los períodos ordinarios de sesiones de la Legislatura.
 
-XII. Acordar que concurran el Secretario de Gobierno y el Administrador General de Rentas, a las sesiones de la Legislatura, para que rindan los informes que ésta pida.
+> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
+
+XII. Acordar que concurran los Secretarios del Despacho a las sesiones de la Legislatura, para que rindan los informes que ésta pida.
 
 XIII. Nombrar un orador para que sostenga ante el Congreso Legislativo, las iniciativas que hubiere presentado, o defienda las observaciones hechas a los proyectos de ley o decretos.
 
 XIV. Impedir los abusos de la fuerza armada contra los Ciudadanos y exigir las responsabilidades a que hubiere lugar por ellos.
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1932)</small>
+> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
 
-XV. Nombrar y remover libremente al Secretario General del Gobierno, al Administrador de Rentas, al Procurador de Justicia, y a todos los funcionarios y empleados públicos de su dependencia y concederles licencias con goce de sueldo o sin él.
+XV. Nombrar y remover libremente a los Secretarios del Despacho, al Procurador de Justicia y a todos los funcionarios y empleados públicos de su Dependencia, y concederles licencias con goce de sueldo, o sin él. Nombrar, en los términos del artículo 32 de esta Constitución a los Magistrados que integren el Supremo Tribunal de Justicia, conocer de sus renuncias y concederles licencias con goce de sueldo o sin él, por más de dos meses.
 
 XVI. Suspender a los miembros de los Ayuntamientos que abusaren de sus facultades, dando inmediatamente parte a la Legislatura o a la Comisión permanente, para los efectos a que hubiere lugar, consignándolos en caso de delito, a la autoridad competente.
 
@@ -373,7 +373,9 @@ XXIV. Suspender en casos graves a los Magistrados y a los Jueces, consignando el
 
 XXV. Conceder indultos, conmutaciones y reducciones de las penas impuestas por delitos del privativo conocimiento de los Tribunales del Estado, cuando se llenen los requisitos que exigen las leyes.
 
-XXVI. Mandar llevar en la Sría. del Despacho, un libro reservado en donde conste la hoja de servicios de todos los funcionarios y empleados del mismo Gobierno.
+> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
+
+XXVI. Mandar llevar en la Secretaría de Gobierno, un libro reservado en donde conste la hoja de servicios de todos los funcionarios y empleados del mismo Gobierno.
 
 XXVII. Mandar formar causa a los mismos funcionarios y empleados, cuando a su juicio lo merecieren.
 
@@ -407,13 +409,17 @@ No podrá ausentarse por más de 15 días del territorio del Estado ni separarse
 
 Para salir del Estado o separarse del despacho hasta por 15 días, bastará que dé aviso a la Legislatura o a la Diputación Permanente.
 
+> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
+
 ###### Art. 58.
 
-Para el despacho de los negocios y administración del Estado, habrá un solo Secretario; y para serlo se necesita ser Ciudadano guanajuatense en ejercicio de sus derechos y no haber sufrido ninguna condena judicial por delito contra la propiedad.
+Para el despacho de los negocios del orden administrativo del Estado, habrá el número de Secretarios que establezca la Legislatura por una Ley, la que distribuirá los negocios que han de estar a cargo de cada Secretaría. Para ser Secretario de Despacho se requerirá ser ciudadano guanajuatense en ejercicio de sus derechos y no haber sufrido ninguna condena judicial por delito contra la propiedad.
+
+> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
 
 ###### Art. 59.
 
-Todas las leyes, decretos y reglamentos, serán invariablemente firmados por el Gobernador del Estado y por el Secretario del Despacho.
+Todas las leyes, decretos y reglamentos, serán invariablemente firmados por el Gobernador del Estado y por el Secretario del Despacho encargado del ramo a que el asunto corresponde.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
 
@@ -603,9 +609,9 @@ No pueden ser Diputados a la Legislatura local:
 
 I. El Gobernador del Estado, cualquiera que sea su denominación, el origen y la forma de su designación.
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 1944)</small>
+> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
 
-II. El Secretario General del Despacho, los Magistrados del Supremo Tribunal y el Procurador de Justicia, a no ser que se separen definitivamente de sus cargos, cuando menos noventa días antes de la fecha en que deban efectuarse las elecciones.
+II. Los Secretarios del Despacho, los Magistrados del Supremo Tribunal y el Procurador de Justicia, a no ser que se separen definitivamente de sus cargos, cuando menos noventa días antes de la fecha en que deban efectuarse las elecciones.
 
 III. Los Militares en servicio activo en el Estado y los ciudadanos que tengan mando de fuerzas, regulares o irregulares, en el Distrito Electoral respectivo, dentro de los ciento ochenta días anteriores a la elección o cuando ésta se efectúe.
 
@@ -639,7 +645,9 @@ La Legislatura del Estado, tendrá cada año dos períodos ordinarios de sesione
 
 Durante el primer período de sesiones, se ocupará de los asuntos siguientes:
 
-I.- Examinar y calificar las cuentas de recaudación y distribución de caudales del año próximo anterior, que serán presentadas por la Administración General de Rentas en los primeros cinco días del período de sesiones. La revisión no se limitará a examinar si las cantidades gastadas están o no de acuerdo con las partidas del Presupuesto, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y a la determinación de las responsabilidades a que hubiere lugar.
+> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
+
+I. Examinar y calificar las cuentas de recaudación y distribución de caudales del año próximo anterior, que serán presentadas por la Secretaría de Finanzas Públicas en los primeros cinco días del período de sesiones. La revisión no se limitará a revisar si las cantidades gastadas están o no de acuerdo con las partidas del Presupuesto, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y la determinación de las responsabilidades a que hubiere lugar.
 
 II.- Examinar y aprobar el Presupuesto que, con relación a los gastos del año siguiente, le será presentado por el Gobernador, y decretar los impuestos necesarios para cubrirlo.
 
@@ -699,19 +707,19 @@ VI. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y 
 
 Cada presunta Legislatura calificará las elecciones de sus miembros y resolverá las dudas que hubiere sobre ellas. Su resolución será definitiva e irrevocable.
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 1943)</small>
-
-VII. Erigirse en Colegio Electoral para nombrar a los Magistrados del Supremo Tribunal, así como para elegir Gobernador del Estado que termine el período constitucional, en caso de falta absoluta de este Funcionario, ocurrida dentro de los tres últimos años de dicho período. Entre tanto la Legislatura hace la elección de Gobernador, para lo cual será convocada desde luego por su Diputación Permanente, en caso de estar en funciones, se encargará del Poder Ejecutivo el Secretario General del Despacho; y si este Funcionario se encontrare comprendido en alguna de las prohibiciones del Artículo 60 de esta Constitución, asumirá provisionalmente el cargo de Gobernador, el ciudadano que designe la Legislatura, si estuviere en sesiones, o su Diputación Permanente en los recesos de aquélla. El ciudadano electo por la Legislatura para el cargo de Gobernador Substituto del Estado, de conformidad con lo dispuesto en la primera parte de esta fracción, deberá llenar los requisitos y no estar comprendido en alguna de las prohibiciones que, para desempeñar el cargo, señala esta Constitución.
+VII. Aprobar o reprobar los nombramientos de Magistrados hechos por el Gobernador del Estado, en los términos del artículo 32 de esta Constitución erigirse en Colegio Electoral para elegir Gobernador del Estado que termine el período constitucional, en caso de falta absoluta de este Funcionario ocurrida dentro de los tres últimos años de dicho período. Entretanto la Legislatura hace la elección de Gobernador, para lo cual será convocada desde luego por su Diputación Permanente, en caso de no estar en funciones, se encargará del Poder Ejecutivo el Secretario de Gobierno, y este Funcionario se encontrare comprendido en alguna de las prohibiciones del artículo 60 de esta Constitución, asumirá provisionalmente el cargo de Gobernador el ciudadano que designe la Legislatura, si estuviere en sesiones, o su Diputación Permanente en los recesos de aquella. El ciudadano electo por la Legislatura para el cargo de Gobernador Substituto del Estado, de conformidad con lo dispuesto en la primera parte de esta fracción, deberá llenar los requisitos y no estar comprendido en alguna de las prohibiciones que, para desempeñar el cargo, señala esta Constitución.
 
 VIII. Hacer la división del Estado en Distritos Electorales.
 
-IX. Decidir sobre las renuncias que hagan los Diputados, Gobernador del Estado y Magistrados del Supremo Tribunal, y conceder licencias a dichos funcionarios para separarse de sus respectivos cargos; así como al Gobernador para salir del Estado por más de quince días.
+> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
+
+IX. Decidir sobre las renuncias que hagan los Diputados y Gobernador del Estado y conceder licencias a dichos funcionarios para separarse de sus respectivos cargos, así como al Gobernador para salir del Estado por más de quince días.
 
 X. Reformar la división política del Estado, a fin de que resulte adecuada a las necesidades del buen Gobierno.
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 1943)</small>
+> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
 
-XI. Convocar a elecciones de Gobernador en caso de falta absoluta del que está ejerciendo el cargo, ocurrida en los tres primeros años del período constitucional, a fin de que concluya dicho período. En este caso, entre tanto se efectúan las elecciones y toma posesión el nuevo Gobernador, así como en toda falta temporal del Ciudadano Encargado del Poder Ejecutivo por más de treinta días, la Legislatura elegirá por mayoría de votos y en escrutinio secreto, un Gobernador Interino, debiendo, el electo, llenar los requisitos y no estar comprendido en alguna de las prohibiciones que, para desempeñar el cargo, señala la Constitución. Entre tanto se hace la elección por la Legislatura, a la que si no estuviere reunida, convocará desde luego a sesiones extraordinarias, la Diputación Permanente, se encargará del Poder Ejecutivo el Secretario General del Despacho, quien también suplirá al Gobernador en sus faltas temporales que no excedan de treinta días, procediéndose en caso de que el Secretario General se encuentre comprendido en alguna de las prohibiciones que establece el Artículo 60 de esta Constitución, en la forma que determina la fracción VII de este Artículo.
+XI. Convocar a elecciones de Gobernador en caso de falta absoluta del que está ejerciendo el cargo, ocurrida en los tres primeros años del período constitucional, a fin de que concluya dicho período. En este caso, entre tanto se efectúan las elecciones y toma posesión el nuevo Gobernador, así como en toda falta temporal del Ciudadano Encargado del Poder Ejecutivo por más de treinta días, la Legislatura elegirá por mayoría de votos y en escrutinio secreto, un Gobernador Interino, debiendo, el electo llenar los requisitos y no estar comprendido en alguna de las prohibiciones que, para desempeñar el cargo, señala esta Constitución. Entre tanto se hace la elección por la Legislatura, a la que si no estuviere reunida convocará desde luego a sesiones extraordinarias, la Diputación Permanente, se encargará del Poder Ejecutivo el Secretario de Gobierno, quien también suplirá al Gobernador en sus faltas temporales que no excedan de treinta días, procediéndose, en caso de que el Secretario de Gobierno se encuentre comprendido en alguna de las prohibiciones que establece el Artículo 60 de esta Constitución, en la forma que determina la fracción VIII de este artículo.
 
 XII. Dirimir los conflictos entre el Ejecutivo y el Supremo Tribunal de Justicia y entre éstos y los Municipios.
 
@@ -821,19 +829,23 @@ VI. Expeditar los trabajos pendientes al tiempo del receso, y ejecutar, en los n
 
 VII. Conceder licencia, con goce de sueldo o sin él, al Gobernador del Estado, a los Diputados, a los Magistrados y a los empleados dependientes de la Legislatura.
 
-VIII. Nombrar Gobernador Provisional, en los casos de las fracciones VII y XI del Artículo 48 de esta Constitución, cuando el Secretario General esté comprendido en alguna de las prohibiciones que señala el Artículo 60 de la misma; y
+> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
 
-IX. Resolver las renuncias y nombrar en caso de falta absoluta de los propietarios, a los Magistrados del Supremo Tribunal de Justicia, con carácter de Interinos mientras se reúne el Congreso y proceder conforme a sus facultades.
+VIII. Nombrar Gobernador Provisional, en los casos de las fracciones VII y XI del artículo 48 de esta Constitución, cuando el Secretario de Gobierno esté comprendido en alguna de las prohibiciones que señala el artículo 60 de la misma; y
+
+> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
+
+IX. Aprobar o reprobar los nombramientos de Magistrados Suplentes hechos por el Gobernador del Estado en el caso a que se refiere la última parte del artículo 64 de esta Constitución, cuando la Legislatura no estuviere en período de sesiones.
 
 #### SECCION PRIMERA.
 
 Poder Judicial. Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 1943)</small>
+> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
 
 ###### Art. 61.
 
-El Supremo Tribunal de Justicia se compondrá de cinco Magistrados Propietarios y siete Supernumerarios. Durarán en sus funciones seis años, y serán nombrados por el Congreso, funcionando como Colegio Electoral.
+Se deposita el ejercicio del Poder Judicial del Estado en un Supremo Tribunal de Justicia del Estado, Jueces de Partido, Jueces Municipales y Jurado Popular. El Supremo Tribunal de Justicia se compondrá de siete Magistrados Propietarios y tres Supernumerarios, nombrados por el Gobernador del Estado, con la aprobación de la Legislatura, en los términos del artículo 32 de esta Constitución. El funcionamiento de las Salas del Pleno, las atribuciones de los Magistrados y el número y competencia de los Jueces de Partido y de los Jueces Municipales, se regirán por lo que disponga esta Constitución y las Leyes. Las audiencias del Tribunal Pleno y de las Salas, serán públicas, hecha excepción de los casos en que la moral o el interés público exijan que sean secretas; los Magistrados sólo podrán ser privados de sus puestos cuando, por sentencia ejecutoria en los términos del Título Noveno de esta Constitución, sean condenados por la comisión de delitos del orden común, y en los casos en que así lo prevenga la Ley de Responsabilidades de los Funcionarios Públicos. La remuneración que reciban por sus servicios los Magistrados y los Jueces de Partido y Municipales, no podrá ser disminuida durante su encargo.
 
 (REFORMADO, P.O. 8 DE SEPTIEMBRE DE 1929) (REPUBLICADO, P.O. 29 DE DICIEMBRE DE 1929)
 
@@ -843,11 +855,17 @@ Para ser Magistrado se requiere:
 
 I. Ser ciudadano guanajuatense en ejercicio de sus derechos.
 
-II. Ser abogado con tres años de práctica, por lo menos.
+> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
 
-III. Tener el día de la elección veinticinco años cumplidos.
+II.- Tener título de abogado expedido por la autoridad o corporación legalmente facultada para ello, y por lo menos cinco años de práctica en el ejercicio de esa actividad profesional.
 
-IV. No haber sido condenado por delito alguno con motivo de las funciones que se le hubieren encomendado.
+> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
+
+III.- No tener más de sesenta y cinco años de edad, ni menos de treinta, al día de la elección.
+
+> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito alguno con motivo de sus funciones o por delitos graves del orden común.
 
 ###### Art. 63.
 
@@ -873,23 +891,39 @@ VII. Aprobar los nombramientos que hagan los Jueces de Partido, de sus Secretari
 
 VIII. Cumplir con las demás atribuciones que le señalen la Ley Orgánica de Tribunales y los Códigos de Procedimientos.
 
+> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
+
 ###### Art. 64.
 
-Los Magistrados, que estén desempeñando sus funciones, no pueden ejercer la profesión de abogado, sino en los negocios propios, de su esposa y de sus hijos, ni ser asesores, árbitros o desempeñar alguna comisión del Gobierno, ni otro empleo, sino con licencia del Congreso o de la Diputación Permanente, con excepción de los que se relacionen con la instrucción pública. No comprenden las anteriores prohibiciones a los Magistrados supernumerarios, cuando sean llamados a suplir en terminado negocio o cuando sustituyan a los Magistrados propietarios en sus faltas temporales, siempre que éstas no excedan de dos meses.
+Los Magistrados, que estén desempeñando sus funciones, no pueden ejercer la profesión de abogado, sino en los negocios propios, de su esposa, y de sus hijos, ni ser asesores, árbitros, o desempeñar alguna comisión del Gobierno, ni otro empleo, sino con licencia del Congreso o de la Diputación Permanente, con excepción de los de carácter docente. No comprenden las anteriores prohibiciones a los Magistrados Supernumerarios, cuando sean llamados a suplir en determinado negocio o cuando sustituyan a los Magistrados Propietarios en sus faltas temporales, siempre que éstas no excedan de dos meses. Cuando la falta excediere de ese término, el Gobernador del Estado someterá el nombramiento de un Magistrado Suplente a la aprobación de la Legislatura o, sino estuviere en período de sesiones, a la de su Diputación Permanente, observándose lo dispuesto en la primera parte del artículo 32 de esta Constitución.
+
+> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
 
 ###### Art. 65.
 
-El Presidente del Tribunal será uno de los Magistrados propietarios, designado por éstos a pluralidad de votos; y fungirá con ese carácter durante un año, pudiendo ser reelecto.
+El Presidente del Supremo Tribunal será uno de los Magistrados Propietarios, designado por mayoría de votos de los Magistrados en funciones, y fungirá con ese carácter durante un año, pudiendo ser reelecto.
+
+Los Magistrados del Supremo Tribunal de Justicia, al entrar a ejercer su encargo, protestarán ante la Legislatura, y si ésta no estuviere en período de sesiones, ante su Diputación Permanente, en la siguiente forma:
+
+Presidente: "¿Protestáis desempeñar leal y patrióticamente el cargo de Magistrado del Supremo Tribunal de Justicia del Estado que se os ha conferido, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado?"
+
+Magistrado: "Sí protesto".
+
+Presidente: "Si no lo hiciereis así la Nación y el Estado os lo demanden".
+
+El Presidente del Tribunal rendirá la protesta ante el Pleno del mismo, en la siguiente forma:
+
+"Protesto desempeñar leal y patrióticamente el cargo de Presidente del Supremo Tribunal de Justicia del Estado que se me ha conferido, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado; y si así no lo hiciere, la Nación y el Estado me lo demanden".
 
 #### SECCION SEGUNDA.
 
 Jueces de Partido y Municipales.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 1943)</small>
+> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
 
 ###### Art. 66.
 
-Los Jueces de Partido durarán en su encargo seis años y no podrán ser removidos sino por causa justificada. En sus faltas temporales el Supremo Tribunal de Justicia nombrará Jueces Interinos por el tiempo que dure la falta.
+Los Jueces de Partido durarán en su encargo dos años, al término de los cuales, si fueren reelectos, sólo podrán ser privados de sus puestos cuando, por sentencia ejecutoria, en los términos del Título Noveno de esta Constitución, sean condenados por la Comisión de Delitos del orden común y en los casos en que así lo prevenga la Ley de Responsabilidades de Funcionarios Públicos, y los nombrados por el término mencionado sólo pueden ser destituidos por causa justificada, a juicio del Tribunal Pleno.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1945)</small>
 
@@ -921,21 +955,27 @@ Hacienda pública del Estado.
 
 La Hacienda pública del Estado se compondrá de contribuciones, rentas y bienes, en los términos que expresen las leyes secundarias.
 
+> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
+
 ###### Art. 90.
 
-Las contribuciones se decretarán en la cantidad necesaria para cubrir los gastos de la administración pública; y jamás se crearán en el Estado gastos que no sean real y absolutamente precisos.
+Los ingresos necesarios para cubrir los gastos de la Administración Pública del Estado serán decretados por la Legislatura.
 
 ###### Art. 91.
 
 Ninguna contribución se decretará sino después de que la Legislatura haya aprobado los gastos del Estado, teniendo en cuenta los presupuestos que remita el Ejecutivo.
 
+> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
+
 ###### Art. 92.
 
-Para la administración de los caudales públicos habrá una Administración General de Rentas y las Administraciones subalternas y Receptorías que fije la ley. Dichas Oficinas tendrán el personal que determine la ley relativa, y, sus empleados, las atribuciones que la misma ley les señale.
+Para la administración de los caudales públicos habrá una Secretaría de Finanzas Públicas y las Oficinas Recaudadoras que fije el Presupuesto de Egresos del Estado. Dichas Oficinas tendrán al personal que fije el referido Presupuesto y, sus empleados, las atribuciones que la Ley les señale.
+
+> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
 
 ###### Art. 93.
 
-El Administrador General de Rentas del Estado, hará la aplicación de los caudales públicos, conforme al presupuesto de gastos, y será responsable de los que hiciere si no están comprendidos en él, o autorizados por alguna ley.
+El Secretario de Finanzas Públicas del Estado hará la aplicación de los caudales públicos conforme al presupuesto de gastos, y será responsable de los que hiciere si no están comprendidos en él o autorizados por alguna ley.
 
 ###### Art. 94.
 
@@ -973,9 +1013,11 @@ No se concederá dispensa de ninguna de las asignaturas que forman los planes de
 
 De las Responsabilidades Oficiales.
 
+> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
+
 ###### Art. 100.
 
-El Gobernador del Estado, los Diputados a la Legislatura, los Magistrados del Supremo Tribunal de Justicia, el Secretario del Despacho, el Procurador de Justicia y el Administrador General de Rentas, son responsables por los delitos comunes o por las faltas que cometan durante el ejercicio de sus funciones, en el desempeño de sus cargos o con motivo de éstos.
+El Gobernador del Estado, los Diputados a la Legislatura, los Magistrados del Supremo Tribunal de Justicia, los Secretarios de Despacho y el Procurador de Justicia, son responsables por los delitos comunes o por las faltas que comentan durante el desempeño de sus cargos o con motivo de éstos.
 
 ###### Art. 101.
 
@@ -999,15 +1041,15 @@ Siempre que se trate de alguno de los funcionarios de primer orden a que se refi
 
 De los delitos oficiales cometidos por los mismos funcionarios de primer orden, a que se refiere el artículo anterior, conocerán también la Legislatura y el Supremo Tribunal de Justicia, con sujeción a lo que prevenga la ley de la materia.
 
+> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
+
 ###### Art. 106.
 
-Los funcionarios comprendidos en la primera parte del artículo 101, serán juzgados en todas las instancias por el Supremo Tribunal de Justicia.
-
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
+Los funcionarios y agentes de la autoridad o de la policía comprendidos en el artículo 101, serán juzgados por los Jueces de Partido.
 
 ###### Art. 107.
 
-Los Agentes de la Autoridad o de la Policía comprendidos en la segunda parte del artículo 101, serán juzgados por los Jueces de Partido.
+(DEROGADO, P. O. 28 DE DICIEMBRE DE 1961)
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
 
@@ -1198,3 +1240,29 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 23 DE JULIO DE 1959.
 
 Unico.- Este Decreto entrará en vigor, a partir del día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1961.
+
+###### Artículo 1o.
+
+Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### Artículo 2o.
+
+Quedarán sin efecto los nombramientos de Magistrado Propietarios y Supernumerarios, hechos por la Legislatura del Estado funcionando en Colegio Electoral, salvo que sean reelectos al ser nombrados los Magistrados Propietarios en los términos del artículo 32, que se reforma, de la Constitución Política del Estado.
+
+###### Artículo 3o.
+
+Los Jueces de Partido y Municipales actualmente en ejercicio cesarán en sus cargos, salvo que sean reelectos al hacerse los nombramientos en los términos del artículo 32, que se reforma, de esta Constitución.
+
+###### Artículo 4o.
+
+Cuando las designaciones recaigan en Jueces de Partido que tengan más de dos años en el desempeño de su cargo, sólo podrán ser privados de él en los términos del artículo 66, que se reforman, de la Constitución Local.
+
+###### Artículo 5o.
+
+Los asuntos que actualmente se tramitan en las Salas Unitarias del Supremo Tribunal de Justicia del Estado, se distribuirán entre los Magistrados de las Colegiadas, de cada Ramo, en igual número, para la sustanciación de los mismos o su resolución por las Salas, según proceda, de conformidad con la Ley Orgánica del Poder Judicial del Estado.
+
+###### Artículo 6o.
+
+Los procesos penales que actualmente se tramitan en primera instancia, en las Salas Unitarias del Supremo Tribunal, pasarán a los Juzgados de Partido a quienes corresponda el conocimiento, y los que estén pendientes de sentencia por el Tribunal Pleno, en segunda instancia, pasarán a la Sala Penal.
