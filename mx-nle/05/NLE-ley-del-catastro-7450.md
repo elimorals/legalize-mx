@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "1964-01-18"
+last_updated: "1967-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1967.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -123,9 +123,11 @@ Las Bases Generales de Valores por Unidades Tipo serán objeto de Revisión cada
 
 Las Bases Generales de Valores por Unidades Tipo aprobadas para cada período de cinco o diez años, a que se refiere el artículo anterior, no podrán ser modificadas en el curso de ese tiempo, a menos que deban introducirse nuevos valores unitarios o cuando sea indispensable crear una nueva categoría no prevista en la Tabla original, ya sea por motivo de ampliación de zonas urbanas o sub-urbanas, o por cualquiera otra causa.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1967)</small>
+
 ###### ARTICULO 21o.
 
-El avalúo de los predios se hará con estricto apego a las Bases Generales de Valores por Unidades Tipo, y en la forma que el Reglamento señale.
+El avalúo de los predios se hará con estricto apego a las Bases Generales de Valores por Unidades Tipo. No obstante lo anterior, para los efectos de la aplicación del Impuesto Predial, el valor catastral de los predios en ningún caso podrá ser inferior a $1,000.00 (Un Mil Pesos). En el Reglamento de esta Ley, se señalará el procedimiento para formular los avalúos.
 
 ###### ARTICULO 22o.
 
@@ -206,3 +208,9 @@ LIC. EDUARDO LIVAS VILLARREAL.
 El Oficial Mayor de Gobierno Enc. de la Secretaría Gral. por Ministerio de Ley.
 
 LIC. JACOBO AYALA VILLARREAL.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE DICIEMBRE DE 1967.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO NUEVO LEON.</small>
