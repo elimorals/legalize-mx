@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2001-02-12"
+last_updated: "2001-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO JURIDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2001.
 
 Estatuto publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -593,11 +593,35 @@ VII.- Sustraerse a propagandas de toda clase dentro de los edificios, lugares de
 
 VIII.- Acudir a los centros de capacitación para mejorar su preparación y eficiencia.
 
-### CAPITULO PRIMERO. Disposiciones Generales
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE OCTUBRE DE 2001)</small>
+
+### CAPITULO TERCERO. Trabajo de las Mujeres
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2001)</small>
+
+###### ARTICULO 58 Bis.
+
+Las modalidades que se consignen en este Capítulo tienen como propósito fundamental, la protección de la maternidad, por lo tanto, las trabajadoras tendrán los siguientes derechos:
+
+I.- Durante el período del embarazo, no realizarán trabajos que impliquen un esfuerzo que ponga en peligro su salud o la de su hijo;
+
+II.- Gozarán forzosamente de doce semanas de descanso, debiendo percibir su salario íntegro, conservar su empleo y los derechos que hubieren adquirido por la relación de trabajo.
+
+Las doce semanas a que se refiere esta fracción podrán ser aplicadas optativamente por la trabajadora seis semanas antes de la fecha fijada para el parto y seis semanas después del mismo, o bien, seguir trabajando hasta en tanto sus condiciones físicas se lo permitan y siempre y cuando el médico autorizado por la dependencia lo certifique o nazca su hijo, en el segundo supuesto, las doce semanas empezarán a contar a partir del día laboral siguiente al nacimiento del hijo o de la fecha en que el médico indique que la trabajadora deberá descansar durante el período de las seis semanas previas al parto;
+
+III.- Los períodos de descanso a que se refiere la fracción anterior se prorrogarán por el tiempo necesario en el caso de que se encuentren imposibilitadas para trabajar a causa del embarazo o del parto, en estos casos tendrán derecho al cincuenta por ciento de su salario por un período no mayor de sesenta días;
+
+IV.- En el período de lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos;
+
+V.- A regresar al puesto que desempeñaban, siempre y cuando no haya transcurrido más de un año de la fecha del parto;
+
+VI.- A que se computen en su antigüedad los períodos de descanso para efectos del nacimiento.
+
+Las trabajadoras que adopten un niño o niña, gozarán de los mismos derechos a que se refieren las fracciones II y VI del presente Artículo, para lo cual el período de doce semanas comenzará a contar a partir del día en que sea legalmente entregado el niño o la niña a la trabajadora por la autoridad competente.
 
 ## TITULO QUINTO. DEL ESCALAFON
 
-### CAPITULO PRIMERO. De los Sindicatos
+### CAPITULO PRIMERO. Disposiciones Generales
 
 ###### ARTICULO 59.
 
@@ -639,7 +663,7 @@ Las comisiones de escalafón, inmediatamente convocarán a un concurso entre los
 
 ## TITULO SEXTO. RELACIONES COLECTIVAS DE TRABAJO
 
-### CAPITULO SEGUNDO. De las Huelgas
+### CAPITULO PRIMERO. De los Sindicatos
 
 ###### ARTICULO 66.
 
@@ -767,7 +791,7 @@ II.- Por violación a lo dispuesto por el Artículo 79; y
 
 III.- Por transcurrir el término fijado en sus estatutos.
 
-### CAPITULO TERCERO. Del Procedimiento de Huelga
+### CAPITULO SEGUNDO. De las Huelgas
 
 ###### ARTICULO 83.
 
@@ -829,7 +853,7 @@ III.- Si la suspensión de labores se lleva a cabo antes de los 30 días fijados
 
 El Tribunal de Arbitraje, así como todas las autoridades, deberán dar las garantías y la ayuda necesaria a los trabajadores que ejerciten su derecho de huelga.
 
-### CAPITULO PRIMERO. Disposiciones Generales
+### CAPITULO TERCERO. Del Procedimiento de Huelga
 
 ###### ARTICULO 94.
 
@@ -893,13 +917,13 @@ En tanto no se declare ilegal, inexistente o terminado un estado de huelga, el T
 
 ## TITULO SEPTIMO. DE LOS RIESGOS PROFESIONALES
 
-### CAPITULO SEGUNDO. De la Higiene y Seguridad en el Trabajo
+### CAPITULO PRIMERO. Disposiciones Generales
 
 ###### ARTICULO 103.
 
 Los riesgos profesionales que sufran los trabajadores se regirán por las disposiciones de la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, o por la Ley del Instituto de Servicios y Seguridad Social de los Trabajadores del Estado, según corresponda, así como sus reglamentos y leyes análogas.
 
-### CAPITULO UNICO
+### CAPITULO SEGUNDO. De la Higiene y Seguridad en el Trabajo
 
 ###### ARTICULO 104.
 
@@ -913,7 +937,7 @@ Los trabajadores tienen la obligación de avisar a sus jefes inmediatos y a la C
 
 ## TITULO OCTAVO. DE LAS PRESCRIPCIONES
 
-### CAPITULO PRIMERO. De la Integración del Tribunal de Arbitraje
+### CAPITULO UNICO
 
 ###### ARTICULO 106.
 
@@ -963,7 +987,7 @@ II.- Si la persona a cuyo favor corre la prescripción reconoce el derecho de aq
 
 ## TITULO NOVENO. DEL TRIBUNAL DE ARBITRAJE
 
-### CAPITULO SEGUNDO. Obligaciones y Responsabilidades del Personal del Tribunal de Arbitraje
+### CAPITULO PRIMERO. De la Integración del Tribunal de Arbitraje
 
 ###### ARTICULO 110.
 
@@ -1001,7 +1025,7 @@ El personal del Tribunal de Arbitraje se integrará además con un secretario ge
 
 Los gastos que origine el funcionamiento del Tribunal de Arbitraje serán cubiertos por el Estado, mediante la partida correspondiente del Presupuesto de Egresos y dentro de la estructura administrativa de la Secretaría General de Gobierno.
 
-### CAPITULO PRIMERO. Disposiciones Generales
+### CAPITULO SEGUNDO. Obligaciones y Responsabilidades del Personal del Tribunal de Arbitraje
 
 ###### ARTICULO 116.
 
@@ -1043,7 +1067,7 @@ La persona afectada por la medida impuesta, podrá acudir ante el pleno del Trib
 
 ## TITULO DECIMO. DERECHO PROCESAL
 
-### CAPITULO SEGUNDO. De la Capacidad y Personalidad
+### CAPITULO PRIMERO. Disposiciones Generales
 
 ###### ARTICULO 122.
 
@@ -1057,7 +1081,7 @@ Las autoridades administrativas y judiciales están obligadas, dentro de la esfe
 
 Las actuaciones y certificaciones que hubieren de hacerse con motivo de la aplicación del presente Estatuto, no causarán impuesto alguno.
 
-### CAPITULO TERCERO. De la Competencia del Tribunal de Arbitraje
+### CAPITULO SEGUNDO. De la Capacidad y Personalidad
 
 ###### ARTICULO 125.
 
@@ -1087,7 +1111,7 @@ Los trabajadores, previa identificación, podrán otorgar poder mediante simple 
 
 Siempre que dos o más personas ejerciten la misma acción en un mismo procedimiento, deben litigar unidas y con una representación común, y lo mismo ocurrirá cuando se opongan las mismas excepciones, salvo que los colitigantes puedan tener intereses opuestos. Si los interesados no hicieren el nombramiento, el Tribunal podrá hacerlo, escogiéndolo de entre los propios interesados. El representante común tendrá los derechos, obligaciones y responsabilidades inherentes a un mandato judicial.
 
-### CAPITULO CUARTO. De los Impedimentos y Excusas
+### CAPITULO TERCERO. De la Competencia del Tribunal de Arbitraje
 
 ###### ARTICULO 132.
 
@@ -1107,7 +1131,7 @@ VI.- Emitir las consultas que en materia laboral se pongan a su consideración; 
 
 VII.- Las demás que les confieran las leyes aplicables.
 
-### CAPITULO QUINTO. De las Correcciones Disciplinarias y Medidas de Apremio
+### CAPITULO CUARTO. De los Impedimentos y Excusas
 
 ###### ARTICULO 133.
 
@@ -1131,7 +1155,7 @@ Los miembros del Tribunal deberán excusarse de conocer de los procedimientos en
 
 Las excusas se calificarán y resolverán por el pleno del Tribunal. Cuando la parte interesada conozca que alguno de los miembros del Tribunal o el secretario de acuerdos se encuentran impedidos para conocer de algún procedimiento y no se abstengan de hacerlo, podrán ocurrir ante la autoridad señalada, haciendo por escrito la denuncia y con la misma se dará vista al funcionario afectado, quien procederá a contestarla dentro de las veinticuatro horas siguientes, hecho lo cual, si se considera procedente, se llamará al suplente, quien integrará el Tribunal, únicamente en el juicio en donde se haya excusado el integrante en función.
 
-### CAPITULO SEXTO. De los Términos
+### CAPITULO QUINTO. De las Correcciones Disciplinarias y Medidas de Apremio
 
 ###### ARTICULO 136.
 
@@ -1161,7 +1185,7 @@ III.- Arresto hasta por 15 días.
 
 Las multas se harán efectivas por la Tesorería General del Estado, y para ese efecto, deberá girarse el oficio correspondiente. Hecha efectiva la multa, la oficina recaudadora rendirá informe al Tribunal, con los datos relativos que acrediten su cobro.
 
-### CAPITULO SEPTIMO. De las Notificaciones
+### CAPITULO SEXTO. De los Términos
 
 ###### ARTICULO 140.
 
@@ -1179,7 +1203,7 @@ Cuando la realización o práctica de algún acto procesal o el ejercicio de un 
 
 Transcurridos los términos fijados a las partes, sin que hayan cumplido con el requerimiento, se tendrá por perdido su derecho que debieron ejercitar, sin necesidad de acusar rebeldía.
 
-### CAPITULO OCTAVO. De los Incidentes
+### CAPITULO SEPTIMO. De las Notificaciones
 
 ###### ARTICULO 144.
 
@@ -1267,7 +1291,7 @@ V.- Copia autorizada de la resolución que se anexará a la cédula.
 
 Son nulas las notificaciones que no se practiquen de conformidad a lo dispuesto en este Capítulo.
 
-### CAPITULO NOVENO. De la Acumulación
+### CAPITULO OCTAVO. De los Incidentes
 
 ###### ARTICULO 154.
 
@@ -1297,7 +1321,7 @@ Si en autos consta que una persona se manifiesta sabedora de una resolución, la
 
 Los incidentes que no tengan señalado un trámite especial en esta Ley, se resolverán de plano, oyendo a las partes.
 
-### CAPITULO DECIMO. De la Caducidad
+### CAPITULO NOVENO. De la Acumulación
 
 ###### ARTICULO 159.
 
@@ -1315,13 +1339,13 @@ IV.- En todos aquellos casos, que por su propia naturaleza las prestaciones recl
 
 Si se declara procedente la acumulación en el procedimiento o procedimientos más recientes, se acumularán al más antiguo.
 
-### CAPITULO DECIMO PRIMERO. De las Pruebas
+### CAPITULO DECIMO. De la Caducidad
 
 ###### ARTICULO 161.
 
 Se tendrá por desistida de la acción intentada a toda persona que no haga promoción alguna en el término de seis meses, siempre que ésta sea necesaria para la continuación del procedimiento. No operará la caducidad, aún cuando dicho término se cumpla, si está pendiente el desahogo de diligencia alguna que deba practicarse por el Tribunal, la recepción de informes o documentos que hayan sido solicitados por el Tribunal o promoción alguna pendiente de acuerdo. A petición de las partes interesadas, o de oficio, el Tribunal declarará la caducidad, cuando se estime consumada.
 
-### CAPITULO DECIMO SEGUNDO. De las Resoluciones
+### CAPITULO DECIMO PRIMERO. De las Pruebas
 
 #### SECCION PRIMERA. Disposiciones Generales
 
@@ -1371,13 +1395,13 @@ Los documentos expedidos por los funcionarios públicos, relativos a la relació
 
 Cuando se ofrezca la testimonial a cargo de los funcionarios descritos en el Artículo 168, ésta será rendida por ellos por medio de informe, para lo cual, a su ofrecimiento, deberán acompañarse los interrogatorios correspondientes, y una vez calificados, se librará el oficio correspondiente, apercibiendo al testigo que de no producir contestación en el término de cinco días, le serán aplicadas las medidas de apremio que el Tribunal juzgue conveniente.
 
-### CAPITULO DECIMO TERCERO. Recursos
+### CAPITULO DECIMO SEGUNDO. De las Resoluciones
 
 ###### ARTICULO 171.
 
 El Tribunal apreciará en conciencia las pruebas que se le presenten, sin sujetarse a reglas fijas para su estimación y dictará los laudos a verdad sabida y buena fe guardada, debiendo expresar los motivos y fundamentos legales en que se apoye.
 
-### CAPITULO DECIMO CUARTO. Del Procedimiento ante el Tribunal de Arbitraje
+### CAPITULO DECIMO TERCERO. Recursos
 
 ###### ARTICULO 172.
 
@@ -1433,7 +1457,7 @@ Con excepción de lo establecido en el presente Capítulo, las resoluciones del 
 
 Las partes pueden exigir la responsabilidad en que incurran los miembros del Tribunal.
 
-### CAPITULO UNICO. Disposiciones Generales
+### CAPITULO DECIMO CUARTO. Del Procedimiento ante el Tribunal de Arbitraje
 
 ###### ARTICULO 180.
 
@@ -1532,6 +1556,8 @@ Formulados los alegatos, se levantará certificación de que ya no queda acuerdo
 Las resoluciones del Tribunal se tomarán por mayoría de votos de sus integrantes.
 
 ## TITULO DECIMO PRIMERO. DEL PROCEDIMIENTO DE EJECUCION
+
+### CAPITULO UNICO. Disposiciones Generales
 
 ###### ARTICULO 195.
 
@@ -1662,3 +1688,7 @@ P.O. 12 DE FEBRERO DE 2001.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente.
+
+P.O. 22 DE OCTUBRE DE 2001.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
