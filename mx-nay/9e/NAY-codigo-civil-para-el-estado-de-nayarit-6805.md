@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "1981-08-22"
+last_updated: "1982-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1982.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -8753,6 +8753,10 @@ De dicho instrumento se formarán dos originales, uno para el comprador y el otr
 
 Si el valor del inmueble excede de cinco mil pesos su venta deberá constar en escritura pública.
 
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 1982)</small>
+
+Se excepcionan de lo anterior los contratos y las operaciones relacionadas con los inmuebles que se adquieran con los créditos provenientes del Instituto del Fondo Nacional de la Vivienda para los trabajadores, que podrán constar en documentos privados, ante dos testigos e inscribirse en el Registro Público de la Propiedad que corresponda, con la constancia del Registrador sobre la autenticidad de las firmas y la voluntad de las partes.
+
 ###### Artículo 1693.
 
 Tratándose de bienes ya inscritos en el Registro Público y cuyo valor no exceda de cinco mil pesos, cuando la venta sea al contado puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
@@ -14940,3 +14944,9 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario Gral. de Gobierno
 
 Dr. J. Jesús Osuna Gómez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE AGOSTO DE 1982.
+
+UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
