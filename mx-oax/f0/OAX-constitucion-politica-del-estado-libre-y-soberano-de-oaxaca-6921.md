@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1940-12-21"
+last_updated: "1940-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1940.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1940.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -39,19 +39,25 @@ CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 El Estado de Oaxaca declara que su organización gubernativa tiene por objeto el mejoramiento económico, social y político de todos sus habitantes, armonizando los derechos individuales con los de la colectividad.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
 
 ###### ARTICULO 2°.
 
-La ley es una para todos y de ella emanan los derechos y las obligaciones de los gobernantes y de los gobernados. Los Poderes y funcionarios públicos sólo tienen las facultades que les dá la ley, y el hombre puede hacer lo que ella no le prohibe.
+La Ley es una para todos y de ella emanan las facultades y los deberes de las autoridades, así como los derechos y las obligaciones de los individuos de la especie humana. Los Poderes Públicos, entidades morales, autoridades y funcionarios sólo tienen las facultades que les dá la ley. Los individuos pueden hacer todo lo que ésta no les prohibe.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
+
+ARTICULO 3° La manifestación de las ideas no puede ser objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque la ley o los derechos de tercero, provoque algún crimen o delito, o perturbe el orden público.
+
+En consecuencia, es inviolable la libertad de escribir y publicar escritos sobre cualquier materia. Ninguna ley ni autoridad puede establecer la previa censura, ni exigir fianza a los autores o impresores, ni coartar la libertad de imprenta, que no tiene más límite que el respeto a la vida privada, a la ley y a la paz pública. En ningún caso podrá secuestrarse la imprenta o cualquier otro medio que haya servido para hacer la impresión, como instrumento del delito.
+
+Las leyes orgánicas dictarán cuantas disposiciones sean necesarias para evitar que so pretexto de las denuncias por delitos de prensa, sean encarcelados los expendedores, voceadores de periódicos, operarios y demás empleados del establecimiento en que se haya impreso el escrito denunciado, a menos que se demuestre previamente la responsabilidad de aquéllos.
 
 ###### ARTICULO 3°.
 
-La manifestación de las ideas no puede ser objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque la moral, los derechos de tercero, provoque crimen o delito, o perturbe el orden público.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1940)
 
-En consecuencia, es inviolable la libertad de escribir y publicar escritos sobre cualquier materia. Ninguna ley ni autoridad puede establecer la previa censura, ni exigir fianza a los autores o impresores, ni coartar la libertad de imprenta, que no tiene más límite que el respeto a la vida privada, a la moral y a la paz pública. En ningún caso podrá secuestrarse la imprenta o cualquier otro medio que haya servido para hacer la impresión, como instrumento del delito.
-
-Las leyes orgánicas dictarán cuantas disposiciones sean necesarias para evitar que so pretexto de las denuncias por delitos de prensa, sean encarcelados los expendedores, voceadores de periódicos, operarios y demás empleados del establecimiento en que se haya impreso el escrito denunciado, a menos que se demuestre previamente la responsabilidad de aquéllos.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
 ###### ARTICULO 4°.
 
@@ -327,11 +333,13 @@ La Legislatura tendrá períodos ordinarios de sesiones dos veces al año; el pr
 
 Se reunirá, además, en períodos extraordinarios siempre que sea convocada por la Diputación Permanente o por el Ejecutivo; pero si éste hiciere la convocatoria, no se efectuará antes de diez días de la fecha de la publicación de aquella.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
 
 ###### ARTICULO 43.
 
-A la apertura de les (sic) períodos de sesiones de la Legislatura, asistirá el Gobernador y leerá un informe sobre el estado que guarda la administración pública, si se tratare de período ordinario, o sobre las causas que motivaren la convocatoria al período extraordinario, si ella se hubiere hecho a petición del Ejecutivo. En el caso de que la convocatoria se hubiere hecho por la Diputación Permanente, el Gobernador enviará el informe, limitándose a hacer constar que cumplió con el acuerdo de la Diputación haciendo publicar la convocatoria.
+A la apertura del primer período ordinario de sesiones de la Legislatura Local, que dará principio el dieciséis de septiembre, asistirá el ciudadano Gobernador y leerá un informe sobre el estado que guarda la Administración Pública.
+
+Si se tratare de un período extraordinario convocado a petición del Ejecutivo, el informe versará sobre las causas que motivaron la convocatoria. En el caso de que ésta se hubiere hecho por la Diputación Permanente, el Gobernador se limitará a comunicar a la Legislatura que cumplió con el acuerdo de la Diputación haciendo publicar la convocatoria.
 
 ###### ARTICULO 44.
 
@@ -465,7 +473,9 @@ XV. Convocar a elecciones de Gobernador y Diputados en los períodos constitucio
 
 XVI. Erigirse en Colegio Electoral para hacer la computación de votos en la elección de Gobernador, y hacer la declaración que corresponda;
 
-XVII. Erigirse en Colegio Electoral para designar Gobernador substituto o interino en los casos que determina la presente Constitución; y para hacer la elección de magistrados del Tribunal Superior de Justicia, Procurador General y Jueces de Primera Instancia, con arreglo a la misma Constitución;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1940)</small>
+
+XVII. Erigirse en Colegio Electoral para designar Gobernador sustituto o interino en los casos que determina la presente Constitución, y para hacer la elección de Magistrados del Tribunal Superior de Justicia y Procurador General Justicia del Estado;
 
 > <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1923)</small>
 
@@ -613,9 +623,11 @@ VII. Separarse del servicio activo con ciento ochenta días de anticipación al 
 
 VIII. Tener un modo honesto de vivir.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
+
 ###### ARTICULO 69.
 
-El Gobernador rendirá la protesta de ley a las diez de la mañana del día primero de diciembre del año de su renovación y en seguida tomará posesión de su encargo, en el cual durará cuatro años, y nunca podrá ser reelecto, para otro período constitucional; pero sí podrá serlo con carácter de interino o substituto.
+El Gobernador rendirá la protesta de ley el primero de diciembre del año de su renovación, y en seguida tomará posesión de su encargo, que durará cuatro años. Nunca podrá ser reelecto para otro período constitucional.
 
 ###### ARTICULO 70.
 
@@ -625,21 +637,29 @@ Las faltas temporales del Gobernador del Estado que no excedan de treinta días 
 
 Las faltas temporales del Gobernador del Estado que excedan de treinta días serán cubiertas por un Gobernador interino que por mayoría absoluta de votos nombrará la Legislatura o en su receso la Diputación Permanente, a propuesta en terna del Ejecutivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1940)</small>
+
 ###### ARTICULO 72.
 
-Las faltas absolutas de (sic) Gobernador serán cubiertas con arreglo a las disposiciones siguientes:
+Las faltas absolutas del Gobernador serán cubiertas con arreglo a las disposiciones siguientes:
 
 I. Si la falta ocurriere estando reunida la Legislatura en período ordinario o extraordinario de sesiones inmediatamente procederá a la elección de Gobernador substituto por mayoría absoluta de votos;
 
 II. Si la falta ocurriere estando la Legislatura en receso, se reunirá a más tardar dentro de los siete días siguientes, sin necesidad de convocatoria, y sólo para el efecto de hacer la elección en los términos de la fracción anterior; presidirá las sesiones el Presidente de la Diputación Permanente;
 
-III. Si la falta ocurriere durante los tres primeros años del período constitucional del Gobernador, el substituto convocará a elecciones, de manera que el nuevamente electo tome posesión a más tardar a los tres meses de ocurrida la falta;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1940)</small>
 
-IV. Si la falta se efectuare en el último año del período constitucional, el Gobernador substituto terminará el período;
+III. Si la falta ocurriere durante los dos primeros años del período constitucional del Gobernador, el substituto convocará a elecciones, de manera que el nuevamente electo, para completar el período del sustituido, tome posesión a más tardar a los tres meses de ocurrida la falta;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1940)</small>
+
+IV. Si la falta se presentara en los dos últimos años del periodo constitucional, el Gobernador sustituto elegido en los términos de la fracción l., que precede, terminará el período del Gobernador sustituido;
 
 V. Si por cualquiera circunstancia, no pudieren reunirse la Legislatura o la Diputación Permanente y desaparecieren los Poderes Legislativo y Ejecutivo, el Presidente del Tribunal Superior de Justicia o el Magistrado que lo substituya, se hará cargo del Ejecutivo del Estado y convocará a elecciones de diputados y Gobernador, las cuales se efectuarán a los treinta días de que se haya producido la desaparición; los diputados electos instalarán la Legislatura a los quince días de efectuadas las elecciones, y el Gobernador tomará posesión a los quince días de instalada la Legislatura;
 
-VI. Si hubiere completa desaparición de Poderes del Estado, asumirá el cargo de Gobernador Provisional el Senador electo por el Estado que esté en ejercicio y sea el menos antiguo, quien tomará posesión del cargo tan pronto como tenga conocimiento de la desaparición y procederá a la integración de los Poderes en la forma establecida en la fracción anterior, debiendo tomar posesión los magistrados del Tribunal Superior de Justicia el mismo día en que lo haga el Gobernador;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1940)</small>
+
+VI. Si hubiere completa desaparición de Poderes del Estado, asumirá el cargo de Gobernador Provisional cualquiera de los dos Senadores, en funciones, electos por el Estado, a juicio de la Cámara de Senadores del Congreso de la Unión, en los términos de la parte conducente de la fracción V del artículo 76 de la Constitución General de la República. El Gobernador Provisional electo tomará posesión del cargo tan pronto como tenga conocimiento de su designación y procederá a la integración de los Poderes en la forma establecida en la fracción anterior, debiendo tomar posesión los Magistrados del Tribunal Superior de Justicia, el mismo día en que lo haga el Gobernador;
 
 VII. Si no obstante las prevenciones anteriores, se presentare el caso previsto por la fracción V del artículo 76 de la Constitución Federal, el Gobernador Provisional que nombre el Senado deberá convocar a elecciones de diputados al día siguiente de que tome posesión del cargo; estas elecciones deberán efectuarse a los treinta días de la convocatoria, y la Legislatura deberá quedar instalada dentro de los veinte días siguientes; y una vez en funciones la Legislatura, procederá como está prevenido en la fracción primera de este artículo.
 
@@ -705,7 +725,9 @@ I. Cuidar del exacto cumplimiento de la Constitución General y de las leyes y d
 
 II. Cuidar del puntual cumplimiento de esta Constitución y de las leyes, decretos, reglamentos, acuerdos y demás disposiciones que de ella emanen, expidiendo al efecto las órdenes correspondientes;
 
-III. Concurrir a la apertura de cada período ordinario y extraordinario de sesiones;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1940)</small>
+
+III. Concurrir a la apertura del primer período que dará principio el 16 de septiembre y a la de los extraordinarios que hubieren sido convocados a solicitud del Ejecutivo;
 
 IV. Presentar a la Legislatura antes del día veinticinco del mes de septiembre de cada año los proyectos de Ley de Ingresos y Presupuesto de Egresos generales del Estado, que deberán regir en el año inmediato siguiente;
 
@@ -735,9 +757,13 @@ XVI. Nombrar el representante que le concierne en las juntas de conciliación y 
 
 XVII. Formar la estadística y organizar el catastro del Estado;
 
-XVIII. Asumir, por medio del Consejo Universitario, la dirección técnica de todos los establecimientos oficiales de educación pública en el Estado, los que funcionarán con arreglo a las leyes respectivas;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1940)</small>
 
-XIX. Asumir, por medio del Consejo Universitario, la dirección administrativa de los establecimientos de enseñanza cuyos gastos deben hacerse con cargo a los fondos generales del Estado;
+XVIII. Intervenir, de acuerdo con la ley, en la dirección técnica de todos los establecimientos oficiales de Educación Pública en el Estado, los que funcionarán con arreglo a las leyes respectivas;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1940)</small>
+
+XIX. Intervenir, de acuerdo con la ley, en la dirección administrativa de los establecimientos de enseñanza cuyos gastos deben hacerse total o parcialmente con fondos del Estado;
 
 XX. Mandar personalmente la fuerza pública en los municipios en que resida habitual o transitoriamente; y disponer de la policía rural y fiscal del Estado para la debida observancia de las leyes;
 
@@ -1133,7 +1159,9 @@ VII. Hacer la revisión de todos los procesos del orden penal que designen las l
 
 VIII. Dirimir las competencias de jurisdicción que se susciten entre los jueces de primera instancia del Estado, o entre el alcalde de un distrito judicial y otro alcalde o juez de primera instancia de otro distrito;
 
-IX. Proponer a la Legislatura las ternas para el nombramiento de jueces de primera instancia;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1940)</small>
+
+IX. Nombrar a los Jueces de Primera Instancia;
 
 > <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1923)</small>
 
@@ -1147,15 +1175,17 @@ XII. Ejercer las demás atribuciones que le señalen las leyes.
 
 Habrá jueces de primera instancia y jurados en todas las cabeceras de distrito judicial.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1934)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
 
 ###### ARTICULO 129.
 
-Los Jueces de Primera Instancia serán nombrados por la Legislatura a propuesta en terna del Tribunal Superior de Justicia; tendrán los mismos requisitos que los Magistrados menos el de la edad y tiempo de ejercicio de la profesión, bastándoles ser de veinticinco años de edad y tener dos de práctica forense.
+Los Jueces de Primera Instancia tendrán los mismos requisitos que los Magistrados, menos el de la edad y tiempo de ejercicio de la profesión, bastándoles ser de veinticinco años de edad y tener dos de práctica forense.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
 
 ###### ARTICULO 130.
 
-El cargo de juez de primera instancia no es renunciable si no por causa grave que calificará la Legislatura, ante la cual se presentará la renuncia.
+El cargo de Juez de 1ª Instancia no es renunciable, sino por causa grave que calificará el Tribunal Superior de Justicia, ante el cual se presentará la renuncia.
 
 ###### ARTICULO 131.
 
@@ -1263,7 +1293,7 @@ El derecho de inamovilidad de los Magistrados y Jueces, sólo se adquirirá desp
 
 A falta de letrados, se nombrarán jueces y agentes del Ministerio Público, legos; pero para que los designados tomen posesión de su respectivo cargo, es necesario que acrediten previamente ante un jurado formado por tres letrados, nombrados por el Tribunal Superior de Justicia o por el Procurador, respectivamente, que tienen conocimientos aunque sólo sean elementales en Derecho Constitucional, Derecho Penal, Civil y Mercantil, y en los respectivos códigos de procedimientos.
 
-Los jueces nombrados conforme a esta disposición no adquieren el derecho de inamovilidad; en consecuencia, los jueces legos y los agentes letrados y legos, pueden ser removidos libremente.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE DICIEMBRE DE 1940)</small>
 
 ###### ARTICULO 5°.
 
@@ -1380,3 +1410,7 @@ Unico.- El presente decreto empezará a surtir sus efectos legales, desde la fec
 P.O. 21 DE DICIEMBRE DE 1940.
 
 Unico.- El presente decreto empezará a surtir sus efectos legales, a partir del día primero del año próximo de mil novecientos cuarenta y uno.
+
+P.O. 28 DE DICIEMBRE DE 1940.
+
+Unico.- Las reformas a los artículos 2o., 3o., 43, 59, 69, 72, 80, 127, 129 y 130 de la Constitución Política Local a que se refiere el presente decreto, entraran en vigor a partir del día primero de enero del año próximo de mil novecientos cuarenta y uno.
