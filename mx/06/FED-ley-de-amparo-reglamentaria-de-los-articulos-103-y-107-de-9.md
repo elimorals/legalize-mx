@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "1974-12-04"
+last_updated: "1974-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -1889,19 +1889,23 @@ Concluída la audiencia del día en cada una de las Salas, el secretario de Acue
 
 ### Capítulo único
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1968)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 192.
 
-La jurisprudencia que establezca la Suprema Corte de Justicia funcionando en pleno sobre interpretación de la Constitución, leyes y reglamentos federales o locales y tratados internacionales celebrados por el Estado mexicano, es obligatoria tanto para ella como para las salas que la componen, los Tribunales Unitarios y Colegiados de Circuito, Juzgados de Distrito, Tribunales Militares y Judiciales del orden común de los Estados, Distrito y Territorios Federales y Tribunales Administrativos y del Trabajo, locales o federales.
-
-Las ejecutorias de la Suprema Corte de Justicia funcionando en pleno constituyen jurisprudencia, siempre que lo resuelto en ellas se sustente en cinco ejecutorias no interrumpidas por otra en contrario y que hayan sido aprobadas por lo menos por catorce ministros.
+La jurisprudencia que establezca la Suprema Corte de Justicia funcionando en pleno sobre interpretación de la Constitución, leyes y reglamentos federales o locales y tratados internacionales celebrados por el Estado mexicano, es obligatoria tanto para ella como para las salas que la componen, los Tribunales Unitarios y Colegiados de Circuito, Juzgados de Distrito, Tribunales Militares y Judiciales del orden común de los Estados, Distrito Federal y Tribunales Administrativos y del Trabajo, locales o federales.
 
 > <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1968)</small>
 
+Las ejecutorias de la Suprema Corte de Justicia funcionando en pleno constituyen jurisprudencia, siempre que lo resuelto en ellas se sustente en cinco ejecutorias no interrumpidas por otra en contrario y que hayan sido aprobadas por lo menos por catorce ministros.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 193.
 
-La jurisprudencia que establezcan las salas de la Suprema Corte de Justicia sobre interpretación de la Constitución, leyes federales o locales y tratados internacionales celebrados por el Estado mexicano, es obligatoria para las mismas salas y para los Tribunales Unitarios y Colegiados de Circuito; Juzgados de Distrito; Tribunales Militares y Judiciales del orden común de los Estados, Distrito y Territorios Federales y Tribunales Administrativos y del Trabajo, locales o federales.
+La jurisprudencia que establezcan las salas de la Suprema Corte de Justicia sobre interpretación de la Constitución, leyes federales o locales y tratados internacionales celebrados por el Estado mexicano, es obligatoria para las mismas salas y para los Tribunales Unitarios y Colegiados de Circuito, Juzgados de Distrito; Tribunales Militares y Judiciales del orden común de los Estados, Distrito Federal y Tribunales Administrativos y del Trabajo, locales o federales.
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1968)</small>
 
 Las ejecutorias de las salas de la Suprema Corte de Justicia constituyen jurisprudencia, siempre que lo resuelto en ellas se sustente en cinco ejecutorias no interrumpidas por otra en contrario y que hayan sido aprobadas por lo menos por cuatro ministros.
 
@@ -1955,9 +1959,11 @@ Las ejecutorias de amparo y los votos particulares de los ministros y de los mag
 
 ### Capítulo I. De la responsabilidad de los funcionarios que conozcan del amparo
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 198.
 
-Los jueces de Distrito, las autoridades judiciales de los Estados, del Distrito y de los Territorios Federales, en funciones de aquéllos, los presidentes de las juntas de conciliación y arbitraje y los ministros de la Suprema Corte de Justicia de la Nación, son responsables en los juicios de amparo por los delitos de faltas que cometan, ya en la substanciación de éstos, ya en las sentencias, en los términos que los definen y castigan el Código Penal para el Distrito y Territorios Federales y la Ley Orgánica del Poder Judicial de la Federación, así como este Capítulo.
+Los jueces de Distrito, las autoridades judiciales de los Estados, del Distrito Federal, en funciones de aquéllos, los presidentes de las juntas de conciliación y arbitraje y los ministros de la Suprema Corte de Justicia de la Nación, son responsables en los juicios de amparo por los delitos de faltas que cometan, ya en la substanciación de éstos, ya en las sentencias, en los términos que los definen y castigan el Código Penal para el Distrito Federal y la Ley Orgánica del Poder Judicial de la Federación, así como este capítulo.
 
 ###### ARTICULO 199.
 
@@ -2208,3 +2214,9 @@ En los amparos en revisión pendientes de sentencia ante la Suprema Corte de Jus
 D.O.F. 4 DE DICIEMBRE DE 1974.
 
 UNICO.- El presente Decreto entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 23 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
