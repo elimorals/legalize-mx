@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2003-07-30"
+last_updated: "2004-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2004.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -619,11 +619,11 @@ IV.- Especiales.
 
 Las comisiones de Dictamen Legislativo y de Vigilancia de la Contaduría General se constituyen con carácter definitivo y funcionarán durante toda la Legislatura, se denominan ordinarias y se integrarán a más tardar en la cuarta sesión posterior a la de instalación del Congreso, con un máximo de cinco miembros y un mínimo de tres. Su mesa directiva se integrará por un presidente y un secretario, quienes junto con los demás miembros de cada comisión, serán designados por el Pleno a propuesta de la Junta de Coordinación Parlamentaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE ABRIL DE 2004)</small>
 
 ###### Art. 46.
 
-Los trabajos de las comisiones serán coordinados por su directiva. Necesitarán para funcionar de la presencia de la mayoría de sus miembros.
+Los trabajos de las Comisiones serán coordinados por su directiva. Necesitarán para funcionar de la presencia de la mayoría de sus miembros.
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
 
@@ -637,7 +637,9 @@ Los acuerdos que se tomen en relación con los proyectos de dictamen que habrán
 
 Cuando las reuniones de las Comisiones versen sobre asuntos que no puedan desahogarse en un solo día, la Comisión acordará el día y hora en que habrán de continuar los trabajos sin necesidad de un nuevo citatorio.
 
-Sus dictámenes se acordarán por mayoría de votos y sus presidentes tendrán, además del ordinario, voto de calidad. Las ausencias temporales de su presidente serán cubiertas por el secretario.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
+
+Sus dictámenes se acordarán por mayoría de votos y sus presidentes tendrán, además del ordinario, voto de calidad. Las ausencias temporales de su Presidente serán cubiertas por el Secretario, siempre y cuando aquél siga en pleno ejercicio de sus funciones como Diputado. Las faltas absolutas o temporales de los miembros de la Comisión, serán cubiertas por sus respectivos suplentes, al momento en que éstos tomen posesión de su encargo, en tanto el Pleno designe un nuevo titular que ocupe la vacante.
 
 ###### Art. 47.
 
@@ -897,11 +899,11 @@ Los diputados que formen parte de las comisiones o comités no recibirán ningun
 
 ### CAPITULO VII. DE LOS COMITES
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE ABRIL DE 2004)</small>
 
 ###### Art. 68.
 
-El Congreso, contará como órganos de apoyo con los siguientes comités:
+El Congreso contará como órgano de apoyo con los siguientes:
 
 I.- De Administración, y
 
@@ -910,6 +912,10 @@ I.- De Administración, y
 II.- De Biblioteca, Asuntos Editoriales e Informática.
 
 Los miembros de los comités serán designados por el Pleno a propuesta de la Junta de Coordinación Parlamentaria; se integrarán con tres miembros, tendrán las atribuciones que esta Ley les señala y además funcionarán durante todo el período de la Legislatura. Uno de los integrantes del Comité de Administración representará necesariamente a la primera minoría.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2004)</small>
+
+Para cubrir las faltas absolutas o temporales de los miembros de los comités del Congreso, se estará a lo dispuesto en el párrafo quinto del artículo 46 del presente ordenamiento.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
@@ -1920,6 +1926,12 @@ DECRETO No. 688/03 II P.O.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 30 DE JULIO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ABRIL DE 2004.
 
 ###### ARTÍCULO ÚNICO.
 
