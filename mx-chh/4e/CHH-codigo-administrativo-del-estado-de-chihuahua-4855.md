@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1988-12-31"
+last_updated: "1989-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 1989.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -10365,8 +10365,6 @@ Los adeudos a cargo de los usuarios, provenientes de cualquiera de los conceptos
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
-
 ###### ARTICULO 1596.
 
 Son infracciones de los usuarios, propietarios o poseedores de inmuebles:
@@ -10473,153 +10471,107 @@ Cuando las infracciones cometidas sean constitutivas de delito, se denunciarán 
 
 Las autoridades administrativas tienen el carácter de auxiliares de las Juntas Central y Municipales y están obligadas a cooperar en el cumplimiento de las disposiciones sobre la materia.
 
-(REUBICADA, P.O. 28 DE AGOSTO DE 1982)
+> <small>(DEROGADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)</small>
 
 DECIMA SEGUNDA PARTE
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(DEROGADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)</small>
 
 # LIBRO UNICO. DE LAS RESPONSABILIDADES Y SANCIONES
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)</small>
 
 ## TITULO UNICO. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS PUBLICOS
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)</small>
 
 ### CAPITULO II. DE LA RESPONSABILIDAD DE LOS ALTOS FUNCIONARIOS DEL ESTADO
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
-
 ###### ARTICULO 1605.
 
-Todos los funcionarios y empleados del Estado y de los Municipios serán responsables de los delitos y de las faltas comunes y oficiales que cometan.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1606.
 
-No podrán aplicarse sanciones a los funcionarios y empleados públicos sin otorgarles previamente la garantía de audiencia dentro de los procedimientos administrativos o judiciales previamente establecidos y de conformidad con las leyes expedidas con anterioridad a los hechos que motiven la infracción.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1607.
 
-Se concede acción popular para denunciar ante quien corresponda los delitos y faltas oficiales cometidas por los funcionarios y empleados públicos.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1608.
 
-Pronunciada una sentencia de responsabilidad por delitos oficiales, no se puede conceder al reo la gracia del indulto.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1609.
 
-La responsabilidad por delitos y faltas oficiales sólo podrá ejercerse durante el período en que el funcionario o empleado desempeña su cargo y dentro de un año después.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1610.
 
-El término señalado en el artículo anterior empezará a correr desde el día en que el funcionario deje de hecho de estar en funciones, en aquellos casos en que por excepción continúe en funciones después de la expiración del término legal.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1611.
 
-Será causa de responsabilidad para todos los funcionarios y empleados públicos, no despachar dentro de los términos legales o reglamentarios los negocios que estén a su cargo.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1612.
 
-Ningún ciudadano podrá desempeñar ni conservar dos o más cargos de elección popular, pero el electo podrá optar por el que le conviniere, entendiéndose renunciado uno con la aceptación del otro.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1613.
 
-Todo cargo de elección popular es incompatible con cualquier función o empleo federal, de éste o de otro Estado o de los Municipios, cuando por ambos se perciba sueldo, exceptuándose los de enseñanza, beneficencia y salubridad públicas, salvo lo dispuesto para casos especiales y cuando el Congreso otorgue licencia expresa para ello al interesado.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1614.
 
-Nunca podrá reunirse en una persona varios empleos por los que se disfrute sueldo; exceptuándose únicamente los de enseñanza, siempre que no concurran con alguno de otro ramo. La infracción de este artículo y de los dos próximos anteriores será motivo de responsabilidad para los funcionarios y empleados que, en sus respectivos casos, ordenen o reciban los pagos indebidos. Sin embargo, el Congreso o en su receso la Diputación Permanente, podrán conceder permiso por término señalado a empleados de otros ramos para que puedan desempeñar empleos en los ramos de enseñanza, salubridad y beneficencia, necesitándose permiso especial en cada caso.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1615.
 
-Los cargos y empleos públicos del Estado durarán el tiempo señalado por las leyes y las personas que los obtengan, por ningún motivo podrán conservarlos después de la expiración del término legal, salvo el caso de prevención expresa de la ley en sentido contrario.
-
-Tampoco podrán ni tendrán derecho a conservar el empleo público, quienes legalmente hayan sido cesados quedando sin efectos sus nombramientos, o cuando hayan terminado los contratos de trabajo en el caso de personas que presten sus servicios por obra o por tiempo determinado.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1616.
 
-El Gobernador, los Magistrados, los representantes del Ministerio Público, el Secretario General de Gobierno, el Oficial Mayor, el abogado consultor general del Ejecutivo o de la Secretaría, los Jueces, los defensores de oficio en materia penal, los Presidentes Municipales y los Secretarios del Ayuntamiento, los del Supremo Tribunal de Justicia y Juzgados, los Recaudadores de Rentas, los empleados de Hacienda y todos aquéllos a quienes se les prohiben las leyes secundarias, no podrán, mientras conserven sus respectivos caracteres, ejercer la abogacía ni la procuración en los tribunales del Estado, sino en negocio propio, de su cónyuge o de personas que estén bajo su patria potestad; ni actuarán como notarios, a no ser los jueces que deban hacerlo por ministerio de ley.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1617.
 
-Los funcionarios del Estado y municipales, en las poblaciones fronterizas, tienen la obligación de residir en territorio nacional, bajo la pena de perder su cargo o empleo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)</small>
 
 ### CAPITULO III. DE LA RESPONSABILIDAD DE LOS DEMAS FUNCIONARIOS Y EMPLEADOS PUBLICOS
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
-
 ###### ARTICULO 1618.
 
-El Gobernador durante su encargo sólo podrá ser acusado por traición a la patria, violación expresa de la Constitución del Estado o de la General de la República, ataques a la libertad electoral o de delitos del orden común.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1619.
 
-De los delitos oficiales del Gobernador, Diputados, Magistrados, Secretario General de Gobierno, Procurador General de Justicia, Directores y Jefes de las demás Dependencias del Ejecutivo, conocerá en primera instancia la sala del ramo penal del Supremo Tribunal de Justicia.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1620.
 
-No pueden ser procesados:
-
-I.- Los funcionarios de que habla el artículo anterior, sin previa declaración que, conforme a la fracción XX del artículo 64 de la Constitución local, haga el Congreso en el sentido de haber lugar a formación de causa;
-
-II.- Los Jueces de Primera Instancia, los Jueces Menores y los agentes del Ministerio Público, sin que previamente un jurado compuesto del Gobernador, un Magistrado y el Procurador General, en el cual actuará como Secretario uno de los abogados consultores del Ejecutivo designado por el Gobernador en cada caso, declare que ha lugar a proceder en su contra.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1621.
 
-En los casos antes mencionados, si el Congreso o el jurado formulan declaración afirmativa en el sentido de que procede la formación de causa, el desaforado quedará suspendido en el desempeño de su cargo o empleo y será consignado al Ministerio Público para que éste promueva el juicio respectivo ante la autoridad competente.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1622.
 
-Si la declaración del Congreso o del jurado fuera en sentido negativo, no habrá lugar a procedimiento ulterior, pero tal declaración no será obstáculo para que, tratándose de delitos comunes, la acusación continúe en su punto cuando el acusado haya dejado de tener fuero.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1623.
 
-La declaración de que ha lugar a la formación de causa contra un funcionario o empleado que goce de fuero es necesaria desde la fecha en que se hubiere hecho la elección o nombramiento, sin perjuicio de que cuando se trate de un delito común los jueces puedan practicar desde luego las primeras diligencias, conforme a la ley.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1624.
 
-Los funcionarios y empleados que gocen de fuero, no disfrutarán de éste en cuanto a delitos que cometan durante el desempeño de otro cargo, empleo o comisión distintos que aceptaren durante el período en que debieran disfrutar de fuero, salvo que también pueda corresponderles fuero por razón del nuevo empleo, cargo o comisión que desempeñen.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)</small>
 
 ### CAPITULO I. DE LAS COMPETENCIAS
 
@@ -10627,39 +10579,27 @@ Los funcionarios y empleados que gocen de fuero, no disfrutarán de éste en cua
 
 ###### ARTICULO 1625.
 
-De los delitos que cometan los funcionarios y empleados públicos que no gozan de fuero conocerán los tribunales comunes en los términos que fije la ley.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1626.
 
-El Gobernador del Estado aplicará discrecionalmente las sanciones administrativas, incluyendo la suspensión y el cese, tratándose de empleados de confianza. Deberá entenderse que son empleados de confianza aquellas personas que por disposición constitucional o legal pueden ser designadas y removidas libremente por el Gobernador del Estado, aun cuando éste tenga que hacer los nombramientos a propuesta de algún funcionario o institución.
-
-El ejercicio de la facultad que confiere este artículo no tiene límites en cuanto al fondo ni en cuanto al procedimiento y por tanto los funcionarios afectados no podrán alegar violación de los artículos 14 y 16 de la Constitución Federal ni acudir a las Juntas Arbitrales o Tribunal de Arbitraje.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1627.
 
-Los trabajadores de confianza responderán, conforme a las leyes aplicables, por los daños y perjuicios que causen a los particulares o a las propiedades del Estado.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1628.
 
-Los trabajadores de base sólo podrán ser sancionados con suspensión o privación de sus cargos por sentencia del Tribunal de Arbitraje creado específicamente para conocer de los conflictos entre ellos y el Estado.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1629.
 
-Las demás sanciones administrativas deberán aplicarse por el Ejecutivo de acuerdo con las normas que establece el Reglamento de Trabajo que deberá dictar el Gobernador del Estado recabando la aprobación previa del Sindicato de Trabajadores al Servicio del Estado.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 ###### ARTICULO 1630.
 
-Los trabajadores de base responderán también, conforme a las leyes aplicables, de las responsabilidades civiles y penales en que puedan incurrir, estando obligados a indemnizar los daños y perjuicios que causen tanto a los particulares como en las propiedades del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
 (REUBICADA, P.O. 28 DE AGOSTO DE 1982)
 
@@ -11746,3 +11686,15 @@ ESTA LEY ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFI
 ###### ARTICULO SEGUNDO.
 
 SE DEROGA EL LIBRO CUARTO DE LA TERCERA PARTE, DE LOS PARTIDOS POLITICOS Y PROCESOS ELECTORALES, ARTICULOS 471 A 583, DEL CODIGO ADMINISTRATIVO DEL ESTADO.
+
+P.O. 17 DE MAYO DE 1989.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTICULO PRIMERO.
+
+ESTA LEY ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+SE DEROGAN LA DÉCIMA SEGUNDA PARTE, LIBRO UNICO, DE LAS RESPONSABILIDADES Y SANCIONES; TÍTULO UNICO, "DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS PÚBLICOS", ARTÍCULOS DEL 1605 AL 1630 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO, ASÍ COMO TODAS AQUELLAS DISPOSICIONES QUE SE OPONGAN A ESTA LEY.
