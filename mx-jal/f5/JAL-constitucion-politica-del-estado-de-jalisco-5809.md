@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1987-10-17"
+last_updated: "1987-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1987.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -439,9 +439,11 @@ Para el despacho de los negocios del Poder Ejecutivo, habrá un Servidor Públic
 
 El Secretario de Gobierno, o quien conforme a la Ley haga sus veces, autorizará con su firma las disposiciones que el Gobernador diere en uso de sus facultades; sin este requisito no serán obedecidas.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1987)</small>
+
 ###### Art. 34.
 
-Las autoridades subalternas del Gobernador, y sus facultades, son las que determina la Ley.
+La Ley establecerá y determinará las facultades y las dependencias del Poder Ejecutivo; así como las correspondientes a la Institución del Ministerio Público.
 
 ### CAPITULO UNICO. Del Municipio Libre
 
@@ -523,7 +525,7 @@ XVII. Celebrar convenios con los Gobiernos Federal y de los Estados, para que lo
 
 ### CAPITULO UNICO. Del Poder Judicial
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1987)</small>
 
 ###### Art. 36.
 
@@ -625,11 +627,15 @@ Cuando dos o más centros urbanos situados en el territorio de dos o más munici
 
 ###### Art. 39.
 
-El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, jueces de Primera Instancia, jueces menores, jueces de paz y jurados.
+El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Juzgados de Primera Instancia, Menores, de Paz y Jurados.
+
+Ninguna persona podrá hacerse justicia por si misma, ni ejercer violencia para reclamar su derecho.
+
+Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, los cuales deberán emitir sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando en consecuencia prohibidas las costas judiciales.
 
 La función jurisdiccional en materia administrativa, incluyendo la fiscal, estará a cargo del Tribunal de lo Contencioso Administrativo del Estado.
 
-La función jurisdiccional para resolver las controversias entre el Estado, los municipios, los Organismos Descentralizados y Empresas de Participación Mayoritaria de ambos con sus servidores, en materia laboral, estará a cargo del Tribunal de Arbitraje y Escalafón.
+La función jurisdiccional para resolver las controversias entre el Estado, los municipios, los organismos descentralizados y empresas de participación mayoritaria de ambos con sus servidores, en sus relaciones de trabajo, estará a cargo del Tribunal de Arbitraje y Escalafón, con excepción de las controversias en materia de relaciones de trabajo de los servidores públicos pertenecientes al Poder Judicial a que se refiere el primer párrafo de este artículo, las que se regirán de conformidad con su Ley Orgánica respectiva.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
 
@@ -639,7 +645,9 @@ El Supremo Tribunal de Justicia funcionará en acuerdo pleno o en salas, con el 
 
 I. Conocer de todas las controversias del orden criminal, civil y de lo familiar;
 
-II. Resolver los conflictos de competencia que se susciten entre los Tribunales a que se refiere el artículo anterior;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1987)</small>
+
+II. Resolver los conflictos de competencia que se susciten entre los Tribunales a que se refiere el primer párrafo del artículo anterior;
 
 III. Formular su Reglamento Interior;
 
@@ -653,15 +661,25 @@ VII. Conceder licencias a los Magistrados hasta por dos meses, para que se separ
 
 VIII. Nombrar y remover, en la forma que determinen las leyes, a los demás servidores públicos del Poder Judicial.
 
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 1987)</small>
+
+IX. Resolver en definitiva, los conflictos administrativos y los que se susciten con motivo de las relaciones de trabajo entre los tribunales a que se refiere el primer párrafo del artículo anterior y sus dependencias, con sus servidores públicos.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1987)</small>
+
 ###### Art. 41.
 
 Para ser Magistrado se requiere:
 
-I. Ser ciudadano mexicano por nacimiento, nativo del Estado, o domiciliado legalmente en él cuando menos tres años antes del día de la elección;
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos.
 
-II. Ser abogado con título oficial, y tener cuando menos cinco años de práctica forense reconocida; y
+II. Ser nativo del Estado o con domicilio legalmente establecido en él y haber residido en la entidad durante los últimos cinco años, salvo en el caso de ausencia motivada por el desempeño de algún cargo en el servicio público.
 
-III. Tener treinta años cumplidos el día de la elección; estar en el pleno ejercicio de sus derechos políticos y civiles, y haber observado una conducta pública notoriamente buena.
+III. Ser abogado o licenciado en derecho, con título oficial, expedido por autoridad o corporación legalmente facultada para ello e inscrito en la Dirección de Profesiones del Estado y tener cuando menos cinco años de práctica forense reconocida.
+
+IV. Tener más de treinta y cinco años y menos de sesenta y cinco años el día de la elección o designación;
+
+V. Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, estará inhabilitado para el cargo cualquiera que haya sido la pena.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1983)</small>
 
@@ -673,61 +691,59 @@ Los nombramientos de los Magistrados al Supremo Tribunal de Justicia y del Tribu
 
 No aceptado alguno de los tres por el Congreso, el Ejecutivo nombrará definitivamente a otra persona que no hubiere sido propuesta para la misma vacante.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1948)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1987)</small>
 
-Cuando ocurra alguno de los casos previstos en el párrafo que antecede durante los recesos del Congreso, la Diputación Permanente ejercerá con carácter provisional, las atribuciones que se asignan a aquél. Las determinaciones que tome serán sometidas a la Cámara en el Período inmediato de sesiones.
+Cuando ocurra alguno de los casos previstos en el párrafo primero de este artículo, durante los recesos del Congreso la Diputación Permanente ejercerá con carácter provisional, las atribuciones que se asignan a aquél. Las determinaciones que tome serán sometidas a la Cámara en el Período inmediato de sesiones.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1948)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1987)</small>
 
-Los Magistrados y los Jueces durarán en el cargo seis años, a partir del primero de abril del año en que se inicie el período constitucional del Ejecutivo.
+Los Magistrados del Supremo Tribunal de Justicia del Estado, durarán en el ejercicio de su encargo cuatro años, contados a partir de la fecha en que rindan la protesta de Ley, al término de los cuales, si fueren ratificados, sólo podrán ser privados de su puesto en los términos del Título Séptimo de esta Constitución.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1948)</small>
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 12 DE DICIEMBRE DE 1987)</small>
 
-Los que fueren designados en el curso del período durarán solamente hasta la conclusión del mismo.
+> <small>(DEROGADO SEXTO PARRAFO, P.O. 12 DE DICIEMBRE DE 1987)</small>
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
+> <small>(DEROGADO SEPTIMO PARRAFO, P.O. 12 DE DICIEMBRE DE 1987)</small>
 
-Los Magistrados y Jueces sólo podrán ser destituidos o inhabilitados, previo el juicio correspondiente que establece el Título Séptimo de esta Constitución.
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1987)</small>
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1948)</small>
+El Gobernador aceptará las renuncias de los Magistrados y les concederá licencias por más de dos meses pero sus actos deberán ser ratificados por el Congreso o por la Diputación Permanente.
 
-Independientemente de lo dispuesto en el párrafo anterior, el Gobernador podrá pedir al Congreso la destitución de cualquier Magistrado o juez por alguna de las causas enunciadas. Si el Congreso declara, por mayoría absoluta de votos justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, sin perjuicio de que se le haga efectiva la responsabilidad en que hubiere incurrido.
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1948)</small>
-
-El Gobernador aceptará las renuncias de los Magistrados y les concederá licencias por más de dos meses, pero sus actos deberán ser ratificados por el Congreso o por la Comisión Permanente.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1987)</small>
 
 ###### Art. 43.
 
-Los Jueces de Primera Instancia, Menores y de Paz, serán nombrados por el Supremo Tribunal de Justicia, en los términos que fije la Ley orgánica respectiva.
+Los jueces de primera Instancia, Menores y de Paz, serán nombrados por el Supremo Tribunal de Justicia.
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1983)</small>
+La Ley establecerá las condiciones para el ingreso, formación y permanencia de los servidores públicos que laboren en el Poder Judicial del Estado.
 
-Para ser juez de Primera Instancia se necesita ser abogado con Título Oficicial (sic) registrado.
-
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1987)</small>
 
 ###### Art. 44.
 
-La Ley organizará los tribunales y el Ministerio Público, así como lo relativo a los Jurados y al Sistema de Ayuda Legal.
+La Ley organizará los Tribunales, el sistema de ayuda legal, así como los demás organismos que pertenezcan al Poder Judicial; igualmente, garantizará la independencia de los propios tribunales, la de los Magistrados y Jueces en el ejercicio de sus funciones y la plena ejecución de sus resoluciones.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
+Los nombramientos de los Magistrados y jueces integrantes del Poder Judicial deberán ser hechos, preferentemente de entre aquellas personas que presten o hubiesen prestado sus servicios con eficiencia y probidad en la administración de justicia, o que, sin haber laborado en el Poder Judicial lo merezcan por su honorabilidad, competencia y antecedentes profesionales.
+
+Los Magistrados y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1987)</small>
 
 ###### Art. 45.
 
 El Tribunal de lo Contencioso Administrativo estará dotado de plena autonomía para dictar sus resoluciones y tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten, entre las autoridades del Estado, municipales y de los organismos descentralizados de ambos, con los particulares. Igualmente, de las que surjan entre el Estado y los municipios, o de éstos entre sí.
 
-La Ley Orgánica del Tribunal de lo Contencioso Administrativo que al efecto se expida, establecerá las normas para su organización y funcionamiento; los procedimientos y los recursos contra las resoluciones que dicte.
+La Ley Orgánica del Tribunal de lo Contencioso Administrativo del Estado, establecerá las normas para su organización y funcionamiento y los requisitos para ser Magistrado del mismo, así como las condiciones para el ingreso y permanencia de los demás servidores públicos que presten sus servicios en dicho Tribunal.
 
-Para el conocimiento, por parte de dicho Tribunal, de las controversias administrativas y fiscales de índole Municipal, se requerirá de previo convenio que celebren los Ayuntamientos respectivos, con el Ejecutivo del Estado.
+La Ley del Procedimiento Contencioso Administrativo establecerá los procedimientos y recursos contra las resoluciones que se dicten por el referido Tribunal.
 
-Serán aplicables a los Magistrados del Tribunal de lo Contencioso Administrativo, las disposiciones legales relativas a los del Supremo Tribunal de Justicia; contenidas en esta Constitución y en otros ordenamientos jurídicos; pero, en lo referente a los requisitos para su designación, deberán satisfacer además lo que señale la Ley Orgánica del Tribunal de lo Contencioso Administrativo.
-
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1987)</small>
 
 ###### Art. 46.
 
-Corresponde al Tribunal de Arbitraje y Escalafón conocer de las controversias que se susciten entre el Estado, los municipios y los Organismos Descentralizados de ambos, con sus servidores, con motivo de la relación de trabajo y se regirá por la Ley para los Servidores Públicos del estado de Jalisco y por todas las demás Leyes y Reglamentos de la materia.
+Corresponde al Tribunal de Arbitraje y Escalafón conocer de las controversias que se susciten entre el Estado, los Municipios, los organismos descentralizados y empresas de participación mayoritaria de ambos, con sus servidores, con motivo de las relaciones de trabajo y se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, por todas las demás Leyes y Reglamentos de la materia, con excepción de las controversias relativas a las relaciones de trabajo de los servidores públicos que presten sus servicios en los Tribunales a que se refiere el primer párrafo del Art. 39 de esta Constitución.
+
+La Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, establecerá las normas para su organización y funcionamiento, así como los requisitos que deben tener los servidores públicos que presten sus servicios en dicho Tribunal.
 
 ###### Art. 47.
 
@@ -795,6 +811,8 @@ Por lo que corresponde al Gobernador del Estado, solo habrá lugar a acusarlo an
 
 ### CAPITULO SEGUNDO. Prevenciones Generales
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1987)</small>
+
 ###### Art. 51.
 
 No se requerirá declaración de procedencia del Congreso, cuando alguno de los Servidores Públicos a que se hace referencia en el párrafo primero del Art. 50, cometa un delito durante del tiempo en que se encuentre separado de su encargo.
@@ -845,7 +863,7 @@ Las declaraciones y resoluciones a que se refieren los Arts. 49 y 50, son inatac
 
 ###### Art. 58.
 
-Los Supremos Poderes del Estado deben residir en la Capital del mismo y no podrán transladarse (sic) ni aun provisionalmente, sino por acuerdo de las dos terceras partes del número total de Diputados que integren la Legislatura.
+Los Poderes del Estado deben residir en la Capital del mismo y no podrán trasladarse, ni aún provisionalmente, sino por acuerdo de las dos terceras partes del número total de Diputados que integran la Legislatura.
 
 ###### Art. 59.
 
@@ -1106,3 +1124,15 @@ Unico.- Este Decreto entrará en vigor al día siguiente de su publicación en e
 P.O. 17 DE OCTUBRE DE 1987.
 
 Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 12 DE DICIEMBRE DE 1987.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+Artículo Segundo.- Los nombramientos de los Magistrados y Jueces del Poder Judicial, expedidos durante el presente periodo Constitucional subsistirán por todo el tiempo que fueren otorgados, salvo renuncia o destitución.
+
+Artículo Tercero.- Los nombramientos de los Magistrados y Jueces que se expidan por el Titular del Poder Ejecutivo y por el Pleno del Supremo Tribunal de Justicia, respectivamente, con posterioridad a la vigencia de las presentes reformas, deberán satisfacer los requisitos que establece esta Constitución y la Ley Orgánica del Poder Judicial del Estado.
+
+Artículo Cuarto.- Los conflictos de competencia existentes entre los Tribunales a que se refiere el primer párrafo del Art. 39, de esta Constitución, materia del presente Decreto, que actualmente se encuentren ventilándose en las Salas del Supremo Tribunal de Justicia del Estado, deberán remitirse al Pleno del propio Tribunal para su resolución.
+
+Artículo Quinto.- Los conflictos laborales que actualmente se tramitan ante el Tribunal de Arbitraje y Escalafón, en los que intervengan servidores públicos que pertenezcan al Poder Judicial del Estado, se concluirán en los términos de lo establecido en la Ley para los Servidores Públicos del estado de Jalisco y sus Municipios.
