@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1998-12-21"
+last_updated: "2003-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2003.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -10055,45 +10055,37 @@ Comprobada debidamente la posesión la aprobará el Juez y mandará inscribir ta
 
 ### CAPITULO X. De la adopción
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 ###### Artículo 1326.
 
-El que pretenda adoptar a alguna persona, deberá acreditar:
+El que pretenda adoptar deberá acreditar los requisitos señalados por el artículo 345 del Código Civil, debiéndose observar lo siguiente:
 
-I. Que es mayor de cuarenta años y tiene, por lo menos, diecisiete años más de edad que la persona que trata de adoptar;
+I. En la promoción inicial se deberá manifestar el tipo de adopción que se promueve, el nombre, edad y si lo hubiere domicilio del menor o persona incapacitada que se pretende adoptar; el nombre, edad y domicilio de quienes en su caso ejerzan sobre él la patria potestad o tutela, o de la persona o institución de asistencia social pública o privada que lo haya acogido y acompañar certificado médico de buena salud, expedido por institución pública. Los estudios socioeconómicos y psicológicos necesarios para efectuar el trámite de adopción deberán realizarse por el Consejo Técnico de Adopción del Sistema Estatal para el Desarrollo Integral de la Familia o por institución pública o privada; y,
 
-II. Que no tiene descendientes;
+II. Tratándose de extranjeros se deberá acreditar su legal estancia o residencia en el país.
 
-III. Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trata de adoptarse;
+Los extranjeros con residencia en otro país deberán presentar certificado de idoneidad, expedido por la autoridad competente de su país de origen que acredite que el solicitante es considerado apto para adoptar; constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en dicho Estado; autorización de la Secretaría de Gobernación para internarse y permanecer en el país con la finalidad de realizar una adopción.
 
-IV. Que la adopción es benéfica para la persona que trata de adoptarse;
+La documentación que presente los solicitantes extranjeros en idioma distinto al español, deberá acompañarse de la traducción oficial.
 
-V. Que es el adoptante persona de buenas costumbres.
+La documentación correspondiente deberá estar apostillada o legalizada por el Cónsul Mexicano.
 
-En la promoción inicial deberá manifestar el nombre y edad del menor o incapacitado, y el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de las personas o institución de beneficencia que lo haya acogido.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 ###### Artículo 1327.
 
-Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 351 y 352 del Código Civil, el tribunal resolverá dentro del tercer día.
+Rendidas las constancias que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deben darlo, conforme al Código Civil, el Juez resolverá dentro de ocho días, lo que proceda sobre la adopción.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 ###### Artículo 1328.
 
-Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el artículo 361 del Código Civil.
-
-Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción y sin oír al representante del Ministerio Público.
-
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en los casos del artículo anterior, pueden rendirse toda clase de pruebas.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena y se reúnan los requisitos previstos en el Código Civil, el Juez los citará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público y el Consejo Técnico de Adopción, luego de la cual se resolverá lo conducente, en el término de ocho días.
 
 ###### Artículo 1329.
 
-La impugnación de la adopción y su revocación, en los casos de los artículos 349 y 359 del Código Civil, se promoverá en juicio sumario.
+(DEROGADO, P.O. 7 DE ABRIL DE 2003)
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -10760,3 +10752,15 @@ El presente decreto no será aplicable a los asuntos iniciados antes de su entra
 ###### ARTICULO TERCERO.
 
 Para los efectos procedentes de las reformas contenidas en este decreto, se entenderán por derogadas las disposiciones que se opongan al mismo.
+
+P.O. 7 DE ABRIL DE 2003.
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo.- En las adopciones realizadas con anterioridad a la entrada en vigor del presente decreto, seguirán aplicándose las disposiciones vigentes hasta antes de la publicación del presente decreto.
+
+Artículo Tercero.- Los procedimientos que sobre adopción se encuentren en trámite a la fecha de entrada en vigor del presente decreto, se resolverán de acuerdo con las disposiciones vigentes hasta antes de la publicación del presente decreto.
+
+Artículo Cuarto.- Las adopciones realizadas con anterioridad a la entrada en vigor del presente decreto, podrán convertirse en plenas, siguiendo el procedimiento establecido por este decreto.
+
+Artículo Quinto.- El Sistema para el Desarrollo Integral de la Familia Michoacana, expedirá el Reglamento Interno del Consejo Técnico de Adopción, en un término que no excederá de treinta días contados a partir de la entrada en vigor del presente decreto.
