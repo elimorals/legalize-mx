@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-31792"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1998-05-08"
+last_updated: "1998-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -2647,7 +2647,7 @@ XIII.- Las acciones relativas a servidumbres legales o que consten en títulos p
 
 XIV.- Las rectificaciones y modificaciones de actas del Registro Civil, a que se refiere el artículo 130 del Código Civil.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 14 DE NOVIEMBRE DE 1996)
+(EN SUSPENSO LA VIGENCIA, P.O. 3 DE JULIO DE 1998)
 
 XV. Las solicitudes de inscripción en el Registro Civil, de los actos que no hubieran sido inscritos dentro de los plazos que el propio código señala para cada uno de ellos
 
@@ -2665,7 +2665,7 @@ En los casos de la Fracción XIV del artículo anterior se oirá al Ministerio P
 
 Si el Director del Registro Civil no contestase la demanda, se tendrá por presuntivamente confesados los hechos en que se funda el pedimento de rectificación o de modificación y luego de recibidas las pruebas y oídos los alegatos de los interesados si los formulasen por escrito dentro de tres días se dictará la resolución correspondiente.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 14 DE NOVIEMBRE DE 1996)
+(EN SUSPENSO LA VIGENCIA, P.O. 3 DE JULIO DE 1998)
 
 ###### ARTICULO 433.
 
@@ -5423,7 +5423,7 @@ Presentada la cuenta mensual o general de albaceazgo, se mandará poner en la se
 
 ###### ARTÍCULO 879.
 
-Si todos los interesados aprobaren la cuenta, o no la impugnaren, el juez la aprobará. Si alguno o algunos de los interesados no estuvieren conformes, se tramitará el incidente respectivo; pero será indispensable, para que se le dé curso, precisar la objeción y que los que sostengan la misma pretección (sic) nombre representante común.
+Si todos los interesados aprobaren la cuenta, o no la impugnaren, el juez la aprobará. Si alguno o algunos de los interesados no estuvieren conformes, se tramitará el incidente respectivo; pero será indispensable, para que se le dé curso, precisar la objeción y que los que sostengan la misma pretección nombre representante común.
 
 El auto que pruebe o repruebe la cuenta es apelable en el efecto devolutivo.
 
@@ -6397,7 +6397,7 @@ Se derogan todas las disposiciones Legales y reglamentarias que se opongan a la 
 
 P.O. 20 DE MAYO DE 1993
 
-LEY QUE DEJA EN SUSPENSO LA VIGENCIA DE LOS ARTICULOS 431, FRACCION XIV Y 432 DEL CODIGO.
+LEY QUE DEJA EN SUSPENSO LA VIGENCIA DE LOS ARTICULOS 431, FRACCION XV Y 433 DEL CODIGO.
 
 ###### ARTICULO PRIMERO.
 
@@ -6540,3 +6540,13 @@ Las reformas previstas en la presente serán aplicables a los contratos de hipot
 ###### ARTICULO TERCERO.
 
 Para los casos de novación o reestructuración de contratos celebrados previamente a la vigencia de esta ley, se aplicarán las disposiciones que se encontraban vigentes en la fecha del contrato de hipoteca original.
+
+P.O. 3 DE JULIO DE 1998
+
+###### ARTICULO PRIMERO.
+
+Las personas mayores de siete años que por sí o a través de sus representantes al entrar en vigor esta Ley estén tramitando juicio de registro de nacimiento, podrán optar por concluir ese procedimiento judicial o acudir ante el Oficial del Registro Civil respectivo, en los términos de lo dispuesto en este ordenamiento jurídico.
+
+###### ARTICULO SEGUNDO.
+
+Las demás disposiciones que se opongan a la presente ley y pudieran impedir su aplicación respecto de quienes se acojan a ella en los lapsos a que se refiere su artículo primero, quedarán suspendidas en cuanto a su observancia en relación con ellos, durante esos lapsos.
