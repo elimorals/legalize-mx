@@ -4,7 +4,7 @@ identifier: "COL-ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas-2206
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-20"
-last_updated: "1983-08-20"
+last_updated: "1985-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22066&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 1985.
 
 Ley publicada en el Periódico Oficial "El Estado de Colima", el sábado 20 de agosto de 1983.
 
@@ -321,11 +321,11 @@ Sólo los establecimientos a que se refieren los Artículos anteriores estarán 
 
 El otorgamiento de las licencias o refrendos obliga a sus titulares al cumplimiento efectivo de las disposiciones legales de la materia.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1985)</small>
+
 ###### ARTICULO 37.
 
-Para el adecuado cumplimiento de la facultad que a los Presidentes Municipales concede el Artículo 7o. Fracción I, se auxiliarán de Inspectores que supervisarán los establecimientos a que se refiere esta Ley. En caso de detectar alguna irregularidad, asentarán los hechos en el Acta correspondiente y la turnarán a las Autoridades Municipales para efecto de su calificación. Los Tesoreros auxiliarán a los Presidentes en el ejercicio de esta atribución.
-
-En el medio rural, las Juntas Municipales y los Comisarios tendrán a su cargo la facultad de supervisión.
+Para el adecuado cumplimiento de la facultad que a los Presidentes Municipales concede el Artículo 6o. fracción I, se auxiliarán de Inspectores que supervisarán los establecimientos a que se refiere esta Ley. En caso de detectar alguna irregularidad, asentarán los hechos en el Acta correspondiente y los turnarán a las Autoridades Municipales para efecto de su calificación. Los Tesoreros Municipales o los Titulares de las Dependencias que determinen los Presidentes Municipales auxiliarán a éstos en el Ejercicio de esta atribución.
 
 ### CAPITULO V
 
@@ -380,3 +380,9 @@ La Gobernadora del Estado dispondrá se Publique, circule y observe.
 Dado en el Recinto del Poder Legislativo, a los dos días del mes de Agosto de mil novecientos ochenta y tres.- Diputado Presidente, EPIGMENIO PLASCENCIA RANGEL.- Rúbrica.- Diputada Secretaria, Q.F.B. MA. HAYDEE QUIÑONEZ SILVA.- Rúbrica.- Diputado Secretario, LIC. CUAUHTEMOC CHAVEZ R.- Rúbrica.
 
 Por tanto mando se imprima, publique, circule y observe Palacio de Gobierno, Colima, Colima, a 9 de agosto de 1983.- La Gobernadora Const. del Estado, LICDA. GRISELDA ALVAREZ.- Rúbrica.- El Secretario General de Gobierno, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE FEBRERO DE 1985.
+
+UNICO.- El presente Decreto surtirá sus efectos al día siguiente de su Publicación en el Periódico Oficial " EL ESTADO DE COLIMA".
