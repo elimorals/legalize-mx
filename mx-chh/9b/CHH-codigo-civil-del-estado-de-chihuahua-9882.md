@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2000-04-15"
+last_updated: "2000-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 2000.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -479,7 +479,9 @@ En el acta se insertará la parte relativa de dicho documento, observándose las
 
 83.- Asentada el acta de adopción simple, se anotará la de nacimiento del adoptado y se archivará la copia de la resolución judicial, poniendo el mismo número del acta de adopción.
 
-Tratándose de adopción plena, una vez asentada el acta, no se le dará publicidad ni expedirá copia alguna de la de nacimiento.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2000)</small>
+
+Tratándose de la adopción plena, una vez asentada el acta, no se le dará publicidad ni se expedirá copia alguna de la de nacimiento, debiéndose otorgar una nueva acta de nacimiento en los mismos términos que las expedidas para los hijos consanguíneos.
 
 El Registro Civil se abstendrá de proporcionar información con respecto al origen y demás antecedentes familiares del adoptado, salvo que mediare autorización judicial o bien, cuando el adoptado haya adquirido la mayoría de edad o se trate de una cuestión de orden público o impedimento para contraer matrimonio, sin que se requiera en ninguno de estos dos casos de la autorización judicial.
 
@@ -1765,18 +1767,6 @@ III.- Si incumple con su deber de proporcionar alimentos al adoptante.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
-C) ADOPCION PLENA
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
 D) ADOPCION INTERNACIONAL
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
@@ -1788,6 +1778,18 @@ D) ADOPCION INTERNACIONAL
 387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
 
 Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+C) ADOPCION PLENA
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
 
 ### CAPITULO I. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LA PERSONA DE LOS HIJOS
 
@@ -7341,7 +7343,7 @@ I.- Si así se hubiere convenido;
 
 > <small>(REFORMADA, P.O. 26 DE ENERO DE 2000)</small>
 
-II.- Si se hubiere constituido en mora con arreglo a los artículos 1987 y 1988.
+II.- Si se hubiere constituido en mora con arreglo a los artículos 1987 y 1988;
 
 III.- (DEROGADA, P.O. 26 DE ENERO DE 2000)
 
@@ -10030,5 +10032,9 @@ DECRETO No. 433-00 III P.E.
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
 
 P.O. 15 DE ABRIL DE 2000.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JULIO DE 2000.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
