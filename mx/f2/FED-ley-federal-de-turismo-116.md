@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-turismo-116"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-31"
-last_updated: "1992-12-31"
+last_updated: "1999-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-12-28"
 
 LEY FEDERAL DE TURISMO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MAYO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1992.
 
@@ -33,7 +33,7 @@ Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente
 
 D E C R E T O
 
-"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :
+"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
 
 LEY FEDERAL DE TURISMO
 
@@ -189,39 +189,105 @@ Los acuerdos mencionados en el presente artículo, deberán ser publicados en el
 
 ## TITULO CUARTO. DE LA PROMOCION Y FOMENTO AL TURISMO
 
-### CAPITULO I. PROGRAMAS DE PUBLICIDAD Y PROMOCION
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE MAYO DE 1999)</small>
 
-###### ARTICULO 19.
+### CAPITULO I
 
-La Secretaría difundirá los atractivos nacionales a través de los medios de comunicación y promoción y del material idóneo.
+DE LA PROMOCIÓN TURÍSTICA.
 
-###### ARTICULO 20.
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 1999)</small>
 
-La Secretaría podrá suscribir convenios que tengan por objeto la instrumentación de programas conjuntos de publicidad, con prestadores de servicios turísticos nacionales y extranjeros interesados en incrementar el flujo de turistas al país.
+###### ARTÍCULO 19.
 
-###### ARTICULO 21.
+Para efectos de esta ley, se entiende como promoción turística, la planeación y programación de la publicidad y difusión, por cualquier medio, de la información especializada, actividades, destinos, atractivos y servicios que el país ofrece en materia de turismo, dentro del marco de esta Ley, de la Ley de Planeación y de las disposiciones que al efecto determine el Ejecutivo Federal, así como las actividades de promoción derivadas de los convenios que se suscriban con los gobiernos de los Estados, de los municipios y del Distrito Federal, y con los particulares interesados en incrementar la afluencia turística a México.
 
-La Secretaría promoverá con los gobiernos estatales y municipales y con el del Distrito Federal, así como con prestadores de servicios turísticos de las distintas regiones del país, su participación directa en la instrumentación de campañas de publicidad que promuevan los atractivos turísticos de dichas regiones.
+La política de promoción turística atenderá en todo momento al desarrollo integral del país.
 
-###### ARTICULO 22.
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 1999)</small>
 
-La Secretaría, con la participación que corresponda a otras dependencias y entidades de la administración pública federal y a los gobiernos de las entidades federativas y de los municipios, fomentará todo tipo de actividades, eventos y espectáculos que promuevan los atractivos y servicios turísticos del país.
+###### ARTÍCULO 20.
 
-### CAPITULO II. COOPERACION TURISTICA INTERNACIONAL Y OFICINAS DE REPRESENTACION EN EL EXTRANJERO
+La Secretaría de Turismo, en el ejercicio de sus atribuciones en materia de promoción turística, nacional e internacional, será auxiliada por la empresa de participación estatal mayoritaria de la Administración Pública Federal denominada Consejo de Promoción Turística de México.
 
-###### ARTICULO 23.
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 1999)</small>
 
-La Secretaría, con la participación de los gobiernos federal, estatal y municipal, y de los sectores social y privado, elaborará el catálogo nacional turístico que contendrá una relación de los servicios y prestadores de servicios turísticos registrados ante la Secretaría, así como de los bienes y recursos naturales, organismos y facilidades que constituyan, o puedan constituir factores para el desarrollo turístico.
+###### ARTÍCULO 21.
 
-###### ARTICULO 24.
+El Consejo de Promoción Turística de México se integra por representantes de los sectores público y privado, teniendo por objeto el de planear, diseñar y coordinar, en coadyuvancia con la Secretaría de Turismo, las políticas y estrategias de promoción turística a nivel nacional e internacional.
 
-La Secretaría, con la participación de la Secretaría de Relaciones Exteriores y en los términos de la legislación aplicable, podrá celebrar acuerdos de cooperación turística con órganos gubernamentales extranjeros y organizaciones internacionales, a fin de proteger, mejorar, incrementar y promover los atractivos y servicios turísticos, así como alentar las corrientes turísticas del exterior a nuestro país.
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 1999)</small>
 
-###### ARTICULO 25.
+###### ARTÍCULO 22.
 
-Las representaciones de turismo en el extranjero serán los órganos que, en coordinación con las representaciones públicas o privadas del país en el extranjero, promoverán la imagen de México como destino turístico, distribuirán la información y publicidad turística, coordinarán la realización de las tareas de promoción en el exterior y ejercerán las demás funciones que les delegue el titular del ramo.
+El Consejo de Promoción Turística de México, en coordinación con la dependencia competente, podrá tener representantes en el exterior para el cumplimiento de su objeto.
 
-La ubicación, circunscripción y definición de funciones de las representaciones, serán establecidas por acuerdo del titular de la Secretaría y publicadas en el Diario Oficial de la Federación. Los representantes de turismo en el extranjero, mientras permanezcan en sus funciones, estarán asimilados al servicio exterior en los términos de la legislación de la materia.
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE MAYO DE 1999)</small>
+
+### CAPITULO II
+
+DEL CONSEJO DE PROMOCIÓN TURÍSTICA DE MÉXICO.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 19 DE MAYO DE 1999)</small>
+
+###### ARTÍCULO 23.
+
+El Consejo de Promoción Turística de México se compondrá de una Asamblea General, de una Junta de Gobierno, de un Contralor General, de un Comisario y de un Director General.
+
+La Asamblea General es el órgano supremo del Consejo y se compondrá de todas aquellas personas tanto físicas como morales, ya sea del sector público, social o privado que se obliguen recíprocamente a combinar sus recursos o sus esfuerzos para la realización de la promoción turística, ajustándose a los estatutos orgánicos que al efecto se expida.
+
+La Junta de Gobierno se integra por veintinueve miembros repartidos de la siguiente manera: quince designados por el gobierno federal, de los cuales uno de la Secretaría de Turismo, uno de la Secretaría de Hacienda y Crédito Público y uno del Fondo Nacional de Fomento al Turismo; ocho rotatorios por cada tres años de las entidades federativas; cuatro rotatorios por tres años de los municipios turísticos; los catorce restantes provendrán de los representantes de las organizaciones de prestadores de servicios turísticos o empresas turísticas. Dentro de los representantes del gobierno Federal estará incluido el Presidente del Consejo.
+
+Si fuera necesario, por acuerdo de la Asamblea, la Junta podrá ampliarse en todo momento, siempre y cuando guarde la proporcionalidad entre representantes de los sectores público y privado que se señala en el párrafo anterior.
+
+El Consejo y su Junta de Gobierno estarán presididos por el Secretario de Turismo o por quien éste designe y sus miembros participarán en él de manera honoraria, y tendrán como domicilio legal el Distrito Federal.
+
+El funcionamiento de la Junta de Gobierno, las atribuciones específicas del Director General, de la Contraloría General del Consejo, del Comisario y los procedimientos para designar a los representantes que la integran se detallarán en el Estatuto Orgánico que al efecto apruebe la Asamblea General, con base en la presente Ley, en la Ley Federal de Entidades Paraestatales y en sus Reglamentos.
+
+Para el desempeño de sus funciones el Órgano de Gobierno del Consejo de Promoción Turística de México creará los comités técnicos especializados que se determinen, a fin de asesorar al Consejo sobre las áreas o sectores a promocionar.
+
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 1999)</small>
+
+###### ARTÍCULO 24.
+
+El Consejo de Promoción Turística de México tendrá un patrimonio que se integrará con:
+
+I. Las aportaciones que realice el Gobierno Federal;
+
+Dichas aportaciones serán propuestas por la Federación, por conducto de la Secretaría de Hacienda y Crédito Público con base en las necesidades y razones que sean planteadas por la Secretaría de Turismo con el concurso del Consejo de Promoción Turística de México;
+
+II. Las aportaciones que, en su caso, realicen los gobiernos estatales, municipales y del Distrito Federal, así como las entidades paraestatales;
+
+III. Las aportaciones que efectúen los particulares;
+
+IV. Los recursos que el propio Consejo de Promoción Turística de México genere, y
+
+V. Los demás recursos que obtenga por cualquier otro título legal.
+
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 1999)</small>
+
+###### ARTÍCULO 25.
+
+El Consejo de Promoción Turística de México tendrá los siguientes objetivos:
+
+I. Coadyuvar en el diseño de los planes, programas, estrategias y prioridades en materia de promoción turística en el marco de la Ley de Planeación, del Plan Nacional de Desarrollo y del Programa del Sector;
+
+II. Realizar trabajos y estudios relativos al cumplimiento de sus objetivos;
+
+III. Proporcionar, por cualquier medio, información turística especializada a los turistas nacionales y extranjeros que pretendan visitar los destinos y atractivos del país;
+
+IV. Proporcionar bienes o servicios inherentes a su objeto;
+
+V. Obtener recursos complementarios, económicos, técnicos y materiales, en territorio nacional o en el exterior, para el desarrollo de su objeto;
+
+VI. Suscribir convenios con los gobiernos de los Estados, de los municipios y del Distrito Federal y con organismos mixtos, estatales y municipales, en el ámbito de sus respectivas competencias, para instrumentar campañas de promoción turística;
+
+VII. Suscribir convenios con los prestadores de servicios turísticos nacionales y extranjeros y con los particulares interesados en incrementar la afluencia turística a México, con el fin de instrumentar campañas de promoción turística;
+
+VIII. Fomentar, con la participación de los sectores público y privado todo tipo de actividades que promuevan los atractivos y servicios turísticos del país;
+
+IX. Celebrar, con la participación que le corresponda a la Secretaría de Relaciones Exteriores, acuerdos de cooperación turística con órganos gubernamentales y organizaciones internacionales con el fin de promover los atractivos y los servicios turísticos que ofrece el país, y
+
+X. Todas aquellas que sean necesarias para la realización de su objeto.
 
 ### CAPITULO III. FONDO NACIONAL DE FOMENTO AL TURISMO
 
@@ -241,9 +307,11 @@ III. Los productos de sus operaciones y de la inversión de fondos; y
 
 IV. Los demás recursos que obtenga por cualquier otro concepto.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 28.
 
-El fondo tendrá las siguientes funciones:
+El Fondo Nacional de Fomento al Turismo tendrá las siguientes funciones:
 
 I. Elaborar estudios y proyectos que permitan identificar las áreas territoriales y de servicios susceptibles de ser explotadas en proyectos turísticos;
 
@@ -257,7 +325,9 @@ V. Adquirir, fraccionar, vender, arrendar, administrar y, en general, realizar c
 
 VI. Participar con los sectores público, social y privado en la constitución, fomento, desarrollo y operación de fideicomisos o empresas dedicadas a la actividad turística, cualquiera que sea su naturaleza jurídica;
 
-VII. Realizar la promoción y publicidad de sus actividades y las del turismo en general;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 1999)</small>
+
+VII. Realizar la promoción y publicidad de sus actividades;
 
 VIII. Adquirir valores emitidos para el fomento al turismo, por instituciones del sistema financiero o por empresas dedicadas a la actividad turística;
 
@@ -350,6 +420,10 @@ III. Cumplir con los servicios, precios, tarifas y promociones, en los términos
 IV. Contar con los formatos foliados y de porte pagado para el sistema de quejas de turistas en los términos de la norma oficial mexicana respectiva.
 
 ### CAPITULO II. DEL REGISTRO NACIONAL DE TURISMO
+
+> <small>(ADICIONADO, D.O.F. 19 DE MAYO DE 1999)</small>
+
+ARTICULO 36 BIS.- La Secretaría, con la participación del Consejo de Promoción Turística de México, de las demás dependencias del gobierno federal, de los gobiernos estatal y municipal y del Distrito Federal, así como de los sectores social y privado, elaborará el Catálogo Nacional Turístico que contendrá una relación de los servicios y de los prestadores de servicios turísticos registrados ante la Secretaría, así como de los bienes y recursos naturales, organismos y facilidades que constituyan, o puedan constituir factores para el desarrollo turístico.
 
 ###### ARTICULO 36.
 
@@ -516,3 +590,21 @@ CUARTO.- En tanto los organismos nacionales de normalización expiden las normas
 México, D.F., a 18 de diciembre de 1992.- Sen. Carlos Sales Gutiérrez, Presidente.- Dip. Salvador Abascal Carranza, Presidente.- Sen. Ramón Serrano Ahumada, Secretario.- Dip. Luis Pérez Díaz, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de diciembre de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 19 DE MAYO DE 1999.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las secretarías de Hacienda y Crédito Público y de Turismo realizarán, en el ámbito de sus respectivas competencias, las gestiones para constituir el Consejo de Promoción Turística de México, dentro de los 150 días siguientes a la entrada en vigor del presente Decreto.
+
+Para tal efecto, al integrarse el Consejo se deberá tomar en cuenta la disposición contenida en el último párrafo del inciso 1 del punto II (Proyecto de Gasto Programable del Ejecutivo Federal) del Dictamen del Presupuesto de Egresos de la Federación para 1999, de acuerdo con la cual un porcentaje de los ingresos adicionales que se generen por derechos migratorios se pueden otorgar para promoción turística.
+
+TERCERO.- Será facultad de la Secretaría de Turismo definir la integración de la primera Junta de Gobierno, en los términos del artículo 23 de esta Ley.
+
+CUARTO.- Dentro de los 90 días contados a partir de la constitución del Consejo de Promoción Turística de México, la Asamblea aprobará su Estatuto Orgánico.
+
+QUINTO.- Se derogan todas aquellas disposiciones que se opongan o transgredan al presente decreto.
+
+SEXTO.- Una vez constituido, el Consejo de Promoción Turística de México se hará cargo de la administración de los recursos destinados al desempeño de sus objetivos.
