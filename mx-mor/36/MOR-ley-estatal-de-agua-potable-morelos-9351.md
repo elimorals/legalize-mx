@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-agua-potable-morelos-9351"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-26"
-last_updated: "1999-12-29"
+last_updated: "2001-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE AGUA POTABLE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de julio de 1995.
 
@@ -87,7 +87,9 @@ II.- La prestación de los servicios públicos de conservación, Agua Potable y 
 
 III.- La estructura y funcionamiento de los organismos operadores del Sistema de Conservación, Agua Potable y Saneamiento de Agua;
 
-IV.- Las facultades de la Secretaría de Desarrollo Ambiental y de los Ayuntamientos en materia de conservación, agua potable y saneamiento de agua;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
+
+IV.- Las facultades de la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente y de los Ayuntamientos en materia de conservación, agua potable y saneamiento de agua;
 
 V.- La recuperación de los gastos y costos de inversión, operación, conservación, y mantenimiento del Sistema de Conservación, Agua Potable y Saneamiento de Agua. Ingresos que quedan afectados exclusivamente a estos propósitos;
 
@@ -107,7 +109,9 @@ II.- Organismos operadores municipales;
 
 III.- Organismos operadores intermunicipales;
 
-IV.- El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Ambiental o de cualquier otra dependencia que desarrolle las funciones que ésta realiza, de acuerdo con la presente Ley y la de Administración Pública, en los casos y con las condiciones que los propios ordenamientos establecen;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
+
+IV.- El Ejecutivo del Estado, a través de la dependencia u organismo encargado del ramo de agua potable y medio ambiente o de cualquier otra dependencia que desarrolle las funciones que ésta realiza, de acuerdo con la presente Ley y la de Administración Pública, en los casos y con las condiciones que los propios ordenamientos establecen;
 
 > <small>(F. DE E., P.O. 2 DE AGOSTO DE 1995)</small>
 
@@ -285,9 +289,11 @@ Para lo anterior los Ayuntamientos podrán solicitar el apoyo u opinión de la S
 
 Con el objeto de reducir la contaminación y atender la degradación de la calidad original de las aguas dentro del Sistema de Conservación, Agua Potable y Saneamiento de Agua, las autoridades estatales y municipales, así como los organismos a que se refieran la presente Ley, en el ámbito de su competencia, promoverán el establecimiento de sistemas de agua potable y, en su caso, de tratamiento de aguas residuales y manejo de lodos, así como el fomento de sistemas alternos que sustituyan al alcantarillado sanitario, cuando éste no pueda construirse o no resulte rentable, y la realización de las acciones necesarias para conseguir y mantener un adecuado nivel de calidad de aguas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 9.
 
-Para los efectos del artículo anterior, los Ayuntamientos, los organismos operadores y la Secretaría de Desarrollo Ambiental, en los términos de la presente Ley, en coordinación con las autoridades federales competentes y atento a lo dispuesto por la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos, tendrán facultades para:
+Para los efectos del artículo anterior, los Ayuntamientos, los organismos operadores y la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, en los términos de la presente Ley, en coordinación con las autoridades federales competentes y atento a lo dispuesto por la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos, tendrán facultades para:
 
 I.- Otorgar el permiso para efectuar las descargas de aguas residuales en los sistemas de drenaje o alcantarillado respectivo, a las personas físicas o morales que por el uso o aprovechamiento de agua en actividades productivas produzcan su contaminación, en los casos, en los términos y condiciones que se señalen en esta Ley;
 
@@ -343,7 +349,9 @@ III.- Comités comunitarios creados para propósitos específicos y diversos a l
 
 Los servicios públicos de conservación de agua, agua potable y alcantarillado y la construcción y operación de la infraestructura hidráulica correspondiente, se prestarán y se realizarán por los Ayuntamientos, sea por sí mismos o a través de los organismos operadores municipales o intermunicipales correspondientes; excepto en los siguientes casos:
 
-I.- Cuando por circunstancias particulares, los Ayuntamientos determinen que carecen de los recursos materiales, técnicos y humanos para la prestación directa de los servicios a que se refiere este artículo o para el establecimiento de una administración paramunicipal, en este caso, podrán convenir que se presten en los términos de la presente Ley, por el Ejecutivo del Estado, a través de la Secretaría de Desarrollo Ambiental del Estado de Morelos, o bien, concesionarse a terceros, total o parcialmente, en los términos del artículo 43 de este mismo ordenamiento;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
+
+I.- Cuando por circunstancias particulares, los Ayuntamientos determinen que carecen de los recursos materiales, técnicos y humanos para la prestación directa de los servicios a que se refiere este artículo o para el establecimiento de una administración paramunicipal, en este caso, podrán convenir que se presten en los términos de la presente Ley, por el Ejecutivo del Estado, a través de la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, o bien, concesionarse a terceros, total o parcialmente, en los términos del artículo 43 de este mismo ordenamiento;
 
 > <small>(F. DE E., P.O. 2 DE AGOSTO DE 1995)</small>
 
@@ -367,7 +375,9 @@ Las relaciones laborales de los organismo operadores se regularán por la Ley de
 
 Los organismos operadores municipales tendrán personalidad jurídica, a partir de la publicación en el Periódico Oficial del Estado de Morelos, del acuerdo expedido por el respectivo Ayuntamiento en el que se dé a conocer su creación.
 
-En el Acuerdo a que se refiere el párrafo anterior, se deberá señalar el convenio celebrado previamente por el Ayuntamiento con la Secretaría de Desarrollo Ambiental del Estado de Morelos, en el entendido de que se incorporará al Sistema de Conservación, Agua Potable y Saneamiento de Agua del Estado y que el servicio se puede prestar en forma descentralizada atendiendo a las condiciones territoriales, socioeconómicas, capacidad administrativa, técnica y financiera existente en el caso concreto.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
+En el Acuerdo a que se refiere el párrafo anterior, se deberá señalar el convenio celebrado previamente por el Ayuntamiento con la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, en el entendido de que se incorporará al Sistema de Conservación, Agua Potable y Saneamiento de Agua del Estado y que el servicio se puede prestar en forma descentralizada atendiendo a las condiciones territoriales, socioeconómicas, capacidad administrativa, técnica y financiera existente en el caso concreto.
 
 ###### ARTICULO 15.
 
@@ -425,9 +435,13 @@ La Junta de Gobierno se integra con:
 
 I.- El Presidente Municipal, quien lo presidirá;
 
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
+
 II.- El Síndico, el Regidor a cuyo cargo competa la conservación, agua potable y saneamiento de agua y el Regidor de Hacienda;
 
-III.- Un Representante de la Contaduría Mayor del Congreso del Estado;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
+
+III.- Un Representante de la Contaduría Mayor de Hacienda del Congreso del Estado;
 
 IV.- El Presidente del Consejo Consultivo del organismo, nombrado en los términos de este ordenamiento;
 
@@ -467,7 +481,9 @@ XI.- Recomendar la extensión de los servicios a otros municipios a fin de que s
 
 XII.- Aprobar y expedir, si lo considera conveniente, el reglamento interior del organismo y sus modificaciones, así como los Manuales de Organización, de Procedimientos y de Servicios Públicos;
 
-XIII.- Cumplir con las disposiciones que en el ámbito estatal y sobre la materia que regula este ordenamiento, emanen del Poder Ejecutivo del Estado por conducto de la Secretaría de Desarrollo Ambiental, en el ejercicio de sus atribuciones;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
+
+XIII.- Cumplir con las disposiciones que en el ámbito estatal y sobre la materia que regula este ordenamiento, emanen del Poder Ejecutivo del Estado por conducto de la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, en el ejercicio de sus atribuciones;
 
 XIV.- Las demás que le asignen la presente Ley y otras disposiciones.
 
@@ -565,7 +581,9 @@ XVI.- Someter, en su caso, a la aprobación de la Junta de Gobierno el reglament
 
 XVII.- Aplicar las sanciones que establece esta Ley, por las infracciones que se cometan y que sean competencia del organismo operador;
 
-XVIII.- Realizar las acciones necesarias para que el organismo se ajuste al Sistema de Conservación, Agua Potable y Saneamiento del Estado, de acuerdo con la presente Ley y a la coordinación y normatividad que efectúe la Secretaría de Desarrollo Ambiental del Estado de Morelos, en los términos del sistema; y
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
+
+XVIII.- Realizar las acciones necesarias para que el organismo se ajuste al Sistema de Conservación, Agua Potable y Saneamiento del Estado, de acuerdo con la presente Ley y a la coordinación y normatividad que efectúe la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, en los términos del sistema; y
 
 XIX.- Las demás que le señale la Junta de Gobierno, esta Ley y el reglamento interior, en el caso de que éste se expida.
 
@@ -617,13 +635,17 @@ II.- Que su objeto sea el expresado en el artículo anterior;
 
 III.- Que la organización y operación del organismo público que se constituya, se sujete a lo establecido en la presente Ley; y
 
-IV.- Que se haya celebrado el Convenio con el Ejecutivo del Estado, a través de la Secretaría de Desarrollo Ambiental del Estado, para la incorporación del organismo operador intermunicipal al Sistema de Agua Potable y Saneamiento del Estado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+
+IV.- Que se haya celebrado el Convenio con el Ejecutivo del Estado, a través de la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, para la incorporación del organismo operador intermunicipal al Sistema de Agua Potable y Saneamiento del Estado.
 
 En los convenios señalados podrán participar dos o más municipios y en su celebración, en virtud de que el servicio de agua potable y saneamiento se presta por los municipios en concurso con el Estado, deberá participar el Ejecutivo Estatal, en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 30.
 
-Los convenios mencionados en este Capítulo, serán de vigencia indefinida y sólo podrán darse por terminados por causas extraordinarias o imprevisibles, así como por casos fortuitos o de fuerza mayor y previa la celebración del convenio respectivo con el Ejecutivo del Estado a través de la Secretaría de Desarrollo Ambiental del Estado de Morelos, una vez que el Ayuntamiento así lo determine en la sesión de Cabildo respectiva.
+Los convenios mencionados en este Capítulo, serán de vigencia indefinida y sólo podrán darse por terminados por causas extraordinarias o imprevisibles, así como por casos fortuitos o de fuerza mayor y previa la celebración del convenio respectivo con el Ejecutivo del Estado a través de la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, una vez que el Ayuntamiento así lo determine en la sesión de Cabildo respectiva.
 
 ###### ARTICULO 31.
 
@@ -649,9 +671,11 @@ La Junta de Gobierno ampliará la composición del Consejo Consultivo con el obj
 
 ### CAPITULO CUARTO. DE LAS FACULTADES DE LA SECRETARIA DE DESARROLLO AMBIENTAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 34.
 
-Corresponde a la Secretaría de Desarrollo Ambiental, previo acuerdo del Ejecutivo del Estado:
+Corresponde a la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente:
 
 I.- Proponer e instrumentar la política de conservación, agua potable y saneamiento de agua del Gobierno del Estado así como su óptimo aprovechamiento; planear, coordinar, ejecutar y evaluar las acciones necesarias en dicho ámbito;
 
@@ -701,9 +725,11 @@ XXIII.- En el ejercicio de las atribuciones que en el ámbito estatal y sobre la
 
 XXIV.- Las demás que señalen esta Ley, otras leyes y las que le delegue el Ejecutivo del Estado por mandato expreso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 35.
 
-La Secretaría de Desarrollo Ambiental actuará, a través de las direcciones generales respectivas, con las atribuciones que la presente Ley señala cuando preste por sí o por conducto de terceros los servicios públicos de agua potable y saneamiento en alguno de los municipios de su Entidad, a falta de organismo operador municipal o intermunicipal; o cuando así se convenga con los Ayuntamientos respectivos, en cuyo caso quedará facultada para:
+La dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente actuará, a través de las direcciones generales respectivas, con las atribuciones que la presente Ley señala cuando preste por sí o por conducto de terceros los servicios públicos de agua potable y saneamiento en alguno de los municipios de la Entidad, a falta de organismo operador municipal o intermunicipal; o cuando así se convenga con los Ayuntamientos respectivos, en cuyo caso quedará facultada para:
 
 I.- Aplicar tarifas y cuotas por los servicios que opere directamente, y recibir y administrar los ingresos respectivos en nombre y por cuenta de los municipios de acuerdo con los convenios a que se refiere el artículo 12;
 
@@ -719,11 +745,15 @@ En estos casos, tomará las medidas administrativas y contables a fin de que tod
 
 Las aportaciones federales, estatales y municipales que en su caso se realicen, así como las aportaciones que los organismos operadores municipales o intermunicipales lleven a cabo, se manejarán por medio de fondos especiales.
 
-Los bienes inmuebles de la Secretaria destinados directamente a la prestación de los servicios se considerarán bienes del dominio público del Estado.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
+Los bienes inmuebles de la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente destinados directamente a la prestación de los servicios se considerarán bienes del dominio público del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 37.
 
-La Secretaría de Desarrollo Ambiental manejará a través de fondos especiales los créditos que el Gobierno del Estado obtenga para agua potable y saneamiento, y se ejercerán de acuerdo con lo previsto en la presente Ley.
+La dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente manejará a través de fondos especiales los créditos que el Gobierno del Estado obtenga para agua potable y saneamiento, y se ejercerán de acuerdo con lo previsto en la presente Ley.
 
 En los casos de créditos concedidos a los municipios, vigilará que su aplicación se realice conforme a los criterios técnicos que previamente fije.
 
@@ -733,7 +763,9 @@ Se crea un organismo dependiente del Ejecutivo Estatal denominado Consejo Estata
 
 I.- El Gobernador del Estado, quien lo presidirá;
 
-II.- Los titulares de las Secretarías de Hacienda, Desarrollo Económico, Desarrollo Urbano y Obras Públicas, Bienestar Social, Desarrollo Ambiental y Desarrollo Agropecuario;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
+
+II.- Los titulares de las Secretarías de los ramos de Hacienda, Desarrollo Económico, Desarrollo Urbano y Obras Públicas, Salud y Desarrollo Agropecuario, así como del titular de la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente;
 
 III.- Dos representantes de los organismos operadores municipales o intermunicipales, que deberán ser los presidentes de sus respectivas juntas de gobierno;
 
@@ -751,13 +783,17 @@ Por cada representante propietario se designará al respectivo suplente.
 
 Se podrán invitar a formar parte del consejo a representantes de las dependencias federales, estatales o municipales, cuando se trate de un asunto de su competencia, así como a representantes de los usuarios que formen parte del consejo consultivo.
 
-Fungirá como Secretario del Consejo el Secretario de Desarrollo Ambiental del Estado.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
+Fungirá como Secretario del Consejo el Titular de la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente.
 
 ###### ARTICULO 39.
 
 El Consejo tendrá amplias facultades de planeación, coordinación, promoción y consultas del Ejecutivo del Estado.
 
-Las decisiones que tome el Consejo las ejecutará Secretaría de Desarrollo Ambiental, sin perjuicio de las que corresponda aplicar a las demás dependencias representadas.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
+Las decisiones que tome el Consejo las ejecutará la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, sin perjuicio de las que corresponda aplicar a las demás dependencias representadas.
 
 ###### ARTICULO 40.
 
@@ -783,15 +819,19 @@ IV.- El servicio de conducción, agua potable, suministro, distribución, o tran
 
 V.- Las demás actividades, complementarias de las anteriores que se convengan con los Ayuntamientos, organismos operadores, o la Secretaría de Desarrollo Ambiental del Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 42.
 
-Las actividades a las que se refiere la fracción I del artículo anterior podrán realizarse por contrato con los particulares; en tal caso, dichos contratos se sujetarán a las disposiciones de la Ley de Obras Públicas del Estado de Morelos.
+Las actividades a las que se refiere la fracción I del artículo anterior podrán realizarse por contrato con los particulares; en tal caso, dichos contratos se sujetarán a las disposiciones de la Ley de Obra Pública y Servicios Relacionados con la misma del Estado de Morelos.
 
 ###### ARTICULO 43.
 
 Los Ayuntamientos de los municipios del Estado podrán otorgar:
 
-I.- La concesión total o parcial para la realización de las obras, la administración y operación de los servicios públicos a que se refieren las fracciones I a V del artículo anterior.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
+
+I.- La concesión total o parcial para la realización de las obras, la administración y operación de los servicios públicos a que se refieren las fracciones I a V del artículo 41 de esta Ley.
 
 > <small>(F. DE E., P.O. 2 DE AGOSTO DE 1995)</small>
 
@@ -799,21 +839,27 @@ En ningún caso la concesión para la prestación del servicio público de agua 
 
 II.- La concesión total o parcial de los bienes del dominio público que ya existan y que constituyan la infraestructura hidráulica, necesaria para prestar los servicios así como la prestación de los mismos.
 
-Dichas concesiones podrán ser otorgadas a través del Ayuntamiento, o bien y en su caso, por conducto del organismo operador municipal o de los organismos operadores intermunicipales, previo acuerdo del Cabildo o Cabildos respectivos.
+Dichas concesiones podrán ser otorgadas a través del Ayuntamiento, o bien y en su caso, por conducto del organismo operador municipal o de los organismo operadores intermunicipales, previo acuerdo del Cabildo o Cabildos respectivos.
 
-Las concesiones se otorgarán y revocarán conforme a la presente Ley y de acuerdo con los lineamientos técnicos y políticas que fije el Ejecutivo Estatal por conducto de la Secretaría de Desarrollo Ambiental.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
+Las concesiones se otorgarán y revocarán conforme a la presente Ley y de acuerdo con los lineamientos técnicos y políticas que fije el Ejecutivo Estatal por conducto de la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente.
 
 > <small>(F. DE E., P.O. 2 DE AGOSTO DE 1995)</small>
 
 Dichas concesiones podrán ser otorgadas a través del ayuntamiento, o bien y en su caso, por conducto del organismo operador municipal o de los organismos operadores intermunicipales previo acuerdo con los cabildos respectivos.
 
-En los convenios que se celebren conforme al artículo 12, podrá autorizarse al Ejecutivo del Estado por conducto de la Secretaría de Desarrollo Ambiental a otorgar, por cuenta del Ayuntamiento dichas concesiones.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
+En los convenios que se celebren conforme al artículo 12, podrá autorizarse al Ejecutivo del Estado por conducto de la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente a otorgar, por cuenta del Ayuntamiento dichas concesiones.
 
 > <small>(F. DE E., P.O. 2 DE AGOSTO DE 1995)</small>
 
 Los servicios no perderán su carácter de públicos en virtud de ser concesionada su Prestación a grupos organizados de usuarios del sector social y en general a los particulares.
 
-El Ayuntamiento, por sí mismo o en su caso, por conducto del organismo operador, ejercerá las facultades de normatividad, asistencia técnica, control, inspección, supervisión y evaluación de los servicios, obras y bienes concesionados, así como ejercer las atribuciones que le corresponden en los términos de la presente Ley. En los casos previstos por el artículo 12 de este ordenamiento, dichas facultades las ejercerá el Ejecutivo del Estado por conducto de la Secretaría de Desarrollo Ambiental.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
+El Ayuntamiento, por sí mismo o en su caso, por conducto del organismo operador, ejercerá las facultades de normatividad, asistencia técnica, control, inspección, supervisión y evaluación de los servicios, obras y bienes concesionados, así como ejercer las atribuciones que le corresponden en los términos de la presente Ley. En los casos previstos por el artículo 12 de este ordenamiento, dichas facultades las ejercerá el Ejecutivo del Estado por conducto de la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
@@ -825,7 +871,9 @@ El concesionario podrá solicitar al municipio, al organismo operador o a la Sec
 
 Las concesiones se otorgarán teniendo en cuenta la obligación de prestar un servicio público con equidad, eficacia y eficiencia, buscando el equilibrio financiero del concesionario a través de la recuperación de las inversiones hechas; y en el caso de la inversión proveniente de la iniciativa privada como concesionaria, la obtención de una utilidad razonable.
 
-Cada concesión se fundará en estudios económicos que realice el Ayuntamiento, los organismos operadores en concurso con la Secretaría de Desarrollo Ambiental, o la propia Secretaría en su caso.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
+Cada concesión se fundará en estudios económicos que realice el Ayuntamiento, los organismos operadores en concurso con la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, o la propia dependencia u organismo en su caso.
 
 > <small>(F. DE E., P.O. 2 DE AGOSTO DE 1995)</small>
 
@@ -1121,7 +1169,9 @@ Siempre que la autoridad concedente declare la nulidad, la revocación o la cadu
 
 En los casos de la fracción I, del artículo 43, el concedente y el concesionario podrán acordar los términos de compensación que procedan a estos casos si llegaran a presentarse; los acuerdos respectivos formarán parte del título de concesión.
 
-En los casos de la fracción segunda del artículo 43, no procederá pago ni indemnización alguna.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
+En los casos de la fracción II del artículo 43, no procederá pago ni indemnización alguna.
 
 > <small>(F. DE E., P.O. 2 DE AGOSTO DE 1995)</small>
 
@@ -1199,6 +1249,8 @@ VII.- Causas de revocación y terminación adicionales;
 
 VIII.- Todas las obligaciones y derechos, prestaciones y contraprestaciones que se establezcan, dentro de los términos señalados en esta ley, entre autoridad concedente y particular o grupo social concesionario.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
 Los títulos en que consten los actos de la concesión, se publicarán en el Periódico Oficial del Estado antes de la fecha prevista en los mismos para surtir sus efectos.
 
 ###### ARTICULO 66.
@@ -1239,9 +1291,13 @@ III.- De treinta días previos a la fecha de apertura del giro comercial o estab
 
 IV.- Dentro de los quince días anteriores al inicio de una construcción si existen los servicios.
 
-Dentro de los plazos anteriores, los propietarios o poseedores de predios, giros o establecimientos, obligados a hacer uso de los servicios de agua potable y saneamiento, incluyendo alcantarillado, sanitario o pluvial, o sus legítimos representantes, deberán acudir a las oficinas del Municipio, del organismo operador del sistema, o en su caso, a la Secretaría de Desarrollo Ambiental a solicitar la instalación de los servicios.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
-Cuando no se cumpla con la obligación que establece el presente artículo, independientemente que se impongan las sanciones que procedan, el Municipio, el organismo operador o la Secretaría podrán instalar la toma de agua y la conexión de descarga de alcantarillado respectiva y su costo será a cargo del propietario o poseedor del predio del que se trata.
+Dentro de los plazos anteriores, los propietarios o poseedores de predios, giros o establecimientos, obligados a hacer uso de los servicios de agua potable y saneamiento, incluyendo alcantarillado, sanitario o pluvial, o sus legítimos representantes, deberán acudir a las oficinas del Municipio, del organismo operador del sistema, o en su caso, a la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente a solicitar la instalación de los servicios.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
+Cuando no se cumpla con la obligación que establece el presente artículo, independientemente que se impongan las sanciones que procedan, el Municipio, el organismo operador o la dependencia u organismo podrán instalar la toma de agua y la conexión de descarga de alcantarillado respectiva y su costo será a cargo del propietario o poseedor del predio del que se trata.
 
 Podrán operar sistemas de abastecimiento de agua potable, desalojo y tratamiento de aguas residuales, en forma independiente, los desarrollos industriales, turísticos, campestres y de otras actividades productivas, siempre y cuando cuenten con la autorización del Gobierno del Estado y se sujeten en la operación a las normas establecidas en esta Ley.
 
@@ -1249,15 +1305,21 @@ Podrán operar sistemas de abastecimiento de agua potable, desalojo y tratamient
 
 Al establecerse los servicios de agua potable, distribución de agua potable y saneamiento, incluyendo el alcantarillado en los lugares que carecen de ellos, se notificará a los interesados por medio de publicaciones en el Periódico Oficial del Estado y en un diario de mayor circulación de la localidad, para el efecto que cumplan con las disposiciones de esta Ley; pudiendo en su caso, utilizarse cualesquiera otras formas de notificación a fin de que los interesados tengan conocimiento de la existencia de los servicios.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 70.
 
-A cada predio, giro o establecimiento corresponderá una toma de agua independiente y dos descargas, una de aguas negras y otra pluvial, cuando estos sistemas deban estar separados y una descarga cuando sean combinadas; el Municipio, el organismo operador o en su caso, la Secretaría de Desarrollo Ambiental, fijarán las disposiciones a las que se sujetará el diámetro de las mismas.
+A cada predio, giro o establecimiento corresponderá una toma de agua independiente y dos descargas, una de aguas negras y otra pluvial, cuando estos sistemas deban estar separados y una descarga cuando sean combinadas; el Municipio, el organismo operador o en su caso, la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, fijarán las disposiciones a las que se sujetará el diámetro de las mismas.
+
+> <small>(REFORMADO PRIMERO PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 71.
 
-Los interesados en contratar los servicios de agua potable y saneamiento incluyendo el alcantarillado deberán presentar sus solicitudes cumpliendo con los requisitos señalados por el Municipio, el organismo operador o la Secretaría de Desarrollo Ambiental, en su caso, en los términos que se indican en esta Ley.
+Los interesados en contratar los servicios de agua potable y saneamiento incluyendo el alcantarillado deberán presentar sus solicitudes cumpliendo con los requisitos señalados por el Municipio, el organismo operador o la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, en su caso, en los términos que se indican en esta Ley.
 
-Deberán demostrar, asimismo, que cumplen con las condiciones particulares de descarga que fije la Secretaría de Desarrollo Ambiental o, de no hacerlo, con el pretratamiento que dicha dependencia determine.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
+Deberán demostrar, asimismo, que cumplen con las condiciones particulares de descarga que fije la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente o, de no hacerlo, con el pretratamiento que dicha dependencia determine.
 
 Cuando la solicitud de los servicios de agua potable y saneamiento, incluyendo el alcantarillado no cumplan con los requisitos necesarios, se prevendrá a los interesados para que los satisfagan dentro del término de cinco días hábiles contados a partir de la fecha en que reciban la comunicación.
 
@@ -1275,9 +1337,11 @@ III.- Estimar el presupuesto que comprenderá el importe del material necesario 
 
 Las conexiones e instalaciones de tomas solicitadas se autorizarán en base al resultado de la inspección practicada de acuerdo a esta Ley, en un término de seis días computables a partir al de la recepción del informe.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 73.
 
-Firmado el contrato correspondiente y pagado el importe del costo de la instalación y conexión, y de las cuotas que correspondan, el Municipio, el organismo operador o, en su caso, Secretaría de Desarrollo Ambiental ordenarán la instalación de la toma y la conexión de las descargas de aguas negras y/o pluviales, lo cual deberá llevarse a cabo dentro de los treinta días siguientes a la fecha de pago en la oficina recaudadora.
+Firmado el contrato correspondiente y pagado el importe del costo de la instalación y conexión, y de las cuotas que correspondan, el Municipio, el organismo operador o, en su caso, la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente ordenarán la instalación de la toma y la conexión de las descargas de aguas negras y/o pluviales, lo cual deberá llevarse a cabo dentro de los treinta días siguientes a la fecha de pago en la oficina recaudadora.
 
 Cuando se trate de tomas solicitadas por giros o establecimientos ubicados en forma temporal, los solicitantes deberán otorgar, como requisito previo para la instalación, la garantía que fije el organismo operador, o de quien haga sus veces.
 
@@ -1285,17 +1349,19 @@ Cuando se trate de tomas solicitadas por giros o establecimientos ubicados en fo
 
 Es obligatoria la instalación de aparatos medidores para la verificación del consumo de agua del servicio público en predios, giros o establecimientos. Al efecto, las tomas deberán instalarse a las puertas de entrada, de los predios, giros o establecimientos y los medidores en lugares accesibles, junto a dichas puertas, en forma tal que sin dificultad se puedan llevar a cabo las lecturas del consumo, las pruebas de funcionamiento de los aparatos y, cuando sea necesario, el cambio de los mismos.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 75.
 
-Instalada la toma y hechas las conexiones respectivas, el Municipio, el organismo operador en su caso la Secretaría de Desarrollo Ambiental, comunicarán al propietario o poseedor del predio, giro o establecimiento de que se trate, la fecha de la conexión y la apertura de su cuenta para efectos del cobro.
+Instalada la toma y hechas las conexiones respectivas, el Municipio, el organismo operador en su caso la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, comunicarán al propietario o poseedor del predio, giro o establecimiento de que se trate, la fecha de la conexión y la apertura de su cuenta para efectos del cobro.
 
-En los casos en que, con motivo de la instalación de la toma o las descargas, se destruya el pavimento, la guarnición o la banqueta, el Municipio, el organismo operador o en su caso la Secretaría de Desarrollo Ambiental realizarán de inmediato su reparación, con cargo al usuario, en los términos de la presente Ley; los trabajos deberán efectuarse en un plazo que no exceda de diez días naturales contados a partir de la fecha en que se ordene su reparación.
+En los casos en que, con motivo de la instalación de la toma o las descargas, se destruya el pavimento, la guarnición o la banqueta, el Municipio, el organismo operador o en su caso la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente realizarán de inmediato su reparación, con cargo al usuario, en los términos de la presente Ley; los trabajos deberán efectuarse en un plazo que no exceda de diez días naturales contados a partir de la fecha en que se ordene su reparación.
 
-> <small>(F. DE E., P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 76.
 
-Cualquier modificación que se pretenda hacer al inmueble, giro o establecimiento que afecte a las instalaciones de los servicios de agua y saneamiento incluyendo el alcantarillado, obliga a los interesados a formular la solicitud correspondiente ante el Municipio, el organismo operador, o en su caso a la Secretaría de Desarrollo Ambiental sujetándose a los plazos y procedimientos establecidos para la instalación o conexión de los servicios.
+Cualquier modificación que se pretenda hacer al inmueble, giro o establecimiento que afecte a las instalaciones de los servicios de agua y saneamiento incluyendo el alcantarillado, obliga a los interesados a formular la solicitud correspondiente ante el Municipio, el organismo operador, o en su caso a la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente sujetándose a los plazos y procedimientos establecidos para la instalación o conexión de los servicios.
 
 En ningún caso el propietario o poseedor del predio podrá operar por sí mismo el cambio del sistema, instalación, supresión o conexión de los servicios de agua y alcantarillado.
 
@@ -1303,45 +1369,59 @@ En ningún caso el propietario o poseedor del predio podrá operar por sí mismo
 
 Independientemente de los casos en que conforme a la ley proceda la suspensión o supresión de una toma de agua o de una descarga el interesado podrá solicitar la suspensión o supresión respectiva, expresando las causas en que se funden las mismas.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 78.
 
-La solicitud a que se refiere el artículo anterior, será resuelta por el Municipio, el organismo operador o en su caso Secretaría en un término de diez días a partir de su presentación; de ser favorable el acuerdo, éste se cumplimentará dentro de los cinco días siguientes a la fecha de su notificación, corriendo por cuenta del solicitante todos los gastos inherentes a la suspensión o supresión.
+La solicitud a que se refiere el artículo anterior, será resuelta por el Municipio, el organismo operador o en su caso la dependencia u organismo en un término de diez días a partir de su presentación; de ser favorable el acuerdo, éste se cumplimentará dentro de los cinco días siguientes a la fecha de su notificación, corriendo por cuenta del solicitante todos los gastos inherentes a la suspensión o supresión.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 79.
 
-No deben existir derivaciones de toma de agua o de descarga de alcantarillado. Cualquier excepción estará sujeta a la autorización del proyecto o control en su ejecución por el Municipio, el organismo operador o en su caso Secretaría, debiendo en todo caso contarse con las condiciones necesarias para que dichas autoridades puedan cobrar las cuotas o tarifas que le correspondan por el suministro de dicho servicio.
+No deben existir derivaciones de toma de agua o de descarga de alcantarillado. Cualquier excepción estará sujeta a la autorización del proyecto o control en su ejecución por el Municipio, el organismo operador o en su caso la dependencia u organismo, debiendo en todo caso contarse con las condiciones necesarias para que dichas autoridades puedan cobrar las cuotas o tarifas que le correspondan por el suministro de dicho servicio.
 
 ###### ARTICULO 80.
 
 Todo predio en el que se construyan edificios o condominios que tengan como destino la instalación de departamentos, despachos, negocios, comercios independientes o situaciones similares, deberán contar, con las instalaciones de agua, alcantarillado, incluyendo saneamiento, adecuadas, autorizadas por la autoridad competente y el organismo operador a fin de que esté en condiciones de cobrar a cada usuario el servicio que proceda.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 81.
 
-Las fraccionadoras, urbanizadoras y desarrolladoras, deberán construir por su cuenta las instalaciones y conexiones de agua potable y saneamiento, incluyendo alcantarillado necesarias, de conformidad con el proyecto autorizado por la autoridad competente y las específicaciones del Municipio, del organismo operador o de la Secretaría, en su caso; dichas obras pasarán al patrimonio de estos una vez que estén en operación.
+Las fraccionadoras, urbanizadoras y desarrolladoras, deberán construir por su cuenta las instalaciones y conexiones de agua potable y saneamiento, incluyendo alcantarillado necesarias, de conformidad con el proyecto autorizado por la autoridad competente y las específicaciones del Municipio, del organismo operador o de la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, en su caso; dichas obras pasarán al patrimonio de éstos una vez que estén en operación.
 
 ###### ARTICULO 82.
 
 Las personas que de manera clandestina utilicen los servicios de agua potable y saneamiento, incluyendo el alcantarillado, deberán pagar las tarifas que correspondan a dichos servicios y, además se harán acreedores a las sanciones administrativas que se señalan en esta Ley y, en su caso a las sanciones penales relativas.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 83.
 
-Todo lo relacionado con predios, giros o establecimientos; la forma en que otras autoridades o terceros deberán informar o avisar al organismo operador de autorizaciones o actividades relacionadas con la presente Ley; los trámites y procedimientos que se requieran para su cumplimiento; la obligación de proporcionar información para integrar el padrón de usuarios y para facilitar las atribuciones de autoridad; el uso y características de aparatos ahorradores de agua; y en general las demás para proveer la exacta observancia que la presente Ley, se precisará en la normatividad que en su caso expida con carácter general, la Secretaría de Desarrollo Ambiental; dicha normatividad se publicará en el Periódico Oficial del Estado.
+Todo lo relacionado con predios, giros o establecimientos; la forma en que otras autoridades o terceros deberán informar o avisar al organismo operador de autorizaciones o actividades relacionadas con la presente Ley; los trámites y procedimientos que se requieran para su cumplimiento; la obligación de proporcionar información para integrar el padrón de usuarios y para facilitar las atribuciones de autoridad; el uso y características de aparatos ahorradores de agua; y en general las demás para proveer la exacta observancia de que la presente Ley, se precisará en la normatividad que en su caso expida con carácter general, la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente; dicha normatividad se publicará en el Periódico Oficial del Estado.
 
 ### CAPITULO SEGUNDO. CORRESPONSABILIDAD DE LOS USUARIOS
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 84.
 
-Todo usuario tanto del sector público como del sector social o privado, está obligado al pago de los servicios de agua potable, alcantarillado y tratamiento de aguas residuales que presta el Municipio, el organismo operador municipal, intermunicipal o, en su caso, la Secretaría de Desarrollo Ambiental con base en las tarifas o cuotas autorizadas.
+Todo usuario tanto del sector público como del sector social o privado, está obligado al pago de los servicios de agua potable, alcantarillado y tratamiento de aguas residuales que presta el Municipio, el organismo operador municipal, intermunicipal o, en su caso, la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente con base en las tarifas o cuotas autorizadas.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 85.
 
-Los usuarios deberán pagar el importe de la tarifa o cuota dentro de los plazos que en cada caso señale el recibo correspondiente y en las oficinas que determine el Municipio, el organismo operador municipal, intermunicipal o, en su caso, la Secretaría de Desarrollo Ambiental.
+Los usuarios deberán pagar el importe de la tarifa o cuota dentro de los plazos que en cada caso señale el recibo correspondiente y en las oficinas que determine el Municipio, el organismo operador municipal, intermunicipal o, en su caso, la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 86.
 
-El propietario de un predio responderá ante el Municipio, el organismo operador o en su caso, la Secretaría de Desarrollo Ambiental por los adeudos que ante el mismo se generen en los términos de esta ley.
+El propietario de un predio responderá ante el Municipio, el organismo operador o en su caso, la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente por los adeudos que ante el mismo se generen en los términos de esta ley.
 
-Cuando se transfiera la propiedad de un inmueble con sus servicios, el nuevo propietario se subrogará en los derechos y obligaciones derivados de la contratación anterior, debiendo dar aviso al Municipio, al organismo operador municipal o intermunicipal, o en su defecto a la Secretaría de Desarrollo Ambiental del Estado.
+Cuando se transfiera la propiedad de un inmueble con sus servicios, el nuevo propietario se subrogará en los derechos y obligaciones derivados de la contratación anterior, debiendo dar aviso al Municipio, al organismo operador municipal o intermunicipal, o en su defecto a la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente.
 
 ###### ARTICULO 87.
 
@@ -1349,27 +1429,37 @@ El servicio de agua que disfruten los usuarios en los Municipios del Estado, ser
 
 En los lugares en donde no haya medidores o mientras éstos no se instalen, los pagos serán determinados por las cuotas fijas previamente determinadas.
 
-El Municipio, el organismo operador o la Secretaría en su caso, podrán optar por determinar en función de los consumos anteriores, cuando no sea posible medir el consumo, debido a la destrucción total o parcial del medidor respectivo, independientemente de los cargos a cubrir por la reposición del mismo.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
+El Municipio, el organismo operador o la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente en su caso, podrán optar por determinar en función de los consumos anteriores, cuando no sea posible medir el consumo, debido a la destrucción total o parcial del medidor respectivo, independientemente de los cargos a cubrir por la reposición del mismo.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 88.
 
-Los usuarios que se surtan de servicios por medio de derivaciones autorizadas por los municipios, organismos operadores o la Secretaría a que se refiere la presente Ley, pagarán las tarifas correspondientes al medidor de la toma original de la que se deriven, pero si la toma no tiene medidor aún, cubrirán la cuota fija previamente establecida para dicha toma.
+Los usuarios que se surtan de servicios por medio de derivaciones autorizadas por los municipios, organismos operadores o la dependencia u organismo de la Administración Pública Estatal a que se refiere la presente Ley, pagarán las tarifas correspondientes al medidor de la toma original de la que se deriven, pero si la toma no tiene medidor aún, cubrirán la cuota fija previamente establecida para dicha toma.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 89.
 
-Por cada derivación, el usuario pagará al Municipio, al organismo operador municipal o intermunicipal, o en su defecto a la Secretaría de Desarrollo Ambiental, el importe de las cuotas de conexión que correspondan a una toma de agua directa, así como el servicio respectivo.
+Por cada derivación, el usuario pagará al Municipio, al organismo operador municipal o intermunicipal, o en su defecto a la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, el importe de las cuotas de conexión que correspondan a una toma de agua directa, así como el servicio respectivo.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 90.
 
-Con el objeto de hacer más racional el consumo de agua, los usuarios deberán utilizar aparatos ahorradores, en los casos, términos y características que los Ayuntamientos o la Secretaría determinen.
+Con el objeto de hacer más racional el consumo de agua, los usuarios deberán utilizar aparatos ahorradores, en los casos, términos y características que los Ayuntamientos o la dependencia u organismo de la Administración Pública Estatal determinen.
 
 ###### ARTICULO 91.
 
 Las autoridades de los Municipios del Estado serán las responsables de vigilar las disposiciones contenidas en esta Ley y su Reglamento al autorizar la construcción, rehabilitación, ampliación, remodelación y demolición de obras.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 92.
 
-En épocas de escasez de agua, comprobada o previsible, el Municipio, el organismo operador o la Secretaría de Desarrollo Ambiental podrán acordar condiciones de restricción en las zonas y durante el lapso que estime necesario, previo aviso oportuno al usuario a través de los medios de comunicación disponibles.
+En épocas de escasez de agua, comprobada o previsible, el Municipio, el organismo operador o la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente podrán acordar condiciones de restricción en las zonas y durante el lapso que estime necesario, previo aviso oportuno al usuario a través de los medios de comunicación disponibles.
 
 ### CAPITULO TERCERO. CUOTAS Y TARIFAS
 
@@ -1385,13 +1475,17 @@ El Congreso del Estado aprobará, en su caso, cuotas y tarifas derivadas de la p
 
 Los Ayuntamientos, una vez recabadas las propuestas que le hayan presentado en los términos de ésta Ley los organismos operadores y sistemas de agua potable existentes en el municipio y previa aprobación del cabildo presentarán al Congreso del Estado, las cuotas y tarifas derivadas de la prestación de los servicios que regula esta Ley. La propuesta deberá estar sustentada en un análisis técnico, administrativo y socioeconómico que la justifique sin detrimento de la economía de cada organismo operador, sistema de agua potable o del propio municipio.
 
-Para efectos del análisis técnico citado, los Ayuntamientos podrán solicitar apoyo y asesoría de la Secretaría de Desarrollo Ambiental.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
+Para efectos del análisis técnico citado, los Ayuntamientos podrán solicitar apoyo y asesoría de la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente.
 
 ###### ARTICULO 95.
 
 Las cuotas y tarifas por los servicios incluirán los costos de operación, administración, conservación, mantenimiento y mejoramiento, así como los recursos necesarios para constituir un fondo que permita la rehabilitación, ampliación y mejoramiento de los sistemas, la recuperación del valor actualizado de las inversiones y como en su caso, el servicio de la deuda contraída con tales propósitos.
 
-La recuperación del valor actualizado de las inversiones de infraestructura hidráulica realizadas por los Municipios, los organismos operadores municipales, intermunicipales o, en su defecto, por la Secretaría de Desarrollo Ambiental del Estado, por sí o por terceros, deberá tomarse en cuenta para incorporarse en la fijación de las tarifas o cuotas respectivas o para su cobro por separado a los directamente beneficiados por las mismas. Se podrán celebrar con los beneficiarios convenios que garanticen la recuperación de la inversión.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
+La recuperación del valor actualizado de las inversiones de infraestructura hidráulica realizadas por los Municipios, los organismos operadores municipales, intermunicipales o, en su defecto, por la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, por sí o por terceros, deberá tomarse en cuenta para incorporarse en la fijación de las tarifas o cuotas respectivas o para su cobro por separado a los directamente beneficiados por las mismas. Se podrán celebrar con los beneficiarios convenios que garanticen la recuperación de la inversión.
 
 Se exceptúa de lo dispuesto en el párrafo anterior, el caso en que la recuperación de la inversión se esté efectuando a través de leyes de contribuciones de mejoras por obras públicas hidráulicas en el Estado o Municipio, o una legislación fiscal similar.
 
@@ -1399,13 +1493,15 @@ Se exceptúa de lo dispuesto en el párrafo anterior, el caso en que la recupera
 
 Para la determinación de las cuotas o tarifas se tomarán también en cuenta los metros cúbicos de agua suministrada o descargada; los metros lineales de banqueta, guarnición o pavimento a reponer y en general, los demás elementos que permitan el correcto cobro de dichos servicios.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 97.
 
-Se podrán revisar y modificar las cuotas o tarifas derivadas de la prestación del os servicios que regulan esta Ley a fin de actualizarlas. Para cualquier modificación propuesta, además de la elaboración del estudio técnico, administrativo y socioeconómico que las fundamente, se deberán tomar en cuenta las recomendaciones y sugerencias que realicen los usuarios a través de los consejos consultivos a que se refiere la presente Ley, las cuales deberán ser analizadas y en su caso aprobadas por la Junta de Gobierno o de Cabildo del Ayuntamiento según corresponda, dichos consejos consultivos se formarán aún en el caso de que los servicios se presten por los Ayuntamientos o por la Secretaría de Desarrollo Ambiental.
+Se deberán revisar y ajustar las cuotas o tarifas a fin de actualizarlas; para cualquier modificación de éstas se deberá elaborar un estudio que justifique las nuevas cuotas y tarifas y se tomarán en cuenta las observaciones y sugerencias que realicen los usuarios a través de los Consejos Consultivos a que se refiere la presente Ley. Dichos Consejos Consultivos se formarán aún en el caso de que los servicios se presten por los Municipios o por la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+La dependencia u organismo de la Administración Pública Estatal elaborará los estudios técnicos financieros de apoyo para las adecuaciones de cuotas o tarifas y los enviará a los Municipios o a los organismos operadores para su consideración.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 98.
 
@@ -1573,15 +1669,17 @@ Los ingresos por las cuotas y tarifas previstas en este artículo, corresponde s
 
 ###### ARTICULO 99.
 
-Las cuotas o tarifas que cobren los Municipios, los organismos operadores municipales, intermunicipales o, en su defecto, la Secretaría de Desarrollo Ambiental, serán independientes de los pagos, tales como las contribuciones especiales que se establezcan en la legislación fiscal.
+Las cuotas o tarifas que cobren los Municipios, los organismos operadores municipales, intermunicipales o, en su defecto, la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, serán independientes de los pagos, tales como las contribuciones especiales que se establezcan en la legislación fiscal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 100.
 
-La falta reiterada de dos o más pagos faculta al Municipio, al organismo operador municipal, intermunicipal o, en su defecto, a la Secretaría de Desarrollo Ambiental para suspender el servicio hasta que se regularice el pago. En caso de uso doméstico, la falta reiterada de pago ocasionará la limitación del servicio, y de no regularizarse el pago, se podrá proceder a la suspensión del servicio.
+La falta reiterada de dos o más pagos faculta al Municipio, al organismo operador municipal, intermunicipal o, en su defecto, a la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente para suspender el servicio hasta que se regularice el pago. En caso de uso doméstico, la falta reiterada de pago ocasionará la limitación del servicio, y de no regularizarse el pago, se podrá proceder a la suspensión del servicio.
 
-> <small>(F. DE E., P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
-Igualmente Municipios, organismos operadores y Secretaría quedan facultados a suspender el servicio, cuando se comprueben derivaciones no autorizadas o un uso distinto al contratado o convenido.
+Igualmente Municipios, organismos operadores y dependencia u organismo de la Administración Pública Estatal quedan facultados a suspender el servicio, cuando se comprueben derivaciones no autorizadas o un uso distinto al contratado o convenido.
 
 Lo anterior, será independientemente de poner en conocimiento de tal situación a las autoridades sanitarias.
 
@@ -1591,9 +1689,11 @@ Los adeudos o cargos de los usuarios tendrán el carácter de créditos fiscales
 
 La suspensión o limitación del servicio, no extingue el crédito fiscal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 102.
 
-Cuando el usuario no este de acuerdo con el consumo expresado en su recibo o con los cobros que se le hagan, tendrá derecho de inconformarse por escrito, en los formatos que se le proporcionen, ante el Municipio, el organismo, o en su caso la Secretaría, dentro de un plazo de sesenta días contados a partir de la fecha que contenga el recibo de cobro.
+Cuando el usuario no este de acuerdo con el consumo expresado en su recibo o con los cobros que se le hagan, tendrá derecho de inconformarse por escrito, en los formatos que se le proporcionen, ante el Municipio, el organismo, o en su caso la dependencia u organismo de la Administración Pública Estatal, dentro de un plazo de sesenta días contados a partir de la fecha que contenga el recibo de cobro.
 
 El organismo operador, resolverá la inconformidad en el término de cinco días hábiles, a partir de planteada esta.
 
@@ -1605,9 +1705,11 @@ Los notarios públicos y jueces no autorizarán o certificarán los actos trasla
 
 ### CAPITULO CUARTO. INSPECCION, VERIFICACION Y DETERMINACION PRESUNTIVA DEL PAGO DE SERVICIOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 104.
 
-Los Municipios, los organismos operadores municipales, intermunicipales o, en su caso la Secretaría de Desarrollo Ambiental, contarán con el número de inspectores que se requiera, con base en su propio presupuesto, para la verificación de los servicios que presten.
+Los Municipios, los organismos operadores municipales, intermunicipales o, en su caso la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, contarán con el número de inspectores que se requiera, con base en su propio presupuesto, para la verificación de los servicios que presten.
 
 Ordenarán, para dar cumplimiento a las disposiciones de esta Ley y la reglamentación respectiva, en su caso, que se realicen visitas de inspección, las que se efectuarán por personal debidamente autorizado estén o no concesionados los servicios.
 
@@ -1679,19 +1781,23 @@ La lectura de los aparatos medidores para determinar el consumo de agua en cada 
 
 El lecturista llenará un formato oficial, verificando que el número del medidor y el domicilio que se indique, sea el correspondiente y expresará la lectura del medidor o la clave de no lectura, en su caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 113.
 
-Corresponde en forma exclusiva a los Municipios, organismos operadores o en su caso a la Secretaría de Desarrollo Ambiental, instalar y operar los aparatos medidores, así como verificar su funcionamiento y su retiro cuando haya sufrido daños.
+Corresponde en forma exclusiva a los Municipios, organismos operadores o en su caso a la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, instalar y operar los aparatos medidores, así como verificar su funcionamiento y su retiro cuando haya sufrido daños.
 
 Los usuarios cuidarán que no se deterioren o destruyan los aparatos medidores; por lo que deberán ser protegidos contra robos, manipulaciones indebidas y toda posible causa de deterioro.
 
-> <small>(F. DE E., P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
-Los propietarios, poseedores o detentadores de predios que cuentan con las instalaciones de aparatos medidores, están obligados a informar al Municipio, al organismo operador o, en su caso a la Secretaría de Desarrollo Ambiental, todo daño o perjuicio causado a los mismos.
+Los propietarios, poseedores o detentadores de predios que cuentan con las instalaciones de aparatos medidores, están obligados a informar al Municipio, al organismo operador o, en su caso a la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, todo daño o perjuicio causado a los mismos.
 
 En los casos en que sea necesario, los organismos descentralizados a que se refiere la presente Ley, ordenarán la revisión y el retiro del medidor, instalando provisionalmente un medidor sustituto.
 
-Con el dictamen emitido por el Municipio, el organismo operador o en su caso, la Secretaría de Desarrollo Ambiental, se reparará o sustituirá el aparato.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
+Con el dictamen emitido por el Municipio, el organismo operador o en su caso, la dependencia u organismo de la Administración Pública Estatal se reparará o sustituirá el aparato.
 
 El propietario, poseedor o detentador del predio, pagará los gastos que origine la reparación o sustitución, de acuerdo con lo dispuesto al efecto en la presente Ley.
 
@@ -1731,13 +1837,15 @@ IV.- Otra información obtenida por los organismos operadores en el ejercicio de
 
 V.- Los medios indirectos de la investigación económica o de cualquier otra clase.
 
-El Municipio, el organismo operador municipal, intermunicipal o, en su caso la Secretaría de Desarrollo Ambiental, determinará y exigirá el pago con base en la determinación estimativa del volumen.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
-> <small>(F. DE E., P.O. 2 DE AGOSTO DE 1995)</small>
+El Municipio, el organismo operador municipal, intermunicipal o, en su caso la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, determinará y exigirá el pago con base en la determinación estimativa del volumen.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 118.
 
-Queda facultado el Municipio, el organismo operador municipal, intermunicipal o, en su caso, la Secretaría de Desarrollo Ambiental, a realizar las acciones necesarias para impedir, obstruir o cerrar la posibilidad de descargar aguas residuales a las redes de drenaje y alcantarillado, a aquellos usuarios que incumplan con el pago respectivo, conforme a lo dispuesto en la presente Ley; o bien, en colaboración con las autoridades ecológicas competentes, cuando las descargas no cumplan con lo dispuesto en la legislación de equilibrio ecológico y protección al ambiente.
+Queda facultado el Municipio, el organismo operador municipal, intermunicipal o, en su caso, la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, a realizar las acciones necesarias para impedir, obstruir o cerrar la posibilidad de descargar aguas residuales a las redes de drenaje y alcantarillado, a aquellos usuarios que incumplan con el pago respectivo, conforme a lo dispuesto en la presente Ley; o bien, en colaboración con las autoridades ecológicas competentes, cuando las descargas no cumplan con lo dispuesto en la legislación de equilibrio ecológico y protección al ambiente.
 
 ## TITULO QUINTO. INFRACCIONES, SANCIONES Y RECURSOS ADMINISTRATIVOS
 
@@ -1779,9 +1887,11 @@ XV.- Las personas que por cualquier medio alteren el consumo marcado por los med
 
 XVI.- Las personas que en cualquier caso proporcionen servicios de agua en forma distinta a las que señale esta Ley, a personas que están obligadas a surtirse directamente del servicio público.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 120.
 
-Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente a juicio del Municipio, del organismo operador respectivo o de la Secretaría de Desarrollo Ambiental, con multas equivalentes:
+Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente a juicio del Municipio, del organismo operador respectivo o de la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, con multas equivalentes:
 
 I.- En el caso de usuarios que cometan las infracciones a que se refieren las fracciones I, II y III del artículo anterior, la sanción será de uno a veinte días de salario mínimo en el caso de los usuarios domésticos y de dos a cuarenta días en el caso de los comerciales;
 
@@ -1809,61 +1919,53 @@ Si una vez vencido el plazo concedido por la autoridad para subsanar la o las in
 
 En el caso de reincidencia el monto de la multa podrá ser hasta por dos veces el monto originalmente impuesto, sin exceder del doble del máximo permitido; en caso de segunda reincidencia se aplicará tres veces del monto originalmente impuesto, y así sucesivamente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 123.
 
-En los casos de las fracciones IX, XII, XIII y XVI del artículo 120, así como en los casos de reincidencia en cualquiera de las infracciones del artículo citado, el Municipio, el organismo operador o la Secretaría en su caso, podrán imponer adicionalmente la sanción de clausura temporal o definitiva, parcial o total de la toma.
+En los casos de las fracciones IX, XII, XIII y XVI del artículo 119, así como en los casos de reincidencia en cualquiera de las infracciones del artículo citado, el Municipio, el organismo operador o la dependencia u organismo de la Administración Pública Estatal en su caso, podrán imponer adicionalmente la sanción de clausura temporal o definitiva, parcial o total de la toma.
 
 En el caso de clausura, el personal designado por el Municipio, el organismo operador o en su caso la Secretaría para llevarla a cabo, procederá a levantar acta circunstanciada de la diligencia. El rehusar el infractor a su firma no invalidará dicha acta, debiéndose asentar tal situación.
 
 Tratándose de giros comerciales mercantiles, industriales o de servicios, se podrá solicitar a la autoridad competente su clausura, por no efectuar la conexión al abastecimiento del servicio público de agua potable y alcantarillado.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 124.
 
-Las sanciones que correspondan por las faltas previstas en esta Ley, se impondrán sin menoscabo del pago de los daños y perjuicios causados, que el Municipio, el organismo operador o la Secretaría de Desarrollo Ambiental, en su caso, notificará al infractor, previa su cuantificación para que los cubra dentro del plazo que determine el propio organismo.
+Las sanciones que correspondan por las faltas previstas en esta Ley, se impondrán sin menoscabo del pago de los daños y perjuicios causados, que el Municipio, el organismo operador o la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, en su caso, notificará al infractor, previa su cuantificación para que los cubra dentro del plazo que determine el propio organismo.
 
-El Municipio, el organismo operador o Secretaría, en su caso notificarán los adeudos que tengan las personas físicas o morales, con motivo de las obras o la destrucción de las mismas que por su cuenta tengan que realizar, ante el incumplimiento de las que originalmente les correspondería realizar en los términos de la presente Ley.
+El Municipio, el organismo operador o la dependencia u organismo de la Administración Pública Estatal, en su caso notificarán los adeudos que tengan las personas físicas o morales, con motivo de las obras o la destrucción de las mismas que por su cuenta tengan que realizar, ante el incumplimiento de las que originalmente les correspondería realizar en los términos de la presente Ley.
 
 ### CAPITULO SEGUNDO. RECURSOS ADMINISTRATIVOS
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 125.
 
-Contra resoluciones y actos de las autoridades estatales o municipales y de los organismos operadores que causen agravio a los particulares, y que para su impugnación no tengan señalado trámite especial en esta ley, procederá el recurso de reconsideración, el cual se tramitará en la forma y términos del presente capítulo.
+Contra las resoluciones y actos de las autoridades estatales o municipales y de los organismos operadores que causen agravio a los particulares, procederá la impugnación, en términos de lo previsto por la Ley de Procedimiento Administrativo para el Estado de Morelos.
 
 ###### ARTICULO 126.
 
-El recurso de reconsideración se interpondrá por escrito ante la autoridad que haya emitido la resolución o ejecutado el acto, dentro de los quince días hábiles siguientes a su notificación o de aquel en que se haya tenido conocimiento si no hubo notificación. El Municipio, los organismos o la Secretaría de Desarrollo Ambiental, en su caso proporcionará los formatos correspondientes.
-
-En dicho escrito se expresará:
-
-I.- El nombre y domicilio del recurrente, los agravios que le causen la resolución o el acto impugnado y los elementos de prueba que se consideren necesarios. Al escrito se acompañaran las constancias que acrediten la personalidad del recurrente, cuando actúe en nombre de otro o de personas morales. No se podrán ofrecer como elementos de prueba las testimonial y la confesional.
-
-II.- La fecha en que tuvo conocimiento de la resolución recurrida anexando la documentación respectiva;
-
-> <small>(F. DE E., P.O. 2 DE AGOSTO DE 1995)</small>
-
-III.- El acto o resolución que se impugne; y
-
-IV.- La mención de la autoridad que haya dictado la resolución u ordenado o ejecutado el acto.
+(DEROGADO, P.O. 23 DE MAYO DE 2001)
 
 ###### ARTICULO 127.
 
-La autoridad, al recibir el recurso, verificará si este fue interpuesto en tiempo, admitiéndolo o rechazándolo.
-
-En caso de admisión decretará, en su caso, la suspensión del acto, y desahogará las pruebas que procedan en un plazo que no excederá de veinte días hábiles contados a partir de la notificación del proveído de admisión.
-
-> <small>(F. DE E., P.O. 2 DE AGOSTO DE 1995)</small>
+(DEROGADO, P.O. 23 DE MAYO DE 2001)
 
 ###### ARTICULO 128.
 
-Dentro de los diez días hábiles siguientes al desahogo de las pruebas, si las hubiere, se dictará resolución en la que se confirme, modifique o revoque la resolución recurrida o el acto impugnado. Dicha resolución se notificará al interesado personalmente o por correo certificado.
+(DEROGADO, P.O. 23 DE MAYO DE 2001)
 
 ###### ARTICULO 129.
 
-En lo relativo a la interpretación, substanciación y decisión de los recursos que contempla esta Ley, se aplicarán supletoriamente las disposiciones vigentes de las leyes fiscales relativas.
+(DEROGADO, P.O. 23 DE MAYO DE 2001)
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 130.
 
-Contra el procedimiento administrativo de ejecución que apliquen las autoridades fiscales competentes, a solicitud hecha por el Municipio, el organismo operador o la Secretaría de Desarrollo Ambiental, en su caso, procederán los medios de impugnación de la legislación fiscal respectiva.
+Contra el procedimiento administrativo de ejecución que apliquen las autoridades fiscales competentes, a solicitud hecha por el Municipio, el organismo operador o la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, en su caso, procederán los medios de impugnación de la legislación fiscal respectiva.
 
 DISPOSICIONES TRANSITORIAS
 
@@ -1891,7 +1993,9 @@ En materia de construcción de obras públicas para infraestructura hidráulica:
 
 I.- Las obras iniciadas con anterioridad a la entrada en vigor de esta Ley, se ejecutarán en los términos pactados por dependencia o entidad que las contrató, hasta su terminación, momento en el cual se aportarán en su caso, al patrimonio de los organismos descentralizados a que se refiere la presente Ley;
 
-II.- Las obras que se deben contratar e iniciar con posterioridad a la entrada en vigor de la presente Ley se deberán ajustar a lo dispuesto en esta Ley y en la Ley de Obras Públicas del Estado;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
+
+II.- Las obras que se deben contratar e iniciar con posterioridad a la entrada en vigor de la presente Ley se deberán ajustar a lo dispuesto en esta Ley y en la Ley de Obra Pública y Servicios Relacionados con la Misma del Estado de Morelos;
 
 III.- Los Ayuntamientos, los organismos operadores municipales o intermunicipales podrán, cuando así lo consideren conveniente, solicitar la colaboración y apoyo del Gobierno del Estado de Morelos, para que se realicen determinadas obras de infraestructura hidráulica que por su dimensión, características o costo requieran de la intervención, recursos o participación estatal; igualmente, podrán requerir la participación y apoyo para aspectos técnicos o financieros, asistencia o apoyo para supervisión y vigilancia de la obra.
 
@@ -2036,3 +2140,9 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTICULO CUARTO.
 
 Hasta en tanto el Congreso del Estado, apruebe las cuotas y tarifas propuestas por los Ayuntamientos, se seguirán aplicando las señaladas en el artículo 98 de esta Ley.
+
+P.O. 23 DE MAYO DE 2001.
+
+Primero.- Remítase el presente Decreto, al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVIII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segundo.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
