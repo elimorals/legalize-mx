@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-25686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2002-08-09"
+last_updated: "2003-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2003.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de mayo de 2002.
 
@@ -821,23 +821,29 @@ e).- Acreditar su pertenencia a los organismos a que se refiere el artículo 8 d
 
 f).- Acreditar el interés en los temas relacionados con la venta de bebidas alcohólicas, mediante carta de intención que contenga el objetivo social a cumplir.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 54.
 
-Transcurrido el plazo señalado en la convocatoria, el Presidente Municipal analizará los expedientes que hayan presentado los aspirantes al consejo, verificando que hayan cumplido con los requisitos señalados en el artículo anterior, asimismo deberá emitir su resolución en un plazo no mayor de 10 días contados a partir del cierre de la convocatoria designando a once aspirantes a integrantes del consejo, resolución que deberá ser ratificada por el Cabildo en mayoría simple.
+Transcurrido el plazo señalado en la convocatoria, el Presidente Municipal analizará los expedientes que hayan presentado los aspirantes al Consejo, verificando que hayan cumplido con los requisitos señalados en el artículo anterior, así mismo deberá emitir su resolución en un plazo no mayor de 10 días contados a partir del cierre de la convocatoria, designando a siete aspirantes a integrantes del Consejo, resolución que deberá ser ratificada por el Cabildo en mayoría simple.
+
+En caso de que el número de aspirantes que atendieran la convocatoria lanzada por la Autoridad Municipal fuera insuficiente para la integración del Consejo, el Presidente Municipal podrá invitar a ciudadanos distinguidos avecindados en la Municipalidad que se destaquen por su trabajo en favor de la sociedad para que se integren al Consejo Consultivo, y esté en condiciones de funcionar.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 55.
 
-El Consejo Consultivo deberá ser integrado en los términos del artículo 8 de la Ley y además del Presidente y Secretario Técnico los vocales que lo integraran serán en un número de nueve. El representante de la autoridad municipal será designado por el Presidente Municipal y fungirá como vocal del consejo.
+El Consejo Consultivo deberá ser integrado en los términos del artículo 8 de la Ley, y además del presidente y secretario técnico los vocales que lo integrarán serán en un número de cinco. El representante de la Autoridad Municipal será designado por el Presidente Municipal y fungirá como vocal del Consejo.
 
-Dicho consejo se integrará de la siguiente forma:
+Dicho Consejo se integrará de la siguiente forma:
 
-a).- Cinco representantes de organismos que agrupen permisionarios;
+A) Tres representantes de organismos que agrupen permisionarios;
 
-b).- Cinco representantes de organismos no gubernamentales, cuyo objeto social este relacionado con la problemática del consumo inmoderado de bebidas alcohólicas, y
+B) Tres representantes de organismos no gubernamentales, cuyo objeto social esté relacionado con la problemática del consumo inmoderado de bebidas alcohólicas, y
 
-c).- 1 representante de la Autoridad Municipal.
+C) Un representante de la Autoridad Municipal.
 
-El nombramiento de los integrantes del Consejo Consultivo tendrá el carácter de honorífico, debiendo durar en el cargo un periodo de (sic) no mayor del que dure el Ayuntamiento de que se trate, para el caso del Presidente del Consejo, éste durará en su cargo un año, pudiendo ser reelecto por una sola ocasión.
+El nombramiento del Consejo Consultivo tendrá el carácter de honorífico, debiendo durar en el cargo un periodo no mayor del que dure el Ayuntamiento de que se trate, para el caso del Presidente del Consejo, este durará en su cargo un año, pudiendo ser reelecto por una sola ocasión.
 
 ###### ARTICULO 56.
 
@@ -1214,3 +1220,9 @@ TERCERO: Publíquese en dos periódicos de mayor circulación en la localidad pa
 CUARTO: Se derogan todas aquellas disposiciones que se opongan a la presente
 
 reforma.
+
+P.O. 14 DE FEBRERO DE 2003.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones u ordenamientos que contravengan a la presente reforma.
