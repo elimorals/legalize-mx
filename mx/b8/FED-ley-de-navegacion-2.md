@@ -4,7 +4,7 @@ identifier: "FED-ley-de-navegacion-2"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-04"
-last_updated: "1994-01-04"
+last_updated: "1998-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-12-23"
 
 LEY DE NAVEGACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 4 de enero de 1994.
 
@@ -361,9 +361,11 @@ Los navieros mexicanos no están obligados a designar agentes navieros en un pue
 
 ### CAPITULO V. TRIPULACION
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 22.
 
-Los capitanes, pilotos navales, patrones, maquinistas navales, operarios mecánicos y, de una manera general, todo el personal que tripule cualquier embarcación mercante mexicana deberá ser mexicano por nacimiento.
+Los capitanes, pilotos navales, patrones, maquinistas navales, operarios mecánicos y, de una manera general, todo el personal que tripule cualquier embarcación mercante mexicana deberá ser mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos.
 
 En las embarcaciones pesqueras no se considera tripulación al personal embarcado que sólo realiza funciones de instrucción, capacitación y supervisión de las actividades de captura, manejo o proceso de los recursos pesqueros.
 
@@ -621,9 +623,11 @@ El servicio de pilotaje se prestará a toda embarcación que arribe o zarpe de u
 
 El servicio de pilotaje se prestará por pilotos de puerto. Para ello se requerirá permiso otorgado por la Secretaría o contrato celebrado con la administración portuaria integral para el puerto respectivo, de conformidad con lo establecido en la Ley de Puertos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 50.
 
-Para ser piloto de puerto se requiere ser mexicano por nacimiento y contar con el correspondiente título profesional de marino y certificado de competencia, otorgado por la Secretaría, que lo acredite para el puerto respectivo, conforme a los requisitos que señale el reglamento.
+Para ser piloto de puerto se requiere ser mexicano por nacimiento que no adquiera otra nacionalidad, estar en pleno goce y ejercicio de sus derechos civiles y políticos, y contar con el correspondiente título profesional de marino y certificado de competencia, otorgado por la Secretaría, que lo acredite para el puerto respectivo, conforme a los requisitos que señale el reglamento.
 
 El piloto de puerto, cuando se encuentre dirigiendo la maniobra a bordo, será responsable por los daños y perjuicios que cause a las embarcaciones e instalaciones portuarias, salvo caso fortuito o fuerza mayor.
 
@@ -1420,3 +1424,9 @@ SEXTO.- Las solicitudes de concesiones, permisos o autorizaciones, que se encuen
 México, D.F., a 18 de diciembre de 1993.- Dip. Cuauhtémoc López Sánchez, Presidente.- Sen. Eduardo Robledo Rincón, Presidente.- Dip. Sergio González Santa Cruz, Secretario.- Sen. Antonio Melgar Aranda, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
