@@ -4,7 +4,7 @@ identifier: "FED-ley-de-navegacion-y-comercio-maritimos-588"
 country: "mx"
 rank: "ley"
 publication_date: "1963-11-21"
-last_updated: "1964-08-20"
+last_updated: "1969-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=588&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LNCM"
 
 LEY DE NAVEGACION Y COMERCIO MARITIMOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 1964.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE FEBRERO DE 1969.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 21 de noviembre de 1963.
 
@@ -87,6 +87,10 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 D.O.F. 20 DE AGOSTO DE 1964.
 
 UNICO.- Estas modificaciones entrarán en vigor en la fecha de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 18 DE FEBRERO DE 1969.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
 ###### ARTICULO 7o.
 
@@ -746,9 +750,11 @@ Si los accesorios fueran indispensables para la navegación, los terceros que te
 
 La enajenación del buque supone la de sus pertenencias y accesorios.
 
+> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 1969)</small>
+
 ###### ARTICULO 111.
 
-Los actos constitutivos, traslativos o extintivos de propiedad y los derechos reales sobre la nave, deberán constar en escritura pública.
+Los actos constitutivos, traslativos, extintivos de propiedad y los derechos reales sobre la nave, deberán constar en escritura pública o en póliza ante corredor.
 
 Sección B
 
