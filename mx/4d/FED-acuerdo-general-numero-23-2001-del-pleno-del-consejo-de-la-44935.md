@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2004-09-03"
+last_updated: "2004-10-15"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE OCTUBRE DE 2004.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -129,9 +129,9 @@ I.- PRIMER CIRCUITO:
 
 2.- Siete tribunales unitarios especializados: cinco en materia penal y dos en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 55/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 58/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
 
-3.- Cincuenta y un juzgados de distrito en el Distrito Federal especializados: dieciocho en materia de procesos penales federales, seis de amparo en materia penal, once en materia administrativa, doce en materia civil y cuatro en materia de trabajo, todos con sede en el Distrito Federal.
+3.- Cincuenta y seis juzgados de distrito en el Distrito Federal especializados: dieciocho en materia de procesos penales federales, seis de amparo en materia penal, dieciséis en materia administrativa, doce en materia civil y cuatro en materia de trabajo, todos con sede en el Distrito Federal.
 
 II.- SEGUNDO CIRCUITO:
 
@@ -283,7 +283,9 @@ XIII.- DECIMOTERCER CIRCUITO:
 
 XIV.- DECIMOCUARTO CIRCUITO:
 
-1.- Tres tribunales colegiados con residencia en Mérida.
+> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL 60/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
+
+1.- Tres tribunales colegiados especializados: dos en materias administrativa y civil; y uno en materias penal y de trabajo, todos con residencia en la ciudad de Mérida, Yucatán.
 
 2.- Un tribunal unitario con sede en Mérida.
 
@@ -1366,5 +1368,21 @@ SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación
 D.O.F. 3 DE SEPTIEMBRE DE 2004.
 
 PRIMERO.- Este acuerdo entrará en vigor el trece de septiembre de dos mil cuatro.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 15 DE OCTUBRE DE 2004.
+
+ACUERDO 58/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO I, NUMERO 3.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su publicación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 15 DE OCTUBRE DE 2004.
+
+ACUERDO 60/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XIV, NUMERO 1.
+
+PRIMERO.- Este acuerdo entrará en vigor el dieciocho de octubre de dos mil cuatro.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
