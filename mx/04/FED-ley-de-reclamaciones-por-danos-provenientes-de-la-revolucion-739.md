@@ -4,7 +4,7 @@ identifier: "FED-ley-de-reclamaciones-por-danos-provenientes-de-la-revolucion-73
 country: "mx"
 rank: "ley"
 publication_date: "1919-09-11"
-last_updated: "1927-03-26"
+last_updated: "1927-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=739&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1919-08-30"
 
 LEY DE RECLAMACIONES POR DAÑOS PROVENIENTES DE LA REVOLUCIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE MARZO DE 1927.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 26 DE MARZO DE 1927 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 24 DE MARZO DE 1927.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MAYO DE 1927.
 
 Ley publicada en el Número 10 del Diario Oficial, el jueves 11 de septiembre de 1919.
 
@@ -49,11 +47,9 @@ LEY DE RECLAMACIONES POR DAÑOS PROVENIENTES DE LA REVOLUCION.
 
 De conformidad con el decreto de 10 de mayo de 1913, expedido en Monclova, Estado de Coahuila, por el Primer Jefe del Ejército Constitucionalista, se establece en la ciudad de México, una comisión dependiente de la Secretaría de Hacienda, que conocerá de las reclamaciones por daños sufridos en las personas o en la propiedad, a consecuencia de los movimientos revolucionarios ocurridos en la República desde el 20 de noviembre de 1910 y del consiguiente estado de revuelta que prevalece todavía en algunas regiones del país.
 
-> <small>(REFORMADO, D.O. 24 DE MARZO DE 1927)</small>
-
 ###### Art. 2o.
 
-La Comisión de Reclamaciones a que se refiere el artículo anterior, constará de un Presidente y dos Vocales, nombrados por el Ejecutivo Federal. Dicha Comisión nombrará, a su vez, a los Secretarios y demás empleados que requiera el buen desempeño de sus labores.
+(DEROGADO POR EL TRANSITORIO DEL DECRETO POR EL CUAL SE AMPLÍAN LAS FACULTADES DE LA COMISIÓN NACIONAL DE RECLAMACIONES ESTABLECIDAS POR LEY DE 30 DE AGOSTO DE 1919, D.O. 30 DE MAYO DE 1927)
 
 ###### Art. 3o.
 
@@ -218,3 +214,35 @@ D.O. 24 DE MARZO DE 1927.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL CUAL SE REFORMA EL ARTÍCULO 2o. DE LA LEY DE RECLAMACIONES POR DAÑOS PROVENIENTES DE LA REVOLUCIÓN, DE 30 DE AGOSTO DE 1919, RELATIVO A LA FORMACIÓN DE LA COMISIÓN DE RECLAMACIONES".]
 
 Este Decreto comenzará a surtir sus efectos a partir del día 21 de marzo del presente año.
+
+D.O. 30 DE MAYO DE 1927.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL CUAL SE AMPLÍAN LAS FACULTADES DE LA COMISIÓN NACIONAL DE RECLAMACIONES ESTABLECIDAS POR LEY DE 30 DE AGOSTO DE 1919”.]
+
+Se deroga el Decreto de 9 de marzo del año en curso y las demás disposiciones que se opongan al presente.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL "DECRETO POR EL CUAL SE AMPLÍAN LAS FACULTADES DE LA COMISIÓN NACIONAL DE RECLAMACIONES ESTABLECIDAS POR LEY DE 30 DE AGOSTO DE 1919".]</small>
+
+###### Art. 1o.
+
+Se amplían las facultades de la Comisión Nacional de Reclamaciones, establecida por la Ley de 30 de agosto de 1919, para que también conozca:
+
+I.- De las reclamaciones procedentes de requerimientos en efectivo, de mercancías o de daños materiales consumados por fuerzas de la Federación, las cuales reclamaciones hayan sido presentadas hasta el 31 de diciembre de 1925, ante la Comisión Especial de Reclamaciones creada por Decreto de 31 de julio del mismo año.
+
+II.- De las deudas y reclamaciones que en cualesquiera de sus ramos debe satisfacer el Gobierno Federal; a excepción de los “Saldos de Ejercicios Fiscales anteriores” provenientes de libramientos y autorizaciones de pago girados en toda regla, y de las que competan a las Comisiones (sic) de Reclamaciones.
+
+###### Art. 2o.
+
+No se dará entrada a las reclamaciones (sic) a las leyes relativas
+
+###### Art. 3o.
+
+Las reclamaciones que hayan quedado pendientes de resolución de la Comisión Especial creada por la Ley de 31 de julio de 1925, serán tomadas por la Comisión Nacional de Reclamaciones en el estado en que se encuentren en la actualidad y se continuará su tramitación de acuerdo con la Ley de 30 de agosto de 1919 y su Reglamento.
+
+###### Art. 4o.
+
+El pago de las reclamaciones a que se refiere la fracción I del art. 1o. de este Decreto, se regirá por lo dispuesto en el art. 17 de la Ley de 30 de agosto de 1919.
+
+###### Art. 5o.
+
+Respecto de las reclamaciones a que se refiere la fracción II del art. 1o. de este mismo Decreto, se tendrá en cuenta la naturaleza del crédito de que provengan o la causa que las haya originado, para resolver sí se hace el pago conforme al artículo anterior o con arreglo a las disposiciones relativas vigentes al ocurrir los hechos.
