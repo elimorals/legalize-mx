@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1937-12-19"
+last_updated: "1943-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 1937.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 1943.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -335,17 +335,17 @@ V.- No ser Secretario de Gobierno, salvo que se separe del cargo, noventa días 
 
 VI.- No haber sufrido condena alguna impuesta por los Tribunales, que hubiere excedido de un mes de arresto.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1943)</small>
 
 ###### Artículo 34°
 
-El Gobernador será electo popularmente cada cuatro años y empezará a ejercer sus funciones el primero de diciembre posterior a la elección, protestando éste ante el Congreso del Estado. Los Gobernadores del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso ni por ningún motivo, podrán volver a ocupar ese cargo ni aún con el carácter de interinos, provisionales, substitutos o encargados del despacho.
+El Gobernador será electo popularmente cada seis años y empezará a ejercer sus funciones el primero de diciembre posterior a la elección, protestando éste ante el Congreso del Estado. Los Gobernadores del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo, podrán volver a ocupar ese cargo ni aun con el carácter de interinos, provisionales, substitutos o encargados del despacho.
 
 Nunca podrá ser electo para el período inmediato:
 
 a).- El Gobernador substituto constitucional o el designado para concluir el período en caso de falta absoluta del constitucional aun cuando tenga distinta denominación.
 
-b).- El Gobernador interino, el provisional o el ciudadano que, bajo cualquiera denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
+b).- El Gobernador interino, el provisional o el ciudadano que, bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
 ###### Artículo 35°
 
@@ -719,7 +719,7 @@ El presente decreto surtirá sus efectos desde la fecha de su expedición.
 
 P.O. 8 DE DICIEMBRE DE 1929.
 
-DECRETO NÚMERO 193, POR EL QUE SE REFORMAN LOS ARTÍCULOS 19 Y 33 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
+DECRETO NÚMERO 192, POR EL QUE SE REFORMAN LOS ARTÍCULOS 15, 16 Y 30 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
 ###### Artículo 3o.
 
@@ -746,3 +746,7 @@ La reforma del artículo 43, que se refiere a la renovación total de los Ayunta
 P.O. 19 DE DICIEMBRE DE 1937.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 14 DE DICIEMBRE DE 1943.
+
+El presente decreto empezará a surtir sus efectos con relación al próximo Gobernador electo, que deberá tomar posesión de su cargo el primero de diciembre de mil novecientos cuarenta y cuatro.
