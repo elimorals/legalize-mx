@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interno-del-centro-de-observacion-y-tratamiento-1411
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-02-15"
-last_updated: "1996-02-15"
+last_updated: "1996-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO INTERNO DEL CENTRO DE OBSERVACION Y TRATAMIENTO PARA MENORES INFRACTORES DEL ESTADO, QUERETARO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE JUNIO DE 1996 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERNO DEL CENTRO DE OBSERVACION Y TRATAMIENTO PARA MENORES INFRACTORES DEL ESTADO DE QUERETARO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL EL 27 DE JUNIO DE 1996.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el jueves 15 de febrero de 1996.
 
@@ -453,7 +453,15 @@ El orden y la disciplina en el interior del Centro, deben mantenerse con firmeza
 
 Toda persona ajena al Centro, requiere autorización para ingresar al mismo, y una vez obtenida tiene que someterse a revisión por parte del personal de seguridad y vigilancia del propio Centro de acuerdo a su sexo
 
-ARTICULO 57 (SIC).- Queda prohibida la introducción de alimentos, substancias u objetos por parte del personal del Centro para su consumo o el de los menores.
+> <small>(F. DE E., P.O. 27 DE JUNIO DE 1996)</small>
+
+###### ARTICULO 56.
+
+Queda prohibida la introducción de dinero, destinado a los menores de parte de los visitantes.
+
+###### ARTICULO 57.
+
+Queda prohibida la introducción de alimentos, substancias u objetos por parte del personal del Centro para su consumo o el de los menores.
 
 ###### ARTICULO 58.
 
