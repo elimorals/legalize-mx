@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1933-02-23"
+last_updated: "1933-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE FEBRERO DE 1933.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE MARZO DE 1933.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -57,6 +57,10 @@ b). Las monedas de plata de un peso, del cuño creado por la Ley de 27 de octubr
 > <small>(F. DE E., D.O.F. 28 DE JULIO DE 1931)</small>
 
 c). Las monedas fraccionarias de plata de diez , veinte y cincuenta centavos, y las de bronce de uno, dos y cinco centavos, de los cuños creados por las Leyes de 25 de marzo de 1905, de 15 de octubre de 1914, de 27 de octubre de 1919 y de 29 de abril de 1925.
+
+###### ARTICULO 2o.
+
+Los productos líquidos de la acuñación hecha en los términos del artículo tercero transitorio de la Ley de 9 de marzo de 1932, que reformó la Ley Monetaria, así como el oro en barras o amonedado que ha sido adquirido con dichos fondos, y entregado al Banco de México, se aplicarán íntegramente a la Reserva Monetaria.
 
 ###### ARTICULO 5°.
 
@@ -96,49 +100,51 @@ La emisión de billetes del Banco de México se ajustará a lo dispuesto en la L
 
 Corresponderá privativamente al Banco de México ordenar la acuñación de monedas según lo exijan las necesidades monetarias de la República y estrictamente dentro de los límites de esas necesidades.
 
-(REFORMADO, D.O.F. 10 DE MARZO DE 1932) (F. DE E., D.O.F. 14 DE ABRIL DE 1932)
+> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 1933)</small>
 
 ###### ARTICULO 13.
 
-La acuñación de monedas de plata de un peso o de denominaciones superiores a la unidad, sólo podrá ser ordenada por el Banco México, en los términos de su ley constitutiva, por resolución que tome el Consejo de Administración en votación secreta, por mayoría de siete votos, cuando menos, quedando tal resolución sujeta al veto del Secretario de Hacienda y Crédito Público. La diferencia que resulte entre el costo y el valor monetario de las monedas de un peso o de denominaciones superiores a la unidad que sean acuñadas, será conservada por el Banco de México para el exclusivo fin de aumentar en cuanto sea necesario las reservas legales de la emisión de billetes, mientras no se aplique por ley definitivamente a la Reserva Monetaria. El Banco abonará al Estado intereses al tipo medio que cargue en sus operaciones de redescuento, sobre las cantidades que de esta diferencia utilice para el incremento de las reservas legales de su emisión y mientras tales cantidades se conserven formando parte integrante de dichas reservas.
+La acuñación de monedas de plata o de bronce, cualquiera que sea su denominación, sólo podrá ser ordenada por el Banco de México, en los términos de su Ley Constitutiva, por resolución que tome el Consejo de Administración en votación secreta por mayoría de siete votos, cuando menos, quedando tal resolución sujeta al veto del Secretario de Hacienda y Crédito Público.
 
-La acuñación de monedas de plata o bronce en denominaciones inferiores a la unidad, sólo podrá hacerse con los requisitos indicados en el párrafo que antecede y precisamente a cambio de monedas de plata de un peso, las cuales deberán ser fundidas para ese objeto.
-
-La acuñación que se haga en forma distinta a la prevenida en esta ley, será causa de destitución inmediata y de responsabilidad civil para los consejeros y funcionarios del Banco que la ordenen y para los funcionarios y empleados que la ejecuten.
+La acuñación que se haga en forma distinta a la prevenida en esta Ley, será causa de destitución inmediata y de responsabilidad civil para los consejeros y funcionarios del Banco que la ordenen y para los funcionarios y empleados que la ejecuten.
 
 ### CAPITULO III. De la Reserva Monetaria
 
+> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 1933)</small>
+
 ###### ARTICULO 14.
 
-Se establece un a Reserva Monetaria que estará formada por los siguientes recursos:
+Se establece una Reserva Monetaria que estará formada por los siguientes recursos:
 
-a). Los valores que constituyen el saldo actual del fondo regulador creado por la Ley de 25 de marzo de 1905;
+a). Los valores adquiridos por el Banco de México en virtud de las operaciones a que se refieren los artículos 2, fracción II, y 10, fracción II de su Ley Constitutiva.
 
-b). Las utilidades que puedan realizarse en las operaciones de cambios sobre el exterior que se efectúen por cuenta de la Reserva;
+b). Las sumas que en efectivo reciba el Banco de México en pago de los documentos redescontados o por la venta del oro o efectos cuya adquisición proceda de alguna de las operaciones de emisión de billetes previstas por el artículo 2o., reformado, de su Ley Constitutiva.
 
-c). La diferencia entre el costo de adquisición y el valor monetario de los metales que lleguen a ser destinados a la acuñación de moneda fraccionaria y la que resulte de la reacuñación de monedas de cuños anteriores en moneda fraccionaria también;
+c). La parte de las utilidades del Banco de México que la ley respectiva señale al efecto.
 
-d). El valor comercial del metal contenido en las monedas de un peso que se reciban en cambio de moneda fraccionaria, en los términos del artículo 13 de esta ley;
+d). La diferencia que resulte entre el costo y el valor monetario de las monedas que sean acuñadas.
 
-e). El producto de los préstamos que se contraten para el aumento de la Reserva;
+e). El producto de los préstamos que se contraten para el aumento de la Reserva.
 
-f). La suma que anualmente señale el Presupuesto de Egresos para el objeto o el producto de los impuestos que se afecten al propio fin.
+f). La suma que anualmente asigne el Presupuesto de Egresos para ese objeto, y el producto de los impuestos y arbitrios que se afecten al mismo fin.
+
+> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 1933)</small>
 
 ###### ARTICULO 15.
 
-La Reserva Monetaria se destinará exclusivamente a cubrir los gastos o pérdidas que se causen por las operaciones de cambio sobre el exterior que por cuenta de la Reserva se efectúen.
+La Reserva Monetaria se destinará íntegramente a sostener el valor de la moneda nacional, regulando su circulación y los cambios sobre el exterior, y a garantizar la emisión de billetes que el Banco de México haga en los términos del artículo 2o. de su Ley Constitutiva, esto último en unión de la Reserva de Circulación prevista por el artículo 3o. de la misma ley.
+
+> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 1933)</small>
 
 ###### ARTICULO 16.
 
-La Reserva Monetaria deberá consistir en la parte que se conserve en la República, en oro en barras o en monedas, o en barras o monedas de plata consideradas por el valor comercial del metal en ellas contenido, a excepción de las cantidades cuya conservación en moneda fraccionaria, sin exceder del 3% de las monedas de un peso en circulación, se juzgue prudente para asegurar su canje contra dichas monedas de un peso, en los términos de esta ley y según lo demanden las necesidades del mercado monetario.
+Los metales amonedables que ingresen a la Reserva Monetaria en los términos del inciso a) del artículo decimocuarto, serán considerados por su valor comercial en los estados y balances que el Banco de México publique conforme a su Ley Constitutiva.
 
-La parte de la Reserva Monetaria que se conserve en el extranjero deberá depositarse a la vista, en bancos o casas bancarias de primer orden y de completa responsabilidad, o se conservará en depósito en barras de oro o de plata, consideradas estas últimas por su valor comercial.
+Las sumas que en efectivo reciba el Banco de México por la venta del oro o divisas adquiridos en los términos de la fracción II del artículo 2o. reformado de su Ley Constitutiva, serán empleadas de toda preferencia en retirar de la circulación los billetes emitidos a cambio de aquéllos, debiendo estarse en todo caso a lo dispuesto por el párrafo final de dicho artículo 2o. reformado.
 
 ###### ARTICULO 17.
 
-Las monedas de plata que ingresen a la Reserva en canje por monedas fraccionarias, en los términos de esta ley, serán fundidas, a excepción de la cantidad estrictamente necesaria para asegurar el canje de monedas de plata de uno o dos pesos que se retirarán de la circulación.
-
-Igualmente serán fundidas las monedas de cuños anteriores que ingresen a la Reserva por quedar retiradas de la circulación; las monedas fraccionarias de los cuños que esta ley conserva, que ingresen a la Reserva, serán destinadas al canje a la par por monedas de plata de un peso, o a ser fundidas para que se realicen con las barras respectivas las operaciones que esta ley autoriza.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY MONETARIA DE 25 DE JULIO DE 1931, D.O.F. 22 DE MARZO DE 1933)
 
 DISPOSICIONES TRANSITORIAS:
 
@@ -240,23 +246,23 @@ Queda disuelta la Junta Central Bancaria, la cual devolverá a los Bancos el imp
 
 La funciones que, en cuanto a la autorización de la emisión de billetes por redescuento, atribuyó a la Junta Central Bancaria la Ley de 25 de julio de 1931, serán ejercitadas por los consejeros nombrados por los accionistas de la serie "B" del Banco de México. Las funciones de vigilancia que a la propia Junta Central Bancaria atribuyó la Ley de 25 de julio de 1931, sobre los fondos que integran la Reserva Monetaria y que deberá conservar el Banco de México en cajas o bóvedas especiales con separación completa de sus demás existencias, fondos o valores, así como las funciones de vigilancia sobre las reservas legales de la emisión, serán ejercitadas por la Comisión Nacional Bancaria, la cual practicará visitas siempre que lo estime conveniente y por lo menos una vez cada mes, para verificar la debida constitución y conservación de las reservas dichas, y publicará mensualmente, en el "Diario Oficial" y en dos de los diarios de mayor circulación de la capital de la República, el resultado de la verificación.
 
-> <small>(F. DE E., D.O.F. 14 DE ABRIL DE 1932)</small>
-
 ###### ARTICULO TERCERO.
 
-Por esta sola vez, la Secretaría de Hacienda y Crédito Público ordenará la acuñación de monedas de plata de un peso del cuño legal, en la cantidad que sea estrictamente indispensable, a juicio del Consejo de Administración del Banco de México, para corregir la actual insuficiencia de signos de cambio. El producto líquido total de esta acuñación será enterado al Banco de México para que lo conserve y aplique al aumento de las reservas legales de la emisión de billetes y a la formación de la Reserva Monetaria en los mismos términos que previene el artículo segundo de esta ley para los fondos procedentes de las acuñaciones que el Banco de México llegue a ordenar.
-
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 1933)</small>
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY MONETARIA DE 25 DE JULIO DE 1931, D.O.F. 22 DE MARZO DE 1933)
 
 ###### ARTICULO CUARTO.
 
-Por esta sola vez, la Secretaría de Hacienda y Crédito Público ordenará la acuñación de monedas de bronce de cinco centavos y de un centavo, en la cantidad que sea estrictamente indispensable, a juicio del Consejo de Administración del Banco de México, S. A., para corregir la actual insuficiencia de signos de cambio de las especies que se señalan; sin que deba aplicarse, para los efectos de este artículo, lo dispuesto en los párrafos segundo y tercero del artículo 13, reformado, de la Ley de 25 de julio de 1931.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY MONETARIA DE 25 DE JULIO DE 1931, D.O.F. 22 DE MARZO DE 1933)
 
 D.O.F. 23 DE FEBRERO DE 1933.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 22 DE MARZO DE 1933.
+
+###### ARTICULO 1o.
+
+Se deroga el artículo 17 de la Ley Monetaria de 25 de julio de 1931, y los artículos 3o. y 4o. transitorios de la Ley de 9 de marzo de 1932, que reformó dicha Ley Monetaria.
 
 ###### ARTICULO 3°.
 
