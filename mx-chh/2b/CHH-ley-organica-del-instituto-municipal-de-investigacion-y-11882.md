@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-instituto-municipal-de-investigacion-y-11882"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-30"
-last_updated: "1995-09-30"
+last_updated: "2004-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL INSTITUTO MUNICIPAL DE INVESTIGACION Y PLANEACION DEL MUNICIPIO DE JUAREZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de septiembre de 1995.
 
@@ -59,6 +59,10 @@ II. Auxiliar a la autoridad municipal competente en materia de desarrollo urbano
 
 III. Dotar de procesos de planeación y programación eficientes mediante una estructura técnico-operativa capaz de conducir el desarrollo urbano a través de la planeación institucionalizada.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+El presidente municipal, sin perjuicio de las facultades previstas en la presente ley, podrá encargar al Instituto los proyectos y programas de investigación y planeación que considere necesarios para el desarrollo urbano del municipio de Juárez.
+
 IV. Proyectar y proponer el sistema normativo del desarrollo urbano municipal.
 
 V. Proponer los criterios técnicos para el control urbano.
@@ -81,7 +85,11 @@ El patrimonio del organismo se integrará con:
 
 I. Los bienes muebles e inmuebles que se le doten.
 
-II. La asignación presupuestal que le especifique el Ayuntamiento anualmente, el cuál no deberá ser menor al 1.25% del presupuesto anual del Ayuntamiento.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+II. La asignación presupuestal que fije anualmente el ayuntamiento, la cuál deberá permitir que el Instituto cuente con los recursos financieros suficientes para cumplir con los objetivos previstos en el artículo anterior.
+
+El presupuesto que el ayuntamiento fije al Instituto no podrá ser inferior, en términos reales, al aprobado en el ejercicio fiscal inmediato anterior.
 
 III. Las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas o morales.
 
@@ -346,3 +354,19 @@ C.P. FRANCISCO JAVIER BARRIO TERRAZAS
 EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El contenido del último párrafo de la fracción II del artículo 3º se tomará en consideración para el cálculo y aprobación del presupuesto del Instituto a partir del ejercicio fiscal de 2006.
+
+###### ARTÍCULO TERCERO.
+
+Las obligaciones contraídas y ejercidas en el ámbito de su competencia por parte del Instituto, en el ejercicio fiscal de 2004, deberán ser cubiertas por el ayuntamiento al término del ejercicio fiscal vigente o, en su defecto, incorporadas en el presupuesto que corresponde al Instituto.
