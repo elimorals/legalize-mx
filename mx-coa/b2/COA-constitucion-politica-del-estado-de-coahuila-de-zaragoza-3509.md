@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1978-03-24"
+last_updated: "1981-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 1978.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 1981.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1178,13 +1178,23 @@ Las Municipalidades conservarán el territorio que actualmente tienen; pero el C
 
 Los Municipios constituyen entidades con personalidad jurídica y patrimonio propios y por consiguiente son sujetos de derechos y obligaciones.
 
-Cada municipio estará administrado por un Ayuntamiento que será nombrado por elección popular directa y se renovará en su totalidad cada tres años, entrado a funcionar el primero de enero conforme a la Ley, no siendo en todo caso menor de tres el número de munícipes ni mayor de siete conforme el orden siguiente:
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1981)</small>
 
-En los municipios que se cuenten hasta ocho mil habitantes, habrá un Presidente Municipal, un Regidor y un Síndico; en los municipios de más de ocho hasta treinta mil habitantes, habrá un Presidente Municipal, tres Regidores y un Síndico; en los que pasen de treinta mil habitantes, habrá un Presidente Municipal, cuatro Regidores y dos Síndicos.
+Cada Municipio estará administrado por un Ayuntamiento que será nombrado por elección popular directa y se renovará en su totalidad cada tres años, entrado a funcionar el primero de enero, conforme a la Ley, no siendo en todo caso menor de seis el número de munícipes, ni mayor de trece, conforme el orden siguiente:
 
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 1978)</small>
+I. En los Municipios cuya población no exceda de 9,999 habitantes, de acuerdo con el último censo general de población, habrá un Presidente Municipal, tres Regidores y dos Síndicos;
 
-En los municipios cuya población sea de 300,000 o más habitantes, de acuerdo con el último censo, habrá un Presidente Municipal, cuatro Regidores de mayoría relativa, un Regidor electo según el principio de representación proporcional; y dos Síndicos. Para determinar el Regidor que resulte electo según el principio de representación proporcional, se tendrá en cuenta la votación obtenida por los partidos minoritarios que participen en la elección, y de la planilla que resulte con mayor cantidad de votos se tomará al candidato que figure en primer término entre los postulados para el cargo de Regidor.
+II. En los Municipios cuya población sea mayo de 10,000 y hasta 29,999 habitantes, habrá un Presidente Municipal, cinco Regidores y dos Síndicos;
+
+III. En los Municipios cuya población sea mayor de 30,000 y hasta 99,999 habitantes, habrá un Presidente Municipal, siete Regidores y dos Síndicos;
+
+IV. En los Municipios cuya población sea mayor de 100,000 y hasta 299,999 habitantes, habrá un Presidente Municipal, nueve Regidores y dos Síndicos;
+
+V. En los Municipios cuya población sea de 300,000 habitantes o más, habrá un Presidente Municipal, diez Regidores, nueve electos bajo el principio de mayoría relativa, uno por el de representación proporcional, y dos Síndicos.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1981)</small>
+
+Para determinar el Regidor que resulte electo según el principio de representación proporcional, se tendrá en cuenta la votación obtenida por los partidos minoritarios que participen en la elección y de la planilla que resulte con mayor cantidad de votos, se tomará el candidato que figure en primer término entre los postulados para el cargo de Regidor.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1918)</small>
 
@@ -1198,11 +1208,11 @@ Será Presidente del Ayuntamiento, aquel de sus miembros que haya sido electo co
 
 Las faltas temporales del Presidente Municipal, serán suplidas por los regidores del Ayuntamiento, según el orden de su nombramiento.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1942)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1981)</small>
 
 ###### Artículo 127.
 
-La Elección de los Síndicos será también popular directa y se nombrarán en la forma señalada en el Artículo 124, debiendo nombrarse un Suplente para los Síndicos de aquellos Municipios que no excedan de treinta mil habitantes.
+Los Síndicos se denominarán, Primero y Segundo, según el orden de su elección, la cual será también popular directa. Ambos Síndicos tendrán iguales derechos y obligaciones.
 
 ###### Artículo 128.
 
@@ -1957,3 +1967,7 @@ UNICO.- Las presentes reformas y adiciones entrarán en vigor el día siguiente 
 P.O. 24 DE MARZO DE 1978.
 
 UNICO.- Las presentes reformas y adiciones entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE AGOSTO DE 1981.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
