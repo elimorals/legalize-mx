@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1987-04-08"
+last_updated: "1987-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 1987.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -491,9 +491,9 @@ No podrá ser diputado:
 
 I.- El Gobernador en ejercicio, aún cuando se separe definitivamente de su puesto, cualesquiera sea su calidad, el origen y la forma de designación.
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1987)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 1987)</small>
 
-II.- El Secretario de Gobierno, el Secretario de Finanzas, el Secretario de Desarrollo Económico y Social, el Secretario de Obras Públicas y Desarrollo Urbano, el Secretario Estatal de Turismo, el Secretario de Educación y Cultura Popular, el Secretario de Salud y Bienestar Social, el Secretario de Fomento Agropecuario, el Contralor de Gobierno, el Oficial Mayor, el Procurador General de Justicia, los Jueces y cualesquiera otra persona que desempeñe cargo público estatal a menos que se separe definitivamente de su cargo 90 días antes de la fecha de la elección.
+II.- El Secretario de Gobierno, el Secretario de Planeación, Secretario de Finanzas, el Secretario de Desarrollo Económico y Social, el Secretario de Obras Públicas y Desarrollo Urbano, el Secretario Estatal de Turismo, el Secretario de Salud y Bienestar Social, el Secretario de Fomento Agropecuario, el Contralor de Gobierno, el Oficial Mayor, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Jueces y cualesquiera otra persona que desempeñe cargo público o estatal a menos que se separe definitivamente de su cargo 90 días antes de la elección.
 
 III.- Los presidentes municipales o quienes ocupen cualquier cargo municipal, a menos que se separe (sic) del mismo 90 días antes de la elección.
 
@@ -773,7 +773,7 @@ X. Las demás que le confiera expresamente esta Constitución.
 
 #### SECCION TERCERA. De la Administración del Ejecutivo
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1987)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1987)</small>
 
 ###### ARTICULO 78.
 
@@ -797,9 +797,9 @@ IV.- No ser militar en servicio activo o ciudadano con mando en los cuerpos de s
 
 V.- No ser Secretario de Estado o Jefe de Departamento, Ministro de la Suprema Corte de Justicia de la Nación o Procurador General de Justicia de la Nación, en funciones, dentro de los noventa días anteriores a la fecha de la elección.
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1987)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 1987)</small>
 
-VI.- No ser Secretario de Gobierno, Secretario de Planeación, Secretario de Finanzas, Secretario de Desarrollo Económico y Social, Secretario de Obras Públicas y Desarrollo Urbano, Secretario de Educación y Cultura Popular, Secretario de Salud y Bienestar Social, Secretario de Fomento Agropecuario, Secretario Estatal de Turismo, Contralor, Oficial Mayor, Procurador General de Justicia del Estado, dentro de los 90 días anteriores a la fecha de la elección, y
+VI.- No ser Secretario de Gobierno, Secretario de Planeación, Secretario de Finanzas, Secretario de Desarrollo Económico y Social, Secretario de Obras Públicas y Desarrollo Urbano, Secretario de Educación y Cultura Popular, Secretario de Salud y Bienestar Social, Secretario de Fomento Agropecuario, Secretario Estatal de Turismo, Contralor, Oficial Mayor, Procurador General de Justicia, Magistrado del Tribunal Superior de Justicia del Estado, dentro de los 90 días anteriores a la fecha de elección, y
 
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 89 de esta Constitución.
 
@@ -865,9 +865,9 @@ II.- El Gobernador interino, el provisional o el ciudadano que bajo, cualquiera 
 
 Son facultades del Gobernador:
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1987)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 1987)</small>
 
-I.- Nombrar y remover libremente a los Secretarios de: Gobierno, Planeación, Finanzas, Desarrollo Económico y Social, Obras Públicas y Desarrollo Urbano, Educación y Cultura Popular, Fomento Agropecuario, Estatal de Turismo y de Salud y Bienestar Social, así como también al Contralor, al Procurador General de Justicia, al Oficial Mayor y demás servidores y empleados Públicos del Estado, cuyo nombramiento y remoción no esté determinado en la Constitución o en las Leyes.
+I.- Nombrar y remover libremente a los Secretarios de: Gobierno, Planeación, Finanzas, Desarrollo Económico y social, Obras Públicas y Desarrollo Urbano, Educación y Cultura Popular, Fomento Agropecuario, Estatal de Turismo y de Salud y Bienestar Social, así como también al Contralor, al Procurador General de Justicia, al Oficial Mayor y demás servidores y empleados públicos del Estado, cuyo nombramiento o remoción no esté determinado en la constitución o en las leyes.
 
 II.- Nombrar a los magistrados del Tribunal Superior de Justicia, con la aprobación de la Legislatura o la Diputación Permanente, en su caso.
 
@@ -945,7 +945,7 @@ XIII.- Las demás que señalen esta Constitución y sus leyes.
 
 ###### ARTICULO 92.
 
-Para el despacho de los negocios públicos del orden administrativo, habrá un Secretario de Gobierno, un Secretario de Planeación, un Secretario de Finanzas, un Secretario de Desarrollo Económico y Social, un Secretario de Obras Públicas y Desarrollo Urbano, un Secretario de Educación y Cultura Popular, un Secretario de Fomento Agropecuario, un Secretario Estatal de Turismo, un Secretario de Salud y Bienestar Social, un Contralor, un Procurador General de Justicia, un Oficial Mayor y los demás servidores públicos que determine la Ley Orgánica del Poder Ejecutivo, así como los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos y demás órganos creados o que se creen en la forma que determinen las Leyes.
+Para el despacho de los negocios públicos del orden administrativo, habrá un Secretario de Gobierno, un Secretario de Planeación, un Secretario de Finanzas, un Secretario de Desarrollo Económico y Social, un Secretario de Obras públicas y Desarrollo urbano, un Secretario de Educación y Cultura Popular, un Secretario de Fomento Agropecuario, un Secretario Estatal de Turismo, un Secretario de Salud y Bienestar Social, un Contralor, un Procurador General de Justicia, un Oficial Mayor y los demás servidores públicos que determine la Ley Orgánica del Poder Ejecutivo, así como los Organismos Descentralizados creados, Empresas de Participación Estatal, Fideicomisos y demás órganos que se creen en la forma que determinen las leyes.
 
 ###### ARTICULO 93.
 
@@ -955,7 +955,7 @@ Toda Ley o decreto será refrendada por el Secretario de Gobierno y por el funci
 
 El Ministerio Público estará a cargo deun (sic) Procurador General de Justicia y del número de agentes que la ley determine.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1987)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1987)</small>
 
 ###### ARTICULO 95.
 
@@ -963,7 +963,7 @@ Para ser Secretario de Gobierno, Secretario de Planeación, Secretario de Finanz
 
 I.- Ser ciudadano quintanarroense, nativo de la Entidad o con residencia efectiva no menor de cinco años.
 
-II.- Estar en pleno ejercicio de sus derechos políticos, y
+II.- Estar en pleno ejercicio de sus derechos políticos; y
 
 III.- Tener modo honesto de vivir.
 
@@ -1916,3 +1916,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE ABRIL DE 1987.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
