@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1984-01-28"
+last_updated: "1984-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 1984.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -9867,6 +9867,8 @@ Las leyes y reglamentos de Tránsito fijarán, en caso necesario, las tarifas qu
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
+
 ###### ARTICULO 1318.
 
 Son infracciones de tránsito los actos y omisiones señalados en este Código, leyes y reglamentos respectivos.
@@ -9921,129 +9923,373 @@ Las Leyes y Reglamentos de Tránsito del Estado fijarán el procedimiento con ar
 
 ## TITULO UNICO
 
-### CAPITULO II. DE LA PAVIMENTACION
+### CAPITULO II. DE LA PLANEACION, PROGRAMACION Y PRESUPUESTACION DE LA OBRA PUBLICA
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 1327.
 
-El Ejecutivo del Estado, de acuerdo con las prevenciones contenidas en el presupuesto de egresos o en las leyes respectivas, estará obligado a ejecutar todas las obras necesarias para la prestación de los servicios públicos y la realización de los fines propios de su competencia.
+Este Libro contiene disposiciones de orden público e interés social y tiene por objeto regular el gasto y las acciones relativas a la planeación, programación, presupuestación, ejecución, conservación, mantenimiento, demolición y control de la obra pública, que realicen el Gobierno del Estado y los de los municipios, sus organismos descentralizados y las demás entidades que integren sus sectores paraestatales.
+
+Se considera obra pública todo trabajo que tenga por objeto crear, construir, conservar o demoler bienes inmuebles por su naturaleza o disposición de la ley.
+
+Quedan comprendidos:
+
+I.- La construcción, instalación, conservación, mantenimiento, reparación y demolición de los bienes a que se refiere este artículo, incluidos los que tienden a mejorar y utilizar los recursos agropecuarios del Estado y de los municipios, así como los trabajos de exploración, localización, perforación, extracción y aquéllos similares que tengan por objeto la explotación y desarrollo de los recursos naturales;
+
+II.- La construcción, instalación, conservación, mantenimiento, reparación y demolición de los bienes inmuebles destinados a un servicio público o al uso común; y
+
+III.- Todos aquéllos de naturaleza análoga.
+
+Los bienes muebles que deben incorporarse, adherirse o destinarse a un inmueble necesarios para la realización de la obra pública, se sujetarán a las disposiciones de este Libro, sin perjuicio de que las adquisiciones de los mismos se rijan por otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 1328.
 
-El Gobernador del Estado ejecutará las obras a que se refiere el artículo anterior por conducto de las entidades descentralizadas que con tal objeto sean creadas y en su defecto, a través del Departamento de Comunicaciones y Obras Públicas.
+El gasto de la obra pública se sujetará a lo previsto en los presupuestos anuales de egresos del Estado y de los municipios, así como a las disposiciones de la Constitución del Estado y Códigos Administrativo, Fiscal y Municipal.
+
+Estarán sujetos también a estas disposiciones los contratos de servicios relacionados con la obra pública, que requieran celebrar las dependencias y entidades mencionadas en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 1329.
 
-La realización de las obras públicas del Estado podrá también encomendarse a empresas o contratistas particulares, quedando en tal caso a los mencionados organismos del Ejecutivo la revisión y aprobación de los proyectos y la vigilancia permanente del desarrollo de los trabajos a fin de lograr que las obras se sujeten estrictamente a los planos y especificaciones, así como a los términos del contrato correspondiente.
+El Ejecutivo del Estado aplicará estas disposiciones por conducto de la Tesorería General a través de la Dirección de Control de Inversiones por lo que respecta a sus obras y las de su sector paraestatal.
+
+Los ayuntamientos las aplicarán por conducto de sus tesorerías por lo que respecta a sus obras y las de su sector paraestatal. Cuando realicen obras con subsidios o participaciones estatales, intervendrá la Tesorería General del Estado en los términos de este Libro y del Código Fiscal del Estado.
+
+La ejecución de obra pública con cargo total o parcial a fondos estatales, estará sujeta asimismo a estas disposiciones.
+
+La ejecución de obra pública con cargo total o parcial a fondos federales conforme a los convenios entre el Ejecutivo Federal y las entidades federativas, estará sujeta a las disposiciones de la Ley de Obras Públicas de la Federación y en su caso, a lo ordenado en este Libro. Para estos efectos se pactará lo conducente en los mencionados convenios con la participación que corresponda a los municipios interesados.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 1330.
 
-Los contratos relativos a obras públicas deberán contener fundamentalmente:
+Los Gobiernos Estatal y Municipales así como sus entidades del sector paraestatal formularán un inventario de la maquinaria y equipo de construcción a su cuidado o de su propiedad, manteniéndolo debidamente actualizado y el catálogo y archivo de los estudios y proyectos que realicen sobre la obra pública.
 
-I.- Nombre, domicilio y personalidad de los contratantes;
-
-II.- Determinación precisa del objeto del contrato por su calidad, cuantía, ubicación, etc., aludiendo a los planos y especificaciones técnicas necesarias para tal efecto;
-
-III.- Término en que deberán concluirse las obras o tiempo durante el cual estará vigente el contrato;
-
-IV.- Fijación concreta del precio que deberá pagar el Estado, por unidad o en totalidad y enumeración de otras facilidades, compensaciones o contraprestaciones que el propio Estado se obligue a otorgar;
-
-V.- Forma en que deberá pagar el Estado;
-
-VI.- Sanciones en que incurrirá el contratista si no cumple dentro del plazo convenido;
-
-VII.- Las causas o motivos por los cuales el Ejecutivo pueda declarar la caducidad o cancelación administrativa del contrato y suspender la ejecución de las obras. En relación con este punto deberá preverse que antes de decretarse la caducidad o cancelación el contratista tendrá oportunidad de defenderse aportando pruebas y alegando lo que a sus derechos convenga; también se estipulará la liquidación que deba hacerse en caso de suspensión de obras;
-
-VIII.- El monto de la fianza que el contratista deberá otorgar en favor del Gobierno del Estado, ante una institución de crédito legalmente facultada para expedirla, el cual no podrá ser inferior al diez por ciento del costo total de la obra o al importe del anticipo entregado si éste fuere superior al diez por ciento indicado. La garantía no podrá cancelarse sino hasta que haya transcurrido el plazo de un año a contar de la fecha en que el mismo Gobierno haya recibido la obra concluida a su entera satisfacción.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 1331.
 
-Para llevar a cabo una obra pública se requerirá el cumplimiento de los siguientes requisitos:
+Se crea la Comisión Estatal Consultiva de la Obra Pública como órgano de asesoría y consulta para la aplicación de las disposiciones sobre esta materia, que se integrará bajo la presidencia de la Tesorería General del Estado, con representantes permanentes que serán los titulares de la Oficialía Mayor de Gobierno, Departamento de Comunicaciones y Obras Públicas y Dirección de Desarrollo Económico del Estado.
 
-I.- Que el Congreso haya concedido la autorización correspondiente en términos generales o especiales;
+En cada municipio existirá una Comisión Municipal Consultiva de la Obra Pública con funciones e integración equivalente a la Estatal.
 
-II.- Que el Ejecutivo del Estado, en cada caso particular, haya dictado el acuerdo necesario;
+El Ejecutivo del Estado y los ayuntamientos en el ámbito de sus competencias establecerán las bases para la organización y funcionamiento de las comisiones.
 
-III.- Que la Oficialía Mayor y la Tesorería General del Estado hayan recibido copia de dicho acuerdo y del contrato relativo, en su caso, a fin de lograr el debido control sobre las estimaciones del trabajo realizado y las órdenes de pago correspondientes;
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
-IV.- Que se haya recabado la opinión del Jefe del Departamento al que posteriormente debe atribuirse el cuidado de la obra.
+### CAPITULO III. DEL PADRON DE CONTRATISTAS DE OBRA PUBLICA
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 1332.
 
-En caso de que, a juicio del Ejecutivo, una obra pública que vaya a realizarse beneficie directamente a algunos propietarios en cuanto que provoque el aumento de valor de las propiedades de una zona, deberá convocarse a todos los propietarios interesados para exponerles el proyecto que va a realizarse y discutir y fijar el monto de la cooperación que deban aportar y la forma de distribuirla o derramarla entre ellos mismos.
+La planeación de la obra pública que realicen las dependencias y entidades deberá:
+
+I.- Ajustarse a las políticas y prioridades del Estado y municipios, señalados en los planes de desarrollo social y económico que elaboren a corto, mediano y largo plazo, de acuerdo con los recursos asignados y en observancia de las normas y lineamientos que de ellos se deriven;
+
+II.- Considerar de manera jerarquizada las necesidades estatales y municipales y de beneficio económico, social y ambiental que se presenten;
+
+III.- Observar las declaratorias de provisiones, usos, reservas y destinos de áreas y predios que se hubieren hecho conforme a lo dispuesto por las leyes de la materia y los planes de desarrollo económico y social del Estado y municipios;
+
+IV.- Considerar la disponibilidad de recursos con relación a las necesidades de la obra pública;
+
+V.- Prever las obras principales, así como las complementarias o accesorias y las acciones necesarias para poner aquéllas en servicio, estableciendo las etapas que se requieran para su terminación;
+
+VI.- Considerar la tecnología aplicable en función de la naturaleza de la obra; y
+
+VII.- Tomar en cuenta preferentemente, el empleo de los recursos humanos, la utilización de los materiales propios de la región donde se ubique la obra y en igualdad de circunstancias a los contratistas de la localidad.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 1333.
 
-El Jefe del Departamento de Obras Públicas, auxiliado en su caso por otro u otros Jefes de Departamento interesados en la construcción de la obra, presidirá las juntas o reuniones de los propietarios beneficiados. A estas juntas deberá concurrir un representante de la Tesorería General del Estado.
+Las dependencias y entidades elaborarán los programas de obra pública y sus respectivos presupuestos con base en las políticas, prioridades y recursos de la planeación del desarrollo estatal o municipal, considerando:
+
+I.- Los objetivos y metas a corto, mediano y largo plazo;
+
+II.- Las acciones que se han de realizar y los resultados previsibles;
+
+III.- Los recursos necesarios para su ejecución y la calendarización física y financiera de los mismos, así como los gastos de operación; y
+
+IV.- Las unidades responsables de su ejecución.
+
+Asimismo los programas y presupuestos deberán incluir las acciones y recursos para llevar a cabo el proceso de planeación, programación y presupuestación de las obras a que se refiere este Capítulo.
+
+Serán elementos de la obra pública, las investigaciones, asesorías, consultorías especializadas y los estudios técnicos y de preinversión que requiera su realización.
+
+En la programación de la obra pública, se preverán la realización de los estudios y proyectos arquitectónicos y de ingeniería que se requieran y las normas y especificaciones de ejecución aplicables.
+
+El programa de la obra pública indicará las fechas previstas de iniciación y terminación de todas sus fases, considerando las acciones previas a su iniciación y las características ambientales, climatológicas y geográficas de la región donde deba realizarse.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 1334.
 
-Si los propietarios llegan a un acuerdo con los representantes del Ejecutivo respecto al monto de la cooperación y la proporción y forma en que deba distribuirse entre los beneficiados, se formulará desde luego un convenio que deberán firmar los propietarios que hayan aceptado la derrama y los funcionarios del Gobierno del Estado que participen en las juntas.
+Dentro de su programa, elaborarán los presupuestos de cada una de las obras públicas que deban realizar, distinguiendo las que se han de ejecutar por contrato o por administración directa. Los presupuestos incluirán, según el caso, los costos correspondientes a:
 
-### CAPITULO I. DE LOS GANADEROS
+I.- Las investigaciones, asesorías, consultorías y estudios que se requieran;
+
+II.- Los proyectos arquitectónicos y de ingeniería necesarios;
+
+III.- La regularización y adquisición de la tierra;
+
+IV.- La ejecución, que deberá incluir el costo estimado de la obra que se realiza por contrato y, en caso de realizarse por administración directa, los costos de los recursos necesarios, las condiciones de suministro de materiales, de maquinaria, de equipos o de cualquier otro accesorio relacionado con la obra; los cargos adicionales para prueba y funcionamiento, así como los indirectos de la obra;
+
+V.- La infraestructura complementaria que requiera la obra;
+
+VI.- Las obras relativas a la preservación, restauración y mejoramiento de las condiciones ambientales; y
+
+VII.- Las demás previsiones que deban tomarse en consideración según la naturaleza y características de la obra.
+
+En obras cuya ejecución rebase un ejercicio presupuestal, deberá determinarse tanto el presupuesto total, como el relativo a los ejercicios de que se trate.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 1984)</small>
+
+### CAPITULO IV. DE LOS SERVICIOS RELACIONADOS CON LA OBRA PUBLICA
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 1335.
 
-Cuando los propietarios no acepten la derrama que se proponga o nieguen toda cooperación, deberá constituirse una comisión que estudie la situación de cada uno de los propietarios remisos y determine si deben excluirse de la cooperación o si deben otorgarla y en qué forma y cuantía.
+El Departamento de Comunicaciones y Obras Públicas llevará el Padrón de Contratistas de Obra Pública y fijará los criterios y procedimientos para clasificar a las personas inscritas en él, de acuerdo con su especialidad, capacidad técnica y económica. El Padrón será público.
+
+El Gobierno del Estado, municipios y sus entidades del sector paraestatal sólo podrán celebrar contratos de obra pública o de servicios relacionados con la misma, con las personas inscritas en el Padrón, cuyo registro esté vigente.
+
+La clasificación a que se refiere este artículo deberá ser considerada en la convocatoria y contratación de la obra pública.
+
+Las personas interesadas en inscribirse en el Padrón deberán solicitarlo por escrito, acompañando la siguiente información y documentos:
+
+I.- Datos generales y capacidad legal;
+
+II.- Experiencia y especialidad;
+
+III.- Recursos patrimoniales, técnicos, económicos y financieros;
+
+IV.- Ultima declaración del Impuesto sobre la Renta;
+
+V.- Cédula profesional, para el caso de prestación de servicios;
+
+VI.- Registro en el Instituto Mexicano del Seguro Social, en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y en el de Estadística de la Dirección de Desarrollo Económico del Estado; y
+
+VII.- Los demás documentos e información que considere pertinente.
+
+El Departamento podrá verificar la información a que se refiere este artículo.
+
+La inscripción en el Padrón tendrá una vigencia de un año contado a partir del 1o. de enero al 31 de diciembre. Quienes tengan interés en continuar inscritos presentarán dentro de los treinta días hábiles anteriores al vencimiento de su registro, solicitud de revalidación, acompañando la información y documentos que procedan, en los términos de los párrafos anteriores.
+
+El Departamento dentro de un término que no excederá de quince días hábiles contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción o revalidación.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 1336.
 
-La comisión antes indicada deberá constituirse por el Jefe del Departamento de Comunicaciones y Obras Públicas, un representante de la Tesorería General del Estado, un representante del o los Municipios en cuya jurisdicción se haga la obra, un representante del grupo de propietarios interesados y un representante de la Cámara respectiva o de los ganaderos y agricultores si no se trata de una obra urbana.
+Procederá la suspensión o cancelación del registro a que se refiere el artículo anterior en los siguientes casos:
 
-### CAPITULO II. MARCA Y PROPIEDAD DE LOS GANADOS
+A.- Se suspenderá el registro cuando:
+
+I.- Se les declare en estado de quiebra o, en su caso, sujetos a concurso de acreedores;
+
+II.- Incurran en cualquier acto u omisión que les sea imputable y que perjudique los intereses de la contratante;
+
+III.- Hayan celebrado contratos en contravención a lo dispuesto en este Libro, por causas que le sean imputables; y
+
+IV.- Se les declare incapacitados legalmente para contratar.
+
+B.- Se cancelará el registro cuando:
+
+I.- La información que hubieren proporcionado para la inscripción o revalidación resultase falsa, o hayan actuado con dolo o mala fe en una subasta o ejecución de una obra;
+
+II.- No cumplan en sus términos con algún contrato por alguna causa imputable a ellos y perjudique gravemente los intereses de la contratante, o el interés general; y
+
+III.- Se les declare en quiebra fraudulenta.
+
+Las resoluciones que nieguen las solicitudes de inscripción o revalidación, o determinen la suspensión o la cancelación del registro en el Padrón se notificarán personalmente o por correo certificado con acuse de recibo en el domicilio que el interesado haya señalado. Contra las mismas podrá interponer el recurso de revisión en los términos de este Código.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 1984)</small>
+
+### CAPITULO V. DE LA CONTRATACION Y EJECUCION DE LA OBRA PUBLICA
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 1337.
 
-La comisión antes indicada resolverá en forma equitativa, recabando todas las informaciones que estime convenientes y tomando en cuenta tanto las condiciones de cada propiedad y cada propietario beneficiado, como la naturaleza de la obra que haya de emprenderse y las consecuencias benéficas que haya de producir.
+Podrán contratarse servicios profesionales de investigación, consultoría y asesoría especializados, estudios y proyectos para cualquiera de las fases de la obra pública, su dirección y supervisión. Estos contratos podrán adjudicarse directamente, quedando en lo demás sujetos a las disposiciones de este Libro.
 
-### CAPITULO III. ANIMALES MOSTRENCOS
+No quedan comprendidos dentro de esos servicios los que tengan como fin la ejecución de la obra por cuenta y orden de las dependencias o entidades.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 1984)</small>
+
+### CAPITULO VI. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 1338.
 
-La comisión no podrá revocar sus determinaciones, pero éstas podrán recurrirse ante el Gobernador del Estado, quien resolverá en definitiva.
+La obra pública podrá realizarse por contrato o por administración directa.
+
+Para contratar y ejecutar obra pública se requiere que:
+
+I.- La obra esté incluida en el programa de inversión autorizado;
+
+II.- Se cuente con los estudios, proyectos, normas y especificaciones de construcción; el presupuesto, el programa de ejecución y, en su caso, el de suministro; y
+
+III.- Se cumplan los trámites o gestiones complementarios que se relacionen con la obra y los que deban realizarse conforme a las disposiciones estatales y municipales.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 1339.
 
-La cooperación que a cada propietario corresponda, ya sea por convenio voluntariamente aceptado, como por determinación de la comisión, será exigible por la Tesorería General del Estado mediante el ejercicio de la facultad económico-coactiva.
+Los contratos de obra pública serán adjudicados en subasta, mediante convocatoria para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública.
+
+Las dependencias y entidades enviarán la convocatoria a las Tesorerías en el momento en que aquélla sea expedida, y remitirán además los documentos que se requieran.
+
+Las convocatorias, que podrán referirse a una o más obras, se publicarán en el Periódico Oficial del Gobierno del Estado y contendrán cuando menos:
+
+I.- El nombre de la entidad convocante;
+
+II.- El lugar y descripción general de la obra que se desee ejecutar;
+
+III.- Los requisitos que deberán cumplir los interesados;
+
+IV.- La fecha límite para la inscripción en el proceso de licitación que deberá fijarse en un plazo no menor de diez días hábiles contados a partir de la publicación de la convocatoria;
+
+V.- El lugar, fecha y hora en que se celebrará el acto de apertura de proposiciones; y
+
+VI.- Los criterios conforme a los cuales se decidirá la adjudicación.
+
+Los interesados deberán garantizar la seriedad de las proposiciones en los procedimientos de adjudicación, el cumplimiento de los contratos y la correcta inversión en la obra de los anticipos que en su caso reciban.
+
+Las garantías se otorgarán a favor de las tesorerías, salvo que se trate de entidades de los sectores paraestatales, en cuyo caso las garantías se constituirán en su favor.
+
+La convocante, con base en su propio presupuesto y en el análisis de las proposiciones admitidas, emitirá un dictamen que servirá como fundamento para el fallo.
+
+En junta pública se dará a conocer el fallo mediante el cual se adjudicará la obra a la persona que reúna las condiciones necesarias y garantice satisfactoriamente el cumplimiento del contrato, la ejecución de la obra y presente la postura más baja. No se adjudicará el contrato cuando las posturas presentadas no fuesen aceptables y se procederá a expedir una nueva convocatoria. Contra el fallo que se dicte no procederá recurso alguno.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 1340.
 
-En caso de que la ejecución de una obra pública requiera la ocupación de propiedades privadas, se tramitarán las expropiaciones correspondientes, conforme a las disposiciones de la materia.
+Se podrá optar por contratar obras sin llevar a cabo las licitaciones que establece el artículo anterior en los casos siguientes:
+
+I.- Cuando existan condiciones o circunstancias extraordinarias o imprevisibles;
+
+II.- Cuando peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado, como consecuencia de desastres producidos por fenómenos naturales o por casos fortuitos o de fuerza mayor;
+
+III.- Cuando la dependencia o entidad hubiere rescindido el contrato respectivo. En estos casos se verificará previamente, conforme al criterio de adjudicación que establece el tercer párrafo del artículo 1341 si existe una proposición que resulte aceptable, en cuyo caso el contrato se celebrará con el contratista respectivo;
+
+IV.- Cuando se trate de trabajos cuya ejecución requiera de la aplicación de sistemas y procedimientos de tecnología avanzada;
+
+V.- Cuando se trate de trabajos de conservación, mantenimiento, restauración, reparación y demolición, en los que no sea posible precisar su alcance, establecer el catálogo de conceptos y cantidades de trabajo, determinar las especificaciones correspondientes o elaborar el programa de ejecución; y
+
+VI.- Cuando se trate de trabajos que requieran, fundamentalmente, de mano de obra campesina o urbana marginada y que la dependencia o entidad contrate directamente con los habitantes beneficiarios de la localidad o del lugar donde deba ejecutarse la obra, o con las personas morales o agrupqciones (sic) legalmente establecidas y constituidas por los propios habitantes beneficiarios.
+
+La opción deberá fundarse en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
+
+Cuando por razón del monto de la obra resulte inconveniente llevar a cabo el procedimiento a que se refiere el artículo 1339 por el costo que éste represente, se podrá contratar sin ajustarse a dicho procedimiento, siempre que el monto objeto del contrato no exceda de los límites a que se refiere este artículo y se satisfagan los requisitos que el mismo señala.
+
+Para los efectos del párrafo anterior, el límite del monto máximo del objeto del contrato será en el caso del Estado, cincuenta veces el salario mínimo general de la zona elevado al año y para los municipios veinticinco veces.
+
+Cada obra deberá considerarse individualmente, a fin de determinar si queda comprendida dentro de los montos máximos y en ningún caso el importe total de una obra podrá ser fraccionado para que quede comprendida en los supuestos a que se refiere este artículo.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 1341.
 
-El Ejecutivo del Estado dictará el reglamento para la ejecución de las obras públicas del Estado, conforme a las bases contenidas en los artículos anteriores.
+No podrán presentar propuestas ni celebrar contrato alguno de obra pública, las personas físicas o morales siguientes:
+
+I.- Aquéllas en cuyas empresas participe el funcionario que deba decidir directamente, o los que le hayan delegado tal facultad sobre la adjudicación del contrato, o su cónyuge, o sus parientes civiles, consanguíneos, o por afinidad hasta el cuarto grado, sea como accionistas, administradores, gerentes, apoderados, comisarios o sus acreedores;
+
+II.- Los contratistas que por causas imputables a ellos se encuentren en situación de mora, respecto de la ejecución de otra u otras obras públicas que tengan contratadas; y
+
+III.- Los demás que se encuentren impedidos por disposición de la ley.
+
+Lo anterior se aplicará también a los contratos de servicios relacionados con la obra pública.
+
+La adjudicación del contrato obligará a la convocante y a la persona en quien hubiere recaído dicha adjudicación, a formalizar el documento relativo dentro de los veinte días hábiles siguientes. Si el interesado no firmare el contrato perderá en favor de la convocante la garantía que hubiere otorgado y sin necesidad de un nuevo procedimiento, adjudicará el contrato al participante siguiente, en los términos del artículo 1339 y de su propuesta y así sucesivamente.
+
+El contratista a quien se adjudique el contrato no podrá hacer ejecutar la obra por otro, pero, con autorización previa de la entidad respectiva, podrá hacerlo respecto de parte de aquélla o cuando adquiera materiales o equipo que incluyan su instalación. El contratista seguirá siendo responsable de la ejecución y el subcontratista no quedará subrogado en ninguno de los derechos del primero.
+
+Los contratos se celebrarán a precio alzado o sobre la base de precios unitarios.
+
+Forman parte del contrato la descripción pormenorizada de la obra que se deba ejecutar, así como los proyectos, planos, especificaciones, programas y presupuestos.
+
+La obra deberá iniciarse en la fecha señalada y la contratante oportunamente pondrá a disposición del contratista el o los inmuebles en que se deba llevar a cabo.
+
+La contratante podrá dentro del programa de inversión aprobado, bajo su responsabilidad y por razones fundadas y explícitas de interés general expresadas en acuerdo escrito, modificar por una sola vez los contratos cuando ello no implique alteraciones de más de un 25% en el plazo o en el monto, ni variaciones sustanciales en el proyecto. Si las modificaciones exceden el porcentaje indicado o varían sustancialmente el proyecto, deberá celebrarse convenio adicional entre las partes respecto de las nuevas condiciones de la obra, por una sola vez.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 1342.
 
-Cuando los Ayuntamientos carezcan de los recursos económicos necesarios para pavimentar las calles, plazas, jardines y demás lugares públicos, comprendidos en las poblaciones ubicadas dentro del Municipio respectivo, el Ejecutivo del Estado estará facultado para realizar su pavimentación. Los Ayuntamientos y en su caso, el Ejecutivo, se sujetarán a las disposiciones contenidas en los artículos siguientes.
+La contratante podrá suspender temporalmente en todo o en parte la obra contratada, por cualquier causa justificada y rescindir administrativamente los contratos de obra por razones de interés general o por contravención a los términos del contrato o de las disposiciones de este Libro.
+
+La contratante comunicará la suspensión o la rescisión al contratista, dentro de los diez días hábiles siguientes a la fecha en que se emita la resolución. En el contrato se estipularán las diversas consecuencias de la suspensión y de la rescisión.
+
+Las estimaciones de trabajo ejecutado, correspondientes a contratos en ejercicio, se formularán y autorizarán bajo la responsabilidad de la dependencia o entidad contratante.
+
+El contratista comunicará a la contratante la terminación de los trabajos que le fueron encomendados y ésta verificará que estén debidamente concluidos dentro de los treinta días hábiles siguientes, salvo que se pacte expresamente otro plazo. La recepción de los trabajos se hará dentro de los treinta días hábiles siguientes a la fecha en que se haya constatado su terminación en los términos del párrafo anterior. En la fecha señalada la contratante, bajo su responsabilidad, recibirá los trabajos y levantará el acta correspondiente.
+
+Concluida la obra, no obstante su recepción formal, el contratista quedará obligado a responder de los defectos que resultaren en la misma, de los vicios ocultos y de cualquier otra irregularidad en que hubiera incurrido, en los términos señalados en el contrato respectivo, en este Libro y en los Códigos Civil y Municipal.
+
+Los contratos que con base en este Libro se celebren son de derecho público y las controversias que se susciten con motivo de la interpretación o la aplicación de estas disposiciones o de los contratos celebrados, serán resueltas mediante juicio de oposición previsto en el Código Fiscal el Estado.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 1343.
 
-El costo de la pavimentación será cubierto en la forma siguiente:
+Podrán ejecutarse obras por administración directa mediante acuerdo en que se consigne: la descripción de la obra, proyectos, planos, especificaciones, programas de ejecución, de suministro y el presupuesto correspondiente.
 
-I.- Los propietarios de fincas o lotes urbanos, pagarán el valor del pavimento en el área comprendida entre las guarniciones de la banqueta, en la extensión lineal del frente de la finca o lote y el eje central de la calle;
+Concluída la obra o parte utilizable de la misma, sea que se haya realizado por administración directa o por contrato, se hará entrega a la unidad burocrática que deba operarla, con los planos actualizados, informándole además las normas y especificaciones que fueron aplicadas en su ejecución así como los manuales e instructivos de operación, conservación y mantenimiento.
 
-II.- Cuando la finca o lote esté situado en esquina, el propietario pagará además de la superficie que señala el inciso anterior, el área de pavimentación hasta el punto de intersección de los ejes de las calles adyacentes;
+Recibida la obra, la unidad que deba operarla estará obligada a mantenerla en niveles apropiados de funcionamiento y vigilar que su uso, operación, mantenimiento y conservación se realice conforme a los objetivos y acciones de los programas respectivos y llevará registros de los gastos inherentes.
 
-III.- Cuando en la vía que se pretende pavimentar existan líneas de ferrocarril o de tranvías, las empresas propietarias tendrán la obligación de cubrir el valor del pavimento comprendido entre los dos rieles y, además, en una faja externa de un metro de ancho a cada lado y a lo largo de los dos rieles;
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
-IV.- El pago del valor del pavimento que corresponda a los propietarios de fincas, será cubierto en los plazos y condiciones que para cada caso fijará el Ejecutivo con la aprobación del Congreso del Estado.
-
-### CAPITULO IV. INSPECCION DE GANADOS
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1344.
 
-Cuando el Ejecutivo del Estado, a iniciativa propia o de algún Ayuntamiento, acuerde pavimentar parcial o totalmente las calles de una población, someterá a la aprobación del Congreso sus proyectos, presupuestos, especificaciones, forma de pago y demás requisitos y datos necesarios para que éste pueda resolver si es o no de aprobarse la pavimentación proyectada. Los Comités de Obras o de Servicios Públicos y Administradores del tanto por ciento de los ingresos aduanales, en las poblaciones fronterizas, se ajustarán a las mismas prescripciones, enviando la iniciativa correspondiente al Congreso por conducto del Ejecutivo del Estado.
+Los contratistas que incurran en infracciones a este Libro, serán sancionados por las tesorerías con una multa equivalente de diez a mil veces el salario mínimo diario vigente en el lugar y tiempo en que se cometa la infracción, según la gravedad del acto u omisión de que fueren responsables; con la suspensión o cancelación del registro en el Padrón de Contratistas de Obras Públicas y la rescisión administrativa del contrato.
+
+A los funcionarios y empleados públicos que infrinjan las disposiciones de este Libro se les aplicarán las sanciones relativas a las responsabilidades de los servidores públicos.
+
+Las multas se impondrán conforme a los siguientes criterios:
+
+I.- Se tomará en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de destruir prácticas tendientes a infringir, en cualquier forma las disposiciones de este Libro o las que se dicten con base en él;
+
+II.- Cuando sean varios los responsables, cada uno podrá ser sancionado con el total de la multa que se imponga;
+
+III.- Tratándose de reincidencia, se impondrá otra multa mayor, dentro de los límites señalados en este artículo o se duplicará la multa inmediata anterior que se hubiere impuesto; y
+
+IV.- En el caso en que persista la infracción, se impondrán multas como tratándose de reincidencia, por cada día que transcurra.
+
+No se impondrán sanciones cuando se haya incurrido en la infracción por causa de fuerza mayor, caso fortuito o cuando se observe en forma espontánea el precepto que se hubiere dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando la omisión sea descubierta por las autoridades o medie requerimiento, visita, excitativa o cualquiera otra gestión efectuada por las mismas.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 1345.
 
-Las obras de pavimentación podrán ejecutarse por contrato celebrado con personas o empresas pavimentadoras, con las formalidades que exija el Código Civil o bajo la administración directa del Ayuntamiento o del Ejecutivo del Estado, por conducto del Departamento de Comunicaciones y Obras Públicas.
+En el procedimiento para la aplicación de las sanciones a que se refiere este Capítulo, se observarán las siguientes reglas.
+
+I.- Se comunicarán por escrito al presunto infractor los hechos constitutivos de la infracción, para que dentro del término de quince días hábiles, exponga lo que a su derecho convenga, aporte las pruebas que estime pertinentes y alegue; y
+
+II.- La resolución se dictará dentro del plazo de 60 días, será debidamente fundada y motivada y se comunicará por escrito al afectado.
+
+El mismo procedimiento se seguirá en los casos de rescisión de contratos de obra y suspensión o cancelación del registro en el Padrón de Contratistas.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 1346.
 
-El valor de la pavimentación que corresponda pagar a los propietarios, constituirá un gravamen real sobre la finca o lote de que sean dueños y gravitará sobre los mismos bienes hasta que sea totalmente cubierto, cualesquiera que sean los cambios de dominio operados posteriormente. Para el cobro de los créditos que resulten a favor del fisco municipal o del Estado, se usarán los procedimientos económico-coactivos que el Código Fiscal o el Municipal previenen para la percepción de los impuestos y derechos.
+Los funcionarios y empleados públicos que en el ejercicio de sus funciones, tengan conocimiento de infracciones a este Libro o de las normas que del mismo se deriven, deberán comunicarlo a las tesorerías correspondientes.
+
+Las responsabilidades a que se refiere el presente Libro son independientes de las de orden civil, penal y oficial que puedan derivarse de la comisión de los mismo hechos.
+
+Los actos, convenios, contratos y negocios jurídicos que se realicen en contravención a lo dispuesto por este Libro serán nulos de pleno derecho.
 
 OCTAVA PARTE
 
@@ -10051,7 +10297,7 @@ OCTAVA PARTE
 
 ## TITULO UNICO
 
-### CAPITULO V. ABASTO PUBLICO
+### CAPITULO I. DE LOS GANADEROS
 
 ###### ARTICULO 1347.
 
@@ -10073,7 +10319,7 @@ Por conducto del Departamento de Agricultura se dictarán las medidas generales 
 
 ## TITULO UNICO. DE LA PROTECCION GENERAL DE LA GANADERIA
 
-### CAPITULO VI. TRANSPORTE DE GANADO
+### CAPITULO II. MARCA Y PROPIEDAD DE LOS GANADOS
 
 ###### ARTICULO 1351.
 
@@ -10083,7 +10329,7 @@ Se declara de utilidad pública en el Estado de Chihuahua, la cría de ganado ma
 
 Se considera como ganadero para los efectos de este Código, a toda persona, sociedad o asociación que se dedique a la cría de ganado, cualquiera que sea el número de cabezas que posea.
 
-### CAPITULO VII. VIGILANCIA DE LOS GANADOS
+### CAPITULO III. ANIMALES MOSTRENCOS
 
 ###### ARTICULO 1353.
 
@@ -10161,7 +10407,7 @@ La propiedad de los animales se transfiere por los medios que establece el derec
 
 Las autoridades municipales y los inspectores de ganadería, no autorizarán ningún transporte de ganado que no esté amparado precisamente con la factura original expedida por el dueño del fierro del "criador" aunque dichos animales aparezcan venteados.
 
-### CAPITULO VIII. DE LAS CORRIDAS
+### CAPITULO IV. INSPECCION DE GANADOS
 
 ###### ARTICULO 1372.
 
@@ -10211,7 +10457,7 @@ La venta de animales mostrencos se hará únicamente en las cabeceras municipale
 
 Cualquiera contienda que se suscite con motivo de los artículos anteriores entre los interesados y la autoridad, será resuelta por la autoridad judicial competente.
 
-### CAPITULO IX. DEL REGISTRO GENEALOGICO
+### CAPITULO V. ABASTO PUBLICO
 
 ###### ARTICULO 1384.
 
@@ -10275,7 +10521,7 @@ Al tratarse de ganado comprado que esté herrado con el fierro del último adqui
 
 Será obligación el cancelar los pases de ganado cuando éstos lleguen a su lugar de destino; en la cancelación deberán de poner la fecha, así como la firma y el sello correspondiente, a la vez harán la cancelación de las facturas con las cuales se amparó el ganado una vez que haya sido sacrificado en el rastro. Al ser ganado que se destine para su industrialización en las plantas, el inspector cancelará la documentación respectiva al ser recibido de conformidad por la empresa. Si es ganado que se destine para la engorda, las facturas serán canceladas una vez que el ganado se sacrifique o salga del Estado.
 
-### CAPITULO X. SANIDAD ANIMAL
+### CAPITULO VI. TRANSPORTE DE GANADO
 
 ###### ARTICULO 1393.
 
@@ -10315,7 +10561,7 @@ La matanza clandestina de ganado será castigada por la autoridad administrativa
 
 En cooperación con las autoridades y rastros municipales, los inspectores de ganadería visitarán los establecimientos en los cuales se expenda carne, para comprobar que esta misma esté debidamente sellada; al no llenar este requisito la carne será decomisada y sus propietarios serán consignados a la autoridad correspondiente para que se proceda contra éstos en los términos de ley.
 
-### CAPITULO XI. PREVENCIONES GENERALES
+### CAPITULO VII. VIGILANCIA DE LOS GANADOS
 
 ###### ARTICULO 1402.
 
@@ -10403,7 +10649,7 @@ Si el inspector encontrase que la procedencia o la propiedad de alguna de las pi
 
 El infractor de los artículos 1402, 1405, 1406 y 1417 será castigado administrativamente con una multa hasta de quinientos pesos, sin perjuicio de ser consignado a las autoridades respectivas en caso de resultarle otras responsabilidades. En caso de reincidencia se duplicará la pena.
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO VIII. DE LAS CORRIDAS
 
 ###### ARTICULO 1422.
 
@@ -10435,7 +10681,7 @@ La persona que haga la corrida dentro de terreno ajeno, no deberá arrear ganado
 
 Nadie tendrá derecho a pastar ganados en terrenos ajenos. El ganadero que encuentre dentro de su predio animales que no sean de su propiedad, queda facultado para avisar, por conducto del Comisario de Policía más próximo a los dueños, para que se presenten a recogerlos dentro del término de tres días, más el que sea necesario emplear por razón de la distancia, y transcurrido que sea éste sin que se presente el interesado, puede remitirlos a la autoridad municipal más próxima.
 
-### CAPITULO UNICO. DE LA ESTADISTICA
+### CAPITULO IX. DEL REGISTRO GENEALOGICO
 
 ###### ARTICULO 1429.
 
@@ -10471,9 +10717,7 @@ La entrega de los mostrencos a que se refiere el artículo anterior, se hará po
 
 Los Comisarios de Policía o comisionados, no tendrán ninguna participación de los ingresos que tengan los Municipios por concepto de remate de animales mostrencos.
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+### CAPITULO X. SANIDAD ANIMAL
 
 ###### ARTICULO 1437.
 
@@ -10517,9 +10761,7 @@ Los datos a que se refiere el artículo 1437 se anotarán inmediatamente en el l
 
 Por el registro de animales de "sangre pura" se cobrará la cantidad que fijen las disposiciones fiscales.
 
-### CAPITULO II. PROGRAMA DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+### CAPITULO XI. PREVENCIONES GENERALES
 
 ###### ARTICULO 1442.
 
@@ -10549,9 +10791,7 @@ En caso de falta de cumplimiento a los artículos anteriores, se aplicará a los
 
 El Ejecutivo del Estado queda facultado para reglamentar todo lo concerniente a medidas preventivas o curativas que estime convenientes, a fin de combatir las enfermedades del ganado; igualmente podrá decretar las "cuarentenas" que estime oportunas en las zonas infestadas, sujetándose en todos los casos a las disposiciones vigentes en materia de sanidad y policía veterinaria.
 
-### CAPITULO III. LA PLANEACION URBANA
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1449.
 
@@ -10573,9 +10813,7 @@ ECONOMIA
 
 ## TITULO PRIMERO
 
-### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+### CAPITULO UNICO. DE LA ESTADISTICA
 
 ###### ARTICULO 1452.
 
@@ -10595,7 +10833,7 @@ VI.- Fundar y mantener organismos coordinados, establecimientos públicos descen
 
 ## TITULO SEGUNDO
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10667,7 +10905,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO II. PROGRAMA DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10747,9 +10985,9 @@ Los notarios públicos y los funcionarios que actúen por receptoría sólo podr
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO VII. DE LAS CONURBACIONES
+### CAPITULO III. LA PLANEACION URBANA
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1466.
 
@@ -10861,9 +11099,9 @@ La actividad del Organismo no causará contribuciones al fisco del Estado.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 #### SECCION PRIMERA. PLAN ESTATAL
 
@@ -11083,9 +11321,9 @@ IX.- Las demás que les otorguen las disposiciones legales relativas.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO II. DE LA JUNTA CENTRAL DE AGUA Y SANEAMIENTO
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 #### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
@@ -11329,11 +11567,11 @@ También se considerarán ilegales la fusión, subdivisión, relotificación y f
 
 En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de Desarrollo Urbano podrá intervenir en coordinación con aquél en la administración de los fraccionamientos, subdivisiones, relotificaciones o fusiones o en las operaciones celebradas con estos motivos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 1984)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 1515.
 
@@ -11381,13 +11619,11 @@ II.- A la introducción de los servicios públicos.
 
 Una vez determinados los jefes de familia beneficiados y cubierto el precio, la Presidencia Municipal otorgará los títulos de propiedad o el Programa de Desarrollo Urbano del Estado los documentos a que se refiere el Artículo 1467 de este Título, los que deberán inscribirse en el Registro Público de la Propiedad respectivo sin causar derechos al fisco del Estado.
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-DECIMA PRIMERA PARTE
+#### SECCION QUINTA. DE LA VIVIENDA
 
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-#### SECCION SEXTA. DEL MEJORAMIENTO
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1521.
 
@@ -11431,9 +11667,7 @@ Para la construcción de viviendas deberá mediar solicitud del interesado ante 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1525.
 
@@ -11475,9 +11709,9 @@ En el caso de que los propietarios o poseedores no cumplan con las obligaciones 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1529.
 
@@ -11529,9 +11763,9 @@ VI.- Régimen financiero para la ejecución de la obra.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO III. JUNTAS MUNICIPALES DE AGUA Y SANEAMIENTO
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1533.
 
@@ -11547,9 +11781,9 @@ Para la conservación del patrimonio a que se refiere el artículo anterior, el 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO IV. CONEXION DE LOS SERVICIOS DE AGUA Y SANEAMIENTO
+### CAPITULO VII. DE LAS CONURBACIONES
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1535.
 
@@ -11601,7 +11835,7 @@ A partir de la publicación de los planes de desarrollo urbano prevista en el ar
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO V. INSPECCION Y PAGO DE LOS SERVICIOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
@@ -11647,7 +11881,11 @@ Cuando el Gobernador del Estado haya hecho una declaratoria de conurbación, dis
 
 Las declaratorias de conurbación para que surtan sus efectos serán publicadas por una sola vez en el Periódico Oficial del Estado y en dos periódicos de mayor circulación en la localidad que corresponda, debiendo inscribirse en la Oficina del Registro Público de la Propiedad respectiva.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 1984)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
 # LIBRO UNICO. SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO
 
@@ -11657,7 +11895,7 @@ Las declaratorias de conurbación para que surtan sus efectos serán publicadas 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-### CAPITULO VI. INFRACCIONES Y SANCIONES
+### CAPITULO II. DE LA JUNTA CENTRAL DE AGUA Y SANEAMIENTO
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
@@ -11683,9 +11921,9 @@ Las autoridades Estatales y Municipales y los habitantes del Estado tienen el de
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. JUNTAS MUNICIPALES DE AGUA Y SANEAMIENTO
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ###### ARTICULO 1551.
 
@@ -11829,9 +12067,9 @@ En el caso de que el ingreso proveniente de las cuotas de recuperación determin
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
-### CAPITULO II. DE LA RESPONSABILIDAD DE LOS ALTOS FUNCIONARIOS DEL ESTADO
+### CAPITULO IV. CONEXION DE LOS SERVICIOS DE AGUA Y SANEAMIENTO
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ###### ARTICULO 1561.
 
@@ -11999,9 +12237,9 @@ Las Juntas Municipales de Agua y Saneamiento están facultadas para establecer e
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-### CAPITULO III. DE LA RESPONSABILIDAD DE LOS DEMAS FUNCIONARIOS Y EMPLEADOS PUBLICOS
+### CAPITULO V. INSPECCION Y PAGO DE LOS SERVICIOS
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ###### ARTICULO 1578.
 
@@ -12053,9 +12291,9 @@ El mantenimiento de las líneas generales estará a cargo de las Juntas Municipa
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-### CAPITULO I. DE LAS COMPETENCIAS
+### CAPITULO VI. INFRACCIONES Y SANCIONES
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ###### ARTICULO 1586.
 
@@ -12125,7 +12363,7 @@ Los adeudos a cargo de los usuarios, provenientes de cualquiera de los conceptos
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-### CAPITULO II. DE LOS PROCEDIMIENTOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -12249,7 +12487,7 @@ DECIMA SEGUNDA PARTE
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LA RESPONSABILIDAD DE LOS ALTOS FUNCIONARIOS DEL ESTADO
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -12333,7 +12571,7 @@ Los funcionarios del Estado y municipales, en las poblaciones fronterizas, tiene
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO II. DEL DOMINIO PUBLICO
+### CAPITULO III. DE LA RESPONSABILIDAD DE LOS DEMAS FUNCIONARIOS Y EMPLEADOS PUBLICOS
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -12383,7 +12621,7 @@ Los funcionarios y empleados que gocen de fuero, no disfrutarán de éste en cua
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
+### CAPITULO I. DE LAS COMPETENCIAS
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -12435,7 +12673,7 @@ DECIMA TERCERA PARTE
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO IV. DE LOS MUEBLES DEL DOMINIO PRIVADO
+### CAPITULO II. DE LOS PROCEDIMIENTOS
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -12487,11 +12725,11 @@ En los casos en que este Código no haya establecido recurso alguno para impugna
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO V. DEL REGISTRO DE LA PROPIEDAD ESTATAL
+### CAPITULO I. DISPOSICIONES GENERALES
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO UNICO. DE LAS EXPROPIACIONES
+### CAPITULO II. DEL DOMINIO PUBLICO
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -12543,6 +12781,10 @@ La resolución del Gobernador deberá ir firmada también por el Secretario Gene
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
+### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
 ###### ARTICULO 1646.
 
 La caducidad, cancelación, rescisión o nulidad de permisos, autorizaciones, concesiones o contratos que otorgue o celebre el Poder Ejecutivo, podrá ser decretada administrativamente por el Gobernador del Estado. Para tal fin, en dichos permisos, autorizaciones, concesiones o contratos deberán incluirse una o varias cláusulas en que categóricamente se establezca y acepte la facultad del Gobernador para decretar la cancelación, la caducidad o la rescisión, cuando la empresa o el particular interesado falte al cumplimiento de las obligaciones básicas del contrato.
@@ -12576,6 +12818,10 @@ DECIMA CUARTA PARTE
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 ## TITULO PRIMERO. DEL PATRIMONIO
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+### CAPITULO IV. DE LOS MUEBLES DEL DOMINIO PRIVADO
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -12624,6 +12870,10 @@ IV.- Los demás inmuebles y muebles que por cualquier título jurídico adquiera
 ###### ARTICULO 1651.
 
 Los bienes a que se refiere el artículo anterior pasarán a formar parte del dominio público del Estado cuando sean destinados al uso común, a un servicio público o a alguna de las actividades que se equiparan a los servicios públicos.
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+### CAPITULO V. DEL REGISTRO DE LA PROPIEDAD ESTATAL
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -12814,6 +13064,10 @@ Los inmuebles destinados a un servicio público quedarán bajo la dependencia de
 Si estuvieren alojados en un mismo inmueble propiedad del Estado, varias instituciones u oficinas de diversas dependencias, el inmueble quedará a cargo de la dependencia que nombre y expense a los empleados encargados de su cuidado, pero sólo en lo relativo al aspecto exterior del mismo y a los lugares de servicio común, como patios, escaleras, corredores, pasillos, etc., y no en las partes interiores del edificio que sirvan para uso de las instituciones u oficinas dependientes de otros organismos.
 
 En caso de duda, el Gobernador del Estado, por conducto de la Oficialía Mayor, resolverá cuál de las dependencias deberá hacerse cargo de las partes comunes de los inmuebles de que se trata.
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+### CAPITULO UNICO. DE LAS EXPROPIACIONES
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -13356,3 +13610,17 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día s
 P.O. 28 DE ENERO DE 1984.
 
 ARTICULO TRANSITORIO.- Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 1984.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Goberno (sic) del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el decreto número 116 de fecha 21 de mayo de 1963 publicado en el Periódico Oficial del Gobierno del Estado número 51 de 26 de junio de 1963 que creó el organismo público descentralizado denominado Impulsora Chihuahuense de Obras Públicas.
+
+###### ARTICULO TERCERO.
+
+Se derogan los artículos 189, 190 y 191 del Código Municipal del Estado.
