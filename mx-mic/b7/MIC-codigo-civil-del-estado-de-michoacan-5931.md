@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1939-05-11"
+last_updated: "1939-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 1939.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1939.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el jueves 30 de julio de 1936.
 
@@ -5453,9 +5453,11 @@ V. La responsabilidad civil proveniente de actos ilícitos que no constituyan de
 
 La prescripción corre desde el día en que se verificaron los actos.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1939)</small>
+
 ###### Artículo 1079.
 
-Las pensiones, las rentas, los alquileres y cualesquiera otras prestaciones periódicas no cobradas a su vencimiento, quedarán prescritas en cinco años, contados desde el vencimiento de cada una de ellas, ya se haga el cobro en virtud de acción real o de acción personal.
+Las pensiones, las rentas, los alquileres y cualesquiera otras prestaciones periódicas no cobradas a su vencimiento, quedarán prescritas en cinco años, contados desde el vencimiento de cada una de ellas, ya se haga el cobro en virtud de acción real o de acción personal. Se exceptúan de la disposición anterior, los impuestos fiscales, los cuales prescribirán en 10 años.
 
 ###### Artículo 1080.
 
@@ -14293,10 +14295,14 @@ P.O. 11 DE MAYO DE 1939.
 
 DECRETO NUMERO 36, POR EL QUE SE REFORMAN LOS ARTICULOS 1492, 1493 Y 1494 DEL CODIGO CIVIL PARA EL ESTADO DE MICHOACAN.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACAN.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACAN.
 
 P.O. 11 DE MAYO DE 1939.
 
 DECRETO NUMERO 37, POR EL QUE SE SUSPENDE LA APLICACION DE LA PARTE FINAL DEL PRIMER PARRAFO DEL ARTICULO 2849 DEL CODIGO CIVIL PARA EL ESTADO DE MICHOACAN.
 
 Articulo Unico.- Esta Ley empezara a regir desde la fecha de su publicación en el Periódico Oficial.
+
+P.O. 31 DE JULIO DE 1939.
+
+Artículo Unico.- Esta Ley empezará a regir desde la fecha de su publicación.
