@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1992-04-10"
+last_updated: "1992-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE ABRIL DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE MAYO DE 1992.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -323,9 +323,9 @@ III.- Tener residencia efectiva no menor de un año anterior al día de la elecc
 
 I.- El Gobernador en ejercicio, aun cuando se separe definitivamente de su puesto, cualesquiera que sea su calidad, el origen y la forma de su designación;
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA, B.O. 19 DE MAYO DE 1992)</small>
 
-II.- El Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Secretario de Turismo; Oficial Mayor, Procurador General de Justicia, Contralor General, los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquier otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo 60 días antes de la fecha de las elecciones.
+II.- El Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Secretario de Turismo, Secretario de la Contraloría General, Oficial Mayor, Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquiera otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo 60 días antes de la fecha de las elecciones;
 
 III.- Los Presidentes Municipales o quienes ocupen cualquier cargo municipal, a menos que se separen de su cargo sesenta días antes de la elección;
 
@@ -589,9 +589,9 @@ IV.- No ser militar en servicio activo o ciudadano con mando en los cuerpos de s
 
 V.- No ser funcionario o empleado federal noventa días anteriores a la fecha de la elección;
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA, B.O. 19 DE MAYO DE 1992)</small>
 
-VI.- No ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Secretario de Turismo, Oficial Mayor, Procurador General de Justicia, Contralor General, Magistrado del Tribunal Superior de Justicia del Estado, Diputado Local, Presidente Municipal y cualquier otra persona que desempeñe cargo público estatal o municipal, 90 días anteriores a la fecha de la elección, y
+VI.- No ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Secretario de Turismo, Secretario de la Contraloría General, Oficial Mayor, Procurador General de Justicia, Magistrado del Tribunal Superior de Justicia del Estado, Diputado Local, Presidente Municipal y cualquier otra persona que desempeñe cargo público estatal o municipal, 90 días anteriores a la fecha de la elección; y
 
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 78 de esta Constitución.
 
@@ -637,9 +637,9 @@ I.- Publicar, cumplir y hacer cumplir las leyes federales;
 
 II.- Publicar, cumplir y hacer cumplir las leyes decretadas por el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia;
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA, B.O. 19 DE MAYO DE 1992)</small>
 
-III.- Nombrar y remover libremente al Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Secretario de Turismo, Oficial Mayor, Procurador General de Justicia, Contralor General y demás funcionarios y empleados del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las Leyes.
+III.- Nombrar y remover libremente al Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Secretario de Turismo, Secretario de la Contraloría General, Oficial Mayor, Procurador General de Justicia, y demás funcionarios y empleados del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las Leyes;
 
 IV.- Nombrar a los Magistrados del Tribunal Superior de Justicia, con la aprobación del Congreso del Estado o la Diputación Permanente, en su caso;
 
@@ -733,7 +733,7 @@ XLI.- Cuidar que el funcionamiento de los servicios públicos en todo el Estado,
 
 XLII.- Promover el desarrollo cultural, artístico, deportivo, científico y tecnológico de la entidad; y (sic)
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 20 DE ABRIL DE 1991)</small>
+> <small>(ADICIONADA [N. DE E REFORMADA], B.O. 20 DE ABRIL DE 1991)</small>
 
 XLIII.- Promover y vigilar el saneamiento al medio ambiente y realizar las acciones necesarias para lograr la preservación del equilibrio ecológico en el territorio del estado, en los términos de la ley de la materia.
 
@@ -743,17 +743,15 @@ XLIV.- Las demás que señalen esta Constitución y sus leyes.
 
 #### SECCION III. DE LAS DEPENDENCIAS DEL EJECUTIVO
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 19 DE MAYO DE 1992)</small>
 
-80.- La Administración Pública de Baja California Sur, será centralizada y paraestatal conforme a esta Constitución y a la Ley Orgánica que expida el Congreso del Estado, que distribuirá los asuntos del orden administrativo que estarán a cargo de un Secretario General de Gobierno, un Secretario de Finanzas, un Secretario de Desarrollo, un Secretario de Asentamientos Humanos y Obras Públicas, un Secretario de Bienestar Social, un Secretario de Turismo, un Oficial Mayor, un Procurador General de Justicia y un Contralor General, y definirá las bases generales de creación de las entidades paraestatales y la intervención del Ejecutivo Estatal en su operación.
-
-Las Leyes determinarán las relaciones entre las Entidades Paraestatales y el Gobernador o entre éstas y las dependencias del Ejecutivo.
+80.- La Administración Pública de Baja California Sur será Centralizada y Paraestatal conforme a esta Constitución y a la Ley Orgánica que expida el Congreso del Estado, que distribuirá los asuntos del orden administrativo que estarán a cargo de un Secretario General de Gobierno, un Secretario de Finanzas, un Secretario de Desarrollo, un Secretario de Asentamientos Humanos y Obras Pública (sic), un Secretario de Bienestar Social, un Secretario de Turismo, un Secretario de la Contraloría General, un Oficial Mayor y un Procurador General de Justicia y definirá las bases generales de creación de las Entidades Paraestatales y la intervención del Ejecutivo Estatal en su operación. Las Leyes determinarán las relaciones entre las Entidades Paraestatales y el Gobernador o entre estas y las dependencias del Ejecutivo.
 
 81.- Toda ley o decreto será refrendada por el Secretario General de Gobierno y por el funcionario del ramo relativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE MAYO DE 1992)</small>
 
-82.- Para ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Secretario de Turismo, Oficial Mayor, Contralor General se requiere:
+82.- Para ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Secretario de Turismo, Secretario de la Contraloría General y Oficial Mayor, se requiere:
 
 > <small>(REFORMADA, B.O. 20 DE MAYO DE 1987)</small>
 
@@ -1800,3 +1798,11 @@ EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA SIGUIENTE DE SU PUBLICACION EN EL BO
 ###### ARTICULO SEGUNDO
 
 EN TANTO SE ESTABLEZCA EN EL ESTADO EL ORGANISMO PROTECTOR DE LOS DERECHOS HUMANOS EN LOS TERMINOS DEL PRESENTE DECRETO, LA COMISION ESTATAL DE LOS DERECHOS HUMANOS PODRA SEGUIR CONOCIENDO DE LAS QUEJAS QUE DEBAN SER DE COMPETENCIA LOCAL, ASI COMO LA COMISION NACIONAL DE LOS DERECHOS HUMANOS EN TERMINOS DEL PRIMER PARRAFO DEL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE REFORMA EL ARTICULO 102 DE LA CONSTITUCION GENERAL DE LA REPUBLICA.
+
+B.O. 19 DE MAYO DE 1992.
+
+PRIMERO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA SIGUIENTE AL DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
+
+SEGUNDO.- EL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, EL H. CONGRESO DEL ESTADO Y LOS H. AYUNTAMIENTOS DEL ESTADO, ESTABLECERAN LOS ORGANOS Y SISTEMAS A QUE HACE REFERENCIA EL ARTICULO 52 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS DE BAJA CALIFORNIA SUR.
+
+TERCERO.- EN TODAS AQUELLAS LEYES, REGLAMENTOS Y DEMAS ORDENAMIENTOS EN LOS QUE SE MENCIONE A LA CONTRALORIA GENERAL DEL ESTADO, SE ENTENDERA REFERIDA LA SECRETARIA DE LA CONTRALORIA GENERAL DEL ESTADO.
