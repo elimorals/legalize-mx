@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "1984-04-07"
+last_updated: "1985-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 1985.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -121,7 +121,7 @@ Los Secretarios del Tribunal y las Salas, los Notificadores; y
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
-c) En el Tribunal de Arbitraje y Escalafón; Los Secretarios del Tribunal, Notificadores, excepto actuarios, secretarias e intendentes.
+c) En el Tribunal de Arbitraje y Escalafón; Los Secretarios del tribunal, Notificadores, excepto actuarios, secretarias e intendentes.
 
 De crearse categorías o cargos no comprendidos en este artículo, se hará constar en el nombramiento si es de base o de confianza.
 
@@ -213,7 +213,7 @@ III. Provisionales, los que de acuerdo con el escalafón se otorguen para ocupar
 
 IV. Por tiempo determinado, los que se expidan con fecha precisa de terminación para trabajos eventuales o de temporada; y
 
-V. Por obra determinada, los que se otorgan para realizar tareas directamente ligadas a una obra que por su naturaleza no es permanente; su duración será la de la materia que le dió origen.
+V. Por obra determinada, los que se otorgan para realizar tareas directamente ligadas a una obra que por su naturaleza no es permanente; su duración será la de la materia que le dio origen.
 
 ###### Art. 17.
 
@@ -559,7 +559,7 @@ XVI. Comunicar por escrito al titular de la Dependencia o Entidad de la que pres
 
 XVII. Abstenerse de ejercer las funciones de un empleo, cargo o comisión, después de concluido el período para el cual se le designó o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones;
 
-XVIII. Abstenerse el superior jerárquico de disponer o autorizar a un servidor público a no asistir, sin causa justificada, a sus labores por más de quince días contínuos o treinta discontínuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan;
+XVIII. Abstenerse el superior jerárquico de disponer o autorizar a un servidor público a no asistir, sin causa justificada, a sus labores por más de quince días continuos o treinta discontínuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan;
 
 XIX. Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la ley le prohíba;
 
@@ -613,9 +613,11 @@ XII. Otorgar las jubilaciones conforme lo dispone la Ley de Pensiones para el es
 
 Para los efectos de este Ordenamiento, se entiende por escalafón el sistema organizado en cada Entidad Pública para efectuar las promociones de ascensos de los servidores, y todo aquello relacionado con los cambios y movimientos de los mismos, conforme a las bases establecidas en el Reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1985)</small>
+
 ###### Art. 58.
 
-En cada Entidad Pública, se constituirá una Comisión Mixta de Escalafón, que se integrará proporcionalmente con un representante de la Entidad y otro del Sindicato. Si hubiere desacuerdo entre los integrantes de la Comisión, el Tribunal de Arbitraje y Escalafón resolverá en definitiva la controversia. Los integrantes de la Comisión durarán en su cargo tres años.
+En cada Entidad Pública, se constituirá una Comisión Mixta de Escalafón, que se integrará con un representante de la entidad; otro por el sindicato de la unidad burocrática que corresponda y un tercero que nombrarán los anteriores miembros. Si hubiere desacuerdo entre los integrantes de la Comisión, el Tribunal de Arbitraje y Escalafón resolverá en definitiva la controversia. Los integrantes de la Comisión durarán en su cargo tres años.
 
 ###### Art. 59.
 
@@ -999,13 +1001,17 @@ IV. Prestar servicio en alguna de las dependencias gubernamentales a que se refi
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
-V. Para tener el cargo de Magistrado representante de los Trabajadores al Servicio del Estado deberá, quien de los Trabajadores al Servicio del Estado deberá, quien lo desempeñe, estar ocupando un puesto de base en alguno de los Poderes del Gobierno Estatal o de los Municipios y, quedará inhabilitado para desempeñar la Magistratura, si aceptare un cargo de confianza o fuere electo para ocupara alguno de elección popular.
+V. Para tener el cargo de Magistrado representante de los Trabajadores al Servicio del Estado deberá, quien lo desempeñe, estar ocupando un puesto de base en alguno de los Poderes del Gobierno Estatal o de los Municipios y, quedará inhabilitado para desempeñar la Magistratura, si aceptare un cargo de confianza o fuere electo para ocupara alguno de elección popular.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
 ###### Art. 114.
 
 El Tribunal de Arbitraje y Escalafón será competente para resolver las controversias que se susciten entre los Poderes del Estado, los Ayuntamientos, los Organismos Descentralizados, Empresas o asociaciones de participación mayoritaria Estatal o Municipal y sus servidores, así como de los conflictos que surjan entre la Federación de Sindicatos de Servidores Públicos y los Sindicatos que la integran, o solo entre éstos.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 1985)</small>
+
+También será competente para invalidar las resoluciones de las Comisiones Mixtas de Escalafón, a instancia de uno o varios concursantes que consideren haberse lesionado sus derechos escalafonarios.
 
 ###### Art. 115.
 
@@ -1175,7 +1181,9 @@ En tanto que no se declare ilegal, inexistente o terminado un conflicto de huelg
 
 Primero. Esta ley entrará en vigor sesenta días después de su publicación en el Periódico Oficial El Estado de Jalisco.
 
-Segundo. Se deroga la ley para los Servidores Públicos del Estado de Jalisco, contenida en Decreto 8508 del Congreso del Estado y todas las disposiciones sobre la materia que se opongan a la presente.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1985)</small>
+
+Segundo. Se deroga la Ley para los Servidores Públicos del Estado de Jalisco, contenida en Decreto 8508 quedando subsistente la Ley de Escalafón del Personal de Base del Departamento de Educación Pública del Estado de Jalisco, y su Reglamento, contenida en el Decreto 10636.
 
 Tercero. Quedan subsistentes las normas legales que atañan a alguna oficina o unidad burocrática, que establezcan prestaciones superiores a las establecidas en la presente ley, en favor de los Servidores Públicos del Estado de Jalisco y sus Municipios.
 
@@ -1216,3 +1224,9 @@ Lic. Enrique Alvarez del Castillo
 El Secretario General de Gobierno
 
 Lic. Eugenio Ruiz Orozco
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE ABRIL DE 1985.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial El Estado de Jalisco.
