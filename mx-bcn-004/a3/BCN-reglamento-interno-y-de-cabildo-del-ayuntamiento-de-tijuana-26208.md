@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2003-05-30"
+last_updated: "2004-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2004.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -1023,9 +1023,13 @@ IV.- Impulsar proyectos normativos y acciones que fortalezcan las condiciones de
 
 V.- En general, aquellas que el Cabildo le encomiende.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 97.
 
-Comisiones especiales.- El Cabildo podrá establecer, mediante disposició (sic) normativa de observancia general, comisiones especiales para conocer de los procedimientos de responsabilidad que se instruyan en contra de algún Munícipe o funcionario público o para atende (sic) transitoriamente asuntos de interés público.
+Comisiones especiales.- El Cabildo podrá establecer, mediante disposición normativa de observancia general, comisiones especiales para conocer de los procedimientos de responsabilidad que se instruyan en contra de algún Munícipe o funcionario público o para atender transitoriamente asuntos de interés público.
+
+También se conformara Comisión Especial Plenaria integrada por todos los Miembros del Cabildo, siempre que se deba llevar a cabo el análisis de las ternas a que se refiere la Fracción VIII del Artículo 13, del Reglamento de la Administración Pública del Municipio de Tijuana, relativo al nombramiento del Administrador Municipal, de los Secretarios de Gobierno Municipal, de Seguridad Pública y de Administración y Finanzas, así como los Delegados Municipales, misma que estará presidida por el Presidente Municipal.
 
 ###### ARTICULO 98.
 
@@ -1222,3 +1226,9 @@ P.O. 30 DE MAYO DE 2003.
 PRIMERO.- Las presentes reformas y adición entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberán publicarse en un periódico de mayor circulación en la localidad para el conocimiento de los vecinos.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las presentes reformas y adición.
+
+P.O. 9 DE ENERO DE 2004.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones u ordenamientos que contravengan a la presente reforma.
