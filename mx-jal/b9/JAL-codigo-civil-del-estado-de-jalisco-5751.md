@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "1998-08-15"
+last_updated: "2000-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2000.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -1735,7 +1735,7 @@ Los gastos que se hubieren causado para hacer efectivo el título, serán a carg
 
 ###### Art. 308.
 
-Igualmente corresponden a cada cónyuge los bienes adquiridos por compra o permuta de los raíces (sic) que le pertenezcan, para adquirir otros también raíces que se sustituyan por venta o permuta.
+Igualmente corresponden a cada cónyuge los bienes adquiridos por compra o permuta de los raíces que le pertenezcan, para adquirir otros también raíces que se sustituyan por venta o permuta.
 
 ###### Art. 309.
 
@@ -10537,7 +10537,7 @@ Las donaciones hechas simulando otro contrato a personas que conforme a la ley n
 
 ###### Art. 1943.
 
-Las donaciones legalmente hechas por una persona, que al tiempo de otorgarlas, no tenía hijos, pueden ser revocadas por el donante cuando le hayan sobrevenido hijos que han nacido y que hallan (sic) sido viables.
+Las donaciones legalmente hechas por una persona, que al tiempo de otorgarlas, no tenía hijos, pueden ser revocadas por el donante cuando le hayan sobrevenido hijos que han nacido y que hallan sido viables.
 
 Si transcurren cinco años desde que se hizo la donación y el donante no ha tenido hijos o habiéndolos tenido no ha revocado la donación, ésta se volverá irrevocable. Lo mismo sucede si el donante muere dentro de ese plazo de cinco años sin haber revocado la donación.
 
@@ -11105,15 +11105,23 @@ b) El plazo será obligatorio solamente para el arrendador; y
 
 c) El arrendatario podrá dar por concluido el contrato en cualquier tiempo, con la obligación respecto del pago de las rentas de cubrirlas hasta la fecha en que desocupe el inmueble.
 
-Art. 2044 (sic).- Las disposiciones contenidas en el artículo anterior son de orden público. Por lo tanto, son irrenunciables y en consecuencia, cualquier estipulación en contrario se tendrá por no puesta.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2000)</small>
 
 ###### Art. 2042.
 
-En el caso a que se refiere el artículo 2041, cuando se celebren convenios que generen obligaciones más gravosas para el arrendatario, éstos serán nulos de pleno derecho, no importando si se hacen constar bajo la forma de recibos, vales, cartas o cualquier otro documento, sin perjuicio de la responsabilidad penal en que se incurra.
+Las disposiciones contenidas en el artículo anterior son de orden público. Por lo tanto, son irrenunciables y en consecuencia, cualquiera estipulación en contrario se tendrá por no puesta.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2000)</small>
 
 ###### Art. 2043.
 
-Al término del arrendamiento, el arrendatario que haya cumplido en tiempo con todas las obligaciones que la ley y el contrato le hayan impuesto, tendrá derecho a una prórroga del mismo por el término de uno año.
+En el caso a que se refiere el artículo 2041, cuando se celebren convenios que generen obligaciones más gravosas para el arrendatario, éstos serán nulos de pleno derecho, no importando si se hacen constar bajo la forma de recibos, vales, cartas o cualquier otro documento, sin perjuicio de la responsabilidad penal en que se incurra.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2000)</small>
+
+###### Art. 2044.
+
+Al término del arrendamiento, el arrendatario que haya cumplido en tiempo con todas las obligaciones que la ley y el contrato le hayan impuesto, tendrá derecho a una prórroga del mismo por el término de un año.
 
 #### Sección Tercera. Del arrendamiento de inmuebles destinados al comercio e industria
 
@@ -16854,3 +16862,7 @@ P.O. 3 DE MARZO DE 1998.
 P.O. 15 DE AGOSTO DE 1998.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 23 DE MARZO DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
