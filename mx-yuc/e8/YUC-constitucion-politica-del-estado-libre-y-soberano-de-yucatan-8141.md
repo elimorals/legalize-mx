@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1921-02-03"
+last_updated: "1921-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE FEBRERO DE 1921.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE FEBRERO DE 1921.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -479,15 +479,17 @@ VI.- no estar en servicio activo, en caso de pertenecer al Ejército o Guardia N
 
 VII.- no ser Secretario General de Gobierno, Oficial Mayor o Tesorero General, a menos que se separe de su puesto noventa días antes de la elección.
 
+> <small>(REFORMADO, D.O. 4 DE FEBRERO DE 1921)</small>
+
 ###### Artículo 47.
 
-Para ser Gobernador interino del Estado, solo se requiere:
+Para ser Gobernador Interino del Estado, se requiere:
 
-I.- ser ciudadano mexicano por nacimiento, en el pleno goce de sus derechos;
+I.- ser ciudadano mexicano por nacimiento y nativo del Estado, en la plenitud de sus derechos, o tener en el mismo una vecindad no menor de cinco años, inmediatamente anterior al día de la designación.
 
-II.- tener treinta años cumplidos;
+II.- tener veinticinco años cumplidos;
 
-III.- no ser Ministro de ningún Culto.
+III.- No ser Ministro de ningún culto.
 
 ###### Artículo 48.
 
@@ -940,3 +942,9 @@ D.O. 3 DE FEBRERO DE 1921.
 ###### ARTICULO SEGUNDO.
 
 Esta reforma entrará en vigor el mismo día de su publicación en el Diario Oficial del Estado.
+
+D.O. 4 DE FEBRERO DE 1921.
+
+###### ARTICULO SEGUNDO
+
+Esta reforma entrará en vigor el mismo día de su publicación en el "Diario Oficial" del Estado.
