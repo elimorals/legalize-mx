@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1967-08-03"
+last_updated: "1968-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 1968.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -871,7 +871,7 @@ El Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes l
 
 #### SECCION II. DE LOS JUECES DE 1ª INSTANCIA Y MENORES
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1968)</small>
 
 ###### Art. 90.
 
@@ -891,15 +891,15 @@ Los particulares podrán impartir la educación a todos sus tipos y grados, con 
 
 ### CAPITULO IV. PODER JUDICIAL
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1968)</small>
 
 ###### Art. 93.
 
-Se deposita el ejercicio del Poder Judicial del Estado, en un Cuerpo denominado Supremo Tribunal de Justicia, en Jueces de Primera Instancia, Menores y en Tribunales para Menores.
+Se deposita el ejercicio del Poder Judicial del Estado, en un cuerpo denominado "Supremo Tribunal de Justicia", en Jueces de Primera Instancia y Menores.
 
 #### SECCION III. DEL JURADO DE RESPONSABILIDADES
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1968)</small>
 
 ###### Art. 94.
 
@@ -995,7 +995,9 @@ I. Conocer en única instancia de las causas por delitos del orden común contra
 
 II. Conocer como jurado de sentencia, de las acusaciones por delitos oficiales contra los altos funcionarios del Estado.
 
-III. Declarar si ha lugar a formación de causa contra los Jueces de Primera Instancia, Secretarios del Supremo Tribunal y de las Salas, y de los Jueces de los Tribunales para Menores;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1968)</small>
+
+III. Declarar si hay (sic) lugar a formación de causa contra los Jueces de Primera Instancia Secretarios del Supremo Tribunal y de las Salas.
 
 IV. Conocer y resolver las controversias de cualquier orden que se susciten entre los Poderes del Estado, entre uno o más Poderes del Estado y los Ayuntamientos o entre éstos entre sí;
 
@@ -1003,7 +1005,9 @@ V. Conocer de las competencias que se susciten entre los Jueces de Primera Insta
 
 VI. Llamar a los Magistrados Suplentes que deban cubrir las faltas de los Propietarios, ya sea absolutas, temporales o relativas a determinado negocio, conforme al Artículo 99;
 
-VII. Nombrar a los Jueces y a los Secretarios, Actuarios y demás empleados subalternos del Supremo Tribunal, de las Salas, de los Juzgados y de los Tribunales para Menores;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1968)</small>
+
+VII. Nombrar a los Jueces y a los Secretarios, Actuarios y demás empleados subalternos del Supremo Tribunal de las Salas y de los Juzgados.
 
 VIII. Determinar el número de Juzgados Menores que deberá haber en el Estado, el lugar de su residencia y el perímetro de su jurisdicción territorial;
 
@@ -1019,9 +1023,7 @@ El Poder Judicial juzgará en todos los asuntos de su competencia, conforme con 
 
 ###### Art. 106.
 
-Los Jueces de Primera Instancia y los de los Tribunales para Menores serán nombrados por el Supremo Tribunal de Justicia, en Pleno y durarán tres ños (sic) en el ejercicio de su encargo, al término de los cuales, si fueren reelectos sólo podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con el Artículo 98, o previo el juicio de responsabilidad correspondiente.
-
-Las disposiciones de este artículo son aplicables a los Secretarios del Supremo Tribunal de Justicia y de las Salas.
+Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia en Pleno y durarán tres años en el ejercicio de su encargo, al término de los cuales, si fueren reelectos solo podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con el Artículo 98, o previo juicio de responsabilidad correspondiente. Las disposiciones de este Artículo son aplicables a los Secretarios del Supremo Tribunal de Justicia y de las Salas.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
@@ -1037,9 +1039,11 @@ En cada una de las cabeceras de los Distritos Judiciales, a que se refiere la fr
 
 ###### Art. 109.
 
-Habrá Juzgados Menores en los lugares que determine el Supremo Tribunal conforme a la Fracción VIII del Artículo 104. Los Jueces Menores serán nombrados por el Supremo Tribunal de Justicia y durarán en su encargo 2 años, pudiendo ser reelectos. Para ser Juez Menor se requiere: ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos, mayor de edad, de reconocida buena conducta y tener los conocimientos jurídicos necesarios.
+Habrá Juzgados Menores en los lugares que determine el Supremo Tribunal de Justicia conforme a la Fracción VII del Artículo 104.
 
-Los Tribunales para Menores se integrarán, funcionarán y ejercerán jurisdicción en la forma y términos que establezca la Ley Orgánica espectiva (sic).
+Los Jueces Menores serán nombrados por el Supremo Tribunal de Justicia y durarán en su encargo dos años, pudiendo ser reelectos.
+
+Para ser Juez Menor se requiere: Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos, mayor de edad, de reconocida buena conducta y tener los conocimientos jurídicos necesarios.
 
 ### CAPITULO I. DISPOSICIONES DIVERSAS
 
@@ -1767,7 +1771,7 @@ El Supremo Tribunal de Justicia dictará las medidas transitorias necesarias par
 
 ###### Artículo 5o.
 
-Mientras no se organicen los Tribunales para Menores, los Jueces de Primera Instancia seguirán conociendo de las infracciones a las Leyes Penales cometidas por menores, en los términos de los Códigos Penal y de Procedimientos Penales vigentes en el Estado.
+(DEROGADO, P.O. 24 DE FEBRERO DE 1968)
 
 P.O. 31 DE DICIEMBRE DE 1955.
 
@@ -1836,3 +1840,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 3 DE AGOSTO DE 1967.
 
 UNICO.- El Presente Decreto comenzará a surtir sus efectos legales; a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 24 DE FEBRERO DE 1968.
+
+UNICO. El presente Decreto comenzará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
