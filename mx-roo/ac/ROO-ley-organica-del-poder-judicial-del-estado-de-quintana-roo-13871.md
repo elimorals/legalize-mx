@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2000-09-08"
+last_updated: "2001-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -127,9 +127,11 @@ Los auxiliares de la impartición de justicia cumplirán los mandamientos de la 
 
 #### Sección Primera. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+
 ###### Artículo 10.
 
-El Tribunal Superior de Justicia residirá en la Capital del Estado y estará integrado por los Magistrados de Número y Supernumerarios que determine el Tribunal Pleno, designados en los términos previstos por la Constitución Política del Estado y esta Ley, y de acuerdo a las necesidades del servicio y capacidad presupuestal del Poder Judicial.
+EI Tribunal Superior de Justicia residirá en la Capital del Estado y estará integrado por los Magistrados de Número y Supernumerarios designados en los términos previstos por la Constitución Política del Estado y esta ley.
 
 ###### Artículo 11.
 
@@ -199,65 +201,103 @@ I.- Proponer el nombramiento y, en su caso, la reelección de Magistrados del Tr
 
 II.- Elegir al Presidente del Tribunal Superior de Justicia conforme a lo previsto por el artículo 105 de la Constitución Política del Estado;
 
-III.- Nombrar y remover en los términos que señale la Ley, a los Magistrados de los Tribunales Unitarios, Jueces y demás servidores públicos del Poder Judicial;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-IV.- Designar al Magistrado de Número que sustituirá en sus funciones al Presidente del Tribunal, en las ausencias temporales de éste;
+III.- Nombrar y remover en los términos que señale la Legislación aplicable a los Magistrados de los Tribunales Unitarios y Jueces del Poder Judicial;
 
-V.- Conocer y resolver sobre las quejas administrativas presentadas en contra del Presidente del Tribunal, Magistrados, Jueces y Secretario General;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-VI.- Discutir, aprobar o modificar, en su caso, el Presupuesto de Egresos que para el ejercicio anual proponga el Presidente del Tribunal y, por los conductos debidos, someterlo a la aprobación de la Legislatura del Estado;
+IV.- Designar al Magistrado de Número que sustituirá en sus funciones al Presidente del Tribunal Superior de Justicia, en las ausencias temporales de éste;
 
-VII.- Resolver en única instancia sobre las renuncias y destitución de los servidores públicos del Poder Judicial, con excepción de los Magistrados del Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-VIII.- Conceder a los Magistrados y Jueces autorización para dejar de cumplir con las obligaciones inherentes a su encargo por incapacidad, enfermedad, comisión oficial del propio Tribunal u otras causas análogas, hasta por tres meses;
+V.- Resolver sobre las quejas administrativas presentadas en contra del Presidente del Tribunal Superior de Justicia, Magistrados de las Salas y de los Tribunales Unitarios del propio Tribunal y de los Jueces del Poder Judicial;
 
-IX.- Acordar el aumento o supresión de los Tribunales Unitarios y Juzgados, así como la planta de servidores públicos de la administración de justicia, cuando las necesidades del servicio lo requiera y lo permitan los recursos financieros;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-X.- Establecer la jurisdicción de cada uno de los Tribunales Unitarios, Juzgados y demás órganos auxiliares, conforme a la división jurisdiccional del Estado;
+VI.- Discutir, aprobar o modificar, en su caso, el Presupuesto de Egresos que para el ejercicio anual proponga el Consejo de la Judicatura y, por los conductos debidos, someterlo a la aprobación de la Legislatura del Estado;
 
-XI.- Fijar los períodos vacacionales y días no laborables en el Poder Judicial;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-XII.- Comisionar a los Magistrados que deban intervenir en las investigaciones de las faltas cometidas por los funcionarios judiciales dentro y fuera del ejercicio de sus funciones;
+VII.- Resolver en única Instancia sobre las renuncias y destitución de los Jueces del Poder Judicial;
 
-XIII.- Ordenar la suspensión temporal de los magistrados de los tribunales unitarios de distrito, jueces, secretarios y actuarios, cuando el orden y la disciplina así lo requieran;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-XIV.- Ordenar el traslado de un órgano a otro dentro del Estado a los servidores públicos del Poder Judicial que en él laboren, cuando sea necesario para el mejor servicio en la administración e impartición de la justicia;
+VIII.- Conceder a los Magistrados, autorización para dejar de cumplir con las obligaciones inherentes a su encargo por incapacidad, enfermedad, u otras causas análogas, hasta por tres meses; y por Comisiones Oficiales del Tribunal Superior de Justicia, por el tiempo que duren dichas Comisiones;
 
-XV.- Establecer la competencia de los Tribunales Unitarios y Juzgados;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-XVI.- Llamar a los Magistrados Supernumerarios que deban suplir a los de Número ante el propio Pleno;
+IX.- Establecer la jurisdicción, residencia y competencia de cada una de las Salas, Tribunales Unitarios, Juzgados y demás Organos Auxiliares;
 
-XVII.- Acordar que algún Magistrado Supernumerario funja de manera provisional como Secretario General del Pleno;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-XVIII.- Conceder licencias por más de tres días a los servidores públicos del Poder Judicial;
+X.- Crear o suprimir Salas, Salas de Distrito, Tribunales Unitarios y Juzgados. Los Acuerdos que se dicten respecto de esta facultad, así como lo relativo a la fracción anterior, para que surtan sus efectos deberán publicarse previamente en el Periódico Oficial del Gobierno del Estado;
 
-XIX.- Nombrar a los integrantes y demás funcionarios del Consejo Tutelar para Menores Infractores del Estado, así como a los Jueces Tradicionales, Magistrados de Asuntos Indígenas, en los términos de las leyes respectivas;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-XX.- Supervisar el funcionamiento de los órganos que integran el Poder Judicial; así como el desempeño de sus servidores públicos y dictar las providencias necesarias para el mejoramiento de la administración e impartición de justicia;
+XI.- Adscribir, readscribir y cambiar de acuerdo a las necesidades de la función Jurisdiccional, a los Magistrados de las Salas y de los Tribunales Unitarios del Poder Judicial;
 
-XXI.- Exigir a sus integrantes el cumplimiento de sus obligaciones de acuerdo con la Ley;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-XXII.- Imponer correcciones disciplinarias a los servidores públicos en los términos de la presente Ley;
+XII.- Iniciar ante la Legislatura del Estado las leyes y decretos que tengan por objeto mejorar la impartición y administración de justicia;
 
-XXIII.- Solicitar del Poder Ejecutivo y Ayuntamientos de los Municipios del Estado, el auxilio necesario para el mejor y más expedito ejercicio de las funciones de los tribunales del Estado;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-XXIV.- Dictar y comunicar las medidas generales que estime convenientes para que la administración e impartición de justicia sea pronta y expedita;
+XIII.- Aprobar el Reglamento Interior del Tribunal Superior de Justicia, de las Salas, de las Salas de Distrito, de los Tribunales Unitarios, Juzgados del Poder Judicial y demás Unidades y Areas Administrativas;
 
-XXV.- Glosar la cuenta de gastos del Tribunal;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-XXVI.- Conceder estímulos y recompensas a los titulares y demás servidores públicos del Poder Judicial;
+XIV.- Llamar a los Magistrados Supernumerarios que deban suplir a los Magistrados de Número ante el Pleno;
 
-XXVII.- Acordar visitas periódicas a los centros de readaptación social o preventivos;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-XXVIII.- Comisionar a Magistrados u otros servidores de la administración e impartición de justicia, para que auxilien en sus labores a los Tribunales Unitarios y Juzgados, cuando las necesidades del servicio así lo requieran;
+XV.- Acordar que algún Magistrado Supernumerario funja de manera provisional como Secretario General del Pleno;
 
-XXIX.- Mandar a publicar en el Periódico Oficial del Gobierno del Estado, los reglamentos, acuerdos y demás disposiciones de carácter general que se expidan;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-XXX.- Aprobar las Condiciones Generales de Trabajo que celebre el Poder Judicial con sus trabajadores, y conocer y resolver por sí o a través del órgano que expresamente designe mediante disposiciones generales, los conflictos suscitados entre el Poder Judicial y sus funcionarios y empleados;
+XVI.- Glosar la cuenta de gastos del Tribunal Superior de Justicia;
 
-XXXI.- Proveer, de acuerdo a las necesidades del servicio y a la capacidad presupuestal del Poder Judicial, de los recursos necesarios al Centro de Asistencia Jurídica, al Consejo de la Judicatura Indígena, al Consejo Tutelar para Menores Infractores y a los Centros de Observación de éste último, los cuales normarán su función conforme a lo previsto en las leyes correspondientes y esta Ley; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-XXXII.- Las demás que le confieran ésta y las demás leyes.
+XVII.- Conceder estímulos y recompensas a los Titulares y demás Servidores Públicos del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+XVIII.- Aprobar las condiciones generales de trabajo del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+XIX.- Nombrar y remover a los Magistrados de Asuntos Indígenas y a los jueces tradicionales, en los términos de la ley respectiva;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+XX.- Elegir a los Magistrados de Número que deban integrar el Consejo de la Judicatura; y
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+XXI.- Las demás que le confieran esta ley y las demás leyes aplicables.
+
+XXII.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
+
+XXIII.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
+
+XXIV.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
+
+XXV.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
+
+XXVI.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
+
+XXVII.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
+
+XXVIII.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
+
+XXIX.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
+
+XXX.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
+
+XXXI.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
+
+XXXII.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
 
 #### Sección Cuarta. De las atribuciones de carácter judicial del Tribunal Pleno
 
@@ -293,9 +333,11 @@ Las Salas actuarán colegiadamente en la celebración de las audiencias, prácti
 
 Las determinaciones de las Salas se tomarán por unanimidad o por mayoría de votos.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+
 ###### Artículo 27.
 
-Las Salas conocerán de los asuntos de carácter judicial o jurisdiccional que no estén previstos por esta Ley para los Tribunales Unitarios.
+Podrán crearse por el Pleno del Tribunal Superior de Justicia, Salas Auxiliares cuya integración, duración, jurisdicción y competencia se determinarán en el acuerdo o disposición por la cual sean creadas.
 
 ###### Artículo 28.
 
@@ -309,9 +351,15 @@ Encontrándose la causa o proceso en estado de resolución, presentará el Magis
 
 Con excepción de las sentencias, no será necesario que los acuerdos o determinaciones se asienten en acta, bastando únicamente que se autorice la actuación en los expedientes con la firma de cada Magistrado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2001)</small>
+
 ###### Artículo 31.
 
-La Sala Civil conocerá del trámite y resolución de todos aquellos asuntos considerados por las leyes como civiles, de lo familiar, mercantiles, administrativos y, de manera especial, sobre los siguientes asuntos cuyo conocimiento no se encuentre expresamente reservado por esta Ley para los Tribunales Unitarios:
+Las Salas conocerán de las materias Civil, Penal o ambas.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2001)</small>
+
+En materia civil conocerán del trámite y resolución de todos aquellos asuntos considerados por las leyes como civiles, de lo familiar, mercantiles, administrativos y, de manera especial, sobre los siguientes asuntos:
 
 I.- De los recursos de apelación y queja que se interpongan en contra de las resoluciones pronunciadas por los Jueces del ramo;
 
@@ -325,9 +373,11 @@ V.- De la imposición de correcciones disciplinarias a los litigantes, cuando en
 
 VI.- De los demás asuntos que le encomienden las leyes o acuerde el Tribunal Pleno mediante disposiciones generales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2001)</small>
+
 ###### Artículo 32.
 
-La Sala Penal conocerá del trámite y resolución de todos aquellos asuntos considerados por las leyes como penales y, de manera especial, sobre los siguientes asuntos cuyo conocimiento no se encuentre expresamente reservado por esta Ley para los Tribunales Unitarios:
+En materia penal conocerán el (sic) trámite y resolución de todos aquellos asuntos considerados por las leyes como penales y, de manera especial, sobre los siguientes asuntos:
 
 I.- De los recursos de apelación que se interpongan en contra de las resoluciones pronunciadas por los Jueces del ramo;
 
@@ -338,6 +388,10 @@ III.- De las excusas y recusaciones de sus miembros, solicitando en su caso, al 
 IV.- De la imposición de correcciones disciplinarias a los litigantes, cuando en sus promociones le falten al respeto al Tribunal; y
 
 V.- De los demás asuntos que le encomienden las leyes o acuerde el Tribunal Pleno mediante disposiciones generales.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2001)</small>
+
+Las salas, mixtas o especializadas, tendrán también competencia, en los términos que señale el Pleno, de los asuntos establecidos en el Artículo 48 de esta Ley para los Tribunales Unitarios, cuando en su región jurisdiccional no ejerzan jurisdicción dichos Tribunales Unitarios.
 
 #### Sección Sexta. De los Magistrados del Tribunal Superior de Justicia
 
@@ -431,7 +485,17 @@ VI.- Representar al Tribunal Superior de Justicia en los actos oficiales;
 
 VII.- Ordenar la suspensión de labores por tres días en uno o varios órganos jurisdiccionales por sucesos extraordinarios; y
 
-VIII.- Las demás que le confieran las leyes y el Pleno del tribunal superior de justicia.
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+VIII.- Solicitar del Poder Ejecutivo del Estado, Ayuntamientos de los Municipios de la Entidad y demás autoridades competentes, el auxilio necesario para el mejor y más expedito ejercicio de las funciones de los Tribunales del Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+IX.- Legalizar las firmas de los Funcionarios del Poder Judicial del Estado;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE JUNIO DE 2001)</small>
+
+X.- Las demás que le confieren las leyes y el Pleno del Tribunal Superior de Justicia.
 
 El Presidente del Tribunal Superior de Justicia podrá delegar las anteriores facultades en el Magistrado que designe.
 
@@ -1041,7 +1105,7 @@ II.- El Instituto de Estudios Jurídicos;
 
 III.- El Centro de Asistencia Jurídica;
 
-IV.- (DEROGADA POR ARTICULO SEXTO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO, P.O. 8 DE SEPTIEMBRE DE 2000)
+IV.- (DEROGADA POR ARTICULO SEXTO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO, P.O. 8 DE SEPTIEMBRE DE 2000) (REPUBLICADA, P.O. 29 DE JUNIO DE 2001)
 
 V.- La Contraloría Interna del Poder Judicial.
 
@@ -1099,7 +1163,9 @@ XII.- Las demás que el Tribunal Pleno o el reglamento interior le señale.
 
 #### Sección Segunda. Del Instituto de Estudios Jurídicos
 
-### CAPITULO I. DE LOS SERVIDORES PUBLICOS DE CARACTER JURISDICCIONAL
+### CAPITULO I. INTEGRACION Y COMPETENCIA
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2001)</small>
 
 ###### Artículo 95.
 
@@ -1143,21 +1209,25 @@ III.- Asistencia Jurídica.
 
 El reglamento respectivo determinará las funciones de estas áreas administrativas.
 
-### CAPITULO II. DE LOS SERVIDORES PUBLICOS DE CARACTER ADMINISTRATIVO
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+
+### CAPITULO II. FUNCIONAMIENTO
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
 
 ###### Artículo 99.
 
-La prestación del servicio gratuito y obligatorio de defensa del fuero común a que se refiere la fracción IX del artículo 28 de la Constitución Política del Estado, así como la función de los promotores prevista en la Ley del Consejo Tutelar para Menores Infractores del Estado, estarán cargo del Centro de Asistencia Jurídica del Poder Judicial del Estado.
+La prestación del servicio gratuito y obligatorio de defensa del fuero común a que se refiere la Fracción IX del Artículo 28 de la Constitución Política del Estado, estará a cargo del Centro de Asistencia Jurídica del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
 
 ###### Artículo 100.
 
-El Tribunal Superior de Justicia designará por cada Tribunal y Juzgado en materia penal, cuando menos a un defensor de oficio y al personal de auxilio correspondiente; y en el Consejo Tutelar para Menores Infractores, al número de asistentes jurídicos que se requieran.
+EI Tribunal Superior de Justicia designará por cada Tribunal y Juzgado en materia penal cuando menos a un defensor de oficio y al personal de auxilio correspondiente.
 
-Los defensores de oficio y los asistentes jurídicos deberán satisfacer los requisitos que acuerde el Pleno del Tribunal Superior de Justicia, y su designación se hará por el propio Tribunal Superior mediante las normas establecidas en los acuerdos generales que al efecto expida.
+Los defensores de oficios (sic) deberán satisfacer los requisitos que acuerde el Pleno del Tribunal Superior de Justicia y su, designación se hará por el propio Tribunal Superior mediante las normas establecidas en los acuerdos generales que al efecto expida.
 
-Las adscripciones, promociones y determinación de las categorías de los defensores de oficio y de los asistentes jurídicos, deberán hacerse de conformidad con las disposiciones generales que dicte el Tribunal Superior, atendiendo, en lo conducente, las bases que esta Ley prevé en materia de carrera judicial.
-
-El Tribunal Superior de Justicia establecerá, mediante acuerdos generales, los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de los defensores de oficio y de los asistentes jurídicos, para efectos de lo que se dispone en esta Ley en materia de responsabilidad.
+Las adscripciones, promociones y determinación de las categorías de los defensores de oficio deberán hacerse de conformidad con las disposiciones generales que dicte el Tribunal Superior, atendiendo en lo conducente, a las bases que esta ley prevé en materia de carrera judicial.
 
 ###### Artículo 101.
 
@@ -1177,41 +1247,131 @@ VI.- Cumplir con los reglamentos, programas y acuerdos dictados por el Tribunal 
 
 VII.- Las demás que señalen ésta y otras leyes.
 
-#### Sección Cuarta. Del Consejo Tutelar para Menores Infractores
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE JUNIO DE 2001)</small>
+
+#### Sección Cuarta. De la Contraloría Interna del Poder Judicial
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2001)</small>
 
 ###### Artículo 102.
 
-(DEROGADO POR ARTICULO SEXTO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO, P.O. 8 DE SEPTIEMBRE DE 2000)
+La Contraloría Interna del Poder Judicial es el Órgano de Control y Supervisión del cumplimiento de las normas de funcionamiento administrativo y presupuestal que rijan a los Organos, Unidades, Servidores Públicos y Empleados del propio Poder Judicial, con excepción de aquellas que correspondan al Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2001)</small>
 
 ###### Artículo 103.
-
-(DEROGADO POR ARTICULO SEXTO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO, P.O. 8 DE SEPTIEMBRE DE 2000)
-
-###### Artículo 104.
-
-(DEROGADO POR ARTICULO SEXTO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO, P.O. 8 DE SEPTIEMBRE DE 2000)
-
-### CAPITULO III. DE LAS INCOMPATIBILIDADES
-
-###### Artículo 105.
-
-La Contraloría Interna del Poder Judicial es el órgano de control y supervisión del cumplimiento de las normas de funcionamiento administrativo y presupuestal que rijan a los órganos, unidades, servidores públicos y empleados del propio Poder Judicial, con excepción de aquellas que correspondan al Tribunal Superior de Justicia.
-
-###### Artículo 106.
 
 La Contraloría Interna del Poder Judicial tendrá las siguientes atribuciones:
 
 I.- Vigilar el cumplimiento de las normas de control establecidas por el Tribunal Superior de Justicia;
 
-II.- Comprobar el cumplimiento por parte de las unidades y áreas administrativas de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos;
+II.- Comprobar el cumplimiento por parte de las unidades diarias administrativas de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos;
 
-III.- Llevar el registro y seguimiento de la evolución patrimonial de los servidores públicos del Poder Judicial;
+III.- Llevar el registro y seguimiento de la evolución patrimonial de los Servidores Públicos del Poder Judicial;
 
 IV.- Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Poder Judicial;
 
-V.- Recibir, substanciar y resolver, en su caso, las quejas que se presenten por las responsabilidades administrativas a que se refiere esta Ley; y
+V.- Recibir, substanciar y resolver, en su caso, las quejas que se presenten por las responsabilidades administrativas a que se refiere esta ley; y
 
-VI.- Las demás que determinen las leyes, los reglamentos y acuerdos generales del Tribunal Pleno.
+VI.- Las demás que determinen las leyes, los reglamentos y acuerdos generales del Pleno del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2001)</small>
+
+###### Artículo 104.
+
+EI Consejo de la Judicatura es un Organo de Administración, vigilancia, disciplina y carrera judicial del Poder Judicial del Estado, cuya competencia será la que establece esta ley y demás normas jurídicas aplicables. Se integrará con tres miembros que serán:
+
+I.- Un Presidente, que será el Presidente del Tribunal Superior de Justicia;
+
+II.- Dos Magistrados de Número que elija el Pleno del Tribunal Superior de Justicia;
+
+Auxiliarán al Consejo y participarán en las reuniones del mismo, con voz pero sin voto, el Oficial Mayor del Tribunal Superior de Justicia quien fungirá como Secretario, y los Titulares de la Contraloría Interna y del Instituto de Estudios Jurídicos del propio Tribunal quienes actuarán como Secretarios Técnicos.
+
+Es competencia del Consejo de la Judicatura:
+
+I.- Supervisar el funcionamiento de los Organos Jurisdiccionales y las áreas administrativas que integran el Poder Judicial; así como el desempeño de sus servidores públicos, comisionando a los magistrados que deban intervenir en la investigación de las faltas que hayan cometido y dictar las providencias necesarias para el mejoramiento de la administración e impartición de justicia;
+
+II.- Exigir a los integrantes de los Organos Jurisdiccionales y de las áreas administrativas, el cumplimiento de sus obligaciones de acuerdo con la ley;
+
+III.- Imponer a los servidores públicos del Poder Judicial, previa garantía de audiencia y defensa, las correcciones disciplinarias que procedan conforme a esta ley y demás disposiciones aplicables, que no estén encomendadas expresamente a otras autoridades;
+
+IV.- Fijar las bases, convocar y realizar el procedimiento para cubrir las plazas vacantes de los miembros del poder judicial de acuerdo con lo establecido por esta ley y establecer las provisiones para su sustitución, en casos de ausencia temporal y absoluta, siempre que lo anterior no esté encomendado a otros Organos del Tribunal;
+
+V.- Disponer la adscripción, readscripción o cambio de los servidores públicos del Poder Judicial de un Organo a otro dentro del Estado, cuando sea necesario para el mejor servicio en la administración e impartición de justicia con excepción de lo previsto en la Fracción XI del Artículo 21 de esta ley;
+
+VI.- Autorizar el calendario y horario oficial de labores del Poder Judicial;
+
+VII.- Conceder licencia por más de tres días cuando exista causa justificada, a los Servidores Públicos del Poder Judicial, con excepción de los Magistrados;
+
+VIII.- Dictar y comunicar las medidas que estime convenientes para que la administración e impartición de justicia sea pronta y expedita;
+
+IX.- Comisionar a Magistrados u otros Servidores de la Administración e impartición de justicia, para que auxilien en sus labores a las diversas Salas, Tribunales Unitarios y Juzgados, cuando las necesidades del servicio así lo requieran;
+
+X.- Atender por sí o a través del Organo que expresamente designe, los conflictos laborales suscitados entre el Poder Judicial y sus funcionarios y empleados;
+
+XI.- Establecer los criterios y las medidas conducentes para el mejoramiento de la administración e impartición de justicia;
+
+XII.- Otorgar los nombramientos de los servidores públicos surgidos de los diversos procedimientos de la carrera judicial;
+
+XIII.- Nombrar y remover a los servidores judiciales y administrativos que no sean competencia del Pleno o de otros Organos del Poder Judicial;
+
+XIV.- Vigilar la administración y manejo del fondo para el mejoramiento de la administración de justicia con eficacia, honradez y con estricto apego a las políticas de disciplina, racionalidad y austeridad, de acuerdo con los lineamientos fijados por el Pleno del Tribunal;
+
+XV.- Vigilar y supervisar el debido funcionamiento del Instituto de Estudios Jurídicos;
+
+XVI.- Supervisar que la aplicación y evaluación de los exámenes de oposición que se practiquen a los aspirantes de nuevo ingreso o para promoverse a cargos superiores, se hagan con imparcialidad, objetividad y rigor académico;
+
+XVII.- Cuidar el cumplimiento y efectividad de la carrera judicial, dictando para tal efecto las políticas, lineamientos y normas correspondientes;
+
+XVIII.- Vigilar el Registro y seguimiento de la situación patrimonial de los Servidores Públicos Judiciales, por medio de la Contraloría Interna conforme a la ley;
+
+XIX.- Conceder a los Jueces autorización para dejar de cumplir con las obligaciones inherentes a su encargo por incapacidad, enfermedad u otras causas análogas, hasta por tres meses; y por comisiones oficiales del propio Tribunal por el tiempo que duren dichas comisiones;
+
+XX.- Proveer de acuerdo a las necesidades del servicio y a la capacidad presupuestal del Poder Judicial, de los recursos necesarios al Centro de Asistencia Jurídica y al Consejo de la Judicatura Indígena;
+
+XXI.- Proponer al Pleno del Tribunal Superior de Justicia, el Presupuesto de Egresos para el Ejercicio Anual del Tribunal;
+
+XXII.- Vigilar la debida salvaguarda y conservación del dinero, bienes y valores que sean consignados a los diversos órganos jurisdiccionales;
+
+XXIII.- Mandar publicar en el Periódico Oficial del Gobierno del Estado, los reglamentos, acuerdos y demás disposiciones de carácter general que se expidan; y,
+
+XXIV.- Las demás que no sean competencia del Pleno del Tribunal Superior de Justicia o de cualquiera otro Organo, Jurisdiccional o Administrativo, del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2001)</small>
+
+### CAPITULO III. DE SU PRESIDENTE
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+
+###### Artículo 105.
+
+Las sesiones se efectuarán previa convocatoria de su Presidente y, serán válidas con la asistencia de la mayoría de sus integrantes.
+
+Las resoluciones se tomarán por unanimidad o por mayoría de votos, en caso de empate, se confiere voto de calidad al Presidente del Consejo. Constarán en acta autorizada por el Secretario del Consejo y deberá firmarse por los que en ella intervinieron. Las notificaciones y ejecución de sus determinaciones se efectuarán por el funcionario que el propio Consejo determine.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2001)</small>
+
+###### Artículo 106.
+
+Son facultades y obligaciones del Presidente del Consejo de la Judicatura:
+
+I.- Presidir el Consejo, dirigir los debates y conservar el orden de las sesiones;
+
+II.- Tramitar los asuntos de la competencia del Consejo;
+
+III.- Autorizar con el secretario del Consejo, las actas y resoluciones que se dicten en los asuntos de la competencia del Consejo de la Judicatura;
+
+IV - Representar al Consejo en los actos oficiales que se requiera y nombrar Comisiones de Representación cuando le fuere imposible asistir;
+
+V.- Expedir los nombramientos que apruebe el Consejo;
+
+VI.- Recibir, por conducto de la Oficialía Mayor, los informes sobre las demoras, excesos, omisiones y faltas administrativas en que incurran los servidores públicos judiciales en el desempeño de sus funciones, a efecto de dictar las providencias que procedan;
+
+VII.- Cuidar que se integre en la Contraloría Interna del Tribunal Superior de Justicia, los expedientes de los servidores públicos judiciales que contengan las notas de mérito o demérito por quejas fundadas, así como de las correcciones o sanciones disciplinarias que les hayan sido impuestas;
+
+VIII.- Despachar la correspondencia oficial del Consejo; y
+
+IX.- Las demás que señalen las leyes y demás disposiciones aplicables.
 
 ###### Artículo 107.
 
@@ -1245,11 +1405,11 @@ VIII.- Los demás que acuerde el Tribunal Pleno.
 
 Para ser Secretario General de Acuerdos del Pleno del Tribunal Superior de Justicia; Secretario de Acuerdos de las Salas, Tribunales Unitarios y Juzgados; y Secretario de Estudio y Cuenta y Actuarios, se requiere satisfacer los mismos requisitos exigidos para ser Juez, con excepción del tiempo de práctica profesional, el cual será como mínimo de un año.
 
+#### Sección Segunda. De la Permanencia
+
+### CAPITULO I. DE LOS SERVIDORES PUBLICOS DE CARACTER JURISDICCIONAL
+
 #### Sección Primera. Del Ingreso
-
-### CAPITULO UNICO
-
-#### Sección Quinta. De la Contraloría Interna del Poder Judicial
 
 ###### Artículo 111.
 
@@ -1270,8 +1430,6 @@ Son causas de retiro forzoso de los Magistrados, Jueces, Secretarios y demás se
 El retiro correspondiente deberá formularse ante la autoridad competente para sustituirlo, la cual deberá resolver en un término no mayor de treinta días naturales.
 
 #### Sección Tercera. De la Carrera Judicial
-
-#### Sección Segunda. De la Permanencia
 
 ###### Artículo 115.
 
@@ -1309,6 +1467,8 @@ XV.- Secretario de Juzgados de Paz; y
 
 XVI.- Actuario de Juzgados de Paz.
 
+### CAPITULO II. DE LOS SERVIDORES PUBLICOS DE CARACTER ADMINISTRATIVO
+
 ###### Artículo 116.
 
 El ingreso y promoción para la categoría de Jueces de Primera Instancia, Mixtos de Primera Instancia y de Paz, se realizará a través de concurso interno de oposición y de oposición libre. Para acceder a las demás categorías señaladas en el artículo anterior, se requerirá el acreditamiento de un examen de aptitud.
@@ -1335,11 +1495,17 @@ III.- No haber sido condenado por delito intencional con sanción privativa de l
 
 IV.- No haber sido inhabilitado por resolución firme para desempeñar cargo, empleo o comisión públicas con motivo de responsabilidad de carácter oficial.
 
+### CAPITULO III. DE LAS INCOMPATIBILIDADES
+
 ###### Artículo 120.
 
 Los titulares y personal de los órganos jurisdiccionales y unidades y áreas administrativas del Poder Judicial, están impedidos para el ejercicio de la abogacía, a excepción de la defensa en causa propia de su cónyuge, ascendientes o descendientes en línea recta sin limitación de grado y las colaterales dentro del segundo grado por consanguinidad.
 
-## TITULO CUARTO. DEL INGRESO, FORMACION Y PERMANENCIA DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
+## TITULO CUARTO (SIC). DEL CONSEJO DE LA JUDICATURA
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2001)</small>
+
+### CAPITULO UNICO
 
 ###### Artículo 121.
 
@@ -1355,7 +1521,7 @@ Los titulares de los órganos de carácter jurisdiccional y administrativo, los 
 
 Las faltas y responsabilidades administrativas serán sancionadas conforme a la presente ley y a la Ley de Responsabilidades respectiva.
 
-## TITULO QUINTO. DE LAS RESPONSABILIDADES
+## TITULO CUARTO. DEL INGRESO, FORMACION Y PERMANENCIA DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
 
 ###### Artículo 124.
 
@@ -1459,6 +1625,8 @@ En contra de las determinaciones que impongan una sanción dictadas por la Contr
 
 El reglamento interior de trabajo determinará las faltas de los empleados administrativos del Poder Judicial, las correcciones disciplinarias que procedan imponer al infractor y los procedimientos y autoridades competentes para su aplicación, conforme a lo previsto en las Condiciones Generales de Trabajo y demás ordenamientos aplicables.
 
+## TITULO QUINTO. DE LAS RESPONSABILIDADES
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -1483,7 +1651,7 @@ DIPUTADO SECRETARIO:
 
 ISRAEL BARBOSA HEREDIA.
 
-EN CUMPLIMIENTO DE LO DISPUESTO POR EL ARTICULO 91, FRACCION II DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIODICO OFICIAL DEL ESTADO, DADO EN LA RESIDENCIA DEL PODER EJECUTIVO EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, AL OS VEINTIOCHO DIAS DEL MES DE ENERO DE MIL NOVECIENTOS NOVENTA Y NUEVE.
+EN CUMPLIMIENTO DE LO DISPUESTO POR EL ARTICULO 91, FRACCION II DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIODICO OFICIAL DEL ESTADO, DADO EN LA RESIDENCIA DEL PODER EJECUTIVO EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS VEINTIOCHO DIAS DEL MES DE ENERO DE MIL NOVECIENTOS NOVENTA Y NUEVE.
 
 EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUINTANA ROO
 
@@ -1498,3 +1666,13 @@ PROFR. RAUL O. SANTANA BASTARRACHEA.
 P.O. 8 DE SEPTIEMBRE DE 2000.
 
 PRIMERO.- La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE JUNIO DE 2001.
+
+###### ARTICULO PRIMERO.
+
+EI presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos radicados en las Salas Civil y Penal del Tribunal Superior de Justicia y en el Tribunal Unitario con sede en Cancún, se seguirán tramitando en dichos Organos Jurisdiccionales, hasta en tanto el Pleno del Tribunal Superior de Justicia acuerde lo conducente de conformidad a las presentes reformas de la Ley Orgánica del Poder Judicial.
