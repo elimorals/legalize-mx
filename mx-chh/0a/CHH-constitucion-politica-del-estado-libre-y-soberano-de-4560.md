@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "1997-02-26"
+last_updated: "1997-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 1997.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -243,9 +243,9 @@ Son ciudadanos del Estado los hombres y las mujeres que además de ser ciudadano
 
 Son derechos de los ciudadanos chihuahuenses:
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
-I.- Votar en las elecciones populares del Estado, así como participar en los procesos plebiscitarios y de referéndum.
+I.- Votar en las elecciones populares del Estado, así como participar en los procesos plebiscitarios, de referéndum y de revocación de mandato.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -256,6 +256,10 @@ III.- Tomar las armas en la Guardia Nacional.
 IV.- Reunirse pacíficamente para tratar los asuntos públicos del Estado.
 
 V.- Ejercer en toda clase de asuntos el derecho de petición.
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+
+VI.- Iniciar leyes en los términos previstos por la fracción V del artículo 68 de esta Constitución.
 
 ###### Art. 22.
 
@@ -326,6 +330,14 @@ La soberanía del Estado, reside, originariamente en el pueblo, y en nombre de �
 Los partidos políticos son entidades de interés público; la ley determinará las formas específicas en su intervención en el proceso electoral.
 
 Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuyendo a la integración de la representación local y Municipal y organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan el Sufragio Universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+
+Todas las campañas electorales serán laicas.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+
+Es revocable el mandato de los funcionarios públicos electos mediante el voto. La solicitud de revocación del mandato deberá ser suscrita cuando menos por el 10% de los ciudadanos del Estado, Municipio o Distrito, según sea el caso y podrá presentarse una vez transcurrido una tercera parte del período para el cual fue electo el funcionario. Quedan comprendidos en la categoría de funcionarios públicos el Gobernador, los diputados, presidentes municipales, regidores y síndicos. La ley establecerá las bases y procedimientos para la revocación, así como los medios de impugnación.
 
 Los partidos políticos recibirán en forma equitativa, de acuerdo con las disponibilidades presupuestales y en los términos que establezca la ley, recursos del erario público estatal para su sostenimiento y para que cuenten durante los procesos electorales con apoyos para sus actividades tendientes a la obtención del Sufragio Universal.
 
@@ -419,63 +431,65 @@ Los procesos electorales del Estado se efectuarán conforme a las bases que esta
 
 Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales, fijando los plazos convenientes para el desahogo de todas las instancias impugnativas.
 
-La organización, dirección y vigilancia de las elecciones en el Estado estarán a cargo de un Consejo Estatal de Elecciones, autoridad en la materia dotada de independencia funcional en su relación con los Poderes del Estado, que tendrá las facultades que le señale la presente Constitución y la ley, y contará con los órganos que ésta disponga en los Distritos y Municipios en que se divide el Estado, los que estarán bajo su dirección.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
-El órgano de mayor jerarquía del Consejo se integrará de la siguiente forma:
+La organización, dirección y vigilancia de las elecciones y demás procesos que requieran consulta pública en el Estado estarán a cargo de un organismo público denominado Instituto Estatal Electoral, que gozará de autonomía en su funcionamiento e independencia en sus decisiones, con personalidad jurídica y patrimonio propios; se compondrá de un órgano central de mayor jerarquía denominado Asamblea General y los órganos distritales y municipales. Los órganos y servidores de este Instituto, se sujetarán a la organización y facultades que señalen esta Constitución y la Ley, la que garantizará que en el ejercicio de la función electoral sean principios rectores los de legalidad, imparcialidad, objetividad, certeza e independencia.
 
-I.- Por un Presidente, que deberá tener grado de licenciatura, carecer de antecedentes de militancia en partido político alguno y gozar de buena reputación y prestigio. Será nombrado por el voto de las dos terceras partes de los Diputados presentes del Congreso, de entre la pareja de candidatos que proponga el Ejecutivo, si la mencionada mayoría no se logra en una única votación, el grupo de la mayoría parlamentaria deberá proponer una terna de candidatos, de entre los cuales los demás miembros del Congreso elegirán al Presidente y, si se abstuvieren de elegir, el Presidente será designado mediante insaculación que hará el Congreso de entre los candidatos propuestos por el Gobernador y por la mayoría parlamentaria;
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
-II.- Por un representante sólo con voz por cada uno de los partidos políticos con registro definitivo.
+La Asamblea General se integra por un consejero presidente, seis consejeros electorales, un secretario general y un representante que cada Partido Político designe o su respectivo suplente.
 
-Por cada representante propietario se nombrará un suplente.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
-III.- Por al menos seis consejeros ciudadanos, quienes deberán acreditar estudios de cuando menos educación media superior, ser de reconocido prestigio y honorabilidad y carecer de antecedentes de militancia en partido político alguno. Serán nombrados por las dos terceras partes de los Diputados presentes del Congreso de entre ciudadanos propuestos por el Ejecutivo en lista de candidatos por pareja. Si la mencionada mayoría no se logra en una única votación, el grupo de la mayoría parlamentaria deberá proponer nueva lista de por lo menos el doble de los Consejeros que falten por elegir, de entre quienes los demás miembros del Congreso elegirán el número que corresponda y, si se abstuvieren de elegir, los Consejeros que aún falten de nombrar serán designados mediante insaculación, que llevará a cabo el Congreso, de entre los candidatos propuestos por el Gobernador y por la mayoría parlamentaria.
+El consejero presidente y los consejeros electorales serán designados cada uno por el voto de cuando menos las dos terceras partes de los diputados presentes, de entre los aspirantes que concurran a la convocatoria pública que el propio Congreso o la Diputación Permanente expidan. Si la mencionada mayoría no se logra en única votación, la Junta de Coordinación Parlamentaria propondrá una terna de candidatos, para cada uno de los cargos que no se hubieren cubierto, de entre los aspirantes que concurran a la convocatoria pública, efectuándose la elección por mayoría calificada de los diputados presentes; si no se logra tal elección, la designación se hará mediante insaculación de entre los candidatos propuestos por la Junta de Coordinación Parlamentaria. Conforme al mismo procedimiento se designará un consejero electoral suplente por cada propietario. La ley establecerá las reglas, procedimientos de designación y demás requisitos correspondientes.
 
-Conforme al mismo procedimiento y cumpliendo los mismos requisitos, se elegirán dos consejeros ciudadanos con el carácter de supernumerarios;
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
-IV.- Por un Secretario, solo con voz, designado por insaculación llevada a cabo por el propio Consejo de entre los Notarios Públicos de la capital del Estado.
+La Asamblea General designará al secretario general y su suplente, a propuesta del consejero presidente. La falta definitiva del consejero presidente será suplida por el consejero electoral que se designe conforme a la ley, hasta que el Congreso haga la nueva designación de consejero presidente.
 
-Los integrantes del Consejo a que hacen referencia las fracciones I y III tendrán voz y voto y el Presidente lo tendrá también de calidad en caso de empate.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
-El órgano de mayor jerarquía del Consejo sólo funcionará durante los procesos electorales, y en su caso, durante los plebiscitarios y de referéndum. Fuera de éstos, sólo su Presidente estará en funciones como responsable de los trabajos permanentes del servicio electoral.
+El consejero presidente y los consejeros electorales participan con voz y voto. Aquel tendrá voto de calidad. Los restantes miembros de la Asamblea General participan solo con voz pero sin voto.
 
-Habrá órganos de vigilancia que funcionarán de manera permanente y se integrarán mayoritariamente por representante de los partidos políticos. Estos órganos recibirán amplia información sobre el desarrollo de los trabajos en materia electoral y, en los términos que disponga la ley, ejercerán tareas de supervisión sobre el desarrollo de dichos trabajos.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
-El Consejo estatal y sus respectivos órganos Distritales y Municipales, de acuerdo con lo que disponga la ley, declararán la validez de las elecciones de Gobernador, de Diputados y de Ayuntamientos, otorgarán las constancias a los candidatos que hubiesen obtenido mayoría de votos, y harán la asignación de diputados y regidores de representación proporcional.
+La duración del cargo de consejero presidente será de tres años y los consejeros electorales serán designados para un solo proceso electoral, pudiendo ambos ser reelectos por una sola vez. La ley regulará lo relativo al llamamiento de los consejeros electorales designados para el proceso electoral inmediato anterior, para la celebración de procesos de plebiscito, referéndum y revocación de mandato.
 
-El Consejo Estatal y sus órganos desarrollarán los trabajos necesarios para atender lo relativo a la preparación y desarrollo de los procesos electorales y en su caso los plebiscitarios y de referéndum. Dispondrá del personal calificado, estrictamente el necesario para el cumplimiento de su objeto, que prestará el servicio electoral profesional. Los ciudadanos formarán las mesas directivas de casilla.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
-Las sesiones de todos los órganos colegiados serán públicas, y sus resoluciones recurribles ante el Tribunal Estatal de Elecciones en los términos que disponga la ley.
+Las sesiones de los órganos electorales serán públicas y sus resoluciones recurribles ante el Tribunal Estatal Electoral conforme disponga la ley.
 
-Las actividades, funciones y servicios de carácter electoral, incluídas las relativas al padrón de electores, son susceptibles de desarrollarse en coordinación con el organismo federal competente. La ley establecerá las condiciones, requisitos y modalidades en que se convenga dicha coordinación.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+Las actividades, funciones y servicios de carácter electoral, incluidas las relativas al padrón de electores, podrán desarrollarse en coordinación con el órgano federal competente. La ley establecerá las condiciones, requisitos y modalidades en que se convenga dicha coordinación.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
 ###### Art. 37.
 
-El Tribunal Estatal de Elecciones es el órgano autónomo, de legalidad y plena jurisdicción en la materia. Se compondrá de cinco magistrados numerarios y un supernumerario. Dos de los primeros serán magistrados del Supremo Tribunal de Justicia, que éste designará mediante insaculación de entre sus miembros.
+El Tribunal Estatal Electoral es el órgano de legalidad y plena jurisdicción en la materia electoral, autónomo en su funcionamiento e independiente en sus decisiones, con patrimonio propio. Se compondrá de tres Magistrados que deberán satisfacer los mismos requisitos que establece esta Constitución para ser Magistrado del Supremo Tribunal de Justicia y además no haber sido candidato o haber desempeñado cargo de elección popular, ni fungido como dirigente de partido político en los últimos cinco años previos a la elección.
 
-Los otros tres magistrados numerarios y el supernumerario deberán satisfacer los mismos requisitos que establece esta Constitución para ser magistrado del Supremo Tribunal de Justicia, carecer de antecedentes de militancia en partido político alguno y gozar de buena reputación y prestigio. Serán electos por el voto de las dos terceras partes de los diputados presentes del Congreso a propuesta por parejas del Ejecutivo. Si la mencionada mayoría no se logra en una única votación, el grupo de la mayoría parlamentaria deberá proponer nuevas parejas de candidatos, de entre las cuales los demás miembros del Congreso elegirán el número de magistrados que corresponda y, si se abstuvieren de elegir, los magistrados que aún falten de ser nombrados serán designados mediante insaculación, que llevará a cabo el Congreso de entre los candidatos propuestos por el Ejecutivo y por el grupo de la mayoría parlamentaria.
+Los Magistrados serán designados cada uno por el voto de cuando menos las dos terceras partes de los diputados presentes, de entre los aspirantes que concurran a la convocatoria pública que el propio Congreso o la Diputación Permanente expidan. Si la mencionada mayoría no se logra en única votación, la Junta de Coordinación Parlamentaria propondrá una terna de candidatos para cada uno de los cargos que no se hubieren cubierto, de entre los aspirantes que concurran a la convocatoria pública, efectuándose la elección por mayoría calificada de los diputados presentes; si no se logra tal elección, la designación se hará mediante insaculación de entre los candidatos propuestos por la Junta de Coordinación Parlamentaria. La ley establecerá las reglas y procedimientos de designación.
 
-Los magistrados del Tribunal durarán en su encargo ocho años y podrán ser reelectos.
+Los Magistrados del Tribunal Estatal Electoral durarán en su encargo cuatro años y podrán ser reelectos. Durante los procesos electorales tendrán salario compensatorio.
 
-Corresponde al Tribunal resolver en forma definitiva e inatacable, en los términos de esta Constitución y la ley, las impugnaciones que se presenten en materia electoral, así como las que se interpongan contra las declaraciones de validez y el otorgamiento de constancias de mayoría y de asignación.
+Corresponde al Tribunal Estatal Electoral resolver en forma definitiva e inatacable, las impugnaciones que se presenten en materia electoral, de referéndum, plebiscito y revocación de mandato, así como las que se interpongan contra las declaraciones de validez y el otorgamiento de constancias de mayoría y de asignación.
 
-En la elección de Gobernador, el Consejo Estatal de Elecciones dará cuenta al Congreso acerca de la declaratoria de validez y de la constancia de mayoría que hubiere expedido, y en caso de impugnación, el Tribunal dará cuenta al Congreso de su resolución para que éste, mediante formal decreto haga la declaratoria de Gobernador electo, que a su vez turnará al Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado. Si en el término que la ley señale, el Congreso no expidiere el mencionado decreto o el Ejecutivo se abstuviese de publicarlo, el Consejo Estatal de Elecciones o en su caso el Tribunal ordenarán la publicación de la correspondiente declaratoria en el Periódico Oficial.
+En la elección de Gobernador, el Instituto Estatal Electoral dará cuenta al Congreso de la declaratoria de validez y de la constancia de mayoría que hubiere expedido, y en caso de impugnación, el Tribunal Estatal Electoral dará cuenta al Congreso de su resolución para que éste, mediante formal decreto haga la declaratoria de Gobernador electo, que a su vez turnará al Ejecutivo para su publicación en el Periódico Oficial del Estado. Si el Ejecutivo o el Congreso no cumplieren en el término que la Ley señale, el Instituto Estatal Electoral o el Tribunal Estatal Electoral, en caso de impugnación, ordenarán la publicación de la mencionada declaratoria en el Periódico Oficial.
 
-El Tribunal funcionará en pleno o en salas unitarias, que podrán ser regionales, exclusivamente durante los procesos electorales, los plebiscitarios o de referéndum; tendrá la competencia y organización que determinen esta Constitución y la ley; sus sesiones colegiadas serán públicas y resolverá en una sola instancia.
+El Tribunal Estatal Electoral funcionará en pleno durante los procesos electorales, los plebiscitarios, de referéndum y de revocación de mandato; podrán establecerse salas regionales. La Ley establecerá la forma de su organización y funcionamiento.
 
-Concluido cada proceso electoral, el Tribunal presentará al Congreso y hará público un informe del desempeño de su encargo.
+Concluido cada proceso electoral, el Tribunal Estatal Electoral presentará al Congreso y hará público un informe del desempeño de sus funciones.
 
 ###### Art. 38.
 
 Ningún ciudadano puede ser detenido la víspera o el día de las elecciones, sino por delito flagrante; en este caso, la autoridad tomará las providencias necesarias para la aprehensión del delincuente, después que el mismo hubiere depositado su voto.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
 ###### Art. 39.
 
-Todo acto u omisión ilegales en los procesos electorales, será causa de responsabilidad. La ley determinará las sanciones correspondientes.
+Todo acto u omisión ilegales en los procesos electorales, plebiscitarios, de referéndum y de revocación de mandato será causa de responsabilidad. La ley determinará las sanciones correspondientes.
 
 ## TITULO VII.
 
@@ -485,47 +499,29 @@ DEL PODER LEGISLATIVO.
 
 DE LA ORGANIZACION DEL CONGRESO.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
 ###### Art. 40.
 
-El Congreso de integrará con representantes del pueblo de Chihuahua, electos en su totalidad cada tres años. Por cada diputado propietario se elegirá un suplente.
+El Congreso se integrará con representantes del pueblo de Chihuahua, electos como Diputados en su totalidad cada tres años. Por cada diputado propietario se elegirá un suplente.
 
-El Congreso se compondrá por dieciocho diputados electos en distritos electorales, según el principio de votación mayoritaria relativa, y hasta trece electos por el principio de representación proporcional. Los diputados de mayoría relativa y los de representación proporcional tendrán la misma categoría e iguales derechos y obligaciones.
+El Congreso se compondrá de treinta y tres diputados, de los cuales veintidós serán electos en distritos electorales uninominales, según el principio de mayoría relativa, y once por el principio de representación proporcional. Los diputados de mayoría relativa y los de representación proporcional, tendrán la misma categoría e iguales derechos y obligaciones.
 
-La elección se sujetará a las siguientes bases y a lo que disponga la ley:
+Ningún partido político podrá contar con más de 20 diputados por ambos principios. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento.
 
-I.- La demarcación territorial de los distritos electorales se establecerá, una vez que sean oficialmente publicados los resultados del último censo general de población.
+Si un partido político alcanzara las 22 diputaciones por mayoría relativa, para poder adicionarse o reformarse la Constitución del Estado, se requerirá el voto de, cuando menos, 23 de los Diputados.
 
-Cada una de las demarcaciones distritales deberá reunir los siguientes requisitos:
+Para la asignación de Diputados electos por el principio de representación proporcional, cada partido político deberá registrar una lista de seis fórmulas de candidatos propietarios y suplentes, la cual no podrá contener entre propietarios y suplentes, más del 70% de candidatos de un mismo género.
 
-A.- Comprender un número de habitantes que no podrá diferir del diez por ciento, en más o en menos, del cociente que resulte de dividir la población total del Estado de acuerdo a la información del último censo general, entre el número de distritos electorales.
+Sólo se asignarán diputaciones de representación proporcional a los partidos políticos que postularon candidatos de mayoría relativa en catorce ó más distritos electorales uninominales y hayan alcanzado cuando menos el 2% de la votación estatal válida emitida.
 
-B.- Tener continuidad geográfica.
+Las diputaciones de representación proporcional se distribuirán mediante rondas de asignación entre los partidos políticos con derecho a ello, atendiendo al orden decreciente del porcentaje de votación obtenido por cada uno de ellos de la votación estatal válida emitida. En una primera ronda, se asignará una diputación a cada Partido Político que haya obtenido por lo menos el 2% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una segunda ronda se otorgará otra diputación a cada Partido que haya obtenido más del 7% y hasta el 10% de la votación. Si aún quedaren diputaciones por asignar, en una tercera ronda se otorgará otra diputación a cada partido político que haya obtenido más del 10% y hasta el 20% de la votación. Si aún quedaren diputaciones por asignar, en una cuarta ronda se asignará otra diputación a cada partido que haya obtenido más del 20% de la votación. Si agotado este procedimiento, aún quedaren diputaciones por asignar, éstas se otorgarán por rondas de asignación, de una en una y en orden decreciente del porcentaje de votación obtenido por los partidos políticos hasta agotar su totalidad.
 
-C.- Incluir íntegro, sin fraccionarse, el territorio de cada uno de los municipios que comprenda. Sólo se exceptúan de este requisito los municipios cuya población sea superior al cociente a que se refiere el inciso A. En todo caso, un mismo municipio formará parte de tantos distritos electorales como número de veces comprenda su población el mencionado cociente, más uno, y
+Las diputaciones de representación proporcional que correspondan a cada partido político se asignarán alternada y sucesivamente: en primer lugar, utilizando el sistema de listas previamente registradas por los partidos políticos para tal efecto y, en segundo lugar, atendiendo a los más altos porcentajes de votación válida obtenida en su distrito por cada uno de los candidatos del mismo partido.
 
-D.- Tener como cabecera la localidad que también lo sea de alguno de los municipios que incluye y ésta disponga, con respecto a las otras posibles, de más y mejores vías y medios de comunicación hacia los demás municipios que, en su caso, formen la propia demarcación.
+La Ley establecerá la demarcación territorial de los distritos electorales uninominales, atendiendo preponderantemente al factor poblacional, que resulte de dividir la población estatal entre el número de distritos, pudiendo contar con un rango de variación de más menos 15% del promedio general, que se verá complementado tomando en consideración los criterios de continuidad geográfica, vías y medios de comunicación y características geográficas de la demarcación territorial.
 
-II.- La elección de los diputados según el principio de representación proporcional se hará conforme a las reglas siguientes:
-
-A.- Sólo tendrán derecho a participar en la asignación de diputados según el principio de representación proporcional, los partidos políticos que acrediten la postulación de candidatos de mayoría relativa en doce o más distritos electorales y alcancen, cuando menos, el uno y medio por ciento del total de la votación estatal válida emitida.
-
-B.- Al partido político que cumpla con lo dispuesto en el inciso anterior le será asignado, en su caso, adicionalmente a las constancias de mayoría relativa que hubieren obtenido sus candidatos, el número que corresponda de diputados de representación proporcional, de acuerdo con la votación emitida a su favor en el Estado.
-
-C.- Ningún partido político podrá contar con más del sesenta por ciento de los miembros del Congreso, salvo cuando la totalidad de sus diputados hubieren resultado electos según el principio de votación mayoritaria relativa.
-
-D.- En los términos de lo establecido en los incisos A, B y C anteriores, las diputaciones de representación proporcional se adjudicarán de acuerdo a las fórmulas y demás disposiciones que la ley desarrolle, a los partidos políticos con derecho a ello, como sigue:
-
-1.- Hasta dos diputados, uno a cada uno de los partidos políticos que, sin haber obtenido diputación alguna por el principio de mayoría relativa, alcancen entre el uno punto cinco y el siete por ciento de la votación estatal emitida y obtengan el mayor número de votos a su favor dentro del supuesto a que se refiere este párrafo alcance una votación mayor del siete por ciento pero menor del diez por ciento.
-
-2.- Asignados, en su caso, los diputados a que se refiere el punto 1 anterior, los restantes se adjudicarán a los demás partidos políticos a razón de un diputado por cada diez por ciento, o excedente superior al cinco por ciento, que de la votación estatal emitida hubieren obtenido a su favor.
-
-III.- Las diputaciones de representación proporcional a que tenga derecho cada partido político se adjudicarán a sus candidatos que hubieren participado en los distritos electorales sin haber obtenido constancia de mayoría relativa, como sigue:
-
-A.- La mitad, por riguroso orden, a quienes hubieren alcanzado las más altas votaciones con relación a los candidatos del mismo partido político, y
-
-B.- La otra mitad, en su caso, también por riguroso orden, a quienes hubiesen obtenido los más altos porcentajes de votación con relación a los candidatos del mismo partido.
+La aprobación de la delimitación de los distritos electorales uninominales se hará mediante votación, de por lo menos las dos terceras partes de los diputados presentes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 1979)</small>
 
@@ -609,19 +605,19 @@ El Congreso se instalará, en casos ordinarios, el día primero de octubre y en 
 
 El Congreso cambiará su nomenclatura cada tres años.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
 ###### Art. 45.
 
-Dentro de los términos que establezca la ley, el Consejo Estatal de Elecciones declarará diputados electos al Congreso del Estado, previos los dictámenes correspondientes, a los candidatos que hubieren recibido constancias de mayoría y de asignación proporcional no impugnadas ante el Tribunal Estatal de Elecciones dentro de los plazos y con los requisitos establecidos por la ley.
+El Instituto Estatal Electoral declarará diputados electos al Congreso del Estado, a los candidatos que hubieren recibido constancias de mayoría y de asignación proporcional no impugnadas ante el Tribunal Estatal Electoral dentro de los plazos y con los requisitos establecidos por la ley.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
 ###### Art. 46.
 
-Dentro de los términos establecidos por la ley, el Tribunal Estatal de Elecciones resolverá las impugnaciones que se interpongan en contra de las declaratorias de validez de elecciones y de las constancias de mayoría de votos y las de asignación proporcional otorgadas a los candidatos a diputados al Congreso, cuando dichas declaratorias y constancias sean impugnadas ante el propio Tribunal dentro de los plazos y cumplidos los requisitos establecidos por la ley.
+El Tribunal Estatal Electoral resolverá las impugnaciones que se interpongan en contra de las declaratorias de validez de elecciones y de las constancias de mayoría y de las de asignación proporcional otorgadas a los candidatos a diputados. Del mismo modo, las que se presenten en materia de referéndum, plebiscito y revocación de mandato.
 
-Las resoluciones que dicte el Tribunal sobre la validez o nulidad de las elecciones, así como respecto a la elegibilidad de los candidatos a quienes se haya otorgado constancia de mayoría o de asignación, serán definitivas e inatacables.
+Las resoluciones que dicte el Tribunal Estatal Electoral serán definitivas e inatacables.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -705,11 +701,13 @@ Son materia de ley aquellas resoluciones emitidas dentro de la órbita de atribu
 
 Cuando concluido un período ordinario de sesiones, el Congreso esté conociendo un juicio político o un procedimiento de desafuero, prorrogará aquél hasta pronunciar su resolución, sin ocuparse de ningún otro asunto.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
 ###### Art. 60.
 
-Si han transcurrido treinta días después de haber sido llamados por el Congreso, luego de la fecha de la instalación de éste, y no hubieren concurrido sin justificación algunos diputados, los propietarios ni los respectivos suplentes, en el caso de haber sido electos por el principio de mayoría relativa, se convocará por aquél a nuevas elecciones, dentro de los dos meses siguientes. Si los ausentes hubieran sido electos según el principio de representación proporcional, se llamará a los respectivos suplentes y, en caso de no concurrir, al candidato propietario que siga en el orden de acreditación del partido de que se trate, teniendo el organismo público a que se refiere el artículo 36 la intervención que le corresponda; si en el plazo de quince días tampoco se presentare, se declarará vacante el cargo.
+Si una vez instalado el Congreso transcurren treinta días sin que uno ó más diputados propietarios de mayoría relativa concurran sin mediar causa justificada, se llamará al suplente respectivo. Si éste no concurre dentro de los quince días siguientes al llamado, el Congreso del Estado convocará a nuevas elecciones del distrito o distritos electorales a que corresponda la ausencia.
+
+Si los ausentes hubieran sido electos según el principio de representación proporcional y no concurrieren al Congreso en los términos del párrafo anterior, se llamará a los respectivos suplentes y, en caso de no concurrir, al candidato propietario que siga en el orden de acreditación que corresponda al partido de que se trate, según el sistema de lista o el de más altos porcentajes de votación válida obtenida en su distrito por cada uno de los candidatos del mismo partido.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -765,7 +763,9 @@ IV.- Expedir la ley que regula el funcionamiento del municipio libre, como base 
 
 V.- Establecer las bases normativas conforme a las cuales los ayuntamientos ejercerán la facultad de expedir los bandos de policía y buen gobierno así como los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones.
 
-Dichas bases normativas establecerán el derecho de iniciativa popular y señalarán los casos en que los reglamentos expedidos por los ayuntamientos deberán ser sometidos a referendúm de los electores.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+
+Dichas bases normativas establecerán el derecho de iniciativa popular y señalarán los casos en que los bandos de policía y buen gobierno, los reglamentos y disposiciones administrativas de observancia general expedidos por los ayuntamientos podrán ser sometidos a referéndum de los ciudadanos del municipio de que se trate.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -813,7 +813,9 @@ XII.- Erigir nuevos municipios dentro de los límites de los existentes, así co
 
 En los casos a que se refiere la presente fracción, la correspondiente iniciativa sólo puede ser presentada por, cuando menos, uno de los ayuntamientos de los municipios involucrados; el diez por ciento de los electores residentes en éstos, debidamente identificados, o la tercera parte de los miembros del Congreso.
 
-La ley señalará la intervención que en el desarrollo de los mencionados plebiscitos corresponde al Tribunal Estatal de Elecciones.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+
+La ley señalará la intervención que en el desarrollo de los mencionados plebiscitos corresponde al Instituto Estatal Electoral.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -831,13 +833,13 @@ A.- Elegir Gobernador interino, provisional o sustituto en los casos que estable
 
 B.- Nombrar los magistrados que deban integrar el Supremo Tribunal de Justicia y el Tribunal de lo Contencioso Administrativo.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
-C.- Elegir al presidente y a los consejeros ciudadanos del Consejo Estatal de Elecciones, en los términos establecidos por el artículo 36, así como a tres de los magistrados numerarios y al supernumerario del Tribunal Estatal de Elecciones conforme a lo dispuesto por el artículo 37.
+C.- Elegir al consejero presidente y consejeros electorales del Instituto Estatal Electoral, así como a los magistrados del Tribunal Estatal Electoral.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
-D.- Nombrar, a propuesta en terna del Ejecutivo, a los miembros que integrarán los consejos municipales mientras se celebran las correspondientes elecciones extraordinarias, en los casos en que el Tribunal Estatal de Elecciones hubiere declarado la nulidad de los comicios o cuando, por cualquier otro motivo, dentro del primer año de ejercicio constitucional, faltaren de modo absoluto todos los miembros del ayuntamiento, y
+D.- Nombrar, a propuesta en terna del Ejecutivo, a los miembros que integrarán los consejos municipales, mientras se celebran las correspondientes elecciones extraordinarias, en los casos en que el Tribunal Estatal Electoral hubiere declarado la nulidad de los comicios o cuando, por cualquier otro motivo, dentro del primer año de ejercicio constitucional, faltaren de modo absoluto todos los miembros del ayuntamiento.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -853,9 +855,9 @@ En los casos de nulidad de elecciones y en los demás a que se refieren este inc
 
 Si alguno de los miembros dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga el Código Municipal.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
-XVI.- Recibir la protesta legal del Gobernador, diputados, magistrados del Supremo Tribunal de Justicia, del Tribunal Estatal de Elecciones y, del Tribunal de lo Contencioso Administrativo.
+XVI.- Recibir la protesta legal del Gobernador, de los diputados y de los magistrados del Supremo Tribunal de Justicia, del Tribunal Estatal Electoral y del Tribunal de lo Contencioso Administrativo; así como al Consejero presidente y consejeros electorales del Instituto Estatal Electoral.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -865,9 +867,9 @@ XVII.- Resolver sobre las renuncias que hagan de sus cargos los funcionarios a q
 
 XVIII.- Convocar para elecciones extraordinarias de Gobernador en los casos que determina esta Constitución y de diputados en el caso del artículo 60 y, cuando habiendo falta definitiva de un diputado propietario y de su suplente, hayan de transcurrir más de doce meses para que se efectúen las ordinarias.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
-XIX.- Conceder licencia temporal para separarse del ejercicio de sus funciones al Gobernador, diputados, magistrados del Tribunal Estatal de Elecciones, de lo Contencioso Administrativo y del Supremo Tribunal de Justicia, cuando la de éstos últimos sea por más de veinte días.
+XIX.- Conceder licencia temporal para separarse del ejercicio de sus funciones al Gobernador, a los diputados, y a los magistrados del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo y del Supremo Tribunal de Justicia, cuando la de éstos últimos sea por más de veinte días; así como al Consejero presidente y consejeros electorales del Instituto Estatal Electoral.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1079,15 +1081,15 @@ El proyecto de ley o de decreto devuelto al Congreso con observaciones deberá s
 
 Se reputará aprobado por el Gobernador todo proyecto no devuelto con observaciones al Congreso en el término prefijado para ese fin; y si durante éste se hubiere clausurado el período de sesiones, la devolución se deberá hacer a la Diputación Permanente.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
 ###### Art. 73.
 
-Las leyes que expida el Congreso, excepto las de carácter tributario o fiscal, serán sometidas a referéndum derogatorio, total o parcial, si dentro de los cuarenta y cinco días naturales siguientes a la fecha de su publicación así lo solicita ante el Tribunal Estatal de Elecciones el cinco por ciento, cuando menos, de los chihuahuenses inscritos en el padrón electoral, debidamente identificados.
+Las leyes que expida el Congreso, excepto las de carácter tributario o fiscal, serán sometidas a referéndum derogatorio o abrogatorio, si dentro de los cuarenta y cinco días naturales siguientes a la fecha de su publicación así lo solicita ante el Instituto Estatal Electoral, el cuatro por ciento, cuando menos, de los ciudadanos del Estado inscritos en el padrón electoral, debidamente identificados.
 
-Las leyes objetadas quedarán ratificadas si más del cincuenta por ciento de los ciudadanos que participen en el referéndum emite su opinión favorable a ellas. Caso contrario, serán derogadas y no podrán ser objeto de nueva iniciativa antes de dieciocho meses.
+Las leyes objetadas quedarán ratificadas si más del cincuenta por ciento de los ciudadanos que participen en el referéndum emite su opinión favorable a ellas. En caso contrario, serán derogadas o abrogadas y no podrán ser objeto de nueva iniciativa antes de dieciocho meses.
 
-El Tribunal Estatal de Elecciones efectuará el cómputo de los resultados del referéndum y ordenará su publicación en el periódico oficial. Lo mismo hará con el texto de las leyes ratificadas y, en su caso, remitirá al Congreso o a la Diputación Permanente las que no lo hayan sido para que proceda a su derogación inmediata. En este último caso, se convocará a período extraordinario de sesiones en un plazo que no excederá de quince días hábiles a partir de la fecha de su recepción.
+El Instituto Estatal Electoral efectuará el cómputo de los resultados del referéndum y ordenará su publicación en el periódico oficial. Lo mismo hará con el texto de las leyes ratificadas y, en su caso, remitirá al Congreso o a la Diputación Permanente las que no lo hayan sido para que proceda a su derogación o abrogación inmediata. En este último caso, se convocará a período extraordinario de sesiones en un plazo que no excederá de quince días hábiles a partir de la fecha de su recepción.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
@@ -1169,9 +1171,9 @@ VI.- Presentar al Congreso, al día siguiente de la apertura de un período de s
 
 VII.- Acordar la citación de los Suplentes en caso de falta absoluta de los Diputados Propietarios, que hubieren de funcionar en las sesiones próximas del Congreso.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
-VIII.- Recibir del Consejo y, en su caso, del Tribunal Estatal de Elecciones, la información relativa a la elección de Gobernador, de la que dará cuenta oportuna al Congreso, para efectos de la declaratoria de Gobernador Electo.
+VIII.- Recibir del Instituto Estatal Electoral y, en su caso, del Tribunal Estatal Electoral, la información relativa a la elección de Gobernador, de la que dará cuenta oportuna al Congreso para efectos de la declaratoria de Gobernador Electo.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1357,9 +1359,9 @@ XIV.- Exhortar a los ayuntamientos, presidentes de municipalidad y de sección y
 
 XV.- Coordinar, con los respectivos presidentes municipales, presidentes de sección y comisarios de policía, los asuntos relativos a los ramos cuya administración corresponda al Ejecutivo.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
-XVI.- Solicitar al Tribunal Estatal de Elecciones someta a plebiscito, en los términos que disponga la ley, propuestas de actos o decisiones de gobierno considerados como trascendentes para la vida pública del Estado.
+XVI.- Solicitar al Instituto Estatal Electoral someta a plebiscito, en los términos que disponga la ley, propuestas de actos o decisiones de gobierno considerados como trascendentes para la vida pública del Estado.
 
 XVII.- (DEROGADA, P.O. 1 DE OCTUBRE DE 1994)
 
@@ -1501,7 +1503,7 @@ DEL PODER JUDICIAL.
 
 DEL SUPREMO TRIBUNAL DE JUSTICIA.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
 ###### Art. 99.
 
@@ -1531,23 +1533,31 @@ Si al terminarse el período señalado a los funcionarios judiciales no hubieren
 
 ###### Art. 103.
 
-El Supremo Tribunal de Justicia se compondrá cuando menos de nueve magistrados numerarios y hasta tres supernumerarios, que serán designados de la siguiente manera:
-
-Cuando exista una vacante absoluta o se autorice la creación de una nueva sala, el Supremo Tribunal de Justicia convocará a los aspirantes a un concurso de méritos cuyo jurado, integrado en forma paritaria por representantes de los Poderes Ejecutivo y Judicial, seleccionará y someterá al pleno del Congreso una terna integrada por los candidatos mejor calificados.
-
-En la formación de las ternas se preferirá, en igualdad de circunstancias, a los jueces de primera instancia o secretarios de sala que hayan prestado sus servicios con eficiencia y probidad.
-
-Los magistrados serán electos por mayoría absoluta de votos de los diputados presentes, en escrutinio secreto. Si ninguno obtuviere tal mayoría en primera votación, se repetirá ésta entre los dos que hubieran obtenido más sufragios y se declarará electo al que obtenga el expresado número de votos. En caso de empate tendrá que presentarse nueva terna.
-
-Los magistrados que concluyan su encargo podrán ser ratificados por el Congreso, por mayoría absoluta de votos.
-
-Los magistrados y jueces en funciones o que disfruten de licencia con goce de sueldo, no podrán desempeñar otro cargo, empleo o comisión que fueren retribuidos, salvo los de docencia y fuera de las horas designadas al despacho en los asuntos del Poder Judicial.
+El Supremo Tribunal de Justicia se compondrá, cuando menos, de nueve magistrados, que serán designados de la siguiente manera:
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
+Cuando exista una vacante absoluta o se autorice la creación de una nueva sala, el Supremo Tribunal de Justicia convocará a los aspirantes a un concurso de méritos cuyo jurado, integrado en forma paritaria por representantes de los Poderes Ejecutivo y Judicial, seleccionará y someterá al pleno del Congreso una terna integrada por los candidatos mejor calificados.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+
+En la formación de las ternas se preferirá, en igualdad de circunstancias, a los jueces de primera instancia o secretarios de sala que hayan prestado sus servicios con eficiencia y probidad.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+
+Los magistrados serán electos por mayoría absoluta de votos de los diputados presentes, en escrutinio secreto. Si ninguno obtuviere tal mayoría en primera votación, se repetirá ésta entre los dos que hubieran obtenido más sufragios y se declarará electo al que obtenga el expresado número de votos. En caso de empate tendrá que presentarse nueva terna.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+
+Los magistrados que concluyan su encargo podrán ser ratificados por el Congreso, por mayoría absoluta de votos.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+
+Los magistrados y jueces en funciones o que disfruten de licencia con goce de sueldo, no podrán desempeñar otro cargo, empleo o comisión que fueren retribuidos, salvo los de docencia y fuera de las horas designadas al despacho en los asuntos del Poder Judicial.
+
 ###### Art. 104.
 
-Los magistrados supernumerarios tendrán las atribuciones que determine la ley.
+(DEROGADO, P.O. 3 DE SEPTIEMBRE DE 1997)
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1779,9 +1789,9 @@ El territorio del Estado se divide en sesenta y siete municipios que son:
 
 La Administración Municipal estará a cargo:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
-I.- De los ayuntamientos, los que serán electos popular y directamente según el principio de votación mayoritaria relativa, residirán en las cabeceras de las municipalidades que administren, durarán en su encargo tres años y estarán integrados por un presidente y el número de regidores que determine la ley, con sus respectivo suplentes.
+I.- De los Ayuntamientos, los que serán electos popular y directamente según el principio de votación mayoritaria relativa, residirán en las cabeceras de las municipalidades que administren, durarán en su encargo tres años y estarán integrados por un presidente, un síndico y el número de regidores que determine la ley, con sus respectivos suplentes.
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1988)</small>
 
@@ -2211,11 +2221,11 @@ Si el Congreso dejare de aprobar, en los términos de esta Constitución, las le
 
 (DEROGADO, P.O. 1 DE OCTUBRE DE 1986)
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
 ###### Art. 166.
 
-El Supremo Tribunal de Justicia, por conducto de su Presidente, comunicará oportunamente al Ejecutivo el proyecto de presupuesto de egresos del Poder Judicial para cada año fiscal, a fin de que sin modificación alguna lo presente al Congreso.
+El Supremo Tribunal de Justicia, el Tribunal Estatal Electoral y el Instituto Estatal Electoral, por conducto de sus respectivos presidentes, comunicarán oportunamente al Ejecutivo el proyecto de presupuesto de egresos para cada año fiscal, a fin de que sin modificación alguna los presente al Congreso.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1986)</small>
 
@@ -2335,13 +2345,13 @@ III.- Del Poder Judicial, los magistrados del Supremo Tribunal de Justicia y los
 
 IV.- De la Comisión Estatal de Derechos Humanos, su presidente.
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
-V.- Del Tribunal Estatal de Elecciones, cuando esté en funciones, sus magistrados, y
+V.- Del Tribunal Estatal Electoral, cuando esté en funciones, sus Magistrados, y
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
-VI.- Del Consejo Estatal de Elecciones, su presidente.
+VI.- Del Instituto Estatal Electoral, su presidente.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2567,7 +2577,7 @@ DECRETO No. 263
 
 PRIMERO.- Las reformas a que se refiere esta Ley, entrarán en vigor en todo el Estado, el día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- Los Ayuntamientos que vienen funcionando, con arreglo a la Constitución del Estado en sus términos vigentes hasta antes de estas reformas y a sus respectivas representaciones, concluirán su período el treinta y uno de diciembre de mil novecientos cincuenta y cinco.
+SEGUNDO.- Los Ayuntamientos que vienen funcionando, con arreglo a la Constitución del Estado en su términos vigentes hasta antes de estas reformas y a sus respectivas representaciones, concluirán su periodo el treinta y uno de diciembre de mil novecientos cincuenta y cinco.
 
 TERCERO.- Las próximas elecciones para Ayuntamiento, se verificarán en el mes de julio de mil novecientos cincuenta y seis. En tal virtud para el lapso de tiempo comprendido del primero de enero de mil novecientos cincuenta y seis al nueve de octubre del mismo año, conforme está previsto en la Constitución del Estado, el Congreso Constitucional procederá a integrar provisionalmente los Ayuntamientos respectivos, seleccionando las personas que han de ocupar los cargos a propuesta en ternas que presentará el Ejecutivo del Estado, antes del quince de diciembre de mil novecientos cincuenta y cinco.
 
@@ -2682,3 +2692,23 @@ Artículo Décimo. En tanto se expidan las nuevas normas aplicables a las materi
 P.O. 26 DE FEBRERO DE 1997.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Congreso expedirá la Ley a que el presente Decreto se refiere o hará las adecuaciones en las disposiciones legales vigentes, observando el plazo que regula el artículo 105, fracción II, de la Constitución Federal, y con el propósito de que se apliquen durante el proceso electoral de 1998.
+
+###### ARTICULO TERCERO.
+
+Los dos magistrados supernumerarios del Supremo Tribunal de Justicia tendrán, a partir de la entrada en vigor de esta reforma, el carácter de numerarios y desempeñarán las funciones que el Pleno les confiera conforme a su investidura, hasta en tanto se les asigne Sala de nueva creación o vacante absoluta del Magistrado titular de alguna de las existentes. Sólo hasta que se les haya asignado Sala, para las subsecuentes vacantes absolutas o de plazas de nueva creación se aplicará el proceso de convocatoria que establece el artículo 39 de la Ley Orgánica del Poder Judicial del Estado de Chihuahua.
+
+Para la asignación de Sala a los magistrados supernumerarios, prevalecerá la antigüedad en el servicio dentro del Poder Judicial del Estado.
+
+###### ARTICULO CUARTO.
+
+Para los efectos de la redistritación a que aluden los dos últimos párrafos del artículo 40 de la presente Constitución, el Congreso del Estado promoverá la prestación de apoyo técnico por parte del Instituto Federal Electoral, con el propósito de que este Organismo le plantee una propuesta de redistritación, misma que servirá de base para tal efecto.
