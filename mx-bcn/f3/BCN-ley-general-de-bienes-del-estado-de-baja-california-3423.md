@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-bienes-del-estado-de-baja-california-3423"
 country: "mx"
 rank: "ley_general"
 publication_date: "1973-07-31"
-last_updated: "1996-11-08"
+last_updated: "1997-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1997.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 31 de julio de 1973.
 
@@ -389,11 +389,13 @@ Los compradores de predios del Estado, no pueden hipotecarlos ni constituir sobr
 
 En los contratos respectivos deberá expresarse que la falta de pago de cualquiera de los abonos a cuenta del precio y de sus intereses en los términos convenidos, así como la violación de las prohibiciones que contiene este Artículo, dará origen a la rescisión del contrato, a cuyo efecto se transcribirá textualmente este Artículo en su clausulado.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 40.
 
-Cuando se trate de adquisiciones, enajenaciones o permutas en que el Gobierno del Estado sea parte, los bienes objeto de la operación se valuarán por la Comisión Estatal de Avalúos. Respecto de las permutas, la diferencia que resulte en favor del Erario, se cubrirá en efectivo precisamente en el momento de la operación.
+Cuando se trate de adquisiciones, enajenaciones o permutas en que el Gobierno del Estado sea parte, los títulos que le representen acciones, o los bienes objeto de la operación se valuarán por la Comisión Estatal de Avalúos. Respecto de las permutas, la diferencia que resulte a favor del erario, se cubrirá en efectivo precisamente en el momento de la operación.
+
+Las ventas de acciones a que se refiere el párrafo anterior no podrán ser de tal número que el Estado pierda su carácter de accionista.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
 
@@ -558,3 +560,9 @@ PRIMERO.- Remítase de nueva cuenta al Ejecutivo del Estado el Proyecto de Decre
 SEGUNDO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Se derogan las disposiciones que se opongan a las presentes adiciones.
+
+P.O. 21 DE FEBRERO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
