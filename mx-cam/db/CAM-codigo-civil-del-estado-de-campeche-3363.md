@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "1999-06-09"
+last_updated: "1999-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1999.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -4393,11 +4393,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el muni
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1981)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1999)</small>
 
 ###### Art. 742.
 
-El valor máximo de los bienes afectos al patrimonio de la familia, conforme al artículo 735, será la cantidad que resulte de multiplicar por 1155 el importe del salario mínimo general diario vigente en la zona correspondiente a su ubicación en el Estado, en la época en que se constituya el patrimonio.
+El valor máximo de los bienes afectos al patrimonio de la familia, conforme al artículo 735, será la cantidad que resulte de multiplicar por 6735 el importe del salario mínimo general diario vigente en la zona correspondiente a su ubicación en el Estado, en la época en que se constituya el patrimonio.
 
 ###### Art. 743.
 
@@ -15726,6 +15726,12 @@ Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que 
 P.O. 9 DE JUNIO DE 1999.
 
 Primero: El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo: Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 25 DE JUNIO DE 1999.
+
+Primero: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo: Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
 
