@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1994-01-04"
+last_updated: "1995-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 1995.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -54,23 +54,13 @@ III.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F.
 
 IV.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-V.- Los ferrocarriles:
-
-a).- Cuando comuniquen entre sí a dos o más Entidades Federativas.
-
-b).- Cuando en todo o en parte del trayecto estén dentro de la zona fronteriza de cien kilómetros o en la faja de cincuenta kilómetros a lo largo de las costas, con excepción de las líneas urbanas que no crucen la línea divisoria con otro país y que no operen fuera de los límites de las poblaciones.
-
-c).- Cuando entronquen o conecten con algún otro de los enumerados en esta fracción, siempre que presten servicio público, exceptuándose las líneas urbanas que no crucen la línea divisoria con otro país.
-
-d).- Los construídos en su totalidad o en su mayor parte por la Federación.
-
-e).- Los ferrocarriles particulares cuando sean auxiliares de una explotación industrial y hagan servicio público;
+V.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 VI.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 VII.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
-VIII.- El espacio aéreo nacional en que transiten las aeronaves;
+VIII.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 IX.- Las líneas telefónicas instaladas y las que se instalen dentro de la zona fronteriza de cien kilómetros o de la faja de cincuenta kilómetros a lo largo de las costas, así como las que estén situadas dentro de los límites de un Estado, siempre que conecten con las redes de otro Estado o con las líneas generales de concesión federal o de países extranjeros, o bien cuando sean auxiliares de otras vías generales de comunicación o de explotaciones industriales, agrícolas, mineras, comerciales, etcétera, que operen con permiso, contrato o concesión de la Federación.
 
@@ -176,9 +166,9 @@ Mientras se expide una ley sobre ferrocarriles que estén en el Distrito o Terri
 
 No necesitarán concesión, sino permiso de la Secretaría de Comunicaciones:
 
-I.- Los ferrocarriles y caminos particulares que se construyan dentro de los cien kilómetros de la frontera o dentro de la zona de cincuenta kilómetros a lo largo de las costas;
+I.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
-II.- Las aeronaves que se dediquen exclusivamente a usos particulares del permisionario, a experimentación o al servicio privado de fincas rústicas o negociaciones industriales;
+II.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 III.- Las estaciones radiodifusoras culturales, las de experimentación científica y las de aficionados;
 
@@ -186,7 +176,7 @@ IV.- Las instalaciones de comunicaciones eléctricas destinadas a servicios espe
 
 V.- Las embarcaciones que presten servicio público de cabotaje o de navegación interior. Cuando por su importancia sea conveniente el otorgamiento de concesiones, a juicio de la Secretaría de Comunicaciones, se dará preferencia a los permisionarios que desempeñen el servicio;
 
-VI.- Las aeronaves que hagan servicio internacional en los términos de las convenciones o tratados respectivos;
+VI.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 VII.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
@@ -1066,129 +1056,77 @@ La Secretaría de Comunicaciones y Transportes resolverá administrativamente to
 
 ###### ARTICULO 129.
 
-Las concesiones para la construcción y explotación de ferrocarriles, se otorgarán preferentemente:
-
-I.- A las sociedades creadas para ese objeto, en las cuales el Gobierno Federal sea accionista mayoritario, y
-
-II.- A las sociedades organizadas bajo el régimen cooperativo, con el mismo objeto.
-
-Las concesiones a que este artículo se refiere, se otorgarán por el plazo que fije la Secretaría de Comunicaciones, que no podrá exceder de setenta años.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 130.
 
-Para los efectos de esta ley, se entiende que una línea de ferrocarril entronca con otra cuando los rieles de una de dichas vías se unen con los de otra, de manera que los carros puedan circular en ambas.
-
-Hay conexión, cuando los rieles de una vía entran en los de otra, en caso de ser diferentes escantillones, o cuando las vías están construídas de manera que sea preciso el transbordo de una a otra vía en el mismo lugar.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 131.
 
-Las empresas de ferrocarriles y tranvías están obligadas a conceder a los inspectores de ferrocarriles y al personal auxiliar de inspección el derecho de viajar a bordo de todos los trenes de pasajeros, en cualquier carro o coche, en trenes de carga o de trabajo, locomotoras, autovías, carretillas y armones, a viajar en los vestíbulos de los carros o en el lugar que juzguen más conveniente para el desempeño de su cometido y a transportar, libre de pago, sus equipajes, siempre que no excedan de quinientos kilogramos. Para el efecto, la Secretaría de Comunicaciones otorgará las credenciales en la forma que prevenga el reglamento respectivo, las que serán expedidas exclusivamente al personal de inspección que aparezca en las nóminas de la Dirección de Ferrocarriles de la propia Secretaría.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 132.
 
-Las empresas de ferrocarriles están obligadas, cuando se trata de las remesas de que habla el artículo 64 y que se transporten en trenes por entero, a correr éstos con derecho de preferencia sobre cualquier otra clase de trenes, excepción hecha de los de pasajeros; a adaptar el material rodante o permitir que los embarcadores lo adapten por su cuenta para las necesidades de sus remesas; a suministrar el material de tracción en buenas condiciones de servicio, de manera que se haga un arrastre rápido y eficaz; a tomar las medidas necesarias para que la carga no sufra por movimientos bruscos del tren y a dar aviso oportuno a las líneas ferrocarrileras en conexión, respecto a la llegada de trenes, a fin de que éstas estén listas para correrlos inmediatamente que lleguen a los puntos de conexión.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 133.
 
-Las empresas porteadoras están obligadas a proporcionar a los embarcadores los carros necesarios para el transporte de mercancías, y aceptar en sus líneas carros de propiedad particular de los que ellas no estén en posibilidad inmediata de proporcionar, obligándose las empresas de transporte a reparar por su cuenta el equipo que se opere en las condiciones antes dichas de acuerdo con los contratos relativos que para el caso se celebren.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 134.
 
-Las empresas de ferrocarriles que de acuerdo con lo que establece esta Ley, deban conducir en sus trenes las correspondencias del correo, están obligadas:
-
-I.- A proporcionar, para el efecto, en cada tren que haga viajes periódicos regulares, ya sea de pasajeros, express, mixtos o carga, cuando no existan los otros servicios, los carros o departamentos independientes en los mismos, según el volumen de las correspondencias, de manera que haya la amplitud necesaria para su cómoda condición y la de los empleados encargados de su cuidado y manipulación. Cuando el viaje no lo ejecute normalmente un tren, sino un vehículo aislado, la obligación se limitará a proporcionar un departamento en él, como se expresa;
-
-II.- A dotar estos carros o departamentos, por su cuenta, con los muebles, aparatos y enseres que indique la Dirección de Correos y Telégrafos como necesarios para la ejecución del servicio postal a bordo; ajustándose para su colocación, forma, dimensiones y demás detalles a los planos que proporcione la propia Dirección;
-
-III.- A dotar de buen alumbrado, asear y conservar en estado de higiene y reparar oportunamente, también por su cuenta, los carros o locales dichos, dotándolos de aparatos de alarma o cordón de señales, y
-
-IV.- A permitir que viajen a bordo de los vehículos en que se conduzcan correspondencias, los empleados postales referidos, siempre que vayan provistos de las credenciales respectivas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 135.
 
-Si un empleado de una empresa de transportes apareciere complicado en algún hecho delictuoso, no podrá ser aprehendido desde luego si con ello se trastorna el servicio. Las autoridades se limitarán a dictar las medidas preventivas necesarias para evitar su fuga, entre tanto se le substituye en el cargo que desempeñe. Las empresas tendrán la obligación de proceder a la substitución del empleado, tan pronto como el servicio lo permita.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 ### CAPITULO II. Ferrocarriles particulares
 
 ###### ARTICULO 136.
 
-Los ferrocarriles particulares y los que siendo auxiliares de una explotación industrial hagan servicios públicos, estarán sujetos, por lo que respecta a la explotación de dichos servicios públicos, a las bases que conforme a las prescripciones de esta Ley y sus reglamentos fije la Secretaría de Comunicaciones.
-
-En ellas se determinarán las obligaciones y derechos del permisionario, nombrándose un interventor cuyos emolumentos serán cubiertos por aquél.
-
-Los ferrocarriles particulares y los auxiliares de una explotación industrial, para hacer servicio público, necesitarán permiso de la Secretaría de Comunicaciones. Dichos permisos serán revocables en cualquier tiempo, a juicio de la propia Secretaría.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 ### CAPITULO III. Explotación de ferrocarriles
 
 ###### ARTICULO 137.
 
-El servicio de carros dormitorios y comedores que proporcionen las empresas ferrocarrileras, será considerado como auxiliar de las mismas y estará sujeto, igualmente que los servicios que se presten en dichos carros, a la jurisdicción de la Secretaría de Comunicaciones, por lo que se refiere a su inspección y a las tarifas que por unos y otros servicios cobren las empresas respectivas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 138.
 
-Todas las empresas de ferrocarril, incluso las que el Gobierno Federal posea o administre en todo o en parte, están obligadas a permitir que en sus líneas circulen trenes pertenecientes a otras empresas ferrocarrileras cuando a juicio de la Secretaría de Comunicaciones sea necesario. Llegando este caso se observarán las disposiciones siguientes:
-
-I.- Las resoluciones de la Secretaría, imponiendo la circulación de que se trata, se dictarán después de oír a las empresas interesadas, y dejarán de tener efecto al cesar las causas que las motivaron.
-
-II.- Los trenes circularán con regularidad y conforme a horarios autorizados, que no impidan, embaracen o estorben el servicio de la empresa propietaria de la línea;
-
-III.- Se pagará por el tránsito de trenes a la empresa propietaria de la vía y previo convenio entre las empresas interesadas, un tanto por ciento de lo que con arreglo a las tarifas vigentes, cobre al público la empresa dueña de la vía, pero sin que exceda aquél del sesenta por ciento; en defecto de este convenio se pagará el tanto por ciento que fije la concesión de la empresa propietaria de la vía, y en defecto de convenio o de estipulación en la concesión, se pagará el sesenta por ciento, y
-
-IV.- La empresa propietaria de la vía suministrará a la que ocupe ésta, el agua, combustibles, lubricantes, tripulaciones y pilotos de que aquella disponga, en la proporción y precio que convengan; a falta de convenio, en lo que señale la Secretaría de Comunicaciones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 139.
 
-Los ferrocarriles están obligados, en caso de emergencia, a juicio de la Secretaría de Comunicaciones, sin perjuicio de su servicio, a poner sus líneas telegráficas al servicio de la Red Nacional.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 140.
 
-Un remitente podrá tomar para sí o para varios, un carro por entero, para que en éste transporte mercancías de igual o diferente clasificación, siempre que el embarque se haga en un mismo punto de origen y a un solo punto de destino; en este caso, se expedirá una sola carta de porte o conocimiento al remitente que tome el carro y a favor de un solo consignatario, calculándose el flete conforme a la cuota de tarifa de carro por entero correspondiente a la clase superior de las mercancías transportadas. Se prohibe, a quienes obtengan esta clase de servicios, especular con el transporte.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 ### CAPITULO IV. Tranvías
 
 ###### ARTICULO 141.
 
-Las concesiones para la construcción y explotación de tranvías se otorgarán por el plazo que señale la Secretaría de Comunicaciones, que no podrá exceder de cincuenta años.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 142.
 
-El otorgamiento de una concesión para explotar tranvías, comprende el derecho de ocupar las calles y plazas de las poblaciones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 143.
 
-Las empresas de tranvías están obligadas a pavimentar las entrevías y una faja de un metro a cada lado de la orilla exterior de los rieles, con la misma clase de pavimento que el de la calle o del camino.
-
-Al mejorarse los pavimentos por las autoridades, deberán las empresas hacer iguales mejoras en las mismas fajas. Estas tendrán también la obligación de mantener en constante buen estado de conservación la faja expresada.
-
-En los cruzamientos con caminos o calles, se mantendrán en buen estado de conservación por quien corresponda, conforme el artículo 41, tanto las obras a que dé lugar el cruzamiento, como el camino o la calle.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 144.
 
-Sin perjuicio de las obligaciones que establezca la concesión respectiva, toda empresa de tranvías está sujeta al cumplimiento de las obligaciones siguientes, dentro de los plazos que señale la autoridad respectiva;
-
-I.- A no emplear para indicar la separación de la vía respecto de las calzadas o de las calles, cercas, guarniciones o cualesquiera otros medios con los cuales se dificulte u obstruya el libre tránsito, con excepción de las líneas suburbanas, que podrá proteger con alambrados fuera del perímetro de las poblaciones que atraviesen;
-
-II.- A establecer, en los puntos en que sea necesario, obras adecuadas para asegurar la expedita comunicación entre las calles y los predios vecinos. La Secretaría de Comunicaciones fijará los puntos necesarios y las normas del caso.
-
-III.- A colocar en los sitios de peligro, barreras, señales, luces y otros medios de protección permanentes que la Secretaría de Comunicaciones juzgue adecuados para la seguridad del tránsito;
-
-IV.- A construir las obras necesarias para no entorpecer el curso de las aguas que atraviesen las calles o corran a lo largo de ellas, el libre escurrimiento de las aguas pluviales y las provenientes de filtraciones;
-
-V.- A adoptar las medidas y ejecutar las obras que prevenga el Reglamento respectivo, o que ordene la autoridad respectiva, para evitar los efectos de inundación y electrolíticos de la corriente sobre toda clase de líneas, conductos, tuberías, etc., que también se instalen en las calles y calzadas.
-
-VI.- A adoptar durante la construcción, reparación, conservación, reconstrucción o remoción de las vías, las medidas necesarias para mantener la continuidad y seguridad del tránsito público.
-
-VII.- A restablecer a su estado primitivo el pavimento de la calle que hubiere sido destruído con motivo de la instalación de la vía, de su reparación, conservación, reconstrucción o levantamiento;
-
-VIII.- A contribuir pecuniariamente con las autoridades en la proporción que les corresponda, para la ejecución de las obras públicas proyectadas por las mismas autoridades, cuando dichas obras sean usadas total o parcialmente por las vías férreas;
-
-IX.- Cuando la vía férrea no tenga el nivel de la calle, la empresa está obligada a corregir el desnivel en toda su extensión, en la forma y condiciones que acuerde la autoridad, y
-
-X.- A cumplir en la colocación de postes, y en la de elección de éstos, las prevenciones de la propia autoridad y las que determinen los reglamentos de esta Ley.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 145.
 
-Son aplicables a los tranvías las disposiciones relativas a ferrocarriles, en cuanto no se opongan a las prescripciones de este capítulo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 ## TITULO SEGUNDO. Caminos
 
@@ -1346,7 +1284,7 @@ Son aplicables a los tranvías las disposiciones relativas a ferrocarriles, en c
 
 ###### ARTICULO 180.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993) (REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993) (REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 181.
 
@@ -1664,7 +1602,7 @@ Son aplicables a los tranvías las disposiciones relativas a ferrocarriles, en c
 
 ###### ARTICULO 256.
 
-La categoría y el número de los pilotos de puerto que deben ejercer en cada puerto, rada, canal, río, lago o laguna, serán fijados por la Secretaría de Comunicaciones, pero una vez nombrados, sólo podrán ser cesados en sus empleos en los casos previstos en el reglamento, o por resolución judicial que los inhabilite para el ejercicio del pilotaje.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 257.
 
@@ -1697,10 +1635,6 @@ La categoría y el número de los pilotos de puerto que deben ejercer en cada pu
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 264.
-
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
-
-###### ARTICULO 265.
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
@@ -1788,7 +1722,7 @@ La categoría y el número de los pilotos de puerto que deben ejercer en cada pu
 
 ###### ARTICULO 284.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993) (REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ### CAPITULO XIV. Del personal de la Marina Mercante
 
@@ -1888,239 +1822,117 @@ La categoría y el número de los pilotos de puerto que deben ejercer en cada pu
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
-
 ###### ARTICULO 306.
 
-El espacio situado sobre el territorio mexicano está sujeto a la soberanía nacional.
-
-Para los efectos de esta Ley, el término territorio mexicano comprende la extensión terrestre de los Estados Unidos Mexicanos, las aguas territoriales e islas adyacentes en ambos mares, y la Isla de Guadalupe y las de Revillagigedo, situadas en el Océano Pacífico.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 307.
 
-La navegación aérea civil sobre el territorio mexicano se rige por los tratados y convenciones internacionales que el Gobierno de México haya suscrito y ratificado constitucionalmente, por la presente Ley y sus reglamentos y por la demás leyes y reglamentos aplicables.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 308.
 
-Para los efectos de inspección, vigilancia y control de la navegación aérea civil, toda aeronave civil que se encuentre en territorio mexicano o vuele sobre el mismo así como su tripulación, pasajeros y efectos transportados, quedan sujetos exclusivamente a la jurisdicción y competencia del Ejecutivo Federal.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 309.
 
-Se someterán a las leyes mexicanas:
-
-> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
-
-I.- Los hechos y actos jurídicos que ocurran a bordo de las aeronaves mexicanas durante el vuelo, ya sea sobre territorio nacional o sobre mares no territoriales y aquellos que ocurran a bordo de aeronaves mexicanas durante el vuelo sobre territorio extranjero, a menos de que sean de tal naturaleza que atenten contra la seguridad o el orden público del Estado extranjero subyacente.
-
-II.- Los actos delictuosos ocurridos a bordo de cualquier aeronave sobre territorio extranjero, cuando produzcan o se pretenda que tengan efectos en territorio mexicano.
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
-
-Son aplicables a la navegación aérea civil las disposiciones que sobre nacimientos y defunciones a bordo de un buque mexicano establece el Código Civil para el Distrito Federal.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 310.
 
-Serán solidariamente responsables el propietario, poseedor u operador de la aeronave con el comandante o piloto de la misma, por cualquiera violación a esta Ley y sus reglamentos, resultante de órdenes dictadas por algunos de aquellos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 (REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 23 DE ENERO DE 1950)
 
 ### CAPITULO II. Del régimen de las aeronaves
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
-
 ###### ARTICULO 311.
 
-Para los efectos de esta Ley, se considera aeronave cualquier vehículo que pueda sostenerse en el aire.
-
-Las aeronaves mexicanas se clasifican en aeronaves de Estado y aeronaves civiles. Son aeronaves de Estado las de propiedad de la Federación, de los Estados, de los Municipios o de los organismos públicos descentralizados. Todas las demás se considerarán aeronaves civiles, ya sean de servicio público o de servicio privado.
-
-Las aeronaves civiles destinadas permanentemente a un servicio de Estado, se consideran aeronaves de Estado.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 312.
 
-La nacionalidad y matrícula de las aeronaves civiles se rigen por las disposiciones siguientes:
-
-I.- Las aeronaves tienen la nacionalidad del Estado en que estén matriculadas.
-
-II.- Ninguna aeronave podrá tener más de una matrícula.
-
-III.- Para adquirir, modificar o cancelar la marca de de (sic) nacionalidad o la matrícula de una aeronave mexicana, se requiere cumplir con las formalidades establecidas por esta Ley.
-
-IV.- Las aeronaves matriculadas en otro Estado podrán adquirir matrícula mexicana previa cancelación de la extranjera.
-
-V.- La inscripción de una aeronave en el Registro Aeronáutico Mexicano y el otorgamiento de su matrícula le confieren la nacionalidad mexicana.
-
-VI.- La inscripción de una aeronave en el Registro Aeronáutico Mexicano podrá ser solicitada por el propietario de la aeronave o por quien tenga título para ello.
-
-Inscrita la aeronave, se otorgará la matrícula correspondiente y se expedirá el certificado de nacionalidad y matrícula que la identificará y probará su inscripción.
-
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 313.
 
-Sólo los ciudadanos mexicanos o las personas jurídicas mexicanas podrán inscribirse en el Registro Aeronáutico Mexicano y matricular aeronaves destinadas a servicio público de transporte aéreo, o a servicio privado de trabajo aéreos de aerofotografía, aerotopografía y otros análogos.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 314.
 
-La cancelación de una matrícula de una aeronave en el Registro Aeronáutico Mexicano, implica la pérdida de su nacionalidad mexicana.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 (REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 23 DE ENERO DE 1950)
 
 ### CAPITULO III. De las marcas de nacionalidad y matrícula
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
-
 ###### ARTICULO 315.
 
-Toda aeronave civil deberá llevar la marcas distintivas de su nacionalidad y matrícula.
-
-Las marcas de nacionalidad para las aeronaves mexicanas serán las siglas XA para las de servicio público; XB para las de servicio privado; XC para las de Estado.
-
-La Secretaría de Comunicaciones asignará a cada aeronave su marca de matrícula, la cual, junto con la de nacionalidad, se fijará en la aeronave en la forma y con las características que determine el reglamento respectivo.
-
-Las aeronaves mexicanas que se utilicen en un servicio público de transporte internacional, deberán ostentar, en la forma reglamentaria, la insignia nacional.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 (REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 23 DE ENERO DE 1950)
 
 ### CAPITULO IV. De la aeronavegabilidad
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
-
 ###### ARTICULO 316.
 
-La Secretaría de Comunicaciones expedirá el certificado de navegabilidad como constancia de que la aeronave ha pasado las pruebas y el control técnico prescritos, para permitirle volar en condiciones de seguridad técnicamente satisfactorias.
-
-La obtención, suspensión y cancelación del certificado de navegabilidad, estarán sujetos a los requisitos reglamentarios.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 317.
 
-Se presume, salvo prueba en contrario, que una aeronave con certificado vigente de navegabilidad, ha partido en condiciones de vuelo técnicamente satisfactorias.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 318.
 
-Las aeronaves, motores y accesorios que se construyan, reparen o modifiquen, no podrán ser puestos en servicio sin aprobación de la Secretaría de Comunicaciones, de conformidad con el reglamento respectivo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 (REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 23 DE ENERO DE 1950)
 
 ### CAPITULO V. Del personal técnico aeronáutico
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
-
 ###### ARTICULO 319.
 
-El personal técnico aeronáutico está constituído por los miembros de la tripulación de vuelo y el personal de tierra adscrito al servicio de la navegación aérea civil.
-
-> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
-
-Para actuar como miembro del personal técnico aeronáutico se requiere ser titular de una licencia válida para ejercer las funciones correspondientes, que le haya otorgado o reconocido la Secretaría de Comunicaciones. Esta dependencia podrá convalidar o reconocer las licencias expedidas en el extranjero por autoridad competente, siempre que los requisitos bajo los cuales se expidieron o se declaran válidas sean iguales, por lo menos, a las normas mínimas reglamentarias exigidas en México para el otorgamiento de tales licencias.
-
-> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
-
-Los requisitos de edad, nacionalidad y conducta exigidos para obtener las licencias aeronáuticas; las condiciones de capacidad, aptitud física, exámenes, experiencia y pericia necesarios para obtenerlas, así como la aptitud que a sus titulares se reconozcan y las facultades que se les concedan por las mismas licencias, serán determinados en los reglamentos respectivos, que también prescribirán la vigencia, condiciones de renovación, suspensión y revocación de dichas licencias.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 320.
 
-La Secretaría de Comunicaciones podrá autorizar el empleo temporal de técnicos extranjeros como asesores o instructores del personal aeronáutico mexicano, cuando a su juicio sea necesario para el desempeño o mejoramiento de un servicio aeronáutico.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 (REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 23 DE ENERO DE 1950)
 
 ### CAPITULO VI. Del comandante de la aeronave
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
-
 ###### ARTICULO 321.
 
-Toda aeronave destinada a un servicio público de transporte estará bajo el mando de un comandante designado por la empresa operadora de entre los pilotos que integren la tripulación de vuelo.
-
-El comandante es responsable de la dirección, el cuidado, el orden y la seguridad de la aeronave, la tripulación, los pasajeros y sus equipajes, la carga, y el correo, tan pronto se haga cargo de la aeronave para comenzar el vuelo. Esta responsabilidad se extingue al final del vuelo, cuando el representante de la empresa o cualquiera autoridad competente tome a su cargo la aeronave, los pasajeros, la carga, los equipajes y el correo.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 322.
 
-El comandante de la aeronave registrará en el libro de bitácora los hechos que puedan tener consecuencias legales, ocurridos abordo durante el vuelo y los pondrá en conocimiento de las autoridades federales competentes del primer lugar de aterrizaje en territorio nacional, o las autoridades extranjeras competentes y del Cónsul mexicano, si el aterrizaje se realiza fuera del país.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 (REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 23 DE ENERO DE 1950)
 
 ### CAPITULO VII. De las operaciones
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
-
 ###### ARTICULO 323.
 
-Para operar en territorio mexicano, los propietarios, poseedores u operadores de aeronaves civiles y en su caso los comandantes y pilotos, deberán cumplir con los siguientes requisitos:
-
-I.- Utilizar los tipos de aeronaves que exijan la concesión o permiso respectivo, de acuerdo con el servicio a que se destinen.
-
-II.- Operar la aeronave dentro de las limitaciones de su certificado de aeronavegabilidad.
-
-III.- Estar provistos de los certificados de matrícula y aeronavegabilidad, licencias del personal aeronáutico y demás documentos requiridos.
-
-IV.- Antes de iniciar el vuelo, cerciorarse de la vigencia del certificado de aeronavegabilidad y licencias del personal y preparar y observar, salvo caso de emergencia, el plan de vuelo conforme al cual deban realizarse las operaciones.
-
-V.- Usar solamente los aeródromos autorizados que sean adecuados para el tipo de aeronaves operadas y para el servicio de que se trate, salvo caso de emergencia.
-
-VI.- Dotar a las aeronaves con los equipos de radiocomunicación y de auxilio que señalen los reglamentos respectivos para cada tipo de aeronave.
-
-VII.- Observar las disposiciones reglamentarias sobre luces y señales para la circulación aérea.
-
-VIII.- Realizar las maniobras de embarque y desembarque, carga y descarga de las aeronaves, en forma tal que no estorben las de otras aeronaves ni impidan el tránsito aéreo ni la circulación en los aeródromos.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 324.
 
-En las aeronaves civiles no se podrá:
-
-I.- Volar sobre zonas que hayan sido declaradas prohibidas a la navegación aérea por el Ejecutivo Federal.
-
-II.- Transportar armas, municiones, explosivos y artículos que por su naturaleza inherente sean peligrosos, a menos que cuenten con permiso de las autoridades competentes.
-
-III.- Transportar personas en estado de embriaguez o bajo los efectos de estupefacientes y, salvo con permiso de las autoridades competentes, cadáveres y enfermos contagiosos o mentales.
-
-IV.- Realizar vuelos acrobáticos y evoluciones de carácter peligroso sobre las ciudades y centros de población.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 325.
 
-El examen y despacho de las aeronaves de servicio público, así como de sus tripulantes y de sus pasajeros y equipajes, carga y correo, deberá llevarse a cabo en la forma expedita que los reglamentos señalen.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 (REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 23 DE ENERO DE 1950)
 
 ### CAPITULO VIII. Del tránsito aéreo
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
-
 ###### ARTICULO 326.
 
-El tránsito aéreo se ajustará a las siguientes reglas:
-
-I.- Es atribución de la Secretaría de Comunicaciones el control de tránsito aéreo y de los servicios de meteorología, de telecomunicaciones aeronáuticas y de ayuda a la navegación aérea. En ejercicio de esta atribución dictará las medidas que sean necesarias para la mayor seguridad y eficiencia de la navegación aérea, con el fin de proteger la vida humana y la propiedad. Puede, en su caso, otorgar concesiones o permisos para la prestación de dichos servicios, a organismos técnicos que tendrán el carácter de auxiliares y conexos de las vías de comunicación y se considerarán de interés público.
-
-II.- El uso de los servicios de control del tránsito aéreo, de telecomunicaciones aeronáuticas, de información meteorológica y de ayudas a la navegación aérea, es requisito de seguridad de obligatorio cumplimiento para todas las aeronaves. Dichos servicios se pondrán a disposición de quienes operen las aeronaves sobre bases, condiciones y tarifas aprobadas por la Secretaría de Comunicaciones.
-
-III.- La Secretaría de Comunicaciones dictará las medidas que estime necesarias para ampliar y modernizar la red de instalaciones auxiliares de la navegación aérea y vigilará que las empresas de servicio público y los permisionarios de servicio privado, cumpla en todo tiempo con los requisitos de seguridad que establecen esta Ley y sus reglamentos.
-
-IV.- Las operaciones por parte de aeronaves militares en las aerovías, en las zonas de control de tránsito o en los aeródromos civiles, quedarán sujetas a las disposiciones sobre tránsito aéreo contenidas en esta Ley y sus reglamentos. Las infracciones que se cometan durante dichas operaciones serán comunicadas a la Secretaría de la Defensa Nacional.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 (REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 23 DE ENERO DE 1950)
 
@@ -2166,197 +1978,65 @@ Los propietarios u operadores de aeródromos civiles estarán obligados a permit
 
 ### CAPITULO X. Del transporte aéreo nacional
 
-(REFORMADO, D.O.F. 23 DE ENERO 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
-
 ###### ARTICULO 329.
 
-El servicio público de transporte aéreo nacional regular está sujeto:
-
-a).- A la obtención de concesión en los términos de capítulo III, Libro I y del artículo 331 de esta Ley y demás disposiciones aplicables.
-
-b).- A itinerarios, frecuencias de vuelos y horarios previamente aprobados por la Secretaría de Comunicaciones.
-
-c).- A remuneración conforme a tarifas previamente aprobadas por la Secretaría de Comunicaciones y debidamente puestas en conocimiento del público.
-
-d).- A accesibilidad permanente al público, con sujeción a los incisos b) y c).
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 330.
 
-El servicio público de transporte aéreo no regular está sujeto:
-
-a).- A la obtención de permiso en los términos de esta Ley y demás disposiciones aplicables.
-
-b).- A la realización de vuelos conforme a convenios con los usuarios del servicio, con arreglo a esta Ley y sus reglamentos.
-
-c).- A remuneración sujeta a lo previsto en el artículo 336, inciso a), segundo párrafo.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 331.
 
-Para obtener concesión o permiso, en su caso, para el establecimiento y explotación de un servicio público de transporte aéreo regular o no regular, los interesados deberán comprobar, a satisfacción de la Secretaría de Comunicaciones, lo siguiente:
-
-a).- Que el servicio satisface una necesidad o conveniencia pública.
-
-b).- Que el solicitante tiene capacidad y elementos técnicos y financieros para operar el servicio propuesto.
-
-> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
-
-c).- Que el solicitante se encuentre en el caso que prevee el artículo 12 de esta Ley.
-
-d).- Los demás requisitos que fije esta Ley, sus reglamentos y demás leyes aplicables.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 332.
 
-Para iniciar la operación de un servicio público de transporte aéreo, regular o no regular, la empresa debe acreditar ante la Secretaría de Comunicaciones, que cuenta o dispone, por cualquier título o contrato, con lo siguiente:
-
-a).- Aeródromos aptos para el servicio de acuerdo con los reglamentos respectivos.
-
-b).- Instalaciones y servicios auxiliares de la navegación aérea que exija esta Ley y sus reglamentos.
-
-c).- Equipo de vuelo aprobado para el servicio y personal técnico aeronáutico autorizado.
-
-d).- Itinerarios, tarifas y honorarios aprobados por la Secretaría de Comunicaciones.
-
-e).- Los seguros que exige esta Ley.
-
-f).- Los demás elementos requeridos por la concesión o permiso.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 333.
 
-La falta de cumplimiento, en cualquier tiempo, de alguno de los requisitos contenidos en el artículo anterior, así como de las obligaciones de la concesión o permiso respectivo, o de los reglamentos de esta Ley, será causa de suspensión de los servicios; o de caducidad o de revocación de la concesión o permiso, sin perjuicio de las demás sanciones que establece esta Ley.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 334.
 
-La Secretaría de Comunicaciones fijará la duración de las concesiones y de los permisos, conforme a las siguientes bases:
-
-I.- Las concesiones para servicio público de transporte aéreo regular se otorgarán por un período inicial máximo de treinta años, el cual se determinará de acuerdo con la importancia económica del servicio y de la empresa misma, la cuantía de la intervención inicial y de las ulteriores necesarias para el desarrollo y mejoramiento del servicio y los demás elementos de apreciación que se requieran.
-
-II.- En los permisos para servicio público de transporte aéreo no regular, el plazo se fijará de acuerdo con la importancia de la empresa y las inversiones iniciales hechas por la misma.
-
-III.- El concesionario de un servicio público de transporte aéreo regular tendrá derecho a que se le otorguen prórrogas del plazo inicial por períodos adicionales de 10 años cada uno, si al vencimiento de dicho plazo inicial o de cualquiera de las prórrogas, demuestra haber cumplido satisfactoriamente con todas sus obligaciones y haber hecho mejoras de importancia en el servicio.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 335.
 
-El Gobierno Federal podrá adquirir, al término de la concesión o de la prórroga correspondiente, todos los bienes y derechos afectos al servicio de transporte aéreo de la empresa de que se trate y la empresa misma. El precio se fijará de común acuerdo, o en su defecto, en los términos de ley.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 336.
 
-La Secretaría de Comunicaciones podrá:
-
-a).- Conceder permiso para la realización de vuelos especiales de transporte público, pero cuando pretendan afectuarse (sic) entre puntos comunicados por una empresa de transporte regular, los permisos sólo se otorgarán en caso de que la empresa concesionaria de este servicio, no esté en condiciones de realizar por sí misma el vuelo.
-
-> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
-
-Las cuotas que se cobren por dichos vuelos no podrán ser en ningún caso inferiores a las autorizadas para el servicio regular correspondiente.
-
-b).- Autorizar la realización de vuelos puramente de reconocimiento y estudios técnicos sobre rutas no exploradas, con el fin de reunir datos y pruebas concernientes al establecimiento de servicios de transporte aéreo. Estas autorizaciones se concederán por el término máximo improrrogable de tres meses.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ### CAPITULO XI. Del transporte aéreo internacional
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
-
 ###### ARTICULO 337.
 
-El servicio público de transporte aéreo internacional se clasifican en:
-
-a).- Servicio mexicano de transporte internacional regular.
-
-b).- Servicio mexicano de transporte internacional no regular.
-
-c).- Servicio extranjero de transporte internacional regular.
-
-d).- Servicio extranjero de transporte internacional no regular.
-
-La prestación de estos servicios, de o hacia el Territorio mexicano, se efectuará con apego a las siguientes condiciones:
-
-I.- El servicio mexicano de transporte internacional regular, al amparo de concesión solicitada y obtenida en los términos del capítulo III, Libro I, y de los artículos 331 y 332 de esta Ley y de los reglamentos aplicables.
-
-II.- El servicio mexicano de transporte internacional no regular, con base en permisos otorgados por la Secretaría de Comunicaciones, revocables en cualquier tiempo.
-
-III.- El servicio extranjero de transporte internacional regular, de acuerdo con permiso que, otorgado por la Secretaría de Comunicaciones, contenga obligaciones iguales a las impuestas a empresas mexicanas para prestar servicio público de transporte aéreo regular.
-
-IV.- El servicio extranjero de transporte internacional no regular, con autorización en cada caso de la Secretaría de Comunicaciones. Cuando estos vuelos pretendan efectuarse entre puntos o zonas comunicadas por una empresa mexicana de transporte internacional regular, tales autorizaciones sólo podrán otorgarse si esta empresa no está en condiciones de realizar el vuelo.
-
-> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
-
-Tanto las concesiones como los permisos se ajustarán, en su caso, a los términos de los tratados o convenios internacionales aplicables. Los permisos o autorizaciones para servicios extranjeros de transporte internacional, se sujetarán al principio de equitativa reciprocidad y la Secretaría de Comunicaciones cuidará que su otorgamiento no entrañe peligro para la seguridad de la Nación ni lesione los servicios mexicanos de transporte aéreo.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 338.
 
-Para internarse en territorio mexicano y salir de él, las aeronaves extranjeras deberán cumplir con los siguientes requisitos:
-
-I.- Seguir las vías aéreas previamente señaladas y aterrizar en los aeropuertos internacionales que les fije la Secretaría de Comunicaciones.
-
-II.- Cumplir con los requisitos de seguridad establecidos por esta Ley y sus reglamentos, así como las disposiciones de su país respecto a marcas de nacionalidad y matrícula, peso, instrumentos y accesorios de seguridad y auxilio; y contar con certificado de aeronavegabilidad, licencias de personal y demás documentación pertinente.
-
-III.- Cuando se trate de aeronaves extranjeras de servicio público internacional, el vuelo de tránsito sobre territorio mexicano, o que aterricen en el mismo sin embarcar ni desembarcar pasajeros, carga o correo, deberá darse aviso previo y oportuno, en cada caso, a la Secretaría de Comunicaciones. El tránsito y aterrizaje de estas aeronaves quedan sujetos, además, a las disposiciones sobre aduanas, población y policía.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995
 
 ###### ARTICULO 339.
 
-Los propietarios de aeronaves civiles mexicanas, que deseen llevarlas al extranjero deberán recabar permiso de la Secretaría de Comunicaciones, salvo las empresas debidamente autorizadas para operar un servicio mexicano de transporte internacional.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ### CAPITULO XII. De los servicios aéreos privados
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
-
 ###### ARTICULO 340.
 
-Son aeronaves de servicio privado:
-
-a).- Las destinadas a recreo y asuntos privados del propietario.
-
-b).- Las dedicadas a trabajos aéreos, tales como los de aerofotografía, aerotopografía, publicidad comercial y otros semejantes.
-
-c).- Las del servicio particular de una empresa.
-
-d).- Aquellas que se destinen a aplicaciones científicas de la aviación civil; tales como exterminación de plagas agrícolas, provocación artificial de lluvias, vuelos educacionales y otros semejantes.
-
-e).- Las pertenencias a escuelas aeronáuticas privadas.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 341.
 
-La operación de aeronaves de servicio privado, se sujetará a las siguientes reglas:
-
-I.- La obtención de los certificados de matrícula y de aeronavegabilidad correspondientes, bastará para la operación de aeronaves de servicio privado destinadas exclusivamente a asuntos privados o de recreo de sus propietarios.
-
-II.- Las aeronaves de servicio privado deberán estar tripuladas por el personal técnico aeronáutico que les corresponda.
-
-III.- Los propietarios de aeronaves de servicio privado destinadas a trabajos aéreos, al servicio particular de una empresa, a aplicaciones científicas de la aviación civil o enseñanza. deberán obtener de la Secretaría de Comunicaciones un permiso que, en su caso, estará sujeto a las siguientes condiciones:
-
-a).- Los trabajos de aerofotografía, aerotopografía y otros semejantes, sólo podrán hacerse por empresas de nacionalidad mexicana y el personal técnico encargado de realizar tales trabajos y las tripulaciones de las aeronaves respectivas, deberán ser mexicanos.
-
-> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
-
-b).- En el caso del inciso d) del artículo 340, las empresas, la tripulación de vuelo y el personal encargado de realizar tales trabajos, serán preferentemente mexicanos.
-
-IV.- Las aeronaves de servicio privado no podrán efectuar, en ningún caso, servicios de transporte público.
-
-V.- Los propietarios o poseedores de aeronaves extranjeras de servicio privado que las destinen exclusivamente a sus asuntos privados o de recreo, y que deseen volar sobre el territorio mexicano o aterrizar en él, deberán dar aviso previo y oportuno a la Secretaría de Comunicaciones.
-
-La Secretaría de Comunicaciones podrá exigir que los propietarios o tripulantes de aeronaves extranjeras de servicio privado, que deseen volar sobre territorio mexicano o aterrizar en él, comprueben en cada caso haber cumplido con los requisitos técnicos sobre aeronavegabilidad y licencias, exigidos en el país de su matrícula.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
@@ -2366,365 +2046,145 @@ La Secretaría de Comunicaciones podrá exigir que los propietarios o tripulante
 
 #### SECCION PRIMERA. De los daños a pasajeros
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
-
 ###### ARTICULO 342.
 
-Las empresas concesionarias y permisionarias de servicio público de transporte aéreo, regular y no regular, serán responsables por los daños causados con motivo del transporte:
-
-a).- Por muerte, lesiones o cualquier otro daño causado al pasajero.
-
-> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
-
-b).- Por destrucción o avería de su equipaje de mano.
-
-c).- Por retraso en el transporte.
-
-Para los efectos de esta Ley, se entenderá que los daños se causaron con motivo del transporte, si son el resultado de hechos ocurridos durante el período comprendido desde el momento en que el pasajero aborda la aeronave, hasta el momento en que ha desembarcado de ella, ya sea a la terminación del viaje previsto en el contrato de transporte, o en el caso de aterrizaje forzoso o accidental.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 343.
 
-En los casos a que se refiere el inciso a) del artículo anterior, la empresa deberá cubrir:
-
-I.- Por muerte o incapacidad total permanente; la cantidad equivalente a seis mil setecientos ochenta días de salario mínimo general.
-
-II.- Por lesiones que ocasionen incapacidad parcial permanente, hasta un máximo de la cantidad equivalente a dos mil setecientos doce días de salario mínimo general.
-
-III.- Por lesiones que ocasionen incapacidad total temporal, hasta un máximo de la cantidad equivalente a mil quinientos días de salario mínimo general.
-
-IV.- Por lesiones que ocasionen incapacidad parcial temporal, hasta un máximo de la cantidad equivalente a mil trescientos cincuenta y seis días del salario mínimo general.
-
-Para el pago de las indemnizaciones a que se refieren las fracciones antes citadas, se tomará como base el salario mínimo general vigente en el Distrito Federal, Area Metropolitana, en la fecha en que se cubra la indemnización.
-
-El monto de las indemnizaciones a que se refieren las fracciones II, III y IV de este artículo, se determinará de acuerdo con la tabla de indemnizaciones del reglamento respectivo.
-
-La empresa garantizará el pago de indemnización que le impone este artículo, al obtener la concesión o permiso en alguna de las siguientes formas:
-
-a).- Mediante seguro contratado con institución debidamente autorizada de manera tal que cubra dicha responsabilidad a satisfacción de la Secretaría de Comunicaciones y Transportes.
-
-b).- Mediante depósito en efectivo en la Nacional Financiera, S. N. C., por una suma que garantice el riesgo, en los términos del reglamento respectivo.
-
-La empresa no gozará del beneficio de limitación de responsabilidad a que este artículo se refiere, si se comprueba que los daños fueron debidos a dolo de la empresa o de sus dependientes o empleados.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 344.
 
-La indeminización (sic) por la destrucción o averías del equipaje de mano se limitará a la suma de veinte días de salario mínimo general vigente en el Distrito Federal, Area Metropolitana. No habrá lugar a la limitación aquí establecida si se comprueba la existencia del dolo o culpa grave de la empresa o de sus dependientes o empleados.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 345.
 
-La empresa deberá indemnizar al pasajero por los daños que sufra motivados por retraso en el transporte. La indemnización queda limitada a una suma máxima igual al precio convenido para el transporte.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 346.
 
-La empresa estará exenta de las responsabilidades que le atribuye esta sección, en los siguientes casos:
-
-I.- En los del penúltimo párrafo del artículo 343 y en los del artículo 344, si comprueba haber tomado las precauciones razonables para evitar el daño y las medidas técnicas exigidas por esta Ley y sus reglamentos, o que le fué imposible tomarlas.
-
-II.- En el artículo 345, si comprueba que el retraso fué motivado por condiciones meteorológicas adversas, o por maniobras de salvamento, o por razones fundadas en la protección de la vida humana o de la propiedad.
-
-III.- En todos los casos, si comprueba que el daño se debió a hechos o circunstancias propios de la víctima o a hechos ilícitos de un tercero.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 347.
 
-El derecho a percibir las indemnizaciones establecidas en esta sección y la fijación del monto de los casos del penúltimo párrafo del artículo 343 y de los artículos 344 y 345, se sujetarán a las disposiciones aplicables del Código Civil para el Distrito Federal.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
-
-Las acciones para exigir el pago de las indemnizaciones establecidas en esta sección, prescribirán en el plazo de un año, a partir de la fecha de los hechos que les dieron nacimiento o, en su defecto, de la fecha de iniciación del viaje prevista en el contrato de transporte.
-
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950)(F. DE E., D.O.F. 11 DE MAYO DE 1950)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 348.
 
-Para los efectos de la responsabilidad, el transporte que se efectúe en cumplimiento de una obligación impuesta por la ley, se equipara al realizado conforme a contrato por remuneración.
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
-
-Los daños que sufran las personas o cosas transportadas en aeronaves de servicio privado se regirán por las disposiciones del Código Civil para el Distrito Federal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 > <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 1950)</small>
 
 #### SECCION SEGUNDA. De los daños a carga y equipaje facturado
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
-
 ###### ARTICULO 349.
 
-Las empresas concesionarias y permisionarias del servicio público de transporte aéreo regular o no regular, serán responsables de los daños causados a la carga o el equipaje facturado:
-
-I.- Por pérdida o avería sufrida desde el momento de su recibo por la empresa, hasta el momento de su entrega.
-
-II.- Por el retraso en la entrega de la carga o el equipaje facturado, más allá del período previsto en el contrato de transporte y según lo prevenga el reglamento respectivo.
-
-En los casos a que se refieren las fracciones anteriores, la empresa deberá cubrir al destinariio (sic) o, en su defecto, al remitente, las siguientes indemnizaciones:
-
-a).- Por la pérdida o avería de la carga, hasta diez veces el salario mínimo general vigente en el Distrito Federal, Area Metropolitana, por kilogramo de peso bruto.
-
-b).- Por retraso en la entrega de la carga, una suma máxima igual al precio del transporte de esa carga.
-
-c).- Por la pérdida o avería del equipaje facturado hasta treinta y cinco veces el salario mínimo general vigente en el Distrito Federal, Area Metropolitana.
-
-d).- Por la pérdida o avería del equipaje facturado o carga, cuyo contenido hubiese sido asegurado por el usuario, el monto del valor declarado.
-
-En el supuesto de que no se hubiese hecho declaración del valor de la carga o del equipaje asegurados a que se refiere este último inciso, se tomará como base para fijarlo el que arrojen las facturas comerciales y, en su defecto el que a juicio de peritos designados por las partes o por la Autoridad Aeronáutica, hubiesen tenido los efectos en el tiempo y lugar de la entrega a la empresa.
-
-En todo caso, para la procedencia de la indemnización a que alude el inciso d), el usuario deberá haber cubierto una cantidad adicional al importe del transporte por concepto de seguro en los términos y condiciones que señale la Secretaría de Comunicaciones y Transportes.
-
-La empresa estará exenta de las responsabilidades a que se refiere esta sección, si comprueba:
-
-a).- Haber tomado las precauciones razonables para evitar el daño y las medidas técnicas exigidas por esta ley y sus reglamentos, o que le fue imposible tomarlas.
-
-b).- Que el retraso fue motivado por condiciones meteorológicas adversas o por las maniobras de salvamento, o por razones fundadas en la protección de la vida humana o de la propiedad.
-
-c).- Que el daño se debió a hechos ilícitos de un tercero.
-
-Los límites de la responsabilidad a que se refiere este artículo, no se aplicarán si la carga o equipaje facturado se transportan, de acuerdo entre las partes, conforme al valor declarado, en cuyo caso el límite de la responsabilidad corresponderá a dicho valor declarado.
-
-En los casos a que se refiere este artículo la empresa garantizará el pago de la indemnización correspondiente, mediante seguro contratado con institución debidamente autorizada de manera tal que cubra dicha responsabilidad a satisfacción de la Secretaría de Comunicaciones y Transportes.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 350.
 
-El derecho a percibir las indemnizaciones correspondientes a los daños sufridos, establecido en esta sección, y la fijación de su monto, se sujetará a las disposiciones aplicables del Código Civil para el Distrito Federal.
-
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
-
-Las reclamaciones para los casos de pérdida, avería o retraso de la carga o equipaje facturado, deberán ser hechos valer ante la empresa dentro de los tres días siguientes a la fecha de entrega o a la fecha en que debió entregarse. La falta de reclamación oportuna impedirá el ejercicio de las acciones correspondientes.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
-
-Las acciones para exigir el pago de las indemnizaciones establecidas en esta Sección, prescribirá en el plazo de noventa días a partir de la fecha en que debió entregarse la carga o el equipaje facturado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 > <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 1950)</small>
 
 #### SECCION TERCERA. De los daños a terceros
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
-
 ###### ARTICULO 351.
 
-Cuando por la operación de una aeronave o por objetos desprendidos de la misma se causen daños a las personas o a las cosas que se encuentren en la superficie, nacerá la responsabilidad con sólo establecer la existencia del daño y su origen.
-
-Esta responsabilidad recaerá sobre quien tenga, ya sea la propiedad, ya la posesión de la aeronave.
-
-Para los efectos de este artículo se entiende por operación de una aeronave todo movimiento de la misma en tierra o durante el vuelo, realizado bajo sus propios medios motores.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 352.
 
-La indemnización por los daños a que se refiere el artículo anterior, para los objetos en la superficie, será hasta por un monto de 12,500 días de salario mínimo general vigente en el Distrito Federal, Area metropolitana y, tratándose de personas se cubrirán los daños conforme a los términos y montos señalados en el artículo 343.
-
-Los propietarios o poseedores de aeronaves garantizarán el pago de la indemnización a su cargo, mediante contrato de seguro con institución debidamente autorizada o depósito en la Nacional Financiera, S. N. C. por una suma que garantice el riesgo, en los términos del reglamento respectivo. En el caso de propietarios o poseedores de dos o más aeronaves, el seguro de depósito se constituirá por el doble, cualquiera que sea el número de aeronaves que operen. El seguro o el depósito se constituirá dentro de los quince días siguientes a la fecha de la obtención de la concesión o del permiso.
-
-La Secretaría de Comunicaciones determinará en qué casos deben cumplir esta obligación los propietarios extranjeros de aeronaves de servicio privado.
-
-Las garantías se mantendrán vigentes por el plazo de la concesión o permiso.
-
-Las personas físicas o morales que no hubieren garantizado el pago de las indemnizaciones establecidas en este artículo, no gozarán del beneficio de limitación de responsabilidad.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 353.
 
-Tanto el propietario como el poseedor de la aeronave, estarán exentos de la responsabilidad establecida en esta Sección:
-
-I.- Cuando los daños provengan de falta propia de la víctima o cuando sean el resultado de actos cometidos por un tercero con la intención de causar daño a la aeronave, a la víctima o a las cosas.
-
-II.- Cuando la persona que opere la aeronave, lo haga sin su consentimiento. No obstante, deberá demostrar que, habiendo tomado las medidas preventivas necesarias, le fué imposible evitar el uso ilegítimo, sin cuyo requisito será solidariamente responsable con el autor del daño.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 354.
 
-En los casos de colisión de dos o más aeronaves, los propietarios o poseedores serán solidariamente responsables por los daños causados a los terceros, a los bienes en la superficie, cada uno dentro de los límites establecidos.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 355.
 
-El derecho a percibir la indemnización correspondiente a los daños sufridos a que se refiere esta sección, y la fijación de su monto, se sujetarán a las disposiciones aplicables del Código Civil para el Distrito Federal.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
-
-Las acciones para exigir esta indemnización, prescribirán en un año, a partir de la fecha en la cual ocurrieron los hechos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 > <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 1950)</small>
 
 #### SECCION CUARTA. Disposiciones varias
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
-
 ###### ARTICULO 356.
 
-Ninguna de las disposiciones de este capítulo obstará para el ejercicio de las acciones penales que correspondan.
-
-Será nula de pleno derecho toda cláusula que se inserte en los contratos de transporte con objeto de establecer límites de responsabilidad inferiores a los previstos en el artículo 343 de esta ley, o que establezcan causas de exoneración de la responsabilidad distintas de las previstas en esta Sección. La nulidad de dicha cláusula no implicará la del contrato de transporte.
-
-Sin embargo, la empresa de transporte y los pasajeros podrán convenir en indemnizaciones o garantías superiores a las fijadas en este capítulo.
-
-El cumplimiento de los términos de esta ley de las obligaciones derivadas de la responsabilidad a que la misma se refiere, liberará a quienes la tuvieren a su cargo de toda responsabilidad civil, contractual o extracontractual.
-
-Las responsabilidades por daños sufridos por tripulaciones, empleados o trabajadores al servicio de las personas físicas o morales que tengan a su cargo la operación de las aeronaves civiles, se regirá por las disposiciones aplicables de la Ley Federal del Trabajo y demás leyes relativas.
-
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 357.
 
-Las controversias de orden civil que se susciten con motivo de cualquier accidente sufrido por una aeronave o causado por ésta, se tramitarán y decidirán de acuerdo con el artículo 4o. de esta Ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ### CAPITULO XIV. De los accidentes y de la búsqueda y salvamento
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
-
 ###### ARTICULO 358.
 
-Corresponde a la Secretaría de Comunicaciones la investigación de los accidentes sufridos por aeronaves civiles. Concluída la investigación, que se llevará a cabo con audiencia de los interesados, dicha dependencia determinará la causa probable del accidente y, en su caso, impondrá las sanciones y deducirá las responsabilidades administrativas que procedan. Si hay lugar a ello, pondrá los hechos en conocimiento de la autoridad competente.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 359.
 
-La búsqueda y salvamento en el caso de accidentes de aeronaves civiles son de interés público y por lo tanto las autoridades, las empresas de transporte aéreo y los particulares están obligados a participar en ellos en la esfera de sus respectivas atribuciones y posibilidades, conforme a las disposiciones del Reglamento sobre Búsqueda y Salvamento y a las siguientes bases:
-
-I.- Las operaciones de búsqueda y salvamento se realizarán siempre bajo la dirección y control de la Secretaría de Comunicaciones y los gastos que se originen en el rescate de las víctimas serán por cuenta de la empresa operadora de la aeronave.
-
-II.- Cualquier persona que tenga conocimiento de un accidente aéreo, deberá dar parte a la autoridad más próxima, la que estará obligada a comunicarlo por la vía más rápida a la Secretaría de Comunicaciones. A falta de comandante de la aeronave o de autoridad aeronáutica competente, la primera autoridad que acuda al lugar del accidente tomará bajo su responsabilidad la aeronave, los equipajes, la carga y el correo y proveerá lo necesario para la protección y auxilio de los pasajeros y tripulación.
-
-III.- Los inspectores de aeronáutica o en su defecto el comandante del aeródromo más cercano tienen la obligación de acudir personalmente al lugar donde haya ocurrido un accidente, de tomar las medidas pertinentes y de dar cuenta inmediata y pormenorizada a la Secretaría de Comunicaciones.
-
-IV.- La Secretaría de Comunicaciones creará en todo el país Centros Auxiliares de Búsqueda y Salvamento.
-
-V.- Los propietarios o poseedores de aeronaves o sus representantes legales o agentes y los pilotos al mando de las respectivas aeronaves, tienen la obligación de dar parte inmediata a la Secretaría de Comunicaciones de cualquier accidente que sufran sus aeronaves.
-
-VI.- Las empresas de transporte aéreo tendrá la obligación, una vez que tengan informes precisos de un accidente sufrido en sus naves o cuando consideren perdida alguna de las mismas, de proporcionar un boletín a las personas interesadas con los informes que tengan al respecto.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 360.
 
-Se considerará perdida una aeronave en los siguientes casos:
-
-I.- Por declaración del propietario o poseedor, bajo protesta de decir la verdad, sujeta a comprobación por parte de la Secretaría de Comunicaciones.
-
-II.- Cuando transcurridos tres meses desde la fecha en que se tuvieron las últimas noticias oficiales o particulares de la aeronave, se ignore su paradero.
-
-En ambos casos la Secretaría de Comunicaciones declarará la pérdida y cancelará las inscripciones correspondientes.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 361.
 
-La Secretaría de Comunicaciones hará la declaración de abandono y con intervención de las demás autoridades competentes determinará la disposición de la aeronave y los efectos que en ella se encuentren.
-
-Se considerará abandonada una aeronave:
-
-I.- Cuando así lo declare el propietario o poseedor ante la Secretaría de Comunicaciones.
-
-II.- Cuando por un término de noventa días, permanezca en un aeródromo sin efectuar operaciones y no se halle bajo el cuidado, directa o in directamente, de su propietarios o poseedor.
-
-III.- Cuando carezca de matrícula y se ignoren el nombre del propietario y el lugar de procedencia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ### CAPITULO XV. De los gravámenes
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
-
 ###### ARTICULO 362.
 
-Son susceptibles de Hipoteca:
-
-I.- Las aeronaves.
-
-II.- La unidad completa de una empresa de transporte aéreo, en cuyo caso la hipoteca comprenderá las concesiones o permisos respectivos y, salvo estipulación expresa, el equipo de vuelo, las instalaciones de ayuda a la navegación, los motores, hélices, aparatos de radio, instrumentos, equipos, avíos, combustibles, lubricantes y demás bienes muebles o inmuebles destinados a la explotación y considerados en su unidad.
-
-> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
-
-La hipoteca que se trata en esta fracción, sólo podrá constituirse previa autorización de la Secretaría de Comunicaciones.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 363.
 
-Podrá ser objeto de prenda los motores, hélices, piezas de repuesto, aparatos de radio, instrumentos y demás equipos.
-
-Para que se tenga por constituída la prenda, deberá entregarse al acreedor real o jurídicamente.
-
-> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
-
-En uno y otro caso sufrirá efectos contra tercero a partir de la fecha de inscripción en el Registro Aeronáutico Mexicano. Del asiento respectivo se remitirá copia autorizada al Registro Público de la Propiedad de la ciudad de México para los fines que procedan.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 364.
 
-Los contratos de hipoteca y prenda contendrán, además de los requisitos exigidos por las leyes aplicables, una descripción de la aeronave y de los equipos hipotecarios o pignorados, la mención de la marca de nacionalidad y matrícula, el nombre de fabricante y el número de serie o, en su defecto, los datos que de manera indubitable identifiquen la aeronave y, en su caso, los demás bienes comprendidos en la hipoteca o la prenda.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 365.
 
-Son preferentes a los créditos hipotecarios los fiscales, los derivados del salvamento de la aeronave y los que provengan de erogaciones extraordinarias indispensables para la conservación de la aeronave.
-
-Además de la preferencia que este artículo establece, los acreedores por los dos últimos conceptos indicados gozarán del derecho de retención.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 366.
 
-En los casos de embargo o cualquier otro aseguramiento judicial de aeronaves destinadas a un servicio público de transporte, la autoridad que hubiere decretado la medida proveerá lo necesario para que no se interrumpa el servicio y pondrá el hecho inmediatamente en conocimiento de la Secretaría de Comunicaciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ### CAPITULO XVI. De las industrias y escuelas aeronáuticas y de los clubes aéreos
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
-
 ###### ARTICULO 367.
 
-Se consideran de utilidad pública:
-
-I.- El establecimiento de fábricas de aeronaves, motores y accesorios y de talleres aeronáuticos.
-
-> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
-
-II.- Las escuelas y centros de investigaciones aeronáuticas.
-
-III.- Los clubes aéreos y de aeromodelismo.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 368.
 
-La Secretaría de Comunicaciones, de acuerdo con la de la Economía Nacional, otorgará las concesiones para el establecimiento de fábricas de aeronaves, motores y accesorios.
-
-Los concesionarios quedarán obligados a someter sus productos a las pruebas que exija la Secretaría de Comunicaciones para que, si procediere, se les expida el certificado de aprobación, que los autorizará para fabricar otras unidades del mismo tipo.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 369.
 
-Las escuelas aeronáuticas cuando sean de carácter privado funcionarán con permiso revocable y temporal de la Secretaría de Comunicaciones y bajo la inspección y vigilancia técnica de la misma.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 370.
 
-Los clubes aéreos y de aeromodelismo se organizarán como asociaciones civiles y sus actividades quedarán sujetas a la inspección y vigilancia de la Secretaría de Comunicaciones, la cual les proporcionará asesoría cuando la soliciten.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
@@ -2738,59 +2198,29 @@ La Secretaría de Comunicaciones llevará un registro que se denominará Registr
 
 I.- Los títulos por los cuales se adquiera, transmita, modifique, grave o extinga el dominio, los demás derechos reales o la posesión, así como los arrendamientos o alquileres sobre:
 
-a).- Las aeronaves mexicanas.
+a).- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 b).- Los aeródromos civiles.
 
 c).- Las instalaciones aeronáuticas, aerofaros, radioguías, estaciones radiogoniométricas, radiolocalizadores y demás ayudas a la navegación aérea.
 
-d).- Los motores de las aeronaves.
+d).- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
-II.- Las concesiones y permisos que amparen el transporte aéreo y los actos y resoluciones que los modifiquen o extingan.
+II.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
-> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
+III.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
-III.- Las licencias del personal aeronáutico mexicano, sus renovaciones, suspensiones y cancelaciones.
+> <small>(DEROGADO PENULTIMO PARRAFO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)</small>
 
-Al margen de la inscripción que corresponda se anotarán:
-
-a).- Las marcas de nacionalidad y matrícula de las aeronaves, sus modificaciones y cancelaciones.
-
-b).- Los certificados de aeronavegabilidad, sus renovaciones y cancelaciones.
-
-c).- Las pólizas del seguro.
-
-El reglamento del Registro Aeronáutico Mexicano determinará: su composición; las formalidades de las inscripciones y sus anotaciones; las certificaciones que deban expedirse, así como los derechos que se causen.
-
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950)(F. DE E., D.O.F. 11 DE MAYO DE 1950)
+> <small>(DEROGADO ULTIMO PARRAFO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 372.
 
-Los documentos que conforme al artículo anterior deban inscribirse en el Registro Aeronáutico Mexicano y no se registren, sólo producirán efectos entre quienes los otorguen, pero no contra tercero, el cual sí podrá aprovecharlos en cuanto le fueron favorables.
-
-Sin embargo, salvo lo dispuesto por el artículo 363, si la inscripción debiere efectuarse también en el Registro Público de la Propiedad, conforme al artículo 6º de esta ley y las disposiciones relativas del Código Civil para el Distrito y Territorios Federales, se estará a lo dispuesto en el propio Código.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 373.
 
-El registro de matrícula de una aeronave podrá cancelarse:
-
-a).- A solicitud escrita del propietario de la aeronave o del titular del certificado de matrícula.
-
-b).- Por orden de autoridad competente.
-
-c).- En caso de destrucción o pérdida de la aeronave.
-
-d).- Cuando la aeronave no llene las condiciones de navegabilidad reglamentarias.
-
-e).- Por vencimiento del plazo, cuando esté sujeta a término la vigencia de la matrícula respectiva.
-
-f).- Por abandono de la aeronave.
-
-g).- Por cualquiera otra causa que señalen los reglamentos.
-
-No podrá cancelarse en el registro de matrícula de una aeronave sujeta a gravamen sin el consentimiento del acreedor.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 # LIBRO QUINTO. Comunicaciones Eléctricas
 
@@ -3730,7 +3160,7 @@ La infracción a los artículos 64 y 132 se sancionará con multa hasta por la c
 
 ###### ARTICULO 542.
 
-Se impondrá multa de veinte a quinientos pesos al propietario de una embarcación o aeronave que dentro del plazo de veinte días no dé cuenta a la Secretaría de Comunicaciones de los cambios de propiedad o gravámenes impuestos a dichos medios de transporte.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 543.
 
@@ -3746,7 +3176,7 @@ Se impondrá multa de veinte a quinientos pesos al propietario de una embarcaci�
 
 ###### ARTICULO 546.
 
-El capitán de una embarcación o piloto de una aeronave que se salga de un puerto, cuando por mal tiempo o previsión de él se le prohiba salir, sufrirá prisión de tres meses a un año, si no hubiere cometido, con ese motivo algún otro delito; en caso contrario, se aplicarán las reglas de acumulación. La misma pena se impondrá al capitán de puerto, jefe de campo, consignatario o propietario que hubiere ordenado la salida de la embarcación o aeronave.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 547.
 
@@ -3780,123 +3210,21 @@ El capitán de una embarcación o piloto de una aeronave que se salga de un puer
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
-
 ###### ARTICULO 555.
 
-Se impondrá multa de doscientos cincuenta a cincuenta mil pesos, al propietario, poseedor u operador de aeronave (sic) civiles, en los siguientes casos:
-
-I.- Por permitir que la aeronave transite:
-
-a).- Sin marcas de nacionalidad y matrícula.
-
-b).- Sin certificado de aeronavegabilidad, o certificado de matrícula, o cuando tales documentos estén vencidos o sean falsos.
-
-c).- Tripulada por personas que carezcan de la licencia correspondiente.
-
-d).- Sin los instrumentos de seguridad y equipo (sic) de auxilio que corresponda.
-
-e).- Sin hacer uso de las instalaciones y de los servicios auxiliares de la navegación aérea, salvo casos de fuerza mayor.
-
-II.- Por matricular la aeronave en el Registro de otro Estado sin haber obtenido la cancelación de la matrícula mexicana.
-
-III.- Por alterar o modificar las marcas de nacionalidad y matrícula de la aeronave sin autorización de la Secretaría de Comunicaciones.
-
-IV.- Por ordenar al comandante o piloto de la aeronave actos que impliquen violación de esta ley o de sus reglamentos.
-
-V.- Por internar al país una aeronave extranjera, o por llevar una aeronave mexicana al extranjero, sin cumplir con los requisitos exigidos por la ley.
-
-VI.- Por no hacer del conocimiento de la Secretaría de Comunicaciones, de manera inmediata, los accidentes ocurridos a sus aeronaves.
-
-VII.- Por negarse a participar en las operaciones de búsqueda y salvamento.
-
-VIII.- Por permitir que su aeronave estorbe o impida el tránsito aéreo o la circulación en los aeródromos.
-
-IX.- Por cualquier violación a los reglamentos de los aeródromos.
-
-Tratándose de empresas de servicio público, el mínimo de la sanción será de cinco mil pesos.
-
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950)(F. DE E., D.O.F. 11 DE MAYO DE 1950)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 556.
 
-Se impondrá multa de cincuenta a cinco mil pesos al piloto o comandante de cualquier aeronave civil:
-
-I.- Por no utilizar, durante la operación de la aeronave, los servicios de instalaciones, ayudas a la navegación aérea y demás servicios auxiliares de seguridad.
-
-II.- Por desobedecer las órdenes o instrucciones que reciba con respecto a tránsito aéreo.
-
-III.- Por tripular la aeronave sin llevar consigo la licencia respectiva, o sin las facultades que deben aparecer de la misma, o con la licencia suspendida o vencida. Igual sanción se impondrá a los demás miembros de la tripulación de vuelo que se encuentren en el mismo caso.
-
-IV.- Por permitir a cualquier persona que no sea miembro de la tripulación de vuelo tomar parte en las operaciones de la aeronave, salvo fuerza mayor comprobada.
-
-V.- Por transportar armas, artículos peligrosos, inflamables, explosivos y otros semejantes, sin la debida autorización.
-
-VI.- Por transportar enfermos contagiosos o mentales, o a cadáveres sin la autorización correspondiente.
-
-VII.- Por abandonar a la aeronave, a la demás tripulación, a los pasajeros, a la carga y demás efectos, en lugar que no sea precisamente el terminal del vuelo y sin causa grave justificada.
-
-VIII.- Por tripular la aeronave en estado de intoxicación alcohólica. Igual sanción se impondrá a cualquier miembro de la tripulación de vuelo que se encuentre en el mismo caso.
-
-IX.- Por permitir que un miembro de la tripulación de vuelo participe en las operaciones de la aeronave en estado de intoxicación alcohólica.
-
-X.- Por actos u omisiones que, activa o pasivamente, tiendan a la comisión del delito de contrabando.
-
-XI.- Por volar sobre zonas prohibidas.
-
-XII.- Por iniciar el vuelo sin cerciorarse de la vigencia del certificado de navegabilidad, de las licencias de la tripulación de vuelo, y de que la aeronave ostente las marcas de nacionalidad y matrícula.
-
-XIII.- Por permitir el uso de aparatos aerofotográficos, y aerotopográficos a bordo de la aeronave en vuelo, sin la debida autorización.
-
-XIV.- Por realizar vuelos acrobáticos, rasantes o de exhibición en lugares habitados.
-
-XV.- Por arrojar o tolerar que innecesariamente se arrojen desde la aeronave en vuelo, objetos o lastre.
-
-XVI.- Por realizar vuelos de demostración, pruebas técnicas o de instrucción, sin la debida autorización.
-
-XVII.- Por negarse a participar en las operaciones de búsqueda y salvamento.
-
-XVIII.- Por no participar inmediatamente a la Secretaría de Comunicaciones los accidentes que le ocurran o aquellos otros de que tenga conocimiento, por razón de sus funciones.
-
-XIX.- En caso de tripular una aeronave civil extranjera en vuelo de internación al país, por no aterrizar en los aeródromos civiles que hayan sido fijados en el permiso o autorización correspondiente.
-
-XX.- En el caso de tripular una aeronave civil extranjera, realizar o permitir que se realicen a bordo de la aeronave en vuelo, planificaciones aerofotográficas o aerotopográficas.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 557.
 
-Se impondrá multa de un mil a cincuenta mil pesos.
-
-I.- A las empresas de servicio público de transporte aéreo regular, mexicanas o extranjeras:
-
-a).- Por llevar a cabo operaciones en violación a las tarifas, itinerarios, frecuencias de vuelo y horarios aprobados por la Secretaría de Comunicaciones.
-
-b).- Por negar sin fundamento legal el libre acceso del público a los servicios.
-
-c).- Por incumplimiento de obligaciones contenidas en las concesiones o permisos respectivos y que, a juicio de la Secretaría de Comunicaciones, no ameriten declaración de caducidad, rescisión o revocación.
-
-d).- Por no efectuar de manera reglamentaria la conservación y mantenimiento de sus equipos de vuelo, aeródromos, instalaciones auxiliares y demás bienes que se relacionen con la seguridad y eficiencia del servicio.
-
-e).- Por no seguir las aerovías o no utilizar los aeropuertos que les hayan sido señalados en las concesiones o permisos respectivos.
-
-II.- A las empresas extranjeras de servicio público de transporte internacional, regular o no regular.
-
-a).- Cuando con motivo de un vuelo de simple tránsito, embarquen o desembarquen pasajeros, carga o correo.
-
-b).- Por llevar a cabo servicio de cabotaje en territorio mexicano.
-
-III.- A las empresas de servicio público de transporte aéreo no regular y a aquellas que realicen vuelos especiales de servicio público, por cobrar cuotas inferiores a las contenidas en las tarifas aprobadas para el desempeño del servicio de transporte aéreo regular.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 558.
 
-Se impondrá multa de quinientos a cincuenta mil pesos:
-
-I.- A los propietarios, poseedores u operadores de aeronaves de servicio privado, destinadas a trabajos de aerofotografía, aerotopografía y otros análogos, por realizar o permitir que se realicen tales trabajos mediante extranjeros.
-
-II.- A los propietarios, poseedores u operadores de aeronaves de servicio privado, destinadas a aplicaciones científicas de la aviación civil, por preferir a extranjeros respecto de mexicanos, para la realización de tales trabajos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
@@ -3916,25 +3244,19 @@ Se impondrá multa de doscientos cincuenta a veinticinco mil pesos y prisión de
 
 Se impondrá multa de doscientos cincuenta a veinticinco mil pesos y prisión de seis meses a cinco años, a todo aquel que por medio de transmisiones radio técnicas, obstruya, interfiera o impida la radiocomunicación aeronáutica.
 
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950)(F. DE E., D.O.F. 11 DE MAYO DE 1950)
-
 ###### ARTICULO 562.
 
-Se impondrá multa de cincuenta a cinco mil pesos, a los miembros del personal técnico aeronáutico de tierra, por los actos u omisiones en el desempeño de sus atribuciones, que pongan o puedan poner en peligro la seguridad de las aeronaves y de los aeródromos e instalaciones auxiliares.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 563.
 
-Se suspenderán hasta por seis meses las licencias del personal técnico aeronáutico, en aquellos casos en que lo juzgue necesario la Secretaría de Comunicaciones, por violación a las disposiciones sobre seguridad y eficiencia.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 564.
 
-La Secretaría de Comunicaciones revocará las licencias del personal aeronáutico cuando a su juicio y por contumacia, así lo merezcan.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE1950)
 
 ###### ARTICULO 565.
 
@@ -3964,23 +3286,17 @@ II.- Por no permitir el aterrizaje de aeronaves que se encuentren en condiciones
 
 III.- Por no permitir el uso gratuito a las aeronaves de Estado, conforme a lo que establece el artículo 328 reformado, último párrafo, de esta Ley.
 
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950)(F. DE E., D.O.F. 11 DE MAYO DE 1950)
-
 ###### ARTICULO 568.
 
-La falta de cumplimiento de las disposiciones relativas a faros y señales de seguridad en tierra o en las aeronaves, por parte del personal encargado de su cuidado, se castigará con prisión hasta por seis meses.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 569.
 
-Se impondrá multa de cincuenta a cinco mil pesos o prisión hasta por seis meses a cualquiera persona que se niegue a tomar parte en operaciones de búsqueda y salvamento de aeronaves, si para ello fuere requerida por la autoridad. Igual sanción se aplicará a todo aquel que teniendo conocimiento directo de un accidente aéreo, no lo haga saber inmediatamente a las autoridades dependientes de la Secretaría de Comunicaciones, más próximas al lugar del accidente.
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 570.
 
-Se aplicarán a la navegación aérea, en su caso, las disposiciones del Código Penal para el Distrito Federal relativas a la piratería.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
 ###### ARTICULO 571.
 
@@ -4461,3 +3777,31 @@ II. Los artículos 1o., fracciones I a IV, 169 a 305, 543 a 545 y 547 a 554 de l
 III. Los artículos 19, en lo que se oponga a la presente ley, 21, fracciones XIII y XVI a XVIII, 641 a 944, 1043, fracciones III, V, VII y VIII, y 1044 del Código de Comercio; y
 
 IV. Todas las disposiciones que se opongan a lo previsto en esta ley.
+
+D.O.F. 12 DE MAYO DE 1995.
+
+LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Tercero. Se derogan:
+
+I. Los artículos 1, fracción V; 9, fracción I, y del 129 al 145 de la Ley de Vías Generales de Comunicación;
+
+II. Los artículos 5, fracción X, y 7, fracción IV, inciso s) de la Ley de Inversión Extranjera, y
+
+III. Todas las disposiciones que se opongan a la presente Ley.
+
+D.O.F. 12 DE MAYO DE 1995.
+
+LEY DE AVIACION CIVIL.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan los artículos 1o., fracción VIII; 9o., fracciones II y VI; 306 al 326; 329 al 370; 371, fracción I, incisos a) y d), fracciones II y III y el penúltimo y último párrafo; 372 y 373; 542; 546; 555 al 558; 562 al 564, y 568 al 570, de la Ley de Vías Generales de Comunicación, así como las demás disposiciones que se opongan a la presente Ley.
+
+Las disposiciones reglamentarias y administrativas en vigor se continuarán aplicando mientras se expiden los nuevos reglamentos, salvo en lo que se opongan a la presente Ley.
