@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "1996-05-16"
+last_updated: "1996-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MAYO DE 1996.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O.F. EL 16 DE MAYO DE 1996 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL D.O.F. DE 15 DE MAYO DE 1996.]</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -1024,7 +1022,9 @@ X.- Designar a los auditores externos de las entidades, así como normar y contr
 
 XI.- Designar, para el mejor desarrollo del sistema de control y evaluación gubernamentales, delegados de la propia Secretaría ante las dependencias y órganos desconcentrados de la Administración Pública Federal centralizada, y comisarios en los órganos de gobierno o vigilancia de las entidades de la Administración Pública Paraestatal;
 
-XII.- Opinar previamente sobre el nombramiento, y en su caso, solicitar la remoción de los titulares de las áreas de control de las dependencias y entidades de la Administración Pública Federal. Tanto en este caso, como en los de las dos fracciones anteriores, las personas propuestas o designadas deberán reunir los requisitos que establezca la Secretaría;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+XII.- Designar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Federal y de la Procuraduría General de la República, así como a los de las áreas de auditoría, quejas y responsabilidades de tales órganos, quienes dependerán jerárquica y funcionalmente de la Secretaría de Contraloría y Desarrollo Administrativo, tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Federales, representando al Titular de dicha Secretaría;
 
 XIII.- Colaborar con la Contaduría Mayor de Hacienda para el establecimiento de los procedimientos necesarios que permitan a ambos órganos el mejor cumplimiento de sus respectivas responsabilidades;
 
@@ -1669,3 +1669,19 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todos los elementos y recursos adscritos a la Dirección General de Asuntos Jurídicos de la Presidencia de la República, pasarán a la Consejería Jurídica del Ejecutivo Federal. Los derechos de los trabajadores de la citada Dirección General, que presten sus servicios a la Consejería Jurídica, serán respetados en todos sus términos. Los asuntos que estén a cargo de la Dirección General pasarán a la Consejería.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 24 DE DICIEMBRE DE 1996.
+
+PRIMERO.- El presente decreto entrará en vigor el día 1o. de enero de 1997.
+
+SEGUNDO.- Se derogan las disposiciones legales y administrativas que se opongan al presente decreto.
+
+TERCERO.- En tanto el Secretario de Contraloría y Desarrollo Administrativo designa a los titulares de los órganos de control interno, así como a los de sus áreas de auditoría, quejas y responsabilidades, los actuales titulares continuarán en su cargo y ejercerán sus atribuciones en los términos de este decreto.
+
+CUARTO.- Los órganos de control interno de las entidades paraestatales resolverán los procedimientos de responsabilidades administrativas y los recursos de revocación que, a la entrada en vigor del presente decreto, se encuentren en trámite en las Dependencias Coordinadoras de Sector, relativos a asuntos de las citadas entidades, así como los que se inicien por hechos consumados con anterioridad a la entrada en vigor antes mencionada. Dichos procedimientos y recursos continuarán resolviéndose conforme a las disposiciones legales que los rigen.
+
+QUINTO.- La Secretaría de Hacienda y Crédito Público realizará los actos que correspondan a efecto de que, para el ejercicio fiscal de 1997, los recursos financieros destinados al pago de los sueldos y prestaciones de los servidores públicos que por virtud del presente decreto pasarán a depender de la Secretaría de Contraloría y Desarrollo Administrativo, se transfieran a esta última.
+
+Las dependencias y entidades continuarán proporcionando los espacios físicos, los recursos humanos y materiales que requieran los referidos órganos de control interno.
+
+La relación laboral del resto del personal de dichos órganos de control interno no se modifica por la entrada en vigor del presente decreto.
