@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-catastro-del-estado-de-aguascalientes-2617"
 country: "mx"
 rank: "ley"
 publication_date: "1981-12-27"
-last_updated: "1981-12-27"
+last_updated: "1992-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CATASTRO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Suplemento al Número 52, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 27 de diciembre de 1981.
 
@@ -143,9 +143,13 @@ Son autoridades de Catastro:
 
 I.- El Gobernador del Estado.
 
-II.- El Tesorero General del Estado.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
-III.- El Subtesorero General de Estado.
+II.- El Secretario de Finanzas.
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
+III.- El Subsecretario de Finanzas.
 
 IV.- El Director de Catastro e Impuesto a la Propiedad Raíz.
 
@@ -169,7 +173,9 @@ VI.- Las demás que señale esta Ley.
 
 Es organismo auxiliar de la Dirección del Impuesto a la Propiedad Raíz, la Junta Catastral del Estado, que operará en todo su territorio y estará integrada por:
 
-I.- El Tesorero General del Estado como representante del Ejecutivo del Estado, quien presidirá la Junta y tendrá voto de calidad en caso de empate.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
+I.- El Secretario de Desarrollo Social como representante del Ejecutivo del Estado, quien presidirá la Junta y tendrá voto de calidad en caso de empate.
 
 II.- El Director de Catastro e Impuesto a la Propiedad Raíz, quien fungirá como Secretario de la Junta. Este funcionario podrá suplir al Presidente en sus ausencias y cuando así lo haga, tendrá las mismas facultades y atribuciones que éste.
 
@@ -191,7 +197,7 @@ IX.- El Secretario de Agricultura y Ganadería del Estado.
 
 X.- Un representante del sector campesino ejidal del Estado, que será designado por el Ejecutivo.
 
-XI.- El Secretario de Planeación y Presupuesto del Estado.
+XI.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 1992)
 
 XII.- Un representante de las Instituciones Bancarias que operen con matriz o sucursales en el Estado.
 
@@ -251,9 +257,11 @@ El plazo para presentar la constancia de designación de estos representantes an
 
 ### CAPITULO TERCERO. De las Operaciones Catastrales
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 15.
 
-Las operaciones catastrales estarán a cargo de la Tesorería General del Estado por conducto de la Dirección de Catastro e Impuesto a la Propiedad Raíz.
+Las operaciones catastrales estarán a cargo de la Secretaría de Desarrollo Social.
 
 ###### ARTICULO 16.
 
@@ -355,7 +363,9 @@ La Dirección de Catastro e Impuesto a la Propiedad Raíz, con base en las tabla
 
 Cuando las autoridades de Catastro lo juzguen conveniente y en los casos de inconformidad, se procederá a realizar los avalúos físicos correspondientes por medio de peritos valuadores, los cuales deberán presentarse en el predio objeto de la valuación y mostrarán a los ocupantes, si los hubiere, tanto la orden para la valuación como la credencial que los identifique.
 
-Si los ocupantes se opusieran en cualquier forma a la valuación, el valuador dejará un citatorio, indicando el día y la hora en que se practicará nueva visita; que deberá efectuarse en un plazo que no podrá ser menor de tres ni mayor de diez días, e informará a la Tesorería General del Estado, a efecto de que se requiera por escrito a los ocupantes para que permitan la práctica de la valuación.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
+Si los ocupantes se opusieran en cualquier forma a la valuación, el valuador dejará un citatorio, indicando el día y la hora en que se practicará nueva visita; que deberá efectuarse en un plazo que no podrá ser menor de tres ni mayor de diez días, e informará a la Secretaría de Desarrollo Social, a efecto de que se requiera por escrito a los ocupantes para que permitan la práctica de la valuación.
 
 ###### ARTICULO 32.
 
@@ -395,11 +405,13 @@ Los valuadores de la Dirección de Catastro e Impuesto a la Propiedad Raíz debe
 
 ### CAPITULO CUARTO. De los Fraccionamientos
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 40.
 
-Las personas físicas o morales que obtengan autorización de la Secretaría de Planeación y Presupuesto para fraccionar predios o terrenos, deberán presentar copia de la misma y los planos autorizados a la Tesorería General del Estado.
+Las personas físicas o morales que obtengan autorización de la Secretaría de Desarrollo Social para fraccionar predios o terrenos, deberán presentar copia de la misma y los planos autorizados a la Secretaría de Finanzas.
 
-Toda modificación que autorice la Secretaría antes mencionada, deberá manifestarse en la Tesorería General del Estado, dentro de un plazo que no excederá de 30 días a partir de la fecha en que se autorice la modificación, acompañando copia de la misma y los planos correspondientes.
+Toda modificación que autorice la Secretaría antes mencionada, deberá manifestarse en la Secretaría de Finanzas, dentro de un plazo que no excederá de 30 días a partir de la fecha en que se autorice la modificación, acompañando copia de la misma y los planos correspondientes.
 
 ###### ARTICULO 41.
 
@@ -443,21 +455,27 @@ No se exime de la obligación indicada en el artículo anterior a los propietari
 
 Las autoridades judiciales están obligadas a dar aviso de todas las resoluciones que causen ejecutoria, en las que se traslade o adquiera el dominio de un bien inmueble, a la Dirección de Catastro e Impuesto a la Propiedad Raíz, dentro de los 15 días siguientes a la fecha en que se cause.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 48.
 
-Al celebrarse cualquier acto o contrato translativo de dominio de algún bien inmueble en el Estado, deberá ser manifestado por el adquiriente a la Tesorería General del Estado, en las formas aprobadas.
+Al celebrarse cualquier acto o contrato translativo de dominio de algún bien inmueble en el estado, deberá ser manifestado por el adquiriente a las Secretarías de Finanzas y de Desarrollo Social, en las formas aprobadas.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 49.
 
-Los notarios y corredores públicos, y en general todos aquellos que tienen fe pública, están obligados a manifestar a la Tesorería General del Estado, en las formas aprobadas, la celebración de todo tipo de operaciones translativas de dominio, que con su intervención se realicen sobre bienes inmuebles ubicados en el Estado, anexando los documentos que se señalan en las formas mencionadas.
+Los notarios y corredores públicos, y en general todos aquellos que tienen fe pública, están obligados a manifestar a las Secretarías de Finanzas y de Desarrollo Social, en las formas aprobadas, la celebración de todo tipo de operaciones translativas de dominio, que con su intervención se realicen sobre bienes inmuebles ubicados en el Estado, anexando los documentos que se señalan en las formas mencionadas.
 
 ###### ARTICULO 50.
 
 Toda construcción, ampliación, modificación o demolición de construcción existente, deberá ser manifestada por su propietario o poseedor a la Dirección de Catastro e Impuesto a la Propiedad Raíz, en las formas aprobadas dentro de los 30 días siguientes al de la demolición o de la terminación u ocupación de la construcción.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 51.
 
-Las autoridades del Estado, y las municipales deberán comunicar a la Tesorería General del Estado en un plazo que no exceda de 30 días, las licencias o autorizaciones que se otorguen, las prórrogas a las mismas, las de fusión, subdivisión o fraccionamiento de predios, así como las de construcción, reconstrucción, ampliación o demolición.
+Las autoridades municipales deberán comunicar a las Secretarías de Finanzas y de Desarrollo Social en un plazo que no exceda de 30 días, cuando otorguen licencias de construcción, reconstrucción, ampliación o demolición y cuando otorguen autorizaciones para fraccionar predios urbanos.
 
 ###### ARTICULO 52.
 
@@ -520,3 +538,9 @@ Lic. Joaquín Cruz Ramírez
 EL TESORERO GENERAL DEL ESTADO,
 
 C.P. Alfredo de Alba Olavarrieta.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE DICIEMBRE DE 1992.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
