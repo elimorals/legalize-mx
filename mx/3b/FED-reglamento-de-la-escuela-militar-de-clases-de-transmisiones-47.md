@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-clases-de-transmisiones-47"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-13"
-last_updated: "1993-04-13"
+last_updated: "2001-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-04-12"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE CLASES DE TRANSMISIONES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2001.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el martes 13 de abril de 1993.
 
@@ -41,9 +41,11 @@ La Escuela Militar de Clases de Transmisiones, es un establecimiento de educaci�
 
 ### CAPITULO II. Dependencia
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 2o.
 
-La Escuela Militar de Clases de Transmisiones depende del Alto Mando del Ejército y Fuerza Aérea a través de la Dirección General de Educación Militar.
+La Escuela Militar de Clases de Transmisiones depende del Alto Mando del Ejército y Fuerza Aérea a través de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
 ### CAPITULO III. Objetivos
 
@@ -109,7 +111,19 @@ B. Subsección de Planes y Programas;
 
 C. Subsección de Estadística y Evaluación; y
 
-D. Subsección Psicopedagógica;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+D. Subsección Psicopedagógica:
+
+a. Jefatura;
+
+b. Grupo Psicológico, y
+
+c. Grupo Pedagógico.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+E. Subsección de Investigación y Doctrina Militar.
 
 V. Sección Académica:
 
@@ -121,9 +135,27 @@ C. Subsección de Cursos de Formación de Sargentos Primeros de Transmisiones;
 
 D. Subsección de cursos de Formación de Sargentos Segundos de Transmisiones; y
 
-E. Subsección de Materias de Cultura General; Educación Física y Deportes;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-VI. Sección de Apoyos Didácticos:
+E. Subsección de Educación Física y Deportes, y
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+F. Subsección de Apoyos Didácticos:
+
+a. Jefatura;
+
+b. Grupo de Apoyos Gráficos y Audiovisuales;
+
+c. Grupo de Apoyos didácticos;
+
+d. Taller de Dibujo, y
+
+e. Taller de Fotografía.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. Sección de Laboratorios y talleres:
 
 A. Jefatura;
 
@@ -131,7 +163,7 @@ B. Subsección de Laboratorios y Talleres;
 
 C. Subsección de Informática;
 
-D. Subsección de Apoyos Gráficos y Audiovisuales; y
+D. (DEROGADO, D.O.F. 22 DE JUNIO DE 2001)
 
 E. Biblioteca;
 
@@ -143,7 +175,9 @@ B. Subayudantía;
 
 C. Servicios Técnicos; y
 
-D. Servicios Administrativos y Generales;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+D. Compañía de Servicios Generales.
 
 VIII. Sección Administrativa:
 
@@ -175,6 +209,10 @@ B. Jefe de la Sección Académica; y
 
 C. Comandante del Cuerpo de Alumnos;
 
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+D. Jefe de la Sección de Laboratorios y Talleres.
+
 III. El secretario, será el vocal de menor jerarquía y antigüedad;
 
 IV. En casos especiales, podrá recurrirse a otras fuentes de asesoramiento; y
@@ -189,9 +227,11 @@ V. Los vocales serán suplidos en sus ausencias, por un jefe de subsección de l
 
 La Dirección, es el órgano rector de la Escuela Militar de Clases de Transmisiones a cargo de un General o Coronel del servicio de Transmisiones, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Director.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 9o.
 
-El Director tiene las atribuciones y responsabilidades que señalan las leyes y reglamentos militares para los Comandantes de Cuerpo de Tropa y además las siguientes:
+El Director de la Escuela Militar de Clases de Transmisiones tiene las mismas atribuciones y responsabilidades que señalan las leyes y reglamentos militares para un Comandante de Cuerpo de Tropa y además las siguientes:
 
 I. Representar a la Escuela Militar de Clases de Transmisiones;
 
@@ -199,7 +239,9 @@ II. Hacer cumplir las directivas que determine el Alto Mando del Ejército y Fue
 
 III. Administrar los recursos humanos, económicos y materiales puestos a su disposición;
 
-IV. Proponer a la Dirección General de Educación Militar los planes y programas de estudios, así como el proyecto de calendario escolar y programa de prácticas y visitas;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea los planes y programas de estudio, así como el proyecto del calendario escolar y programa de prácticas y visitas a instalaciones civiles y militares;
 
 V. Convocar a la Junta Técnico-Consultiva;
 
@@ -207,25 +249,53 @@ VI. Conferir los cargos que desempeñe el personal académico, docente, del cuer
 
 VII. Otorgar los nombramientos y distinciones que sean necesarios para cubrir los cuadros en las unidades del Cuerpo de Alumnos;
 
-VIII. Vigilar permanentemente el bienestar del personal del plantel, promoviendo su afiliación conforme a la Ley del instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-IX. Proponer las reformas al Manual de Organización y funcionamiento del plantel, cuando corresponda;
+VIII. Vigilar permanentemente el bienestar del personal del plantel;
 
-X. Difundir el contenido del presente Reglamento entre el personal que integra el plantel, supervisando su cumplimiento;
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-XI. Proponer la creación de otros cursos;
+IX. Promover la afiliación conforme a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas del personal del plantel;
 
-XII. Proponer al personal del plantel que se haga acreedor a recompensas, premios y diplomas;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-XIII. Proponer o opinar las altas, bajas y cambios del personal del plantel;
+X. Proponer las reformas al Manual de Organización y Funcionamiento del plantel, cuando corresponda;
 
-XIV. Realizar la evaluación de las capacidades y funcionamientos de los órganos del plantel, estableciendo medidas tendientes a mejorar su rendimiento;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-XV. Presentar a la Dirección General de Educación Militar un informe general de actividades al término de cada ciclo lectivo;
+XI. Difundir el contenido del presente reglamento al personal que integra el plantel, supervisando su cumplimiento;
 
-XVI. Presentar a la Dirección General de Educación Militar el proyecto del presupuesto de su competencia; y
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-XVII. Las que le sean asignadas por la superioridad.
+XII. Proponer la creación de otros cursos;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIII. Proponer al personal del plantel que se haga acreedor a recompensas, premios y diplomas;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIV. Proponer y opinar las altas, bajas y cambios del personal del plantel;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Realizar la evaluación de la capacidad y funcionamiento de los órganos del plantel, estableciendo medidas tendientes a mejorar su rendimiento;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Presentar a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, un informe general de actividades al término de cada ciclo lectivo;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVII. Presentar a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea el proyecto de presupuesto de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVIII. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, al personal directivo, académico, docente y en instrucción que se haga acreedor a recibir alguna recompensa, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIX. Las que le sean asignadas por la superioridad.
 
 ### CAPITULO II. De la Subdirección
 
@@ -233,9 +303,11 @@ XVII. Las que le sean asignadas por la superioridad.
 
 La Subdirección de la Escuela Militar de clases de Transmisiones, es un órgano de dirección de la misma a cargo de un Coronel o Teniente Coronel del Servicio de Transmisiones, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Subdirector.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 11.
 
-El Subdirector tiene las atribuciones y responsabilidades que señalan las leyes y reglamentos militares para Segundos Comandantes de Cuerpo de Tropa y además las siguientes;
+El Subdirector de la Escuela Militar de Clases de Transmisiones tiene las mismas atribuciones y responsabilidades que señalan las leyes y reglamentos militares para el Segundo Comandante de Cuerpo de Tropa y además las siguientes:
 
 I. Suplir al Director del plantel en el ejercicio de sus funciones durante sus ausencias temporales;
 
@@ -251,7 +323,9 @@ VI. Coordinar e integrar los informes de los diferentes órganos del plantel par
 
 VII. Coordinar y presentar la elaboración y actualización del Manual de Organización y Funcionamiento del plantel, recomendando al Director los cambios necesarios;
 
-VIII. Convocar juntas de coordinación con el personal docente del plantel;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VIII. Convocar juntas de coordinación con el personal docente y académico del plantel;
 
 IX. Coordinar el proceso de enseñanza-aprendizaje;
 
@@ -261,7 +335,9 @@ XI. Coordinar y supervisar toda clase de eventos culturales y militares;
 
 XII. Designar al personal docente como titular y adjunto;
 
-XIII. Certificar la documentación que se genere con motivo de las actividades pedagógicas, académicas y de graduación y supervisar su elaboración;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIII. Certificar la documentación que se genere con motivo de las actividades pedagógicas, académicas y de graduación, previa supervisión de su elaboración;
 
 XIV. Proponer programas y cursos de capacitación y actualización pedagógica para el personal académico y docente;
 
@@ -275,9 +351,11 @@ XVI. Las que sean asignadas por la superioridad.
 
 El Cuerpo de Alumnos de la Escuela Militar de Clases de Transmisiones está a cargo de un Teniente Coronel o Mayor del Servicio de Transmisiones, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Comandante del Cuerpo de Alumnos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 13.
 
-El Comandante del cuerpo de Alumnos tiene las siguientes funciones:
+El Comandante del Cuerpo de Alumnos de la Escuela Militar de Clases de Transmisiones tiene las atribuciones y responsabilidades siguientes:
 
 I. Ejercer al mando del Cuerpo de Alumnos;
 
@@ -285,11 +363,15 @@ II. Suplir al Subdirector del plantel durante sus ausencias temporales;
 
 III. Contribuir en la Educación integral del personal en instrucción;
 
-IV. Aplicar el programa de instrucción militar de orden cerrado;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Aplicar los programas de instrucción militar de orden cerrado y de educación física y deportes.
 
 V. Supervisar la buena presentación del Cuerpo de Alumnos;
 
-VI. Supervisar el oportuno pago del PRE o haberes al personal en instrucción según corresponda;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. Supervisar el oportuno pago de la Percepción Recreativa Estudiantil (PRE), o haberes al personal en instrucción según corresponda;
 
 VII. Supervisar la conservación del armamento, municiones, vestuario y equipo del personal en instrucción;
 
@@ -297,7 +379,9 @@ VIII. Controlar estadísticamente los correctivos disciplinarios impuestos al pe
 
 IX. Controlar y supervisar el desempeño de los servicios de armas, económicos y especiales que realice el personal en instrucción;
 
-X. Participar en la elaboración del Plan de Defensa del plantel y otros que sean necesarios,
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+X. Elaborar y aplicar el Plan de Defensa del Plantel y otros que sean necesarios.
 
 XI. Proponer al personal en instrucción que por su don de mando, aprovechamiento y disciplina se haga acreedor a algún ascenso o distinción;
 
@@ -317,23 +401,31 @@ I. Tener experiencia docente;
 
 II. Tener experiencia académica.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 15.
 
-El Jefe de la Sección Pedagógica tiene las siguientes funciones:
+El Jefe de la Sección Pedagógica de la Escuela Militar de Clases de Transmisiones tiene las atribuciones y responsabilidades siguientes:
 
 I. Planear, coordinar y supervisar las actividades pedagógicas del plantel;
 
 II. Formular, revisar y actualizar los planes y programas de estudio del plantel;
 
-III. Seleccionar y especificar los métodos y técnicas de enseñanza por aplicarse en la escuela;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-IV. Proponer cursos de capacitación docente y pedagógica;
+III. Seleccionar y especificar los métodos y técnicas de enseñanza a aplicarse en la escuela, realizando para el efecto una permanente investigación educativa que garantice su actualización y viabilidad;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Proponer y programar cursos de capacitación docente;
 
 V. Analizar y sancionar los instrumentos de evaluación antes de su aplicación;
 
-VI. Evaluar los resultados del proceso enseñanza-aprendizaje y proponer medidas para mejorar el rendimiento del personal docente y en instrucción;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-VII. Integrar los diferentes grupos pedagógicos de conformidad con las directivas que reciba de la superioridad;
+VI. Evaluar los resultados del proceso enseñanza-aprendizaje incluyendo todos los elementos didácticos y recursos que en él intervienen, para determinar su eficiencia y en su caso proponer las medidas necesarias para su mejoramiento;
+
+VII. (DEROGADA, D.O.F. 22 DE JUNIO DE 2001)
 
 VIII. Llevar el seguimiento psicológico del personal en instrucción;
 
@@ -349,7 +441,21 @@ XIII. Controlar el archivo pedagógico;
 
 XIV. Coordinar sus actividades con los demás órganos del plantel; y
 
-XV. Las que le sean asignada por la superioridad.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Coordinar, mantener, generar, desarrollar e impulsar la doctrina militar en beneficio del Instituto Armado, del Servicio de Transmisiones y del plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Seleccionar y proponer al personal docente del plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVII. Elaborar y controlar las estadísticas de aprovechamiento, cuadro de honor, aprobados y reprobados, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVIII. Las que le sean asignadas por el Director del plantel.
 
 ### CAPITULO V. De la Sección Académica
 
@@ -361,13 +467,17 @@ I. Tener experiencia académica;
 
 II. Tener experiencia docente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 17.
 
-El Jefe de la Sección Académica tienen las siguientes funciones:
+El Jefe de la Sección Académica de la Escuela Militar de Clases de Transmisiones tiene las atribuciones y responsabilidades siguientes:
 
 I. Coordinar y supervisar el desarrollo de los planes y programas de estudio del plantel;
 
-II. Seleccionar y proponer al personal docente del plantel;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+II. Participar en la selección del personal docente del Plantel;
 
 III. Proponer las modificaciones necesarias a los planes y programas de estudio;
 
@@ -381,47 +491,101 @@ VII. Aplicar y supervisar el desarrollo de la distribución de tiempo mensual;
 
 VIII. Coordinar y controlar al personal docente del plantel;
 
-IX. Supervisar la aplicación de los cursos de capacitación docente y pedagógica;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IX. Supervisar la aplicación de los cursos de capacitación docente;
 
 X. Coordinar y supervisar las actividades académicas del personal en instrucción;
 
-XI. Controlar e informar el avance de la programación;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-XII. Elaborar y controlar las estadísticas de aprobados y reprobados;
+XI. Elaborar e informar el avance de la programación;
 
-XIII. Llevar el registro y cómputo de faltas de asistencia académica y de asignaturas reprobadas por el personal en instrucción, dándolas a conocer periódicamente;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-XIV. Proponer la realización de juntas de coordinación con el personal docente;
+XII. Integrar los diferentes grupos pedagógicos de conformidad con las directivas que reciba de la superioridad;
 
-XV. Formular los informes de la Sección;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-XVI. Coordinar sus actividades con los demás órganos del plantel; y
+XIII. Elaborar y controlar las estadísticas de aprobados y reprobados;
 
-XVII. Las que le sean asignadas por la superioridad.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-### CAPITULO VI. De la Sección de Apoyos Didácticos
+XIV. Llevar el registro y cómputo de faltas de asistencia académica y de asignaturas reprobadas por el personal en instrucción, dándolas a conocer periódicamente;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Proponer la realización de juntas de coordinación con el personal docente;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Formular los informes de la sección;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Formular los informes de la sección;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVII Coordinar sus actividades con los demás órganos del plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVIII. Mantener estrecha coordinación con el personal docente y crear las condiciones para que existan canales de comunicación adecuados entre ellos mismos y con las distintas instancias del plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIX. Proveer, controlar y mantener el material didáctico necesario para la materialización del proceso enseñanza-aprendizaje;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XX. Recomendar la adquisición de recursos didácticos para satisfacer las necesidades académicas del personal;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXI. Difundir información sobre los recursos didácticos con que se cuentan y sus potencialidades, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXII. Las que le sean asignadas por el Director del plantel.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+### CAPITULO VI. De la Sección de Laboratorios y Talleres
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 18.
 
-La Sección de Apoyos Didácticos es el órgano en cargados de proveer; controlar y mantener el material didáctico necesario para la materialización del proceso enseñanza-apredizaje de la Escuela Militar de Clases de Transmisiones, a cargo de un Mayor o Capitán Primero del Servicio de Transmisiones a quien se denomina Jefe de la Sección de Apoyos Didácticos.
+La Sección de Laboratorios y Talleres es el órgano encargado de controlar y mantener los Laboratorios y Talleres de la Escuela Militar de Clases de Transmisiones, a cargo de un Mayor o Capitán 1/o. Ingeniero del Servicio de Transmisiones, a quien se denomina Jefe de la Sección de Laboratorios y Talleres.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 19.
 
-El Jefe de la Sección de Apoyos Didácticos tienen las siguientes funciones:
+El Jefe de la Sección de Laboratorios y Talleres de la Escuela Militar de Clases de Transmisiones tiene las atribuciones y responsabilidades siguientes:
 
-I. Administrar y proporcionar los recursos didácticos para el desarrollo de investigaciones, prácticas y trabajos;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-II. Recomendar la adquisición de recursos didácticos para satisfacer las necesidades académicas del plantel;
+I. Administrar y preveer los recursos materiales para el desarrollo de investigaciones, prácticas y trabajos;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+II. Recomendar la adquisición de recursos materiales de los laboratorios y talleres para satisfacer las necesidades académicas del plantel;
 
 III. Difundir información sobre los recursos didácticos con que se cuentan y sus potencialidades;
 
-IV. Asesorar a los usuarios respecto al empleo adecuado de los apoyos didácticos para su mejor aprovechamiento;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Asesorar a los usuarios respecto al empleo adecuado del material de los laboratorios y talleres para su mejor aprovechamiento;
 
 V. Proporcionar y recomendar los trabajos de mantenimiento del material didáctico a su cargo;
 
 VI. Proponer la adquisición de bibliografía acorde con el avance militar, científico y tecnológico;
 
-VII. Controlar la subsección de Informática;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VII. Controlar los laboratorios, talleres, aulas especializadas, sala de informática y biblioteca;
 
 VIII. Formular los informes de la Sección;
 
@@ -435,9 +599,11 @@ X. Las que le sean asignadas por la superioridad.
 
 La Ayudantía General de la Escuela Militar de Clases de Transmisiones, es el órgano encargado de satisfacer las necesidades de vida interna a cargo de un Teniente Coronel o Mayor del Servicio de Transmisiones, a quien se denomina Ayudante General.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 21.
 
-El Ayudante General tiene las siguientes funciones:
+El Ayudante General de la Escuela Militar de Clases de Transmisiones tiene las atribuciones y responsabilidades siguientes:
 
 I. Las correspondientes a un Ayudante y a un Jefe de Instrucción de un Cuerpo de Tropa, respecto al personal de la planta de la escuela;
 
@@ -453,7 +619,7 @@ VI. Elaborar, aplicar y supervisar los programas de adiestramiento del personal 
 
 VII. Controlar el depósito de armamento y municiones;
 
-VIII. Elaborar y aplicar el Plan de Defensa y los demás que sean necesarios;
+VIII. (DEROGADA, D.O.F. 22 DE JUNIO DE 2001)
 
 IX. Controlar, coordinar y supervisar el mantenimiento de los vehículos de cargo en el plantel;
 
@@ -465,19 +631,25 @@ XII. Las que le sean asignadas por la superioridad.
 
 ### CAPITULO VIII. De la Sección Administrativa
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 22.
 
-La Sección Administrativa es el órgano de apoyo administrativo del plantel a cargo de un Mayor o Capitán Primero del Servicio de Administración, a quien se denomina Jefe de la Sección Administrativa.
+La Sección Administrativa de la Escuela Militar de Clases de Transmisiones es el órgano de apoyo administrativo del plantel a cargo de un Jefe u Oficial del Servicio de Transmisiones u Oficinista, a quien se denomina Jefe de la Sección Administrativa.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 23.
 
-El Jefe de la Sección Administrativa tiene las siguientes funciones:
+El Jefe de la Sección Administrativa tiene las atribuciones y responsabilidades siguientes:
 
 I. Elaborar y tramitar la documentación que se genere con motivo de los movimientos del personal perteneciente al plantel y mantener completos y actualizados los expedientes del mismo;
 
 II. Elaborar la documentación relacionada con los bienes muebles e inmuebles, armamento y municiones, vestuario, equipo y vehículos de cargo en el plantel;
 
-III. Fungir como controlador de bienes muebles;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Coordinar y supervisar las actividades del controlador de bienes muebles;
 
 IV. Elaborar y tramitar la documentación contable del plantel;
 
@@ -513,9 +685,11 @@ La Unidad Ejecutora de Pago de la Escuela Militar de Clases de Transmisiones est
 
 El Jefe de la Unidad Ejecutora de Pago de la Escuela Militar de Clases de Transmisiones tiene la responsabilidad de proporcionar el servicio de pago de haberes y demás percepciones al personal de las (sic) misma de conformidad con las disposiciones legales aplicables y directivas que emita la superioridad.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 26.
 
-La Unidad Ejecutora de Pago normará su estructura y funcionamiento de conformidad con las disposiciones legales respectivas.
+La Unidad Ejecutora de Pago norma su estructura y funcionamiento de conformidad con las disposiciones legales respectivas.
 
 ### CAPITULO X. De la Junta Técnico-Consultiva
 
@@ -523,9 +697,11 @@ La Unidad Ejecutora de Pago normará su estructura y funcionamiento de conformid
 
 La Junta Técnico-Consultiva de la Escuela Militar de clases de Transmisiones es el órgano colegiado que asesora en materia pedagógica y académica al Director del plantel.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 28.
 
-La Junta Técnico-Consultiva tiene las siguientes funciones:
+La Junta Técnica Consultiva tiene las responsabilidades siguientes:
 
 I. Analizar y proponer soluciones a problemas de carácter pedagógico y académico que surjan en el plantel;
 
@@ -537,7 +713,7 @@ IV. Evaluar la actuación del personal académico, docente y en instrucción;
 
 V. Analizar los resultados de la evaluación pedagógica para mejorar el proceso enseñanza-aprendizaje;
 
-VI. Proponer al personal directivo, académico, docente y en instrucción que se haga acreedor a recibir alguna recompensa; y
+VI. (DEROGADA, D.O.F. 22 DE JUNIO DE 2001)
 
 VII. Las que en materia pedagógica y académica le asigne el Director del plantel.
 
@@ -581,7 +757,9 @@ A. Ayudante General;
 
 B. Jefe de la sección Administrativa;
 
-C. Jefe de la Sección de Apoyos Didácticos;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+C. Jefe de la Sección de Laboratorios y Talleres;
 
 D. Jefe de la Unidad Ejecutora de Pago; y
 
@@ -599,31 +777,47 @@ El personal Directivo y Académico tiene las atribuciones y responsabilidades qu
 
 ### CAPITULO III. Del Personal Docente
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 31.
 
-El personal Docente le corresponde el desarrollo del proceso enseñanza aprendizaje. Tiene las atribuciones y responsabilidades que para su jerarquía establecen las leyes y reglamentos militares, las estipuladas en el presente Reglamento y directivas aplicables que emita la superioridad. Este personal puede ser profesor o instructor.
+Al personal docente le corresponde el desarrollo del proceso enseñanza-aprendizaje de las asignaturas a su cargo, tiene las atribuciones y responsabilidades que para su jerarquía establecen las leyes y reglamentos militares, las prescritas en el presente Reglamento y disposiciones que emita la superioridad; este personal puede ser profesor o instructor.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 32.
 
-Es profesor, el personal militar o civil que tiene a su cargo labores de enseñanza o transmisión de conocimientos, pudiendo ser titular o adjunto.
+Es profesor el militar o civil que tienen a su cargo con carácter de titular o de adjunto, labores permanentes de enseñanza o transmisión de conocimientos, previa acreditación del título profesional que avale el dominio de la asignatura por impartir.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 33.
 
-Es instructor, el personal militar o civil a quién se encomienda la impartición de conocimientos sobre materias que solo requieran habilidad, pericia o destreza.
+Son instructores los militares a quienes se encomienda la impartición de conocimientos sobre materias que requieren habilidad, pericia o destreza y que acrediten previamente ante la Sección Académica el conocimiento que vayan a impartir.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 34.
 
-Son profesores e instructores honorarios, los que imparten conocimientos o prácticas y que no perciben remuneración por este hecho.
+Son profesores e instructores honorarios los que imparten conocimientos o prácticas y que no perciben remuneración por este hecho, debiendo extendérseles un nombramiento como estímulo a dichas actividades.
 
 ### CAPITULO IV. Del Personal del Cuerpo de Alumnos
 
-#### SECCION I. Del Comandante, Grupo de Comando y Oficiales del Cuerpo
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+PRIMERA SECCION
+
+Del Comandante, Grupo de Comando y Oficiales del Cuerpo
 
 ###### ARTICULO 35.
 
 El Comandante del Cuerpo de Alumnos, el personal del Grupo de Comando y los Oficiales del Cuerpo, tienen las atribuciones y responsabilidades que establecen las leyes y reglamentos militares para los de su cargo y jerarquía, las estipuladas en el presente reglamento y disposiciones aplicables que emita la superioridad.
 
-#### SECCION II. Del Personal en Instrucción
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+SEGUNDA SECCION
+
+Del Personal en Instrucción
 
 ###### ARTICULO 36.
 
@@ -637,9 +831,11 @@ El personal en instrucción será designado como alumno y realizará sus estudio
 
 Los militares y civiles de nacionalidad extranjera que ingresen a la Escuela Militar de Clases de Transmisiones, lo harán en calidad de becarios y se regirán durante su estancia, por lo establecido en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos en las partes aplicables y en el presente Reglamento; no estarán sujetos al fuero de guerra que comprende faltas y delitos, contra la disciplina militar, regulándose su situación disciplinaria en cada caso como lo determine la Secretaría de la Defensa Nacional.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 39.
 
-El personal en instrucción además de lo establecido en la legislación militar y disposiciones aplicables que emita la superioridad, tiene las siguientes obligaciones:
+El personal en instrucción además de lo establecido en la legislación militar y disposiciones aplicables que emita la superioridad, tiene las atribuciones y responsabilidades siguientes:
 
 I. Asistir puntualmente a las actividades que le señalen las distribuciones de tiempo respectivas;
 
@@ -651,9 +847,11 @@ IV. Desempeñar servicios y comisiones inherentes a su jerarquía; y
 
 V. Conocer y observar el contenido del presente Reglamento en las partes correspondientes.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 40.
 
-El personal en instrucción de cada curso de la Escuela Militar de Clases de Transmisiones integrará una antigüedad que será designada con el número progresivo correspondiente.
+El personal en instrucción de cada curso de la Escuela Militar de Clases de Transmisiones, integra una antigüedad que es designada de acuerdo al ciclo lectivo correspondiente.
 
 ### CAPITULO V. Del Personal Administrativo y de la Planta
 
@@ -725,11 +923,15 @@ Aquellos que realiza el personal en instrucción de una o varias partes del prog
 
 II. Final Ordinario:
 
-Es aquel que se aplica al personal en instrucción al término del ciclo lectivo y cubre la totalidad del programa de cada asignatura.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+Es aquel que se aplica a todo el personal en instrucción al término del ciclo lectivo y cubre la totalidad del programa de cada asignatura durante el periodo o ciclo escolar.
 
 III. Extraordinario:
 
-Es aquel que se aplica al personal en instrucción que repruebe un examen final ordinario o que no alcance promedio aprobatorio en alguna asignatura.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+Es aquel que se aplica al personal en instrucción cuya calificación final de la asignatura sea menor de seis puntos, calculado de acuerdo a lo establecido en el artículo 55, de este Reglamento.
 
 ###### ARTICULO 52.
 
@@ -743,13 +945,17 @@ III. Prácticos; o
 
 IV. Una combinación de los anteriores.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 53.
 
-Para calificar todos los exámenes se utiliza la escala numérica de CERO a CIEN puntos, sin incluir decimales.
+Para calificar todos los exámenes se utiliza la escala numérica de cero a diez puntos incluyendo decimales.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 54.
 
-La calificación mínima aprobatoria es de SESENTA puntos.
+La calificación mínima aprobatoria es de seis puntos.
 
 ###### ARTICULO 55.
 
@@ -773,7 +979,9 @@ El personal en instrucción que utilice medios fraudulentos para resolver un exa
 
 Los Jurados para aplicar y evaluar los diferentes tipos de exámenes mencionados en este Reglamento, estarán integrados por personal docente del plantel y aquel otro que determine la superioridad.
 
-## TITULO SEPTIMO. De las Faltas y Bajas
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+## TITULO SEPTIMO. De las Faltas, Bajas y Reingresos
 
 ### CAPITULO I. De las Faltas de Asistencia Académica
 
@@ -789,9 +997,11 @@ Son faltas justificadas, las ausencias del personal en instrucción que se deban
 
 Son faltas injustificadas, las que no se encuentren comprendidas en el artículo anterior.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 62.
 
-Las faltas de asistencia académica se computarán a razón de una falta por cada inasistencia a una sesión de clase de cualquier asignatura.
+Las faltas de asistencia académica, se computarán a razón de una falta por cada inasistencia a una sesión de clase de cualquier asignatura y se considerará reprobado, el personal en instrucción que falte injustificadamente a un examen.
 
 ###### ARTICULO 63.
 
@@ -811,9 +1021,11 @@ El registro y cómputo de faltas se dará a conocer periódicamente al personal 
 
 El personal que concluye satisfactoriamente sus estudios, causa baja del plantel y queda a disposición de la Secretaría de la Defensa Nacional para los efectos correspondientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 67.
 
-Son causales de baja de la Escuela Militar de Clases de Transmisiones las siguientes:
+Son causales de baja para el personal en instrucción de la Escuela Militar de Clases de Transmisiones las siguientes:
 
 I. Reprobar el 40% o más del total de exámenes parciales en un mismo período de evaluación;
 
@@ -825,7 +1037,9 @@ lV. Acumular el 10% o más de faltas injustificadas en una sola asignatura o el 
 
 V. Acumular el 30% o más de faltas justificadas en una sola asignatura o en el conjunto de ellas durante el curso;
 
-VI. Acumular 300 (Trescientos) puntos de demérito durante el curso, previa determinación de mala conducta por el Consejo de Honor;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. Acumular 500 (Quinientos) puntos de demérito durante el ciclo lectivo, previa determinación de mala conducta por el consejo de honor;
 
 Vll. Quedar comprendido en alguna de las causales de baja establecidas en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos;
 
@@ -837,9 +1051,33 @@ X. Existir irregularidades en la documentación presentada al ingresar al plante
 
 Xl. Para el personal Becario extranjero, faltar injustificadamente a sus labores académicas durante tres días consecutivos.
 
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XII. Adquirir otra nacionalidad;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIII. Solicitud del interesado que sea aceptada por la superioridad;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIV. Encontrarse sujeto a proceso en el fuero de guerra, en el orden común o federal, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Reprobar tres exámenes parciales de una misma asignatura.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 68.
 
-El personal en instrucción que cause baja de la Escuela Militar de Clases de Transmisiones por situarse en alguna de las causales de baja establecidas en el artículo anterior, quedará a disposición de la Secretaría de la Defensa Nacional para los efectos que correspondan y no podrá reingresar al plantel.
+El personal en instrucción que cause baja de la Escuela Militar de Clases de Transmisiones, por situarse en alguna de las causales establecidas en el artículo 67 del presente Reglamento, quedará a disposición de la Secretaría de la Defensa Nacional para los efectos que correspondan.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 68 Bis.
+
+Al personal en instrucción que por cualquier motivo vaya a ser dado de baja del plantel, se le comunicará previamente por escrito esta circunstancia, haciéndole saber las razones y fundamentos legales, concediéndole un término de 15 días naturales contados a partir de la fecha en que sea notificado, a efecto de que manifieste lo que a sus intereses convenga sobre el particular.
 
 ## TITULO OCTAVO. De los Reconocimientos Académicos
 
@@ -853,9 +1091,11 @@ I. Certificado de Estudios; y
 
 II. Nombramiento.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 70.
 
-Al personal en instrucción de la Escuela Militar de Clases de Transmisiones que no concluya satisfactoriamente sus estudios, se le expedirá a solicitud del interesado, Certificado Parcial de Estudios, previa aprobación de la Dirección General de Educación Militar.
+Al personal en instrucción de la Escuela Militar de Clases de Transmisiones que no concluya satisfactoriamente sus estudios se le expedirá a solicitud del interesado certificado parcial de estudios, previa aprobación de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
 ### CAPITULO II. De los Premios y Recompensas
 
@@ -863,11 +1103,21 @@ Al personal en instrucción de la Escuela Militar de Clases de Transmisiones que
 
 Los Premios y Recompensas que se otorgan al personal en instrucción de la Escuela Militar de Clases de Transmisiones por el aprovechamiento en sus estudios son los siguientes:
 
-I. Premio y Diploma de primero, segundo o tercer lugar a quienes obtengan los tres promedios más altos del curso. Estos premios sólo serán otorgados cuando los promedios obtenidos sean de 85 puntos o más.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-II Figurar en el Cuadro de Honor durante el mes siguiente al período de evaluación en que haya obtenido un promedio de 80 puntos o más; y
+I. Premio y diploma de primero, segundo o tercer lugar a quienes obtengan los tres promedios más altos del curso; estos premios sólo serán otorgados cuando los promedios obtenidos sean de 8.5 puntos o más;
 
-III. Otros que determine la Secretaría de la Defensa Nacional.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+II. Figurar en el cuadro de honor durante el mes siguiente al periodo de evaluación en que haya obtenido un promedio de 8.5 puntos o más, sin reprobar en ese periodo; la Dirección del plantel les expedirá un reconocimiento académico;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Exento de realizar el examen final ordinario, al personal en instrucción que obtenga un promedio mínimo de 9.0 puntos en una materia, después de haber sustentado los exámenes parciales de la misma, asentándose la calificación obtenida en el promedio, quedando a elección del alumno la opción de presentar o no dicha evaluación para incrementar su promedio general, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Otros que determine la Secretaría de la Defensa Nacional.
 
 ###### ARTICULO 72.
 
@@ -877,9 +1127,11 @@ El personal en instrucción que termine satisfactoriamente sus estudios, además
 
 ### CAPITULO I. De la Disciplina
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 73.
 
-Los arrestos que se impongan al personal en instrucción de procedencia militar, Sargentos y Cabos, de la Escuela Militar de Clases de Transmisiones, serán graduados por el Director del plantel conforme a lo establecido en la Legislación Militar y se cumplirán a partir del momento en que se comunique.
+Los arrestos que se impongan al personal en instrucción en calidad de externo, serán graduados por el Director del plantel conforme a lo establecido en la legislación militar y se cumplirán a partir del momento en que se comunique.
 
 ###### ARTICULO 74.
 
@@ -889,33 +1141,43 @@ La graduación de arrestos impuestos al personal en instrucción se contabilizar
 
 Los arrestos impuestos al personal en instrucción, se computarán con 20 puntos de demérito por cada veinticuatro horas.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 76.
 
-El Director de la Escuela Militar de Clases de Transmisiones podrá graduar los arrestos que se impongan al personal de Alumnos hasta por quince días en el interior del plantel.
+El Director de la Escuela Militar de Clases de Transmisiones podrá graduar los arrestos que se impongan al personal de alumnos hasta por 300 puntos de demérito en el interior del plantel.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 77.
 
-El personal de alumnos, excepto sargentos y cabos, cumplirá su arresto los sábados y domingos de franquicia y los días inhábiles de las semanas laborables que determine la dirección del plantel.
+El personal en instrucción en calidad de interno cumplirá el arresto los sábados y domingos de franquicia y los días inhábiles de las semanas laborables que determine la Dirección del plantel.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 78.
 
-Los alumnos, excepto sargentos y cabos, cumplirán sus arrestos en las semanas laborables de la siguiente manera:
+El personal en instrucción en calidad de interno cumplirá el arresto en las semanas laborables de la manera siguiente:
 
-I. A partir de la hora de franquicia del sábado hasta las veinticuatro horas del mismo, 10 puntos de demérito.
+I. A partir de la hora de franquicia del sábado hasta las 0800 horas del domingo, 20 puntos de demérito;
 
-II. A partir de la hora de franquicia del sábado hasta las doce horas del domingo, 20 puntos de demérito;
+II. De las 0800 horas del domingo, hasta la hora que termine la franquicia, 20 puntos de demérito;
 
-III. Sin disfrutar la franquicia del sábado y domingo, 30 puntos de demérito; y
+III. Sin disfrutar la franquicia del sábado y domingo, 40 puntos de demérito, y
 
-lV. Los arrestos graduados con más de 72 horas, más de 60 puntos, se cumplirán alternando dos fines de semana continuos de reclusión, por uno de franquicia.
+IV. Los arrestos graduados con más de 80 puntos de demérito, se cumplirán alternando dos fines de semana continuos de reclusión por uno de franquicia.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 79.
 
-Los alumnos, excepto sargentos y cabos, cumplirán sus arrestos ininterrumpidamente conforme al cómputo establecido, en días inhábiles correspondientes a semanas no laborables.
+Los alumnos internos cumplirán los arrestos ininterrumpidamente conforme al cómputo establecido en días inhábiles correspondientes a semanas no laborables.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 80.
 
-La acumulación de 200 (doscientos) puntos de demérito durante el año lectivo, implica la pérdida de distinción para, los cadetes de primera.
+La acumulación de 200 (Doscientos) o 300 (Trescientos) puntos de demérito durante el año lectivo, implica la pérdida de distinción para los alumnos de primera o destitución de grado para las clases de alumnos respectivamente.
 
 ###### ARTICULO 81.
 
@@ -923,9 +1185,11 @@ Al personal en instrucción que utilice medios fraudulentos en la resolución de
 
 ### CAPITULO II. De la Garantía de Permanencia
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 82.
 
-Los civiles y soldados que causen alta en la Escuela Militar de Clases de Transmisiones como alumnos, otorgarán un depósito en efectivo cuyo monto fijará la Secretaría de la Defensa Nacional.
+Los civiles que causen alta en la Escuela Militar de Clases de Transmisiones como alumnos, otorgarán un depósito en efectivo cuyo monto fijará la Secretaría de la Defensa Nacional.
 
 ###### ARTICULO 83.
 
@@ -942,3 +1206,11 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se derogan el Capítulo II del Título Quinto que comprende los artículos 112 al 121 inclusive del Reglamento General del Servicio de Transmisiones, publicado en el Diario Oficial de la Federación de 28 de julio de 1961 y todas las demás disposiciones que se opongan al presente ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de abril de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de la Defensa Nacional, Antonio Riviello Bazán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 22 DE JUNIO DE 2001.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
