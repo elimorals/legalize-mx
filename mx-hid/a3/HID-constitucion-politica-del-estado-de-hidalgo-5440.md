@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1981-06-01"
+last_updated: "1981-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1981.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -967,7 +967,7 @@ El Gobernador del Estado podrá salir del territorio del mismo sin licencia del 
 
 #### SECCION III. DE LAS DEPENDENCIAS DEL EJECUTIVO
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 71.
 
@@ -1085,65 +1085,39 @@ LII. Las demás que le confiera esta Constitución y la General de la República
 
 ###### Artículo 72.
 
-Para el despacho de los negocios del Ejecutivo habrá una Secretaría General de Gobierno, una Secretaría de Administración, una Secretaría de Planeación, una Procuraduría General de Justicia, una Tesorería General y las demás dependencias que establezca la Ley Orgánica correspondiente.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+Para el despacho de los asuntos del ejecutivo existirá una organización del mismo, que se consignará en la Ley Orgánica de la Administración Pública del Estado, la que establecerá las dependencias y organismos necesarios.
 
 ###### Artículo 73.
 
-El Secretario General de Gobierno tendrá a su cargo las atribuciones relacionadas con los aspectos de orden gubernativo, dentro de la administración pública; así como las que le conceda la Ley Orgánica correspondiente.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1981)
 
 ###### Artículo 74.
 
-El Secretario de Administración tendrá a su cargo las tareas vinculadas con asuntos hacendarios fiscales y administrativos de la Entidad; así como las facultades que le conceda la Ley Orgánica respectiva.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1981)
 
 ###### Artículo 75.
 
-Corresponde al Secretario de Planeación, desarrollar las actividades relacionadas con planeación, evaluación, promoción y coordinación operativa de los planes federales, estatales y municipales, teniendo las facultades que le confiere la Ley Orgánica correspondiente.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1981)
 
 ###### Artículo 76.
 
-El Tesorero General del Estado es el responsable de los caudales públicos, la hacienda y el patrimonio del Estado; y en esta función tendrá las atribuciones que le otorgue la Ley Orgánica correspondiente.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1981)
 
 ###### Artículo 77.
 
-Todos los decretos, reglamentos y órdenes del Gobernador, deberán ser refrendados por el Secretario de Despacho encargado del ramo al cual pertenezca el asunto, quien será corresponsable por su intervención.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1981)
 
 ###### Artículo 78.
 
-Para ser Secretario de Despacho se requiere:
-
-I. Ser hidalguense en pleno goce de sus derechos;
-
-II. Ser mayor de 28 años de edad; y
-
-III. Tener experiencia en el ramo para el que se le designe.
-
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
-
-En el caso particular del Secretario General de Gobierno, deberá requerirse que éste sea Licenciado, con título legalmente expedido y registrado.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1981)
 
 ###### Artículo 79.
 
-Los ministros de cualquier culto, así como la persona que haya sido sentenciada por la comisión de cualquier delito, no podrán ser Secretarios de Despacho.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1981)
 
 ###### Artículo 80.
 
-Los Secretarios de Despacho no podrán desempeñar las actividades de abogado, de apoderado o de gestor en cualquier clase de negocios, ni otra actividad diversa a sus funciones, ante las autoridades del Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1981)
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1423,29 +1397,23 @@ I. Los ingresos que determine la Ley de la Materia y demás normas aplicables; y
 
 II. Los ingresos que se perciban por concepto de convenios, participaciones, legados, donaciones o cualesquiera otras causas.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 106.
 
-La administración de la Hacienda Pública estará a cargo del Gobernador, por conducto de la Tesorería General del Estado.
-
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+La administración de la Hacienda Pública estará a cargo del Gobernador, por conducto de la dependencia que señale la Ley Orgánica de la Administración Pública del Estado.
 
 ###### Artículo 107.
 
-La Ley de la materia determinará la organización y funcionamiento de las oficinas de Hacienda en el Estado.
-
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1981)
 
 ###### Artículo 108.
 
-El año fiscal comprenderá del 1o. de enero al 31 de diciembre, inclusive.
-
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1981)
 
 ###### Artículo 109.
 
-Si al iniciarse el año fiscal no se hubiere aprobado el presupuesto general correspondiente, en tanto se expida éste, continuará vigente el del año inmediato anterior.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1981)
 
 > <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1453,11 +1421,9 @@ Si al iniciarse el año fiscal no se hubiere aprobado el presupuesto general cor
 
 Las cuentas de los caudales públicos deberán glosarse sin excepción por la Contaduría General del Estado, misma que dependerá del Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
-
 ###### Artículo 111.
 
-No podrá hacerse pago alguno que no esté comprendido en el presupuesto o determinado por la Ley.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1981)
 
 > <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -2134,6 +2100,10 @@ Artículo Único.- Este Decreto surtirá sus efectos legales a partir del día d
 P.O. 1 DE JUNIO DE 1981.
 
 UNICO.- Este Decreto empezará a surtir sus efectos legales a partir del día siguiente de su publicación en el periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1981.
+
+UNICO.- Estas reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 3o.
 
