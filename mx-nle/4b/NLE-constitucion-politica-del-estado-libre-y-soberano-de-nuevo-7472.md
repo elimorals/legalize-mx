@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1995-11-22"
+last_updated: "1996-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1996.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -331,7 +331,7 @@ Los Diputados Suplentes entrarán en funciones en caso de falta absoluta de los 
 
 La Legislatura tendrá cada año de ejercicio dos períodos de Sesiones Ordinarios. El primero se abrirá el 15 de Octubre y terminará el 15 de Enero y podrá ser prorrogado hasta por un mes. El segundo comenzará el día 15 de Abril y terminará el 15 de Junio, pudiendo también ser prorrogado por un mes.
 
-En el año de la elección para la renovación del Titular del Poder Ejecutivo, el Segundo Período Ordinario de Sesiones comprenderá del 1o. de Julio al 14 de Octubre, en el que se antenderá primordialmente lo relativo al Sexto Informe de Gobierno; a la calificación de la elección del siguiente Gobernador y Diputados y a la toma de protesta de Ley al Gobernador que resulte electo, en Sesión Solemne que deberá celebrarse el día 4 de Octubre.
+En el año de la elección para la renovación del Titular del Poder Ejecutivo, el Segundo Período Ordinario de Sesiones comprenderá del 1o. de Julio al 14 de Octubre, en el que se antenderá (sic) primordialmente lo relativo al Sexto Informe de Gobierno; a la calificación de la elección del siguiente Gobernador y Diputados y a la toma de protesta de Ley al Gobernador que resulte electo, en Sesión Solemne que deberá celebrarse el día 4 de Octubre.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
@@ -685,6 +685,10 @@ En demanda del orden civil que se entable contra cualquier servidor público no 
 
 Una Ley reglamentaria establecerá el número de Regidores y Síndicos que juntamente con el Presidente Municipal, compongan los Ayuntamientos. En la elección de los Ayuntamientos de todos los Municipios se seguirá el sistema mixto de mayoría relativa y de representación proporcional en la forma y términos que la Ley Electoral establezca.
 
+###### ARTICULO 140.
+
+Ninguna cuenta, ya sea del Estado o de los Municipios dejará de concluirse y glosarse anualmente.
+
 ###### Artículo 152.
 
 Las leyes de que hablan los artículos 45, 63 Fracción XIX, 94 y 121 son Constitucionales y en su reforma se guardarán las mismas reglas que en las de cualquier artículo de la Constitución, pudiendo ser discutidas y votadas en el mismo período en que sean propuestas, si así lo acordare el Congreso.
@@ -799,9 +803,7 @@ XX.- Nombrar a los Magistrados del Tribunal Superior de Justicia, sometiendo sus
 
 XXI.- Presentar a la Legislatura, durante su primer período de sesiones ordinarias, el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 1980)</small>
-
-XXII.- Remitir al Congreso, con el informe respectivo los proyectos de presupuestos de ingresos que le envíen con ese objeto los Ayuntamientos, de acuerdo con el Artículo 128 de esta Constitución.
+XXII.- (DEROGADA, P.O. 24 DE MAYO DE 1996)
 
 XXIII.- Rendir los informes a que se refiere la fracción XIII del art. 63.
 
@@ -1225,11 +1227,11 @@ Los miembros del Ayuntamiento se renovarán cada tres años, tomando posesión l
 
 Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1996)</small>
 
 ###### Art. 125.
 
-Los Ayuntamientos por conducto del Ejecutivo enviarán a la Diputación Permanente las cuentas giradas durante el año anterior, a fin de que el H. Congreso en su Segundo Período Ordinario de Sesiones las revise, previo el informe del mismo Ejecutivo.
+Los Ayuntamientos, enviarán a la Diputación Permanente las cuentas giradas durante el año anterior, a fin de que el H. Congreso, en su Segundo Período Ordinario de sesiones, las revise.
 
 ###### Art. 126.
 
@@ -1243,11 +1245,11 @@ Si las dos terceras partes de los miembros del Ayuntamiento se encuentran en el 
 
 (DEROGADO, P.O. 24 DE MARZO DE 1993)
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1996)</small>
 
 ###### Art. 128.
 
-Los Ayuntamientos, en los primeros días del mes de noviembre de cada año, presentarán al Congreso, por conducto del Ejecutivo, sus proyectos de Presupuestos de Ingresos para que, con la aprobación de aquél, se pongan en vigor durante el año siguiente.
+Los Ayuntamientos, en los primeros días del mes de Noviembre de cada año, presentarán al Congreso sus proyectos de Presupuestos de Ingresos para que, con su aprobación se pongan en vigor durante el año siguiente.
 
 ###### Art. 129.
 
@@ -1293,13 +1295,9 @@ IV.- Los Municipios en el ámbito de su competencia y con apego a las leyes fede
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-###### Art. 13.
+###### Art. 132
 
-Cuando por cualquier circunstancia los Ayuntamientos electos no tomaren posesión el día treinta y uno de Octubre, continuarán ejerciendo sus funciones los Ayuntamientos salientes hasta que aquellos tomen posesión de sus cargos.
-
-###### Art. 132.
-
-Cuando por cualquier circunstancia los Ayuntamientos electos no tomaren posesión el día treinta y uno de Octubre, continuarán ejerciendo sus funciones los Ayuntamientos salientes hasta que aquellos tomen posesión de sus cargos.
+- Cuando por cualquier circunstancia los Ayuntamientos electos no tomaren posesión el día treinta y uno de Octubre, continuarán ejerciendo sus funciones los Ayuntamientos salientes hasta que aquellos tomen posesión de sus cargos.
 
 ## TITULO IX.
 
@@ -1352,8 +1350,6 @@ El año fiscal correrá del primero de enero al 31 de diciembre.
 Una ley determinará la organización y funcionamiento de todas las Oficinas de Hacienda en el Estado.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 1968)</small>
-
-ARTIULO 140.- Ninguna cuenta, ya sea del Estado o de los Municipios dejará de concluirse y glosarse anualmente.
 
 ###### Art. 140.
 
@@ -1795,15 +1791,15 @@ P.O. 12 DE MAYO DE 1937.
 
 UNICO:- Las anteriores reformas no afectarán la elección que se verificará el domingo 25 del próximo mes de julio del presente año, para Diputados Federales y Locales, así como Miembros del Supremo Tribunal de Justicia del Estado.
 
-P.O. 30 DE DICIEMBRE DE 1942.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
-
 P.O. 22 DE JULIO DE 1942.
 
 ###### ARTICULO SEGUNDO.
 
 Estas reformas empezarán a regir el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1942.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
 
 P.O. 23 DE JUNIO DE 1943.
 
@@ -2137,7 +2133,7 @@ P.O. 27 DE DICIEMBRE DE 1990.
 
 P.O. 19 DE JUNIO DE 1991.
 
-DECRETO NÚMERO 206, QUE REFORMA EL ARTÍCULO128.
+DECRETO NÚMERO 206, QUE REFORMA EL ARTÍCULO 128.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2212,3 +2208,7 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 22 DE NOVIEMBRE DE 1995.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MAYO DE 1996.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
