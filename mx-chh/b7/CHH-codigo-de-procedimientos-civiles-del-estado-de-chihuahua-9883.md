@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2002-09-25"
+last_updated: "2003-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2003.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1995,33 +1995,47 @@ Las demás excepciones dilatorias que se hicieren valer se opondrán simultánea
 
 ### CAPITULO IV. Del juicio hipotecario
 
-444.- El juicio hipotecario que reglamenta este Capítulo se seguirá sin perjuicio de lo dispuesto en el artículo 432 del anterior, para obtener el pago o la prelación de un crédito hipotecario, siempre que éste conste en escritura pública debidamente registrada y sea de plazo cumplido, o que deba anticiparse conforme a los artículos 1842 y 2802 del Código Civil.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2003)</small>
 
-Cuando el juicio se entable entre los que contrataron la hipoteca, procederá el juicio hipotecario sin necesidad del requisito del registro, siendo siempre condición indispensable para inscribir la cédula, que esté registrado el bien hipotecado a nombre del demandado y que no haya inscripción de embargo o gravamen en favor de tercero.
+444.- El juicio hipotecario que reglamenta este Capítulo se seguirá sin perjuicio de lo dispuesto en el artículo 432, para obtener el pago o la prelación de un crédito hipotecario, siempre que éste conste en escritura pública debidamente registrada y sea de plazo cumplido, exigible en los términos pactados o que deba anticiparse conforme a los artículos 1842 y 2802 del Código Civil.
+
+Cuando el juicio se entable entre los que contrataron la hipoteca, procederá el juicio hipotecario sin necesidad del requisito del registro, siendo siempre condición indispensable para inscribir la demanda, que esté registrado el bien hipotecado a nombre del demandado y que no haya inscripción de embargo o gravamen en favor de tercero.
 
 445.- Las cuestiones que versen sobre constitución, ampliación o división de una hipoteca, sobre la suficiencia o insuficiencia de ella en los casos a que se refieren los artículos 2800 y 2831 del Código Civil, y sobre el registro o cancelación de la hipoteca, se tramitarán en juicio sumario con arreglo a las disposiciones del Capítulo I de este Título, aun cuando la cuestión hipotecaria sea incidental de otro juicio, debiendo en este caso seguirse ambos juicios por cuerda separada y resolverse en una misma sentencia.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2003)</small>
 
-446.- Presentado el escrito de demanda acompañado del título respectivo, el juez, si encuentra que se reúnen los requisitos fijados en el artículo 444, expedirá y ordenará registrar la cédula hipotecaria, mandando correr traslado de la demanda al demandado para que la conteste y oponga excepciones si tuviere en el plazo de cinco días, aplicándose en lo conducente lo que este Código dispone respecto a la audiencia de conciliación y depuración del proceso.
+446.- Presentado el escrito de demanda acompañado del título respectivo, el juez, si encuentra que se reúnen los requisitos fijados en el artículo 444, admitirá la demanda y dispondrá que ésta se inscriba, en lo conducente, en el Registro Público de la Propiedad, en los términos del artículo 2906 del Código Civil. Igualmente mandará correr traslado de la demanda al demandado para que la conteste y oponga excepciones si tuviere en el plazo de cinco días, aplicándose en lo conducente lo que este Código dispone respecto a la audiencia de conciliación y depuración del proceso.
 
-447.- Si en el título con que se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios anteriores, el Juez mandará notificarles la cédula hipotecaria para que usen de sus derechos conforme a la ley.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2003)</small>
+
+447.- Si en el título con que se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios anteriores, el juez mandará notificarles la demanda para que usen de sus derechos conforme a la ley.
 
 448.- Si comenzado el juicio se presentan alguno o algunos acreedores hipotecarios, se procederá como está prevenido para los juicios de tercería, salvo el caso previsto en el artículo 2875 del Código Civil, en que se procederá conforme a lo que éste establece cuando la mayoría de acreedores, estimada por personas, así lo acordara en una junta a que los citará el juez a instancia de alguno de ellos, y si quedare algún remanente se consignará al juzgado a disposición del demandado.
 
-449.- La cédula hipotecaria contendrá una relación sucinta de la escritura y concluirá en estos términos: "En virtud de las constancias que preceden, queda sujeta la finca..... de la propiedad de….. a juicio hipotecario, lo que se hace saber a las autoridades y al público, para que no se practique en la mencionada finca ningún embargo, toma de posesión, diligencia precautoria o cualquiera otra que entorpezca el curso del presente juicio o viole los derechos en él adquiridos por el C. (aquí el nombre del actor).
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2003)</small>
 
-450.- La cédula hipotecaria se inscribirá en el Registro Público correspondiente, para cuyo efecto se expedirá por duplicado copia certificada. Una copia quedará en el Registro y la otra, ya registrada, se agregará a los autos.
+449.- En el propio auto que admita la demanda, el juez dispondrá lo siguiente: "En virtud de las constancias que preceden, queda sujeta la finca dada en hipoteca al presente juicio hipotecario, lo que se hace saber a las autoridades y al público, para que no se practique en la mencionada finca ningún embargo, toma de posesión, diligencia precautoria o cualquiera otra que entorpezca el curso del presente juicio o viole los derechos en él adquiridos por el demandante.
 
-451.- Si la finca no se halla en el lugar del juicio, se librará exhorto al juez de la ubicación, para que la haga publicar colocándola en las tablas de publicación de avisos del Ayuntamiento del lugar, procediendo en todo caso como se previene en la parte final del artículo anterior.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2003)</small>
 
-452.- Desde el día en que se registre la cédula hipotecaria, contrae el deudor la obligación de depositario judicial de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo a la escritura y conforme al Código Civil deban de considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
+450.- La demanda se inscribirá, en lo conducente, en el Registro Público correspondiente, en los términos del artículo 2906 del Código Civil, para cuyo efecto se expedirá por duplicado copia certificada. Una copia quedará en el Registro y otra, ya registrada, se agregará a los autos.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2003)</small>
+
+451.- Si la finca no se halla en el lugar del juicio, se librará exhorto al juez de la ubicación para que mande inscribir copia certificada de la demanda en el Registro Público de la Propiedad correspondiente y otra la haga publicar, colocándola en las tablas de publicación de avisos del Ayuntamiento del lugar. En todo caso se procederá en los términos previstos en la parte final del artículo anterior.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2003)</small>
+
+452.- Desde el día en que se registre la demanda, contrae el deudor la obligación de depositario judicial de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo a la escritura y conforme al Código Civil deban de considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
 
 453.- El deudor que no quiera aceptar la responsabilidad de depositario, entregará desde luego la tenencia material de la finca al actor o al depositario que éste nombre.
 
 454.- El secuestro de la finca hipotecada se regirá por lo dispuesto en el Capítulo II del Título Octavo de este Código.
 
-455.- Expedida la cédula hipotecaria, no podrá verificarse en la finca hipotecada ninguno de los actos en ella expresados, sino en virtud de sentencia ejecutoria relativa a la misma finca, debidamente registrada y anterior en fecha a la de la demanda que motivó la expedición de la cédula o de la providencia dictada a petición de acreedor de mejor derecho.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2003)</small>
+
+455.- Registrada la demanda, no podrá verificarse en la finca hipotecada ninguno de los actos expresados en el auto de radicación, sino en virtud de sentencia ejecutoria relativa a la misma finca, debidamente registrada y anterior en fecha a la de la demanda que quedó inscrita o de la providencia dictada a petición de acreedor de mejor derecho.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
 
@@ -2029,7 +2043,9 @@ Cuando el juicio se entable entre los que contrataron la hipoteca, procederá el
 
 457.- Si en la sentencia se resolviere no haber lugar al juicio hipotecario, se reservarán al actor sus derechos para que los ejercite en la vía y forma que corresponda. Si en ella se declara que se proceda al remate de la finca hipotecada, se pasará a la almoneda tan luego como cause ejecutoria la sentencia, o se otorgue la fianza correspondiente si hubiere sido apelada o hubiere de ejecutarse con otorgamiento de fianza.
 
-458.- Si el superior revoca el fallo de primera instancia que declaró procedente el remate, luego que quede notificada la ejecutoria, devolverá los autos originales del juicio al Juzgado de su origen, y el juez mandará cancelar la inscripción de la cédula hipotecaria y en su caso, devolverá la finca al demandado, ordenándose al depositario que rinda cuentas con pago en el término que le fije el Tribunal salvo que dicho depositario lo haya sido el demandado, plazo que no podrá exceder de treinta días. Si el remate se hubiere ya verificado, se hará efectiva la fianza en la vía de ejecución de sentencia.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2003)</small>
+
+458.- Si el superior revoca el fallo de primera instancia que declaró procedente el remate, luego que quede notificada la ejecutoria, devolverá los autos originales del juicio al juzgado de su origen, y el juez mandará cancelar la inscripción de la demanda y en su caso, devolverá la finca al demandado, ordenándose al depositario que rinda cuentas en un término que no exceda de treinta días, salvo que dicho depositario lo haya sido el propio demandado. Si el remate se hubiere ya verificado, se hará efectiva la fianza en la vía de ejecución de sentencia.
 
 459.- Cuando el deudor, al contratarse la hipoteca, hubiere convenido en que la finca se adjudique al acreedor en el precio que ésta tuviere en el momento de exigirse la deuda, presentada la demanda correspondiente, se ordenará proceder al avalúo de la finca sin sustanciar el juicio. La enajenación de la finca hipotecada a favor del acreedor se hará en la forma que se hubiere convenido en el contrato, y a falta de convenio, el juez, fijado el precio en que debe procederse a la enajenación, a instancia del actor requerirá al demandado para que, en el término de tres días, otorgue la escritura respectiva y no verificándolo, lo hará el juez en su rebeldía.
 
@@ -4536,3 +4552,15 @@ La reforma al artículo 456 del Código de Procedimientos Civiles, sólo se apli
 P.O. 25 DE SEPTIEMBRE DE 2002.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE MARZO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas a que se refiere el artículo segundo del presente decreto no serán aplicables a los procedimientos que en la vía especial hipotecaria hayan iniciado con anterioridad a su entrada en vigor.
+
+Las reformas a que se refiere el presente decreto no serán aplicables a créditos contratados antes de su entrada en vigor, ni tratándose de créditos novados o reestructurados con anterioridad a las mismas.
