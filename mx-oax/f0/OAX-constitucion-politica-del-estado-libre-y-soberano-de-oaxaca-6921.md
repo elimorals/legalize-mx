@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1994-08-27"
+last_updated: "1995-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 1995.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -429,29 +429,35 @@ III.- Alistarse en la guardia nacional para la defensa del territorio y de las i
 
 IV.- Colaborar voluntariamente en los trabajos colectivos gratuitos para beneficio de la comunidad a que pertenecen, sobre todo en caso de catástrofes, terremotos, inundaciones, incendios, etc., que implican una solidaridad voluntaria y moral a este fin.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 25.
 
-Las elecciones son actos de alto interés público y serán enteramente libres. Las Autoridades garantizarán la legalidad y limpieza del proceso electoral.
+Las elecciones son actos de interés público. Su organización y desarrollo es una función estatal que se realiza a través de un organismo público autónomo, dotado de personalidad jurídica y patrimonio propios, denominado Instituto Estatal Electoral. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad son sus principios rectores.
 
-La elección del Poder Legislativo, así como la de los Ayuntamientos, tendrá lugar en la fecha que determine la Ley Electoral respectiva.
+En la integración del Instituto Estatal Electoral participan el Poder Legislativo, los partidos políticos y la ciudadanía, en los términos que dispone la ley aplicable.
 
-Los Partidos Políticos son personas morales de interés público. El Estado reconoce y garantiza su existencia. Consecuentemente, gozarán de todas las prerrogativas para divulgar su ideología, procurar y promover la participación de los ciudadanos en la realización de la democracia y disponer de los elementos necesarios para la realización de tales objetivos.
+El Instituto Estatal Electoral será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones; contará en su estructura con órganos de dirección y órganos ejecutivos. El órgano superior de dirección es el Consejo General, el cual estará integrado por un Consejero Presidente y Consejeros Ciudadanos propuestos por las fracciones parlamentarias y designados por el Congreso del Estado, así como por representantes nombrados por los partidos políticos, en los términos que disponga la Ley. Los órganos ejecutivos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Las mesas directivas de casilla estarán integradas por ciudadanos.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+El Instituto Estatal Electoral agrupará para su desempeño, en forma integral y directa, además de las que le determine la ley, las facultades relativas a la preparación de la jornada electoral, la realización de cómputos y el otorgamiento de constancias, la capacitación electoral, educación cívica e impresión de materiales electorales. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que disponga la ley.
 
-La Ley establecerá las Instituciones que tengan a su cargo la preparación y desarrollo de los procesos electorales, las cuales se organizarán y supervisarán los sistemas de control y vigilancia que garanticen la legalidad y limpieza del proceso electoral e instituirá un Tribunal, que tendrá la competencia que determine la Ley y ante el que se vntilarán (sic) los medios de impugnación que ataquen las irregularidades surgidas durante el proceso electoral. Las Resoluciones del Tribunal serán obligatorias y sólo podrán ser modificadas por el Colegio Electoral en los términos que establezca la Ley.
+La ley establecerá un sistema de medios de impugnación de los que conocerán el Instituto Estatal Electoral, el Tribunal Estatal Electoral y el Congreso del Estado. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten invariablemente al principio de legalidad.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+El Tribunal Estatal Electoral es un órgano público dotado de plena autonomía y máxima autoridad jurisdiccional en materia electoral del Estado de Oaxaca.
 
-En la Ley se establecerán el respeto a las tradiciones y practicas democráticas de las comunidades indígenas.
+El Tribunal Estatal Electoral tendrá la competencia que determine la Ley y conocerá de los recursos y medios de impugnación que en materia electoral se encuentren previstos en esta Constitución y en la Ley. Las resoluciones del Tribunal serán obligatorias y definitivas.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+El Tribunal Estatal Electoral se integrará con tres magistrados numerarios y tres supernumerarios que serán designados por el Congreso del Estado mediante el voto de las dos terceras partes de los miembros presentes en la sesión correspondiente, de entre una lista de candidatos propuesta por el Tribunal Superior de Justicia del Estado emanada de miembros de la judicatura estatal, de conformidad con lo dispuesto por la ley.
 
-En los procesos electorales los partidos políticos deberán contar en forma equitativa, dentro de las posibilidades presupuestales del Gobierno del Estado, con un mínimo de elementos para sus actividades, tendientes a la obtención de sufragio popular.
+Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
 
-La Ley determinará sus derechos, obligaciones y forma de participaciones en los procesos electorales.
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos públicos de elección del Estado de Oaxaca y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulen, mediante el sufragio universal, libre, secreto y directo.
+
+Los partidos políticos deberán contar, en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular. La ley establecerá las reglas a que se sujetarán su financiamiento, su acceso a los medios de comunicación social y sus campañas electorales.
+
+La elección del Poder Legislativo, así como la de los Ayuntamientos, tendrá lugar en la fecha que determine la ley electoral respectiva.
+
+La ley protegerá las tradiciones y prácticas democráticas de las comunidades indígenas, que hasta ahora han utilizado para la elección de sus Ayuntamientos.
 
 ## TITULO TERCERO. Del Estado, su soberanía y territorio
 
@@ -539,7 +545,7 @@ Partiendo del "CERRO MARTINEZ" con rumbo S13°00'O en línea recta hasta el "CER
 
 ## TITULO CUARTO. Del Gobierno del Estado
 
-### CAPITULO II. Del Poder Legislativo
+### CAPITULO I. De la Forma de Gobierno y División de Poderes
 
 ###### ARTICULO 29.
 
@@ -559,7 +565,7 @@ Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos
 
 El Poder Público del Estado se divide, para el ejercicio de sus funciones en Legislativo, Ejecutivo y Judicial, los cuales desarrollarán sus funciones en la forma y términos previstos en esta Constitución. No podrán reunirse en uno solo de ellos, cualesquiera de los otros dos, como tampoco delegarse o invadirse atribuciones, a excepción de los casos previstos en el Artículo 62 de este documento.
 
-### CAPITULO I. De la Forma de Gobierno y División de Poderes
+### CAPITULO II. Del Poder Legislativo
 
 #### SECCION PRIMERA. De la Legislatura
 
@@ -575,53 +581,81 @@ El Poder Legislativo se ejerce por el Congreso del Estado, y estará integrado p
 
 Los Diputados Propietarios no podrán ser reelectos para el período inmediato ni con el carácter de suplentes. Los Diputados Suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hayan estado en ejercicio.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 33.
 
-El Congreso del Estado estará integrado por 21 diputados electos según el principio de mayoría relativa en distritos electorales uninominales y hasta 10 diputados que serán electos según el principio de representación proporcional mediante el sistema de lista votada en una sola circunscripción plurinominal y se sujetará a las bases siguientes y a lo que en lo particular disponga la Ley.
+El Congreso del Estado estará integrado por 25 diputados electos según el principio de mayoría relativa en distritos electorales uninominales y 17 diputados que serán electos según el principio de representación proporcional mediante el sistema de lista votada en una sola circunscripción plurinominal y se sujetará a lo que en lo particular disponga la ley y a las bases siguientes:
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
 I.- Para obtener el registro de su lista estatal, el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos doce distritos uninominales.
 
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
+
 II.- Tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional, todo aquel partido que alcance por lo menos el uno y medio por ciento del total de la votación estatal emitida;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
 III.- El Partido que cumpla con los supuestos señalados en las fracciones I y II de este artículo, le serán asignados, por el principio de representación proporcional, el número de diputados de su lista estatal que corresponda al porcentaje de votos obtenidos.
 
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
+
 IV.- La Ley determinará la fórmula electoral y los procedimientos que se observarán en dicha asignación, en la que se seguirá el orden que tuviesen los candidatos en la lista correspondiente;
 
-V.- Los Partidos Políticos tendrán derecho a que les sean reconocidos hasta veintiún diputados, sumando los electos por mayoría relativa y por representación proporcional; y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+V.- Los partidos políticos tendrán derecho a que les sean reconocidos hasta veinticinco diputados, sumando los electos por mayoría relativa y por representación proporcional, y
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
 VI.- Los Diputados de mayoría relativa y de representación proporcional, como representantes del pueblo tienen la misma categoría e iguales derechos y obligaciones.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 34.
 
-Para ser Diputado propietario o suplente se requiere:
+Para ser diputado propietario o suplente se requiere:
 
-I.- Ser nativo del Estado de Oaxaca con residencia en su territorio no más de cinco años inmediatamente anteriores a la fecha de la elección.
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+l.- Ser nativo del Estado de Oaxaca con residencia mínima de un año, o vecino de él con residencia mínima de cinco años inmediatamente anteriores a la fecha de la elección;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
 
 II.- Tener más de 21 años cumplidos en la fecha de la postulación;
 
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
+
 III.- Estar en pleno ejercicio de sus derechos civiles y jurídicos;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
 
 IV.- No haber tomado participación directa ni indirecta en asonadas, motines o cuartelazos;
 
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
+
 V.- No haber sido condenado por delitos intencionales; y
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
 
 VI.- Tener un modo honesto de vivir.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+
 La vecindad no se pierde por ausencia debida al desempeño de otros cargos públicos.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 35.
 
-No pueden ser electos Diputados: el Gobernador del Estado, el Secretario General del Despacho, el Subsecretario, los Magistrados del Tribunal Superior de Justicia, el Procurador General, el Jefe de la Defensoría de Oficio, el Contador Mayor de Hacienda y el Tesorero General.
+El Gobernador del Estado no puede ser electo diputado durante el período de su ejercicio.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+El Secretario General de Gobierno, los Secretarios de los diferentes ramos de la Administración Pública Estatal, Subsecretarios de Gobierno, el Procurador General de Justicia, el Contador Mayor de Hacienda de la Cámara de Diputados, los funcionarios de la Federación, militares en servicio activo y los servidores públicos con facultades ejecutivas, sólo pueden ser electos si se separan de sus cargos con 120 días de anticipación a la fecha de la elección.
 
-Tampoco podrán ser electos Diputados los Servidores Públicos de la Federación y los demás del Estado, y los militares, si no se separan de sus cargos con anticipación de 90 días antes de la fecha de la elección. Para los efectos de esta última disposición, se consideran también como militares en servicio activo, los Jefes y Oficiales de las fuerzas de seguridad pública del Estado, cualquiera que sea su denominación.
+Para los efectos de esta última disposición se consideran también como militares en servicio activo, los jefes y oficiales de las fuerzas de seguridad pública del Estado, cualesquiera que sea su denominación.
+
+Los Magistrados del Tribunal Superior de Justicia no podrán ser electos para ningún cargo de elección popular, sino hasta después de transcurridos dos años de haberse separado de su cargo.
 
 ###### ARTICULO 36.
 
@@ -635,51 +669,33 @@ Los Diputados son inviolables por las opiniones que manifiesten en el desempeño
 
 El ejercicio del cargo de Diputado es incompatible con cualquiera comisión o empleo del gobierno federal o del Estado, por el que se disfrute sueldo, sin licencia previa de la Legislatura; pero cesarán en sus funciones representativas mientras dure la nueva ocupación. La infracción a esta disposición se tendrá por la renuncia del cargo de Diputado con causa justificada, y se llamará desde luego al suplente o se declarará la vacante, en su caso.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE MAYO DE 1995)</small>
+
 ###### ARTICULO 39.
 
-La calificación de las elecciones de los presuntos Diputados se hará a través del Colegio Electoral que se integrará con todos aquellos presuntos Diputados que hubieren obtenido la constancia correspondiente, expedida por el organismo electoral que la Ley determine, tanto los electos por el principio de mayoría relativa, como los electos por el principio de representación proporcional.
+Serán diputados electos al Congreso del Estado los candidatos a diputados que obtengan la constancia correspondiente expedida por el organismo que la ley determine y que no sean impugnados ante el Tribunal Estatal Electoral dentro de los plazos y conforme a los procedimientos previstos en la Ley.
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
+La Diputación Permanente de la Legislatura saliente, en funciones de Comisión instaladora, procederá a la instalación de la Legislatura electa en la fecha señalada en el artículo 41 de esta Constitución.
 
-I.- Los presunto Diputados, propietarios y suplentes, presentarán sus credenciales a la Secretaria de la Legislatura, para que sean registradas y se pase lista de ellas en la primera Junta Previa, que deberá efectuarse el día primero de Septiembre. En ésta o en una segunda Junta Previa, se elegirá Mesa Directiva del Colegio Electoral, conforme a la Fracción l del Artículo 41 de esta Constitución;
-
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
-
-II.- Si la primera Junta Previa, ninguno de los presuntos propietarios y su correspondiente suplente no comparecieren, los presentes, cualquiera que sea su número, compelerán a las (sic) ausentes por documentos públicos a concurrir dentro de un plazo que no excederá de siete días, apercibiéndolos de que si no lo hacen, se entenderá que no aceptan el cargo y se convocará a nuevas elecciones por sus respectivos Distritos;
-
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
-
-II (SIC).- En la Segunda Junta Previa, que con este motivo se efectué o sea del día 8 de Septiembre, los presentes se declararán en Junta Permanente hasta completar el quórum necesario con los presuntos propietarios o suplentes, pero si llegare el día quince de Septiembre sin que ninguno de los presuntos se hubiere presentado, los presentes, si constituyeren quórum, harán la instalación de la Legislatura y convocarán a nuevas elecciones. En caso contrario, llamarán a sus propios suplentes sucesivamente y por el orden numérico de los Distritos representados, hasta constituir quórum y una vez constituido, procederán a la instalación de la Legislatura y a la convocatoria respectiva de nuevas elecciones.
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1944)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 40.
 
-Dentro de los cinco días siguientes a la celebración de la primera Junta Previa, o de la segunda, en su caso, se efectuarán todas las Juntas Preparatorias que sean necesarias para la calificación de las credenciales, de manera que la Lesgislatura (sic) pueda instalarse el día 15 del mismo mes de septiembre, en cuya fecha se hará la elección de Presidente y Vice-presidente y Secretarios, en los términos del Reglamento.
+Las resoluciones que dicte el Tribunal Estatal Electoral respecto de la validez o nulidad de las constancias de mayoría o de asignación proporcional que hubieren sido otorgadas a los candidatos a diputados al Congreso Local, así como respecto de la elegibilidad de dichos candidatos, serán definitivas e inatacables. El Tribunal informará al Instituto Estatal Electoral el contenido de sus resoluciones a fin de que este último expida las constancias que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 1944)</small>
+Ese mismo carácter tendrán las resoluciones del Congreso del Estado erigido en Colegio Electoral respecto a la elección de Gobernador y Ayuntamientos (sic) en los términos establecidos por la ley reglamentaria.
+
+(REUBICADA, P.O. 13 DE MAYO DE 1995)
 
 #### SECCION SEGUNDA. De la Instalación de la Legislatura y su Funcionamiento
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 41.
 
-Las Juntas Previas y Preparatorias se sujetarán a lo que disponga el Reglamento Interior de la Legislatura, el cual deberá comprender las bases siguientes:
+Los diputados electos que cuenten con su constancia de mayoría y validez expedida por el Instituto Estatal Electoral o resolución a su favor del Tribunal Estatal Electoral, concurrirán a la instalación de la Legislatura del Estado de conformidad con lo dispuesto en el artículo 47 de esta Constitución y la Ley Orgánica del propio Congreso.
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1944)</small>
-
-I. La Junta o Juntas Previas serán instaladas y dirigidas por la Comisión respectiva de la Legislatura, la que, una vez designada la Mesa Directiva de las Juntas Preparatorias, hará entrega a ésta de todos los expedientes electorales.
-
-La elección de la Mesa Directiva de las Juntas Preparatorias se hará en escrutinio secreto y a mayoría absoluta de votos de los presuntos diputados;
-
-II. De los presuntos diputados, solamente asistirán quienes hayan registrado sus credenciales en la Secretaría de la Legislatura;
-
-III. Unicamente se registrarán las credenciales que llenen los requisitos de autenticidad que determine la ley respectiva;
-
-IV. Si hubiere dos o más credenciales con los requisitos legales, todas serán registradas; pero ninguno de los tenedores de ellas podrá asistir a las juntas previas, y así será juzgada y calificada la legitimidad;
-
-V. La calificación de la legitimidad de las credenciales será hecha por mayoría absoluta de votos de los presentes, y estas resoluciones serán definitivas.
+Para tal efecto deberán presentar dentro de los días diez y doce de septiembre del año de la elección, ante el Oficial Mayor de la Cámara de Diputados, la constancia o resolución de referencia, para su registro, toma de razón y entrega de la credencial de acceso a la sesión de instalación que tendrá verificativo a las once horas del día quince de septiembre del año de la elección, en cuya fecha se hará la elección de Presidente, Vicepresidente y Secretarios en los términos de su Ley Orgánica y Reglamento.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
@@ -711,11 +727,11 @@ El segundo período de sesiones se destinará de preferencia a la revisión y ca
 
 Los períodos extraordinarios de sesiones, se destinarán exclusivamente a estudiar los asuntos contenidos en la convocatoria, y se cerrarán antes del día de la apertura del período ordinario, aun cuando no hubieren llegado a resolverse los asuntos que motivaren su reunión, reservando su conclusión para el período ordinario.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
 ###### ARTICULO 47.
 
-La Legislatura no podrá abrir sus sesiones ni ejercer su cometido, sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes el día señalado por la ley, deberán compeler a los ausentes propietarios y suplentes a que concurran dentro de un plazo que no excederá de diez días apercibiendo a los propietarios de que si no lo hacen, se entenderá que renuncian al cargo; y si tampoco asistieren los suplentes, se declarará vacante el puesto y se convocará a nuevas elecciones.
-
-Los diputados que falten a diez sesiones en un mes sin causa justificada, perderán el derecho de ejercer sus funciones en el período de sesiones en que ocurra la falta, y se llamará a los suplentes.
+La Legislatura no podrá abrir sus sesiones ni ejercer su cometido, sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes, deberán reunirse el día señalado por la ley y compeler a los ausentes propietarios y suplentes a que concurran dentro de un plazo que no excederá de diez días, apercibiendo a los propietarios de que si no lo hacen, se entenderá no aceptado el cargo; y si tampoco asistieren los suplentes, se declarará vacante el puesto y se convocará a nuevas elecciones.
 
 ###### ARTICULO 48.
 
@@ -821,7 +837,7 @@ IV. Iniciar leyes y decretos ante el Congreso de la Unión;
 
 V. Informar al Congreso de la Unión en los casos a que se refiere el inciso tercero de la fracción III del artículo setenta y tres de la Constitución General, y resolver lo conducente sobre la determinación del propio Congreso, de acuerdo con el inciso sexto de la misma fracción;
 
-VI. Declarar electos a los senadores de la República que hubieren obtenido la mayoría de votos en el Estado;
+VI. (DEROGADA, P.O. 13 DE MAYO DE 1995)
 
 VII. Calificar las elecciones de los ayuntamientos;
 
@@ -1027,7 +1043,9 @@ La elección del Gobernador será directa, por voto secreto, uninominal y por ma
 
 Para ser Gobernador del Estado, se requiere:
 
-I. Ser mexicano por nacimiento, en el ejercicio de sus derechos y nativo del Estado, o vecino de él durante un período no menor de cinco años inmediatamente anteriores al día de la elección. La vecindad no se pierde por ausencia en el desempeño de cargo público de elección popular;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+I. Ser mexicano por nacimiento, en el ejercicio de sus derechos y nativo del Estado con residencia mínima de una año, o vecino de él durante un período no menor de cinco años, inmediatamente anteriores al día de la elección. La vecindad no se pierde por ausencia en el desempeño de cargo público de elección popular;
 
 II. Tener treinta y cinco años cumplidos el (sic) día de la elección;
 
@@ -1619,11 +1637,13 @@ III.- Tener un modo honesto de vivir;
 
 IV.- Por cada miembro del Ayuntamiento que se elija como propietario, se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 102.
 
-No pueden ser electos miembros de los Ayuntamientos: los militares en servicio activo ni los individuos de las fuerzas de seguridad pública del Estado. Tampoco podrán serlo los Servidores Públicos del Estado o de la Federación, a menos que se separen del servicio activo los primeros, o de sus cargos los segundos, noventa días antes de la elección.
+No pueden ser electos miembros de los Ayuntamientos: los militares en servicio activo, ni el personal de la fuerza de seguridad pública del Estado.
+
+Podrán serlo los servidores públicos del Estado o de la Federación, si se separan del servicio activo los primeros o de sus cargos los segundos, con ciento veinte días de anticipación a la fecha de las elecciones.
 
 ###### ARTICULO 103.
 
@@ -2013,21 +2033,27 @@ El cargo de Magistrado del Tribunal es renunciable, por causa justificada que ca
 
 El Tribunal Superior de Justicia del Estado funcionará en Pleno y en Salas o solamente en Pleno, según lo determine la Ley Orgánica respectiva, y será presidido por el Magistrado que elija la Corporación. El Presidente durará en su encargo un año y podrá ser reelecto.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
 ## TÍTULO NOVENO. De los usuarios
 
 ### Capítulo Único. Del Espectro Radioeléctrico
 
 ###### ARTICULO 125.
 
-Las faltas temporales de los magistrados propietarios serán cubiertos por los supernumerarios, y en defecto de éstos o por falta de dos o más magistrados propietarios, serán llamados los jueces de primera instancia de la capital del Estado por orden de antigüedad.
+Las faltas temporales de los Magistrados numerarios serán cubiertas por los supernumerarios, y en defecto de éstos, o por falta de dos o más magistrados numerarios, serán llamados los jueces de primera instancia que designe el Pleno del Honorable Tribunal superior de Justicia, tomando en consideración la antigüedad, eficiencia, capacidad t probidad en la impartición de justicia.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ### Capítulo I. De la Concesión Única
 
 ###### ARTICULO 126.
 
-El magistrado que no concurra al Tribunal sin causa justificada o sin previa licencia de su Presidente, perderá el derecho a la dieta correspondiente al día de la falta.
+El magistrado que no concurra al tribunal, sin causa justificada o sin previa licencia de su Presidente, perderá el derecho a la dieta correspondiente al día de su ausencia.
 
-El Presidente no puede conceder licencia por más de tres días, y el Tribunal por más de diez. En todo caso, no se concederán licencias que impidan el funcionamiento del Tribunal salvo el caso de enfermedad debidamente comprobada.
+El Presidente podrá conceder licencia hasta por diez días y el Tribunal hasta por seis meses. En todo caso, no se concederán licencias que impidan el funcionamiento del Tribunal, salvo el caso de enfermedad debidamente comprobada.
+
+Se exceptúan de lo dispuesto en el párrafo anterior, las licencias que se concedan por el Pleno para la integración del Tribunal Estatal Electoral, las que se extenderán por todo el tiempo necesario para el desempeño de la función.
 
 ###### ARTICULO 127.
 
@@ -2630,6 +2656,12 @@ P.O. 9 DE JULIO DE 1994.
 P.O. 27 DE AGOSTO DE 1994.
 
 UNICO.- Este decreto entrará en vigor al día siguiente de la publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MAYO DE 1995.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las disposiciones del artículo 35, entrarán en vigor a partir del proceso electoral de 1998.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
