@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-catastro-municipal-del-estado-de-guerrero-numero-676-51
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "1989-12-29"
+last_updated: "1990-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL CATASTRO MUNICIPAL DEL ESTADO DE GUERRERO NUMERO 676
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1990.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -655,6 +655,10 @@ V.- Falta de aplicación de los coeficientes de demérito o incremento que estab
 
 VI.- Cualquier otro error u omisión que modifique la valuación del predio, y que el contribuyente considere le afecta a sus intereses.
 
+### CAPITULO X. De los Peritos Valuadores
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 59.
 
 Las manifestaciones y avisos de los particulares y los notarios públicos que exige esta ley, deberán hacerse en las formas oficiales aprobadas al efecto.
@@ -682,6 +686,72 @@ En los casos de predios no registrados en la Dirección o área del Catastro por
 ###### ARTICULO 63.
 
 El Tesorero Municipal autorizará los instructivos necesarios para llevar a cabo los trabajos catastrales a que se refiere esta ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 64.
+
+La Secretaría de Finanzas y Administración del Gobierno del Estado, podrá autorizar Peritos Valuadores de Bienes Inmuebles, mismos que deberán inscribirse en el Registro Estatal de Valuadores previo cumplimiento de los requisitos establecidos en el Artículo 65 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 65.
+
+Para obtener el Registro como Perito Valuador ante la Secretaría de Finanzas y Administración, deberán cumplir los siguientes requisitos:
+
+I.- Solicitud escrita dirigida al responsable del área; en donde además deberán señalar domicilio para oír y recibir notificaciones.
+
+II.- Oficio y cédula de Registro Estatal como Perito Valuador, o bien constancia del trámite de renovación del mismo, expedidas por la H. Comisión Nacional Bancaria y de Seguros.
+
+III.- Cédula profesional o constancia del grado máximo de estudios, que compruebe experiencia en la materia inmobiliaria.
+
+IV.- Recibo de pago de derechos por registro.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 66.
+
+Para obtener la revalidación de la autorización del registro como Perito Valuador se deberán cumplir los siguientes requisitos:
+
+I.- Original del oficio y cédula del Registro Estatal expedidos por el Gobierno del Estado.
+
+II.- Oficio y credencial del registro como Perito Valuador o bien constancia de renovación del mismo.
+
+III.- Pago de derechos correspondientes al Registro Estatal del ejercicio fiscal en que se dé el hecho generador.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 67.
+
+Los trabajos de valuación inmobiliaria formulados por los Peritos Valuadores inscritos en el Registro Estatal, quedan sujetos al control y supervisión de la Secretaría de Finanzas y Administración del Gobierno del Estado, quien de oficio o a petición de los particulares, en cualquier tiempo podrá revisar los avalúos.
+
+En los avalúos para fines fiscales, se utilizarán los formatos que empleen las sociedades nacionales de crédito y los Ayuntamientos, debiendo contener los siguientes datos:
+
+I.- Nombre y firma autógrafa del Perito Valuador.
+
+II.- Número de registro asignado por la Secretaría de Finanzas y Administración.
+
+III.- Clave catastral del predio valuado.
+
+IV.- Descripción en cuanto a sus características y una de cada una de las edificaciones del inmueble.
+
+V.- Croquis de ubicación del predio, con medidas y colindancias.
+
+VI.- Valor catastral o fiscal vigente a la fecha del avalúo.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 68.
+
+Los valores unitarios de suelo y de construcción que se utilicen en los avalúos comerciales para efectos fiscales, serán aquellos que resulten de la aplicación del método, que por uso ha sido considerado como aceptable y en ningún caso, se aplicarán valores unitarios menores a los catastrales vigentes.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 69.
+
+No surtirán efectos para fines fiscales los avalúos formulados por Peritos Valuadores que no estén autorizados, por el Registro Estatal e inscritos en el mismo.
+
+En todos los avalúos el Perito deberá consignar su número de cédula del Registro Estatal.
 
 ## TRANSITORIO
 
@@ -734,3 +804,9 @@ P.O. 29 DE DICIEMBRE DE 1989.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día primero de enero de mil novecientos noventa.
+
+P.O. 25 DE DICIEMBRE DE 1990.
+
+PRIMERO.- Todos los Peritos Valuadores que ejerzan dicha actividad en el ámbito Estatal, tienen noventa días para registrarse ante la Secretaría de Finanzas y Administración de Gobierno del Estado, contados a partir de que entra en vigor el presente Decreto.
+
+SEGUNDO.- Este Decreto empezará a surtir sus efectos al día siguiente de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
