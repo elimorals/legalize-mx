@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1977-11-10"
+last_updated: "1978-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1978.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -397,23 +397,37 @@ No podrán reunirse dos o más de estos poderes en una persona o corporación ni
 
 #### SECCION PRIMERA. De la Elección e Instalación de la Legislatura
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE NOVIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1978)</small>
 
 ###### ARTICULO 52.
 
-La Legislatura del Estado de Quintana Roo, se integra con 8 diputados electos en su totalidad cada tres años por votación directa, secreta, mayoritaria, relativa y uninominal por distritos electorales, complementada con diputados de partido, apegándose en ambos casos, a lo dispuesto por la Ley Electoral. En cuanto a los diputados de partido regirán, además, las siguientes reglas:
+La Legislatura del Estado de Quintana Roo, se integra con ocho diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, y hasta con tres diputados electos según el principio de representación proporcional mediante el sistema de listas votadas en una circunscripción plurinominal. Los diputados serán electos cada tres años por votación universal, directa, libre y secreta de los ciudadanos quintanarroenses en ejercicio de sus derechos.
 
-I.- Todo partido político registrado conforme a lo dispuesto en la Ley Electoral, al obtener el 1.5 por ciento de la votación total en la elección respectiva, tendráderecho(sic) a que se acredite, de sus candidatos, a un diputado.
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1978)</small>
 
-II.- Si logra mayoría en uno o más distritos electorales, no tendrá derecho a diputados de partido, y
+ARTICULO 52 BIS.- Para la elección de los ocho diputados electos según el principio de votación mayoritaria relativa, la Comisión Estatal Electoral hará la demarcación territorial correspondiente en distritos electorales uninominales.
 
-III.- Será acreditado diputado de partido aquél que obtenga el mayor número de sufragios en relación a los demás candidatos del mismo partido en la entidad.
+Para la elección de los tres diputados según en principio de representación proporcional, el Estado constituirá una circunscripción electoral plurinominal.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1978)</small>
 
 ###### ARTICULO 53.
 
-Los diputados de mayoría y de partido, son representantes del pueblo quintanarroense, tienen la misma calidad e iguales derechos y obligaciones.
+Los diputados electos según el principio de votación mayoritaria relativa y los de representación proporcional, son representantes del pueblo quintanarroense, tienen la misma calidad e igualdad de derechos y obligaciones.
 
-Por cada diputado propietario se elegirá un suplente. La elección se hará por fórmula.
+Por cada diputado propietario se elegirá un suplente.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1978)</small>
+
+ARTICULO 53 BIS.- La elección de los tres diputados según el principio de representación en la circunscripción plurinominal, se sujetará a las bases generales siguientes y a lo que en particular disponga la Ley reglamentaria.
+
+I. Para obtener el registro de sus listas, el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en cuando menos seis de los distritos electorales uninominales.
+
+II. Tendrá derecho a participar en la asignación de diputados electos según el principio de representación proporcional, todo aquel partido que no haya obtenido dos o más constancias de mayoría y haya alcanzado por lo menos el 1.5% de la votación total emitida en las listas de la circunscripción plurinominal.
+
+III. El partido que cumpla con los supuestos señalados en las Fracciones I y II de este Artículo, le serán asignados por el principio de representación proporcional el número de diputados de su lista que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal. La Ley reglamentará las formulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
+
+IV. En el caso de que dos o más partidos políticos con derecho a participar en la distribución de listas obtengan en su conjunto dos o más constancias de mayoría, solo será objeto de reparto una curul de las que deban asignarse por el principio de representación proporcional.
 
 ###### ARTICULO 54.
 
@@ -1223,7 +1237,7 @@ La hacienda de los municipios del Estado, se formará con las percepciones que e
 
 El ayuntamiento es el órgano de gobierno municipal a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1978)</small>
 
 ### CAPITULO V. Del Gobierno Municipal
 
@@ -1233,13 +1247,9 @@ Concepto e Integración
 
 Los ayuntamientos se integran de la siguiente forma:
 
-I. En los municipios de Othón P. Blanco y Benito Juárez, con un presidente, un síndico y 7 regidores.
+I. En los Municipios de Othón P. Blanco y Benito Juárez, con un presidente, un síndico y ocho regidores.
 
-II. En los municipios de Felipe Carrillo Puerto, José Ma. Morelos, Cozumel, Lázaro Cárdenas e Isla Mujeres, con un presidente, un síndico y 5 regidores.
-
-Los miembros de los ayuntamientos son electos por sufragio universal, directo, libre y secreto de los ciudadanos quintanarroenses en ejercicio de sus derechos.
-
-Se elegirá un suplente para el síndico y uno para cada regidor.
+II. En los Municipios de Felipe Carrillo Puerto, José Ma. Morelos, Cozumel, Lázaro Cárdenas e Isla Mujeres, con un presidente un síndico y cinco regidores, se elegirá un suplente para el síndico y uno para cada regidor.
 
 ###### ARTICULO 146.
 
@@ -1247,13 +1257,25 @@ Ningún ciudadano puede excusarse de servir al cargo de presidente, síndico o r
 
 ### CAPITULO VI. De la Elección del Ayuntamiento
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1978)</small>
+
 ###### ARTICULO 147.
 
 El ayuntamiento reside en la cabecera del municipio y sus miembros durarán tres años en el ejercicio de su cargo.
 
 ###### ARTICULO 148.
 
-Los miembros del ayuntamiento se elegirán por planillas en los términos de la Ley Electoral las que comprenderán a los candidatos para cada uno de los cargos.
+Los miembros del Ayuntamiento se elegirán por sufragio universal directo, libre y secreto de los ciudadanos quintanarroenses en ejercicio de sus derechos.
+
+Los Ayuntamientos de Felipe Carrillo Puerto, Benito Juárez, José María Morelos, Cozumel, Lázaro Cárdenas e Isla Mujeres, se elegirán por planillas y mediante el sistema electoral de mayoría relativa.
+
+El Ayuntamiento de Othón P. Blanco y aquellos que conforme al último censo, su población sea de 100,000 o más habitantes, se elegirán por el sistema electoral mixto de mayoría relativa y representación proporcional, conforme a las bases siguientes y a lo que en particular disponga la Ley.
+
+I. Cada partido político deberá postular una lista de diez personas para ocupar los cargos de presidente municipal, síndico y regidores.
+
+II. El partido político que logra la votación más alta se le acreditarán los cargos de Presidente Municipal y Síndico.
+
+III. Las regidurías se asignarán proporcionalmente mediante la fórmula de cociente electoral simple y en su caso por el método de resto mayor.
 
 ###### ARTICULO 149.
 
@@ -1554,3 +1576,7 @@ Las presentes reformas y adiciones entrarán en vigor el día de su publicación
 ###### ARTICULO 2º.
 
 Se derogan todas las disposiciones que se contrapongan al presente Decreto.
+
+P.O. 4 DE AGOSTO DE 1978.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
