@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2002-05-25"
+last_updated: "2002-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2002.
+
+REPUBLICADO EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2002.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -143,7 +145,9 @@ III.- ALLENDE, con cabecera en el pueblo denominado Valle de Ignacio Allende, y 
 
 IV.- AQUILES SERDAN, con cabecera en el pueblo denominado Santa Eulalia, y la sección municipal de Santo Domingo;
 
-V.- ASCENSION, con cabecera en el pueblo del mismo nombre y la sección municipal de Puerto Palomas;
+(REFORMADA, P.O. 20 DE JULIO DE 2002)(REPUBLICADA, P.O. 31 DE JULIO DE 2002)
+
+V.- ASCENSION, con cabecera en el pueblo del mismo nombre y la sección municipal de Puerto Palomas de Villa;
 
 VI.- BACHINIVA, con cabecera en el pueblo del mismo nombre y la sección municipal de El Porvenir;
 
@@ -283,9 +287,9 @@ LXIII.- SAUCILLO; con cabecera en la ciudad del mismo nombre y las secciones mun
 
 LXIV.- TEMOSACHI, con cabecera en el pueblo del mismo nombre y las secciones municipales de Babícora de Conoachi, Cocomórachi, Tosanachi, Tutuaca, Yepachi y Yepómera;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2002)</small>
 
-LXV.- URIQUE, con cabecera en el pueblo del mismo nombre y las secciones municipales de Cerocahui, Cuiteco, Guagueyvo, Colonia Bahuérachi, San Rafael, Cieneguita Lluvia de Oro, Tubares y Bahuichivo;
+LXV.- URIQUE, con cabecera en el pueblo del mismo nombre y las secciones municipales de Cerocahui, Cuiteco, Guagueyvo, Colonia Bahuérachi, San Rafael, Cieneguita Lluvia de Oro, Tubares, Bahuichivo y Corareachi;
 
 LXVI.- URUACHI; con cabecera en el pueblo del mismo nombre y als (sic) secciones municipales de Batopilillas y El Rebaje; y
 
@@ -857,7 +861,7 @@ II.- Los Comisarios de Policía.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1998)</small>
 
-La elección se realizará de acuerdo con lo establecido en el artículo 44 de este Código, por planillas en que se mencionen los nombres y apellidos de propietarios y suplentes.
+la elección se realizará de acuerdo con lo establecido en el artículo 44 de este Código, por planillas en que se mencionen los nombres y apellidos de propietarios y suplentes.
 
 ###### ARTICULO 38.
 
@@ -3208,3 +3212,19 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Para las elecciones de las Juntas Municipales en las Secciones Municipales de Tubares y Bahuichivo, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente y deberán llevarse a cabo las elecciones dentro de los 180 días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 20 DE JULIO DE 2002.
+
+DECRETO No. 279 /02 II P.O.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para la elección de la Junta Municipal en la Sección Municipal de Corareachi, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente, debiéndose llevar a cabo la elección dentro de los 180 días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 20 DE JULIO DE 2002.
+
+REPUBLICADO, P.O. 31 DE JULIO DE 2002.
+
+DECRETO No. 315 /02 II P.O.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
