@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-coordinacion-general-juridica-de-2270
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-08"
-last_updated: "2001-12-08"
+last_updated: "2004-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DE LA COORDINACION GENERAL JURIDICA DE GOBIERNO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2004.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 8 de diciembre del 2001.
 
@@ -74,6 +74,10 @@ Los Servidores Públicos de las unidades administrativas que conforman la Coordi
 ###### ARTICULO 5.
 
 La representación, tramite y resolución de los asuntos de la Coordinación, así como el ejercicio de las facultades que las leyes y demás ordenamientos le confieren, corresponden originalmente al Coordinador y su delegación procede cuando las propias disposiciones lo determinen en virtud de la distribución de competencias.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2004)</small>
+
+Para el mejor desempeño de sus funciones, el Coordinador contará con una oficina, a la que quedarán adscritas las Unidades de Legalización de Firmas y de Comunicación Social.
 
 ###### ARTICULO 6.
 
@@ -177,9 +181,13 @@ XVI.- Las demás que le confieran otras disposiciones legales y el Coordinador.
 
 ### CAPITULO IV. DE LA COMPETENCIA DE LAS DIRECCIONES Y COORDINACION ADMINISTRATIVA
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO QUE REFORMA EL PRESENTE ARTICULO, SE MODIFICA LA ESTRUCTURA DEL MISMO, PARA QUEDAR CONFORMADO POR XVI FRACCIONES.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 9.
 
-Corresponde a la Dirección de Asuntos Legislativos y Consultoría Legal:
+Corresponde a la Dirección de Estudios Legislativos y Consultaría Legal:
 
 I.- Elaborar y en su caso revisar y opinar sobre los proyectos de iniciativas de ley y decreto y someterlos a la consideración del Coordinador;
 
@@ -191,13 +199,17 @@ IV.- Formular y en su caso revisar y opinar respecto de los convenios y acuerdos
 
 V.- Realizar el trámite de promulgación y publicación de Leyes y Decretos expedidos por la Legislatura del Estado;
 
-VI.- Revisar y opinar sobre los Manuales de Organización, de Procedimientos y de Servicio al Público de las dependencias y entidades de la administración pública estatal y someterlos a consideración del Coordinador;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
+VI.- Opinar sobre los Manuales de Organización, de Procedimientos y de Servicio al Público de las dependencias y entidades de la administración pública estatal;
 
 VII.- Revisar y opinar sobre los proyectos de bandos y reglamentos que los Ayuntamientos remitan a la Coordinación;
 
-VIII.- Revisar e integrar los expedientes técnico-administrativos que envíen los Ayuntamientos por conducto del Ejecutivo a la Legislatura Local, sobre solicitudes de autorización para enajenación, donación o permuta de bienes inmuebles, así como la desafección de bienes inmuebles, ambos propiedad del Estado o Municipios y elaborar la iniciativa de decreto correspondiente;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
-IX.- Formular y en su caso revisar los proyectos de otorgamiento o revocación de concesiones, autorizaciones, expropiaciones y permisos que competan al Gobernador del Estado;
+VIII.- Revisar e integrar los expedientes técnico-administrativos que envíen los Ayuntamientos por conduelo del Ejecutivo a la Legislatura local, sobre solicitudes de autorización para enajenación de bienes inmuebles, así como la desafectación de bienes muebles, ambos propiedad del Estado o Municipios y elaborar la iniciativa de decreto correspondiente;
+
+IX.- (DEROGADA, P.O. 4 DE FEBRERO DE 2004)
 
 X.- Remitir a la Oficialía Mayor de Gobierno previa autorización del Coordinador, las leyes, decretos, reglamentos, estatutos, acuerdos, programas de desarrollo urbano, manuales y demás disposiciones para su publicación en el Periódico Oficial, Organo del Gobierno del Estado;
 
@@ -207,27 +219,39 @@ XII.- Revisar ordinariamente el marco normativo que rige la actividad de la admi
 
 XIII.- Auxiliar a las unidades jurídicas de las dependencias y entidades de la administración pública estatal con el objetivo de homologar criterios y actuaciones, así como proporcionar asesoría jurídica a los Ayuntamientos cuando lo soliciten;
 
-XIV.- Compilar, registrar y sistematizar las leyes, reglamentos, estatutos, decretos, acuerdos, conventos y demás disposiciones que expidan los Gobiernos Federal, Estatal y Municipal;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
-XV.- Llevar un control de las obligaciones pactadas en los convenios o acuerdos celebrados por el Ejecutivo Estatal y titulares de dependencias y entidades;
+XIV.- Llevar un registro de las obligaciones pactadas en los convenios o acuerdo celebrados por el Ejecutivo Estatal y titulares de las dependencias y entidades;
 
-XVI.- Auxiliar al Coordinador en el trámite de nombramientos, renuncias y licencias de los Magistrados del Tribunal Superior de Justicia del Estado; y
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
-XVII.- Las demás que le confieran otras disposiciones legales y el Coordinador.
+XV.- Auxiliar al Coordinador en el trámite de nombramientos, renuncias y licencias de los Magistrados de los Tribunales del Fuero Común;
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
+XVI.- Las demás que le confieran otras disposiciones legales y el Coordinador.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO QUE REFORMAS EL PRESENTE ARTICULO, SE MODIFICA LA ESTRUCTURA DEL MISMO, PARA QUEDAR CONFORMADO POR 4 APARTADOS.</small>
 
 ###### ARTICULO 10.
 
 Para el cumplimiento de sus atribuciones, la Dirección de Estudios Legislativos y Consultoría Legal contará con los siguientes Departamentos:
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+
 - Departamento de Estudios Legislativos
 
-- Departamento de Asesoría a Dependencias, Paraestatales y Municipios
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
-- Departamento de Estudios Comparativos y Análisis
+- Departamento de Consultoría a Dependencias, Paraestatales y Municipios
 
-- Departamento de Enajenaciones, Desafectaciones y Empréstitos
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
-- Departamento de Informática y Archivo
+- Departamento de Enajenaciones y Empréstitos
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+
+- Departamento de Compilación y Sistematización Jurídica
 
 ###### ARTICULO 11.
 
@@ -249,9 +273,13 @@ VII.- Coadyuvar con el Coordinador en la substanciación de los procedimientos p
 
 VIII.- Emitir opiniones jurídicas en los asuntos contenciosos cuando lo solicite el Coordinador;
 
-IX.- Custodiar y llevar el registro de los expedientes a su cargo y vigilar su correcta substanciación; y
+IX.- Custodiar y llevar el registro de los expedientes a su cargo y vigilar su correcta substanciación; y (sic)
 
-X.- Las demás que le confieran otras disposiciones legales y el Coordinador.
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
+X.- Formular y en su caso revisar los proyectos de otorgamiento o revocación de concesiones, autorizaciones, expropiaciones y permisos que competan al Gobernador del Estado; y
+
+XI.- Las demás que le confieran otras disposiciones legales y el Coordinador.
 
 ###### ARTICULO 12.
 
@@ -259,31 +287,45 @@ Para el cumplimiento de sus atribuciones, la Dirección de Asuntos Contenciosos 
 
 - Departamento de Amparos y Expropiaciones
 
-- Departamento de Asuntos Civiles. Penales y Fiscales
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+
+- Departamento de lo Contencioso
 
 - Departamento de Asuntos Administrativo
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO QUE MODIFICA EL PRESENTE ARTICULO, SE SUPRIME LA FRACCION VII, RECORRIENDOSE LAS SUBSECUENTES, QUEDANDO INTEGRADO POR VIII FRACCIONES.</small>
 
 ###### ARTICULO 13.
 
 Corresponde a la Dirección de Defensoría Pública:
 
-I.- Auxiliar al Coordinador en la organización, control y vigilancia de las actividades desarrolladas por las Defensorías de Oficio en el Estado;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
-II.- Proponer al Coordinador estrategias para la homologación de criterios de los Defensores de Oficio;
+I.- Auxiliar al Coordinador en la organización, control y vigilancia de las actividades desarrolladas por las Defensorías de Oficio en el Estado, por lo que se realizarán visitas de supervisión a cada una de éstas;
 
-III.- Procurar que los nombramientos de los titulares de las Defensorías de Oficio sean licenciados en derecho;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
+II.- Proponer al Coordinador las estrategias tendientes a homologar los criterios de representación por parte de los Defensores de Oficio;
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
+III.- Vigilar que para el nombramiento de los Defensores de Oficio, se cumpla con lo establecido en el Reglamento de la Defensoría de Oficio del Estado de Zacatecas;
 
 IV.- Coadyuvar con el Coordinador en la organización, control y vigilancia de la Procuraduría de la Defensa de los Trabajadores al Servicio del Estado;
 
 V.- Auxiliar al Coordinador en la organización, control y vigilancia de la Procuraduría de la Defensa del Trabajo;
 
-VI.- Realizar visitas periódicas a los Departamentos a su cargo y proponer estrategias para su profesionalización;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
-VII.- Auxiliar al Coordinador en el registro y legalización de firmas de servidores públicos a los que se encomiende la fe pública;
+VI.- Realizar visitas periódicas a los Departamentos a su cargo y proponer cursos de capacitación y actualización, para su profesionalización;
 
-VIII.- Proporcionar asesoría legal a los particulares acerca de asuntos planteados al Gobernador del Estado; y
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
-IX.- Las demás que le confieran otras disposiciones legales y el Coordinador.
+VII.- Proporcionar asesoría legal a los particulares acerca de asuntos planteados al Gobernador del Estado; y
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
+VIII.- Las demás que le confieran otras disposiciones legales y el Coordinador.
 
 ###### ARTICULO 14.
 
@@ -291,7 +333,9 @@ Para el cumplimiento de sus atribuciones, la Dirección de Defensoría Pública 
 
 - Departamento de las Defensorías de Oficio
 
-- Departamento de Gestoría Social
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+
+- Departamento de Asesoría Legal
 
 - Procuraduría de la Defensa de los Trabajadores al Servicio del Estado
 
@@ -357,7 +401,9 @@ IX.- Recuperar de las Oficialías los libros faltantes anteriores al año de mil
 
 X. - Compilar y mantener actualizado el archivo del registro civil y realizar su captura en medios magnéticos;
 
-XI.- Realizar campañas de registros extemporáneos y de regularización de actas del registro civil; y
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
+XI.- Realizar campañas de registros extemporáneos y de aclaración de actas del registro civil; y
 
 XII.- Las demás que le confieran otras disposiciones legales y el Coordinador.
 
@@ -369,7 +415,9 @@ Para el cumplimiento de sus atribuciones, la Dirección de Registro Civil contar
 
 - Departamento de Inspección
 
-- Departamento de Expedición de Actas
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+
+- Departamento de Expedición de la CURP
 
 - Departamento de Sistemas
 
@@ -411,9 +459,13 @@ Para el cumplimiento de sus atribuciones, la Dirección de Notarias contara con 
 
 - Departamento de Control Notarial
 
-- Departamento de Expedición de Testimonios e Informes Testamentarios
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
-- Departamento de Sistemas
+- Departamento de Expedición de Testimonios
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+
+- Departamento de Informes Testamentarios
 
 ###### ARTICULO 21.
 
@@ -477,9 +529,13 @@ Para el cumplimiento de sus atribuciones, la Coordinación Administrativa contar
 
 - Departamento de Recursos Humanos
 
-- Departamento de Recursos Materiales
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
-- Departamento de Recursos Financieros
+- Departamento de Recursos Materiales y Financieros
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+
+- Departamento de Informática y Sistemas
 
 ### CAPITULO V. DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS DE LA COORDINACION
 
@@ -520,3 +576,11 @@ LIC. ARTURO NAHLE GARCIA.
 EL COORDINADOR GENERAL JURIDICO
 
 LIC. RAFAEL CANDELAS SALINAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE FEBRERO DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones administrativas que contravengan a este Decreto.
