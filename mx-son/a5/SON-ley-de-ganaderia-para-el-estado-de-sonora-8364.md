@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ganaderia-para-el-estado-de-sonora-8364"
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-04"
-last_updated: "1983-08-04"
+last_updated: "1992-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE GANADERIA PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE JUNIO DE 1992.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 4 de agosto de 1983.
 
@@ -131,7 +131,7 @@ X.- Vigilar el cumplimiento de las disposiciones en materia de sanidad animal e 
 
 XI.- Organizar y dirigir los servicios de inspección, vigilancia y control de ganado en el Estado.
 
-XII.- Expedir, revalidar y cancelar los títulos de marca de herrar, señal de sangre o tatuaje y patente de productor, así como autorizar, en su caso, la traslación de dominio de los derechos que amparan estos documentos.
+XIII.- (DEROGADA, B.O. 8 DE JUNIO DE 1992)
 
 XIII.- Expedir y cancelar los permisos de porteador de ganado.
 
@@ -653,6 +653,14 @@ Las corridas o velas parciales se realizarán en cualquier tiempo por orden de l
 
 Toda movilización de ganado, de productos y subproductos deberá ampararse con guía de tránsito, que contendrá los datos que determine la Secretaría con base en los requisitos que establece este Capítulo.
 
+> <small>(ADICIONADO, B.O. 8 DE JUNIO DE 1992)</small>
+
+Se exceptúa de lo anterior cuando el criador del ganado lo movilice dentro de una misma zona por razones de manejo, alimentación o producción, siempre y cuando no tenga por objeto su venta o traslado de dominio.
+
+> <small>(ADICIONADO, B.O. 8 DE JUNIO DE 1992)</small>
+
+Así mismo no requerirán de guía de tránsito, para su movilización dentro del Estado, los productos y subproductos de los rastros cuando provengan de ganado que se haya sacrificado en estos establecimientos, previa cancelación de la guía de procedencia donde se haya verificado su legal origen así como el cumplimiento de disposiciones sanitarias y obligaciones fiscales.
+
 ###### ARTICULO 89.
 
 Los Inspectores de Ganadería, al extender guías e inspeccionar el tránsito de ganado, sus productos y subproductos, deberán observar que estos sean amparados con la guía sanitaria otorgada conforme a la Ley de Sanidad Fitopecuaria.
@@ -687,7 +695,7 @@ V.- Comprobar la legal tenencia del ganado en la forma prevista en esta Ley.
 
 VI.- Cubrir las contribuciones respectivas.
 
-VII.- Presentar el permiso de porteador de ganado.
+VII.- (DEROGADA, B.O. 8 DE JUNIO DE 1992)
 
 ###### ARTICULO 94.
 
@@ -1079,7 +1087,7 @@ Los propietarios de ganado están obligados a aplicar baño parasiticida, cuando
 
 Se considera de interés público:
 
-I:- El manejo racional, la utilización adecuada y la conservación de los recursos naturales relacionados con la ganadería.
+I.- El manejo racional, la utilización adecuada y la conservación de los recursos naturales relacionados con la ganadería.
 
 II.- El cumplimiento con la carga animal óptima.
 
@@ -1614,3 +1622,11 @@ Dr. Samuel Ocaña García.
 EL SECRETARIO DE GOBIERNO
 
 Lic. Carlos Gámez Fimbres.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS LEYES DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 8 DE JUNIO DE 1992.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín oficial del Gobierno del Estado.
