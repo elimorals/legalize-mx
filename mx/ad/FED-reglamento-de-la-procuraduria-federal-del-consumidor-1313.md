@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-procuraduria-federal-del-consumidor-1313"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-08-23"
-last_updated: "1994-08-23"
+last_updated: "2002-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1313&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-08-19"
 
 REGLAMENTO DE LA PROCURADURIA FEDERAL DEL CONSUMIDOR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE AGOSTO DE 2002.
 
 Reglamento publicado en la Primera Sección de Diario Oficial de la Federación el martes 23 de agosto de 1994.
 
@@ -77,7 +77,7 @@ VI. Coordinación General de Administración;
 
 VII. Unidad de Programas del Sector Social;
 
-VIII. Contraloría Interna;
+VIII. (DEROGADA, D.O.F. 21 DE AGOSTO DE 2002)
 
 IX. Unidad de Comunicación Social;
 
@@ -112,6 +112,12 @@ XXIII. Dirección General de Recursos Humanos y Materiales, y
 XXIV. Delegaciones.
 
 La Procuraduría también contará con directores de área, subdirectores, jefes de departamento, subjefes de departamento, jefes de oficina, jefes de sección, jefes de mesa, conciliadores, secretarios arbitrales, dictaminadores, inspectores, verificadores, ejecutores, notificadores, peritos, promotores, instructores y demás servidores públicos que determine el Procurador.
+
+> <small>(ADICIONADO, D.O.F. 21 DE AGOSTO DE 2002)</small>
+
+ARTICULO 4 BIS. En la Procuraduría existirá un Órgano Interno de Control, cuyo titular será designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal y se auxiliará, en el ejercicio de sus facultades, por los titulares de las áreas de auditoría, quejas y responsabilidades, designados en los mismos términos.
+
+El Órgano Interno de Control, su Titular y los titulares de las áreas de auditoría, quejas y responsabilidades, desarrollarán sus funciones conforme a las atribuciones que les confiere la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y otros ordenamientos jurídicos aplicables de conformidad con el Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
 
 ###### ARTICULO 5.
 
@@ -415,11 +421,15 @@ XXXII. Llevar la contabilidad de la Delegación, la cual incluirá las cuentas p
 
 XXXIII. Expedir copias certificadas de expedientes y documentos a cargo de la Delegación;
 
-XXXIV. Recibir las quejas y denuncias que se presenten en contra de servidores públicos adscritos a la Delegación y transmitirlas a Contraloría Interna, y
+> <small>(REFORMADA, D.O.F. 21 DE AGOSTO DE 2002)</small>
+
+XXXIV. Recibir las quejas y denuncias que se presenten en contra de servidores públicos adscritos a la Delegación y transmitirlas al Órgano Interno de Control, y
 
 XXXV. Informar a la Dirección General de Coordinación de Delegaciones de la Procuraduría y, en su caso, a las unidades centrales que correspondan, sobre el cumplimiento de sus atribuciones, el desempeño de sus actividades, el desarrollo de sus programas y la administración de sus recursos.
 
-Las Delegaciones ejercerán sus atribuciones de acuerdo con los lineamientos, criterios, instrucciones y acuerdos que el Procurador, los Subprocuradores, los Coordinadores Generales, la Contraloría Interna y la Dirección General de Coordinación de Delegaciones, en el ámbito de sus respectivas competencias, expidan con fundamento en la Ley, el Reglamento, el Estatuto Orgánico y los demás ordenamientos jurídicos que emanen de aquélla.
+> <small>(REFORMADO, D.O.F. 21 DE AGOSTO DE 2002)</small>
+
+Las delegaciones ejercerán sus atribuciones de acuerdo con los lineamientos, criterios, instrucciones y acuerdos que el Procurador, los subprocuradores, los coordinadores generales y la Dirección General de Coordinación de Delegaciones, en el ámbito de sus respectivas competencias, expidan con fundamento en la Ley, el Reglamento, el Estatuto Orgánico, y los demás ordenamientos jurídicos que emanen de aquélla.
 
 ###### ARTICULO 17.
 
@@ -442,3 +452,9 @@ SEGUNDO. Se deroga el Reglamento del Capítulo Octavo de la Ley Federal de Prote
 TERCERO. Los procedimientos y recursos iniciados conforme al Reglamento que se deroga, se seguirán sustanciando ante las unidades administrativas equivalentes previstas en el presente Reglamento.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de agosto de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Jaime Serra Puche.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 21 DE AGOSTO DE 2002.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
