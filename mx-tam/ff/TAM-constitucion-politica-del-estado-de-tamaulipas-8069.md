@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1932-12-14"
+last_updated: "1933-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 1932.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 1933.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1137,13 +1137,13 @@ III. Los Municipios administrarán libremente su hacienda, la cual se formará, 
 
 IV. Los Ayuntamientos tendrán personalidad jurídica para contratar y obligarse. Los Síndicos serán los representantes de la personalidad jurídica de los Ayuntamientos.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE DICIEMBRE DE 1932)</small>
+> <small>(REFORMADA POR EL ARTICULO PRIMERO DE LA LEY PARA RENOVACION DE AYUNTAMIENTOS, P.O. 29 DE ABRIL DE 1933)</small>
 
-V.- No podrá ser electo miembro de un Ayuntamiento, el que hubiere desempeñado otro cargo de elección popular del Municipio, del Estado, o de la Federación, si no ha transcurrido un año por lo menos contado desde la fecha en que conforme a la Ley feneció el período para el cual fué electo.
+V.- No podrá ser miembro de un Ayuntamiento el que hubiere desempeñado otro cargo de elección popular del Municipio, del Estado o de la Federación, si no ha transcurrido un año por lo menos contado desde la fecha en que conforme a la Ley feneció el período para el cual fue electo.
 
-El que haya desempeñado las funciones de Presidente Municipal en virtud de una elección, nunca podrá ser designado para desempeñar ese cargo en el mismo Municipio.
+El que haya desempeñado las funciones de Presidente Municipal, en virtud de una elección nunca podrá volver a ser designado para desempeñar ese cargo en ningún Municipio.
 
-El que haya desempeñado las funciones de Presidente Municipales (sic) en un período supliendo faltas no podrá desempeñar de ningún modo en el siguiente.
+El que haya desempeñado las funciones de Presidente Municipal, supliendo faltas, no podrá desempeñarlo de ningún modo en el siguiente.
 
 VI. Por cada miembro propietario del Ayuntamiento se eligirá un suplente.
 
@@ -1440,3 +1440,7 @@ Este Decreto empezará a regir tan luego como sean debidamente sancionadas las r
 P.O. 14 DE DICIEMBRE DE 1932.
 
 UNICO:- Este Decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ABRIL DE 1933.
+
+Unico.- Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial de Estado.
