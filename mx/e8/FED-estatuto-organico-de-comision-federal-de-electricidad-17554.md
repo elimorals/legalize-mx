@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-comision-federal-de-electricidad-17554"
 country: "mx"
 rank: "estatuto"
 publication_date: "2000-11-09"
-last_updated: "2003-06-11"
+last_updated: "2004-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17554&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,17 +19,19 @@ issue_date: "2000-10-24"
 ---
 # ESTATUTO ORGANICO DE COMISION FEDERAL DE ELECTRICIDAD
 
+## Título I. De la organización
+
 ESTATUTO ORGANICO DE COMISION FEDERAL DE ELECTRICIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGANICO DE LA COMISION FEDERAL DE ELECTRICIDAD, PUBLICADO EN D.O.F. DE 10 DE MARZO DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL. ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación el jueves 9 de noviembre de 2000.
 
 COMISION FEDERAL DE ELECTRICIDAD
 
 ESTATUTO ORGANICO DE COMISION FEDERAL DE ELECTRICIDAD
-
-## Título I. De la organización
 
 ### Capítulo I. Disposiciones generales
 
@@ -665,7 +667,7 @@ V. Negociar, con las instituciones financieras nacionales y extranjeras, los té
 
 VI. Elaborar el mapa de riesgos de la Comisión, derivados de la variabilidad de los precios de los combustibles y de las condiciones financieras de la deuda de la Entidad denominada en moneda extranjera, así como controlar la aplicación de los instrumentos financieros adecuados para administrar las posiciones de riesgo identificadas.
 
-> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2003)</small>
+ADICIONADO, D.O.F. 11 DE JUNIO DE 2003)
 
 ###### Artículo 25-A.
 
@@ -1226,3 +1228,13 @@ Primero. El presente Acuerdo entrará en vigor al día siguiente al de su public
 Segundo. Se derogan todas las disposiciones administrativas internas que se opongan al presente Acuerdo.
 
 Tercero. Los derechos de los trabajadores no se verán afectados por la reestructuración orgánica que se autoriza por el presente Acuerdo.
+
+D.O.F. 10 DE MARZO DE 2004.
+
+Primero. El presente Estatuto Orgánico entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Estatuto Orgánico de la Comisión Federal de Electricidad, publicado en el Diario Oficial de la Federación el 9 de noviembre de 2000, y sus reformas. Asimismo, se derogan todas las disposiciones administrativas internas que se opongan al presente Estatuto.
+
+Tercero. Los derechos de los trabajadores no se verán afectados por la reestructuración orgánica que se autoriza por el presente Acuerdo.
+
+Cuarto. Los asuntos que se encuentren en trámite en las unidades administrativas establecidas en el Estatuto que se abroga, serán atendidos y resueltos por las unidades administrativas establecidas en el presente Estatuto, de acuerdo a sus respectivas facultades.
