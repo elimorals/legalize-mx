@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1985-12-31"
+last_updated: "1986-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 1985.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 1986.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -129,11 +129,11 @@ No pueden reunirse dos o más poderes en una sola persona o corporación ni depo
 
 El ejercicio del Poder Legislativo se deposita en una Asamblea de representantes del pueblo, que se denomina Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1986)</small>
 
 ###### ARTICULO 14.
 
-El Congreso del Estado se compondrá de Diputados Electos cada tres años; trece en forma directa y mayoritaria, uno por cada Distrito Electoral y, en su caso, de cuatro Diputados de minoría que serán electos de acuerdo con lo establecido por esta Constitución y la Ley respectiva.
+El Congreso del Estado se compondrá de Diputados electos cada tres años, quince en forma directa y mayoritaria, uno por cada Distrito Electoral, y, en su caso, de cuatro Diputados de minoría que serán electos de acuerdo con lo establecido por esta Constitución y la Ley respectiva.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1979)</small>
 
@@ -303,7 +303,7 @@ XXIII.- Dirimir los conflictos que surjan entre el Poder Ejecutivo y los Ayuntam
 
 XXIV.- Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito, en los términos del Artículo 94 de esta Constitución.
 
-Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el Artículo 93 de esta Constitución y fungir, a través de una Comisión de su seno, como órgano de acusación en los juicios políticos que contra éstos se instauren.
+Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el Artículo 93 de esta Constitución y fungir, a través de una Comisión de su seno, como órgano de acusación en los juicios políticos que contra éstos se instauren;
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -319,11 +319,11 @@ XXIX.- Conceder pensiones a los familiares de quienes hayan prestado servicios e
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
-XXX.- Designar entre los vecinos, a propuesta del Gobernador del Estado, los Concejos Municipales en los términos de esta Constitución y las Leyes respectivas.
+XXX.- Designar entre los vecinos, a propuesta del Gobernador del Estado, los Concejos Municipales en los términos de esta Constitución y las Leyes respectivas;
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 1984)</small>
 
-XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Municipios, las Dependencias paraestatales y paramunicipales y sus trabajadores, con base en lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Municipios, las Dependencias paraestatales y paramunicipales y sus trabajadores, con base en lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -397,7 +397,7 @@ Los asuntos que sean materia de acuerdo económico, se sujetarán a los trámite
 
 ### CAPITULO I.. DEL PODER EJECUTIVO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1985)</small>
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 1985) (F. DE E. 20 DE MARZO DE 1986)
 
 ###### ARTICULO 37.
 
@@ -440,8 +440,6 @@ IX.- Las demás que le concede esta Constitución.
 ###### ARTICULO 40.
 
 El Ejercicio del Poder Ejecutivo se deposita en una sola persona que se denomina Gobernador del Estado.
-
-> <small>(F. DE E. 20 DE MARZO DE 1986)</small>
 
 El Gobernador del Estado conducirá la Administración Pública Estatal, que será Centralizada y Paraestatal, conforme a la Ley Orgánica que expida el Congreso, que distribuirá los asuntos del orden administrativo del Gobierno del Estado, que estarán a cargo de la Secretaría General de Gobierno, la Oficialía Mayor de Gobierno, la Procuraduría General de Justicia, las Secretarías y las Direcciones del Ramo, y definirá las bases de creación de las entidades Paraestatales, la intervención del Gobernador en su operación y las relaciones entre éstas y la Secretaría General de Gobierno, la Oficialía Mayor de Gobierno, la Procuraduría General de Justicia, las Secretarías y las Direcciones del Ramo.
 
@@ -565,11 +563,9 @@ Para el despacho de los negocios del Poder Ejecutivo habrá un funcionario que s
 
 Para ser Secretario de Gobierno se requiere reunir los mismos requisitos que para ser Gobernador del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1985)</small>
-
 ###### ARTICULO 52.
 
-Son atribuciones del Secretario de Gobierno:
+Son atribucines (sic) del Secretario de Gobierno:
 
 I.- Autorizar con su firma las Leyes y Decretos que promulgue el Ejecutivo, así como las disposiciones y acuerdos que éste dicte en el uso de sus facultades;
 
@@ -747,7 +743,21 @@ Los Ayuntamientos se compondrán de Munícipes electos por votación popular dir
 
 Los Ayuntamientos estarán formados por un Presidente Municipal y los demás Munícipes que determine la Ley, los que tendrán sus respectivos suplentes.
 
-En los Ayuntamientos de todos los Municipios, podrá haber además un Regidor de minoría. Para determinar el Regidor de minoría se tendrá en cuenta la votación de los partidos minoritarios que participen en la elección y de la planilla que resulte entre ellos con mayor cantidad de votos, se tomará al candidato que figure en primer término entre los postulados para el cargo de Regidor.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1986)</small>
+
+Los Ayuntamientos de cada uno de los Municipios se integrarán con Regidores electos según el principio de votación mayoritaria relativa en el número que fije la Ley, y hasta con tres Regidores electos según el principio de representación proporcional. Las asignaciones de Regidores electos según el principio de representación proporcional en favor de los Partidos Políticos, se sujetarán a las bases generales siguientes y a lo que en lo particular disponga la Ley:
+
+I.- Los Municipios cuya población sea de 250,000 habitantes o menor tendrán hasta dos Regidores electos según el principio de representación proporcional;
+
+II.- Los Municipios cuya población exceda de 250,000 habitantes tendrán hasta tres Regidores electos según el principio de representación proporcional;
+
+III.- Los Partidos Políticos deberán acreditar que participaron con planillas completas de candidatos a Munícipes en por lo menos dos Municipios;
+
+IV.- Los Partidos Políticos deben alcanzar cuando menos el uno y medio por ciento de la votación total emitida para todos los Partidos Políticos que contendieron en la elección del Ayuntamiento en el Municipio de que se trate;
+
+V.- Al Partido que satisfaga los requisitos señalados en las dos Fracciones anteriores y siempre que ocupe el segundo o el tercer lugar en la votación, tendrá derecho a que se le acredite un Regidor electo según el principio de representación proporcional;
+
+VI.- Al Partido que satisfaga los requisitos señalados en las Fracciones III y IV y siempre que ocupe el cuarto lugar en la votación, tendrá derecho a que se le acredite un Regidor electo según el principio de representación proporcional únicamente en los Municipios cuya población exceda de 250,000 habitantes. En ningún caso los Partidos Políticos se asignarán dos o más Regidores electos según el principio de representación proporcional y el proceso de su asignación y orden en su selección estará sujeto a lo que disponga la Ley respectiva.
 
 La Ley establecerá lo relativo al proceso para la elección de los Ayuntamientos.
 
@@ -1280,6 +1290,12 @@ P.O. 31 DE ENERO DE 1984.
 UNICO.- Las Reformas, Adiciones y Derogación a que se refiere el presente Decreto, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 P.O. 31 DE DICIEMBRE DE 1985.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE FEBRERO DE 1986.
 
 ###### ARTICULO UNICO.
 
