@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-civiles-para-el-estado-de-durango-4706
 country: "mx"
 rank: "codigo"
 publication_date: "1948-08-22"
-last_updated: "1979-12-31"
+last_updated: "1980-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1980.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22, jueves 26 y domingo 29 de agosto; jueves 2, domingo 5, jueves 9, domingo 12, jueves 16, domingo 19, jueves 23, domingo 26 y jueves 30 de septiembre; domingo 3, jueves 7, domingo 10, jueves 14, domingo 17 y jueves 21 de octubre de 1948.
 
@@ -1247,11 +1247,11 @@ En el incidente de recusación son admisibles todos los medios de prueba estable
 
 Los magistrados y jueces que conozcan de una recusación son irrecusables para solo este efecto.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1980)</small>
 
 ###### ARTICULO 189.
 
-Si se declarare improcedente o no probada la causa de recusación se impondrá al recusante una multa hasta de cien pesos, si se trata de Juez Auxiliar o Municipal; hasta de mil pesos si el recusado fuere un Juez Menor; hasta de dos mil pesos si fuere un Juez de lo Civil y hasta de cuatro mil pesos si fuere un Magistrado. No se dará curso a ninguna recusación, si no exhibe el recusante al interponerla el billete de depósito por el máximo de la multa, la que en su caso, se aplicará al colitigante si lo hubiere, por vía de indemnización y en caso contrario al fisco.
+Si se declarare improcedente o no probada la causa de recusación se impondrá al recusante una multa hasta de cien pesos, si se trata de Juez Auxiliar o Municipal; hasta de dos mil pesos si fuere un Juez de lo Civil y hasta de cuatro mil pesos si fuere Magistrado.- No se dará curso a ninguna recusación si no exhibe el recusante al interponerla el billete de depósito por el máximo de la multa, la que en su caso, se aplicará al colitigante si lo hubiere, por vía de indemnización y en caso contario (sic) al Fisco.
 
 ###### ARTICULO 190.
 
@@ -1263,9 +1263,11 @@ Si en la sentencia se declara que procede la recusación volverán los autos al 
 
 Si se declara no ser bastante la causa, se devolverán los autos con testimonio de la resolución al juzgado de su origen para que continúe el procedimiento. Si el funcionario recusado fuese un magistrado continuará conociendo del negocio la misma sala como antes de la recusación.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1980)</small>
+
 ###### ARTICULO 192.
 
-Las recusaciones de los secretarios del Supremo Tribunal, de los juzgados de Primera Instancia y de los jueces Menores, auxiliares o municipales, se substanciarán ante los jueces o salas con quienes actúen.
+Las recusaciones de los Secretarios del Supremo Tribunal, de los Juzgados de Primera Instancia, Auxiliares o Municipales, se substanciarán ante los Jueces o Salas con quienes actúen.
 
 ## TITULO QUINTO.
 
@@ -1905,7 +1907,7 @@ De la forma escrita en la recepción de pruebas.
 
 #### SECCIÓN PRIMERA.
 
-Del termino probatorio.
+> <small>(DEROGADA SU DENOMINACION, P.O. 28 DE AGOSTO DE 1980)</small>
 
 ###### ARTICULO 300.
 
@@ -1925,11 +1927,11 @@ Cuando las pruebas hubieren de practicarse fuera del Estado o del País, se reci
 
 El Juez al calificar la admisibilidad de las pruebas, determinará el monto de la cantidad que el promovente deposite como multa, en caso de no rendirse la prueba.- Sin este depósito no se hará el señalamiento para la recepción de la prueba.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1980)</small>
 
 ###### ARTICULO 302.
 
-El litigante al que se hubiere concedido la ampliación a que se refiere el Artículo anterior y no rindiere las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimentos bastantes, será condenado a pagar en beneficio de su contraparte, una sanción pecunaria (sic) hasta de dos mil pesos, si el juicio se tramita ante Juez Menor; y hasta de tres mil pesos si se tramita ante Juez de Primera Instancia; así como la indemnización de daños y pesjuicios (sic), dejándose además de recibir la prueba.
+El litigante al que se hubiere concedido la ampliación a que se refiere el Artículo anterior y no rindiere las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimentos bastantes, será condenado a pagar en beneficio de su contra-parte, una sanción pecuniaria hasta de tres mil pesos; así como la indemnización de daños y perjuicios dejándose además de recibir la prueba.
 
 ###### ARTICULO 303.
 
@@ -2977,11 +2979,9 @@ Del juicio sumario de desahucio.
 
 La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañará con el contrato escrito del arrendamiento cuando ello fuere necesario, para la validez del acto conforme al Código Civil. En caso de no ser necesario el contrato escrito o de haberse cumpildo (sic) voluntariamente por ambos contratantes sin otorgamiento de documento, se justificará por medio de información testimonial, prueba documental o cualquier otra bastante como medio preparatorio del juicio.
 
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979) (F. DE E., P.O. 10 DE FEBRERO DE 1980)
-
 ###### ARTICULO 479.
 
-Presentada la demanda con el documento o la justificación correspondiente, dictará auto el Juez mandando requerir al arrendatario para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de las rentas, y no haciéndolo, se le prevenga que dentro de 30 días, si la finca sirve para habitación, o dentro de 40 días si sirve para giro mercantil o industrial, o dentro de 90 días si fuere rústica, proceda a desocuparla, apercibido de lanzamiento a su costa si no lo efectúa. En el mismo acto se le emplazará para que dentro de cinco días ocurra a oponer las excepciones que tuviere.
+Presentada la demanda con el documento o la justificación correspondiente, dictará el auto el juez mandando requerir al arrendatario para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de las rentas, no haciéndolo, se le prevenga que dentro de veinte días si la finca sirve para giro mercantil o industrial o dentro de noventa si fuese rústica, proceda a desocuparla, apercibido de lanzamiento a su costa si no lo efectúa. En el mismo acto se le emplazará para que dentro de cinco días ocurra a poner (sic) las excepciones que tuviere.
 
 (REFORMADO, P.O. 31 DE DICIEMBRE DE 1979) (F. DE E., P.O. 10 DE FEBRERO DE 1980)
 
@@ -3147,7 +3147,7 @@ Cuando la sentencia condena a rendir cuentas el juez señalará un término prud
 
 El obligado en el término que se le fije y que no se prorrogará sino por una sola vez y por causas graves, a juicio del tribunal, rendirá su cuenta presentando los documentos que tenga en su poder y los que el acreedor tenga en el suyo y que debe presentar poniéndolos a la disposición del deudor en la Secretaría.
 
-Las cuentas deben de contener un preámbulo que contenga la exposición sucinta de los hechos que dieron lugar a la gestión y la resolución judicial que ordena la rendición de cuentas, la indicación de las sumas recibidas y gastadas y el balance de las entradas y salidas, acompañándose de los documentos justificativos como recibos, comprobantes de gastos y demás.
+Las cuentas deben de contener un preámbulo que contenga la exposición suscinta de los hechos que dieron lugar a la gestión y la resolución judicial que ordena la rendición de cuentas, la indicación de las sumas recibidas y gastadas y el balance de las entradas y salidas, acompañándose de los documentos justificativos como recibos, comprobantes de gastos y demás.
 
 ###### ARTICULO 510.
 
@@ -4261,17 +4261,11 @@ Cuando la prueba de segunda instancia se hubiere recibido en forma oral, desde e
 
 ###### ARTICULO 703.
 
-La apelación interpuesta en los juicios sumarios se susbtanciará (sic) con un solo escrito de cada parte y el informe en estrados si las partes lo quisieren. En los casos a que se refiere este articulo y el anterior los puntos resolutivos se dictarán en la misma audiencia y se engrosarán dentro del tercero día.
-
-Sólo en las causas en que tuviere que examinar docuemtnos (sic) voluminosos o las pruebas hubieren consistido exclusivamente en documentos, dictará resolución dentro de los ocho días que sigan a la celebración de la audiencia interrumpiéndola con tal objeto. Estas apelaciones solo se admitirán en el efecto devolutivo y nunca en el preventivo.
+(DEROGADO, P.O. 28 DE AGOSTO DE 1980)
 
 ###### ARTICULO 704.
 
-En las apelaciones en materia sumaría los términos a que se refiere el artículo 693 se reducirán a tres días.
-
-Las apelaciones de interlocutorias o autos se substanciarán con sólo un escrito de cada parte sin que haya informe en estrados.
-
-Son aplicables a las apelaciones sumarias las disposiciones contenidas en los artículos 693 y 694.
+(DEROGADO, P.O. 28 DE AGOSTO DE 1980)
 
 ###### ARTICULO 705.
 
@@ -4301,9 +4295,11 @@ El Juez podrá desechar la apelación cuando resulte de autos que que (sic) el r
 
 Declarada la nulidad, se volverán los autos al inferior para que reponga el procedimiento en su caso.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1980)</small>
+
 ###### ARTICULO 708.
 
-Este mismo recurso se da contra las sentencias pronunciadas por los Jueces Menores y Municipales y será el Tribunal de apelación el juez de Primera Instancia que corresponda.
+Este mismo recurso se da contra las sentencias pronunciadas por los Jueces Municipales y será el Tribunal de apelación el Juez de Primera Instancia que corresponda.
 
 ###### ARTICULO 709.
 
@@ -4359,9 +4355,11 @@ La responsabilidad civil en que puedan incurrir jueces y magistrados cuando en e
 
 No podrá promoverse demanda de responsabilidad civil sino hasta que queda determinado por sentencia o auto firme el pleito o causa en que se suponga causado el agravio.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1980)</small>
+
 ###### ARTICULO 719.
 
-Cuando la demanda se dirija contra el juez menor o de Paz, cualesquiera que sea su cuantía, conocerá de ella el juez de Primera Instancia del Distrito a que aquella corresponda. Contra la sentencia que éste pronuncie procederá la apelación en ambos efectos para ante el Tribunal Pleno.
+Cuando la demanda se dirija contra el Juez de Paz, cualesquiera que sea su cuantía, conocerá de ella el Juez de Primera Instancia del Distrito a que aquélla corresponda. Contra la Sentencia que éste pronuncie procederá la apelación en ambos efectos para ante el Tribunal Pleno.
 
 ###### ARTICULO 720.
 
@@ -5951,6 +5949,130 @@ Los documentos y objetos presentados por las partes, les serán devueltos al ter
 
 Los Jueces Municipales o Auxiliares no son recusables; pero deben excusarse cuando estén impedidos y en tal caso conocerán los suplentes en el orden de su numeración, y en caso de estar todos impedidos conocerá el más próximo. Si los jueces impedidos no se excusaren, a queja de parte el superior impondrá corrección disciplinaria y hará la anotación en el expediente del funcionario.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1980)</small>
+
+TITULO DECIMOSEXTO.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1980)</small>
+
+### CAPITULO UNICO.
+
+De las Controversias de Orden Familiar.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1980)</small>
+
+###### ARTICULO 972.
+
+Todos los problemas inherentes a la familia se considerarán de orden público, por constituír aquella la base de la integración de la Sociedad.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1980)</small>
+
+###### ARTICULO 973.
+
+El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores y de alimentos, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
+
+En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el Juez deberá exhortar a los interesados a lograr un avenimiento resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1980)</small>
+
+###### ARTICULO 974.
+
+No se requieren formalidades especiales para acudir ante el Juez de lo Familiar cuando se solicite la declaración, preservación o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, de calificación de impedimentos de matrimonio o de las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos, oposición de maridos, padres y tutores y en general, todas las cuestiones familiares similares que reclamen la intervención judicial.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1980)</small>
+
+###### ARTICULO 975.
+
+Podrá acudirse al Juez de lo Familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el Artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate. Con las copias respectivas de esa comparecencia y de los documentos que en su caso se presenten se correrá traslado a la parte demandada, la que deberá comparecer, en la misma forma dentro del término de nueve días. En tales comparecencias las partes deberán ofrecer las pruebas respectivas. Al ordenarse ese traslado el Juez deberá señalar día y hora para la celebración de la audiencia correspondiente. Tratándose de alimentos, el Juez fijará a petición del acreedor, sin audiencia del deudor, y mediante la información que estime necesaria una pensión alimenticia provisional, mientras se resuelve el juicio.
+
+Será optativo para las partes acudir asesoradas, y en este supuesto, los asesores necesariamente deberán ser Licenciados en Derecho, con Cédula Profesional, en caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor de oficio, el que deberá de acudir, desde luego, a enterarse del asunto, disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón se diferirá la audiencia en un término igual.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1980)</small>
+
+###### ARTICULO 976.
+
+En la audiencia las partes aportarán las pruebas que así procedan y que haya ofrecido sin más limitación que no sean contrarias a la moral o esten prohibidas por la Ley, sin perjuicio de que el Juez de oficio decretare la práctica de las que estime conducentes.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1980)</small>
+
+###### ARTICULO 977.
+
+La audiencia se practicará con o sin asistencia de las partes. El Juez, para resolver el problema que se le plantea, podrá cerciorarse personalmente o con el auxilio de trabajadores sociales, de la veracidad de los hechos, quienes presentarán el trabajo que desarrollen en la audiencia, pudiendo ser interrogados por el Juez y por las partes. Su intervención tendrá el valor de un testimonio de calidad, quedando sujeta su valoración a lo dispuesto por el Artículo 119, en el fallo se expresarán en todo caso los medios y pruebas en los que se haya fundado el Juez para dictarlo.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1980)</small>
+
+###### ARTICULO 978.
+
+El Juez y las partes podrán interrogar a los testigos con relación a los hechos controvertidos, pudiéndoles hacer todas las preguntas que juzguen procedentes, con la sola limitación a que se refiere el Artículo 976 de este Título.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1980)</small>
+
+###### ARTICULO 979.
+
+La audiencia se verificará dentro de los treinta días contados a partir del auto que ordene el traslado, en la inteligencia de que, la demanda inicial deberá ser proveída dentro del término de tres días.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1980)</small>
+
+###### ARTICULO 980.
+
+Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar bajo protesta de decir verdad no estar en aptitud de hacerlo, se impondrá al actuario del Juzgado la obligación de citar a los primeros y de hacer saber a su cargo a los segundos, citándolos así mismo, para la audiencia respectiva, en la que deberán rendir dictamen.
+
+Dicha citación se hará con apercibimiento de arresto hasta por quince días, de no comparecer el testigo o el perito sin causa justificada y al promovente de la prueba, de imponerle una multa hasta de tres mil pesos en caso de que el señalamiento de domicilio resulte inexacto o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante. Las partes en caso de que se ofrezca la prueba confesional deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1980)</small>
+
+###### ARTICULO 981.
+
+La sentencia se pronunciará de manera breve y concisa, en el mismo momento de la audiencia de ser así posible o dentro de los ocho días siguientes.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1980)</small>
+
+###### ARTICULO 982.
+
+La apelación deberá interponerse en la forma y términos previstos por el Artículo 680.
+
+Cuando la tramitación del juicio se haya regido por las disposiciones generales del Código, igualmente se regirá por estas disposiciones, por lo que toca a los recursos; pero en todo caso, si la parte recurrente careciere de abogado, la propia Sala solicitará la intervención de un defensor de oficio, quien gozará de un plazo de tres días más para enterarse del asunto y a efecto de que haga valer los agravios o cualquier derecho a nombre de la parte que asesore.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1980)</small>
+
+###### ARTICULO 983.
+
+Salvo los casos previstos en el Artículo 689, en donde el recurso de apelación se admitirá en ambos efectos, en los demás casos, dicho recurso procederá en el efecto devolutivo.
+
+Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin fianza.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1980)</small>
+
+###### ARTICULO 984.
+
+Los autos que no fueren apelables y los Decretos, pueden ser revocados por el Juez que los dicta.
+
+Son procedentes en materia de recursos, igualmente los demás previstos en este Código y su tramitación se sujetará a las disposiciones generales del mismo y además de los casos ya determinados expresamente en esta Ley, para lo no previsto al respecto, se sujetará a las disposiciones generales correspondientes.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1980)</small>
+
+###### ARTICULO 985.
+
+La recusación no podrá impedir que el Juez adopte las medidas provisionales sobre depósito de personas, alimentos y menores.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1980)</small>
+
+###### ARTICULO 986.
+
+Ninguna excepción dilatoria podrá impedir que se adopten las referidas medidas. Tanto en este caso como en el del Artículo anterior, hasta después de tomadas dichas medidas, se dará el trámite correspondiente a la cuestión planteada.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1980)</small>
+
+###### ARTICULO 987.
+
+Los incidentes se decidirán con un escrito de cada parte y sin suspensión del procedimiento. Si se promueve prueba, deberá ofrecerse en los escritos respectivos, fijando los puntos sobre que verse, y se citará dentro de ocho días, para audiencia indiferible, en que se reciba, se oigan brevemente las alegaciones, y se dicte la resolución dentro de los tres días siguientes.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1980)</small>
+
+###### ARTICULO 988.
+
+En todo lo no previsto, regirán las reglas generales de este Código de Procedimientos Civiles, en cuanto no se opongan a las disposiciones del presente Título.
+
 ## ARTICULOS TRANSITORIOS.
 
 ###### ARTICULO 1º.
@@ -6054,3 +6176,17 @@ SEGUNDO.- Todos los juicios actualmente en trámite, se regirán por las disposi
 TERCERO.- Se derogan los Artículos 265, 267, 268, 269, 270, 300, 303, 304, 305, 306, 307, 384, 396, 401, 425, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 441, 442, 454, 466; y el segundo párrafo del Artículo 475 del Código de Procedimientos Civiles del Estado de Durango, así como las demás disposiciones legales que se opongan al presente Decreto.
 
 CUARTO.- El presente Decreto entrará en vigor 30 días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE AGOSTO DE 1980.
+
+Artículo Primero.- Las presentes reformas y adiciones se aplicarán sólo a los asuntos que se inicien a partir de la vigencia de este Decreto.
+
+Artículo Segundo.- Todos los juicios actualmente en trámite se regirán por las disposiciones anteriores a estas reformas y adiciones y continuarán en sus propios Juzgados hasta su terminación.
+
+Artículo Tercero.- Se suprime el rubro del Capítulo Quinto del Título Sexto Sección Primera.
+
+Artículo Cuarto.- Se derogan los Artículos 703 y 704.
+
+Artículo Quinto.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+Artículo Sexto.- Este Decreto entrará en vigor a los ocho días después de su publicación en el Periódico Oficial del Estado.
