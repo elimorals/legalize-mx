@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2002-03-10"
+last_updated: "2002-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -101,9 +101,9 @@ Toda medida o disposición protectoras de las familias y la niñez se consideran
 
 12.- La educación será motivo de especial atención del Estado, asumiendo el ejercicio de todas las atribuciones que le confieren el artículo 3o. de la Constitución General de la República y sus disposiciones reglamentarias. Su orientación descansará en los principios señalados en dicho precepto y en el desenvolvimiento integral y racional de los recursos socioeconómicos del Estado.
 
-> <small>(REFORMADO, B.O. 31 DE MAYO DE 1993)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 10 DE JULIO DE 2002)</small>
 
-13.- Todos los habitantes del Estado tienen derecho a recibir educación. El Estado y Municipios impartirán educación, preescolar, primaria y secundaria. La educación primaria y secundaria son obligatorias. Además, toda la educación que impartan el Estado y municipios será gratuita.
+13.- Todos los habitantes del Estado tienen derecho a recibir educación. El Estado y Municipios impartirán educación preescolar, primaria y secundaria. La educación preescolar, primaria y secundaria conforman la educación básica obligatoria. Además, toda la educación que impartan el Estado y Municipios será gratuita.
 
 14.- La propiedad privada se respetará y garantizará en el Estado, con las modalidades que para su ejercicio, como función social, le impone el artículo 27 de la Constitución General de la República, buscando el aprovechamiento racional de los recursos naturales susceptibles de apropiación, para propiciar la distribución equitativa de la riqueza pública, preservar su conservación y coadyuvar al progreso social.
 
@@ -1269,7 +1269,7 @@ d).- Municipio de Los Cabos: al Norte, en línea quebrada con la Delegación de 
 
 > <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 1992)</small>
 
-e).- MUNICIPIO DE LORETO: al norte, colinda con el Municipio de Mulegé, con la línea que partiendo de la punta de San Ildelfonso conocida también como Punta Pulpito, situada en el extremo sur de la Bahía de San Nicolás, sigue con rumbo noroeste hasta el punto conocido como Cerrito de la Pitahaya o del Pilón situada al sureste del Rancho Santa Rosalillita; de aquí con rumbo oeste hasta llegar al cruce de la carretera transpeninsular y el Arroyo Cadeje, que es el límite también con el Municipio de Comondú; al sur colinda con el Municipio de Comondú con una línea que parte del Golfo de California, del lugar conocido como Ensenada el Cochi, hasta llegar al Cerro las Chivas con rumbo noroeste, que colinda también con el Municipio de Comondú; por el este, colinda con el litoral del Golfo de California y por el oeste colinda con el Municipio de Comondú, en línea quebrada de siete tramos que a continuación se describen:
+e).- MUNICIPIO DE LORETO: al norte, colinda con el Municipio de Mulegé, con la línea que partiendo de la punta de San Ildefonso conocida también como Punta Pulpito, situada en el extremo sur de la Bahía de San Nicolás, sigue con rumbo noroeste hasta el punto conocido como Cerrito de la Pitahaya o del Pilón situada al sureste del Rancho Santa Rosalillita; de aquí con rumbo oeste hasta llegar al cruce de la carretera transpeninsular y el Arroyo Cadeje, que es el límite también con el Municipio de Comondú; al sur colinda con el Municipio de Comondú con una línea que parte del Golfo de California, del lugar conocido como Ensenada el Cochi, hasta llegar al Cerro las Chivas con rumbo noroeste, que colinda también con el Municipio de Comondú; por el este, colinda con el litoral del Golfo de California y por el oeste colinda con el Municipio de Comondú, en línea quebrada de siete tramos que a continuación se describen:
 
 En el primer tramo, donde inicia una línea del cruce de la carretera transpeninsular y el Arroyo Cadeje con rumbo sureste, hasta llegar al Cerro de los Panales, situado al oeste de la Ranchería el Palo Blanco, que pertenece a la Municipalidad de Loreto y al norte de la Palmita perteneciente a la Municipalidad de Comondú, de este punto en el siguiente tramo en una línea con rumbo sureste hasta llegar al Cerro de Santo Tomás, que se ubica al noroeste del rancho del mismo nombre, perteneciendo al Municipio de Comondú; el siguiente tramo parte de una línea de este punto con rumbo noreste hasta llegar al Cerro Prieto, que se ubica al sur de Agua Verde, ambos, pertenecientes al Municipio de Loreto, de este punto el siguiente tramo sigue en rumbo sureste hasta llegar al Cerro Blanco ubicado al suroeste de la Bahía y Rancho Santa Martha, pertenecientes al Municipio de Loreto y al noreste de San José de la Noria, pertenecientes al Municipio de Comondú; el siguiente tramo inicia en este punto de donde sigue una línea con rumbo sureste hasta llegar al Cerro de los Berrendos, ubicado al oeste del rancho El Carrizalito y la Punta San Mateo, pertenecientes a la Municipalidad de Loreto; el siguiente tramo inicia en este punto, en una línea con rumbo sureste hasta el Cerro de las Chivas, ubicado al suroeste de Tembabiche y el último tramo inicia en este punto, con línea suroeste en el cruce del litoral del Golfo de California en el punto denominado Ensenada El Cochi.
 
@@ -1473,9 +1473,9 @@ Si no se presentan transcurrido este plazo, los suplentes entrarán en ejercicio
 
 ### CAPITULO VIII. DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 2002)</small>
 
-148.- Son Facultades y obligaciones de los Ayuntamientos:
+148.- Son facultades y obligaciones del ayuntamiento:
 
 I.- Cumplir y hacer cumplir las leyes, decretos y disposiciones federales, estatales y municipales;
 
@@ -1541,9 +1541,9 @@ XV.- Decretar las obras de utilidad pública u ornato del municipio.
 
 XVI.- Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los Servicios Públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la Asociación de Municipios de dos o más Estados deberán contar con la aprobación de las Legislaturas de los Estados respectivos. Así mismo cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que este, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien ejerzan coordinadamente por el Estado y por el propio Municipio.
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
 
-XVII.- Aprobar el procedimiento y condiciones para que el gobierno estatal asuma temporalmente una función o servicio municipal; en caso de no existir convenio correspondiente el Ayuntamiento con la aprobación de las dos terceras partes de sus integrantes solicitará al Congreso del Estado su aprobación, si el Ayuntamiento considera que el Municipio está imposibilitado para ejercer o prestar las funciones o servicios de que se trate.
+XVII.- Con la aprobación de las dos terceras partes de sus integrantes, solicitar al Congreso del Estado su aprobación para celebrar convenio para que el Gobierno del Estado, asuma una función o servicio público municipal por el tiempo que se requiera, y en su caso, establecer una prorroga.
 
 > <small>(ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -1727,7 +1727,7 @@ El procedimiento a que se refiere el presente Artículo solo podrá iniciarse du
 
 > <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
-159.- Para proceder penalmente contra los servidores públicos, a que se refiere el párrafo primero del Artículo 158, por la comisión de delitos cometidos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría de votos de sus miembros presentes en Sesión, si ha lugar o no a proceder contra el inculpado, con las siguientes prevenciones:
+159.- Para proceder penalmente contra los servidores públicos, a que se refiere el párrafo primero del Artículo 158 por la comisión de delitos cometidos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría de votos de sus miembros presentes en Sesión, si ha lugar o no a proceder contra el inculpado, con las siguientes prevenciones:
 
 I.- Si la resolución del Congreso fuese negativa, se suspenderá todo el procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el acusado haya concluido el ejercicio de su encargo, pues dicha resolución no prejuzga los fundamentos de la imputación.
 
@@ -2342,3 +2342,19 @@ En tanto se expidan las disposiciones legales, reglamentarias y acuerdos general
 B.O. 10 DE MARZO DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Boletín oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JULIO DE 2002.
+
+DECRETO NUMERO 1366.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JULIO DE 2002.
+
+DECRETO NUMERO 1367.
+
+###### ARTÍCULO UNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
