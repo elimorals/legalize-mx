@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1918-02-19"
+last_updated: "1918-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 1918.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -54,7 +54,7 @@ La Soberanía del Estado se ejerce: 1º Por medio del Poder Legislativo que form
 
 ###### Artículo 4º.
 
-La forma de gobierno en el Estado es republicana, representativa y popular, teniendo como base de su organización política el municipio libre, en los términos que establece la ley.
+La forma de Gobierno en el Estado es republicana, representativa y popular, teniendo como base de su organización política el municipio libre, en los términos que establece la ley.
 
 ###### Artículo 5º.
 
@@ -998,13 +998,17 @@ Las Municipalidades conservarán el territorio que actualmente tienen; pero el C
 
 Cada municipio estará administrado por un Ayuntamiento que será nombrado por elección popular directa y se renovará en su totalidad cada dos años; entrando a funcionar el primero de enero, conforme a la ley; no siendo en todo caso menor de cinco el número de munícipes ni mayor de quince y conforme al orden siguiente:- En los municipios que cuenten menos de 3,000 habitantes habrá cinco munícipes, en los de 3,000 a 6,000, siete; en los de 6,000 a 12,000 nueve; en los de 12,000 a 20,000, once; en los de 20,000 a 40,000, trece y en los que pasen de 40,000 quince.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1918)</small>
+
 ###### Artículo 125.
 
-Los munícipes inmediatamente después de haber prestado su protesta de ley, designará de entre ellos mismos un Presidente, el que sólo tendrá el carácter de ejecutor de las resoluciones de la Corporación. Para esta designación deberán de estar presentes cuando menos las dos terceras partes de los Consejales electos y ella será por mayoría absoluta.
+Será Presidente del Ayuntamiento, aquel de sus miembros que haya sido electo con tal carácter, en la forma que expresa el artículo anterior, y tendrá, además de las atribuciones que la Ley concede a los Munícipes, la de ejecutar los acuerdos de la Corporación.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1918)</small>
 
 ###### Artículo 126.
 
-La designación a que se refiere el artículo anterior será para períodos de un año, no debiendo haber reelección. A falta del Presidente hará sus veces el que le haya seguido en votación al ser nombrado, y cuando falten los dos funcionarios citados, el mismo Ayuntamiento designará quien deba presidirlo temporalmente, entendiéndose siempre que debe ser entre sus miembros.
+Las faltas temporales del Presidente Municipal, serán suplidas por los regidores del Ayuntamiento, según el orden de su nombramiento.
 
 ###### Artículo 127.
 
@@ -1420,9 +1424,9 @@ III. Discusión del dictamen y aprobación de la mayoría absoluta de todos los 
 
 IV. Publicación del expediente por la prensa.
 
-V. Que la adición o reforma sea aprobada por la mayoría absoluta de los ayuntamientos del Estado.
+V. Que la adición o reforma sea aprobada por la mayoría absoluta de los Ayuntamientos del Estado.
 
-VI. Discusión del nuevo dictamen, que se formará con vista del sentir de los ayuntamientos, la Comisión que conoció de la iniciativa, pronunciándose en sentido afirmativo o negativo, según el sentir de la mayoría absoluta de los respectivos Ayuntamientos.
+VI. Discusión del nuevo dictamen, que formará con vista del sentir de los Ayuntamientos, la Comisión que conoció de la iniciativa, pronunciándose en sentido afirmativo o negativo, según el sentir de la mayoría absoluta de los respectivos Ayuntamientos.
 
 VII. Declaración del Congreso, con vista y discusión del dictamen de la comisión.
 
@@ -1503,3 +1507,9 @@ Secretario-Diputado por el 3º. Distrito Electoral.
 Prof. J. Martínez M,
 
 Secretario-Diputado por el 12º. Distrito Electoral.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+P.O. 19 DE OCTUBRE DE 1918.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
