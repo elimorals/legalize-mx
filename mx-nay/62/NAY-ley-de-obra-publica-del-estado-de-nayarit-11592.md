@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-obra-publica-del-estado-de-nayarit-11592"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-19"
-last_updated: "1997-05-17"
+last_updated: "2002-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE OBRA PUBLICA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2002.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit el Miércoles 19 de Abril de 1995.
 
@@ -771,45 +771,11 @@ La manifestación de hechos falsos se sancionará conforme a las disposiciones l
 
 DEL RECURSO DE REVOCACION.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O., 17 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
 
 ###### ARTICULO 73.
 
-En contra de las resoluciones que dicte la Secretaría de la Contraloría General del Estado en los términos de esta Ley, el interesado podrá interponer ante la que lo hubiera emitido, recurso de revocación dentro del término de diez días naturales, contados a partir del día siguiente al de la notificación, el que se tramitará conforme a las normas siguientes:
-
-I.- Se interpondrá por el recurrente mediante escrito, en el que se expresarán los agravios que el acto impugnado le cause, ofreciendo las pruebas que se proponga rendir y acompañando copia de la resolución impugnada, así como la constancia de la notificación de esta última, excepto si la notificación se hizo por correo;
-
-> <small>(REFORMADA, P.O., 17 DE MAYO DE 1997)</small>
-
-II.- Si el recurrente así lo solicita en su escrito, se suspenderá el acto que reclama, siempre y cuando garantice mediante fianza los daños y perjuicios que le pudiera ocasionar al Estado o a tercero, cuyo monto será fijado por la Secretaría de Contraloría General, el cual nunca será inferior al equivalente al veinte por ciento, ni superior al cincuenta por ciento del valor del objeto del acto impugnado. Sin embargo, el tercero perjudicado podrá dar contrafianza equivalente a la que corresponda a la fianza, en cuyo caso quedará sin efectos la suspensión. No procederá la suspensión cuando se ponga en peligro la seguridad estatal, el orden social o los servicios públicos. Si la resolución que se impugna consiste en la imposición de multas, la suspensión se otorgará siempre y cuando se garantice el interés fiscal en cualesquiera de las formas previstas en el Código Fiscal Estatal.
-
-> <small>(REFORMADA, P.O., 17 DE MAYO DE 1997)</small>
-
-III.- En el recurso no será admisible la prueba de confesión de las autoridades. Si dentro del trámite que haya dado origen a la resolución recurrida, el interesado tuvo oportunidad razonable de rendir pruebas, solo se admitirán en el recurso las que hubiere allegado en tal oportunidad;
-
-> <small>(REFORMADA, P.O., 17 DE MAYO DE 1997)</small>
-
-IV.- Las pruebas que ofrezca el recurrente, deberá relacionarlas con cada uno de los hechos controvertidos y si no se cumple este requisito serán desechados;
-
-> <small>(REFORMADA, P.O., 17 DE MAYO DE 1997)</small>
-
-V.- Se tendrán por no ofrecidas las pruebas de documentos, si éstas no se acompañan al escrito en que se interponga el recurso y en ningún caso serán recabadas por la autoridad, salvo que obren en el expediente en que se haya originado la resolución recurrida;
-
-> <small>(REFORMADA, P.O., 17 DE MAYO DE 1997)</small>
-
-VI.- La prueba pericial se desahogará con la presentación del dictamen a cargo del perito designado por la recurrente. De no presentarse el dictamen dentro del plazo de Ley, la prueba será declarada desierta;
-
-> <small>(REFORMADA, P.O., 17 DE MAYO DE 1997)</small>
-
-VII.- La Secretaría de la Contraloría General del Estado, podrá pedir que se les rindan los informes que estimen pertinentes por parte de quienes hayan intervenido en el acto reclamado;
-
-> <small>(REFORMADA, P.O., 17 DE MAYO DE 1997)</small>
-
-VIII.- La Secretaría de la Contraloría General del Estado, acordará lo que proceda sobre la admisión del recurso y de las pruebas que el recurrente hubiere ofrecido, que deberán ser pertinentes e idóneas para dilucidar las cuestiones controvertidas; y ordenará el desahogo de las mismas, dentro del plazo de quince días hábiles, el que será improrrogable; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O., 17 DE MAYO DE 1997)</small>
-
-IX.- Vencido el plazo para la rendición de las pruebas, la Secretaría de la Contraloría General del Estado, dictará resolución en un término que no excederá de veinte días hábiles. Si no se dicta resolución en el plazo señalado, se entenderá denegada.
+Contra las resoluciones y actos administrativos de las autoridades que contravengan lo previsto en este ordenamiento, podrá interponerse el recurso administrativo de inconformidad o el juicio ante el Tribunal de Justicia Administrativa, en términos de la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
 
 ## TRANSITORIOS.
 
@@ -844,3 +810,31 @@ P.O. 17 DE MAYO DE 1997.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor a partir del día siguiente de la fecha de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 17 DE AGOSTO DE 2002
+
+Primero.- El presente decreto entrará en vigor a los cuarenta y cinco días siguientes al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, con excepción del Título Cuarto del ARTICULO PRIMERO de este decreto, el cual entrará en vigor el primer día del mes de enero del año 2003.
+
+El artículo 71 a que se refiere el ARTICULO PRIMERO del presente decreto, iniciará su vigencia el primero de enero del año 2003, a fin de que tanto el Poder Ejecutivo del estado como los Ayuntamientos expidan, antes de esta fecha, sus correspondientes reglamentos para el cobro y aplicación de gastos de ejecución, de conformidad con lo establecido en dicho artículo.
+
+Segundo.- El Gobernador dentro de los quince días siguientes a la entrada en vigor del presente decreto, en los términos a que se hace referencia el artículo 135 de la Ley de Justicia y Procedimientos Administrativos, someterá a la consideración del Congreso la lista de candidatos a magistrados, a fin de que el Congreso proceda a su designación.
+
+Tercero.- Los magistrados del Tribunal de Justicia Administrativa del Estado de Nayarit a más tardar el día quince del mes de noviembre del año 2002 preverán lo conducente a efecto de elegir a su presidente; preparar el proyecto de presupuesto que habrán de remitir al titular del Poder Ejecutivo para su inclusión en el Presupuesto de Egresos del Estado; elaborar y aprobar su reglamento interior; convocar a los procesos de selección y contratación del demás personal; aprobar el calendario laboral del Tribunal y, prevenir todo lo conducente para el inicio de su funcionamiento.
+
+En todo caso, la primera sesión de la sala del Tribunal de Justicia Administrativa del estado de Nayarit se llevará a cabo el día dos de enero del año 2003, en la cual se habrán de ratificar sus acuerdos previos.
+
+El Reglamento Interior y el calendario laboral del Tribunal de Justicia Administrativa del Estado de Nayarit, una vez aprobados por los magistrados, deberán publicarse debiendo iniciar su vigencia el día primero (sic) del año 2003.
+
+Cuarto.- El Gobernador del Estado por conducto de la Secretaría de Finanzas proverá lo necesario en cuanto a recursos financieros y materiales para el inicio del funcionamiento del Tribunal de Justicia Administrativa del Estado de Nayarit, en tanto se integra el presupuesto de éste, en el Presupuesto de Egresos del Estado.
+
+Quinto.- Los procedimientos y recursos administrativos que se encuentren en trámite al entrar en vigor esta resolución, se substanciarán de conformidad a las disposiciones legales anteriores al mismo.
+
+Sexto.- El Poder Ejecutivo y los Ayuntamientos del estado deberán prever que sus respectivos proyectos de leyes de ingresos del año 2003 y siguientes; se ajusten a lo establecido en el en el (sic) artículo 71 del ARTÍCULO PRIMERO de este decreto, en tanto no se modifique su contenido.
+
+Asimismo, realizarán las acciones necesarias para que en sus respectivos presupuestos de egresos se considere, a partir del año 2003, una partida específica para el pago de la responsabilidad patrimonial por los daños y perjuicios en que pudieren incurrir sus servidores públicos.
+
+Igualmente, en un plazo no mayor de 120 días contados a partir de la entrada en vigor de esta resolución, adecuarán sus reglamentos y demás ordenamientos a fin de que sean acordes a lo establecido por el mismo.
+
+Séptimo.- El Congreso del Estado, en coordinación con el Poder Ejecutivo y los Ayuntamientos del estado, dispondrán los recursos humanos y financieros para que a partir de la publicación de este decreto, su contenido se difunda ampliamente entre los servidores públicos estatales y municipales, así como entre la población en general de toda la entidad.
+
+En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por conducto del Periódico Oficial de al menos 2000 ejemplares para que se difundan entre todas las dependencias de la administración pública estatal, los Ayuntamientos y la población en general.
