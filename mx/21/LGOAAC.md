@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "2000-01-05"
+last_updated: "2000-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,109 +20,29 @@ abbreviation: "LGOAAC"
 ---
 # LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO
 
-LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA
+LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 2000.
 
-Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2013.
+Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
-LIC. GABINO CUE MONTEAGUDO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
+Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-QUE LA LEGISLATURA DEL ESTADO, HA TENIDO A BIEN, APROBAR LO SIGUIENTE,
+MIGUEL DE LA MADRID H., Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 
-DECRETO No. 1981
+Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
 
-LA SEXAGÉSIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, APRUEBA:
+DECRETO:
 
-LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA
+"El Congreso de los Estados Unidos Mexicanos, decreta:
+
+LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO.
 
 ## TITULO PRIMERO. Disposiciones Generales
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPITULO UNICO
 
-###### Artículo 1.
-
-La presente Ley es de orden público y de observancia general para el Estado, la cual tiene por objeto el desarrollo e impulso a las actividades artesanales y la artesanía oaxaqueña en lo económico, cultural, educativo, ecológico, comercial y turístico; lo anterior, sin perjuicio de los programas, estímulos y acciones que a nivel federal se establezcan para el mismo fin.
-
-En el cumplimiento del objeto de la presente Ley se salvaguardará y protegerá en todo momento las técnicas y productos como patrimonio cultural del Estado.
-
-###### Artículo 2.
-
-Es de interés del pueblo oaxaqueño preservar las actividades artesanales e incentivar la creación, producción y comercialización de la artesanía oaxaqueña, corresponderá al Titular del Poder Ejecutivo del Estado, la aplicación de la presente Ley, por conducto del Instituto y de las demás dependencias y entidades estatales que tengan relación con el sector artesanal.
-
-###### Artículo 3.
-
-Los principios que regirán a esta Ley son los siguientes:
-
-I. Crecimiento y desarrollo local;
-
-II. Protección a la cultura popular;
-
-III. Producción limpia y desarrollo sustentable;
-
-IV. Fomento cooperativo;
-
-V. Generación de trabajos dignos;
-
-VI. Comercio directo entre productores y consumidores; y
-
-VII. Economía solidaria.
-
-###### Artículo 4.
-
-Los principios servirán como criterios de decisión para el diseño de políticas públicas.
-
-###### Artículo 5.
-
-Para efectos de la presente Ley se entenderá por:
-
-I. Actividad artesanal: Es la actividad realizada manualmente en forma individual, familiar o colectiva, que tiene por objeto transformar materia (sic) primas en productos o sustancias orgánicas e inorgánicas en artículos nuevos no seriados, donde la creatividad personal, las materias primas e insumos y la mano de obra constituyen factores predominantes que les imprimen características culturales, históricas, folklóricas, estéticas o utilitarias, originarias de una región determinada, mediante la aplicación de técnicas, herramientas o procedimientos transmitidos generacionalmente; y que se reconocen como obras de arte que forman parte de la cultura del estado;
-
-II. Artesanía: Obras y/o productos terminados elaborados de acuerdo con herramientas, técnicas y procesos ancestrales que tienen por objeto imprimir características culturales, históricas, folklóricas, estéticas o utilitarias, originarias de una región determinada;
-
-III. Artesano: Toda persona física que con destreza creativa, desarrolle sus habilidades innatas, conocimientos prácticos o teóricos de una técnica para transformar manualmente materias primas en productos que reflejen la belleza, tradición o cultura del Estado, auxiliándose de herramientas e instrumentos de cualquier naturaleza y siempre que se realice dentro de las distintas ramas artesanales de producción que contemple esta Ley;
-
-IV. Estado: Estado Libre y Soberano de Oaxaca;
-
-V. Fondo Artesanal: Fondo de Fomento a las Actividades Artesanales;
-
-VI. Junta Directiva: Junta Directiva del Instituto Oaxaqueño de las Artesanías;
-
-VII. ICAPET-SNE: Instituto de capacitación y Productividad para el Trabajo del Estado de Oaxaca;
-
-VIII. Instituto: Instituto Oaxaqueño de las Artesanías;
-
-IX. Ley: Ley de Fomento a las Actividades Artesanales del Estado de Oaxaca;
-
-X. Premio Artesanal: Premio Estatal de las Actividades Artesanales;
-
-XI. Producción artesanal: La actividad económica de transformación, cuyo proceso se realiza con materias primas de origen natural o artificial, con el objeto de producir un bien determinado mediante la utilización de habilidades manuales y conocimiento de la historia del lugar o región donde se elaboran;
-
-XII. Recursos naturales: Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos artesanales como son los siguientes: tierras, bosques, recursos minerales y comunidades vegetativas;
-
-XIII. Sector artesanal: Es el sector que desarrolla la actividad artesanal, integrada por artesanos, unidades de producción y sociedades de artesanos, y
-
-XIV. Sustentabilidad: La sustentabilidad ambiental, referida a la necesidad de· que el impacto del proceso de desarrollo no destruya de manera irreversible la capacidad de carga del ecosistema.
-
-###### Artículo 6.
-
-Los instrumentos o programas que se establezcan para el cumplimiento del objeto de este ordenamiento, estarán orientados a lo siguiente:
-
-I. Crear condiciones óptimas que permitan la identidad, apertura y crecimiento de las actividades artesanales oaxaqueñas;
-
-II. Implementar políticas públicas eficientes para el desarrollo de las actividades artesanales;
-
-III. Impulsar y orientar la organización de los artesanos en diversas figuras asociativas como: personas físicas o morales, unidades de producción u organizaciones;
-
-IV. Orientar y fomentar la organización, producción, y distribución de artesanías;
-
-V. Orientar y fomentar la capacitación de las y los artesanos;
-
-VI. Fomentar la celebración de ferias, eventos, exposiciones y demás foros internacionales, nacionales, estatales, regionales y municipales, que tengan por objeto promocionar las obras artesanales oaxaqueñas;
-
-VII. Difundir y promover todas aquellas actividades para el rescate, preservación, fomento y mejoramiento de las actividades artesanales en el Estado;
-
-VIII. Las demás que le confieran esta Ley u otros ordenamientos.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 1o.
 
@@ -294,7 +214,7 @@ Sólo podrá revocarse el nombramiento de estos consejeros cuando se revoque el 
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-VI. El número de administradores no podrá ser inferior de cinco, salvo el caso de uniones de crédito en que no será inferior a siete, y en ambos casos actuarán constituidos en consejo de administración;
+VI.- El número de administradores no podrá ser inferior de cinco, salvo el caso de uniones de crédito en que no será inferior a siete, y en ambos casos actuarán constituidos en consejo de administración;
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -336,119 +256,159 @@ XII. La fusión de dos o más organizaciones auxiliares del crédito o casas de 
 
 Los poderes que otorguen las organizaciones auxiliares del crédito no requerirán otras inserciones que las relativas al acuerdo del consejo que haya autorizado el otorgamiento del poder, a las facultades que en la escritura o en los estatutos se concedan al mismo consejo sobre el particular y a la comprobación del nombramiento de los consejeros.
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-Con la finalidad de promover las artesanías que se producen en el Estado, el Instituto, incluirá la participación de artesanos locales en las exposiciones comerciales y productivas en que participe el Gobierno del Estado. Asimismo procurará, en el ámbito de su competencia, la realización de exposiciones de artesanías en ferias locales y regionales. Para tal caso, las Dependencias o Entidades estatales relacionadas, facilitarán la exhibición y comercialización de los productos artesanales.
+Las leyes mercantiles, los usos mercantiles imperantes entre las organizaciones auxiliares del crédito y el derecho común, serán supletorios de la presente Ley, en el orden citado.
 
 ## TITULO SEGUNDO. De las Organizaciones Auxiliares del Crédito
 
-### CAPÍTULO II. DEL INSTITUTO OAXAQUEÑO DE LAS ARTESANÍAS
+### CAPITULO I. De los Almacenes Generales de Depósito
 
-###### Artículo 7.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-El Titular del Poder Ejecutivo, aplicará y vigilará el cumplimiento de la presente Ley, por conducto del Instituto, con la participación de las Dependencias y Entidades de la Administración Pública Estatal, que por su propia naturaleza y objeto coincidan con la del presente ordenamiento.
+###### ARTICULO 11.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2016)</small>
+Los almacenes generales de depósito tendrán por objeto el almacenamiento, guarda o conservación, manejo, control, distribución o comercialización de bienes o mercancías bajo su custodia o que se encuentren en tránsito, amparados por certificados de depósito y el otorgamiento de financiamientos con garantía de los mismos. También podrán realizar procesos de incorporación de valor agregado, así como la transformación, reparación y ensamble de las mercancías depositadas a fin de aumentar su valor, sin variar esencialmente su naturaleza. Sólo los almacenes estarán facultados para expedir certificados de depósito y bonos de prenda.
 
-###### Artículo 8.
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-Para el cumplimiento de los objetivos de la presente Ley, el Instituto contará, además de las enmarcadas en el Decreto de su creación, con las siguientes funciones y atribuciones:
+Los almacenes facultados para recibir mercancías destinadas al régimen de depósito fiscal, podrán efectuar en relación a esas mercancías, los procesos antes mencionados en los términos de la Ley Aduanera.
 
-I. Procurar que se establezcan normas de calidad estatal en los productos artesanales, en coordinación con las autoridades competentes;
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-II. Procurar la participación de organismos especializados en los programas que favorezcan a los artesanos;
+Los certificados podrán expedirse con o sin bonos de prenda, según lo solicite el depositante, pero la expedición de dichos bonos deberá hacerse simultáneamente a la de los certificados respectivos, haciéndose constar en ellos, indefectiblemente, si se expide con o sin bonos.
 
-III. Programar en su proyecto de presupuesto de egresos, la partida presupuestal anual que integrará el Fondo Artesanal; y
+El bono o bonos expedidos podrán ir adheridos al certificado o separados de él.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-IV. Brindar asistencia técnica y asesoramiento para facilitar al sector artesanal en cuanto a:
+Los almacenes llevarán un registro de los certificados y bonos de prenda que se expidan, en el que se anotarán todos los datos contenidos en dichos títulos, incluyendo en su caso, los derivados del aviso de la institución de crédito que intervenga en la primera negociación del bono. Este registro deberá instrumentarse conforme a las reglas de carácter general que emita la Comisión Nacional Bancaria y de Valores.
 
-a) Acceso a financiamiento;
+> <small>(REFORMADO, D.O.F.3 DE ENERO DE 1990)</small>
 
-b) Abasto de materias primas, control de calidad, empaques, embalaje y comercialización;
+Los almacenes generales de depósito podrán expedir certificados de depósito por mercancías en tránsito, en bodegas o en ambos supuestos, siempre y cuando esta circunstancia se mencione en el cuerpo del certificado. Estas mercancías deberán ser aseguradas en tránsito por conducto del almacén que expida los certificados respectivos, el cual deberá asumir la responsabilidad del traslado hasta la bodega de destino, en donde seguirá siendo depositario de la mercancía hasta el rescate de los certificados de depósito y los bonos de prenda, en el caso de que los productos hayan sido pignorados.
 
-c) Diseño, tecnología, herramientas y equipos;
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-d) Registro de derechos de autor, patentes y marcas;
+Para los efectos de aseguramiento de la mercancía en tránsito, según se prevé en el párrafo que antecede, el almacén podrá contratar directamente el seguro respectivo, apareciendo como beneficiario en la póliza que al efecto fuere expedida por la compañía aseguradora correspondiente, o bien en el caso de mercancía previamente asegurada, podrá obtener el endoso en su favor de la póliza respectiva.
 
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+Los documentos de embarque deberán estar expedidos o endosados a los almacenes.
 
-e) Constitución y funcionamiento de las figuras asociativas formales previstas en la Legislación Mexicana y todo cuanto se requiere para su adecuado desarrollo;
+Además de las actividades señaladas en los párrafos anteriores, los almacenes generales de depósito podrán realizar las siguientes actividades:
 
-> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-f) Cumplimiento de las obligaciones fiscales impuestas por la Federación, y;
+I. Prestar servicios de guarda o conservación, manejo, control, distribución, transportación y comercialización, así como los demás relacionados con el almacenamiento, de bienes o mercancías, que se encuentren bajo su custodia, sin que éstos constituyan su actividad preponderante;
 
-> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-g) Realización de los demás trámites administrativos que requieran para el mejor desarrollo de su actividad.
+II. Certificar la calidad así como valuar los bienes o mercancías;
 
-V. Las demás que le confieran esta Ley, u otros ordenamientos.
+III. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
-###### Artículo 9
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-El Instituto integrará una colección oficial de trajes típicos, regionales y autóctonos de las distintas regiones del Estado y realizará exposiciones permanentes e itinerantes.
+IV. Empacar y envasar los bienes y mercancías recibidos en depósito por cuenta de los depositantes o titulares de los certificados de depósito, así como colocar los marbetes, sellos o etiquetas respectivos;
 
-###### Artículo 11.
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-El Instituto realizará anualmente una feria del juguete artesanal oaxaqueño.
+V. Otorgar financiamientos con garantía de bienes o mercancías almacenados en bodegas de su propiedad o en bodegas arrendadas que administren directamente y que estén amparados con bonos de prenda, así como sobre mercancías en tránsito amparadas con certificados de depósito;
 
-###### Artículo 12.
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-Las artesanías producidas y elaboradas en el Estado, son patrimonio cultural de los oaxaqueños, por lo que se deberá preservar y proteger la originalidad de las mismas.
+VI. Obtener préstamos y créditos de instituciones de crédito, de seguros y de fianzas del país o de entidades financieras del exterior, destinados al cumplimiento de su objeto social;
 
-###### Artículo 13.
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-Para efectos de esta Ley, dentro del concepto de artesanías oaxaqueñas estarán englobados en tres principales grupos:
+VII. Emitir obligaciones subordinadas y demás títulos de crédito, en serie o en masa, para su colocación entre el gran público inversionista;
 
-I. Artesanía indígena. Aquellos productos derivados de las sabidurías ancestrales y conocimientos colectivos y cuya materialización se hace dentro del seno de los pueblos y comunidades indígenas. Y a la que también se le denominará patrimonio indígena;
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-II. Artesanía Tradicional: Aquellos productos derivados de las sabidurías culturales del estado de Oaxaca; y
+VIII. Descontar, dar en garantía o negociar los títulos de crédito y afectar los derechos provenientes de los contratos de financiamiento que realicen con sus clientes o de las operaciones autorizadas a los almacenes generales de depósito, con las personas de las que reciban financiamiento en términos de la fracción VI anterior así como afectar en fideicomiso irrevocable los títulos de crédito y los derechos provenientes de los contratos de financiamiento que celebren con sus clientes a efecto de garantizar el pago de las emisiones a que se refiere la fracción VII de este artículo;
 
-III. Artesanía contemporánea: Aquellos productos que sin ser de las anteriores, son resultado de un proceso manual y artístico.
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-Corresponderá al reglamento de la presente Ley, elaborar un catálogo de artesanías que integran estos grupos.
+IX. Gestionar por cuenta y nombre de los depositantes, el otorgamiento de garantías en favor del fisco federal, respecto de las mercancías almacenadas por los mismos, a fin de garantizar el pago de los impuestos, conforme a los procedimientos establecidos en la Ley Aduanera;
 
-###### Artículo 14.
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-Por regla general, las disposiciones aplicables a la artesanía tradicional y contemporánea de Oaxaca, serán aplicables al patrimonio indígena, salvo que por disposiciones internacionales o expresas de esta misma Ley, se tengan una normatividad específica.
+X. Prestar servicios de depósito fiscal, así como cualesquier otros expresamente autorizados a los almacenes generales de depósito en los términos de la Ley Aduanera; y
 
-###### Artículo 15.
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-Por lo que se refiere al patrimonio indígena, el Instituto seguirá los lineamientos de la materia, prescritos por el comité de derechos económicos, sociales y culturales de la Organización de Naciones Unidas.
+XI. Las demás operaciones análogas y conexas que, mediante reglas de carácter general, autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
 
-###### Artículo 16.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-·Para el cumplimiento del objeto de esta Ley, se considerarán como ramas de la producción artesanal las siguientes:
+###### ARTICULO 12.
 
-I. Alfarería;
+Los almacenes generales de depósito podrán ser de tres clases:
 
-II. Cestería;
+I. Los que se destinen a recibir en depósito bienes o mercancías de cualquier clase y realicen las demás actividades a que se refiere esta Ley, a excepción del régimen de depósito fiscal y otorgamiento de financiamientos;
 
-III. Alebrijes;
+II. Los que además de estar facultados en los términos señalados en la fracción anterior, lo estén también para recibir mercancías destinadas al régimen de depósito fiscal, y
 
-IV. Textiles;
+III. Los que además de estar facultados en los términos de alguna de las fracciones anteriores, otorguen financiamientos conforme a lo previsto en esta Ley, debiendo sujetarse a los requerimientos mínimos de capitalización que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general.
 
-V. Orfebrería;
+Tratándose de los almacenes a que se refieren las fracciones II y en su caso III de este artículo, deberán sujetarse a las disposiciones correspondientes que prevé la Ley Aduanera, sobre las mercancías que no podrán ser objeto del régimen de depósito fiscal y las medidas de control que deban implantar para mantener aislada la mercancía sometida a este régimen, conforme a lo que establezca la mencionada Ley.
 
-VI. Joyería;
+La Secretaría de Hacienda y Crédito Público, en una lista que al efecto formule para conocimiento de los almacenes, señalará expresamente los productos, bienes o mercancías que no podrán ser objeto de su depósito fiscal en los almacenes a que se refieren las fracciones II y en su caso III.
 
-VII. Laca;
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-VIII. Talla en Madera;
+###### ARTICULO 13.
 
-IX. Talabartería;
+Los almacenes generales de depósito no podrán expedir certificados, cuyo valor en razón de las mercancías que amparen, sea superior a cincuenta veces su capital pagado más reservas de capital, excluyendo el de aquéllos que se expidan con el carácter de no negociables.
 
-X. Juguetería Artesanal;
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
-XI. Jarcería;
+La Secretaría de Hacienda y Crédito Público, oyendo a la Comisión Nacional Bancaria y al Banco de México, podrá elevar transitoriamente la proporción que fija el párrafo que antecede, y excluir de dicho cómputo a los certificados que amparen mercancías depositadas en bodegas propias, arrendadas o en comodato, manejadas directamente por el almacén, mediante reglas de carácter general que podrán ser aplicables a todo el país o sólo a determinada zona o localidad. Asimismo, podrá en casos individuales, elevar transitoriamente el señalado límite, sin que la proporción exceda de cien veces, tomando en cuenta las circunstancias particulares del almacén general de que se trate y de las operaciones que pretenda realizar.
 
-XII. Pirograbado;
+La propia Secretaría, mediante reglas de carácter general, determinará la proporción de la citada suma del capital pagado más reservas de capital, que como máximo podrá alcanzar el valor de los certificados que amparen mercancías depositadas en bodegas habilitadas expedidos a favor de una misma persona, entidad o grupo de personas que de acuerdo con las mismas reglas deban considerarse para esos efectos como una sola, y señalará las condiciones y requisitos para la autorización de operaciones que excedan del límite establecido.
 
-XIII. Mezcal; y
+###### ARTICULO 14.
 
-XIV. Las demás que se determinen por el Instituto.
+Los almacenes generales de depósito deberán cumplir con los requisitos, características y normas que con base en los programas oficiales de abasto y las disposiciones legales aplicables, se señalen respecto de las instalaciones, equipo y procedimientos utilizados para el acopio, acondicionamiento, industrialización, almacenamiento y transporte de productos alimenticios de consumo generalizado.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+
+Los almacenes generales de depósito que hayan de recibir mercancías destinadas al régimen de depósito fiscal quedarán sujetos al control de las autoridades aduaneras de conformidad con la Ley de la materia.
+
+###### ARTICULO 15.
+
+El capital y reservas de capital de los almacenes generales de depósito deberá estar invertido:
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+I. En el establecimiento de bodegas, plantas de transformación y oficinas propias de la organización; en el acondicionamiento de bodegas ajenas cuyo uso adquiera el almacén en los términos de esta Ley; en el equipo de transporte, maquinaria, útiles, herramienta y equipo necesario para su funcionamiento; en acciones de sociedades que se organicen exclusivamente para adquirir el dominio y administrar edificios, y siempre que en algún edificio propiedad de esa sociedad tenga establecida o establezca su oficina principal o alguna sucursal o dependencia el almacén general de depósito accionista; y en acciones de las sociedades a que se refiere el artículo 68 de esta Ley. La inversión en acciones y los requisitos que deban satisfacer las sociedades a que se refiere esta fracción, se sujetarán a las reglas generales que dicte la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria.
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+La Secretaría de Hacienda y Crédito Público establecerá mediante disposiciones de carácter general, el importe total de estas inversiones en relación a la suma del capital pagado y reservas de capital.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
+
+Los almacenes generales de depósito deberán contar con los locales propios para bodegas, desde el inicio de sus operaciones así como con la superficie y capacidad mínima obligatorias que se fijen para cada nivel, en las reglas que al efecto expida la Secretaría de Hacienda y Crédito Público;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+II.- En financiamientos con garantía de bienes o mercancías depositados, amparados con bonos de prenda; en anticipos con garantía de los bienes y mercancías depositados, que se destinen en pago de empaques, fletes, seguros, impuestos a la importación o a la exportación y operaciones de transformación de esos mismos bienes y mercancías, haciéndose constar el anticipo en los títulos relativos que expidan los almacenes; en cartera de créditos prendarios, y en inventarios de las mercancías que comercialicen; y
+
+III. En monedas circulantes en la República o en depósitos a la vista o a plazo en el Banco de México o en instituciones de crédito, o en certificados de depósito bancario, o en saldos bancarios en cuenta de cualquier clase, o en créditos expresados en letras de cambio, pagarés y demás documentos mercantiles con una firma, al menos, de institución de crédito y siempre que sea a plazo no superior a ciento ochenta días, o también en letras, pagarés y demás documentos mercantiles que procedan a operaciones de compraventa de mercancías efectivamente realizadas, a plazo no mayor de noventa días, así como en valores de renta fija aprobados para el efecto por la Comisión Nacional de Valores.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
+
+La Secretaría de Hacienda y Crédito Público determinará mediante disposiciones de carácter general las reservas de capital computables para efectos de este artículo.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+
+###### ARTICULO 16.
+
+Para los efectos de la presente Ley, se entenderá por bodega habilitada a aquellos locales que formen parte de las instalaciones del depositante, trátese de bodegas propias, rentadas o recibidas en comodato, que el almacén general de depósito tome a su cargo para operarlos como bodegas y efectuar en ellos el almacenamiento, guarda o conservación de bienes o mercancías propiedad del mismo depositante o de terceros, siempre y cuando reúnan los requisitos que señala el artículo 17, fracción II, de esta Ley.
+
+El bodeguero habilitado será designado por el almacén para que en su nombre y representación se haga cargo del almacenamiento, la guarda o conservación de bienes o mercancías depositados y deberá garantizar al almacén el correcto desempeño de estas funciones mediante las garantías que el almacén estime pertinentes.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 16-A.
 
@@ -456,45 +416,93 @@ Para cubrir reclamaciones en caso de faltantes de mercancías en bodegas propias
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
 
-###### Artículo 17.
+###### ARTICULO 17.
 
-El Ejecutivo Estatal organizará y convocará una vez al año, al Premio Artesanal, que tendrá como objetivo impulsar la adopción de mejores niveles de calidad en la producción artesanal y que permita arraigar una cultura de competitividad entre los artesanos oaxaqueños.
+Además de los locales que para bodegas, oficinas y demás servicios tengan los almacenes en propiedad, podrán tener en arrendamiento o en habilitación locales ajenos en cualquier parte de la República, previo aviso que se dará a la Comisión Nacional Bancaria cuando menos con diez días hábiles de anticipación a la fecha de inicio de operaciones. Asimismo, podrán tener locales propios, en arrendamiento o en habilitación en el extranjero de acuerdo con lo establecido en el artículo 65 de esta Ley.
 
-El Premio Artesanal consistirá en un diploma y un estímulo en efectivo. Las particularidades, requisitos, categorías, jurado, premiación y permiso del concurso, serán materia de la convocatoria pública abierta que para tal efecto emita la Junta Directiva a través del Instituto, con fundamento en las disposiciones del reglamento de la presente Ley.
+Ningún almacén podrá recibir en bodegas arrendadas y manejadas directamente por él, mercancías cuyo valor de certificación exceda del porcentaje del valor de los certificados que tenga en circulación, que señale mediante disposiciones de carácter general la citada Comisión.
 
-###### Artículo 18.
+Los locales arrendados o en habilitación deberán reunir los siguientes requisitos:
 
-El Instituto formulará, ejecutará o gestionará permanentemente cursos de capacitación por región o rama artesanal dirigida a las organizaciones de artesanos que lo soliciten, sobre diseño, control de calidad, contabilidad, utilización de herramientas maquinaria o equipo, empaques, embalajes, distribución y demás aspectos propios de la producción artesanal.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-###### Artículo 19.
+I. Los locales arrendados deberán contar con acceso directo a la vía pública y estarán independientes del resto de las construcciones que se localicen en el mismo inmueble, debiendo tener asimismo, buenas condiciones físicas de estabilidad y adaptabilidad que aseguren la conservación de las mercancías sujetas a depósito;
 
-Con el objeto de promover el conocimiento, ensayo y rescate de técnicas tradicionales, así como de nuevas técnicas, diseños y procesos actualizados de producción que permitan el intercambio de conocimientos y experiencia para alcanzar mejores niveles de calidad artesanal, el Instituto fomentará en la comunidad artesanal el funcionamiento de talleres, centros de diseño y de capacitación que impulse la profesionalización de los artesanos.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-###### Artículo 20.
+II. Los locales habilitados deberán contar también con buenas condiciones físicas de estabilidad y adaptabilidad que aseguren la adecuada conservación de las mercancías que se almacenen en ellos.
 
-El Instituto promoverá e integrará el Registro Estatal de Artesanos, como procedimiento de carácter público el cual tiene por objeto inscribir, actualizar y difundir la información relacionada con el sector artesanal.
+Cuando existan faltantes de mercancías depositadas en las bodegas habilitadas, los almacenes generales de depósito podrán solicitar en la vía ejecutiva el embargo de los bienes inmuebles afectados por el bodeguero habilitado o su garante para el cumplimiento de sus obligaciones con el almacén, tomando como base el documento en que se constituya dicha afectación en garantía y siempre que haya sido ratificado e inscrito en los términos del siguiente párrafo.
 
-###### Artículo 21.
+El documento en que se haga la afectación, deberá ser ratificado por el propietario del inmueble ante juez, notario o corredor público, y se inscribirá, a petición del almacén, en el Registro Público de la Propiedad respectivo; y
 
-El Registro Estatal de Artesanos será un instrumento auxiliar del Instituto para la integración y ejecución de políticas públicas en beneficio del sector y en general, para el cumplimiento de sus objetivos.
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-###### Artículo 22.
+III. Los locales habilitados serán supervisados cuando menos mensualmente por inspectores nombrados por los almacenes, quienes formularán las actas de inspección que indiquen, en su caso, faltantes de bienes o mercancías amparados con certificados de depósito. Dichas actas deberán ser certificadas por el contador del almacén general de depósito. La oposición del bodeguero habilitado o sus bodegueros auxiliares o sus funcionarios o empleados, a la inspección presumirá salvo prueba en contrario, faltantes de bienes o mercancías depositados.
 
-El Instituto elaborará y operará el Registro Estatal de Artesanos, el cual contendrá, como mínimo, la siguiente información:
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
-I. Las ramas artesanales que se practican en el Estado;
+Los almacenes generales de depósito podrán adquirir predios o bodegas así como construir o acondicionar locales de su propiedad, siempre que se encuentren en condiciones adecuadas de ubicación, estabilidad y adaptabilidad para el almacenamiento.
 
-II. El número de artesanos económicamente activos;
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
-III. Las organizaciones de artesanos constituidas conforme a las disposiciones aplicables;
+Los almacenes generales de depósito podrán asimismo, tomar en arrendamiento las plantas que requieran para llevar a cabo la transformación de las mercancías depositadas, en los términos del artículo 11, primer párrafo de esta Ley.
 
-IV. Los tipos y localización por región, de los productos artesanales que permitan su clasificación;
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
 
-V. Las instituciones públicas o privadas que otorgan capacitación artesanal;
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
 
-VI. Las instituciones públicas o privadas encargadas de difundir las artesanías oaxaqueñas o aquellas que se dediquen a la distribución de artesanías; y
+###### ARTICULO 18.
 
-VII. En general, la información que se requiera para identificar el universo de individuos dedicados a la actividad artesanal, los tipos de artesanías, su origen, el entorno cultural artesanal y las tradiciones artesanales en la Entidad.
+Los almacenes generales de depósito informarán a la Comisión Nacional Bancaria, el nombre de las personas que hayan sido condenadas en sentencia que cause ejecutoria por haber incurrido en las conductas previstas en el artículo 100 de esta Ley. Dicho informe deberá proporcionarse dentro de los 30 días hábiles siguientes a la fecha de la citada ejecutoria.
+
+Dicha Comisión, previa autorización de las partes interesadas y después de realizar las comprobaciones que juzgue necesarias, comunicará a los almacenes generales de depósito los nombres de tales personas, a fin de que en lo sucesivo se abstengan de proporcionarles el servicio de habilitación de bodegas, con independencia de las sanciones que conforme a ésta u otras disposiciones legales correspondan.
+
+Asimismo, se suspenderá en sus funciones al bodeguero habilitado y no podrá ser designado para tal efecto, el depositante o algún funcionario o empleado de éste, cuando haya incurrido en las infracciones a que alude el citado artículo 100 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 19.
+
+Los almacenes generales de depósito podrán actuar como corresponsales de instituciones de crédito, así como de otros almacenes generales de depósito o de empresas de servicios complementarios a éstos, nacionales o extranjeros, en operaciones relacionadas con las que les son propias; también podrán conceder corresponsalías a dichas instituciones, almacenes o empresas en las operaciones antes citadas; tomar seguro por cuenta ajena por las mercancías depositadas; gestionar la negociación de bonos de prenda por cuenta de sus depositantes; efectuar el embarque de las mercancías, tramitando los documentos correspondientes y prestar todos los servicios técnicos necesarios a la conservación y salubridad de las mercancías.
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+###### ARTICULO 20.
+
+Los almacenes generales de depósito podrán dar en arrendamiento alguno o algunos de sus locales, cuando concurran circunstancias que lo justifiquen, así como asignar áreas en sus bodegas propias y arrendadas, al almacenamiento exclusivo de mercancías recibidas para su custodia por un mismo depositante y, por ende no amparadas por certificado de depósito, previo aviso dado a la Comisión Nacional Bancaria y de Valores, siempre y cuando dichas actividades no constituyan una actividad preponderante.
+
+###### ARTICULO 21.
+
+Cuando el precio de las mercancías o efectos depositados bajare de manera que no baste a cubrir el importe de la deuda y un 20% más, a juicio de un corredor público titulado que designarán los almacenes generales de depósito por cuenta y a petición del tenedor de un bono de prenda correspondiente al certificado expedido por las mercancías o efectos de que se trate, dichos almacenes procederán a notificar al tenedor del certificado de depósito por carta certificada, si su domicilio es conocido, o mediante un aviso que se publicará en los términos que señala el artículo siguiente de esta Ley, que tiene diez días para mejorar la garantía o cubrir el adeudo, y si dentro de este plazo el tenedor del certificado no mejora la garantía o paga el adeudo, los almacenes procederán a la venta en remate público, en los términos del mencionado artículo.
+
+###### ARTICULO 22.
+
+Los almacenes generales de depósito efectuarán el remate de las mercancías y bienes depositados en almoneda pública y al mejor postor, en el caso del artículo anterior, cuando se lo pidiere, conforme a la ley, el tenedor de un bono de prenda. Los almacenes podrán también proceder al remate de las mercancías o bienes depositados cuando, habiéndose vencido el plazo señalado para el depósito, transcurrieren ocho días sin que éstos hubieren sido retirados del almacén, desde la notificación o el aviso que hiciera el almacén en la forma prescrita en el artículo anterior.
+
+Los almacenes efectuarán el remate en los términos siguientes:
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
+
+I. Anunciarán el remate mediante aviso que se fijará en la entrada del edificio principal del local en que estuviere constituido el depósito y se publicará en un periódico de amplia circulación de la localidad, en cuya circunscripción se encuentre depositada la mercancía. Si no lo hubiere, la publicación se hará en un periódico de circulación nacional o regional, o bien en el Diario Oficial de la Federación;
+
+II. El aviso deberá publicarse con ocho días de anticipación a la fecha señalada para el remate. Cuando se trate del remate de mercancías o efectos que hubieren sufrido demérito, conforme al primer párrafo de este artículo, deberán mediar tres días entre la publicación del aviso y el día del remate;
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
+
+III. Los remates se harán en las oficinas o bodegas del almacén en presencia del comisario o auditor externo de la sociedad. Las mercancías o bienes que vayan a rematarse, estarán a la vista del público desde el día en que se publique el aviso de remate;
+
+IV. Será postura legal, a falta de estimación fijada al efecto en el certificado de depósito, la que cubra al contado el importe del adeudo que hubiere en favor de los almacenes y, en su caso, el del préstamo que el bono o los bonos de prenda garanticen, teniendo los almacenes, si no hubiera postor, derecho a adjudicarse las mercancías o efectos por la postura legal; y
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+V.- Cuando no hubiere postor, ni los almacenes se adjudicaren las mercancías o efectos rematados, podrán proceder a nuevas almonedas, previo el aviso respectivo, haciendo en cada una de ellas un descuento no mayor del cincuenta por ciento sobre el precio fijado como base para la almoneda anterior.
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+Cuando el producto de la venta de la mercancía o bienes depositados no baste para cubrir el adeudo a favor de los almacenes generales de depósito, por el saldo insoluto, éstos tendrán acción a través de la vía ejecutiva mercantil para reclamar al depositante original, el pago del adeudo existente. El convenio de depósito correspondiente junto con el estado de cuenta certificado por el contador del almacén de que se trate, será título ejecutivo sin necesidad de reconocimiento de firma ni de otro requisito.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 22-A.
 
@@ -502,97 +510,185 @@ Los almacenes generales de depósito, sin perjuicio de mantener el capital míni
 
 Para efectos de este artículo, la Secretaría de Hacienda y Crédito Público, oyendo previamente a la Comisión Nacional Bancaria y al Banco de México, señalará los conceptos que se consideren integrantes del capital contable de los almacenes generales de depósito.
 
-###### Artículo 23.
+###### ARTICULO 23.
 
-Para los efectos del artículo anterior, el Instituto deberá recabar de los interesados, en formatos oficiales de distribución gratuita, los datos relativos al nombre de la persona física o moral, domicilio, nacionalidad, rama artesanal en la que pueden ser clasificadas sus actividades, nivel de producción anual, monto del capital de que se disponga o de la inversión realizada y tratándose de personas morales deberá el Instituto incluir el nombre de quienes participen en la sociedad.
+A los almacenes generales de depósito les está prohibido:
 
-### CAPÍTULO III. DE LAS ARTESANÍAS
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-###### Artículo 24.
+I. Operar con sus propias acciones, salvo en los casos previstos en la Ley del Mercado de Valores;
 
-La información consignada en el Registro Estatal de Artesanos, servirá de base para la elaboración de los programas especiales que deba poner en práctica el Instituto.
+II. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
-###### Artículo 25.
+III. Recibir depósitos bancarios de dinero;
 
-El Poder Ejecutivo del Estado, por conducto del Instituto y de las demás dependencias y entidades estatales pertinentes, fomentará la libre organización de los artesanos, a través del apoyo en la constitución de las figuras jurídicas que estos elijan, con la finalidad de impulsar la creación de microempresas.
+IV. Otorgar fianzas o cauciones;
 
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-Además impulsará el desarrollo de la microindustria y de la actividad artesanal, mediante la gestión de apoyos fiscales, financieros, de mercado y de asistencia técnica, promoviendo la coordinación de las autoridades locales y municipales con el objeto de apoyar los trámites administrativos ante las autoridades federales.
+V. Adquirir bienes, mobiliario o equipo no destinados a sus oficinas o actividades propias de su objeto social. Si por adjudicación o cualquier otra causa adquiriesen bienes, que no deban mantener en sus activos, deberán proceder a su venta, la que se realizará, en el plazo de un año, si se trata de bienes muebles, o de dos años, si son inmuebles;
 
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-###### Artículo 26.
+VI. Realizar operaciones con oro, plata y divisas. Se exceptúan las operaciones de divisas relacionadas con financiamientos o contratos que celebren en moneda extranjera, o cuando se trate de operaciones en el extranjero vinculadas a su objeto social, las cuales se ajustarán en todo momento a las disposiciones de carácter general que, en su caso, expida el Banco de México;
 
-El Instituto promoverá en coordinación con las Dependencias o Entidades correspondientes del Gobierno del Estado, la aplicación de programas de apoyo a la productividad, mejoramiento de la calidad y de fomento a la distribución de las artesanías a nivel estatal, nacional e internacional.
+VII. Celebrar operaciones en virtud de las cuales resulten o puedan resultar deudores del almacén general de depósito, los directores generales o gerentes generales, salvo que correspondan a prestaciones de carácter laboral; los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos del almacén; o los ascendientes o descendientes en primer grado o cónyugues (sic) de las personas anteriores. La violación a lo dispuesto en esta fracción se sancionará conforme a lo dispuesto en el artículo 96 de esta Ley; y
 
-###### Artículo 27.
+VIII. Realizar las demás operaciones que no les estén expresamente autorizadas.
 
-Con la finalidad de fomentar la responsabilidad ecológica en el sector artesanal oaxaqueño, se deberá promover entre los artesanos del Estado el aprovechamiento sustentable y la preservación de los recursos naturales susceptibles de ser utilizados como materias primas para la elaboración de artesanías.
+### CAPITULO II. De las Arrendadoras Financieras
 
-###### Artículo 28.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-El Instituto, en coordinación con las Dependencias del Gobierno del Estado, fomentará la utilización de insumos distintos a los naturales en aquellas zonas donde, de conformidad con los criterios ecológicos, disposiciones administrativas, normas oficiales y/o disposiciones jurídicas aplicables, no sea posible el aprovechamiento de recursos naturales.
+###### ARTICULO 24.
 
-###### Artículo 29.
+Las sociedades que disfruten de autorización para operar como arrendadoras financieras, sólo podrán realizar las siguientes operaciones:
 
-Para el rescate de la cultura artesanal, esta Ley fomentará acciones encaminadas a lo siguiente:
+I. Celebrar contratos de arrendamiento financiero a que se refiere el artículo 25 de esta Ley;
 
-I. Preservar y proteger el patrimonio artístico, simbólico, folklórico e histórico del Estado, representado por las artesanías que identifican a las diversas comunidades, regiones y grupos étnicos, con capacidad para transformar la naturaleza, creando nuevas expresiones artísticas populares;
+II. Adquirir bienes, para darlos en arrendamiento financiero;
 
-II. Promover y desarrollar la obra artesanal de las comunidades como reconocimiento del patrimonio cultural de sus habitantes;
+III. Adquirir bienes del futuro arrendatario, con el compromiso de darlos a éste en arrendamiento financiero;
 
-III. Preservar las artesanías propias de cada lugar y las técnicas empleadas para su elaboración, atendiendo a su calidad, representatividad, tradición, valor cultural y diseño;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-IV. Fomentar y promover la nueva producción artesanal como medio para desarrollar una actividad económica generadora de empleos; Se entenderá como nueva producción artesanal la creación de nuevos productos con técnicas artesanales o la colaboración con creativos fuera del sector artesanal o los demás que a juicio del propio instituto pueda considerarse nueva producción artesanal; y
+IV. Obtener préstamos y créditos de instituciones de crédito, de seguros y de fianzas del país o de entidades financieras del exterior, destinados a la realización de las operaciones que se autorizan en este capítulo así como de proveedores, fabricantes o constructores de los bienes que serán objeto de arrendamiento financiero;
 
-V. Promover la protección, rehabilitación y racionalización de las fuentes de recursos naturales que se utilizan en la elaboración de las artesanías, para procurar que esta actividad sea sustentable.
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-###### Artículo 30.
+IV-Bis. Emitir obligaciones subordinadas y demás títulos de crédito, en serie o en masa, para su colocación entre el gran público inversionista;
 
-Las Secretarías de Turismo y Economía, por conducto del Instituto, otorgarán permanentemente a los artesanos del Estado, servicios gratuitos de gestoría con el objeto de fomentar la distribución de sus productos; conocer mercados potenciales; proporcionar mejores condiciones de rentabilidad para las artesanías y contratar promoción especializada atendiendo al tipo de mercado, producto o rama artesanal de que se trate.
+V. Obtener préstamos y créditos de instituciones de crédito del país o de entidades financieras del exterior, para cubrir necesidades de liquidez, relacionadas con su objeto social;
 
-###### Artículo 31.
+VI. (DEROGADA, D.O.F. 3 DE ENERO DE 1990)
 
-El Instituto a petición de las organizaciones de artesanos debidamente constituidas asesorará y gestionará ante las autoridades competentes el otorgamiento de la certificación de origen de las artesanías oaxaqueñas.
+VII. (DEROGADA, D.O.F. 3 DE ENERO DE 1990)
 
-###### Artículo 32.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-En el proceso· de distribución de las artesanías el Instituto en coordinación con las dependencias o entidades del sector y grupos de artesanos, adoptarán los siguientes aspectos:
+VIII. Descontar, dar en garantía o negociar los títulos de crédito y afectar los derechos provenientes de los contratos de arrendamiento financiero o de las operaciones autorizadas a las arrendadoras, con las personas de las que reciban financiamiento, en términos de la fracción IV anterior así como afectar en fideicomiso irrevocable los títulos de crédito y los derechos provenientes de los contratos de arrendamiento financiero a efecto de garantizar el pago de las emisiones a que se refiere la fracción IV-Bis de este artículo;
 
-I. La ubicación de la artesanía en el mercado a un precio justo que haga rentable el desarrollo de esta actividad;
+IX. Constituir depósitos, a la vista y a plazo, en instituciones de crédito y bancos del extranjero, así como adquirir valores aprobados para el efecto por la Comisión Nacional de Valores;
 
-II. La utilización de mecanismos de promoción artesanal por región o rama, que facilite la identificación y adquisición de la artesanía oaxaqueña; y
+X. Adquirir muebles e inmuebles destinados a sus oficinas;
 
-III. La promoción de acuerdos interinstitucionales, que faciliten el intercambio de servicios e infraestructura de apoyo para exhibiciones nacionales e internacionales.
+XI. Las demás que en ésta u otras leyes se les autorice; y
 
-###### Artículo 33.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-Se podrá difundir la cultura artesanal del Estado, mediante la edición de atlas artesanales, catálogos, muestrarios, impresos, mensajes radiofónicos, televisivos, audios, videos y el establecimiento de museos artesanales.
+XII. Las demás operaciones análogas y conexas que, mediante reglas de carácter general, autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México.
 
-###### Artículo 34.
+###### ARTICULO 25.
 
-La (sic) Secretarías de Turismo y Economía, procurarán que en cada desarrollo turístico de la Entidad, se ubique un espacio permanente para la venta y exhibición de las artesanías oaxaqueñas, preferentemente de la localidad o región de que se trate.
+Por virtud del contrato de arrendamiento financiero, la arrendadora financiera se obliga a adquirir determinados bienes y a conceder su uso o goce temporal, a plazo forzoso, a una persona física o moral, obligándose ésta a pagar como contraprestación, que se liquidará en pagos parciales, según se convenga, una cantidad en dinero determinada o determinable, que cubra el valor de adquisición de los bienes, las cargas financieras y los demás accesorios, y adoptar al vencimiento del contrato alguna de las opciones terminales a que se refiera el artculo (sic) 27 de esta Ley.
 
-###### Artículo 35.
+Al establecer el plazo forzoso a que hace mención el párrafo anterior, deberán tenerse en cuenta las condiciones de liquidez de la arrendadora financiera, en función de los plazos de los financiamientos que, en su caso, haya contratado para adquirir los bienes.
 
-El Instituto proporcionará la asesoría, capacitación y apoyo logistico necesario para montar los espacios de exhibición y venta de artesanías, asimismo realizará las gestiones a que haya lugar, ante los Ayuntamientos y demás autoridades que correspondan con el objeto de fomentar la cultura artesanal.
+Los contratos de arrendamiento financiero deberán otorgarse por escrito y ratificarse ante la fe de notario público, corredor público titulado, o cualquier otro fedatario público y podrán inscribirse en el Registro Público de Comercio, a solicitud de los contratantes, sin perjuicios (sic) de hacerlo en otros Registros que las leyes determinen.
 
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2018)</small>
+###### ARTICULO 26.
 
-###### Artículo 35 Bis.
+La arrendataria podrá otorgar a la orden de la arrendadora financiera, uno a varios pagarés, según se convenga, cuyo importe total corresponda al precio pactado, por concepto de renta global, siempre que los vencimientos no sean posteriores al plazo del arrendamiento financiero y que se haga constar en tales documentos su procedencia de manera que queden suficientemente identificados. La transmisión de esos títulos implica en todo caso el traspaso de la parte correspondiente de los derechos derivados del contrato de arrendamiento financiero y demás derechos accesorios en la proporción que correspondan.
 
-El Instituto podrá celebrar convenios de colaboración con los Ayuntamientos para el uso de los servicios básicos en las exposiciones artesanales, a fin de brindar confort a productores y consumidores en aras de fomentar la comercialización y difusión artesanal.
+La suscripción y entrega de esto (sic) títulos de crédito, no se considerarán como pago de la contraprestación ni de sus parcialidades.
 
-###### Artículo 36.
+###### ARTICULO 27.
 
-La presente Ley fomentará el rechazo a todas las expresiones de discriminación dentro de la actividad artesanal por razón de edad, sexo, embarazo, estado civil, raza, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen étnico, posición social y económica, carácter físico, discapacidad o estado de salud.
+Al concluir el plazo del vencimiento del contrato una vez que se hayan cumplido todas las obligaciones, la arrendataria deberá adoptar alguna de las siguientes opciones terminales:
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
+I. La compra de los bienes a un precio inferior a su valor de adquisición, que quedará fijado en el contrato. En caso de que no se haya fijado, el precio debe ser inferior al valor de mercado a la fecha de compra, conforme a las bases que se establezcan en el contrato;
 
-###### Artículo 37.
+II. A prorrogar el plazo para continuar con el uso o goce temporal, pagando una renta inferior a los pagos periódicos que venía haciendo, conforme a las bases que se establezcan en el contrato; y
 
-Las Secretarías de Turismo y Economía con apoyo del Instituto, propiciarán que en cada evento de promoción turística en que participe, se promocionen y enaltezcan las tradiciones con respeto absoluto a los derechos fundamentales de libertad de expresión y creativa, de autoría y protección de sus obras, de participación, a la información y a la libre asociación.
+III. A participar con la arrendadora financiera en el precio de la venta de los bienes a un tercero, en las proporciones y términos que se convengan en el contrato.
+
+La Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general, está facultada para autorizar otras opciones terminales siempre que se cumplan los requisitos señalados en el primer párrafo del artículo 25 de esta Ley.
+
+En el contrato podrá convenirse la obligación de la arrendataria de adoptar, de antemano, alguna de las opciones antes señaladas, siendo responsable de los daños y perjuicios en caso de incumplimiento. La arrendadora financiera no podrá oponerse al ejercicio de dicha opción.
+
+Si en los términos del contrato, queda la arrendataria facultada para adoptar la opción terminal al finalizar el plazo obligatorio, ésta deberá notificar por escrito a la arrendadora financiera, por lo menos con un mes de anticipación al vencimiento del contrato, cuál de ellas va a adoptar, respondiendo de los daños y perjuicios en caso de omisión, con independencia de lo que se convenga en el contrato.
+
+###### ARTICULO 28.
+
+En los contratos de arrendamiento financiero, podrá establecerse que la entrega material de los bienes sea realizada directamente a la arrendataria por el proveedor, fabricante o constructor, en las fechas previamente convenidas, debiendo aquélla entregar constancia del recibo de los bienes a la arrendadora financiera. Salvo pacto en contrario, la obligación de pago del precio del arrendamiento financiero se inicia a partir de la firma del contrato, aunque no se haya hecho la entrega material de los bienes objeto del arrendamiento.
+
+En los casos a que se refiere el párrafo anterior, la arrendadora financiera estará obligada a entregar a la arrendataria los documentos necesarios para que la misma quede legitimada a fin de recibirlos directamente.
+
+###### ARTICULO 29.
+
+Salvo pacto en contrario, la arrendataria queda obligada a conservar los bienes en el estado que permita el uso normal que les corresponda, a dar el mantenimiento necesario para este propósito y, consecuentemente, a hacer por su cuenta las reparaciones que se requieran, así como a adquirir las refacciones e implementos necesarios, según se convenga en el contrato. Dichas refacciones, implementos y bienes que se adicionen a los que sean objeto del arrendamiento financiero, se considerarán incoporados (sic) a éstos y, consecuentemente, sujetos a los términos del contrato.
+
+La arrendataria debe servirse de los bienes solamente para el uso convenido, o conforme a la naturaleza y destino de éstos, siendo responsable de los daños que los bienes sufran por darles otro uso, o por su culpa o negligencia, o la de su (sic) empleados o terceros.
+
+###### ARTICULO 30.
+
+La arrendataria deberá seleccionar al proveedor, fabricante o constructor y autorizar los términos, condiciones y especificaciones que se contengan en el pedido u orden de compra, identificando y describiendo los bienes que se adquirirán.
+
+Las arrendadoras financieras no serán responsables de error u omisión en la descripción de los bienes objeto del arrendamiento contenida en el pedido u orden de compra. La firma de la arrendataria en cualquiera de estos últimos documentos implica, entre otros efectos, su conformidad con los términos, condiciones, descripciones y especificaciones ahí consignados.
+
+###### ARTICULO 31.
+
+Salvo pacto en contrario, son a riesgo de la arrendataria:
+
+I. Los vicios o defectos ocultos de los bienes que impidan su uso parcial o total. En este caso, la arrendadora financiera transmitirá a la arrendataria los derechos que como compradora tenga, para que ésta los ejercite en contra del vendedor, o la legitimará para que la arrendataria en su representación ejercite dichos derechos;
+
+II. La pérdida parcial o total de los bienes, aunque ésta se realice por causa de fuerza mayor o caso fortuito; y
+
+III. En general, todos los riesgos, pérdidas, robos, destrucción o daños que sufrieren los bienes dados en arrendamiento financiero.
+
+Frente a las eventualidades señaladas, la arrendataria no queda liberada del pago de la contraprestación, debiendo cubrirla en la forma que se haya convenido en el contrato.
+
+###### ARTICULO 32.
+
+En casos de despojo, perturbación o cualquier acto de tercero, que afecten el uso o goce de los bienes, la posesión de los mismos o bien la propiedad, la arrendataria tiene la obligación de realizar las acciones que correspondan para recuperar los bienes o defender el uso o goce de los mismos. Igualmente, estará obligada a ejercer las defensas que procedan, cuando medie cualquier acto o resolución de autoridad que afecten la posesión o la propiedad de los bienes.
+
+Cuando ocurra alguna de estas eventualidades, la arrendataria debe notificarlo a la arrendadora financiera, a más tardar el tercero (sic) día hábil siguiente al que tenga conocimiento de esas eventualidades, siendo responsable de los daños y perjuicios, si hubiese omisión. La arrendadora financiera, en caso de que no se efectúen o no se ejerciten adecuadamente las acciones o defensas, o por convenir así a sus intereses, podrá ejercitar directamente dichas acciones o defensas, sin perjuicio de las que realice la arrendataria.
+
+La arrendadora financiera estará obligada a legitimar a la arrendataria para que, en su representación, ejercite dicha (sic) acciones o defensas, cuando ello sea necesario.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+
+###### ARTICULO 33.
+
+En los contratos de arrendamiento financiero, al ser exigible la obligación y, ante el incumplimiento del arrendatario de las obligaciones consignadas en el mismo, la arrendadora financiera podrá pedir judicialmente la posesión de los bienes objeto del arrendamiento. El juez decretará de plano la posesión cuando le sea pedida en la demanda o durante el juicio, siempre que se acompañe el contrato correspondiente debidamente ratificado ante fedatario público y el estado de cuenta certificado por el contador de la organización auxiliar del crédito de que se trate, en los términos del artículo 47 de esta Ley.
+
+###### ARTICULO 34.
+
+En los contratos de arrendamiento financiero deberá establecerse la obligación de que se cuente con seguro o garantía que cubra, en los términos que se convengan, por lo menos, los riesgos de construcción, transportación, recepción e instalación, según la naturaleza de los bienes, los daños o pérdidas de los propios bienes, con motivo de su posesión y uso, así como las responsabilidades civiles y profesionales de cualquier naturaleza, susceptibles de causarse en virtud de la explotación o goce de los propios bienes, cuando se trate de bienes que pueda causar daños a terceros, en sus personas o en sus propiedades.
+
+En los contratos o documentos en que conste la garantía deberá señalarse como primer beneficiario a la arrendadora financiera, a fin de que, en primer lugar, con el importe de las indemnizaciones se cubran a ésta los saldos pendientes de la obligación concertada, o las responsabilidades a que queda obligada como propietaria de los bienes. Si el importe de las indemnizaciones pagadas, no cubre dichos saldos o responsabilidades, la arrendataria queda obligada al pago de los faltantes.
+
+###### ARTICULO 35.
+
+Las arrendadoras financieras podrán proceder a contratar los seguros a que se refiere el artículo anterior, en caso de que habiéndose pactado en el contrato que el seguro deba ser contratado por la arrendataria, ésta no realizara la contratación respectiva dentro de los tres días siguientes a la celebración del contrato, sin perjuicio de que contractualmente esta omisión se considere como causa de rescisión.
+
+Las primas y los gastos del seguro serán por cuenta de la arrendataria.
+
+###### ARTICULO 36.
+
+Las operaciones a que se refieren las fracciones IV y V del artículo 24 de esta Ley que celebren las arrendadoras financieras, se someterán en cuanto a sus límites y condiciones, a las reglas de carácter general que en su caso expida el Banco de México.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+La Secretaría de Hacienda y Crédito Público establecerá, oyendo a la Comisión Nacional Bancaria, mediante disposiciones de carácter general, las obligaciones contingentes que puedan asumir las arrendadoras financieras en los contratos de arrendamiento financiero, cuando dichas obligaciones contingentes sean distintas a las señaladas en la fracción VIII del artículo 24, señalando además, el monto máximo de estos pasivos que se les autorice contraer.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 37.
+
+El importe del capital pagado y reservas de capital de las arrendadoras financieras, deberá estar invertido en operaciones propias del objeto de estas sociedades, así como en los bienes muebles e inmuebles que están autorizadas a adquirir.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+
+No excederá del sesenta por ciento del capital pagado y reservas de capital, el importe de las inversiones en mobiliario, equipo e inmuebles destinados a sus oficinas, más el importe de la inversión en acciones de sociedades a que se refieren los artículos 68 y 69 de esta Ley y de aquéllas que se organicen exclusivamente para adquirir el dominio y administrar inmuebles, siempre que en alguno de éstos, propiedad de la sociedad, la arrendadora financiera tenga establecida o establezca su oficina principal o alguna sucursal u oficina de representación. La inversión en dichas acciones y los requisitos que deban satisfacer las sociedades a que se hace referencia, se sujetarán a las reglas generales que dicte la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+
+El importe de los gastos de instalación no podrá exceder del diez por ciento del capital pagado y reservas de capital.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
+
+La Secretaría de Hacienda y Crédito Público determinará mediante disposiciones de carácter general las reservas de capital computables para efectos de este artículo.
 
 ###### ARTICULO 37-A.
 
@@ -606,7 +702,7 @@ Las arrendadoras financieras, sin perjuicio de mantener el capital mínimo previ
 
 > <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(ADICIONADO, D.O.F 3 DE ENERO DE 1990)</small>
 
 Para efectos de este artículo, la Secretaría de Hacienda y Crédito Público, oyendo previamente a la Comisión Nacional Bancaria y al Banco de México, señalará los conceptos que se considerarán integrantes del capital contable de las arrendadoras financieras.
 
@@ -616,23 +712,39 @@ Para efectos de este artículo, la Secretaría de Hacienda y Crédito Público, 
 
 El importe máximo de las responsabilidades a favor de una arrendadora financiera y a cargo de una sola persona o grupo de personas que, por nexos patrimoniales o de responsabilidad, constituyan riesgos comunes, no excederá de los límites que determine la Secretaría de Hacienda y Crédito Público, oyendo a la Comisión Nacional Bancaria y de Valores.
 
-###### Artículo 38.
+###### ARTICULO 38.
 
-Cuando se traten de artesanías elaboradas por mujeres, el Instituto velará por que dicha producción garantice la autonomía, libre desarrollo e independencia de las mujeres.
+A las arrendadoras financieras les está prohibido:
 
-III. (sic) Capitalizar programas para la preservación y fomento de la tradición artesanal;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-IV. Otorgar créditos para constitución de comercializadoras dirigidas por artesanos; y
+I. Operar con sus propias acciones, salvo en los casos previstos en la Ley del Mercado de Valores;
 
-V. Financiar campañas de difusión y publicidad de los productos artesanales oaxaqueños.
+II. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
-El Fondo Artesanal podrá constituirse por las aportaciones estatales, federales, de la iniciativa privada, aportaciones particulares y de organismos internacionales.
+III. Celebrar operaciones en virtud de las cuales resulten o puedan resultar deudores de la arrendadora, los directores generales o gerentes generales, salvo que correspondan a préstamos de carácter laboral; los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos de la arrendadora; o los ascendientes o descendientes en primer grado o cónyuges de las personas anteriores. La violación a lo previsto en esta fracción se sancionará conforme a lo dispuesto en el artículo 96 de esta Ley;
 
-El Ejecutivo, a través de la Secretaria de Finanzas, destinará en el presupuesto de Egresos del Estado de Oaxaca, los recursos financieros necesarios para el cumplimiento de los objetivos de esta Ley.
+IV. Recibir depósitos bancarios de dinero;
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 1547 SE ADVIERTE QUE EL PRESENTE ORDENAMIENTO FUE PUBLICADO EN EL P.O. DE 27 DE ABRIL DE 2013, SIN LOS ARTÍCULOS 39 Y 40 (PÁGINA 5), POR LO QUE SE RESPETÓ LA LITERALIDAD DEL P.O. DE 15 DE SEPTIEMBRE DE 2018 (PÁGINA 4)]</small>
+V. Otorgar fianzas o cauciones;
 
-### CAPÍTULO IV. DEL PREMIO ARTESANAL
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
+
+VI. Adquirir bienes, títulos o valores, mobiliario o equipo no destinados a sus oficinas o a celebrar operaciones propias de su objeto social, que no deban conservar en su activo. Si por adjudicación o cualquier otra causa adquiriesen tales bienes, deberán proceder a su venta, la que se realizará, en el plazo de un año, si se trata de bienes muebles, o de dos años, si son inmuebles.
+
+Cuando se trate de bienes que las arrendadoras financieras hayan recuperado, por incumplimiento de las arrendatarias, podrán ser dados en arrendamiento financiero a terceros, si las circunstancias lo permiten. En caso contrario, se procederá en los términos del párrafo anterior;
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
+
+VII. Realizar operaciones con oro, plata y divisas. Se exceptúan las operaciones con divisas relacionadas con financiamientos o con contratos que celebren en moneda extranjera, o cuando se trate de operaciones en el extranjero vinculadas a su objeto social, las cuales se ajustarán en todo momento a las disposiciones de carácter general que, en su caso, expida el Banco de México; y
+
+VIII. Realizar las demás operaciones que no les estén expresamente autorizadas.
+
+> <small>(ADICIONADO CON LOS ARTICULO QUE LO INTEGRAN, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+### CAPITULO II BIS. De las Sociedades de Ahorro y Préstamo
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 38-A.
 
@@ -782,27 +894,15 @@ En todo caso, los integrantes de los grupos señalados en el párrafo anterior d
 
 Las cajas de ahorro a que hace mención la legislación laboral, no estarán sujetas a las disposiciones de esta Ley.
 
-### CAPÍTULO V. DE LA CAPACITACIÓN
+### CAPITULO III. De las Uniones de Crédito
 
-###### Artículo 39.
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
-A efecto de fomentar las artesanías a nivel estatal, el Instituto promoverá diversas acciones y entre las cuales, de manera ejemplificativa podrán ser las siguientes:
+###### ARTICULO 39.
 
-I. …
+Las uniones de crédito a que se refiere este capítulo, gozarán de autorización para operar en las ramas económicas en que se ubiquen las actividades de sus socios.
 
-II. …
-
-III. …
-
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2018)</small>
-
-IV. Reconocer oficialmente la trayectoria artesanal, y,
-
-> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2018)</small>
-
-V. Las demás que a juicio del Instituto tengan los mismos efectos de la política artesanal en Oaxaca.
-
-Artículo 41 (sic).- El Instituto diseñará políticas públicas para cumplir con los estándares nacionales e internacionales en materia de acceso a la información y transparencia en cuanto al tema de la producción artesanal. Estas políticas públicas incluirán la transparencia y rendición de cuentas de la asignación, eficacia, eficiencia y manejo del Fondo Artesanal.
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 40.
 
@@ -860,63 +960,9 @@ II. Todas las acciones, ya sean las representativas del capital sin derecho a re
 
 III. Para la transmisión de las acciones se requerirá indispensablemente la autorización del consejo de administración de la sociedad.
 
-###### Artículo 42.
+###### ARTICULO 42.
 
-Corresponde evaluar el correcto desempeño de la administración del Fondo Artesanal a la Junta Directiva.
-
-TRANSITORIOS:
-
-PRIMERO.- La presente Ley, entrará en vigor, un año después de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación de este Decreto.
-
-TERCERO.- El Ejecutivo deberá expandir (sic) el reglamento de esta ley, en un plazo no mayor a sesenta días naturales posteriores a la publicación del presente Decreto.
-
-CUARTO.- El presente Decreto deroga todas las disposiciones legales o administrativas de igual o menor rango, que se opongan o contradigan al presente Decreto.
-
-Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
-
-DADO EN EL SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- San Raymundo Jalpan, Centro, Oaxaca a 17 de abril de 2013.
-
-DIP. HÉCTOR LORENZO INOCENTE.
-
-PRESIDENTE.
-
-DIP. LETICIA ÁLVAREZ MARTÍNEZ.
-
-SECRETARIA.
-
-DIP. CLARIVEL CONSTANZA RIVERA CASTILLO.
-
-SECRETARIA.
-
-Por lo tanto mando que se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Palacio de Gobierno, Centro, Oax., a 24 de abril del 2013.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
-
-LIC. GABINO CUÉ MONTEAGUDO.
-
-EL SECRETARIO GENERAL DE GOBIERNO.
-
-LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
-
-Y lo comunico a usted, para su conocimiento y fines consiguientes.
-
-SUFRAGIO EFECTIVO. NO REELECCION.
-
-"EL RESPETO AL DERECHO AJENO ES LA PAZ"
-
-Tlalixtac de Cabrera, Centro, Oax. a 24 de abril del 2013.
-
-EL SECRETARIO GENERAL DE GOBIERNO.
-
-LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 29 DE FEBRERO DE 2016.
+(DEROGADO, D.O.F. 15 DE JULIO DE 1993)
 
 ###### ARTICULO 43.
 
@@ -1046,7 +1092,9 @@ Cuando las inversiones hechas en los términos de la fracción VI del artículo 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 3 DE ENERO DE 1990)</small>
 
-### CAPÍTULO VI. DEL REGISTRO ESTATAL DE ARTESANOS Y DE LOS COMERCIANTES DE LA ARTESANÍA
+### CAPITULO III Bis. De las empresas de factoraje financiero
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 45-A.
 
@@ -1098,9 +1146,9 @@ La administración y cobranza de los derechos de crédito, objeto de los contrat
 
 Previamente a la celebración de los contratos de factoraje, las empresas de factoraje financiero podrán:
 
-I. Celebrar contratos de promesa de factoraje;
+I.- Celebrar contratos de promesa de factoraje;
 
-II. Celebrar contratos con los deudores de derechos de crédito, constituidos a favor de sus proveedores de bienes o servicios, comprometiéndose la empresa de factoraje financiero a adquirir dichos derechos de crédito para el caso de aceptación de los propios proveedores.
+II.- Celebrar contratos con los deudores de derechos de crédito, constituidos a favor de sus proveedores de bienes o servicios, comprometiéndose la empresa de factoraje financiero a adquirir dichos derechos de crédito para el caso de aceptación de los propios proveedores.
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1250,35 +1298,35 @@ I. Operar con sus propias acciones, salvo en los casos previstos en la Ley del M
 
 II. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
-III.- Celebrar operaciones, en virtud de las cuales resulten o puedan resultar deudores de la empresa de factoraje financiero, los directores generales o gerentes generales, salvo que correspondan a préstamos de carácter laboral; los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos de la empresa de factoraje financiero; o los ascendientes o descendientes en primer grado o cónyuges de las personas anteriores. La violación a lo previsto en esta fracción se sancionará conforme a lo dispuesto en el artículo 96 de esta Ley;
+III. Celebrar operaciones, en virtud de las cuales resulten o puedan resultar deudores de la empresa de factoraje financiero, los directores generales o gerentes generales, salvo que correspondan a préstamos de carácter laboral; los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos de la empresa de factoraje financiero; o los ascendientes o descendientes en primer grado o cónyuges de las personas anteriores. La violación a lo previsto en esta fracción se sancionará conforme a lo dispuesto en el artículo 96 de esta Ley;
 
-IV.- Recibir depósitos bancarios de dinero;
+IV. Recibir depósitos bancarios de dinero;
 
-V.- Otorgar fianzas o cauciones;
+V. Otorgar fianzas o cauciones;
 
-VI.- Enajenar los derechos de crédito objeto de un contrato de factoraje financiero al mismo cliente del que los adquirió, o a empresas vinculadas con éste o integradas con él en un mismo grupo;
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-VII.- Adquirir bienes, mobiliario o equipo no destinados a sus oficinas. Si por adjudicación o cualquier otra causa adquiriesen tales bienes, deberán proceder a su venta, la que se realizará, en el plazo de un año, si se trata de bienes muebles, o de dos años, si son inmuebles;
+VI. Enajenar los derechos de crédito objeto de un contrato de factoraje financiero al mismo cliente del que los adquirió, o a empresas vinculadas con éste o integradas con él en un mismo grupo;
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-VIII.- Realizar operaciones con oro, plata y divisas. Se exceptúan las operaciones de divisas relacionadas con financiamientos o contratos que celebren en moneda extranjera, o cuando se trate de operaciones en el extranjero vinculadas a su objeto social, las cuales se ajustarán en todo momento a las disposiciones de carácter general que, en su caso, expida el Banco de México;
+VII. Adquirir bienes, mobiliario o equipo no destinados a sus oficinas. Si por adjudicación o cualquier otra causa adquiriesen tales bienes, deberán proceder a su venta, la que se realizará, en el plazo de un año, si se trata de bienes muebles, o de dos años, si son inmuebles;
 
-IX.- Adquirir derechos de crédito a cargo de subsidiarias, filiales, controladoras o accionistas de las propias empresas de factoraje financiero, a excepción de la adquisición de instrumentos financieros emitidos por las instituciones de crédito;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-X.- (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
+VIII. Realizar operaciones con oro, plata y divisas. Se exceptúan las operaciones de divisas relacionadas con financiamientos o contratos que celebren en moneda extranjera, o cuando se trate de operaciones en el extranjero vinculadas a su objeto social, las cuales se ajustarán en todo momento a las disposiciones de carácter general que, en su caso, expida el Banco de México;
 
-XI.- Descontar, garantizar y en general, otorgar créditos distintos de los expresamente autorizados en esta Ley;
+IX. Adquirir derechos de crédito a cargo de subsidiarias, filiales, controladoras o accionistas de las propias empresas de factoraje financiero, a excepción de la adquisición de instrumentos financieros emitidos por las instituciones de crédito;
 
-XII.- Realizar las demás operaciones que no les están expresamente autorizadas.
+X. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
+
+XI. Descontar, garantizar y en general, otorgar créditos distintos de los expresamente autorizados en esta Ley;
+
+XII. Realizar las demás operaciones que no les están expresamente autorizadas.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-### CAPÍTULO VII. DE LA ASOCIACIÓN Y ORGANIZACIÓN DE LOS ARTESANOS
+### CAPITULO III BIS-I. De las Filiales de Instituciones Financieras del Exterior
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 45 Bis 1.
 
@@ -1414,7 +1462,7 @@ I. Descripción del acto de inspección a ser realizado; y
 
 II. Las disposiciones legales pertinentes al acto de inspección objeto de la solicitud.
 
-### CAPÍTULO VIII. DE LA SUSTENTABILIDAD DE LAS ACTIVIDADES ARTESANALES
+### CAPITULO IV. Disposiciones Comunes
 
 ###### ARTICULO 46.
 
@@ -1512,17 +1560,19 @@ Las organizaciones auxiliares del crédito, sólo podrán descontar su cartera c
 
 Las organizaciones auxiliares del crédito y las casas de cambio, deberán presentar la información y documentación que en el ámbito de sus respectivas competencias, le soliciten la Secretaría de Hacienda y Crédito Público, el Banco de México y la Comisión Nacional Bancaria, dentro de los plazos que las mismas establezcan.
 
-> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(ADICIONADO PRIMER PARRAFO [N. DE E. REFORMADO PRIMER PARRAFO], D.O.F. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 51-B.
 
-El Gobierno Federal y las entidades de la Administración Pública Paraestatal, no podrán responsabilizarse ni garantizar el resultado de las operaciones que realicen las organizaciones auxiliares del crédito y casas de cambio así como tampoco asumir responsabilidad alguna respecto del cumplimiento de las obligaciones contraídas con sus socios o con terceros.
+El Gobierno Federal y las entidades de la Administración Pública Paraestatal no podrán responsabilizarse ni garantizar el resultado de las operaciones que realicen las organizaciones auxiliares del crédito y casas de cambio así como tampoco asumir responsabilidad alguna de las obligaciones contraídas con sus socios o con terceros. Lo anterior salvo que, en el caso de las organizaciones auxiliares del crédito a que se refiere el artículo 38-A de esta Ley, exista provisión presupuestaria específica, aprobada por autoridad competente.
 
 Las organizaciones auxiliares del crédito y casas de cambio, deberán mantener en un lugar visible de sus oficinas lo dispuesto en el párrafo anterior así como señalarse expresamente en su publicidad, en los términos que establezca la Comisión Nacional Bancaria a través de disposiciones de carácter general.
 
 ## TITULO TERCERO. De la Contabilidad, Inspección y Vigilancia
 
-### CAPÍTULO IX. DEL FOMENTO A LA PRODUCCIÓN DE ARTESANÍAS
+### CAPITULO I. De la Contabilidad
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 52.
 
@@ -1598,9 +1648,9 @@ Sin perjuicio de las normas establecidas en este artículo, la Comisión Naciona
 
 Cuando de los estados de situación mensual que las organizaciones están obligadas a presentar a la Comisión Nacional Bancaria, resulte que aquéllas no guardan las proporciones prescritas en esta Ley, no incurrirán en responsabilidad, cuando la divergencia no exceda de un 4% de dichas proporciones, y siempre que acrediten, además, con sus estados y apuntes de contabilidad, a satisfacción de la propia Comisión, que la infracción tiene carácter excepcional.
 
-### CAPÍTULO X. DEL IMPULSO A LA DISTRIBUCIÓN Y COMERCIALIZACIÓN DE LAS ARTESANÍAS
+### CAPITULO II. De la Inspección y Vigilancia
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 56.
 
@@ -1614,7 +1664,7 @@ Las organizaciones auxiliares del crédito y casas de cambio deberán rendir a l
 
 Las organizaciones auxiliares del crédito y casas de cambio están obligadas a permitir las visitas de inspección. El visitador o inspector de la Comisión Nacional Bancaria que tenga a su cargo la inspección, deberá ser atendido por el principal funcionario de la organización o casa de cambio de que se trate y en ausencia de éste, por el funcionario que lo supla o por el de jerarquía inmediata inferior que se encuentre.
 
-> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE1993)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
 La Comisión Nacional Bancaria no está obligada a llevar a cabo visitas de inspección a solicitud de particulares ni a proporcionar a éstos ninguna información sobre dichas inspecciones.
 
@@ -1690,9 +1740,9 @@ Los procedimientos de inspección, suspensión y clausura a que se refiere el p�
 
 ## TITULO CUARTO. De las Facultades de las Autoridades
 
-### CAPÍTULO XI. DE LA PROMOCIÓN TURÍSTICA DE LAS ARTESANÍAS
+### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 65.
 
@@ -1828,7 +1878,9 @@ La Comisión Nacional Bancaria podrá proveer lo necesario para que las organiza
 
 Bis.- (DEROGADO, D.O.F. 15 DE JULIO DE 1993)
 
-### CAPÍTULO XII. DE LOS DERECHOS FUNDAMENTALES DE LAS Y LOS ARTESANOS
+### CAPITULO II. De la Revocación y Liquidación
+
+(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993))
 
 ###### ARTICULO 78.
 
@@ -1940,7 +1992,13 @@ II. Compra y venta de cheques de viajero denominados en moneda extranjera;
 
 III. Compra y venta de piezas metálicas acuñadas en forma de moneda, y
 
-IV. Compra de documentos a la vista denominados y pagaderos en moneda extranjera, a cargo de entidades financieras hasta por un monto equivalente no superior a tres mil dólares de los Estados Unidos de América por documento. Estos documentos sólo podrán venderlos a instituciones de crédito y casas de cambio.
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
+
+IV. Compra de documentos a la vista denominados y pagaderos en moneda extranjera, a cargo de entidades financieras hasta por un monto equivalente de diez mil dólares de los Estados Unidos de América por cada transacción. Estos documentos sólo podrán venderlos a las instituciones de crédito y casas de cambio;
+
+> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2000)</small>
+
+V. Compra y venta de divisas mediante transferencias de fondos a través de instituciones de crédito.
 
 En la celebración de las operaciones anteriores, el contravalor deberá entregarse en el mismo acto en que se lleven a cabo y únicamente podrán liquidarse mediante la entrega de efectivo, cheques de viajero o cheques denominados en moneda nacional.
 
@@ -1978,7 +2036,7 @@ Las solicitudes de autorización para operar casas de cambio deberán acompañar
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-I.- Proyecto de estatutos sociales de la sociedad anónima correspondiente, relación de socios que habrán de integrarla con el capital que suscribirán, además de la documentación que la Secretaría de Hacienda y Crédito Público estime conveniente para avalar su solicitud;
+I. Proyecto de estatutos sociales de la sociedad anónima correspondiente, relación de socios que habrán de integrarla con el capital que suscribirán, además de la documentación que la Secretaría de Hacienda y Crédito Público estime conveniente para avalar su solicitud;
 
 II. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
@@ -1990,7 +2048,7 @@ III. Comprobante de depósito en moneda nacional constituido en Nacional Financi
 
 En los casos de revocación a que se refiere la fracción I del artículo 87 de esta Ley se hará efectivo el depósito de garantía, aplicándose al fisco federal el importe original del depósito mencionado en el párrafo anterior. En el supuesto de que se deniegue la autorización solicitada, exista desistimiento por parte de los interesados o se inicien operaciones en los términos previstos en esta Ley, se devolverá al solicitante el principal y accesorios del depósito referido.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. F. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 84.
 
@@ -2000,9 +2058,9 @@ I. Contarán con un local exclusivo para la realización de sus operaciones;
 
 II Deberán proporcionar a la Secretaría de Hacienda y Crédito Público o al Banco de México, su posición en divisas cuando le sea solicitada;
 
-III.- (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
+III. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
-IV.- (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
+IV. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
@@ -2010,13 +2068,11 @@ V. Sus operaciones con divisas y metales preciosos, deberán ajustarse a las dis
 
 A petición del Banco de México, las casas de cambio estarán obligadas a darle a conocer sus posiciones de divisas, incluyendo metales preciosos y a transferirle sus activos en esos efectos, que tengan en exceso de sus obligaciones en los mismos. La transferencia se hará al precio a que se hayan cotizado en el mercado las divisas, en la fecha en que el Banco de México dicte el acuerdo respectivo, y
 
-> <small>(REFORMADA, D.O. F. 27 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 VI. Proporcionarán a la Comisión Nacional Bancaria sus estados de contabilidad, información financiera y todo lo relacionado con su giro, en la forma y términos que la propia Comisión señale mediante reglas de carácter general, y les serán aplicables los artículos 52 y 53 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
-
-ArtIculo 84-A.- El importe del capital pagado y reservas de capital de las casas de cambio, deberá ser invertido en los términos y condiciones que mediante reglas de carácter general determine la Secretaría de Hacienda y Crédito Público, oyendo previamente la opinión del Banco de México y la Comisión Nacional Bancaria.
 
 ###### ARTICULO 84-A.
 
@@ -2553,6 +2609,18 @@ D.O.F. 17 DE MAYO DE 1999.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE ENERO DE 2000.
+
+> <small>(F. DE E., D.O.F. 13 DE ENERO DE 2000)</small>
+
+## TRANSITORIO
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 2000.
+
+UNICO.- La adición al artículo 51-B de la Ley mencionada en el artículo anterior entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1762.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA”.]
 
