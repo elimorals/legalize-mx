@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-que-crea-la-escuela-normal-superior-del-estado-131
 country: "mx"
 rank: "ley_organica"
 publication_date: "1961-11-04"
-last_updated: "1961-11-04"
+last_updated: "1967-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA QUE CREA LA ESCUELA NORMAL SUPERIOR DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 1967.
 
 Ley publicada en el Periódico Oficial, el sábado 4 de noviembre de 1961.
 
@@ -39,67 +39,81 @@ LEY ORGANICA QUE CREA LA ESCUELA NORMAL SUPERIOR DEL ESTADO DE NUEVO LEON
 
 - Se crea una Institución Educativa que se denominará Escuela Normal Superior del Estado de Nuevo León.
 
+> <small>(REFORMADO, P.O. 3 JUNIO DE 1967)</small>
+
 ###### ARTICULO SEGUNDO
 
-- Dicha Institución dependerá del Ejecutivo del Estado y tendrá como finalidades;
+- Esta Institución dependerá directamente del Ejecutivo del Estado y tendrá como finalidades:
 
-a).- Ampliar y profundizar la cultura general y pedagogía a los maestros graduados en Escuelas Normales Primarias Oficiales, o particulares incorporadas.
+a).- Ampliar y profundizar la cultura general y pedagógica de los maestros graduados en las Escuelas Normales Primarias Oficiales o Particulares Incorporadas, y en general de las personas que ejerzan la docencia en instituciones educativas post-primarias.
 
-b).- Capacitar científica y pedagógicamente a los maestros para impartir la Educación Media y Normal.
+b).- Formar maestros especializados para impartir la educación media y normal, capacitándolos científica y pedagógicamente.
+
+c).- Promover y orientar la investigación y la experimentación educativas.
+
+d).- Auspiciar actividades de desenvolvimiento cultural y de mejoramiento del sistema educativo del Estado.
 
 ###### ARTICULO TERCERO
 
 - La Escuela Normal Superior del Estado de Nuevo León estará organizada por especialidades, de acuerdo con las materias que se impartan en los Planteles de Segunda Enseñanza y Normal.
 
+> <small>(REFORMADO, P.O. 3 JUNIO DE 1967)</small>
+
 ###### ARTICULO CUARTO
 
-- La Escuela Normal Superior impartirá cursos regulares con plan de cuatro años, y cursos intensivos sujetos a reglamentación especial.
+- El plantel impartirá Cursos Regulares con plan de estudios de cuatro años, y Cursos Intensivos con plan de seis años.
 
-###### ARTICULO QUINTO
+> <small>(REFORMADO, P.O. 3 JUNIO DE 1967)</small>
 
-- Las especialidades a que se refiere el Artículo anterior, sin perjuicio de crear las que sean necesarias, serán las siguientes:
+###### ARTICULO QUINTO.
 
-Maestro en Lengua y Literatura.
+Las Especialidades que se impartirán, sin perjuicio de crear las que sean necesarias, serán las siguientes:
 
-Maestro en Matemáticas.
+Lengua y Literatura Españolas.
 
-Maestro en Biología.
+Matemáticas.
 
-Maestro en Ciencias Sociales.
+Biología.
 
-Maestro en Física y Química.
+Ciencias Sociales.
 
-Maestro en Pedagogía.
+Física y Química.
 
-Maestro en Idiomas.
+Pedagogía.
 
-Maestro en Sicología.
+Ingles y Francés.
 
-Maestro en Artes Plásticas.
+Psicología.
 
-Maestro en Talleres y
+Actividades Artísticas.
 
-Orientador Vocacional.
+Actividades tecnológicas.
 
-###### ARTICULO SEXTO
+Orientación Vocacional.
 
-- La Escuela Normal Superior admitirá como alumnos:
+> <small>(REFORMADO, P.O. 3 JUNIO DE 1967)</small>
 
-a).- A maestros normalistas titulados que hayan ejercido el Magisterio en Escuelas de Segunda Enseñanza, por un término no menor de un año.
+###### ARTICULO SEXTO.
 
-b).- A los maestros normalistas titulados que hubieren ejercitado el Magisterio en las Escuelas Primarias, por un tiempo no menor de dos años después de su graduación.
+La Escuela Normal Superior admitirá como alumnos:
 
-c).- A los bachilleres que hubieren cursado un año de preparación pedagógica.
+a).- A maestros normalistas titulados.
 
-d).- A los profesionistas universitarios o técnicos.
+b).- A bachilleres que hubieren cursado un año de preparación pedagógica en esta escuela.
 
-###### ARTICULO SÉPTIMO
+c).- A profesionistas universitarios o técnicos de nivel terciario.
 
-- El personal directivo de esta institución estará integrado por un Director y un Sub-Director-Secretario.
+> <small>(REFORMADO, P.O. 3 JUNIO DE 1967)</small>
 
-###### ARTICULO OCTAVO
+###### ARTICULO SÉPTIMO.
 
-- Habrá un Consejo Técnico presidido por el Director de la Escuela e integrado por el SubDirector –Secretario y el Personal Docente.
+El personal directivo de esta institución estará integrado por el Director, el Sub-Director Secretario de los Cursos Regulares, el Sub-Director Secretario de los Cursos Intensivos y el Jefe de Laboratorio de Psicopedagogía.
+
+> <small>(REFORMADO, P.O. 3 JUNIO DE 1967)</small>
+
+###### ARTICULO OCTAVO.
+
+Habrá un Consejo Técnico que estará presidido por el Director de la Escuela e integrado por los Sub-Directores Secretarios, el Jefe del Laboratorio de Psicopedagogía, los Jefes de Colegio y representación estudiantil de un alumno por cada Especialidad. Para los Cursos Intensivos se organizará un Consejo Técnico con igual estructura.
 
 ###### ARTICULO NOVENO
 
@@ -116,6 +130,24 @@ d).- A los profesionistas universitarios o técnicos.
 ###### ARTICULO DECIMO SEGUNDO
 
 - Anualmente se fijará en el Presupuesto de Egresos la partida suficiente para el funcionamiento de esta Institución.
+
+> <small>(ADICIONADO, P.O. 3 JUNIO DE 1967)</small>
+
+###### ARTICULO DECIMO TERCERO.
+
+La Escuela Normal Superior otorgará a los alumnos que terminen los estudios correspondientes y cumplan con los requisitos que fija el Reglamento, el grado de Maestro en la Especialidad que hayan cursado.
+
+> <small>(ADICIONADO, P.O. 3 JUNIO DE 1967)</small>
+
+###### ARTICULO DECIMO CUARTO.
+
+Las personas que realicen estudios aislados o cursos especiales de orden cultural o pedagógico, pero sin ser consideradas como alumnos regulares del plantel, podrán recibir diplomas o certificados.
+
+> <small>(ADICIONADO, P.O. 3 JUNIO DE 1967)</small>
+
+###### ARTICULO DECIMO QUINTO.
+
+El personal docente, administrativo y de intendencia de la Escuela Normal Superior gozará de las prestaciones que el Estado otorga a todo trabajador de la enseñanza a su servicio.
 
 TRANSITORIOS:
 
@@ -136,3 +168,11 @@ LIC. EDUARDO LIVAS VILLARREAL
 El Secretario General de Gobierno.
 
 PROF. HUMBERTO RAMOS LOZANO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE JUNIO DE 1967.
+
+###### ARTICULO UNICO.
+
+El presente Decreto empezará a surtir sus efectos desde el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
