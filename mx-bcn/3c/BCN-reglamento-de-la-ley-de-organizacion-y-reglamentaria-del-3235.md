@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-de-organizacion-y-reglamentaria-del-3235"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-13"
-last_updated: "1993-12-24"
+last_updated: "1999-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY DE ORGANIZACION Y REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 1999.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de agosto de 1993.
 
@@ -47,9 +47,13 @@ Compete a la Dirección del Registro Público de la Propiedad y del Comercio com
 
 Los errores materiales que se adviertan en los asientos registrales serán rectificados previa solicitud que por escrito presente la parte interesada.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1999)</small>
+
 ###### ARTICULO 4.
 
-El Registrador no podrá rectificar algún error, si no se acredita con los documentos conducentes por parte del interesado.
+El Registro Público de la Propiedad y del Comercio, estará a cargo de la Dependencia del Poder Ejecutivo denominada Dirección del Registro Público de la Propiedad y del Comercio, con sede en la Capital del Estado y se desempeñará, por lo que se refiere a las inscripciones de los documentos objeto de él, por los registradores que funcionarán en las circunscripciones municipales que conforman a esta Entidad.
+
+El titular del Registro Público de la Propiedad y del Comercio, será el Director de la Dependencia del Ejecutivo a que se refiere este Artículo, quien con el Subdirector, Registradores y demás personal administrativo, integrarán dicha Dependencia.
 
 ###### ARTICULO 5.
 
@@ -264,3 +268,21 @@ P.O. 24 DE DICIEMBRE DE 1993.
 ###### ARTICULO PRIMERO.
 
 El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE SEPTIEMBRE DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El titular de la Oficina Registral en el Municipio de Playas de Rosarito, previo a consumar inscripciones, anotaciones o cancelaciones o a expedir o autorizar certificaciones de actos jurídicos conforme a la Ley que regula la materia y, cuyos antecedentes consten en los archivos de las Oficinas Registrales del municipio de Tijuana, procederá a solicitar al Registrador competente, copia certificada de éstos, para que formen parte del archivo histórico-registral de la nueva Oficina, causándose previamente los derechos respectivos conforme a la Ley de Ingresos vigente para el Estado de Baja California.
+
+###### ARTICULO TERCERO.
+
+Practicado el proceso consignado en el Artículo anterior, el Registrador Público de la Propiedad y del Comercio en Playas de Rosarito, notificará oficialmente esa circunstancia al Registrador de la jurisdicción municipal correspondiente, para que este último haga constar en la partida inicial la referencia de que ésta fue trasladada a los archivos del Registro Público de Playas de Rosarito.
+
+###### ARTICULO CUARTO.
+
+El Registrador Público de la Propiedad y de Comercio en el municipio de Tijuana, a partir de la fecha de publicación de este Decreto, carecerá de facultad para consumar nuevas inscripciones, expedir o autorizar certificación alguna respecto a inscripciones, anotaciones y cancelaciones de actos jurídicos que consten en el archivo y que resulten de actual competencia de la Oficina Registral con sede en el Municipio de Playas de Rosarito.
