@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-consejo-de-colaboracion-municipal-20330"
 country: "mx"
 rank: "ley"
 publication_date: "1950-01-05"
-last_updated: "1950-01-05"
+last_updated: "2004-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL CONSEJO DE COLABORACION MUNICIPAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 5 de enero de 1950.
 
@@ -145,6 +145,10 @@ Del Centro Bancario Local.
 
 De la Organización Obrera Mayoritaria en Guadalajara, a juicio del Departamento del Trabajo.
 
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2004)</small>
+
+IV. Un representante de la Sociedad Civil, que represente los intereses de los discapacitados quien participará emitiendo opiniones y velando por los intereses de las personas con discapacidad en la realización de obras en las que resulten involucrados; el cual deberá ser designado según el reglamento que para tal efecto emita el municipio.
+
 En los casos de aportación económica del Estado para determinadas obras, también formarán parte del Consejo el Jefe del Departamento de Economía y Hacienda del Estado, o el Representante que él nombre.
 
 ###### ARTICULO 18o.
@@ -208,3 +212,9 @@ J. JESUS GONZALEZ GALLO
 EL SRIO. GRAL. DE GOBIERNO
 
 LIC. CARLOS G. GUZMAN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE MAYO DE 2004.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
