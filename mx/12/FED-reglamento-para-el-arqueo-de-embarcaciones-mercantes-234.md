@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-arqueo-de-embarcaciones-mercantes-234"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-10-31"
-last_updated: "1988-10-31"
+last_updated: "1988-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=234&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1988-10-14"
 ---
 # REGLAMENTO PARA EL ARQUEO DE EMBARCACIONES MERCANTES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE DICIEMBRE DE 1988 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO PARA EL ARQUEO DE EMBARCACIONES MERCANTES
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL D.O.F. DE 5 DE DICIEMBRE DE 1988.</small>
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 31 de octubre de 1988.
 
@@ -123,7 +123,7 @@ ARQUEO BRUTO:
 
 I.- Para embarcaciones con eslora de arqueo inferior a 24 metros, el arqueo bruto se calculará de acuerdo con la fórmula siguiente:
 
-> <small>N. DE E. VÉASE FÓRMULA EN EL D.O.F. DEL 31 DE OCTUBRE DE 1988, PÁGINAS 33 A LA 34.</small>
+> <small>N. DE E. VÉASE FÓRMULA EN EL D.O.F. DEL 31 DE OCTUBRE DE 1988, PÁGINAS 33 A LA 34; Y F. DE E., D.O.F. DEL 5 DE DICIEMBRE DE 1988, PÁGINA 70.</small>
 
 Para efectos de la aplicación del Convenio Internacional para Prevenir la Contaminación por los Buques, 1973, a los buques petroleros dotados con tanques de lastre separado, el arqueo de dichos tanques se calculará según la fórmula siguiente:
 
@@ -309,11 +309,11 @@ Las embarcaciones de bandera extranjera, o matriculadas en otros países con esl
 
 Las embarcaciones matriculadas o abanderadas en países no miembros contratantes del Convenio a que se refiere el Artículo anterior, deberán contar con el Certificado de Arqueo expedido por la aplicación de las disposiciones de otros convenios internacionales.
 
+> <small>(F. DE E., D.O.F. 5 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 36.
 
-A partir del 18 de julio de 1994, las embarcaciones “nuevas” de cualquier país, con eslora de 24 o más metros, deberán contar con Certificado Internacional de Arqueo similar a los que establece el presente Reglamento.
-
-Este Reglamento no se aplicará a las embarcaciones “existentes”.
+A partir del 18 de julio de 1994, las embarcaciones “nuevas” y las “existentes” de cualquier país, con eslora de 24 o más metros, deberán contar con Certificado Internacional de Arqueo similar a los que establece el presente Reglamento.
 
 ###### ARTICULO 37.
 
