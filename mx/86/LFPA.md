@@ -4,7 +4,7 @@ identifier: "LFPA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1994-08-04"
-last_updated: "1996-12-24"
+last_updated: "2000-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2570&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPA"
 
 LEY FEDERAL DE PROCEDIMIENTO ADMINISTRATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ABRIL DE 2000.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de agosto de 1994.
 
@@ -44,13 +44,19 @@ LEY FEDERAL DE PROCEDIMIENTO ADMINISTRATIVO
 
 ART. 1.- Las disposiciones de esta ley son de orden e interés públicos, y se aplicarán a los actos, procedimientos y resoluciones de la Administración Pública Federal centralizada, sin perjuicio de lo dispuesto en los Tratados Internacionales de los que México sea parte.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
 
-El presente ordenamiento no será aplicable a las materias de carácter fiscal, financiero, responsabilidades de los servidores públicos, electoral, justicia agraria y laboral, ni al Ministerio Público en ejercicio de sus funciones constitucionales. En relación con las materias de competencia económica y prácticas desleales de comercio internacional, únicamente les será aplicable el artículo 4 A de esta Ley.
+El presente ordenamiento también se aplicará a los organismos descentralizados de la administración pública federal paraestatal respecto a sus actos de autoridad, a los servicios que el estado preste de manera exclusiva, y a los contratos que los particulares sólo puedan celebrar con el mismo.
+
+> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+Este ordenamiento no será aplicable a las materias de carácter fiscal, responsabilidades de los servidores públicos, justicia agraria y laboral, ni al ministerio público en ejercicio de sus funciones constitucionales. En relación con las materias de competencia económica, prácticas desleales de comercio internacional y financiera, únicamente les será aplicable el título tercero A.
 
 Para los efectos de esta Ley sólo queda excluida la materia fiscal tratándose de las contribuciones y los accesorios que deriven directamente de aquéllas.
 
-ART. 2.- Esta Ley se aplicará supletoriamente a las diversas leyes administrativas reguladas por la misma. El Código Federal de Procedimientos Civiles se aplicará, a su vez, supletoriamente a esta Ley en lo conducente.
+> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 2.- Esta Ley, salvo por lo que toca al título tercero A, se aplicará supletoriamente a las diversas leyes administrativas. El Código Federal de Procedimientos Civiles se aplicará, a su vez, supletoriamente a esta Ley, en lo conducente.
 
 ## TITULO SEGUNDO. DEL REGIMEN JURIDICO DE LOS ACTOS ADMINISTRATIVOS
 
@@ -90,17 +96,11 @@ XV. Tratándose de actos administrativos recurribles deberá hacerse mención de
 
 XVI. Ser expedido decidiendo expresamente todos los puntos propuestos por las partes o establecidos por la ley.
 
-ART. 4.- Los actos administrativos de carácter general, tales como decretos, acuerdos, circulares y cualesquiera otros de la misma naturaleza, deberán publicarse en el Diario Oficial de la Federación para que produzcan efectos jurídicos, y los de carácter individual deberán publicarse en dicho órgano informativo cuando así lo establezcan las leyes.
+> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 2000)</small>
 
-Cuando así lo establezcan las leyes, los proyectos de reglamentos, decretos, acuerdos y demás actos administrativos de carácter general, cuando afecten el interés público deberán ser publicados previamente en el Diario Oficial de la Federación, para dar oportunidad a los interesados de formular observaciones sobre las medidas propuestas, dentro del plazo que las leyes señalen para tales efectos y, en su defecto, dentro del plazo de sesenta días siguientes a la publicación.
+ART. 4.- Los actos administrativos de carácter general, tales como reglamentos, decretos, acuerdos, normas oficiales mexicanas, circulares y formatos, así como los lineamientos, criterios, metodologías, instructivos, directivas, reglas, manuales, disposiciones que tengan por objeto establecer obligaciones específicas cuando no existan condiciones de competencia y cualesquiera de naturaleza análoga a los actos anteriores, que expidan las dependencias y organismos descentralizados de la administración pública federal, deberán publicarse en el Diario Oficial de la Federación para que produzcan efectos jurídicos.
 
-Los instructivos, manuales y formatos que expidan las dependencias de la Administración Pública Federal deberán publicarse previamente a su aplicación, en el Diario Oficial de la Federación.
-
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
-
-ART. 4 A.- Cuando las dependencias de la Administración Pública Federal elaboren anteproyectos de disposiciones de carácter general o de reformas a éstas, con incidencia en la actividad económica a juicio de la Secretaría de Comercio y Fomento Industrial, presentarán a ésta una manifestación de impacto regulatorio que contenga los aspectos que dicha Secretaría determine en materia de desregulación económica, quien, cuando así lo considere, podrá emitir un dictamen público sobre la misma.
-
-La manifestación citada no será necesaria en materia de adquisiciones, arrendamientos, obra pública y contratación de servicios, por parte del Gobierno Federal, así como en lo relacionado con el patrimonio inmobiliario y mobiliario federal.
+ART. 4 A.- (DEROGADO, D.O.F. 19 DE ABRIL DE 2000)
 
 ### CAPITULO SEGUNDO. DE LA NULIDAD Y ANULABILIDAD
 
@@ -164,6 +164,18 @@ Las promociones deberán hacerse por escrito en el que se precisará el nombre, 
 
 El promovente deberá adjuntar a su escrito los documentos que acrediten su personalidad, así como los que en cada caso sean requeridos en los ordenamientos respectivos.
 
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 15-A.- Salvo que en otra disposición legal o administrativa de carácter general se disponga otra cosa respecto de algún trámite:
+
+I. Los trámites deberán presentarse solamente en original, y sus anexos, en copia simple, en un tanto. Si el interesado requiere que se le acuse recibo, deberá adjuntar una copia para ese efecto;
+
+II. Todo documento original puede presentarse en copia certificada y éstos podrán acompañarse de copia simple, para cotejo, caso en el que se regresará al interesado el documento cotejado;
+
+III. En vez de entregar copia de los permisos, registros, licencias y, en general, de cualquier documento expedido por la dependencia u organismo descentralizado de la administración pública federal ante la que realicen el trámite, los interesados podrán señalar los datos de identificación de dichos documentos, y
+
+IV. Excepto cuando un procedimiento se tenga que dar vista a terceros, los interesados no estarán obligados a proporcionar datos o entregar juegos adicionales de documentos entregados previamente a la dependencia u organismo descentralizado de la administración pública federal ante la que realicen el trámite correspondiente, siempre y cuando señalen los datos de identificación del escrito en el que se citaron o con el que se acompañaron y el nuevo trámite lo realicen ante la propia dependencia u organismo descentralizado, aun y cuando lo hagan ante una unidad administrativa diversa, incluso si se trata de un órgano administrativo desconcentrado.
+
 ART. 16.- La Administración Pública Federal, en sus relaciones con los particulares, tendrá las siguientes obligaciones:
 
 I. Solicitar la comparecencia de éstos, sólo cuando así esté previsto en la ley, previa citación en la que se hará constar expresamente el lugar, fecha, hora y objeto de la comparecencia, así como los efectos de no atenderla;
@@ -186,19 +198,19 @@ IX. Tratar con respeto a los particulares y a facilitar el ejercicio de sus dere
 
 X. Dictar resolución expresa sobre cuantas peticiones le formulen; así como en los procedimientos iniciados de oficio, cuya instrucción y resolución afecte a terceros, debiendo dictarla dentro del plazo fijado por la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE ABRIL DE 2000)</small>
 
-ART. 17.- Salvo que en las disposiciones específicas se establezca otro plazo, no podrá exceder de cuatro meses el tiempo para que la autoridad administrativa resuelva lo que corresponda. Transcurrido el plazo aplicable, se entenderán las resoluciones en sentido negativo al promovente, a menos que en las disposiciones aplicables se prevea lo contrario. A petición del interesado, se deberá expedir constancia de tal circunstancia, dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante la autoridad que deba resolver; igual constancia deberá expedirse cuando las disposiciones específicas prevean que transcurrido el plazo aplicable la resolución deba entenderse en sentido positivo. De no expedirse la constancia mencionada dentro del plazo citado, se fincará la responsabilidad que resulte aplicable.
+ART. 17.- Salvo que en otra disposición legal o administrativa de carácter general se establezca otro plazo, no podrá exceder de tres meses el tiempo para que la dependencia u organismo descentralizado resuelva lo que corresponda. Transcurrido el plazo aplicable, se entenderán las resoluciones en sentido negativo al promovente, a menos que en otra disposición legal o administrativa de carácter general se prevea lo contrario. A petición del interesado, se deberá expedir constancia de tal circunstancia dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante quien deba resolver; igual constancia deberá expedirse cuando otras disposiciones prevean que transcurrido el plazo aplicable la resolución deba entenderse en sentido positivo.
 
 En el caso de que se recurra la negativa por falta de resolución, y ésta a su vez no se resuelva dentro del mismo término, se entenderá confirmada en sentido negativo.
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 2000)</small>
 
-ART. 17 A.- Cuando el escrito inicial no contenga los datos o no cumpla con los requisitos previstos en las disposiciones aplicables, la autoridad deberá prevenir al interesado, por escrito y por una sola vez, para que dentro del término de cinco días hábiles subsane la omisión. Salvo que en las disposiciones específicas se establezca otro plazo, dicha prevención deberá hacerse a más tardar dentro del primer tercio del plazo de respuesta de la autoridad y, cuando éste no sea expreso, dentro de los diez días hábiles siguientes a la presentación del escrito inicial.
+ART. 17 A.- Cuando los escritos que presenten los interesados no contengan los datos o no cumplan con los requisitos aplicables, la dependencia u organismo descentralizado correspondiente deberá prevenir a los interesados, por escrito y por una sola vez, para que subsanen la omisión dentro del término que establezca la dependencia u organismo descentralizado, el cual no podrá ser menor de cinco días hábiles contados a partir de que haya surtido efectos la notificación; transcurrido el plazo correspondiente sin desahogar la prevención, se desechará el trámite.
 
-Notificada la prevención, se suspenderá el plazo para que la autoridad administrativa resuelva y se reanudará a partir del día hábil inmediato siguiente a aquél en que el interesado conteste. En el supuesto de que no se desahogue la prevención en el término señalado, la autoridad desechará el escrito inicial.
+Salvo que en una disposición de carácter general se disponga otro plazo, la prevención de información faltante deberá hacerse dentro del primer tercio del plazo de respuesta o, de no requerirse resolución alguna, dentro de los diez días hábiles siguientes a la presentación del escrito correspondiente. La fracción de día que en su caso resulte de la división del plazo de respuesta se computará como un día completo. En caso de que la resolución del trámite sea inmediata, la prevención de información faltante también deberá hacerse de manera inmediata a la presentación del escrito respectivo.
 
-Si la autoridad no hace el requerimiento de información dentro del plazo correspondiente, no podrá rechazar el escrito inicial por incompleto.
+De no realizarse la prevención mencionada en el párrafo anterior dentro del plazo aplicable, no se podrá desechar el trámite argumentando que está incompleto. En el supuesto de que el requerimiento de información se haga en tiempo, el plazo para que la dependencia correspondiente resuelva el trámite se suspenderá y se reanudará a partir del día hábil inmediato siguiente a aquel en el que el interesado conteste.
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -464,6 +476,198 @@ ART. 68.- Los visitados a quienes se haya levantado acta de verificación podrá
 
 ART. 69.- Las dependencias podrán, de conformidad con las disposiciones aplicables, verificar bienes, personas y vehículos de transporte con el objeto de comprobar el cumplimiento de las disposiciones legales, para lo cual se deberán cumplir, en lo conducente, las formalidades previstas para las visitas de verificación.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+## TITULO TERCERO A. De la mejora regulatoria
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+### Capítulo primero. Disposiciones generales
+
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 69-A.- Las disposiciones de este título se aplicarán a los actos, procedimientos y resoluciones de la administración pública federal centralizada y de los organismos descentralizados de la administración pública federal en términos del segundo párrafo del artículo 1 de esta Ley, a excepción de los actos, procedimientos o resoluciones de las Secretarías de la Defensa Nacional y de Marina.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 69-B.- Cada dependencia y organismo descentralizado creará un Registro de Personas Acreditadas para realizar trámites ante éstas; asignando al efecto un número de identificación al interesado, quien, al citar dicho número en los trámites subsecuentes que presente, no requerirá asentar los datos ni acompañar los documentos mencionados en el artículo 15, salvo al órgano a quien se dirige el trámite, la petición que se formula, los hechos y razones que dan motivo a la petición y el lugar y fecha de emisión del escrito. El número de identificación se conformará en los términos que establezca la Comisión Federal de Mejora Regulatoria, con base en la clave del Registro Federal de Contribuyentes del interesado, en caso de estar inscrito en el mismo.
+
+Los registros de personas acreditadas deberán estar interconectados informáticamente y el número de identificación asignado por una dependencia u organismo descentralizado será obligatorio para las demás.
+
+Para efectos de esta Ley, por trámite se entiende cualquier solicitud o entrega de información que las personas físicas o morales del sector privado hagan ante una dependencia u organismo descentralizado, ya sea para cumplir una obligación, obtener un beneficio o servicio o, en general, a fin de que se emita una resolución, así como cualquier documento que dichas personas estén obligadas a conservar, no comprendiéndose aquella documentación o información que sólo tenga que presentarse en caso de un requerimiento de una dependencia u organismo descentralizado.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 69-C.- Los titulares de las dependencias u órganos administrativos desconcentrados y directores generales de los organismos descentralizados de la administración pública federal podrán, mediante acuerdos generales publicados en el Diario Oficial de la Federación, establecer plazos de respuesta menores dentro de los máximos previstos en leyes o reglamentos y no exigir la presentación de datos y documentos previstos en las disposiciones mencionadas, cuando puedan obtener por otra vía la información correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 69-D.- Los titulares de las dependencias y los directores generales de los organismos descentralizados de la administración pública federal designarán a un servidor público con nivel de subsecretario u oficial mayor, como responsable de:
+
+I. Coordinar el proceso de mejora regulatoria en el seno de la dependencia u organismo descentralizado correspondiente, y supervisar su cumplimiento;
+
+II. Someter a la opinión de la Comisión Federal de Mejora Regulatoria, al menos cada dos años, de acuerdo con el calendario que éste establezca, un programa de mejora regulatoria en relación con la normatividad y trámites que aplica la dependencia u organismo descentralizado de que se trate, así como reportes periódicos sobre los avances correspondientes, y
+
+III. Suscribir y enviar a la Comisión Federal de Mejora Regulatoria, en los términos de esta Ley, los anteproyectos de leyes, decretos legislativos y actos a que se refiere el artículo 4 y las manifestaciones respectivas que formule la dependencia u organismo descentralizado correspondiente, así como la información a inscribirse en el Registro Federal de Trámites y Servicios.
+
+La Comisión Federal de Mejora Regulatoria hará públicos los programas y reportes a que se refiere la fracción II así como las opiniones que emita al respecto.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+### Capítulo segundo. De la Comisión Federal de Mejora Regulatoria
+
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 69-E.- La Comisión Federal de Mejora Regulatoria, órgano administrativo desconcentrado de la Secretaría de Comercio y Fomento Industrial, promoverá la transparencia en la elaboración y aplicación de las regulaciones y que éstas generen beneficios superiores a sus costos y el máximo beneficio para la sociedad. Para ello la Comisión contará con autonomía técnica y operativa, y tendrá las siguiente (sic) atribuciones:
+
+I. Revisar el marco regulatorio nacional, diagnosticar su aplicación y elaborar para su propuesta al Titular del Ejecutivo Federal, proyectos de disposiciones legislativas y administrativas y programas para mejorar la regulación en actividades o sectores económicos específicos;
+
+II. Dictaminar los anteproyectos a que se refiere el artículo 69-H y las manifestaciones de impacto regulatorio correspondientes;
+
+III. Llevar el Registro Federal de Trámites y Servicios;
+
+IV. Opinar sobre los programas de mejora regulatoria de las dependencias y los organismos descentralizados de la administración pública federal;
+
+V. Brindar asesoría técnica en materia de mejora regulatoria a las dependencias y organismos descentralizados de la administración pública federal, así como a los estados y municipios que lo soliciten, y celebrar convenios para tal efecto;
+
+VI. Celebrar acuerdos interinstitucionales en materia de mejora regulatoria, en los términos de la Ley sobre Celebración de Tratados;
+
+VII. Expedir, publicar y presentar ante el Congreso de la Unión un informe anual sobre el desempeño de las funciones de la Comisión y los avances de las dependencias y organismos descentralizados en sus programas de mejora regulatoria, y
+
+VIII. Las demás que establecen esta Ley y otras disposiciones.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 69-F.- La Comisión contará con un consejo que tendrá las siguientes facultades:
+
+I. Ser enlace entre los sectores público, social y privado para recabar las opiniones de dichos sectores en materia de mejora regulatoria;
+
+II. Conocer los programas de la Comisión así como los informes que presente el director general, y
+
+III. Acordar los asuntos que se sometan a su consideración.
+
+El consejo estará integrado por los titulares de las Secretarías de Comercio y Fomento Industrial, quien lo presidirá, de Hacienda y Crédito Público, de Contraloría y Desarrollo Administrativo y de Trabajo y Previsión Social, así como de la Consejería Jurídica del Ejecutivo Federal.
+
+Serán invitados permanentes del consejo el Gobernador del Banco de México, el Presidente de la Comisión Federal de Competencia, el Procurador Federal del Consumidor, los demás servidores públicos que establezca el Titular del Ejecutivo Federal, y al menos cinco representantes del sector empresarial y uno de cada uno de los sectores académico, laboral y agropecuario a nivel nacional.
+
+El consejo operará en los términos del reglamento interno que al efecto expida.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 69-G.- La Comisión tendrá un director general, quien será designado por el Titular del Ejecutivo Federal y dirigirá y representará legalmente a la Comisión, adscribirá las unidades administrativas de la misma, expedirá sus manuales, tramitará el presupuesto aprobado, delegará facultades en el ámbito de su competencia, interpretará lo previsto en el título tercero A de esta Ley para efectos administrativos y tendrá las demás facultades que le confieran esta Ley y otras disposiciones.
+
+El director general deberá ser profesional en materias afines al objeto de la Comisión, tener treinta años cumplidos y haberse desempeñado en forma destacada en cuestiones profesionales, del sector empresarial, de servicio público o académicas relacionadas con el objeto de la Comisión.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+### Capítulo tercero. De la manifestación de impacto regulatorio
+
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 69-H.- Cuando las dependencias y los organismos descentralizados de la administración pública federal, elaboren anteproyectos de leyes, decretos legislativos y actos a que se refiere el artículo 4, los presentarán a la Comisión, junto con una manifestación de impacto regulatorio que contenga los aspectos que dicha Comisión determine, cuando menos treinta días hábiles antes de la fecha en que se pretenda emitir el acto o someterlo a la consideración del Titular de Ejecutivo Federal.
+
+Se podrá autorizar que la manifestación se presente hasta en la misma fecha en que se someta el anteproyecto al Titular del Ejecutivo Federal o se expida la disposición, según corresponda, cuando el anteproyecto pretenda modificar disposiciones que por su naturaleza deban actualizarse periódicamente, y hasta veinte días hábiles después, cuando el anteproyecto pretenda resolver o prevenir una situación de emergencia. Se podrá eximir la obligación de elaborar la manifestación cuando el anteproyecto no implique costos de cumplimiento para los particulares. Cuando una dependencia u organismo descentralizado estime que el anteproyecto pudiera estar en uno de los supuestos previstos en este párrafo, lo consultará con la Comisión, acompañando copia del anteproyecto, la cual resolverá en definitiva sobre el particular, salvo que se trate de anteproyecto que se pretenda someter a la consideración del Titular del Ejecutivo Federal, en cuyo caso la Consejería Jurídica decidirá en definitiva, previa opinión de la Comisión.
+
+No se requerirá elaborar manifestación en el caso de tratados, si bien, previamente a su suscripción, se solicitará y tomará en cuenta la opinión de la Comisión.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 69-I.- Cuando la Comisión reciba una manifestación de impacto regulatorio que a su juicio no sea satisfactoria, podrá solicitar a la dependencia u organismo descentralizado correspondiente, dentro de los diez días hábiles siguientes a que reciba dicha manifestación, que realice las ampliaciones o correcciones a que haya lugar. Cuando a criterio de la Comisión la manifestación siga siendo defectuosa y el anteproyecto de que se trate pudiera tener un amplio impacto en la economía o un efecto sustancial sobre un sector específico, podrá solicitar a la dependencia u organismo descentralizado respectiva que con cargo a su presupuesto efectúe la designación de un experto, quien deberá ser aprobado por la Comisión. El experto deberá revisar la manifestación y entregar comentarios a la Comisión y a la propia dependencia u organismo descentralizado dentro de los cuarenta días hábiles siguientes a su contratación.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 69-J.- La Comisión, cuando así lo estime, podrá emitir y entregar a la dependencia u organismo descentralizado correspondiente un dictamen parcial o total de la manifestación de impacto regulatorio y del anteproyecto respectivo, dentro de los treinta días hábiles siguientes a la recepción de la manifestación, de las ampliaciones o correcciones de la misma o de los comentarios de los expertos a que se refiere el artículo anterior, según corresponda.
+
+El dictamen considerará las opiniones que en su caso reciba la Comisión de los sectores interesados y comprenderá, entre otros aspectos, una valoración sobre si se justifican las acciones propuestas en el anteproyecto, atendiendo a lo dispuesto en el primer párrafo del artículo 69-E.
+
+Cuando la dependencia u organismo descentralizado promotora del anteproyecto no se ajuste al dictamen mencionado, deberá comunicar por escrito las razones respectivas a la Comisión, antes de emitir o someter el anteproyecto a la consideración del Titular del Ejecutivo Federal, a fin de que la Comisión emita un dictamen final al respecto dentro de los cinco días hábiles siguientes.
+
+El Consejero Jurídico del Ejecutivo Federal para someter los anteproyectos a consideración del Ejecutivo, deberá recabar y tomar en cuenta la manifestación así como, en su caso, el dictamen de la Comisión.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 69-K.- La Comisión hará públicos, desde que los reciba, los anteproyectos y manifestaciones de impacto regulatorio, así como los dictámenes que emita y las autorizaciones y exenciones previstas en el segundo párrafo del artículo 69-H. Lo anterior, salvo que, a solicitud de la dependencia u organismo descentralizado responsable del anteproyecto correspondiente, la Comisión determine que dicha publicidad pudiera comprometer los efectos que se pretenda lograr con la disposición, en cuyo caso la Comisión hará pública la información respectiva cuando se publique la disposición en el Diario Oficial de la Federación; también se aplicará esta regla cuando lo determine la Consejería Jurídica, previa opinión de la Comisión, respecto de los anteproyectos que se pretendan someter a la consideración del Ejecutivo Federal.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 69-L.- La Secretaría de Gobernación publicará en el Diario Oficial de la Federación, dentro de los siete primeros días hábiles de cada mes, la lista que le proporcione la Comisión de los títulos de los documentos a que se refiere el artículo anterior.
+
+La Secretaría de Gobernación no publicará en el Diario Oficial de la Federación los actos a que se refiere el artículo 4 que expidan las dependencias o los organismos descentralizados de la administración pública federal, sin que éstas acrediten contar con un dictamen final de la Comisión o la exención a que se refiere el segundo párrafo del artículo 69-H, o que no se haya emitido o emitirá dictamen alguno dentro del plazo previsto en el primer párrafo del artículo 69-J.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+### Capítulo cuarto. Del Registro Federal de Trámites y Servicios
+
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 69-M.- La Comisión llevará el Registro Federal de Trámites y Servicios, que será público, para cuyo efecto las dependencias y los organismos descentralizados de la administración pública federal, deberán proporcionarle la siguiente información, para su inscripción, en relación con cada trámite que aplican:
+
+I. Nombre del trámite;
+
+II. Fundamentación jurídica;
+
+III. Casos en los que debe o puede realizarse el trámite;
+
+IV. Si el trámite debe presentarse mediante escrito libre o formato o puede realizarse de otra manera;
+
+V. El formato correspondiente, en su caso, y su fecha de publicación en el Diario Oficial de la Federación;
+
+VI. Datos y documentos específicos que debe contener o se deben adjuntar al trámite, salvo los datos y documentos a que se refiere el artículo 15;
+
+VII. Plazo máximo que tiene la dependencia u organismo descentralizado para resolver el trámite, en su caso, y se aplica la afirmativa o negativa ficta;
+
+VIII. Las excepciones a lo previsto en el artículo 15-A, en su caso;
+
+IX. Monto de los derechos o aprovechamiento aplicables, en su caso, o la forma de determinar dicho monto;
+
+X. Vigencia de los permisos, licencias, autorizaciones, registros y demás resoluciones que se emitan;
+
+XI. Criterios de resolución del trámite, en su caso;
+
+XII. Unidades administrativas ante las que se puede presentar el trámite;
+
+XIII. Horarios de atención al público;
+
+XIV. Números de teléfono, fax y correo electrónico, así como la dirección y demás datos relativos a cualquier otro medio que permita el envío de consultas, documentos y quejas, y
+
+XV. La demás información que se prevea en el reglamento de esta ley o que la dependencia u organismo descentralizado considere que pueda ser de utilidad para los interesados.
+
+La Comisión podrá eximir, mediante acuerdo publicado en el Diario Oficial de la Federación, la obligación de proporcionar la información a que se refiere este artículo, respecto de trámites específicos que se realizan exclusivamente por personas físicas, cuando éstos no se relacionen con el establecimiento o desarrollo de una actividad empresarial.
+
+No será obligatorio proporcionar la información relativa a los trámites que se realicen en los procedimientos de contratación que lleven a cabo las dependencias.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 69-N.- La información a que se refiere el artículo anterior deberá entregarse a la Comisión en la forma en que dicho órgano lo determine y la Comisión deberá inscribirla en el Registro, sin cambio alguno, dentro de los cinco días hábiles siguientes.
+
+Las dependencias y los organismos descentralizados de la administración pública federal, deberán notificar a la Comisión cualquier modificación a la información inscrita en el Registro, dentro de los diez días hábiles siguientes a que entre en vigor la disposición que fundamente dicha modificación.
+
+Las unidades administrativas que apliquen trámites deberán tener a disposición del público la información que al respecto esté inscrita en el Registro.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 69-O.- La información a que se refiere el artículo 69-M, fracciones III a X, deberá estar prevista en leyes, reglamentos, decretos o acuerdos presidenciales o, cuando proceda, en normas oficiales mexicanas o acuerdos generales expedidos por las dependencias o los organismos descentralizados de la administración pública federal, que aplican los trámites.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 69-P.- La legalidad y el contenido de la información que se inscriba en el Registro será de estricta responsabilidad de las dependencias y los organismos descentralizados de la administración pública federal, que proporcionen dicha información y la Comisión sólo podrá opinar al respecto. En caso de discrepancia entre la Comisión y la dependencia u organismo descentralizado correspondiente, decidirá en definitiva la Consejería Jurídica del Ejecutivo Federal, y se modificará, en su caso, la información inscrita.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 69-Q.- Las dependencias y los organismos descentralizados de la administración pública federal, no podrán aplicar trámites adicionales a los inscritos en el Registro, ni aplicarlos en forma distinta a como se establezcan en el mismo, a menos que se trate de trámites:
+
+I. Previstos en ley o reglamentos emitidos por el Ejecutivo Federal en ejercicio de la facultad prevista en el artículo 89, fracción I, de la Constitución. En este caso, salvo por lo dispuesto en la fracción II, sólo serán exigibles a los interesados aquellos datos y documentos específicos que, no estando inscritos en el Registro, estén previstos en ley o en los reglamentos citados;
+
+II. Que las dependencias y los organismos descentralizados de la administración pública federal, apliquen dentro de los sesenta días hábiles siguientes a que haya entrado en vigor la disposición en la que tengan su fundamento o que modifique su aplicación;
+
+III. Respecto de los cuales se pueda causar perjuicio a terceros con interés jurídico;
+
+IV. Cuya no aplicación pueda causar un grave perjuicio. En este supuesto, la dependencia u organismo descentralizado correspondiente requerirá la previa aprobación de la Comisión, y podrá ordenar la suspensión de la actividad a que esté sujeta el trámite a que hubiere lugar, o
+
+V. Que los interesados presenten para obtener una facilidad o un servicio. En estos supuestos, sólo serán exigibles a los interesados aquellos datos y documentos específicos que, no estando inscritos en el Registro, estén previstos en las disposiciones en que se fundamenten.
+
+En los casos a que se refieren las fracciones I, III, IV y V las dependencias y organismos descentralizados deberán notificar a la Comisión, simultáneamente a la aplicación de los trámites correspondientes, la información a inscribirse o modificarse en el Registro.
+
 ## TITULO CUARTO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
 
 ### CAPITULO UNICO
@@ -481,6 +685,30 @@ IV. Arresto hasta por 36 horas;
 V. Clausura temporal o permanente, parcial o total; y
 
 VI. Las demás que señalen las leyes o reglamentos.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 70-A.- Es causa de responsabilidad el incumplimiento de esta Ley y serán aplicables las sanciones previstas en la Ley Federal de Responsabilidades de los Servidores Públicos. En todo caso se destituirá del puesto e inhabilitará cuando menos por un año para desempeñar empleos, cargos o comisiones en el servicio público:
+
+I. Al titular de la unidad administrativa que, en un mismo empleo, cargo o comisión, incumpla por dos veces lo dispuesto en el artículo 17;
+
+II. Al titular de la unidad administrativa que, en un mismo empleo, cargo o comisión, por dos veces no notifique al responsable a que se refiere el artículo 69-D, de la información a modificarse en el Registro Federal de Trámites y Servicios respecto de trámites a realizarse por los particulares para cumplir una obligación, dentro de los cinco días hábiles siguientes a que entre en vigor la disposición que fundamente dicha modificación;
+
+III. Al titular de la unidad administrativa que, en un mismo empleo, cargo o comisión, no entregue al responsable a que se refiere el artículo 69-D, los anteproyectos de actos a que se refiere el artículo 4 y las manifestaciones correspondientes, para efectos de lo dispuesto en el artículo 69-H;
+
+IV. Al servidor público responsable del Diario Oficial de la Federación que por cinco veces incumpla lo previsto en el artículo 69-L;
+
+V. Al titular de la unidad administrativa que, en un mismo empleo, cargo o comisión, incumpla lo previsto en el artículo 69-N, tercer párrafo;
+
+VI. Al servidor público que, en un mismo empleo, cargo o comisión, exija cinco veces trámites, datos o documentos adicionales a los previstos en el Registro Federal de Trámites y Servicios, en contravención a lo dispuesto en el artículo 69-Q;
+
+VII. Al titular de la unidad administrativa que, en un mismo empleo, cargo o comisión, no cumpla con lo dispuesto en el último párrafo del artículo 69-Q;
+
+VIII. Al servidor público competente de la Comisión Federal de Mejora Regulatoria que, a solicitud escrita de un interesado, no ponga a su disposición la información prevista en el artículo 69-K dentro de los cinco días hábiles siguientes a que se reciba la solicitud correspondiente, y
+
+IX. Al servidor público competente de la Comisión Federal de Mejora Regulatoria que incumpla lo dispuesto en el artículo 69-N, primer párrafo.
+
+La Comisión Federal de Mejora Regulatoria informará a la Secretaría de Contraloría y Desarrollo Administrativo de los casos que tenga conocimiento sobre algún incumplimiento a lo previsto en esta Ley y su reglamento.
 
 ART. 71.- Sin perjuicio de lo establecido en las leyes administrativas, en caso de reincidencia se duplicará la multa impuesta por la infracción anterior, sin que su monto exceda del doble del máximo.
 
@@ -514,15 +742,21 @@ ART. 80.- Cuando el infractor impugnare los actos de la autoridad administrativa
 
 Los interesados podrán hacer valer la prescripción por vía de excepción y la autoridad deberá declararla de oficio.
 
+## TITULO QUINTO. MEDIDAS DE SEGURIDAD
+
 ### CAPITULO UNICO
 
 ART. 81.- Se consideran medidas de seguridad las disposiciones que dicte la autoridad competente para proteger la salud y la seguridad públicas. Las medidas de seguridad se establecerán en cada caso por las leyes administrativas.
 
 ART. 82.- Las autoridades administrativas con base en los resultados de la visita de verificación o del informe de la misma, podrán dictar medidas de seguridad para corregir las irregularidades que se hubiesen encontrado, notificándolas al interesado y otorgándole un plazo adecuado para su realización. Dichas medidas tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas.
 
+## TITULO SEXTO. DEL RECURSO DE REVISION
+
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-ART. 83.- Los interesados afectados por los actos y resoluciones de las autoridades administrativas que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán interponer recurso de revisión o intentar las vías judiciales correspondientes.
+> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+
+ART. 83.- Los interesados afectados por los actos y resoluciones de la Administración Pública Federal centralizada que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán interponer recurso de revisión o intentar las vías judiciales correspondientes.
 
 ART. 84.- La oposición a los actos de trámite en un procedimiento administrativo deberá alegarse por los interesados durante dicho procedimiento, para su consideración, en la resolución que ponga fin al mismo. La oposición a tales actos de trámite se hará valer en todo caso al impugnar la resolución definitiva.
 
@@ -624,10 +858,6 @@ ART. 96.- Cuando hayan de tenerse en cuenta nuevos hechos o documentos que no ob
 
 No se tomarán en cuenta en la resolución del recurso, hechos, documentos o alegatos del recurrente, cuando habiendo podido aportarlos durante el procedimiento administrativo no lo haya hecho.
 
-## TITULO QUINTO. MEDIDAS DE SEGURIDAD
-
-## TITULO SEXTO. DEL RECURSO DE REVISION
-
 ## TRANSITORIOS
 
 PRIMERO. Esta ley entrará en vigor el 1o. de junio de 1995.
@@ -649,3 +879,21 @@ D.O.F. 24 DE DICIEMBRE DE 1996.
 SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
+
+D.O.F. 19 DE ABRIL DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al mes siguiente de su publicación en el Diario Oficial de la Federación, salvo:
+
+I. Lo previsto en los artículos 69-B, primer párrafo, 69-O y 69-Q, que entrarán en vigor al día hábil siguiente en que la dependencia u organismo descentralizado correspondiente publique en el Diario Oficial de la Federación un acuerdo mediante el que informe que está operando el Registro de Personas Acreditadas o que están inscritos en el Registro todos los trámites que les corresponde aplicar, según corresponda; dicha publicación deberá hacerse en un plazo máximo de tres años a partir del mes siguiente a que se publique este Decreto;
+
+II. Lo previsto en el artículo 69-B, segundo párrafo, que entrará en vigor al día hábil siguiente en que el Titular del Ejecutivo Federal publique en el Diario Oficial de la Federación un decreto mediante el que informe que están operando de manera interconectada todos los registros de Personas Acreditadas; dicha publicación deberá hacerse en un plazo máximo de tres años a partir del mes siguiente a que se publique este Decreto, y
+
+III. Lo previsto en el artículo 15-A, fracción I, que entrará en vigor a los seis meses siguientes a la publicación de este Decreto.
+
+SEGUNDO.- Se entenderán otorgadas a la Comisión Federal de Mejora Regulatoria las facultades previstas a favor de la Secretaría de Comercio y Fomento Industrial en los artículos 45, 48 y 51 de la Ley Federal sobre Metrología y Normalización.
+
+TERCERO.- La información inscrita en el Registro Federal de Trámites Empresariales a la entrada en vigor de este Decreto, pasará a formar parte del Registro previsto en este ordenamiento y le será aplicable el artículo 69-Q en lo que respecta a la prohibición de aplicar trámites en forma distinta a lo previsto en dicho Registro.
+
+CUARTO.- Los recursos humanos, presupuestales y los bienes, que a la entrada en vigor de este Decreto, sean utilizados por la Secretaría de Comercio y Fomento Industrial para el ejercicio de las funciones en materia de mejora regulatoria a que se refiere este ordenamiento, se asignarán a la Comisión Federal de Mejora Regulatoria.
+
+QUINTO.- Los asuntos en materia de mejora regulatoria que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos por la Comisión Federal de Mejora Regulatoria, en el ámbito de su competencia.
