@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1993-07-14"
+last_updated: "1993-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1993.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -217,6 +217,18 @@ Las instituciones de fianzas deberán ser constituidas como sociedades anónimas
 
 I.- Tendrán por objeto las actividades a que se refieren los artículos 1o. y 16 de esta Ley y las necesarias para su realización;
 
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+I bis.- En razón del origen de los accionistas que suscriban su capital, las instituciones podrán ser:
+
+a).- De capital total o mayoritariamente mexicano;
+
+b).- De capital extranjero, en cuyo caso se les considerará como Filiales de Instituciones Financieras del Exterior.
+
+En ningún caso podrán participar en el capital de dichas instituciones, ya sea directamente o a través de interpósita persona, gobiernos o dependencias oficiales extranjeros.
+
+En todo lo relativo a su organización, las instituciones a que se refiere el inciso a) de esta fracción, se regirán por lo dispuesto en el presente capítulo, en tanto que a las instituciones a que se refiere el inciso b) de la misma, les será aplicable, además de lo dispuesto en este mismo capítulo, con excepción de la fracción III de este artículo, lo que se establece en el Capítulo I Bis del Título Primero de esta Ley.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 II.- Deberán contar con el capital mínimo pagado que la Secretaría de Hacienda y Crédito Público fijará durante el primer trimestre de cada año, tomando como base la cantidad que sea mayor entre el resultado de aplicar el cuatro por ciento a la suma del capital pagado y el saldo de la reserva de capital correspondientes al fin del ejercicio anterior, del total de las instituciones de fianzas, o el resultado de actualizar el capital mínimo vigente para el ejercicio anterior con base en los Indices Nacionales de Precios al Consumidor, emitidos por el Banco de México para el mes de diciembre de los dos años inmediatos anteriores al ejercicio en que deba actualizarse dicho monto, dividiendo el más reciente de ellos entre el anterior para aplicar su resultado como factor de ajuste.
@@ -275,9 +287,9 @@ b).- (DEROGADO, D.O.F. 3 DE ENERO DE 1990)
 
 c).- Sociedades mutualistas de seguros, casas de bolsa, casas de cambio, organizaciones auxiliares del crédito y sociedades operadoras de sociedades de inversión.
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-III.- Ninguna persona física o moral podrá ser propietaria de más del 15% del capital pagado de una institución de fianzas, excepto:
+III.- Tratándose de las instituciones a que se refiere el inciso a) de la fracción I bis, de esta Ley, ninguna persona física o moral podrá ser propietaria de más del quince por ciento de su capital pagado, excepto:
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -307,13 +319,17 @@ Las sociedades a que se refiere este inciso no podrán adquirir directa o indire
 
 Lo dispuesto en esta fracción deberá hacerse constar en los estatutos de las sociedades correspondientes.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+
 c).- Las personas que adquieran acciones conforme a lo previsto en programas aprobados por la Secretaría de Hacienda y Crédito Público conducentes a la fusión de instituciones de fianzas, a quienes, excepcionalmente la mencionada Secretaría podrá otorgarles la autorización relativa, con carácter temporal, por un plazo no mayor de cinco años, sin que la participación total de cada una de ellas exceda del 30% del capital pagado de la institución de que se trate;
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 d).- Las instituciones de fianzas, cuando adquieran acciones por cuenta propia conforme a lo previsto en programas aprobados por la Secretaría de Hacienda y Crédito Público, conducentes a su fusión, y
 
-e).- Las instituciones de crédito cuando, previa autorización de la Secretaría de Hacienda y Crédito Público, adquieran acciones actuando como fiduciarias en fideicomisos que no se utilicen como medio para contravenir los porcentajes máximos de tenencia de acciones permitidos por esta Ley.
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+e).- Las instituciones de crédito cuando, previa autorización de la Secretaría de Hacienda y Crédito Público, adquieran acciones actuando como fiduciarias en fideicomisos que no se utilicen como medio para contravenir los porcentajes máximos de tenencia de acciones permitidos por esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -330,6 +346,10 @@ h).- Las personas que de manera discrecional autorice la Secretaría de Hacienda
 > <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 Las personas que en los términos de esta fracción lleguen a ser propietarias de más del 15% del capital pagado de una institución de fianzas o de una sociedad de las comprendidas en el inciso b) de esta fracción, deberán obtener certificado de tenencia accionaria de la Comisión Nacional de Seguros y Fianzas, en el que se hará constar el porcentaje correspondiente;
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+La Secretaría de Hacienda y Crédito Público, podrá discrecionalmente, autorizar la participación en el capital pagado de las instituciones de fianzas a entidades afianzadoras, aseguradoras, reaseguradoras o reafianzadoras del exterior y a personas físicas o morales extranjeras o agrupaciones de las mismas distintas de las excluidas en el penúltimo párrafo de la fracción I Bis. La autorización que se otorgue a un inversionista extranjero será intransmisible y la inversión mexicana siempre deberá ser mayoritaria y mantener la facultad de determinar el manejo de la institución y su control efectivo. A tal efecto, la inversión extranjera deberá hacerse constar en una serie especial de acciones representativas del capital de la sociedad correspondiente, misma que en ningún caso podrá rebasar el cuarenta y nueve por ciento del capital de la sociedad.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -451,27 +471,137 @@ XII.- La disolución y liquidación se regirá por lo dispuesto en el Capítulo 
 
 En ningún momento podrán participar en forma alguna en el capital de estas sociedades, gobiernos o dependencias oficiales extranjeros, entidades financieras del exterior, o agrupaciones de personas extranjeras, físicas o morales, sea cual fuere la forma que revistan, directamente o a través de interpósita persona.
 
-> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1990)</small>
-
-XIII.- En ningún momento podrán participar en forma alguna en el capital de estas instituciones, ya sea directamente o a través de interpósita persona, gobiernos o dependencias oficiales extranjeros, ni entidades financieras del exterior, excepto en los casos previstos en el párrafo siguiente:
-
-La Secretaría de Hacienda y Crédito Público podrá, discrecionalmente, autorizar la participación en el capital pagado de las instituciones de fianzas, a entidades aseguradoras, reaseguradoras y afianzadoras del exterior y a personas físicas o morales extranjeras o agrupaciones de las mismas, distintas a las excluidas en el párrafo anterior. La autorización que se otorgue a un inversionista extranjero será intransmisible. La inversión mexicana siempre tendrá que ser mayoritaria y deberá mantener la facultad de determinar el manejo de la institución y su control efectivo.
-
-Todo extranjero, que en el acto de la constitución o en cualquier tiempo ulterior, adquiera un interés o participación social en la institución se considerará, por ese simple hecho, como mexicano respecto de uno y otra, y se entenderá que conviene en no invocar la protección de su gobierno, bajo la pena, en caso de faltar a su convenio de perder dicho interés o participación en beneficio de la Nación.
+XIII.- (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 15 Bis.
 
 (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, D.O.F. 18 DE JULIO DE 1990)
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+### CAPITULO I BIS. De las Filiales de Instituciones Financieras del Exterior
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 15-A.
+
+Para efectos de esta Ley se entenderá por:
+
+I.- Filial: La sociedad mexicana autorizada para organizarse y funcionar, conforme a esta Ley, como institución de fianzas, y en cuyo capital participe una Institución Financiera del Exterior o una Sociedad Controladora Filial, en los términos del presente capítulo;
+
+II.- Institución Financiera del Exterior: La entidad financiera constituida en un país con el que México haya celebrado un tratado o acuerdo internacional en virtud del cual se permita el establecimiento en territorio nacional de Filiales; y
+
+III.- Sociedad Controladora Filial: La sociedad mexicana autorizada para constituirse y operar como sociedad controladora en los términos de la Ley para Regular las Agrupaciones Financieras, y en cuyo capital participe una Institución Financiera del Exterior.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 15-B.
+
+Las Filiales se regirán por lo previsto en los tratados o acuerdos internacionales correspondientes, el presente capítulo, las disposiciones contenidas en esta Ley aplicables a las instituciones de fianzas y las reglas para el establecimiento de Filiales que al efecto expida la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas.
+
+La Secretaría de Hacienda y Crédito Público estará facultada para interpretar para efectos administrativos las disposiciones sobre servicios financieros que se incluyan en los tratados o acuerdos internacionales a que hace mención el párrafo anterior, así como para proveer a su observancia.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 15-C.
+
+Para organizarse y funcionar como Filial se requiere autorización del Gobierno Federal, que compete otorgar discrecionalmente a la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas. Por su naturaleza estas autorizaciones serán intransmisibles.
+
+Las autorizaciones que al efecto se otorguen, así como sus modificaciones, se publicarán en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 15-D.
+
+Las autoridades financieras, en el ámbito de sus respectivas competencias, garantizarán el cumplimiento de los compromisos de trato nacional que en su caso sean asumidos por México, en los términos establecidos en el tratado o acuerdo internacional aplicable.
+
+Las Filiales podrán realizar las mismas operaciones que las instituciones de fianzas, a menos que el tratado o acuerdo internacional aplicable establezca alguna restricción.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 15-E.
+
+Para invertir en el capital social de una Filial, la Institución Financiera del Exterior deberá realizar, en el país en el que esté constituida, directa o indirectamente, de acuerdo con la legislación aplicable, el mismo tipo de operaciones que la Filial de que se trate esté facultada para realizar en México, de conformidad con lo que señalen la presente Ley y las reglas a las que se refiere el primer párrafo del artículo 15-B.
+
+Se exceptúa de lo dispuesto en el párrafo anterior a las Filiales en cuyo capital participe una Sociedad Controladora Filial de conformidad con la Ley para Regular las Agrupaciones Financieras y las reglas mencionadas en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 15-F.
+
+La solicitud de autorización para organizarse y funcionar como Filial deberá cumplir con los requisitos establecidos en la presente Ley y en las reglas a las que se refiere el primer párrafo del artículo 15-B.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 15-G.
+
+El capital social de las Filiales deberá estar integrado por una sola serie de acciones. Una Institución Financiera del Exterior, directa o indirectamente, o una Sociedad Controladora Filial deberá ser en todo momento propietaria de acciones que representen cuando menos el noventa y nueve por ciento del capital social de la Filial.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 15-H.
+
+Las acciones de una Filial únicamente podrán ser enajenadas previa autorización de la Secretaría de Hacienda y Crédito Público.
+
+Salvo en el caso en que el adquirente sea una Institución Financiera del Exterior, una Sociedad Controladora Filial o una Filial, para llevar a cabo la enajenación deberán modificarse los estatutos sociales de la Filial cuyas acciones sean objeto de la operación para cumplir con lo dispuesto en la fracción III del artículo 15.
+
+Cuando el adquirente sea una Institución Financiera del Exterior, una Sociedad Controladora Filial o una Filial, deberá observarse lo dispuesto en las fracciones I, III y IV del artículo 15-I.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 15-I.
+
+La Secretaría de Hacienda y Crédito Público podrá autorizar a las Instituciones Financieras del Exterior, a las Sociedades Controladoras Filiales o a las Filiales, la adquisición de acciones de una institución de fianzas siempre y cuando se cumplan los siguientes requisitos:
+
+I. La Institución Financiera del Exterior, la Sociedad Controladora Filial o la Filial, según sea el caso, deberá adquirir acciones que representen cuando menos el noventa y nueve por ciento del capital social;
+
+II. Deberán modificarse los estatutos sociales de la institución de fianzas, cuyas acciones sean objeto de enajenación, a efecto de cumplir con lo dispuesto en el presente capítulo;
+
+III. Cuando el adquirente sea una Institución Financiera del Exterior o una Sociedad Controladora Filial que ya sea propietaria de acciones representativas del capital social de una Filial, deberá fusionar ambas instituciones de fianzas a efecto de controlar solamente una Filial del mismo tipo; y
+
+IV.- Cuando el adquirente sea una Filial deberá fusionarse con la institución de fianzas que haya sido adquirida.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 15-J.
+
+Las Filiales no podrán emitir obligaciones subordinadas, salvo para ser adquiridas por la Institución Financiera del Exterior propietaria, directa o indirectamente, de las acciones de la Filial emisora. Tampoco les estará permitido a las Filiales el establecimiento de sucursales o subsidiarias fuera del territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 15-K.
+
+El consejo de administración de las Filiales, estará integrado por lo menos por cinco consejeros, de entre los cuales la mayoría deberá residir en territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 15-L.
+
+Los directores generales de las Filiales deberán cumplir con los requisitos previstos en la fracción VIII bis-1 del artículo 15 de la presente Ley y residir en territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 15-M.
+
+El órgano de vigilancia de las Filiales estará integrado por lo menos por un comisario nombrado por la Institución Financiera del Exterior o por la Sociedad Controladora Filial tenedora de las acciones de la Filial.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 15-N.
+
+Respecto de las Filiales, la Comisión Nacional de Seguros y Fianzas tendrá todas las facultades que le atribuye la presente Ley en relación con las instituciones de fianzas. Cuando autoridades supervisoras del país de origen de la Institución Financiera del Exterior propietaria de acciones representativas del capital social de una Filial o de una Sociedad Controladora Filial, según sea el caso, deseen realizar visitas de inspección, deberán solicitarlo a la Comisión Nacional de Seguros y Fianzas. En todo caso las visitas deberán hacerse por conducto de dicha Comisión la que establecerá los términos en que las visitas deban realizarse.
+
+La solicitud a que hace mención el párrafo anterior deberá hacerse por escrito, cuando menos con treinta días naturales de anticipación y deberá acompañarse de lo siguiente:
+
+I. Descripción del acto de inspección a ser realizado; y
+
+II. Las disposiciones legales pertinentes al acto de inspección objeto de la solicitud.
 
 (REUBICADO, D.O.F. 29 DE DICIEMBRE DE 1981)
 
 ### CAPITULO II. Operaciones
 
 > <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 1993)</small>
-
-### CAPITULO III. Activo Computable
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 16.
 
@@ -533,7 +663,9 @@ g).- La Secretaría de Hacienda y Crédito Público determinará, mediante regla
 
 En lo no previsto por lo anterior, a las instituciones de fianzas fiduciarias les será aplicable lo establecido en la Ley General de Títulos y Operaciones de Crédito;
 
-XVI.- Emitir obligaciones subordinadas que deberán ser obligatoriamente convertibles a capital, hasta por un monto igual al capital pagado de la institución. El importe de estas obligaciones no será considerado como integrante del capital base de operaciones;
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+XVI.- Emitir obligaciones subordinadas que deberán ser obligatoriamente convertibles en capital, hasta por un monto igual al capital pagado de la institución;
 
 Este tipo de obligaciones y sus cupones serán títulos de crédito con los mismos requisitos y características que los bonos bancarios, salvo lo previsto en la presente fracción.
 
@@ -801,7 +933,7 @@ La Secretaría de Hacienda y Crédito Público mediante disposiciones de caráct
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
-### CAPITULO IV. Reservas
+### CAPITULO III. Activo Computable
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -929,9 +1061,9 @@ Los notarios deberán exigir que se incluyan las limitaciones que conforme al p�
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
-### CAPITULO V. Prohibiciones
+### CAPITULO IV. Reservas
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 46.
 
@@ -1073,9 +1205,9 @@ La Secretaría de Hacienda y Crédito Público, cuando así se justifique otorga
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
-### CAPITULO I. Contabilidad
+### CAPITULO V. Prohibiciones
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 60.
 
@@ -1163,7 +1295,7 @@ Los repartos efectuados en contravención a lo dispuesto en los párrafos anteri
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
-### CAPITULO II. Inspección y Vigilancia
+### CAPITULO I. Contabilidad
 
 > <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
@@ -1311,9 +1443,9 @@ Cuando de los estados de situación mensual que las instituciones de fianzas est
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. Inspección y Vigilancia
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 66.
 
@@ -1503,9 +1635,9 @@ Cuando la Comisión Nacional de Seguros y Fianzas acuerde levantar la intervenci
 
 (REUBICADO, D.O.F. 29 DE DICIEMBRE DE 1981)
 
-### CAPITULO II. Facultades respecto a las operaciones
+### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 78.
 
@@ -1551,7 +1683,9 @@ Los días autorizados en los términos de este artículo se considerarán inháb
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
-### CAPITULO III. Relaciones Fiscales
+### CAPITULO II. Facultades respecto a las operaciones
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 82.
 
@@ -1667,15 +1801,13 @@ Para todos los efectos legales, los recibos expedidos en papelería oficial de l
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
-### CAPITULO IV. Procedimientos especiales
+### CAPITULO III. Relaciones Fiscales
 
 ###### ARTICULO 91.
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1984)
 
-### CAPITULO V. Revocación y liquidación
-
-> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 1993)</small>
+### CAPITULO IV. Procedimientos especiales
 
 ###### ARTICULO 92.
 
@@ -1943,9 +2075,9 @@ II.- El procedimiento convencional establecido conforme al presente artículo, p
 
 III.- Por lo que se refiere a los procedimientos convencionales con los beneficiarios de las fianzas, bastará que consten en el texto de las propias pólizas de fianza, o en documentos adicionales a las mismas, otorgados conforme al artículo 117 de esta Ley. Se considerarán aceptados los procedimientos convencionales por parte del beneficiario, cuando la institución de fianzas de que se trate no reciba negativa de observaciones a los mismos, dentro del plazo de diez días naturales, contado a partir de la fecha en que el beneficiario hubiere recibido la póliza de fianza y en su caso, los documentos adicionales a la misma en que se contenga el procedimiento convencional a que se sujetará la reclamación de la fianza.
 
-### CAPITULO VI. Infracciones y delitos
+### CAPITULO V. Revocación y liquidación
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 103 Bis 1.
 
@@ -2103,9 +2235,9 @@ La Secretaría de Hacienda y Crédito Público podrá ejercer las atribuciones q
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
-### CAPITULO UNICO
+### CAPITULO VI. Infracciones y delitos
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 110.
 
@@ -2129,9 +2261,9 @@ I.- Multa de 1,500 a 5,000 días de salario, por violación al primer párrafo d
 
 II.- Multa de 750 a 5,000 días de salario o la pérdida de su cargo, según la gravedad del caso, a los notarios, registradores o corredores que autoricen las escrituras o que inscriban actas en que se consigne alguna operación de las que esta Ley prohíbe expresamente, o para celebrar aquéllas para las cuales no esté facultado alguno de los otorgantes;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-III.- Multa por el importe equivalente al 10% del valor de las acciones que excedan del porcentaje permitido o de las acciones con que se participe en la asamblea, según el caso, conforme valuación que de esas mismas acciones se haga en términos de la fracción III del artículo 62 de esta Ley, a las personas que infringiendo lo dispuesto en las fracciones II bis y III del artículo 15 de la misma Ley, lleguen a ser propietarias de acciones de una institución de fianzas o de una sociedad de las comprendidas en los incisos b) y g) de la citada fracción III, del artículo 15, en exceso de los porcentajes permitidos, así como las que al participar en asamblea incurran en falsedad al hacer las manifestaciones a que se refieren los incisos a) y b) de la fracción IV del señalado artículo 15.
+III.- Multa por el importe equivalente al diez por ciento del valor de las acciones que excedan del porcentaje permitido o de las acciones con el que se participe en la Asamblea, según sea el caso, conforme a la valuación que de esas mismas acciones se haga de acuerdo con las Reglas previstas en la fracción III del artículo 62 de esta Ley, a las personas que infringiendo lo dispuesto en las fracciones I, I Bis y III del artículo 15 y los artículos 15-G y 15-H de la misma Ley lleguen a ser propietarias de acciones de una institución de fianzas o de una sociedad de las comprendidas en los incisos a) y b) de la fracción IV del artículo 15, en exceso de los porcentajes permitidos, así como a los que al participar en las Asambleas incurran en falsedad al buscar las manifestaciones a que se refieren los incisos a) y b) de la fracción IV del citado artículo 15.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -2342,6 +2474,10 @@ VII.- Que, a sabiendas, permitan a un deudor desviar el importe del préstamo en
 VIII.- Que, a sabiendas, presenten a la Comisión Nacional de Seguros y Fianzas datos falsos sobre la solvencia del deudor o sobre el valor de las garantías que protegen los créditos, imposibilitándola a adoptar las medidas necesarias para que se realicen los ajustes correspondientes en los registros de la institución respectiva.
 
 ## TITULO IV. Disposiciones varias
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 113.
 
@@ -2990,3 +3126,41 @@ TERCERO.- Las reglas, reglamentos y demás disposiciones administrativas emanada
 CUARTO.- Los procedimientos derivados de reclamaciones contra una institución de fianzas, con motivo del otorgamiento de pólizas de fianza, que se hubieren iniciado antes de la vigencia de este Decreto, continuarán su trámite hasta su conclusión en los términos establecidos en la Ley que se reforma y adiciona conforme a este Decreto.
 
 QUINTO.- A las personas que hayan cometido infracciones o delitos, incluidas las procesadas o sentenciadas, con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las sanciones vigentes al momento en que se hayan realizado dichas conductas, sin perjuicio de aplicar, cuando proceda, lo dispuesto en el artículo 56 del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.
+
+D.O.F. 23 DE DICIEMBRE DE 1993.
+
+PRIMERO.- El presente Decreto entrará en vigor el primero de enero de 1994.
+
+SEGUNDO.- La Secretaría de Hacienda y Crédito Público autorizará el límite de capital individual que podrá alcanzar cada Filial, así como el límite agregado que en su conjunto podrán alcanzar las Filiales del mismo tipo, de conformidad con los tratados o acuerdos internacionales aplicables.
+
+TERCERO.- Las adquisiciones por parte de Filiales, Instituciones Financieras del Exterior o Sociedades Controladoras Filiales de acciones de intermediarios financieros, en cuyo capital participen mayoritariamente inversionistas mexicanos, o de acciones de Filiales o Sociedades Controladoras Filiales, estarán sujetas a los límites de capital individuales y agregados que en su caso establezcan los tratados o acuerdos internacionales aplicables.
+
+CUARTO.- Cuando una Filial alcance el noventa por ciento del límite de capital individual autorizado, deberá notificar este hecho a la Secretaría de Hacienda y Crédito Público dentro de los cinco días hábiles siguientes.
+
+El incumplimiento de la obligación a que se refiere el párrafo anterior será sancionado por la Comisión Nacional competente, previa audiencia, con multa de hasta 2,500 días de salario mínimo por cada día de retraso en la notificación correspondiente.
+
+QUINTO.- Cuando una Filial exceda el límite de capital individual autorizado, la Secretaría de Hacienda y Crédito Público estará facultada para establecer un programa de reducción de capital a fin de que en un periodo determinado se ajuste a dicho límite. En todo caso, para cumplir con los requerimientos de capitalización aplicables se tomará en cuenta el menor entre el límite de capital individual autorizado y el capital real con que cuente la Filial de que se trate.
+
+Cuando se exceda el límite de capital individual autorizado, la Comisión Nacional competente estará facultada para remover, suspender o imponer veto a los miembros del consejo de administración, directores generales, comisarios, directores, gerentes y funcionarios que puedan obligar con su firma a la sociedad, previa audiencia, de conformidad con el procedimiento establecido en la ley aplicable.
+
+Si la infracción a lo dispuesto en el párrafo anterior es reiterada, o si la Filial no cumple con el programa de reducción de capital a que se refiere el primer párrafo del presente artículo, se podrá declarar la revocación de la autorización para constituir y operar una Filial o una Sociedad Controladora Filial, previa audiencia, en los términos establecidos en la ley aplicable.
+
+SEXTO.- El otorgamiento de autorizaciones para organizarse y operar como Filiales, así como para inscribirse en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, se podrá suspender cuando se hayan alcanzado los límites agregados a la participación de Instituciones Financieras del Exterior, o procedan las cláusulas de salvaguarda que en su caso establezca el tratado o acuerdo internacional aplicable.
+
+SEPTIMO.- Los límites individuales y agregados aplicables a las Filiales que en su caso establezcan los tratados o acuerdos internacionales correspondientes, serán calculados con base en la información proporcionada por la Comisión Nacional competente y por el Banco de México, en los términos de las reglas para el establecimiento de Filiales.
+
+OCTAVO.- Tratándose de instituciones de banca múltiple Filiales, los límites de capital individuales y agregados se fijarán con base en el capital neto de la totalidad de las instituciones de banca múltiple establecidas en México en la fecha de cálculo.
+
+NOVENO.- Tratándose de sociedades financieras de objeto limitado Filiales, los límites individuales y agregados se fijarán con base en la suma de los activos de la totalidad de las instituciones de banca múltiple y las sociedades financieras de objeto limitado establecidas en México en la fecha de cálculo.
+
+DECIMO.- Tratándose de las sociedades Filiales inscritas en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, los límites de capital individuales y agregados se fijarán con base en el capital global de la totalidad de las instituciones del mismo tipo establecidas en México en la fecha de cálculo.
+
+DECIMO PRIMERO.- Tratándose de organizaciones auxiliares de crédito Filiales, casas de cambio Filiales e instituciones de fianzas Filiales, los límites de capital individuales y agregados se fijarán con base en la suma del capital contable de la totalidad de las instituciones del mismo tipo establecidas en México en la fecha de cálculo.
+
+DECIMO SEGUNDO.- Los límites de capital individuales y agregados aplicables a las instituciones de seguros se fijarán con base en la cantidad que como requerimiento bruto de solvencia, necesiten las instituciones de seguros. Dicho requerimiento bruto de solvencia corresponderá al capital mínimo de garantía que se establezca, de acuerdo a las reglas que conforme al artículo 60 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros compete emitir a la Secretaría de Hacienda y Crédito Público, y se considerará por separado para la realización de las operaciones de vida, accidentes y enfermedades por una parte y de daños, considerando cada uno de sus ramos, por la otra.
+
+DECIMO TERCERO.- No obstante lo dispuesto en el artículo 29 fracción II de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, las Instituciones Financieras del Exterior podrán adquirir, previa autorización de un programa de inversiones por la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas, una participación accionaria en una institución de seguros de las previstas en el inciso a) de la fracción I Bis, del artículo 29 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, por constituirse o ya establecida, de conformidad con lo dispuesto en los tratados o acuerdos internacionales aplicables.
+
+Las Instituciones Financieras del Exterior que antes de la entrada en vigor del tratado o acuerdo aplicable tengan inversiones en instituciones de seguros, podrán incrementar éstas de conformidad con dicho tratado.
+
+A las inversiones señaladas en los dos párrafos anteriores no les serán aplicables los límites de capital individuales y agregados de conformidad con el tratado o acuerdo internacional aplicable.
