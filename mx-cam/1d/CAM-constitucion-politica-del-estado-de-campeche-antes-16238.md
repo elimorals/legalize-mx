@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1935-01-17"
+last_updated: "1937-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 1935.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 1937.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -401,13 +401,15 @@ Cuando la falta de Gobernador ocurriese después del primer año del período pa
 
 Si al comenzar un período constitucional no se presentase el Gobernador electo o la elección no estuviese hecha y declarada, el diez y seis de septiembre cesará sin embargo el Gobernador, cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Provisional, el que designe el Congreso del Estado, o, en su caso, la Diputación permanente, procediéndose como disponen los artículos 51 y 52.
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1933)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1937)</small>
 
 ###### Art. 55.
 
-Cuando la falta de Gobernador fuese temporal, el Congreso del Estado si estuviese reunido o en su defecto la Diputación Permanente, designará un Gobernador Interino, para que funcione durante el tiempo que dure dicha falta. Si la falta se convirtiese de temporal en absoluta, se procederá como disponen los artículos anteriores.
+Cuando la falta de Gobernador fuese temporal, el Congreso del Estado, si estuviese reunido, o en su defecto la Diputación Permanente, designará un Gobernador Interino, para que funcione durante el tiempo que dure dicha falta, a no ser que ésta no exceda de treinta días, en cuyo caso el Secretario General de Gobierno se encargará del despacho del Poder Ejecutivo.
 
-En caso de licencia del Gobernador del Estado, quedará impedido el interino para ser electo para el período inmediato, siempre que desempeñe el cargo en los dos últimos años del período.
+Si la falta se convirtiese de temporal en absoluta, se procederá como disponen los artículos anteriores.
+
+En caso de licencia del Gobernador del Estado, quedará impedido el Interino para ser electo para el período inmediato, siempre que desempeñe el cargo en los dos últimos años del período.
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1933)</small>
 
@@ -425,11 +427,11 @@ El cargo de Gobernador del Estado solo es renunciable por causa grave, que calif
 
 El Gobernador al tomar posesión de su cargo prestará ante el Congreso del Estado o ante la Diputación permanente, en los recesos de aquél, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ambas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador Constitucional que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del mismo, y si así no lo hiciere que la Nación o el Estado me lo demanden".
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 1922)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1937)</small>
 
 ###### Art. 59.
 
-El Gobernador del Estado, no podrá ausentarse por más de tres días del territorio del mismo, sin permiso del Congreso.
+El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso, si estuviese reunido, o en su defecto de la Diputación Permanente, a menos de que la ausencia no exceda de treinta días, en cuyo caso el Secretario General de Gobierno se encargará del despacho del Poder Ejecutivo.
 
 ###### Art. 60.
 
@@ -1010,3 +1012,7 @@ P.O. 21 DE JULIO DE 1934.
 P.O. 17 DE ENERO DE 1935.
 
 Unico.- El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1937.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
