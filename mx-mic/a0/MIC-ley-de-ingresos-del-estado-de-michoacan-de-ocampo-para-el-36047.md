@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-36047
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2003-12-31"
-last_updated: "2003-12-31"
+last_updated: "2004-04-07"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACAN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2004
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2004.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el miércoles 31 de diciembre del 2003.
 
@@ -1034,3 +1034,23 @@ PRESIDENTE.- DIP. RAÚL MORÓN OROZCO.- SECRETARIO.- DIP. EUSTOLIO NAVA ORTIZ.- 
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 29 veintinueve días del mes de diciembre del año 2003 dos mil tres.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 7 DE ABRIL DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Desarrollo Estatal, de conformidad con lo dispuesto por la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Michoacán de Ocampo, en un término de diez días hábiles, contados a partir de la entrada en vigor de este Decreto, presentará al Congreso del Estado la información complementaria, relacionada con el ajuste presupuestal a que se refiere el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos previstos en la fracción II del artículo 8º, de la Ley de Ingresos del Estado de Michoacán de Ocampo para el Ejercicio Fiscal del Año 2004, aprobado en el presente Decreto, el plazo para el pago de los derechos por servicios de renovación o refrendo anual de concesiones de servicio público de autotransporte, a que se refieren los artículos 185 fracción III, 186 fracción II, inciso A) y 187, de la Ley de Hacienda del Estado de Michoacán de Ocampo, para el presente ejercicio fiscal, se prorroga hasta el día 30 de abril del año en curso.
+
+###### ARTÍCULO CUARTO.
+
+La Tesorería General, efectuará la devolución de las diferencias a que tengan derecho los concesionarios que hayan realizado el pago de derechos por renovación o refrendo anual de concesiones de servicio público de autotransporte e impuesto adicional para carreteras y construcción de edificios escolares, con anterioridad a la entrada en vigor del presente Decreto, directamente en el módulo ubicado en el edificio que ocupa la Comisión Coordinadora del Transporte Público de Michoacán, previa entrega del original del recibo pagado para su cancelación y expidiendo uno nuevo que deberá registrar en el Sistema de Registro y Control Vehicular de Transporte Público.
