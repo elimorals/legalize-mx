@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-estatal-de-obras-publicas-10284"
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-11-10"
-last_updated: "1986-11-10"
+last_updated: "2001-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY ESTATAL DE OBRAS PUBLICAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE OBRAS PUBLICAS, EQUIPAMIENTOS, SUMINISTROS Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 27 DE ABRIL DE 2001, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el lunes 10 de noviembre de 1986.
 
@@ -574,3 +576,19 @@ EL SECRETARIO DE ASENTAMIENTOS HUMANOS Y OBRAS PUBLICAS DEL ESTADO.
 C. ARQ. ENRIQUE LUNA HERRERA.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE ABRIL DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de la Ley Estatal de Obras Públicas, publicado en el Periódico Oficial con fecha 10 de Noviembre de 1986.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se expidan las demás disposiciones administrativas necesarias para la aplicación de la Ley y del Reglamento, deberán observarse y aplicarse en la contratación y ejecución de las obras, las normas administrativas expedidas con anterioridad en todo lo que no se opongan al presente Reglamento.
