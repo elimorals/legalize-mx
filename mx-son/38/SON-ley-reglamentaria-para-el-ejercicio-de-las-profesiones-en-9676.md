@@ -4,7 +4,7 @@ identifier: "SON-ley-reglamentaria-para-el-ejercicio-de-las-profesiones-en-9676"
 country: "mx"
 rank: "ley"
 publication_date: "1952-12-03"
-last_updated: "1954-01-02"
+last_updated: "1954-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY REGLAMENTARIA PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 2 DE ENERO DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 1954.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el miércoles 3 de diciembre de 1952.
 
@@ -423,6 +423,10 @@ e).- Demostrar su capacidad en la rama que han venido ejerciendo, mediante un ex
 
 f).- Tratándose de profesores de instrucción primaria y preescolar, quedara al prudente arbitrio del Ejecutivo del Estado exigir o no el requisito del examen.
 
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 1954)</small>
+
+g).- Podrán ser autorizadas para ejercer la profesión de Licenciado en Derecho, sin llenar el requisito de presentar exámen a que se refiere el inciso e) de este Artículo, aquellas personas que durante diez años o más hayan ejercido dentro del Estado en su calidad de Jueces de Primera Instancia Agentes del Ministerio Público y Defensores de Oficio, siempre que sean de reconocida competencia a juicio del H. Supremo Tribunal de Justicia de la Entidad.
+
 QUINTO.- El Estado cuidara de que las funciones y empleos públicos relacionados con las profesiones que esta Ley reglamenta estén cubiertos por profesionistas con títulos registrados, de acuerdo con la presente ley; solo por imposibilidad y entre tanto se logra que haya profesionistas titulados dispuestos a desempeñar esos cargos, podrá nombrarse a personas no tituladas.
 
 Comuníquese al Ejecutivo para su sanción y observancia.
@@ -454,3 +458,7 @@ B.O. 2 DE ENERO DE 1954.
 Primero.- Se abroga la Ley Número 26 y 27 de junio de 1953, que fue publicada en el Boletín Oficial número 2, del día 4 de julio del mismo año y que había prorrogado hasta el 31 de enero de 1954 los plazos de seis meses que señalaban los Artículos Tercero y Cuarto Transitorios de la Ley Reglamentaria para el Ejercicio de las Profesiones en el Estado de Sonora, de 4 de noviembre de 1952.
 
 Segundo.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 10 DE JULIO DE 1954.
+
+Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
