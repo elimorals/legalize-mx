@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1997-06-06"
+last_updated: "1997-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 1997.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1447,6 +1447,8 @@ Persecución oficiosa.- El delito previsto en el artículo anterior se perseguir
 
 ### CAPITULO VI. USURA
 
+(REFORMADO, P.O. 4 DE JULIO DE 1997) (F. DE E., P.O. 22 DE AGOSTO DE 1997)
+
 ###### Artículo 182.
 
 Tipo y punibilidad.- Al que realice cópula con mujer de catorce años de edad y menor de dieciocho, casta y honesta, obteniendo su consentimiento por medio de la seducción o el engaño se le impondrá de dos a seis años de prisión y hasta cien días multa.
@@ -1801,7 +1803,7 @@ Tipo y punibilidad.- Al que para obtener un lucro obligue a otro, a realizar u o
 
 ###### Artículo 225.
 
-Tipo y punibilidad.- Se impondrá prisión de seis meses a seis años y hasta trescientos días multa, al que aprovechándose de la necesidad apremiante, ignorancia, o la notoria inexperiencia de una persona obtenga un lucro excesivo mediante intereses o ventajas económicas desproporcionados.
+Tipo y punibilidad.- Se impondrá prisión de uno a diez años y multa hasta por ochocientos días multa, al que aprovechándose de la necesidad apremiante, ignorancia, o la notoria inexperiencia de una persona obtenga un lucro excesivo mediante intereses o ventajas económicas desproporcionados.
 
 ### CAPITULO I. PORTACION, FABRICACION, IMPORTACION Y ACOPIO DE ARMAS PROHIBIDAS
 
@@ -3128,5 +3130,9 @@ P.O. 3 DE ENERO DE 1997.
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
 
 P.O. 6 DE JUNIO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 4 DE JULIO DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
