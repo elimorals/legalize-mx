@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-95-de-seguridad-publica-para-el-estado-de-14179"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-17"
-last_updated: "2003-03-18"
+last_updated: "2004-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE AGOSTO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 17 de enero de 1998.
 
@@ -108,6 +108,10 @@ El Sistema Estatal de Seguridad Pública comprende las corporaciones y los servi
 El Gobernador tendrá el mando supremo de las fuerzas de seguridad pública estatales. Las policías municipales preventivas acatarán las órdenes que el Titular del Poder Ejecutivo les transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
 El mando directo de los cuerpos de seguridad pública recaerá en los funcionarios que señalen las normas aplicables en cada caso. Dichos funcionarios serán responsables de la observancia de la presente ley y de las disposiciones que deriven de ella.
+
+> <small>(ADICIONADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
+Las corporaciones policiales estatales y municipales podrán coordinar sus actividades mediante la celebración de convenios generales o específicos como auxiliares suplementarios y de colaboración y coadyuvancia en la investigación y persecución de los delitos, en cuyo caso estarán bao el mando y dirección del Ministerio Público, en términos de lo dispuesto por las constituciones políticas de los Estados Unidos Mexicanos y del Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 15.
 
@@ -225,11 +229,23 @@ X. Promover y alentar una cultura de seguridad pública en los niveles estatal y
 
 XI. Formular u ordenar estudios y propuestas para cumplir sus objetivos. Dichos estudios se entregarán al Gobernador del estado para la atención que corresponda, y
 
-XII. Las demás que le señalen esta ley y demás disposiciones legales.
+> <small>(ADICIONADA, G.O. 24 DE AGOSTO DE 2004)</small>
+
+XII. Coadyuvar con los municipios de la Entidad para la celebración de convenios que tengan por objeto la creación de cuerpos policiales intermunicipales;
+
+> <small>(ADICIONADA, G.O. 24 DE AGOSTO DE 2004)</small>
+
+XIII. Vigilar que los convenios que celebren los cuerpos policiales estatales, municipales e intermunicipales con el Ministerio Público, se lleven a cabo en términos de lo dispuesto por las constituciones políticas de los Estados Unidos Mexicanos y del Estado de Veracruz de Ignacio de la Llave, y
+
+> <small>(REFORMADA, G.O. 24 DE AGOSTO DE 2004)</small>
+
+XIV. Las demás que le señalen esta ley y demás disposiciones legales.
+
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 20.
 
-La participación en el Sistema y en el Consejo Estatal, en ningún caso implica la transferencia de atribuciones o facultades legales de las autoridades estatales y municipales, sino la coordinación en el ejercicio de aquéllas, con el propósito de obtener, con mayor eficacia, el mejoramiento de las condiciones de seguridad pública en la entidad. Por lo tanto, las autoridades que integran el Sistema y participan en el Consejo conservan íntegramente las responsabilidades que legalmente les corresponden.
+La participación en el Sistema y en el Consejo Estatal, en ningún caso implica la transferencia de atribuciones o facultades legales de las autoridades estatales y municipales, sino la coordinación en el ejercicio de aquéllas, con el propósito de obtener, con mayor eficacia, el mejoramiento de las condiciones de seguridad pública en la Entidad y el perfeccionamiento de las medidas que en materia de prevención se establezcan. Por lo tanto, las autoridades que integran el Sistema y participan en el Consejo conservan íntegramente las responsabilidades que legalmente les corresponden.
 
 ###### Artículo 21.
 
@@ -602,3 +618,9 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 24 DE AGOSTO DE 2004.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo Segundo. Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
