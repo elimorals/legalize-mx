@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2000-04-22"
+last_updated: "2003-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2003.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de Septiembre de 1954.
 
@@ -1573,15 +1573,25 @@ I.- El adulterio debidamente probado de uno de los cónyuges;
 
 II.- El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse ese contrato, y que judicialmente sea declarado ilegítimo;
 
-III.- La propuesta del marido para prostituir a su mujer, no sólo cuando el mismo marido la haya hecho directamente, sino cuando se pruebe que ha recibido dinero o cualquiera remuneración con el objeto expreso de permitir que otro tenga relaciones carnales con su mujer;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
 
-IV.- La incitación a la violencia hecha por un cónyuge al otro para cometer algún delito, aun que no sea de incontinencia carnal;
+III.- La propuesta de un cónyuge para prostituir al otro, no sólo cuando el mismo lo haya hecho directamente, sino también cuando se pruebe que ha recibido dinero o cualquier remuneración con el objeto expreso de permitir que se tengan relaciones carnales con el otro cónyuge;
 
-V.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, así como la tolerancia en su corrupción;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
 
-VI.- Padecer sífilis, tuberculosis o cualquiera otra enfermedad crónica o incurable que sea, además, contagiosa o hereditaria, y la impotencia incurable que sobrevenga después de celebrado el matrimonio;
+IV.- La incitación o la violencia hecha por un cónyuge al otro para cometer algún delito;
 
-VII.- Padecer enajenación mental incurable;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
+
+V.- Los actos ejecutados por alguno de los cónyuges a fin de corromper a los hijos sean de ambos o de uno sólo de ellos, así como la tolerancia en su corrupción basada en actos positivos o en omisiones graves;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
+
+VI.- Padecer uno de los cónyuges cualquier enfermedad incurable, que sea además, contagiosa o hereditaria y la impotencia sexual incurable que sobrevenga después de celebrado el matrimonio, exceptuando la que tenga su origen en la edad avanzada;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
+
+VII.- Padecer enfermedad mental incurable;
 
 VIII.- La separación de la casa conyugal por más de seis meses sin causa justificada;
 
@@ -1589,7 +1599,9 @@ IX.- La separación del hogar conyugal originada por una causa que sea bastante 
 
 X.- La declaración de ausencia legalmente hecha, o la de presunción de muerte, en los casos de excepción en que no se necesita para que se haga que proceda la declaración de ausencia;
 
-XI.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
+
+XI.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro, o para los hijos, sean de ambos o de uno sólo de ellos;
 
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 1975)</small>
 
@@ -1597,9 +1609,13 @@ XII.- La negativa injustificada de los cónyuges a cumplir las obligaciones señ
 
 XIII.- La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
 
-XIV.- Haber cometido uno de los cónyuges un delito que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
 
-XV.- Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes, cuando amenazan causar la ruina de la familia, o constituyen un continuo motivo de desavenencia conyugal;
+XIV.- Cometer cualquiera de los cónyuges un delito doloso por el que no tenga derecho a la libertad provisional bajo caución o que por su propia naturaleza constituya un delito que cause deshonra o descrédito familiar;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
+
+XV.- El alcoholismo, los hábitos de juego o el uso no terapéutico de substancias lícitas o el uso de las ilícitas que produzcan efectos psicotrópicos, cuando se amenace o sea causa de la ruina de la familia o constituya un constante motivo de desavenencia;
 
 > <small>(REFORMADA, P.O. 25 DE MARZO DEL 2000)</small>
 
@@ -1609,27 +1625,35 @@ XVI.- Cometer un cónyuge contra la persona o los bienes del otro, un acto que s
 
 XVII.- El mutuo consentimiento;
 
-> <small>(ADICIONADA, P.O. 25 DE MARZO DEL 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
 
-XVIII.- Las conductas de violencia intrafamiliar cometidas por uno de los cónyuges contra el otro o hacia los hijos de ambos o de uno de ellos. Para los efectos de este artículo, se entiende por violencia intrafamiliar lo dispuesto por el artículo 25, fracción I, inciso b) de la Ley para la Prevención y Atención a la Violencia Intrafamiliar; y
+XVIII.- Las conductas de violencia intrafamiliar cometidas por uno de los cónyuges contra el otro o hacia los hijos de ambos o de uno de ellos. Para los efectos de esta causal, se entiende como violencia intrafamiliar y como miembros de la familia, lo establecido en el artículo 25 de la Ley para la Prevención y Atención a la Violencia Intrafamiliar para el Estado de Colima;
 
-> <small>(ADICIONADA, P.O. 25 DE MARZO DEL 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
 
-XIX.- El incumplimiento injustificado de las órdenes de protección expedidas por la autoridad competente, tendientes a corregir los actos de violencia intrafamiliar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello.
+XIX.- El incumplimiento injustificado de las determinaciones de las autoridades administrativas o de las resoluciones judiciales tendientes a corregir los actos de violencia intrafamiliar y a proteger a los hijos y al cónyuge inocente, cuando éstos sean receptores de ese tipo de violencia;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2003)</small>
+
+XX.- El empleo de métodos de fecundación asistida, realizada sin el consentimiento de su cónyuge; y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2003)</small>
+
+XXI.- La separación de los cónyuges por más de dos años, independientemente del motivo que la haya originado, pudiendo ser invocada por cualquiera de ellos.
 
 ART. 268.- Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio, pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia. Durante estos tres meses, los cónyuges no están obligados a vivir juntos.
 
-ART. 269.- Cualquiera de los esposos puede pedir el divorcio por el adulterio de su cónyuge. Esta acción dura seis meses, contados desde que se tuvo conocimiento del adulterio.
+ART. 269.- (DEROGADO, P.O. 29 DE MARZO DE 2003)
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DEL 2000)</small>
+ART. 270.- (DEROGADO, P.O. 29 DE MARZO DE 2003)
 
-ART. 270.- Son causas de divorcio los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, ya lo sean éstos de ambos, ya de uno sólo de ellos. La tolerancia en la corrupción que da derecho a pedir el divorcio, debe consistir en actos positivos o en omisiones graves.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DEL 2000)</small>
+ART. 271.- Para que pueda pedirse el divorcio por causa de enfermedad mental que se considere incurable, o de peligro de daño para la integridad física o psicológica del otro cónyuge y de los hijos de ambos o de alguno de ellos, es necesario justificarlo con dictamen médico expedido por institución oficial y que haya transcurrido, además un año desde que comenzó a padecerse la enfermedad.
 
-ART. 271.- Para que pueda pedirse el divorcio por causa de enajenación mental que se considere incurable, o de peligro de daño para la integridad física o psicológica del otro cónyuge y de los hijos de ambos o de alguno de ellos, es necesario justificarlo con dictamen médico expedido por institución oficial y que hayan transcurrido, además, dos años desde que comenzó a padecerse la enfermedad.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2003)</small>
 
-ART. 272.- Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el oficial del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
+ART. 272.- Cuando ambos cónyuges convengan en divorciarse y sean mayores de edad, no tengan hijos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, y haya transcurrido un año o más de la celebración del matrimonio, se presentarán personalmente ante el oficial del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, manifestarán de una manera terminante y explícita su voluntad de divorciarse.
 
 El oficial del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio anterior.
 
@@ -1641,27 +1665,37 @@ Los consortes que no se encuentren en el caso previsto en los anteriores párraf
 
 ART. 273.- Los cónyuges que se encuentren en el caso del último párrafo del artículo anterior, están obligados a presentar al Juzgado un convenio en que se fijen los siguientes puntos:
 
-I.- Designación de persona a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
+
+I.- Designación de la persona que tendrá la guarda y custodia de los hijos menores o incapaces tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
 II.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 1975)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
 
-III.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento;
+III.- La casa que servirá de habitación a cada cónyuge y a los hijos durante el procedimiento y después de ejecutoriado el divorcio, obligándose a ambos a comunicar los cambios de domicilio aún después de decretado el divorcio, si hay hijos menores o incapaces u obligaciones alimentarias que cubrir;
 
-IV.- La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento, la forma de hacer el pago y la garantía que debe darse para asegurarlo;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
+
+IV.- La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento y después de decretado el divorcio, si la necesitara, la forma de hacer el pago y la garantía que debe darse para asegurarlo; y
 
 V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto se acompañará un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad.
 
-ART. 274.- El divorcio por mutuo consentimiento no puede pedirse sino pasado un año de la celebración del matrimonio.
+ART. 274.- (DEROGADO, P.O. 29 DE MARZO DE 2003)
 
-ART. 275.- Mientras que se decrete el divorcio, el juez autorizará la separación de los cónyuges de una manera provisional y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes hay obligación de dar alimentos.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
+
+ART. 275.- Mientras se decrete el divorcio, el juez autorizará la separación de los cónyuges de una manera provisional y dictará las medidas necesarias para asegurar la custodia y subsistencia de los hijos a quienes hay obligación de dar alimentos.
 
 ART. 276.- Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
 
 ART. 277.- El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 267 podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
 
-ART. 278.- El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él, y dentro de los seis meses siguientes al día en que hayan llegado a su noticia los hechos en que se funde la demanda.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
+
+ART. 278.- El divorcio necesario sólo podrá promoverse por el cónyuge que no haya dado causa de él y dentro de los seis meses siguientes al día en que tenga conocimiento de los hechos en los que se funde la demanda cuando se invoquen las causales a que se refieren las fracciones II, III, IV, V, VI, VIII, XIII, XIV, XVI, XIX y XX del artículo 267 de este Código. Se exceptúan de esta regla, las causales de las fracciones I, VII, IX, XI, XII y XV de dicho artículo, en cuyo caso el plazo para demandar el divorcio necesario, será de dos años.
+
+Las causales a que se refieren las fracciones XVII, XVIII y XXI, del artículo 267 de este Código podrán ser invocadas en cualquier tiempo, sin que prescriba el derecho de acción.
 
 ART. 279.- Ninguna de las causas enumeradas en el artículo 267 puede alegarse para pedir el divorcio cuando haya mediado perdón expreso o tácito.
 
@@ -1697,9 +1731,11 @@ VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren d
 
 VII.- Imponer la prohibición de ir a un domicilio o lugar para alguno de los cónyuges, así como las medidas necesarias para evitar actos de violencia intrafamiliar.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DEL 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2003)</small>
 
-ART. 283.- Durante el procedimiento el juez, de oficio o a petición de parte, dictará las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir actos de violencia intrafamiliar, debiéndose allegar los elementos necesarios para ello. En todo caso estará obligado a escuchar a ambos progenitores y a los menores y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para los menores. Las medidas podrán ser suspendidas o modificadas en los términos del artículo 94 del Código de Procedimientos Civiles vigente en el Estado.
+ART. 283.- Durante el procedimiento el juez, de oficio o a petición de parte interesada, dictará las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir conductas de violencia intrafamiliar, debiéndose allegar los elementos necesarios para ello. En todo caso estará obligado a escuchar a ambos progenitores y a los hijos mayores de 14 años. Salvo que exista peligro para el menor, el juez hará respetar el derecho de convivencia con los padres. Las medidas podrán ser suspendidas o modificadas en los términos del artículo 94 del Código de Procedimientos Civiles vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DEL 2000)</small>
 
 La sentencia de divorcio fijará en definitiva la situación de los hijos, para lo cual el juez deberá resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso y en especial, a la guarda y cuidado de los hijos.
 
@@ -1717,9 +1753,25 @@ ART. 286.- El cónyuge que diere causa al divorcio perderá todo lo que se le hu
 
 ART. 287.- Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos hasta que lleguen a la mayor edad.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
 
-ART. 288.- En los casos de divorcio, el Juez tomando en cuenta las circunstancias del caso, y entre ellas la capacidad para trabajar de los cónyuges y su situación económica, sentenciará al culpable al pago de alimentos en favor del inocente. Este derecho lo disfrutará en tanto viva honestamente y no contraiga nupcias. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+###### Art. 288.
+
+En los casos de divorcio necesario el juez sentenciará al cónyuge culpable al pago de alimentos a favor del cónyuge inocente, tomando en cuenta las siguientes circunstancias:
+
+I.- La edad y el estado de salud de los cónyuges;
+
+II.- Su calificación profesional y posibilidad de acceso a un empleo;
+
+III.- Duración del matrimonio;
+
+IV.- Participación con su trabajo en las actividades económicas del cónyuge culpable;
+
+V.- Situación económica de cada uno de los cónyuges; y
+
+VI.- Las demás obligaciones que tenga el cónyuge culpable.
+
+En la resolución se fijarán las bases para actualizar la pensión y las garantías para su cumplimiento. Extinguiéndose estas obligaciones cuando el acreedor contraiga nuevas nupcias o tenga una nueva pareja en unión libre, concubinato o cualquiera otra.
 
 ART. 289.- En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
 
@@ -1783,13 +1835,21 @@ ART. 306.- Los hermanos y demás parientes colaterales a que se refiere el artí
 
 ART. 307.- El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
 
-ART. 308.- Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto de los menores, los alimentos comprenden, además, los gastos necesarios para la educación primaria del alimentista y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
+
+ART. 308.- Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto de los menores, los alimentos comprenden, además, los gastos necesarios para la educación básica del alimentista y para proporcionarle algún oficio, arte o profesión adecuados a sus circunstancias personales.
+
+En el caso de las personas con algún tipo de discapacidad o declaradas en estado de interdicción comprenderán además, todo lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo.
 
 ART. 309.- El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
 
 ART. 310.- El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
 
 ART. 311.- Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2003)</small>
+
+Cuando por resolución judicial o convenio se haya fijado una pensión alimenticia, esta podrá modificarse cuando cambien las circunstancias de la acción que se dedujo en el juicio correspondiente, especialmente tratándose de menores de 18 años.
 
 ART. 312.- Si fueren varios los que deben dar los alimentos y todos tuvieren posibilidad para hacerlo, el juez repartirá el importe entre ellos, en proporción a sus haberes.
 
@@ -10164,3 +10224,7 @@ Los juicios que se encuentren en trámite o pendientes de resolución a la fecha
 P.O. 22 DE ABRIL DE 2000.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE MARZO DE 2003.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
