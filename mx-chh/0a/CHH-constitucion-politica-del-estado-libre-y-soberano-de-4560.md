@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "1999-08-21"
+last_updated: "1999-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1999.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1173,9 +1173,9 @@ III.- Llamar a los sustitutos de la misma Diputación en las faltas absolutas o 
 
 IV.- Integrar el número de Diputados que la componen, en caso de muerte, separación o impedimento no transitorio de alguno de los nombrados.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1999)</small>
 
-V.- Las que señala al Congreso el art. 64 en sus fracciones IX, inciso d; XIII; XVI, XXVII, XXXI, XXXII, XXXIII y XLIV.
+V.- Las que señala al Congreso el Artículo 64 en sus fracciones IX, inciso d; XIII; XIV; XXVII; XXXI; XXXII; XXXIII; XXXVI; y XLIV.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1575,9 +1575,9 @@ Los magistrados y jueces en funciones o que disfruten de licencia con goce de su
 
 El Supremo Tribunal de Justicia funcionará en pleno o en salas unitarias, que podrán ser regionales, según lo determine la ley.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
 
-Su Presidente rendirá en el mes de diciembre de cada año, un informe ante el Pleno sobre el estado que guarda la Administración de Justicia.
+Su Presidente rendirá en el mes de enero de cada año, un informe ante el Pleno sobre el estado que guarda la administración de justicia.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2589,7 +2589,7 @@ DECRETO No. 263
 
 PRIMERO.- Las reformas a que se refiere esta Ley, entrarán en vigor en todo el Estado, el día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- Los Ayuntamientos que vienen funcionando, con arreglo a la Constitución del Estado en su términos vigentes hasta antes de estas reformas y a sus respectivas representaciones, concluirán su periódo el treinta y uno de diciembre de mil novecientos cincuenta y cinco.
+SEGUNDO.- Los Ayuntamientos que vienen funcionando, con arreglo a la Constitución del Estado en sus términos vigentes hasta antes de estas reformas y a sus respectivas representaciones, concluirán su período el treinta y uno de diciembre de mil novecientos cincuenta y cinco.
 
 TERCERO.- Las próximas elecciones para Ayuntamiento, se verificarán en el mes de julio de mil novecientos cincuenta y seis. En tal virtud para el lapso de tiempo comprendido del primero de enero de mil novecientos cincuenta y seis al nueve de octubre del mismo año, conforme está previsto en la Constitución del Estado, el Congreso Constitucional procederá a integrar provisionalmente los Ayuntamientos respectivos, seleccionando las personas que han de ocupar los cargos a propuesta en ternas que presentará el Ejecutivo del Estado, antes del quince de diciembre de mil novecientos cincuenta y cinco.
 
@@ -2740,6 +2740,16 @@ P.O. 21 DE AGOSTO DE 1999.
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Por esta única ocasión, el informe anual que rinda el Presidente del Supremo Tribunal de Justicia, comprenderá las actividades del Poder Judicial desarrolladas desde el primero de julio de 1998 al 31 de diciembre de 1999.
+
+P.O. 22 DE DICIEMBRE DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
