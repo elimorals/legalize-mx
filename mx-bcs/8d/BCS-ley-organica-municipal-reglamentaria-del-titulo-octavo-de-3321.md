@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-municipal-reglamentaria-del-titulo-octavo-de-3321"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "2004-02-10"
+last_updated: "2004-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE AGOSTO DE 2004.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1976.
 
@@ -689,9 +689,45 @@ En caso de que el mandato sea revocado, la Legislatura Local procederá a la des
 
 ### CAPITULO PRIMERO. DE LAS AUTORIDADES AUXILIARES
 
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 43.
 
-Las Autoridades Auxiliares Municipales, actuarán en sus respectivas jurisdicciones, como Delegados de los Ayuntamientos y por consiguiente tendrán las atribuciones que sean necesarias para mantener, en términos de esta Ley, el orden y la seguridad de los vecinos del lugar donde actúen, conforme lo determinen las Leyes, Reglamentos y los Bandos Municipales respectivos.
+Las Autoridades Auxiliares Municipales actuarán en sus respectivas jurisdicciones, como Delegados de los Ayuntamientos y, por consiguiente, tendrán las siguientes atribuciones:
+
+I.- Representar al Ayuntamiento en la demarcación delegacional a su cargo, gestionando los intereses de su comunidad, ante las diversas instancias de los gobiernos Municipal, Estatal y Federal en los asuntos de interés comunitario, previa anuencia de dicho Ayuntamiento.
+
+II.- Vigilar y coadyuvar al cumplimiento de las Leyes Federales, Estatales y Municipales.
+
+III.- Ejecutar los acuerdos del Ayuntamiento y los del Presidente Municipal en el área de su respectiva demarcación.
+
+IV.- Mantener en términos de esta Ley, el orden, la seguridad y la tranquilidad de los vecinos de la Delegación, conforme lo determinen las leyes, Reglamentos y los Bandos Municipales respectivos, solicitando de considerarlo procedente el auxilio de las autoridades correspondientes.
+
+V.- Coadyuvar con el Ayuntamiento cada año, en la elaboración del presupuesto de egresos, en lo que corresponde a su demarcación.
+
+VI.- Rendir al Ayuntamiento, por medio de la Tesorería Municipal las cuentas relacionadas con el movimiento de fondos de la Delegación.
+
+VII.- Auxiliar al Secretario General del Ayuntamiento con la información que requiera para expedir certificaciones.
+
+VIII.- Coadyuvar con el Ayuntamiento en la elaboración y ejecución del Plan de Desarrollo Municipal, con sus opiniones, propuestas y recomendaciones
+
+IX.- Promover el establecimiento y conservación de los servicios públicos municipales y llevar su administración en el territorio Delegacional, coordinadamente con las estructuras del ayuntamiento conforme a la Ley o reglamento respectivo.
+
+X.- Actuar como conciliador en los conflictos que sometan a su consideración los habitantes de su demarcación, y en su caso, indicarles las instancias en las que pueden ser atendidos.
+
+XI.- Dar cuenta mensualmente, de los asuntos de su respectiva demarcación al Ayuntamiento, por medio del Presidente Municipal.
+
+XII.- Rendir parte a la Presidencia Municipal de las novedades que ocurran en la Delegación.
+
+XIII.- Extender constancias de residencia a los vecinos que las soliciten.
+
+XIV.- Coadyuvar con las autoridades al florecimiento, resurgimiento y preservación del sentido de identidad de los ciudadanos respecto de los valores cívicos promoviendo la realización de eventos culturales, deportivos y sociales en su delegación.
+
+XV.- Mantener y actualizar el archivo de la delegación, incluyendo los registros de panteones, informes de ingresos por cooperaciones, de egresos de actividades realizadas, entregando al término de su gestión dichos archivos, así como los bienes municipales que tengan bajo su resguardo, a las autoridades que los releven.
+
+XVI.- Comparecer ante el Cabildo, cuando este lo estime pertinente lo cual deberá hacer por lo menos una vez al año en la fecha que el propio Cabildo considere pertinente.
+
+XVII.- Las demás que les señalen las Leyes y reglamentos Municipales, así como el propio Ayuntamiento.
 
 ###### Artículo 44.
 
@@ -1564,3 +1600,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 B.O. 10 DE FEBRERO DE 2004.
 
 ÚNICO: El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE AGOSTO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín oficial del Gobierno del Estado de Baja California Sur.
