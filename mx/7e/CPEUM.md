@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1934-03-22"
+last_updated: "1934-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE MARZO DE 1934.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE DICIEMBRE DE 1934.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -48,15 +48,29 @@ En los Estados Unidos Mexicanos todo individuo gozará de las garantías que oto
 
 Está prohibida la esclavitud en los Estados Unidos Mexicanos. Los esclavos del extranjero que entren al territorio nacional, alcanzarán, por ese sólo hecho, su libertad y la protección de las leyes.
 
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1934)</small>
+
 ###### Art. 3o.
 
-La enseñanza es libre; pero será laica la que se dé en los establecimientos oficiales de educación, lo mismo que la enseñanza primaria, elemental y superior que se imparta en los establecimientos particulares.
+La educación que imparta el Estado será socialista, y además de excluir toda doctrina religiosa combatirá el fanatismo y los prejuicios, para lo cual la escuela organizará sus enseñanzas y actividades en forma que permita crear en la juventud un concepto racional y exacto del universo y de la vida social.
 
-Ninguna corporación religiosa, ni ministro de algún culto, podrán establecer o dirigir escuelas de instrucción primaria.
+Sólo el Estado -Federación, Estados, Municipios- impartirá educación primaria, secundaria y normal. Podrán concederse autorizaciones a los particulares que deseen impartir educación en cualquiera de los tres grados anteriores, de acuerdo en todo caso con las siguientes normas:
 
-Las escuelas primarias particulares sólo podrán establecerse sujetándose a la vigilancia oficial.
+I.- Las actividades y enseñanzas de los planteles particulares deberán ajustarse, sin excepción alguna, a lo preceptuado en el párrafo inicial de este artículo, y estarán a cargo de personas que en concepto del Estado tengan suficiente preparación profesional, conveniente moralidad e ideología acorde con este precepto. En tal virtud, las corporaciones religiosas, los ministros de los cultos, las sociedades por acciones que exclusiva o preferentemente realicen actividades educativas, y las asociaciones o sociedades ligadas directa o indirectamente con la propaganda de un credo religioso, no intervendrán en forma alguna en escuelas primarias, secundarias o normales, ni podrán apoyarlas económicamente.
 
-En los establecimientos oficiales se impartirá gratuitamente la enseñanza primaria.
+II.- La formación de planes, programas y métodos de enseñanza corresponderá en todo caso al Estado.
+
+III.- No podrán funcionar los planteles particulares sin haber obtenido previamente, en cada caso, la autorización expresa del poder público.
+
+IV.- El Estado podrá revocar, en cualquier tiempo, las autorizaciones concedidas. Contra la revocación no procederá recurso o juicio alguno.
+
+Estas mismas normas regirán la educación de cualquier tipo o grado que se imparta a obreros o campesinos.
+
+La educación primaria será obligatoria y el Estado la impartirá gratuitamente.
+
+El Estado podrá retirar discrecionalmente en cualquier tiempo, el reconocimiento de validez oficial a los estudios hechos en planteles particulares.
+
+El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, los Estados y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan.
 
 ###### Art. 4o.
 
@@ -870,11 +884,9 @@ XXIII.- Para formar su reglamento interior, y tomar las providencias necesarias 
 
 XXIV.- Para expedir la ley orgánica de la Contaduría Mayor.
 
-> <small>(DEROGADA [N. DE E. REUBICADA, ANTES FRACCION XXVII], D.O.F. 20 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1934)</small>
 
-XXV.- Para establecer, organizar y sostener en toda la República escuelas rurales, elementales, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica; escuelas prácticas de agricultura, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la Nación, y legislar en todo lo que se refiera a dichas instituciones.
-
-La Federación tendrá jurisdicción sobre los planteles que ella establezca, sostenga y organice, sin menoscabo de la libertad que tienen los Estados para legislar sobre el mismo ramo educacional. Los títulos que se expidan por los establecimientos de que se trata, surtirán sus efectos en toda la República.
+XXV.- Para establecer, organizar y sostener en toda la República escuelas rurales, elementales, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica; escuelas prácticas de agricultura y de minería, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la Nación y legislar en todo lo que se refiere a dichas instituciones; así como para dictar las leyes encaminadas a distribuir convenientemente entre la Federación, los Estados y los Municipios el ejercicio de la función educativa y las aportaciones económicas correspondientes a ese servicio público, buscando unificar y coordinar la educación en toda la República. Los títulos que se expidan por los establecimientos de que se trata, surtirán sus efectos en toda la República.
 
 > <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 1933)</small>
 
@@ -1738,7 +1750,7 @@ Al Ciudadano ..
 
 D.O.F. 8 DE JULIO DE 1921.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 D.O.F. 24 DE NOVIEMBRE DE 1923.
 
@@ -1800,7 +1812,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 D.O.F. 19 DE DICIEMBRE DE 1931.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
 
 D.O.F. 27 DE ABRIL DE 1933.
 
@@ -1853,3 +1865,7 @@ D.O.F. 22 DE MARZO DE 1934.
 UNICO.- La parte continental que anteriormente pertenecía al Territorio de Quintana Roo y que ha quedado anexada a los Estados de Yucatán y Campeche, queda libre de cualquier adeudo que pudiera existir a favor del comercio y empleados públicos que prestaron sus servicios en dicho Territorio hasta el 31 de diciembre de 1931, en que se anexó a los Estados de Yucatán y Campeche, pues la Federación liquidará y pagará dichos adeudos, debiendo quedar en consecuencia, a favor de la Federación, los créditos que hasta la fecha de la entrega de dicho Territorio existían por concepto de impuestos y demás aprovechamientos del Erario. En igualdad de circunstancias quedarán las islas y cayos que en lo futuro pertenecerán a Yucatán y Campeche.
 
 Los bienes muebles e inmuebles que estuvieron al servicio de las autoridades civiles, tanto en la parte continental como en las islas anteriormente mencionadas, pasarán a ser respectivas propiedades de las entidades federativas mencionadas.
+
+D.O.F. 13 DE DICIEMBRE DE 1934.
+
+UNICO.- Las presentes reformas constitucionales entrarán en vigor el día primero de diciembre del presente año.
