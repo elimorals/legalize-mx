@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1978-06-04"
+last_updated: "1979-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 1979.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -465,9 +465,9 @@ XXX.- Hacer el cómputo de votos de la elección de Senadores, declarando electo
 
 XXXI.- Expedir todas las leyes que sean necesarias para el efecto de hacer efectivas las atribuciones anteriores, y todas las otras concedidas por esta Constitución a los Poderes del Estado;
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 1958)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 1979)</small>
 
-XXXII.- Recibir en sesión solemne el informe del Gobernador el día 15 de septiembre de cada año;
+XXXII.- Recibir en sesión el informe del C. Gobernador del Estado durante la segunda quincena del mes de septiembre de cada año en la forma que precise el H. Congreso;
 
 > <small>(ADICIONADA, P.O. 4 DE JUNIO DE 1978)</small>
 
@@ -653,9 +653,9 @@ XI.- Excitar a los tribunales inferiores del ramo judicial a la más pronta y cu
 
 XII.- Presentar al Congreso, dentro de los quince días del primer período de sesiones ordinarias, el presupuesto de egresos del año entrante, proponiendo arbitrios para cubrirlos;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1958)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 1979)</small>
 
-XIII.- Presentar al Congreso, el día 15 de septiembre de cada año, una memoria del estado que guarde la Administración Pública, correspondiente al tiempo transcurrido desde el último informe;
+XIII.- Presentar al Congreso, durante la segunda quincena del mes de septiembre de cada año, una memoria del estado que guarde la administración pública correspondiente al tiempo transcurrido desde el último informe. La fecha será precisada por el H. Congreso del Estado;
 
 XIV.- Informar al Congreso, por conducto de su Secretaría, cuando éste lo crea conveniente, sobre cualquier ramo de la administración;
 
@@ -1218,3 +1218,7 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicaci�
 P.O. 4 DE JUNIO DE 1978.
 
 UNICO.- El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MAYO DE 1979.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
