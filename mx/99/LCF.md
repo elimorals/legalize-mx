@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "1995-05-11"
+last_updated: "1995-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
 
@@ -50,11 +50,11 @@ Cuando en esta Ley se utilice la expresión "entidades", ésta se referirá a lo
 
 La Secretaría de Hacienda y Crédito Público celebrará convenio con los Estados que soliciten adherirse al Sistema Nacional de Coordinación Fiscal que establece esta Ley. Dichos Estados y el Distrito Federal participarán en el total de impuestos federales y en los otros ingresos que señale esta Ley mediante la distribución de los fondos que en la misma se establecen.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 2o.
 
-El Fondo General de Participaciones se constituirá con el 18.51% de la recaudación federal participable que obtenga la Federación en un ejercicio.
+El Fondo General de Participaciones se constituirá con el 20% de la recaudación federal participable que obtenga la federación en un ejercicio.
 
 > <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -64,9 +64,9 @@ La recaudación federal participable será la que obtenga la Federación por tod
 
 No se incluirán en la recaudación federal participable, los derechos adicionales o extraordinarios, sobre la extracción de petróleo.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-Tampoco se incluirá en la recaudación federal participable el impuesto sobre tenencia o uso de vehículos de aquellas entidades que hubieran celebrado convenios de colaboración administrativa en materia de este impuesto.
+Tampoco se incluirá en la recaudación federal participable, los incentivos que se establezcan en los convenios de colaboración administrativa ni el impuesto sobre tenencia o uso de vehículos de aquellas entidades que hubieran celebrado convenios de colaboración administrativa en materia de este impuesto, así como la parte de la recaudación correspondiente al impuesto especial sobre producción y servicios en que participen las entidades federativas en los términos del artículo 3o.-A de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -100,9 +100,9 @@ También se adicionará al Fondo General un monto equivalente al 80% del impuest
 
 Adicionalmente las entidades participarán en los accesorios de las contribuciones que forman parte de la recaudación federal participable que se señalen en los convenios respectivos. En los productos de la Federación relacionados con bienes o bosques que las leyes definen como nacionales ubicados en el territorio de cada entidad ésta recibirá el 50% de su monto, cuando provenga de venta o arrendamiento de terrenos nacionales o de la explotación de tales terrenos o de bosques nacionales.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-Las entidades federativas que estén adheridas al Sistema Nacional de Coordinación Fiscal, que se encuentren coordinadas con la Federación en el impuesto sobre adquisición de inmuebles y que hubieran celebrado con la misma convenios de colaboración administrativa en materia del impuesto sobre tenencia o uso de vehículos, donde se estipule la obligación de llevar un registro estatal vehicular, recibirán como incentivo el 100% de la recaudación que se obtenga por concepto de este último impuesto, del que corresponderá cuando menos el 20% a los municipios de la entidad, que se distribuirá entre ellos en la forma que determine la legislatura respectiva.
+Las entidades federativas que estén adheridas al Sistema Nacional de Coordinación Fiscal y que hubieran celebrado con la Federación convenios de colaboración administrativa en materia del impuesto federal sobre tenencia o uso de vehículos, donde se estipule la obligación de llevar un registro estatal vehicular, recibirán como incentivo el 100% de la recaudación que se obtenga por concepto de este impuesto, del que corresponderá cuando menos el 20% a los municipios de la entidad, que se distribuirá entre ellos en la forma que determine la legislatura respectiva.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -114,7 +114,11 @@ En el rendimiento de las contribuciones que a continuación se señalan, partici
 
 I.- En la proporción de la recaudación federal participable que a continuación se señala participarán los municipios, en la forma siguiente:
 
-0.136% de la recaudación federal participable que obtenga la Federación por todos sus impuestos, así como por los derechos sobre minería y sobre la extracción de petróleo, con exclusión del derecho extraordinario sobre el mismo, disminuidos con el total de las devoluciones por los mismos conceptos; a aquellos municipios colindantes con la frontera o los litorales por los que se realicen materialmente la entrada al país o la salida de él de los bienes que se importen o exporten, siempre que la entidad federativa de que se trate celebre convenio con la Federación en materia de vigilancia y control de introducción ilegal al territorio nacional de mercancías de procedencia extranjera y en dichos convenios se establezcan descuentos en las participaciones a que se refiere esta fracción, en los casos en que se detecten mercancías de procedencia extranjera respecto de las cuales no se acredite su legal estancia en el país.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+0.136% de la recaudación federal participable, a aquellos Municipios colindantes con la frontera o los litorales por los que se realicen materialmente la entrada al país o la salida de él de los bienes que se importen o exporten, siempre que la entidad federativa de que se trate celebre convenio con la Federación en materia de vigilancia y control de introducción ilegal al territorio nacional de mercancías de procedencia extranjera y en dichos convenios se establezcan descuentos en las participaciones a que se refiere esta fracción, en los casos en que se detecten mercancías de procedencia extranjera respecto de las cuales no se acredite su legal estancia en el país.
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
 La distribución entre los municipios se realizará mediante la aplicación del coeficiente de participación que se determinará para cada uno de ellos conforme a la siguiente fórmula:
 
@@ -128,7 +132,7 @@ TB es la suma de Bi.
 
 i es cada entidad.
 
-Bi= (CCiT-1) (IPDAiT-1)/ IPDAT-2
+Bi=(CCiT-1) (IPDAiT-1)/IPDAT-2
 
 Donde:
 
@@ -142,29 +146,17 @@ IPDAiT-2 = Recaudación local del predial y de los derechos de agua en el munici
 
 II.- 3.17% del derecho adicional sobre la extracción de petróleo, excluyendo el derecho extraordinario sobre el mismo, a los municipios colindantes con la frontera o litorales por los que se realice materialmente la salida del país de dichos productos.
 
-> <small>(REFORMADO D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
 Petróleos Mexicanos y sus organismos subsidiarios, por conducto de Petróleos Mexicanos, informará mensualmente a la Secretaría de Hacienda y Crédito Público los montos y municipios a que se refiere el párrafo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-III.- 1% de la recaudación federal participable que obtenga la Federación por concepto de impuestos, así como por los derechos sobre minería y sobre la extracción de petróleo, con exclusión del derecho extraordinario sobre el mismo, en la siguiente forma:
+III.- 1% de la recaudación federal participable, en la siguiente forma:
 
-> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+a).- El 16.8% se destinará a formar un Fondo de Fomento Municipal.
 
-a).- El 0.56 % del mismo, conforme a lo siguiente:
-
-> <small>(ADICIONADO, D .O 31 DE DICIEMBRE DE 1986)</small>
-
-1.- El 30% se destinará a formar un Fondo de Fomento Municipal.
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-2.- El 70% incrementará dicho Fondo de Fomento Municipal y sólo corresponderá a las Entidades que se coordinen en materia de derechos, siempre que se ajusten estrictamente a los lineamientos establecidos en el artículo 10-A de esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-b).- El 0.44% restante, sólo corresponderá a las entidades federativas que se coordinen en materia de derechos y será distribuido conforme a los resultados de su participación en el programa para el reordenamiento del comercio urbano, en los términos del procedimiento que se ha determinado conjuntamente por dichas entidades y la Secretaría de Hacienda y Crédito Público. Las cantidades percibidas por este concepto, serán entregadas íntegramente por los Estados a sus Municipios.
+b).- El 83.2% incrementará dicho Fondo de Fomento Municipal y sólo corresponderá a las entidades que se coordinen en materia de derechos, siempre que se ajusten estrictamente a los lineamientos establecidos en el artículo 10-A de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -188,13 +180,29 @@ La cantidad que a cada entidad federativa corresponda en la parte del Fondo Gene
 
 (VEASE ARCHIVO ANEXO)
 
-Los impuestos asignables a que se refiere este artículo son los impuestos federales sobre automóviles nuevos, sobre tenencia o uso de vehículos y especial sobre producción y servicios.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
+Los impuestos asignables a que se refiere este artículo, son los impuestos federales sobre tenencia o uso de vehículos y especial sobre producción y servicios, así como el impuesto local sobre automóviles nuevos.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 3o.-A.
+
+Las entidades federativas adheridas al Sistema Nacional de Coordinación Fiscal, participarán de la recaudación que se obtenga del impuesto especial sobre producción y servicios, por la realización de los actos o actividades gravados con dicho impuesto sobre los bienes que a continuación se mencionan, conforme a las proporciones siguientes:
+
+I. El 20% de la recaudación si se trata de cerveza, bebidas refrescantes con una graduación alcohólica de hasta 6º G. L., alcohol y bebidas alcohólicas.
+
+II. El 8% de la recaudación si se trata de tabacos labrados.
+
+Esta participación se distribuirá en función del porcentaje que represente la enajenación de cada uno de los bienes a que se refiere este artículo en cada entidad federativa, de la enajenación nacional, y se liquidará conforme a lo establecido en el artículo 7o. de esta Ley.
+
+Los municipios recibirán como mínimo el 20% de la participación que le corresponda al estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 4o.
 
-Se crea una reserva de contingencia consistente en un monto equivalente al 0.25% de la recaudación federal participable de cada ejercicio. El 50% de dicha reserva será distribuida cuatrimestralmente y el 50% restante se entregará al cierre del ejercicio fiscal, y se utilizará para apoyar a aquellas entidades cuya participación total en los Fondos General y de Fomento Municipal a que se refieren los artículos 2o. y 2o-A, fracción III, inciso a) de esta Ley, no alcance el crecimiento experimentado por la recaudación federal participable del año respecto a la de 1990. La reserva se distribuirá para garantizar un crecimiento en las participaciones igual a la de la recaudación federal participable.
+Se crea una reserva de contingencia consistente en un monto equivalente al 0.25% de la recaudación federal participable de cada ejercicio. El 90% de dicha reserva será distribuido mensualmente y el 10% restante se entregará al cierre del ejercicio fiscal, y se utilizará para apoyar a aquellas entidades cuya participación total en los Fondos General y de Fomento Municipal a que se refieren los artículos 2o. y 2o.-A fracción III de esta Ley, no alcance el crecimiento experimentado por la recaudación federal participable del año respecto a la de 1990.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -208,9 +216,9 @@ El coeficiente de participación efectiva a que se refiere el párrafo anterior 
 
 De la reserva a que se refiere el primer párrafo de este artículo, los Estados participarán a su (sic) municipios, como mínimo, una cantidad equivalente a la proporción que represente el conjunto de participaciones a sus municipios del total de participaciones de la entidad. En el conjunto de participaciones a los municipios, no se incluirán aquéllas a que se refieren las fracciones I y II del artículo 2o-A de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-Adicionalmente, se crea una reserva de compensación para las entidades federativas que sean afectadas por el cambio en la fórmula de participaciones. Esta reserva se formará (sic) con el remanente del 1% de la recaudación federal participable, a la que hace referencia el párrafo siguiente a la fracción III del artículo 2o. así como con el que se deriva de la parte del Fondo de Fomento Municipal, a que se refiere el artículo 2o-A, fracción III, inciso a), subinciso 2, e inciso b) de esta Ley.
+Adicionalmente, se crea una reserva de compensación para las entidades federativas que sean afectadas por el cambio en la fórmula de participaciones. Esta reserva se formará con el remanente del 1% de la recaudación federal participable, a la que hace referencia el párrafo siguiente a la fracción III del artículo 2o., así como con el que se deriva de la parte del Fondo de Fomento Municipal, a que se refiere el artículo 2o.-A, fracción III, inciso b), de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -240,11 +248,11 @@ Los municipios recibirán como mínimo el 20% del incentivo que corresponda al E
 
 Las participaciones serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 9o. de esta Ley. Los Gobiernos de los Estados publicarán, cuando menos una vez al año, en el Diario Oficial de la entidad, y en uno de los periódicos de mayor circulación de la misma, las participaciones que correspondan, durante un año, a cada uno de sus Municipios.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 7o.
 
-El Fondo General de Participaciones se determinará por cada ejercicio fiscal de la Federación, la cual en forma provisional hará un cálculo mensual considerando la recaudación federal participable obtenida en el mes inmediato anterior. En igual forma se procederá con las participaciones a que se refieren las fracciones I y III, incisos a) y b), del artículo 2o-A de esta Ley.
+El Fondo General de Participaciones se determinará por cada ejercicio fiscal de la Federación, la cual en forma provisional hará un cálculo mensual considerando la recaudación federal participable obtenida en el mes inmediato anterior. En igual forma se procederá con las participaciones a que se refieren los artículos 2o.-A, fracciones I y III, y 3o.-A de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -258,17 +266,15 @@ Cada cuatro meses la Federación realizará un ajuste de las participaciones, ef
 
 A más tardar dentro de los cinco meses siguientes al cierre de cada ejercicio fiscal, ésta determinará las participaciones que correspondan a la recaudación obtenida en el ejercicio, aplicará las cantidades que hubiera afectado provisionalmente a los Fondos y formulará de inmediato las liquidaciones que procedan.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-Durante los primeros meses de cada ejercicio, las participaciones en el Fondo General de Participaciones a que se refiere la fracción II del artículo 2o., así como las que se establecen en las fracciones I y III, incisos a) y b), del artículo 2o-A de esta Ley, se calcularán provisionalmente con los coeficientes del ejercicio inmediato anterior, en tanto se cuente con la información necesaria para calcular los nuevos coeficientes.
+Durante los primeros cinco meses de cada ejercicio, las participaciones en el Fondo General de Participaciones a que se refiere la fracción II del artículo 2o., así como las que se establecen en los artículos 2o.-A, fracciones I y III, y 3o.-A de esta Ley, se calcularán provisionalmente con los coeficientes del ejercicio inmediato anterior, en tanto se cuente con la información necesaria para calcular los nuevos coeficientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 8o.
 
-Para los efectos de las participaciones a que esta Ley se refiere, las Entidades, los Municipios y la Federación estarán al resultado de la determinación y cobro, que hubieren efectuado de créditos fiscales derivados de la aplicación de leyes sobre ingresos federales.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+Para los efectos de las participaciones a que esta Ley se refiere y de los incentivos que se establezcan en los convenios de colaboración administrativa, las Entidades, los Municipios y la Federación estarán al resultado de la determinación y pago, que hubieren efectuado de créditos fiscales derivados de la aplicación de leyes sobre ingresos federales.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -284,23 +290,27 @@ Las participaciones que correspondan a las Entidades y Municipios son inembargab
 
 Las obligaciones de los Municipios se registrarán cuando cuenten con la garantía solidaria del Estado, salvo cuando a juicio de la Secretaría de Hacienda y Crédito Público tengan suficientes participaciones para responder a sus compromisos.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-La Secretaría de Hacienda y Crédito Público efectuará pagos de las obligaciones garantizadas con afectación de participaciones siguiendo el orden cronológico de su inscripción.
+Las Entidades y Municipios efectuarán los pagos de las obligaciones garantizadas con la afectación de sus participaciones, de acuerdo con los mecanismos y sistemas de registro establecidos en sus leyes estatales de deuda. En todo caso las Entidades Federativas deberán contar con un registro único de obligaciones y empréstitos, así como publicar en forma periódica su información con respecto a los registros de su deuda.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-No estarán sujetas a lo dispuesto en el primer párrafo de este artículo las compensaciones que se requieran efectuar a las entidades como consecuencia de ajustes en participaciones o de descuentos originados del incumplimiento de metas pactadas con la Federación en materia de administración de impuestos.
+No estarán sujetas a lo dispuesto en el primer párrafo de este artículo, las compensaciones que se requieran efectuar a las Entidades como consecuencia de ajustes en participaciones o de descuentos originados del incumplimiento de metas pactadas con la Federación en materia de administración de contribuciones. Asimismo, procederán las compensaciones entre las participaciones federales e incentivos de las Entidades y de los Municipios y las obligaciones que tengan con la Federación, cuando exista acuerdo entre las partes interesadas o esta ley así lo autorice.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y los gobiernos de las Entidades que se hubieren adherido al Sistema Nacional de Coordinación Fiscal podrán celebrar convenios de coordinación en materia de información de finanzas públicas.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 En el reglamento que expida el Ejecutivo Federal se señalarán los requisitos para el registro de las obligaciones de Entidades y Municipios.
 
-> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 9o-A.
 
-La Federación, a través de la Secretaría de Hacienda y Crédito Público, los Estados y los Municipios en donde existan puentes de peaje operados por la primera, podrán convenir en crear fondos cuyos recursos se destinen a la construcción, mantenimiento, reparación y ampliación de obras de vialidad en aquellos Municipios donde se ubiquen dichos puentes. La aportación a los fondos mencionados se hará en montos iguales por la Federación, Estado y Municipio sin que la aportación de la primera pueda exceder de un 10% del monto total de los ingresos que obtenga por la operación del puente de peaje de que se trate.
+La Federación, a través de la Secretaría de Hacienda y Crédito Público, los Estados y los Municipios en donde existan puentes de peaje operados por la primera, podrán convenir en crear fondos cuyos recursos se destinen a la construcción, mantenimiento, reparación y ampliación de obras de vialidad en aquellos municipios donde se ubiquen dichos puentes o, en su caso, a la realización de obras de infraestructura o gasto de inversión, sin que en ningún caso tales recursos se destinen al gasto corriente. La aportación a los fondos mencionados se hará por el Estado, por el Municipio o, cuando así lo acordaren, por ambos, en un 20% del monto que aporte la Federación, sin que la aportación de ésta exceda de un 25% del monto total de los ingresos que obtenga por la operación del puente de peaje de que se trate. La aportación Federal se distribuirá en partes iguales entre el Estado y el Municipio correspondiente, destinando el Estado al mismo fin estos recursos en cualquiera de los municipios de la entidad.
 
 ### CAPITULO II. Del Sistema Nacional de Coordinación Fiscal
 
@@ -346,6 +356,14 @@ d).- Licencias para conducir vehículos.
 
 e).- Expedición de placas y tarjeta para la circulación de vehículos.
 
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+f) Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+g) Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto los que se realicen por medio de televisión, radio, periódicos y revistas.
+
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 II.- Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
@@ -354,17 +372,17 @@ a).- Registro Civil.
 
 b).- Registro de la Propiedad y del Comercio.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-III. Uso de las vías públicas o la tenencia de bienes sobre las mismas incluyendo, cualquier tipo de derechos por el uso o tenencia de anuncios. No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos ni de uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos en la vía pública.
+III. Uso de las vías públicas o la tenencia de bienes sobre las mismas. No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 IV.- Actos de inspección y vigilancia.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los incisos del a) al e) de la fracción I y la fracción III.
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los incisos del a) al g) de la fracción I y la fracción III.
 
 (ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981) (F. DE E., D.O.F. 15 DE ABRIL DE 1982)
 
@@ -452,13 +470,13 @@ Las entidades federativas podrán ocurrir ante la Suprema Corte de Justicia de l
 
 El Estado inconforme con la declaratoria por la que se considera que deja de estar adherido al Sistema Nacional de Coordinación Fiscal podrá ocurrir ante la Suprema Corte de Justicia de la Nación, conforme al artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y de la Ley Orgánica del Poder Judicial Federal, demandando la anulación de la declaratoria que se haya dictado conforme al artículo anterior de esta Ley.
 
-> <small>(DEROGADOS LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DE LA FRACCION I Y II DEL ART. 105 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, D.O.F. 11 DE MAYO DE 1995)</small>
-
 Desde la admisión de la demanda se suspenderán los efectos de la declaratoria impugnada, por 150 días. El fallo de la Suprema Corte de Justicia de la Nación producirá efectos 30 días después de su publicación en el "Diario Oficial" de la Federación.
 
 La Suprema Corte de Justicia de la Nación ordenará la publicación en el "Diario Oficial" de la Federación, tanto de la suspensión de los efectos de la declaratoria impugnada, como de los puntos resolutivos del fallo de la Suprema Corte de Justicia de la Nación.
 
-En caso de que la Secretaría de Hacienda y Crédito Público infringiera las disposiciones legales y convenios relativos a la coordinación fiscal en perjuicio de una entidad federativa, ésta podrá reclamar su cumplimiento ante la Suprema Corte de Justicia de la Nación, siguiendo en lo aplicable el procedimiento establecido en este artículo.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+En caso de que la Secretaría de Hacienda y Crédito Público infringiera las disposiciones legales y convenios relativos a la coordinación fiscal en perjuicio de un (sic) entidad federativa, ésta podrá reclamar su cumplimiento ante la Suprema Corte de Justicia de la Nación, siguiendo, en lo aplicable el procedimiento establecido en la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### CAPITULO III. De la Colaboración Administrativa Entre las Entidades y la Federación
 
@@ -468,9 +486,9 @@ En caso de que la Secretaría de Hacienda y Crédito Público infringiera las di
 
 El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y los Gobiernos de los Estados que se hubieran adherido al Sistema Nacional de Coordinación Fiscal, podrán celebrar convenios de coordinación en materia de administración de ingresos federales, que comprenderán las funciones de registro federal de contribuyentes, recaudación, fiscalización y administración, que serán ejercidas por las autoridades fiscales de las entidades o de los Municipios cuando así se pacte expresamente.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-En los convenios a que se refiere este artículo se especificarán los ingresos de que se trate, las facultades que ejercerán y las limitaciones de las mismas. Dichos convenios se publicarán en el Periódico Oficial del Estado y en el “Diario Oficial” de la Federación, y surtirán sus efectos a partir del día siguiente de la publicación en este último.
+En los convenios a que se refiere este artículo se especificarán los ingresos de que se trate, las facultades que ejercerán y las limitaciones de las mismas. Dichos convenios se publicarán en el periódico oficial del Estado y en el Diario Oficial de la Federación, y surtirán sus efectos a partir de las fechas que en el propio convenio se establezcan o, en su defecto, a partir del día siguiente de la publicación en el Diario Oficial de la Federación.
 
 La Federación o el Estado podrán dar por terminados parcial o totalmente los convenios a que se refiere este precepto, terminación que será publicada y tendrá efectos conforme al párrafo anterior.
 
@@ -548,7 +566,7 @@ Serán facultades de la Reunión Nacional de Funcionarios Fiscales:
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-I.- Aprobar los reglamentos de funcionamiento de la propia Reunión Nacional, de la Comisión Permanente de Funcionarios Fiscales, del Instituto para el Desarrollo Técnico de las Haciendas Públicas y de la Junta de Coordinación Fiscal.
+I.- Aprobar los reglamentos de funcionamiento de la propia Reunión Nacional, de la omisión Permanente de Funcionarios Fiscales, del Instituto para el Desarrollo Técnico de las Haciendas Públicas y de la Junta de Coordinación Fiscal.
 
 II.- Establecer, en su caso, las aportaciones ordinarias y extraordinarias que deban cubrir la Federación y las entidades, para el sostenimiento de los órganos citados en la fracción anterior.
 
@@ -995,3 +1013,27 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- El presente decreto entrará en vigor 30 días después de su publicación en el Diario Oficial de la Federación.
 
 TERCERO.- Se derogan los párrafos segundo a cuarto, inclusive, del artículo 12 de la Ley de Coordinación Fiscal, así como todas las disposiciones legales y reglamentarias que se opongan a esta ley.
+
+D.O.F. 15 DE DICIEMBRE DE 1995.
+
+Disposiciones Transitorias de la Ley de Coordinación Fiscal
+
+Artículo Décimo Tercero.- En relación con las modificaciones a que se refiere el Artículo Décimo Segundo que antecede, se estará a lo siguiente:
+
+I.- Las reformas y adiciones a la Ley de Coordinación Fiscal entrarán en vigor a partir del 1o. de enero de 1996, con excepción de la reforma al último párrafo del artículo 3o., la cual entrará en vigor a partir del 1o. de enero de 1997.
+
+II.- El impuesto asignable correspondiente al impuesto sobre automóviles nuevos a que se refiere el último párrafo del artículo 3o. de la Ley de Coordinación Fiscal, para los años de 1995 y 1996, se determinará conforme a lo siguiente:
+
+a) Se considerará como base la información mensual que presentan los fabricantes, ensambladores y distribuidores de automóviles nuevos conforme a lo dispuesto por el artículo 13 de la Ley de la materia.
+
+b) A los precios de los automóviles contenidos en la información a que se refiere la fracción anterior; se aplicará la tarifa a que se refiere el artículo 3o. de la Ley del Impuesto Sobre Automóviles Nuevos, vigente al mes en que se efectuó la enajenación.
+
+Para los estados en que se aplique lo dispuesto en la fracción II del artículo 8o. de la Ley del Impuesto Sobre Automóviles Nuevos, el impuesto asignable para los años de 1995 y 1996 se determinará conforme a este artículo.
+
+III.- La reforma al tercer párrafo del artículo 9o. de la Ley de Coordinación Fiscal, no será aplicable a la deuda contraída por las entidades federativas y municipios al 31 de diciembre de 1995.
+
+T r a n s i t o r i o s
+
+Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
+
+Segundo. De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N", a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
