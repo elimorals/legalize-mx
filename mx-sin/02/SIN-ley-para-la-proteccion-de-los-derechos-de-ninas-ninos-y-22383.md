@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-la-proteccion-de-los-derechos-de-ninas-ninos-y-22383"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2001-10-15"
+last_updated: "2002-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY PARA LA PROTECCION DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 15 de octubre de 2001.
 
@@ -731,7 +731,9 @@ Las funciones de los consejos impulsores municipales se ajustarán a lo preceptu
 
 La Procuraduría de la Defensa del Menor, la Mujer y la Familia, sin perjuicio de las facultades que le otorguen otras leyes, actuará de manera subsidiaria cuando no exista quien represente legalmente a las niñas, niños y adolescentes en el Estado o bien que por su estado de desamparo solicite su intervención para la salvaguarda de los derechos contemplados en esta ley, como instancia especializada con funciones de autoridad para la efectiva procuración del respeto de los derechos consignados.
 
-La Procuraduría de la Defensa del Menor, la Mujer y la Familia tiene competencia estatal, pudiendo establecer en los municipios las delegaciones que se consideren pertinentes para el cumplimiento de sus fines.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2002)</small>
+
+La Procuraduría de la Defensa del Menor, la Mujer y la Familia es un área administrativa del Sistema para el Desarrollo Integral de la Familia con competencia estatal, la cual puede establecer en los municipios las delegaciones que se consideren pertinentes.
 
 ###### Artículo 71.
 
@@ -1020,3 +1022,9 @@ Cenovio Ruiz Zazueta
 El Secretario de Salud
 
 Víctor Manuel Díaz Simental.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE AGOSTO DE 2002.
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
