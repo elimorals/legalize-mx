@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-instituto-de-vivienda-del-estado-de-morelos-6645"
 country: "mx"
 rank: "ley"
 publication_date: "1988-09-14"
-last_updated: "1988-09-14"
+last_updated: "1994-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL INSTITUTO DE VIVIENDA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de septiembre de 1988.
 
@@ -87,15 +87,25 @@ LEY DEL INSTITUTO DE VIVIENDA DEL ESTADO DE MORELOS
 
 Se crea el Instituto de Vivienda del Estado de Morelos, como organismo público descentralizado del Gobierno del Estado, con personalidad jurídica, patrimonio propio y con domicilio en la Ciudad de Cuernavaca.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 2o.
 
-El Instituto tendrá como objeto planear, fomentar, promover, impulsar, coordinar y ejecutar en su caso, todas las acciones inherentes al desarrollo de la vivienda de interés social en todas sus modalidades con la participación de la comunidad; gestionar el otorgamiento de créditos ante las diversas fuentes de financiamiento para el logro de sus fines y realizar las actividades tendentes a que los habitantes del Estado disfruten de vivienda digna y decorosa.
+El Instituto tendrá como objeto planear, fomentar, proponer, promover, impulsar, coordinar y ejecutar en su caso, todas las acciones inherentes al desarrollo de la vivienda de interés social en todas sus modalidades, vivienda popular, vivienda rural, con la participación de la comunidad, gestionar el otorgamiento de créditos ante las diversas fuentes de financiamiento para el logro de sus fines y realizar las actividades tendientes a que los habitantes del Estado disfruten de vivienda digna y decorosa.
+
+Dar a conocer las tasas de interés vigentes y pactar aquéllas que sean blandas y acordes con la capacidad de pago del solicitante.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 2o BIS.- El Instituto de Vivienda se integrará a la Comisión Reguladora de Fraccionamientos, Condominios y Conjuntos Habitacionales del Estado y participará con voz y voto, en las sesiones relacionadas con los proyectos de vivienda social, rural y popular.
 
 ###### ARTICULO 3o.
 
 El Instituto tendrá las siguientes atribuciones:
 
-I.- Planear, promover, construir y desarrollar con la participación de la comunidad, fraccionamientos urbanos y suburbanos de urbanización progresiva de interés social, en las áreas y predios que expresamente determine la autoridad responsale (sic) del desarrollo urbano.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+I.- Planear, promover, proponer, construir y desarrollar con la participación de la comunidad, fraccionamientos urbanos y suburbanos de urbanización progresiva de interés social y popular, en las áreas y predios que expresamente determine la autoridad responsable del desarrollo urbano.
 
 II.- Realizar, promover y coordinar programas de autoconstrucción y programas de mejoramiento de la vivienda.
 
@@ -133,11 +143,45 @@ XVIII.- Establecer y operar un banco de información sobre requerimientos de sue
 
 XIX.- Investigar y desarrollar modelos para la vivienda de interés social, en sus diversas modalidades, y
 
-XX.- Las demás atribuciones que establezcan disposiciones generales.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+XX.- Celebrar, por conducto de su titular y previo acuerdo del Ejecutivo del Estado, los convenios que requiera para el cumplimiento efectivo de sus fines institucionales.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+XXI.- Prestar a los promotores de vivienda de interés social, popular y rural, la información, orientación y apoyo que requieran para participar activamente en el Programa Estatal de Vivienda. Capacitándolos adecuadamente en la elaboración de estudios socioeconómicos de los cuales resultará la base para otorgar los financiamientos correspondientes.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+XXII.- Formular y promover ante los órganos competentes las propuestas de reformas administrativas y legislativas que sean necesarias para realizar sus fines institucionales.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+XXIII.- Las demás que les confieran las leyes y disposiciones jurídicas generales.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 3o BIS.- Se entiende por:
+
+I.- Vivienda de Interés Social: Aquélla cuyo valor, al término de la edificación, no exceda de la cantidad que resulte de multiplicar por quince el salario mínimo general elevado al año, vigente en el área geográfica que corresponde al Estado de Morelos.
+
+II.- Vivienda Popular: Aquélla cuyo valor, al término de su edificación, no exceda de la cantidad que resulte de multiplicar por veinticinco el salario mínimo general elevado al año, vigente en el área geográfica que corresponde al Estado de Morelos.
+
+III.- Vivienda Rural: Aquélla cuya edificación se efectúe fuera de los límites de las poblaciones consideradas como urbanas o de los municipios conurbados, siempre y cuando no excedan, al final de la edificación, de los montos señalados en las fracciones anteriores.
+
+Los montos señalados en las fracciones anteriores serán aplicables a todas las modalidades de los créditos de vivienda.
+
+IV.- Promotores: A los organismos públicos especializados, descentralizados y financieros y fideicomisos públicos, federales, estatales y municipales; así como las personas físicas y morales que realicen actividades para desarrollar proyectos de vivienda de interés social, popular o rural en el Estado.
+
+V.- Instituto: Al Instituto de Vivienda del Estado de Morelos (Invimor).
 
 ###### ARTICULO 4o.
 
 Se declaran de interés público las actividades que desarrolle el Instituto en el ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 4o BIS.- Las dependencias y organismos de la Administración Pública Estatal prestarán su concurso y apoyo al Instituto para el cumplimiento de sus funciones y atribuciones.
 
 ### CAPITULO II. ORGANOS DE GOBIERNO
 
@@ -159,9 +203,13 @@ I.- El Titular del Poder Ejecutivo, quien la presidirá.
 
 II.- El Secretario de Desarrollo Urbano y Obras Públicas, quien fungirá como Secretario Técnico.
 
-III.- El secretario de Programación y Finanzas.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
-IV.- El secretario de Desarrollo Rural, y
+III.- El Secretario de Hacienda.
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+IV.- El Secretario de Desarrollo Agropecuario.
 
 V.- El Secretario de Desarrollo Económico.
 
@@ -173,9 +221,11 @@ El Presidente de la Junta de Gobierno será sustituido en sus ausencias por el S
 
 El Director General asistirá a las Sesiones de la Junta de Gobierno con voz pero sin voto, para el cumplimiento de sus funciones.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 9o.
 
-A las Sesiones de la Junta de Gobierno asistirá con voz pero sin voto, un comisario designado por la Secretaría de la Contraloría, en términos de lo establecido por el artículo 38 Fracción XV de la Ley Orgánica de la Administración Pública del Estado.
+A las Sesiones de la Junta de Gobierno asistirá con voz pero sin voto, un Comisario designado por la Contraloría General, en términos de lo establecido por el Artículo 36, Fracción XII de la Ley Orgánica de la Administración Pública del Estado.
 
 ###### ARTICULO 10.
 
@@ -229,7 +279,9 @@ El Director General será nombrado y removido por el Titular del Poder Ejecutivo
 
 El Director General del Instituto tendrá las siguientes funciones:
 
-I.- Representar al Instituto ante toda clase de autoridades, con las facultades de un apoderado general para pleitos y cobranzas, actos de administración y de riguroso dominio con las facultades generales y las especiales que requieran cláusula especial conforme a la Ley, en los términos de los artículos 2762 y 2799 del Código Civil del Estado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+I.- Representar al Instituto ante toda clase de autoridades, con las facultades de un apoderado general para pleitos y cobranzas, actos de administración y de riguroso dominio con las facultades generales y las especiales que requieran cláusula especial conforme a la Ley, en los términos de los Artículos 2008 y 2032 del Código Civil del Estado.
 
 Asimismo podrá otorgar y suscribir títulos de crédito en términos del artículo 9o., de la Ley General de Títulos y Operaciones de Crédito.
 
@@ -305,9 +357,13 @@ Las relaciones laborales entre el Instituto y sus trabajadores, se regirán por 
 
 Sólo se otorgará una acción de vivienda por familia, siempre y cuando acredite no tener otro bien inmueble y cumpla con los requisitos que para tal efecto se establezcan.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 21.
 
-Los terrenos o viviendas otorgadas por el Instituto, no podrán enajenarse, embargarse o hipotecarse gravarse en ninguna forma o trasmitirse a terceros, si no se ha cubierto el importe total del crédito; salvo por el propio Instituto o previa su autorización.
+El Instituto estará facultado para convenir en los contratos de transmisión que otorgue, las modalidades y condiciones que estime convenientes para asegurar o garantizar la recuperación de los créditos que autorice, en función de su objeto social.
+
+Se hace necesario que los montos de los créditos, tasa de interés y gastos que originan la apertura de crédito se determinen previamente en base a la capacidad de pago del solicitante.
 
 ###### ARTICULO 22.
 
@@ -354,3 +410,47 @@ EL SECRETARIO GENERAL DE GOBIERNO
 Lic. Alfredo de la Torre y Martínez
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE DICIEMBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL "TIERRA Y LIBERTAD", ORGANO DEL GOBIERNO DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+###### ARTICULO SEGUNDO.
+
+SE ABROGA EL DECRETO SIN NUMERO PUBLICADO EL 24 DE MARZO DE 1993 EN EL PERIODICO OFICIAL "TIERRA Y LIBERTAD", NUMERO 3632, POR EL QUE SE CREA LA VOCALIA EJECUTIVA DEL PROGRAMA ESTATAL DE VIVIENDA.
+
+###### ARTICULO TERCERO.
+
+SE ABROGA EL ACUERDO POR EL QUE ESTABLECEN LAS REGLAS PARA EL DESEMPEÑO DE LAS ATRIBUCIONES DE LA VOCALIA EJECUTIVA DEL PROGRAMA ESTATAL DE VIVIENDA, PUBLICADO EN EL PERIODICO OFICIAL "TIERRA Y LIBERTAD" NUMERO 3646, CORRESPONDIENTE AL DIA 30 DE JUNIO DE 1993.
+
+###### ARTICULO CUARTO.
+
+LA SECRETARIA DE DESARROLLO URBANO Y OBRAS PUBLICAS, EN SU CARACTER DE COORDINADORA DEL SECTOR CORRESPONDIENTE, PROMOVERA Y PROVEERA LO CONDUCENTE A LA EXTINCION Y LIQUIDACION DE LA VOCALIA EJECUTIVA DEL PROGRAMA ESTATAL DE VIVIENDA, CUIDARA QUE ESTAS SE LLEVEN DE MANERA OPORTUNA, EFICIENTE Y CON APEGO A LAS DISPOSICIONES LEGALES APLICABLES.
+
+###### ARTICULO QUINTO.
+
+LA SECRETARIA DE HACIENDA, LA OFICIALIA MAYOR Y LA CONTRALORIA CONFORME A SUS ATRIBUCIONES, REGULARAN EL TRASPASO DEL PERSONAL ADSCRITO A LA VOCALIA EJECUTIVA, MOBILIARIO, VEHICULOS, INSTRUMENTOS, APARATOS, MAQUINARIA, ARCHIVOS Y EN GENERAL EL EQUIPO QUE ESA DEPENDENCIA HAYA UTILIZADO PARA LA ATENCION DE LOS ASUNTOS A SU CARGO, ASI COMO EL TRASPASO DE LOS RECURSOS FINANCIEROS Y PRESUPUESTALES AUTORIZADOS EN EL PRESUPUESTO ANUAL DE EGRESOS DEL ESTADO.
+
+###### ARTICULO SEXTO.
+
+LOS DERECHOS DE LOS TRABAJADORES SERAN RESPETADOS CONFORME A LA LEY.
+
+###### ARTICULO SEPTIMO.
+
+LA CONTRALORIA, CONFORME A SUS FACULTADES, VIGILARA QUE EL PROCESO DE EXTINCION Y LIQUIDACION A QUE SE REFIERE ESTE DECRETO, SE LLEVE A CABO DE CONFORMIDAD CON LAS DISPOSICIONES LEGALES APLICABLES.
+
+###### ARTICULO OCTAVO.
+
+SALVO QUE EXISTE IMPEDIMENTO LEGAL PARA ELLO, EL PROCESO DE EXTINCION Y LIQUIDACION QUE SE ORDENA NO DEBERA EXCEDER DE UN PLAZO DE SEIS MESES, CONTADOS A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.
+
+###### ARTICULO NOVENO.
+
+EN EL TERMINO DE NOVENTA DIAS CONTADOS A PARTIR DE LA VIGENCIA DEL PRESENTE DECRETO, SE EXPEDIRA EL NUEVO REGLAMENTO INTERIOR DEL INSTITUTO.
+
+###### ARTICULO DECIMO.
+
+SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN A LO DISPUESTO EN EL PRESENTE DECRETO.
