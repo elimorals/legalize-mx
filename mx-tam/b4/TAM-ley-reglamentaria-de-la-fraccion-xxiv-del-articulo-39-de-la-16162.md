@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-de-la-fraccion-xxiv-del-articulo-39-de-la-161
 country: "mx"
 rank: "ley"
 publication_date: "1953-01-03"
-last_updated: "1953-01-03"
+last_updated: "1953-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA DE LA FRACCION XXIV DEL ARTICULO 39 DE LA LEY ORGANICA MUNICIPAL VIGENTE EN EL ESTADO SOBRE LA CREACION Y FUNCIONAMIENTO DE LAS JUNTAS DE MEJORAMIENTO MORAL, CIVICO Y MATERIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 1953.
 
 Ley publicada en el Periódico Oficial, el 3 de enero de 1953.
 
@@ -43,9 +43,11 @@ LEY REGLAMENTARIA DE LA FRACCION XXIV DEL ARTICULO 39 DE LA LEY ORGANICA MUNICIP
 
 En cada una de las cabeceras municipales se integrará un organismo denominado Junta de Mejoramiento Moral, Cívico y Material, cuyo objeto será obtener la cooperación de los particulares para la construcción de obras de beneficio colectivo y promover lo conducente ante las autoridades para el efecto de propugnar por la superación moral, cívica y material de cada entidad municipal.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 1953)</small>
+
 ###### ARTICULO SEGUNDO.
 
-Las Juntas estarán integradas por un Presidente, un Secretario, un Tesorero y Tres Vocales, con sus respectivos suplentes, que serán representantes de los principales Sectores Sociales, para cuyo efecto el Presidente Municipal convocará a una reunión a los Directivos de las fuerzas activas de la localidad a quienes dará a conocer las finalidades de estas Juntas y los invitará para que presten su cooperación a fin de alcanzar los objetivos expresados. A la vez, el propio Presidente Municipal solicitará a las Organizaciones e Instituciones presentes, que designen una terna para los cargos indicados. Las ternas las someterá el Presidente Municipal a la consideración del Ejecutivo de Estado, quien nombrará a las personas que por su solvencia moral, actividad ciudadana y espíritu de servicio social, deban ocupar dichos puestos.
+Las Juntas estarán integradas por un Presidente, un Secretario, un Tesorero y 4 Vocales, con sus respectivos Suplentes, que serán representantes de los sectores sociales, para cuyo efecto el Presidente Municipal convocará a una reunión a los directivos de las fuerzas activas de la localidad y quienes dará a conocer las finalidades de estas Juntas y los invitará para que presten su cooperación a fin de alcanzar los objetivos expresados. Asimismo se tomará en cuenta y de manera especial a las personas que se hayan distinguido por su capacidad de organización, su dinamismo, su filantropía, su entusiasmo e interés por la satisfacción de las necesidades colectivas, sin distinción alguna por razones de opinión o ideología, religión, edad, sexo o nacionalidad; para que, en concordancia con los progresos que en materia política ha alcanzado la mujer en nuestra República se tenga en cuenta su cooperación, ya que disfruta constitucionalmente de igual total de derechos y obligaciones con el hombre, por lo que su colaboración debe ser solicitada y recibida sin límite alguno. A la vez, el propio Presidente Municipal solicitará a las Organizaciones e Instituciones presentes, que designen una terna para los cargos indicados. Las ternas las someterá el Presidente Municipal a la consideración del Ejecutivo del Estado, quien nombrará a las personas que por su solvencia moral, actividad ciudadanía y espíritu de servicio social, deban ocupar dichos puestos.
 
 ###### ARTICULO TERCERO.
 
@@ -96,3 +98,9 @@ C Victoria, Tam., Diciembre 29 de 1952.- Diputado Presidente, Lic. Marcos Dávil
 Por tanto, mando se imprima, publique, circule y se le de el debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado a los treinta días del mes de diciembre de mil novecientos cincuenta y dos.- Lic. Horacio Terán.- El Secretario General de Gobierno, Lic. Manuel Lerma Betancourt.- Rúbricas
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 25 DE NOVIEMBRE DE 1953
+
+TRANSITORIO UNICO.- Este Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
