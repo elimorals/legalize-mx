@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1946-03-14"
+last_updated: "1946-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1946.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -277,11 +277,11 @@ Para recobrar éste derecho es necesaria la rehabilitación de la Legislatura o 
 
 El Estado de Durango es libre y soberano; y en su régimen de gobierno no reconoce más restricciones que las prescritas en la Constitución General de la República, a cuya observancia está obligado como entidad Federativa de la Nación.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1942)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1946)</small>
 
 ###### Artículo 36.
 
-El Estado de Durango, reconoce y adopta en su régimen interior la forma de Gobierno Republicano, Representativo y Popular. Los cargos de elección popular no son renunciables y para desempeñarlos es requisito indispensable que el ciudadano electo sea durangueño por nacimiento en pleno ejercicio de sus derechos, e hijo de padres mexicanos por nacimiento.
+El Estado de Durango, reconoce y adopta un régimen interior de Gobierno Republicano, representativo y popular; los cargos de elección popular no son renunciables.
 
 ###### Artículo 37.
 
@@ -309,25 +309,23 @@ DEL ESTADO Y SU FORMA DE GOBIERNO.
 
 El Congreso del Estado determinará por ley especial que llevará el nombre de "Ley de Municipios del Estado," los estatutos económicos y administrativos a que deben sujetarse los Municipios en su régimen interior, y los cuales podrá el mismo Congreso alterar o modificar cuando el bien de la administración pública general o de los mismos Municipios lo hiciere necesario. Tanto en la Ley de Municipios, como en sus alteraciones o modificaciones en su caso, se atenderá siempre a mantener la unidad de gobierno, que necesariamente exige la Administración Pública General del Estado, en relación con el grado de libertad interior administrativa que les señala la Constitución Federal de la República. En consecuencia, los Municipios, sin infringir las leyes federales o del Estado, y sin excederse de sus presupuestos respectivos, tienen derecho de atender libremente, de la manera que juzguen más eficaz, todos los ramos de la Administración Pública interior de los mismos Municipios.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1933)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1946)</small>
 
 ###### Artículo 41.
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Ejecutivo del Estado, que será su superior jerárquico.
+Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna Autoridad intermedia entre este y el Ejecutivo del Estado que será su superior jerárquico.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1942)</small>
-
-El número de Regidores que deberán integrar cada Ayuntamiento, será señalado en la Ley Municipal. Para ser Regidor se requiere ser ciudadano durangueño por nacimiento, en ejercicio de sus derechos, e hijo de padres mexicanos por nacimiento. Saber leer y escribir y tener residencia efectiva dentro del territorio del correspondiente Municipio, inmediata al día de la elección, cuando menos de dos años.
+El número de Regidores que deberán integrar cada Ayuntamiento será señalado por la Ley de Municipios. Para ser Regidor se requiere ser ciudadano mexicano en ejercicio de sus derechos e hijo de padres mexicanos por nacimiento; saber leer y escribir y tener residencia efectiva dentro del territorio del correspondiente Municipio, inmediata al día de la elección, cuando menos de dos años si no es nativo del Estado.
 
 No podrán ser electos:
 
 I.- Los ministros de culto alguno.
 
-II.- Los que hayan sido condenados por cualquier delito, excepto los de culpa, a más de un año de prisión; pero si hubieren sido condenados por robo, fraude, falsificación, abuso de confianza y en general cualquier otro delito que lastime seriamente la buena fama en el concepto público, quedarán inhabilitados para el cargo, cualquiera que haya sido la pena.
+II.- Los que hayan sido condenados por cualquier delito, excepto los de culpa, a más de un año de prisión; pero si hubieren sido condenados por robo, fraude, falsificación, abuso de confianza y en general, cualquier otro delito que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
 III.- Los funcionarios y los empleados públicos del Estado, del Municipio o de la Federación, si no se separan de sus cargos, cuando menos tres meses antes del día de la elección.
 
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos electos popularmente, no podrán ser reelectos para el período inmediato. Los miembros de la Junta Provisional de que habla el artículo 49 de esta Constitución, no podrán ser electos para el período inmediato. Todos los funcionarios municipales antes mencionados, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato con el carácter de propietarios, a menos que hayan estado en ejercicio.
+Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos electos popularmente, no podrán ser reelectos para el período inmediato. Los miembros de la Junta Provisional de que habla el artículo 49 de la Constitución no podrán ser reelectos para el período inmediato. Todos los funcionarios municipales antes mencionados, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan carácter de suplentes, sí podrán ser electos para el período inmediato con el carácter de propietarios aunque hayan estado en ejercicio temporalmente.
 
 ###### Artículo 42.
 
@@ -1282,3 +1280,7 @@ UNICO:- El presente Decreto surte sus efectos legales a partir de la fecha de su
 P.O. 14 DE MARZO DE 1946.
 
 UNICO.- El presente Decreto surte sus efectos a partir de la fecha de su publicación en el "Periódico Oficial" del Estado, y en virtud de haber sido aprobada esta reforma por los Poderes Ejecutivo y Judicial y por más de la mitad de los Ayuntamientos del Estado, la misma formará parte de la Constitución Política Local.
+
+P.O. 24 DE OCTUBRE DE 1946.
+
+UNICO.- Estse (sic) Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
