@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1999-06-08"
+last_updated: "1999-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1999.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -1113,7 +1113,13 @@ Las iniciativas provenientes del Ejecutivo del Estado, del Supremo Tribunal de J
 
 Tratándose de iniciativas que a juicio de la Comisión requieran de mayor estudio, dicho término se ampliará hasta por dos veces más, de lo cual la Comisión, informará a la Asamblea.
 
-Las iniciativas de Acuerdo Económico provenientes de los diputados, tendrán el carácter de dictámenes, quedando sujetas por tanto a los trámites que señala esta Ley.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1999)</small>
+
+Las iniciativas de acuerdo económico provenientes de los diputados, tendrán el carácter de dictámenes quedando sujetas al siguiente trámite:
+
+a) Los diputados que la presenten deberán hacerlo por escrito, con suficientes copias para que sean distribuidas entre los diputados, y el autor de la misma podrá exponer ante la Asamblea cuando menos una síntesis de su contenido; y
+
+b) El Presidente de la Mesa Directiva deberá proponer al Pleno se agende dentro del orden del día en el punto de acuerdos Económicos, (sic) sujetándose al trámite que señala esta ley para los dictámenes de esta naturaleza.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 1997)</small>
 
@@ -1948,5 +1954,9 @@ P.O. 13 DE MAYO DE 1999
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 8 DE JUNIO DE 1999
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 15 DE JUNIO DE 1999
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
