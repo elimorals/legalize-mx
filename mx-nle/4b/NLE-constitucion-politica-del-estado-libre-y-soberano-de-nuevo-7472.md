@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1965-06-26"
+last_updated: "1966-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 1966.
+
+(REPUBLICADO EN EL PERIODICO OFICIAL: 18 DE ENERO DE 1967)
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -159,9 +161,11 @@ El Estado de Nuevo León comprende el Territorio de lo fué (sic) provincia del 
 
 De las Elecciones.
 
+(REFORMADO, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+
 ###### Art. 41.
 
-La renovación del personal que integra los Poderes Legislativo, Ejecutivo y Judicial, y los Ayuntamientos en el Estado, se verificará por medio de elecciones populares directas en las fechas, términos y con los requisitos que determinará una ley reglamentaria.
+La renovación del personal que integra los Poderes Legislativo, Ejecutivo y los Ayuntamientos en el Estado, se verificará por medio de elecciones populares directas en las fechas, términos y con los requisitos que determinará una ley reglamentaria.
 
 ###### Art. 42.
 
@@ -171,11 +175,11 @@ Los ciudadanos nuevoleoneses, reunidos en sus respectivas secciones en los días
 
 Fuera del caso de delito infraganti, ningún ciudadano puede ser arrestado el día de las elecciones ni la víspera. En caso de delito infraganti la autoridad tomará las providencias necesarias para la aprehensión del delincuente, una vez que haya depositado su voto.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1942)</small>
+(REFORMADO, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
 
 ###### Art. 44.
 
-La Ley reglamentaria determinará las obligaciones y facultades de los Partidos Políticos y de los candidatos independientes, garantizando ampliamente sus derechos; dispondrá detalladamente la forma, procedimientos y demás requisitos con que deben celebrarse las elecciones, en el concepto de que cada asamblea electoral resolverá las dudas que se ofrezcan sobre la calidad de sus propios miembros; dividirá el Estado en Distritos Electorales y en Sectores Judiciales, señalando los Municipios que correspondan a cada uno; establecerá los derechos y obligaciones de los votantes; disignará quienes no tienen derecho a votar; precisará los casos de nulidad de una elección, acordándose los trámites a que debe sujetarse el procedimiento para pedirle y resolverla, y establecerá las penas que deben aplicarse a los infractores de sus disposiciones.
+La Ley Reglamentaria determinará las obligaciones y facultades de los Partidos Políticos y de los candidatos independientes, garantizando ampliamente sus derechos; dispondrá detalladamente la forma, procedimientos y demás requisitos con que deben celebrarse las elecciones, en el concepto de que cada asamblea electoral resolverá las dudas que se ofrezcan sobre la calidad de sus propios miembros; dividirá el Estado en Distritos Electorales, señalando los Municipios que correspondan a cada uno; establecerá los derechos y obligaciones de los votantes; designará quienes no tienen derecho a votar; precisará los casos de nulidad de una elección, acordándose los trámites a que debe sujetarse el procedimiento para pedirla y resolverá, y establecerá las penas que deben aplicarse a los infractores de sus disposiciones.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1942)</small>
 
@@ -319,11 +323,15 @@ XIII.- Revisar y aprobar en su caso, cada año y cuando lo juzgue conveniente, l
 
 XIV.- Promover e impulsar la educación pública y el engrandecimiento de todos los ramos de prosperidad en general.
 
-XV.- Computar los votos que hayan obtenido los ciudadanos para el cargo de Gobernador, Diputados en su caso, Magistrados y Jueces de Letras; decidir los empates e indecisiones que resulten; resolver en el acto las dudas que se ofrezcan sobre la nulidad de las expresadas elecciones y sobre la calidad de los electos; y calificar la verdadera imposibilidad que aleguen los elegidos para no admitir esos cargos.
+(REFORMADA, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+
+XV.- Computar los votos que hayan obtenido los ciudadanos para los cargos de Gobernador y Diputados; decidir los empates o indecisiones que resulten; resolver en el acto las dudas que se ofrezcan sobre la nulidad de las expresadas elecciones y sobre la calidad de los electos; y calificar la verdadera imposibilidad que aleguen los elegidos para no admitir esos cargos.
 
 XVI.- Recibir al Gobernador, Magistrados y Diputados, en su caso, la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las leyes que de ambas emanen.
 
-XVII.- Aceptar las renuncias de los Funcionarios citados en la fracción anterior y las de los Jueces de Letras, cuando se funden en una verdadera imposibilidad justificada.
+(REFORMADA, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+
+XVII.- Aceptar las renuncias del Gobernador y Diputados cuando se funden en una verdadera imposibilidad justificada.
 
 XVIII.- Facultar al Ejecutivo para que celebre arreglos amistosos relativos a límites del Estado; aprobar éstos en su caso, y pedir al Congreso de la Unión su aprobación.
 
@@ -333,7 +341,9 @@ XX.- Dirimir las competencias que se susciten entre el Ejecutivo y el Superior T
 
 XXI.- Nombrar al Gobernador interino o sustituto del Estado, en los casos que previenen los arts. 89, 90 y 91 de esta Constitución.
 
-XXII.- Nombrar a los Magistrados del Superior Tribunal de Justicia en caso de faltas absolutas.
+(REFORMADA, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+
+XXII.- Aprobar, en su caso, los nombramientos que haga el Gobernador del Estado de los Magistrados del Tribunal Superior de Justicia, así como aprobar las renuncias y licencias de los mismos funcionarios sometidas al Ejecutivo del Estado en los términos de los artículos 85 Fracción XX, 97 y 98.
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1928)</small>
 
@@ -411,13 +421,13 @@ IV.- Convocar al Congreso a sesiones extraordinarias cuando convenga a la salud 
 
 V.- Manifestar su opinión por escrito al Gobernador, en los casos en que éste tenga a bien pedirla.
 
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 1926)</small>
+(REFORMADA, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
 
-VI.- Ejercer las facultades a que se refieren los artículos 52, 63 en sus Fracciones IV, XXI, XXXVI, 89, 90, 91 y 98 de esta Constitución.
+VI.- Ejercer las facultades a que se refieren los artículos 52, 63 en sus fracciones IV, XV, XXI, XXXVI y XXXVII, 89, 90, 91, 97 y 98 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1928)</small>
+(REFORMADA, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
 
-VII.- Nombrar interinamente al Tesorero General del Estado a propuesta en terna del Ejecutivo, cuando su falta absoluta ocurra durante un receso del Congreso.
+VII.- Nombrar interinamente al Tesorero General del Estado y aprobar los nombramientos que haga el Gobernador del Estado de los Magistrados del Tribunal Superior de Justicia, cuando la falta absoluta ocurra durante un receso del Congreso, en los términos previstos por los artículos 97 y 98.
 
 VIII.- Recibir los expedientes de elecciones de todos los mandatarios públicos del Estado y practicar, para la renovación del Congreso, lo que prescribe la Ley Electoral y el Reglamento interior del mismo.
 
@@ -577,7 +587,9 @@ XVIII.- Suspender provisionalmente hasta por quince días a los Presidentes Muni
 
 XIX.- Expedir los títulos profesionales con arreglo a las leyes.
 
-XX.- Nombrar y remover libremente al Procurador General de Justicia.
+(REFORMADA, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+
+XX.- Nombrar a los Magistrados del Tribunal Superior de Justicia, sometiendo sus nombramientos a la aprobación del Congreso, así como conceder las licencias y aceptar las renuncias de los mismos funcionarios, en los términos de los artículos 97 y 98.
 
 XXI.- Presentar a la Legislatura, al principio de su primer período de sesiones ordinarias, el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
 
@@ -667,15 +679,25 @@ La potestad de aplicar las leyes en lo civil y criminal pertenece al Poder Judic
 
 La Justicia se administrará en nombre de la ley; las ejecutorias y provisiones de los Tribunales se encabezarán por ellos mismos en nombre del Estado, en la forma que las leyes prescriban.
 
+(REFORMADO, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+
 ###### Art. 97.
 
-Los Magistrados de que se compone el Tribunal de Justicia serán nombrados popularmente cada seis años, en la forma que prevenga la ley electoral. Será Presidente del Tribunal el que por elección designen sus mismos miembros, en la forma y términos que determine la Ley Orgánica respectiva.
+Los nombramientos de los Magistrados del Tribunal Superior de Justicia serán hechos por el C. Gobernador del Estado y sometidos a la aprobación de la Legislatura Local, la que resolverá fundadamente dentro del improrrogable término de cinco días. Si la Legislatura no resolviera dentro de dicho término se tendrán por aprobados los nombramientos. Sin la aprobación del Congreso no podrán tomar posesión los Magistrados del Tribunal Superior de Justicia. En caso de que la Legislatura no apruebe los primeros nombramientos, el Gobernador hará un segundo nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de la Legislatura en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros cinco días, el Congreso deberá aprobar o reprobar el nombramiento y si lo aprueba, o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si el Congreso desecha el nombramiento, cesará desde luego en sus funciones de Magistrado provisional, y el Gobernador someterá nuevo nombramiento a la aprobación del Congreso en los términos señalados. Los Magistrados definitivos serán inamovibles, salvo que observen mala conducta, acepten desempeñar otro empleo o encargo de la Federación, Estados, Municipios, o particulares, excepto los servicios de Educación o por ser condenados en juicio de responsabilidad, en cuyo caso serán castigados con la pérdida del cargo.
 
-El Ministerio Público, institución que tiene por objeto velar por la exacta observancia de las leyes de interés general, será desempeñado por un Procurador General de Justicia y por los Agentes de dicho Ministerio y sus Suplentes, en su caso, nombrados todos por el Ejecutivo. Una ley reglamentaria determinará la organización y funcionamiento del Ministerio Público en el Estado.
+Será Presidente del Tribunal el que por elección designen sus miembros, en la forma y términos que determine la Ley Orgánica.
+
+El Ministerio Público, institución que tiene por objeto velar la exacta observancia de la Leyes de interés general, será desempeñado por un Procurador General de Justicia y por los Agentes de dicho Ministerio y sus Suplentes, en su caso, nombrados todos por el Ejecutivo. Una Ley reglamentaria determinará la organización y funcionamiento del Ministerio Público en el Estado.
+
+(REFORMADO, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
 
 ###### Art. 98.
 
-Las faltas temporales de los Magistrados se cubrirán por los Supernumerarios, en el orden de su elección; y las perpetuas por nombramiento del Congreso o de la Diputación Permanente en su caso.
+Las faltas temporales de los Magistrados serán cubiertas por los Supernumerarios, en el orden de su designación y las perpetuas por nombramiento del Gobernador, que someterá a la aprobación del Congreso o a la Diputación Permanente, en su caso, en los términos previstos en el artículo anterior.
+
+Las renuncias de los Magistrados del Tribunal Superior de Justicia solamente proceden por causas graves; serán sometidas al Ejecutivo y si éste las acepta, serán enviadas para su aprobación al Congreso del Estado y en su receso a la Diputación Permanente.
+
+Las licencias de los Magistrados, cuando no excedan de tres meses, serán concedidas por el Tribunal Superior de Justicia, y las que excedan de ese tiempo las concederá el Gobernador del Estado, con la aprobación del Congreso, o, en su receso por la Diputación Permanente.
 
 ###### Art. 99.
 
@@ -691,13 +713,17 @@ III.- Ser vecino del Estado, Abogado recibido conforme a Ley y haber ejercido la
 
 IV.- No haber sido condenado en proceso legal por delitos contra la propiedad o de cualesquiera otra clase, si la pena impuesta fuere mayor de dos años y no han transcurrido diez después de haberla sufrido. Quedan exceptuados los delitos políticos.
 
+(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+
 ###### Art. 100.
 
-Pertenece al Superior Tribunal de Justicia:
+Pertenece al Tribunal Superior de Justicia:
 
 I.- Conocer en grado o revisión de los negocios civiles y criminales que les remitan los Jueces de Letras y Alcaldes Judiciales; y dirimir las competencias de jurisdicción entre las diversas autoridades judiciales, en los casos de la ley.
 
-II.- Conocer y resolver los recursos de casación.
+(REFORMADA, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+
+II.- Señalar a cada Juez la Fracción Judicial, número y ramo en que debe ejercer sus funciones, pudiendo cambiar de lugar al mismo Juez, pasándolo de una Fracción a otra, o fijando su residencia, en otra población, según lo estime conveniente para el mejor servicio público.
 
 III.- Conocer en Tribunal Pleno, y erigido en Jurado de Sentencia, de los delitos oficiales de los altos funcionarios públicos a que se refiere el art. 108 de la Constitución.
 
@@ -715,7 +741,9 @@ VIII.- Nombrar y remover, en los términos que establezca la Ley del Servicio Ci
 
 IX.- Hacer el Reglamento para su gobierno interior.
 
-X.- Nombrar y suspender los Jueces de Letras interinos y Asesores, y admitirles sus renuncias.
+(REFORMADA, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+
+X.- Nombrar y suspender a los Jueces de Letras en los términos del artículo 103.
 
 XI.- Iniciar ante la Legislatura las leyes, decretos o acuerdos que tengan por objeto mejorar la administración de justicia:
 
@@ -733,13 +761,21 @@ Los Tribunales y Jueces no pueden ejercer otras funciones que las de juzgar y pr
 
 Ningún funcionario o empleado de la administración de justicia podrá ser abogado, apoderado en negocios agenos (sic), asesor, arbitro de derecho o arbitrador ni tener comisión alguna del Gobierno, excepto las de Instrucción Pública.
 
+(REFORMADO, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+
 ###### Art. 103.
 
-Los Jueces de Primera Instancia se elegirán popularmente y serán letrados o asesorados. La Ley Orgánica respectiva determinará su número, jurisdicción, lugar de residencia, tiempo de duración, y establecerá los requisitos para obtener estos cargos públicos.
+Los Jueces de Primera Instancia serán nombrados por el Tribunal Superior de Justicia en Pleno, a propuesta en ternas del Ejecutivo. Serán inamovibles salvo que observen mala conducta, acepten desempeñar otro empleo o en cargo de la Federación, Estados, Municipios o particulares, excepto los servicios de Educación, o por ser condenados en juicio de responsabilidad, en cuyos casos, serán castigados con la pérdida del cargo.
+
+Las renuncias de los Jueces de Letras solamente proceden por causas graves y se presentarán ante el Tribunal Superior de Justicia.
+
+La Ley orgánica respectiva determinará su número, ramo, jurisdicción y lugar de residencia y establecerá los requisitos para obtener estos cargos públicos.
+
+(REFORMADO, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
 
 ###### Art. 104.
 
-Los Alcaldes Judiciales de la Capital serán Letrados; éstos y los demás del Estado tendrán las facultades conciliatorias y judiciales que les acuerde la Ley Orgánica respectiva.
+Los Alcaldes Judiciales de la Ciudad de Monterrey, y de los Municipios a que se refiera la Ley Orgánica del Poder Judicial serán Letrados; éstos y los demás del Estado tendrán las facultades conciliatorias y judiciales que acuerde la Ley Orgánica respectiva. Los Alcaldes Judiciales serán electos popularmente cada tres años, en la forma que prevenga la Ley Electoral.
 
 ## TITULO VII.. De la Responsabilidad
 
@@ -777,11 +813,13 @@ La responsabilidad por delitos y faltas cometidos durante el ejercicio de funcio
 
 Aunque el delito que se impute a algún funcionario se hubiere cometido antes de que ejerza el cargo que, según los artículos anteriores le concede fuero, disfrutará de éste si en el momento de la acusación ejerce tal cargo.
 
+(REFORMADO, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+
 ###### Art. 112.
 
-El Gobernador Constitucional del Estado gozará de fuero por todo el período de su elección, desde el día en que sea declarado por el Congreso; y los interinos durante el período para que fueron nombrados. El Secretario de Gobierno, el Procurador de Justicia y el Tesorero General sólo disfrutarán de fuero mientras ejerzan sus funciones.
+El Gobernador Constitucional del Estado gozará de fuero por todo el período de su elección, desde el día en que sea declarado por el Congreso, y los Interinos durante el período para que fueron nombrados. El Secretario de Gobierno, el Procurador de Justicia y el Tesorero General sólo disfrutarán de fuero mientras ejerzan sus funciones.
 
-Los Diputados y Magistrados Propietarios gozarán de fuero desde el día en que fueren declarados electos; y los Diputados Suplentes y Magistrados Supernumerarios sólo durante el ejercicio de sus funciones, salvo en todo caso lo que dispone el art. 107.
+Los Diputados Propietarios gozarán de fuero desde el día en que fueren declarados electos y por todo el período en el ejercicio de sus funciones. Los Magistrados Propietarios y Supernumerarios lo gozarán durante el ejercicio de su cargo a partir de su designación. Lo anterior salvo, en todo caso, con lo que dispone el artículo 107.
 
 ###### Art. 113.
 
@@ -1354,3 +1392,11 @@ UNICO:- Este decreto entrará en vigor el día de su publicación en el PERIODIC
 P.O. 26 DE JUNIO DE 1965.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 14 DE DICIEMBRE DE 1966.
+
+PRIMERO:- Estas reformas empezarán a tener vigencia para que surtan sus efectos a tono con los motivos que las impulsan, a partir del día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO:- Dentro de la segunda quincena del mes de septiembre de mil novecientos sesenta y siete, se procederá a hacer la designación de los Magistrados y aprobado su nombramiento se designarán los Jueces de Letras. El Poder Judicial así designado entrará en ejercicio de sus funciones el día cuatro de octubre del mismo año, previa la protesta de Ley correspondiente.
+
+TERCERO:- Las prevenciones contenidas en los artículos 63 fracción XXII, 66 fracción VII, 97, 98, 100 fracción II y 103, reformados, tendrán aplicación por una sola vez por lo que a nombramientos se refiere; y en lo sucesivo, solamente cuando se presente el caso de faltas absolutas de los funcionarios judiciales por las diversas causas previstas en las propias reformas.
