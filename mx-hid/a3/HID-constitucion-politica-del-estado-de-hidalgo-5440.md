@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1978-04-24"
+last_updated: "1978-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 1978.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -665,17 +665,11 @@ XXX. Tomar las medidas de carácter urgente que sean necesarias, cuando en el Es
 
 XXXI. Las demás que le confiera esta Constitución y la General de la República; (sic)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE SEPTIEMBRE DE 1975)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE JULIO DE 1978)</small>
 
 ###### Artículo 54.
 
-Para el Despacho de los negocios del Ejecutivo, habrá tres funcionarios, que se denominarán:
-
-I. Secretario de Gobierno.
-
-II. Secretario de Administración y Finanzas
-
-III. Secretario de Desarrollo Económico y Social.
+Para el despacho de los negocios del Ejecutivo, habrá tres funcionarios, que se denominarán: Secretario General del Gobierno, Secretario de Administración y Secretario de Planeación; y las demás dependencias que establezca la Ley Orgánica correspondiente, la que distribuirá los asuntos que han de estar a cargo de cada una de ellas.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1975)</small>
 
@@ -695,11 +689,11 @@ III. Ser mayor de 25 años.
 
 No podrán ser Secretario de Despacho, los Ministros de cualquier culto.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1978)</small>
 
 ###### Artículo 57.
 
-Al Secretario de Gobierno, corresponde firmar todas las leyes y reglamentos expedidos por el Congreso que hayan sido sancionados por el Titular del Ejecutivo, así como los decretos que éste emita.
+Todos los decretos, reglamentos y órdenes del Gobernador, deberán ser firmados por el Secretario del Despacho, encargado del ramo a que el asunto corresponda y sin éste requisito no serán obedecidos.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1975)</small>
 
@@ -721,9 +715,9 @@ El Ministerio Público, como representante del interés social, es la instituci�
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
-### CAPITULO II. DE LOS SECRETARIOS DE DESPACHO
+### CAPITULO II. DEL DESPACHO DE LOS ASUNTOS DEL EJECUTIVO
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1978)</small>
 
 ###### Artículo 61.
 
@@ -1177,6 +1171,10 @@ P.O. 24 DE ABRIL DE 1978.
 
 UNICO.- Este Decreto surtirá sus efectos a partir del 15 de marzo próximo del año en curso.
 
+P.O. 1 DE JULIO DE 1978.
+
+Unico.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
 ###### Artículo 3o.
 
 Las anteriores reformas entrarán en vigor en todo el Estado, a los quince días de su publicación en el Periódico Oficial del Estado.
@@ -1195,7 +1193,7 @@ P.O. 8 DE NOVIEMBRE DE 1948.
 
 DECRETO NUMERO 11, QUE REFORMA LOS ARTICULOS 48, 52, 78 Y 93 DE LA CONSTITUCION.
 
-Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación el en Periódico Oficial del Estado.
 
 P.O. 24 DE FEBRERO DE 1952.
 
