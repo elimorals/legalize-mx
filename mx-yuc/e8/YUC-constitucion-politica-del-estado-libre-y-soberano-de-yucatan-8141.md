@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1988-12-21"
+last_updated: "1989-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE DICIEMBRE DE 1988.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE MARZO DE 1989.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -337,11 +337,13 @@ En sus periodos de sesiones ordinarias el Congreso se ocupará del estudio, disc
 
 En cada periodo de sesiones ordinarias el Congreso se ocupará de manera preferente de los asuntos que señale su Ley Orgánica.
 
-> <small>(REFORMADO, D.O. 29 DE SEPTIEMBRE DE 1988)</small>
+> <small>(REFORMADO, D.O. 1 DE MARZO DE 1989)</small>
 
 ###### Artículo 28.
 
-A la apertura de sesiones ordinarias del primer periodo del Congreso de cada uno de los cinco primeros años del periodo del Ejecutivo y la sesión que se celebre el segundo domingo de diciembre del sexto año del mismo, asistirá el Gobernador del Estado y presentará un informe por escrito, en el que manifieste el estado general que guarda la Administración Pública del Estado. El Presidente del Congreso contestará a dicho Informe en términos generales.
+A la apertura de sesiones ordinarias del primer periodo del Congreso de cada uno de los cinco primeros años del periodo del Ejecutivo y la sesión que se celebre el segundo domingo de diciembre del sexto año del mismo, asistirá el Gobernador del Estado y presentará un informe por escrito, en el que manifieste el estado general que guarda la administración pública del Estado. En dicho informe podrá dar respuesta además, a las preguntas que le hubieren formulado los integrantes del H. Congreso a través del Presidente en turno, con una antelación no menor de veinte días naturales al del informe correspondiente. Las preguntas comprenderán exclusivamente cualquier asunto de la administración pública, correspondiente al periodo a que se refiera el informe del Ejecutivo.
+
+El Presidente del Congreso contestará a dicho informe en términos generales.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1557,7 +1559,7 @@ D.O. 6 DE ENERO DE 1920.
 
 ###### ARTICULO SEGUNDO
 
-- Esta reforma entrará en vigor al día siguiente de su publicación en el "Diario Oficial" del Estado.
+- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial" del Estado.
 
 D.O. 6 DE FEBRERO DE 1920.
 
@@ -1904,5 +1906,9 @@ D.O. 29 DE SEPTIEMBRE DE 1988.
 UNICO.- Este Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
 
 D.O. 21 DE DICIEMBRE DE 1988.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 1 DE MARZO DE 1989.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
