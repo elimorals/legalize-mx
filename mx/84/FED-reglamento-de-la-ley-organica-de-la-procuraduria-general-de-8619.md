@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-861
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-08-27"
-last_updated: "1997-08-13"
+last_updated: "1998-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8619&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-08-26"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE AGOSTO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1998.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el martes 27 de agosto de 1996.
 
@@ -865,6 +865,8 @@ V. Ejercer las atribuciones a que se refieren los artículos 8o. y 13 de la Ley 
 
 ### CAPÍTULO DÉCIMO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 1998)</small>
+
 ###### Artículo 45.
 
 Para la atención de los asuntos de su competencia, la Procuraduría se auxiliará de las Delegaciones, del Instituto de Capacitación y de las Agregadurías, como órganos desconcentrados. Estos tendrán las facultades específicas que se determinen en cada caso, de conformidad con las normas que establezcan la Ley Orgánica de la Procuraduría General de la República, el presente Reglamento y los instrumentos jurídicos que los regulen.
@@ -1149,9 +1151,11 @@ VII. Recibir el informe sobre la aplicación del Fondo para Investigaciones Espe
 
 ###### Artículo 56.
 
-Durante las ausencias del Procurador, el despacho y resolución de los asuntos estarán a cargo, en el orden que se mencionan, de los Subprocuradores de Coordinación General y Desarrollo; de Procedimientos Penales “A” y “B”; y Jurídico y de Asuntos Internacionales.
+Durante las ausencias del Procurador, el despacho y resolución de los asuntos estarán a cargo, en el orden que se mencionan, de los Subprocuradores Jurídico y de Asuntos Internacionales; de Procedimientos Penales “A”, “B” y “C”, y de Coordinación General y Desarrollo.
 
-En los juicios en que deba intervenir el Procurador será suplido por los servidores públicos antes señalados según su competencia. Además, el Procurador podrá ser representado en juicio por el Director General de lo Contencioso y Consultivo, o por los Agentes del Ministerio Público de la Federación que se designen para el caso concreto.
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1998)</small>
+
+En los procedimientos judiciales o administrativos en que deba intervenir el Procurador General, incluyendo el juicio de amparo, podrá ser suplido, indistintamente, por los servidores públicos antes señalados, por el Director General de Amparo o por el Director General de lo Contencioso y Consultivo, y podrá ser representado ante autoridades administrativas o judiciales por los servidores públicos antes mencionados o por los Agentes del Ministerio Público de la Federación que se designen para el caso concreto.
 
 Salvo que el Procurador lo determine de otra forma, los servidores públicos de la Procuraduría serán suplidos, durante sus ausencias, por el de la jerarquía inmediata inferior, de conformidad con el acuerdo de adscripción del Procurador.
 
@@ -1218,3 +1222,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. En tanto entra en vigor el artículo 2 del Reglamento de la Ley Orgánica de la Procuraduría General de la República, en lo referente a las Subprocuradurías de Procedimientos Penales "A", "B" y "C", habrá dos Comités de Zona. El Procurador General de la República determinará mediante acuerdo, el Subprocurador que presidirá cada uno y la distribución de asuntos de los que deban conocer dichos Comités.
 
 TERCERO. Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
+
+D.O.F. 21 DE ENERO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Quedan sin efecto todas las disposiciones administrativas que contravengan las del presente Decreto.
