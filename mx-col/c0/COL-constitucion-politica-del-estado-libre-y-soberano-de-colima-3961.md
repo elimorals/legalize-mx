@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1954-01-23"
+last_updated: "1954-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 1954.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -229,13 +229,13 @@ I.- Del orden federal, las que determinen la Constitución y demás Leyes que de
 
 II.- Legislar sobre todos los Ramos de Administración o gobierno interiores que sean de la competencia del Estado, conforme a la Constitución Federal y reformar, abrogar y derogar las leyes que expidiere, así como también reformar esta Constitución previos los requisitos que ella misma establece.
 
-(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1954)</small>
 
-III.- Expedir anualmente los Presupuestos de Ingresos y Egresos del Estado, y decretar en todo tiempo las contribuciones que basten a cubrir los egresos de los Municipios.
+III.- Aprobar anualmente, los Presupuestos de Ingresos y Egresos del Estado, y decretar en todo tiempo las contribuciones que basten a cubrir los Egresos de los Municipios.
 
-(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1954)</small>
 
-IV.- Aprobar o reprobar las cuentas de los caudales públicos, que deberá presentar la Tesorería General del Estado dentro de los quince días siguientes a la apertura del primer período de sesiones de cada año. En caso de que fueren reprobadas dichas cuentas, consignar al Ministerio Público a los presuntos delincuentes para la averiguación correspondiente y aplicación del castigo a los responsables.
+IV.- Aprobar o reprobar las cuentas de los Caudales Públicos, que deberá presentar la Tesorería General del Estado dentro de los 30 días siguientes a la apertura del Periodo de Sesiones Ordinarias de cada año. En caso de que fueren reprobadas dichas cuentas, consignar al Ministerio Público a los presuntos delincuentes para la averiguación correspondiente y aplicación del castigo a los responsables.
 
 (REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -257,13 +257,11 @@ III (sic).- Resolver irrevocablemente las dudas y las cuestiones suscitadas con 
 
 IX.- Intervenir en las elecciones de Senadores por el Estado, con arreglo a lo dispuesto en el artículo 56 de la Constitución Federal.
 
-(REFORMADA, P.O. 1 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+X.- (DEROGADA, P.O. 30 DE ENERO DE 1954)
 
-X.- Pedir auxilio al Ejecutivo Federal y en caso necesario trasladar su residencia a lugar seguro, en territorio del Estado o fuera de él, si el Poder Ejecutivo amenazare o ejerciere presión sobre el Congreso, de tal suerte que éste se viere privado de libertad para ejercer sus funciones. Igual facultad tendrá cuando la amenaza o presión fuere ejercida por cualquier autoridad o grupo tumultuario de personas y el Ejecutivo no pudiere dar garantías o se rehusare a darlas.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1954)</small>
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1952)</small>
-
-XI.- Conocer y resolver acerca de las renuncias a sus respectivos cargos presentadas por el Gobernador, los Diputados, los Magistrados del Supremo Tribunal de Justicia, y el Contador de Glosa, y conceder licencias a los mismos Funcionarios, con goce de sueldo o sin él para separarse temporalmente del cargo que desempeñen.
+XI.- Conocer de las denuncias y licencias de los Diputados y del Gobernador; y otorgar o negar su aprobación a las solicitudes de licencia por más de dos meses o renuncias de los Magistrados del Supremo Tribunal, que les someta el Ejecutivo del Estado.
 
 (REFORMADA, P.O. 1 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -281,7 +279,9 @@ XIV.- Nombrar Gobernador Interino cuando la falta del propietario sea temporal, 
 
 XV.- Fijar y notificar (sic) la división política, administrativa y judicial del Estado.
 
-XVI.- Cambiar provisionalmente en caso necesario, la residencia de los Poderes del Estado aun fuera del territorio del mismo.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1954)</small>
+
+XVI.- Cambiar provisionalmente en caso necesario, la residencia de los Poderes del Estado.
 
 XVII.- Erigirse en Jurado de acusación en los casos qus (sic) señala el artículo 122 de esta Constitución.
 
@@ -289,9 +289,9 @@ XVII.- Erigirse en Jurado de acusación en los casos qus (sic) señala el artíc
 
 XVIII.- Dirimir las competencias y resolver las controversias que se susciten entre el Ejecutivo y el Supremo Tribunal de Justicia, salvo lo prevenido en el artículo 105 de la Constitución Federal.
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1952)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1954)</small>
 
-XIX.- Nombrar libremente a los empleados de la Secretaría de la Cámara y al Contador de Glosa. (sic)
+XIX.- Nombrar y remover libremente a los empleados de la Secretaría de la Cámara y al Contador General de Glosa. (sic)
 
 XX.- Nombrar libremente a los empleados de la Secretaría de la Cámara, al Director General de Rentas y al Contador de Glosa.
 
@@ -301,17 +301,15 @@ XXI.- Investir al Gobernador de facultades extraordinarias en el Ramo de Haciend
 
 XXII.- Conceder amnistías por delitos políticos que correspondan a la jurisdicción de los Tribunales del Estado.
 
-(REFORMADA, P.O. 1 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
-
-XXIII.- Interpelar, a moción de alguno o varios Diputados, al Ejecutivo, a los funcionarios que gocen de fuero y a los Ayuntamientos, acerca de los asuntos de su respectiva competencia; debiendo sujetarse las interpelaciones a los trámites que fija el reglamento interior del Congreso.
+XXIII.- (DEROGADA, P.O. 30 DE ENERO DE 1954)
 
 (REFORMADA, P.O. 1 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
 XXIV.- Aprobar o reprobar la suspensión de los Ayuntamientos o de sus miembros, y la de los miembros de las Juntas Municipales que hubiere acordado el Ejecutivo.
 
-> <small>(REFORMADA, P. O. 10 DE NOVIEMBRE DE 1951)</small>
+> <small>(REFORMADA, P. O. 30 DE ENERO DE 1954)</small>
 
-25 (sic).- Nombrar y remover libremente a los Magistrados del Supremo Tribunal de Justicia, en la forma establecida por el Artículo 70 de esta Constitución.
+XXV.- Otorgar o negar su aprobación a los nombramientos de los Magistrados del Supremo Tribunal de Justicia, expedidos por el Ejecutivo en los términos que establece esta Constitución.
 
 (REFORMADA, P.O. 1 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -321,23 +319,23 @@ XXVI.- Presentar bases, conforme a las cuales el Ejecutivo pueda celebrar empré
 
 XXVII.- Nombrar persona o personas idóneas que representen al Estado en las controversias que se susciten con motivo de Leyes o actos de la Autoridad o Poderes Federales que vulneren o restrinjan la soberanía del Estado.
 
-(REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+XXVIII.- (DEROGADA, P.O. 30 DE ENERO DE 1954)
 
-XXVIII.- Decretar, en el caso de que se establezca el servicio militar obligatorio en la República, la forma de cubrir el contingente de hombres con que el Estado deba contribuir para el ejército.
+XXIX.- (DEROGADA, P.O. 30 DE ENERO DE 1954)
 
-XXIX.- Autorizar al Gobernador para poner en servicio activo la Guardia Nacional.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1954)</small>
 
-(REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+XXX.- Conceder pensiones de acuerdo con el Ejecutivo; otorgar distinciones u honores por servicios distinguidos prestados al Estado, bien se trate personalmente de los merecedores, de sus vuidas, de sus hijos o de sus padres.
 
-XXX.- Conceder pensiones y señalar premios, recompensas y honores por servicios distinguidos prestados al Estado, bien se trate de los agraciados personalmente, de sus viudas, de sus hijos o de sus padres.
-
-XXXI.- Rehabilitar a los que hubieren perdido los derechos de Ciudadanía, civiles o de familia.
+XXXI.- (DEROGADA, P.O. 30 DE ENERO DE 1954)
 
 (REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
 XXXII.- Expedir la Ley General de enseñanza primaria, elemental y superior o profesional.
 
-XXXIII.- Condonar contribuciones cuando lo considere justo y equitativo.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1954)</small>
+
+XXXIII.- Condonar contribuciones de acuerdo con el Ejecutivo, cuando se considere justo y equitativo.
 
 XXXIV.- Expedir leyes electorales conforme a la presente Constitución y fijar días extraordinarios para que se verifiquen las elecciones que por cualquier motivo no se hubieren celebrado en los que señalen las mismas leyes.
 
@@ -351,9 +349,9 @@ XXXVI.- Reorganizar la administración Municipal, nombrando funcionarios interin
 
 XXXVII.- Dirimir las cuestiones que sobre límites se susciten entre Municipios.
 
-(REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1954)</small>
 
-XXXVIII.- Erigir nuevos Municipios y suprimir los que no satisfagan las condiciones Constitucionales, agregando su territorio a donde corresponda.
+XXXVIII.- Crear y suprimir Municipios de acuerdo con el Ejecutivo y conforme a las bases que fija esta Constitución.
 
 > <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
@@ -379,17 +377,21 @@ Son atribuciones de la Diputación Permanente:
 
 I.- Vigilar la observancia de la presente Constitución, la General y demás leyes, dando cuenta al Congreso de las infracciones que notare.
 
-II.- Recibir los expedientes electorales que se remitan al Congreso y reservarlos para dar cuenta a él cuando se haya reunido.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1954)</small>
+
+II.- Recibir los expedientes electorales relativos a la elección de Diputados y Gobernador, para el sólo efecto de que se remitan al Congreso.
 
 III.- Convocar al Congreso a período extraordinario de sesiones o a sesión extraordinaria cuando lo creyere necesario o lo pidiere el Ejecntivo (sic).
 
-IV.- Recibir las actas relativas a la elección de Diputados para declarar quienes han obtenido mayoría de votos a fin de que se reúnan los propietarios el día designado por la ley y las relativas a elecciones de Gobernador, para el sólo efecto de entregarlas al Congreso.
+IV.- (DEROGADA, P.O. 30 DE ENERO DE 1954)
 
 V.- Instalar las Juntas previas del nuevo Congreso.
 
 VI.- Dictaminar acerca de todos los negocios que en las últimas sesiones ordinarias hayan quedado pendientes para dar cuenta al Congreso.
 
-VII.- Ejercer las facultades del Congreso, consignadas en las fracciones V, VIII, XI, XII, XIII, XX, XXIII, XXVII y XXXI del artículo 33 de esta Constitución.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1954)</small>
+
+VII.- Ejercer en su cargo y en forma provisional las facultades a que se refieren las fracciones V, VIII, XI, XII, XIII, XX, XXVII y XXXI del artículo 33 de esta Constitución.
 
 VIII.- Fijar dias extraordinarios para que se verifiquen las elecciones de Ayuntamientos foráneos, cuando por cualquier motivo no se hubieren celebrado en los que señala la ley electoral respectiva.
 
@@ -723,11 +725,13 @@ Del Poder Judicial.
 
 El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Jueces de Primera Instancia, Tribunal para Menores y demás Autoridades que designe la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 1949)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1954)</small>
 
 ###### Artículo 68.
 
-El Supremo Tribunal de Justicia se compone de dos Magistrados Propietarios, un Supernumerario y dos Suplentes de los primeros.
+El Supremo Tribunal de Justicia se compone de dos Magistrados Propietarios, un Supernumerario y dos Suplentes; funcionará en Tribunal Pleno o dividido en Salas Unitarias, en los términos que disponga la ley. Las audiencias del Tribunal Pleno y de las Salas serán públicas, excepto aquellas en que la moral o el interés público exijan que sean secretas. El Supremo Tribunal de Justicia designará a uno de sus miembros como Presidente y este durará en su cargo un año y podrá ser reelecto.
+
+Las competencias y funciones que correspondan al Presidente, al Pleno y a las Salas del Supremo Tribunal, serán las que fije la Ley Orgánica del Poder Judicial.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
@@ -747,11 +751,21 @@ IV.- No tener empleo, cargo o comisión de otros Estados o de la Federación, sa
 
 V.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se trata de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público; inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-(REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1954)</small>
 
 ###### Artículo 70.
 
-Los magistrados del Supremo Tribunal de Justicia, serán nombrados por la Legislatura en funciones de Colegio Electoral y por mayoría de votos. La elección se hará en escrutinio secreto y en caso de empate, se repetirá la votación hasta que se obtenga la mayoría indicada.
+El Supremo Tribunal de Justicia se renovará cada seis años que se contarán desde el día primero de noviembre, en que se inicia su ejercicio constitucional, pudiendo los designados ser reelectos para cualquier otro periodo. Si por cualquier motivo no se hace elección o los designados no se presentan al desempeño de su cargo, continuarán ejerciendo las funciones judiciales los individuos que los formen hasta que tomen posesión los nuevamente nombrados. Los nombramientos de los Magistrados del Supremo Tribunal serán hechos por el Gobernador del Estado y sometidos a la aprobación del Congreso, el que otorgará o negará esa aprobación dentro del improrrogable término de cinco días. Si el Congreso no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación del Congreso no podrán tomar posesión los Magistrados del Supremo Tribunal de Justicia nombrados por el Gobernador del Estado. En el caso de que el Congreso no apruebe los nombramientos sucesivos, respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de la Cámara en el siguiente periodo ordinario de Sesiones. En este periodo de sesiones, dentro de los primeros ocho días el Congreso deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si el Congreso desecha el nombramiento, cesará desde luego en sus funciones el Magistrado provisional, y el Gobernador del Estado someterá nuevo nombramiento a la aprobación de dicho Cuerpo Colegiado, en los términos señalados.
+
+En los casos de faltas temporales por más de dos meses, de los Magistrados, serán estos substituidos mediante nombramientos que el Gobernador del Estado someterá a la aprobación del Congreso y en sus recesos, a la de la Diputación Permanente, observándose en su caso lo dispuesto en los párrafos anteriores.
+
+Las faltas temporales de un Magistrado, que no excedan de dos meses, se suplirán en la forma que determine la Ley Orgánica.
+
+Si faltare un Magistrado por defunción, renuncia o incapacidad, el Gobernador del Estado someterá un nuevo nombramiento a la aprobación del Congreso; y si este no estuviere en sesiones, la Diputación Permanente dará su aprobación provisional, mientras se reúne aquél y da la aprobación definitiva.
+
+El Gobernador del Estado podrá pedir ante el Congreso la destitución, por mala conducta, de cualquiera de los Magistrados del Supremo Tribunal de Justicia. Si el Congreso declara, por mayoría absoluta de votos, justificada la petición, el funcionario acusado quedara privado desde luego de su puesto, independientemente de la responsabilidad legal en que hubiere incurrido y se procederá a nueva designación.
+
+El Gobernador del Estado, antes de pedir al Congreso o a la Diputación Permanente la destitución de algún Magistrado, oirá a éste, en lo privado, a efecto de poder apreciar en conciencia la justificación de tal solicitud.
 
 > <small>(REFORMADO, P. O. 10 DE NOVIEMBRE DE 1951)</small>
 
@@ -759,23 +773,25 @@ Los magistrados del Supremo Tribunal de Justicia, serán nombrados por la Legisl
 
 Los Jueces de Primera Instancia y los Menores serán nombrados y removidos libremente por el Supremo Tribunal de Justicia y tendrán los requisitos que fija el artículo 69 de esta Constitución, a excepción del título de abogado para los jueces menores que será dispensado cuando las circunstancias lo requieran.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1940)</small>
-
 ###### Artículo 72.
 
-Los Presidentes de las Juntas Municipales y los Comisarios serán nombrados conforme a lo dispuesto en el Título VII de esta Constitución.
+(DEROGADO, P.O. 30 DE ENERO DE 1954)
 
 ###### Artículo 73.
 
 Una ley reglamentaria fijará las atribuciones de los Tribunales y establecerá los procedimientos a que debe sujetarse en la Administración de Justicia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 1954)</small>
+
 ###### Artículo 74.
 
-Corresponde exclusivamente al Supremo Tribunal de Justicia:
+Corresponde exclusivamente al Supremo Tribunal de Justicia del Estado:
 
 I.- Formar su reglamento interior.
 
-II.- Conocer, de acuerdo con lo dispuesto en el artículo 123, de los procesos que por delitos oficiales se animen contra el Gobernador, los Diputados, el Procurador de Justicia, los Magistrados, Secretario de Gobierno, Director General de Rentas y Munícipes.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1954)</small>
+
+II.- Conocer de las causas de responsabilidad que hayan de formarse a los funcionarios de que habla el artículo 123 previa la declaración que se haga de haber lugar a sujeción de causa.
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1940)</small>
 
@@ -793,7 +809,9 @@ VI.- Dirimir los conflictos que surjan entre los Municipios y cualesquiera de lo
 
 VII.- Dirimir las competencias de jurisdicción que se susciten entre los Tribunales del Estado.
 
-VIII.- Conocer en Segunda Instancia, de todos los negocios civiles y criminales que tengan ese recurso.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1954)</small>
+
+VIII.- De los negocios civiles y penales del fuero común, como Tribunal de Apelación o de última Instancia.
 
 IX.- Ejercitar el derecho de iniciar leyes ante el Congreso Local y nombrar en su caso el representante a que se refiere el artículo 45 de la Constitución.
 
@@ -801,17 +819,19 @@ IX.- Ejercitar el derecho de iniciar leyes ante el Congreso Local y nombrar en s
 
 X.- Nombrar y remover a los empleados del Supremo Tribunal de Justicia, Juzgados de Primera Instancia y demás que designe la Ley Orgánica del Poder Judicial, y Tomarles la protesta respectiva en los términos de Ley.
 
-> <small>(REFORMADO, P. O. 10 DE NOVIEMBRE DE 1951)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1954)</small>
 
 ###### Artículo 75.
 
-Los Magistrados y los Jueces serán removidos en los términos de los Artículos 33, fracción 25 (sic) y 71 de esta Constitución, sin perjuicio de que serán consignados a las Autoridades respectivas cuando incurran en responsabilidades oficiales u observaren mala conducta.
+Los Magistrados y los Jueces serán removidos en los términos que establece esta Constitución.
 
 > <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1924)</small>
 
 ###### Artículo 76.
 
 Los miembros del Poder Judicial no podrán durante el ejercicio de su cargo, ejercer la profesión de Abogado ni las funciones de Notario, salvo el caso que estén desempeñando el cargo con carácter de Suplente y por un término que no exceda de dos meses.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1954)</small>
 
 ## TITULO V.
 
@@ -821,15 +841,21 @@ Del Ministerio Público y de la Defensoría de Oficio.
 
 ###### Artículo 77.
 
-La ley determinará la manera como deben funcionar los Tribunales y los Jurados.
+Habrá Jueces de Primera Instancia o Menores en las poblaciones que designe la Ley Orgánica del Poder Judicial, la cual determinará el número que ha de haber en cada población, sus facultades, obligaciones y modo de nombrarlos y removerlos y llenar sus faltas.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1954)</small>
 
 ###### Artículo 78.
 
-Las faltas temporales de Magistrado del Supremo Tribunal, se cubrirán por el suplente respectivo, que será llamado por los miembros restantes del mismo Cuerpo.
+Las faltas temporales de los Magistrados del Supremo Tribunal de Justicia se cubrirán por los suplentes respectivos que serán llamados por los miembros restantes del mismo Cuerpo.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 1954)</small>
 
 ###### Artículo 79.
 
-(DEROGADO, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
+El Presidente del Supremo Tribunal de Justicia será responsable de la buena marcha de la Administración de Justicia en el Estado, tendrá la representación del Supremo Tribunal y las facultades que le fije la Ley Orgánica respectiva.
+
+Los Magistrados y los Jueces son responsables de los delitos y faltas en que incurran durante el ejercicio de su cargo, previo juicio de responsabilidad.
 
 ###### Artículo 80.
 
@@ -1618,5 +1644,17 @@ P.O. 24 DE OCTUBRE DE 1953.
 UNICO:- Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 23 DE ENERO DE 1954.
+
+Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ENERO DE 1954.
+
+DECRETO NO. 128, QUE REFORMA, ADICIONA Y DEROGA LOS ARTICULOS 33 Y 36 DE LA CONSTITUCION DEL ESTADO.
+
+Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ENERO DE 1954.
+
+DECRETO NO. 129, QUE REFORMA, ADICIONA Y DEROGA LOS ARTICULOS 68, 70, 72, 74, 75, 77, 78 Y 79 DE LA CONSTITUCION DEL ESTADO.
 
 Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
