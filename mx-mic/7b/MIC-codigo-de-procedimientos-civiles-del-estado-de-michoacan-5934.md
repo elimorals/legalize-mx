@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1988-11-24"
+last_updated: "1991-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1991.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -7785,11 +7785,11 @@ Cuando no hubiere este convenio, la oposición de parte se substanciará inciden
 
 Los autos dictados en los juicios sucesorios y la resolución declarando herederos de un intestado o que es legítimo un testamento, son apelables en el efecto devolutivo, salvas (sic) las excepciones expresas de la ley.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 1047.
 
-Si conforme a las leyes fiscales procede la variación catastral de bienes hereditarios, es optativo para los interesados acudir a la autoridad judicial o a la administrativa. En este último caso, el acuerdo que ordene la variación catastral servirá de título y tendrá los mismos efectos que si la aplicación de bienes se hubiere hecho conforme a las disposiciones de este título, con las salvedades de la ley.
+Si conforme a la Ley de Catastro del Estado de Michoacán de Ocampo, procede la variación catastral de bienes hereditarios, es optativo para los interesados acudir a la autoridad judicial o a la administrativa. En este último caso, el acuerdo que ordene la variación catastral servirá de título y tendrá los mismos efectos que si la aplicación de bienes se hubiere hecho conforme a las disposiciones de este Título, con las salvedades de la Ley.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -10576,3 +10576,9 @@ CUARTO.- Se derogan todas las disposiciones legales que se opongan a lo previsto
 P.O. 24 DE NOVIEMBRE DE 1988.
 
 UNICO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
