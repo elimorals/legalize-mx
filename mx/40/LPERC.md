@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2003-02-25"
+last_updated: "2003-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MARZO DE 2003.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -76,13 +76,13 @@ II.- Orden Mexicana del Aguila Azteca;
 
 III.- de Ciencias y Artes;
 
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 1986)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MARZO DE 2003)</small>
 
-III-Bis.- De Demografía.
+IV.- de Demografía.
 
-IV.- de Deportes;
+> <small>(REFORMADA, D.O.F. 7 DE MARZO DE 2003)</small>
 
-V.- (DEROGADA, D.O.F. 23 DE MAYO DE 2002)
+V.- de Deportes;
 
 VI.- de Mérito Cívico;
 
@@ -101,6 +101,10 @@ XI.- De Administración Pública.
 > <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2003)</small>
 
 XI Bis.- Al Mérito Forestal.
+
+> <small>(ADICIONADA, D.O.F. 7 DE MARZO DE 2003)</small>
+
+XII.- De Protección Civil.
 
 La misma persona puede recibir dos o más premios distintos; pero sólo una vez el premio correspondiente a uno de los campos de los conceptos instituidos, o a un sólo concepto si éste no se divide en campos.
 
@@ -422,11 +426,11 @@ El Consejo integrará un Jurado por cada campo de premiación. A tal fin dará p
 
 La convocatoria fijará plazos dentro de los cuales las instituciones y agrupaciones incluidas en la lista que prevé el artículo 49, podrán ampliar informaciones ante el Consejo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 18 DE NOVIEMBRE DE 1986)</small>
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 7 DE MARZO DE 2003)</small>
 
-### CAPITULO VII-BIS. Premio Nacional de Demografía
+### CAPITULO VIII. Premio Nacional de Demografía
 
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 51-A.
 
@@ -450,241 +454,225 @@ El premio consistirá en una de las preseas a que hace mención el artículo 7o.
 
 Este premio será entregado en ceremonia pública y solemne por el Presidente de la República o la persona que él designe.
 
-### CAPITULO VIII. Premio Nacional de Deportes
+### CAPITULO IX. Premio Nacional de Deportes
+
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 52.
 
-El Premio Nacional de Deportes se concederá en dos campos:
+El Premio Nacional de Demografía, se otorgará como reconocimiento a profesionales de esta disciplina, por los ensayos e investigaciones que contribuyan al conocimiento y a la solución de los problemas demográficos de México.
 
-I.- La actuación destacada en alguna rama del deporte;
-
-II.- El fomento, la protección o el impulso de la práctica de los deportes.
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 53.
 
-Quedan excluidos de los premios de uno y otro campo quienes realicen sus actividades con carácter profesional o por lucro, sin que tenga esta última naturaleza el pago de cuotas simplemente compensatorias de servicios. En consecuencia, en el primer campo merecerán estos premios individuos, equipos o grupos que por mera afición practiquen los deportes, y, en el segundo campo, individuos o personas morales que no tengan carácter de empresarios en los deportes.
+El premio se conferirá anualmente y se tramitará ante la Secretaría de Gobernación, por conducto del correspondiente Consejo de Premiación, que será integrado por el Titular de la citada Secretaría como Presidente y por sendos representantes de las Secretarías de Relaciones Exteriores, de Hacienda y Crédito Público, de Programación y Presupuesto, de Desarrollo Urbano y Ecología, de Educación Pública, de Salud, del Trabajo y Previsión Social, y de la Reforma Agraria.
+
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 54.
 
-El premio se tramitará en la Secretaría de Educación Pública, cuyo titular presidirá el Consejo de Premiación. Este se integrará, además, por los presidentes de la Confederación Deportiva Mexicana, del Comité Olímpico Mexicano y por el Director del Instituto Nacional de la Juventud Mexicana.
+El premio consistirá en una de las preseas a que hace mención el artículo 7o. de esta Ley, más el numerario o especie que para el caso se determine.
+
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 55.
 
-Los premios consistirán en medalla de primera clase. Si el premio se otorga a un grupo o equipo de deportistas, el conjunto recibirá un diploma y cada uno de los individuos medalla. Si son varias las personas premiadas, las preseas consistirán en insignias.
-
-### CAPITULO IX. Premio Nacional de Periodismo y de Información
-
-###### ARTICULO 56.
-
-Por cada año habrá una asignación de premios, que podrán ser hasta cinco en el primer campo; pero sólo uno en el segundo. Si ocurrieren vacantes de premio, así lo declarará el Consejo de Premiación.
+Este premio será entregado en ceremonia pública y solemne por el Presidente de la República o la persona que él designe.
 
 ### CAPITULO X. Premio Nacional de Mérito Cívico
 
-###### ARTICULO 57.
+###### ARTICULO 56.
 
-Estos premios se concederán exclusivamente a candidatos propuestos por federaciones y asociaciones registradas en la Confederación Deportiva Mexicana o por los responsables de la información deportiva difundida por prensa, radio o televisión. Las candidaturas se propondrán al Consejo de Premiación durante el mes de septiembre y hasta el 15 de octubre de cada año. El Consejo integrará los expedientes que procedan dentro de los 10 días siguientes y a continuación los pondrá en manos del Jurado, que a más tardar el 10 de noviembre deberá haber entregado su dictamen al Consejo.
+El Premio Nacional de Deportes se concederá en dos campos:
 
-###### ARTICULO 58.
+I.- La actuación destacada en alguna rama del deporte, y
 
-Habrá un solo Jurado para los dos campos de premios, que de preferencia se integrará con personas que hayan sido premiadas con anterioridad y con representantes de los facultados para proponer candidaturas.
+II.- El fomento, la protección o el impulso de la práctica de los deportes.
 
 ### CAPITULO XI. Premio Nacional de Trabajo
 
-###### ARTICULO 59.
+###### ARTICULO 57.
 
-Los premios se entregarán el 20 de noviembre.
+Quedan excluidos de los premios de uno y otro campo quienes realicen sus actividades con carácter profesional o por lucro, sin que tenga esta última naturaleza el pago de cuotas simplemente compensatorias de servicios. En consecuencia, en el primer campo merecerán estos premios individuos, equipos o grupos que por mera afición practiquen los deportes, y, en el segundo campo, individuos o personas morales que no tengan carácter de empresarios en los deportes.
 
-###### ARTICULO 60.
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
-(DEROGADO, D.O.F. 23 DE MAYO DE 2002)
+###### ARTICULO 58.
 
-###### ARTICULO 61.
+El premio se tramitará en la Secretaría de Educación Pública, cuyo titular presidirá el Consejo de Premiación. Éste se integrará, además, por los presidentes de la Confederación Deportiva Mexicana, del Comité Olímpico Mexicano y por el Director del Instituto Nacional de la Juventud Mexicana.
 
-(DEROGADO, D.O.F. 23 DE MAYO DE 2002)
-
-###### ARTICULO 62.
-
-(DEROGADO, D.O.F. 23 DE MAYO DE 2002)
-
-###### ARTICULO 63.
-
-(DEROGADO, D.O.F. 23 DE MAYO DE 2002)
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ### CAPITULO XII. Premio Nacional de la Juventud
 
+###### ARTICULO 59.
+
+Los premios consistirán en medalla de primera clase. Si el premio se otorga a un grupo o equipo de deportistas el conjunto recibirá un diploma y cada uno de los individuos medalla. Si son varias las personas premiadas, las preseas consistirán en insignias.
+
+###### ARTICULO 60.
+
+Por cada año habrá una asignación de premios, que podrán ser hasta cinco en el primer campo; pero sólo uno en el segundo. Si ocurrieren vacantes de premio, así lo declarará el Consejo de Premiación.
+
+###### ARTICULO 61.
+
+Estos premios se concederán exclusivamente a candidatos propuestos por federaciones y asociaciones registradas en la Confederación Deportiva Mexicana o por los responsables de la información deportiva difundida por prensa, radio o televisión. Las candidaturas se propondrán al Consejo de Premiación durante el mes de septiembre y hasta el 15 de octubre de cada año. El Consejo integrará los expedientes que procedan dentro de los 10 días siguientes y a continuación los pondrá en manos del Jurado, que a más tardar el 10 de noviembre deberá haber entregado su dictamen al Consejo.
+
+###### ARTICULO 62.
+
+Habrá un solo Jurado para los dos campos de premios, que de preferencia se integrará con personas que hayan sido premiadas con anterioridad y con representantes de los facultados para proponer candidaturas.
+
+###### ARTICULO 63.
+
+Los premios se entregarán el 20 de noviembre.
+
+### CAPITULO XIII. Premio Nacional de Servicio a la Comunidad
+
 ###### ARTICULO 64.
 
-(DEROGADO, D.O.F. 23 DE MAYO DE 2002)
+El Premio Nacional de Mérito Cívico se concederá a quienes constituyan en su comunidad respetables ejemplos de dignidad cívica, por su diligente cumplimiento de la Ley, la firme y serena defensa de los propios derechos y de los derechos de los demás, el respeto a las instituciones públicas y, en general, por un relevante comportamiento ciudadano.
+
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 65.
 
-(DEROGADO, D.O.F. 23 DE MAYO DE 2002)
+Este premio se tramitará en la Secretaría de Gobernación, cuyo titular presidirá el correspondiente Consejo de Premiación. Éste se integrará, además, con un representante de cada una de las Cámaras del Congreso de la Unión.
+
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 66.
 
-(DEROGADO, D.O.F. 23 DE MAYO DE 2002)
+Es aplicable a este premio lo prevenido en el artículo 38 de la presente Ley.
 
 ###### ARTICULO 67.
 
 (DEROGADO, D.O.F. 23 DE MAYO DE 2002)
 
-### CAPITULO XIII. Premio Nacional de Servicio a la Comunidad
+### CAPITULO XIV. Premio Nacional de Antigüedad en el Servicio Público
 
 ###### ARTICULO 68.
 
-(DEROGADO, D.O.F. 23 DE MAYO DE 2002)
+El Premio Nacional de Trabajo se conferirá a las personas que por su capacidad organizativa o por su eficiente y entusiasta entrega a su cotidiana labor, mejoren la productividad en el área a que estén adscritos y sean ejemplo estimulante para los demás trabajadores.
 
 ###### ARTICULO 69.
 
-El Premio Nacional de Mérito Cívico se concederá a quienes constituyan en su comunidad respetables ejemplos de dignidad cívica, por su diligente cumplimiento de la Ley, la firme y serena defensa de los propios derechos y de los derechos de los demás, el respeto a las instituciones públicas y, en general, por un relevante comportamiento ciudadano.
+El premio se tramitará en la Secretaría del Trabajo y Previsión Social, por conducto del correspondiente Consejo de Premiación, que será integrado por el titular de la citada Secretaría como Presidente y por sendos representantes de las Secretarías de Gobernación, de la Reforma Agraria, del Centro Nacional de la Productividad y representantes de centrales obreras y campesinas nacionales a las que se invite.
 
 ###### ARTICULO 70.
 
-Este premio se tramitará en la Secretaría de Gobernación, cuyo titular presidirá el correspondiente consejo de Premiación. Este se integrará, además, con un representante de cada una de las Cámaras del Congreso de la Unión.
+Es aplicable a este premio lo prevenido en el artículo 38, que en relación con el presente Capítulo debe considerarse adicionado con la mención de organizaciones obreras, campesinas y patronales.
 
 ###### ARTICULO 71.
 
-Es aplicable a este premio lo prevenido en el 38 de la presente Ley.
-
-### CAPITULO XIV. Premio Nacional de Antigüedad en el Servicio Público
-
-###### ARTICULO 72.
-
-Los premios consistirán en venera. Todos los beneficiarios señalados en un año los recibirán en un acto cuya fecha y características de celebración será acordada por el Presidente de la República, a proposición del Consejo de Premiación.
-
-###### ARTICULO 73.
-
-El Premio Nacional de Trabajo se conferirá a las personas que por su capacidad organizativa o por su eficiente y entusiasta entrega a su cotidiana labor, mejoren la productividad en el área a que estén adscritos y sean ejemplo estimulante para los demás trabajadores.
-
-###### ARTICULO 74.
-
-El premio se tramitará en la Secretaría del Trabajo y Previsión Social, por conducto del correspondiente Consejo de Premiación, que será integrado por el titular de la citada Secretaría como Presidente y por sendos representantes de las Secretarías de Gobernación, de la Reforma Agraria, del Centro Nacional de la Productividad y representantes de centrales obreras y campesinas nacionales a las que se invite.
-
-###### ARTICULO 75.
-
-Es aplicable a este premio lo prevenido en el artículo 38, que en relación con el presente Capítulo debe considerarse adicionado con la mención de organizaciones obreras, campesinas y patronales.
-
-###### ARTICULO 76.
-
 Al premio corresponderá una placa y podrá adicionarse con una entrega en numerario, cuyo monto fijará discrecionalmente el Consejo de Premiación.
 
-### CAPITULO XIV-BIS
+### CAPITULO XV
 
 Premio Nacional de Administración Pública.
 
-> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
-###### ARTICULO 77.
+###### ARTICULO 72.
 
 El Premio Nacional de la Juventud será entregado a jóvenes menores de 25 años cuya conducta o dedicación al trabajo o al estudio cause entusiasmo y admiración entre sus contemporáneos y pueda considerarse ejemplo estimulante para crear y desarrollar motivos de superación personal o de progreso de la comunidad.
 
-###### ARTICULO 78.
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
-Este premio se tramitará en la Secretaría de Educación Pública, por conducto del Consejo de Premiación, que presidirá el titular de dicho ramo y que lo integrará junto con representantes de las Secretarías de Gobernación, del Trabajo y de la Reforma Agraria, el Director del Instituto Nacional de la Juventud Mexicana, más un representante de cada una de las Cámaras del Congreso de la Unión.
+###### ARTICULO 73.
 
-###### ARTICULO 79.
+Este premio se tramitará en la Secretaría de Educación Pública, por conducto del Consejo de Premiación, que presidirá el titular de dicho ramo y que lo integrará junto con representantes de las Secretarías de Gobernación, del Trabajo y Previsión Social y de la Reforma Agraria, el Director del Instituto Nacional de la Juventud Mexicana, más un representante de cada una de las Cámaras del Congreso de la Unión.
+
+###### ARTICULO 74.
 
 En todo caso formará parte del Jurado un representante del Instituto Nacional de la Juventud Mexicana.
 
-###### ARTICULO 80.
+###### ARTICULO 75.
 
 En la materia del presente Capítulo es aplicable lo dispuesto en el artículo 38; pero el Instituto Nacional de la Juventud Mexicana deberá constituirse en el promotor de candidaturas, excitando el envío de proposiciones.
 
-###### ARTICULO 81.
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
-El premio consistirá en medalla y se complementará con entrega en numerario o en especie, por el monto o naturaleza que determine el propio Consejo. En lo demás es aplicable el artículo 72 de esta Ley.
+###### ARTICULO 76.
 
-### CAPITULO XV BIS (SIC). Premio Nacional al Mérito Forestal
+El premio consistirá en medalla y se complementará con entrega en numerario o en especie, por el monto o naturaleza que determine el propio Consejo. En lo demás es aplicable el artículo 67 de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2003)</small>
-
-###### ARTICULO 91
-
-A (sic).- El Premio Nacional al Mérito Forestal será entregado a las personas físicas y morales de los sectores privado y social que realicen o hayan realizado acciones en el país a favor de la conservación, protección, restauración y uso sustentable de los recursos forestales, que representen beneficios a la sociedad.
+### CAPITULO XV BIS. Premio Nacional al Mérito Forestal
 
 > <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2003)</small>
 
-###### ARTICULO 91
-
-B (sic).- Este premio se tramitará en la Comisión Nacional Forestal, por conducto del Consejo de Premiación, que presidirá el titular de la Secretaría de Medio Ambiente y Recursos Naturales y que lo integrará junto con representantes de las Secretarías de la Defensa Nacional; de Hacienda y Crédito Público; de Desarrollo Social; de Economía; de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; de la Reforma Agraria; de Turismo, de la Comisión Nacional Forestal, de la Comisión Nacional del Agua, así como un representante por cada una de las Cámaras del H. Congreso de la Unión.
-
-En todo caso formarán parte del Jurado representantes del sector social, del sector privado y de organismos no gubernamentales que formen parte del Consejo Nacional Forestal a invitación del titular de la Comisión Nacional Forestal.
-
-> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2003)</small>
-
-###### ARTICULO 91
-
-C (sic).- En la materia del presente Capítulo es aplicable lo dispuesto en el artículo 38; pero la Comisión Nacional Forestal deberá constituirse en el promotor de candidaturas, exhortando el envío de proposiciones.
-
-> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2003)</small>
-
-###### ARTICULO 91
-
-D (sic).- El premio consistirá en diploma y se complementará con entrega en numerario o en especie, por el monto o naturaleza que determine el propio Consejo. En lo demás es aplicable el artículo 72 de esta Ley.
-
-###### ARTICULO 82.
+###### ARTICULO 77.
 
 Son acreedores a este premio quienes desinteresadamente y por propia voluntad, con sacrificio económico o de su tiempo o comodidad, hayan realizado o estén realizando actos de manifiesta solidaridad humana que contribuyan al bienestar y propicien el desarrollo de la comunidad ya sea cooperando al remedio o alivio de necesidades en casos de catástrofes o de siniestros; ya sea prestando ayuda o asistencia a sectores o sujetos socialmente marginados, inhabilitados u oprimidos.
 
-###### ARTICULO 83.
+###### ARTICULO 78.
 
 Este premio se tramitará en la Secretaría de Salubridad y Asistencia, cuyo titular presidirá el correspondiente Consejo de Premiación. Este se integrará, además, con representantes de las Secretarías de Educación Pública, de la Reforma Agraria, de la Defensa Nacional, de Marina, y del Instituto Mexicano del Seguro Social.
 
-###### ARTICULO 84.
+###### ARTICULO 79.
 
 En esta materia es aplicable el artículo 38 de la presente Ley.
 
-###### ARTICULO 85.
+###### ARTICULO 80.
 
 Se conceden facultades al Jurado para que, atendiendo proposiciones del Consejo de Premiación y las circunstancias de cada merecimiento, asigne como premios, en caso verdaderamente extraordinario, collar, y en otros, los que el Consejo determine.
 
-###### ARTICULO 86.
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
-Según lo acuerde el Presidente de la República, a proposición del Consejo de Premiación, la entrega de premios podrá tener lugar en los términos que previene el artículo 72, o en ceremonias parciales y aun en los lugares en que hayan tenido lugar los hechos que originaron los actos premiados.
+###### ARTICULO 81.
 
-### CAPITULO XV. Estímulos y Recompensas
+Según lo acuerde el Presidente de la República, a proposición del Consejo de Premiación, la entrega de premios podrá tener lugar en los términos que previene el artículo 67, o en ceremonias parciales y aun en los lugares en que hayan tenido lugar los hechos que originaron los actos premiados.
+
+### CAPITULO XVI. Estímulos y Recompensas
 
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
 
-###### ARTICULO 87.
+###### ARTICULO 82.
 
 El Premio Nacional de Antigüedad en el Servicio Público se otorgará, en atención a sus años de servicio, los trabajadores y funcionarios de las dependencias u organismos sujetos al régimen de la Ley Federal de los Trabajadores al Servicio del Estado.
 
-###### ARTICULO 88.
+###### ARTICULO 83.
 
 Este premio se tramitará de oficio en cada una de las dependencias u organismos del Poder Público, por conducto de los Consejos de Premiación que en ellos se establezcan; los cuales se integrarán con el titular como presidente; el oficial mayor o funcionario que haga sus veces, como secretario y como vocales un funcionario de la dependencia u organismo designado por el titular y el Secretario General del correspondiente Sindicato de los Trabajadores. Estos Consejos asumirán las funciones de Jurados.
 
-###### ARTICULO 89.
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
+
+###### ARTICULO 84.
 
 El premio se otorgará en cuatro grados y consistirá en medalla que será de clase correspondiente al grado:
 
-I.- Primer grado, por 50 años de servicio
+I.- Primer grado, por 50 años de servicio;
 
 II.- Segundo grado, por 40;
 
-III.- Tercer grado, por 30;
+III.- Tercer grado, por 30, y
 
 IV.- Cuarto grado, por 25.
 
-###### ARTICULO 90.
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
-Cada Consejo de Premiación determinará los nombres de las medallas de las respectivas dependencias u organismos; quedando vigentes y con sus mismas características y formalidades, mientras no se deroguen los decretos que les dieron origen, las premiaciones ya instituidas y que llevan los siguientes nombres: "Enfermera Isabel Cendala y Gómez", "Maestro Altamirano", "Emilio Carranza", "Medalla al Mérito Agrícola", "Miguel Angel de Quevedo" y "Maestro Rafael Ramírez".
+###### ARTICULO 85.
 
-###### ARTICULO 91.
+Cada Consejo de Premiación determinará los nombres de las medallas de las respectivas dependencias u organismos; quedando vigentes y con sus mismas características y formalidades, mientras no se deroguen los decretos que les dieron origen, las premiaciones ya instituidas y que llevan los siguientes nombres: Enfermera Isabel Cendala y Gómez, Maestro Altamirano, Emilio Carranza, Medalla al Mérito Agrícola, Miguel Angel de Quevedo y Maestro Rafael Ramírez.
 
-Los trabajadores y funcionarios que se consideren con derecho a este premio, podrán hacerlo valer por sí mismos o por conducto de su representación sindical o personal, ante el Consejo. En lo conducente, es aplicable el artículo 72 de la presente Ley.
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE ENERO DE 1980)</small>
+###### ARTICULO 86.
 
-### CAPITULO XVI. Disposiciones Generales
+Los trabajadores y funcionarios que se consideren con derecho a este premio, podrán hacerlo valer por sí mismos o por conducto de su representación sindical o personal, ante el Consejo. En lo conducente, es aplicable el artículo 67 de la presente Ley.
 
-###### ARTICULO 91-A.
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 7 DE MARZO DE 2003)</small>
 
-El Premio Nacional de Administración Pública se concederá a los seleccionados de entre los servidores públicos que prestan sus servicios en las dependencias o entidades cuyas relaciones laborales se rigen por el apartado "B" del artículo 123 Constitucional, de conformidad con lo dispuesto por el artículo 98 de la presente Ley.
+### CAPITULO XVII. Premio Nacional de Protección Civil
 
-> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
-###### ARTICULO 91-B.
+###### ARTICULO 87.
+
+El Premio Nacional de Administración Pública se concederá a los seleccionados de entre los servidores públicos que prestan sus servicios en las dependencias o entidades cuyas relaciones laborales se rigen por el apartado B del artículo 123 Constitucional, de conformidad con lo dispuesto por el artículo 98 de la presente Ley.
+
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
+
+###### ARTICULO 88.
 
 El Premio Nacional de Administración Pública se otorgará en tres grados y consistirá en medalla que será de clase correspondiente al grado y se adicionará con la cantidad que fije el Presidente de la República.
 
@@ -692,29 +680,53 @@ La entrega se hará en solemne ceremonia que se celebrará el 5 de diciembre de 
 
 El Premio será con cargo al Presupuesto de la Presidencia de la República.
 
-> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
-###### ARTICULO 91-C.
+###### ARTICULO 89.
 
 La selección de los servidores públicos con merecimientos para el Premio Nacional de Administración Pública, se hará por un jurado integrado por el Coordinador General de Estudios Administrativos quien lo presidirá y sendos representantes de la Coordinación General del Sistema Nacional de Evaluación, de la Comisión de Recursos Humanos del Gobierno Federal y de la Federación de Sindicatos de Trabajadores al Servicio del Estado. En caso de empate, el Presidente tendrá voto de calidad.
 
 Al efecto, la Comisión Interna de Administración y Programación, en funciones de la Comisión Evaluadora con la participación de un representante del Sindicato, en cada dependencia o entidad, deberá turnar a dicho jurado el expediente del servidor público seleccionado, de conformidad con el artículo 98 de la presente Ley.
 
-> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
-###### ARTICULO 91-D.
+###### ARTICULO 90.
 
 Si falleciere la persona a quien se debe otorgar el Premio Nacional de Administración Pública la entrega se hará a los beneficiarios designados ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o a quien expresamente se hubiere designado.
 
-> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
-###### ARTICULO 91-E.
+###### ARTICULO 91.
 
 La Coordinación General de Estudios Administrativos de la Presidencia de la República tendrá bajo su custodia el libro de honor en el que se asentarán anualmente los nombres de los servidores públicos que hayan obtenido el Premio Nacional de Administración Pública.
 
-> <small>N. DE E. LA NOMENCLATURA DEL CAPITULO Y LA SECUENCIA DEL ARTICULADO POR OMISION DEL LEGISLADOR ES INCORRECTA.</small>
-
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 25 DE FEBRERO DE 2003)</small>
+
+### CAPITULO XVIII. Disposiciones Generales
+
+###### ARTICULO 91-A.
+
+El Premio Nacional al Mérito Forestal será entregado a las personas físicas y morales de los sectores privado y social que realicen o hayan realizado acciones en el país a favor de la conservación, protección, restauración y uso sustentable de los recursos forestales, que representen beneficios a la sociedad.
+
+> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2003)</small>
+
+###### ARTICULO 91-B.
+
+Este premio se tramitará en la Comisión Nacional Forestal, por conducto del Consejo de Premiación, que presidirá el titular de la Secretaría de Medio Ambiente y Recursos Naturales y que lo integrará junto con representantes de las Secretarías de la Defensa Nacional; de Hacienda y Crédito Público; de Desarrollo Social; de Economía; de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; de la Reforma Agraria; de Turismo, de la Comisión Nacional Forestal, de la Comisión Nacional del Agua, así como un representante por cada una de las Cámaras del H. Congreso de la Unión.
+
+En todo caso formarán parte del Jurado representantes del sector social, del sector privado y de organismos no gubernamentales que formen parte del Consejo Nacional Forestal a invitación del titular de la Comisión Nacional Forestal.
+
+> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2003)</small>
+
+###### ARTICULO 91-C.
+
+En la materia del presente Capítulo es aplicable lo dispuesto en el artículo 38; pero la Comisión Nacional Forestal deberá constituirse en el promotor de candidaturas, exhortando el envío de proposiciones.
+
+> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2003)</small>
+
+###### ARTICULO 91-D.
+
+El premio consistirá en diploma y se complementará con entrega en numerario o en especie, por el monto o naturaleza que determine el propio Consejo. En lo demás es aplicable el artículo 72 de esta Ley.
 
 ###### ARTICULO 92.
 
@@ -782,11 +794,11 @@ Dicho Comité de Evaluación, durante la segunda quincena del mes de septiembre 
 
 Dentro de los tres días hábiles siguientes a la adopción de las resoluciones por el Comité de Evaluación, éste deberá proporcionar a la Comisión Interna de Administración y Programación correspondiente, los expedientes de los servidores públicos acreedores a estímulos para que ésta, dentro de la primera quincena del mes de octubre, seleccione de entre ellos a aquéllos a los que se debe otorgar la recompensa establecida en el inciso a) del artículo 93 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 98.
 
-Una vez concluida la selección a que se refiere el artículo anterior, la Comisión Interna de Administración y Programación en funciones de Comisión Evaluadora, seleccionará al servidor público que por sus méritos se haga acreedor a la recompensa a que se refiere el inciso b) del artículo 93 de la presente Ley, el que será propuesto además como candidato de la dependencia o entidad para el Premio Nacional de Administración Pública ante el jurado a que se refiere el artículo 91-C de esta Ley.
+Una vez concluida la selección a que se refiere el artículo anterior, la Comisión Interna de Administración y Programación en funciones de Comisión Evaluadora, seleccionará al servidor público que por sus méritos se haga acreedor a la recompensa a que se refiere el inciso b) del artículo 93 de la presente Ley, el que será propuesto además como candidato de la dependencia o entidad para el Premio Nacional de Administración Pública ante el jurado a que se refiere el artículo 89 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
 
@@ -800,21 +812,59 @@ En cada dependencia del Ejecutivo la Unidad de Administración de Personal deber
 
 Si falleciere la persona a cuyo favor se hubiere resuelto otorgar alguna de las recompensas, la entrega se hará a los beneficiarios designados ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, o a quien expresamente se hubiere designado.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 7 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 101.
 
-Las erogaciones que deban hacerse con motivo de esta Ley, serán con cargo a la partida correspondiente de la Secretaría donde se tramite cada premio, y en caso de falta o insuficiencia de partida, con cargo al presupuesto del ramo de la Presidencia. Las recompensas de que trata el Capítulo XV únicamente podrán recaer sobre el presupuesto de la dependencia u organismo a que pertenezca el beneficiario.
+El Premio Nacional de Protección Civil será conferido y entregado a aquellas personas o grupos que representen un ejemplo para la comunidad por su esfuerzo en acciones o medidas de autoprotección y autopreparación para enfrentar los fenómenos naturales o de origen humano que pongan a la población en situación de riesgo o de peligro, así como cuando se signifiquen por su labor ejemplar en la ayuda a la población ante la eventualidad de un desastre.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 102.
 
-Los premios y las entregas adicionales en numerario o en especie, así como las recompensas, estarán exentos de cualquier impuesto o deducción.
+Este Premio se tramitará ante la Secretaría de Gobernación por conducto del correspondiente Consejo de Premiación.
+
+El Consejo de Premiación se integrará por diez miembros, de la siguiente forma: el titular de la Secretaría de Gobernación, el titular de la Secretaría de la Defensa Nacional, el titular de la Secretaría de Marina, un representante de cada una de las Cámaras del Congreso de la Unión, el Coordinador General de Protección Civil, quien además fungirá como secretario técnico del Consejo, el Director General del Centro Nacional de Prevención de Desastres dependiente de la Secretaría de Gobernación, y el Rector o director de cada una de las siguientes instituciones: Universidad Nacional Autónoma de México, Instituto Politécnico Nacional y Cruz Roja Mexicana.
+
+El titular de la Secretaría de Gobernación será el Presidente del Consejo de Premiación y tendrá voto de calidad en caso de empate.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 103.
+
+Para cada año habrá una asignación del Premio por la actuación destacada en cada uno de los siguientes dos campos:
+
+I.- La prevención, por las medidas que se consideren de relevancia en materia de cultura de la protección civil, y
+
+II.- La ayuda, por las acciones que se hayan llevado a cabo en las tareas de auxilio a la población en caso de desastre.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MARZO DE 2003)</small>
+
+###### ARTICULO 104.
+
+Los premios consistirán en medalla, más el numerario o especie que para el caso se determine.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MARZO DE 2003)</small>
+
+###### ARTICULO 105.
+
+El premio será entregado el 19 de septiembre de cada año, por el Presidente de la República o por el servidor público que éste designe.
+
+###### ARTICULO 106.
+
+Las erogaciones que deban hacerse con motivo de esta Ley, serán con cargo a la partida correspondiente de la Secretaría donde se tramite cada premio, y en caso de falta o insuficiencia de partida, con cargo al presupuesto del ramo de la Presidencia. Las recompensas de que trata el Capítulo XV únicamente podrán recaer sobre el presupuesto de la dependencia u organismo a que pertenezca el beneficiario.
+
+###### ARTICULO 107.
+
+Los premios y las entregas adicionales en numerario o en especie, así como las recompensas, estarán exentos de cualquier impuesto o deducción.
+
+###### ARTICULO 108.
 
 Salvo que esta Ley contenga disposición expresa al respecto, los Jurados están facultados para proponer que dos o más personas con iguales merecimientos participen entre sí el mismo premio, o que éste se otorgue a cada una de ellas.
 
 > <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 1980)</small>
 
-###### ARTICULO 104.
+###### ARTICULO 109.
 
 Las recompensas señaladas en efectivo por la presente Ley, se ajustarán en la proporción en que se modifique, el salario mínimo general en el Distrito Federal.
 
@@ -844,7 +894,7 @@ D.O.F. 15 DE ENERO DE 1980.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial".
 
-D.O.F. 27 DE DICIEMBRE DE 1983.
+D.O.F. 27 DE DICIEMBRE DE 1983
 
 ###### ARTICULO UNICO.
 
@@ -867,3 +917,7 @@ ARTICULO TRANSITORIO DE LAS REFORMAS Y ADICIONES A LA LEY GENERAL DEL EQUILIBRIO
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor el mismo día de la entrada en vigor de la Ley General de Desarrollo Forestal Sustentable.
+
+D.O.F. 7 DE MARZO DE 2003.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
