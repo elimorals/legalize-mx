@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1943-02-01"
+last_updated: "1944-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 1944.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -97,7 +97,7 @@ P.O. 1 DE JUNIO DE 1937.
 
 ###### Artículo 3º.
 
-El Territorio del Estado es el expresado en el Supremo Decreto de Erección de 16 de enero de 1869 y se divide en quince Distritos a los que corresponden los 81 Municipios que a continuación se expresan:
+El Territorio del Estado es el expresado en el Supremo Decreto de Erección de 16 de Enero de 1869 y se divide en los 82 Municipios que a continuación se expresan:
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 1927)</small>
 
@@ -135,7 +135,9 @@ Distrito de Tenango de Doria: Formado con los Municipios de Tenango de Doria, Sa
 
 Distrito de Tula de Allende: Formado con los Municipios de Tula de Allende, Tlaxcoapan, Tepeji del Río, Tetepango, Tezontepec de Aldama, Atitalaquia, Tepetitlán, Atotonilco, Tula y Ajacuba.
 
-Distrito de Tulancingo: Formado con los Municipios de Tulancingo, Acaxochitlán, Cuautepec, Acatlán, Metepec y Singuilucan.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1944)</small>
+
+Distrito de Tulancingo: Formado con los Municipios de Tulancingo, Acaxochitlán, Cuautepec, Acatlán, Metepec, Singuilucan y Santiago Tulantepec.
 
 Distrito de Zacualtipán: Formado con los Municipios de Zacualtipán y Tianguistengo.
 
@@ -1003,7 +1005,7 @@ En tanto se expiden las leyes orgánicas relativas, continuaran rigiendo en el E
 
 Las autoridades y funcionarios del Estado no tienen mas facultades que las que expresamente les concedan esta Constitución, la General de la República y las leyes que de ellas emanen.
 
-> <small>(REFORMADO, PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 1943)</small>
+> <small>(REFORMADO, PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1944)</small>
 
 ###### Artículo 3°.
 
@@ -1024,3 +1026,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 1 DE FEBRERO DE 1943.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 1 DE ABRIL DE 1944.
+
+UNICO:- Este Decreto empezará a surtir sus efectos a partir del día primero de abril próximo.
