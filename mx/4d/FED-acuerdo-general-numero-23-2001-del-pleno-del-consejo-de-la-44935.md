@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2002-10-15"
+last_updated: "2002-10-24"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE OCTUBRE DE 2002.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -47,7 +47,9 @@ En consecuencia, con fundamento en las citadas disposiciones constitucionales y 
 
 ACUERDO
 
-PRIMERO.- El territorio de la República se divide en veintisiete circuitos, cuya circunscripción territorial es la siguiente:
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
+
+PRIMERO.- El territorio de la República se divide en veintiocho circuitos, cuya circunscripción territorial es la siguiente:
 
 I.- PRIMER CIRCUITO: Distrito Federal.
 
@@ -59,7 +61,9 @@ IV.- CUARTO CIRCUITO: Estado de Nuevo León.
 
 V.- QUINTO CIRCUITO: Estado de Sonora, con excepción del municipio de San Luis Río Colorado.
 
-VI.- SEXTO CIRCUITO: Estados de Puebla y Tlaxcala.
+> <small>(REFORMADA POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
+
+VI.- SEXTO CIRCUITO: Estado de Puebla.
 
 VII.- SEPTIMO CIRCUITO: Estado de Veracruz, con excepción de los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
 
@@ -102,6 +106,10 @@ XXV.- VIGESIMO QUINTO CIRCUITO: Estado de Durango, con excepción de los municip
 XXVI.- VIGESIMO SEXTO CIRCUITO: Estado de Baja California Sur.
 
 XXVII.- VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
+
+> <small>(ADICIONADA POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
+
+XXVIII.- VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
 
 SEGUNDO.- Cada uno de los circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de circuito y los juzgados de distrito que a continuación se precisan:
 
@@ -163,7 +171,9 @@ V.- QUINTO CIRCUITO:
 
 VI.- SEXTO CIRCUITO:
 
-1.- Diez tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y dos en materia de trabajo, todos con residencia en Puebla.
+> <small>(REFORMADO POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
+
+1.- Nueve tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y uno en materia de trabajo, todos con residencia en Puebla.
 
 2.- Un tribunal unitario con sede en Puebla.
 
@@ -171,7 +181,7 @@ VI.- SEXTO CIRCUITO:
 
 3.- Siete juzgados de distrito en el Estado de Puebla, con residencia en la ciudad del mismo nombre.
 
-4.- Dos juzgados de distrito en el Estado de Tlaxcala, con sede en la ciudad del mismo nombre.
+4.- (DEROGADO POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)
 
 VII.- SEPTIMO CIRCUITO:
 
@@ -225,7 +235,9 @@ XII.- DECIMOSEGUNDO CIRCUITO:
 
 1.- Cinco tribunales colegiados con residencia en Mazatlán.
 
-2.- Tres tribunales unitarios con sede en Mazatlán.
+> <small>(REFORMADO POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
+
+2.- Dos tribunales unitarios con sede en Mazatlán.
 
 3.- Diez juzgados de distrito en el Estado de Sinaloa: cuatro con residencia en Culiacán, tres con sede en Los Mochis y tres con residencia en Mazatlán.
 
@@ -379,6 +391,16 @@ XXVII.- VIGESIMO SEPTIMO CIRCUITO:
 
 3.- Tres juzgados de distrito en el Estado de Quintana Roo, uno con residencia en Chetumal y dos con sede en Cancún.
 
+> <small>(ADICIONADA POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
+
+XXVIII.- VIGESIMO OCTAVO CIRCUITO:
+
+1.- Un tribunal colegiado con residencia en Tlaxcala.
+
+2.- Un tribunal unitario con sede en Tlaxcala.
+
+3.- Dos juzgados de distrito en el Estado de Tlaxcala, con residencia en la ciudad del mismo nombre.
+
 TERCERO.- La jurisdicción territorial de los tribunales colegiados y unitarios de circuito es la que enseguida se indica:
 
 I.- PRIMER CIRCUITO: Distrito Federal.
@@ -405,7 +427,9 @@ IV.- CUARTO CIRCUITO: Estado de Nuevo León.
 
 V.- QUINTO CIRCUITO: Estado de Sonora, con excepción del municipio de San Luis Río Colorado.
 
-VI.- SEXTO CIRCUITO: Estados de Puebla y Tlaxcala.
+> <small>(REFORMADA POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
+
+VI.- SEXTO CIRCUITO: Estado de Puebla.
 
 VII.- SEPTIMO CIRCUITO: Estado de Veracruz, con excepción de los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
 
@@ -489,6 +513,10 @@ XXVI.- VIGESIMO SEXTO CIRCUITO: Estado de Baja California Sur.
 
 XXVII.- VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
 
+> <small>(ADICIONADA POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
+
+XXVIII.- VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
+
 CUARTO.- La jurisdicción territorial de los juzgados de distrito es la siguiente:
 
 I.- PRIMER CIRCUITO:
@@ -525,7 +553,7 @@ VI.- SEXTO CIRCUITO:
 
 Los juzgados de distrito en el Estado de Puebla, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
 
-Los juzgados de distrito en el Estado de Tlaxcala, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+> <small>(DEROGADO SEGUNDO PARRAFO POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
 
 VII.- SEPTIMO CIRCUITO:
 
@@ -668,6 +696,12 @@ XXVII.- VIGESIMO SEPTIMO CIRCUITO:
 El juzgado de distrito en el Estado de Quintana Roo, con residencia en Chetumal, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Felipe Carrillo Puerto, José María Morelos y Othón P. Blanco.
 
 Los juzgados de distrito en el Estado de Quintana Roo, con residencia en Cancún, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Benito Juárez, Cozumel, Isla Mujeres, Lázaro Cárdenas y Solidaridad.
+
+> <small>(ADICIONADA POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
+
+XXVIII.- VIGESIMO OCTAVO CIRCUITO:
+
+Los juzgados de distrito en el Estado de Tlaxcala, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
 
 QUINTO.- El Pleno del Consejo de la Judicatura Federal interpretará y resolverá cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
 
@@ -946,3 +980,11 @@ D.O.F. 15 DE OCTUBRE DE 2002.
 PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 24 DE OCTUBRE DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se encomienda a las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos del Consejo de la Judicatura Federal, que atiendan la situación laboral del personal adscrito al Segundo Tribunal Colegiado en Materia de Trabajo del Sexto Circuito, al Tercer Tribunal Unitario del Décimo Segundo Circuito, así como a la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia de Trabajo del Sexto Circuito.
