@@ -1,0 +1,492 @@
+---
+title: "LEY DE PROTECCION Y DEFENSA DE LOS DERECHOS DE LAS PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA -ANTES LEY DE PROTECCION Y DEFENSA DE LOS DERECHOS DEL MENOR Y LA FAMILIA-"
+identifier: "BCN-ley-de-proteccion-y-defensa-de-los-derechos-de-las-personas-15296"
+country: "mx"
+rank: "ley"
+publication_date: "1999-10-15"
+last_updated: "1999-10-15"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15296&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-bcn"
+scjn_id: "15296"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "43 SECCION I"
+reform_count: "4"
+scjn_last_update: "2008-07-04"
+issue_date: "1999-09-23"
+state: "BCN"
+---
+# LEY DE PROTECCION Y DEFENSA DE LOS DERECHOS DE LAS PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA -ANTES LEY DE PROTECCION Y DEFENSA DE LOS DERECHOS DEL MENOR Y LA FAMILIA-
+
+LEY DE PROTECCION Y DEFENSA DE LOS DERECHOS DEL MENOR Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 1999.
+
+ALEJANDRO GONZALEZ ALCOCER
+
+GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, A SUS HABITANTES SABED:
+
+QUE LA H. LEGISLATURA DEL ESTADO, ME HA DIRIGIDO PARA SU PUBLICACION, EL ORDENAMIENTO LEGAL QUE SIGUE:
+
+LA H. XVI LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 27, FRACCION I DE LA CONSTITUCION POLITICA LOCAL, EXPIDE LA SIGUIENTE:
+
+LEY DE PROTECCION Y DEFENSA DE LOS DERECHOS DEL MENOR Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA.
+
+#### SECCION PRIMERA. DE LOS DERECHOS DEL MENOR
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+###### ARTICULO 1°.
+
+Las disposiciones de esta Ley son de orden público e interés general y tiene por objeto establecer los derechos mínimos de los menores en el Estado de Baja California, mismos que deberán de ser considerados por todas las autoridades judiciales, administrativas o de cualquier otra índole para la emisión de sus acuerdos o resoluciones, tomando en cuenta siempre el interés superior del menor y la Familia.
+
+###### ARTICULO 2°.
+
+La Procuraduría para la Defensa del Menor y la Familia en el Estado, dependiente del Sistema Estatal para el Desarrollo Integral de la Familia, será el órgano facultado para proteger los derechos que para el menor consagran los Tratados Internacionales celebrados y que se celebren por el Presidente de la República con la aprobación del Senado; la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la presente Ley y las demás disposiciones legales aplicables.
+
+Asimismo la Procuraduría para la Defensa del Menor y la Familia a través de su titular deberá de vigilar que en todas las actuaciones, acuerdos o resoluciones que emitan las autoridades en el Estado prevalezca siempre el interés superior del menor y la Familia.
+
+###### ARTICULO 3°.
+
+Para los efectos de esta Ley, se entiende por:
+
+I.- MENOR: Todo ser humano menor de dieciocho años de edad, mismo que por su minoría de edad o su falta de madurez física o mental requiere de cuidados y asistencias especiales;
+
+II.- FAMILIA: El grupo fundamental de la sociedad y medio natural para el crecimiento y el bienestar de todos sus miembros;
+
+III.- DIRECTOR: El Director del Sistema Estatal para el Desarrollo Integral de la Familia;
+
+IV.- SISTEMA: El Sistema Estatal para el Desarrollo Integral de la Familia.
+
+V.- PROCURADURIA: La Procuraduría para la Defensa del Menor y la Familia en el Estado;
+
+VI.- PROCURADOR: El Procurador para la Defensa del Menor y la Familia en el Estado;
+
+VII.- SUBPROCURADURIA: Subprocuraduría para la Defensa del Menor y la Familia;
+
+VIII.- LEY: Ley para la Protección y Defensa de los Derechos del Menor y la familia.
+
+### CAPITULO II. DE LOS DERECHOS MINIMOS DEL MENOR
+
+###### ARTICULO 4°.
+
+El menor, para el pleno y armonioso desarrollo de su personalidad, debe crecer en el seno de la familia, en un ambiente de felicidad, amor y comprensión.
+
+La Procuraduría, así como las autoridades administrativas o judiciales del Estado velarán porque el menor no sea separado de sus padres contra la voluntad de éstos, excepto cuando por resolución judicial o cuando de manera preventiva la Procuraduría, determine de conformidad con las disposiciones legales aplicables, que la separación es necesaria en el interés superior del menor y la Familia. Tal determinación puede ser necesaria cuando el menor sea objeto de maltrato físico, mental o verbal, descuido de sus necesidades básicas, explotación por parte de sus padres y de quienes lo tengan bajo su cuidado, uso de alcohol, alguna droga o sustancia psicotrópicas o estupefacientes por parte de los padres o de quienes tengan al menor bajo su cuidado; o cuando éstos realicen o permitan que otros realicen cualquier conducta de acción u omisión y esto ponga en peligro la salud, la integridad física o mental del menor, su dignidad y su seguridad personal; e informar al día siguiente hábil, al Ministerio Público o al Juez competente o a la autoridad política del lugar que corresponda, la medida dictada a efecto de que sea calificada.
+
+###### ARTICULO 5°.
+
+El menor debe estar plenamente preparado para una vida independiente en sociedad y ser educado en el espíritu de los ideales proclamados en la Carta de las Naciones Unidades y, en particular, en un ambiente de paz, dignidad, tolerancia, libertad, igualdad, solidaridad, amor y comprensión.
+
+###### ARTICULO 6°.
+
+El menor por su falta de madurez física y mental, necesita protección y cuidados especiales, incluso la debida protección legal, tanto antes como después de su nacimiento
+
+###### ARTICULO 7°.
+
+El menor goza de todos los derechos y garantías consagradas en la Constitución Política de los Estados Unidos Mexicanos, sin distinción alguna, independientemente de la raza, el color, el sexo, el idioma, la religión, la opinión política o de otra índole, el origen étnico o social, la posición económica, los impedimentos físicos o cualquier otra condición del menor, de sus padres o representantes legales.
+
+Las autoridades administrativas, judiciales o legislativas, las instituciones públicas o privadas y en general el Estado, deberán garantizar que el menor sea protegido contra toda forma de discriminación o castigo, acción u omisión que ponga en riesgo su seguridad, su dignidad y su integridad física o mental.
+
+###### ARTICULO 8°.
+
+El menor tendrá derecho a expresar su opinión libremente en todos los asuntos que lo afecten, debiéndose tomar en cuenta todas sus opiniones en función de su edad y madurez.
+
+En todos los procedimientos judiciales o administrativos que afecten al menor deberá tomarse en cuenta la opinión de éste cuando ello sea posible de conformidad a lo que establezca al respecto el Código Civil y el Código de Procedimientos Civiles vigente en la Entidad, debiendo en todos los casos estar, asistidos por un representante de la Procuraduría.
+
+###### ARTICULO 9°.
+
+Los menores que temporal o permanentemente se encuentren privados de su medio familiar o cuyo interés superior exija que no permanezcan en ese medio, tendrán derecho a la protección y asistencias especiales de la Procuraduría.
+
+###### ARTICULO 10.
+
+El menor impedido mental o físicamente deberá disfrutar de una vida plena en condiciones que aseguren su dignidad, para que le permitan llegar a valerse por sí mismo y le faciliten su participación activa en la comunidad en igualdad de oportunidades con el objeto de lograr su integración social y su pleno desarrollo individual y cultural.
+
+###### ARTICULO 11.
+
+El menor tiene derecho al disfrute del más alto nivel posible de salud y al servicio para el tratamiento de las enfermedades y padecimientos y a la rehabilitación de la salud.
+
+###### ARTICULO 12.
+
+Los padres, o en su caso las personas a las que les incumbe la responsabilidad legal del cuidado de los menores, dentro de sus posibilidades y medios económicos, deberán proporcionar al menor las condiciones de vida necesarias para su desarrollo integral.
+
+###### ARTICULO 13.
+
+El menor tiene derecho al descanso y al esparcimiento, al juego y a las actividades recreativas propias de su edad y a participar libremente en la vida cultural y en las artes, así como a recibir la educación adecuada a su edad y madurez.
+
+###### ARTICULO 14.
+
+Ningún menor podrá ser sometido a torturas ni a otros tratos crueles, inhumanos o degradantes.
+
+###### ARTICULO 15.
+
+Ningún menor será privado de su libertad ilegal o arbitrariamente. Todo menor privado de su libertad será tratado con humanidad y el respeto que merece la dignidad inherente a la persona humana y en particular se considerarán las atenciones especiales por su edad y nivel de madurez.
+
+### CAPITULO III. DE LA PROTECCION Y SEGURIDAD JURIDICA DE LOS MENORES
+
+###### ARTICULO 16.
+
+La Procuraduría, recibirá en todo momento y por cualquier vía, las denuncias sobre cualquier forma de maltrato, abandono o circunstancias que ponga en riesgo la seguridad, integridad, dignidad de los menores o de las personas que estén imposibilitadas de valerse por sí mismas.
+
+###### ARTICULO 17.
+
+La Procuraduría protegerá y promoverá los derechos del menor y procurará su equidad y seguridad jurídica en las relaciones en que por cualquier motivo participe.
+
+Para los efectos del párrafo anterior, la Procuraduría emitirá los acuerdos necesarios en los que solicitará las medidas procedentes a un Juez competente o autoridad política del lugar que corresponda, a fin de garantizar la seguridad y bienestar del menor y la Familia
+
+###### ARTICULO 18.
+
+Cuando por cualquier motivo, la Procuraduría tenga conocimiento de cualquiera de las situaciones establecidas en esta Ley y que por consiguiente la seguridad, integridad y dignidad del menor se encuentren en riesgo, deberá proteger y custodiar a éste, ubicándolo en un albergue dedicado a la atención de menores, ya sea público o privado, y seguirá en todo momento realizando las acciones necesarias para asegurarle su estabilidad jurídica y emocional, debiendo informar al día siguiente hábil de los hechos al Ministerio Público, o al Juez competente o a la autoridad política del lugar que corresponda, para que califique la medida adoptada
+
+###### ARTICULO 19.
+
+La Procuraduría en apego a las disposiciones legales aplicables y cuando el interés superior del menor y la Familia así lo requiera, podrá ubicar a éstos en albergues dedicados a la atención de menores, y al día siguiente hábil deberá informar, al Ministerio Público, o al Juez competente o a la autoridad política del lugar que corresponda, para que califique la medida adoptada.
+
+###### ARTICULO 20.
+
+Los menores que por cualquier situación de riesgo o peligro, sean separados de su ambiente familiar quedarán bajo custodia o guarda de la Procuraduría.
+
+#### SECCION SEGUNDA. DE LA PROCURADURIA PARA LA DEFENSA DEL MENOR Y LA FAMILIA EN EL ESTADO
+
+### CAPITULO IV (SIC). DE LA INTEGRACION DE LA PROCURADURIA
+
+###### ARTICULO 21.
+
+La Procuraduría para la Defensa del Menor y la Familia, es el órgano dependiente del Gobierno del Estado, mediante el cual el Sistema Estatal para el Desarrollo Integral de la Familia, prestará, organizada y permanentemente, servicios de Asistencia Social y Jurídica a la familia y especialmente a los menores de edad sin recursos económicos para la atención de los asuntos compatibles con los objetivos del propio Sistema Estatal para el Desarrollo Integral de la Familia.
+
+###### ARTICULO 22.
+
+La Procuraduría de la Defensa del Menor y la Familia tendrá las siguientes facultades y atribuciones:
+
+I.- Para los efectos del Artículo 26 de esta ley, turnar al Ministerio Público los casos que se hagan de su conocimiento relativos a la problemática del menor de edad sujeto a malos tratos;
+
+II.- Realizar todas las diligencias jurídicas necesarias para regularizar la situación del menor en riesgo, incluyendo aquellas en las que se encuentren relacionadas Autoridades Municipales, Estatales, Federales o en su caso autoridades de otro país, en las cuales se solicitará la cooperación internacional;
+
+III.- Prestar asesoría jurídica a la familia, siempre que su intervención sea conveniente para mantener la estabilidad familiar;
+
+IV.- Hacer del conocimiento del Ministerio Público todos aquellos casos que importen el ejercicio de acciones en los términos de la Legislación civil, para que esté legitimado y ello se traduzca en la salvaguarda de los intereses de los menores y la familia para el efecto que las deduzcan ante las autoridades judiciales competentes;
+
+V.- Denunciar ante las autoridades competentes toda violación a las normas que protegen los intereses del menor y la familia;
+
+VI.- Coadyuvar con las autoridades educativas para que los menores concurran a las escuelas primarias exhortando a sus representantes legales o guardadores, para que los inscriban y los hagan asistir;
+
+VII.- Vigilar que los menores reciban educación adecuada a sus aptitudes y posibilidades, gestionando ante las autoridades correspondientes las becas necesarias, para que aquellos de escasos recursos que demuestren habilidad e interés, prosigan sus estudios;
+
+VIII.- Realizar todas las diligencias necesarias del área de Trabajo Social para verificar si el medio Social o Familiar del menor es el adecuado para su desarrollo armónico de acuerdo a su edad y necesidades especiales;
+
+IX.- Realizar todas las diligencias que sean necesarias por el área de Psicología con la finalidad de dictaminar el estado del menor, el estado de quienes lo tienen o tenían bajo su cuidado y la procedencia de su reintegración al ambiente del cual provisionalmente fue separado. Cuando lo considere necesario, el área de Psicología deberá hacer las canalizaciones correspondientes con la finalidad de que el menor reciba la atención especializada en caso requerido;
+
+X.- Fomentar la creación de brigadas para la detección y prevención de problemas sociales;
+
+XI.- Difundir por los medios más eficaces, el conocimiento de la presente ley, a efecto de lograr su plena observancia;
+
+XII.- Levantar el acta circunstanciada de las actuaciones que en el cumplimiento de la presente ley se requiera; debiendo contener una relación suscinta (sic) de tiempo, modo y lugar de los hechos con la intervención de dos testigos presenciales como mínimo, que no tengan interés directo o indirecto en la controversia; y,
+
+XIII.- Las demás contempladas en otras disposiciones legales que sean aplicables para el cumplimiento de su objetivo.
+
+###### ARTICULO 23.
+
+La Procuraduría de la Defensa del Menor en el Estado, para el ejercicio de sus atribuciones, funciones y despacho de los asuntos de su competencia, se auxiliará de las siguientes unidades y servidores públicos:
+
+I.- Procurador para la Defensa del Menor y la Familia;
+
+II.- Subprocuradurías para la Defensa del Menor y la Familia en cada municipio;
+
+III.- Coordinación de Adopciones, dependiente directamente del Procurador;
+
+IV.- Coordinación de Asistencia Privada, dependiente directamente del Procurador;
+
+V.- Coordinación de Albergues Temporales;
+
+VI.- Area jurídica, la cual contará con los Agentes para la Defensa del Menor y la Familia que se requieran de acuerdo a las necesidades del Servicio en cada Subprocuraduría;
+
+VII.- Area de Psicología, la cual contará con los Psicólogos que se requieran de acuerdo a las necesidades del servicio en cada Subprocuraduría;
+
+VIII.- Area de Trabajo Social, la cual contará con los trabajadores sociales que se requieran de acuerdo a las necesidades del servicio en cada Subprocuraduría; y,
+
+IX.- Las demás unidades y servidores públicos que establezca el Director a propuesta del Procurador, asimismo, las que señale esta Ley y otras disposiciones legales aplicables.
+
+###### ARTICULO 24.
+
+El personal a que hace referencia el artículo anterior, con excepción del Procurador, será nombrado y/o removido por el Director del Sistema Estatal para el Desarrollo Integral de la Familia a propuesta del Procurador de la Defensa del Menor.
+
+###### ARTICULO 25.
+
+Para ocupar el cargo de Procurador o Subprocurador para la Defensa del Menor y la Familia en el Estado, se requiere:
+
+I.- Ser ciudadano Mexicano por nacimiento y estar en pleno goce y ejercicio de sus derechos políticos y civiles;
+
+II.- Tener Título de Licenciado en Derecho con una antigüedad mínima al día de la designación de tres años, debidamente expedido por una Institución legalmente facultada para ello; y contar con cédula profesional Federal y Estatal;
+
+III.- Tener una reconocida solvencia moral y social;
+
+IV.- No haber sido condenado por delito intencional, que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza, lesiones, lesiones contra menores o incapaces, abandono de personas, omisión de auxilio, violencia intrafamiliar, corrupción de menores e incapaces, cualquiera que haya sido la pena, no calificará para dicho cargo;
+
+V.- Tener residencia en el Estado durante los cinco años anteriores al día de la designación;
+
+VI.- Tener vocación y conocimiento sobre la problemática de los Menores;
+
+VII.- Tener cuando menos treinta años cumplidos el día de la designación; y,
+
+VIII.- Preferentemente estar casado y tener descendencia.
+
+El Procurador será nombrado y removido libremente por el Director.
+
+El Procurador residirá en la Capital del Estado, pero realizará en el desempeño de sus funciones, cuantas visitas estime necesarias a las distintas dependencias de la Procuraduría.
+
+###### ARTICULO 26.
+
+Para ocupar cualquiera de los cargos señalados en el artículo 23 se requiere, Título Profesional de acuerdo con la función a desempeñar y satisfacer además los requisitos establecidos en las fracciones I, III, IV y VI del artículo anterior.
+
+###### ARTICULO 27.
+
+Operarán bajo el régimen de desconcentración, pero directamente subordinadas al Procurador, las siguientes Subprocuradurías:
+
+I.- Subprocuraduría para la Defensa del Menor y la Familia en Mexicali, que comprenderá el Municipio de Mexicali;
+
+II.- Subprocuraduría para la Defensa del Menor y la Familia en Tijuana, que comprenderá el Municipio de Tijuana;
+
+III.- Subprocuraduría para la Defensa del Menor y la Familia en Tecate, que comprenderá el Municipio de Tecate;
+
+IV.- Subprocuraduría para la Defensa del Menor y la Familia en Ensenada, que comprenderá el Municipio de Ensenada; y,
+
+V.- Subprocuraduría para la Defensa del Menor y la Familia en Playas de Rosarito, que comprenderá el Municipio de Playas de Rosarito.
+
+De conformidad con las necesidades del servicio, el Director a propuesta del Procurador podrá establecer delegaciones de la Procuraduría en poblaciones de la Entidad donde se requieran, de acuerdo a las disponibilidades presupuestales.
+
+### CAPITULO V. DE LAS FACULTADES
+
+###### ARTICULO 28.
+
+La Procuraduría será el órgano encargado de velar, vigilar y exigir el cumplimiento de las disposiciones legales que contemplen derechos y obligaciones relacionados con el menor, sin menoscabo del ejercicio de las facultades que se le otorgan en otras disposiciones legales.
+
+###### ARTICULO 29.
+
+El Procurador de la Defensa del menor, tendrá además las facultades y obligaciones siguientes:
+
+I.- Acordar en forma periódica con el Director del Sistema Estatal para el Desarrollo Integral de la Familia, el Despacho General de los asuntos de su competencia, así como proponer lo que se estime conveniente para mejorar el servicio;
+
+II.- Emitir a sus colaboradores las instrucciones generales y especiales que estime convenientes para la unidad de criterio y acción en favor de los menores y la familia, para el mejor cumplimiento de sus funciones;
+
+III.- Proponer al Director los anteproyectos de ley, reglamentos, decretos, acuerdos, convenios, acciones y mecanismos, relativos a los asuntos de su competencia;
+
+IV.- Poner en conocimiento del Consejo de la Judicatura, del Procurador General de Justicia del Estado, del Secretario Jurídico y de Prevención Social y de los titulares de las distintas dependencias, las irregularidades que se adviertan y que perjudiquen los derechos fundamentales del menor, con la finalidad de que se adopten las medidas pertinentes, considerando siempre el interés superior del menor y la familia;
+
+V.- Ejecutar en la esfera de su competencia, las facultades, obligaciones y atribuciones señaladas por las disposiciones legales aplicables;
+
+VI.- Conceder audiencias al público que lo solicite, para tratar asuntos de su competencia;
+
+VII.- Dictar las medidas necesarias para unificar las actuaciones de las Subprocuradurías, y de las diferentes áreas de la Procuraduría;
+
+VIII.- Designar en caso de ausencia, falta o excusa de uno de los servidores públicos, la persona que temporalmente desempeñe las funciones inherentes al cargo;
+
+IX.- Imponer a sus subalternos las correcciones disciplinarias necesarias por faltas en que incurran en el desempeño de sus funciones, de conformidad con la Ley aplicable;
+
+X.- Rendir al Director los informes que éste pida o el mismo estime necesarios sobre los asuntos de su competencia;
+
+XI.- Llevar el control administrativo y del personal de su dependencia; y
+
+XII.- Las demás que le sean encomendadas por el Director y las señaladas en otras disposiciones legales aplicables.
+
+###### ARTICULO 30.
+
+Compete a los Subprocuradores, lo siguiente:
+
+I.- Representar al Procurador en el Municipio de su adscripción;
+
+II.- Auxiliar al Procurador en las funciones que le sean conferidas;
+
+III.- Acordar con el Procurador los asuntos relacionados con la Subprocuraduría de su adscripción y los demás asuntos que éste le encomiende;
+
+IV.- Someter a la aprobación del Procurador, los estudios y proyectos de trascendencia que se elaboren en el área de su responsabilidad;
+
+V.- Conceder audiencias al público que lo solicite para tratar asuntos del área de su competencia;
+
+VI.- Ejecutar en la esfera de su competencia, las facultades, obligaciones y atribuciones señaladas por las disposiciones legales aplicables;
+
+VII.- Informar mensualmente al Procurador de los asuntos de su competencia;
+
+VIII.- Mantener informado al Procurador del estado que guardan los asuntos que por su importancia y trascendencia requieran de su atención personal;
+
+IX.- Transmitir al personal a su cargo, las instrucciones generales y especiales para el cumplimiento de sus atribuciones y funciones; y,
+
+X.- Las demás que le sean encomendadas legalmente por el Procurador, y aquellas señaladas en las disposiciones legales aplicables.
+
+###### ARTICULO 31.
+
+La Coordinación de Adopciones tendrá las siguientes facultades;
+
+I.- Acordar con el Procurador, y en su caso con los Subprocuradores, el despacho de los asuntos de su competencia;
+
+II.- Desempeñar las funciones y comisiones que el Procurador le encomiende, informando sobre el desarrollo de las mismas;
+
+III.- Planear y coordinar las actividades a su cargo;
+
+IV.- Recibir a los solicitantes de adopción, asesorándolos sobre los trámites administrativos necesarios para lograr legalmente la adopción;
+
+V.- Vigilar la debida integración de los expedientes de los solicitantes de adopción;
+
+VI.- Proponer al Procurador aquellos expedientes de solicitantes de adopción que se encuentren completos y debidamente integrados para ser considerados por el Consejo de Adopciones; y,
+
+VII.- Las demás que le sean encomendadas legalmente por el Procurador, o en el caso las señaladas por las disposiciones legales aplicables.
+
+###### ARTICULO 32.
+
+Compete a la Coordinación de Asistencia Privada, lo siguiente:
+
+I.- Acordar con el Procurador, el despacho de los asuntos de su competencia;
+
+II.- Desempeñar las funciones y comisiones que el Procurador le encomienda, informando sobre el desarrollo de las mismas;
+
+III.- Planear y coordinar las actividades a su cargo;
+
+IV.- Recibir a los representantes de las Instituciones de Beneficencia Privada, a los solicitantes de las mismas y en general a toda persona que de acuerdo con las disposiciones legales, desee realizar actividades no lucrativas y con fines de utilidad pública y predominantemente humanitarios, asesorándolos sobre los trámites administrativos necesarios para lograr legalmente su establecimiento;
+
+V.- Vigilar la debida integración de los expedientes de los asuntos de su competencia;
+
+VI.- Por conducto de la Procuraduría, presentar denuncias ante el Ministerio Público, por actos u omisiones constitutivos de delitos que se adviertan en el funcionamiento de las Instituciones a su cargo y supervisión; y,
+
+VII.- En general, todas aquellas que le sean encomendadas legalmente por el Procurador, o en su caso, le señalen las disposiciones legales aplicables.
+
+###### ARTICULO 33.
+
+Compete a la Coordinación de Albergues Temporales, lo siguiente:
+
+I.- Acordar con el Procurador, el despacho de los asuntos de su competencia;
+
+II.- Someter a consideración del Procurador, la organización interna de las unidades a su cargo;
+
+III.- Planear y coordinar las actividades inherentes a su cargo en las que debe predominar el interés superior del menor y la Familia;
+
+IV.- Actuar de inmediato gestionando los trámites necesarios para la atención urgente de los menores cuando su salud o condición así lo requiera;
+
+V.- Informar de manera inmediata al Procurador de cualquier situación que se presente en la unidad a su cargo, y que requiera la atención y conocimiento personal de éste;
+
+VI.- Transmitir al personal a su cargo, las instrucciones generales y especiales para el cumplimiento de sus atribuciones y funciones;
+
+VII.- Permitir el ingreso a los Albergues a personas que lo soliciten, previa autorización expedida por la encargada del Area de Trabajo Social, tomando en consideración el interés superior del menor y la Familia;
+
+VIII.- Tomar todas las medidas necesarias para garantizar el bienestar de los menores que se encuentran bajo su cuidado, informando de éstas al Procurador o en su caso al Subprocurador; y,
+
+IX.- En general todas aquellas que legalmente le sean encomendadas por el Procurador, o le señalen las disposiciones legales aplicables.
+
+###### ARTICULO 34.
+
+El Area jurídica, tendrá las siguientes facultades:
+
+I.- Otorgar asesoría al público que así lo solicite;
+
+II.- Integrar debidamente los expedientes a su cargo;
+
+III.- Promover y gestionar los trámites judiciales y administrativos que sean necesarios para regularizar la situación jurídica de los Menores bajo custodia o guarda de la Procuraduría;
+
+IV.- Visitar semanalmente los Albergues temporales para conocer personalmente a los menores bajo custodia o guarda de la Procuraduría;
+
+V.- Ordenar al área de trabajo social, las investigaciones e informes que requiera para la debida integración de expedientes y el seguimiento de las denuncias presentadas ante la Procuraduría;
+
+VI.- Ordenar al área de Psicología, los estudios y dictámenes necesarios para la debida integración de expedientes y el seguimiento de las denuncias presentadas ante la Procuraduría;
+
+VII.- Por conducto de la Procuraduría, presentar denuncias ante el Ministerio Público de los hechos constitutivos de delitos de los cuales tengan conocimiento en el ejercicio de sus funciones;
+
+VIII.- Por conducto del Procurador o subprocurador o Delegado en su caso, solicitar cuando sea necesario, el apoyo o auxilio de los cuerpos de seguridad pública, estatales o municipales, para el ejercicio de sus funciones;
+
+IX.- Ordenar la comparecencia, mediante citatorios, de las personas involucradas en las denuncias que se presenten ante Procuraduría;
+
+X.- Concluidas las actuaciones del día y agregados los documentos recibidos, vigilar que éstos sean foliados y que el sello de la Procuraduría esté colocado en el fondo del expediente, de manera que abarque las dos caras;
+
+XI.- Supervisar, controlar y evaluar el desempeño de las labores del personal administrativo y de trabajo social;
+
+XII.- Autorizar las diligencias y actuaciones que se practiquen; y,
+
+XIII.- Las demás que le sean encomendadas legalmente por el Procurador o el Subprocurador en su caso, o le señalen las disposiciones legales aplicables.
+
+###### ARTICULO 35.
+
+Compete al área de Psicología, lo siguiente:
+
+I.- Atender a las personas que lo soliciten;
+
+II.- Otorgar entrevistas, terapias, consultas, aplicar exámenes y pruebas psicológicas, emitir dictámenes y realizar todas aquellas diligencias necesarias para la atención de los menores bajo custodia o guarda de la Procuraduría, así como a los padres de éstos o a las personas que lo hayan tenido bajo su cuidado cuando lo considere necesario;
+
+III.- Atender a los solicitantes de adopción, realizando el estudio psicológico correspondiente y emitir dictamen al respecto;
+
+IV.- Proponer las medidas que sean necesarias cuando el interés superior del menor y la Familia así lo requiera; y,
+
+VI.- En general, todas aquéllas que le sean encomendadas legalmente por el Procurador, el Subprocurador o por el Area Jurídica, o en su caso, cuando así lo establezcan las disposiciones legales aplicables.
+
+###### ARTICULO 36.
+
+Compete al Area de Trabajo Social, lo siguiente:
+
+I.- Atender de manera inmediata las denuncias recibidas por la Procuraduría, y en las que se encuentren en riesgo la seguridad, integridad o dignidad del menor o la familia;
+
+II.- Realizar las investigaciones que sean necesarias en atención a la fracción anterior, levantando los informes detallados correspondientes;
+
+III.- Informar al área jurídica las actividades desarrolladas;
+
+IV.- Por conducto de la Procuraduría, denunciar ante el Ministerio Público los hechos de los que tuviere conocimiento y en los cuales se encuentren afectados derechos fundamentales del menor y la Familia;
+
+V.- Emitir dictámenes y elaborar estudios necesarios para la debida y oportuna integración de sus expedientes y dar seguimiento a las denuncias recibidas; y,
+
+VI.- En general, todas aquellas actividades que le sean encomendadas legalmente por el Procurador, el Subprocurador o por el Area Jurídica, o en su caso, así lo establezcan las disposiciones legales aplicables.
+
+### CAPITULO VI. DE LA RECEPCION DE DENUNCIAS Y DEL PROCEDIMIENTO
+
+###### ARTICULO 37.
+
+Toda persona que tenga conocimiento de algún hecho que ponga en riesgo la tranquilidad, seguridad, dignidad o moralidad o de un menor o de cualquier persona, está obligada a denunciar estos hechos ante la Procuraduría, ya sea personalmente, por vía telefónica o incluso por escrito.
+
+La Procuraduría, al recibir una denuncia, ordenará por medio del área jurídica, el inicio de una investigación, misma que estará a cargo del área de Trabajo Social. Si de las investigaciones se contempla la posible comisión de algún delito, estos hechos se harán del conocimiento inmediato del Ministerio Público, independientemente que la Procuraduría de manera preventiva o urgente, ordene las diligencias y actuaciones necesarias para proteger y salvaguardar los derechos fundamentales del menor y la Familia, cuando su interés superior así lo exija; al día siguiente hábil deberá informar la decisión dictada, al Ministerio Público o al Juez competente o a la autoridad política del lugar que corresponda, para que califique la medida adoptada.
+
+###### ARTICULO 38.
+
+Independientemente de las actuaciones realizadas por el Ministerio Público, la Procuraduría, en todos los casos en que tenga conocimiento, deberá:
+
+I.- Vigilar y procurar la integración o en su caso la reintegración familiar, siempre y cuando esto sea posible en el interés superior del menor y la Familia, y al día siguiente hábil, poner del conocimiento al Juez competente o a la autoridad política del lugar que corresponda, para que califique la medida dictada;
+
+II.- Una vez que todas las áreas de Procuraduría hayan emitido sus investigaciones, estudios, pruebas, dictámenes y en general hayan realizado las diligencias necesarias, el Procurador, o en su caso los Subprocuradores, podrán reintegrarlo a su medio familiar si ello fuere posible conforme al interés superior del menor y la Familia, o en su caso ubicándolo en una institución pública o privada con la finalidad de que reciba las atenciones e instrucciones adecuadas a su edad y nivel de madurez. Esto deberá de ser observado en todo caso por el Ministerio Público, las autoridades judiciales y administrativas y todas aquellas que por razón de sus funciones tengan relación con el menor y la Familia; y,
+
+III.- Cuando se emita una determinación y en el caso de tener domicilio conocido de las personas que legalmente tengan derecho de familia sobre el menor, se notificará a estas en forma personal, en la cual se les hará saber el sentido de la misma. Cuando el domicilio señalado no exista o no se tenga conocimiento del mismo, la notificación se hará por medio de cédula que se fijará en un lugar visible en la propia institución.
+
+###### ARTICULO 39.
+
+Si en el domicilio conocido de las personas, éstas no se encontraren, se dejará la cédula de notificación en la puerta de la casa, asentando en autos la razón de tal circunstancia; en dicha cédula se hará constar:
+
+I.- La institución que manda practicar la diligencia;
+
+II.- La determinación que se manda notificar;
+
+III.- La fecha, hora y lugar en que se notifica; y,
+
+IV.- El nombre, apellidos y domicilio de la persona a quien se entrega la notificación.
+
+TRANSITORIOS:
+
+UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+DADO.- En el Salón de Sesiones "Lic. Benito Juárez García", del Honorable Poder Legislativo, en la Ciudad de Mexicali, Baja California, a los veinticinco días del mes de agosto de mil novecientos noventa y nueve.
+
+ING. MANUEL A. RAMOS RUBIO
+
+DIPUTADO PRESIDENTE
+
+C. MARTIN DOMINGUEZ ROCHA
+
+DIPUTADO SECRETARIO
+
+DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCION I DEL ARTICULO 49, DE LA CONSTITUCION POLITICA DEL ESTADO, MANDO SE IMPRIMA Y PUBLIQUE.
+
+MEXICALI, BAJA CALIFORNIA, A LOS VEINTITRES DIAS DEL MES DE SEPTIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+
+LIC. ALEJANDRO GONZALEZ ALCOCER.
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+C.P. JORGE RAMOS.
