@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "1999-09-18"
+last_updated: "2000-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2000.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de Septiembre de 1954.
 
@@ -1601,17 +1601,33 @@ XIV.- Haber cometido uno de los cónyuges un delito que no sea político, pero q
 
 XV.- Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes, cuando amenazan causar la ruina de la familia, o constituyen un continuo motivo de desavenencia conyugal;
 
+> <small>(REFORMADA, P.O. 25 DE MARZO DEL 2000)</small>
+
 XVI.- Cometer un cónyuge contra la persona o los bienes del otro, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la ley una pena que pase de un año de prisión;
 
-XVII.- El mutuo consentimiento.
+> <small>(REFORMADA, P.O. 25 DE MARZO DEL 2000)</small>
+
+XVII.- El mutuo consentimiento;
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DEL 2000)</small>
+
+XVIII.- Las conductas de violencia intrafamiliar cometidas por uno de los cónyuges contra el otro o hacia los hijos de ambos o de uno de ellos. Para los efectos de este artículo, se entiende por violencia intrafamiliar lo dispuesto por el artículo 25, fracción I, inciso b) de la Ley para la Prevención y Atención a la Violencia Intrafamiliar; y
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DEL 2000)</small>
+
+XIX.- El incumplimiento injustificado de las órdenes de protección expedidas por la autoridad competente, tendientes a corregir los actos de violencia intrafamiliar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello.
 
 ART. 268.- Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio, pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia. Durante estos tres meses, los cónyuges no están obligados a vivir juntos.
 
 ART. 269.- Cualquiera de los esposos puede pedir el divorcio por el adulterio de su cónyuge. Esta acción dura seis meses, contados desde que se tuvo conocimiento del adulterio.
 
-ART. 270.- Son causas de divorcio los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, ya lo sean éstos de ambos, ya de uno solo de ellos. La tolerancia en la corrupción que da derecho a pedir el divorcio, debe consistir en actos positivos y no en simples omisiones.
+> <small>(REFORMADO, P.O. 25 DE MARZO DEL 2000)</small>
 
-ART. 271.- Para que pueda pedirse el divorcio por causa de enajenación mental que se considere incurable, es necesario que hayan transcurrido dos años desde que comenzó a padecerse la enfermedad.
+ART. 270.- Son causas de divorcio los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, ya lo sean éstos de ambos, ya de uno sólo de ellos. La tolerancia en la corrupción que da derecho a pedir el divorcio, debe consistir en actos positivos o en omisiones graves.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DEL 2000)</small>
+
+ART. 271.- Para que pueda pedirse el divorcio por causa de enajenación mental que se considere incurable, o de peligro de daño para la integridad física o psicológica del otro cónyuge y de los hijos de ambos o de alguno de ellos, es necesario justificarlo con dictamen médico expedido por institución oficial y que hayan transcurrido, además, dos años desde que comenzó a padecerse la enfermedad.
 
 ART. 272.- Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el oficial del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
 
@@ -1669,17 +1685,23 @@ III.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al c�
 
 IV.- Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes, y en los de la Sociedad conyugal, en su caso;
 
+> <small>(REFORMADA, P.O. 25 DE MARZO DEL 2000)</small>
+
 V.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;
 
-VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el código respectivo, resolverá lo conveniente.
+> <small>(REFORMADA, P.O. 25 DE MARZO DEL 2000)</small>
 
-ART. 283.- La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
+VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deban quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el código respectivo, resolverá lo conveniente;
 
-Primera: Cuando la causa de divorcio estuviere comprendida en las fracciones I, II, III, IV, V, VIII, XIV y XV del artículo 267, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere se nombrará tutor.
+> <small>(ADICIONADA, P.O. 25 DE MARZO DEL 2000)</small>
 
-Segunda: Cuando la causa del divorcio estuviere comprendida en las fracciones IX, X, XI, XII, XIII y XVI del artículo 267, los hijos quedarán bajo la patria potestad del cónyuge inocente; pero a la muerte de éste, el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se les suspenderá en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entretanto, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no hay quien la ejerza, se les nombrará tutor.
+VII.- Imponer la prohibición de ir a un domicilio o lugar para alguno de los cónyuges, así como las medidas necesarias para evitar actos de violencia intrafamiliar.
 
-Tercera: En el caso de las fracciones VI y VII del artículo 267, los hijos quedarán en poder del cónyuge sano, pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos.
+> <small>(REFORMADO, P.O. 25 DE MARZO DEL 2000)</small>
+
+ART. 283.- Durante el procedimiento el juez, de oficio o a petición de parte, dictará las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir actos de violencia intrafamiliar, debiéndose allegar los elementos necesarios para ello. En todo caso estará obligado a escuchar a ambos progenitores y a los menores y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para los menores. Las medidas podrán ser suspendidas o modificadas en los términos del artículo 94 del Código de Procedimientos Civiles vigente en el Estado.
+
+La sentencia de divorcio fijará en definitiva la situación de los hijos, para lo cual el juez deberá resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso y en especial, a la guarda y cuidado de los hijos.
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
 
@@ -1736,6 +1758,12 @@ ART. 298.- La línea recta es ascendente o descendente: ascendente es la que lig
 ART. 299.- En la línea recta los grados se cuentan por el número de generaciones, o por el de las personas, excluyendo al progenitor.
 
 ART. 300.- En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra; o por el número de personas que hay de uno a otro de los extremos que se consideran, excluyendo la del progenitor o tronco común.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DEL 2000)</small>
+
+ART. 300 BIS.- Los integrantes de la familia tienen derecho a que los demás miembros les respeten su integridad física y psíquica, con objeto de contribuir a su sano desarrollo para una plena incorporación y participación en el núcleo social. Al efecto, contarán con la asistencia y protección de las instituciones públicas de acuerdo con las leyes vigentes.
+
+Los integrantes de la familia están obligados a evitar conductas que generen violencia intrafamiliar.
 
 ### CAPITULO II. De los alimentos
 
@@ -2037,31 +2065,35 @@ III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
 ### CAPITULO I. De los efectos de la patria potestad respecto de la persona de los hijos
 
-ART. 411.- Los hijos, cualesquiera que sean su estado, edad y condición, deben honrar y respetar a sus padres y demás ascendientes.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 411.- En la relación entre ascendientes y descendientes debe imperar el respeto y la consideración mutuos, cualquiera que sea su estado, edad y condición.
 
 ART. 412.- Los hijos menores de edad no emancipados están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
 
 ART. 413.- La patria potestad se ejerce sobre la persona y los bienes de los hijos. Su ejercicio queda sujeto, en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las leyes respectivas.
 
-ART. 414.- La patria potestad sobre los hijos de matrimonio se ejerce:
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-I.- Por el padre y la madre;
+ART. 414.- La patria potestad sobre los hijos se ejerce por los padres. Cuando por cualquier circunstancia deje de ejercerla alguno de ellos, corresponderá su ejercicio al otro.
 
-II.- Por el abuelo y la abuela paternos;
-
-III.- Por el abuelo y la abuela maternos.
+A falta de ambos padres o por cualquier otra circunstancia prevista en este código, ejercerán la patria potestad sobre los menores, los ascendientes en segundo grado en el orden que determine el juez de lo familiar, tomando en cuenta las circunstancias del caso.
 
 ART. 415.- Cuando los dos progenitores han reconocido al hijo nacido fuera de matrimonio y viven juntos, ejercerán ambos la patria potestad.
 
 Si viven separados se observará en su caso, lo dispuesto en los artículos 380 y 381.
 
-ART. 416.- En los casos previstos en los artículos 380 y 381, cuando por cualquier circunstancia deja de ejercer la patria potestad alguno de los padres, entrará a ejercerla el otro.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 417.- Cuando los padres del hijo nacido fuera de matrimonio, que vivían juntos se separen, continuará ejerciendo la patria potestad, en su caso (sic) de que no se pongan de acuerdo sobre ese punto, el progenitor que designe el juez, teniendo siempre en cuenta los intereses del hijo.
+ART. 416.- En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y cuidado de los menores. En caso de desacuerdo, el juez de lo familiar resolverá lo conducente oyendo al Ministerio Público, sin perjuicio de lo previsto por el artículo 94, del Código de Procedimientos Civiles para el Estado de Colima.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+En este supuesto, el menor quedará bajo los cuidados y atenciones de uno de ellos. El otro, estará obligado a colaborar en su alimentación y conservará los derechos de vigilancia y convivencia con aquél, conforme a las modalidades previstas en el convenio o resolución judicial.
 
-ART. 418.- A falta de padres, ejercerán la patria potestad sobre el hijo los demás ascendientes a que se refieren las fracciones II y III del artículo 414 en el orden que determine el Juez de lo Civil, tomando en cuenta las circunstancias del caso.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 417.- Los que ejercen la patria potestad, aún cuando no tengan el cuidado del menor, tienen el derecho de convivencia con sus descendientes, salvo que exista peligro para éstos. En caso de oposición, el juez de lo familiar resolverá lo conducente.
+
+ART. 418.- (DEROGADO, P.O. 25 DE MARZO DE 2000)
 
 ART. 419.- La patria potestad sobre el hijo adoptivo, la ejercerán únicamente las personas que lo adopten.
 
@@ -2069,15 +2101,17 @@ ART. 420.- Solamente por falta de impedimento de todos los llamados preferenteme
 
 ART. 421.- Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los que la ejercen sin permiso de ellos o decreto de la autoridad competente.
 
-ART. 422.- A las personas que tienen al hijo bajo su patria potestad, incumbe la obligación de educarlo convenientemente.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-Cuando llegue a conocimiento de los consejeros locales de tutela que las personas de que se trata no cumplen esa obligación, lo avisarán al Ministerio Público para que promueva lo que corresponda.
+ART. 422.- A las personas que tienen al menor bajo su patria potestad, incumbe la obligación de educarlo convenientemente.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+Cuando llegue a conocimiento de los consejos locales de tutela o de cualquier autoridad administrativa que dichas personas no cumplen con esa obligación, lo pondrán en conocimiento del Ministerio Público, para que promueva lo que corresponda.
 
-ART. 423.- Para los efectos del artículo anterior, los que ejerzan la patria potestad o tengan hijos bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-Las autoridades, en caso necesario, auxiliarán a esas personas haciendo uso de amonestaciones y correctivos que les presten el apoyo suficiente.
+ART. 423.- Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores bajo su cuidado, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
+
+La facultad de corregir, no implica infligir al menor actos de fuerza que atenten contra su integridad física o psíquica, en los términos señalados por la Ley para la Prevención y Atención a la Violencia Intrafamiliar.
 
 ART. 424.- El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el juez.
 
@@ -2175,9 +2209,17 @@ ART. 406.- Para los efectos de la fracción II del artículo anterior, se consid
 
 I.- Si comete algún delito que merezca una pena mayor de un año de prisión contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
 
-II.- Si el adoptado acusa judicialmente al adoptante de algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes.
+> <small>(REFORMADA, P.O. 25 DE MARZO DEL 2000)</small>
 
-III.- Si el adoptado rehusó dar alimentos al adoptante que ha caído en pobreza.
+II.- Si el adoptado acusa judicialmente al adoptante de algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes;
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DEL 2000)</small>
+
+III.- Si el adoptado rehusa dar alimentos al adoptante que ha caído en pobreza; y
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DEL 2000)</small>
+
+IV.- Si el adoptado ejerce actos de violencia intrafamiliar en contra del adoptante.
 
 ART. 407.- En el primer caso del artículo 405, le (sic) juez decretará que la adopción quede revocada si, convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
 
@@ -2305,15 +2347,31 @@ II.- Con la emancipación, derivada del matrimonio;
 
 III.- Por la mayor edad del hijo.
 
-ART. 444.- La patria potestad se pierde:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2000)</small>
 
-I.- Cuando el que la ejerza es condenado expresamente a la pérdida de ese derecho, o cuando es condenado dos o más veces por delitos graves;
+ART. 444.- La patria potestad se pierde por resolución judicial:
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2000)</small>
+
+I.- Cuando el que la ejerza sea condenado expresamente a la pérdida de ese derecho;
 
 II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 283;
 
 III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
 
-IV.- Por la exposición que el padre o la madre hicieren de sus hijos, o porque los dejen abandonados por más de seis meses.
+IV.- Por la exposición que el padre o la madre hicieren de sus hijos, o porque los dejen abandonados por más de seis meses;
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2000)</small>
+
+V.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor;
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2000)</small>
+
+VI.- Cuando el que la ejerza sea condenado por delito grave; y
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DEL 2000)</small>
+
+VII.- Cuando los menores hayan presenciado conductas recurrentes de violencia intrafamiliar, que les hayan provocado o puedan provocar un daño en su desarrollo integral.
 
 ART. 445.- La madre o abuela que pase a segundas nupcias no pierde por este hecho la patria potestad.
 
@@ -2457,11 +2515,19 @@ ART. 491.- El tutor del incapacitado que tenga hijos menores bajo su patria pote
 
 ### CAPITULO V. De la tutela legítima de los menores abandonados y de los acogidos por alguna persona, o depositados en establecimientos de beneficencia
 
-ART. 492.- La ley coloca a los expósitos bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones establecidas por los demás tutores.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 493.- Los directores de las inclusas, hospicios, y demás casas de beneficiencia (sic) donde se reciben expósitos, desempeñarán la tutela de éstos, con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento.
+ART. 492.- La ley coloca a los expósitos y abandonados bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones previstas para los demás tutores.
 
-ART. 494.- En el caso del artículo anterior, no es necesario el discernimiento del cargo.
+Se considera expósito al menor que es colocado en una situación de desamparo por quienes conforme a la ley están obligados a su protección y cuidado y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a un menor cuyo origen se conozca, se considerará abandonado.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 493.- Los responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban expósitos o abandonados, desempeñarán la tutela de éstos con arreglo a las leyes y a lo que prevengan los estatutos de la institución. En este caso, no es necesario el discernimiento del cargo.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 494.- Los responsables de casa de asistencia, ya sean públicas o privadas, donde se reciban menores que hayan sido objeto de violencia intrafamiliar, tendrán el cuidado de éstos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso lo informarán al Ministerio Público y a quien corresponda el ejercicio de la patria potestad, siempre que éste último no resulte ser el responsable del evento de violencia intrafamiliar.
 
 ### CAPITULO VI. De la tutela dativa
 
@@ -2575,7 +2641,9 @@ VI.- Los que tengan sesenta años cumplidos;
 
 VII.- Los que tengan a su cargo otra tutela o curaduría, y
 
-VIII.- Las mujeres, cuando por su falta de ilustración, por su inexperiencia en los negocios, por su timidez o por otra causa igualmente grave a juicio del juez, no estén en aptitud de desempeñar convenientemente la tutela.
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2000)</small>
+
+VIII.- Los que por cualquier otra causa grave a juicio del juez, no estén en aptitud de desempeñar convenientemente la tutela.
 
 ART. 512.- Si el que teniendo excusa legítima para ser tutor acepta el cargo, renuncia por el mismo hecho a la excusa que le concede la ley.
 
@@ -3201,9 +3269,9 @@ ART. 728.- Sólo puede constituirse el patrimonio de la familia con bienes sitos
 
 ART. 729.- Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 1982)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 730.- El valor máximo de los bienes afectados al Patrimonio Familiar será de $120,000.00 (CIENTO VEINTE MIL PESOS 00/100 M.N.), en el Estado de Colima.
+ART. 730.- El valor de los bienes afectos al patrimonio de la familiar será hasta de 75,000 unidades de salario mínimo vigente en el Estado de Colima.
 
 ART. 731.- El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al juez de su domicilio designando con toda precisión y de manera que puedan ser inscritos en el Registro Público los bienes que van a quedar afectados.
 
@@ -4601,7 +4669,9 @@ V.- El que haya sido condenado por un delito que merezca pena de prisión, comet
 
 VI.- El padre y la madre respecto del hijo expuesto por ellos;
 
-VII.- Los padres que abandonaren a sus hijos, prostituyeren a sus hijas o atentaren a su pudor respecto de los ofendidos;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2000)</small>
+
+VII.- Los ascendientes que abandonaren, prostituyeren o corrompieren a sus descendientes, respecto de los ofendidos;
 
 VIII.- Los demás parientes del autor de la herencia que, teniendo obligación de darle alimentos, no la hubieren cumplido;
 
@@ -10076,3 +10146,13 @@ P.O. 18 DE SEPTIEMBRE DE 1999.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Los trámites de adopción pendientes de resolver a la fecha de entrada en vigor de este Decreto, deberán continuarse de conformidad con las disposiciones anteriores, salvo que los promoventes soliciten por escrito al Juez durante el procedimiento, que se apliquen las nuevas disposiciones.
+
+P.O. 25 DE MARZO DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Los juicios que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de este Decreto, se seguirán substanciando y se resolverán conforme a las disposiciones vigentes al momento de su inicio.
