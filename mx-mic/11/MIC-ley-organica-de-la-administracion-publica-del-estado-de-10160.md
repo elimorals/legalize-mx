@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-10160"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-02"
-last_updated: "1998-04-30"
+last_updated: "2002-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: EL DÍA 30 DE ABRIL DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN EL P.O. DE 12 DE ABRIL DE 2002, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 2 de diciembre de 1996.
 
@@ -788,3 +790,41 @@ El personal por honorarios que a la fecha preste sus servicios en la Oficialía 
 ###### ARTICULO CUARTO.
 
 Corresponde a la Oficialía Mayor, a la Tesorería General y a la Coordinación de Control y Desarrollo Administrativo, ser responsables directos de la entrega recepción de los bienes muebles e inmuebles, recursos materiales y financieros, de la Secretaría de Desarrollo Urbano y Ecología a la Secretaría de Comunicaciones y Obras Públicas; de la actual Secretaría de Desarrollo Agropecuario y Forestal a la Comisión Forestal del Estado y a la Comisión de Pesca del Estado, que se creen; y de la Oficialía Mayor al Comité de Adquisiciones del Poder Ejecutivo que se cree.
+
+P.O. 12 DE ABRIL DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los cinco días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Estado, de fecha 2 de diciembre de 1996, y se derogan sus posteriores reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones en lo que se opongan a la presente ley.
+
+###### ARTÍCULO CUARTO.
+
+Las transferencias que por motivo de esta ley deban realizarse de una dependencia a otra, incluirán las adecuaciones presupuestarias que comprenden las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como las transferencias de recursos humanos y de los activos patrimoniales tales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, sistemas, maquinaria, archivos y, en general, el equipo que la dependencia haya utilizado para los asuntos a su cargo. Los derechos laborales del personal que en virtud de lo dispuesto en la presente ley, pase de una dependencia a la otra, se respetarán conforme a la ley.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que con motivo de esta ley, deban pasar de una Secretaría a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los despachen se incorporen a la dependencia que señale el mismo, a excepción de aquellos urgentes o sujetos a término, los cuales se atenderán por las dependencias que los venían despachando.
+
+###### ARTÍCULO SEXTO.
+
+El Gobernador del Estado, por conducto de la Secretaría de Gobierno, Oficialía Mayor, Tesorería General y la Secretaría de Contraloría y Desarrollo Administrativo, con la participación de las Secretarías correspondientes, serán responsables directos y deberán concluir aquellas adecuaciones presupuestarias y traspasos de personas, recursos materiales y financieros, así como activos patrimoniales, en un plazo no mayor de noventa días, a partir de la entrada en vigor de la presente ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Cuando en esta ley se dé una denominación nueva o distinta a alguna dependencia cuyas funciones o asuntos estén establecidas en la ley que se abroga, dichas atribuciones o despacho de asuntos se entenderán concedidas a la dependencia que determine esta ley y demás disposiciones relativas.
+
+###### ARTÍCULO OCTAVO.
+
+Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las Secretarías cuyas funciones se reforman por virtud de esta ley, se entenderán referidas a las dependencias que respectivamente asuman tales funciones.
+
+###### ARTÍCULO NOVENO.
+
+Hasta en tanto no se emitan los reglamentos interiores de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, seguirán aplicándose los anteriores siempre y cuando no se contrapongan a lo dispuesto en la presente ley.
