@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1996-04-17"
+last_updated: "1996-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 1996.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -150,6 +150,10 @@ I.- Votar en las elecciones populares.
 
 II.- Poder ser electo o nombrado para cualquier empleo o comisión, siempre que reúna los demás requisitos exigidos por la Ley.
 
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+
+III.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado.
+
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
 ###### Artículo 15.
@@ -234,7 +238,7 @@ DE LOS PODERES PUBLICOS.
 
 INSTITUCIONES Y PROCESOS ELECTORALES.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 20.
 
@@ -256,37 +260,71 @@ Los Poderes Públicos residirán en la Ciudad de Cuernavaca; pero por causas gra
 
 DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 23.
 
-Para promover el acceso de los ciudadanos al ejercicio del Poder Público, la participación del pueblo en la vida democrática y contribuir a la integración de la representación estatal, los ciudadanos morelenses podrán organizarse en partidos políticos.
+Los procesos electorales del Estado se efectuarán conforme a las bases que establece la presente Constitución y las leyes de la materia, y se sujetarán a los principios de certeza, legalidad, independencia, imparcialidad, equidad, objetividad y profesionalismo.
 
-Los partidos políticos son entidades de interés público; la Ley determinará las formas de su intervención en los procesos electorales estatales.
+Las elecciones de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos se realizarán en las mismas fechas en que se efectúen las federales.
 
-En los procesos electorales estatales, los partidos políticos deberán contar con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular. La Ley establecerá las reglas a que se sujetará el financiamiento de los partidos políticos y el de sus campañas electorales.
+I.- Los Partidos Políticos son entidades de interés público. Tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto y directo. La ley determinará las formas específicas de su intervención en los procesos electorales del Estado. La afiliación de los ciudadanos será libre e individual a los Partidos Políticos.
 
-La Ley establecerá las reglas para que los partidos políticos, en condiciones de igualdad, puedan acceder a los medios de comunicación.
+La ley establecerá las reglas para la constitución y registro de los Partidos Políticos estatales.
 
-La organización de las elecciones estatales y municipales, es una función que se ejerce por los Poderes Legislativo, Ejecutivo y Judicial del Estado, con la participación corresponsable de los partidos políticos y de los ciudadanos, según lo disponga la Ley. Esta función se realizará a través de un organismo público, de carácter permanente, dotado de personalidad jurídica y patrimonio propios. La certeza, legalidad, imparcialidad y objetividad serán principios rectores en el ejercicio de esta función.
+II.- En los procesos electorales del Estado, la ley garantizará que los Partidos Políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades. Por tanto, tendrán derecho al uso de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la misma. Además, la ley señalará las reglas a que se sujetará el financiamiento de los Partidos Políticos y sus campañas electorales bajo los siguientes lineamientos:
 
-En la integración del organismo público participarán consejeros de los Poderes Ejecutivo y Legislativo, representantes de los partidos políticos y consejeros ciudadanos, según lo disponga la Ley.
+A).- El financiamiento público para los Partidos Políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales. Los recursos públicos prevalecerán sobre los de origen privado.
 
-La Ley establecerá un sistema de medios de impugnación de los que conocerán el Organo Electoral y el Tribunal Electoral, que tendrán las atribuciones, competencia y organización que determine la Ley. Las resoluciones del Tribunal serán definitivas e inatacables.
+B).- La ley fijará los criterios para determinar los límites a las erogaciones de los Partidos Políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
-En materia electoral la interposición de un recurso no producirá efectos suspensivos del acto o resolución impugnado.
+III.- La organización, dirección y vigilancia de las elecciones en el Estado estarán a cargo de un organismo público autónomo denominado Instituto Estatal Electoral, autoridad en la materia, en cuya integración participan los Poderes Ejecutivo y Legislativo del Estado, los Partidos Políticos y los ciudadanos. Tendrá carácter permanente, personalidad jurídica y patrimonio propios, así como las facultades que le señale la presente Constitución y la ley.
 
-En cada proceso electoral funcionará el Tribunal Estatal Electoral como órgano autónomo y máxima autoridad jurisdiccional electoral. Los Poderes Legislativo, Ejecutivo y Judicial garantizarán su debida integración. La Ley establecerá el procedimiento para la designación de sus magistrados.
+El Instituto Estatal Electoral dispondrá de los medios necesarios para brindar el servicio profesional electoral.
 
-El Tribunal Estatal Electoral tendrá competencia para dirimir de manera definitiva e inatacable las impugnaciones que se presenten en materia electoral y las diferencias laborales que se presenten en los organismos electorales. Expedirá su reglamento interior y ejercerá las demás atribuciones que le confiere la Ley.
+IV.- El órgano superior de dirección del Instituto Estatal Electoral, se denominará Consejo Estatal Electoral y se integrará de la siguiente forma:
 
-La Ley establecerá los requisitos de procedencia, presupuestos procesales y formas de sustanciación de los medios de impugnación.
+A).- Por un Consejero Presidente y cuatro Consejeros Electorales, quienes deberán reunir los requisitos que la ley señale, entre los cuales se considerará, no haberse desempeñado como alto funcionario de la Federación, del Estado y de los Municipios, tanto de la administración central como del sector paraestatal y hasta por siete años anteriores a la designación; o haber ejercido cargos de elección popular o directivos a nivel nacional, estatal, distrital o municipal de algún partido político en siete años anteriores a su designación. Serán nombrados por el voto de las dos terceras partes del total de los Diputados integrantes del Congreso, de entre las propuestas que para tal efecto hagan los grupos parlamentarios que conformen la legislatura en la forma y términos que disponga la ley correspondiente. El Consejero Presidente y los Consejeros Electorales serán electos sucesivamente por el mismo Congreso del Estado, o en sus recesos, por la Diputación Permanente.
+
+De la misma forma, se elegirán cuatro Consejeros Electorales con el carácter de suplentes, en orden de prelación, que suplirán las ausencias temporales o definitivas de los Consejeros Electorales propietarios.
+
+El Consejero Presidente y los Consejeros Electorales durarán en su cargo cuatro años, con posibilidad de ser electos para una segunda ocasión, y no podrán tener ningún otro empleo, cargo o comisión, de la Federación, del Estado, de los Municipios o de los particulares; excepto las actividades docentes, científicas, culturales, de investigación o de beneficencia, en tanto no impidan el ejercicio expedito de sus funciones. La infracción de esta disposición será castigada con la pérdida del cargo.
+
+B).- Por el Secretario Ejecutivo del Instituto Estatal Electoral, quien será designado por el voto de las dos terceras partes de los Integrantes del Consejo Estatal Electoral, de entre las propuestas que presenten en terna ellos mismos.
+
+C).- Por un representante del Poder Ejecutivo.
+
+D).- Por un representante de cada uno de los grupos parlamentarios que existan en el Congreso del Estado.
+
+E).- Por un representante de cada uno de los Partidos Políticos con registro en el Estado.
+
+Los integrantes del Consejo Estatal Electoral tendrán derecho a voz, y sólo el Consejero Presidente y los Consejeros Electorales tendrán derecho a voto.
+
+V.- El Instituto Estatal Electoral a través de sus órganos y de acuerdo con lo que disponga la ley, realizará los cómputos respectivos y declarará la validez de las elecciones de Gobernador, Diputados y Ayuntamientos; otorgará las constancias a los candidatos que hubiesen obtenido la mayoría de votos y hará la asignación de Diputados y Regidores de representación proporcional; asimismo regulará la observación electoral.
+
+Las sesiones de todos los órganos colegiados del Instituto Estatal Electoral serán públicas y sus resoluciones recurribles en los términos de la ley.
+
+VI.- Para garantizar los principios de legalidad y constitucionalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación, tanto administrativos como jurisdiccionales, en los términos que esta Constitución y la ley señalen. Este sistema además garantizará la protección de los derechos políticos de los ciudadanos para votar, ser votado y de asociación en los términos del artículo 14 de esta Constitución. En materia electoral la interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado.
+
+En cada proceso electoral funcionará el Tribunal Estatal Electoral como órgano autónomo, especializado, de legalidad y de plena jurisdicción, que tendrá competencia para resolver de manera definitiva y firme las impugnaciones que se presenten en las distintas etapas del proceso electoral en la forma y términos que determine la ley.
+
+El Tribunal Estatal Electoral administrará sus recursos a través de una comisión, que será formada por el Magistrado Presidente del Tribunal Electoral, quien la presidirá, un Magistrado Electoral designado por insaculación y tres miembros del Consejo de la Judicatura Estatal del Tribunal Superior de Justicia. El Tribunal Estatal Electoral propondrá su presupuesto de Egresos al Magistrado Presidente del Tribunal Superior de Justicia del Estado, para su inclusión en el proyecto de presupuesto del Poder Judicial del Estado.
+
+La ley determinará la competencia, número de Magistrados propietarios y suplentes, composición y los procedimientos de resolución y jurisprudencia del Tribunal Estatal Electoral.
+
+VII.- No podrán ser Magistrados del Tribunal Estatal Electoral, quienes hubieren ejercido cargos de elección popular o directivos a nivel nacional, estatal, distrital o municipal de algún partido político, cuando menos en siete años anteriores a su designación. Dichos Magistrados, deberán además reunir los requisitos que esta Constitución establece para ser Magistrado del Tribunal Superior de Justicia; durarán en su cargo un proceso ordinario y los procesos extraordinarios que ocurrieren, hasta que sean nombrados los Magistrados del siguiente proceso ordinario de elecciones.
+
+El Ejecutivo, previa consulta con los Partidos Políticos con registro en el Estado, propondrá al Consejo de la Judicatura Estatal a las personas que considere reúnen los requisitos para ser Magistrado del Tribunal Estatal Electoral; el Consejo hará la evaluación respectiva y formulará las propuestas al Poder Legislativo, quien procederá a la designación por el voto de las dos terceras partes de sus integrantes y en los recesos de éste, por la Diputación Permanente.
+
+En ningún caso, los Magistrados del Tribunal Estatal Electoral podrán desempeñar cargo o empleo de la Federación, del Estado, de los Municipios o de particulares; excepto las actividades docentes, científicas, culturales, de investigación o de beneficencia, siempre y cuando no les impidan el expedito ejercicio de sus funciones. La infracción de esta disposición será sancionada con la pérdida del cargo.
+
+VIII. Quienes hubieren ejercido los cargos de Magistrados del Tribunal Estatal Electoral, Consejero Presidente y Consejeros Estatales Electorales y personal directivo del Instituto Estatal Electoral, estarán impedidos para ocupar puestos de elección popular en el siguiente proceso electoral.
 
 ### CAPITULO II.
 
 DE LA INSTALACION DEL CONGRESO Y DE LOS PERIODOS DE SUS SESIONES.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ## TITULO TERCERO.
 
@@ -298,11 +336,19 @@ DE LAS FACULTADES DEL CONGRESO.
 
 ###### Artículo 24.
 
-El Poder Legislativo se deposita en una Asamblea que se denomina "Congreso del Estado de Morelos", integrada por quince diputados electos por el principio de mayoría relativa, mediante el sistema de Distritos Electorales Uninominales, y por hasta diez diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción territorial. La Ley determinará la demarcación territorial de cada uno de los distritos y el territorio del Estado comprenderá una circunscripción plurinominal única.
+El poder Legislativo se deposita en una asamblea que se denomina Congreso del Estado de Morelos, integrada por dieciocho Diputados electos por el principio de mayoría relativa, mediante el sistema de Distritos Electorales Uninominales, y por doce Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción territorial. La ley determinará la demarcación territorial de cada uno de los distritos y el territorio del Estado comprenderá una circunscripción plurinominal única.
 
-La asignación de diputados por el principio de representación proporcional se sujetará a lo que disponga la Ley.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+
+Todo partido político que alcance por lo menos el tres por ciento del total de la votación emitida en las listas Regionales o Distritales de la Circunscripción Plurinominal, tendrá derecho a que le sean atribuidos Diputados según el principio de representación proporcional en los términos de la ley.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1993)</small>
 
 El Congreso del Estado se renovará en su totalidad cada tres años. Por cada diputado propietario se elegirá un suplente; los diputados propietarios no podrán ser electos para el período inmediato, ni aún tratándose de distinto distrito electoral.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+
+Ningún partido político podrá contar con más de dieciocho Diputados por ambos principios.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1991)</small>
 
@@ -336,7 +382,7 @@ La vecindad no se pierde por ausencia en el desempeño de los cargos públicos d
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 1990)</small>
 
-Para poder figurar en las listas de la circunscripción plurinominal como Candidato a Diputado, la Residencia efectiva se referirá a cualquier lugar del Estado.
+Para poder figurar en las listas de la cicunscripción plurinominal como Candidato a Diputado, la Residencia efectiva se referirá a cualquier lugar del Estado.
 
 ###### Artículo 26.
 
@@ -348,9 +394,9 @@ I.- El Gobernador del Estado, los Secretarios del despacho y el funcionario o em
 
 II.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980) (F. DE E., P.O. 7 DE ENERO DE 1981)
 
-(REFORMADA, P.O. 4 DE AGOSTO DE 1965) (F. DE E., P.O. 7 DE ENERO DE 1981)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 1996)</small>
 
-III.- El Secretario de Finanzas y Promoción Económica.
+III.- Los Magistrados del Tribunal Superior, el Procurador General de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, el Consejero Presidente y los Consejeros Electorales del Consejo Estatal Electoral, los Magistrados del Tribunal Estatal Electoral, así como el personal directivo del Instituto Estatal Electoral.
 
 IV.- Los Jueces de Primera Instancia, los Agentes del Ministerio Público, los Administradores de Rentas y los Presidentes Municipales, por los Distritos Electorales en que ejerzan sus funciones.
 
@@ -364,11 +410,11 @@ VII.- Los que hayan tomado parte directa o indirectamente en alguna asonada, mot
 
 VIII.- Los Ministros de cualquier culto, salvo que hubieren dejado de serlo con la anticipación y en la forma que establezca la Ley Reglamentaria del artículo 130 de la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 27.
 
-Los individuos comprendidos en las fracciones de la I a la VI del Artículo anterior, dejarán de tener la prohibición que en ellas se establece, siempre que se separen de sus respectivos cargos cuarenta y cinco días antes del señalado para la elección.
+Los individuos comprendidos en las fracciones de la I a la VI del artículo anterior dejarán de tener la prohibición que en ellas se establece, siempre que se separen de sus respectivos cargos tres días naturales antes del Inicio del periodo de registro.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -388,7 +434,7 @@ DE LA INICIATIVA Y FORMACION DE LAS LEYES.
 
 ###### Artículo 30.
 
-Las elecciones de Diputados serán calificadas por un Colegio Electoral integrado por la totalidad de los presuntos Diputados electos según el principio de votación mayoritaria relativa y por un presunto Diputado de representación proporcional, que resultare electo en la circunscripción electoral que obtuviera la votación más alta.
+El Congreso del Estado se instalará el día 1º de septiembre del año de su renovación.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -398,29 +444,33 @@ El Congreso no puede abrir sus Sesiones sin la concurrencia de más de la mitad 
 
 Transcurrido el plazo anterior sin que se hubieren presentado, se llamará al desempeño de la función, a los suplentes respectivos y si tampoco se presentaren dentro de un plazo de diez días, se convocará a elecciones, en los Distrito (sic) de que se trate.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 32.
 
-El Congreso tendrá cada año, dos Períodos de Sesiones Ordinarios, el primero se iniciará el 17 de abril y terminará el 30 de agosto, el segundo empezará el 5 de noviembre y concluirá el 31 de enero.
+El Congreso del Estado tendrá cada año dos periodos de sesiones ordinarias, el primero se iniciará el 1º de septiembre y terminará el 31 de enero; el segundo empezará el 1º de abril y concluirá el 31 de julio. El Congreso se ocupará invariablemente del examen, discusión y aprobación de la cuenta pública del Estado, de los trimestres comprendidos de enero a marzo; abril a junio; julio a septiembre y octubre a diciembre del año que corresponda. Para este efecto el Ejecutivo presentará al Congreso la cuenta general de gastos conforme a lo dispuesto en la fracción XIX del artículo 70 de esta Constitución.
 
-El Congreso se ocupara invariablemente del examen, discusión y aprobación de la Cuenta Pública del Estado, de los Trimestres comprendidos de enero a marzo: de abril a junio; de julio a septiembre y de octubre a diciembre del año que corresponda. Para este efecto, el Ejecutivo del Estado, presentará al Congreso la Cuenta General de Gastos conforme a lo dispuesto en la Fracción XIX del Artículo 70 de la Constitución Política del Estado.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1996)</small>
+En le primer periodo ordinario de sesiones se ocupará invariablemente del examen, discusión y aprobación de las Leyes de Ingresos del Estado y de los Ayuntamientos, así como de los proyectos de Presupuesto de Egresos y del Programa Financiero que presente el Ejecutivo Estatal; para el efecto anterior las iniciativas correspondientes deberán presentarse al Congreso a más tardar el 15 de noviembre de cada año. En el año en que el Ejecutivo inicie su encargo, la iniciativa de Ley de Ingresos del Estado se presentará dentro de los primeros quince días del mes de diciembre.
 
-En el segundo periodo de sesiones, se ocupará preferentemente el examen, discusión y aprobación de las Leyes de Ingresos del Estado y de los Municipios, así como de los proyectos de Presupuesto de Egresos y del Programa Financiero que presente el Ejecutivo Estatal; para los anteriores efectos las iniciativas correspondientes deberán presentarse al Congreso a más tardar el 3 de diciembre de cada año.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+
+En el segundo periodo ordinario de sesiones se ocupará invariablemente del examen, discusión y aprobación en su caso, de la cuenta pública del año anterior de los Ayuntamientos del Estado. Para este efecto, los Ayuntamientos presentarán al Congreso dentro de los primeros quince días del mes de marzo de cada año la cuenta correspondiente al año anterior.
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 1996)</small>
 
 A solicitud del Ejecutivo del Estado, podrán ampliarse los plazos de presentación de la Ley de Ingresos, Cuentas Públicas, Presupuesto de Egresos y Programa Financiero, a que se refiere este artículo, cuando haya causas plenamente justificadas, a juicio del Congreso o de la Diputación Permanente; pero será obligación de la Secretaría de Hacienda comparecer ante el Congreso para informar sobre las razones que la motiven. En el ámbito municipal la atribución anterior corresponderá a los Presidentes Municipales y comparecerán, en su caso, los Regidores de Hacienda.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 1986)</small>
+
 Los plazos de presentación de las Leyes de Ingresos y Cuentas Públicas a que se refiere este Artículo, sólo podrán ampliarse a solicitud del Ejecutivo o de los Presidentes Municipales, por causas plenamente justificadas a juicio del Congreso o de la Comisión Permanente, pero será obligación del Secretario de Hacienda o de los Regidores de Hacienda de los Municipios respectivamente, comparecer ante el Congreso para informar las razones que los motiven.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 33.
 
-El Gobernador del Estado podrá concurrir a la apertura de ambos períodos de sesiones del Congreso. El cuarto domingo de abril de cada año, el Ejecutivo presentará informe acerca de la situación que guarda la Administración Pública Estatal. El Presidente del Congreso dará contestación oportuna a dicho informe.
+El Gobernador del Estado podrá concurrir a la apertura de ambos periodos de sesiones del Congreso. El cuarto domingo de septiembre de cada año, el Ejecutivo presentará informe acerca de la situación que guarda la administración pública estatal. El presidente del Congreso dará contestación oportuna a dicho informe.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -554,7 +604,7 @@ g).- La designación del personal se hará mediante sistemas que permitan apreci
 
 h).- Los trabajadores gozarán de derechos de escalafón a fin de que los derechos se otorguen en función de los conocimientos, aptitudes y antigüedad.
 
-i).- Los trabajadores sólo podrán ser suspendidos a cesados por causa justificada, en los términos que fije la Ley.
+i).- Los trabajadores sólo podrán ser suspendidos o cesados por causa justificada, en los términos que fije la Ley.
 
 En caso de separación injustificada tendrán derecho a optar por la reinstalación en su trabajo o por la indemnización correspondiente, previo el procedimiento legal.
 
@@ -572,7 +622,7 @@ c).- Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproxi
 
 d).- Los familiares de los trabajadores tendrán derecho a asistencia médica y medicinas, en los casos y en la proporción que determine la Ley.
 
-e).- Se proporcionarán de acuerdo con las posibilidades propias del Estado y sus Municipios, habitaciones baratas en arrendamiento, venta, o los trabajadores conforme a los programas previamente aprobados.
+e).- Se proporcionarán de acuerdo con las posibilidades propias del Estado y sus Municipios, habitaciones baratas en arrendamiento, venta, a los trabajadores conforme a los programas previamente aprobados.
 
 l).- Los conflictos individuales, colectivos o intersindicales serán sometidos a un Tribunal de Arbitraje.
 
@@ -594,23 +644,25 @@ XXIII.- Rehabilitar en sus derechos de ciudadano del Estado.
 
 XXIV.- Expedir la ley relativa a la expropiación de la propiedad privada por causas de utilidad pública.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
 
-XXV.- Excitar a los poderes de la Nación para que presten protección al Estado, en el caso previsto por el Artículo 122 de la Constitución Federal.
+XXV.- Excitar a los Poderes de la Federación para que presten protección al Estado, en el caso previsto en el artículo 119 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 XXVI.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo con arreglo a las leyes a que se refiere la fracción XX.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
 
-XXVII.- Recibir a los Diputados, Gobernador, Magistrados del Tribunal Superior y Contador Mayor de Hacienda, la protesta a que se refiere el Artículo 133 de esta Constitución.
+XXVII.- Recibir de los Diputados, Gobernador, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral, Magistrados del Tribunal de lo Contencioso Administrativo y Contador Mayor de Hacienda, la protesta a que se refiere el artículo 133 de esta Constitución.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 1986)</small>
 
 XXVIII.- Examinar y calificar la Cuenta Pública del Trimestre anterior que oportunamente deberá presentarle el Ejecutivo.
 
-Asimismo, examinar y aprobar, en su caso, la cuenta Pública del año anterior que deberán presentar los Municipios en los primeros cinco días del primer período de Sesiones.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+
+Asimismo, examinar y aprobar en su caso la cuenta pública del año anterior que deberán presentar los Ayuntamientos en los primeros quince días del mes de marzo de cada año.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -624,29 +676,29 @@ XXX.- Conceder licencias para separarse de sus respectivos cargos a los empleado
 
 XXXI.- Conceder o negar licencia al Gobernador del Estado para salir del territorio del mismo o para separarse de sus funciones, siempre que la ausencia o separación sea por más de 30 días.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
 
-XXXII.- Admitir la renuncia de sus cargos al Gobernador y a los Magistrados del Tribunal Superior de Justicia.
+XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo y del Consejero Presidente y Consejeros Estatales Electorales del Instituto Estatal Electoral.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
 
-XXXIII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia, siempre que la duración de ellas exceda de treinta días.
+XXXIII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia y a los del Tribunal Estatal Electoral, siempre que la duración de ellas exceda de treinta días.
+
+En el caso del Tribunal Superior de Justicia, ninguna licencia podrá exceder del término de dos años.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 XXXIV.- Convocar a Elecciones de Gobernador y de Congreso del Estado, salvo lo dispuesto en el artículo 56, fracción IV de esta Constitución.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
-
-XXXV.- Declarar Gobernador del Estado al que haya obtenido mayoría de votos.
+XXXV.- (DEROGADA, P.O. 30 DE OCTUBRE DE 1996)
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 XXXVI.- Nombrar Gobernador interino o Substituto en los casos que determina esta Constitución.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
 
-XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia, de entre la terna que someta a su consideración el Consejo de la Judicatura Estatal.
+XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal Estatal Electoral, de entre la terna que someta a su consideración el Consejo de la Judicatura Estatal; a los Magistrados del Tribunal de lo Contencioso Administrativo del Estado, así como al Consejero Presidente y Consejeros Electorales del Consejo Estatal Electoral.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -656,13 +708,11 @@ XXXVIII.- Nombrar a los Diputados que deben integrar la Diputación permanente, 
 
 XXXIX.- Nombrar, a propuesta en terna del Ejecutivo, persona que represente al Estado ante la Suprema Corte de Justicia, cuando se suscite alguna controversia con otro Estado o con la Nación.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+XL.- (DEROGADA, P.O. 30 DE OCTUBRE DE 1996)
 
-XL.- Decidir sobre la legalidad de las elecciones municipales, cuando se reclame en contra de ellas, y resolver en cada caso lo conveniente.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
-
-XLI.- Declarar que ha lugar o no a formación de causa por delitos oficiales y del orden común en contra de los Diputados, el Gobernador, los Secretarios de Despacho, Procurador de Justicia y Magistrados del tribunal Superior de Justicia.
+XLI.- Declarar que ha lugar o no a la formación de causa por delitos oficiales o del orden común en contra de los Diputados, Gobernador, Secretarios de Despacho, Procurador General de Justicia, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral, Consejero Presidente y Consejeros Estatales Electorales del Instituto Estatal Electoral, los integrantes del Consejo de la Judicatura Estatal y los miembros de los Ayuntamientos.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -672,9 +722,7 @@ XLII.- Declarar sobre la culpabilidad de los mismos funcionarios, por los delito
 
 XLIII.- Resolver las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia del Estado y que no tengan el carácter de controversias de que deba conocer la Suprema Corte de Justicia de la Nación, conforme al Artículo 105 de la Constitución Federal.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
-
-XLIV.- Expedir el Reglamento del Tribunal Superior de Justicia, a iniciativa del mismo.
+XLIV.- (DEROGADA, P.O. 30 DE OCTUBRE DE 1996)
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -704,7 +752,13 @@ L.- Expedir Leyes, en el ámbito de su competencia, en materia de protección al
 
 LI.- Expedir la Ley que instituya el tribunal de lo Contencioso-Administrativo del Estado, dotado de plena Autonomía para dictar sus fallos, que tenga a su cargo dirimir las controversias que se susciten entre la Administración Pública Estatal o de los Ayuntamientos y los particulares; y establezca las normas para su Organización, su funcionamiento, el procedimiento y los recursos contra su resolución.
 
-LII.- Las demás que expresamente le confiere esta Constitución.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+
+LII.- Expedir el bando solemne para dar a conocer en todo el Estado, la declaración de Gobernador electo que hubiere hecho el Instituto Estatal Electoral o el Tribunal Estatal Electoral, en su caso;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+
+LIII.- Las demás que expresamente le confiera esta Constitución.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -764,9 +818,11 @@ IV.- A los Ayuntamientos.
 
 Las iniciativas presentadas por el Ejecutivo del Estado, por el Tribunal Superior de Justicia, o signadas por tres o más Diputados, pasarán desde luego a la Comisión respectiva. Las presentadas por los Ayuntamientos se sujetarán a los trámites que establezca el Reglamento Interior del Congreso.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+
 ###### Artículo 44.
 
-Para que un proyecto o iniciativa tenga el carácter de Ley o Decreto, necesita la aprobación de las dos terceras partes de los Diputados presentes, en votación nominal: la sanción del Ejecutivo y su publicación en el órgano Oficial del Estado.
+Para que una iniciativa tenga el carácter de ley o decreto de ley, necesita en votación nominal la aprobación de la mayoría absoluta de los Diputados integrantes de la legislatura; la sanción del Ejecutivo y su publicación en el órgano oficial del Estado.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
 
@@ -798,11 +854,13 @@ En la reforma, derogación o abrogación de las leyes o decretos, se observarán
 
 Todo Proyecto de Ley o Decreto que fuese desechado por el Congreso, no podrá volver a presentarse en las sesiones del año.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 52.
 
-El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Congreso, cuando este ejerza funciones de Cuerpo Electoral o de Jurado, o cuando declare que debe acusarse a alguno de los Servidores de la Administración Pública, por la Comisión de un Delito o en los Juicios de Responsabilidad Política.
+El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Congreso, cuando éste ejerza funciones de jurado o cuando declare que debe acusarse a alguno de los servidores de la administración pública, por la comisión de un delito o en los juicios de responsabilidad política.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
 Tampoco podrá hacerlas al Decreto de Convocatoria que expida la Diputación Permanente, en los casos del Artículo 66 de esta Constitución.
 
@@ -860,9 +918,9 @@ VII.- Conceder licencia a alguno o algunos de sus miembros para separarse de su 
 
 VIII.- Recibir los testimonios de las actas de elecciones de Diputados y de Gobernador del Estado, para entregarlos al Congreso, en sus respectivos casos.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
 
-IX.- Ejercer durante los recesos del Congreso las facultades a que se refieren las Fracciones XXVII, XXX, XXXIII, XXXIV, XXXVI y XLV del Artículo 40 de esta Constitución.
+IX.- Ejercer durante los recesos del Congreso las facultades a que se refieren las fracciones XXVII, XXX, XXXII, XXXIII, XXXIV, XXXVI, XXXVII, XLV y LII del artículo 40 de esta Constitución;
 
 X.- Las demás que le confiere expresamente esta misma Constitución.
 
@@ -894,11 +952,11 @@ III.- Residir en el territorio del Estado por lo menos un año inmediato anterio
 
 IV.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1991)
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1946)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 59.
 
-La elección de Gobernador será popular, directa en los términos que disponga la Ley; entrará a ejercer sus funciones el día dieciocho de mayo posterior a las elecciones y durará en su encargo seis años, y en ningún caso y por ningún motivo podrá volver a ocupar ese cargo ni aún con el carácter de Interino, Provisional, Substituto o Encargado del Despacho.
+La elección de Gobernador será popular y directa en los términos que disponga la ley. Entrará a ejercer sus funciones el día 1º de octubre posterior a la elección y durará en su encargo seis años. El ciudadano que haya desempeñado el cargo de Gobernador del Estado electo popularmente, en ningún caso y por ningún motivo podrá volver a ocuparlo, ni aun con el carácter de interino, provisional, sustituto o encargado del despacho.
 
 ###### Artículo 60.
 
@@ -1004,15 +1062,17 @@ II.- Hacer observaciones a los proyectos de leyes o decretos que apruebe y le re
 
 III.- Pedir a la Diputación Permanente que convoque al Congreso a Sesiones extraordinarias, si la urgencia e importancia del asunto así lo requieren.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
-
-IV.- Nombrar y remover libremente a los Secretarios del Poder Ejecutivo Estatal. Así como a los demás trabajadores al servicio del Poder Ejecutivo, con arreglo a las Leyes a que se refiere la Fracción XX del Artículo 40 de la Constitución Política del Estado.
+VI.- (DEROGADA, P. O. 22 DE MARZO DE 1995)
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
 V.- Cuidar de la legal recaudación e inversión de los caudales públicos.
 
-VI.- (DEROGADA, P. O. 22 DE MARZO DE 1995)
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
+
+VI.- Someter a la aprobación del Congreso los nombramientos de los Magistrados del Tribunal
+
+Superior de Justicia.
 
 VII.- Conceder o negar indulto con arreglo a la Ley, a los reos sentenciados por los Tribunales del Estado.
 
@@ -1028,7 +1088,9 @@ X.- Convocar a elecciones de Congreso, únicamente en los casos de los artículo
 
 XI.- Conceder licencia a los funcionarios y empleados cuyo nombramiento y remoción dependen del Ejecutivo, para separarse de sus respectivos encargos.
 
-XII.- Excitar a los Poderes de la Unión para que presten protección al Estado, conforme al artículo 122 de la Constitución Federal.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+
+XII.- Excitar a los Poderes de la Unión para que presten protección al Estado, conforme al artículo 119 de la Constitución Política de los Estados Unidos Mexicanos.
 
 XIII.- Todas las demás que expresamente le conceden las leyes, como Jefe de la Administración, de la Fuerza Pública y de la Hacienda del Estado.
 
@@ -1318,7 +1380,7 @@ El Congreso del Estado establecerá un organismo autónomo de protección de los
 
 DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 85-D.
 
@@ -1360,7 +1422,9 @@ DE LA DEFENSORIA PUBLICA.
 
 ###### Artículo 89.
 
-El Tribunal Superior de Justicia del Estado se compondrá de los Magistrados Numerarios que se requiera para la integración de las Salas que lo conformen, y cuando menos de tres Supernumerarios. Los nombramientos de los Magistrados serán hechos por el Congreso de entre la terna que someta a su consideración el Consejo de la Judicatura Estatal.
+El Tribunal Superior de Justicia del Estado se compondrá de los Magistrados numerarios que se requieran para la integración de las salas que lo conformen; cuando menos de tres supernumerarios y en su caso, de los Magistrados interinos. Los nombramientos de los Magistrados serán hechos por el Congreso y sólo en el caso de los Magistrados interinos, podrá designar también la Diputación Permanente; en todos los casos serán designados de entre la terna que someta a su consideración el Consejo de la Judicatura Estatal.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
 Los Magistrados del Tribunal Superior de Justicia rendirán su protesta ante la Cámara o la Diputación Permanente, durarán en su cargo seis años. Si concluido dicho término fueren ratificados serán inamovibles y sólo podrán ser removidos en los términos del Título Séptimo de esta Constitución.
 
@@ -1402,7 +1466,9 @@ Los Magistrados Numerarios integrarán el pleno del Tribunal Superior de Justici
 
 El pleno del Tribunal Superior de Justicia estará facultado para expedir acuerdos generales tendientes a lograr una adecuada distribución entre las salas de los asuntos de la competencia del propio Tribunal.
 
-Los Magistrados supernumerarios constituirán la Sala Auxiliar y, además, sustituirán a los numerarios en el conocimiento de determinados negocios, por excusa o recusación de los mismo. Igualmente, suplirán a los numerarios en las faltas temporales de éstos y en los demás casos que disponga la Ley.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+
+Los Magistrados supernumerarios constituirán la Sala Auxiliar y además, sustituirán a los numerarios en el conocimiento de determinados negocios, por excusa o recusación de los mismos. De igual manera, suplirán a los numerarios en las faltas temporales de éstos, siempre que dichas faltas no excedan de treinta días; en los demás casos, suplirán los Magistrados interinos.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
@@ -1420,7 +1486,9 @@ El Consejo de la Judicatura Estatal se integrará en la forma y términos que se
 
 Son facultades del Consejo de la Judicatura Estatal:
 
-I.- Presentar a la consideración del Congreso la terna para la designación de Magistrados del Tribunal Superior de Justicia, y someter sus licencias y renuncias a la aprobación del propio Congreso o, en su caso, de la Diputación permanente.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+
+I.- Presentar a consideración del Congreso del Estado las ternas para la designación de los Magistrados del Tribunal Superior de Justicia y del Tribunal Estatal Electoral, así como someter sus licencias y renuncias a la aprobación del propio Congreso, o en su caso de la Diputación Permanente.
 
 II.- Convocar, conforme a las modalidades establecidas por la ley, a concurso de méritos y a examen de oposición, para efecto de designar a los Jueces integrantes del Poder Judicial.
 
@@ -1432,11 +1500,19 @@ IV.- Tener a su cargo la administración, vigilancia y disciplina del Poder Judi
 
 V.- Iniciar, a solicitud del pleno del Tribunal Superior de Justicia, investigación sobre la conducta de algún Juez u otro funcionario o empleado del Poder Judicial.
 
-VI.- Elaborar el presupuesto del Tribunal Superior de Justicia, de los Juzgados y demás órganos Judiciales, y remitirlo para su inclusión en el proyecto de presupuesto de Egresos del Estado.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+
+VI.- Elaborar el presupuesto del Tribunal Superior de Justicia, en el que considerará el propuesto por el Tribunal Estatal Electoral, así como el de los juzgados y demás órganos judiciales y remitirlo para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
 
 VII.- Nombrar y remover, de conformidad con lo establecido en la ley, a los funcionarios y empleados del Poder Judicial, con excepción de los Secretarios de Acuerdos, Secretarios de Estudio y Cuenta y Actuarios del Tribunal Superior de Justicia, cuyo nombramiento y remoción será facultad del pleno y las Salas del Tribunal, según el caso y de acuerdo con lo que la ley establezca.
 
-VIII.- Resolver sobre los demás asuntos que determine la ley.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+
+VIII.- Designar de entre sus miembros, a los consejeros que formarán parte de la comisión a que se refiere el párrafo tercero, fracción VI del artículo 23 de esta Constitución.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+
+IX.- Las demás que le confiera este mismo ordenamiento u otras leyes.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
 
@@ -1452,7 +1528,7 @@ El Tribunal Superior designará a uno de sus miembros como Presidente, en los t�
 
 ###### Artículo 95.
 
-El cargo de Magistrado del Tribunal Superior de Justicia sólo es renunciable por causa grave calificada por el Congreso, ante el que se presentará la renuncia; y en los recesos de éste, ante la Diputación Permanente, quien hará la calificación.
+(DEROGADO, P.O. 30 DE OCTUBRE DE 1996)
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
@@ -1482,7 +1558,9 @@ I.- Iniciar ante el Congreso del Estado las Leyes y Decretos que tiendan a mejor
 
 II.- (DEROGADA, P.O. 22 DE MARZO DE 1995)
 
-III.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+
+III.- Aprobar su reglamento interior.
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 1983)</small>
 
@@ -1534,7 +1612,9 @@ V.- El Tribunal deberá resolver, a mas tardar dentro del termino, de cinco día
 
 VI.- Si transcurriere el término a que se refiere la fracción anterior, sin que el Tribunal haga la declaración que corresponda, subsistirán definitivamente la Ley o acto reclamado, sin perjuicio de exigir la responsabilidad en que hubieren incurrido los Magistrados por la omisión del fallo.
 
-VII.- No podrán ser objeto de estas controversias los actos de Congreso como Jurado o como Colegio Electoral, ni las reformas que se hagan a esta Constitución.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+
+VII.- No podrán ser objeto de estas controversias los actos del Congreso como jurado, ni las reformas que se hagan a esta Constitución.
 
 ###### Artículo 101.
 
@@ -1666,7 +1746,9 @@ Los Ayuntamientos se integrarán con un Presidente Municipal y un Síndico; adem
 
 Por cada Regidor propietario y Síndico, así como por el Presidente Municipal se elegirá un suplente.
 
-El ejercicio de los Ayuntamientos electos se iniciará el 1o. de junio del año que corresponda a la elección, salvo lo que disponga la Ley para el caso de elecciones extraordinarias.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+
+El ejercicio de los Ayuntamientos electos se iniciará el 1º de noviembre del año que corresponda a la elección, salvo lo que disponga la Ley para el caso de elecciones extraordinarias.
 
 El Presidente Municipal y el Síndico de los Ayuntamientos serán electos conforme al principio de mayoría relativa; y los Regidores serán electos por el principio de representación proporcional.
 
@@ -1675,6 +1757,10 @@ Los Partidos Políticos para participar en la integración del Ayuntamiento, deb
 Para la asignación de Regidores se sumarán los votos de los Partidos que hayan obtenido cuando menos el 1.5% del total de los sufragios emitidos en el Municipio correspondiente, el resultado se dividirá entre el número de Regidurías por atribuir para obtener un factor porcentual simple de distribución, asignándose a cada partido, el riguroso orden decreciente, tantas Regidurías como número de factores alcance hasta completar las Regidurías previstas.
 
 Si aplicado el factor de distribución quedan regidurías por atribuir, éstas se asignarán en orden decreciente de acuerdo tanto con los mayores porcentajes de votación obtenidos por los Partidos Políticos restantes como con los porcentajes excedentes de aquellos que obtuvieron Regidurías con la aplicación del factor común.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+
+Cuando la diferencia en el resultado de la votación entre la planilla que obtenga la mayoría y la primera minoría no supere el veinte por ciento del total de los votos obtenidos, el síndico asignado a la planilla ganadora contará como un factor de asignación en la lista de Regidores en los términos que establezca la ley.
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -1754,7 +1840,9 @@ No podrán ser miembros de un Ayuntamiento o Ayudantes Municipales:
 
 I.- Los Ministros de algún culto, salvo que hubieren dejado de serlo con la anticipación y en la forma que establezca la Ley Reglamentaria del artículo 130 de la Constitución Federal.
 
-II.- Los empleados de la Federación, del Estado o del Municipio, si no se separan de sus respectivos cargos cuarenta y cinco días antes del fijado para la elección.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
+
+II.- Los empleados de la Federación, del Estado o de los Municipios, si no se separan de sus respectivos cargos tres días naturales previos al inicio del periodo de registro.
 
 Si el empleado del Municipio fuese Tesorero Municipal o Administrador de fondos municipales y del Estado, no podrá ser electo aun separándose de su encargo en el término señalado en el inciso anterior, si no han sido aprobadas sus cuentas.
 
@@ -1776,7 +1864,7 @@ BIS.- Los Ayuntamientos expedirán los reglamentos y disposiciones administrativ
 
 DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 119.
 
@@ -1870,7 +1958,9 @@ El Gobernador del Estado protestará en los términos siguientes:
 
 "Protesto, bajo palabra de honor, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, las Leyes que de una y otra emanen, y cumplir fiel y patrióticamente con los deberes de mi encargo, mirando en todo por el bien y prosperidad de la Unión y del Estado, y si no lo hiciere así que la Nación y el Estado me lo demanden".
 
-El Presidente del Congreso protestará en iguales términos al instalarse el Congreso. En el mismo acto protestarán ante él, los demás Diputados. Los magistrados del Tribunal Superior, protestarán ante el Congreso en los propios términos antes expuestos. Los demás funcionarios y empleados rendirán su protesta ante su Superior inmediato jerárquico, en la siguiente forma:
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+
+El Presidente del Congreso protestará en iguales términos al instalarse el Congreso. En el mismo acto protestarán ante él los demás Diputados. Los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral y del Tribunal de lo Contencioso Administrativo, protestarán ante el Congreso en los términos antes expuestos. Los demás funcionarios y empleados rendirán su protesta ante su superior inmediato jerárquico en la forma siguiente:
 
 "Protestais guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, las Leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de......................que el Estado os ha conferido"? El interrogado contestará. "Sí Protesto. Acto continuo, la misma autoridad que tome la Protesta dirá. "Si no lo hiciereis así, que la Nación y el Estado os lo demanden".
 
@@ -1884,7 +1974,9 @@ DE LA OBSERVANCIA, REFORMAS E INVIOLABILIDAD DE LA CONSTITUCION.
 
 ###### Artículo 134.
 
-Para los efectos de las Responsabilidades a que se refiere este Título se reputan como Servidores Públicos a los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Ayuntamientos Municipales y en general todo aquel que desempeñe un cargo, comisión o empleo de cualquier naturaleza en la Administración Pública Estatal o Paraestatal o en las Entidades mencionadas con anterioridad.
+Para los efectos de las responsabilidades a que se refiere este Título se reputan como servidores públicos a los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Ayuntamientos, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, los Magistrados Electorales y en general todo aquel que desempeñe un cargo, comisión o empleo de cualquier naturaleza en la administración pública estatal o paraestatal o en las entidades mencionadas con anterioridad.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
 Al Gobernador sólo se le podrá exigir responsabilidad durante su encargo por violación expresa a esta Constitución, ataques a la libertad electoral y delitos graves del orden común.
 
@@ -1894,21 +1986,21 @@ Al Gobernador sólo se le podrá exigir responsabilidad durante su encargo por v
 
 El Gobernador, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia y los miembros del Consejo de la Judicatura Estatal son responsables en los términos del Título Cuarto de la Constitución General de la República.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 136.
 
-Para proceder penalmente en contra de los Diputados al Congreso del Estado, el Gobernador, los Secretarios de Despacho, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia y los Consejeros de la Judicatura Estatal por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta del total de los miembros previa audiencia del acusado por sí, por su defensor o por ambos si ha lugar o no a formación de causa.
+Para proceder penalmente en contra de los Diputados al Congreso del Estado, el Gobernador, los Secretarios de Despacho, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura Estatal, los Magistrados del Tribunal Estatal Electoral, así como el Consejero Presidente, y los Consejeros Estatales Electorales del Instituto Estatal Electoral por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta del total de sus miembros previa audiencia del acusado por sí, por su defensor o por ambos, si ha lugar o no a la formación de causa.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
 La Comisión correspondiente del Congreso del Estado, instruirá el expediente sobre el que deba determinar. La decisión del Congreso es inatacable.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 137.
 
-Son responsables y serán sometidos a juicio político en su caso, por actos u omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, los Diputados al Congreso del Estado, los Secretarios de Despacho, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los integrantes del Consejo de la Judicatura Estatal y los miembros de los Ayuntamientos Municipales.
+Son responsables y serán sometidos a juicio político por actos y omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, los Diputados al Congreso del Estado, los Secretarios de Despacho, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los integrantes del Consejo de la Judicatura, el Consejero Presidente y los Consejeros Estatales Electorales del Instituto Estatal Electoral y los miembros de los Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
@@ -2413,3 +2505,23 @@ PRIMERO.- Remítase el presente Proyecto de Decreto a los Honorables Ayuntamient
 SEGUNDO.- Cumplidos los requisitos legales correspondientes, el decreto respectivo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente decreto.
+
+P.O. 30 DE OCTUBRE DE 1996.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", con excepción de lo previsto en los artículos siguientes.
+
+SEGUNDO.- Los artículos 23 párrafo segundo y 115 fracción III, cuarto párrafo de este Decreto, entrarán en vigor a partir del 1º de enero del año 2000.
+
+TERCERO.- El artículo 32 iniciará su vigencia a partir del primero de septiembre y el artículo 33 el día dos de mayo, ambos del año 2000.
+
+CUARTO.- Por esta única vez, la Cuadragésima Séptima Legislatura del Congreso del Estado de Morelos, prorrogará su mandato hasta el día último del mes de agosto del año 2000. Durante dicha prórroga el Congreso sesionará con un período ordinario más, que comprenderá del 17 de abril al 31 de agosto del año 2000.
+
+De igual manera por esta sola ocasión, los Ayuntamientos del Estado de Morelos, que inicien su mandato el 1° de junio del año de 1997, lo prorrogarán hasta el día 31 de octubre del año 2000.
+
+QUINTO.- Para los efectos del artículo 59, cuya vigencia iniciará a partir del 1º de enero del año 2000, el Congreso del Estado de Morelos designará con quince días de anticipación, al ciudadano que como Gobernador interino, asuma el ejercicio del Poder Ejecutivo de la Entidad durante el período comprendido del 18 de mayo al 30 de septiembre del año 2000. El designado deberá satisfacer los requisitos establecidos por los artículos 58 y 60 de esta Constitución.
+
+SEXTO.- Para los efectos de las elecciones que deberán verificarse en el año de 1997 para Diputados y Ayuntamientos en el Estado de Morelos, éstas deberán llevarse a cabo el tercer domingo de marzo del año citado y los órganos electorales se instalarán el día 1º del mes de diciembre de 1996.
+
+SEPTIMO.- Para los efectos de la distritación prevista en el artículo 24 de esta Constitución, por esta vez, se tomarán en cuenta los datos de población del Instituto Nacional de Estadística, Geografía e Informática.
+
+OCTAVO.- En tanto se expiden o reforman las leyes correspondientes, la Comisión Estatal Electoral y el Tribunal Electoral del Estado seguirán ejerciendo las competencias y funciones que actualmente les señala la ley Electoral del Estado.
