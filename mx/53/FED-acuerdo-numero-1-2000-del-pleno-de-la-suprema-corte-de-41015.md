@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-2000-del-pleno-de-la-suprema-corte-de-41015"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-01-25"
-last_updated: "2000-01-25"
+last_updated: "2001-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41015&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-01-17"
 
 ACUERDO NUMERO 1/2000, DEL DIECISIETE DE ENERO DE DOS MIL, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, EN EL QUE SE MODIFICA EL PROCEDIMIENTO PARA EL ENVIO DE ASUNTOS A LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL ACUERDO GENERAL NUMERO 5/2001, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 29 DE JUNIO DE 2001, EL PRESENTE ACUERDO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 25 de enero de 2000.
 
@@ -76,3 +78,15 @@ TERCERO. Al finalizar el mes de noviembre próximo, el Pleno de la Suprema Corte
 CUARTO. Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que este Acuerdo Número 1/2000, en el que se modifica el procedimiento para el envío de asuntos a los Tribunales Colegiados de Circuito, fue emitido por el Tribunal Pleno en Sesión Privada de hoy diecisiete de enero de dos mil, por unanimidad de once votos de los señores Ministros Presidente Genaro David Góngora Pimentel, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juventino V. Castro y Castro, Juan Díaz Romero, José Vicente Aguinaco Alemán, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga María Sánchez Cordero y Juan N. Silva Meza.- México, Distrito Federal, a diecisiete de enero de dos mil.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 29 DE JUNIO DE 2001.
+
+PRIMERO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Acuerdo 1/1997, emitido por el Tribunal Pleno el veintisiete de mayo de mil novecientos noventa y siete.
+
+TERCERO.- Se abrogan los Acuerdos Generales Números 6/1999, 1/2000, 4/2000, 9/2000, 10/2000, 2/2001 y 4/2001 emitidos por el Tribunal Pleno el veintidós de junio de mil novecientos noventa y nueve, el diecisiete de enero de dos mil, el nueve de marzo de dos mil, el siete de septiembre de dos mil, el diecinueve de febrero de dos mil uno y el diecisiete de mayo de dos mil uno, respectivamente; sin embargo, los asuntos en los que se hubiese solicitado la intervención de la Suprema Corte de Justicia de la Nación durante la vigencia de dichos acuerdos, se continuarán tramitando conforme a ellos hasta su resolución.
+
+CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
