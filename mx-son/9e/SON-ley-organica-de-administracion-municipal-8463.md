@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-administracion-municipal-8463"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1984-02-02"
-last_updated: "1996-12-26"
+last_updated: "1999-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DE ADMINISTRACION MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE JUNIO DE 1999.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el jueves 2 de febrero de 1984.
 
@@ -111,9 +111,9 @@ El Congreso del Estado definirá los límites de los Municipios.
 
 Para su organización territorial y administrativa, los Municipios se componen de:
 
-I.- Cabeceras Municipales
+I.- Cabeceras Municipales.
 
-II.- Comisaría
+II.- Comisaría.
 
 III.- Delegaciones.
 
@@ -139,7 +139,7 @@ La calidad de vecino de un Municipio se pierde por dejar de reunir los requisito
 
 Los derechos y obligaciones de los habitantes y de los vecinos de los Municipios, que tengan la calidad de ciudadanos, sin perjuicio de los señalados por la Constitución Federal, la Constitución Política Local y las Leyes que de ellas emanen, serán:
 
-I.- Respetar y obedecer a las autoridades legalmente constituidas y cumplir las leyes, reglamentos y disposiciones emanadas de las mismas,
+I.- Respetar y obedecer a las autoridades legalmente constituidas y cumplir las leyes, reglamentos y disposiciones emanadas de las mismas.
 
 II.- Prestar auxilio a las autoridades cuando sean legalmente requeridos para ello.
 
@@ -183,7 +183,7 @@ El Gobierno Municipal estará a cargo de los Ayuntamientos electos popularmente 
 
 El total de miembros de cada Ayuntamiento se determinará con base en el número de habitantes que arroje el último censo de población y conforme a las siguientes bases:
 
-I.- En los municipios cuya población no exceda de treinta mil habitantes, habrá un presidente municipal, un síndico, tres regidores de mayoría relativa y hasta dos regidores según el principio de representación proporcional;
+I.- En los municipios cuya población no exceda de treinta mil habitantes, habrá un presidente municipal, un síndico, tres regidores de mayoría relativa y hasta dos regidores según el principio de representación proporcional.
 
 II.- En los Municipios cuya población exceda a treinta mil habitantes, pero no de cien mil, habrá un Presidente Municipal, un Síndico y seis regidores de mayoría relativa y hasta cuatro regidores según el principio de representación proporcional; y
 
@@ -323,13 +323,13 @@ e) Participar en la ejecución de programas de regularización de tenencia de su
 
 > <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
 
-f) Llevar a cabo las acciones, programas y políticas que al efecto, la Ley del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora le establece, y expedir los reglamentos, las circulares y demás disposiciones de observación general que resulten necesarios para dar cumplimiento a lo establecido en la Ley de referencia y dentro de su jurisdicción, siendo ésta, la base normativa para la expedición de las disposiciones jurídicas mencionadas;
+f) Llevar a cabo las acciones, programas y políticas que al efecto, la Ley del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora le establece, y expedir los reglamentos, las circulares y demás disposiciones de observación general que resulten necesarios para dar cumplimiento a lo establecido en la Ley de referencia y dentro de su jurisdicción, siendo ésta, la base normativa para la expedición de las disposiciones jurídicas mencionadas.
 
 g) Cuidar los recursos naturales y turísticos de su circunscripción territorial.
 
 > <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
 
-h).- Intervenir en los términos que establece la Ley Agraria, en la localización, deslinde y fraccionamiento de la zona de urbanización de las tierras ejidales destinadas al asentamiento humano y tener preferencia para adquirir las tierras con vocación urbana que excedan de la pequeña propiedad individual;
+h) Intervenir en los términos que establece la Ley Agraria, en la localización, deslinde y fraccionamiento de la zona de urbanización de las tierras ejidales destinadas al asentamiento humano y tener preferencia para adquirir las tierras con vocación urbana que excedan de la pequeña propiedad individual.
 
 i) Vigilar la correcta aplicación de los precios y tarifas autorizadas y registradas y la prestación de servicios turísticos, conforme a las disposiciones legales aplicables.
 
@@ -347,29 +347,29 @@ n) Proponer la construcción de pequeñas obras de irrigación a ejecutarse en s
 
 IX.- Auxiliar en sus funciones a las autoridades Federales y Estatales.
 
-X- Iniciar leyes y decretos ante el Congreso del Estado, en lo concerniente a sus Municipios.
+X.- Iniciar leyes y decretos ante el Congreso del Estado, en lo concerniente a sus Municipios.
 
 XI.- Prestar en sus respectivas jurisdicciones y en los términos fijados en las leyes relativas, los siguientes servicios públicos:
 
-a) Agua Potable y Alcantarillado
+a) Agua Potable y Alcantarillado.
 
-b) Alumbrado Público
+b) Alumbrado Público.
 
-c) Limpia
-
-> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
-
-d).- Mercados y centrales de abasto;
-
-e) Panteones
-
-f) Rastros
+c) Limpia.
 
 > <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
 
-g).- Calles, estacionamientos, parques, jardines y campos deportivos;
+d) Mercados y centrales de abasto.
 
-h) Seguridad Pública y Tránsito
+e) Panteones.
+
+f) Rastros.
+
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+
+g) Calles, estacionamientos, parques, jardines y campos deportivos.
+
+h) Seguridad Pública y Tránsito.
 
 i) Los demás que les señalen el Congreso del Estado, según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa, técnica y financiera.
 
@@ -453,7 +453,7 @@ XLVIII.- Aplicar las sanciones por infracciones a los Bandos de Policía y Buen 
 
 > <small>(ADICIONADO, B.O. 26 DE ABRIL DE 1993)</small>
 
-Cuando en los Ayuntamientos de los Municipios, no existan Jueces Calificadores, las funciones que las leyes de la materia confieren a éstos, podrán ser ejercidas por el Secretario del Ayuntamiento;
+Cuando en los Ayuntamientos de los Municipios, no existan Jueces Calificadores, las funciones que las leyes de la materia confieren a éstos, podrán ser ejercidas por el Secretario del Ayuntamiento.
 
 XLIX.- Resolver los recursos interpuestos en contra de los acuerdos dictados por las autoridades municipales o por el propio Ayuntamiento, sin perjuicio de lo dispuesto en las leyes fiscales.
 
@@ -475,7 +475,9 @@ V.- Ejercer sus recursos económicos públicos en fines distintos a los señalad
 
 VI.- Retener o invertir para fines distintos, la cooperación que en numerario o en especie, hayan enterado a la Hacienda Pública Municipal los representantes de los grupos sociales o los particulares interesados, para la realización de obras públicas o para la prestación de cualquier servicio público.
 
-VII.- Donar y vender bienes del patrimonio del Municipio, sin autorización previa del Congreso.
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 1999)</small>
+
+VII.- Donar y vender bienes del patrimonio del Municipio, sin autorización previa del Congreso, excepto en el caso previsto en el artículo 109 de esta Ley.
 
 VIII.- Eximir a alguno de sus miembros o a los funcionarios y empleados municipales, del cumplimiento de sus obligaciones o de las responsabilidades en que incurran.
 
@@ -489,7 +491,9 @@ I.- La creación de contribuciones y toda clase de resoluciones que importen tri
 
 II.- Los empréstitos de todo género.
 
-III.- La enajenación, gravamen, cambio de destino y desincorporación de sus bienes de dominio público y la enajenación y gravamen de sus bienes de dominio privado.
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 1999)</small>
+
+III.- La enajenación, gravamen, cambio de destino y desincorporación de sus bienes de dominio público y la enajenación y gravamen de sus bienes de dominio privado, excepto cuando se trate de los casos establecidos en el artículo 109 de esta Ley.
 
 ### CAPITULO V. DE LAS FACULTADES Y OBLIGACIONES DEL PRESIDENTE MUNICIPAL
 
@@ -535,7 +539,7 @@ XVII.- Formar y actualizar el catastro y padrón municipal, cuidando de que se i
 
 > <small>(REFORMADA, B.O. 26 DE ABRIL DE 1993)</small>
 
-XVIII.- Ser auxiliar de la federación en la aplicación de la Ley de asociaciones Religiosas y Culto Público, reglamentaria de los artículos 24 y 130 constitucionales, debiendo recibir los avisos respecto a la celebración de actos religiosos y culto público con carácter extraordinario fuera de los templos y ejercer sus facultades al respecto. De igual manera, registrar los tiempos que existan o se abran al culto religioso, así como a los encargados de los mismos, y sus cambios, notificando de todo lo actuado a la Secretaría de Gobernación por conducto del Gobernador del Estado;
+XVIII.- Ser auxiliar de la federación en la aplicación de la Ley de asociaciones Religiosas y Culto Público, reglamentaria de los artículos 24 y 130 constitucionales, debiendo recibir los avisos respecto a la celebración de actos religiosos y culto público con carácter extraordinario fuera de los templos y ejercer sus facultades al respecto. De igual manera, registrar los tiempos que existan o se abran al culto religioso, así como a los encargados de los mismos, y sus cambios, notificando de todo lo actuado a la Secretaría de Gobernación por conducto del Gobernador del Estado.
 
 XIX.- Ejercer las atribuciones que en el ramo de mostrencos les confieran.
 
@@ -565,11 +569,11 @@ XXXI.- Amonestar e impedir a los extranjeros que se inmiscuyan en asuntos polít
 
 > <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1994)</small>
 
-XXXII.- Impartir a la autoridad judicial el auxilio que demande para hacer efectivas sus resoluciones; aprehender a los delincuentes en flagrante delito y detener a algún indiciado en caso de urgencia, tratándose de delitos graves, previa petición por escrito por parte del Ministerio Público, cuando se hubiese actualizado los supuestos previstos en el artículo 16, párrafo quinto de la Constitución Política de los Estados Unidos Mexicanos;
+XXXII.- Impartir a la autoridad judicial el auxilio que demande para hacer efectivas sus resoluciones; aprehender a los delincuentes en flagrante delito y detener a algún indiciado en caso de urgencia, tratándose de delitos graves, previa petición por escrito por parte del Ministerio Público, cuando se hubiese actualizado los supuestos previstos en el artículo 16, párrafo quinto de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADA, B.O. 26 DE ABRIL DE 1993)</small>
 
-XXXIII.- Imponer las sanciones en los términos que señalen las leyes y demás ordenamientos jurídicos;
+XXXIII.- Imponer las sanciones en los términos que señalen las leyes y demás ordenamientos jurídicos.
 
 XXXIV.- Las demás que se establecieren en esta u otras leyes y reglamentos.
 
@@ -635,7 +639,7 @@ II.- La representación legal de los Ayuntamientos en las controversias o litigi
 
 > <small>(REFORMADA, B.O. 26 DE ABRIL DE 1993)</small>
 
-III.- La revisión y firma de los estados de origen y aplicación de fondos;
+III.- La revisión y firma de los estados de origen y aplicación de fondos.
 
 IV.- Intervenir en la formulación del inventario de bienes muebles e inmuebles, propiedad del Municipio, haciendo que éstos se inscriban, con la expresión de sus valores, sus características de identificación y su destino.
 
@@ -825,7 +829,7 @@ b) La glosa anual de las Comisarías y Delegaciones Municipales determinando sus
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-c).- La cuenta anual pormenorizada del manejo hacendario a que se refiere la fracción XXV del artículo 37 de esta Ley, misma que deberá comprender del 1º de enero hasta el 31 de diciembre del ejercicio correspondiente.
+c) La cuenta anual pormenorizada del manejo hacendario a que se refiere la fracción XXV del artículo 37 de esta Ley, misma que deberá comprender del 1º de enero hasta el 31 de diciembre del ejercicio correspondiente.
 
 d) Los estados financieros trimestrales que se deban enviar al Congreso del Estado de conformidad con lo establecido en la Fracción XXIII del Artículo 136 de la Constitución Política local.
 
@@ -833,7 +837,7 @@ e) El programa financiero mediante el cual se manejará la deuda pública munici
 
 XI.- Organizar el funcionamiento de la unidad de auditoria interna.
 
-XII.-(DEROGADA, B.O. 26 DE ABRIL DE 1993)
+XII.- (DEROGADA, B.O. 26 DE ABRIL DE 1993)
 
 XIII.- (DEROGADA, B.O. 26 DE ABRIL DE 1993)
 
@@ -1029,21 +1033,21 @@ El Gasto Público Municipal comprende las erogaciones por concepto de gasto corr
 
 La Contraloría Municipal, ejercerá las siguientes funciones:
 
-I.- Planear, organizar, coordinar y aplicar, el Sistema Municipal de Control y Evaluación Gubernamental;
+I.- Planear, organizar, coordinar y aplicar, el Sistema Municipal de Control y Evaluación Gubernamental.
 
-II.- Analizar y verificar el ejercicio del Gasto Público Municipal y su congruencia con los presupuestos de egresos;
+II.- Analizar y verificar el ejercicio del Gasto Público Municipal y su congruencia con los presupuestos de egresos.
 
-III.- Comprobar el cumplimiento, por parte de las dependencias y entidades paramunicipales, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamientos, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado del Ayuntamiento;
+III.- Comprobar el cumplimiento, por parte de las dependencias y entidades paramunicipales, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamientos, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado del Ayuntamiento.
 
-IV.- Verificar y comprobar directamente, que las dependencias y entidades paramunicipales cumplan, en su caso, con las normas y disposiciones en materia de: sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, control, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, concesiones, almacenes y demás activos y recursos materiales de la Administración Pública Municipal;
+IV.- Verificar y comprobar directamente, que las dependencias y entidades paramunicipales cumplan, en su caso, con las normas y disposiciones en materia de: sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, control, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, concesiones, almacenes y demás activos y recursos materiales de la Administración Pública Municipal.
 
-V.- Realizar auditorías a las dependencias y entidades paramunicipales, para promover la eficiencia en sus operaciones y comprobar el cumplimiento de los objetivos contenidos en sus programas;
+V.- Realizar auditorías a las dependencias y entidades paramunicipales, para promover la eficiencia en sus operaciones y comprobar el cumplimiento de los objetivos contenidos en sus programas.
 
-VI.- Designar a los auditores externos de las entidades paramunicipales, normar su actividad y contratar sus servicios con cargo al presupuesto de dichas entidades;
+VI.- Designar a los auditores externos de las entidades paramunicipales, normar su actividad y contratar sus servicios con cargo al presupuesto de dichas entidades.
 
-VII.- Designar, en las entidades paramunicipales a los Comisarios Públicos;
+VII.- Designar, en las entidades paramunicipales a los Comisarios Públicos.
 
-VIII.- Promover y verificar que los funcionarios y empleados cumplan con la declaración se situación patrimonial, a que se refiere la ley de responsabilidades de los Servidores Públicos del Estado y de los Municipios;
+VIII.- Promover y verificar que los funcionarios y empleados cumplan con la declaración se situación patrimonial, a que se refiere la ley de responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
 IX.- Conocer e investigar los actos u omisiones de los servidores públicos municipales en relación con responsabilidades administrativas, aplicando las sanciones que correspondan en los términos señalados en las leyes y hacer las denuncias ante el Ministerio Público, presentándole a éste, la colaboración que fuere necesaria; y
 
@@ -1101,7 +1105,9 @@ Son bienes de dominio público municipal, enunciativamente:
 
 I.- Los de uso común.
 
-II.- Los inmuebles destinados por el Ayuntamiento a un servicio público y los propios que de hecho utilice para dichos fines.
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 1999)</small>
+
+II.- Los inmuebles destinados por el Ayuntamiento a un servicio público.
 
 III.- Los monumentos históricos, arqueológicos, artísticos, de naturaleza mueble e inmueble, de propiedad municipal.
 
@@ -1109,31 +1115,41 @@ IV.- Los muebles municipales que por su naturaleza normalmente no sean substitui
 
 V.- Las servidumbres, cuando el predio dominante sea uno de los indicados en este Artículo.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 97.
 
-Los bienes de dominio público son inalienables e imprescriptibles y no estarán sujetos a acción reivindicatoria o de posesión. Los derechos sobre su uso, aprovechamiento de las concesiones respectivas, las cuales no crean derechos reales sobre los bienes.
+Los bienes de dominio público del Municipio son inalienables, inembargables e imprescriptibles y no están sujetos a acción reivindicatoria o de posesión. Los derechos, sobre su uso, aprovechamiento y explotación, se adquirirán mediante el otorgamiento de las concesiones respectivas, los cuales no crean derechos reales sobre los bienes.
+
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 Para aprovechamientos especiales, sobre los bienes de uso común, se requerirá de concesión, la cual se otorgará con las condiciones y requisitos que fijen las leyes, los que por ningún motivo desvirtuarán la naturaleza de l bien, en tal forma que los aprovechamientos especiales no hagan nugatorio el uso común.
 
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+
 Los concesionarios deberán cubrir en la Tesorerías Municipales, el monto de los derechos que de acuerdo a la cuota aplicable corresponda, según las disposiciones fiscales relativas.
+
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 Las concesiones sobre inmuebles de dominio público podrán otorgarse por el Ayuntamiento hasta por un plazo de diez años, el cual podrá ser prorrogado hasta por plazos equivalentes a los señalados originalmente, requiriéndose de la aprobación del Congreso del Estado , cuando el plazo exceda de su período constitucional.
 
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+
 Para el otorgamiento de las concesiones sobre inmuebles de dominio público municipal, así como para su prórroga, se atenderá a:
 
-I.- El monto de la inversión que el concesionario pretende aplicar;
+I.- El monto de la inversión que el concesionario pretende aplicar.
 
-II.- El plazo de amortización de la inversión realizada ;
+II.- El plazo de amortización de la inversión realizada.
 
-III.- El beneficio social y económico que signifique para la región o localidad en que se encuentre ubicado el bien:
+III.- El beneficio social y económico que signifique para la región o localidad en que se encuentre ubicado el bien.
 
-IV.- La necesidad de la actividad o del servicio que se preste;
+IV.- La necesidad de la actividad o del servicio que se preste.
 
 V.- El cumplimiento por parte del concesionario de las obligaciones a su cargo; y
 
 VI.- La reinversión que se haga para el mejoramiento de las instalaciones o del servicio prestado.
+
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 Al término del primer plazo de la concesión las obras, instalaciones y los bienes dedicados a la explotación de la misma revertirán en favor del municipio. En caso de prórroga o de otorgamiento de una nueva concesión, para la fijación del monto de los derechos se deberán considerar, además del terreno, las obras, instalaciones y demás bienes dedicados a la explotación de la concesión.
 
@@ -1161,9 +1177,11 @@ Para incorporar al dominio público un bien mueble propiedad del Municipio, bast
 
 Se concede acción popular para solicitar del Ayuntamiento, la expedición de las declaratorias de incorporación a que se refiere el artículo que antecede. De no emitirse ésta en un plazo de sesenta días, contados a partir de la presentación de la solicitud, que por escrito se realice sin que se expresen motivos fundados para la negativa, la petición se dirigirá al Ejecutivo del Estado, quien oyendo la opinión del Ayuntamiento de que se trate, remitirá tanto la solicitud como el informe respectivo, a la Legislatura local, para que resuelva decretando la incorporación o negando la misma.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 102.
 
-Los bienes de dominio público de los Municipios, podrán ser desincorporados, previa aprobación del Gobernador y mediante decreto que expida la Legislatura local, cuando por algún motivo dejen de ser útiles para fines de servicio público. A la solicitud que para estos efectos realicen los Ayuntamientos, deberá acompañarse:
+Los bienes inmuebles de dominio público de los Municipios, podrán ser desincorporados, previa aprobación del Gobernador y mediante decreto que expida la Legislatura Local, cuando por algún motivo dejen de ser útiles para fines de servicio público. A la solicitud que para estos efectos realicen los ayuntamientos, deberán acompañarse:
 
 I.- Un dictamen técnico que justifique la desincorporación.
 
@@ -1183,11 +1201,15 @@ II.- Los que resulten de la liquidación o extinción de organismos de derecho p
 
 III.- Los muebles no comprendidos en la Fracción IV del Artículo 96 de esta Ley.
 
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 1999)</small>
+
 IV.- Los inmuebles que adquiera el municipio hasta en tanto no se destinen al uso común, a la prestación de un servicio público o a algunas de las actividades que se equiparen a ésta, o de hecho se utilicen en estos fines.
+
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 104.
 
-Los bienes de dominio privado de los Municipios son inembargables e imprescriptibles. Se destinarán prioritariamente al servicio de las diversas dependencias de la Administración Municipal, en cuyo caso tratándose de inmuebles deberán de ser incorporados al dominio público.
+Los bienes de dominio privado de los Municipios son inembargables e imprescriptibles. Se destinarán prioritariamente al servicio de la Administración Municipal en cuyo caso, tratándose de inmuebles deberán de ser incorporados al dominio público.
 
 ###### ARTICULO 105.
 
@@ -1203,9 +1225,9 @@ I.- Que la necesidad de las enajenaciones responda a la ejecución de un program
 
 II.- Que en la solicitud respectiva se especifique el destino que se proyecte dar al producto que se obtenga con la enajenación o gravamen.
 
-> <small>(REFORMADA, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 1999)</small>
 
-III.- Tratándose de inmuebles, que se anexe un avalúo expedido por una Sociedad Nacional de Crédito, o en su defecto, de no existir ésta en el Municipio, la especificación de su valor catastral, asimismo, deberá acompañarse lo señalado en las fracciones II y III del artículo 102 de esta Ley.
+III.- Que se anexe un avalúo catastral; asimismo, deberá acompañarse lo señalado en las fracciones II y III del artículo 102 de esta Ley.
 
 IV.- Cuando las enajenaciones de bienes inmuebles requieran la división de éstos en manzanas, lotes y calles, se deberá de cumplir con las normas vigentes en materia de fraccionamientos.
 
@@ -1213,9 +1235,11 @@ IV.- Cuando las enajenaciones de bienes inmuebles requieran la división de ést
 
 Los Ayuntamientos pueden dar en arrendamiento los bienes que integren su patrimonio hasta por el término de diez años, pero necesitan de la aprobación del Gobernador y del Congreso, cuando el arrendamiento exceda de su periodo constitucional.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 108.
 
-La enajenación onerosa de bienes inmuebles de los Municipios, deberá ser de contado y se efectuará en subasta pública que garantice al Municipio las mejores condiciones disponibles en cuanto al precio de venta, conforme a las siguientes bases:
+La enajenación onerosa de bienes inmuebles de los Municipios, deberá ser de contado y se efectuará en subasta pública que garantice al Municipio las mejores condiciones disponibles en cuanto al precio de venta, conforme alas siguientes bases:
 
 I.- La convocatoria que deberá contener el precio fijado por el Ayuntamiento y la identificación de los bienes a rematarse, se publicará por una sola vez y con quince días de anticipación por lo menos a la fecha señalada para la diligencia de remate, en uno de los periódicos de mayor circulación en el Municipio, en la tabla de avisos del Ayuntamiento y en cualquier otro lugar público.
 
@@ -1228,6 +1252,10 @@ IV.- En la diligencia de remate y en cualquier otra formalidad se aplicará supl
 ###### ARTICULO 109.
 
 El Ayuntamiento, previo el cumplimiento de los requisitos establecidos en el Artículo 106 de esta Ley, podrá autorizar la enajenación directa en forma onerosa de inmuebles fuera de subasta, cuando se trate de satisfacer necesidades de suelo urbano para vivienda o bien, cuando el Congreso así lo determine al autorizar la enajenación.
+
+> <small>(ADICIONADO, B.O. 28 DE JUNIO DE 1999)</small>
+
+Los Ayuntamientos podrán autorizar la enajenación directa en forma onerosa fuera de subasta de sus bienes muebles de dominio privado, o bien, proceder a gravarlos, siempre que la necesidad de la medida responda a la obtención de recursos para satisfacer el gasto corriente o para la ejecución de un programa cuyo objetivo esté relacionado con la ejecución de la obra pública o el servicio comunitario, sin que se requiera la aprobación previa del Ejecutivo ni autorización del Congreso del Estado.
 
 ###### ARTICULO 110.
 
@@ -1281,9 +1309,7 @@ Los actos jurídicos que se ejecuten en contravención de lo previsto en este Ca
 
 ###### ARTICULO 118.
 
-Cuando se trate de recuperar la poseción (sic) provisional o definitiva o de reivindicar los inmuebles de dominio privado, o de obtener el cumplimiento, la rescisión o la nulidad de los contratos celebrados respecto de dichos bienes, deberá el Ayuntamiento deducir ante los Tribunales las acciones que correspondan, mismas que se tramitarán en los términos señalados en
-
-el Código de Procedimientos Civiles del Estado de Sonora. Presentada la demanda, el Juez, a solicitud del Ayuntamiento de que se trate y siempre que encuentre razón que lo amerite, podrá autorizar la ocupación administrativa provisional de los inmuebles. La resolución denegatoria podrá revocarse en cualquier estado del pleito por causas supervinientes.
+Cuando se trate de recuperar la poseción (sic) provisional o definitiva o de reivindicar los inmuebles de dominio privado, o de obtener el cumplimiento, la rescisión o la nulidad de los contratos celebrados respecto de dichos bienes, deberá el Ayuntamiento deducir ante los Tribunales las acciones que correspondan, mismas que se tramitarán en los términos señalados en el Código de Procedimientos Civiles del Estado de Sonora. Presentada la demanda, el Juez, a solicitud del Ayuntamiento de que se trate y siempre que encuentre razón que lo amerite, podrá autorizar la ocupación administrativa provisional de los inmuebles. La resolución denegatoria podrá revocarse en cualquier estado del pleito por causas supervinientes.
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1291,9 +1317,7 @@ el Código de Procedimientos Civiles del Estado de Sonora. Presentada la demanda
 
 Las concesiones sobre bienes de dominio público municipal, se otorgarán , extinguirán, revocarán y se decretará su nulidad y caducidad en la misma forma y términos que para dichos actos se señalen en al Ley General de Bienes del Estado, en todo lo que resulte aplicable. Asimismo, para todo lo no previsto en este Capítulo, se observará en lo conducente la citada Ley.
 
-## TITULO QUINTO
-
-DE LA DESAPARICION Y SUSPENSION DE AYUNTAMIENTOS Y DE LA SUSPENSION O REVOCACION DEL MANDATO DE ALGUNOS DE SUS MIEMBROS.
+## TITULO QUINTO. DE LA DESAPARICION Y SUSPENSION DE AYUNTAMIENTOS Y DE LA SUSPENSION O REVOCACION DEL MANDATO DE ALGUNOS DE SUS MIEMBROS
 
 ### CAPITULO I. DE LA DESAPARICION Y SUSPENSION DE AYUNTAMIENTOS
 
@@ -1413,13 +1437,9 @@ De suspenderse o revocarse el mandato de quien funja como Presidente Municipal, 
 
 Si la persona que resulte electa para ocupar el cargo de Presidente Municipal, no compareciera en el lugar, día y hora fijadas para la instalación del Ayuntamiento, se comunicará de inmediato tal situación al Congreso del Estado para que designe de entre los restantes miembros del Ayuntamiento a quien fungirá como Presidente Municipal.
 
-## TITULO SEXTO
+## TITULO SEXTO. DE LAS PROTESTAS, LICENCIAS, RENUNCIAS Y RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS DEL MUNICIPIO
 
-DE LAS PROTESTAS, LICENCIAS, RENUNCIAS Y RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS DEL MUNICIPIO.
-
-### CAPITULO UNICO
-
-DE LAS PROTESTAS, LICENCIAS, RENUNCIAS Y RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS DEL MUNICIPIO.
+### CAPITULO UNICO. DE LAS PROTESTAS, LICENCIAS, RENUNCIAS Y RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS DEL MUNICIPIO
 
 ###### ARTICULO 138.
 
@@ -1557,15 +1577,15 @@ B.O. 21 DE AGOSTO DE 1989.
 
 ###### ARTICULO PRIMERO.
 
-SE ADICIONA EL ARTICULO 9º, DE LA LEY NUMERO 43 ORGANICA DE ADMINISTRACION MUNICIPAL, PARA INCLUIR EL NOMBRE DEL MUNICIPIO GENERAL PLUTARCO ELIAS CALLES, ENTRE LOS MUNICIPIOS DE FRONTERAS Y GRANADOS, QUEDANDO EL RESTO DE SU TEXTO EN LOS MISMOS TERMINOS QUE ACTUALMENTE APARECE VIGENTE.
+Se adiciona el articulo 9º, de la ley numero 43 Orgánica de Administración Municipal, para incluir el nombre del municipio General Plutárco Elías Calles, entre los municipios de fronteras y granados, quedando el resto de su texto en los mismos términos que actualmente aparece vigente.
 
 ###### ARTICULO SEGUNDO.
 
-EL EJECUTIVO DEL ESTADO PROCEDERA EN LA FECHA EN QUE ENTRE EN VIGOR LA PRESENTE LEY A NOMBRAR UN CONCEJO MUNICIPAL, QUE DURARA EN FUNCIONES HASTA EN TANTO SE REALICEN LAS PROXIMAS ELECCIONES ORDINARIAS DEL ESTADO DE SONORA, EN EL CITADO MUNICIPIO GENERAL DE PLUTARCO ELIAS CALLES.
+El ejecutivo del estado procederá en la fecha en que entre en vigor la presente ley a nombrar un concejo municipal, que durara en funciones hasta en tanto se realicen las próximas elecciones ordinarias del estado de sonora, en el citado Municipio General de (sic) Plutárco Elías Calles.
 
 ###### ARTICULO TERCERO.
 
-ESTA LEY ENTRARA EN VIGOR TREINTA DIAS DESPUES DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
+Esta ley entrará en vigor treinta días después de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 B.O. 18 DE JULIO DE 1991.
 
@@ -1680,3 +1700,9 @@ Con efectos hasta la conclusión del actual período constitucional, la autorida
 ###### ARTICULO OCTAVO.
 
 Las acciones del Concejo Municipal se apegarán, en lo que corresponda y sea factible, al Plan Municipal de Desarrollo del Municipio de Guaymas y los programas de él derivados.
+
+B.O. 28 DE JUNIO DE 1999.
+
+PRIMERO.- Los trámites que se estén llevando a cabo en las instancias correspondientes relacionados con la autorización de los bienes muebles de dominio privado a que se refiere el artículo 106 de la Ley Orgánica de Administración Municipal, que estuvieren pendientes de resolverse hasta antes de la entrada en vigor de la presente Ley, deberán de continuarse hasta su terminación, conforme al contenido de las disposiciones anteriores que se reforman.
+
+SEGUNDO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
