@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1996-05-24"
+last_updated: "1996-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 1996.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 1996.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -268,17 +268,25 @@ El sufragio popular es un derecho y una obligación inherente a la calidad del c
 
 La función electoral corresponde al Estado, quien la desempeñará a través de un organismo público descentralizado integrado mayoritariamente por consejeros ciudadanos y representantes de los partidos políticos, con la concurrencia de los poderes Legislativo y Ejecutivo y será la máxima autoridad electoral cuyos principios rectores serán la certeza, legalidad, imparcialidad, objetividad y profesionalismo. Tendrá a su cargo la preparación, organización, desarrollo y vigilancia de los procesos electorales, sesionará públicamente, tomará sus acuerdos en forma colegiada, será independiente en sus resoluciones, autónomo en su administración y contará con personalidad jurídica y patrimonio propios.
 
-Los consejeros ciudadanos del organismo público encargado de la función electoral, serán electos por el voto de cuando menos las dos terceras partes de los miembros presentes del Congreso. La ley señalará las reglas y el procedimiento correspondiente.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1996)</small>
 
-La calificación de las elecciones de diputados corresponde exclusivamente al organismo responsable de los comicios en el Estado, el que deberá emitir la declaratoria de validez o nulidad en su caso, estando obligado a considerar y acatar las sentencias previas del Tribunal Estatal Electoral. La calificación de las elecciones de Gobernador y ayuntamientos se hará en los términos de la fracción XV, del artículo 67 de esta Constitución.
+Los Consejeros Ciudadanos del organismo público encargado de la función electoral serán electos por el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, de entre los propuestos por los Diputados de los diferentes partidos representados en el propio Congreso. La ley señalará las reglas y el procedimiento correspondiente.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1996)</small>
+
+La calificación de las elecciones de Diputados corresponde exclusivamente al organismo responsable de los comicios en el Estado, el que deberá emitir la declaratoria de validez o nulidad en su caso, estando obligado a considerar y acatar las sentencias que emita el Tribunal Superior de Justicia, en materia electoral. La calificación de las elecciones de Gobernador y Ayuntamiento se hará en los términos de la fracción XV, del artículo 67 de esta Constitución.
 
 Es derecho de los ciudadanos constituir y pertenecer a partidos políticos, éstos son de interés público, gozarán de prerrogativas incluyendo la de financiamiento, tendrán derecho a estar representados en todos los organismos electorales, serán corresponsables de la función electoral, expresan el pluralismo ideológico dentro de los principios de un régimen democrático y en su actuación no tendrán más límite que el respeto a la Constitución y a las leyes que de ella emanen.
 
-Los actos y acuerdos de los organismos electorales podrán ser recurridos únicamente por los partidos políticos a través de medios de impugnación que deberán servir para garantizar la legalidad del proceso electoral, de ellos podrán conocer los propios organismos electorales y el Tribunal Estatal Electoral que resolverá en las instancias en los términos que señale la ley.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1996)</small>
 
-El Tribunal Estatal Electoral será la máxima autoridad jurisdiccional electoral, sus sentencias serán últimas, definitivas e inatacables, independiente en sus resoluciones y autónomo en su funcionamiento.
+Los Consejeros Ciudadanos del organismo público encargado de la función electoral serán electos por el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, de entre los propuestos por los Diputados de los diferentes partidos representados en el propio Congreso. La ley señalará las reglas y el procedimiento correspondiente.
 
-Los magistrados del Tribunal Estatal Electoral deberán satisfacer los requisitos que señale la ley para su designación y no podrán ser menores a los que señala esta Constitución para ser Magistrado del Tribunal Superior de Justicia del Estado. Deberán ser electos por el voto de cuando menos las dos terceras partes de los miembros presentes del Congreso, a propuesta del Gobernador del Estado. La ley señalará la reglas y el procedimiento correspondiente.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1996)</small>
+
+La calificación de las elecciones de Diputados corresponde exclusivamente al organismo responsable de los comicios en el Estado, el que deberá emitir la declaratoria de validez o nulidad en su caso, estando obligado a considerar y acatar las sentencias que emita el Tribunal Superior de Justicia, en materia electoral. La calificación de las elecciones de Gobernador y Ayuntamiento se hará en los términos de la fracción XV, del artículo 67 de esta Constitución.
+
+> <small>(DEROGADO NOVENO PARRAFO, P.O. 28 DE JUNIO DE 1996)</small>
 
 El Congreso del Estado expedirá la Ley Reglamentaria en la que se determinarán los procedimientos, la forma y términos del ejercicio de los derechos y el cumplimiento de las obligaciones en materia electoral.
 
@@ -328,31 +336,49 @@ Se deposita el ejercicio del Poder Legislativo en una Asamblea que se denominar�
 
 El Congreso del Estado se renovará en su totalidad cada tres años y se integrará con veinte diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales uninominales y hasta doce diputados electos bajo los principios de representación mínima y proporcional que disponga la ley.
 
-Para la elección de los diputados de representación, se constituirán hasta dos circunscripciones electorales plurinominales en el Estado.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1996)</small>
+
+Para la elección de los diputados de representación, se constituirán dos circunscripciones electorales plurinominales en el Estado.
 
 Por cada diputado local propietario, deberá elegirse un suplente.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1996)</small>
 
 ###### Artículo 34.
 
-La demarcación de los veinte distritos electorales, será la que señale la ley. En su configuración se deberá procurar la integración geográfica de regiones socioeconómicas con características similares y la inclusión de una población equilibradamente distribuida, la que en ningún caso podrá ser menor al 35% ni mayor al 6.5% del total de los electores del Estado.
+La demarcación de los veinte distritos electorales se establecerá conforme a los requisitos que estipule la ley de la materia. En su configuración se deberá procurar la integración geográfica de regiones socioeconómicas con características similares y la inclusión de una población equilibradamente distribuida.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1996)</small>
 
 ###### Artículo 35.
 
-Ningún partido político podrá contar con más de veinte diputados cualquiera que sea el principio bajo el cual hayan sido electos.
+Ningún partido político o coalición podrá contar con más de veinte diputados.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1996)</small>
+
+En el caso de que el partido político o coalición con mayor votación no lograre el triunfo en los veinte distritos electorales uninominales. Sólo podrá acceder a un máximo de diecinueve diputados, cualquiera que sea el principio bajo el cual hayan sido electos.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
 
 Para tener derecho a participar en la asignación de diputados por los principios de representación los partidos políticos deberán satisfacer los siguientes requisitos:
 
 1.- No haber alcanzado la totalidad de las diputaciones de mayoría relativa.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1996)</small>
+
+En el caso de las diputaciones de representación mínima, no haber alcanzado ninguna diputación de mayoría relativa en su respectiva circunscripción.
+
 2.- Haber registrado y mantenido hasta el día de la elección candidatos propios en cuando menos diez distritos uninominales.
 
-3.- Haber alcanzado como mínimo el 1.5% de la votación activa en el Estado.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1996)</small>
+
+3.- Haber alcanzado como mínimo un 3% de la votación efectiva en el Estado.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
 
 Cubiertos los requisitos anteriores las diputaciones serán distribuidas conforme a las fórmulas de asignación que determine la legislación reglamentaria.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
 
 Los diputados, siendo todos representantes populares, tendrán los mismos derechos y obligaciones.
 
@@ -1530,7 +1556,9 @@ Cada municipio estará administrado por un ayuntamiento que será renovado en su
 
 Los Ayuntamientos se integrarán con un presidente, un síndico y el número de regidores que determine la ley. Así mismo, cada ayuntamiento contará con un número de suplentes que deberá ser igual al de los regidores y síndico, para cubrir las ausencias de éstos conforme a la ley.
 
-La Ley introducirá el principio de representación proporcional en la elección de ayuntamientos de todos los municipios del Estado.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1996)</small>
+
+La ley introducirá los principios de representación mínima y proporcional en la elección de Ayuntamientos de todos los municipios del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1724,7 +1752,9 @@ Cuando el Presidente Municipal electo no se presente a rendir protesta, el Congr
 
 En caso de que no se presenten a rendir protesta el Síndico y los regidores electos, el Congreso mandará llamar a quienes figuren en la lista de suplentes, y de entre éstos designará a quienes deban de cubrir las vacantes.
 
-Cuando el regidor de representación proporcional no se presente a tomar posesión de su cargo, el Congreso del Estado mandará llamar al que siga en el orden dentro de la lista de regidores que figuraron en la planilla que fue propuesta por el partido político de que se trate.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1996)</small>
+
+Cuando un regidor de representación mínima o proporcional no se presente a tomar posesión de su cargo, el Congreso del Estado mandará llamar al que siga en el orden dentro de la lista de regidores que figuraron en la planilla que fue propuesta por el partido político o coalición de que se trate.
 
 En caso de que la vacante se presente con posterioridad a la toma de protesta del Presidente, Síndico o alguno de los regidores de un Ayuntamiento, se estará a lo dispuesto en los párrafos anteriores.
 
@@ -2749,3 +2779,9 @@ P.O. 24 DE MAYO DE 1996.
 PRIMERO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+P.O. 28 DE JUNIO DE 1996.
+
+PRIMERO.- El presente decreto entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
