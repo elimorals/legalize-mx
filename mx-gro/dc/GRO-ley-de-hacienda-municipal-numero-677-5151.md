@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "1997-12-26"
+last_updated: "1998-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA MUNICIPAL NUMERO 677
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -327,11 +327,11 @@ Las infracciones al presente capítulo serán sansionadas (sic) de conformidad c
 
 Están obligados al pago del impuesto sobre adquisición de inmuebles establecido en esta sección, las personas físicas o morales que adquieran inmuebles que consisten en el suelo, o en el suelo y las construcciones adheridas a él ubicados en territorio del Estado, así como los derechos relacionados con los mismos, a que se refiere este gravamen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P. O. 22 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 28.
 
-Para los efectos de esta sección se entiende por adquisición la que se derive de:
+Para los efectos de este capítulo, se entiende por adquisición la que se derive de:
 
 > <small>(REFORMADA, P. O. 25 DE DICIEMBRE DE 1984)</small>
 
@@ -359,11 +359,13 @@ Se entenderá como cesión de derechos la renuncia de la herencia o legado efect
 
 X.- Enajenación a través de fideicomiso, según los siguientes casos:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1998)</small>
 
-a) En el acto de la constitución del fideicomiso si se designa fideicomisario sujeto distinto del fideicomitente y este se reserve o no el derecho a readquirir, del fiduciario los mismos bienes.
+a) En el acto de la Constitución de un fideicomiso en el cual se nombre un fideicomisario distinto al fideicomitente, siempre y cuando este último no tenga derecho a readquirir los bienes que formen parte del fideicomiso.
 
-b) En el acto en que el fideicomitente pierda el derecho de readquirir los bienes del fiduciario, si al constituirse el fideicomiso se hubiera establecido tal derecho.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1998)</small>
+
+b) En el acto en el que el fideicomitente o el fideicomisario cedan o pierdan sus derechos sobre los bienes inmuebles constituyentes del fideicomiso a favor de la fiduciaria o de cualquier persona.
 
 c) En el acto de designar fideicomisario si éste no se designó al constituirse el fideicomiso, siempre que dicha designación no recaiga en el propio fideicomitente.
 
@@ -962,3 +964,13 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y ocho.
+
+P.O. 25 DE DICIEMBRE DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de 1999.
+
+###### ARTICULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
