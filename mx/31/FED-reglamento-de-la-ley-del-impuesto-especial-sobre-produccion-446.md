@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-impuesto-especial-sobre-produccion-446
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-02-29"
-last_updated: "1984-02-29"
+last_updated: "1988-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1984-02-28"
 
 REGLAMENTO DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 1988.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 29 de febrero de 1984.
 
@@ -32,6 +32,12 @@ MIGUEL DE LA MADRID HURTADO, Presidente Constitucional de los Estados Unidos Mex
 REGLAMENTO DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS.
 
 ### CAPITULO I. Disposiciones Generales
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 1o-A.
+
+Para los efectos del artículo 2o., fracción I, inciso H), subinciso 2 de la Ley, a los cigarros populares que al 1o. de enero de cada año tengan como precio máximo al público el que anualmente señale el Congreso de la Unión, les será aplicable la tasa que dicho artículo establece, no obstante los incrementos que tengan con posterioridad a esa fecha.
 
 ###### ARTICULO 1o.
 
@@ -76,6 +82,12 @@ Para los efectos del artículo 6o. de la Ley, el contribuyente que reciba la dev
 También se expedirá nota de crédito en los casos en que no se hubiera enterado previamente el impuesto, excepto cuando se trate de descuentos que se concedan en el documento en que conste la operación.
 
 ### CAPITULO II. De la Enajenación
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 8o.-A.
+
+Para los efectos de la fracción VIII del artículo 8o. de la Ley, los productores que utilicen acohol como insumos para la elaboración de bebidas alcohólicas, a fin de obtener su registro deberán presentar a Azúcar, S. A. de C. V., un escrito en el que manifiesten las bebidas alcohólicas que elaboran, el número de registro de registro de esos productos ante la Secretaría de Salud, su volumen anual de producción, así como copia de su cédula de Registro Federal de Contribuyentes y de la última declaración del ejercicio del impuesto especial sobre producción y servicios. Tratándose del primer ejercicio en el que un conrtribuyente, inicie operaciones, deberá adjuntar copia de la solicitud de inscripción en el Registro de Contribuyentes y copia de la última declaración provisional del impuesto especial sobre producción y servicios que en su caso se hubiera presentado.
 
 ###### ARTICULO 8o.
 
@@ -138,3 +150,9 @@ Este Reglamento entrará en vigor en toda la República el día 1o. de marzo de 
 A partir del 1o. de marzo de 1984 se dejan sin fecto (sic), en lo que se opongan a este Reglamento, las disposiciones de carácter administrativo, reglas, consultas e interpretaciones de carácter general contenidas en circulares o publicadas en el Diario Oficial de la Federación, en materia del impuesto especial sobre producción y servicios.
 
 Dado en la residencia del Poder Ejecutivo Federal, a los veintiocho días del mes de febrero de mil novecientos ochenta y cuatro.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog F.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 30 DE JUNIO DE 1988.
+
+UNICO.- El presente Decreto entrará en vigor el 16 de julio de 1988.
