@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-vacaciones-para-los-miembros-del-ejercito-y-652"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-04-02"
-last_updated: "1984-04-02"
+last_updated: "1985-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=652&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1984-03-23"
 
 REGLAMENTO DE VACACIONES PARA LOS MIEMBROS DEL EJERCITO Y FUERZA AEREA MEXICANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 1985.
 
 Reglamento publicado en el Diario Oficial de la Federación, el día lunes 2 de abril de 1984.
 
@@ -79,21 +79,23 @@ Para el personal que conforme a presupuesto tenga derecho a raciones, es optativ
 
 Las vacaciones podrán ser suspendidas por necesidades del servicio a juicio del Alto Mando. Desaparecida la causa que motivó la suspensión podrán ser disfrutadas.
 
-### CAPITULO III. De los períodos de vacaciones
+### CAPITULO III. De los Períodos de Vacaciones
 
-###### ARTICULO 10o.
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 1985)</small>
 
-Los períodos de vacaciones se disfrutarán de la siguiente manera:
+ARTICULO 10/o.- Los períodos de vacaciones se disfrutarán de la siguiente manera:
 
-I. Los encuadrados en las oficinas de los órganos del Alto Mando y de la Administración Militar: 20 (veinte) días en dos períodos de 10 (diez) días en cada semestre en las fechas que el Alto Mando determine.
+I.- Los encuadrados en las oficinas de los Órganos del Alto Mando y de la Administración Militar 20 (veinte) días hábiles en dos períodos de 10 (diez) días cada semestre en las fechas que el Alto Mando determine.
 
-II. Al personal encuadrado en Instalaciones hospitalarias se les concederán 20 (veinte) días, 10 (diez) días en cada semestre.
+II.- Al personal encuadrado en instalaciones hospitalarias se le concederán 20 (veinte) días hábiles, 10 (diez) días en cada semestre.
 
-III. Al personal profesional y técnico de planta que preste sus servicios en instalaciones que por razón de sus labores esté expuesto en forma continua y permanente a emanaciones radioactivas, a cualquier otro tipo de substancias o elementos tóxicos o en servicios de atención para enfermos infecto-contagiosos que perjudiquen su salud, disfrutarán de 30 (treinta) días en 3 (tres) períodos anuales (cuatrimestrales).
+III.- Al personal profesional y técnico de planta que preste sus servicios en instalaciones que por razón de sus labores esté expuesto en forma continua y permanente durante un lapso de 4 (cuatro) meses o más a emanaciones radiactivas, a cualquier otro tipo de substancias o elementos tóxicos o en servicios de atención para enfermos infecto-contagiosos que perjudiquen su salud, disfrutarán de 30 (treinta) días hábiles en 3 (tres) períodos anuales (cuatrimestrales).
 
-IV. En las unidades del Servicio Militar Voluntario, los Generales, Jefes y Oficiales, gozarán de quince días de vacaciones consecutivos.
+IV.- En las unidades del Servicio Militar Voluntario, el personal de Generales, Jefes y Oficiales gozarán de 15 (quince) días hábiles en un solo período.
 
-V. El de tropa sólo tendrá derecho a diez días.
+El de tropa sólo tendrá derecho a 10 (diez) días hábiles.
+
+V.- Se considerarán como días hábiles, de lunes a viernes, descontándose los días festivos marcados por el Calendario Oficial.
 
 ### CAPITULO IV. Otros organismos
 
@@ -152,3 +154,9 @@ SEGUNDO.- Se abroga el Reglamento de Vacaciones para los Miembros del Ejército 
 TERCERO.- Quedan derogadas las demás disposiciones que se opongan al presente reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de marzo de mil novecientos ochenta y cuatro.- El Presidente de la República, Miguel de la Madrid H.- Rúbrica.- Cúmplase: El Secretario de la Defensa Nacional, Juan Arévalo Gardoqui.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 1 DE AGOSTO DE 1985.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
