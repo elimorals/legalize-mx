@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-los-cuerpos-de-seguridad-publica-para-el-7634"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-01-19"
-last_updated: "1984-11-02"
+last_updated: "1996-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LOS CUERPOS DE SEGURIDAD PUBLICA PARA EL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1996.
 
 Ley publicada en el Periódico Oficial, el miércoles 19 de enero de 1983.
 
@@ -523,11 +523,7 @@ d).- La Policía Rural, en su caso.
 
 ###### ARTICULO 69o.
 
-Serán considerados como auxiliares, además de los cuerpos señalados en el Artículo Segundo Transitorio, los grupos que previo acuerdo del C. Gobernador del Estado y el conocimiento del C. Director de Seguridad Publica se organicen por Bancos, Industrias y otras instituciones para su vigilancia interior y a su costa.
-
-También será considerado como auxiliar del servicio publico, toda aquella persona que ejerza función de vigilancia diurna o nocturna en establecimientos fabriles comerciales casa-habitación o de cualquier otra índole con absoluta independencia de su relación obrero-patronal.
-
-Para ejercer esta función, se requiere permiso especial, autorizado a través de la tarjeta credencial, por la Dirección de Seguridad Publica, quien tendrá un estricto control sobre los grupos de seguridad mencionados, con la facultad de cancelar dichas autorizaciones para el personal que haga mal uso de ellas, por su falta de preparación o responsabilidad comprobada en el manejo de personal, material, equipo y armamento. Además, deberán llenar a plena satisfacción los requisitos que la Dirección de Seguridad Publica imponga, haciendo de su conocimiento el armamento que utilicen.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE NUEVO LEON, P.O. 24 DE MAYO DE 1996)
 
 XIII.- NOMBRAMIENTOS, DEBERES, OBLIGACIONES
 
@@ -1084,3 +1080,15 @@ Los Municipios podrán convenir con el Estado, independientemente de la existenc
 P.O. 2 DE NOVIEMBRE DE 1984.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+P.O. 24 DE MAYO DE 1996.
+
+###### ARTICULO PRIMERO
+
+- La presente Ley entrará en vigor el día de su publicación en el periódico Oficial del Estado.
+
+###### ARTICULO TERCERO
+
+- Se deroga el Artículo 69 de la Ley Orgánica de los Cuerpos de Seguridad Pública del Estado de Nuevo León.
