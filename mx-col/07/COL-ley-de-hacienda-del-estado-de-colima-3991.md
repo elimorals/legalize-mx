@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "1997-04-12"
+last_updated: "1997-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1997.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -221,9 +221,11 @@ Los sujetos que obtengan ingresos de los mencionados en el presente capítulo en
 
 No están obligados a presentar declaración anual, los contribuyentes eventuales, y los pagos provisionales efectuados por estos se consideraran como definitivos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
 ###### Artículo 21.
 
-El calculo del impuesto se hará sobre el total de los ingresos que obtengan durante el año, a los cuales se podrán hacer las deducciones autorizadas en este capítulo, aplicándole al resultado la tasa que señala el Artículo 15 de esta Ley; contra el resultado anterior, se acreditará el importe de los pagos provisionales efectuados, en los términos de este capítulo; y el 10% del salario mínimo general de la Zona, elevado al año.
+El calculo del impuesto se hará sobre el total de los ingresos que obtengan durante el año, a los cuales se podrán hacer las deducciones autorizadas en este capítulo, aplicándole al resultado la tasa que señala el Artículo 15 de esta Ley; contra el resultado anterior, se acreditará el importe de los pagos provisionales efectuados, en los términos de este capítulo.
 
 ###### Artículo 22.
 
@@ -279,9 +281,13 @@ Los vehículos objeto de la transmisión, garantizaran preferentemente el pago d
 
 Para la recaudación de este impuesto, se observaran las siguientes reglas:
 
-I.- Las personas que realicen las operaciones de transmisión de la propiedad a que se refiere este capítulo, deberán manifestarlas ante la Receptoría de Rentas correspondiente dentro del término establecido por el Artículo 28, mediante declaración debidamente requisitada y firmada, en las formas aprobadas por la Secretaría de Finanzas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-II.- La Receptoría de Rentas, al recibir la declaración a que se refiere la fracción anterior y verificar su debida requisitación y firma, efectuará el cobro del impuesto; regresará al contribuyente copia de la declaración y sellará la factura o comprobante que ampare la propiedad del vehículo materia de la transmisión, anotando el número del recibo oficial y la fecha de pago del impuesto.
+I.- Las personas que realicen las operaciones de transmisión de la propiedad a que se refiere este capítulo, deberán manifestarlas ante la Receptoría de Rentas correspondiente dentro del término establecido por el Artículo 28, de esta Ley.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+II.- La Receptoría de Rentas, efectuará el cobro del impuesto expidiendo el recibo oficial correspondiente.
 
 III.- Las autoridades correspondientes no darán trámite a ninguna solicitud de alta, baja o traspaso de vehículos respecto de los cuales no se hubiera cubierto previamente el impuesto a que se refiere este capítulo. Si al solicitar cualquiera de los tramites a que se refiere el párrafo anterior, se llegare a descubrir que la fecha posible de la transmisión de la propiedad del vehículo, difiere aquella en que fue literalmente inscrita la leyenda de cesión, se tomará en cuenta para liquidar los impuestos, determinar y cobrar los recargos e imponer las sanciones que procedan; y
 
@@ -503,21 +509,23 @@ IV.- Por legalización de firmas, por cada una 1,800
 
 V.- Expedición de copias certificadas del Duplicado de Libros del Registro Civil, cada una 0.900
 
-VI.- Por la expedición de informes de actas del Registro Civil en el Archivo General correspondiente:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-a).- Hasta 1963, por cada año 0.045
+VI.- Por la expedición de informes de actas del Registro Civil en el Archivo General, por cada año 0.072
 
-b).- De 1963 a la fecha, por cada año 0.072
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-VII.- Por la expedición de constancias de inscripciones o no inscripciones de testamento 1.350
+VII.- Por la expedición de constancias de inscripciones o no inscripciones de testamento 1.500
 
-VIII.- Por la inscripción de avisos de otorgamiento de testamento 1.350
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+VIII.- Por la inscripción de avisos de otorgamiento de testamento 1.500
 
 IX.- Por certificados, por expedición de constancias y otros documentos 1.350
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-X.- Por servicio foráneo de la tramitación de la documentación de pasaporte 2.000
+X.- Por servicio foráneo de la tramitación de la documentación de pasaporte 1.750
 
 XI. Por autorización de Registros Extemporáneos 1,350
 
@@ -541,29 +549,31 @@ XVII.- Complementación de actas del Registro Civil 1,000
 
 XVIII.- Por solicitud de actas o constancias que obran en las oficinas registradoras de otras Entidades Federativas 2,700
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-XIX.- Por la autorización y registro correpondiente (sic) para prestar servicios privados de seguridad 68.000
+XIX.- Por la autorización y registro correspondiente para prestar servicios privados de seguridad 90.000
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-XX.- Por la revalidación anual de los servicios privados de seguridad 25.000
+XX.- Por la revalidación anual de los servicios privados de seguridad 40.000
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-XXI.- Por trámite de permiso para constituir sociedades, asociaciones y modificaciones de estatutos 2.000
+XXI.- Por trámite de permiso para constituir sociedades, asociaciones y modificaciones de estatutos 1.750
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-XXII.- Aviso de la utilización del permiso ante la Secretaría de Relaciones Exteriores 2.000
+XXII.- Aviso de la utilización del permiso ante la Secretaría de Relaciones Exteriores 1.750
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-XXIII.- Certificado de nacionalidad 2.000
+XXIII.- Certificado de nacionalidad 1.750
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 ###### Artículo 49.
 
-Por los servicios prestados en la Dirección de Seguridad Publica y Vialidad.
+Por los servicios prestados en la Dirección de Seguridad Pública.
 
 Numero de días de
 
@@ -571,17 +581,25 @@ salario mínimo
 
 I.- Almacenaje de vehículos en los depósitos de la Dirección, por día:
 
-a).- Camiones con capacidad de carga de 3,000 Kg. en adelante
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-y autobuses 0.450
+a).- Camiones con capacidad de carga de 3,000 Kg. en adelante y autobuses 0.550
 
-b).- Camiones con capacidad de carga menor a 3,000 Kg. 0.270
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-c).- Automóviles 0.180
+b).- Camiones con capacidad de carga menor a 3,000 Kg. 0.350
 
-d).- Motocicletas 0.090
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-e).- Bicicletas 0.045
+c).- Automóviles 0.250
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+d).- Motocicletas 0.100
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+e).- Bicicletas 0.050
 
 II.- Por servicios de grúa:
 
@@ -617,13 +635,25 @@ Numero de días de salario
 
 mínimo
 
-I.- Expedición de licencias para manejar vehículos de motor con vigencia de cuatro años:
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+I.- Expedición y reposición de licencia para manejar vehículos de motor con vigencia de cuatro años e identificaciones de choferes y conductores de vehículos de servicio público de pasajeros:
 
 a).- Automovilista 8.000
 
 b).- Chofer y conductor de servicios 5.830
 
 c).- Motociclista 3.239
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+d).- Expedición y/o refrendo anual de identificación de choferes y/o conductores de servicio público de pasaje 2.000
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+e).- La reposición de licencias para manejar vehículos de motor, será del equivalente al 50% del costo de la expedición.
+
+Los derechos consignados en el inciso d), deberán pagarse durante los meses de enero a junio.
 
 II.- Por expedición de concesión, cesión o traspaso de derecho, a vehículos de servicio público, conforme a la siguiente clasificación:
 
@@ -653,7 +683,27 @@ e).- Por cada vehículo exclusivo funerario 16.200
 
 f).- Motocarro o motocicleta de carga, para servicio turístico o para arrendamiento 3.250
 
-IV.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 1993)
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+IV.- Por la dotación de placas de circulación:
+
+a).- Vehículos de servicio particular, incluyendo tarjeta de circulación 13.000
+
+b).- Vehículos de servicio público, incluyendo tarjetas de circulación 13.000
+
+c).- Motocicletas, incluyendo tarjetas de circulación 3.000
+
+d).- Remolques 9.700
+
+e).- Placas de demostración 40.500
+
+f).- Renovación anual de tarjeta de circulación de motocicletas o su reposición 1.000
+
+g).- Reposición de tarjeta de circulación de automóviles y camiones 2.000
+
+h).- Renovación de tarjeta de circulación de automóviles y camiones 2.000
+
+Los derechos consignados en los incisos a), b), c), d) y f), tratándose de canje o renovación, por término del período de vigencia, deberán pagarse durante los meses de enero a marzo.
 
 V.- Por expedición de constancias, por cada una 1.000
 
@@ -883,7 +933,7 @@ g).- Expedición de copias fotostáticas simples de constancias de registro:
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO VI. Servicios Prestados por la Secretaría de Educación, Cultura y Deporte
+### CAPITULO VI. Servicios Prestados en la Secretaría de Educación
 
 ###### Artículo 53.
 
@@ -895,11 +945,19 @@ salario mínimo
 
 I.- Certificaciones y constancias, cuando para su expedición no se requiera búsqueda en los archivos 1.000
 
-II.- Certificaciones y constancias, cuando para su expedición se requiera búsqueda en los archivos 2.000
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+II.- Certificaciones y constancias, cuando para su expedición se requiera de búsqueda en los archivos y certificaciones por consultas relacionadas con el control vehicular, a otras entidades o agencias de vehículos.
 
 III.- Estacionamiento Constitución, por el derecho de uso:
 
-a).- Por la primera hora 0.180
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+a).- Por la primera hora:
+
+1.- Automóviles, camiones y motocarros 0.180
+
+2.- Motocicletas por cada hora 0.067
 
 b).- Por cada hora adicional 0.090
 
@@ -907,33 +965,13 @@ c).- Pensión mensual de vehículos, por cada uno y por mes calendario adelantad
 
 d).- Pensión mensual, de motocicletas, por cada una y por mes de calendario adelantado 4.500
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-IV.- Por dotación de placas de circulación:
+e).- Pensión mensual de vehículos propiedad o al servicio del Gobierno del Estado, por cada uno 6.667
 
-a).- Vehículos de servicio particular, incluyendo tarjeta de circulación 11.900
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-b).- Vehículos de servicio público, incluyendo tarjeta de circulación 12.400
-
-c).- Motocicletas, incluyendo tarjeta de circulación
-
-1.- Hasta 200 c.c. 1.600
-
-2.- De mas de 200 c.c. 3.000
-
-d).- Placas de demostración 40.500
-
-e).- Renovación anual de calcomanía fiscal vehícular o su reposición 6.000
-
-f).- Renovación anual de tarjeta de circulación de motocicletas o su reposición 1.000
-
-g).- Remolques 9.700
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1995)</small>
-
-h).- Reposición de tarjeta de circulación de automóviles y camiones 1.600
-
-Los derechos consignados en los incisos a), b), c) y e), tratándose de canje o renovación, por termino del período de vigencia, así como los previstos en el inciso f), deberán pagarse durante los meses enero a marzo.
+IV.- Por la renovación anual de la calcomanía fiscal vehicular o su reposición 7.000
 
 ###### Artículo 54.
 
@@ -967,25 +1005,29 @@ d).- Servicio de copias a Dependencias Oficiales o particulares de planos no cat
 
 2.- Si proporciona papel heliográfico, por m2 0.450
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-e).- Fotos aéreas, más costo de laboratorio, según tamaño 20.000
+e).- Fotos aéreas, más costo de laboratorio según tamaño 10.000
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-f).- Plano manzanero 1:500 graficado y certificado 15.000
+f).- Plano manzanero 1:500, graficado y certificado 5.000
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-g).- Plano general a diferentes escalas:
+g).- Plano general a diferentes escalas
 
-1.- Graficado y certificado, incluyendo, manzanas, predios y calles 30.000
+1.- Graficado y certificado, incluyendo, manzanas, predios y calles 8.000
 
-2.- Por cada capa adicional al plano general 10.000
+2.- Por cada capa adicional al plano general 5.000
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-h).- Formato de fusión o subdivisión debidamente requisitado 10.000
+h).- Formato de fusión o subdivisión debidamente requisitado 5.000
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+i).- Por copia fotostática de cada fotografía de contacto en formato 23x23cm. escala 1:4500 1.000
 
 II.- Certificaciones:
 
@@ -1093,6 +1135,26 @@ Más, por cada kilometro recorrido 0.090
 
 f).- Por asignar coordenadas geodésicas para la orientación de fraccionamientos 10.000
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+g).- Por medición de terreno y expedición de planos a escala, de la medición efectuada.
+
+1.- Tratándose de predios urbanos:
+
+De 0 a 120.00 M2 5.000
+
+De 120.01 a 200.00 M2 6.000
+
+De 200.01 a 300.00 M2 7.000
+
+De 300.01 a 500.00 M2 7.500
+
+De 500.01 a 1,000.00 M2 8.500
+
+De 1,000.01 a 2,000.00 M2 11.000
+
+De 2,000.01 en adelante 15.000
+
 IV.- Fusiones, subdivisiones, cesiones y registros:
 
 a).- Por la fusión o subdivisión de predios, cuando el valor catastral de los predios fusionados o subdivididos sea de:
@@ -1125,6 +1187,20 @@ a).- Refrendo anual 10.00
 
 VI.- Por modificar registros manifestados erróneamente, a solicitud del interesado 1.800
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+VII.- Por cartografía a escala 1:1,000 en forma digital de la zona urbana de las cabeceras municipales de: Armería, Colima, Manzanillo, Tecomán y Villa de Alvarez
+
+a).- Archivos DXF (manzanas, predios y nomenclaturas) 67.000
+
+b).- Archivos DXF (manzanas, predios, construcciones, nomenclatura, cotas fotogramétricas en coordenadas Universal Transversal de Mercator 110.000
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+VIII.- Por cartografía a escala 1:10,000 en formato digital de la zona urbana de las cabeceras municipales de: Armería, Colima, Manzanillo, Tecomán y Villa de Alvarez
+
+a).- Archivos DXF (manzanas, predios, construcciones, nomenclatura de calles, hidrografía, vías de comunicación, cotas fotogramétricas en coordenadas Universal Transversal de Mercator) 133.000
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO VII. Servicios Prestados por la Secretaría de Salud y Bienestar Social
@@ -1141,81 +1217,149 @@ I.- Verificación de congruencia de los dictámenes de vocación del suelo:
 
 a).- Para el aprovechamiento urbano del suelo que implique la transformación del terreno rústico en urbanizado 20.000
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
 b).- Para la relotificación de predios urbanos:
 
-1.- Popular 15.000
+1.- Habitacional densidad baja 50.000
 
-más, por cada lote modificado 1.000
+más, por cada lote producto de la relotificación 3.000
 
-2.- Media 40.000
+2.- Habitacional densidad media 35.000
 
-más, por cada lote modificado 1.500
+más, por cada lote producto de la relotificación 2.000
 
-3.- Granjas 20.000
+3.- Habitacional densidad alta 15.000
 
-más, por cada lote modificado 1.000
+más, por cada lote producto de la relotificación 1.000
 
-4.- Industrial 20.000
+4.- Mixto de barrio, corredor mixto y mixto central, densidad baja 60.000
 
-más, por cada lote modificado 1.500
+más, por cada lote producto de la relotificación 3.000
 
-5.- Residencial campestre 80.000
+5.- Mixto de barrio, corredor mixto y mixto central, densidad media 40.000
 
-más, por cada lote modificado 2.500
+más, por cada lote producto de la relotificación 2.000
 
-6.- Residencial 65.000
+6.- Mixto de barrio, corredor mixto y mixto central, densidad alta 20.000
 
-más, por cada lote modificado 2.000
+más, por cada lote producto de la relotificación 1.000
 
-7.- Comercio 30.000
+7.- Comercial y de servicios de barrio, corredor comercial y de servicios central, intensidad baja 70.000
 
-más, por cada lote modificado 1.500
+más, por cada lote producto de la relotificación 4.000
 
-8.- Turísticos 70.000
+8.- Comercial y de servicios de barrio, corredor comercial y de servicios central, densidad media 50.000
 
-más, por cada lote modificado 2.500
+más, por cada lote producto de la relotificación 3.000
 
-9.- Otros 40.000
+9.- Comercial y de servicios de barrio, corredor comercial y de servicios central, densidad alta 30.000
 
-más, por cada lote modificado 1.500
+más, por cada lote producto de la relotificación 2.000
+
+10.- Comercial y de servicios regional 75.000
+
+más, por cada lote producto de la relotificación 4.000
+
+11.- Servicios a la industria y el comercio 60.000
+
+más, por cada lote producto de la relotificación 3.000
+
+12.- Industrial 30.000
+
+más, por cada lote producto de la relotificación 1.500
+
+13.- Habitacional campestre 80.000
+
+más, por cada lote producto de la relotificación 5.000
+
+14.- Granjas y huertos 60.000
+
+más, por cada lote producto de la relotificación 3.000
+
+15.- Turístico densidad baja 90.000
+
+más, por cada lote producto de la relotificación 5.000
+
+16.- Turístico densidad media 70.000
+
+más, por cada lote producto de la relotificación 4.000
+
+17.- Turístico densidad alta 50.000
+
+más, por cada lote producto de la relotificación 3.000
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 c).- Para la subdivisión de predios urbanos:
 
-1.- Popular 2.000
+1.- Habitacional densidad baja 9.000
 
-más, por cada parte en la que se subdivida el inmueble 1.000
+más, por cada lote producto de la relotificación 4.500
 
-2.- Media 4.000
+2.- Habitacional densidad media 4.000
 
-más, por cada parte en la que se subdivida el inmueble 2.000
+más, por cada lote producto de la relotificación 2.000
 
-3.- Granjas 3.000
+3.- Habitacional densidad alta 2.000
 
-más, por cada parte en la que se subdivida el inmueble 1.500
+más, por cada lote producto de la relotificación 1.000
 
-4.- Industrial 16.000
+4.- Mixto de barrio, corredor mixto y mixto central, densidad baja 10.000
 
-más, por cada parte en la que se subdivida el inmueble 8.000
+más, por cada lote producto de la relotificación 5.000
 
-5.- Residencial campestre 12.000
+5.- Mixto de barrio, corredor mixto y mixto central, densidad media 6.000
 
-más, por cada parte en la que se subdivida el inmueble 5.000
+más, por cada lote producto de la relotificación 3.000
 
-6.- Residencial 9.000
+6.- Mixto de barrio, corredor mixto y mixto central, densidad alta 3.000
 
-más, por cada parte en la que se subdivida el inmueble 4.500
+más, por cada lote producto de la relotificación 1.500
 
-7.- Comercio 12.000
+7.- Comercial y de servicios de barrio, corredor comercial y de servicios central, densidad baja 14.000
 
-más, por cada parte en la que se subdivida el inmueble 6.000
+más, por cada lote producto de la relotificación 7.000
 
-8.- Turísticos 20.000
+8.- Comercial y de servicios de barrio, corredor comercial y de servicios central, densidad media 10.000
 
-más, por cada parte en la que se subdivida el inmueble 10.000
+más, por cada lote producto de la relotificación 5.000
 
-9.- Otros 8.000
+9.- Comercial y de servicios de barrio, corredor comercial y de servicios central, densidad alta 6.000
 
-más, por cada parte en la que se subdivida el inmueble 4.000
+más, por cada lote producto de la relotificación 3.000
+
+10.- Comercial y de servicios regional 15.000
+
+más, por cada lote producto de la relotificación 7.500
+
+11.- Servicios a la industria y el comercio 12.000
+
+más, por cada lote producto de la relotificación 6.000
+
+12.- Industrial 6.000
+
+más, por cada lote producto de la relotificación 3.000
+
+13.- Habitacional campestre 15.000
+
+más, por cada lote producto de la relotificación 7.500
+
+14.- Granjas y huertos 12.000
+
+más, por cada lote producto de la relotificación 6.000
+
+15.- Turístico densidad baja 18.000
+
+más, por cada lote producto de la relotificación 9.000
+
+16.- Turístico densidad media 14.000
+
+más, por cada lote producto de la relotificación 7.000
+
+17.- Turístico densidad alta 10.000
+
+más, por cada lote producto de la relotificación 5.000
 
 d).- Para modificación, demolición o ampliación de inmuebles del Patrimonio Urbano Arquitectónico 10.000
 
@@ -1285,7 +1429,7 @@ I.- Manutención por cada cabeza de ganado recogido en la vía pública, cada d�
 
 II.- Por cabeza de ganado recogido de la vía pública y trasladado a los lugares destinados para su encierro 10.000
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO UNICO
 
@@ -1356,6 +1500,10 @@ a).- Bachillerato:
 1.- Primera oportunidad 1.350
 
 2.- Segunda oportunidad 1.799
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+3.- Tercera oportunidad 2.000
 
 b).- Licenciatura:
 
@@ -1453,7 +1601,7 @@ V.- Ingreso a la Zona de Bosque 0.045
 
 ###### Artículo 62.
 
-(DEROGADO, P.O. 27 DE JULIO DE 1996)
+(DEROGADO, P.O. 27 DE JULIO DE 1996)]
 
 (REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
 
@@ -1573,7 +1721,7 @@ Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Es
 
 I.- Recargos a razón de 3% mensual sobre saldos insolutos en los casos de prórrogas para el pago de créditos fiscales; en el pago extemporáneo de los mismos, se aplicará la tasa del 4.5% por cada mes o fracción, desde la fecha de su exigibilidad.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1997)
 
 II.- Reintegros e indemnizaciones.
 
@@ -1744,3 +1892,23 @@ Se autoriza al Instituto Colimense de la Juventud y el Deporte, a redondear los 
 P.O. 12 DE ABRIL DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+Los contribuyentes del Impuesto sobre Ejercicio de Profesiones, no estarán obligados a presentar la declaración del ejercicio de 1997.
+
+###### ARTICULO SEGUNDO.
+
+Para determinar las contribuciones que se establecen en esta Ley, se considerarán inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará de la siguiente forma:
+
+De 1 hasta 25 centavos a la unidad inmediata anterior.
+
+De 26 hasta 75 centavos a la media unidad del peso.
+
+De 76 centavos en adelante a la unidad inmediata superior.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto entrará en vigor el día 1o. de enero de 1998, previa su publicación en el Periódico Oficial "El Estado de Colima".
