@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1994-05-01"
+last_updated: "1994-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 1994.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -61,17 +61,17 @@ CONSTITUCION POLITICA DEL ESTADO DE DURANGO
 
 En el Estado de Durango todas las personas gozan de los derechos públicos individuales y de los derechos públicos sociales que la Constitución Federal les otorga, los que no podrán suspenderse ni restringirse si no en los casos y condiciones previstos en la misma. Disfrutan además de las garantías que esta Constitución establece.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 2.
 
-Queda prohibida toda clase de servidumbre que implique la injusta explotación o menoscabo de la dignidad de los trabajadores.
+En el Estado de Durango queda prohibida toda clase de servidumbre que implique la explotación o menoscabo de la dignidad de los trabajadores; las leyes reconocerán la diversidad cultural y protegerán y promoverán el desarrollo de las etnias duranguenses, de sus lenguas, valores culturales, usos, costumbres, recursos y formas de organización social.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 3.
 
-En el Estado de Durango, toda persona tiene derecho a la libertad, la seguridad personal, la habitación, el trabajo y la educación.
+En el Estado de Durango, toda persona tiene derecho a la libertad, la seguridad personal, un medio ambiente sano, vivienda digna y decorosa, adecuada a las necesidades del hogar, al trabajo y a la educación, en el caso de las etnias duranguenses, esta será bilingüe y respetando sus costumbres y tradiciones.
 
 > <small>(REFORMADO, P.O. 1 DE MAYO DE 1994)</small>
 
@@ -581,11 +581,11 @@ Ninguna iniciativa que sea desechada por el Congreso podrá ser presentada de nu
 
 SECCION D.- DE LAS FACULTADES DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 55.
 
-El Congreso tiene facultades para legislar en todo aquello que no está expresamente establecido como atribución del Congreso de la Unión o de alguna de sus Cámaras y además para:
+El Congreso tiene facultades para legislar en todo aquello que no esté expresamente establecido como atribución del Congreso de la Unión o de alguna de sus Cámaras y además para:
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
 
@@ -697,9 +697,7 @@ XXVI.- Decretar amnistías; conceder indultos en los casos que señala la Legisl
 
 XXVII.- Autorizar al Ejecutivo y a los Ayuntamientos para la enajenación de bienes inmuebles propiedad del Estado o Municipales respectivamente. En el caso de venta esta deberá efectuarse en pública subasta y al mejor postor, teniendo como base su valor real y con expresa prohibición de que se finque a favor de un funcionario público federal, estatal o municipal, de sus parientes consanguíneos en línea recta sin Iimitación de grado o transversal hasta el cuarto grado, o de sus parientes por afinidad, o consanguineos de estos hasta el tercer grado;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-XXVIII.- Declarar electos a los candidatos a Senadores que hubieren obtenido la mayoría de los votos emitidos;
+XXVIII.- (DEROGADA, P.O. 17 DE JULIO DE 1994)
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
 
@@ -745,7 +743,11 @@ XXXVI.- Recibir las declaraciones y resoluciones de las Cámaras de Diputados y 
 
 > <small>(ADICIONADA, P.O. 25 DE JULIO DE 1993)</small>
 
-XXXVII.- El Congreso del Estado, a solicitud de una cuarta parte de sus miembros, podrá citar a los Secretarios del Despacho del Ejecutivo, al Procurador de Justicia y a los titulares de los Organismos Públicos Descentralizados, durante el Primer Período de sesiones del ejercicio legal correspondiente, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, debiendo enviarle citatorio, con la anticipación razonable, y haciéndole saber el motivo exacto de su comparecencia.
+XXXVII.- El Congreso del Estado, a solicitud de una cuarta parte de sus miembros, podrá citar a los Secretarios del Despacho del Ejecutivo, al Procurador de Justicia y a los titulares de los Organismos Públicos Descentralizados, durante el Primer Período de sesiones del ejercicio legal correspondiente, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, debiendo enviarle citatorio, con la anticipación razonable, y haciéndole saber el motivo exacto de su comparecencia;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 1994)</small>
+
+XXXVIII.- Expedir leyes para la conservación, educación e instrucción de los grupos étnicos del Estado.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1009,7 +1011,9 @@ XXII.- Declarar la utilidad pública y decretar la expropiación de conformidad 
 
 XXIII.- Representar a la Hacienda Pública, pudiendo, en los casos que lo estime conveniente delegar esa representación y celebrar convenios de coordinación con las autoridades hacendarias federales;
 
-XXIV.- Fomentar la educación popular, las actividades deportivas y el mejoramiento moral y material de la colectividad;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 1994)</small>
+
+XXIV.- Fomentar la educación popular, las actividades deportivas y el mejoramiento moral y material de la colectividad, sustentando siempre los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
 
 XXV.- Dictar medidas correspondientes para la organización del sistema penitenciario sobre la base de la educación y del trabajo como medios de rehabilitación del delincuente;
 
@@ -2178,5 +2182,17 @@ El presente Decreto entrará en vigor a partir del 1o. de Septiembre de 1997.
 Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 1 DE MAYO DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JULIO DE 1994.
+
+DECRETO No. 360.
+
+U N I C O.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JULIO DE 1994.
+
+DECRETO No. 361.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
