@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-26316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-30"
-last_updated: "2002-08-30"
+last_updated: "2004-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PUBLICO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 30 de agosto de 2002.
 
@@ -125,6 +125,10 @@ XXVI.- Tarifa Preferencial.- Aquella que implica un cincuenta por ciento de desc
 
 XXVII.- Horario.- Lapso de tiempo dentro del cual se deberá dar inicio y término a la prestación del servicio público de transporte de pasajeros.
 
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+XXVIII.- Base de Radio Taxi.- Es el espacio en propiedad privada, autorizado por el Sistema, para estacionar vehículos de alquiler no sujetos a itinerario, en donde el público usuario pueda mediante llamada telefónica, solicitar el servicio de transporte de personas en su modalidad de radio taxi.
+
 ###### ARTÍCULO 3.
 
 Para efectos de la aplicación e interpretación del presente Reglamento, se establecen los siguientes conceptos:
@@ -141,7 +145,9 @@ V.- Bahía.- Es el espacio asignado para la realización de las maniobras de asc
 
 VI.- Banderazo.- Cobro inicial y de partida que efectúan las unidades prestadoras del servicio de transporte de alquiler sin itinerario fijo.
 
-VII.- Bitácora.- Cuaderno o libreta destinada para describir en ella el origen, destino y usuario del servicio que se va a prestar, para el caso de las modalidades de taxi de sitio.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+VII.- Bitácora.- Cuaderno o libreta destinada para describir en ella el origen, destino y usuario del servicio que se va a prestar, para el caso de la modalidad de radio taxi.
 
 VIII.- Boleto.- Es el recibo que el operador deberá dar obligatoriamente al pasajero cuando este aborde la unidad, previo pago de la tarifa autorizada, el cual lo protege en caso de algún percance durante el recorrido.
 
@@ -230,6 +236,10 @@ XLIX.- Usuario.- Persona física o moral que utiliza los servicios de transporte
 L.- Vehículo o unidad.- Es el medio de propulsión en el cual se transportan personas o bienes.
 
 LI.- Vialidad.- Es el sistema de vías públicas utilizadas para él tránsito en el Municipio.
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+LII.- Punto estratégico.- Es el espacio en propiedad privada o en la vía publica, autorizado por el Sistema previo cumplimiento de los requisitos correspondientes, para que se estacionen los vehículos destinados al servicio de transporte de alquiler en la modalidad de radio taxi, en espera de la instrucción de la central de la base para la prestación de un nuevo servicio.
 
 #### SECCION II
 
@@ -789,7 +799,11 @@ B1).- Con Itinerario fijo: También denominados “taxi de ruta”, estos operan
 
 B2).- Sin itinerario fijo: Son los que se contratan por viaje o por tiempo determinado, sujetos a tarifa variable regulada por taxímetro y el pago del llamado banderazo, o por tarifa fija, en función de la distancia recorrida según la zona o sector hacia donde se traslade al usuario conforme lo establezca para cada caso el Sistema; en esta modalidad se identifican dos tipos o categorías de taxi:
 
-B2.1) Taxi Libre.- Es aquél que recorre las vialidades en busca de usuarios a quienes prestar el servicio, y que puede ser abordado en cualquier lugar y horario donde se le requiera, respetando las rutas autorizadas para los taxis con itinerario fijo. Este tipo de servicio podrá contar con sistema de comunicación para hacer más accesible su contratación, instalado y operado desde una base que les servirá como punto físico de referencia, abastecimiento o estacionamiento.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+B2.1) Radio Taxi.- Es aquél que se establece para su explotación en propiedad privada que se denomina base, a donde el público usuario puede mediante llamada telefónica solicitar el servicio, hacia el destino que le solicite. Dicho servicio se prestará exclusivamente de la llamada del usuario, canalizada por medio de la base central al radio móvil del vehículo, respetando el servicio que se presta sobre las rutas, sitios y terminales autorizadas para el servicio público de pasajeros de ruta fija, sin poder abordar en cualquier lugar.
+
+El servicio de Radio Taxi se prestará en vehículo tipo sedan, de cuatro puertas, con aire acondicionado y capacidad máxima de hasta cinco ocupantes, el cual deberá de ser de modelo no mayor a los cuatro años de antigüedad a la fecha que se encuentren operando.
 
 B2.2) Taxi de Sitio.- Es aquél que se establece para su explotación en lugares determinados de la vía pública o en propiedad privada que se denominan sitios, tales como centros comerciales, restaurantes, hoteles, bares, terminales de transporte, centros turísticos o de espectáculos, etc., a donde el usuario debe acudir para contratar el servicio, hacia el destino que solicite.
 
@@ -2217,57 +2231,131 @@ Cuando los pasajeros de taxis, abandonen momentáneamente el vehículo alquilado
 
 En el caso de que el operador sea requerido para esperar a los pasajeros en lugares en los que el estacionamiento sea de duración limitada, podrá reclamar de éstos el importe del servicio efectuado, sin obligación de su parte de continuar la prestación del mismo.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 214.
 
-Para obtener la autorización para el establecimiento de un Sitio, deberá presentarse en las oficinas del Sistema, solicitud por escrito acompañándola en original y copia de la siguiente documentación:
+Para obtener la autorización para el establecimiento de un sitio taxi, deberá presentarse en las oficinas del Sistema, solicitud por escrito acompañándola en original y copia de la siguiente documentación:
 
-I.- Nombre completo y dirección del titular del sitio y el acta constitutiva de la persona moral;
+I.- Nombre completo y dirección del titular del sitio de taxi y el acta constitutiva de la persona moral;
 
-II.- Informar sobre la forma y condiciones en que se llevará a cabo el servicio;
+II.- El solicitante deberá tener permiso para prestar el servicio público de alquiler en la modalidad de sin itinerario fijo y estar vigente;
 
-III.- Lugar en donde se pretende establecer el sitio el cual deberá reunir con los requisitos establecidos;
+III.- Informe sobre la forma y condiciones en que se llevará a cabo el servicio;
 
-IV.- Demostrar que ha cumplido con los requisitos exigidos por la Secretaría de Planeación y Finanzas del Estado en lo relativo a la documentación y plaqueo de los vehículos;
+IV.- Lugar en donde se pretende establecer el sitio de taxi el cual deberá reunir con los requisitos establecidos;
 
-V.- Las características y número económico de los vehículos que lo integran;
+V.- Demostrar que ha cumplido con los requisitos exigidos por la Secretaría de Planeación y Finanzas del Estado en lo relativo a la documentación y plaqueo de los vehículos;
 
-VI.- Bitácora cuando se trate de sitios que operen con sistema de radio teléfono;
+VI.- Las características y número económico de los vehículos que lo integran;
 
-VII.- Dictamen de uso de suelo, expedido por la Dirección de Desarrollo Urbano;
+VII.- Anuencia por escrito del propietario del establecimiento;
 
-VIII.- Anuencia de los propietarios, cuando el sitio vaya a establecerse fuera de centros comerciales, hoteles, etc.;
+VIII.- La documentación de las unidades, como lo es tarjeta de circulación, factura y pedimento de importación;
 
-IX.- La documentación de las unidades, como lo es tarjeta de circulación, factura y pedimento de importación;
+IX.- Copia del Registro Federal de Contribuyentes (RFC) del titular o la persona moral;
 
-X.- Copia del RFC del titular o la persona moral;
+X.- Comprobar que cuenta con los servicios sanitarios propios o la autorización de un tercero, para los operadores sustitutos o permisionarios; y
 
-XI.- Comprobar que cuenta con los servicios sanitarios propios o con la autorización de un terceros para proporcionarles a los operadores de dicho sitio; y
+XI.- Recibo de pago por derechos y por cada unidad que ingrese al sitio.
 
-XII.- Recibo de pago por derechos y por cada unidad que ingrese al sitio.
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+ARTÍCULO 214 bis.- Para obtener la autorización para el establecimiento de una base de Radio Taxi, deberá presentarse en las oficinas del Sistema, solicitud por escrito acompañándola en original y copia de la siguiente documentación:
+
+I.- Nombre completo y dirección del titular de la base de radio taxi y el acta constitutiva de la persona moral;
+
+II.- El solicitante deberá tener permiso para prestar el servicio público de alquiler en la modalidad de sin itinerario fijo y estar vigente;
+
+III.- Informe sobre la forma y condiciones en que se llevará a cabo el servicio;
+
+IV.- Lugar en donde se pretende establecer la base de radio taxi el cual deberá reunir con los requisitos establecidos;
+
+V.- Demostrar que ha cumplido con los requisitos exigidos por la Secretaría de Planeación y Finanzas del Estado en lo relativo a la documentación y plaqueo de los vehículos;
+
+VI.- Las características y número económico de los vehículos que lo integran;
+
+VII.- Modelo de la Bitácora que utilizará en cada vehículo que ingrese a la Base de Radio Taxi;
+
+VIII.- Dictamen de Uso de Suelo, expedido por la Dirección de Desarrollo Urbano;
+
+IX.- Autorización por escrito de los propietarios del inmueble;
+
+X.- La documentación de las unidades, como lo es tarjeta de circulación, factura y pedimento de importación;
+
+XI.- Copia del Registro Federal de Contribuyentes (RFC) del titular o la persona moral;
+
+XII.- Comprobar que cuenta con los servicios sanitarios propios, para los operadores sustitutos o permisionarios;
+
+XIII.- Comprobar que cuenta con diez unidades vehiculares del año al momento de ser dadas de alta ante el Sistema, como mínimo para prestar el servicio;
+
+XIV.- Presentar propuesta de los puntos estratégicos que utilizarán para dicha base;
+
+XV.- Presentar copia del aviso que hacen a la Secretaria de Comunicaciones y Transportes, del uso del sistema de radio comunicador.
+
+XVI.- Recibo de pago por derechos y por cada unidad que ingrese a la base de Radio Taxi.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 215.
 
-Los sitios del servicio público de transporte, deberán de tener lo siguiente:
+Los sitios de taxi del servicio público de transporte, deberán de tener lo siguiente:
 
-I.- Casetas para el despacho de unidades;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
-II.- Carteles informativos sobre los horarios y tarifas; así como el número de teléfono para sugerencias y quejas;
+I.- Carteles informativos sobre las tarifas;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+II.- Informar al ciudadano que solicita el servicio un numero telefónico a efecto de que presenten sus inconformidades o quejas en el servicio;
 
 III.- Servicios sanitarios;
 
 IV.- Equipo de seguridad para la extinción de incendios;
 
-V.- Equipo de radio comunicación; y
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+V.- Líneas telefónicas mediante las cuales la ciudadanía solicita el servicio de transporte;
+
+(REPUBLICADA, P.O. 3 DE DICIEMBRE DE 2004)
 
 VI.- Las normas que establezcan las disposiciones vigentes en la materia.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+ARTÍCULO 215 bis.- Las base (sic) de radio taxi del servicio público de transporte, deberán de tener lo siguiente:
+
+I.- Casetas para el despacho de unidades;
+
+II.- Carteles informativos sobre los horarios y tarifas;
+
+III.- Informar al ciudadano que solicita el servicio por teléfono, un numero telefónico a efecto de que presenten sus inconformidades o quejas en el servicio, en los mismos términos el de proporcionar numero telefónico de quejas con que cuenta el Sistema;
+
+IV.- Servicios sanitarios;
+
+V.- Equipo de seguridad para la extinción de incendios;
+
+VI.- Equipo de radio comunicación;
+
+VII.-Bitácoras;
+
+VIII.- Líneas telefónicas mediante las cuales la ciudadanía solicita el servicio de transporte; y
+
+IX.- Las normas que establezcan las disposiciones vigentes en la materia.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 216.
 
-El Sistema previo análisis de la documentación presentada e inspección del lugar de que se trate, resolverá si procede o no al otorgamiento de la autorización. A cada sitio que se autorice, le será señalado un número progresivo.
+El Sistema previo análisis de la documentación presentada e inspección del lugar, resolverá si procede o no el otorgamiento de la autorización. A cada sitio o base de radio taxi que se autorice, le será señalado un número progresivo.
+
+Cada base de Radio Taxi contará con un mínimo de diez unidades y un máximo de cuarenta unidades en servicio, para su debido funcionamiento.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 217.
 
-La autorización para establecer un sitio tendrá un año de vigencia y su revalidación deberá solicitarse, por lo menos treinta días antes del vencimiento.
+La autorización para establecer un sitio o base de radio taxi tendrá un año de vigencia y su revalidación deberá solicitarse, por lo menos treinta días antes del vencimiento.
 
 ###### ARTÍCULO 218.
 
@@ -2285,9 +2373,37 @@ V.- Cuidar que el personal guarde la debida compostura y atienda al público con
 
 VI.- Dar aviso cuando suspenda temporal o definitivamente el servicio;
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+ARTÍCULO 218 bis.- El titular de la base de radio taxi, esta obligado a:
+
+I.- Impedir que en los lugares de estacionamiento de salida de unidades se hagan reparaciones de vehículos;
+
+II.- Vigilar que sus unidades que no se encuentren prestando el servicio, estén o se trasladen al estacionamiento con que cuenta la base de radio dentro de sus instalaciones o bien en los puntos estratégicos autorizados por el Sistema;
+
+III.- Fijar en lugar visible de la base de radio taxi, una señal informativa en la que aparezca inscrito él número que se haya asignado a la base de radio taxi, dicha señal deberá tener las especificaciones que determine el Sistema;
+
+IV.- Conservar limpias sus instalaciones y las aceras correspondientes;
+
+V.- Cuidar que sus telefonistas, radio operadores y operadores guarden la de la (sic) debida compostura y atienda al público con comedimiento;
+
+VI.- Los operadores deberán de usar uniforme y portar gáfete del establecimiento de la base;
+
+VII.- Revisar que todos los operadores hayan realizado el curso de capacitación que imparte el Sistema Municipal del Transporte, así como portar en los vehículos la tarjeta de circulación vigente, la licencia en la modalidad correspondiente y el tarjetón para prestar el servicio público de transporte;
+
+VIII.- Dar aviso cuando suspenda temporal o definitivamente el servicio;
+
+IX.- Dar aviso cuando realicen cualquier cambio sobre la forma en que prestan el servicio;
+
+X.- En el inmueble sujeto al dictamen de uso de suelo deberán localizarse sanitarios para el uso del personal y de los operadores de las unidades; y
+
+XI.- Contar con un reglamento interno, mediante el cual se establezca la operatividad de dicho servicio.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 219.
 
-El Sistema, podrá autorizar el cambio de ubicación de un sitio cuando la capacidad del espacio destinado para tal efecto ya no sea suficiente, siempre que cumpla de nueva cuenta con los requisitos establecidos en el artículo 214 del presente Reglamento.
+El Sistema, podrá autorizar el cambio de ubicación de un sitio o una base de radio taxi, cuando la capacidad del espacio destinado para tal efecto ya no sea suficiente, siempre que cumpla de nueva cuenta con los requisitos establecidos en el artículo 214 del presente Reglamento.
 
 ###### ARTÍCULO 220.
 
@@ -2305,17 +2421,35 @@ V.- Cuando dicho sitio origine molestias al público u obstaculicen la circulaci
 
 VI.- Las demás que se establezcan en el presente Reglamento.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+ARTÍCULO 220 bis.- Las autorizaciones de sitios o bases de radio taxi, podrán ser canceladas en los siguientes casos:
+
+I.- Cuando el servicio no se preste de acuerdo a las necesidades y demanda de los usuarios;
+
+II.- Cuando no se solicite la revalidación de la autorización dentro del plazo establecido para tal efecto;
+
+III.- Cuando se alteren las tarifas previamente establecidas y autorizadas;
+
+IV.- Cuando se proporcionen para la obtención de la autorización información o datos carentes de verdad o documentación falsificada;
+
+V.- Cuando dicha (sic) sitio o base de radio taxi origine molestias al público u obstaculicen la circulación de peatones y vehículos, o sus unidades invadan periódicamente las rutas o sitios establecidos, previa audiencia del interesado; y
+
+VI.- Las demás que se establezcan en el presente Reglamento.
+
 ###### ARTÍCULO 221.
 
 Para que el Sistema autorice sitios frente a centros comerciales, de espectáculos y hoteles, el interesado, además de cumplir con los requisitos del artículo 214 de este Reglamento, deberá comprobar que los propietarios de los establecimientos proporcionarán a los operadores y personal del sitio, los servicios sanitarios, a demás de efectuar el pago por derechos del uso de la vía pública, ante la Tesorería del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 222.
 
-Los sitios deberán tener un libro autorizado por el Sistema para que se registren los servicios que los operadores presten al público.
+Los Sitios o bases de radio taxis deberán tener una bitácora central o libro autorizado por el Sistema para que se registren los servicios que los operadores presten al público.
 
-Los operadores deberán portar e indicar en la bitácora desde el inicio hasta la terminación del servicio que hayan prestado los datos necesarios para la comprobación del mismo; así como el de regresar a su base una vez concluido éste.
+Los operadores deberán portar e indicar en la bitácora desde el inicio hasta la terminación del servicio que hayan prestado los datos necesarios para la comprobación del mismo; así como el de regresar a las instalaciones del sitio o base de radio taxi una vez concluido éste.
 
-De igual forma los propietarios de este tipo de sitios deberán instalar en todas sus unidades un radio móvil de comunicación; así como el taxímetro correspondiente.
+De igual forma los propietarios de este tipo de sitios o base de radio taxi deberán instalar en todas sus unidades el taxímetro correspondiente. Para el caso de las bases de Radio Taxi, deberán traer instalado el radio comunicador.
 
 #### SECCION IV
 
@@ -3422,3 +3556,13 @@ LIC. JOSE FELIX ARANGO PEREZ
 SECRETARIO DEL XVII AYUNTAMIENTO
 
 DE MEXICALI
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE DICIEMBRE DE 2004.
+
+PRIMERO.- La presente modificación al Reglamento de Transporte Público para el municipio de Mexicali, Baja California, entrará en vigor el día siguiente de su publicación el (sic) Periódico Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO.- El trámite que deberá (sic) seguir los titulares que actualmente brindan el servicio de alquiler en la modalidad de radio taxi y de sitio, para efectos de regular dicho servicio en los términos que establece la presente modificación, será determinado por el Sistema Municipal del Transporte.
+
+TERCERO.- Para los efectos de la modernización del transporte público de pasajeros, los permisionarios en la modalidad de radio taxi, deberán de renovar sus unidades a modelos que no rebasen el término de cuatro años de vida útil en servicio, tendrán como fecha límite el día último del mes de Diciembre del dos mil cuatro.
