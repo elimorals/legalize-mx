@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-la-5986"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "1997-10-06"
+last_updated: "2002-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE OCTUBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2002.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 26 de diciembre de 1985.
 
@@ -95,6 +95,14 @@ III. De inimputables separadas del resto de la población interna.
 
 El ejecutivo del Estado podrá celebrar con la Federación y con cualquiera de las Entidades Federativas, Convenios o Acuerdos de Coordinación de carácter general, a fin de que los internos, procesados o con sentencia ejecutoria por delito del fuero común o federal, compurguen su pena en centros dependientes del Ejecutivo Federal o Estatal.
 
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2002)</small>
+
+Artículo 7 bis.- El Ejecutivo del Estado podrá celebrar convenios y contratos con el sector privado, para que éste participe en la construcción, remodelación, rehabilitación, ampliación y mantenimiento de instalaciones de los centros; en la prestación de servicios de operación en éstos; y en la atención psicológica de los internos, en los términos que se señalen en tales convenios y contratos.
+
+En todo caso, los convenios y contratos que se celebren deberán contener cláusulas que establezcan la confidencialidad en los dispositivos de seguridad de los centros; la relación entre el personal contratado por los particulares y los internos; y el respecto (sic) irrestricto a los derechos humanos.
+
+La dirección; la rectoría en la administración; el control; y la vigilancia de los centros, estarán a cargo del Gobierno del Estado.
+
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 ###### Artículo 8.
@@ -115,7 +123,7 @@ Todos los Cuerpos de Seguridad Pública del Estado, están obligados a prestar e
 
 ###### Artículo 10.
 
-La Dirección General de Prevención y Readaptación Social tendrá las siguientes atribuciones:
+La Dirección General de Prevención y Readaptación Social, tendrá las siguientes atribuciones:
 
 I. Crear, organizar, dirigir y administrar los Centros Preventivos y de Readaptación Social en el Estado.
 
@@ -147,7 +155,13 @@ XIII. Seleccionar y capacitar al personal de los centros en todos los niveles, t
 
 XIV. Auxiliar a las víctimas del delito a través de la Ley respectiva.
 
-XV. Las demás que le confiere la Ley.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2002)</small>
+
+XV. Vigilar y exigir que el sector privado con el que se haya firmado convenios y contratos cumpla las obligaciones contraídas respecto de la construcción, remodelación, rehabilitación, ampliación y mantenimiento de instalaciones; de la prestación de servicios de operación en los centros que atienda; y de la atención psicológica de los internos;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2002)</small>
+
+XVI. Las demás que le señalen las leyes y reglamentos.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -159,7 +173,7 @@ XV. Las demás que le confiere la Ley.
 
 La Dirección General de Prevención y Readaptación Social, contará con un Consejo Técnico Interdisciplinario que realizará las funciones siguientes:
 
-I. Asesorar y Auxiliar a la Dirección General de Prevención y Readaptación Social.
+I. Asesorar y auxiliar a la Dirección General de Prevención y Readaptación Social.
 
 II. Brindar orientación respecto de la aplicación individual del sistema preventivo técnico.
 
@@ -207,7 +221,7 @@ El Consejo Técnico Interdisciplinario celebrará sesiones ordinarias cuando men
 
 ###### Artículo 16.
 
-Las sesiones del Consejo Técnico Interdisciplinario se llevarán a cabo en las oficinas de la Dirección General de Prevención y Readaptación Social o en los centros que forman el Sistema, bajo la presidencia del Director General de Prevención y Readaptación Social, o en su defecto por la persona que él designe.
+Las sesiones del Consejo Técnico Interdisciplinario se llevarán a cabo en las Oficinas de la Dirección General de Prevención y Readaptación Social o en los centros que forman el Sistema, bajo la presidencia del Director General de Prevención y Readaptación Social, o en su defecto, por la persona que él designe.
 
 ###### Artículo 17.
 
@@ -393,7 +407,7 @@ V. Ocupacional, que comprenderá el grado inicial de aptitud para el trabajo, as
 
 VI. De trabajo social, que contendrá datos sobre la situación sociocriminológica del interno, así como del trabajo del mismo y las orientaciones para conducirse en el lugar a donde vaya a radicar.
 
-VII. Preliberacional, que contendrá el control de presentaciones del interno en el centro así como la modalidad del tratamiento.
+VII. Preliberacional, que contendrá el control de presentaciones del interno en el centro así como la modalidad del tratamiento..
 
 VIII. Jurídica, que constará de boleta de detención, auto constitucional, asignación antropométrica, ficha dactiloscópica, sentencias de primera, segunda instancia y la de amparo, en su caso, dictadas por Tribunales competentes, así como la reseña penológica.
 
@@ -493,9 +507,23 @@ El trabajo penitenciario, se realizará técnicamente de acuerdo con el mercado 
 
 Los internos estarán obligados a cuidar las herramientas y utensilios de trabajo y capacitación. En caso de destrucción deberán pagar el importe de los mismos si los dañan intencionalmente, descontándoseles del fondo de ahorros.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 57.
 
-De la remuneración alcanzada por el interno trabajador, se asignará un 50% para sus dependientes económicos, 10% para la reparación del daño, 10% para el sostenimiento del interno en el centro, 10% para la formación del fondo de ahorro y 20% para gastos menores del interno. En caso de que el interno no tenga dependientes económicos o no haya sido condenado a la reparación del daño, el porcentaje correspondiente se aplicará al fondo de ahorros.
+De la remuneración obtenida por el interno, el Estado implementará la distribución de sus ingresos de la siguiente manera:
+
+a) 35% para sus dependientes económicos.
+
+b) 25% para el pago del sostenimiento del interno en el centro.
+
+c) 20% para el pago de gastos menores del interno.
+
+d) 10% para el pago de la reparación del daño.
+
+e) 10% para la formación del fondo de ahorro del interno.
+
+En el caso de que el interno no tenga dependientes económicos o haya sido absuelto de la reparación del daño, esos porcentajes se aplicarán al fondo de ahorro del interno.
 
 ###### Artículo 58.
 
@@ -962,3 +990,13 @@ Publíquese el presente decreto en la "Gaceta del Gobierno".
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+P.O. 6 DE AGOSTO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
