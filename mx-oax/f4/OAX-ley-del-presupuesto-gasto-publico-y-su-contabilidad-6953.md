@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-presupuesto-gasto-publico-y-su-contabilidad-6953"
 country: "mx"
 rank: "ley"
 publication_date: "1994-10-08"
-last_updated: "1994-10-08"
+last_updated: "2004-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL PRESUPUESTO, GASTO PUBLICO Y SU CONTABILIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 8 de octubre de 1994.
 
@@ -59,17 +59,21 @@ IV.- Los Organismos Descentralizados, Fideicomisos Públicos Estatales, Empresas
 
 A los Poderes, Instituciones, Dependencias, Organismos, Empresas y Fideicomisos citados, para los efectos de esta Ley se les denominará "Entidades".
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 3o.
 
-La programación del Gasto Público Estatal se basará en las directrices que establezca Ejecutivo Estatal, por conducto de la Secretaría de Finanzas, contenidas en el Plan Estatal de Desarrollo.
+La programación del Gasto Público Estatal se basará en las directrices que establezca Ejecutivo Estatal, por conducto de la Secretaría de Finanzas, contenidas en el Plan Estatal de Desarrollo, atendiendo a los principios de equidad de género.
 
 ###### Artículo 4o.
 
 Corresponderá a la Secretaría de Finanzas establecer los mecanismos operativos que permitan llevar a cabo el manejo de la información relacionada con las operaciones que afecten el Presupuesto de Egresos del Gobierno del Estado, hacerse cargo del registro y consolidación de las mismas y responsabilizarse de la formulación de los reportes en que se consignen los datos del compromiso y el ejercicio del Presupuesto autorizado por el Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 5o.
 
-Cada entidad será responsable de planear, programar y presupuestar sus actividades respecto al Gasto Público. Asimismo, las Dependencias del Ejecutivo son responsables de orientar y coordinar la planeación, programación, presupuestación, control y evaluación del gasto, así como del cumplimiento de los programas de los organismos que queden ubicados en el sector que esté bajo su coordinación.
+Cada entidad será responsable de planear, programar y presupuestar sus actividades respecto al gasto público. Asimismo, las Dependencias del Ejecutivo son responsables de orientar y coordinar en la planeación, programación, presupuestación, control y evaluación del gasto, así como del cumplimiento de los programas de los organismos que queden ubicados en el sector que esté bajo su coordinación, lo anterior se efectuará atendiendo al principio de equidad de género a través de acciones afirmativas, así como la concordancia de estas actividades con los principios y directrices del Plan Estatal de Desarrollo.
 
 ###### Artículo 6o.
 
@@ -95,9 +99,11 @@ El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y la Control
 
 ### CAPITULO II. DEL PRESUPUESTO DE EGRESOS
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 11.
 
-El Gasto Público Estatal se basará en presupuestos formulados para cada año de calendario, que incluirá el señalamiento de programas y el enunciado de objetivos, metas, costos y unidades responsables de su ejecución.
+El gasto público estatal se basará en presupuestos formulados para cada año de calendario, que incluirán el señalamiento de programas, su vinculación y coordinación específica con el Plan Estatal de Desarrollo, el enunciado de objetivos, acciones, metas, costos y unidades responsables de su ejecución. Los programas en todos los casos incorporarán la perspectiva de género desde el diseño y ejecución hasta la evaluación.
 
 ###### Artículo 12.
 
@@ -121,19 +127,25 @@ Las entidades remitirán su respectivo anteproyecto a la Secretaría de Finanzas
 
 La Secretaría de Finanzas está facultada para formular el anteproyecto del Presupuesto de Egresos de las Entidades, cuando no le sea presentado en los plazos que al efecto se les hubiere señalado.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 16.
 
-Los órganos competentes del Congreso del Estado y del Tribunal Superior de Justicia del Estado, atendiendo a las previsiones del Ingreso y del Gasto Público Estatal, formularán sus respectivos anteproyectos de Presupuestos de Egresos y los enviarán directa y oportunamente a la Secretaría de Finanzas del Estado para que se cumpla con los requisitos de esta Ley y se incorporen al proyecto de Presupuesto de Egresos del Estado.
+Los órganos competentes del Congreso del Estado y del Tribunal Superior de Justicia del Estado, atendiendo a las previsiones del ingreso y del gasto público estatal, formularán sus respectivos anteproyectos de Presupuestos de Egresos y los enviarán directa y oportunamente a la Secretaría de Finanzas del Estado para que se cumpla con los requisitos de esta ley y se incorporen al proyecto de Presupuesto de Egresos del Estado. Los anteproyectos incorporarán la perspectiva de género.
 
 ###### Artículo 17.
 
 El proyecto de Presupuesto de Egresos del Estado se integrará con los documentos que se refieren a:
 
-I.- Descripción de los programas que sean la base del proyecto, en los que se señalen objetivos, metas y unidades responsables de su ejecución, así como su valuación estimada por programa;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+I.- Descripción de los programas que sean la base del proyecto, en los que se señalen además los objetivos, acciones, metas y unidades responsables de su ejecución, así como su valuación estimada por programa; los beneficiarios hombres y mujeres, su edad y el tipo de localidad en la que habitan;
 
 II.- Explicación y comentarios de los principales programas y en especial de aquellos que abarquen dos o más ejercicios fiscales;
 
-III.- En general la información que se considere necesaria para explicar y apoyar los programas propuestos.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+III.- Exposición de motivos, en los que se integre la información necesaria que fundamente y motive las actividades programadas, con base en los principios de equidad de género y lineamientos que señala el Plan Estatal de Desarrollo.
 
 ###### Artículo 18.
 
@@ -145,9 +157,11 @@ El Presupuesto de Egresos del Estado será publicado en el Periódico Oficial de
 
 ### CAPITULO III. DEL EJERCICIO DEL GASTO PUBLICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 20.
 
-El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas, podrá asignar los recursos que se obtengan en exceso a lo previsto en la Ley de Ingresos del Estado, ya sea por participaciones, ingresos extraordinarios, productos financieros y recaudación de ingresos propios, a los programas que estime convenientes, autorizará el traspaso de partidas cuando sea procedente e igualmente, en casos extraordinarios, queda facultado para traspasar las partidas que se requieran. Tratándose de Ingresos extraordinarios provenientes de empréstitos o de apoyos específicos, los mismos se aplicarán única y exclusivamente a los programas para los que se obtuvieron; al respecto, el Ejecutivo está obligado a informar al Congreso del Estado de los movimientos efectuados al momento de rendir la Cuenta de la Hacienda Pública.
+El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas, podrá asignar los recursos que se obtengan en exceso a lo previsto en la Ley de Ingresos del Estado, ya sea por participaciones, ingresos extraordinarios, productos financieros y recaudación de ingresos propios, a los programas que estime convenientes, autorizará el traspaso de partidas cuando sea procedente e igualmente, en casos extraordinarios, queda facultado para traspasar las partidas que se requieran, dando prioridad a aquellos destinados a grupos poblacionales en situación de desventaja y a los que incorporen acciones afirmativas tendientes a construir la equidad de género.
 
 El Gasto Público Estatal deberá ajustarse al monto autorizado para los programas y partidas presupuestales, salvo que se trate de las partidas que se señalen como de ampliación automática en los presupuestos.
 
@@ -155,9 +169,13 @@ El Ejecutivo del Estado determinará la forma en que deberán invertirse las par
 
 El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y de conformidad con los ordenamientos legales vigentes, efectuará reducciones, diferimientos o cancelaciones de programas y conceptos de gasto de los presupuestos aprobados a las Dependencias y Entidades, cuando se presenten contingencias que repercutan en una disminución de los ingresos previstos o por erogaciones extraordinarias de carácter social.
 
-Para los efectos del párrafo anterior, deberán tomarse en cuenta las circunstancias económicas y sociales que priven en el País y el Estado, los alcances de los conceptos de gasto y, en su caso, la naturaleza y características particulares de operación de las Entidades de que se trate, escuchando la opinión de los titulares de las propias Dependencias y Entidades.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
-Los ajustes y reducciones que efectúe el Ejecutivo Estatal en observancia de lo anterior, deberán realizarse en forma selectiva, sin afectar los programas prioritarios del gasto social y, en general, los programas estratégicos, optando preferentemente en los casos de programas de inversión por aquellos de menor productividad e impacto social y económico.
+Para los efectos del párrafo anterior, deberán tomarse en cuenta las circunstancias económicas y sociales que priven en el país y el Estado analizando particularmente a aquellas que se refieran a grupos en desventaja así como las de equidad de género, los alcances de los conceptos de gasto y, en su caso, la naturaleza y características particulares de operación de las entidades de que se trate, escuchando la opinión de los y las titulares de las propias dependencias y entidades.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+Los ajustes y reducciones que efectúe el Ejecutivo Estatal en observancia de lo anterior, deberán realizarse en forma colectiva, sin afectar los programas prioritarios del gasto social y, en general, los programas estratégicos, optando preferentemente en los casos de programas de inversión por aquellos de menor productividad e impacto social y económico, esta afectación tampoco opera en programas cuya aplicación esté orientada a la construcción de la equidad de género y de programas de inversión.
 
 ###### Artículo 21.
 
@@ -179,9 +197,11 @@ Todas las entidades a que se refiere el artículo 2o. de esta Ley informarán a 
 
 Los pagos de adeudos de ejercicios fiscales anteriores, sólo procederán por conceptos efectivamente devengados en el año que corresponda y siempre que se hubieren contabilizado debida y oportunamente las operaciones correspondientes y, en su caso, se hubiere presentado el informe a que se refiere el artículo anterior.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 25.
 
-En casos excepcionales y debidamente justificados, el Ejecutivo, por conducto de la Secretaría de Finanzas, podrá autorizar asignaciones presupuestales mayores a las aprobadas para el año, pero en estos casos los compromisos excedentes no cubiertos quedarán sujetos, para los fines de su ejecución y pago, a las disponibilidades de los años siguientes.
+En casos excepcionales y debidamente justificados el Ejecutivo, por conducto de la Secretaría de Finanzas, podrá autorizar asignaciones presupuestales mayores a las aprobadas para el año, pero en estos casos los compromisos excedentes no cubiertos quedarán sujetos, para los fines de su ejecución y pago, a las disponibilidades de los años siguientes. Estas autorizaciones se darán especialmente cuando se trate de proteger mediante la aplicación de acciones afirmativas orientados (sic) a construir la equidad de género.
 
 ###### Artículo 26.
 
@@ -364,3 +384,9 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 LIC. JOSE ANTONIO ESTEFAN GARFIAS.
 
 Al C.......
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
