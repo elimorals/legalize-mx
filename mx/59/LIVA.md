@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1981-12-31"
+last_updated: "1982-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 1982.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -158,7 +158,7 @@ El derecho al acreditamiento es personal para los contribuyentes de este impuest
 
 Para acreditar el impuesto al valor agregado en la importación de bienes tangibles cuando se hubiera pagado la tasa del 6%, el contribuyente deberá poder comprobar que los bienes fueron utilizados o enajenados en las franjas o zonas a que se refiere el artículo 2o.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, MODIFICADO POR EL ARTICULO SEGUNDO DEL DECRETO PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -166,7 +166,7 @@ Para acreditar el impuesto al valor agregado en la importación de bienes tangib
 
 El impuesto se calculará por ejercicios fiscales, salvo los casos señalados en el artículo 33 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, MODIFICADO POR EL ARTICULO SEGUNDO DEL DECRETO PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -198,7 +198,7 @@ El contribuyente que reciba el descuento, la bonificación o devuelva los bienes
 
 ### CAPITULO II. DE LA ENAJENACION
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, MODIFICADO POR EL ARTICULO SEGUNDO DEL DECRETO PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -578,13 +578,13 @@ La devolución en el caso de exportación de bienes tangibles procederá hasta q
 
 ### CAPITULO VIII. DE LAS FACULTADES DE LAS AUTORIDADES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, MODIFICADO POR EL ARTICULO SEGUNDO DEL DECRETO PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
 
 ###### ARTICULO 32.
 
 Los obligados al pago de este impuesto y las personas que realicen los actos y actividades a que se refiere el artículo 2o.-A tienen, además de las obligaciones señaladas en otros artículos de esta Ley, las siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -607,8 +607,6 @@ En todo caso, los contribuyentes estarán obligados a trasladar el impuesto en f
 IV.- Presentar en las oficinas autorizadas las declaraciones señaladas en esta ley. Si un contribuyente tuviera varios establecimientos, presentará por todos ellos una sola declaración, mensual o del ejercicio, según se trate, en las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente. Lo dispuesto en esta fracción no es aplicable a los casos señalados en los artículos 28 y 33 de esta Ley.
 
 Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el país, con cuya intervención éstas efectúen actividades por las que deba pagarse impuesto conforme a esta Ley, están obligados a formular a nombre de sus representadas las declaraciones correspondientes y pagar el impuesto respectivo, por el que tendrán responsabilidad solidaria.
-
-(DEROGADO PARRAFO INMEDIATO POSTERIOR (SIC) A LA FRACCION IV [N. DE E. PARRAFO TERCERO], D.O.F. 31 DE DICIEMBRE DE 1981)
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -690,7 +688,7 @@ La estimación del impuesto acreditable, se hará conforme a los por cientos de 
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, MODIFICADO POR EL ARTICULO SEGUNDO DEL DECRETO PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -698,7 +696,7 @@ La estimación del impuesto acreditable, se hará conforme a los por cientos de 
 
 Al importe de la determinación presuntiva del valor de los actos o actividades por los que se deba pagar el impuesto en los términos de esta Ley, se aplicará la tasa del impuesto que corresponda conforme a la misma, y el resultado se reducirá con las cantidades acreditables que se comprueben.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, MODIFICADO POR EL ARTICULO SEGUNDO DEL DECRETO PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
 
 ###### ARTICULO 40.
 
@@ -914,6 +912,14 @@ ARTICULO DECIMOSEXTO.- Los contribuyentes que durante 1982 realicen actividades 
 
 ARTICULO DECIMOSEPTIMO.- Los contribuyentes que queden comprendidos en los artículos 115 de la Ley del Impuesto sobre la Renta 35 de la Ley del Impuesto al Valor Agregado continuarán pagando durante el año de 1982, el mismo monto de impuesto que les hayan estimado las autoridades fiscales con anterioridad a dicho año, en tanto que las mismas no lo modifiquen.
 
-ARTICULO DECIMOOCTAVO (SIC).- Las reformas a los artículos 5o., 8o., 32 y 39 y la derogación de los artículos 38 y 40 de la Ley del Impuesto al Valor Agregado, surtirán efectos a partir del 1o. de octubre de 1982.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 1982)</small>
+
+ARTICULO DECIMOOCTAVO (SIC).- Las reformas a los artículos 5o., 8o., 32 y 39 y la derogación de los artículos 38 y 40 de la Ley del Impuesto al Valor Agregado, surtirán efectos a partir del 1o. de abril de 1983.
 
 ARTICULO TRIGESIMO SEGUNDO.- Las disposiciones contenidas en las leyes del Impuesto sobre la Renta y del Impuesto al Valor Agregado, relativas a enajenaciones a plazo con pago diferido o en parcialidades, se aplicarán considerando la disposición vigente en el momento en que se entregue materialmente al bien objeto de la enajenación, se obtenga parte del precio o se expida el documento que ampare la enajenación, el que primero se realice.
+
+D.O.F. 30 DE SEPTIEMBRE DE 1982.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el 1o. de octubre de 1982.
