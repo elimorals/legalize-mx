@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-planeacion-para-el-estado-de-jalisco-y-sus-municipios-19
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-19"
-last_updated: "2000-12-19"
+last_updated: "2004-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PLANEACION PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 19 de Diciembre de 2000.
 
@@ -139,11 +139,19 @@ Los Programas Operativos Anuales, como instrumentos de corto plazo, constituirá
 
 Estos programas deberán ser congruentes entre sí y regirán las actividades de la Administración Pública Estatal y Municipal en su conjunto, durante el año respectivo, y serán considerados para la integración de los anteproyectos de presupuestos anuales que, las propias dependencias y entidades de la administración pública estatal y municipal, deberán elaborar conforme a la legislación aplicable.
 
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2004)</small>
+
+El Ejecutivo Estatal deberá entregar al Congreso del Estado a más tardar el primero de noviembre los proyectos de los Programas Operativos Anuales de cada una de las Secretarías a su cargo para el año siguiente, de igual forma se entregará un dictamen de cada uno de los Programas aplicados durante el año en curso de manera parcial a la fecha de entrega de los mismos.
+
 ### CAPITULO TERCERO. De la Planeación Estatal del Desarrollo
 
 ###### Artículo 16.
 
 El Plan Estatal precisará los objetivos generales, directrices, políticas, estrategias y líneas de acción que coadyuven al desarrollo integral del Estado a corto, mediano y largo plazo; establecerá los lineamientos para el desarrollo estatal, sectorial y regional; sus previsiones se referirán al conjunto de la actividad económica y social, y regirá la orientación de los programas de gobierno, considerando las propuestas del ámbito municipal.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2004)</small>
+
+Además de las precisiones y lineamientos señalados en el párrafo anterior, el Plan Estatal contendrá un análisis social, demográfico y económico del Estado, así como el criterio para establecer objetivos y una prospectiva anual de alcance de metas y objetivos.
 
 ###### Artículo 17.
 
@@ -263,17 +271,21 @@ Los programas institucionales deberán ser presentados para su validación, por 
 
 Si la entidad paraestatal no estuviera agrupada en un sector específico, la validación a que se hace referencia en el párrafo anterior, corresponderá a la dependencia a que esté circunscrita en el Presupuesto de Egresos del Estado.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 30.
 
-El Ejecutivo, deberá observar el Plan Estatal de Desarrollo y los programas que de él se derivan como base para realizar los proyectos de Ley de Ingresos y de Presupuesto de Egresos del Estado.
+El Ejecutivo deberá observar el Plan Estatal y los programas que de él se deriven como base para realizar los proyectos de la Ley de Ingresos y del Presupuesto de Egresos del Estado, y precisar los objetivos de los Programas derivados del Plan que deberán cumplirse a través de la aplicación del gasto público durante el ejercicio siguiente.
 
 ###### Artículo 31.
 
 El Titular del Ejecutivo Estatal, al enviar al Congreso del Estado las iniciativas de Ley de Ingresos y el Proyecto de Presupuesto de Egresos del Estado, informará sobre el contenido general de dichas iniciativas y de su relación con los programas de gobierno, que conforme a lo previsto en esta ley, deberán elaborarse para la ejecución del Plan Estatal de Desarrollo.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 32.
 
-El Titular del Ejecutivo Estatal, al informar ante el Congreso sobre la situación general que guarda la Administración Pública del Estado, hará mención expresa del avance de los programas que se deriven del Plan Estatal de Desarrollo.
+El Titular del Ejecutivo Estatal, al informar ante el Congreso sobre la situación general que guarda la Administración Pública del Estado, hará mención expresa del avance del Plan Estatal de Desarrollo, así como un reporte de los avances en el cumplimiento de los Programas Operativos Anuales, y en su caso, expondrá con claridad las razones y motivos por los que no fue posible cumplir los objetivos iniciales.
 
 ###### Artículo 33.
 
@@ -608,3 +620,9 @@ ING. ALBERTO CÁRDENAS JIMÉNEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FELIPE DE JESÚS PRECIADO CORONADO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE FEBRERO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco.
