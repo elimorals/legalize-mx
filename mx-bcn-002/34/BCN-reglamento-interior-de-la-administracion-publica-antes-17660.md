@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2004-08-27"
+last_updated: "2004-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2004.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -223,7 +223,7 @@ e) Recursos humanos y materiales que se entregarían por el Gobierno del Estado 
 
 f) Análisis de la conveniencia de que se asuman por el Municipio las funciones Estatales.
 
-III.- La Comisión del Ayuntamiento, actuando conjuntamente si fueren varias, emitirá un dictamen que someterá a consideración de éste, en el que propondrá la aprobación de la celebración del convenio, o en su caso, los aspectos que a su juicio deban revisarse previamente a tal celebración, indicando las razones que tuviere; y,
+III.- La Comisión del Ayuntamiento, actuando conjuntamente si fueren varias, emitirá un dictamen que someterá a consideración de éste, en el que propondrá a aprobación de la celebración del convenio, o en su caso, los aspectos que a su juicio deban revisarse previamente a tal celebración, indicando las razones que tuviere; y,
 
 IV.- Al aprobarse la celebración del convenio, se autorizará al Presidente Municipal para que lo suscriba.
 
@@ -631,7 +631,11 @@ XVI.- Expedir certificaciones de los documentos que obren en archivos de las dep
 
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
-XVII.- Remitir, por conducto del subsecretario, los asuntos que sean recibidos en la oficina del titular, a las dependencias o áreas de la administración municipal, responsables de su atención y seguimiento.
+XVII.- Remitir, por conducto del subsecretario, los asuntos que sean recibidos en la oficina del titular, a las dependencias o áreas de la administración municipal, responsables de su atención y seguimiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2004)</small>
+
+XVIII.- Integrar el registro de entidades paramunicipales, de conformidad con el reglamento de la materia.
 
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
@@ -755,9 +759,17 @@ IV.- Vigilar que las dependencias y entidades den cumplimiento a las disposicion
 
 V.- Asesorar a las dependencias y entidades en el manejo de su correspondencia, así como en la organización de los archivos de trámite que tengan a su cargo;
 
-VI.- Vigilar que la consulta, certificación y copia de los materiales sean de acuerdo con los procedimientos establecidos; y,
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-VII.- Recopilar leyes y reglamentos y acuerdos publicados en el Periódico Oficial, órgano del Estado de Baja California, y en el Diario Oficial de la Federación, de aplicación en el ámbito municipal.
+VI.- Vigilar que la consulta, certificación y copia de los materiales sean de acuerdo con los procedimientos establecidos;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+VII.- Recopilar leyes y reglamentos y acuerdos publicados en el Periódico Oficial, órgano del Estado de Baja California, y en el Diario Oficial de la Federación, de aplicación en el ámbito municipal; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2004)</small>
+
+VIII.- Concentrar la documentación relativa al registro de entidades paramunicipales, conforme a lo dispuesto por el reglamento de la materia.
 
 ###### ARTICULO 47.
 
@@ -2131,6 +2143,10 @@ XIII.- Administrar el fondo para gastos menores.
 
 El Ayuntamiento podrá determinar la creación de organismos descentralizados, o empresas de participación municipal, los cuales contarán con personalidad jurídica y patrimonio propio. Asimismo podrá disponer la creación de fideicomisos, afectando a un fin específico un haber patrimonial.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE OCTUBRE DE 2004)</small>
+
+Los organismos paramunicipales funcionarán bajo la coordinación de la dependencia de la administración pública centralizada, encargada de organizar al sector de entidades paramunicipales, relacionados con su competencia, de conformidad a lo dispuesto por el Reglamento de las Entidades Paramunicipales para el Municipio de Mexicali.
+
 En los acuerdos de creación de las entidades se deberá prever por lo menos:
 
 I.- Su objeto, las atribuciones con la que contará para cumplirlo;
@@ -2141,9 +2157,13 @@ III.- Las facultades y obligaciones de la persona u órgano que actuará como re
 
 IV.- Los recursos y bienes que integrarán su patrimonio;
 
-V.- El órgano facultado para determinar su estructura orgánica y aprobar su reglamento interior; y,
+V.- El órgano facultado para determinar su estructura orgánica y aprobar su reglamento interior; y (sic),
 
 VI.- La forma en que se informará al Ayuntamiento sobre los resultados de gestión de la entidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2004)</small>
+
+VII.- La dependencia coordinadora de sector, con la que trabajarán, conforme a lo dispuesto por el reglamento de la materia.
 
 ## TITULO CUARTO. DE LA SINDICATURA MUNICIPAL
 
@@ -2257,7 +2277,7 @@ II.- Revisiones Programáticas, el que tendrá las atribuciones previstas en el 
 
 III.- Revisiones Financieras, el que tendrá las atribuciones previstas en el artículo 124 fracciones I, II, III, IV, XV Y XVIII incisos a) y b) artículo 129 Bis fracción VII.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 126.
 
@@ -2353,7 +2373,7 @@ II.- De Capacitación Jurídica, el que tendrá las atribuciones previstas en el
 
 ## TITULO QUINTO. DE LA DIRECCION DE PLANEACION URBANA
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 130.
 
@@ -2650,3 +2670,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 27 DE AGOSTO DE 2004.
 
 ÚNICO.- LA PRESENTE REFORMA ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+P.O. 1 DE OCTUBRE DE 2004.
+
+ÚNICO.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
