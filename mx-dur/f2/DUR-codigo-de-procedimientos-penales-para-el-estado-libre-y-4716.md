@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-penales-para-el-estado-libre-y-4716"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-01-30"
-last_updated: "1994-12-15"
+last_updated: "2000-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2000.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de enero de 1992.
 
@@ -1115,9 +1115,9 @@ El Ministerio Público al emitir la orden de detención en caso urgente deberá 
 
 La orden mencionada será ejecutada por la Policía Judicial, quien deberá sin dilación alguna poner al detenido a disposición del Ministerio Público que la haya librado.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE OCTUBRE DE 2000)</small>
 
-Para todos los efectos legales se califican como delitos graves, los previstos en los artículos: 69 inciso a) y b); 70, 118, 119, 121, 122, 126, 127, 151, Fracción II, 207, 254, 256, 258, 261, 262, 266, 267, 268, 280, 281, 285, 296, 297, 298, 299, 300, 301, 314, 317, fracciones IV y V; 319, 320, 321, segundo párrafo; 327 fracción VI; 328, 329, 330, 331, 332, todos ellos del Código Penal de nuestro Estado.
+Para todos los efectos legales se califican como delitos graves, los previstos en los artículos: 69 inciso a) y b); 70, 118, 119, 121, 122, 126, 127, 151 fracción II, 207, 254, 256, 258, 261, 262, 266, 267, 268, 280, 281, 285, 296, 297, 298, 299, 300, 301, 314, 317, fracciones IV y V; 319, 320, 321, segundo párrafo; 327 fracción VI; 328, 329, 330, 331, 332, 341 último párrafo, todos ellos del Código Penal de nuestro Estado.
 
 > <small>(ADICIONADO, P.O. 17 DE JULIO DE 1994)</small>
 
@@ -3274,3 +3274,7 @@ El presente Decreto entrará en vigor el día (1o.) primero de Septiembre de (19
 P.O. 15 DE DICIEMBRE DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE OCTUBRE DE 2000.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
