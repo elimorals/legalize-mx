@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "1998-06-05"
+last_updated: "2001-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -147,7 +147,9 @@ II.- Procuraduría General de Justicia;
 
 III.- Secretaría de Planeación y Finanzas;
 
-IV.- (DEROGADA, P.O. 5 DE JUNIO DE 1998)
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2001)</small>
+
+IV.- Secretaría de Desarrollo Social;
 
 V.- Secretaría de Asentamientos Humanos y Obras Públicas;
 
@@ -469,13 +471,57 @@ XIII.- Recibir de la Contaduría Mayor de Hacienda del Congreso del Estado, los 
 
 XIV.- Las demás que le encomienden expresamente las leyes y reglamentos.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE FEBRERO DE 2001)</small>
+
 ### CAPITULO VII
 
-DE LA COMPETENCIA DE LA SECRETARIA DE PLANEACION Y PRESUPUESTO.
+DE LA COMPETENCIA DE LA SECRETARIA DE DESARROLLO SOCIAL.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### ARTICULO 26.
 
-(DEROGADO, P.O. 5 DE JUNIO DE 1998)
+A la Secretaría de Desarrollo Social le corresponde la atención y trámite de los siguientes asuntos:
+
+I.- Formular, definir, conducir, articular y evaluar las políticas, estrategias y acciones de desarrollo social; que comprende aquellos programas en materia de población, salud, vivienda, servicios públicos, educación, cultura y deporte, que en coordinación con las entidades de gobierno correspondientes, sean diseñados y programados exclusivamente para la atención de grupos marginados o con rezago socioeconómico en el Estado;
+
+II.- Formular, definir, conducir, articular y evaluar el programa sectorial y los programas especiales de desarrollo social para presentarlos al ejecutivo del Estado;
+
+III.- Elaborar diagnósticos en coordinación con las dependencias y entidades de la Administración Pública del Estado, Ayuntamientos y Comités Comunitarios, sobre la situación que presentan las comunidades y grupos sociales más desprotegidos; así como de impacto social de los programas implementados, considerando los indicadores de gestión;
+
+IV.- Establecer las bases y criterios que deberán observar las dependencias y entidades de la Administración Pública Estatal, para la realización de programas o acciones de desarrollo social;
+
+V.- Formular en coordinación con la Secretaría de Planeación y Finanzas, los lineamientos programáticos y financieros, a los que deberán apegarse las dependencias y entidades de la Administración Pública Estatal, al incorporar a sus programas institucionales, los compromisos contenidos en el Programa Sectorial de Desarrollo Social;
+
+VI.- Vigilar y asegurar que en los programas institucionales de las dependencias y entidades de la Administración Pública del Estado, se incorporen los compromisos que surjan del programa Sectorial de Desarrollo Social;
+
+VII.- Dar seguimiento y evaluar los resultados de los programas de desarrollo social;
+
+VIII.- Promover la coordinación de programas y acciones de bienestar social y combate a la pobreza que se desarrollan en el Estado, con las dependencias federales y los Ayuntamientos;
+
+IX.- Coordinar en el Estado las aciones (sic) que en materia de desarrollo social convengan el Ejecutivo Estatal y el Ejecutivo Federal;
+
+X.- Proponer al Ejecutivo los métodos, formas y acciones de coordinación entre el Estado y los Ayuntamientos, para fortalecer el desarrollo económico y social de los Municipios;
+
+XI.- Fomentar el desarrollo de programas de bienestar y desarrollo social en los que se incluya la participación ciudadana;
+
+XII.- Concertar programas y, apoyar las actividades de bienestar y desarrollo social de los particulares, grupos intermedios y organismos no gubernamentales que actúan en el Estado;
+
+XIII.- Fomentar la participación de instituciones académicas, de investigación, de organizaciones no gubernamentales y de la sociedad en general, en el desarrollo e instrumentación de estrategias para superar rezagos sociales e impulsar el bienestar social de la población;
+
+XIV.- Coordinar y concertar los programas especiales de desarrollo social, que se establezcan;
+
+XV.- Proponer e impulsar la ejecución de programas de emergencia social, destinados a zonas indígenas, rurales y urbanas marginales;
+
+XVI.- Analizar, diseñar, formular, ejecutar, desarrollar, vigilar y evaluar los procedimientos, sistemas y programas administrativos, necesarios para su funcionamiento;
+
+XVII.- Promover la obtención de recursos públicos, privados, o extranjeros, para los programas de desarrollo social;
+
+XVIII.- Suscribir, previo acuerdo del Ejecutivo, los convenios necesarios para el cumplimiento de sus atribuciones;
+
+XIX.- Promover la realización de acciones o construcción de obras de infraestructura y equipamiento para el desarrollo urbano y el bienestar social en coordinación con los gobiernos federal y municipal y, con la participación de los sectores social y privado; y
+
+XX.- Los demás que determinen las leyes y reglamentos.
 
 ARTICULO 26 BIS.- (DEROGADO, P.O. 5 DE JUNIO DE 1998)
 
@@ -1262,3 +1308,17 @@ Los bienes, recursos e información que las Secretarías de Finanzas y de Planea
 El Titular del Poder Ejecutivo dentro de los noventa días siguientes a partir de la vigencia del presente Decreto, expedirá el Reglamento Interior de la Secretaría de Planeación y Finanzas.
 
 En tanto no se expida el Reglamento a que se refiere el párrafo anterior, la Secretaría de Planeación y Finanzas seguirá aplicando los reglamentos interiores vigentes de las Secretarías de Finanzas y de Planeación y Presupuesto.
+
+P.O. 2 DE FEBRERO DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Acuerdo por el que se Crea la Coordinación General de la Política de Desarrollo Social del Ejecutivo, publicado en el Periódico Oficial del Estado, el día 8 de enero de 1993.
+
+TERCERO.- Los asuntos que tienen a su cargo la Coordinación general de la Política de Desarrollo Social del ejecutivo que se encontraren en trámite y pendientes de resolución al momento de entrar en vigor este Decreto, serán resueltos por la Secretaría de Desarrollo Social.
+
+CUARTO.- El personal, los bienes, recursos presupuestales e información que la Coordinación General de la Política de Desarrollo Social del ejecutivo haya utilizado o estén asignados para la atención de los asuntos de su competencia, se destinarán a las atribuciones y funciones de la Secretaría de Desarrollo Social que se crea con este Decreto.
+
+QUINTO.- Las referencias que se hacen o se hagan y las atribuciones que se otorguen en otras leyes, reglamentos, decretos y demás disposiciones legales a la Coordinación General de la Política de Desarrollo Social del Ejecutivo, se entenderán hechas a la Secretaría de Desarrollo Social, a partir de la entrada en vigor del presente Decreto;
+
+SEXTO.- El titular del Poder Ejecutivo, dentro de los noventa días siguientes a partir de la vigencia de este Decreto, expedirá el reglamento Interior de la Secretaría de Desarrollo Social.
