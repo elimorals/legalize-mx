@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-patronato-de-las-unidades-de-servicios-12887"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-23"
-last_updated: "1987-11-23"
+last_updated: "1994-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY QUE CREA EL PATRONATO DE LAS UNIDADES DE SERVICIOS CULTURALES Y TURISTICOS DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE ABRIL DE 1994.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 23 de Noviembre de 1987.
 
@@ -112,6 +112,10 @@ VIII.- Supervisar permanentemente el funcionamiento de las Unidades de Servicios
 IX.- Conocer y aprobar la realización de eventos y proyectos especiales en colaboración con otras instituciones públicas y privadas, que tiendan a reforzar la acción del Patronato y complementar sus esfuerzos.
 
 X.- Aprobar los contratos de concesión de servicios y conocer el procedimiento de asignación que siga la Dirección General para otorgarlas.
+
+> <small>(ADICIONADA, D.O. 25 DE ABRIL DE 1994)</small>
+
+XI.- Fijar las tarifas a cargo de los usuarios de los servicios que preste el Patronato mediante acuerdo que sea publicado en el Diario Oficial del Gobierno del Estado.
 
 DE LAS SESIONES DE LA JUNTA DE GOBIERNO
 
@@ -310,3 +314,11 @@ VICTOR M. CERVERA PACHECO
 EL SECRETARIO DE GOBIERNO
 
 JOSE IGNACIO MENDICUTI PAVON
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 25 DE ABRIL DE 1994.
+
+PRIMERO.- Se derogan las disposiciones legales que se opongan a lo dispuesto en este decreto.
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del gobierno del Estado.
