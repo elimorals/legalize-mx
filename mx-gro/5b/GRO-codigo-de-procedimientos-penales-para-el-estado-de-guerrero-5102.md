@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-procedimientos-penales-para-el-estado-de-guerrero-510
 country: "mx"
 rank: "codigo"
 publication_date: "1993-02-05"
-last_updated: "1999-11-09"
+last_updated: "2001-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO, NUMERO 357
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 5 de febrero de 1993.
 
@@ -41,11 +41,11 @@ CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO, NUMERO 357
 
 ### CAPITULO UNICO. ATRIBUCIONES Y FACULTADES GENERALES
 
-(REFORMADO, P.O. 31 DE MARZO DE 1995) (F. DE E., P.O. 2 DE MAYO DE 1995)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 1.
 
-Corresponde al Ministerio Público del Estado la Averiguación Previa de los delitos cometidos en esta entidad federativa, así como el ejercicio de la acción penal. En tal virtud, recibirá las denuncias y querellas que se presenten, realizará las investigaciones conducentes a acreditar los elementos del tipo penal y la probable responsabilidad del indiciado, dictará medidas para la protección de las víctimas; resolverá o solicitará el aseguramiento de bienes e instrumentos relacionados con el delito y proveerá las medidas precautorias que estime necesarias; y, en general, realizará las consignaciones procedentes, aportará las pruebas de sus pretensiones, requerirá la aplicación de sanciones, promoverá la absoluta libertad de quienes resulten inocentes, hará las promociones e intentará los recursos pertinentes en el procedimiento judicial y vigilará el debido cumplimiento de las sentencias.
+Corresponde al Ministerio Público del Estado la averiguación previa de los delitos cometidos en esta Entidad Federativa, así como el ejercicio de la acción penal. En tal virtud, recibirá las denuncias y querellas que se presenten, realizará las investigaciones conducentes a acreditar el cuerpo del delito y la probable responsabilidad del indiciado, dictará medidas para la protección de las víctimas; resolverá o solicitará el aseguramiento de bienes e instrumentos relacionados con el delito y proveerá las medidas precautorias que estime necesarias; y, en general, realizará las consignaciones procedentes, aportará las pruebas de sus pretensiones, requerirá la aplicación de sanciones, promoverá la absoluta libertad de quienes resulten inocentes, hará las promociones e intentará los recursos pertinentes en el procedimiento judicial y vigilará el debido cumplimiento de las sentencias.
 
 En el desempeño de sus funciones de averiguación previa, el Ministerio Público dispondrá de la policía judicial, que estará bajo su autoridad y mando inmediato y que, en tal virtud, limitará su actuación a las diligencias que aquél ordene, en la forma y términos que disponga la Ley. Asimismo, el Ministerio Público se hará asistir de peritos, que gozarán de completa autonomía técnica para la emisión de sus dictámenes.
 
@@ -409,7 +409,15 @@ No se requiere apoderado para la presentación de denuncias. Tratándose de deli
 
 ### CAPITULO II. DILIGENCIAS Y ACTAS DE AVERIGUACION PREVIA
 
+> <small>(ADICIONADO PRIMERO PARRAFO, P.O. 19 DE OCTUBRE DE 2001)</small>
+
 ###### Artículo 58.
+
+Inmediatamente que el Ministerio Público o los funcionarios encargados de practicar, en su auxilio, diligencias de averiguación previa, tengan conocimiento de la probable existencia de un delito que deba perseguirse de oficio, dictarán todas las medidas y providencias necesarias para proporcionar seguridad y auxilio y a las víctimas; impedir que se pierdan, alteren, obstruyan, sustraigan, o manipulen, de cualquier forma, las huellas o vestigios del hecho delictuoso, los instrumentos o cosas, objetos o efectos del mismo; saber qué personas fueron testigos; evitar que el delito se siga cometiendo y, en general, impedir que se dificulte la averiguación, procediendo a la detención de los que intervinieron en su comisión en los casos de delito flagrante.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2001)</small>
+
+Lo mismo se hará tratándose de delitos que solamente podrán perseguirse por querella, si ésta ha sido formulada.
 
 Iniciada la averiguación, el Ministerio Público adoptará todas las medidas legales conducentes a probar la comisión del delito, sus circunstancias y la responsabilidad o inocencia de las personas contra quiénes se dirijan la denuncia o la querella, la salvaguarda de los legítimos intereses del ofendido, el aseguramiento de personas o cosas relacionadas con los hechos y las demás medidas tendientes al desarrollo de la averiguación, según las finalidades de ésta.
 
@@ -467,21 +475,25 @@ En este caso, el funcionario encargado de la Averiguación Previa, formulará la
 
 Cuando exista a favor del inculpado una causa excluyente de responsabilidad penal o excusa absolutoria, plenamente comprobadas, el Ministerio Público lo pondrá en inmediata libertad, si estuviese detenido, y se dirigirá al juzgador para que, en un plazo que no exceda de quince días hábiles, haga la declaratoria correspondiente. Si el Juez considera, mediante resolución fundada, que no procede la confirmación de la libertad, lo hará saber así al Procurador General de Justicia, remitiéndole el expediente para que éste, en términos de la legislación aplicable, disponga lo conducente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE MARZO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 2001)</small>
 
-### CAPITULO III. ELEMENTOS DEL TIPO PENAL Y PROBABLE RESPONSABILIDAD
+### CAPITULO III. CUERPO DEL DELITO Y PROBABLE RESPONSABILIDAD
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 63.
 
-Para la comprobación de los elementos del tipo penal y de la probable responsabilidad, el Ministerio Público y el Tribunal podrán emplear los medios de investigación que estimen conducentes, conforme a las reglas probatorias contenidas en este Código.
+El Ministerio Público acreditará el cuerpo del delito de que se trate y la probable responsabilidad del indiciado, como base del ejercicio de la acción penal; y el Tribunal, a su vez, examinará si ambos requisitos están acreditados en autos.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 64.
 
-El tipo penal correspondiente se tendrá por comprobado, cuando se acredite la existencia de todos los elementos que integran la descripción de la conducta, según lo determine la Ley. La probable responsabilidad del inculpado se tendrá por comprobada cuando, de los medios probatorios existentes, se presuma su autoría o participación en el hecho delictivo.
+El cuerpo del delito correspondiente se tendrá por comprobado, cuando se acredite el conjunto de los elementos objetivos o externos que constituyen la materialidad del hecho que la ley señala como delito.
+
+En los casos en que la ley incorpore en la descripción de la conducta prevista como delito un elemento subjetivo o normativo, como elemento constitutivo esencial, será necesaria la acreditación del mismo para la comprobación del delito.
+
+La probable responsabilidad del inculpado se tendrá por comprobada cuando, de los medios probatorios existentes, se deduzca su obrar doloso o imprudencial en el delito que se le imputa, y no exista acreditada en su favor alguna causa de exclusión del delito.
 
 ###### Artículo 65.
 
@@ -493,21 +505,31 @@ Si se trata de homicidio, se practicará la necropsia para establecer las causas
 
 Cuando el cadáver no se encuentre o por otro motivo no se haga la necropsia, bastará que los peritos, en vista de los datos que obren en el expediente, dictaminen que la muerte fue resultado de las lesiones inferidas y comprobadas, exponiendo las razones en que se sustente el dictamen.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2001)</small>
+
 ###### Artículo 67.
 
-En los casos de aborto e infanticidio, se practicarán la necropsia y la inspección y se dictaminará sobre los demás elementos de los tipos respectivos, que requieran apreciación pericial.
+En el caso de aborto, se practicarán la necropsia, la inspección del cadáver por el Ministerio Público o el Tribunal y se recabará el dictamen de los peritos médicos quienes practicarán la necropsia y expresarán con minuciosidad el estado que guarde el cadáver, las causas que originaron la muerte y se dictaminará sobre los demás elementos del cuerpo del delito, que requieran apreciación pericial.
+
+En el caso del primer supuesto los peritos médicos reconocerán a la madre, describirán las lesiones que presente, dictaminarán sobre la causa del aborto, si la víctima nació viable y en uno y otro caso expresarán la edad de la víctima.
+
+Si la víctima hubiere sido sepultada, se procederá a inhumarla; solamente podrá dejarse de practicar la necropsia cuando tanto el Ministerio Público o el Tribunal en su caso, estimen que no es necesario.
+
+Cuando el cadáver no se encuentre o por otro motivo no se realice la necropsia bastará que los peritos, en vista de los datos que obren en el expediente dictaminen que la muerte fue resultado de las lesiones inferidas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2001)</small>
+
+ARTICULO 67 BIS.- Para integrar el cuerpo del delito de violencia intrafamiliar, deberá acreditarse el vínculo familiar o estado civil, en los términos del artículo 194-B del Código Penal; además de agregarse los dictámenes que emitan peritos en materia de salud física y psicoemocional, así como la práctica de más investigaciones, dictámenes o documentos que el Ministerio Público o el Tribunal juzguen pertinentes, siempre que no sean contrarios a derecho.
 
 > <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
 
-ARTICULO 67 BIS.- Para integrar los elementos del tipo penal de violencia intrafamiliar, deberá acreditarse el vínculo familiar o estado civil, en los términos del artículo 194 B del Código Penal; además de agregarse a la investigación los dictámenes necesarios que emitan peritos en materia de salud física y psico-emocional.
-
 Los organismos públicos o institucionales legalmente constituidas que tengan áreas inmersas en el tratamiento de violencia intrafamiliar, podrán colaborar, en calidad de peritos y sus informes deberán rendirse por escrito.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 68.
 
-En los casos de robo, el Ministerio Público y el Tribunal investigarán la preexistencia, propiedad y falta posterior de lo robado; asimismo, si el inculpado ha podido adquirir legítimamente la cosa que se dice robada y si la víctima se hallaba en situación de poseer la cosa materia del delito y es digna de fe y crédito. El Ministerio Público o el Tribunal apreciarán estas circunstancias, así como los antecedentes de la víctima y del inculpado y otros elementos que pudieran allegarse, para tener por comprobado el tipo penal del delito de robo.
+En los casos de robo, el Ministerio Público y el Tribunal investigarán la preexistencia, propiedad y falta posterior de lo robado; asimismo, si el inculpado ha podido adquirir legítimamente la cosa que se dice robada y si la víctima se hallaba en situación de poseer la cosa materia del delito y es digna de fe y crédito. El Ministerio Público o el Tribunal apreciarán estas circunstancias, así como los antecedentes de la víctima y del inculpado y otros elementos que pudieran allegarse, para tener por comprobado el cuerpo del delito de robo.
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 1995)</small>
 
@@ -537,9 +559,9 @@ En estos supuestos el Ministerio Público, bajo su responsabilidad, ordenará su
 
 Se califican como delitos graves para todos los efectos legales, los siguientes: homicidio, previsto en los Artículos 103, 104 y 108; secuestro, señalado por los Artículos 128 y 129; asalto contra un poblado, a que se refiere el Artículo 136; violación, señalado por los artículos 139 al 142; robo, contenido en el Artículo 163 fracción III, en relación con el 164; extorsión, previsto por el Artículo 174 segundo párrafo, cuando sea cometido por agentes policiales; ataque a los medios de transporte, previsto en el Artículo 206; rebelión, previsto en los artículos del 229 al 232, con excepción de la parte final del Artículo 230; terrorismo, previsto en el Artículo 234 en su primer párrafo, y sabotaje, previsto en el Artículo 235 fracciones I, II y III, todos del Código Penal Vigente.
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2001)</small>
 
-También se califican como delitos graves para todos los efectos legales, los siguientes: Contra la Administración de Justicia cometidos por Servidores Públicos, previsto en la fracción XXIX del artículo 269; así como el delito de evasión de presos contenido en el artículo 273, ambos del Código Penal del Estado de Guerrero.
+También se califican como delitos graves para todos los efectos legales, los siguientes: Corrupción de Menores e Incapaces, Pornografía Infantil y Prostitución Sexual de Menores, previstos en los artículos 217 y 217 bis, respectivamente, así como el previsto en el artículo 217 bis 3 y el delito de Lenocinio cuando se trate del supuesto señalado en el artículo 218, segundo párrafo, fracción IV; Trata de Personas, previsto en el segundo párrafo del artículo 219; Contra la Administración de Justicia cometidos por Servidores Públicos, previsto en la fracción XXIX del artículo 269; y el delito de evasión de presos contenidos en el artículo 273, todos del Código Penal en vigor.
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 1995)</small>
 
@@ -597,11 +619,17 @@ Una vez realizadas la inspección, la descripción y el reconocimiento, en su ca
 
 ### CAPITULO VII. EJERCICIO DE LA ACCION PENAL
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 74.
 
-El Ministerio Público ejercitará la acción penal, solicitando la aprehensión o comparecencia del inculpado, según proceda, cuando a su juicio se hayan comprobado los elementos del tipo penal y la probable responsabilidad del mismo. En el escrito de consignación puntualizará los hechos; examinará la responsabilidad que por ellos se atribuya, señalará las pruebas que acrediten aquéllos y ésta, formulará los señalamientos que procedan sobre las características y personalidad del inculpado, expondrá los elementos que sea debido tomar en cuenta para fijar el monto de la caución cuando ésta proceda, y manifestará todo lo que resulte pertinente para obtener del juzgador las resoluciones que legalmente correspondan.
+El Ministerio Público ejercitará la acción penal, solicitando la aprehensión o comparecencia del inculpado, según proceda, cuando a su juicio se hayan comprobado el cuerpo del delito y la probable responsabilidad del mismo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2001)</small>
+
+En el escrito de consignación puntualizará los hechos; examinará la responsabilidad que por ellos se atribuya, señalará las pruebas que acrediten aquéllos y éstas, formulará los señalamientos que procedan sobre las características y personalidad del inculpado, expondrá los elementos que sea debido tomar en cuenta para fijar el monto de la caución cuando ésta proceda, debidamente fundamentados y motivados y manifestará todo lo que resulte pertinente para obtener del juzgador las resoluciones que legalmente correspondan.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1995)</small>
 
 El Ministerio Público promoverá el sobreseimiento y la libertad absoluta del inculpado durante la Instrucción, requiriendo previamente la autorización del Procurador, cuando se haya probado cualesquiera de los extremos que determinan el no ejercicio de la acción penal, esté acreditada la existencia de una excluyente de incriminación, o una excusa absolutoria.
 
@@ -697,13 +725,25 @@ La declaración preparatoria se rendirá en audiencia pública, en la que no est
 
 ### CAPITULO III. AUTOS DE PROCESAMIENTO Y DE LIBERTAD POR FALTA DE ELEMENTOS PARA PROCEDER
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 87.
 
-Dentro de las setenta y dos horas siguientes, a partir del momento en que el inculpado quedó a disposición del Juez y una vez tomada la declaración preparatoria, si quiso declarar, se dictará auto de formal prisión cuando estén comprobados los elementos del tipo penal y la probable responsabilidad del inculpado, y no se haya extinguido la responsabilidad penal, ni existan causas que la excluyan.
+Dentro de las setenta y dos horas siguientes, al momento en que el inculpado quede materialmente a disposición del juez, se dictará auto de formal prisión cuando de lo actuado aparezcan acreditados los siguientes requisitos:
 
-Este plazo se ampliará una sola vez por otras setenta y dos horas, a solicitud unicamente del inculpado y su defensor, formulada en el momento de rendir declaración preparatoria, cuando la ampliación sea conveniente para el desahogo de pruebas que proponga la defensa. Mientras corre el período de ampliación, el Ministerio Público puede hacer las promociones correspondientes al interés social que representa, sólo en relación con las nuevas pruebas o alegaciones propuestas por el inculpado o su defensor.
+I.- Se haya tomado declaración preparatoria del inculpado en la forma y con los requisitos que establece el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y 59 de este Código o bien que conste en el expediente que aquél se rehusó a declarar;
+
+II.- Esté comprobado el cuerpo del delito de que se trate y que tenga señalada sanción privativa de libertad;
+
+III.- Que esté plenamente demostrada la probable responsabilidad del inculpado; y
+
+IV.- No esté plenamente comprobada alguna causa que elimine la responsabilidad o que extinga la acción penal del inculpado.
+
+El plazo a que se refiere el párrafo primero de este artículo se ampliará una sola vez por otras setenta y dos horas, a solicitud únicamente del inculpado y su defensor, formulada en el momento de rendir su declaración preparatoria, cuando la ampliación sea conveniente para el desahogo de pruebas que proponga la defensa.
+
+Mientras corre el período de ampliación, el Ministerio Público puede hacer las promociones correspondientes al interés social que representa, sólo en relación con las nuevas pruebas o alegaciones propuestas por el inculpado a su defensor.
+
+La ampliación del plazo se deberá notificar al Director del centro Preventivo en el que se encuentre internado el inculpado, para los efectos a que se refiere el segundo párrafo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Cuando no sea legalmente procedente la detención preventiva del inculpado, el Juez dictará auto de sujeción a proceso, una vez satisfechos los mismos requisitos exigidos para el de formal prisión.
 
@@ -825,11 +865,35 @@ III.- Cuando esté plenamente comprobado que existe una excluyente de responsabi
 
 IV.- Cuando se haya extinguido la acción penal;
 
-V.- Cuando se decrete la libertad por desvanecimiento de los datos que sirvieron para acreditar los elementos del tipo penal en el auto de formal prisión o de sujeción a proceso; y,
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2001)</small>
 
-VI.- En los demás casos en que la ley disponga la libertad absoluta del inculpado.
+V.- Cuando se decrete la libertad por desvanecimiento de los datos que sirvieron para acreditar el cuerpo del delito en el auto de formal prisión o de sujeción a proceso;
 
-Solo se podrá disponer el sobreseimiento en el curso de la Instrucción y hasta la presentación de conclusiones por el Ministerio Público. Se dictará de oficio o a petición de parte en todos los casos. Cuando la solicitud proceda del Ministerio Público, el Juez sobreseerá. Se tramitará en la forma prevista para los incidentes no especificados, y surtirá efectos sólo por lo que toca a los hechos y a los responsables a los que alcance la causa de sobreseimiento.
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2001)</small>
+
+VI.- Cuando habiéndose decretado la libertad por desvanecimiento de datos esté agotada la averiguación y no existan elementos posteriores para solicitar nueva orden de aprehensión.
+
+> <small>(REFORMADO, P.O, 19 DE OCTUBRE DE 2001)</small>
+
+Solo se podrá disponer el sobreseimiento en el curso de la Instrucción y hasta la presentación de conclusiones por el Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2001)</small>
+
+Se dictará de oficio o a petición de parte en todos los casos.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2001)</small>
+
+Cuando la solicitud proceda del Ministerio Público, el Juez sobreseerá.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2001)</small>
+
+Se tramitará en la forma prevista para los incidentes no especificados y surtirá efectos sólo por lo que toca a los hechos y a los responsables a los que alcance la causa de sobreseimiento.
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2001)</small>
+
+VII.- Cuando en cualquier estado de la instrucción y después de dictado el auto de formal prisión aparezcan plenamente desvanecidos los datos que sirvieron para comprobar el cuerpo del delito; y
+
+VIII.- En los demás casos en que la ley disponga la libertad absoluta del inculpado.
 
 ## TITULO QUINTO. PRUEBA
 
@@ -965,11 +1029,15 @@ Los indicios son hechos conocidos de los que se infiere, lógicamente, la existe
 
 El tribunal apreciará las pruebas conforme a las reglas de la sana crítica y expondrá en sus resoluciones los motivos que hubiese tenido para asignarles valor probatorio.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 123.
 
-La autoridad judicial calificará el valor de la confesión, razonando su determinación, según lo dispuesto en el artículo 128. Para que tenga eficacia probatoria, la confesión debe reunir los requisitos establecidos en el artículo 104. No basta la confesión para comprobar los elementos del tipo penal.
+La autoridad judicial calificará el valor de la confesión, razonando su determinación, según lo dispuesto en el artículo 128.
+
+Para que tenga eficacia probatoria, la confesión debe reunir los requisitos establecidos en el artículo 104.
+
+No basta la confesión para comprobar el cuerpo del delito.
 
 ###### Artículo 124.
 
@@ -1151,9 +1219,13 @@ Quien se crea con derecho al reconocimiento de su inocencia concurrirá ante el 
 
 Dentro de los cinco días siguientes a la presentación de la solicitud, el Tribunal Superior pedirá el proceso a la oficina en que se encuentre y citará al Ministerio Público, al solicitante y a su defensor a una audiencia que se celebrará dentro de los cinco días siguientes al recibo del expediente. En ella se desahogarán las pruebas ofrecidas por el promovente y se escuchará a éste y al Ministerio Público. Concluída la audiencia, el tribunal dispondrá de cinco días para resolver sobre la inocencia. Si se reconoce ésta, quedará anulada la sentencia condenatoria, se dará aviso al tribunal que condenó para que haga la anotación correspondiente a la sentencia y se publicará en el Periódico Oficial del Estado una síntesis del fallo que reconoció la inocencia.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2001)</small>
+
 ###### Artículo 145.
 
-Quien se encuentre en el caso de aplicación de ley más favorable, por supresión del tipo penal o modificación de la naturaleza o la duración de la pena o la medida de seguridad, ocurrirá al Tribunal Superior de Justicia para que éste anule total o parcialmente la sentencia y disponga la aplicación de la nueva ley, sin perjuicio de que el tribunal actúe de oficio o a petición de la autoridad ejecutora de sanciones. La solicitud se resolverá de plano, y se comunicará el fallo al juzgador que conoció del proceso en primera instancia, para que haga en la sentencia las anotaciones pertinentes, y a la autoridad ejecutora, para que haga cesar o modifique los efectos de la condena originalmente impuesta.
+Quien se encuentre en el caso de aplicación de ley más favorable, por supresión del cuerpo del delito o modificación de la naturaleza o la duración de la pena o la medida de seguridad, ocurrirá al Tribunal Superior de Justicia para que éste anule total o parcialmente la sentencia y disponga la aplicación de la nueva Ley, sin perjuicio de que el Tribunal actúe de oficio o a petición de la autoridad ejecutora de sanciones.
+
+La solicitud se resolverá de plano, y se comunicará el fallo al juzgador que conoció del proceso en primera instancia, para que haga en la sentencia las anotaciones pertinentes, y a la autoridad ejecutora, para que haga cesar o modifique los efectos de la condena originalmente impuesta.
 
 ###### Artículo 146.
 
@@ -1291,27 +1363,29 @@ La libertad bajo protesta se revocará por las mismas causas que determinan la r
 
 ### CAPITULO III. LIBERTAD POR DESVANECIMIENTO DE DATOS
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 156.
 
-La libertad por desvanecimiento de datos procederá en cualquier estado de la Instrucción, cuando aparezcan plenamente desvanecidos los datos considerados para comprobar los elementos del tipo penal o la probable responsabilidad del inculpado.
+La libertad por desvanecimiento de datos procederá en cualquier estado de la instrucción, cuando aparezcan plenamente desvanecidos los datos considerados para comprobar el cuerpo del delito o la probable responsabilidad del inculpado.
 
 ###### Artículo 157.
 
 Cualquiera de las partes puede solicitar el desvanecimiento, que se sustanciará en una audiencia de pruebas y alegatos y se resolverá dentro de los tres días siguientes a la conclusión de dicha audiencia.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 158.
 
-La resolución que conceda la libertad por desvanecimiento de las pruebas que sirvieron para comprobar los elementos del tipo penal, tendrá valor de sobreseimiento. En el caso de desvanecimiento de los datos que acreditaron la probable responsabilidad, se decretará la libertad del inculpado, sin perjuicio de que el Ministerio Público solicite nuevas diligencias ante el juzgador y requiera, con base en sus resultados, el libramiento de orden de reaprehensión o presentación.
+La resolución que conceda la libertad por desvanecimiento de las pruebas que sirvieron para comprobar el cuerpo del delito, tendrá valor de sobreseimiento.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1995)</small>
+En el caso de desvanecimiento de los datos que acreditaron la probable responsabilidad, se decretará la libertad del inculpado, sin perjuicio de que el Ministerio Público solicite nuevas diligencias ante el Juzgador y requiera, con base en sus resultados, el libramiento de orden de reaprehensión o presentación.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 159.
 
-La solicitud del Ministerio Público para que se conceda la libertad, no implica abandono de la acción penal o petición de sobreseimiento, salvo cuando se invoque el desvanecimiento de los datos que comprobaron los elementos del tipo penal. En este caso, se procederá en los términos previstos para la promoción de sobreseimiento.
+La solicitud del Ministerio Público para que se conceda la libertad, no implica abandono de la acción penal o petición de sobreseimiento, salvo cuando se invoque el desvanecimiento de los datos que comprobaron el cuerpo del delito. En este caso, se procederá en los términos previstos para la promoción de sobreseimiento.
 
 #### SECCION SEGUNDA. INCIDENTES DIVERSOS
 
@@ -1528,3 +1602,7 @@ P.O. 9 DE NOVIEMBRE DE 1999.
 PRIMERO.- El presente Decreto que reforma, adiciona y deroga diversas disposiciones del Código Penal del Estado de Guerrero; del Código de Procedimientos Penales para el Estado de Guerrero; del Código Civil del Estado de Guerrero; del Código Procesal Civil del Estado Libre y Soberano de Guerrero; de la Ley de Divorcio del Estado de Guerrero; y de la Ley Orgánica del Poder Judicial del Estado de Guerrero, entrará en vigor al día siguiente después de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los asuntos pendientes al entrar en vigor este Decreto se sujetarán a las disposiciones anteriores.
+
+P.O. 19 DE OCTUBRE DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
