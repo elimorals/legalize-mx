@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-fija-las-categorias-politica-y-administrativa-que-21442
 country: "mx"
 rank: "ley"
 publication_date: "1942-06-13"
-last_updated: "1974-02-23"
+last_updated: "1974-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE FIJA LAS CATEGORIAS POLITICA Y ADMINISTRATIVA QUE EN LO SUCESIVO OSTENTARAN LOS DIFERENTES POBLADOS DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1974.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 13 de Junio de 1942.
 
@@ -45,11 +45,11 @@ pueblos,
 
 rancherías,
 
-> <small>(DEROGADA, P.O. 23 DE FEBRERO DE 1974)</small>
+(DEROGADA, P.O. 23 DE FEBRERO DE 1974) (REPUBLICADA, P.O. 15 DE JUNIO DE 1974)
 
 Congregaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 1974)</small>
 
 I.- Dentro de la categoría de Ciudades se considerarán las poblaciones con una densidad no menor de VEINTE MIL HABITANTES y que reúnan, además, los siguientes requisitos:
 
@@ -61,9 +61,9 @@ c).- Que el 70% de los habitantes como mínimo se dediquen a actividades propias
 
 ch).- Que sea centro distribuidor de productos naturales e industriales de una región.
 
-> <small>(REFORMADO PRIMER PARRAO, P.O. 23 DE FEBRERO DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 1974)</small>
 
-II.- Tendrán la categoría política de Villas los pueblos que por su importancia demográfica merezcan tal denominacón (sic) acreditando una población no menor de QUINCE MIL HABITANTES y que cuenten con los siguientes requisitos:
+II.- Tendrán la categoría política de Villas los pueblos que por su importancia demográfica merezcan tal denominaciión (sic) acreditando una población no menor de QUINCE MIL HABITANTES y que cuenten con los siguientes requisitos:
 
 a).- Que la localidad haya sido antes pueblo.
 
@@ -75,15 +75,19 @@ ch).- Que el 65% de sus habitantes se dediquen a actividades urbanas.
 
 d).- Que sea cabecera de Municipio o centro distribuidor de productos regionales o centro industrial o minero por sí mismo.
 
-III.- Dentro de la denominación de PUEBLOS, se considerarán los núcleos de población dedicados a actividades heterogéneas (agricultura, comercio, pequeñas industrias) con una población no menor de dos mil habitantes radicados de un modo permanente y que sea cabecera municipal o cabecera de distrito.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1974)</small>
 
-IV.- El núcleo de población formado por 500 o más habitantes, será reconocido con el nombre de ranchería.
+III.- Dentro de la denominación de pueblos, se considerarán los núcleos de población dedicados a actividades heterogéneas (agricultura, comercio, pequeñas industrias), con una población no menor de DIEZ MIL HABITANTES, radicados de un modo permanente y que sea Cabecera Municipal o Cabecera de Distrito.
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 1974)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1974)</small>
 
-V.- Con la designación de Congregaciones, serán reconocidos los núcleos de poblaciones campesinas o ejidales que vivan del cultivo de la tierra, asentados de un modo permanente o núcleos de población que se constituyan en un lugar determinado con elementos provenientes de otra u otras poblaciones y en ambos casos estén integrados en un número inferior a CINCO MIL HABITANTES.
+IV.- El núcleo de población formado por CINCO MIL HABITANTES, será reconocido con el nombre de Ranchería.
 
-VI.- (N. DE E. EL CONTENIDO DE LA PRESENTE FRACCION SE FUSIONA CON EL DE LA FRACCION V, SEÑALANDOLO ASI EL LEGISLADOR, P.O. 23 DE FEBRERO DE 1974)
+(REFORMADA, P.O. 23 DE FEBRERO DE 1974)(REPUBLICADA, P.O. 15 DE JUNIO DE 1974)
+
+V.- Con la denominación de Congregaciones, serán reconocidos los núcleos de poblaciones campesinas o ejidales que vivan del cultivo de la tierra, asentados de un modo permanente o núcleos de población que se constituyan en un lugar determinado con elementos provenientes de otra u otras poblaciones y en ambos casos estén integrados en número inferior a CINCO MIL HABITANTES.
+
+VI.- (N. DE E. EL CONTENIDO DE LA PRESENTE FRACCION SE FUSIONA CON EL DE LA FRACCION V, SEÑALANDOLO ASI EL LEGISLADOR, P.O. 23 DE FEBRERO DE 1974)(REPUBLICADA, P.O. 15 DE JUNIO DE 1974)
 
 ###### Articulo 2o.
 
@@ -95,17 +99,23 @@ II.- AGENCIAS MUNICIPALES; Y
 
 III.- AGENCIAS DE POLICIA.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1974)</small>
+
 ###### Articulo 3o.
 
-Se dará la categoría de administrativa de Municipio, al pueblo que cuente como mínimo con dos mil habitantes.
+Se dará la categoría administrativa de Municipio, al pueblo que cuente como mínimo con DIEZ MIL HABITANTES:
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1974)</small>
 
 ###### Articulo 4o.
 
-El poblado que cuente con 500 o más habitantes, ostentará la categoría administrativa de Agencia Municipal.
+El poblado que cuente con CINCO MIL o más habitantes, ostentará la categoría administrativa de Agencia Municipal.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1974)</small>
 
 ###### Articulo 5o.
 
-La población que cuente con menos de quinientos habitantes tendrá la categoría administrativa de Agencia de Policía.
+La población que cuente con menos de CINCO MIL HABITANTES, tendrá la categoría administrativa de Agencia de Policía.
 
 ###### Articulo 6o.
 
@@ -119,9 +129,11 @@ En las Agencias Municipales funcionará, además del Representante de la Autorid
 
 En las rancherías funcionarán Agentes Municipales. Estos tendrán el carácter de Delegados de la Autoridad Municipal; servirán de conducto entre los vecinos de la Agencia y los Municipios a que se encuentre jurisdiccionados y podrán resolver económicamente con apego a las Leyes y disposiciones relativas, las consultas y problemas sencillos que se presenten, siempre con el carácter de "provisional" y a reserva de pedir la ratificación de las autoridades municipales.
 
+> <small>(N. DE E. REFORMADO, P.O. 15 DE JUNIO DE 1974)</small>
+
 ###### Articulo 9o.
 
-En los Ranchos y Congregaciones se establecerán Agencias de Policía destinadas a la vigilancia del orden, al cumplimiento de los acuerdos y determinaciones de los Ayuntamientos y para el cobro de los arbitrios municipales.
+En las Congregaciones se establecerán Agencias de policía destinadas a la vigilancia del orden, al cumplimiento de los acuerdos y determinaciones de los Ayuntamientos y para el cobro de los arbitros municipales.
 
 TRANSITORIOS:
 
@@ -146,5 +158,9 @@ Al C.............
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE FEBRERO DE 1974.
+
+UNICO.- El presente decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado y no tendrá efecto retroactivo.
+
+P.O. 15 DE JUNIO DE 1974.
 
 UNICO.- El presente decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado y no tendrá efecto retroactivo.
