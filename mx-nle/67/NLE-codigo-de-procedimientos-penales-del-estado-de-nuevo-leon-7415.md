@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2004-04-28"
+last_updated: "2004-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -321,9 +321,13 @@ En caso de infracción de las disposiciones contenidas en este capítulo, se san
 
 Cuando a juicio del Juez no se entorpezca el proceso, podrá autorizar al Ministerio Público adscrito para que estudie los expedientes fuera del Tribunal. El inculpado, su defensor y el ofendido podrán enterarse de los autos en la Secretaría del Tribunal, debiéndose tomar las medidas necesarias para que no los destruyan, alteren o substraigan.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 29.
 
-Las partes pueden solicitar por escrito copia simple o certificada de las constancias del proceso. El Juez dictará el acuerdo conducente.
+Cualquier persona podrá solicitar por escrito copia simple o certificada de las constancias del proceso. Lo anterior con excepción de los casos en que la Ley de Acceso a la Información Pública obligue a la autoridad a negar el acceso público a la información, en los cuales sólo las partes legitimadas o quienes ellas autoricen podrán consultar y obtener copias de los expedientes.
+
+El Juez o Magistrado dictará las medidas que sean conducentes, para tal efecto.
 
 ###### ARTICULO 30.
 
@@ -3860,3 +3864,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Los procedimientos regulados por las disposiciones que son reformadas a través del presente Decreto y que se encuentren en trámite al entrar en vigor el mismo, se regirán por lo dispuesto por la legislación conforme a la cual se iniciaron.
 
 Las partes, en los procedimientos referidos en el párrafo anterior, podrán optar por los beneficios derivados de las mencionadas reformas.
+
+P.O. 14 DE JULIO DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Las autoridades responsables de los Tribunales del Poder Judicial y del Poder Ejecutivo expedirán los lineamientos mediante los cuales, sin contravenir las disposiciones legales, se facilitará a las personas que lo soliciten el acceso a la información que obre en su poder.
