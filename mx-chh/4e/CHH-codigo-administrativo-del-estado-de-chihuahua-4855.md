@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1991-06-01"
+last_updated: "1992-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1992.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -1149,425 +1149,205 @@ I.- Con multa hasta de $1,000.00 que impondrán discrecionalmente el Tribunal o 
 
 II.- Con destitución de empleo sin responsabilidad para el Estado.
 
+> <small>(DEROGADA CON EL LIBRO, CAPITULO Y ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)</small>
+
 SEGUNDA PARTE
 
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)</small>
+
 # LIBRO UNICO
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)</small>
 
 ### CAPITULO UNICO. DEL MINISTERIO PUBLICO
 
 ###### ARTICULO 181.
 
-El Ministerio Público del Estado es una institución que tiene por objeto:
-
-I.- Investigar la comisión de las infracciones antisociales;
-
-II.- Perseguir ante los Tribunales del Estado todas las infracciones antisociales del orden común y oficiales;
-
-III.- Exigir la reparación del daño proveniente de la violación de los derechos garantizados por el Código de Defensa Social;
-
-IV.- Promover lo necesario para la recta y pronta administración de justicia;
-
-V.- Cuidar de que se ejecuten las medidas de defensa social impuestas por los tribunales, exigiendo de quien corresponda y bajo su responsabilidad, el cumplimiento de las sentencias recaídas;
-
-VI.- Intervenir en todos los demás negocios que las leyes determinen.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 182.
 
-Corresponderá al Ministerio Público, con respecto a la fracción III del artículo anterior, exigir las responsabilidades en materia de defensa social, originadas por las infracciones a las leyes, reglamentos o disposiciones que se refieran a la administración de justicia.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 183.
 
-El Ministerio Público tendrá bajo sus órdenes inmediatas a la Policía Judicial, pudiendo utilizar cuando lo estime conveniente, los servicios de la Policía del Estado y de las municipales.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 184.
 
-Toda denuncia o querella por infracciones antisociales de la competencia de los Tribunales del orden común y oficiales se hará precisamente al Ministerio Público o a la Policía Judicial dependiente de él, a fin de que estas autoridades procedan con sujeción a las prescripciones del presente Código y demás relativas. Las autoridades que tengan conocimiento de una infracción antisocial que se persiga de oficio están obligadas a comunicarla inmediatamente al Ministerio Público con cuantos datos obren en su poder.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 185.
 
-El Ministerio Público intervendrá en todas aquellas gestiones judiciales del orden común en que sea parte el Estado o la Hacienda Pública, salvo lo establecido en el artículo 93, fracción XXVIII de la Constitución Política.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 186.
 
-El Ministerio Público del Estado se compone:
-
-I.- De un Procurador General de Justicia del Estado, Jefe del Ministerio Público del orden común;
-
-II.- De un Agente Auxiliar adscrito, Subprocurador sustituto del Procurador;
-
-III.- De los Agentes Auxiliares adscritos a la Procuraduría;
-
-IV.- De los Agentes y Subagentes que fueren necesarios para el servicio de los Tribunales;
-
-V.- De los Jefes de las oficinas de los Departamentos de Averiguaciones Previas;
-
-VI.- Del personal de la Oficina Técnica;
-
-VII.- Del personal de la Policía Judicial.
-
-Las oficinas del Ministerio Público tendrán los empleados subalternos que sean necesarios para su funcionamiento.
-
-El Gobernador del Estado podrá aumentar el número de Agentes del Ministerio Público y de Agentes de la Policía Judicial según lo exijan las necesidades del servicio y lo autorice el presupuesto.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 187.
 
-El Procurador General de Justicia del Estado será nombrado y removido libremente por el Gobernador.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 188.
 
-Para ser Procurador General de Justicia se requiere:
-
-I.- Ser mexicano por nacimiento y estar en pleno ejercicio de sus derechos;
-
-II.- Ser mayor de 21 años;
-
-III.- Ser abogado con título legal registrado en el Estado, tener cinco años cuando menos de práctica profesional o cuatro en la judicatura, y un año, cuando menos, de residir en el Estado;
-
-IV.- Ser del estado seglar; y
-
-V.- No estar comprendido en la fracción IV del artículo 41 de la Constitución Política del Estado y ser de reconocida honorabilidad y de buena conducta.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 189.
 
-Los Agentes y empleados en las oficinas del Ministerio Publico serán nombrados por el Ejecutivo del Estado a propuesta del Procurador General.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 190.
 
-Los Agentes Auxiliares, los Agentes y los Jefes de las Oficinas de Averiguaciones Previas deberán ser ciudadanos mexicanos, mayores de edad, con tres años de práctica en la materia cuando menos y de buena conducta.
-
-Los demás agentes o subagentes deberán llenar estos mismos requisitos, excepto el relativo a la práctica en la materia.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 191.
 
-Los Agentes del Ministerio Público sólo podrán ser removidos de sus cargos por ascenso o por alguna de las causas de responsabilidad establecidas en las leyes del Estado.
-
-En caso de notoria y grave responsabilidad a juicio del Procurador General de Justicia, podrá éste suspender desde luego en su cargo al funcionario o empleado responsable, sin perjuicio de que se ejercite en su contra la acción correspondiente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 192.
 
-Las faltas temporales del personal que forma el Ministerio Público se suplirán de la manera siguiente:
-
-I.- Las del Procurador General de Justicia, por el Subprocurador, y a falta de éste por el Agente Auxiliar que designe el Procurador;
-
-II.- Las de los Agentes Auxiliares del Procurador por el agente que el mismo funcionario designe;
-
-III.- Las de los agentes adscritos a los Tribunales con nombramientos especiales que en cada caso hará el Procurador; y mientras éstos no sean hechos por el Agente Auxiliar que el mismo Procurador designe y en lugares foráneos por el Recaudador de Rentas de la localidad; y
-
-IV.- Las del resto del personal por designación del Procurador.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 193.
 
-Las faltas absolutas del Procurador, de los Agentes del Ministerio Público y del resto del personal, se cubrirán por nuevos nombramientos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 194.
 
-Son facultades y obligaciones del Procurador General de Justicia del Estado:
-
-I.- Intervenir personalmente, cuando la ley así lo exija, en asuntos civiles y criminales, ya sea compareciendo en juicio como actor, demandado o tercer opositor, o con cualquier otro carácter que le concedan las leyes o ya sea ejercitando por sí mismo la acción persecutoria procedente;
-
-II.- Investigar las infracciones antisociales del orden común y oficiales y perseguirlas por sí mismo o por medio de sus agentes ante los Tribunales del orden común del Estado;
-
-Asimismo, cuidar de que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita.
-
-III.- Intervenir por sí mismo, cuando lo juzgue necesario o lo acuerde el Gobernador, en los asuntos del orden civil en que el Ministerio Público, conforme a la ley, deba ser oído;
-
-IV.- Dar a sus respectivos agentes las instrucciones generales o especiales para el cumplimiento de sus deberes y para la unidad en la acción del Ministerio Público;
-
-V.- Investigar con especial diligencia, las detenciones arbitrarias que se cometan, promover su castigo y adoptar las medidas legales pertinentes para hacerlas cesar;
-
-VI.- Residir en el lugar en que tengan su asiento los poderes locales;
-
-VII.- Imponer a los agentes y demás personal del Ministerio Público correcciones disciplinarias por las faltas en que incurran en el desempeño de su cargo;
-
-VIII.- Asistir, teniendo solamente voz, a los plenos del Supremo Tribunal de Justicia del Estado;
-
-IX.- Acordar con el Gobernador dándole cuenta de los principales asuntos de la institución;
-
-X.- Encomendar a cualquiera de los Agentes del Ministerio Público, independientemente de sus atribuciones, el estudio de los asuntos en que así lo estime conveniente;
-
-XI.- Pedir que se haga efectiva la responsabilidad en que hubieren incurrido los funcionarios y empleados del Ministerio Público y de la administración de justicia del Estado, por las infracciones antisociales oficiales que cometieren en el desempeño de sus cargos;
-
-XII.- Recibir quejas sobre demoras, excesos o faltas en el desempeño de los negocios en que intervenga el Ministerio Público;
-
-XIII.- Calificar las excusas que presenten los agentes para intervenir en determinado asunto o inhibirse cuando tuvieren impedimento;
-
-XIV.- Iniciar ante el Gobernador las leyes y reglamentos que estime necesarios para la buena administración de justicia en el Estado;
-
-XV.- Recabar de cualquier oficina pública, sea local o federal, los informes, datos, noticias, copias simples y certificados, que creyere necesarios para el ejercicio de sus funciones;
-
-XVI.- Presentar al Gobernador una memoria anual sobre los trabajos realizados por el Ministerio Público y las observaciones y reformas legislativas que juzgue oportunas;
-
-XVII.- Visitar los establecimientos de reclusión de los detenidos, reformatorios, etc., personalmente o por medio de sus agentes, para vigilar la alimentación o trato que reciban, estado de sus causas y necesidades que tengan y puedan ser satisfechas sin menoscabo de la ley y reglamentos;
-
-XVIII.- Citar, a efecto de que rindan su declaración, a los denunciantes y demás personas que puedan ministrar datos para la averiguación de las infracciones antisociales y hacerlos comparecer en caso de desobediencia. El citatorio correspondiente podrá ser verbal, por cédula o bien, telefónico, si el caso fuere urgente;
-
-XIX.- Imponer correcciones disciplinarias a los testigos, empleados, litigantes y demás personas que falten al respeto y consideraciones debidas a su cargo, consistentes esas correcciones en apercibimiento, arresto hasta por treinta y seis horas o multa de $1.00 a $1,000.00 conmutable por arresto hasta por quince días;
-
-XX.- Solicitar al pleno del Supremo Tribunal de Justicia el cambio de radicación de un proceso a un juzgado de la Capital, cuando el delito imputado al procesado sea grave o la cárcel donde se encuentre recluido no preste las seguridades debidas y pueda favorecer su evasión.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 195.
 
-Son atribuciones y deberes de los Agentes Auxiliares adscritos a la Procuraduría:
-
-I.- Dictaminar los asuntos que reciba la Procuraduría para su revisión y consulta;
-
-II.- Intervenir como Agentes Especiales en los asuntos que determine el Procurador;
-
-III.- Turnar los exhortos y causas por incompetencia, excusa o impedimento que reciba el Ministerio Público a los Tribunales correspondientes;
-
-IV.- Practicar las visitas que el Procurador ordene en las Agencias y Subagencias del Ministerio Público y en los Juzgados Penales y Civiles, teniendo a la vista las averiguaciones, procesos y juicios correspondientes, sellando y autorizando con su firma las averiguaciones, procesos y juicios revisados;
-
-V.- Rendir al Procurador un informe pormenorizado del resultado de las visitas practicadas, proponiendo las medidas, que, a juicio, deben tomarse en cada caso;
-
-VI.- Girar instrucciones a la Policía Judicial para la mejor administración de justicia;
-
-VII.- Ordenar a los Departamentos de Averiguaciones Previas y Agentes Adscritos a los Tribunales, lo que se estime necesario para el mejor trámite de los negocios así como asesorar y girar instrucciones a los Agentes y Subagentes del Ministerio Público, en aquella parte del territorio del Estado que el Procurador les haya designado para su control administrativo;
-
-VIII.- Atender en segunda instancia la tramitación de los diversos recursos interpuestos por los Agentes Adscritos a los Tribunales;
-
-IX.- Suplir en sus funciones al Procurador y Primer Agente Auxiliar Adscrito cuando hayan sido designados expresamente para ello, en virtud de la ausencia de los mismos;
-
-X.- Proceder en la forma y términos a que se refieren las fracciones XVIII y XIX del artículo 194 de este Código;
-
-XI.- Suplir las faltas temporales de los Agentes o Subagentes o Auxiliares en sus funciones cuando así lo ordene el Procurador;
-
-XII.- Las demás que el Procurador les imponga.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 196.
 
-La Procuraduría General de Justicia contará con los Departamentos de Averiguaciones Previas, Agentes o Subagentes del Ministerio Público que señale el presupuesto de egresos correspondiente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 197.
 
-Son facultades y obligaciones de los Jefes de los Departamentos de Averiguaciones Previas:
-
-I.- Recibir las querellas o denuncias por infracciones antisociales de la competencia de los Tribunales del orden común;
-
-II.- Practicar las primeras diligencias que tiendan a la comprobación del cuerpo de las infracciones antisociales y responsabilidad de los indiciados en los términos del Código de Procedimientos en Materia de Defensa Social, debiendo estar acompañado en todas las diligencias que practique de dos testigos de asistencia que darán fe de ellas;
-
-III.- Aprehender al infractor y a sus cómplices en los casos a que se refiere el artículo 16 Constitucional;
-
-IV.- Remitir al Ministerio Público en turno todas las actas que haya levantado, poniendo a su disposición los objetos o instrumentos relacionados con ellas, así como a los detenidos;
-
-V.- Proceder en la forma y términos a que se refieren las fracciones XVIII y XIX del artículo 194 de este Código;
-
-VI.- Rendir al Procurador General una noticia estadística mensual de los asuntos de que haya tenido conocimiento y del estado que guardan;
-
-VII.- Recabar autorización del Procurador para la reserva y archivo de los expedientes de averiguación previa que estén en trámite; y
-
-VIII.- Las demás que le confieren las leyes y reglamentos respectivos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 198.
 
-Son facultades y obligaciones de los Agentes Adscritos a los Tribunales en materia de defensa social:
-
-I.- Las establecidas en el artículo anterior para los Jefes de los Departamentos de Averiguaciones Previas en los lugares en donde no existan éstos;
-
-II.- Concurrir diariamente a los Tribunales de su adscripción para oir las notificaciones que deban hacérseles, promoviendo lo que estimen conveniente para el perfeccionamiento de cada proceso;
-
-III.- Solicitar las órdenes de aprehensión contra los indiciados, cuya presunta responsabilidad se acredite en la averiguación o durante la instrucción del proceso, cuidando de que los juicios se sigan con toda regularidad;
-
-IV.- Ejercitar la acción de reparación del daño proveniente de la infracción antisocial en los casos y términos que la ley establece;
-
-V.- Promover en los procesos que fueren procedentes los exámenes periciales y las diligencias indicadas para conocer al procesado y sus antecedentes sociales;
-
-VI.- Concurrir a las diligencias judiciales, audiencias que practiquen los Tribunales de su adscripción y en los lugares fuera de esta Capital practicarán las visitas a que se refiere la fracción XVII del artículo 194 de este Código;
-
-VII.- Interponer los recursos legales que procedieren;
-
-VIII.- Rendir al Procurador General de Justicia una noticia mensual del estado que guardan los asuntos en que intervenga;
-
-IX.- Poner en conocimiento del Procurador General las irregularidades que advirtieren en la administración de justicia del Estado;
-
-X.- Pedir la imposición de la medida de defensa social correspondiente.
-
-EN MATERIA CIVIL:
-
-I.- Demandar, contestar demandas y formular los pedimentos procedentes en los negocios de la competencia del Tribunal a que estuvieran adscritos, siempre que estos negocios sean de aquéllos en que, conforme a la ley, deba ser oído el Ministerio Público o intervenir en los mismos ya como actor, como demandado o como tercer opositor;
-
-II.- Notificarse de las resoluciones dictadas en los asuntos en que intervenga y concurrir a las audiencias y demás diligencias que con su intervención deban practicarse;
-
-III.- Interponer los recursos legales procedentes y cuidar que su prosecución se ajuste a los trámites de la ley;
-
-IV.- Observar todas las demás disposiciones legales que les conciernen;
-
-V.- Proceder en la forma y términos a que se refieren las fracciones XVIII y XIX del artículo 194 de este Código, con la única modificación de que las multas que impongan deberán ser de $1.00 a $200.00.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 199.
 
-Para los efectos de las disposiciones anteriores deberán las autoridades municipales, la Policía del Estado y la Policía Judicial remitir a disposición del Departamento de Averiguaciones Previas correspondiente o a los Agentes o Subagentes del Ministerio Público en su caso, las actas, objetos personales, etc., para los efectos del artículo 197 de este Código.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 200.
 
-Los Agentes Adscritos a los Tribunales en materia de defensa social sólo podrán desistirse de la acción persecutoria intentada o de los pedimentos que hubieren formulado conforme a la ley procesal respectiva.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 201.
 
-Para los efectos del artículo anterior, no se considerará desistimiento de la acción antisocial la conformidad de los Agentes que se mencionan en dicho artículo en los casos de libertad bajo protesta.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 202.
 
-La Procuraduría General de Justicia contará con una Oficina Técnica y los laboratorios de investigaciones que sean necesarios, cuyo personal técnico y administrativo será nombrado por el Gobernador a propuesta del Procurador, pero en todo caso, constará de las siguientes secciones: Dactiloscopia, Identificación Criminal, Balística, Fotografía y Médico Forense. Corresponde a los laboratorios la investigación técnica policíaca de las infracciones antisociales.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 203.
 
-La Policía Judicial, de acuerdo con el artículo 21 de la Constitución Federal, es el órgano auxiliar del Ministerio Público, para la persecución de las infracciones antisociales y la ejecución de las órdenes judiciales correspondientes.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 204.
 
-Las órdenes a que se refiere el artículo anterior, serán transmitidas a la Policía Judicial por conducto del Procurador General de Justicia o de los Agentes Adscritos a los juzgados que las expidan, pudiendo transmitirlas también a la Policía del Estado o a las municipales, en su caso.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 205.
 
-La Policía Judicial tendrá un Jefe, los Comandantes de las oficinas locales y el número de agentes que el presupuesto señale.
-
-El Procurador está facultado para cambiar discrecionalmente la adscripción a todo el personal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 206.
 
-El personal de la Policía Judicial será nombrado por el Gobernador a propuesta del Procurador de Justicia.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 207.
 
-La Policía del Estado y las municipales son auxiliares de la Policía Judicial y por tanto tendrán la obligación de colaborar con ésta para el buen desempeño de sus funciones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 208.
 
-El Ministerio Público podrá solicitar el auxilio, y éstas tendrán obligación de darlo, de la Policía del Estado o de la policía municipal donde actúan para la persecución de las infracciones antisociales y la ejecución de las órdenes judiciales correspondientes.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 209.
 
-El Procurador podrá acreditar como Agentes de la Policía Judicial a otros empleados de la Institución, cuando lo juzgue pertinente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 210.
 
-Son atribuciones de la Policía Judicial como órgano auxiliar del Ministerio Público del orden común:
-
-I.- Investigar los hechos delictuosos de que tenga conocimiento, en los términos de las disposiciones legales aplicables;
-
-II.- Buscar las pruebas de la existencia de los delitos y las que tiendan a determinar la responsabilidad de quienes en ellos participen;
-
-III.- Citar y presentar personas para práctica de diligencias;
-
-IV.- Ejecutar órdenes de aprehensión y las de cateo cuando la autoridad judicial lo determine; y
-
-V.- Las demás que le señalen las leyes, los reglamentos y el Procurador.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 211.
 
-Para la persecución de los actos antisociales, el Ministerio Público tomará la intervención que le concierne inmediatamente que tenga conocimiento de un hecho antisocial, practicando sin demora las primeras diligencias tendientes a la comprobación del cuerpo de la infracción antisocial y a la responsabilidad de los indiciados, ejercitando ante los tribunales la acción persecutoria correspondiente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 212.
 
-De las investigaciones practicadas se levantará acta circunstanciada en los términos que dispone el Código de Procedimientos en Materia de Defensa Social.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 213.
 
-Cuando conforme a la ley quede detenida alguna persona a disposición del Departamento de Averiguaciones Previas, éste la remitirá al establecimiento de reclusión que corresponda a disposición del agente en turno, según el caso, remitiéndole a la vez las actas levantadas y los objetos o instrumentos de la infracción.
-
-Los cadáveres y personas lesionadas quedarán también a disposición de averiguaciones previas para que sean remitidos a los lugares dispuestos por el Código de Procedimientos en Materia de Defensa Social, para los efectos legales subsecuentes.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 214.
 
-El Agente del Ministerio Público en turno al recibir las diligencias a que se refiere el artículo anterior las consignará al Tribunal competente, si procede, ejercitando la acción persecutoria correspondiente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 215.
 
-El Agente del Ministerio Público adscrito a los Tribunales proseguirá el ejercicio de la acción persecutoria en los términos del artículo 198 de este Código.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 216.
 
-Cuando los Agentes soliciten instrucciones del Procurador General de Justicia, deberán exponer el caso y emitir la opinión que sobre éste se hayan formado con los elementos de derecho que sean pertinentes.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 217.
 
-Los Agentes al formular sus conclusiones ante los Tribunales, harán exposición metódica y sucinta de los hechos conducentes, propondrán las cuestiones de derecho que de ellos surjan, citarán las leyes, jurisprudencia y doctrinas aplicables y, en vista de unos y otros, emitirán su juicio en proposiciones claras, precisas y concretas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 218.
 
-Los Agentes del Ministerio Público en ningún estado del juicio podrán variar las acciones civiles o antisociales que hubieren intentado, ni las excepciones que hubieren opuesto sin previo conocimiento del Procurador General.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 219.
 
-Los Agentes del Ministerio Público deberán llevar un libro de registro y formarán expedientes con los oficios, circulares, instrucciones y demás documentos que reciban.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 220.
 
-Ni el Procurador de Justicia, ni los Agentes del Ministerio Público son recusables; pero deberán excusarse de los negocios civiles o antisociales, siempre que exista alguna de las causas que, conforme a los Códigos de Procedimientos Civiles y de Defensa en Materia Social, motivaren las excusas de los jueces. La calificación de la excusa de los Agentes compete al Procurador.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 221.
 
-Ningún funcionario o empleado del Ministerio Público podrá desempeñar otro puesto oficial ni ejercer la abogacía sino en causa propia, ni ser corredor, comisionista, apoderado judicial, tutor, curador, albacea, depositario judicial, síndico, depositario-administrador, interventor de concurso, árbitro o arbitrador. Se exceptúan de esta disposición los puestos de carácter docente, cuando se obtenga el permiso a que se refiere el artículo 192 de la Constitución Política del Estado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 222.
 
-El Procurador General de Justicia podrá imponer indistintamente a los Agentes y demás empleados del Ministerio Público por las faltas en que incurran en el servicio, además de las sanciones previstas en el artículo 194 de este Código, las correcciones disciplinarias siguientes:
-
-I.- Amonestación;
-
-II.- Suspensión de empleo hasta por quince días.
-
-Antes de imponer el Procurador alguna de las correcciones disciplinarias enumeradas en las fracciones anteriores, oirá en defensa al Agente o subalterno de que se trate, formando con los datos aportados un breve expediente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 223.
 
-Los Tribunales en caso de tener conocimiento de alguna falta de los Agentes, darán parte al Procurador General de Justicia para que éste imponga al responsable la corrección disciplinaria que proceda.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 224.
 
-En los casos del artículo anterior, si la falta fuere de palabra o por escrito al Tribunal ante quien ejerzan sus funciones, éste remitirá copia de lo conducente, para que el Procurador General de Justicia obre conforme a sus atribuciones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 225.
 
-El Procurador General de Justicia, los Agentes del Ministerio Público y los empleados subalternos son responsables por delito, faltas y omisiones en que incurran durante el ejercicio de sus cargos. Son causa de responsabilidad:
-
-I.- Faltar frecuentemente, sin causa justificada, a sus respectivas oficinas; llegar ordinariamente tarde a ellas o no permanecer en el despacho todo el tiempo prevenido por la ley;
-
-II.- Demorar indebidamente el despacho de los negocios, ya sea por falta de cumplimiento de las obligaciones que les impongan las leyes o de las órdenes que con arreglo a las mismas les dicten sus superiores;
-
-III.- Ejecutar hechos o incurrir en omisiones que tengan como consecuencia traspapelar expedientes, extraviar escritos o dificultar o demorar el ejercicio de los derechos de las partes en toda clase de asuntos;
-
-IV.- Ofender o denostar a los litigantes o a cualquiera otra persona que acuda a las oficinas del Ministerio Público o a las audiencias de los Tribunales en demanda de justicia o a informarse del estado que guardan los asuntos;
-
-V.- Sacar en los casos en que la ley no lo autoriza los expedientes y documentos fuera de las oficinas en que deban estar o de las del Ministerio Público o tratar fuera de las últimas los asuntos que allí se tramitan;
-
-VI.- Interponer recursos o promover incidentes notoriamente frívolos o maliciosos; pedir términos innecesarios o prórrogas indebidas;
-
-VII.- Ser negligente en buscar las pruebas que fueren necesarias para presentar las acusaciones que sean procedentes o para seguirlas ante los Tribunales;
-
-VIII.- Hacer acusaciones, pedimentos, formular conclusiones o rendir dictámenes que tengan como base hechos notoriamente falsos o improbables;
-
-IX.- Hacer acusaciones, pedimentos, formular conclusiones o rendir dictámenes notoriamente ilegales, con fundamentos jurídicos inaplicables o que no expresen fundamentos legales;
-
-X.- No hacer con oportunidad las promociones que conforme a la ley sean procedentes;
-
-XI.- No interponer en tiempo y forma los recursos que conforme a la ley, procedan contra las sentencias y demás resoluciones judiciales que no se ajusten estrictamente a las constancias de los autos y a las prescripciones de la ley;
-
-XII.- No sujetarse los agentes a las instrucciones que reciban del Procurador General;
-
-XIII.- Aceptar de los particulares ofrecimientos o promesas, recibir dádivas o cualquiera remuneración, por ejercer las funciones de su cargo o después de ejercerlas aún cuando no hubiere mediado concierto;
-
-XIV.- Solicitar de los litigantes y demás interesados, de sus procuradores o de sus patrones ni aún en concepto de gastos, dinero o promesas o cualquiera remuneración por ejercer las funciones de su cargo;
-
-XV.- No presentar acusación contra las personas que aparezcan responsables de una infracción antisocial;
-
-XVI.- Contravenir lo prevenido en los artículos 220 y 221 del presente Código; y
-
-XVII.- Las demás expresamente determinadas en las leyes vigentes y en las que con posterioridad se dicten.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 226.
 
-En los casos de responsabilidad a que se refiere el artículo anterior, se aplicará la medida de defensa que establezcan las leyes vigentes y si el caso no estuviere previsto en ellas, las que corresponden conforme a las disposiciones que siguen:
-
-I.- En los casos de las fracciones I y V inclusive del artículo anterior, multa de diez a mil pesos, y en caso de reincidencia, suspensión de empleo hasta por tres meses, y si por tercera vez incurriese el funcionario o empleado en las mismas faltas, destitución de empleo e inhabilitación para obtener otro por tres años en el ramo judicial y en el Ministerio Público por cinco años;
-
-II.- En los casos de las fracciones VI y XVI inclusive de dicho artículo, una medida de defensa que no baje de seis meses de reclusión ni exceda de tres años, destitución de empleo, inhabilitación para obtener otro en el ramo judicial y en el Ministerio Público por cinco años, contados después de extinguido el arresto o la reclusión en su caso;
-
-III.- En los casos de la fracción XVII si la ley que establece la infracción no impone medida de defensa alguna, se castigará con multa de diez a quinientos pesos o reclusión de seis meses a tres años, y en todo caso destitución de empleo o inhabilitación para obtener otro en el ramo judicial y en el Ministerio Público por cinco años.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 227.
 
-Las responsabilidades y las infracciones antisociales del Procurador de Justicia y de los Agentes del Ministerio Público se perseguirán en la forma que determinan la Constitución Política del Estado, este Código y el de Procedimientos en Materia de Defensa Social.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 TERCERA PARTE
 
@@ -2299,839 +2079,553 @@ El Encargado del Registro está facultado para imponer multas hasta de quiniento
 
 ###### ARTICULO 339.
 
-El ejercicio del notariado en el Estado de Chihuahua es una función de orden público a cargo del Ejecutivo del Estado, quien por delegación la encomienda a las personas que este Título señala.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 340.
 
-Notario es la persona investida de fe pública a virtud del nombramiento otorgado por el Ejecutivo del Estado, para hacer constar los hechos y actos jurídicos a los que los interesados deban o quieran dar autenticidad conforme a las leyes y autorizada para intervenir en tales actos o hechos jurídicos, revistiéndolos de solemnidad y forma legales.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 341.
 
-El notario podrá desempeñar la procuración judicial y ejercer la profesión de abogado en los negocios en que no haya intervenido como notario y con este último carácter no podrá intervenir en los asuntos en que haya tenido participación como procurador, patrono, consejero o abogado de alguna de las partes.
-
-Las funciones de notario son incompatibles:
-
-I.- Con el ejercicio de las profesiones de corredor y de ministro de cualquier culto;
-
-II.- Con todo empleo, cargo o comisión dependientes de la Federación, Estado o Municipio, organismos descentralizados o de empresas particulares cuando se establezca relación de patrón a trabajador respecto del notario. No se entenderán incluidos en esta disposición los cargos docentes, ni los servicios públicos obligatorios y gratuitos a que se refiere el artículo 5o. de la Constitución Federal;
-
-III.- Con todo cargo o empleo de los Poderes Judicial o Ejecutivo del Estado, de la Federación o Municipales, en que se ejerza la función jurisdiccional o se tenga relación directa con la administración de justicia;
-
-IV.- Con el cargo de funcionario de cualquiera de las dependencias que enumera el artículo 20 de este Código;
-
-V.- Con todo cargo de elección popular o de cualquier otro sobre el que la ley establezca prohibición en forma expresa.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 342.
 
-En cada Distrito Judicial podrá crearse una notaría por cada veinte mil habitantes, computándose su población de acuerdo con los datos proporcionados en el último censo practicado. En los lugares en que no exista el número de habitantes anteriormente mencionado, el Ejecutivo del Estado quedará facultado para crear hasta dos notarías, si juzga que las necesidades de dichos lugares lo ameritan.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 343.
 
-En los Distritos Judiciales en que no exista notaría, el Juez de Primera Instancia ejercerá las funciones de notario y en los Distritos en donde sólo haya una notaría y el titular falte o se excuse, cuando no pueda ser suplido legalmente, desempeñará las mismas funciones notariales accidentalmente el Juez de Primera Instancia correspondiente. En ambos casos tendrán preferencia para actuar como notarios los jueces civiles. Si hubiere varios de la misma categoría actuará el de número inferior.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 344.
 
-Los Jueces Menores de las Municipalidades en que no haya notario, podrán actuar con este carácter, sujetándose a lo previsto en el presente Código, siempre que al menos uno de los interesados sea vecino de su jurisdicción, salvo en los casos de testamentos que deban otorgarse urgentemente, los cuales pueden ser autorizados aunque no sea vecino el testador.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 345.
 
-Los notarios ejercerán sus funciones dentro de los límites del Distrito Judicial de su residencia, pero los actos que autoricen pueden referirse a cualquier otro lugar.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 346.
 
-Los notarios tienen derecho a cobrar y a percibir de los interesados los honorarios que devenguen conforme al arancel, quedándoles prohibido disminuirlos o aumentarlos, salvo disposición administrativa de carácter general en contrario. La violación a este precepto se sancionará de conformidad con el artículo 445.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 347.
 
-En los protestos, interpelaciones y demás diligencias que deba practicar el notario conforme a la ley, cuando ellas mismas se resistan o se opongan con violencia las personas con quienes hayan de entenderse, la policía prestará a los notarios el auxilio que se requiera para llevar a cabo dichas diligencias.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 348.
 
-La dirección y vigilancia de la función notarial queda a cargo de la Secretaría de Gobierno, por conducto del Departamento del Registro Público de la Propiedad y del Notariado, el que podrá, cuando lo estime conveniente, mandar que se practiquen visitas a los Notarios, con el objeto de cerciorarse si al autorizar las escrituras y actas han llenado los requisitos legales de las mismas, debiendo el visitador rendir el informe del Departamento con el resultado de la visita, los Notarios están obligados a mostrar su archivo a los visitadores y proporcionarles toda serie de informes y facilidades para el desempeño de su cometido, las visitas, excepto las extraordinarias y especiales, deberán practicarse anualmente, dando aviso al Notario con anticipación de cinco días hábiles.
-
-En todo caso se entregará a este copia del acta correspondiente y tendrá derecho a que se asienten las observaciones que estime pertinentes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 349.
 
-Los notarios en el ejercicio de su profesión reciben las confidencias de sus clientes. En consecuencia, deben guardar reserva sobre lo pasado ante ellos y están sujetos a las disposiciones legales sobre el secreto profesional, salvo los informes que obligatoriamente estabezcan (sic) las leyes respectivas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 350.
 
-El notario, a la vez que funcionario público es profesional del Derecho que ilustra a las partes en materia jurídica y que tiene el deber de explicarles el valor y las consecuencias legales de los actos que vaya a otorgar. Se exceptuarán de esta explicación a los Licenciados en Derecho.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 351.
 
-Además de las obligaciones que el presente Código impone a los notarios, éstos deben cumplir en el otorgamiento de las escrituras y expedición de testimonios o copias, con las demás obligaciones que les impongan las leyes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ### CAPITULO III. DE LOS ASPIRANTES AL EJERCICIO DEL NOTARIADO
 
 ###### ARTICULO 352.
 
-Para obtener el nombramiento de notario se requiere:
-
-I.- No tener enfermedad que impida el ejercicio de las facultades intelectuales, ni impedimento físico que se oponga a las funciones de notario;
-
-II.- Acreditar haber tenido y tener buena conducta;
-
-III.- Tener patente de aspirante al ejercicio del notariado;
-
-IV.- Tener residencia en el Estado por más de tres años;
-
-V.- Haber aprobado el examen o haber triunfado en la oposición que al efecto se celebre en la forma prevista por este Código.
-
-Los requisitos previstos en las fracciones I y IV se justificarán con certificaciones correspondientes de conformidad con el artículo 368 de este Código; el de la fracción II con la información testimonial de tres personas recibida con audiencia del ministerio público, el que puede rendir prueba en contrario; y por último, el requisito de la fracción III con la copia certificada de la patente respectiva.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 353.
 
-Cuando sea creada una notaría, o estuviere vacante alguna de las existentes, la Dirección General del Notariado publicará aviso por tres veces, de siete en siete días, en el Periódico Oficial del Estado, convocando a los aspirantes al ejercicio del notariado. El mismo aviso se publicará en igual forma en un periódico del Distrito Judicial correspondiente y en su defecto, en un periódico de la Capital del Estado. En el plazo de 30 días hábiles contados desde la fecha en que se publique por última vez dicho aviso en el Periódico Oficial, los pretendientes acudirán a la Dirección General del Notariado, solicitando ser admitidos a la oposición cumpliendo los requisitos a que se refiere el artículo anterior y la citada Dirección anotará en cada solicitud la fecha y hora en que fuere presentada y lo hará saber al Consejo de Notarios del Estado y al Colegio de Notarios respectivo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 354.
 
-La Dirección General del Notariado señalará lugar, día y hora para la celebración de los ejercicios de oposición. Este señalamiento lo dará a conocer a los candidatos, al Consejo y Colegio de Notarios respectivo, cuando menos con ocho días de anticipación y por medio de oficio enviado por correo a la dirección que aquéllos hubieren señalado al efecto en su solicitud.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 355.
 
-El jurado de examen se compondrá de cinco miembros; el Delegado del Gobernador del Estado, que siempre será abogado; el Presidente del Colegio de Notarios correspondiente y tres notarios más en ejercicio que designará dicho Colegio. Será Presidente del jurado, el Delegado del Gobernador y desempeñará las funciones de Secretario el notario de menos edad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 356.
 
-El examen consistirá en dos ejercicios, uno práctico y otro teórico. Para el primero, la Dirección General del Notariado presentará en sobres cerrados y numerados, veinte temas para redacción de escrituras.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 357.
 
-El día y hora fijados para el examen práctico se reunirán los aspirantes en el lugar señalado y en presencia de ellos y de un representante del Colegio de Notarios, el Secretario de éste extraerá de una ánfora una ficha y abrirá el sobre que contenga el tema marcado con el mismo número. Los candidatos procederán desde luego a la redacción de la escritura correspondiente, cada uno por su parte y sin auxilio de ninguna persona, bajo la vigilancia del representante del Colegio. Dispondrán de cinco horas corridas, concluidas las cuales el representante recogerá los trabajos estén o no terminados, guardándolos en un sobre que será firmado por él y por los interesados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 358.
 
-El ejercicio teórico será público procediéndose al examen de los aspirantes por el orden de presentación de sus solicitudes. El que por cualquier motivo no acudiere perderá su turno y será el último y si tampoco se presentare se entenderá que ha desistido.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 359.
 
-El examen teórico se iniciará con la lectura del trabajo presentado por el sustentante, debiendo los miembros del jurado examinar a éste por riguroso turno, sobre los temas jurídicos que libremente elijan. El interrogatorio se llevará a cabo por el jurado en orden inverso de su antigüedad en el ejercicio del notariado y concluirá con el examen del Presidente. Enseguida el jurado procederá a decidir por mayoría de votos a cuál de los sustentantes debe otorgarse la patente de notario o si ninguno ha sido acreedor a esta distinción, levantándose el acta respectiva.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 360.
 
-Cumplidos los requisitos a que se refieren los artículos anteriores, en su caso, el Ejecutivo del Estado extenderá la patente de notario, que se inscribirá en la Dirección General del Notariado, en el Registro Publico de la Propiedad que corresponda en la Sección Quinta, en el Consejo de Notarios y en el Colegio correspondiente. El designado deberá firmar al calce del registro de su patente en el libro destinado a ello, así como en la misma patente. Se adherirá en el libro mencionado y en la patente el retrato del interesado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 361.
 
-Para que el notario pueda ejercer sus funciones no basta que obtenga el nombramiento; debe, además:
-
-I.- Dar y conservar garantía, mediante fianza, hipoteca o depósito en efectivo por valor de $5,000.00, CINCO MIL PESOS;
-
-II.- Otorgar la protesta de ley ante el Gobernador del Estado;
-
-III.- Proveerse a su costa del sello, protocolos y libro de registro de actos fuera del protocolo, así como hacer registrar su sello y firma en la Dirección General del Notariado y en el Registro Público de la Propiedad a que corresponda la notaría en la Sección Quinta.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 362.
 
-La garantía elegida previa aceptación del Ejecutivo se puede substituir en cualquier tiempo, por otra de las mencionadas en el artículo anterior.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 363.
 
-La fianza se otorgará ante la Dirección General del Notariado por compañía de fianzas autorizada o en la forma que previene el Código Civil; la hipoteca se constituirá ante el notario que designe la aludida Dirección la cual estará representada por su titular o por la persona que con ese objeto señale el Ejecutivo; y el depósito se constituirá en la oficina receptora de impuestos que determine la citada Dirección del Notariado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 364.
 
-Cumplidos los anteriores requisitos, la Dirección General del Notariado mandará publicar el nombramiento en el Periódico Oficial, en la patente de notariado se pondrá la razón "REQUISITADO" que suscribirá el Encargado de la citada Dirección con expresión de la fecha en que lo hace.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 365.
 
-El sello del notario reunirá las características que señale la Dirección General del Notariado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 366.
 
-Si se pierde o altera el sello del notario, se proveerá de otro en el que se pondrá signo especial que lo distinga del anterior. Si aparece el sello extraviado no lo usará el notario, bajo pena de pérdida de su oficio, sino que lo entregará a la Dirección General del Notariado para que se destruya, levantándose acta por duplicado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ### CAPITULO IV. DEL NOTARIO EN EL EJERCICIO DE SUS FUNCIONES
 
 ###### ARTICULO 367.
 
-Son aspirantes al cargo de notario, los que obtengan del Ejecutivo la patente respectiva a ese cargo, previo el cumplimiento de las disposiciones siguientes:
-
-I.- Ser mexicano, tener veinticinco años cumplidos y no más de setenta, estar en el ejercicio de sus derechos de ciudadano; haber tenido y tener buena conducta privada y profesional;
-
-II.- Tener residencia en el Estado por más de dos años;
-
-III.- Ser abogado con título legalmente expedido y debidamente registrado en la Oficina Estatal de Profesiones;
-
-IV.- Comprobar que, previa obtención del título de Licenciado en Derecho, ha practicado durante ocho meses ininterrumpidos bajo la responsabilidad de algún notario, o bien, que habiendo sido Juez de Primera Instancia haya actuado como notario por receptoría durante más de un año;
-
-V.- No tener enfermedad que le impida el ejercicio de las facultades intelectuales ni impedimento que se oponga a las funciones del notariado;
-
-VI.- Ser aprobado para el examen que establece este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 368.
 
-Los requisitos señalados en el artículo anterior se justificarán en la siguiente forma:
-
-I.- El de la edad, con la copia certificada del acta correspondiente del Registro Civil y el de la nacionalidad, con el documento que legalmente la acredite;
-
-II.- El de disfrute de los derechos de ciudadano y el de buena conducta, con los certificados correspondientes y con la información testimonial recibida con audiencia del Ministerio Público;
-
-III.- El de la residencia, con el certificado expedido por la autoridad municipal;
-
-IV.- El de la posesión de título registrado, con la copia certificada de dicho documento;
-
-V.- El de la práctica, con el oficio de contestación que el Gobierno del Estado haya girado al notario al iniciarse aquélla y con el certificado que otorgue el propio notario, o bien, con la constancia expedida por el Supremo Tribunal de Justicia del Estado, si se trata de Juez que haya actuado por receptoría;
-
-VI.- El de la salud, con el certificado de dos médicos en ejercicio legal;
-
-VII.- El de la aprobación, con la copia certificada del acta de examen expedida por el Colegio de Notarios respectivo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 369.
 
-El que pretenda examen de aspirante deberá presentar su solicitud ante la Dirección General del Notariado, acompañando los documentos que justifiquen estar satisfechos los requisitos enunciados en las cinco primeras fracciones del artículo 367.
-
-Una vez que la Dirección General del Notariado estudie y apruebe la documentación presentada, señalará al solicitante el lugar, día y hora en que tendrá verificativo el examen.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 370.
 
-El jurado de examen se compondrá de cinco miembros y se integrará en la forma que establece el artículo 355 de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 371.
 
-El examen consistirá en una prueba práctica que será la redacción de un instrumento cuyo tema se sorteará de veinte seleccionados y colocados en sobres cerrados por la Dirección General del Notariado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 372.
 
-El sorteo de los temas, la instalación del jurado y la redacción del instrumento cuyo tema haya sido sorteado, se llevarán a cabo en la forma prevista por el artículo 357 de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 373.
 
-Transcurridas las cinco horas que se conceden al examinado para la redacción a que se hace mención en el artículo anterior, éste procederá a dar lectura a su trabajo ante el jurado, cuyos miembros podrán interrogarlo sobre el tema desarrollado y sobre cualquier otro relacionado con la función notarial.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 374.
 
-Al hacerse la calificación del instrumento redactado se tomará en cuenta no sólo la parte jurídica, sino también la redacción gramatical, en lo que se refiere a la claridad y precisión del lenguaje, así como la competencia que demuestre el examinado al responder a las preguntas formuladas por los miembros del jurado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 375.
 
-El jurado resolverá sobre la aprobación o reprobación del sustentante en escrutinio secreto y la mayoría de votos en sentido aprobatorio, será suficiente para extender la patente respectiva. Si la mayoría de los jurados vota por la reprobación del sustentante, no se podrá conceder nuevo examen a éste, sino después de transcurrido un año de la celebración del primer acto.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 376.
 
-El Secretario del Jurado levantará el acta relativa al examen que deberá ser firmada por todos sus integrantes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 377.
 
-Cumplidos los requisitos exigidos en los artículos anteriores, el Titular del Ejecutivo extenderá a favor del interesado la Patente de Aspirante al Ejercicio del Notariado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 378.
 
-La patente deberá ser registrada en la Dirección General del Notariado, en el Registro Público de la Propiedad respectivo en la Sección Quinta, en el Consejo de Notarios del Estado, y en su caso, en el Colegio de Notarios correspondiente. El interesado deberá firmar al calce del registro de su patente en el libro destinado a ello, así como en la misma patente. Igualmente se adherirá en el libro mencionado y en la patente, el retrato del propio interesado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 379.
 
-Satisfechos los requisitos que anteceden se mandará publicar por una sola vez la patente respectiva en el Periódico Oficial del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ### CAPITULO V. DEL PROTOCOLO
 
 ###### ARTICULO 380.
 
-El notario podrá separarse hasta por seis días hábiles del despacho de la notaría a su cargo, sin necesidad de dar aviso alguno al Ejecutivo del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 381.
 
-Si la separación se prolongara por un término mayor del expresado en el artículo anterior, sin exceder de sesenta días, el notario deberá dar aviso a la Dirección General del Notariado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 382.
 
-Los notarios tienen derecho a solicitar y obtener del Ejecutivo licencia para estar separados de su cargo hasta por el término de un año renunciable.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 383.
 
-El notario tiene derecho a que el Ejecutivo le otorgue licencia por todo el tiempo que dure en el desempeño de un cargo público para el que hubiere sido designado o electo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 384.
 
-Al separarse el notario del ejercicio de sus funciones, en los casos a que se refieren los artículos 381 al 383 podrá designar a uno de los aspirantes como adscrito a su notaría, eligiendo el que le convenga en la lista que lleve la Dirección General del Notariado, previo acuerdo con el interesado. El nombramiento de adscrito deberá comunicarse a la misma Dirección y surtirá sus efectos en tanto subsista la separación del notario. En el caso de que el notario no designare a ningún aspirante, entregará los libros y sus anexos a un Juzgado de Primera Instancia del Distrito a que corresponda, y si se trata del Distrito Judicial Morelos, a la Dirección General del Notariado. El Juez de Primera Instancia y la Dirección General del Notariado, ante quien se hayan depositado los libros y anexos de una notaría, podrán, a solicitud de parte interesada expedir los testimonios respectivos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 385.
 
-El Ejecutivo puede autorizar permutas del cargo notarial entre los notarios. A solicitud del notario interesado, oyendo al Consejo de Notarios, podrá también acordar el cambio de residencia de los notarios, siempre que se encuentre vacante una notaría en el Distrito Judicial a donde hubiere de efectuarse el traslado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 386.
 
-Con el objeto de suplirse en las separaciones que no excedan de sesenta días, dos notarios que ejerzan en la misma población podrán asociarse para actuar indistintamente en sus respectivos protocolos. La celebración del convenio de asociación, el cual podrá ser por tiempo indeterminado, se hará del conocimiento de la Dirección General del Notariado.
-
-La asociación podrá terminar a voluntad de cualquiera de los dos notarios, debiendo llenarse los mismos requisitos que para su constitución.
-
-Al separarse, uno de los notarios asociados dará aviso a la Dirección para que tome la razón correspondiente y su asociado pueda hacerse cargo de la notaría de que aquél es titular. Al reanudar sus labores, deberá darse nuevo aviso, suscrito por ambos notarios.
-
-El notario que supla a su asociado deberá hacer constar, en cada instrumento o acto que autorice, que interviene por separación del titular.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 387.
 
-También podrán asociarse dos notarios para actuar indistintamente en un mismo protocolo, que será el del notario más antiguo. La asociación a que este artículo se refiere y su terminación, que podrá efectuarse cuando cualquiera de ellos lo deseare, se harán del conocimiento de la Dirección General del Notariado, la que mandará publicarla por una sola vez en el Periódico Oficial del Estado e inscribirla en el Registro Público de la Propiedad correspondiente.
-
-Al terminar la asociación el notario más antiguo continuará actuando en el protocolo de su notaría y el otro se proveerá de protocolo en los términos de este Código. Si la asociación se lleva a cabo cuando ambos notarios estén en ejercicio, el protocolo del notario menos antiguo se depositará en la Dirección General del Notariado durante el término que dure la asociación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 388.
 
-El notario no puede ejercer sus funciones mientras lo substituya el adscrito en el ejercicio de ellas o el asociado, en el caso del artículo 386.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 389.
 
-El notario está obligado a ejercer sus funciones siempre que sea requerido para ello.
-
-Debe rehusarlas:
-
-I.- Si el acto cuya autorización se le pide está prohibido por la ley, o si se efectuó con violación de la misma, o si su autorización legal corresponde exclusivamente a otro funcionario;
-
-II.- Si como partes intervienen su cónyuge, sus parientes consanguíneos o afines en la línea recta sin limitación de grado, o los colaterales que lo sean por consanguinidad dentro del cuarto grado o por afinidad dentro del segundo;
-
-III.- Si el acto contiene disposiciones o estipulaciones que interesen directamente al notario, a su cónyuge, o alguno de sus parientes que se expresan en la fracción anterior;
-
-IV.- En los casos previstos en el artículo 341 de este Código.
-
-El notario puede rehusar el ejercicio de sus funciones si los interesados no le anticipan sus gastos y honorarios, salvo en los casos de testamentos que deban otorgarse urgentemente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 390.
 
-No obstante lo previsto en el artículo anterior el notario puede autorizar en su protocolo sus propios mandatos, testamento y declaraciones unilaterales.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 391.
 
-Las notarías estarán abiertas por lo menos seis horas al día, entre las ocho de la mañana y las ocho de la noche y en lugar visible para el público tendrán un rótulo con el nombre, apellido, cargo, número del notario y horas que fija para el despacho.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ### CAPITULO VI. DE LAS ESCRITURAS
 
 ###### ARTICULO 392.
 
-El protocolo está constituido por los libros o volúmenes en los cuales el notario debe asentar las escrituras públicas y las actas notariales que, respectivamente, contengan los actos o hechos jurídicos sometidos a su autorización y por el apéndice en que se glosan los documentos relacionados con aquéllos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 393.
 
-No podrán pasar de diez los libros del protocolo que se lleven al mismo tiempo en una notaría. El notario libremente puede optar por el número que estime conveniente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 394.
 
-Los libros del protocolo y el libro de registro previsto en el artículo 429 serán uniformes, adquiridos y pagados por el notario interesado. Estos libros, encuadernados y empastados sólidamente constarán de ciento cincuenta fojas y una foja más al principio y sin numerar destinada al título del libro.
-
-Las hojas del protocolo tendrán treinta y cinco centímetros de largo por veinticuatro de ancho en su parte utilizable. Al escribirse en ellas las escrituras y actas notariales, se dejará en blanco una tercera parte de la izquierda, separada por medio de una línea de tinta roja, para poner en dicha parte las razones y anotaciones que legalmente deban asentarse allí.
-
-Además se dejará siempre en blanco una franja de una centímetro y medio de ancho por el lado del doblez del libro y otra igual a la orilla para proteger lo escrito.
-
-Cuando se escriba en máquina en el protocolo o se use cualquier otro medio mecánico se podrá reducir el margen interno de la página izquierda del mismo libro en un centímetro y medio más aumentado en igual extensión al margen externo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 395.
 
-En la primera página útil de cada libro la Dirección General del Notariado pondrá la razón en que conste el lugar y la fecha, el número que corresponda al volumen según lo que vaya recibiendo el notario durante su ejercicio, el número ordinal, nombre y apellido del notario y el lugar en que deba residir y está situada la notaría.
-
-Al final de la última página del libro se pondrá una razón análoga sellada y suscrita también, por el Director General del Notariado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 396.
 
-Cada notario abrirá sus libros de protocolo y de registro de actos fuera de protocolo, poniendo en ellos después de la razón suscrita por la Dirección General del Notariado, otra en la que se exprese su nombre, apellido y número así como el lugar y fecha en que se abre el libro, todo cubierto con su sello y firma.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 397.
 
-El uso de los libros que debe hacerse por el orden riguroso de la numeración de las escrituras y actas notariales, yendo de un libro a otro en cada escritura o acta, hasta llegar al último y volviendo de éste al primero, para lo cual serán numerados los libros.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 398.
 
-La numeración de los instrumentos, o sea, de las escrituras y actas notariales, será progresiva desde el primer volumen en adelante; es decir, sin interrumpirla de un volumen a otro a un cuando no pase alguna de dichas escrituras o actas.
-
-Entre uno y otro de los instrumentos, en un mismo volumen, no habrá más espacio que el indispensable para las firmas, autorización y sello. Sin embargo, cuando el notario quiera sacar testimonios fotográficos que comiencen al principio de una página iniciará sus escrituras y actas al principio de ella y los renglones que hubieren quedado en blanco después del sello de la autorización de la escritura anterior serán inutilizados con líneas de tinta fuertemente grabadas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 399.
 
-Cuando esté por concluirse algún libro del protocolo, con una anticipación aproximada de treinta días, el notario se proveerá de otro u otros libros debidamente requisitados. Dicho notario, cuando calcule que ya no pueda dar cabida a otro instrumento más en el libro, lo cerrará poniendo una razón en la que expresará el número de páginas utilizadas, el número de instrumentos asentados en el libro y el lugar, día y hora en que lo cierra. Inmediatamente que ponga esa razón inutilizará con líneas cruzadas las fojas en blanco que hayan sobrado. Similar razón se asentará al concluirse el libro de Registro de Actos fuera de Protocolo.
-
-Cuando un notario tenga su protocolo en varios libros, al cerrar uno, tendrá que cerrarlos todos en la forma prescrita.
-
-La circunstancia de haber abierto el notario un libro nuevo sin haber cerrado antes, como está prevenido, los anteriores establece contra el notario omiso la presunción de dolo.
-
-Los notarios podrán guardar en depósito los libros cerrados de su protocolo durante diez años, contados desde la fecha en que fueron requisitados por la Dirección General del Notariado y transcurrido ese término deberán entregarse a dicha Dirección.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 400.
 
-En el caso de vacancia de una notaría por suspensión del que la servía, fallecimiento del titular o cualquier otro motivo, el archivo de la misma deberá depositarse en la Dirección General del Notariado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 401.
 
-El Director General del Notariado deberá cerrar en su caso, los libros del protocolo, poniendo razón en cada libro de la causa que motivó su clausura y expresando el número de escrituras autorizadas en el libro que se cierra en los términos indicados en el artículo 399.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 402.
 
-La clausura de una notaría la efectuará el Director General del Notariado, levantando un inventario por duplicado de los protocolos, índices, libreros de registro a que se refiere el artículo 429, demás documentos del archivo y sello de autorizar, quedando un ejemplar en la Dirección General del Notariado y otro, en su caso, en poder del notario que estuvo a cargo de la notaría.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 403.
 
-Por ningún motivo podrán sacarse de la notaría los protocolos ya sea que los libros estén en uso o ya concluidos, si no es por el mismo notario y sólo en los casos determinados por el presente Código y para recoger firmas a las partes, dentro de la jurisdicción del notario, cuando éstas no puedan asistir a la notaría o el notario esté dispuesto a salir a recogerlas. Si alguna autoridad con facultades legales ordena la visita de uno o más libros del protocolo, el acto se efectuará en la misma oficina del notario y siempre en presencia de éste.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 404.
 
-El notario, en relación con los libros del protocolo llevará una carpeta por cada volumen, en donde irá depositando los documentos que se refieren a las escrituras y actas. El contenido de estas carpetas se llamará "Apéndice", que se considerará como parte integrante del protocolo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 405.
 
-Los documentos del apéndice, se arreglarán por legajos, poniéndose en cada uno de ellos el número que corresponde a la escritura o acta a que se refieren y en cada no de los documentos se pondrá una letra que lo señale y distinga de los otros que forman el legajo.
-
-De los expediente que se protocolicen por mandato judicial, se agregará una copia certificada al apéndice del volumen respectivo y se considerarán como un solo documento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 406.
 
-Los apéndices se encuadernarán ordenadamente y se empastarán al concluir el libro del protocolo al que pertenecen.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 407.
 
-Los documentos del apéndice no podrán desglosarse. Los conservará el notario y seguirán a su libro respectivo del protocolo cuando éste deba ser entregado a la Dirección General del Notariado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 408.
 
-Independientemente del Protocolo y del Libro de Registro de Actos fuera del Protocolo a que se refiere el artículo 429, los notarios tendrán obligación de llevar un índice por duplicado, de cada juego de libros, en hojas tamaño testimonio, por orden progresivo, señalando los nombres de los otorgantes, los de los representantes en su caso, naturaleza del acto o hecho, folio, volumen y fecha. Cuando deban entregar los libros de su protocolo a la Dirección General del Notariado, entregarán también empastado un ejemplar de dicho índice. Independientemente del índice a que se refiere este precepto, los notarios podrán llevar cuantos índices estimaren convenientes para el mejor ejercicio de la función que desempeñan.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ### CAPITULO VII. DE LOS TESTIMONIOS
 
 ###### ARTICULO 409.
 
-Para los efectos de este Código se entiende por escritura el instrumento original o matriz que el notario asiente en el protocolo para hacer constar un acto jurídico.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 410.
 
-Las escrituras se asentarán con letra clara, sin abreviaturas, salvo el caso de inserción de documentos y sin guarismos, a no ser que la misma cantidad aparezca asentada con letras. Los blancos y huecos, si los hubiere, se cubrirán con líneas de tinta fuertemente grabada, precisamente antes de que se firme la escritura. Al final de ella, se salvarán las palabras testadas y entrerrenglonadas, de cuyo número se hará mérito. Las palabras se testarán cruzándolas con una línea que las deje legibles, haciendo constar que no valen. Las entrerrenglonadas se harán constar que sí valen. El espacio en blanco que pueda quedar antes de las firmas en las escrituras, deberá ser llenado con líneas de tinta. Se prohiben las enmendaduras y raspaduras.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 411.
 
-El notario redactará las escrituras en español, pudiendo usar las palabras de otro idioma que sean de uso general y corriente y que no tengan equivalente apropiado en el idioma castellano, observado las reglas siguientes:
-
-I.- Expresará el lugar y fecha en que se extienda la escritura, su nombre y apellido y el número de la notaría;
-
-II.- Indicará la hora en los casos en que la ley lo prevenga;
-
-III.- Consignará las declaraciones que hagan los otorgantes como antecedentes o preliminares y certificará que ha tenido a la vista los documentos que se le hubieren presentado y que se hayan relacionado o insertado en la parte expositiva o proemio de la escritura. Si se tratare de inmuebles, relacionará cuando menos el último título de propiedad del bien o del derecho a que se refiere la escritura y citará su inscripción en el Registro Público o expresará que no está registrado;
-
-IV.- Al citar el nombre de un notario ante cuya fe haya pasado algún instrumento, mencionará precisamente su número y la fecha del instrumento;
-
-V.- Consignará el acto en cláusulas redactadas con claridad y concisión, evitando toda palabra o fórmula inútil o anticuada;
-
-VI.- designará con precisión las cosas que sean objeto del acto, procurando que no puedan confundirse con otras. Si se tratares de bienes inmuebles, determinará su naturaleza, su ubicación y sus colindancias o linderos y en cuanto fuere posible su extensión superficial;
-
-VII.- Determinará las renuncias de derechos que hagan los otorgantes válidamente;
-
-VIII.- Dejará acreditada la personalidad de quien comparezca en representación de otros, relacionando o insertando los documentos respectivos, o bien, agregándolos al apéndice y haciendo mención de ellos en la escritura.
-
-Tratándose de funcionarios públicos federales, estatales o municipales o representantes de organismos descentralizados, cuyo nombramiento o elección se haya publicado en el Periódico Oficial o Diario Oficial, bastará que se haga referencia a la publicación relativa.
-
-Los representantes de organismos descentralizados o de empresas de participación estatal, cuyos nombramientos no se publiquen en el Periódico o Diario Oficial, bastará con que se citen los datos de la inscripción del Registro Público de la Propiedad de su domicilio en el Estado, del nombramiento o del poder del compareciente;
-
-IX.- Compulsará los documentos de que deba hacerse inserción a la letra, los cuales sellará y rubricará y en su caso, agregará al apéndice;
-
-X.- Al agregar al apéndice cualquier documento expresará el número del legajo y la letra bajo la cual se coloca;
-
-XI.- Expresará el nombre y apellidos, edad, estado civil, lugar de origen, nacionalidad, profesión u oficio y domicilio de los intervinientes, así como los demás requisitos que otras leyes señalen;
-
-XII.- Para constar bajo su fe:
-
-a).- Que conoce a los otorgantes y que a su juicio tienen capacidad legal.
-
-b).- Que les leyó la escritura, así como a los testigos de conocimiento e intérpretes si los hubiere, o que los otorgantes la leyeron por sí mismos.
-
-c).- Que a los otorgantes les explicó el valor y las consecuencias legales del contenido de la escritura, cuando proceda, según el artículo 350 de este Código.
-
-d).- Que los comparecientes manifestaron ante el notario su conformidad con la escritura y firmaron ésta o no lo hicieron por declarar que no saben o que no pueden firmar. En substitución del otorgante que se encuentre en cualquiera de estos casos, firmará la persona que al efecto elija.
-
-e).- La fecha o fechas en que firmaron la escritura los otorgantes o la persona o personas elegidas por ellos, testigos e intérpretes si los hubiere.
-
-f).- Los hechos que presencie el notario y que sean integrantes del acto que autorice, como entrega de dinero o de títulos y otros.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 412.
 
-Para que el notario dé fe de conocer a los otorgantes y de que tienen capacidad legal bastará que sepa su nombre y apellido, que no observe en ellos manifestaciones patentes de incapacidad natural y que no tenga noticia de que están sujetos a incapacidad civil.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 413.
 
-En caso de no serle conocidos, hará constar su identidad si le presentan documentos oficiales que los acrediten o por declaración de dos testigos mayores de edad, a quienes conozca el notario, circunstancia que hará constar. Para que los testigos aseguren la identidad de los otorgantes, bastará que sepan su nombre y apellido, que no observen en ellos manifestaciones patentes de incapacidad natural y que no tengan conocimiento de que están sujetos a incapacidad civil.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 414.
 
-Si no hubiere testigos de conocimiento o éstos carecieren de los requisitos legales para testificar, o no se presentaren los documentos a que se refiere el artículo anterior, no se otorgará la escritura si no es en caso urgente, expresando el notario la razón de ello. La escritura se perfeccionará comprobada que sea la identidad o capacidad de los otorgantes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 415.
 
-Quienes comparezcan en nombre o representación de otra persona, deberán declarar, bajo protesta de decir verdad, si esa representación les ha sido revocada o limitada o si ha concluido por alguna otra causa.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 416.
 
-Si alguno de los otorgantes fuere sordo, leerá por sí mismo la escritura y si además declarare no saber o no poder leer, designará una persona que lea en su lugar, persona que le dará a conocer el contenido de la escritura por medio de signos o de otra manera, todo lo cual hará constar el notario. En igual forma se procederá tratándose de personas ciegas o sordomudas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 417.
 
-La parte que no supiere el idioma español se acompañará de un intérprete elegido por ella que hará protesta formal ante el notario de cumplir lealmente su cargo. La parte que conozca el idioma español podrá también llevar otro intérprete para lo que a su derecho convenga.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 418.
 
-Si las partes quisieren hacer alguna adición o variación antes de que se firme la escritura por el notario, se asentará sin dejar espacio en blanco mediante la declaración de que se leyó y explicó aquélla, la cual será suscrita de la manera prevenida por los interesados, intérpretes, testigos y el notario.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 419.
 
-Firmada la escritura por los otorgantes y por los testigos e intérpretes en su caso, inmediatamente después será autorizada por el notario preventivamente con la razón "Ante Mí", su firma y su sello.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 420.
 
-El notario deberá autorizar definitivamente la escritura al pie de la misma dentro de los treinta días hábiles siguientes a su otorgamiento, siempre y cuando se le justifique que están cumplidos los requisitos que conforme a las leyes sean necesarios para llevarla a cabo. La autorización definitiva contendrá la fecha, la firma y sello del notario así como las demás menciones que otras leyes prescriben.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 421.
 
-Si el notario que hubiere autorizado preventivamente una escritura, fuere suspendido o dejare de tener ese carácter por cualquier motivo, el Director General del Notariado deberá autorizar definitivamente dicha escritura de oficio, o a petición de parte interesada en cualquier tiempo, si en los plazos respectivos fueron satisfechos los requisitos legales. Con consentimiento de la propia Dirección, deberá efectuarla el Titular del Tribunal en donde se hayan depositado los volúmenes que integran el archivo notarial.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 422.
 
-Si los que aparecen como otorgantes en una escritura no se presentan a firmarla con sus testigos e intérpretes, en su caso, dentro del plazo de treinta días hábiles contados a partir de la fecha del otorgamiento de la escritura, ésta quedará sin efecto y el notario pondrá al pie de la misma y firmará la razón de "No Pasó". Igual razón asentará en aquellos casos en que haya habido error en una escritura que no pueda subsanarse en la misma, o bien, cuando los otorgantes manifiesten ante el notario su voluntad de no firmarla, aunque no haya transcurrido el término anteriormente mencionado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 423.
 
-Si la escritura fue firmada dentro del plazo a que se refiere el artículo anterior, pero no se acredita al notario el pago de los impuestos dentro del término que establecen las leyes de la materia, el notario pondrá y firmará la razón de "No Pasó" al pie de la escritura, salvo los casos de consulta y revalidación fiscal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 424.
 
-Si la escritura contuviere varios actos jurídicos y dentro del término que establece el artículo 422 se firmara por los otorgantes de uno o de varios de dichos actos y dejare de firmarse por los otorgantes de otro o de otros, el notario pondrá la razón de "Ante Mí", en lo concerniente a los actos cuyos otorgantes han firmado, su firma y sello e inmediatamente después pondrá la nota de "No Pasó" establecida en el artículo citado, sólo respecto del acto no firmado, el cual quedará sin efecto. Esta última razón se pondrá al margen del protocolo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 425.
 
-Cuando se haya comenzado a redactar en el protocolo alguna escritura por el funcionario encargado de una notaría, quien lo substituya legalmente podrá autorizarla tanto preventiva como definitivamente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 426.
 
-Cada escritura indicará su número y al margen la naturaleza del acto y los nombres de los otorgantes. También al margen se anotará la razón a que se refiere el artículo 443 de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 427.
 
-Las anotaciones marginales llevarán la firma o la rúbrica del notario.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 428.
 
-Se prohibe a los notarios revocar, rescindir o modificar el contenido de una escritura por simple razón al margen de ella, salvo disposición expresa de la ley en sentido contrario.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 429.
 
-El notario no podrá autorizar acto alguno sino haciéndolo constar en el protocolo y observando las formalidades prescritas en la ley, excepto en los siguientes casos:
-
-I.- Los protestos de documentos que requieran este requisito conforme a la Ley General de Títulos y Operaciones de Crédito;
-
-II.- La certificación de actos que no pugnen con las prescripciones de la ley y que conforme a ésta no sea requisito que consten en escritura pública para que surtan efectos legales;
-
-III.- La expedición de copias certificadas o certificación de toda clase de documentos, así como cotejo de copias con sus originales;
-
-IV.- La ratificación y reconocimiento de firmas de contratos que conforme a la ley puedan otorgarse en escritura privada. Es estos casos, los notarios, funcionarios públicos que actúen por receptoría y los citados en el artículo 2902 del Código Civil del Estado, asentarán al pie de los documentos acta expresando lugar, día, mes y año en que los contratantes se presenten a ratificar el contenido del contrato y reconocimiento de firmas que lo calzan, la cual deberá ser firmada por los contratantes y autorizada por el notario o por los funcionarios respectivos;
-
-V.- En los demás casos en que la ley lo autorice expresamente.
-
-Para los efectos a que se refiere este artículo, con excepción de los consignados en la fracción III, los notarios y los funcionarios citados en la fracción IV de este precepto, deberán llevar un Libro de Registro de Actos fuera de Protocolo que será autorizado por el Director General del Notariado, en el que deberán anotar el acto inmediatamente después de que fue debidamente autorizado, por riguroso orden y con numeración progresiva, haciéndose relación sucinta del acto de que se trate, del nombre de los solicitantes, fecha de su autorización y la de su registro y amparándola con su firma y sello.
-
-En el acta o documento relativo que se expida o se entregue a los interesados se hará constar siempre el número y la fecha de registro en el Libro de Actos fuera de Protocolo y copia auténtica del documento se conservará por el funcionario autorizante para integrar un apéndice, el que se empastará al concluir el libro correspondiente.
-
-Los actos notariales que se autorizan en este artículo no tendrán valor alguno si no están registrados debidamente en el Libro de Registro de Actos fuera de Protocolo.
-
-Sin perjuicio de la responsabilidad civil en que incurre el notario, la omisión de inscripción en el Libro de Registro de Actos fuera de Protocolo, o la omisión de la constancia respectiva en el documento correspondiente, será sancionado con multa hasta de $500.00 QUINIENTOS PESOS.
-
-Los funcionarios que falsamente hagan aparecer en el Libro de Registros de Actos fuera de Protocolo, que ante ellos se celebró un acto sin que el mismo haya tenido lugar, que hagan aparecer alguno en fecha distinta a la que realmente corresponde, o bien, que falsamente hagan constar dichos actos en un documento, serán separados de su cargo y consignados a las autoridades competentes.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 1988)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 430.
 
-Las enajenaciones de bienes inmuebles y la constitución o transmisión de derechos reales, cuyo precio, valor de avalúo o valor catastral sea mayor al equivalente a 365 veces el salario mínimo general diario de la capital del Estado en el momento de la operación, para su validez deberá constar en escritura pública, del (sic) acuerdo con lo establecido en los Artículos 2195 y 2198 del Código Civil.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 431.
 
-Siempre que se otorgue un testamento, los notarios darán oportuno aviso a la Dirección General del Notariado, expresando la fecha, nombre, apellidos del testador y sus generales, y además, si el testamento fuere cerrado, el lugar o persona en cuyo poder se deposite. La Dirección llevará un libro especialmente destinado a asentar las inscripciones relativas, con los datos que se mencionan. Los jueces ante quienes se denuncie un juicio sucesorio recabarán de la Dirección General del Notariado, desde luego, la noticia de si hay anotación en dicho libro, referente al otorgamiento de algún testamento por la persona de cuya sucesión se trate.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 432.
 
-El otorgante que declarare falsamente ante notario, incurrirá en la pena a que se refiere el artículo 231 del Código de Defensa Social, cuando de ello resulte perjuicio para los intereses fiscales, para el notario o cualquiera otra persona.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ### CAPITULO VIII. DEL VALOR DE LAS ESCRITURAS, ACTAS Y TESTIMONIOS
 
 ###### ARTICULO 433.
 
-Testimonio es el documento en el que se transcribe íntegramente una escritura con sus documentos anexos que obran en el apéndice, a excepción de los que estuvieren redactados en idioma extranjero y los que ya se hayan insertado en el instrumento.
-
-El testimonio será parcial cuando en él sólo se transcriba parte, ya sea de la escritura, ya de los documentos del apéndice. El notario no expedirá testimonio parcial cuando lo que se omita pueda causar perjuicio a tercera persona.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 434.
 
-Al final de cada testimonio se hará constar su calidad de primero, segundo y ulterior número ordinal, el nombre del interesado a quien se expida, el número de hojas del testimonio y la fecha de la expedición. Se salvarán las testaduras y entrerrenglonaduras, de la manera prescrita para las escrituras. El testimonio será autorizado por el notario con su firma y sello. Si el testimonio es parcial se hará constar esta circunstancia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 435.
 
-Las hojas del testimonio tendrán las dimensiones que fija el artículo 394 para las del protocolo y llevarán a cada lado un margen de una octava parte de la hoja y el sello y la rúbrica del notario para acreditar que fueron cotejadas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 436.
 
-Los notarios pueden expedir y autorizar testimonios o copias impresas, por cualquier medio de reproducción que sea legible.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 437.
 
-El notario podrá expedir a cada parte interviniente o a sus causahabientes los testimonios que soliciten. A los terceros sólo podrá expedírseles, previo mandamiento judicial.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ### CAPITULO IX. DE LA RESPONSABILIDAD DE LOS NOTARIOS
 
 ###### ARTICULO 438.
 
-Las escrituras, las actas y sus testimonios, mientras no fuere declarada legalmente su falsedad, probarán plenamente la existencia de los hechos que el notario haya enunciado como cumplidos por él mismo o que han pasado en su presencia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 439.
 
-Las correcciones no salvadas en las escrituras, actas y testimonios, se tendrán por no hechas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 440.
 
-En caso de discordancia entre las palabras y los guarismos, prevalecerán aquéllas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 441.
 
-La escritura o acta será nula:
-
-I.- Si el notario no tiene expedito el ejercicio de sus funciones al otorgarse el instrumento o al autorizarlo;
-
-II.- Si no le está permitido por la ley autorizar el acto o hecho materia de la escritura o del acta;
-
-III.- Si fuese otorgada por las partes o autorizada por el notario fuera de su demarcación;
-
-IV.- Si ha sido redactada en idioma extranjero;
-
-V.- Si se omitió la mención relativa a la lectura;
-
-VI.- Si no está firmada por todos los que deben firmarla según este Código o no contiene la mención exigida a falta de firma;
-
-VII.- si no está autorizada con la firma y sello del notario o lo está cuando debiera tener la razón de "No Pasó" según los artículos 422, 423 y 424;
-
-VIII.- Si falta algún otro requisito que produzca la nulidad del documento por disposición expresa de la ley.
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1977)</small>
-
-IX.- Si no contiene las cláusulas relativas a la utilización, destinos, usos, reservas y planes, inscritos en el Registro Público de la Propiedad cuando se trate de predios urbanos.
-
-En el caso de la fracción II de este artículo solamente será nulo el instrumento en lo referente al acto o hecho cuya autorización no le está permitida, pero valdrá respecto de los actos o hechos que contenga y que no estén en el mismo caso.
-
-Fuera de los casos determinados en este artículo, el instrumento no será nulo aun cuando el notario infractor de alguna prescripción legal quede sujeto a la responsabilidad que en derecho proceda.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 442.
 
-El testimonio será nulo:
-
-I.- Si lo fuere la escritura;
-
-II.- Si el notario no tiene expedito el ejercicio de sus funciones al autorizar el instrumento;
-
-III.- Si lo autoriza fuera de su demarcación;
-
-IV.- Si no está autorizado con la firma y sello del notario;
-
-V.- Si faltare algún otro requisito que produzca la nulidad por disposición expresa de la ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 443.
 
-Cuando el notario expida un testimonio pondrá al margen de la escritura una anotación que contendrá la fecha de expedición, el número de fojas de que conste el testimonio, el número ordinal que corresponde a éste según el artículo 434 y para quien se expide.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ### CAPITULO X. DE LA CESACION DEFINITIVA DE LOS NOTARIOS
 
 ###### ARTICULO 444.
 
-De la responsabilidad civil y penal en que incurran los notarios, conocerá el Poder Judicial del Estado a través de los Tribunales que sean competentes conforme a la ley.
-
-De la responsabilidad administrativa conocerá el Ejecutivo de la Entidad a través de la Dirección General del Notariado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 445.
 
-El Ejecutivo por conducto de la Dirección General del Notariado, aplicará a los notarios por las faltas en el ejercicio de su función en que incurran según la gravedad y circunstancias del caso, las siguientes sanciones:
-
-I.- Amonestación por oficio;
-
-II.- Multa de $5.00 CINCO PESOS a $500.00 QUINIENTOS PESOS;
-
-III.- Suspensión del cargo hasta por un año;
-
-IV.- Separación definitiva en los casos de los artículos 366 y 451, fracciones III, IV y V;
-
-V.- Separación definitiva en los demás casos que señalen las leyes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 446.
 
-Tratándose de actos u omisiones de los notarios que pudieran motivar la aplicación de las sanciones administrativas a que se refiere el artículo anterior, se seguirá el siguiente procedimiento:
-
-a).- Sólo se iniciará cuando proceda denuncia o acusación por escrito o por mandamiento del Director General del Notariado, que señale el motivo o causa del mismo.
-
-b).- La Dirección General del Notariado en su caso, designará un visitador que practique una investigación y el resultado de la misma se hará conocer al notario de que se trate para que el término de diez días hábiles rinda pruebas y formule los alegatos que considere oportunos para su defensa.
-
-c).- Si no fuese necesaria la práctica de la visita de inspección al archivo del notario, se correrá traslado al mismo, por escrito, en el que consten los actos u omisiones y los preceptos violados todos que sirvan de base para incoarle el procedimiento de responsabilidad administrativa, concediéndole el término a que se refiere el inciso anterior para que rinda pruebas y formule los alegatos que en derecho corresponda.
-
-d).- En los casos de las fracciones III, IV y V del artículo anterior, transcurrido que fuere el término probatorio y para alegar, la Dirección General del Notariado pondrá en conocimiento del Consejo de Notarios del Estado los actos u omisiones, preceptos violados y documentos que hubiesen servido de base para la incoacción del procedimiento a efecto de que dentro de sesenta días pueda allegar los nuevos elementos de prueba que estime pertinentes y emita su opinión.
-
-e).- Satisfechos los requisitos a que se refieren los dos incisos precedentes, en sus respectivos casos, el Ejecutivo de la Entidad, por conducto de la Dirección General del Notariado dictará la resolución que corresponda.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 447.
 
-El Ejecutivo de la Entidad, por conducto de la Dirección General del Notariado queda facultado para acordar la suspensión provisional del notario, cuando al mismo se le haya incoado se le vaya a incoar el procedimiento de responsabilidad administrativa a que se refiere el artículo anterior. La suspensión decretada se prolongará hasta la obtención de resolución definitiva.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 448.
 
-El procedimiento fijado en el artículo 446 se seguirá para cancelar las patentes de los aspirantes al ejercicio del notariado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ### CAPITULO XI. DEL CONSEJO Y COLEGIO DE NOTARIOS
 
 ###### ARTICULO 449.
 
-Quedará sin efecto la patente extendida en favor de un notario si dentro del término de treinta días hábiles siguientes al de la protesta que haya rendido ante la autoridad respectiva no procede a iniciar sus funciones y a fijar su residencia en lugar en que, conforme a este Código, debe desempeñarlas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 450.
 
-Quedará sin efecto la patente otorgada en favor de un notario si transcurrido el término de la licencia que se le hubiere concedido, no se presentare a reanudar sus labores, sin causa debidamente justificada. En este caso, se declarará vacante la plaza y se procederá a cubrirla en los términos de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 451.
 
-El cargo de notario termina por cualquiera de las siguientes causas:
-
-I.- Renuncia expresa;
-
-II.- Muerte;
-
-III.- Si no desempeñare personalmente las funciones que le competen, o no lo hiciese de la manera que la ley dispone;
-
-IV.- Si diere lugar a queja comprobada por falta de probidad, porque se hicieren patentes vicios, malas costumbres o porque fuere condenado por delito grave del orden común;
-
-V.- Por incapacidad permanente mental o física para el desempeño del cargo.
-
-Las patentes de aspirantes al ejercicio del notariado se cancelarán o revocarán en los casos de las fracciones III, IV y V.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 452.
 
-La declaración de que el notario quedó separado de su cargo la hará el Ejecutivo del Estado, por conducto de la Dirección General del Notariado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 453.
 
-Siempre que se promueva judicialmente la interdicción de algún notario, por no hallarse expedito en el uso de sus facultades mentales, el Juez respectivo comunicará el hecho por escrito a la Dirección General del Notariado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 454.
 
-El notario puede renunciar su puesto ante el Ejecutivo del Estado, pero como Licenciado en Derecho, queda impedido para intervenir, con cualquier carácter, en los litigios que se relacionen con las escrituras o actas notariales que hubiere autorizado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 455.
 
-Los Encargados de las Oficinas del Registro Civil ante quienes se consignare el fallecimiento de un notario, lo comunicarán inmediatamente a la Dirección General del Notariado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 456.
 
-Cuando un notario dejare de serlo, por cualquier causa, la Dirección General del Notariado publicará el hecho por una sola vez en el Periódico Oficial.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 457.
 
-En el caso del artículo anterior, el sello, protocolo y anexos se depositarán en la Dirección General del Notariado si se trata del Distrito Judicial Morelos y en todos los demás casos en el Juzgado de Primera Instancia respectivo, el cual lo remitirá a la citada Dirección.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 458.
 
-Sólo se acordará la cancelación de la garantía concedida por el notario si se llenan previamente los siguientes requisitos:
-
-I.- Que el notario haya cesado definitivamente en el ejercicio de sus funciones;
-
-II.- Que no haya queja alguna que importe responsabilidad pecuniaria para el notario pendiente de resolución;
-
-III.- Que se solicite después de dos años de la cesación del notario, por él mismo o por parte legítima;
-
-IV.- Que se publique la petición en extracto en el Periódico Oficial por una sola vez;
-
-V.- Que se oiga al Colegio de Notarios respectivo;
-
-VI.- Que transcurran tres meses después de la publicación en el Periódico Oficial, sin que se haya presentado opositor.
-
-En caso de oposición, se consignará el asunto a la autoridad judicial respectiva, para que proceda en términos de ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ### CAPITULO XII. DIRECCION GENERAL DEL NOTARIADO
 
 ###### ARTICULO 459.
 
-Todos los notarios en ejercicio en el Estado constituirán una Asociación Civil que se denominará "Consejo de Notarios del Estado", con sede en la Ciudad de Chihuahua; además en cada uno de los Distritos Judiciales en que funcionen más de tres notarías habrá un Colegio de Notarios.
-
-En este último caso será requisito indispensable para el ejercicio de las funciones notariales el pertenecer y asistir con regularidad al Colegio respectivo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 460.
 
-Para la constitución de los organismos a que se refiere el artículo anterior, se estará a lo dispuesto por la legislación civil. El Consejo de Notarios del Estado será dirigido por un Presidente, un Vicepresidente, un Secretario, un Tesorero y dos Vocales, quienes durarán dos años en el ejercicio de su encargo y serán electos por mayoría de votos emitidos directamente o por medio de apoderado, bastando en este caso una simple carta poder. Los Colegios de Notarios serán dirigidos por un Presidente, un Secretario y un Tesorero, quienes serán electos por los notarios del Distrito en la misma forma y durarán en su encargo dos años.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 461.
 
-En los Distritos en que no fuere posible integrar el Colegio de Notarios, lo suplirá el Consejo de Notarios del Estado. También lo suplirá cuando los miembros de un Colegio no puedan integrar los jurados de examen a que se refiere este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 462.
 
-Tanto el Consejo como los Colegios de Notarios serán ajenos a toda actividad política, electoral o religiosa, quedándoles prohibido tratar asuntos de esa naturaleza en sus asambleas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 463.
 
-Los cargos a que se refieren los artículos anteriores, son gratuitos e irrenunciables sin causa justificada. Los Consejeros sólo podrán estar separados de su cargo, durante el tiempo que legalmente lo estén del desempeño de las funciones notariales. La cesación en el ejercicio del notariado importa la del cargo de Consejero.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 464.
 
-Son atribuciones del Consejo y de los Colegios de Notarios:
-
-I.- Auxiliar al Gobierno del Estado en la vigilancia sobre el cumplimiento de este Código, reglamentos y disposiciones que dicte en materia del notariado;
-
-II.- Dictaminar sobre los asuntos o problemas que el Ejecutivo les encomiende;
-
-III.- Resolver las consultas que les hicieren los notarios del Estado o del Distrito Judicial correspondiente, en sus respectivos casos;
-
-IV.- Las demás que les confiera la ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 465.
 
-Existirá en la Capital del Estado la Dirección General del Notariado y su Director será el Encargado del Registro Público de la Propiedad del Distrito Judicial de Morelos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 466.
 
-La Dirección General del Notariado formará un archivo que se integrará con lo siguiente:
-
-I.- Con los protocolos cerrados y sus anexos que no sean aquéllos que los notarios están facultados para conservar en su poder;
-
-II.- Con los archivos de las notarías cuyo titular haya cesado en sus funciones o haya quedado suspenso y que por disposición del Ejecutivo deban depositarse en dicha Dirección;
-
-III.- Con los documentos propios de la Dirección;
-
-IV.- Con los sellos de los notarios que deberán depositarse e inmediatamente después inutilizarse, conforme los preceptos de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 467.
 
-Serán obligaciones y atribuciones del Director General del Notariado las siguientes:
-
-I.- Atender todas las cuestiones de la fe pública del Estado, relativas al ejercicio del notariado;
-
-II.- Comunicar al Gobernador del Estado cualquier defecto o irregularidad que advierta en los protocolos y anexos que se le remitan, y todo aquello que tenga relación con el buen servicio y exacto cumplimiento de este Código en materia notarial;
-
-III.- Llevar un registro de notarios y aspirantes en el que se asiente la fecha de su nombramiento y aquélla en la que haya dejado de ejercer el cargo, así como sus separaciones, licencia, suspensiones y correcciones disciplinarias;
-
-IV.- Llevar un registro de los sellos y de las firmas de los notarios del Estado;
-
-V.- Conservar los documentos y papeles propios de la Dirección, debidamente clasificados, llevando de ellos el inventario correspondiente;
-
-VI.- Rendir los informes que solicite el Titular del Ejecutivo del Estado;
-
-VII.- Expedir a los particulares interesados, cuando proceda legalmente, los testimonios que pidieren de las escrituras o actas notariales asentadas en los protocolos, cuyo depósito y conservación le encomienda el presente Código, sujetándose en la expedición de dichos testimonios a las reglas establecidas respecto de los notarios;
-
-VIII.- Expedir asimismo, los testimonios y copias que le fueren pedidos mediante resolución judicial. El compulsorio de la autoridad judicial se insertará en el testimonio que se expida;
-
-IX.- Llevar los índices generales según las reglas que acuerde el Ejecutivo;
-
-X.- Resolver las consultas que formulen el Consejo, los Colegios de Notarios y éstos en lo personal;
-
-XI.- Las demás atribuciones que sean propias del cargo o que las leyes le impongan.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 468.
 
-El Director General del Notariado tendrá especial cuidado de ordenar los protocolos y demás documentos relativos a cada notaría, separándolos de manera que no haya confusión entre ellos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 469.
 
-En compensación por sus servicios percibirá el Director el sueldo que fije el Ejecutivo en el presupuesto de egresos respectivo, o los honorarios que señala el arancel de notarios, en cuyo caso deberá expedir por triplicado el comprobante de su percepción, en el cual se indicará el acto o actos que los originen, remitiéndose un tanto a la Oficina Recaudadora respectiva, conservando otro en la propia Dirección y entregando el original al interesado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 ###### ARTICULO 470.
 
-El Director será personalmente responsable de la custodia y conservación del archivo y tendrá la misma responsabilidad que los notarios en ejercicio.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
 > <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -9325,7 +8819,7 @@ IX.- Las demás que les otorguen las disposiciones legales relativas.
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -9451,13 +8945,9 @@ IV.- La duración.
 
 Los predios de las zonas incluidas en los artículos 1495 y 1500 de este Título, se podrán utilizar en forma compatible con su destino o uso previsto, hasta la fecha señalada en que deberán aplicarse dichos predios a los usos y destinos que la autoridad haya determinado.
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-DECIMA PRIMERA PARTE
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -9473,9 +8963,9 @@ En todo lo relativo a la estructura vial y sistema de transporte en el Estado, s
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1504.
 
@@ -9573,9 +9063,9 @@ En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 1984)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 1515.
 
@@ -9625,7 +9115,9 @@ Una vez determinados los jefes de familia beneficiados y cubierto el precio, la 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION QUINTA. DE LA VIVIENDA
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1521.
 
@@ -9669,9 +9161,7 @@ Para la construcción de viviendas deberá mediar solicitud del interesado ante 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1525.
 
@@ -9713,7 +9203,7 @@ En el caso de que los propietarios o poseedores no cumplan con las obligaciones 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -9885,7 +9375,11 @@ Cuando el Gobernador del Estado haya hecho una declaratoria de conurbación, dis
 
 Las declaratorias de conurbación para que surtan sus efectos serán publicadas por una sola vez en el Periódico Oficial del Estado y en dos periódicos de mayor circulación en la localidad que corresponda, debiendo inscribirse en la Oficina del Registro Público de la Propiedad respectiva.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
 # LIBRO UNICO. SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO
 
@@ -10619,15 +10113,15 @@ DECIMA SEGUNDA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
-(REUBICADA, P.O. 28 DE AGOSTO DE 1982)
-
-DECIMA TERCERA PARTE
-
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 # LIBRO UNICO. (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 ## TITULO UNICO. DE LOS PROCEDIMIENTOS Y RECURSOS ADMINISTRATIVOS
+
+(REUBICADA, P.O. 28 DE AGOSTO DE 1982)
+
+DECIMA TERCERA PARTE
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -11655,15 +11149,11 @@ En la misma fecha se derogan los artículos del 1314 al 1326 del Código Adminis
 
 P.O. 12 DE SEPTIEMBRE DE 1987.
 
-DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
-
 PRIMERO:- Este Decreto entrará en vigor veinte días después de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se deroga la Tercera Parte, Libro Primero, Gobernación, Título Unico, del Registro Civil, Capítulos del I al VI, artículos del 228 al 270 del Código Administrativo del Estado.
 
 P.O. 16 DE SEPTIEMBRE DE 1987.
-
-LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD
 
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
@@ -11719,4 +11209,30 @@ SE DEROGAN LA DÉCIMA SEGUNDA PARTE, LIBRO UNICO, DE LAS RESPONSABILIDADES Y SAN
 
 P.O. 1 DE JUNIO DE 1991.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+
+P.O. 8 DE ENERO DE 1992.
+
+DECRETO No. 620/91 III P.O.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley estará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado adoptará las medidas conducentes a la elaboración y publicación del reglamento.
+
+###### ARTICULO TERCERO.
+
+Se deroga la segunda parte, Libro Unico, Capítulo Unico, de los artículos 181 al 227 del Código Administrativo del Estado.
+
+P.O. 8 DE ENERO DE 1992.
+
+DECRETO No. 621/91 III P.O.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- ESTA LEY ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO DEL GOBIERNO DEL ESTADO.
+
+SEGUNDO.- SE DEROGAN LOS ARTÍCULOS DEL 339 AL 470, INCLUSIVE DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA.
