@@ -4,7 +4,7 @@ identifier: "TAM-codigo-electoral-para-el-estado-de-tamaulipas-11775"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-06-12"
-last_updated: "2003-10-02"
+last_updated: "2003-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO ELECTORAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el lunes 12 de junio de 1995.
 
@@ -542,6 +542,10 @@ a).- Se le asignarán a los partidos políticos tantas regidurías como número 
 b).- Para efectos de este precepto, se entenderá por: votación municipal emitida la suma de la votación de todos los partidos políticos, incluidos los votos nulos; por votación municipal efectiva la que resulte de deducir de la votación municipal emitida los votos nulos, así como los votos del partido que obtuvo la mayoría y de aquellos partidos políticos que no obtuvieron el 2% de la votación municipal emitida; por cociente electoral la cantidad que resulte de dividir la votación municipal efectiva entre el número de regidurías por asignar; y por resto mayor al remanente de votos que tenga cada partido político una vez restados los utilizados en la asignación por cociente electoral; y
 
 c).- Si solamente un partido político hubiera obtenido el derecho a participar en la asignación de regidurías, todas se le otorgarán en forma directa.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2003)</small>
+
+d).- En caso de que el número de regidurías de representación proporcional sea menor al número de partidos con derecho a la asignación de dichas regidurías, en la misma se atenderá al criterio de mayor a menor votación recibida.
 
 ### CAPITULO IV. DE LAS ELECCIONES ORDINARIAS Y EXTRAORDINARIAS
 
@@ -1103,6 +1107,10 @@ g) Las demás que le confieran este Código y su Reglamento.
 
 IX.- El Consejo Estatal Electoral, previo dictamen de la Comisión de Fiscalización, deberá publicar los informes financieros que están obligados a presentar trimestralmente los partidos políticos y, en su caso, 60 días después de que concluyan las campañas electorales. Si el Consejo Estatal Electoral dictamina que los recursos provenientes del financiamiento público no están siendo empleados para el fin que se otorgaron, suspenderá el financiamiento y llamará a los representantes del partido político para que manifiesten lo que a su derecho convenga; si el Consejo dictamina nuevamente que no se justifican las cuentas, procederá a cancelar el financiamiento y si se presume la comisión del (sic) algún delito, se dará vista al Ministerio Público.
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2003)</small>
+
+X.- Las quejas sobre el origen y la aplicación de los recursos derivados del financiamiento de los partidos políticos se presentarán ante el Secretario del Consejo Estatal Electoral, quien las turnará a la Comisión de Fiscalización, a efecto de que las analice previamente a la presentación del dictamen a que se refiere la fracción anterior.
+
 ### CAPITULO V. DE LOS TOPES DE LOS GASTOS DE CAMPAÑA
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2003)</small>
@@ -1223,7 +1231,7 @@ El Instituto Estatal Electoral tiene su domicilio en Ciudad Victoria, y ejercer�
 
 ###### ARTICULO 78.
 
-Son fines del Instituto Estatal Electoral :
+Son fines del Instituto Estatal Electoral:
 
 I.- Promover el desarrollo democrático de la ciudadanía tamaulipeca;
 
@@ -5016,3 +5024,9 @@ P.O. 2 DE OCTUBRE DE 2003.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
