@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1993-11-03"
+last_updated: "1993-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JULIO DE 1993.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE DICIEMBRE DE 1993.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 3 DE NOVIEMBRE DE 1993.
 
@@ -1484,6 +1484,10 @@ Las copias o reproducciones que deriven del microfilm o disco óptico de documen
 
 Las autoridades fiscales, con motivo del ejercicio de sus facultades de comprobación respecto de contribuciones que se pagan mediante declaración periódica formulada por los contribuyentes, procederán como sigue para determinar contribuciones omitidas:
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+I. Determinarán, en primer lugar, las contribuciones omitidas en los ejercicios terminados en 1990, 1991 y 1992, por los que se hubiera o debió haber sido presentada la declaración, a más tardar el día anterior a aquél en que se ejerzan la (sic) facultades de comprobación, así como las contribuciones correspondientes al periodo transcurrido entre la fecha de terminación del último ejercicio y el momento en que se ejerzan la (sic) citadas facultades.
+
 > <small>N. DE E. EL PRESENTE PARRAFO FUE REFORMADO POR EL ARTICULO SEGUNDO DEL DECRETO DE FECHA 17 DE DICIEMBRE DE 1990 Y PUBLICADO EN EL D.O.F. SEÑALADO, PARA INICIAR SU VIGENCIA A PARTIR DEL 1 DE ENERO DE 1994.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
@@ -1948,7 +1952,7 @@ VIII. No presentar los dados e informes en los términos del artículo 13 de la 
 
 ###### Artículo 82.
 
-A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo 81, se impondrán las siguientes multas:
+A quien cometa las infracciones relacionadas con la obligación de presentar Artículo 82.- A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo 81, se impondrán las siguientes multas:
 
 > <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
@@ -2150,19 +2154,19 @@ V. Asentar incorrectamente o no asentar en los contratos respectivos el nombre, 
 
 A quien cometa las infracciones relacionadas con las instituciones de crédito a que se refiere el artículo 84-A de este Código, se le impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 I. De N$45.00 a N$2,117.00 a la comprendida en la fracción I.
 
 II. Por el 20% del valor del cheque a la establecida en la fracción II.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 III. De N$6.00 por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
 IV. De N$756.00 a uno al millar sobre el monto de los ingresos acumulables que haya tenido la institución en el ejercicio inmediato anterior por el que se presentó o debió presentar declaración, a la establecida en la fracción IV.
 
@@ -2683,6 +2687,14 @@ Las mismas penas se impondrán a quien realice cualquiera de los actos a que se 
 a). Ocultar o disfrazar el origen, naturaleza, propiedad, destino o localización del dinero o de los bienes de que se trate; o
 
 b). Alentar alguna actividad ilícita.
+
+> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+
+Igual sanción se impondrá a los empleados y funcionarios de las instituciones que integran el sistema financiero, que con el propósito de prestar auxilio o cooperación para evitar la identificación o localización de las sumas de dinero o bienes a que se refiere este artículo, no cumplan con la obligación de recabar o falseen la información sobre la identificación del cliente y la correspondiente operación, conforme a lo previsto en las disposiciones que regulan el sistema financiero.
+
+> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+
+Para los efectos de este artículo, se entiende por sistema financiero el comprendido por las instituciones de crédito, de seguros y de fianzas, almacenes generales de depósito, arrendadoras financieras, sociedades de ahorro y préstamo, uniones de crédito, empresas de factoraje financiero, intermediarios bursátiles, casas de cambio y cualquier otro intermediario financiero o cambiario.
 
 ## TITULO V. De los Procedimientos Administrativos
 
@@ -3728,15 +3740,13 @@ XI. Cuando de las constancias de autos apareciere claramente que no existe el ac
 
 XII. En los demás casos en que la improcedencia resulte de alguna disposición de este Código o de las leyes fiscales especiales.
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
 
 La procedencia del juicio será examinada aun de oficio.
 
 (REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ### CAPITULO IV. De la Demanda
-
-> <small>N. DE E. EN RELACION CON LA ENTRAD EN VIGOR REMITIRSE A LA FRACCION II DEL ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL CODIGO FISCAL DE LA FEDERACION DEL DECRETO DE REFORMAS EN CITA.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JULIO DE 1992)</small>
 
@@ -5027,3 +5037,9 @@ Se derogan las demás disposiciones que se opongan al presente.
 D.O.F. 3 DE NOVIEMBRE DE 1993.
 
 LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+D.O.F. 3 DE DICIEMBRE DE 1993.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
