@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1935-09-08"
+last_updated: "1936-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 1935.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 1936.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -67,9 +67,13 @@ P.O. 8 DE SEPTIEMBRE DE 1935.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
 
+P.O. 16 DE MARZO DE 1936.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
 ###### Artículo 3º.
 
-El Territorio del Estado es el expresado en el Supremo Decreto de erección de 16 de enero de 1869 y se divide en 15 Distritos a los que corresponden los 75 Municipios que a continuación se expresan:
+El Territorio del Estado es el expresado en el Supremo Decreto de erección de 16 de enero de 1869 y se divide en quince Distritos a los que corresponden los 76 Municipios que a continuación se expresan:
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 1927)</small>
 
@@ -79,7 +83,9 @@ Distrito de Apam: Formado con los Municipios de Apam, Tepeapulco y Tlanalapan.
 
 Distrito de Atotonilco el Grande: Formado con los Municipios de Atotonilco el Grande, Huasca y Omitlan.
 
-Distrito de Huejutla: Formado con los Municipios de Huejutla, Orizatlán, Huazalingo, Huautla, Yahualica , Xochiatipan y Tlanchinol.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1936)</small>
+
+Distrito de Huejutla: Formado con los Municipios de Huejutla, Orizatlán, Huazalingo, Huautla, Yahualica, Xochiatipan, Tlanchinol y Jaltocán.
 
 Distrito de Huichapan: Formado con los Municipios de Huichapan, Tecozautla, Nopala y Chapantongo
 
@@ -953,7 +959,7 @@ Todo funcionario y empleado público, tendrá derecho a percibir el sueldo o emo
 
 ###### Artículo 1°.
 
-Esta Constitución se protestará con toda solemnidad en todo el Estado, quedando derogada desde luego la anterior, así como sus adiciones y reformas.
+Esta Constitución se protestara con toda solemnidad en todo el Estado, quedando derogada desde luego la anterior, así como sus adiciones y reformas.
 
 ###### Artículo 1°.
 
@@ -961,14 +967,14 @@ El Estado de Hidalgo es parte integrante de los Estados Unidos Mexicanos, y es l
 
 ###### Artículo 2°.
 
-En tanto se expiden las leyes orgánicas relativas, continuarán rigiendo en el Estado, las vigentes en la actualidad así como los decretos y reglamentos que no se opongan a la presente Constitución ni a la General de 5 de febrero de 1917.
+En tanto se expiden las leyes orgánicas relativas, continuaran rigiendo en el Estado, las vigentes en la actualidad así como los decretos y reglamentos que no se opongan a la presente Constitución ni a la General de 5 de febrero de 1917.
 
 ###### Artículo 2°.
 
 Las autoridades y funcionarios del Estado no tienen mas facultades que las que expresamente les concedan esta Constitución, la General de la República y las leyes que de ellas emanen.
 
-> <small>(REFORMADO, PRIMER PARRAFO, P.O. 8 DE SEPTIEMBRE DE 1935)</small>
+> <small>(REFORMADO, PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 1936)</small>
 
 ###### Artículo 3°.
 
-El período Constitucional de la actual Legislatura, terminará el último día de febrero de 1921; el del Gobernador, el 31 de marzo del mismo año y el de los Magistrados del Superior Tribunal de Justicia, el 4 de mayo de 1923.
+El período Constitucional de la actual Legislatura, terminara el último día de febrero de 1921; el del Gobernador, el 31 de marzo del mismo año y el de los Magistrados del Superior Tribunal de Justicia, el 4 de mayo de 1923.
