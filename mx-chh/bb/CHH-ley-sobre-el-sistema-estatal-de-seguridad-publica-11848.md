@@ -4,7 +4,7 @@ identifier: "CHH-ley-sobre-el-sistema-estatal-de-seguridad-publica-11848"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-27"
-last_updated: "2002-09-28"
+last_updated: "2004-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de junio de 1998.
 
@@ -179,7 +179,9 @@ Los cuerpos de seguridad pública en el Estado son:
 
 I.- La Coordinadora Estatal de Seguridad Pública;
 
-II.- La Policía Judicial del Estado, con todas sus unidades y agrupamientos;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+II.- La Policía al mando del ministerio público, con todas sus unidades y agrupamientos;
 
 III.- Los custodios a cargo de los Penales del Estado;
 
@@ -363,7 +365,9 @@ IV.- El Procurador General de Justicia del Estado;
 
 V.- El Coordinador Estatal de Seguridad Pública;
 
-VI.- El Coordinador Operativo y demás miembros de la Policía Judicial;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+VI.- El Coordinador Operativo y demás miembros de la Policía al mando del ministerio público;
 
 VII.- El Titular y demás elementos de la Corporación de Tránsito en el Estado, y
 
@@ -401,7 +405,11 @@ IV.- Los Presidentes municipales de la Entidad;
 
 V.- El Coordinador Estatal de Seguridad Pública, y
 
-VI.- El Coordinador Operativo de la Policía Judicial;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+VI.- El Coordinador Operativo de la Policía al mando del ministerio público;
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 A sus sesiones podrán ser invitados representantes de las entidades del sector público y privado que tengan relación con la Seguridad Pública en el Estado, quienes podrán participar con voz, pero sin voto.
 
@@ -457,13 +465,15 @@ X.- Proveer en la esfera administrativa a la exacta observancia de las disposici
 
 XI.- Las demás que le confiera la presente Ley y otros ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 24.
 
 Corresponde al Gobernador del Estado ser el Jefe Supremo de las Fuerzas de Seguridad Pública en el Estado y tener a sus órdenes y mandar la fuerza pública del municipio en que resida habitual o transitoriamente. En los demás casos y fuera de los supuestos en que los Cuerpos policiales del Estado y de los municipios deban actuar coordinadamente, la Seguridad Pública en los municipios se ejercerá y desarrollará conservando cada uno las funciones que les son propias, conforme a las normas que los regulen.
 
 Los Cuerpos municipales a través de los Directores o quienes hagan sus veces, estarán bajo el mando directo del Presidente Municipal respectivo y en el caso de los elementos de Tránsito ocurrirá lo mismo cuando formen parte de la administración municipal.
 
-Los elementos de la Policía Judicial del Estado, estarán bajo las órdenes directas del Coordinador de Zona que corresponda.
+Los elementos de la Policía al mando del ministerio público, estarán bajo las órdenes directas del Coordinador de Zona que corresponda.
 
 ###### Artículo 25.
 
@@ -547,9 +557,11 @@ VIII.- Promover la formación de personal especializado para el Servicio de Segu
 
 IX.- Las demás que le señale esta Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 31.
 
-El Secretario de Gobierno, El Procurador General de Justicia del Estado, el Coordinador Operativo de Policía Judicial, el Titular de Tránsito en el Estado, los Directores o encargados de las policías municipales, los Directores o encargados de Tránsito Municipal, los comisarios de policía y en general, todas las dependencias que en esta Ley u otras disposiciones aplicables tengan funciones de Seguridad Pública, tendrán las atribuciones que les señalen las mismas y en general, el carácter de auxiliares de la materia.
+El Secretario de Gobierno, El Procurador General de Justicia del Estado, el Coordinador Operativo de Policía al mando del ministerio público, el Titular de Tránsito en el Estado, los Directores o encargados de las policías municipales, los Directores o encargados de Tránsito Municipal, los comisarios de policía y en general, todas las dependencias que en esta Ley u otras disposiciones aplicables tengan funciones de Seguridad Pública, tendrán las atribuciones que les señalen las mismas y en general, el carácter de auxiliares de la materia.
 
 ### CAPITULO TERCERO. DE LA COORDINACION EN MATERIA DE SEGURIDAD PUBLICA
 
@@ -595,7 +607,9 @@ I.- Mantener el orden y la tranquilidad pública en el Estado;
 
 II.- Prevenir la comisión de delitos y proteger a las personas en sus propiedades y derechos;
 
-III.- Tratándose de la Policía Judicial, auxiliar al Ministerio Público en la aprehensión de los delincuentes, y en el caso de la Policía Municipal exclusivamente en los casos de flagrante delito y en los de notaria urgencia, cuando se trate de delitos graves y que por razón de la hora, del lugar o de la distancia, no haya autoridad judicial que expida la orden de aprehensión, y exista riesgo fundado de que el presunto responsable se sustraiga a la acción de la justicia, poniéndolo de inmediato a disposición del Ministerio Público, y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+III.- Tratándose de la Policía al mando del ministerio público, auxiliar a éste en la aprehensión de los delincuentes, y en el caso de la Policía Municipal exclusivamente en los casos de flagrante delito y en los de notaria urgencia, cuando se trate de delitos graves y que por razón de la hora, del lugar o de la distancia, no haya autoridad judicial que expida la orden de aprehensión, y exista riesgo fundado de que el presunto responsable se sustraiga a la acción de la justicia, poniéndolo de inmediato a disposición del Ministerio Público, y
 
 IV.- Las demás que determinen la presente Ley y les señalen otras disposiciones aplicables.
 
@@ -789,9 +803,11 @@ V.- Asesorar a personas y organismos públicos o privados que lo soliciten en ma
 
 VI.- Las demás que le asignen otras disposiciones de carácter legal o reglamentario.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 57.
 
-Las academias de policía en el Estado, tendrán como objetivo capacitar teórica y prácticamente a los elementos que integren los Cuerpos de Seguridad en las modalidades de Policía Judicial, de Tránsito y Preventiva, a quienes se les inculcará el espíritu de servicio y respeto permanente para los habitantes, así como de un estricto sentido de disciplina, responsabilidad, honestidad y lealtad institucional.
+Las academias de policía en el Estado, tendrán como objetivo capacitar teórica y prácticamente a los elementos que integren los Cuerpos de Seguridad en las modalidades de Policía al mando del ministerio público, de Tránsito y Preventiva, a quienes se les inculcará el espíritu de servicio y respeto permanente para los habitantes, así como de un estricto sentido de disciplina, responsabilidad, honestidad y lealtad institucional.
 
 Las academias o instituciones equivalentes, encaminarán sus actividades con el propósito de formar policías, con la convicción de que las corporaciones policiales se regirán por los principios de legalidad, eficiencia, profesionalismo y honradez.
 
@@ -999,13 +1015,15 @@ Se considera como policía de carrera a quien haya realizado estudios especializ
 
 Los integrantes de los Cuerpos de Seguridad Pública no podrán ser privados del derecho de permanecer en el cargo respectivo, salvo en los casos previstos por esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 86.
 
 Para que a un elemento operativo de alguna corporación de Seguridad Pública se le confiera un grado superior, deberá ser propuesto por el titular de la dependencia y justificarse debidamente el ascenso.
 
 El procedimiento y requisitos que se deberán cumplir para la aplicación del presente artículo, se establecerán en el reglamento correspondiente.
 
-En el caso de los integrantes de la Policía Judicial se estará además a lo que sobre el particular señalan la Ley Orgánica del Ministerio Público de Chihuahua y los Reglamentos y programas de la Procuraduría General de Justicia del Estado.
+En el caso de los integrantes de la Policía al mando del ministerio público se estará además a lo que sobre el particular señalan la Ley Orgánica del Ministerio Público de Chihuahua y los Reglamentos y programas de la Procuraduría General de Justicia del Estado.
 
 ###### Artículo 87.
 
@@ -1293,7 +1311,9 @@ Para el acceso a la información sobre Seguridad Pública, podrán establecerse 
 
 I.- La Policía Preventiva;
 
-II.- La Policía Judicial;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+II.- La Policía al mando del ministerio público;
 
 III.- El Ministerio Público;
 
@@ -1594,3 +1614,7 @@ El presente decreto entrará en vigor a los 120 días después de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado deberá formular el Reglamento de la Policía Comunitaria en un plazo que no exceda de 60 días a partir de la publicación de este Decreto.
+
+P.O. 2 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
