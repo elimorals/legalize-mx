@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-vii-88-del-tribunal-en-pleno-de-la-suprema-corte-de-635
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-03-17"
-last_updated: "1988-03-17"
+last_updated: "1996-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63588&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-02-23"
 
 ACUERDO NO. VII/88 DEL TRIBUNAL EN PLENO DEL DIA VEINTITRES DE FEBRERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JUNIO DE 1996.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 17 de marzo de 1988.
 
@@ -51,6 +51,10 @@ En consecuencia, y con apoyo en los citados preceptos legales, este Tribunal en 
 
 ACUERDO:
 
+> <small>N. DE E. DE CONFORMIDAD CON LOS PUNTOS TERCERO, QUINTO Y SEXTO DEL ACUERDO GENERAL 12/1996 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, SE MODIFICA EL PRESENTE ORDENAMIENTO EN CUANTO A LA DISTRIBUCION DE LOS ASUNTOS ENTRE LOS TRES TRIBUNALES QUE COMPRENDEN EL DECIMO PRIMER CIRCUITO.</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 1996)</small>
+
 PRIMERO.- Se prorroga el plazo, a partir del veintinueve de febrero de mil novecientos ochenta y ocho y hasta el quince de abril del mismo año, para que los asuntos que reciba la Oficina de Correspondencia Común de los tribunales Colegiados del Décimo Primer Circuito, sean turnados al Segundo de dichos Tribunales.
 
 SEGUNDO.- La forma de distribución de los asuntos señalada en el punto Quinto de acuerdo de fecha once de diciembre de mil novecientos ochenta y siete, a que se aluden en los considerando Primero y Cuarto, respectivamente, de este acuerdo, entrará en vigor el dieciséis de abril de mil novecientos ochenta y ocho.
@@ -64,3 +68,27 @@ Licenciado José Javier Aguilar Domínguez, Secretario General de Acuerdos de la
 CERTIFICA:
 
 Que este acuerdo VII/88, relativo a la prórroga para que el Segundo Tribunal Colegiado del Décimo Primer Circuito, con residencia en Morelia, Michoacán, continúe recibiendo, de manera exclusiva los asuntos que se presenten durante el período del veintinueve de febrero actual al quince de abril próximo, fue aprobado por el Tribunal en Pleno en Sesión Privada celebrada el martes veintitrés de febrero en curso, por unanimidad de diecinueve votos de los señores ministros: Presidente Carlos del Río Rodríguez, Carlos de Silva Nava, Felipe López Contreras. Raúl Cuevas Mantecón, Samuel Alba Leyva, Mariano Azuela Güitrón, Noé Castañón León, Luis Fernández Doblado, Francisco H. Pavón Vasconcelos, Victoria Adato Green, Santiago Rodríguez Roldán, José Martínez Delgado, Atanasio González Martínez, José Manuel Villagordoa Lozano, Fausta Moreno Flores, Angel Suárez Torres, Sergio Hugo Chapital Gutiérrez, Juan Díaz Romero y Ulises Schmill Ordóñez. México, Distrito Federal, a veinticuatro de febrero de mil novecientos ochenta y ocho.- El Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, José Javier Aguilar Domínguez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 19 DE JUNIO DE 1996.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día tres de julio de mil novecientos noventa y seis.
+
+SEGUNDO.- Se modifican los Acuerdos sin número y VII/88, de once de diciembre de mil novecientos ochenta y siete y de veintitrés de febrero de mil novecientos ochenta y ocho, respectivamente, del Pleno de la Suprema Corte de Justicia de la Nación, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- El Pleno del Consejo de la Judicatura Federal resolverá cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
+
+QUINTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+TERCERO.- Los nuevos asuntos que la Oficialía de Partes Común de los tribunales colegiados del Décimo Primer Circuito reciba del día tres de julio al día veinticinco de agosto de mil novecientos noventa y seis, serán del conocimiento del Tercer Tribunal Colegiado.
+
+.
+
+QUINTO.- A partir del día veintiséis de agosto de mil novecientos noventa y seis, la Oficialía de Partes Común distribuirá los nuevos asuntos de la siguiente forma: los terminados en uno, cuatro y siete al Primer Tribunal Colegiado; los terminados en dos, cinco y ocho al Segundo Tribunal Colegiado; y los terminados en tres, seis y nueve al Tercer Tribunal Colegiado; en los terminados en cero, se atenderá al número anterior conforme a la distribución antes precisada.
+
+SEXTO.- Se modifican los Acuerdos sin número y VII/88, de once de diciembre de mil novecientos ochenta y siete y de veintitrés de febrero de mil novecientos ochenta y ocho, respectivamente, del Pleno de la Suprema Corte de Justicia de la Nación, únicamente en cuanto a la distribución de los asuntos entre los tribunales colegiados del Décimo Primer Circuito, para quedar en los términos mencionados en este Acuerdo.
