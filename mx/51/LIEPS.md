@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1986-04-30"
+last_updated: "1986-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 1986.
+> <small>N. DE E. EN DECRETO DE FECHA 28 DE DICIEMBRE DE 1986, PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DEL MISMO AÑO, UNICAMENTE SE SEÑALAN DISPOSICIONES CON VIGENCIA PARA EL AÑO DE 1987, SIN QUE EN ELLAS SE MODIFIQUE EL CONTEXTO DE LA PRESENTE LEY. POR LO ANTERIOR SE REMITE AL USUARIO A LAS DISPOSICIONES TRANSITORIAS DE LA MISMA.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1986.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -70,9 +72,9 @@ B).- Jarabes o concentrados para preparar refrescos que se expendan en envases a
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-C).- Concentrados, polvos, jarabes, esencias o extractos de sabores que al diluirse permitan obtener refrescos .......... 20%
+C).- Concentrados, polvos, jarabes, esencias o extractos de sabores que al diluirse permitan obtener refrescos ........... 20%
 
-D).- Cerveza .......... 21.5%
+D).- Cerveza ........... 21.5%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -96,11 +98,11 @@ H).- Tabacos labrados:
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-I).- Gasolina que contenga tetraetilo de plomo y su octanaje no exceda de 82 octanos o la de mayor octanaje que no contenga tetraetilo de plomo, así como el diesel .......... 110%
+I).- Gasolina que contenga tetraetilo de plomo y su octanaje no exceda de 82 octanos o la de mayor octanaje que no contenga tetraetilo de plomo, así como el diesel ........... 110%
 
 II.- En la prestación de los siguientes servicios:
 
-A).-Seguros individuales en operaciones de vida .......... 3%
+A).-Seguros individuales en operaciones de vida ........... 3%
 
 B).- Telefónicos:
 
@@ -108,13 +110,13 @@ a).- Servicios locales:
 
 1.- Abonados residenciales y de telefonía rural .......... 49.1%
 
-2.- En casos distintos a los residenciales y de telefonía rural .......... 60%
+2.- En casos distintos a los residenciales y de telefonía rural ........... 60%
 
 b).- Servicios de larga distancia:
 
-1.- Abonados residenciales y de telefonía rural .......... 26.4%
+1.- Abonados residenciales y de telefonía rural ........... 26.4%
 
-2.- En casos distintos a los residenciales y de telefonía rural .......... 35%
+2.- En casos distintos a los residenciales y de telefonía rural ........... 35%
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -122,7 +124,7 @@ C).- Comisión, mediación, agencia, representación, correduría, consignación
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-III.- En la exportación definitiva en los términos de la legislación aduanera de los bienes a que se refiere la fracción I de este artículo, incluso cuando se exporten para enajenarlos en el extranjero .......... 0%.
+III.- En la exportación definitiva en los términos de la legislación aduanera de los bienes a que se refiere la fracción I de este artículo, incluso cuando se exporten para enajenarlos en el extranjero ......... 0%.
 
 ###### ARTICULO 3o.
 
@@ -826,4 +828,28 @@ La presente Ley entrará en vigor el día 1o. de mayo de 1986.
 
 Los pagos provisionales de los impuestos sobre la renta, valor agregado, automóviles nuevos y especial sobre producción y servicios, así como el entero del impuesto sobre las erogaciones por remuneración al trabajo personal prestado bajo la dirección y dependencia de un patrón y las aportaciones señaladas en la fracción II del artículo 29 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, que deban efectuarse en el mes de mayo de 1986, se podrán hacer en los plazos que establecen las disposiciones vigentes hasta el 30 de abril de 1986.
 
+D.O.F. 31 DE DICIEMBRE DE 1986.
+
+Disposiciones con vigencia durante el año de 1987
+
+###### ARTICULO NOVENO.
+
+Durante el año de 1987, se aplicarán en materia del Impuesto Especial sobre Producción y Servicios, las siguientes disposiciones:
+
+I.- Los productores o envasadores de agua mineral natural o con sabor, que de conformidad con el artículo 5o.-A de la Ley del Impuesto Especial sobre Producción y Servicios estén obligados a retener ese impuesto, continuarán aplicando las disposiciones que estuvieron vigentes para 1985.
+
+II.- Los productores o importadores de cigarros para calcular el impuesto por la enajenación de esos bienes, considerarán como valor el precio de venta al detallista de los mismos. Este impuesto no se pagará por las enajenaciones subsecuentes.
+
+III.- Para los efectos del Artículo Décimotercero, fracción IV, inciso b), de la Ley que Establece, Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales, vigente a partir del 1o. de enero de 1986, son cigarros populares sin filtro los que el 1o. de enero de 1987, tengan un precio máximo al público que no exceda de $110.00 por cajetilla de cigarros.
+
+IV.- No se pagará el Impuesto Especial sobre Producción y Servicios por la enajenación del alcohol que realice Azúcar, S. A. de C.V., a los productores que lo utilicen como insumo para la elaboración de bebidas alcohólicas, siempre que se encuentren registrados ante esa entidad.
+
+Asimismo, Azúcar, S.A. de C.V., presentará declaración informativa anual dentro de los tres meses siguientes al cierre de su ejercicio.
+
 ## TRANSITORIOS
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1987.
+
+## TRANSITORIO
