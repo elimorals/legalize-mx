@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-del-estado-de-san-luis-7940
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-01"
-last_updated: "1990-01-26"
+last_updated: "1991-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1991.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de San Luis Potosí, el 1o. de enero de 1988.
 
@@ -393,9 +393,9 @@ El impuesto se determinará aplicando la tasa y el procedimiento para su cáulcu
 
 Para los efectos de esta Ley, se entiende por adquisición la que se derive de:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 1991)</small>
 
-I.- Todo acto por el que se transmita la propiedad, excluyendo la donación a toda clase de asociaciones e instituciones de beneficencia, así como la que ocurra por causa de muerte y cesión de derechos entre padres e hijos.
+I.- Todo acto por el que transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de Asociación y Sociedad, en los términos que se contemplan en las Leyes de Ingresos Municipales.
 
 II.- La compra-venta en la que el vendedor se reserve el dominio, aún cuando la transferencia de este opere con posterioridad.
 
@@ -877,13 +877,21 @@ Los Ayuntamientos formularán gratuitamente los presupuestos y especificaciones 
 
 Cuando un edificio se encuentre dividido en departamentos, viviendas, locales comerciales o esté sujeto a régimen de condominio, cada uno de ellos deberá tener su propio servicio independiente aún cuando sólo exista una toma general de agua.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 125.
 
-Las cuotas o tarifas de derechos por servicio doméstico, industrial, comercial, artesanal, público urbano y otros no especificados, se establecerán en la respectiva Ley de Ingresos Municipal.
+Las cuotas o tarifas de derechos por servicio doméstico, industrial, comercial, artesanal, público, urbano y otros no especificados se establecerán en la respectiva Ley de Ingresos Municipal de aquellos Ayuntamientos que no hayan descentralizado los servicios de agua potable y alcantarillado.
+
+En los Municipios en los que los servicios sean prestados por organismos paramunicipales autorizados por el H. Congreso del Estado, serán los Consejos de Administración de estas dependencias los que aprueben las cuotas y tarifas, reservándose el Congreso la facultad de revisarlas y adecuarlas en su caso, las que serán publicadas en el Periódico Oficial del Estado para su obligatoriedad.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 126.
 
-El pago de los derechos por suministros de agua potable, ya sea por cuota fija o por servicio medido, se cubrirá por bimestre dentro de los 15 días del mes siguiente.
+El pago de los derechos por suministros de agua potable, ya sea por cuota fija o por servicio medido, se cubrirá por mes dentro de los 15 días del mes siguiente.
+
+El entero de estas contribuciones podrá hacerse directamente ante los organismos administrativos de tales servicios, o bien ante las cajas receptoras del Ayuntamiento, sin perjuicio de la facultad municipal de celebrar convenios con el Gobierno del Estado, para la recaudación, administración y cobro coactivo de los ingresos municipales.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -1254,3 +1262,15 @@ UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1990.
 P.O. 26 DE ENERO DE 1990.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE ENERO DE 1991.
+
+DECRETO No. 18 QUE REFORMA LA FRACCION I DEL ARTICULO 51 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE ENERO DE 1991.
+
+DECRETO No. 19 QUE REFORMA LOS ARTICULOS 125 Y 126 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO.
+
+UNICO.- La presente reforma entrará en vigor el día primero de enero de 1991.
