@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1987-10-23"
+last_updated: "1988-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 1988.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -60,6 +60,14 @@ El Poder Público únicamente puede lo que la Ley le concede y el gobernado todo
 ###### ARTICULO 3.
 
 La Ley es igual para todos, de ella emanan las atribuciones de las autoridades y los derechos y obligaciones de todas las personas que se hallen en el Estado de Guanajuato, ya sean domiciliadas o transeúntes. A todos corresponde el disfrute de sus beneficios y el acatamiento de sus disposiciones.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 1988)</small>
+
+Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando en consecuencia prohibidas las costas judiciales.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 1988)</small>
+
+El Poder Judicial es independiente de los demás poderes del Estado. El Ejecutivo garantizará la plena ejecución de las resoluciones judiciales.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -885,7 +893,13 @@ XX.- Expedir, por sí o por acuerdo, los Títulos Profesionales que previene la 
 
 XXI.- Crear, por Decreto Gubernativo, Organismos Descentralizados y constituir Empresas de Participación Estatal, Comisiones, Patronatos y Comités y asignarles las funciones que estime convenientes; y,
 
-XXII.- Las demás que le concedan esta Constitución y las Leyes.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 1988)</small>
+
+XXII.- Convenir con la Federación en los términos de ley, la asunción por parte del Estado del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos cuando el desarrollo económico y social lo hagan necesario.
+
+Asimismo convenir con los municipios, en los términos de ley, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a las que se refiere el párrafo anterior;
+
+XXIII.- Las demás que le concedan esta Constitución y las Leyes.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -923,7 +937,7 @@ Para el despacho de los asuntos a cargo del Poder Ejecutivo, el Gobernador del E
 
 El Ministerio Público, y la Policía Judicial dependen del Ejecutivo. El Procurador General de Justicia es el Jefe de la Institución, teniendo bajo su mando a la Policía Judicial, y tendrá a su vez el carácter de Representante Jurídico del Estado y Consejero Legal del Ejecutivo, en los términos que señale la Ley.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1988)</small>
 
 ### CAPITULO PRIMERO. DEL PATRIMONIO
 
@@ -931,13 +945,13 @@ El Ministerio Público, y la Policía Judicial dependen del Ejecutivo. El Procur
 
 ###### ARTICULO 82.
 
-Para la defensa de los derechos de los particulares frente a los actos de las Autoridades Administrativas, Estatales y Municipales, se creará un Tribunal de lo Contencioso Administrativo, con la competencia, jurisdicción, organización, número de Magistrados y Salas que la Ley de la materia establezca.
+Para la defensa de los derechos de los particulares frente a los actos de las autoridades administrativas, estatales y municipales, se podrá crear un Tribunal de lo Contencioso Administrativo, con la competencia, jurisdicción, organización, número de Magistrados y Salas que la Ley de la materia establezca.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
 #### SECCION SEGUNDA. DE LOS JUECES DE PRIMERA INSTANCIA Y JUECES MENORES
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 83.
 
@@ -948,6 +962,10 @@ Se deposita el ejercicio del Poder Judicial del Estado en un Supremo Tribunal de
 ###### ARTICULO 84.
 
 El Supremo Tribunal se compondrá del número de Magistrados Propietarios y Supernumerarios que señale la Ley Orgánica del Poder Judicial, nombrados por el Gobernador del Estado, con la aprobación del Congreso o de la Diputación Permanente, en los términos de la Fracción XII del Artículo 77 y de la Fracción XXI del Artículo 63 de esta Constitución. Tendrá un Presidente, que será el Magistrado Propietario que designe el Pleno, quien durará en su encargo un año, y podrá ser reelecto.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 1988)</small>
+
+Los nombramientos de los Magistrados serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -963,19 +981,31 @@ Los Magistrados Supernumerarios suplirán las faltas temporales de los Magistrad
 
 Para ser Magistrado, se requiere:
 
-I.- Ser ciudadano guanajuatense en el ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 1988)</small>
 
-II.- Tener Título de Abogado o Licenciado en Derecho, expedido por la Institución legalmente facultada para ello, y por lo menos cinco años de práctica en el ejercicio de su actividad profesional;
+I.- Ser ciudadano mexicano por nacimiento, de preferencia ciudadano guanajuatense, en pleno ejercicio de sus derechos políticos y civiles;
 
-III.- Tener por lo menos treinta años de edad cumplidos al día de la designación; y
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 1988)</small>
 
-IV.- Gozar de buena reputación, prestigio y calidad profesional, y no haber sido condenado por delito alguno con motivo de funciones públicas o por delitos graves del orden común.
+II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la designación;
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 1988)</small>
+
+III.- Tener título de Abogado o Licenciado en Derecho, expedido por la Institución legalmente facultada para ello, y por lo menos cinco años de práctica en el ejercicio de su actividad profesional;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 1988)</small>
+
+IV.- Gozar de buena reputación y no haber sido condenado ejecutoriamente por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación o abuso de confianza quedará inhabilitado para el cargo, cualquiera que haya sido la pena;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 1988)</small>
+
+V.- Haber residido en el Estado durante los últimos cinco años, salvo el caso de ausencia en servicio de la República o el Estado por un tiempo menor de seis meses.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 87.
 
-Los Magistrados durarán en su encargo seis años, y tomarán posesión el día primero de octubre siguiente a la fecha de toma de posesión del Gobernador. Los Magistrados no quedan impedidos para desempeñar el mismo cargo en períodos subsecuentes.
+Los Magistrados durarán en el ejercicio de su encargo seis años y tomarán posesión el día primero de octubre siguiente a la fecha de toma de posesión del Gobernador; podrán ser reelectos y en éste supuesto, sólo podrán ser privados de sus puestos en los términos que determine esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1003,11 +1033,11 @@ VI.- Iniciar Leyes o Decretos en el ramo de sus atribuciones; y,
 
 VII.- Cumplir las demás atribuciones que le señalen la Ley Orgánica del Poder Judicial del Estado, los Códigos de Procedimientos y demás Leyes aplicables.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 90.
 
-La remuneración que reciban por sus servicios los Magistrados, los Jueces de Primera Instancia, y los Jueces Menores, no podrá ser disminuída durante su encargo.
+Los Magistrados y los Jueces, percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1015,11 +1045,17 @@ La remuneración que reciban por sus servicios los Magistrados, los Jueces de Pr
 
 Los Magistrados en ejercicio de sus funciones no podrán ejercer la profesión de Abogados sino en negocios propios, de sus ascendientes, de su esposa, o de sus hijos, ni desempeñar otro empleo o cargo público o privado, a excepción de los docentes.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 92.
 
-La Ley Orgánica del Poder Judicial determinará la organización y funcionamiento del Supremo Tribunal de Justicia y de los Juzgados dependientes de éste, las atribuciones del Presidente y de los Magistrados, el número y competencia de éstos y de los Jueces de Primera Instancia y de los Jueces Menores.
+La Ley Orgánica del Poder Judicial, garantizará la independencia de los Magistrados y Jueces en el ejercicio de sus funciones.
+
+Determinará la organización y funcionamiento del Supremo Tribunal de Justicia y de los Juzgados dependientes de éste, las atribuciones del Presidente y de los Magistrados, el número y competencia de éstos, de los Jueces de Primera Instancia y de los Jueces Menores.
+
+Establecerá las condiciones para el ingreso, formación y permanencia de quienes sirvan al Poder Judicial del Estado.
+
+Asimismo, fijará las bases para el establecimiento de la carrera judicial.
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1029,7 +1065,7 @@ La Ley Orgánica del Poder Judicial determinará la organización y funcionamien
 
 ###### ARTICULO 93.
 
-Los Jueces de Primera Instancia y los Jueces Menores serán nombrados por el Pleno del Supremo Tribunal de Justicia.
+Los Jueces de Primera Instancia y los Jueces Menores serán nombrados por el Pleno del Supremo Tribunal de Justicia, atendiéndose a lo dispuesto por el segundo párrafo del artículo 84 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1436,6 +1472,10 @@ La infracción de estas disposiciones será castigada con la pérdida de los car
 ###### ARTICULO 132.
 
 Todo Funcionario o Empleado Público recibirá por sus servicios, el sueldo o salario determinado por la Ley, mismo que no podrá ser renunciable. Los cargos de los Funcionarios Electorales y Censales, serán obligatorios y gratuitos.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 1988)</small>
+
+Las relaciones de trabajo entre el Estado, Municipios y sus trabajadores, se regirán por la Ley de Trabajo de los Servidores Públicos del Estado y de los Municipios, con base en lo dispuesto por el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1882,5 +1922,25 @@ P.O. 23 DE OCTUBRE DE 1987.
 DECRETO No. 137.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE JUNIO DE 1988.
+
+DECRETO No. 181.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE JUNIO DE 1988.
+
+DECRETO No. 182.
+
+###### ARTICULO PRIMERO.
+
+No se aplicará retroactivamente a los Magistrados que se encuentren en funciones, lo establecido por el artículo 86 reformado, de la Constitución Política del Estado.
+
+###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
