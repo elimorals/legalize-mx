@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2001-06-19"
+last_updated: "2002-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -905,11 +905,15 @@ DE LA ASESORIA JURIDICA.
 
 Para los efectos de las Fracciones IV, XXIX, y XXX del Artículo 64 y demás relativos de la Constitución Política del Estado, habrá una Contaduría Mayor de Hacienda, bajo la inmediata y exclusiva dependencia del Congreso.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 80.
 
-La Contaduría Mayor de Hacienda, como asesora técnica de la Comisión de la Contaduría Mayor de Hacienda, hará la revisión y auditoría de todas las cuentas que el Ejecutivo, los Ayuntamientos y las Dependencias que manejen fondos públicos otorgados por el Gobierno del Estado, presenten al Congreso y resolverá todas las consultas que éste le haga.
+La Contaduría Mayor de Hacienda, como asesora técnica de la Comisión de la Contaduría Mayor de Hacienda, hará la revisión y auditoría de todas las cuentas que el ejecutivo, dependencias y organismos descentralizados estatales y municipales, que manejen fondos públicos otorgados por el Gobierno del Estado presenten anualmente ante el Congreso, y proporcionará todas las consultas que se le hagan.
 
-Una Ley especial reglamentará la organización y funcionamiento de la Contaduría Mayor de Hacienda.
+Asimismo, hará la revisión y fiscalización de las cuentas públicas que anualmente rinden ante el Congreso los ayuntamientos del Estado, y proporcionará todas las consultas que éstos le formulen.
+
+Una ley especial reglamentará la organización y funcionamiento de la Contaduría Mayor de Hacienda.
 
 ### CAPITULO XII
 
@@ -1857,7 +1861,7 @@ VI.- Conceder licencia al Gobernador del Estado, cuando no sea por periodo mayor
 
 VII.- Nombrar Gobernador Provisional en los casos previstos en la Constitución del Estado;
 
-VIII.- Designar, a propuesta del Gobernador a los miembros de los Consejos Municipales;
+VIII.- (DEROGADA, B.O. 10 DE JULIO DE 2002)
 
 IX.- (DEROGADA, B.O. 6 DE ABRIL DE 1999)
 
@@ -1974,3 +1978,13 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 B.O. 19 DE JUNIO DE 2001.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Estado de Baja California Sur.
+
+B.O. 10 DE JULIO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Los ayuntamientos de la entidad contarán con noventa días naturales para los efectos de lo dispuesto por los artículos 26, 90, 91, 92, y 94 de la Ley Orgánica Municipal Reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur, reformados por este Decreto, en lo que se refiere a los bandos de policía y gobierno y reglamentos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
