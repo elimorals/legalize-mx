@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2004-07-24"
+last_updated: "2004-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -105,6 +105,12 @@ El plazo se computará a partir de la fecha en que rindan la protesta, el cual d
 
 En los casos de promoción, la inamovilidad en el nuevo empleo se adquirirá al transcurrir el plazo correspondiente a su ejercicio.
 
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
+
+###### Artículo 8 Bis.
+
+Los magistrados, consejeros, jueces y demás servidores públicos del Poder Judicial percibirán una remuneración adecuada e irrenunciable, misma que deberá encontrarse establecida en el Presupuesto de Egresos respectivo y ser acorde a la ley, sin que bajo ninguna circunstancia, puedan recibir bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación, de conformidad con lo dispuesto por el artículo 111 de la Constitución Política del Estado de Jalisco, y demás normatividad aplicable.
+
 ###### Artículo 9.
 
 El retiro de los magistrados será forzoso en los términos que establece la Constitución Política del Estado; mientras que para los jueces será voluntario al cumplir sesenta y cinco años y, forzoso a los setenta, para cuyo efecto hará la declaración correspondiente el Consejo General a instancia del interesado o de oficio. En ambos casos los funcionarios judiciales tendrán derecho a un haber por retiro, conforme lo disponga la ley.
@@ -153,11 +159,13 @@ El Magistrado, Juez y Secretario que pasen a formar parte del Consejo General de
 
 ### CAPÍTULO IV. DE LOS ÓRGANOS ADMINISTRATIVOS AUXILIARES DE LOS TRIBUNALES
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+
 ### CAPÍTULO I. INTEGRACIÓN Y FUNCIONAMIENTO
 
 ###### Artículo 15.
 
-El Supremo Tribunal de Justicia, el Tribunal de lo Administrativo, el Tribunal Electoral y el Consejo General del Poder Judicial del Estado de Jalisco, para el cabal desempeño de sus funciones, podrán crear las direcciones, unidades departamentales y órganos auxiliares que consideren necesarios, en sus respectivos ámbitos de competencia, conforme lo permitan su respectivo Presupuesto de Egresos, que deberán ejercer con plena autonomía.
+El Supremo Tribunal de Justicia, el Tribunal de lo Administrativo, el Tribunal Electoral y el Consejo General del Poder Judicial del Estado de Jalisco, para el cabal desempeño de sus funciones, podrán crear las direcciones, unidades departamentales y órganos auxiliares que consideren necesarios, en sus respectivos ámbitos de competencia, conforme lo permitan su respectivo Presupuesto de Egresos, que deberán ejercer con plena autonomía y de conformidad con la ley.
 
 ###### Artículo 16.
 
@@ -2299,9 +2307,11 @@ XII. Actuario; y
 
 XIII. Juez Menor y Juez de Paz.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 182.
 
-El Consejo General del Poder Judicial del Estado establecerá, de acuerdo con su Presupuesto y mediante disposiciones generales, un sistema de estímulos para aquellas personas comprendidas en las categorías señaladas en el artículo anterior. Dicho sistema podrá incluir estímulos económicos y tomará en cuenta el desempeño en el ejercicio de su función, los cursos de especialización realizados, la antigüedad, grado académico, arraigo y los demás que el propio Consejo estime necesarios.
+El Consejo General del Poder Judicial del Estado establecerá, de acuerdo con su Presupuesto de Egresos y la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, un sistema de estímulos para aquellas personas comprendidas en las categorías señaladas en el artículo anterior. Dicho sistema podrá incluir estímulos económicos y tomará en cuenta el desempeño en el ejercicio de su función, los cursos de especialización realizados, la antigüedad, grado académico, arraigo y los demás que el propio Consejo estime necesarios, respetando los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación.
 
 ### CAPÍTULO I. DE LOS MAGISTRADOS Y CONSEJEROS
 
@@ -3022,3 +3032,9 @@ P.O. 13 DE NOVIEMBRE DE 2003.
 P.O. 24 DE JULIO DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 26 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a la entrada en vigor del decreto número 20514 que contiene reformas al artículo 111 de la Constitución Política del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- El Comité Técnico de Transparencia y Valoración Salarial, deberá reunirse de forma inmediata a fin de aprobar su reglamento interno. El reglamento deberá ser aprobado dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
