@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-del-estado-de-san-luis-7940
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-01"
-last_updated: "1996-02-16"
+last_updated: "1997-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 1997.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de San Luis Potosí, el 1o. de enero de 1988.
 
@@ -981,9 +981,9 @@ Cuando un edificio se encuentre dividido en departamentos, viviendas, locales co
 
 Las cuotas o tarifas de derechos por servicio doméstico, industrial, comercial, artesanal, público, urbano y otros no especificados se establecerán en la respectiva Ley de Ingresos Municipal de aquellos Ayuntamientos que no hayan descentralizado los servicios de agua potable y alcantarillado.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1997)</small>
 
-Los Municipios en que los servicios sean prestados por Organismos Paramunicipales autorizados por el H. Congreso del Estado, los Consejos de Administración, mediante el voto de las dos terceras partes de sus integrantes, autorizarán las cuotas y tarifas que deban cubrir los usuarios por todos los servicios públicos de agua potable, las cuales se remitirán al H. Congreso anualmente, a más tardar el 15 de noviembre de cada año para su revisión, y para su obligatoriedad ordenará su publicación en el Periódico Oficial del Estado. Asimismo quedan obligados estos Organismos para que sus Consejos de Administración remitan bimestralmente al propio Poder Legislativo, un informe del manejo de los recursos financieros que tengan a su cargo, indistintamente del informe anual que deban rendir a más tardar el 15 de noviembre de cada año.
+En los municipios en los que los servicios sean prestados por organismos descentralizados autorizados por el Congreso del Estado, serán los Consejos de administración de estos organismos los que aprueben las cuotas y tarifas, las que serán publicadas en el Periódico Oficial del Estado para su obligatoriedad.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 1991)</small>
 
@@ -995,7 +995,9 @@ El entero de estas contribuciones podrá hacerse directamente ante los organismo
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
-### CAPITULO DECIMO QUINTO. SERVICIOS PRESTADOS POR LA DIRECCIÓN DE TRANSITO MUNICIPAL
+### CAPITULO DECIMO QUINTO. SERVICIOS PRESTADOS POR LA DIRECCIÓN
+
+DE TRANSITO MUNICIPAL
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -1145,7 +1147,7 @@ Además causarán recargos de conformidad con el mismo precepto.
 
 Las multas y los productos no causan recargos.
 
-## TITULO SEXTO (SIC). CONTRIBUCIONES DE MEJORAS
+## TITULO SEPTIMO. CONTRIBUCIONES DE MEJORAS
 
 ###### ARTICULO 137.
 
@@ -1510,3 +1512,9 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 P.O. 16 DE FEBRERO DE 1996.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE MAYO DE 1997.
+
+PRIMERO.- Las disposiciones contenidas en el presente decreto, entrarán en vigor el primero de enero de mil novecientos noventa y ocho.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
