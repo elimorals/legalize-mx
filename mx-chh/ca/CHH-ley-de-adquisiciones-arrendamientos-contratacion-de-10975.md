@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-adquisiciones-arrendamientos-contratacion-de-10975"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-13"
-last_updated: "2003-12-24"
+last_updated: "2005-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA
 
 > <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA “LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA”, PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA “LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA”, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2005.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 13 de septiembre de 1997.
 
@@ -81,7 +81,9 @@ II. Dependencias: las Unidades de la Administración centralizada, estatal o mun
 
 III. Organismos: las Unidades Descentralizadas, del Estado o de los Municipios, quedando comprendidas las señaladas en las fracciones IV, V y VI del artículo 1;
 
-IV. Dirección: la Dirección General de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+IV. Secretaría: la Secretaría de Administración;
 
 V. Contraloría: la Contraloría del Estado;
 
@@ -295,7 +297,9 @@ Todo Ente Público que requiera contratar o realizar estudios o proyectos, verif
 
 En el ámbito estatal, los organismos que sean apoyados presupuestalmente o que reciban transferencias de recursos estatales, remitirán sus programas y presupuestos de adquisiciones, arrendamientos y servicios, así como de obra pública, a la dependencia coordinadora de sector, en los términos que señala la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público.
 
-Las dependencias coordinadoras de sector y los organismos que no se encuentren agrupadas en sector alguno, enviarán a la Dirección los programas y presupuestos mencionados en la fecha que ésta determine, para su examen, aprobación e inclusión, en su caso, en el proyecto de Presupuesto de Egresos correspondiente.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
+Las Dependencias coordinadoras de sector y los organismos que no se encuentren agrupadas en sector alguno, enviarán a la Secretaría de Finanzas los programas y presupuestos mencionados en la fecha que ésta determine, para su examen, aprobación e inclusión, en su caso, en el proyecto de Presupuesto de Egresos correspondiente.
 
 ###### Artículo 24.
 
@@ -307,11 +311,15 @@ El documento que contenga los programas será de carácter informativo; no supon
 
 Por cada Entidad, Dependencia u Organismo existirá un Comité de Adquisiciones, Arrendamientos y Servicios, en el ámbito de competencia estatal. En los Municipios existirá un Comité en cada uno de ellos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 26.
 
-En el Poder Ejecutivo, el Comité de Adquisiciones, Arrendamientos y Servicios se integrará por los representantes de la Dirección, la Coordinación y de la Dependencia de la administración pública centralizada o Entidad que requiera la adquisición, el arrendamiento o la prestación del servicio, así como por un representante de la Contraloría del Estado, en su carácter de observador.
+En el Poder Ejecutivo, el Comité de Adquisiciones, Arrendamientos y Servicios se integrará por los representantes de la Secretaría, de la Secretaría de Planeación y Evaluación, de la Secretaría de Finanzas y de la dependencia de la administración pública centralizada o entidad que requiera la adquisición, el arrendamiento o la prestación del servicio, así como por un representante de la Contraloría del Estado, en su carácter de observador.
 
-El Director General de Finanzas y Administración o su representante fungirá como Presidente del Comité.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
+El Secretario de Administración o su representante fungirá como Presidente del Comité.
 
 El Congreso del Estado determinará, conforme a su Ley Orgánica, la integración de su Comité de Adquisiciones, Arrendamientos y Servicios, debiendo observar lo relativo a la participación de la Cámara o Asociación correspondiente en los términos del artículo siguiente.
 
@@ -389,11 +397,11 @@ a) La invitación a cuando menos tres proveedores o contratistas según sea el c
 
 b) La adjudicación directa.
 
-> <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### Artículo 32.
 
-En casos excepcionales y previa autorización: de la Dirección, en el Ejecutivo y su sector paraestatal; del Comité de Administración mediante acta, en el Congreso; y del Ayuntamiento en los Municipios y su sector paramunicipal, se podrá convocar sin contar con saldo disponible en su presupuesto.
+En casos excepcionales y previa autorización: de la Secretaría de Finanzas, en el Ejecutivo y su sector paraestatal; del Comité de Administración mediante acta, en el Congreso; y del Ayuntamiento en los Municipios y su sector paramunicipal, se podrá convocar sin contar con saldo disponible en su presupuesto.
 
 Tratándose de obra pública, además se requerirá contar con los estudios y proyectos, las normas y especificaciones de construcción, el programa de ejecución y, en su caso, el programa de suministro.
 
@@ -585,9 +593,13 @@ En el caso de la fracción IV de este artículo, la garantía se otorgará previ
 
 Las garantías que deban otorgarse conforme a esta Ley, se constituirán a favor de:
 
-I. La Dirección, por actos o contratos que se celebren con las Dependencias estatales;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-II. El Congreso, por actos y contratos que se celebren con él, y se harán efectivas por la Dirección;
+I. La Secretaría de Finanzas, por actos o contratos que se celebren con las Dependencias estatales;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+II. El Congreso, por actos y contratos que se celebren con él, y se harán efectivas por la Secretaría de Finanzas;
 
 III. Las Tesorerías municipales, por actos o contratos que se celebren con los Ayuntamientos respectivos; y
 
@@ -1394,3 +1406,27 @@ P.O. 24 DE DICIEMBRE DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado y se aplicará a partir del ejercicio fiscal de 2004.
+
+P.O. 19 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua se haga referencia a La Dirección, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua se haga referencia a La Dirección, se entenderá citada la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+Cuando en la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios se haga referencia a la Dirección General de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO QUINTO.
+
+Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas y cuando en cualquier otro ordenamiento se haga mención a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración se entenderá citada la Secretaría de Finanzas.
+
+Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
