@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-de-veracruz-268
 country: "mx"
 rank: "codigo"
 publication_date: "1948-02-12"
-last_updated: "1988-04-05"
+last_updated: "1991-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE ABRIL DE 1988.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE FEBRERO DE 1991.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave el jueves 12, sábado 14, martes 17, jueves 19, sábado 21, martes 24, jueves 26 y sábado 28 de febrero; martes 2, jueves 4, sábado 6, martes 9, jueves 11, sábado 13 y martes 16 de marzo de 1948.
 
@@ -1015,9 +1015,11 @@ No pueden ser defensores los que se hallen presos ni los que estén procesados. 
 
 ### CAPITULO III. Autos de formal prisión, de sujeción a proceso y libertad por falta de elementos para procesar
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 157.
 
-El auto de formal prisión se dictará de oficio cuando de lo actuado aparezcan llenados los requisitos siguientes:
+El auto de formal prisión se dictará de oficio por el Juez, dentro de las setenta y dos horas siguientes al momento en que el indiciado sea puesto a su disposición, cuando de lo actuado aparezcan reunidos los requisitos siguientes:
 
 I.- Que esté comprobada la existencia del cuerpo de un delito que merezca sanción privativa de libertad;
 
@@ -1026,6 +1028,10 @@ II.- Que se haya tomado declaración preparatoria al inculpado, en la forma y co
 III.- Que contra el mismo inculpado existan datos suficientes, a juicio del tribunal, para suponerlo responsable del delito; y
 
 IV.- Que no esté plenamente comprobada a favor del inculpado alguna causa que excluya la incriminación, o que extinga la acción penal.
+
+> <small>(ADICIONADO, G.O. 19 DE FEBRERO DE 1991)</small>
+
+El plazo a que se refiere el primer párrafo de este artículo, será duplicado cuando lo soliciten el indiciado y su defensor, al rendirse la declaración preparatoria, por convenirles dicha ampliación del plazo para recabar elementos que deban someter al conocimiento del Juez, para que éste resuelva sobre la situación jurídica. El Ministerio Público no puede solicitar dicha prórroga ni el Juez resolverla de oficio, aun cuando mientras corre el período de ampliación, aquél puede, hacer las promociones correspondientes al interés social que representa.
 
 ###### ARTICULO 158.
 
@@ -2740,3 +2746,13 @@ PRIMERO.-El presente Decreto se publicará en la 'Gaceta Oficial' del Estado y e
 SEGUNDO.-Se derogan todas las disposiciones legales que se opongan al presente.
 
 TERCERO.-Los Jueces de Primera Instancia, remitirán por incompetencia, las causas que correspondan a los Juzgados Menores en términos del artículo 8º de esta reforma, una vez que hayan sido instalados.
+
+G.O. 19 DE FEBRERO DE 1991.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
