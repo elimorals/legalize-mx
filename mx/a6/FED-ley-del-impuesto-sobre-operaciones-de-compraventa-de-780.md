@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-operaciones-de-compraventa-de-780"
 country: "mx"
 rank: "ley"
 publication_date: "1948-12-30"
-last_updated: "1951-12-31"
+last_updated: "1952-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=780&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1948-12-29"
 ---
 # LEY DEL IMPUESTO SOBRE OPERACIONES DE COMPRAVENTA DE PRIMERA MANO DE ANHIDRIDO CARBONICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN PRIMERA DEL 6 DE FEBRERO DE 1952 EN EL D.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL IMPUESTO SOBRE OPERACIONES DE COMPRAVENTA DE PRIMERA MANO DE ANHÍDRIDO CARBÓNICO
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1951.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN PRIMERA DEL DIARIO OFICIAL DEL 6 DE FEBRERO DE 1952.]</small>
 
 Ley publicada en la Sección Primera del Diario Oficial de la Federación, el 30 de diciembre de 1948.
 
@@ -57,7 +57,9 @@ I.- Anhídrido carbónico en cualesquiera de sus Estados (por kilogramo) excepto
 
 II.- Anhídrido carbónico sólido (hielo seco) para fines de refrigeración, siempre que su venta se efectúe en las condiciones del medio ambiente en cuanto a presión y temperatura (por kilogramo) $0.02
 
-El impuesto a que se refiere el párrafo y la tarifa anteriores, se causará cualquiera que sea el objeto y destino industrial del anhídrido carbónico y en los diversos estados físicos antes enunciados.
+> <small>(F. DE E., D.O. 6 DE FEBRERO DE 1952)</small>
+
+El impuesto a que se refiere la fracción I de la Tarifa anterior, se causará cualquiera que sea el objeto y destino industrial del anhídrido carbónico y en los diversos estados físicos antes enunciados.
 
 Los causantes deberán cargar al precio de venta el monto estricto del Impuesto y quedan obligados, para el efecto, a expedir facturas, notas de venta o de remisión a los adquirentes del producto, consignando en ellas, por separado, el precio de éste y el importe del impuesto respectivo.
 
