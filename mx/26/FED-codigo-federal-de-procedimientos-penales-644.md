@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "1976-12-31"
+last_updated: "1978-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE DICIEMBRE DE 1978.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -3215,11 +3215,17 @@ Cuando por alguna de las causas que señala el artículo 90 del Código Penal de
 
 Cuando algún reo que esté compurgando una pena privativa de libertad crea tener derecho a la libertad preparatoria, la solicitará del órgano del Poder Ejecutivo que designe la ley a cuyo efecto acompañará los certificados y demás pruebas que tuviere.
 
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 1978)</small>
+
 ###### ARTICULO 541.
 
-Recibida la solicitud se recabarán los datos necesarios acerca de la temibilidad del reo, de la conducta que haya observado durante su prisión, de las manifestaciones exteriores de arrepentimiento o de enmienda y sobre las inclinaciones que demuestre. Estos datos se pedirán a tres comisiones unitarias integradas, respectivamente, por el Ministerio Público, por el juez y por el jefe de la prisión que hubieren intervenido en el caso del solicitante.
+Recibida la solicitud, se pedirán informes acerca de los requisitos a que se refieren las fracciones I y II del artículo 84 del Código Penal, a la autoridad ejecutiva del reclusorio en el que el sentenciado se encuentre compurgando la condena, la cual deberá acompañar además el dictamen que en cada caso emita el Consejo Técnico Interdisciplinario.
 
-Los informes que rinda estas comisiones no serán obstáculo para que se obtengan los datos necesarios por cualquier otro medio; en vista de esos informes y datos se resolverá sobre la procedencia de la libertad solicitada.
+Los informes que rinda la autoridad mencionada no serán obstáculo para que se obtengan los datos necesarios por cualquier otro medio.
+
+Tratándose de delitos contra la salud en materia de estupefacientes o psicotrópicos, deberán pedirse informes en todo caso a la Procuraduría General de la República.
+
+En vista de estos informes y datos, se resolverá sobre la procedencia de la libertad solicitada y se fijarán las condiciones a que su concesión deba sujetarse.
 
 ###### ARTICULO 542.
 
@@ -3480,3 +3486,9 @@ D.O.F. 31 DE DICIEMBRE DE 1976.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 8 DE DICIEMBRE DE 1978.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
