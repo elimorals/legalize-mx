@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1987-12-22"
+last_updated: "1988-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 1988.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -2115,9 +2115,9 @@ III.- Con prisión de cinco a diez años y multa de ciento ochenta a quinientas 
 
 373 Bis.- Cuando el apoderamiento del ganado no fuese en campo abierto, al infractor se le sancionará con las penas del robo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1988)</small>
 
-374.- Se equipará el abigeato y se sancionará con prisión de tres a diez años y multa de cincuenta a cien mil pesos, a quienes:
+374.- Se equipara el Abigeato y se sancionará con prisión de dos a cuatro años y multa de diez a cincuenta salarios mínimos vigente en el momento de cometerse el delito, a quienes:
 
 I.- Desfiguren o borren las marcas de animales vivos o pieles;
 
@@ -2372,3 +2372,9 @@ P.O. 22 DE DICIEMBRE DE 1987.
 PRIMERO: Este decreto deroga todas las disposiciones que se le opongan.
 
 SEGUNDO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE JULIO DE 1988.
+
+PRIMERO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
