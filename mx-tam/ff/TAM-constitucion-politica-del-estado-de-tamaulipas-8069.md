@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1967-01-07"
+last_updated: "1967-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1967.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1145,11 +1145,11 @@ El Supremo Tribunal de Justicia se integra con cinco Magistrados, y funcionará 
 
 Los Magistrados serán electos por el Congreso, erigido en Colegio Electoral, por el voto de las dos terceras partes, o más, de los Diputados que la integran; y, desempeñarán el cargo por tres años, pudiendo ser reelectos. En los recesos del Congreso, la Diputación Permanente nombrará Magistrados, con el carácter de provisionales, para suplir las faltas temporales de los propietarios.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1967)</small>
 
 ###### Art. 109.
 
-Los Magistrados empezarán a ejercer su cargo el día primero del mes de febrero del año inmediato a la elección de Diputados.
+Los Magistrados iniciarán el ejercicio de su cargo el día 16 del mes de enero del año inmediato posterior a la elección de Diputados.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
@@ -1896,3 +1896,11 @@ Envíese al Ejecutivo del Estado, para su promulgación y debido cumplimiento.
 P.O. 7 DE ENERO DE 1967.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ENERO DE 1967.
+
+PRIMERO.- Los CC. Magistrados electos por este Honorable Congreso que actualmente integran el Supremo Tribunal de Justicia ocuparán dicho cargo hasta el día 15 de enero de 1967.
+
+SEGUNDO.- Se reforman los Decretos números 368 publicado en el Periódico Oficial del Estado de 8 de enero de 1966, 9 de 21 de febrero de 1966 y 51 de 26 de octubre del propio año, para el efecto de reducir, en los términos del Artículo transitorio anterior, el período para el cual fueron electos los Magistrados que actualmente integran el Supremo Tribunal de Justicia del Estado.
+
+TERCERO.- Este Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
