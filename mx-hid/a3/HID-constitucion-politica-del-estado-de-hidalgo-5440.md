@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1991-10-23"
+last_updated: "1992-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1992.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -441,11 +441,11 @@ El ejercicio del Poder Legislativo se deposita en una Asamblea que se denominar�
 
 #### SECCION II. DE LA ELECCION DE DIPUTADOS E INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1992)</small>
 
 ###### Artículo 29.
 
-El número de representantes en el Congreso del Estado será proporcional al de habitantes del propio Estado, el Congreso se integra con quince Diputados de mayoría relativa electos por votación directa, secreta, relativa y uninominal en quince distritos electorales cinco diputados de representación proporcional, quienes como resultado de la misma elección se designarán mediante el procedimiento que la Ley de la materia establezca.
+El Congreso se integra con quince Diputados de mayoría relativa electos por votación directa, secreta y uninominal en quince distritos electorales y nueve diputados de representación proporcional, quienes como resultado de la misma elección se designarán mediante el procedimiento que la ley de la materia establezca.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -2550,3 +2550,7 @@ TERCERO.- Se derogan las disposiciones que se opongan el presente Decreto.
 P.O. 23 DE OCTUBRE DE 1991.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
+
+P.O. 22 DE JUNIO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor el siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
