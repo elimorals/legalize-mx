@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-del-decreto-que-crea-el-archivo-historico-del-25614"
 country: "mx"
 rank: "reglamento"
 publication_date: "1979-05-24"
-last_updated: "1979-05-24"
+last_updated: "2003-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "SLP"
 
 REGLAMENTO DEL DECRETO QUE CREA EL ARCHIVO HISTORICO DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO HISTORICO DEL ESTADO DE SAN LUIS POTOSI, "LIC. ANTONIO ROCHA", PUBLICADO EN EL P.O. DE 11 DE ENERO DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en el Periódico Oficial del Estado de San Luis Potosí, el 24 de mayo de 1979.
 
@@ -211,3 +213,11 @@ El Secretario General de Gobierno
 LIC. ANGEL RUBIO HUERTA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE ENERO DE 2003.
+
+PRIMERO.- El preste reglamento entrará en vigor al día siguiente de publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Queda abrogado el Reglamento del Decreto que crea el Archivo Histórico del Estado de San Luis Potosí, expedido por el Gobernador del Estado el 5 de marzo de 1979 y publicado en el Periódico Oficial del Estado el día veintinueve de mayo de 1979.
