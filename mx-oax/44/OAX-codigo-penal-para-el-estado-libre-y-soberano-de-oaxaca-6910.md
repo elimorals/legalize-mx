@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2000-09-23"
+last_updated: "2001-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2001.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -1491,9 +1491,17 @@ Reparación del daño.
 
 27.- La reparación del daño comprende:
 
-a).- La Restitución de la cosa obtenida por la comisión del delito; si esto no fuera posible, el pago del precio de la misma a valor de reposición según el grado de uso, conservación y deterioro que corresponda;
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
-b).- La Indemnización del daño material y moral, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima; y
+a).- La restitución de la cosa obtenida por la comisión del delito; si esto no fuera posible, el pago del precio de la misma;
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+b).- La Indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+En los casos de delitos contra la libertad, la seguridad y, el normal desarrollo psicosexual, de violencia intrafamiliar y otros que así lo requieran, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima; y
 
 c).- El resarcimiento de los perjuicios causados.
 
@@ -3443,13 +3451,25 @@ Las penas previstas en este artículo se aumentarán hasta en una cuarta parte e
 
 La misma pena se impondrá a quienes con fines de lucro o sin él, fije, grabe, imprima actos de exhibicionismo corporal, lascivos o sexuales en que participen uno o más menores de dieciocho años, o elabore, reproduzca, venda, arriende, exponga, publicite, distribuya, difunda el material a que se refiere las acciones anteriores.
 
-196.- Queda prohibido emplear a menores de dieciocho años en cantinas, tabernas y centros de vicio. La contravención a esta disposición se castigará con prisión de tres días a un año, multa de doscientos a dos mil pesos y, además, con cierre definitivo del establecimiento en caso de reincidencia.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+196.- Queda prohibido emplear a menores en cantinas, tabernas y centros de vicio. La contravención a esta disposición se castigará con prisión de uno a tres años, multa de cincuenta a doscientos días de salario mínimo y, además, el cierre definitivo del establecimiento.
 
 Incurrirán en la misma pena los padres o tutores que acepten que sus hijos o pupilos, respectivamente, bajo su guarda, se empleen en los referidos establecimientos.
 
 Para los efectos de este precepto se considerará como empleado en la cantina, taberna o centro de vicio al menor de dieciocho años que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje o emolumentos o gratuitamente, preste sus servicios en tal lugar.
 
-197.- Cuando el responsable de los delitos a que se refiere este Capítulo sea ascendiente, padrastro, madrastra o tutor del menor, además de las penas señaladas, se le sancionará con la privación de todo derecho a los bienes del ofendido y, en su caso, a la pérdida de la patria potestad y de la tutoría sobre el mismo menor.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+197.- Las sanciones que señalan los artículos anteriores se duplicarán cuando el autor del delito:
+
+I.- Tenga parentesco por consanguinidad, por afinidad o civil con la víctima;
+
+II.- Sea tutor de la víctima;
+
+III.- Habite en el mismo domicilio de la víctima.
+
+Además perderá la patria potestad o la tutela con respecto al menor, así como todo derecho a los bienes del mismo sin que se extinga la obligación de proporcionar alimentos.
 
 198.- Los delincuentes de que se trata en este capítulo, quedarán inhabilitados para ser tutores o curadores.
 
@@ -3943,39 +3963,47 @@ Delitos contra la libertad, la seguridad y el normal desarrollo psicosexual.
 
 Abuso y hostigamiento sexual, estupro y violación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
-241.- Comete el delito de abuso sexual: el que realice un acto erótico sexual, que no sea la cópula, en persona menor de doce años o que no tenga la capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo. Al autor de tal hecho se le aplicará de uno a cuatro años de prisión y de cincuenta a ciento cincuenta días de multa.
+241.- Comete el delito de abuso sexual, quien sin consentimiento de una persona ejecute en ella o la haga ejecutar un acto sexual, que no sea la cópula, o la obligue a observar cualquier acto sexual aun a través de medios electrónicos. Al responsable de tal hecho, se le impondrá de dos a cinco años de prisión y multa de cincuenta a doscientos días de salario mínimo.
 
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+La pena prevista en esté delito, se aumentará en una mitad en su mínimo y en su máximo cuando:
 
-Cuando el acto erótico sexual a que se refiere el párrafo anterior, se ejecute con cualquiera persona, sin el consentimiento de ésta, la pena será de uno a tres años de prisión y multa de quince a cincuenta días de salario mínimo general vigente en la zona.
+I.- El delito fuere cometido contra persona menor de doce años;
 
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+II.- Cuando se realice en persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo;
 
-Si se hiciere uso de la violencia física o moral o participaren dos o más personas, la pena será de dos a siete años de prisión y multa de 150 a 300 días de salario mínimo general vigente en la zona.
+III.- Sea cometido por dos o más personas;
 
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
+IV.- Se hiciera uso de violencia física o moral; y
 
-241 Bis.- Al que con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica, derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá pena de uno a tres años de prisión y multa hasta de cuarenta días de salario mínimo general vigente en la zona. Si el hostigador fuese servidor público y utilizase los medios o circunstancias que el cargo le proporcione, se le destituirá de él. Será punible el hostigamiento sexual cuando se cause daño.
+V.- Se hubiera administrado a la víctima alguna sustancia tóxica.
 
-Sólo se procederá contra el hostigador a petición de parte ofendida.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
-242.- El atentado contra el pudor solo se castigará cuando se haya consumado.
+241 Bis.- Al que asedie, acose o solicite favores de naturaleza sexual para sí o para un tercero, bien sea entre superior e inferior jerárquico, entre iguales o en cualquier circunstancia que los relacione en el ámbito familiar, doméstico, docente, laboral o cualquier otro, se le impondrá sanción de uno a tres años de prisión.
+
+Si el hostigador fuese servidor público y utilizase los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior, se le destituirá de su cargo.
+
+El delito previsto en este artículo será perseguido por querella del ofendido o de su legítimo representante.
+
+242.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+243.- A quien tenga cópula con persona mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio del engaño, cualquiera que haya sido el medio utilizado para lograrlo, se le impondrán de tres a siete años de prisión y multa de cien a trescientos días de salario.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
-
-243.- A quien tenga cópula con persona casta y honesta, mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio de la seducción o el engaño, se le impondrán de cuatro meses a cuatro años de prisión y multa de treinta a setenta días de salario.
 
 Cuando la persona estuprada fuere menor de quince años, se presumirá en todo caso la seducción o el engaño.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
-244.- No se procederá contra el estuprador sino por queja de la persona ofendida o de sus padres, o a falta de éstos, de sus representantes legítimos; pero cuando el infractor se case con la mujer ofendida, cesará toda acción para perseguirlo.
+244. No se procederá contra el estuprador sino por querella de la persona ofendida, o de sus padres, o a falta de éstos, de sus representantes legítimos.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
-245.- La reparación del daño, en los casos de estupro, comprenderá el pago de alimentos a los hijos, si los hubiere. Dicho pago se hará en la forma y términos, que la Ley Civil fija para los casos de divorcio.
+245.- La reparación del daño en los casos de estupro, además de lo que establece el artículo 27 del presente ordenamiento, comprenderá el pago de alimentos al niño nacido.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1994)</small>
 
@@ -3985,13 +4013,15 @@ Cuando la persona estuprada fuere menor de quince años, se presumirá en todo c
 
 Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
 
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
-
-Se sancionará con prisión de tres a ocho años, al que introduzca por vía vaginal o anal cualquier elemento o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1994)</small>
 
 247.- Se equipara a la violación la cópula con persona menor de doce años de edad, aún cuando se hubiere obtenido su consentimiento, sea cual fuere su sexo; con persona privada de razón o sentido, o cuando por enfermedad o cualquiera otra causa no pudiere resistir. En tales casos la pena será de nueve a dieciséis años y multa de ciento setenta y cinco a quinientos salarios.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+Se equipara a la violación y se sanciona con la misma pena, al que introduzca por vía vaginal o anal, cualquier elemento o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
 
 > <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
@@ -4015,17 +4045,17 @@ El delito a que se refiere la fracción inmediata anterior, solo se perseguirá 
 
 Rapto.
 
-249.- Al que se apodere de una mujer por medio de la violencia física o moral, de la seducción o del engaño, para satisfacer algún deseo erótico sexual, o para casarse, se le aplicarán de seis meses a nueve años de prisión y multa de doscientos a tres mil pesos.
+249.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 
-250.- Se impondrá la pena del artículo anterior, aunque el raptor no emplee la violencia ni el engaño, sino solamente la seducción o consienta en el rapto la mujer, si ésta fuere menor de quince años.
+250.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 
-251.- Por el solo hecho de no haber cumplido quince años la mujer que voluntariamente siga a su raptor, se presume que éste empleó la seducción. Si la mujer fuere menor de doce años, siempre se presumirá la violencia o el engaño.
+251.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 
-252.- Cuando el raptor se case con la mujer ofendida, no se podrá proceder penalmente contra él, ni contra sus cómplices por el delito de rapto; y no se continuarán los procedimientos que se hubieren iniciado en la averiguación del delito. Cuando se declare nulo el matrimonio celebrado entre el raptor y la raptada, se impondrán al raptor y a los demás responsables del delito la pena que señala el artículo 249 de este Código.
+252.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 
-253.- No se procederá contra el raptor sino por queja de la mujer ofendida o de su marido, si fuere casada; pero si la raptada fuere menor de edad, por queja de quien ejerza la patria potestad o la tutela o en su defecto, de la misma menor.
+253.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 
-254.- Cuando el rapto se acompañe con otro delito perseguible de oficio, sí se procederá contra el raptor, por éste último.
+254.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 
 ### CAPITULO III.
 
@@ -4041,19 +4071,9 @@ Se aplicará esta misma pena en caso de incesto entre hermanos.
 
 Adulterio.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+256.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 
-256.- Cometen el delito de adulterio los que tengan entre sí relaciones sexuales, si uno de ellos o los dos están casados con otra persona siempre que el hecho se ejecute en el domicilio conyugal o con escándalo. A todo adúltero se le aplicará de uno a tres años de prisión.
-
-257.- No se podrá proceder contra los adúlteros sino a petición del cónyuge ofendido; pero cuando éste formule querella contra uno solo de los culpables, se procederá contra los dos que aparezcan como co-delincuentes.
-
-Esto se entiende en el caso de que los adúlteros vivan, estén presentes y se hallen sujetos a la acción de la justicia; pero cuando no sea así se podrá proceder contra el responsable que se encuentre en esas condiciones.
-
-Solo se castigará el adulterio consumado.
-
-Cuando el ofendido perdone a su cónyuge, cesará todo procedimiento si no se ha dictado sentencia, y si ésta se ha dictado no producirá efecto alguno.
-
-Esta disposición favorecerá a todos los responsables.
+257.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 
 TITULO DECIMOTERCERO.
 
@@ -4255,11 +4275,13 @@ III.- Que fué a causa de la constitución física de la víctima o de las circu
 
 Reglas comunes para lesiones y homicidio.
 
-293.- Se impondrán de tres días a tres años de prisión al que, sorprendiendo a su cónyuge en el acto carnal o próximo a su consumación, mate o lesione a cualquiera de los culpables o a ambos; salvo el caso de que el activo haya contribuido a la corrupción de su cónyuge. En este último caso se impondrán al culpable de cinco a diez años de prisión.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+293.- Se impondrán de tres a ocho años de prisión al que, sorprendiendo a su cónyuge, concubino o concubina en acto carnal o próximo a su consumación, mate o lesione a cualquiera de los culpables o a ambos; salvo el caso de que el activo haya contribuido a la corrupción de su cónyuge. En este último caso, se impondrán al culpable de ocho a quince años de prisión.
 
 294.- Se impondrán de tres días a tres años de prisión al ascendiente que mate o lesione al corruptor de su hija o de su nieta que estén bajo de su potestad, si lo hiciere en el momento de hallarlos en el acto carnal o en uno próximo a él; pero si lo hiciere después, sufrirá de cuatro a seis años de prisión, no mediando alevosía, ventaja o traición, en cuyo caso se le impondrá la pena correspondiente.
 
-295.- Las prevenciones de los dos Artículos anteriores solamente se aplicarán cuando el acusado no haya procurado, facilitado o disimulado el adulterio de su esposa, o la corrupción de su hija o nieta, con el varón con quien las sorprenda, ni con otro. En caso contrario, quedarán sujetos los reos a las reglas comunes sobre homicidio o lesiones que correspondan.
+295.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 
 296.- Al que prestare auxilio o indujere a otro para que se suicide, se le aplicará prisión de uno a cinco años; si se lo prestare hasta el punto de ejecutar él mismo la muerte, la prisión será de cuatro a doce años. Si el occiso o suicida fuera menor de edad o padeciera alguna de las formas de enajenación mental, se aplicarán al homicida o instigador las penas señaladas al homicidio calificado o a las lesiones calificadas.
 
@@ -5059,19 +5081,23 @@ V.- Materiales electorales: los elementos físicos, tales como urnas, canceles o
 
 Violencia intrafamiliar.
 
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
-404.- Por violencia intrafamiliar se considera el uso de la fuerza física o moral, así como la omisión grave que de manera reiterada se ejerce en contra de un miembro de la familia, por otro integrante de la misma en contra de su integridad física, psíquica o ambas independientemente de que pueda producir o no otro delito. En su caso se aplicarán las reglas de la acumulación.
+404.- Por violencia intrafamiliar se considera el uso de la fuerza física o moral, así como la omisión grave en contra de un miembro de la familia por otro de la misma que atente contra su integridad física, psíquica o ambas, independientemente de que pueda o no producir otro delito; siempre y cuando el agresor y el agraviado cohabiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato. En su caso se aplicarán las reglas de la acumulación.
 
-Comete el delito de violencia intrafamiliar el cónyuge, concubina o concubino; pariente consanguíneo en línea recta, ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, que habite la misma casa de la víctima.
+Comete el delito de Violencia Intrafamiliar el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, así como aquellas personas que habiten en el mismo domicilio de la víctima.
 
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
-405.- A quien comete el delito de violencia intrafamiliar, se le impondrá de seis meses a tres años de prisión y en su caso, perderá los derechos hereditarios y de alimentos. Asimismo, se le sujetará a tratamiento psicológico especializado.
+405.- A quien comete el delito de violencia intrafamiliar se le impondrá de seis meses a cuatro años de prisión, restricción o pérdida de la patria potestad, y en su caso perderá los derechos hereditarios y de alimentos. Así mismo se le sujetará a tratamiento psicológico especializado.
 
 > <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 406.- Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz, en cuyo caso se perseguirá de oficio.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+En todos los casos previstos en los dos artículos precedentes, el Ministerio Público, exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma. En todos los casos, el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
 
 ARTICULOS TRANSITORIOS:
 
@@ -5093,17 +5119,29 @@ II.- Al que celebre con otro un contrato que prive a éste de la libertad o le i
 
 348.- Se impondrán de diez a treinta años de prisión y multa de mil a cinco mil pesos, cuando la detención arbitraria tenga el carácter de plagio o secuestro, en alguna de las formas siguientes:
 
-I.- Cuando se trate de obtener rescate, o de causar daños o perjuicios a la persona plagiada o a otra persona relacionada con éste;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
-II.- Cuando se haga uso de amenazas graves, de maltrato o de tormento;
+I.- Cuando se trate de obtener rescate;
 
-III.- Cuando la detención se haga en camino público o en paraje solitario;
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
-IV.- Cuando los plagiarios obren en grupo o banda;
+II.- Cuando se pretenda causar daño perjuicio a la persona secuestrada;
 
-V.- Cuando el robo de infante se cometa en un menor de doce años de edad, por quien sea extraño a su familia, y no ejerza la tutela sobre el menor. Cuando el delito lo comete un familiar del menor que no ejerza sobre él la patria potestad, ni la tutela, la pena será de seis a diez años de prisión;
+Se causa daño o perjuicio a la persona secuestrada, aun cuando se alegue intención sexual o de contraer matrimonio;
 
-VI.- Cuando se detenga en calidad de rehén a una persona y se le amenaza con privarla de la vida o causarle un daño, con el fin de presionar a la autoridad para que realice o deje de realizar un acto de cualquier naturaleza.
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+III.- Cuando se trate de causar molestias graves a personas distintas del secuestrado, pero relacionadas con éste;
+
+IV.- Cuando se haga uso de amenazas graves, de maltrato o de tormento;
+
+V.- Cuando la detención se haga en camino público o en paraje solitario;
+
+VI.- Cuando los plagiarios obren en grupo o banda;
+
+VII.- Cuando el robo de infante se cometa en un menor de doce años de edad, por quien sea extraño a su familia, y no ejerza la tutela sobre el menor. Cuando el delito lo comete un familiar del menor que no ejerza sobre él la patria potestad, ni la tutela, la pena será de seis a diez años de prisión;
+
+VIII.- Cuando se detenga en calidad de rehén a una persona y se le amenaza con privarla de la vida o causarle un daño, con el fin de presionar a la autoridad para que realice o deje de realizar un acto de cualquier naturaleza.
 
 Si el plagiario pone en libertad a la persona secuestrada, espontáneamente, antes de tres días y sin causar ningún perjuicio grave, sólo se aplicará la sanción correspondiente a la detención ilegal, de acuerdo con los dos Artículos anteriores. Si resultare perjuicio o daño grave se agregará la pena que corresponda al nuevo delito.
 
@@ -5276,6 +5314,12 @@ UNICO.- El Presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 23 DE SEPTIEMBRE DE 2000.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE SEPTIEMBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
 
 ###### Artículo 10.
 
