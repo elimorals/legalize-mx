@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-los-municipios-del-estado-de-baja-2949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1989-12-20"
+last_updated: "1990-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1990.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1985.
 
@@ -111,65 +111,69 @@ Son sujetos por deuda ajena y con responsabilidad substituta, los Servidores Pú
 
 BASE Y TASA DEL IMPUESTO.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 7o.
 
-El impuesto predial sobre la propiedad rústica se causará sobre el valor catastral de los predios rústicos conforme a las siguientes tasas:
+El Impuesto Predial sobre la Propiedad Rústica se causará sobre el valor catastral de los predios rústicos conforme a las siguientes tasas:
 
-a).- 8 al millar anual si están explotados por su dueño.
+a).- 10.04 al Millar Anual si están explotados por su dueño.
 
-b).- 15 al millar anual si no están explotados por su dueño.
+b).- 19.5 al Millar Anual si no están explotados por su dueño.
 
-En ningún caso el impuesto predial anual será inferior a un día salario mínimo.
+En ningún caso el Impuesto Predial Anual será inferior a un días (sic) de salario Mínimo.
 
 ###### ARTICULO 8o.
 
 El impuesto sobre la Propiedad Ejidal se ajustará a las disposiciones relativas de la Ley Federal de Reforma Agraria, sin que su monto pueda exceder el 5% de su producción anual.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 9o.
 
-El impuesto sobre las plantas de beneficio y establecimientos metalúrgicos de cualquier clase, se causarán sobre el valor de la finca a razón del 8 al millar.
+El Impuesto sobre las plantas de beneficio y establecimientos metalúrgicos de cualquier clase, se causará sobre el valor de la finca e instalaciones a razón de 12 al millar.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 10.
 
-El impuesto predial sobre la propiedad urbana se causará:
+El Impuesto Predial sobre la propiedad urbana se causará:
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1989)</small>
+a).- A razón de 6.5 al Millar Anual sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación; en este caso no se aplicará el segundo párrafo del inciso c) de este Artículo.
 
-a).- A razón de 5 al millar sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación; en este caso no se aplicará el segundo párrafo del inciso "C" de este artículo.
+b).- A razón de 13 al Millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
 
-b).- A razón de 10 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa-habitación del contribuyente.
+c).- A razón de 26 al Millar anual sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un 2.6 al Millar hasta en tanto no sea construida una edificación. La tasa no excederá de 52 al Millar.
 
-c).- A razón de 20 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un 2 al millar hasta en tanto no sea construida una edificación y que no exceda del 40 al millar.
+Se considerará lote baldío, aquél que teniendo construcciones, éstas representen menos del 50% del valor catastral del terreno.
 
-Se considerará lote baldío, aquel que teniendo construcciones, éstas representen menos del 50% del valor catastral del terreno.
+En ningún caso el Impuesto Predial Anual deberá ser inferior a un días (sic) de salario mínimo.
 
-En ningún caso el impuesto predial anual deberá ser inferior a un día salario mínimo.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 11.
 
-El impuesto predial se cubrirá en las oficinas Recaudadoras correspondientes:
+El Impuesto Predial se cubrirá en las Oficinas Recaudadoras correspondientes:
 
 I.- Sobre la propiedad urbana, rústica y las plantas de beneficio, establecimientos metalúrgicos, por bimestres adelantados en los primeros diez días de los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
-Si el impuesto anual equivale a un día salario mínimo, deberá cubrirse en una sola exhibición dentro del mes de enero del año correspondiente.
+Si el Impuesto Anual equivale a un día salario mínimo, deberá cubrirse en una sola exhibición dentro del mes de Enero del año correspondiente.
 
 II.- Sobre la propiedad ejidal, al recibir el pago de sus productos.
 
-III.- Solo en el caso de que un predio arrendado, prestado, desocupado, destinado a comercio, industria y otro uso similar, pase a ser habitado en su totalidad por su propietario, podrá cambiarse la tasa del impuesto a la que fija el Artículo 10, Fracción I, Inciso a).
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
-La nueva tasa surtirá efecto a partir del bimestre siguiente al de aquel en que el causante presente la solicitud por escrito.
+III.- Sólo en el caso de que un predio arrendado, prestado, desocupado, destinado a comercio, industria u otro uso similar, pase a ser habitado en su totalidad por su propietario, podrá cambiarse la tasa del Impuesto a la que fija el Artículo 10, Fracción I, Inciso a).
 
-IV.- Los causantes que paguen el impuesto predial por anualidades adelantadas dentro del mes de enero de cada ejercicio fiscal, tendrán un descuento del 10% y no causarán recargos por el primer bimestre.
+La nueva tasa surtirá efecto a partir del bimestre siguiente al de aquél en que el causante presente la solicitud por escrito.
 
-El pago por anualidad anticipada del Impuesto Predial no impide el cobro de diferencias que deba hacer la oficina recaudadora correspondiente, por cambio de las bases gravables o alteraciones de las cuotas del impuesto.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
+
+IV.- Los contribuyentes que paguen el Impuesto Predial del ejercicio, en una sola exhibición, dentro de los meses de Enero y Febrero de cada Ejercicio Fiscal, tendrán un descuento del 10% y en este caso no causarán recargos por el primer bimestre.
+
+El pago por anticipado del Impuesto Predial del ejercicio no impide el cobro de diferencias que deba hacer la oficina Recaudadora correspondiente, por cambio de las bases gravables o alteraciones de las cuotas del Impuesto.
 
 V.- La cuota del impuesto sobre el valor más alto entre el catastral, el de adquisición, el declarado por el causante y el de avalúo pericial, entrará en vigor a partir del bimestre siguiente al de aquel en que ocurra el hecho o circunstancia que de lugar a la práctica del avalúo conforme al Código Fiscal y Ley de Catastro; sin perjuicio de que si tal hecho o circunstancia ocurre en el caso de predios, construcciones, los llenos de las fincas rústicas y ejidales y los terrenos inexactamente clasificados por los que no se hubiese cubierto el impuesto, la dependencia correspondiente determinará el gravamen en cantidad líquida y lo haga efectivo respecto de los cinco años anteriores, conforme a las disposiciones legales vigentes de ese entonces.
 
@@ -201,23 +205,19 @@ Los causantes no quedarán liberados de la obligación de presentar las manifest
 
 IMPUESTO SOBRE ADQUISICION DE INMUEBLES.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 14.
 
-Están obligados al pago del impuesto sobre adquisición de inmuebles establecidos en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo, o en el suelo y las construcciones adheridas a él, ubicado en el territorio de los Municipios, así como los derechos relacionados con los mismos, a que este capítulo se refiere. El impuesto se calculará aplicando la tasa del 10% al valor del inmueble, después de reducirlo en cinco veces al salario mínimo general de la zona, elevado al año. En el caso de adquisición de casas habitación de interés social, cuando se trate de la primera operación, ya sean las construidas por instituciones oficiales, particulares o banca nacionalizada, siempre que su valor no exceda de los dos primeros cajones que determinen las instituciones bancarias. El impuesto se calculará aplicando la tasa del 10% al valor del inmueble después de reducirlo en 8 veces al salario mínimo general de la zona, elevada al año.
+Están obligados al pago del Impuesto sobre Adquisición de Inmuebles establecidos en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo y las construcciones adheridas a él, ubicado en el Territorio de los Municipios, así como los derechos relacionados con los mismos, a que este Capítulo se refiere. El Impuesto se calculará aplicando la tasa del 10% al valor del Inmueble, después de reducirlo en cinco veces el salario mínimo general de la zona, elevado al año.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+En el caso de adquisición de casa habitación de interés social, mediante otorgamiento de créditos de Instituciones Oficiales o de Crédito, el Impuesto se calculará aplicando la tasa del 10% al valor del inmueble después de reducirlo en veinte veces el salario mínimo general de la zona, elevado al año. Esta misma disposición se observará para gravar la adquisición de casa habitación de interés social, entre particulares. En ambos casos se estará a lo dispuesto por el último párrafo de éste mismo artículo.
 
-Cuando del inmueble forman parte departamentos habitacionales la reducción se hará por cada uno de ellos, lo dispuesto en este párrafo no es aplicable a hoteles.
+En el caso de adquisición por donación o sucesión entre cónyuges o parientes en línea directa ascendente o descendente, el Impuesto se calculará aplicando la tasa del 1% del valor del Inmueble, después de reducirlo en diez veces el salario mínimo general de la zona elevado al año. En el caso de donación, la regla anterior será aplicable a una sola operación dentro del término de un año.
 
-> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1989)</small>
+Al cederse los derechos hereditarios o enajenarse bienes de la sucesión, el Impuesto correspondiente a la adquisición por causa de muerte se calculará aplicando la tasa prevista en el primer párrafo de este Artículo, independientemente de que cause por el cesionario, por la sucesión o por el adquirente.
 
-En el caso de transmisión por causa de muerte entre parientes dentro del cuarto grado línea directa ascendente, descendente, el impuesto se calculará aplicando la tasa del 1% del valor del inmueble, después de reducirlo en 10 veces el salario mínimo general de la zona elevado al año, al cederse los derechos hereditarios o enajenarse bienes de la sucesión, el impuesto correspondiente a la adquisición por causa de muerte, se causará aplicando la tasa prevista en el primer párrafo de este artículo, independientemente de que se cause por el cesionario, por la sucesión o por el adquiriente.
-
-> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1989)</small>
-
-En el caso de la fracción XIII del Artículo 16, el impuesto se calculará aplicando la tasa del 5% del valor del inmueble después de reducirlo en cinco veces el salario mínimo general de la zona elevado al año.
+Se considera vivienda de interés social aquella que su costo de adquisición no rebase 7, 500 veces el salario mínimo general de la zona. Siempre y cuando el adquirente demuestre no tener en propiedad el o su cónyuge, otra propiedad.
 
 > <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
@@ -229,11 +229,13 @@ No se causará este impuesto en las adquisiciones de inmuebles del dominio públ
 
 Para los efectos de esta Ley, se entiende por adquisición la que se derive de:
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
-I.- Todo acto por el que se transmite una propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación de toda clase de asociaciones o sociedades, a excepción de los que se realicen al constituir o dividir la sociedad conyugal y al dividir la copropiedad.
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges.
 
-II.- La compra-venta en la que el vendedor se resarce la propiedad aún cuando la transferencia de ésta opere con posterioridad.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
+
+II.- La compraventa en la que el vendedor se reserve la propiedad aún cuando la transferencia de ésta opere con posterioridad.
 
 III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido.
 
@@ -245,11 +247,19 @@ VI.- La dación en pago y la liquidación, reducción de capital, pago en especi
 
 VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad así como la extensión de usufructo temporal.
 
-VIII.- La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción a éstos.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+VIII.- La cesión de derechos de heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles.
 
-IX.- Enajenación a través de fideicomiso, la aportación del inmueble en la que la fiduciaria adquiera el dominio o lo transfiera.
+Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuada después de la declaración de herederos o legatarios.
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
+
+IX.- La que se realice a través de fideicomiso, en los siguientes casos:
+
+a).- En el acto en el que el fideicomitente designa o se obligue a designar fideicomisario diverso a él y siempre que no tenga derecho a readquirir del fiduciario los bienes.
+
+b).- En el acto en que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiere reservado tal derecho.
 
 X.- La prescripción positiva.
 
@@ -261,25 +271,27 @@ XI.- La división de la copropiedad y la disolución de la sociedad conyugal, po
 
 XII.- La elaboración de contratos de arrendamiento financiero y la cesión de derechos de arrendamiento financiero.
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
-XIII.- La transmisión de derechos fideicomisarios, en fideicomisos, cuya propiedad de inmueble la conserva la fiduciaria.
+XIII.- La cesión de derechos que se tengan sobre los Bienes afectos al fideicomiso, en cualquiera de los siguientes momentos:
 
-En las permutas se considerará que se efectúan dos adquisiciones.
+a).- En el caso en que el fideicomisario designado ceda sus derechos o de instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos.
+
+b).- En el acto en el que el fideicomitente ceda sus derechos si entre éstos se incluye el de que los bienes se transmitan a su favor.
+
+En los casos de permuta, se considerará que se efectúa una adquisición, por cada uno de los inmuebles.
 
 ###### ARTICULO 17.
 
 El valor del inmueble que se considerará para los efectos del Artículo 14 de esta Ley, será el siguiente:
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
-I.- El valor más alto entre el estipulado en el contrato, el valor catastral o fiscal o el avalúo comercial pericial.
+I.- El valor más alto entre el estipulado en el contrato del valor catastral o fiscal o el avalúo comercial pericial, entendiéndose como avalúo comercial pericial, los dictámenes valuatorios practicados por peritos con autorización municipal. Los peritajes tendrán una vigencia no mayor de 120 días naturales, contados a partir de la fecha de su expedición.
 
-Entendiéndose como avalúo comercial pericial los dictámenes valuatorios practicados por peritos con autorización municipal. Los peritajes tendrán una vigencia no mayor de 90 días naturales, contados a partir de la fecha de su expedición.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
-
-II.- En los casos de remate, el valor más alto entre el fiscal y el del avalúo que sirva de base para la celebración del mismo.
+II.- En los casos de remate, el valor más alto entre el fiscal y el avalúo pericial que sirva de base para la celebración del mismo.
 
 III.- El valor del avalúo pericial cuando se trate de prescripción adquisitiva, debiendo tomarse en cuenta el valor del bien en la fecha en que la sentencia cause ejecutoria.
 
@@ -287,9 +299,15 @@ IV.- El que resulte del avalúo que se practique referido a la fecha de la cesi�
 
 V.- Si se trata de dación en pago, el valor del inmueble entregado de acuerdo con la Fracción I.
 
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
+
+VI.- El que las autoridades fiscales determinen en el ejercicio de sus facultades de comprobación.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 18.
 
-El pago del impuesto deberá hacerse dentro del mes siguiente a aquél en que se realice cualquiera de los supuestos que a continuación se señalan:
+El pago del Impuesto deberá hacerse dentro de los treinta días siguientes a aquél en que se realice la operación, cualquiera que fuere su denominación y que se comprenda dentro de lo previsto por el Artículo 16 de esta Ley y cuando se realice cualquiera de los supuestos que a continuación se señalan:
 
 El contribuyente podrá pagar el impuesto por anticipado.
 
@@ -299,7 +317,9 @@ I.- Cuando se constituya o adquiera el usufructo o la nuda propiedad, en el caso
 
 II.- Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se realice la escritura pública en la que se transmita a la fiduciaria la propiedad del inmueble.
 
-III.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
+
+III.- Al protocolizarse el reconocimiento de la prescripción positiva.
 
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1989)</small>
 
@@ -311,17 +331,31 @@ Al cederse los derechos hereditarios o enajenarse bienes de la sucesión, el imp
 
 V.- En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro Público, para poder surtir efecto, ante terceros en los términos del Derecho Común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las Leyes.
 
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
+
+VI.- En los actos notariales se considerará la fecha de firma del instrumento notarial correspondiente, la que no podrá exceder de treinta días hábiles posteriores a la fecha de la escritura.
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
+
+VII.- Cuando las autoridades fiscales, en el ejercicio de sus facultades de comprobación determinen la realización del acto de adquisición del inmueble.
+
+El contribuyente podrá pagar el Impuesto por anticipado.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 19.
 
-En las adquisiciones que se hagan constar en escritura pública, los Notarios, Jueces, Corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, lo harán constar en la escritura y lo enterarán mediante declaración en la oficina autorizada que corresponda a su domicilio. En los demás casos los contribuyentes pagarán el impuesto mediante declaración ante la oficina autorizada que corresponda a su domicilio fiscal.
+En las adquisiciones que se hagan constar en escrituras públicas, los notarios, jueces, corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el Impuesto bajo su responsabilidad, lo harán constar en la escritura y lo enterarán mediante declaración en la oficina autorizada que corresponda a su domicilio, en los demás casos los contribuyentes pagarán el Impuesto mediante declaración ante la oficina autorizada que corresponda a su domicilio fiscal.
 
-Se presentará declaración por todas las adquisiciones, aún cuando no haya impuesto a enterar.
+Se presentará declaración por todas las adquisiciones, siendo obligación del Notario anexar constancias de no adeudos fiscales, a la fecha de celebración del acto, avalúo pericial vigente y copia del instrumento notarial, señalar en forma precisa domicilio para oír y recibir notificaciones de él o de los adquirientes.
 
-Los fedatarios no estarán obligados a enterar el impuesto cuando consignen en Escrituras Públicas operaciones por las que ya se hubiera pagado el impuesto y acompañen a su declaración copia de aquella con la que se efectuó dicho pago.
+Los fedatarios no estarán obligados a enterar el Impuesto cuando consignen en escrituras públicas operaciones por la que ya se hubiera pagado el Impuesto y acompañen a su declaración copia de aquélla con la que se efectuó dicho pago.
 
-El enajenante responde solidariamente del impuesto que deba pagar el adquiriente.
+El enajenante responde solidariamente del Impuesto que deba pagar el adquirente.
 
-Cuando por el avalúo practicado, ordenado o tomado en consideración por la autoridad municipal, resulte liquidación de diferencias de impuesto, los fedatarios no serán responsables solidarios por las mismas.
+Cuando por el avalúo practicado, ordenado o tomado en consideración por la autoridad municipal, resulte liquidación de diferencias de Impuesto, los fedatarios no serán responsables solidarios por los mismos.
+
+Las autoridades fiscales se reservan el derecho de ejercer sus facultades de comprobación sobre los avalúos periciales, aún cuando hayan sido considerados con anterioridad por la autoridad municipal.
 
 ###### ARTICULO 20.
 
@@ -375,15 +409,17 @@ I.- Si puede determinarse previamente el monto del impuesto por adelantado, a m�
 
 II.- Si no puede determinarse previamente el monto del impuesto el representante de la autoridad, al finalizar el evento, formulará por triplicado la liquidación del impuesto para que sea pagado el día hábil siguiente o de inmediato al interventor; un ejemplar de la liquidación se entregará al empresario y los otros dos a la Tesorería Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 24.
 
-Los empresarios a que se refiere el Artículo 22 tendrán las siguientes obligaciones:
+Los empresarios a que se refiere el Artículo 22, tendrán las siguientes obligaciones:
 
 I.- Obtener la licencia respectiva antes de anunciar una función o serie de éstas.
 
-II.- Anotar en la solicitud de licencia la naturaleza del espectáculo, fecha, hora y lugar en que haya de efectuarse su periodicidad, la clasificación de asientos, el máximo de espectadores que deba contener el local y acompañar tres ejemplares del programa respectivo.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
+
+II.- Anotar en la solicitud de licencia la naturaleza del espectáculo, fecha, hora y lugar en que haya de efectuarse, su periodicidad, la clasificación y cantidad de asientos, el máximo de espectadores que deba contener el local, y acompañar tres ejemplares del programa respectivo, así como la totalidad de los boletos emitidos para el evento, debidamente foliados para su aprobación y resello por parte de la Tesorería General Municipal.
 
 III.- Permitir que la autoridad o su representante vigile el cumplimiento de los preceptos de esta Ley y demás disposiciones en vigor.
 
@@ -503,11 +539,13 @@ III.- Banqueta: Acera construida de mampostería o concreto o de una combinació
 
 IMPUESTO ADICIONAL.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 38.
 
-Sobre el monto de los impuestos y derechos que establece esta Ley, deberá cubrirse el 30% adicional que será pagado junto con el impuesto o derecho principal. Este ingreso adicional se aplicará preferentemente a la ejecución de obras y servicios públicos.
+Sobre el monto de los Impuestos y Derechos que establece esta Ley, excepto Impuesto Predial y sobre adquisición de inmuebles, deberá cubrirse el 30% adicional que será pagado junto con el Impuesto o Derecho principal.
+
+Este ingreso adicional se aplicará preferentemente a la ejecución de obras y servicios públicos.
 
 ## TITULO SEGUNDO
 
@@ -521,125 +559,87 @@ REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO.
 
 REGISTRO PUBLICO DE LA PROPIEDAD.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 39.
 
-Los servicios que preste el Registro Público de la Propiedad causarán el pago de derechos, conforme a la siguiente
+Los servicios que preste el Registro Público de la Propiedad causarán el pago de Derechos, conforme a la siguiente
 
 T A R I F A :
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+I.- El examen de todo documento público o privado que se presente para su inscripción 3 Días salario mínimo.
 
-I.- El examen de todo documento público o privado que se presente para su inscripción 1 día salario mínimo.
+II.- Por inscripción o registro de documentos públicos o privados, de resoluciones judiciales administrativas o de cualquier clase de Título por virtud de los cuales se adquiera, transmita, modifique o se extinga el dominio o la posesión de bienes inmuebles, además de la cuota fija las cuotas acumulativas correspondientes a su valor:
 
-II.- Por inscripción o registro de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier clase de títulos por virtud de los cuales se adquiera, transmita, modifique o se extinga el dominio o la posesión de bienes inmuebles, además de la cuota fija, las cuotas acumulativas correspondientes a su valor:
+a).- Cuota fija para toda clase de inscripción, inclusive las de valor determinado 5 Días salario mínimo.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+b).- Por el valor de la operación 2.5 al Millar.
 
-a).- Cuota fija para toda clase de inscripciones, inclusive las de valor determinado 2 días salario mínimo.
+III.- Por la inscripción de la escritura constitutiva o de los aumentos del capital social de las sociedades y asociaciones civiles, sobre el importe del capital social o de los aumentos del mismo, en los términos de la Fracción anterior.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+Cuando no tengan capital establecido o se trate de reformas al Acta Constitutiva 15 Días salario mínimo.
 
-b).- Por el valor de la operación 10 al millar.
+IV.- Por la inscripción de gravámenes sobre bienes inmuebles:
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+a).- Por contrato, resolución judicial, por disposición testamentaria, la de los Títulos por virtud de los cuales se adquieran, trasmitan, modifiquen o extingan derechos reales sobre inmuebles, distintos de dominio; de los que limiten el dominio del vendedor, a las de embargo, cédulas hipotecarias, servidumbres y fianzas. 10 días salario mínimo por inmueble.
 
-III.- Por la inscripción de la escritura constitutiva o de los aumentos del capital social de sociedades y asociaciones civiles sobre el importe del capital social o de los aumentos del mismo, en los términos de la fracción anterior.
+V.- (DEROGADA, B.O. 20 DE DICIEMBRE DE 1990)
 
-Cuando no tengan capital establecido o se trate de reformas al acta constitutiva 5 días salario mínimo.
+VI.- Inscripciones de poderes, substitución o revocación de los mismos en forma total o parcial por cada poderdante o apoderado 5 Días salario mínimo.
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+VII.- La inscripción de créditos hipotacarios (sic), refaccionarios o de habilitación o avío 1.25 al Millar.
 
-IV.- Por la inscripción de gravámenes sobre bienes inmuebles: por contrato, resolución judicial, por disposición testamentaria, la de los títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan derechos reales sobre inmuebles, distintos de dominio, de los que limiten el dominio del vendedor, a las de embargo, cédulas hipotecarias, servidumbres y fianzas, todas estas inscripciones se cotizarán conforme a la fracción II de este Artículo.
+En los casos a que se refiere esta Fracción, las cancelaciones causarán pago de Derechos.
 
-V.- La inscripción de títulos de propiedad y demás escrituras o documentos complementarios de bienes o derechos que modifiquen, aclaren o disminuyan el capital o precios estipulados y sean consecuencia legal de contratos que ya causaron derechos o registro, cuando las otorguen las mismas partes que figuren en la primera escritura, sin aumentar el capital o precios ni transferir derechos, sólo causará la cuota fija de la Fracción II de este Artículo.
+Por cada cancelación 3 Días salario mínimo.
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+VIII.- La inscripción de las demandas a que se refiere el Artículo 63 del Reglamento del Registro Público de la propiedad. 10 Días salario mínimo.
 
-VI.- Inscripciones de poderes, substitución o revocación de los mismos en forma total o parcial por cada poderdante o apoderado 1 día salario mínimo.
+IX.- Las inscripciones de la constitución del patrimonio de familia y las informaciones ad-perpetuam conforme a la Fracción II del presente Artículo.
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+X.- La inscripción de testamentos, declaraciones de herederos sentencias, declaraciones de concurso 5 Días salario mínimo.
 
-VII.- La inscripción de créditos hipotecarios, refaccionarios o de habilitación o avío 5 al millar.
-
-En los casos a que se refiere esta Fracción, las cancelaciones causarán pago de derechos.
-
-Por cada cancelación 1 día salario mínimo.
-
-VIII.- La inscripción de las demandas a que se refiere el Artículo 63 del Reglamento del Registro Público de la Propiedad, cubrirá las cuotas conforme a la Fracción II del presente Artículo.
-
-IX.- Las inscripciones de la constitución del patrimonio de familia y las informaciones adperpetuam (sic) conforme a la Fracción II del presente Artículo.
-
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
-
-X.- La inscripción de testamentos, declaraciones de herederos, sentencias, declaraciones de concurso 2 días salario mínimo.
-
-XI.- Si se trata de bienes muebles identificables por marcas y números, la inscripción de la condición resolutoria en los casos de venta, de pacto de reserva de dominio de la propiedad del bien mueble y constitución de prenda en general, el 50% de la cuota que señala la Fracción II.
+XI.- Si se trata de bienes muebles identificables por marcas o números, la inscripción de la condición resolutoria en los casos de venta, de pacto de reserva de dominio de la propiedad del bien mueble y constitución de prenda en general, el 50% de la cuota que señala la Fracción II.
 
 XII.- El depósito de testamentos ológrafos:
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+a).- Si se hace en las oficinas del Registro 5 Días salario mínimo.
 
-a).- Si se hace en las oficinas del Registro 2 días salario mínimo.
+b).- Si se hace fuera de las oficinas del Registro en horas ordinarias 8 Días salario mínimo.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+c).- Si se hace fuera de las oficinas del Registro en horas extraordinarias 10 Días salario mínimo.
 
-b).- Si se hace fuera de las oficinas del Registro en las horas ordinarias 3 días salario mínimo.
+XIII.- Por depósito de cualquier otro documento 5 Días salario mínimo.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+XIV.- Las inscripciones de fraccionamientos de terrenos, debidamente autorizados, por cada lote el 50% de las cuotas que señala la Fracción II del presente Artículo.
 
-c).- Si se hace fuera de las oficinas del Registro en horas extraordinarias 5 días salario mínimo.
-
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
-
-XIII.- Por depósito de cualquier otro documento 2 días salario mínimo.
-
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
-
-XIV.- Las inscripciones de fraccionamientos de terrenos, debidamente autorizados, por cada lote, el 50% de las cuotas que señala la Fracción II del presente Artículo.
-
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
-
-XV.- Ratificación de documentos privados ante el registrador en el caso de la Fracción III del Artículo 3011 del Código Civil vigente y constancia del mismo 3 días salario mínimo.
+XV.- Ratificación de documentos privados ante el Registrador en el caso de la Fracción III del Artículo 3011 del Código Civil vigente y constancia del mismo 10 Días salario mínimo.
 
 XVI.- Para la expedición de certificados y constancias por cada persona y/o predio:
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+a).- Cuota fija por servicio hasta 10 años 5 Días salario mínimo.
 
-a).- Cuota fija por servicio hasta 10 años 1 día salario mínimo.
-
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
-
-b).- Cuota fija por servicio de más de diez años 2 días salario mínimo.
-
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+b).- Cuota fija por servicio de más de 10 años 5 Días salario mínimo.
 
 c).- Por cada hoja 25% salario mínimo diario.
 
 XVII.- Si las certificaciones o constancias son solicitadas con carácter de urgente, se causarán el doble de las cuotas aplicables, conforme a la Fracción anterior.
 
-XVIII.- Por los informes que rinda por escrito a solicitud de las autoridades, a petición de parte interesada, que esté en posibilidad de obtenerlo directamente, las cuotas que correspondan conforme a las dos fracciones anteriores.
+XVIII.- Por los informes que rinda por escrito a solicitud de las autoridades, a petición de parte interesada, que este en posibilidades de obtenerlo directamente, las cuotas que correspondan conforme a las dos Fracciones anteriores.
 
-XIX.- La cancelación de registro de sociedades civiles por extinción de las mismas, el 20% de las cuotas por su valor que señala la Fracción II del presente Artículo.
+XIX.- La cancelación de Registro de Sociedades Civiles por extinción de las mismas 5 Días salario mínimo.
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+XX.- La cancelación de las inscripciones en los casos a que se refieren las Fracciones IV y VII, causarán el 20% de las cuotas por su valor que señala la Fracción II, sin que pueda ser menos de 2 Días salario mínimo.
 
-XX.- La cancelación de las inscripciones en los casos a que se refieren las Fracciones IV y VIII, causarán el 20% de las cuotas por su valor que señala la Fracción II, sin que pueda ser menos de 1 día salario mínimo.
+XXI.- La cancelación de las inscripciones en los casos a que se refiere la Fracción IX causarán el 10% de las cuotas por valor que establece la Fracción II, sin que pueda ser menos de 3 Días salario mínimo.
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+XXII.- Inscripción o registro de los contratos sobre transmisión de derechos de fideicomisario a que se refiere la Fracción XIII del Artículo 16 de esta Ley:
 
-XXI.- La cancelación de las inscripciones en los casos a que se refiere la Fracción IX causarán el 10% de las cuotas por valor que establece la Fracción II, sin que pueda ser menos de 1 día salario mínimo.
+a).- Cuota fija para toda clase de inscripción 5 Días salario mínimo.
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+b).- Por el valor de la operación. 2.5 al Millar.
 
-XXII.- Anotaciones marginales relativas a inscripciones principales 1 día salario mínimo.
-
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
-
-XXIII.- Inscripción o registro de los contratos sobre transmisión de derechos de fideicomisario a que se refiere la Fracción XIII, del Artículo 16 de esta Ley.
-
-a).- Cuota fija para toda clase de inscripción 2 días salario mínimo.
-
-b).- Por el valor de la operación 5 al millar.
+En ningún caso los Derechos a que se refiere este Artículo, podrán ser mayores a treinta veces el salario mínimo general elevado al año, del área geográfica del domicilio fiscal del contribuyente.
 
 ###### ARTICULO 40.
 
@@ -683,117 +683,77 @@ c).- Por los informes solicitados para asuntos penales o para juicios de amparo.
 
 REGISTRO PUBLICO DE COMERCIO.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 41.
 
 Los servicios que preste el Registro Público del Comercio, causarán derechos de acuerdo con la siguiente
 
 T A R I F A :
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
-
-I.- Examen de todo documento público o privado de que se presente al Registro para su inscripción 1 día salario mínimo.
+I.- Examen de todo documento público o privado que se presente al Registro para su inscripción 3 Días salario mínimo.
 
 II.- Inscripción de matrícula:
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+a).- Por cada comerciante individual 3 Días salario mínimo.
 
-a).- Por cada comerciante individual 25% salario mínimo diario.
+b).- Por cada sociedad mercantil 3 Días salario mínimo.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+III.- Inscripción de la escritura constitutiva de sociedades mercantiles en las relativas a aumentos de su capital social, se cobrará sobre el monto del capital social o de sus aumentos el 100% de las cuotas que correspondan conforme a la Fracción II del Artículo 39.
 
-b).- Por cada sociedad mercantil 50% salario mínimo diario.
+IV.- Inscripción de las modificaciones a las escrituras constitutivas de sociedades mercantiles que no se refieran a aumentos de capital social 10 Días salario mínimo.
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+V.- Inscripción de Actas de asambleas de socios o de juntas de administradores 10 Días salario mínimo.
 
-III.- Inscripción de la escritura constitutiva de sociedades mercantiles o en las relativas a aumentos de su capital social, se cobrará sobre el monto del capital social o de sus aumentos el 100% de las cuotas que correspondan conforme a la Fracción II del Artículo 39.
+VI.- Depósito del programa a que se refiere el Artículo 92 de la Ley General de Sociedades Mercantiles 10 Días salario mínimo.
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+VII.- Inscripción del Acta de emisión de bonos y obligaciones de sociedades anónimas el 100% de las cuotas que correspondan, conforme a la Fracción II del Artículo 39.
 
-IV.- Inscripción de las modificaciones a las escrituras constitutivas de sociedades mercantiles, que no se refieran a aumentos del capital social 5 días salario mínimo.
+VIII.- Inscripción de la disolución de sociedades mercantiles 10 Días salario mínimo.
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+IX.- Inscripción de la liquidación de sociedades mercantiles 10 Días salario mínimo.
 
-V.- Inscripción de actas de asambleas de socios o de juntas de administradores 5 días salario mínimo.
+X.- Inscripción de la disolución y liquidación de sociedades mercantiles cuando se lleven a efecto en un solo acto 15 Días salario mínimo.
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+XI.- Cancelación de la inscripción del contrato de sociedades 10 Días salario mínimo.
 
-VI.- Depósito del programa a que se refiere el Artículo 92 de la Ley General de Sociedades Mercantiles 5 días salario mínimo.
+XII.- Inscripción de poderes, substitución y revocación de los mismos en forma total o parcial, por cada poderdante y/o apoderado 5 Días salario mínimo.
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
-
-VII.- Inscripción del acta de emisión de bonos y obligaciones de sociedades anónimas el 100% de las cuotas que correspondan, conforme a la Fracción II del Artículo 39.
-
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
-
-VIII.- Inscripción de la disolución de sociedades Mercantiles 5 días salario mínimo.
-
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
-
-IX.- Inscripciones de la liquidación de Sociedades Mercantiles 5 días salario mínimo.
-
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
-
-X.- Inscripción de la disolución y liquidación de Sociedades Mercantiles cuando se lleven a efecto en un solo acto 5 días salario mínimo.
-
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
-
-XI.- Cancelación de la inscripción del contrato de Sociedades 5 días salario mínimo.
-
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
-
-XII.- Inscripción de poderes, sustitución y revocación de los mismos en forma total o parcial, por cada poderdante y/o Apoderado 1 día salario mínimo.
-
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
-
-XIII.- Inscripciones relativas a habilitación de edad, licencia o emancipación para ejercer el comercio, licencia marital o el requisito que en derecho necesita la mujer para los mismos fines, la revocación de unos y otros y las escrituras a que se refieren las Fracciones X y XI del Artículo 21 del Código de Comercio 1 día salario mínimo.
+XIII.- Inscripciones relativas a habilitación de edad, licencia o emancipación para ejercer el comercio, licencia marital o el requisito que en derecho necesita la mujer para los mismos fines, la revocación de unos y otros y las escrituras a que se refieren las Fracciones X y XI del Artículo 21 del Código de Comercio 3 Días salario mínimo.
 
 XIV.- Inscripción de contratos mercantiles de cualquier clase, enumerados en el Artículo 75 del Código de Comercio, sobre el valor:
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+a).- Cuota fija para toda clase de inscripciones, inclusive las de valor determinado 5 Días salario mínimo.
 
-a).- Cuota fija para toda clase de inscripciones, inclusive las de valor determinado 1 día salario mínimo.
+b).- Por el valor de la operación 2.5 al millar.
 
-b).- Por el valor de la operación, 5 al millar.
+XV.- Inscripción de contratos de corresponsalía de Instituciones de créditos:
 
-XV.- Inscripción de contratos de corresponsalía de instituciones de créditos:
+a).- Por inscripción 15 Días salario mínimo.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+b).- Por cancelación 10 Días salario mínimo.
 
-a).- Por inscripción 1 día salario mínimo.
+XVI.- Inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío 1.25 al Millar sobre su valor.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+Su cancelación 3 Días salario mínimo.
 
-b).- Por cancelación 1 día salario mínimo.
+XVII.- Inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial 10 Días salario mínimo.
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+XVIII.- Anotaciones marginales relativas a inscripciones principales 1 Días salario mínimo.
 
-XVI.- Inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío 5 al millar sobre su valor.
+XIX.- Depósito y guarda de cualquier documento 1 Días salario mínimo.
 
-Su cancelación 1 día salario mínimo.
+XX.- Ratificaciones de documentos y firmas ante el Registrador 5 Días salario mínimo.
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+XXI.- Búsqueda de datos y revisión de libros para informes y certificados 3 Días salario mínimo.
 
-XVII.- Inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial 1 día salario mínimo.
+XXII.- Expedición de certificados relativos a constancia de registro.
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+a).- Por el documento 5 Días salario mínimo.
 
-XVIII.- Anotaciones marginales relativas a inscripciones principales 50% salario mínimo diario.
+b).- Por cada hoja adicional 1 Días salario mínimo.
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
-
-XIX.- Depósito y guarda de cualquier documento 50% salario mínimo diario.
-
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
-
-XX.- Ratificaciones de documentos y firmas ante el Registrador 50% salario mínimo diario.
-
-> <small>(REFORMADA B.O. 1 DE JULIO DE 1987)</small>
-
-XXI.- Búsqueda de datos y revisión de libros para informes y certificados 1 día salario mínimo.
-
-> <small>(REFORMADA B.O. 1 DE JULIO DE 1987)</small>
-
-XXII.- Expedición de certificados relativos a constancias de Registro, por cada hoja 25% salario mínimo diario.
+En ningún caso los derechos a que se refiere este Artículo, podrán ser mayores de treinta veces el salario mínimo general elevado al año, del área geográfica del domicilio fiscal del contribuyente.
 
 ###### ARTICULO 42.
 
@@ -817,21 +777,29 @@ VII.- Se exceptúa del pago de derechos de inscripción en el Registro Público 
 
 SERVICIOS CATASTRALES.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 43.
 
-Los servicios prestados por las oficinas catastrales, causarán un derecho que se pagará previamente a su expedición conforme a las cuotas de la siguiente
-
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+Los servicios prestados por las oficinas catastrales causarán un derecho que se pagará previamente a su expedición conforme a las cuotas de la siguiente:
 
 T A R I F A :
 
-I.- Por cada copia de planos 2 días salario mínimo.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
+
+I.- Por cada copia de planos 3 días salario mínimo.
+
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
 II.- Avalúos periciales por cada predio sobre su valor. Sin que pueda ser inferior a un día salario mínimo 0.5 al millar.
 
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
 III.- Certificados, por cada hoja o fracción 25% salario mínimo diario.
 
-IV.- Otorgamiento de claves catastrales por cada una 50% día salario mínimo.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
+
+IV.- Otorgamiento de claves catastrales, por cada una 1 Días salario mínimo.
 
 V.- Por búsqueda de datos para proporcionar información económica y/o certificado por predio día salario mínimo.
 
@@ -1657,7 +1625,7 @@ El Ayuntamiento solo concederá licencias para la exhumación y traslado de cad�
 
 SERVICIO DE RASTRO.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 72.
 
@@ -1665,27 +1633,25 @@ Los derechos relativos al uso de maquinaria, matanza, inspección sanitaria, tra
 
 T A R I F A :
 
-I.- Ganado vacuno y equino, por cada uno 3 días salario mínimo.
+I.- Ganado vacuno y equino, por cada uno 3 Días salario mínimo.
 
-II.- Ganado porcino, por cada uno 2 días salario mínimo.
+II.- Ganado porcino, por cada uno 2 Días salario mínimo.
 
-III.- Ganado caprino y lanar, por cada uno 1.5 días salario mínimo.
+III.- Ganado caprino y lanar, por cada uno 1.5 Días salario mínimo.
 
-IV.- Aves y otros 8% día salario mínimo.
+IV.- Aves y otros 8% salario mínimo diario.
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
-
-V.- Por uso de frigorífico por canal, diario 50% día salario mínimo a partir del segundo día.
+V.- Por uso frigorífico por canal, Diariamente 50% Día de salario mínimo a partir del segundo día.
 
 Cuando no exista rastro, se pagará por cada animal 50% salario mínimo diario.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 73.
 
-El ganado y otros animales que sean introducidos al rastro para su sacrificio, deberán ser inspeccionados por la autoridad sanitaria, la que deberá sellar las carnes antes de que salgan del rastro.
+El Ganado y otros animales que sean introducidos al Rastro para su sacrificio, deberán ser inspeccionados por la autoridad sanitaria, la que deberá sellar las carnes antes de que salgan del Rastro.
 
-Por cada animal sacrificado clandestinamente se pagará una sanción equivalente a 50 veces los derechos establecidos en este capítulo.
+Por cada animal sacrificado clandestinamente se pagará una sanción equivalente a 50 veces los derechos establecidos en este Capítulo.
 
 ### CAPITULO DECIMO
 
@@ -1881,7 +1847,7 @@ El que done, ceda, traspase, enajene o adquiera predios, en tanto no se otorgue 
 
 ###### ARTICULO 92.
 
-Por la venta de papel para copias de actas de Registro Civil, se cobrará una cuota de $ 200.00.
+Por la venta de papel para copias de Actas del Registro Civil, se cobrará una suota (sic) de $ 1,000.00.
 
 ###### ARTICULO 93.
 
@@ -1943,35 +1909,33 @@ ALMACENAJE DE VEHICULOS EN CORRALONES DE DEPOSITO.
 
 ###### ARTICULO 97.
 
-Por la ocupación de la vía pública o de otros bienes de uso común, será pagada una renta de acuerdo a la siguiente
+Por la ocupación de la Vía Pública o de otros bienes de uso común, será pagada una renta de acuerdo a la siguiente:
 
 T A R I F A :
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
-I.- Automóviles de sitios o táxis por metro lineal anualmente 1 día salario mínimo.
+I.- Automóviles de sitios o taxis por metro lineal, anualmente 1 Día salario mínimo.
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
-II.- Estacionamiento para particulares que vivan frente al estacionamiento solicitado, por metro lineal, anualmente 50% día salario mínimo.
+II.- Estacionamiento para particulares que vivan frente al estacionamiento solicitado, por metro lineal, anualmente 50% salario mínimo diario.
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
-III.- Estacionamiento exclusivo para uso comercial anual por metro lineal 3 días salario mínimo general.
+III.- Estacionamiento exclusivo para uso comercial anual, por metro lineal 3 Días salario mínimo general.
 
-Para sitios de taxis 1 día salario mínimo general.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+IV.- Por estacionarse en las calles dotadas de estacionómetros de las 8:00 a las 20:00 horas diariamente, a excepción de los domingos y días feriados o festivos, por cada hora $ 300.00
 
-IV.- Por estacionarse en las calles dotadas de estacionómetros de las 8:00 a las 20:00 horas, diariamente, a excepción de los domingos, días feriados o festivos, por cada hora $ 300.00.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+V.- Estacionamiento o uso de la Vía Pública para carga y descarga en establecimientos comerciales, diariamente 30% salario mínimo diario.
 
-V.- Estacionamiento o uso de la vía pública para carga y descarga en establecimientos comerciales, diariamente 30% día salario mínimo.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
-
-VI.- Vehículos automotores con amplificador de sonido, diariamente 1 día salario mínimo.
+VI.- Vehículos automotores con amplificador de sonido, diariamente 1 Día salario mínimo.
 
 > <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
@@ -1981,7 +1945,7 @@ VII.- Cualquier otro estacionamiento o uso de la vía pública de carácter come
 
 VIII.- Cuota anual por vehículo para estacionarse en lugares de estacionómetros, sin el pago estipulado $ 50,000.00.
 
-Estos ingresos se controlarán por medio de calcomanías adheridas al parabrisa (sic) del vehículo.
+Estos ingresos se controlarán por medio de calcomanías adheridas al parabrisa del vehículo.
 
 > <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
@@ -1994,6 +1958,8 @@ Los pagos anuales se harán por adelantado en el mes de Enero.
 ### CAPITULO CUARTO
 
 PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 98.
 
@@ -2014,6 +1980,8 @@ c).- Servicio de almacenamiento por metro cuadrado 10% día salario mínimo.
 ### CAPITULO QUINTO
 
 OCUPACION DE LA VIA PUBLICA.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 99.
 
@@ -2266,3 +2234,19 @@ B.O. 20 DE DICIEMBRE DE 1989.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día Primero de Enero de 1990.
+
+B.O. 20 DE DICIEMBRE DE 1990.
+
+###### ARTICULO PRIMERO.
+
+Durante los meses de Enero a Junio de 1991, se aplicará la tasa del 8%, en lugar de la tasa establecida en el Artículo 14 de la Ley de Hacienda para los Municipios del Estado de Baja California Sur, en su capítulo segundo, relativo al Impuesto sobre Adquisición de Inmuebles.
+
+Tratándose de casa habitación de interés social, la tasa aplicable de Enero a Junio de 1991, será del 6%.
+
+###### ARTICULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto, surtirá efectos a partir del día primero de Enero de 1991.
