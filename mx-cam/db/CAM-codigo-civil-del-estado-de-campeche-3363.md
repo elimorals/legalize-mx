@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "1962-12-29"
+last_updated: "1970-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1962.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 1970.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -579,15 +579,15 @@ En los casos de emancipación por efecto del matrimonio, no se formará acta sep
 
 ###### Art. 105.
 
-Las actas de emancipación por decreto judicial se formarán insertando a la letra la resolución del juez que autorizó la emancipación. Se anotará el acta de nacimiento, expresando al margen de ella haber quedado emancipado el menor, citando la fecha de la emancipación y número y foja del acta respectiva.
+(DEROGADO, P.O. 25 DE ABRIL DE 1970)
 
 ###### Art. 106.
 
-Si en la oficina en que se registró la emancipación no existe el acta de nacimiento del emancipado, el Oficial del Registro Civil remitirá copia del acta de emancipación al del lugar en que se registró el nacimiento, para que haga la anotación correspondiente.
+(DEROGADO, P.O. 25 DE ABRIL DE 1970)
 
 ###### Art. 107.
 
-La omisión del registro de emancipación no quita a ésta sus efectos legales, pero sujeta al responsable a la pena señalada en el artículo 92.
+(DEROGADO, P.O. 25 DE ABRIL DE 1970)
 
 ### CAPITULO VII.
 
@@ -915,9 +915,11 @@ Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y l
 
 El Gobernador del Estado puede conceder dispensas de edad por causas graves y justificadas.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 1970)</small>
+
 ###### Art. 160.
 
-El hijo o la hija que no hayan cumplido veintiún años, no pueden contraer matrimonio sin consentimiento de su padre y de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
+El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre y de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
 
 ###### Art. 161.
 
@@ -2009,7 +2011,7 @@ No puede haber sobre la filiación, ni transacción ni compromiso en árbitros.
 
 ###### Art. 354.
 
-Puede haber transacción o arbitramento sobre los derechos pecuniarios que de la filiación legalmente adquirida pudieran deducirse, sin que las concesiones que se hagan al que se dice hijo, importen la adquisición de estado de hijo de matrimonio.
+Puede haber transación (sic) o arbitramento sobre los derechos pecuniarios que de la filiación legalmente adquirida pudieran deducirse, sin que las concesiones que se hagan al que se dice hijo, importen la adquisición de estado de hijo de matrimonio.
 
 ### CAPITULO V.
 
@@ -2079,9 +2081,13 @@ Las acciones que competen al hijo conforme a las disposiciones de este Capítulo
 
 Los demás herederos del hijo podrán intentar la acción de que trata el artículo anterior:
 
-I.- Si el hijo ha muerto antes de cumplir veinticinco años;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 1970)</small>
 
-II.- Si el hijo cayó en demencia antes de cumplir los veinticinco años y murió después en el mismo estado.
+I.- Si el hijo ha muerto antes de cumplir veintidós años;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 1970)</small>
+
+II.- Si el hijo cayó en demencia antes de cumplir los veintidós años y murió después en el mismo estado.
 
 ###### Art. 367.
 
@@ -2557,7 +2563,9 @@ La patria potestad se acaba:
 
 I.- Con la muerte del que la ejerza, si no hay otra persona en quien recaiga;
 
-II.- Con la emancipación;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 1970)</small>
+
+II.- Con la emancipación, derivada del matrimonio;
 
 III.- Por la mayor edad del hijo.
 
@@ -2627,9 +2635,11 @@ III.- Los sordomudos que no sepan leer y escribir;
 
 IV.- Los ebrios consuetudinarios y los que habitualmente hacen uso inmoderado de drogas enervantes.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 1970)</small>
+
 ###### Art. 465.
 
-Los menores de edad emancipados tienen incapacidad legal para los actos que se mencionan en el artículo relativo del Capítulo Décimo de este Libro.
+Los menores de edad emancipados por razón del matrimonio, tienen incapacidad legal para los actos que se mencionan en el artículo relativo del Capítulo I del Título Décimo de este Libro.
 
 ###### Art. 466.
 
@@ -3445,6 +3455,8 @@ II.- Cuando el incapacitado sujeto a tutela entre a la patria potestad por recon
 
 De la emancipación.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 1970)</small>
+
 ###### Art. 621.
 
 El tutor, concluida la tutela, está obligado a entregar todos los bienes del incapacitado y todos los documentos que le pertenezcan, conforme al balance que se hubiere presentado en la última cuenta aprobada.
@@ -3493,6 +3505,8 @@ Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar la
 
 De la mayor edad.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 1970)</small>
+
 ###### Art. 632.
 
 Todos los individuos sujetos a tutela, ya sea testamentaria, legítima o dativa, además del tutor tendrán un curador, excepto en los casos de tutela a que se refieren los artículos 505 y 513, o cuando el tutor sea especial o haya sido nombrado para asuntos judiciales.
@@ -3523,7 +3537,9 @@ Designarán por sí mismos al curador con aprobación judicial:
 
 I.- Los comprendidos en el artículo 509, observándose lo que allí se dispone respecto de esos nombramientos;
 
-II.- Los menores de edad emancipados, en el caso previsto en la fracción III del artículo 655.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 1970)</small>
+
+II.- Los menores de edad emancipados por razón del matrimonio, en el caso previsto en la fracción II del Artículo 655.
 
 ###### Art. 639.
 
@@ -3623,31 +3639,29 @@ De los efectos de la declaración de ausencia.
 
 ###### Art. 653.
 
-El matrimonio del menor produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
+El matrimonio del menor de dieciocho años produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
 
 ###### Art. 654.
 
-Los mayores de dieciocho años que estén sujetos a patria potestad o a tutela, tienen derecho a que se les emancipe, si demuestran su buena conducta y su aptitud para el manejo de sus intereses.
+(DEROGADO, P.O. 25 DE ABRIL DE 1970)
 
-Los padres o tutores pueden emancipar a sus hijos y pupilos que se encuentren en las condiciones mencionadas en el párrafo anterior, siempre que éstos consientan en su emancipación.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 1970)</small>
 
 ###### Art. 655.
 
 El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
 
-I.- Del consentimiento del que lo emancipó para contraer matrimonio antes de llegar a la mayor edad. Si el que otorgó la emancipación ejercía la patria potestad y ha muerto, o está incapacitado legalmente al tiempo en que el emancipado intente casarse, necesita éste el consentimiento del ascendiente a quien corresponda darlo, y en su defecto, el del juez;
+I.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
 
-II.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
-
-III.- De un tutor para los negocios judiciales.
+II.- De un tutor para los negocios judiciales.
 
 ###### Art. 656.
 
-Hecha la emancipación, no puede ser revocada.
+(DEROGADO, P.O. 25 DE ABRIL DE 1970)
 
 ###### Art. 657.
 
-Fuera del caso a que se refiere el artículo 653, la emancipación siempre será decretada por el juez y la resolución correspondiente se remitirá al Oficial del Registro Civil para que levante el acta respectiva.
+(DEROGADO, P.O. 25 DE ABRIL DE 1970)
 
 ### CAPITULO IV.
 
@@ -3655,7 +3669,7 @@ De la administración de los bienes del ausente casado.
 
 ###### Art. 658.
 
-La mayor edad comienza a los veintiún años cumplidos.
+La mayor edad comienza a los dieciocho años cumplidos.
 
 ###### Art. 659.
 
@@ -7307,7 +7321,7 @@ El testamento anterior queda revocado de pleno derecho por el posterior perfecto
 
 ###### Art. 1403.
 
-La revocación producirá su efecto aunque el segundo testamento caduque por incapacidad o renuncia del here- testamento caduque por la incapacidad o renuncia del (sic) heredero o de los legatarios nuevamente nombrados.
+La revocación producirá su efecto aunque el segundo testamento caduque por incapacidad o renuncia del here-testamento caduque por la incapacidad o renuncia del (sic) heredero o de los legatarios nuevamente nombrados.
 
 ###### Art. 1404.
 
@@ -15118,6 +15132,16 @@ UNICO.- El presente decreto entrará en vigor tres días después de su publicac
 P.O. 29 DE DICIEMBRE DE 1962.
 
 Unico.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE ABRIL DE 1970.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las presentes reformas.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ARTICULO UNICO.- ART. 2902".]
 
