@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1942-04-21"
+last_updated: "1942-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1942.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -233,11 +233,11 @@ Disposiciones Generales.
 
 En el Estado estará a cargo de los Oficiales del Registro Civil, autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en la misma Entidad Federativa; así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1941)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1942)</small>
 
 ###### Artículo 36.
 
-Los Oficiales del Registro Civil llevarán por duplicado cinco libros que se denominan "Registro Civil" y que contendrán: el primero, actas de nacimiento, de reconocimiento de hijos y de adopción; el segundo, actas de tutela y de emancipación; el tercero, actas de matrimonio; el cuarto, actas de fallecimiento; y el quinto, actas de divorcio, inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+Los Oficiales del Registro Civil llevarán por duplicado cinco libros que se denominan "Registro Civil" y que contendrán:- el primero, en dos tomos, para actas de nacimientos, levantándose en el tomo 1o. las actas de nacimiento a que se refiere el artículo 54 de este Código, y en el 2do., las declaraciones que menciona el artículo 57 de la misma Ley; el segundo, actas de reconocimiento de hijos naturales, adopción, tutela, emancipación y supervivencia; el tercero; actas de matrimonio; el cuarto, actas de fallecimiento; y el quinto, actas de divorcio, inscripciones de ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
 
 Toda acta deberá asentarse en los libros del Registro que corresponda y se irán haciendo inmediatamente copias exactas de ellas, que autorizará el Oficial del Registro Civil, con las que formará el libro duplicado que debe remitir a la Secretaría General de Gobierno en los términos del Artículo 41 de este Código.
 
@@ -15200,3 +15200,7 @@ Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su
 P.O. 21 DE ABRIL DE 1942.
 
 Artículo Unico.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el "Periódico Oficial del Gobierno del Estado".
+
+P.O. 31 DE DICIEMBRE DE 1942.
+
+Unico.- Este Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación en el "Periódico Oficial del Gobierno del Estado".
