@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "1979-04-10"
+last_updated: "1983-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1983.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -1864,7 +1864,7 @@ Los daños y perjuicios que se ocasionen a terceros por comparecer o exhibir cos
 
 ###### ARTICULO 286.
 
-El actor debe probar los hechos constitutivos de su acción y el reo los de sus excepciones.
+El actor debe probar los hechos constitutivos de su acción y el reo (sic) los de sus excepciones.
 
 ###### ARTICULO 287.
 
@@ -2904,11 +2904,11 @@ De la Responsabilidad Civil.
 
 (DEROGADO, P.O. 3 DE MARZO DE 1955)
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 456.
 
-Las sentencias que se dicten sobre modificación de actas y sobre nulidad de matrimonios por las causas expresadas en los Artículos 297, 298, 303, 304, 305, y 306 del Código Civil así como las que se dicten en juicios de divorcio necesario, serán revisadas de oficio por la Sala que corresponda del Supremo Tribunal de Justicia con intervención del Ministerio Público, si las partes no promueven apelación; mientras el Tribunal examina la legalidad del fallo, quedará en suspenso su ejecución.
+Las sentencias que se dicten en los términos de los Arts. 123, 124, 125, 126 y 128 del Código Civil, así como las que se pronuncien en los juicios de divorcio necesario o de nulidad de matrimonio y siempre que hubiese prosperado, parcial o totalmente, la acción ejercitada, serán revisadas de oficio, por la Sala que corresponda del Supremo Tribunal de Justicia, con intervención del Ministerio Público, aun cuando se promueva apelación, mientras el Tribunal examina la legalidad del fallo, quedará en suspenso su ejecución.
 
 ### CAPITULO I.
 
@@ -6817,3 +6817,7 @@ SEGUNDO.- Quedan derogadas todas las disposiciones que se opongan a las comprend
 P.O. 10 DE ABRIL DE 1979.
 
 UNICO.- Esta Ley entrará en vigor un día después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 17 DE DICIEMBRE DE 1983.
+
+Unico. La reforma al artículo de referencia empezará a regir el día de su publicación en el Periódico Oficial El Estado de Jalisco.
