@@ -4,7 +4,7 @@ identifier: "TAM-ley-a-la-que-tendran-que-sujetarse-los-ministros-de-los-17064"
 country: "mx"
 rank: "ley"
 publication_date: "1926-04-28"
-last_updated: "1926-04-28"
+last_updated: "2002-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY A LA QUE TENDRAN QUE SUJETARSE LOS MINISTROS DE LOS CULTOS
 
-TEXTO ORIGINAL
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO UNICO DEL DECRETO NO. 75, PUBLICADO EN EL PERIODICO OFICIAL EL 15 DE OCTUBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, 28 de abril de 1926.
 
@@ -84,3 +86,9 @@ Salón de sesiones del H. Congreso del Estado.- C. Victoria, Tamps., a 11 de mar
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los doce días del mes de marzo de mil novecientos veintises. E. Portes Gil, Gobernador del Estado.- El Srio. General de Gobierno, Enrique Medina.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 15 DE OCTUBRE DE 2002.
+
+UNICO.- El presente Decreto empezará a regir el día siguiente de su publicación en el Periódico Oficial del Estado.
