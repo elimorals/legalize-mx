@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "1979-12-26"
+last_updated: "1981-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1981.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -133,19 +133,25 @@ El valor de la tierra y el de las mejoras que ésta contenga, será determinado 
 
 Las Bases Generales de Valor por Unidades Tipo deberán ser del dominio público mediante exhibición de las mismas en los estrados del Palacio de Gobierno y en las oficinas Recaudadoras de Rentas de los Municipios respectivos.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 19o.
 
-Las Bases Generales de Valores tienen vigencia durante tres años, para la propiedad urbana y sub-urbana, y durante cinco años para la propiedad rústica. Pasados dichos plazos de vigencia, las Bases Generales de Valores podrán ser objeto de revisión, en la inteligencia de que si ésta no se practica, subsistirán las Bases Generales de Valores existentes.
+Las Bases Generales de Valores para la propiedad urbana, suburbana y la rústica, tendrán una vigencia de cinco años, contados a partir de la fecha en que dichas Bases hayan sido objeto de revisión. Pasado dicho plazo de vigencia, las Bases Generales de Valores podrán volver a ser objeto de revisión; en la inteligencia de que si ésta no se practica, subsistirán las Bases Generales de Valores existentes.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 20o.
 
-Las Bases Generales por Unidades Tipo, aprobadas para cada período de tres o cinco años, a que se refiere el Artículo anterior, no podrán ser modificadas en el curso de ese tiempo, a menos que deban introducirse nuevos valores unitarios o cuando sea indispensable crear una nueva categoría no prevista en la tabla original, ya sea por motivo de ampliación de zonas urbanas o sub-urbanas, o por cualquier otra causa.
+Excepto en el año en que sean objeto de revisión, las Bases Generales por Unidades Tipo a que se refiere el Artículo anterior, tendrán un ajuste anual automático del 15% -quince por ciento-, que entrará en vigor el primero de enero de cada año, sin necesidad de que el mismo sea notificado a los interesados para tener plena validez. Fuera de este supuesto, las Bases Generales por Unidades Tipo no podrán ser modificadas mientras no sean objeto de revisión, a menos que deban introducirse nuevos valores unitarios o cuando sea indispensable crear una nueva categoría no prevista en la tabla original, ya sea por motivo de ampliación de zonas urbanas o suburbanas, o por cualquier otra causa.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 21.
+
+El avalúo de los predios se hará con estricto apego a las Bases Generales de Valores por Unidades Tipo. No obstante lo anterior, para los efectos de la aplicación del Impuesto Predial, el valor catastral de los predios en ningún caso podrá ser inferior de $12,000.00 (doce mil pesos). En el Reglamento de esta Ley, se señalará el procedimiento para formular los avalúos.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 21o.
 
@@ -233,6 +239,18 @@ Se abroga la Ley del Catastro del Estado de Nuevo León, a que se contrae el Dec
 
 Entre tanto se dicta nuevo Reglamento de esta Ley, seguirá vigente el de fecha 18 de Agosto de 1950, en cuanto no se oponga a las disposiciones de esta Ley.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 4o.
+
+A partir de 1982 y mientras no haya nueva catastración, se aumentarán en 239166 veces, los Valores Reales Catastrales de los inmuebles urbanos, suburbanos y rústicos, ubicados en los Municipios de Apodaca, Escobedo, Garza García, Guadalupe, Monterrey, San Nicolás de los Garza y Santa Catarina; y, en 1.7333 veces, los Valores Reales Catastrales de los inmuebles urbanos, suburbanos y rústicos, ubicados en el resto de los Municipios del Estado. Este aumento será automático y no habrá necesidad de notificarlo a los interesados para que surta sus efectos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 5o.
+
+El ajuste automático de 15% de los Valores Generales por Unidades Tipo a que se refiere el Artículo 20, empezará su vigencia a partir de 1983.
+
 Lo tendrá entendido el C. Gobernador Constitucional del Estado, mandándolo imprimir, publicar y circular a quienes corresponda.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado de Nuevo León, en Monterrey, su Capital, a los ocho días del mes de enero de mil novecientos sesenta y cuatro.- PRESIDENTE: DIP. MARIO GARZA VALDEZ.- DIP. SECRETARIO HILARIO CONTRERAS GARCIA.- DIP. SECRETARIO: ARTURO DE LA GARZA GONZALEZ". Rúbricas.
@@ -286,3 +304,13 @@ El Presente Decreto surtirá sus efectos a partir del día 1o. de Enero de 1980.
 ###### ARTICULO SEGUNDO.
 
 Se dejan sin efecto todas las disposiciones que se contrapongan con el contenido de este Decreto.
+
+P.O. 30 DE DICIEMBRE DE 1981.
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto surtirá sus efectos a partir del 1o. de Enero de 1982.
+
+###### ARTICULO SEGUNDO
+
+- Se dejan sin efecto todas las disposiciones que se opongan al contenido de este Decreto.
