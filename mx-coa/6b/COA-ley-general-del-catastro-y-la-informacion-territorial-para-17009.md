@@ -4,7 +4,7 @@ identifier: "COA-ley-general-del-catastro-y-la-informacion-territorial-para-1700
 country: "mx"
 rank: "ley_general"
 publication_date: "1999-07-23"
-last_updated: "1999-07-23"
+last_updated: "2001-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17009&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY GENERAL DEL CATASTRO Y LA INFORMACION TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 23 de julio de 1999.
 
@@ -109,17 +109,21 @@ Los derechos por servicios catastrales que prestan las autoridades municipales, 
 
 ### CAPÍTULO PRIMERO. DE LAS AUTORIDADES CATASTRALES
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 8.
 
-Son Autoridades en materia de catastro:
+Son autoridades en materia de catastro:
 
-I. El Gobierno del Estado a través del Instituto Coahuilense del Catastro y de Información Territorial.
+I. El Congreso del Estado para aprobar los elementos que sirvan de base para fijar las contribuciones sobre materia inmobiliaria.
 
-II. Los Ayuntamientos de la entidad.
+II. El Instituto Coahuilense del Catastro y la Información Territorial.
 
-III. Los titulares de las Unidades Catastrales Municipales.
+III. Los ayuntamientos.
 
-IV. Los titulares de las Direcciones, Departamentos encargados del catastro en los municipios.
+IV. Los titulares de las Unidades Catastrales Municipales.
+
+V. Los titulares de las direcciones o de los departamentos encargados del catastro en los municipios.
 
 ###### ARTÍCULO 9.
 
@@ -137,11 +141,15 @@ V. Las Asociaciones Agropecuarias.
 
 VI. Las personas o instituciones privadas cuya colaboración se haga necesaria a juicio de las autoridades catastrales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 10.
 
-Compete al Gobierno del Estado a través del Instituto Coahuilense del Catastro y la Información Territorial:
+Compete al Instituto Coahuilense del Catastro y la Información Territorial:
 
-I. Expedir las políticas, lineamientos y normas técnicas generales de organización y funcionamiento de los catastros municipales, así como elaborar y mantener actualizado el inventario inmobiliario estatal y los planos correspondientes.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+I. Emitir las políticas, lineamientos y normas técnicas generales a que se sujetará la función catastral en la entidad, para uniformar la normatividad de los municipios en esta materia y su calificación del servicio catastral bajo el interés público, así como sugerir, cuando le sea solicitado, las correspondientes a la organización y funcionamiento de los catastros municipales y elaborar y mantener actualizado el inventario inmobiliario estatal y los planos correspondientes; así como realizar la vigilancia necesaria a los municipios para el cumplimiento de las disposiciones en materia catastral.
 
 II. Ser el organismo permanente de investigación técnica y tecnológica de métodos, sistemas, procedimientos de valuación, registro y demás aspectos relacionados con la propiedad inmobiliaria y con la modernización permanente del catastro y su operación.
 
@@ -151,7 +159,9 @@ IV. Deslindar, describir, clasificar, valuar e inscribir la propiedad raíz rús
 
 V. Formular y mantener al día los planos catastrales, general y parciales del Estado y sus Municipios, que sean necesarios, de acuerdo con los procedimientos que señala esta ley y las normas técnicas y científicas propias de la materia.
 
-VI. Determinar el valor catastral de la propiedad inmobiliaria cuando le sea solicitado y en los términos de los convenios que celebre con los Municipios.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VI. Proponer el valor catastral de la propiedad inmobiliaria cuando le sea solicitado y en los términos de los convenios que celebre con los Municipios, para el efecto de que éstos lo presenten a la aprobación del Congreso Local.
 
 VII. Prestar los servicios periciales que se le soliciten como valuador de inmuebles ante todas las autoridades civiles, penales, laborales, administrativas y fiscales, así como para la identificación, apeos o deslindes de inmuebles.
 
@@ -161,21 +171,31 @@ VIII. Prestar asistencia técnica a las Dependencias y Entidades de la Federaci�
 
 IX. Ejecutar las acciones que se establezcan a su cargo en los convenios que celebre el Gobernador del Estado.
 
-X. Celebrar convenios de colaboración administrativa con los Ayuntamientos para que el Instituto asuma las funciones operativas que tienen a su cargo, cuando éstos así lo soliciten.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+X. Celebrar convenios de colaboración administrativa con los ayuntamientos para que el Instituto colabore o asuma, total o parcialmente, las funciones operativas que tienen a su cargo, cuando éstos así lo soliciten.
 
 XI. Celebrar toda clase de convenios y contratos con autoridades municipales, así como con organismos públicos, privados y sociales y con particulares cuando convengan al eficaz cumplimiento de su objeto.
 
-XII. Dar asesoría a los Ayuntamientos y demás autoridades catastrales.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-XIII. Brindar apoyo técnico y operativo en materia de planeación territorial a las dependencias y entidades estatales y municipales, en cuanto a desarrollo urbano, social y ecológico.
+XII. Proporcionar asesoría y el apoyo necesario a los ayuntamientos y demás autoridades catastrales que así lo soliciten.
 
-XIV. Coadyuvar en la solución de los conflictos que se susciten con relación a los límites del territorio del Estado con los de otros Estados y de los Municipios con los de otros Municipios.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-XV. Formular de manera conjunta con la Unidad, los proyectos de tablas de valores de terreno y construcción y remitirlos al Ayuntamiento.
+XIII. Apoyar técnicamente y operativamente en materia de planeación territorial a las dependencias y entidades estatales y municipales, en cuanto a desarrollo urbano, social y ecológico.
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XIV. Coadyuvar con las autoridades federales, estatales y municipales en la solución de los conflictos que se susciten con relación a los límites del territorio del Estado con los de otros Estados y de los Municipios con los de otros Municipios.
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XV. Formular, de manera conjunta y corresponsable con la unidad catastral municipal respectiva, los proyectos de tablas de valores unitarios de suelo y construcción.
 
 XVI. Analizar de manera conjunta con la unidad, las observaciones y recomendaciones formuladas por la Junta.
 
-XVII. Enviar para su publicación en el Periódico Oficial del Gobierno del Estado una vez aprobadas por el Ayuntamiento, las tablas generales de valores.
+XVII. (DEROGADA, P.O. 20 DE MARZO DE 2001)
 
 XVIII. Imponer conforme a los convenios que celebran con los ayuntamientos, las sanciones que proceden en los términos de esta ley.
 
@@ -211,27 +231,47 @@ Compete a los Ayuntamientos:
 
 I. Ejecutar las acciones necesarias para integrar la Junta, conforme a las disposiciones previstas en la ley y su reglamento.
 
-II. Remitir a la Junta, los proyectos de las tablas de valores que les remita el Instituto y/o la Unidad para que, si lo considera procedente, realice observaciones y recomendaciones a los valores en ellos contenidos.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+II. Remitir a la Junta los proyectos de las tablas de valores que sean elaborados y remitidos, de manera conjunta por el Instituto y la unidad para que, si lo considera procedente, realice observaciones y recomendaciones a los valores en ellos contenidos.
 
 III. Remitir al Instituto y a la Unidad las observaciones y recomendaciones que la junta haga a los proyectos de tablas generales de valores para, en su caso, incorporarlos en los proyectos.
 
-IV. Aprobar en definitiva las tablas de valores que les remita el Instituto.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-V. Suscribir, atendiendo a la normatividad aplicable en materia catastral, convenios de colaboración administrativos en materia de catastro con el Estado, organismos descentralizados de esta y con las personas físicas y morales que se consideren convenientes para el mejor desarrollo del catastro; apegados en todo caso a la normatividad expedida por el Instituto.
+IV. Aprobar los proyectos de las tablas de valores que les remita el Instituto y la Unidad de manera conjunta.
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+V. Proponer al Congreso del Estado con arreglo a esta ley, las tablas de valores unitarios de suelo y construcciones.
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VI. Suscribir, de conformidad con las disposiciones aplicables, convenios de colaboración administrativa en materia de catastro con el Estado, organismos descentralizados de éste y con las personas físicas y morales que se consideren conveniente para el mejor desarrollo del catastro.
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VII. Las demás que expresamente les confiera esta ley, su reglamento u otras disposiciones aplicables.
 
 ###### ARTÍCULO 12.
 
 Cada ayuntamiento deberá establecer una Unidad Catastral Municipal, que estará integrada por las áreas y el personal técnico y administrativo que señale el presupuesto correspondiente y que tendrá las siguientes facultades y obligaciones:
 
-I. Elaborar, de manera conjunta con el Instituto, los proyectos de las tablas generales de valores de suelo y construcción, conforme a las disposiciones que establece esta ley y su reglamento y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+I. Elaborar los proyectos de las tablas de valores unitarios de suelo y construcción, conforme a las disposiciones que establece esta ley y su reglamento y demás aplicables.
 
 II. Remitir a la Junta, los proyectos a que se refiere la fracción anterior.
 
 III. Analizar, de manera conjunta con el Instituto, las observaciones y recomendaciones formuladas por la Junta.
 
-IV. Determinar y emitir los valores catastrales en términos de la presente ley.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-V. Auxiliar a la Junta y al Instituto proporcionándoles los datos, informes y elementos que le solicite.
+IV. Proponer y emitir los valores catastrales en términos de la presente ley y para los efectos previstos en ella.
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+V. Auxiliar a la Junta y, en su caso, al Instituto, proporcionándoles los datos, informes y elementos que le solicite.
 
 VI. Deslindar, describir, clasificar, valuar, inscribir y controlar la propiedad raíz rústica y urbana del municipio, ya sea federal, estatal, o particular.
 
@@ -249,7 +289,9 @@ XII. Ordenar y practicar visitas domiciliarias para verificar los datos proporci
 
 XIII. Conocer y resolver las inconformidades que se presenten de acuerdo con los términos de la presente ley y su reglamento.
 
-XIV. Informar al Instituto sobre los cambios y modificaciones que sufran la propiedad inmobiliaria y los valores catastrales, dentro de los plazos establecidos en el reglamento.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XIV. Informar al Instituto sobre los cambios y modificaciones que sufran la propiedad inmobiliaria y los valores catastrales.
 
 XV. Designar en le (sic) ámbito de su competencia la persona o personas que deberán practicar las visitas, inspecciones o verificaciones y expedir las constancias de identificación correspondientes.
 
@@ -261,9 +303,13 @@ El titular de la Unidad será en todo caso, el funcionario competente para ejerc
 
 ### CAPÍTULO SEGUNDO. DEL INSTITUTO COAHUILENSE DE CATASTRO Y LA INFORMACIÓN TERRITORIAL
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 14.
 
-El Instituto, en apoyo de los Ayuntamientos de la entidad, expedirá las políticas, lineamientos y normas técnicas de carácter general relativas al ejercicio de la función pública catastral de acuerdo con las características y necesidades de cada localidad.
+El Instituto, en coordinación con los ayuntamientos, expedirá las políticas, lineamientos y normas técnicas de carácter general relativas al ejercicio de la función catastral de acuerdo con las características y necesidades de cada municipio, así como las correspondientes a la organización y funcionamiento de los catastros municipales, así como realizar la vigilancia necesaria a los municipios para el cumplimiento de las disposiciones en materia catastral.
+
+El Instituto es la autoridad encargada de todo lo relacionado con la planeación, rectoría, vigilancia y subsidiariedad administrativa en materia de catastro en el estado.
 
 ###### ARTÍCULO 15.
 
@@ -299,7 +345,9 @@ Cada uno de los vocales del Consejo designará a un suplente de entre las person
 
 Son facultades del Consejo Directivo:
 
-I. Establecer los lineamientos generales a que deben sujetarse los convenios que el Instituto celebre con los municipios de la entidad y demás organismos e instituciones, públicas o privadas.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+I. Establecer en estricto apego a las disposiciones aplicables, las políticas y lineamientos generales a que deben sujetarse los convenios que el Instituto celebre con los municipios de la entidad y demás organismos e instituciones, públicas o privadas.
 
 II. Establecer las directrices generales para el eficaz funcionamiento del Instituto.
 
@@ -443,7 +491,9 @@ III. Practicar por conducto de personal calificado que comisione, inspecciones o
 
 IV. La Junta celebrará sesiones cuantas veces sean necesarias, convocadas por su Presidente.
 
-V. Solicitar al Ayuntamiento o al Instituto, los informes y datos que juzgue necesarios para el mejor desarrollo de sus actividades.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+V. Solicitar al ayuntamiento o a la Unidad y, en su caso, al Instituto los informes y datos que juzgue necesarios para el mejor desarrollo de sus actividades.
 
 VI. Las demás que esta ley y su Reglamento le señalen.
 
@@ -451,9 +501,13 @@ VI. Las demás que esta ley y su Reglamento le señalen.
 
 ### CAPÍTULO PRIMERO. DE LAS TABLAS DE VALORES UNITARIOS Y DE LA VALUACIÓN DE PREDIOS
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 28.
 
-El Instituto y la Unidad formularán conjuntamente los proyectos de tablas generales de valores de suelo y construcción para cada municipio del Estado. Estas se elaborarán mediante los procedimientos técnicos y consideraciones administrativas, a fin de obtener en ellas un avalúo equitativo de la propiedad inmueble. El valor catastral deberá ser similar al valor comercial que al predio corresponda, pero, además, se tomará en cuenta la clase de tasa impositiva.
+La Unidad y el Instituto formularán conjuntamente los proyectos de tablas de valores unitarios de suelo y construcción para el municipio que corresponda. Estos se elaborarán mediante los procedimientos técnicos y consideraciones administrativas, a fin de obtener en ellos un avalúo equitativo y proporcional de la propiedad inmueble.
+
+El valor catastral deberá ser equiparable al valor comercial que al predio corresponda, pero, además, se adecuarán a la tasas impositivas aplicables.
 
 ###### ARTÍCULO 29.
 
@@ -463,29 +517,45 @@ Los peritos designados deberán rendir el dictamen a que se refiere el párrafo 
 
 El dictamen que emitan los peritos, será la base para la solución de las discrepancias existentes, debiéndose incorporar en los proyectos de tablas de valores.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 30.
 
-El Instituto y/o la Unidad deberán presentar al Ayuntamiento los proyectos de tablas generales de valores de suelo y de construcción, que a su vez, deberán someterlos a la consideración de las Juntas, a efecto de que éstas previo su estudio hagan, si lo consideran procedente, observaciones y recomendaciones sobre los valores unitarios contenidos en éstas.
+La Unidad y el Instituto deberán presentar al Ayuntamiento, de manera conjunta los proyectos de tablas de valores unitarios de suelo y de construcción conforme a esta ley.
+
+A su vez, los ayuntamientos los someterán a la consideración de las Juntas, a efecto de que éstas previo su estudio hagan, si lo consideran procedente, observaciones y recomendaciones sobre los valores unitarios contenidos en los proyectos correspondientes.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 31.
 
-Las Juntas, devolverán al Ayuntamiento los proyectos de tablas generales de valores, acompañados de las observaciones y recomendaciones que estimen procedentes, dentro de los 15 días hábiles siguientes a aquél en que las reciban y éste dentro de los siguientes 5 días hábiles posteriores las remitirán al Instituto y a la Unidad.
+Las Juntas, devolverán al ayuntamiento los proyectos de tablas de valores unitarios, acompañados de las observaciones y recomendaciones que estimen procedentes, dentro de los 15 días hábiles siguientes a aquél en que las reciban y éste dentro de los siguientes 5 días hábiles posteriores las remitirán a la Unidad y al Instituto.
 
 ###### ARTÍCULO 32.
 
 Los plazos a que se refiere el artículo anterior podrán ser prorrogados por una sola vez por igual término. En caso de que no se remitan los proyectos en los plazos establecidos y sus prórrogas, se considerará que no presentan observaciones y/o recomendaciones.
 
-El titular de la Unidad y el Director General del Instituto suscribirán los proyectos definitivos de tablas generales de valores de suelo y construcción, debiendo proceder este último a ordenar su publicación en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+El titular de la Unidad y el Director General del Instituto suscribirán los proyectos definitivos de tablas de valores unitarios de suelo y construcción, debiendo proceder a someterlas a la aprobación del ayuntamiento.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 33.
 
-Las tablas de valores formuladas conforme a éste capítulo y publicadas en el Periódico Oficial del Gobierno del Estado serán de observancia obligatoria, y estarán vigentes en el ejercicio fiscal para el cual se formularon.
+El ayuntamiento, en el ámbito de su competencia y habiendo aprobado los proyectos definitivos correspondientes, propondrá a la legislatura del Estado, con arreglo a la ley y de acuerdo a los principios de equidad y proporcionalidad, las tablas de valores unitarios de suelo y construcciones.
 
-En caso de que al terminar el ejercicio fiscal de su vigencia, no se expidieren nuevas tablas, continuarán vigentes las anteriores y sus valores se incrementarán a partir del primero de enero de cada año, con el factor que resulte de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior entre el citado índice del mes de noviembre del año anterior al señalado, hasta en tanto se expidan las procedentes. Para este último efecto, el presidente municipal tiene el deber de convocar cuanto antes a las Juntas Municipales para que, en su caso, puedan proponer ajustes al factor que resulte y el ayuntamiento decidirá en definitiva.
+El Congreso del Estado, dentro de un plazo de 15 días posteriores a su recepción, procederá al análisis y revisión de las tablas de valores correspondientes y resolverá su aprobación. Para tal efecto, el Instituto brindará el apoyo y asesoría necesaria a la legislatura.
+
+Las tablas de valores aprobadas conforme a esta ley deberán ser publicadas en el Periódico Oficial del Gobierno del Estado y serán de observancia obligatoria para el ejercicio fiscal para el cual se formularon.
+
+En caso de que al terminar el ejercicio fiscal de su vigencia, no se expidieren nuevas tablas, continuarán vigentes las anteriores y sus valores se incrementarán a partir del primero de enero de cada año, con el factor que el Congreso del Estado determine. En el caso de que el Congreso del Estado no determine factor alguno, los ayuntamientos actualizarán las tablas con el factor que resulte de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior entre el citado índice del mes de noviembre del año anterior al señalado, hasta en tanto se expidan las procedentes.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 34.
 
-En el caso de que la Unidad no exista en el municipio o éste no cuente con los recursos técnicos, administrativos o humanos para participar en la elaboración de los proyectos de tablas generales de valores, el Instituto tendrá a su cargo esta función.
+En el caso de que la Unidad no exista en el municipio o éste no cuente con los recursos técnicos, administrativos o humanos para participar en la elaboración de los proyectos de tablas de valores unitarios, el Instituto, previa la celebración de los convenios que correspondan, podrá asumir esta función.
 
 ###### ARTÍCULO 35.
 
@@ -493,9 +563,11 @@ Las tablas generales de valores de suelo y construcción aprobadas para cada per
 
 Las modificaciones a las tablas, se harán con el procedimiento establecido en este capítulo y deberán publicarse en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 36.
 
-Para los efectos del artículo 35 de esta ley y hasta en tanto se publiquen las modificaciones a las tablas de valores, tratándose de inmuebles ubicados en áreas no consideradas dentro de las tablas generales de valores o que no les sean aplicables en su totalidad, las autoridades catastrales llevarán a cabo su valuación provisional, utilizando los procedimientos técnicos conocidos para éste fin, los que en todo caso deberán ser similares al valor comercial.
+Para los efectos del artículo 35 de esta ley y hasta en tanto se publiquen las modificaciones a las tablas de valores unitarios, tratándose de inmuebles ubicados en áreas no consideradas dentro de las tablas generales de valores o que no les sean aplicables en su totalidad, las autoridades catastrales llevarán a cabo su valuación provisional, utilizando los procedimientos técnicos que emita el Instituto, los que en todo caso deberán ser equiparables al valor comercial.
 
 ###### ARTÍCULO 37.
 
@@ -509,7 +581,9 @@ II. Rústicos, los que no se encuentran comprendidos en la fracción anterior.
 
 La valuación catastral tiene por objeto asignar un valor determinado a los bienes inmuebles ubicados dentro del territorio del Estado, de conformidad con los preceptos de la presente Ley y su Reglamento, y servirán de base para todos los fines fiscales en relación a la propiedad raíz.
 
-Las autoridades catastrales deberán determinar el valor catastral de cada inmueble con la aplicación de las tablas generales de valores de terreno y construcción aprobadas conforme a esta Ley y su Reglamento, y en todo caso deberán ser similares a los del mercado.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Las autoridades catastrales a que se refiere el artículo 8° de esta ley, deberán determinar el valor catastral de cada inmueble con la aplicación de las tablas de valores unitarios de suelo y construcción aprobadas conforme a esta Ley y su Reglamento y, en todo caso, deberán ser equiparables a los del mercado.
 
 ###### ARTÍCULO 39.
 
@@ -609,9 +683,11 @@ VII. Incurrir en cualquier otro acto u omisión distinta a las enunciadas en las
 
 Son infracciones imputables a los servidores públicos de las dependencias y entidades de la administración pública estatal, de los municipios y organismos descentralizados, aquellas que por negligencia o por cualquier otra circunstancia alteren o falseen los datos que caracterizan a un predio para su identificación, y demás operaciones catastrales y de información territorial, con el fin de favorecer o perjudicar al propietario o poseedor del mismo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 52.
 
-Son infracciones a la presente ley:
+Las infracciones a la presente ley se sancionarán conforme a lo siguiente:
 
 I. Para la infracción señalada en la fracción I del artículo 50, se impondrá una sanción de 5 a 10 días salario mínimo diario vigente en el Estado.
 
@@ -619,7 +695,9 @@ II. Para la infracción señalada en las (sic) fracción II del artículo 50, se
 
 III. Para la infracción señalada en la fracción III y VII del artículo 50, se impondrá una sanción de 10 a 20 días salario mínimo diario vigente en el Estado.
 
-IV. Celebrar por parte de los propietarios de fraccionamientos o condominios contratos de compra-venta, de promesa de venta, de venta con reserva de dominio o cualquier otro acto traslativo, sin haber cumplido con las obligaciones establecidas en la presente ley y su reglamento y demás ordenamientos legales aplicables.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+IV. Para las infracciones señaladas en las fracciones IV, V y VI, previstas en el artículo 50, se impondrá una sanción de 40 a 75 días de salario mínimo diario vigente en el Estado.
 
 V. Para la infracción señalada en el artículo 51, se impondrá una sanción de 50 a 100 días salario mínimo diario vigente en el Estado.
 
@@ -651,13 +729,17 @@ III. La gravedad de la infracción; así como la conveniencia de destruir práct
 
 No procede la imposición de sanciones cuando la infracción derive de caso fortuito o fuerza mayor, ni cuando se cumpla con la obligación omitida en forma espontánea fuera de los plazos establecidos en esta Ley. No se considera que el cumplimiento es espontáneo, cuando la omisión sea descubierta por las autoridades catastrales, medie requerimiento o cualquier gestión oficial tendiente a exigir el cumplimiento de dichas obligaciones.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 58.
 
-Las sanciones deberán pagarse en el Instituto Coahuilense del Catastro o Tesorería Municipal cuando sea el municipio quien imponga la sanción, del domicilio del infractor, dentro de los quince días siguientes a aquél en que surta efectos la notificación de la resolución. Si el infractor no cumple voluntariamente, la sanción podrá hacerse efectiva a través del procedimiento administrativo de ejecución establecido en el Código Fiscal para el Estado de Coahuila o en el Código Municipal para el Estado de Coahuila, según sea el caso.
+Las sanciones deberán pagarse en la Tesorería Municipal cuando sea el municipio quien imponga la sanción o, en su caso, en el Instituto dentro de los quince días siguientes a aquél en que surta efectos la notificación de la resolución. Si el infractor no cumple voluntariamente, la sanción podrá hacerse efectiva a través del procedimiento administrativo de ejecución establecido en el Código Financiero para los Municipios del Estado de Coahuila o en el Código Fiscal para el Estado de Coahuila, según sea el caso.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 59.
 
-Las infracciones y sanciones previstas en el presente capítulo, podrán ser impugnadas por los particulares a través del recurso administrativo de revocación establecido en el Código Fiscal para el Estado de Coahuila, cuando sean impuestas por las autoridades catastrales estatales y a través del recurso administrativo de revocación establecido en los artículos 482 a 498, inclusive, del Código Municipal para el Estado de Coahuila, cuando se impongan por autoridades catastrales municipales.
+Las infracciones y sanciones previstas en el presente capítulo, podrán ser impugnadas por los particulares a través del recurso administrativo de revocación establecido en el Código Fiscal para el Estado de Coahuila, cuando sean impuestas por las autoridades catastrales estatales y a través del recurso administrativo de revocación establecido en los artículos 482 a 498, inclusive, del Código Financiero para los Municipios del Estado de Coahuila de Zaragoza, cuando se impongan por autoridades catastrales municipales.
 
 ## TÍTULO QUINTO. DE LA INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA
 
@@ -1036,3 +1118,45 @@ LIC. CARLOS JUARISTI SEPTIEN.
 EL SECRETARIO DE FINANZAS
 
 LIC. ANTONIO JUAN MARCOS ISSA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE MARZO DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado en coordinación con todos los Ayuntamientos de la entidad, antes del inicio del ejercicio fiscal del año 2002, establecerán los criterios necesarios para que los valores unitarios de suelo y de construcción que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, sean equiparables a los valores del mercado de dicha propiedad y procederán, en su caso, a realizar las reformas o adiciones legales correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+Para tal efecto, el Congreso del Estado a través de la Comisión de Finanzas coordinará, a partir de la entrada en vigor de este decreto, un programa con los municipios para definir los criterios proporcionales y equitativos que se deben establecer para fijar la base de las contribuciones sobre la propiedad inmobiliaria, de conformidad con las disposiciones aplicables.
+
+En este programa deberá participar el Instituto Coahuilense del Catastro y la Información Territorial como órgano de apoyo y asesoría necesaria.
+
+###### ARTÍCULO TERCERO.
+
+Los juzgados de conciliación deberán continuar con la denominación y competencia que actualmente tienen, hasta el treinta y uno de agosto del año dos mil uno, fecha en que concluirán sus funciones, quedando sin efecto los nombramientos de sus titulares. Consecuentemente, las disposiciones contenidas en los artículos de la Ley Orgánica del Poder Judicial que hagan referencia a los juzgados de conciliación estarán en vigor hasta la fecha señalada, con excepción de lo dispuesto en la fracción I del artículo 43.
+
+El personal que formaba parte de los Juzgados de Conciliación podrán integrar los juzgados municipales que establece el Código Municipal, según lo acuerde el Ayuntamiento respectivo.
+
+En todo caso, se deberán respetar los derechos laborales del personal que formaba parte de los Juzgados de Conciliación. Los ayuntamientos emitirán los acuerdos necesarios para regularizar su situación laboral y su reorganización dentro de la administración pública municipal.
+
+Hasta en tanto el Consejo de la Judicatura determine nuevos distritos judiciales, seguirán vigentes, para todos los efectos legales, los ocho distritos previstos en el texto anterior del artículo 5° de la Ley Orgánica del Poder Judicial, que ahora se reforma; y que tienen como cabecera las ciudades de: Saltillo, Monclova, Sabinas, Piedras Negras, Acuña, Torreón, San Pedro de las Colonia y Parras de la Fuente.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos dentro del plazo de un año contado a partir de la entrada en vigor de este decreto, deberán instalar las Unidades Municipales de Protección Civil, según sus necesidades, condiciones y particularidades socioeconómicas.
+
+Estas unidades formarán parte de la administración pública municipal, según el acuerdo que emita el Ayuntamiento.
+
+En aquellos municipios que no cuenten con estas unidades, el Ejecutivo del Estado a través de la instancia correspondiente podrá coadyuvar, colaborar o sustituir la función de las mismas hasta en tanto el municipio pueda asumir plenamente esta función.
+
+###### ARTÍCULO QUINTO.
+
+Dentro del plazo de un año contado a partir de la entrada en vigor de este decreto, los ayuntamientos deberán adecuar su reglamentación, acuerdos, circulares y demás disposiciones generales.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones en contrario.
