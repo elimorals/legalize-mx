@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-universidad-autonoma-de-aguascalientes-3222"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1974-02-24"
-last_updated: "1979-11-04"
+last_updated: "1980-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1980.
 
 Ley publicada en el Suplemento al No. 8 del Periódico Oficial del Estado de Aguascalientes, el 24 de febrero de 1974.
 
@@ -305,9 +305,9 @@ I.- Todos los bienes y valores que actualmente son propiedad del Instituto Autó
 
 II.- Los legados, donaciones y fideicomisos que se le hagan o se constituyan en su favor.
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1980)</small>
 
-III.- El importe de las participaciones que los Gobiernos Federal y Estatal, o los Municipios hayan asignado al Instituto Autónomo de Ciencias y Tecnología de Aguascalientes y los que en el futuro le otorguen a la Universidad Autónoma de Aguascalientes.
+III.- Un subsidio estatal, consistente en el 15% del presupuesto anual de la Universidad, previa aprobación del Consejo Universitario.
 
 IV.- Los derechos y participaciones en los trabajos que se efectúen en cualesquiera de sus dependencias.
 
@@ -388,5 +388,9 @@ P.O. 2 DE ENERO DE 1977.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 4 DE NOVIEMBRE DE 1979.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JUNIO DE 1980.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
