@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2000-01-03"
+last_updated: "2000-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -57,7 +57,9 @@ Ninguna acción puede intentarse si no se acompaña el título legal que la acre
 
 Intentada una acción y hecho el emplazamiento, la demanda no podrá modificarse. El desistimiento de la demanda sólo importa la pérdida de la instancia; pero si ha sido hecho el emplazamiento, se requerirá el consentimiento del demandado, pues de otro modo, el desistimiento extingue la acción y se condenará a la actora a pagar las costas del proceso. El desistimiento de la acción posterior al emplazamiento, obliga al que lo hizo a pagar costas, daños y perjuicios a la contraparte, salvo convenio en contrario.
 
-En los juicios contenciosos la instancia caducará cualquiera que sea el estado en que se encuentre, cuando de no mediar un impedimento procesal que suspenda la caducidad, las partes se abstengan de promover el curso del juicio, en la primera instancia durante un lapso de ciento veinte días; en la segunda instancia de sesenta días, y en los incidentes y recursos de revocación treinta días. Los términos comprenderán tanto días hábiles como inhábiles y empezarán a contar a partir del día siguiente al de la última resolución o actuación judicial .
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
+
+En los Juicios Contenciosos la instancia caducará cualquiera que sea el estado en que se encuentre, cuando de no mediar un impedimento procesal que suspenda la caducidad, las partes se abstengan de promover el curso del juicio, en única o en la primera instancia durante un lapso de ciento veinte días; en la segunda instancia de sesenta días, y en los incidentes y recursos de revocación treinta días. Los términos comprenderán tanto días hábiles como inhábiles y empezarán a contar a partir del día siguiente al de la última resolución o actuación judicial.
 
 El auto que ordena dictar sentencia extingue la posibilidad de la caducidad de la instancia. El auto que ordene dictar la sentencia interlocutoria en un incidente o la resolución de un recurso de revocación, impide la caducidad de los mismos.
 
@@ -277,7 +279,9 @@ Son días hábiles todos los del año, menos el sábado, domingo y aquéllos que
 
 Se entienden por horas hábiles las que medien desde las siete a las diecinueve. Principiada una diligencia en horas hábiles, deberá concluirse y será válida, aún cuando se actúe en horas inhábiles, sin necesidad de determinación especial del juez.
 
-Salvo el caso anterior, el juez podrá habilitar los días y horas inhábiles para actuar o practicar diligencias, cuando hubiere causa urgente que las amerite, expresando cuál sea ésta y las diligencias que hayan de practicarse.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
+
+El Juez podrá habilitar los días y las horas inhábiles para actuar o practicar diligencias, cuando hubiere causa urgente que las amerite, expresando cual sea ésta y las diligencias que hayan de practicarse.
 
 ###### Artículo 32.
 
@@ -557,7 +561,9 @@ Todos los litigantes en el primer escrito que presenten o en la primera diligenc
 
 También harán esa designación al notificárseles la determinación relativa, para el nuevo lugar a donde por cualquier motivo se mande pasar el negocio. Si durante el Juicio varían de domicilio deberán dar aviso al Juzgado o Tribunal. Igualmente deben designar el domicilio en que haya de hacerse la primera notificación a la persona o personas contra quienes promuevan.
 
-Cuando un litigante no cumpla con las tres primeras prevenciones de este Artículo, las notificaciones que conforme a las reglas generales deben hacerse personalmente, se le harán por medio de instructivo que se fijará en la tabla de avisos del Juzgado; instructivo que contendrá los requisitos fijados en el tercer párrafo del Artículo 69. Si no cumple con la última prevención no se hará notificación alguna a la persona contra quien se promueva hasta que se subsane la omisión.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
+
+Cuando un litigante no cumpla con las tres primeras prevenciones de este artículo, las notificaciones que conforme a las reglas generales deben hacerse personalmente, se le harán por medio de Instructivo que se fijará en la Tabla de Avisos del Juzgado; Instructivo que contendrá los requisitos fijados en el segundo párrafo del artículo 69. Si no cumple con la última prevención no se hará notificación alguna a la persona contra quien se promueva hasta que se subsane la omisión.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -595,15 +601,21 @@ Si se probare que quien debió hacer la notificación no la hizo personalmente, 
 
 La primera notificación a la persona cuyo lugar de residencia o habitación se ignore, se le hará por medio de edictos publicados por tres veces consecutivas en el Periódico Oficial y en algún periódico de los que tenga mayor circulación a juicio del Juez. Publicación que igualmente se hará en el Boletín Judicial en los lugares en que este se edite. La notificación hecha de esta manera surtirá sus efectos a los diez días contados desde el siguiente al de la última publicación. Si el notificado no compareciera, se le harán las demás notificaciones que sean personales por medio de instructivo en los términos del último párrafo del Artículo 69 de este Código, fijándose dicho instructivo en la tabla de avisos del Juzgado o Tribunal.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DEL 2000)</small>
 
 ###### Artículo 74.
 
-Cuando haya que notificarse por primera vez a una persona residente en otro lugar comprendido dentro del distrito judicial en que tiene competencia el Juez que lo manda notificar, la diligencia podrá practicarse por medio del servidor público encargado o por despacho dirigido al Alcalde Judicial de la población o lugar donde residiera, quien la llevará a efecto, de conformidad con los artículos 69 y 70. Si el interesado residiere fuera del Distrito Judicial, pero dentro del Estado, la notificación se hará por medio del exhorto, dirigido a la primera autoridad judicial competente quien en su caso, observará lo dispuesto en la primera parte de este artículo.
+Cuando haya que notificarse por primera vez a una persona residente en otro lugar comprendido dentro del Distrito Judicial en que tiene competencia el Juez que lo manda notificar, la diligencia podrá practicarse por medio del servidor público encargado o por despacho dirigido al Juez Menor de la población o lugar donde residiera, quien la llevará a efecto, de conformidad con los artículos 69 y 70. Si el interesado residiere fuera del Distrito Judicial, pero dentro del Estado, la notificación se hará por medio del exhorto, dirigido a la primera autoridad judicial competente quien en su caso, observará lo dispuesto en la primera parte de este artículo.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
 Cuando la persona que se va a notificar resida fuera del Estado, se hará por medio de exhorto que se enviará a la autoridad judicial competente con residencia en aquel lugar, quien actuará conforme lo ordene su legislación.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+
 Cuando la notificación deba practicarse en el Estado a virtud de exhorto proveniente de otro Estado de la República o del Distrito Federal, la misma se hará conforme a las prescripciones de este Código.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
 Si la notificación debe hacerse en el extranjero, se estará a lo ordenado por el artículo 47 de este Código.
 
@@ -765,11 +777,11 @@ Toda demanda o gestión debe interponerse ante juez competente.
 
 La competencia de los tribunales se determinará por la materia, la cuantía, el grado y el territorio.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
 
 ###### Artículo 100.
 
-Cuando en el lugar donde se inició un juicio o un procedimiento en jurisdicción voluntaria o mixta hubiere varios Jueces competentes, conocerá del negocio aquél a quien se aplique el mismo en los términos que disponga la Ley Orgánica del Poder Judicial del Estado; con excepción del derecho sobre recusación y de la obligación de excusarse; de la acumulación; de la competencia por prevención, para el supuesto de promociones relativas a actos prejudiciales o a interposición de tercerías.
+Cuando en el lugar donde se inició un juicio o un procedimiento en jurisdicción voluntaria o mixta hubiere varios jueces competentes, conocerá del negocio aquél a quién se aplique el mismo en los términos que disponga la Ley Orgánica del Poder Judicial del Estado; con excepción del derecho sobre recusación y de la obligación de excusarse; de la acumulación; de la competencia por prevención, para el supuesto de promociones relativas a actos prejudiciales, diligencias de jurisdicción voluntaria, o a interposición de tercerías.
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
 
@@ -953,9 +965,9 @@ La declinatoria se propondrá ante el juez a quien se considere incompetente pid
 
 En ningún caso se promoverán de oficio las cuestiones de competencia; pero el juez que se estime incompetente puede inhibirse del conocimiento del negocio, siendo apelable en ambos efectos su resolución.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
 
-La inhibitoria se sujetará a lo dispuesto en este Capítulo. La declinatoria se decidirá en vía incidental, estando obligado el Juez de la causa a remitir de inmediato, testimonio de todo lo actuado.
+La inhibitoria se sujetará a lo dispuesto en este capítulo. La declinatoria se decidirá en vía incidental, estando obligado el Juez de la causa a remitir de inmediato, testimonio de todo lo actuado al Tribunal Pleno, el cual previa la tramitación del procedimiento, resolverá lo conducente.
 
 ###### Artículo 120.
 
@@ -975,15 +987,17 @@ Una vez recibidos los autos por dicho tribunal, citará a las partes a una audie
 
 El juez ante quien se promueva la inhibitoria mandará librar oficio requiriendo al juez que estime incompetente para que se abstenga de conocer del negocio y remitirá desde luego las actuaciones respectivas al superior, haciéndolo saber al interesado.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
 
-Luego que el Juez requerido reciba el oficio inhibitorio remitirá, a su vez, los autos originales al superior con citación de las partes..
+Luego que el Juez requerido reciba el oficio inhibitorio remitirá, a su vez, testimonio de los autos al superior con citación de las partes.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
 
-Recibidos los autos en el Tribunal que debe decidir la competencia, citará a las partes a una audiencia verbal en la que se recibirán pruebas y alegatos, y se pronunciará la resolución.
+Recibido el testimonio de los autos en el Tribunal que debe decidir la competencia, citará a las partes a una audiencia verbal en la que se recibirán pruebas y alegatos, y se pronunciará la resolución.
 
-Decidida la competencia enviará los autos al Juez declarado competente, con testimonio de la sentencia, de la cual remitirá otro tanto al Juez contendente.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
+
+Decidida la competencia el Tribunal ordenará que se envíen los autos originales al Juez declarado competente, con testimonio de la sentencia, de la cual remitirá otro tanto al Juez contendiente.
 
 ###### Artículo 123.
 
@@ -4237,11 +4251,11 @@ Lo dispuesto en los artículos anteriores se observará en lo conducente cuando 
 
 Si la demanda fuere obscura o irregular, el juez debe prevenir al actor que la aclare corrija o complete de acuerdo con los artículos anteriores, señalando en concreto sus defectos; hecho lo cual le dará curso.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
 
 ###### Artículo 617.
 
-El demandado acompañará copia del escrito y documentos a que se refiere la fracción IV del Artículo 614, sólo cuando reconvenga y de los en que las partes promueven algún incidente o hagan promociones en las que sea necesario correr traslado.
+El demandado acompañará copia del escrito, documentos y demás elementos a que se refieren las fracciones IV y V del artículo 614, sólo cuando reconvenga y de los en que las partes promueven algún incidente o hagan promociones en las que sea necesario correr traslado.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -4897,7 +4911,7 @@ En el juicio de interdicto de que trata este Capítulo, se oirá al Ministerio P
 
 ### CAPITULO V I. DEL PROCEDIMIENTO ESPECIAL DE LAS CUESTIONES DE ARRENDAMIENTO
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
 
 ### CAPITULO VII
 
@@ -4993,7 +5007,7 @@ DE LA RECTIFICACION Y GRADUACION DE CREDITOS.
 
 ###### Artículo 733.
 
-Todas las controversias que se susciten con motivo de lo dispuesto en el Título Sexto, Parte Segunda, Libro Cuarto, del Código Civil del Estado, se sujetarán al procedimiento que se establece en el presente capítulo.
+Las controversias que se susciten con motivo de lo dispuesto en el Título Sexto, Parte Segunda, Libro Cuarto, del Código Civil del Estado, se sujetarán al procedimiento que se establece en el presente capítulo, a excepción de las previstas en el Título Especial, de la Justicia de Paz, de este ordenamiento en las que se aplicarán las reglas de dicho apartado.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
 
@@ -5073,9 +5087,13 @@ DE LA ADMINISTRACION DEL CONCURSO.
 
 Serán objeto del juicio de menor cuantía:
 
-I.- Los negocios cuyo interés no exceda de ochocientas cincuenta cuotas de salario mínimo general.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DEL 2000)</small>
 
-II.- Los que tengan por objeto el ejercicio de acciones derivadas de actos o contratos en que se pacten prestaciones o pensiones periódicas, cuyo monto anual no exceda de quinientas cincuenta cuotas de salario mínimo general.
+I.- Los negocios cuyo interés no exceda de mil quinientas cuotas de salario mínimo general.
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DEL 2000)</small>
+
+II.- Los que tengan por objeto el ejercicio de acciones derivadas de actos o contratos en que se pacten prestaciones o pensiones periódicas, cuyo monto anual no exceda de mil quinientas cuotas de salario mínimo general.
 
 En los casos en que se demande solamente el pago o cumplimiento de las prestaciones adeudadas, o del capital o gravamen por lo que éstas se adeuden, se estará a lo dispuesto por la fracción I de este artículo.
 
@@ -5087,19 +5105,21 @@ Para determinar la cuantía de las cuotas del salario mínimo general, se entend
 
 Para determinar la cuantía de los negocios a que se refiere la fracción I del Artículo anterior, se observará lo dispuesto en la primera parte del Artículo 112.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
+
 ###### Artículo 745.
 
-Si al entablarse demanda ante un alcalde judicial se opusieren excepciones que fueren materia de juicio de distinta tramitación o de distinta competencia se adoptará la forma de tramitación que corresponda según la naturaleza de la excepción o se remitirán las diligencias al juez competente para que conozca de ambas pretensiones al mismo tiempo. Si hubiere varios jueces competentes para conocer será preferido el que elija la parte que opuso la excepción.
+Si al entablarse la demanda ante un Juez Menor se opusieren excepciones que fueren materia de juicio de distinta tramitación o de distinta competencia, se adoptará la forma de tramitación que corresponda según la naturaleza de la excepción o se remitirán las diligencias al Juez competente para que conozca de ambas pretensiones al mismo tiempo. Si hubiere varios jueces competentes para conocer será preferido el que elija la parte que opuso la excepción.
 
 ###### Artículo 746.
 
 Los juicios de menor cuantía se ventilarán con el procedimiento y términos de los de mayor cuantía, salvo los casos expresamente determinados por la Ley.
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
 
-###### ARTICULO 747.
+###### Artículo 747.
 
-De los negocios señalados en el Artículo 743, conocerán los Alcaldes Judiciales de los Municipios mencionados en la fracción II del Artículo 55 de la Ley Orgánica del Poder Judicial. Fuera de estos casos, dichos negocios serán conocidos por los Jueces de Primera Instancia del Distrito Judicial correspondiente.
+De los negocios señalados en el artículo 743, conocerán los Jueces Menores a que se refiere el artículo 49 de la Ley Orgánica del Poder Judicial. Fuera de estos casos, dichos negocios serán conocidos por los Jueces de Primera Instancia del distrito judicial correspondiente.
 
 ###### Artículo 748.
 
@@ -6651,23 +6671,27 @@ En el caso del primer párrafo del Artículo 135 del Código Civil, el procedimi
 
 Exclusivamente para los efectos de los párrafos segundo y tercero del artículo 135 del Código Civil, se estará a las siguientes reglas:
 
-I.- Por lo que toca al territorio comprensivo de los Distritos Judiciales Primero, Segundo, Tercero y Cuarto, las solicitudes o demandas se promoverán directamente ante la Sala de lo Familiar del Tribunal Superior de Justicia, con las formalidades y requisitos fijados en los artículos 612 y 614 de este Código.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DEL 2000)</small>
 
-En caso de que los interesados presentaran las solicitudes o demandas en la Oficialía de Partes o cualquiera de los Juzgados de los otros Distritos señalados en el párrafo anterior, las mismas deberán recibirse por los Titulares de dichos organismos y ponerlas de inmediato a disposición de la Sala de lo Familiar, instruyendo a los promoventes para que en lo sucesivo comparezcan ante ésta.
+I.- Las solicitudes o demandas se promoverán ante el Juez de lo Familiar o Mixto de Primera Instancia, en su caso, cumpliéndose con las formalidades y requisitos fijados en los artículos 612 y 614 de este Código.
 
-II.- En los demás Distritos Judiciales las solicitudes o demandas, con las mismas formalidades y requisitos ya mencionados, se dirigirán a la Sala Familiar por conducto de los Jueces de la cabecera de dichos Distritos, quienes en auxilio de aquélla recabarán el informe a que se alude en la fracción siguiente, juntamente con el cual las turnarán a la referida Sala el primer día hábil de cada semana.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DEL 2000)</small>
 
-III.- En los supuestos de la fracción I de este artículo, de inmediato la Sala requerirá al Oficial del Registro Civil que corresponda, para que dentro de cuarenta y ocho horas informe respecto a la solicitud o demanda planteada.
+II.- Radicada la solicitud o demanda se correrá traslado y se emplazará de oficio al Oficial del Registro Civil que corresponda, así como a quien resulte con interés jurídico, a fin de que en el plazo de tres días se conteste respecto a la misma.
 
-Recibido el informe la Sala dictará la resolución sobre la solicitud o demanda promovida, la que se comunicará sin demora al Oficial del Registro Civil para que se cumpla con lo dispuesto en el artículo 138 del Código Civil.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DEL 2000)</small>
 
-La Sala siempre podrá requerir al interesado de la presentación de documentos distintos a los exhibidos, para apoyar su resolución.
+III.- Transcurrido dicho plazo con o sin contestación, el Juzgado dictará la sentencia sobre la solicitud o demanda promovida.
 
-Cuando los interesados necesiten rendir alguna otra prueba de las señaladas en la Ley, su desahogo se encomendará a cualquiera de los Jueces Familiares del Primer Distrito Judicial o a aquél ante quien se haya presentado la solicitud o demanda, enviándoles, en su caso, los interrogatorios debidamente calificados, debiéndose observar los plazos a que se refiere el párrafo siguiente.
+El juzgado siempre podrá requerir al interesado de la presentación de documentos distintos a los exhibidos, para apoyar su resolución.
 
-La resolución de la Sala se pronunciará en un plazo que nunca excederá de cinco días hábiles a contar del siguiente al en que se reciba el informe del Oficial del Registro Civil excepto en los casos del párrafo que antecede en que contará con un período no mayor de quince días hábiles, tanto para la recepción de las pruebas como para pronunciar la resolución.
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DEL 2000)</small>
 
-Contra la resolución de la Sala no procederá recurso alguno.
+IV.- Cuando los interesados necesiten rendir pruebas, deberán anunciarlas en la solicitud o demanda o su contestación. Evacuado el traslado o transcurrido el término, el Juez dictará resolución en la que admitirá o desechará las pruebas que los interesados hubieren anunciado y los citará a una audiencia que se desahogará dentro de cinco días, en la que se recibirán las pruebas que se hubieren admitido, se oirán los alegatos que formulen y acto continuo quedará el asunto para sentencia que deberá pronunciarse dentro de los cinco días siguientes.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DEL 2000)</small>
+
+V.- La sentencia a que se alude en las fracciones III y IV de este precepto, admite el recurso de apelación en el efecto devolutivo y, una vez que cause formalmente ejecutoria la sentencia que declare procedente la solicitud o demanda, se comunicará sin demora al Oficial del Registro Civil para que se cumpla con lo dispuesto en el artículo 138 del Código Civil.
 
 > <small>(ADICIONADO CON SUS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -7013,15 +7037,17 @@ DE LA JUSTICIA DE PAZ
 
 DEL JUICIO
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
+
 ###### Artículo 1.
 
-Los alcaldes judiciales a que se refiere al artículo 94 de la Constitución Política del Estado, a quienes también se les denomina jueces menores, tendrán competencia para conocer de los negocios que se mencionan en este Título.
+Los Jueces Menores a que se refiere el artículo 94 de la Constitución Política del Estado, también tendrán competencia para conocer de los negocios que se mencionan en este Título.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DEL 2000)</small>
 
 ###### Artículo 2.
 
-Conocerán los Alcaldes Judiciales de los juicios cuya cuantía no excede de veinticinco cuotas diarias del salario mínimo general, entendiéndose por éste, el más bajo de los diversos que puedan regir la Entidad.
+Conocerán los Jueces Menores de los juicios cuya cuantía no exceda de ciento cincuenta cuotas diarias del salario mínimo general, entendiéndose por éste, el más bajo de los diversos que puedan regir en la entidad.
 
 Para estimar el interés del negocio se atenderá a lo que el actor demande. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda aún cuando se reclamen en ella.
 
@@ -7297,7 +7323,7 @@ P.O. 24 DE AGOSTO DE 1977.
 
 PRIMERO.- Las presentes reformas entrarán en vigor el día primero de diciembre del presente año.
 
-SEGUNDO.-Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
+SEGUNDO.- Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
 
 a).- Cada juzgado formulará el inventario de los citados asuntos.
 
@@ -7401,17 +7427,17 @@ DECRETO NUM. 240, QUE REFORMA EL ARTICULO 935.
 
 UNICO:- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 25 DE FEBRERO DE 1985.
-
-###### ARTICULO UNICO
-
-- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
-
 P.O. 21 DE ENERO DE 1987.
 
 ###### ARTICULO UNICO
 
 - Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE FEBRERO DE 1985.
+
+###### ARTICULO UNICO
+
+- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 2 DE AGOSTO DE 1991.
 
@@ -7506,3 +7532,7 @@ El presente Decreto entrará en vigor a partir del día siguiente al de su publi
 P.O. 3 DE ENERO DEL 2000.
 
 Único.- El presente Decreto entrará en vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DEL 2000.
+
+Único.- El presente Decreto iniciará su vigencia al día siguiente a aquél en que surta efectos la reforma presentada el 21 de febrero del año 2000 a los artículos 3 fracciones II, III y IX; 5, 7, 26 fracción III; 28 fracciones II y III; 33, 35 fracción V; 49, 50, 51 fracción III; 52, 91, 115 fracción III y último párrafo; 125, 129, 130 párrafo tercero; 131 fracciones I a IV; 136, fracciones XII y XIII, 142, 145, 146 y 150 de la Ley Orgánica del Poder Judicial del Estado de Nuevo León.
