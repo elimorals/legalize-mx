@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1974-12-20"
+last_updated: "1974-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -107,17 +107,31 @@ No se considerarán instituciones de seguros sujetas a la presente ley, las asoc
 
 Para que las sucursales de compañías extranjeras de seguros puedan operar en el país, deberán satisfacer los siguientes requisitos:
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
 I.- Cumplir con los preceptos sobre sociedades extranjeras contenidos en la Ley General de Sociedades Mercantiles.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 II.- Obtener la autorización del Gobierno Federal a que se refieren los artículos 1o. y 11, conforme a lo dispuesto en el artículo 12, para lo cual deberán demostrar que tienen cinco años de funcionamiento normal y que se encuentran habilitadas para operar de acuerdo con las leyes de su país de origen.
 
-Los apoderados residentes en la República deberán estar autorizados para representar a la sociedad sin limitación de facultades y para realizar todos los actos de un apoderado general, en los términos de los tres primeros párrafos del artículo 2554 del Código Civil del Distrito y Territorios Federales. Las sociedades extranjeras no podrán repartir en caso alguno a sus asegurados en México, dividendos que no provengan de las utilidades que obtengan por las operaciones que efectúen en el país, y deberán sujetarse a las disposiciones de esta ley que les sean aplicables, respecto a distribución de utilidades.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+Los apoderados residentes en la República deberán estar autorizados para representar a la sociedad sin limitación de facultades y para realizar todos los actos de un apoderado general, en los términos de los tres primeros párrafos del artículo 2554 del Código Civil del Distrito Federal.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+Las sociedades extranjeras no podrán repartir en caso alguno a sus asegurados en México, dividendos que no provengan de las utilidades que obtengan por las operaciones que efectúen en el país, y deberán sujetarse a las disposiciones de esta ley que les sean aplicables, respecto a distribución de utilidades.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 Deberán llevar, en su domicilio social en la República, los libros exigidos para todo comerciante y, además, los auxiliares de registro indispensables, debiendo conservar copia de las pólizas expedidas en el país y todos los documentos relacionados con su negocio, a fin de que la Secretaría pueda mantener un completo control en las inspecciones que se practiquen y sobre los informes que suministren.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
 Las instituciones extranjeras autorizadas para operar en el país no podrán expedir pólizas de seguros sino por conducto de su sucursal respectiva.
 
-> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
 III.- Afectar a sus operaciones en la República el capital mínimo que les fije la Secretaría de Hacienda y Crédito Público en los términos del artículo 20. Las sucursales de compañías extranjeras deberán constituir e invertir en los términos de esta Ley su capital, reservas de capital, utilidades no distribuídas y reservas técnicas y deberán mantener siempre en disponibilidad, dentro de la República, en los términos que esta Ley establece, todos los bienes, títulos, créditos o valores afectos a estos renglones.
 
@@ -129,11 +143,13 @@ Las instituciones de seguros extranjeras sólo podrán publicar los datos de con
 
 El uso de las palabras "seguro," "reaseguro," "aseguramiento" u otras similares en cualquier idioma, en la denominación de un establecimiento o de una sociedad, se reserva exclusivamente a las instituciones de seguros. Las sucursales de instituciones de seguros del extranjero autorizadas para operar en México podrán usar en su denominación esos términos, agregando la palabra "sucursal," con indicación del lugar en que operen. El Registro Público de Comercio no inscribirá escrituras públicas de sociedades en cuya denominación se empleen dichas palabras o sus equivalentes, en español o en cualquier otro idioma, sino cuando la escritura aparezcan insertos los documentos oficiales que comprueben la existencia de la autorización otorgada por la Secretaría de Hacienda. El uso ilegal de dichas palabras u otras equivalentes, en español o en cualquier otro idioma, se castigará por la Secretaría de Hacienda y Crédito con multa de $500.00 a $1,000.00 a cada uno de los gerentes, directores o miembros del Consejo de Administración del establecimiento o sociedad correspondiente, y la negociación respectiva será clausurada administrativamente por la Secretaría de Hacienda y Crédito Público, hasta que su denominación sea cambiada.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1947)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 8°.
 
-Los Poderes de la Federación y de los Estados, los gobiernos del Distrito y de los Territorios federales, los municipios, los establecimientos descentralizados, las sociedades de economía mixta y las comisiones autónomas deberán celebrar sus contratos de seguro, indistintamente con las instituciones nacionales o mexicanas de seguros y, en su defecto, con las sucursales de empresas extranjeras autorizadas para operar en el país, salvo disposición contraria de la Ley del Seguro Social.
+Los Poderes de la Federación y de los Estados, el gobierno del Distrito Federal, los municipios, los establecimientos descentralizados, las sociedades de economía mixta y las comisiones autónomas deberán celebrar sus contratos de seguro, indistintamente con las instituciones nacionales o mexicanas de seguros y, en su defecto, con las sucursales de empresas extranjeras autorizadas para operar en el país salvo disposición contraria de la Ley del Seguro Social.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1947)</small>
 
 Los seguros a que se refiere este artículo se contratarán exclusivamente con la mediación del organismo que para este objeto establezca la Secretaría de Hacienda y Crédito Público.
 
@@ -2360,3 +2376,9 @@ ARTICULO DECIMOQUINTO.- Se derogan todas las disposiciones que se opongan a la r
 D.O.F. 20 DE DICIEMBRE DE 1974.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 23 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
