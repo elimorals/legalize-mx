@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-chihuahuense-de-salud-11963"
 country: "mx"
 rank: "ley"
 publication_date: "1987-09-16"
-last_updated: "1987-09-16"
+last_updated: "2003-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 16 de septiembre de 1987.
 
@@ -67,6 +67,10 @@ VIII.- Coordinarse, contratar, acordar y convenir con las dependencias y entidad
 
 IX.- En general, realizar todas las actividades encaminadas directa o indirectamente al cumplimiento de los fines indicados.
 
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+X.- Promover sistemas académicos y de investigación, en beneficio de los docentes y educandos, de las instituciones educativas en el Estado de Chihuahua.
+
 ###### Artículo 4.
 
 El Patrimonio del Organismo se constituirá:
@@ -101,7 +105,9 @@ V.- Por el Director General de Finanzas; y (sic)
 
 VI.- Por el Coordinador de Planeación y Evaluación;
 
-VII.- Por un representante de las dependencias y organismos del Gobierno Federal y Municipal, centralizados y paraestatales, relacionados con el ramo, a invitación de la Presidencia.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+VII.- Por un representante de las dependencias y organismos del Gobierno Federal y Municipal, centralizados y paraestatales, relacionados con el ramo, así como dos académicos en el área de medicina, de cualquier Universidad del Estado, a invitación de la Presidencia.
 
 Los miembros del Consejo designarán a sus suplentes.
 
@@ -117,7 +123,9 @@ II.- Aprobar los programas de trabajo;
 
 III.- Examinar y en su caso, aprobar el presupuesto, estados financieros y balances anuales;
 
-IV.- Dictar las normas generales y establecer los criterios que deban orientar las actividades del Instituto;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+IV.- Dictar las normas generales y establecer los criterios que deban orientar las actividades del Instituto, incluyendo las correspondientes a las áreas académicas y de investigación;
 
 V.- Procurar el incremento del patrimonio del Instituto y establecer las normas para el otorgamiento de subsidios;
 
@@ -125,7 +133,13 @@ VI.- Solicitar la asesoría de organismo (sic) funciones se relacionen con el ob
 
 VII.- Aprobar los informes del Director General; y
 
-VIII.- Las demás que deriven de las anteriores y sean materia del Consejo.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+VIII.- Celebrar convenios de colaboración con las Universidades e Instituciones académicas en el Estado para el desarrollo de las actividades docentes y de investigación, en las áreas de medicina, dentro de los hospitales y unidades médicas a cargo del Instituto; y,
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+IX.- Las demás que deriven de las anteriores y sean materia del Consejo.
 
 ###### Artículo 8.
 
@@ -228,3 +242,9 @@ LIC. FERNANDO BAEZA MELENDEZ.
 EL SECRETARIO DE GOBIERNO
 
 LIC. MARTHA I. LARA ALATORRE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
