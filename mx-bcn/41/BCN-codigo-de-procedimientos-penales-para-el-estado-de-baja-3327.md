@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1992-09-20"
+last_updated: "1992-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 1992.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo día 20 de agosto de 1989.
 
@@ -491,7 +491,7 @@ Firma de las resoluciones.- Las resoluciones judiciales se dictarán por el Juzg
 
 ###### Artículo 62.
 
-Requisitos de validez de las resoluciones del Tribunal.- Para la validez de las sentencias y de los autos dictados por el Tribunal Superior de Justicia o por una Sala, se requerirá cuando menos, el voto de la mayoría de sus miembros. Cuando alguno de los componentes del Tribunal o Sala no estuviere conforme con la resolución de la mayoría expresará suscintamente las razones de su inconformidad en voto particular, que se agregará al expediente.
+Requisitos de validez de las resoluciones del Tribunal.- Para la validez de las sentencias y de los autos dictados por el Tribunal Superior de Justicia o por una Sala, se requerirá cuando menos, el voto de la mayoría de sus miembros. Cuando alguno de los componentes del Tribunal o Sala no estuviere conforme con la resolución de la mayoría expresará sucintamente las razones de su inconformidad en voto particular, que se agregará al expediente.
 
 ###### Artículo 63.
 
@@ -1217,9 +1217,13 @@ Plazo para rendir dictamen.- El funcionario que practique las diligencias fijar�
 
 Si a pesar de haber sido apremiado el perito no cumple con las obligaciones señaladas en el párrafo anterior, se denunciará su conducta ante el Ministerio Público.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE OCTUBRE DE 1992)</small>
+
 ###### Artículo 176.
 
-Médicos en los hospitales públicos.- Cuando se trate de una lesión proveniente del delito y el lesionado se encuentre en algún hospital público, los médicos de éste se tendrán por nombrados como peritos, sin perjuicio de que el funcionario que practique las diligencias nombre, además, otros, si lo creyere conveniente, para que dictaminen y hagan la clasificación legal.
+Médicos en Hospitales Públicos.- Cuando se trate de una lesión proveniente del delito y el lesionado se encuentre en algún hospital público, los médicos de éste se tendrán por nombrados como peritos, sin perjuicio de que el funcionario que practique las diligencias nombre, además, otros, si lo creyere conveniente, para que dictaminen y hagan la clasificación legal.
+
+La exploración médica que se realice a un menor víctima de algún delito contra la libertad y seguridad sexual, se practicará por un médico pediatra o especializado en abuso sexual infantil.
 
 ###### Artículo 177.
 
@@ -1400,6 +1404,10 @@ El careo se practicará dando lectura a las declaraciones que se reputen contrad
 ###### Artículo 208.
 
 Imposibilidad de practicar el careo.- Cuando agotados los medios de apremio no pudiere obtenerse la comparecencia de alguna de las personas que deba ser careada, el Juzgador ordenará al secretario que levante una certificación de este hecho, y practicará careo supletorio, leyéndose al presente la declaración del otro haciéndole notar las contradicciones que hubiere entre aquella y lo declarado por él.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+Tratándose de menores víctimas de delitos contra la libertad y seguridad sexual, no será permitido practicar careo entre el ofendido y el ofensor.
 
 ### CAPITULO VIII. DOCUMENTOS
 
@@ -2864,3 +2872,7 @@ P.O. 20 DE SEPTIEMBRE DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo Informativo del Gobierno del Estado.
+
+P.O. 10 DE OCTUBRE DE 1992.
+
+UNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
