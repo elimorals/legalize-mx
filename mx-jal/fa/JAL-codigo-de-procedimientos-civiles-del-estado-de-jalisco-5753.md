@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "1971-05-25"
+last_updated: "1973-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 1973.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -1078,7 +1078,7 @@ En ningún caso se promoverán de oficio las cuestiones de competencia, pero el 
 
 ###### ARTICULO 169.
 
-Si por los documentos que se hubieren presentado o por otras constancias de autos, apareciere que el litigante que promueve la inhibitoria o la declaratoria, se ha sometido a la jurisdicción del tribunal que conoce del negocio, se desechará de plano, continuando su curso el juicio.
+Si por los documentos que se hubieren presentado o por otras constancias de autos, apareciere que el litigante que promueve la inhibitoria o la declaratoria (sic) se ha sometido a la jurisdicción del tribunal que conoce del negocio, se desechará de plano, continuando su curso el juicio.
 
 También se desechará de plano cualquiera competencia promovida que no tenga por objeto decidir cuál haya de ser el juez o tribunal que deba conocer de un asunto.
 
@@ -4470,6 +4470,8 @@ Cuando la sentencia decrete la demolición de la obra peligrosa, el Juez dispond
 
 De la Modificación de las Actas del Estado Civil.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE MARZO DE 1973)</small>
+
 ## TITULO DECIMO TERCERO.
 
 De La Jurisdicción Voluntaria.
@@ -4678,7 +4680,9 @@ Disposiciones Generales.
 
 ###### ARTICULO 758.
 
-Los juicios sobre nulificación, convalidación, reposición o rectificación de las actas del Registro Civil, se tramitarán conforme a las reglas de los ordinarios y a las especiales siguientes.
+Los interesados que se encuentre en el supuesto previsto por la parte final del artículo 123 del Código Civil, presentarán ante el Juez que corresponda su solicitud acompañada de la copia certificada del acta en la que se pretenda hacer alguna testadura. El Juez examinará la solicitud y, si la encuentra procedente, ordenará, sin más trámite, que se testen las menciones prohibidas, tanto en el libro original como en el duplicado, girando, para esos efectos, sendos oficios al Oficial del Registro Civil y al Titular del Archivo General del Estado.
+
+Los juicios sobre nulificación, convalidación, reposición o rectificación de las actas del Registro Civil, se tramitarán conforme a las reglas de los ordinarios, y a las especiales siguientes.
 
 ###### ARTICULO 759.
 
@@ -6763,3 +6767,7 @@ SEGUNDO.- Los juicios cuya demanda haya sido admitida con anterioridad a la vige
 P.O. 25 DE MAYO DE 1971.
 
 UNICO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 15 DE MARZO DE 1973.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
