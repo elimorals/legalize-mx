@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1997-04-19"
+last_updated: "1997-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 1997.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4449,29 +4449,49 @@ II.- Vote más de una vez en una misma elección;
 
 III.- Vote con una credencial de la que no sea titular;
 
-IV.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
 
-V.- Se apodere o destruya una o varias urnas de votación, obstaculice o Interfiera el desarrollo normal de las votaciones, del escrutinio o del cómputo;
+IV.- Haga proselitismo o presione de cualquier manera a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes, con el fin de orientar el sentido de su voto;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+V.- Se apodere o destruya una o varias urnas de votación, obstaculice o Interfiera dolosamente el desarrollo normal de las votaciones, el escrutinio y cómputo, el traslado y entrega de los paquetes y documentación electoral, o el adecuado ejercicio de las tareas de los funcionarios electores;
 
 VI.- Recoja sin causa prevista por la Ley, una o varias credenciales de elector de los ciudadanos, antes o después de emitir su voto;
 
-VII.- Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+VII.- Solicite votos por paga, dádiva, promesa de dinero u otra recompensa durante las campañas electorales o la jornada electoral;
 
 VIII.- Viole de cualquier manera el secreto del voto;
 
 IX.- Organice, el día de la elección, la reunión y traslado de electores con el objeto de llevarlos a votar y de violar la libertad y el secreto del voto;
 
-X.- Introduzca o substraiga de las urnas ilícitamente una o más boletas electorales, destruya o altere boletas o documentos electorales;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+X.- Introduzca o sustraiga de las urnas ilícitamente una o más boletas electorales, o se apodere, destruya o altere boletas, documentos o materiales electorales;
 
 XI.- Se apodere, destruya o deteriore ilegítimamente propaganda o documentación relativa a un partido político o candidato durante el proceso electoral;
 
-XII.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
 
-XIII.- Impida en forma violenta la instalación de una casilla;
+XII.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa de paga o dádiva;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+XIII.- Impida en forma violenta la instalación de una casilla, o asuma dolosamente cualquier conducta que tenga como finalidad impedir la instalación de la casilla;
 
 XIV.- Por cualquier medio obstaculice o impida la realización de los cómputos electorales posteriores a la jornada electoral; y
 
 XV.- Se posesione de oficinas de los órganos electorales o retenga una o varias personas, con el fin de obligar a la autoridad electoral, a que realice o deje de realizar un acto de su competencia.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+XVI.- Durante los ocho días previos a la elección y hasta la hora oficial del cierre de las casillas, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias de los ciudadanos; y
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+XVII.- Solicite y retenga durante la campaña electoral una o varias credenciales de elector con motivo no lícito.
 
 > <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
 
@@ -4511,9 +4531,13 @@ II.- Se abstenga de cumplir sin causa justificada con sus obligaciones electoral
 
 III.- Obstruya el desarrollo normal de la votación sin mediar causa justificada;
 
-IV.- Altere los resultados electorales, o substraiga, destruya boletas o documentos electorales, sin causa justificada;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
 
-V.- No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada;
+IV.- Altere los resultados electorales, sustraiga o destruya boletas, documentos, o materiales electorales, sin mediar causa justificada;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+V.- No entregue o impida la entrega oportuna de documentos o materiales electorales, sin mediar causa justificada;
 
 VI.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 
@@ -4527,7 +4551,9 @@ X.- No admita la solicitud de inscripción de alguna persona o se niegue a inscr
 
 XI.- No proporcione oportunamente la documentación electoral correspondiente a los presidentes de las mesas directivas de casillas, a no ser que medie causa justificada;
 
-XII.- Expulse de la casilla electoral sin causa justificada a representante de un partido político o coarte los derechos que la Ley le concede;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+XII.- Sin causa prevista por la Ley, expulse u ordene el retiro de la casilla electoral de representantes de un partido político, o coarte los derechos que la ley les concede;
 
 XIII.- Conociendo la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto, no tome las medidas conducentes para que cesen;
 
@@ -4545,7 +4571,9 @@ XVII.- Propague dolosamente noticias falsas en torno al desarrollo de la jornada
 
 I.- Obligue a sus subordinados a emitir sus votos a favor de un partido político o candidato.
 
-II.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio en favor de un partido político o candidato;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+II.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas en el ámbito de su competencia, a la emisión del sufragio en favor de un partido político o candidato;
 
 III.- Prive de la libertad a los candidatos, a los representantes de los partidos políticos o a los funcionarios electorales, bajo pretexto de comisión de delitos o faltas administrativas inexistentes y sin existir orden de detención o de aprehensión para ello; y
 
@@ -4584,6 +4612,10 @@ II.- Funcionarios partidistas: Los dirigentes de los partidos políticos, sus ca
 III.- Servidores públicos: son los representantes de elección popular, los miembros del Poder Judicial, los funcionarios y empleados y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, en los organismos descentralizados, empresas de participación estatal, sociedades y asociaciones asimiladas a éstas, o en fideicomisos de participación estatal o municipal; y
 
 IV.- Documentos electorales: boletas para votar, las actas oficiales de la jornada electoral, actas de escrutinio y cómputo de las mesas directivas de casilla y de los cómputos distritales o municipales; en general, los documentos expedidos en el ejercicio de sus funciones por los órganos del Instituto Estatal Electoral.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+V.- Materiales electorales: los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadores de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
 
 > <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
 
@@ -4738,6 +4770,12 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 19 DE ABRIL DE 1997.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE OCTUBRE DE 1997.
+
+PRIMERO.- El presente Decreto entrara en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se Derogan las disposiciones que se opongan a la aplicación del presente Decreto.
 
 ###### Artículo 10.
 
