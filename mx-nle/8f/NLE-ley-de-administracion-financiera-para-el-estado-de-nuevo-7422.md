@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-administracion-financiera-para-el-estado-de-nuevo-7422"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-18"
-last_updated: "1996-01-26"
+last_updated: "1996-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ADMINISTRACION FINANCIERA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 18 de noviembre de 1994.
 
@@ -1173,6 +1173,14 @@ Las dependencias del Gobierno del Estado, así como los Municipios, las entidade
 
 La Secretaría de Finanzas y Tesorería General del Estado llevará el registro de las obligaciones financieras, directa o contingentes, derivadas del crédito público, a cargo de las entidades a que se refiere el artículo 124, en el que se anotarán el monto, características y destino de los recursos captados en su forma particular y global, así como las autorizaciones otorgadas para su contratación.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 1996)</small>
+
+###### ARTICULO 141 Bis.
+
+La Secretaría de Finanzas y Tesorería General del Estado llevará el registro de obligaciones y empréstitos del Gobierno del Estado y de los Municipios de la entidad, garantizados con participaciones que de ingresos federales le correspondan al Estado o a los municipios.
+
+La información sobre el registro mencionado en el párrafo anterior será publicada en forma trimestral por la Secretaría de Finanzas y Tesorería General del Estado en el Periódico Oficial del Estado.
+
 ###### ARTICULO 142.
 
 Los titulares de las entidades del Gobierno del Estado, así como los representantes de las personas físicas o morales públicas o privadas, respecto de las cuales el Estado haya otorgado su aval, están obligados a comunicar a la Secretaría de Finanzas y Tesorería General del Estado la información relativa a los créditos contratados, así como de los movimientos que en éstos se efectúen.
@@ -1291,6 +1299,12 @@ Los recursos que el Estado reciba en administración se ejercerán conforme a la
 
 En el registro contable de estos recursos y en la elaboración y rendición de los informes previstos en esta Ley, se hará constar la naturaleza de los recursos, la identificación genérica o individual de sus titulares y el concepto por el cual el Estado los ejerce, custodia o administra.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 1996)</small>
+
+###### ARTICULO 161 Bis.
+
+El Ejecutivo del Estado y los municipios, en el ámbito de sus respectivas competencias, podrán celebrar convenios, contratos, fideicomisos de fuente alterna de pago, mandatos o cualquier otro acto jurídico, para mediante los ingresos derivados de participaciones federales, garantizar el cumplimiento de las obligaciones y empréstitos a que se refiere el Artículo 141 Bis.
+
 ###### ARTICULO 162.
 
 En los casos en que se dicte sentencia emitida por autoridad jurisdiccional competente, en la que se determine una obligación de pago a cargo del Estado, deberá hacerse con cargo a las partidas de gastos generales, extraordinarios o sus equivalentes. De no haber fondos disponibles de inmediato, las erogaciones se efectuarán en el transcurso del año, en la medida en que sea factible. Si se estima que al finalizar el ejercicio las cantidades por estos conceptos a cargo del Estado no han sido cubiertas en su totalidad, en la Ley de Egresos del año siguiente se incluirá su pago en la partida correspondiente, en la medida de las posibilidades financieras del Estado, conservando en todo caso la estructura y el equilibrio presupuestal.
@@ -1400,3 +1414,7 @@ P.O. 7 DE JULIO DE 1995.
 P.O. 26 DE ENERO DE 1996.
 
 Unico:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE JUNIO DE 1996.
+
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
