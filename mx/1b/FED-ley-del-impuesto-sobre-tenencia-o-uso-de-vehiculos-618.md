@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-tenencia-o-uso-de-vehiculos-618"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1980-12-30"
+last_updated: "1981-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=618&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1980-12-19"
 
 LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1981.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 30 de diciembre de 1980.
 
@@ -57,6 +57,10 @@ Por el segundo y siguientes años a aquel en que se efectuaron las enajenaciones
 
 Para los efectos de esta Ley, también se consideran automóviles, a los omnibuses, camiones y tractores no agrícolas tipo quinta rueda.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
+En el caso de vehículos de años modelo o de años de fabricación anteriores al de aplicación de esta Ley, el impuesto será la cantidad que resulte de aplicar lo dispuesto en los artículos 5o., 12, 13 y 14 de esta Ley, según corresponda, disminuida en 10% por cada año de antigüedad del vehículo. En caso de que no pueda comprobarse los años de antigüedad del vehículo, el impuesto se pagará sin hacer las disminuciones a que se refiere el párrafo anterior.
+
 ###### ARTICULO 2o.
 
 La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, deberán pagar el impuesto que establece esta Ley, con las excepciones que en la misma se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos federales o estén exentos de ellos.
@@ -81,65 +85,59 @@ En caso de no fijarse la calcomanía en la forma que se señala en el párrafo a
 
 ### CAPITULO II. Automóviles
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 5o.
 
-Tratándose de automóviles, omnibuses, camiones y tractores no agrícolas tipo quinta rueda, el impuesto se calculará conforme a la siguiente:
-
-TARIFA
+Tratándose de automóviles, omnibuses, camiones y tractores no agrícolas, tipo quinta rueda, el impuesto se calculará como a continuación se indica:
 
 A.- Vehículos destinados al transporte hasta de diez pasajeros:
 
-I.- De fabricación nacional o importados iguales a los de fabricación nacional, aun cuando en el extranjero tengan una denominación comercial diferente:
+I.- Tratándose de vehículos del año modelo al de aplicación de la Ley, de fabricación de la Ley, de fabricación nacional o importados iguales a los de fabricación nacional, aun cuando en el extranjero tengan una denominación comercial diferente, el impuesto será la cantidad que resulte de multiplicar el factor que corresponda a la unidad determinado conforme al artículo 6o. de esta Ley, por la cantidad que anualmente establezca el Congreso de la Unión.
 
-(VEASE TABLA)
+II.- Por lo que se refiere a vehículos importados a las zonas libres y a la franja fronteriza del norte del país, de circulación restringida a esas regiones, diferentes a los de fabricación nacional, el impuesto será la cantidad que resulte de multiplicar el monto que anualmente establezca el Congreso de la Unión, por el factor que a continuación se señala:
+
+Categoría Factor
+
+PRIMERA 8
+
+SEGUNDA 11
+
+TERCERA 22
+
+III.- Para vehículos importados al país de circulación no restringida, diferentes a los de fabricación nacional, el impuesto será la cantidad que resulte de multiplicar el factor de 50, por la cantidad que anualmente establezca el Congreso de la Unión.
+
+B.- Para vehículos destinados al transporte de más de diez pasajeros o de efectos, el impuesto será la cantidad que resulte de multiplicar el factor que a continuación se señala por la cantidad que anualmente establezca el Congreso de la Unión:
+
+Categoría Factor
+
+"A" 0.8
+
+"B" 1.0
+
+"C" 1.2
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 6o.
 
-Para la aplicación de la tarifa a que se refiere el artículo anterior, se tomará en cuenta la siguiente clasificación:
+Para la aplicación de los (sic) dispuesto en el artículo anterior, se tomará en cuenta lo siguiente:
 
 A.- Vehículos destinados al transporte hasta de diez pasajeros:
 
-I.- De fabricación nacional o importados iguales a los de fabricación nacional, aún cuando en el extranjero tengan una denominación comercial diferente.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
-CATEGORIA
+I.- De fabricación nacional o importados iguales a los de fabricación nacional, aun cuando en el extranjero tengan una denominación comercial diferente:
 
-Primera Automóviles cuyo factor es Hasta 1.0
+a).- El factor de los automóviles se determina multiplicando el desplazamiento del motor, medido en litros, por el peso del automóvil medido en toneladas.
 
-Segunda Automóviles cuyo factor es mayor de 1.0 y hasta 2.0
+b).- El desplazamiento del motor es el volumen desalojado por todos los pistones durante una revolución del cigüeñal.
 
-Tercera Automóviles cuyo factor es mayor de 2.0 y hasta 3.0
+c).- El peso del automóvil se compone del peso de la unidad austera y el de su combustible, lubricante y refrigerante a la máxima capacidad de los depósitos del vehículo.
 
-Cuarta Automóviles cuyo factor es mayor de 3.0 y hasta 4.0
+d).- Por unidad austera se entiende el automóvil que no incluye equipo opcional común o de lujo.
 
-Quinta Automóviles cuyo factor es mayor de 4.0 y hasta 5.0
-
-Sexta Automóviles cuyo factor es mayor de 5.0 y hasta 6.0
-
-Séptima Automóviles cuyo factor es mayor de 6.0 y hasta 7.0
-
-Octava Automóviles cuyo factor es mayor de 7.0 y hasta 8.0
-
-Novena Automóviles cuyo factor es mayor de 8.0 y hasta 9.0
-
-Décima Automóviles cuyo factor es mayor de 9.0 y hasta 10.0
-
-Décima Primera Automóviles cuyo factor es mayor de 10.0 y hasta 11.0
-
-Décima Segunda Automóviles cuyo factor es mayor de 11.0 y hasta 12.0
-
-Décima Tercera Automóviles cuyo factor es mayor de 12.0 y hasta 13.0
-
-Décima Cuarta Automóviles cuyo factor es mayor de 13.0
-
-El factor de los automóviles se determina multiplicando el desplazamiento del motor, medido en litros, por el peso del automóvil medido en toneladas.
-
-El desplazamiento del motor es el volumen desalojado por todos los pistones durante una revolución del cigüeñal.
-
-El peso del automóvil se compone del peso de la unidad austera, y el de su combustible, lubricante y refrigerante a la máxima capacidad de los depósitos del vehículo.
-
-Por unidad austera se entiende el automóvil que no incluye equipo opcional común o de lujo.
-
-Para la determinación del desplazamiento y del peso se considerará el motor con el que se venda el automóvil aun cuando sea opcional. Un automóvil importado se considerará igual al nacional cuando coincidan el factor, modelo, marca y tipo aun cuando en el extranjero ostente un nombre comercial diferente.
+Para la determinación del desplazamiento y del peso se considerará el motor con el que se venda el automóvil aun cuando sea opcional. Un automóvil importado se considerará igual al nacional cuando coincidan el factor, modelo, marca y tipo, aun cuando en el extranjero ostente un nombre comercial diferente.
 
 II.- Automóviles importados diferentes a los de fabricación nacional.
 
@@ -201,7 +199,9 @@ h).- Autobuses integrales.
 
 No se pagará el impuesto, en los términos de este Capítulo, por la tenencia o uso de los siguientes vehículos:
 
-I.- Los de año modelo anterior en doce años o más al de aplicación de esta Ley.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
+I.- Los de año modelo anterior en diez años o más al de aplicación de esta Ley.
 
 II.- Los importados temporalmente en los términos de la legislación aduanera y de la Ley del Registro Federal de Vehículos.
 
@@ -231,199 +231,45 @@ Las oficinas de tránsito de la República Mexicana no autorizarán altas ni cam
 
 En este Capítulo se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor y motocicleta.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 12.
 
-Tratándose de aeronaves, incluyendo helicópteros, el impuesto se calculará conforme a las siguientes cuotas:
+Tratándose de aeronaves, el impuesto será la cantidad que resulte de multiplicar el peso de la aeronave adicionado con la carga máxima de despegue a nivel del mar, expresado en toneladas, por la cantidad que anualmente establezca el Congreso de la Unión. En ningún caso el impuesto excederá de $240,000.00.
 
-I.- De pistón:
-
-Hasta con un factor de 0.025 $ 14,000.00
-
-De 0.026 a 0.050 15,200.00
-
-" 0.051 " 0.075 16,400.00
-
-" 0.076 " 0.100 18,600.00
-
-" 0.101 " 0.150 20,900.00
-
-" 0.151 " 0.200 23,200.00
-
-" 0.201 " 0.300 27,800.00
-
-" 0.301 " 0.400 32,400.00
-
-" 0.401 " 0.500 37,000.00
-
-" 0.501 " 0.600 41,600.00
-
-" 0.601 " 0.700 46,200.00
-
-" 0.701 " 0.800 50,800.00
-
-" 0.801 " 0.900 55,400.00
-
-" 0.901 " 1.000 60,000.00
-
-" 1.001 " 1.500 83,000.00
-
-" 1.501 " 2.000 106,000.00
-
-" 2.001 en adelante 152,000.00
-
-II.- De turbohélice:
-
-Hasta con un factor de 2.500 $ 68,000.00
-
-De 2.501 a 3.000 81,600.00
-
-" 3.001 " 3.100 84,300.00
-
-" 3.101 " 3.200 87,000.00
-
-" 3.201 " 3.300 89,800.00
-
-" 3.301 " 3.400 92,500.00
-
-" 3.401 " 3.500 95,200.00
-
-" 3.501 " 3.600 97,900.00
-
-" 3.601 " 3.700 100,600.00
-
-" 3.701 " 3.800 103,400.00
-
-" 3.801 " 3.900 106,100.00
-
-" 3.901 " 4.000 108,800.00
-
-" 4.001 " 4.500 122,400.00
-
-" 4.501 " 5.000 136,000.00
-
-" 5.001 en adelante 163,000.00
-
-III.- De reacción:
-
-Hasta con un factor de 1.000.00 $ 100,000.00
-
-De 1.000.01 a 2.000.00 125,000.00
-
-" 2.000.01 " 3.000.00 150,000.00
-
-" 3.000.01 " 4.000.00 175,000.00
-
-" 4.000.01 " 5.000.00 200,000.00
-
-" 5.000.01 en adelante 240,000.00
-
-El factor a que se refieren las fracciones anteriores, se calculará dividiendo la potencia expresada en caballos de fuerza entre 1 000 y el peso total expresado en kilogramos entre 1 000; ambos cocientes se multiplicarán entre sí para obtener el factor correspondiente. La potencia de los motores para determinar el factor debe ser la máxima para despegue al nivel del mar. El peso total deberá ser el máximo para despegue al nivel del mar.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 13.
 
-Tratándose de embarcaciones, el impuesto se calculará conforme a las siguientes cuotas:
+Tratándose de embarcaciones el impuesto se calculará conforme a lo siguiente:
 
-I.- Veleros, con las siguientes medidas de eslora:
+I.- Veleros.
 
-a).- Hasta De 4.00 metros EXENTO
+a).- A la longitud de eslora expresada en metros se le restarán cuatro metros; el resultado se multiplicará por sí mismo.
 
-b).- De 4.01 a 4.50 " $ 1,600.00
+b).- La cantidad obtenida conforme al inciso anterior se multiplicará por la cantidad que anualmente establezca el Congreso de la Unión; el producto será el impuesto a pagar.
 
-c).- " 4.51 " 5.00 " 2,600.00
+II.- Esquí acuático motorizado, motocicletas acuáticas y tablas de oleaje con motor, el impuesto será el resultado de multiplicar por 0.5 la cantidad que establezca anualmente el Congreso de la Unión.
 
-d).- " 5.01 " 5.50 " 3,800.00
+III.- Embarcaciones distintas a las anteriores.
 
-e).- " 5.51 " 6.00 " 5,200.00
+a).- La cantidad que se obtenga de restar en 0.2 el factor que corresponda. El resultado se multiplicará por sí mismo.
 
-f).- " 6.01 " 6.50 " 6,600.00
+b).- La cantidad obtenida conforme al inciso anterior se multiplicará por la cantidad que anualmente establezca el Congreso de la Unión; el producto será el impuesto a pagar.
 
-g).- " 6.51 " 7.00 " 8,400.00
+El factor a que se refiere la fracción III de esta (sic) artículo, se calculará multiplicando la longitud de la eslora en metros, por el cociente obtenido de dividir los caballos de fuerza entre mil.
 
-h).- " 7.01 " 7.50 " 11,000.00
+Tratándose de las embarcaciones a que se refieren las fracciones I y III de este artículo, el impuesto que resulte no podrá ser inferior a $200.00, ni superior a $100,000.00, salvo que tratándose de la fracción III, el factor sea igual o menor a 0.2.
 
-i).- " 7.51 " 8.00 " 14,000.00
-
-j).- " 8.01 " 8.50 " 18,000.00
-
-k).- " 8.51 " 9.00 " 23,000.00
-
-l).- " 9.01 " 9.50 " 29,000.00
-
-m).- " 9.51 " 10.00 " 36,000.00
-
-n).- " 10.01 en adelante " 44,000.00
-
-II.- Esquí acuático motorizado, motocicletas acuáticas y tablas de oleaje con motor:
-
-a).- Esquí acuático motorizado .......... $3 000.00
-
-b).- Motocicleta acuática .......... 4,000.00
-
-c).- Tabla de oleaje con motor .......... 5,000.00
-
-III.- Embarcaciones distintas a las anteriores:
-
-a).- Hasta con un factor de .250 EXENTO
-
-b).- De .251 a .350 $ 500.00
-
-c).- " .351 " .450 800.00
-
-d).- " .451 " .550 1,600.00
-
-e).- " .551 " .650 2,600.00
-
-f).- " .651 " .750 3,800.00
-
-g).- " .751 " .850 5,200.00
-
-h).- " .851 " .950 6,600.00
-
-i).- " .951 " 1.050 8,400.00
-
-j).- " 1.051 " 1.150 11,000.00
-
-k).- " 1.151 " 1.300 14,000.00
-
-l).- " 1.301 " 1.600 18,000.00
-
-m).- " 1.601 " 2.000 23,000.00
-
-n).- " 2.001 " 2.500 29,000.00
-
-ñ).- " 2.501 " 3.000 36,000.00
-
-o).- " 3.001 " 3.500 44,000.00
-
-p).- " 3.501 " 4.000 53,000.00
-
-q).- " 4.001 " 4.500 63,000.00
-
-r).- " 4.501 " 5.000 74,000.00
-
-s).- " 5.001 " 6.000 86,000.00
-
-t).- " 6.001 en adelante 100,000.00
-
-El factor a que se refiere esta fracción, se calculará multiplicando la longitud de la eslora por el cociente obtenido de dividir los caballos de fuerza entre 1 000.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 14.
 
-Tratándose de motocicletas, el impuesto se calculará conforme a las siguientes cuotas:
+Tratándose de motocicletas, el impuesto se calculará conforme a lo siguiente:
 
-I.- De 350 a 449 centímetros cúbicos de cilindrada .......... $ 500.00
+I.- La cantidad que se obtenga de dividir la cilindrada en centímetros cúbicos entre mil y el cociente obtenido se multiplicará por sí mismo.
 
-II.- De 450 a 549 centímetros cúbicos de cilindrada .......... 800.00
-
-III.- De 550 a 649 centímetros cúbicos de cilindrada .......... 1,600.00
-
-IV.- De 650 a 749 centímetros cúbicos de cilindrada .......... 2,600.00
-
-V.- De 750 a 849 centímetros cúbicos de cilindrada .......... 3,800.00
-
-VI.- De 850 a 949 centímetros cúbicos de cilindrada .......... 5,200.00
-
-VII.- De más de 950 centímetros cúbicos de cilindrada .......... 6,600.00
+II.- La cantidad obtenida conforme al inciso anterior se multiplicará por la cantidad que anualmente establezca el Congreso de la Unión; el producto será el impuesto a pagar.
 
 ###### ARTICULO 15.
 
@@ -550,3 +396,85 @@ SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS
 ###### ARTICULO PRIMERO.
 
 Esta ley entrará en vigor en toda la República, el día 1o. de enero de 1981.
+
+D.O.F. 31 DE DICIEMBRE DE 1981.
+
+DISPOSICIONES DE VIGENCIA ANUAL
+
+###### ARTICULO VIGESIMO PRIMERO.
+
+Para los efectos del cálculo del impuesto sobre tenencia o uso de vehículos para el año de 1982, se dan a conocer las siguientes cantidades:
+
+I.- Vehículos a que se refiere el artículo 5o. de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, así como los veleros .......... $800.00
+
+II.- Las demás embarcaciones .......... $3,600.00
+
+III.- Aeronaves .......... $23,000.00
+
+IV.- Motocicletas .......... $5,000.00
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1982.
+
+ARTICULO DECIMOCUARTO.- Por los vehículos de los años modelos que a continuación se indican destinados al transporte hasta de diez pasajeros, se causará el impuesto en 1982, sobre tenencia o uso de vehículos, conforme a la siguiente tarifa:
+
+A.- De fabricación nacional o importados iguales a los de fabricación nacional, aun cuando en el extranjero tengan una denominación comercial diferente.
+
+Año Categoría
+
+Modelo A B C D E F
+
+1977 390 1,300 1,950 5,200 13,000 26,000
+
+1976 390 1,040 1,690 3,900 7,800 19,500
+
+1975 390 780 1,300 2,600 6,500 13,000
+
+1974 320 650 1,040 1,950 3,900 10,400
+
+1973 260 520 780 1,300 1,950 7,800
+
+Para los efectos de la tarifa anterior se atenderá a las siguientes categorías:
+
+I.- Categoría "A".- Comprende automóviles cuyo precio oficial de venta al público al 1o. de enero de 1977 fue hasta de $83,000.00 por unidad.
+
+2.- Categoría "B".- Comprende automóviles cuyo precio oficial de venta al público al 1o. de enero de 1977 fue de $83,000.01 a $96,000.00 por unidad.
+
+3.- Categoría "C".- Comprende automóviles cuyo precio oficial de venta al público al 1o. de enero de 1977 fue de $96,000.01 a $116,000.00 por unidad.
+
+4.- Categoría "D".- Comprende automóviles cuyo precio oficial de venta al público al 1o. de enero de 1977 fue de $116,000.01 a $193,000.00 por unidad.
+
+5.- Categoría "E".- Comprende automóviles importados cuyo precio al 1o. de enero de 1977 determinó la Secretaría de Hacienda y Crédito Público de $193,000,01 a $230,000.00 por unidad.
+
+6.- Categoría "F".- Comprnde (sic) automóviles importados cuyo precio al 1o. de enero de 1977 determinó la Secretaría de Hacienda y Crédito Público de $230,000.01 en adelante por unidad.
+
+Los automóviles de años modelos de 1973 a 1977 que causen un impuesto mayor que el año modelos (sic) 1978, de acuerdo con el Artículo 5o. de la Ley de Impuesto sobre Tenencia o Uso de Vehículos, pagarán el impuesto correspondiente al año Modelo 1978.
+
+Aquellos automóviles que al 1o. de enero de 1977 no tuvieron precio oficial de venta al público, pagarán de acuerdo a la categoría que les correspsondió (sic) en el ejercicio fiscal de 1978.
+
+B.- Automóviles importados diferentes a los de fabricación nacional:
+
+1.- Vehículos importados a las zonas libres y franja fronteriza del norte del país, de circulación restringida a esas regiones.
+
+Categoría Año Modelo
+
+1977 1976 1975 1974 1973
+
+Primera 2600 1950 1300 970 970
+
+Segunda 3900 3250 2600 1950 1950
+
+Tercera 7800 6500 5200 3900 2600
+
+2.- Vehículos importados al país, de circulación no restringida.
+
+Categoría Año Modelo
+
+1977 1976 1975 1974 1973
+
+Unica 26000 19500 13000 10400 7800
+
+ARTICULO DECIMOQUINTO.- Los contribuyentes del impuesto sobre tenencia o uso de vehículos a que se refiere el Capítulo III de la Ley de la materia, con excepción de los helicópteros, pagarán dicho impuesto correspondiente al año de 1981, dentro del plazo que inicia el 1o. de enero y vence el 31 de julio de 1982, sin recargos ni sanciones y podrán calcular el impuesto conforme a las cuotas que estuviron (sic) vigentes en el año de 1981 o de 1982. El impuesto correspondiente al año de 1982 se pagará en el plazo comprendido entre el 1o. de julio y el 31 de diciembre de dicho año.
