@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-7683
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-22"
-last_updated: "1994-12-22"
+last_updated: "1995-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7683&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE QUERÉTARO.
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado "La Sombra de Arteaga", el 22 de diciembre de 1994.
 
@@ -305,6 +305,14 @@ VI. Estado analítico de egresos.
 
 VII. Situación de la deuda pública.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+Una vez aprobada por la Legislatura la cuenta de la Hacienda Pública del Estado se publicará un resumen del Informe Trimestral en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y simultáneamente en aluno de los periódicos locales de mayor circulación.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+El Ejecutivo del Estado enviará a la Legislatura dicho informe trimestral en un plazo de 45 días, contados respectivamente a partir del último día de los meses de marzo, junio y diciembre de cada año.
+
 ### CAPITULO V
 
 DE LAS RESPONSABILIDADES.
@@ -358,3 +366,19 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 ALEJANDRO ESPINOSA MEDINA
 
 SECRETARIO DE GOBIERNO
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 28 DE DICIEMBRE DE 1995
+
+###### ARTÍCULO PRIMERO.
+
+Cuando en el articulado relativo a las disposiciones de vigencia anual se haga referencia a empresas, se estará aludiendo a lo determinado por la estratificación oficial establecida por la Secretaría de Comercio y Fomento Industrial.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones fiscales y reglamentarias que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Esta Ley entrará en vigor el 1º de enero de 1996.
