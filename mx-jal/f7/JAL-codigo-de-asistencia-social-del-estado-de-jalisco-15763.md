@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "1998-07-21"
+last_updated: "1999-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 1999.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -523,7 +523,9 @@ VI. Acordar los casos en que deba eximirse del cobro de la cuota de recuperació
 
 VII. Actuar como árbitro o consejero en cuestiones relativas al Derecho Familiar y al Derecho Sucesorio; y
 
-VIII. Aprobar el número y asignación de los delegados;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+
+VIII. Aprobar el número, asignación y nombramiento de los delegados; y
 
 IX. Las demás que les confiera este Código y otros ordenamientos legales aplicables.
 
@@ -555,11 +557,23 @@ IX. Colaborar en la elaboración de los informes anuales de actividades que el C
 
 X. Resolver en definitiva sobre las inconformidades que por actuación de sus delegados planteen los interesados; y
 
-XI. Las demás que le sean conferidas por el reglamento interior y otras disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+
+XI. Dar fe de las diligencias que se practiquen en el cumplimiento de sus fines;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+
+XII. Cotejar las copias o testimonios de constancias que se mandaren expedir autorizándolas con su firma y sello correspondiente;
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+
+XIII. Las demás que sean conferidas por el reglamento interior y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
 
 ###### Artículo 39.
 
-Los Organismos Municipales a que se refiere este código, crearán y operarán los consejos municipales de familia, y tendrán las facultades que les otorga el mismo.
+Los Organismos municipales crearán y operarán los Consejos Municipales, y en su caso los intermunicipales de Familia, de acuerdo a la necesidad de la población y las posibilidades de los propios municipios; los cuales tendrán las facultades que les otorgue el presente Código.
 
 ###### Artículo 40.
 
@@ -567,7 +581,9 @@ El Consejo de Familia de los Organismos Municipales se formará, al menos, con s
 
 I. El Presidente Municipal respectivo, o su representante;
 
-II. El Presidente del Organismo Municipal, que tendrá de oficio, el cargo de Presidente del Consejo Estatal;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+
+II. El Presidente del organismo municipal, que tendrá de oficio, el cargo de Presidente del Consejo Municipal;
 
 III. El Director del Organismo Municipal;
 
@@ -577,17 +593,31 @@ V. Un representante de la asistencia social privada;
 
 VI. Un representante de los padres de familia; y
 
-VII. Los demás consejeros que el propio Consejo Estatal determine.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
 
-Además habrá un Secretario Ejecutivo.
+VII. Hasta cinco consejeros ciudadanos designados por el presidente del organismo municipal, previa convocatoria a los habitantes del municipio.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
 
 ###### Artículo 41.
 
-Los consejeros previstos en las fracciones V y VI, serán nombrados por el Presidente del Organismo Municipal, previa convocatoria a los habitantes del municipio.
+El Consejo Intermunicipal de Familia deberá conformarse con la participación de dos o más municipios colindantes y pertenecientes al mismo partido judicial, y se integrará por:
+
+I. El Presidente de cada uno de los organismos municipales integrantes;
+
+II. El Delegado de la Procuraduría de la Defensa del Menor y la Familia de cada municipio integrante;
+
+III. El Regidor presidente de la Comisión de Asistencia Social o su similar, de cada uno de los municipios integrantes;
+
+IV. Un Consejero ciudadano por cada uno de los municipios quienes serán designados por el Presidente Municipal, previa convocatoria pública, y los cuales deberán de cubrir los requisitos del artículo 35 del presente ordenamiento.
+
+El Consejo Intermunicipal estará presidido por la persona que sea electa por votación del mismo consejo, de entre los Presidentes de los organismos municipales integrantes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
 
 ###### Artículo 42.
 
-Los Consejos Municipales de Familia tendrán las siguientes atribuciones:
+Los consejeros municipales e intermunicipales de familia tendrán las siguientes obligaciones y atribuciones:
 
 I. Designar y remover libremente a sus empleados y delegados en los términos de ley;
 
@@ -597,39 +627,51 @@ III. Disponer los casos en que deba eximirse del cobro de la cuota de recuperaci
 
 IV. Actuar como árbitro y/o consejero en cuestiones relativas al Derecho Familiar y al Derecho Sucesorio; y
 
-V. Las demás que le confiera este Código, el Código Civil y de Procedimientos Civiles del Estado y otros ordenamientos legales aplicables.
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+
+V. Regirse por las políticas y normas técnicas de procedimiento establecidas por el Consejo Estatal de Familia;
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+
+VI. Las demás que le confiera este Código, así como los ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+
+En el Consejo Municipal como en el Intermunicipal, habrá una persona designada por el Consejo Estatal para vigilar las actuaciones de los demás miembros del Consejo y del Secretario Ejecutivo.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
 
 ###### Artículo 43.
 
-Para desempeñar el cargo de Secretario Ejecutivo se requieren los mismos requisitos que el Secretario Ejecutivo del Consejo Estatal de Familia, salvo la edad mínima que se fija en veinticinco años y un ejercicio profesional de tres años.
+Tanto los Consejos Municipales como los Intermunicipales de Familia contarán con un Secretario Ejecutivo, que será designado por el propio Consejo, en la primera sesión ordinaria, y tendrá las facultades del Secretario Ejecutivo del Consejo Estatal, previstas en el artículo 38 de este Código, en el ámbito de su competencia.
+
+Para desempeñar el cargo de Secretario Ejecutivo del Consejo Municipal o Intermunicipal, se requieren los requisitos previstos en el artículo 37 de este mismo Código, a excepción de la edad, que será como mínimo de veinticinco años, así como el ejercicio profesional, que será mínimo de tres años.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
 
 ###### Artículo 44.
 
-Son atribuciones y obligaciones del Secretario Ejecutivo:
-
-I. Tener la representación jurídica del Consejo Municipal de Familia y actuar siguiendo las instrucciones del mismo;
-
-II. Ejecutar los acuerdos del Consejo Municipal de Familia;
-
-III. Resolver sobre las inconformidades que sobre la actuación de los delegados presenten los interesados; y
-
-IV. Colaborar en la elaboración de los informes anuales de actividades.
+En las faltas temporales del Secretario Ejecutivo, de los Consejos de Familia Estatal, Municipal o Intermunicipal, cubrirá su ausencia un Consejero electo para este efecto, en la sesión que al respecto se celebre en el Consejo respectivo.
 
 ###### Artículo 45.
 
 Los Organismos Municipales que por su capacidad económica y administrativa lo requieran, podrán celebrar convenios con el Consejo Estatal de Familia para que éste se haga cargo de las funciones relacionadas con el Consejo Municipal de Familia.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+
 ###### Artículo 46.
 
-Los Consejos de Familia Estatal y municipales realizarán sus funciones a través de delegados personales e institucionales, estos últimos pueden ser públicos o privados.
+Los Consejos de Familia Estatal, Municipal o Intermunicipal, realizarán las funciones a través de delegados personales e institucionales, estos últimos pueden ser públicos o privados.
 
 ###### Artículo 47.
 
 Los delegados personales deberán cumplir para su desempeño los mismos requisitos que se exigen para el Secretario Ejecutivo, salvo la edad mínima que se fija en 25 años y la práctica profesional que se fija en tres años.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+
 ###### Artículo 48.
 
-El Consejo Municipal de Familia determinará el número y asignación de los delegados que se requieren en cada uno de los municipios en que está dividido el territorio del Estado.
+El Consejo Estatal de Familia determinará el número y asignación de los delegados que se requieren para cada uno de los municipios en que está dividido el territorio del Estado.
 
 ###### Artículo 49.
 
@@ -651,6 +693,14 @@ III. Ser dirigido y administrado por personas cualificadas por su integridad mor
 
 IV. Estar sometido al control del Consejo Estatal de Familia en cuanto a su funcionamiento y situación financiera.
 
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+
+V. Solicitarlo por escrito, motivando el interés de su nombramiento;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+
+VII (SIC). Los demás requisitos que señale el reglamento.
+
 Siempre que se cumplan todos los requisitos, el Consejo Estatal otorgará la acreditación dentro de los siguientes 30 días siguientes a la solicitud.
 
 ###### Artículo 51.
@@ -661,9 +711,13 @@ Los organismos públicos tendrán la calidad de delegados institucionales en los
 
 La actuación de los delegados en materia judicial se deberá entender de manera unitaria; y tendrán la representación jurídica del Consejo Estatal en todos los procedimientos en los que intervengan dentro del ámbito de su competencia; cuando tuvieren conocimiento de hechos que estimen delictivos, deberán formular las denuncias ante el Ministerio Público.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+
 ###### Artículo 53.
 
-Las actuaciones de los delegados podrán ser impugnadas por quien tenga interés para ello, dentro del término de tres días contados a partir de que tenga conocimiento de las actuaciones, ante el Secretario Ejecutivo del Consejo Municipal de Familia o, en su caso, ante el Secretario Ejecutivo del Consejo Estatal de Familia. El Secretario Ejecutivo, recibida la inconformidad, bajo su responsabilidad, ordenará se rinda por el delegado un informe detallado juntamente con las probanzas en las que apoye su actuación; recibido el informe o transcurrido el término fijado para su rendición, el Secretario Ejecutivo deberá resolver la inconformidad, haciendo saber el contenido de su resolución a las partes involucradas; cuando ello sea posible y así se acuerde en la resolución podrán retrotraerse los efectos de las actuaciones de los delegados consideradas ilegítimas.
+Las actuaciones de los delegados podrán ser impugnadas por quien tenga interés para ello, dentro del término de tres días contados a partir de que tenga conocimiento de las actuaciones, ante el Secretario Ejecutivo del Consejo Municipal o Intermunicipal de Familia, o en su caso, ante el Secretario Ejecutivo del Consejo Estatal de Familia. Este recibida la inconformidad, bajo su responsabilidad, ordenará se rinda por el delegado un informe detallado, junto con las probanzas en lasa (sic) que apoye su actuación; recibido el informe o transcurrido el término fijado para su rendición, el Secretario Ejecutivo deberá resolver, haciendo saber el contenido de su resolución a las partes involucradas; cuando ello sea posible y así se acuerde en la resolución podrán retrotraerse los efectos de las actuaciones de los delegados consideradas ilegítimas.
+
+Los Consejos de Familia, podrán en forma oficiosa impugnar actos de los delegados.
 
 ## TITULO SEGUNDO. DEL INSTITUTO JALISCIENSE DE ASISTENCIA SOCIAL
 
@@ -1997,6 +2051,8 @@ Artículo Décimo Tercero.- La convocatoria expedida por el titular del Ejecutiv
 
 Artículo Décimo Cuarto.- Para la nominación y aprobación de los miembros del Consejo Estatal de Familia por primera vez, se establecerá en el nombramiento cuáles de los cinco Consejeros se aprueban para un período de dos años y cuáles por un período de cuatro años.
 
+Artículo Décimo Quinto.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
 Salón de Sesiones del Congreso del Estado
 
 Guadalajara, Jalisco, 11 de Diciembre de 1997
@@ -2030,3 +2086,7 @@ Lic. Raúl Octavio Espinoza Martínez
 P.O. 21 DE JULIO DE 1998.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE SEPTIEMBRE DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
