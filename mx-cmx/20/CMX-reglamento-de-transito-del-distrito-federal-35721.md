@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-del-distrito-federal-35721"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2003-12-30"
+last_updated: "2004-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35721&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-02"
 
 REGLAMENTO DE TRANSITO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ABRIL DE 2004.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -758,15 +758,17 @@ Al propietario de un vehículo que estando adaptado para usar Gas Natural o Licu
 
 Durante este plazo, el vehículo de que se trate sólo puede circular para trasladarse al sitio que para tal efecto dispongan las autoridades, previo cumplimiento de la sanción impuesta.
 
+> <small>(REFORMADO, G.O. 13 DE ABRIL DE 2004)</small>
+
 ###### Artículo 62.
 
-En los casos en que proceda la remisión del vehículo al depósito, conforme a lo dispuesto por el artículo 59, por encontrarse estacionado total o parcialmente en un lugar prohibido y estando presente el conductor o alguna persona responsable, ostensiblemente mayor de dieciséis años y menor de 65 años, el agente lo conminará por una vez a retirar el vehículo del lugar, si no atendiese la indicación inmediatamente, se remitirá el vehículo al depósito y se levantará la infracción que proceda.
+En los casos en que proceda la remisión del vehículo al depósito, conforme a lo dispuesto por el artículo 59, por encontrarse estacionado total o parcialmente en un lugar prohibido, el agente lo remitirá en forma inmediata al depósito y levantará la infracción que proceda, aún y cuando se encuentre el conductor a bordo en estacionamiento momentáneo.
 
-Si el conductor o la persona responsable estuviere en el interior del vehículo y se negare a moverlo o a salir de él, se le remitirá al Juez Cívico correspondiente del lugar de los hechos, para su amonestación.
+Si se encontrare persona ostensiblemente menor de 16 años, mayor de 65 años o con discapacidad, el agente levantará la infracción que corresponda y esperará hasta que llegue el conductor o persona responsable, para proceder en forma inmediata a la remisión del vehículo al depósito.
 
-Si a bordo del vehículo, se encontrare persona ostensiblemente menor de 16 años, mayor de 65 años o con discapacidad, el vehículo no será remitido al depósito y el agente actuará conforme a lo dispuesto en los artículos 56 y 57 de este Reglamento.
+El procedimiento señalado en este artículo, también se aplicará cuando el conductor se presente en el momento en que se están efectuando las maniobras para la remisión del vehículo al depósito.
 
-Cuando el conductor se presente en el momento en que se están efectuando las maniobras para enviarlo al depósito y retire el vehículo, no se remitirá el mismo al depósito; solamente se levantará la infracción correspondiente.
+Si el conductor o la persona responsable se opusiere a la remisión del vehículo y/o se negare a salir de él, será puesto a disposición del Juez Cívico competente del lugar de los hechos, para la aplicación de la sanción correspondiente en términos de la Ley de Justicia Cívica para el Distrito Federal.
 
 ###### Artículo 63.
 
@@ -931,6 +933,10 @@ IV. Organizar o participar en competencias vehiculares de alta velocidad o "arra
 V. Quedarse sin gasolina en vía primaria, y
 
 VI. Estacionarse en doble o más filas.
+
+> <small>(ADICIONADO, G.O. 13 DE ABRIL DE 2004)</small>
+
+Sin perjuicio de las sanciones previstas en este Reglamento; se remitirá al Juez Cívico correspondiente del lugar de los hechos, para la imposición de arresto inconmutable de 20 a 36 horas, a quien permita o lleve a cabo la obstaculización o afectación de la vialidad o del tránsito seguro de los peatones, o a quien permita o lleve a cabo la reducción de la capacidad vial, con motivo de la instalación, modificación, cambio o mantenimiento de los elementos constitutivos de un anuncio y no exhiba en ese momento la documentación correspondiente que les autorice a realizar dichos trabajos.
 
 ### CAPÍTULO II. DE LAS NORMAS COMPLEMENTARIAS DE CIRCULACIÓN
 
@@ -1313,3 +1319,9 @@ TERCERO.- Se abroga el Reglamento de Tránsito del Distrito Federal, publicado e
 CUARTO.- Las licencias de conducir tipo A, expedidas con anterioridad a la entrada en vigor de este Reglamento mantendrán la vigencia señalada en la misma. A su expiración el particular puede obtener la Licencia de conducir permanente previo pago de los derechos correspondientes.
 
 Dado en la Residencia Oficial del Jefe del Gobierno del Distrito Federal, en la Ciudad de México, dos de diciembre de dos mil tres.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, FRANCISCO GARDUÑO YAÑEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MARCELO EBRARD CASAUBÓN.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 13 DE ABRIL DE 2004.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
