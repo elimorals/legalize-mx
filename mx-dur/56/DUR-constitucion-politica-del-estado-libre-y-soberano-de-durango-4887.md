@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1923-10-28"
+last_updated: "1924-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1923.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 1924.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -725,19 +725,19 @@ Dicho Ministerio estará integrado por un Procurador General y Agentes que será
 
 El Procurador General de Justicia intervendrá personalmente en todos los negocios en que el Estado fuere parte; será el consejero jurídico del Gobierno, y tanto él como los Agentes se someterán extrictamente a las disposiciones de la ley, siendo responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 1924)</small>
+
 ###### Artículo 93.
 
-Para ser Magistrado Propietario del Supremo Tribunal del Estado y Procurador de Justicia, se requiere:
+Para ser Magistrado Propietario del Supremo Tribunal de Justicia, del Estado y Procurador de Justicia, se requiere:
 
-I. Ser ciudadano durangueño en pleno ejercicio de sus derechos civiles y políticos;
+I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos.
 
-II. Tener treinta años cumplidos;
+II.- Tener treinta años cumplidos.
 
-III. Poseer titulo profesional de abogado expedido por autoridad o corporación del Estado o de la República legalmente facultada para ello;
+III.- Poseer título profesional de Abogado, expedido por Autoridad o Corporación del Estado o de la República, legalmente facultados para ello.
 
-IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro delito que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
-
-V. Haber residido en el país durante los últimos cinco años y en el Estado por un tiempo no menor de un año, salvo el caso de ausencia en servicio de la República en el primer caso o del Estado en el segundo.
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro delito que lastime seriamente la buena fama en el concepto público inhabilitará para el cargo, cualquiera que haya sido la pena.
 
 ###### Artículo 94.
 
@@ -998,5 +998,9 @@ P.O. 20 DE MAYO DE 1923.
 Artículo único.- Los Diputados que resulten electos en las elecciones que se verifiquen en el año de 1924, para la integración de la XXX Legislatura del Estado, por los Distritos señalados con el número par, solo durarán en el desempeño de su cargo dos años, a fin de que se pueda establecer para lo sucesivo, la renovación parcial cada dos años.
 
 P.O. 28 DE OCTUBRE DE 1923.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+
+P.O. 8 DE MAYO DE 1924.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
