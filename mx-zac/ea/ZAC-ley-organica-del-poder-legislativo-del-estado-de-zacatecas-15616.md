@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1561
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-02"
-last_updated: "1999-06-23"
+last_updated: "2000-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 2 de diciembre de 1998.
 
@@ -273,7 +273,9 @@ I. Expedir su Ley Orgánica y reglamentación interna, ordenando su publicación
 
 II. Aprobar y ejercer su presupuesto en forma autónoma;
 
-III. Expedir la ley que organice las funciones de la Contaduría Mayor de Hacienda, la cual determinará su estructura y funciones que le competen como Organo Superior de Fiscalización y Control Gubernamental, auxiliar de la Legislatura para el examen de las cuentas públicas; así como nombrar y remover a su titular y a los demás miembros del personal directivo;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2000)</small>
+
+III. Expedir la ley que organice las funciones de la Auditoría Superior del Estado, la cual determinará su estructura y funciones que le competen como Organo Superior de Fiscalización y Control Gubernamental, auxiliar de la Legislatura para el examen de las cuentas públicas; así como nombrar y remover a su titular y a los demás miembros del personal directivo;
 
 IV. Conceder licencia a los diputados para separarse de su cargo en los casos y condiciones que determine esta ley y su reglamento;
 
@@ -319,7 +321,9 @@ VII. Erigir, suprimir o fusionar municipios o congregaciones municipales o resol
 
 VIII. Aprobar la modificación de los nombres de los municipios cuando sea iniciativa de los ayuntamientos;
 
-IX. Intervenir, a través de Contaduría Mayor de Hacienda y de las Comisiones Legislativas de Vigilancia y Hacienda en el proceso de Entrega-Recepción de las administraciones municipales;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2000)</small>
+
+IX. Intervenir, a través de Auditoría Superior del Estado y de las Comisiones Legislativas de Vigilancia y Hacienda en el proceso de Entrega-Recepción de las administraciones municipales;
 
 X. Aprobar la enajenación y gravamen de bienes muebles e inmuebles propiedad del municipio;
 
@@ -631,7 +635,9 @@ II. Coordinar y apoyar las actividades entre las fracciones legislativas;
 
 III. Coadyuvar en el desarrollo de los trabajos de las Comisiones;
 
-IV. Proponer al Pleno, la designación, y remoción del Contador Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2000)</small>
+
+IV. Proponer al Pleno, la designación, y remoción del Auditor Superior del Estado;
 
 V. Expedir los nombramientos de los titulares de los órganos administrativos, técnicos y personal de apoyo de la Legislatura, previas propuestas de las Comisiones de Vigilancia o la de Planeación Patrimonio y Finanzas, en sus respectivos ámbitos, una vez que el Pleno los autorice;
 
@@ -789,6 +795,10 @@ VIII. El otorgamiento de la ciudadanía zacatecana; y
 
 IX. Resolver las consultas respecto de la aplicación e interpretación de esta ley, reglamentos, práctica y usos parlamentarios.
 
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2000)</small>
+
+X.- En examen previo, en forma conjunta con la Comisión de justicia, los casos de solicitud de juicio político.
+
 GOBERNACION
 
 ###### ARTICULO 59.
@@ -821,23 +831,35 @@ VIGILANCIA
 
 Corresponde a la Comisión de Vigilancia el conocimiento y dictamen de los asuntos siguientes:
 
-I. De la expedición de la Ley Orgánica de la Contaduría Mayor de Hacienda, órgano de fiscalización auxiliar de la Legislatura en el examen de la cuenta pública que el Ejecutivo del Estado y los ayuntamientos presenten;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2000)</small>
 
-II. Del nombramiento y remoción del Contador Mayor de Hacienda y demás miembros del personal directivo;
+I. De la expedición de la Ley de Auditoría Superior del Estado, órgano de fiscalización auxiliar de la Legislatura en el examen de la cuenta pública que el Ejecutivo del Estado y los ayuntamientos presenten;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2000)</small>
+
+II. Del nombramiento y remoción del Auditor Superior del Estado y demás miembros del personal directivo;
 
 III. Sobre la determinación de las responsabilidades en el manejo de los recursos públicos, los servidores del Estado y municipios, y la sanción correspondiente;
 
-IV. Recibir de la Mesa Directiva o de la Comisión Permanente en su caso, la información y la documentación relativa a las cuentas públicas, la que turnará a la Contaduría Mayor de Hacienda para su revisión;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2000)</small>
+
+IV. Recibir de la Mesa Directiva o de la Comisión Permanente en su caso, la información y la documentación relativa a las cuentas públicas, la que turnará a la Auditoría Superior del Estado para su revisión;
 
 V. Todo lo relacionado con obtención y utilización de la deuda pública del Estado, municipios y entidades paraestatales y el cumplimiento de las metas fijadas en los programas y proyectos de los Presupuestos de Egresos;
 
-VI. De la conveniencia de ordenar a la Contaduría Mayor de Hacienda, o cuando así lo determine el Pleno para los efectos de esta ley, la práctica de visitas, inspecciones y auditorias en las entidades a que se refiere la Ley Orgánica de la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2000)</small>
+
+VI. De la conveniencia de ordenar a la Auditoría Superior del Estado, o cuando así lo determine el Pleno para los efectos de esta ley, la práctica de visitas, inspecciones y auditorias en las entidades a que se refiere la Ley de Fiscalización Superior del Estado.
 
 VII. En forma conjunta con la correspondiente Comisión de Hacienda, del examen y aprobación en su caso de las cuentas públicas del Estado y municipios;
 
-VIII. Dictar las medidas que estime necesarias para que la Contaduría Mayor de Hacienda cumpla las funciones que le corresponden; y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2000)</small>
 
-IX. Ser el conducto de comunicación entre la Legislatura y la Contaduría Mayor de Hacienda.
+VIII. Dictar las medidas que estime necesarias para que la Auditoría Superior del Estado cumpla las funciones que le corresponden; y
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2000)</small>
+
+IX. Ser el conducto de comunicación entre la Legislatura y la Auditoría Superior del Estado.
 
 JUSTICIA
 
@@ -845,7 +867,9 @@ JUSTICIA
 
 Corresponde a la Comisión de Justicia el conocimiento y dictamen de los asuntos siguientes:
 
-I. En los casos que la Legislatura se erija en Jurado de Instrucción, tratándose de juicio político. Asimismo tratándose de solicitudes de declaración de procedencia;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2000)</small>
+
+I. En examen previo, en forma conjunta con la Comisión de Puntos Constitucionales, si procede o no instaurar juicio político. En caso afirmativo desempeñarse como Comisión Instructora cuando la Legislatura se erija en Jurado de Instrucción, para el trámite del juicio político. Asimismo tratándose de solicitudes de declaración de procedencia;
 
 II. Para que se concedan amnistías en circunstancias extraordinarias, por el voto de dos terceras partes de sus miembros y siempre que se trate de delitos de la competencia de los tribunales del Estado;
 
@@ -875,7 +899,9 @@ III. Lo concerniente a facultar al Ejecutivo del Estado para que realice transfe
 
 IV. Sobre la expedición o modificaciones a la ley con base en la cual el Ejecutivo y los ayuntamientos puedan celebrar empréstitos y obligaciones con cargo a sus respectivos patrimonios;
 
-V. Lo referente a autorizar contratación de créditos o pasivos, siempre que se destinen para inversiones públicas productivas, incluyendo los que realicen los organismos descentralizados o empresas públicas de ambos niveles. No se autorizará ningún empréstito si la cuenta pública correspondiente al año próximo anterior, del Estado o del municipio solicitante, no ha sido aprobada.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2000)</small>
+
+V. Lo referente a autorizar contratación de créditos o pasivos, siempre que se destinen para inversiones públicas productivas, incluyendo los que realicen los organismos descentralizados o empresas públicas de ambos niveles.
 
 Las solicitudes de autorización de créditos materia del dictamen, deberán acompañarse de la información financiera, programática, administrativa y económica que en cada caso justifique la medida;
 
@@ -1363,13 +1389,19 @@ La reglamentación interna y los manuales especificarán las funciones que corre
 
 La integración, actividad y funcionamiento de las dependencias administrativas y de apoyo, estarán sujetas a lo dispuesto por el Reglamento Interior y demás disposiciones normativas que acuerde el Pleno.
 
-### CAPITULO TERCERO. DE LA CONTADURIA MAYOR DE HACIENDA
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE AGOSTO DE 2000)</small>
+
+### CAPITULO TERCERO. DE LA AUDITORIA SUPERIOR DEL ESTADO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 128.
 
-Para dar cumplimiento a las facultades de la Legislatura en materia hacendaria, habrá una Contaduría Mayor de Hacienda. La ley determinará su estructura y las funciones que le competen como órgano técnico de fiscalización y control gubernamental auxiliar de la Legislatura para el examen de la cuenta pública que el Ejecutivo del Estado y los ayuntamientos deberán presentar en los plazos y términos que dispone la Constitución del Estado.
+Para dar cumplimiento a las facultades de la Legislatura en materia hacendaria, habrá una Auditoría Superior del Estado. La ley determinará su estructura y las funciones que le competen como órgano técnico de fiscalización y control gubernamental auxiliar de la Legislatura para el examen de la cuenta pública que el Ejecutivo del Estado y los ayuntamientos deberán presentar en los plazos y términos que dispone la Constitución del Estado.
 
-La Contaduría Mayor de Hacienda tiene la obligación de revisar las cuentas y el ejercicio del gasto de los siguientes poderes, dependencias y entidades públicas:
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2000)</small>
+
+La Auditoría Superior del Estado tiene la obligación de revisar las cuentas y el ejercicio del gasto de los siguientes poderes, dependencias y entidades públicas:
 
 I. Poder Ejecutivo del Estado;
 
@@ -1385,17 +1417,23 @@ VI. Instituciones públicas o privadas que reciban subsidios para el desempeño 
 
 VII. Fideicomisos públicos que manejen fondos de los erarios estatal o municipal.
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 129.
 
-La Contaduría Mayor de Hacienda regirá su organización y funcionamiento de acuerdo con las disposiciones de su ley orgánica.
+La Auditoría Superior del Estado regirá su organización y funcionamiento de acuerdo con las disposiciones de su ley.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 130.
 
-Para el desempeño de sus funciones la Contaduría Mayor tendrá el personal que le autorice el presupuesto de egresos del Poder Legislativo.
+Para el desempeño de sus funciones la Auditoría Superior del Estado tendrá el personal que le autorice el presupuesto de egresos del Poder Legislativo.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 131.
 
-Corresponde a la Comisión de Vigilancia, supervisar que las funciones de la Contaduría Mayor de Hacienda se realicen conforme a lo dispuesto por su ley orgánica.
+Corresponde a la Comisión de Vigilancia, supervisar que las funciones de la Auditoría Superior del Estado se realicen conforme a lo dispuesto por su ley.
 
 ## TITULO NOVENO
 
@@ -1468,5 +1506,9 @@ DIP. ENRIQUE RAMIREZ HERNANDEZ
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE JUNIO DE 1999
+
+UNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 12 DE AGOSTO DE 2000
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
