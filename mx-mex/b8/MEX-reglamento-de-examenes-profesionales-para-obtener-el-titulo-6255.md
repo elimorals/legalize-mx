@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-examenes-profesionales-para-obtener-el-titulo-625
 country: "mx"
 rank: "reglamento"
 publication_date: "1979-05-15"
-last_updated: "1979-05-15"
+last_updated: "1984-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE EXAMENES PROFESIONALES PARA OBTENER EL TITULO DE LICENCIADO EN LAS ESPECIALIDADES QUE IMPARTEN LAS ESCUELAS NORMALES SUPERIORES DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE MAYO DE 1984.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 15 de mayo de 1979.
 
@@ -93,6 +93,14 @@ II.- Trabajo de investigación.
 
 III.- Examen de Áreas Básicas.
 
+> <small>(ADICIONADA, G.G. 15 DE MAYO DE 1984)</small>
+
+IV.- Obra Pedagógica.
+
+> <small>(ADICIONADA, G.G. 15 DE MAYO DE 1984)</small>
+
+V.- Estudios de Postgrado.
+
 Definiciones y variantes:
 
 a).- La tesis individual será una disertación escrita, inédita en la que el autor exponga razonadamente sus conocimientos y sus experiencias en función de un problema educativo que corresponda a su especialidad, sobre el proceso social de la educación en sus aspectos científicos, teóricos o técnicos y sus relaciones históricas políticas, económicas y filosóficas.
@@ -110,6 +118,18 @@ e).- El trabajo de investigación de tipo colectivo, se realizará con pasantes 
 f).- El trabajo interdisciplinario de investigación será procedente cuando el problema educativo requiera la exploración en diferentes áreas en cuyo caso deberán intervenir pasantes de diferentes especialidades.
 
 g).- El examen de áreas básicas consistirá en la evaluación integral del pasante sobre las áreas de formación profesional que comprende el Plan de Estudios vigente; previa preparación del temario proporcionando al sustentante y en la elaboración de una síntesis escrita del desarrollo de los temas motivo de examen. La relación de asuntos correspondientes a las materias del Plan de Estudios de la especialidad cursada, serán elaborada (sic) por la Sección de Exámenes Profesionales, a través de las comisiones que se hagan necesarias.
+
+> <small>(ADICIONADO, G.G. 15 DE MAYO DE 1984)</small>
+
+h).- La obra pedagógica es un trabajo de investigación documental que coadyuva a la conducción del proceso educativo, como apoyo al desarrollo de un programa escolar en cualquier nivel del sistema educativo nacional en la especialidad del sustentante. Dicha obra podrá ser elaborada de manera individual o colectiva.
+
+> <small>(ADICIONADO, G.G. 15 DE MAYO DE 1984)</small>
+
+i).- Los estudios de postgrado consisten en la acreditación total de programas de especialización o la acreditación del cincuenta por ciento de los créditos de maestría, realizados en cualquier institución de Educación Superior facultada legalmente para impartirlos.
+
+> <small>(ADICIONADO, G.G. 15 DE MAYO DE 1984)</small>
+
+Las opciones IV y V que marca este Artículo, no requieren de examen profesional para alcanzar la titulación.
 
 ###### ARTICULO 8o.
 
@@ -235,4 +255,10 @@ DR. JORGE JIMENEZ CANTU.- Rúbrica.
 
 EL SECRETARIO GENERAL.
 
-C.P. JUAN MONROY PEREZ.- Rúbrica
+C.P. JUAN MONROY PEREZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 15 DE MAYO DE 1984.
+
+UNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
