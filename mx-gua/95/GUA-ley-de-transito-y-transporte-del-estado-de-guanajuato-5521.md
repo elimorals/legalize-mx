@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-transito-y-transporte-del-estado-de-guanajuato-5521"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-20"
-last_updated: "1993-08-20"
+last_updated: "1995-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5521&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 1995.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 20 de Agosto de 1993.
 
@@ -411,9 +411,9 @@ V.- PARA UNIDADES TIPO REMOLQUE;
 
 VI.- PARA MOTOCICLETAS;
 
-VII.- PARA BICICLETAS; Y
+VII.- (DEROGADA, P.O. 20 DE ENERO DE 1995)
 
-VIII.- PARA VEHICULOS NO MOTORIZADOS.
+VIII.- (DEROGADA, P.O. 20 DE ENERO DE 1995)
 
 ###### ARTICULO 48.
 
@@ -1090,3 +1090,11 @@ C. ROBERTO SUAREZ NIETO.
 EL SECRETARIO DE PLANEACION Y FINANZAS.
 
 C.P. JUAN IGNACIO MARTIN SOLIS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE ENERO DE 1995.
+
+###### ARTICULO UNICO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR EL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
