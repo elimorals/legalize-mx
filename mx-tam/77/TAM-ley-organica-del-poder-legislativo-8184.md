@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-legislativo-8184"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-07-05"
-last_updated: "1995-12-27"
+last_updated: "2001-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el 5 de julio de 1986.
 
@@ -261,9 +261,9 @@ II.- Especiales.
 
 En la sesión inmediata a la inicial de una Legislatura, a propuesta de la Gran Comisión, por mayoría absoluta y mediante votación nominal, la Asamblea elegirá para todo el ejercicio constitucional las comisiones permanentes; siendo éstas:
 
-1.- De Puntos Constitucionales.
+1.- De Puntos Constitucionales
 
-2.- De Gobernación.
+2.- De Gobernación
 
 3.- De Justicia.
 
@@ -375,9 +375,13 @@ Los Servidores Públicos de la Oficialía Mayor tendrán las facultades y obliga
 
 ### CAPITULO V. DE LA CONTADURIA MAYOR DE HACIENDA
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 46.
 
-La Contaduría Mayor de Hacienda es la Dependencia del Congreso, que tiene a su cargo la revisión y glosa de las Cuentas Públicas anuales del Gobierno del Estado, de los Organismos Públicos Descentralizados, de las Empresas o Asociaciones de participación mayoritaria Estatal o Municipal y de los Ayuntamientos de la Entidad, así como las demás acciones que le encomiende el Congreso a través de la Comisión de Hacienda y Crédito Público.
+La Auditoría Superior del Estado es el órgano técnico de fiscalización superior del Congreso, con independencia en sus funciones y autonomía presupuestal para el ejercicio de sus atribuciones; que tiene a su cargo la revisión y la glosa de las Cuentas Públicas trimestrales de
+
+los Poderes Ejecutivo, Legislativo y Judicial, así como de sus entidades paraestatales y de los Ayuntamientos, así como las demás acciones que le encomiende el Congreso a través de la Comisión de Hacienda y Crédito Público.
 
 ###### ARTICULO 47.
 
@@ -630,3 +634,21 @@ P.O. 27 DE DICIEMBRE DE 1995.
 ###### ARTICULO UNICO
 
 - El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE DICIEMBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día 1° de enero del año 2002.
+
+###### ARTICULO SEGUNDO.
+
+Las cuentas públicas relativos al ejercicio fiscal de 2001 y anteriores serán revisadas de acuerdo al procedimiento previsto con anterioridad a la entrada en vigencia del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Las cuentas públicas relativos al ejercicio fiscal de 2002 y posteriores serán revisadas de conformidad a lo dispuesto en el presente Decreto.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
