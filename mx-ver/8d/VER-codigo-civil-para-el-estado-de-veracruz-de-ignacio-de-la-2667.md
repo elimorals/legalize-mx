@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1968-03-19"
+last_updated: "1968-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE MARZO DE 1968.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JULIO DE 1968.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -3455,9 +3455,11 @@ ARTICULO 657
 
 Las actas levantadas fuera de los libros a que se refiere el artículo anterior, serán nulas y motivarán la responsabilidad del encargado del Registro Civil que las autorice.
 
+> <small>(REFORMADO, G.O. 18 DE JULIO DE 1968)</small>
+
 ARTICULO 658
 
-Todos los libros del Registro Civil serán visados en su primera y última hoja por el Presidente Municipal respectivo y autorizados por el mismo con su rúbrica en todas las demás. Se renovarán cada año, y un ejemplar quedará en el archivo del Registro Civil, así como los documentos que le correspondan, remitiéndose el otro ejemplar, en el transcurso del primer mes del año siguiente, a la oficina que establezca la ley respectiva.
+Todos los libros del Registro Civil serán visados en su primera y última hoja por el Oficial Encargado del Registro Civil respectivo y autorizados por el mismo con su rúbrica en todas las demás. Se renovarán cada año, y un ejemplar quedará en el archivo del Registro Civil, así como los documentos que le correspondan, remitiéndose el otro ejemplar, en el transcurso del primer mes del año siguiente, a la Oficina que establezca la ley respectiva.
 
 ARTICULO 659
 
@@ -15058,3 +15060,7 @@ G.O. 19 DE MARZO DE 1968.
 1°- Esta Ley principiará a surtir efectos, tres días después de su publicación en la "Gaceta Oficial" del Estado.
 
 2°- Entre tanto hace el Gobernador las designaciones de Encargado del Registro Civil, desempeñarán esos cargos, los respectivos Presidentes Municipales.
+
+G.O. 18 DE JULIO DE 1968.
+
+Esta Ley principiará a surtir efectos, tres días después de su publicación en la "Gaceta Oficial" del Estado.
