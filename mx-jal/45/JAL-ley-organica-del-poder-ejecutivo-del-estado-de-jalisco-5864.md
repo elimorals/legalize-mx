@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "1994-01-04"
+last_updated: "1994-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -607,51 +607,51 @@ XV. Participar, en coordinación con las autoridades competentes, en la planeaci
 
 XVI. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1994)</small>
 
 ###### Art. 34.
 
-La Secretaría de Turismo, es la dependencia responsable de supervisar el debido cumplimiento de la regulación turística, así como de su promoción y desarrollo de nuevos proyectos.
+La Secretaría de Turismo, es la dependencia responsable de planear, promover y fomentar el desarrollo turístico en el Estado, cuidando el óptimo y racional aprovechamiento y preservación de los recursos naturales y culturales.
 
-Corresponde a ésta Secretaría:
+Corresponde a esta Secretaría:
 
-I. Establecer en el Estado, las oficinas de turismo que sean necesarias, así como fundar agencias de información y difusión turísticas en el interior del país y en el extranjero;
+I. Participar en la elaboración del Plan Estatal de Desarrollo, respecto a la definición de las políticas para la promoción de las actividades turísticas; formular, revisar y ejecutar el Programa Estatal para el Desarrollo Turístico, directa o concertadamente con los sectores interesados y evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social, así como su impacto ecológico y de riesgo para la población;
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1992)</small>
+II. Establecer en el Estado las delegaciones locales y regionales que sean necesarias, así como promover la creación de oficinas de promoción turística en el interior del país y en el extranjero;
 
-I Bis. Participar en la elaboración del Plan Estatal de Desarrollo, respecto de la definición de las políticas para la promoción de las actividades turística y artesanal; formular, revisar y ejecutar el Programa Estatal para el Desarrollo Turístico y Artesanal, directa o concertadamente con los sectores interesados; y evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social, así como su impacto ecológico y de riesgo para la población;
+III. Coadyuvar en el ámbito de su competencia, con las autoridades federales, estatales y municipales, en los servicios e instalaciones de transportación aérea, hospedaje, alimentos y bebidas, agencias de viajes y guías turistas, para la mejor prestación de los servicios que se ofertan al turista;
 
-II. Supervisar y controlar la transportación de turistas dentro del Estado, de conformidad con las normas que al efecto dicte la Secretaría de Vialidad y Transporte;
+IV. Auxiliar en el control, vigilancia y funcionamiento de los servicios de información y ayuda para los turistas, a través de módulos de información y servicios de carretera;
 
-III. Supervisar los servicios de recepción de turistas en el Estado;
+V. Apoyar y estimular la formación de personal que requiere la actividad turística, con el objeto de lograr la calidad total de los servicios turísticos;
 
-IV. Supervisar los servicios de hospedaje, atención y alimentación de turistas en posadas, hoteles, casas de huéspedes, pensiones, restaurantes, clubes, casinos, bares, campos de turismo, negocios similares y establecimientos conexos, que hayan sido autorizados oficialmente para prestar este tipo de servicios;
+VI. De acuerdo al convenio de descentralización, aplicar las disposiciones reglamentarias establecidas en la Ley Federal de Turismo y sus Reglamentos;
 
-V. Promover, controlar y supervisar los medios que se requieren para la creación y funcionamiento de los servicios de información y ayuda para los turistas;
+VII. Participar y fomentar la celebración de convenios por parte del Ejecutivo del Estado con el Gobierno de la Federación y los Ayuntamientos, que sean necesarios para incrementar el turismo y mejorar los servicios que se ofrecen;
 
-VI. Auxiliar en el control, vigilancia y funcionamiento del servicio de guías de turistas;
+VIII. Estimular la formación de organismos de carácter social y privado que tiendan a fomentar el turismo;
 
-VII. Participar en la dirección y administración de las escuelas para guías de turistas;
+IX. Promover, dirigir y realizar la propaganda y publicidad en materia de turismo;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+X. Gestionar ante la dependencia correspondiente, el otorgamiento de concesiones para la explotación de rutas y circuitos con vehículos adecuados, sobre la base de garantizar plenamente la seguridad y la economía de los turistas y dentro de las rutas de jurisdicción estatal;
 
-VIII. Celebrar convenios con el Gobierno de la Federación y los gobiernos municipales existentes en la entidad y demás organismos del ramo, para incrementar el turismo y mejorar los servicios relativos;
+XI. Propiciar e incrementar todas aquellas celebraciones tradicionales y folklóricas que sirvan de atracción al turismo;
 
-IX. Estimular la formación de organismos de carácter social y privado que tiendan a fomentar el turismo;
+XII. Impulsar el turismo social a fin de que la cultura y recreación sanas, sean accesibles a las personas de menores ingresos económicos;
 
-X. Promover, dirigir y realizar la propaganda y publicidad en materia de turismo;
+XIII. Promover y participar en la realización de eventos que, atraigan visitantes al Estado, ya sea a nivel nacional o internacional;
 
-XI. Promover, ante la dependencia correspondiente, el otorgamiento de concesiones para la explotación de rutas y circuitos, con vehículos adecuados, sobre la base de garantizar plenamente la seguridad y la economía de los turistas y dentro de las rutas de jurisdicción estatal;
+XIV. Promover y fomentar la inversión nacional y extranjera necesarias para impulsar el adecuado desenvolvimiento del turismo;
 
-XII. Promover e incrementar todas aquellas celebraciones tradicionales y folklóricas que sirvan de atracción al turismo;
+XV. Apoyar y asesorar a los sectores privado y social, en las gestiones de crédito y asistencia técnica que deban realizar ante las dependencias y organizaciones federales, cuando se trate de inversiones que contribuyan al fomento y desarrollo del turismo;
 
-XIII. Impulsar el turismo social a fin de que la cultura y recreación sana, sean accesibles a las personas de menores ingresos económicos;
+XVI. Realizar y coordinar los estudios e investigaciones para el desarrollo de la actividad turística, así como formular la estadística estatal en esa materia, coordinadamente con las dependencias federales, estatales y municipales que corresponda;
 
-XIV. Organizar y fomentar la producción artesanal en el Estado, vigilando que su comercialización se haga en términos favorables para los artesanos;
+XVII. Estimular la creación de organismos de carácter tripartito, a (sic) con los sectores público, privado y social, con el fin de celebrar convenios de concertación que promuevan y fomenten el desarrollo turístico de la Entidad, conjuntando los recursos económicos y técnicos disponibles;
 
-XV. (DEROGADA, P.O. 20 DE AGOSTO DE 1992);
+XVIII. Promover en coordinación con autoridades federales y estatales, la mejor capacitación turística a nivel básico, medio y superior de prestadores de servicios directos e indirectos; y,
 
-XVI. Las demás que otorguen las leyes y decretos vigentes.
+XIX. Las demás que le confiera esta ley y otras disposiciones legales aplicables.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 1992)</small>
 
@@ -1153,7 +1153,7 @@ J) Sistema para los Servicios de Agua Potable y Alcantarillado en el Estado de J
 
 > <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 1992)</small>
 
-K). Consejo de la Zona Metropolitana de Guadalajara;
+K) Consejo de la Zona Metropolitana de Guadalajara.
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -1165,7 +1165,7 @@ B) Comité Estatal de Conservación de Reservas Ecológicas;
 
 C) Comité de Comunicaciones Vecinales del Estado de Jalisco; y
 
-D) Fideicomiso ante Banrural para el Desarrollo Agropecuario del Estado;
+D) Fideicomiso ante Banrural para el Desarrollo Agropecuario del Estado.
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -1177,15 +1177,19 @@ B) Fideicomiso Fondo Jalisco;
 
 C) Fondo Estatal de Apoyo a las Exportaciones; y
 
-D) Fideicomiso de la Central de Abastos de Ciudad Guzmán, Jalisco;
+D) Fideicomiso de la Central de Abastos de Ciudad Guzmán, Jalisco.
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
 V. Secretaría de Turismo:
 
-A) Comisión de Turismo del Estado; y
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1994)</small>
 
-B) Instituto de la Artesanía Jalisciense;
+A) Consejo Consultivo de Turismo del Estado de Jalisco;
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1994)</small>
+
+B) Consejo Estatal para el Desarrollo Turístico.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -1193,7 +1197,7 @@ VI. Secretaría de Finanzas:
 
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
-A) Fondo de Auxilio Social;
+A) Fondo de Auxilio Social.
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -1209,7 +1213,7 @@ B) Consejo Estatal de Educación; y
 
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
-C) Organismo para la Integración Administrativa y Operativa de los Servicios de Educación Básica y Normal del Estado de Jalisco;
+C) Organismo para la Integración Administrativa y Operativa de los Servicios de Educación Básica y Normal del Estado de Jalisco.
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -1223,13 +1227,17 @@ A) Instituto Cultural Cabañas;
 
 B) Instituto Jalisciense de Antropología e Historia;
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1994)</small>
 
-C) Orquesta Filarmónica de Jalisco; y
+C) Orquesta Filarmónica de Jalisco;
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1994)</small>
 
-D) Consejo Estatal de la Cultura y las Artes;
+D) Consejo Estatal de la Cultura y las Artes; y
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 1994)</small>
+
+E) Instituto de la Artesanía Jalisciense.
 
 > <small>(ADICIONADA, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -1257,7 +1265,7 @@ E) Patronato de Promotores Voluntarios; y
 
 > <small>(ADICIONADO, P.O. 11 DE MARZO DE 1993)</small>
 
-F) Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco;
+F) Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco.
 
 > <small>(ADICIONADA, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -1348,3 +1356,7 @@ Segundo.- El Presente Decreto entrará en vigor al día siguiente de su publicac
 P.O. 4 DE ENERO DE 1994.
 
 Unico.- Este decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE ENERO DE 1994
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
