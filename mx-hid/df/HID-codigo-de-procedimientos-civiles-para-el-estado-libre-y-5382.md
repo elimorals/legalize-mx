@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-civiles-para-el-estado-libre-y-5382"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-12-01"
-last_updated: "1999-12-30"
+last_updated: "2000-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DEL 2000.
 
 Código publicado en el Apéndice del Periódico Oficial del Estado de Hidalgo, el 1 de diciembre de 1940.
 
@@ -2905,165 +2905,199 @@ Para que procedan en vía ejecutiva las acciones a que se refieren los artículo
 
 Del juicio hipotecario.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DEL 2000)</small>
 
 ###### Artículo 457.
 
-El juicio hipotecario es un proceso especial que tiene por objeto la constitución, ampliación o división y registro de una hipoteca; así como su cancelación, o bien el pago o prelación del crédito que la hipoteca garantice.
+Se tramitará en la vía especial hipotecaria todo juicio que tenga por objeto la constitución, ampliación, división, registro y extinción de una hipoteca así como su nulidad, cancelación, o bien, el pago o prelación del crédito que la hipoteca garantice.
 
-Para que el juicio que tenga por objeto el pago o prelación de un crédito hipotecario se siga según las reglas del presente capítulo, es requisito indispensable que la garantía conste en escritura o póliza debidamente registrada y que el plazo de pago se haya cumplido, o que deba anticiparse conforme a lo previsto en los artículos 1941 y 2913 del Código Civil.
+Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas de este capítulo, es requisito indispensable que el crédito conste en escritura pública o escrito privado, según corresponda en los términos de la legislación común, inscrito en el Registro Público de la Propiedad y que sea de plazo cumplido, o exigible en los términos pactados o bien conforme a las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DEL 2000)</small>
 
 ###### Artículo 458.
 
-Cuando se entable pleito entre los que contrataron la hipoteca procederá el juicio hipotecario sin necesidad del requisito del registro del testimonio de la escritura constitutiva de la hipoteca, siendo siempre condición indispensable para inscribir la cédula, que esté registrado el bien a nombre del demandado y que no haya inscripción de embargo o gravamen en favor del tercero.
+Procederá el juicio hipotecario sin necesidad de que el contrato esté inscrito en el Registro Público de la Propiedad, cuando:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+I. El documento base de la acción tenga carácter de título ejecutivo;
+
+II. El bien se encuentre inscrito a favor del demandado y
+
+III. No exista embargo o gravamen a favor de tercero, inscrito cuando menos noventa días anteriores a la fecha de presentación de la demanda.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DEL 2000)</small>
 
 ###### Artículo 459.
 
-Presentado el escrito de demanda acompañado del instrumento respectivo, el juez si encuentra que se reúnen los requisitos fijados por los artículos anteriores, ordenará la expedición de la cédula hipotecaria y su inscripción en el Registro Público de la Propiedad y mandará se corra traslado de la demanda al deudor para que dentro del término de 5 días ocurra a contestarla. En la contestación de demanda el deudor podrá oponer excepciones que no podrán ser otras que las de pago, contrato no cumplido, novación, nulidad, de quita o de espera que conste por escrito, y las procesales de incompetencia, litispendencia, conexidad o de cosa juzgada. Las tres últimas solamente se admitirán si se exhiben con la contestación las copias selladas de la demanda o de la contestación de demanda o, tratándose de litispendencia y conexidad, de las constancias de emplazamiento del juicio primeramente promovido; en el caso de la cosa juzgada se deberá acompañar como prueba copia de la sentencia ejecutoriada.
+Presentando el escrito de demanda, acompañado del instrumento respectivo, el juez bajo su más estricta responsabilidad analizará la personalidad, capacidad del actor, así como su competencia para el conocimiento del negocio, si encuentra que se reúnen los requisitos fijados por los artículos anteriores, en un plazo no mayor de tres días, admitirá la misma, expedirá la cédula hipotecaria en términos del artículo 464 de este Código, mandará anotar la cédula hipotecaria, la demanda en el Registro Público de la Propiedad, que se corra traslado de ésta al demandado, emplazándolo a juicio, para que dentro del término de cinco días ocurra a contestarla, a oponer las excepciones, que no podrán ser otras que las que se refieren en el artículo siguiente.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DEL 2000)</small>
 
 ###### Artículo 460.
 
-La personalidad de los promoventes se analizará de oficio por el Juez, todas las excepciones procesales que tenga el demandado, debe hacerlas valer al contestar la demanda y en ningún caso suspenderán el procedimiento.
+Las excepciones que se podrán oponer en este juicio son:
 
-Salvo la competencia del órgano jurisdiccional, las demás excepciones procesales y las objeciones aducidas respecto de los presupuestos procesales se resolverán de modo incidental, dando vista a la contraria por el término de tres días y si no se ofrecen pruebas deberá dictarse la resolución correspondiente por el tribunal y notificarse a las partes dentro del término de ocho días sin que de modo alguno se pueda suspender el trámite del juicio.
+I.- Las fundadas en que el demandado no haya firmado el documento base de la acción, su alteración o la de falsedad del mismo;
 
-Si al oponer las excepciones procesales se ofrecen pruebas, éstas se harán en los escritos respectivos, fijados los puntos sobre los que versen y de ser admitidas se ordenará su preparación para que se reciban en una sola audiencia que se fijará dentro de los ocho días siguientes a que se haya desahogado la vista o transcurrido el término para hacerlo, audiencia que, no se podrá diferir bajo ningún supuesto recibiendo las pruebas, oyendo los alegatos y en el mismo se dictará la sentencia interlocutoria que corresponda sin que el tribunal pueda diferir tal resolución que dictará en la misma audiencia.
+II.- Falta de representación, de poder bastante o facultades legales de quien haya suscrito en representación del demandado el documento base de la acción;
 
-En las excepciones procesales sólo se admitirán como prueba la documental y la pericial, salvo en la litispendencia y conexidad, respecto de las cuales se podrán ofrecer también, la prueba de inspección de los autos.
+III.- Incumplimiento o nulidad del contrato;
 
-Las cuestiones de competencia podrán promoverse por inhibitoria o por declinatoria. Cuando se trate de dirimir las competencias que se susciten entre los Tribunales de la Federación, entre éstos y los de los estados, o entre los de un estado y los de otro, corresponde decidirla al Poder Judicial de la Federación, en los términos del artículo 106 constitucional y de las leyes secundarias respectivas.
+IV.- Pago o compensación;
 
-Tratándose de competencias que se susciten entre los tribunales de un mismo Estado, se resolverá por el respectivo tribunal de alzada al que pertenezcan ambos jueces, debiéndose observar las siguientes reglas:
+V.- Remisión o quita;
 
-I.- La inhibitoria se intentará ante el juez a quien se considere competente, pidiéndole que dirija oficio al que se estima no serlo, para que remita testimonio de las actuaciones respectivas al Superior y el requierente (sic) también remita lo actuado por él al mismo tribunal de alzada para que éste decida la cuestión de competencia;
+VI.- Oferta de no cobrar o espera;
 
-II.- La declinatoria se propondrá ante el juez que se considere incompetente, pidiéndole que se abstenga del conocimiento del negocio y remita testimonio de lo actuado al Superior para que éste decida la cuestión de competencia;
+VII.- Novación del contrato;
 
-III.- Las cuestiones de competencia en ningún caso suspenderán el procedimiento principal;
+VIII.- Litispendencia y conexidad y
 
-IV.- En caso de no promoverse cuestión de competencia alguna dentro de los términos señalados por el que se estime afectado, se considerará sometido a la del juez que lo emplaza y perderá todo derecho para intentarla.
+IX.- Cosa juzgada.
 
-Los tribunales quedan impedidos para declarar de oficio las cuestiones de competencia y sólo deberán inhibirse del conocimiento de negocios cuando se trate de competencias por razón de territorio o materia, y siempre y cuando se inhiban en el primer proveído que se dicte respecto de la demanda principal, o ante la reconvención por lo que hace a la cuantía.
+Las excepciones comprendidas en las fracciones IV a la VII y IX, sólo se admitirán cuando se funden en prueba documental. La excepción señalada en la fracción VIII, sólo se admitirá si se exhibe con la contestación las copias selladas de la demanda y contestación de ésta o de las cédulas de emplazamiento del juicio pendiente o conexo, o bien la documentación que acredite fehacientemente que se encuentra tramitando un procedimiento arbitral.
 
-Cuando dos o más jueces se nieguen a conocer de determinado asunto, la parte a quien perjudique ocurrirá a su elección dentro del término de nueve días ante el Superior, al que están adscritos dichos jueces, a fin de que se ordene a los que se niegan a conocer, que en el término de tres días, le envíen los expedientes originales en que se contengan sus respectivas resoluciones.
+El juez bajo su más estricta responsabilidad revisará escrupulosamente la contestación de la demanda y desechará de plano las excepciones diferentes a las que se autorizan, o aquéllas en que sea necesario exhibir documento y el mismo no se acompañe.
 
-Una vez recibidos los autos por el Superior, los pondrá a la vista del peticionario o en su caso, de ambas partes, por el término de tres días para que ofrezcan pruebas o aleguen lo que a su interés convenga. En el caso de que se ofrezcan y éstas sean de admitirse, se señalará fecha para audiencia la que se celebrará dentro de los diez días siguientes y se mandarán preparar para recibirse en la audiencia las pruebas admitidas, pasando a continuación al período de alegatos y citando para oír resolución, la que deberá pronunciarse y notificarse dentro del término de ocho días, remitiendo los autos al juez competente.
+Ninguna de las excepciones suspenderá el procedimiento de este juicio.
 
-En el supuesto de no ofrecerse pruebas y tan sólo se alegare, el tribunal dictará sentencia y la mandará publicar en el mismo plazo señalado en el párrafo anterior.
+Solo se admitirán como prueba la documental y la pericial, salvo en la litispendencia y conexidad, respecto de las cuales podrán ofrecer también, la prueba de inspección de los autos.
 
-Con los escritos de demanda y contestación, quedará fijada la litis, debiéndose ofrecer las pruebas dentro de los propios escritos, expresándose claramente el hecho o hechos que se trata de demostrar con las mismas, así como las razones por las que el oferente considera que demostrarán sus afirmaciones. El juez resolverá sobre la admisión de pruebas en el auto que recaiga a los escritos en que se ofrezcan, las que deberán desahogarse en la audiencia de ley, la que deberá tener lugar dentro del término de 30 días, a partir de que quede fijada la litis.
+La reconvención sólo será procedente cuando se funde en el mismo documento base de la acción o se refiera a su nulidad. En cualquier otro caso se desechará de plano.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DEL 2000)</small>
 
 ###### Artículo 461.
 
-Las partes deberán ofrecer pruebas de su acción o de sus excepciones y defensas en los términos del artículo 460 de este Código, exhibiendo los documentos que tengan en su poder o la copia sellada, solicitando los documentos que no tuvieran en su poder en los términos de los artículos 95 y 96 de este ordenamiento.
+Tanto en la demanda como en la contestación a la misma y en su caso en la reconvención y en la contestación a ésta, las partes tienen la obligación de ser precisas, indicando en los hechos si sucedieron ante testigos, citando los nombres y apellidos de éstos y presentando todos los documentos relacionados con tales hechos. En los mismos escritos, las partes deben ofrecer todas sus pruebas, relacionándolas con los hechos que se pretendan probar. El juez resolverá sobre la admisión o desechamiento de pruebas, en el auto que recaiga a los escritos antes mencionados. En el caso de que las pruebas ofrecidas sean contra la moral o el derecho, sobre hechos que no han sido controvertidos por las partes, imposibles o notoriamente inverosímiles, o no se hayan relacionado con los mismos, el juez las desechará. Las pruebas que se admitan se desahogarán en la audiencia respectiva, la que será única e indiferible.
 
-Antes de la celebración de la audiencia, las pruebas deberán prepararse con toda oportunidad para que en ella puedan recibirse y al efecto se procederá:
+En caso de allanamiento total de la demanda; si el demandado no hace valer defensas ni opone excepciones o las opone en forma distinta a lo señalado en este capítulo o fuera del término concedido para ello o no realiza dentro del plazo el pago de la cantidad reclamada, se pronunciará inmediatamente sentencia definitiva.
 
-I.- A citar a las partes a absolver posiciones que formulen las mismas, bajo el apercibimiento de que si no se presentan a declarar serán tenidos por confesos o de ser conducidos por la policía, si el juez lo estima conveniente;
+Con el escrito de contestación a la demanda y no encontrándose en ninguno de los supuestos del párrafo que antecede, se dará vista al actor por el término de tres días para que manifieste lo que a su derecho convenga. En ese mismo acto, se señalará fecha y hora para la celebración de la audiencia, la que deberá celebrarse dentro de los veinte días siguientes.
 
-II.- A citar a los testigos y perito bajo el apercibimiento de multa o de ser conducidos por la policía, a no ser que la parte que los ofreció se comprometiera a su perjuicio a presentarlos;
+Si hubiere reconvención se correrá traslado de ésta a la actora principal, emplazándola para que la conteste dentro del término de cinco días y en el mismo proveído le dará vista, en su caso, con las excepciones opuestas para que manifieste lo que a su derecho convenga, dentro de ese mismo término.
 
-III.- A dar todas las facilidades necesarias a los peritos para el examen de objetos, documentos, lugares o personas para que rindan su dictamen a la hora de la audiencia;
+Antes de la celebración de la audiencia, las pruebas deberán prepararse con toda oportunidad, para que en ella puedan recibirse y al efecto se procederá, de acuerdo a lo siguiente:
 
-IV.- A delegar o exhortar al Juez que corresponda, para que practique la inspección ocular y las compulsas que tengan que efectuarse fuera del lugar del juicio;
+1.- La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a los testigos, peritos y demás pruebas que les hayan sido admitidas y sólo en caso de que demuestren la imposibilidad de preparar directamente el desahogo de algunas de las pruebas que les fueron admitidas, el juez en auxilio del oferente deberá expedir los oficios o citaciones y realizar el nombramiento de peritos, poniendo a disposición de la parte oferente los oficios y citaciones respectivas, a efecto de que las partes preparen las pruebas y éstas se desahoguen a más tardar en la audiencia de ley;
 
-V.- A exhortar al Juez que corresponda, para que reciba la información de testigos cuando esta prueba tenga que practicarse fuera del lugar del juicio;
+2.- Si llamado un testigo, perito o solicitando un documento que hayan sido admitidos como prueba, no se desahogan éstas en la audiencia, se declarará desierta la prueba ofrecida por causa imputable al oferente;
 
-VI.- A mandar traer copias, documentos, libros y demás instrumentos ofrecidos por las partes, ordenando las compulsas que fueren necesarias.
+3.- A delegar o exhortar al juez que corresponda para que practique la inspección judicial y las compulsas que tengan que efectuarse fuera del lugar del juicio.
 
-El juez deberá estar presente en la audiencia, desahogará las pruebas admitidas y que procesalmente se pueden desahogar. Las que no estuvieran preparadas por culpa de los oferentes se declararán desiertas, por lo que la audiencia no se suspenderá ni habrá diferimientos de ésta en ningún caso, por falta de preparación.
+4.- A exhortar al juez que corresponda para que reciba la información de testigos, cuando esta prueba tenga que practicarse fuera del lugar del juicio y
 
-Desahogadas las pruebas, las partes podrán alegar pudiendo hacerlo por escrito, lo que a su derecho convenga y el juez dictará la resolución que corresponda, en los plazos del artículo 462.
+5.- Mandar traer copias, documentos, libros y demás instrumentos ofrecidos por las partes, ordenando las compulsas que fueran necesarias.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+En la misma audiencia el juez en caso de ser necesario, emitirá auto nombrando perito tercero en discordia, quien una vez aceptado y protestado el cargo deberá rendir su dictamen correspondiente en un término, no mayor de tres días.
+
+En la misma audiencia las partes podrán alegar lo que a su derecho convenga pudiéndolo hacer por escrito.
+
+Rendido el dictamen pericial, en el caso de haberse designado perito tercero en discordia, el juez dictará la resolución que corresponda en el plazo de ocho días a partir de la fecha de celebración de la audiencia.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DEL 2000)</small>
 
 ###### Artículo 462.
 
-Los incidentes no suspenderán el procedimiento, se tramitarán cualquiera que sea su naturaleza, con un escrito de cada parte, y tres días para resolver, si se promueve prueba deberá ofrecerse en los escritos respectivos, fijando los puntos sobre los que versará y se citará para audiencia indiferible dentro del término de ocho días en que se recibe, se oigan brevemente las alegaciones y se cite para sentencia interlocutoria que deberá pronunciarse dentro de los ocho días siguientes.
+Los incidentes no suspenderán el procedimiento, se tramitarán cualquiera que sea su naturaleza, con un escrito de cada parte y tres días para resolver, si se promueve prueba deberá ofrecerse en los escritos respectivos, fijando los puntos sobre los que versará, en la admisión o desahogo de las pruebas, son aplicables las reglas contenidas en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+Se citará a las partes para la celebración de la audiencia indiferible, dentro del término de ocho días en que se reciban las pruebas, se oigan brevemente las alegaciones y se cite para sentencia interlocutoria.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DEL 2000)</small>
 
 ###### Artículo 463.
 
-Si en certificado expedido por el Registro Público de la propiedad, se advierte que hay otros acreedores hipotecarios anteriores al ejercicio de la acción, el juez mandará notificarles en los términos del artículo 115 de este Código, la cédula hipotecaria para que usen de sus derechos conforme a la ley.
+Si en certificado expedido por el Registro Público de la Propiedad, se advierte que hay otros acreedores hipotecarios anteriores al ejercicio de la acción, el juez mandará notificarles en los términos del artículo 115 de este Código, del estado de ejecución, para que usen de sus derechos conforme a la ley.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DEL 2000)</small>
 
 ###### Artículo 464.
 
-La cédula hipotecaria contendrá una relación sucinta de la escritura y concluirá en estos términos: "En virtud de las constancias que preceden, queda sujeta la finca, de la propiedad de … a juicio hipotecario, lo que se hace saber a las autoridades y al público, para que no se practique en la mencionada finca ningún embargo, toma de posesión, diligencia precautoria o cualquiera otra que entorpezca el curso del presente juicio o viole los derechos en él adquiridos por el C. (aquí el nombre del actor)".
+La cédula hipotecaria contendrá una relación suscinta de la escritura y concluirá en estos términos: "En virtud de las constancias que preceden, queda sujeta la finca, de la propiedad de... a juicio hipotecario, lo que se hace saber a las autoridades y al público, para que no se practique en la mencionada finca ningún embargo, toma de posesión, diligencia precautoria o cualquiera otra que entorpezca el curso del presente juicio o viole los derechos en él adquiridos por el C. (aquí el nombre del actor)."
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DEL 2000)</small>
 
 ###### Artículo 465.
 
-La cédula hipotecaria se inscribirá en el Registro Público correspondiente, a cuyo efecto se expedirá por duplicado copia certificada de la cédula. Una copia quedará en el registro y la otra, ya registrada se agregará a los autos.
+Si el demandado durante cualquier estado del juicio, antes de que se pronuncie la sentencia ejecutoriada se allana a las pretensiones del actor, el juez le concederá un término de gracia de noventa día (sic) para desocupar la vivienda y lo eximirá del pago de gastos y costas que se hubieran originado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DEL 2000)</small>
 
 ###### Artículo 466.
 
-Si la finca no se halla en el lugar del juicio, se librará exhorto al juez de la ubicación, para que ordene el registro de la cédula como se previene en el artículo anterior.
+Si la finca no se halla en el lugar del juicio se librará exhorto al juez de la ubicación, para que ordene el registro de la cédula y demanda como se previene en el artículo 459.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DEL 2000)</small>
 
 ###### Artículo 467.
 
-Desde el día del emplazamiento, contrae el deudor la obligación de depositario judicial de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo a la escritura o póliza en que conste la hipoteca y conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que los pida el acreedor.
+En la diligencia de emplazamiento se le requerirá al demandado para que manifieste si acepta o no la responsabilidad de depositario y de aceptarla, contraerá la obligación de depositario judicial respecto de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo al contrato y conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+Para efecto del inventario, el demandado queda obligado a dar todas las facilidades para su formación y en caso de desobediencia, el juez lo compelerá por los medios de apremio que le autoriza la ley.
+
+El demandado que no haya aceptado la responsabilidad de depositario en el momento del emplazamiento, entregará desde luego la tenencia material de la finca al actor.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DEL 2000)</small>
 
 ###### Artículo 468.
 
-El deudor que no quiera aceptar la responsabilidad de depositario, entregará desde luego la tenencia material de la finca al actor o depositario que éste nombre.
+Si la diligencia que se señala en el artículo anterior no se entendiere directamente con el demandado, éste deberá dentro del término fijado para la contestación a la demanda, manifestar si acepta o no la responsabilidad de depositario, entendiéndose que no la acepta si no hace esta manifestación y en este caso, el actor podrá pedir que se le entregue la tenencia material de la finca.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DEL 2000)</small>
 
 ###### Artículo 469.
 
-El secuestro de la finca hipotecada se regirá por las disposiciones relativas al capítulo V, del título séptimo, debiendo quedar el deudor en posesión de la finca cuando habita en ella en calidad de depositario.
+El secuestro de la finca hipotecada se regirá por las disposiciones relativas al capítulo V, del título séptimo de este Código, debiendo quedar el demandado en calidad de depositario en posesión de la finca cuando habita en ella, siempre que así lo haya manifestado en los términos de los artículos anteriores.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DEL 2000)</small>
 
 ###### Artículo 470.
 
-Inscrita la cédula hipotecaria, no podrá verificarse en la finca hipotecada ninguno de los actos en ella expresados, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior a la fecha de la demanda que ha motivado la expedición de la cédula o de la providencia dictada a petición del acreedor de mejor derecho.
+Inscrita la cédula hipotecaria y la demanda, no podrá verificarse en la finca hipotecada ninguno de los actos en ella expresados, sino en virtud de sentencia ejecutoria, debidamente registrada y anterior a la fecha de la demanda que ha motivado la expedición de la cédula o de la providencia dictada a petición del acreedor de mejor derecho.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DEL 2000)</small>
 
 ###### Artículo 471.
 
-Para el avalúo de la finca se observará lo prevenido en el capítulo V, sección cuarta del título sexto. El valor del bien, para efectos de remate, será el valor comercial actual del bien hipotecado.
+Agotado el procedimiento, si resulta probada la acción, al decidir los derechos controvertidos, la sentencia decretará el remate de los bienes hipotecados.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DEL 2000)</small>
 
 ###### Artículo 472.
 
-El recurso de apelación en su caso sólo será admitido en el efecto devolutivo.
+Si el superior revoca el fallo de primera instancia que declaró procedente el remate, luego que vuelvan los autos al juzgado de su origen, se mandará cancelar la inscripción de la cédula hipotecaria y la demanda en el registro público y en su caso se devolverá la finca al demandado, ordenando el depositario que rinda cuentas con pago en el término que le fije el juez, que no podrá exceder de treinta días.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DEL 2000)</small>
 
 ###### Artículo 473.
 
-Agotado el procedimiento, si resulta probada la acción, al decidir los derechos controvertidos, la sentencia decretará el remate de los bienes hipotecados.
+Para el remate, se tendrá como precio de la finca hipotecada, el precio que señale el avalúo que presente la persona que las partes hayan convenido para tal efecto en el momento de la constitución de la hipoteca; o en su caso, de no haberse acordado, se procederá de la forma siguiente:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+I.- Cada parte tendrá derecho de exhibir, dentro de los cinco días siguientes a que sea ejecutable la sentencia, avalúo de la finca hipotecada, practicado por un corredor público, una institución de crédito o por perito valuador oficial, quienes en ningún caso podrán tener el carácter de parte o de interesada en el juicio;
+
+II.- En el caso de que alguna de las partes deje de exhibir el avalúo dentro del plazo señalado en la fracción anterior, se entenderá su conformidad con el avalúo que haya exhibido su contraria;
+
+III.- En el supuesto de que ninguna de las partes exhiba el avalúo dentro del plazo señalado en la fracción I de este artículo, cualquiera de ellas lo podrá presentar posteriormente, considerándose como base para el remate el primero en tiempo;
+
+IV.- Si las dos partes exhibieren los avalúos en el plazo a que se refiere la fracción I de este artículo y los valores determinados de cada uno de ellos no coincidieren, se tomará como base para el remate el promedio de ambos avalúos; siempre y cuando no exista un treinta por ciento de diferencia entre el más bajo y el más alto, en cuyo caso, el juez ordenará se practique nuevo avalúo por el corredor público o la Institución Bancaria que al efecto señale;
+
+V.- La vigencia del valor que se obtenga por los avalúos será de seis meses para que se lleve a cabo la primera almoneda de remate. Si entre ésta y las subsecuentes mediara un término mayor de seis meses se deberán actualizar los valores y
+
+VI.- Obtenido el valor del avalúo, según el caso que corresponda de acuerdo a las fracciones anteriores, se procederá a rematar la finca en los términos de la Sección I, del Capítulo V del Título VII de este ordenamiento y la resolución que recaiga al remate sólo podrá ser apelable en efecto devolutivo.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DEL 2000)</small>
 
 ###### Artículo 474.
 
-Si el superior revoca el fallo de primera instancia que declaró procedente el remate, luego que vuelvan los autos al juzgado de su origen, se mandará cancelar la inscripción de la cédula hipotecaria en el registro público y en su caso se devolverá la finca al demandado, ordenando al depositario que rinda cuentas con pago en el término que le fije el juez, que no podrá exceder de treinta días. Si el remate se hubiera ya verificado, se hará efectiva la fianza en vía de apremio.
+Las resoluciones que se dicten en el juicio hipotecario contenido en este Capítulo, y en contra de las cuales proceda el recurso de apelación, éste solo será admitido en efecto devolutivo.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+(REFORMADO, P.O. 3 DE JULIO DEL 2000) (F. DE E., P.O. 10 DE JULIO DE 2000)
 
 ###### Artículo 475.
 
-En el caso previsto en el segundo párrafo del artículo 2922 del Código Civil, no habrá lugar a la venta judicial, pero si habrá avalúo del precio que corresponda a la cosa en el momento de exigirse el pago. La venta se hará de la manera que se hubiera convenido; y a falta de convenio, por medio de corredor público. El deudor puede oponerse a la venta alegando las excepciones que tuviera y esta oposición se substanciará incidentalmente. También pueden oponerse a la venta los acreedores hipotecarios alegando la prescripción de la acción hipotecaria.
+En el caso de la adjudicación prevista en el segundo párrafo del artículo 2922 del Código Civil, se deberá solicitar avalúo del bien para fijar el precio que corresponda a la cosa en el momento de exigirse el pago, debiéndose aplicar en lo conducente lo señalado en el artículo 473 de este ordenamiento. La venta se hará de la manera que se hubiere convenido y a falta de convenio, por medio de corredores. El demandado puede oponerse a la adjudicación alegando las excepciones que tuviere y esta oposición se substanciará incidentalmente.
+
+También pueden oponerse a la venta los acreedores hipotecarios posteriores, alegando prescripción de la acción hipotecaria.
 
 ###### Artículo 476.
 
@@ -5803,13 +5837,11 @@ La mujer menor de edad que deseando contraer matrimonio necesite acudir a la aut
 
 En ambos casos no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias del día.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 1982)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 1982)</small>
 
 ## TITULO XVI.
 
-TITULO ESPECIAL.
-
-DE LOS JUICIOS ANTE LOS JUECES CONCILIADORES.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 1982)</small>
 
 ### CAPITULO UNICO.
 
@@ -5835,7 +5867,9 @@ No procede la caducidad: en período de ejecución de sentencia, en juicios suce
 
 Los Juicios que se tramitan en primera y Segunda Instancia, conforme al Código de Procedimientos Civiles vigente, se aplicarán los términos fijados por el Artículo anterior, debiendo contarse los plazos a partir de la fecha en que entren en vigor las presentes reformas.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 1982)</small>
+TITULO ESPECIAL.
+
+DE LOS JUICIOS ANTE LOS JUECES CONCILIADORES.
 
 ###### Artículo 1.
 
@@ -6452,3 +6486,13 @@ SEGUNDO.- Todos los créditos con garantía hipotecaria contraídos antes del in
 TERCERO.- No serán de observancia en el juicio hipotecario las disposiciones que se opongan al presente decreto.
 
 CUARTO.- Publíquese el presente decreto en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DEL 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todos los créditos con garantía hipotecaria contraídos antes del inicio de vigencia de las presentes reformas, así como las reestructuraciones, negociaciones, o nuevos convenios de deuda o créditos, cualquiera que sea la forma que adoptaron para tal efecto, se regirán por las normas civiles vigentes al momento de la contratación y por lo que hace a los juicios que se encuentran en trámite, se regirán por las disposiciones aplicables al procedimiento con el que se inició.
+
+TERCERO.- No serán de observancia en el juicio hipotecario las disposiciones que se opongan al presente Decreto.
+
+CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
