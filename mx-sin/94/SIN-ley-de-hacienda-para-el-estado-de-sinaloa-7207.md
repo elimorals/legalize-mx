@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1990-10-12"
+last_updated: "1991-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 1991.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -277,21 +277,27 @@ ART. 39.- El pago de los créditos fiscales se hará dentro del plazo legal y co
 
 Los marbetes sólo se admitirán como medio de comprobar el pago de los créditos fiscales cuando las leyes así lo establezcan.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1991)</small>
 
-ART. 40.- Cuando no se paguen los créditos fiscales en la fecha o dentro del plazo señalado en las disposiciones fiscales respectivas, deberán cubrirse recargos, en concepto de indemnización al fisco estatal por la falta de pago oportuno.
+ART. 40.- Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberán pagarse recargos en concepto de indemnización al Fisco Estatal por la falta de pago oportuno. Dichos recargos se calcularán conforme a una tasa que será 50% mayor de la tasa que mediante Ley fije anualmente el Congreso del Estado, en los casos de prórroga para el pago de créditos fiscales.
 
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1990)</small>
+Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el párrafo séptimo de este Artículo, los gastos de ejecución y las multas por infracción a las disposiciones tanto fiscales como no fiscales.
 
-Dichos recargos se calcularán conforme a una tasa del 6.0% aplicable por cada treinta días naturales o fracción que transcurran a partir del día siguiente de aquél en que debió hacerse el pago y hasta que éste se efectúe.
+En los casos de garantía de obligaciones fiscales a cargo de terceros, los recargos se causarán sobre el monto de lo requerido y hasta el límite de lo garantizado, cuando no se pague dentro del plazo legal.
 
-Los recargos se calcularán sobre el importe del crédito principal, excluyendo los demás conceptos que se deriven de dicho importe. El monto de los recargos aplicables no excederá del importe del crédito fiscal y cuando el pago hubiere sido menor al que corresponda, los recargos se computarán sobre la diferencia.
+Cuando el pago hubiere sido menor al que corresponda, los recargos se computarán sobre la diferencia.
 
-Los plazos para el pago de crédito (sic) fiscales, se suspenderán cuando por causas imputables a las autoridades fiscales estatales, el interesado no pueda hacer el pago dentro de esos plazos establecidos.
+Los recargos se causarán por cada mes o fracción de mes que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
 
-No se causarán recargos cuando el causante, al hacer un pago extemporáneo compense su saldo anterior (sic) favor hasta por el monto de dichos saldo.
+Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la Oficina Recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
 
-ART. 41.- Los recargos fiscales se aplicarán independientemente de las multas que establezca la Ley. Los recargos no tienen el carácter de sanción sino se (sic) indemnización al erario por la falta de pago oportuno de los adeudos respectivos. La tasa de los recargos fiscales podrá ser mayor hasta un 50% que la que se fije conforme al párrafo final del Artículo 42 de esta Ley.
+El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los demás conceptos a que se refiere este Artículo. La indemnización mencionada, el monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el Procedimiento Administrativo de Ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
+
+Cuando el contribuyente pague en una sola exhibición el total de las contribuciones omitidas, en forma espontánea, en los términos del Artículo 394, Fracción IX de esta Ley, el importe de los recargos no excederá de los causados durante el último año. Si se obtiene autorización para pagar a los plazos, ya sea en forma diferida o en parcialidades, se causarán además los recargos que establece el Artículo 42, último párrafo de esta Ley, por la parte diferida.
+
+> <small>(REFORMADO, P.O. 08 DE MARZO DE 1991)</small>
+
+ART. 41.- Los recargos fiscales se aplicarán independientemente de las multas que establezca la Ley. Los recargos no tienen el carácter de sanción sino de indemnización al erario por la falta de pago oportuno de los adeudos respectivos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
 
@@ -3295,29 +3301,23 @@ II.- Por la expedición de pasaportes para dos o más personas 400.00.
 
 ### CAPITULO X. Registro Público de la Propiedad y del Comercio
 
-(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
+> <small>(REFORMADO, P.O. 08 DE MARZO DE 19991)</small>
 
-ART. 313.- Los servicios que se presten en el Registro Público de la Propiedad causarán derechos fiscales conforme a la siguiente:
+ART. 313.- Los servicios que se presten en el Registro Público de la Propiedad, causarán derechos fiscales conforme a la siguiente:
 
 T A R I F A:
 
-(REFORMAD0, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
-
 CONCEPTO VECES EL SALARIO
 
-MINIMO GENERAL
+MÍNIMO GENERAL
 
 VIGENTE EN SINALOA
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
 
 I.- El examen de todo documento, sea público o privado, que se presente al registro para su inscripción, cuando se rehuse ésta por no ser inscribible, cuando se devuelva sin inscribir a petición de interesados o por resolución judicial, se cobrará:
 
 a).- Por las primeras diez hojas 0.05
 
 b).- Por cada hoja adicional 0.01
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
 
 II.- En la inscripción o registro de títulos, ya se trate de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier otra clase, por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, el cobro se hará sobre la base del valor que resulte mayor entre el declarado en la operación, el avalúo comercial, o el valor catastral, aplicándose un porcentaje de 0.75% sobre dicho valor;
 
@@ -3327,141 +3327,135 @@ IV.- La inscripción de gravámenes sobre bienes inmuebles sea por contrato, por
 
 V.- En las inscripciones de bienes o derechos reales cuya propiedad se transmita por herencia, se tomará como valor para la cotización el que resulte mayor entre el declarado por las partes, el avalúo comercial y el de valor catastral;
 
-VI.- Las cédulas hipotecarias pagarán el 50% de las cuotas de la fracción II, sirviendo como base el importe del crédito hipotecario;
+VI.- Las cédulas hipotecarias pagarán el 50% de las cuotas de la Fracción II, sirviendo como base el importe del crédito hipotecario;
 
-VII.- La inscripción de las demandas a que se refiere el Artículo 67 del Reglamento del Registro Público de la Propiedad se pagará el 35% de las cuotas de la fracción II;
-
-> <small>(ADICIONADA, P.O. 18 DE MARZO DE 1988)</small>
+VII.- La inscripción de las demandas a que se refiere el Artículo 67 del Reglamento del Registro Público de la Propiedad pagará el 35% de las cuotas de la Fracción II;
 
 VIII.- Las cancelaciones en los casos a que se refieren las fracciones IV y VI, pagarán el 35% de la cuota que señala la fracción II;
 
-IX.- Los créditos hipotecarios y refaccionarios, así como los créditos de habilitación o avío, causarán sobre el importe de la operación el 0.25%;
+IX.- Los créditos hipotecarios y refaccionarios, así como los créditos de habilitación o avío, causarán por una sola vez sobre el Importe de la operación el 0.25%, sin que en estos casos el importe de los Derechos pueda exceder de la cantidad equivalente a 250 días de salario mínimo general vigente en Sinaloa al momento de hacerse el pago;
 
-X.- Tratándose de bienes muebles, las inscripciones de la condición resolutoria en los casos de venta del pacto de reserva de la propiedad, de la limitación de dominio del vendedor, de la prenda en general, de la prenda de frutos pendientes de bienes y raíces y de la prenda de título de créditos, causarán el 50% de las cuotas que señala la fracción II;
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+X.- Tratándose de bienes muebles, las inscripciones de la condición resolutoria en los casos de venta del pacto de reserva de la propiedad, de la limitación del dominio del vendedor, de la prenda en general, de la prenda de frutos pendientes de bienes y raíces y de la prenda de título de créditos, causarán el 50% de la cuotas que señala la Fracción II;
 
 XI.- El registro de testamento,
 
-de autos de declaración de herederos
+de autos de declaración de
 
-y nombramientos de la albacea definitivo,
+herederos y nombramientos
 
-independientemente de los derechos
+de la albacea definitivo,
 
-por depósitos o por la inscripción de las
+independientemente de los
 
-transmisiones a que haya lugar,
+derechos por depósitos y
 
-causarán la cuota de 1.00
+por la inscripción de las
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+transmisiones a que haya
 
-XII.- La inscripción de las asociaciones
+lugar, causarán la
 
-de carácter civil causarán una
+cuota de 1.00
 
-cuota fija de 1.00
+XII.- La inscripción de las
+
+asociaciones de carácter
+
+civil causarán una cuota
+
+fija de 1.00
 
 XIII.- Tratándose de sociedades civiles se pagará:
 
-a).- La inscripción de la escritura constitutiva y de los aumentos de capital, causarán las cuotas de la fracción II sobre el importe del capital social o de los aumentos, según el caso;
+a).- La inscripción de la escritura constitutiva y de los aumentos de capital, causarán las cuotas de la Fracción II sobre el importe del capital social o de los aumentos, según el caso;
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+b).- Cualquier modificación de
 
-b).- Cualquier modificación de la
+la escritura constitutiva,
 
-escritura constitutiva, exceptuando
+exceptuando el aumento de
 
-el aumento de capital social,
+capital social, causará una
 
-causará una cuota fija de 1.00
+cuota fija de 1.00
 
-c).- La cancelación del registro por extinción de la sociedad, causará el 35% de las cuotas de la fracción II;
+c).- La cancelación del registro por extinción de la sociedad, causará el 35% de las cuotas de la Fracción II;
 
-XIV.- Tratándose de fundaciones de beneficiencia (sic) privada, se pagarán el 50% de las cuotas que procedan, en los términos de la fracción anterior;
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+XIV.- Tratándose de fundaciones de beneficencia privada, se pagará el 50% de las cuotas que procedan, en los términos de la fracción anterior;
 
 XV.- Por las constancias y
 
-ratificaciones a que se refiere el
+ratificaciones a que se
 
-Artículo 145 del Reglamento del
+refiere el Artículo 145 del
 
-Registro Público del Estado,
+Reglamento del Registro
 
-se pagará una cuota de 0.65
+Público del Estado, se
+
+pagará una cuota de 0.65
 
 XVI.- Por el depósito de un testamento ológrafo:
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+a).- Si el depósito se hace
 
-a).- Si el depósito se hace en la
+en la Oficina del Registro
 
-Oficina del Registro Público 1.00
+Público 1.00
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+b).- Si el depósito se hace
 
-b).- Si el depósito se hace fuera de la
+fuera de la Oficina del
 
-Oficina del Registro Público 1.65
+Registro Público 1.65
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+XVII.- Por informes relativos
 
-XVII.- Por informes relativos al
+al otorgamiento de
 
-otorgamiento de testamentos ológrafos
+testamentos ológrafos
 
 incluyendo la búsqueda 0.35
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+XVIII.- Por la expedición de
 
-XVIII.- Por la expedición de copia
+copia certificada de cualquier
 
-certificada de cualquier documento
+documento que se encuentre
 
-que se encuentre inscrito se pagará
+inscrito se pagará
 
-independientemente de la búsqueda,
+independientemente de la
 
-por cada hoja 0.15
+búsqueda, por cada hoja 0.15
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+XIX.- Por la búsqueda para
 
-XIX.- Por la búsqueda para la
+la expedición de certificados
 
-expedición de certificados o copias
+o copias certificadas, por
 
-certificadas, por cada hoja 0.07
+cada hoja 0.07
 
-(REFORMADA, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
+XX.- Por la expedición de
 
-XX.- Por la expedición de certificados
+certificados de libertad de
 
-de libertad de gravámenes de
+gravámenes de inmuebles
 
-inmuebles de derechos reales y
+de derechos reales y
 
 cualquier otro certificado,
 
-independientemente de la búsqueda,
+independientemente de la
 
-por cada hoja 0.50
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+búsqueda, por cada hoja 0.50
 
 XXI.- Las informaciones ad-perpetuam causarán los derechos de la Fracción II de acuerdo con el valor comercial o el catastral y tomando en cuenta lo dispuesto en el inciso e) de la fracción I del Artículo siguiente.
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
-
 XXII.- En caso de rescisión de contrato, cualquiera que sea su naturaleza, se pagará el 25% de las cuotas a que se refiere la fracción II.
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
-
 XXIII.- Por el registro de la constitución del patrimonio familiar, se cobrará conforme a la fracción II de este mismo Artículo.
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
 
 XXIV.- Por la inscripción de títulos públicos o privados, de resoluciones judiciales, administrativas o de cualquiera otra clase por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de lotes o departamentos sujetos al régimen de condominio, se cobrará conforme a la fracción II de este Artículo.
 
@@ -3863,7 +3857,7 @@ La parte de los ingresos que exceda el límite señalado en el párrafo anterior
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 1990)</small>
 
-### CAPITULO XIV. Fiscalización en Obra Pública Directa
+### CAPITULO XIV. Fiscalizacion en Obra Pública Directa
 
 > <small>(REFORMADO PRIMER PARRAFO, O. 12 DE OCTUBRE DE 1990)</small>
 
@@ -4295,7 +4289,11 @@ III.- Previo el procedimiento legal, aplicará y ejecutará las sanciones proced
 
 ART. 391.- El Secretario de Hacienda Pública y Tesorería, el Sub'Secretario de Inspección Fiscal, el Sub'Secretario de Ingresos, los Jefes de las Oficinas Recaudadoras y demás autoridades fiscales, impondrán las sanciones administrativas por infracción a las disposiciones fiscales.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1991)</small>
+
 ART. 392.- La aplicación de las sanciones administrativas que procedan, se harán sin perjuicio de que se exija el pago de las prestaciones fiscales respectivas, de recargos en su caso, y de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+
+Cuando en este Título se haga referencia al Salario Mínimo General, se entenderá que es el vigente en el área goegráfica correspondiente al Estado de Sinaloa, al momento de efectuar el pago.
 
 ART. 393.- Los funcionarios o empleados públicos ante quienes con motivo de sus funciones se presente algún libro, o documento alterado, harán la denuncia respectiva a la autoridad fiscal para no incurrir en responsabilidad.
 
@@ -4321,285 +4319,293 @@ IX.- La autoridad fiscal se abstendrá de imponer sanciones, cuando se haya incu
 
 X.- La autoridad fiscal dejará de imponer sanciones cuando se haya incurrido en infracción por hechos ajenos a la voluntad del infractor, circunstancias que éste deberá probar a satisfacción de la mencionada Secretaría.
 
-ART. 395.- Son infracción cuya responsabilidad recae sobre los sujetos pasivos o presentes sujetos pasivos, de una prestación fiscal, y a cada uno corresponderá la sanción que en cada caso se señale;
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1991)</small>
+
+ART. 395.- Son infracciones cuya responsabilidad recae sobre los sujetos pasivos o presuntos sujetos pasivos, de una prestación fiscal, y a cada uno corresponderá la sanción que en cada caso se señala;
 
 I.- No cumplir con las obligaciones que señalan las disposiciones fiscales de inscribirse o registrarse, o hacerlo fuera de los plazos legales; no incluir en las manifestaciones para su inscripción en el registro de causantes todas las actividades por las que sea contribuyente habitual, o no citar su número de registro federal de causantes en las declaraciones, manifestaciones, promociones, solicitudes o gestiones que hagan ante cualesquiera oficinas o autoridades.
 
-Multa de $ 300.00 a $ 5,000.00
+Multa de uno hasta diez días de Salario Mínimo General.
 
-II.- Obtener o usar más de un número de registro para el cumplimiento de las obligaciones a su cargo, en relación con uno o más impuestos estatales.
+II.- Obtener o usar más de un número de registro para el cumplimiento de las obligaciones a su cargo, en relación con uno o más impuestos Estatales.
 
-Multa de $ 1,000.00 a $ 50,000.00
+Multa de diez hasta cincuenta días de Salario Mínimo General.
 
 III.- Utilizar interpósita persona para manifestar negociaciones propias o para percibir ingresos gravables, dejando de pagar los impuestos correspondientes.
 
-Multa de $ 1,000.00 a $ 50,000.00
+Multa de diez hasta cincuenta días de Salario Mínimo General.
 
 IV.- No obtener oportunamente los permisos, placas, boletas de registro, libros o cualquier otro documento exigido por las disposiciones fiscales; no tenerlos en los lugares que señalan dichas disposiciones, o no devolverlos oportunamente dentro del plazo que las mismas disposiciones establecen.
 
-Multa de $ 100.00 a $ 5,000.00
+Multa de uno hasta diez días de Salario Mínimo General.
 
-V:- Emprender cualquiera explotación sin obtener previamente el permiso exigido por los ordenamientos fiscales, o producir, fabricar, transformar, almacenar o expender artículos fuera de las zonas o lugares autorizados al efecto.
+V.- Emprender cualquiera explotación sin obtener previamente el permiso exigido por los ordenamientos fiscales, o producir, fabricar, transformar, almacenar o expender artículos fuera de las zonas o lugares autorizados al efecto.
 
-Multa de $ 300.00 a $ 25,000.00
+Multa de cinco hasta veinte días de Salario Mínimo General.
 
 VI.- Permitir sacar o mandar sacar de las fábricas, almacenes, bodegas o de las zonas señaladas, artículos o productos, sin haberse cumplido antes las obligaciones fiscales relativas.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de cinco hasta veinte días de Salario Mínimo General.
 
 VII.- Almacenar o transportar productos gravados sin haber cumplido con las disposiciones fiscales aplicables.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de cinco hasta veinte días de Salario Mínimo General.
 
 VIII.- Perforar o destruir sin estar facultados, los cierres de control que determinen las leyes fiscales, o desprenderlos de los barriles, botellas, botes o demás vasijas que contengan los productos gravados; o alterar o destruir los cordones, envolturas o sellos oficiales.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de cinco hasta veinte días de Salario Mínimo General.
 
-IX.- No llevar los sistemas de contabilidad que requieran las disposiciones fiscales; llevarlos en forma distinta como éstas preinscriben; no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos o inexactos o fuera de los plazos respectivos.
+IX.- No llevar los sistemas de contabilidad que requieran las disposiciones fiscales; llevarlos en forma distinta como éstas prescriben; no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos o inexactos o fuera de los plazos respectivos.
 
-Multa de $ 100.00 a $ 10,000.00.
+Multa de cinco hasta veinte días de Salario Mínimo General.
 
 X.- Llevar doble juego de libros.
 
-Multa de $ 1,000.00 a $ 100,000.00
+Multa de cinco hasta veinte días de Salario Mínimo General.
 
 XI.- Hacer, mandar hacer o permitir en su contabilidad, anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco, cualquiera anotación, asiento o constancia hecha en la contabilidad; o mandar o consentir que se hagan esas alteraciones, raspaduras o tachaduras.
 
-Multa de $ 500.00 a $ 50,000.00
+Multa de diez hasta cincuenta días de Salario Mínimo General.
 
 XII.- Destruir o inutilizar los libros cuando no haya transcurrido el plazo durante el cual conforme a la Ley los deben conservar.
 
-Multa de $ 250.00 a $ 25,000.00
+Multa de cinco hasta veinte días de Salario Mínimo General.
 
 XIII.- No presentar para su autorización, o hacerlo extemporáneamente, los libros o sistemas de contabilidad, cuando lo exigen las disposiciones fiscales.
 
-Multa de $ 100.00 a $ 1,000.00
+Multa de uno hasta diez días de Salario Mínimo General.
 
 XIV.- No proporcionar oportunamente a las autoridades los comprobantes de pago de las prestaciones fiscales cuando lo exijan las disposiciones relativas.
 
-Multa de $ 100.00 a $ 1,000.00
+Multa de cinco hasta veinte días de Salario Mínimo General.
 
-XV.- Faltar a la obligación de extender recibos, facturas o cualesquiera otros documentos que señalen las leyes fiscales. No exigirlos cuando tengan obligación de hacerlo. No consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esa forma.
+XV.- Faltar a la obligación de extender recibos, facturas o cualesquiera otros documentos que señalen las Leyes Fiscales, no exigirlos cuando tengan obligación de hacerlo, no consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esa forma.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de cinco hasta veinte días de Salario Mínimo General.
 
 XVI.- No presentar, o no proporcionar, o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales. No comprobarlos o declararlos cuando las autoridades fiscales lo soliciten.
 
-Multa de $ 150.00 a $ 5,000.00
+Multa de uno hasta diez días de Salario Mínimo General.
 
-XVII.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, incompletos o con errores que traigan consigo la evasión de una prestación fiscal.
+XVII.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos a que se refiere la fracción anterior, incompletos o con errores que traigan consigo la evasión de una prestación fiscal.
 
-Multa de $ 300.00 a $ 10,000.00
+Multa de cinco hasta veinte días de Salario Mínimo General.
 
-XVIII.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refieren las dos fracciones anteriores, alterados o falsificados.
+XVIII.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos a que se refieren las dos fracciones anteriores, alterados o falsificados.
 
-Multa de $ 300.00 a $ 10,000.00
+Multa de diez hasta cincuenta días de Salario Mínimo General.
 
-XIX.- Declarar ingresos menores de los percibidos; hacer deducciones derivadas de hechos falsos, o que no están autorizadas o que no reúnan los requisitos exigidos por las disposiciones fiscales; ocultar u omitir bienes o existencias que deban figurar en los inventarios, o listarlos a precios inferiores de los reales; no practicar los inventarios y balances que prevengan las disposiciones fiscales o hacerlo fuera de los plazos que estas dispongan.
+XIX.- Declarar ingresos menores de los percibidos, hacer deducciones derivadas de hechos falsos, o que no están autorizadas o que no reúnan los requisitos exigidos por las disposiciones fiscales; ocultar u omitir bienes o existencias que deban figurar en los inventarios, o listarlos a precios inferiores de los reales; no practicar los inventarios y balances que prevengan las disposiciones fiscales o hacerlo fuera de los plazos que estas dispongan.
 
-Hasta tres tantos de la prestación fiscal omitida.
+Multa de diez hasta cincuenta días de Salario Mínimo General.
 
-XX.- No pagar los impuestos o derechos dentro de los plazos señalados por las leyes fiscales.
+XX.- No pagar los impuestos o derechos dentro de los plazos señalados por las Leyes Fiscales.
 
-Multa hasta un tanto de la prestación fiscal.
+Multa hasta de dos tantos de la prestación fiscal.
 
-XXI.- Eludir el pago de las prestaciones fiscales como consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras.
+XXI.- Eludir el pago de las prestaciones fiscales como consecuencia de inexactitud, simulaciones, falsificaciones y otras maniobras.
 
-Multa de $ 500.00 a $ 10,000.00
+Multa de diez hasta cincuenta días de Salario Mínimo General.
 
 XXII.- Emplear para el pago de una prestación fiscal marbete de clase o leyenda distinta de las previstas en las disposiciones respectivas.
 
-Multa de $ 200.00 a $ 5,000.00
+Multa de tres hasta diez días de Salario Mínimo General.
 
 XXIII.- Expender marbetes o traficar con ellos sin autorización legal; adquirir marbetes de emisión fenecida o traficar con ellos, emplear para el pago de créditos fiscales marbetes que no correspondan a la época en que debió hacerse el pago.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de uno hasta diez días de Salario Mínimo General.
 
-XXIV.- Resistirse por cualquier medio, a las visitas de inspección; no suministrar los datos o informes que legalmente puedan exigir los inspectores, auditores o visitadores; no mostrar los sistemas de contabilidad, documentos, registros o impedir, acceso a los almacenes, depósitos, tinacales, bodegas o cualquier otra dependencia, y en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado, en relación con el objeto de la visita.
+XXIV.- Resistirse por cualquier medio, a las visitas de inspección; no suministrar los datos e informes que legalmente puedan exigir los inspectores, auditores o visitadores; no mostrar los sistemas de contabilidad, documentos, registros o impedir, acceso a los almacenes, depósitos, tinacales, bodegas o cualquier otra dependencia, y en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado, en relación con el objeto de la visita.
 
-Multa de $ 1,500.00 a $ 50,000.00
+Multa de veinte hasta cien días de Salario Mínimo General.
 
 XXV.- No conservar los libros, documentos y correspondencia que le sean dejados en calidad de depositario, por los visitadores, inspectores o auditores al estarse practicando visitas domiciliarias.
 
-Multa de $ 5,000.00 a $ 250,000.00
+Multa de diez hasta cincuenta días de Salario Mínimo General.
 
 XXVI.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes.
 
-Multa de $ 100.00 a $ 10,000.00.
+Multa de uno hasta diez días e Salario Mínimo General.
 
-ART. 396.- Son infracciones cuya responsabilidad corresponde a los jueces, encargados de los registros públicos, notarios, corredores, y en general a los funcionarios que lleven la fe pública, y a cada uno les corresponderá la sanción que en cada caso se señala:
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1991)</small>
 
-I.- No hacer cotizaciones de las escrituras, minutas o cualesquiera contratos que se otorguen ante su fe, o efectuarla sin sujetarse a lo previsto por las disposiciones fiscales.
+ART. 396.- Son infracciones cuya responsabilidad corresponde a los jueces, encargados de los registros públicos, notarios, corredores, y en general a los funcionarios que llevan la fe pública, y a cada uno les corresponderá la sanción que en cada caso se señala:
 
-Multa de $ 100.00 a $ 10,000.00
+I.- No hacer cotizaciones de las escrituras, minutas y cualesquiera contratos que se otorguen ante su fe, o efectuarla sin sujetarse a lo previsto por las disposiciones fiscales.
+
+Multa de diez hasta cincuenta días de Salario Mínimo General.
 
 II.- No poner a las escrituras o minutas las notas de "no pasó" en los casos en que deban ponerse de acuerdo con las leyes fiscales.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de diez hasta cincuenta días de Salario Mínimo General.
 
 III.- No expedir las notas de liquidación de alguna prestación fiscal, aún en los casos de exención.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de diez hasta cincuenta días de Salario Mínimo General.
 
-IV.- Expedirlas las notas a que se refiere la fracción anterior en forma que dé lugar a la evasión total o parcial del gravamen.
+IV.- Expedir las notas a que se refiere la fracción anterior en forma que dé lugar a la evasión total o parcial del gravamen.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de diez hasta cincuenta días de Salario Mínimo General.
 
-V.- Autorizar actos, o contratos de enajenación o traspaso de negociaciones; de disolución de sociedades, u otros, relacionados con fuentes de ingresos gravadas por la Ley, sin cerciorarse previamente de que se esté al corriente en las obligaciones fiscales, o sin dar los avisos que prevengan las leyes de la materia.
+V.- Autorizar actos, o contratos de enajenación o traspaso de negociaciones, de disolución por la Ley, sin cerciorarse previamente de que se esté al corriente en las obligaciones fiscales, o sin dar los avisos que prevengan las leyes de la materia.
 
-Multa de $ 150.00 a $ 5,000.00
+Multa de dos hasta de diez días de Salario Mínimo General.
 
 VI.- No proporcionar informes o datos o no exhibir documentos cuando deban hacerlo, en el plazo que fijen las disposiciones fiscales, o cuando lo exijan las autoridades competentes, o presentarlos incompletos o inexactos.
 
-Multa de $ 100.00 a $ 1,000.00
+Multa de uno hasta diez días de Salario Mínimo General.
 
 VII.- Proporcionar los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de cinco hasta veinte días de Salario Mínimo General.
 
 VIII.- Extender constancia de haberse cumplido con las obligaciones fiscales en los actos en que intervengan, cuando no proceda su otorgamiento.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de uno hasta diez días de Salario Mínimo General.
 
-IX.- Cooperar con los infractores o facilitar en cualquiera (sic) forma la omisión total o parcial del impuesto, mediante alteraciones, ocultaciones u otros hechos de omisiones.
+IX.- Cooperar con los infractores o facilitar en cualquiera forma la omisión total o parcial del impuesto, mediante alteraciones, ocultaciones u otros hechos de omisiones.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de dos hasta diez días de Salario Mínimo General.
 
-X.- Resistirse por cualquier medio a las visitas de inspección. No suministrar los datos o informes que legalmente puedan exigir los inspectores, auditores o visitadores; no mostrar los libros, documentos, registros y en general los elementos necesarios para la práctica de visita.
+X.- Resistirse por cualquier medio a las visitas de inspección. No suministrar los datos o informes que legalmente puedan exigir los inspectores, auditores o visitadores; no mostrar los libros, documentos, registros y en general los elementos necesarios para la práctica de visitas.
 
-Multa de $ 150.00 a $ 1,000.00
+Multa de dos hasta diez días de Salario Mínimo General.
 
 XI.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes.
 
-Multa de $ 100.00 a $ 5,000.00.
+Multa de uno hasta diez días de Salario Mínimo General.
 
-ART. 397.- Son infracción cuya responsabilidad corresponde a los funcionarios y empleados públicos del Estado, así como a los encargados de servicios públicos u órganos oficiales de la misma entidad, y a cada uno corresponderá la sanción que en cada caso se señala:
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1991)</small>
+
+ART. 397.- Son infracciones cuya responsabilidad corresponde a los funcionarios y empleados públicos del Estado, así como a los encargados de servicios públicos u órganos oficiales de la misma Entidad, y a cada uno corresponderá la sanción que en cada caso se señala:
 
 I.- Dar entrada o curso a documentos o libros que carezcan en todo o en parte de los requisitos exigidos por las disposiciones fiscales, y en general no cuidar el cumplimiento de las disposiciones fiscales.
 
-Multa de $ 100.00 a $ 5,000.00
+Multa de uno hasta diez días de Salario Mínimo General.
 
-Esta responsabilidad será exigible aún cuando los funcionarios o empleados no hayan intervenido directamente en el trámite o resolución respectiva, si les correspondía hacerlo por razón de su cargo;
+Esta responsabilidad será exigible aún cuando los funcionarios o empleados no hayan intervenido directamente en el trámite o resolución respectiva, si les correspondía hacerlo por razón de su cargo.
 
 II.- Extender actas, expedir certificados, legalizar firmas, autorizar documentos o libros, inscribirlos o registrarlos cuando no exista constancia de que se pagó el impuesto o derecho correspondiente.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de cinco hasta veinte días de Salario Mínimo General.
 
 III.- Recibir el pago de una prestación fiscal y no enterar su importe en el plazo legal.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de cinco hasta veinte días de Salario Mínimo General.
 
 IV.- No exigir el pago total de las prestaciones fiscales.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de cinco hasta veinte días de Salario Mínimo General.
 
-V.- No presentar ni proporcionar, o hacerlo extemporáneamente, los informes, avisos, datos o documentos que exijan las disposiciones fiscales, o presentarlos incompletos o inexactos. No prestar auxilio a las autoridades fiscales para la determinación y cobro de las prestaciones tributarias.
+V.- No presentar ni proporcionar, o hacerlo extemporáneamente, los informes, avisos, datos o documentos que exijan las disposiciones fiscales, o presentarlos incompletos, o inexactos. No prestar auxilio a las autoridades fiscales para la determinación y cobro de las prestaciones tributarias.
 
-Multa de $ 100.00 a $ 5,000.00
+Multa de dos hasta diez días de Salario Mínimo General.
 
 VI.- Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados.
 
-Multa de $ 500.00 a $ 5,000.00
+Multa de dos hasta diez días de Salario Mínimo General.
 
 VII.- Alterar documentos fiscales que tengan en su poder.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de cinco hasta veinte días de Salario Mínimo General.
 
 VIII.- Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se practicaron visitas de inspección o incluir en las actas relativas datos falsos.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de cinco hasta veinte días de Salario Mínimo General.
 
 IX.- No practicar las visitas de inspección cuando tengan la obligación de hacerlo.
 
-Multa de $ 100.00 a $ 5,000.00
+Multa de uno hasta diez días de Salario Mínimo General.
 
 X.- Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento de acuerdo con las disposiciones fiscales.
 
-Multa de $ 100.00 a $ 5,000.00
+Multa de dos hasta diez días de Salario Mínimo General.
 
 XI.- Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos declarados por los causantes o aprovecharse de ellos.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de dinco (sic) hasta veinte días de Salario Mínimo General.
 
 Para los efectos de esta infracción, los representantes de los causantes que integren los organismos fiscales autónomos, se asimilan a los empleados o funcionarios públicos;
 
-XII.- Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento, Cooperar en cualquier forma para que se eludan las prestaciones fiscales.
+XII.- Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento, cooperar en cualquier forma para que se eludan las prestaciones fiscales.
 
-Multa de $ 100.00 a $ 5,000.00
+Multa de dos hasta diez días de Salario Mínimo General.
 
 XIII.- Resistirse por cualquier medio a las visitas de inspección; no suministrar los datos o informes que legalmente puedan exigir los inspectores, auditores o visitadores; no mostrar los libros, documentos, registros, bodegas o locales y en general negarse a proporcionar los elementos que se requieran en relación con el objeto de la visita.
 
-Multa de $ 100.00 a $ 5,000.00
+Multa de dos hasta diez días de Salario Mínimo General.
 
 XIV.- Exigir bajo el título de cooperación o colaboración u otro semejante, cualquier prestación que no esté expresamente prevista en el (sic) Ley, aún cuando se aplique a la realización de las funciones propias de su cargo.
 
-Multa de $ 1,000.00 a $ 100,000.00
+Multa de diez hasta cincuenta días de Salario Mínimo General.
 
 XV.- Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes.
 
-Multa de $ 100.00 a $ 10,000.00.
+Multa de uno hasta diez días de Salario Mínimo General.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1991)</small>
 
 ART. 398.- Son infracciones cuya responsabilidad recae sobre terceros, y a cada uno corresponderá la sanción que en cada caso se señala:
 
-I.- No inscribirse en el registro estatal de causantes, o consentir o tolerar que se inscriban a su nombre en dicho registro negociaciones ajenas o percibir a su nombre propio ingresos gravables que correspondan a otra persona, cuando esto último traiga como consecuencia omisión de impuestos.
+I.- No inscribirse en el Registro Estatal de Causantes, o consentir o tolerar que se inscriban a su nombre en dicho registro negociaciones ajenas o percibir a su nombre propio ingresos gravables que correspondan a otra persona, cuando esto último traiga como consecuencia omisión de impuestos.
 
-Multa de $ 100.00 a $ 50,000.00
+Multa de diez hasta cincuenta días de Salario Mínimo General.
 
-II.- No proporcionar avisos, informes, datos, documentos, o no exhibirlos en el plazo fijado por las disposiciones fiscales, o cuando las autoridades los exijan con apoyo en sus facultades legales. No aclararlos cuando las mismas autoridades lo soliciten.
+II.- No proporcionar avisos, informes, datos, documentos, o no exhibirlos en el plazo fijado por las disposiciones fiscales, o cuando las autoridades lo exijan con apoyo en sus facultades legales. No aclararlos cuando las mismas autoridades lo soliciten.
 
-Multa de $ 100.00 a $ 5,000.00
+Multa de uno hasta diez días de Salario Mínimo General.
 
 III.- Presentar los avisos, informes, datos y documentos de que se habla en la fracción anterior, incompletos o inexactos.
 
-Multa de $ 100.00 a $ 1,000.00
+Multa de uno hasta diez días de Salario Mínimo General.
 
 IV.- Proporcionar los avisos, informes, datos o documentos a que se refieren las fracciones anteriores, alterados o falsificados.
 
-Multa de $ 100.00 a $ 1,000.00
+Multa de uno hasta diez días de Salario Mínimo General.
 
 V.- Autorizar o hacer constar documentos, inventarios, balances, asientos o datos falsos, cuando actúen como contadores, peritos o testigos.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de cinco hasta veinte días de Salario Mínimo General.
 
 VI.- Asesorar o aconsejar a los causantes para evadir el pago de una prestación fiscal, o para infringir las disposiciones fiscales; contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de dos hasta diez días de Salario Mínimo General.
 
 VII.- Ser cómplice en cualquier forma no prevista, en la comisión de infracciones fiscales.
 
-Multa de $ 100.00 a $ 5,000.00
+Multa de diez hasta cincuenta días de Salario Mínimo General.
 
 VIII.- No enterar, total o parcialmente, dentro de los plazos que establezcan las disposiciones fiscales, el importe de las prestaciones fiscales retenidas, recaudadas o que debieron retener o recaudar.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de diez hasta cincuenta días de Salario Mínimo General.
 
 IX.- Presentar los documentos relativos al pago de las prestaciones retenidas, alterados, falsificados, incompletos o con errores que traigan consigo la evasión parcial o total de las mismas prestaciones.
 
-Multa de $ 100.00 a $ 10,000.00
+Multa de diez hasta cincuenta días de Salario Mínimo General
 
 X.- Adquirir, ocultar, retener, o enajenar, productos, mercancías o artículos, a sabiendas de que no se cubrieron los impuestos que en relación con los mismos se hubiera debido pagar.
 
-Multa de $ 100.00 a $ 5,000.00
+Multa de uno hasta diez días de Salario Mínimo General.
 
 XI.- No cerciorarse, al transportar artículos gravados, del pago de los impuestos que se hayan causado, cuando las disposiciones fiscales impongan esa obligación, o hacer el transporte sin la documentación que exijan las mismas disposiciones.
 
-Multa de $ 100.00 a $ 5,000.00
+Multa de uno hasta diez días de Salario Mínimo General.
 
 XII.- No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que tengan obligación de hacerlo, de acuerdo con las disposiciones fiscales.
 
-Multa de $ 100.00 a $ 5,000.00
+Multa de una hasta diez días de Salario Mínimo General.
 
 XIII.- Alterar o destruir los cordones, envolturas o sellos oficiales.
 
-Multa de $ 100.00 a $ 5,000.00
+Multa de cinco hasta veinte días de Salario Mínimo General.
 
-XIV.- Reisitirse (sic) por cualquier medio a las visitas domiciliarias, no suministrar los datos e informes que legalmente puedan exigir los visitadores, auditores o inspectores, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores, y en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado o la de los causantes con quienes haya efectuado operaciones, en relación con el objeto de la visita.
+XIV.- Resistirse por cualquier medio a las visitas domiciliarias, no suministrar los datos e informes que legalmente puedan exigir los visitadores, auditores o inspectores, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores, y en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado o la de los causantes con quienes haya efectuado operaciones, en relación con el objeto de la visita.
 
-Multa de $ 300.00 a $ 20,000.00
+Multa de veinte hasta cien días de Salario Mínimo General.
 
 XV.- Infringir disposiciones fiscales en forma distinta de la prevista en las fracciones precedentes.
 
-Multa de $ 100.00 a $ 5,000.00.
+Multa de uno hasta diez días de Salario Mínimo General.
 
 ART. 399.- Si al cometer una infracción a las Leyes Fiscales se ha incurrido en responsabilidad penal por la comisión de un delito, las autoridades fiscales que tengan conocimiento de la comisión, harán la consignación relativa al Ministerio Público para los efectos a que haya lugar.
 
@@ -4653,11 +4659,27 @@ ART. 403.- El Secretario de Hacienda Pública y Tesorería, el Sub'Secretario de
 
 ART. 404.- Los escritos y las promociones de los causantes no suspenderán el procedimiento económico-coactivo, sino en los casos en que el promovente asegure el interés fiscal en cualquiera de las formas establecidas por esta Ley.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1991)</small>
 
-ART. 405.- Los honorarios de los ejecutores notificadores y demás gastos a que dé lugar el procedimiento fiscal de ejecución, será a cargo del deudor y se harán efectivos conjuntamente con el crédito fiscal que origine el procedimiento.
+ART. 405.- Cuando sea necesario emplear el Procedimiento Administrativo de Ejecución para hacer efectivo un crédito fiscal, las personas físicas y las morales estarán obligadas a pagar el 2% del crédito fiscal por concepto de gastos de ejecución, por cada una de las diligencias que a continuación se indican.
 
-Los ejecutores notificadores recibirán a título de honorarios el 16 por ciento sobre el crédito fiscal notificado sin que en ningún caso pueda exceder de una vez el salario mínimo general diario de la zona económica correspondiente al Estado de Sinaloa, lo que por este concepto corresponda.
+I.- Por el requerimiento señalado en la Fracción II del Artículo 410 de esta Ley.
+
+II.- Por el embargo.
+
+III.- Por la de remate, enajenación fuera de remate o adjudicación al Fisco Estatal.
+
+Cuando en los casos de las Fracciones anteriores el 2% del crédito sea inferior a una vez el Salario Mínimo General diario de la zona económica correspondiente al Estado de Sinaloa, se cobrará esta cantidad en vez del 2% del crédito.
+
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este Artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a un Salario Mínimo General de la zona económica correspondiente al Estado de Sinaloa, elevado a 30 días.
+
+Asímismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del Procedimiento Administrativo de Ejecución, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de inscripciones o cancelaciones en el Registro Público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios.
+
+Los gastos de ejecución, se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga alguno de los recursos que establece esta Ley. Los ingresos recaudados por concepto de gastos de ejecución, se destinarán a las Autoridades Fiscales Estatales para el establecimiento de Fondos de Productividad y para financiar los Programas de Formación de Funcionarios Fiscales, salvo que por Ley estén destinados a otros fines.
+
+Por concepto de honorarios, por las notificaciones de requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se cobrará a quien incurrió en el incumplimiento, una cantidad equivalente a una vez el Salario Mínimo General diario de la zona económica correspondiente al Estado de Sinaloa.
+
+Tratándose de los honorarios a que se refiere el párrafo anterior, la Autoridad Recaudadora los determinará conjuntamente con la notificación y se pagarán al cumplir con el requerimiento.
 
 ## TITULO DECIMO. DE LAS INFRACCIONES FISCALES Y DE LAS SANCIONES CORRESPONDIENTES
 
@@ -5726,3 +5748,9 @@ Se entiende como negociación de nueva creación, aquella que ha contribuido a a
 ###### ARTICULO QUINTO.
 
 El monto de lo recaudado de este impuesto se integrará a un Fondo de Solidaridad, que será destinado a inversión pública en aquellos renglones que acuerde el organismo que se constituya para tal efecto y por decreto.
+
+P.O. 8 DE MARZO DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
