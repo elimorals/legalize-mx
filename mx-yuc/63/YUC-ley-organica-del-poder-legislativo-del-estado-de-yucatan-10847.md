@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-legislativo-del-estado-de-yucatan-10847"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-02-24"
-last_updated: "1988-12-31"
+last_updated: "1991-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de febrero de 1988.
 
@@ -185,11 +185,11 @@ Una vez que se haya realizado la calificación a que se refiere el artículo pre
 
 ### CAPITULO UNICO. DE LA INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PARRAFO D.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 27.
 
-Para la instalación del Congreso, los Diputados electos se reunirán el día 4 de enero, presididos por la Mesa Directiva del Colegio Electoral; y procederá en la forma siguiente:
+Para la instalación del Congreso, los Diputados electos se reunirán el día 16 de enero, presididos por la Mesa Directiva del Colegio Electoral; y procederá en la forma siguiente:
 
 I.- El Presidente de la Mesa Directiva del Colegio Electoral pedirá al Secretario de la misma, proceda a dar lectura a la lista de los Diputados que hayan resultado electos y comprobará que se tiene la concurrencia que prescribe el artículo 26 de la Constitución Política del Estado;
 
@@ -565,7 +565,7 @@ IX.- Trabajo, Asistencia y Seguridad Social y Peticiones.
 
 X.- Corrección de Estilo.
 
-Las atribuciones de aquéllas serán las siguientes:
+Las atribuciones del aquéllas serán las siguientes:
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -649,17 +649,17 @@ Son además atribuciones de la Diputación Permanente las consignadas en el art�
 
 ### CAPITULO I. DE LA INICIACION Y PERIODOS DE SESIONES
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 76.
 
-El Congreso tendrá cada año tres períodos de sesiones ordinarias. El primero a partir del 5 de enero; el segundo a partir del 16 de mayo y el tercero a partir del 16 de octubre.
+El Congreso tendrá cada año tres períodos de sesiones ordinarias. El primero a partir del 16 de enero; el segundo a partir del 16 de mayo y el tercero a partir del 16 de octubre.
 
-Cada periodo de sesiones ordinarias durará el tiempo que sea necesario para tratar todos los asuntos que se le presenten, pero el primero no podrá prolongarse más que hasta el 28 de febrero, el segundo hasta el 15 de julio y el tercero hasta el 31 de diciembre del año que corresponda.
+Cada periodo de sesiones ordinarias durará el tiempo que sea necesario para tratar todos los asuntos que se le presenten, pero el primero no podrá prolongarse más que hasta el 15 de marzo, el segundo hasta el 15 de julio y el tercero hasta el 20 de diciembre del año que corresponda. Este último periodo podrá ampliarse hasta el 31 de diciembre de los años en que el Congreso se constituya en Colegio Electoral.
 
-En las sesiones ordinarias de apertura del primer periodo del Congreso de cada uno de los cinco primero años del ejercicio del Ejecutivo y en la que se celebre el segundo domingo de diciembre del sexto año del mismo, asistirá el Gobernador del Estado, a presentar un informe por escrito en el que manifieste el estado general que guarda la administración pública de la Entidad.
+El Congreso celebrará el cuarto domingo de enero de cada uno de los cinco primeros años del periodo del Ejecutivo y el segundo domingo de diciembre del sexto año del mismo, una Sesión Solemne, en la cual el Gobernador del Estado deberá comparecer a rendir un informe por escrito, en el que manifieste la situación que guarden los diversos ramos de la administración pública de la Entidad. En dicho informe el Gobernador podrá dar respuesta a las preguntas que le hubieren formulado los integrantes del H. Congreso, a través del Presidente en turno, con una antelación no menor de veinte días naturales al del informe correspondiente. Las preguntas comprenderán exclusivamente cualquier asunto de la administración pública, correspondiente al período a que se refiere el informe del Ejecutivo.
 
-El Presidente del Congreso contestará a dicho informe en términos generales. En las sesiones de apertura únicamente se dará cumplimiento a lo dispuesto en el artículo 80 de esta Ley.
+El Presidente del Congreso contestará a dicho informe en términos generales.
 
 El informe será analizado por el Congreso en reuniones subsecuentes.
 
@@ -681,11 +681,11 @@ Habrá sesiones secretas en los casos extraordinarios cuando los asuntos que hay
 
 Al abrirse la primera sesión de un período, el Presidente o en su caso el Vicepresidente hará la declaración respectiva en los siguientes términos: "La (número ordinal que corresponda) Legislatura del Estado de Yucatán abre hoy su (Primer, Segundo o Tercer) Período (Ordinario o Extraordinario) de sesiones, correspondientes al (Primer, Segundo o Tercer) año de su Ejercicio Constitucional". Al pronunciarse estas palabras los concurrentes deberán estar de pie.
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 81.
 
-Salvo lo que disponen el tercer y cuarto párrafo del artículo 76 de esta Ley, en la sesión inaugural de cada periodo se dará lectura a las actas levantadas con motivo de la última sesión celebrada por la Diputación Permanente, por la Junta Previa para la elección de la Mesa Directiva y por el propio Congreso en el periodo inmediato anterior y deberán ser discutidas y aprobadas en su caso a mayoría de votos de los Diputados que integran el quórum.
+En la sesión inaugural de cada período se dará lectura a las actas levantadas con motivo de la última sesión celebrada por la Diputación Permanente, por la Junta Previa para la elección de la Mesa Directiva y por el propio Congreso en el período inmediato anterior y deberán ser discutidas y aprobadas, en su caso, a mayoría de votos de los Diputados que integran el Quórum.
 
 ### CAPITULO II. DEL CEREMONIAL
 
@@ -743,7 +743,7 @@ Al concluir la sesión final de cualquier período, el Presidente pondrá a disc
 
 De la apertura y clausura de todo período de sesiones, se comunicará al Ejecutivo del Estado, al Tribunal Superior de Justicia, a la Secretaría de Gobernación, a las Cámaras del Congreso de la Unión y a las Legislaturas de los Estados.
 
-REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 94.
 
@@ -1226,3 +1226,13 @@ D.O. 31 DE DICIEMBRE DE 1988.
 PRIMERO.- Por esta única vez la "LII" Legislatura se instalará el día 1º de enero de 1991 y concluirá su Periodo Constitucional el 4 de enero de 1994.
 
 SEGUNDO.- Este Decreto entrará en vigor, al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 19 DE DICIEMBRE DE 1991.
+
+###### ARTICULO PRIMERO.
+
+Por esta única vez, la LIII Legislatura del Congreso del Estado se instalará el día cinco de enero de mil novecientos noventa y cuatro y concluirá su Periodo Constitucional el día quince de enero de mil novecientos noventa y siete.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor, el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
