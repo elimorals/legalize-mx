@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1980-01-07"
+last_updated: "1981-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1981.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -94,7 +94,15 @@ Las monedas metálicas a que se refieren los incisos b) y siguientes del artícu
 
 Las oficinas públicas de la Federación, de los Estados y de los Municipios, estarán obligadas a recibir las monedas a que se refiere el artículo que antecede, sin limitación alguna, en pago de toda clase de impuestos, servicios o derechos.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 7o.
+
+Las obligaciones de pago de cualquier suma en moneda mexicana se denominarán invariablemente en pesos y, en su caso, sus fracciones. Dichas obligaciones se solventarán mediante la entrega, por su valor nominal, de billetes del Banco de México o monedas metálicas de las señaladas en el artículo 2o.
+
+No obstante, si el deudor demuestra que recibió del acreedor monedas de las mencionadas en el artículo 2o. bis, podrá solventar su obligación entregando monedas de esa misma clase conforme a la cotización de éstas para el día en que se haga el pago.
+
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 1935)</small>
 
 ###### ARTICULO 8°.
 
@@ -258,7 +266,9 @@ II.- No tendrán valor nominal;
 
 III.- Expresarán su contenido de metal fino; y
 
-IV.- Tendrán poder liberatorio limitado en un mismo pago a diez o a cien piezas, según se trate, respectivamente, de monedas de oro o de plata.
+(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1981) (F. DE E., D.O.F. 23 DE MARZO DE 1982)
+
+IV.- Tendrán poder liberatorio referido exclusivamente al pago de las obligaciones mencionadas en el segundo párrafo del artículo 7o. Dicho poder liberatorio será ilimitado en cuanto al número de piezas a entregar en un mismo pago.
 
 El Banco de México determinará diariamente la cotización de estas monedas, con base en el precio internacional del metal fino contenido en ellas.
 
@@ -296,11 +306,7 @@ Las demás monedas de plata y fraccionarias retiradas de la circulación, serán
 
 ###### ARTICULO 7°.
 
-Las obligaciones de pago, en moneda mexicana se solventarán, salvo lo dispuesto en el párrafo siguiente, entregando hasta el límite de su poder liberatorio, en su caso, billetes o monedas metálicas de curso legal, por su valor nominal o al valor de cotización que rija en la fecha en que se efectúe el pago según éste se haga, respectivamente, con las monedas a que se refieren los artículos 2o. o 2o. bis de esta ley.
-
-Las obligaciones de pago en las monedas a que se refiere el artículo 2o. bis, deberán solventarse entregando monedas de las señaladas en el artículo 2o., a la cotización que hubiere regido para las primeras en la fecha en que se contrajo la correspondiente obligación.
-
-> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 1935)</small>
+(DEROGADO, D.O.F. 10 DE MARZO DE 1932)
 
 ###### ARTICULO 8°.
 
@@ -425,10 +431,6 @@ Se exceptúan únicamente, los actos u operaciones que dentro de los treinta dí
 ###### ARTICULO 7°.
 
 Las violaciones a los artículos 2°., 3°., 4°. y 6°. transitorios de esta ley, se castigarán con pena de prisión, de tres meses a tres años, más el comiso de las piezas de plata motivo del delito.
-
-###### ARTICULO 7°.
-
-(DEROGADO, D.O.F. 10 DE MARZO DE 1932)
 
 ###### ARTICULO 8°.
 
@@ -681,3 +683,11 @@ El Banco de México, directamente o a través de sus corresponsales, canjeará l
 ###### ARTICULO TERCERO.
 
 Los recursos que a la fecha en que entre en vigor este Decreto integren el fondo complementario de estabilización, constituido en el Banco de México, pasarán a formar parte del fondo especial de previsión del propio Instituto Central.
+
+D.O.F. 28 DE DICIEMBRE DE 1981.
+
+> <small>(F. DE E. D.O.F. 23 DE MARZO DE 1982)</small>
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
