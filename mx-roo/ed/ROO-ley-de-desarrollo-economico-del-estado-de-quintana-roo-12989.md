@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-desarrollo-economico-del-estado-de-quintana-roo-12989"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-15"
-last_updated: "1998-06-15"
+last_updated: "2003-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE DESARROLLO ECONOMICO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de Junio de 1998.
 
@@ -279,55 +279,33 @@ II.- Por incumplimiento de las obligaciones que contrajo la empresa, en término
 
 La Secretaría deberá publicar en el Periódico Oficial del Gobierno del Estado, las Constancias de Inversión Económica Favorecida que al efecto expida y la revocación de las mismas.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 2003)</small>
+
 ### CAPITULO SEXTO. DE LA VENTANILLA DE GESTION DE TRAMITES
 
 ###### ARTICULO 27.
 
-Para efectos de este capítulo, se entiende por trámite, el conjunto de procedimientos que tiene que realizar una empresa para cumplir con alguna obligación u obtener alguno de los beneficios que otorgan los gobiernos federal, estatal o municipal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LEY DE MEJORA REGULATORIA PARA EL ESTADO DE QUINTANA ROO, P.O. 30 DE MAYO DE 2003)
 
 ###### ARTICULO 28.
 
-El Gobierno del Estado establecerá en la Secretaría, para apoyar a las empresas establecidas o por establecerse en el Estado que así lo demanden, una ventanilla de gestión de los siguientes trámites:
-
-I.- De Apertura: Son aquellos que resultan necesarios para que una empresa pueda iniciar de una manera legal sus operaciones.
-
-II.- De Funcionamiento: Son aquellos que se realizan de una manera periódica durante la vida de una empresa.
-
-III.- De Construcción: Son aquellos que se realizan por una empresa de una manera previa, para poder realizar la inversión en construcción de una obra nueva o su ampliación.
-
-IV.- De Comercio Exterior: Son aquellos que se realizan para importar insumos para una empresa o para exportar sus productos terminados.
-
-V.- Para Gozar de un Incentivo: Son aquellos que se realizan para acreditar el cumplimiento de requisitos que otorgan una facilidad a la empresa que así lo demuestra.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LEY DE MEJORA REGULATORIA PARA EL ESTADO DE QUINTANA ROO, P.O. 30 DE MAYO DE 2003)
 
 ###### ARTICULO 29.
 
-La Secretaría concertará y propondrá al Ejecutivo del Estado la celebración de convenios de coordinación con las dependencias federales, estatales y municipales, para el apoyo a las empresas en la gestión de sus trámites, con el fin de garantizar:
-
-I.- Atención expedita a los asuntos que turne la ventanilla.
-
-II.- Mantener actualizado al personal de la ventanilla en los conocimientos necesarios para la adecuada gestión de sus trámites.
-
-III.- Contar con los manuales y formatos actualizados que garanticen prestar la información correcta a los demandantes de la información.
-
-IV.- Contar con las tablas de derechos a pagar actualizadas que faciliten al contribuyente el cumplimiento de sus obligaciones fiscales.
-
-V.- Establecer los mecanismos de control y seguimiento de los asuntos turnados entre la ventanilla y las dependencias.
-
-VI.- Proponer medidas de simplificación administrativa.
-
-VII.- Proponer medidas de desregulación económica.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LEY DE MEJORA REGULATORIA PARA EL ESTADO DE QUINTANA ROO, P.O. 30 DE MAYO DE 2003)
 
 ###### ARTICULO 30.
 
-La oficina de la ventanilla de gestión de trámites elaborará el catálogo de trámites clasificados de acuerdo al artículo 22 de la presente Ley, que permita al inversionista conocer con toda precisión en qué trámites los podrá apoyar dicha oficina. Este catálogo, así como sus modificaciones, deberán publicarse en el Periódico Oficial del Gobierno del Estado. Adicionalmente, pondrá a disposición de los interesados, la información relativa al objeto, requisitos, tiempos, costos y formatos de los trámites contenidos en el catálogo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LEY DE MEJORA REGULATORIA PARA EL ESTADO DE QUINTANA ROO, P.O. 30 DE MAYO DE 2003)
 
 ###### ARTICULO 31.
 
-La Secretaría, podrá conceder a las organizaciones empresariales, la apertura de una sucursal de la ventanilla en sus oficinas, siempre y cuando cumplan con la reglamentación que para tal fin elaborará la Secretaría. Dicha autorización podrá revocarse en caso de incumplimiento del reglamento respectivo o por el mal uso del servicio para el que la haya autorizado la Secretaría.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LEY DE MEJORA REGULATORIA PARA EL ESTADO DE QUINTANA ROO, P.O. 30 DE MAYO DE 2003)
 
 ###### ARTICULO 32.
 
-La Secretaría, a través de su oficina de la ventanilla única, coordinará todas las sucursales autorizadas, conforme al Reglamento que al efecto se expida.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LEY DE MEJORA REGULATORIA PARA EL ESTADO DE QUINTANA ROO, P.O. 30 DE MAYO DE 2003)
 
 ### CAPITULO SEPTIMO. DE LAS SANCIONES
 
@@ -400,3 +378,31 @@ ING. MARIO E. VILLANUEVA MADRID.
 EL C. SECRETARIO GENERAL DE GOBIERNO.
 
 DR. HECTOR ESQUILIANO SOLIS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE MAYO DE 2003
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- Se deja sin efecto el Acuerdo para la Desregulación de la Actividad Empresarial en el Estado de Quintana Roo, expedido por el Ejecutivo del Estado, con fecha 25 de febrero de 1997 y publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo, con fecha 7 de marzo de ese mismo año; y se derogan todas las disposiciones legales y reglamentarias que se opongan a los preceptos de la presente Ley.
+
+TERCERO.- Se deroga el capítulo sexto denominado "De la Ventanilla de Gestión de Trámites" de la Ley de Desarrollo Económico del Estado de Quintana Roo, publicada en el Periódico Oficial del Gobierno del Estado de Quintana Roo, con fecha 15 de junio de 1998.
+
+CUARTO.- El Registro de Trámites Empresariales que prestan las Dependencias y Entidades del Gobierno del Estado de Quintana Roo, expedido con fecha 02 de diciembre de 1998, en ese entonces por el Titular de la Secretaría de Promoción Económica y Desarrollo Rural (actualmente Secretaría de Desarrollo Económico) y publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo, con fecha 21 de enero de 1999, quedará sin efectos al momento de la publicación en el citado Periódico Oficial, del Registro Estatal de Trámites y Servicios a que hace referencia el artículo 50 de la presente Ley.
+
+QUINTO.- La Comisión Estatal de Mejora Regulatoria deberá instalarse dentro de los treinta días hábiles siguientes a la entrada en vigor de la presente Ley.
+
+SEXTO.- La Honorable Junta Directiva de la Comisión Estatal de Mejora Regulatoria se integrará a más tardar a los veinte días hábiles siguientes de la publicación de esta Ley. En ejercicio de la facultad conferida por esta Ley en la fracción X del artículo 26, la Junta designará al Director General de la Comisión, en un plazo no mayor de veinte días hábiles, contados a partir de su integración.
+
+SÉPTIMO.- Se establece un término de 180 días hábiles, contados a partir de la fecha de publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo de la presente Ley, para la expedición de su reglamento. Mientras tanto se continuarán aplicando los ordenamientos reglamentarios y administrativos vigentes a la fecha de entrada en vigor de la presente Ley, en todo aquello que no la contravenga. Siendo la Comisión Estatal de Mejora Regulatoria la encargada de resolver todas las cuestiones relativas a la aplicación y debida observancia de esta Ley.
+
+OCTAVO.- Los recursos humanos, presupuéstales y los bienes que, a la entrada en vigor de esta Ley, sean utilizados por la Secretaría de Desarrollo Económico para el ejercicio de las funciones en materia de mejora regulatoria a que se refiere este ordenamiento, se transferirán al organismo público descentralizado denominado Comisión Estatal de Mejora Regulatoria que con esta Ley se crea.
+
+NOVENO.- Hasta en tanto el Gobierno del Estado de Quintana Roo, no se encuentre en posibilidades de expedir el número de identificación relacionado con el Registro Único de Personas Acreditadas (RUPA), no entrarán en vigor las disposiciones de esta Ley relacionado con el mismo.
+
+DÉCIMO.- Los formatos que utilicen las Dependencias y Entidades de la Administración Pública Estatal, para realizar trámites y servicios deberán ser remitidos a la Comisión en un término no mayor a 90 días hábiles, contados a partir de la entrada en vigor de esta Ley, para su posterior publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo, previa aprobación de los mismos por parte de la Comisión Estatal de Mejora Regulatoria.
+
+DÉCIMO PRIMERO.- Todas las Dependencias y Entidades están obligadas a presentar como parte integral de su primer programa bianual de mejora regulatoria y someterlo a consideración de la Comisión, un análisis sobre la vialidad de aplicar la afirmativa ficta en cada trámite que la Dependencia o Entidad aplique. En caso de que la Dependencia o Entidad en coordinación con la Comisión determine la aplicación de la afirmativa ficta para uno o varios trámites, se deberán realizar las correcciones en la ficha del registro de cada trámite para su actualización en el Registro.
+
+Para los efectos del párrafo precedente, las Dependencias y Entidades tendrán la obligación de presentar ante la Comisión, su primer programa bianual de mejora Regulatoria, en un plazo que no excederá de 90 días hábiles contados a partir de la publicación de la presente Ley, en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
