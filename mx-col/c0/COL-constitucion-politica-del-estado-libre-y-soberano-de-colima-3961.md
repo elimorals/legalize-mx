@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1988-06-25"
+last_updated: "1989-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 1989.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -56,6 +56,8 @@ El territorio del Estado es el que determina la Constitución General de la Rep�
 ### CAPITULO IV.
 
 De los habitantes del Estado.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
 ### CAPITULO V.
 
@@ -249,7 +251,9 @@ El Congreso, fuera de los periodos que señala el artículo anterior, celebrará
 
 Las Sesiones del Congreso serán públicas a excepción de aquellas que, por la calidad de los negocios que deban tratarse, el Reglamento Interior prevenga que sean secretas.
 
-No podrá el Congreso abrir sus Sesiones sin la concurrencia de cuatro de sus miembros.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
+
+No podrá el Congreso abrir sus sesiones sin la concurrencia de la Mayoría simple de sus Miembros.
 
 En el periodo en que se inicien las actividades de una nueva Legislatura los Diputados deberán reunirse el día señalado por la Ley y en caso de no haber "quórum", los presentes compelerán a los faltantes para que asistan dentro de los diez días siguientes, con la advertencia de que si no lo hicieren, se entenderá por este solo hecho, que no aceptan su encargo, llamándose luego a los Suplentes, quienes deberán presentarse en un plazo igual y si tampoco lo hicieren, se declarará vacante el Puesto y se convocará a nuevas elecciones.
 
@@ -357,9 +361,9 @@ XXII.- Conceder amnistías por delitos políticos que correspondan a la jurisdic
 
 XXIII.- (DEROGADA, P.O. 30 DE ENERO DE 1954)
 
-(REFORMADA, P.O. 1 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
-XXIV.- Aprobar o reprobar la suspensión de los Ayuntamientos o de sus miembros, y la de los miembros de las Juntas Municipales que hubiere acordado el Ejecutivo.
+XXIV.- Aprobar o reprobar la suspensión de los Ayuntamientos o de sus miembros, por acuerdo de las dos terceras partes de sus integrantes en los términos del Artículo 7o. de la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 > <small>(REFORMADA, P. O. 30 DE ENERO DE 1954)</small>
 
@@ -383,9 +387,9 @@ XXX.- Conceder pensiones de acuerdo con el Ejecutivo; otorgar distinciones u hon
 
 XXXI.- (DEROGADA, P.O. 30 DE ENERO DE 1954)
 
-(REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
-XXXII.- Expedir la Ley General de enseñanza primaria, elemental y superior o profesional.
+XXXII.- Legislar en materia eduactiva (sic) en los términos del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y conforme a lo dispuesto por la Legislación Federal correspondiente.
 
 > <small>(REFORMADA, P.O. 30 DE ENERO DE 1954)</small>
 
@@ -410,6 +414,10 @@ XXXVIII.- Crear y suprimir Municipios de acuerdo con el Ejecutivo y conforme a l
 > <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
 XXXIX.- Autorizar, cuando lo juzgue conveniente las enagenaciones (sic) que debe hacer el Ejecutivo de los bienes que, según las Leyes, pertenezcan al Estado.
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
+
+XL.- Expedir leyes para preservar y restaurar el equilibrio ecológico y proteger el ambiente estableciendo la concurrencia entre el Gobierno del Estado y los Municipios, en materias no reservadas exclusivamente a la Federación, conforme a la Constitución Política de los Estados Unidos Mexicanos.
 
 ### CAPITULO IV.
 
@@ -543,7 +551,9 @@ Para ser Gobernador se requiere:
 
 I.- Ser ciudadano colimense por nacimiento y estar en pleno ejercicio de sus derechos.
 
-II.- Tener por lo menos treinta años cumplidos el día de la elección y una residencia inmediata anterior, no interrumpida en el Estado, no menor de cinco años.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
+
+II.- Tener por lo menos 30 años cumplidos el día de elección y una residencia inmediata anterior de cinco años ininterrumpidos en el Estado.
 
 III.- Tener una ilustración suficiente para desempeñar el cargo.
 
@@ -593,11 +603,11 @@ Las faltas temporales del Gobernador del Estado, hasta por 30 días, serán supl
 
 Cuando se haya nombrado Gobernador Interino, creyéndose que la falta del electo es temporal, y se venga después en conocimiento de que aquella es absoluta, el Congreso o en sus recesos la Diputación Permanente, nombrará un Gobernador Substituto, o bien confirmará el nombramiento de aquél, con el carácter de Substituto. Respecto del Gobernador así nombrado, se observará lo dispuesto en el artículo anterior.
 
-(REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
 ###### Artículo 57.
 
-Si por cualquier motivo la elección de Gobernador no estuviere hecha y publicada para el día primero de noviembre, en que deba efectuarse la renovación del personal conforme al artículo 52, y el electo no estuviere pronto a tomar posesión de su cargo, cesará no obstante, en sus funciones, el Gobernador que esté desempeñando su puesto, y el Congreso nombrará un interino que funcionará mientras se presente el propietario, o se hace la elección; no pudiendo exceder la interinidad de dos meses.
+Si por cualquier motivo la elección de Gobernador no estuviere hecha y publicada para el día primero de noviembre, en que debe efectuarse la renovación y el electo no estuviere en posibilidad de tomar posesión de su cargo, cesará no obstante, en sus funciones, el Gobernador que esté desempeñando su puesto y el Congreso nombrará un interino quien convocar (sic) a elecciones; no debiendo exceder el interinato de dos meses.
 
 ###### Artículo 58.
 
@@ -611,11 +621,11 @@ II.- Promulgar, ejecutar y hacer que se ejecuten las Leyes y Decretos haciendo u
 
 III.- Formar los reglamentos y dictar las providencias que demande la mejor ejecución de las leyes.
 
-IV.- Nombrar y remover libremente al Secretario del Despacho y a los empleados cuyo nombramiento no corresponda a otra corporación o autoridad.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
-> <small>(REFORMADA, P. O. 16 DE NOVIEMBRE DE 1985)</small>
+IV.- Nombrar y remover libremente a los secretarios del despacho, al Procurador de Justicia y a los demás servidores públicos cuyos nombramientos o remoción no correspondan, conforme a la Ley, a otra autoridad.
 
-V.- Nombrar y remover libremente al Secretario de Programación y Finanzas del Estado, Procurador General de Justicia, Agentes del Ministerio Público y a los Jefes de las Fuerzas de Policía y Seguridad en el Estado.
+V.- (DEROGADA, P.O. 23 DE SEPTIEMBRE DE 1989)
 
 (REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -639,19 +649,23 @@ X.- Expedir los nombramientos de los Magistrados del Supremo Tribunal de Justici
 
 XI.- Aceptar las renuncias y licencias de los funcionarios a que se refiere la fracción anterior, dando cuenta con ellas al Congreso o a la Comisión Permanente.
 
-XII.- Dar a las Autoridades Judiciales los auxilios y fuerza armada que necesiten para el expedito ejercicio de sus funciones.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 1954)</small>
+XII.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los tribunales.
 
-XIII.- Conservar el orden, tranquilidad y seguridad en el Estado, disponiendo al efecto de la Fuerza Armada del mismo.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
+
+XIII.- Conservar el orden, tranquilidad y seguridad en el Estado, disponiendo de la fuerza armanda (sic) del mismo, y de la del Municipio donde resida habitual o transitorimaente (sic).
 
 XIV.- Conceder indultos y reducir y conmutar penas conforme a la ley.
 
-XV.- Hacer que se cumplan las ejecutorias de los Tribunales.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 1954)</small>
+XV.- Celebrar convenios con los Gobiernos Federal y de los Estados para que los reos sentenciados por delitos del orden común, puedan cumplir sus sanciones privativas de libertad en establecimientos ubicados fuera de la Entidad.
 
-XVI.- Formar y remitir cada año a la Legislatura en la primera quincena del mes de diciembre, los proyectos de Presupuestos de Ingresos y Egresos del Estado y los que los Ayuntamientos envíen por su conducto.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
+
+XVI.- Formar y remitir cada año a la Legislatura en la primera quincena del mes de Diciembre, los proyectos de Presupuestos de Ingresos y Egresos del Estado.
 
 (REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -669,7 +683,9 @@ XXI.- Visitar cada año los pueblos del Estado, durante los recesos de la Cámar
 
 XXII.- Inspeccionar las obras de mejoras materiales costeadas por las rentas del Estado; cuidando de que no se dilapiden las mismas rentas.
 
-XXIII.- Celebrar, con aprobación del Congreso, los convenios que juzguen necesarios con los Gobernadores de otros Estados, con la limitación que establece el artículo 117 fracción I de la Constitución General.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
+
+XXIII.- Celebrar con aprobación del Congreso, los convenios que juzgue necesarios, con la Federación y los Estados, lo mismo que con los Municipios de la Entidad, ajustándose a lo dispuesto en la fracción VI del Artículo 116 y fracción I en el Artículo 117 de la Constitución General de la República.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 1936)</small>
 
@@ -679,7 +695,7 @@ XXV.- Recibir la protesta de todos los funcionarios y empleados de nombramiento 
 
 XXVI.- Ejercitar los derechos a que se refieren los artículos 40 y 44 de esta Constitución.
 
-XXVII.- Remitir al Congreso y en sus recesos a la Diputación Permanente, los negocios de la competencia del Poder Legislativo que por cualquier causa le hubieren sido consignados.
+XXVII.- (DEROGADA, P.O. 23 DE SEPTIEMBRE DE 1989)
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 1976)</small>
 
@@ -689,7 +705,7 @@ XXVIII.- Rendir ante el Congreso del Estado el informe a que se refiere el Artí
 
 XXIX.- Asistir a la Apertura del Primer Período Ordinario de Sesiones del Congreso.
 
-XXX.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1983)
+XXX.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1983) (REPUBLICADA, P.O. 23 DE SEPTIEMBRE DE 1989)
 
 XXXI.- (DEROGADA, P.O. 23 DE ENERO DE 1954)
 
@@ -711,17 +727,17 @@ XXXVI.- Decretar la expropiación por causa de utilidad pública, en la forma qu
 
 XXXVII.- Siempre que esté en goce de facultades extraordinarias en el Ramo de Hacienda, condonar contribuciones cuando lo considere justo y equitativo.
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1955)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
-XXXVIII.- Expedir el nombramiento del Magistrado del Tribunal Fiscal Unitario del Estado y someterlo a la aprobación de la Legislatura Local, en la misma forma y términos que establece el artículo 70 de esta Constitución, para los Magistrados del Supremo Tribunal de Justicia.
+XXXVIII.- Expedir los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo y someterlos a la aprobación de la Legislatura Local; en la misma forma y términos que establece el Artículo 70 de esta Constitución para los Magistrados del Supremo Tribunal de Justicia.
 
 ###### Artículo 59.
 
 El Gobernador no puede:
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 1954)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
-I.- Negarse a publicar las Leyes y Decretos del Congreso. Sólo en el caso de que le parezcan contrariados a la Constitución del Estado, a la Federal, o restrinjan las facultades del Ejecutivo, lo hará así presente ante la Legislatura en los términos del artículo 40 de esta Constitución.
+I.- Negarse a publicar las Leyes y Decretos del Congreso sólo en el caso de que le parezcan contrarios a la Constitución del Estado, a la Federal, o restrinjan las Facultades del Ejecutivo, notificándolo a la Legislatura para que se proceda en los términos del Artículo 40 de esta Constitución.
 
 II.- Distraer los caudales públicos, de los objetos a que están destinados por la ley.
 
@@ -743,41 +759,47 @@ VII.- Ausentarse del Territorio del Estado por más de treinta días sin licenci
 
 Del Secretario del Despacho.
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 1953)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
 ###### Artículo 60.
 
-Para el despacho de los negocios del Poder Ejecutivo, habrá un Secretario General de Gobierno que tendrá los requisitos que para ser Diputado, señala el Artículo 24, excepto el de la vecindad.
+Para el despacho de los asuntos que son competencia del Poder Ejecutivo, éste se auxiliará de un Secretario de Gobierno y de los Secretarios, el Oficial Mayor, el Procurador General de Justicia y demás servidores públicos de las dependencias que forman la administración pública centralizada, en los términos de la Ley Orgánica de la Administración Pública del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1986)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
 ###### Artículo 61.
 
-Todas las órdenes, acuerdos, decretos y reglamentos del Gobernador, deberán firmarse por el Secretario General de Gobierno y por el Secretario del Ramo a que el asunto corresponda. Sin este requisito no serán obedecidas. Para la promulgación de leyes y decretos del Congreso se requerirá únicamente la firma del Secretario General de Gobierno.
+Las Secretarías tendrán igual rango por lo que no habrá entre ellas preeminencia alguna. Al frente de cada Secretaría habrá un Secretario, que será nombrado y removido libremente por el Gobernador del Estado y que para el despacho de los asuntos de su competencia, se auxiliará de las unidades administrativas y de los demás servidores públicos que requiera el desempeño de sus funciones.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
 ###### Artículo 62.
 
-Queda prohibido al Secretario del Despacho autorizar con sólo su firma cualquier acuerdo o comunicación oficial, so pena de nulidad y responsabilidad conforme a la ley.
+Para ser Secretario de Administración Pública Estatal, se requieren los mismos requisitos que señala el Artículo 24 de esta Constitución, exceptuando el de la vecindad.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
 ###### Artículo 63.
 
-Será responsable el Secretario de los actos que autorice contra la Constitución y las leyes del Estado, sin que le sirva de excusa el acuerdo del Gobernador.
+Todas las leyes, reglamentos y decretos del Ejecutivo, deberán ser refrendados por él y los Secretarios de cuya competencia se trate, sin lo cual carecen de validez.
 
-> <small>(REFORMADO, P. O. 16 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
 ###### Artículo 64.
 
-Las faltas temporales del Secretario General de Gobierno, serán suplidas por el funcionario que designe el Gobernador, con la misma responsabilidad de aquel.
+Mientras se encuentran en el ejercicio de su cargo, ni los Secretarios, ni el Oficial Mayor, ni el Procurador General de Justicia del Estado, podrán desempeñar actividades profesionales que impliquen el ejercicio libre de su profesión. En el caso de los abogados, también estarán impedidos para ejercer el Notariado.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
 ###### Artículo 65.
 
-El Secretario General es el órgano de comunicación entre el Gobernador, las Autoridades, empleados inferiores y de los demás ciudadanos del Estado.
+Las faltas temporales del Secretario General de Gobierno, en cuanto a sus atribuciones dentro de la Administración Pública, serán suplidas por el servidor público que designe el Gobernador, con las mismas atribuciones y facultades de aquél.
 
-(REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
 ###### Artículo 66.
 
-El Secretario General, mientras funcione con este carácter, no podrá ejercer la Abogacía ni la Notaría ni ser apoderado de persona alguna ante los Tribunales del Estado o de la Federación.
+La estructura orgánica de la Administración Pública del Estado y las funciones y atribuciones de las unidades administrativas que la conforman, se determinarán de acuerdo con lo expuesto por la Ley Orgánica correspondiente, los reglamentos y demás acuerdos administrativos que al efecto se expidan.
 
 ### CAPITULO I
 
@@ -925,37 +947,53 @@ Estará a cargo del Tribunal de Arbitraje y Escalafón, la función jurisdiccion
 
 Del Ministerio Público y de la Defensoría de Oficio.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
+
 ###### Artículo 80.
 
-El Ministerio Público es una Magistratura instituida para velar por la exacta observancia de las leyes de interés general. A ese fin deberá ejercitar las acciones que corresponda contra los violadores de dichas leyes, hacer efectivos los derechos concedidos al Estado, e intervenir en los juicios que afecten a las personas a quienes la ley otorgue especial protección.
+El Ministerio Público es la Institución única, indivisible y de buena fe, que tutela la estructura normativa de la sociedad a quien representa, con la finalidad de combatir las conductas antijurídicas que atentan contra la misma, mediante el ejercicio de las acciones penal y de reparación del daño; le corresponde también, la defensa de los derechos del Estado y la intervención en los procedimientos que afecten a las personas a quienes las leyes otorguen especial protección.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 1966)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
 ###### Artículo 81.
 
-Desempeñarán la expresada Magistratura en el Estado: un Procurador General de Justicia, un Sub-Procurador y los Agentes del Ministerio Público que señale la Ley Reglamentaria.
+El Ministerio Público tendrá un titular que se denominará Procurador General de Justicia del Estado, auxiliado por los Sub-Procuradores, los Agentes del Ministerio Público y demás personal que señale la Ley reglamentaria.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
 ###### Artículo 82.
 
-Los funcionarios de que trata el artículo anterior serán considerados como parte en los juicios en que hayan de intervenir, sin gozar de prerrogativa alguna y se sujetarán en todo a las leyes relativas.
+El Procurador General de Justicia será nombrado y removido libremente por el Ejecutivo del Estado, de quien dependerá en forma directa. El nombramiento y remoción de los demás servidores públicos de esta Institución será conforme lo dispuesto en la propia Ley reglamentaria.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 1966)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
 ###### Artículo 83.
 
-Para ser Procurador General de Justicia y Sub-Procurador se requieren las mismas condiciones que para ser Magistrado del Supremo Tribunal de Justicia; y para ser Agente del Ministerio Público se requieren las mismas condiciones que fija el artículo 71 de esta Constitución, pudiendo recaer el nombramiento de Agente del Ministerio Público en persona que carezca del título de Abogado cuando así lo requieran las circunstancias.
+Para ser Procurador General de Justicia y Sub-procurador, se requieren los mismos requisitos que para ser Magistrado del Supremo Tribunal de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
 ###### Artículo 84.
 
-El defensor de oficio tendrá a su cargo el patrocinio de todos los procesa (sic) que no tengan otro defensor y la dirección de los asuntos civiles o administrativos en que se interesen personas de reconocida insolvencia.
+La Defensoría de Oficio es una Institución de orden público obligatoria y gratuita que tiene por objeto proporcionar la defensa necesaria en materia penal a las personas que carecen de defensor particular; y el asesoramiento en asuntos civiles, administrativos, mercantiles y de amparo a quienes así lo soliciten y demuestren no estar en condiciones de retribuir los servicios de un abogado postulante.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
 ###### Artículo 85.
 
-La ley organizará el Ministerio Público y Defensorío (sic) de Oficio, fijará las atribuciones de los funcionarios que los integren y determinará el tiempo que deben durar en el ejercicio de sus funciones y cuales sean éstas.
+La Ley organizará el Ministerio Público y la Defensoría de Oficio, fijará sus funciones y la estructura administrativa correspondiente, así como el nombramiento y remoción de sus integrantes.
 
 ###### Artículo 86.
 
 (DEROGADO, P.O. 21 DE JUNIO DE 1952)
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
+
+###### Artículo 86 Bis.
+
+Los Partidos Políticos son formas de organización política y constituyen entidades de interés público tienen como fin promover la participación del Pueblo en la vida Democrática, contribuir a la integración de la representación Nacional y Estatal y como organización de ciudadanos, hacen posible el acceso de éstos, al ejercicio del Poder Público, de acuerdo con los programas, principios e ideas que postulen mediante el sufragio universal, libre, secreto y directo.
+
+En el Estado, gozarán de las mismas prerrogativas que les confiere la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 1983)</small>
 
@@ -1019,6 +1057,10 @@ La Legislatura del Estado aprobará las Leyes de ingresos de los Ayuntamientos y
 
 V.- Los Municipios, en los términos de las Leyes Federales y Estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales: controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución General de la República, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
 
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
+
+En los mismos términos la preservación y restauración del equilibrio ecológico y la protección al ambiente en asuntos de su competencia, sin contravenir lo dispuesto en las leyes de la materia, para lo cual podrán expedir los reglamentos, ordenanzas, circulares y disposiciones administrativas de observancia general necesarios, en sus respectivas circunscripciones territoriales.
+
 VI.- Cuando dos o más centros urbanos situados en territorios de dos o más Municipios, tanto del Estado como de otra entidad Federativa, formen o tiendan a formar una continuidad demográfica, la Federación, las Entidades Federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a las leyes de la materia.
 
 VII.- El Ejecutivo Federal y el o la Titular del Poder Ejecutivo Estatal tendrán el mando de la fuerza pública en los Municipios donde residieren habitual o transitoriamente.
@@ -1039,11 +1081,11 @@ X.- El Estado y la Federación en los términos de Ley podrán convenir la asunc
 
 El Estado estará facultado para celebrar esos convenios con sus municipios, a efectos (sic) de que éstos asuman la prestación de los servicios o la atención de las funciones a las que se refiere el párrafo anterior.
 
-(REFORMADO, P.O. 6 DE JULIO DE 1935) (F. DE E., P.O. 20 DE JULIO DE 1935)
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
 ###### Artículo 88.
 
-Las Juntas Municipales y los Comisarios durarán en su encargo dos años.
+Las Juntas Municipales, los Delegados y los Comisarios Municipales, durarán en su cargo un año, pudiendo ser ratificados.
 
 > <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1978)</small>
 
@@ -1079,7 +1121,9 @@ III.- En todos los Municipios del Estado habrá además, Regidores electos media
 
 En los casos señalados en los incisos a y b de la fracción anterior, el número de Regidores de representación proporiconal (sic) podrá ser hasta de tres; en el caso del inciso c de la misma fracción, el número de Regidores de representación proporcional podrá ser hasta de dos.
 
-IV.- Los Ayuntamientos están obligados a rendir anualmente en el mes de septiembre, a la Legislatura, un informe circunstanciado de todos los asuntos que hayan estado a su conocimiento y acerca del Estado general de la Municipalidad y a remitir por conducto del Ejecutivo su presupuesto de Ingresos a la misma Legislatura.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
+
+IV.- Los Ayuntamientos están obligados a remitir anualmente en el mes de septiembre a la Legislatura su presupuesto de Ingresos y a presentar la Cuenta Pública.
 
 ###### Artículo 92.
 
@@ -1089,9 +1133,11 @@ IV.- Los Ayuntamientos están obligados a rendir anualmente en el mes de septiem
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 1983)
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
+
 ###### Artículo 94.
 
-Cada ayuntamiento formará su reglamento interior que será revisado y aprobado por el Congreso del Estado, Formará también el reglamento conforme al cual funcionarán las Juntas Municipales de su jurisdicción, que se sujetarán a la misma revisión y aprobación.
+Los Ayuntamientos, tendrán facultades para expedir en base a la Ley Orgánica del Municipio Libre, los bandos de policía y buen gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones.
 
 ###### Artículo 95.
 
@@ -1105,11 +1151,11 @@ Queda encomendado el ejercicio de la Autoridad Judicial, en las cabeceras de las
 
 (REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 1942) (REPUBLICADO, P.O. 4 DE SEPTIEMBRE DE 1954)
 
-## TITULO VII.
+## TITULO VI BIS.
 
-De la Administración del Gobierno Municipal.
+De los Partidos Políticos.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
 ###### Artículo 97.
 
@@ -1149,11 +1195,11 @@ Solo el Estado podrá expedir títulos profesionales y éstos se otorgarán úni
 
 Para la expedición de Fiats de Notarios, no se requiere examen especial, pero el solicitante deberá ser Abogado con título oficial del Estado o legalmente reconocido y poseer una práctica forense de cinco años. El Ejecutivo queda facultado para expedir los Fiats de acuerdo con la Ley relativa, la que fijará el número de notarios que puedan ejercer en el Estado.
 
-## TITULO VIII.
+## TITULO VII.
 
-De la Educación Pública.
+De la Administración del Gobierno Municipal.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 104.
 
@@ -1195,9 +1241,11 @@ Si alguna de las Municipalidades a que se refiere el artículo 104 de esta Const
 
 Las congregaciones que tengan menos de doscientos habitantes, se considerarán agregadas, para todos los efectos políticos y judiciales, a las rancherías, pueblos o cabeceras más próximos a la Municipalidad en que estén ubicadas.
 
-## TITULO IX.. DE LA DIVISION POLITICA DEL ESTADO. (SIC)
+## TITULO VIII.
 
-(REFORMADO, P.O. 26 DE DICIEMBRE DE 1987) (F. DE E., P.O. 15 DE OCTUBRE DE 1988)
+De la Educación Pública.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1942)</small>
 
 ###### Artículo 107.
 
@@ -1253,9 +1301,9 @@ Los encargados de las Oficinas de referencia, distribuirán los caudales públic
 
 El Secretario de Programación y Finanzas del Estado y los demás empleados que manejen fondos públicos, otorgarán finanza (sic) en la forma que la Ley determine.
 
-## TITULO X.
+## TITULO IX.. DE LA DIVISION POLITICA DEL ESTADO. (SIC)
 
-De la Hacienda Pública.
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 1987) (F. DE E., P.O. 15 DE OCTUBRE DE 1988)
 
 ###### Artículo 116.
 
@@ -1327,11 +1375,9 @@ En los juicios del orden civil no hay fuero ni inmunidad.
 
 Pronunciada una sentencia condenatoria de responsabilidad por delitos y faltas oficiales, no puede concederse al reo la gracia de indulto.
 
-## TITULO XI.
+## TITULO X.
 
-De las Responsabilidades de los Funcionarios, Empleados y Servidores Públicos.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
+De la Hacienda Pública.
 
 ###### Artículo 129.
 
@@ -1455,6 +1501,14 @@ Queda para siempre abolida en el Estado la pena de muerte por los delitos del or
 
 El Congreso del Estado no podrá reconocer, bajo ningún concepto a los militares o civiles que escalaren el Poder Ejecutivo de la Unión o del Estado, por medio de alguna asonada, motín o cuartelazo. Tampoco podrá reconocer la renuncia de dichos funcionarios que se hubiere obtenido por medio de la fuerza o coacción.
 
+## TITULO XIV.
+
+## TITULO XI.
+
+De las Responsabilidades de los Funcionarios, Empleados y Servidores Públicos.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
+
 ## TITULO XII.
 
 De la Inviolabilidad de esta Constitución. Su observancia y modo de Reformarla.
@@ -1466,8 +1520,6 @@ De la Inviolabilidad de esta Constitución. Su observancia y modo de Reformarla.
 Disposiciones Generales.
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
-
-## TITULO XIV.
 
 ## Artículos Transitorios.
 
@@ -1487,13 +1539,13 @@ El Estado es libre y Soberano en su régimen interior, pero unido a las demás p
 
 La soberanía del Estado reside en el pueblo y en nombre de éste la ejerce el poder público, del modo y en los términos que establecen esta Constitución y la Federal.
 
+REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 1989)
+
 ###### Artículo 4°.
 
-El Poder Público se constituye para beneficio del pueblo y tiene su origen en la voluntad de éste, expresada en la forma que establezca esta Constitución y las leyes orgánicas.
+El Poder Público se constituye para beneficio del pueblo y tiene su origen en la voluntad de éste, expresada en la forma que establezca esta Constitución y las Leyes Orgánicas.
 
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 1978)</small>
-
-Los Partidos Políticos, Entidades de interés público, tendrán en el Estado las mismas prerrogativas que les confiere la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
 ###### Artículo 5°.
 
@@ -1551,9 +1603,7 @@ P.O. 4 DE OCTUBRE DE 1924.
 
 ###### Artículo 8°.
 
-Son habitantes del Estado todos los mexicanos y extranjeros que pisen el territorio de él:
-
-Sus personas e intereses estarán bajo la garantía de las leyes y sujetos a ellas.
+Son habitantes del Estado todos los mexicanos y extranjeros que residan en su territorio. Sus personas e intereses estarán bajo la garantía de las leyes y sujetos a ellas.
 
 ###### Artículo 9°.
 
@@ -1565,25 +1615,25 @@ I.- Si son mexicanos:
 
 Las que determina el artículo 31 de la Constitución Política de los Estados Unidos Mexicanos; inscribirse en el Registro Civil y manifestar en las Oficinas respectivas el capital, industria o trabajo de que subsistan, en los casos que lo prevengau (sic) las Leyes.
 
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
+
 II.- Si son extranjeros:
 
-(a) Contribuir para los gastos públicos que dispongan las leyes, obedecer y respetar las instituciones, leyes y Autoridades del Estado, sujetándose a los fallos y sentencias de los Tribunales, sin poder intentar otros recursos que los que se conceden a los Mexicanos.
+(a).- Acreditar su Legal Estancia en (sic) País, conforme las disposiciones de la Ley General de Población;
 
-(REFORMADO, P.O. 6 DE JULIO DE 1935) (F. DE E., P.O. 20 DE JULIO DE 1935)
+(b).- Contribuir para los gastos públicos que dispongan las Leyes, obedecer y respetar las Instituciones, Leyes y Autoridades del Estado, sujetándose a los fallos y sentencias de los tribunales, sin poder intentar otros recursos que los que se conceden a los mexicanos;
 
-(b) Inscribir el nacimiento de sus hijos en las oficinas del Registro Civil, y manifestar en las oficinas respectivas el capital, industria, profesión o trabajo de que subsistan en los casos que lo prevengan las leyes.
+(c).- Inscribirse en el Registro Civil y manifestar en las Oficinas respectivas el capital, industria, profesión o trabajo de que subsisten, en los casos que lo prevengan las leyes;
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 1954)</small>
-
-(c) Hacer que sus hijos o pupilos menores de quince años, concurran a las Escuelas Públicas o Privadas para obtener la instrucción primaria elemental, durante el tiempo que marque la Ley de Educación Pública en el Estado.
+(d).- Hacer que sus hijos o pupilos menores de quince años, concurran a las escuelas públicas o privadas, para obtener la Instrucción Primaria Elemental, durante el tiempo que marque la Ley de Educación Pública en el Estado.
 
 ###### Artículo 10.
 
 Son ciudadanos colimenses:
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1970)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
-I.- Por nacimiento: los varones y las mujeres nacidos dentro del territorio del Estado, de padres mexicanos; o fuera de él, de padres colimenses por nacimiento, desde la edad de 18 años.
+I.- Por Nacimiento, los varones y las mujeres nacidos dentro del territorio del Estado, de padres mexicanos o de padres extranjeros, o de padres o madres extranjeros, o fuera de él, de padres colimeneses (sic) por nacimiento, desde la edad de 18 años.
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 1970)</small>
 
@@ -1930,3 +1980,15 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 25 DE JUNIO DE 1988.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 23 DE SEPTIEMBRE DE 1989.
+
+DECRETO No. 45, QUE REFORMA Y ADICIONA ARTICULOS 33 y 87 DE LA CONSTITUCION DEL ESTADO.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 23 DE SEPTIEMBRE DE 1989.
+
+DECRETO No. 46, QUE REFORMA, ADICIONA Y DEROGA LOS ARTICULOS 4, 8, 9, 10, 30, 33, 51, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 80, 81, 82, 83, 84, 85, 86 BIS, 88, 91, 94 Y EL TITULO VI BIS DE LA CONSTITUCION DEL ESTADO.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
