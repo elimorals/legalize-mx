@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1998-06-02"
+last_updated: "1999-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1999.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -493,20 +493,6 @@ Si el Congreso aceptare las reformas propuestas por el Ejecutivo en sus observac
 
 El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Congreso cuando éste dicte sus normas internas de funcionamiento, acuerde la prórroga de sus sesiones, ejerza funciones de Colegio Electoral o de Jurado, o cuando declare que deba acusarse a uno de los funcionarios del Estado por delitos oficiales.
 
-Tampoco podrá hacerlas al Decreto de Convocatoria a sesiones extraordinarias que expida la Comisión Permanente.(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)
-
-###### ARTICULO 28.
-
-Todo proyecto de Ley o Decreto que fuere desechado por el Congreso, no podrá volver a presentarse en el mismo periodo de sesiones.
-
-Los proyectos de Leyes o Decretos votados por el Congreso se remitirán al Ejecutivo, quien, si no tuviere observaciones que hacer, los publicara inmediatamente.
-
-Se reputara aprobado por el Ejecutivo todo proyecto no devuelto con observaciones dentro de los diez días hábiles siguientes; con la salvedad de que si transcurrido este termino, el Congreso hubiere concluido o suspendido sus sesiones, la devolucion debera hacerse en el proximo periodo de sesiones, dentro de los dias que falten para completar el plazo señalado.
-
-Si el Congreso aceptare las reformas propuestas por el Ejecutivo en sus observaciones, lo comunicara a este, quien promulgara la Ley o Decreto. En caso contrario el proyecto se reservara para el siguiente periodo de sesiones para su resolución definitiva, si fuera aprobado por los dos tercios de los votos de los presentes, el proyecto será Ley o Decreto y volverá al Ejecutivo para su promulgación y publicación.
-
-El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Congreso cuando este dicte sus normas internas de funcionamiento, acuerde la prorroga de sus sesiones, ejerza funciones de Colegio Electoral o de Jurado, o cuando declare que deba acusarse a uno de los funcionarios del Estado por delitos oficiales.
-
 Tampoco podrá hacerlas al Decreto de Convocatoria a sesiones extraordinarias que expida la Comisión Permanente.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
@@ -521,9 +507,9 @@ II.- Iniciar ante el Congreso de la Unión las Leyes o Decretos que sean de la c
 
 III.- Crear y suprimir empleos de la Administración Estatal y señalar las asignaciones;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 1992)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1999)</small>
 
-IV.- Legislar en materia económica, educativa, indígena, cultural, electoral estatal, de seguridad, beneficencia pública y privada, así como en materia de protección y preservación del patrimonio histórico y cultural del Estado de Chiapas;
+IV.- Legislar en materia económica, educativa, indígena, cultural, electoral estatal, de protección ciudadana, de seguridad pública, de beneficencia pública o privada, así como en materia de protección y preservación del patrimonio histórico y cultural del Estado de Chiapas;
 
 V.- Formular y en su caso aprobar los planes globales y sectoriales de desarrollo del Estado de Chiapas;
 
@@ -815,7 +801,9 @@ Las obras públicas serán realizadas por el Poder Ejecutivo, por sí o adjudic�
 
 VII.- Presidir el Consejo Indígena Estatal;
 
-VIII.- Velar por la conservación del orden, la tranquilidad y la seguridad del Estado;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1999)</small>
+
+VIII.- Velar por la protección ciudadana, la Seguridad Pública, la conservación del orden, la tranquilidad y la seguridad del Estado;
 
 IX.- Ejercer el mando de la Fuerza Pública del Estado y la de los Municipios donde residiere habitual o transitoriamente;
 
@@ -1450,6 +1438,12 @@ Los Poderes Públicos del Estado residirán en la Ciudad de Tuxtla Gutiérrez. E
 El Periódico Oficial es el órgano para dar a conocer a los habitantes del Estado las disposiciones de observancia general.
 
 Las leyes o decretos, los reglamentos, y cualesquiera otras disposiciones obligarán a los quince días de su promulgación, siempre que en los mismos no se fije la fecha en que deba comenzar su vigencia. Se entiende hecha la promulgación, el día en que termine la inserción de la ley o disposición de que se trate en el Periódico Oficial.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 1999)</small>
+
+ARTICULO 82 BIS.- La protección ciudadana es una función a cargo del Estado y sus Municipios, en las respectivas competencias que esta Constitución señala; garantizando entre otras la prevención, persecución y sanción de las infracciones y delitos, la reinserción social del delincuente y del menor infractor, así como la Protección Civil del Estado.
+
+El Estado y los Municipios se coordinarán en los términos que la ley señale para establecer un sistema estatal de seguridad pública que garantice el ejercicio irrestricto de las libertades ciudadanas, la paz y orden públicos.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -2224,3 +2218,9 @@ P.O. 2 DE JUNIO DE 1998.
 ###### ARTICULO UNICO.
 
 Las reformas a la Constitución Política del Estado, previstas en el Artículo único del presente decreto, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE ENERO DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
