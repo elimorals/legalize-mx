@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1952-06-21"
+last_updated: "1953-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 1952.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 1953.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -385,21 +385,19 @@ IX.- Acordar el llamamiento de los suplentes en caso de muerte, separación o im
 
 De la Iniciativa y Formación de las Leyes.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 1953)</small>
 
 ###### Artículo 37.
 
-El derecho de iniciar las leyes corresponde:
+El derecho de iniciar Leyes corresponde:
 
 I.- A los Diputados.
 
 II.- Al Gobernador.
 
-III.- Al Supremo Tribunal de Justicia.
+III.- Al Supremo Tribunal de Justicia en asuntos del Ramo de Justicia.
 
-IV.- A los Ayuntamientos.
-
-V.- A los ciudadanos del Estado.
+IV.- A los Ayuntamientos en lo que se relaciona con asuntos de la Administración Municipal.
 
 ###### Artículo 38.
 
@@ -411,21 +409,29 @@ Con excepción de las iniciativas de los Diputados, que se sujetarán a los trá
 
 El primer período de sesiones ordinarias de cada año de ejercicio legal, se destinará de toda preferencia al examen y votación de los proyectos de presupuestos que remitirá oportunamente el Ejecutivo.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 1953)</small>
+
 ###### Artículo 40.
 
-Al presentarse a la Cámara un Dictamen de ley o Decreto, por la Comisión respectiva, se pasará copia de él al Ejecutivo para que dentro del término no mayor de seis días, que el Presidente señale con aprobación de la Cámara, haga las observaciones que estime convenientes o manifieste su conformidad.
+Al presentarse a la Cámara un dictamen de Ley o Decreto, por la Comisión respectiva, y una vez aprobado, se pasará copia de él al Ejecutivo para que en un término no mayor de diez días hábiles, haga las observaciones que estime convenientes y manifieste su conformidad; en este último caso, lo publicará inmediatamente.
+
+Si el Ejecutivo devolviere la Ley o Decreto con observaciones, pasará nuevamente a la Comisión para que previo dictamen sea discutido de nueva cuenta en cuanto a las observaciones hechas; y si fuere confirmado por el voto de las dos terceras partes de los miembros del Congreso, o modificado de conformidad con las observaciones hechas, el Proyecto tendrá el carácter de Ley o Decreto, y será devuelto al Ejecutivo para su inmediata promulgación.
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 1953)</small>
 
 ###### Artículo 41.
 
-Se reputa aprobado por el Poder Ejecutivo todo proyecto no devuelto con observaciones a la Legislatura, dentro del término que se haya señalado al efecto. Las observaciones deb rán (sic) ser entregadas al Congreso si se encuentra reunido o a la Diputación Permanente.
+Se reputará aprobado por el Poder Ejecutivo todo Proyecto no devuelto con observaciones a la Cámara en el término fijado para este fin, a no ser que, corriendo este término, hubiere el Congreso cerrado o suspendido sus sesiones en cuyo caso, la devolución deberá hacerse el primer día hábil en que el Congreso esté reunido.
 
 ###### Artículo 42.
 
 Cuando haya Dictámen en un todo conforme a la iniciativa que proceda del Ejecutivo, no se pasará el Dictámen como lo previene el artículo 40 de esta Constitución.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 1953)</small>
+
 ###### Artículo 43.
 
-Tampoco será oído el Ejecutivo ni podrá hacer observaciones a la Legislatura, cuando éste ejerza funciones de Colegio Electoral o de Jurado, ni cuando la Diputación Permanente convoque al Congreso a periodo extraordinario de sesiones o a sesión extraordinaria.
+El Ejecutivo del Estado no podrá hacer observaciones a las resoluciones del Congreso, cuando éste ejerza funciones de Colegio Electoral o de Jurado.
 
 ###### Artículo 44.
 
@@ -645,11 +651,11 @@ VII.- Ausentarse del Territorio del Estado por más de treinta días sin licenci
 
 Del Secretario del Despacho.
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1924)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 1953)</small>
 
 ###### Artículo 60.
 
-Para el despacho de los negocios del orden Administrativo del Estado, habrá un Secretario General que deberá ser Ciudadano Colimense y tendrá la competencia, honradez y buena conducta, a juicio del Ejecutivo del Estado.
+Para el despacho de los negocios del Poder Ejecutivo, habrá un Secretario General de Gobierno que tendrá los requisitos que para ser Diputado, señala el Artículo 24, excepto el de la vecindad.
 
 ###### Artículo 61.
 
@@ -663,11 +669,11 @@ Queda prohibido al Secretario del Despacho autorizar con sólo su firma cualquie
 
 Será responsable el Secretario de los actos que autorice contra la Constitución y las leyes del Estado, sin que le sirva de excusa el acuerdo del Gobernador.
 
-(REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 1953)</small>
 
 ###### Artículo 64.
 
-Las faltas temporales del Secretario serán suplidas por el Oficial Mayor de la Secretaría pero no indefinidamente, sino dos meses a lo más.
+Las faltas temporales del Secretario General de Gobierno, serán suplidas por el Oficial Mayor de la Secretaría, con la misma responsabilidad que aquél.
 
 ###### Artículo 65.
 
@@ -1560,3 +1566,7 @@ Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el 
 P.O. 21 DE JUNIO DE 1952.
 
 ARTICULO TRANSITORIO. Este Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 1953.
+
+Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
