@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-los-centros-federales-de-readaptacion-social-136"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-08-30"
-last_updated: "1991-08-30"
+last_updated: "1992-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-08-28"
 
 REGLAMENTO DE LOS CENTROS FEDERALES DE READAPTACION SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1992.
 
 Reglamento publicado en el Diario Oficial de la Federación el viernes 30 de agosto de 1991.
 
@@ -99,7 +99,7 @@ II.- Que no se encuentre a disposición de autoridad judicial distinta a la que 
 
 III.- Que, de conformidad con el estudio de personalidad que le practique la Dirección General de Prevención y Readaptación Social, no manifieste signos o síntomas psicóticos, y además reúna las características de perfil establecidas en el Instructivo para el Manejo de Datos del Perfil Clínico Criminológico del Interno, para este tipo de centros; y
 
-IV.- Que le resten por cumplir cuando menos dos años de la pena privativa de la libertad impuesta por la sentencia, tomando en cuenta la posibilidad del reo de obtener el tratamiento preliberacional, a través de la libertad preparatoria, la remisión parcial de la pena o ambos.
+IV.- (DEROGADA, D.O.F. 7 DE MAYO 1992)
 
 ###### ARTICULO 13.
 
@@ -820,3 +820,9 @@ PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publi
 SEGUNDO.- La Secretaría de Gobernación, a través de la Dirección General de Prevención y Readaptación Social, expedirá, en un plazo que no exceda de un mes a partir de la fecha de publicación de este Reglamento, los Manuales e Instructivos de Organización y Funcionamiento que se deriven del mismo y que no podrán contravenirlo.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los 28 días del mes de agosto de 1991.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 7 DE MAYO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
