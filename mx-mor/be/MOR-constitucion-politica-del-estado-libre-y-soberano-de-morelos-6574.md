@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1953-10-28"
+last_updated: "1954-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 1954.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -1028,6 +1028,8 @@ I.- La circunscripción geográfica de cada uno de ellos debe establecerse de ta
 
 II.- Que la población componente de cada Municipio pueda llenar las condiciones a que se refiere la fracción XI del artículo 40 de esta Constitución.
 
+N. DE E., EN RELACION A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION REMITASE A LOS ARTICULOS TRANSITORIOS DEL DECRETO QUE MODIFICA LA LEY.
+
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1953)</small>
 
 III.- Cada Municipio será administrado por un Ayuntamiento de elección popular directa que se renovará en su totalidad CADA TRES AÑOS, siendo el número de sus componentes proporcional al de sus habitantes, siempre impares y nunca menor de tres, nombrándose por cada Regidor Propietario un Suplente.
@@ -1334,6 +1336,12 @@ P.O. 28 DE OCTUBRE DE 1953.
 
 DECRETO NUMERO 10
 
-PRIMERO.- El presente Decreto empezará a surtir sus efectos Constitucionales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1954)</small>
+
+PRIMERO.- El presente Decreto empezará a surtir sus efectos Constitucionales a partir del día primero de enero de del año de 1955 día primero de enero de del año de 1955 fecha en que se renovará la totalidad de los Ayuntamientos del Estado.
 
 SEGUNDO.- Remítase al Ejecutivo del Estado para los efectos de la Fracción I del Artículo 71 de la Constitución Política Local.
+
+P.O. 24 DE FEBRERO DE 1954.
+
+UNICO.- Remítase al Ejecutivo del Estado, para los efectos de la Fracción I del Artículo 71 de la Constitución Política Local.
