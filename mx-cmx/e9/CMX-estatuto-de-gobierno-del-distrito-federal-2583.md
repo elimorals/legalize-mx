@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-de-gobierno-del-distrito-federal-2583"
 country: "mx"
 rank: "estatuto"
 publication_date: "1994-07-26"
-last_updated: "1995-12-12"
+last_updated: "1996-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2583&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-07-22"
 
 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE NOVIEMBRE DE 1996.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de julio de 1994.
 
@@ -180,6 +180,8 @@ Los derechos a que se refiere este capítulo se ejercerán en los términos y co
 
 Los ciudadanos del Distrito Federal tienen derecho a:
 
+> <small>N. DE E. SE DEROGAN TODOS LOS ARTICULOS DEL ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL REFERIDOS A LA ELECCION DE LOS CONSEJEROS CIUDADANOS. POR DISPOSICION DEL ARTICULO TERCERO TRANSITORIO, DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES…; D.O.F. 22 DE NOVIEMBRE DE 1996.</small>
+
 I. Votar y ser votados, en los términos de la Constitución Política de los Estados Unidos Mexicanos, de este Estatuto y de las leyes, para los cargos de representación popular y los de Consejeros Ciudadanos en las demarcaciones territoriales;
 
 II. La preferencia, en igualdad de circunstancias, para ocupar cargos, empleos o desempeñar comisiones de carácter público cuando cumplan con los requisitos que establezcan las leyes; y
@@ -198,13 +200,15 @@ Los ciudadanos del Distrito Federal participarán, a través de los Consejos de 
 
 Son obligaciones de los ciudadanos del Distrito Federal:
 
+> <small>N. DE E. SE DEROGAN TODOS LOS ARTICULOS DEL ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL REFERIDOS A LA ELECCION DE LOS CONSEJEROS CIUDADANOS. POR DISPOSICION DEL ARTICULO TERCERO TRANSITORIO, DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES…; D.O.F. 22 DE NOVIEMBRE DE 1996.</small>
+
 I. Votar en las elecciones, en los términos de la Constitución Política de los Estados Unidos Mexicanos, de este Estatuto y de las leyes, para los cargos de representación popular y los de Consejeros Ciudadanos en las demarcaciones territoriales;
 
 II. Inscribirse en los padrones de contribuyentes del Distrito Federal;
 
 III. Desempeñar los cargos de representanción (sic) popular del Distrito Federal, para los cuales fueren electos, los que en ningún caso serán gratuitos;
 
-IV. Desempeñar las funciones de Consejeros Ciudadanos del Distrito Federal;
+IV. (DEROGADA POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 22 DE NOVIEMBRE DE 1996)
 
 V. Proporcionar la información requerida en los censos efectuados por las autoridades; y
 
@@ -964,73 +968,51 @@ El Programa de Desarrollo Urbano del Distrito Federal será formulado por el Jef
 
 Las solicitudes de modificación serán presentadas ante la autoridad delegacional, la cual para su aprobación la someterá al Consejo de Ciudadanos respectivo. La ley determinará los casos de interés general así como los procedimientos para las modificaciones a dichos programas que serán competencia de la administración central de acuerdo con lo dispuesto por el artículo 131 de este Estatuto.
 
+> <small>N. DE E. SE DEROGAN TODOS LOS ARTICULOS DEL ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL REFERIDOS A LA ELECCION DE LOS CONSEJEROS CIUDADANOS. POR DISPOSICION DEL ARTICULO TERCERO TRANSITORIO, DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES.; D.O.F. 22 DE NOVIEMBRE DE 1996.</small>
+
 ## TITULO SEXTO. DE LOS CONSEJOS DE CIUDADANOS
+
+> <small>N. DE E. SE DEROGAN TODOS LOS ARTICULOS DEL ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL REFERIDOS A LA ELECCION DE LOS CONSEJEROS CIUDADANOS. POR DISPOSICION DEL ARTICULO TERCERO TRANSITORIO, DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES.; D.O.F. 22 DE NOVIEMBRE DE 1996.</small>
 
 ### CAPITULO I. DE LA INTEGRACION E INSTALACION
 
 ###### ARTICULO 120.
 
-En cada Delegación del Distrito Federal se integrará en elección directa, por el voto libre, secreto y personal de los ciudadanos vecinos de las mismas, un Consejo de Ciudadanos como órgano de representación vecinal y de participación ciudadana.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 22 DE NOVIEMBRE DE 1996)
 
 ### CAPITULO II. DE LAS FUNCIONES
 
 ###### ARTICULO 121.
 
-La ley determinará la forma en que las Delegaciones se dividirán para efecto de la elección de los Consejeros Ciudadanos, debiendo considerar factores históricos, unidad geográfica, identidad cultural, dimensión del territorio y el último censo de población, con sujeción a lo que dispone el artículo siguiente.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 22 DE NOVIEMBRE DE 1996)
 
 ###### ARTICULO 122.
 
-El número de integrantes del Consejo de Ciudadanos en cada Delegación, se determinará de acuerdo a las siguientes reglas:
-
-I. Hasta por los primeros 100,000 habitantes de la Delegación habrá 15 Consejeros;
-
-II. Por cada 50,000 habitantes que excedan de la cantidad a que se refiere la fracción anterior, habrá un Consejero; y
-
-III. En todo caso, a cada Delegación corresponderán por lo menos 15 Consejeros.
-
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 1995)</small>
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 22 DE NOVIEMBRE DE 1996)
 
 ###### ARTICULO 123.
 
-Los Consejeros Ciudadanos serán electos por fórmula, integrada por un propietario y un suplente, que en cada área vecinal en que se dividan las Delegaciones podrán presentar para su registro los ciudadanos vecinos del área correspondiente, en los términos que establezca la ley.
-
-Cada una de las solicitudes de registro de fórmulas deberá estar avalada por al menos el cuatro por ciento de los ciudadanos que residan en el área vecinal de que se trate, inscritos en el padrón electoral federal. La ley determinará los requisitos que deberá reunir la solicitud para los efectos de la identificación y la comprobación de la residencia de los firmantes, así como los procedimientos de verificación. No procederá el registro en los casos en que los órganos competentes comprueben irregularidades respecto de la autenticidad de las firmas o de la residencia manifestada en la solicitud.
-
-Cada ciudadano tiene derecho de apoyar el registro de una sola fórmula de candidatos.
-
-Los partidos políticos con registro nacional participarán en el proceso de integración de los Consejos de Ciudadanos en lo relativo a la organización y vigilancia de la elección, en los términos que disponga la ley que dicte la Asamblea de Representantes del Distrito Federal.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 22 DE NOVIEMBRE DE 1996)
 
 ###### ARTICULO 124.
 
-Los Consejeros Ciudadanos propietarios no podrán ser electos para el periodo inmediato con el mismo carácter. Los Consejeros Ciudadanos suplentes podrán ser electos para el periodo inmediato con el carácter de propietarios. Los Consejeros Ciudadanos propietarios no podrán ser electos para el periodo siguiente con el carácter de suplentes.
-
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 1995)</small>
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 22 DE NOVIEMBRE DE 1996)
 
 ###### ARTICULO 125.
 
-Los Consejos de Ciudadanos se renovarán en su totalidad cada tres años. La elección se efectuará en la misma fecha que la legislación electoral federal prevea para la realización de la de diputados federales y representantes a la Asamblea del Distrito Federal.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 22 DE NOVIEMBRE DE 1996)
 
 ###### ARTICULO 126.
 
-La ley de participación ciudadana regulará lo relativo a la organización y declaración de validez de las elecciones de los Consejeros Ciudadanos, así como las impugnaciones y el procedimiento sumario para hacerlas valer. Al efecto se suscribirán convenios con las autoridades federales electorales.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 22 DE NOVIEMBRE DE 1996)
 
 ###### ARTICULO 127.
 
-Son requisitos para ser miembro de los Consejos de Ciudadanos:
-
-I. Ser ciudadano del Distrito Federal, en pleno ejercicio de sus derechos;
-
-II. Residir en el área vecinal de que se trate de la Delegación correspondiente, cuando menos dos años antes de la elección;
-
-III. No haber sido condenado por delito intencional alguno; y
-
-IV. No ser servidor público de confianza que preste sus servicios en la Delegación correspondiente.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 22 DE NOVIEMBRE DE 1996)
 
 ###### ARTICULO 128.
 
-Los Consejos de Ciudadanos sesionarán en pleno y en comisiones, a las sesiones del pleno, deberá asistir el delegado respectivo, el cual participará en las mismas con voz pero sin voto.
-
-La presidencia del Consejo se rotará entre los Consejeros Ciudadanos en los términos que establezca la ley.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 22 DE NOVIEMBRE DE 1996)
 
 ###### ARTICULO 129.
 
@@ -1229,3 +1211,25 @@ D.O.F. 12 DE DICIEMBRE DE 1995.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- A los miembros del Consejo de la Judicatura del Distrito Federal en funciones a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones contenidas en el Artículo Primero del mismo, salvo la duración en el cargo, la cual se sujetará a lo previsto en el Artículo Séptimo transitorio del Decreto por el que se reforman diversos artículos de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 31 de diciembre de 1994.
+
+D.O.F. 22 DE NOVIEMBRE DE 1996.
+
+ARTICULOS TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL.
+
+PRIMERO.- Las reformas a que se refiere el presente Decreto entrarán en vigor el día de su publicación en el Diario Oficial de la Federación, con las particularidades que se establecen en las disposiciones transitorias de cada uno de los artículos de este Decreto.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El seis de julio de 1997 se elegirán, para el Distrito Federal, exclusivamente el Jefe de Gobierno y los Diputados a la Asamblea Legislativa del Distrito Federal.
+
+Se derogan todos los artículos del Estatuto de Gobierno del Distrito Federal referidos a la elección de los Consejeros Ciudadanos.
+
+Las normas que regulan las funciones sustantivas de los actuales Consejeros Ciudadanos establecidas en los ordenamientos vigentes, seguirán aplicándose hasta la terminación del periodo para el que fueron electos.
+
+Con base en el nuevo Estatuto de Gobierno del Distrito Federal, la Asamblea Legislativa expedirá las disposiciones relativas a la participación ciudadana en el Distrito Federal.
+
+CUARTO.- Se autoriza al titular del Poder Ejecutivo Federal para que por conducto de la Secretaría de Hacienda y Crédito Público, se realicen las transferencias presupuestales necesarias, a efecto de que las autoridades correspondientes puedan cumplir con las obligaciones y llevar a cabo las nuevas actividades que las presentes reformas y adiciones les imponen.
+
+QUINTO.- Los criterios de jurisprudencia sostenidos por la Sala Central y la Sala de Segunda Instancia del Tribunal Federal Electoral, según corresponda, continuarán siendo aplicables en tanto no se opongan a las reformas establecidas en los artículos SEGUNDO, TERCERO y CUARTO del presente Decreto.
+
+Para que los criterios de jurisprudencia a que se refiere el párrafo anterior resulten obligatorios, se requerirá de la declaración formal de la Sala Superior del Tribunal Electoral. Hecha la declaración, la jurisprudencia se notificará de inmediato a las Salas Regionales, al Instituto Federal Electoral y, en su caso, a las autoridades electorales locales.
