@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-2-2001-de-diecinueve-de-febrero-de-dos-mil-25444
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-02-20"
-last_updated: "2001-02-20"
+last_updated: "2001-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25444&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-02-19"
 
 ACUERDO NUMERO 2/2001, DE DIECINUEVE DE FEBRERO DE DOS MIL UNO, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO AL ENVIO DE ASUNTOS DE SU COMPETENCIA ORIGINARIA A LAS SALAS Y A LA PROGRAMACION DE LOS ASUNTOS QUE RESOLVERA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO DEL ACUERDO GENERAL 5/2001 DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 29 DE JUNIO DE 2001, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XIII, Febrero de 2001, página 1849.
 
@@ -76,3 +78,15 @@ LICENCIADO JOSÉ JAVIER AGUILAR DOMÍNGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA
 CERTIFICA:
 
 Que este Acuerdo Número 2/2001, relativo al envío de asuntos competencia originaria del Tribunal Pleno a las Salas y a la programación de los asuntos que resolverá, fue emitido por el propio Tribunal Pleno en sesión privada celebrada el diecinueve de febrero de dos mil uno, por unanimidad de once votos de los señores Ministros presidente Genaro David Góngora Pimentel, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juventino V. Castro y Castro, Juan Díaz Romero, José Vicente Aguinaco Alemán, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza.- México, Distrito Federal, a veinte de febrero de dos mil uno.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 29 DE JUNIO DE 2001.
+
+PRIMERO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Acuerdo 1/1997, emitido por el Tribunal Pleno el veintisiete de mayo de mil novecientos noventa y siete.
+
+TERCERO.- Se abrogan los Acuerdos Generales Números 6/1999, 1/2000, 4/2000, 9/2000, 10/2000, 2/2001 y 4/2001 emitidos por el Tribunal Pleno el veintidós de junio de mil novecientos noventa y nueve, el diecisiete de enero de dos mil, el nueve de marzo de dos mil, el siete de septiembre de dos mil, el diecinueve de febrero de dos mil uno y el diecisiete de mayo de dos mil uno, respectivamente; sin embargo, los asuntos en los que se hubiese solicitado la intervención de la Suprema Corte de Justicia de la Nación durante la vigencia de dichos acuerdos, se continuarán tramitando conforme a ellos hasta su resolución.
+
+CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
