@@ -4,7 +4,7 @@ identifier: "BCN-codigo-fiscal-del-estado-de-baja-california-18798"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-12-31"
-last_updated: "1998-05-04"
+last_updated: "1998-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 1998.
 
 Código publicado en la Sección Decimosegunda del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 1988.
 
@@ -187,7 +187,7 @@ II.- En los demás casos, la preferencia corresponderá al Fisco que tenga el ca
 
 Para determinar la preferencia de los Créditos Fiscales, en casos diversos del previsto en el Artículo anterior, se estará a las siguientes reglas:
 
-I.- Los créditos del Gobierno Estatal provenientes de Impuestos, Derechos, Aprovechamientos, Productos y Contribuciones de Mejoras, son preferentes a cualesquiera otros, con excepción de los créditos con garantía hipotecaria o prendaria, de alimentos, salarios o sueldos devengados o de indemnizaciones a los trabajadores, de acuerdo con la Ley Federal del Trabaj.
+I.- Los créditos del Gobierno Estatal provenientes de Impuestos, Derechos, Aprovechamientos, Productos y Contribuciones de Mejoras, son preferentes a cualesquiera otros, con excepción de los créditos con garantía hipotecaria o prendaria, de alimentos, salarios o sueldos devengados o de indemnizaciones a los trabajadores, de acuerdo con la Ley Federal del Trabajo.
 
 II.- Para que sea aplicable la excepción a que se refiere la Fracción anterior, será requisito indispensable que las garantías hipotecarias, y en su caso, las prendarias se encuentren debidamente inscritas en el Registro de la Propiedad y de Comercio, con anterioridad a la fecha en que se hubiere notificado al deudor, el crédito fiscal; y respecto de los créditos por alimentos, que se haya presentado la demanda ante las Autoridades competentes.
 
@@ -2083,6 +2083,22 @@ Sin embargo las autoridades no fiscales, podrán secuestrar el remanente que lle
 
 La base para el remate de los bienes inmuebles y negociaciones embargados, será el avalúo pericial, rendido por perito legalmente autorizado; tratándose de los demás bienes embargados, será el avalúo practicado por la autoridad fiscal, en un plazo de seis días contados a partir de la fecha en que se hubiere practicado el embargo. En todos los casos, la autoridad notificará personalmente al embargado el avalúo practicado.
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 1998)</small>
+
+El embargado o terceros acreedores que no estén conformes con la valuación hecha, podrán hacer valer el recurso de revocación a que se refiere este Código dentro de los diez días siguientes a aquél en que surta efectos la notificación a que se refiere el párrafo anterior, debiendo designar en el mismo, en el caso de bienes muebles, como perito de su parte a cualquier valuador idóneo o alguna empresa o institución dedicada a la compraventa y subasta de bienes, y tratándose de bienes inmuebles y negociaciones a cualquier perito legalmente autorizado.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 1998)</small>
+
+Cuando el embargado o terceros acreedores no interpongan el recurso dentro del plazo antes señalado o haciéndolo no designen valuador, se tendrá por aceptado el avalúo hecho conforme al primer párrafo de este artículo.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 1998)</small>
+
+Cuando del dictamen rendido por el perito del embargado o terceros acreedores resulten (sic) un valor superior a un 10% al determinado conforme al primer párrafo de este artículo, la autoridad recaudadora designará dentro del término de seis días, un perito tercero valuador, o alguna empresa o institución dedicada a la compraventa y subasta de bienes. El avalúo que se fije será la base por la enajenación de los bienes.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 1998)</small>
+
+En todos los casos a que se refieren los párrafos que anteceden, los peritos deberán rendir su dictamen en un plazo de 10 días su (sic) se trata de bienes muebles, 20 días si son inmuebles y 30 días cuando sean negociaciones, a partir de la fecha de su designación.
+
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 164.
@@ -2233,7 +2249,7 @@ III.- El promovente deberá acompañar al escrito de interposición del recurso:
 
 a) Los documentos que acrediten la personalidad cuando actúe en nombre de otro o de personas morales.
 
-b) El documento en el que conste el acto impugnado.
+b) El documento en el que conste el acto impugnado;
 
 c) Constancia de notificación del acto impugnado, excepto cuando el promovente declare bajo protesta de decir verdad que no recibió la constancia, que la notificación se haya practicado por correo certificado con acuse de recibo o por correo ordinario. Si la notificación fue por edictos, deberá señalar la fecha de la última publicación y en donde se hizo ésta; y
 
@@ -2414,3 +2430,9 @@ P.O. 4 DE MAYO DE 1998.
 ###### ARTICULO UNICO.
 
 La presente reforma entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE JULIO DE 1998.
+
+###### ARTICULO UNICO.
+
+La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
