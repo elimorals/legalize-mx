@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-42035"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-13"
-last_updated: "2004-12-13"
+last_updated: "2005-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,17 +23,25 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE AGUASCALIENTES
 
-CODIGO MUNICIPAL DE AGUASCALIENTES
+CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE FEBRERO DE 2004.
 
-Código publicado en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de diciembre de 2004.
+Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
-GOBIERNO DEL ESTADO
+Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
 
-PODER EJECUTIVO
+Miguel Alemán Velazco, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a sus habitantes sabed:
 
-CODIGO MUNICIPAL DE AGUASCALIENTES
+Que la Honorable Quincuagésima Novena Legislatura del Congreso del Estado se ha servido dirigirme el siguiente Código para su promulgación y publicación:
+
+Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
+
+La Quincuagésima Novena Legislatura del Honorable Congreso del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, en uso de la facultad que le confieren los artículos 33, fracción I y 38 de la Constitución Política local; 18 fracción I y 47 segundo párrafo de la Ley Orgánica del Poder Legislativo; 75 y 76 del Reglamento para el Gobierno Interior del Poder Legislativo; y en nombre del pueblo, expide el siguiente:
+
+CÓDIGO NÚMERO 590
+
+DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
@@ -65,4681 +73,2863 @@ CODIGO MUNICIPAL DE AGUASCALIENTES
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO I. División Territorial del Municipio de Aguascalientes
+### CAPÍTULO I. PRINCIPIOS Y GARANTÍAS PROCESALES
 
-###### ARTICULO 1º.
+###### Artículo 1º.
 
-Las disposiciones del presente Código son de orden público e interés social y reglamentarias del Artículo 115, fracción II de la constitución Política de los Estados Unidos Mexicanos, 69 de la Constitución Política del Estado de Aguascalientes y demás disposiciones que establezca la Ley que en materia Municipal expida el Poder Legislativo del Estado, las cuales otorgan al H. Ayuntamiento la facultad de expedir las bases legales de integración y organización del territorio, población, gobierno y administración, que constituyen normas de observancia general dentro del Municipio de Aguascalientes.
+El procedimiento penal considerado integralmente y la actividad de quienes participen en él se sujetarán a las garantías y a los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la del Estado, en este Código y en la legislación aplicable.
 
-###### ARTICULO 2º.
+###### Artículo 2º.
 
-El Municipio de Aguascalientes, está conformado por ciudades, villas, poblados y rancherías, que se ubican dentro de su territorio, se organizan políticamente en Delegaciones y Comisarías.
+El procedimiento tiene por objeto determinar si los hechos de que conozca la autoridad competente son constitutivos de delito, para sancionarlos con las penas y medidas de seguridad previstas en la ley aplicable.
 
-###### ARTICULO 3º.
+###### Artículo 3º.
 
-El territorio del Municipio de Aguascalientes se divide en ocho Delegaciones y Zona Centro. Las delegaciones son: Calvillito, Cañada Honda, Salto de los Salado, Peñuelas, Los Pocitos, José María Morelos y Pavón, Lic. Jesús Terán Peredo e Insurgentes.
+El procedimiento tiene como finalidad:
 
-A la Delegación Calvillito pertenecen las siguientes comunidades: Las Aguilillas, Arroyo Hondo, Azarco, Bajío Los Vázquez, Bella Vista o El Coronel, La Cachucha, El Capirote, Cañada de Las Habas, Cañada Grande, El Caracol, El Cardón, Cobos, La Chiripa, Dolores, El Codo, Colonia Los Pérez, El Colorado o El Soyatal, La Escondida, La Congoja, El Copetillo, Crucero, El Crucero de Calvillito, Los Cuervos o Los Ojos de Agua, Los Dolores, Los Parga, El Duraznillo, Los Durón, Entronque a Calvillito, La Estancia, Fresnos, La Frontera o Los Gavilanes, Gallinas Güeras, Gómez Palacio, El Guarda, Los Hernández, El Hotelito, Jaboneras, El Jagüey, La Laguna de los Adobes, Laguna Verde, El Malacate, Matamoros, La Mesa, El Mirador, El Mitote, Los Organos, El Paraíso, La Petaquilla o El Milagro, Potrero Grande, El Potrero Nuevo, El Pozo, La Presa, Rancho Cables, El Ranchito o El Mocho, Rancho El Obraje, Rancho Nuevo, San Miguelito de Arriba, Rancho Sin Nombre, El Refugio 1, El Relicario, El Salero, San Bartolo, San José del Cono, Santa Elena, Sin Nombre, El Socorro, Soledad de Abajo, Soledad de Arriba, El Tacón, El Trigo o Tanque El Trigo, Tanque Los Gatos, El Tepetate, El Tropezón, Calvillito, Vista Alegre o Bella Vista, Yebaniz y Los Saucitos.
+I. Garantizar la legitimidad y eficacia de la acción penal que ejerza el Ministerio Público;
 
-A la Delegación Cañada Honda pertenecen las siguientes comunidades: El Becerro, El Becerro o Javier Gutiérrez, La Biznaga, Cañada Honda, El Chiflido, La Coyotera, Cañada Honda, Jaltomate, Las Jarillas, Las Laminas, La Loma, La Noria o San Nicolás de Enmedio, Puerta de los Viejitos, El Plan del Horno, Rancho Topogigio, San Antonio de los Pedroza. El Sabino o San Román, Sal si Puedes, San Isidro, San Isidro de los Esparza, San José de la Ordeña, San Matías, San Nicolás de Arriba, San Nicolás de Abajo, Santa María de Gallardo, Sauce Amarillo y La Tijera.
+II. Que las partes aporten al juez las pruebas necesarias para que esté en posibilidad de dictar su resolución conforme a derecho;
 
-A la Delegación de Salto de los Salado pertenecen las siguientes comunidades: La Ademe, Los Arbolitos o Ranchos de los Arbolitos, Bugambilias, Cabecita 3 Marías o Rancho Nuevo, Los Caños, Castillo Fontenac, Centro de Arriba o El Taray, El Chiralillo, La Chiripa, Cieneguilla o La Hacienda, Cieneguilla o La Lumbrera, La Cruz, Cuauhtémoc o Las Palomas, Dolores, Exhacienda de Agostaderito, Granja Los Lirios, Granja San Antonio, Granjas Nuevas Fátima, El Mimbre 1, Monte Prieto, El Niágara o Rancho El Niágara, La Noria o Puerta del Río, El Ocote, Piedras Chinas, La Pila o La Morena, Presa de Guadalupe, La Puerta de las Alazanas, Rancho José María, Rancho San Carlos, Rancho San Gerónimo, Rancho San Jacinto, El Rubio, Salto de los Salado, San Isidro, San José de la Esperanza, San Pedro Cieneguilla, San Rafael, Granja Santa Teresa, Las Trojes, Unión Ganadera de Aguascalientes y Las Víboras.
+III. Garantizar al procesado los principios constitucionales para su defensa;
 
-A la Delegación Peñuelas pertenecen las siguientes comunidades: Acapulco, Arellano, Lomas de Arellano, Lomas de Nueva York, Lotes de Arellano, Gigante de Arellano, Las Animas, El Bajío, Bodegas Marisol o Granja Marisol, Buenavista de Peñuelas, Cañada Grande de Cotorina, El Cedazo o Cedazo San Antonio, Centro Deportivo SNTSS, Cotorina Coyotes, Cotorina de Abajo o Peñuelas, Cotorina de Altamira, La Cotorina, Las Crucitas, Entrada de Montoro, La Esperanza, Exhacienda de Montoro, Exhacienda de Peñuelas, La Florida, Los Gallineros, Granja Marisela, Granja San Antonio, Los Hoyos 2 o Puerta de Los Hoyos, El Huizache, Lagunas Cuatas, Legumbres Congeladas, Marisol, Mesa del Salto, El Mirador, Montoro, Montoro o Mesa del Salto, Norias del Cedazo o Cedazo Norias de Morelos, Peñuelas o El Cienegal, La Providencia, Rancho Coyotillos, Rancho El Mitahua, Rancho La Manga, Rancho La Mesa, El Refugio de Peñuelas, El Refugio 3, Rinconada la Escondida, San Antonio de Peñuelas, San Isidro, San Marcos o Avícola San Marcos, Santa Cruz, Santa Elena o Tres Pelonas, Santa Inés, Santa Teresa, La Soledad 2, Tanque de Guadalupe, Tanque de La Cruz, Tanque de los Jiménez, El Turicate, Villa Su, Viñedos Cuauhtémoc o Churubuscos y El Esfuerzo.
+IV. Recibir las pruebas y proveer las medidas apropiadas para que se haga efectiva la reparación del daño a que tengan derecho la víctima o el ofendido del delito; y
 
-A la Delegación Urbana de Los Pocitos pertenecen las siguientes colonias: Campestre La Herradura, Club Campestre I, Club Campestre II, Club Campestre III, Club Campestre IV, Jardines del Campestre, Los Vergeles, Las Trojes, Condominio Las Trojes, Lomas del Campestre 2ª. Sección, Misión del Campanario, Valle del Campanario, La Troje, Villas del Campestre, Lomas del Campestre 1ª. Sección, Granjas del Campestre, Valle del Campestre, Villas de Montenegro, Valle de Las Trojes, Trojes de Oriente 1ª. Sección, Trojes de Oriente 2ª. Sección, Villas de San Nicolás, Jardines de La Concepción 1ª. Sección, Jardines de La Concepción 2ª. Sección, Condominio Pulgas Pandas, Trojes de Alonso, Talamantes Ponce, Villas de San Francisco, Los Bosques, Bosques del Prado, Condominio Rinconada Los Bosques, El Roble, Independencia, El Plateado, La Rinconada, Circunvalación Norte, Bosques del Prado Sur, Fátima, San José del Arenal, Las Arboledas, Villas de la Universidad, Primo Verdad, Unión Ganadera, San Cayetano, Fundición, Las Brisas, Olivares Santana, La Concordia, Panorama, Los Sauces, Colinas de San Ignacio, Colinas del Río, Colinas del Poniente, Residencial del Valle 2ª. Sección, Fraccionamiento San Marcos, Colonia Curtidores, Del Valle Río San Pedro, Moderno, Colonia San Marcos, Residencial del Valle 1ª. Sección, Colonia Gómez, Villa de las Trojes, Nueva Rinconada, Ejido San Ignacio, La Soledad, Bosques del Prado Oriente, Las Cavas, Cerrada del Valle, Cerrada de la Misión, Condominio Cerrada el Molino, Cerrada la Mezquitera, Colonia la Perla, Panteón Jardines Eternos II, La Querencia, Ejido los Pocitos, Puesta del Sol, Río Viejo, Ejido San Ignacio III, Condominio Jardines del Campestre, Condominio la Paloma, Condominio Santa Fe, Condominio Portón de Santa Julia, Condominio Misión de Santiago I, Misión de Santiago II, Condominio Santiago de Compostela, Condominio Puerta Navarra, Condominio Desarrollo Ecológico Club Campestre, Tecnopolo de los Pocitos y Trojes del Sol, Valle del Real y Palmas del Pedregal. Además le pertenecen las siguientes comunidades: Agua Azul, El Bramadero, Centro de Estudios Especializados, La Esperanza, El Filson o Viñedos Brande Vine, El Gavilán, Granja Changay, Granja de Jesús, Granja Padilla, Granja Providencia, Granjas Cariñan, Granjas del Valle, La Lagunita, La Mascota, Los Membrillos, Mesa Grande, Los Morales, Ojo de Agua, Los Olivos, El Pajonal, Las Palomas, La Perla, Las Playas III, La Puerta, Rancho Don Abraham, Rancho La Estrella, La Primavera, El Rodeo, San Felipe 2ª. Sección, San Ignacio, San Juan, San Judas, San Miguel, Villa de Monteclaro, Viñedos Aguascalientes y Viñedos San Felipe.
+V. Reparar el daño ocasionado por el delincuente, dictando medidas apropiadas para su readaptación a la vida social.
 
-A la Delegación Urbana José María Morelos y Pavón pertenecen las siguientes Colonias: Infonavit Los Volcanes, Bona Gens, Fovissste Ojocaliente I, Fovissste Ojocaliente II, Ojocaliente Las Torres, Jardines de La Luz, Jardines de Aguascalientes, Fuentes de la Asunción, Jardines de la Asunción, Jardines de las Fuentes, Jardines de las Bugambilias, Jardines del Parque, Jesús Gómez Portugal, Vista del Sol I, Vista del Sol II, Misión de Santa Fe, Primo Verdad INEGI, Condominio STEMA, Jardines de la Convención, Fovissste Ojo de Agua, Colonia Ojo de Agua, Colonia La Cruz, Infonavit Ojo de Agua, México, Vista del Sol III, Infonavit Morelos, Salto de Ojocaliente, Solidaridad II, Balcones de Ojocaliente, Tierra Buena, Agua Clara, Solidaridad III, Pirámides, Residencial Del Parque, Casa Blanca, Morelos I, Morelos II, Emiliano Zapata, Solidaridad IV, Rústicos Calpulli, Lomas del Ajedrez, Mujeres Ilustres, Jardines de Casa Blanca, San Sebastián, Vista Alegre, Ciudad Industrial, Lomas del Chapulín, Lomas del Gachupín, Ojo de Agua de Palmitas, Jardines del Sol, Cielo Claro, Periodistas, Bajio de las Palmas, El Cedazo, Cima del Chapulín, Fundadores, Condominio Jardines de Casa Nueva, Condominio Rinconada el Cedazo, La Lomita, Lomas Altas, Lomas de Vista Bella, Lomas de San Jorge I, Lomas de San Jorge II, Lomas del Mirador I, Lomas del Mirador II, Misión de Santa Lucia, Rancho San Francisco de los Arteaga, San Jorge, San Sebastián, Jardines de la Convención II, Cañada Grande de Cotorina, Lomas de Arellano y Villa las Palmas. Además le pertenecen las siguientes comunidades: Rancho Cables, Asturias, El Caracol, Las Crucitas, Garambuyo, El Gavilán, Granja Don Margarito, Los Laureles, Loma Bonita, Media Luna, El Mosco, Ojo de Agua de Palmitas, La Palanca, Rancho El Arbolito, San Martín, Santa Clara, Viñedos Alejandra y Las Violetas.
+La actividad de quienes intervengan en el procedimiento tenderá a la consecución de estos propósitos.
 
-A la Delegación Urbana Lic. Jesús Terán Peredo pertenecen las siguientes Colonias: Constitución, Soberana Convención Revolucionaria, Conjunto los Naranjos, Libertad, Pozo Bravo Norte, Pozo Bravo Sur, Las Hadas, Los Arcos, Colonia Morelos, Macías Arellano, Alianza Ferrocarrilera, El Cobano, Trojes del Cobano, Villas del Cobano, Parras, Pensadores Mexicanos, Pintores Mexicanos, Las Cumbres, Luis Ortega Douglas, CNOP Oriente, Progreso, Nazario Ortíz Garza, J. Refugio Esparza Reyes, Ejido Las Cumbres, Benito Palomino Dena, C.T.M., La Estrella, Hacienda El Cobano, Municipio Libre, Infonavit Fidel Velázquez, Rodolfo Landeros Gallegos, Ojocaliente I, Ojocaliente II, Ojocaliente III, Ojocaliente INEGI, Solidaridad I, Santa Anita 1ª. Sección, Unidad Habitacional Licenciado Benito Juárez, S.T.E.M.A., Santa Anita 2ª. Sección, Lomas de Santa Anita, Colonia Del Trabajo, ex-Ejido
+### CAPÍTULO II. PERÍODOS DEL PROCEDIMIENTO PENAL
 
-Ojocaliente, Colonia Héroes, Condominio La Hacienda, Condominio La Mancha, El Riego, Los Pericos, Alameda, Villa Bonita, Industrial, Tierra y Libertad, XIV Zona Militar, Parque México, Cartagena 1947, Cerro Alto, Claustro Loma Dorada, Colinas de Oriente, Cumbres II, Ex–Hacienda Ojocaliente, Haciendas de Aguascalientes, J. Guadalupe Peralta Gamez, Las Cañadas, Lomas de Oriente I, Lomas de la Convención, Lomas de Santa Anita III, Lomas de Cobano, Los Laureles I, Los Laureles II, Mirador de las Culturas I, Mirador de las Culturas II, Real de Haciendas, San José de Pozo Bravo, Santa Anita IV, Arroyo de la Hacienda, Villa Loma Dorada, Villa Teresa, Villas de la Convención, Villas de la Loma, Villa de Nuestra Señora de la Asunción Sector San Marcos, Villa de Nuestra Señora de la Asunción Sector Alameda, Villa de Nuestra Señora de la Asunción Sector Encino, Villa de Nuestra Señora de la Asunción Sector Estación, Villa de Nuestra Señora de la Asunción Sector Guadalupe, Villerías, Vista de las Cumbres, Condominio Misión de la Alameda, Condominio Bosques de la Alameda, Lomas de la Asunción, El Rosedal y Vista de Oriente. Además le pertenecen las siguientes comunidades: Las Cuatas, La Herrada, La Higuerilla, Norias de Ojocaliente, Ojocaliente la Puerta, Rancho El Venado, Rancho Nuevo, El Conejal, El Riegos, Salto de Ojocaliente y La Soledad.
+###### Artículo 4º.
 
-A la Delegación Urbana Insurgentes pertenecen las siguientes colonias: Circunvalación Poniente, Colonia Barranca de Guadalupe, Infonavit los Pirules, Residencial los Pirules, España, Colonia Hermanos Carreón, Jardines de Santa Elena, Montebello, Valle Dorado, Villa Jardín I, Villa Jardín II, El Dorado 1ª Sección, Versalles 1ª. Sección, Colonia Francisco Villa, Condominio Jardines del Lago, Canteras de San Javier, Canteras de San José, Loma Bonita, Nueva España, Educación Alamos, José López Portillo, Los Barandales, Versalles 2ª. Sección, Boulevares 1ª. Sección, Boulevares 2ª. Sección, Jardines del Sur, Prados del Sur, Colonia Martínez Domínguez, Infonavit Pilar Blanco, Prados de Villasunción, Trojes del Sur, Unidad Habitacional Potreros del Oeste, Colonia San Pedro, Villas del Oeste, Villas de Santa Rosa, La Estancia, San Francisco del Arenal, Colonia Insurgentes, Colonia Vicente Guerrero, Villas del Pilar, Casa Sólida, Vista del Sur y Rinconada del Sur, Bosques de las Lomas, Dorado 2ª Sección, Colonia el Edén, ex–Hacienda la Cantera, Granjas Ciudad de los Niños, Panteón Jardines del Descanso Eterno Sur, Licenciado Manuel Gómez Morín, Veteranos de la Revolución, Villas de Iturbide, Villas del Mediterráneo, Misión de Juan Pablo II, Nuevas Granjas Fátima, Rinconada San José, Colonia San Francisco del Arenal, Industrial Siglo XXI, Villas de San Antonio, Parque Funeral la Asunción, Condominio los Eucaliptos I, Condominio los Eucaliptos II, Canteras de San Agustín, Condominio de Nuestra Señora de Lourdes, San Martín de la Cantera y Villas de la Cantera. Además le pertenecen las siguientes comunidades: La Adelita, Aguilillas, Buenavista, Camino Real, San Francisco, La Cantera, Casa Blanca, Centro de Estudios Menores, Centro Neuropsicológico, Ciudad de Los Niños, El Copete, La Cotorra, La Coyotera, Coyotes, Cuernavaca, Las Delicias, El Edén, La Florida, La Fortuna, El Gigante, La Gloria, Hilda, Imelda, Las Isabeles, La Josefina, La Lagunita, El Latifundio, Los Lirios, Loma de los Negritos, Lomas del Picacho, Lucero de La Cruz, Marlborito, El Mirador, El Molino, Los Negritos, Noxtli, El Potrerito, Quinta La Jacaranda, Rancho del Carmen, Rancho La Luz, San Andrés, San Gerardo, San José II, San José de Buenavista, San José del Monte, San José de las Petacas, San Luis, San Pascual, Santa Carmen o San Víctor, Santa Cruz de la Presa o Tlacuacha, Santa Cruz, Santa Gertrudis, Santa María Uvasa, Santa Mónica o La Toraya, Santa Mónica o Viñedos de Santa Mónica, Tres Cruces, La Troje o Santa María, El Varal, Las Víboras, Villa Asunción Ecuestre, Viñedos El Tajo, Viñedos San Francisco o Las Cochineras, Viñedos San Pedro, Viñedos Valle Redondo, Viñedos Xoconoxtle y Zoila o Zaida.
+Son partes en el procedimiento penal:
 
-La Zona Centro es la que se encuentra dentro del perímetro delimitado por la Avenida de la Convención, Colonia Altavista, Las Américas, Bulevar Buenos Aires, Unidad Habitacional Bugambilias, Caminero, Las Canoas, Del Carmen, Unidad Habitacional IV Centenario, Barrio del Encino, Barrio de la Estación, La Fé, Ferronales, Las Flores, Francisco Guel Jiménez, Los Fresnos, La Fuente, Gamez, Gremial, Colonia Guadalupe, Barrio de Guadalupe, Heleodoro García, Héroes de Aguascalientes, Industrial, Jardines de la Asunción, Jardines de Triana, J. Guadalupe Posada, Unidad Habitacional J. Guadalupe Posada, Jesús Terán Peredo, Unidad Habitacional Lázaro Cárdenas, Lindavista, Luis Gómez Zepeda, Miravalle, El Llanito, Jardines de la Cruz, Modelo, Obraje, Primavera, Barrio de la Purísima, Residencial El Encino, Barrio de la Salud, Infonavit San Fernando, Colonia San Luis, Barrio de San Marcos, San Pablo, El Sol, Las Torres, Triana, Infonavit Las Viñas, Unidad Habitacional Vivienda Popular y Zona Centro.
+I. El Ministerio Público; y
 
-### CAPITULO II. Nombre y Escudo
+II. El inculpado y su defensor.
 
-###### ARTICULO 4º.
+###### Artículo 5º.
 
-El Escudo del Municipio se describe de la siguiente manera: cuartelado en cruz. El primer cuartel partido en dos palos y en el siniestro hay una columna jónica de oro en campo de gules; en el diestro, una estrella de plata de cinco picos en campo de azur. El segundo cuartel tiene una rueda dentada en colores naturales sobre el campo de oro. El tercer cuartel tiene una granada entreabierta, pintada en colores naturales sobre campo de sinople. El cuarto cuartel una imagen del fuego, pintado en colores naturales sobre campo fajado en dieciséis piezas de azur y plata. El escudo lleva un escusón sobre el todo, el cual tiene una bordura de esmalte púrpura, la cual ostenta en la parte superior la fecha "1575" y lleva, además, doce bezantes de oro, en el escusón, pintada en colores naturales está la Virgen de Nuestra Señora de la Asunción. Remata el escudo un león alado que tiene la pata siniestra sobre los evangelios y está pintado con colores naturales. Bordea el escudo lateral e inferiormente, un listón de colores naturales en el que figura como divisa impresa una inscripción latina que dice: "Virtus in Aquis. Fidelitas in Pectoribus" (Virtudes en las Aguas y Fidelidad en los Pechos). Bajo el escudo se asentará la leyenda "H. Ayuntamiento... Seguido del Periodo Constitucional".
+El procedimiento penal se sujetará a los principios de legalidad, equilibrio, contradicción procesal, presunción de inocencia, búsqueda y conocimiento de la verdad histórica e inmediatez procesal.
 
-###### ARTICULO 5º.
+### CAPÍTULO I. COMPETENCIA
 
-Todas las oficinas públicas municipales deberán exhibir el Escudo del Municipio. Se deberá utilizar además en toda la papelería que utilice el gobierno municipal, pudiendo usarse adicionalmente otro logotipo que distinga a determinada administración municipal. La utilización del Escudo o nombre del Municipio con fines publicitarios o de identificación de negocios, empresas privadas o con cualquier otro objeto, deberá realizarse previo permiso y pago de derechos al Municipio, para tal efecto, deberá llevarse el libro de registros correspondientes.
+###### Artículo 6º.
 
-### CAPITULO III. Fines del Municipio
+Se prestará atención oportuna y suficiente a los intereses legítimos y derechos de la víctima o de sus causahabientes, proveyendo a uno u otros, según sea el caso, por conducto de la Procuraduría General de Justicia, de la asistencia jurídica competente y gratuita que requieran, escuchando sus pretensiones y restituyéndolos en el ejercicio de sus derechos reales o personales y en el disfrute de los bienes afectados por el delito, conforme a las previsiones de la ley.
 
-###### ARTICULO 6º.
+### CAPÍTULO II. FORMALIDADES
 
-El Municipio de Aguascalientes, para lograr un desarrollo armónico y equilibrado de la vida social entre las personas que habitan o se establecen en el mismo, se propone como fines:
+###### Artículo 7º.
 
-I. Garantizar la tranquilidad, seguridad y bienes de las personas;
+El Ministerio Público durante todo el procedimiento acatará invariablemente el principio de buena fe.
 
-II. Garantizar la moral y el orden público;
+###### Artículo 8º.
 
-III. Prestar adecuadamente los servicios públicos municipales;
+El juez cuidará que el proceso se desarrolle puntualmente y actuará, salvo que en la ley exista disposición en contrario, sin esperar a que las partes lo impulsen conforme a las atribuciones que la ley le confiere.
 
-IV. Preservar y fomentar la educación y la cultura entre sus habitantes;
+###### Artículo 9º.
 
-V. Promover el desarrollo urbano de todos los centros de población del Municipio;
+Los períodos que constituyen el procedimiento penal son:
 
-VI. Promover y organizar la participación ciudadana para cumplir con los planes y programas municipales;
+I. El de investigación ministerial, que comprende las diligencias necesarias para que el Ministerio Público pueda resolver si ejercita o no la acción penal;
 
-VII. Proveer los medios para la aplicación de la justicia en el marco de su competencia; y
+II. El de preinstrucción, dentro del cual se llevan a cabo las actuaciones para determinar los hechos materia del proceso, su clasificación conforme al tipo penal y la probable responsabilidad del inculpado o la libertad de éste por falta de elementos para procesarlo;
 
-VIII. Promover el desarrollo económico y el turismo local, que permita más oportunidades de empleo y el progreso del comercio y los servicios, impulsando la participación de la población del Municipio.
+III. El de instrucción, que comprende las diligencias practicadas en los tribunales con el fin de investigar y probar la existencia del delito, las circunstancias en que se hubiese cometido y las peculiares del inculpado, así como su responsabilidad;
 
-### CAPITULO IV. De la Población
+IV. El de juicio, durante el cual el Ministerio Público precisa su acusación y el procesado su defensa ante el juez y éste valora las pruebas y pronuncia sentencia;
 
-###### ARTICULO 7º.
+V. El de segunda instancia ante el tribunal de apelación, en el que se efectúan las diligencias y actos tendientes a resolver los recursos interpuestos; y
 
-Son habitantes del Municipio de Aguascalientes, las personas que residan habitual o transitoriamente dentro de su territorio. Tendrán las prerrogativas, derechos y obligaciones señalados en la Constitución Política del Estado y en la Legislación Municipal.
+VI. El de ejecución, que comprende desde el momento en que cause ejecutoria la sentencia dictada, hasta la extinción de las sanciones impuestas.
 
-###### ARTICULO 8º.
+Las alusiones que este Código y el Código Penal hagan al procedimiento judicial se entenderán referidas a los períodos previstos en las fracciones II, III y IV.
 
-Se consideran vecinos del Municipio:
+###### Artículo 10.
 
-I. Todas las personas nacidas en el Municipio y que radiquen en su territorio; y
+El Ministerio Público actuará y tendrá bajo su mando directo a la Policía Ministerial y, para el desempeño de sus funciones, podrá requerir la colaboración de las autoridades de seguridad pública y de particulares, conforme a las leyes, reglamentos y convenios aplicables.
 
-II. Las personas con más de dos años cuando menos con domicilio establecido dentro del Municipio y con residencia efectiva por ese lapso.
-
-###### ARTICULO 9º.
-
-La calidad de vecino se pierde por:
-
-I. Renuncia expresa ante la autoridad municipal;
-
-II. Desempeñar cargos de elección popular de carácter municipal en otro municipio distinto al de su vecindad;
-
-III. Ausencia de más de dos años del territorio municipal;
-
-IV. Ausencia o presunción de muerte legalmente declarada por autoridad judicial; y
-
-V. Pérdida de la nacionalidad mexicana.
-
-###### ARTICULO 10.
-
-No se perderá la vecindad cuando la persona se traslade a residir a otro lugar para desempeñar una comisión o cargo de carácter oficial, no permanente, o con motivo de estudios científicos o artísticos.
+La Procuraduría General de Justicia del Estado colaborará con la Procuraduría General de la República, las Procuradurías Generales de Justicia de las Entidades Federativas y otras autoridades, inclusive del extranjero, que lo soliciten conforme a la ley y a los convenios al respecto formalizados.
 
 # LIBRO SEGUNDO. DE LA ADMINISTRACION PUBLICA MUNICIPAL
 
-## TITULO PRIMERO. GENERALIDADES
+## TÍTULO PRELIMINAR
 
-###### ARTICULO 11.
+###### Artículo 11.
 
-El H. Ayuntamiento del Municipio de Aguascalientes, es el Organo Colegiado del Gobierno y de la Administración Pública Municipal, tiene competencia plena y exclusiva sobre su territorio, población, organización política y administrativa, en los términos que fijen las leyes respectivas, posee en consecuencia personalidad jurídica y patrimonio propio.
+En ejercicio de sus atribuciones, el Ministerio Público:
 
-###### ARTICULO 12.
+I. Recibirá denuncias y querellas sobre hechos que puedan ser constitutivos de delito;
 
-El Presidente Municipal, los Regidores y Síndicos integran el H. Ayuntamiento de elección popular del Municipio de Aguascalientes, durarán en su encargo tres años, entrando en funciones el día señalado en la Ley que en materia Municipal expida el Poder Legislativo del Estado y en el Código Electoral del Estado; son los encargados de establecer y definir las acciones, criterios y políticas con que deben manejarse los recursos y servicios del Municipio de Aguascalientes, y velar por sus intereses.
+II. Practicará la investigación correspondiente, recabando las pruebas de la existencia de los delitos y de la probable responsabilidad de quienes en ellos participaren;
 
-###### ARTICULO 13.
+III. Tomará las medidas necesarias para proteger al ofendido y, en general, a las víctimas de la conducta delictiva;
 
-Corresponde a los integrantes del H. Ayuntamiento, la facultad de supervisar y vigilar las dependencias a cargo de sus comisiones, permanente o especiales que se les asignen, pudiendo en todo momento requerir al titular de aquellas, la información necesaria para el debido cumplimiento de sus funciones.
+IV. Resolverá o solicitará el aseguramiento de los objetos relacionados con el delito y la adopción de las medidas precautorias que considere pertinentes;
 
-### CAPITULO I. De las Autoridades del H. Ayuntamiento
+V. Solicitará a la autoridad jurisdiccional las medidas precautorias de arraigo, así como las órdenes de cateo que resulten indispensables para la integración de la investigación ministerial;
 
-###### ARTICULO 14.
+VI. Acordará la detención o la retención de los indiciados, cuando sea procedente;
 
-Son Autoridades del Gobierno Municipal, en orden jerárquico, las siguientes:
+VII. Determinará la reserva, el ejercicio o no de la acción penal;
 
-I. El H. Ayuntamiento;
+VIII. Solicitará, cuando proceda, la reparación del daño;
 
-II. El Presidente Municipal;
+IX. Solicitará la aplicación de sanciones; propondrá la liberación de quienes resulten inocentes; hará las promociones e interpondrá los recursos que estime necesarios dentro del procedimiento judicial; y
 
-III. El Secretario del H. Ayuntamiento y Director General de Gobierno;
+X. Vigilará el debido cumplimiento de las sentencias.
 
-IV. Los Secretarios;
+###### Artículo 12.
 
-V. El Coordinador;
+Las autoridades del Estado y los particulares colaborarán con el Ministerio Público y con los tribunales, a fin de coadyuvar a esclarecer los hechos que se investigan.
 
-VI. Los Delegados Municipales; y
+###### Artículo 13.
 
-VII. Los Comisarios Municipales.
+El inculpado podrá intervenir en la investigación ministerial y en el proceso por sí mismo o con la asistencia de su defensor o persona de su confianza.
 
-###### ARTICULO 15.
+### CAPÍTULO III. INTÉRPRETES
 
-Los organismos auxiliares serán honorarios y ejercerán las atribuciones que les confieran las Autoridades Municipales, siendo los siguientes:
+###### Artículo 14.
 
-I. El Consejo de Colaboración Municipal;
+La persona ofendida, por sí o por apoderado, podrá coadyuvar con el Ministerio Público durante la etapa de investigación ministerial y ante el juez durante el proceso, aportando todos los datos y ofreciendo las pruebas que considere procedentes, a fin de acreditar la existencia del delito, la responsabilidad del indiciado y el monto de la reparación del daño.
 
-II. Consejo Municipal de Protección Civil;
+###### Artículo 15.
 
-III. Las Juntas Vecinales de Colaboración Municipal;
+La justicia en materia penal se administrará por:
 
-IV. Las Juntas Comunales de Colaboración Municipal;
+I. Los jueces de Comunidad;
 
-V. El Comité de Desarrollo Urbano y Rural;
+II. Los jueces Municipales;
 
-VI. El Comité de Planeación para el Desarrollo Municipal;
+III. Los jueces Menores;
 
-VII. El Comité Técnico de Municipalización;
+IV. Los jueces de Primera Instancia;
 
-VIII. El Comité de Fallas Geológicas;
+V. Las Salas del Tribunal Superior de Justicia; y
 
-IX. El Comité de Licitación y Obra Pública; y
+VI. El Pleno del Tribunal Superior de Justicia.
 
-X. Aquellos Comités o Consejos Ciudadanos que el H. Cabildo apruebe establecer en las áreas que considere convenientes.
+### CAPÍTULO IV. DESPACHO DE LOS ASUNTOS
 
-### CAPITULO II. De las Funciones de las Autoridades Municipales
+###### Artículo 16.
 
-###### ARTICULO 16.
+Los jueces de Comunidad sólo tendrán facultades para llevar a cabo las diligencias que les encomienden los de Primera Instancia, los Menores y los Municipales de su jurisdicción, así como para conocer en casos flagrantes o urgentes de los delitos que se cometan en su ámbito de competencia, a efecto de preservar las pruebas y asegurar a los responsables, a quienes pondrán inmediatamente a disposición del Ministerio Público del Municipio o del Distrito Judicial correspondiente.
 
-El Presidente Municipal es el ejecutor de las determinaciones del H. Ayuntamiento y el encargado de realizar la Administración del Municipio, con base en los criterios y políticas establecidas, así como las demás atribuciones que le concede la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, y la Ley que en materia Municipal expida el Poder Legislativo del Estado.
+###### Artículo 17.
 
-###### ARTICULO 17.
+Los jueces Municipales son competentes para conocer de los delitos que se cometan en el territorio de su jurisdicción y tengan como sanción amonestación, apercibimiento, caución de no ofender, multa que no exceda de cincuenta veces el salario mínimo general vigente y prisión hasta de dos años, así como de la tentativa de los ilícitos en cuestión, con excepción de los delitos previstos por los artículos 189, 196, 256, 284, 297, 329, 331 y 335 del Código Penal, que serán competencia de los juzgados menores, y de los señalados en los artículos 181, 303 y 325 fracción I, que serán competencia de los de Primera Instancia.
 
-Los Síndicos, por sus funciones se clasifican en Síndico Procurador y en Síndico de Hacienda; el primero representa al Municipio legalmente, procura y defiende los intereses municipales; el segundo se encarga de vigilar las finanzas del Municipio, conjuntamente con el Regidor de la Comisión de Hacienda.
+###### Artículo 18.
 
-###### ARTICULO 18.
+Los jueces Menores son competentes para conocer de los delitos sancionables con pena privativa de libertad hasta de cinco años y de su tentativa, independientemente de otro tipo de sanciones, con excepción de los delitos previstos por los artículos 134, 150, 152, 168 primer párrafo, 177, 185, 237, 245, 246, 247, 251, 253, 278, 279, 327, 334, 337, 339 y 352 del Código Penal, que serán competencia de los de Primera Instancia. Asimismo, conocerán de los delitos culposos, con excepción del homicidio y del aborto.
 
-Los Regidores son los encargados de vigilar el buen funcionamiento de los ramos de la Administración Pública Municipal y la prestación de los servicios públicos, conforme a las Comisiones que le sean asignadas por el H. Ayuntamiento, debiendo dar cuenta a éste de las deficiencias detectadas y proponer las medidas adecuadas para corregirlas.
+###### Artículo 19.
 
-###### ARTICULO 19.
+Los jueces de Primera Instancia son competentes para conocer de los delitos cometidos en el territorio de su jurisdicción, sancionables con una pena privativa de la libertad mayor de cinco años, independientemente de otro tipo de sanciones, así como de aquellos reservados expresamente para su competencia.
 
-El Secretario del H. Ayuntamiento tendrá en las Sesiones de Cabildo las siguientes atribuciones:
+### CAPÍTULO V. CORRECCIONES DISCIPLINARIAS Y MEDIOS DE APREMIO
 
-I. Emitir los citatorios para la celebración de las Sesiones de Cabildo, convocadas legalmente;
+###### Artículo 20.
 
-II. Asistir a las Sesiones del H. Ayuntamiento, dar fe de lo actuado en las mismas, levantar las actas correspondientes y certificar el quórum legal de las Sesiones;
+Para fijar la competencia cuando deba tener por base la sanción privativa de libertad personal que la ley señala, se atenderá a:
 
-III. Leer el acta de la sesión anterior;
+I. La sanción correspondiente al delito mayor en caso de acumulación;
 
-IV. Recabar la votación de los asuntos tratados en las sesiones;
+II. La suma de los máximos de las sanciones privativas de libertad, cuando la ley disponga que a la correspondiente a determinado delito, se agreguen otra u otras de la misma naturaleza; y
 
-V. Llevar y conservar el libro de actas de las Sesiones de Cabildo, obteniendo las firmas de los asistentes a las mismas, dar seguimiento a los acuerdos turnados e informar al Cabildo de su cumplimiento, así como la presentación del Diario de Debates anualmente; y
+III. La sanción privativa de la libertad, cuando la ley imponga varias de distinta naturaleza.
 
-VI. Las demás que le otorgue la Ley que en materia Municipal expida el Poder Legislativo del Estado y el presente Código.
+###### Artículo 21.
 
-### CAPITULO III. De la Instalación del H. Ayuntamiento
+En materia penal no cabe prórroga ni renuncia de jurisdicción. Cuando el tribunal competente para conocer de un proceso esté impedido de hecho o de derecho o cuando el inicio y continuación del proceso represente peligro para la seguridad y el orden públicos o para la vida del propio inculpado, el Tribunal Superior de Justicia podrá acordar que las actuaciones se remitan a un juzgado diferente, de la misma jerarquía, prorrogando al efecto la jurisdicción.
 
-###### ARTICULO 20.
+### CAPÍTULO VI. REQUISITORIAS Y EXHORTOS
 
-El H. Ayuntamiento del Municipio de Aguascalientes, residirá en la Ciudad Capital.
+###### Artículo 22.
 
-###### ARTICULO 21.
+Es competente para conocer de un delito la autoridad judicial del lugar donde se comete.
 
-Para la instalación y toma de protesta constitucional del H. Ayuntamiento, el Presidente Municipal, los Regidores y Síndicos tanto del Ayuntamiento en funciones como del electo, se reunirán el día 31 de diciembre del año de la elección en el local y hora que determine el H. Ayuntamiento en funciones, en Sesión Solemne que se desarrollará conforme al siguiente procedimiento:
+Es competente para conocer de los delitos continuos cualquiera de las autoridades judiciales en cuya jurisdicción se hayan ejecutado actos que, por sí solos, constituyan el o los delitos imputados.
 
-a) El Secretario del H. Ayuntamiento, dará lectura a la lista de los integrantes del H. Ayuntamiento, que hayan resultado electos y comprobando que se tiene la asistencia que establecen la Constitución Política del Estado de Aguascalientes, la Ley que en materia Municipal expida el Poder Legislativo del Estado y el presente Código, dará la palabra al Presidente Municipal electo.
+Un solo juez de los que sean competentes conocerá de los delitos conexos, conforme a las disposiciones legales relativas.
 
-b) El Presidente Municipal electo solicitará a los Regidores y Síndicos electos asistentes que se pongan de pie, quien rendirá la protesta de ley en los siguientes términos: "Yo......... protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Presidente Municipal de Aguascalientes, que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del Municipio, y si así no lo hiciere que el Municipio me lo demande".
+###### Artículo 23.
 
-c) Permaneciendo todos de pie, el Presidente Municipal, tomará la protesta de Ley a los Regidores y Síndicos electos, a quienes los interrogará en la forma siguiente: "Ciudadanos.......... Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen, y desempeñar leal y patrióticamente los cargos de Regidores y Síndicos Propietarios respectivamente del Municipio de Aguascalientes que el pueblo les ha conferido, mirando en todo por el bien y prosperidad del Municipio"..... "Sí Protesto". Contestan los Regidores y Síndicos.
+Cuando no conste el lugar en donde se cometió el delito, los jueces serán competentes en el orden siguiente:
 
-Dirá entonces el Presidente Municipal: "Si así no lo hicieren que el Municipio se los demande".
+I. El de la jurisdicción en que se descubran pruebas materiales del delito;
 
-Los Regidores y Síndicos que no hubieren asistido a esta Sesión deberán rendir la protesta en la primera sesión a que convoque el Cabildo.
+II. El de la jurisdicción donde el probable responsable sea aprehendido;
 
-d) Acto continuo el Presidente Municipal hará la declaración de instalación en los términos siguientes:
+III. El de la residencia del probable responsable; y
 
-El H. Ayuntamiento del Municipio de Aguascalientes, Ags., se declara constituido para el Período Constitucional del 1° de enero de..... al 31 de diciembre de......
+IV. Cualquiera que tenga conocimiento del delito.
 
-e) Por último el Presidente Municipal podrá dar a conocer los lineamientos generales de su Administración Pública Municipal.
+Tan luego como conste el lugar de la comisión del delito, se remitirán las actuaciones, los indiciados y los objetos asegurados al juez respectivo.
 
-### CAPITULO IV. De las Sesiones del H. Cabildo
+Cuando se trate de delitos permanentes o continuados cometidos fuera del territorio del Estado se observará lo dispuesto en las fracciones II, III y IV de este artículo.
 
-###### ARTICULO 22.
+###### Artículo 24.
 
-Se denomina Cabildo al Ayuntamiento en Sesión, las que serán presididas por el Presidente Municipal o por quien los sustituya legalmente, constarán en un libro de actas que se levantará llevando el método estenográfico, las cuales conformarán el Diario de Debates, por el período de enero a diciembre de cada año.
+En el caso del párrafo final del artículo anterior, dejarán de ser competentes las autoridades judiciales del Estado si el delincuente hubiere sido declarado inocente o amnistiado, o si hubiere obtenido su extradición por las autoridades del lugar donde se cometió el delito.
 
-###### ARTICULO 23.
+###### Artículo 25.
 
-Las Sesiones del H. Ayuntamiento serán: Ordinarias, Ordinarias Abiertas, Extraordinarias, Solemnes y Secretas conforme a la Ley que en materia Municipal expida el Poder Legislativo del Estado; tendrán el carácter de públicas excepto las que señale el presente Código como secretas.
+El juez que con arreglo a este Código fuere competente para conocer de un proceso lo será también para conocer de todos sus incidentes.
 
-###### ARTICULO 24.
+###### Artículo 26.
 
-Las Sesiones Ordinarias deberán celebrarse el primer lunes de cada mes, los Regidores y Síndicos deberán ser citados con tres días naturales de anticipación como mínimo por el Presidente Municipal, a través del Secretario del H. Ayuntamiento, a fin de estar en la posibilidad de que en la sesión se traten todos y cada uno de los asuntos correspondientes, anexándose al citatorio, el orden del día y copia de los dictámenes y proyectos de reglamentos, así como sus respectivos documentos base o soporte, que se presentarán para su discusión y en su caso aprobación. Si fuere el caso, el Secretario certificará, pasados 15 minutos de la hora señalada para la sesión, que no existe quórum legal para los efectos de suspensión de la misma.
+En los casos de acumulación será competente el juez que conozca del proceso en que se hubiese dictado primeramente el auto de inicio.
 
-Para que exista quórum legal, se requiere la presencia de al menos el cincuenta por ciento, más uno de los miembros del H. Ayuntamiento.
+###### Artículo 27.
 
-###### ARTICULO 25.
+El juez o Tribunal que se declare incompetente para conocer de una causa, después de haber practicado las diligencias más urgentes, resuelto sobre la libertad caucional y dictado el auto de libertad por falta de elementos para procesar, de formal prisión o de sujeción a proceso, si éstos son apelados remitirá las actuaciones planteando la incompetencia para que el tribunal de alzada acuerde lo procedente. Si no son recurridas las resoluciones, el juez de los autos planteará la incompetencia al que considere competente y, de no aceptarse, se enviarán al Tribunal Superior de Justicia para su resolución.
 
-Son Sesiones Ordinarias Abiertas, las que se celebrarán en los meses de marzo y agosto, de cada año, con los requisitos y términos del artículo anterior, además se publicará en los periódicos de mayor circulación en el Municipio, en el cuál se hará la invitación expresa a la ciudadanía en general a fin de que participe activamente en la sesión, dado que la misma se constituye como audiencia pública ante el Cuerpo Colegiado del Cabildo.
+Si la autoridad a quien se remitan las actuaciones estima a su vez que es incompetente, elevará las diligencias practicadas al superior o, en su caso, al Tribunal Superior de Justicia, para que éste emita la decisión correspondiente.
 
-###### ARTICULO 26.
+###### Artículo 28.
 
-Se consideran Sesiones Extraordinarias las que se celebren entre los períodos de las ordinarias y ordinarias abiertas, y se tratará exclusivamente el o los asuntos para el que fue convocado el H. Cabildo, y serán citados por el Presidente Municipal o a petición de uno de sus integrantes Regidores o Síndicos.
+Cuando alguna de las partes estime que el juez que conoce del proceso es incompetente, podrá solicitarle que decline del conocimiento.
 
-###### ARTICULO 27.
+El auto en que el juez acepte o niegue la declinación será apelable en efecto devolutivo y el tribunal de segunda instancia resolverá en definitiva lo que corresponda.
 
-Serán Sesiones Solemnes aquellas que el H. Ayuntamiento les dé ese carácter por la importancia que revistan y de acuerdo a la Ley que en materia Municipal expida el Poder Legislativo del Estado, deberán asistir los integrantes del H. Ayuntamiento, conforme a la reglamentación protocolaria y podrá hacer uso de la palabra un representante del H. Ayuntamiento, previo acuerdo Colegiado.
+###### Artículo 29.
 
-###### ARTICULO 28.
+Las actuaciones podrán practicarse a cualquier hora, aun en días inhábiles, sin necesidad de habilitación previa, y en idioma español. Cuando se produzcan declaraciones o se presenten documentos en otros idiomas o dialectos, se agregarán al expediente con su respectiva traducción; por lo mismo, constarán en el acta que de la diligencia se levante y quedarán agregados a los autos.
 
-El miembro del H. Ayuntamiento que no hubiere sido citado a una Sesión de Cabildo, podrá solicitar, dentro de las veinticuatro horas siguientes a la fecha en que haya tenido conocimiento de la sesión, que se vuelva a discutir en su presencia, el o los acuerdos tomados en su ausencia y el Secretario del H. Ayuntamiento le informará de los acuerdos tomados, debiendo quedar asentado en el acta respectiva su opinión sobre cada uno de los asuntos tratados.
+En el acta respectiva se expresarán hora, día, mes y año en que se practicó la diligencia.
 
-###### ARTICULO 29.
+###### Artículo 30.
 
-Son Sesiones Secretas aquellas en las que se traten los siguientes:
+El juez y el agente del Ministerio Público actuarán con su secretario en todas las diligencias que practiquen y, a falta de éste, con dos testigos de asistencia que darán fe de lo actuado.
 
-I. Asuntos de carácter político, económico y social, así como asuntos internos del H. Cabildo, o que exijan reserva de acuerdo a lo establecido en la Ley que en materia Municipal expida el Poder Legislativo del Estado;
+En las diligencias podrá utilizarse, a juicio del servidor público que las practique, cualquier medio reproductor de imágenes y sonidos, haciéndose constar en el acta.
 
-II. Asuntos de carácter secreto dirigidos al H. Ayuntamiento, por los Poderes Ejecutivo, Legislativo y Judicial, tanto Federal como Estatal, así como por otros Ayuntamientos; y
+###### Artículo 31.
 
-III. Asuntos que a solicitud de uno o más Regidores o Síndicos, acuerde el H. Ayuntamiento.
+En ninguna actuación se emplearán abreviaturas, ni se harán borraduras o enmendaduras. Sobre las palabras o frases equivocadas se pondrá una línea delgada que permita su lectura, lo que se salvará al final antes de firmar el acta. En igual forma se procederá con las palabras que se hubieren entrerrenglonado.
 
-###### ARTICULO 30.
+Toda actuación concluirá con una línea, tirada desde la última palabra hasta terminar el renglón. Si éste hubiere terminado, la línea se tirará abajo, antes de las firmas.
 
-En determinadas Sesiones tales como Ordinarias y Ordinarias Abiertas, podrá el H. Ayuntamiento utilizar la facultad potestativa de oír al auditorio en sus opiniones sobre el asunto a tratar en el orden del día, previa solicitud que se haga por escrito. Por ningún motivo se permitirá la intervención del público, sin haberse satisfecho este requisito.
+Las fechas y cantidades se escribirán con letra.
 
-###### ARTICULO 31.
+###### Artículo 32.
 
-Los ciudadanos a que se refiere el artículo anterior, deberán hacerlo saber al Secretario del H. Ayuntamiento, antes de iniciarse la sesión para su acuerdo y de haberse aprobado, deberán hablar sobre los temas para los cuales se les concede la intervención.
+Una vez asentadas las actuaciones del día o agregados los documentos recibidos, el secretario foliará y rubricará las hojas respectivas y estampará el sello del tribunal en el fondo del cuaderno de modo que abrace las dos caras. La violación a esta disposición será sancionada por el juez imponiendo, a su criterio, una corrección disciplinaria.
 
-###### ARTICULO 32.
+###### Artículo 33.
 
-En este tipo de sesiones el H. Ayuntamiento escuchará la opinión del público que participe en la sesión y podrá tomarla en cuenta al dictar las resoluciones.
+Las actuaciones se asentarán en los expedientes en forma continua, sin dejar hojas o espacios en blanco y cuando se agreguen documentos, se hará constar cuáles son las fojas que les corresponden.
 
-###### ARTICULO 33.
+###### Artículo 34.
 
-En las sesiones con intervención al público, el Secretario del H. Ayuntamiento con la aprobación del Presidente Municipal, podrá suspender en el uso de la palabra al orador y ordenar desalojar el recinto parcial o totalmente en los siguientes casos:
+Las promociones que se hagan por escrito deberán ser firmadas por su autor, pudiéndose ordenar su ratificación cuando se estime necesario o si el que las hace no las firmó.
 
-I. Cuando la persona en uso de la palabra desvirtúe el tema que se esté tratando;
+###### Artículo 35.
 
-II. Cuando se profieran injurias, palabras obscenas, amenazas o serias acusaciones en contra de personas determinadas;
+El secretario dará cuenta, dentro del término de veinticuatro horas, con las promociones que reciba. Al efecto, se hará constar en el expediente el día y la hora en que se presenten por escrito o se hagan verbalmente.
 
-III. Cuando se trate de exaltar el ánimo del auditorio, para presionar la opinión de los Regidores o Síndicos;
+A cada promoción recaerá un acuerdo por separado que el tribunal fundará y motivará en los términos establecidos por la ley y, de no haber éstos, dentro de los tres días siguientes.
 
-IV. Cuando en el auditorio se observe alguna falta de respeto para alguno de los miembros del H. Ayuntamiento o para alguno de los servidores públicos; y
+###### Artículo 36.
 
-V. Cuando se pretenda discutir asuntos de interés particular.
+Cada diligencia se asentará en acta por separado. El inculpado, su defensor, el ofendido o su representante legal, los peritos y los testigos, firmarán al calce del acta en que consten las diligencias en que tomaron parte y al margen de cada una de las hojas donde se asiente aquélla; si no supieren firmar, imprimirán al calce y al margen la huella de alguno de los dedos de sus manos, debiéndose indicar en el acta cuál de ellos fue y de cuál mano.
 
-###### ARTICULO 34.
+Si no quisieren o no pudieren firmar ni imprimir su huella digital, esta circunstancia se hará constar al margen.
 
-Para las Sesiones, Ordinarias y Ordinarias Abiertas, los Regidores y Síndicos deberán ser citados con tres días naturales de anticipación como mínimo, a excepción de las extraordinarias a las cuales se citará de manera inmediata, por el Secretario del H. Ayuntamiento, a efecto de estar en posibilidad de que en la sesión se traten todos y cada uno de los asuntos correspondientes, anexándose el orden del día y copias de los dictámenes o proyectos de reglamentos que se presentarán para su discusión y en su caso aprobación, en los respectivos citatorios. Si fuere el caso, el Secretario certificará, pasados quince minutos de la hora señalada para la sesión, que no existe el quórum legal para los efectos de suspensión de la misma.
+El agente del Ministerio Público firmará al calce y al margen.
 
-Para que exista quórum legal se requiere la presencia de al menos el cincuenta por ciento más uno de los miembros del H. Ayuntamiento, hecha excepción de las sesiones solemnes que se llevarán a cabo con los Regidores y Síndicos que asistan.
+Si antes de que se pongan las firmas o huellas los comparecientes hicieran alguna modificación o rectificación, éstas se harán constar inmediatamente, expresándose los motivos. Si fuere con posterioridad, pero antes de retirarse los interesados, se asentará la modificación o rectificación en acta que se levantará inmediatamente después de la anterior y que firmarán los que hayan intervenido en la diligencia.
 
-###### ARTICULO 35.
+###### Artículo 37.
 
-El H. Ayuntamiento podrá ordenar la comparecencia de cualquier funcionario de la Administración Pública Municipal, cuando se discuta algún asunto de su competencia, siempre que así lo requiera la mayoría de los integrantes.
+Las actuaciones de los tribunales se harán por duplicado y las del Ministerio Público por quintuplicado y, una vez autorizadas, se conservarán en sus respectivos archivos, bajo el cuidado y la responsabilidad del secretario y de los empleados.
 
-Dichos servidores públicos rendirán los informes solicitados, y se les podrá conceder el uso de la palabra para las aclaraciones correspondientes del caso cuando así lo amerite.
+###### Artículo 38.
 
-###### ARTICULO 36.
+Las partes, así como el ofendido o su representante legal, podrán imponerse de los autos en la secretaría del tribunal, debiendo tomarse las medidas necesarias para que no los alteren, destruyan o sustraigan.
 
-El Secretario del H. Ayuntamiento, deberá estar presente durante la celebración de las Sesiones de Cabildo, para dar fe y refrendar los acuerdos tomados en la Sesión, pudiendo expedir certificaciones de los acuerdos asentados en el libro de actas. Las faltas temporales del Secretario del H. Ayuntamiento, serán suplidas por el Director de Asuntos Jurídicos.
+Los expedientes podrán entregarse al Ministerio Público para que los estudie fuera del tribunal, pero no a la otra parte.
 
-###### ARTICULO 37.
+### CAPÍTULO VII. CATEOS
 
-Las Sesiones se celebrarán en el Salón de Cabildo del Palacio Municipal, pudiendo efectuarse en lugar distinto, siempre que el Cuerpo Colegiado en sesión así lo declare, previamente, recinto oficial.
+###### Artículo 39.
 
-###### ARTICULO 38.
+Si se extravía o destruye alguna constancia o el expediente mismo, se procederá a reponerlos. La reposición se substanciará en la forma prevista para los incidentes no especificados. El secretario hará constar la pérdida en cuanto se percate de ella y el juez ordenará lo que estime procedente para investigar el caso. Se dará vista al Ministerio Público cuando se presuma la comisión de un delito. El responsable de la pérdida estará obligado a pagar los daños y perjuicios que se ocasionaren al respecto. Para la reposición se tomará en cuenta el duplicado, pero si éste desapareció también y por ende no sea posible reponer todas las actuaciones, se tendrá por probada plenamente la existencia de las que se inserten o mencionen en cualquiera otra resolución de la que haya constancia, siempre que no se objetare oportunamente la exactitud de la inserción o cita que de ellas se haga.
 
-Es obligación de los integrantes del H. Ayuntamiento, concurrir a las Sesiones de Cabildo a que sean convocados. El Regidor o Síndico que falte sin causa justificada a tres o más sesiones será sancionado de acuerdo a lo que señala la Ley que en materia Municipal expida el Poder Legislativo del Estado y el presente Código.
+###### Artículo 40.
 
-### CAPITULO V. Del Debate en las Sesiones
+Los secretarios de los tribunales o del Ministerio Público cotejarán las copias o testimonios de las constancias que se expidieren y las autorizarán con la firma y el sello correspondiente.
 
-###### ARTICULO 39.
+###### Artículo 41.
 
-El Presidente Municipal, presidirá y dirigirá los debates, en los que podrán participar todos los integrantes del H. Cabildo, en el orden en que soliciten hacer uso de la palabra. Los Regidores y Síndicos que hagan uso de la palabra tendrán absoluta libertad para expresar sus ideas.
+Las actuaciones serán autorizadas inmediatamente por los servidores públicos a quienes corresponda firmarlas, dar fe o certificar el acto.
 
-###### ARTICULO 40.
+###### Artículo 42.
 
-El Presidente Municipal, los Regidores y Síndicos, podrán proponer, opinar, informar y discutir en forma razonada y respetuosa, sobre los asuntos que conozca el H. Cabildo.
+Serán nulas las actuaciones en las que no se hayan cumplido las formalidades esenciales o garantías que la ley prevenga y se reclamarán dentro de los tres días siguientes a su emisión.
 
-###### ARTICULO 41.
+La nulidad se resolverá por el juez a petición de parte, se tramitará en vía incidental y originará la de las actuaciones que se deriven precisamente del acto anulado, pero no las de aquellas que no dependan de él.
 
-Las opiniones y propuestas que hagan los comisionados sobre asuntos de su ramo, se discutirán y aquellas que hagan sobre asuntos que no fueren de sus comisiones se pasarán a la comisión correspondiente para dictamen, o que el H. Ayuntamiento por el voto del cincuenta por ciento más uno de los miembros del Cabildo, se acordará poner el asunto a discusión y en su caso a su aprobación.
+###### Artículo 43.
 
-###### ARTICULO 42.
+La infracción a las disposiciones contenidas en este capítulo se sancionará por el juez con la medida disciplinaria que estime pertinente, sin perjuicio de dar vista al Ministerio Público, cuando pudiere tratarse de la comisión de un delito.
 
-Las opiniones o propuestas que se realicen en el punto de asuntos generales establecido en el orden del día de la sesión, no serán sometidas a votación inmediata, se turnarán a la comisión correspondiente. De estimarse por el H. Cabildo que ameritan análisis, serán incluidos en el orden del día de la siguiente sesión ordinaria.
+###### Artículo 44.
 
-###### ARTICULO 43.
+Cuando el inculpado, el ofendido, el denunciante o querellante, los testigos o los peritos no hablen o no entiendan suficientemente el idioma español, de oficio o a petición de parte se les nombrará uno o más intérpretes mayores de edad, quienes deberán traducir fielmente las preguntas y contestaciones que hayan de transmitir. Cuando sea posible y a petición de alguna de las partes, se escribirá la declaración en idioma del declarante.
 
-Durante las discusiones, el Presidente Municipal, los Regidores y Síndicos guardarán compostura. Las intervenciones serán en todo caso claras y precisas, las que deberán referirse al asunto en análisis; cuando se suscite alguna desviación el Secretario del H. Ayuntamiento, pedirá al expositor que se conduzca exclusivamente al tema en análisis.
+Se interrogará por escrito o por medio de intérprete a los sordos y a los mudos que sepan leer y escribir.
 
-###### ARTICULO 44.
+Cuando no hubiere un traductor mayor de edad, podrá nombrarse un menor que haya cumplido quince años. En ningún caso, los testigos podrán ser intérpretes.
 
-Al ponerse a discusión todo asunto, deberán exponerse las razones y fundamentos que los motiven. Si al término de dicha exposición nadie solicitare el uso de la palabra, o bien cuando se considere suficientemente discutido se someterá a votación.
+###### Artículo 45.
 
-###### ARTICULO 45.
+Las partes podrán recusar, con causa, al intérprete. El servidor público que practique las diligencias resolverá de plano y sin admitir recurso alguno.
 
-Cuando un dictamen o propuesta constare de más de un artículo, se discutirá en lo general y si se declara que ha lugar a votación, podrá discutirse y resolverse en lo particular. Siempre que el Presidente Municipal, un Regidor o Síndico lo pida, podrá el H. Cabildo acordar por mayoría de votos, que se divida en las partes que sea necesario para facilitar la discusión.
+###### Artículo 46.
 
-Si se propusieran enmiendas a un artículo, el autor o autores de la propuesta, dictamen o promoción que se discuta, manifestarán si están conformes con aquéllas. En este caso se discutirá el artículo enmendado, de lo contrario se discutirá tal como se propuso al principio. Sólo en caso de que el artículo fuere desechado, se discutirá la enmienda.
+Los magistrados, jueces y agentes del Ministerio Público mantendrán el buen orden y exigirán que a ellos y a las demás autoridades se les guarde el respeto y la consideración debidos. De lo contrario, impondrán en el acto las correcciones disciplinarias que señala este Código.
 
-###### ARTICULO 46.
+###### Artículo 47.
 
-Si se propusieran adiciones y las aceptara el autor de la proposición, opinión o dictamen se discutirán conjuntamente; en caso contrario, se discutirán las adiciones en la siguiente sesión.
+Las fianzas que deban otorgarse ante los tribunales se sujetarán a las disposiciones especiales de este Código y, en su defecto, a las del Código Civil.
 
-###### ARTICULO 47.
+###### Artículo 48.
 
-Si el dictamen fuere desechado, cualquier integrante del Cabildo podrá proponer los términos en que deba resolverse el asunto, y entonces se pondrá a discusión la nueva propuesta. Si ninguno quisiera hacer la proposición, volverá el dictamen a la Comisión para que lo presente reformado.
+En materia penal no se cobrarán costas. El servidor público que las cobre o las reciba, aunque sea a título de gratificación, será destituido de su cargo, sin perjuicio de dar vista al Ministerio Público.
 
-###### ARTICULO 48.
+###### Artículo 49.
 
-No podrá efectuarse ninguna discusión, ni resolverse ningún asunto, cuando el Regidor o el Síndico del ramo esté ausente, por causa justificada, excepto cuando la persona aludida hubiere expresado su consentimiento por escrito. Cuando la Comisión esté integrada por dos o más Regidores bastará la presencia de uno de ellos.
+Todos los gastos que se originen en la práctica de diligencias por parte del Ministerio Público, en las acordadas por los tribunales a solicitud de éste y en las decretadas de oficio por los tribunales, serán cubiertos por el erario público.
 
-###### ARTICULO 49.
+Los gastos de las diligencias solicitadas por el inculpado o su defensor, el ofendido o víctima del delito y su representante legal serán cubiertos por quienes las promuevan. En el caso de que estén imposibilitados para ello y de que el Ministerio Público estime que son indispensables para el esclarecimiento de los hechos, podrá éste hacer suya la petición y entonces quedarán también a cargo del erario.
 
-En materia de discusiones, sólo se concederá el uso de la palabra hasta en tres ocasiones a un mismo Regidor o Síndico por un lapso máximo de cinco minutos cada una de ellas, a excepción del o los autores del dictamen o proposición y los comisionados del ramo, quienes podrán intervenir cuando lo deseen, mientras no se declare por el pleno que el asunto está suficientemente discutido. Se exceptúan de lo anterior, aquellos casos en que por la importancia del tema, el cabildo al inicio de la sesión apruebe que no haya limitación en el tiempo y número de participaciones.
+###### Artículo 50.
 
-###### ARTICULO 50.
+Si cambiare el titular de un tribunal o del Ministerio Público, no se proveerá auto alguno en el que se haga saber el cambio, pero en el primero que proveyere el nuevo servidor público, se insertará su nombre completo; en los tribunales que resuelvan en forma colegiada, se pondrán al margen de los autos los nombres y apellidos de los servidores públicos que los firmen.
 
-Cuando los integrantes del H. Cabildo fueran objeto de alusiones personales dentro de la sesión, podrán contestarlas si lo desean, haciendo uso de la voz, hasta por cinco minutos.
+Cuando no tenga que dictarse resolución alguna anterior a la sentencia, sí se hará saber el cambio de personal.
 
-###### ARTICULO 51.
+###### Artículo 51.
 
-Ninguna discusión podrá suspenderse, si no ha concluido, a menos que la mayoría de los integrantes del H. Cabildo así lo dispongan.
+A solicitud del ofendido o de su representante legítimo, durante el procedimiento la autoridad correspondiente dictará las providencias necesarias para restituirlo en el goce de sus derechos, sobre todo en los de propiedad o posesión cuando se trate de bienes inmuebles, siempre que estén legalmente acreditados. Si se trata de bienes muebles, únicamente podrán retenerse, esté o no comprobado el cuerpo del delito, si a juicio de quien practique las diligencias, y bajo su más estricta responsabilidad, la retención fuere necesaria.
 
-###### ARTICULO 52.
+Si la entrega de los bienes inmuebles pudiera lesionar derechos de tercero o del inculpado, podrá efectuarse la restitución mediante fianza para garantizar los daños y perjuicios, si el servidor público que la ordena estima necesaria esa garantía.
 
-Iniciada la discusión de un asunto, sólo podrá suspenderse:
+###### Artículo 52.
 
-I. Por desórdenes graves en el recinto; y
+Cuando haya temor fundado de que el obligado a la reparación del daño causado por el delito oculte o enajene los bienes en que pueda hacerse efectiva dicha reparación, una vez que estén comprobados el cuerpo del delito y la probable responsabilidad del inculpado, el Ministerio Público, el ofendido o la víctima o sus representantes legales, podrán solicitar al juez el aseguramiento de los bienes, conforme a lo dispuesto en el Código de Procedimientos Civiles del Estado.
 
-II. Por moción suspensiva a propuesta de uno de los miembros del H. Ayuntamiento, y que sea aprobado por mayoría del mismo.
+Si el inculpado u otra persona en su nombre otorgan caución bastante, a juicio del tribunal, para asegurar la satisfacción de la responsabilidad de los daños y perjuicios causados, se levantará el aseguramiento.
 
-###### ARTICULO 53.
+###### Artículo 53.
 
-En las discusiones generales de los asuntos, terminada la intervención de los oradores, el Presidente Municipal preguntará a los miembros del H. Cabildo si consideran que están suficientemente discutidos, y si así fuere, declarará agotados tales asuntos, sometiéndolos a votación.
+Cuando durante el procedimiento judicial se compruebe que el hecho que se investiga tiene ramificaciones, o que se siguen otros con los que tuviere conexión, se dará conocimiento de ello al Ministerio Público para que promueva lo que corresponda.
 
-###### ARTICULO 54.
+###### Artículo 54.
 
-Cuando sea desechado un proyecto o dictamen en lo general el Presidente Municipal cuestionará a los miembros del H. Cabildo, si se devuelve a la comisión respectiva para un nuevo estudio o si se desecha en forma definitiva; esta resolución se tomará en votación nominal.
+Toda incoación de causa penal será comunicada por oficio al tribunal de apelación respectivo.
 
-###### ARTICULO 55.
+###### Artículo 55.
 
-La discusión del asunto sólo podrá suspenderse por una sola vez, la discusión deberá continuarse el día y la hora fijada por quien presida la sesión.
+Los tribunales, de oficio, dictarán los trámites y las providencias encaminados a que la justicia sea pronta y expedita.
 
-###### ARTICULO 56.
+###### Artículo 56.
 
-En ningún caso las comisiones tendrán facultades de ejecución, sólo el H. Ayuntamiento podrá ejecutarlos por el conducto establecido.
+Son correcciones disciplinarias:
 
-###### ARTICULO 57.
+I. Apercibimiento;
 
-Los comisionados deberán concretarse a vigilar y a observar las actividades que correspondan a sus ramos, comunicando al H. Ayuntamiento las irregularidades detectadas, y proponer en su caso las medidas de solución conducentes.
+II. Multa hasta por treinta días de salario, que se duplicará en caso de reincidencia;
 
-### CAPITULO VI. De las Votaciones en las Sesiones
+III. Arresto hasta por treinta y seis horas; y
 
-###### ARTICULO 58.
+IV. Suspensión hasta por un mes.
 
-Las votaciones serán de tres clases:
+La suspensión sólo se podrá aplicar a servidores públicos del Poder Judicial.
 
-I. Económicas: Que consiste en levantar la mano los que aprueben la resolución correspondiente, y no hacerlo, los que voten en contra;
+###### Artículo 57.
 
-II. Nominales: Consiste en preguntar personalmente a los integrantes del H. Cabildo si aprueba o desaprueba, debiendo contestar a favor o en contra; y
+Contra cualquiera providencia en que se imponga alguna corrección disciplinaria, se oirá al interesado, dentro de las veinticuatro horas siguientes a la en que tenga conocimiento de ella.
 
-III. Secretas: Consiste en emitir el voto a través de cédulas diseñadas para tal fin y en forma impersonal.
+En vista de lo que manifieste el interesado, el servidor público que la hubiere impuesto resolverá inmediatamente lo que estime procedente.
 
-###### ARTICULO 59.
+### CAPÍTULO VIII. TÉRMINOS
 
-En caso de empate por cualquiera de los medios de votación el asunto se resolverá por el voto de calidad de quien presida la sesión.
+###### Artículo 58.
 
-###### ARTICULO 60.
+El Ministerio Público, en la investigación ministerial, y los tribunales, podrán emplear, para hacer cumplir sus determinaciones, los medios de apremio siguientes:
 
-La votación económica será para la aprobación de: el Orden del Día y la del Acta de la Sesión anterior, la votación nominal será para la aprobación de: Dictámenes y Reglamentos, y la votación secreta, cuando el
+I. Multa hasta por treinta días de salario;
 
-caso lo amerite.
+II. Auxilio de la fuerza pública; o
 
-###### ARTICULO 61.
+III. Arresto hasta por treinta y seis horas.
 
-Se abstendrán de votar y de discernir los integrantes del H. Cabildo que tuvieran interés personal en el asunto a discusión, los que son apoderados de la persona interesada o parientes de la misma, dentro del tercer grado de consanguinidad o segunda de afinidad.
+En su caso, se procederá contra el rebelde conforme a las disposiciones del Código Penal.
 
-###### ARTICULO 62.
+###### Artículo 59.
 
-La aprobación de cualquier dictamen, o reglamentos podrá darse por unanimidad cuando todos los integrantes del H. Cabildo voten a favor y por mayoría cuando por lo menos el cincuenta por ciento más uno.
+Las diligencias que deba practicar el Ministerio Público fuera del lugar donde se esté tramitando alguna investigación, pero dentro del territorio del Estado, se encomendarán a quien desempeñe funciones de igual naturaleza en el lugar donde deban practicarse, mediante oficio, con las inserciones conducentes y, de ser necesario, se adjuntará un duplicado autorizado y completo de la respectiva investigación ministerial.
 
-###### ARTICULO 63.
+Cuando las diligencias tengan que practicarse en otra entidad federativa, se solicitará la intervención de la Procuraduría General de Justicia correspondiente o, en su caso, de la Procuraduría General de la República, en los términos de los convenios de colaboración vigentes.
 
-Mientras la votación se verifica, ningún integrante del H. Cabildo podrá salir del Recinto de sesiones, salvo permiso previo de quien preside la misma, en caso contrario se le aplicarán las sanciones que previene la Ley y el presente Código.
+La entrega de inculpados o sentenciados evadidos, así como el aseguramiento y entrega de objetos, instrumentos o productos del delito, se solicitará por medio de exhorto o requisitoria al juez de la localidad en que dicha diligencia deba practicarse.
 
-###### ARTICULO 64.
+Cuando tengan que practicarse diligencias judiciales dentro o fuera del Estado, se encomendará su cumplimiento al tribunal de igual categoría jurisdiccional.
 
-El Presidente Municipal será el responsable de dar cumplimiento a los acuerdos tomados por los integrantes del H. Cabildo, debiendo informar de los resultados en las sesiones posteriores.
+Si las diligencias tuvieren que practicarse fuera del lugar de la residencia del tribunal, pero dentro de su territorio jurisdiccional y el personal no pudiere trasladarse, por requisitoria se encargará su cumplimiento al inferior.
 
-###### ARTICULO 65.
+Se empleará la forma de exhorto cuando se dirija a un tribunal de igual o superior categoría, y de requisitoria cuando se dirija a un inferior.
 
-Cuando un miembro del H. Ayuntamiento infrinja las disposiciones contenidas en la Ley que en materia Municipal expida el Poder Legislativo del Estado o el presente Código, se hará acreedor a las siguientes sanciones, atendiendo a la gravedad de la falta:
+###### Artículo 60.
 
-I. Amonestación por parte de quien preside la sesión, apercibiéndolo al cumplimiento de sus obligaciones;
+Se dará entera fe y crédito a los exhortos y requisitorias que libren los tribunales y jueces de la República, debiendo cumplimentarse siempre que llenen las condiciones fijadas en este Código.
 
-II. Suspensión en el pago de sus salarios, en caso de reincidencia; y
+###### Artículo 61.
 
-III. Las sanciones y responsabilidades que resulten aplicables en los términos de la Ley que en materia Municipal expida el Poder Legislativo del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+Los exhortos y las requisitorias contendrán las inserciones necesarias, según la naturaleza de la diligencia que deba practicarse; irán firmados por el servidor público y por el secretario correspondiente o por dos testigos de asistencia y llevarán, además, el sello del tribunal.
 
-### CAPITULO VII. De la Revocación de Acuerdos
+Los tribunales requeridos tramitarán los exhortos y requisitorias aun cuando carezcan de alguna formalidad, si la ausencia de ésta no afecta su validez ni impide el conocimiento de la naturaleza y características de la diligencia solicitada, excepto órdenes de aprehensión y de cateo, las que deberán llenar las formalidades esenciales del procedimiento.
 
-###### ARTICULO 66.
+###### Artículo 62.
 
-Los acuerdos del H. Cabildo no podrán revocarse sino en una sesión a la que concurran el cincuenta por ciento más uno de los integrantes del H. Ayuntamiento.
+En casos urgentes, se podrá usar el telégrafo, teléfono, fax, u otro medio idóneo para este propósito, expresándose con toda claridad la diligencia que haya de practicarse, la parte que la solicitó, el nombre de los que en ella deban participar, el delito de que se trate y el fundamento de la providencia. El tribunal requirente mandará con posterioridad, por los conductos debidos, el exhorto o requisitoria que corresponda.
 
-###### ARTICULO 67.
+###### Artículo 63.
 
-No podrán en la misma sesión revocarse las proposiciones o dictámenes en que se consultare la revocación de un acuerdo, sino que se resolverá en la ordinaria o extraordinaria siguiente, expresándose en la cédula citatoria el acuerdo que se trate de revocar.
+Los exhortos a los tribunales extranjeros se remitirán por la vía diplomática al lugar de su destino. Las firmas de las autoridades que los expidan serán legalizadas por el Gobernador del Estado, y la de este servidor público, por el Secretario de Relaciones Exteriores.
 
-###### ARTICULO 68.
+###### Artículo 64.
 
-El Presidente Municipal, los Regidores y Síndicos que con causa justificada no pudieran asistir a la sesión en que deba tratarse la revocación de acuerdos, podrán remitir por escrito su voto enviándolo en sobre cerrado, que abrirá el Secretario en el momento de la votación, y que será posteriormente ratificada por el Regidor o Síndico, y deberá constar en el acta correspondiente.
+No será necesaria la legalización si las leyes o prácticas del país donde resida el tribunal al que se dirige el exhorto, no establecen ese requisito para los documentos de igual clase.
 
-### CAPITULO VIII. Del Procedimiento Reglamentario Municipal
+###### Artículo 65.
 
-###### ARTICULO 69.
+Respecto de las naciones cuya legislación lo autorice, el exhorto se remitirá directamente por el tribunal o juez exhortante, al exhortado, sin más legalización que la exigida por las leyes del país en el cual deban cumplirse.
 
-Tienen facultad para presentar iniciativas de Reglamentos Municipales, reformas al presente Código, así como emitir acuerdos, circulares y demás disposiciones administrativas de observancia general necesarios para organizar y administrar el Municipio y el funcionamiento, sus servicios, establecimientos, y en especial las disposiciones generales que marque la Ley que en materia Municipal expida el Poder Legislativo del Estado:
+Los exhortos que de esas naciones sean dirigidos a los tribunales del Estado también podrán enviarse directamente por el tribunal o juez exhortante al exhortado, y bastará que sean legalizados por un Cónsul mexicano residente en la nación o lugar del tribunal exhortante.
 
-I. El Presidente Municipal, los Regidores y Síndicos; y
+### CAPÍTULO IX. CITACIONES
 
-II. Las Comisiones de Cabildo colegiados o individuales.
+###### Artículo 66.
 
-###### ARTICULO 70.
+Los exhortos que se reciban en el Estado se proveerán dentro de las veinticuatro horas hábiles siguientes a la en que se reciban, y se despacharán, asimismo, dentro de tres días hábiles a no ser que las diligencias que se tengan que practicar exijan necesariamente mayor tiempo, en cuyo caso el juez fijará el que crea conveniente, con audiencia del Ministerio Público.
 
-Los acuerdos, circulares y demás disposiciones administrativas de observancia general, serán expedidas por el H. Ayuntamiento, de manera excepcional y complementarias al Código.
+###### Artículo 67.
 
-###### ARTICULO 71.
+Los exhortos que se dirijan a tribunales de otras Entidades de la República se legalizarán por el Presidente del Tribunal Superior de Justicia, quien los enviará a su homólogo para que los haga llegar al juez o tribunal requerido.
 
-Las iniciativas correspondientes al presupuesto de egresos y sus reformas, sólo podrán presentarse por el Presidente Municipal, Regidores y Síndicos.
+###### Artículo 68.
 
-###### ARTICULO 72.
+Cuando deba examinarse a miembros del cuerpo diplomático mexicano, que se hallen en el extranjero en ejercicio de sus funciones, se dirigirá oficio por conducto de la Secretaría de Relaciones Exteriores al ministro diplomático respectivo para que, si se trata de él mismo, informe bajo protesta y, si no, examine en la misma forma al que deba declarar.
 
-En las deliberaciones para la aprobación de la (sic) normas y reglamentos municipales únicamente participarán el Presidente Municipal, los Regidores y Síndicos; el Secretario del H. Ayuntamiento sólo participa con voz.
+### CAPÍTULO X. AUDIENCIAS DE DERECHO
 
-###### ARTICULO 73.
+###### Artículo 69.
 
-Cuando se rechace por el H. Cabildo la iniciativa de una norma municipal no podrá presentarse de nueva cuenta para su estudio, en un término menor de seis meses.
+Si el juez exhortado creyere que no debe cumplimentar el exhorto, por cualquier motivo legal o si tuviere duda sobre este punto, oirá al Ministerio Público y resolverá dentro de tres días, promoviendo, en su caso, la competencia conforme a las reglas establecidas en este Código.
 
-###### ARTICULO 74.
+La resolución dictada por el juez requerido, negando la práctica de la diligencia que le fue solicitada, será apelable.
 
-Para que un proyecto de norma municipal se entienda aprobado, es preciso el voto en sentido afirmativo, tanto en lo general como en lo particular de la mayoría del Cuerpo Colegiado.
+###### Artículo 70.
 
-###### ARTICULO 75.
+Cuando el tribunal o juez no pudiere practicar por sí mismo, en todo o en parte, las diligencias que se le encarguen, podrá encomendar su ejecución al juez inferior, remitiéndole el exhorto original o un oficio con las indicaciones necesarias, si aquél no pudiera mandarse.
 
-Aprobado por el Cabildo, en los términos del artículo que antecede, el proyecto, pasará al Presidente Municipal para su promulgación.
+###### Artículo 71.
 
-###### ARTICULO 76.
+Cuando el juez no pueda dar cumplimiento al exhorto o requisitoria, por hallarse en otra jurisdicción las personas o los bienes que sean objeto de las diligencias, lo remitirá al juez del lugar en que aquéllas o éstos se hallen y lo hará saber al requirente.
 
-Para ser obligatoria toda norma expedida por el H. Ayuntamiento, deberá ser publicada en el Periódico Oficial del Estado, y se procurará hacerlo del conocimiento de la población del municipio pegando una copia en los lugares visibles de la Cabecera Municipal, Delegaciones y Comisarías Rurales, y a través de los diversos medios de comunicación que en su momento se consideren convenientes.
+###### Artículo 72.
 
-###### ARTICULO 77.
+No se notificarán las providencias que se dicten para el cumplimiento de un exhorto o de una requisitoria, sino cuando se prevenga así en el mismo despacho.
 
-Las normas municipales entrarán en vigor, simultáneamente en todo el Municipio, al día siguiente de su publicación en el Periódico Oficial del Estado, salvo que en la propia disposición se fije una fecha distinta.
+###### Artículo 73.
 
-###### ARTICULO 78.
+Cuando se demore el cumplimiento de un exhorto se recordará su desahogo por medio de oficio. Si a pesar de esto continúa la demora, el juez requirente lo pondrá en conocimiento del superior jerárquico del requerido, pidiéndole lo apremie y obligue a devolver el exhorto, exigiendo la responsabilidad en que hubiere incurrido.
 
-Los Reglamentos emanados del H. Ayuntamiento podrán modificarse en cualquier tiempo, siempre que se cumplan los requisitos de su aprobación, expedición y promulgación.
+###### Artículo 74.
 
-###### ARTICULO 79.
+Fuera de los casos señalados en los artículos anteriores, los tribunales o jueces, al dirigirse a autoridades o servidores públicos que no sean judiciales, lo harán por medio de oficio.
 
-En todo lo no previsto en este Código, se recurrirá a las disposiciones de la Ley que en materia Municipal expida el Poder Legislativo del Estado y demás leyes vigentes, aplicables al Municipio.
+###### Artículo 75.
 
-### CAPITULO IX. De las Comisiones
+Cuando el Ministerio Público, durante la investigación ministerial o durante el procedimiento judicial, considere necesaria la práctica de un cateo, acudirá al juez competente a solicitarle por escrito la diligencia, expresando: el objeto y la necesidad de la medida, la ubicación del lugar donde deben practicarse las diligencias, la persona o las personas que deban localizarse y aprehenderse y los objetos, instrumentos o productos del delito que se buscan y deben asegurarse.
 
-###### ARTICULO 80.
+La autoridad judicial deberá resolver dentro de las setenta y dos horas siguientes a la petición; pero si el Ministerio Público justifica la urgencia de su petición, ésta se resolverá de inmediato.
 
-El H. Ayuntamiento nombrará las comisiones que tendrán la obligación de vigilar el ramo de la administración que se les encomiende, se les integran comisiones permanentes, y serán las siguientes:
+El cateo se limitará a lo dispuesto expresamente en la orden respectiva.
 
-REGIDORES
+Al concluirse el cateo se levantará acta circunstanciada en presencia de dos testigos propuestos por el ocupante del lugar cateado o, en su ausencia o negativa, por la autoridad judicial que practique la diligencia.
 
-I. Gobernación y Licencias;
+Si estos requisitos no se cumplen, la diligencia carecerá de valor probatorio, sin que sirva de excusa el consentimiento de los ocupantes del lugar.
 
-II. Hacienda;
+###### Artículo 76.
 
-III. Seguridad Pública y Tránsito;
+Las diligencias de cateo se practicarán por el titular del tribunal que las decrete, por el secretario del mismo o por el agente del Ministerio Público, según se designe en el mandamiento. Si alguna autoridad hubiere solicitado del Ministerio Público la promoción del cateo, el juez podrá autorizar que asista a la diligencia.
 
-IV. Programación Urbana y Rural;
+###### Artículo 77.
 
-V. Agua Potable y Alcantarillado;
+Para decretar la práctica de un cateo bastará la existencia de indicios o datos que hagan presumir, fundadamente, que las personas a quienes se trata de aprehender se hallan en el lugar donde se practicará la diligencia o que en éste se hallan los objetos materiales del delito, los instrumentos o productos del mismo, libros, papeles, documentos o cosas que puedan servir para la comprobación del delito o de la responsabilidad del inculpado.
 
-VI. Obra Pública y Alumbrado Público;
+###### Artículo 78.
 
-VII. Desarrollo Social;
+Si el lugar donde debe practicarse el cateo o los muebles donde pueden hallarse los objetos que se buscan están cerrados y el ocupante de aquél o quien tenga acceso a éstos se niegan a franquear el paso o abrir los muebles, la autoridad que practique el cateo puede hacer uso de la fuerza pública para cumplir su encargo, dejando constancia en el acta de las circunstancias que la motivaron y las que ocurrieron en el desarrollo de esta diligencia.
 
-VIII. Mercados y Rastros;
+###### Artículo 79.
 
-IX. Educación Pública y Acción Cívica;
+Los cateos se practicarán entre las seis y las dieciocho horas, pero si llegada esta hora no se han terminado, podrán continuarse hasta su conclusión. Si la urgencia del caso lo requiere, los cateos podrán practicarse a cualquiera hora, debiendo expresarse esta circunstancia en el mandamiento judicial respectivo.
 
-X. Protección al Ambiente;
+### CAPÍTULO XI. ACUERDOS, DETERMINACIONES MINISTERIALES Y RESOLUCIONES JUDICIALES
 
-XI. Limpia;
+###### Artículo 80.
 
-XII. Salubridad, Beneficencia Pública y Espectáculos;
+Si al practicarse un cateo se descubriere un delito distinto del que lo haya motivado, se hará constar en el acta correspondiente, cuando el ilícito sea perseguible de oficio.
 
-XIII. Parques y Jardines;
+###### Artículo 81.
 
-XIV. Acción Social, Cultura y Deporte;
+El cateo en el despacho oficial de un servidor público requerirá tomar las medidas indispensables para no entorpecer las actividades oficiales, procurando practicarlo fuera de horas hábiles, sin perjuicio de la vigilancia policiaca. El tribunal que ordene la diligencia recabará previamente de las oficinas, dependencias, entidades u órganos públicos estatales al que el servidor público pertenezca, la autorización correspondiente.
 
-XV. Relojes y Panteones; y
+###### Artículo 82.
 
-XVI. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
+Al practicarse un cateo se recogerán los instrumentos, objetos y productos del delito, así como los libros, documentos o cualesquiera otras cosas que se encuentren en el lugar si fueren conducentes al éxito de la investigación o estuvieren relacionados con un nuevo delito.
 
-SINDICOS
+Se formará un inventario de los objetos que se recojan relacionados con el delito que motive el cateo y, en su caso, otro por separado con los que se relacionen con el nuevo delito.
 
-I. Procurador; y
+###### Artículo 83.
 
-II. De Hacienda.
+Si el inculpado estuviere presente, se le mostrarán los objetos recogidos para que, en su caso, los reconozca y ponga en ellos su firma o rúbrica, si fuere posible; si no supiere firmar, estampará sus huellas digitales; en caso contrario, se unirá a ellos una tira de papel que será sellada en la juntura de los dos extremos y se invitará al inculpado a que firme o ponga sus huellas digitales. Si no pudiere firmar o poner sus huellas digitales o se negare a ello, se hará constar esta circunstancia.
 
-###### ARTICULO 81.
+###### Artículo 84.
 
-Las comisiones serán integradas a propuesta del Presidente Municipal, a más tardar en la segunda sesión ordinaria del H. Cabildo y, podrán ser modificadas previo acuerdo del mismo y durarán todo el periodo Constitucional, asumiendo las facultades y obligaciones contempladas en la Ley que en materia Municipal expida el Poder Legislativo del Estado, así como en el presente Código y demás reglamentos que al efecto se expidan.
+Cuando se practique un cateo en contra de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos o de las disposiciones de este Código, el juez, de oficio o a petición de parte, resolverá sobre la nulidad de las diligencias llevadas a cabo, según su naturaleza y las características del caso. Incurrirá en responsabilidad quien ordene o practique un cateo sin observar las normas aplicables.
 
-###### ARTICULO 82.
+###### Artículo 85.
 
-Podrá haber Comisiones Colegiadas integradas por dos o más Regidores, y en las cuales el Regidor que la presida será el responsable del buen funcionamiento de la Comisión y de rendir los informes de las actividades al H. Cabildo.
+Los términos son improrrogables. Empiezan a correr desde el día siguiente al de la fecha de la notificación, salvo los casos que este Código señale expresamente.
 
-###### ARTICULO 83.
+No se incluirán en los términos los días inhábiles, salvo cuando se trate de poner al inculpado a disposición del tribunal que conocerá de su caso, de tomarle su declaración preparatoria o de resolver su situación jurídica.
 
-Para el mejor desempeño de sus funciones los Regidores trabajarán en comisiones cuyas funciones serán las establecidas en el artículo 18 del presente Código, debiendo rendir mensualmente al H. Cabildo un informe de las actividades desarrolladas durante el mes, así como de las incidencias de los ramos a su cargo.
+El término para resolver podrá ampliarse sólo a petición del inculpado o de su defensor. Decretada la ampliación, el juez deberá comunicarla inmediatamente al encargado del reclusorio donde se halle el detenido.
 
-###### ARTICULO 84.
+###### Artículo 86.
 
-Para efectos de los informes de que habla el artículo anterior, los titulares de las comisiones deberán entregar al Secretario de Cabildo a más tardar al inicio de la sesión ordinaria mensual el informe por escrito de su comisión a efecto de que pueda ser discutido en la propia sesión. El titular o cualquiera de los miembros de la comisión podrán leer el informe o una síntesis del mismo, no debiendo excederse de más de tres minutos para dicha lectura.
+Los términos se contarán por días naturales, excepto lo señalado en el segundo párrafo del artículo anterior, y a cualquier otro que deba computarse por horas, pues éstos se contarán de momento a momento, a partir de la hora en que corresponda conforme a la ley.
 
-###### ARTICULO 85.
+###### Artículo 87.
 
-Los integrantes de una comisión tendrán como obligación el sostener al menos una reunión mensual con los responsables de las áreas a cargo de la comisión, a efecto de estar enterados debidamente del funcionamiento de la administración. Las comisiones colegiadas deberán tener además al menos una reunión interna semanal en la que se traten los asuntos competencia de la Comisión, las cuales deberán ser citadas por el titular, y en la cual se levantará minuta donde se asentará una síntesis del tema tratado, de las propuestas, conclusiones y en general de todas las incidencias de la reunión.
+Cuando no se fije un término especial en este Código, el término será de tres días; pero siempre que la práctica de un acto judicial requiera citación de personas que se hallen fuera del lugar del proceso, a juicio del juez se ampliará el término señalado por la ley para que concurran ante el tribunal, tomando en cuenta la mayor o menor facilidad en las comunicaciones.
 
-###### ARTICULO 86.
+### CAPÍTULO XII. NOTIFICACIONES
 
-Las comisiones especiales deberán rendir sus dictámenes, en la siguiente sesión ordinaria a la fecha en que se turnen los asuntos de su competencia, debiendo cumplirse con lo señalado en los artículos 84 y 85 en lo relativo al informe escrito y su lectura en la sesión.
+###### Artículo 88.
 
-###### ARTICULO 87.
+Los términos serán comunes, a menos que, por su naturaleza o por disposición de la ley, deban ser individuales.
 
-De las atribuciones, así como el Régimen de Suplencias del H. Ayuntamiento, del Presidente Municipal, de los Regidores y Síndicos, se estará a lo dispuesto en la Ley que en materia Municipal expida el Poder Legislativo del Estado.
+###### Artículo 89.
 
-### CAPITULO X. Del Protocolo
+Con excepción de los servidores públicos que gocen de fuero, toda persona está obligada a presentarse ante los tribunales y ante el Ministerio Público cuando sea citada, a menos que no pueda hacerlo porque padezca alguna enfermedad que se lo impida o tenga alguna otra imposibilidad física para presentarse, lo que deberá justificar plenamente.
 
-###### ARTICULO 88.
+Si las personas obligadas a presentarse son menores de edad o han sufrido lesiones, el Ministerio Público proveerá, de ser posible, que sean acompañadas por profesionales que les brinden la ayuda psicológica o la seguridad personal que consideren necesarias.
 
-En las sesiones del H. Ayuntamiento, el Presidente Municipal ocupará su lugar al centro y el Secretario del H. Ayuntamiento a su derecha, los Regidores y Síndicos ocuparán sus lugares alternativamente.
+###### Artículo 90.
 
-###### ARTICULO 89.
+Las citaciones podrán hacerse verbalmente, mediante cédula, por telégrafo o por cualquier otro medio electrónico, anotándose en cualquiera de esos casos la constancia respectiva en el expediente.
 
-Cuando se trate de la asistencia del C. Gobernador del Estado a alguna Sesión del H. Ayuntamiento, el Presidente Municipal nombrará dos comisiones para que la primera, lo acompañe al lugar donde se encuentra el recinto de sesiones, y la otra, lo acompañe cuando se retire.
+###### Artículo 91.
 
-###### ARTICULO 90.
+Las citaciones contendrán:
 
-En el lugar de sesiones del H. Ayuntamiento, el C. Gobernador tomará asiento al centro y el Presidente Municipal tomará asiento al lado derecho del C. Gobernador. Si asistiera el C. Presidente de la República o su Representante, ocupará su lugar al centro, tomando asiento a la derecha el C. Gobernador y a la izquierda el C. Presidente Municipal. Para los demás invitados, se reservarán lugares especiales.
+I. La designación legal de la autoridad ante la que deba presentarse el citado;
 
-###### ARTICULO 91.
+II. El nombre, apellido y domicilio del citado si se supiere o, en caso contrario, los datos de que se disponga para identificarlo;
 
-Al entrar al recinto el Presidente de la República, el Gobernador del Estado o sus representantes, los presentes se pondrán de pie, y cuando salgan se hará lo mismo.
+III. El día, hora y lugar en que debe comparecer;
 
-###### ARTICULO 92.
+IV. El medio de apremio que se le aplicará si no comparece; y
 
-En la sesión de instalación del H. Ayuntamiento y en las
+V. La firma o la transcripción de la firma del servidor público que ordena la citación.
 
-solemnes, El Presidente Municipal, los Regidores y Síndicos deberán asistir vestidos de manera formal, de preferencia de color oscuro.
+###### Artículo 92.
 
-## TITULO SEGUNDO. DE LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA MUNICIPAL DE SUS FUNCIONES Y ATRIBUCIONES
+Cuando la citación se haga por cédula, se acompañará a ésta un duplicado, en el cual firme el interesado o cualquiera otra persona que lo reciba.
 
-### CAPITULO I. De las Dependencias y Unidades Administrativas Municipales
+## TÍTULO PRIMERO. REGLAS GENERALES PARA EL PROCESO PENAL
 
-###### ARTICULO 93.
+### CAPÍTULO I. INICIACIÓN DEL PROCEDIMIENTO
 
-La Presidencia tiene a su cargo el despacho de asuntos que expresamente le confieren la Ley que en materia Municipal expida el Poder Legislativo del Estado, los acuerdos que emanen de las Sesiones del H. Ayuntamiento y el presente ordenamiento.
+###### Artículo 93.
 
-###### ARTICULO 94.
+Cuando la citación se haga por telégrafo, se enviará por duplicado a la oficina que haya de transmitirla, la cual, con su constancia de recibo, devolverá uno de los ejemplares, que se agregará al expediente.
 
-El trámite y resolución de los asuntos, competencia de la Presidencia Municipal, corresponde originalmente al C. 13 Presidente Municipal, quien para su mejor realización, podrá delegar sus facultades en cualquiera de los servidores públicos de la Administración Pública Municipal, sin perder por ello su ejercicio directo y responsabilidad.
+###### Artículo 94.
 
-Los titulares de cada una de las Dependencias y Entidades de la Administración Pública Municipal, acordarán directamente con el Presidente Municipal o con quien éste determine, y deberán cumplir los requisitos señalados en la Ley que en materia Municipal expida el Poder Legislativo del Estado.
+En caso de urgencia, la citación podrá hacerse por vía telefónica, que transmitirá el Ministerio Público que practique las diligencias o el secretario respectivo del juzgado o tribunal correspondiente, quienes la harán con las indicaciones que previene este capítulo, asentando constancia en el expediente.
 
-Para el estudio, planeación y despacho de los asuntos de su competencia, la Presidencia Municipal contará con las siguientes Dependencias o Unidades Administrativas:
+Asimismo, podrá ordenarse a la policía que haga la citación, cumpliendo con los requisitos de este capítulo.
 
-PRESIDENCIA MUNICIPAL:
+### CAPÍTULO II. DILIGENCIAS DE INVESTIGACIÓN MINISTERIAL
 
-Secretaría Particular;
+###### Artículo 95.
 
-Asistente del C. Presidente;
+También podrá citarse por vía telefónica a la persona que haya manifestado expresamente su voluntad para que por ese medio se le notifique, proporcionando el número del teléfono al que deba hablársele, sin perjuicio de que, si no es hallada en ese lugar o no se considera conveniente hacerlo de esa manera, se le cite por alguno de los otros medios señalados en este capítulo.
 
-Comité Municipal para el Desarrollo Integral de la Familia;
+###### Artículo 96.
 
-Coordinación General de Asesores;
+Cuando la citación se haga por cédula, ésta deberá entregarse por personal del juzgado, tribunal o del Ministerio Público, donde quiera que se halle la persona a quien debe citarse, recabando en el duplicado su firma o su huella digital si no sabe firmar, si se niega a hacerlo, se asentará este hecho y el motivo que exprese tener para ello. También podrá enviarse la cédula por correo, en sobre cerrado y sellado con acuse de recibo.
 
-Coordinación de Comunicación Social;
+Si quien recibe la citación manifiesta que el interesado no se encuentra, se le preguntará dónde se halla y desde cuándo se ausentó, así como la fecha en que se espera su regreso, todo lo cual se hará constar para que quien libró la cita dicte las providencias que fueren procedentes.
 
-Contraloría Municipal;
+###### Artículo 97.
 
-Secretario Privado;
+La citación a los militares y servidores públicos se hará por conducto del superior jerárquico respectivo, a menos que el éxito de la tramitación requiera que no se haga así.
 
-Coordinación de Delegaciones;
+###### Artículo 98.
 
-Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
+Si se ignora la residencia de la persona que deba citarse, se encargará a la policía ministerial o a la policía preventiva, cuya colaboración será solicitada por medio de los mandos superiores de ésta, para que averigüen el domicilio y lo proporcionen. Si esta investigación no tuviere éxito y quien ordene la citación lo estima conveniente, podrá hacerse por un periódico de los de mayor circulación en el Estado o por cualquier otro medio que resulte conveniente.
 
-Secretaría de Finanzas Públicas;
+En su caso, al expediente se agregará un ejemplar del periódico con la parte que contiene la inserción, de modo que se identifique la fecha de publicación, la sección y la página en que aparece.
 
-Secretaría de Obras Públicas;
+El secretario o actuario del tribunal dará cuenta, por medio de informe en autos, de la entrega de las citas, precisamente antes de la hora señalada para la audiencia. De no hacerlo, será sancionado por el tribunal con multa de hasta sesenta días de salario, entendiéndose por éste el mínimo general diario vigente en la zona de que se trate, independientemente de las sanciones que correspondan conforme a la ley.
 
-Secretaría de Administración;
+###### Artículo 99.
 
-Secretaría de Desarrollo Social;
+Las audiencias serán públicas por regla general. Si el tribunal, por razones de orden moral o de afectación al orden público, dispone que sean privadas, se efectuarán en su despacho. En cualquier caso, concurrirán el Ministerio Público, el inculpado y su defensor.
 
-Secretaría de Desarrollo Urbano; y
+Cuando no concurra alguno de ellos, el tribunal diferirá la audiencia, sin perjuicio de imponer las correcciones disciplinarias y los medios de apremio que juzgue pertinentes.
 
-Secretaría de Servicios Públicos y Ecología.
+Si el ausente es el defensor del inculpado, el tribunal le designará en el acto a un defensor de oficio o a un representante legal con anuencia del inculpado, para que intervengan en la misma audiencia.
 
-I.- PRESIDENCIA MUNICIPAL
+Cuando el inculpado esté impedido para concurrir a la audiencia, se rehusare a asistir o fuere expulsado por alterar el orden, el tribunal dispondrá las medidas que considere adecuadas para garantizarle su derecho a estar informado del estado y avances que requiera su proceso, de modo que no se coarte su derecho a defenderse. Estas mismas medidas se adoptarán por lo que respecta al ofendido.
 
-Presidente Municipal:
+###### Artículo 100.
 
-Asistente del C. Presidente;
+En las audiencias el inculpado podrá defenderse por sí mismo o por medio de su defensor. El Ministerio Público intervendrá cuantas veces fuere necesario.
 
-Secretario Privado.
+El inculpado que tuviere varios defensores se hará escuchar sólo por uno de ellos, cada vez que corresponda intervenir a la defensa. Igual previsión se adoptará cuando intervengan varios agentes del Ministerio Público.
 
-Secretaría Particular:
+###### Artículo 101.
 
-Secretario Particular:
+Durante la audiencia el inculpado podrá comunicarse con su defensor, pero no con el público. Si infringe esta disposición se le impondrá una corrección disciplinaria.
 
-Departamento de Giras y Eventos;
+Si alguna persona del público trata de comunicarse o se comunica con el inculpado, será retirada de la audiencia y se le aplicará una corrección disciplinaria a criterio del juez.
 
-Departamento Administrativo; y
+###### Artículo 102.
 
-Subdirección de Relaciones Públicas.
+Antes de cerrarse el debate, quien presida la audiencia preguntará al inculpado si quiere hacer uso de la palabra y, en caso afirmativo, ésta le será concedida.
 
-Dirección de Atención Ciudadana:
+###### Artículo 103.
 
-Departamento de Control de Información y Seguimiento.
+En las audiencias la preservación del orden estará a cargo del servidor público que las presida.
 
-Banda Sinfónica Municipal.
+Si el inculpado altera el orden o insulta a cualquier persona que se halle en la audiencia, se le apercibirá en el sentido de que si insiste en su actitud, se tendrá por renunciado su derecho a estar presente. Si a pesar de ello continúa en su actitud, se le retirará del local y la audiencia proseguirá con su defensor; además, el juez o tribunal podrá imponerle la corrección disciplinaria que considere apropiada.
 
-COORDINACION GENERAL DE ASESORES
+Si es el defensor quien altera el orden, se le apercibirá para que desista de su actitud. Si insiste, se le expulsará del local y se le impondrá por el tribunal la corrección disciplinaria que se considere aplicable. En este caso, quien presida la audiencia designará inmediatamente un defensor de oficio al inculpado, sin perjuicio de que éste ejerza su derecho para designar persona de su confianza en el propio acto o para la secuela del proceso.
 
-Coordinador General:
+Si el agente del Ministerio Público comete alguna falta durante la audiencia, se le impondrá una medida de apremio; si reincide, el juez ordenará que abandone el local, haciéndolo del conocimiento del superior jerárquico, para que designe un substituto.
 
-Dirección de Asesoría Política.
+Si el ofendido o la víctima del delito o sus representantes legales alteran el orden, se les apercibirá para que depongan su actitud. Si reinciden se les expulsará del local y se les impondrá la corrección disciplinaria que disponga quien presida la audiencia.
 
-Dirección de Asesoría Institucional.
+Las personas del público que alteren el orden serán expulsadas de la sala con el auxilio de la fuerza pública si es necesario.
 
-Dirección de Información y Opinión Pública:
+###### Artículo 104.
 
-Subdirección de Estudios de Opinión Pública;
+Los acuerdos del Ministerio Público son: órdenes o requerimientos, si tienen por objeto desahogar una actividad relacionada con la investigación ministerial, y determinaciones, cuando resuelven una situación jurídica o disponen la conclusión de dicha indagatoria.
 
-Departamento de Integración y Valoración de Información Socioeconómica.
+###### Artículo 105.
 
-COMITE MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+Las resoluciones judiciales son sentencias, si terminan la instancia resolviendo el asunto en lo principal y en lo accesorio; y autos, en cualquier otro caso.
 
-Presidente del Sistema D.I.F. Municipal:
+Toda resolución deberá estar fundada y motivada, y se redactará en forma clara, precisa y congruente con la promoción o actuación procesal que la origine.
 
-Secretaría Particular; y
+Las sentencias contendrán:
 
-Coordinación Operativa General del Voluntariado.
+I. La fecha y el lugar;
 
-Dirección General:
+II. La designación del tribunal que las pronuncie;
 
-Departamento Jurídico;
+III. Los nombres y apellidos del acusado, su sobrenombre si lo tuviere, el lugar de nacimiento, la nacionalidad, en su caso la comunidad indígena a la que pertenezca, el idioma, la edad, el estado civil, la residencia, el domicilio y la ocupación, oficio o profesión;
 
-Departamento de Planeación, Información y Estadística; y
+IV. Un extracto de los hechos conducentes a la resolución;
 
-Departamento de Comunicación Social.
+V. Las consideraciones y fundamentos legales, y
 
-Dirección Administrativa:
+VI. La condena o absolución que proceda y los demás puntos resolutivos.
 
-Departamento de Administración y Finanzas.
+###### Artículo 106.
 
-Dirección de Programas Institucionales:
+Los autos contendrán una breve exposición del asunto de que se trate y la resolución que corresponda, precedida de sus fundamentos legales.
 
-Departamento de Servicios Médicos;
+###### Artículo 107.
 
-Departamento de Atención a Personas con Capacidades Especiales;
+Los autos que contengan resoluciones de mero trámite se dictarán dentro de las veinticuatro horas siguientes a partir de aquella en la cual se presentó la promoción. Los demás autos, salvo los que la ley disponga para casos especiales, dentro de tres días; las sentencias, dentro de quince días a partir del siguiente al de la conclusión de la audiencia; si el expediente excediere de quinientas fojas, a este término se aumentará un día por cada cincuenta de exceso.
 
-Departamento de Trabajo Social; y
+La violación de este precepto se podrá recurrir en reclamación.
 
-Departamento de Salud Mental.
+###### Artículo 108.
 
-Dirección de Desarrollo Familiar y Comunitario:
+Las resoluciones judiciales se dictarán por los jueces o magistrados y serán firmadas por ellos y el secretario correspondiente.
 
-Departamento de Atención a Personas de la Senectud.
+###### Artículo 109.
 
-COORDINACION DE COMUNICACION SOCIAL
+Para la validez de las sentencias y de los autos que no sean de mero trámite dictados por un órgano colegiado se requerirá, cuando menos, el voto favorable de la mayoría de los magistrados.
 
-Coordinador:
+###### Artículo 110.
 
-Departamento de Producción Gráfica;
+En los casos del artículo anterior, cuando alguno de los magistrados no estuviere conforme con la resolución de la mayoría, expresará por escrito, en voto particular, los motivos y fundamentos legales de su inconformidad, mismo que se agregará al expediente.
 
-Departamento de Videoproducción;
+###### Artículo 111.
 
-Departamento de Información; y
+Sin perjuicio de la aclaración de sentencia, los tribunales no podrán modificar ni variar sus sentencias después de firmadas.
 
-Departamento de Difusión Institucional.
+###### Artículo 112.
 
-COORDINACION DE DELEGACIONES
+Las resoluciones judiciales se tendrán por consentidas, cuando notificada la parte exprese su conformidad o deje pasar el término legal sin interponer el recurso procedente.
 
-Coordinador:
+###### Artículo 113.
 
-Departamento Administrativo;
+Las notificaciones se harán a más tardar el día siguiente a aquel en que se dicten las resoluciones que las motiven.
 
-Dirección de Promoción Urbana y Rural:
+###### Artículo 114.
 
-Subdirección de Organización Operativa:
+Las resoluciones contra las que proceda el recurso de apelación serán notificadas personalmente a las partes.
 
-Departamento de Desarrollo Urbano;
+Las demás resoluciones, con excepción de los autos que ordenen aprehensiones, cateos, providencias precautorias, aseguramientos y otras diligencias análogas respecto de las cuales el tribunal estime que debe guardarse sigilo para el éxito de la investigación, se notificarán al detenido o al procesado personalmente y a los demás en la forma señalada en este capítulo.
 
-Departamento de Programas Federales y Estatales;
+Todas las resoluciones serán notificadas personalmente al Ministerio Público.
 
-Departamento de Zona Conurbada Oriente;
+###### Artículo 115.
 
-Departamento de Zona Conurbada Poniente; y
+Las resoluciones que deban mantenerse en sigilo sólo se notificarán al Ministerio Público. En las demás no será necesaria la notificación personal al inculpado, si éste autorizó a algún defensor para que las reciba en su nombre.
 
-Departamento de Gestoría y Seguimiento.
+###### Artículo 116.
 
-Delegación Rural Cañada Honda;
+Cuando el inculpado tenga varios defensores designará a uno de ellos para que reciba las notificaciones que correspondan a la defensa, sin perjuicio de que sean notificados alguno o algunos de los demás, si así lo ha solicitado al tribunal.
 
-Delegación Rural Calvillito;
+Si no se hace esa designación, bastará notificar a cualquiera de los defensores.
 
-Delegación Rural Peñuelas; y
+###### Artículo 117.
 
-Delegación Rural Salto de los Salado.
+El servidor público a quien corresponda hacer las notificaciones que no sean personales fijará diariamente en la puerta del tribunal una lista de los asuntos acordados, mencionando únicamente el número del expediente y el nombre del inculpado, asentando constancia de este hecho en el expediente respectivo.
 
-Delegación Urbana José María Morelos y Pavón:
+Si alguno de los interesados desea que se le notifique personalmente, lo solicitará al tribunal al día siguiente en que se fije la lista. Si dentro de ese término no se presenta, la notificación se tendrá por hecha por la simple publicación de la lista.
 
-Departamento Administrativo;
+###### Artículo 118.
 
-Departamento de Servicios Públicos;
+Las personas que intervengan en un proceso designarán, en la primera diligencia en que intervengan o en la primera promoción que formulen, un domicilio para oír notificaciones y autorizarán a quien deba recibirlas en su nombre. Si no hacen tales designaciones, cambian domicilio sin dar aviso al tribunal o señalan alguno falso, la notificación se les hará por lista de acuerdos, aun cuando se haya decretado que fuere de carácter personal.
 
-Departamento de Desarrollo Urbano; y
+###### Artículo 119.
 
-Departamento de Desarrollo Social.
+Las notificaciones personales se harán en el tribunal o en el domicilio designado. Si no se halla al interesado en el domicilio, se le dejará con cualquiera de las personas mayores de edad que ahí residan una cédula en la que se expresen: el tribunal que ordena la diligencia, transcripción en lo conducente de la resolución que se le notifica, día y hora en que se hace dicha notificación y persona en poder de la que se deja, expresando además el motivo por el cual no se hizo en persona al interesado.
 
-Delegación Urbana Lic. Jesús Terán Peredo:
+Si el que deba ser notificado se niega a recibir al encargado de hacer la notificación, o las personas que residen y se hallan en el domicilio se rehusan a recibir la cédula, o no se halla a nadie en el lugar, la cédula se fijará en la puerta de entrada.
 
-Departamento Administrativo;
+###### Artículo 120.
 
-Departamento de Servicios Públicos;
+Si se probare que no se hizo una notificación decretada o que se hizo en contravención de lo dispuesto en este capítulo, el encargado de hacerla será responsable de los daños y perjuicios que ocasione la falta y se le juzgará con arreglo a la ley si actuó con dolo, o se le impondrá una corrección disciplinaria en caso contrario.
 
-Departamento de Desarrollo Urbano; y
+###### Artículo 121.
 
-Departamento de Desarrollo Social.
+Si a pesar de no haberse hecho la notificación en la forma prevenida, la persona que deba ser notificada se muestra sabedora de la providencia, se tendrá por bien hecha aquélla, sin perjuicio de la aplicación de la sanción correspondiente al infractor.
 
-Delegación Urbana Insurgentes:
+Las notificaciones hechas contra lo dispuesto en este capítulo serán nulas, excepto en el caso del párrafo anterior.
 
-Departamento Administrativo;
+Las disposiciones de este capítulo serán aplicables, en lo conducente, a la investigación ministerial.
 
-Departamento de Servicios Públicos;
+###### Artículo 122.
 
-Departamento de Desarrollo Urbano; y
+El Ministerio Público está obligado a iniciar la investigación ministerial cuando se le presente denuncia, querella o por cualquier otro medio conozca de actos que puedan ser constitutivos de uno o más delitos y se hallen satisfechos los requisitos que, en su caso, exija la ley.
 
-Departamento de Desarrollo Social.
+No está obligado el Ministerio Público a proceder de oficio cuando:
 
-Comisarías Municipales.
+I. Se trate de delitos en los que solamente se pueda proceder por querella, si ésta no se ha presentado; o
 
-CONTRALORIA MUNICIPAL
+II. La ley exija algún requisito previo y no esté satisfecho.
 
-Contralor Municipal:
+Si el que inicia una investigación no tiene a su cargo la función de proseguirla, dará inmediatamente cuenta a quien legalmente corresponda practicarla.
 
-Dirección Jurídica.
+La persona que tenga conocimiento de la comisión de un delito perseguible de oficio está obligada a denunciarlo ante el Ministerio Público y, en caso de urgencia, ante cualquier otra autoridad.
 
-Dirección de Auditoría Financiera y Administrativa:
+Si corresponde a una autoridad cumplir esos requisitos o formular la petición para que inicie la indagatoria, el Ministerio Público pedirá a aquélla por escrito le haga saber su determinación al respecto. La autoridad deberá contestar también mediante escrito, mismo que se agregará al expediente.
 
-Subdirección de Auditoría Financiera y Administrativa:
+###### Artículo 123.
 
-Departamento de Auditoría a Información Contable; y
+El Ministerio Público deberá recibir las denuncias, querellas o requerimientos de autoridad, como requisito indispensable para la integración de la investigación ministerial.
 
-Departamento de Auditoría Presupuestal.
+###### Artículo 124.
 
-Dirección de Auditoría Operacional y de Gestión:
+Las denuncias y las querellas deben formularse verbalmente o por escrito y se contraerán a describir los hechos supuestamente delictivos, sin calificarlos jurídicamente, en los términos previstos para el ejercicio del derecho de petición.
 
-Departamento de Revisión a Procesos de Control.
+Asimismo, el Ministerio Público informará al denunciante o querellante acerca de la trascendencia jurídica del acto que realiza, sobre las penas en que incurre quien se produce falsamente ante las autoridades y sobre las modalidades del procedimiento, según se trate de delito perseguible de oficio o por querella.
 
-Dirección de Auditoría de Obra Pública:
+En el caso de que la denuncia o la querella se presenten verbalmente, se harán constar en acta que levantará el servidor público que las reciba. Tanto en este caso como cuando se hagan por escrito, deberán contener la firma o huella digital del que las presente y su domicilio.
 
-Subdirección de Supervisión y Verificación de Obra Pública:
+###### Artículo 125.
 
-Departamento de Auditoría a Obras Públicas; y
+Cuando un servidor público, en el ejercicio de sus funciones, tenga conocimiento de la comisión de un delito perseguible de oficio, lo denunciará inmediatamente. Si se trata de un ilícito cuya persecución dependa de instancia que formule alguna autoridad, lo hará por escrito del conocimiento de su superior jerárquico.
 
-Departamento de Auditoría a Servicios Públicos.
+###### Artículo 126.
 
-II.- SECRETARIA DEL H. AYUNTAMIENTO Y DIRECCION GENERAL DE GOBIERNO:
+Los mayores de dieciséis años podrán querellarse por sí mismos. Cuando se trate de un menor de esta edad o de un incapaz, su formulación corresponderá a quien ejerza la patria potestad o la tutela. A falta de éste o cuando se considere que la abstención de los representantes del menor o del incapaz obedece a motivos ilegítimos o que existe conflicto entre éstos y aquéllos, el agente del Ministerio Público acordará lo procedente.
 
-Secretario del H. Ayuntamiento y Director General de Gobierno:
+###### Artículo 127.
 
-Secretaría Particular:
+Las denuncias y las querellas se formularán por escrito o verbalmente ante el Ministerio Público bajo protesta de decir verdad, las segundas serán ratificadas por quien las presenta, pero en ambos casos, bajo la firma o huella se hará constar el nombre completo del interesado. El servidor público que conozca de ellas se asegurará de la identidad y legitimación del denunciante o querellante, así como de la autenticidad de los documentos en que se apoyen.
 
-Departamento de Junta Municipal de Reclutamiento; y
+En todo caso, el servidor público que las reciba requerirá al denunciante o querellante para que se produzcan bajo protesta de decir verdad, con el apercibimiento que previene la ley y, en su caso, les formulará las preguntas que estime conducentes.
 
-Departamento Administrativo.
+###### Artículo 128.
 
-Dirección General de Seguridad Pública y Tránsito Municipal:
+Cuando alguna persona haga publicar la denuncia o la querella, estará obligada a publicar el acuerdo con el que concluya la investigación ministerial si así lo solicita el indiciado, sin perjuicio de la responsabilidad en que hubiere incurrido aquélla.
 
-Secretaría Particular;
+###### Artículo 129.
 
-Departamento de Prensa;
+No se admitirá la intervención de apoderado jurídico para la presentación de denuncias, salvo los casos a que se refiere este artículo.
 
-Departamento de Asuntos Internos y Denuncias; y
+Tratándose de delitos perseguibles por querella, ésta puede ser formulada por la víctima, el ofendido, su representante legal o por su mandatario con instrucciones específicas para hacerlo. Tratándose de una persona moral, se estará a lo dispuesto en sus estatutos internos respecto a la persona facultada para formular y ratificar la denuncia o la querella.
 
-Departamento de Asuntos Jurídicos.
+###### Artículo 130.
 
-Subdirección de Estado Mayor:
+Cuando en un juicio se arguya de falso un documento o el tribunal tenga duda fundada sobre su autenticidad, dará vista al Ministerio Público adscrito y, si éste lo solicita, se desglosará de los autos, dejando en ellos copias debidamente certificadas. El original del documento que se entrega, más las constancias conducentes, deberán ser firmadas en su caso por el juez o magistrado y el secretario.
 
-Departamento de Prevención del Delito;
+###### Artículo 131.
 
-Departamento de Estadística e Informática;
+En los casos del artículo anterior se requerirá a quien haya presentado el documento para que diga si insiste en que se tome en consideración o no; si contestare afirmativamente pero a juicio del tribunal la falsedad sea de tal naturaleza que si llegare a dictarse sentencia influiría substancialmente en ella, éste ordenará, a petición del Ministerio Público, que suspenda el procedimiento civil a partir de la citación para sentencia, hasta que se pronuncie resolución definitiva. Si no se insistiere en que se tome en consideración el documento, no se suspenderá dicho procedimiento, sin perjuicio de que las investigaciones sobre la falsedad denunciada se continúen.
 
-Departamento de Atención a Módulos de Seguridad Pública;
+Lo dispuesto en este artículo se aplicará también, en lo conducente, cuando se señale de falso a un testigo.
 
-Departamento de Logística;
+###### Artículo 132.
 
-Departamento de Inteligencia; y
+Iniciada la investigación ministerial, ésta tenderá a probar el cuerpo del delito en el caso que se indaga, las circunstancias en que fue cometido, la identidad y responsabilidad de quienes participaron en él, así como a salvaguardar los legítimos intereses de la víctima u ofendido, asegurar las personas y cosas relacionadas con los hechos, precisar los daños y perjuicios causados y cuanto más sea conducente a desarrollarla conforme a su naturaleza y finalidades.
 
-Departamento de Servicios Médicos.
+El Ministerio Público tomará o solicitará inmediatamente las medidas precautorias que estime procedentes, en relación con las personas o con los bienes relacionados con la investigación.
 
-Dirección Administrativa:
+A través de los elementos de convicción que obren en la investigación ministerial, se determinará, en su caso, la procedencia del ejercicio de la acción penal.
 
-Departamento de Recursos Humanos;
+> <small>(ADICIONADO, G.O. 11 DE FEBRERO DE 2004)</small>
 
-Departamento de Capacitación;
+En el caso del secuestro previsto en la fracción I del artículo 163 del Código Penal para el Estado, el Ministerio Público podrá, inmediatamente que tenga conocimiento de su comisión, solicitar la autorización judicial para el aseguramiento de los bienes de la víctima, mientras ésta permanezca privada de su libertad. De concederse la autorización, el juez lo comunicará a las oficinas del Registro Público de la Propiedad e instituciones y empresas bancarias y de seguros, para que no permitan movimientos en las cuentas y registros sin su autorización, ordenando las medidas provisionales necesarias para su conservación, resguardo o liberación.
 
-Departamento de Evaluación del Desempeño; y
+###### Artículo 133.
 
-Departamento de Recursos Materiales y Financieros.
+Cuando el medio de comisión de un delito sea un vehículo de motor, no será devuelto a su propietario aunque resulte ser un tercero, hasta que ante el Ministerio Público se haya comprobado fehacientemente que:
 
-Coordinación de Protección Civil:
+I. No se trata un vehículo robado o introducido ilegalmente al país;
 
-Unidad de Protección Civil;
+II. Su adquisición ha sido lícita, lo que se probará con la factura correspondiente o cualquier otro documento de adjudicación, on (sic) valor legal;
 
-Departamento de Bomberos; y
+III. Definitivamente, no es de ejercitarse la acción penal;
 
-Departamento de Emergencia 080.
+IV. El daño causado ha sido reparado a satisfacción del ofendido o de la víctima; o
 
-Dirección de Policía Preventiva:
+V. Se ha garantizado la reparación del daño en los términos procedentes.
 
-Jefatura Operativa de la Delegación Jesús Terán;
+###### Artículo 134.
 
-Jefatura Operativa de la Delegación Morelos;
+Antes de practicar cualquiera otra diligencia, se le hará saber al indiciado los hechos que se le atribuyen, la persona que se los imputa, el derecho que tiene de comunicarse con quien desee hacerlo, facilitándole los medios para ello. Le serán comunicadas y explicadas las garantías que en todo proceso del orden penal tiene el inculpado, conforme a la Constitución Política de los Estados Unidos Mexicanos.
 
-Jefatura Operativa de la Delegación Insurgentes;
+Si no se lleva a cabo la notificación de estos derechos y garantías, haciéndolo constar de manera indubitable, o si se impide su ejercicio, serán nulas las actuaciones que se lleven a cabo y el o los servidores públicos a cuyo cargo han corrido incurrirán en responsabilidad penal.
 
-Jefatura Operativa de la Delegación Area Centro;
+Si el inculpado no designa defensor o éste no se halla presente y no puede ser habido de inmediato, el Ministerio Público le nombrará uno, que entrará desde luego al desempeño de su función, de tal modo que el inculpado cuente con defensa desde su participación en la primera diligencia.
 
-Jefatura Operativa de las Delegaciones Suburbanas;
+Serán aplicables al defensor o persona de su confianza durante la investigación ministerial, en lo procedente, las reglas que rigen su actuación durante el proceso.
 
-Jefatura Operativa de Policía Comercial, Bancaria y Residencial; y
+###### Artículo 135.
 
-Departamento de Operativos Especiales de Policía Preventiva.
+Sin perjuicio de lo previsto en este capítulo, si el delito sobre el que versa la investigación ministerial es de los perseguibles por querella, el Agente del Ministerio Público Investigador, una vez recibida y ratificada la petición del querellante, procederá de la manera siguiente:
 
-Dirección de Tránsito:
+I. Informará al quejoso que la ley previene un procedimiento de mediación, cuyo objeto es proponer y analizar opciones para que el agraviado e indiciado lleguen a un acuerdo mediante el cual se respeten los derechos de ambos, sin necesidad de abrir un proceso para decidir el conflicto entre ellos;
 
-Subdirección Técnica de Tránsito:
+II. Si el querellante expresa su anuencia para que la mediación tenga lugar, tal circunstancia se hará constar en acta expresa y el Agente del Ministerio Público Investigador remitirá las actuaciones al Agente del Ministerio Público Conciliador del Distrito Judicial correspondiente; de no haberlo, el Investigador substanciará el procedimiento;
 
-Departamento de Ingeniería de Tránsito; y
+III. El agente del Ministerio Público citará al agraviado y al indiciado, a una diligencia de mediación a celebrarse dentro de un término máximo de cinco días;
 
-Departamento de Sistema Computarizado de Semaforización.
+IV. El día de la diligencia, el agente del Ministerio Público le hará saber al indiciado los hechos que se le imputan, dando lectura a la querella y a las pruebas que la sustenten, para que exprese lo que a su derecho convenga;
 
-Jefatura Operativa;
+V. La única formalidad en el procedimiento de mediación será el levantamiento del acta circunstanciada de la diligencia por parte del agente del Ministerio Público que la presida, ante la fe del secretario con el que actuará necesariamente. El acta contendrá: Fecha, hora, un extracto de la querella, los datos necesarios para la identificación del agraviado y del inculpado, los medios de identificación que fueron utilizados, así como el resultado de la diligencia. Los comparecientes, el agente y su secretario firmarán al margen de cada hoja y al calce de la última. El que no sepa firmar estampará la huella de su dedo pulgar. Si los interesados solicitan copia certificada de la diligencia de mediación, les será expedida;
 
-Departamento de Peritajes; y
+VI. Se considerará que la audiencia de mediación no cumplió su objeto cuando alguna de las partes, a pesar de estar legalmente notificada, no asiste a la audiencia. Si la que asistió pide que se libre un segundo citatorio, se acordará de conformidad y se mandará librarlo, con apercibimiento que de no comparecer, el trámite de mediación queda concluido y se continuará con el correspondiente a la investigación ministerial. Si en la audiencia no se llega a ningún acuerdo, concluida la diligencia y firmada el acta respectiva, se continuará el trámite ordinario de la investigación por el agente del Ministerio Público de origen; y
 
-Departamento de Transporte Público y Control de Infracciones.
+VII. Si el inculpado reconoce de su libre y espontánea voluntad los hechos que se le imputan y cubre o garantiza la reparación del daño y el ofendido acepta los términos propuestos, se formulará el convenio respectivo del que se dará una copia a cada uno. El incumplimiento de lo pactado dará lugar a que se deje sin efecto el convenio de mediación y el agraviado podrá solicitar la tramitación consecuente de la investigación ministerial. El cumplimiento tendrá como efecto el archivo definitivo de la querella.
 
-Dirección de Asuntos Jurídicos:
+Si el ofendido o el indiciado pertenecen a una comunidad indígena se les proveerá de un intérprete para el desahogo de la diligencia de mediación.
 
-Departamento de Jueces Calificadores.
+El procedimiento de mediación se considerará cumplido y, por ende, satisfechos los compromisos pactados, cuando transcurridos sesenta días naturales, contados a partir de la fecha establecida para el cumplimiento de las prestaciones convenidas, el ofendido no manifieste expresamente lo contrario. Esta circunstancia se hará constar invariablemente en el convenio.
 
-Subdirección Jurídica y Legislativa.
+###### Artículo 136.
 
-Subdirección de Asuntos de Cabildo.
+En la audiencia, el agente del Ministerio Público podrá auxiliarse de alguna persona que, por su autoridad moral y ascendencia amistosa sobre el inculpado y el ofendido, pueda facilitar el avenimiento. Si se trata de individuos pertenecientes a una comunidad indígena, se tomarán en cuenta los usos y costumbres de la misma para requerir la intervención del conciliador.
 
-Subdirección de lo Contencioso:
+###### Artículo 137.
 
-Departamento de Asesoría Jurídica y Defensoría de Oficio.
+El Ministerio Público dispondrá que se preste al ofendido o víctima del delito y al inculpado la atención médica que requieran con urgencia con motivo de la comisión del delito.
 
-Dirección de Control Reglamentario:
+## TÍTULO SEGUNDO. INVESTIGACIÓN MINISTERIAL
 
-Subdirección de Reglamentación:
+### CAPÍTULO III. CONSIGNACIÓN ANTE LOS TRIBUNALES
 
-Departamento de Licencias.
+###### Artículo 138.
 
-Subdirección de Control y Supervisión:
+Cuando el inculpado o el ofendido sean internados en un establecimiento de salud, su encargado lo comunicará de inmediato al Ministerio Público o al juez en su caso, informando acerca de la naturaleza del padecimiento sufrido por aquéllos y de la evolución de su tratamiento. No permitirá su egreso, sin orden por escrito de la autoridad competente.
 
-Departamento de Inspección.
+###### Artículo 139.
 
-III.- SECRETARIA DE FINANZAS PUBLICAS
+Queda prohibido detener o retener a cualquier persona sin orden de aprehensión librada por autoridad judicial competente, excepto cuando se trate de delito flagrante o de casos urgentes y no haya en el lugar alguna autoridad judicial, siempre que se trate de delitos perseguibles de oficio. Sólo el Ministerio Público puede determinar qué personas quedarán en calidad de detenidas o retenidas, sin perjuicio de las facultades que correspondan al juez o tribunal de la causa. La violación de esta disposición hará responsable penalmente al Ministerio Público o servidor público de policía que decrete la detención. La persona detenida en contravención a lo previsto en este artículo será puesta en libertad inmediatamente.
 
-Secretario:
+La autoridad competente estará obligada a atender las peticiones del Ministerio Público sobre los antecedentes penales del indiciado y a entregarle sin dilación las constancias que lo certifiquen. Si se formulare solicitud a la autoridad judicial respecto de datos o constancias que obren en los procesos, estará obligada en iguales términos a obsequiar la petición. Toda autoridad estará obligada a proporcionar la información que le solicite el Ministerio Público, la que rendirá de la manera más oportuna posible, cuando invoque en su petición que la requiere para los efectos del párrafo primero de la fracción I, del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Subdirección de Auditoría Interna.
+###### Artículo 140.
 
-Subdirección Jurídica:
+En el caso del artículo anterior, se procederá a levantar el acta correspondiente, la que contendrá hora, fecha y modo en que se tuvo conocimiento de los hechos; el nombre y carácter de la persona que dio noticia de ellos y su declaración, así como las de los testigos y la del inculpado si se hallare presente, incluyendo la comunidad indígena a la que pertenece si es el caso; la descripción de lo que haya sido objeto de inspección ocular; los nombres y domicilios de los testigos que no se hayan podido examinar; el resultado de la observación de las particularidades que se hayan notado, a raíz de ocurridos los hechos, en las personas que en ellos intervengan y las medidas y providencias que se tomaron para la investigación de lo ocurrido, así como los demás datos y circunstancias que se considere necesario hacer constar.
 
-Departamento de Ejecución, Apremios e Inspección Fiscal.
+###### Artículo 141.
 
-Dirección de Ingresos:
+El Ministerio Público que inicie una investigación podrá citar para que declaren sobre los hechos a las personas que por cualquier concepto participen en ellos o aparezca que tengan datos sobre los mismos. En el acta se hará constar quién mencionó a las personas que habrán de citarse o por qué motivo el Ministerio Público que interviene en el caso lo consideró conveniente.
 
-Departamento de Control de Impuestos a la Propiedad Raíz y de Adquisición de Inmuebles;
+Toda persona que deba rendir declaración tendrá derecho a hacerlo asistida por un abogado que ella nombre a su costa, a excepción de los testigos y de los peritos.
 
-Departamento de Padrón de Usuarios;
+###### Artículo 142.
 
-Departamento de Control Fiscal;
+Cuando con motivo de una investigación el Ministerio Público estime necesario el arraigo de una persona, mediante acuerdo debidamente motivado y fundado, tomando en cuenta la necesidad del mismo para los fines de la indagatoria, así como las condiciones personales de aquélla, lo solicitará al juez correspondiente, con vigilancia del Ministerio Público o de la Policía Ministerial. El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la investigación de que se trata. El tiempo del arraigo será hasta de treinta días prorrogables por igual término, a petición del Ministerio Público. El juez resolverá, previa audiencia con aquél y el arraigado, sobre la subsistencia o el levantamiento de tal medida.
 
-Departamento de Obras por Cooperación;
+Cuando en la investigación ministerial o en el proceso deban declarar testigos que conozcan de los hechos probablemente delictivos y hubiere la necesidad o el temor fundado de que se ausenten antes de que pudiesen declarar, podrá decretarse su arraigo sólo por el tiempo indispensable para la práctica de las diligencias respectivas.
 
-Departamento de Recaudación; y
+Las personas sujetas a la medida cautelar de arraigo podrán desempeñar sus actividades normales, sin dejar de asistir diariamente a su domicilio, para lo cual, el Ministerio Público o el juez dispondrán, si fuere necesario, de la vigilancia por parte de la Policía Ministerial o Preventiva. En todo caso, el juez que decrete la medida le fijará un domicilio.
 
-Departamento de Control Vehicular e Infracciones.
+###### Artículo 143.
 
-Dirección de Egresos, Programación y Presupuestos:
+Cuando en la etapa de investigación ministerial, el Procurador General de Justicia, a petición del agente del Ministerio Público correspondiente, considere necesaria la intervención de comunicaciones privadas, lo solicitará al Juez de Distrito competente, expresándole:
 
-Departamento de Planeación y Control Presupuestal;
+I. Objeto y necesidad de la intervención;
 
-Departamento de Pagos; y
+II. Los hechos, circunstancias y demás elementos que se pretendan probar;
 
-Departamento de Control y Evaluación.
+III. Los indicios que hagan presumir fundadamente que la persona cuya comunicación privada se pretende intervenir está vinculada con el delito o delitos que se investigan;
 
-Subdirección de Programación y Presupuesto:
+IV. El tipo de comunicación privada que se considera conveniente intervenir;
 
-Departamento de Programación y Control Financiero de la Obra Pública; y
+V. La ubicación del lugar o la identificación del medio en que habrá de llevarse a cabo la intervención; y
 
-Departamento de Control Presupuestal de los Egresos de la Obra Pública.
+VI. Duración de la intervención.
 
-Dirección de Control e Información Financiera:
+Podrán ser objeto de intervención las comunicaciones privadas que se realicen en forma oral, escrita, por signos, señales o mediante el empleo de aparatos eléctricos, mecánicos, alámbricos e inalámbricos, sistemas o equipos informáticos, así como cualquier otro medio o forma que permita la comunicación entre uno o varios emisores y uno o varios receptores.
 
-Departamento de Contabilidad; y
+###### Artículo 144.
 
-Departamento de Cuenta de la Hacienda Pública.
+Cuando una autoridad distinta del Ministerio Público practique las diligencias de investigación, remitirá a éste, dentro de tres días de haberlas iniciado, el acta o actas levantadas y todo lo que con ellas se relacione. Si hubiere detenido, la remisión se hará dentro de las veinticuatro horas siguientes a la detención.
 
-Subdirección de Proyectos Especiales.
+###### Artículo 145.
 
-IV.- SECRETARIA DE OBRAS PUBLICAS:
+El Ministerio Público determinará qué persona o personas quedarán retenidas y realizará, cuando así proceda, la consignación ante el juez competente dentro del término de cuarenta y ocho horas, contado a partir de que hayan sido puestas a su disposición. Cuando se trate de delincuencia organizada, dicho término podrá duplicarse. El Ministerio Público, bajo su absoluta responsabilidad, dentro de las cuarenta y ocho horas dictará acuerdo fundado y motivado autorizando la duplicación del término. En ningún caso se retendrá a los probables responsables de delitos perseguibles por querella.
 
-Secretario:
+###### Artículo 146.
 
-Asesor de Calidad;
+A las actuaciones de investigación ministerial sólo podrán tener acceso el inculpado, su defensor, el ofendido o víctima del delito y su representante legal. El Ministerio Público vigilará que este derecho no se coarte.
 
-Departamento de Atención Ciudadana.
+###### Artículo 147.
 
-Subdirección Jurídica.
+Durante el período de investigación, el personal de las agencias del Ministerio Público y de la Policía Ministerial, en ningún caso, mantendrá incomunicados a los detenidos. La violación de esta norma es causa de responsabilidad penal para quien la infrinja.
 
-Dirección de Proyectos:
+###### Artículo 148.
 
-Departamento de Proyectos; y
+Cuando el inculpado sea detenido o se presentare voluntariamente, se procederá de inmediato en la forma siguiente:
 
-Departamento de Expedientes Técnicos y Costos.
+I. Se hará constar el día, hora y lugar de su detención, en su caso, así como el nombre y cargo de quienes la practicaron;
 
-Dirección de Construcción y Conservación de Obras Públicas:
+II. Se le hará saber el nombre del denunciante, así como el derecho de comunicarse con quien crea conveniente, facilitándole el teléfono o cualquier otro medio idóneo para hacerlo. Igualmente se le harán saber sus derechos, garantizados por la Constitución Política de los Estados Unidos Mexicanos;
 
-Departamento de Construcción;
+III. Cuando el detenido fuere un indígena que no hable el idioma español, se le designará sin demora un traductor, quien le hará saber los derechos a que se refiere la fracción anterior. Si se tratare de un extranjero, la detención se comunicará de inmediato a la representación diplomática correspondiente;
 
-Departamento de Parque de Maquinaria; y
+IV. El Ministerio Público recibirá las pruebas que el detenido o su defensor aporten dentro de la investigación ministerial; y
 
-Departamento de Conservación y Mantenimiento.
+V. Se mantendrán separados a los hombres y a las mujeres en los lugares de detención.
 
-Dirección de Supervisión, Licitación y Control de Calidad:
+Cuando se determine la internación de alguna persona en un hospital u otro establecimiento similar, deberá indicarse el carácter con el que ingrese, comunicándolo a los encargados del establecimiento respectivo; si no se hiciere esa indicación, se entenderá que sólo ingresa para su curación.
 
-Departamento de Supervisión;
+###### Artículo 149.
 
-Departamento de Control de Calidad; y
+El Ministerio Público dictará las órdenes para la necrocirugía e inhumación del cadáver y el levantamiento de las actas de defunción respectivas, cuando se presuma que la muerte fue originada por algún delito.
 
-Departamento de Licitación y Contratos.
+Si de las mismas diligencias apareciere claramente que la muerte no tuvo por origen un delito y que, por lo mismo, no procediere ejercitar la acción penal, las órdenes para el levantamiento del acta de defunción, para la inhumación del cadáver y para la dispensa de la necrocirugía a solicitud de parte legítima, se darán por el Ministerio Público.
 
-Subdirección Administrativa:
+###### Artículo 150.
 
-Departamento de Administración y Finanzas; y
+Cuando de las diligencias practicadas no aparezcan los datos indispensables conforme a la ley para el ejercicio de la acción penal, pero exista la posibilidad de practicar otras posteriormente para agotar la investigación, se dejará en estado de reserva el expediente.
 
-Departamento de Compras y Almacén.
+Cuando en vista de la investigación ministerial se determine que no es de ejercitarse la acción penal por los hechos que se hubieren denunciado como delitos, o por los que se hubiere presentado querella, se ordenará su archivo.
 
-V.- SECRETARIA DE ADMINISTRACION
+No podrá consignarse a ninguna persona si existe como única prueba la confesión. La Policía Ministerial podrá rendir informes pero no obtener confesiones, si lo hace, éstas carecerán de valor probatorio.
 
-Secretario:
+###### Artículo 151.
 
-Subdirección Jurídica.
+En cuanto aparezca de la investigación ministerial que se han acreditado los elementos de integración del cuerpo del delito y la probable responsabilidad del indiciado, el Ministerio Público ejercitará la acción penal ante los tribunales, quienes para el libramiento de la orden de aprehensión se ajustarán a lo previsto en el párrafo segundo del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Dirección General de Modernización Tecnológica:
+Si el ejercicio de la acción penal es con detenido, el tribunal que reciba la consignación la radicará de inmediato, quedando el inculpado a su disposición para los efectos constitucionales. Desde la internación, el Ministerio Público dejará constancia de que el detenido quedó a disposición de la autoridad judicial y entregará copia al encargado del reclusorio o del centro de salud, quien asentará día y hora de su recepción.
 
-Subdirección de Simplificación y Mejora Regulatoria.
+El juez que reciba la consignación con detenido procederá de inmediato a determinar si la detención fue o no apegada a la Constitución Política de los Estados Unidos Mexicanos. En el primer caso, la ratificará y, en el segundo, decretará la libertad de aquél con las reservas de ley.
 
-Departamento de Tecnologías Web.
+No será necesario que estén reunidos tales requisitos, cuando el delito no merezca pena corporal.
 
-Dirección de Sistemas de Información:
+###### Artículo 152.
 
-Departamento de Desarrollo de Sistemas;
+El Ministerio Público hará la consignación ante la autoridad judicial, siempre que de la investigación ministerial resulte necesaria la práctica de un cateo o la recepción de una prueba fuera del Estado.
 
-Departamento de Mantenimiento de Sistemas; y
+###### Artículo 153.
 
-Departamento de Geosistemas y Estadística.
+Cuando el Ministerio Público reciba diligencias practicadas por otra autoridad, si hubiere detenidos y la detención fuere justificada, hará inmediatamente la consignación al juez. Si fuere injustificada, ordenará que los detenidos queden en libertad.
 
-Dirección de Soporte Técnico:
+Cuando el delito merezca pena que no sea la de prisión, se dispondrá la libertad sin necesidad de caución, sin perjuicio de solicitar el arraigo correspondiente.
 
-Departamento de Telecomunicaciones.
+###### Artículo 154.
 
-Dirección General de Recursos Humanos:
+Corresponde al Ministerio Público, en ejercicio de la acción penal:
 
-Coordinación Médica.
+I. Promover la incoación del proceso penal y, de ser procedente, la negativa de la libertad provisional;
 
-Subdirección de Remuneración al Personal.
+II. Solicitar las órdenes de comparecencia para la declaración preparatoria y las de aprehensión que sean procedentes;
 
-Departamento de Desarrollo de Personal;
+III. Pedir el aseguramiento precautorio de bienes para efectos de la reparación del daño;
 
-Departamento de Relaciones Laborales;
+IV. Presentar las pruebas que acrediten el cuerpo del delito y la probable responsabilidad del inculpado;
 
-Departamento de Seguridad e Higiene;
+V. Pedir la aplicación de las sanciones respectivas; y
 
-Departamento de Integración; y
+VI. En general, realizar todas las promociones que sean conducentes a la tramitación regular del proceso.
 
-Departamento de Evaluación y Reclutamiento de Personal.
+###### Artículo 155.
 
-Dirección de Recursos Materiales:
+El Ministerio Público no ejercerá la acción penal cuando:
 
-Subdirección de Adquisiciones;
+I. Los hechos de que conozca no sean constitutivos de delito;
 
-Departamento de Control y Evaluación;
+II. Aun pudiendo serlo, resulte imposible la prueba de la existencia de los hechos;
 
-Departamento de Archivo General Municipal;
+III. Esté extinguida legalmente; o
 
-Departamento de Control Patrimonial;
+IV. Esté probado plenamente que el inculpado actuó en circunstancias que excluyen el delito.
 
-Departamento de Taller Gráfico;
+###### Artículo 156.
 
-Departamento de Control de Servicios; y
+El Ministerio Público sólo podrá desistirse de la acción penal cuando:
 
-Departamento de Licitaciones y Concursos.
+I. Apareciere plenamente comprobado en autos que se está en alguno de los casos señalados en el artículo anterior; o
 
-Dirección de Servicios Generales:
+II. En el proceso y antes de que formule conclusiones, aparezca plenamente comprobado en autos que el inculpado no participó en el delito que se persigue.
 
-Departamento de Mantenimiento;
+###### Artículo 157.
 
-Departamento de Intendencia; y
+Para que el desistimiento de la acción penal produzca sus efectos, será formulado expresamente y de acuerdo con los requisitos fijados en este Código y en la Ley Orgánica del Ministerio Público, según proceda.
 
-Departamento de Mantenimiento y Reparación de Vehículos.
+###### Artículo 158.
 
-VI.- SECRETARIA DE DESARROLLO SOCIAL
+Cuando no hubiere detenido, el Ministerio Público agotará la investigación en un término no mayor de ciento ochenta días hábiles; practicará todas las diligencias pertinentes y resolverá sobre la determinación de aquélla, con expresión precisa de las causas de no ejercicio de la acción penal, en su caso.
 
-Secretario:
+###### Artículo 159.
 
-Dirección Administrativa.
+El tribunal ante el cual se ejercite la acción penal practicará todas las diligencias procedentes.
 
-Departamento de Atención a la Juventud.
+###### Artículo 160.
 
-Dirección de Educación, Cultura y Deporte:
+El juez remitirá la orden de aprehensión al agente del Ministerio Público que intervenga en el proceso y al Procurador General de Justicia, para que sea ejecutada.
 
-Subdirección de Cultura;
+###### Artículo 161.
 
-Departamento de Tutoría; y
+Durante la instrucción, el tribunal que conozca del proceso observará, de acuerdo con lo establecido en el Código Penal, las circunstancias peculiares del delincuente, allegándose datos para conocer su edad, educación e ilustración; sus costumbres y conducta anteriores; los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito; la pertenencia en su caso a una comunidad indígena, sus prácticas y características que como miembro de ella pueda tener; los demás antecedentes personales que puedan comprobarse; la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión que demuestren su mayor o menor grado de temibilidad.
 
-Departamento de Educación.
+El tribunal tomará conocimiento directo del sujeto, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso, con amplias facultades para allegarse los datos a que se refiere este artículo y actuará de oficio para ese objeto.
 
-Subdirección de Deporte:
+Cuando el inculpado pertenezca a una comunidad indígena, el juez se allegará dictámenes periciales, a fin de que profundice en el conocimiento de su personalidad y capte su diferencia cultural respecto de la media nacional.
 
-Departamento de Deporte Comunitario.
+###### Artículo 162.
 
-Academia Taurina.
+La instrucción terminará en el menor tiempo posible. Cuando el delito tenga señalada una sanción máxima que exceda de dos años de prisión, se concluirá dentro de seis meses; si la sanción máxima es de dos años de prisión o la aplicable no es privativa de libertad, la instrucción deberá terminarse en sesenta días.
 
-Dirección de Promoción y Concertación Social:
+Los términos a que se refiere este artículo se contarán a partir de la fecha del auto de formal prisión o de sujeción a proceso y podrán ampliarse por el juez hasta por dos meses más cuando el acusado lo solicite por considerarlo necesario a su defensa.
 
-Subdirección de Promoción.
+###### Artículo 163.
 
-Comunitaria:
+Cuando el tribunal considere agotada la instrucción, pondrá el proceso a la vista del Ministerio Público por tres días y por otros tres a la del procesado y su defensor para que, en su caso, promuevan las pruebas que estimen pertinentes y que puedan practicarse dentro de los quince días siguientes al en que se notifique el auto que recaiga a la solicitud de la prueba.
 
-Departamento de Seguimiento;
+Transcurridos o renunciados los términos a que se refiere este artículo, o si no se hubiere promovido prueba, el tribunal, de oficio, cerrará la instrucción, enviando copia del auto correspondiente al tribunal de alzada, para los efectos legales a que haya lugar.
 
-Departamento de Organización; y
+### CAPÍTULO ÚNICO. ACCIÓN PENAL
 
-Departamento de Difusión.
+###### Artículo 164.
 
-Subdirección Operativa:
+Cuando en un asunto penal sea necesario comprobar un derecho civil, se hará por cualquier medio de prueba en el curso de la instrucción.
 
-Departamento de Concertación de Obras; y
+###### Artículo 165.
 
-Departamento de Programas Federales y Municipales.
+La declaración preparatoria se rendirá en forma oral o escrita por el inculpado, quien podrá asesorarse por su defensor; se recibirá en un local en que tenga acceso el público, sin que deban estar presentes los testigos que se examinarán en relación con los hechos que se investigan.
 
-Subdirección de Programas Especiales.
+###### Artículo 166.
 
-Dirección de Desarrollo Económico y Turismo:
+La declaración preparatoria comenzará por las generales del inculpado, en las que se incluirán también los apodos si los tuviere, la comunidad indígena a que pertenezca en su caso, si habla y entiende suficientemente el idioma español y sus demás circunstancias personales. Acto seguido se le hará saber el derecho que tiene para defenderse por sí o por persona de su confianza, advirtiéndole de que si no lo hiciere, el juez le nombrará un defensor de oficio y además le informará acerca de las garantías que la Constitución Política de los Estados Unidos Mexicanos otorga a los inculpados.
 
-Departamento de Servicio Municipal de Empleo y Capacitación;
+A continuación se le hará saber en qué consiste la denuncia o querella, así como los nombres de sus acusadores y de los testigos que declaren en su contra; se le preguntará si es su voluntad declarar y en caso de que así lo desee se le examinará sobre los hechos consignados. Si el inculpado decidiere no declarar, el juez respetará su voluntad dejando constancia de ello en el expediente.
 
-Departamento de Proyectos Productivos; y
+Acto seguido el juez lo interrogará sobre su participación en los hechos imputados y practicará careos entre el inculpado y los testigos que hayan declarado en su contra y estuvieren en el lugar del juicio, para que aquél y su defensor puedan hacerles todas las preguntas conducentes a su defensa, mismo derecho que corresponderá al Ministerio Público.
 
-Departamento de Comercio, Servicios y Turismo.
+###### Artículo 167.
 
-VII.- SECRETARIA DE DESARROLLO URBANO
+El inculpado podrá dictar sus declaraciones, pero si no lo hace, el juez que practique la diligencia las redactará con la mayor exactitud posible. Si fueran varios los inculpados por los mismos hechos se les tomará declaración por separado en una sola audiencia.
 
-Secretario:
+###### Artículo 168.
 
-Subdirección Jurídica;
+Tanto la defensa como el agente del Ministerio Público, citado previamente para la diligencia, tendrán el derecho de interrogar al inculpado. El juez podrá disponer que los interrogatorios se hagan por su conducto cuando lo estime necesario y tendrá la facultad de desechar las preguntas que a su juicio sean capciosas o inconducentes. El acuerdo judicial que las deseche se asentará en el expediente cuando así lo solicite quien las hubiere formulado. Esta resolución podrá impugnarse mediante el recurso de revocación.
 
-Departamento Administrativo;
+### CAPÍTULO I. REGLAS GENERALES DE LA INSTRUCCIÓN
 
-Departamento de Cartografía;
+###### Artículo 169.
 
-Departamento de Aseguramiento de la Calidad; y
+En los casos en que por sancionarse el delito con pena alternativa o distinta a la de prisión no dé lugar a detención, a pedimento del Ministerio Público se librará orden de comparecencia en contra del inculpado para que rinda su declaración preparatoria.
 
-Departamento de Gestión Social.
+###### Artículo 170.
 
-Dirección de Control Urbano:
+No pueden ser defensores quienes se hallen presos o estén siendo procesados. Tampoco los condenados por alguno de los delitos señalados en los capítulos I, II y III del Título XVIII, Libro Segundo, del Código Penal.
 
-Subdirección de Control Urbano:
+El inculpado podrá designar persona de su confianza para que lo defienda. En caso de que la designación no recaiga en quien tenga cédula profesional de licenciado en derecho o autorización de pasante conforme a la ley de la materia, el Tribunal dispondrá que intervenga, además del designado, un defensor de oficio.
 
-Departamento de Licencias de Construcción;
+Si el inculpado designa a varios defensores, éstos nombrarán en el mismo acto a un representante común; y si no lo hicieren, el juez lo determinará. Si concurren a la audiencia varios agentes del Ministerio Público, sólo uno hará uso de la voz.
 
-Departamento de Supervisión; y
+###### Artículo 171.
 
-Departamento de Usos del Suelo.
+El auto de formal prisión se dictará de oficio por el juez dentro de las setenta y dos horas siguientes al momento en que el indiciado sea puesto a su disposición, cuando de lo actuado aparezca que:
 
-Dirección de Fraccionamientos y Bienes Municipales:
+I. Esté comprobada la existencia del cuerpo de un delito que merezca sanción privativa de libertad;
 
-Departamento de Fraccionamientos;
+II. Se haya tomado declaración preparatoria al inculpado, en la forma y con los requisitos que establece el capítulo anterior, o bien que conste en el expediente que aquél se rehusó a declarar;
 
-Departamento de Supervisión de Fraccionamientos y Areas Municipales; y
+III. Contra el mismo inculpado existan datos suficientes, a juicio del tribunal, para suponerlo responsable del delito; y
 
-Departamento de Bienes Inmuebles Municipales.
+IV. No esté plenamente comprobada a favor del inculpado alguna causa que excluya el delito o que extinga la acción penal.
 
-VIII.- SECRETARIA DE SERVICIOS PUBLICOS Y ECOLOGIA
+El término mencionado en el primer párrafo de este artículo se duplicará cuando lo soliciten el indiciado o su defensor al rendir la declaración preparatoria, por así convenirles para recabar más elementos probatorios y someterlos al conocimiento del juez. La ampliación se notificará al servidor público a cargo del reclusorio, para los efectos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos. El Ministerio Público no puede solicitar dicha prórroga ni el juez resolverla de oficio, aun cuando mientras corra el período de ampliación, aquél puede hacer las promociones correspondientes al interés social que representa.
 
-Secretario:
+###### Artículo 172.
 
-Departamento Jurídico.
+Cuando el delito cuya existencia se haya comprobado no merezca sanción privativa de libertad, o esté sancionado con pena alternativa, se dictará auto con todos los requisitos del de formal prisión, sujetando a proceso a la persona contra quien aparezcan datos suficientes para presumir su responsabilidad, para el solo efecto de señalar el delito por el cual se ha de continuar el proceso.
 
-Dirección de Ecología y Salud:
+###### Artículo 173.
 
-Departamento de Ecología;
+Los autos a los que se refieren los dos artículos anteriores se dictarán por el delito que aparezca comprobado, tomando en cuenta sólo los hechos materia de la consignación, considerando la descripción típica legal y la presunta responsabilidad, aun cuando con ellos se modifique la clasificación hecha en resoluciones anteriores. Dichos autos serán inmediatamente notificados en forma personal a las partes.
 
-Departamento de Educación Ambiental;
+###### Artículo 174.
 
-Departamento de Sanidad;
+El auto de formal prisión se comunicará al servidor público responsable del establecimiento donde se halle el detenido, por medio de copia autorizada.
 
-Departamento Operativo Rastro; y
+Si no recibiere dicha copia a partir del acto en que se puso al inculpado a disposición del juez, lo hará del conocimiento de éste y del Ministerio Público en el momento mismo de concluir el término y, de no recibir la copia autorizada dentro de las tres horas siguientes, pondrá en libertad al inculpado.
 
-Departamento Comercial Rastro.
+En caso de que el procesado sea servidor público, este auto y el de sujeción a proceso también se comunicarán al superior jerárquico.
 
-Dirección de Administración:
+###### Artículo 175.
 
-Subdirección de Servicios de Apoyo:
+Dictado el auto de formal prisión o el de sujeción a proceso, se identificará al procesado por el sistema adoptado administrativamente. En todo caso, se comunicarán a las oficinas de identificación las resoluciones que pongan fin al proceso y hayan causado ejecutoria, para asentar las anotaciones correspondientes.
 
-Departamento de Taller Mecánico;
+###### Artículo 176.
 
-Departamento de Recursos Financieros y Abastecimientos;
+El auto de formal prisión no revoca la libertad provisional concedida, excepto cuando así lo determine el mismo.
 
-Departamento de Recursos Humanos; y
+###### Artículo 177.
 
-Departamento de Capacitación.
+Si dentro del término legal no se reúnen los requisitos necesarios para dictar el auto de formal prisión o el de sujeción a proceso, se dictará auto de libertad por falta de elementos para procesar o de no sujeción a proceso, en su caso, sin perjuicio de proceder por datos posteriores de prueba, en contra del inculpado.
 
-Dirección de Mercados y Estacionamientos:
+###### Artículo 178.
 
-Subdirección de Comercio:
+El Ministerio Público acreditará la existencia del cuerpo del delito de que se trate y la probable responsabilidad del inculpado, como base del ejercicio de la acción penal; la autoridad judicial, a su vez, examinará si ambos requisitos están acreditados en autos.
 
-Departamento de Areas Comerciales.
+Por cuerpo del delito se entiende el conjunto de elementos objetivos o externos que constituyan la materialidad del hecho previsto como delito por la ley, salvo aquellos que para su comprobación corpórea se aplique regla especial.
 
-Coordinación General de Servicios Públicos:
+La probable responsabilidad del inculpado se tendrá por comprobada cuando, de los medios probatorios existentes, se deduzca su participación en el delito que se le imputa y no exista acreditada a su favor alguna causa de licitud o alguna excluyente de delito.
 
-Coordinador General:
+###### Artículo 179.
 
-Subdirección de Calidad:
+Cuando se trate de lesiones externas se tendrá por comprobado el cuerpo del delito con la inspección de éstas, hecha por quien hubiere practicado las diligencias de policía ministerial o por el tribunal que conozca del caso y con la descripción que realicen los peritos médicos, titulados o prácticos.
 
-Departamento de Ahorro de Energía;
+###### Artículo 180.
 
-Departamento de Aseguramiento de Calidad;
+En el caso de lesiones internas, se tendrá por comprobado el cuerpo del delito con la inspección hecha por el servidor público o tribunal a quienes se refiere el artículo anterior, por las manifestaciones externas que presentare la víctima y con el dictamen pericial en que se expresen los síntomas que presente, si existen esas lesiones y si han sido producidas por una causa externa. Si no existen manifestaciones externas, esta circunstancia se hará constar en el dictamen pericial.
 
-Departamento de Ingeniería y Análisis; y
+###### Artículo 181.
 
-Departamento de Programas y Seguimiento.
+Si se tratare de homicidio, el cuerpo del delito se tendrá por comprobado con la inspección y descripción del cadáver, realizada en los términos de los dos artículos anteriores y con el dictamen de los peritos médicos, quienes practicarán la necrocirugía y expresarán con minuciosidad el estado que guarde el cadáver y las causas de la muerte. Si hubiere sido sepultado, se exhumará para los efectos que se indican.
 
-Dirección de Limpia y Aseo Público:
+No se practicará la necrocirugía cuando el Ministerio Público o el tribunal la consideren innecesaria.
 
-Departamento de Aseo Público;
+###### Artículo 182.
 
-Departamento de Inspección y Concientización; y
+Cuando el cadáver no se halle o por algún motivo no se haga la necrocirugía, bastará que los peritos, con vista en los datos recabados en el expediente, dictaminen que la muerte fue resultado de las lesiones inferidas.
 
-Departamento de Aseguramiento de Calidad.
+###### Artículo 183.
 
-Subdirección Operativa:
+En los casos de aborto, el cuerpo del delito se tendrá por comprobado como en el de homicidio; además, los peritos reconocerán a la mujer, describirán las lesiones que presente y dictaminarán sobre la causa del aborto, expresarán la edad de la víctima y todo aquello que pueda servir para fijar la naturaleza del delito.
 
-Departamento de Recolección; y
+###### Artículo 184.
 
-Departamento de Disposición Final de Residuos Sólidos.
+En los casos de robo, el cuerpo del delito podrá comprobarse, siempre que no haya sido posible hacerlo conforme a la regla general señalada en este capítulo, si además de haber quien le impute el robo, existe prueba de que el inculpado ha tenido en su poder alguna cosa que, por sus circunstancias personales, no sea verosímil que la haya adquirido legítimamente, si no justifica su procedencia.
 
-Dirección de Parques y Jardines:
+### CAPÍTULO II. DECLARACIÓN PREPARATORIA DEL INCULPADO Y NOMBRAMIENTO DE DEFENSOR
 
-Departamento de Parques Municipales;
+###### Artículo 185.
 
-Departamento de Parques y Jardines;
+Si no fuere posible comprobar el cuerpo del delito de robo en la forma determinada en el artículo anterior, se procurará desde luego investigar:
 
-Departamento de Producción y Sanidad;
+I. Si el inculpado ha podido adquirir legítimamente la cosa que se dice robada;
 
-Departamento de Operación y Servicios; y
+II. La preexistencia, propiedad y falta posterior de la cosa robada; y
 
-Departamento de Mantenimiento y Conservación a Camellones.
+III. Si la persona ofendida se hallaba en situación de poseer la cosa materia del delito y si es digna de fe y crédito.
 
-Dirección de Alumbrado Público:
+La comprobación de estas circunstancias, así como de los antecedentes morales, sociales y pecuniarios, tanto de la víctima como del inculpado, podrán resultar indicios suficientes, a juicio del tribunal, para tener acreditado el cuerpo del delito de robo.
 
-Departamento de Operación y Mantenimiento;
+###### Artículo 186.
 
-Departamento de Mantenimiento a Edificios Públicos; y
+El cuerpo de los delitos de peculado, abuso de confianza y fraude, si no fuere posible comprobarlo conforme a la regla general de este capítulo, podrá tenerse por tal en la forma que establece el artículo anterior.
 
-Departamento de Proyectos y Supervisión.
+### CAPÍTULO III. AUTOS DE FORMAL PRISIÓN, DE SUJECIÓN A PROCESO Y DE LIBERTAD POR FALTA DE ELEMENTOS PARA PROCESAR
 
-Subdirección de Panteones:
+###### Artículo 187.
 
-Departamento de Aseguramiento de la Calidad; y
+Para integrar los elementos constitutivos del delito de violencia familiar, se acreditarán las calidades específicas y las circunstancias de los sujetos señalados en el Código Penal para este tipo delictivo. Además, se agregarán a la investigación ministerial los dictámenes de salud física y mental del inculpado.
 
-Departamento Administrativo.
+Los profesionales que presten sus servicios en las instituciones legalmente constituidas, especializadas en la atención de problemas relacionados con la violencia familiar, rendirán los informes que les sean solicitados por el Ministerio Público o el tribunal instructor y colaborarán como peritos, sujetándose a lo dispuesto en este Código.
 
-### CAPITULO II. De las Funciones y Atribuciones de los Servidores Públicos Municipales
+###### Artículo 188.
 
-APARTADO PRIMERO
+Para la comprobación del cuerpo del delito, el Ministerio Público y la autoridad judicial tendrán la acción más amplia para optar por los medios de investigación que estimen conducentes, siempre que estén autorizados por la ley.
 
-De la Secretaría Particular
+###### Artículo 189.
 
-###### ARTICULO 95.
+Los instrumentos del delito y las cosas objeto o efecto de él, así como aquellos donde existan huellas del mismo o que pudieren tener relación con éste, se asegurarán recogiéndolos, poniéndolos en secuestro judicial o simplemente al cuidado y bajo la responsabilidad de alguna persona, para que no se alteren, destruyan o desaparezcan.
 
-Corresponde a la Secretaría Particular, lo siguiente:
+De todas las cosas aseguradas se hará un inventario y en él se las describirá minuciosamente para poder identificar y examinar en cualquier tiempo.
 
-I. Elaborar y mantener actualizada la agenda del Presidente Municipal;
+Si con un vehículo de motor se causó la muerte de una persona o ésta sufrió lesiones, se decretará el secuestro del mismo para procurar, en su caso, el pago de la reparación del daño y no se levantará el embargo hasta que aquélla sea satisfecha o se otorgue garantía bastante, a criterio del juez, y bajo su responsabilidad.
 
-II. Recibir a los funcionarios, comisionados, representantes de grupos y demás personas que soliciten entrevista directa con el Presidente Municipal;
+###### Artículo 190.
 
-III. Programar y supervisar las giras del Presidente Municipal;
+Las cosas inventariadas conforme al artículo anterior se guardarán en lugar o recipiente adecuado, según su naturaleza, tomándose las precauciones necesarias para asegurar su conservación e identidad.
 
-IV. Encargarse de la política de relaciones públicas de la Presidencia Municipal; y
+###### Artículo 191.
 
-V. Las demás que el Presidente Municipal le encomiende.
+Cuando sea necesario tener a la vista alguna de las cosas referidas en los artículos anteriores, se comenzará la diligencia haciendo constar si se encuentra en el mismo estado que guardaba al asegurarse. Si se considera que ha sufrido alteración voluntaria o accidental, se expresarán los signos o señales que motiven esa presunción.
 
-APARTADO SEGUNDO
+###### Artículo 192.
 
-Del Comité Municipal para el Desarrollo Integral de la Familia y el Voluntariado
+Los cadáveres se identificarán por cualquier medio legal de prueba y, si no fuere posible hacerlo dentro de las doce horas siguientes de haberse hallado, se expondrán al público en el local destinado al efecto, por un término de veinticuatro horas, a no ser que, según dictamen médico, con tal exposición se ponga en peligro la salud general. Si por cualquier circunstancia el rostro de los cadáveres se encuentra desfigurado y se hace difícil identificarlo, se le reconstruirá, si esto es posible.
 
-###### ARTICULO 96.
+Si a pesar de haberse tomado las providencias señaladas en este artículo no se identificare el cadáver, se tomarán fotografías del mismo, agregándose un ejemplar a la investigación; se pondrán otras en los lugares públicos con todos los datos que sean útiles para facilitar el reconocimiento y se exhortará a quienes hubieren conocido al occiso a comparecer ante la autoridad para declarar sobre la identidad de aquél.
 
-El Comité Municipal para el Desarrollo Integral de la Familia y Voluntariado, promoverá el bienestar social para lograr el desarrollo integral de la familia y otorgará asistencia social, con las atribuciones que establece la Ley que en materia Municipal expida el Poder Legislativo del Estado de Aguascalientes.
+En el expediente, se describirá la vestimenta en forma minuciosa y se conservará en depósito seguro para, en su momento, presentarla a los testigos de identidad.
 
-APARTADO TERCERO
+###### Artículo 193.
 
-De la Coordinación de Comunicación Social
+Los cadáveres, previa inspección y descripción minuciosas hechas por el servidor público que practique las primeras diligencias y por un perito médico, podrán ser entregados por el Ministerio Público a quienes los reclamen, debiendo éstos manifestar el lugar donde los cadáveres quedarán depositados a disposición de la autoridad competente para conducirlos al lugar destinado a la práctica de la necrocirugía, cuando proceda.
 
-###### ARTICULO 97.
+Si hubiere temor de que el cadáver pueda ser ocultado o de que sufra alteraciones, no se entregará en tanto no se practique la necrocirugía o se resuelva que ésta es innecesaria.
 
-Corresponde a la Coordinación de Comunicación Social y Relaciones Públicas:
+###### Artículo 194.
 
-I. Coordinar el establecimiento de programas de información por los canales de comunicación adecuados, sobre las actividades del H. Ayuntamiento, de la Presidencia Municipal y sus Dependencias o Unidades Administrativas;
+En los casos de envenenamiento, se recogerán cuidadosamente las vasijas y demás objetos utilizados por el ofendido, los restos de los alimentos, bebidas y medicinas que hubiere tomado, las deyecciones y vómitos que hubiere tenido, todo lo cual será depositado con las precauciones necesarias, para evitar su alteración y se describirán todos los síntomas que presente el individuo intoxicado. A la brevedad posible, se llamará a los peritos para reconocer al ofendido, hacer el análisis de las substancias recogidas y emitir su opinión sobre las cualidades tóxicas de éstas y si han podido causar la intoxicación del caso.
 
-II. Recopilar, procesar y analizar de diversas fuentes, aquella información que resulte de utilidad, tanto para las Autoridades Municipales como para la comunidad;
+###### Artículo 195.
 
-III. Mantener informado al H. Ayuntamiento, al Presidente Municipal y a las Dependencias o Unidades Administrativas de la Presidencia, sobre aquellas manifestaciones de expresión pública y social relativa a su actuación;
+Si el delito fuere de falsificación de documentos, además de la descripción minuciosa de éstos, se depositarán en lugar seguro y, si fuere posible, firmarán sobre ellos las personas que depongan respecto de su falsedad. En caso contrario, se hará constar el motivo. Si fuere necesario y posible, se agregará al expediente copia certificada del documento señalado como falso y otra copia fotostática del mismo.
 
-IV. Mostrar una imagen veraz y adecuada, del H. Ayuntamiento y Administración Municipal ante la sociedad;
+###### Artículo 196.
 
-V. Emitir la normatividad en materia de comunicación social a que deberán sujetarse las dependencias del Gobierno Municipal;
+La atención médica de quienes hayan sufrido lesiones provenientes de delito se hará preferentemente en los hospitales públicos. Cuando por la urgencia del caso o la gravedad de la lesión se requiera la intervención médica inmediata y no fuese posible recurrir a un hospital que preste servicios al público en general, se acudirá a los establecimientos de salud más cercanos.
 
-VI. Garantizar que la información proveniente del gobierno municipal se difunda a toda la población;
+Si el lesionado no debe estar privado de su libertad, la autoridad que conozca del caso podrá permitir que sea atendido en lugar distinto, bajo la responsiva de un médico con título legalmente expedido, previa clasificación legal de las lesiones. Este permiso se concederá sin perjuicio de que la autoridad se cerciore del estado físico del lesionado cuando lo estime oportuno. Igual autorización se dará en cualquier caso, cuando se acredite que en el lugar donde es atendido no existen los medios apropiados para su tratamiento.
 
-VII. Realizar campañas publicitarias para dar a conocer a la ciudadanía los planes de trabajo y acciones emprendidas por el Gobierno Municipal;
+###### Artículo 197.
 
-VIII. Organizar las conferencias que a los medios de comunicación ofrezcan el H. Ayuntamiento, el Presidente Municipal y funcionarios de la Administración;
+El lesionado informará a la autoridad el lugar donde será atendido y si hubiere algún cambio de éste o de su domicilio. La falta de aviso ameritará la imposición de una corrección disciplinaria.
 
-IX. Presentar al Presidente Municipal los planes de trabajo, presupuesto y evaluaciones relativos a sus funciones; y
+###### Artículo 198.
 
-X. Las demás que les confiera la Legislación vigente, o que les encomiende el H. Ayuntamiento, a través del Presidente Municipal.
+En cualquier caso, el responsable de la atención médica de quien haya sufrido lesiones provenientes de delito, tendrá las obligaciones siguientes:
 
-APARTADO CUARTO
+I. Atender debidamente al lesionado;
 
-De las Delegaciones
+II. Avisar a la autoridad correspondiente de cualquier accidente o complicación que sobrevenga, expresando si es consecuencia inmediata o necesaria de la lesión o si proviene de otra causa;
 
-###### ARTICULO 98.
+III. Comunicar inmediatamente a la misma autoridad todo cambio de domicilio del lesionado o del lugar donde sea atendido; y
 
-Corresponde a las Delegaciones por conducto de sus titulares:
+IV. Extender certificado de salud o de defunción, en su caso, y los demás requeridos por la autoridad.
 
-I. Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden;
+El incumplimiento de cualquiera de las obligaciones señaladas en este artículo ameritará la imposición de una corrección disciplinaria, cuando no constituya un delito.
 
-II. Cuando sea requerido para ello rendir informe de las funciones desempeñadas al Presidente Municipal y al Regidor o Síndico del ramo;
+###### Artículo 199.
 
-III. Vigilar que se cumpla estrictamente con las disposiciones legales en todos los asuntos asignados;
+Los certificados de salud o defunción, expedidos por médicos particulares, se sujetarán a la revisión de los médicos oficiales, quienes rendirán el dictamen definitivo.
 
-IV. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de sus respectivas áreas, con las unidades administrativas correspondientes;
+###### Artículo 200.
 
-V. Formular y proponer al Presidente los proyectos de Planes y Programas que les correspondan;
+Cuando un lesionado necesite pronta curación, cualquier médico o práctico, en su caso, puede atenderlo y aun trasladarlo del lugar de los hechos al sitio apropiado, sin esperar la intervención de la autoridad, debiendo comunicar a ésta, inmediatamente después de la primera curación, los siguientes datos: nombre del lesionado; lugar preciso donde fue levantado y posición en que se hallaba; naturaleza de sus lesiones y causas probables de su origen; curaciones practicadas y lugar donde queda a disposición de la autoridad.
 
-VI. Proporcionar información y cooperación técnicas a las dependencias de la Administración Pública Municipal;
+###### Artículo 201.
 
-VII. Mantener permanente comunicación con la Dirección de Atención Ciudadana y demás Dependencias Municipales, a efecto de responder, atender y dar seguimiento a las demandas y necesidades de la población;
+Los servidores públicos que practiquen diligencias de investigación ministerial estarán obligados a detener a los probables responsables de un delito, si éste se persigue de oficio, sin necesidad de orden judicial:
 
-VIII. Participar con la Dirección General de Modernización Tecnológica en la modernización y simplificación de los sistemas administrativos;
+I. En caso de flagrancia; o
 
-IX. Cumplir con la normatividad que emita la Dirección General de Modernización Tecnológica en materia de operación, mantenimiento, aplicación y administración de los sistemas de cómputo;
+II. En casos urgentes, bajo su responsabilidad, ordenando por escrito la detención, fundando y motivando los indicios que acrediten:
 
-X. Observar las normas que la Coordinación de Comunicación Social emita respecto a toda comunicación oficial que se genere en las áreas de su competencia; y
+a) La comisión de un delito grave;
 
-XI. Las demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+b) Riesgo de que el probable responsable pueda sustraerse a la acción de la justicia; o
 
-APARTADO QUINTO
+c) Que por razón de la hora, lugar o cualquier otra circunstancia, no se pueda ocurrir ante autoridad judicial para solicitar la orden de aprehensión.
 
-Contraloría Municipal
+La violación de esta disposición hará penalmente responsable al servidor público que ordene indebidamente la detención y el sujeto señalado como probable responsable será puesto en inmediata libertad.
 
-###### ARTICULO 99.
+###### Artículo 202.
 
-Corresponde a la Contraloría Municipal, como órgano de control interno del Municipio de Aguascalientes, el despacho de los siguientes asuntos:
+Existe flagrancia cuando:
 
-I. Evaluar el Sistema de Control Interno en la Administración Pública Municipal;
+I. La persona es detenida al momento de cometer el delito;
 
-II. Vigilar el control de los recursos patrimoniales del Municipio de Aguascalientes;
+II. Inmediatamente de ejecutado el delito, la persona es perseguida materialmente; o
 
-III. Fijar, en su caso, las normas necesarias para el ejercicio del control administrativo y contable;
+III. La persona es señalada como responsable por el ofendido, la víctima o algún testigo presencial de los hechos o quien hubiere participado con ella en la comisión del delito; se encuentre en su poder el objeto, instrumento o producto del delito o bien aparezcan huellas o indicios que hagan presumir fundadamente su participación, siempre y cuando se trate de un delito grave; no haya transcurrido un término de cuarenta y ocho horas desde el momento de la comisión de los hechos delictivos; se haya iniciado la investigación ministerial respectiva y no se hubiere interrumpido la persecución de la persona. No se considera interrumpida la persecución cuando el probable responsable se introduce a un inmueble sin autorización o consentimiento de quien lo habita o de quien legalmente tiene derecho a decidir el ingreso de personas al mismo; en todo caso, no existirá interrupción cuando se trate de un inmueble público o al que, por su naturaleza, se tenga libre acceso.
 
-IV. Requerir para el cumplimiento de sus atribuciones, documentos, datos e información a las Dependencias y Entidades Municipales;
+En estos casos, el Ministerio Público ordenará la retención de la persona si están satisfechos los requisitos de procedibilidad; en caso contrario, ordenará la libertad del detenido. De ordenarse la retención, el Ministerio Público iniciará desde luego, si aún no lo ha hecho, la investigación ministerial correspondiente.
 
-V. Practicar auditorías, revisiones, visitas e inspecciones a las Dependencias y Entidades de la Administración Pública Municipal;
+La violación de esta disposición hará penalmente responsable al servidor público que ordene indebidamente la detención y el sujeto señalado como probable responsable será puesto en inmediata libertad.
 
-VI. Vigilar el cumplimiento por parte de las Dependencias y Entidades Municipales de las normas jurídicas y administrativas que rigen su funcionamiento;
+### CAPÍTULO I. COMPROBACIÓN DEL CUERPO DEL DELITO
 
-VII. Investigar de oficio o en atención a las quejas, a las denuncias y a los hechos o elementos detectados en las auditorías, revisiones, visitas e inspecciones practicadas por la Contraloría Municipal, las conductas de los servidores públicos municipales que impliquen presunta responsabilidad administrativa y en su caso, substanciar el Procedimiento de Responsabilidad Administrativa e imponer las sanciones que correspondan en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes;
+###### Artículo 203.
 
-VIII. Instruir y resolver los recursos de revisión y demás recursos administrativos de las diferentes leyes administrativas vigentes, que le corresponda conocer a la Contraloría Municipal;
+Se califican como graves por afectar de manera importante los valores fundamentales de la sociedad, los perseguibles de oficio sancionables con más de seis años de prisión en el término medio de su punibilidad.
 
-IX. Dictaminar mensualmente la Cuenta de la Hacienda Pública Municipal que formula la Secretaría de Finanzas Públicas;
+###### Artículo 204.
 
-X. Informar a la Contraloría General del Estado, sobre los servidores públicos municipales obligados a presentar la Declaración de Situación Patrimonial;
+Reunidos los requisitos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, el tribunal, a pedimento del Ministerio Público, librará orden de aprehensión contra el inculpado.
 
-XI. Emitir las observaciones y las recomendaciones que se deriven del cumplimiento de sus atribuciones y darles el seguimiento correspondiente;
+La resolución respectiva contendrá una relación sucinta de los hechos que la motiven, sus fundamentos legales y la clasificación provisional que se haga del hecho delictuoso y se remitirá copia certificada a la autoridad correspondiente para que ésta proceda a su ejecución.
 
-XII. Informar al Presidente Municipal sobre el resultado de la evaluación respecto de la gestión de las Dependencias y Entidades de la Administración Pública Municipal;
+###### Artículo 205.
 
-XIII. Turnar a las Dependencias las quejas y denuncias que de su análisis inicial resulten ser asuntos de mero trámite a efecto de su atención y resolución;
+Las órdenes de aprehensión se ejecutarán por el Ministerio Público por conducto de la policía bajo su mando. Las autoridades o corporaciones a quienes se les solicite, auxiliarán obligatoriamente al Ministerio Público en la ejecución de los mandamientos judiciales.
 
-XIV. Interpretar para efectos jurídicoadministrativos la Legislación Municipal;
+La autoridad que ejecute una orden de aprehensión pondrá al inculpado a disposición del juez, sin dilación alguna y bajo su más estricta responsabilidad. El aprehendido será internado en el centro de reclusión perteneciente a la jurisdicción del juez que la expidió; si no lo hubiere, se le internará en el centro de reclusión más cercano. Cuando medien razones de seguridad del detenido o exista la posibilidad de su evasión, se le pondrá a disposición del juez en otro centro de reclusión próximo, a reserva de que dicha autoridad judicial dicte lo procedente.
 
-XV. Ejecutar las funciones establecidas en este Código y en la Legislación Federal, Estatal y Municipal aplicables para los órganos internos de control;
+###### Artículo 206.
 
-XVI. Designar a su personal que auditará a las Dependencias y Entidades Municipales, así como normar y controlar su desempeño;
+Los miembros de la policía o del ejército que estuvieren detenidos o sujetos a prisión preventiva sufrirán ésta en sus establecimientos carcelarios, si existieren, o en su defecto, en las comunes, cuidando salvaguardar su integridad personal.
 
-XVII. Designar, para el adecuado desarrollo del Sistema de Control y Evaluación Interno Gubernamental, en los casos que así lo determine la Contraloría, Delegados de la propia ante las Dependencias de la Administración Pública Municipal;
+No se considerarán establecimientos carcelarios los cuarteles u oficinas.
 
-XVIII. Dictar las disposiciones que requiera la Contraloría Municipal para la adecuada aplicación y cumplimiento de la Entrega-Recepción de la Administración Pública Municipal, que previene el presente Código; y
+###### Artículo 207.
 
-XIX. Las demás que expresamente le señalen las leyes y reglamentos vigentes en el Municipio, el H. Ayuntamiento o el Presidente Municipal.
+Para dictar orden de aprehensión no será obstáculo la circunstancia de que esté pendiente un recurso de apelación interpuesto contra resolución anterior que la hubiere negado.
 
-APARTADO SEXTO
+###### Artículo 208.
 
-De la Dirección General de Modernización Tecnológica
+Si por datos posteriores el Ministerio Público estima que ya no es procedente ejecutar una orden de aprehensión, previa autorización del Procurador General de Justicia pedirá su revocación, la que se acordará de plano sin perjuicio de que continúe la investigación ministerial y de que después vuelva a solicitarse, si procede.
 
-###### ARTICULO 100.
+###### Artículo 209.
 
-Corresponde a la Dirección General de Modernización Tecnológica lo siguiente:
+Cuando se ejecute una orden de aprehensión dictada contra persona que maneje fondos públicos, se tomarán las providencias necesarias para que no se interrumpa el servicio y para que se haga entrega de los fondos, valores y documentos que tenga en su poder el inculpado, dictándose entretanto las medidas preventivas que se juzguen oportunas para evitar que aquélla se sustraiga a la acción de la justicia.
 
-I. Definir y establecer las políticas y lineamientos en materia de informática que deberán respetar las Dependencias de la Administración Pública Municipal;
+###### Artículo 210.
 
-II. Definir y establecer las políticas y procedimientos que deberán observar las Dependencias de la Administración Pública Municipal en relación a una Mejora Regulatoria y Simplificación Administrativa;
+Al ser aprehendido un servidor público, se comunicará la detención sin demora al superior jerárquico respectivo.
 
-III. Dar seguimiento al Plan Municipal de Desarrollo en materia de Informática y Simplificación Administrativa;
+###### Artículo 211.
 
-IV. Apoyar los programas de modernización administrativa sustentados en tecnología de información;
+Cuando deba aprehenderse a un servidor público que en ese momento esté laborando, se procurará que el servicio no se interrumpa, tomándose las providencias necesarias a fin de que el inculpado no se fugue.
 
-V. Proporcionar el servicio de mantenimiento preventivo y correctivo a los equipos de cómputo y periféricos en todas las Dependencias de la Administración Pública Municipal;
+###### Artículo 212.
 
-VI. Proporcionar el servicio de análisis, diseño, programación e instalación de todo tipo de sistemas computacionales que requieran las Dependencias de la Administración Pública Municipal;
+Para la aprehensión de un servidor público se procederá de acuerdo con lo dispuesto en la Constitución Local y las leyes respectivas.
 
-VII. Establecer los criterios para el uso de todo sistema computacional incluyendo los de operación en web y georeferencia;
+###### Artículo 213.
 
-VIII. Brindar asesoría y soporte técnico que en materia de informática y simplificación administrativa soliciten las Dependencias de la Administración Pública Municipal;
+Cuando el delito imputado merezca sanción que no sea privativa de libertad o sanción alternativa y exista la posibilidad de que se dificulte la investigación ministerial con la ausencia del inculpado, a pedimento del Ministerio Público el tribunal podrá ordenarle que no abandone, sin su permiso, el lugar en que se sigue el procedimiento.
 
-IX. Definir la infraestructura de telecomunicaciones adoptada para resolver el servicio de comunicación de datos que requieren todas las Dependencias de la Administración Pública Municipal;
+###### Artículo 214.
 
-X. Desarrollar los módulos computacionales de captura, integración, procesamiento y consulta de información referenciable en mapas geográficos digitales;
+Se admitirá como prueba todo lo ofrecido como tal durante el procedimiento. Cuando se estime necesario podrá, por cualquier medio legal, establecerse la autenticidad de dicha prueba.
 
-XI. Proveer herramientas, cursos, manuales y bancos de datos para facilitar y agilizar la consulta y transmisión de la información;
+###### Artículo 215.
 
-XII. Establecer los criterios para el uso de la infraestructura de servicios en Internet e Intranet, incluyendo los de operación con acceso a sitios cibernéticos y correo electrónico, de las Dependencias de la Administración Pública Municipal;
+Este Código reconoce como medios de prueba los siguientes:
 
-XIII. Administrar la estructura técnica de todo módulo remoto computarizado de atención;
+I. Confesional;
 
-XIV. Vigilar el uso en los centros municipales de servicios de Internet y videoconferencias, que ofrece el Municipio al público observando los lineamientos que para tal efecto establece el presente Código y demás disposiciones relativas y aplicables;
+II. Inspección y reconstrucción de hechos;
 
-XV. Conformar, diseñar, programar, publicar, actualizar y administrar la página electrónica del Municipio en Internet, Intranet y módulos de acceso público;
+III. Pericial;
 
-XVI. Analizar, diseñar, adecuar y proponer la estructura orgánica municipal, de las Dependencias de la Administración Pública Municipal;
+IV. Testimonial;
 
-XVII. Definir y establecer a las Dependencias, los mecanismos de elaboración, implementación y actualización de los Manuales de Organización definidos por la Secretaría de Administración, que deberán realizar las Dependencias;
+V. Careos;
 
-XVIII. Definir los mecanismos de elaboración, actualización, simplificación e implementación de trámites y procesos de Servicios Públicos de la Administración Pública Municipal, sometiendo a consideración, las reformas o adiciones y en su caso la abrogación de las disposiciones jurídico-administrativas en las que se sustentan los mismos;
+VI. Documental;
 
-XIX. Diseñar, elaborar y mantener actualizada, con base en la información que emitan las Dependencias, la Guía de Trámites de Servicios Públicos de la Administración Pública Municipal;
+VII. Reconocimiento o confrontación; y
 
-XX. Evaluar el impacto de las políticas en materia de Informática y Mejora Regulatoria, presentando informes al Secretario de Administración;
+VIII. Presuncional o circunstancial.
 
-XXI. Dar seguimiento para que las Dependencias cumplan en lo conducente, lo establecido en el presente artículo, informando al Secretario de Administración; y
+###### Artículo 216.
 
-XXII. Las demás que le señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+La confesión es el reconocimiento de la responsabilidad y participación propias, rendida por persona mayor de dieciséis años en pleno uso de sus facultades mentales, sobre hechos propios constitutivos del tipo delictivo materia de la imputación, emitida con las formalidades dispuestas por la Constitución Política de los Estados Unidos Mexicanos.
 
-APARTADO SEPTIMO
+La confesión podrá ser recibida por el Ministerio Público en la investigación o por el juez o tribunal que conozca del proceso. Se admitirá en cualquier etapa de éste hasta antes de dictar sentencia irrevocable.
 
-De las Secretarías
+###### Artículo 217.
 
-###### ARTICULO 101.
+Si el delito fuere de aquellos que pueden dejar huellas materiales, se procederá a inspeccionar el lugar donde se perpetró, el instrumento y las cosas objeto o efecto de él, el cuerpo del ofendido y del inculpado si fuere posible, y todas las demás cosas y lugares que sean importantes para la investigación.
 
-Corresponde a las Secretaría del H. Ayuntamiento y Dirección General de Gobierno, y a las Dependencias a que se refiere el artículo 94 del presente Código por conducto de sus titulares, lo siguiente:
+### CAPÍTULO II. HUELLAS, ASEGURAMIENTO DE LOS INSTRUMENTOS Y OBJETOS DEL DELITO
 
-I. Acordar con el Presidente Municipal, el despacho de los asuntos que les corresponden;
+###### Artículo 218.
 
-II. Cuando sea requerido para ello, rendir informe de las funciones desempeñadas al Cabildo, al Presidente Municipal, a la Comisión del Ramo del H. Ayuntamiento o a la Contraloría Municipal;
+Para la descripción de lo inspeccionado se emplearán, en su caso, dibujos, planos topográficos, fotografías ordinarias o métricas, moldeados o cualquier otro medio para reproducir las cosas, haciéndose constar en el acta cuál o cuáles de aquéllos y cómo y con qué objeto se emplearon.
 
-III. Cumplir estrictamente con las disposiciones legales y administrativas que rigen su organización y funcionamiento;
+Se describirá por escrito todo lo que no hubiere sido posible efectuar por los medios anteriores, procurándose fijar con claridad los caracteres, señales o vestigios que el delito dejare, el instrumento o medio que probablemente se haya empleado y la forma cómo se hubiere usado.
 
-IV. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de sus respectivas áreas;
+###### Artículo 219.
 
-V. Formular y proponer al Presidente Municipal, los proyectos de planes y programas que les correspondan;
+Al practicarse una inspección ocular podrá examinarse a las personas presentes, aptas para proporcionar algún dato útil a la investigación, a cuyo efecto se les ordenará permanecer en el lugar hasta concluir su participación en la diligencia pertinente.
 
-VI. Proporcionar información y cooperación técnica, a las Dependencias y Entidades de la Administración Pública Municipal;
+###### Artículo 220.
 
-VII. Mantener permanente comunicación con la Dirección de Atención Ciudadana, a efecto de responder a las demandas y necesidades de la población;
+El encargado de practicar una inspección ocular podrá acompañarse por los peritos y testigos que estime necesarios.
 
-VIII. Participar con la Dirección General de Modernización Tecnológica, en la modernización y simplificación de los sistemas administrativos;
+###### Artículo 221.
 
-IX. Cumplir con la normatividad que emita la Dirección General de Modernización Tecnológica, en materia de operación, mantenimiento, aplicación y administración de los sistemas de cómputo;
+En caso de lesiones, si sana el lesionado se procurará hacer la inspección ocular y la descripción de las consecuencias apreciables que aquéllas hubieren dejado.
 
-X. Observar las normas que la Coordinación de Comunicación Social emita respecto a toda comunicación oficial que se genere en las áreas de su competencia;
+###### Artículo 222.
 
-XI. Asistir a las reuniones a que sea citado por las Comisiones del H. Ayuntamiento, las cuales se celebrarán de acuerdo a la regularidad requerida, y mantener una comunicación constante con los Regidores y Síndicos del Ramo;
+En los delitos sexuales y en el de aborto podrán concurrir al reconocimiento que practiquen los médicos, las personas designadas por la víctima.
 
-XII. Emitir, modificar, actualizar o ratificar las normas, políticas y lineamientos que organicen y regulen la Administración Pública Municipal en el ámbito de su competencia, las que deberán ser difundidas para su debida aplicación;
+###### Artículo 223.
 
-XIII. Informar por escrito a la Contraloría Municipal sobre la emisión, modificación, actualización, ratificación y difusión de las disposiciones a que se refiere la fracción anterior;
+La inspección ocular podrá tener el carácter de reconstrucción de hechos. Ésta se llevará a cabo siempre que la naturaleza del delito y las pruebas recibidas lo permitan. Su objeto será la reproducción más apegada posible a la comisión del hecho delictivo, a fin de que las pruebas de referencia se evalúen correctamente.
 
-XIV. Proporcionar en tiempo y forma requerido por la Contraloría Municipal, todos los documentos, datos e informes que les sean solicitados; y
+La reconstrucción se llevará a cabo en el lugar y a la hora en que se cometió el delito, tomando en cuenta las circunstancias que concurrieron en los hechos, con la participación de las personas que en ellos intervinieron o los presenciaron y de los peritos para que emitan su opinión al respecto. Cuando no fuere posible la asistencia de alguno de ellos, podrá comisionarse a otra persona para ocupar su lugar, excepto si esa ausencia hace inútil la práctica de la diligencia, en cuyo caso se suspenderá.
 
-XV. Las demás que expresamente les señalen las leyes y reglamentos vigentes en el Municipio, el H. Ayuntamiento o el Presidente Municipal.
+Si la reconstrucción no se efectúa en las circunstancias de tiempo y lugar indicadas, podrá realizarse en otra ocasión, pero en condiciones similares.
 
-APARTADO OCTAVO
+###### Artículo 224.
 
-De la Secretaría del H. Ayuntamiento y Dirección General de Gobierno
+No se practicará la reconstrucción si antes no han sido examinadas las personas que intervinieron en los hechos o los hayan presenciado y deben tomar parte en aquélla. Es indispensable, asimismo, haber realizado la inspección ocular del sitio donde ocurrieron los hechos.
 
-###### ARTICULO 102.
+###### Artículo 225.
 
-Son facultades y obligaciones del Secretario del H. Ayuntamiento y Director General de Gobierno las siguientes:
+Cuando alguna de las partes solicite la reconstrucción precisará cuáles son los hechos y circunstancias que desea esclarecer, pudiendo repetirse la diligencia cuantas veces sea necesario, a criterio del juez o del tribunal en su caso.
 
-I. Fungir como Secretario del H. Ayuntamiento;
+###### Artículo 226.
 
-II. Vigilar el adecuado funcionamiento del archivo general del H. Ayuntamiento;
+Cuando hubiere versiones distintas acerca de la forma en que ocurrieron los hechos, se practicarán las reconstrucciones relativas a cada una si fueren conducentes a su esclarecimiento y, si es necesaria la intervención de peritos, éstos dictaminarán cuál de las versiones es la más cercana a la realidad.
 
-III. Mantener el orden público, vigilando que las actividades de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública;
+###### Artículo 227.
 
-IV. Organizar, vigilar y coordinar las funciones de la Junta Municipal de Reclutamiento;
+Si para el examen de personas, animales, hechos o cosas se requieren conocimientos especiales, se procederá con intervención de peritos.
 
-V. Expedir, por acuerdo del Presidente Municipal, los nombramientos de los servidores públicos municipales y llevar un registro de los mismos, así como de sus respectivas firmas;
+En el período de integración de la investigación ministerial, los dictámenes periciales serán encomendados y emitidos por quienes estén encargados de desempeñar esa función en la Procuraduría General de Justicia del Estado.
 
-VI. Llevar el Control y distribución de la correspondencia oficial y dar cuenta diaria al Presidente Municipal, de todos los asuntos que deban acordarse para su inmediato trámite;
+Durante el período de instrucción, las partes tendrán derecho a proponer hasta dos peritos, pero bastará uno cuando sólo éste pueda ser habido, o cuando el caso sea urgente. La defensa podrá proponer peritos no oficiales, a quienes se les hará saber su nombramiento.
 
-VII. Expedir las constancias de residencia que soliciten los habitantes del Municipio, así como las certificaciones y demás documentos públicos que legalmente proceden, o los que acuerde el H. Ayuntamiento;
+###### Artículo 228.
 
-VIII. Validar con su firma todos los documentos oficiales emanados del H. Ayuntamiento o de cualquiera de sus miembros; sin este requisito los acuerdos tomados no serán válidos;
+Para la práctica de pruebas periciales, el Ministerio Público en la investigación ministerial y los tribunales ordenarán la presentación de documentos, de objetos, de vehículos y de animales.
 
-IX. Solicitar la publicación de leyes, decretos, bandos y reglamentos, y tener una colección ordenada y anotada de éstos, así como Periódicos Oficiales del Estado, circulares y órdenes relativas a los distintos ramos de la Administración Pública Municipal;
+Previo su consentimiento, podrá realizarse a las personas la toma de muestras de caligrafía, de voz y de poligrafía, estudios anatomopatológicos, toxicológicos y de identificación genética, muestras biológicas de saliva, orina, filamentos pilosos, sangre, biopsias y exudados. Las que procedan podrán realizarse a cadáveres.
 
-X. Elaborar con la intervención de los Síndicos el inventario general de bienes muebles e inmuebles propiedad del Municipio, de los destinados a un servicio público y los de uso común, expresando en el mismo todas las características de identificación; y
+Al efecto, se emplearán las técnicas médicas de uso común autorizadas en la Ley General de Salud.
 
-XI. Las demás que señale la Ley que en materia Municipal expida el Poder Legislativo del Estado o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+###### Artículo 229.
 
-APARTADO NOVENO
+Respecto del indiciado, las tomas de muestras de sangre, biopsia, exudados, huellas dactilares, palmares o de planta de los pies, filamentos pilosos, impresiones dentales, los estudios de fotografía, radiografía, ultrasonido y antropométricos, así como la poligráfica, podrán realizarse previo consentimiento de aquél.
 
-De la Secretaría de Finanzas Públicas
+La negativa del indiciado constituye presunción de culpabilidad.
 
-###### ARTICULO 103.
+###### Artículo 230.
 
-Corresponde a la Secretaría de Finanzas Públicas lo siguiente:
+Los servicios periciales de la Procuraduría General de Justicia del Estado podrán realizar tomas dactiloscópicas y fotográficas al detenido o retenido que se encuentre a disposición del Ministerio Público o de la Policía Ministerial, únicamente para verificar su identidad y tendrán bajo su custodia, confidencialidad y responsabilidad los bancos de datos de identificación de personas, exclusivamente para asuntos de carácter penal.
 
-I. Ejercer las funciones que le señala la Ley que en materia Municipal expida el Poder Legislativo del Estado;
+###### Artículo 231.
 
-II. Ejercer la (sic) funciones que le señala la Ley de Hacienda del Municipio de Aguascalientes, el presente Código y las demás disposiciones legales municipales aplicables; y
+Al acordar la designación de peritos, el juez o tribunal ordenará hacerles saber su nombramiento a los designados, para lo cual se les suministrarán todos los datos necesarios a fin de que emitan su opinión.
 
-III. Las demás que le señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+###### Artículo 232.
 
-APARTADO DECIMO
+La designación de peritos hecha por el tribunal o por el Ministerio Público recaerá en las personas que desempeñen ese empleo por nombramiento oficial.
 
-De la Secretaría de Obras Públicas
+Si no hubiere peritos oficiales titulares, se nombrará de entre los profesores del ramo correspondiente en las escuelas oficiales o bien de entre los servidores públicos o empleados de carácter técnico en establecimientos o corporaciones dependientes del Gobierno.
 
-###### ARTICULO 104.
+###### Artículo 233.
 
-Corresponde a la Secretaría de Obras Públicas:
+Si no hubiere peritos de los mencionados en el artículo anterior y el tribunal o el Ministerio Público lo estiman conveniente, podrán nombrar otros. En estos casos los honorarios se cubrirán según pago acostumbrado en establecimientos particulares del ramo de que se trate a los empleados permanentes de los mismos, tomando en cuenta el tiempo ocupado por los peritos en el desempeño de su comisión.
 
-I. Ejecutar el Programa Municipal de Obra Pública, de acuerdo a los lineamientos, directrices y prioridades que le señale el C. Presidente Municipal;
+###### Artículo 234.
 
-II. Realizar directamente o a través de terceros, las obras públicas del Municipio, formulando los estudios, proyectos y presupuestos correspondientes, así como las obras relativas al alumbrado público y electrificación;
+Los peritos al aceptar el cargo, a excepción de los oficiales titulares, tienen la obligación de protestar su fiel desempeño ante el servidor público encargado de practicar las diligencias.
 
-III. Realizar e inspeccionar los trabajos de mantenimiento o conservación de las obras públicas y de alumbrado público municipales;
+En casos urgentes la protesta la rendirán al producir o ratificar su dictamen.
 
-IV. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas del Municipio;
+###### Artículo 235.
 
-V. Asesorar técnicamente a los Comités Vecinales que lo requieran, en lo concerniente a la realización de obras públicas municipales;
+El servidor público responsable de la práctica de las diligencias fijará a los peritos el término dentro del cual deban cumplir su cometido. Si transcurrido dicho término no rinden su dictamen o si legalmente citados y aceptado el cargo no concurren a desempeñarlo, se hará uso de alguno de los medios de apremio.
 
-VI. Supervisar y controlar las actividades de las diferentes áreas que integran esta Secretaría;
+Si a pesar de haber sido apremiado, el perito no cumple con las obligaciones impuestas, se dará vista al Ministerio Público para el ejercicio de sus funciones.
 
-VII. Expedir las convocatorias y bases a que deben ajustarse los concursos de obra pública que se celebren en el ámbito municipal, así como vigilar la estricta aplicación de las disposiciones legales vigentes en la materia; y
+###### Artículo 236.
 
-VIII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+Cuando el lesionado se hallare en algún hospital público, los médicos oficiales se tendrán por designados como peritos, sin perjuicio de que el servidor público que practique las diligencias nombre a otros, si lo creyere conveniente, para dictaminar y hacer la clasificación legal.
 
-APARTADO DECIMO PRIMERO
+###### Artículo 237.
 
-De la Secretaría de Administración
+La necrocirugía de los fallecidos en un hospital público la practicarán los médicos oficiales, sin perjuicio de la facultad contenida en la parte final del artículo anterior.
 
-###### ARTICULO 105.
+###### Artículo 238.
 
-Corresponde a la Secretaría de Administración Municipal, lo siguiente:
+Cuando el servidor público a cargo de las diligencias lo estime conveniente, asistirá al reconocimiento u operaciones que efectúen los peritos. Asimismo, podrá hacerles todas las preguntas que considere oportunas y les dará por escrito o verbalmente los datos que tuviere y hará constar estos hechos en el acta respectiva.
 
-I. Planear, programar, coordinar y dirigir las actividades que tienen por objeto el reclutamiento, la contratación, las remociones, las renuncias, las licencias, las jubilaciones, la capacitación, el desarrollo y el control del personal de la Presidencia Municipal;
+###### Artículo 239.
 
-II. Adquirir, administrar y abastecer los recursos materiales necesarios para el desarrollo de sus funciones, a las Dependencias o Unidades Administrativas de la Presidencia;
+Los peritos practicarán todas las operaciones y experimentos que su ciencia o arte les sugieran y expresarán los hechos y circunstancias que fundamenten su opinión.
 
-III. Dirigir las acciones que tiendan a proporcionar a las dependencias de la Presidencia Municipal, los elementos de trabajo necesarios para el desarrollo de sus funciones;
+###### Artículo 240.
 
-IV. Presidir el Comité Municipal de Adquisiciones;
+Los peritos emitirán su dictamen por escrito y lo ratificarán en diligencia especial. Los que sean oficiales no necesitarán ratificarlo, salvo que el servidor público lo estime necesario.
 
-V. Administrar y controlar los bienes patrimoniales de la Presidencia Municipal;
+###### Artículo 241.
 
-VI. Encargarse del resguardo de los documentos de la administración municipal, a través de la organización y Dirección del Archivo General Municipal;
+Cuando las opiniones de los peritos discordaren, el servidor público los citará a una junta donde discutirán los puntos de diferencia, haciéndose constar en el acta el resultado de la discusión.
 
-VII. Implementar políticas, lineamientos y desarrollar programas para el mejor aprovechamiento de edificios e instalaciones, vehículos, combustibles y todo lo relacionado con su uso, control y mantenimiento;
+Si los peritos no se ponen de acuerdo se nombrará un perito tercero en discordia.
 
-VIII. Mantener el correcto desarrollo de las relaciones con los trabajadores del Municipio, y la vigilancia del cumplimiento del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado, sus Municipios y Organos Descentralizados;
+###### Artículo 242.
 
-IX. Intervenir en la elaboración de presupuestos de las Dependencias municipales y en la adquisición de bienes y servicios, dando seguimiento para el control de los mismos;
+Cuando el peritaje recaiga sobre objetos que se consuman al ser analizados, no se permitirá que se efectúe el primer análisis sobre más de la mitad de la sustancia, a no ser que su cantidad sea tan escasa que los peritos no puedan emitir su opinión sin consumirla por completo. Tal circunstancia se hará constar en el acta respectiva. En este último caso, se procurará que todos los peritos concurran simultáneamente al análisis.
 
-X. Presidir el Comité del Servicio Civil de Carrera;
+###### Artículo 243.
 
-XI. Desarrollar y establecer los planes, programas y proyectos necesarios para la adecuada seguridad e higiene de todas las áreas de trabajo;
+Cuando el servidor público que practique las diligencias lo crea conveniente, podrá ordenar que asistan peritos a ellas.
 
-XII. Establecer las normas, criterios y procedimientos que deberán observar las dependencias de la administración municipal en materia de simplificación y modernización administrativa y asesorarles para optimizar el funcionamiento interno y mejorar el servicio al público;
+###### Artículo 244.
 
-XIII. Analizar, diseñar y adecuar la estructura orgánica municipal garantizando el correcto funcionamiento y administración de las diferentes dependencias de la Presidencia;
+Cuando se niegue o ponga en duda la autenticidad de un documento podrá pedirse y decretarse el cotejo de letras o firmas, que se practicará conforme a las siguientes reglas:
 
-XIV. Definir y establecer los mecanismos de planeación, coordinación, programación, información, control, evaluación y mejoramiento de la eficacia y eficiencia administrativa y operativa de las dependencias y entidades de la administración pública municipal;
+I. El cotejo se hará por peritos, pudiendo asistir a la diligencia respectiva el servidor público que esté practicando la investigación y en ese caso se levantará el acta correspondiente; y
 
-XV. Elaborar y mantener actualizados los manuales de organización, de procedimientos y el directorio de trámites y servicios públicos de la administración municipal;
+II. El cotejo se hará con documentos indubitables o con los que las partes de común acuerdo reconozcan como tales, con aquellos cuya letra o firma haya sido reconocida judicialmente o con el escrito impugnado en la parte que reconozca la letra como suya aquel a quien perjudique.
 
-XVI. Apoyar y participar en los proyectos de reorganización que formulen las dependencias y entidades de la administración pública municipal;
+El juez podrá ordenar que se repita el cotejo por otros peritos.
 
-XVII. Definir y establecer mecanismos y/o metodología que fomenten en el servidor público una cultura de mejoramiento continuo; y
+###### Artículo 245.
 
-XVIII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+Si fuere necesario examinar a personas que hayan presenciado o tengan datos informativos para el esclarecimiento del delito, de sus características o de las circunstancias particulares del indiciado, lo harán el Ministerio Público o el juez, en su caso.
 
-APARTADO DECIMO SEGUNDO
+###### Artículo 246.
 
-De la Secretaría de Desarrollo Social
+En el período de instrucción, el juez o tribunal no podrá dejar de examinar a los testigos presentes, cuya declaración soliciten el Ministerio Público, el inculpado y su defensor, o el ofendido o su representante legal a través del Ministerio Público, conforme a lo dispuesto en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
 
-###### ARTICULO 106.
+###### Artículo 247.
 
-Corresponde a la Secretaría de Desarrollo Social, lo siguiente:
+También se mandará examinar a los testigos ausentes, sin que esto entorpezca la marcha de la instrucción ni la facultad del tribunal de darla por concluida cuando haya reunido los elementos suficientes para tomar dicha determinación.
 
-I. Promover la concertación de acuerdos de carácter social, político y económico entre el Municipio y grupos sociales;
+###### Artículo 248.
 
-II. Fomentar la participación social para la concertación de intereses, esfuerzos y voluntades para lograr el desarrollo integral de la comunidad;
+No se obligará a declarar al tutor, curador, pupilo o cónyuge del inculpado, ni a sus parientes por consanguinidad o afinidad en la línea recta ascendente o descendente sin limitación de grados y en la colateral hasta el cuarto grado inclusive, ni a los que estén ligados con el inculpado por amor, respeto, cariño o estrecha amistad, pero si estas personas tuvieren voluntad de hacerlo, se hará constar tal circunstancia y se recibirá su declaración.
 
-III. Promover y apoyar la participación ciudadana, para lograr un mejoramiento de las condiciones de vida a través de las obras y servicios públicos que proporciona el Municipio;
+###### Artículo 249.
 
-IV. Recibir y canalizar las iniciativas de la población tendientes a satisfacer sus necesidades, así como inducir su colaboración en la realización de obras y la prestación de los servicios públicos municipales;
+No puede oponerse tacha a los testigos, pero de oficio o a petición de parte el juez hará constar en autos todas las circunstancias que influyan en el valor probatorio de los testimonios.
 
-V. Elaborar, supervisar, evaluar y actualizar los planes y programas de Desarrollo Social Municipal;
+###### Artículo 250.
 
-VI. Diseñar y aplicar procedimientos técnico administrativos en la realización de los programas de inversión municipales que tengan por fundamento el presupuesto por programas y observar lo dispuesto en los programas de transferencias de recursos federales y estatales;
+El juez dará a conocer a los testigos, antes de rendir su declaración, las penas aplicables a quienes se producen con falsedad o se niegan a declarar.
 
-VII. Participar en el Consejo de Desarrollo Municipal como Secretario Técnico;
+A los menores de dieciséis años no se les hará esa advertencia y por lo mismo quedan relevados de otorgar la protesta de conducirse con verdad, pero se les exhortará para hacerlo.
 
-VIII. Coordinar la prestación de los servicios de educación, cultura, deporte y recreación que la Presidencia Municipal proporciona a la ciudadanía;
+###### Artículo 251.
 
-IX. El fomento al empleo e impulso a la actividad económica en el comercio y los servicios, para el logro del bienestar social, del Municipio de Aguascalientes, que permita la participación de la juventud, de las mujeres y las personas con capacidades diferentes;
+En el examen de los testigos se observarán las siguientes reglas:
 
-X. Promover el autoempleo y el fortalecimiento de las micro y pequeñas empresas en el comercio y los servicios;
+I. Serán examinados separadamente, tomando las providencias necesarias, para que no se comuniquen entre sí;
 
-XI. Promover proyectos productivos en el área rural;
+II. Cuando el testigo sea ciego, sordo, mudo o ignore el idioma español, el juzgador nombrará intérprete conforme a lo dispuesto en este Código;
 
-XII. Impulsar la comercialización directa de productos y servicios en las zonas urbanas y rurales más desprotegidas;
+III. Después de tomarles la protesta de decir verdad o de hacerles la exhortación correspondiente, se les preguntará su nombre, apellidos, edad, lugar de origen, domicilio, estado civil, profesión u ocupación, si está ligado con el inculpado o el ofendido por vínculos de parentesco o cualquier otro y si tiene algún motivo de odio o rencor contra alguno de ellos. Las respuestas se harán constar en el acta de la diligencia;
 
-XIII. Coadyuvar, fomentar y promover, en los términos de las leyes y reglamentos de la materia la ejecución de políticas y programas del Municipio de Aguascalientes en lo referente a la actividad económica, que permita más empleo y el desarrollo del comercio y los servicios;
+IV. Los testigos declararán de viva voz, sin que les sea permitido leer respuestas que tengan escritas, pero podrán consultar notas o documentos que lleven consigo, cuando esto sea pertinente, según la naturaleza del asunto y a juicio de quien practique la diligencia;
 
-XIV. Formular, evaluar e implementar proyectos de unidades generadoras de ingresos para los habitantes del Municipio de Aguascalientes;
+V. Podrán interrogar al testigo las partes, el ofendido o su representante legal por conducto del Ministerio Público, pero el juez o tribunal podrá disponer que los interrogatorios se hagan por su conducto, cuando así lo estime necesario, con facultad de desechar las preguntas que a su juicio sean capciosas o inconducentes y de interrogar directamente al testigo;
 
-XV. Establecer una coordinación con el ramo empresarial en los sectores del comercio y los servicios;
+VI. Las preguntas formuladas guardarán relación con los hechos investigados;
 
-XVI. Aprovechar la infraestructura comercial subutilizada, con el propósito de fomentar el empleo, el abasto para el logro de la economía familiar;
+VII. Los testigos darán la razón de su dicho, la cual constará en el acta de la diligencia;
 
-XVII. Fomentar la generación y promoción de programas tendientes a la creación de fuentes de trabajo y mantenimiento de las ya existente a través de la micro y pequeña empresa;
+VIII. Las declaraciones se redactarán con claridad, usando hasta donde sea posible las mismas palabras que utilizó el testigo. Éste, si lo prefiere, dictará o escribirá su declaración;
 
-XVIII. Coordinar, organizar y promover las acciones necesarias para lograr un mejor aprovechamiento de los recursos federales, estatales y municipales;
+IX. Si la declaración se refiere a algún objeto puesto en depósito, después de interrogar al testigo sobre las señales que lo caractericen e identifiquen, se le pondrá a la vista para que lo reconozca y firme sobre él, si esto es posible; y
 
-XIX. Ampliar los convenios en los términos de las leyes con el Estado y la Federación;
+X. Si la declaración es relativa a un hecho susceptible de dejar vestigios permanentes en algún lugar, el testigo podrá ser conducido a él para que dé las explicaciones pertinentes.
 
-XX. Promover la vinculación con las instituciones de educación superior para el fortalecimiento de la actividad económica del Municipio;
+###### Artículo 252.
 
-XXI. Promover la infraestructura, así como la creación de nuevas empresas en las zonas rurales;
+Cuando se examine a una persona cuya declaración sea sospechosa de falta de veracidad, esto se hará constar en el acta de la diligencia, expresando el porqué de esa presunción.
 
-XXII. Fortalecer la relación con la Dirección de Mercados;
+###### Artículo 253.
 
-XXIII. Promover el programa restaura a mercados municipales;
+Concluida la diligencia se leerá al testigo su declaración o lo hará él mismo si así lo prefiere, para que la ratifique o enmiende y, después de esto, la firmará o si no sabe hacerlo estampará la huella dactilar de alguno de sus dedos pulgares. Asimismo, lo hará su acompañante si lo hubiere.
 
-XXIV. Brindar consultas y capacitación en materia empresarial;
+###### Artículo 254.
 
-XXV. Promover y difundir las actividades artesanales, maquilas de mano de obra, así como la comercialización de productos propios del Municipio;
+Si de lo actuado apareciere que algún testigo se ha producido con falsedad, se compulsarán las constancias conducentes para la investigación de ese delito y se dará vista al Ministerio Público, sin que esto sea motivo para suspender el procedimiento. Si al momento de rendir su declaración es evidente la comisión del delito de falsedad, será detenido y puesto a disposición del Ministerio Público.
 
-XXVI. Organizar, participar y patrocinar exposiciones, eventos y ferias, que coadyuven al desarrollo empresarial, comercial y al fomento del empleo;
+###### Artículo 255.
 
-XXVII. Fomentar la capacitación y asistencia técnica integral en las micro y pequeñas empresas;
+Cuando tuviere que ausentarse del lugar donde se practican las diligencias alguna persona que pueda declarar acerca del delito, de sus circunstancias o de la persona del inculpado, el juez o tribunal, a solicitud de cualquiera de las partes, la examinará si fuere posible; en caso contrario, podrá arraigar al testigo por el tiempo estrictamente indispensable para que rinda su declaración.
 
-XXVIII. Apoyar a las micro y pequeñas empresas en las gestiones para la obtención de servicios, insumos, financiamientos y demás elementos necesarios para el desarrollo de sus actividades;
+###### Artículo 256.
 
-XXIX. Fomentar e impulsar las actividades turísticas en el municipio de conformidad con las Leyes Federales y Estatales en la materia; y
+Cuando se tenga que examinar como testigos a los servidores públicos que gocen de fuero, el juez solicitará su declaración por escrito.
 
-XXX. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+###### Artículo 257.
 
-APARTADO DECIMO TERCERO
+Además de los señalados en la Constitución Política de los Estados Unidos Mexicanos, los careos procesales se practicarán cuando exista contradicción en las declaraciones de dos personas, pudiendo repetirse cuando el juez o tribunal lo estime oportuno o cuando surjan nuevos puntos de contradicción.
 
-De la Secretaría de Desarrollo Urbano
+###### Artículo 258.
 
-###### ARTICULO 107.
+El careo procesal se practicará bajo la supervisión personal del juez o tribunal. Sólo concurrirán a la diligencia las personas que deban carearse, las partes y los intérpretes si fuere necesario, pudiendo estar presentes el coadyuvante o el representante legal.
 
-Corresponde a la Secretaría de Desarrollo Urbano:
+El careo principiará con la lectura de las declaraciones consideradas contradictorias, llamando la atención a los careados sobre sus contradicciones, a fin de que discutan entre sí y pueda aclararse la verdad.
 
-I. Participar en la elaboración de los proyectos de reglamentación de zonificación y usos del suelo, de construcciones y de protección al ambiente;
+###### Artículo 259.
 
-II. Ejercer las atribuciones que le otorga el Código Urbano al Municipio, en cuanto a la creación de condominios, creación de fraccionamientos y su municipalización, así como el control del cumplimiento de las obligaciones de los fraccionadores y promoventes de los condominios;
+Cuando por cualquier motivo no pudiera obtenerse la comparecencia de alguno de los que deben ser careados, se practicará careo supletorio, leyéndose al presente la declaración del otro y haciéndole notar las contradicciones que hubiere entre aquélla y lo declarado por él.
 
-III. Coordinar la participación del Comité de Desarrollo Urbano y Rural en cuanto a las atribuciones que le otorga el Código Urbano para el Estado de Aguascalientes, así como del Comité Técnico de Municipalización.
+Si quienes deban carearse estuvieren fuera de la jurisdicción del juez o tribunal, se librará el exhorto correspondiente.
 
-IV. Administrar el control urbano con el otorgamiento de las siguientes autorizaciones:
+###### Artículo 260.
 
-a) Alineamiento y Compatibilidad Urbanística;
+Tienen la calidad de públicos o de privados, los documentos considerados como tales en el Código de Procedimientos Civiles o en otras leyes vigentes en el Estado.
 
-b) Anuncios;
+###### Artículo 261.
 
-c) Fusión de Predios;
+El juez o tribunal recibirá las pruebas documentales que las partes presenten durante la instrucción y las agregará al expediente, asentando razón en autos.
 
-d) Subdivisión de Predios;
+###### Artículo 262.
 
-e) Relotificación de Predios;
+Cuando alguna de las partes pidiere copia o testimonio de un documento que obre en archivos de dependencias u organismos públicos, el tribunal ordenará a la autoridad correspondiente que le expida y remita copia oficial de dicho documento. Con la solicitud presentada por una de las partes, se dará vista a la otra para que, dentro de tres días, pida a su vez se adicionen las constancias que crea conveniente del mismo asunto. En todo caso, el tribunal resolverá de plano si son procedentes las peticiones que las partes formulen.
 
-f) Licencias para la construcción, reparación, remodelación y demolición de fincas;
+###### Artículo 263.
 
-g) Realización de obras, instalaciones y reparaciones en la vía pública;
+Los documentos que se encuentren fuera de la jurisdicción del tribunal donde se sigue el procedimiento, se compulsarán a virtud de exhorto dirigido al del lugar en donde se hallen.
 
-h) Números oficiales para las fincas.
+###### Artículo 264.
 
-V. Determinar el tipo de construcciones que se puedan edificar en el municipio;
+Los documentos privados y la correspondencia procedentes de uno de los interesados, que presente otro, se reconocerán por aquél. Para tal efecto, se le mostrarán los originales y se le dejará ver todo el documento.
 
-VI. Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y uso de la vía pública;
+###### Artículo 265.
 
-VII. Coordinar la Comisión de Admisión de Peritos, llevar el registro de los peritos, así como asignar peritajes por servicio social en los casos que prevé éste Código;
+Cuando el titular del Ministerio Público estime que pueden hallarse pruebas del delito que motiva la instrucción en la correspondencia que se dirija al inculpado, solicitará al juez federal la intervención de la misma. Obtenida ésta, se abrirá ante la fe del secretario respectivo, del Ministerio Público y del inculpado si se encuentra en el lugar; si tiene relación, se mandará agregar al expediente.
 
-VIII. Inspeccionar obras, edificios y construcciones en general;
+El juez leerá para sí la correspondencia y, si no tuviere relación con el hecho investigado, la devolverá al inculpado o persona de su familia designada por éste, si no se hallare presente. Si tuviere relación, le comunicará su contenido y la mandará agregar al expediente.
 
-IX. Verificar el uso que se está dando a un predio, edificio o construcción, y que éste se ajuste a las características previamente registradas;
+###### Artículo 266.
 
-X. Acordar las medidas que fueren procedentes en relación con las edificaciones peligrosas, que generen insalubridad o causen molestias;
+Concedida por la autoridad judicial federal la autorización de intervención, el juzgador podrá solicitar a cualquier oficina telegráfica la entrega de copias autorizadas de los telegramas por ella transmitidos o recibidos, si esto pudiere contribuir a esclarecer los hechos. Igualmente solicitará a las compañías telefónicas los listados de llamadas que estime necesarios para el esclarecimiento de los hechos.
 
-XI. Ordenar la suspensión temporal o la clausura de obras en ejecución o terminadas, así como la desocupación de los inmuebles en los casos previstos en este Código;
+###### Artículo 267.
 
-XII. Aplicar medidas de seguridad en inmuebles, en los casos previstos en este Código;
+El auto que se dicte en los casos de los tres artículos precedentes, expresará con exactitud el nombre del destinatario cuya correspondencia deba ser recogida o el número de teléfono al que corresponda el listado que se solicite, así como el período relativo.
 
-XIII. Ordenar y ejecutar demoliciones en inmuebles en los casos previstos por este Código;
+###### Artículo 268.
 
-XIV. Autorizar la ocupación de una construcción siempre que se hayan cumplido los requisitos de este Código, o en caso contrario negarla;
+Si a solicitud de parte la autoridad jurisdiccional manda obtener testimonio de documentos privados existentes en los libros, cuadernos o archivos de comerciantes, industriales o de cualquier otro particular, quien pida la compulsa indicará la constancia que requiere y aquélla ordenará la exhibición de los documentos para su inspección en lo conducente.
 
-XV. Imponer sanciones a las que se hagan acreedores los infractores;
+En caso de resistencia del tenedor del documento, el juez o tribunal, oyendo a aquél y a las partes presentes, resolverá de plano si debe hacerse la exhibición, precisando las medidas de apremio que se tomarán en caso de contumacia.
 
-XVI. Solicitar el auxilio de la fuerza pública, cuando fuere necesario para hacer cumplir sus determinaciones;
+###### Artículo 269.
 
-XVII. Expedir normas técnicas complementarias para el debido cumplimiento en lo relativo a las construcciones;
+Los documentos redactados en idioma extranjero se presentarán originales, acompañados de su traducción al español. Si ésta fuera objetada, se ordenará que sean traducidos por los peritos que designe el juez o tribunal.
 
-XVIII. Determinar los requisitos y procedimientos para la asignación, forma de instalación, rectificación y cambio de nomenclatura de fraccionamientos, vialidades, parques, jardines, plazas, sitios y monumentos históricos y todo aquel lugar factible de otorgársele denominación;
+###### Artículo 270.
 
-XIX. Ejercer las atribuciones que otorga al Municipio el Código Urbano, en cuanto al desarrollo urbano y asentamientos humanos;
+Toda persona que tuviere que referirse a otra lo hará de un modo claro y preciso, mencionando, si le fuere posible, el nombre, apellidos, domicilio y demás circunstancias que puedan servir para identificarla.
 
-XX. Proponer las obras y servicios Públicos que sean necesarios para el desarrollo urbano;
+###### Artículo 271.
 
-XXI. Proveer los elementos para la exacta observancia de la planeación urbana;
+Cuando el que declare no pueda dar noticia exacta de la persona a quien se refiera, pero exprese que podrá reconocerla si se le presenta, el Ministerio Público procederá a la identificación y el tribunal a la confrontación (sic) justificar.
 
-XXII. Establecer una adecuada coordinación con las Dependencias y Organismos del Gobierno Federal y Estatal, que realicen acciones de desarrollo urbano y vivienda;
+Lo mismo se hará cuando el que declare asegure conocer a una persona y haya motivos para sospechar lo contrario o cuando lo solicite el inculpado o su defensor.
 
-XXIII. Realizar el procedimiento a que hace referencia el artículo 1247 del presente Código; y
+###### Artículo 272.
 
-XXIV. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+Al practicar esta prueba se cuidará que:
 
-APARTADO DECIMO CUARTO
+I. La persona que va a ser objeto de aquélla no se disfrace, desfigure ni borre huellas o señales que puedan servir a quien debe señalarla;
 
-De la Secretaría de Servicios Públicos y Ecología
+II. Quien deba ser identificado o confrontado se presente acompañado de otras personas vestidos con ropas semejantes, si esto es posible;
 
-###### ARTICULO 108.
+III. Las personas que lo acompañen sean de clase similar, atendiendo a sus modales, educación y circunstancias específicas; y
 
-Corresponde a la Secretaría de Servicios Públicos y Ecología lo siguiente:
+IV. Se numere de manera visible, para efectos de identificación, a las personas mencionadas en las fracciones II y III de este artículo.
 
-I. La prestación por sí o por conducto de terceras personas a través de concesiones, los servicios de rastro municipal, control de rabia y de población canina, limpia y aseo público, panteones, parques y jardines. En cuanto al control de rabia y de población canina, el servicio no puede concesionarse;
+Si alguna de las partes solicita que se tomen mayores precauciones que las aquí señaladas, el juez o tribunal podrá acordarlas.
 
-II. Vigilar que los servicios que proporciona el rastro a los usuarios se hagan en condiciones que garanticen la higiene en el sacrificio y transportación de los productos cárnicos;
+###### Artículo 273.
 
-III. Regular la introducción de ganado y el abastecimiento de carne para el consumo humano;
+El que deba ser identificado o confrontado podrá elegir el sitio en que quiera colocarse en relación a los que lo acompañan y pedir que se excluya del grupo a cualquiera de ellos que le parezca sospechoso. El juez o tribunal podrá limitar prudentemente este derecho cuando lo considere malicioso.
 
-IV. Impedir la comercialización de productos cárnicos que no hayan sido previamente inspeccionados en cuanto a sus condiciones sanitarias o no hayan cubierto los impuestos y/o derechos municipales;
+###### Artículo 274.
 
-V. Determinar el destino de las carnes no apropiadas para el consumo de la población de acuerdo a la Ley General de Salud;
+En la diligencia se procederá colocando en una fila a la persona que deba ser identificada o confrontada y a las que hayan de acompañarla y se interrogará al declarante sobre:
 
-VI. Promover, fortalecer y apoyar las acciones en materia de salubridad local y regulación sanitaria, ejerciendo las atribuciones que correspondan al Municipio y en base a los acuerdos y políticas estatales y federales para esta cuestión;
+I. Si persiste en su declaración y señalamiento anteriores;
 
-VII. Vigilar de acuerdo a su competencia, el cumplimiento de la Ley Estatal de Salud y las disposiciones legales que correspondan, coordinándose con las autoridades estatales y federales en materia de salud, a efecto de instrumentar y desarrollar programas que mejoren los niveles de salud en el Municipio;
+II. Si conocía con anterioridad a la persona a quien atribuye el hecho si la conoció en el momento de ejecutarlo; y
 
-VIII. Supervisar el correcto funcionamiento y prestación del servicio público de los mercados y áreas comerciales;
+III. Si después de la ejecución del hecho la ha visto, dónde, por qué motivo y con qué objeto.
 
-IX. Ejercer las atribuciones que le correspondan al municipio en materia de regulación, control ambiental y ecología de acuerdo a la ley;
+Se le llevará frente a las personas que formen el grupo, se le permitirá mirarlas detenidamente y se le prevendrá que indique el número de la que se trate, manifestando las diferencias o semejanzas apreciables entre el estado actual y el de la época referida en su declaración.
 
-X. Verificar y ejercer el control sobre desechos líquidos o sólidos que pudieran contaminar el medio ambiente;
+###### Artículo 275.
 
-XI. Regular y vigilar la emisión de ruidos que afecten el medio ambiente así como la salud de las personas;
+Cuando por la pluralidad de la personas se hagan necesarias la práctica de varias diligencias, éstas se llevarán a cabo en actos separados.
 
-XII. Participar en la creación y administración de reservas ecológicas;
+###### Artículo 276.
 
-XIII. Ejercer las atribuciones que le corresponde al Municipio de la Regulación Sanitaria en materia de salud local, a través del Secretario de Servicios Públicos y Ecología, el Director de Ecología y Salud y el Jefe del Departamento de Sanidad, con base en los acuerdos de descentralización que se hayan celebrado con el Ejecutivo Estatal; y
+La prueba presuncional o circunstancial se integra por el conjunto de las desahogadas en el proceso, o por las consecuencias que la ley o el juez deducen de un hecho conocido para llegar a su verdad histórica.
 
-XIV. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+###### Artículo 277.
 
-APARTADO DECIMO QUINTO
+Las pruebas rendidas serán valoradas en su conjunto por el juzgador conforme a su prudente arbitrio. Los tribunales expondrán en sus resoluciones, invariablemente, los razonamientos que hayan tenido en cuenta para hacer la valoración jurídica de las pruebas.
 
-Del Comité de Adquisiciones
+Sin perjuicio de las disposiciones generales o especiales contenidas en este Código, en la valoración de las pruebas el órgano jurisdiccional atenderá las reglas siguientes:
 
-###### ARTICULO 109.
+I. La confesión por sí sola no será suficiente para comprobar el cuerpo del delito y la probable o plena responsabilidad del inculpado. Para tener valor probatorio pleno, estará corroborada por otras pruebas admitidas y desahogadas conforme a la ley y satisfará los siguientes requisitos:
 
-El Comité de Adquisiciones, regirá las adquisiciones de bienes muebles y servicios, cuyo monto sea superior a tres mil veces el salario mínimo general vigente en Aguascalientes, buscando la racionalización y transparencia en el gasto público.
+a) Que quien la hizo sea persona mayor de dieciséis años cumplidos, en pleno uso de sus facultades mentales para entender la naturaleza de la causa que se le instruye;
 
-Las adquisiciones de bienes muebles y servicios cuyo monto sea inferior a tres mil veces el salario mínimo general vigente en Aguascalientes se realizarán por la Dirección de Recursos Materiales de la Secretaría de Administración Municipal, a través del procedimiento de compra directa, cuyas políticas y lineamientos se establecen en el Sistema de Compras correspondiente, el cual ha de ser analizado, evaluado y autorizado en primera instancia por el Comité, y posteriormente por el H. Cabildo.
+b) Que sea de hechos propios y en su contra, rendida con las debidas formalidades legales ante el Ministerio Público durante la investigación ministerial o ratificada o producida directamente ante el juez de la causa, con la presencia de su defensor;
 
-Lo dispuesto en el presente capítulo, no será aplicable a los contratos que se celebren con otras dependencias de gobierno incluyendo los organismos descentralizados y desconcentrados, municipales, estatales y federales.
+c) Que se hubiere rendido sin existir incomunicación, intimidación, tortura o cualquier otro medio de coacción física o moral; y
 
-###### ARTICULO 110.
+d) Que no existan datos que la hagan inverosímil a juicio del juez o tribunal.
 
-El Comité de Adquisiciones será integrado de la siguiente manera:
+II. Los documentos públicos harán prueba plena, salvo el derecho de las partes para redargüirlos de falsos y para pedir su cotejo con los protocolos o con los originales que existan en los archivos correspondientes;
 
-I. El Presidente Municipal;
+III. Los documentos privados sólo harán prueba contra su autor cuando los hubiere reconocido o no los hubiere objetado. Los que procedan de un tercero serán estimados como presunciones y, si están corroborados por testigos, se considerarán como prueba testimonial;
 
-II. El Regidor de Hacienda;
+IV. Los jueces apreciarán los dictámenes periciales según las circunstancias del caso;
 
-III. El Síndico de Hacienda;
+V. Tratándose de lesiones, para su clasificación legal, el juez o tribunal valorará los dictámenes periciales practicados;
 
-IV. El Secretario de Finanzas;
+VI. La inspección y el resultado de los cateos harán prueba plena si se practicaron con las formalidades legales; y
 
-V. El Secretario de Administración, quien fungirá como Secretario Ejecutivo;
+VII. Para valorar la declaración del testigo se tomará en cuenta lo siguiente:
 
-VI. El Contralor Municipal;
+a) Su edad, capacidad e instrucción para deducir que tiene el criterio necesario para juzgar el acto;
 
-VII. Un representante de la Cámara Nacional de Comercio;
+b) Su probidad, independencia de su posición y antecedentes personales que aseguren su imparcialidad;
 
-VIII. Un representante de la Cámara Nacional de la Industria de la Transformación; y
+c) Que el hecho sobre el cual testifica sea susceptible de conocerse por medio de los sentidos;
 
-IX. Cada uno de los integrantes nombrará a un suplente, hecha excepción del Síndico de Hacienda.
+d) La claridad y precisión de la declaración sobre la naturaleza del hecho y sus circunstancias; y
 
-###### ARTICULO 111.
+e) Que el testigo actúe por su propia voluntad, libre de coacción, miedo, engaño, error o soborno. El apremio judicial no se reputará como acción coactiva o de fuerza.
 
-Dentro de los 60 días de iniciada cada Administración Municipal, el Presidente Municipal, proveerá a la integración de este Comité.
+###### Artículo 278.
 
-###### ARTICULO 112.
+El juez o tribunal reconocerá el valor de las pruebas aportadas a la investigación ministerial, si se practicaron con apego a este Código y no fueron desvirtuadas por otras desahogadas en el período de instrucción. En este último caso, manifestará las razones para negar valor a una prueba admitida en la investigación mencionada y que el Ministerio Público consideró apta para sustentar el ejercicio de la acción penal.
 
-El Comité funcionará bajo la dirección del Secretario Ejecutivo y para sesionar se requiere la presencia de la mayoría de los integrantes del mismo.
+###### Artículo 279.
 
-###### ARTICULO 113.
+El procedimiento sumario se tramitará de la manera siguiente:
 
-Todos los integrantes del Comité tendrán voz y voto en las decisiones del mismo, a excepción del Contralor Municipal quien únicamente tendrá voz.
+I. Al dictarse el auto de formal prisión o de sujeción a proceso el juez, de oficio, resolverá la apertura del procedimiento en los casos de delitos cuya pena privativa de libertad no exceda de dos años de prisión, sea o no alternativa, procurando cerrar la instrucción en el término de quince días y citando para la audiencia a que se refiere el artículo 296;
 
-###### ARTICULO 114.
+II. Al dictarse el auto de formal prisión o de sujeción a proceso el juez, de oficio, resolverá la apertura del procedimiento en los casos de delitos cuya pena privativa de libertad exceda de dos años de prisión, sea o no alternativa, procurando cerrar la instrucción en el término de treinta días, cuando se esté en cualquiera de los casos siguientes:
 
-El Comité de Adquisiciones, sesionará cuantas veces sea necesario, previa convocatoria por escrito, con anticipación de 24 horas, que formule el Secretario Ejecutivo del mismo, debiéndose señalar el Orden del Día, a que se sujetará la sesión.
+a) Se trate de delito flagrante;
 
-###### ARTICULO 115.
+b) Exista confesión ante la autoridad judicial o ratificación ante ésta de la que se rindió en la investigación ministerial, apoyada con otros medios de prueba como se establece en este Código; o
 
-Para que tengan validez las decisiones del Comité, será necesario el voto favorable de la mayoría de los integrantes del mismo; en caso de empate, el Presidente Municipal tendrá voto de calidad.
+c) El término medio aritmético de la pena de prisión aplicable no exceda de cinco años.
 
-###### ARTICULO 116.
+Una vez que el juzgador acuerde cerrar la instrucción citará para la audiencia a que se refiere el artículo 296; y
 
-Las sesiones del comité se realizarán en el lugar que se indique en la convocatoria, debiéndose levantar un acta por el Secretario del mismo, a la que se agregarán los documentos relacionados con las decisiones
+III. Dictado el auto de formal prisión o de sujeción a proceso, si las partes manifiestan su conformidad dentro de los tres días siguientes a la notificación y no tienen más pruebas que ofrecer, el juez citará a la audiencia a que se refiere el artículo 296, salvo que considere necesario practicar otras diligencias.
 
-tomadas.
+El inculpado podrá optar por el procedimiento ordinario dentro de los tres días siguientes al en que se le notifique la incoación del juicio sumario.
 
-###### ARTICULO 117.
+###### Artículo 280.
 
-En la primera sesión del Comité de Adquisiciones, se darán a conocer los nombres de las personas que fungirán como titulares y los suplentes designados por éstos.
+Si el auto de formal prisión se dicta a dos o más personas, únicamente se abrirá el procedimiento sumario si todos los procesados estuvieren de acuerdo con lo dispuesto en el artículo anterior.
 
-###### ARTICULO 118.
+###### Artículo 281.
 
-Son facultades del Comité de Adquisiciones, las siguientes:
+El acuerdo de apertura del procedimiento sumario se revocará para seguir el ordinario cuando así lo soliciten el inculpado o su defensor; en este último supuesto, será necesaria la ratificación de aquél dentro de los tres días siguientes a la notificación del auto relativo. De revocarse, se abrirán los términos del procedimiento ordinario previsto en el capítulo II de este Título.
 
-I. Seleccionar al proveedor de los bienes y servicios de cada adquisición, hecha a través del procedimiento de invitación o licitación pública;
+###### Artículo 282.
 
-II. Aplicar políticas, sistemas, procedimientos y normas que regulen las adquisiciones, las cuales deberán plasmarse, analizarse y aprobarse por todos los miembros del Comité;
+Acordada la apertura del juicio sumario, se concederá, para el período de ofrecimiento de pruebas, un término común de cinco días, prorrogable hasta por cinco más si el juez lo estima conveniente.
 
-III. Elaborar y aprobar el manual de integración y funcionamiento del Comité;
+###### Artículo 283.
 
-IV. Elaborar programas de adquisiciones, de acuerdo a los planes y programas Municipales; Solicitar a las Dependencias Usuarias, durante los primeros dos meses de cada año, el programa anual de adquisiciones con el fin de Planear, Organizar, Dirigir, Implementar, Controlar y Evaluar las adquisiciones consolidadas Municipales, y así procurar obtener economías a escala;
+Recibidas las pruebas o renunciado el término, el Ministerio Público y la defensa formularán sus conclusiones en un término improrrogable de tres días para cada uno.
 
-V. Integrar y conservar actualizado el Padrón de Proveedores;
+###### Artículo 284.
 
-VI. Expedir las convocatorias, de acuerdo a lo establecido en el presente Código, aprobando los plazos de los actos de las licitaciones públicas y concursos por invitación; y
+Recibidas las conclusiones el juez citará para la audiencia que se llevará a cabo dentro de tres días. Cumplido lo anterior, la sentencia se dictará dentro de un término de tres días.
 
-VII. Las demás que le asigne el H. Ayuntamiento y el Presidente Municipal.
+###### Artículo 285.
 
-###### ARTICULO 119.
+En los casos de lesiones, el juez o tribunal recabará los dictámenes periciales definitivos.
 
-Son obligaciones del Secretario Ejecutivo del Comité, las siguientes:
+El dictamen pericial se rendirá conforme a las reglas de este Código. Obtenidos los dictámenes y convocadas previamente las partes para que asistan si lo desean, se citará inmediatamente a los peritos para una audiencia en la que los ratifiquen y lleven a cabo la junta respectiva.
 
-I. Convocar a sesiones a los integrantes del Comité;
+Si no se pusieren de acuerdo, el juez nombrará un perito tercero en discordia, para que en un término no mayor al que se le otorgó a las partes rinda y ratifique su dictamen.
 
-II. Presidir el desarrollo de las sesiones del Comité;
+###### Artículo 286.
 
-III. Autorizar, conjuntamente con el Presidente Municipal, las adquisiciones urgentes;
+Las resoluciones en el juicio sumario a que se refiere la fracción I del artículo 279 únicamente admiten el recurso de apelación contra el auto de plazo constitucional y sentencia definitiva.
 
-IV. Rendir informe trimestral al Cabildo, respecto a la conclusión de los casos dictaminados, así como los resultados generales de las adquisiciones, arrendamientos y servicios; y
+###### Artículo 287.
 
-V. Las demás que le sean asignadas por el Cabildo, por el Presidente Municipal o por el Comité.
+Dictado el auto de plazo constitucional se ordenará poner el proceso a la vista de las partes para que en el término de quince días, contado a partir del siguiente al de la notificación del auto, ofrezcan las pruebas que a sus intereses convengan, las que se desahogarán dentro de sesenta días.
 
-###### ARTICULO 120.
+###### Artículo 288.
 
-Las adquisiciones de bienes y servicios, a que se refiere este Ordenamiento, podrán ser ordinarias y urgentes.
+Transcurridos los términos a que se refiere el artículo anterior o si no se promoviere prueba, el juez declarará cerrada la instrucción y abrirá el período de juicio.
 
-###### ARTICULO 121.
+###### Artículo 289.
 
-Son adquisiciones ordinarias las que en forma regular y periódica, se puedan proveer para las diversas Dependencias, de acuerdo a los programas previamente establecidos.
+Cerrada la instrucción en el procedimiento ordinario, se pondrá la causa a vista del Ministerio Público por diez días para que formule conclusiones por escrito. Si el expediente excediere de doscientas fojas, por cada cincuenta de exceso o fracción se aumentará un día al término señalado. El incumplimiento de esta disposición se hará del conocimiento del Procurador para que las formule en igual término.
 
-###### ARTICULO 122.
+###### Artículo 290.
 
-Son adquisiciones urgentes, aquéllas que no reúnan los requisitos señalados en el artículo anterior y que al no hacerlas con rapidez se corra en riesgo la suspensión de un servicio público o se demerite la calidad de éste.
+Al formular sus conclusiones, el Ministerio Público hará una exposición breve de los hechos y de las circunstancias peculiares del procesado, propondrá las cuestiones de derecho pertinentes a su juicio y citará las leyes, jurisprudencia o tesis jurisprudenciales, ejecutorias o doctrinas aplicables en apoyo de su determinación, en el sentido de haber lugar o no a formular acusación.
 
-###### ARTICULO 123.
+###### Artículo 291.
 
-Para que una cotización pueda ser discutida y en su caso aprobada por el Comité, debe cubrir los siguientes requisitos:
+Si el Ministerio Público determina que ha lugar a acusación, fijará en proposiciones concretas los hechos punibles que imputa al acusado, solicitará la aplicación de las sanciones correspondientes incluyendo la reparación del daño cuando sea procedente y citará las leyes aplicables al caso. Estas propuestas contendrán necesariamente y con la mayor precisión las constancias relativas que acrediten la existencia del delito, su modalidad debidamente razonada y los elementos conducentes para fincar la responsabilidad plena, así como las circunstancias atendibles para individualizar la pena o la medida de seguridad, ajustándose a lo dispuesto sobre este particular en el Código Penal para el Estado.
 
-I. Que no sea una compra efectuada fuera del procedimiento, esto es, que el usuario realice de mutuo propio y en forma directa la adquisición, y posteriormente solicite ante la Dirección de Recursos Materiales sólo el trámite administrativo para pago;
+###### Artículo 292.
 
-II. Que la solicitud de adquisición se formalice a través de una requisición de compras, y que esta sea registrada exclusivamente ante la Dirección de Recursos Materiales de la Secretaría de Administración;
+Si las conclusiones son de no acusación; las formuladas no comprenden algún delito que resulte probado durante la instrucción o se omite petición por cuanto a la reparación del daño; son contrarias a las constancias procesales o en ellas no se cumple con lo dispuesto en el artículo anterior, el juez las enviará con el expediente al Procurador General de Justicia, indicando con claridad el motivo del envío que, de ser procedente, dará lugar a la suspensión de uno a tres meses de quien las formuló, salvo el primer caso.
 
-III. Que sea cotizada por la Dirección de Recursos Materiales de la Secretaría de Administración, en apego al sistema de compras establecido y autorizado;
+La inobservancia del envío por parte del juzgador será sancionada con suspensión de uno a tres meses de su cargo.
 
-IV. Que la Dirección de Recursos Materiales entregue la documentación correspondiente al Secretario Ejecutivo del Comité, con anticipación a la sesión en la que se vaya a discutir;
+###### Artículo 293.
 
-V. Que el Secretario Ejecutivo del Comité, entregue un estado comparativo que ampare por lo menos tres cotizaciones, salvo el caso en el que no exista en la entidad igual número de proveedores, o se trate de artículos con precio controlado; y
+El Procurador General de Justicia oirá el parecer del Agente Auxiliar respectivo y, dentro de los quince días siguientes al de la fecha en que se haya recibido el expediente, resolverá si son de confirmarse, revocarse o modificarse las conclusiones.
 
-VI. Que las cotizaciones provengan de proveedores inscritos previamente en el Padrón Municipal, a excepción hecha de proveedores únicos o que la compra se requiera de inmediato, o cuando exista ventaja competitiva significativa en el precio o servicio.
+###### Artículo 294.
 
-###### ARTICULO 124.
+Las conclusiones acusatorias formuladas por el agente del Ministerio Público o por el Procurador General de Justicia se harán del conocimiento del acusado y de su defensor, dándoles vista de todo el proceso a fin de que en un término igual al que se concedió al Ministerio Público contesten el escrito de acusación y formulen sus conclusiones por escrito, sin sujeción a regla alguna.
 
-Las adquisiciones ordinarias de bienes y servicios, se realizarán bajo las siguientes bases:
+Cuando los acusados fueren varios, el término será común para todos.
 
-I. Que se justifique la compra;
+###### Artículo 295.
 
-II. Que sea oportuna la compra con relación a los recursos financieros;
+Las conclusiones del Ministerio Público o del Procurador no podrán modificarse sino por causas supervenientes que beneficien al acusado antes de dictarse la sentencia.
 
-III. Que sea oportuna la prestación de servicios;
+La defensa puede retirar o modificar sus conclusiones en cualquier tiempo, antes de que se declare visto el proceso.
 
-IV. Que exista una partida expresamente señalada en el presupuesto para tal fin; y
+Si no formula conclusiones en el término que para ese efecto se le concedió, se tendrán por formuladas las de inculpabilidad.
 
-V. Que por lo menos se apruebe la compra por la mitad más uno de los integrantes del Comité.
+Recibidas las conclusiones de las partes, el juez o tribunal, de oficio o a petición de parte, dentro del término de cinco días, citará para la audiencia prevista por el artículo 296, hará la declaración de visto el proceso y turnará los autos para dictar sentencia.
 
-###### ARTICULO 125.
+###### Artículo 296.
 
-Los actos por los que se adquiera, se formarán conforme a los siguientes procedimientos:
+El mismo día en que el inculpado o su defensor presenten sus conclusiones o en el momento que se haga la declaración a que se refiere el artículo anterior, se citará a una audiencia que se efectuará dentro de los cinco días siguientes, misma que tendrá efectos de citación para sentencia.
 
-I. Por compra directa, cuando se trate de un artículo o bienes de fabricación exclusiva o cuando su monto no exceda el equivalente a tres mil días de salario mínimo general vigente en el Estado de Aguascalientes;
+###### Artículo 297.
 
-II. La Dirección de Recursos Materiales de la Secretaría de Administración es la única dependencia facultada para analizar, evaluar y seleccionar al proveedor que habrá de suministrar los bienes y servicios requeridos. Esta facultad podrá ser delegada al Taller Mecánico Municipal debido a la naturaleza de sus funciones, quien forzosamente deberá implementar un subsistema de compras emanado de la Dirección de Recursos Materiales;
+Para el juicio ordinario, en la audiencia, el juez, el Ministerio Público y la defensa podrán interrogar al acusado sobre los hechos materia del proceso. De ser necesario y posible, a criterio del tribunal, se repetirán las diligencias de prueba que se hubieren practicado durante la instrucción, se dará lectura a las constancias que las partes señalen y después de oír sus alegatos se tendrá por visto el proceso, con lo que terminará la diligencia. Contra la resolución que niegue o admita la repetición de las diligencias de prueba no procede recurso alguno.
 
-III. Por concurso por invitación del Comité Municipal de Adquisiciones a proveedores principales en el giro a que corresponda la operación, desde un monto equivalente de tres mil un días de salario mínimo general y hasta por un monto equivalente a quince mil días de salario mínimo general vigente en el Estado de Aguascalientes, sin límite del monto cuando las adquisiciones sean urgentes;
+###### Artículo 298.
 
-IV. Por Licitación Pública en operaciones con valor superior al equivalente a quince mil un días de salario mínimo general diario vigente en el Estado de Aguascalientes; y
+La sentencia se dictará de conformidad con lo dispuesto en este Código para las resoluciones judiciales.
 
-V. Unicamente para los casos de las fracciones I y III, se podrán realizar adquisiciones urgentes que no rebasen el equivalente a quince mil un días de salario mínimo general vigente en el Estado de Aguascalientes, salvo las excepciones hechas y se regirán de acuerdo a lo estipulado en el presente Ordenamiento.
+Se condenará al inculpado cuando se pruebe la existencia del delito que se le imputa y su plena responsabilidad.
 
-Los montos establecidos deberán considerarse sin incluir el impuesto al valor agregado u otros impuestos aplicables y demás gastos accesorios a las adquisiciones.
+###### Artículo 299.
 
-###### ARTICULO 126.
+La aclaración procede contra sentencias definitivas y podrá pedirse una sola vez por cada parte.
 
-Las licitaciones se realizarán de acuerdo a los siguientes lineamientos:
+###### Artículo 300.
 
-I. Las convocatorias podrán referirse a una o a varias licitaciones, y se publicarán, por una sola vez, en por lo menos en un diario de los de mayor circulación y deberán de contener:
+La aclaración se pedirá ante el juez que dictó la sentencia dentro del término de tres días, contado a partir de la notificación, expresando claramente la contradicción, ambigüedad, oscuridad o deficiencia de que adolezca, en concepto del promovente.
 
-II. La descripción general, cantidad y unidad de medida, de cada uno de los bienes y servicios que sean objeto de licitación;
+###### Artículo 301.
 
-III. La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases y especificaciones de la licitación y en su caso, el costo de las mismas;
+De la solicitud de aclaración se dará vista a las otras partes para que en el término improrrogable de tres días hábiles expongan lo que estimen procedente. Concluido este término, el juez resolverá dentro de tres días hábiles si es de aclararse la sentencia y en qué sentido o si es improcedente la aclaración.
 
-IV. La fecha, hora y lugar de celebración del acto de inscripción, apertura de propuesta técnica, fallo de la propuesta técnica, apertura de propuesta económica y fallo económico; y
+###### Artículo 302.
 
-V. En el acto de apertura de ofertas, se procederá a dar lectura en voz alta a las propuestas presentadas por cada uno de los interesados, informando de aquéllas que en su caso se desechen y las causas que motiven tal determinación.
+Cuando el juez que dictó la sentencia resuelva que ésta debe aclararse, dictará auto en el que expresará los fundamentos de su decisión, que hará del conocimiento de las partes para que dentro de tres días hábiles expongan lo que estimen conveniente y en seguida emitirá su resolución.
 
-###### ARTICULO 127.
+###### Artículo 303.
 
-El Comité, con base en el análisis comparativo de las proposiciones admitidas, emitirá un dictamen que servirá de fundamento para el fallo, mediante el cual se adjudicará el pedido o contrato a la persona que dentro de las proponentes reúna las condiciones legales, técnicas y económicas requeridas por la convocante, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
+En ningún caso se alterará, con pretexto de aclaración, el fondo de la sentencia y su resolución se tendrá como parte integrante de aquélla.
 
-Si resultare que dos o más proposiciones satisfacen los requerimientos, el pedido o contrato se adjudicará a quien presente la postura más baja.
+Contra la resolución que otorgue o niegue la aclaración del fallo no procede recurso alguno.
 
-La forma en que se emitirá el fallo económico, que puede ser por escrito o en junta pública se hará saber a cada uno de los participantes, en el acto de apertura de ofertas, en el cual se darán todos por enterados.
+La aclaración propuesta interrumpe el término señalado para la apelación.
 
-El Secretario Ejecutivo levantará acta circunstanciada del acto de apertura de ofertas, que firmarán las personas que en él hayan intervenido.
+###### Artículo 304.
 
-Contra la resolución que contenga el fallo, no procederá recurso alguno.
+Son irrevocables y causan ejecutoria:
 
-###### ARTICULO 128.
+I. Las sentencias pronunciadas en primera instancia, cuando se hayan consentido expresamente o cuando concluido el término no se interpusiere recurso; y
 
-Los pedidos o contratos que deban formalizarse, como resultado de su adjudicación, deberán suscribirse en un término no mayor de diez días hábiles, contados a partir de la fecha en que se hubiese notificado al proveedor el fallo o decidido la adjudicación.
+II. Las sentencias contra las cuales la ley no conceda recurso alguno.
 
-###### ARTICULO 129.
+###### Artículo 305.
 
-El Comité, en los actos, pedidos o contratos que celebre respecto a adquisiciones de bienes y servicios, deberá estipular las condiciones que garanticen su correcta operación y funcionamiento; la obtención de las pólizas de seguro del bien o bienes de que se trate para garantizar su integridad, así como la fianza para garantizar la ausencia de vicios ocultos y cumplimiento del contrato o pedido cuando a juicio del Comité la adquisición así lo requiera.
+El sobreseimiento procederá cuando:
 
-###### ARTICULO 130.
+I. El Procurador General de Justicia confirme o formule conclusiones inacusatorias;
 
-Las adquisiciones urgentes, serán aprobadas directamente por el Presidente Municipal y por el Secretario Ejecutivo del Comité de Adquisiciones, quienes determinarán tal extremo.
+II. El Ministerio Público se desista de la acción penal intentada;
 
-###### ARTICULO 131.
+III. La acción penal o el derecho a querellarse estén extinguidos;
 
-La selección de proveedores se hará tomando en cuenta los siguientes factores:
+IV. Durante la preinstrucción aparezca que el hecho motivo de la investigación no constituye delito;
 
-I. El costo / beneficio del bien y/o servicio;
+V. Habiéndose decretado la libertad por desvanecimiento de datos esté agotada la investigación y no existan elementos posteriores para dictar nueva orden de aprehensión;
 
-II. Su calidad;
+VI. Se compruebe plenamente una causa de exclusión del delito y el inculpado no llegue a ser declarado formalmente preso; o
 
-III. La existencia del bien;
+VII. Después de dictarse auto de libertad con las reservas de ley, prescriba el ilícito de que se trate.
 
-IV. El servicio que ofrece el proveedor;
+###### Artículo 306.
 
-V. Las condiciones de pago;
+Cuando se siga el procedimiento por dos o más delitos y por lo que toca a alguno exista causa de sobreseimiento, éste se decretará por cuanto a él se refiere y continuará respecto a los demás.
 
-VI. La garantía que ofrece;
+###### Artículo 307.
 
-VII. El tiempo y condiciones de entrega; y
+El sobreseimiento puede decretarse de oficio o a petición de parte. Se resolverá de plano cuando se decrete de oficio. Si fuere a petición de parte se tramitará por separado y en forma de incidente no especificado.
 
-VIII. Disponibilidad de refacciones, para el caso de adquisición de equipo.
+###### Artículo 308.
 
-###### ARTICULO 132.
+No podrá dictarse auto de sobreseimiento después de que se formulen conclusiones por el Ministerio Público, excepto en los casos de inacusación o desistimiento de la acción penal.
 
-Será requisito indispensable para la selección del proveedor, que éste se encuentre previamente inscrito en el Padrón Municipal de Proveedores.
+###### Artículo 309.
 
-Para ser inscrito en el Padrón, se presentará por escrito la solicitud ante el Secretario Ejecutivo del Comité y éste resolverá en un término máximo de 15 días, sin que proceda recurso alguno contra dicha resolución.
+El inculpado en cuyo favor se dictó el sobreseimiento será puesto en absoluta libertad tan pronto cause ejecutoria la resolución.
 
-Asimismo, se procederá a la cancelación del registro al proveedor que solicite la declaración de quiebra, concurso o suspensión de pagos o al que no cumpla con los términos y condiciones de un pedido o contrato.
+###### Artículo 310.
 
-###### ARTICULO 133.
+El auto de sobreseimiento surtirá los efectos de una sentencia absolutoria y una vez ejecutoriado tendrá valor de cosa juzgada.
 
-Se preferirá como proveedor de bienes y servicios, en igualdad de circunstancias en el orden señalado, a:
+###### Artículo 311.
 
-I. Sociedades Cooperativas;
+Las resoluciones judiciales son impugnables en los casos y términos dispuestos expresamente por este Código. Están legitimados para recurrirlas, salvo disposición en contrario, quienes sean parte en el proceso, así como el ofendido y su representante legal, como coadyuvantes del Ministerio Público.
 
-II. Empresas Privadas locales sobre las foráneas; y
+La segunda instancia sólo se abrirá a solicitud expresa de parte.
 
-III. Empresas Extranjeras.
+Quien tiene derecho de impugnar lo tiene para desistirse del recurso que interponga.
 
-###### ARTICULO 134.
+###### Artículo 312.
 
-Cuando se celebren contratos abiertos e indexados a indicadores económicos publicados por el Banco de México, el monto del contrato podrá modificarse dentro de los doce meses siguientes a su firma, siempre que el incremento no represente una cantidad mayor al treinta por ciento de la señalada originalmente en el contrato.
+Cuando el inculpado, su defensor, el ofendido, la víctima o su representante legal manifiesten expresamente su inconformidad contra una resolución, se entenderá interpuesto el recurso que sea procedente. Si es errónea la elección del recurso que haga, se tendrá por interpuesto el que la ley autorice.
 
-Dentro de su presupuesto aprobado y disponible, el Comité bajo su responsabilidad y por razones fundadas, podrá acordar el incremento en la cantidad de bienes solicitados mediante modificaciones a sus contratos vigentes o pedidos, dentro de los doce meses posteriores a su firma o al pedido, siempre que el monto total de las modificaciones no rebase, en conjunto, el treinta por ciento de los conceptos y volúmenes establecidos originalmente en los mismos y el precio de los bienes sea igual al pactado originalmente. Igual porcentaje se aplicará a las modificaciones o prórrogas que se hagan respecto de la vigencia de los contratos de arrendamientos o servicios. Tratándose de contratos o pedidos en los que se incluyan bienes o servicios de diferentes características, el porcentaje se aplicará para cada partida o concepto de los bienes o servicios de que se trate. Cualquier modificación a los contratos o pedidos deberá hacerse por escrito.
+###### Artículo 313.
 
-###### ARTICULO 135.
+La resolución que recaiga a los recursos podrá ser confirmación, revocación, anulación o modificación de la resolución combatida, según corresponda. Para ello, el tribunal que conozca de la impugnación examinará los motivos y fundamentos de la resolución que se combate, su adecuación a la ley aplicable, la apreciación que contenga acerca de los hechos a que se refiere y la debida observancia de las normas relativas a la admisión y valoración de las pruebas, así como el cumplimiento de las disposiciones relativas al desarrollo del procedimiento.
 
-A los infractores del procedimiento de adquisiciones, se les impondrán las sanciones siguientes:
+Cuando el tribunal que conozca de la impugnación revoque o anule la resolución combatida, dictará la que la substituya. Si se confirma, no habrá lugar a nueva resolución por parte de quien dictó la primera. Cuando sea modificada, la autoridad que conoce de la impugnación señalará los puntos que deban conservarse, los que no deben subsistir y los nuevos términos de los restantes, en su caso.
 
-I. Si se trata de servidores públicos, les será aplicable la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Aguascalientes; y
+La autoridad judicial que conozca de la impugnación recibirá el escrito de agravios de la parte recurrente y en su caso ordenará, conforme a su prudente arbitrio, las diligencias para mejor proveer.
 
-II. Si el infractor no es Servidor Público, será cancelado del Padrón de Proveedores.
+###### Artículo 314.
 
-###### ARTICULO 136.
+El juzgador estará obligado a resolver los agravios hechos valer por el recurrente. Cuando se trate del inculpado o su defensor, el juzgador suplirá la deficiencia, incluida su omisión. Cuando el recurrente sea el Ministerio Público, no habrá suplencia y el tribunal se ajustará a los agravios que éste formule.
 
-Las decisiones del Comité de Adquisiciones, tienen el carácter de definitivas y sobre ellas no procede recurso alguno.
+Cuando la impugnación se interponga por el inculpado o su defensor, no podrá modificarse la resolución combatida en agravio de quien haya promovido.
 
-###### ARTICULO 137.
+###### Artículo 315.
 
-Todas las adquisiciones se sujetarán a lo dispuesto en el presente capítulo, y en todo aquello que no esté previsto se aplicará de manera supletoria lo señalado en la Ley Patrimonial del Estado de Aguascalientes.
+Los recursos deberán resolverse en los términos que este Código establece. El superior en grado cuidará que las impugnaciones contra las resoluciones previas a una sentencia de primera instancia se resuelvan antes de que se pronuncie ésta.
 
-## TITULO TERCERO. DE LA NORMATIVIDAD INTERNA MUNICIPAL
+###### Artículo 316.
 
-### CAPITULO I. De las Normas que Regulan las Actividades de los Trabajadores al Servicio del Gobierno Municipal
+Solamente los autos contra los que no se conceda por este Código recurso de apelación serán revocables por el tribunal que los dictó. También lo serán las resoluciones que se dicten en segunda instancia antes de la sentencia.
 
-APARTADO PRIMERO
+> <small>(F. DE E., G.O. 12 DE DICIEMBRE DE 2003)</small>
 
-Disposiciones Generales del Trabajo
+###### Artículo 317.
 
-###### ARTICULO 138.
+Interpuesto el recurso en el acto de la notificación o dentro de los tres días siguientes, el tribunal lo resolverá de plano si estimare innecesario oír a las partes. En caso contrario, las citará a una audiencia verbal que se efectuará dentro de los dos días siguientes y en ella dictará su resolución contra la cual no procederá ningún recurso.
 
-La relación entre el Ayuntamiento y sus trabajadores de base y eventuales se regirá por:
+###### Artículo 318.
 
-I. El Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y organismos descentralizados;
+El recurso de apelación tiene por objeto examinar si en la resolución recurrida no se aplicó la ley correspondiente o se aplicó inexactamente, si se violaron los principios reguladores de la valoración de la prueba y del arbitrio judicial o si se alteraron los hechos. El tribunal de alzada confirmará, revocará o modificará la resolución apelada.
 
-II. La Ley de Responsabilidades de los Servidores Públicos del Estado; y
+###### Artículo 319.
 
-III. Supletoriamente La Ley Federal del Trabajo.
+La segunda instancia se abrirá a petición de parte legítima para resolver sobre los agravios que el apelante estime que le causa la resolución recurrida, sin perjuicio de que el tribunal de apelación supla la deficiencia de los agravios cuando el recurrente sea el acusado o siéndolo su defensor se advierta que no los hizo valer debidamente, en cuyo caso, el tribunal de alzada lo comunicará al Procurador General de Justicia del Estado para los efectos de su representación.
 
-###### ARTICULO 139.
+###### Artículo 320.
 
-Las disposiciones que contiene este capítulo son de observancia general y de carácter obligatorio para los trabajadores de base, de confianza, eventuales y para los funcionarios públicos.
+Tienen derecho a apelar el Ministerio Público, el inculpado o su defensor y sólo para efectos de la reparación del daño el ofendido o su legítimo representante, en los términos establecidos por el artículo 20 constitucional.
 
-###### ARTICULO 140.
+Son apelables en efecto devolutivo:
 
-Es obligación de todo el personal que ingrese a laborar al servicio del H. Ayuntamiento de Aguascalientes, enterarse del contenido de las presentes disposiciones. El H. Ayuntamiento tendrá la obligación de fijar ejemplares de este capítulo en todos los centros de trabajo.
+I. Las sentencias que absuelvan al acusado;
 
-###### ARTICULO 141.
+II. Los autos en los que se decrete el sobreseimiento, salvo por inacusación o desistimiento de la acción penal o aquellos en que se niegue el sobreseimiento;
 
-Toda persona interesada en prestar sus servicios a favor del H. Ayuntamiento deberá de reunir los requisitos siguientes:
+III. Los autos en que se niegue o conceda la suspensión del procedimiento judicial; los que concedan o nieguen la acumulación de autos; los que decreten la separación de autos y los que conceden o nieguen la recusación;
 
-I. Ser mayor de 16 años;
+IV. Los autos de formal prisión; los de sujeción a proceso y los de falta de elementos para procesar;
 
-II. Saber leer y escribir;
+V. Los autos en que se niegue o revoque la libertad provisional bajo caución y los que resuelvan algún incidente no especificado. Si la inconformidad versa únicamente sobre el monto de la caución en que se concedió la libertad, procede el recurso de revocación;
 
-III. Presentar solicitud, proporcionando los datos que le requiera el H. Ayuntamiento;
+VI. El auto que niegue la orden de aprehensión o la ratificación de la detención y el que niegue la citación para preparatoria. Estos autos sólo serán apelables por el Ministerio Público;
 
-IV. Haber cumplido o estar cumpliendo con el servicio militar;
+VII. Los autos en que un tribunal se niegue a declarar su incompetencia por declinatoria o a librar el oficio inhibitorio, cuando estime que es competente;
 
-V. Aprobar satisfactoriamente el examen médico que designe el H. Ayuntamiento; y
+VIII. Los autos que nieguen el cateo, las medidas precautorias de carácter patrimonial o el arraigo del indiciado; y
 
-VI. No tener antecedentes penales por delito doloso.
+IX. Las demás resoluciones que señale la ley.
 
-Cuando se trate de puestos que requieran conocimientos técnicos o profesionales, el solicitante, además de los requisitos a que se refieren las fracciones anteriores, deberá presentar constancias fehacientes de sus conocimientos y estudios de la materia.
+Son apelables en ambos efectos las sentencias condenatorias y los autos que concedan o nieguen la libertad por desvanecimiento de datos.
 
-###### ARTICULO 142.
+###### Artículo 321.
 
-Los trabajadores al servicio del H. Ayuntamiento se clasifican en tres:
+La apelación podrá interponerse en el acto de la notificación por escrito o comparecencia, dentro de los cinco días siguientes si se trata de sentencia o de tres días si se interpone contra auto.
 
-I. De confianza;
+Al notificar al procesado la sentencia definitiva de primera instancia, se le hará saber el término que la ley le concede para interponer el recurso de apelación, lo que constará en el proceso.
 
-II. De base; y
+La omisión de este requisito surtirá el efecto de duplicar el término legal para interponer el recurso y el secretario que haya incurrido en ella será corregido disciplinariamente por el tribunal que conozca del recurso.
 
-III. Eventuales.
+###### Artículo 322.
 
-###### ARTICULO 143.
+Interpuesto el recurso dentro del término legal, el tribunal que dictó la resolución apelada lo admitirá o lo desechará de plano.
 
-Los trabajadores de base deberán de ser preferentemente aguascalentenses, o en todo caso, de nacionalidad mexicana.
+Sin perjuicio de la calificación que haga el tribunal de apelación, contra el auto que admita la apelación no procede recurso alguno.
 
-###### ARTICULO 144.
+Si el apelante fuere el acusado, al admitirse el recurso se le prevendrá que nombre defensor que lo patrocine en la segunda instancia, de no hacerlo se le tendrá como defensor al de oficio.
 
-Los trabajadores de base, con mas de seis meses de servicios, no podrán ser cambiados ni removidos de adscripción, sino en los siguientes casos:
+###### Artículo 323.
 
-I. Por organización o necesidad del servicio debidamente justificada, previo acuerdo de las partes;
+Admitida la apelación en ambos efectos, dentro de cinco días se remitirá el original del proceso al tribunal de apelación respectivo. Si fueren varios los acusados y la apelación solamente se refiere a alguno o algunos de ellos, el tribunal que dictó la sentencia apelada ordenará se expidan los testimonios relativos para la ejecución de la sentencia.
 
-II. Porque desaparezca la plaza de su nombramiento;
+Cuando la apelación se admita en el efecto devolutivo se formará el testimonio de lo que las partes designen y de lo que el tribunal estime conveniente y se remitirá para los efectos de la alzada a más tardar dentro de quince días. Para formar el testimonio de apelación pueden emplearse máquinas fotocopiadoras u otras similares; las copias serán compulsadas y autorizadas por el secretario del juzgado.
 
-III. Por solicitud del trabajador, si hubiese plazas disponibles; y
+Recibido el proceso o el testimonio en el tribunal de apelación, éste dentro del término de tres días declarará si el recurso ha sido bien o mal admitido. En el último caso, se devolverán los autos al juzgado de su origen.
 
-IV. Cuando las necesidades del servicio así lo requieran.
+###### Artículo 324.
 
-APARTADO SEGUNDO
+Si el recurso fuere admitido, el tribunal pondrá los autos a vista del apelante, quien en el término de tres días podrá promover las pruebas que sean admisibles en la segunda instancia, las que de proceder se desahogarán en un término no mayor de diez días, sin contar los que se empleen en el correo. Si el apelante no promoviere pruebas dentro del término de seis días, contado desde la fecha en que se le dé vista, expresará agravios.
 
-De las Condiciones de Trabajo
+###### Artículo 325.
 
-###### ARTICULO 145.
+Ante el tribunal de apelación no se admitirán más pruebas que la confesional, la testimonial cuando se refiera a hechos que no hayan sido materia de examen en primera instancia, la pericial cuando se trate de avalúos y éstos no se hubieren practicado durante la instrucción, ampliaciones de dictámenes y la documental, que es admisible hasta antes de la citación para sentencia.
 
-La jornada laboral no podrá exceder de cuarenta horas semanales, la cual será distribuida dependiendo de los requerimientos, necesidades, y a la naturaleza de las actividades de cada Dependencia o Unidad Administrativa del H. Ayuntamiento, siempre que ello no contravenga disposiciones de la Ley Federal del Trabajo.
+Recibidas las pruebas, contará el apelante con el término de diez días para formular agravios, los que en autos se pondrán a la vista de la otra parte por igual término para que los conteste, citándose a las partes para oír sentencia, que se pronunciará en un término que no exceda de quince días.
 
-###### ARTICULO 146.
+Si el tribunal de apelación, después de la citación para sentencia estima necesaria la práctica de alguna diligencia, la decretará para mejor proveer, desahogándola dentro del término de diez días.
 
-Los trabajadores de base y eventuales tendrán la obligación de marcar en forma individual, su tarjeta de asistencia a la hora de entrada y de salida, y mantenerla en el tarjetero correspondiente. Sólo con la autorización expresa del Director de la Dependencia o Unidad Administrativa que corresponda, podrá dispensarse la obligación de checar tarjeta.
+###### Artículo 326.
 
-###### ARTICULO 147.
+Si solamente hubieren apelado el procesado o su defensor, no se podrá aumentar la sanción impuesta en la sentencia recurrida.
 
-Las incapacidades expedidas por el I.M.S.S. o por el Coordinador de Servicios Médicos Municipales según corresponda serán los únicos elementos que justifiquen las faltas del trabajador.
+Si se tratare de auto de formal prisión o de sujeción a proceso, podrá variarse la clasificación del delito y dictarse por el que aparezca probado.
 
-###### ARTICULO 148.
+###### Artículo 327.
 
-Los trabajadores deberán de iniciar sus labores precisamente a la hora de entrada señalada para tal efecto, y en el lugar que les corresponda, o en donde así lo indique su superior inmediato.
+Cuando el acusado o su defensor no expresen agravios dentro del término legal, el tribunal de apelación tendrá por manifestada su inconformidad con la resolución recurrida en cuanto perjudique al acusado y continuará la tramitación del recurso.
 
-###### ARTICULO 149.
+###### Artículo 328.
 
-Todos los trabajadores tendrán la obligación de mantener, sus lugares y equipos de trabajo, en un estado permanente de orden y limpieza, salvo los casos que correspondan al personal contratado para tal efecto.
+Cuando el tribunal de apelación note que el defensor faltó a sus deberes por no haber interpuesto los recursos que procedían; por haber abandonado los interpuestos cuando de las constancias de autos aparezca que debían prosperar; por no haber alegado circunstancias probadas en el proceso y que habrían favorecido notablemente al inculpado; por haber alegado hechos no probados en autos o por no expresar agravios oportunamente, podrá imponerle una corrección disciplinaria o darle vista al Ministerio Público, si procede. Si el defensor es el de oficio, dará cuenta al Tribunal Superior de Justicia.
 
-###### ARTICULO 150.
+###### Artículo 329.
 
-Los trabajadores están obligados a observar las disposiciones administrativas que dicta el H. Ayuntamiento para prevenir los accidentes de trabajo y enfermedades profesionales, así como, observar y practicar las medidas de seguridad e higiene que sean dictadas por las autoridades laborales, por el Instituto de Seguridad Social competente, y por los demás reglamentos de la materia y que sean de aplicación Municipal.
+El recurso de denegada apelación procede cuando ésta se haya negado o se conceda sólo en el efecto devolutivo siendo procedente en ambos, aun cuando el motivo de la denegación sea que no se considera como parte al que intente el recurso.
 
-###### ARTICULO 151.
+###### Artículo 330.
 
-Para prevenir los accidentes de trabajo y enfermedades profesionales los trabajadores estarán obligados a usar debidamente el equipo de protección y seguridad que el H. Ayuntamiento les proporcione.
+El recurso se interpondrá verbalmente o por escrito dentro de los tres días siguientes a aquel en que se notifique la resolución que niegue la apelación.
 
-###### ARTICULO 152.
+### CAPÍTULO III. ATENCIÓN MÉDICA A LOS LESIONADOS
 
-El salario es la retribución que debe de pagarse al trabajador a cambio de los servicios prestados. Su pago se hará quincenalmente, efectuándose los días 15 y 30 de cada mes, en el lugar de trabajo o en las instalaciones del propio Ayuntamiento, en moneda del curso legal, cheque nominativo o a través del sistema electrónico de pagos que establezca la Secretaría de Finanzas, teniendo la obligación de firmar los recibos de sueldos o cualquier documento que tenga el Ayuntamiento como comprobante del pago.
+###### Artículo 331.
 
-###### ARTICULO 153.
+Interpuesto el recurso, el juez, sin más substanciación, ordenará expedir al interesado, dentro de tres días, certificado en el que expondrá brevemente la naturaleza y estado de las actuaciones, el punto sobre el que recayó el auto apelado e insertará éste a la letra, así como el que lo haya declarado inapelable.
 
-El salario será uniforme para cada una de las categorías de los trabajadores de base de acuerdo al tabulador que establezca la Secretaría de Administración y será fijado legalmente en los presupuestos respectivos, no pudiendo ser menor, atendiendo a condiciones de sexo, edad, nacionalidad o estado civil.
+###### Artículo 332.
 
-APARTADO TERCERO
+Cuando el juez no cumpliere con lo prevenido en el artículo anterior, el interesado podrá ocurrir por escrito ante el tribunal de apelación, el cual mandará que el inferior remita el certificado dentro de veinticuatro horas, sin perjuicio de la responsabilidad a que hubiere lugar.
 
-De las Obligaciones de los Trabajadores
+###### Artículo 333.
 
-###### ARTICULO 154.
+El certificado será presentado por el promovente ante el tribunal de apelación dentro del término de tres días, contado a partir de aquel en que se le entregó, si el tribunal reside en el mismo lugar; si reside en otro, el juez señalará, además de los tres días, el término que estime necesario en razón de la distancia y de las vías de comunicación, sin que el término total exceda de quince días. En caso de no presentarse el certificado dentro de los términos señalados, se tendrá al interesado por desistido del recurso.
 
-Son obligaciones de los trabajadores, las siguientes:
+###### Artículo 334.
 
-I. Ejecutar el trabajo con honestidad, eficiencia, cuidado y esmero apropiado, en la forma, tiempo y lugares convenidos;
+El tribunal de apelación, sin más trámite citará para sentencia y la pronunciará dentro de los cinco días siguientes a la notificación.
 
-II. Sujetarse a las instrucciones recibidas de sus respectivos jefes para efectuar los trabajos que se le encomienden;
+###### Artículo 335.
 
-III. A tratar con mutuo respeto a sus subordinados, superiores, compañeros de trabajo y público en general, absteniéndose de cualquier abuso, actitud prepotente, maltrato de palabra u obra y demás conductas que deterioren la imagen del H. Ayuntamiento;
+Si la apelación se declara admisible o si se varía el grado, se pedirá el testimonio de constancias o el expediente, en su caso, al juzgado de origen para substanciar la segunda instancia.
 
-IV. Dar buen uso a los muebles, inmuebles, materiales, máquinas y equipos que utilicen o que estén a su resguardo y dar aviso inmediato a su superior de cualquier falla o defecto que éstos presenten a fin de que se reparen o repongan. La falta de este aviso al trabajador le será atribuible la responsabilidad; (sic)
+###### Artículo 336.
 
-V. Checar personalmente su tarjeta de control de asistencia;
+Mediante el recurso de inconformidad, la persona ofendida por un delito podrá impugnar las resoluciones de sobreseimiento dictadas por los jueces con motivo de las peticiones de desistimiento de la acción que formule el Ministerio Público, el que interpondrá por escrito ante el juez que la dictó dentro de los diez días siguientes al en que se le notifique personalmente la resolución.
 
-VI. Dar aviso oportuno a la Dirección de Recursos Humanos, del cambio de domicilio, de estado civil, y/o nacimiento de sus nuevos hijos;
+El juez que reciba el recurso, sin dilación alguna y bajo su estricta responsabilidad, lo remitirá a la Sala Constitucional del Tribunal Superior de Justicia.
 
-VII. Usar los gafetes, la ropa de trabajo y/o equipo que se le encomiende para su identificación y seguridad durante las horas de trabajo o cuando así lo requieran;
+###### Artículo 337.
 
-VIII. Asistir y participar en los cursos internos de capacitación y adiestramiento que les indiquen sus superiores. Cuando los cursos sean externos, el H. Ayuntamiento pagará los cursos en proporción al nivel de aprovechamiento tenido en el curso, y se cursarán siempre y cuando tengan relación directa con su área de trabajo y sean necesarios para un mejor desempeño de sus funciones, debiendo ser autorizados previamente por el Comité de Capacitación; y
+La persona ofendida por un delito o quien presente la denuncia o la querella, podrán impugnar las resoluciones del Ministerio Público sobre la reserva de la investigación ministerial y el no ejercicio de la acción penal, mediante el recurso de queja que, por escrito y con expresión de agravios, deberán interponer ante el autor de aquéllas dentro del término de diez días, contado a partir de aquel en que surta sus efectos legales la notificación personal de la determinación impugnada.
 
-IX. Cumplir con las demás normas de trabajo que le son aplicables y que contengan la Ley Federal del Trabajo, el Estatuto Jurídico de los Servidores Públicos de los Gobiernos del Estado, Municipios y Organismos descentralizados y La Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+###### Artículo 338.
 
-###### ARTICULO 155.
+El servidor público del Ministerio Público que reciba el recurso, junto con una copia autorizada del expediente relativo, lo remitirá dentro del término de tres días a la Sala Constitucional del Tribunal Superior de Justicia del Estado, para lo previsto en la fracción II del artículo 64 de la Constitución Política del Estado.
 
-A los trabajadores les queda estrictamente prohibido:
+###### Artículo 339.
 
-I. Hacer rifas, tandas, cobros, colectas, apuestas, préstamos de dinero, cualquier acto de comercio y cualquier actividad ajena a su trabajo, en horas laborables y dentro de los inmuebles del H. Ayuntamiento;
+La Sala revisará las actuaciones y si advierte en ellas alguna irregularidad u omisión, ordenará su devolución para que se subsanen. Hecho lo anterior o si no hay nada que corregir, dentro del término de tres días admitirá o desechará la queja. En su caso procederá a dictar sentencia en el término de ley, revocando, modificando o confirmando la determinación impugnada.
 
-II. Hacer llamadas foráneas del sistema telefónico de la Presidencia Municipal, para asuntos personales, excepto en aquellos casos que surjan de una fuerza mayor;
+###### Artículo 340.
 
-III. Platicar excesivamente con cualquier persona, leer cualquier tipo de lectura, salvo sea de estudio de asuntos de trabajo, dormir en horas laborables y descuidar la atención al público;
+Recibida la resolución del recurso por el servidor público del Ministerio Público de que se trate, informará a la Sala dentro del término de tres días sobre su cumplimiento o de las gestiones que realice para ese fin.
 
-IV. Checar la tarjeta de control de asistencia de otra persona o dejar que chequen la propia;
+###### Artículo 341.
 
-V. Faltar al trabajo sin causa justificada o sin permiso del jefe inmediato;
+La dilación en la remisión de las actuaciones o el cumplimiento de la resolución o acuerdos de la Sala, se hará del conocimiento del Procurador General de Justicia del Estado, para que en ejercicio de sus funciones proceda conforme a derecho, sin perjuicio de que aquélla aplique las correcciones disciplinarias previstas en este Código.
 
-VI. Fumar en las áreas de trabajo prohibidas por la Coordinación de Servicios Médicos Municipales;
+###### Artículo 342.
 
-VII. Conducir sin licencia cualquier vehículo propiedad Municipal;
+El recurso de reclamación procede cuando los jueces no emitan sus resoluciones o no señalen la práctica de diligencias dentro de los términos y las formalidades que para ello señala este Código. Se interpondrá en cualquier momento por las partes mediante escrito ante el superior jerárquico.
 
-VIII. Sustraer de las instalaciones Municipales útiles de trabajo o materia prima elaborada o cualquier objeto propiedad Municipal;
+###### Artículo 343.
 
-IX. Abandonar, aunque sea momentáneamente, sus labores, sin la autorización de su jefe inmediato;
+El tribunal admitirá el recurso y requerirá al omiso para que rinda un informe sobre la materia de la reclamación. Éste se producirá dentro de las cuarenta y ocho horas siguientes a partir de que se recibió el requerimiento; su falta establece la presunción de ser cierta la omisión atribuida y se sancionará con multa hasta de cien veces el salario.
 
-X. Presentarse a sus labores con aliento alcohólico, bajo los efectos de bebidas embriagantes o bajo los efectos de narcóticos, enervantes o psicotrópicos, salvo que exista prescripción médica, en cuyo caso deberá hacerlo del conocimiento de su jefe superior;
+Transcurrido el término al que se refiere el párrafo anterior, el tribunal de alzada resolverá lo procedente aunque no hubiese recibido el informe del juez. Si se estima fundado el recurso requerirá al faltista para que cumpla inmediatamente con su obligación, apercibiéndolo de la sanción que corresponda si persiste el incumplimiento.
 
-XI. Portar armas de cualquier naturaleza, durante las horas de trabajo y dentro de las instalaciones del H. Ayuntamiento, salvo que la naturaleza de sus actividades así lo exija; y
+###### Artículo 344.
 
-XII. Las demás prohibiciones que le impone la Ley Federal del Trabajo, La Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, el Estatuto Jurídico para los Servidores Públicos de los Gobiernos del Estado, Municipios y Organismos Descentralizados del Estado de Aguascalientes.
+Durante el procedimiento, todo inculpado tendrá derecho a ser puesto en libertad provisional bajo caución inmediatamente que lo solicite, si se reúnen los siguientes requisitos:
 
-###### ARTICULO 156.
+I. Que garantice el pago del monto estimado de la reparación del daño, mediante depósito en efectivo, hipoteca, fianza o cualquier otro medio de garantía patrimonial reconocido por la ley. El inculpado podrá optar por cualquiera de estas garantías y el juez cuidará que su otorgamiento se haga con las formalidades legales pertinentes. Si se trata de delitos que afecten la vida o la integridad corporal, el monto de la reparación no podrá ser menor de lo que resulte de aplicar las disposiciones relativas de la Ley Federal del Trabajo;
 
-Los trabajadores tendrán derecho a solicitar por escrito y obtener, a juicio de la Presidencia Municipal, permisos sin goce de sueldo, hasta por tres meses después de un año laborado.
+II. Que garantice las demás sanciones pecuniarias que en su caso puedan imponérsele;
 
-###### ARTICULO 157.
+III. Que caucione el cumplimiento de las obligaciones que la ley establece a su cargo en razón del proceso; y
 
-Todo lo relacionado con los riesgos profesionales y accidentes de trabajo, será regido por la Ley Federal del Trabajo y será incrementado con las prestaciones obtenidas a través de los convenios celebrados entre el H. Ayuntamiento y el Sindicato respectivo.
+IV. Que no se trate de un delito grave.
 
-###### ARTICULO 158.
+Durante su investigación, el Ministerio Público fijará la caución conforme a lo dispuesto por este Código.
 
-Las faltas de asistencia injustificadas que tengan los trabajadores se sancionarán, reduciendo de su salario el día no trabajado, y en caso de que compute más de tres faltas en el término de treinta días será motivo suficiente para rescindir la relación laboral, sin responsabilidad para el H. Ayuntamiento.
+Cuando se trate de personas que por el delito grave cometido no tengan derecho a la libertad provisional bajo caución y mediante sentencia que no haya causado estado se les imponga sanción privativa de la libertad, tendrán derecho a que se les otorgue este beneficio siempre y cuando la pena impuesta no exceda de cinco años.
 
-APARTADO CUARTO
+###### Artículo 345.
 
-Medidas Disciplinarias
+Cuando proceda la libertad caucional, inmediatamente que sea solicitada se decretará en la misma pieza de autos.
 
-###### ARTICULO 159.
+###### Artículo 346.
 
-Para la imposición de medidas disciplinarias, el H. Ayuntamiento por conducto de la Dirección de Recursos Humanos de la Secretaría de Administración, será la unidad administrativa que conocerá y determinará los alcances de la sanción, no sin antes escuchar en defensa al trabajador.
+Si se negare la libertad caucional podrá solicitarse de nuevo y concederse por causas supervenientes.
 
-###### ARTICULO 160.
+###### Artículo 347.
 
-Las infracciones a los deberes y obligaciones que impone el presente Código a los funcionarios municipales, se castigarán de acuerdo a los antecedentes del trabajador, a su jerarquía y a la magnitud de la falta, sin perjuicio de cualquier responsabilidad penal o civil que pudiera resultar.
+El monto de la caución será fijado por el tribunal, que tomará en consideración:
 
-###### ARTICULO 161.
+I. Los antecedentes del inculpado;
 
-Cuando algún trabajador viole alguna de las disposiciones contenidas en este o en los demás reglamentos o leyes de aplicación Municipal, su Superior levantará acta administrativa, pudiendo registrar escritorios, archiveros, maletines, y equipos de su trabajo ante dos testigos en la cual se harán constar los hechos en forma concreta asentando la infracción o causas que la motivaron, firmándola el trabajador, o en su caso, se le notificará al trabajador en el domicilio que tenga registrado, remitiendo dicha acta a la Dirección de Recursos Humanos de la Secretaría de Administración, quien podrá imponer fundadamente las siguientes medidas disciplinarias:
+II. La gravedad y circunstancias de la comisión u omisión delictuosa;
 
-I. Amonestación verbal o por escrito;
+III. El mayor o menor interés que pueda tener el inculpado en sustraerse a la acción de la justicia;
 
-II. Suspensión del trabajo de uno a quince días, sin goce de sueldo;
+IV. Las condiciones económicas del inculpado; y
 
-III. Rescisión de la relación de trabajo; y
+V. La naturaleza de la garantía que se ofrezca.
 
-IV. Denunciar los hechos ante las Autoridades competentes, en caso de que su conducta entrañe la comisión de algún ilícito.
+###### Artículo 348.
 
-APARTADO QUINTO
+Si el inculpado, su representante o su defensor no manifiestan expresamente la naturaleza de la caución que ofrecen, el tribunal, de conformidad con el artículo que antecede, fijará las cantidades que correspondan a cada una de las formas de la caución.
 
-Obligaciones del H. Ayuntamiento Hacia sus Trabajadores
+###### Artículo 349.
 
-###### ARTICULO 162.
+La caución consistente en depósito en efectivo se hará por el inculpado o terceras personas ante las oficinas autorizadas del lugar en que tenga jurisdicción el servidor público que la hubiere acordado, de conformidad con las disposiciones legales aplicables. El certificado de depósito correspondiente se guardará en la caja de valores del juzgado o tribunal, asentándose constancia de ello en autos. Cuando por razón de la hora o por ser día inhábil no pueda constituirse el depósito en las oficinas autorizadas, el juez o tribunal podrá recibir la cantidad en efectivo y la mandará depositar en aquéllas a primera hora del siguiente día hábil.
 
-Son obligaciones del H. Ayuntamiento hacia los trabajadores de la administración Publica Municipal, las siguientes:
+###### Artículo 350.
 
-I. Pagar los salarios pactados y prestaciones a que tienen derecho;
+Cuando la fianza sea por cantidad mayor de mil pesos, se regirá por lo dispuesto en el Código Civil del Estado en la materia respectiva.
 
-II. Proporcionar los útiles, instrumentos, materiales y equipo de trabajo para la ejecución eficiente de su trabajo contratado;
+###### Artículo 351.
 
-III. Tener a los trabajadores la debida consideración, absteniéndose de mal trato de palabra y obra;
+Los bienes inmuebles de los fiadores estarán libres de gravamen y tendrán cuando menos tres veces el valor del monto de la caución fijada.
 
-IV. Conceder los mismos derechos independientemente de su sexo, religión, raza, condición social o política;
+###### Artículo 352.
 
-V. Conceder el tiempo necesario para el ejercicio del voto en elecciones populares;
+Las fianzas de que trata este capítulo se harán constar en el expediente respectivo.
 
-VI. Proporcionar capacitación y adiestramiento de conformidad a las necesidades del H. Ayuntamiento y de sus trabajadores;
+###### Artículo 353.
 
-VII. Adoptar las medidas de higiene y seguridad previstas por las leyes de la materia; y
+Al notificarse al inculpado el auto que le conceda la libertad caucional, se le harán saber las obligaciones siguientes:
 
-VIII. Las demás establecidas y que le imponen las Leyes y reglamentos de la materia.
+I. Presentarse ante el tribunal que conozca de su caso los días que se le señalen y cuantas veces sea citado o requerido para ello;
 
-###### ARTICULO 163.
+II. Comunicar al mismo juez o tribunal sus cambios de domicilio; y
 
-Son días de descanso para los trabajadores del Municipio los siguientes:
+III. No ausentarse del lugar de residencia del tribunal sin permiso del titular, el que no excederá de treinta días.
 
-1º de enero, 5 de febrero, jueves y viernes santos, 21 de marzo, 25 de abril, 1o. de mayo, 23 de junio, 16 de septiembre, 2 de noviembre, 20 de noviembre, 12 y 25 de diciembre, así como el primero de diciembre cada seis años que sea toma de posesión del Ejecutivo Federal.
+También se le harán saber las causas de revocación de la libertad caucional.
 
-### CAPITULO II. Del Servicio Civil de Carrera
+En la notificación se hará constar que se hicieron saber al inculpado las anteriores obligaciones y las causas de revocación, pero la omisión de este requisito no lo librará de ellas ni de sus consecuencias.
 
-###### ARTICULO 164.
+###### Artículo 354.
 
-El Ayuntamiento institucionalizará el servicio civil de carrera, el cual tendrá los siguientes propósitos:
+Si el inculpado garantiza por sí su libertad con depósito o con hipoteca, aquélla se le revocará cuando:
 
-I. Garantizar la seguridad y estabilidad en el empleo;
+I. Sin causa justa y comprobada desobedezca las órdenes legítimas del tribunal que conoce de su caso;
 
-II. Fomentar la vocación de servicio, mediante una motivación adecuada;
+II. Cometa un nuevo delito antes de que ese proceso concluya con sentencia ejecutoria;
 
-III. Promover la capacitación permanente del personal;
+III. Lo solicite el mismo inculpado y se presente al tribunal;
 
-IV. Procurar la lealtad a la institución municipal;
+IV. Aparezca con posterioridad que le corresponde al inculpado una sanción que no permita otorgar la libertad; o
 
-V. Promover la eficiencia y eficacia de los servidores públicos municipales;
+V. En el proceso cause ejecutoria la sentencia.
 
-VI. Mejorar las condiciones laborales de los servidores públicos municipales;
+###### Artículo 355.
 
-VII. Garantizar promociones justas y otras formas de progreso laboral, con base en sus méritos;
+Si un tercero garantiza la libertad del inculpado mediante depósito en efectivo, fianza o hipoteca, aquélla podrá revocarse:
 
-VIII. Garantizar a los servidores públicos municipales, el ejercicio de los derechos que les reconocen las leyes y otros ordenamientos jurídicos; y
+I. En los casos que se mencionan en el artículo anterior; o
 
-IX. Contribuir al bienestar de los servidores públicos municipales y sus familias, mediante el desarrollo de actividades educativas, de asistencia, culturales, deportivas, recreativas y sociales.
+II. Si el tercero pide que se le releve de la obligación y presenta al inculpado.
 
-###### ARTICULO 165.
+Si el tercero no pudiera presentarlo desde luego, el tribunal podrá otorgarle un término hasta de treinta días para que lo haga, sin perjuicio de librar la orden de aprehensión si lo estima oportuno. Si concluido el término concedido no se obtiene la comparecencia del inculpado, se ordenará su reaprehensión y se hará efectiva la garantía.
 
-Para la institucionalización del servicio civil de carrera, el Ayuntamiento establecerá:
+###### Artículo 356.
 
-I. Un plan de objetivos que medirán el proceso de institucionalización del servicio civil de carrera;
+Cuando proceda la revocación de la libertad caucional, se mandará reaprehender al inculpado y la caución se hará efectiva, a cuyo efecto el tribunal enviará el certificado de depósito o el testimonio de la hipoteca a la autoridad fiscal para su cobro.
 
-II. Las normas, políticas y procedimientos administrativos, que definirán que servidores públicos municipales participarán en el servicio civil de carrera;
+###### Artículo 357.
 
-III. Un estatuto del personal regulado por una metodología pedagógica y de medición del desempeño del trabajador;
+El tribunal ordenará la devolución del depósito o mandará cancelar la garantía, según proceda, cuando:
 
-IV. Un sistema de mérito para la selección, promoción, ascenso y estabilidad personal;
+I. Se remita al inculpado al establecimiento correspondiente, de acuerdo con el artículo anterior;
 
-V. Una estructura administrativa que realice la planeación y ejecución del servicio civil de carrera;
+II. El inculpado sea reaprehendido o se presente voluntariamente antes de que se haya hecho efectiva la garantía;
 
-VI. Un sistema de clasificación de puestos;
+III. Se decrete el sobreseimiento en la causa o la libertad del inculpado;
 
-VII. Un sistema de plan de salarios y tabulador de puestos; y
+IV. El inculpado sea absuelto; o
 
-VIII. Un sistema de capacitación, actualización y desarrollo de personal.
+V. El acusado sea condenado y se presente a cumplir su condena.
 
-###### ARTICULO 166.
+###### Artículo 358.
 
-El H. Ayuntamiento creará una comisión del servicio civil de carrera, como organismo auxiliar de éste, en el que participarán por parte del Ayuntamiento tres personas designadas por el Presidente Municipal a través de la Secretaría de Administración y otros tres representantes de los trabajadores integrados al servicio civil.
+El importe de la caución se exigirá por la autoridad fiscal en los términos de la ley que reglamenta la facultad económico coactiva.
 
-###### ARTICULO 167.
+###### Artículo 359.
 
-La comisión del servicio civil de carrera tendrá las siguientes funciones:
+La libertad provisional bajo caución otorgada ante el Ministerio Público subsistirá en el proceso, en los términos en que fue concedida, salvo que la autoridad judicial disponga otra cosa.
 
-I. Promover ante las dependencias y entidades de la administración pública municipal, la realización de los programas específicos del servicio civil de carrera;
+###### Artículo 360.
 
-II. Promover mecanismos de coordinación entre las dependencias y entidades de la administración pública municipal, para uniformar y sistematizar los métodos de administración y desarrollo personal, encaminados a instrumentar el servicio civil de carrera;
+La libertad bajo protesta podrá decretarse siempre que:
 
-III. Determinar y proponer los elementos que permitan la adecuación e integración del marco jurídico administrativo que requiera la instauración del servicio civil de carrera;
+I. La sanción privativa de libertad que pueda imponerse no exceda de dos años de prisión;
 
-IV. Promover mecanismos de participación permanente, para integrar y unificar los planteamientos de las dependencias y entidades de la administración pública municipal, así como los correspondientes a las representaciones sindicales, en la instrumentación del servicio civil de carrera;
+II. El inculpado tenga profesión, oficio, ocupación u otro modo honesto de vivir;
 
-V. Estudiar y emitir las recomendaciones necesarias para asegurar la congruencia de normas, sistemas y procedimientos del servicio civil de carrera, con los instrumentos del plan de desarrollo municipal;
+III. El inculpado tenga domicilio conocido en el lugar donde se sigue o deba seguirse el proceso o dentro de la jurisdicción del tribunal respectivo;
 
-VI. Evaluar periódicamente los resultados de las acciones orientadas a la administración del servicio civil de carrera; y
+IV. La residencia del inculpado en dicho lugar sea cuando menos de un año; y
 
-VII. Las demás que señale el Ayuntamiento, que sean necesarias para el cumplimiento de su objeto.
+V. A juicio de la autoridad que la conceda no haya temor de que el inculpado se sustraiga a la acción de la justicia.
 
-###### ARTICULO 168.
+La libertad bajo protesta se substanciará en la forma establecida para los incidentes no especificados.
 
-En la aplicación del presente capítulo, se atenderá en lo conducente lo dispuesto por el estatuto jurídico de los Servidores Públicos al Servicio del Estado y del Municipio de Aguascalientes.
+A quien se conceda la libertad bajo protesta se le harán las mismas prevenciones que en el caso de la libertad caucional.
 
-### CAPITULO III. De la Entrega y Recepción de la Administración Pública Municipal
+###### Artículo 361.
 
-###### ARTICULO 169.
+Será igualmente puesto en libertad bajo protesta el inculpado, sin los requisitos del artículo anterior, cuando cumpla la sanción impuesta en primera instancia, estando pendiente el recurso de apelación. Los tribunales acordarán de oficio la libertad de que trata este artículo.
 
-Las normas contenidas en este Capítulo, regulan el proceso de Entrega-Recepción de las Oficinas de las Dependencias, Unidades Administrativas y Entidades de la Administración Pública Municipal, con objeto de asegurar la continuidad de sus trabajos y programas emprendidos.
+###### Artículo 362.
 
-La Entrega-Recepción de la Administración Municipal, es el proceso a través del cual los servidores públicos, al separarse de su empleo, cargo o comisión, preparan y entregan a quienes los sustituyan en sus funciones, los asuntos de su competencia, así como los recursos humanos, materiales y financieros que les hayan sido asignados para el ejercicio de sus atribuciones legales.
-
-###### ARTICULO 170.
-
-La Entrega-Recepción de los asuntos y recursos que se encuentran a cargo de los servidores públicos salientes, constituyen un procedimiento legal-administrativo de orden informativo, de cumplimiento obligatorio y formal.
-
-###### ARTICULO 171.
-
-Los sujetos al proceso de Entrega-Recepción serán el H. Ayuntamiento, el Presidente Municipal, el Secretario del H. Ayuntamiento y Director General de Gobierno, los Secretarios, los Coordinadores, los Delegados Municipales, los Comisarios Municipales, los que ocupen cargos hasta el nivel de Jefes de Departamento o equivalentes y aquellos de nivel inferior que por la naturaleza e importancia de sus funciones y por la responsabilidad del puesto o encargo que realizan, les sea solicitado por el titular de la Dependencia, Unidad Administrativa o Entidad y/o por la Contraloría Municipal.
-
-Tratándose de Entidades, son sujetos al proceso de Entrega-Recepción, los Directores Generales y los que dentro de ellas ocupen cargos con las características establecidas en el párrafo anterior.
-
-###### ARTICULO 172.
-
-La Entrega-Recepción de los asuntos y recursos públicos, se realizará cuando se dé cualquiera de los siguientes supuestos:
-
-I. Al término del periodo constitucional de la Administración Pública Municipal de Aguascalientes; y
-
-II. Por cualquier otra causa distinta al término del periodo constitucional que implique separación temporal o definitiva del cargo y cese de sus funciones de los servidores públicos señalados en el artículo 171 del presente Código.
-
-###### ARTICULO 173.
-
-La Entrega-Recepción se formalizará mediante Acta Administrativa que se acompañará de un informe escrito del servidor público saliente, autorizado bajo su firma, de las actividades principales realizadas por la Oficina a su cargo, así como del estado que guarde, formando parte de la misma los informes, formatos, documentos y elementos anexos que señale la Contraloría Municipal en las disposiciones que al efecto expida. El acta será firmada por el servidor público saliente y el entrante, ante la presencia de dos testigos y la representación de la Contraloría Municipal.
-
-Cuando así proceda, los servidores públicos salientes harán constar en el Acta la renuncia o la causa o motivo de separación del empleo, cargo o comisión.
-
-El servidor público que entrega la Oficina a su cargo deberá elaborar, requisitar y suscribir el Acta Administrativa.
-
-Los servidores públicos encargados de la recepción tendrán el derecho de que en el mismo acto de Entrega se anoten al final del acta las observaciones que estimen pertinentes.
-
-###### ARTICULO 174.
-
-La Entrega-Recepción se realizará en la fecha en que el servidor público saliente concluya su empleo, cargo o comisión o se dé cualquiera de los supuestos contenidos en el Artículo 172 del presente Código.
-
-La Entrega-Recepción del Municipio y del H. Ayuntamiento se llevará a cabo ante Notario Público, una vez terminada la ceremonia de instalación y toma de protesta constitucional del H. Ayuntamiento electo.
-
-###### ARTICULO 175.
-
-En la entrega de los Organismos Públicos Descentralizados de la Administración Pública Municipal, se observarán las disposiciones que previene el presente capítulo, el carácter legal que ostentan al acuerdo que en tal sentido tome su órgano de gobierno.
-
-Al término del período constitucional de la Administración Pública Municipal de Aguascalientes, los Organismos Públicos Descentralizados elaborarán, requisitarán y suscribirán el Acta Administrativa de su situación actual y de los recursos humanos, financieros, y materiales que tienen asignados para el ejercicio de sus atribuciones legales, conforme a las disposiciones que para la Entrega-Recepción establece este Código. Esta Acta tendrá sólo carácter informativo.
-
-Al Acta Informativa del organismo municipal regulador del agua potable y alcantarillado se deberá integrar la documentación relativa al manejo de la Concesión del Servicio por parte de la empresa concesionaria.
-
-###### ARTICULO 176.
-
-Cuando el servidor público saliente no efectúe la entrega que señala este ordenamiento, será requerido por la Contraloría Municipal, para que en un término de cinco días hábiles, contados a partir de la fecha de su separación del empleo, cargo o comisión, cumpla con esta obligación.
-
-En este supuesto, el servidor público entrante, al tomar posesión, levantará acta circunstanciada con asistencia de dos testigos, dejando constancia del estado en que se encuentran los asuntos y recursos, haciéndolo del conocimiento de su jefe inmediato, del titular de la Dependencia, Unidad Administrativa o Entidad y de la Contraloría Municipal para efecto de que inicie el Procedimiento Administrativo de Responsabilidades.
-
-###### ARTICULO 177.
-
-En el caso en que el servidor público que deba recibir aún no haya sido designado o nombrado, el Presidente Municipal en funciones o el electo en su caso o el titular de la Dependencia, Unidad Administrativa o Entidad de su adscripción, designará al que recibirá la oficina, comunicando a la Contraloría Municipal tal designación.
-
-###### ARTICULO 178.
-
-A partir de la fecha en que el servidor público saliente proporcione la información y documentación correspondiente, en los términos y forma establecidos en el Artículo 173 de este Código, se tendrá por formalmente realizada la entrega, aún y cuando el ciudadano habilitado para recibir, se rehúse a hacerlo, quedando el saliente relevado por ello de responsabilidad por lo que se refiere al acto de Entrega.
-
-En este caso, el servidor público saliente deberá entregar los asuntos y recursos a su cargo al titular de su área de adscripción o a quien, en su caso, designe éste o el Presidente Municipal.
-
-Tal situación, el servidor público saliente la asentará en el Acta correspondiente y la hará del conocimiento de la Contraloría Municipal, a fin, de que ésta registre el hecho para los efectos legales procedentes.
-
-###### ARTICULO 179.
-
-Las observaciones que surjan de la revisión al Acta y sus anexos a que se refiere el Artículo 173 de este Capítulo, deberán formularse por escrito ante la Contraloría Municipal por los servidores públicos entrantes, dentro de los treinta días hábiles contados a partir de la fecha de Entrega-Recepción; para tal efecto, la Contraloría Municipal requerirá de inmediato la presencia dentro de los tres días hábiles siguientes del servidor público saliente, el que estará obligado a realizar las aclaraciones que le sean requeridas en el tiempo señalado por la Contraloría, la que deberá levantar el Acta correspondiente.
-
-###### ARTICULO 180.
-
-Con el propósito de facilitar el proceso de Entrega-Recepción, los titulares de las Dependencias, Unidades Administrativas y Entidades tomarán las medidas necesarias a fin de que se mantengan ordenados y permanentemente actualizados los informes, registros, controles y demás documentación relativa a los asuntos de su competencia y la información de los recursos humanos, materiales y financieros de que disponen para el ejercicio de sus funciones.
-
-###### ARTICULO 181.
-
-Con motivo de la Entrega, el servidor público saliente no queda eximido de las responsabilidades en que hubiese incurrido durante el desempeño de su empleo, cargo o comisión.
-
-###### ARTICULO 182.
-
-El incumplimiento de las disposiciones del presente Capítulo denominado "De la Entrega-Recepción de la Administración Pública Municipal" o de las que deriven del mismo, será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, sin perjuicio de cualquier otra responsabilidad en la que pudieran incurrir los servidores públicos.
-
-###### ARTICULO 183.
-
-La Contraloría Municipal, en el ámbito de su competencia, queda facultada para:
-
-I.- Dictar las disposiciones que se requieran para la adecuada aplicación y cumplimiento de este Capítulo; y
-
-II.- Vigilar el cumplimiento y aplicación del presente Capítulo, así como de las disposiciones complementarias dictadas.
-
-###### ARTICULO 184.
-
-Para los gastos preoperativos de la nueva administración municipal, se asignará al Presidente Municipal electo, una partida especial que deberá establecerse en el Presupuesto de Egresos del último año de la administración, la cual deberá aplicarse conforme a las disposiciones administrativas que al efecto dicte la Contraloría Municipal en apoyo y cumplimiento de lo establecido en el artículo 99 fracción II de este Código. La partida, así como su manejo y entrega, se deberá ceñir a las siguientes reglas generales.
-
-I. Con cargo a la partida especial asignada, la autoridad municipal sujetará las adquisiciones de bienes muebles y servicios requeridos por la Administración electa al sistema de compras regulado en los Artículos 109 al 137 de este Código Municipal de Aguascalientes, bienes que deberán ser registrados en el tiempo y forma establecidos por los numerales 227 al 235 del Código en cita, ante el Departamento de Control Patrimonial, a fin de que pasen a formar parte del patrimonio del Municipio.
-
-El resguardante de estos bienes lo será el Presidente Municipal electo.
-
-II. Los gastos menores e imprevistos que con cargo a la partida especial asignada realice la Administración electa quedan sujetos a las disposiciones que al efecto emita la Contraloría; y
-
-III. El personal requerido, será dado de alta en la nómina municipal, con cargo a la partida especial asignada.
-
-### CAPITULO IV. Descentralización y Desconcentración Administrativa
-
-###### ARTICULO 185.
-
-Para la más eficaz atención y despacho de los asuntos de la competencia de la Presidencia, ésta contará con los Organos Administrativos desconcentrados y descentralizados, que resulten necesarios, los que tendrán las facultades y obligaciones que se establezcan en las Leyes de su creación.
-
-###### ARTICULO 186.
-
-Las autoridades municipales por sí o en coordinación podrán para otorgar un mejor servicio a la ciudadanía establecer un sistema de ventanilla única para trámites de licencias, permisos o autorizaciones, o apertura de negocios o industrias, en la cual se entregará toda la documentación y se le dará respuesta a los ciudadanos.
-
-### CAPITULO V. De la Participación Social
-
-APARTADO PRIMERO
-
-De las Asociaciones de Vecinos y de las Obras por Cooperación
-
-###### ARTICULO 187.
-
-El H. Ayuntamiento reconocerá la representatividad a las asociaciones de vecinos o comités de colonos que se constituyan para lograr el mejoramiento de su fraccionamiento, colonia o barrio mediante la promoción de obras de beneficio social.
-
-###### ARTICULO 188.
-
-Ninguna autoridad municipal deberá intervenir en la vida interna de las asociaciones de vecinos o comités de colonos.
-
-###### ARTICULO 189.
-
-El H. Ayuntamiento se coordinará con estas asociaciones para la promoción de obras por cooperación, en la cual los vecinos pagarán una parte del costo de la obra, y la otra deberá ser cubierta por el propio municipio o por otras entidades de gobierno.
-
-###### ARTICULO 190.
-
-El H. Ayuntamiento, a través de la Secretaría de Desarrollo Social se coordinará con las asociaciones de vecinos para la promoción y análisis de obras por cooperación, las cuales deberán ser aprobadas por los vecinos en términos de los siguientes artículos.
-
-###### ARTICULO 191.
-
-Una vez realizada la fase de procedimiento de estudios y proyección técnica, previo a la ejecución de las obras mencionadas, se citará a los integrantes de la asociación de vecinos, así como a todos los dueños de predios que resulten beneficiados con la obra a una reunión en la que se les informará ampliamente sobre los diversos aspectos de la obra u obras o servicios, así como de los contratos que se hubieren proyectado para la construcción de las mismas.
-
-###### ARTICULO 192.
-
-En esa reunión se oirá a los propietarios o beneficiarios con amplitud, los que podrán alegar en defensa de sus intereses respecto de todos los puntos de la obra o servicio, repercusión de su costo, precios unitarios bases para calcular la cuota de cooperación que a cada uno le corresponda cubrir, así como todo aquello que a su derecho convenga en relación con los puntos antes señalados y que impliquen su defensa.
-
-Se citará a las reuniones con lo menos dos días hábiles de anticipación.
-
-El citatorio señalará hora, día y lugar de la reunión, así como el asunto a tratar.
-
-###### ARTICULO 193.
-
-La reunión será presidida por la persona que al efecto acredite la Presidencia Municipal que celebrará con el número de propietarios o beneficiarios que asistan.
-
-###### ARTICULO 194.
-
-Para tener derecho a concurrir a las reuniones de propietarios o beneficiarios y participar en ellas con voz y voto, el interesado deberá exhibir los últimos títulos que lo acrediten como propietario o en su defecto, un certificado de la Secretaria de Finanzas del Estado o del receptor de rentas respectivo en que conste que la persona de que se trate, es propietaria de uno o más inmuebles dentro de la zona beneficiada con las obras de cooperación.
-
-###### ARTICULO 195.
-
-Cada propietario o beneficiario representará un voto, aún cuando fuere propietario de varios inmuebles dentro de la zona. El poseedor legítimo podrá asistir a las reuniones con voz pero sin voto.
-
-Los interesados podrán concurrir personalmente o bien por medio de apoderado, acreditado por simple carta poder ante dos testigos.
-
-###### ARTICULO 196.
-
-La ejecución de los proyectos de obras o servicios, su precio, contratación, derrama de su costo, precios unitarios, bases para calcular las cuotas de cooperación que a cada propietario o poseedor le corresponde cubrir y el plazo para su pago, se tendrán por aprobados cuando:
-
-I. No hubiere concurrido ningún propietario o poseedor a pesar de las notificaciones hechas de acuerdo con el presente Código;
-
-II. La mayoría de los que concurran otorguen su consentimiento; y
-
-III. Cuando hubiere oposición de un sector de propietarios concurrentes que representen menos del 40% de los propietarios o poseedores comprendidos en la zona.
-
-###### ARTICULO 197.
-
-Las obras o servicios por cooperación podrán ser ejecutados por el Ayuntamiento o por terceros contratados en los mismos términos señalados por este código para obra pública.
-
-Cuando el Ayuntamiento o un tercero ejecuten las obras, los beneficiarios iniciarán la aportación de sus cuotas a la terminación de las mismas obras, lo que se hará constar en un acta de entrega recepción debidamente circunstanciada, verificando que las obras cumplan con la calidad estipulada en el presupuesto respectivo.
-
-Asimismo los beneficiarios supervisarán la ejecución correcta de los proyectos mediante los vocales de contraloría social que formen parte de los comités o asociaciones.
-
-APARTADO SEGUNDO
-
-De los Comités de Participación Ciudadana
-
-###### ARTICULO 198.
-
-Los comités de participación ciudadana son órganos de consulta y de enlace entre la autoridad municipal y la sociedad.
-
-###### ARTICULO 199.
-
-La composición de dichos comités será la siguiente: Se integrará por el Presidente Municipal, quien presidirá los comités, así como por el Secretario del H. Ayuntamiento, quien fungirá como Secretario Técnico, así como por el Secretario del área respectiva y el Regidor o Síndico responsable del área.
-
-Por parte de la ciudadanía participarán los representantes de los organismos empresariales, organismos no gubernamentales y en general, organismos representativos de la sociedad que tengan injerencia directa en el asunto.
-
-###### ARTICULO 200.
-
-Los comités deberán integrarse a más tardar dentro del tercer mes de que tome posesión el cabildo y la administración municipal, y deberán establecer su propio reglamento interno.
-
-###### ARTICULO 201.
-
-El propio comité determinará la periodicidad de las sesiones así como el lugar en que las mismas se lleven a cabo. Las sesiones serán públicas.
-
-###### ARTICULO 202.
-
-Son funciones de los comités las siguientes:
-
-I. Servir como vínculo de comunicación entre la administración municipal y la sociedad;
-
-II. Proponer medidas y reformas necesarias, a fin de mejorar los sistemas administrativos y la mejor prestación de los servicios públicos municipales;
-
-III. Vigilar la correcta prestación de los servicios públicos municipales así como el buen desempeño de los servidores públicos, señalando en concreto los defectos del mal funcionamiento del área de que se trate, o el mal desempeño de los servidores; y
-
-IV. Mantener informada a la sociedad de todos aquellos cambios que se den dentro de la administración municipal en la prestación de los servicios públicos a efecto de que sean aprovechados por la ciudadanía.
-
-### CAPITULO VI. Del Archivo General Municipal
-
-APARTADO PRIMERO
-
-Disposiciones Generales
-
-###### ARTICULO 203.
-
-El Archivo General Municipal de Aguascalientes, es la dependencia encargada de resguardar y difundir el acervo histórico existente en la misma, así como rescatar y recopilar aquellos documentos que deban permanecer en él. Es la entidad central de consulta del H. Ayuntamiento en el manejo de archivos administrativo e históricos de la administración municipal para lograr una mejor coordinación, eficiencia y uniformidad normativa en esta materia, dependerá de la Secretaría de Administración, y su director será nombrado por el Secretario de Administración previo acuerdo con el Presidente Municipal.
-
-###### ARTICULO 204.
-
-El presente capítulo tiene como finalidad normar el desplazamiento, conservación, y clasificación de los documentos generados por la administración pública municipal.
-
-###### ARTICULO 205.
-
-El Archivo General Municipal tendrá por objeto:
-
-I. Buscar las formas mas adecuadas para administrar la documentación generada por la Administración Pública Municipal;
-
-II. Asesorar y apoyar a las unidades administrativas en el diseño de sus procedimientos internos, para el manejo y administración de documentos;
-
-III. Vigilar y evaluar el cumplimiento de las normas expedidas para regular el manejo, transferencia, conservación o eliminación de los documentos que integran los archivos con motivo de la gestión administrativa;
-
-IV. Ser el órgano de apoyo, supervisión y promoción de la formación de archivos de área;
-
-V. Realizar tareas que ayuden a incrementar y preservar su acervo histórico a través del rescate y/o adquisición de material que permita integrar la evidencia histórica municipal, estatal y regional; y
-
-VI. Formar parte del Sistema Estatal de Archivos.
-
-###### ARTICULO 206.
-
-Los fondos documentales que integran el Archivo General Municipal son:
-
-I. Fondo Administrativo: Su documentación tiene una vida útil de 30 a 35 años, a partir de su expedición, dependiendo del documento que se trate, su consulta y utilización necesaria para el trámite de asuntos relacionados con la gestión Municipal. La consulta de este material, queda reservada para el personal de la dependencia que lo generó.
-
-II. Fondos Gráficos e Impresos: está integrado por:
-
-a) Planoteca: Contiene planos y mapas, su consulta requiere de autorización por escrito de la oficina generadora;
-
-b) Biblioteca: Se compone de obras dedicadas principalmente a historia regional; su consulta está a disposición del público en general y ésta sólo se hará dentro del edificio;
-
-c) Hemeroteca: Se compone de diarios, periódicos oficiales y de prensa comercial; su consulta está a disposición del público en general y ésta se hará sólo dentro del edificio. La instrumentación para su consulta deberá ser sistemáticamente actualizada. Asimismo, deberá contar con una recopilación actualizada de leyes, decretos, reglamentos y bandos, que tengan relación con el Estado y Municipio de Aguascalientes;
-
-d) Fototeca: Está formada por fotografías de administraciones pasadas; su consulta es abierta al público; y
-
-e) Fondo Histórico: Está integrado por la documentación que concluyó su vida para la administración Municipal, su consulta queda abierta al público en general, no permitiendo la salida de ningún documento, salvo en casos especiales como exposiciones o intercambios culturales. Este fondo se enriquece con compras, donaciones y microfilms.
-
-Además de mencionar el Archivo General Municipal como fuente de información, los autores de investigaciones realizadas en base al material que aquí se localiza, deberán donar un ejemplar de su publicación al mismo archivo.
-
-###### ARTICULO 207.
-
-El Archivo General Municipal estará bajo la responsabilidad de un titular con los conocimientos archivonómicos necesarios, que le permitan conocer la normatividad y objetivos de la documentación a su cargo, para su eficaz servicio a las dependencias municipales y a la comunidad en general.
-
-El titular del Archivo General Municipal será auxiliado por el personal que a esa dependencia asigne el organigrama y el presupuestos (sic) de egresos y tendrá las facultades y obligaciones siguientes:
-
-I. Planear, programar, organizar, dirigir controlar y evaluar el desarrollo de las funciones correspondientes al Archivo General Municipal;
-
-II. Dictar las políticas generales de administración y funcionamiento del archivo;
-
-III. Formular los dictámenes, opiniones e informes que le sean solicitados por la superioridad;
-
-IV. Presentar proyectos de programas y presupuestos para esa dependencia, así como gestionar la dotación de recursos necesarios para el desempeño de las funciones que tiene encomendadas;
-
-V. Emitir opinión previa a la contratación de personal para servicio del archivo, procurando que reúna las (sic) conocimientos profesionales necesarios para garantizar su eficaz desempeño;
-
-VI. Asesorar técnicamente, en asuntos de su especialidad, a los servidores públicos de la administración Municipal;
-
-VII. Comunicar a los titulares de las dependencias que le envían documentación, de las irregularidades que detecte y las recomendaciones sobre su manejo;
-
-VIII. Vigilar para efectos de préstamo y consulta de documentos, que su trámite sea realizado directamente por el titular de la dependencia solicitante o en su defecto, por la parte interesada, en los términos del presente capítulo;
-
-IX. Constatar el ingreso de documentos, responsabilizándose, con su aval, del préstamo y/o salida de los mismos;
-
-X. Realizar periódicamente la depuración de los acervos documentales de las distintas dependencias Municipales;
-
-XI. Convocar a sesión del consejo consultivo de depuración; y
-
-XII. Las demás que le confieran las disposiciones legales aplicables o le delegue el H. Ayuntamiento a través del Presidente Municipal o del Secretario de Administración.
-
-###### ARTICULO 208.
-
-En el Archivo General Municipal se concentrará la documentación de los archivos inmediatos o de área, de las Dependencias o Unidades que integran la administración pública municipal.
-
-Las dependencias harán entrega al Archivo General Municipal dentro de los cuatro primeros meses del año, la documentación concluida, inactiva o semi-activa, debidamente relacionada; si alguna de las dependencias municipales considera necesario hacer una depuración previa al envío, ésta deberá de realizarse ante un representante del Archivo General Municipal.
-
-###### ARTICULO 209.
-
-Las solicitudes de préstamo de documentación deberán formularse por medio de vale que el Archivo General Municipal proporcione, el cual deberá de contener la descripción exacta del documento requerido, la firma del titular de la dependencia solicitante y de quien lo recibe.
-
-###### ARTICULO 210.
-
-La documentación que se proporcione a las diversas dependencias, deberá ser devuelta en un plazo máximo de 7 días hábiles a partir de la fecha de entrega, salvo pedimento de ampliación de plazo razonable y de no hacerlo podrá iniciarse contra del servidor público solicitante el Procedimiento de Responsabilidad Administrativa Disciplinaria a que se refiere el articulo 72, de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
-
-###### ARTICULO 211.
-
-El Archivo General Municipal proporcionará al público, servicios como banco de datos, fotocopiado, expedición de certificaciones o información de documentos históricos.
-
-###### ARTICULO 212.
-
-Queda estrictamente prohibido al personal que preste sus servicios en el Archivo General Municipal la sustracción de todo tipo de documentos.
-
-APARTADO SEGUNDO
-
-De las Transferencias y Depuración Documental
-
-###### ARTICULO 213.
-
-Las dependencias generadoras de documentos deberán conservarlos en sus archivos de trámite hasta que concluyan su vida útil, que será cuando menos de dos años. Posteriormente se transferirá al Archivo General Municipal dentro de los primeros cuatro meses de cada año, debidamente ordenada y relacionada, de acuerdo al formato y calendario que les será permitido por el jefe del Archivo Municipal.
-
-###### ARTICULO 214.
-
-La transferencia que se haga al Archivo Municipal, solamente deberá referirse a la documentación en el estricto sentido del término, quedando prohibido el envío de materiales de deshecho, muebles y equipo de oficina.
-
-###### ARTICULO 215.
-
-Para los efectos de depuración de documentos, funcionará un consejo consultivo de depuración documental, integrado por el Secretario Administrativo como Presidente, por el jefe del Archivo General Municipal como secretario por un historiador y el titular de la dependencia generadora de la documentación como vocales.
-
-###### ARTICULO 216.
-
-El procedimiento para la depuración de documentos, se sujetará a los lineamientos siguientes:
-
-I. El Consejo Consultivo Documental, es el único órgano facultado para autorizar la baja de documentos;
-
-II. En caso de empate a la votación del Consejo Consultivo, el presidente del mismo tendrá voto de calidad;
-
-III. El Archivo General Municipal deberá de elaborar una relación de la documentación a depurar, que incluirá el asunto, año, y volumen de la documentación, informando de ello a la dependencia generadora, y convocará al Consejo Consultivo de Depuración Documental;
-
-IV. Si procede, el Consejo levantará un acta, autorizando la depuración al Archivo General Municipal para que sea cotejada con la relación a que se hace mención él la facción (sic) que antecede;
-
-V. Concluida la revisión y confirmando el cotejo, el personal del archivo procederá a la destrucción física de la documentación mencionada.
-
-###### ARTICULO 217.
-
-Las infracciones a este capitulo serán sancionadas conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y la Legislación Penal Vigente en el Estado de Aguascalientes.
-
-### CAPITULO VII. Sobre el Uso y Usufructo de Bienes Muebles, Propiedad Municipal o al Servicio Municipal
-
-###### ARTICULO 218.
-
-El presente Capítulo es de observancia general en todo el territorio del Municipio de Aguascalientes y sus disposiciones son de carácter obligatorio para los servidores públicos de las Dependencias de dicho Municipio y tiene por objeto establecer las disposiciones a que deberán sujetarse todos los resguardantes y usuarios de bienes muebles y vehículos automotores propiedad o al servicio del Municipio de Aguascalientes, en cuanto a su control, uso, organización sistemática, entrega, recepción, asignación, reasignación, transferencias, registro, altas, bajas, custodia, resguardo, mantenimientos preventivos y correctivos, suministro de combustible, accesorios, lugares de resguardo, horarios de circulación, daños, robos parciales o totales, valuación, adquisición, reposición, sanciones y enajenación
-
-APARTADO PRIMERO
-
-Disposiciones Generales
-
-###### ARTICULO 219.
-
-Para los efectos de este Capítulo se entenderá por:
-
-I. Capítulo: Al presente Capítulo Séptimo, del Título Tercero, del Libro Segundo, del Código Municipal de Aguascalientes;
-
-II. Municipio: Al Municipio de Aguascalientes;
-
-III. Bien Mueble: A todo artículo propiedad o al servicio del Municipio, que pueda ser inventariado y registrado por el Departamento de Control Patrimonial, a través de etiquetas con código de barras o similares y que no sea clasificado por dicho Departamento como bien consumible;
-
-IV. Control Patrimonial: Al Departamento de Control Patrimonial, dependiente de la Dirección de Recursos Materiales, de la Secretaría de Administración del Municipio;
-
-V. Resguardante: Al Servidor Público del Municipio, custodio de un bien mueble y cuya responsabilidad sobre el mismo, ha quedado registrada mediante su firma en el Resguardo correspondiente;
-
-VI. Usuario: Al Servidor Público del Municipio, que utiliza de manera temporal o permanente un Bien Mueble y siempre inherente a la función que desempeñe;
-
-VII. Subdirección: A la Subdirección de Adquisiciones, de la Dirección de Recursos Materiales, de la Secretaría de Administración del Municipio;
-
-VIII. Verificador Almacenista: Al Servidor Público adscrito a Control Patrimonial, cuya función principal es la de verificar que lo adquirido y entregado cumpla con todos los requisitos establecidos en la Orden de Compra y en la factura correspondientes;
-
-IX. Técnico Operativo: Al Servidor Público adscrito a Control Patrimonial, cuya función principal es el levantamiento físico de inventarios en las diversas áreas municipales y vehículos automotores;
-
-X. Bien de Desecho: Al Bien mueble que por su naturaleza ha terminado su vida útil;
-
-XI. Bien Obsoleto: Al Bien mueble que no obstante que no haya terminado su vida útil y se encuentre en condiciones de uso, resulta obsoleto para el Municipio su utilización por razones técnicas o económicas;
-
-XII. Bien de Uso Común: Al Bien mueble ubicado en áreas municipales de uso común y de utilidad general y que por lo mismo no posee resguardo;
-
-XIII. Bien de uso Público: Al Bien mueble ubicado en lugares públicos y que por lo mismo no posee un resguardo y que son vigilados por los elementos adscritos a la Dirección General de Seguridad Pública y Tránsito Municipal;
-
-XIV. Resguardo: Al Documento Público expedido por Control Patrimonial, en el que consta la firma del resguardante y que contiene los datos del bien mueble;
-
-XV. Comisión: A la Comisión de Bienes Muebles, integrada por el Síndico Procurador, Síndico de Hacienda, Regidor de Hacienda, Secretario de Administración, Contralor Municipal, Director Jurídico. Director de Recursos Materiales, Director de Servicios Generales y por el Jefe del Departamento de Control Patrimonial;
-
-XVI. Palacio: Al Palacio Municipal, sede del H. Ayuntamiento del Municipio de Aguascalientes, sito en Plaza de la Patria S/n, esquina calle Colón;
-
-XVII. Dependencia Municipal o Unidad Administrativa: A las señaladas con tal carácter en este Código Municipal de Aguascalientes;
-
-XVIII. Vehículo Automotor: A todo medio de transporte impulsado mediante una fuerza mecánica o motriz, propiedad o al servicio del Municipio; y
-
-XIX. Taller: Al Departamento de Mantenimiento y Reparación de Vehículos, de la Dirección de Servicios Generales, de la Secretaría de Administración del Municipio.
-
-###### ARTICULO 220.
-
-La aplicación e interpretación de este Capítulo corresponde a Control Patrimonial y a la Comisión.
-
-###### ARTICULO 221.
-
-Todos los Bienes Muebles deberán usarse exclusivamente por personal adscrito a las Dependencias Municipales y su uso será únicamente para desempeñar actividades propias de sus funciones.
-
-Cualquier incumplimiento a esta disposición, será sancionado en los términos que se precisa en el Apartado correspondiente de este Capítulo.
-
-###### ARTICULO 222.
-
-Control Patrimonial realizará el levantamiento de inventarios físicos de bienes muebles y vehículos automotores en las distintas áreas municipales, cada vez que lo determine necesario y cuando menos una vez al año.
-
-Es obligación del titular Administrativo de cada Dependencia o del titular de Area, brindar el apoyo y asistencia solicitada por Control Patrimonial para la realización de los levantamientos de inventario físico.
-
-###### ARTICULO 223.
-
-Es responsabilidad del titular Administrativo de cada Dependencia Municipal, remitir a Control Patrimonial, un reporte mensual de movimientos sobre bienes muebles, independientemente de que no se hubiese suscitado movimiento alguno.
-
-###### ARTICULO 224.
-
-La salida de bienes muebles ubicados en Dependencias Municipales y Unidades Administrativas, cuyas oficinas se encuentren fuera de Palacio, deberá efectuarse mediante el mismo procedimiento implementado en Palacio. Esto es, el responsable y/o titular del área deberá expedir y autorizar el Vale de Salida correspondiente.
-
-###### ARTICULO 225.
-
-Los reportes de ciudadanos en relación al mal uso, abuso o excesos propinados sobre bienes muebles, serán atendidos por Control Patrimonial y se les dará el debido seguimiento para la aplicación de las sanciones que correspondan.
-
-###### ARTICULO 226.
-
-El Municipio bajo ninguna circunstancia, se hace responsable de ningún bien mueble propiedad particular; parcial o totalmente. El posible robo, mal uso o cualquier situación adversa al bien, será por cuenta y riesgo de su propietario.
-
-###### ARTICULO 227.
-
-Todos los bienes no inventariados y no registrados por Control Patrimonial, que formen parte intrínseca de un bien inmueble, serán responsabilidad exclusiva del titular del área correspondiente.
-
-###### ARTICULO 228.
-
-Toda Dependencia Municipal o Unidad Administrativa que posea un almacén para la custodia de bienes muebles, deberá implementar forzosamente, un sistema de almacén que permita el manejo ágil, eficiente y controlado del mismo. La responsabilidad para el desarrollo e implementación del sistema recaerá en el Director de Area de que se trate.
-
-###### ARTICULO 229.
-
-Toda detección de bienes muebles que no ostenten el registro patrimonial y que no exista en el Inventario General, será sujeto a una sanción administrativa, a quien haya ordenado la compra, por haber evadido el trámite administrativo correspondiente.
-
-Los responsables de este hecho serán el Administrador del Area y el Director de Area en su conjunto.
-
-APARTADO SEGUNDO
-
-De las Funciones de Control Patrimonial
-
-###### ARTICULO 230.
-
-Corresponde exclusivamente a Control Patrimonial las siguientes funciones:
-
-I. Registrar Bienes Muebles;
-
-II. Elaborar, conservar, custodiar y tramitar para su firma, los resguardos correspondientes;
-
-III. Mantener actualizado el Inventario General de Bienes Muebles;
-
-IV. Detectar la ausencia de bienes muebles y proceder en consecuencia;
-
-V. Revisar que lo señalado en la Orden de Compra y lo recibido coincidan con la factura;
-
-VI. Determinar y aplicar sanciones sobre el uso y usufructo de bienes muebles, con base en lo señalado por el presente Reglamento;
-
-VII. Dictaminar la Obsolescencia de bienes muebles;
-
-VIII. Reasignar bienes muebles puestos a su disposición;
-
-IX. Realizar las enajenaciones de bienes muebles que autorice el H. Cabildo del Municipio;
-
-X. Expedir Vales de Salida de Palacio de bienes muebles;
-
-XI. Registrar y autorizar las transferencias o reubicaciones solicitadas sobre bienes muebles;
-
-XII. Realizar Altas de bienes muebles en el Inventario General;
-
-XIII. Analizar, evaluar y dictaminar la baja de bienes muebles en función de la operatividad de éstos, de la obsolescencia y del costo/beneficio;
-
-XIV. Detectar bienes muebles no clasificados como tales y proceder a su registro;
-
-XV. Emitir Avalúos sobre bienes muebles;
-
-XVI. Determinar valores de reposición sobre bienes muebles;
-
-XVII. Determinar la vida útil de bienes muebles;
-
-XVIII. Analizar, evaluar y determinar la viabilidad de uso sobre bienes muebles (por parte de resguardantes o usuarios solicitantes en situaciones restringidas);
-
-XIX. Turnar a la Contraloría Municipal, los asuntos que estime para el fincamiento de responsabilidades, en cuanto al uso y usufructo de bienes muebles;
-
-XX. Realizar los levantamientos de inventarios físicos a los bienes muebles y vehículos automotores;
-
-XXI. Participar en la Comisión, en los términos que señale este Capítulo; y
-
-XXII. Las demás que le señale expresamente este Capítulo, el C. Presidente Municipal de Aguascalientes y el C. Secretario de Administración.
-
-APARTADO TERCERO
-
-Del Registro de Bienes Muebles
-
-###### ARTICULO 231.
-
-Por cada bien mueble deberá existir un resguardo, con excepción de los bienes muebles de usos común y público.
-
-###### ARTICULO 232.
-
-Todo resguardo de bienes muebles deberá contener la siguiente información:
-
-a) Fecha;
-
-b) Clave de adscripción;
-
-c) Descripción del bien;
-
-d) Nombre y firma del resguardante;
-
-e) Fecha de adquisición;
-
-f) Valor histórico de adquisición; y
-
-g) Estado del bien.
-
-###### ARTICULO 233.
-
-Todo bien mueble de nueva adquisición deberá ser entregado en Control Patrimonial para su registro en el Inventario General y para la elaboración y tramitación del resguardo correspondiente.
-
-###### ARTICULO 234.
-
-Es responsabilidad y obligación de todo servidor público municipal, firmar dentro de los tres días hábiles posteriores al día de su recepción, los resguardos emitidos por Control Patrimonial; el incumplimiento a ésta disposición dará lugar a la aplicación de la sanción que determine Control Patrimonial e inclusive, a la reasignación de los bienes muebles objeto de los resguardos.
-
-###### ARTICULO 235.
-
-Control Patrimonial mantendrá listados actualizados y pormenorizados de todos y cada uno de los bienes muebles adscritos a cada Dependencia Municipal.
-
-###### ARTICULO 236.
-
-Control Patrimonial deberá verificar que la descripción de las partidas descritas en la Orden de Compra corresponda al bien mueble recibido y facturado, en caso de que exista discrepancia, no recibirá el bien ni sellará la factura, comunicándolo al proveedor para los efectos correspondientes.
-
-###### ARTICULO 237.
-
-Queda estrictamente prohibido recibir bienes muebles directamente en la (sic) Dependencias Municipales, cuando la Orden de Compra señale que la entrega deberá realizarse en Control Patrimonial.
-
-###### ARTICULO 238.
-
-Es responsabilidad del titular administrativo o Director de Area que recibió directamente de un proveedor un bien mueble, notificar inmediatamente a Control Patrimonial la entrega-recepción a satisfacción de los bienes requisitados, para su alta y registro en el Inventario General.
-
-###### ARTICULO 239.
-
-Todo bien mueble adquirido por un procedimiento ajeno al efectuado por la Subdirección, deberá ser registrado ante Control Patrimonial. Para tal efecto, es responsabilidad de cada comprador o administrador que hubiese incurrido en esa práctica, dar aviso dentro de los cinco días hábiles siguientes a Control Patrimonial, señalando el nombre del servidor público municipal que deberá suscribir el resguardo. En caso de incumplimiento, incurrirá en responsabilidad administrativa y se turnará el caso a la Contraloría Municipal para lo conducente.
-
-###### ARTICULO 240.
-
-Independientemente de la fuente del recurso con que se adquiere un bien mueble y del procedimiento de adquisición adoptado, es obligación del comprador, del administrador del área o del titular de la misma, según sea el caso, dar aviso inmediato a Control Patrimonial, para la alta y registro de bien.
-
-APARTADO CUARTO
-
-De las Obligaciones de los Resguardantes y Usuarios
-
-###### ARTICULO 241.
-
-Son obligaciones de los Resguardantes y Usuarios las siguientes:
-
-I. Hacer buen uso y usufructo de los bienes muebles, en apego al manual de instrucciones del fabricante o a las indicaciones generales de uso, con el fin de garantizar su correcto funcionamiento y máximo aprovechamiento de los mismos. En caso de no existir indicaciones de uso, deberán solicitar asistencia y asesoría a servidores públicos conocedores de dichos bienes o al proveedor de los mismos;
-
-II. Notificar a Control Patrimonial a través del Formato correspondiente, dentro de los cinco días hábiles siguientes a cuando ocurra el hecho, cuando un bien mueble se encuentre en forma permanente fuera de servicio y a su juicio deba ser dado de baja;
-
-III. Reportar a su superior jerárquico, dentro de los tres días hábiles siguientes a cuando ocurra el hecho, todo desperfecto sobre bienes muebles que impida la operatividad de los mismos;
-
-IV. Solicitar a Control Patrimonial el registro de bienes muebles de su propiedad, con el carácter de particular, a fin de que puedan hacer uso de los mismos en su área de trabajo;
-
-V. Solicitar en tiempo y forma el mantenimiento preventivo y correctivo de los bienes muebles a su cargo;
-
-VI. Garantizar la custodia de los bienes muebles bajo su responsabilidad;
-
-VII. Utilizar los bienes muebles única y exclusivamente para las funciones operativas del Municipio;
-
-VIII. Evitar transferencia o reubicaciones de los bienes muebles y en su caso, notificarlas a Control Patrimonial a través del formato correspondiente;
-
-IX. Responder sobre cualquier situación que se presente, en relación con el bien mueble bajo su responsabilidad y en el supuesto de que un bien esté resguardado por determinada persona y sea utilizado por otra, ambos fungirán como corresponsables del mismo y la Comisión determinará el grado de responsabilidad de cada uno para la aplicación de las sanciones correspondientes;
-
-X. Atender en tiempo y forma, los comunicados que Control Patrimonial les notifique en relación a los bienes muebles bajo su responsabilidad; y
-
-XI. Dar aviso a Control Patrimonial, cuando detecten que una etiqueta de registro patrimonial, se encuentre en malas condiciones.
-
-APARTADO QUINTO
-
-De las Prohibiciones de los Resguardantes y Usuarios
-
-###### ARTICULO 242.
-
-Queda estrictamente prohibido a los resguardantes y usuarios de bienes muebles y en general a los servidores públicos municipales lo siguiente:
-
-I. Utilizar los bienes muebles en actividades de carácter particular, dentro o fuera de los horarios y lugares de trabajo;
-
-II. Causar intencionalmente daños o desperfectos en los bienes muebles;
-
-III. Enajenar bienes de desecho o consumibles, independientemente de la naturaleza y estado de los mismos;
-
-IV. Intercambiar piezas que formen parte de los bienes muebles, ya sea entre éstos o de los mismos a un bien particular;
-
-V. Reubicar o transferir bienes muebles sin conocimiento de Control Patrimonial; y
-
-VI. Retirar, rayar, maltratar e intercambiar las etiquetas patrimoniales de los bienes muebles.
-
-APARTADO SEXTO
-
-De la Salida de Bienes Muebles de Palacio
-
-###### ARTICULO 243.
-
-En Palacio toda salida de bienes muebles al exterior, deberá ser solicitada ante Control Patrimonial, única Dependencia autorizada para expedir el vale de salida correspondiente. Quien no acate la presente disposición incurrirá en responsabilidades.
-
-###### ARTICULO 244.
-
-Los Directores o Jefes Administrativos de las Dependencias y áreas ubicadas en Palacio, deberán registrar ante Control Patrimonial, el nombre, puesto y firma de las personas autorizadas para firmar Vales de Salida de Palacio. (dos personas como máximo por cada Dependencia de nivel Jefe de Departamento o Director de Area).
-
-###### ARTICULO 245.
-
-Se solicitará ante Control Patrimonial y en forma económica el Vale de Salida del bien mueble, debiendo personal del área solicitante, anotar los datos requeridos en el mismo con letra de molde y legible y procederá a obtener la firma de la persona autorizada y previamente registrada y de quien tramita el mismo (éste último puede ser cualquier trabajador del área solicitante).
-
-Firmado el Vale de Salida por la persona que lo tramita y por el Jefe de Departamento o Director del Area solicitante, se obtendrá la firma del responsable de Control Patrimonial, ya que sin ésta, el personal de seguridad de Palacio no permitirá la salida del bien mueble.
-
-###### ARTICULO 246.
-
-Toda salida de bienes muebles deberá realizarse única y exclusivamente por la puerta de acceso principal a Palacio, a excepción de los vehículos que se encuentren en el Estacionamiento de Palacio.
-
-###### ARTICULO 247.
-
-El Vale de salida es un documento único, por lo tanto, no podrá ser reemplazado por ningún otro documento análogo.
-
-###### ARTICULO 248.
-
-Los Vales de Salida se expedirán de las 8:00 a las 15:00 horas en días hábiles.
-
-###### ARTICULO 249.
-
-El Vale de Salida deberá contener la siguiente información:
-
-I. Fecha;
-
-II. Bien o bienes solicitados a salir de Palacio;
-
-III. Registro patrimonial del bien o bienes;
-
-IV. Adscripción de la Dependencia;
-
-V. Nombre y firma del solicitante;
-
-VI. Motivo y justificación de la solicitud;
-
-VII. Período de ausencia del bien, no mayor a 15 días naturales;
-
-VIII. Nombre y firma de autorización por parte del Director de Area o del Jefe del Departamento solicitante y del personal autorizado de Control Patrimonial; y
-
-IX. Adscripción a donde va el bien mueble.
-
-###### ARTICULO 250.
-
-Todo Vale de Salida:
-
-I. Perderá vigencia si al tratar de extraer el bien mueble de Palacio, la fecha de expedición es mayor de tres días hábiles;
-
-II. Deberá ser expedido en los formatos que emita Control Patrimonial;
-
-III. Tendrá una vigencia de 15 días naturales máximo y podrá ser renovado en casos excepcionales por una sola ocasión;
-
-IV. Control Patrimonial exigirá la devolución del bien mueble al vencimiento del Vale; y
-
-V. Deberá ser hecho efectivo en horarios y días hábiles.
-
-###### ARTICULO 251.
-
-En los supuestos que la salida del bien mueble obedezca a la reubicación o transferencia temporal o permanente a otra Dependencia o a la misma, además del Vale de Salida, se deberá anexar el formato correspondiente. La salida del bien podrá autorizarse, sin embargo, la autorización sobre la transferencia o reubicación del bien podrá negarse, en cuyo caso, Control Patrimonial exigirá la devolución del bien mueble a su lugar de origen.
-
-###### ARTICULO 252.
-
-La falta de alguno de los requisitos señalados, dará lugar a negar la salida del bien mueble por parte de Control Patrimonial.
-
-APARTADO SEPTIMO
-
-De las Transferencias y Reubicaciones de Bienes Muebles
-
-###### ARTICULO 253.
-
-Todo bien mueble posee un determinado resguardante y una ubicación determinada. La ubicación y transferencia de un bien mueble no podrán cambiar a menos que se soliciten en los formatos correspondientes ante Control Patrimonial.
-
-###### ARTICULO 254.
-
-Se entiende por transferencia de un bien mueble, el cambio de un resguardante a otro, no obstante estén adscritos en la misma Dependencia o en otra.
-
-###### ARTICULO 255.
-
-Se entiende por reubicación de un bien mueble, el cambio del lugar en que se encuentra a otro, no obstante sea dentro de la misma Dependencia o a otra.
-
-###### ARTICULO 256.
-
-Para que un bien mueble pueda ser reubicado o transferido, deberá solicitarse ante Control Patrimonial en los formatos previamente autorizados por éste y señalando claramente la causa o justificación del cambio.
-
-###### ARTICULO 257.
-
-La solicitud será analizada, evaluada y autorizada por Control Patrimonial, única Dependencia en la materia.
-
-###### ARTICULO 258.
-
-Transcurridos 15 días hábiles a partir de la recepción de la solicitud en Control Patrimonial, sin que exista notificación de éste, se entenderá que la solicitud fue autorizada.
-
-###### ARTICULO 259.
-
-En los supuestos en que no sea autorizada la solicitud, Control Patrimonial lo notificará a la Dependencia solicitante y exigirá la ubicación del bien mueble en su lugar de origen y/o continuará la vigencia de la firma en el resguardo correspondiente, del resguardante anterior.
-
-###### ARTICULO 260.
-
-Es responsabilidad de todo resguardante y usuario, dar aviso a Control Patrimonial sobre las transferencias y reubicaciones de los bienes muebles a su cargo, independientemente de que el bien mueble vaya a ser utilizado en el mismo centro de costos o que el usuario o reguardante continúe siendo el mismo pero hubiese cambiado su centro de trabajo y por cambio de adscripción.
-
-APARTADO OCTAVO
-
-De los Accidentes, Siniestros, Robos y Pérdidas Parciales o Totales
-
-###### ARTICULO 261.
-
-Quien ocasione daños, pérdidas o desperfectos a los bienes muebles, por el horario, las funciones que estuviese desempeñando o el grado de responsabilidad, cuando así lo juzgue conveniente la Comisión, deberá reparar el daño al Municipio en función de la cuantía del desperfecto y a lo establecido en el presente Capítulo. Se exceptúa de lo anterior, cuando exista robo o porque el hecho se dé por causas de fuerza mayor o fortuita sin que haya negligencia del resguardante o usuario.
-
-###### ARTICULO 262.
-
-Las actas administrativas que sean levantadas por el resguardante o usuario, de ninguna manera lo liberan de la responsabilidad correspondiente, no obstante lo anterior, el responsable afectado deberá forzosamente levantar el acta correspondiente ante el Agente del Ministerio Público, acompañado del Síndico Procurador; en su caso, se analizará y evaluará por la Comisión, quien tomará una decisión al respecto y cuya resolución será inapelable.
-
-###### ARTICULO 263.
-
-La reparación del daño al Municipio por robos o extravíos parciales o totales de los bienes muebles, será responsabilidad absoluta, en primera instancia del resguardante y previo análisis y resolución del caso por parte de la Comisión, del usuario; quienes deberán indemnizar al Municipio en función a lo establecido en el presente Capítulo, salvo la excepción hecha en el artículo 261 del presente Código.
-
-###### ARTICULO 264.
-
-Las pérdidas parciales sobre bienes muebles parte de un bien mueble mayor, deberán ser reintegradas por un bien de similares características del bien mueble perdido o extraviado, bajo la supervisión de Control Patrimonial, quien podrá o no aceptar en reposición el bien mueble de que se trate.
-
-###### ARTICULO 265.
-
-En caso de detectarse la falta de partes o el total de un bien mueble resguardado, por cualquier causa robo, préstamo, extravío, Control Patrimonial solicitará inmediatamente al resguardante su reposición, en condiciones de operación y características similares. El plazo de reposición no deberá exceder de 10 días naturales a partir de la detección del faltante.
-
-###### ARTICULO 266.
-
-Si el resguardante se negó a firmar de recibido el oficio por el que se solicita la reposición o no repone el bien, Control Patrimonial determinará el valor de reposición considerando el precio actual de un bien mueble de las mismas características del extraviado o de uno similar si éste ya no existe en el mercado, vida útil, vida útil consumida, fecha de adquisición, fecha de detección de la pérdida y depreciación. Posteriormente, turnará el caso a la Comisión para que previo acuerdo de ésta, se solicite a la Dirección General de Recursos Humanos, la indemnización correspondiente, mediante descuentos en nómina al salario del trabajador usuario o resguardante, en el número y monto de los descuentos que determine la Comisión, hasta la amortización total de valor de reposición.
-
-###### ARTICULO 267.
-
-A la solicitud de descuentos, deberá acompañarse copia del Acta de la Sesión de la Comisión en la que se acordaron tales descuentos y la cual deberá señalar entre otros elementos, el bien por indemnizar, el precio de venta actual de un bien mueble nuevo de las mismas características que el extraviado, vida útil de bien, vida útil consumida, fecha de adquisición, fecha de detección de la pérdida, valor de reposición, forma de pago y nombre del resguardante o usuario responsable.
-
-APARTADO NOVENO
-
-De las Bajas y Reasignación de Bienes Muebles
-
-###### ARTICULO 268.
-
-Cuando por razones de su operatividad, obsolescencia, daños, desperfectos o terminación de su vida útil, deban ser dados de baja bienes muebles de desecho, obsoletos o consumibles, los mismos se pondrán a disposición de Control Patrimonial, mediante la elaboración y llenado del formato correspondiente.
-
-###### ARTICULO 269.
-
-La solicitud de baja deberá ser suscrita por el resguardante y por el Director o Jefe Administrativo de la Dependencia de que se trate y será responsabilidad exclusiva de cada Dependencia, hacer entrega de los bienes muebles sujetos a baja, en Control Patrimonial o en el domicilio que éste señale para tal efecto y considerando las características, peso y volumen de los bienes muebles de desecho, obsoletos o consumibles, Control Patrimonial determinará su ubicación hasta su enajenación.
-
-###### ARTICULO 270.
-
-La entrega de la solicitud de baja ante Control Patrimonial, no libera a la Dependencia Municipal, Unidad Administrativa y/o resguardante, de los daños, desperfectos, robos o pérdidas totales o parciales que sufran los bienes muebles sujetos a ser dados de baja, mientras se encuentren en posesión de las mismas.
-
-###### ARTICULO 271.
-
-Recibidos los bienes muebles para baja por Control Patrimonial, éste procederá a determinar su posible enajenación o reasignación.
-
-###### ARTICULO 272.
-
-En los supuestos de enajenación de bienes muebles, Control Patrimonial integrará un expediente, que contenga mínimo lo siguiente:
-
-I. Dictamen de Baja;
-
-II. Avalúo;
-
-III. Solicitud de Baja; y
-
-V. Fotografías del estado de uso y conservación en que se encuentra el bien mueble.
-
-###### ARTICULO 273.
-
-Integrado el expediente, el mismo se remitirá a la Dirección de Asuntos Jurídicos, de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, a fin de que de estimarlo conveniente, se canalice al H. Cabildo del Ayuntamiento para la autorización correspondiente.
-
-###### ARTICULO 274.
-
-Autorizada la enajenación, Control Patrimonial procederá a llevarla a cabo en los términos que dicte dicha autorización y operará en su caso, la baja definitiva de los bienes muebles enajenados, en el Inventario General, a fin de que ya no integren patrimonio del Municipio.
-
-###### ARTICULO 275.
-
-En los casos en que Control Patrimonial determine que los bienes muebles puestos a su disposición por baja, pueden ser sujetos de seguirse aprovechando; periódicamente comunicará a las áreas municipales y por los medios que considere adecuados, la existencia de tales bienes muebles y en los supuestos que hubiese Dependencias interesadas en los mismos, lo harán del conocimiento de Control Patrimonial para que éste proceda a su reasignación, mediante la emisión de los resguardos correspondientes.
-
-###### ARTICULO 276.
-
-Los criterios de reasignación de bienes muebles por parte de Control Patrimonial son:
-
-I.- La subsidiariedad de las áreas;
-
-II.- La justificación de la solicitud; y
-
-III.- Los mutuos acuerdos entre las áreas.
-
-APARTADO DECIMO
-
-Del Uso de Vehículos Automotores
-
-###### ARTICULO 277.
-
-Los Resguardantes y Usuarios, serán responsables del menoscabo que sufran los Vehículos Automotores, por el mal uso que se les dé o falta de mantenimiento, asimismo, serán responsables de los accidentes, siniestros, robos o pérdida de sus autopartes o accesorios, cuando los daños se deriven de su negligencia, en los términos que prevé el presente Capítulo.
-
-###### ARTICULO 278.
-
-El incumplimiento a las disposiciones previstas en este Capítulo, será determinado por Control Patrimonial, aplicando las sanciones que correspondan de conformidad con lo dispuesto por el propio Capítulo.
-
-###### ARTICULO 279.
-
-Todo Vehículo Automotor deberá ser utilizado por el Resguardante o Usuario, única y exclusivamente para funciones de carácter oficial derivadas de la actividad pública que desempeñan.
-
-###### ARTICULO 280.
-
-Son obligaciones de los Resguardantes y Usuarios en el uso de Vehículos Automotores las siguientes:
-
-I. Portar su Licencia de Conducir vigente;
-
-II. Portar la Póliza de Seguros del vehículo automotor y su Tarjeta de Circulación;
-
-III. Depositar el Vehículo Automotor en el lugar designando ante Control Patrimonial, para pernoctar los días y horarios que no esté autorizada su circulación;
-
-IV. Verificar que las placas de circulación, estén colocadas en el lugar previsto por los reglamentos oficiales;
-
-V. En caso de robo, pérdida o extravío de alguna o las dos placas de circulación, presentarse a la brevedad posible, ante la Procuraduría General de Justicia del Estado de Aguascalientes, para levantar el acta correspondiente, la cual tendrá que entregar en un término de tres días naturales a Control Patrimonial; de no ser así, el vehículo automotor podrá ser reasignado de manera inmediata por Control Patrimonial a otro Resguardante designado por el titular del Area correspondiente o superior;
-
-VI. Mostrar una identificación con fotografía que lo acredite como Servidor Público adscrito al Municipio, cuando se lo requiera personal de Control Patrimonial;
-
-VII. Cubrir el importe de las multas que le sean impuestas por la Dirección General de Seguridad Pública y Tránsito Municipal;
-
-VIII. Acudir al Centro de Verificación Vehicular en tiempo y forma según el vale expedido por el Taller, de no ser así, deberá pagar la multa que origina su falta;
-
-IX. Asegurarse que el vehículo automotor cuente con todas las calcomanías de identificación Institucional para su fácil detección y engomados correspondientes, que permitan su circulación;
-
-X. Reportar de inmediato a la Compañía de Seguros y al encargado de siniestros de la Dirección de Recursos Materiales, los siniestros o colisiones que sufran los vehículos automotores; y
-
-XI. Las demás que determine este Capítulo.
-
-###### ARTICULO 281.
-
-Los Directores o Jefes Administrativos de las Dependencias Municipales o Unidades Administrativas, deberán cerciorarse que los vehículos automotores a cargo de ellas, cuenten con la póliza vigente del seguro, copia de la tarjeta de circulación que corresponda, juego de placas y engomados.
-
-###### ARTICULO 282.
-
-Todo los vehículos automotores, deberán portar las calcomanías que permitan su identificación como propiedad o al servicio del Municipio, así como la de identificación de días y horarios de circulación autorizados.
-
-Queda prohibido a los Resguardantes y Usuarios el retirar, rasgar o cubrir de cualquier forma las calcomanías a que se refiere el párrafo anterior.
-
-La única autoridad facultada para retirar y colocar las calcomanías de imagen institucional y de identificación de días y horarios de circulación autorizados, será el Taller.
-
-###### ARTICULO 283.
-
-Sólo el Presidente Municipal o el Secretario de Administración, podrán por razones debidamente justificadas, autorizar por escrito la no portación de calcomanías de la Imagen Institucional en vehículos automotores.
-
-La autorización deberá ser solicitada por el Secretario o Titular de la Dependencia a la que se encuentre adscrito el vehículo automotor del cual se solicita la no portación de calcomanías de la Imagen Institucional y una vez otorgada la autorización por escrito, deberá turnarse el original al Taller para que éste proceda a retirarla y se deberá de enviar copia simple a Control Patrimonial.
-
-###### ARTICULO 284.
-
-Queda estrictamente prohibido a los Resguardantes y Usuarios lo siguiente:
-
-I. Circular en estado de ebriedad, con aliento alcohólico o bajo la influencia de cualquier tipo de droga;
-
-II. Circular en los días y horarios no autorizados por Control Patrimonial;
-
-III. Pernoctar el vehículo automotor en lugares distintos al señalado ante Control Patrimonial;
-
-IV. Incumplir la Ley de Vialidad para el Estado de Aguascalientes y demás normas, reglamentos o leyes estatales y federales en materia de circulación vehicular;
-
-V. Utilizar el vehículo automotor en actividades de carácter particular dentro o fuera de horarios y lugares de trabajo;
-
-VI. Permitir que personal no adscrito al Municipio o particulares conduzcan el vehículo automotor;
-
-VII. Colocar engomados distintos a los oficiales o cubrir éstos;
-
-VIII. Hacer modificaciones al vehículo automotor ya sean mecánicas o de estética en interiores o exteriores no autorizadas previamente por el Taller;
-
-IX. Utilizar placas que no le corresponden al vehículo automotor;
-
-X. Sobrepasar el límite de pasajeros;
-
-XI. Circular fuera de los límites territoriales del Municipio, sin permiso previo y por escrito de Control Patrimonial, a excepción de aquellos cuyo centro de trabajo se ubique fuera de los límites territoriales del Municipio; y
-
-XII. Las demás que determinen este Capítulo.
-
-###### ARTICULO 285.
-
-El Resguardante tendrá la obligación de llevar una bitácora de uso del vehículo, la cual deberá ser autorizada por Control Patrimonial, con base en el formato que expida, para el control de usuarios.
-
-El Usuario deberá entregar el vehículo automotor en las mismas condiciones en las que lo recibió, de no ser así, el Usuario está obligado a reparar las fallas, desperfectos o faltantes que se detecten y determinen por el Taller o Control Patrimonial, en un plazo máximo de 10 días naturales, posteriores a la detección.
-
-###### ARTICULO 286.
-
-En caso de un accidente vial, siniestro, robo o pérdida de auto partes el Resguardante o Usuario estarán sujetos a la responsabilidad administrativa que determine la Comisión, en los términos establecidos en el presente Capítulo.
-
-###### ARTICULO 287.
-
-Queda estrictamente prohibido a todos Resguardantes y Usuarios, celebrar convenios en materia de accidentes viales.
-
-La única autoridad facultada para celebrar convenios, será el Síndico Procurador del Municipio.
-
-APARTADO DECIMO PRIMERO
-
-Del Mantenimiento Preventivo y Suministro de Combustible
-
-###### ARTICULO 288.
-
-Todo Resguardante o Usuario tendrá la obligación de cumplir con las fechas y servicios de mantenimiento preventivo calendarizadas en la guía de servicios asignada para cada vehículo automotor por el Taller.
-
-###### ARTICULO 289.
-
-Todo Resguardante o Usuario del vehículo automotor, al momento de abastecerlo de combustible, tendrá la obligación de llenar la ficha técnica de mantenimiento.
-
-###### ARTICULO 290.
-
-Todo Resguardante o Usuario deberá reportar de inmediato al Taller, cualquier falla, ruido o comportamiento anormal del vehículo automotor, presentando su solicitud de servicio autorizada.
-
-Cualquier descompostura que se genere intencionalmente, por negligencia o por la falta de revisión y llenado de la ficha técnica de mantenimiento, previo dictamen que emita el Taller, será atribuida al Resguardante o Usuario, quien deberá resarcir al Municipio del pago de la erogación efectuada por concepto de reparación.
-
-###### ARTICULO 291.
-
-Unicamente los vehículos automotores tendrán derecho a que se suministre combustible, mediante el procedimiento que para tal efecto establezca la Dirección de Recursos Materiales, de la Secretaría de Administración del Municipio.
-
-Queda estrictamente prohibido el suministro de combustible a vehículos propiedad de particulares, salvo autorización discrecional y por escrito del C. Presidente Municipal de Aguascalientes o del C. Secretario de Administración.
-
-###### ARTICULO 292.
-
-A ningún vehículo automotor le podrá ser suministrado combustible si el Resguardante o Usuario no ha efectuado el llenado de la ficha técnica de mantenimiento.
-
-###### ARTICULO 293.
-
-Cuando durante el abastecimiento de combustible se detecte que el odómetro esté descompuesto, únicamente se le suministrarán 20 litros como máximo, debiendo el Resguardante o Usuario llevar de inmediato la unidad al Taller para su reparación.
-
-El Taller revisará el odómetro y determinará las causas que originaron la descompostura, de lo cual, emitirá un dictamen en el que se señale si la descompostura fue por negligencia o por falla de origen. Si resulta que se debió a una negligencia, se reportará de inmediato a Control Patrimonial para la aplicación de la sanción que proceda.
-
-###### ARTICULO 294.
-
-Unicamente el Resguardante o Usuario, podrán trasladar a suministrar combustible al vehículo automotor.
-
-###### ARTICULO 295.
-
-Solo personal de Control Patrimonial puede realizar trámites sobre cambio de placas, altas, bajas o cambio de adscripción del vehículo automotor.
-
-###### ARTICULO 296.
-
-El Resguardante o Usuario a quien se le agote el combustible del vehículo automotor que utiliza, en la vía pública o en cualquier otro lugar, tendrá la obligación de trasladarlo a la Estación de Servicio de PEMEX autorizada y más cercana, para abastecerlo de combustible y los gastos originados serán cubiertos por el Usuario o Resguardante sin derecho a reembolso.
-
-APARTADO DECIMO SEGUNDO
-
-Del Mantenimiento Correctivo
-
-###### ARTICULO 297.
-
-Para efecto del mantenimiento correctivo del vehículo automotor, el Usuario o Resguardante deberá de:
-
-I. Llenar la solicitud de servicio debidamente firmada y descrita la falla del vehículo automotor;
-
-II. El Taller revisará el vehículo automotor y determinará las causas que originaron la falla para proceder a dictaminar si es imputable al Resguardante o Usuario o la falla fue a consecuencia del uso normal. Si la descompostura fue imputable al Resguardante o Usuario, éste deberá resarcir el pago al Municipio de la erogación efectuada por concepto de reparación; y
-
-III. Anexo a la solicitud de servicio, deberá enviarse un inventario del vehículo automotor, a fin de determinar a la entrada y salida del Taller, las condiciones generales y accesorios del mismo.
-
-###### ARTICULO 298.
-
-Queda prohibido al Resguardante o Usuario enviar los vehículos automotores a talleres externos sin la autorización escrita del Director de Servicios Generales de la Secretaría de Administración del Municipio o del Jefe del Taller.
-
-Si el Resguardante o Usuario traslada el vehículo automotor a un taller externo sin contar con la autorización a que se refiere el párrafo anterior, el costo de la reparación será atribuida al Resguardante o Usuario, debiendo el Taller verificar la bitácora del vehículo para revisar que no se le hayan sustituido piezas.
-
-###### ARTICULO 299.
-
-Queda estrictamente prohibido que el Resguardante o Usuario haga intercambio de refacciones o accesorios entre vehículos automotores o entre éstos y un particular.
-
-APARTADO DECIMO TERCERO
-
-De los Accesorios
-
-###### ARTICULO 300.
-
-Los vehículos automotores únicamente llevarán los accesorios que estén descritos en el Resguardo o en el Inventario anexo al mismo.
-
-###### ARTICULO 301.
-
-El Taller únicamente reparará o cambiará los accesorios descritos en el Resguardo o en su anexo.
-
-En caso de que el Resguardante o Usuario coloque un accesorio distinto al descrito en el Resguardo o en su anexo y éste sufra algún daño o deterioro, el Taller no se hará cargo de la reparación o reposición.
-
-###### ARTICULO 302.
-
-El Resguardante o Usuario será responsable de los gastos originados por alguna falla o desperfecto causado al vehículo automotor por algún accesorio diferente al descrito en el Resguardo o su anexo, teniendo que resarcir el pago al Municipio por la erogación efectuada por el concepto de la reparación.
-
-###### ARTICULO 303.
-
-Queda estrictamente prohibido la colocación de polarizado en los cristales del vehículo automotor.
-
-APARTADO DECIMO CUARTO
-
-De los Operativos de Supervisión o Detección de Vehículos Automotores
-
-###### ARTICULO 304.
-
-A efecto de cumplir y hacer cumplir lo establecido en el presente Capítulo, personal de Control Patrimonial, podrá efectuar en cualquier momento, operativos de supervisión o detección sobre el uso o usufructo de vehículos automotores, los cuales consistirán en la revisión que se haga a los vehículos automotores que se encuentren en circulación o estacionados dentro del territorio del Municipio.
-
-El objetivo de estos operativos, es supervisar el debido cumplimiento de las disposiciones de este Capítulo e identificar posibles irregularidades en el uso de los vehículos automotores por parte de los Resguardantes y Usuarios.
-
-###### ARTICULO 305.
-
-Para efectuar un operativo de supervisión o detección de vehículos automotores, se requiere un oficio de habilitación para que determinado personal supervise el debido cumplimiento de las disposiciones de este Capítulo. El oficio será suscrito por el Jefe del Departamento de Control Patrimonial para los casos en que el operativo sea realizado por personal adscrito a dicho Departamento y suscrito por el Director de Recursos Materiales de la Secretaría de Administración, para los casos en que el operativo lo realice directamente el Jefe del Departamento de Control Patrimonial y en los que como mínimo se señalen los siguientes datos:
-
-I. Fecha y lugar de expedición del oficio;
-
-II. El nombre y cargo de las personas habilitadas para la práctica del operativo;
-
-III. Fundamento legal y motivación;
-
-IV. Fecha y hora en la que se efectuará el operativo;
-
-V. Lugar en el que se practicará el operativo;
-
-VI. Vehículo o vehículos automotores autorizados para llevar a cabo el operativo; y
-
-VII. La firma autógrafa del servidor público que instruye el operativo.
-
-###### ARTICULO 306.
-
-El personal habilitado (tres personas mínimo) para practicar operativos de supervisión o detección de vehículos automotores, deberá sujetarse al siguiente procedimiento:
-
-I. Requisitar el formato denominado "Operativo" expedido por el Departamento, en el que se señale lo siguiente:
-
-a) Fecha, hora y lugar en la que se inicia el operativo;
-
-b) Fundamento legal y motivación del acto;
-
-c) Nombre y edades de las personas que intervienen y la descripción del oficio de habilitación;
-
-d) Domicilio del lugar donde se detectó el vehículo automotor;
-
-e) Descripción completa del vehículo supervisado;
-
-f) Datos de identificación del Resguardante o Usuario con quienes se atiende, si lo hubiere en el momento de realizar el operativo o la razón de la negativa a identificarse, asentándose en éste caso su media filiación;
-
-g) Relación de los hechos respecto del vehículo automotor;
-
-h) Otorgar el uso de la voz y de prueba de sus afirmaciones al Resguardante o Usuario;
-
-i) Observaciones del personal habilitado;
-
-j) Fecha, hora y lugar en que se da por terminado el operativo al vehículo automotor;
-
-k) Las firmas autógrafas de quienes intervinieron y en su caso, la razón de la negativa a firmar del Resguardante o Usuario.
-
-II. En caso de que el vehículo automotor supervisado o detectado cumpla con el presente Capítulo, se permitirá que el Resguardante o Usuario continúe con sus labores normales.
-
-III. Cuando el Resguardante o Usuario de un vehículo automotor supervisado o detectado, incumpla cualquier disposición del presente Capítulo, personal de Control Patrimonial podrá remitir el vehículo automotor al lugar de resguardo designado por la Dirección de Servicios Generales para tal efecto y a la brevedad el Titular de Control Patrimonial, determinará y aplicará la sanción que corresponda, de acuerdo con lo señalado en el Apartado correspondiente de este Capítulo.
-
-Cuando el personal autorizado para realizar operativos solicite a un vehículo automotor en circulación que se detenga y el Usuario o Resguardante haga caso omiso, deberá asentarse en el formato correspondiente los datos completos del vehículo y podrá solicitar el auxilio de la fuerza pública para lograr la detención del vehículo automotor o en su caso, Control Patrimonial a la brevedad posible, determinará la sanción que corresponda.
-
-APARTADO DECIMO QUINTO
-
-De la Circulación de Vehículos Automotores
-
-###### ARTICULO 307.
-
-Todos los vehículos automotores sin excepción alguna, se encuentran sujetos a un horario de circulación, el cual estará identificado con una calcomanía adherible colocada en lugar visible en la parte posterior del vehículo, de acuerdo a la siguiente clasificación:
-
-I. La calcomanía color verde, tendrá un horario de circulación de lunes a domingo durante las 24 horas del día, hábiles e inhábiles;
-
-II. La calcomanía color amarilla tendrá un horario de circulación de lunes a sábado de 8:00 a 20:00 horas; y
-
-III. La calcomanía color rojo tendrá un horario de circulación de lunes a viernes de 8:00 a 18:00 horas.
-
-Los titulares de cada Dependencia Municipal o Unidad Administrativa, comunicarán a Control Patrimonial, debidamente justificado, el horario de circulación y lugar de resguardo para cada uno de los vehículos automotores bajo su adscripción. Este horario deberá ser respetado forzosamente por los Resguardantes o Usuarios.
-
-###### ARTICULO 308.
-
-Cuando por necesidades del servicio se requiera que un vehículo automotor cambie del horario que tenía asignado a otro permanentemente, la solicitud de cambio deberá efectuarla el Director o Jefe Administrativo de la Dependencia Municipal o Unidad Administrativa, con el visto bueno del titular de ésta. Para cambios de horario temporales, se otorgará permiso provisional por escrito firmado por el Jefe de Control Patrimonial, previa solicitud y justificación del Director o Jefe Administrativo correspondiente.
-
-###### ARTICULO 309.
-
-Para la expedición de permisos de circulación fuera del territorio del Municipio, las áreas solicitantes deberán sujetarse al siguiente procedimiento:
-
-I. Solicitar por escrito con 48 horas de anticipación ante Control Patrimonial el permiso para circular con los siguientes datos:
-
-a. Descripción del vehículo;
-
-b. Dependencia a la que pertenece;
-
-c. Nombre del Resguardante o Usuario del vehículo;
-
-d. Número de placa de circulación;
-
-e. El Estado y Municipio a los que se dirigirá; y
-
-f. El motivo, fecha y horario de la comisión.
-
-II. El Titular de Control Patrimonial expedirá el permiso correspondiente, por el horario, fecha y comisión solicitados y a nombre del resguardante o usuario correspondiente.
-
-###### ARTICULO 310.
-
-Queda estrictamente prohibido a los Resguardantes o Usuarios hacer uso del vehículo automotor fuera de los horarios que correspondan al color de la calcomanía que porten y fuera del Municipio, sin el permiso correspondiente.
-
-APARTADO DECIMO SEXTO
-
-De la Comisión
-
-###### ARTICULO 311.
-
-Los titulares de las Dependencias Municipales que integran la Comisión, tendrán los siguientes cargos honoríficos dentro de la misma:
-
-I. Presidente: Secretario de Administración.
-
-II. Secretario Ejecutivo: Contralor Municipal.
-
-III. Vocal: Síndico Procurador.
-
-IV. Vocal: Síndico de Hacienda.
-
-V. Vocal: Regidor de la Comisión de Hacienda.
-
-VI. Vocal: Director de Asuntos Jurídicos.
-
-VII. Vocal: Director de Recursos Materiales.
-
-VIII. Vocal: Director de Servicios Generales.
-
-IX. Secretario Técnico: Jefe del Departamento de Control Patrimonial.
-
-###### ARTICULO 312.
-
-Todos los integrantes de la Comisión tendrán derecho a voz y voto y para el caso de empate, el Presidente tendrá voto de calidad.
-
-###### ARTICULO 313.
-
-Los integrantes de la Comisión podrán nombrar un suplente que los represente en casos de ausencia. Dichos suplentes tendrán derecho a voz y voto.
-
-###### ARTICULO 314.
-
-La Comisión celebrará sus sesiones en el recinto que el Presidente señale para tal efecto. Este lugar será inviolable, en consecuencia, se impedirá el acceso al mismo de la fuerza pública, salvo que lo solicite el Presidente.
-
-###### ARTICULO 315.
-
-La Comisión celebrará sesiones ordinarias y extraordinarias.
-
-###### ARTICULO 316.
-
-La Comisión podrá celebrar sesiones ordinarias las veces que estime necesarias y cuando menos una vez al mes, el día y hora que para tal efecto señale el Presidente. En dichas sesiones se tratarán los asuntos en cartera y generales.
-
-Los integrantes deberán ser convocados al menos con 48 horas de anticipación, anexándose a la convocatoria el Orden del Día respectivo.
-
-###### ARTICULO 317.
-
-Las sesiones extraordinarias serán aquellas que se convoquen con 24 horas de anticipación y en ellas se tratan exclusivamente los asuntos de carácter urgente para los que fueron convocados sus integrantes.
-
-###### ARTICULO 318.
-
-Para que exista Quórum legal, se requiere la asistencia de al menos del cincuenta por ciento más uno de los integrantes de la Comisión.
-
-###### ARTICULO 319.
-
-Las sesiones tendrán el carácter de secretas, por lo tanto, no se permitirá el acceso a persona alguna, salvo que sea invitada de manera expresa por la Comisión.
-
-###### ARTICULO 320.
-
-Las votaciones podrán ser económicas y nominales, de acuerdo a lo siguiente:
-
-I. Económicas, consistirán el levantar la mano derecha, para los miembros que aprueben el Acuerdo y no hacerlo los que voten en contra. Esta votación se utilizará para la aprobación del Orden del Día y del Acta de la sesión anterior.
-
-II. Nominales, consistirán en preguntar de manera personal a cada uno de los integrantes de la Comisión si aprueba o desaprueba el Acuerdo respectivo, debiendo contestar los miembros si están a favor o en contra.
-
-Esta votación se utilizará para todos los Acuerdos distintos a los señalados en el punto anterior.
-
-###### ARTICULO 321.
-
-Los integrantes de la Comisión se abstendrán de conocer de los asuntos que involucren a cualquiera de las personas señaladas en el artículo 70 fracción XIV de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
-
-###### ARTICULO 322.
-
-La aprobación de cualquier resolución podrá darse por unanimidad cuando todos los integrantes de la Comisión voten a favor y por mayoría cuando por lo menos el cincuenta por ciento más uno lo hagan.
-
-###### ARTICULO 323.
-
-La Comisión tendrá las siguientes atribuciones:
-
-I. Vigilar que se cumpla lo dispuesto en el presente Capítulo;
-
-II. Determinar la responsabilidad administrativa de los resguardantes y usuarios de bienes muebles, por los accidentes, robos y pérdidas totales o parciales y siniestros que sufran éstos, a fin de obtener la reparación del daño mediante la reposición de un bien de similares características y operatividad o la indemnización correspondiente;
-
-III. Determinar la responsabilidad de los servidores públicos municipales, por el intercambio de piezas en los bienes muebles;
-
-IV. Proponer al Presidente Municipal las normas, políticas y lineamientos en materia de bienes muebles, así como autorizar los supuestos no previstos en éstos;
-
-V. Recomendar las medidas necesarias para evitar el probable incumplimiento de alguna disposición jurídica y/o administrativa relativa y aplicable a los bienes muebles;
-
-VI. Acordar a favor o en contra los Dictámenes propuestos por Control Patrimonial, con relación al uso y usufructo de bienes muebles así como de cualquier otra situación que se presente;
-
-VII. Las demás que le sean conferidas por el Presidente de la Comisión y leyes aplicables.
-
-###### ARTICULO 324.
-
-El Presidente de la Comisión tendrá las siguientes facultades y obligaciones:
-
-I. Convocar a las sesiones ordinarias y extraordinarias de la Comisión a través del Secretario Ejecutivo;
-
-II. Autorizar el proyecto de Orden del Día y analizar previamente los expedientes correspondientes a los asuntos que se tratarán en cada sesión;
-
-III. Coordinar y dirigir las reuniones de la Comisión;
-
-IV. En casos de empate emitir su voto de calidad, tomando las decisiones que juzgue adecuadas; y
-
-V. En general, llevar a cabo todas aquellas funciones que se relacionen con la coordinación y dirección de la Comisión.
-
-###### ARTICULO 325.
-
-El Secretario Ejecutivo de la Comisión tendrá las siguientes facultades y obligaciones:
-
-I. Citar a las sesiones ordinarias y extraordinarias por acuerdo del Presidente;
-
-II. Elaborar el Orden del Día de cada sesión y levantar las actas correspondientes que serán un resumen concreto y preciso del asunto;
-
-III. Coordinarse con el Secretario Técnico, para la obtención de los expedientes que se requiera analizar;
-
-IV. Ejecutar y vigilar que se realicen a través de las distintas áreas los acuerdos y resoluciones que se tomen y los compromisos que se adquieran; y
-
-V. Vigilar el oportuno cumplimiento de las sanciones que acuerde la Comisión, informando mensualmente los avances o retrasos de las mismas.
-
-###### ARTICULO 326.
-
-El Secretario Técnico de la Comisión tendrá las siguientes facultades y obligaciones:
-
-I. Recabar toda la documentación que contenga la información de los casos que se dictaminarán en las sesiones de la Comisión;
-
-II. Proponer a la Comisión los dictámenes correspondientes de cada asunto, llevando a la sesión la documentación adicional que pueda requerirse; y
-
-III. Organizar y resguardar el archivo de la Comisión.
-
-###### ARTICULO 327.
-
-Los Vocales de la Comisión tendrán las siguientes facultades y obligaciones:
-
-I. Analizar los casos y asuntos que se sometan a su consideración y se consignen en el Orden del Día, apoyando su análisis sobre los dictámenes y documentos que lo sustenten;
-
-II. Manifestar con objetividad e imparcialidad sus puntos de vista, sus propuestas y alternativas de solución, emitir su votación de aprobación o desaprobación de los asuntos tratados, a fin de que se pueda llegar a una resolución; y
-
-III. Firmar las actas, dictámenes y resoluciones que se decidan en la Comisión siempre y cuando hubiera asistido a la sesión correspondiente.
-
-APARTADO DECIMO SEPTIMO
-
-De las Dependencias Rectoras en Diversas Materias
-
-###### ARTICULO 328.
-
-La Dirección de Servicios Generales, la Dirección General de Modernización Tecnológica y la Dirección de Recursos Materiales, de la Secretaría de Administración del Municipio, son las Dependencias Municipales Rectoras en materias de usos y usufructo de vehículos automotores, equipos de cómputo y radiocomunicación respectivamente: A tal efecto están facultadas para dictar e implementar políticas y lineamientos en la materia. Dichas Dependencias mantendrán un estrecho contacto con Control Patrimonial y con la Comisión, para coordinar esfuerzos y salvaguardar el buen uso de los bienes muebles.
-
-APARTADO DECIMO OCTAVO
-
-De las Sanciones
-
-###### ARTICULO 329.
-
-Cuando el Resguardante o Usuario infrinjan alguna de las disposiciones contenidas en el presente Capítulo, Control Patrimonial podrá determinar y aplicar las sanciones siguientes:
-
-A). AMONESTACION POR ESCRITO, CON APERCIBIMIENTO DE SANCION MAYOR, por violación a lo dispuesto en los artículos 222, segundo párrafo, 223, 224, 229, 237, 241 fracciones de la I a la V, VIII y X; 242 fracciones V y VI, 260, 278, 280 fracciones I, II, III, IV, VI y IX; 284 fracción X; 285 primer párrafo; 288, 289, 290 primer párrafo, 293 primer párrafo y 303.
-
-B). REASIGNACION DE LOS BIENES MUEBLES, A RESGUARDANTE DIVERSO DENTRO DE LA MISMA DEPENDENCIA MUNICIPAL, por violación a lo dispuesto por los artículos 234, 241 fracción VII y 242 fracción I; 280 fracciones V y X; 282 segundo párrafo y 284 fracción V.
-
-C). REASIGNACION DE LOS BIENES MUEBLES A RESGUARDANTE DIVERSO EN OTRA DEPENDENCIA MUNICIPAL, por violación a lo dispuesto por los artículos 242 fracción II; 284 fracciones I, II, III, IV, VI, VII, VIII, IX, XI; 287, 298, 307 párrafo final y 310.
-
-D). REPOSICION DE BIENES MUEBLES IGUALES O DE SIMILARES CARACTERISTICAS Y OPERATIVIDAD, por incurrir en los supuestos que señalan los artículos 261, 263, 264, 265, 270 y 277.
-
-E). DESCUENTOS VIA NOMINA EN SU SALARIO, PARA CUBRIR EL IMPORTE DEL VALOR DE REPOSICION DE BIENES MUEBLES, cuando éstos no hayan sido repuestos en los términos del inciso anterior y para el pago de multas a que se refieren los artículos 280 fracciones VII y VIII; así como para el pago de las reparaciones que se señalan en los artículos 288 segundo párrafo; 290 segundo párrafo; 293 segundo párrafo y 298 segundo párrafo. Siempre que el responsable se niegue a cubrir voluntariamente el importe señalado.
-
-F). TURNO DEL CASO A LA CONTRALORIA MUNICIPAL, para el fincamiento de responsabilidades administrativas y/o económicas, por violación a lo dispuesto en los artículos 238, 239, 240, 242 fracción III y 243.
-
-###### ARTICULO 330.
-
-Todo lo no previsto en el presente Capítulo, será resuelto por la Comisión.
-
-### CAPITULO VIII. Del Departamento de Jueces Calificadores de Seguridad Pública y Tránsito
-
-APARTADO PRIMERO
-
-Disposiciones Generales
-
-###### ARTICULO 331.
-
-En el Municipio de Aguascalientes a efecto de llevar a cabo el control necesario de los detenidos y de multas, que por faltas administrativas haga la policía preventiva o de tránsito, existirá un Departamento de Jueces Calificadores de Seguridad Pública y Tránsito respectivamente, que dependerá de la Dirección de Asuntos Jurídicos, a través de un coordinador.
-
-###### ARTICULO 332.
-
-Será facultad exclusiva del Departamento de Jueces Calificadores de Seguridad Pública Municipal, la aplicación de sanciones y medidas de seguridad por la violación y contravención a las disposiciones del presente Capítulo.
-
-De los Jueces Calificadores de Tránsito será la de calificación, reclasificación y reconsideración, según proceda, de las multas y sanciones por la contravención de la Ley de Vialidad del Estado y de las disposiciones de Tránsito del Municipio de Aguascalientes y demás aplicables.
-
-###### ARTICULO 333.
-
-El departamento de Jueces Calificadores, estará integrado por:
-
-I. Un Coordinador;
-
-II. Un cuerpo de jueces calificadores; y
-
-III. Demás personal autorizado.
-
-###### ARTICULO 334.
-
-Para ser Coordinador, se requiere:
-
-I. Ser mexicano por nacimiento en pleno goce de sus derechos;
-
-II. Ser Licenciado en Derecho, debidamente titulado;
-
-III. No tener antecedentes penales por delitos dolosos; y
-
-IV. Tener residencia no menor de dos años en el Municipio de Aguascalientes.
-
-###### ARTICULO 335.
-
-Son facultades y obligaciones del Coordinador del Departamento de Jueces Calificadores:
-
-I. Vigilar el buen funcionamiento administrativo y operativo del Departamento de Jueces Calificadores;
-
-II. Examinar y proponer al Director de Asuntos Jurídicos, el personal a que se refiere el artículo 333 fracciones II y III, para reclutamiento y contratación;
-
-III. Establecer el rol de turnos de los jueces calificadores;
-
-IV. Informar por escrito al Director de Asuntos Jurídicos, sobre los eventos relevantes;
-
-V. Capacitar permanentemente a los jueces calificadores, respecto de la normatividad y reglamentación aplicable;
-
-VI. Elaborar programas y planes de trabajo, en un marco de derecho, para contribuir a la mejor aplicación de sanciones a los infractores que contravengan disposiciones del capítulo de faltas de Policía, de la Ley Estatal de Vialidad, y de las disposiciones del presente Código;
-
-VII. Expedir constancia, rendir informes, contestar quejas y dar trámite a cualquier asunto relacionado con el Departamento de jueces calificadores;
-
-VIII. Solicitar el inicio del procedimiento de remate conforme a las disposiciones del presente Código y de las demás disposiciones aplicables, objetos cuyo dueño se ignore o sean abandonados en la vía pública, o en la Barandilla y no fueren reclamados en un término de treinta días; y
-
-IX. Aplicar medidas disciplinarias señaladas en el Estatuto Jurídico de los Trabajadores del Estado, sus Municipios y Organismos descentralizados, a los Jueces Calificadores, cuando por su actuación proceda.
-
-APARTADO SEGUNDO
-
-De los Jueces Calificadores de Seguridad Pública
-
-###### ARTICULO 336.
-
-Para ingresar al cuerpo de jueces calificadores de Seguridad Pública se requiere:
-
-I. Ser mexicano;
-
-II. Aprobar el examen de conocimientos que aplique el Coordinador. Dicho examen deberá ser revisado por la Comisión de Regidores de Gobernación;
-
-III. Contar con buena reputación, honorabilidad, y tener dos años de residencia en la Capital;
-
-IV. Ser Licenciado en Derecho; y
-
-V. No tener antecedentes penales por delitos dolosos.
-
-###### ARTICULO 337.
-
-Son facultades y obligaciones de los Jueces Calificadores:
-
-I. Llevar el control de detenidos y funcionamiento administrativo del turno que se le asigne en Barandilla;
-
-II. Aplicar las medidas necesarias para la tutela y protección de los menores puestos a disposición;
-
-III. Imponer oportunamente las sanciones y medidas de seguridad aplicables a los infractores del capítulo de Faltas de Policía;
-
-IV. Ejercer funciones de conciliación, cuando con motivo de la comisión de la falta de policía perpetrada, se causen daños a terceros, y los interesados estén de acuerdo en someterse a su decisión, siempre y cuando no se trate de delitos que se persigan de oficio;
-
-V. Autorizar con su firma las actuaciones en que intervengan en ejercicio de sus funciones;
-
-VI. Expedir boletas de egreso, cuando el infractor haya cubierto el monto de su infracción, haya cumplido su arresto, o cuando sea remitido a la autoridad competente;
-
-VII. Llevar el control de la correspondencia y registro de todos los oficios en que intervenga con motivo del ejercicio de sus funciones;
-
-VIII. Llevar el control y registro de infractores;
-
-IX. Rendir diariamente al Coordinador informe de los hechos de mayor relevancia, respecto de los infractores puestos a su disposición y de las sanciones aplicadas;
-
-X. Dictar las medidas y lineamientos necesarios al personal de Seguridad Pública y Tránsito para el buen funcionamiento del Juzgado Calificador;
-
-XI. Remitir a las autoridades competentes las armas, objetos peligrosos, o que sean motivo o estén afectos a la comisión de algún ilícito, así como las sustancias psicotrópicas, enervantes y estupefacientes que se hayan asegurado a los infractores;
-
-XII. No abandonar su área de trabajo, aún concluido su turno, hasta que sea relevado por el Juez Calificador entrante; y
-
-XIII. Las demás que se desprendan del capítulo de Faltas de Policía y del presente Código.
-
-###### ARTICULO 338.
-
-Los Jueces Calificadores, dentro del ámbito de sus funciones, cuidarán estrictamente que se respeten las garantías individuales de los infractores y su dignidad humana, quedando bajo su responsabilidad cualquier atentado en que incurra el personal del juzgado calificador.
-
-###### ARTICULO 339.
-
-El Juzgado Calificador actuará por turnos que, de tal forma, cubran las veinticuatro horas del día los 365 días del año.
-
-###### ARTICULO 340.
-
-Los asuntos serán atendidos sucesivamente, según el orden en que se pongan a disposición de los Jueces Calificadores.
-
-###### ARTICULO 341.
-
-Los Jueces Calificadores en turno impondrá (sic) las sanciones correspondientes a todos los infractores que se pongan a su disposición y el juez calificador entrante, por ningún motivo podrá aumentar o disminuir dicha sanción.
-
-###### ARTICULO 342.
-
-El Juez Calificador al hacer su cambio de turno, deberá entregar documental y físicamente, al Juez Calificador entrante, los arrestados que aún se encuentran cumpliendo su sanción impuesta, así como informarle sobre la situación jurídica.
-
-###### ARTICULO 343.
-
-El Juez Calificador, a efecto de aplicar las sanciones administrativas que señala el Capítulo de Faltas de Policía, principalmente deberá de verificar si existe una adecuación de la conducta del infractor con la falta descrita por dicho Capítulo.
-
-###### ARTICULO 344.
-
-Para fijar el importe de la multa económica, el juez calificador tomará en cuenta, la situación económica del infractor, su peligrosidad, la conducta desplegada al momento de ser detenido, y los antecedentes del infractor.
-
-###### ARTICULO 345.
-
-Los Jueces Calificadores, al tener conocimiento de los hechos, si presume que son delictivos, suspenderá al momento su intervención y pondrá al detenido y los objetos afectos al asunto, a disposición de la autoridad competente de inmediato.
-
-###### ARTICULO 346.
-
-Una vez notificada la multa económica impuesta al infractor, se le requerirá por el pago inmediato de la misma. En caso de no hacerlo, se le conmutará por arresto que no excederá de treinta y seis horas.
-
-Cuando el infractor alegue su calidad específica de obrero, jornalero o asalariado así deberá de acreditarlo, a efecto de que sea procedente la reconsideración de la multa impuesta.
-
-Inmediatamente que el infractor pague la multa, por su conducto o por interpósita persona, será puesto en absoluta libertad.
-
-Por ningún motivo el Juez Calificador podrá liberar al detenido, sin el cumplimiento de la sanción a que se hubiere hecho acreedor. Solamente que medie una disposición expresa del Presidente Municipal se podrá liberar al infractor que se encontrara detenido en los separos de la policía preventiva, sin pagar la multa correspondiente.
-
-###### ARTICULO 347.
-
-Para los efectos de conmutar la multa impuesta por horas de arresto se estará a lo dispuesto en el siguiente tabulador:
-
-TABULADOR DE EQUIVALENCIA DE CONMUTACION DE MULTA ECONOMICA POR HORAS DE ARRESTO
-
-MULTA ECONOMICA-ARRESTO UN DIA DE SALARIO MINIMO GENERAL VIGENTE EN EL ESTADO:
-
-CUATRO HORAS
-
-CINCO HORAS
-
-SEIS HORAS
-
-DOS DIAS DE SALARIO MINIMO GENERAL VIGENTE EN EL ESTADO:
-
-SIETE HORAS
-
-OCHO HORAS
-
-NUEVE HORAS
-
-DIEZ HORAS
-
-TRES DIAS DE SALARIO MINIMO GENERAL VIGENTE EN EL ESTADO:
-
-ONCE HORAS
-
-DOCE HORAS
-
-TRECE HORAS
-
-CUATRO DIAS DE SALARIO MINIMO GENERAL VIGENTE EN EL ESTADO:
-
-CATORCE HORAS
-
-QUINCE HORAS
-
-DIECISEIS HORAS
-
-DIECISIETE HORAS
-
-CINCO DIAS DE SALARIO MINIMO GENERAL VIGENTE EN EL ESTADO:
-
-DIECIOCHO HORAS
-
-DIECINUEVE HORAS
-
-VEINTE HORAS
-
-SEIS DIAS DE SALARIO MINIMO GENERAL VIGENTE EN EL ESTADO:
-
-VEINTIUNA HORAS
-
-VEINTIDOS HORAS
-
-VEINTITRES HORAS
-
-VEINTICUATRO HORAS
-
-SIETE DIAS DE SALARIO MINIMO GENERAL VIGENTE EN EL ESTADO:
-
-VEINTICINCO HORAS
-
-VEINTISEIS HORAS
-
-VEINTISIETE HORAS
-
-VEINTIOCHO HORAS
-
-OCHO DIAS DE SALARIO MINIMO GENERAL VIGENTE EN EL ESTADO:
-
-VEINTINUEVE HORAS
-
-TREINTA HORAS
-
-TREINTA Y UN HORAS
-
-NUEVE DIAS DE SALARIO MINIMO GENERAL VIGENTE EN EL ESTADO:
-
-TREINTA Y DOS HORAS
-
-TREINTA Y TRES HORAS
-
-TREINTA Y CUATRO HORAS
-
-TREINTA Y CINCO HORAS
-
-DIEZ DIAS DE SALARIO MINIMO GENERAL VIGENTE EN EL ESTADO:
-
-TREINTA Y SEIS HORAS
-
-###### ARTICULO 348.
-
-El infractor, al momento que se determine su arresto, por ningún motivo quedará incomunicado, teniendo derecho a comunicarse al exterior vía telefónica.
-
-###### ARTICULO 349.
-
-Una vez cumplida la sanción administrativa impuesta, el infractor obtendrá su libertad, e inmediatamente deberá de entregársele sus pertenencias depositadas.
-
-###### ARTICULO 350.
-
-El Juez Calificador también podrá imponer como medida de seguridad a los infractores, en el caso de que se encuentre bajo los efectos de bebidas embriagantes o sustancias que causen efectos similares, clínicamente comprobable, o cuando su conducta sea agresiva, el arresto hasta en tanto cesen dichos efectos o mejore su comportamiento. El arresto como medida de seguridad tampoco podrá exceder de treinta y seis horas.
-
-APARTADO TERCERO
-
-Del Receptor de Presuntos Infractores
-
-###### ARTICULO 351.
-
-El receptor de presuntos infractores, estará bajo la supervisión del Juez Calificador y tendrá, en orden progresivo, las siguientes obligaciones:
-
-I. La recepción de los detenidos que sean puestos a su disposición;
-
-II. Recabar los datos de los presuntos infractores, de la falta en que incurrió, de su perfil económico, de su detención y del denunciante, en caso de existir, así como cualquier otra circunstancia que revista interés para el caso;
-
-III. Remitir al infractor, al depósito de pertenencias a fin de que resguarden sus objetos personales;
-
-IV. Solicitar y recabar de Servicios Médicos el examen psicofísico de los presuntos infractores puestos a disposición del juez calificador;
-
-V. Entregar la documentación necesaria al Juez Calificador en turno, a efecto de que imponga las sanciones correspondientes a los infractores; y
-
-VI. Llevar el control administrativo de su área.
-
-###### ARTICULO 352.
-
-En caso de que, el receptor o el Juez Calificador constatara que el infractor, al momento de su presentación, fue objeto de malos tratos, de abuso, golpes o merma en sus pertenencias, por parte del policía que lo detuvo. Aquél deberá de elaborar informe de los hechos, para los efectos de remitirlo a la Dirección General de Seguridad Pública y Tránsito, con el objeto de proceder a los correctivos a que haya lugar, o en su caso dar vista al Ministerio Público.
-
-Si el médico de guardia constatara que el infractor, al momento de su detención, fue objeto de malos tratos, de abuso, golpes o merma en sus pertenencias, por parte del policía que lo detuvo, deberá elaborar informe de los hechos y proceder en términos de lo establecido en el párrafo anterior.
-
-APARTADO CUARTO
-
-Del Depósito de Pertenencia de los Infractores
-
-###### ARTICULO 353.
-
-El encargado del depósito de pertenencias tendrá bajo su más estricta responsabilidad recibir, custodiar y devolver cuando proceda, todos los objetos, valores, dinero y documentos que depositen los infractores, previo recibo inventario que se le expida.
-
-###### ARTICULO 354.
-
-Cuando se recojan armas, objetos peligrosos, enervantes, psicotrópicos, estupefacientes o cualquier tipo de droga prohibida, u objeto motivo de la comisión de algún ilícito o cualquier objeto utilizado para delinquir, se pondrán inmediatamente a disposición del Juez Calificador para que proceda a su remisión, mediante oficio, a la autoridad competente.
-
-###### ARTICULO 355.
-
-Al infractor, al dejar sus pertenencias en el depósito, se le entregará el recibo inventario debidamente firmado y sellado por el encargado del depósito. Dicho recibo será reintegrado al encargado, una vez que las cosas sean recibidas por los familiares, personas expresamente autorizadas, o por el propio infractor.
-
-Al infractor se le notificará que cuenta con el término de treinta días naturales para reclamar la devolución de sus pertenencias, a partir del día siguiente al de su egreso.
-
-En caso de no recogerlas dentro de dicho término, se tendrá como abandonadas y se procederá, por conducto del Departamento de Jueces Calificadores de Seguridad Pública, a su donación y entrega del Sistema D.I.F. Municipal para la beneficencia pública, cuando el valor de los objetos no exceda de diez días de salario mínimo general vigente en el Estado.
-
-Cuando el valor de los objetos exceda de dicho valor se procederá a solicitar su venta en almoneda pública conforme a las disposiciones del presente Código y el producto quedará a disposición del legítimo propietario en la Secretaría de Finanzas del Municipio de Aguascalientes. El término para reclamar dicho producto prescribe en un año después de fincado el remate.
-
-APARTADO QUINTO
-
-De los Jueces Calificadores de Tránsito
-
-###### ARTICULO 356.
-
-Es facultad exclusiva de los jueces calificadores de Tránsito, la calificación, reclasificación y reconsideración de las multas a que se hagan acreedores los infractores de la Ley de Vialidad del Estado.
-
-###### ARTICULO 357.
-
-Para ingresar al cuerpo de Jueces Calificadores de Tránsito, se deberán de cumplir los requisitos a que se refiere el artículo 336 del presente Código.
-
-###### ARTICULO 358.
-
-Los jueces calificadores de tránsito cubrirán los horarios y turnos, según las necesidades de la Dirección de Seguridad Pública y Tránsito Municipal.
-
-###### ARTICULO 359.
-
-El Juez Calificador de Tránsito llevará el control y funcionamiento administrativo del turno asignado, debiendo rendir informe al Coordinador de su actividad.
-
-###### ARTICULO 360.
-
-Los infractores que no estén de acuerdo con la imposición de una o más infracciones, por contravenir disposiciones de la Ley de Vialidad del Estado o disposiciones Reglamentarias de tránsito, podrán recurrir ante el Juez Calificador de Tránsito a formular instancia de reconsideración, y se substanciará conforme a las siguientes disposiciones:
-
-I. Deberá presentar dentro de los cinco días hábiles siguientes, al inmediato posterior a que fue impuesta, verbalmente o por escrito, una relación breve y concreta de los hechos, sus alegatos, y exhibiendo la infracción correspondiente;
-
-II. El Juez Calificador resolverá por escrito y de inmediato, conforme a los hechos y alegatos presentados;
-
-III. En la resolución, del (sic) Juez Calificador resolverá fundada y motivadamente si es procedente la reclasificación, confirmación o reconsideración de la multa de que se trate; y
-
-IV. Cuando el infractor alegue su calidad específica de obrero, jornalero o asalariado así deberá de acreditarlo, a efecto de que sea procedente la reconsideración de la multa impuesta.
-
-###### ARTICULO 361.
-
-En caso de ser procedente la imposición de la multa, la calificará conforme las disposiciones aplicables y la notificará personalmente.
-
-Para calificación, reclasificación y reconsideración de las multas de tránsito, el Juez Calificador de Tránsito, deberá tomar en cuenta lo dispuesto en el artículo 21 Constitucional.
-
-Los jueces calificadores sólo atenderán las gestiones que provengan directamente de los interesados y en ningún momento podrán emitir resoluciones respecto a flotillas de parques vehiculares públicos o privados.
-
-Se considera reincidencia para los efectos de este capítulo la aplicación de una sanción de un mismo grupo y por la misma causa en un periodo de doce meses anteriores inmediatos a la nueva sanción.
-
-###### ARTICULO 362.
-
-Las resoluciones que se dicten podrán ser recurridas conforme a los recursos que señala el presente Código.
+El auto en que se conceda la libertad bajo protesta surtirá sus efectos hasta que el inculpado proteste formalmente presentarse ante el tribunal del proceso, siempre que se le ordene.
 
 # LIBRO TERCERO. DE LOS SERVICIOS PUBLICOS MUNICIPALES
 
-## TITULO UNICO. DE LA ORGANIZACION Y FUNCIONAMIENTO DE LOS SERVICIOS PUBLICOS
+## TÍTULO TERCERO
 
-###### ARTICULO 363.
+###### Artículo 363.
 
-El Ayuntamiento tendrá a su cargo la planeación, ejecución, administración y control de los servicios públicos que requiera la población del Municipio, tales como:
+La libertad bajo protesta se revocará cuando:
 
-I. Agua Potable y Alcantarillado;
+I. El inculpado, sin causa justa probada, desobedezca la orden de presentarse al tribunal que conozca de su proceso;
 
-II. Alumbrado Público;
+II. El inculpado cometa un nuevo delito antes de que el proceso en que se le concedió la libertad esté concluido por sentencia ejecutoria;
 
-III. Limpia;
+III. En el curso del proceso aparezca que el delito merece una sanción mayor que la prevista como límite para su concesión;
 
-IV. Mercados y Centros de Abasto;
+IV. Deje de concurrir alguna de las condiciones que sirvieron de fundamento para otorgarla; o
 
-V. Panteones;
+V. Recaiga sentencia condenatoria contra el inculpado y cause ejecutoria.
 
-VI. Rastro;
+###### Artículo 364.
 
-VII. Calles, Parques y Jardines;
+En cualquier estado de la instrucción, el inculpado o su defensor podrán solicitar la libertad por desvanecimiento de datos, la que se tramitará con audiencia del Ministerio Público.
 
-VIII. Seguridad Pública y Tránsito;
+###### Artículo 365.
 
-IX. Control de Rabia y Población Canina; y
+La libertad por desvanecimiento de datos procede cuando:
 
-X. Las demás que se pudieran crear para la buena organización, administración e imagen del Municipio.
+I. Aparezcan pruebas indubitables que desvanezcan las que sirvieron para tener por comprobado el cuerpo del delito; o
 
-###### ARTICULO 364.
+II. Sin haber aparecido datos posteriores de responsabilidad, se desvanezcan por pruebas indubitables los que fueron tomados en cuenta en el auto de formal prisión, para tener al inculpado como probable responsable.
 
-Para la adecuada prestación de los servicios, el Ayuntamiento elaborará y ejecutará planes y programas, para la conservación y reconstrucción de la infraestructura y equipamiento urbano, establecerá y controlará los sistemas apropiados y vigilará que se cumpla con lo estipulado en los ordenamientos municipales que regulen esta materia.
+###### Artículo 366.
 
-###### ARTICULO 365.
+Para resolver el incidente de referencia, hecha la petición por el interesado el tribunal citará a una audiencia dentro del término de cinco días, en la que oirá a las partes y sin más trámite dictará la resolución que proceda dentro de setenta y dos horas.
 
-El H. Ayuntamiento reglamentará la organización, administración, funcionamiento, conservación, explotación y concesiones de los servicios públicos, en los términos de la Ley en materia Municipal que expida el Poder Legislativo del Estado.
+###### Artículo 367.
 
-###### ARTICULO 366.
+La conformidad del Ministerio Público no implica el desistimiento de la acción penal. En consecuencia, el tribunal puede negar la libertad a pesar de la petición favorable de aquél.
 
-Los servicios públicos municipales pueden prestarse:
+La resolución es apelable en el efecto devolutivo.
 
-I. Por el municipio y otro municipio, en forma intermunicipal;
+###### Artículo 368.
 
-II. Por particulares a través de concesiones;
+La resolución que conceda la libertad tendrá los mismos efectos que el auto de libertad por falta de elementos para procesar, quedando expedito el derecho del Ministerio Público para pedir nuevamente la aprehensión del inculpado y la facultad del tribunal para dictar nuevo auto de formal prisión, si aparecieron posteriormente datos que les sirvan de fundamento y siempre que no se varíen los hechos delictuosos que motivaron el procedimiento.
 
-III. Por el Municipio y los particulares;
+### CAPÍTULO IV. ASEGURAMIENTO DEL INCULPADO
 
-IV. Por el Municipio y el Estado;
+###### Artículo 369.
 
-V. Por el Municipio y la Federación; y
+Se declarará la inocencia cuando:
 
-VI. Por el Municipio, el Estado y la Federación.
+I. La sentencia se funde exclusivamente en pruebas que posteriormente se declaren falsas en resolución judicial que cause ejecutoria;
 
-###### ARTICULO 367.
+II. Después de la sentencia aparezcan documentos públicos que invaliden las pruebas en que aquélla se fundó;
 
-Se requerirá acuerdo del H. Ayuntamiento para celebrar convenios y otorgar concesiones a particulares para la prestación de los servicios públicos municipales, los que podrán darse por concluidos cuando el propio Ayuntamiento lo desee o se encuentre en posibilidad de prestarlos.
+III. Se haya condenado al inculpado por homicidio y se presente la supuesta víctima o alguna prueba indubitable de que vive; o
 
-###### ARTICULO 368.
+IV. El reo fue condenado por los mismos hechos en dos juicios diversos.
 
-Corresponde a la Secretaría de Servicios Públicos y Ecología la prestación, por sí o por conducto de terceras personas a través de contratos o concesiones, de los servicios de Agua Potable y Alcantarillado, de Rastro Municipal, Control de Rabia y Población Canina, Limpia y Aseo Público, Panteones, Parques y Jardines, Alumbrado Público, Mercados y Estacionamientos.
+###### Artículo 370.
 
-De conformidad como lo establece el Artículo 108 en su fracción primera del presente ordenamiento, el control de rabia y población canina no es concesionable.
+El sentenciado que se considere con derecho al reconocimiento de su inocencia acudirá por escrito ante el Tribunal Superior de Justicia, acompañando las pruebas de su pretensión u ofreciendo hacerlo en la audiencia. El sentenciado designará a su defensor en este procedimiento. Si no lo hace, el tribunal le nombrará un defensor de oficio.
 
-### CAPITULO I. Del Alumbrado Público
+###### Artículo 371.
 
-###### ARTICULO 369.
+Dentro de los cinco días siguientes a la presentación de la solicitud, el Tribunal Superior de Justicia pedirá el expediente del proceso, citará al Ministerio Público, al solicitante y a su defensor, así como al ofendido o a su representante legal a una audiencia que se llevará a cabo dentro de los cinco días siguientes al recibo del expediente. En ella se desahogarán las pruebas ofrecidas por el promovente y se escuchará a éste, al ofendido y al Ministerio Público.
 
-Son materia de regulación de este capítulo los sistemas de alumbrado, que los particulares, el Gobierno Federal, Estatal y Municipal, así como los organismos descentralizados, instalen en áreas públicas y vialidades.
+###### Artículo 372.
 
-Estos sistemas deberán apegarse a la Norma Oficial Mexicana vigente aplicable a este tipo de instalaciones. NOM-001-SEDE-1999.
+Concluida la audiencia, el tribunal dispondrá de cinco días para resolver. Si se reconoce la inocencia, la sentencia condenatoria quedará anulada; se dará aviso al tribunal que condenó para que haga la anotación correspondiente en la sentencia y se publicará en la Gaceta Oficial del estado una síntesis del fallo que reconoció la inocencia. De hallarse el sentenciado recluido se le pondrá en inmediata libertad, por cuanto hace a ese delito.
 
-Para la elaboración de todo proyecto de alumbrado público se considerará el ahorro de energía sin demeritar la calidad de la iluminación.
+###### Artículo 373.
 
-###### ARTICULO 370.
+Las cuestiones de competencia pueden iniciarse por declinatoria o por inhibitoria.
 
-En la zona urbana, sub-urbana, rural y para todo tipo de vialidad, deberán utilizarse luminarias que cumplan con las normas internacionales para la construcción de sistemas de iluminación, que emite la Asociación Internacional de Construcciones Eléctricas. NOM-064-SCFI-2000; NMX-J-057/1-1998-ANCE. De tipo OV-15 autobalastrado y con difusor de cristal prismático.
+Cuando se hubiere optado por uno de estos medios no se podrá abandonar para recurrir al otro, ni emplear los dos sucesivamente, pues se deberá pasar por el resultado de aquel que se hubiere preferido.
 
-Sólo se permitirá el uso de otro tipo de luminaria cuando técnica y/o arquitectónicamente se justifique.
+###### Artículo 374.
 
-###### ARTICULO 371.
+La declinatoria se intentará ante el tribunal que conozca del asunto, pidiéndole que se abstenga del conocimiento del mismo y que remita las actuaciones al juez que se considere competente.
 
-Todos los balastros a instalar en los sistemas de iluminación deberán ser de alto factor de potencia y bajas pérdidas. NOM-058-SCFI-1994; NMX-J-510-1997-ANCE.
+###### Artículo 375.
 
-###### ARTICULO 372.
+La declinatoria podrá promoverse en cualquier estado del procedimiento judicial. Si se opusiere durante la instrucción, el tribunal que conozca del asunto podrá seguir actuando válidamente hasta que el Ministerio Público y la defensa formulen conclusiones.
 
-El conductor a utilizar en los sistemas de iluminación deberá cumplir con la NOM aplicable vigente. El calibre del conductor a instalar deberá de ser calculado para garantizar una caída de tensión máxima del 5% desde el punto de entrega al último luminario. Todas las conexiones entre conductores se llevarán a cabo por medio de conectores de compresión de tipo calibre de los mismos y debidamente aislados. NOM O63-SCFI-1994.
+###### Artículo 376.
 
-###### ARTICULO 373.
+Propuesta la declinatoria, el tribunal dará vista de la solicitud a las otras partes, por el término de tres días y resolverá lo que corresponda dentro de los seis días siguientes.
 
-La instalación del conductor de los sistemas de iluminación podrá ser aérea o subterránea:
+###### Artículo 377.
 
-Instalación aérea.- Se usará este tipo de instalación exclusivamente cuando se utilicen postes de concreto, para la cual se usará cable tipo múltiple soportado en herrajes de tipo y norma CFE.
+La declinatoria puede iniciarse y sostenerse de oficio por los tribunales y para el efecto se oirá la opinión del Ministerio Público y se resolverá lo que se estime procedente, remitiéndose, en su caso, las actuaciones a la autoridad que se juzgue competente.
 
-Instalación subterránea.- Se usará este tipo de instalación cuando se utilicen postes metálicos. El conductor deberá ser cable de cobre electrolítico suave, con aislamiento de PVC y se alojará en ductos de PVC de diámetro calculado conforme a los calibres de los conductores que alojará, el ducto deberá colocarse a una profundidad mínima de treinta centímetros del nivel de arroyo de calle, guarniciones de banquetas y camellones, debiendo instalar registros a una distancia máxima de treinta centímetros de la base del poste. Para los cruces de calles se deberá instalar doble canalización para efectos de mantenimiento siendo ésta de PVC tipo R-1 pesado, encofrado en concreto.
+###### Artículo 378.
 
-###### ARTICULO 374.
+La competencia por declinatoria no podrá resolverse sino después de que se practiquen las diligencias que no admitan demora y, en caso de que haya detenido, de haberse dictado el auto de formal prisión o el de libertad por falta de elementos para procesar.
 
-En ningún caso la distancia radial del circuito excederá quinientos metros del punto de entrega de energía al luminario más lejano.
+###### Artículo 379.
 
-###### ARTICULO 375.
+El tribunal que reciba las actuaciones remitidas por el que se hubiere declarado incompetente, oirá al Ministerio Público dentro de tres días y resolverá en el término de seis días si reconoce su competencia. En caso contrario, remitirá los autos al tribunal competente con su opinión, comunicándolo al tribunal que hubiere enviado el expediente.
 
-Para la instalación de luminarios se podrán utilizar:
+###### Artículo 380.
 
-I. Los postes de la C.F.E.;
+La inhibitoria se intentará ante el tribunal al que se crea competente, para que se avoque (sic) al conocimiento del asunto.
 
-II. Postes metálicos cónico-octagonales de altura estándar de 8.5 metros fondeados de anticorrosivo y pintados con esmalte alquidálico anticorrosivo en el color señalado por la Dirección de Alumbrado Público; y
+###### Artículo 381.
 
-III. Brazos metálicos de longitud estándar de 1.8 y 2.4 metros fondeados de anticorrosivo y pintados con esmalte alquidálico anticorrosivo en el color señalado por la Dirección de Alumbrado Público.
+El que promueva la inhibitoria puede desistirse de ella antes de que sea aceptada por los tribunales, pero una vez que éstos la acepten, continuará substanciándose hasta su resolución.
 
-###### ARTICULO 376.
+###### Artículo 382.
 
-Las luminarias instaladas en postes de C.F.E. deberán de tener una altura mínima de 7 metros cuando el circuito lo permita.
+El tribunal dará vista al Ministerio Público cuando la instancia no proviniere de éste por el término de tres días y, si estimare que es competente para conocer del asunto, librará oficio inhibitorio al tribunal que conozca del asunto, a efecto de que le remita el expediente.
 
-###### ARTICULO 377.
+###### Artículo 383.
 
-El espesor mínimo de la lámina de los arbotantes será de calibre 11. Los brazos deberán ser de tubo de acero cédula 30, de 51 milímetros de diámetro.
+Una vez que el tribunal requerido reciba la inhibitoria se señalarán tres días al Ministerio Público y otros tres a las demás partes, para que se impongan de lo actuado; los citará para una audiencia que se efectuará dentro de las veinticuatro horas siguientes y concurran o no los citados resolverá lo que corresponda dentro de tres días.
 
-###### ARTICULO 378.
+Si la resolución es admitiendo su incompetencia, remitirá desde luego los autos al tribunal requirente. Si la resolución fuere sosteniendo su competencia, remitirá el incidente al tribunal que deba decidir la controversia, comunicando este trámite al requirente para que a su vez remita sus actuaciones al tribunal.
 
-El brazo deberá mantener el luminario en una posición mínima de 5 grados con respecto a la horizontal.
+###### Artículo 384.
 
-###### ARTICULO 379.
+Los incidentes sobre competencia se tramitarán siempre por separado.
 
-Las dimensiones estándar especificadas de los brazos y arbotantes podrán variar sólo en los siguientes casos:
+###### Artículo 385.
 
-I. Que interfieran con líneas de alta tensión o alguna otra instalación; y
+El tribunal que deba resolver sobre controversia en la competencia, dará vista al Ministerio Público por el término de seis días y resolverá lo que corresponda dentro de los quince días siguientes, remitiendo las actuaciones al tribunal que declare competente.
 
-II. Que se justifique a través de un análisis técnico y fotométrico.
+###### Artículo 386.
 
-###### ARTICULO 380.
+En la substanciación de las competencias, una vez transcurridos los términos, se proveerá de oficio el trámite correspondiente.
 
-Cuando se utilicen los postes de C.F.E. deberá garantizarse la iluminación uniforme y adecuada, debiendo prever intercalaciones de postes cuando la distancia entre los existentes exceda de 60 metros. En cualquier otro caso la distancia máxima interpostal será de 35 metros.
+###### Artículo 387.
 
-###### ARTICULO 381.
+Los magistrados y jueces deben excusarse en los asuntos en que intervengan, por cualquiera de las causas de impedimento que disponga la Ley Orgánica del Poder Judicial del Estado.
 
-En todo sistema de alumbrado público de vialidades, se utilizarán lámparas de vapor de sodio de alta presión.
+###### Artículo 388.
 
-###### ARTICULO 382.
+Las causas de impedimento no se pueden dispensar por voluntad de las partes.
 
-La utilización de lámparas de vapor de mercurio, luz mixta, yodo-cuarzo, aditivos metálicos o incandescentes, sólo se autorizarán con fines ornamentales o de refuerzo en donde se justifique con análisis técnicos y estudio fotométrico.
+###### Artículo 389.
 
-###### ARTICULO 383.
+El impedimento se calificará por el superior a quien correspondería juzgar de una recusación, en vista del informe que dentro de tres días rinda el juez o magistrado. Contra la resolución que se dicte no cabe recurso alguno.
 
-La potencia de las lámparas será de 150 Watts en zona rural y urbana, excepto en vías principales y ejes viales en cuyo caso será de 250 Watts.
+###### Artículo 390.
 
-Sólo se permitirán valores de potencia diferentes a los especificados en casos especiales y justificados con estudios fotométricos.
+Cuando un juez o magistrado no se excuse a pesar de tener algún impedimento, procederá la recusación. No son admisibles las recusaciones sin causa. En todo caso se expresará concreta y claramente la que exista. Si son varias, se propondrán al mismo tiempo, salvo que se trate de alguna superveniente, la que se propondrá cuando ocurra.
 
-En cruceros de vías principales y ejes viales se instalarán reflectores de acuerdo a análisis fotométricos.
+###### Artículo 391.
 
-###### ARTICULO 384.
+La recusación puede interponerse en cualquier tiempo, pero no después de que se haya citado para sentencia; la promovida no suspenderá la instrucción ni la tramitación del recurso pendiente. Si se interpusiere contra un juez o magistrado, se suspenderá la celebración del juicio y, en su caso, la audiencia para la resolución del asunto en los tribunales superiores.
 
-Los luminarios de las vialidades serán distribuidas sobre la base de las siguientes especificaciones:
+###### Artículo 392.
 
-I. En calles de hasta diez metros de ancho de arroyo, los luminarios serán instalados en una sola acera. En caso de existir líneas de C.F.E., los luminarios se instalarán en la acera opuesta a la que ocupan estas líneas;
+Si después de la citación para sentencia hubiere cambio en el personal de un tribunal, la recusación sólo será admisible si se propone dentro de los tres días siguientes a aquel en que se notifique el auto en que se haga saber el cambio.
 
-II. En las calles de ancho de arroyo entre diez y quince metros, los luminarios serán instalados en ambas aceras en forma alternada (tresbolillo);
+###### Artículo 393.
 
-III. En las calles de ancho de arroyo mayor a quince metros, los luminarios se instalarán en ambas aceras frente a frente (bilateral pareada);
+Toda recusación que no fuere promovida en tiempo y forma será desechada de plano.
 
-IV. En las calles con camellón central menor a 3.5 metros, sin interferencia de árboles, se utilizará un arbotante con doble luminario, ubicado al centro del mismo;
+###### Artículo 394.
 
-V. En las calles con camellón central mayor a 3.5 metros o con interferencia de árboles, se instalarán luminarios en forma bilateral pareada o en tresbolillo en ambas guarniciones del camellón. Se usará un arbotante reforzado con doble luminaria en brazo tipo "ATLANTA" de 3 a 5 metros en los casos que la Dirección de Alumbrado Público lo determine; y
+Cuando el juez o magistrado estimen legal y cierta la causa de recusación, sin audiencia de las partes declinarán y mandarán que pase el asunto a quien deba corresponder el conocimiento del mismo.
 
-VI. El alumbrado en túneles viales deberá cumplir con lo especificado en el artículo 930 de la NOM 001 SEDE 1999.
+###### Artículo 395.
 
-###### ARTICULO 385.
+Cuando los servidores públicos a que se refiere el artículo anterior estimen que no es cierta o que no es legal la causa alegada, señalarán al recusante el término de cuarenta y ocho horas para que ocurra ante el superior que deba conocer de la recusación.
 
-Todo proyecto de alumbrado público, con instalación subterránea deberá contar con registro de paso, de conexión y cruce de calles; con el objeto de poder cambiar la dirección de los ductos, librar obstáculos naturales, limitar las longitudes de ductos y realizar la (sic) conexiones.
+Si éste estuviere en diferente lugar del que reside el servidor público recusado, además de las cuarenta y ocho horas indicadas se concederá otro término que será el suficiente teniendo en cuenta la mayor o menor dificultad en las comunicaciones.
 
-###### ARTICULO 386.
+Si dentro de los términos de que trata este artículo no se presenta el recusante al superior, se tendrá por desistido.
 
-Los registros pueden ser prefabricados de concreto armado con malla electro soldada o construidos en el sitio de instalación, deberán tener una dimensión interior mínima de 30x30x60 centímetros, sin fondo y con una capa de grava triturada ¾" y de 15 centímetros de espesor; deberán contar con una tapa abatible de concreto armado con marco y contra marco metálicos a 45 grados.
+### CAPÍTULO I. MEDIOS PROBATORIOS
 
-Los registros en los cruces de calles deberán tener la profundidad necesaria para que el ducto tenga una altura superior a la capa de grava para evitar que esta obstruya el paso del conductor.
+###### Artículo 396.
 
-Cuando los registros se construyan con tabique el espesor de los muros será de quince centímetros en jardines y camellones y podrá ser de diez centímetros en banquetas cuando éstas sean de concreto. Los registros deberán de quedar a nivel de la guarnición en todos los casos, el terminado interior será aplanado pulido con cemento.
+Interpuesta la recusación, el recusado dirigirá oficio al superior que deba calificar aquélla, con inserción del escrito en que se haya promovido, del proveído correspondiente y de las constancias que sean indispensables, a juicio del mismo recusado y de las que señalare el recusante.
 
-###### ARTICULO 387.
+###### Artículo 397.
 
-Las bases para los arbotantes y faroles deberán de ser de concreto. Para arbotantes para farol de hasta 4.5 metros el concreto deberá tener una resistencia de doscientos kilogramos sobre centímetro cuadrado ( f'c = 200 Kg/Cm2) y tendrán una dimensión de 30X30X75 centímetros.
+Cuando la recusación se plantee al superior, ante la negativa del recusado se pedirá a éste un informe que deberá rendir en el término de veinticuatro horas.
 
-Para arbotantes hasta de nueve metros el concreto deberá tener una resistencia de doscientos kilogramos sobre centímetro cuadrado (f'c = 200 Kg/cm2) y tendrán una dimensión de 40X40X100 centímetros.
+###### Artículo 398.
 
-Para arbotantes hasta de 9 metros el concreto deberá tener una resistencia de doscientos kilogramos sobre centímetro cuadrado ( f'c = 200 Kg/cm2) y tendrán una dimensión de 40X40X100 centímetros.
+Dentro de los cinco días contados a partir del siguiente a aquel en que se reciban los oficios a que se refieren los dos artículos anteriores, se resolverá si es legal o no la causa de recusación alegada.
 
-Para arbotantes cuya altura sea entre 9 y 12 metros el concreto de la base deberá tener una resistencia de doscientos cincuenta kilogramos sobre centímetro cuadrado ( f'c = 250 Kg/cm2) y tendrán una dimensión de 60X60X100 centímetros.
+Si la resolución fuere afirmativa y la causa se hubiere fundado en hechos que no estuvieren justificados, se abrirá el incidente a prueba por un término que no excederá de diez días.
 
-Las anclas para arbotantes de hasta 4.5 metros de altura serán de 13 milímetros de diámetro y 45 centímetros de longitud. Para arbotantes de hasta 9 metros serán de 19 milímetros de diámetro 75 centímetros de longitud. Para arbotantes de 9 a 12 metros las anclas serán de 25 milímetros por 90 centímetros. En todos los casos la cuerda deberá de ser estándar y galvanizada.
+###### Artículo 399.
 
-En toda base deberá considerarse la inclusión de un codo de 90° de PVC para el cableado en los postes. En todos los casos el nivel superior de las bases será de 3 centímetros arriba del nivel de la guarnición más cercana.
+Concluido el término probatorio, dentro de las cuarenta y ocho horas siguientes se pronunciará la resolución contra la que no procederá recurso alguno.
 
-###### ARTICULO 388.
+###### Artículo 400.
 
-El eje de las bases de arbotantes y faroles deberá quedar a una distancia de 50 centímetros del paño interior de la guarnición cuando se instalen en jardines, camellones y banquetas anchas (de más de 1.8 metros). En banquetas angostas (menores a 1.8 metros), quedarán a 20 centímetros del paño interior de la guarnición. En la elaboración de la base deberá contemplarse la inclusión de ductos para el cableado de los postes, el cual deberá de ser de PVC.
+Cuando se deseche la recusación se impondrá al promovente una multa de hasta cinco días de salario.
 
-###### ARTICULO 389.
+###### Artículo 401.
 
-Para la alimentación de los sistemas de alumbrado se deben utilizar subestaciones monofásicas (240 volts) o unicornio (YT) con su respectivo protocolo e instalaciones conforme a las normas de CFE. NMX-J-116-1996-ANCE.
+Admitido un impedimento o calificada como legal la causa de una recusación, el impedido o recusado quedará definitivamente separado del conocimiento del asunto, del cual conocerá el tribunal a quien corresponda conforme a la Ley Orgánica del Poder Judicial del Estado.
 
-Las capacidades normalizadas de los transformadores que se utilizarán en sistemas de alumbrado público serán las siguientes: 5, 10, 15, 25, 37.5 KVA con valores de voltaje 13200-120/240 ó 13200 YT/7620-120/240.
+###### Artículo 402.
 
-Sólo se permitirán capacidades diferentes a las mencionadas en proyectos especiales que lo requieran y se justifique técnicamente.
+No procede la recusación:
 
-###### ARTICULO 390.
+I. Al cumplimentar exhortos;
 
-Los transformadores deberán contar con protecciones en alta y baja tensión conforme a las normas de CFE.
+II. En los incidentes de competencia; o
 
-Los gabinetes que arrojen los interruptores serán tipo nema 3R (para intemperie) y deberán fijarse al poste mediante abrazaderas o fleje de acero inoxidable a una altura de 3 metros.
+III. En la calificación de los impedimentos o recusaciones.
 
-###### ARTICULO 391.
+###### Artículo 403.
 
-Queda prohibida la utilización de transformadores reconstruidos y la operación en rangos superiores al 80% de su capacidad nominal.
+De los impedimentos de los secretarios conocerá el juez o magistrado de quien dependa el impedido o recusado.
 
-###### ARTICULO 392.
+###### Artículo 404.
 
-Todo sistema de alumbrado público deberá contar con equipos de control de encendido y apagado automático. Dispositivos de protección del sistema, que incluyan un sistema de tierra física por poste si la sub-estación está en postes metálicos y unidades de medición de energía en los puntos de entrega deben ser de siete terminales por 100 amperes para sub-estaciones hasta de 15 KVA, y 200 amperes en sub-estaciones de 25 a 37.5 KVA.
+Alegado el impedimento o admitida la recusación, el secretario pasará el asunto a quien deba substituirlo conforme a la ley.
 
-###### ARTICULO 393.
+###### Artículo 405.
 
-En las vías principales y ejes viales se incluirán circuitos ahorradores de energía, previa validación de la Dirección de Alumbrado Público, que permitan dejar fuera de operación una parte del sistema o disminuir la intensidad lumínica en las horas en que la densidad del tránsito vehicular o peatonal se reduzca.
+Reconocida por el secretario como cierta la causa de recusación o declarada la procedencia de ésta por el juez o magistrado, aquél quedará impedido para actuar.
 
-###### ARTICULO 394.
+###### Artículo 406.
 
-Se consideran áreas públicas: las calles, los parques, jardines, pasajes, andadores, plazas y plazoletas. Para la realización de proyectos de luminación de estas áreas se deberán considerar todos los artículos mencionados con anterioridad, exceptuando el tipo de luminaria, la potencia de la lámpara y el tipo de la misma, además de considerar:
+Si se declara que el impedimento o la recusación no es procedente, el secretario continuará actuando en la causa.
 
-I. Arquitectura del paisaje;
+Contra la resolución respectiva no cabe recurso alguno.
 
-II. Niveles de iluminación; y
+###### Artículo 407.
 
-III. Ahorro de energía.
+Los servidores del Ministerio Público y los defensores de oficio se excusarán en los asuntos que intervengan por cualquiera de las causas de impedimento que señalen las leyes orgánicas o reglamentarias respectivas.
 
-###### ARTICULO 395.
+###### Artículo 408.
 
-Todos los proyectos de alumbrado público previamente a su ejecución deberán ser autorizados por la Dirección de Alumbrado Público Municipal. Debiendo presentar memoria de cálculo correspondiente que esté acorde a lo dispuesto en el artículo 9° sección 4.9 instalaciones destinadas al servicio público de la NOM-001-SEDE-1999.
+Los impedimentos de los servidores del Ministerio Público serán calificados por quienes designe la Ley Orgánica de dicha institución.
 
-Todo nuevo sistema de alumbrado público deberá cumplir con lo especificado en la NOM-013-ENER-1996 y con la NOM-001-SEMP-1994 en los apartados correspondientes a los valores de eficiencia energética. Para lo cual se deberán presentar los estudios correspondientes a la Dirección de Alumbrado Público para su valoración y aprobación que, debidamente avale un perito responsable.
+###### Artículo 409.
 
-Los nuevos fraccionamientos deberán cumplir con las disposiciones que establece el presente Código relativas al alumbrado público, para la municipalización correspondiente al servicio.
+Las excusas de los defensores de oficio serán calificadas por el tribunal que conozca del asunto.
 
-### CAPITULO II. Del Servicio de Rastro Municipal
+###### Artículo 410.
 
-###### ARTICULO 396.
+Se suspenderá el procedimiento, de oficio o a petición de parte, cuando:
 
-En los rastros que estén a cargo del H. Ayuntamiento corresponde al Departamento de Rastros lo siguiente:
+I. El inculpado evada la acción de la justicia;
 
-I. Vigilar el orden y buen uso de las instalaciones;
+II. Exista algún impedimento procesal o se advierta que falta un requisito de procedibilidad para la persecución del delito;
 
-II. Vigilar que los servicios que proporciona el rastro a los usuarios, se hagan en condiciones que garanticen la higiene en el sacrificio y transportación de los productos cárnicos;
+III. El procesado enloquezca, cualquiera que sea el estado del proceso;
 
-III. Regular la introducción de ganado y el abastecimiento de carnes para el consumo humano;
+IV. No exista auto de formal prisión o de sujeción a proceso y además:
 
-IV. Impedir la comercialización de productos cárnicos que no hayan sido previamente inspeccionados en cuanto a sus condiciones sanitarias o no hayan cubierto los impuestos y/o derechos municipales;
+a) No agotada la investigación, exista imposibilidad transitoria para practicar las diligencias que resultan de ella o en el proceso;
 
-V. Impedir que se realicen operaciones de compraventa de ganado y productos cárnicos dentro de las instalaciones del rastro;
+b) No exista fundamento para decretar el sobreseimiento;
 
-VI. Determinar el destino de las carnes no apropiadas para el consumo de la población de acuerdo a la Ley General de Salud; y
+c) Se desconozca al o los responsables del delito; o
 
-VII. Las demás facultades que le otorgue el presente Código.
+V. La ley lo ordene expresamente.
 
-###### ARTICULO 397.
+###### Artículo 411.
 
-Toda persona tiene el derecho de introducir al rastro el ganado que desee sacrificar, sujetándose a las disposiciones siguientes:
+Cuando se presente una causa de suspensión, el juez formulará de oficio el planteamiento respectivo. Cualquiera de las partes puede promover la suspensión del procedimiento, presentando las pruebas que justifiquen su pedimento. En todo caso, ésta se resolverá por cuerda separada del principal, previa audiencia de las partes por sí mismas o por medio de sus representantes legales, según la naturaleza del motivo que determine la suspensión. En la audiencia correspondiente, que tendrá lugar dentro de los cinco días siguientes al planteamiento de la suspensión, las partes presentarán pruebas y alegarán lo que a su derecho convenga.
 
-I. Respetar el horario y disposiciones administrativas que determine el H. Ayuntamiento en lo concerniente a la recepción, sacrificio y reparto de productos cárnicos;
+###### Artículo 412.
 
-II. Efectuar previamente, los pagos de derechos e impuestos correspondientes al servicio;
+Lo dispuesto en la fracción I del artículo 410 se entiende sin perjuicio de que, en su oportunidad, se practiquen todas las diligencias que sean procedentes para comprobar la existencia del delito, la responsabilidad del prófugo y para lograr su captura.
 
-III. Respetar las disposiciones sanitarias que establece el presente Código así como las demás disposiciones legales aplicables;
+La substracción de un inculpado a la acción de la justicia no impedirá la continuación del procedimiento respecto de los demás inculpados que se hallen a disposición del tribunal.
 
-IV. Abstenerse de intervenir en el manejo de las instalaciones y equipo con los que se presta el servicio;
+Lograda la captura del prófugo, el procedimiento continuará su curso sin que se repitan las diligencias ya practicadas, a menos que el Tribunal lo estime indispensable.
 
-V. Abstenerse de realizar operaciones de compraventa de ganado y productos cárnicos dentro del rastro; y
+El juzgador, de oficio o a petición de parte, podrá tomar medidas precautorias de carácter patrimonial, convenientes para la reparación del daño.
 
-VI. Cumplir además con las obligaciones que le imponga este Código así como las demás disposiciones legales aplicables.
+###### Artículo 413.
 
-###### ARTICULO 398.
+El proceso continuará cuando desaparezca la causa que motivó la suspensión. El juzgador hará valer esta circunstancia de oficio o a petición de parte.
 
-El Departamento de Salubridad Municipal, será la dependencia encargada de la verificación sanitaria de los productos emanados del rastro, por lo que tendrá las siguientes funciones:
+###### Artículo 414.
 
-I. Supervisar la higiene y el aseo del Rastro Municipal, debiendo suspender la operatividad cuando no se cumplan los requisitos sanitarios de las instalaciones y/o del personal de sacrificio;
+La acumulación tendrá lugar:
 
-II. Vigilar en forma coordinada con la administración del rastro y con las demás autoridades competentes la introducción de ganado para sacrificio y el abasto de carnes propias para el consumo humano;
+I. En los procesos que se siguen contra una persona en el caso de concurso real o material de delitos, según lo prevenido en el Código Penal;
 
-III. Verificar que la calidad sanitaria de los productos cárnicos sea apta para el consumo humano, aplicando para su efecto el sello de certificación sanitaria que así lo indique, de acuerdo a cada especie, y en términos de la Ley Federal de Sanidad Animal y de la NOM-EM-009-ZOO-1994;
+II. En los que se siga investigación de delitos conexos; o
 
-IV. Declarar el tipo de carne apta para industrialización, aplicando el sello de verificación correspondiente de acuerdo a la norma oficial señalada en la fracción anterior;
+III. En los que se sigan en investigación de un mismo delito contra diversas personas.
 
-V. Asegurar el producto cárnico que no deba ser utilizado para consumo humano, debiendo ser desnaturalizado con ácido fénico crudo y/o diesel para su incineración;
+No procederá la acumulación si se trata de diversos fueros.
 
-VI. Prestar a los usuarios del rastro todos los servicios en las mejores condiciones sanitarias;
+###### Artículo 415.
 
-VII. Verificar que el proceso de sacrificio se lleve a cabo siguiendo las normas sanitarias vigentes y que se aplique la NOM-EM-009-ZOO-1994;
+Los delitos son conexos cuando se han cometido:
 
-VIII. Vigilar que el transporte de toda clase de carne producto del sacrificio de animales, se realice de acuerdo a normas que garanticen la higiene y preserven la salud de la población, y que los vehículos que sirvan de transporte de dichos productos cuenten con licencia sanitaria expedida por el H. Ayuntamiento;
+I. Por varias personas unidas;
 
-IX. Autorizar el sacrificio de ganado, sometiéndolo a inspección ante-mortem, dentro de las veinticuatro horas anteriores que precedan al sacrificio;
+II. Por varias personas, aunque en diversos tiempos y lugares, pero a virtud de concierto entre ellas; o
 
-X. Inspeccionar y controlar en coordinación con las autoridades sanitarias a los establecimientos dedicados a la venta de carne, certificando las condiciones sanitarias y de higiene de ésta, que la hagan apta para el consumo humano;
+III. Para procurarse los medios a fin de perpetrar otro, para facilitar su ejecución o para consumarlo o para asegurar la impunidad.
 
-XI. Infraccionar a las personas que violen cualquiera de las obligaciones de este capítulo en los términos establecidos en el presente Código; y
+La acumulación no podrá decretarse en los procesos después de cerrada la instrucción.
 
-XII. Las demás que establezcan las leyes sanitarias.
+###### Artículo 416.
 
-###### ARTICULO 399.
+Cuando alguno de los procesos ya no estuviere en estado de instrucción, pero tampoco estuviere concluido o no sea procedente la acumulación conforme a este capítulo, el tribunal cuya sentencia cause ejecutoria la remitirá en copia certificada al tribunal que conozca del otro proceso, para los efectos de la aplicación de las sanciones.
 
-La recepción de ganado en los corrales del rastro, deberá hacerse certificándose la propiedad y sanidad, previamente al sacrificio.
+### CAPÍTULO II. LA CONFESIÓN
 
-Cuando no sea posible acreditar fehacientemente la propiedad del ganado, se asegurará éste y se dará aviso al Agente del Ministerio Público para la investigación que corresponda.
+###### Artículo 417.
 
-###### ARTICULO 400.
+Si los procesos se siguen en el mismo tribunal, la acumulación podrá decretarse de oficio sin substanciación alguna.
 
-El proceso de sacrificio no podrá dar inicio si no se encuentra presente el verificador sanitario en turno, y si las instalaciones no están en las mejores condiciones de higiene.
+Si la promoviere alguna de las partes, el tribunal la escuchará en una audiencia que tendrá lugar dentro de tres días y, sin más trámite, resolverá dentro de los tres siguientes, pudiendo negarla cuando a su juicio dificulte la investigación.
 
-###### ARTICULO 401.
+###### Artículo 418.
 
-Los corrales recibirán ganado que se destine al sacrificio, incluyendo su inscripción de acuerdo al horario que señale la administración.
+Si los procesos se siguen en tribunales distintos, será competente para conocer de todos los que deban acumularse el tribunal que conoció del más antiguo; si comenzaron en la misma fecha, el que designe el tribunal superior jerárquico.
 
-###### ARTICULO 402.
+###### Artículo 419.
 
-El ganado será sacrificado por riguroso turno, siguiendo el orden con que fue inscrito, dándose en todo caso prioridad al sacrificio destinado al abasto local, y el destinado al anfiteatro.
+La acumulación se promoverá ante el tribunal competente, conforme al artículo anterior y el incidente a que dé lugar se substanciará en la forma establecida para las competencias por inhibitoria.
 
-###### ARTICULO 403.
+###### Artículo 420.
 
-Los encargados de la conducción y reparto de productos cárnicos, tienen bajo su responsabilidad los productos que se aseguren por razones sanitarias.
+Los incidentes de acumulación se substanciarán por separado sin suspender el procedimiento.
 
-###### ARTICULO 404.
+###### Artículo 421.
 
-Si los productos cárnicos no son recibidos por sus destinatarios debido a causas no imputables al servicio de reparto, el propietario deberá pagar el derecho de refrigeración y recogerlos directamente en las instalaciones del rastro o efectuar nuevamente el pago de entrega a domicilio.
+Serán aplicables las disposiciones de este capítulo a las averiguaciones que se practiquen por los tribunales, aun cuando no exista auto de formal prisión o de sujeción a proceso.
 
-###### ARTICULO 405.
+###### Artículo 422.
 
-La carne de animales muertos por accidentes que se lleve al rastro para su inspección sanitaria, sólo podrá destinarse al consumo cuando a juicio del servicio médico veterinario reúna las condiciones necesarias y en caso contrario, deberá destruirse apropiadamente.
+Podrá ordenarse la separación de los procesos acumulados cuando concurran las siguientes circunstancias:
 
-###### ARTICULO 406.
+I. Que la pida alguna de las partes antes de que esté concluida la instrucción;
 
-Las canales de animales sacrificados, así como las pieles y vísceras, serán inspeccionadas y selladas por personal autorizado, sin este requisito queda prohibido su traslado, comercialización y consumo.
+II. Que la acumulación se haya decretado en razón de que los procesos se refieran a una sola persona inculpada por delitos diversos e inconexos; y
 
-###### ARTICULO 407.
+III. Que el tribunal considere que de continuar la acumulación la investigación se demoraría o dificultaría.
 
-El pago del derecho de uso de rastro, incluye la refrigeración de los productos hasta por veinticuatro horas, luego de lo cual se causará un costo extra, mismo que será determinado por la administración.
+###### Artículo 423.
 
-###### ARTICULO 408.
+La separación podrá decretarse de oficio cuando no haya habido acumulación en los términos del capítulo anterior.
 
-En los rastros o lugares de sacrificio en que se practique la Inspección Sanitaria, no se permitirá la entrada al público, salvo autorización expresa de la autoridad sanitaria municipal. Teniendo acceso únicamente el personal de vigilancia, verificación sanitaria, así como las personas expresamente autorizadas por la administración.
+###### Artículo 424.
 
-###### ARTICULO 409.
+Contra el auto en que el tribunal declare que no ha lugar a la separación no procede recurso alguno, pero dicho auto no pasará a ser cosa juzgada mientras no esté concluida la instrucción.
 
-La administración del rastro podrá hacer el reparto a domicilio de los productos cárnicos, para lo cual se deberá hacer previa solicitud, señalándose el tipo de servicio que se solicita, de parte de los interesados a la administración del rastro. El reparto se verificará dentro del horario que sea determinado por la propia administración y siguiendo el orden en que se presenten las solicitudes.
+###### Artículo 425.
 
-###### ARTICULO 410.
+Decretada la separación, conocerá de cada asunto el tribunal que ya lo hacía antes de haberse efectuado la acumulación. Dicho tribunal, si fuere diverso del que decretó la separación, no podrá rehusarse a conocer del caso, sin perjuicio de que pueda suscitarse la cuestión de competencia.
 
-El conductor encargado del transporte es responsable del vehículo de entrega, así como de mantenerlo en óptimas condiciones físicas y de higiene.
+###### Artículo 426.
 
-###### ARTICULO 411.
+El incidente sobre separación de procesos se substanciará por separado, en la misma forma que el de acumulación, sin suspender el procedimiento.
 
-Los conductores encargados del reparto son responsables de los productos que se les confiere, y no podrán transportar carne de equino o para industrialización, ni productos no procesados en el rastro municipal.
+###### Artículo 427.
 
-###### ARTICULO 412.
+Cuando varios tribunales conozcan de procesos cuya separación se haya decretado, el que primero pronuncie sentencia que cause ejecutoria remitirá a los demás copia certificada para los efectos de la aplicación de las sanciones.
 
-Si al efectuarse el reparto los productos no son recibidos por causas imputables a los solicitantes, los mismos serán regresados a los refrigeradores del rastro y será obligación del propietario pasar a recogerlos, así como de cubrir en su caso la cuota extra que se llegase a generar.
+###### Artículo 428.
 
-APARTADO PRIMERO
+La acción para exigir la reparación del daño a personas distintas del inculpado, de acuerdo con el artículo 59 del Código Penal, se ejercitará por quien tenga derecho a ello o por el Ministerio Público en términos de la fracción III del artículo 154 de este Código, ante el tribunal que conozca de la materia penal, pero deberá intentarse y seguirse ante los tribunales civiles en el juicio que corresponda cuando haya recaído sentencia irrevocable en el proceso sin haber intentado dicha acción, siempre que el que lo intente fuere un particular. Esto último se observará también cuando concluida la instrucción no hubiere lugar a juicio en materia penal por falta de acusación del Ministerio Público y se promueva posteriormente la acción civil.
 
-De los Introductores
+Cuando promovidas las dos acciones concluya el proceso sin que el incidente de reparación del daño se encuentre en estado de sentencia, continuará conociendo el tribunal ante el que se haya iniciado.
 
-###### ARTICULO 413.
+El ofendido o su representante actuará durante la investigación ministerial y en las etapas subsecuentes del procedimiento, hasta la sentencia de segunda instancia. El ofendido puede cambiar al representante legal, lo que hará saber a la autoridad que conozca del procedimiento.
 
-Se entiende por introductor, toda aquella persona física o moral que introduzca al rastro ganado para su sacrificio.
+###### Artículo 429.
 
-###### ARTICULO 414.
+Todos los incidentes sobre reparación del daño exigible a terceras personas que se sigan ante los tribunales, se tramitarán y decidirán conforme a lo que disponga el Código de Procedimientos Civiles.
 
-En caso de decomiso por resultar la carne no apta para el consumo humano, el introductor deberá pagar el servicio generado, y en caso de haber realizado dicho pago no tendrá derecho a la devolución del mismo.
+###### Artículo 430.
 
-###### ARTICULO 415.
+Si el incidente llega al estado de alegar antes de que concluya la instrucción, se suspenderá hasta que el proceso se encuentre en estado de sentencia, la que se pronunciará resolviendo a la vez sobre la acción penal y sobre la reparación del daño exigible a personas distintas del inculpado, produciéndose los alegatos en la audiencia del juicio penal.
 
-Son obligaciones de los introductores:
+De hallarse prófugo el inculpado, se continuará la tramitación del incidente hasta dictar sentencia.
 
-I. Sujetarse al horario señalado por la administración para la recepción, sacrificio, entrega y transporte de los productos obtenidos del sacrificio;
+###### Artículo 431.
 
-II. Respetar la normatividad impuesta por la administración del rastro con relación a los procesos señalados en la fracción anterior;
+Las providencias precautorias que pudiere intentar quien tenga derecho a la reparación se regirán por lo que dispone el Código de Procedimientos Civiles, pero si es el Ministerio Público el que las pida de conformidad con los artículos 154 fracción III y 428 de este Código, se decretarán sin que se otorgue la garantía que la citada ley procesal exige. Lo dispuesto es sin perjuicio de las facultades que las leyes concedan al Fisco para asegurar su interés.
 
-III. Previo a la solicitud del servicio hacer el pago correspondiente a impuestos y derechos;
+###### Artículo 432.
 
-IV. Guardar el orden dentro de las instalaciones del rastro; y
+Los incidentes cuya tramitación no se detalle en este Código y que a juicio del tribunal no puedan resolverse de plano, y además sean de aquellos que no suspendan el curso del procedimiento, se substanciarán por separado y del modo siguiente:
 
-V. Registrarse a la entrada de las instalaciones e identificarse en cualquier momento, con la credencial que le expida la Secretaría de Servicios Públicos y Ecología y la Dirección de Salubridad Municipal.
+I. Se dará vista de la promoción del incidente a las partes para que contesten lo que a su interés convenga, en el acto de la notificación o a más tardar al día siguiente; y
 
-###### ARTICULO 416.
+II. Si el tribunal lo creyere necesario o alguna de las partes lo pidiere, se abrirá un término de prueba que no excederá de cinco días, después de los cuales se citará para una audiencia que se efectuará dentro de los tres días siguientes.
 
-Queda prohibido a los introductores:
+Concurran o no las partes, el tribunal dictará la resolución del incidente como corresponda en derecho.
 
-I. Portar armas de fuego al interior del rastro;
+###### Artículo 433.
 
-II. Presentarse en estado de ebriedad o bajo el influjo de algún psicotrópico, salvo que en este último caso exista prescripción médica, debiendo darlo a conocer a su jefe inmediato antes de iniciar labores; así como introducir bebidas alcohólicas;
+También se tramitará como incidente no especificado la solicitud de los sentenciados para que se les aplique ley posterior favorable, en los casos de supresión de un tipo penal o modificación de la naturaleza, duración, cuantía o modalidades de la sanción impuesta. Si el sentenciado la promueve ante la autoridad ejecutora, ésta de inmediato la comunicará al juez para que se abra de oficio el incidente.
 
-III. Faltar al respeto o agredir, amenazar a cualquier persona dentro de las instalaciones del rastro;
+###### Artículo 434.
 
-IV. Intervenir en el manejo de instalaciones y equipo o girar órdenes a los trabajadores, así como entorpecer las labores del mismo;
+Cuando se practique una investigación ministerial en contra de una persona que se considere inimputable a juicio de peritos, en su caso, el Ministerio Público podrá disponer que sea internada en un establecimiento de salud, si esa medida es la recomendable conforme a las circunstancias del caso o lo entregará a quien tenga la obligación de hacerse cargo de él. Al efecto, se otorgará la caución que fije dicha autoridad.
 
-V. Celebrar reuniones, manifestaciones o juntas en el interior del rastro;
+###### Artículo 435.
 
-VI. Causar daño a las instalaciones y equipo del rastro;
+Tan pronto como se sospeche que el procesado se encuentre en estado de inimputabilidad, el tribunal lo mandará a examinar por peritos médicos, sin perjuicio de continuar el procedimiento en la forma ordinaria. Si existe motivo fundado, ordenará provisionalmente la reclusión del inculpado en algún centro de salud.
 
-VII. Sacar productos cárnicos del rastro sin haber sido verificados sanitariamente, sin haber cubierto los impuestos o derechos correspondientes, y sin portar el pase de salida;
+Inmediatamente que se compruebe que el inculpado es inimputable, cesará el procedimiento ordinario y se abrirá el especial en que la ley deja a criterio del tribunal la forma de investigación a la infracción penal que se le imputa, la participación que en ella hubiere tenido el inculpado y la de estimar la personalidad de éste sin necesidad de que el procedimiento que se emplee sea similar al judicial.
 
-VIII. Sacar los animales del establecimiento sin autorización de la administración;
+La vigilancia del recluido estará a cargo del órgano que designe el Ejecutivo del Estado.
 
-IX. Otorgar dádivas al personal que opera en el rastro o productos obtenidos del sacrificio sin antes notificarlo a la administración;
+###### Artículo 436.
 
-X. Cometer actos inmorales en el establecimiento;
+El procedimiento y las medidas pertinentes en caso de inimputabilidad o trastorno mental permanente del agente cuando cometió el delito, se sustentarán en la comprobación del cuerpo del delito que se le atribuye, así como su intervención en éste. Si no se acreditan estos supuestos el juez pondrá en libertad al inculpado y dará cuenta de la liberación a la autoridad que deba intervenir, tomando en cuenta el padecimiento que aqueja al sujeto.
 
-XI. Permanecer en áreas señaladas, sin previa autorización y fuera del horario establecido para el efecto; y
+Dentro de setenta y dos horas, contadas a partir de que el detenido quedó a su disposición o de las ciento cuarenta y cuatro horas, en caso de haberse duplicado el término a petición de la defensa, el juez dictará la resolución que legalmente corresponda, para justificar el procedimiento y la privación de libertad.
 
-XII. Retirar los sellos de verificación sanitaria que identifiquen la especie y destino de los productos cárnicos.
+###### Artículo 437.
 
-### CAPITULO III. Del Control de Rabia y Población Canina
+Cuando el juez considere que el inculpado es inimputable, dictará la resolución a que se refiere el último párrafo del artículo anterior, disponiendo, en su caso, que sea examinado por peritos médicos y suspenderá el procedimiento hasta contar con el dictamen solicitado.
 
-###### ARTICULO 417.
+El examen podrá ser requerido por cualquiera de las partes, quienes tendrán el derecho de presentar peritos que dictaminen sobre el caso. Mientras se obtienen los dictámenes el juez dictará las medidas convenientes para procurar protección y asistencia al inculpado. El dictamen será exhaustivo, de modo tal que se pueda establecer el estado del sujeto y contendrá el diagnóstico a la fecha de practicarse el examen, con indicación del tratamiento a que debe sujetarse aquél.
 
-Para efectos de este capítulo se entiende por centro antirrábico municipal, al establecimiento destinado a contribuir en la prevención y control de la rabia animal; así como de la población canina, coadyuvando acciones con las autoridades sanitarias competentes.
+Si se dictamina que el sujeto es inimputable, el juez cerrará el procedimiento ordinario y abrirá el especial en el que proseguirá la investigación del delito imputado, de la intervención que haya tenido el inculpado y de las características de su personalidad y, en su caso, del padecimiento que sufre. En el procedimiento especial se oirá a la persona que tenga o asuma, conforme a la ley civil, la representación legal del inculpado, a quien se admitirá en el procedimiento en esa condición, aun cuando no esté reconocida por la autoridad civil competente. Si el inculpado carece de esa persona, el juez le designará de plano un tutor dativo que lo represente.
 
-###### ARTICULO 418.
+En estos casos se observarán las formalidades esenciales del procedimiento en beneficio del inculpado, que comprenderán el derecho de audiencia y defensa mediante el representante y el defensor designado o del defensor de oficio nombrado por el juez.
 
-Será objeto de las disposiciones contenidas en este capítulo, todos los animales cánidos, quedando facultadas las autoridades municipales para hacer extensiva a otras especies que entre ellas o por medio de ellas. (sic)
+Agotada la investigación, el tribunal celebrará la audiencia en la que oirá al Ministerio Público, al inculpado, si ello es posible, a su representante o a su defensor y dictará sentencia dentro de los cinco días siguientes a la conclusión de aquélla.
 
-###### ARTICULO 419.
+###### Artículo 438.
 
-La rabia es una enfermedad infecto-contagiosa aguda y mortal que ataca al sistema nervioso central provocada por un virus del genero Lissavirus y de la familia Rabdoviridae, transmitida al hombre o animales por la saliva de animales enfermos a partir de una mordedura, rasguño o lamedura sobre mucosa o piel con solución de continuidad o material contaminado.
+Cuando el trastorno mental del inculpado sobrevenga en el curso del procedimiento, el Ministerio Público o el juez lo suspenderá y ordenará que el sujeto quede a disposición de la autoridad sanitaria para su atención médica. Dicha autoridad podrá entregarlo para el mismo fin a quien deba hacerse cargo de él, con la obligación de informar a la autoridad penal los cambios que ocurran en la situación del inculpado y los efectos que tenga el tratamiento al que fue sometido.
 
-###### ARTICULO 420.
+Si cesa el tratamiento que determinó la suspensión, seguirá el procedimiento como legalmente corresponda. En caso de dictarse como condena, sanción privativa de libertad, se reducirá de ésta el tiempo que el inculpado estuvo bajo tratamiento.
 
-El centro antirrábico municipal estará constituido por las siguientes áreas:
+###### Artículo 439.
 
-I. Dirección;
+Si el inculpado tiene el hábito o la necesidad de consumir estupefacientes o psicotrópicos, pero no se trata de un enfermo mental, el procedimiento ordinario continuará hasta que se dicte la sentencia y el juez informará a la autoridad sanitaria de tal situación para que preste al sujeto la atención debida.
 
-II. Captura o aseguramiento y observación clínica;
+###### Artículo 440.
 
-III. Equipo y asistencia médica;
+En toda sentencia condenatoria se prevendrá que se amoneste al reo para que no reincida, advirtiéndole de las sanciones a que se expone si lo hace; de ello se levantará acta, pero sin que la falta de ésta obste para hacer efectivas las sanciones que por reincidencia señala el Código Penal.
 
-IV. Educación y fomento sanitario;
+###### Artículo 441.
 
-V. Investigación;
+La ejecución de las sentencias irrevocables corresponde al Ejecutivo del Estado por medio del órgano que para ese efecto designe, el que determinará, en su caso, el lugar donde el reo deba purgar la pena privativa de libertad que le fue impuesta.
 
-VI. Sacrificio humanitario; y
+El Ministerio Público tiene la obligación de practicar todas las diligencias conducentes para que las sentencias sean cumplidas estrictamente. Lo hará así, gestionando con las autoridades administrativas lo que proceda o bien exigiendo ante los tribunales la represión de todos los abusos que aquéllas o sus subalternos cometan, cuando se aparten de lo prevenido en las sentencias, en pro o en contra de los individuos que sean sujetos de ellas.
 
-VII. Anfiteatro.
+###### Artículo 442.
 
-###### ARTICULO 421.
+El Ministerio Público actuará como lo previene el artículo anterior siempre que llegue a su conocimiento, por cualquier medio, que la autoridad a cuyo cargo está la ejecución de la sentencia se aparta de lo ordenado en ésta.
 
-El personal administrativo y operativo del centro antirrábico, deberá recibir inmunización previa a la exposición a animales.
+###### Artículo 443.
 
-###### ARTICULO 422.
+Pronunciada una sentencia condenatoria irrevocable, el tribunal que la dicte remitirá, dentro de tres días, dos testimonios de ella a la Procuraduría General de Justicia, la que enviará al órgano autorizado por el Ejecutivo uno de los testimonios.
 
-El centro antirrábico municipal está obligado a prestar el servicio de vacunación antirrábica a perros y gatos de manera gratuita; para el efecto se entregará el certificado de vacunación y la placa correspondiente, el cual el propietario o responsable está obligado a presentar a la autoridad sanitaria cuantas veces sea requerido.
+###### Artículo 444.
 
-###### ARTICULO 423.
+El Ministerio Público solicitará de los tribunales que se envíe a la autoridad fiscal correspondiente copia autorizada de la sentencia en que se impuso la sanción pecuniaria para que la haga efectiva. El legitimado para recibir el importe de la reparación del daño tiene derecho de pedir al tribunal que cumpla esta prevención, así como que promueva ante la autoridad fiscal respectiva todo lo necesario para el fin indicado.
 
-El centro antirrábico hará constar en el certificado de vacunación antirrábica el nombre y domicilio del propietario; nombre, color, sexo y raza de cada animal; fecha de vacunación y el número de control, estos datos quedarán asentados en los registros de vacunación antirrábica del establecimiento.
+### CAPÍTULO III. LA INSPECCIÓN Y LA RECONSTRUCCIÓN DE HECHOS
 
-###### ARTICULO 424.
+###### Artículo 445.
 
-Los perros y gatos de tres meses de edad en adelante deberán ser presentados por sus propietarios o responsables ante la autoridad sanitaria a fin de que sean vacunados contra la rabia la cual deberá ser con reaplicación animal.
+Efectuado el pago de la sanción pecuniaria, en todo o en parte, la autoridad fiscal, dentro del improrrogable término de tres días, pondrá la cantidad correspondiente a la reparación del daño a disposición del tribunal, el que hará comparecer a quien tenga derecho a ella para hacerle entrega inmediata de su importe. El pago de la reparación del daño será preferente a cualquier otra sanción pecuniaria.
 
-###### ARTICULO 425.
+El tribunal podrá aplicar a la autoridad fiscal el medio de apremio que estime necesario para que dé cumplimiento a la obligación que le impone este artículo. El Ministerio Público cuidará que se cumpla cabalmente esta disposición.
 
-Los propietarios de establecimientos donde se vendan mascotas y se presten servicios de atención médica a animales están obligados a vacunar contra la rabia a las especies susceptibles, con la opción de apegarse al artículo anterior, debiendo entregar el certificado y placa a la persona que adquiera estas mascotas. Además deberán llevar un libro de control en donde hagan las anotaciones de las vacunas y tratamientos que reciba cada animal, el cual podrá ser revisado periódicamente por la autoridad.
+###### Artículo 446.
 
-###### ARTICULO 426.
+Cuando el reo enloquezca después de dictarse en su contra sentencia irrevocable que le imponga la pena de privación de su libertad personal, se suspenderán los efectos de ésta, mientras no recobre la razón, internándosele en el establecimiento adecuado para su tratamiento.
 
-El centro antirrábico municipal deberá establecer programas de control y vigilancia epidemiológica de la rabia, así como realizar investigaciones epizoóticas en casos de rabia animal, y promover campañas de concientización, prevención y promoción de la rabia.
+###### Artículo 447.
 
-###### ARTICULO 427.
+El destino de los objetos del delito se sujetará a las disposiciones que, respecto de su venta, establecen la Ley Orgánica del Poder judicial y demás disposiciones aplicables.
 
-Es obligación de los verificadores municipales en materia de control canina capturar y/o asegurar los perros que deambulen libremente en vía pública; tengan o no propietario; vacunados o no contra la rabia; con o sin placa.
+Si las cosas de que se trata sólo sirven para la comisión de delitos, se destruirán al ejecutarse la sentencia.
 
-###### ARTICULO 428.
+###### Artículo 448.
 
-Todo animal que se encuentre sujetado o no en vía pública, no se le dé un hábitat digno o se encuentre en condiciones insalubres y pueda transmitir enfermedades a personas y/o animales, no se le provea de alimento y agua o defeque habitualmente en propiedad ajena o cause molestia a terceros, podrá ser asegurado por los verificadores sanitarios del municipio.
+Las pruebas que se promuevan para satisfacer los requisitos que el Código Penal exige para la concesión de la suspensión condicional podrán rendirse durante la instrucción, sin que su ofrecimiento por el procesado signifique la aceptación de su responsabilidad en los hechos que se le imputan.
 
-###### ARTICULO 429.
+###### Artículo 449.
 
-Los perros capturados y/o asegurados de acuerdo a lo estipulado en los dos Artículos precedentes serán remitidos al Centro Antirrábico donde permanecerán en depósito durante 72 horas. Si durante este período el perro es reclamado y quien lo reclama acredita el carácter de propietario a satisfacción de la autoridad sanitaria correspondiente le será devuelto después de cubrir la multa que se le imponga y los gastos erogados en su alimentación.
+Cuando las partes estimen procedente la suspensión condicional, la solicitarán al tribunal al formular conclusiones.
 
-###### ARTICULO 430.
+###### Artículo 450.
 
-Si durante el periodo de setenta y dos horas posterior al aseguramiento del perro, éste no es reclamado o quien lo reclama no acredita el carácter de propietario a satisfacción de la autoridad sanitaria o si no es cubierta la multa dentro del plazo señalado, dicha autoridad podrá sacrificarlo o donarlo a instituciones educativas para prácticas o destinarlo para adopción siempre y cuando reúna las características para dicho fin.
+Si el procesado o su defensor en sus conclusiones no solicitan el otorgamiento del beneficio de la suspensión condicional y ésta no se concediere de oficio, podrán solicitarla y rendir las pruebas respectivas durante la tramitación de la segunda instancia.
 
-###### ARTICULO 431.
+Después de dictada sentencia irrevocable no procederá la suspensión condicional.
 
-La autoridad sanitaria correspondiente se reservará el derecho de disponer de los animales asegurados en las instalaciones del centro antirrábico.
+###### Artículo 451.
 
-###### ARTICULO 432.
+Cuando por alguna de las causas señaladas en la ley, deba hacerse efectiva la sanción impuesta revocándose el beneficio de la suspensión condicional, el tribunal que lo concedió procederá con audiencia del Ministerio Público, del reo y de su defensor, si fuere posible, a comprobar la existencia de dicha causa y en su caso ordenará que se ejecute la sanción por la autoridad que corresponda.
 
-Es obligación del centro antirrábico municipal recibir e investigar todo reporte de animal agresor y/o sospechoso de rabia.
+###### Artículo 452.
 
-###### ARTICULO 433.
+La rehabilitación se otorgará con arreglo a lo dispuesto en la parte final del artículo 38 de la Constitución Política de los Estados Unidos Mexicanos, en la manera que lo ordenen las leyes relativas.
 
-Todo animal que muerda a una persona deberá ser asegurado por los verificadores municipales y enviado al centro antirrábico para su observación por el tiempo que sea necesario.
+###### Artículo 453.
 
-En caso de que el animal resulte sano, será devuelto únicamente cuando su propietario lo solicite en el transcurso de 72 horas posteriores al periodo de observación, previo pago de los daños que hubiera ocasionado y así lo manifiesta ante la autoridad sanitaria el afectado, además de los gastos de alimentación y multa impuesta por la autoridad municipal debido a dicha agresión.
+La rehabilitación de los derechos civiles o políticos no procederá mientras el reo esté cumpliendo la pena privativa de libertad que le fue impuesta.
 
-###### ARTICULO 434.
+###### Artículo 454.
 
-Todo animal que presente síntomas de rabia aún cuando no haya mordido a persona alguna, será asegurado por los verificadores municipales y enviado al Centro Antirrábico para su observación; en el supuesto de que no se comprueben dichos síntomas, se procederá a lo estipulado en el último párrafo del artículo anterior.
+Para rehabilitación de derechos se estará a lo que, en cada caso, determine la sentencia respectiva.
 
-###### ARTICULO 435.
+###### Artículo 455.
 
-Los perros que hayan sido mordidos por otros perros serán sacrificados a menos que sus propietarios decidan recuperarlos y los hagan vacunar.
+Quien solicite la rehabilitación de los derechos en los que haya sido suspendido o inhabilitado, a su escrito relativo acompañará:
 
-###### ARTICULO 436.
+I. Certificado expedido por la autoridad que corresponda, que acredite haber extinguido la sanción privativa de libertad que se le hubiere impuesto o que se le concedió la conmutación en su caso; y
 
-Cuando se compruebe que un animal ha sido reportado como agresor por segunda ocasión, la autoridad sanitaria municipal podrá disponer de él después del periodo de observación, según sea conveniente y sin sujetarse a trámite o término alguno.
+II. Certificado de la autoridad municipal del lugar donde haya residido desde que comenzó a sufrir la inhabilitación o la suspensión e información recibida por la misma autoridad, que demuestre que el promovente ha observado buena conducta continua, desde que comenzó a sufrir su sanción y que ha dado pruebas de haber contraído hábitos de orden, trabajo y moralidad.
 
-###### ARTICULO 437.
+###### Artículo 456.
 
-La existencia de uno o varios perros presuntamente rabiosos que por las circunstancias en que se presentan constituyen un peligro sanitario, faculta a los verificadores municipales para asegurar dichos perros; en caso de negativa o de oposición de sus propietarios o responsables, podrá usarse la fuerza pública y el rompimiento de chapas y/o cerraduras si fuera necesario para lograr dicho fin.
+Si la inhabilitación o suspensión es por seis o más años, la rehabilitación no podrá solicitarse antes de que transcurran tres años, contados desde que dicha sanción comenzó a computarse.
 
-###### ARTICULO 438.
+Si la inhabilitación o suspensión es por menos de seis años, el reo podrá solicitar su rehabilitación una vez extinguida la mitad de la misma.
 
-Si durante el período de observación el animal manifiesta signos de rabia y no muere, será sacrificado humanitariamente al término de dicho período y su encéfalo será remitido al laboratorio oficial para confirmación del diagnóstico clínico de rabia.
+###### Artículo 457.
 
-###### ARTICULO 439.
+Recibida la solicitud, el tribunal, a instancia del Ministerio Público o de oficio si lo creyere necesario, recabará informes más amplios para dejar perfectamente precisada la conducta del reo.
 
-Toda persona que tenga conocimiento de que un perro ha mordido a una persona está obligada a denunciar de inmediato el hecho al Centro Antirrábico o en su defecto al centro de salud u hospital más cercano o módulo de información y seguridad.
+###### Artículo 458.
 
-###### ARTICULO 440.
+Recibidas las informaciones o no estimadas necesarias, el tribunal decidirá dentro de tres días oyendo al Ministerio Público y al peticionario, si es o no fundada la solicitud. Si se concede, se publicará la determinación en la Gaceta Oficial del estado; si se niega, se dejarán expeditos al reo sus derechos para que, transcurrido un año, pueda solicitarla nuevamente.
 
-El reporte de observación del animal será manejado por la autoridad sanitaria municipal y lo informará a los afectados, al propietario y/o a la institución de salud interesada siempre y cuando sea solicitada.
+###### Artículo 459.
 
-###### ARTICULO 441.
+Al que una vez se le hubiere concedido la rehabilitación, nunca se le podrá conceder otra.
 
-Queda estrictamente prohibido el fomento y práctica de peleas de perros y por tanto las personas que realicen este tipo de acciones o les den trato cruel a los animales serán sancionadas en los términos de este Código; además se procederá al decomiso de sus perros quedando a disposición de la autoridad del Centro Antirrábico.
+## TRANSITORIOS
 
-###### ARTICULO 442.
+PRIMERO.- El presente ordenamiento entrará en vigor el día primero de enero de 2004, previa publicación en la Gaceta Oficial del estado.
 
-Son obligaciones de todo propietario o poseedor de un perro o gato:
+SEGUNDO.- A partir de la entrada en vigor de este ordenamiento quedará abrogado el Código de Procedimientos Penales para el Estado Libre y Soberano de Veracruz-Llave, que inició su vigencia el primero de julio de mil novecientos cuarenta y ocho; y se derogarán sus reformas y adiciones subsiguientes, así como las demás disposiciones que se opongan al presente Código.
 
-I. Vacunar a su animal contra la rabia en los términos de este Código y de la demás legislación aplicable;
+TERCERO.- Todos los procesos y averiguaciones que estuvieren en trámite al comenzar la vigencia de este Código se sujetarán a sus disposiciones. Asimismo, las averiguaciones previas iniciadas o en trámite se entenderán referidas, en su denominación y contenido al concepto de investigación ministerial.
 
-II. Tener su certificado de vacunación vigente;
+CUARTO.- Los recursos interpuestos antes de la entrada en vigor de este Código, que no se hayan admitido o desechado, se admitirán siempre que en este Código o en el anterior sean procedentes y se substanciarán conforme a lo dispuesto en el presente.
 
-III. Pasear al animal sólo si éste lleva puesto el collar o pechera con su respectiva correa o cadena y en manos de su propietario o poseedor. El animal que sea considerado como agresivo deberá usar bozal; y
+QUINTO.- Los términos que estén corriendo para interponer algún recurso al iniciar la vigencia de este Código, se computarán conforme al mismo o al Código anterior, aplicándose las disposiciones que señalen mayor competencia.
 
-IV. Dar un trato digno al animal y en su momento la atención clínica veterinaria adecuada.
+Dado en el Salón de Sesiones de la LIX Legislatura del Honorable Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz de Ignacio de la Llave, a los veintidós días del mes de octubre del año dos mil tres. Felipe Amadeo Flores Espinosa, diputado presidente.- Rúbrica. Natalio Alejandro Arrieta Castillo, diputado secretario.- Rúbrica.
 
-###### ARTICULO 443.
+Por tanto, en atención a lo dispuesto por los artículos 35 párrafo segundo y 49 fracción II de la Constitución Política del Estado, y en cumplimiento del oficio SG/01341, de los diputados presidente y secretario de la Quincuagésima Novena Legislatura del Honorable Congreso del Estado, mando se publique y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los veinticuatro días del mes de octubre del año dos mil tres.
 
-Las unidades de transporte del centro antirrábico serán consideradas como vehículos de emergencia y deberán de estar dotadas de una torreta color ámbar.
+Atentamente
 
-###### ARTICULO 444.
+Sufragio efectivo. No reelección.
 
-En el transporte de los animales capturados y que sean potencialmente transmisores de la rabia se deberán de cubrir los siguientes requisitos mínimos:
+Licenciado Miguel Alemán Velazco
 
-I. El exterior del transporte deberá estar pintado en color blanco uniforme, con pintura lavable debiendo ostentar la leyenda siguiente: Centro Antirrábico Municipal;
+Gobernador del Estado
 
-II. Las jaulas deben estar separadas de la cabina;
+Rúbrica
 
-III. Las jaulas donde se transporten los animales para su confinamiento deberán ser independientes y de tamaño adecuado;
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
-IV. Deberán tener ventilación suficiente y estar acomodados de tal forma que permitan su fácil aseo y desinfección; y
+G.O. 11 DE FEBRERO DE 2004.
 
-V. Deberán mantenerse en buen estado los vehículos y todos los accesorios, debiendo asearse antes y después de las labores propias.
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
-### CAPITULO IV. De la Limpia y Aseo Público
-
-###### ARTICULO 445.
-
-El servicio de limpia y recolección de residuos sólidos constituye un servicio público municipal, cuya prestación será realizada directamente por el H. Ayuntamiento a través de la Dirección de Limpia y Aseo Publico, o por particulares a través de concesión o convenio, las disposiciones del presente capítulo son de orden público e interés social y tiene (sic) por objeto:
-
-I.- Proponer la expedición de lineamientos y criterios en materia de generación, recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento, estaciones de transferencia y centros de confinamiento temporal y disposición final de residuos sólidos, líquidos y gaseosos que se pudieren generar;
-
-II.- Establecer los mecanismos, instrumentos y procedimientos para la prestación de los servicios de limpia y recolección, transportación, alojamiento, reuso, tratamiento, confinamiento y disposición final de residuos no peligrosos;
-
-III.- Promover y fomentar la participación corresponsable de la sociedad, tendientes a mantener la limpieza y recolección de residuos sólidos que se generen;
-
-IV.- Establecer las facultades de la autoridad municipal en materia del servicio público de limpia, generación, recolección, transporte, almacenamiento, tratamiento, reuso, estaciones de transferencia, centros de confinamiento temporal y disposición final de residuos no peligrosos; y
-
-V.- Inspeccionar, vigilar y establecer las medidas de seguridad y las sanciones administrativas que correspondan para garantizar su cumplimiento y aplicación de este Código y demás disposiciones que establezcan otros ordenamientos jurídicos en el ámbito de su competencia.
-
-###### ARTICULO 446.
-
-Son de observancia obligatoria para la aplicación del presente Código, las disposiciones y competencias que en materia de ambiente y salubridad deleguen al Ayuntamiento la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley de Protección Ambiental del Estado de Aguascalientes, Ley de Salud del Estado de Aguascalientes, el presente Código y demás normatividad vigente aplicable en la materia.
-
-###### ARTICULO 447.
-
-Para los efectos de este Capítulo se entenderá por:
-
-I. Dirección: La Dirección de Limpia y Aseo Público municipal;
-
-II. Residuo: Material o materiales en estado sólido, líquido generados en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control y tratamiento de cualquier producto cuya calidad no permita usarlo nuevamente en el proceso que lo generó; provenientes de actividades que se desarrollen en domicilios, mercados, establecimientos comerciales e industriales, vías públicas o áreas de uso común y que no se encuentre considerado como residuo peligroso dentro de la normatividad emitida por autoridad competente o enumerado en el listado de residuos peligrosos o que luego de las pruebas y análisis necesarios conforme a las disposiciones ecológicas correspondientes y la opinión de las autoridades competentes, se les catalogue como no peligroso;
-
-III. Residuo peligroso: Material o materiales en estado sólido, líquido y que se encuentra considerado como residuo peligroso dentro de la normatividad emitida por la autoridad competente o enumerado en el listado de residuos peligrosos o que luego de las pruebas y análisis necesarios conforme a las normas ecológicas correspondientes y la opinión de las autoridades competentes se le catalogue como peligroso;
-
-IV. Vías Públicas: Son las calles, avenidas, boulevares, camellones, puentes, pasos a desnivel, sin ser limitativo, las carreteras, caminos vecinales;
-
-V. Areas de Uso Común: Son los espacios tales como: parques, plazas, jardines, unidades deportivas y zonas de esparcimiento tanto urbanas como rurales;
-
-VI. Areas de Interés Común: Presas, ríos, arroyos, bordos y cañadas;
-
-VII. Medianería: En calles de la fachada a la mitad del arroyo y en avenidas y boulevares de más de dos carriles, la banqueta y el primer carril;
-
-VIII. Colindancias: Límites de la propiedad en línea imaginaria hasta la medianería;
-
-IX. Almacenamiento: Acción de retener temporalmente residuos, en tanto se procesan para su aprovechamiento, se entregan al servicio de recolección o se dispone de ellos;
-
-X. Barrido manual: Recolección de desechos sólidos dispersos en vía pública, áreas de uso común y medianerías en el interior del municipio que realiza manualmente el personal de la Dirección;
-
-XI. Barrido mecánico: Recolección de desechos sólidos dispersos en vía pública, áreas de uso común, áreas de interés común y medianerías en el interior del municipio por medio de cualquier tipo de máquina barredora;
-
-XII. Camión recolector: Vehículo adaptado para la recolección y transporte de desechos sólidos depositados en los contenedores;
-
-XIII. Contenedor: Caja o cilindro móvil de variada capacidad, que se usa para el depósito y transportación de residuos sólidos exclusivamente;
-
-XIV. Disposición final: Acción de depositar confinar los residuos en sitios y condiciones adecuadas para evitar daños al ambiente;
-
-XV. Estación de transferencia: Se refiere al Centro de Compactación y Transferencia de Residuos Sólidos Municipales, que es una escala técnica en el proceso de recolección de residuos sólidos en la que éstos pasan de los camiones recolectores, contenedores de mayor capacidad hasta el lugar autorizado para su confinamiento final;
-
-XVI. Quema: Combustión no controlada de cualquier sustancia o materia;
-
-XVII. Reciclaje: Método de tratamiento preferentemente industrial, que consiste en la transformación de los residuos en nuevos objetos o materiales con fines productivos;
-
-XVIII. Relleno sanitario: se refiere al Relleno Sanitario de San Nicolás de Arriba, único lugar autorizado por el municipio para el confinamiento o disposición final de residuos sólidos;
-
-XIX. Reuso: acción de aprovechar un residuo sin un proceso previo de transformación;
-
-XX. Ruta: Trazo rectilíneo en un plano de vialidades o mapa que seguirán los camiones recolectores para captar los desechos depositados en los contenedores; y
-
-XXI. Separación de basura: Clasificación de desechos sólidos de acuerdo a distintas variables, como son: por nivel de degradación en degradable, no degradable o biodegradable, por el tipo de materia prima que integra el desecho, o por su susceptibilidad a la descomposición en orgánico e inorgánico.
-
-###### ARTICULO 448.
-
-El H. Ayuntamiento se reserva el derecho de fijar las tarifas para el cobro de todos o parte de los servicios que preste en la materia.
-
-###### ARTICULO 449.
-
-Deberán de sufragar los costos de recolección, transportación y confinamiento de sus residuos sólidos en los lugares que determine la Dirección, los establecimientos comerciales, industriales de servicio o similares.
-
-En caso de que los establecimientos señalados, opten por contratar con la Dirección la prestación de los servicios, deberán cubrir las tarifas que al efecto establezca el H. Ayuntamiento por conducto de la Secretaría de Finanzas Públicas Municipales.
-
-###### ARTICULO 450.
-
-Son propiedad del Municipio, los residuos sólidos recolectados directamente por la Dirección o por particulares a través de concesión o convenio, quienes podrán aprovecharlos comercial o industrialmente, en forma directa o indirecta; cuando el servicio de recolección sea concesionado, en el contrato correspondiente se determinará el uso y el beneficio del aprovechamiento de los residuos sólidos recolectados.
-
-###### ARTICULO 451.
-
-La Dirección podrá contratar todo o parte del servicio de recolección, transportación y confinamiento de residuos con particulares.
-
-###### ARTICULO 452.
-
-La Dirección prestará el servicio de limpia con las modalidades que considere adecuadas.
-
-###### ARTICULO 453.
-
-La Dirección deberá promover ante la ciudadanía una nueva cultura con relación a la separación de los residuos sólidos, desde el lugar de origen de los mismos, adoptando las medidas y estrategias necesarias para propiciar la formación, concientización y fortalecimiento de nuevos valores y actividades en relación con el entorno, utilizando para ello en lo posible los medios de comunicación masiva.
-
-###### ARTICULO 454.
-
-El Ayuntamiento instrumentará las acciones necesarias para la instalación y operación de plantas procesadoras de residuos sólidos no peligrosos observando lo dispuesto en los ordenamientos jurídicos y Normas Oficiales Mexicanas.
-
-###### ARTICULO 455.
-
-Cuando el manejo de residuos no peligrosos genere impactos negativos al suelo independientemente de las sanciones penales o administrativas que procedan, los responsables estarán obligados a:
-
-I. Llevar a cabo las acciones necesarias para recuperar y restablecer las condiciones del suelo con el propósito de que éste pueda ser destinado a alguna de las actividades previstas en el programa de desarrollo urbano o de ordenamiento ecológico que resulte aplicable para el predio o zona respectiva; y
-
-II. En caso de que la recuperación y restablecimiento no sean factibles, deberá reparar los daños causados.
-
-Son responsables solidarios por los daños que se produzcan tanto el generador como las empresas que presten los servicios para el manejo de los residuos no peligrosos.
-
-###### ARTICULO 456.
-
-Para la prestación del servicio, la Dirección de Limpia y Aseo Público tendrá las siguientes funciones:
-
-I. El servicio de limpia y recolección de desechos sólidos domésticos, dentro del Municipio de Aguascalientes;
-
-II. Establecer a los particulares los horarios, días, lugares y condiciones en los que podrá depositar los residuos sólidos;
-
-III. Verificar e inspeccionar el diseño y buen funcionamiento de los sitios de tratamiento y disposición final;
-
-IV. Establecer horarios de servicio y operación de los rellenos sanitarios;
-
-V. Diseñar programas y campañas de limpieza a realizarse dentro del Municipio;
-
-VI. Coordinar con autoridades estatales y federales las medidas sanitarias y programas para el mejoramiento ambiental, que deben de operar los sitios de tratamiento y disposición finales de residuos domésticos;
-
-VII. Autorizar el diseño, resistencia y características de los contenedores para el depósito de residuos domésticos;
-
-VIII. Realizar inspecciones periódicas a los establecimientos que generen residuos peligrosos;
-
-IX. Denunciar ante las autoridades federales, a las empresas o establecimientos que generen residuos peligrosos y no cumplan con las disposiciones normativas aplicables;
-
-X. Exigir a los establecimientos comerciales industriales y de servicios, hospitales, mercados y demás establecimientos que por disposición legal lo requieran, la adquisición o construcción de depósitos apropiados y especiales para el almacenamiento temporal de residuos sólidos no peligrosos;
-
-XI. Promover una nueva cultura con relación a la separación de los residuos sólidos, y cuando fuere necesario, obligar a las personas físicas o morales, la clasificación de desechos sólidos que generen, en orgánicos, inorgánicos y confinables, para su aprovechamiento;
-
-XII. Realizar campañas de concientización y promoción del manejo adecuado de la basura y de mantener limpia la ciudad; y
-
-XIII. Las demás que le sean encomendadas por el H. Ayuntamiento.
-
-###### ARTICULO 457.
-
-El servicio de limpia y recolección de residuos sólidos domésticos comprende:
-
-I. Barrido de vía pública, áreas de uso común, áreas de interés común y medianerías en el interior del municipio;
-
-II. Recolección de residuos sólidos domésticos depositados en los contenedores colocados en la vía pública, en los días y horas que fije la Dirección.
-
-La Dirección a petición de la ciudadanía podrá recolectar de acuerdo a su capacidad en el domicilio del solicitante, todo tipo de muebles domésticos y animales muertos para su disposición final en el confinamiento autorizado;
-
-III. Diseño, instrumentación y operación de sistemas de almacenamiento, transporte, reuso, tratamiento de los residuos sólidos a los sitios fijados por el H. Ayuntamiento para su disposición final;
-
-IV. El barrido de avenidas, boulevares y áreas de uso común, se realizará conforme a los horarios y métodos que señale la Dirección; asimismo el barrido en avenidas y boulevares, se hará exclusivamente en los carriles anexos al camellón; y
-
-V. Las actividades de selección de subproductos en el lugar de confinamiento, sólo podrán hacerlo las personas, empresas u organizaciones que para el efecto sean concesionadas por el H. Ayuntamiento o autorizadas por la Dirección, quien tendrá a su cargo la supervisión correspondiente.
-
-###### ARTICULO 458.
-
-Son obligaciones de los particulares la recolección y aseo de los lugares y vías comunes, así como su transporte al sitio autorizado en los siguientes casos:
-
-I. En los fraccionamientos mientras no sean municipalizados;
-
-II. En los condominios habitacionales, comerciales, industriales o de servicio;
-
-III. Las industrias, comercios u oficinas de prestadores de servicios; y
-
-IV. Los organismos públicos descentralizados de la administración pública federal y estatal.
-
-En relación a las fracciones de la II a la IV, se observará en lo conducente las siguientes obligaciones:
-
-a) Aseo inmediato y en su caso lavado de la vía pública si con motivo de la carga o descarga, de la venta o consumo inmediato de sus productos, llegaran a ensuciarla;
-
-b) Barrer diariamente el frente de sus establecimientos hasta las medianerías de sus colindancias;
-
-c) Disponer de recipientes adecuados en capacidad y ubicación para el depósito temporal de residuos generados;
-
-d) Contar con la aprobación de la Secretaría de Servicios Públicos y Ecología, para la implementación de los métodos de almacenamiento, recolección, transportación, tratamiento y confinamiento de residuos peligrosos o potencialmente peligrosos; y
-
-e) Sujetarse a los lineamientos y especificaciones contenidas en el presente Código y demás disposiciones relativas y aplicables en materia de depósito, transportación y confinamiento de desechos.
-
-###### ARTICULO 459.
-
-Cualquier persona ubicada en la hipótesis del artículo anterior, podrá celebrar convenio con el H. Ayuntamiento para que éste se encargue de la prestación de los servicios de recolección, manejo y disposición final de residuos sólidos, previo pago de derechos que determine la Ley de Ingresos Municipal.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 ###### ARTICULO 460.
 
@@ -4947,7 +3137,7 @@ IV. Cuando la Dirección considere que ha incurrido en el incumplimiento de las 
 
 La Secretaría de Servicios Públicos y Ecología a través de la Dirección, sancionará en los términos de este Código, a quienes resulten responsables de las infracciones cometidas a las presentes disposiciones; la imposición y cumplimiento de las sanciones, no eximirá al infractor de la obligación de corregir las irregularidades que hayan dado motivo a la sanción; sin perjuicio de las penas que impongan las autoridades competentes, cuando aquellas sean constitutivas de delitos.
 
-### CAPITULO V. De los Mercados y las Actividades Comerciales
+### CAPÍTULO IV. PERICIAL
 
 ###### ARTICULO 484.
 
@@ -5121,7 +3311,7 @@ XII. Venta de artículos prohibidos por la Ley; y
 
 XIII. Expender bebidas embriagantes. No se considerarán para los efectos de esta disposición como bebidas embriagantes ni el aguamiel, jerez y rompope que se utilice para preparar bebidas típicas, atendiendo los usos y la costumbre.
 
-### CAPITULO VI. De los Panteones
+### CAPÍTULO V. TESTIMONIAL
 
 ###### ARTICULO 497.
 
@@ -5327,7 +3517,7 @@ Los gastos que originen las inhumaciones, exhumaciones, conservación y traslado
 
 Se aplicarán las sanciones que previene este Código, a las personas que infrinjan cualquiera de las obligaciones que impone este capítulo, independientemente de lo dispuesto en el Código Penal, en caso de tratarse de delito.
 
-### CAPITULO VII. De los Parques y Jardines
+### CAPÍTULO VI. LOS CAREOS
 
 ###### ARTICULO 528.
 
@@ -5431,11 +3621,7 @@ II. Fomentar la participación de los vecinos en el cuidado y creación de área
 
 III. Informar a las autoridades municipales, o en su caso a las estatales y/o federales sobre cualquier uso inadecuado o daño a las áreas verdes. Proporcionando los datos de las personas, vehículos o cualquier otro agente que atente contra dichas áreas verdes.
 
-### CAPITULO VIII. De la Seguridad Pública y Tránsito
-
-APARTADO PRIMERO
-
-Disposiciones Generales
+### CAPÍTULO VII. LA DOCUMENTAL
 
 ###### ARTICULO 544.
 
@@ -5785,7 +3971,7 @@ Para tal efecto la autoridad municipal, destinará los fondos suficientes que qu
 
 En cumplimiento a lo establecido en el artículo anterior, se institucionaliza el Sistema de Carrera Policíaca, que tiene como objetivo profesionalizar la formación de los elementos que componen los Cuerpos de Seguridad Pública.
 
-#### SECCION PRIMERA. Programa de Formación Policíaca
+#### SECCIÓN PRIMERA. INCIDENTES DE LIBERTAD
 
 ###### ARTICULO 575.
 
@@ -5809,7 +3995,7 @@ Los elementos que conforman los Cuerpos de Seguridad Pública, tienen como oblig
 
 Es obligación de la Subdirección Administrativa encargarse de elaborar, poner en práctica y evaluar el programa de formación policíaca. Los colaboradores de dicha área serán designados por el Director General, pudiendo participar las instituciones académicas de nivel medio o superior, nacional o extranjeras que se interesen en dicho programa, previa convocatoria de esa Subdirección.
 
-#### SECCION SEGUNDA. Sistema de Carrera Policíaca
+#### SECCIÓN SEGUNDA. INCIDENTES DIVERSOS
 
 ###### ARTICULO 578.
 
@@ -6351,11 +4537,7 @@ Sólo podrá sesionar con la presencia del Presidente, del Secretario y un míni
 
 Las facultades de la Comisión de Honor y Justicia se ejercerán sin perjuicio de las que correspondan al Presidente Municipal, al Secretario del H. Ayuntamiento, al Director General de Seguridad Pública y Tránsito y al Contralor Municipal.
 
-### CAPITULO IX. De las Faltas de Policía
-
-APARTADO PRIMERO
-
-Reglas Generales
+### CAPÍTULO VIII. RECONOCIMIENTO O CONFRONTACIÓN
 
 ###### ARTICULO 622.
 
@@ -6621,11 +4803,7 @@ De la Prescripción
 
 La acción para imponer las sanciones por las faltas señaladas en este capítulo, prescribirán en seis meses, que se contarán a partir del día en que se cometa la falta.
 
-### CAPITULO X. El Departamento de Bomberos
-
-APARTADO PRIMERO
-
-De su Objeto y Funcionamiento
+### CAPÍTULO IX. PRESUNCIONAL O CIRCUNSTANCIAL
 
 ###### ARTICULO 647.
 
@@ -6871,11 +5049,7 @@ V. La insignia del bombero será el escudo del Departamento de Bomberos en la go
 
 En todo lo relativo a derechos y obligaciones de los elementos del Departamento de Bomberos, correctivos disciplinarios, régimen disciplinario y causas de destitución de los elementos; serán aplicables los artículos relativos del capítulo de Seguridad Pública y Tránsito.
 
-### CAPITULO XI. Del Departamento de Emergencia 080
-
-APARTADO PRIMERO
-
-Disposiciones Generales
+### CAPÍTULO X. VALOR JURÍDICO DE LA PRUEBA
 
 ###### ARTICULO 667.
 
@@ -6997,11 +5171,7 @@ Las obligaciones de los elementos con mando, además de las marcadas en el artí
 
 Son faltas graves, por las que podrán ser destituidos los elementos del Servicio de Emergencia 080 las señaladas en el artículo 604 y 605 del presente ordenamiento.
 
-### CAPITULO XII. De la Pensión Municipal
-
-APARTADO PRIMERO
-
-Disposiciones Generales
+### CAPÍTULO I. PROCEDIMIENTO SUMARIO
 
 ###### ARTICULO 680.
 
@@ -7275,9 +5445,9 @@ IV. Con el producto del remate, la autoridad municipal procederá a cubrir el mo
 
 # LIBRO CUARTO. DE LA PROTECCION CIVIL
 
-## TITULO PRIMERO. DE LA SEGURIDAD CIVIL, PREVENCION Y CONTROL DE LOS INCENDIOS Y SINIESTROS
+## TÍTULO CUARTO. INSTRUCCIÓN
 
-### CAPITULO I. Disposiciones Generales
+### CAPÍTULO II. PROCEDIMIENTO ORDINARIO
 
 ###### ARTICULO 728.
 
@@ -7291,7 +5461,7 @@ Las disposiciones presentes tenderán a garantizar la Seguridad Pública y la in
 
 Las disposiciones del presente libro tendrán aplicación a cualquier tipo de construcción, edificación o instalación de carácter público o privado y a las personas físicas o morales, que se encuentren establecidas o estén en tránsito en la circunscripción del Municipio de Aguascalientes.
 
-### CAPITULO II. De las Autoridades Competentes
+### CAPÍTULO I. CONCLUSIONES
 
 ###### ARTICULO 731.
 
@@ -7319,7 +5489,7 @@ La Unidad Municipal de Protección Civil, en coordinación con el Departamento d
 
 De forma coordinada los Jefes de la Unidad Municipal de Protección Civil y del Departamento de Bomberos, en apoyo del presente ordenamiento, quedan facultados para la elaboración de los manuales técnicos para su eficaz operación y acorde a las Normas Oficiales Mexicanas (NOM) en vigor, así como las Normas Mexicanas, debiendo someter al H. Ayuntamiento las tablas técnicas actualizadas que contribuyan de cualquier naturaleza.
 
-### CAPITULO III. De las Atribuciones y Obligaciones de la Unidad Municipal de Protección Civil y del Departamento de Bomberos
+### CAPÍTULO II. PROCEDIMIENTO ANTE LOS JUECES
 
 ###### ARTICULO 734.
 
@@ -7341,7 +5511,7 @@ La Unidad Municipal de Protección Civil y el Departamento de Bomberos expedirá
 
 La Unidad Municipal de Protección Civil y el Departamento de Bomberos podrá sancionar en forma administrativa a los infractores del presente ordenamiento en la forma y término que en el mismo se prevén.
 
-### CAPITULO IV. De las Obligaciones de los Propietarios, Posesionarios y Administradores de los Inmuebles
+### CAPÍTULO III. SENTENCIA
 
 ###### ARTICULO 739.
 
@@ -7361,7 +5531,7 @@ Es responsabilidad del propietario, posesionario, administrador, usuario, arrend
 
 La Unidad Municipal de Protección Civil, así como el Departamento de Bomberos, podrán practicar visitas de inspección a fin de verificar que se cumplan las disposiciones preventivas previstas en el presente Código y la Norma Oficial Mexicana correspondientes, debiendo realizarlas con las formalidades exigidas en el mismo código.
 
-### CAPITULO V. De las Conductas que Contravienen la Seguridad Civil y los Sistemas para la Prevención de Incendios y Percances Similares
+### CAPÍTULO IV. ACLARACIÓN DE SENTENCIA
 
 ###### ARTICULO 742.
 
@@ -7381,7 +5551,7 @@ VI. Almacenar sustancias inflamables, peligrosas, contaminantes o de fácil comb
 
 VII. Las previstas en las fracciones II, IV y IX del artículo 627, del presente Código.
 
-### CAPITULO VI. De las Normas Preventivas en Edificaciones para Casa Habitación
+### CAPÍTULO V. SENTENCIA IRREVOCABLE
 
 ###### ARTICULO 743.
 
@@ -7391,7 +5561,7 @@ Se consideran edificaciones CASA-HABITACION, tanto los hogares, habitaciones uni
 
 Cualquier tipo de edificio de habitación multifamiliar de cualquier tipo de estructura, deberá reunir las condiciones de seguridad para sus ocupantes que establecen el Código Urbano del Estado y el Libro Sexto del presente Código, tales como los sistemas de seguridad contra incendios por medio de los cuales se garantice la protección y seguridad de sus ocupantes.
 
-## TITULO SEGUNDO. DEL SISTEMA MUNICIPAL DE PROTECCION CIVIL
+## TÍTULO QUINTO. DISPOSICIONES COMUNES A LA INVESTIGACIÓN MINISTERIAL Y A LA INSTRUCCIÓN
 
 ###### ARTICULO 745.
 
@@ -7555,7 +5725,7 @@ V. Hacer cumplir el presente capítulo en las verificaciones, supervisiones y ce
 
 VI. Estudiar y someter a consideración del Consejo Municipal, planes y proyectos para la protección de personas, instalaciones y bienes de interés general, para garantizar el normal funcionamiento de los servicios esenciales para la comunidad en caso de graves contingencias.
 
-### CAPITULO I. Del Comité Municipal y de la Declaración de Emergencia
+### CAPÍTULO ÚNICO
 
 ###### ARTICULO 754.
 
@@ -7593,7 +5763,7 @@ En caso de incidencias que requieran la participación del Estado en el Municipi
 
 Para el caso de que la gravedad del siniestro rebase las capacidades de respuesta del Consejo Municipal de Protección Civil y de las Dependencias Estatales, el Presidente del Consejo hará del conocimiento de la Zona Militar los acontecimientos solicitando su intervención, quedando desde este momento el mando de las acciones a cargo de la misma.
 
-### CAPITULO II. De los Organismos Auxiliares de Protección Civil
+### CAPÍTULO I. REGLAS GENERALES
 
 ###### ARTICULO 759.
 
@@ -7617,7 +5787,7 @@ El Consejo Municipal de Protección Civil, procurará que en la integración de 
 
 Estos Organismos auxiliares podrán coadyuvar en el cumplimiento eficaz en los planes y programas Municipales de Protección Civil aprobados y promover la participación y colaboración de los habitantes del municipio en todos los aspectos de beneficio social.
 
-### CAPITULO III. De los Programas de Protección Civil
+### CAPÍTULO II. REVOCACIÓN
 
 ###### ARTICULO 763.
 
@@ -7691,7 +5861,7 @@ Los programas específicos precisarán las acciones de Protección a cargo de la
 
 Los programas previstos tendrán la vigencia que se determine en cada caso, cuando no se establezca un término, el programa se mantendrá en vigor, hasta que sea modificado, sustituido o cancelado.
 
-### CAPITULO IV. De la Coordinación
+### CAPÍTULO III. APELACIÓN
 
 ###### ARTICULO 772.
 
@@ -7709,7 +5879,7 @@ IV. Los medios de comunicación entre los órganos operativos, para coordinar ac
 
 Con el propósito de lograr una adecuada coordinación entre los Sistemas Nacional, Estatal y Municipal de Protección Civil, el Secretario General del Consejo Municipal informará periódicamente a la Secretaría de Gobernación y al Estado, por conducto de la Unidad Municipal de Protección Civil, sobre el estado que guarda el Municipio de Aguascalientes en su conjunto, en relación con pronósticos de riesgos para la fundación y acciones específicas de prevención.
 
-### CAPITULO V. De la Educación y Capacitación
+### CAPÍTULO IV. DENEGADA APELACIÓN
 
 ###### ARTICULO 774.
 
@@ -7717,7 +5887,7 @@ El Consejo Municipal está obligado a realizar campañas permanentes de capacita
 
 De acuerdo a las condiciones de alto riesgo que se presenten en la localidad se realizarán simulacros para capacitar operativamente a los educandos, apropiados a los diferentes niveles escolares a que se hace mención en el párrafo anterior.
 
-### CAPITULO VI. De las Inspecciones
+### CAPÍTULO V. INCONFORMIDAD
 
 ###### ARTICULO 775.
 
@@ -7727,7 +5897,7 @@ El Gobierno Municipal a través de sus Dependencias correspondientes ejercerá l
 
 Las inspecciones se sujetarán a las formalidades prescritas en el presente Código.
 
-### CAPITULO VII. De la Capacitación y Adiestramiento
+### CAPÍTULO VI. QUEJA
 
 ###### ARTICULO 777.
 
@@ -7739,7 +5909,7 @@ Asimismo será competencia de la Unidad de Protección Civil avalar y acreditar 
 
 Las Capacitaciones, Cursos o Adiestramiento tendrán un costo en relación con los elementos a emplear dentro de la temática a tratar, por lo que estos se podrán pagar al Municipio en especie vía donación, a los Departamentos para la recuperación inmediata de los materiales, de artículos o materiales didácticos a emplear para la superación del nivel.
 
-### CAPITULO VIII. De los Grupos de Emergencia y su Estructuración
+### CAPÍTULO VII. RECLAMACIÓN
 
 ###### ARTICULO 779.
 
@@ -7763,7 +5933,7 @@ Los diversos grupos de emergencia registrados y reconocidos por la Unidad Munici
 
 La Unidad Municipal de Protección Civil otorgarán identificación a los elementos de los grupos de emergencia que a su consideración y por reporte de actividades que realiza, se estime otorgar.
 
-### CAPITULO IX. De los Sistemas de Apoyo
+### CAPÍTULO I. LIBERTAD PROVISIONAL BAJO CAUCIÓN
 
 ###### ARTICULO 784.
 
@@ -7777,7 +5947,7 @@ El Rango de Acción de los diferentes Cuerpos o Grupos de Seguridad, Rescate o E
 
 Los Grupos de Emergencia establecidos en el territorio Municipal, habrán de prestar sus servicios en beneficio de la comunidad, cada vez que sean requeridos de los mismos.
 
-### CAPITULO X. Del Patronato para el Auxilio a Damnificados, Bomberos y Protección Civil
+### CAPÍTULO II. LIBERTAD PROVISIONAL BAJO PROTESTA
 
 ###### ARTICULO 787.
 
@@ -7803,7 +5973,7 @@ Ayudará también a los ciudadanos que por un siniestro se encuentren desprovist
 
 # LIBRO QUINTO. DEL AMBIENTE Y LOS RECURSOS NATURALES
 
-## TITULO UNICO. DE LA PROTECCION AMBIENTAL
+## TÍTULO SEXTO. DE LAS PRUEBAS
 
 ###### ARTICULO 791.
 
@@ -7923,7 +6093,7 @@ XXIV. Promover el consumo eficiente de energéticos en zonas aisladas y remotas;
 
 XXV. Las demás que otorgue el presente Código y las leyes de la materia.
 
-### CAPITULO I. Del Impacto Ambiental
+### CAPÍTULO III. LIBERTAD POR DESVANECIMIENTO DE DATOS
 
 ###### ARTICULO 796.
 
@@ -7943,7 +6113,7 @@ II. El H. Ayuntamiento a través de la Secretaría de Desarrollo Urbano, deberá
 
 III. Integrar el desarrollo y el crecimiento de las comunidades rurales del municipio al entorno en el que se ubican, aplicando la infraestructura más adecuada a sus características y niveles de desarrollo, aprovechando al máximo los recursos económicos, humanos y naturales, evitando un desfasamiento entre las necesidades y peticiones de los habitantes con el tipo de obras proyectadas.
 
-### CAPITULO II. De las Areas Naturales Protegidas
+### CAPÍTULO IV. RECONOCIMIENTO DE INOCENCIA DEL SENTENCIADO
 
 ###### ARTICULO 798.
 
@@ -7977,7 +6147,7 @@ Dichos estudios deberán ser realizados por la Dirección de Ecología y Salud p
 
 Una vez integrados debidamente los estudios a que se refiere el párrafo anterior y habiendo concertado con los habitantes y propietarios de las áreas que abarcará la declaratoria, la Secretaría de Servicios Públicos y Ecología en coordinación con la Comisión de Cabildo de la Materia presentará la iniciativa al cabildo del H. Ayuntamiento para su revisión y aprobación. En caso de ser aprobada por el Cabildo, el Ayuntamiento presentará la iniciativa al Ejecutivo del Estado para su análisis, gestión y aprobación.
 
-### CAPITULO III. De la Prevención y Control de la Contaminación
+### CAPÍTULO I. SUBSTANCIACIÓN DE LAS COMPETENCIAS
 
 ###### ARTICULO 803.
 
@@ -8255,7 +6425,7 @@ La realización de espectáculos públicos y actividades culturales y/o religios
 
 Para obtener la autorización anterior deben presentar solicitud por escrito ante dicha Dirección la cual evaluará a través de un informe preventivo al impacto ambiental y/o molestias que dicho espectáculo público o actividad cultural y/o religiosa pública generara y en base a dicha evaluación dictará las condicionantes a la que se sujetará la realización de las actividades señaladas.
 
-### CAPITULO IV. De los Recursos Naturales
+### CAPÍTULO II. IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
 
 ###### ARTICULO 829.
 
@@ -8271,7 +6441,7 @@ IV. Denunciar ante la Procuraduría Federal de Protección al Ambiente, el Insti
 
 V. Apoyar a la Secretaría de Medio Ambiente y Recursos Naturales en la elaboración y/o actualización del inventario de las especies de flora y fauna silvestre y acuática existente en el municipio.
 
-### CAPITULO V. De la Educación Ambiental
+### CAPÍTULO III. SUSPENSIÓN DEL PROCEDIMIENTO
 
 ###### ARTICULO 830.
 
@@ -8291,7 +6461,7 @@ V. Promover la creación de una cultura orientada al empleo racional de los recu
 
 La Secretaría de Servicios Públicos y Ecología, elaborará el programa Municipal de Educación Ambiental el cual, una vez aprobado por el Comité Municipal de Ecología y Gestión Ambiental y el H. Ayuntamiento funcionará como una guía de las acciones y actividades que en materia de educación ambiental se deban de realizar en el Municipio de Aguascalientes.
 
-### CAPITULO VI. De la Participación Social y la Coordinación Gubernamental
+### CAPÍTULO IV. ACUMULACIÓN DE PROCESOS
 
 ###### ARTICULO 832.
 
@@ -8325,7 +6495,7 @@ II. Subcomité de Educación Ambiental; y
 
 III. Subcomité de Reforestación y Areas Verdes.
 
-### CAPITULO VII. De la Denuncia Popular
+### CAPÍTULO V. SEPARACIÓN DE PROCESOS
 
 ###### ARTICULO 834.
 
@@ -8377,7 +6547,7 @@ VII. Por desaparecer o extinguirse los actos, hechos u omisiones materia de la d
 
 # LIBRO SEXTO. DE LAS CONSTRUCCIONES EN EL MUNICIPIO DE AGUASCALIENTES
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+## TÍTULO SÉPTIMO. PROCEDIMIENTOS
 
 ###### ARTICULO 839.
 
@@ -8459,9 +6629,9 @@ No deberán usarse los edificios o predios de manera que resulte violatorio de l
 
 El ejecutar o autorizar alguna obra dentro del Municipio sin sujetarse a los preceptos de este Libro, es proceder ilegalmente y motivará las sanciones que para el efecto indique el Título correspondiente.
 
-## TITULO SEGUNDO. DE LA VIA PUBLICA
+## TÍTULO OCTAVO. JUICIO
 
-### CAPITULO I. Disposiciones Generales
+### CAPÍTULO VI. REPARACIÓN DEL DAÑO EXIGIBLE A PERSONA DISTINTA DEL INCULPADO
 
 ###### ARTICULO 843.
 
@@ -8633,7 +6803,7 @@ La Secretaría determinará las zonas de protección a lo largo de los servicios
 
 La reparación de los daños que se ocasionen en esas zonas, correrán a cargo de la persona física o moral a quien se le otorgue la autorización.
 
-### CAPITULO II. De las Obras de Urbanización
+### CAPÍTULO VII. INCIDENTES NO ESPECIFICADOS
 
 ###### ARTICULO 857.
 
@@ -8673,9 +6843,9 @@ Condiciones de autorización.
 
 La documentación necesaria y requisitos para la autorización de la licencia de construcción de obra de urbanización se encuentra detallada en el Título Noveno de este Libro y como se indica, el proyecto correspondiente deberá cumplir con las condiciones, especificaciones y normas técnicas vigentes que se indiquen por parte de cada una de las instancias y/o dependencias correspondientes.
 
-## TITULO TERCERO. DE LOS PERITOS Y DE LAS LICENCIAS DE CONSTRUCCION
+## TÍTULO NOVENO. SOBRESEIMIENTO
 
-### CAPITULO I. De los Peritos
+### CAPÍTULO VIII. PROCEDIMIENTOS EN LOS CASOS DE INIMPUTABLES, ENFERMOS MENTALES Y FARMACODEPENDIENTES
 
 ###### ARTICULO 860.
 
@@ -9033,7 +7203,7 @@ La Secretaría dará aviso de la suspensión al Colegio de Profesionistas respec
 
 La suspensión se dictará por un lapso de tres meses a tres años o en casos extremos, podrá ser definitiva sin liberar al perito de la obligación de subsanar las irregularidades en que haya incurrido e independientemente de las sanciones administrativas o multas que le fuesen impuestas.
 
-### CAPITULO II. De las Licencias de Construcción
+### CAPÍTULO I. REGLAS GENERALES
 
 ###### ARTICULO 871.
 
@@ -9191,7 +7361,7 @@ II. Dictamen de estabilidad estructural en viviendas ubicadas en fraccionamiento
 
 III. Para obras de beneficio social que se realicen en fraccionamientos populares y de interés social o en áreas o comunidades suburbanas en cuyos casos deberá verificarse que se trate de personas de escasos recursos.
 
-### CAPITULO III. De la Autoconstrucción
+### CAPÍTULO II. SUSPENSIÓN CONDICIONAL
 
 ###### ARTICULO 877.
 
@@ -9235,7 +7405,7 @@ Restricciones en Centro Histórico y/u Obras de Valor Histórico.
 
 En las zonas que tengan un valor artístico, histórico y/o cultural determinadas por las autoridades correspondientes, no podrán ejecutarse nuevas construcciones, obras, demoliciones o instalaciones de cualquier naturaleza sin la previa autorización de la Secretaría y el dictamen del Instituto Nacional de Antropología e Historia.
 
-### CAPITULO IV. De la Ocupación de las Construcciones
+### CAPÍTULO III. DE LA REHABILITACIÓN
 
 ###### ARTICULO 880.
 
@@ -9263,7 +7433,7 @@ IV. El Código Urbano para el Estado de Aguascalientes; y
 
 V. Cuando se demuestre que la obra cumple con este Libro y los demás ordenamientos legales respectivos, la Secretaría podrá conceder el registro de obra ejecutada al propietario, quien deberá presentar la documentación que se requiere para la regularización de la Licencia de Construcción, conforme a los instructivos de trámite que se indican en el Título Noveno de este Libro, exceptuando la presentación de la Bitácora de Obra.
 
-## TITULO CUARTO. PROYECTO ARQUITECTONICO
+## TÍTULO DÉCIMO. MEDIOS DE IMPUGNACIÓN
 
 ### CAPITULO I. Generalidades
 
@@ -11935,7 +10105,7 @@ Conservación de Monumentos.
 
 Los propietarios de monumentos y capillas, están obligados a la conservación de ellos. Si alguna de estas construcciones amenaza ruina, la administración deberá requerir al propietario para que la repare o reconstruya. En el caso de que el propietario no sea encontrado en un lapso razonable, la Administración del cementerio pedirá a la Secretaría, autorización para demoler la construcción. Esta última comprobará el estado de ruina y dará autorización para que se haga la destrucción del monumento por cuenta de la misma Administración.
 
-## TITULO QUINTO. REQUISITOS ESTRUCTURALES
+## TITULO UNDÉCIMO
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -13727,7 +11897,7 @@ En todo caso deberá comprobarse mediante exploraciones directas que el suelo do
 
 Por último, por lo que toca a las especificaciones que aparecen en las Normas sobre el diseño, construcción y pruebas de carga para cimentaciones de tipo profundo, no se descarta la posibilidad de que en un futuro se necesiten utilizar dichos sistemas en la ciudad de Aguascalientes.
 
-## TITULO SEXTO. EJECUCION DE OBRAS
+## TÍTULO DUODÉCIMO. EJECUCIÓN DE SENTENCIAS
 
 ### CAPITULO I. Generalidades
 
