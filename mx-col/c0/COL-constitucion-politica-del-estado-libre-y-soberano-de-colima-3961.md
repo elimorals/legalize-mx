@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1928-10-20"
+last_updated: "1928-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1928.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1928.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -105,13 +105,15 @@ Las funciones que competen al Poder Legislativo se ejercen por una Cámara que s
 
 De los Diputados y de la Instalacion y Funciones del Congreso.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1928)</small>
+
 ###### Artículo 22.
 
-El Congreso se compondrá de quince Diputados electos popular y directamente cada dos años. Al efecto, el Estado se dividirá en quince Distritos Electorales, correspondiendo un Diputado Propietario por cada Distrito.
+El Congreso se compondrá de siete Diputados electos popular y directamente cada dos años. Al efecto, el Estado se dividirá en siete Distritos Electorales, correspondiendo un Diputado Propietario y un suplente, por cada Distrito.
 
 ###### Artículo 23.
 
-Por cada Diputado Propietario se elegirá un Diputado Suplente.
+(DEROGADO, P.O. 10 DE NOVIEMBRE DE 1928)
 
 ###### Artículo 24.
 
@@ -161,9 +163,11 @@ En los casos previstos en el artículo anterior, deben expresarse en las convoca
 
 Cada año, al abrirse el período ordinario de sesiones del Congreso, el 16 de Septiembre, asistirá el Gobernador con el único objeto de informar suscintamente (sic) sobre el estado que guarden los negocios públicos, y el Presidente de la Asamblea, contestará en términos generales.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1928)</small>
+
 ###### Artículo 32.
 
-Las disposiciones del Poder Legislativo, no tendrán otro carácter que el de ley, decreto o acuerdo. Las leyes y decretos se comunicarán al Ejecutivo firmados por el Presidente y los Secretarios, y los acuerdos por sólo los Secretarios.
+Las disposiciones del Poder Legislativo, no tendrán otro carácter que el de Ley, Decreto o Acuerdo. Las Leyes o Decretos se comunicarán al Ejecutivo firmados por el Presidente y los Secretarios, y los Acuerdos sólo por los Secretarios. La Cámara no podrá abrir sus sesiones, ni ejercer su cargo, sin la concurrencia de cinco de sus miembros, que será el quórum legal; pero los presentes, deberán reunirse el día señalado por la Ley y compeler a los ausentes para que concurrran en el plazo de tres días siguientes, con la advertencia de que si no lo hicieren se entenderá por ese solo hecho que no aceptan el cargo llamándose desde luego a los suplentes, quienes deberán presentarse en un plazo igual y si tampoco lo hicieren, se declarará vacante el puesto y se convocará a nuevas elecciones. Cuando un Diputado falte a tres sesiones consecutivas sin aviso o sin licencia, el Congreso llamará al suplente respectivo, que funcionará por lo menos un mes, aún cuando los propietarios pretendan funcionar. La facultad de llamar a los suplentes corresponde al Congreso, pero en caso de muerte o ausencia, de un número de Diputados que incomplete el quórum, el Presidente podrá acordar sean llamados los suplentes respectivos; si por falta temporal o absoluta del Propietario, fuere llamado el suplente respectivo y éste no llegare a presentarse o faltare a su vez, estando ya en funciones, se llamará para substituirlo a cualquier suplente que el Congreso designe.
 
 ### CAPITULO III.
 
@@ -255,9 +259,11 @@ XXXVIII.- Dirimir las cuestiones que sobre límites se susciten entre los Munici
 
 De la Diputación permanente.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1928)</small>
+
 ###### Artículo 34.
 
-En los recesos del Congreso, funcionará una Diputación permanente formada de cinco Diputados que serán electos en la forma y términos que señale el reglamento interior, tres días antes de la clausura del período ordinario de sesiones. Las faltas de los miembros de la Diputación Permanente, serán cubiertas por el suplente de cada uno de ellos, y en caso de que falte el suplente respectivo será llamado el que le siga en el orden de su elección.
+En los recesos del Congreso, funcionará una Diputación Permanente formada de cinco Diputados, que serán electos en la forma y términos que señala el Reglamento Interior, tres días antes de la clausura del período ordinario de sesiones. Las faltas de los miembros de la Diputación Permanente, serán cubiertas por el Suplente de cada uno de ellos. El Presidente de esta Diputación, tendrá facultad de llamarlos, y en caso de que no llegaren a presentarse o faltaren estando ya en funciones, se llamará para substituirlos a cualquier Diputado Propietario o Suplente, que designare el propio Presidente de la Permanente, y si éste faltare, el primer Secretario, y así sucesivamente.
 
 ###### Artículo 35.
 
@@ -283,7 +289,7 @@ VII.- Ejercer las facultades del Congreso, consignadas en las fracciones V, VIII
 
 VIII.- Fijar dias extraordinarios para que se verifiquen las elecciones de Ayuntamientos foráneos, cuando por cualquier motivo no se hubieren celebrado en los que señala la ley electoral respectiva.
 
-IX.- Acordar el llamamiento de los suplentes en caso de muerte, separación o impedimento que no fuere transitorio, de los Diputados que hubieren de funcionar en las sesiones dróximas (sic).
+IX.- (DEROGADA, P.O. 10 DE NOVIEMBRE DE 1928)
 
 ### CAPITULO V.
 
@@ -337,9 +343,11 @@ El mismo derecho tendrá el Supremo Tribunal de Justicia del Estado, cuando la i
 
 Los Ayuntamientos al hacer su iniciativa, si lo juzgaren conveniente, designarán su orador para que asista sin voto a los debates, a quien se hará saber el día de la discusión, siempre que señale domicilio en la población donde residen los Supremos Poderes del Estado.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1928)</small>
+
 ###### Artículo 47.
 
-Las iniciativas de ley o decreto no se considerarán aprobadas, sino cuando hayan sido apoyadas por el voto de la mayoría de todos los miembros del Congreso. Cuando fueren objetadas por representantes del Ejecutivo, Supremo Tribunal de Justicia o Ayuntamiento, se requiere el voto de las dos terceras partes del Congreso, respecto de los puntos en que hubiere discrepancia.
+Las iniciativas de Ley o Decreto, no se considerarán aprobadas sino cuando hayan sido apoyadas por el voto de la mayoría de todos los miembros del Congreso. Cuando fueren objetadas por representantes del Ejecutivo, Supremo Tribunal de Justicia, o Ayuntamientos, se requiere el voto de cinco Diputados por lo menos.
 
 ###### Artículo 48.
 
@@ -417,7 +425,9 @@ VI.- Suspender cuando falten a sus deberes a los enpleados (sic) de su resorte y
 
 VII.- Concederles licencia con goce de sueldo o sin él, conforme a las leyes y resolver acerca de las renuncias de los demás empleados de su resorte.
 
-VIII.- Iniciar ante la Diputación Permanente la convocatoria del Congreso a período extraordinario de sesiones o a sesión extraordinaria.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1928)</small>
+
+VIII.- Iniciar ante la Diputación Permanente la convocatoria del Congreso a período extraordinario de sesiones o a sesión extraordinaria. Cuando la Permanente no existiere o no funcionare, el Ejecutivo podrá hacer dicha convocatoria.
 
 IX.- Convocar al Congreso al desempeño de sus funciones cuando por algún motivo no hubiere Diputación Permanente.
 
@@ -669,9 +679,9 @@ El Procurador General durará en su encargo dos años.
 
 La Administración Municipal se ejerce:
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1924)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1928)</small>
 
-I.- Por los Ayuntamientos que residirán en las Cabeceras de los Municipios; sus Miembros serán electos popular y directamente y durarán en el ejercicio de su cargo dos años, renovándose por mitad cada año, comenzando por los números pares. Por cada Munícipe Propietario se elegirá un Suplente, no pudiendo ser reelectos ni unos ni otros, para el período inmediato, siempre que hayan estado funcionando.
+I.- Por los Ayuntamientos, que residirán en las cabeceras de las Municipalidades; sus miembros serán electos popular y directamente y durarán en el ejercicio de su encargo dos años, y se renovarán por mitad. Por cada Munícipe propietario, se elegirá un suplente, no pudiendo ser reelectos ni uno ni otros para el período inmediato.
 
 II.- Por las Juntas Municipales que residirán en los pueblos, estarán integradas por tres miembros que serán nombrados por el Ayuntamiento respectivo y tendrán los requisitos que marca el artículo 89. Por cada miembro de la Junta Municipal se nombrará un suplente.
 
@@ -697,7 +707,9 @@ I.- Los Municipios, administrarán libremente su hacienda que se formará de las
 
 II.- La ley que organice los Municipios, su número y condiciones para la creación de nuevos, cuidará de que queden constituidos por el número de habitantes suficientes, y elementos necesarios, para que puedan subsistir con sus propios recursos.
 
-III.- Los ayuntamientos estarán integrados por nueve miembros el de la Capital y por cinco los foráneos.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1928)</small>
+
+III.- Los Ayuntamientos estarán integrados por cinco miembros.
 
 IV.- Los Ayuntamientos están obligados a rendir anualmente en el mes de septiembre, a la Legislatura, un informe circunstanciado de todos los asuntos que hayan estado a su conocimiento y acerca del estado general de la Municipalidad y a remitir por conducto del Ejecutivo su presupuesto de Egresos e Ingresos a la misma Legislatura.
 
@@ -761,7 +773,7 @@ De la Instrucción Pública.
 
 ###### Artículo 104.
 
-El Estado se dividirá para su administración Política y Judicial en ocho Municipalidades, teniendo por cabecera cada una la población que lleva su nombre y son las siguientes: Colima, Villa de Alvarez, Comala, Coquimatlán, Tecomán, Ixtlahuacán, Manzanillo y el Mamey.
+El Estado se dividirá para su administración política y judicial, en siete Municipalidades, teniendo por cabecera cada una, la población que lleva su nombre y son las siguientes: Colima, Manzanillo, Villa de Alvarez, Comala, Tecomán, Coquimatlán y Cuauhtémoc. Los que hasta la fecha han sido Municipios de Ixtlahuacán y El Mamey, quedarán incorporados respectivamente a Tecomán y Villa de Alvarez, debiendo ser administrados por Juntas Municipales que conforme a la Ley, deberán nombrar los Ayuntamientos, a los cuales se incorporan los territorios de los Municipios extintos. Estas Juntas Municipales, residirán en los pueblos de Ixtlahuacán y El Mamey, respectivamente.
 
 ###### Artículo 105.
 
@@ -772,6 +784,8 @@ Cada Municipalidad tendrá cuando menos cuatro mil habitantes; dentro de ellas, 
 Las congregaciones que tengan menos de quinientos habitantes, se considerarán agregadas, para todos los efectos políticos y judiciales, a las rancherías, pueblos o cabecera más próximos de la Municipalidad en que estén ubicados.
 
 ## TITULO IX.. DE LA DIVISION POLITICA DEL ESTADO. (SIC)
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1928)</small>
 
 ###### Artículo 107.
 
@@ -1148,6 +1162,12 @@ P.O. 20 DE OCTUBRE DE 1928.
 ###### Artículo 2o.
 
 Este Decreto comenzaá (sic) a surtir sus efectos a partir de la fecha de su publicación.
+
+P.O. 10 DE NOVIEMBRE DE 1928.
+
+###### Artículo 3o.
+
+Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación.
 
 ###### Artículo 2.
 
