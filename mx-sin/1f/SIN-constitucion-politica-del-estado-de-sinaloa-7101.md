@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1972-11-14"
+last_updated: "1972-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1972.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -247,9 +247,9 @@ II. Ser nativo del Distrito Electoral que lo elija, o avecindado en él cuando m
 
 III. Ser mayor de veinticinco años en la fecha de la elección.
 
-(REFORMADA, P.O. 7 DE ABRIL DE 1953) (F. DE E., P.O. 14 DE ABRIL DE 1953)
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
-IV. No podrá ser electo y será nula la elección que en su favor recayere: el Gobernador del Estado, el Secretario General de Gobierno del Estado, el Tesorero General del mismo, los Magistrados del Supremo Tribunal de Justicia, los Recaudadores de Rentas, Jueces de Primera Instancia y demás funcionarios que no sean de elección popular por el Distrito en que se extiendan sus respectivas jurisdicciones legales, así como los militares en servicio activo en el Ejército Nacional, o cualquiera otra persona que tenga mando en la policía o gendarmería del Estado o del Municipio en el Distrito Electoral por el cual pretenda elegirse, a menos que todos ellos se hayan separado de su cargo por renuncia del mismo cuando menos tres meses antes del día de la elección.
+IV. No podrá ser electo y será nula la elección que en su favor recayere; el Gobernador del Estado, el Secretario General de Gobierno, el Secretario de Finanzas, el Secretario del Desarrollo Económico, los Magistrados del Supremo Tribunal de Justicia, los Recaudadores de Rentas, los Jueces de Primera Instancia, y demás funcionarios que no sean de elección popular por el Distrito de su jurisdicción, así como los militares en servicio activo en el Ejército Nacional, o cualquiera persona que tenga mando en la policía del Estado o del Municipio a que corresponda el Distrito Electoral por el cual pretenda elegirse, a menos que todos ellos se hayan separado de su encargo por renuncia del mismo, cuando menos tres meses antes del día de la elección.
 
 ###### Art. 26.
 
@@ -505,11 +505,11 @@ IX. El Ejecutivo del Estado no podrá hacer observaciones a las resoluciones del
 
 (C.) En los decretos de apertura y clausura de los período (sic) extraordinarios de sesiones.
 
-(REFORMADO, P.O. 7 DE ABRIL DE 1953) (F. DE E., P.O. 14 DE ABRIL DE 1953)
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
 ###### Art. 47.
 
-Toda Ley o Decreto será promulgado bajo la firma del Presidente y Secretario del Congreso, en la siguiente forma: "El Congreso del Estado Libre y Soberano de Sinaloa, representado por su ....... (Número de orden) Legislatura, ha tenido a bien expedir la (o el) siguiente Ley....... (número o nombre oficial de la Ley o Decreto)". Seguirá el texto de la Ley o Decreto y al final, el mandato de que se publique y circule para su debida observancia, firmado por el Gobernador del Estado y Secretario General de Gobierno o por el Tesorero General del Estado en lo que respecta al Ramo de Hacienda.
+Toda Ley o decreto será promulgada bajo la firma del Presidente y Secretario del Congreso, en la siguiente forma: "El Congreso del Estado Libre y Soberano de Sinaloa, representado por su ... (número de orden) ... Legislatura, ha tenido a bien expedir (o el) siguiente Ley ... (número de nombre oficial de la Ley o Decreto)". Seguirá el texto de la Ley o Decreto y al final, el mandato de que se publique y circule para su debida observancia, firmado por el Gobernador del Estado y el Secretario del Ramo a que el asunto corresponda.
 
 ###### Art. 48.
 
@@ -589,9 +589,9 @@ III. Haber conservado su domicilio en el Estado, seis meses al menos, inmediatam
 
 IV. Haber obtenido la mayoría de sufragios legales. En caso de empate en la votación, se convocará a nuevas elecciones.
 
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1968)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
-V. No haber sido Secretario General de Gobierno del Estado, Tesorero General del mismo, miembro del Supremo Tribunal de Justicia del Estado, Juez de Primera Instancia, Recaudador de Rentas o Presidente Municipal, ni haber tenido mando de fuerzas de la Federación, del Estado o de algún Municipio dentro de los tres meses anteriores al día de la elección.
+V. No haber sido Secretario General de Gobierno, Secretario de Finanzas, Secretario del Desarrollo Económico, Magistrado del Supremo Tribunal de Justicia, Juez de Primera Instancia, Recaudador de Rentas o Presidente Municipal, ni haber tenido mando de fuerzas de la Federación, Estado o Municipios, dentro de los tres meses anteriores al día de la elección.
 
 VI. No haber sido convicto por ningún Tribunal, ni haber figurado directa o indirectamente en alguna azonada, motín a (sic) cuartelazo promovido contra las instituciones de la Nación o del Estado.
 
@@ -713,49 +713,51 @@ XXIII. Condonar adeudos fiscales a favor del Estado, únicamente por el resto de
 
 XXIV. I(sic) las demás que le confiera esta Constitución.
 
-#### SECCION I. DE LOS DEPARTAMENTOS GUBERNATIVOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
-(REFORMADO, P.O. 7 DE ABRIL DE 1953) (F. DE E., P.O. 14 DE ABRIL DE 1953)
+#### SECCION I. DEL DESPACHO DEL PODER EJECUTIVO
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
 ###### Art. 66.
 
-Para el estudio y despacho de los negocios determinados en el Artículo 65, de esta Constitución y demás que por Ley correspondan al Ejecutivo, habrá una Secretaría General de Gobierno y una Tesorería General, dependencias que funcionarán con las atribuciones que les señalen las leyes.
+Para el despacho de los negocios del orden administrativo que correspondan al Poder Ejecutivo, habrá una Secretaría General de Gobierno, una Secretaría de Finanzas y una Secretaría del Desarrollo Económico.
 
-(REFORMADO, P.O. 7 DE ABRIL DE 1953) (F. DE E., P.O. 14 DE ABRIL DE 1953)
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
 ###### Art. 67.
 
-Para ser Secretario General de Gobierno o Tesorero General del Estado se requiere: ser ciudadano sinaloense en ejercicio de sus derechos, poseer el grado de instrucción necesaria, a juicio del Gobernador del Estado, tener treinta años cumplidos y los demás requisitos que establezcan las leyes.
+Para ocupar cualesquiera de las Secretarías a que se refiere el artículo anterior, se requiere ser ciudadano sinaloense en el ejercicio de sus derechos, poseer la capacidad necesaria a juicio del Gobernador del Estado y tener 30 años cumplidos.
 
-((REFORMADO, P.O. 7 DE ABRIL DE 1953) (F. DE E., P.O. 14 DE ABRIL DE 1953)
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
 ###### Art. 68.
 
-El Secretario General de Gobierno o el Tesorero General del Estado no podrán desempeñar ningún cargo, empleo o comisión oficiales del Estado por las que reciban remuneración, salvo el caso del Ramo de Educación Pública, ni podrán litigar más que en asuntos propios.
+El Secretario General de Gobierno, el Secretario de Finanzas y el Secretario del Desarrollo Económico, no podrán desempeñar ningún otro cargo, empleo o comisión oficiales o particulares, por los que reciban remuneración, con excepción de los docentes, ni ejercer profesión alguna durante el ejercicio de sus funciones.
 
-(REFORMADO, P.O. 7 DE ABRIL DE 1953) (F. DE E., P.O. 14 DE ABRIL DE 1953)
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
 ###### Art. 69.
 
-Para ser válidos los decretos, reglamentos y acuerdos del Gobernador, deberán estar firmados por éste y por el Secretario General de Gobierno, o Tesorero General del Estado, en lo que respecta al Ramo de Hacienda o por quienes hagan sus veces conforme a la Ley.
+Para ser válidos los decretos, reglamentos y acuerdos del Gobernador, deberán estar firmados por éste y por el Secretario encargado del Ramo a que el asunto corresponda, de los que serán solidariamente responsables.
 
-(REFORMADO, P.O. 7 DE ABRIL DE 1953) (F. DE E., P.O. 14 DE ABRIL DE 1953)
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
 ###### Art. 70.
 
-El Secretario General de Gobierno y el Tesorero General serán solidariamente responsables con el Gobernador del Estado por los decretos, reglamentos, circulares o acuerdos que con él firmen.
+El Congreso podrá citar a cualesquiera de los Secretarios para que den cuenta del estado que guardan sus respectivos Ramos, así como para que informen cuando se discuta una ley o decreto o se estudie un negocio relativo a su Secretaría.
 
-(REFORMADO, P.O. 7 DE ABRIL DE 1953) (F. DE E., P.O. 14 DE ABRIL DE 1953)
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
 ###### Art. 71.
 
-El Congreso podrá citar al Secretario General de Gobierno y Tesorero General, para que informen cuando se discuta una Ley o Decreto, o se estudie un negocio relativo a su ramo.
+Las faltas temporales de los Secretarios, serán suplidas dentro de sus Ramos respectivos por los funcionarios inmediatos inferiores con las mismas responsabilidades y atribuciones de aquéllos.
 
-(REFORMADO, P.O. 7 DE ABRIL DE 1953) (F. DE E., P.O. 14 DE ABRIL DE 1953)
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
 ###### Art. 72.
 
-Cuando el Secretario General de Gobierno o el Tesorero General estimaren ilegal autorizar un acto con su firma, dirigirán por escrito al Gobernador las observaciones necesarias y si éste insistiere dichos funcionarios obrarán según su propio criterio, remitiendo al Congreso, en todo caso, la copia del expediente que sobre el asunto se forme.
+Cada Secretaría tendrá las atribuciones y dependencias que establezcan las leyes.
 
 #### SECCION II. DEL MINISTERIO PUBLICO
 
@@ -817,17 +819,15 @@ La Ley organizará la Defensoría Oficial y determinará la forma en que debe ej
 
 La Hacienda Pública del Estado estará constituída por los bienes muebles e inmuebles comprendidos en su patrimonio; por los impuestos, derechos, productos y aprovechamientos que en su favor establezcan las leyes del Estado; y por las participaciones que en impuestos Federales otorguen al Estado las Leyes Federales.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1963)</small>
+(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972).
 
 ###### Art. 81.
 
-La Dirección de la política fiscal del Estado en la esfera administrativa y la administración de la Hacienda Pública del Estado, corresponden al Gobernador quién la ejercerá por conducto de la Tesorería General.
-
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1963)</small>
+La Dirección de la política fiscal del Estado en la esfera administrativa y la administración de la Hacienda Pública del Estado, corresponden al Gobernador quién la ejercerá por conducto de la Secretaría de Finanzas.
 
 ###### Art. 82.
 
-Para el ejercicio de las atribuciones que le corresponden conforme a esta Constitución y las leyes ordinarias, la tesorería General contará con las dependencias que establezcan su Ley Orgánica.
+(DEROGADO, P.O. 12 DE DICIEMBRE DE 1972)
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 1963)</small>
 
@@ -841,11 +841,11 @@ Ningún funcionario o empleado del Estado o de los Municipios que tenga a su car
 
 No podrán contratarse empréstitos por el Estado o por los Municipios sino para la ejecución de obras que estén destinadas a producir directamente un incremento en sus respectivos ingresos y previa autorización del Congreso del Estado otorgada mediante el voto de las dos terceras partes de la totalidad de sus miembros.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1963)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
 ###### Art. 85.
 
-Ningún impuesto podrá establecerse si no se destina a los gastos públicos y ningún pago podrá hacerse por las oficinas fiscales sin estar expresamente autorizado por la Ley de Ingresos del Estado. Ningún impuesto podrá ser rematado. Ningún gasto con cargo a partidas extraordinarias será cubierto por las Oficinas Fiscales, sin orden firmada por el Gobernador y el Secretario General de Gobierno o el Tesorero General en su caso.
+Ningún impuesto podrá establecerse si no se destina a los gastos públicos y ningún pago podrá hacerse por las oficinas fiscales sin estar expresamente autorizado por la Ley de Ingresos del Estado. Ningún impuesto podrá ser rematado. Ningún gasto con cargo a partidas extraordinarias será cubierto por las Oficinas Fiscales, sin orden firmada por el Gobernador y el Secretario de Finanzas.
 
 ###### Art. 86.
 
@@ -1117,11 +1117,11 @@ III. (DEROGADA, P.O. 6 DE OCTUBRE DE 1928)
 
 IV. No tener empleo, cargo o comisión del Estado o Municipio; ni mando de fuerza pública en la Municipalidad, por lo menos tres meses antes del día de la elección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 1962)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
 ###### Art. 116 Bis.
 
-Para ser Presidente Municipal, Propietario y Suplente, respectivamente, además de los requisitos que para ser Regidor se requieren, es necesario tener lo siguiente:
+Para ser Presidente Municipal, Propietario y Suplente, respectivamente, además de los requisitos que para ser Regidor se requieren, es necesario tener lo siguientes:
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -1131,9 +1131,9 @@ I. 25 años cumplidos en la fecha de la elección.
 
 II. Haber obtenido mayoría de sufragios legales.
 
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1968)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
-III. No haber sido Secretario General de Gobierno, Tesorero General del Estado, miembro del Supremo Tribunal de Justicia del mismo, Juez de Primera Instancia, Recaudador de Rentas o Presidente Municipal, dentro de la Jurisdicción, ni haber tenido mando de fuerza de la Federación, del Estado o del Municipio dentro de los tres meses anteriores al día de la elección.
+III. No haber sido Secretario General de Gobierno, Secretario de Finanzas, Secretario del Desarrollo Económico, Magistrado del Supremo Tribunal de Justicia, Juez de Primera Instancia, Recaudador de Rentas o Presidente Municipal, dentro de la jurisdicción ni haber tenido mando de fuerza de la Federación, Estado o Municipios, dentro de los tres meses anteriores al día de la elección.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE ABRIL DE 1938)</small>
 
@@ -1289,11 +1289,11 @@ Cuando las leyes no señalen término, se entenderá el de diez días para que l
 
 En el Estado nadie podrá desempeñar a la vez dos o más cargos de elección popular. Quien en tal caso se viere, tendrá que optar por alguno. Tampoco podrán reunirse en una misma persona, dos o más empleos por lo que se disfrute sueldo, exceptuándose los de enseñanza y beneficencia pública.
 
-(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1953) (F. DE E., P.O. 14 DE ABRIL DE 1953)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
 ###### Art. 144.
 
-Los funcionarios y empleados del Estado y Municipios, antes de tomar posesión de sus cargos, otorgarán la protesta de Ley, sin el cual requisito todos sus actos serán ilegales. Las condiciones para protestar, serán las siguientes.
+Los funcionarios y empleados del Estado o Municipios, antes de tomar posesión de sus cargos, otorgarán la protesta de Ley, sin la cual todos sus actos serán ilegales. Las condiciones para protestar, serán las siguientes:
 
 I. La protesta se rinde personal y verbalmente con interpelación o sin ella.
 
@@ -1309,9 +1309,9 @@ II. La protesta se pide y se dá por interpelación entre los siguientes funcion
 
 (2).- Al Gobernador y a los Magistrados del Supremo Tribunal de Justicia del Estado, les tomará la protesta en solemne sesión pública, ordinaria o extraordinaria, el Presidente de la Cámara, o en su caso, el de la Diputación Permanente.
 
-(REFORMADO, P.O. 7 DE ABRIL DE 1953) (F. DE E., P.O. 14 DE ABRIL DE 1953)
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
-(3).- Al Secretario General de Gobierno, al Procurador General de Justicia, al Tesorero General, al Recaudador de Rentas residente en la Capital, les tomará la protesta el Gobernador del Estado, y ellos a su vez, a los demás empleados de sus dependencias que residan en la capital. En cuanto a los subalternos foráneos de las diversas secciones administrativas del Ejecutivo les tomará la protesta el Presidente Municipal de la jurisdicción en que ejerzan sus cargos.
+(3).- Al Secretario General de Gobierno, al Secretario de Finanzas, al Secretario del Desarrollo Económico, al Procurador General de Justicia y al Recaudador de Rentas con residencia en la capital del Estado, les tomará la protesta el Ciudadano Gobernador, y ellos a su vez, a los demás empleados de sus dependencias que residan en la capital. En cuanto a los subalternos foráneos de las diversas dependencias administrativas del Ejecutivo, les tomará la protesta el Presidente Municipal en cuya circunscripción territorial ejerzan sus cargos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1955)</small>
 
@@ -1878,3 +1878,21 @@ P.O. 14 DE NOVIEMBRE DE 1972.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 12 DE DICIEMBRE DE 1972.
+
+###### ARTICULO PRIMERO.
+
+Los asuntos que sean competencia de la Tesorería General del Estado y de la Dirección del Desarrollo Económico, pasarán a serlo de la Secretaría de Finanzas y de la Secretaría del Desarrollo Económico, respectivamente.
+
+###### ARTICULO SEGUNDO.
+
+En tanto se expiden las leyes orgánicas de la Secretaría de Finanzas y de la Secretaría del Desarrollo Económico, éstas se regirán por la Ley Orgánica de la Tesorería General del Estado, expedida mediante Decreto número 75 de 14 de mayo de 1963 y por la Ley que crea el Consejo Estatal del Desarrollo Económico y de la Dirección del Desarrollo Económico, expedida mediante decreto número 40 de 18 de marzo de 1969, respectivamente, en cuanto no se opongan a las presentes reformas.
+
+###### ARTICULO TERCERO.
+
+La Secretaría General de Gobierno se regirá por su Ley Orgánica, expedida mediante decreto número 55, de 22 de enero de 1963, en cuanto no se oponga a las presentes reformas.
+
+###### ARTICULO CUARTO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
