@@ -4,7 +4,7 @@ identifier: "LOINAH"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1939-02-03"
-last_updated: "1986-01-13"
+last_updated: "1998-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=408&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOINAH"
 
 LEY ORGANICA DEL INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 3 de febrero de 1939.
 
@@ -146,7 +146,9 @@ III. De acuerdo con su estructura administrativa, en las unidades que el reglame
 
 El Instituto estará a cargo de un Director General, nombrado y removido libremente por el Secretario de Educación Pública.
 
-Para ser Director General del Instituto Nacional de Antropología e Historia se requiere ser mexicano por nacimiento, mayor de 30 años de edad, con grado académico y méritos reconocidos en alguna de las materias de competencia del Instituto.
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
+Para ser Director General del Instituto Nacional de Antropología e Historia se requiere ser mexicano por nacimiento que no adquiera otra nacionalidad, estar en pleno goce y ejercicio de sus derechos civiles y políticos, mayor de 30 años de edad, con grado académico y méritos reconocidos en alguna de las materias de competencia del Instituto.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
@@ -245,3 +247,7 @@ En cumplimiento de lo dispuesto en la fracción I del artículo 89 de la Constit
 D.O.F. 13 DE ENERO DE 1986.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
