@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1969-01-08"
+last_updated: "1970-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 1970.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -119,9 +119,17 @@ II.- Por naturalización: los mexicanos vecinos del Estado que residan por más 
 
 ###### Artículo 8°.
 
-Son Ciudadanos del Estado:
+Son ciudadanos del Estado:
 
-I.- Los Guerrerenses por nacimiento mayores de dieciocho años si son casados y de veintiuno si no lo son, siempre que tengan modo honesto de vivir.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1970)</small>
+
+I.- Los Guerrerenses por nacimiento varones o mujeres que reúnan los siguientes requisitos:
+
+a).- Haber cumplido dieciocho años.
+
+b).- Tener un modo honesto de vivir.
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
 II.- Lo son también, todos los ciudadanos mexicanos naturalizados como Guerrerenses.
 
@@ -1197,7 +1205,7 @@ Esta Constitución no perderá su fuerza ni vigor, aún cuando por alguna rebeli
 
 ### CAPITULO IV. DE LOS CIUDADANOS DEL ESTADO
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 1970)</small>
 
 ### CAPITULO UNICO. DEL ESTADO, DE SU SOBERANIA Y FORMA DE GOBIERNO, Y DE LA RESIDENCIA DE SUS PODERES
 
@@ -1638,3 +1646,7 @@ P.O. 8 DE ENERO DE 1969.
 PRIMERO.- Se derogan todas las disposiciones legales que en cualquier forma se opongan a las del presente Decreto.
 
 SEGUNDO.- Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MAYO DE 1970.
+
+UNICO.- Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
