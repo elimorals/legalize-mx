@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-trabajo-de-los-servidores-publicos-del-estado-de-9276"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-06"
-last_updated: "1989-11-28"
+last_updated: "1992-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUERRERO NUMERO 248
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 6 de enero de 1989.
 
@@ -603,6 +603,10 @@ La asociación deberá organizarse en las secciones que correspondan a cada una 
 
 Cuando en alguna dependencia o entidad paraestatal no haya el número de trabajadores que la Ley exige para constituir una sección sindical, los trabajadores de dos o más dependencias del mismo municipio podrán formarla, siempre que desempeñen trabajos afines.
 
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
+
+ARTICULO 68 A.- Cuando con motivo de un Convenio o Acuerdo de Coordinación se transfiera el uso de facultades, programas y recursos del Gobierno Federal al Gobierno del Estado y éste deba asumir la titularidad patronal respecto de trabajadores transferidos, éstos seguirán formando parte de la organización sindical que corresponda, distinta a la establecida en el Artículo 68 de esta Ley, la cual quedará sometida a este ordenamiento en lo conducente.
+
 ###### ARTICULO 69.
 
 Admitido un miembro en el sindicato, no podrá dejar de formar parte de él, salvo que fuere expulsado, sin que el Estado admita en ningún caso la cláusula de exclusión.
@@ -947,6 +951,10 @@ V.- Efectuar el registro de las Condiciones Generales de Trabajo, Reglamentos de
 
 VI.- Las demás que establezcan las leyes.
 
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
+
+Cuando la más expedita y eficaz administración de justicia así lo requiera, el Tribunal de Conciliación y Arbitraje podrá crear Salas Auxiliares.
+
 ### CAPITULO TERCERO. DEL PROCEDIMIENTO
 
 ###### ARTICULO 114.
@@ -1134,3 +1142,7 @@ Rúbrica.
 P.O. 28 DE NOVIEMBRE DE 1989.
 
 UNICO.- El presente Decreto de reformas y adiciones a la Ley Orgánica de la Administración Pública entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 9 DE JUNIO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Guerrero.
