@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-judicial-del-estado-de-tabasco-7824"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-11-21"
-last_updated: "1990-11-21"
+last_updated: "1991-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 21 de noviembre de 1990.
 
@@ -249,11 +249,11 @@ El Pleno del Tribunal podrá celebrar sesiones ordinarias y extraordinarias. Las
 
 Para el funcionamiento legal del Pleno del Tribunal se requiere la concurrencia de la mayoría de sus integrantes, quienes deberán sancionar con sus votos los acuerdos tomados en las sesiones, firmando las actas correspondientes; en caso de empate tendrá voto de calidad el Presidente del Tribunal.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 17.
 
-El Tribunal Superior de Justicia realizará sus labores en dos períodos de sesiones anuales; el primero comprendido del dos de enero al dieciocho de julio y el segundo comenzará el primero de agosto y concluirá el dieciocho de diciembre.
-
-Será Secretario del Pleno, el Secretario General de Acuerdos del Tribunal y en su ausencia, el Secretario de Acuerdos de la Sala que el Pleno determine.
+El Poder Judicial realizará sus labores en dos períodos de sesiones anuales; el primero comprendido del dos de enero al quince de julio y el segundo comenzará el primero de agosto y concluirá el quince de diciembre.
 
 ### CAPITULO III. EL PRESIDENTE DEL TRIBUNAL
 
@@ -1275,9 +1275,11 @@ La renuncia de los Servidores Judiciales se presentará ante la Autoridad facult
 
 Cuando los Secretarios, Actuarios y demás personal del Poder Judicial faltaren por más de tres días a sus labores en un término de treinta días naturales, sin causa justificada, causará baja por abandono de empleo.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 130.
 
-Todo el personal del Poder Judicial con más de seis meses consecutivos de servicio, disfrutará cada año de Ejercicio Constitucional de dos períodos de vacaciones con goce de sueldo, uno del 19 al 31 de julio y otro del 19 al 31 de diciembre.
+Todo el personal del Poder Judicial con más de seis meses consecutivos de servicio, disfrutará cada año de Ejercicio Constitucional de dos períodos de vacaciones con goce de sueldo, uno del 16 al 31 de julio y otro del 16 al 31 de diciembre.
 
 ###### ARTICULO 131.
 
@@ -1542,3 +1544,9 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 LIC. FERNANDO SANCHEZ DE LA CRUZ,
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE DICIEMBRE DE 1991.
+
+UNICO: Este Decreto surte sus efectos legales a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
