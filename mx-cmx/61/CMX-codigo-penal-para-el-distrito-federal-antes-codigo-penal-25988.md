@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1945-05-12"
+last_updated: "1945-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1945.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -36,7 +36,7 @@ Que en uso de las facultades que le fueron concedidas por Decreto de 2 de enero 
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-> <small>N. DE E. POR DECRETO QUE CREA LA LEY DE PREVENCIONES GENERALES RELATIVA A LA SUSPENSION DE GARANTIAS, PUBLICADO EN EL D.O.F. EL 13 DE JUNIO DE 1942, SE ESTABLECE EN SU ARTICULO 12, LA RESTRICCIÓN DE LAS GARANTIAS DE LOS ARTICULOS 16, 19, Y 20 CONSTITUCIONAL, APLICABLE UNICAMENTE A LOS DELITOS DEL ORDEN FEDERAL COMPRENDIDOS EN EL LIBRO II, TITULOS I A VI Y TITULO IX DEL CODIGO PENAL FEDERAL, ASI COMO A LOS ENUMERADOS EN EL DECRETO DE 30 DE OCTUBRE DE 1941, PUBLICADO EL 14 DE NOVIEMBRE DE 1941, QUE REFORMO AL CODIGO.</small>
+> <small>N. DE E. POR DECRETO QUE LEVANTA LA SUSPENSION DE GARANTIAS DECRETADA EL 1o. DE JUNIO DE 1942, Y RESTABLECE EL ORDEN CONSTITUCIONAL, RATIFICANDO Y DECLARANDO VIGENTES LAS DISPOSICIONES QUE EL MISMO ESPECIFICA, PUBLICADO EN EL D.O.F. EL 28 DE DICIEMBRE DE 1945.</small>
 
 # LIBRO PRIMERO
 
@@ -1519,8 +1519,6 @@ Al que haga uso indebido del escudo, insignia o himno nacionales, se le aplicar�
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
 ## TITULO SEPTIMO. Delitos Contra la Salud
-
-> <small>N. DE E. POR DECRETO PUBLICADO EN EL D.O.F. DE 12 DE MAYO DE 1945, SE ESTABLECE QUE EN TANTO DURE LA SUSPENSION DE GARANTIAS INDIVIDUALES VIGENTE EN LA REPUBLICA SE DECLARA LEY DE EMERGENCIA EL CAPITULO 1°, TITULO 7° , LIBRO 2°, DEL CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES Y FEDERAL EN TODA LA REPUBLICA EN MATERIA DE ESTE FUERO, RELATIVO A LA TENENCIA Y TRAFICO DE ENERVANTES. EL ARTICULO SEGUNDO DEL DECRETO SEÑALA QUE LOS INDIVIDUOS QUE INFRINJAN DICHO CAPITULO, SUFRIRAN LAS PENAS QUE EL MISMO ESTABLECE, PERO SUJETOS A LO DISPUESTO POR LAS LEYES DE PREVENCIONES GENERALES RELATIVAS A LA SUSPESION DE GARANTIAS, POR LO QUE HACE A LA PRIVACION DE SU LIBERTAD.</small>
 
 > <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
@@ -3190,6 +3188,10 @@ D.O.F. 14 DE FEBRERO DE 1940.
 
 Este Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
 
+###### ARTICULO 2°.
+
+Esta ley deroga a las disposiciones legales y reglamentarias que de cualquier modo se le opongan.
+
 ###### ARTICULO UNICO.
 
 Las presentes reformas y adiciones entrarán en vigor desde el día de su publicación en el "Diario Oficial" de la Federación.
@@ -3225,6 +3227,18 @@ El presente Decreto entrará en vigor tres días después de la fecha en que se 
 D.O.F. 12 DE MAYO DE 1945.
 
 El presente Decreto surtirá sus efectos a partir de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 28 DE DICIEMBRE DE 1945.
+
+DECRETO QUE LEVANTA LA SUSPENSION DE GARANTIAS DECRETADA EL 1 DE JUNIO DE 1942.
+
+###### ARTICULO 1°.
+
+La presente ley entrará en vigor el día primero de octubre del año en curso.
+
+###### ARTICULO 3°.
+
+El Ejecutivo de la Unión dictará las disposiciones reglamentarias para la ejecución de la presente ley.
 
 ###### ARTICULO 2o.
 
