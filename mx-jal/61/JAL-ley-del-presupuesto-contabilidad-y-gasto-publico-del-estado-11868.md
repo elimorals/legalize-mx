@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2000-08-01"
+last_updated: "2001-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2001.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -777,7 +777,15 @@ CUARTO. Se abroga el decreto número 9600 que contiene la Ley de Egresos del Est
 
 QUINTO. No obstante la abrogación a que se refiere el artículo anterior, la ley de Egresos del Estado continuará vigente exclusivamente por lo que respecta a la aplicación y cumplimiento del Presupuesto del Gobierno del Estado y su Plantilla de Personal anexa para el periodo comprendido entre el 1 de enero y el 31 de diciembre de 1997, así como durante la revisión, glosa y aprobación por parte de el Congreso del Estado de la cuenta pública correspondiente a dicho período.
 
-SEXTO. La presente ley entrará en vigor a partir del día 1? (sic) de Enero de 1998, previa su publicación en el periódico oficial "El Estado de Jalisco".
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2001)</small>
+
+SEXTO. El Titular del Poder Ejecutivo deberá contemplar en la Iniciativa de Presupuesto de Egresos, el incremento de recursos económicos para la Universidad de Guadalajara por un importe de ciento veinte millones de pesos a partir del presente ejercicio fiscal y acumulable hasta el año 2006 inclusive, mismos que serán actualizados sobre la base del índice inflacionario anual oficial que publique el Banco de México.
+
+El Poder Legislativo deberá contemplar este incremento en la aprobación del Presupuesto, el cual consiste en la aportación adicional de setecientos veinte millones de pesos a la Universidad de Guadalajara, que se entregarán dentro de los siguientes seis años a partir del presente ejercicio fiscal 2001, es decir, ciento veinte millones más la actualización correspondiente cada año.
+
+De estos recursos, el veinte por ciento deberá ser destinado para infraestructura educativa, en las áreas que la propia Universidad de Guadalajara defina.
+
+SÉPTIMO. La presente ley entrará en vigor a partir del día 1? (sic) de Enero de 1998, previa su publicación en el periódico oficial "El Estado de Jalisco".
 
 Salón de Sesiones del Congreso del Estado
 
@@ -828,3 +836,7 @@ P.O. 1 DE AGOSTO DE 2000.
 PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 Ayuntamientos del Estado, con el diario de debates, en el que conste las discusiones que hubiere provocado, para que con fundamento en lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda en lo relativo a la adición de la fracción VIII del artículo 15 de la misma Constitución.
 
 SEGUNDO.- El presente Decreto entrará en vigor 60 días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 16 DE ENERO DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
