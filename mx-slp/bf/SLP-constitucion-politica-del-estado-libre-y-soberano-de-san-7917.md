@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1950-12-24"
+last_updated: "1953-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1950.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 1953.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -173,11 +173,11 @@ De la Hacienda del Estado.
 
 ### CAPITULO TERCERO. De los ciudadanos potosinos
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 1953)</small>
 
-ART. 9º.- Son ciudadanos del Estado, los que, teniendo la calidad de potosinos, reúnan, además, los siguientes requisitos:
+ART. 9°.- Son ciudadanos del Estado los varones y las mujeres que, teniendo la calidad de potosinos, reúnan, además los siguientes requisitos:
 
-I.- Haber cumplido dieciocho años, siendo casados y veintiuno si no lo son, y
+I.- Haber cumplido 18 años, siendo casados, o 21 si no lo son; y
 
 II.- Tener un modo honesto de vivir.
 
@@ -1152,3 +1152,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 24 DE DICIEMBRE DE 1950.
 
 UNICO.- Estas reformas entrarán en vigor después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE AGOSTO DE 1953.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSI.
