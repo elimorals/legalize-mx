@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3594
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-20"
-last_updated: "1997-02-28"
+last_updated: "2001-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 20 de diciembre de 1970.
 
@@ -1373,9 +1373,9 @@ En tales casos, las empresas o instituciones que hubiesen suscrito esos contrato
 
 Las cuantías de las jubilaciones y pensiones aumentarán al mismo tiempo y en la misma proporción en que aumenten los sueldos de los trabajadores en activo.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2001)</small>
 
-Los jubilados y pensionados tendrán derecho a una gratificación anual y equivalente a cuarenta veces la cuota diaria de su pensión. Esta gratificación deberá pagarse en un setenta y cinco por ciento antes del día quince de Diciembre y el otro veinticinco por ciento a más tardar el día quince de Enero, de conformidad con las disposiciones que dicte la Junta Directiva.
+Los jubilados y pensionados tendrán derecho a una gratificación anual y equivalente a sesenta veces la cuota diaria de su pensión. Esta gratificación deberá pagarse en un setenta y cinco por ciento antes del día quince de diciembre y el otro veinticinco por ciento a más tardar el día quince de enero, de conformidad con las disposiciones que dicte la junta Directiva.
 
 ###### ARTICULO 143.
 
@@ -1528,3 +1528,7 @@ P.O. 28 DE FEBRERO DE 1997.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California, tratándose del aumento de Aportaciones a las Autoridades Públicas y Organismos incorporados.
 
 SEGUNDO.- Este Decreto será aplicable en lo que se refiere al incremento de cuota de los trabajadores sujetos al régimen del Instituto a partir del día 1° de mayo de 1997.
+
+P.O. 31 DE AGOSTO DE 2001.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
