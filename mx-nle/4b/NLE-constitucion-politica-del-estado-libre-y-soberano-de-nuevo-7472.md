@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1993-10-20"
+last_updated: "1993-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 1993.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -471,7 +471,7 @@ XXXIV.- Formar su Reglamento Interior y tomar las providencias necesarias para h
 
 XXXV.- Ejercer las facultades propias de un Cuerpo Legislativo en todo aquello que no le prohiban la Constitución Federal o la del Estado.
 
-XXXVI.- Resolver sobre la legitimidad del procedimiento establecido en la fracción XVIII del art. 85.
+XXXVI.- (DEROGADA, P.O. 5 DE NOVIEMBRE DE 1993)
 
 XXXVII.- Conocer de la nulidad de elecciones conforme a la ley.
 
@@ -571,9 +571,9 @@ IV.- Convocar al Congreso a sesiones extraordinarias cuando convenga a la salud 
 
 V.- Manifestar su opinión por escrito al Gobernador, en los casos en que éste tenga a bien pedirla.
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 1993)</small>
 
-VI.- Ejercer las facultades a que se refieren los Artículos 52, 63, en sus fracciones IV, XXI y XXXVI; 89, 90, 91, 97 y 98 de esta Constitución.
+VI.- Ejercer las facultades a que se refieren los Artículos 52, 63 en sus fracciones IV y XXI, 89, 90, 91, 97 y 98 de esta Constitución.
 
 > <small>(REFORMADA, P.O. 1o. DE FEBRERO DE 1975)</small>
 
@@ -2170,3 +2170,7 @@ DECRETO NUMERO 203, QUE REFORMA LOS ARTICULOS 42, 44, 46, 63 FRACCION XV Y 66 FR
 PRIMERO:- Se derogan todas las disposiciones que se opongan a las presentes reformas.
 
 SEGUNDO:- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE NOVIEMBRE DE 1993.
+
+UNICO:- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
