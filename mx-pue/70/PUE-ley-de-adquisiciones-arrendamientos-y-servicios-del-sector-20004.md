@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-2000
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-09"
-last_updated: "2001-02-09"
+last_updated: "2002-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO ESTATAL Y MUNICIPAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 9 de febrero de 2001.
 
@@ -185,6 +185,10 @@ IX. En general, los actos de cualquier naturaleza cuya ejecución genere una obl
 
 Las adquisiciones, arrendamientos y servicios con cargo total o parcial a fondos federales, que se realicen conforme a los convenios celebrados entre el Ejecutivo Federal y el del Estado, con la participación que, en su caso, corresponda a los Municipios interesados, estarán sujetos a las disposiciones de la ley federal en la materia y los demás ordenamientos que resulten aplicables, salvo que se trate de los fondos previstos en el Capítulo V de la Ley de Coordinación Fiscal, en cuyo caso se sujetarán a esta Ley.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2002)</small>
+
+En aquellos casos en que los convenios no señalen al organismo encargado de llevar a cabo los procedimientos de adjudicación correspondientes, el Comité estará facultado para llevarlos a cabo.
+
 ###### ARTÍCULO 9.
 
 Las autoridades y órganos previstos en la fracción I del artículo 2 de la presente Ley, se abstendrán de crear fideicomisos, otorgar mandatos o celebrar actos o cualquier tipo de convenios, contratos o pedidos, para evadir lo previsto en este ordenamiento.
@@ -249,7 +253,9 @@ El Comité, los Comités Municipales, la Secretaría, la SEDECAP, los Ayuntamien
 
 Cuando por la urgencia, en caso de desastres naturales o por la especialización de bienes o servicios distintos de los previstos en el artículo anterior, sea necesaria su pronta contratación, bajo su responsabilidad, el Presidente Municipal o el titular de la dependencia o entidad de que se trate, podrán adjudicar y contratar directamente, atendiendo conforme a la presente Ley, y la relativa a responsabilidades de los servidores públicos, las disposiciones de austeridad, racionalidad, disciplina presupuestal, eficiencia y eficacia que se establezcan en los respectivos presupuestos. La facultad a que se refiere este artículo no podrá ser delegada a ningún funcionario de la dependencia, entidad o Ayuntamiento de que se trate.
 
-Para los casos de excepción a que se refiere este artículo, el titular de la dependencia o entidad de la Administración Pública Estatal de que se trate, deberá contar previamente con la autorización del Gobernador del Estado.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
+
+Para los casos de excepción a que se refiere este artículo, el Titular de la Dependencia o Entidad de la Administración Pública Estatal de que se trate, deberá enviar notificación debidamente justificada a la SEDECAP o la Contraloría Municipal, según sea el caso.
 
 ###### ARTÍCULO 20.
 
@@ -265,9 +271,13 @@ IV. Derivado de caso fortuito o fuerza mayor, no sea posible obtener bienes o se
 
 V. Se hubiere rescindido el contrato respectivo por causas imputables al proveedor que hubiere resultado ganador en una licitación; en estos casos el Comité o Comité Municipal verificará si existen otra u otras proposiciones aceptables, en cuyo caso deberá adjudicar el contrato al licitante que haya presentado la siguiente proposición solvente más baja, siempre que la diferencia en precio con respecto a la propuesta que inicialmente hubiere resultado ganadora no sea superior al monto autorizado;
 
-VI. No existan por lo menos tres proveedores idóneos, previa investigación de mercado que al efecto se hubiere realizado, o se realicen dos procedimientos de adjudicación que hayan sido declarados desiertos en una, varias o la totalidad de sus partidas;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
 
-VII. Existan razones justificadas técnicamente para la adquisición o arrendamiento de bienes, equipos especializados, así como sustancias y materiales de origen químico, físico químico o bioquímico, o el objeto del contrato sea el diseño y fabricación de un bien que sirva como prototipo para producir otros, en la cantidad necesaria para efectuar las pruebas que demuestren su funcionamiento, debiendo pactarse en este caso que los derechos sobre el diseño, uso o cualquier otro derecho exclusivo, se constituyan a favor del Estado, los Municipios o las entidades según corresponda;
+VI. No existan por lo menos tres proveedores idóneos, previa investigación que al efecto se hubiere realizado, o se realicen dos procedimientos de adjudicación que hayan sido declarados desiertos en una, varias o la totalidad de sus partidas;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+VII. Existan razones justificadas técnicamente para la adquisición o arrendamiento de bienes, servicios, equipos especializados, así como sustancias y materiales de origen químico, físico-químico o bioquímico, o el objeto del contrato sea el diseño y fabricación de un bien que sirva como prototipo para producir otros, en la cantidad necesaria para efectuar las pruebas que demuestren su funcionamiento, debiendo pactarse en este caso que los derechos sobre el diseño, uso o cualquier otro exclusivo, se constituyan a favor del Estado, los municipios o las entidades según corresponda;
 
 VIII. Se trate de adquisiciones de bienes perecederos, granos y productos alimenticios básicos o semiprocesados, semovientes y bienes usados; tratándose de estos últimos, el precio de adquisición no podrá ser mayor al que se determine mediante avalúo que practicarán las instituciones o particulares habilitados para ello conforme a las disposiciones aplicables;
 
@@ -280,6 +290,14 @@ XI. Se trate de adquisiciones de bienes provenientes de personas que, sin ser pr
 XII. Se trate de servicios de mantenimiento, conservación, restauración y reparación de bienes, en los que no sea posible precisar su alcance, establecer el catálogo de conceptos y las cantidades de trabajo o determinar las especificaciones correspondientes; y
 
 XIII. Se trate de la adquisición de bienes mediante operaciones no comunes de comercio o se acepte la adquisición de bienes o la prestación de servicios a título de dación en pago, en los términos de la legislación aplicable.
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+XIV. Se trate de la adjudicación o adjudicaciones que se encuentren fundamentadas en los convenios que al efecto haya celebrado el Gobierno del Estado con los fabricantes; así como con los distribuidores exclusivos de bienes de consumo frecuente, que tengan por objeto obtener ventajas económicas.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2002)</small>
+
+Las Dependencias o Entidades bajo su responsabilidad, podrán solicitar que el Comité o los Comités Municipales adjudiquen de manera directa en los casos previstos por esta Ley.
 
 En estos casos, se hará la invitación respectiva a las personas cuyas actividades comerciales o profesionales estén relacionadas con los bienes o servicios objeto del contrato a celebrarse y que no tengan ninguna limitante legal para que se les otorgue la adjudicación.
 
@@ -295,9 +313,11 @@ La selección de cualquier procedimiento de excepción a la licitación pública
 
 SECCIÓN TRES: COMPRAS INTERGUBERNAMENTALES
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
+
 ###### ARTÍCULO 23.
 
-No estarán dentro del ámbito de aplicación de esta Ley los convenios, contratos o pedidos que celebren las dependencias con las entidades, o entre entidades, ni los actos jurídicos de cualquier naturaleza que se celebren entre dependencias, o bien los que lleve a cabo el Gobierno del Estado de Puebla con la Federación o con los Municipios que conforman la entidad. No obstante, dichos actos quedarán sujetos a este ordenamiento, cuando la instancia pública obligada a entregar el bien o prestar el servicio, no tenga capacidad para hacerlo por sí misma y contrate a un tercero para su realización.
+No estarán dentro del ámbito de aplicación de esta Ley, los convenios, contratos o pedidos que celebren las Dependencias con las Entidades, o entre Entidades de los diferentes niveles de Gobierno, ni los actos jurídicos de cualquier naturaleza que se celebren entre Dependencias o bien los que lleve a cabo el Gobierno del Estado de Puebla con la Federación o con los municipios que conforman la Entidad. No obstante, dichos actos quedarán sujetos a este ordenamiento, cuando la instancia pública obligada a entregar el bien o prestar el servicio, no tenga capacidad para hacerlo por sí misma y contrate a un tercero para su realización.
 
 ### CAPÍTULO III. PADRÓN DE PROVEEDORES
 
@@ -309,9 +329,11 @@ Este Padrón tiene por objeto facilitar a la Administración Pública Estatal la
 
 Para efectos del párrafo anterior, las personas inscritas en el Padrón deberán comunicar al Comité las modificaciones relativas a datos generales, capacidad técnica o económica, o en su actividad, cuando tales circunstancias puedan implicar cambios que afecten su clasificación o localización.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
+
 ###### ARTÍCULO 25.
 
-El Comité, las dependencias y las entidades deberán invitar a los procedimientos de excepción a la licitación abierta a las personas inscritas en el Padrón, de acuerdo con la clasificación en que estén registradas, sin perjuicio de que a falta de proveedores o por así convenir a los intereses de las contratantes, se pueda invitar a personas que no estén inscritas, con la condición de que en caso de que se les adjudique el contrato o pedido, se inscriban al Padrón.
+El Comité, las Dependencias y las Entidades deberán invitar a los procedimientos de excepción a la licitación abierta a las personas integrantes del Padrón, de acuerdo con la clasificación en que estén registradas, sin perjuicio de que a falta de proveedores o por así convenir a los intereses de los contratantes o adjudicantes, se pueda invitar a personas que no estén inscritas, con la condición de que en caso de que se les adjudique el contrato o pedido, se inscriban al Padrón.
 
 ###### ARTÍCULO 26.
 
@@ -321,7 +343,9 @@ I. Cuando se trate de personas morales de derecho privado, se deberá exhibir co
 
 II. Exhibir copia del Registro Federal de Contribuyentes, la Clave Única del Registro de Población o el documento que por disposición oficial los sustituya; y
 
-III. Proporcionar la información complementaria que a juicio del Comité sea necesaria.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+III. Proporcionar la información y documentación necesaria, para acreditar su especialidad, experiencia y capacidad técnica y financiera.
 
 ###### ARTÍCULO 27.
 
@@ -329,21 +353,35 @@ El Comité, dentro de un término que no excederá de quince días hábiles cont
 
 Si la solicitud fuese confusa o incompleta, el Comité podrá solicitar, dentro del término de cinco días hábiles siguientes a su recepción, que se aclare o se complemente y si el proveedor no presentare la información requerida dentro del plazo que se le conceda, que podrá ser hasta de diez días hábiles, se tendrá por no presentada la solicitud.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
+
 ###### ARTÍCULO 28.
 
-El registro en el Padrón tendrá un carácter gratuito y una vigencia que abarcará del 1 de enero al 31 de diciembre de cada año; los proveedores, dentro de los veinte días hábiles anteriores al vencimiento de su registro, presentarán su solicitud de revalidación. La falta de presentación de la solicitud para obtener el refrendo o la negativa de este, traerá como consecuencia la cancelación del registro a su vencimiento, sin perjuicio del derecho del interesado de formular nueva solicitud para obtenerlo.
+El registro y su revalidación en el Padrón de Proveedores, tendrá el costo que señale la Junta de Gobierno, cuya vigencia será de un año a partir de la inscripción. Los proveedores, para revalidar su registro, deberán de presentar su solicitud dentro de los veinte días hábiles anteriores al vencimiento; si omiten presentar la solicitud en el plazo indicado, se cancelará el registro a su vencimiento, sin perjuicio de que puedan formular nueva solicitud para obtener otro.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2002)</small>
 
 ###### ARTÍCULO 29.
 
-El Comité, por acuerdo del Director General, estará facultado para suspender el registro a algún proveedor, hasta por el término de veinticuatro meses, cuando:
+El Director General está facultado para suspender el registro a algún proveedor, hasta por el término de veinticuatro meses, cuando:
 
 I. No se entreguen los bienes, ni preste los servicios en las condiciones pactadas;
 
-II. Se nieguen a sustituir las mercancías o servicios que no reúnan los requisitos de calidad estipulados;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
 
-III. Se negare a dar facilidades necesarias para que la SEDECAP o los organismos e instituciones facultadas para ello conforme a la presente Ley, ejerzan sus funciones de verificación, inspección y vigilancia; y
+II. Se nieguen a sustituir las mercancías o servicios que no reúnan los requisitos de calidad;
 
-IV. A juicio del Comité y en base a circunstancias debidamente fundadas y motivadas, así se recomiende.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+III. Se retrase en forma reiterada en la entrega de los bienes y servicios por causas imputables a él;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+IV. Se negare a dar facilidades necesarias para que la SEDECAP o los organismos e instituciones facultadas para ello conforme a la presente Ley, ejerzan sus funciones de verificación, inspección y vigilancia; y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+V. A juicio del Comité y con base en circunstancias debidamente fundadas y motivadas, así se recomiende.
 
 Cuando desaparezcan las causas que hubieren motivado la suspensión del registro, el proveedor lo acreditará ante el Comité, el que dispondrá lo conducente a efecto de que el registro del interesado vuelva a surtir todos sus efectos legales.
 
@@ -373,7 +411,15 @@ VIII. No se presente a formalizar el pedido o contrato o incumpla con éste, des
 
 IX. Deje de reunir los requisitos necesarios para estar inscrito en el Padrón; y
 
-X. A juicio de la SEDECAP y en base a circunstancias debidamente fundadas y motivadas, ésta así lo proponga y comunique.
+X. A juicio de la SEDECAP y en base a circunstancias debidamente fundadas y motivadas, ésta así lo proponga y comunique;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+XI. Entregue mercancías o preste servicios cuyas características técnicas difieran de lo pactado originalmente; y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+XII. Reincida en las causales a que se refiere el articulo 29 de esta Ley.
 
 ###### ARTÍCULO 32.
 
@@ -421,6 +467,10 @@ V. Un Comisario, que será el titular de la SEDECAP, o la persona que ésta desi
 
 Los cargos de los integrantes de la Junta serán honoríficos y por cada propietario se nombrará un suplente.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2002)</small>
+
+La Junta de Gobierno se auxiliará de una Comisión Ejecutiva que decidirá de forma colegiada, todo lo relativo a la evaluación y adjudicación de los procesos de licitación de adquisiciones de bienes y servicios.
+
 ###### ARTÍCULO 35.
 
 La Junta sesionará ordinariamente cada cuatro meses y en forma extraordinaria las veces que sea necesario, de acuerdo con lo que disponga el Reglamento Interior del Comité.
@@ -455,7 +505,7 @@ XI. Determinar las acciones tendientes a la optimización y transparencia de los
 
 XII. Imponer sanciones en los términos de la presente Ley;
 
-XIII. Realizar una o más de las funciones que le son propias, en apoyo a los otros poderes o a los Municipios, en virtud de los convenios de coordinación y colaboración que para tales efectos se suscriban y con cargo a las partidas presupuestales de estas instancias;
+XIII. Realizar una o más de las funciones que le son propias, en apoyo a los otros poderes o a los Municipios, en virtud de los convenios de coordinación y colaboración que para tales efectos se suscriban y con cargo a las partidas presupuestales de estas instancias; y
 
 XIV. Llevar a cabo conforme a los procedimientos establecidos en este ordenamiento, la adjudicación de las adquisiciones, arrendamientos y servicios que por su naturaleza o monto no puedan ser adjudicados de manera directa o mediante invitación, por las dependencias y entidades de la Administración Pública Estatal, con cargo a las partidas presupuestales correspondientes;
 
@@ -485,7 +535,17 @@ V. Autorizar los manuales de organización y procedimientos del Comité, conform
 
 VI. Resolver lo procedente en todo lo no previsto en esta Ley, su Reglamento Interior y las demás disposiciones derivadas de aquélla, relacionado con la adjudicación de adquisiciones, arrendamientos y servicios, de su competencia, y
 
-VII. Las demás que le sean necesarias para el buen logro de los objetivos que tiene asignados el Comité.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+VII. Nombrar y remover a los integrantes de la Comisión Ejecutiva a solicitud de cada uno de los miembros de la Junta de Gobierno, así como determinar sus emolumentos con cargo al patrimonio del Comité, en su caso;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+VIII. Asignar las funciones específicas a cada uno de los miembros de la Comisión Ejecutiva; y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+IX. Las demás que le sean necesarias para el buen logro de los objetivos que tiene asignados el Comité.
 
 ###### ARTÍCULO 38.
 
@@ -531,33 +591,59 @@ IX. Coordinar las actividades del Comité, con las demás dependencias y entidad
 
 X. Coordinar todo lo relativo a los procedimientos de adjudicación, en el ámbito de su competencia y en los que deba intervenir, de acuerdo con los convenios a que se refiere la fracción IX del artículo 36; y
 
-XI. Las demás que le señalen la presente Ley, el Reglamento Interior del Comité y las disposiciones derivadas de ambos ordenamientos.
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+XI. Llevar operativamente el Padrón de Proveedores y en su caso, cancelar o suspender a éstos; y
+
+XII. Las demás que le señalen la presente Ley, el Reglamento Interior del Comité y las disposiciones derivadas de ambos ordenamientos.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
 
 ###### ARTÍCULO 40.
 
-Son atribuciones del Comisario del Comité:
+La Comisión Ejecutiva tendrá facultades para la toma de decisiones en lo que concierne a la evaluación y adjudicación en los procedimientos de licitación, será la representación permanente de la Junta de Gobierno y estará integrada por:
 
-I. Asistir a las reuniones ordinarias y extraordinarias de la Junta de Gobierno;
+I. Un representante designado por el Titular de la Secretaría de Finanzas y Desarrollo Social, quien presidirá las sesiones de la Comisión;
 
-II. Solicitar y verificar que se incluyan en el orden del día de las sesiones los asuntos que se consideren necesarios;
+II. Un representante designado por el Titular de la Secretaría de Gobernación;
 
-III. Verificar la debida integración y funcionamiento de los órganos y unidades administrativas del Comité;
+III. Un representante designado por el Titular de la Secretaría de Salud;
 
-IV. Presentar por escrito a la Junta de Gobierno una opinión semestral sobre el desempeño general del Comité, con base en las evaluaciones que presente el Director General del mismo;
+IV. Un representante designado por el Titular de la Secretaría de Desarrollo Económico;
 
-V. Promover ante la Junta de Gobierno el establecimiento de subcomités especializados en los casos en que éstos se requieran para el desempeño de las funciones del Comité, así como para dar seguimiento y atención a los acuerdos y resoluciones de la Junta;
+V. Un representante designado por el Titular de la Secretaría de Desarrollo Urbano, Ecología y Obras Públicas;
 
-VI. Practicar la auditoría de los estados financieros y comprobar, cuando lo estime conveniente, los avalúos de los bienes materia de operación del Comité;
+VI. El Director General del Comité; y
 
-VII. Proponer al Titular de la SEDECAP que se designe a un auditor externo, para auditar y certificar los estados financieros del Comité;
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2003)</small>
 
-VIII. Presentar a la Junta de Gobierno un dictamen sobre los estados financieros de cada ejercicio fiscal, acompañado del dictamen del auditor externo, en su caso;
+VII. Cuatro representantes de los Sectores Social, Privado y universidades que participen en la Junta de Gobierno.
 
-IX. En los casos que a su juicio lo amerite, solicitar al Director General que convoque a sesión extraordinaria de la Junta de Gobierno;
+Todos los integrantes de la Comisión, contarán con voz y voto en las reuniones respectivas.
 
-X. Conocer e investigar actos, omisiones o conductas de servidores públicos del Comité, imponiendo, en su caso, las sanciones administrativas que correspondan en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla y otros ordenamientos; y
+La calidad de representante permanente en esta Comisión, se acreditará mediante nombramiento que expida la Junta de Gobierno a petición de los Titulares que integran dicha Junta.
 
-XI. Las demás que le confieran otros ordenamientos legales aplicables.
+El Director General será suplido en sus ausencias por el funcionario que al efecto designe.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2002)</small>
+
+ARTÍCULO 40 BIS.- Son atribuciones de la Comisión Ejecutiva:
+
+I. Previa evaluación, emitir el dictamen para la adjudicación del contrato de la licitación con base en el análisis comparativo de las proposiciones admitidas y el presupuesto aprobado;
+
+II. Estar presente de manera individual o colectiva en cualquier evento del procedimiento de adjudicación;
+
+III. Coadyuvar en el desarrollo del procedimiento de adjudicación que la Junta de Gobierno les determine; y
+
+IV. Las demás que le confiera la Junta de Gobierno, el Reglamento Interior y las disposiciones legales aplicables.
+
+(ADICIONADO, P.O. 30 DE AGOSTO DE 2002) (F. DE E., P.O. 21 DE FEBRERO DE 2003)
+
+ARTÍCULO 40 TER.- La Comisión se constituirá de manera permanente y sus sesiones se llevarán a cabo cuando asistan la mayoría del total de los miembros con derecho a voto; los acuerdos y resoluciones se tornarán por la mayoría del total de los integrantes de la Comisión; en caso de no obtener consenso se realizará una segunda ronda que se definirá en acuerdo por la mayoría de los presentes.
+
+En caso de ausencia de quien presida las reuniones, el Director General podrá desempeñar estas funciones.
+
+A las reuniones de la Comisión, el Presidente de la Junta, a propuesta de los demás integrantes, podrá invitar a personas con amplia experiencia y conocimientos reconocidos en temas relacionados con los fines de la Comisión, para que opinen sobre los asuntos que sean sometidos a su consideración, los cuales contarán con derecho a voz pero sin voto. Así mismo, asistirán las dependencias o entidades contratantes.
 
 ###### ARTÍCULO 41.
 
@@ -633,6 +719,26 @@ VII. Mantener actualizado el control de sus inventarios y aplicar los sistemas d
 
 VIII. En general, cumplir con las normas y resoluciones que se emitan conforme a esta Ley, sin perjuicio de la autonomía de gestión que cada una posea.
 
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+IX. Remitir al Comité o Comité Municipal para los efectos de la debida integración del expediente respectivo, dentro de un plazo no mayor a diez días hábiles, copias de los pedidos formalizados, de los contratos que se celebren, de las modificaciones que a estos se les realicen, así como de la fianza o garantía que se otorgue;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+X. Remitir oportunamente al Comité o Comité Municipal las requisiciones respectivas, en la inteligencia de que éstas sólo se recibirán dentro de los primeros nueve meses del ejercicio fiscal respectivo, sin perjuicio de que cuando concurran circunstancias excepcionales, el Comité o Comité Municipal, previa evaluación de las mismas, podrá admitir requisiciones fuera del término fijado en esta fracción;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+XI. Informar al Comité o Comité Municipal dentro de los diez días naturales siguientes a aquél en que se realicen adquisiciones, arrendamientos y contratación de servicios fundamentados en la sección dos, del capítulo segundo, del Título Primero de esta Ley;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+XII. Comunicar al Comité respectivo, la recepción de bienes o comienzo de servicios; en el caso de los bienes, estarán obligadas a mantenerlos en bodega por un lapso de veinticuatro horas contadas a partir de que el Comité de que se trate haya recibido oportunamente el aviso de llegada de éstos, a fin de que ejercite sus facultades de revisión. Para los casos en que por la naturaleza de los bienes o la urgencia de su utilización esta permanencia no sea posible, con la debida anticipación se hará del conocimiento del Comité respectivo, a fin de planear una recepción conjunta de los bienes; y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+XIII. Comunicar oportunamente al Comité de los cambios en la planeación a la que se refiere el artículo 56.
+
 ###### ARTÍCULO 46.
 
 De acuerdo con el artículo 13 de esta Ley, el Comité, la SEDECAP, los Ayuntamientos, los Comités Municipales y las Contralorías Municipales, en el ámbito de sus respectivas competencias, podrán dictar, de oficio o con base en las consultas o asuntos planteados y con el carácter de criterios, las disposiciones administrativas que se requieran para el adecuado cumplimiento de esta Ley, debiendo tomar en cuenta la opinión de la Secretaría, por lo que hace al ámbito estatal, y la del Presidente Municipal, cuando corresponda.
@@ -683,9 +789,11 @@ El Comité, los Comités Municipales, las dependencias y las entidades, en los s
 
 No será necesario asegurar los bienes muebles, cuando por razón de su naturaleza o el tipo de riesgos a los que están expuestos, el costo de aseguramiento represente una erogación que no guarde relación directa con el beneficio que pudiera obtenerse. La SEDECAP o las Contralorías Municipales autorizarán previamente la aplicación de esta excepción.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
+
 ###### ARTÍCULO 52.
 
-En los procedimientos de adjudicación y contratación de carácter nacional e internacional, las instancias adjudicantes y contratantes optarán, en igualdad de condiciones, por el empleo de los recursos humanos del Estado o, en su defecto, del país, y por la adquisición y arrendamiento de bienes producidos en el Estado o el país y que cuenten con el porcentaje de contenido nacional indicado en el artículo 63 fracción I de esta Ley, los cuales deberán contar, en la comparación económica de las propuestas, con un margen hasta del diez por ciento de preferencia en el precio respecto de los bienes y servicios de importación, conforme a las reglas que establezcan el Gobierno del Estado y los Ayuntamientos, a través del Comité y los Comités Municipales respectivamente, con especial atención a los sectores económicos cuya promoción, fomento y crecimiento estén comprendidos en los objetivos y prioridades de los planes nacional y estatal de desarrollo y los programas respectivos.
+En los procedimientos de adjudicación y contratación de carácter nacional e internacional, las instancias adjudicantes y contratantes optarán, en igualdad de condiciones, por el empleo de los recursos materiales o humanos del Estado y del País.
 
 ### CAPÍTULO II. DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN
 
@@ -697,11 +805,13 @@ I. Los objetivos, prioridades, estrategias y políticas de los planes de desarro
 
 II. Los objetivos, metas y previsiones de recursos establecidos en los presupuestos de egresos del Estado o de los Municipios respectivos.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
+
 ###### ARTÍCULO 54.
 
-Las dependencias o entidades que requieran contratar servicios de consultorías, asesorías, estudios e investigaciones, previamente verificarán si en sus archivos o, en su caso, en los de la coordinadora del sector correspondiente, existen trabajos sobre la materia de que se trate. En el supuesto de que se advierta su existencia y se compruebe que los mismos satisfacen los requerimientos de la entidad o dependencia, no procederá la contratación, con excepción de aquéllos trabajos que sean necesarios para su adecuación, actualización o complemento.
+Las dependencias o entidades que requieran contratar servicios de consultoría, asesoría, estudios e investigaciones, previamente verificarán si en sus archivos o en su caso, en los de la coordinadora del sector correspondiente, existen trabajos sobre la materia de que se trate, de no existir éstos, así lo harán constar al momento de solicitar la contratación referida.
 
-La erogación para la contratación de servicios de consultorías, asesorías, estudios e investigaciones, se sujetará a lo dispuesto en el presupuesto de egresos respectivo.
+En el supuesto de que se advierta su existencia y se compruebe que los mismos satisfacen los requerimientos de la Entidad o Dependencia, no procederá la contratación, con excepción de aquellos trabajos que sean necesarios para su adecuación, actualización o complemento. La erogación para la contratación de servicios de consultorías, asesorías, estudios e investigaciones, se sujetará a lo dispuesto en el Presupuesto de Egresos respectivo.
 
 ###### ARTÍCULO 55.
 
@@ -735,9 +845,11 @@ El citado programa será de carácter informativo, no implicará compromiso algu
 
 En la presupuestación de sus adquisiciones, arrendamientos y servicios, las dependencias y entidades deberán estimar y proyectar los recursos correspondientes a sus programas sustantivos, de apoyo administrativo y de inversiones, así como aquéllos relativos a la adquisición de bienes para su posterior comercialización, incluyendo los que habrán de sujetarse a procesos productivos.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
+
 ###### ARTÍCULO 58.
 
-Para la adjudicación a que se refiere esta Ley, se requerirá el oficio de autorización de inversión y de gasto corriente, expedido por la instancia legalmente facultada para ello en cada ámbito y conforme al cual deberán programarse los pagos respectivos.
+Para la adjudicación a que se refiere esta Ley, se requerirá el oficio de autorización de inversión y de gasto corriente, expedido por la instancia legalmente facultada para ello, con una antigüedad no mayor a veinte días hábiles, conforme al cual deberán programarse los pagos respectivos.
 
 ###### ARTÍCULO 59.
 
@@ -767,9 +879,13 @@ SECCIÓN UNO: DE LOS PROCEDIMIENTOS NACIONALES E INTERNACIONALES
 
 Los procedimientos de adjudicación podrán ser:
 
-I. Nacionales, cuando únicamente puedan participar personas de nacionalidad mexicana y los bienes a adquirir o arrendar sean producidos o se ubiquen en el país, o el servicio sea prestado en el mismo, y cuenten por lo menos con un cincuenta por ciento de contenido nacional, el que será determinado tomando en cuenta el costo de producción del bien, que significa todos los costos menos la promoción de ventas, comercialización, regalías y embarque, así como los costos financieros; o
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
 
-II. Internacionales, cuando puedan participar tanto personas de nacionalidad mexicana como extranjera y los bienes a adquirir o arrendar, o el servicio a contratar, sean de origen nacional o extranjero. Solamente se deberán llevar a cabo procedimientos de adjudicación internacionales, en los siguientes casos:
+I. Nacionales, cuando únicamente puedan participar personas de nacionalidad mexicana y los bienes a adquirir o arrendar sean producidos o se ubiquen en el País o el Servicio sea prestado en el mismo;
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2002)</small>
+
+II. Internacionales, cuando puedan participar tanto personas de nacionalidad mexicana como extranjera y los bienes a adquirir o arrendar, o el servicio a contratar, sean de origen nacional o extranjero. Solamente se podrán llevar a cabo procedimientos de adjudicación internacionales, en los siguientes casos:
 
 a) Cuando resulte obligatorio conforme a lo establecido en los tratados;
 
@@ -815,7 +931,11 @@ La aplicación del precepto anterior se sujetará a las siguientes bases:
 
 I. Los montos establecidos por los decretos aprobatorios de los respectivos presupuestos de egresos, deberán considerarse sin incluir el impuesto al valor agregado;
 
-II. Las adjudicaciones deberán considerarse en forma global, con el objeto de determinar si queda comprendida dentro de los montos máximos y límites que se establezcan en los respectivos presupuestos de egresos, en la inteligencia de que, en ningún caso, el importe total de la misma podrá ser fraccionado para quedar comprendido en algún supuesto distinto al que le corresponda originalmente;
+II. Las adjudicaciones deberán considerarse en forma global, con el objeto de determinar si queda comprendida dentro de los montos máximos y límites que se establezcan en los respectivos presupuestos de egresos, en la inteligencia de que, en ningún caso, el importe total de la misma podrá ser fraccionado para quedar comprendido en algún supuesto distinto al que le corresponda originalmente.
+
+(ADICIONADO, P.O. 30 DE AGOSTO DE 2002) (F. DE E., P.O. 21 DE FEBRERO DE 2003)
+
+Se entenderá que existe fraccionamiento cuando los montos autorizados por los oficios de inversión respectivos se ejerzan en dos o más operaciones, lo anterior sin perjuicio de que el Comité o Comité Municipal pueda desarrollar más de un procedimiento de adjudicación sobre las partes remanentes de los montos adjudicados;
 
 III. En los casos de arrendamientos y de prestación de servicios, se podrán llevar a cabo los mismos procedimientos cuando el monto de una mensualidad corresponda a un doceavo de los límites señalados; pero si no existieren mensualidades, se tomarán como base los límites indicados para cada operación; y
 
@@ -869,9 +989,11 @@ Los documentos descritos en esta Sección podrán ser solicitados por las adjudi
 
 SECCIÓN CUATRO: DE LA ENTREGA DE PROPOSICIONES EN PLIEGOS O SOBRES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2002)</small>
+
 ###### ARTÍCULO 74.
 
-Los pliegos o sobres que contengan las proposiciones que los licitantes pretendan presentar de acuerdo con esta Ley, podrán entregarse, a elección del licitante, en el lugar de celebración del acto de presentación y apertura de proposiciones, o bien, si así lo establece la adjudicante, enviarlo a través del servicio postal o de mensajería, o por medios remotos de comunicación electrónica, conforme a las disposiciones administrativas que establezcan el Comité o los Comités Municipales, según corresponda.
+Los pliegos o sobres que contengan las proposiciones que los licitantes pretendan presentar de acuerdo con esta Ley, podrán entregarse a elección del licitante en el lugar de celebración del acto de presentación y apertura de proposiciones, o bien, si así lo establece la convocante, enviarlo a través del servicio postal o de mensajería o por medios remotos de comunicación electrónica, conforme a las disposiciones administrativas que establezcan el Comité o los Comités Municipales, según corresponda.
 
 En el caso de las proposiciones presentadas por medios remotos de comunicación electrónica, el pliego será generado mediante el uso de tecnologías que resguarden la confidencialidad de la información de tal forma que sea inviolable, conforme a las disposiciones técnicas que al efecto establezcan las instancias competentes.
 
@@ -895,7 +1017,9 @@ II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o 
 
 III. Aquellos proveedores que, por causas imputables a ellos mismos, la contratante les hubiere rescindido administrativamente más de un contrato, dentro de un lapso de dos años calendario contados a partir de la notificación de la primera rescisión, impedimento que prevalecerá ante todas las dependencias o entidades estatales y municipales durante dos años calendario contados a partir de la notificación de la rescisión del segundo contrato;
 
-IV. Las que se encuentren inhabilitadas por resolución del Comité, la SEDECAP, los Comités Municipales o la Contraloría Municipal, en los términos de este ordenamiento o de la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado de Puebla;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+IV.- Las que se encuentren inhabilitadas por resolución del Comité, la SEDECAP, los Comités Municipales o la Contraloría Municipal, en los términos de este ordenamiento o de la Ley de Obra Pública y Servicios Relacionados con la Misma para el Estado de Puebla; o su inscripción en el Padrón de Proveedores se encuentre suspendido o cancelado;
 
 V. Los proveedores que se encuentren en situación de atraso en las entregas de los bienes o en la prestación de los servicios, por causas imputables a ellos mismos, respecto de otro u otros contratos celebrados con la misma Administración Pública Estatal o Municipal, siempre y cuando éstas hayan resultado gravemente perjudicadas;
 
@@ -927,7 +1051,9 @@ Las convocatorias podrán referirse a una o más adquisiciones, arrendamientos o
 
 I. El nombre del convocante, que será, según corresponda, el Comité o el Comité Municipal;
 
-II. La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases de la licitación, el costo y la forma de pago de las mismas. Cuando las bases de licitación impliquen un costo, su determinación se hará en los términos que fije la Ley de Ingresos respectiva. Los interesados podrán revisarlas previamente a su pago, el cual será requisito para participar en la licitación; igualmente, podrán consultarlas y adquirirlas por los medios de difusión electrónica que establezcan las instancias competentes;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+II. La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases de licitación, el costo y la forma de pago de las mismas. Los interesados podrán revisarlas previamente a su pago, el cual será requisito para participar en la licitación; igualmente, podrán consultarlas y adquirirlas por los medios de difusión electrónica que establezcan las instancias competentes en términos de la legislación aplicable;
 
 III. La fecha, hora y lugar de celebración de la junta de aclaraciones, del acto de presentación y apertura de propuestas, y de la comunicación del fallo; en este último caso, deberá quedar comprendida dentro de los veinte días naturales siguientes a la fecha de inicio de la primera etapa a que se refiere el artículo 85 de esta Ley y podrá diferirse, siempre que el nuevo plazo fijado no exceda de veinte días naturales contados a partir del plazo establecido originalmente para el fallo;
 
@@ -991,7 +1117,9 @@ XVIII. La indicación de si la totalidad de las adquisiciones, arrendamientos o 
 
 XIX. En el caso de contratos abiertos, la información y demás requisitos a que alude el artículo 108 de este ordenamiento;
 
-XX. Penas convencionales por atraso en la formalización del contrato, en la entrega de los bienes o en la prestación de los servicios;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+XX. Penas convencionales por incumplimiento en la entrega, por atraso en la entrega de los bienes o en la prestación de los servicios o por entrega de bienes diferentes a los contratados;
 
 XXI. Las causas que originen la declaración de licitación desierta;
 
@@ -1002,6 +1130,22 @@ XXIII. La indicación de que el licitante que no firme el contrato por causas im
 XXIV. En su caso, los términos y condiciones a que deberá ajustarse la participación de los licitantes cuando las propuestas sean enviadas a través del servicio postal o de mensajería, o por medios remotos de comunicación electrónica, considerando que el hecho de que los licitantes opten por utilizar alguno de estos medios para enviar sus propuestas no limita, en ningún caso, que asistan a los diferentes actos derivados de una licitación.
 
 Para la participación, adjudicación y contratación en adquisiciones, arrendamientos o servicios, no podrá exigirse a los licitantes el cumplimiento de requisitos distintos a los previstos en la presente Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2002)</small>
+
+ARTÍCULO 8I.- El convocante, siempre que exista causa justificada, podrá modificar los plazos u otros aspectos establecidos en la convocatoria o en las bases de licitación, a partir de la fecha en que sea publicada la convocatoria y hasta el tercer día hábil previo al acto de presentación y apertura de propuestas, inclusive, así como ampliar los plazos de entrega o negociar a la baja los precios contenidos en las propuestas de los licitantes, hasta antes de la adjudicación, siempre que:
+
+I. Tratándose de la convocatoria, las modificaciones se hagan del conocimiento de los interesados a través de los mismos medios en que aquélla se publicó;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+II. En el caso de las bases de la licitación, se publique un aviso en forma similar a la prevista en la fracción anterior, a fin de que los interesados concurran ante el convocante para conocer de manera específica las modificaciones respectivas, en el entendido de que no será necesario hacer la publicación de este aviso, cuando las modificaciones deriven de las juntas de aclaraciones, siempre que, a más tardar dentro del plazo señalado en este artículo, se entregue copia del acta respectiva a cada uno de los licitantes que se encuentren presentes; en este supuesto, las modificaciones se considerarán como parte integrante de las bases; y
+
+III. En los supuestos de ampliación de los plazos de entrega y negociación a la baja de precios, esté en riesgo de declararse desierta la licitación, en cuyo caso la negociación procederá sólo a iniciativa del propio Comité o Comité Municipal, si se hace del conocimiento previo de todos los licitantes presentes al momento de la apertura de las propuestas y abarca la totalidad de los plazos ofrecidos, en su caso.
+
+Las modificaciones a que se refiere este artículo, en ningún caso podrán consistir en la sustitución de las adquisiciones, arrendamientos o servicios convocados originalmente, en adición de otros de distintos rubros o en variación significativa de sus características.
+
+SECCIÓN DOS: DEL DESARROLLO DE LA LICITACIÓN
 
 ###### ARTÍCULO 81.
 
@@ -1027,11 +1171,15 @@ Cuando no puedan observarse los plazos indicados en este artículo porque exista
 
 Quienes satisfagan los requisitos de la convocatoria, las bases y las especificaciones de la licitación, tendrán derecho a presentar propuestas, para lo cual el convocante debe proporcionarles igual acceso a la información que se relacione con la licitación, con la finalidad de evitar que se favorezca a algún licitante.
 
-La entrega de propuestas podrá realizarse hasta con una anticipación de dos horas antes de la señalada para su apertura, y se hará en tres pliegos o sobres cerrados en forma inviolable, que contendrán, por separado, la propuesta legal, la técnica y la económica, incluyendo en esta última la garantía de seriedad de las ofertas. En caso de requerir especificaciones técnicas, éstas deberán ser incluidas en el primer pliego o sobre de los mencionados. La documentación distinta a las propuestas podrá entregarse, a elección del licitante, dentro o fuera del pliego o sobre que contenga la propuesta legal o técnica.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
 
-###### ARTÍCULO 84.
+La entrega de propuestas podrá realizarse con una anticipación de hasta dos horas antes de la señalada para su apertura, y se hará en tres pliegos o sobres cerrados en forma inviolable, que contendrán por separado, la propuesta legal, la técnica y la económica, incluyendo en esta última la garantía de seriedad de las ofertas. En caso de requerir especificaciones técnicas, éstas deberán ser incluidas en el segundo pliego o sobre de los mencionados. La documentación distinta a las propuestas podrá entregarse, a elección del licitante, dentro o fuera del pliego o sobre que contenga la propuesta legal o técnica.
 
-Previo al acto de presentación y apertura de propuestas, el convocante podrá efectuar el registro de participantes, así como realizar revisiones preliminares a la documentación distinta a la propuesta legal, técnica y económica. Lo anterior será optativo para los licitantes, por lo que no se podrá impedir el acceso a quienes hayan cubierto el costo de las bases y decidan presentar su documentación y propuestas conforme al artículo anterior.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
+
+###### ARTICULO 84.
+
+Previo al acto de presentación y apertura de propuestas, la convocante podrá efectuar el registro de participantes, así como realizar revisiones preliminares a la documentación distinta a la propuesta técnica y económica. Lo anterior será optativo para los licitantes, por lo que no se podrá impedir el acceso a quienes se encuentren debidamente inscritos de acuerdo a lo previsto por las bases de licitación y, decidan presentar su documentación y propuestas conforme al artículo anterior.
 
 ###### ARTÍCULO 85.
 
@@ -1061,11 +1209,15 @@ II. Efectuar un análisis y evaluación de las propuestas que se hayan admitido,
 
 III. Emitir un dictamen por escrito, el que servirá como fundamento para el fallo y en el que se asentará que la adjudicación del contrato será a favor de la persona que de entre los promoventes reunió las condiciones legales, técnicas y económicas requeridas por el convocante, cumplió las condiciones de calidad necesarias y garantizó satisfactoriamente el cumplimiento de las obligaciones respectivas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2002)</small>
+
 ###### ARTÍCULO 87.
 
-La adjudicante, para hacer la evaluación de las proposiciones referidas en el artículo anterior, deberá observar los siguientes lineamientos:
+La convocante, para hacer la evaluación de las proposiciones referidas en el artículo anterior, deberá observar los siguientes lineamientos:
 
-I. No serán objeto de evaluación, las condiciones establecidas en la convocatoria que no tengan señalado la característica de esenciales, de manera que la inobservancia por parte de los licitantes respecto a dichas condiciones o requisitos no será motivo para desechar sus propuestas;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+I. No serán objeto de evaluación, las condiciones establecidas en la convocatoria que tengan señalada la característica de no esenciales, de manera que la inobservancia por parte de los licitantes respecto a dichas condiciones o requisitos no será motivo para desechar sus propuestas;
 
 II. En la evaluación de las propuestas, en ningún caso podrán utilizarse mecanismos de puntos o porcentajes, excepto cuando se trate de servicios, en los que se demuestre la conveniencia de aplicar dichos mecanismos para evaluar objetivamente la solvencia de las propuestas, de acuerdo con los lineamientos que para tal efecto emita el Comité o el Comité Municipal respectivo;
 
@@ -1151,7 +1303,9 @@ En cualquier supuesto se invitará a personas que cuenten con capacidad de respu
 
 En el caso de que se declaren desiertas una, varias o la totalidad de las partidas en estos procedimientos, se estará a lo siguiente:
 
-I. En el caso de concursos por invitación, el Comité o el Comité Municipal, según corresponda, podrá realizar una segunda y última invitación o celebrar un procedimiento de adjudicación mediante invitación, en los términos respectivos; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+I. En el caso de concursos por invitación, el Comité o el Comité Municipal según corresponda, podrá realizar una segunda invitación a cuando menos tres personas; y
 
 II. En el supuesto del procedimiento de adjudicación mediante invitación a cuando menos tres personas, en el caso del Comité o Comité Municipal, éste podrá hacer una segunda y última invitación, mientras que en el caso de las dependencias y entidades, éstas podrán hacer una segunda invitación y en caso de no hacer la adjudicación, deberán solicitar al Comité o Comité Municipal respectivo, que la realice conforme a esta Ley.
 
@@ -1213,9 +1367,11 @@ SECCIÓN UNO: PROCEDIMIENTO DE FORMALIZACIÓN
 
 La Administración Pública Estatal o la municipal, podrá contratar con las personas físicas o morales de origen nacional o extranjeras, que tengan capacidad plena de ejercicio, hayan acreditado ante la adjudicante su solvencia económica, financiera y técnica profesional, conforme a esta Ley, y se les hubiere adjudicado el contrato o pedido respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2002)</small>
+
 ###### ARTÍCULO 103.
 
-Los contratos que deban formalizarse como resultado de su adjudicación, deberán apegarse además de lo dispuesto en esta Ley, a la normatividad que al efecto emita el Comité y suscribirse dentro del término de cinco días naturales, contados a partir del día siguiente a la fecha en que se le haya notificado el fallo de adjudicación al proveedor, salvo que la adjudicante considere indispensable la celebración de contratos preparatorios para garantizar la operación, en cuyo caso la formalización del contrato definitivo deberá llevarse a cabo en un plazo no mayor de treinta días naturales, contados a partir de la misma fecha a que se refiere la primera parte de este artículo.
+Los contratos que deban formalizarse como resultado de su adjudicación, deberán apegarse además de lo dispuesto en esta Ley, a la normatividad que al efecto emita el Comité y suscribirse dentro del término de cinco días hábiles contados a partir del día siguiente a la fecha en que se le haya notificado el fallo de adjudicación al proveedor, salvo que la adjudicante considere indispensable la celebración de contratos preparatorios para garantizar la operación, en cuyo caso la formalización del contrato definitivo deberá llevarse a cabo en un plazo no mayor de treinta días naturales, contados a partir de la misma fecha a que se refiere la primera parte de este artículo.
 
 Las dependencias y entidades al formalizar los contratos deberán ajustarse estrictamente a los términos en que se realizó la adjudicación.
 
@@ -1249,7 +1405,9 @@ II. La indicación del procedimiento conforme al cual se llevó a cabo la adjudi
 
 III. El precio unitario y el importe total a pagar por los bienes o servicios;
 
-IV. La fecha, lugar y condiciones de entrega;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+IV. La fecha, lugar y condiciones de entrega, así como establecer la obligación a cargo del proveedor de comunicar al Comité o Comité Municipal con una anticipación de por lo menos veinticuatro horas, la entrega de los bienes, prestación de servicios o inicio de arrendamientos objeto del contrato;
 
 V. Porcentaje, número y fechas de las exhibiciones y amortización de los anticipos que se otorguen;
 
@@ -1259,7 +1417,17 @@ VII. Plazo y condiciones de pago del precio de los bienes o servicios;
 
 VIII. Precisión de si el precio es fijo o sujeto a ajustes y, en este último caso, la fórmula o condición en que se hará y calculará el ajuste;
 
-IX. Penas convencionales por atraso en la entrega de los bienes o servicios, por causas imputables a los proveedores;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+IX. Penas convencionales, cuando por causas imputables al proveedor:
+
+a) Exista atraso en la entrega de los bienes o servicios.
+
+b) Entregue bienes de diferentes características.
+
+c) Entregue bienes de calidad inferior a la pactada.
+
+Asimismo, la mención de que en caso de incumplimiento, las Dependencias y Entidades podrán rescindir el contrato.
 
 X. La descripción pormenorizada de los bienes o servicios objeto del contrato, incluyendo en su caso la marca y modelo de los bienes; y
 
@@ -1287,9 +1455,11 @@ VII. Los plazos para el pago de los bienes o servicios no podrán exceder de tre
 
 Las dependencias, entidades o Ayuntamientos podrán celebrar contratos de abastecimiento simultáneo siempre que así se haya establecido en las bases de licitación.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
+
 ###### ARTÍCULO 110.
 
-Las penas convencionales que las dependencias y entidades o los Ayuntamientos, en su defecto, pacten a cargo del proveedor por atraso en el cumplimiento de las fechas pactadas de entrega o para la prestación del servicio, no podrán exceder del monto de la garantía de cumplimiento del contrato y serán determinadas en función de los bienes o servicios no entregados o prestados oportunamente. En las operaciones en que se pactare ajuste de precios, la penalización se calculará sobre el precio ajustado.
+Las penas convencionales que las Dependencias y Entidades o los Ayuntamientos, en su defecto, pacten a cargo del proveedor por atraso en el cumplimiento de las fechas pactadas de entrega o para la prestación del servicio, así como la de entrega de bienes de diferentes características o calidad, serán determinadas en función de los bienes o servicios no entregados o prestados oportuna o adecuadamente. En las operaciones en que se pactare ajuste de precios, la penalización se calculará sobre el precio ajustado.
 
 SECCIÓN DOS: MODIFICACIONES A LOS CONTRATOS
 
@@ -1361,11 +1531,17 @@ Las dependencias y entidades o los Ayuntamientos, en su caso, sólo que exista c
 
 Las dependencias y entidades o los Ayuntamientos en su defecto, podrán rescindir administrativamente los contratos en caso de incumplimiento de las obligaciones a cargo del proveedor, en cuyo caso el procedimiento se llevará a cabo conforme a lo siguiente:
 
-I. Deberá iniciarse dentro de los quince días naturales siguientes a aquél en que se hubiere agotado el monto límite de aplicación de las penas convencionales;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
 
-II. Se iniciará una vez que se hubiere agotado el monto del límite de aplicación de las penas convencionales y a partir de que al proveedor le sea comunicado por escrito el incumplimiento en que haya incurrido, para que en un término de diez días hábiles, contados a partir del siguiente a aquél en se realizó la notificación, exponga lo que a su derecho e interés convenga, señale domicilio para recibir notificaciones y ofrezca, en su caso, las pruebas que estime pertinentes;
+I. Podrá iniciarse al día siguiente a aquél en que se tenga conocimiento del incumplimiento;
 
-III. Transcurrido el término a que se refiere la fracción anterior, haya o no comparecido el proveedor, la dependencia, la entidad o el Ayuntamiento, dentro del término de quince días hábiles, emitirá una resolución debidamente fundada y motivada, por la que determine lo procedente después de haber considerado los argumentos y pruebas que se hubiere hecho valer; pero si previamente a la determinación de dar por rescindido el contrato, el proveedor cumple con las obligaciones omitidas, el procedimiento iniciado quedará sin efecto, sin perjuicio de la responsabilidad que se haya originado por el retraso en el cumplimiento de las obligaciones;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+II. Deberá notificarse al proveedor por escrito el incumplimiento en que haya incurrido para que en un término de tres días hábiles, contados a partir del siguiente a aquél en que se realizó la notificación, exponga lo que a su derecho e interés convenga, señale domicilio para recibir notificaciones y ofrezca, en su caso, las pruebas que estime pertinentes;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+III. Transcurrido el término a que se refiere la fracción anterior, haya o no comparecido el proveedor, la Dependencia, la Entidad o el Ayuntamiento, dentro del término de quince días hábiles, emitirá una resolución debidamente fundada y motivada, por la que determine lo procedente después de haber considerado los argumentos y pruebas que se hubieren hecho valer;
 
 IV. La determinación de dar o no por rescindido el contrato deberá ser comunicada en forma personal al proveedor, en el domicilio que haya señalado o, a falta de éste, en el que hubiere señalado en el contrato, dentro de los cinco días hábiles siguientes a la fecha en que se hubiere emitido la resolución; y
 
@@ -1470,6 +1646,10 @@ Tratándose de los archivos del Comité, los Comités Municipales, la Secretarí
 La SEDECAP, el Comité, las Contralorías Municipales y los Comités Municipales, en el ejercicio de sus facultades, podrán verificar, en cualquier tiempo, que las adquisiciones, arrendamientos y servicios se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables. Si dichas autoridades determinan la nulidad total del procedimiento de contratación por causas imputables a la adjudicante, la dependencia o entidad respectiva reembolsará a los licitantes los gastos en que hubieren incurrido relativos a la compra de bases, siempre que estén debidamente comprobados, debiendo ajustarse a las directrices que para solventar este tipo de asuntos establezcan la SEDECAP o las Contralorías Municipales.
 
 La SEDECAP, el Comité, las Contralorías Municipales y los Comités Municipales, en el ámbito de sus respectivas competencias, podrán realizar las visitas e inspecciones que estimen pertinentes a las adjudicantes e igualmente podrán solicitar a los servidores públicos de las mismas, los licitantes y los proveedores, todos los datos e informes relacionados con los actos de que se trate.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2002)</small>
+
+Para los efectos de la revisión a que se refiere este artículo, las Dependencias y Entidades estarán obligadas a permitir el acceso a los almacenes, bodegas o lugares en los que se presten los servicios o se hallen los bienes, así como a firmar los dictámenes que al efecto se levanten.
 
 ###### ARTÍCULO 134.
 
@@ -1704,3 +1884,23 @@ V. Cuando el monto de la adquisición, arrendamiento o prestación de servicios 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los ocho días del mes de febrero de dos mil uno.- Diputado Presidente.- MOISÉS CARRASCO MALPICA.- Rúbrica.- Diputado Vicepresidente.- JOSÉ FELIPE VELÁZQUEZ GUTIÉRREZ.- Rúbrica.- Diputado Secretario.- IGNACIO SERGIO TÉLLEZ OROZCO.- Rúbrica.- Diputado Secretario.- JOSÉ ALEJANDRO NOCHEBUENA BELLO.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los nueve días del mes de febrero del año dos mil uno.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS ALBERTO JULIÁN Y NÁCER.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE AGOSTO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones administrativas expedidas en esta materia, que se encuentren vigentes al momento de la publicación de este ordenamiento, continuarán aplicándose en todo lo que no se oponga al presente Decreto, en tanto se expiden las que deban sustituirlas.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos de adjudicación, contratación, de aplicación de sanciones y de inconformidades, así como los demás asuntos que se encuentren en trámite, continuarán su tramitación y se resolverán conforme a las disposiciones vigentes al momento en que se iniciaron.
