@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1922-04-04"
+last_updated: "1923-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1923.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -39,9 +39,11 @@ CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 El Estado de Oaxaca declara que su organización gubernativa tiene por objeto el mejoramiento económico, social y político de todos sus habitantes, armonizando los derechos individuales con los de la colectividad.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
+
 ###### ARTICULO 2°.
 
-La Ley es una para todos y de ella emanan la autoridad de los que mandan y las obligaciones de los que obedecen. Los Poderes y funcionarios públicos sólo tienen las facultades que les da la Ley y el hombre puede hacer lo que ella no le prohibe.
+La ley es una para todos y de ella emanan los derechos y las obligaciones de los gobernantes y de los gobernados. Los Poderes y funcionarios públicos sólo tienen las facultades que les dá la ley, y el hombre puede hacer lo que ella no le prohibe.
 
 ###### ARTICULO 3°.
 
@@ -107,9 +109,11 @@ Ningún negocio judicial tendrá más de dos instancias, y el juez que de cualqu
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil. Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho. Los Tribunales estarán expeditos para administrar justicia en los plazos y términos que fije la ley; su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
+
 ###### ARTICULO 12.
 
-Ni la ley, ni las autoridades, reconocerán algún pacto, convenio o contrato que menoscabe la libertad del hombre, ya sea por causa de trabajo, educación, voto religioso o cualquier otro motivo.
+Ni la Ley, ni las autoridades reconocerán algún pacto, convenio o contrato que menoscabe la libertad del hombre, ya sea por causa de trabajo, de educación o voto religioso; ni los que impliquen renuncia de cualquiera de las garantías individuales o de beneficio de derecho en asuntos en que el Estado debe intervenir, para garantizar los intereses sociales.
 
 ###### ARTICULO 13.
 
@@ -225,7 +229,7 @@ El territorio del Estado de Oaxaca es el que posee actualmente conforme a las ju
 
 ## TITULO CUARTO. Del Gobierno del Estado
 
-### CAPITULO I. De la Forma de Gobierno y División de Poderes
+### CAPITULO II. Del Poder Legislativo
 
 ###### ARTICULO 29.
 
@@ -235,7 +239,7 @@ El Estado adopta para su régimen interior la forma de gobierno republicano, rep
 
 El Poder público del Estado se divide, para el ejercicio de sus funciones, en Legislativo, Ejecutivo y Judicial. Estos poderes siempre se ejercerán en la forma y términos establecidos en esta Constitución; en consecuencia, nunca podrán reunirse uno o dos de ellos en cualquiera de los tres; sólo podrán concederse facultades legislativas al Ejecutivo en los términos prevenidos por el artículo 62 de esta Constitución.
 
-### CAPITULO II. Del Poder Legislativo
+### CAPITULO I. De la Forma de Gobierno y División de Poderes
 
 #### SECCION PRIMERA. De la Legislatura
 
@@ -275,17 +279,19 @@ El ejercicio del cargo de Diputado es incompatible con cualquiera comisión o em
 
 ###### ARTICULO 39.
 
-Los presuntos Diputados, propietarios y suplentes, presentarán sus credenciales a la Secretaría de la Legislatura para que sean registradas y se pase lista de ellas en la primera junta previa, que deberá efectuarse el día primero de septiembre. En esta junta se elegirá mesa directiva de las juntas previas, conforme a la fracción I del artículo 41 de esta Constitución.
+Los presuntos Diputados, propietarios y suplentes presentarán sus credenciales a la Secretaría de la Legislatura, para que sean registradas y se pase lista de ellas en la primera junta previa que deberá efectuarse el día primero de septiembre. En esta junta se elegirá Mesa Directiva de las juntas previas, conforme a la fracción I del artículo 41 de esta Constitución.
 
-Si a la primera junta previa de renovación de la Legislatura ninguno de los presuntos propietarios ni suplentes compareciere, los presentes, cualquiera que sea su número, compelerán a los ausentes por documento público a concurrir dentro de un plazo que no excederá de siete días, apercibiéndoles de que si no lo hacen, se entenderá que no aceptan el cargo, y que se convocará a nuevas elecciones por sus respectivos distritos.
+Si a la primera junta previa de renovación de la Legislatura, ninguno de los presuntos propietarios ni suplentes compareciere, los presentes, cualquiera que sea su número, compelerán, a los ausentes por documento público a concurrir dentro de un plazo que no excederá de siete días, apercibiéndolos de que si no lo hacen, se entenderá que no aceptan el cargo, y que se convocará a nuevas elecciones por sus respectivos distritos.
 
-En la segunda junta previa que con este motivo se efectúe, o sea la del día ocho de septiembre, los presentes se declararán en junta permanente hasta completar el quórum necesario con los presuntos propietarios o suplentes. Pero si llegare el día quince de septiembre sin que ninguno de los presuntos se hubiere presentado, los presentes, si constituyeren quórum, harán la instalación de la Legislatura y convocarán en este mismo día a nuevas elecciones; y si no constituyeren quórum, llamarán a sus propios suplentes, sucesivamente y por el orden numérico de los distritos representados, hasta constituir quórum; y una vez constituido, procederán a la instalación de la Legislatura y a la convocatoria respectiva de nuevos Diputados.
+En la segunda junta previa que con este motivo se efectúe, los presentes se declararán en junta permanente hasta completar el quórum necesario con los presuntos propietarios o suplentes. Pero si llegare el día quince de septiembre sin que ninguno de los presuntos se hubiere presentado, los presentes, si constituyeren quórum, harán la instalación de la Legislatura y convocarán en este mismo día a nuevas elecciones; y si no constituyeren quórum, llamarán a sus propios suplentes, sucesivamente y por el orden numérico de los distritos representados, hasta constituir quórum; y una vez constituido procederán a la instalación de la Legislatura y a la convocatoria respectiva de nuevos diputados.
 
 ###### ARTICULO 40.
 
 Dentro de los cinco días siguientes a la celebración de la primera junta, o de la segunda en su caso, se efectuarán todas las que sean necesarias para la calificación de las credenciales, de manera que la Legislatura pueda instalarse el día quince del mismo mes de septiembre, en cuya fecha se hará la elección de Presidente, Vicepresidente y Secretarios, en los términos del Reglamento.
 
 #### SECCION SEGUNDA. De la Instalación de la Legislatura y su Funcionamiento
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
 ###### ARTICULO 41.
 
@@ -301,15 +307,19 @@ IV. Si hubiere dos o más credenciales con los requisitos legales, todas serán 
 
 V. La calificación de la legitimidad de las credenciales será hecha por mayoría absoluta de votos de los presentes, y estas resoluciones serán definitivas.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
+
 ###### ARTICULO 42.
 
 La Legislatura tendrá períodos ordinarios de sesiones dos veces al año; el primer período de sesiones dará principio el día diez y seis de septiembre, y el segundo, el primero de abril del año siguiente; y no podrán prolongarse más que hasta el diez y seis de diciembre y el treinta de junio, respectivamente.
 
-Se reunirá, además, en períodos extraordinarios siempre que sea convocada por la Diputación Permanente, o a petición del Ejecutivo, por conducto de ésta.
+Se reunirá, además, en períodos extraordinarios siempre que sea convocada por la Diputación Permanente o por el Ejecutivo; pero si éste hiciere la convocatoria, no se efectuará antes de diez días de la fecha de la publicación de aquella.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
 ###### ARTICULO 43.
 
-A la apertura de los períodos de sesiones de la Legislatura, asistirá el Gobernador y leerá un informe sobre el estado que guarde la administración pública, si se tratare de período ordinario, o sobre las causas que motivaren la convocatoria al período extraordinario, si ella se hubiere hecho a petición del Ejecutivo. En el caso de que la convocatoria se hubiere hecho por la Diputación Permanente, el informe del Gobernador se limitará a decir que cumplió con el acuerdo de la Diputación haciendo publicar la convocatoria.
+A la apertura de les (sic) períodos de sesiones de la Legislatura, asistirá el Gobernador y leerá un informe sobre el estado que guarda la administración pública, si se tratare de período ordinario, o sobre las causas que motivaren la convocatoria al período extraordinario, si ella se hubiere hecho a petición del Ejecutivo. En el caso de que la convocatoria se hubiere hecho por la Diputación Permanente, el Gobernador enviará el informe, limitándose a hacer constar que cumplió con el acuerdo de la Diputación haciendo publicar la convocatoria.
 
 ###### ARTICULO 44.
 
@@ -445,7 +455,9 @@ XVI. Erigirse en Colegio Electoral para hacer la computación de votos en la ele
 
 XVII. Erigirse en Colegio Electoral para designar Gobernador substituto o interino en los casos que determina la presente Constitución; y para hacer la elección de magistrados del Tribunal Superior de Justicia, Procurador General y Jueces de Primera Instancia, con arreglo a la misma Constitución;
 
-XVIII. Recibir la protesta de los Diputados, Gobernador, Magistrados del Tribunal Superior de Justicia, Procurador General y del Contador Mayor de Glosa;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1923)</small>
+
+XVIII. Recibir la protesta de los Diputados, Gobernador y de los demás funcionarios que ella elija o nombre;
 
 XIX. Conceder licencias a sus propios miembros, al Gobernador y a los demás funcionarios y empleados públicos que ella elija o nombre;
 
@@ -523,25 +535,31 @@ Durante los recesos de la Legislatura habrá una Diputación Permanente que ser�
 
 La Diputación Permanente, además de los períodos de receso, funcionará en el año de la renovación de la Cámara, hasta la declaración de quedar instalada la nueva Legislatura.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
+
 ###### ARTICULO 65.
 
 Son atribuciones de la Diputación Permanente:
 
-I. Acordar por su propia iniciativa o a petición del Ejecutivo, la convocatoria de la Legislatura a período extraordinario de sesiones;
+l. Acordar por su propia iniciativa o a petición del Ejecutivo, la convocación de la Legislatura a paríodo (sic) extraordinario de sesiones.
 
-II. Ampliar por una sola vez el número de asuntos contenidos en la convocatoria, a petición de quien haya solicitado el período extraordinario de sesiones;
+II. Ampliar por una sola vez el número de asuntos contenidos en la convocatoria, a petición de quien haya solicitado el período extraordinario de sesiones.
 
-III. Publicar la convocatoria y su ampliación por medio de su Presidente, siempre que después de tres días de comunicada al Gobierno, éste no le hubiere dado la debida publicidad;
+III. Publicar la convocatoria y su ampliación por medio de su presidente siempre que después de tres días de comunicada al Ejecutivo, éste no le hubiere dada (sic) la debida publicidad.
 
-IV. Recibir la protesta de ley de los funcionarios públicos que deban otorgarla ante la Legislatura;
+IV. Recibir la protesta de ley de los funcionarios públicos que deban otorgarla ante la Legislatura, durante los recesos de ésta.
 
-V. Conceder licencia a los mismos funcionarios a que se refiere la fracción anterior, hasta por todo el tiempo que dure el receso;
+V. Conceder licencia a los mismos funcionarios a que se refiere la fracción anterior, hasta por el tiempo que dure el receso.
 
-VI. Calificar las excusas que presente el Procurador General para intervenir en determinado negocio;
+VI. Resolver todas las renuncias que por causa de urgencia presenten los funcionarios que deban hacerlo ante la Legislatura, en los recesos de ésta.
 
-VII. Nombrar provisionalmente a los empleados de su Secretaría y a los de la Contaduría Mayor de Glosa en caso de falta absoluta y entretanto se reúne la Legislatura;
+VII. Nombrar provisionalmente a los sustitutos de los funcionarios cuyas renuncias hubiere aceptado.
 
-VIII. Las demás que le concede la ley.
+VIII. Nombrar provisionalmente a los empleados de su Secretaría y a los de la Contaduría Mayor de Glosa, en caso de falta absoluta de ellos.
+
+IX. Calificar las excusas que presente el Procurador General para intervenir en determinado negocio.
+
+X. Dictaminar sobre todos los asuntos que queden sin resolución, a efecto de que sigan tramitándose en el período ordinario siguiente.
 
 #### SECCION PRIMERA. Del Gobernador del Estado
 
@@ -721,7 +739,9 @@ V. Intervenir en las funciones del poder judicial, ni dictar providencia alguna 
 
 VI. Salir del territorio del Estado sin la previa licencia de la Legislatura, y en sus recesos, de la Diputación Permanente;
 
-VII. Salir de la capital del Estado sin permiso de la Legislatura, y en su receso, de la Diputación Permanente, por un período de tiempo que exceda de tres días, y aun en este caso, sin dar aviso al Poder Legislativo;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1923)</small>
+
+VII. Salir de la Capital del Estado sin permiso de la Legislatura y en sus recesos, de la Diputación Permanente, por más de tres días;
 
 VIII. Distraer las rentas públicas del Estado de los objetos a que estén destinadas por las leyes;
 
@@ -833,9 +853,11 @@ Los Ayuntamientos serán electos en una sola elección. Una vez elegidos el Pres
 
 Para ser miembro de un Ayuntamiento se requiere: ser ciudadano mexicano en el ejercicio de sus derechos, vecino del Municipio y tener un modo honesto de vivir. Por cada miembro del Ayuntamiento que se elija como propietario se elegirá un suplente.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
+
 ###### ARTICULO 102.
 
-No pueden ser miembros de los Ayuntamientos: los militares en servicio activo ni los individuos de las fuerzas de seguridad pública del Estado. Tampoco podrán serlo los empleados públicos del Estado o de la Federación, a menos que se separen del servicio activo los primeros, o de sus cargos los segundos, noventa días antes de la elección.
+No pueden ser electos miembros de los Ayuntamientos: los militares en servicio activo ni los individuos de las fuerzas de seguridad pública del Estado. Tampoco podrán serlo los empleados públicos del Estado o de la Federación, a menos que se separen del servicio activo los primeros, o de sus cargos los segundos, noventa días antes de la elección.
 
 ###### ARTICULO 103.
 
@@ -959,9 +981,15 @@ Se declaran revisables todos los contratos y concesiones hechos por los gobierno
 
 Toda autoridad que no emane de la Constitución y leyes federales, de la Constitución y leyes del Estado, no podrá ejercer en él mando ni jurisdicción;
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
+
 ###### ARTICULO 158.
 
 En el Estado, ningún ciudadano puede desempeñar a la vez dos o más cargos de elección popular directa o indirecta; pero el electo debe optar entre ellos el que quiera desempeñar definitivamente.
+
+Tampoco podrá desempeñar empleo ni cargo público de elección popular, cualquier ciudadano que disfrute de fuero federal.
+
+El requisito de la edad a los funcionarios a quienes se exige la de treinta y cinco años para el ejercicio de su encargo, exceptuando el de Gobernador, puede ser dispensado en circunstancias especiales, calificadas por la Legislatura, pero nunca ni por ningún motivo se dispensarán más de cinco años de edad.
 
 ###### ARTICULO 159.
 
@@ -971,11 +999,13 @@ Nunca podrán desempeñar a la vez por un solo individuo dos o más empleos o ca
 
 Ningún pago podrá hacerse que no esté comprendido en el Presupuesto respectivo o determinado por la ley.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
+
 ###### ARTICULO 161.
 
-El Gobernador, los diputados, los magistrados del Tribunal Superior de Justicia y demás funcionarios y empleados públicos del Estado, así como los miembros de los Ayuntamientos, alcaldes y empleados municipales, recibirán una compensación por sus servicios, determinada por la ley. Esta compensación no es renunciable, y la ley que la aumente o disminuya no podrá tener efecto para los altos funcionarios durante el período en que éstos ejerzan su encargo.
+Todos los funcionarios y empleados públicos del Estado y de los Municipios recibirán por sus servicios una compensación pecuniaria determinada por la ley respectiva; esta compensación no es renunciable, y la ley que la aumente o disminuya no podrá surtir efecto para el Gobernador y Diputados y para los funcionarios municipales, durante el período en que éstos ejerzan en su cargo.
 
-Toda ministración de dinero, todo emolumento o gratificación concedida a los referidos funcionarios, ya sea por causa de gastos de representación, sobresueldo o cualquiera otra, se considerará como fraude al Estado, y las leyes y las autoridades impondrán las penas correspondientes tanto a quien las autorice como a quien las reciba.
+Toda ministración de dinero, todo emolumento o gratificación concedida a los referidos funcionarios, ya sea por concepto de gastos de representación, sobresueldo o cualquier otro, se considerará como fraude al Estado, y las leyes y las autoridades impondrán las penas correspondientes, así a quien las autorice como a quien las reciba.
 
 ###### ARTICULO 162.
 
@@ -1077,7 +1107,9 @@ VIII. Dirimir las competencias de jurisdicción que se susciten entre los jueces
 
 IX. Proponer a la Legislatura las ternas para el nombramiento de jueces de primera instancia;
 
-X. Conceder licencias a los jueces, secretarios y empleados del poder judicial en la forma que determinen las leyes;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1923)</small>
+
+X. Conceder licencias a los empleados de su nombramiento en la forma que determinen las leyes;
 
 XI. Formar el reglamento interior del Tribunal, pasándolo a la Legislatura para su aprobación;
 
@@ -1111,11 +1143,13 @@ El Ministerio Público es órgano del Estado y a su cargo está velar por la exa
 
 El Ministerio Público será desempeñado por un funcionario que se denominará Procurador General de Justicia y por los Agentes que fija la ley.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
+
 ###### ARTICULO 135.
 
-El Procurador General de Justicia será nombrado por la Legislatura, a propuesta del Ejecutivo. Si éste propusiere a una sola persona, la Legislatura, podrá rechazar hasta tres proposiciones, sin que en las subsecuentes puedan figurar como candidatos los que no hubieren sido aceptados.
+El Procurador General de Justicia será nombrado por la Legislatura, a propuesta del Ejecutivo. Si éste propusiere a una sola persona, la Legislatura podrá rechazar hasta tres proposiciones, sin que en las subsecuentes puedan figurar como candidatos los que no hubieren sido aceptados.
 
-Los Agentes serán nombrados por el Procurador General y los nombramientos serán ratificados por el Ejecutivo, designándose por lo menos un Agente por cada Juzgado de primera instancia.
+Los agentes serán nombrados por el Procurador General y los nombramientos serán ratificados por el Ejecutivo, designándose, por lo menos, un agente para cada Juzgado de Primera Instancia; pero en los distritos en que haya dos o más Juzgados del mismo ramo e igual categoría, se podrá nombrar un agente para dos o más de ellos.
 
 ###### ARTICULO 136.
 
@@ -1193,9 +1227,13 @@ Dentro del término de quince días, a partir de la fecha en que entre en vigor 
 
 El derecho de inamovilidad de los Magistrados y Jueces, sólo se adquirirá después de haber servido sucesivamente períodos de dos y cuatro años, los primeros; y de uno, dos y tres, los segundos. En caso de substitución definitiva de un Magistrado, ésta se hará por el Juez más antiguo.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
+
 ###### ARTICULO 4°.
 
-A falta de letrados, la Legislatura nombrará Jueces legos, con el carácter de accidentales, pudiendo removerlos libremente.
+A falta de letrados, se nombrarán jueces y agentes del Ministerio Público, legos; pero para que los designados tomen posesión de su respectivo cargo, es necesario que acrediten previamente ante un jurado formado por tres letrados, nombrados por el Tribunal Superior de Justicia o por el Procurador, respectivamente, que tienen conocimientos aunque sólo sean elementales en Derecho Constitucional, Derecho Penal, Civil y Mercantil, y en los respectivos códigos de procedimientos.
+
+Los jueces nombrados conforme a esta disposición no adquieren el derecho de inamovilidad; en consecuencia, los jueces legos y los agentes letrados y legos, pueden ser removidos libremente.
 
 ###### ARTICULO 5°.
 
@@ -1250,3 +1288,9 @@ Dado en el Palacio de los Poderes del Estado, en la ciudad de Oaxaca de Juárez,
 Y lo comunico a usted para su conocimiento y demás efectos.
 
 SUFRAGIO EFECTIVO NO REELECCION.- Oaxaca de Juárez, a quince de abril de mil novecientos veintidós.- Campos Ortega.- Al C....
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+P.O. 28 DE FEBRERO DE 1923.
+
+EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
