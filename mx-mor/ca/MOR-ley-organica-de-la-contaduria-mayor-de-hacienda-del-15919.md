@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-contaduria-mayor-de-hacienda-del-15919"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-05-19"
-last_updated: "2000-09-01"
+last_updated: "2001-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15919&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2001.
 
 Ley Publicada en el Periódico Oficial del Estado de Morelos, el día 19 de mayo de 1999.
 
@@ -77,11 +77,11 @@ Las entidades que se mencionan en el artículo 3 y que administren recursos púb
 
 Al frente de la Contaduría Mayor de Hacienda, como autoridad ejecutiva estará el Contador Mayor de Hacienda, designado por la Comisión de Régimen Interno y Concertación Política en términos de lo previsto por el artículo 38, inciso g) de su Ley Orgánica, auxiliado en sus actividades por la plantilla de servidores públicos, que designará y removerá libremente, y con la infraestructura física necesaria para el cabal desempeño de sus funciones, su gasto quedará incluido en el Presupuesto Anual de Egresos del Congreso del Estado conforme a la Ley Orgánica del Congreso del Estado de Morelos y su Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2001)</small>
 
 ###### ARTICULO 7.
 
-La Contaduría Mayor de Hacienda revisará la Cuenta Pública del Gobierno del Estado, de los Municipios, y de las entidades señaladas en la presente ley.
+La Contaduría Mayor de Hacienda revisará la Cuenta Pública del Gobierno del Estado, de los Municipios, y de las entidades señaladas en la presente Ley; se entiende por Gobierno del Estado a los Poderes Legislativo, Ejecutivo y Judicial, los Organismos Autónomos y los Organismos Auxiliares del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -530,3 +530,9 @@ DECRETO NO. 1229.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Informativo del Gobierno del Estado de Morelos.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a su implementación y cumplimiento.
+
+P.O. 14 DE FEBRERO DE 2001.
+
+PRIMERO.- Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para los efectos señalados en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
