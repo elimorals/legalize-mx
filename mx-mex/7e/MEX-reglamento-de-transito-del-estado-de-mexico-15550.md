@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-transito-del-estado-de-mexico-15550"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-21"
-last_updated: "1992-09-21"
+last_updated: "1996-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE TRÁNSITO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE FEBRERO DE 1996.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 21 de septiembre de 1992.
 
@@ -461,9 +461,11 @@ VII.- Pagar los derechos respectivos.
 
 Se podrá expedir licencia a toda persona que padezca de incapacidad física para conducir normalmente, siempre que cuente, según la deficiencia, con anteojos, prótesis u otros aparatos que la permitan hacerlo sin riesgo alguno y que el vehículo que pretenda conducir esté provisto de los mecanismos idóneos para ello, previa demostración.
 
+> <small>(REFORMADO, G.G. 1 DE FEBRERO DE 1996)</small>
+
 ###### Artículo 44.
 
-Las licencias para conducir vehículos tendrán una vigencia de cuatro años. Para su reposición y reexpedición será necesario entregar la licencia vencida y pagar los derechos y en su caso las multas. Tratándose de licencia de conductor de ómnibus, el interesado deberá presentar además el examen de conservación de aptitudes para manejar y aprobar los exámenes médico y psicométrico.
+Las licencias para conducir vehículos podrán tener una vigencia de 1 a 4 años. Para su reposición y reexpedición será necesario entregar la licencia vencida, pagar los derechos y, en su caso, las multas. Tratándose de licencia de conductor de ómnibus, el interesado deberá presentar además, el examen de conservación de aptitudes para manejar, y aprobar los exámenes médico y psicométrico.
 
 ###### Artículo 45.
 
@@ -1460,3 +1462,13 @@ LIC. IGNACIO PICHARDO PAGAZA.
 EL SECRETARIO DE GOBIERNO
 
 LIC. HUMBERTO LIRA MORA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 1 DE FEBRERO DE 1996.
+
+PRIMERO.- Publíquese el presente decreto en la Gaceta del Gobierno.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta del Gobierno.
+
+TERCERO.- La Secretaría General de Gobierno, dentro de sus atribuciones, proveerá lo necesario para el cumplimiento del presente decreto.
