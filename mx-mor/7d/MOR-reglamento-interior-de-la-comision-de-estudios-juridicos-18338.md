@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-comision-de-estudios-juridicos-18338"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-05"
-last_updated: "2000-04-05"
+last_updated: "2003-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18338&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE ESTUDIOS JURIDICOS DEL GOBIERNO DEL ESTADO
 
-REGLAMENTO INTERIOR DE LA COMISION DE ESTUDIOS JURIDICOS DEL GOBIERNO DEL ESTADO
+REGLAMENTO INTERIOR DE LA COMISION DE ESTUDIOS JURIDICOS DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 5 de abril de 2000.
 
@@ -31,17 +31,23 @@ Al margen izquierdo un Escudo del Estado de Morelos que dice.- La Tierra Volver�
 
 LA COMISIÓN DE ESTUDIOS JURÍDICOS DEL GOBIERNO DEL ESTADO DE MORELOS, EN CUMPLIMIENTO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO QUE LA CREA, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-REGLAMENTO INTERIOR DE LA COMISIÓN DE ESTUDIOS JURÍDICOS DEL GOBIERNO DEL ESTADO.
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE ABRIL DE 2003)</small>
+
+REGLAMENTO INTERIOR DE LA COMISIÓN DE ESTUDIOS JURÍDICOS DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
 
 ### CAPÍTULO PRIMERO. GENERALIDADES
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2003)</small>
+
 ###### ARTÍCULO 1.
 
-La Comisión de Estudios Jurídicos del Gobierno del Estado de Morelos, tiene como objetivo la coordinación en materia jurídica de las Dependencias y Entidades de la Administración Pública Estatal, con el fin de unificar criterios en la toma de decisiones.
+La Comisión de Estudios Jurídicos del Poder Ejecutivo del Estado de Morelos tiene como objetivo la coordinación en materia jurídica de las dependencias y entidades de la Administración Pública Estatal, con el fin de unificar criterios en la toma de decisiones.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2003)</small>
 
 ###### ARTÍCULO 2.
 
-El presente ordenamiento reglamentará la organización y funciones de la Comisión de Estudios Jurídicos del Gobierno del Estado.
+El presente ordenamiento reglamentará la organización y funciones de la Comisión de Estudios Jurídicos del Poder Ejecutivo del Estado.
 
 ### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN
 
@@ -51,11 +57,15 @@ La Comisión de Estudios Jurídicos estará integrada por:
 
 a).- Consejero Jurídico, quién fungirá como presidente de la Comisión;
 
-b).- Director General de Asuntos Jurídico-Administrativos, quien fungirá como Secretario Técnico de la Comisión;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2003)</small>
+
+b).- Director General de Legislación, quien fungirá como Secretario Técnico de la Comisión;
 
 c).- Director General de Asuntos Jurídico-Contenciosos;
 
-d).- Director General de Legislación y Reglamentación; y (sic)
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2003)</small>
+
+d).- Director General de Consultoría en Asuntos Administrativos;
 
 e).- El Director General de Asuntos Laborales y Amparos; y
 
@@ -85,9 +95,11 @@ o).- Contraloría General del Estado.
 
 ### CAPÍTULO TERCERO. DE LA COMISIÓN
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2003)</small>
+
 ###### ARTÍCULO 4.
 
-La Comisión de Estudios Jurídicos del Gobierno del Estado, tendrá las funciones contenidas en el artículo quinto del acuerdo que crea a la misma.
+La Comisión de Estudios Jurídicos del Poder Ejecutivo, tendrá las funciones contenidas en el artículo quinto del acuerdo que la crea.
 
 ### CAPÍTULO CUARTO. DEL SECRETARIO TÉCNICO
 
@@ -113,9 +125,11 @@ Las sesiones de la Comisión de Estudios Jurídicos, podrán ser ordinarias o ex
 
 La Comisión sesionará ordinariamente el primer lunes de cada mes previa convocatoria que al efecto se haga, para tratar los asuntos de su competencia. Las sesiones extraordinarias podrán celebrarse dependiendo de la importancia o urgencia del caso, cuantas veces sea necesario y no podrán tratarse los asuntos generales que sean de mero trámite.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2003)</small>
+
 ###### ARTÍCULO 8.
 
-La Comisión podrá sesionar siempre que estén presentes la mitad más uno de sus integrantes, pero invariablemente tendrá que asistir el titular de la Consejería Jurídica o el Director General de Asuntos Jurídico Administrativos.
+La Comisión podrá sesionar siempre que estén presentes la mitad más uno de sus integrantes, pero invariablemente tendrá que asistir el titular de la Consejería Jurídica o el Director General de Legislación.
 
 ###### ARTÍCULO 9.
 
@@ -204,3 +218,11 @@ LIC. MA. REYNA VALENCIA REYES
 LIC. JOSÉ LUIS PÁEZ DORANTES
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE ABRIL DE 2003.
+
+PRIMERO. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido de este decreto.
