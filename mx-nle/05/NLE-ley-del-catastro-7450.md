@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "1978-12-25"
+last_updated: "1979-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1979.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -133,17 +133,17 @@ El valor de la tierra y el de las mejoras que ésta contenga, será determinado 
 
 Las Bases Generales de Valor por Unidades Tipo deberán ser del dominio público mediante exhibición de las mismas en los estrados del Palacio de Gobierno y en las oficinas Recaudadoras de Rentas de los Municipios respectivos.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 19o.
 
-Las Bases Generales de Valores serán objeto de revisión cada dos años, para la propiedad urbana y sub-urbana, y cada cinco años para propiedad rústica.
+Las Bases Generales de Valores tienen vigencia durante tres años, para la propiedad urbana y sub-urbana, y durante cinco años para la propiedad rústica. Pasados dichos plazos de vigencia, las Bases Generales de Valores podrán ser objeto de revisión, en la inteligencia de que si ésta no se practica, subsistirán las Bases Generales de Valores existentes.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 20o.
 
-Las Bases Generales por Unidades Tipo, aprobadas para cada período de 2 ó 5 años, a que se refiere el Artículo anterior, no podrán ser modificadas en el curso de ese tiempo, a menos que deban introducirse nuevos valores unitarios o cuando sea indispensable crear una nueva categoría no prevista en la tabla original, ya sea por motivo de ampliación de zonas urbanas o sub-urbanas, o por cualquier otra causa.
+Las Bases Generales por Unidades Tipo, aprobadas para cada período de tres o cinco años, a que se refiere el Artículo anterior, no podrán ser modificadas en el curso de ese tiempo, a menos que deban introducirse nuevos valores unitarios o cuando sea indispensable crear una nueva categoría no prevista en la tabla original, ya sea por motivo de ampliación de zonas urbanas o sub-urbanas, o por cualquier otra causa.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
@@ -276,3 +276,13 @@ P.O. 25 DE DICIEMBRE DE 1978.
 ###### ARTICULO SEGUNDO
 
 - Se derogan las disposiciones que se opongan al fiel y exacto cumplimiento de esta Ley.
+
+P.O. 26 DE DICIEMBRE DE 1979.
+
+###### ARTICULO PRIMERO.
+
+El Presente Decreto surtirá sus efectos a partir del día 1o. de Enero de 1980.
+
+###### ARTICULO SEGUNDO.
+
+Se dejan sin efecto todas las disposiciones que se contrapongan con el contenido de este Decreto.
