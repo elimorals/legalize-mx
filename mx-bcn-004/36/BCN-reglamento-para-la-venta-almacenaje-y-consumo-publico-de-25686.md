@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-25686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2003-02-14"
+last_updated: "2003-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2003.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de mayo de 2002.
 
@@ -629,11 +629,11 @@ El permiso eventual que se expida contendrá el nombre de la persona física o m
 
 El permiso se otorgara previo pago de derechos de acuerdo a las tarifas establecidas para el evento a realizarse en la Ley de Ingresos Municipal vigente.
 
-> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 39.
 
-Los ciudadanos que soliciten el otorgamiento de un permiso permanente, se ubicaran a una distancia de 100 metros entre establecimientos del mismo giro, siendo estos los que expendan bebidas alcohólicas en envase cerrado, a excepción de aquellos en que sea la venta para consumo exclusivamente con alimentos o se establezcan en zonas que el Ayuntamiento determine como hoteleras, restauranteras o turísticas, además se ubicaran a una distancia de 150 metros de cualquier centro escolar, hospital o iglesias. Dichas distancias se tomaran a partir del lindero más próximo de los lugares citados al lindero que tiene la puerta principal del solicitante.
+Los ciudadanos que soliciten el otorgamiento de un permiso permanente, se ubicarán a una distancia de 100 metros entre establecimientos o giro similar, siendo los establecimientos y giros similares aquellos que expendan bebidas con graduación alcohólica en envase cerrado, a excepción de aquellos en que sea la venta para consumo exclusivamente con alimentos o se establezcan en zonas que el Ayuntamiento determine como hoteleras, restauranteras o turísticas, y comerciales, además se ubicarán a una distancia de 150 metros de cualquier centro escolar, hospital o iglesias y centros deportivos u otros giros similares. Dichas distancias se tomarán a partir del lindero más próximo al lindero que tiene la puerta principal del solicitante.
 
 ### CAPITULO SEXTO. DE LAS REVALIDACIONES
 
@@ -1226,3 +1226,9 @@ P.O. 14 DE FEBRERO DE 2003.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones u ordenamientos que contravengan a la presente reforma.
+
+P.O. 6 DE JUNIO DE 2003.
+
+PRIMERO.- La presente reforma y adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberán publicarse en un periódico de mayor circulación en la localidad para el conocimiento de los vecinos.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a la presente reforma y adición.
