@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1941-06-28"
+last_updated: "1942-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1941.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 1942.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -413,7 +413,7 @@ El promovente de diligencias de jurisdicción voluntaria, así como los litigant
 
 La remuneración del notario no se regulará en las costas, sino cuando fuere designado de común acuerdo.
 
-> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
+(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
 
 ###### Artículo 69.
 
@@ -485,7 +485,7 @@ III. Decretos, todas las demás no comprendidas en las anteriores;
 
 Todas las resoluciones judiciales serán autorizadas con la firma entera de los Magistrados, Jueces o Secretarios que intervengan.
 
-> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
+(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
 
 ###### Artículo 81.
 
@@ -1663,7 +1663,7 @@ Se presumen confesados los hechos de la demanda que se dejó de contestar.
 
 El demandado que oponga reconvención o compensación lo hará precisamente al contestar la demanda y nunca después; y se dará traslado del escrito al actor, para que conteste en el término de seis días, observándose respecto de éste y del demandado, las mismas reglas que quedan establecidas en los artículos 265 y siguientes.
 
-> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
+(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
 
 ###### Artículo 273.
 
@@ -1731,7 +1731,7 @@ Los autos en que se niegue alguna providencia de prueba, son apelables en ambos 
 
 Los hechos notorios no necesitan ser probados, y el juez puede invocarlos aunque no hayan sido alegados por las partes.
 
-> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
+(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
 
 ###### Artículo 285.
 
@@ -2549,7 +2549,7 @@ II. Las sentencias de que hecha notificación en forma, no se interpone recurso 
 
 III. Las sentencias de que se interpuso recurso, pero no se continuó en forma y término legales o se desistió de él la parte o su mandatario con poder o cláusula especial.
 
-> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
+(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
 
 ###### Artículo 420.
 
@@ -2557,7 +2557,7 @@ En los casos a que se refiere la fracción I del artículo anterior, el juez de 
 
 En el caso de la fracción II, la declaración se hará sustanciando el artículo con un escrito de cada parte. Los términos serán tres días para contestar y otros tres para dictar la resolución. Si hubiere deserción o desistimiento del recurso, la declaración la hará el tribunal o el juez en su caso.
 
-> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
+(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
 
 ###### Artículo 421.
 
@@ -2771,7 +2771,7 @@ El contrato de compraventa concertado bajo la condición resolutoria de la falta
 
 Procede también la acción ejecutiva para recuperar, bajo las mismas condiciones indicadas en el artículo anterior, el bien que se enajenó con reserva del dominio hasta la total solución del precio.
 
-> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
+(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
 
 ###### Artículo 450.
 
@@ -2873,7 +2873,7 @@ El deudor que no quiera aceptar la responsabilidad de depositario, entregará de
 
 Expedida la cédula hipotecaria, no podrá verificarse en la finca hipotecada ninguno de los actos en ella expresados, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en fecha a la demanda que ha motivado la expedición de la cédula o de la providencia dictada a petición de acreedor de mejor derecho.
 
-> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
+(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
 
 ###### Artículo 471.
 
@@ -3023,7 +3023,7 @@ Si la sentencia no contiene cantidad líquida, la parte a cuyo favor se pronunci
 
 Cuando la sentencia hubiere condenado al pago de daños y perjuicios sin fijar su importe en cantidad líquida, háyanse establecido o no en aquélla las bases para la liquidación, el que obtuvo a su favor el fallo presentará con su solicitud, relación de los daños y perjuicios y de su importe. De esta regulación se correrá traslado al condenado, observándose lo prevenido en el artículo anterior.
 
-> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
+(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
 
 Lo mismo se practicará cuando la cantidad ilíquida proceda de frutos, rentas o productos de cualquiera clase.
 
@@ -3033,7 +3033,7 @@ Si la sentencia condena a hacer alguna cosa, el Juez señalará al que fue conde
 
 Si pasado el plazo el obligado no cumpliere, se observarán las reglas siguientes:
 
-> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
+(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
 
 I. Si el hecho fuere personal del obligado y no puede prestarse por otro, se le compelará (sic) por los medios de apremio más eficaces sin perjuicio del derecho para exigirle la responsabilidad civil;
 
@@ -3321,7 +3321,7 @@ De todo embargo de bienes raíces se tomará razón en el Registro Público de l
 
 Cuando se aseguren créditos, el secuestro se reducirá a notificar al deudor o a quien deba pagarlos, que no verifique el pago, sino que retenga la cantidad o cantidades correspondientes a disposición del juzgado, apercibido de doble pago en caso de desobediencia; y al acreedor contra quien se haya dictado el secuestro, que no disponga de esos créditos, bajo las penas que señala el Código Penal. Si llegare a asegurarse el título mismo del crédito, se nombrará un depositario que lo conserve en guarda, quien tendrá obligación de hacer todo lo necesario para que no se altere ni menoscabe el derecho que el título representa, y de intentar todas las acciones y recursos que la ley conceda para hacer efectivo el crédito, quedando sujeto, además a las obligaciones que impone el Código Civil en sus disposiciones relativas al secuestro.
 
-> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
+(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
 
 ###### Artículo 542.
 
@@ -4179,11 +4179,11 @@ Si el recurso se hubiere interpuesto contra una sentencia, se dejará en el Juzg
 
 Si se tratare de un auto se remitirá al Tribunal copia de lo que el apelante señale como conducente, agregándose las constancias que la parte contraria juzgue necesarias, a no ser que el recurrente prefiera esperar la remisión de los autos originales cuando éstos se hallen en estado. Si el apelante dentro del término de tres días no señala al Juzgado las constancias que deban remitirse al Superior, se remitirá solo la resolución recurrida con las constancias que señale la parte apelada. Si ésta dentro de un plazo de tres días no señalare las constancias que le corresponden, se remitirán con la resolución recurrida, solamente las que el apelante hubiere señalado. En la omisión del ejercicio de su derecho por las partes, se remitirá al Superior solamente la misma resolución que motivó el recurso.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 1942)</small>
 
 ###### Artículo 692.
 
-Salvo los casos expresamente exceptuados en este Código, las sentencias son apelables en el efecto devolutivo cuando el interés del negocio sea hasta de quinientos pesos, y en ambos efectos cuando dicho interés exceda de esa cantidad.
+Salvo los casos expresamente exceptuados en este Código, las sentencias de los juicios cuyo interés exceda de quinientos pesos, son apelables en ambos efectos.
 
 ###### Artículo 693.
 
@@ -4243,11 +4243,9 @@ Admitido el recurso en su legal procedencia y recibidas, en su caso, las constan
 
 Bastará la enumeración sencilla que haga la parte de los errores o violaciones de derecho que en su concepto, se cometieron en la sentencia, para tener por expresados los agravios.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
-
 ###### Artículo 702.
 
-Si el apelante no se presenta a continuar el recurso ante la Sala, dentro del plazo que el Juez le señaló, o presentado el recurrente, no expresa sus agravios en el término de Ley, se le tendrá por desistido del recurso, haciendo la Sala la declaración de quedar ejecutoriada la sentencia apelada, y comunicándola al Inferior.
+En el caso de que el apelante no se presente a continuar el recurso dentro del término que le señaló el juez o de que no exprese agravios en el término de ley, se le tendrá por desistido del recurso, haciendo la declaración correspondiente al Superior, previa certificación de la falta de presentación o de la expresión de agravios.
 
 ###### Artículo 703.
 
@@ -4713,7 +4711,7 @@ Al promoverse el juicio sucesorio, debe presentarse la partida de defunción del
 
 Cuando con fundamento en la declaración de ausencia o de presunción de muerte de un ausente, se haya abierto sucesión si durante la secuela del juicio se hace constar la fecha de la muerte, desde ella se entenderá abierta la sucesión y cesando en sus funciones el representante, se procederá al nombramiento del interventor o albacea con arreglo a derecho.
 
-> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
+(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
 
 ###### Artículo 775.
 
@@ -5673,7 +5671,7 @@ Previa la aceptación del tutor designado y la prestación de la garantía en la
 
 No se exigirá fianza a los tutores interinos cuando no tengan administración de bienes.
 
-> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
+(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
 
 ###### Artículo 943.
 
@@ -5897,7 +5895,7 @@ Rendidas las justificaciones que se exigen en el artículo anterior y obtenido e
 
 Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el Juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo que dispone en el artículo 408 del Código Civil.
 
-Si el adoptante fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción y sin oír al representante del Ministerio Público.
+Si el adoptante fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción y sin oir al representante del Ministerio Público.
 
 Para acreditar cualquier hecho relativo a la conveniencia de la revocación en los casos del artículo anterior, podrán rendirse toda clase de pruebas.
 
@@ -6312,6 +6310,16 @@ P.O. 28 DE JUNIO DE 1941.
 ###### Artículo 1o.
 
 La tramitación de los recursos pendientes al entrar en vigor este Decreto, continuará sujetándose a las disposiciones actualmente vigentes, hasta su resolución definitiva.
+
+###### Artículo 2o.
+
+Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial.
+
+P.O. 20 DE ENERO DE 1942.
+
+###### Artículo 1o.
+
+Las apelaciones de negocios civiles pendientes de resolución, al entrar en vigor este Decreto, seguirán tramitándose hasta su terminación legal.
 
 ###### Artículo 2o.
 
