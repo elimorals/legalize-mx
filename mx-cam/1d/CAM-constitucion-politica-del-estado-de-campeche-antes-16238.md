@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2001-02-02"
+last_updated: "2001-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE -ANTES CONSTITUCION POLITICO-SOCIAL DEL ESTADO DE CAMPECHE-
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE NOVIEMBRE DE 2001 EN EL PERIÓDICO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -421,7 +423,9 @@ El Congreso del Estado se compondrá de representantes electos directamente en s
 
 El Congreso estará integrado por veintiún diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y por catorce diputados que serán asignados según el principio de representación proporcional, mediante el sistema de listas propuestas en una circunscripción plurinominal. Por cada diputado propietario de mayoría relativa se elegirá un suplente. Los diputados de representación proporcional no tendrán suplentes; sus vacantes serán cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista respectiva.
 
-La demarcación territorial de los veintiún distritos electorales uninominales será la que resulte de dividir la población total del Estado entre los distritos señalados. Para el efecto de la asignación de diputados según el principio de representación proporcional, el territorio del Estado se constituirá en una sóla circunscripción electoral plurinominal.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2001)</small>
+
+La demarcación territorial de los veintiún distritos electorales uninominales será la que resulte de dividir la población total del Estado entre los distritos señalados. La distribución de los distritos electorales uninominales entre los Municipios del Estado se hará teniendo en cuenta el último censo general de población, sin que en ningún caso alguno de ellos quede sin representación particular ante el Congreso por no contar con, cuando menos, un diputado de mayoría relativa. Para el efecto de la asignación de diputados según el principio de representación proporcional, el territorio del Estado se constituirá en una sóla circunscripción electoral plurinominal.
 
 La asignación de los diputados, según el principio de representación proporcional, se sujetará a las bases generales siguientes y a lo que sobre el particular disponga la ley:
 
@@ -429,7 +433,7 @@ a). Para obtener el registro de sus listas de candidatos a diputados de represen
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
 
-b) Todo partido político que alcance por lo menos el tres por ciento del total de la votación emitida en la circunscripción plurinominal, tendrá derecho a que le sean atribuidos diputados, según el principio de representación proporcional;
+b). Todo partido político que alcance por lo menos el tres por ciento del total de la votación emitida en la circunscripción plurinominal, tendrá derecho a que le sean atribuidos diputados, según el principio de representación proporcional;
 
 c). Al partido político que cumpla con lo dispuesto por las dos bases anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su votación estatal emitida, el número de diputados de su lista que le corresponda en la circunscripción plurinominal. En la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes;
 
@@ -705,7 +709,7 @@ VIII.- Conceder amnistía por delitos cuyo conocimiento corresponda a los Tribun
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2000)</small>
 
-IX.- Expedir su Ley Orgánica y los reglamentos que sean necesarios para regular su estructura y funcionamiento, incluyendo a la entidad de fiscalización superior del Estado, la cual tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la propia ley. La Ley Orgánica del Poder Legislativo y reglamentos que de ella emanen no podrán ser vetados ni necesitarán promulgación del Ejecutivo del Estado para tener vigencia.
+IX.- Expedir su Ley Orgánica y los reglamentos que sean necesarios para regular su estructura y funcionamiento, incluyendo a la entidad de fiscalización superior del Estado, la cual tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la propia ley. La Ley Orgánica del Poder Legislativo y reglamentos que de ella emanen no podrán ser vetados ni necesitarán promulgación del Ejecutivo del Estado para tener vigencia;
 
 X.- Recibir la protesta del Gobernador, Magistrados y Diputados;
 
@@ -785,7 +789,7 @@ XXXIII.- Nombrar un Concejo Municipal cuando debiendo renovarse un Ayuntamiento 
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 1983)</small>
 
-XXXIV.- Por acuerdo de las dos terceras partes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna causa grave prevista por la Ley, siempre y cuando sus miembros hayan tenido oportunidad para rendir las pruebas y hacer los alegatos que a su juicio convengan.
+XXXIV.- Por acuerdo de las dos terceras partes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna causa grave prevista por la Ley, siempre y cuando sus miembros hayan tenido oportunidad para rendir las pruebas y hacer los alegatos que a su juicio convengan;
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
@@ -1373,7 +1377,9 @@ X.- Crear nuevas salas, y ampliar o suprimir las ya existentes, en términos de 
 
 ### CAPITULO XX. De las Reformas a la Constitución
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE NOVIEMBRE DE 2001 EN EL PERIÓDICO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 89.
 
@@ -1683,11 +1689,11 @@ Ningún individuo podrá desempeñar a la vez dos cargos de elección popular, c
 
 Los funcionarios rendirán la protesta ante quien corresponda en la siguiente forma: "La autoridad que reciba la protesta dirá: "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de ……. que el Estado os ha conferido?". El interrogado contestará; "Sí, protesto". Acto continuo la misma autoridad que tome la protesta, dirá: "Si no lo hiciéreis así, que la Nación y el Estado os lo demanden".
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 119.
 
-Todos los funcionarios estatales y municipales de elección popular y por nombramiento, recibirán una remuneración por sus servicios.
+Todos los servidores públicos del Estado y de los Municipios, de elección popular y por nombramiento, percibirán una remuneración adecuada e irrenunciable por sus servicios, la cual no podrá ser disminuida durante el tiempo de su encargo y tendrán derecho a disfrutar de los beneficios de seguridad y servicios sociales que señala la ley de la materia.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1757,13 +1763,13 @@ Ninguna disposición de esta Ley fundamental producirá efecto, cuando contraven
 
 ###### ARTICULO 130.
 
-Esta Constitución puede ser adicionada o reformada; pero para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso del Estado, por mayoría de votos, las acuerde y que sean aprobadas también por la mayoría de los Ayuntamientos del Estado.
+La presente Constitución puede ser modificada mediante la reforma, adición o derogación de alguno de sus preceptos. Para que la modificación surta efectos se requerirá que sea probada por las dos terceras partes de los diputados presentes en la respectiva sesión y por la mayoría de los Ayuntamientos de los Municipios del Estado.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 131.
 
-El Congreso del Estado hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
+El Congreso del Estado, o la Diputación Permanente en los recesos de aquél, hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada o no la modificación, procediendo a expedir el respectivo decreto en el primero de dichos casos.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -2178,3 +2184,7 @@ Segundo.- Entretanto la Entidad de Fiscalización Superior del Estado, a que se 
 P.O. 2 DE FEBRERO DE 2001.
 
 Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2001.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
