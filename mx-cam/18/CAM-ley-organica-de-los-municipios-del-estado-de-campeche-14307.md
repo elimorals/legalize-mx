@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "1994-05-23"
+last_updated: "1994-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 1994.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -269,9 +269,13 @@ V.- Las poblaciones, ejidos, rancherías y heredades que constituyen la circunsc
 
 A la Ciudad del Carmen, Cabecera del Municipio corresponden:
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
-a) Los pueblos de Isla Aguada y Mamantel.
+a) La Villa de Isla Aguada.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+
+a Bis) El pueblo de Mamantel.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 1994)</small>
 
@@ -333,7 +337,9 @@ c) Los Ranchos: Los Lagartos, Paraíso Núm. 1, La Mestiza, La Comienta del Saba
 
 A la Sección Municipal de Sabancuy, corresponden:
 
-a) El Pueblo de Sabancuy, Cabecera de la Sección.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+
+a) La Villa de Sabancuy, Cabecera de la Sección.
 
 b) Los Ejidos de Sabancuy, Oxcabal, Ignacio M. Altamirano, Chekubul, Chicbul, Plan de Ayala, Abelardo L. Rodríguez, La Cristalina, Nicolás Bravo, Pino Suárez, Independencia, Ignacio Gutiérrez, Rodríguez Cano.
 
@@ -2050,5 +2056,9 @@ P.O. 16 DE MARZO DE 1994.
 Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
 
 P.O. 23 DE MAYO DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
