@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2001-03-29"
+last_updated: "2003-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 23 DE OCTUBRE DE 2003.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -157,7 +157,9 @@ Son obligaciones de los ciudadanos sonorenses:
 
 I. Las mismas enumeradas para los sonorenses.
 
-II. Votar en las elecciones populares del Estado en el distrito electoral o municipio que les corresponda.
+> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2003)</small>
+
+II. Votar en las elecciones populares, en los términos que señale la Ley Electoral correspondiente.
 
 III. Desempeñar, cuando tengan los requisitos de Ley, los cargos de elección popular del Estado.
 
@@ -189,13 +191,13 @@ Los mexicanos no sonorenses tienen las mismas obligaciones que los sonorenses. N
 
 Son derechos y prerrogativas del ciudadano sonorense:
 
-> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2003)</small>
 
-I. Votar en las elecciones populares del Estado.
+I. Votar en las elecciones populares y en los procesos de participación ciudadana, en los términos que señalen las leyes respectivas.
 
-> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2003)</small>
 
-II. Poder ser votado para los cargos de elección popular en el Estado y nombrado para cualquier otro empleo o comisión.
+II. Ser votado para los cargos de elección popular del Estado y los municipios en igualdad de oportunidades y equidad entre las mujeres y los hombres; así como ser nombrado para desempeñar cualquier otro empleo, cargo o comisión.
 
 > <small>(REFORMADA, B.O. 19 DE FEBRERO DE 1977)</small>
 
@@ -263,29 +265,65 @@ Soberanía.
 
 El Estado de Sonora forma parte de la Federación de los Estados Unidos Mexicanos. Es libre e independiente de los demás Estados de la Federación y soberano en todo lo que se refiere a su administración y régimen interiores. Conserva con los demás Estados de la Unión las relaciones que le impone la Constitución General de la República.
 
+> <small>(REFORMADO, B.O. 23 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 22.
 
-La soberanía reside esencial y originariamente en el pueblo sonorense y se ejerce por medio de los Poderes Públicos del Estado. El Gobierno es, pues, emanación genuina del pueblo y se instituye para beneficio del mismo.
+La soberanía reside esencial y originariamente en el pueblo sonorense y se ejerce por medio de los Poderes Públicos del Estado. El Gobierno es emanación genuina del pueblo y se instituye para beneficio del mismo.
 
-> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 1978)</small>
+La elección a Gobernador del Estado, de los Diputados al Congreso del Estado y de los integrantes de los Ayuntamientos, deberá realizarse mediante sufragio universal, libre, secreto y directo, a través de elecciones libres, auténticas y periódicas.
 
-Los Partidos Políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
+La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo denominado Consejo Estatal Electoral, dotado de personalidad jurídica y patrimonio propios, integrado por ciudadanos y partidos políticos, en los términos que ordene la Ley. En el ejercicio de esa función estatal, por parte de las autoridades electorales, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores.
 
-> <small>(REFORMADO, B.O. 30 DE AGOSTO DE 1990)</small>
+El Consejo Estatal Electoral será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño, se integrará por ocho ciudadanos, de los cuales cinco fungirán como Consejeros Propietarios con derecho a voz y voto y tres como Consejeros Suplentes Comunes, quienes cubrirán las ausencias de aquellos de forma indistinta; asimismo, concurrirán con derecho a voz, un comisionado de cada uno de los partidos con registro. Las sesiones de los organismos electorales serán públicas.
 
-La organización de las elecciones es una función estatal que se ejerce por los poderes Legislativo y Ejecutivo del Estado, así como por los Ayuntamientos, con la participación de los Partidos Políticos y de los ciudadanos según lo disponga la Ley, para lo cual se integrarán los organismos electorales correspondientes. La certeza, legalidad, imparcialidad y objetividad serán principios rectores en el ejercicio de la función estatal, las sesiones de los organismos electorales serán públicas en los términos que disponga la Ley.
+La designación de los Consejeros Estatales Electorales compete al Congreso del Estado, previa convocatoria pública que emita el Consejo Estatal Electoral, conforme a la Ley. El Congreso del Estado, una vez recibidas las solicitudes, integrará una Comisión Plural encargada de someter la lista de aspirantes a Consejero Estatal Electoral, ante el Pleno, para que lleve a cabo la designación de los ciudadanos que integrarán el Consejo Estatal Electoral, mediante el voto de las dos terceras partes de sus integrantes.
 
-> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
+Los Consejeros Estatales Electorales durarán en su encargo dos procesos electorales ordinarios sucesivos. El Consejo Estatal Electoral será renovado parcialmente cada proceso electoral ordinario.
 
-La Ley establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y un Tribunal Estatal Electoral que tendrá la competencia y organización que determine la Ley; dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten invariablemente al principio de legalidad.
+Los partidos políticos son entidades de interés público cuyo fin es promover la participación del pueblo en la vida democrática del Estado, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individuamente a os parados políticos. La Ley determinará las formas específicas de intervención de los partidos políticos en el proceso electoral.
 
-> <small>(ADICIONADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
+Los partidos políticos con registro tendrán derecho a participar en las elecciones estatales, distritales y municipales. Tendrán, en igualdad de circunstancias, acceso a los medios de comunicación social, de acuerdo a la forma que establezca la Ley. Asimismo, promoverán y garantizarán, en los términos de esta Constitución y la Ley, la igualdad de oportunidades y la equidad entre las mujeres y los hombres en la vida política del Estado y sus municipios, a través de la postulación a cargos de elección popular en el Congreso del Estado y en los ayuntamientos, tanto de mayoría relativa como de representación proporcional.
 
-En materia electoral la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnado.
+El Estado garantizará el financiamiento público a los partidos políticos con registro nacional o estatal que participen en la elección ordinaria inmediata anterior en la Entidad y mantengan actividades ordinarias permanentes en la Entidad, en los términos que establece esta Constitución y la Ley.
 
-> <small>(ADICIONADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
+El financiamiento público se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgará conforme a lo siguiente y en los términos que disponga la Ley:
 
-El Tribunal Estatal Electoral será órgano autónomo y máxima autoridad jurisdiccional electoral. Tendrá competencia para resolver en forma definitiva e inatacable, en los términos de esta Constitución y la Ley.
+A) El financiamiento público para el sostenimiento de las actividades ordinarias permanentes se fijará anualmente, aplicando los costos mínimos de campaña calculados por el Consejo Estatal Electoral, el número de diputados a elegir, el número de planillas de ayuntamientos a elegir, el número de partidos políticos con representación en la legislatura local y la duración de las campañas electorales. El 30% de la cantidad total que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el 70% restante se distribuirá entre los mismos de acuerdo con el porcentaje que resulte de la suma total de votos obtenidos en las elecciones ordinarias inmediata anterior de ayuntamientos, diputados al Congreso del Estado y, en su caso, de Gobernador.
+
+B) El financiamiento público para las actividades tendientes a la obtención del voto durante los procesos electorales será igual al monto del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese año.
+
+C) Se reintegrará un porcentaje de los gastos anuales que eroguen los partidos políticos por concepto de las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, conforme lo establezca la Ley; y
+
+D) Los partidos políticos que hubieren obtenido su registro o inicien sus actividades ordinarias permanentes en la Entidad con fecha posterior a la última elección ordinaria estatal, tendrán derecho a que se les otorgue financiamiento público conforme lo establece la Ley.
+
+La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus precampañas.
+
+De igual manera, la Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales.
+
+La Ley establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes, los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+
+El financiamiento público de los partidos políticos y de sus campañas electorales deberá prevalecer sobre los privados, para tal efecto, el Consejo Estatal Electoral integrará un órgano de fiscalización que controlará y vigilará el uso de todos los recursos con que cuenten, sean de origen privado o público y propondrá las sanciones que deban imponerse por el uso indebido de estos recursos, de conformidad con lo que establezca la Ley.
+
+La Ley establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y un Tribunal Estatal Electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten, invariablemente, al principio de legalidad. Sus sesiones serán públicas.
+
+El Tribunal Estatal Electoral será en el Estado, el órgano especializado y la máxima autoridad jurisdiccional en materia electoral y de procesos de participación ciudadana, funcionara de manera permanente y tendrá a su cargo la substanciación y resolución, en única instancia, de los medios de impugnación que establezcan las leyes respectivas.
+
+El Tribunal estará compuesto por tres Magistrados Propietarios y dos Magistrados Suplentes Comunes, los cuales serán nombrados por el Congreso del Estado el que deberá emitir una convocatoria pública para tal fin. El Congreso integrará una Comisión Plural que presentará al Pleno la lista de aspirantes y mediante el voto de las dos terceras partes de sus integrantes, nombrará a los Magistrados del Tribunal Estatal Electoral.
+
+Los Magistrados del Tribunal Estatal Electoral durarán en su encargo nueve años. El Tribunal Estatal será renovado parcialmente cada tres años, salvo que se actualice el supuesto de remoción previsto por la Ley respectiva.
+
+Los Magistrados nombrados para concluir el período de otro, por falta definitiva o absoluta de éste, desempeñarán sus funciones hasta la conclusión del período de aquél.
+
+La organización y competencia del Tribunal Estatal Electoral será fijada por la Ley.
+
+En materia electoral la interposición de los medios de impugnación no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnado.
+
+El Consejo Estatal Electoral realizará el cómputo final de la elección de Gobernador del Estado y declarará la validez de la elección y la de Gobernador Electo.
+
+Las leyes en materia electoral, deberán promulgarse y publicarse por lo menos noventa días naturales antes de que inicie el proceso electoral en que vayan a aplicarse y durante el mismo no podrá realizarse modificación alguna.
+
+En la integración de los organismos electorales habrá paridad de género y se observará, en su conformación, el principio de alternancia de género. Asimismo, en la integración del Tribunal Estatal Electoral será obligatorio conformarlo por ambos géneros.
 
 ###### Artículo 23.
 
@@ -583,6 +621,10 @@ III. A los Diputados al Congreso de Sonora.
 
 IV. A los Ayuntamientos del Estado.
 
+> <small>(ADICIONADA, B.O. 23 DE OCTUBRE DE 2003)</small>
+
+V. A los ciudadanos que representen el 1% del total inscrito en el Padrón Estatal Electoral, conforme a los términos que establezca la Ley.
+
 ###### Artículo 54.
 
 El Supremo Tribunal sólo podrá iniciar leyes en el Ramo de Justicia.
@@ -606,6 +648,10 @@ Los acuerdos de la Cámara se comunicarán al propio Ejecutivo para los efectos 
 Se reputará aprobado por el Ejecutivo todo proyecto de ley o de decreto no devuelto con observaciones al Congreso, o en su receso a la Diputación Permanente, en el término de diez días útiles.
 
 El Congreso o la Diputación Permanente podrán ordenar la publicación de las leyes o decretos si el Ejecutivo no lo hace dentro de los ocho días siguientes al vencimiento del término fijado para hacer observaciones, o el día en que reciba la ley o decreto confirmados por aquella Asamblea. En este caso se harán constar las circunstancias que lo motiven.
+
+> <small>(ADICIONADO, B.O. 23 DE OCTUBRE DE 2003)</small>
+
+La creación, reforma, adición, derogación u abrogación de leyes o decretos expedidos por el Congreso del Estado podrán ser sometidos a referéndum, conforme a los términos y condiciones establecidas en la Ley de la materia.
 
 ###### Artículo 58.
 
@@ -707,9 +753,7 @@ XIII Bis. Para conocer, substanciar y resolver los procedimientos relativos a la
 
 XIV. Para trasladar, provisionalmente, fuera de la ciudad de Hermosillo, la residencia de los Poderes del Estado.
 
-> <small>(REFORMADA, B.O. 8 DE NOVIEMBRE DE 1993)</small>
-
-XV. Para erigirse en Colegio Electoral con el fin de computar y calificar en definitiva las elecciones de Gobernador en la forma en que determine la Ley. Su resolución será inatacable.
+XV. (DEROGADA, B.O. 23 DE OCTUBRE DE 2003)
 
 XVI. Para resolver sobre la renuncia de sus propios miembros y la del Gobernador, y para conceder licencias a unos y otro.
 
@@ -723,9 +767,9 @@ XVIII. Para aprobar o rechazar los nombramientos de los Magistrados del Supremo 
 
 XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y concederles licencia hasta por dos meses con goce de sueldo y por más de ese tiempo sin goce de él.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 20 DE JUNIO DE 1996)</small>
+> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2003)</small>
 
-XX. Para nombrar a los Magistrados Numerarios y Supernumerarios del Tribunal Estatal Electoral y a los consejeros electorales propietarios y suplentes comunes del Consejo Estatal Electoral según el procedimiento establecido en la Ley.
+XX. Para nombrar a los Magistrados Propietarios y a los Magistrados Suplentes Comunes del Tribunal Estatal Electoral y a los Consejeros Estatales Electorales Propietarios y Suplentes Comunes del Consejo Estatal Electoral, según el procedimiento establecido por esta Constitución y la Ley.
 
 > <small>(REFORMADA, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -1055,7 +1099,7 @@ IV. Hacer cumplir las resoluciones de los tribunales y prestar a éstos los medi
 
 V. Exigir de las autoridades que dependan del Ejecutivo del Estado, el cumplimiento estricto de las obligaciones que les imponen la Constitución Federal, la Estatal y las Leyes que de ellas emanen, aplicándoles las sanciones a que se hagan acreedores, en los términos que prevengan las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 22 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
 VI. Imponer las sanciones administrativas que determinen las leyes y reglamentos.
 
@@ -1143,7 +1187,7 @@ XXXVI. Turnar al Procurador General de Justicia los asuntos que deban ventilarse
 
 XXXVI Bis. Plantear al Congreso del Estado, los casos de servidores públicos que ameriten la iniciación de un juicio político por las faltas u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho.
 
-XXXVII. Cuidar de que las elecciones se efectúen en el tiempo señalado por las leyes relativas.
+XXXVII. (DEROGADA, B.O. 23 DE OCTUBRE DE 2003)
 
 XXXVIII. Organizar el sistema penal sobre la base de trabajo como medio de regeneración.
 
@@ -1941,11 +1985,13 @@ De conformidad con las bases establecidas en la legislación secundaria, los Con
 
 Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 23 DE OCTUBRE DE 2003)</small>
 
 ###### Artículo 143.
 
-Se reputará como servidor público para los efectos de este Título y será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la Administración Pública Estatal o Municipal, en el Poder Legislativo y en el Poder Judicial.
+Se reputará como servidor público para los efectos de este Título será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la Administración Pública Estatal o Municipal, en el Poder Legislativo, en el Poder Judicial, así como los servidores del Consejo Estatal Electoral, Consejos Distritales Electorales, Consejos Municipales Electorales y los del Tribunal Estatal Electoral.
+
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
 Durante el período de su encargo el Gobernador del Estado sólo podrá ser encausado por delitos graves.
 
@@ -1957,9 +2003,9 @@ El Congreso expedirá la Ley de Responsabilidades de los servidores públicos me
 
 I. Responsabilidad política, determinada mediante juicio político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
 
-> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 23 DE OCTUBRE DE 2003)</small>
 
-Sólo podrán ser sujetos a juicio político, los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los Magistrados de los Tribunales Regionales de Circuito y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los Subprocuradores, los Secretarios y Subsecretarios, los Jueces de Primer Instancia, los Agentes del Ministerio Público, los presidentes municipales, síndicos, regidores, secretarios y tesoreros de los ayuntamientos, así como los directores generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los Municipios.
+Sólo podrán ser sujetos a Juicio Político, los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los Magistrados Regionales de Circuito y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los Subprocuradores, los Secretarios y Subsecretarios, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los Consejeros Estatales Electorales, el Secretario del Consejo Estatal Electoral, los Magistrados y Secretario General del Tribunal Estatal Electoral, Presidentes Municipales, Síndicos, Regidores. Secretarios y Tesoreros de los Ayuntamientos, así como los Directores Generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los Municipios.
 
 Las sanciones consistirán en la destitución del servidor público y, en su caso, la inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
@@ -1983,11 +2029,11 @@ En el caso de que el Gobernador del Estado, Diputados Locales y Magistrados del 
 
 El procedimiento de juicio político, deberá iniciarse durante el tiempo en que el servidor público desempeñe un empleo, cargo o comisión, o dentro del año siguiente al de la conclusión de sus funciones. La (sic) sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 23 DE OCTUBRE DE 2003)</small>
 
 ###### Artículo 146.
 
-Para proceder penalmente contra el Gobernador, Diputados al Congreso del Estado, Magistrados del Supremo Tribunal de Justicia, Magistrados Regionales de Circuito y del Tribunal de lo Contencioso Administrativo; Procurador General de Justicia, Secretarios y Subsecretarios, presidentes municipales, síndicos y regidores de los ayuntamientos, Jueces de Primera Instancia y Agentes del Ministerio Público, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará, por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar o no a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador. Diputados al Congreso del Estado, Magistrados del Supremo Tribunal de Justicia, Magistrados Regionales de Circuito y del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia., Secretarios y Subsecretarios, Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, Jueces de Primera Instancia y Agentes del Ministerio Público, los Consejeros Estatales Electorales, Secretario del Consejo Estatal Electoral, los Magistrados y Secretario General del Tribunal Estatal Electoral por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará, por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -2060,6 +2106,14 @@ El manejo de recursos económicos estatales se sujetará a las bases de esta Con
 > <small>(ADICIONADO, B.O. 5 DE MAYO DE 1954)</small>
 
 Artículo 150 A. En el Estado las mujeres tienen los mismos derechos civiles y políticos que los hombres; podrán ser electas y tendrán derecho a voto en cualquier elección, siempre que reúnan los requisitos que señala la Ley.
+
+> <small>(ADICIONADO, B.O. 23 DE OCTUBRE DE 2003)</small>
+
+En los procesos electorales distritales y municipales que se rigen por el principio de mayoría relativa, los partidos políticos promoverán, en términos de equidad, que se postule una proporción paritaria de candidatos de ambos géneros, lo que será aplicable para candidatos propietarios y suplentes. Se exceptúa de lo anterior el caso de que las candidaturas de mayoría relativa sean resultado de un proceso de elección interna de democracia directa.
+
+> <small>(ADICIONADO, B.O. 23 DE OCTUBRE DE 2003)</small>
+
+Las listas de representación proporcional a cargos de elección popular a nivel estatal y municipal de propietarios y suplentes, se conformarán y asignarán en fórmulas y planillas, bajo el principio de alternancia de ambos géneros, hasta agotar el derecho de cada partido político.
 
 > <small>(ADICIONADO, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -2647,7 +2701,7 @@ Los Diputados que se elijan a la LIV Legislatura del Congreso del Estado, durar�
 
 ###### ARTICULO TERCERO.
 
-El período ordinario del Congreso del Estado, correspondiente a los meses de noviembre a diciembre del año de 1993 y los períodos ordinarios correspondientes al año de 1994, se celebrarán de acuerdo con las fechas que han venido rigiendo en los términos de la Ley 109, publicada en el Boletín Oficial número 23, sección I, de 17 de septiembre de 1987.
+El período ordinario del Congreso del Estado, correspondiente a los meses de noviembre a diciembre del año de 1993 y los períodos ordinarios correspondientes al año de 1994, se celebrarán de acuerdo con las fechas que han venido rigiendo en los términos de la Ley 109, publicada en el Boletín Oficial número 23, sección I, del 17 de septiembre de 1987.
 
 A partir del 16 de septiembre de 1995 los períodos de sesiones ordinarios se celebrarán de acuerdo con las fechas establecidas en la presente Ley.
 
@@ -2774,6 +2828,36 @@ En la realización de las acciones conducentes al cumplimiento de la presente Le
 ###### ARTICULO SEXTO.
 
 En un plazo no mayor a un año, contado a partir de que entre en vigor la presente Ley, el Congreso del Estado deberá emitir el ordenamiento legal correspondiente que regula la participación ciudadana en el Estado de Sonora.
+
+B.O. 23 DE OCTUBRE DE 2003.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo, en su caso, que emitan los Ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley para los efectos dispuestos por el artículo 163 de la Constitución Política Local.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto que lleve a cabo el cómputo respectivo y en caso de resultar aprobada la presente Ley, por cuando menos, la mitad más uno de los Ayuntamientos de los Municipios de la Entidad, se remita al Titular del Poder Ejecutivo Estatal para su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Consejeros integrantes del Consejo Estatal Electoral, continuarán en sus cargos conforme a las bases de su designación por el Congreso del Estado de Sonora.
+
+La renovación parcial que establece esta Ley para el Consejo Estatal Electoral iniciará con la renovación del mismo una vez culminado el encargo de los actuales Consejeros Estatales Electorales, atendiendo a las bases que señala la Constitución Política del Estado y- la Ley Electoral, así como los principios de pandad de género y alternancia en la conformación del mismo, tanto en los Consejeros Propietarios como en los Consejeros Suplentes Comunes.
+
+El Congreso del Estado, al renovar los Consejeros Estatales Electorales, de conformidad con el párrafo anterior, por única ocasión y con el objeto de materializar a renovación parcial en lo sucesivo, nombrará a dos Consejeros Propietarios y dos Consejeros Suplentes para que ejerzan sus funciones por el período de un proceso electoral ordinario y, los restantes, tres Consejeros Propietarios y un Consejero Suplente, para el período de dos procesos electorales ordinarios, circunstancia que deberá asentarse en la convocatoria que se emita para tal efecto.
+
+###### ARTICULO TERCERO.
+
+Para efectos de dar cumplimiento a la obligación de renovar parcialmente y garantizar la representación de ambos géneros en la integración del Tribunal Estatal Electoral, se procederá de la siguiente manera:
+
+A).- Los actuales Magistrados Numerarios del Tribunal Estatal Electoral, ciudadano Alfredo López Moreno, Pedro González Avilés y Francisco Peralta Núñez, concluirán el ejercicio de sus funciones a la entrada en vigor de la presente Ley, como consecuencia de la nueva estructura del Tribunal y en virtud de haber fenecido el período de su encargo.
+
+B).- De igual manera, en virtud de la nueva estructura del Tribunal Estatal Electoral que propone esta Ley, los actuales Magistrados Supernumerarios, ciudadanos Marco Antonio Encinas Cajigas y Jorge Guadalupe Romero Meneses, concluirán el ejercicio de sus funciones a la entrada en vigor de la presente Ley.
+
+C).- En virtud de la nueva estructura del Tribunal Estatal Electoral que plantea la presente reforma, continuará en el ejercicio de su encargo como Magistrado Propietario el C. Lic. Luis Enrique Pérez Alvidres, por un período de tres años, contados a partir de la toma de protesta en el cargo. Asimismo, derivado del imperativo que previene garantizar la representación de género, se designa a la actual Magistrada Supernumeraria C. Lic. María Teresa González Saavedra como Magistrada Propietaria del Tribunal Estatal Electoral, por un período de seis años, contados a partir de la toma de protesta del cargo.
+
+Los ciudadanos Luis Enrique Pérez Alvidrez y María Teresa González Saavedra, deberán rendir protesta del cargo a la entrada en vigor de esta Ley, ante el Pleno o la Diputación Permanenete de este Congreso, según sea el caso.
+
+A fin de culminar la integración del Tribunal Estatal Electoral, el Congreso del Estado emitirá convocatoria pública para designar al tercer Magistrado Propietario y a los dos Magistrados Suplentes Comunes, cuyos períodos para el ejercicio de su encargo será de nueve años. En la desiganación de los Magistrados Suplentes Comunes se respetará el principio de equidad y paridad de género.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
