@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "1951-05-02"
+last_updated: "1955-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1955.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -719,9 +719,11 @@ Durante los recesos del Congreso habrá una Diputación Permanente, compuesta de
 
 La Diputación Permanente será nombrada por el Congreso en la última sesión de período ordinario, por mayoría absoluta de votos y en escrutinio secreto.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1955)</small>
+
 ###### Art. 81.
 
-La Diputación Permanente se instalará el día siguiente al en que hubiere sido nombrada, y acordará los días y hora de sus sesiones regulares.
+La Diputación Permanente se instalará el mismo día que hubiere sido nombrada inmediatamente después de la última sesión ordinaria y acordará los días y hora de sus sesiones regulares.
 
 Además, se reunirá siempre que fuere convocada por su Presidente, y no podrá celebrar menos de dos sesiones semanarias, ni funcionar sin la concurrencia de tres de sus miembros.
 
@@ -1189,9 +1191,11 @@ No podrán ser reelectos para el período inmediato, los miembros de las Juntas 
 
 En las elecciones de Ayuntamientos, Juntas Municipales y Comisarios de Policía sólo podrán votar los ciudadanos chihuahuenses que, además de ser vecinos del Estado, tengan dos meses de residencia habitual en la Municipalidad, Sección Municipal o Comisariado de Policía, respectivamente.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1955)</small>
+
 ###### Art. 130.
 
-Los Ayuntamientos se instalarán el día 1o. de enero de los años correspondientes a su instalación y las Juntas Municipales y Comisarios de Policía el día quince del mismo mes.
+Los Ayuntamientos se instalarán el día diez de octubre de los años correspondientes a su instalación, y las Juntas Municipales y Comisarios de Policía el día veinte del mismo mes.
 
 ###### Art. 131.
 
@@ -1295,9 +1299,11 @@ IX.- En materia de educación: sostenimiento de las escuelas municipales, otorga
 
 X.- En materia de acción médico social: vigilancia de los mercados, servicios de agua potable y drenaje, limpia y transporte de basuras, epidemias, y sostenimiento de los hospitales, clínicas, hospicios, asilos, guarderías infantiles y demás centros de asistencia municipal.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1955)</small>
+
 ###### Art. 139.
 
-Dentro de los primeros quince días siguientes a cada semestre, los Ayuntamientos rendirán un informe detallado de su gestión administrativa, durante este período, al Ejecutivo del Estado.
+Dentro de los primero quince días siguientes a cada semestre, computándose éstos últimos a partir del diez de octubre de cada año, los Ayuntamientos rendirán un Informe detallado de su gestión administrativa, durante ese período, al Ejecutivo del Estado, con el fin de que éste disponga de los datos necesarios para a su vez informar al Congreso en los términos que ordena ésta Constitución, sobre el estado que guarda la administración pública.
 
 ###### Art. 140.
 
@@ -1668,3 +1674,19 @@ TERCERO.- El Ejecutivo del Estado designará a la persona que, con el carácter 
 Los jefes de tránsito, los comandantes de agentes, los oficiales motociclistas y demás personal que actualmente se hallan desempeñando funciones de autoridades de tránsito por nombramiento de los respectivos Ayuntamientos, continuarán en sus puestos subordinados jerárquicamente al Director General de Tránsito. Sus emolumentos seguirán cubriéndose por las Tesorerías Municipales respectivas de acuerdo con los Presupuestos de Egresos vigentes.
 
 CUARTO.- Se derogan todas las leyes y reglamentos que se opongan a la presente Ley Constitucional.
+
+P.O. 1 DE JUNIO DE 1955.
+
+DECRETO No. 263
+
+PRIMERO.- Las reformas a que se refiere esta Ley, entrarán en vigor en todo el Estado, el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Ayuntamientos que vienen funcionando, con arreglo a la Constitución del Estado en sus términos vigentes hasta antes de estas reformas y a sus respectivas representaciones, concluirán su período el treinta y uno de diciembre de mil novecientos cincuenta y cinco.
+
+TERCERO.- Las próximas elecciones para Ayuntamiento, se verificarán en el mes de julio de mil novecientos cincuenta y seis. En tal virtud para el lapso de tiempo comprendido del primero de enero de mil novecientos cincuenta y seis al nueve de octubre del mismo año, conforme está previsto en la Constitución del Estado, el Congreso Constitucional procederá a integrar provisionalmente los Ayuntamientos respectivos, seleccionando las personas que han de ocupar los cargos a propuesta en ternas que presentará el Ejecutivo del Estado, antes del quince de diciembre de mil novecientos cincuenta y cinco.
+
+P.O. 1 DE JUNIO DE 1955.
+
+DECRETO No. 265
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
