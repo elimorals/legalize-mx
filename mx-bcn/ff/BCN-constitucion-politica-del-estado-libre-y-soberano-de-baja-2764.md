@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1971-01-10"
+last_updated: "1971-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 1971.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 1971.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -513,15 +513,13 @@ Las faltas del Secretario de Gobierno, serán suplidas por el Oficial Mayor del 
 
 El Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, Jueces de Primera Instancia, Jurados, Jueces Menores, Jueces de Paz y demás funcionarios que designe la Ley Orgánica del Poder Judicial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 1971)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1971)</small>
 
 ### CAPITULO UNICO.. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS PUBLICOS
 
 ###### ARTICULO 56.
 
-El Tribunal Superior de Justicia se compondrá de siete Magistrados Propietarios y tres Suplentes, que serán nombrados por el Gobernador del Estado en los términos del Artículo 60 de esta Constitución y funcionará en los términos que disponga la Ley. Las audiencias serán públicas, excepto aquellas en que la moral o el interés colectivo exija que sean secretas. El Tribunal Superior de Justicia designará a uno de sus miembros como Presidente, el cual durará en su cargo un año, pudiendo ser reelecto.
+El Tribunal Superior de Justicia se compondrá de cinco Magistrados Propietarios como mínimo, y tres Suplentes, que serán nombrados por el Gobernador Constitucional del Estado, en los términos del Artículo 60 de la misma Constitución y funcionarán en los términos que disponga la Ley. Las audiencias serán públicas, excepto aquellas que la moral o el interés colectivo exija que sean secretas. El Tribunal Superior de Justicia designará a uno de sus miembros como Presidente, el cual durará en su cargo un año, pudiendo ser reelecto.
 
 ###### ARTICULO 57.
 
@@ -540,8 +538,6 @@ III.- No pertenecer al estado eclesiástico ni ser ministro de algún culto;
 IV.- No tener empleo, cargo o comisión de otros Estados o de la Federación, salvo que se separe definitivamente de los mismos antes de aceptar el cargo;
 
 V.- Gozar de buena reputación y no haber sido condenado por un delito intencional que amerite pena corporal de más de un año de prisión pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 1971)</small>
 
@@ -564,8 +560,6 @@ El Gobernador del Estado podrá pedir al Congreso la destitución por mala condu
 El Gobernador del Estado, antes de pedir al Congreso la destitución de un Magistrado, oirá a éste en privado a efecto de poder apreciar en conciencia la falta que se le atribuye.
 
 El Congreso oirá en defensa al Magistrado para juzgar la falta que se le imputa y la justificación del pedimento del Ejecutivo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 1971)</small>
 
@@ -715,7 +709,7 @@ Todo miembro de un Ayuntamiento, Concejo Municipal o Munícipe, electo o designa
 
 Son facultades y obligaciones de los Ayuntamientos:
 
-I.- Remitir al Congreso para su revisión y aprobación, cada año, las cuentas del anterior y los presupuestos para el siguiente.
+I.- Remitir al Congreso para su revisión y aprobación, cada año, las cuentas del anterior y los presupuestos para el siguiente:
 
 II.- Cuidar de la eficacia de los servicios públicos de su jurisdicción.
 
@@ -815,7 +809,7 @@ En el Estado será protegida la propiedad literaria y artística. La Ley fijará
 
 ###### ARTICULO 102.
 
-El destino de las donaciones intervivos o testamentarias hechas conforme a las leyes para fines de interés social, no podrá ser variado ni modificado por ninguna ley. El Ejecutivo velará porque tales donaciones sean aplicadas a su objeto.
+El destino de las donaciones intervivos o testamentarias hechas conforme a las leyes para fines de interés social, no podrá ser variado ni modificado por ninguna ley, El Ejecutivo velará porque tales donaciones sean aplicadas a su objeto.
 
 ###### ARTICULO 103.
 
@@ -843,11 +837,11 @@ Los funcionarios que entren a ejercer su encargo después del día señalado por
 
 ###### ARTICULO 109.
 
-El Gobernador del Estado rendirá la protesta de Ley ante el Congreso o la Comisión Permanente, en su caso, en los siguientes términos:
+El Gobernador del Estado rendirá la protesta de Ley ante el Congreso o la Comisión Permanente, en su caso, en los siguientes términos.
 
 " Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Baja California y las leyes que de ambas emanen, desempeñando leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado; y si así no lo hiciere que el pueblo me lo demande."
 
-Igualmente, los Magistrados del Tribunal Superior de Justicia rendirán la protesta de Ley ante el Congreso o la Comisión Permanente en su caso, en la siguiente forma:
+Igualmente, los Magistrados del Tribunal Superior de Justicia rendirán la protesta de Ley ante el Congreso o la Comisión Permanente, en su caso, en la siguiente forma:
 
 El Presidente del Congreso preguntará: " Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal Superior de Justicia que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto contínuo, dirá el Presidente del Congreso: "Si así no lo hiciéreis, que la Nación y el Estado os lo demanden".
 
@@ -903,7 +897,7 @@ IV.- Funcionará, en la ciudad de Mexicali, con delegados en las poblaciones del
 
 V.- La Oficina del Registro de Electores, teniendo en cuenta los datos del Censo Nacional de Población en 1950, y las disposiciones de esta Constitución, formulará un proyecto de la división territorial del Estado en Distritos Electorales para la elección de Diputados a la Legislatura Local y la someterá a la Comisión Electoral del Estado para su revisión y aprobación.
 
-VI.- En cada una de las cabeceras de Distrito Electoral funcionará un Comité Distrital Electoral, con jurisdicción en todo el Distrito y con las facultades que a los Comités Distritales Electorales señala la Ley Electoral Federal, aplicadas sus disposiciones en lo conducente.
+VI.- En cada una de las cabeceras, de Distrito Electoral funcionará un Comité Distrital Electoral, con jurisdicción en todo el Distrito y con las facultades que a los Comités Distritales Electorales señala la Ley Electoral Federal, aplicadas sus disposiciones en lo conducente.
 
 VII.- Los Comités Distritales Electorales estarán integrados por un presidente, un secretario y un vocal, que serán designados por la Comisión Electoral del Estado, debiendo recaer los nombramientos en personas que reúnan los requisitos del artículo 20 de la Ley Electoral Federal.
 
@@ -1047,7 +1041,7 @@ P.O. 30 DE JUNIO DE 1968.
 
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial, Organo del Gobierno del Etado.
+El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 ###### ARTICULO SEGUNDO.
 
@@ -1062,3 +1056,7 @@ Los Magistrados que sean designados para ocupar los cargos de nueva creación ce
 ###### ARTICULO SEGUNDO.
 
 Estas reformas entrarán en vigor treinta días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 20 DE DICIEMBRE DE 1971.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
