@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-del-medio-ambiente-y-21353
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-04"
-last_updated: "2001-06-04"
+last_updated: "2003-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21353&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-05-28"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 21 DE ENERO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el lunes 4 de junio de 2001.
 
@@ -3320,3 +3322,17 @@ TERCERO.- El personal, los recursos, los expedientes en trámite, el archivo, el
 CUARTO.- Los asuntos pendientes de resolución al entrar en vigor este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les atribuya la competencia en el presente Reglamento Interior.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de mayo de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Víctor Lichtinger Waisman.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 21 DE ENERO DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Medio Ambiente y Recursos Naturales, publicado en el Diario Oficial de la Federación el 4 de junio de 2001.
+
+TERCERO.- El personal, los recursos, los expedientes en trámite, el archivo, el mobiliario y, en general, el equipo que las unidades administrativas a que se refiere este ordenamiento, hubieren utilizado en el ejercicio de sus atribuciones, deberán trasladarse a las unidades administrativas que se crean en el mismo, debiendo distribuirse, en su caso, de conformidad con las atribuciones que a cada una de ellas correspondan y de acuerdo con los lineamientos que emita la Oficialía Mayor.
+
+CUARTO.- Los asuntos pendientes de resolución a la entrada en vigor de este Decreto, que conforme al mismo deban pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquella a la que se le atribuya la competencia en el propio instrumento jurídico.
+
+QUINTO.- Los acuerdos secretariales sobre delegación de atribuciones que se hayan expedido con anterioridad a la entrada en vigor del presente Decreto, seguirán vigentes en lo que no se opongan al mismo.
