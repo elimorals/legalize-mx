@@ -4,7 +4,7 @@ identifier: "FED-ley-de-reclamaciones-por-danos-provenientes-de-la-revolucion-73
 country: "mx"
 rank: "ley"
 publication_date: "1919-09-11"
-last_updated: "1924-08-07"
+last_updated: "1927-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=739&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,17 +19,19 @@ issue_date: "1919-08-30"
 ---
 # LEY DE RECLAMACIONES POR DAÑOS PROVENIENTES DE LA REVOLUCION
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MARZO DE 1927 EN EL D.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE RECLAMACIONES POR DAÑOS PROVENIENTES DE LA REVOLUCIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE AGOSTO DE 1924.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE MARZO DE 1927.
 
 Ley publicada en el Número 10 del Diario Oficial, el jueves 11 de septiembre de 1919.
 
-Al margen un sello que dice: “Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
+Al margen un sello que dice: "Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
 El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido dirigirme el siguiente decreto:
 
-“VENUSTIANO CARRANZA, PRESIDENTE CONSTITUCIONAL DE LOS ESTADOS UNIDOS MEXICANOS, a sus habitantes, sabed:
+"VENUSTIANO CARRANZA, PRESIDENTE CONSTITUCIONAL DE LOS ESTADOS UNIDOS MEXICANOS, a sus habitantes, sabed:
 
 Que en uso de las facultades extraordinarias que en el Ramo de Hacienda me fueron conferidas por el H. Congreso de la Unión, por Ley de 8 de mayo de 1917; y
 
@@ -47,9 +49,11 @@ LEY DE RECLAMACIONES POR DAÑOS PROVENIENTES DE LA REVOLUCION.
 
 De conformidad con el decreto de 10 de mayo de 1913, expedido en Monclova, Estado de Coahuila, por el Primer Jefe del Ejército Constitucionalista, se establece en la ciudad de México, una comisión dependiente de la Secretaría de Hacienda, que conocerá de las reclamaciones por daños sufridos en las personas o en la propiedad, a consecuencia de los movimientos revolucionarios ocurridos en la República desde el 20 de noviembre de 1910 y del consiguiente estado de revuelta que prevalece todavía en algunas regiones del país.
 
+> <small>(REFORMADO, D.O. 24 DE MARZO DE 1927)</small>
+
 ###### Art. 2o.
 
-La Comisión de Reclamaciones a que se refiere el artículo anterior, constará de un Presidente y cuatro Vocales nombrados por el Ejecutivo Federal. Dicha Comisión nombrará a su vez a los Secretarios y demás empleados que requiera el buen desempeño de sus labores.
+La Comisión de Reclamaciones a que se refiere el artículo anterior, constará de un Presidente y dos Vocales, nombrados por el Ejecutivo Federal. Dicha Comisión nombrará, a su vez, a los Secretarios y demás empleados que requiera el buen desempeño de sus labores.
 
 ###### Art. 3o.
 
@@ -208,3 +212,9 @@ D.O. 7 DE AGOSTO DE 1924.
 PRIMERO.- Esta Ley comenzará a regir desde el día 1o. de agosto del año en curso.
 
 SEGUNDO.- Quedan derogadas todas las disposiciones que se opongan a la presente Ley.
+
+D.O. 24 DE MARZO DE 1927.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL CUAL SE REFORMA EL ARTÍCULO 2o. DE LA LEY DE RECLAMACIONES POR DAÑOS PROVENIENTES DE LA REVOLUCIÓN, DE 30 DE NOVIEMBRE DE 1919, RELATIVO A LA FORMACIÓN DE LA COMISIÓN DE RECLAMACIONES".]
+
+Este Decreto comenzará a surtir sus efectos a partir del día 21 de marzo del presente año.
