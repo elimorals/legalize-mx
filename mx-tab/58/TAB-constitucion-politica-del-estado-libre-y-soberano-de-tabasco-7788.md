@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1942-12-05"
+last_updated: "1943-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 1943.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -943,11 +943,11 @@ Su funcionamiento se sujetará a las bases establecidas por esta Constitución.
 
 Cada Municipio será administrado por un Ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 1921)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1943)</small>
 
 ###### Art. 118.
 
-Los Ayuntamientos tienen personalidad jurídica para todos los efectos legales, y se renovarán cada dos años en los términos que disponga la ley.
+Los Ayuntamientos tienen personalidad jurídica para todos los efectos legales, y se renovarán cada tres años en los términos que disponga la ley.
 
 ## Título Noveno.
 
@@ -1340,3 +1340,7 @@ UNICO.- Este Decreto comienza a surtir sus efectos legales desde la fecha de su 
 P.O. 5 DE DICIEMBRE DE 1942.
 
 UNICO.- Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE OCTUBRE DE 1943.
+
+UNICO.- Este Decreto surte sus efectos legales desde la fecha de su publicación.
