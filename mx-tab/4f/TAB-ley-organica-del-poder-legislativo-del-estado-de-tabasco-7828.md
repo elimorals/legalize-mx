@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-7828"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-01-02"
-last_updated: "1994-11-30"
+last_updated: "1995-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 1995.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 2 de enero de 1993.
 
@@ -477,7 +477,9 @@ VII. Comunicaciones y Transportes;
 
 VIII. Educación, Cultura, Recreación y Deporte;
 
-IX. Salud Pública, Ecología, Protección y Mejoramiento Ambiental;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 1995)</small>
+
+IX. Salud Pública;
 
 X. Asuntos Agrarios;
 
@@ -503,7 +505,11 @@ XX. Editorial, Corrección de Estilo y Redacción;
 
 XXI. Instructora de la Cámara; y
 
-XXII. Asuntos Indigenistas.
+XXII. Asuntos Indigenistas;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 1995)</small>
+
+XXIII. Ecología, Protección y Mejoramiento Ambiental.
 
 ### CAPITULO XI. DE LAS SESIONES
 
@@ -922,3 +928,7 @@ SECRETARIO DE GOBIERNO.
 P.O. 30 DE NOVIEMBRE DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE MARZO DE 1995.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO SEXTO DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE TABASCO.
