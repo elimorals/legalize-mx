@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-de-los-servidores-publicos-del-10757"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-26"
-last_updated: "1989-05-26"
+last_updated: "1994-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1994.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el 26 de mayo de 1989.
 
@@ -57,13 +57,25 @@ V.- Las autoridades competentes y los procedimientos para declarar la procedenci
 
 VI.- El registro patrimonial de los servidores públicos del Estado y los Municipios.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 2.
 
-Son sujetos de esta Ley los servidores públicos mencionados en el Artículo 101 de la Constitución Política del Estado de San Luis Potosí.
+Para los efectos de esta Ley se entenderá por Servidores Públicos:
+
+I.- Los Servidores Públicos con cargo de elección popular en la entidad;
+
+II.- Los miembros del Poder Judicial;
+
+III.- Los miembros de justicia administrativa;
+
+IV.- Los funcionarios y empleados que desempeñen una labor, cargo o comisión de cualquier naturaleza en la administración pública Estatal o Municipal incluyendo sus entidades.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 3.
 
-Las autoridades competentes para aplicar la presente Ley, serán:
+Las autoridades competentes para aplicar la presente ley, serán:
 
 I.- El Congreso del Estado;
 
@@ -71,15 +83,19 @@ II.- El Gobernador del Estado;
 
 III.- El Supremo Tribunal de Justicia;
 
-IV.- El Organo de Contraloría del Estado;
+IV.- La Contaduría Mayor de Hacienda del H. Congreso del Estado;
 
-V.- Las Secretarías y Dependencias del Ejecutivo;
+V.- La Coordinación General de Contraloría del Estado;
 
-VI.- Los Ayuntamientos y sus Dependencias;
+VI.- Las Secretarías y Dependencias del Ejecutivo;
 
-VII.- Los Tribunales del Trabajo en los términos de la Legislación respectiva; y
+VII.- Los Ayuntamientos y sus Dependencias;
 
-VIII.- Las demás que determinen las Leyes.
+VIII.- El Tribunal de lo Contencioso Administrativo;
+
+IX.- Los Tribunales del trabajo en los términos de la legislación respectiva; y
+
+X.- Las demás que determinen las Leyes.
 
 ###### ARTICULO 4.
 
@@ -101,9 +117,13 @@ En caso de declaración de procedencia por los delitos a que se refiere el párr
 
 El Congreso del Estado también conocerá de las declaraciones de procedencia por delitos del orden común imputables a los Servidores Públicos a que se refiere el Artículo 104 de la Constitución Política.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 9.
 
-Los procedimientos para la aplicación de las sanciones a que se refiere esta Ley y las responsabilidades penales o de carácter civil que dispongan otros ordenamientos, se desarrollarán autónomamente entre sí, según su naturaleza y por la vía procesal que corresponda debiendo las autoridades que, por sus funciones, conozcan o reciban denuncias, turnarlas a quien deba conocer de ellas. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
+Cuando los actos u omisiones, materia de las acusaciones, queden comprendidas en más de uno de los casos sujetos a sanción y previstos en el artículo 102 de la Constitución Política del Estado, los procedimientos respectivos se desarrollarán en forma autónoma e independiente según su naturaleza y por la vía procesal que corresponda, debiendo las Autoridades a que alude el artículo 3o. de esta ley, turnar las denuncias a quien deba conocer de ellas.
+
+No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
 
 ## TITULO SEGUNDO. PROCEDIMIENTOS ANTE EL CONGRESO DEL ESTADO EN MATERIA DE
 
@@ -159,43 +179,91 @@ El juicio político sólo podrá iniciarse durante el tiempo en que el servidor 
 
 Las sanciones respectivas se aplicarán en un período no mayor de tres meses a partir de iniciado el procedimiento.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 15.
 
-Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular por escrito denuncias ante el Congreso del Estado por las conductas a que se refiere el Artículo 12 de esta Ley; presentada la denuncia ante la Secretaría del Congreso, la que deberá citar al denunciante para que la ratifique en un término de tres días hábiles, deberá turnarla de inmediato con la documentación que la acompañe, a la Comisión Instructora que estará integrada de acuerdo con el Capítulo II del Reglamento Interior del Congreso del Estado y con el Título Segundo Capítulo III de la Ley Orgánica del mismo, para que dictamine si la conducta atribuída corresponde a las ennumeradas por el precepto citado y si el inculpado está comprendido entre los servidores públicos a que se refiere el Artículo 2º. de esta Ley; así como si la denuncia es procedente y por lo tanto, amerita la incoacción del procedimiento.
+Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia contra un servidor público ante el H. Congreso del Estado, por las conductas a que se refiere el artículo 12 de esta Ley, y por las conductas que determina el artículo 10 segundo párrafo del mismo ordenamiento.
 
-Las denuncias anónimas no producirán ningún efecto, ni se dará trámite a lo notoriamente improcedente. Las denuncias que no sean ratificadas de acuerdo con el párrafo anterior serán inmediatamente archivadas.
+La denuncia se presentará por escrito y deberá estar firmada por el interesado o interesados, a menos que no sepan o no puedan firmar, caso en el que imprimirán su huella digital.
+
+Se expresarán en el escrito de denuncia:
+
+I.- El nombre y domicilio del denunciante o denunciantes;
+
+II.- Nombre del representante común cuando sean dos o más los denunciantes;
+
+III.- Domicilio para oír y recibir notificaciones;
+
+IV.- Las pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y estar en condiciones de presumir la responsabilidad del denunciado.
+
+Cuando no se haga alguno de los señalamientos de las fracciones I a la III, el Congreso del Estado podrá desechar por improcedente la denuncia presentada.
+
+Cuando el Congreso presuma que las denuncias se produjeron con falsedad, ameritará para quien las presente, dar vista al ministerio público para que este proceda conforme a derecho.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 15 BIS.- El Congreso del Estado substanciará los procedimientos de juicio político consignados en la presente Ley, por conducto de las Comisiones Jurisdiccionales, que estarán integradas en los términos de la Ley Orgánica del Poder Legislativo y su Reglamento.
+
+La determinación del juicio político se sujetará al siguiente procedimiento previo:
+
+I.- El escrito de denuncia se deberá presentar ante la Oficialía Mayor del Congreso del Estado, y ésta a su vez la turnará a la brevedad posible a la Secretaría del Congreso, quien citará al denunciante, para efectos de que la ratifique, en un término de tres días, contados desde la fecha en que se da por recibida la citación; si el interesado no se presentase a ratificar, ésta será archivada;
+
+II.- Una vez ratificado el escrito, la Secretaría del Congreso del Estado lo turnará con la documentación correspondiente a las Comisiones unidas de Gobernación y Puntos Constitucionales y de Justicia, quienes conocerán previamente las denuncias de juicios políticos;
+
+III.- Las Comisiones Unidas, podrán solicitar al servidor público y al denunciante un informe, previo al dictamen que realicen, y que deberán rendir dentro del término de siete días hábiles siguientes a la notificación del oficio enviado por las Comisiones;
+
+IV.- Las Comisiones procederán en un plazo no mayor de quince días hábiles a determinar si el denunciado se encuentra entre los servidores públicos a que se refiere el artículo 2 de esta Ley, así como si la denuncia contiene elementos de prueba que justifiquen que la conducta atribuída corresponde a las enumeradas en el artículo 12 de la propia Ley, y si los propios elementos de prueba permiten presumir la existencia de la infracción y la probable responsabilidad del denunciado y por tanto, amerita la incoación del procedimiento, turnándose a la Comisión Jurisdiccional, para su tramitación, en caso contrario la Comisión desechará la denuncia presentada;
+
+V.- La resolución que dicten las Comisiones unidas de Gobernación y Puntos Constitucionales y de Justicia, podrá revisarse por el Pleno del Congreso del Estado, a solicitud de cuando menos la mitad más uno de sus miembros.
+
+El dictamen que realicen conjuntamente las Comisiones Unidas, será entregado a la Secretaría del Congreso, para que de cuenta al Presidente del mismo, quien a su vez lo hará del conocimiento del Pleno del Congreso y este resolverá sobre la imputación y el dictamen preliminar, y en su caso declarará si es procedente la denuncia.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 16.
 
-Acreditados los extremos a que se refiere el artículo anterior, la Comisión Instructora practicará todas las diligencias necesarias para la comprobación de la conducta o hechos materia de la denuncia estableciendo las características y circunstancias del caso y precisando la intervención que haya tenido el servidor público denunciado.
+Dentro de los tres días hábiles siguientes a la aprobación del dictamen, por el Pleno del Congreso, la Comisión Jurisdiccional informará al denunciado sobre la materia de la denuncia e inicio del procedimiento de juicio político, haciéndole saber su garantía de defensa y que deberá a su elección, comparecer o informar por escrito, dentro de los siete días hábiles siguiente a la notificación.
 
-Dentro de los tres días hábiles siguientes, a la ratificación de la denuncia, la Comisión notificará por vía de emplazamiento al servidor público de que se trate, sobre la materia de la denuncia, haciéndole saber su garantía de defensa y que deberá, a su elección, comparecer personalmente, a través de un defensor o informar por escrito, dentro de los siete días hábiles siguientes a la notificación citada.
+Acreditados los extremos a que se refiere el párrafo anterior, la Comisión Jurisdiccional practicará todas las diligencia necesarias para la comprobación de la conducta o hechos materia de la denuncia, estableciendo las características y circunstancias del caso y precisando la intervención que haya tenido el servidor público denunciado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 17.
 
-La Comisión, con vista de lo manifestado por lo denunciado o transcurrido el plazo a que se refiere el artículo anterior sin que lo hubiere hecho, abrirá un período de prueba de diez días hábiles dentro del cual recibirá las que ofrezcan el denunciante y el servidor público, así como las que la propia Comisión estime necesarias.
+La Comisión Jurisdiccional, con vista de lo manifestado por lo denunciado o transcurrido el plazo a que se refiere el artículo anterior sin que lo hubiere hecho, abrirá un período de pruebas de 15 días hábiles, dentro del cual recibirá las que ofrezcan las partes, así como las que la propia Comisión estime necesarias.
 
-Si al concluir el plazo señalado no hubiere sido posible desahogar las pruebas, ofrecidas oportunamente, o es preciso allegarse otras, la Comisión podrá ampliarlo hasta por otros cinco días.
+El desahogo de las pruebas se llevará a cabo en el transcurso del ofrecimiento de las mismas, o si es preciso, la Comisión podrá ampliarlo hasta por otros ocho días hábiles.
 
-En todo caso, la Comisión calificará la pertinencia de las pruebas, desechándose las que a su juicio sean improcedentes.
+La Comisión calificará la pertinencia de las pruebas, desechando las que a su juicio sean improcedentes.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 18.
 
-Terminada la instrucción del procedimiento, se pondrá el expediente a la vista del denunciante por un plazo de tres días hábiles y otros tantos al servidor público y sus defensores, con el objeto de que tomen los datos que requieran para formular alegatos, mismos que deberán presentar por escrito dentro de los seis días hábiles siguientes a la conclusión del segundo plazo mencionado.
+Terminada la instrucción del procedimiento, se pondrá el expediente a la vista del denunciante, y del servidor público y sus defensores por un termino de seis días hábiles, con objeto de que tomen los datos que requieran, para que formulen y presenten sus alegatos.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 19.
 
-Transcurrido el plazo para la presentación de alegatos, se hayan o no formulado éstos, la Comisión Instructora formulará dictamen en vista de las constancias del procedimiento. Para este efecto analizará la conducta o los hechos imputados y hará las consideraciones jurídicas que procedan para justificar, en su caso, la conclusión o la continuación del procedimiento.
+Transcurrido el plazo para la presentación de alegatos, se hayan o no formulado éstos, la Comisión Jurisdiccional formulará dictamen en vista de las constancias del procedimiento; para este efecto analizará la conducta o los hechos imputados y hará las consideraciones jurídicas que procedan para justificar, en su caso, la conclusión o la continuación del procedimiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 20.
 
-Si de las constancias del procedimiento se desprende la inocencia del encausado, la Comisión dictaminará que no ha lugar a proceder en su contra por la conducta o el hecho materia de la denuncia que dió origen al procedimiento.
+Si de las constancias del procedimiento se desprende la inocencia del encausado, la Comisión dictaminará que no ha lugar el proceder en su contra, por la conducta o el hecho materia de la denuncia que dio origen al procedimiento.
 
-Si de las constancias aparece la probable responsabilidad del servidor público, el dictamen determinará los siguientes puntos:
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+Si de las constancias se desprende la responsabilidad del servidor público, las conclusiones terminarán proponiendo la aprobación de lo siguiente:
 
 I.- Que está legalmente comprobada la conducta o el hecho materia de la denuncia;
 
-II.- Que existe probable responsabilidad del encausado; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+II.- Que se encuentra acreditada la responsabilidad del encausado y;
 
 III.- La sanción que, en su caso, deba imponerse de acuerdo con el Artículo 13 de esta Ley.
 
@@ -203,17 +271,21 @@ En ambos casos, la Comisión enviará la declaración correspondiente al Congres
 
 En el dictamen deberán asentarse las circunstancias que hubieren concurrido en los hechos.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 21.
 
-La Comisión Instructora deberá formular su dictamen y entregarlo a los Secretarios del Congreso del Estado, dentro del plazo de cinco días hábiles, contados desde el día siguiente a la fecha en que haya transcurrido el plazo para los alegatos o se hubiesen éstos formulado, a no ser que por causa razonable y fundada se encuentre impedida para hacerlo. En este caso, podrá solicitar al Presidente del Congreso o a la Diputación Permanente, se amplíe el plazo por el término de 3 días hábiles para perfeccionar la instrucción.
+La Comisión Jurisdiccional deberá formular su dictamen y entregarlo a los Secretarios del Congreso del Estado dentro del plazo de quince días, contados desde el día siguiente a la fecha en que haya transcurrido el plazo para los alegatos, o se hubiesen formulado éstos, a no ser que por causa razonable y fundada se encuentre impedida para hacerlo. En este caso podrá solicitar al Presidente del Congreso o a la Diputación Permanente se amplíe el plazo por el término de tres días hábiles para perfeccionar el dictamen.
 
 ###### ARTICULO 22.
 
 Los plazos a que este procedimiento se refiere, correrán sin perjuicio de que el Congreso se encuentre en período ordinario de sesiones o en receso.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 23.
 
-Una vez emitido el dictamen a que se refiere el artículo procedente, la Comisión lo entregará a los Secretarios del Congreso para que den cuenta al Presidente del mismo, quien convocará al Congreso a sesión permanente y secreta y dentro de los tres días hábiles siguientes, como jurado para resolver sobre la imputación y el dictamen preliminar.
+Una vez emitido el dictamen a que se refiere el artículo 21, la Comisión lo entregará a los Secretarios del Congreso para que den cuenta al Presidente del mismo, quien convocará al Congreso a sesión permanente y secreta, y dentro de los cinco días hábiles siguientes, como jurado, para resolver sobre la imputación y el dictamen preliminar.
 
 ###### ARTICULO 24.
 
@@ -221,11 +293,11 @@ Reunido el Congreso en los términos del artículo anterior, se iniciará la ses
 
 I.- Se instalará el Congreso cuando menos con las dos terceras partes de sus miembros, erigido en Jurado de Sentencia;
 
-II.- La Secretaría del Congreso dará lectura a las constancias procesales y al dictamen de la Comisión;
+II.- La Secretaría del Congreso dará lectura a las constancias procesales y al dictamen de la comisión;
 
-III.- A continuación se someterán a discusión y a acuerdo el dictamen de la Comisión Instructora y, en su caso, las sanciones aplicables.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-La declaración condenatoria deberá ser aprobada por las dos terceras partes de los miembros asistentes del Congreso.
+III.- A continuación se someterá a discusión y aprobación, en su caso el dictamen de la Comisión Jurisdiccional y las sanciones aplicables. La declaración condenatoria deberá ser aprobada por las dos terceras partes de los miembros asistentes del Congreso.
 
 IV.- Acto seguido y con audiencia del inculpado a quien se citará personalmente, y con su presencia o sin ella, el Congreso dará a conocer la resolución que corresponda.
 
@@ -247,31 +319,45 @@ Transcurrido el término a que se refiere el artículo anterior, se procederá c
 
 EN RESPONSABILIDAD PENAL
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 28.
 
-Los Servidores Públicos a que se refiere el Artículo 104 de la Constitución Política del Estado, durante el tiempo y sólo en el ejercicio de su encargo, podrán ser juzgados por delitos intencionales del orden común que merezcan pena corporal, pero para ello es necesario que previamente el Congreso del Estado, erigido en Jurado de Procedencia, lo declare así por el voto de las dos terceras partes de sus integrantes.
+Cuando se presente denuncia o querella por particulares o requerimiento del Ministerio Público, cumplidos los requisitos procedimentales respectivos, para el ejercicio de la acción penal en contra de alguno de los Servidores Públicos a que se refiere el primer párrafo del artículo 104 de la Constitución Política del Estado, se actuará en lo pertinente de acuerdo con el procedimiento previsto en el capítulo anterior en materia de juicio político ante el Congreso del Estado.
+
+La Comisión Jurisdiccional determinará si subsiste el Fuero Constitucional cuya remoción se solicita, y si ha lugar a proceder en contra del inculpado, y en consecuencia a la separación de su encargo. Si a juicio de la Comisión la imputación fuese notoriamente improcedente, lo hará saber de inmediato al Congreso, para que éste resuelva si se continúa, suspende o desecha el procedimiento, sin perjuicio de reanudarlo, si posteriormente aparecen motivos que lo justifiquen.
+
+Para los efectos del segundo párrafo de este artículo, la Comisión deberá rendir su dictamen en un plazo de treinta días hábiles, salvo que fuese necesario disponer de más tiempo, a criterio de la misma. En este caso se observarán las normas acerca de ampliación de plazos para la recepción de pruebas en el procedimiento referente a juicio político.
+
+Para la declaración de procedencia en responsabilidad penal es necesario que el Congreso del Estado, erigido en Jurado de Procedencia, lo declare así por el voto de las dos terceras partes de los miembros asistentes del Congreso.
 
 ###### ARTICULO 29.
 
-Para proceder penalmente en contra de los servidores públicos a que se refiere el artículo anterior, se requerirá que la Procuraduría General de Justicia del Estado, una vez integrada la averiguación previa, formule la solicitud correspondiente al Congreso del Estado.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1994)
 
-En estos casos, las denuncias podrán ser formuladas ante el Congreso del Estado, o directamente ante la Procuraduría General de Justicia del Estado. En el primer supuesto el Congreso procederá de inmediato a remitir las constancias a la Procuraduría, para que actúe con arreglo a este precepto.
-
-Cuando sea el Procurador de Justicia a quien se pretenda enjuiciar, el Gobernador del Estado será quien haga la solicitud.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 30.
 
-Presentada la solicitud ante la Oficialía Mayor del Congreso, ésta procederá a turnarla de inmediato a la Comisión Instructora o Jurisdiccional para que dentro de los tres días hábiles siguientes notifique al presunto responsable sobre la materia de la solicitud, emplazándolo para que en el término de los cinco días hábiles siguientes, presente las pruebas adicionales o formule los alegatos que estime pertinentes, pudiendo hacerlo por sí mismo o a través de su defensor.
+Presentada la solicitud ante la Oficialía Mayor del Congreso, ésta procederá a turnarla de inmediato a la Secretaría del mismo.
+
+La Comisión Jurisdiccional dentro del término de tres días hábiles siguientes a su recepción, notificará al presunto responsable sobre la materia de la solicitud, emplazándolo para que dentro del término de cinco días hábiles siguientes, presente las pruebas adicionales o formule los alegatos que estime pertinentes, pudiendo hacerlo por sí o a través de su defensor.
 
 En el mismo término, la Comisión podrá allegarse los elementos de prueba que estime necesarios.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 31.
 
-La Comisión dará vista con los nuevos elementos de prueba a la Procuraduría por un plazo de tres días hábiles para que exponga lo que a su representación convenga.
+La Comisión dará vista con los nuevos elementos de prueba al Ministerio Público, por un plazo de tres días hábiles, para que exponga lo que a su representación convenga.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 32.
 
-Transcurridos los plazos anteriores, la Comisión emitirá su dictamen en un plazo no mayor de diez días hábiles, recomendando la resolución que a su juicio proceda, debiéndose reunir el Congreso para resolver, como Jurado de Procedencia conforme al procedimiento que se señala en los Artículos 23 al 25 de esta Ley, en lo conducente.
+Dada cuenta del dictamen correspondiente, el Presidente del Congreso anunciará a este que debe erigirse en Jurado de Procedencia, al día siguiente a la fecha en que se hubiese depositado el dictamen, haciéndolo saber al inculpado y a su defensor, así como al denunciante, o al Ministerio Público en su caso.
+
+El día designado, previa declaración del Presidente del Congreso, éste dará a conocer en la asamblea, el dictamen que la Comisión le presente y actuará en los términos previstos por los artículos 23 al 25 de esta Ley en materia de juicio político.
 
 ###### ARTICULO 33.
 
@@ -301,9 +387,11 @@ El Congreso enviará por riguroso turno a la Comisión Instructora, las denuncia
 
 En ningún caso podrá dispensarse trámite alguno de los establecidos en los Capítulos II y III de este Título.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 39.
 
-Cuando la Comisión Instructora o el Congreso deban realizar una diligencia en la que se requiera la presencia del inculpado, se emplazará a éste fijándole un término de 3 días hábiles para que comparezca o conteste por escrito a los requerimientos que se le hagan; si el inculpado se abstiene de comparecer o de informar por escrito, se entenderá que contesta en sentido negativo.
+Cuando alguna Comisión o el Congreso deban realizar una diligencia en la que se requiera la presencia del inculpado, se emplazará a éste, fijándole un término de 3 días hábiles para que comparezca o conteste por escrito a los requerimientos que se le hagan; si se abstiene de comparecer o de informar por escrito, se entenderá que contesta en sentido negativo.
 
 La Comisión respectiva, cuando se trate de diligencias que deban efectuarse fuera del lugar de residencia del Congreso, se solicitará al Supremo Tribunal de Justicia del Estado, que las encomiende al Juez que corresponda jurisdiccionalmente, para cuyo efecto se remitirá al Supremo Tribunal de Justicia el testimonio de las constancias conducentes.
 
@@ -331,11 +419,13 @@ Las autoridades estarán obligadas a expedir dichas copias certificadas sin demo
 
 Por su parte, la Comisión o la Legislatura Local solicitarán las copias certificadas de constancias que estimen necesarias para el procedimiento, y si la autoridad de quien la solicitasen no las remite dentro del plazo discrecional que se le señale, se le impondrá la multa que refiere el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 43.
 
-La Comisión Instructora o la Legislatura Local podrán solicitar por sí o a instancia de los interesados, los documentos o expedientes originales ya concluidos, y la autoridad de quién se soliciten tendrá la obligación de remitirlos. En caso de incumplimiento, se aplicará la multa dispuesta en el artículo anterior.
+La Comisión o la Legislatura Local, podrán solicitar, por sí o a instancia de los interesados, los documentos o expedientes originales ya concluídos, y la autoridad de quién se solicite tendrá la obligación de remitirlos. En caso de incumplimiento, se aplicará la multa dispuesta en el artículo anterior.
 
-Dictada la resolución definitiva en el procedimiento, los documentos y expedientes mencionados deberán ser devueltos a la oficina de su procedencia, pudiendo dejarse copia certificada de las constancias que la Comisión Instructora o la Legislatura estimen pertinentes.
+Dictada la resolución definitiva en el procedimiento, los documentos y expedientes mencionados deberán ser devueltos a la oficina de su procedencia, pudiendo dejarse copia certificada de las constancias que la Comisión o la Legislatura estimen pertinentes.
 
 ###### ARTICULO 44.
 
@@ -351,9 +441,11 @@ Cuando en el curso del procedimiento incoado a un servidor público de los menci
 
 Si la acumulación fuese procedente, la Comisión formulará en un solo documento sus conclusiones, que comprenderán el resultado de los diversos procedimientos.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 47.
 
-La Comisión Instructora y la Legislatura Local podrán dictar las medidas de apremio que fueren procedentes, mediante acuerdo de la mayoría de sus miembros presentes en la sesión respectiva.
+La Legislatura Local y la Comisión Jurisdiccional podrán dictar las medidas de apremio que fuesen procedentes, mediante acuerdo de la mayoría de sus miembros presentes en la sesión respectiva.
 
 ###### ARTICULO 48.
 
@@ -375,9 +467,11 @@ Son sujetos de responsabilidad administrativa, los servidores públicos a que se
 
 ### CAPITULO II. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 51.
 
-Para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban ser observadas en el desempeño de su cargo o comisión independientemente de las funciones específicas que le correspondan, todo servidor público, sin perjuicio de sus derechos laborales, tendrá las siguientes obligaciones de carácter general:
+Todo servidor público tendrá las siguientes obligaciones, para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño de su cargo o comisión, y cuyo incumplimiento dará lugar al procedimiento y a las sanciones que correspondan, sin perjuicio de sus derechos laborales:
 
 I.- Cumplir con la máxima diligencia el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de un empleo, cargo o comisión;
 
@@ -397,7 +491,7 @@ VIII.- Comunicar por escrito al titular de la dependencia o entidad en la que pr
 
 IX.- Abstenerse de ejercer las funciones de un empleo, cargo o comisión, después de concluído el período para el cual se le designó, o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones;
 
-X.- Abstenerse de dispensar o autorizar a un subordinado a no asistir sin causa justificada por más de quince días continuos o treinta discontinuos en un año, así como otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan;
+X.- Abstenerse de dispensar o autorizar a un subordinado a no asistir sin causa justificada por más de quince días continuos o treinta discontinuos en un año así como otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan;
 
 XI.- Abstenerse de desempañar algún otro empleo, cargo o comisión oficial o particular que la Ley le prohiba;
 
@@ -411,27 +505,61 @@ XV.- Abstenerse, durante el ejercicio de sus funciones, de solicitar, aceptar o 
 
 XVI.- Desempeñar su empleo, cargo o comisión sin obtener o pretender beneficios adicionales a las contraprestaciones comprobables que el Estado le otorga por el desempeño de su función, sean para él o para las personas a las que se refiere la Fracción XIII;
 
-XVII.- Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso, o pueda derivarse alguna ventaja o beneficio para él o para las personas a que se refiere la Fracción XIII;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-XVIII.- Presentar con oportunidad y veracidad la declaración de su situación patrimonial ante el órgano de Contraloría del Estado, en los términos que señale la Ley;
+XVII.- Los servidores públicos que se encuentren facultados para contratar o designar personal en la dependencia u organismo donde laboran o desempeñan un cargo público, deberán abstenerse por sí o por interpósita persona de seleccionar, nombrar, designar, contratar y promover a cualquier servidor público, cuando se den los grados de parentesco a que se refiere la fracción XIII de este artículo.
 
-XIX.- Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba del órgano de Contraloría, conforme a la competencia de ésta;
+Igualmente se abstendrán de intervenir en la suspensión, remoción, cese o sanción de cualquier servidor público cuando se tenga interés personal, familiar o de negocios, o pueda derivar alguna ventaja o beneficio para él o para las personas a que se refiere la fracción precitada;
 
-XX.- Informar por escrito al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este artículo y en los términos de las normas que al efecto se expidan. Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado al órgano de Contraloría del Estado, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite esta comunicación, el subalterno podrá practicarla directamente, informando por escrito a su superior a acerca de este acto;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-XXI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público; y
+XVIII.- Presentar con oportunidad y veracidad la declaración de su situación patrimonial ante el órgano competente, en los términos que señale la Ley;
 
-XXII.- Las demás que le impongan las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+XIX.- Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba del órgano correspondiente, conforme a la competencia de éstos;
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+XX.- Supervisar que los servidores públicos sujetos a su dirección cumplan con las disposiciones de este artículo; y denunciar por escrito ante el superior jerárquico o a la contraloría interna, los actos u omisiones que en ejercicio de sus funciones llegue a advertir respecto de cualquier servidor público que pueda ser causa de responsabilidad administrativa en los términos de ésta ley y de las normas que al efecto se expidan;
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+XXI.- Proporcionar en forma oportuna y veraz la información y datos solicitados por la Institución a la que legalmente le compete la vigilancia y defensa de los derechos humanos, a efecto de que aquella pueda cumplir con las facultades y obligaciones que le correspondan;
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+XXII.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servidor público;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+XXIII.- Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y a la contratación de obra pública con quien desempeñe un empleo cargo o comisión en el servicio público, o bien con las sociedades en que dichas personas forman parte sin la autorización previa y específica de la Contraloría o de la Contaduría Mayor de Hacienda del H. Congreso del Estado cuando se trate de Ayuntamientos y sus entidades, a propuesta razonada conforme a las disposiciones legales aplicables del Titular de la dependencia o entidad de que se trate. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+XXIV.- Abstenerse de destinar recursos materiales o humanos para apoyar las campañas electorales de partidos políticos o candidatos;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+XXV.- Efectuar la entrega de la administración a su cargo, dependencia, departamento, entidad, o cuando su superior jerárquico así lo señale, en los términos de la Ley de Entrega Recepción de los Recursos Públicos del Estado de San Luis Potosí;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+XXVI.- Recibir la administración que estará a su cargo, dependencia, departamento, entidad o cuando su superior jerárquico así lo señale, en los términos de la Ley Entrega Recepción de los Recursos Públicos del Estado de San Luis Potosí; y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+XXVII.- Las demás que les impongan las leyes y reglamentos.
 
 Se incurre en responsabilidad administrativa, por el incumplimiento de cualesquiera de las obligaciones a que se refiere el artículo, dando lugar a la instrucción del procedimiento ante los órganos disciplinarios y a la aplicación de las sanciones que en esta Ley se consignan, atendiendo a la naturaleza de la obligación que se transgreda.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 52.
 
-Para los efectos de esta Ley se entenderá por Contraloría el órgano de Contraloría del Estado.
+Para los efectos de esta Ley se entenderá por Contraloría: La Coordinación General de Contraloría del Estado.
 
-Para los mismos efectos, en el Gobierno del Estado se entenderá por superior jerárquico al titular de la dependencia correspondiente, y en el caso de las entidades paraestatales al Director General o su equivalente, el cual aplicará las sanciones cuya imposición se le atribuyen.
-
-En los mismos términos, en el Gobierno Municipal se entenderá por superior jerárquico del Ayuntamiento, quien aplicará las sanciones cuya imposición se le atribuyen a través del Presidente Municipal.
+Para los mismos efectos, en el Gobierno del Estado, se entenderá por superior jerárquico al Titular de la dependencia correspondiente, y, en el caso de las entidades paraestatales al director general o su equivalente, el cual aplicará las sanciones cuya imposición se le atribuya; en los mismos términos en el Gobierno Municipal se entenderá por superior jerárquico al Ayuntamiento, quien aplicará las sanciones cuya imposición se le atribuyen, a través del Presidente Municipal.
 
 ### CAPITULO III. SANCIONES ADMINISTRATIVAS
 
@@ -457,6 +585,10 @@ Lo propio hará, conforme a la legislación respectiva y por lo que hace a su co
 
 Los Ayuntamientos establecerán órganos y sistemas en los términos del primer párrafo de este artículo y aplicarán las sanciones respectivas a sus servidores públicos, previa instrucción de los procedimientos por el Presidente Municipal.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+Asimismo y por lo que hace a su competencia, las autoridades jurisdiccionales a que se refiere la fracción IV y VIII a X del artículo 3o. de esta ley, determinarán los órganos y sistemas para los efectos a que se refiere el párrafo primero en los términos de su legislación respectiva.
+
 ###### ARTICULO 56.
 
 Los servidores públicos de la Contraloría que incurran en responsabilidad por incumplimiento de las obligaciones establecidas en el Artículo 51, serán sancionados conforme al presente capítulo por el Titular de la dependencia o, en su caso, por el Gobernador del Estado.
@@ -475,9 +607,19 @@ IV.- Destitución del puesto;
 
 V.- Sanción económica; y
 
-VI.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños o perjuicios, será de seis meses a tres años si el monto de aquéllos no excede de cien veces al salario mínimo mensual vigente en la Capital del Estado y de tres a diez años si excede de dicho límite.
+VI.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones del servicio público.
+
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que impliquen lucro o causen daños o perjuicios, será de un año hasta diez años, si el monto de aquéllos no excede de doscientas veces el salario mínimo mensual vigente en la capital del estado y de diez a vente años, si excede de dicho límite. El primer plazo de inhabilitación también será aplicable por conductas graves de los servidores públicos.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+Para que una persona que hubiere sido inhabilitada en los términos de la Ley por un plazo mayor de diez años, pueda volver a desempeñar un empleo, cargo o comisión en el servicio público, una vez transcurrido el plazo de la inhabilitación impuesta, se requerirá que el Titular de la Dependencia o Entidad a la que pretende ingresar, de aviso a la Contraloría, y a la Contaduría Mayor de Hacienda del H. Congreso del Estado, en forma razonada y justificada de tal circunstancia.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+La contravención a lo dispuesto por el párrafo que antecede será causa de responsabilidad administrativa en los términos de esta Ley, quedando sin efecto el nombramiento o contrato que en su caso se haya realizado.
 
 ###### ARTICULO 58.
 
@@ -539,13 +681,25 @@ El superior jerárquico enviará a la Contraloría copia de las denuncias, cuand
 
 En caso de que las Dependencias no cuenten con órganos de control interno, las funciones enunciadas en los párrafos que antecede, serán asumidas por la Dirección de Contraloría del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 62.
 
-Si las autoridades competentes para imponer sanciones, tuvieren conocimiento de hechos que impliquen responsabilidad penal, darán vista de ellos a la Contraloría para conocer del caso o participar en las investigaciones.
+La Contaduría Mayor de Hacienda aplicará las sanciones correspondientes a sus Auditores y a los Contralores internos de los Ayuntamientos, cuando estos incurran en actos u omisiones que impliquen responsabilidad administrativa, por su parte la Contraloría lo hará en el caso de los Contralores Internos de cada Dependencia.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 62 BIS.- Incurrirán en responsabilidad administrativa a los servidores públicos de las Contralorías internas que se abstengan injustificadamente de sancionar a los infractores o que, al hacerlo, no se ajusten a lo previsto por esta ley. La Contraloría informará de ello al titular de la dependencia y aplicará las sanciones correspondientes.
+
+En el proceso de entrega recepción incurrirá en responsabilidad administrativa, quien se abstenga de entregar, así como a quien le corresponda recibir, quienes se ajustarán a lo previsto por la Ley de Entrega Recepción de los Recursos Públicos del Estado de San Luis Potosí, y a lo previsto por esta ley. La Contaduría Mayor de Hacienda del H. Congreso del Estado informará de ello al Congreso del Estado y aplicará las sanciones correspondientes.
+
+La Contraloría interna de cada dependencia, será competente para imponer, por acuerdo del superior jerárquico, sanciones disciplinarias excepto las económicas cuyo monto sea superior al salario mínimo mensual vigente en el Estado, las que están reservadas exclusivamente a la Contraloría y a la Contaduría Mayor de Hacienda del H. Congreso del Estado, quienes comunicarán los resultados del procedimiento al titular de la dependencia o Entidad Municipal. En estos casos la contraloría interna, previo informe al superior jerárquico, turnará el asunto a la autoridad competente.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 63.
 
-Si las autoridades competentes para imponer sanciones, tuvieren conocimiento de los hechos que impliquen responsabilidad penal, darán vista de ellos a la Contraloría y a la autoridad competente para conocer del ilícito, cuando se trate de servidores públicos municipales el Presidente Municipal dará vista al Ayuntamiento y a la autoridad competente en el caso.
+Si las Autoridades competentes para imponer sanciones tuvieren conocimiento de hechos que impliquen responsabilidad penal, darán vista de ellos a la Contraloría y a la autoridad competente para conocer del ilícito o participar en las investigaciones; cuando se trate de servidores públicos municipales, el Presidente Municipal dará conocimiento al Ayuntamiento y a la Autoridad competente en el caso.
 
 ###### ARTICULO 64.
 
@@ -565,7 +719,9 @@ En su caso también asistirá a la audiencia el representante de la dependencia 
 
 Entre la fecha de la citación y de la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
 
-II.- Al concluir la audiencia o dentro de los quince días siguientes, la autoridad resolverá sobre la inexistencia de responsabilidad o impondrá al infractor las sanciones administrativas correspondientes y notificará la resolución dentro de las veinticuatro horas siguientes al interesado, a su jefe inmediato, al representante designado por la dependencia y al superior jerárquico;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+II.- Desahogadas las pruebas si las hubiese, la autoridad resolverá dentro de los quince días hábiles siguientes, sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes y notificará la resolución dentro de las setenta y dos horas siguientes, al interesado, a su jefe inmediato, al representante designado por la dependencia y al titular de la Dependencia o Entidad;
 
 III.- Si en la audiencia se encontrare que no existen elementos suficientes para resolver o se advierten elementos que impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, se podrá disponer la práctica de investigación y citar para otra u otras audiencias; y
 
@@ -595,23 +751,37 @@ La Contraloría expedirá constancias que acrediten la inexistencia de inhabilit
 
 Lo dispuesto en el párrafo anterior, es aplicable a los Ayuntamientos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 71.
 
-Las resoluciones en las que impongan sanciones administrativas, podrán ser impugnadas por el servidor público ante la propia autoridad que las dicte, mediante recurso de revocación, que se interpondrá dentro de los diez días hábiles siguientes a la fecha en que surta efectos la notificación de la resolución recurrida.
-
-La tramitación del recurso se sujetará a las normas siguientes:
+Las resoluciones en las que impongan sanciones administrativas podrán ser impugnadas por el servidor público ante la propia autoridad que las dicte, mediante recurso de revocación, que se interpondrá dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación de la resolución recurrida, la tramitación del recurso se sujetará a las normas siguientes:
 
 I.- Se iniciará mediante escrito en el que deberán expresarse los agravios que a juicio del servidor público le causa la resolución, acompañando copia de éste y constancia de la notificación de la misma, así como la proposición de las pruebas que considere necesario rendir;
 
-II.- La autoridad admitirá el recurso y las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se base la resolución. Las pruebas admitidas se desahogarán en un plazo de cinco días hábiles, que a solicitud del servidor público o de la autoridad, podrá ampliarse por una sola vez en cinco días más; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-III.- Concluído el período probatorio, el superior jerárquico emitirá resolución en el acto, o dentro de los tres días siguientes, notificándola al interesado.
+II.- La autoridad acordará sobre la admisibilidad del recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se base la resolución;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+III.- Desahogadas las pruebas en un plazo de quince días hábiles si las hubiere, la autoridad emitirá resolución dentro de los quince días hábiles siguientes notificándola al interesado en un plazo no mayor de setenta y dos horas.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 71 BIS.- Los servidores públicos sancionados podrán impugnar ante el Tribunal de lo Contencioso Administrativo, las resoluciones administrativas por las que se les impongan las sanciones a que se refiere este Capítulo.
+
+Las resoluciones anulatorias firmes, dictadas por el Tribunal, tendrán el efecto de que la dependencia o entidad en la que el servidor público preste o haya prestado sus servicios, los restituya en el goce de los derechos de que hubiese sido privada por la ejecución de las sanciones anuladas, sin perjuicio de lo que establecen otras Leyes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 72.
 
-La interposición del recurso suspenderá la ejecución de la resolución recurrida, si lo solicita el promovente, conforme a estas reglas:
+La interposición del recurso suspenderá la ejecución de la resolución recurrida, si lo solicita el promovente, conforme a las siguientes reglas:
 
-I.- Tratándose de sanciones, si el pago de ésta se garantiza en los términos previstos por el Código Fiscal del Estado, para garantizar el interés fiscal;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+I.- Tratándose de sanciones económicas, si el pago de estas se garantiza en los términos previstos por el Código Fiscal del Estado,
 
 II.- Tratándose de otras sanciones, se concederá la suspensión si concurren los siguientes requisitos:
 
@@ -624,6 +794,12 @@ c).- Que la suspensión no traiga como consecuencia la consumación o continuaci
 ###### ARTICULO 73.
 
 Las resoluciones anulatorias que causen ejecutoria, tendrán el efecto de restituir al servidor público en el goce de los derechos de que hubiere sido privado por la ejecución de las sanciones anuladas, sin perjuicio de lo que establecen otras leyes.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 73 BIS.- El servidor público, afectado por las resoluciones administrativas que se dicten conforme a esta Ley, podrá optar por imponer el recurso de revocación o impugnarlas directamente ante el Tribunal de lo Contencioso Administrativo.
+
+La resolución que se dicte en el recurso de revocación será también impugnable ante el Tribunal de lo Contencioso Administrativo.
 
 ###### ARTICULO 74.
 
@@ -647,43 +823,69 @@ II.- Auxilio de la fuerza pública.
 
 Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la legislación penal del Estado.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 76 BIS.- Cuando en el procedimiento administrativo disciplinario se haya determinado la responsabilidad del servidor público y que la falta administrativa haya causado daños y perjuicios a particulares, éstos podrán acudir a la dependencia, entidades o a la autoridad competente para que ellas directamente reconozcan la responsabilidad de indemnizar la reparación del daño en cantidad líquida y, en consecuencia, ordenar el pago correspondiente, sin necesidad que los particulares acudan a la instancia judicial o a cualquier otra.
+
+El Estado podrá exigir de los servidores públicos el pago de indemnización hecha a los particulares.
+
+Si el órgano del Estado niega la indemnización, o si el monto no satisface al reclamante, se tendrá a su elección la vía administrativa o judicial.
+
+Cuando se haya aceptado una recomendación de la Comisión Nacional o Estatal de Derechos Humanos, en la que se proponga la reparación de daños y perjuicios la autoridad competente se limitará a su determinación en cantidad líquida y ordenará el pago respectivo.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE 1994)</small>
+
 ###### ARTICULO 77.
 
-Las facultades para imponer las sanciones que esta Ley prevé se sujetarán a lo siguiente:
+Las facultades para imponer la sanción, que esta Ley prevé, se sujetarán a lo siguiente:
 
-I.- Caducarán en tres meses si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo diario vigente en la zona económica, o si la responsabilidad no fuese estimable en dinero. El plazo para la caducidad se contará a partir del día hábil siguiente a aquel en que se hubiere incurrido en la responsabilidad o a partir del momento en que se hubiese cesado, si fuese de carácter contínuo; y
+I.- Caducarán en un año si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo mensual vigente en la zona económica y;
 
 II.- En los demás casos caducarán en tres años.
+
+El plazo de caducidad se contará a partir del día siguiente a aquel en que se hubiere incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo.
+
+III.- El derecho de los particulares a solicitar la indemnización de daños y perjuicios, prescribirá en un año, a partir de la notificación de la resolución administrativa que haya declarado cometida la falta administrativa.
 
 ## TITULO CUARTO
 
 ### CAPITULO UNICO. REGISTRO PATRIMONIAL DE LOS SERVIDORES PÚBLICOS
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE 1994)</small>
+
 ###### ARTICULO 78.
 
-La Contraloría llevará el registro de la situación patrimonial de los servidores públicos de conformidad con esta Ley y demás disposiciones aplicables.
+La Contraloría llevará el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos de las dependencias y entidades de la administración pública estatal, así como de los órganos jurisdiccionales a que se refieren las fracciones VIII a X del artículo 3o. en los términos de esta ley y demás disposiciones aplicables.
+
+Las atribuciones que este titulo otorga a la Contraloría, se confieren, en el ámbito de sus respectivas competencias, tanto al Supremo Tribunal de Justicia del Estado, y al Congreso del Estado quienes conocerán además las declaraciones presentadas por los servidores públicos de los órganos jurisdiccionales a que se refiere la fracción IV y VII del artículo 3o. de ésta Ley.
+
+Para los efectos del párrafo que antecede, las citadas autoridades, conforme a la legislación respectiva, determinarán los órganos encargados de ejercer dichas atribuciones, así como los sistemas que se requieran para tal propósito.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE 1994)</small>
 
 ###### ARTICULO 79.
 
-Tienen la obligación de presentar declaración de situación patrimonial en los términos y plazos señalados por la presente Ley ante la Contraloría, bajo protesta de decir verdad:
+Tienen la obligación de presentar declaración patrimonial en los términos y plazos señalados por la presente ley, bajo protesta de decir verdad:
 
-I.- En el Congreso del Estado: Los Diputados, Oficial Mayor, Tesorero y Contador Mayor de Glosa;
+I.- En el H. Congreso del Estado: los Diputados y el Oficial Mayor;
 
-II.- En el Poder Ejecutivo Estatal: Todos los servidores públicos, desde el Gobernador del Estado, hasta los jefes de Departamento, sí como aquellos que manejen, recauden o administren fondos y recursos estatales.
+II.- En el Poder Ejecutivo Estatal: todos los servidores públicos, desde el Gobernador del Estado, hasta los Jefes de Departamento, así como aquellos que manejen, recauden o administren fondos y recursos estatales.
 
-En la Procuraduría General de Justicia del Estado, desde el Procurador General hasta los Jefes de Departamento, incluyendo a los Agentes de la Policía Judicial.
+En la Procuraduría General de Justicia del Estado desde el Procurador General hasta los Jefes de Departamento, incluyendo a los agentes del Ministerio Público y agentes de la Policía Judicial.
 
-En los Tribunales del Trabajo: Miembros de la Junta, Secretarios y Actuarios;
+En el Tribunal de lo Contencioso Administrativo y en los Tribunales del trabajo: Magistrados, miembros de la Junta, Secretarios y Actuarios;
 
-III.- En la Administración Pública Paraestatal: Directores Generales, Gerentes, Jefes de Departamento y servidores públicos equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones similares, y de fideicomisos públicos;
+III.- En el Poder Judicial Estatal: Magistrados, Jueces, Secretarios, y Actuarios de cualquier categoría o designación y Oficiales Mayores;
 
-IV.- En la Administración Pública Municipal:
+IV.- En la Contaduría Mayor de Hacienda del H. Congreso del Estado: Todos los servidores públicos de confianza;
 
-Desde el Presidente Municipal, Regidores, Síndicos, Secretarios, Tesorero, Oficial Mayor hasta los servidores públicos con nivel de Jefes de Departamento, o sus equivalentes y aquellos que manejen, recauden o administren fondos y recursos municipales, así como los agentes de policía;
+V.- En la Administración Pública Paraestatal: Directores Generales, Gerentes, Jefes de Departamento, servidores públicos equivalentes de los organismos descentralizados, empresa de participación estatal mayoritaria, sociedades y asociaciones similares y fideicomisos públicos;
 
-V.- En el Poder Judicial Estatal: Magistrados, Jueces, Secretarios y Actuarios de cualquier categoría o designación y, Oficiales Mayores, y
+VI.- En la Administración Pública Municipal desde el Presidente Municipal, Regidores, Síndicos, Secretario General, Tesorero, Oficial Mayor y Contralor Interno, hasta los servidores públicos con nivel de Jefes de Departamento o sus equivalentes. y aquellos que manejen, recauden o administren fondos y recursos municipales, y federales, así como los Agentes de Policía y Tránsito; y
 
-VI.- En la Contraloría: Todos los servidores públicos de confianza.
+VII.- En la Contraloría todos los servidores públicos de confianza.
+
+El servidor público que en su declaración de situación patrimonial faltare a la verdad en relación con lo que es obligatorio manifestar en términos de esta ley, será suspendido y, cuando por su importancia lo amerite, destituido e inhabilitado de su cargo público por un término de tres meses a seis años.
 
 ###### ARTICULO 80.
 
@@ -695,33 +897,39 @@ II.- Dentro de los treinta días naturales siguientes a la conclusión del encar
 
 III.- Durante el mes de mayo de cada año deberá presentarse la declaración de situación patrimonial, acompañada de una copia de la declaración anual para efectos del Impuesto Sobre la Renta, salvo en que ese mismo año se hubiese presentado la declaración a que se refiere la fracción I.
 
-Si transcurridos los plazos a que hacen referencia las Fracciones I y III, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efectos el nombramiento respectivo, previa declaración de la Contraloría, substanciando el procedimiento administrativo que establece el Título Tercero de esta Ley, cuya declaratoria se comunicará al superior jerárquico y en su caso, al Supremo Tribunal de Justicia del Estado y al Congreso del Estado, para que procedan en los términos de Ley. Para el caso que se omita la declaración contemplada en la Fracción II, procede la aplicación de sanción económica por el importe de doce meses de sueldo presupuestal que rija en el momento de la conclusión del encargo y en su caso inhabilitación hasta por cinco años.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE 1994)</small>
+
+Si transcurridos los plazos a que hacen referencia las Fracciones I y III, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efectos el nombramiento respectivo, previa declaración de la autoridad que le corresponda conocer de la declaración patrimonial, substanciando el procedimiento administrativo que establece el Título Tercero de esta Ley, cuya declaratoria se comunicará al Superior Jerárquico y, en su caso, al Supremo Tribunal de Justicia del Estado y al Congreso del Estado, para que procedan en los términos de Ley. Para el caso que omita la declaración contemplada en la fracción II, procede la aplicación de sanción económica por el importe de doce meses de sueldo presupuestal que rija en el momento de la conclusión del encargo y en su caso inhabilitación de su cargo público hasta por cinco años.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE 1994)</small>
 
 ###### ARTICULO 81.
 
-La Contraloría expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que señalen lo que es obligatorio declarar.
+La Contaduría Mayor de Hacienda del H. Congreso del Estado expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que señalen lo que es obligatorio declarar y los distribuirá a los órganos en los distintos ámbitos de sus competencias.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE 1994)</small>
 
 ###### ARTICULO 82.
 
-En la declaración inicial y final de situación patrimonial, se manifestarán los bienes inmuebles, con la fecha y valor de adquisición.
+En la declaración inicial y final de situación patrimonial, se manifestarán los bienes inmuebles, con la fecha y valor de adquisición. En las declaraciones anuales se manifestarán sólo las modificaciones a su situación patrimonial.
 
-En las declaraciones anuales se manifestarán sólo las modificaciones al patrimonio personal.
+Tratándose de bienes muebles, la Contaduría Mayor de Hacienda del H. Congreso del Estado decidirá mediante Acuerdo General, las características que deba tener la declaración.
 
-Tratándose de bienes muebles, la Contraloría decidirá, mediante Acuerdo General, las características que deba tener la declaración.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE 1994)</small>
 
 ###### ARTICULO 83.
 
-Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, la Contraloría podrá ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección y auditorías. Cuando estos actos requieran orden de autoridad judicial, la Contraloría acudirá ante el Ministerio Público para el trámite correspondiente.
+Cuando exista denuncia fundada respecto de ingresos ilícitos que pudiera tener un servidor público, la autoridad competente para conocer de la declaración patrimonial de los servidores públicos, podrá ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección y auditorías. Cuando estos actos ameriten orden de autoridad judicial, la autoridad que la requiera acudirá ante el Ministerio Público para el trámite correspondiente.
 
-Previamente a la inspección o al inicio de la auditoría, se dará cuenta al servidor público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquéllos consten, para que exponga lo que a su derecho convenga.
+Previamente a la inspección o al inicio de la auditoría se dará cuenta al servidor público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquellos consten, para que exponga lo que a su derecho convenga.
 
-Todas las actas que se levanten con motivo de la visita deberán ir firmadas por el servidor público y los testigos que para tal efecto designe.
+Todas las actas que se levanten con motivo de la visita deberán ser firmadas por el servidor público y los testigos que para tal efecto se designen. Si el servidor público o los testigos se negaren a firmar, el visitador lo hará constar, sin que estas circunstancias afecten el valor probatorio que en su caso, tenga dicho documento.
 
-Si el servidor público o los testigos que se negaren a firmar, el visitador lo hará constar, sin que estas circunstancias afecten el valor probatorio que en su caso, tenga dicho documento.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE 1994)</small>
 
 ###### ARTICULO 84.
 
-El servidor público a quien se practique visita de investigación o auditoría, podrá interponer inconformidad ante la Contraloría respectiva contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los quince días hábiles siguientes a la conclusión de aquéllas, en el que se expresarán los motivos de la inconformidad y ofrecerá las pruebas que considere pertinentes.
+El servidor público a quien se practique la visita de investigación o auditoría, podrá interponer inconformidad ante la autoridad que emitió la orden respectiva, contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los quince días hábiles siguientes a la conclusión de aquellas, en el que se expresarán los motivos de la inconformidad y ofrecerá las pruebas que considere pertinentes.
 
 ###### ARTICULO 85.
 
@@ -731,9 +939,11 @@ Serán sancionados el los términos que dispone el Código Penal, los servidores
 
 Para los efectos de esta Ley y del Código Penal, se computarán entre los bienes que adquieran los servidores públicos o respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que acredite que estos bienes los obtuvieron por sí mismos y por motivos ajenos al servidor público.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE 1994)</small>
+
 ###### ARTICULO 87.
 
-La Contraloría hará al Ministerio Público en su caso, declaratoria de que el servidor público sujeto a la investigación respectiva, en los términos de la presente Ley, no justificó la procedencia lícita del incremento substancial de su patrimonio, de los bienes adquiridos o de aquellos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivo del mismo.
+La autoridad competente hará al Ministerio Público en su caso, denuncia de que el servidor público sujeto a la investigación respectiva, en los términos de la presente ley, no justificó la procedencia lícita del incremento substancial de su patrimonio, de los bienes adquiridos o de aquellos sobre los que se conduzca como dueño, durante el tiempo de su encargo o con motivo del mismo.
 
 ###### ARTICULO 88.
 
@@ -745,11 +955,13 @@ En ningún caso se podrán recibir de dichas personas títulos, valores, bienes 
 
 Se castigará como cohecho las conductas ilícitas de los servidores públicos que violen lo dispuesto en este artículo y serán sancionados en los términos de la legislación penal.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE 1994)</small>
+
 ###### ARTICULO 89.
 
-Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se mencionan en el artículo anterior y cuyo monto sea superior al que en él se establece, o sean de los estrictamente prohibidos, deberán entregarlos a la Contraloría en un plazo no mayor de cinco días a partir de la fecha en que los reciban.
+Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se mencionan en el artículo anterior y cuyo monto sea superior al que en él se establece, o sean de los estrictamente prohibidos, deberán entregarlos a su contraloría interna dentro de un término de tres días a partir de la fecha en que los reciban, y darán conocimiento de lo anterior a su superior jerárquico inmediato; en un plazo no mayor de dos días.
 
-La Contraloría llevará un registro de los obsequios, donaciones o beneficios en general que reciba de los servidores públicos, destinando dichos bienes a las dependencias o entidades paraestatales que determine, de acuerdo a su naturaleza y características específicas. Las mismas llevarán también un registro, quedando a la Contraloría facultada para inspeccionar y vigilar el registro y destino de los mismos. Así como los asientos contables a fin de comprobar su correcta disposición y el cumplimiento de las normas aplicables y las que se expidan sobre la materia.
+Las Contralorías internas llevarán un registro de los obsequios, donaciones o beneficios en general que reciban de los servidores públicos, destinando dichos bienes a instituciones de asistencia y beneficencia debidamente acreditadas; las instituciones públicas que reciban este beneficio, deberán llevar un registro de dichas donaciones; la Contaduría Mayor de Hacienda del H. Congreso del Estado y la Contraloría quedan facultadas para inspeccionar y vigilar el registro y destino de los mismos en el ámbito de su competencia.
 
 ## TRANSITORIOS
 
@@ -782,3 +994,11 @@ LEOPOLDINO ORTIZ SANTOS
 El Secretario General de Gobierno
 
 JUAN RAMIRO ROBLEDO RUIZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE DICIEMBRE DE 1994.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las declaraciones patrimoniales que se efectúen con posterioridad a la vigencia de las reformas, adiciones y derogaciones a la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios de San Luis Potosí que comprende el presente Decreto, estarán a lo dispuesto en las normas vigentes en el momento de formular dichas declaraciones, debiendo turnar la Coordinación General de la Contraloría del Estado, al Congreso del Estado y al Supremo Tribunal de Justicia las declaraciones patrimoniales correspondientes a su competencia, en un plazo no mayor de treinta días naturales contados a partir de la fecha en que entre en vigor el presente Decreto, así como el registro señalado en el segundo párrafo del artículo 89 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí vigente hasta la aprobación de esta iniciativa.
