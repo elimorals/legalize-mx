@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "1999-02-08"
+last_updated: "1999-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 1999.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -708,6 +708,8 @@ I.- El lugar y la fecha en que se expida la cita;
 II.- El objeto de ella con expresión de los nombres y apellidos del acusado, del delito por el cual debe ser juzgado y la designación de la persona contra quien fue cometido;
 
 III.- El lugar, día y hora en que deba instalarse el jurado;
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 IV.- La conminación de que si el citado no concurriere pagará una multa de cinco a cien pesos, o sufrirá arresto de uno a quince días; y
 
@@ -1713,27 +1715,147 @@ La violación a lo dispuesto en el párrafo anterior hará penalmente responsabl
 
 De decretar la retención, el Ministerio Público iniciará desde luego la averiguación previa correspondiente, si aún no lo ha hecho.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-###### ARTICULO 194.
+ARTICULO 193 BIS.- En casos urgentes el Ministerio Público podrá, bajo su responsabilidad, ordenar por escrito la detención de una persona, fundando y expresando los indicios que acrediten:
 
-En casos urgentes el Ministerio Público podrá, bajo su responsabilidad, ordenar por escrito la detención de una persona, fundando y expresando los indicios que acrediten:
+a) Que el indiciado haya intervenido en la comisión de alguno de los delitos señalados como graves en el artículo siguiente;
 
-a) Que el indiciado haya intervenido en la comisión de alguno de los delitos señalados como graves en este artículo;
-
-b) Que exista riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia; y
+b) Que exista riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, y
 
 c) Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda ocurrir ante autoridad judicial para solicitar la orden de aprehensión.
 
 La violación de esta disposición hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal: homicidio por culpa grave, previsto en el artículo 60 tercer párrafo; traición a la Patria, previsto en los artículos 123, 124, 125 y 126; espionaje, previsto en los artículos 127 y 128; terrorismo, previsto en el artículo 139, párrafo primero; sabotaje, previsto en el artículo 140 párrafo primero, así como los previstos en los artículos 142 párrafo segundo y 145; piratería, previsto en los artículos 146 y 147; genocidio, previsto en el artículo 149 bis; evasión de presos, previsto en los artículos 150 y 152; ataques a las vías de comunicación, previsto en los artículos 168 y 170; uso ilícito de instalaciones destinadas al tránsito aéreo, previsto en el artículo 172 bis párrafo tercero; contra la salud, previsto en los artículos 194, 195, párrafo primero, 195 bis, excepto cuando se trate de los casos previstos en las dos primeras líneas horizontales de las tablas contenidas en el apéndice I, 196 bis, 197, párrafo primero y 198, parte primera del párrafo tercero; corrupción de menores, previsto en el artículo 201; trata de personas, previsto en el artículo 205, segundo párrafo; explotación del cuerpo de un menor de edad por medio del comercio carnal, previsto en el artículo 208; falsificación y alteración de moneda, previsto en los artículos 234, 236 y 237; falsificación y utilización indebida de documentos relativos al crédito, previstos en el artículo 240 bis, salvo el previsto en la fracción III; violación previsto en los artículos 265, 266 y 266 bis; asalto en carreteras o caminos, previstos en el artículo 286, segundo párrafo; homicidio, previsto en los artículos 302 con relación al 307, 313, 315, 315 bis, 320 y 323; secuestro, previsto en el artículo 366, salvo el antepenúltimo párrafo; robo calificado, previsto en el artículo 367, en relación con el 370 párrafo segundo y tercero, cuando se realice en cualquiera de las circunstancias señaladas en los artículos 372, 381, fracciones VII, VIII, IX, X, XI, XIII y XVI, y 381 bis; robo, previsto en el último párrafo del artículo 371; los previstos en el artículo 377; extorsión, previsto en el artículo 390 y operaciones con recursos de procedencia ilícita, previsto en el artículo 400 bis; así como los previstos en los artículos 83, fracción III, 83 bis, salvo el previsto en la fracción I, 83 ter fracción III, 84 y 84 bis primer párrafo, de la Ley Federal de Armas de Fuego y Explosivos; tortura, previsto en los artículos 3o. y 5o. de la Ley Federal para Prevenir y Sancionar la Tortura; tráfico de indocumentados, previsto en el artículo 138 de la Ley General de Población; y los previstos en los artículos 104, fracciones II y III, último párrafo y 105 fracción IV del Código Fiscal de la Federación.
+###### ARTICULO 194.
 
-> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1999)</small>
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en los ordenamientos legales siguientes:
 
-La tentativa punible de los ilícitos penales mencionados en el párrafo anterior, también se califica como delito grave.
+I. Del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, los delitos siguientes:
+
+1) Homicidio por culpa grave, previsto en el artículo 60, párrafo tercero;
+
+2) Traición a la patria, previsto en los artículos 123, 124, 125 y 126;
+
+3) Espionaje, previsto en los artículos 127 y 128;
+
+4) Terrorismo, previsto en el artículo 139, párrafo primero;
+
+5) Sabotaje, previsto en el artículo 140, párrafo primero;
+
+6) Los previstos en los artículos 142, párrafo segundo y 145;
+
+7) Piratería, previsto en los artículos 146 y 147;
+
+8) Genocidio, previsto en el artículo 149 Bis;
+
+9) Evasión de presos, previsto en los artículos 150 y 152;
+
+10) Ataques a las vías de comunicación, previsto en los artículos 168 y 170;
+
+11) Uso ilícito de instalaciones destinadas al tránsito aéreo, previsto en el artículo 172 Bis párrafo tercero;
+
+12) Contra la salud, previsto en los artículos 194, 195, párrafo primero, 195 Bis, excepto cuando se trate de los casos previstos en las dos primeras líneas horizontales de las tablas contenidas en el apéndice I, 196 Bis, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero;
+
+13) Corrupción de menores o incapaces, previsto en el artículo 201;
+
+14) Los previstos en el artículo 205, segundo párrafo;
+
+15) Explotación del cuerpo de un menor de edad por medio del comercio carnal, previsto en el artículo 208;
+
+16) Falsificación y alteración de moneda, previsto en los artículos 234, 236 y 237;
+
+17) Falsificación y utilización indebida de documentos relativos al crédito, previsto en el artículo 240 Bis, salvo la fracción III;
+
+18) Contra el consumo y riqueza nacionales, previsto en el artículo 254, fracción VII, párrafo segundo;
+
+19) Violación, previsto en los artículos 265, 266 y 266 Bis;
+
+20) Asalto en carreteras o caminos, previsto en el artículo 286, segundo párrafo;
+
+21) Lesiones, previsto en los artículos 291, 292 y 293, cuando se cometa en cualquiera de las circunstancias previstas en los artículos 315 y 315 Bis;
+
+22) Homicidio, previsto en los artículos 302 con relación al 307, 313, 315, 315 Bis, 320 y 323;
+
+23) Secuestro, previsto en el artículo 366, salvo el antepenúltimo párrafo;
+
+24) Robo calificado, previsto en el artículo 367 cuando se realice en cualquiera de las circunstancias señaladas en los artículos 372 y 381, fracciones VII, VIII, IX, X, XI, XIII, XV y XVI;
+
+25) Robo calificado, previsto en el artículo 367, en relación con el 370 párrafos segundo y tercero, cuando se realice en cualquiera de las circunstancias señaladas en el artículo 381 Bis;
+
+26) Comercialización habitual de objetos robados, previsto en el artículo 368 Ter;
+
+27) Sustracción o aprovechamiento indebido de hidrocarburos o sus derivados, previsto en el artículo 368 Quáter, párrafo segundo;
+
+28) Robo, previsto en el artículo 371, párrafo último;
+
+29) Robo de vehículo, previsto en el artículo 376 Bis;
+
+30) Los previstos en el artículo 377;
+
+31) Extorsión, previsto en el artículo 390;
+
+32) Operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis, y
+
+33) En materia de derechos de autor, previsto en el artículo 424 Bis.
+
+II. De la Ley Federal contra la Delincuencia Organizada, el previsto en el artículo 2.
+
+III. De la Ley Federal de Armas de Fuego y Explosivos, los delitos siguientes:
+
+1) Portación de armas de uso exclusivo del Ejército, Armada o Fuerza Aérea, previsto en el artículo 83, fracción III;
+
+2) Los previstos en el artículo 83 Bis, salvo en el caso del inciso i) del artículo 11;
+
+3) Posesión de armas de uso exclusivo del Ejército, Armada o Fuerza Aérea, en el caso previsto en el artículo 83 Ter, fracción III;
+
+4) Los previstos en el artículo 84, y
+
+5) Introducción clandestina de armas de fuego que no están reservadas al uso exclusivo del Ejército, Armada o Fuerza Aérea, previsto en el artículo 84 Bis, párrafo primero.
+
+IV. De la Ley Federal para Prevenir y Sancionar la Tortura, el delito de tortura, previsto en los artículos 3o. y 5o.
+
+V. De la Ley General de Población, el delito de tráfico de indocumentados, previsto en el artículo 138.
+
+VI. Del Código Fiscal de la Federación, los delitos siguientes:
+
+1) Contrabando y su equiparable, previstos en los artículos 102 y 105 fracciones I a la IV, cuando les correspondan las sanciones previstas en las fracciones II o III, segundo párrafo del artículo 104, y
+
+2) Defraudación fiscal y su equiparable, previstos en los artículos 108 y 109, cuando el monto de lo defraudado se ubique en los rangos a que se refieren las fracciones II o III del artículo 108, exclusivamente cuando sean calificados.
+
+VII. De la Ley de la Propiedad Industrial, los delitos previstos en el artículo 223, fracciones II y III.
+
+> <small>(ADICIONADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+VIII. De la Ley de Instituciones de Crédito, los previstos en los artículos 111; 112, en el supuesto del cuarto párrafo, excepto la fracción V, y 113 Bis, en el supuesto del cuarto párrafo del artículo 112;
+
+> <small>(ADICIONADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+IX. De la Ley General de Organizaciones y Actividades Auxiliares del Crédito, los previstos en los artículos 98, en el supuesto del cuarto párrafo, excepto las fracciones IV y V, y 101;
+
+> <small>(ADICIONADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+X. De la Ley Federal de Instituciones de Fianzas, los previstos en los artículos 112 Bis; 112 Bis 2, en el supuesto del cuarto párrafo; 112 Bis 3, fracciones I y IV, en el supuesto del cuarto párrafo; 112 Bis 4, fracción I, en el supuesto del cuarto párrafo del artículo 112 Bis 3, y 112 Bis 6, fracciones II, IV y VII, en el supuesto del cuarto párrafo;
+
+> <small>(ADICIONADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+XI. De la Ley General de Instituciones y Sociedades Mutualistas de Seguros, los previstos en los artículos 141, fracción I; 145, en el supuesto del cuarto párrafo, excepto las fracciones II, IV y V; 146 fracciones II, IV y VII, en el supuesto del cuarto párrafo, y 147, fracción II inciso b), en el supuesto del cuarto párrafo del artículo 146;
+
+> <small>(ADICIONADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+XII. De la Ley del Mercado de Valores, los previstos en los artículos 52, y 52 Bis cuando el monto de la disposición de los fondos o de los valores, títulos de crédito o documentos a que se refiere el artículo 3o. de dicha ley, exceda de trescientos cincuenta mil días de salario mínimo general vigente en el Distrito Federal;
+
+> <small>(ADICIONADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+XIII. De la Ley de los Sistemas de Ahorro para el Retiro, los previstos en los artículos 103, y 104 cuando el monto de la disposición de los fondos, valores o documentos que manejen de los trabajadores con motivo de su objeto, exceda de trescientos cincuenta mil días de salario mínimo general vigente en el Distrito Federal, y
+
+> <small>(ADICIONADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+XIV. De la Ley de Quiebras y Suspensión de Pagos, los previstos en el artículo 96.
+
+La tentativa punible de los ilícitos penales mencionados en las fracciones anteriores, también se califica como delito grave.
 
 > <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
 
@@ -2253,17 +2375,17 @@ Los documentos públicos harán prueba plena, salvo el derecho de las partes par
 
 Son documentos públicos los que señale como tales el Código Federal de Procedimientos Civiles o cualquiera otra ley federal.
 
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 282.
 
-Para que se reputen auténticos los documentos públicos procedentes del extranjero, deberán ser legalizados por el representante autorizado para atender los asuntos de la República en el lugar donde sean expedidos.
+Los documentos públicos procedentes del extranjero, se reputarán auténticos, cuando:
 
-> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1981)</small>
+I. Sean legalizados por el representante autorizado para atender los asuntos de la República, en el país donde sean expedidos. La legalización de firmas del representante se hará por el funcionario autorizado de la Secretaría de Relaciones Exteriores;
 
-La legalización de las firmas del representante se hará por el funcionario autorizado de la Secretaría de Relaciones Exteriores.
+II. Haya sido certificada su autenticidad, por cualquier medio previsto en Tratados Internacionales de los que México y el Estado del que procedan, sean parte, o
 
-> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1981)</small>
-
-No será necesaria la legalización de firmas cuando los documentos sean presentados por la vía diplomática.
+III. Cuando sean presentados por vía diplomática.
 
 > <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1981)</small>
 
@@ -2559,6 +2681,8 @@ Si todos los peritos y testigos citados estuvieren presentes o se hubiere declar
 
 Cada miembro del jurado, llamado individualmente, deberá contestar: "Sí protesto."
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 321.
 
 Si alguno de los jurados se negare a protestar, el Presidente de los Debates le impondrá de plano, y sin recurso alguno, multa de diez a cien pesos y lo substituirá desde luego por el supernumerario correspondiente.
@@ -2574,6 +2698,8 @@ Terminada la lectura de constancias, el Presidente de Debates interrogará al ac
 Se examinará a los testigos y peritos en la forma y por las personas que señala el párrafo anterior, así como por el acusado si lo pidiere.
 
 En los interrogatorios del acusado, testigos y peritos, se observarán en su caso, las reglas establecidas en los artículos 156 y 249.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 324.
 
@@ -2690,6 +2816,8 @@ Para la votación, el secretario entregará a cada uno de los jurados dos fichas
 Si alguno de los jurados reclamare en este momento, por haber incurrido en error o equivocación al emitir su voto, se repetirá la votación.
 
 Una vez escrito el resultado de la votación ya no podrá repetirse.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 340.
 
@@ -2888,6 +3016,8 @@ IX.- Las demás resoluciones que señala la Ley.
 ###### ARTICULO 368.
 
 La apelación podrá interponerse en el acto de la notificación o por escrito o comparecencia dentro de los cinco días siguientes si se tratare de sentencia, o de tres días si se interpusiere contra un auto.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 369.
 
@@ -3570,6 +3700,8 @@ Si la resolución fuere afirmativa y la causa se hubiere fundado en hechos que n
 ###### ARTICULO 456.
 
 Concluído el término probatorio, dentro de las cuarenta y ocho horas siguientes, se pronunciará la resolución contra la que no habrá recurso alguno.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 457.
 
@@ -4460,3 +4592,23 @@ SEGUNDO.- A las personas que a la fecha de entrada en vigor del presente Decreto
 Los procedimientos penales y de amparo no concluidos en la fecha señalada en el transitorio anterior, seguirán tramitándose conforme a las disposiciones del Código Federal de Procedimientos Penales y de la Ley de Amparo vigentes con anterioridad a la fecha de entrada en vigor del presente Decreto.
 
 TERCERO.- La (sic) resoluciones de la autoridad judicial en las que se hubiere prorrogado el arraigo domiciliario decretado originalmente seguirán subsistiendo por todo el término que se hubiere señalado en la prórroga.
+
+D.O.F. 17 DE MAYO DE 1999.
+
+DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES EN MATERIA PENAL
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicadas las disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal y de la Ley de la Propiedad Industrial vigentes en el momento en que se haya cometido.
+
+TERCERO.- Las referencias que otras disposiciones hagan al artículo 194 del Código Federal de Procedimientos Penales respecto de la detención de personas en casos urgentes, se entenderán hechas al artículo 193 bis del mismo ordenamiento.
+
+CUARTO.- Las referencias que en el presente Decreto se hagan al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se entenderán hechas al Código Penal Federal, si es llegado el caso de aprobarse, y en su momento, publicarse la iniciativa por el que se reforman diversas disposiciones en materia penal que el ciudadano Presidente de los Estados Unidos Mexicanos envió a la consideración del Congreso de la Unión por conducto del Senado de la República como Cámara de Origen, el 23 de marzo de 1999.
+
+D.O.F. 17 DE MAYO DE 1999.
+
+DECRETO POR EL QUE SE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CREDITO, DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO, DE LA LEY FEDERAL DE INSTITUCIONES DE FIANZAS, DE LA LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS, DE LA LEY DEL MERCADO DE VALORES, DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO Y DEL CODIGO FEDERAL DE PROCEDIMIENTOS PENALES.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las modificaciones al artículo 194 del Código Federal de Procedimientos Penales, entrarán en vigor un día después de que se apruebe y publique, en su caso, la reforma al mismo artículo que se propone en la iniciativa que reforma diversas disposiciones en materia penal presentada por el Ejecutivo Federal el 18 de noviembre de 1998 en el Senado de la República como Cámara de Origen.
