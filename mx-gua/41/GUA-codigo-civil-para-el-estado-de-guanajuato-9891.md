@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "1989-07-28"
+last_updated: "1989-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 1989.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -3277,7 +3277,7 @@ Cuando el tutor tenga que administrar bienes, no podrá entrar a la administraci
 
 ###### Art. 590.
 
-El tutor que entre a la administración de los bienes sin que se haya nombrado curador, será responsable de los daños y perjuicios que cause al incapacitado y, además, separado de la tutela; mas ningún extraño puede rehusarse a tratar con el judicial o extrajudicialmente alegando la falta del curador.
+El tutor que entre a la administración de los bienes sin que se haya nombrado curador, será responsable de los daños y perjuicios que cause al incapacitado y, además, separado de la tutela; mas ningún extraño puede rehusarse a tratar con él judicial o extrajudicialmente alegando la falta del curador.
 
 ###### Art. 591.
 
@@ -9399,9 +9399,13 @@ En la venta de que habla el artículo 1810, mientras que no pasa la propiedad de
 
 El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1989)</small>
+
 ###### Art. 1815.
 
-La venta de un inmueble deberá constar en escritura pública.
+La venta de un inmueble deberá constar en Escritura Pública.
+
+Se equipara a la escritura pública el título que contenga la venta de un inmueble, efectuada en favor de los trabajadores por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, o algún otro organismo público cuyo objeto sea similar al de este Instituto.
 
 ###### Art. 1816.
 
@@ -12313,9 +12317,11 @@ El propietario cuyo derecho sea condicional o de cualquiera otra manera limitado
 
 El predio común no puede ser hipotecado sino con consentimiento de todos los propietarios. El copropietario puede hipotecar su porción indivisa, y al dividirse la cosa común la hipoteca gravará la parte que le corresponda en la división. El acreedor tiene derecho de intervenir en la división para impedir que a su deudor se le aplique una parte de la finca con valor inferior al que le corresponda.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE OCTUBRE DE 1989)</small>
+
 ###### Art. 2415.
 
-La hipoteca sólo puede ser constituída en escritura pública.
+La hipoteca sólo puede ser constituída en escritura pública o en los títulos a que se refiere el segundo párrafo del artículo 1815 de este Código.
 
 ###### Art. 2416.
 
@@ -12901,7 +12907,11 @@ I. Los testimonios de escritura pública y otros documentos auténticos;
 
 II. Las sentencias y providencias judiciales certificadas legalmente;
 
-III. Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que obre en ellos la constancia de que el Registrador, la autoridad judicial o un Notario público se cercioró de la autenticidad de las firmas y de la voluntad de las partes.
+III. Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que obre en ellos la constancia de que el Registrador, la autoridad judicial o un Notario público se cercioró de la autenticidad de las firmas y de la voluntad de las partes;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1989)</small>
+
+IV. Los títulos a que se refieren el párrafo segundo del artículo 1815 y el artículo 2415 de este Código sin que requieran para su registro de la constancia que exige la fracción anterior.
 
 ###### Art. 2508.
 
@@ -13257,7 +13267,7 @@ Por razón de delito o ingratitud son incapaces de adquirir por testamento o por
 
 I. El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate, o a los padres, hijos, cónyuge o hermanos de ella;
 
-II. El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, denuncia por delito que merezca pena capital o de prisión por más de dos años, aun cuando aquella sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano, a no ser que ese acto haya sido preciso para que el denunciante salvará su vida, su honra, o la de sus descendientes, ascendientes, hermanos o cónyuge, o actúe en cumplimiento de una obligación legal;
+II. El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, denuncia por delito que merezca pena capital o de prisión por más de dos años, aun cuando aquélla sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano, a no ser que ese acto haya sido preciso para que el denunciante salvará su vida, su honra, o la de sus descendientes, ascendientes, hermanos o cónyuge, o actúe en cumplimiento de una obligación legal;
 
 III. El cónyuge que mediante juicio ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
 
@@ -15636,3 +15646,9 @@ DECRETO NUMERO 39, QUE REFORMA EL ARTICULO 160 DEL CODIGO.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE OCTUBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación el Periódico Oficial del Gobierno del Estado.
