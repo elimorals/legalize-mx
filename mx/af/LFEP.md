@@ -4,7 +4,7 @@ identifier: "LFEP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1986-05-14"
-last_updated: "1986-05-14"
+last_updated: "1992-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=292&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFEP"
 
 LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JULIO DE 1992.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
 
@@ -54,7 +54,9 @@ Son entidades paraestatales las que con tal carácter determina la Ley Orgánica
 
 Las universidades y demás instituciones de educación superior a las que la Ley otorgue autonomía, se regirán por sus leyes específicas.
 
-La Procuraduría Federal del Consumidor, atendiendo a su objetivo y a la naturaleza de sus funciones queda excluída de la observancia del presente ordenamiento.
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 1992)</small>
+
+La Comisión Nacional de Derechos Humanos, la Procuraduría Agraria y la Procuraduría Federal del Consumidor, atendiendo a sus objetivos y a la naturaleza de sus funciones, quedan excluidas de la observancia del presente ordenamiento.
 
 ###### ARTICULO 4o.
 
@@ -80,9 +82,11 @@ Las entidades paraestatales correspondientes al Distrito Federal quedarán sujet
 
 Corresponderá a los titulares de las Secretarías de Estado o Departamentos Administrativos encargados de la coordinación de los sectores, establecer políticas de desarrollo para las entidades del sector correspondiente, coordinar la programación y presupuestación de conformidad, en su caso, con las asignaciones sectoriales de gasto y financiamiento previamente establecidas y autorizadas, conocer la operación y evaluar los resultados de las entidades paraestatales y las demás atribuciones que les conceda la Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 9o.
 
-Las Secretarías de Hacienda y Crédito Público y de Programación y Presupuesto tendrán miembros en los órganos de Gobierno y en su caso en los comités técnicos de las entidades paraestatales. También participarán las otras dependencias y entidades, en la medida en que tengan relación con el objeto de la entidad paraestatal de que se trate; todas ellas de conformidad a su esfera de competencia y disposiciones relativas en la materia.
+La Secretaría de Hacienda y Crédito Público tendrá miembros en los órganos de Gobierno y en su caso en los comités técnicos de las entidades paraestatales. También participarán otras dependencias y entidades, en la medida en que tenga relación con el objeto de la entidad paraestatal de que se trate; todas ellas de conformidad a su esfera de competencia y disposiciones relativas en la materia.
 
 Los representantes de las Secretarías y de las entidades paraestatales, en las sesiones de los órganos de gobierno o de los comités técnicos en que intervengan, deberán pronunciarse sobre los asuntos que deban resolver dichos órganos o comités de acuerdo con las facultades que les otorga esta Ley, particularmente el artículo 58 y que se relacionen con la esfera de competencia de la dependencia o entidad representada.
 
@@ -92,15 +96,19 @@ Las entidades paraestatales deberán enviar con una antelación no menor de cinc
 
 Las entidades paraestatales deberán proporcionar a las demás entidades del sector donde se encuentren agrupadas, la información y datos que les soliciten así como los que les requieran las Secretarías de Estado y Departamentos Administrativos.
 
-Para el cumplimiento de lo anteriormente establecido, la coordinadora de sector conjuntamente con las Secretarías de Programación y Presupuesto, de Hacienda y Crédito Público, y de la Contraloría General de la Federación, harán compatibles los requerimientos de información que se demanden a las dependencias y entidades paraestatales racionalizando los flujos de información.
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 1992)</small>
+
+Para el cumplimiento de lo anteriormente establecido, la coordinadora de sector conjuntamente con las Secretarías de Hacienda y Crédito Público, y de la Contraloría General de la Federación, harán compatibles los requerimientos de información que se demanden a las dependencias y entidades paraestatales racionalizando los flujos de información.
 
 ###### ARTICULO 11.
 
 Las entidades paraestatales gozarán de autonomía de gestión para el cabal cumplimiento de su objeto, y de los objetivos y metas señalados en sus programas. Al efecto, contarán con una administración ágil y eficiente y se sujetarán a los sistemas de control establecidos en la presente Ley y en lo que no se oponga a ésta a los demás que se relacionen con la Administración Pública.
 
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 12.
 
-La Secretaría de Programación y Presupuesto publicará anualmente en el Diario Oficial de la Federación, la relación de las entidades paraestatales que formen parte de la Administración Pública Federal.
+La Secretaría de Hacienda y Crédito Público publicará anualmente en el Diario Oficial de la Federación, la relación de las entidades paraestatales que formen parte de la Administración Pública Federal.
 
 ###### ARTICULO 13.
 
@@ -150,9 +158,11 @@ El estatuto Orgánico deberá inscribirse en el Registro Público de organismos 
 
 En la extinción de los organismos deberán observarse las mismas formalidades establecidas para su creación, debiendo la Ley o Decreto respectivo fijar la forma y términos de su extinción y liquidación.
 
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 16.
 
-Cuando algún organismo descentralizado creado por el ejecutivo deje de cumplir sus fines u objeto o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía nacional o del interés público, la Secretaría de Programación y Presupuesto, atendiendo la opinión de la Dependencia Coordinadora del Sector que corresponda, propondrá al Ejecutivo Federal la disolución, liquidación o extinción de aquél. Asimismo podrá proponer su fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
+Cuando algún organismo descentralizado creado por el Ejecutivo deje de cumplir sus fines u objeto o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía nacional o del interés público, la Secretaría de Hacienda y Crédito Público, atendiendo la opinión de la Dependencia Coordinadora del Sector que corresponda, propondrá al Ejecutivo Federal la disolución, liquidación o extinción de aquél. Asimismo podrá proponer su fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
 
 ###### ARTICULO 17.
 
@@ -224,9 +234,11 @@ SECCION B
 
 Registro Público de Organismos Descentralizados
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 24.
 
-Los organismos descentralizados deberán inscribirse en el Registro Público respectivo que llevará la Secretaría de Programación y Presupuesto.
+Los organismos descentralizados deberán inscribirse en el Registro Público respectivo que llevará la Secretaría de Hacienda y Crédito Público.
 
 Los directores generales o quienes realicen funciones similares en los organismos descentralizados, que no solicitaren la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones o reformas, serán responsables en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos.
 
@@ -242,7 +254,9 @@ III. Los nombramientos y sustituciones del Director General y en su caso de los 
 
 IV. Los poderes generales y sus revocaciones;
 
-V. El acuerdo de la Secretaría de Programación y Presupuesto o de la dependencia coordinadora de sector en su caso que señale las bases de la fusión, extinción o liquidación, de conformidad con las leyes o decretos que ordenen las mismas; y
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 1992)</small>
+
+V. El acuerdo de la Secretaría de Hacienda y Crédito Público o de la dependencia coordinadora del sector en su caso que señale las bases de la fusión, extinción o liquidación, de conformidad con las leyes o decretos que ordenen las mismas; y
 
 VI. Los demás documentos o actos que determine el reglamento de este ordenamiento.
 
@@ -274,9 +288,11 @@ Las empresas en que participe de manera mayoritaria el Gobierno Federal o una o 
 
 La organización, administración y vigilancia de las empresas de participación estatal mayoritaria, sin perjuicio de lo dispuesto en la legislación aplicable, deberán sujetarse a los términos que se consignan en este ordenamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 32.
 
-Cuando alguna empresa de participación estatal mayoritaria no cumpla con el objeto a que se contrae el artículo 30 o ya no resulte conveniente conservarla como entidad paraestatal desde el punto de vista de la economía nacional o del interés público, la Secretaría de Programación y Presupuesto, atendiendo la opinión de la Dependencia Coordinadora del Sector que corresponda, propondrá al Ejecutivo Federal la enajenación de la participación estatal o en su caso su disolución o liquidación. Para la enajenación de los títulos representativos del capital de la Administración Pública Federal, se procederá en los términos que se disponen en el artículo 68 de esta Ley.
+Cuando alguna empresa de participación estatal mayoritaria no cumpla con el objeto a que se contrae el artículo 30 o ya no resulte conveniente conservarla como entidad paraestatal desde el punto de vista de la economía nacional o del interés público, la Secretaría de Hacienda y Crédito Público, atendiendo la opinión de la Dependencia Coordinadora del Sector que corresponda, propondrá al Ejecutivo Federal la enajenación de la participación estatal o en su caso su disolución o liquidación. Para la enajenación de los títulos representativos del capital de la Administración Pública Federal, se procederá en los términos que se disponen en el artículo 68 de esta Ley.
 
 En los casos en que se acuerde la enajenación, en igualdad de condiciones y respetando los términos de las leyes y de los estatutos correspondientes, los trabajadores organizados de la empresa tendrán preferencia para adquirir los títulos representativos del capital de los que sea titular el Gobierno Federal.
 
@@ -312,7 +328,9 @@ Para la designación, facultades, operación y responsabilidades de los órganos
 
 La fusión o disolución de las empresas de participación estatal mayoritaria se efectuará conforme a los lineamientos o disposiciones establecidos en los estatutos de la empresa y legislación correspondiente.
 
-La dependencia Coordinadora del Sector al que corresponda la empresa, en lo que no se oponga a su regulación específica y de conformidad a las normas establecidas al respecto por la Secretaría de Programación y Presupuesto, intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la empresa.
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 1992)</small>
+
+La dependencia Coordinadora del Sector al que corresponda la empresa, en lo que no se oponga a su regulación específica y de conformidad a las normas establecidas al respecto por la Secretaría de Hacienda y Crédito Público, intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la empresa.
 
 ### CAPITULO IV. De los Fideicomisos Públicos
 
@@ -322,9 +340,11 @@ Los fideicomisos públicos que se establezcan por la Administración Pública Fe
 
 Los Comités Técnicos y los directores generales de los fideicomisos públicos citados en primer término se ajustarán en cuanto a su integración, facultades y funcionamiento a las disposiciones que en el Capítulo V de esta Ley se establecen para los órganos de gobierno y para los directores generales, en cuanto sea compatible a su naturaleza.
 
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 41.
 
-El Ejecutivo Federal a través de la Secretaría de Programación y Presupuesto, quien será el fideicomitente único de la Administración Pública Federal Centralizada, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitivos(sic), las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso al Comité Técnico, el cual deberá existir obligadamente en los fideicomisos a que se refiere el artículo anterior.
+El Ejecutivo Federal a través de la Secretaría de Hacienda y Crédito Público, quien será el fideicomitente único de la Administración Pública Federal Centralizada, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso al Comité Técnico, el cual deberá existir obligadamente en los fideicomisos a que se refiere el artículo anterior.
 
 ###### ARTICULO 42.
 
@@ -386,9 +406,11 @@ El programa institucional de la entidad paraestatal se elaborará para los térm
 
 Los presupuestos de la entidad se formularán a partir de sus programas anuales. Deberán contener la descripción detallada de objetivos, metas y unidades responsables de su ejecución y los elementos que permitan la evaluación sistemática de sus programas.
 
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 51.
 
-En la formulación de sus presupuestos, la entidad paraestatal se sujetará a los lineamientos generales que en materia de gasto establezca la Secretaría de Programación y Presupuesto así como a los lineamientos específicos que defina la Coordinadora de Sector. En el caso de compromisos derivados de compra o de suministros que excedan al período anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos con el objeto de contar con la perspectiva del desembolso a plazos mayores de un año.
+En la formulación de sus presupuestos, la entidad paraestatal se sujetará a los lineamientos generales que en materia de gasto establezca la Secretaría de Hacienda y Crédito Público así como a los lineamientos específicos que defina la Coordinadora de Sector. En el caso de compromisos derivados de compra o de suministro que excedan al período anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos con el objeto de contar con la perspectiva del desembolso a plazos mayores de un año.
 
 ###### ARTICULO 52.
 
@@ -440,7 +462,9 @@ VII. Aprobar de acuerdo con las leyes aplicables y el reglamento de esta Ley, la
 
 VIII. Aprobar la estructura básica de la organización de la entidad paraestatal, y las modificaciones que procedan a la misma. Aprobar asimismo y en su caso el estatuto orgánico tratándose de organismos descentralizados;
 
-IX. Proponer al Ejecutivo Federal, por conducto de la Secretaría de Programación y Presupuesto, los convenios de fusión con otras entidades;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 1992)</small>
+
+IX. Proponer al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, los convenios de fusión con otras entidades;
 
 X. Autorizar la creación de comités de apoyo;
 
@@ -448,7 +472,9 @@ XI. Nombrar y remover a propuesta del Director General, a los servidores públic
 
 XII. Nombrar y remover a propuesta de su Presidente, entre personas ajenas a la entidad, al Secretario quien podrá ser miembro o no del mismo; así como designar o remover a propuesta del Director General de la entidad al Prosecretario del citado Organo de Gobierno, quien podrá ser o no miembro de dicho órgano o de la entidad;
 
-XIII. Aprobar la constitución de reservas y aplicación de las utilidades de las empresas de participación estatal mayoritaria. En los casos de los excedentes económicos de los organismos descentralizados, proponer la constitución de reservas y su aplicación para su determinación por el Ejecutivo Federal a través de la Secretaría de Programación y Presupuesto;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 1992)</small>
+
+XIII. Aprobar la constitución de reservas y aplicación de las utilidades de las empresas de participación estatal mayoritaria. En los casos de los excedentes económicos de los organismos descentralizados, proponer la constitución de reservas y su aplicación para su determinación por el Ejecutivo Federal a través de la Secretaría de Hacienda y Crédito Público;
 
 XIV. Establecer, con sujeción a las disposiciones legales relativas, sin intervención de cualquiera otra dependencia, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la entidad paraestatal requiera para la prestación de sus servicios, con excepción de aquellos inmuebles de organismos descentralizados que la Ley General de Bienes Nacionales considere como del dominio público de la Federación. El Reglamento de la presente Ley establecerá los procedimientos respectivos;
 
@@ -456,7 +482,9 @@ XV. Analizar y aprobar en su caso, los informes periódicos que rinda el Directo
 
 XVI. Acordar con sujeción a las disposiciones legales relativas los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados, en las instrucciones de la coordinadora del sector correspondiente; y
 
-XVII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Programación y Presupuesto, por conducto de la Coordinadora de Sector.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 1992)</small>
+
+XVII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Hacienda y Crédito Público, por conducto de la Coordinadora de Sector.
 
 ###### ARTICULO 59.
 
@@ -540,9 +568,11 @@ En aquellos casos en los que el Organo de Gobierno, Consejo de Administración o
 
 En aquellas empresas en las que participe la Administración Pública Federal con la suscripción del 25% al 50% del capital, diversas a las señaladas en el artículo 29 de esta Ley, se vigilarán las inversiones de la Federación o en su caso del Departamento del Distrito Federal, a través del Comisario que se designe por la Secretaría de la Contraloría General de la Federación y el ejercicio de los derechos respectivos se hará por conducto de la dependencia correspondiente en los términos del artículo 33 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 68.
 
-La enajenación de títulos representativos del capital social, propiedad del Gobierno Federal o de las entidades paraestatales, podrá realizarse a través de los procedimientos bursátiles propios del mercado de valores o de las sociedades nacionales de crédito de acuerdo con las normas que emitan las Secretarías de Programación y Presupuesto y de Hacienda y Crédito Público.
+La enajenación de títulos representativos del capital social, propiedad del Gobierno Federal o de las entidades paraestatales, podrá realizarse a través de los procedimientos bursátiles propios del mercado de valores o de las sociedades nacionales de crédito de acuerdo con las normas que emita la Secretaría de Hacienda y Crédito Público.
 
 La Secretaría de la Contraloría General de la Federación vigilará el debido cumplimiento de lo dispuesto en el párrafo anterior.
 
@@ -583,3 +613,9 @@ Los directores generales o quienes realicen funciones similares en los organismo
 México, D. F., a 25 de abril de 1986.- Dip. Jesús Murillo Karam, Presidente.- Sen. Javier Ahumada Padilla, Presidente.- Dip. Rebeca Arenas Martínez, Secretario.- Sen. Myrna Hoyos de Navarrete, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal a los veintiséis días del mes de abril de mil novecientos ochenta y seis.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 24 DE JULIO DE 1992.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
