@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1934-09-12"
+last_updated: "1935-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 1934.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1935.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -173,9 +173,9 @@ La Capital del Estado es la Ciudad de Chilpancingo de los Bravos, donde deben re
 
 El Territorio del Estado comprende el que le señaló la Ley de su creación, con la modificación contenida en el Decreto Número 1 de 23 de marzo de 1907, relativo al arreglo de límites con el vecino Estado de Michoacán.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1934)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1935)</small>
 
-Se divide en las siguientes Municipalidades: Ciudad Bravos, Chichihualco, (Leonardo Bravo), Zumpango del Río, Tlacotepec, Mochitlán, Quechultenango, Acapulco, Chilapa, Atlixtac, Ahuacuotzingo, Zitlala, Tixtla, Apango (Mártir de Cuilapan), Iguala, Cocula, Tepecoacuilco, Huitzuco, Copalillo, Atenango del Río, Teloloapan, Arcelia, San Miguel Totolapan, Cuetzala del Progreso, Apaxtla, Taxco de Alarcón, Itzcapuzalco, Ixcateopan, Tetipac, Pilcaya, Coyuca de Catalán, Tlalchapa, Cutzamala de Pinzón, Zirándaro, Pungarabato, Ajuchitlán, Tlapa, Tlacuapa, Zapotitlán Tablas, Tenango Tepexi, Copanatoyac, Atlamajalcingo del Monte, San Vicente Zoyatlán, Alcozauca de Guerrero, Metlatonoc, Xalpatlauhac, Malinaltepec, Huamuxtitlán, Xochihuehuetlán, Olinalá, Alpoyeca, Cualac, Ometepec, Xochistlahuaca, Tlacoachixtlahuaca, Ayutla, Cuautepec, Copala, Cruz Grande, San Marcos, Tecoanapa, Azoyú, Igualapa, Cuajinicuilapa, San Luis Acatlán, La Unión, Coahuayutla, Atoyac de Alvarez, Tecpan de Galeana, Coyuca de Benítez y Benito Juárez.
+Se divide en las siguientes Municipalidades: Ciudad Bravos, Chichihualco, (Leonardo Bravo), Zumpango del Río, Tlacotepec, Mochitlán, Quechultenango, Acapulco, Chilapa, Atlixtac, Ahuacuotzingo, Zitlala, Tixtla, Apango (Mártir de Cuilapan), Iguala, Cocula, Tepecoacuilco, Huitzuco, Copalillo, Atenango del Río, Teloloapan, Arcelia, San Miguel Totolapan, Cuetzala del Progreso, Apaxtla, Taxco de Alarcón, Itzcapuzalco, Ixcateopan, Tetipac, Pilcaya, Coyuca de Catalán, Tlalchapa, Cutzamala de Pinzón, Zirándaro, Pungarabato, Ajuchitlán, Tlapa, Tlacuapa, Zapotitlán Tablas, Tenango Tepexi, Copanatoyac, Atlamajalcingo del Monte, San Vicente Zoyatlán, Alcozauca de Guerrero, Metlatonoc, Xalpatlauhac, Malinaltepec, Huamuxtitlán, Xochihuehuetlán, Olinalá, Alpoyeca, Cualac, Ometepec, Xochistlahuaca, Tlacoachixtlahuaca, Ayutla, Cuautepec, Copala, Cruz Grande, San Marcos, Tecoanapa, Azoyú, Igualapa, Cuajinicuilapa, San Luis Acatlán, La Unión, Coahuayutla, Atoyac de Alvarez, Tecpan de Galeana, Coyuca de Benítez y Benito Juárez y Petatlán.
 
 Las Municipalidades expresadas, conservan la integridad territorial que hasta ahora han reconocido, a reserva de ampliarla o reducirla y de suprimir las que no tengan viabilidad, según lo exijan los intereses generales del Estado.
 
@@ -243,7 +243,9 @@ Hidalgo, con las de Iguala, Tepecoacuilco de Trujano, Cocula y Huitzuco; su Cabe
 
 Mina, con las de Coyuca de Catalán, Cutzamala de Pinzón, Tlalchapa, Ajuchitlán del Progreso, San Miguel Totolapan, Zirándaro y Pungarabato; su Cabecera Coyuca de Catalán.
 
-Montes de Oca, con las de La Unión y Coahuayutla de Guerrero; su Cabecera La Unión.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1935)</small>
+
+Montes de Oca, con las de La Unión, Coahuayutla de Guerrero y Petatlán; su Cabecera La Unión.
 
 Morelos, con las de Tlapa de Comonfort, Copanatoyac, Atlamajalcingo del Monte, San Vicente Zoyatlán, Totomistláhuaca, Alcozauca de Guerrero, Metlatonoc, Zapotitlán, Xalpatlahuac, Malinaltepec y Tenango Tepexi, su Cabecera Tlapa de Comonfort.
 
@@ -1270,3 +1272,7 @@ P.O. 12 DE SEPTIEMBRE DE 1934.
 DECRETO NUMERO 65.
 
 Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE ENERO DE 1935.
+
+Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación.
