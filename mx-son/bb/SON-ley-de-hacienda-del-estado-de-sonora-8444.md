@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1983-05-26"
+last_updated: "1983-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE MAYO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -71,133 +71,51 @@ Cuando las Autoridades Fiscales presuman fundadamente que el causante no ha decl
 
 Es objeto del impuesto predial:
 
-I.- La propiedad de predios urbanos o rústicos y las construcciones permanentes en ellos existentes;
+I.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
-II.- La posesión de predios urbanos y rústicos y las construcciones permanentes en ellos existentes;
-
-a) Cuando no exista propietario;
-
-b) Cuando se derive de contratos de promesa de venta, de venta con reserva con dominio y de promesa de venta o venta de certificados de participación inmobiliaria, de vivienda, de simple uso o de cualquier otro título similar que autorice la ocupación material del inmueble y que origine algún derecho posesorio, aún cuando los mencionados contratos, certificados o títulos, se hayan celebrado u obtenido con motivo de operaciones de fideicomiso;
-
-c) Cuando los predios que menciona el Artículo 12 en su fracción I se den en explotación por cualquier título, a personas distintas de la Federación, el Estado de Sonora y sus Municipios; y
-
-d) Cuando exista desmembración de la propiedad de manera que una persona tenga la nuda propiedad y otra el usufructo;
+II.- (DEROGADA CON SUS INCISOS A), B), C) Y D), POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 > <small>(REFORMADA, B.O. 27 DE JULIO DE 1977)</small>
 
 III.- La propiedad o posesión de predios ejidales y comunales;
 
-IV. La propiedad de Plantas de Beneficio y Establecimientos Metalúrgicos.
+IV. (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 6o.
 
-Tratándose de predios rústicos, sólo deberá incluirse la propiedad o posesión de los terrenos y de las construcciones permanentes que no sean utilizadas directamente, por propio destino, en fines agrícolas, ganaderos, forestales, de vigilancia de la heredad o industriales dedicados a la transformación de productos provenientes del mismo predio o de otros del mismo propietario.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 10.
 
 El Impuesto se causará aplicando las bases mencionadas en el artículo anterior, la siguiente tarifa:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 3 DE FEBRERO DE 1979)</small>
+I.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
-I.- Sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa-habitación, conforme a las tasas de la siguiente
+II.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
+III.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
-TARIFA:
-
-VALOR CATASTRAL TASA ANUAL
-
-0.01 a 1000,000.00 EXCENTO
-
-100,000,01 1,274,400.00 5 al MILLAR
-
-1,274,400.01 a 2,124,00.00 7 al MILLAR
-
-2, 124,000.01 en adelante 9 al MILLAR
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 3 DE FEBRERO DE 1979)</small>
-
-II.- Sobre el valor catastral de los predios destinados a uso distinto del de casa-habitación del contribuyente, conforme a la siguiente
-
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
-
-TARIFA:
-
-VALOR CATASTRAL TASA ANUAL
-
-0.01 a 708,000.00 7 al MILLAR
-
-708,000.01 a 1,274,400.00 8 al MILLAR
-
-1,274,400.01 a 2,124,400.00 10 al MILLAR
-
-2,124,000.01 en adelante 11 al MILLAR
-
-III.- Sobre el valor catastral de los inmuebles rústicos, conforme a la siguiente
-
-TARIFA
-
-A) Pequeña Propiedad.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
-
-a) Tasa: Por terrenos de cultivos y de agostadero, el 8 al millar anual sobre el valor catastral de los mismos.
-
-b) (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
-
-B) Terrenos de Superficie indeterminada.
-
-a) 5 al millar anual sobre el valor que fije provisionalmente la Dirección de Catastro.
-
-> <small>(REFORMADO, B.O. 3 DE FEBRERO DE 1979)</small>
-
-En ningún caso el impuesto será menor de $60.00 al año.
-
-IV.- Sobre los predios no edificados, se aplicarán las tasas de la fracción II correspondientes, con aumento de 25%
+IV.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 > <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
 V.- Tratándose de predios rústicos ejidales o comunales, aprovechados para la producción agropecuaria, la tarifa será del 2%. En los casos de posesión provisional se estará a lo dispuesto por la fracción IV del Artículo 106 de la Ley Federal de Reforma Agraria. Cuando se desconozcan los precios rurales de venta, éstos serán fijados por el Ejecutivo a través de la Tesorería General del Estado;
 
-> <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
+VI.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
-VI.- Tratándose de plantas de beneficio y establecimientos metalúrgicos, se aplicará el 5 al millar anual sobre el valor de las fincas de la maquinaria.
-
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
-
-En ningún caso el impuesto será menor de $100.00 al año.
+> <small>(DEROGADO ULTIMO PARRAFO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 11.
 
-Tratándose de predios no edificados, las tasas que resulten, después de aplicar las sobre-tasas de 25% a cada una de las categorías a las que se refiere la Fracción (sic) II y IV del artículo anterior, se incrementarán en un 2 al millar anual o su equivalente al trimestre en forma progresiva y acumulativa, hasta el término de 5 años a partir del segundo año de la vigencia de esta Ley, conforme a las normas siguientes:
-
-I.- Cuando los predios urbanos no edificados sean propiedad de fraccionamientos autorizados, el incremento anual del 2 al millar se causará un año después de la enajenación a terceros, por cualquier título, de cada lote de terreno, siempre que el adquirente no posea otros bienes inmuebles urbanos.
-
-II.- Cuando sean enajenados por particulares y siempre que el adquirente no posea otros bienes inmuebles urbanos, el aumento se causará un año después de celebrada cualesquiera de las operaciones enumeradas en las Fracciones I a la XI, del Artículo 183 de esta Ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 12.
 
-No se causa el Impuesto predial:
-
-I.- Cuando los Predios y edificaciones sean propiedad de la Federación, del Estado o de los Municipios de éste;
-
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
-
-II.- Cuando los predios se destinen en su totalidad a fines de beneficencia o de educación, ya sea que estos fines se cumplan directamente por el propietario del predio o por terceros;
-
-III.- Cuando los predios sean propiedad de las Universidades de Sonora;
-
-IV.- Cuando los predios con edificaciones nuevas reúnan los requisitos que señalen las Leyes que otorguen la exención; y
-
-V.- Cuando los predios y edificaciones incorporados a las vías generales de comunicación, se encuentren destinados a los fines que expresa suconcesión (sic). No quedan comprendidos en la exención los casos mencionados en el artículo 101 de la Ley de Vías Generales de Comunicación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 13.
 
-Las exenciones señaladas en la Fracción I del Artículo anterior dejarán de surtir efectos, desde el momento en que un particular entre en posesión de los bienes que ahí se indican o los que ocupe para provecho personal, en cuyo caso se le considerará sujeto del Impuesto Predial.
-
-Para gozar de las exenciones en los casos de la Fracción II se deberá comprobar debidamente la existencia de las condiciones exigidas.
-
-En tratándose de los predios y edificaciones comprendidos en las Fracciones IV y V, del Artículo anterior, las exenciones quedarán sin efecto desde el momento en que dejan de satisfacerse los requisitos señalados por las Leyes respectivas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 #### Sección Segunda. Sujeto del Impuesto
 
@@ -207,31 +125,31 @@ En tratándose de los predios y edificaciones comprendidos en las Fracciones IV 
 
 Son sujetos del impuesto:
 
-I.- Los propietarios de predios a que se refiere la fracción I del Artículo 5o.;
+I.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
-II.- Los poseedores de predios a que se refieren la fracción II del Artículo 5o.;
+II.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
-III.- Los fideicomitentes, mientras sean poseedores del predio objeto del fideicomiso o los fideicomisarios que estén en posesión del predio, aún cuando todavía no se les transmita la propiedad, o los terceros adquirentes por cualquier acto derivado de un fideicomiso.
+III.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 > <small>(REFORMADA, B.O. 27 DE JULIO DE 1977)</small>
 
 IV.- Los ejidatarios y comuneros si el aprovechamiento de los predios es individual y los núcleos de población ejidal o comunal, si es colectivo;
 
-V.- Los propietarios de Plantas de Beneficio y Establecimientos Metalúrgicos.
+V.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 8o.
 
 Son responsables solidarios en el pago del impuesto:
 
-I.- Los adquirentes, por cualquier título, de predios a que aluden las fracciones I y II del Artículo 5o.;
+I.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
-II.- Los propietarios de predios que hubiesen prometido en ventao (sic) hubieran vendido con reserva de dominio, en el caso a que se refiere el inciso b) de la fracción II del Artículo 5o.;
+II.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 > <small>(REFORMADA, B.O. 27 DE JULIO DE 1977)</small>
 
 III.- Los núcleos de población ejidal o comunal y los ejidatarios o comuneros, los comisariados ejidales y de bienes comunales, los integrantes de colonias agrícolas, sociedades de crédito agrícola o ejidal y otras agrupaciones de ejidatarios, comuneros o colonos, respecto de los bienes que posean mancomunadamente;
 
-IV.- Los adquirentes de plantas de Beneficio y Establecimientos Metalúrgicos; y
+IV.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 V.- Los empleados de la Tesorería General del Estado que dolosamente expidan certificados de no adeudo del Impuesto Predial;
 
@@ -261,107 +179,31 @@ Esta manifestación deberá contener los siguientes datos:
 
 ###### Artículo 15.
 
-Para los efectos del Impuesto Predial, se considerará:
-
-I.- Predio:
-
-a).- La porción o porciones de terrenos incluyendo, en su caso, sus construcciones, que pertenezcan a un mismo propietario o a varios en copropiedad y cuyos linderos con propiedades ajenas formen un perímetro sin solución de continuidad.
-
-Cuando por cualquier causa, construcciones permanentes dividan un predio en forma tal que parte o partes de su área queden desvinculadas de los otros, esa parte o partes, se considerarán como predios distintos y, por tanto, serán empadronados por separado y en igual forma se expedirán los recibos de pago del impuesto.
-
-Cuando en un predio ajeno se levanten construcciones permanentes, se considerará para los efectos fiscales, que tales construcciones son del dueño del suelo; y
-
-b).- Los lotes en que se hubiere fraccionado un terreno.
-
-II.- Predio no edificado.
-
-a).- El que no tenga construcciones;
-
-b).- El que tenga construcciones provisionales;
-
-c).- El que tenga construcciones en ruinas; y
-
-d).- El que tenga como edificación únicamente los muros que circunden los predios que colinden con la vía pública.
-
-III.- Predio edificado, el que tenga construcciones permanentes;
-
-IV.- Predio urbano, el ubicado dentro del perímetro que la Tesorería General del Estado determine como zona urbana;
-
-V.- Predio Rústico, el ubicado fuera del perímetro que la Tesorería General del Estado determine como zona urbana;
-
-VI.- Construcción permanente, aquella que esté adherida a un predio de manera fija, en condiciones tales que no pueda separarse del suelo sin deterioro de la propia edificación o de los objetos unidos a ella, y que consten de cimientos, muros y techos;
-
-VII.- Construcción provisional, la que por su tipo de construcción, según la época en que hubiere sido realizada revele su aprovechamiento transitorio y tenga una productividad económica notoriamente inferior a la que corresponda al valor del terreno. En los casos dudosos, la Dirección General de Comunicaciones y Obras Públicas determinará si las construcciones son o no provisionales;
-
-VIII.- Construcciones en ruinas, las que por su deterioro físico o por sus malas condiciones de estabilidad, no permitan su uso en forma alguna. En los casos dudosos resolverá la Tesorería General del Estado;
-
-IX.- Valor catastral, el que fija a cada predio la Tesorería General del Estado, el cual deberá aproximarse lo más posible al valor comercial que tenga el predio en la fecha de su avalúo;
-
-X.- Renta, el precio de arrendamiento de los predios o el que estime el sujeto del Impuesto o valúe la Tesorería General del Estado;
-
-XI.- Catastro los registros o padrones fiscales de la propiedad raíz en que se contengan los planos generales y parciales relativos a esa propiedad y los datos particulares de cada predio, como ubicación, linderos, colindancias, superficie, forma del polígono, valor catastral, número de cuenta, nombre actual del propietario y de los anteriores, destino y otros relacionados con los predio;
-
-XII.- Jardín, la superficie de terreno cubierto por plantas de ornato, zona arbolada, o área verde;
-
-XIII.- Vía pública, las superficies de terreno ocupadas por calles, avenidas, calzadas, callejones, cerradas, privadas y sus confluencias o cruceros; y
-
-XIV.- Manzana, la superficie de terreno delimitada por la vía pública.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 16.
 
-El valor catastral será determinado por la Tesorería General del Estado, el cual podrá ser provisional o definitivo.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 27 DE JULIO DE 1977)</small>
-
-Todos los predios del Estado, aún los que estén beneficiados por las exenciones, deberán ser objeto del avalúo; excepto los predios rústicos ejidales aprovechados para la producción agropecuaria.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
-
-La Tesorería General del Estado formulará las tablas generales de valores para unidades tipo de edificación y planos de cada ciudad con valores de calle, para ser aplicados a los respectivos lotes tipo. La determinación del lote tipo, se hará de acuerdo con la naturaleza de la región, destino de los predios y sus dimensiones dominantes, pudiendo hacer divisiones de cada región en secciones con tipos diferentes en cada una. Así mismo, elaborará la tabla conteniendo las clasificaciones y valores para los predios rústicos de acuerdo con las categorías y clases que sean necesarias, considerando separadamente las tierras agrícolas abiertas al cultivo, con riego por gravedad, por bombeo o de temporal, de las de agostadero.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 31 DE DICIEMBRE DE 1979)</small>
-
-Las tablas y planos a que se refiere este Artículo, deberán publicarse en el Boletín Oficial del Estado y entrar en vigor a partir de la fecha que se señale en cada uno de los acuerdos respectivos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 17.
 
-Se considera que el valor catastral es provisional:
-
-I.- Cuando existen predios no registrados;
-
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
-
-II.- Cuando se subdivida un predio; y
-
-III.- Cuando se fusionen dos o más predios.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 18.
 
-Tratándose de predios no registrados, la Tesorería General del Estado determinará el valor catastral provisional tomando en cuenta los valores aprobados por las regiones catastrales con los que presenten mayor similitud.
-
-Este valor surtirá efectos a partir de la fecha de su registro, salvo que por causa imputable al sujeto el predio no se encuentre registrado, caso en el cual el valor catastral provisional surtirá sus efectos desde la fecha en que debió de haberse efectuado dicho registro, sin exceder de cinco años.
-
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 19.
 
-Mientras se practica la valuación correspondiente a cada porción del predio subdividido, se tendrá provisionalmente como valor catastral para cada una de esas porciones, su precio de adquisición. Si el propietario del predio subdividido conserva una, varias o todas las porciones del mismo predio, provisionalmente se tendrá como Valor Catastral de ellas el que manifiesta para cada una de esas porciones.
-
-Este valor surtirá sus efectos a partir del trimestre siguiente a la autorización de la subdivisión del predio.
-
-> <small>(REFORMADO, B.O. 4 DE JUNIO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 20.
 
-En caso de fusión de dos o más predios en uno solo, el valor catastral provisional será la suma de los valores catastrales de los predios fusionados.
-
-La nueva cuota del impuesto entrará en vigor a partir del trimestre siguiente a la fecha de autorización de la fusión.
-
-La Tesorería General del Estado empadronará, como uno solo, los predios fusionados y ordenará la expedición del recibo de pago correspondiente a ese empadronamiento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 21.
 
-Si la fusión comprende parte de predios, mientras se practica la valuación correspondiente a éstas, se tendrá provisionalmente como base gravable, por lo que a ellas se refiere, su precio de adquisición.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 #### Sección Tercera. Base, Tasas, Exenciones y Reducciones
 
@@ -371,13 +213,13 @@ Si la fusión comprende parte de predios, mientras se practica la valuación cor
 
 La base del impuesto será:
 
-I.- Tratándose de predios, urbanos, el valor catastral.
+I.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 II.- Tratándose de predios rústicos:
 
 a).- El valor de la producción anual comercializada, si se trata de terrenos ejidales o comunales aprovechados para la producción agropecuaria.
 
-b).- El valor catastral, en los demás casos.
+b).- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 27 DE JULIO DE 1977)</small>
 
@@ -387,157 +229,63 @@ b).- El valor catastral, en los demás casos.
 
 ###### Artículo 22.
 
-El valor catastral será definitivo cuando se efectúe el avalúo de los predios por la Tesorería General del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 23.
 
-El valor catastral definitivo de los predios deberá actualizarse, en los siguientes casos:
-
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1981)</small>
-
-I.- Cuando el avalúo del predio tenga una antigüedad de más de un año;
-
-II.- Cuando en el predio se hagan construcciones, reconstrucciones o ampliaciones de las construcciones ya existentes;
-
-III.- Cuando la totalidad del predio o parte del predio sea objeto de traslado de dominio, salvo que el avalúo vigente tenga una antigüedad de un año o menos en la fecha del traslado de dominio;
-
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1981)</small>
-
-IV.- Cuando el predio aumente de valor con motivo de algún fraccionamiento próximo que se lleve a cabo, así como la apertura o ampliación de calles, la construcción de jardines o edificios públicos, aunque el avalúo vigente tenga una antigüedad de menos de un año;
-
-V.- Cuando se realicen obras o mejoras determinantes en la situación de productividad del predio, tales como obras de irrigación nuevas vías de comunicación que faciliten el transporte de los productos a los centros de consumo;
-
-VI.- Cuando se presente cualquiera otra causa de aumento extraordinario de valor.
-
-Los avalúos comprenderán tanto el terreno como las construcciones permanente existentes en él.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 24.
 
-La valuación catastral se hará separadamente para el terreno y para las construcciones permanentes. La suma de los valores resultantes será el valor catastral del predio, como lo establece la fracción IX del artículo 15.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 25.
 
-Para la mejor valorización de los predios en particular, la Tesorería General del Estado tendrá además las siguientes facultades:
-
-I.- Revisar y confrontar las declaraciones presentadas por los causantes, con los datos que obren en su poder;
-
-II.- Solicitar los informes que estime necesarios de las oficinas públicas o de las de servicio público;
-
-III.- Calificar las declaraciones y exigir a los interesados que las aclaren, comprueben o ratifiquen cuando sea necesario.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 26.
 
-Hecho el avalúo de los predios, la Tesorería General del Estado determinará la cuota anual y la porción trimestral que deba cubrir cada causante, a quien se hará la notificación correspondiente. La cuota así determinada se pagará a partir del trimestre siguiente a la fecha de la notificación al causante, excepto en los casos en que esta Ley disponga otra cosa.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 27.
 
-La cuota del impuesto, cuando se trate del primer avalúo del predio, entrará en vigor a partir del día siguiente a la fecha en que ocurrió el hecho o circunstancia que dió lugar a la práctica del avalúo conforma a las disposiciones de este capítulo.
-
-En los casos de reavalúos a que se refiere el artículo 23 de esta Ley, la cuota entrará en vigor a partir de trimestre siguiente a la fecha de la terminación de nuevas construcciones, reconstrucciones y de ampliaciones de construcciones ya existentes, o a la de su ocupación en caso de que se aprovechen sin estar terminadas, o de la notificación del avalúo en los demás casos, salvo que de otra manera se disponga en esta Ley. En los casos de traslación de dominio, el reavalúo, cuando proceda, entrará en vigor en trimestre siguiente a dicha traslación.
-
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 28.
 
-La Subdivisión de un predio será autorizada por la Secretaría de Desarrollo Urbano y Rural.
-
-La cuota definitiva del impuesto que resulte en la valuación catastral de las porciones de un predio subdividido, entrará en vigor a partir del trimestre siguiente a la fecha de la subdivisión del predio, de la autorización preventiva de la escritura pública o de la fecha del contrato privado traslativo de dominio, en su caso, en que se hubiera hecho constar el acto o contrato que motive la división, Por tanto, se cobrarán o devolverán las diferencias que resulten entre la cuota provisional y la definitiva.
-
-La Tesorería General del Estado empadronará cada uno de los predios que hubieren resultado de la subdivisión de otro y ordenará la expedición de los recibos de pago correspondiente a cada empadronamiento.
-
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 29.
 
-La fusión de dos o más predios en uno solo, que deberá ser autorizada previamente por la Secretaría de Desarrollo Urbano y Rural, será manifestada por el adquirente o propietario, dentro de los quince días siguientes a la celebración de la operación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 30.
 
-La terminación de nuevas construcciones permanentes, de reconstrucciones y de ampliaciones de construcciones permanentes ya existentes, deberán ser manifestadas por sus propietarios a la Tesorería General del Estado dentro de los quince días siguientes a la fecha de la terminación de lasobras (sic) o a la fecha en que sean ocupadas por sus propietarios o por terceros, sin estar todavía terminados.
-
-> <small>(REFORMADO, B.O. 4 DE JUNIO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 31.
 
-La Tesorería General del Estado ordenará la valuación catastral de la totalidad del predio, como lo ordena el artículo 23 de esta Ley, en los casos de traslación de dominio, de terminación de nuevas construcciones permanentes o de reconstrucciones. Tratándose de ampliación de construcciones permanentes que no excedan del 20% de la superficie total construida, únicamente se valuarán las ampliaciones, sumándose este avalúo catastral al de las construcciones ya existentes. En ambos casos se aplicarán los valores aprobados en la fecha de la traslación de dominio, de terminación de las obras o de su ocupación sin estar terminadas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 32.
 
-Las valuaciones catastrales se harán con arreglo a las disposiciones de este capítulo y a los instructivos que la Tesorería General del Estado expida al efecto, los que se publicarán en el Boletín Oficial del Estado.
-
-La Dirección de Catastro de la Tesorería General del Estado ordenará por escrito las valuaciones catastrales que se practicarán por peritos valuadores y que se identificarán con credencial oficial.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 33.
 
-Los valuadores deberán presentarse en hora y días hábiles en el predio que deba ser objeto de la valuación y mostrará a los ocupantes tanto la orden para la valuación como su credencial.
-
-Si los ocupantes se opusieran en cualquier forma a la valuación, el valuador informará a la Tesorería General del Estado a efecto de que se requiera por escrito a los ocupantes para que permita la práctica de la valuación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 34.
 
-Si no obstante el requerimiento a que se refiere el artículo anterior, los ocupantes del predio no permitiesen la valuación, ésta se hará de todas maneras con base en los elementos de que se disponga y sin perjuicio de imponer al infractor las sanciones correspondientes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 35.
 
-Los valuadores formularán los avalúos catastrales en las formas que apruebe la Tesorería General del Estado.
-
-Un extracto del avalúo y la liquidación del Impuesto se notificará a los interesados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 36.
 
-Cuando por cualquier razón, las construcciones permanentes de un predio deber ser desocupadas o demolidas, para determinar la cuota del Impuesto se seguirán las reglas siguientes:
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1981)</small>
-
-I.- Si la Secretaría de Desarrollo Urbano y Rural ordena la desocupación total:
-
-a).- Se cambiará la base vigente en la fecha en que se hubiera ordenado la desocupación, para lo cual se deducirá de dicha base el valor de las construcciones;
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
-
-b).- Para que se efectúe el cambio de la base gravable conforme al inciso anterior, el sujeto del Impuesto deberá presentar a la Tesorería General del Estado una solicitud por escrito a la que deberá acompañarse una copia de la orden dada por aquella Secretaría para la desocupación total del edificio.
-
-Dicha solicitud se presentará dentro de los quince días siguientes a la fecha de la desocupación;
-
-c).- La nueva cuota del Impuesto predial entrará en vigor a partir del trimestre siguiente a la fecha de la desocupación del inmueble y continuará vigente por todo el tiempo que el edificio se encuentre totalmente desocupado por orden de dicha dependencia.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
-
-d).- Una vez que la Secretaría de Desarrollo Urbano y Rural haya autorizado que vuelva a ocuparse el edificio, se devolverá a poner en vigor la base gravable, vigente en la fecha en que se ordenó la desocupación, siempre que no hayan ejecutado nuevas construcciones o reconstrucciones de construcciones ya existentes, pues en ese caso se procederá en los términos del inciso siguiente; y
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
-
-e).- En los casos en que la Secretaría de Desarrollo Urbano y Rural ordene la demolición total del edificio y se lleve a cabo la edificación de nuevas construcciones permanentes, los sujetos del impuesto estarán obligados a presentar la manifestación que señala el Artículo 30, fijándose la nueva cuota del gravamen de acuerdo con lo dispuesto en el Artículo 31;
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1981)</small>
-
-II.- Si la Secretaría de Desarrollo Urbano y Rural ordena la desocupación parcial:
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
-
-a).- El Impuesto se causará sobre la base determinada conforme al último valora catastral del terreno, vigente en el fecha en que la citada Secretaría hubiese ordenado la desocupación parcial, más el valor que la Dirección de Catastro asigne a las construcciones aprovechables y respecto de las cuales no se hubiera ordenado su desocupación;
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
-
-b).- Para que se efectúe el cambio de la base gravable conforme al inciso anterior, el sujeto del impuesto deberá presentar a la Tesorería General del Estado, una solicitud por escrito a la que deberá acompañar copia de la orden de la secretaría de Desarrollo Urbano y Rural para la desocupación parcial del edificio;
-
-c).- La nueva cuota del impuesto predial entrará en vigor a partir del primer trimestre siguiente a la fecha de la desocupación del inmueble y continuará vigente por todo el tiempo que el edificio se encuentre parcialmente desocupado por orden de dicha dependencia;
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
-
-d).- Una vez que la Secretaría de Desarrollo Urbano y Rural haya autorizado que vuelva a ocuparse el edificio, se volverá a poner en vigor la base gravable vigente en la fecha en que se ordenó la desocupación, siempre que nose (sic) hayan ejecutando nuevas construcciones o reconstrucciones de construcciones ya existentes, pues en ese caso, se procederá en los términos del inciso siguiente; y
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
-
-e).- En los casos en que la Secretaría de Desarrollo Urbano y Rural hubiere ordenado la demolición parcial del edificio y posteriormente se hubiera llevado a cabo la edificación de una nueva construcción permanente, los sujetos del impuesto estarán obligados a presentar la manifestación que señala el Artículo 30. La nueva base gravable se obtendrá sumando el valor catastral del terreno y las construcciones aprovechables que se hubiesen señalado conforme al inciso a) de esta fracción, al valor que se asigne a la nueva construcción de acuerdo al artículo 31;
-
-III.- Si el inmueble es demolido voluntariamente por su propietario, se procederá en los siguientes términos:
-
-a).- Cuando la demolición sea total, el impuesto se causará exclusivamente sobre el valor del terreno según avalúo catastral que practique desde luego la Tesorería General del Estado. Si la demolición es parcial, al valor del terreno se agregará el que asigne la Tesorería a lo que quede de la construcción; y
-
-b).- La nueva cuota de impuesto predial entrará en vigor a partir del trimestre siguiente a la fecha en que se hubiere terminado la demolición.
-
-Para los efectos de este artículo, el propietario del predio estará obligado a dar aviso de la demolición a la Tesorería General del Estado, dentro de los quince días siguientes a la demolición.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 #### Sección Sexta. Fraccionamientos
 
@@ -553,11 +301,9 @@ Para los efectos de este artículo, el propietario del predio estará obligado a
 
 (DEROGADO, B.O. 30 DE DICIEMBRE DE 1982)
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
-
 ###### Artículo 40.
 
-Dentro de los quince días siguientes a aquél en que la Tesorería General del Estado reciba copias del plano a escala del predio que se pretenda fraccionar, señalará la clave catastral a cada uno de los lotes de terreno que constituyan el fraccionamiento, misma que servirá de base para la identificación de las operaciones que posteriormente se realicen.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 41.
 
@@ -567,131 +313,51 @@ Dentro de los quince días siguientes a aquél en que la Tesorería General del 
 
 (DEROGADO, B.O. 30 DE DICIEMBRE DE 1982)
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1981)</small>
-
 ###### Artículo 43.
 
-La Secretaría de Desarrollo Urbano y Rural dará aviso a la Tesorería General del Estado de la terminación de las obras de urbanización del fraccionamiento de que se trate, dentro de los quince días siguientes:
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1977)</small>
-
-Recibido el aviso a que se refiere el párrafo anterior o en aquellos casos en los que el fraccionador fuere autorizado para celebrar operaciones de compra-venta; promesas de venta; promesas de venta; ventas con reserva de dominio o cualquier otro contrato preparatorio o preliminar, antes de la terminación de las obras de urbanización, la Tesorería del Estado deberá:
-
-I.- Empadronar los lotes del fraccionamiento, los cuales se considerarán como nuevos predios;
-
-II.- Valuar cada uno de los lotes del fraccionamiento; y
-
-III.- Determinar el impuesto que corresponde a cada lote, ordenando la expedición del recibo correspondiente al empadronamiento respectivo.
-
-> <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
-
-En caso de que el avalúo de los lotes resulte inferior al precio de enajenación, servirá éste de valor catastral para efectos del impuesto.
-
-El impuesto que corresponda a cada lote, entrará en vigor a partir del trimestre siguiente a la fecha en que sea practicado el avalúo catastral o se celebre la enajenación, si el precio es mayor.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 44.
 
-Si previamente no se ha obtenido la autorización para enajenar los lotes, los fraccionadores no podrán celebrar contratos de venta, de promesa de venta, de venta con reserva de dominio y de venta o promesa de venta de certificados de participación inmobiliaria, de vivienda, de simple uso o de cualquier otro título similar que autorice la ocupación material de los lotes y que origine algún derecho posesorio, aún cuando los mencionados contratos, certificados o títulos, se hayan celebrado o expedido con motivo de fideicomisos.
-
-Si a pesar de la prohibición establecida en este Artículo se celebran dichas operaciones, los notarios públicos no autorizarán las escrituras correspondientes y el Registro Público de la Propiedad no las inscribirá, consten o no en escritura pública.
-
-Cuando el fraccionador lleve a cabo alguna de las operaciones que menciona el párrafo primero de éste artículo, sinhaber (sic) obtenido la autorización para enajenar los lotes del fraccionamiento, el giro del impuesto predial o todos y cada uno de ellos se hará a partir de la fecha de la primera operación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 45.
 
-En todo caso, los fraccionadores de terrenos deberán manifestar a la Tesorería General del Estado la celebración de cada una de las operaciones a que se refiere el Artículo anterior.
-
-Si como consecuencia de dichos contratos el fraccionador dá la posesión de los lotes a los adquirentes, la Tesorería General del Estado empadronará dichos lotes a nombre de los poseedores y ordenará se expidan a su nombre los recibos de pago correspondientes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 46.
 
-En los casos de fraccionamientos que se ejecuten, total o parcialmente, sin autorización del Estado, la Tesorería General del Estado ordenará desde luego las valuaciones a que se refiere este capítulo y hará el recobro de los impuestos omitidos en los términos del artículo 56, sin perjuicio de aplicar a los infractores las sanciones que procedan.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 #### Sección Séptima. Catastro
 
 ###### Artículo 47.
 
-Todo predio ubicado en el Estado de Sonora deberá ser inscrito en el catastro el cual se integrará con los siguientes padrones:
-
-I.- Gráfico, constituido por:
-
-a).- El plano general catastral del Estado de Sonora; y
-
-b).- Los planos parciales catastrales del Estado de Sonora.
-
-II.- Numérico, que registrará:
-
-a).- El número de cuenta del predio;
-
-b).- El nombre del sujeto del impuesto;
-
-c).- La ubicación del predio;
-
-d).- El monto de la base gravable;
-
-e).- La cuota del impuesto; y
-
-f).- Los demás datos que se estimen necesarios.
-
-III.- Alfabético, que registrará:
-
-a).- El nombre del sujeto del impuesto;
-
-b).- La nacionalidad del sujeto del Impuesto;
-
-c).- El domicilio del sujeto del Impuesto;
-
-d).- El número de cuenta del predio; y
-
-e).- Los demás datos que se estimen necesarios.
-
-IV.- De exenciones, que registrará:
-
-a).- El número de cuenta del predio;
-
-b).- El nombre del sujeto del Impuesto;
-
-c).- La ubicación del predio;
-
-d).- El fundamento legal de la exención;
-
-e).- La fecha de iniciación de la vigencia de la exención y la fecha de su terminación o anulación en su caso; y
-
-f).- Los demás datos que se estimen necesario.
-
-Los predios registrados en el padrón de exenciones también se registrarán en los otros padrones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 48.
 
-El catastro del Estado de sonora se fundará en el levantamiento de planos generales y parciales del propio estado y en la delimitación, medición y avalúo de los predios en particular.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 49.
 
-Los instructivos que al efecto se expidan determinarán la forma de construir el plano general catastral y todos los demás que sean necesarios.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 50.
 
-Los trabajos de deslinde y medición de predios, rectificación o aclaración de linderos podrán hacerse ante la presencia de los propietarios o poseedores del predio y de los propietarios o poseedores de los predios colindantes; pero éstos no podrán intervenir en la ejecución de esos trabajos, pudiendo solamente hacer las observaciones que estimen convenientes.
-
-El resultado de dichos trabajos catastrales y, en su caso, las observaciones de los interesados, se harán constar en acta circunstanciada levantada por triplicado y que firmará el personal que hubiera intervenido en dichos trabajos, pudiendo firmar también, si lo consideran conveniente, el propietario o poseedor, en su caso, del predio deslindado y medido, y los propietarios o poseedores, en su caso, de los predios colindantes. El original y una copia se archivará en la Tesorería General del Estado y la otra copia se entregará al propietario o poseedor, en su caso, del predio deslindado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 51.
 
-En caso de desavenencia entre los propietarios o poseedores del predio y los propietarios o poseedores de los predios colindantes, se procurará un acuerdo entre ellos y si no se logra, la Tesorería General del Estado fijará los límites para los fines fiscales, sin perjuicio de las acciones que correspondan a los afectados ante los Tribunales competentes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 #### Sección Octava. Pago Del Impuesto
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 52.
 
-La cuota del impuesto predial es anual de acuerdo con lo dispuesto en el Artículo 10, pero su importe se pagará trimestralmente, durante los meses de enero, abril, julio y octubre. Sin embargo, el pago podrá hacerse por anualidad anticipada con una deducción del diez por ciento de dicha anualidad, para lo cual los interesados deberán solicitarlo a la Tesorería General del Estado, en un plazo que terminará el 31 de Enero de cada año.
-
-El pago por anualidad anticipada del Impuesto predial no impide el cobro de diferencias que deba hacer la Tesorería General del Estado, por cambio de las bases gravables o alteración de las cuotas del Impuesto.
-
-No obstante lo dispuesto el primer párrafo de este artículo, el pago de la cuota mínima que señala la Fracción III del artículo 10, se hará en una sola exhibición en el mes de enero de cada año.
-
-> <small>(ADICIONADO, B.O. 27 DE JULIO DE 1977)</small>
-
-Tratándose de predios ejidales aprovechados para la producción agropecuaria, el pago se hará al efectuarse la venta de los productos y en su defecto, dentro de los treinta días siguientes a la fecha en que éstos se hubieren cosechado.
+Tratándose de predios ejidales aprovechados para la producción agropecuaria, el pago se hará al efectuarse la venta de los productos y en su defecto dentro de los treinta días siguientes a la fecha en que éstos se hubieren cosechado.
 
 ###### Artículo 53.
 
@@ -699,87 +365,61 @@ La forma y lugar de pago del impuesto predial se regirán por las disposiciones 
 
 ###### Artículo 54.
 
-De conformidad con lo dispuesto en el artículo 3o., la Tesorería General del estado tendrá acción real para el cobro del impuesto predial y de las prestaciones accesorias a éste.
-
-En consecuencia, el procedimiento de ejecución fiscal que establece el Titulo Quinto del Código Fiscal del Estado de Sonora, afectará a los predios directamente cualquiera que sea el propietario o poseedor.
-
-No quedan comprendidas en esta disposición las multas que se impongan por la comisión de infracciones al presente capítulo, pues dichas sanciones se consideran personales para todos los efectos legales.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 55.
 
-Se prohibe a los Notarios Públicos autorizar en forma definitiva, escritura en que hagan constar contratos o resoluciones judiciales o administrativas, cuyo objeto sean predios ubicados en el Estado de Sonora, mientras no les sea exhibida la constancia sobre los mismos de estar al corriente en el pago del Impuesto Predial, para lo cual se les deberá presentar la última boleta o recibo de pago correspondiente al trimestre de que se trate, expedido por la Tesorería General del Estado. Sin embargo, si el terreno estuviera empadronado, pero no las construcciones por causas imputables a la Tesorería, los Notarios Públicos podrán autorizar en forma definitiva las escrituras respectivas si se les exhibe la última boleta o recibo de pago del Impuesto Predial, en los términos de este artículo respecto de dicho terreno. En este caso, si las construcciones ya hubieren sido terminadas, los interesados exhibirán el aviso de terminación de construcción al Notario y éste deberá mencionar en las declaraciones del traslado de dominio, la fecha de presentación y el número con el que quedó registrado el aviso en la Oficialía de Partes. Lo dispuesto en este artículo sólo surtirá efectos en relación con el Impuesto Predial y las multas que se apliquen por violaciones al presente Capítulo.
-
-No obstante esto, los notarios no otorgarán autorizaciones definitivas de escrituras, cuando el predio de que se trate reporte adeudos por conceptos distintos del Impuesto Predial, pues entonces se aplicará la disposición relativa del Artículo (sic) de esta Ley.
-
-Los Certificados de No Adeudo y las autorizaciones que se expidan a los Notarios, tendrán vigencia en el trimestre en que hubiesen sido expedidos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 56.
 
-En los casos de predios no empadronados en la Tesorería General del estado, o de nuevas construcciones permanentes, de reconstrucciones y de ampliaciones permanentes ya existentes que no hayan sido manifestadas oportunamente conforme al Artículo 30 de esta Ley, la propia Tesorería hará el recobro por cinco años atrás a la fecha del descubrimiento del predio, construcciones, reconstrucciones o ampliaciones, salvo que el interesado pruebe que tales hechos o actos datan de fecha posterior, en cuyo caso el recobro del impuesto se hará a partir de esta fecha en adelante y la cuota se aplicará de acuerdo con lo dispuesto en este capítulo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 57.
 
-Los recibos de pago que expida la Tesorería General del Estado, tratándose del Impuesto predial, sólo tendrán efectos en relación con este mismo impuesto y con el trimestre que amparan, sin que sean pruebas de que se hayan pagado los trimestres de los cinco años anteriores.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 58.
 
-Toda estipulación privada, relativa al pago del Impuesto predial, que se oponga a lo dispuesto en este capítulo, se tendrá como inexistente jurídicamente y, por tanto, no producirá efecto legal alguno.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 #### Sección Novena. Disposiciones Generales
 
 ###### Artículo 59.
 
-Las manifestaciones y avisos de los particulares y notarios públicos, que exige este capítulo, deberán hacerse en las formas que apruebe la Tesorería General del Estado y acompañar los documentos o planos que se exijan en las mismas.
-
-No se eximen de la obligación anterior a los propietarios o poseedores, de predios que, por disposición de esta Ley o de otras, estén exentos del pago del Impuesto predial.
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 60.
 
-Cuando en las manifestaciones, avisos o avalúos bancarios exigidos por este Capítulo, no se expresen los datos o no se acompañen de los documentos, o planos también requeridos, la Tesorería General del Estado dará un plazo de quince días para que se corrija la omisión, que contará a partir de la fecha en que los interesados reciban el requerimiento.
-
-Si transcurre dicho plazo y no se expresan los datos o presentan los documentos, avalúos bancarios o planos, a que se refiere el párrafo anterior, la Tesorería tendrá por no presentadas las manifestaciones, avisos o avalúos bancarios, sin perjuicio de imponer al infractor las sanciones que procedan.
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 61.
 
-Las manifestaciones que exige este capítulo respecto de contratos de promesa de venta, de venta con reserva de dominio, así como de venta y de cualesquiera otros contratos, resoluciones administrativas o judiciales o actos que transmitan el dominio de predios o de lotes de terrenos que formen parte de fraccionamientos, deberán presentarse dentro de los quince días siguientes a la fecha de autorización de la escritura pública correspondiente, de la celebración del contrato privado, de la resolución administrativa o judicial o de la fecha del documento de que se trate. También se considerarán comprendidas en este artículo, las manifestaciones de subdivisión o fusión de predios en que no se opere traslado de dominio alguno, por que las porciones del predio subdividido no salgan del dominio del propietario o porque los predios fusionados sean de un mismo propietario.
-
-Los notarios públicos que autoricen dichas escrituras tendrán obligación de manifestar también esos contratos, resoluciones o actos a la Tesorería General del Estado, dentro del mismo término que establece el párrafo anterior, pudiendo emplear para este efecto la manifestación que formulen en relación con el impuesto sobre Traslación de Dominio de Bienes Inmuebles que establece el Capítulo Quinto de esta Ley.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 62.
 
-La Secretaría de Desarrollo Urbano y Rural y las Autoridades Municipales del Estado, tendrán la obligación de proporcionar a la Tesorería General del Estado, una relación de los permisos de construcción otorgados, así como comunicar las fechas de terminación de construcciones, reconstrucciones o ampliaciones permanentes o las fechas en que éstas se ocupen o aprovechen en cualquier forma, sin estar terminadas, dentro de los quince días posteriores a la terminación del mes que corresponda.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 63.
 
-Las comunicaciones a que se refiere el Artículo anterior, se harán por escrito dentro de los quince días a la fecha en que la Secretaría de Desarrollo Urbano y Rural reciba las manifestaciones de terminación o de ocupación de las construcciones, reconstrucciones o ampliaciones que deban presentar los constructores, de acuerdo con las disposiciones legales y reglamentos relativas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 64.
 
-Los sujetos del Impuesto estarán obligados a manifestar a la Tesorería General del Estado los cambios de su domicilio, dentro de los quince días siguientes a aquél en que se efectúen. Si no lo hicieren, se tendrá como domicilio, para los efectos de este Capítulo, el que hubieren señalado anteriormente, o, en su defecto, el predio mismo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 65.
 
-Las oficinas públicas, los notarios, así como las empresas fraccionadoras y las que se dediquen a la explotación de bienes raíces en cualquier forma, están obligados a auxiliar a las oficinas catastrales suministrándoles los datos e informes que se les soliciten.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 66.
 
-Los notarios, las oficinas públicas, las empresas fraccionadoras, las que se dediquen a la explotación de bienes raíces y los particulares, están obligados a proporcionar a la Tesorería General del Estado, dentro de un plazo de quince días, los datos relativos a las modificaciones que sufra la propiedad en virtud de los contratos celebrados ente ellos o de los actos o contratos en que hayan intervenido.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 67.
 
-Contra las resoluciones que fijen el impuesto predial, sobre la base de los valores catastral definitivo, procederá el juicio ante el Tribunal de lo Contencioso-Administrativo del Estado de Sonora, quien designará en su caso, como perito tercero en discordia, a una institución de crédito que opere en el Estado de sonora.
-
-Los peritos de las partes y, en su caso, el que designe la institución, deberán ser ingenieros o arquitectos titulados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
@@ -1847,53 +1487,35 @@ Los sujetos de este impuesto deberán registrarse en la oficina recaudadora de s
 
 ### Capítulo Quinto. De los Impuestos Sobre Capitales
 
-#### Sección Primera. Del Impuesto Sobre Traslación de Dominio
+> <small>(REFORMADA SU DENOMINACION, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADO, B.O. 3 DE MARZO DE 1983)</small>
+#### Sección Primera. Del Impuesto Sobre Traslación de Dominio de Bienes Muebles
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 183.
 
-En (sic) objeto de este impuesto, la traslación de dominio de bienes muebles e inmuebles, comprendida en las siguientes operaciones:
+Es objeto de este impuesto, la traslación de dominio de bienes muebles, comprendida en las siguientes operaciones:
 
-I.- La adquisición de bienes inmuebles que consistan en suelo o en el suelo y las construcciones adheridas a él, ubicados en el Territorio del Estado.
+I.- (DEROGADA, B.O. 29 DE DICIEMBRE DE 1983)
+
+> <small>(REFORMADA, B.O. 3 DE MARZO DE 1983)</small>
 
 II.- La enajenación, adjudicación y permuta de bienes muebles usados, en operaciones realizadas por personas no constituidas como empresas.
 
-III.- La donación de bienes muebles. En tratándose de empresas únicamente se gravará cuando el donativo sea deducible para los fines del Impuesto Sobre la Renta.
+> <small>(REFORMADA, B.O. 3 DE MARZO DE 1983)</small>
 
-> <small>(REFORMADO, B.O. 3 DE MARZO DE 1983)</small>
+III.- La donación de bienes muebles. En tratándose de empresas únicamente se gravará cuando el donativo sea deducible para los fines del Impuesto Sobre la Renta.
 
 ###### Artículo 184.
 
-Para los efectos de este Impuesto, se entiende por adquisición, la que derive de:
+(DEROGADO, B.O. 29 DE DICIEMBRE DE 1983)
 
-I.- Todo acto por el que se transmita la propiedad, incluyendo la donación y la aportación a toda clase de asociaciones o sociedades.
-
-II.- La compra-venta en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad.
-
-III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él antes de que se celebre el contrato prometido.
-
-IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las Fracciones II y III que anteceden, respectivamente.
-
-V.- Fusión de Sociedades.
-
-VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
-
-VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal.
-
-VIII.- Prescripción Positiva.
-
-IX.- La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción a éstos.
-
-X.- Enajenación a través de fideicomiso, en los términos del Código Fiscal de la Federación.
-
-En las permutas se considerará que se efectúan dos adquisiciones.
-
-> <small>(REFORMADO, B.O. 3 DE MARZO DE 1983)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 185.
 
-El impuesto se causa en el momento en que se realicen las operaciones gravadas, aún cuando sean a plazo o a crédito, sin incluir los intereses.
+El impuesto se causa en el momento en que se realicen las operaciones gravadas, aún cuando sean a plazo o a crédito.
 
 > <small>(REFORMADO, B.O. 3 DE MARZO DE 1983)</small>
 
@@ -1901,9 +1523,9 @@ El impuesto se causa en el momento en que se realicen las operaciones gravadas, 
 
 Son sujetos de este impuesto:
 
-I.- En operaciones sobre inmuebles:
+I.- (DEROGADA, B.O. 29 DE DICIEMBRE DE 1983)
 
-a).- El adquirente, en el caso de la fracción I del Artículo 183.
+a).- (DEROGADO, B.O. 29 DE DICIEMBRE DE 1983)
 
 II.- En operaciones sobre muebles:
 
@@ -1927,21 +1549,17 @@ La base del impuesto, será la siguiente:
 
 I.- Para los bienes muebles: el valor mas alto entre el que tengan en el mercado y el de la factura o del acto o contrato del que derive la traslación de dominio; y
 
-> <small>(REFORMADA, B.O. 3 DE MARZO DE 1983)</small>
+II.- (DEROGADA, B.O. 29 DE DICIEMBRE DE 1983)
 
-II.- Para los bienes inmuebles, el valor que resulte mayor entre los siguientes:
+a).- (DEROGADO, B.O. 29 DE DICIEMBRE DE 1983)
 
-a).- El consignado en avalúo hecho por una institución de crédito, el cual deberá tener una vigencia no mayor de seis meses, contados a partir de la fecha de su expedición.
+b).- (DEROGADO, B.O. 29 DE DICIEMBRE DE 1983)
 
-La Tesorería General del Estado, a través de la Dirección de Catastro, se reserva la facultad de revisar los avalúos practicados por las Instituciones de crédito, los que podrán ser rechazados en caso de que no se apeguen a los precios reales del valor comercial del terreno y con los valores unitarios comerciales de construcción en el momento que se elabore el dictamen correspondiente.
+c).- (DEROGADO, B.O. 29 DE DICIEMBRE DE 1983)
 
-b).- El catastral, y
+> <small>(DEROGADO PENULTIMO PARRAFO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
-c).- El que resulte de aplicar al precio pactado el factor que anualmente establezca el Congreso de la Unión, conforme al número de años transcurridos entre la fecha de adquisición y la fecha en que sea exigible el pago.
-
-Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar uno o más deudas o de perdonarlas el importe de ellas se considerará parte del precio pactado.
-
-Para los fines de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad;
+> <small>(DEROGADO ULTIMO PARRAFO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
 > <small>(ADICIONADA, B.O. 4 DE JUNIO DE 1977)</small>
 
@@ -1963,29 +1581,15 @@ I.- Cuando por la naturaleza de la operación o por las condiciones pactadas no 
 
 II.- Sobre la base determinada conforme a la fracción I del Artículo Anterior, el 4%;
 
-> <small>(REFORMADA, B.O. 3 DE MARZO DE 1983)</small>
-
-III.- En las operaciones sobre bienes inmuebles, el impuesto se calculará, aplicando la tasa del 8% a la base determinada, después de reducirla en cinco veces el salario mínimo general elevado al año, de la zona económica en la que se encuentre ubicado el inmueble, correspondiente al año de calendario en que se esté en los supuestos de pago del impuesto.
-
-Cuando del inmueble formen parte departamentos habitacionales, la reducción se hará por cada uno de ellos. Lo dispuesto en este párrafo no es aplicable a hoteles;
+III.- (DEROGADA, B.O. 29 DE DICIEMBRE DE 1983)
 
 > <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
 IV.- Cuando no sea posible especificar en forma separada el valor de los muebles e inmuebles: 3%.
 
-> <small>(ADICIONADO, B.O. 3 DE MARZO DE 1983)</small>
-
 ###### Artículo 189 Bis.
 
-La reducción a que se refiere la Fracción III del Artículo anterior, se realizará conforme a lo siguiente:
-
-I.- Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiera adquirido con anterioridad, para que se ajuste el monto de la reducción y pagará en su caso, las diferencias del impuesto que corresponda.
-
-II.- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, a que se refiere el Art. 184 de esta Ley, la reducción se hará en la proporción que corresponda a dicha parte.
-
-III.- Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos.
-
-IV.- No se considerarán departamentos habitacionales, los que por sus características originales, destinen a servicios domésticos, portería o guarda de vehículos, aún cuando se utilicen para otros fines.
+(DEROGADO, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 190.
 
@@ -1997,31 +1601,15 @@ II.- Los notarios, corredores públicos, jueces y demás fedatarios que por disp
 
 III.- Los funcionarios públicos o empleados de la Federación, del Estado o de sus Municipios, por los gravámenes omitidos en escritos presentados ante ellos, donde consten actos, contratos o documentos que aludan a operaciones gravadas por este impuesto, si no los consignan a la Tesorería General del Estado dentro de los treinta días siguientes a la presentación.
 
-> <small>(REFORMADO, B.O. 3 DE MARZO DE 1983)</small>
-
 ###### Artículo 191.
 
-No se pagará este impuesto en los siguientes casos:
+(DEROGADO, B.O. 29 DE DICIEMBRE DE 1983)
 
-I.- En las adquisiciones por las Instituciones de asistencia o de beneficencia, autorizadas por leyes de la materia, Instituciones públicas de enseñanza y establecimientos de enseñanza propiedad de particulares, con autorización o con reconocimiento de validez oficial de estudios en los términos de las Leyes Federal y Estatal de Educación, por los bienes destinados exclusivamente a sus fines educativos.
-
-II.- En las adquisiciones que se realicen al constituir o disolver la sociedad conyugal, así como en el acto en que se cambien las capitulaciones matrimoniales.
-
-III.- En las adquisiciones por la Federación, Estados, Distrito Federal y Municipios y los estados extranjeros en caso de reciprocidad.
-
-IV.- En las adquisiciones por los partidos y asociaciones políticas para su propio uso.
-
-V.- La adjudicaciones realizadas por organismos descentralizados de la Federación, del Distrito Federal, de los Estados y de los Municipios que promuevan la vivienda de interés social.
-
-VI.- La adjudicación de bienes por sucesión.
-
-VII.- La partición de la copropiedad siempre que en las partes adjudicadas no excedan de las partes que pro-indiviso corresponderían a los sujetos.
-
-VIII.- Las adquisiciones que reúnan los requisitos exigidos por la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 192.
 
-El impuesto deberá pagarse en la Oficina Recaudadora del lugar de ubicación de los bienes o del lugar en que se celebró la operación.
+El impuesto deberá pagarse en la Oficina Recaudadora del domicilio de cualquiera de los sujetos o del lugar en que se celebró la operación.
 
 ###### Artículo 193.
 
@@ -2442,6 +2030,10 @@ No causan este impuesto:
 I.- Las remuneraciones que perciban los técnicos extranjeros contratados por la Federación, el Estado de Sonora o por los Municipios; y
 
 II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
+
+> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 1983)</small>
+
+III.- Las percepciones que se encuentren gravadas con el Impuesto al Valor Agregado.
 
 ###### Artículo 242.
 
@@ -3077,6 +2669,8 @@ Los derechos por servicios de empadronamiento a que se refieren diversos precept
 
 ### Capitulo Séptimo. Servicios por Registro de Documentos, Planos, Certificados, Permisos y Autorizaciones
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 302.
 
 Estos derechos se cubrirán y causarán por la expedición y revalidación de permisos y de licencias eventuales, de acuerdo con su categoría y ubicación.
@@ -3239,6 +2833,8 @@ Igualmente cuando se lleven a cabo traspasos, cambios de propietarios o de razó
 
 ### Capítulo Octavo. Servicios de Publicación y Suscripciones en el Boletín Oficial
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 307.
 
 Los derechos por estos servicios se cubrirán conforme a las siguientes cuotas:
@@ -3317,33 +2913,41 @@ del punto anterior, por cada prórroga 200.00
 
 Los derechos por estos servicios se cobrarán conforme a las siguientes cuotas:
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
+
 1.- Por cada firma que legalice el C. Gobernador
 
-y Supremo Tribunal de Justicia $300.00
+y Supremo Tribunal de Justicia $500.00
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
 2.- Por cada firma que legalicen o certifiquen los
 
 C.C. Jueces de Primera Instancia o el Tesorero
 
-General del Estado 100.00
+General del Estado 500.00
 
-> <small>(ADICIONADO, B.O. 3 DE FEBRERO DE 1979)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
-3.- Por cada firma que legalice el C. Gobernador
+3.- Por la certificación de firmas autógrafas de
 
-respecto a documentos relacionados con la materia
+constancias expedidas por centros educativos
 
-educativa, exclusivamente cuando se trate de
+a estudiantes 50.00
 
-estudiantes, sin adicionales $20.00
-
-> <small>(ADICIONADO, B.O. 3 DE FEBRERO DE 1979)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
 4.- Por cada firma que legalice el C. Gobernador
 
 del Estado, de actas de nacimiento exclusivamente
 
-cuando se trate de estudiantes, sin adicionales $30.00
+cuando se trate de estudiantes, sin adicionales 50.00
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
+
+5.- Por la certificación de firmas autógrafas que
+
+autorizan documentos públicos 500.00
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
@@ -3353,147 +2957,133 @@ cuando se trate de estudiantes, sin adicionales $30.00
 
 ###### Artículo 310.
 
-Los derechos por estos servicios se cobrarán conforme a las siguientes cuotas:
+Los derechos por estos servicios, se cobrarán conforme a las siguientes cuotas:
 
-1.- Por registro de documentos que mencionen un
+1.- Por la certificación de constancias y copias
 
-valor determinado. Sobre dicho valor 5 al millar
+de expedientes y documentos de archivo, por
 
-2.- Por registro de documentos sin mencionar valor
+certificación 100.00
 
-alguno, de $15.00 a $50.00
+2.- Por expedición de copias:
 
-3.- Por registro de planos para construcciones como
+a).- Primera Hoja 100.00
 
-sigue:
+b).- Por cada una de las subsecuentes 50.00
 
-a).- Para construcciones con valor hasta de
+c).- Por búsqueda de documentos referidos a un
 
-$30,000.00 Exento
+período de cinco años anteriores o fracción 50.00
 
-b).- Para construcciones con valor de $30,000.01
+3.- Por expedición de certificados de necesidad para
 
-a $60,000.00 $100.00
+la adquisición de bienes inmuebles 5,000.00
 
-c).- Para construcciones con valor de $60,000.01
+4.- Por expedición de certificados sobre antecedentes
 
-a $100,000.00 200.00
+penales por cada uno 50.00
 
-d).- Para construcciones con valor $100,000.01
+5.- Por expedición de certificados de no-adeudo y
 
-a $200,000.00 350.00
+otros, por cada uno 250.00
 
-e).- Para construcciones con valor de $200.000.01
+6.- Por anuencia para la expedición de permisos
 
-en adelante 500.00
+de caza 1,500.00
 
-4.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1981)
+7.- Por anuencia para la expedición de permisos para
 
-5.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1981)
+portar armas y para compra-venta y/o almacenaje
 
-6.- (DEROGADO, B.O. 29 DE DICIEMBRE DE 1980)
+de explosivos 1,500.00
 
-7.- Expedición de certificados de necesidad para
+8.- Por anuencia para la expedición de permisos de
 
-la adquisición de bienes inmuebles 150.00
+asociaciones de Caza, Tiro, Pesca, por socio 100.00
 
-8.- Expedición de certificados sobre antecedentes
+9.- Por inscripción en el Padrón de Proveedores
 
-penales. Por cada uno 50.00
+de la Administración Pública Estatal 6,700.00
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+Por refrendo anual $4,500.00
 
-9.- Expedición de certificados de no adeudo y otros,
+10.- Autorizaciones para exhumación de cadáveres
 
-por cada hoja 100.00
+y restos áridos, como sigue:
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+I.- Para la exhumación de restos áridos, para ser
 
-10.- Expedición de copias certificadas, por cada hoja 100.00
+reinhumados en el mismo panteón 1,000.00
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+II.- Por la exhumación de restos áridos para ser
 
-11.- Por expedición de certificados catastrales 100.00
+reinhumados en otro panteón dentro de la
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+jurisdicción del Municipio 1,000.00
 
-12.- por deslinde, rectificación o aclaración de linderos catastrales en:
+III.- Por la exhumación de restos áridos para ser
 
-Zonas urbanas, hasta 1,000 m2 $300.00
+reinhumados en otro Municipio del Estado o
 
-De 1,001 a 2,500 m2 $600.00
+fuera de la Entidad 1,500.00
 
-De 2,501 en adelante $0.30 por m2.
+IV.- Por autorización para el traslado de un cadáver
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+o restos áridos exhumados de un Municipio a otro
 
-13.- Por expedición de copias de planos de población.
+o a otra Entidad Federativa 1,800.00
 
-Por cada copia $500.00
+No se causará ningún derecho por la exhumación de
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+cadáveres cuando ésta sea decretada por Autoridad
 
-14.- Por expedición de copias de planos de valores
+Judicial o por el Ministerio Público en el proceso penal.
 
-de calles. Por cada una $2,000.00
+11.- Por expedición de certificados catastrales 250.00
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+12.- Por deslinde, rectificación o aclaración de linderos
 
-15.- Por expedición de copias de tablas sobre valores
+atastrales en:
 
-de construcción. Por cada una $1,000.00
+a).- Zona Urbana hasta 1,000M2 1,000.00
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+b).- De 1,001 M2 a 2,500M2 1,500.00
+
+c).- De 1,501 M2 en adelante 100.00M2 (sic)
+
+13.- Por expedición de planos de población, por
+
+cada copia 1,000.00
+
+14.- Por expedición de planos de valores de calle,
+
+por cada uno 5,000.00
+
+15.- Por expedición de copias de tablas sobre
+
+valores de construcción, por cada una 2,500.00
 
 16.- Por expedición y certificación de planos por la
 
-Dirección de Catastro $250.00
+Dirección de Catastro 500.00
 
-mas $25.00 por centímetro cuadrado.
+Más $50.00 por cm2.
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+17.- Por expedición de copias heliográficas, por la
 
-17.- Por expedición de copias heliográficas por la
+Dirección de Catastro de $100.00 a 1,000.00
 
-Dirección de Catastro, de $5.00 a $500.00
+18.- Por asignación de clave catastral, a lotes de
 
-18.- Autorizaciones para exhumación y traslado
+terreno de fraccionamientos, por cada uno 20.00
 
-de cadáveres o restos áridos, como sigue:
+19.- Por registro de documentos sin mencionar un
 
-I.- Por la exhumación de restos áridos para ser
+valor determinado sobre dicho valor 5 al Millar
 
-trasladados a otro lugar del mismo panteón,
+20.- Por registro de documentos sin mencionar
 
-de $200.00 a 500.00
-
-II.- Por la exhumación de restos áridos para
-
-ser trasladados de un panteón a otro, dentro
-
-de la jurisdicción del municipio, de $200.00 a 500.00
-
-III.- Por la exhumación de restos áridos para
-
-ser trasladados a otro municipio del Estado
-
-o fuera del Estado, de $200.00 a 750.00
-
-IV.- Por autorización para el traslado de un
-
-cadáver de un Municipio a otro, o fuera del
-
-Estado, de $200.00 a 1,000.00
-
-No se causará ningún derecho por la exhumación de cadáveres cuando ésta sea decretada por Autoridad competente, en un proceso penal.
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
-
-19.- Por asignación de clave catastral a lotes
-
-de terreno de fraccionamientos, se pagará
-
-por cada uno 20.00
+valor alguno, de $15.00 a 50.00
 
 ### Capítulo Décimo Segundo. Inspección Sanitaria
 
@@ -3501,23 +3091,31 @@ por cada uno 20.00
 
 Los derechos por estos servicios, serán:
 
-1.- De balances y estados financieros $1,500.00
+1.- Por una publicación, cada palabra 8.00
 
-2.- Por toda clase de avisos judiciales y administrativos,
+2.- Por dos publicaciones, cada palabra 15.00
 
-etc., por cada palabra en primera insertación 3.00
+3.- Por tres publicaciones, cada palabra 17.00
 
-3.- Por cada una de las publicaciones subsecuentes
+4.- Por página completa cada publicación;
 
-a los avisos anteriores, por cada palabra 1.50
+balances y Estados Financieros 9,000.00
 
-4.- Por suscripciones dentro del país, anual 225.00
+5.- Por suscripción dentro del País, anual 2,120.00
 
-5.- Por suscripciones en el extranjero, anual 300.00
+6.- Por suscripción al extranjero, anual 2,500.00
 
-6.- Por número de día 3.00
+7.- Por número del día 25.00
 
-7.- Por número atrazado (sic) 7.50
+8.- Por copias de boletín de archivo:
+
+a).- Por la primera hoja 100.00
+
+b).- Por cada una de las subsecuentes 30.00
+
+c).- Por certificación de copias de publicaciones
+
+de archivo 125.00
 
 ### Capítulo Décimo Tercero. Servicios del Registro Civil
 
@@ -3525,7 +3123,7 @@ a los avisos anteriores, por cada palabra 1.50
 
 Las placas tipo único para todos los vehículos, se clasifican en los siguientes grupos y serán bianuales, aplicándose por su expedición, canje o transferencia, las tarifas que siguen conforme a sus especificaciones:
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
 1.- DE TRANSPORTE PRIVADO: Que deberán
 
@@ -3535,13 +3133,13 @@ para uso particular. Estas placas solicitadas
 
 durante el primer año del bienio, causaran
 
-una cuota de $720.00
+una cuota de $1,000.00
 
 Cuando se soliciten durante el segundo año del
 
-bienio $360.00
+bienio $500.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
 2.- DE SERVICIO PUBLICO LOCAL: Que deberán
 
@@ -3551,11 +3149,11 @@ se utilicen para prestar servicio de transporte de
 
 personas o cosas dentro del Estado. Cuando
 
-soliciten dentro del primer año del bienio $560.00
+soliciten dentro del primer año del bienio $750.00
 
 Cuando se soliciten dentro del segundo año del
 
-bienio 280.00
+bienio 375.00
 
 3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1977)
 
@@ -3591,43 +3189,47 @@ La reposición de una placa implicará un juego completo y causará derechos com
 
 Los derechos por expedición de Licencias para conducir, así como permisos para guiar sin licencias, causarán el pago:
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
+
 1.- LICENCIAS:
 
 a).- De automovilistas de acuerdo a su vigencia, como sigue:
 
-2 años $1,000.00
+2 años $1,300.00
 
-3 años 1,500.00
+3 años 1,950.00
 
-4 años 2,000.00
+4 años 2,600.00
 
-5 años 2,500.00
+5 años 3,250.00
 
-b).- De chofer cuota anual 375.00
+b).- De chofer cuota anual 480.00
 
 c).- De operador de servicio público
 
-de transporte 1,500.00
+de transporte 1,950.00
 
 Esta categoría de licencia, únicamente se expedirá con vigencia de dos años.
 
-d).- De motociclista, cuota anual 250.00
+d).- De motociclista, cuota anual 325.00
 
 2.- (DEROGADO, B.O. 30 DE DICIEMBRE DE 1982)
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
 3.- PERMISOS:
 
 a).- De automovilistas. Por cada diez
 
-días o fracción 150.00
+días o fracción 200.00
 
 b).- DE chofer. Por cada diez días o
 
-fracción 100.00
+fracción 130.00
 
 c).- De motociclista. Por cada diez
 
-días o fracción 50.00
+días o fracción 65.00
 
 d).- Para conducir vehículos de propulsión
 
@@ -3635,45 +3237,45 @@ automotriz, en los casos previstos en el
 
 Artículo 14 del Reglamento de la Ley de
 
-Tránsito y Transporte del Estado 1,500.00.
+Tránsito y Transporte del Estado 1,950.00.
 
 ###### Artículo 317.
 
 Los derechos por registro de motocicletas y motonetas; permisos provisionales para transitar sin placas; reposición de tarjetas de circulación y de licencias de manejar, sujetos al régimen Fiscal previsto en las Leyes y Reglamentos Locales, se cobrarán con sujeción a las siguientes tarifas:
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
 1.- Las placas y/o calcomanías de revalidación para
 
 motoclicletas y motonetas que sean solicitadas
 
-dentro de los primeros nueve meses del año $370.00
+dentro de los primeros nueve meses del año $450.00
 
-Las solicitadas en los tres últimos meses del año 175.00
+Las solicitadas en los tres últimos meses del año 225.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
 2.- Permiso para la circulación de automóviles o
 
-camiones sin placas, hasta por diez días 400.00
+camiones sin placas, hasta por diez días 520.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
 3.- Permisos para la circulación de motocicletas sin
 
-placa, hasta por diez días 100.00
+placa, hasta por diez días 130.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
 4.- Reposición de tarjetas de circulación para
 
-automóviles o camiones 150.00
+automóviles o camiones 200.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
 5.- Reposición de tarjetas de circulación para
 
-motocicletas 125.00
+motocicletas 160.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -3691,13 +3293,13 @@ A las reposiciones de licencias se les aplicará el mismo importe de los derecho
 
 Los servicios que la Dirección de Transporte del Estado, preste a los particulares, causarán el pago de derechos conforme a las especificaciones y tarifas siguientes:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
-1.- Para la expedición de permiso que ampare
+1.- Por la expedición de concesión para la
 
-la explotación de concesión de servicio público
+explotación de servicios públicos de jurisdicción
 
-de jurisdicción estatal por unidad:
+estatal, por unidad:
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
@@ -3707,25 +3309,29 @@ a).- Pasaje de: $50,000.00
 
 b).- Carga de: 25,000.00
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 1983)</small>
+
+2.- Por revisión anual de las concesiones que
+
+amparen la explotación de servicio público de
+
+transporte de jurisdicción estatal por unidad:
+
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
-
-2.- Por revisión anual de los permisos que amparen
-
-la explotación de concesiones de servicio público
-
-de transporte de jurisdicción estatal por unidad:
 
 a).- Pasaje 1,500.00
 
-b).- Carga 500.00
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
-3.- Por la expedición de permiso temporal para
+b).- Carga 500.00
 
-la explotación del servicio público de transporte
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
-de Jurisdicción Estatal por unidad:
+3.- Por la explotación de concesión temporal
+
+para la explotación del servicio público de
+
+transporte de jurisdicción Estatal, por unidad:
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
@@ -3771,15 +3377,15 @@ a).- Pasaje $50,000.00
 
 b).- Carga 50,000.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
-7.- Por la expedición de permisos con motivo de
+7.- Por la expedición de concesiones con motivo
 
-ampliación de ruta o radios de jurisdicción en las
+de ampliación de ruta o radios de jurisdicción en
 
-concesiones de Servicio Público de Transporte
+la explotación de Servicio Público de Transporte
 
-de jurisdicción Estatal:
+de Jurisdicción Estatal:
 
 > <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
@@ -3839,15 +3445,17 @@ servicio, vehículos con capacidad hasta de una
 
 tonelada.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
-9.- Por expedición de permisos para la explotación
+9.- Por expedición de concesiones para la
 
-de concesión de centrales y terminales camioneras: 100,000.00.
+explotación de centrales y terminales
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+camioneras 100,000.00.
 
-1) (sic).- Por estudios técnicos y socioeconómicos
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
+
+10).- Por estudios técnicos y socioeconómicos
 
 que a solicitud de concesionarios realice el
 
@@ -4280,3 +3888,25 @@ SEGUNDO.- Los impuestos y contribuciones causados conforme a las disposiciones v
 B.O. 26 DE MAYO DE 1983.
 
 UNICO.- Esta Ley entrará en vigor, a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 29 DE DICIEMBRE DE 1983.
+
+LEY No. 37 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY No. 9 DE HACIENDA DEL ESTADO.
+
+PRIMERO: Esta Ley entrará en vigor en todo el Estado, el día Primero de Enero de 1984, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO: Los impuestos y derechos causados conforme a las disposiciones vigentes con anterioridad a la fecha en que entre en vigor la presente Ley, deberán ser pagados en el monto, forma y plazos establecidos en dichas disposiciones.
+
+B.O. 29 DE DICIEMBRE DE 1983.
+
+LEY NUMERO 35 DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrara en vigor, previa su publicación en el Boletín Oficial del Gobierno del Estado, el día 1o. de Enero de 1984.
+
+SEGUNDO.- A partir de la fecha en que esta ley entre en vigor queda abrogada la Ley Orgánica del Sistema Fiscal Municipal de fecha 1o. de Julio de 1931, así como derogadas todas aquellas disposiciones administrativas, resoluciones, consultas, interpretaciones y autorizaciones de carácter general o que se hubiesen otorgado a título particular, que contravengan o se opongan a lo preceptuado en la misma.
+
+Asimismo, quedan derogadas las Fracciones I, II Inciso (sic) a), b), c), d) y Fracción IV del Artículo 5o.; Artículo 6o.; Fracciones I, II, III y V del Artículo 7o.; Fracciones I, II y IV del Artículo 8o.; Fracción I y el inciso b) de la Fracción II, del Artículo 9o.; Artículo 10, a excepción de su Fracción V; Artículos 11, 12, 13, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 40, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, a excepción de su último párrafo, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66 y 67, todos de la Ley de Hacienda del Estado.
+
+CUARTO.- Hasta el año de 1988 para el cobro de Impuesto Predial a que se refiere el Artículo 65 de esta Ley, las Autoridades Municipales, de acuerdo al contenido del segundo párrafo del Artículo 26, determinarán la prestación fiscal en los términos de la presente Ley, y de la Ley de Hacienda del Estado, enterando al Fisco Estatal, las cantidades que por ese concepto recaude, en la proporción que resulte de acuerdo al período de causación.
