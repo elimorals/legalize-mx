@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1982-01-04"
+last_updated: "1982-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 1982.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -11527,11 +11527,11 @@ De las Donaciones en General.
 
 El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 1941)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1982)</small>
 
 ###### Artículo 2199.
 
-La venta de un inmueble que tenga un valor hasta de quinientos pesos, podrá otorgarse en escritura privada.
+La venta de un inmueble que tenga un valor hasta de $ 40,000.00 (CUARETA MIL PESOS, 00/100 M. N.), podrá otorgarse en escritura privada.
 
 ###### Artículo 2200.
 
@@ -11541,11 +11541,11 @@ Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su r
 
 De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 1941)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1982)</small>
 
 ###### Artículo 2202.
 
-Si el valor del inmueble excede de quinientos pesos su venta se otorgará en escritura pública.
+Si el valor del inmueble excede de $ 40,000.00 (CUARENTA MIL PESOS, M.N.), su venta se otorgará en escritura pública.
 
 ###### Artículo 2203.
 
@@ -15590,3 +15590,9 @@ P.O. 4 DE ENERO DE 1982.
 ###### ARTICULO UNICO.
 
 El presente decreto surtirá sus efectos a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 19 DE FEBRERO DE 1982.
+
+###### ARTICULO UNICO.
+
+El presente decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
