@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-a-la-informacion-publica-del-estado-de-nuevo-2686
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-21"
-last_updated: "2004-07-14"
+last_updated: "2004-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 2003.
 
@@ -47,13 +47,19 @@ La presente Ley es de interés social, por cuanto que regula el ejercicio del de
 
 Esta ley, establece los procedimientos para obtener la información pública, y la instancia que determinará, en caso de duda, cuándo una información deba considerarse como pública, y en su caso, ordenar a la autoridad la entrega de dicha información.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 3.
 
-Para los efectos de esta ley se entiende por autoridad, los servidores públicos responsables de cada dependencia, oficina o unidad administrativa de los poderes del Estado, los ayuntamientos y sus administraciones públicas en cualquier forma, los organismos autónomos, y los fideicomisos en donde el fideicomitente o fideicomisario sea cualquiera de las entidades citadas.
+Para los efectos de esta Ley se entiende por:
 
-Serán responsables del acceso a la información los servidores públicos titulares de cada dependencia, oficina o unidad administrativa de los mismos.
+Autoridad: a los servidores públicos responsables de cada dependencia, oficina o unidad administrativa de los poderes del Estado, los ayuntamientos y sus administraciones públicas en cualquier forma, los organismos autónomos, y los fideicomisos en donde el fideicomitente o fideicomisario sea cualquiera de las entidades citadas.
 
-Se entiende por Comisión, la Comisión de Acceso a la Información Pública.
+Comisión: a la Comisión de Acceso a la Información Pública.
+
+Datos Personales: la información concerniente a una persona física, identificada o identificable, como es la relativa a su origen étnico o racial, o que esté referida a las características físicas, morales o emocionales, a su vida afectiva y familiar, a su vida económica y patrimonio personal y familiar, domicilio, número telefónico, ideología y opciones políticas, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, las preferencias sexuales u otras análogas que afecten su intimidad.
+
+Responsables del acceso a la información pública: a los servidores públicos titulares de cada dependencia, oficina o unidad administrativa de los poderes del Estado, los ayuntamientos y sus administraciones públicas en cualquier forma, los organismos autónomos, y los fideicomisos en donde el fideicomitente o fideicomisario sea cualquiera de las entidades citadas.
 
 ###### Artículo 4.
 
@@ -480,3 +486,7 @@ DECRETO No. 108
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Las autoridades responsables de los Tribunales del Poder Judicial y del Poder Ejecutivo expedirán los lineamientos mediante los cuales, sin contravenir las disposiciones legales, se facilitará a las personas que lo soliciten el acceso a la información que obre en su poder.
+
+P.O. 19 DE NOVIEMBRE DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
