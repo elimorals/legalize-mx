@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "1998-08-23"
+last_updated: "1998-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 1998.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -1873,15 +1873,15 @@ El divorcio así obtenido no surtirá efectos legales si se comprueba que los c�
 
 Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código de Procedimientos Civiles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 295.
 
-Los cónyuges que se encuentren en el caso del párrafo último del artículo anterior, están obligados a presentar al Juzgado un convenio en que fijen los siguientes puntos:
+Los cónyuges que se encuentren en el caso del párrafo último del artículo anterior, están obligados a presentar al juzgado un convenio en que fijen los siguientes puntos:
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 1988)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1998)</small>
 
-I.- Designación del cónyuge que ejercerá en forma exclusiva la patria potestad y a quien serán confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio y, en general, el arreglo de la situación de aquellos;
+I.- Designación del cónyuge que tendrá la custodia de los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio y, en general, el arreglo de la situación de aquéllos;
 
 II.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
@@ -1941,19 +1941,25 @@ V.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a
 
 VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos; el juez, con audiencia del otro cónyuge, resolverá inmediatamente designando la persona en caso de no ser aceptada la propuesta.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 305.
 
-En la sentencia de divorcio se designará al cónyuge, ascendiente o tutor que ejercerá en forma exclusiva la patria potestad y a quien serán confiados los hijos del matrimonio, conforme a las siguientes reglas:
+En la sentencia de divorcio se designará al o a los cónyuges, ascendientes o tutores que tendrán la patria potestad y la custodia de los hijos del matrimonio, conforme a las siguientes reglas:
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 1988)</small>
 
 I.- Si la causa del divorcio estuviere comprendida en cualquiera de las fracciones excepto la VI, VII y XVII del Artículo 289, los hijos quedarán bajo la patria potestad y custodia del cónyuge no culpable, pero a la muerte de éste, el cónyuge culpable los recuperará excepto si la causa del divorcio fue de las comprendidas en las fracciones III, IV, V y XV, en cuyo caso los menores quedarán bajo la patria potestad y custodia del ascendiente que corresponda o del tutor nombrado si no lo hubiere.
 
 Si los dos cónyuges fueren culpables, los hijos quedarán bajo la patria potestad y custodia del ascendiente que corresponda o del tutor nombrado si no lo hubiere;
 
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 1988)</small>
+
 II.- En el caso de que el divorcio tenga como causa las comprendidas en las fracciones VI y VII del Artículo 289, los hijos quedarán bajo la patria potestad y custodia del cónyuge sano y en caso de la muerte de éste, bajo la del ascendiente que corresponda o del tutor nombrado si no lo hubiere;
 
-III.- Si el divorcio tuviere por causa la prevista en la fracción XVII del Artículo 289, los padres de común acuerdo designarán al que ejercerá en forma exclusiva la patria potestad a quien serán confiados los hijos del matrimonio.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1998)</small>
+
+III.- Si el divorcio tuviere por causa la prevista en la fracción XVII del Artículo 289, los padres de común acuerdo designarán al que tendrá la custodia de los hijos del matrimonio.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1988)</small>
 
@@ -2447,7 +2453,7 @@ EI Oficial del Registro Civil, el juez de Primera Instancia en su caso, y el not
 
 ###### Artículo 396.
 
-Cualquiera de los padres podrá reconocer al hijo natural nacido antes del matrimonio de aquéllos; y el marido podrá reconocer al habido durante éste; pero no tendrá derecho de llevarlo a vivir a la habitación conyugal, si no es con el consentimiento de la esposa.
+Cualquiera de los padres podrá reconocer al hijo natural nacidos ante del matrimonio de aquéllos; y el marido podrá reconocer al habido durante éste; pero no tendrá derecho de llevarlo a vivir a la habitación conyugal, si no es con el consentimiento de la esposa.
 
 ###### Artículo 397.
 
@@ -2473,13 +2479,17 @@ La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado 
 
 Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquél sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1998)</small>
+
 ###### Artículo 403.
 
-Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá sobre él la patria potestad; y en caso de que no lo hicieren, el juez de Primera Instancia de la Capital, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cual de los dos ejercerá la custodia, y en caso de que no lo hicieren, el Juez de Primera Instancia de la Capital, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 404.
 
-En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la patria potestad el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el juez de Primera Instancia de la Capital no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
+En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerán la patria potestad el que primero hubiere reconocido y hasta que sea reconocido por otro progenitor, entonces la ejercerán ambos. Respecto de la custodia se estará a lo preceptuado en el Artículo anterior.
 
 ###### Artículo 405.
 
@@ -2685,9 +2695,11 @@ Si viven separados. se observará en su caso lo dispuesto en los artículos 403 
 
 En los casos previstos en los artículos 403 y 404, cuando por cualquier circunstancia deja de ejercer la patria potestad alguno de los padres, entrará a ejercerla el otro.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1998)</small>
+
 ###### Artículo 440.
 
-Cuando los padres del hijo nacido fuera de matrimonio que vivían juntos se separaren, continuará ejerciendo la patria potestad, en caso de que no se pongan de acuerdo sobre ese punto, el progenitor que designe el juez, teniendo siempre en cuenta los intereses del hijo.
+Cuando los padres del hijo nacido fuera de matrimonio que vivían juntos se separen, continuarán ejerciendo la patria potestad y convendrán cual de los dos ejercerá la custodia sobre los hijos, en caso de haber algún desacuerdo resolverá el juez de acuerdo al Artículo 402 de este Código.
 
 ###### Artículo 441.
 
@@ -2859,9 +2871,11 @@ II.- Por ausencia declarada en forma;
 
 III.- Por sentencia condenatoria que imponga como pena esta suspensión.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1998)</small>
+
 ###### Artículo 470.
 
-La patria potestad no es renunciable por el padre. La madre solamente puede renunciarla cuando contrae segundas nupcias. Los abuelos pueden excusarse de ejercerla:
+La patria potestad no es renunciable. La madre solamente puede renunciarla cuando contrae segundas nupcias. Los abuelos pueden excusarse de ejercerla:
 
 I.- Cuando tengan sesenta años cumplidos;
 
@@ -15472,3 +15486,7 @@ P.O. 23 DE AGOSTO DE 1998.
 DECRETO No. 142.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE AGOSTO DE 1998.
+
+UNICO.- El presente Decreto en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
