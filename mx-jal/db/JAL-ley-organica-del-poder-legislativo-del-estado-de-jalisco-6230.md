@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1972-08-17"
+last_updated: "1979-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1979.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -89,7 +89,7 @@ V. A mayoría de votos de los presuntos concurrentes, se nombrarán dos comision
 
 VI. La Directiva de la Junta hará de inmediato entrega de los expedientes que sean de su competencia a los dos Comisiones nombradas, recabando recibo escrito de quien presida cada una de ellas y el Presidente dará por concluida la junta y fijará día y hora para que se verifique la próxima sesión de junta Preparatoria, citando verbalmente a los presuntos Diputados que estén presentes y por escrito, a los que no hayan asistido;
 
-VII. El Presidente será suplido en sus ausencias por el Vice-Presidente y también lo suplirá en los casos en que desee tomar parte en los debates respectivos, pues no podrá participar en ellos mientras esté presidiendo. La falta de alguno o de ambos Secretarios será suplida por cualquiera de los presuntos asistentes a la junta, mediante designación que al efecto haga la Presidencia.:
+VII.El Presidente será suplido en sus ausencias por el Vice-Presidente y también lo suplirá en los casos en que desee tomar parte en los debates respectivos, pues no podrá participar en ellos mientras esté presidiendo. La falta de alguno o de ambos Secretarios será suplida por cualquiera de los presuntos asistentes a la junta, mediante designación que al efecto haga la Presidencia.:
 
 ### CAPITULO II. De la Directiva
 
@@ -117,13 +117,15 @@ Los interpelados contestarán:
 
 "Sí protesto".
 
-Dirá entonces el Presidente: "Si así no lo hiciereis, el Estado y la Nación os lo demanden".
+Dirá entonces el Presidente: "Si así no lo hiciéreis, el Estado y la Nación os lo demanden".
 
 Los Diputados que no hubieren asistido a esta sesión, deberán rendir la Protesta de Ley posteriormente, en la forma ya descrita, en la primera sesión a que concurran.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
+
 ###### Artículo 10.
 
-Cumplido el requisito de la Protesta se tendrá por instalada la Cámara y al efecto, el Presidente de pie, así como los Diputados y público asistente, pronunciará las siguientes palabras: "Se declara legítima y solemnemente instalada la (su número) Legislatura del Estado Libre y Soberano de Jalisco. Acto continuo el Presidente citará a Sesión Solemne del Congreso a las diez horas del día primero de febrero siguiente..
+Cumplido el requisito de la protesta se tendrá por instalada la Cámara y al efecto, el Presidente de pie, así como los Diputados y público asistente, pronunciará las siguientes palabras: "Se declara legítima y solemnemente instalada la ( ) Legislatura del Estado Libre y Soberano de Jalisco". "Acto continuo el Presidente citará a Sesión Solemne del Congreso a las diez horas del día primer sábado de febrero siguiente".
 
 ## TITULO III. De los Diputados
 
@@ -221,7 +223,7 @@ XIII. Designar Comisiones de entre los Diputados, para llevar la representación
 
 XIV. Proponer los acuerdos de trámite que recaigan a las comunicaciones y notas diversas que se dirijan al Congreso; y
 
-XV. Las demás que le señale esta ley.
+XV.Las demás que le señale esta ley.
 
 ###### Artículo 25.
 
@@ -273,7 +275,7 @@ Las atribuciones consignadas en las fracciones que anteceden, con excepción de 
 
 ###### Artículo 26.
 
-Los Secretarios y Pro-Secretarios no estarán inhabilitados para ser electos Presidente o Vice-Presidente, durante el período de su ejercicio; pero si la elección para tales cargos, recayera en alguno de ellos de inmediato y con las mismas formalidades a que se refiere el Artículo 16, deberá elegirse al que deba desempeñar las funciones de Pro-Secretario, por todo el término que vaya a estar éste separado de dicho cargo, ya sea porque ocupe la Presidencia o la Vice-Presidencia, o porque la elección hubiere recaído en alguno de los Secretarios, y el Pro-Secretario que primeramente hubiere sido electo vaya a substituirlo en dicha Secretaría.
+Los Secretarios y Pro-Secretarios no estarán inhabilitados para ser electos Presidente o Vicve-Presidente, durante el período de su ejercicio; pero si la elección para tales cargos, recayera en alguno de ellos de inmediato y con las mismas formalidades a que se refiere el Artículo 16, deberá elegirse al que deba desempeñar las funciones de Pro-Secretario, por todo el término que vaya a estar éste separado de dicho cargo, ya sea porque ocupe la Presidencia o la Vice-Presidencia, o porque la elección hubiere recaído en alguno de los Secretarios, y el Pro-Secretario que primeramente hubiere sido electo vaya a substituirlo en dicha Secretaría.
 
 ### CAPITULO III. Del Ceremonial
 
@@ -381,7 +383,7 @@ V. Los que se refieren a la supresión o creación de empleos públicos;
 
 VI. Los que se refieren a los casos previstos en la Fracción VI del Artículo 23 de la Constitución Política del Estado; y
 
-VII. Los que se refieren a la formulación del gasto público.
+VII.Los que se refieren a la formulación del gasto público.
 
 ###### Artículo 35.
 
@@ -393,7 +395,21 @@ II. Los que se refieren a otorgamiento de dispensas de Ley por causas de utilida
 
 III. Los que se refieren a la autorización a los Ayuntamientos o al Ejecutivo del Estado, para la enajenación de inmuebles o constitución de derechos reales sobre los mismos; y
 
-IV. Los que se refieren a la autorización a los Ayuntamientos o al Ejecutivo para contraer adeudos que garanticen por gravámenes de sus fuentes de percepción de ingresos.
+IV.Los que se refieren a la autorización a los Ayuntamientos o al Ejecutivo para contraer adeudos que garanticen por gravámenes de sus fuentes de percepción de ingresos.
+
+¬Artículo 36.-¬ Corresponde a la Comisión de Justicia, el conocimiento de los asuntos relativos a:
+
+I. Proyectos que impliquen expedición, reformas o adiciones a los Ordenamientos Procesales Civiles o Penales;
+
+II. Proyectos referentes a modificaciones a leyes relativas al Poder Judicial o al Ministerio Público;
+
+III. Supresión o creación de Juzgados o modificaciones de su categoría;
+
+IV. Modificación de la comprensión territorial de los Organos Judiciales;
+
+V. Aprobación en su caso, de las designaciones de Magistrados del Supremo Tribunal de Justicia hechas por el Ejecutivo o designación de entre los que, comprendan las ternas propuestas por éste; y
+
+VI. Concesión de amnistía.
 
 ###### Artículo 36.
 
@@ -419,7 +435,7 @@ I. Con el examen y aprobación de la cuenta pública del Estado y de los Municip
 
 II. Con el control y vigilancia de la Contaduría Mayor de Hacienda, proponiendo las medidas para su eficaz funcionamiento; y
 
-III. Con el nombramiento y la remoción de los empleados de la Contaduría Mayor de Hacienda y la proposición de sanciones administrativas a que se hagan éstos acreedores.
+III.Con el nombramiento y la remoción de los empleados de la Contaduría Mayor de Hacienda y la proposición de sanciones administrativas a que se hagan éstos acreedores.
 
 ###### Artículo 38.
 
@@ -1061,7 +1077,7 @@ A fin de facilitar el despacho de los dictámenes que emita la Diputación Perma
 
 ###### Artículo 156.
 
-El Presidente y los Secretarios de la Diputación Permanente, tendrán las mismas facultades que el Presidente y los Secretarios del Congreso, en lo conducente.
+El Presidente y los Secretarios de la Diputación Permanente, tendrán las mismas facultadfes que el Presidente y los Secretarios del Congreso, en lo conducente.
 
 ###### Artículo 157.
 
@@ -1116,3 +1132,11 @@ Lic. Alberto Orozco Romero
 Secretario General de Gobierno
 
 Lic. Alberto Rosas Benítez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE ENERO DE 1979
+
+PRIMERO. Envíese el presente Decreto a los H. Ayuntamientos del Estado en los términos y para los efectos del artículo 66 de la Constitución Política del Estado
+
+SEGUNDO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco" incluyendo la Declaratoria a que se refiere el Artículo 66 de la Constitución Política del Estado.
