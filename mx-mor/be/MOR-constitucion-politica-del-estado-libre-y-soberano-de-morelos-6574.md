@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1976-12-15"
+last_updated: "1977-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ABRIL DE 1977.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -404,7 +404,9 @@ X.- Fijar las bases sobre las cuales el Ejecutivo puede celebrar empréstitos, e
 
 XI.- Crear nuevos Municipios dentro de los límites de los existentes, previos los siguientes requisitos:
 
-A).- Que en el territorio que pretende erigirse en Municipio, exista una población de más de 10,000 habitantes.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1977)</small>
+
+A).- Que en el Territorio que pretenda erigirse en Municipio existirá (sic) una población de más de 30,000 habitantes.
 
 B).- Que se pruebe ante el Congreso que dicho territorio integrado por las poblaciones que pretenden formar los Municipios tienen potencialidad económica y capacidad financiera para el mantenimiento del Gobierno propio y de los Servicios públicos que quedarían a su cargo.
 
@@ -650,7 +652,7 @@ B.- Cuando sea necesario para el cumplimiento de alguna ley general.
 
 C.- En los casos de falta absoluta del Gobernador, o cuando tenga que separase de sus funciones por más de dos meses.
 
-D.- Cuando alguno de los funcionarios a que se refiere el artículo 40, fracción XL, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la destitución del cargo.
+D.- Cuando alguno de los funcionarios a que se refiere el artículo 40, fracción XL, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la de destitución del cargo.
 
 E.- Cuando lo pida el Ejecutivo del Estado.
 
@@ -872,7 +874,7 @@ XXVI.- Adoptar todas las medidas necesarias para la buena marcha de la administr
 
 XXVII.- Remover a los miembros de los Ayuntamientos cuando observen mala conducta, abusen de sus facultades, incurran en responsabilidad o cometan algún delito, sometiendo a la aprobación del Congreso o de la Diputación Permanente, la medida adoptada, llamar a los suplentes al ejercicio de sus funciones municipales, y en caso de falta de éstos o que sean incluídos en la remoción, aprobar la designación que haga el Ejecutivo para integrar el Concejo Municipal, sin perjuicio de la consignación que proceda a las Autoridades competentes.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1965)</small>
 
 ###### Artículo 71.
 
@@ -1693,3 +1695,9 @@ Se derogan todas las disposiciones que se opongan a las prescripciones contenida
 ###### ARTICULO TERCERO.
 
 Remítase al Ejecutivo del Estado para los efectos a que se refiere el Artículo 70 Fracción XVII de la Constitución Política Local.
+
+P.O. 13 DE ABRIL DE 1977.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Remítase al Ejecutivo del Estado, para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política Local.
