@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1986-12-15"
+last_updated: "1986-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1986.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -2184,15 +2184,13 @@ IV.- Por cada seis días de trabajo deberá disfrutar el operario de un día de 
 
 V.- Las mujeres durante el embarazo no realizarán trabajos que exijan un esfuerzo considerable y signifiquen un peligro para su salud en relación con la gestación; gozarán forzosamente de un descanso de seis semanas anteriores a la fecha fijada aproximadamente para el parto y seis semanas posteriores al mismo, debiendo percibir su salario íntegro y conservar su empleo y los derechos que hubieren adquirido por la relación de trabajo. En el período de lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos.
 
-> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1962)</small>
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1986)</small>
 
-VI.- Los salarios mínimos que deberán disfrutar los trabajadores serán generales o profesionales. Los primeros regirán en una o en varias zonas económicas; los segundos se aplicarán en ramas determinadas de la industria o del comercio o en profesiones, oficios o trabajos especiales.
+VI.- Los salarios mínimos que deberán disfrutar los trabajadores serán generales o profesionales. Los primeros regirán en las áreas geográficas que se determinen; los segundos se aplicarán en ramas determinadas de la actividad económica o en profesiones, oficios o trabajos especiales.
 
-Los salarios mínimos generales deberán ser suficientes para satisfacer las necesidades normales de un jefe de familia, en el orden material, social y cultural y para proveer a la educación obligatoria de los hijos. Los salarios mínimos profesionales se fijarán considerando, además las condiciones de las distintas actividades industriales y comerciales.
+Los salarios mínimos generales deberán ser suficientes para satisfacer las necesidades normales de un jefe de familia, en el orden material, social y cultural, y para proveer a la educación obligatoria de los hijos. Los salarios mínimos profesionales se fijarán considerando, además, las condiciones de las distintas actividades económicas.
 
-Los trabajadores del campo disfrutarán de un salario mínimo adecuado a sus necesidades.
-
-Los salarios mínimos se fijarán por Comisiones Regionales, integradas con Representantes de los Trabajadores, de los Patronos y del Gobierno y serán sometidos para su aprobación a una Comisión Nacional que se integrará en la misma forma prevista para las Comisiones Regionales.
+Los salarios mínimos se fijarán por una comisión nacional integrada por representantes de los trabajadores, de los patrones y del gobierno, la que podrá auxiliarse de las comisiones especiales de carácter consultivo que considere indispensables para el mejor desempeño de sus funciones.
 
 VII.- Para trabajo igual debe corresponder salario igual, sin tener en cuenta sexo ni nacionalidad.
 
@@ -3555,3 +3553,9 @@ D.O.F. 15 DE DICIEMBRE DE 1986.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE DICIEMBRE DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el 1o. de enero de 1987.
