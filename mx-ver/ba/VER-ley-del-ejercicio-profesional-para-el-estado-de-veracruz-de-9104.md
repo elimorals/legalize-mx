@@ -4,7 +4,7 @@ identifier: "VER-ley-del-ejercicio-profesional-para-el-estado-de-veracruz-de-910
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-24"
-last_updated: "1974-08-31"
+last_updated: "1996-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE AGOSTO DE 1974.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 24 de diciembre de 1963.
 
@@ -109,9 +109,11 @@ Las demás Profesiones establecidas o que hayan sido comprendidas por Leyes Fede
 
 Igualmente se exigirá el título para ejercer las profesiones que se consideren dentro de los planes de estudio de las Escuelas y Facultades que la Universidad Veracruzana reconoce como carreras completas. Estas profesiones serán determinadas por las leyes y reglamentos correspondientes.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 4.
 
-El Ejecutivo del Estado, previo dictamen del Consejo Universitario, que lo emitirá por conducto del Departamento de Profesiones, expedirá los acuerdos necesarios para deslindar el campo de acción de cada profesión, y los límites para el ejercicio de éstas.
+El Ejecutivo del Estado expedirá los acuerdos necesarios para deslindar el campo de acción de cada profesión y los límites para el ejercicio de éstas.
 
 ###### ARTICULO 5.
 
@@ -135,9 +137,11 @@ Para obtener un título profesional es requisito indispensable cursar y ser apro
 
 #### SECCION I. TITULOS EXPEDIDOS EN EL ESTADO
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 9.
 
-Exclusivamente el Gobernador deberá expedir títulos profesionales en el Estado de Veracruz; pero para hacerlo necesita la autorización del Rector de la Universidad Veracruzana o del Director General de Educación en el Estado, en sus respectivos casos.
+Exclusivamente el Gobernador del Estado, previa certificación del Secretario de Educación y Cultura, podrá expedir títulos profesionales en el Estado de Veracruz o, en su caso, el Rector de la Universidad Veracruzana, previa certificación del Secretario Académico.
 
 ###### ARTICULO 10.
 
@@ -185,9 +189,11 @@ III.- Ser directores técnicos en la explotación de los recursos naturales del 
 
 ### CAPITULO IV. DEL DEPARTAMENTO DE PROFESIONES
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 16.
 
-Dependiente de la Universidad Veracruzana, se establecerá un organismo denominado DEPARTAMENTO DE PROFESIONES, que se encargará de la vigilancia del ejercicio profesional y será el órgano de la conexión entre el Estado y los Colegios de Profesionales.
+El Departamento de profesiones de la Secretaría de Educación y Cultura se encargará de la vigilancia del ejercicio profesional y será el órgano de conexión entre el Estado y los Colegios Profesionales.
 
 ###### ARTICULO 17.
 
@@ -425,19 +431,19 @@ Es requisito indispensable para obtener el título profesional, la prestación d
 
 El Gobierno del Estado, la Universidad Veracruzana y la Dirección General de Educación en el Estado acordarán una compensación para satisfacer decorosamente las necesidades de los Pasantes que estén prestando su servicio social.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 48.
 
-El Consejo Universitario, oyendo la opinión de la Dirección General de Educación en el Estado, expedirá el Reglamento de esta Ley, en lo relativo al servicio social, sobre la base de los programas aplicativos de los organismos oficiales y particulares a que se refiere el artículo 50.
+El Ejecutivo del Estado y la Universidad Veracruzana reglamentarán el servicio social en sus respectivos ámbitos de competencia.
 
 ###### ARTICULO 49.
 
-El Departamento de Profesiones, por conducto de una Dependencia que se llamará del SERVICI (sic) SOCIAL, organizará y planeará el trabajo de los Pasantes en forma de grupos especiales que recibirán el nombre de brigadas.
+(DEROGADO, G.O. 28 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 50.
 
-La composición técnica y numérica de las brigadas estará determinada por las necesidades y los planes o programas trazados para las localidades o zonas de adscripción; así como de los elementos que puedan disponerse.
-
-Los miembros de cada brigada siempre trabajarán coordinadamente en la investigación de la comunidad y en la ejecución del programa de trabajo.
+(DEROGADO, G.O. 28 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 51.
 
@@ -547,7 +553,7 @@ La única prueba capaz de destruir esta presunción será la que acredite que el
 
 Son nulos de pleno derecho los títulos profesionales que hubieren sido expedidos por autoridades en el ejercicio de facultades extraordinarias o como consecuencia de una Ley privativa.
 
-ARTICULO DECIMOPRIMERO.- La Universidad Veracruzana procederá a organizar el Departamento de Profesiones y la Dependencia del Servicio Social en el término de sesenta días.
+ARTICULO DECIMOPRIMERO.- (DEROGADO, G.O. 28 DE DICIEMBRE DE 1996)
 
 ARTICULO DECIMOSEGUNDO.- Los estudios preparatorios y profesionales que se hubieren hecho con anterioridad a esta Ley, con estricta sujeción a las Leyes de Instrucción Pública y de Preparación Profesional, serán válidos pero para que el interesado pueda obtener el título respectivo deberá satisfacer los requisitos que establece esta Ley.
 
@@ -580,3 +586,7 @@ G.O. 31 DE AGOSTO DE 1974.
 PRIMERO.- Esta Ley entrará en vigor tres días después de su publicación, en la "Gaceta Oficial", órgano del Gobierno del Estado.
 
 SEGUNDO.- Mientras surtan efectos los convenios a que se refiere la fracción V que se adiciona al artículo 19, quedará en suspenso la vigencia de las facultades y obligaciones que conceden al Departamento de Profesiones las fracciones I, IV y VII del artículo 17, el requisito a que se contrae la fracción III del artículo 19 y demás disposiciones de esta Ley que se le opongan.
+
+G.O. 28 DE DICIEMBRE DE 1996.
+
+UNICO. La presente ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
