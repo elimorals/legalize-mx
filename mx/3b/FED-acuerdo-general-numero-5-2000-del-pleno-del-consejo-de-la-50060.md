@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-5-2000-del-pleno-del-consejo-de-la-50060
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-02-16"
-last_updated: "2003-03-03"
+last_updated: "2003-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50060&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-02-08"
 
 ACUERDO GENERAL NUMERO 5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA ADSCRIPCION DE DIVERSAS UNIDADES ADMINISTRATIVAS A LA PRESIDENCIA DEL MISMO, Y ACTUALIZA LAS ATRIBUCIONES DEL SECRETARIADO EJECUTIVO, CON LAS DIRECCIONES GENERALES QUE LES CORRESPONDEN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 2003.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 16 de febrero de 2000.
 
@@ -487,7 +487,7 @@ II. Informática;
 
 III. Recursos Humanos;
 
-IV. Recursos Materiales y Servicios Generales, y
+IV. Recursos Materiales y Servicios Generales, y (sic)
 
 > <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 5/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE MARZO DE 2003)</small>
 
@@ -621,7 +621,9 @@ I. Proponer la política y los programas de actividades de planeación, coordina
 
 II. Dirigir y coordinar la aplicación y difusión de las normas y criterios vigentes, en materia de administración de recursos humanos, así como proponer aquéllos que se consideren necesarios;
 
-III. Efectuar, en coordinación con la Dirección General de Programación, Organización y Presupuesto de la Secretaría Ejecutiva de Finanzas, la estimación del gasto por concepto de servicios personales en el anteproyecto de presupuesto de egresos del Consejo, para prever las partidas correspondientes;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 21/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
+III. Efectuar, en coordinación con la Dirección General de Programación y Presupuesto de la Secretaría Ejecutiva de Finanzas, la estimación del gasto por concepto de servicios personales en el anteproyecto de presupuesto de egresos del consejo, para prever las partidas correspondientes;
 
 IV. Dirigir y coordinar la aplicación de las políticas y normas que regulen el reclutamiento, registro, selección, nombramiento o contratación, capacitación administrativa, desarrollo, prestaciones, servicios, remuneraciones y movimientos del personal del Consejo;
 
@@ -691,7 +693,9 @@ Atribuciones. La Dirección General de Recursos Materiales y Servicios Generales
 
 I. Elaborar, coordinar, integrar y proponer a la Secretaría Ejecutiva de Administración, el Programa de Ejecución de Adquisiciones, Obras, Mantenimiento, Arrendamientos y Prestación de Servicios, la política y los criterios técnicos para la administración de los recursos materiales y la prestación de servicios generales, así como realizar su evaluación;
 
-II. Proponer, en coordinación con la Dirección General de Programación, Organización y Presupuesto de la Secretaría Ejecutiva de Finanzas, las normas y lineamientos que habrán de observar los órganos jurisdiccionales y áreas administrativas para la determinación de sus requerimientos de bienes y servicios;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 21/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
+II. Proponer, en coordinación con la Dirección General de Programación y Presupuesto de la Secretaría Ejecutiva de Finanzas, las normas y lineamientos que habrán de observar los órganos jurisdiccionales y áreas administrativas para la determinación de sus requerimientos de bienes y servicios;
 
 III. Someter a consideración de la Secretaría Ejecutiva de Administración, las necesidades no programadas en materia de bienes y suministros, obras y mantenimiento de inmuebles, así como las actividades que para el efecto resulte necesario realizar;
 
@@ -699,7 +703,9 @@ IV. Coordinar la administración, registro y control de los bienes muebles del P
 
 V. Administrar los bienes inmuebles en propiedad y/o en uso del Poder Judicial de la Federación, con excepción de los de la Suprema Corte de Justicia y del Tribunal Electoral;
 
-VI. Determinar las previsiones presupuestales para el Programa de ejecución anual de adquisiciones, obras, mantenimiento, arrendamientos y prestación de servicios, formuladas con los requerimientos de los órganos jurisdiccionales y áreas administrativas del Consejo, en el ámbito de su competencia, e integrarlos en el anteproyecto de presupuesto de egresos, de conformidad con los acuerdos que emita el Pleno para tal efecto, y con los instructivos que emita la Secretaría Ejecutiva de Finanzas, a través de la Dirección General de Programación, Organización y Presupuesto;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 21/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
+VI. Determinar las previsiones presupuestales para el programa de ejecución anual de adquisiciones, obras, mantenimiento, arrendamientos y prestación de servicios, formuladas con los requerimientos de los órganos jurisdiccionales y áreas administrativas del consejo, en el ámbito de su competencia, e integrarlos en el anteproyecto de presupuesto de egresos, de conformidad con los acuerdos que emita el Pleno para tal efecto, y con los instructivos que emita la Secretaría Ejecutiva de Finanzas, a través de la Dirección General de Programación y Presupuesto;
 
 VII. (DEROGADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 5/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE MARZO DE 2003)
 
@@ -907,7 +913,9 @@ XIII. Coordinar la conformación de la información relativa a la cuenta públic
 
 XIV. Supervisar el resguardo de la documentación comprobatoria y justificatoria de las operaciones financieras registradas conforme al sistema de contabilidad establecido en el Consejo;
 
-XV. Supervisar la calendarización de pagos, elaborada por las Direcciones Generales de Programación, Organización y Presupuesto y de Tesorería, y aprobada por la Comisión de Administración, con la finalidad de cubrir los compromisos del Consejo en materia de servicios personales, adquisiciones, arrendamientos, prestación de servicios, así como de obra pública y servicios relacionados con la misma;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 21/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
+XV. Supervisar la calendarización de pagos, elaborada por las Direcciones Generales de Programación y Presupuesto y de Tesorería, y aprobada por la Comisión de Administración, con la finalidad de cubrir los compromisos del consejo en materia de servicios personales, adquisiciones, arrendamientos, prestación de servicios, así como de obra pública y servicios relacionados con la misma;
 
 XVI. Supervisar e instruir el manejo de la calendarización de ministración de fondos del Consejo, autorizados por la Secretaría de Hacienda y Crédito Público y proporcionada por la Suprema Corte de Justicia de la Nación;
 
@@ -943,19 +951,25 @@ XXX. Las demás que le atribuyan la Comisión de Administración y el Pleno del 
 
 Estructura. La Secretaría Ejecutiva de Finanzas contará, para el adecuado ejercicio de sus atribuciones, con las Direcciones Generales de:
 
-I. Programación, Organización y Presupuesto;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 21/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
+I. Programación y presupuesto;
 
 II. Tesorería, y
 
 III. Las demás que determine el Pleno.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 21/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
 ###### Artículo 27.
 
-Objetivo. La Dirección General de Programación, Organización y Presupuesto será la encargada de programar, presupuestar, controlar y evaluar el ejercicio del presupuesto de egresos del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, y de elaborar los estados financieros correspondientes, así como de realizar los estudios y proyectos requeridos para la modernización de las estructuras orgánicas, funciones, sistemas, procesos operativos, procedimientos administrativos internos y de servicios al público de los Organos administrativos del Consejo.
+Objetivo. La Dirección General de Programación y Presupuesto será la encargada de programar, presupuestar, controlar y evaluar el ejercicio del presupuesto de egresos del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, y de elaborar los estados financieros correspondientes, así como de realizar los estudios y proyectos requeridos para la modernización de las estructuras orgánicas, funciones, sistemas, procesos operativos, procedimientos administrativos internos y de servicios al público de los órganos administrativos del consejo.
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 21/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
 
 ###### Artículo 28.
 
-Atribuciones. La Dirección General de Programación, Organización y Presupuesto tendrá las siguientes atribuciones:
+Atribuciones. La Dirección General de Programación y Presupuesto tendrá las siguientes atribuciones:
 
 I. Coordinar las actividades de planeación, programación, presupuestación, control y evaluación del presupuesto de egresos del Consejo;
 
@@ -1053,9 +1067,41 @@ XLVII. Asesorar a las áreas administrativas que integran el Consejo, en los asp
 
 XLVIII. Formular y proponer su respectivo anteproyecto de presupuesto y su programa operativo anual, con apego a las políticas y lineamientos que emita el Consejo;
 
-XLIX. Elaborar y presentar su programa anual de trabajo, de actividades y los reportes de evaluación administrativa, con la periodicidad que le sean requeridos, y
+XLIX. Elaborar y presentar su programa anual de trabajo, de actividades y los reportes de evaluación administrativa, con la periodicidad que le sean requeridos, y (sic)
 
-L. Las demás que le atribuyan el Secretario Ejecutivo de Finanzas, la Comisión de Administración y el Pleno del Consejo.
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 21/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
+L. Efectuar en coordinación con la Dirección General de Recursos Humanos, la estimación del gasto por concepto de servicios personales en el anteproyecto de presupuesto de egresos del consejo, para prever las partidas correspondientes;
+
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 21/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
+LI. Consolidar la información recibida de las áreas administrativas correspondiente al programa operativo anual;
+
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 21/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
+LII. Establecer en forma conjunta con la Dirección General de Tesorería, el programa de pagos;
+
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 21/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
+LIII. Asignar las claves presupuestales de los órganos jurisdiccionales de nueva creación antes de su instalación;
+
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 21/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
+LIV. Apoyar al titular de la Secretaría Ejecutiva de Finanzas en las funciones inherentes a los eventos que celebra el consejo;
+
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 21/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
+LV. Coordinar con la Dirección General de Tesorería los ingresos recibidos por conceptos distintos al presupuesto para su presentación al titular de la Secretaría Ejecutiva de Finanzas;
+
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 21/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
+LVI. Solicitar a la Dirección General de Tesorería los pagos a terceros, derivados de las retenciones efectuadas a través de nómina, así como de las aportaciones que realiza el consejo;
+
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 21/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
+LVII. Elaborar y presentar las declaraciones fiscales correspondientes, así como los enteros a terceros institucionales, de conformidad con lo establecido en las disposiciones legales aplicables; y,
+
+LVIII. Las demás que le atribuyan el secretario ejecutivo de Finanzas, la Comisión de Administración y el Pleno del Consejo.
 
 ###### Artículo 29.
 
@@ -1081,7 +1127,9 @@ VII. Gestionar en forma conjunta con la Suprema Corte de Justicia de la Nación,
 
 VIII. Someter a la consideración de la Comisión de Administración, por conducto de la Secretaría Ejecutiva de Finanzas, convenios y contratos con instituciones bancarias, para la administración de fondos del Consejo;
 
-IX. Establecer en forma conjunta con la Dirección General de Programación, Organización y Presupuesto, el programa de pagos;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 21/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
+IX. Establecer en forma conjunta con la Dirección General de Programación y Presupuesto, el programa de pagos;
 
 X. Expedir contra-recibos a los proveedores, contratistas y prestadores de servicios, conforme al calendario de pagos;
 
@@ -1234,3 +1282,13 @@ CUARTO. Las Direcciones Generales que se crean contarán con los servidores púb
 QUINTO. Se abroga el Acuerdo General 4/2002, del Pleno del Consejo de la Judicatura Federal.
 
 SEXTO. Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 30 DE ABRIL DEL 2003.
+
+PRIMERO.-El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.-El Pleno del Consejo de la Judicatura Federal nombrará al titular de la Dirección General de Programación y Presupuesto, a partir de la aprobación de este acuerdo.
+
+TERCERO.-La Dirección General de Programación y Presupuesto desarrollará sus funciones con los servidores públicos adscritos a las anteriores Direcciones Generales de Programación, Organización y Presupuesto y a la de Contabilidad, para lo cual la Secretaría Ejecutiva de Finanzas deberá presentar a la brevedad, a la Comisión de Administración, un diseño de la plantilla de personal correspondiente.
+
+CUARTO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
