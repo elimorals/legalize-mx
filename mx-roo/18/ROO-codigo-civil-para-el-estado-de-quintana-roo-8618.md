@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2004-07-15"
+last_updated: "2004-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2004.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -12793,7 +12793,7 @@ Sólo por el consentimiento de todos los acreedores puede remitirse la obligaci�
 
 ###### Artículo 2515.
 
-El heredero del deudor de bien indiviso, apremiado por la totalidad de la obligación, puede pedir un término para hacer concurrir a sus coherederos, siempre que la deuda no sea de tal naturaleza que sólo pueda satisfacerse por el heredero demandado, quien entonces puede ser condenado, pero dejando a salvo sus derechos de indemnización contra sus coherederos.
+El heredero del deudor del bien indiviso, apremiado por la totalidad de la obligación, puede pedir un término para hacer concurrir a sus coherederos, siempre que la deuda no sea de tal naturaleza que sólo pueda satisfacerse por el heredero demandado, quien entonces puede ser condenado, pero dejando a salvo sus derechos de indemnización contra sus coherederos.
 
 ###### Artículo 2516.
 
@@ -13647,7 +13647,7 @@ El comodato, llamado también préstamo de uso, es el contrato por el cual el co
 
 ###### Artículo 2663.
 
-Cuando el préstamo tuviere por objeto bienes consumibles, sólo será comodato si ellos fuesen prestados como no fungibles, es decir, para ser restituidos idénticamente .
+Cuando el préstamo tuviere por objeto bienes consumibles, sólo será comodato si ellos fuesen prestados como no fungibles, es decir, para ser restituidos idénticamente.
 
 ###### Artículo 2664.
 
@@ -16177,6 +16177,8 @@ Cuando el constituyente de una hipoteca para garantizar deuda ajena, pagare ést
 
 ### CAPITULO SEGUNDO. De los principios registrales de la publicidad, de la inscripción, de la especialidad, de la buena fe y de la legalidad
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 3126.
 
 La hipoteca produce todos sus efectos jurídicos contra tercero mientras no sea cancelada su inscripción.
@@ -16365,9 +16367,13 @@ Del Registro Público de la Propiedad
 
 Para el registro de los acontecimientos jurídicos que conforme a las leyes deben registrarse, funcionará una dependencia del Poder Ejecutivo local que se denominará Registro Público de la Propiedad y del Comercio del Estado de Quintana Roo que tendrá oficinas en los lugares que el Ejecutivo del Estado acuerde.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 3158.
 
-El Registro Público de la Propiedad de Quintana Roo será, en cuanto a la forma y manera de llevarlo a cabo, por el sistema del folio real, y en cuanto a sus efectos será, en unos casos, además de publicitario, constitutivo, y en otros, meramente publicitario.
+El Registro Público de la Propiedad de Quintana Roo será en cuanto a la forma y manera de llevarlo a cabo, por el sistema de folio registral, y en cuanto a sus efectos será, en unos casos, además de publicitario, constitutivo, y en otros, meramente publicitario.
+
+El folio registral es el número único que identifica a cada bien, persona o actos referidos a éstos, al que en lo sucesivo se le denominará el o los Folios.
 
 ###### Artículo 3159.
 
@@ -16387,7 +16393,7 @@ En todos los demás casos en que la ley establezca la inscripción registral, lo
 
 ###### Artículo 3161.
 
-El Registro será público. Los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren en sus folios, así como de los documentos relacionados con las inscripciones, estén o no archivados. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en dichos folios al igual que certificaciones de no existir asientos de ninguna especie o de una especie determinada, sobre bienes señalados o a nombre de ciertas personas.
+El Registro será público, los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren en sus folios, así como de los documentos y datos electrónicos relacionados con los asientos registrales archivados. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en dichos folios al igual que certificaciones de no existir asientos de ninguna especie o de una especie determinada, sobre bienes señalados o a nombre de ciertas personas.
 
 Tratándose de testamentos ológrafos depositados en el Registro, se estará a lo dispuesto en el artículo 1495.
 
@@ -16411,13 +16417,19 @@ Los actos ejecutados y los negocios o contratos otorgados en otra entidad federa
 
 El reglamento precisará la forma y manera en que deberán llevarse los folios del Registro y practicarse los asientos y señalará los datos que deberán contener las notas marginales y de presentación, los asientos preventivos y definitivos, y las cancelaciones tanto de las anotaciones como de los asientos.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 3165.
 
-Los folios a que se refieren los artículos de este título son las fojas de los libros de Registro; y no podrán usarse para los asientos, hojas sueltas.
+El Registro Público de la Propiedad operará a través de un programa informático que contendrá una base de datos, la cual deberá contar con al menos un respaldo electrónico.
+
+Mediante el programa informático se realizará la captura, almacenamiento, custodia, seguridad, consulta, reproducción, verificación, administración y transmisión de la información registral, en los términos que fije el Reglamento.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 3166.
 
-Los libros del Registro serán autorizados en su primera y última fojas por el Secretario General de Gobierno y el Registrador y éste vigilará que se ponga el sello de la oficina, al pie de cada una de sus fojas de manera que abarque ambas.
+En los casos de suspensión temporal del servicio registral electrónico por causa de fuerza mayor, podrán recibirse los documentos y continuar el procedimiento de registro de manera manual en las formas precodificadas, debiéndose una vez reestablecido el servicio, capturar en el programa informático del sistema, la información generada durante la contingencia.
 
 ###### Artículo 3167.
 
@@ -16469,17 +16481,23 @@ El derecho real adquirido con anterioridad a la fecha de una anotación preventi
 
 Los asientos del Registro, en cuanto se refieran a derechos inscribibles o anotables, producen todos sus efectos mientras que no se declare su inexactitud por la autoridad judicial competente.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 3176.
 
-La prelación entre los diversos documentos ingresados al Registro se determinará por la prioridad en cuanto a la fecha y número ordinal que les corresponda al presentarlos al Registro para su inscripción, salvo lo dispuesto en el artículo siguiente.
+La prelación entre los diversos documentos ingresados al registro se determinará por la prioridad en cuanto a la fecha y número ordinal que le corresponda al presentarlos al Registro para su inscripción.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 3177.
 
-Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo, sea inscribible, el notario o autoridad ante quien vaya a hacerse el otorgamiento deberá dar al Registro un primer aviso preventivo al solicitar el certificado sobre la existencia de la inscripción en favor del titular registral o sobre la existencia o inexistencia de gravámenes en relación con la misma. Dicho aviso deberá mencionar la operación y finca de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El registrador, con el aviso preventivo y sin cobro de derechos por este concepto, asentará inmediatamente la nota de presentación en la parte respectiva del folio real correspondiente, nota que tendrá vigencia por un término de treinta días naturales a partir de la fecha de presentación del aviso.
+Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo, sea inscribible, el notario o autoridad ante quien vaya a hacer el otorgamiento deberá dar al Registro un primer aviso preventivo al solicitar el certificado sobre la existencia o inexistencia de gravámenes en relación con la misma. Dicho aviso deberá mencionar la operación y finca de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El registrador, con el aviso preventivo y sin cobro de derechos por este concepto, asentará de acuerdo al orden de prelación la nota de presentación en la parte respectiva del folio correspondiente, nota que tendrá vigencia por un término de treinta días naturales a partir de la fecha de presentación del aviso.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 3178.
 
-Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el artículo anterior, el notario o autoridad ante quien se otorgó dará al Registro, dentro de las cuarenta y ocho horas siguientes, un segundo aviso preventivo acerca de la operación de que se trate, conteniendo además de los datos mencionados en el párrafo anterior, la fecha de la escritura y la de su firma. El registrador, con el aviso citado y sin cobro de derecho alguno, asentará de inmediato la nota de presentación del segundo aviso preventivo, la cual tendrá, esta vez, una vigencia de noventa días naturales a partir de la fecha de presentación de dicho segundo aviso. Si éste se da dentro del término de treinta días a que se contrae el artículo anterior, sus efectos preventivos se retrotraerán a la fecha de presentación del primer aviso. En caso contrario, sólo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
+Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el artículo anterior, el notario o autoridad ante quien se otorgó dará al Registro, dentro de las cuarenta y ocho horas siguientes, un segundo aviso preventivo acerca de la operación de que se trate, conteniendo además de los datos mencionados en el párrafo anterior, la fecha de la escritura y la de su firma. El registrador, con el aviso citado y sin cobro de derecho alguno, asentará de acuerdo al orden de prelación la nota de presentación del segundo aviso preventivo, la cual tendrá, esta vez, una vigencia de noventa días naturales a partir de la fecha de presentación de dicho segundo aviso. Si éste se da dentro del término de treinta días a que se contrae el artículo anterior, sus efectos preventivos se retrotraerán a la fecha de presentación del primer aviso. En caso contrario, sólo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
 
 ###### Artículo 3179.
 
@@ -16547,9 +16565,11 @@ Se entenderá que se comete error material cuando, sin intención conocida, se e
 
 Se entenderá que se comete error de concepto cuando al expresar en la inscripción alguno de los contenidos en el título, se altere o varíe su sentido porque el registrador se hubiere formado un juicio equivocado del mismo por una errónea calificación del acontecimiento jurídico en él consignado o por cualquiera otra circunstancia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 3188.
 
-Cuando se trate de errores, sean materiales o sean de concepto, los asientos practicados en los folios del Registro sólo podrán rectificarse con el consentimiento de todos los interesados en el asiento.
+Cuando se trate de errores, sean materiales o sean de concepto, los asientos practicados en los folios podrán rectificarse por la propia oficina registral cuando ésta se percate de dichos errores, o a petición de parte, previo procedimiento administrativo seguido en los términos que fije el reglamento. La resolución que rectifique los asientos deberá ser notificada y consentida por todos los interesados en el asiento.
 
 A falta del consentimiento unánime de los interesados, la rectificación sólo podrá efectuarse por resolución judicial.
 
@@ -16836,3 +16856,11 @@ Se derogan todas las disposiciones que se opongan a la presente reforma.
 P.O. 15 DE JULIO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO.- Los efectos del presente decreto de reforma, se retrotraen al veintidós de septiembre del año dos mil cuatro, fecha de inicio del Sistema del Folio Registral.
