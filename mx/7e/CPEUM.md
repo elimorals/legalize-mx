@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2004-08-02"
+last_updated: "2004-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE SEPTIEMBRE DE 2004.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1530,9 +1530,13 @@ XXIX-J.- Para legislar en materia de deporte, estableciendo las bases generales 
 
 XXIX-K.- Para expedir leyes en materia de turismo, estableciendo las bases generales de coordinación de las facultades concurrentes entre la Federación, Estados, Municipios y el Distrito Federal, así como la participación de los sectores social y privado.
 
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2004)</small>
+
+XXIX-L.- Para expedir leyes que establezcan la concurrencia del gobierno federal, de los gobiernos de las entidades federativas y de los municipios, en el ámbito de sus respectivas competencias, en materia de pesca y acuacultura, así como la participación de los sectores social y privado, y
+
 > <small>(ADICIONADA, D.O.F. 5 DE ABRIL DE 2004)</small>
 
-XXIX-M (SIC).- Para expedir leyes en materia de seguridad nacional, estableciendo los requisitos y límites a las investigaciones correspondientes.
+XXIX-M.- Para expedir leyes en materia de seguridad nacional, estableciendo los requisitos y límites a las investigaciones correspondientes.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -2540,7 +2544,7 @@ Para poder proceder penalmente por delitos federales contra los Gobernadores de 
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
-Las declaraciones y resoluciones de la (sic) Cámaras de Diputados (sic) Senadores son inatacables.
+Las declaraciones y resoluciones de la (sic)Cámaras de Diputados (sic) Senadores son inatacables.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -5029,6 +5033,10 @@ D.O.F. 2 DE AGOSTO DE 2004.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Al entrar en vigor el presente decreto, deberán impulsarse las reformas y adiciones a la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y demás disposiciones legales aplicables en la materia.
+
+D.O.F. 27 DE SEPTIEMBRE DE 2004.
+
+UNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
