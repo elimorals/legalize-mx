@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1994-09-28"
+last_updated: "1995-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 1995.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -175,19 +175,31 @@ Una vez suspendida o perdida la calidad de ciudadano sinaloense, sólo se recobr
 
 Las elecciones populares serán directas, se resolverán a mayoría de sufragios y conforme al principio de representación proporcional, se verificarán el segundo domingo del mes de noviembre del año que corresponda y con sujeción a las disposiciones de la Ley Reglamentaria correspondiente.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1995)</small>
 
-Los Partidos Políticos son entidades de interés público. La Ley determinará las formas específicas y condiciones de su intervención en el proceso electoral, así como las prerrogativas que les correspondan.
+Los partidos políticos son entidades de interés público. La Ley determinará las formas específicas y condiciones de la intervención de los partidos nacionales y estatales en el proceso electoral, así como las prerrogativas que les correspondan y las reglas a que se sujetará el financiamiento de los mismos y sus campañas electorales.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
 
 Los Partidos Políticos Nacionales que hayan obtenido su registro definitivo podrán participar en las elecciones estatales y municipales.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1995)</small>
 
 ###### Art. 15.
 
-Corresponde al Gobierno del Estado la preparación, desarrollo y vigilancia de los procesos electorales. La Ley determinará los organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos; además establecerá los medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por esta Constitución y las leyes que de ella emanen; instituirá un Tribunal Estatal Electoral que tendrá la competencia que determina la Ley, sus resoluciones serán de pleno derecho, darán definitividad a las distintas etapas preparatorias del proceso electoral y tendrán efectos decisivos y serán inatacables respecto a la existencia o inexistencia de violaciones cometidas durante la jornada electoral y sólo podrán ser modificadas por el Colegio Electoral del Congreso del Estado o de los Ayuntamientos, mediante el voto de las dos terceras partes de sus miembros presentes, quienes serán la última instancia en la calificación de las elecciones.
+La organización de las elecciones locales es una función estatal que se realiza a través de un organismo público autónomo, dotado de personalidad jurídica y patrimonio propio, en cuya integración concurre el Poder Legislativo, con la participación de los partidos políticos y de los ciudadanos, según lo disponga la ley. En su ejercicio serán principios rectores la certeza, legalidad, independencia, imparcialidad y objetividad. Será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones y tendrá a su cargo la preparación, desarrollo, vigilancia y calificación de los procesos electorales, así como la información de los resultados.
+
+El Organismo público señalado ejercerá sus funciones en todo el territorio del Estado y estará conformado por un Consejo Estatal, así como por los Consejos Distritales, Consejos Municipales y Mesas Directivas de Casilla correspondientes. La ley determinará las funciones de cada uno de ellos y la debida corresponsabilidad de los partidos políticos y de los ciudadanos.
+
+El Consejo Estatal se integrará por un presidente, por consejeros ciudadanos, consejeros del Poder Legislativo y representantes de los partidos políticos. El presidente y los consejeros ciudadanos serán nombrados por el Congreso del Estado por el voto de las dos terceras partes de sus integrantes en los términos previstos por la Ley. Los representantes de los partidos políticos tendrán derecho sólo a voz.
+
+La ley establecerá un sistema de medios de impugnación de los que conocerán el organismo público autónomo a que se refiere el primer párrafo de este artículo y el Tribunal Estatal Electoral. Dicho sistema dará definitividad a las distintas etapas del proceso electoral y garantizará que los actos y resoluciones se sujeten invariablemente al principio de legalidad. En materia electoral la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnado.
+
+El organismo público autónomo de referencia, conforme a las disposiciones de la ley, declarará la validez de las elecciones de Diputados y Regidores por ambos principios y Presidentes Municipales, y otorgará las constancias de mayoría y asignación respectivas, las que podrán ser impugnadas, en los términos que señala la ley.
+
+Para cada proceso electoral se instalará el Tribunal Estatal Electoral que funcionará en pleno y sus sesiones de resolución serán públicas, en los términos que establezca la ley; será autónomo y máxima autoridad jurisdiccional en su materia y tendrá competencia para resolver en forma definitiva e inatacable las impugnaciones que se hagan, con excepción de las que se presenten en relación con la elección de Gobernador del Estado, en donde la última instancia para su calificación será el Colegio Electoral del Congreso del Estado.
+
+Contará con tres salas regionales que funcionarán en pleno y una Sala de Reconsideración en la forma que lo disponga la ley. Esta última será competente para resolver las impugnaciones que se interpongan en contra de las resoluciones del propio pleno del Tribunal, mediante el recurso respectivo en el que los partidos políticos hagan valer agravios debidamente fundados por los que se pueda modificar el resultado de la elección. Los fallos de esta sala serán definitivos e inatacables. La ley establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1989)</small>
 
@@ -303,13 +315,9 @@ III. Sea mayor de 21 años en la fecha de la elección;
 
 IV. No podrán ser electos diputados propietarios o suplentes: El Gobernador del Estado, los Secretarios y Sub-Secretarios y titulares de cualesquiera de las entidades de la Administración Pública Estatal o Paraestatal los Magistrados del Supremo Tribunal de Justicia y el Procurador General de Justicia; los Jueces de Primera Instancia, los Recaudadores de Rentas y los Presidentes Municipales, en los Distritos Electorales en donde ejerzan sus funciones; los diputados y senadores al Congreso de la Unión, que se encontraren en ejercicio; las personas que tengan o hayan tenido mando de fuerzas de la Federación, Estado o Municipios y los Ministros de Cualquier culto. Los ciudadanos antes referidos, con excepción de los Ministros de los cultos, podrán ser electos, siempre que se separen de sus cargos cuando menos 90 días antes de la elección.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
-
 ###### Art. 26.
 
-Cada Legislatura calificará definitiva e irrevocablemente las elecciones de sus propios miembros, a través de un Colegio Electoral que se integrará con los presuntos Diputados que hubieren obtenido sus respectivas constancias de mayoría o de asignación proporcional.
-
-La Ley Orgánica del Congreso del Estado señalará la manera de hacer dichas calificaciones.
+(DEROGADO, P.O. 27 DE MARZO DE 1995)
 
 ###### Art. 27.
 
@@ -487,9 +495,9 @@ X. Decretar la traslación provisional de los Poderes del Estado, fuera de la ci
 
 XI. Convocar a toda clase de elecciones para servidores públicos del Estado y Municipios, cuando fuere conducente.
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 1979)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 1995)</small>
 
-XII. Computar y calificar las elecciones de sus propios miembros y las del Gobernador del Estado, declarando electos a quienes resultaren con derecho a ello, en la forma y con el procedimiento que al respecto establezcan esta Constitución y las demás Leyes sobre la materia. Sus decisiones serán definitivas e inatacables.
+XII. Erigirse en Colegio Electoral para calificar la elección de Gobernador del Estado en la forma que determine la ley. Su resolución será definitiva e inatacable.
 
 XIII. Elegir al ciudadano que deba substituir al Gobernador del Estado, con el carácter de Substituto, o de Interino, en los términos que esta Constitución señala.
 
@@ -557,9 +565,7 @@ XXXII. Fijar las bases para las concesiones que deba otorgar el Ejecutivo, en lo
 
 XXXIII. Expedir las leyes que fueren necesarias para hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución a los Poderes del Estado.
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
-
-XXXIII Bis. Resolver en definitiva sobre la validez o nulidad de las elecciones de Ayuntamientos cuando haya dudas acerca de ellas, previo informe del Ejecutivo del Estado.
+XXXIII Bis. (DEROGADA, P.O. 27 DE MARZO DE 1995)
 
 XXXIV. Todas las demás facultades que las leyes le otorguen.
 
@@ -1345,11 +1351,9 @@ III.- Los de Choix, Angostura, Badiraguato, Cosalá, Elota, San Ignacio y Concor
 
 La Ley determinará forma y procedimiento para la asignación de Regidores de Representación Proporcional.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
-
 ###### Art. 113.
 
-Los Ayuntamientos, en unión de un representante por cada partido político con voz pero sin voto, constituidos en Colegio Electoral, harán la calificación de las elecciones municipales en su jurisdicción, formulando la declaratoria correspondiente, la que será revisable por el Congreso del Estado en el caso de la fracción XXXIII Bis del Artículo 43 de la presente Constitución.
+(DEROGADO, P.O. 27 DE MARZO DE 1995)
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
@@ -2600,6 +2604,12 @@ P.O. 28 DE SEPTIEMBRE DE 1994.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE MARZO DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO PRIMERO.
 
