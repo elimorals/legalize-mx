@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-instituciones-y-procedimientos-electorales-34
 country: "mx"
 rank: "codigo"
 publication_date: "1990-08-15"
-last_updated: "1990-08-15"
+last_updated: "1991-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1990-08-14"
 
 CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1991.
 
 Código publicado en el Diario Oficial de la Federación, el miércoles 15 de agosto de 1990.
 
@@ -149,13 +149,19 @@ ARTICULO 12
 
 ARTICULO 13
 
-1. El otorgamiento de constancias de asignación conforme al principio de representación proporcional, en los casos comprendidos en la fracción IV del artículo 54 de la Constitución, se realizará como sigue:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1991)</small>
+
+1. El otorgamiento de constancias de asignación conforme al principio de representación proporcional de conformidad con la fracción III y en los casos comprendidos en la fracción IV, ambas del artículo 54 de la Constitución, se realizará como sigue:
 
 a) Si ningún partido político obtiene por lo menos el 35% de la votación nacional emitida y ninguno alcanza 251 o más constancias de mayoría relativa, a cada partido político le serán otorgados de las listas regionales el número de diputados que requiera, para que el total de miembros con que cuente en la Cámara corresponda al porcentaje de votos que obtuvo;
 
 b) Al partido político que obtenga el mayor número de constancias de mayoría y cuya votación sea equivalente al 35% de la votación nacional emitida, le serán asignados diputados de las listas regionales en número suficiente para alcanzar, por ambos principios, 251 curules; adicionalmente, le serán asignados dos diputados más por cada punto porcentual obtenido por encima del 35% de la votación y hasta menos del 60%; y
 
-c) Al partido político cuya votación sea equivalente al 60% o más de la votación nacional emitida y menor del 70% y cuyas constancias de mayoría relativa no representen su porcentaje de votación, le serán asignados de las listas regionales el número de diputados necesario para que la suma de diputados obtenidos por ambos principios sea igual al porcentaje de votos que obtuvo.
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1991)</small>
+
+c) Al partido político que haya obtenido 251 o más constancias de mayoría relativa y cuya votación sea equivalente o más del 35% y hasta menos del 60% de la votación nacional emitida, le serán asignados dos diputados adicionales de las listas regionales por cada punto porcentual de votación que hubiera alcanzado por encima del 35%. En este supuesto, el número total de diputados por ambos principios no podrá ser superior a la cantidad que resulte de sumar a 251, el número de diputados adicionales de las listas regionales que se le asignen por los puntos porcentuales de votación obtenida por encima del 35%.
+
+d) Al partido político cuya votación sea equivalente al 60% o más de la votación nacional emitida y menor del 70% y cuyas constancias de mayoría relativa no representen su porcentaje de votación, le serán asignados de las listas regionales el número de diputados necesario para que la suma de diputados obtenidos por ambos principios sea igual al porcentaje de votos que obtuvo.
 
 ARTICULO 14
 
@@ -173,7 +179,9 @@ d) La votación obtenida por cada partido político en cada una de las circunscr
 
 ARTICULO 15
 
-1. Para la distribución de curules de representación proporcional al partido político que se encuentre en alguno de los supuestos previstos por los incisos b) o c) del artículo 13 de este Código, se procederá, para ese partido político, en los mismos términos del artículo anterior.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1991)</small>
+
+1. Para la distribución de curules de representación proporcional al partido político que se encuentre en alguno de los supuestos previstos por los incisos b), c) o d) del artículo 13 de este Código, se procederá, para ese partido político, en los mismos términos del artículo anterior.
 
 2. Una vez realizada la distribución a que se refiere el párrafo anterior, se procederá a asignar a los restantes partidos políticos los diputados de representación proporcional que les correspondan, aplicando la fórmula de primera proporcionalidad.
 
@@ -1917,7 +1925,9 @@ ARTICULO 126
 
 ARTICULO 127
 
-1. Cuando el representante propietario de un partido, y en su caso el suplente, no asistan sin causa justificada por tres veces consecutivas a las sesiones del Consejo del Instituto ante el cual se encuentren acreditados, el partido político dejará de formar parte del mismo durante el proceso electoral de que se trate.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1991)</small>
+
+1. Cuando el representante propietario de un partido, y en su caso el suplente, no asistan sin causa justificada por tres veces consecutivas a las sesiones del Consejo del Instituto ante el cual se encuentren acreditados, el partido político dejará de formar parte del mismo durante el proceso electoral de que se trate. A la primera falta se requerirá al representante para que concurra a la sesión y se dará aviso al partido político a fin de que compela a asistir a su representante.
 
 2. Los Consejos Distritales informarán por escrito a los Consejos Locales de cada ausencia, para que a su vez informen al Consejo General del Instituto con el propósito de que entere a los representantes de los partidos políticos.
 
@@ -4479,6 +4489,10 @@ a) Si ningún partido político tiene por lo menos el 30% de la votación en el 
 
 b) Al partido político que obtenga el mayor número de constancias de mayoría y cuya votación sea equivalente al 30% o más de la votación en el Distrito Federal, le serán atribuidos representantes de su lista, en número suficiente para alcanzar, por ambos principios, 34 representantes. Adicionalmente le será atribuido un representante más por cada cuatro puntos porcentuales que obtenga sobre el 30% de la votación.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1991)</small>
+
+c) Al partido que obtenga 34 o más constancias de mayoría relativa y cuya votación sea equivalente al 30% y hasta el 66% de la votación en el Distrito Federal, le será asignado de su lista un representante adicional por cada cuatro puntos porcentuales de votación que hubiera alcanzado por encima del 30%. En este supuesto, el número total de representantes por ambos principios no podrá ser superior a la cantidad que resulte de sumar a 34, el número de asambleístas adicionales de su lista que se le asignen por cada cuatro puntos porcentuales obtenidos por encima del 30%.
+
 ARTICULO 367
 
 1. Se entiende por votación emitida para los efectos de la elección de representantes a la Asamblea por el principio de representación proporcional, el total de votos depositados en las urnas para la lista de circunscripción plurinominal.
@@ -4634,3 +4648,9 @@ PRIMERO.- La presente adición entrará en vigor al día siguiente de su publica
 México, D. F. a 14 de agosto de 1990.- Dip. Jesús Armando Hernández Montaño, Presidente.- Sen. Humberto A. Lugo Gil, Presidente.- Dip. Hilda Anderson Nevárez de Rojas, Secretaria.- Sen. Hugo Domenzaín Guzmán, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de agosto de mil novecientos noventa.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 3 DE ENERO DE 1991.
+
+UNICO. Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
