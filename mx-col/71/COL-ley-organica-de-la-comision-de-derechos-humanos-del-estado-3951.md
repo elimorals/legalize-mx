@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-comision-de-derechos-humanos-del-estado-3951
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-05-30"
-last_updated: "1992-05-30"
+last_updated: "1994-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 30 de mayo de 1992.
 
@@ -81,7 +81,9 @@ El Consejo estará integrado por diez personas que gocen de reconocido prestigio
 
 El Presidente de la Comisión lo será también del Consejo, el cargo de los miembros del Consejo será honorario.
 
-Cada año deberá ser sustituído el miembro del Consejo de mayor antigüedad, a excepción de su Presidente.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1994)</small>
+
+Cada tres años deberán ser sustituídos los cinco miembros del Consejo de mayor antigüedad, a excepción de su Presidente.
 
 ###### ARTICULO 7.
 
@@ -253,7 +255,9 @@ III.- Dictar las medidas específicas que juzgue convenientes para el mejor dese
 
 IV.- Distribuir y delegar funciones al Visitador y demás servidores de la Comisión;
 
-V.- Rendir un informe anual al Congreso del Estado y al titular del Poder Ejecutivo del Estado, sobre las actividades de la Comisión. Dicho informe deberá presentarse en la primera semana del mes de enero;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1994)</small>
+
+V.- Rendir un informe anual al Congreso del Estado y al titular del Poder Ejecutivo, sobre las actividades de la Comisión. Dicho informe deberá presentarse el día acordado por el Consejo dentro de la primera quincena del mes de enero de cada año;
 
 VI.- Celebrar convenios de colaboración con autoridades y organismos de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales, para el mejor cumplimiento de sus fines;
 
@@ -534,3 +538,15 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los veintinueve días del mes de mayo de 1992.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE DELGADO MAGAÑA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE ENERO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+###### ARTICULO SEGUNDO.
+
+En cumplimiento a lo dispuesto por el tercer párrafo del artículo 6 que se reforma, los miembros del Consejo realizarán una insaculación en la primera sesión que realicen, una vez que entre en vigor este Decreto, para conocer el orden en que serán sustituidos la mitad de sus consejeros. La primera sustitución se efectuará en el mes de septiembre de 1995.
