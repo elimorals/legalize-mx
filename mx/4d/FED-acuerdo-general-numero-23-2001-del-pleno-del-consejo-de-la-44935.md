@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2004-07-23"
+last_updated: "2004-08-13"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE AGOSTO DE 2004.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -209,9 +209,9 @@ VII.- SEPTIMO CIRCUITO:
 
 2.- Un tribunal unitario con residencia en Boca del Río.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 42/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2004)</small>
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 48/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2004)</small>
 
-3.- Diez juzgados de distrito en el Estado de Veracruz: dos con sede en Xalapa, cuatro con residencia en Boca del Río, dos con sede en Tuxpan, uno con residencia en Poza Rica y uno con sede en Córdoba.
+3.- Once juzgados de distrito en el Estado de Veracruz: dos con sede en Xalapa, cuatro con residencia en Boca del Río, dos con sede en Tuxpan, dos con residencia en Poza Rica y uno con sede en Córdoba.
 
 VIII.- OCTAVO CIRCUITO:
 
@@ -1245,17 +1245,17 @@ PRIMERO.- Este acuerdo entrará en vigor el uno de marzo de dos mil cuatro.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
+D.O.F. 12 DE MARZO DE 2004.
+
+PRIMERO.- Este acuerdo entrará en vigor el catorce de marzo de dos mil cuatro.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
 D.O.F. 17 DE MAYO DE 2004.
 
 ACUERDO 29/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO V, NUMERO 1.
 
 PRIMERO.- Este acuerdo entrará en vigor el uno de junio de dos mil cuatro.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 12 DE MARZO DE 2004.
-
-PRIMERO.- Este acuerdo entrará en vigor el catorce de marzo de dos mil cuatro.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
@@ -1326,3 +1326,11 @@ D.O.F. 23 DE JULIO DE 2004.
 PRIMERO.- Este acuerdo entrará en vigor el dos de agosto de dos mil cuatro.
 
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE AGOSTO DE 2004.
+
+PRIMERO.- Se abroga el Acuerdo General 43/2004 del Pleno del Consejo de la Judicatura Federal.
+
+SEGUNDO.- Este acuerdo entrará en vigor el dieciséis de agosto de dos mil cuatro.
+
+TERCERO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
