@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2004-07-08"
+last_updated: "2004-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -1333,6 +1333,10 @@ l) Realizar acciones orientadas a la conservación y mejoramiento ambiental de l
 
 m) Fomentar y promover en los padres de familia y tutores, la vigilancia y orientación que deben realizar en los programas televisivos que ven los niños y adolescentes.
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2004)</small>
+
+n) Promover la atención de educandos con problemas en lo individual, familiar o en su entorno social, con respecto a asuntos relacionados con las adicciones y sus consecuencias.
+
 ###### ARTICULO 134.
 
 Los Ayuntamientos y las autoridades educativas locales colaborarán para vincular a cada escuela pública de educación básica, activa y constantemente, con la comunidad.
@@ -1370,6 +1374,10 @@ m) Realizar todo tipo de actividades para apoyar y fortalecer la educación en e
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2000)</small>
 
 n) Coadyuvar a nivel municipal en actividades de protección civil y emergencia escolar.
+
+(ADICIONADO, P.O. 24 DE JULIO DE 2004) (F. DE E., P.O. 2 DE NOVIEMBRE DE 2004)
+
+o) Contribuir en la formulación de propuestas encaminadas a la prevención, combate y erradicación del fenómeno de las adicciones y sus consecuencias.
 
 Será responsabilidad del Presidente Municipal que en los Consejos se alcance una efectiva participación social que contribuya a elevar la calidad y cobertura de la educación.
 
@@ -1675,6 +1683,10 @@ P.O. 5 DE JUNIO DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-P.O. 8 DE JULIO DE 2004.
+P.O. 8 DE JULIO DE 2004
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 24 DE JULIO DE 2004.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
