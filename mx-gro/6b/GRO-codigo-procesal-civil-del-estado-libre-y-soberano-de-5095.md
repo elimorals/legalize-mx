@@ -4,7 +4,7 @@ identifier: "GRO-codigo-procesal-civil-del-estado-libre-y-soberano-de-5095"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-26"
-last_updated: "1999-11-09"
+last_updated: "2000-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 364
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2000.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 26 de marzo de 1993.
 
@@ -341,7 +341,9 @@ II. Si el juzgador reconoce su competencia mandará librar oficio requiriendo al
 
 III. Luego que el juzgador requerido reciba el oficio inhibitorio, oirá a la parte que ante él litigue en el término de tres días, y en el de otros tres, resolverá si se inhibe de conocer o sostiene la competencia, pudiendo abrir el punto a prueba por el término de tres días;
 
-IV. Si acepta la inhibitoria, remitirá el expediente al juzgado requirente. Si no lo acepta remitirá el expediente al Tribunal Superior de Justicia, para que decida el conflicto comunicándoselo así al requirente, para que haga igual cosa;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+IV. Si acepta la inhibitoria, remitirá el expediente al juzgado requirente. Contra esta resolución no se admitirá recurso alguno. Si no la acepta remitirá el expediente al Tribunal Superior de Justicia, para que decida el conflicto comunicándoselo así al requirente, para que haga igual cosa;
 
 V. Recibido el expediente en el Tribunal, se citará a las partes y al Ministerio Público a la audiencia, dentro de los tres días siguientes al de la citación en la que recibirán pruebas y alegatos y se dictará resolución;
 
@@ -455,13 +457,17 @@ V. Cuando en un negocio intervengan varias partes, cualquiera de ellas podrá ha
 
 Recusación en tribunales colegiados. En los tribunales colegiados, la recusación relativa a quienes los integren, sólo importa la de los funcionarios expresamente recusados. Si fueren varios, deberá expresarse la causa de impedimento que afecte a cada uno.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 54.
 
-Momento en que deberá interponerse la recusación. Las recusaciones pueden interponerse en el juicio desde la contestación de la demanda hasta antes de dar principio la audiencia de pruebas, alegatos y sentencia.
+Momento en que deberá interponerse la recusación. La recusación puede interponerse en el juicio desde la contestación de la demanda hasta antes de la citación para sentencia.
 
 No se admitirá ni dará trámite a ninguna recusación una vez empezada la audiencia o diligencia, sino hasta que concluya ésta.
 
-Entre tanto se califica o decide la recusación, se suspenderán las actuaciones del tribunal o del juzgador, excepto en lo que se refiere a providencias cautelares o diligencias de ejecución.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+Mientras se decide la recusación no se suspenderá la jurisdicción del funcionario judicial, continuará con la tramitación del procedimiento. Si la recusación se declara procedente, será nulo lo actuado en el procedimiento a partir de la fecha en que ésta se interpuso.
 
 Declarada procedente la recusación, el funcionario a que se refiera quedará definitivamente separado del negocio.
 
@@ -469,7 +475,11 @@ Declarada procedente la recusación, el funcionario a que se refiera quedará de
 
 Reglas para substanciar y decidir la recusación. Para substanciar y decidir las recusaciones, se observarán las siguientes reglas:
 
-I. Toda recusación se interpondrá ante el juzgador o tribunal que conozca del negocio, expresándose con claridad y precisión la causa en que se funda;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+I. Toda recusación se interpondrá ante el funcionario judicial que conozca del negocio, expresándose con claridad y precisión la causa en que se funda;
+
+Interpuesta la recusación de inmediato se formará el testimonio con las actuaciones respectivas y se remitirá a la autoridad que deba conocer de ella, para su resolución.
 
 II. Los juzgadores y tribunales desecharán de plano toda recusación:
 
@@ -479,6 +489,10 @@ b) Cuando no se funde en alguna de las causas a que se refiere el artículo 47; 
 
 c) Cuando se interponga en negocios en que no pueda tener lugar.
 
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+Para dar curso a la recusación deberá el recusante depositar el máximo del importe de la multa correspondiente, que se hará efectiva en el caso de que se declare improcedente o no probada la recusación.
+
 III. De la recusación de un magistrado conocerá la sala de que forme parte y para tal efecto se integrará de acuerdo con la ley; de la de un juzgador, conocerá la sala respectiva. Las recusaciones de los secretarios se substanciarán ante los juzgadores o salas con quienes actúen;
 
 IV. La recusación debe decidirse sin audiencia de la parte contraria, y se tramitarán en forma de incidente;
@@ -487,11 +501,17 @@ V. En el incidente de recusación son admisibles todos los medios de prueba esta
 
 VI. Los magistrados y juzgadores que conozcan de una recusación son irrecusables para este solo efecto;
 
-VII. Si se declarara improcedente o no aprobada la causa de recusación, se impondrá al recusante una multa hasta de cien salarios mínimos generales, si el recusado fuere un juzgador de primera instancia, y hasta de doscientos salarios mínimos generales, si fuere un magistrado;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
 
-VIII. Si en la sentencia se declara que procede la recusación, volverán los expedientes al juzgado de su origen, con testimonio de dicha sentencia, para que éste a su vez, lo remita al juzgador que corresponda. En el tribunal quedará el magistrado recusado separado del conocimiento del negocio, y completará la sala en la forma que determine la Ley Orgánica del Poder Judicial del Estado; y
+VII. Si se declarara no probada la causa de la recusación, se impondrá al recusante una multa hasta de cien salarios mínimos generales, si el recusado fuere un juzgador de primera instancia, y hasta de doscientos salarios mínimos generales, si fuere un Magistrado;
 
-IX. Si se declarara no ser bastante la causa, se devolverán los expedientes, con testimonio de la resolución, al juzgado de su origen, para que continúe el procedimiento. Si el funcionario recusado fuere un magistrado, continuará conociendo del negocio la misma sala.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+VIII. Si en la sentencia se declara que procede la recusación, se enviará testimonio de dicha sentencia al juzgado de origen, para que éste a su vez, remita el expediente original al juzgado que corresponda. En el Tribunal quedará el Magistrado recusado separado del conocimiento del negocio, y se integrará la Sala en la forma que determine la Ley Orgánica del Poder Judicial del Estado; y
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+IX. Si se declara no probada la causa, se remitirá testimonio de la recusación al juzgado de origen, para que continúe el procedimiento. Si el funcionario recusado fuere un Magistrado, continuará conociendo del negocio la misma Sala.
 
 ### CAPITULO IX. RESPONSABILIDAD DE LOS FUNCIONARIOS JUDICIALES
 
@@ -919,6 +939,10 @@ Derechos y cargos procesales. No podrá privarse a las partes de los derechos qu
 
 Cuando la ley o un mandato judicial establezcan cargas procesales o conminaciones o compulsiones para realizar algún acto por alguna de las partes dentro del plazo que se fija, la parte respectiva reportará el perjuicio procesal que sobrevenga si agotado el plazo no realiza el acto que le corresponde.
 
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+Las notificaciones personales surten efectos el mismo día en que se hubieren hecho y las demás al día siguiente de haberse practicado.
+
 ### CAPITULO V. GASTOS, COSTAS Y DAÑOS PROCESALES
 
 ###### Artículo 102.
@@ -1029,9 +1053,13 @@ Correcciones disciplinarias. Se entenderá por corrección disciplinaria:
 
 I. El apercibimiento o amonestación;
 
-II. La multa, que será en los juzgados de paz, el equivalente, como máximo, de sesenta días del salario mínimo general vigente en el Estado, al momento de la comisión de la falta; en los de primera instancia, de ciento veinte días de salario mínimo, como máximo, y en el Tribunal Superior de Justicia de ciento ochenta días de salario mínimo, como máximo, que se duplicarán en caso de reincidencia; y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
 
-III. El arresto hasta por tres días en casos graves. Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, ésta podrá pedir al tribunal que se le oiga en justicia y se considerará para la audiencia, dentro del tercer día, en la que se resolverá sin más recurso que el de queja.
+II. Multa hasta de veinte días de salario mínimo general, si se trata de un Juzgado de Paz; hasta de cincuenta días si es de Primera Instancia; y hasta de cien días si es impuesta por el Tribunal Superior de Justicia. Pudiendo duplicarse en caso de reincidencia; y
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+III. Arresto hasta por treinta y seis horas, en casos graves. Dentro de los tres días de haberse hecho saber una corrección disciplinaria, la persona a quien se le impuso podrá pedir al juzgador que lo oiga en justicia y se considerará para audiencia dentro del tercer día, en la que se resolverá sin más recurso que el de queja.
 
 ###### Artículo 120.
 
@@ -1095,7 +1123,9 @@ Los juzgadores pueden, en cualquier tiempo, aunque no lo pidan las partes, manda
 
 En los casos en que las nulidades de que trata este artículo se hagan valer por parte interesada, se tramitarán en la vía incidental mediante vista a la contraparte por el término de tres días. El incidente se tramitará sin suspensión del procedimiento.
 
-La resolución que decida el incidente de nulidad de actuaciones y la que la decrete de oficio serán recurribles. Sin embargo si alguna de las partes considera que le causa agravio, podrá hacerlo valer al interponer el recurso de apelación en contra de la sentencia definitiva.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+La resolución que decida el incidente de nulidad de actuaciones y la que la decrete de oficio, no serán recurribles. Sin embargo, si alguna de las partes considera que le causa agravio podrá hacerlo valer al interponer el recurso de apelación en contra de la sentencia definitiva.
 
 ### CAPITULO II. TIEMPO Y LUGAR
 
@@ -1112,6 +1142,10 @@ Acto judicial no realizado. Siempre que deba tener lugar un acto judicial en dí
 ###### Artículo 129.
 
 Cómputo de plazos judiciales. Los plazos judiciales empezarán a correr el día siguiente del en que surta efectos el emplazamiento, citación o notificación, y se contará, en ellos, el día del vencimiento.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+Las notificaciones personales surten efectos el mismo día en que se hubieran hecho y las demás al día siguiente de haberse practicado.
 
 ###### Artículo 130.
 
@@ -1149,15 +1183,11 @@ Término de los plazos por acuerdo de las partes. Los plazos judiciales, salvo d
 
 Cómputo de los meses y días. Para fijar la duración de los plazos, los meses se regularán según el calendario del año, y los días se entenderán de veinticuatro horas naturales.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 138.
 
-Plazos subsidiarios. Cuando la ley no señale plazo para la práctica de algún acto judicial o para el ejercicio de algún derecho, se tendrán por señalados los siguientes:
-
-I. Ocho días para apelar de la sentencia definitiva;
-
-II. Cinco días para apelar de autos; y
-
-III. Tres días para cualquier otro caso.
+Plazos subsidiarios.- Cuando la ley no señale plazo para la práctica de algún acto judicial o para el ejercicio de algún derecho procesal, se tendrán por señalados tres días.
 
 ###### Artículo 139.
 
@@ -1209,9 +1239,11 @@ Tiempo en que deben hacerse las notificaciones. Las notificaciones se efectuará
 
 Para los anteriores efectos, se llevará un registro diario de los expedientes que se les entreguen, debiendo recibirlos bajo su firma y directamente del secretario de acuerdos, a quien se le devolverán dentro del plazo señalado.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 146.
 
-Forma de las notificaciones. Las notificaciones se harán en forma personal, por cédula, por edictos, por correo, por telégrafo y por cualesquier otro medio idóneo diverso a los anteriores y que estime conveniente el juzgado.
+Forma de las notificaciones. Las notificaciones serán en forma personal, por cédula, por lista, por edictos, por correo, por telégrafo, y por cualquier medio idóneo diverso a los anteriores que estime conveniente el Juzgador.
 
 ###### Artículo 147.
 
@@ -1327,17 +1359,25 @@ Notificaciones posteriores. La segunda y ulteriores notificaciones se harán per
 
 Firma de las notificaciones. Deben firmar las notificaciones las personas que las hacen y aquella a quien se hace. Si ésta no supiere o no quisiere firmar, lo hará el secretario o escribano haciendo constar estas circunstancias. A toda persona se le dará copia simple de la resolución que se le notifique, si la pidiere.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 163.
 
-Notificaciones por cédula. Si las partes o sus procuradores no ocurren al juzgado o tribunal a notificarse en los días y horas a que se refiere el artículo 160, las notificaciones se darán por hechas y surtirán sus efectos a partir de las dieciocho horas del día siguiente al que se fijó la cédula en la tabla de avisos del juzgado.
+Notificaciones por lista. Si las partes o sus procuradores no ocurren al Juzgado o Tribunal a notificarse en los días y horas a que se refiere el artículo 161, las notificaciones se darán por hechas y surtirán sus efectos al día siguiente al que se fijó la lista o cédula, en los estrados del Juzgado o Tribunal.
+
+La lista de notificación deberá contener los mismos datos que los de la cédula de notificación, con excepción al del contenido o puntos resolutivos de la resolución que se notifica.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 164.
 
-Cédula de notificación. La cédula de notificación deberá contener: el sello del juzgado, nombres y apellidos de los interesados, designación del juicio en que se haya pronunciado la resolución que se notifique, lugar y fecha; e irá autorizada por el funcionario o empleado que esté facultado para hacer las notificaciones o por el secretario en defecto de aquel.
+Cédula de notificación. La notificación personal que no se deba practicar en el domicilio de los litigantes, se hará por cédula. La cédula de notificación se fijará en los estrados del Juzgado o Tribunal y deberá contener: el sello del Juzgado, nombre y apellidos de los interesados, designación del juicio en que se haya pronunciado la resolución que se notifique, el contenido de ésta, lugar y fecha; e irá autorizada por el funcionario o empleado que esté facultado para hacer la notificación.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 165.
 
-Fijación de la cédula en el tablero. La cédula a que se refieren los artículos anteriores, deberá permanecer fijada en el tablero cuando menos setenta y dos horas hábiles.
+Fijación de la lista y de la cédula de notificación en los estrados. La lista y la cédula de notificación a que se refieren los artículos anteriores, deberán permanecer fijas en los estrados del Juzgado o Tribunal, cuando menos setenta y dos horas.
 
 ###### Artículo 166.
 
@@ -1533,7 +1573,9 @@ Contra la resolución que conceda la diligencia preparatoria no habrá ningún r
 
 Tramitación de diligencias preparatorias. Para la tramitación de las diligencias preparatorias serán aplicables las reglas siguientes:
 
-I. La acción que puede ejercitarse conforme a las fracciones II, III y IV del artículo 178, procede contra cualquier otra persona que tenga en su poder los bienes que en ella se mencionan;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+I. La acción que puede ejercitarse conforme a las fracciones I, II, III y IV, del artículo 179, procede contra cualquier otra persona que tenga en su poder los bienes que en ella se mencionan;
 
 II. Las diligencias se practicarán con citación de la contraria;
 
@@ -2003,11 +2045,15 @@ IV. Si se tratare de posesión, se prevendrá al demandado que durante la tramit
 
 Admisión de la demanda y prevención. El juzgador examinará el escrito de demanda y los documentos anexos, para resolver de oficio:
 
-I. Si la demanda reúne los requisitos a que se refiere el artículo 215;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+I. Si la demanda reúne los requisitos a que se refiere el artículo 232;
 
 II. Si está debidamente justificada la personalidad o representación del actor;
 
-III. Si de los documentos presentados aparece que existe legitimación activa y pasiva de las partes;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+III. Si se adjuntaron los documentos a que se refiere el artículo 233 de este Código;
 
 IV. Si conforme a las reglas de competencia puede avocarse al conocimiento del litigio; y
 
@@ -2079,9 +2125,11 @@ Allanamiento. Si el demandado se allanare a la demanda, el juzgador citará a la
 
 No procede citar para sentencia en caso de allanamiento de la demanda, si la cuestión planteada interesa al orden público o cuando manifiestamente la sentencia por dictarse surte efectos frente a terceros que no han litigado, y en los demás casos en que la ley lo disponga.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 246.
 
-Contestación y reconvención. Si al contestarse la demanda se opusiere compensación o reconvención, se observarán los mismos requisitos que para la demanda, y se correrá traslado al actor para que las conteste, en el término de seis días, observándose lo dispuesto en los artículos anteriores. La reconvención y la compensación, lo mismo que las excepciones sustanciales opuestas con este motivo, se discutirán al mismo tiempo que el negocio principal, y se decidirán en la sentencia definitiva.
+Contestación y reconvención. Si al contestar la demanda se opusiere compensación o reconvención, se observarán los mismos requisitos que para la demanda, y se correrá traslado al actor para que las conteste, en el término de nueve días, observándose lo dispuesto en los artículos anteriores. La reconvención y la compensación, lo mismo que las excepciones sustanciales opuestas con este motivo, se discutirán al mismo tiempo que el negocio principal, y se decidirá en la sentencia definitiva.
 
 ###### Artículo 247.
 
@@ -2223,6 +2271,14 @@ IV. Mandará dar vista al actor con las excepciones dilatorias que oponga el dem
 
 V. Proveerá lo que pida el demandado respecto de documentos que no tenga a su disposición y que deban allegarse al juicio como prueba.
 
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+El auto por el que se tenga por contestada la demanda o por no contestada es apelable en el efecto devolutivo.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+El que admita la compensación o reconvención es apelable en el efecto devolutivo, y el que las deseche es recurrible en queja. El que tenga por contestada o no contestada la compensación o reconvención es recurrible en la forma prevista para la contestación de la demanda.
+
 ###### Artículo 260.
 
 Supuestos en los que no procede que el juicio se abra a prueba. No procederá que el juicio se abra a prueba:
@@ -2253,7 +2309,9 @@ Audiencia previa y de conciliación. Una vez contestada la demanda, y en su caso
 
 En el día y hora fijados para la celebración de la audiencia. El juzgador hará constar la presencia de las partes. Si una de las partes no concurre sin causa justificada, se le sancionará con multa hasta por un monto de veinte días de salario mínimo general como máximo; si dejaran de concurrir ambas partes sin justificación, el juzgador las sancionará de igual manera. En ambos casos el juzgador procederá a examinar las excepciones previas, los presupuestos procesales y los defectos procesales.
 
-Si asistieran las dos partes, el juzgador examinará las cuestiones relativas a la legitimación procesal y luego se procederá a procurar la conciliación que estará a cargo del conciliador adscrito al juzgado. El conciliador preparará y propondrá a las partes, alternativas de solución al litigio. Si los interesados llegan a un convenio, el juzgador lo aprobará de plano si procede legalmente y dicho pacto tendrá fuerza de cosa juzgada.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+Si asistieren las dos partes, el juzgador examinará las cuestiones relativas a la legitimación procesal y luego se procederá a procurar la conciliación que estará a cargo del conciliador adscrito al Juzgado. El conciliador preparará y propondrá a las partes alternativas de solución al litigio. Si los interesados llegan a un convenio, el juzgador lo aprobará de plano si procede legalmente y dicho pacto tendrá fuerza de cosa juzgada. Cuando por cualquier motivo en el Juzgado no haya conciliador, las funciones de éste serán asumidas por el juzgador.
 
 En caso de desacuerdo entre los litigantes, la audiencia proseguirá y el juzgador, que dispondrá de amplias facultades de dirección procesal, examinará, en su caso, las excepciones de conexidad, litispendencia y cosa juzgada, con el fin de depurar el procedimiento.
 
@@ -2377,6 +2435,10 @@ Admisión de las pruebas. Al día siguiente en que termine el período de ofreci
 
 Audiencia de pruebas. Al admitir las pruebas ofrecidas, el juzgador ordenará su recepción en una audiencia para la que señalará día y hora, y a la que citará a las partes. La audiencia de pruebas deberá llevarse a cabo dentro de los treinta días siguientes a la admisión.
 
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+Cuando, a juicio del juzgador, las partes abusen del derecho de articular posiciones, preguntar o de repreguntar, por reiteración de los puntos debatidos en el desahogo de las pruebas: confesional, declaración de parte, testimonial, y pericial, el juzgador, podrá, prudentemente, limitar ese derecho de las partes, haciendo constar en la audiencia los motivos o causas de esa determinación.
+
 La audiencia se celebrará con las pruebas que estén preparadas, dejándose a salvo el derecho de que se designe nuevo día y hora para recibir las pendientes, y para el efecto se señalará la fecha para su continuación, la que tendrá verificativo dentro de los quince días siguientes. En este caso no hay que seguir el orden establecido para la recepción de las pruebas.
 
 ###### Artículo 277.
@@ -2449,11 +2511,15 @@ El auto que califique de legales las posiciones formuladas, así como el que las
 
 Preparación y práctica de la confesión. Para desahogar la prueba de confesión judicial, se observarán las siguientes prevenciones:
 
-I. La citación para absolver posiciones se hará a más tardar tres días antes del señalado para la diligencia y deberá ser en forma personal;
+> <small>(ADICIONADA [N. DE E., REFORMADA], P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+I. La citación para absolver posiciones se hará a más tardar tres días antes del señalado para la audiencia y deberá ser en forma personal; excepto si el absolvente comparece el día y hora señalados para la celebración de la audiencia, se le tendrá por legalmente notificado y deberá absolver posiciones.
 
 II. La citación contendrá el apercibimiento al que deba absolver las posiciones de que si dejare de comparecer sin justa causa, será tenido por confeso;
 
-III. En caso de que el citado para absolver posiciones comparezca, el juzgador abrirá el pliego, y en su caso las calificará en la forma prevista en el precepto anterior. El absolvente podrá firmar el pliego de posiciones o estampar en él su huella digital. Si el articulante omite presentar el pliego con anticipación a la fecha de la diligencia y no concurre a élla, se le tendrá por desistido de la prueba; pero si concurre podrá articular posiciones en el acto;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+III. Para el desahogo de la prueba el Juez abrirá el pliego de posiciones, y en su caso las calificará en la forma prevista en el precepto anterior. El absolvente deberá firmar o estampar su huella digital, según sea el caso, en el pliego de posiciones, para lo cual será requerido. Si el articulante omite presentar el pliego con anticipación a la fecha de la audiencia y no concurre a ella, se le tendrá por desistido de la prueba. Pero si concurre, podrá articular posiciones en el acto, siempre y cuando esté presente el absolvente;
 
 IV. La absolución de posiciones se realizará sin asistencia del abogado patrono o procurador de la parte llamada a absolverlas. Si el absolvente no hablara el castellano, podrá ser asistido de un intérprete que nombrará el juzgador;
 
@@ -2611,9 +2677,13 @@ Reconocimiento de documentos. Puede exigirse el reconocimiento expreso de docume
 
 Los documentos privados que no provengan de las partes, deberán ser reconocidos por su autor, quien podrá ser examinado en la forma establecida para la prueba testimonial.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 303.
 
-Plazo para la objeción de documentos. Una vez admitida la prueba documental, se mandará hacer del conocimiento de la contraparte, con entrega de copias de los documentos de que consten. Los documentos públicos o privados que no se objeten en un plazo de tres días, se tendrán por admitidos y surtirán sus efectos como si hubieran sido reconocidos expresamente. Las partes sólo podrán objetar los documentos dentro de los tres días siguientes a la apertura del término de prueba, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad podrán ser objetados en igual término contando desde la notificación del auto que ordene su recepción.
+Plazo para la objeción de documentos. Las partes sólo podrán objetar los documentos desde el escrito de contestación de la demanda hasta tres días después de la apertura del término de prueba, tratándose de los presentados hasta entonces. Las documentales exhibidas con posterioridad, podrán ser objetadas en igual término, mismo que empezará a contar desde la notificación del auto que ordene su recepción.
+
+La falta de objeción de los documentos presentados, sean públicos o privados, en los plazos establecidos, hará que se entiendan admitidos y surtirán sus efectos como si hubieren sido expresamente reconocidos.
 
 ###### Artículo 304.
 
@@ -2650,6 +2720,10 @@ El juzgador aunque no lo pidan las partes, puede hacerse asistir por uno o más 
 ###### Artículo 306.
 
 Ofrecimiento. La parte que ofrezca la prueba pericial hará la designación del perito que le corresponda; precisando con toda claridad los puntos concretos que deben resolver los peritos, y acompañará copia con la que se correrá traslado a la otra parte.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+La substitución de perito sólo podrá hacerse dentro del período de ofrecimiento de pruebas. Pero, en aquellos casos en que, extinguido ese período, quede justificada plenamente la causa de la substitución, ésta podrá hacerse, por una sola vez, hasta tres días antes de la audiencia.
 
 ###### Artículo 307.
 
@@ -2745,11 +2819,15 @@ No están obligados a declarar como testigos y podrán pedir que se les exima de
 
 Los menores de catorce años sólo podrán ser oídos cuando su interrogatorio se haga necesario por circunstancias especiales.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 321.
 
-Carga procesal de presentar a los testigos. Las partes tendrán la carga procesal de presentar a sus propios testigos. Cuando realmente estuvieren imposibilitados para hacerlo, lo manifestarán así bajo protesta de decir verdad al juzgador y pedirán que los cite.
+Carga procesal de presentar a los testigos. Las partes tendrán la carga procesal de presentar a sus propios testigos.
 
-El juzgador ordenará la citación con apercibimiento de arresto hasta por quince días o multa hasta de cien veces el salario mínimo general, que aplicará al testigo que no comparezca sin causa justificada, o que se niegue a declarar.
+Cuando las partes estuvieren imposibilitadas para presentar a sus testigos, lo manifestarán bajo protesta de decir verdad al juzgador; éste ordenará la citación con apercibimiento de arresto hasta por treinta y seis horas o multa hasta por cincuenta veces el salario mínimo general, que se aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
+
+Agotados los medios legales para obtener la declaración del testigo, si ésta no se emitiera, la prueba se declarará desierta.
 
 ###### Artículo 322.
 
@@ -2758,6 +2836,10 @@ Citación de los testigos. El juzgador mandará citar a los testigos sólo cuand
 ###### Artículo 323.
 
 Señalamiento inexacto del domicilio y propósito de retardar el procedimiento. En caso de que el señalamiento del domicilio de algún testigo resulte inexacto, o que a juicio del juez, apoyado en las constancias de autos, se infiera que se solicitó la citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa equivalente hasta de ciento veinte días de salario mínimo general vigente, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido el oferente de la prueba. Asimismo deberá declararse desierta la prueba testimonial. La substitución de testigos sólo podrá hacerse dentro del período de ofrecimiento de pruebas.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+La substitución de testigos sólo podrá hacerse dentro del período de ofrecimiento de pruebas. Pero, en aquellos casos en que, extinguido ese período, quede probada plenamente la causa de la substitución, ésta podrá hacerse, por una sola vez, hasta tres días antes de la audiencia.
 
 ###### Artículo 324.
 
@@ -2889,9 +2971,11 @@ Prueba testimonial. Los testigos indicados en el auto de admisión de pruebas se
 
 Alegatos. Concluída la recepción de las pruebas, el Tribunal dispondrá que las partes aleguen por sí o por sus abogados o apoderados, primero el actor y luego el demandado; el Ministerio Público alegará también en los casos en que intervenga, procurando la mayor brevedad y concisión. No se podrá hacer uso de la palabra por más de un cuarto de hora en primera instancia y de media hora en segunda.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 344.
 
-Forma de los alegatos. Queda prohibida la práctica de dictar los alegatos a la hora de la diligencia. Los alegatos serán verbales y pueden las partes presentar sus conclusiones por escrito, dentro de los cinco días siguientes a la audiencia.
+Forma de los alegatos. Queda prohibida la práctica de dictar los alegatos en la audiencia. Los alegatos serán verbales y las partes podrán presentarlos por escrito, dentro de los cinco días siguientes, debiéndolo expresar así en la audiencia.
 
 ###### Artículo 345.
 
@@ -2913,7 +2997,9 @@ II. Los juzgadores que resuelvan deben ser los mismos que asistieron a la recepc
 
 III. Mantener la mayor igualdad entre las partes, de modo que no se haga concesión a una de ellas sin que se haga lo mismo con la otra; y
 
-IV. Evitar disgresiones, reprimiendo con energía las promociones de las partes que tiendan a suspender o retardar el procedimiento, y si fuere procedente, aplicarán lo ordenado por el artículo 130 de este Código.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+IV. Evitar disgregaciones, reprimiendo con energía las promociones de las partes que tienden a suspender o a retardar el procedimiento, y si fuere procedente aplicará lo ordenado en el artículo 118 de este Código.
 
 ###### Artículo 348.
 
@@ -2937,9 +3023,11 @@ Valor de las partidas parroquiales. Las partidas registradas por los párrocos, 
 
 ### CAPITULO XV. CITACION PARA SENTENCIA
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 352.
 
-Citación. Transcurrido el tiempo para alegar, de oficio o a petición de parte, se citará a las partes para oír sentencia, la cual se dictará dentro de los quince días siguientes.
+Citación para sentencia. Al final de la audiencia de pruebas y alegatos, se asentará razón en autos si hay recursos pendientes de resolución. Si hubiere el de apelación, el juzgador de inmediato lo hará saber a la Sala correspondiente, para que ésta provea lo conducente. La omisión de esta disposición se sancionará por el Superior hasta con cincuenta veces el salario mínimo general y suspensión en el desempeño del cargo hasta por quince días, en caso de reincidencia. Si las partes alegaren verbalmente el Juez citará para sentencia, y si expresaren que lo harán por escrito, transcurrido el término para alegar, de oficio se les citará para oír sentencia, la cual se dictará dentro de los quince días siguientes.
 
 ###### Artículo 353.
 
@@ -3187,11 +3275,15 @@ No serán apelables las sentencias y demás resoluciones que se dicten en juicio
 
 Plazo de interposición. El plazo para interponer el recurso de apelación, será:
 
-I. De ocho días si se trata de sentencia;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+I. De ocho días si se trata de sentencia definitiva;
 
 II. De treinta días, a partir de la fecha en que se haga la publicación, en los casos a que se refiere el artículo 257 fracción V, de este Código, o en cualquier otro caso en que la sentencia se notifique en igual forma; y
 
-III. De cinco días para apelar autos.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+III. De cinco días para apelar autos e interlocutorias.
 
 ###### Artículo 388.
 
@@ -3203,13 +3295,15 @@ La expresión de agravios deberá contener una relación clara y precisa de los 
 
 En el escrito de expresión de agravios, deberá además indicarse si el apelante desea ofrecer pruebas, expresando los puntos sobre los que deberá versar cada una de las probanzas, los que nunca serán extraños a la cuestión debatida.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 389.
 
-Admisión del recurso. Interpuesta en tiempo una apelación, el juzgador la admitirá sin substanciación alguna, si fuere procedente, expresando el efecto en que la admita. En caso que en el escrito de apelación no se formulen agravios o no se acompañen al mismo las copias a que se refiere el artículo anterior, el juzgador tendrá por no interpuesto el recurso. En el mismo auto el juzgador ordenará se notifique a las partes, haciéndoles saber que pueden presentarse ante el Tribunal Superior de Justicia del Estado para substanciar el recurso dentro del término de cinco días, si se trata de juicio radicado en el mismo lugar de residencia del Tribunal Superior. En caso contrario, al término anterior, el juzgador agregará los días necesarios, tomando en cuenta la distancia y las facilidades de comunicación.
+Admisión del recurso. Interpuesto en tiempo el recurso de apelación, el juzgador lo tendrá por presentado sin substanciación alguna, si fuere procedente, expresando el efecto de la apelación. En caso de que en el escrito de apelación no se formulen agravios no se tendrá por presentada la apelación. Pero si el apelante omite exhibir el número de copias de los agravios a que se refiere el artículo anterior, el juzgador lo prevendrá para que las exhiba dentro del término de tres días, con el apercibimiento que de no hacerlo se le tendrá por no interpuesto el recurso. En el mismo auto, el juzgador ordenará se notifique a las partes, haciéndole saber que pueden presentarse ante el Tribunal Superior de Justicia del Estado, para substanciar el recurso dentro del término de cinco días, si se trata de juicio radicado en el mismo lugar de residencia de dicho Tribunal. En caso de lugar distinto, al término anterior se agregarán los días que el juzgador estime necesarios, tomando en cuenta la distancia y las facilidades de comunicación.
 
 Entretanto no transcurra el término a que se refiere el párrafo anterior, no podrá iniciarse la substanciación del recurso.
 
-El auto que tenga por no interpuesta la apelación es recurrible en queja.
+El auto que tenga por no interpuesta la apelación es recurrible en queja; el que la admita es irrecurrible.
 
 ###### Artículo 390.
 
@@ -3249,9 +3343,9 @@ III. No obstante lo dispuesto en la fracción anterior, para ejecutar las senten
 
 La calificación de la caución será hecha por el juez, quien se sujetará a las disposiciones del Código Civil y de este Código. La liquidación de los daños y perjuicios se hará mediante incidente que se tramitará de acuerdo con las reglas de la ejecución forzosa.
 
-IV. Si la apelación admitida en el efecto devolutivo fuere de auto, sólo se remitirá al superior testimonio de lo conducente, por lo que al interponer el recurso el apelante deberá señalar con precisión y no genéricamente, las constancias que deban integrarlo, el cual podrá ser adicionado con las constancias que el juzgador estime necesarias.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
 
-Si la contraparte estima que el testimonio de apelación se integró en forma deficiente, podrá complementarlo con las constancias que estime convenientes, las cuales podrá exhibir hasta antes que venza el término que se le concede para contestar agravios. Si el recurrente omite hacer el señalamiento en la forma prescrita, se tendrá por no interpuesto el recurso, y por firme la resolución apelada. El juzgador deberá vigilar que el testimonio de apelación sea enviado al superior, dentro del término señalado. En caso de incumplimiento de esta disposición, se aplicará al juzgador una multa hasta de cincuenta veces el salario mínimo y suspensión en el desempeño de su cargo hasta por quince días en caso de reincidencia; y
+IV. Si la apelación admitida en el efecto devolutivo fuere de auto, sólo se remitirá al superior testimonio de lo conducente, por lo que al interponer el recurso el apelante deberá señalar con precisión y no genéricamente, las constancias que deban integrarlo, el cual podrá ser adicionado con las constancias que el juzgador estime necesarias. Los gastos que originen las constancias señaladas para integrar el testimonio, serán a cargo del apelante, a quien se le apercibirá que de no gestionar la expedición del testimonio dentro del término de cinco días, a partir de la notificación del auto que admita el recurso, éste se tendrá por no interpuesto. Lo mismo se observará con el colitigante, en cuanto al costo de las constancias, que señale para integrar el testimonio de apelación;
 
 V. Si se tratare de sentencia, se dejará en el juzgado testimonio de lo necesario para ejecutarla, remitiéndose los autos originales al superior para la substanciación del recurso.
 
@@ -3277,7 +3371,9 @@ II. En los casos a que se refiere este artículo, se suspenderá la ejecución d
 
 III. No obstante la admisión de la apelación en el efecto suspensivo, el que obtuvo sentencia favorable de condena puede pedir que se efectúe embargo provisional para el aseguramiento de lo sentenciado y de las medidas que puedan garantizar la ejecución. Estas medidas provisionales sólo se llevarán a cabo si se otorga caución para responder de los perjuicios que llegaren a ocasionarse a la contraparte, pero sin que se requiera prueba para acreditar su necesidad. Si la resolución contiene una parte que se refiera a alimentos, en esta parte se ejecutará sin necesidad de caución. El remate o adjudicación no podrán llevarse adelante, pero si podrán tener verificativo las diligencias previas como avalúo, incidentes de liquidación de sentencia y otras similares. En caso de que a petición de alguna parte se lleven a cabo estas medidas de aseguramiento, y posteriormente se revocare la sentencia, la parte que las pidió indemnizará a la otra de los daños y perjuicios que le hubiere ocasionado con el embargo o medidas provisionales, haciéndose en su caso efectiva la caución;
 
-IV. Admitida la apelación en el efecto suspensivo y dentro de los cinco días siguientes, y previo emplazamiento a las partes para que acudan a continuar el recurso, se remitirán los expedientes originales al Tribunal Superior, para la substanciación. El juzgador deberá vigilar que el expediente y el escrito de apelación sean enviados al superior dentro del término señalado, en caso de incumplimiento se hará acreedor a las sanciones señaladas en el artículo 388, fracción IV de este Código. A petición de parte interesada podrá dejarse copia de la sentencia definitiva para llevar a cabo las medidas provisionales de aseguramiento de que habla la fracción anterior e igualmente podrá dejarse copia de otras constancias que tengan relación con lo concerniente al depósito, a las cuentas y gastos de administración, o se dejarán los incidentes relativos, si se han llevado por cuerda separada; y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+IV. Admitida la apelación en el efecto suspensivo y dentro de los cinco días siguientes, y previo emplazamiento a las partes para que acudan a continuar el recurso, se remitirá el expediente original a la Sala correspondiente del Tribunal Superior de Justicia, para la substanciación. El juzgador deberá vigilar que el expediente y el escrito de apelación sean enviados al Superior dentro del término señalado, en caso de incumplimiento se hará acreedor a las sanciones señaladas en el último párrafo de la fracción IV del artículo que antecede. A petición de parte interesada podrá dejarse copia de la sentencia definitiva para llevar a cabo las medidas provisionales de aseguramiento de que habla la fracción anterior e igualmente podrá dejarse copia de otras constancias que tengan relación con lo concerniente al depósito, a las cuentas y gastos de administración, o se dejarán los incidentes relativos, si se han llevado por cuerda separada, y
 
 V. Si se dictare resolución firme revocatoria de la sentencia apelada, quedarán sin efecto las medidas provisionales de aseguramiento en lo afectado por la revocación.
 
@@ -3329,9 +3425,11 @@ V. Se resolverá en la sentencia lo que proceda respecto a condenación en costa
 
 VI. En todo lo demás serán aplicables a las sentencias de segunda instancia las reglas establecidas para las de primera.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 397.
 
-Apelaciones contra autos. Las apelaciones contra autos en cualquier clase de juicios se substanciarán en la forma prevista en este capítulo, con excepción de que la substanciación se reducirá al escrito de agravios, la contestación y la citación para sentencia, sin que proceda en ningún caso la apertura de término probatorio, salvo el caso previsto en el artículo 178, fracción II, inciso i), de este Código.
+Apelación contra autos. Las apelaciones contra autos en cualquier clase de juicios se substanciarán en la forma prevista en este Capítulo. La substanciación se reducirá al escrito de agravios, la contestación y la citación para sentencia. Y no habrá término probatorio, salvo el caso previsto en el artículo 175 fracción II, inciso i) de este Código.
 
 ###### Artículo 398.
 
@@ -3373,11 +3471,17 @@ I. Deberá interponerse por escrito ante el propio juzgador que conozca del asun
 
 II. En el escrito en que se interponga la queja se expondrán los hechos que la motiven y los fundamentos legales que se estimen aplicables, debiéndose acompañar una copia del mismo para el expediente, y una más para la contraparte con la cual se le correrá traslado haciéndole saber que podrá acudir ante el tribunal superior a defender sus derechos;
 
-III. Al recibir el escrito en que se interponga el recurso, el juzgador sin calificar la procedencia de éste, ordenará formar un cuaderno con dicho escrito y las constancias que estime conducentes, cuaderno que enviará al tribunal superior con su informe justificado dentro del plazo de cuarenta y ocho horas contadas a partir de su recepción. En caso de incumplimiento a esta disposición se aplicará una multa hasta de cincuenta veces el salario mínimo general vigente y suspensión en el desempeño de su cargo hasta por quince días en caso de reincidencia;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
 
-IV. El tribunal superior calificará la procedencia del recurso de queja, admitiéndolo o desechándolo de plano;
+III. Al recibir el escrito en que se interponga el recurso, el juzgador sin calificar la procedencia de éste, ordenará formar un cuaderno con dicho escrito y las constancias que estime conducentes, cuaderno que enviará a la Sala correspondiente, con su informe justificado, dentro del término de tres días, contados a partir de su recepción. En caso de incumplimiento a esta disposición se aplicará una multa hasta de cincuenta veces el salario mínimo general vigente y suspensión en el desempeño del cargo hasta por quince días, en caso de reincidencia.
 
-V. Admitido el recurso, se turnará a la Sala que corresponda, la que dictará resolución dentro del término de cinco días; y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+IV. La Presidencia de la Sala calificará la procedencia o improcedencia del recurso de queja, admitiéndolo o desechándolo de plano;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+V. La Sala dictará resolución dentro del término de ocho días, a partir del siguiente al de su turno;
 
 VI. La resolución de la queja tendrá por efecto, confirmar, corregir o reponer los actos que la motiven.
 
@@ -3385,9 +3489,13 @@ VI. La resolución de la queja tendrá por efecto, confirmar, corregir o reponer
 
 Tramitación de la queja contra notificadores y secretarios. Las quejas en contra de secretarios y notificadores se harán valer ante el juzgador que conozca del negocio. Interpuesto el recurso, dentro de las veinticuatro horas siguientes el juzgador oirá verbalmente al secretario o notificador en contra de quien se presentó la queja y dentro del tercer día resolverá de plano lo que proceda. De estimarse fundada la queja, él ordenará:
 
-a) En el caso de la fracción I, del artículo 399, corregir o reponer los actos que la motiven, imponiendo al responsable una multa hasta de cincuenta veces el salario mínimo general o bien, suspensión en el desempeño de su cargo hasta por quince días;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
 
-b) En el caso de las fracciones II y III del artículo 399, podrá imponerse al infractor, según la gravedad del caso, multa hasta de cien veces el salario mínimo general, suspensión en el desempeño de su cargo por treinta días o la destitución.
+I.- En el caso de la fracción I, del artículo 400, corregir o reponer los actos que la motiven, imponiendo al responsable una multa hasta de cincuenta veces el salario mínimo general o bien, la suspensión en el desempeño del cargo hasta por quince días;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+II.- En el caso de las fracciones II y III del artículo 400, podrá imponer al infractor, según la gravedad del caso, multa hasta de cien veces el salario mínimo general, suspensión en el desempeño del cargo por treinta días o la destitución.
 
 ###### Artículo 404.
 
@@ -3417,9 +3525,13 @@ Las partes no podrán servirse de otros medios de prueba que los indicados en lo
 
 Para la recepción de las pruebas serán aplicables, en lo conducente, las disposiciones del título tercero de este libro.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 409.
 
-Resolución del incidente. Concluido el período del traslado o el probatorio, se pondrán los expedientes del incidente a la vista de las partes, por tres días comunes, para que aleguen, y sin necesidad de citación, el juez dictará el auto relativo dentro de los diez días siguientes.
+Resolución del incidente.- Concluido el período del traslado o el probatorio, se pondrán los autos del incidente a la vista de las partes, por tres días comunes, para que aleguen y sin necesidad de citación, el Juez dictará sentencia interlocutoria dentro de los diez días siguientes.
+
+La interlocutoria dictada antes de la sentencia definitiva no es apelable. Sin embargo, si algún interesado cree haber recibido algún agravio con la resolución deberá observar lo dispuesto en los artículos 126 y 167 de este Código.
 
 ###### Artículo 410.
 
@@ -3433,9 +3545,11 @@ Los incidentes posteriores a la citación para sentencia no suspenderán el dict
 
 Condena en costas. Aunque no se solicite, la sentencia que decida un incidente condenará en costas al que la promovió sin razón.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 412.
 
-Apelación. Si en los incidentes a que se refiere este capítulo se interpusiere apelación, se estará a lo dispuesto en el artículo 107.
+Cuestiones en los incidentes. Las cuestiones que surjan en el curso de los incidentes no darán motivo a otro incidente, sino que se decidirán en la interlocutoria que resuelva el incidente principal.
 
 Las cuestiones que surjan en el curso de los incidentes no darán motivo a un incidente especial, sino que se decidirán en el auto que resuelva el incidente principal.
 
@@ -3625,9 +3739,13 @@ V. Los incidentes que surjan sobre alteración y modificación de las determinac
 
 Costas en ejecución de sentencia. Las costas que se originen en la ejecución de una sentencia, serán a cargo del que fuera condenado en ella.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 431.
 
-Impugnación de las resoluciones dictadas en ejecución de sentencia. Contra las resoluciones que se dicten después de pronunciada la sentencia, procede el recurso de apelación en el efecto devolutivo. El auto aprobatorio del remate será siempre apelable en el efecto suspensivo, si la sentencia fuere apelable. En los demás casos, las resoluciones no serán recurribles.
+Impugnación de las resoluciones dictadas en ejecución de sentencia. No serán apelables las resoluciones que se dicten después de pronunciada la sentencia definitiva.
+
+Sin embargo, serán apelables en el efecto devolutivo, las resoluciones con las que concluya el procedimiento de ejecución de la sentencia, el de la transacción de las partes elevada a la autoridad de cosa juzgada, y el del laudo arbitral. El auto aprobatorio del remate será apelable en el efecto suspensivo, si la sentencia fuere apelable.
 
 ###### Artículo 432.
 
@@ -3941,9 +4059,11 @@ Simultaneidad de embargo en juicios distintos. En caso de que los ejecutores pra
 
 Plazo para ordenar la enajenación. La enajenación no podrá ordenarse sino después de transcurridos diez días del embargo, excepción hecha de los casos en que se trate de dinero efectivo o de bienes susceptibles de rápido demérito o deterioro. En el primer caso, puede hacerse desde luego la adjudicación al acreedor, si se trata de ejecución de sentencia; y en el segundo, deberá autorizarse inmediatamente la venta por conducto del depositario o de la persona que determine el juzgador, sin avalúo ni subastas y en las mejores condiciones que puedan lograrse en el mercado.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 459.
 
-Avalúo como requisito para procederse a la enajenación. Salvo los casos a que se refiere el artículo anterior, no podrá autorizarse ninguna enajenación sin que previamente se practique avalúo de los bienes de que se trata. El avalúo, deberá llevarse a cabo de acuerdo con lo que se dispone en los artículos siguientes.
+Avalúo como requisito para proceder a la enajenación. Salvo los casos a que se refiere el artículo anterior, no podrá autorizarse ninguna enajenación sin que previamente se practique avalúo de los bienes de que se trata. Cuando por cualquier hecho o circunstancia variare notoriamente el valor del bien antes valuado, no se procederá a la enajenación o remate sin haber practicado antes un nuevo avalúo. El avalúo, deberá llevarse a cabo de acuerdo con lo que se dispone en los siguientes artículos.
 
 ###### Artículo 460.
 
@@ -4039,7 +4159,9 @@ b) Para intervenir en el acto de remate y hacer al juzgador las observaciones qu
 
 c) Para recurrir el auto de aprobación de remate.
 
-IV. Hecho el avalúo, se sacarán los bienes a pública subasta, convocándose postores por medio de la publicación de edictos por dos veces de siete en siete días, en el Periódico Oficial y en uno de los periódicos de mayor circulación. A petición de cualquiera de las partes, y a su costa, el juzgador puede usar, además, algún otro medio de publicidad para convocar postores. Si el valor del inmueble no excede de cien veces el salario mínimo general, para anunciar el remate bastará que se fijen avisos en la puerta del juzgado y en el sitio que al efecto tengan las autoridades fiscales de la localidad;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+IV. Hecho el avalúo, se sacarán los bienes a pública subasta, convocándose postores por medio de la publicación de edictos, por dos veces consecutivas dentro de los diez días naturales, en el Periódico Oficial y en uno de los periódicos de mayor circulación. A petición de cualquiera de las partes, y a su costa, el juzgador puede usar, además, algún otro medio de publicidad para convocar postores. Si el valor del inmueble no excede de cien veces el salario mínimo general, para anunciar el remate bastará que se fijen avisos en la puerta del Juzgado y en el sitio que al efecto tengan las autoridades fiscales de la localidad;
 
 V. Si los bienes raíces estuvieren ubicados en diversos lugares se librará exhorto para el efecto de que se fijen los edictos en la puerta del juzgado de cada localidad y en la de las oficinas fiscales. En este caso, se ampliará el término para la publicación de los edictos concediéndose un día más por cada cincuenta kilómetros o fracción que exceda de la mitad y se señalará el término tomando en cuenta la distancia mayor en que se hallen los bienes. Si el juzgador lo estima oportuno, puede ordenar que se hagan también publicaciones en algún periódico del lugar en que se encuentren ubicados los bienes; y
 
@@ -4099,11 +4221,15 @@ V. Cuando dentro del término expresado se mejore la postura, el juzgador mandar
 
 VI. Si en la tercera subasta se hiciere postura admisible, en cuanto al precio, pero ofreciendo pagar a plazos, alterando alguna condición, se hará saber al acreedor, el cual podrá pedir dentro de los nueve días siguientes la adjudicación de los bienes en las dos terceras partes del precio de la segunda subasta, y si no hace uso de este derecho, se aprobará el remate en los términos ofrecidos por el postor.
 
+> <small>(REFORMADO PRIMER PARRAFO, 12 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 471.
 
-Aprobación del remate y sus consecuencias. Aprobado el remate, ordenará el juzgador el otorgamiento de la escritura en adjudicación de los bienes, y requerirá al comprador que entregue ante el propio juzgador el precio del remate.
+Aprobación del remate y sus consecuencias. No se aprobará el remate sin antes estar cubierto totalmente el precio del bien fijado en el remate. Satisfecha esta exigencia, el juzgador ordenará el otorgamiento de la escritura de adjudicación del bien rematado.
 
-Si el comprador no entregare el precio en el plazo que el juzgador señale o si por su culpa dejare de tener efecto la venta. Se procederá a nueva subasta como si no se hubiere celebrado, perdiendo el postor el depósito de garantía que hubiere otorgado, el cual se aplicará por vía de indemnización por partes iguales al ejecutante y al ejecutado.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+El juzgador podrá conceder un plazo razonable para que el postor cubra totalmente el precio del bien rematado. En caso de que el postor no exhiba el precio en el plazo fijado, perderá el depósito de garantía que hubiere otorgado, el cual se aplicará en vía de indemnización en partes iguales al ejecutante y ejecutado, lo mismo se observará si por culpa suya dejare de tener efecto el remate o adjudicación, en cuyo caso, se procederá a la celebración de nueva subasta.
 
 Entregado el precio, se hará saber al deudor que dentro del tercer día otorgue la escritura de venta a favor del comprador, apercibido de que de no hacerlo, el juzgador lo hará en su rebeldía, haciéndolo constar así.
 
@@ -4129,11 +4255,13 @@ VII. El acreedor podrá cesar en la administración de la finca, cuando lo crea 
 
 Efectuado el remate se cancelarán las inscripciones de los gravámenes a que estuviere afecta la finca vendida expidiéndose para ello mandato respectivo, de tal manera, que la finca pase libre al comprador.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 473.
 
-Oportunidad del deudor para librar sus bienes mediante pago. Hasta antes de otorgada la escritura de adjudicación, podrá el deudor librar sus bienes pagando principal, intereses, costas y los demás gastos de la almoneda.
+Oportunidad del deudor para liberar sus bienes mediante pago. Hasta antes de aprobado el remate, el deudor podrá liberar sus bienes pagando la suerte principal, intereses, costas, gastos de conservación del bien embargado y los demás de la almoneda.
 
-Después de otorgada la escritura la venta será irrevocable.
+Después de aprobado el remate la venta es irrevocable.
 
 ###### Artículo 474.
 
@@ -4841,6 +4969,32 @@ Tramitación del juicio. El juicio sobre rectificación se tramitará en la vía
 
 Una vez ejecutoriada la sentencia, se comunicará a la oficina Estatal del Registro Civil y al Oficial del Registro Civil respectivo, para que haga referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
 
+### CAPITULO VIII. JUICIO DE ALIMENTOS
+
+###### Artículo 563.
+
+Demanda. En el juicio de alimentos la demanda podrá presentarse por escrito o expresarse por comparecencia personal ante el juzgador, de la cual se levantará el acta correspondiente. En ambos casos la demanda deberá reunir los requisitos previstos en el artículo 232 de este Código, y la actora deberá acompañar los documentos que funden su derecho.
+
+En la demanda la parte actora podrá solicitar el otorgamiento de alimentos provisionales en los términos previstos en los artículos 223 y 224 de este Código. La recusación no podrá impedir que el juzgador adopte las medidas provisionales sobre alimentos.
+
+En la misma demanda, la parte demandante deberá ofrecer las pruebas.
+
+###### Artículo 564.
+
+Emplazamiento y contestación de la demanda. En el auto de admisión de la demanda, el juzgador ordenará que se emplace a la parte demandada para que conteste la demanda dentro de los nueve días siguientes. En el escrito de contestación a la demanda, el demandado deberá ofrecer las pruebas respectivas.
+
+En el mismo auto el juzgador señalará el día y la hora para que tenga verificativo la audiencia de pruebas y alegatos.
+
+###### Artículo 565.
+
+Audiencia. La audiencia se practicará con o sin asistencia de las partes. El juzgador para resolver el problema que se planteé, podrá cerciorarse personalmente o con auxilio de trabajadores sociales, de la veracidad de los hechos. Aquellos presentarán el informe correspondiente en la audiencia, y podrán ser interrogados por el juzgador y por las partes. Su valoración se hará conforme a lo dispuesto por el artículo 349 de este Código. En el fallo se expresarán en todo caso los medios de prueba en que se haya fundado el juzgador para dictarlo.
+
+###### Artículo 566.
+
+Sentencia. La sentencia se pronunciará de manera breve y concisa, en el mismo momento de la audiencia de ser así posible o dentro de los ocho días siguientes.
+
+Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin fianza.
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE NOVIEMBRE DE 1999)</small>
 
 ### CAPITULO VIII BIS. VIOLENCIA INTRAFAMILIAR
@@ -4900,32 +5054,6 @@ Artículo 566 F.- Tramitación del Juicio. En la práctica de audiencia y valora
 > <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
 
 Artículo 566 G.- Resolución. Dentro de los tres días siguientes a la celebración de la audiencia el Juez valorando las pruebas ofrecidas, el contenido de los informes que al respecto hayan sido elaborados por las Instituciones Públicas o Privadas facultadas para ello y escuchando al Ministerio Público, dictará resolución pronunciando las medidas de protección al receptor de la violencia intrafamiliar o dejando firmes las ya pronunciadas, las formas de tratamiento a practicar al agresor para su rehabilitación y todo aquello que conforme a derecho proceda.
-
-###### Artículo 563.
-
-Demanda. En el juicio de alimentos la demanda podrá presentarse por escrito o expresarse por comparecencia personal ante el juzgador, de la cual se levantará el acta correspondiente. En ambos casos la demanda deberá reunir los requisitos previstos en el artículo 232 de este Código, y la actora deberá acompañar los documentos que funden su derecho.
-
-En la demanda la parte actora podrá solicitar el otorgamiento de alimentos provisionales en los términos previstos en los artículos 223 y 224 de este Código. La recusación no podrá impedir que el juzgador adopte las medidas provisionales sobre alimentos.
-
-En la misma demanda, la parte demandante deberá ofrecer las pruebas.
-
-###### Artículo 564.
-
-Emplazamiento y contestación de la demanda. En el auto de admisión de la demanda, el juzgador ordenará que se emplace a la parte demandada para que conteste la demanda dentro de los nueve días siguientes. En el escrito de contestación a la demanda, el demandado deberá ofrecer las pruebas respectivas.
-
-En el mismo auto el juzgador señalará el día y la hora para que tenga verificativo la audiencia de pruebas y alegatos.
-
-###### Artículo 565.
-
-Audiencia. La audiencia se practicará con o sin asistencia de las partes. El juzgador para resolver el problema que se planteé, podrá cerciorarse personalmente o con auxilio de trabajadores sociales, de la veracidad de los hechos. Aquellos presentarán el informe correspondiente en la audiencia, y podrán ser interrogados por el juzgador y por las partes. Su valoración se hará conforme a lo dispuesto por el artículo 349 de este Código. En el fallo se expresarán en todo caso los medios de prueba en que se haya fundado el juzgador para dictarlo.
-
-###### Artículo 566.
-
-Sentencia. La sentencia se pronunciará de manera breve y concisa, en el mismo momento de la audiencia de ser así posible o dentro de los ocho días siguientes.
-
-Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin fianza.
-
-### CAPITULO VIII. JUICIO DE ALIMENTOS
 
 ## TITULO TERCERO. JUICIOS SOBRE POSESION Y PROPIEDAD
 
@@ -6832,3 +6960,9 @@ P.O. 9 DE NOVIEMBRE DE 1999.
 PRIMERO.- El presente Decreto que reforma, adiciona y deroga diversas disposiciones del Código Penal del Estado de Guerrero; del Código de Procedimientos Penales para el Estado de Guerrero; del Código Civil del Estado de Guerrero; del Código Procesal Civil del Estado Libre y Soberano de Guerrero; de la Ley de Divorcio del Estado de Guerrero; y de la Ley Orgánica del Poder Judicial del Estado de Guerrero, entrará en vigor al día siguiente después de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los asuntos pendientes al entrar en vigor este Decreto se sujetarán a las disposiciones anteriores.
+
+P.O. 12 DE DICIEMBRE DE 2000
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite, se sujetarán a las normas establecidas hasta antes de la entrada en vigor de las presentes reformas y adiciones.
