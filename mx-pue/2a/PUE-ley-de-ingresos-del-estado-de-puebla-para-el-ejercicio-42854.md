@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ingresos-del-estado-de-puebla-para-el-ejercicio-42854"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2004-12-17"
-last_updated: "2004-12-17"
+last_updated: "2005-03-16"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE INGRESOS DEL ESTADO DE PUEBLA, PARA EL EJERCICIO FISCAL 2005
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2005.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 17 de diciembre de 2004.
 
@@ -641,7 +641,9 @@ a) 3 años......................................................................
 
 b) 5 años..................................................................…......................... $ 535.00
 
-III.- Por expedición de licencia temporal de entrenamiento de chofer de Servicio Público y Servicio Mercantil, con vigencia de 6 meses, así como su reposición por igual plazo, incluyendo formato.................................................... $ 290.00
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+III.- Por expedición de licencia temporal de entrenamiento de chofer de Servicio Público y Servicio Mercantil, con vigencia de un año, así como su reposición por igual plazo, incluyendo formato..................................................................................................$ 290.00
 
 IV.- Por expedición de licencia de chofer de servicio público y servicio mercantil, con vigencia de 3 años, así como su reposición por igual plazo, incluyendo formato y tarjetón de identificación del conductor con igual vigencia................................................................................................ $ 550.00
 
@@ -889,6 +891,10 @@ III.- Por la expedición de certificación de expedientes que obren en sus archi
 
 Por cada hoja adicional al número establecido en el párrafo anterior se pagará……….................................................................................................. $ 1.00
 
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2005)</small>
+
+IV.- Por la inscripción y/o revalidación anual en los Listados de Contratistas Calificados y de Laboratorios de Pruebas de Calidad................................................................$ 3,240.00
+
 ### CAPÍTULO V. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO URBANO, ECOLOGÍA Y OBRAS PÚBLICAS
 
 ###### ARTÍCULO 25.
@@ -1014,6 +1020,16 @@ b) Constancias de no aprobado……………….................................
 c) Reposición de los hologramas y certificados de verificación de emisión de gases contaminantes…………………...…………................................................. $ 55.00
 
 XV.- Por cursos de capacitación o actualización al personal de los centros de verificación, por persona........................................................ $ 1,145.00
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2005)</small>
+
+XVI.- Por la venta de bases en materia de obra pública y servicios relacionados con la misma:
+
+a)Para concursos por licitación pública.........................................................$ 1,680.00
+
+b)Para concursos por invitación a cuando menos tres y cinco personas $ 455.00
+
+El costo de las bases de licitación que se publiquen en medios electrónicos federales, será fijado en razón de la recuperación de las erogaciones realizadas por la publicación de la convocatoria y documentos que se requieran.
 
 ### CAPÍTULO VI. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN PÚBLICA
 
@@ -1383,7 +1399,7 @@ capacidad para 1,350 personas……………………$ 14,040.00 $ 4,700.00
 
 200 personas………………..……………………… $ 12,000.00 $ 4,000.00
 
-4.- Patio del Museo-Taller Erasto Cortés con capacidada
+4.- Patio del Museo-Taller Erasto Cortés con capacidad
 
 para 200 personas……………………..…………..$ 11,000.00 $ 3,600.00 $ 1,580.00
 
@@ -1399,7 +1415,7 @@ para 200 personas……………………..…………..$ 11,000.00 $ 3,600.00 
 
 b) Salas y Auditorios:
 
-/VEASE TABLA ANEXA)
+(VEASE TABLA ANEXA)
 
 1.- Sala Clavijero del Instituto Cultural Poblano con capacidad para 275 personas; Auditorio de San Pedro Museo de Arte con capacidad para 120 personas………………………… $ 4,640.00 $ 1,575.00
 
@@ -1729,27 +1745,39 @@ Los derechos por los servicios análogos de seguridad, custodia y vigilancia pre
 
 Elemento con equipo
 
-I.- Guardia Policial "A" ...................................................................... $ 235.00
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
-II.- Guardia Policial "B" ..................................................................... $ 245.00
+I.- Elemento con equipo:
 
-III.- Guardia Policial "C" .................................................................. $ 260.00
+a) Guardia Policial "A" ................................................................................$ 235.00
 
-IV.- Guardia Policial "D" ................................................................... $ 350.00
+b) Guardia Policial "B" ................................................................................$ 245.00
 
-V.- Patrulla con 2 elementos ............................................................. $ 1,000.00
+c) Guardia Policial "C" .............................................................................$ 260.00
 
-Los niveles "A", "B", "C" y "D" se consideran conforme a la normatividad correspondiente.
+d) Guardia Policial "D" ...............................................................................$ 350.00
 
-Las cuotas se consideran en turnos máximos de 12 horas por elemento.
+e) Patrulla con 2 elementos ......................................................................$ 1,000.00
 
-Por los servicios prestados en este rubro, los días domingos o festivos se cobrará el doble de las cuotas antes citadas.
+Los niveles "A", "B", "C" y "D" se considerarán conforme a la normatividad correspondiente.
 
-VI.- Por la expedición de certificaciones de datos o documentos que obren en sus archivos, por cada hoja, incluyendo formato……........................... $ 40.00
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
-VII.- Por la expedición de certificación de expedientes que obren en sus archivos y que incluye hasta 35 hojas……........……………………………….…..….. $ 40.00
+II.- Elemento sin equipo:.................................................................................$ 195.00
 
-Adicionalmente a la cuota que se cita en el párrafo anterior, se pagará por cada hoja................................................................................................. $ 1.00
+Las cuotas a que se refieren las fracciones anteriores, corresponderán a turnos máximos de 12 horas por elemento.
+
+Por los servicios prestados los días domingos o festivos se cobrará el doble de las cuotas antes citadas.
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+III.- Por la expedición de certificaciones de datos o documentos que obren en sus archivos, por cada hoja, incluyendo formato…....................................................$ 40.00
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+IV.- Por la expedición de certificación de expedientes que obren en sus archivos y que incluye hasta 35 hojas……........……………………..........................................$ 40.00
+
+Adicionalmente a la cuota que se cita en el párrafo anterior, se pagará por cada hoja.............................................................................................................................$ 1.00
 
 ###### ARTÍCULO 38.
 
@@ -2026,3 +2054,11 @@ SEXTO.- Se autoriza al Ejecutivo del Estado, a través de la Secretaría de Fina
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los dos días del mes de diciembre de dos mil cuatro.- Diputado Presidente.- JOAQUÍN MALDONADO IBARGÜEN.- Rúbrica.- Diputado Vicepresidente.- JOSÉ LUIS MÁRQUEZ MARTÍNEZ.- Rúbrica.- Diputado Secretario.- JUAN FRANCISCO MENÉNDEZ PRIANTE.- Rúbrica.- Diputado Secretario.- ODÓN ABAD SIDAR FIERRO.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los dos días del mes de diciembre del año dos mil cuatro.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO RÓMULO S. ARREDONDO GUTIÉRREZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE MARZO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
