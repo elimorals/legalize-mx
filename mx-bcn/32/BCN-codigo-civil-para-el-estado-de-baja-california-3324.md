@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2003-07-11"
+last_updated: "2004-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2004.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -9425,9 +9425,13 @@ Los gastos funerarios proporcionados a la condición de la persona y a los usos 
 
 ### CAPITULO V. DE LAS OBLIGACIONES QUE NACEN DE LOS ACTOS ILICITOS
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 1788.
 
-El que obrando ilícitamente o contra las buenas costumbres cause daño a otro, está obligado a repararlo, a menos que demuestre que el daño se produjo como consecuencia de culpa o negligencia inexcusable de la víctima.
+El que obrando ilícitamente o contra las buenas costumbres cause daño a otro, está obligado a repararlo; a menos que demuestre que el daño se produjo como consecuencia de culpa o negligencia inexcusable de la víctima.
+
+La imprudencia concurrente del perjudicado no exime de responsabilidad, pero conlleva la reducción de la indemnización. En todo caso, la víctima de acto ilícito deberá tomar las medidas conducentes a atenuar su daño, de lo contrario su reclamo por indemnización se verá reducida en la proporción en que tales medidas, de haberse tomado, hubiesen reducido su daño.
 
 ###### ARTICULO 1789.
 
@@ -9459,9 +9463,33 @@ IV.- Los créditos por indemnización cuando la víctima fuere un asalariado son
 
 V.- Las anteriores disposiciones se observarán en el caso del artículo 2520 de este Código.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 1794.
 
-Independientemente de los daños y perjuicios, el Juez puede acordar en favor de la víctima de un hecho ilícito, o de su familia, si aquella muere, una indemnización equitativa, a título de reparación moral, que pagará el responsable del hecho. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil. Lo dispuesto en este artículo no se aplicará al Estado en el caso previsto en el artículo 1806.
+Independientemente de los daños y perjuicios, el Juez puede acordar en favor de la víctima de un hecho ilícito, o de su familia, si aquella muere, una indemnización equitativa, a título de reparación moral, que pagará el responsable del hecho.
+
+Por daño moral se entiende el menoscabo, que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspectos físicos, o bien en la consideración que de sí misma tienen los demás.
+
+Se presumirá que hubo daño moral en cualquiera de los siguientes casos:
+
+I. Cuando se vulnera o menoscaba de manera ilegítima la libertad o la integridad física o psíquica de las personas;
+
+II. Cuando ocurre la pérdida o detrimento en la relación padre e hijo, o la intimidad entre cónyuges o de quienes cohabiten en unión libre;
+
+III. Cuando una persona sea víctima de la discriminación, humillación, acoso sexual o malos tratos por razón de su origen étnico, sexo o preferencia sexual, o por razón de algún impedimento físico;
+
+IV. Cuando una persona sea víctima del abuso de un derecho.
+
+Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización de dinero, con independencia de que se haya causado un daño material, tanto responsabilidad contractual, como extracontractual. Igual obligación de reparar el daño moral tendrá quien incurre en responsabilidad objetiva conforme al Artículo 1791, así como el Estado y sus servidores públicos conforme a los Artículos 1805 y 1806 todos del presente código.
+
+La acción de reparación no es transmisible a terceros por actos entre vivos y solo pasa a los herederos de la víctima cuando esta haya intentado la acción en vida.
+
+El monto de la indemnización lo determinará el juez tomando encuentra los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso.
+
+Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración el juez ordenará a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y el alcance de la misma a través de los medios informativos que considere conveniente. En los casos que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia con la misma relevancia que hubiera tenido la difusión original.
+
+No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información en los términos y con las limitaciones de los Artículos 6 y 7 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 1795.
 
@@ -9507,9 +9535,11 @@ En los casos previstos por los artículos 1801, 1802 y 1803 el que sufra el dañ
 
 El que paga el daño causado por sus sirvientes, empleados u operarios, puede repetir de ellos lo que hubiere pagado.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 1806.
 
-El Estado y los Municipios tienen obligación de responder de los daños causados por sus funcionarios en el ejercicio de las funciones que les estén encomendadas. Esta responsabilidad es subsidiaria y sólo podrá hacerse efectiva contra el Estado y Municipios, cuando el funcionario directamente responsable no tenga bienes, o los que tenga no sean suficientes para responder del daño causado.
+El Estado y los municipios tienen la obligación de responder de los daños causados por sus funcionarios en el ejercicio de sus funciones que le estén encomendadas. Esta responsabilidad será solidaria ya sea tratándose de actos ilícitos dolosos y culposos.
 
 ###### ARTICULO 1807.
 
@@ -9551,9 +9581,11 @@ VI.- Por el peso o movimiento de las máquinas, por las aglomeraciones de materi
 
 Los jefes de familia que habiten una casa o parte de ella, son responsables de los daños causados por las cosas que se arrojen o cayeren de la misma.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 1812.
 
-La acción para exigir la reparación de los daños causados en los términos del presente Capítulo, prescribe en dos años contados a partir del día en que se haya causado el daño.
+La acción de exigir la reparación de los daños causados en los términos del presente capítulo, prescribe en dos años contados a partir del día en que se haya causado el daño, o a partir de la fecha en que éste fue descubierto o debió haber sido descubierto por la víctima.
 
 ## TITULO SEGUNDO. MODALIDADES DE LAS OBLIGACIONES
 
@@ -10429,9 +10461,11 @@ El precio de la cosa será el que tendría al tiempo de ser devuelta al dueño, 
 
 Al estimar el deterioro de una cosa se atenderá no solamente a la disminución que él causó en el precio de ella, sino a los gastos que necesariamente exija la reparación.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 1991.
 
-Al fijar el valor y el deterioro de una cosa, no se atenderá al precio estimativo o de afección, a no ser que se pruebe que el responsable destruyó o deterioró la cosa con el objeto de lastimar la afección del dueño; el aumento que por estas causas se haga no podrá exceder de una tercera parte del valor común de la cosa.
+Al fijar el valor y el deterioro de una cosa, no se atenderá al precio estimativo o de afección, a no ser que se pruebe que el responsable destruyó o deterioró la cosa con el objeto de lastimar la afección del dueño; el aumento que por estas causas se haga será conforme a lo dispuesto por el Artículo 1794 de este Código.
 
 ###### ARTICULO 1992.
 
@@ -15376,3 +15410,7 @@ La presente reforma entrará en vigor a partir del día siguiente de su publicac
 P.O. 11 DE JULIO DE 2003.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Baja California.
+
+P.O. 11 DE JUNIO DE 2004.
+
+UNICO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
