@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "1986-02-25"
+last_updated: "1989-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 1989.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -338,6 +338,10 @@ En los exhortos que se libren para la aprehensión de un inculpado, a cualquier 
 Los términos son improrrogables y empezarán a correr el día siguiente al de la fecha de la notificación respectiva, salvo los casos que este Código señale expresamente.
 
 No se incluirán en los términos los domingos ni los días inhábiles, excepto si se trata de los señalados para poner al inculpado a disposición del Juez que ordenó su aprehensión, de tomarle su declaración preparatoria o de resolver sobre su situación jurídica.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 1989)</small>
+
+El auto de formal prisión, de sujeción a proceso o de libertad por falta de elementos para procesar, deberá dictarse en un periodo no mayor de tres días; y podrá ampliarse a 72 horas más, solo a petición del indiciado o de su defensor.
 
 ###### Art. 49.
 
@@ -2846,3 +2850,7 @@ Lic. Alfonso de Alba Martín
 P.O. 25 DE FEBRERO DE 1986.
 
 ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 22 DE ABRIL DE 1989.
+
+Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
