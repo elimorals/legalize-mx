@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1993-04-24"
+last_updated: "1993-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE ABRIL DE 1993.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE MAYO DE 1993.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -307,7 +307,7 @@ Para ser Diputado, se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco en el ejercicio de sus derechos;
 
-II.- Sener veintiun años cumplidos el día de la elección;
+II.- Tener veintiun años cumplidos el día de la elección;
 
 > <small>(REFORMADA, D.O. 12 DE MARZO DE 1993)</small>
 
@@ -489,7 +489,7 @@ XVIII.- Nombrar y remover al Contador Mayor, al Oficial Mayor y al Tesorero del 
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1990)</small>
 
-XIX.- autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida;
+XIX.- Autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1977,7 +1977,7 @@ PRIMERO.- Se derogan todas las disposiciones legales que se opongan a lo dispues
 
 SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
-D.O. 4 DE JULIO DE 1990
+D.O. 4 DE JULIO DE 1990.
 
 ###### ARTICULO PRIMERO.
 
@@ -2015,18 +2015,36 @@ PRIMERO.- Para los efectos del artículo 20 de la Constitución del Estado, por 
 
 SEGUNDO.- Para los efectos del artículo 27 reformado de la Constitución del Estado, el Congreso que resulte de las elecciones a celebrarse en el mes de noviembre del presente año, tendrá durante su gestión, cinco periodos de sesiones ordinarias que comenzarán a partir del 16 de enero, del 16 de mayo y del 16 de octubre del año de 1994 y 16 de enero y 16 de mayo del año de 1995 y sin que los mismos puedan prolongarse más que hasta el 15 de marzo, el 15 de julio y el 20 de diciembre de 1994, 15 de marzo y 30 de junio de 1995, respectivamente.
 
-TERCERO.- El Gobernador Interino designado, rendirá el informe a que se refiere el artículo 28 reformado de la Constitución del Estado, por única ocasión el segundo domingo del mes de junio de 1995, y el que comprenderá todo el tiempo de su gestión.
+> <small>(REFORMADO, D.O. 19 DE MAYO DE 1993)</small>
 
-CUARTO.- Para los efectos del artículo 48 reformado de la Constitución del Estado y conforme a las atribuciones que dicho ordenamiento le confiere, el Congreso designará durante el mes de diciembre del presente año, a la persona que, una vez concluido el actual periodo constitucional, ocupará el cargo de Gobernador, con el carácter de Interino, quien durará en sus funciones del primero de febrero de 1994 al 31 de julio de 1995.
+TERCERO.- En términos del presente Decreto de reformas a la Constitución Política del Estado de Yucatán, en los comicios a celebrarse el 28 de noviembre de 1993, se elegirá Gobernador, Ayuntamientos y Diputados al Congreso del Estado.
 
-QUINTO.- Para el debido cumplimiento de las reformas que este decreto refiere y por esta única ocasión, no se estará a lo previsto en el artículo 52 de la Constitución del Estado, y en tal virtud, los comicios para elegir Gobernador del Estado, Diputados y Presidentes Municipales, se celebrarán el cuarto domingo del mes de mayo de 1995.
+> <small>(REFORMADO, D.O. 19 DE MAYO DE 1993)</small>
+
+CUARTO.- Por esta ocasión, para los efectos del artículo 48 reformado de la Constitución Política del Estado, el Gobernador que resultare electo en los comicios del 28 de noviembre de 1993, durará en su encargo del primero de febrero de 1994 al 31 de julio de 1995.
+
+> <small>(REFORMADO, D.O. 19 DE MAYO DE 1993)</small>
+
+QUINTO.- El Gobernador electo a que se refiere el artículo anterior, rendirá el Informe previsto en el Artículo 28 reformado de la Constitución Política del Estado, por única ocasión, el segundo domingo del mes de junio de 1995, debiendo comprender dicho Informe todo el tiempo de su gestión.
 
 SEXTO.- Los presidentes Municipales que resulten electos en los comicios a celebrarse el 28 de noviembre del presente año, duraran en sus funciones, del primero de enero de 1994, al 30 de junio de 1995, en concordancia con el supuesto de la fracción primera del artículo 76 de la Constitución del Estado.
 
-SEPTIMO.- En los comicios a celebrarse el 28 de noviembre del presente año, se elegirán Ayuntamientos y Diputados al Congreso del Estado en los términos del presente Decreto.
+> <small>(REFORMADO, D.O. 19 DE MAYO DE 1993)</small>
+
+SEPTIMO.- Para el debido cumplimiento de las reformas a que este Decreto se refiere, los subsiguientes comicios para elegir Gobernador, Ayuntamientos y Diputados al Congreso del Estado, serán celebrados el cuarto domingo del mes de mayo de 1995.
 
 OCTAVO.- En su oportunidad, se adecuarán las leyes reglamentarias cuyas disposiciones contravengan lo previsto en el presente Decreto.
 
 NOVENO.- Las funciones de la LII Legislatura continuarán conforme a lo preceptuado en las formas y términos de las leyes vigentes.
 
 DECIMO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 19 DE MAYO DE 1993.
+
+###### ARTICULO PRIMERO.
+
+Se derogan las disposiciones que contravengan éste y el Decreto 570.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
