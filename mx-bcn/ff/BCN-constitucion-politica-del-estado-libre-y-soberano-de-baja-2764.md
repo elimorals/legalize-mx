@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1994-05-06"
+last_updated: "1994-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 1994.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 1994.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -63,9 +63,73 @@ El Estado es Libre y Soberano en todo lo concerniente a su régimen interior, si
 
 Todo Poder Público dimana del pueblo y se instituye para beneficio de éste.
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática y hacer posible el acceso de los ciudadanos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
-Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
+Los partidos políticos son entidades de interés público. La Ley determinará las formas específicas de su intervención en el proceso electoral.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+Los partidos políticos dispondrán de tiempos en forma igualitaria en los medios de comunicación para participar en debates de acuerdo con las formas y procedimientos que establezca la Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+Los partidos políticos gozarán de financiamiento público permanente y de campaña electoral, para la realización de sus fines; el monto, los medios de justificación del gasto y los plazos o modalidades de las entregas; así como los topes en los gastos de sus campañas electorales, se establecerán en la Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+La organización de las elecciones estatales se realizará a través de un organismo público autónomo e independiente denominado Instituto Estatal Electoral, dotado de personalidad jurídica y patrimonio propio, a cuya integración concurren el Poder Ejecutivo, los partidos políticos y los ciudadanos, según lo disponga la Ley. En el ejercicio de esa función pública, serán principios rectores la certeza, legalidad, independencia, imparcialidad y objetividad.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+El organismo público agrupará para su desempeño, en forma integral y directa, además de las que determine la Ley, las actividades relativas al padrón electoral, preparación de la jornada electoral, cómputos y otorgamiento de constancias, capacitación electoral y educación cívica e impresión de materiales electorales. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones; contará en su estructura con órganos normativos, directivos o ejecutivos, de vigilancia y técnicos. El órgano superior normativo, denominado Consejo Estatal Electoral, se integrará por un Consejero Presidente designado por el Poder Ejecutivo; Consejeros Ciudadanos elegidos por el Poder Legislativo y por representantes acreditados paritariamente por los partidos políticos, sólo con derecho a voz.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+Los órganos normativos inferiores serán los Consejos Municipales Electorales y Consejos Distritales Electorales, se integrarán por un Consejero Presidente nombrado por el órgano superior, por Consejeros Ciudadanos nombrados por el Congreso del Estado y por representantes acreditados por los partidos políticos, en la forma que establezca la Ley. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos. Las mesas directivas de casillas estarán integradas por ciudadanos.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+Los órganos directivos o ejecutivos serán la Dirección General del Instituto Estatal Electoral y la Dirección General del Registro Estatal de Electores del Instituto Estatal Electoral, quienes serán nombrados por el órgano superior normativo a propuesta del Consejero Presidente, con la aprobación de las dos terceras partes de sus integrantes, mediante el procedimiento que señale la Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+Los consejeros ciudadanos de los órganos normativos deberán satisfacer los requisitos que señala la Ley y serán elegidos por el voto de las dos terceras partes de los integrantes del Congreso del Estado, de las propuestas que resulten de la convocatoria pública que el propio Congreso del Estado formule. La Ley señalará las reglas y el procedimiento correspondientes. Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la Ley. La Ley establecerá un sistema de medios de impugnación de los que conocerá el Tribunal de Justicia Electoral. Dicho sistema dará definitividad a las distintas etapas del proceso electoral y garantizará que los actos y resoluciones se sujeten invariablemente al principio de legalidad. Además, este sistema deberá observar la garantía de audiencia y los principios de publicidad, gratuidad, economía y concentración procesal.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+En materia electoral, la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnada.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+El Tribunal de Justicia Electoral será un órgano autónomo y máxima autoridad jurisdiccional electoral. El Poder Legislativo, garantizará su debida integración.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+El Tribunal de Justicia Electoral, tendrá competencia para resolver en forma definitiva e inatacable, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral estatal y las que establece el Artículo 20 de la Constitución.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+Expedirá su reglamento interior y realizará las demás atribuciones que le confiere la Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+El Tribunal de Justicia Electoral funcionará en pleno o en salas y sus sesiones de resolución serán públicas en los términos que establezca la Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+El Tribunal de Justicia Electoral se organizará en los términos que señale la Ley. Para el ejercicio de su competencia contará con cuerpos de magistrados y jueces instructores, los cuales serán independientes y responderán sólo al mandato de la Ley. Los Magistrados del Tribunal deberán satisfacer los requisitos que establezca la Ley, que no podrán ser menores de los que señala esta Constitución para ser Magistrado del Tribunal Superior de Justicia del Estado. Serán electos por el voto de las dos terceras partes de los integrantes del Congreso del Estado, previa convocatoria pública que emita el propio Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+Para cada proceso electoral se integrará una Sala de Segunda Instancia con tres Magistrados, que serán nombrados en los mismos términos que señala el párrafo anterior. Esta Sala será competente para resolver las impugnaciones a que se refiere el párrafo tercero del Artículo 20 de esta Constitución.
 
 ### CAPITULO III.. DE LOS SIMBOLOS OFICIALES
 
@@ -111,7 +175,9 @@ Son obligaciones de los habitantes del Estado:
 
 I.- Si son mexicanos, las que se señalan en el artículo 31 de la Constitución General de la República y en la presente.
 
-II.- Si además de mexicanos son ciudadanos, las contenidas en los artículos 31 y 36 de la Constitución General de la República y las que señala la presente Constitución.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+II.- Si además de mexicanos, son ciudadanos, las contenidas en los Artículos 5, 31 y 36 de la Constitución General de la República, las que señala la presente Constitución y las que establezca la Ley.
 
 III.- Si son extranjeros, acatar y respetar en todas sus partes lo establecido en la Constitución General de la República, en la del Estado y en las disposiciones legales que de ambas emanen; sujetarse a los fallos y sentencias de los tribunales sin poder intentar otros recursos que los que se concede a los mexicanos y contribuir a los gastos públicos de la manera que dispongan las leyes y autoridades del Estado.
 
@@ -143,47 +209,79 @@ No pueden reunirse dos o más poderes en una sola persona o corporación ni depo
 
 El ejercicio del Poder Legislativo se deposita en una Asamblea de representantes del pueblo, que se denomina Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1986)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 14.
 
-El Congreso del Estado se compondrá de Diputados electos cada tres años, quince en forma directa y mayoritaria, uno por cada Distrito Electoral, y, en su caso, de cuatro Diputados de minoría que serán electos de acuerdo con lo establecido por esta Constitución y la Ley respectiva.
+El Congreso del Estado estará integrado por Diputados que se elegirán cada tres años; quince serán electos en forma directa mediante el principio de mayoría relativa, uno por cada Distrito Electoral en que se divida el territorio del Estado, y en su caso, hasta diez Diputados asignados por el principio de representación proporcional. Por cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1979)</small>
+Todos los Diputados tendrán idéntica categoría e igualdad de obligaciones y gozarán de las mismas prerrogativas.
 
-Por cada diputado propietario se elegirá un suplente.
+Los Diputados, como representantes del pueblo, podrán auxiliar a sus representados y a las comunidades del Estado en sus demandas sociales y de orden administrativo de interés general, a fin de lograr su oportuna solución, por lo que las autoridades administrativas del Estado y los Ayuntamientos deberán atender su intervención y ver por la oportuna resolución de sus promociones.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1979)</small>
-
-Los diputados de mayoría y de minoría tendrán las mismas obligaciones y gozarán de las mismas prerrogativas.
-
-> <small>(REFORMADO PARRAFO PRIMERO, P.O. 20 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 15.
 
-La elección para los cuatro Diputados de Minoría se sujetará a lo que en lo particular disponga la Ley, según las bases generales siguientes:
+La asignación de los Diputados por el principio de representación proporcional, se hará de acuerdo con el procedimiento que se establezca en la Ley, y atendiendo a las definiciones y bases siguientes:
 
-I.- Los Partidos Políticos deberán participar en la elección de diputados por mayoría en por lo menos la tercera parte de los Distritos Electorales;
+I.- Para que los partidos políticos o coaliciones tengan este derecho deberán:
 
-II.- Tendrá derecho a que le sean atribuídos diputados de minoría todo aquel Partido que: A) .- No haya obtenido dos o más constancias de mayoría y B) .- Que alcance por lo menos el 1.5% del total de la votación emitida en el Estado, en la elección de candidatos de mayoría; y
+a).- Participar con candidatos a Diputados por el principio de mayoría relativa en por lo menos el cincuenta por ciento de los distritos electorales; y
 
-III.- Al Partido que cumpla con los supuestos señalados en las Fracciones I y II de este Artículo, le será asignado un diputado de minoría en favor del candidato que en su respectivo Distrito haya obtenido el mayor número de votos de entre todos los candidatos de ese Partido que hayan participado en el proceso electoral.
+b).- Haber obtenido por lo menos el dos por ciento de la votación estatal emitida en el (sic) elección de Diputados;
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1983)</small>
+II.- Definiciones:
 
-En caso de que dos o más Partidos se encuentren en las condiciones mencionadas en este Artículo, se atribuirá, en los términos del párrafo anterior, un Diputado al que mayor número de votos alcance y uno a cada uno de los Partidos que le sigan en votación.
+a).- Votación estatal emitida: es el número total de votos sufragados en la elección de Diputados menos los votos nulos y los emitidos a favor de personas no registradas como candidatos;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE FEBRERO DE 1983)</small>
+b).- Votación estatal válida: es igual, a la suma de los votos obtenidos por los partidos políticos o coaliciones que hayan logrado por lo menos el dos por ciento;
 
-En caso de que sólo un partido satisfaga los requisitos que establecen las Fracciones I y II de este Artículo, se le atribuirán a dicho Partido todos los Diputados de Minoría, conforme al procedimiento que establezca la Ley respectiva.
+c).- Votación estatal de cada partido: es el número total de votos obtenidos por cada partido político o coalición en el Estado, en la elección de Diputados;
 
-De no presentarse la situación a que se refiere el Párrafo Segundo de esta Fracción, al que se encuentre en las condiciones de que trata el Primer Párrafo de esta Fracción, se le atribuirá otro diputado de minoría en favor del candidato que en su respectivo Distrito haya obtenido el segundo lugar en número de votación de entre todos los candidatos de ese Partido que hayan participado en el proceso electoral.
+d).- Porcentaje de votación estatal de cada partido político o coalición: es el resultado que se obtiene de multiplicar la votación estatal de cada partido político o coalición por cien y dividiéndolo entre la votación estatal válida;
 
-La Ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación.
+e).- Expectativa de integración al Congreso de cada partido político o coalición: es el resultado que se obtiene de multiplicar el Porcentaje de votación estatal de cada partido político o coalición por el número total de integrantes del Congreso y dividiéndolo entre cien,
+
+f).- Diputaciones obtenidas de mayoría por cada partido político o coalición: equivale al número de diputaciones que por el principio de mayoría relativa haya obtenido cada partido político o coalición; y
+
+g).- Determinación de asignación a la representación proporcional para cada partido político o coalición: se obtiene de restar a la expectativa de integración al Congreso de cada partido político o coalición, el número de diputaciones obtenidas de mayoría.
+
+III.- El Consejo Estatal Electoral asignará las diputaciones por el principio de representación proporcional, a los partidos políticos o coaliciones con derecho a ello, mediante el procedimiento que se establezca en la Ley y atendiendo a las bases siguientes:
+
+a).- Determinará qué partidos políticos o coaliciones cumplen con lo estipulado en la fracción I de este Artículo;
+
+b).- Determinará el porcentaje de votación estatal de cada partido político o coalición;
+
+c).- Primeramente asignará un Diputado a todo aquel partido político o coalición que tenga derecho a ello, y no haya obtenido constancia de mayoría alguna.
+
+Posteriormente se asignará otro Diputado por el principio de representación proporcional, al partido político o coalición que cumpliendo con los requisitos señalados en la Fracción I de este Artículo, haya obtenido el seis por ciento de la votación estatal emitida.
+
+En el caso de que el número de partidos políticos o coaliciones sea mayor que el de Diputaciones por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarse;
+
+d).- Posteriormente y en el supuesto de que existieran aún diputaciones por asignar, se procederá de la manera siguiente:
+
+1.- Determinará la expectativa de integración al Congreso de cada partido político o coalición;
+
+2.- Determinará el número de diputaciones que le corresponda a cada partido político o coalición conforme a lo establecido en el inciso g) de la fracción II de este Artículo;
+
+3.- Se le restará de su expectativa de integración al Congreso, la asignación efectuada conforme al inciso c) de esta fracción, al partido político o coalición que la haya obtenido;
+
+4.- Asignará a los partidos políticos o coaliciones, alternadamente, tantas diputaciones como números enteros haya obtenido en la operación realizada conforme al inciso g) de la fracción II de este Artículo; y
+
+5.- Si después de efectuadas las operaciones anteriores aún quedasen diputaciones por asignar, se otorgarán a los partidos políticos o coaliciones que conserven los restos mayores, después de deducir los números enteros que sirvieron como base en la asignación anterior.
+
+IV.- En ningún caso un partido político o coalición podrá contar con más de dieciséis diputaciones por ambos principios;
+
+V.- Los partidos políticos o coaliciones podrán registrar una fórmula adicional para el caso de que tuvieren derecho al número máximo señalado en la fracción anterior; y
+
+VI.- La asignación de los diputados que le corresponda a cada partido político o coalición, la hará el Consejo Estatal Electoral de entre los candidatos a la diputación de mayoría relativa de cada uno de ellos y que no hayan obtenido la constancia respectiva, de acuerdo a una relación de los mismos que se haga en base al porcentaje obtenido de la votación distrital, válida, en orden descendente y colocando al final la fórmula señalada en la fracción anterior.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 16.
 
-Los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+Los Diputados propietarios de la Legislatura del Estado no podrán ser reelectos para el período inmediato. Los Diputados suplentes podrán ser electos para el período inmediato con el carácter de propietario, siempre que no hubieren estado en ejercicio, pero los Diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
@@ -191,9 +289,11 @@ Los diputados suplentes podrán ser electos para el período inmediato con el ca
 
 Para ser electo Diputado Propietario o Suplente, se requiere:
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
-I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos e hijo de padres mexicanos por nacimiento.
+I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos e hijo de madre o padre mexicanos.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
 Aquellos ciudadanos candidatos a Diputados Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad m mexicana invariablemente, con Certificado que expida en su caso, la Secretaría de Relaciones Exteriores del Gobierno Federal, fechado con anterioridad al día en que cumplan 21 años de edad;
 
@@ -201,11 +301,13 @@ Aquellos ciudadanos candidatos a Diputados Propietarios o Suplentes, cuyo nacimi
 
 II.- Tener 21 años cumplidos el día de la elección; y
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
-III.- Tener arraigo o vecindad en el Distrito por el que se ha postulado o en la población cuando en ella haya dos o más Distritos, de por lo menos quince años inmediatos anteriores al día de la elección.
+III.- Tener vecindad en el Estado con residencia efectiva, de por lo menos cinco años inmediatos anteriores al día de la elección.
 
-El término de arraigo y vecindad no se interrumpe cuando en el ejercicio de un cargo público, se deba residir fuera del Territorio del Estado.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+La vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un cargo de dirección nacional de partido político, por motivo de estudios o por causas ajenas a su voluntad, se tenga que residir fuera del territorio del Estado.
 
 ###### ARTICULO 18.
 
@@ -221,23 +323,41 @@ IV.- Los militares en servicio activo o las personas que tengan mando de policí
 
 V.- Los Presidentes Municipales por los distritos en que ejerzan autoridad;
 
-VI.- Los Funcionarios de Hacienda Federales, así como los administradores de rentas por los distritos donde ejerzan sus funciones a menos que se separen de sus cargos en forma definitiva noventa días antes de la elección;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
-VII.- Los ministros de cualquier culto.
+VI.- Quienes tengan cualquier empleo, cargo o comisión en el gobierno federal, estatal o municipal, así como los organismos descentralizados, excepto en las actividades docentes; salvo que se separen cuando menos noventa días antes del día de la elección;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+VII.- Los ministros de cualquier culto religioso, a menos que se separen en los términos que establece la Ley de la materia.
 
 ###### ARTICULO 19.
 
 El Congreso se renovará totalmente cada tres años y se instalará el día 1ro. de octubre posterior a la elección.
 
-(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1979) (F. DE E., P.O. 10 DE DICIEMBRE DE 1979)
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 20.
 
-El Congreso calificará la elección de sus miembros a través de un Colegio Electoral que se integrará con los cuatro presuntos diputados que, de acuerdo con las constancias de mayoría que registre la Comisión Estatal Electoral, hubiesen obtenido mayor número de votos, y, en su caso, por un presunto diputado de minoría que hubiese obtenido mayor número de votos, de acuerdo con la constancia que expida la Comisión Estatal Electoral.
+El Instituto Estatal Electoral de acuerdo con lo que establezca la Ley, declarará la validez de la elección de Diputados, otorgará las constancias de mayoría a las fórmulas de candidatos que la hayan obtenido y hará la asignación de Diputados por el principio de representación proporcional, de acuerdo con el procedimiento que para tal efecto establece el Artículo 15 de esta Constitución y la Ley.
+
+La declaración de validez, el otorgamiento de las constancias de mayoría y la asignación de Diputado de representación proporcional que se mencionan en el párrafo anterior, podrán ser impugnadas ante la Sala de Primera Instancia del Tribunal de Justicia Electoral, en los términos que señale la Ley.
+
+Las resoluciones de la Sala de Primera Instancia a que se refiere el párrafo que antecede, exclusivamente podrán ser revisadas por la Segunda Sala del Tribunal de Justicia Electoral, mediante el recurso que los partidos políticos podrán interponer, cuando hagan valer agravios debidamente fundados por los que se pueda modificar el resultado de la elección. Los fallos de esta sala serán definitivos e inatacables. La Ley establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 21.
 
-Las sesiones del Colegio Electoral se iniciarán diez días antes de la Instalación del Congreso. Las credenciales que no fueren calificadas en este período, lo serán con posterioridad.
+El Congreso del Estado en Pleno se erigirá en Colegio Electoral para calificar y hacer el cómputo total de votos para las elecciones de Gobernador; asimismo para hacer la declaración de validez de las elecciones de los Ayuntamientos. Estos actos deberán realizarse a más tardar quince días antes de la toma de posesión respectiva.
+
+Las resoluciones del Colegio Electoral serán definitivas e inatacables.
+
+Para producir la declaración correspondiente, ineludiblemente se observarán los resultados oficiales de los cómputos municipales, y en su caso, las resoluciones recaídas sobre los recursos correspondientes emitidas por el Tribunal de Justicia Electoral.
+
+Hecho el cómputo respectivo y observando las resoluciones del Tribunal de Justicia Electoral, el Congreso del Estado declarará la validez de las elecciones de Gobernador y Ayuntamientos.
+
+Los Procedimientos correspondientes serán establecidos en las Leyes respectivas.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -255,9 +375,13 @@ En ambos Períodos Ordinarios, la Legislatura del Estado estudiará y votará la
 
 El Congreso fuera de los períodos ordinarios, podrá celebrar sesiones extraordinarias, cuando fuere convocado al efecto por el Ejecutivo o por la Comisión Permanente; debiendo ocuparse, en el caso, sólo de los asuntos para los cuales se haya hecho la convocatoria. A la apertura de un período extraordinario de sesiones, precederá solamente una sesión previa para designar la Directiva.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 24.
 
-El Congreso no podrá ejercer sus funciones sin la concurrencia de la mayoría del número total de sus miembros. Si no hubiere quórum el día designado por la Ley, los diputados presentes exhortarán a los ausentes para que concurran dentro de los cinco días siguientes al del llamado. Si a pesar de ello no se presentaren, se llamará a los suplentes, quienes funcionarán durante todo el tiempo que comprenda ese período de sesiones.
+Si el día señalado para la instalación del Congreso, no se presentaren todos los Diputados electos; o si una vez instalado no hubiere quórum para la celebración de su primer período ordinario, los que estuvieren presentes compelerán a los ausentes incluyendo a los suplentes, para que concurran a la próxima sesión, la que no deberá rebasar el término de cinco días a la fecha de la instalación, apercibiéndolos hasta en dos ocasiones, de que en caso de que dejaran de comparecer injustificadamente uno u otro se declarará vacante el puesto y suspendidos ambos en el uso y goce de sus derechos de ciudadanos, durante un año.
+
+En los períodos ordinarios y extraordinarios, el Congreso no podrá ejercer sus funciones sin la concurrencia de la mayoría del número total de sus miembros; si no hubiere el quórum establecido por la Ley, los Diputados presentes exhortarán a los ausentes para que concurran dentro de los cinco días siguientes al del llamado. Si a pesar de ello no se presentaren, se llamará a los suplentes, quienes funcionarán durante todo el tiempo que comprenda ese período de sesiones.
 
 ###### ARTICULO 25.
 
@@ -285,15 +409,21 @@ V.- Crear y suprimir los empleos públicos, según lo exijan las necesidades de 
 
 VI.- Dar las bases para que el Ejecutivo celebre empréstitos, con las limitaciones que establece la fracción VIII del Artículo 117 de la Constitución Política de los Estados Unidos Mexicanos; aprobar los contratos respectivos y reconocer y autorizar el pago de las deudas que contraiga el Estado;
 
-VII.- Hacer el escrutinio de los votos emitidos en la elección de Gobernador, calificar dicha elección y declarar electo al que haya obtenido mayoría;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
-VIII.- Calificar la validez de las elecciones de los ayuntamientos, consignando al Procurador de Justicia los hechos delictuosos en materia electoral que aparezcan en los expedientes respectivos;
+VII.- Hacer el cómputo total de votos en la elección de Gobernador, calificar dicha elección y declarar electo a quien haya obtenido mayoría;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+VIII.- Calificar la validez de las elecciones de los Ayuntamientos y declarar electa a la planilla que haya obtenido la mayoría;
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
 IX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convenga;
 
-X.- (DEROGADA, P.O. 6 DE MAYO DE 1994)
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+X.- Cumplir con las obligaciones que marca el Artículo 5 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -311,7 +441,9 @@ XV.- Resolver, sobre la designación o ratificación de Magistrados del Tribunal
 
 XVI.- Designar, en los términos que previene esta Constitución, al ciudadano que deba substituir al Gobernador en sus faltas temporales o absolutas;
 
-XVII.- Convocar a elecciones, cuando fuere necesario, y decidir sobre la legalidad de ellas;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+XVII.- Convocar a elecciones, cuando fuere necesario conforme a lo establecido en la Ley;
 
 XVIII.- Resolver acerca de las renuncias de los diputados, del Gobernador y de los Magistrados del Tribunal Superior de Justicia;
 
@@ -356,6 +488,8 @@ XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Munici
 XXXII.- Formar su Reglamento Interior y expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos a los Poderes del Estado.
 
 ### CAPITULO IV.. DE LA COMISION PERMANENTE
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 28.
 
@@ -433,7 +567,7 @@ Los proyectos de ley y los decretos aprobados por el Congreso, se remitirán al 
 
 ###### ARTICULO 38.
 
-La víspera del día en que deban terminar las sesiones ordinarias, el Congreso nombrará para el tiempo de su receso, una Comisión Permanente compuesta de seis diputados en ejercicio, de los cuales tres funcionarán como propietarios y tres quedarán como suplentes.
+La víspera del día en que deban terminar las sesiones ordinarias, el Congreso nombrará para el tiempo de su receso, una Comisión Permanente compuesta de diez Diputados en ejercicio, de los cuales siete funcionarán como propietarios y tres quedarán como suplentes o supernumerarios.
 
 ###### ARTICULO 39.
 
@@ -451,11 +585,17 @@ IV.- Otorgar o negar su aprobación a los nombramientos de los Magistrados que h
 
 V.- Emitir dictamen sobre los asuntos que en las últimas sesiones ordinarias hayan quedado pendientes y sobre los que después se presenten para dar cuenta al Congreso;
 
-VI.- Recibir los expedientes electorales relativos a la elección de diputados y Gobernador, para el sólo efecto de entregarlos al Colegio Electoral;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
-VII.- Instalar las juntas preparatorias del Colegio Electoral del Congreso.
+VI.- Recibir los expedientes electorales relativos a las elecciones de Gobernador y Ayuntamientos, para el sólo efecto de entregarlos al Colegio Electoral;
 
-VIII.- (DEROGADA, P.O. 31 DE ENERO DE 1984)
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+VII.- Entregar credenciales de identificación y acceso, a más tardar el día 15 de septiembre del año de la elección, a los Diputados electos que integran la nueva Legislatura, cuyas constancias de mayoría y validez, de asignación por el principio de representación proporcional, o por resolución firme del Tribunal de Justicia Electoral, haya recibido el Congreso.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+VIII.- Citar a los Diputados electos a la junta previa el día anterior al inicio del primen período ordinario de la Legislatura entrante; y
 
 IX.- Las demás que le concede esta Constitución.
 
@@ -473,25 +613,29 @@ El Gobernador del Estado conducirá la Administración Pública Estatal, que ser
 
 Para ser Gobernador del Estado se requiere:
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
-I.- Ser ciudadano mexicano por nacimiento e hijo de padres mexicanos por nacimiento.
+I.- Ser ciudadano mexicano por nacimiento e hijo de madre o padre mexicanos.
 
 Aquellos ciudadanos candidatos a Gobernador del Estado, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con el Certificado que expida en su caso, la Secretaría de Relaciones Exteriores del Gobierno Federal, fechado con anterioridad al día en que cumplan 21 años de edad;
 
 II.- Tener 35 años cumplidos el día de la elección;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
-III.- Tener arraigo o vecindad en el Estado no menos de 20 años inmediatos anteriores al día de la elección.
+III.- Tener vecindad en el Estado con residencia efectiva, de por lo menos quince años inmediatos anteriores al día de la elección.
 
-El término de arraigo y vecindad no se interrumpe cuando en el ejercicio de un cargo público, se deba residir fuera del Territorio del Estado.
+La vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un cargo de dirección nacional de partido político, por motivo de estudios o por causas ajenas a su voluntad, se tenga que residir fuera del territorio del Estado.
 
-IV.- No pertenecer al estado eclesiástico, ni ser ministro de algún culto;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+IV.- No ser ministro de cualquier culto religioso, a menos que se separe en los términos que establece la Ley de la materia.
 
 V.- Estar en pleno goce de sus derechos Políticos.
 
-VI.- No tener empleo, cargo o comisión de otros Estados ni de la Federación, o renunciarlos y estar separado de ellos, cuando menos, noventa días antes de la elección.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+VI.- No tener empleo, cargo o comisión en el gobierno federal, estatal o municipal, así como en los organismos descentralizados, excepto en las actividades docentes; salvo que se separe cuando menos noventa días antes del día de la elección.
 
 ###### ARTICULO 42.
 
@@ -807,37 +951,61 @@ La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y d
 
 El Gobierno de los Municipios se ejercerá por los Ayuntamientos que radicarán en las cabeceras de las Municipalidades.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 77.
 
-Los Ayuntamientos se compondrán de Munícipes electos por votación popular directa y no habrá ninguna autoridad intermedia entre estos organismos y el Gobierno del Estado.
+Los Ayuntamientos se compondrán de munícipes electos por votación popular directa, por el principio de mayoría relativa y el sistema de representación proporcional. No habrá ninguna autoridad intermedia entre estos organismos y el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
 ### CAPITULO II.. DE LA INVIOLABILIDAD DE ESTA CONSTITUCION
 
 ###### ARTICULO 78.
 
-Los Ayuntamientos estarán formados por un Presidente Municipal y los demás Munícipes que determine la Ley, los que tendrán sus respectivos suplentes.
+Los Ayuntamientos se integrarán por un Presidente Municipal, un Síndico Procurador y por Regidores de mayoría relativa y de representación proporcional, en el número que resulte de la aplicación a cada Municipio de las siguientes bases:
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1986)</small>
+I.- El número de Regidores de mayoría relativa y de representación proporcional será:
 
-Los Ayuntamientos de cada uno de los Municipios se integrarán con Regidores electos según el principio de votación mayoritaria relativa en el número que fije la Ley, y hasta con tres Regidores electos según el principio de representación proporcional. Las asignaciones de Regidores electos según el principio de representación proporcional en favor de los Partidos Políticos, se sujetarán a las bases generales siguientes y a lo que en lo particular disponga la Ley:
+a).- Los Municipios cuya población sea menor de doscientos cincuenta mil habitantes, tendrán cinco Regidores electos según el principio de mayoría relativa y hasta cinco Regidores de representación proporcional;
 
-I.- Los Municipios cuya población sea de 250,000 habitantes o menor tendrán hasta dos Regidores electos según el principio de representación proporcional;
+b).- Los Municipios cuya población se encuentre en el rango comprendido de doscientos cincuenta mil a quinientos mil habitantes, tendrán siete Regidores electos según el principio de mayoría relativa y hasta seis de representación proporcional;
 
-II.- Los Municipios cuya población exceda de 250,000 habitantes tendrán hasta tres Regidores electos según el principio de representación proporcional;
+c).- Los Municipios cuya población exceda de quinientos mil habitantes, tendrán ocho Regidores electos según el principios de mayoría relativa y hasta siete Regidores de representación proporcional;
 
-III.- Los Partidos Políticos deberán acreditar que participaron con planillas completas de candidatos a Munícipes en por lo menos dos Municipios;
+II.- Para que los partidos políticos o coaliciones tengan derecho a la asignación de Regidores por el principio de representación proporcional, deberán cumplir los siguientes requisitos:
 
-IV.- Los Partidos Políticos deben alcanzar cuando menos el uno y medio por ciento de la votación total emitida para todos los Partidos Políticos que contendieron en la elección del Ayuntamiento en el Municipio de que se trate;
+a).- Haber obtenido el registro de planilla completa de candidatos a munícipes en el Municipio que corresponda;
 
-V.- Al Partido que satisfaga los requisitos señalados en las dos Fracciones anteriores y siempre que ocupe el segundo o el tercer lugar en la votación, tendrá derecho a que se le acredite un Regidor electo según el principio de representación proporcional;
+b).- Haber obtenido por lo menos el uno punto cinco por ciento de la votación validamente emitida en la elección de munícipes correspondiente; y
 
-VI.- Al Partido que satisfaga los requisitos señalados en las Fracciones III y IV y siempre que ocupe el cuarto lugar en la votación, tendrá derecho a que se le acredite un Regidor electo según el principio de representación proporcional únicamente en los Municipios cuya población exceda de 250,000 habitantes. En ningún caso los Partidos Políticos se asignarán dos o más Regidores electos según el principio de representación proporcional y el proceso de su asignación y orden en su selección estará sujeto a lo que disponga la Ley respectiva.
+c).- No haber obtenido la constancia de mayoría respectiva.
 
-La Ley establecerá lo relativo al proceso para la elección de los Ayuntamientos.
+III.- La asignación de Regidores mediante el principio de representación proporcional se sujetará, a lo que disponga la Ley respectiva y mediante el siguiente procedimiento:
+
+a).- Determinará qué partidos políticos o coaliciones cumplen con lo estipulado en la fracción anterior;
+
+b).- Primeramente se asignará un Regidor a cada partido político o coalición con derecho a la representación proporcional.
+
+Posteriormente se asignará un Regidor a aquellos partidos políticos o coalición que habiendo cumplido con los requisitos de la Fracción II de este Artículo, hayan alcanzado el seis por ciento de la votación municipal emitida.
+
+En caso de que el número de partidos políticos o coaliciones sean mayores que las Regidurías por asignar, éstas se asignarán en orden descendente hasta agotarlas;
+
+c).- Si después de efectuada la operación indicada en el inciso anterior aún hubiera Regidurías por asignar, se realizarán las siguientes operaciones:
+
+1.- Se sumarán los votos de los partidos políticos o coaliciones con derecho a la representación proporcional, que servirá como base para obtener los nuevos porcentajes de participación a que se refiere el numeral siguiente;
+
+2.- Se deberá obtener el nuevo porcentaje de cada partido político o coalición, que tenga derecho a la asignación mediante el cociente natural que se obtiene multiplicando la votación municipal de cada partido político por cien, y dividiendo el resultado entre la suma de los votos de los partidos políticos participantes;
+
+3.- Se obtendrá la expectativa de integración al Ayuntamiento de cada partido político o coalición, con derecho a ello mediante el cociente natural que se obtiene multiplicando el nuevo porcentaje municipal de cada partido político o coalición, por el número de Regidurías de representación proporcional que corresponda y dividiéndolo entre cien.
+
+4.- Se le restará a cada partido político o coalición de su expectativa de integración al Ayuntamiento, la asignación efectuada conforme al inciso b) de esta fracción.
+
+d).- Se asignarán a cada partido político o coalición tantas Regidurías como números enteros se hayan obtenido de la operación realizada en el numeral cuatro del inciso anterior; y
+
+e).- En caso de que aún hubieran Regidurías por repartir, se asignarán a los partidos políticos o coaliciones que conserven los restos mayores, después de deducir las asignaciones que se indican en el inciso anterior.
+
+Los integrantes de los Ayuntamientos contarán con sus respectivos suplentes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
@@ -845,21 +1013,25 @@ La Ley establecerá lo relativo al proceso para la elección de los Ayuntamiento
 
 Para ser miembro de un Ayuntamiento, con la salvedad de que el Presidente Municipal debe tener 25 años cumplidos el día de la elección, se requiere:
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
-I.- Ser ciudadano mexicano por nacimiento, hijo de padres mexicanos por nacimiento.
+I.- Ser ciudadano mexicano por nacimiento e hijo de madre o padre mexicanos.
 
-Aquellos ciudadanos candidatos a Munícipes Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con el Certificado que expida en su caso, la Secretaría de Relaciones Exteriores del Gobierno Federal, fechado con anterioridad al día en que cumplan 21 años de edad.
+Aquellos ciudadanos candidatos a Munícipes Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con el Certificado que expida en su caso, la Secretaría de Relaciones Exteriores del Gobierno Federal, fechado con anterioridad al día en que cumplan 21 años de edad;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
-II.- Tener arraigo o vecindad en el Municipio no menor de quince años inmediatos anteriores al día de la elección.
+II.- Tener vecindad en el Municipio con residencia efectiva, de por lo menos diez años inmediatos anteriores al día de la elección;
 
-El término de arraigo y vecindad no se interrumpe cuando en el ejercicio de un cargo público, se deba residir fuera del territorio del Estado.
+La vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un cargo de dirección general de partido político, por motivo de estudios, o por causas ajenas a su voluntad, se tenga que residir fuera del Municipio;
 
-III.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
-IV.- No tener empleo, cargo o comisión del Estado o del Gobierno Federal, con excepción de los docentes.
+III.- No ser ministro de cualquier culto religioso, a menos que se separe en los términos que establece la Ley de la materia;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+IV.- No tener empleo, cargo o comisión en el gobierno federal, estatal o municipal, así como en los organismos descentralizados, excepto en las actividades docentes; salvo que se separe cuando menos noventa días antes del día de la elección;
 
 V.- Estar en pleno goce de sus derechos políticos.
 
@@ -1069,7 +1241,7 @@ No se requerirá declaración de procedencia del Congreso del Estado cuando algu
 
 Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados por el Artículo 94, se procederá de acuerdo con lo dispuesto en dicho Precepto.
 
-Las Leyes sobre Responsabilidades Administrativas de los Servidores Públicos determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las Leyes, consistirán en suspensión, destitución e inhabilitación, así como sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la Fracción III del Artículo 92 pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+Las Leyes sobre Responsabilidades Administrativas de los Servidores Públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las Leyes, consistirán en suspensión, destitución e inhabilitación, así como sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la Fracción III del Artículo 92 pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
 El procedimiento de juicio político solo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
@@ -1203,7 +1375,7 @@ V.- La Oficina del Registro de Electores, teniendo en cuenta los datos del Censo
 
 VI.- En cada una de las cabeceras de Distrito Electoral funcionará un Comité Distrital Electoral, con jurisdicción en todo el Distrito y con las facultades que a los Comités Distritales Electorales señala la Ley Electoral Federal, aplicadas sus disposiciones en lo conducente.
 
-VII.- Los Comités Distritales Electorales estarán integrados por un presidente, un secretario y un vocal, que serán designados por la Comisión Electoral del Estado, debiendo recaer los nombramientos en personas que reúnan los requisitos del artículo 20 de la Ley Electoral Federal.
+VII.- Los Comités Distritales Electorales estarán integrados por un presidente, un secretario y un vocal, que serán designados por la Comisión Electoral del Estado, debiendo recaer los nombramientos en personas que reúnan los requisitos del artículo 20 de la Ley Electoral Federal;
 
 En cada Comité Distrital los Partidos Políticos a que se refiere la base IX podrán acreditar, cada uno de ellos, un representante propietario y un suplente. Los representantes serán citados a las sesiones que celebre el Comité y podrán intervenir, sin voto, en sus deliberaciones. Las designaciones de representantes ante los Comités Distritales serán registrados en la Comisión Electoral del Estado.
 
@@ -1468,3 +1640,11 @@ La presente Reforma entrará en vigor, al día siguiente de su publicación en e
 ###### ARTICULO SEGUNDO.
 
 Quedan sin efecto todas las disposiciones que se opongan o contradigan, a lo establecido por el presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 1994.
+
+PRIMERO.- Remítase a los Ayuntamientos del Estado la presente Iniciativa para los efectos del Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- El Congreso del Estado a través de su Departamento Jurídico procederá a integrar una Mesa de Consensos en la que participen los representantes de las Fracciones Parlamentarias y del Ejecutivo del Estado, para que se aboque, en base a las nuevas disposiciones constitucionales a la elaboración de la Ley reglamentaria correspondiente.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, salvo la reforma al Artículo 38 que entrará en vigor el día primero de octubre de mil novecientos noventa y cinco.
