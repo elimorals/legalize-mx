@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-general-del-h-tribunal-superior-de-3664"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-08-30"
-last_updated: "1995-08-22"
+last_updated: "1996-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # REGLAMENTO INTERIOR GENERAL DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, DE LOS JUZGADOS DE PRIMERA INSTANCIA, MENORES Y DE CONCILIACION Y DE LAS DEMAS DEPENDENCIAS DEL PROPIO TRIBUNAL -ANTES REGLAMENTO INTERIOR GENERAL DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, DE LOS JUZGADOS DE PRIMERA INSTANCIA, DE LOS JUZGADOS MENORES DE LAS DEPENDENCIAS ADMINISTRATIVAS DEL PROPIO TRIBUNAL-
 
-REGLAMENTO INTERIOR GENERAL DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE CAMPECHE, DE LOS JUZGADOS DE PRIMERA INSTANCIA, MENORES Y DE CONCILIACIÓN Y DE LAS DEMÁS DEPENDENCIAS DEL PROPIO TRIBUNAL
+REGLAMENTO INTERIOR GENERAL DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, DE LOS JUZGADOS DE PRIMERA INSTANCIA, MENORES Y DE CONCILIACIÓN Y DE LAS DEMÁS DEPENDENCIAS DEL PROPIO TRIBUNAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 1995.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 1996.
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el viernes 30 de agosto de 1991.
 
@@ -33,7 +33,9 @@ ACUERDO DEL TRIBUNAL PLENO DEL DÍA 26 DE AGOSTO DE 1991.
 
 En uso de las facultades que le otorga el Artículo 18 fracciones II y XXII de la Ley Orgánica del poder Judicial del Estado, expide el presente Reglamento.
 
-REGLAMENTO INTERIOR GENERAL DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, DE LOS JUZGADOS DE PRIMERA INSTANCIA, MENORES Y DE LAS DEPENDENCIAS DEL PROPIO TRIBUNAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+REGLAMENTO INTERIOR GENERAL DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, DE LOS JUZGADOS DE PRIMERA INSTANCIA, MENORES Y DE CONCILIACION Y DE LAS DEMAS DEPENDENCIAS DEL PROPIO TRIBUNAL
 
 ## TÍTULO PRIMERO
 
@@ -43,7 +45,7 @@ REGLAMENTO INTERIOR GENERAL DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, DE 
 
 El Tribunal Superior de Justicia, se integra con la estructura determinada por la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 1994)</small>
 
@@ -213,9 +215,11 @@ Los Magistrados podrán retirarse de sus respectivas Salas cuando hayan concluid
 
 Las faltas accidentales o temporales de los demás magistrados se cubrirán por el magistrado supernumerario que al efecto designe el Pleno.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 ###### Artículo 24.
 
-Para que funcionen las Salas del Tribunal, se necesita la concurrencia de los tres Magistrados Numerarios que la integran y las resoluciones se tomarán por mayoría de votos de los Magistrados presentes. El Magistrado Presidente no será ponente, salvo el caso del artículo 36 de la ley Orgánica del Poder Judicial.
+Para que funcionen las Salas del Tribunal, se necesita la concurrencia de los Tres Magistrados que la integran, todos ellos serán ponentes y las resoluciones se tomarán por mayoría de votos de los Magistrados presentes.
 
 ###### Artículo 25.
 
@@ -239,7 +243,9 @@ Si el proyecto presentado en segunda ocasión no alcanzase mayoría, se turnará
 
 Corresponde a los Presidentes de Sala:
 
-a).- Tramitar todos los asuntos de la competencia de la Sala hasta ponerlos en estado de resolución; y distribuir por riguroso turno los negocios entre los demás miembros de la Sala, para su estudio y presentación oportuna del proyecto de resolución que en cada uno debe dictarse;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+a).- Tramitar todos los asuntos de la competencia de la Sala hasta ponerlos en estado de resolución; y distribuir los asuntos entre sus integrantes de las mismas (sic) para su estudio y presentación oportuna del proyecto de resolución que en cada uno debe dictarse;
 
 b).- Presidir las audiencias de la Sala, cuidar el orden y policía de la misma y dirigir los debates;
 
@@ -353,7 +359,7 @@ II.- Remitir al Presidente del Tribunal, a los Presidentes de las Salas, y al Ma
 
 III.- Remitir a las autoridades federales, estatales y municipales los datos e informes estadísticos que soliciten conforme a la ley;
 
-IV.- Visitar trimestralmente los juzgados menores de sus distritos y remitir acta circunstanciada de la práctica de esas visitas Tribunal Pleno;
+IV.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 1996)
 
 V.- Llevar al corriente los libros de gobierno y control que determinen el reglamento interior de los juzgados y el Tribunal Superior de Justicia;
 
@@ -505,15 +511,157 @@ Sin embargo, no podrán salir de su jurisdicción, sin licencia previa del presi
 
 Los Jueces Menores tendrán las mismas obligaciones que los jueces de primera instancia, previstas en el artículo 59 de la Ley Orgánica del Poder Judicial, en la medida que les resulten aplicables y conforme las precise este reglamento y el Tribunal en Pleno.
 
-### CAPÍTULO ÚNICO. DESCANSOS, VACACIONES Y LICENCIAS
-
-###### Artículo 55.
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 Los secretarios, actuarios y personal subalterno de los juzgados menores tendrán las mismas obligaciones que los funcionarios y empleados de la misma categoría de los juzgados de primera instancia, en la medida que las determine este reglamento y el Tribunal en Pleno.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO V. DE LOS JUZGADOS DE CONCILIACIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 55.
+
+El personal de los juzgados se compondrá de un juez, un secretario y demás personal necesario que determine el Tribunal en Pleno, conforme a las necesidades del servicio y acorde a las previsiones del Presupuesto.
+
+Por cada Juez y Secretario (a) se designará a un suplente quienes entrarán en funciones en ausencia de los titulares.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 55-A.
+
+Los jueces de conciliación actuarán con un secretario de acuerdos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 55-B.
+
+Los jueces de conciliación serán designados por el Tribunal en Pleno a propuesta del Gobernador del Estado, pudiendo ser confirmados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 55-C.
+
+Los jueces de conciliación tendrán su sede en: las poblaciones de los municipios que a continuación se mencionan:
+
+I.- Municipio de Calkiní, con sede en: Bécal y tendrá competencia en la población de Bécal; con sede en Calkiní y tendrá competencia en las poblaciones de Calkiní, y Tepakán; con sede (sic) Dzitbalché y tendrá competencia en las poblaciones de Bacabchén, Dzitbalché y Santa Cruz Pueblo; con sede en Nunkiní y tendrá competencia en la población de Nunkiní; con sede en San Antonio Sahcabchén y tendrá competencia en las poblaciones de San Antonio Sahcabchén, Concepción, Chunhuás y Xkakoch; con sede en Santa Cruz Ex-Hacienda y tendrá competencia en las poblaciones de Santa Cruz Ex-Hacienda, San Nicolás, Tankuché, Santa María, Pucnachén e Isla Arena.
+
+II.- Municipio de Campeche, con sede en: Hampolol y tendrá competencia en las poblaciones de Hampolol, Bethania, Chemblás y San Francisco Kobén; con sede en Pich y tendrá competencia en las poblaciones de: Pich, Alfredo V. Bonfil, Bolonchén Cahuich, Carlos Cano Cruz, Kikab, Melchor Ocampo, Pénjamo, San Luciano y San Miguel Allende; con sede en San Antonio Cayal y tendrá competencia en las poblaciones de San Antonio Cayal, Tikinmul, Crucero Oxá, Nilchí, Pueblo Nuevo y San Camilo; con sede en Tixmucuy y tendrá competencia en las poblaciones de Tixmucuy, Adolfo Ruiz Cortines, Nohakal, Pocyaxum y Uzahzil Edzná; con sede en Uayamón y tendrá competencia en las poblaciones de Uayamón, Hobomó y Mucuychakán.
+
+III.- Municipio de Champotón, con sede en: Champotón y tendrá competencia en las poblaciones de Champotón, Canasayab, el Zapote, Moquel, Paraíso, Pixtún, Puntaxén, San Antonio del Río, San Miguel, San Juan Carpizo, Vicente Guerrero, Villa de Guadalupe, Villa Mar y Ulumal; con sede en Carrillo Puerto y tendrá competencia en las poblaciones de Carrillo Puerto, A-kim-pech, Chac-cheíto, Chilán Balán, Kukulkán, López Mateos, Nuevo Paraíso y Yohaltún; con sede en Constitución y tendrá competencia en las poblaciones de Constitución, Conhuás, Felipe Angeles, Kilómetro 120, Pablo García, Puebla de Morelia, Santa Lucía y Xbonil; con sede en Hool y tendrá competencia en las poblaciones de Hool y Santa Cruz de Rovira; con sede en Seybaplaya y tendrá competencia en las poblaciones de: Seyba playa, Ciudad del Sol, Haltunchén, Villa Madero y Xkeulil; con sede en Sihochac y tendrá competencia en las poblaciones de: Siho Chac, Arellano, La Joya, San José Carpizo Número 1 y San José Carpizo Número 2; con sede en el Ejido Altamira de Zináparo y tendrá competencia en las poblaciones de: Altamira de Zináparo, Chan Laguna, Jobal y Maravillas; con sede en el Ejido Centenario y tendrá competencia en las poblaciones de: Ejido Centenario, Benito Juárez, Flor de Chiapas, López Mateos, López Portillo, Laguna Grande y Silvituc; con sede en el Ejido 5 de Febrero y tendrá competencia en las poblaciones de: Ejido 5 de Febrero, Miguel Colorado y Pixoyal; con sede en el Ejido Aquiles Serdán y tendrá competencia en las poblaciones de: Ejido Aquiles Serdán, Cerrito, Dzacabuchén, Reforma Agraria y Xbacab; con sede en el Ejido Salinas de Gortari y tendrá competencia en las poblaciones de: Ejido Salinas de Gortari, Providencia, López Rayón, Buena Ventura, Dziblaché de Castellot, Valle de Quetzalcóatl y José López Portillo.
+
+IV.- Municipio de Hecelchakán, con sede en Hecelchakán y tendrá competencia en las poblaciones de: Hecelchakán, Blanca Flor, Dzitnup y Santa Cruz; con sede en Poc Boc y tendrá competencia en la población de Poc Boc; con sede en: Pomuch y tendrá competencia en las poblaciones de: Pomuch, Chunckanán, Villa de Pomuch y Sodzil; con sede en San Vicente Cumpich y tendrá competencia en las poblaciones de Cumpich, Dzotchén, Nohalal, Montebello, Yalnón.
+
+V.- Municipio de Hopelchén, con sede en Bolonchén de Rejón y tendrá competencia en las poblaciones de: Bolonchén de Rejón, Chun-Cedro, Chunhuamil, Chunyaxnic, Huechil, San Antonio Yaxché, Xbilincoc, Xcalot-Akal, Xcanalhantún, Xculoc y Xtampac; con sede en Cristóbal Colón y tendrán competencia en las poblaciones de: Cristóbal Colón, 11 de Mayo, 22 de Abril, Costa Maya, El Manantial, Las Delicias, La Guadalupe, La Victoria, La Virgencita de la Candelaria, Narciso Mendoza, Niños Héroes, Nuevo San Miguel, Ricardo Pairo, Unidad y Trabajo; con sede en Chunchintok, y tendrá competencia en las poblaciones de: Chunchintoc (sic), Cancabchén, Francisco J. Mújica y Xkir; con sede en Dzitbalchén y tendrá competencia en las poblaciones de: Dzitbalchén, Chenkoh, Konchén y Pakchén; con sede en Hopelchén y tendrá competencia en las poblaciones de: Hopelchén, El Poste, Halchakán, Katab, Rancho Sosa, San Juan Bautista-Sahacabchén, Santa Rita Becanchén, Xcupil Cacab y Yaxché-Akal; con sede en Ich-ek y tendrá competencia en las poblaciones de: Ich-ek, Crucero San Luis y San Francisco Suc-Tuc; con sede en Iturbide o Vicente Guerrero y tendrá competencia en las poblaciones de: Iturbide o Vicente Guerrero, Chembalam y Ramón Corona; con sede en Josefa Ortiz de Domínguez y tendrá competencia en las poblaciones de: Josefa Ortiz de Domínguez, 21 de Mayo, 16 de Septiembre, Arroyo Negro, Carlos A. Madrazo, Crescencio Rejón, El Tesoro, José María Morelos, Justo Sierra, Lázaro Cárdenas 2, Los Alacranes, Los Angeles, Nuevo Paraíso, Pioneros del Río, Santa Rosa, Nueva Lucha y Nuevo Progreso; con sede en Ley del Fomento Agropecuario, y tendrá competencia en las poblaciones de: Ley de Fomento Agropecuario, Bacilio Guillermo P. Caña Brava, Carmen 2, Dos Naciones, Nuevo San José, Quiché (las Pailas) y San Isidro; con sede en Ukum y tendrá competencia en las poblaciones de: Ukum, Chanchem, Chun-ek, No-ha, Pach-Uitz, Soltún, Xkahá, Xmabén y Xmejía; con sede en Xpujil y tendrá competencia en las poblaciones de: Xpujil, 20 de Noviembre, Alvaro Obregón, Becán, Bel-ha, Campanario, Centauros del Norte, Dos Lagunas, El Tepeyac, El Refugio, Eugenio Echeverría Castellot 2, Flores Magón, Gustavo Díaz Ordaz, La Ceiba, La Lucha, La Mancolona, Las Delicias, Manuel Castilla Brito, Nueva Vida, Nuevo Bécal y Tomás Aznar Barbachano;
+
+VI.- Municipio de Tenabo, con sede en Emiliano Zapata y tendrá competencia en las poblaciones de: Emiliano Zapata, San Pedro Corralché y Santa Rita Corralché; con sede en Tenabo y tendrá competencia en las poblaciones de: Tenabo, Kankí, Santa Rosa, X'cuncheíl; con sede en Tinún y tendrá competencia en las poblaciones de: Tinún y Nache-ha.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 55-D.
+
+Para ser Juez conciliador y secretario se requiere reunir los requisitos que señala el artículo 75-3 de la Ley Orgánica del Poder Judicial del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 55-E.
+
+Los jueces conciliadores y sus secretarios rendirán la protesta ante el titular del Juzgado Menor que tenga Jurisdicción en el territorio del Distrito Judicial en que se ubique y a falta de él ante el Juez de Primera Instancia que designe el Pleno.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 55-F.
+
+Los jueces conciliadores tendrá (sic) las obligaciones y atribuciones siguientes:
+
+I.- En materia penal, conocerán de todos aquellos asuntos que ocurran dentro de su circunscripción territorial, cuya persecución requiera de querella y sólo ameriten de amonestación, apercibimiento, caución de no ofender o multa como sanción.
+
+II.- En materia civil y familiar conocerán de los conflictos, cuya cuantía o naturaleza no requiera inexcusablemente del conocimiento de los jueces de primera instancia o menores.
+
+III.- Conocerán con carácter provisional hasta en tanto tenga conocimiento un Juez competente, de las diligencias relativas a custodia de menores, separación material de cónyuges, y fijación y pago de pensión alimentaria.
+
+IV.- Practicar dentro del territorio de su circunscripción territorial, las diligencias que les encomiende el Pleno o las salas del Tribunal, los Jueces de Primera Instancia, Menores u otras autoridades judiciales, atendiendo los exhortos, requisitorias y despachos que reciba.
+
+V.- Rendirán un informe por escrito cada tres meses de los asuntos que hayan conocido, a los titulares del Juzgado Menor o de Primera Instancia que tenga (sic) Jurisdicción en su circunscripción territorial, para que éstos a su vez lo hagan del conocimiento del Tribunal Pleno.
+
+VI.- Excusarse de conocer de aquellos asuntos en que tengan interés directo, o sean parte su cónyuge, parientes consanguíneos en línea recta ascendente o descendente sin limitación de grado, o en línea colateral hasta el tercer grado, o por afinidad hasta el segundo grado; debiendo de inmediato en estos casos, hacer la respectiva comunicación al Juez de Primera Instancia o Menor que tenga jurisdicción en su circunscripción territorial de su ubicación para que éste ordene al suplente se avoque al conocimiento del asunto, previa protesta de Ley.
+
+VII.- Recibir toda demanda o denuncia de conflictos que competen a su jurisdicción así como recepcionar y desahogar las pruebas que se ofrezcan y oír los alegatos de las partes.
+
+VIII. - Las demás que les atribuyan las leyes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 55-G.
+
+Los Jueces conciliadores permanecerán en su sede, pero podrán practicar diligencias fuera de ella pero dentro de su circunscripción territorial, informando al Juez Menor o de Primera Instancia a la brevedad posible.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 55-H.
+
+Los secretarios de los Juzgados de conciliación tendrán a su cargo levantar las actuaciones, dar fe de las determinaciones del Juez, así como notificarlas personalmente a los interesados, expidiéndoles cuando lo soliciten copias certificadas de los asuntos en que sean partes, asentando constancia de ello en el legajo o expediente.
+
+Deberán asimismo resguardar bajo su responsabilidad en el archivo respectivo, los expedientes que se tramiten en el Juzgado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 55-I.
+
+Los secretarios, también deberán excusarse en los mismos casos y en los términos en que deba hacerlo el Juez conciliador.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 55-J.
+
+Los jueces conciliadores bajo ninguna circunstancia conocerán de asuntos de naturaleza mercantil o decidirán en negocios atinentes a divorcio ya sea voluntario o necesario, nulidad de matrimonio, filiación, adopción, tutela, sucesión testamentaria o legítima y conflictos sobre propiedad o tenencia de la tierra.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 55-K.
+
+En los conflictos de su competencia, el Juez promoverá la conciliación y concertación entre las partes para darles una solución definitiva, llevándose a cabo el procedimiento preferentemente en la lengua indígena.
+
+En todo procedimiento deberá tomarse en cuenta la identidad, cosmovisión, prácticas culturales, usos y costumbres de la comunidad indígena.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 55-L.
+
+Los jueces menores o de primera instancia en su carácter de visitadores a los juzgados de conciliación que sean designados por el pleno, deberán practicar visitas semestrales que permitan conocer las situaciones que originan retraso o que constituyen obstáculos para una ágil administración de justicia.
+
 ## TÍTULO CUARTO
 
-### CAPÍTULO ÚNICO. DE LA INAMOVILIDAD JUDICIAL
+### CAPÍTULO ÚNICO. DESCANSOS, VACACIONES Y LICENCIAS
 
 ###### Artículo 56.
 
@@ -587,7 +735,7 @@ c).- Hasta noventa días cuando se tenga desde más de cinco años continuos de 
 
 ## TÍTULO QUINTO
 
-### CAPÍTULO ÚNICO. VISITAS DE INSPECCIÓN A LAS DEPENDENCIAS ADMINISTRATIVAS, JUDICIALES Y CENTROS DE RECLUSIÓN
+### CAPÍTULO ÚNICO. DE LA INAMOVILIDAD JUDICIAL
 
 ###### Artículo 66.
 
@@ -627,7 +775,7 @@ Si al concluir los seis años continuos de servicios del Juez de Primera Instanc
 
 ## TÍTULO SEXTO
 
-### CAPÍTULO I. DE LOS AUXILIARES DE LA ADMINISTRACIÓN DE JUSTICIA
+### CAPÍTULO ÚNICO. VISITAS DE INSPECCIÓN A LAS DEPENDENCIAS ADMINISTRATIVAS, JUDICIALES Y CENTROS DE RECLUSIÓN
 
 ###### Artículo 75.
 
@@ -769,13 +917,13 @@ El Presidente de la Sala Penal que designe el Pleno practicará a los reclusorio
 
 ## TÍTULO SÉPTIMO
 
-### CAPÍTULO II. DE LOS PERITOS
+### CAPÍTULO I. DE LOS AUXILIARES DE LA ADMINISTRACIÓN DE JUSTICIA
 
 ###### Artículo 88.
 
 Los Jueces para designar síndicos e interventores de concursos y quiebras, albaceas e interventores de sucesiones, tutores y curadores que deban intervenir en el procedimiento, tendrán especial cuidado de que no tengan ninguna de las restricciones a que alude el Código de Procedimientos Civiles y además que sean ciudadanos mexicanos en pleno goce y ejercicio de sus derechos, de notoria honradez y responsabilidad, y sin antecedentes penales por delitos intencionales.
 
-### CAPÍTULO III. DE LOS PERITOS MÉDICOS LEGISTAS
+### CAPÍTULO II. DE LOS PERITOS
 
 ###### Artículo 89.
 
@@ -841,9 +989,7 @@ El Secretario General llevará un libro en el que se asentará: nombre del perit
 
 En los juicios civiles o procedimientos penales, se les proveerá de intérprete en los términos de los Códigos de Procedimientos aplicables, a la persona que no sepa hablar el idioma español y tenga que ser examinada en esos juicios.
 
-### CAPÍTULO I. DE LAS DEPENDENCIAS ADMINISTRATIVAS DEL H. TRIBUNAL SUPERIOR DE JUSTICIA
-
-DISPOSICIONES GENERALES
+### CAPÍTULO III. DE LOS PERITOS MÉDICOS LEGISTAS
 
 ###### Artículo 99.
 
@@ -863,7 +1009,9 @@ Los Peritos Médicos Legistas tienen las obligaciones prescritas en el Artículo
 
 ## TÍTULO OCTAVO
 
-### CAPÍTULO II. DEL ARCHIVO JUDICIAL DEL ESTADO
+### CAPÍTULO I. DE LAS DEPENDENCIAS ADMINISTRATIVAS DEL H. TRIBUNAL SUPERIOR DE JUSTICIA
+
+DISPOSICIONES GENERALES
 
 ###### Artículo 102.
 
@@ -877,7 +1025,7 @@ Los encargados de las dependencias administrativas del H. Tribunal Superior de J
 
 Los empleados y funcionarios del Tribunal Superior de Justicia serán responsables de los bienes que les entreguen en comodato por las dependencias administrativas que regulan este título, quien los extravíe, destruya o dañe, cubrirá su precio en los términos que fije el Presidente del Tribunal, sin que por ello adquiera la propiedad del objeto.
 
-### CAPÍTULO III. DE LA DIRECCIÓN DE RECURSOS MATERIALES
+### CAPÍTULO II. DEL ARCHIVO JUDICIAL DEL ESTADO
 
 ###### Artículo 105.
 
@@ -911,7 +1059,7 @@ Solamente por orden escrita de la autoridad judicial que lo haya remitido, de qu
 
 El Jefe del Archivo Judicial está facultado para expedir, mediante orden judicial o acuerdo expreso del Presidente del Tribunal Superior de Justicia, copia certificada de los documentos y constancias de los expedientes archivados.
 
-### CAPÍTULO IV. DE LA OFICINA DEL SERVICIO DE FOTOCOPIADO
+### CAPÍTULO III. DE LA DIRECCIÓN DE RECURSOS MATERIALES
 
 ###### Artículo 111.
 
@@ -927,7 +1075,7 @@ IV.- Supervisar y controlar las actas correspondientes a la recepción, guarda, 
 
 V.- Todas las demás que le encomienden el Pleno y el Presidente del Tribunal.
 
-### CAPÍTULO V. DIRECCIÓN DE INFORMÁTICA
+### CAPÍTULO IV. DE LA OFICINA DEL SERVICIO DE FOTOCOPIADO
 
 ###### Artículo 112.
 
@@ -981,7 +1129,7 @@ I.- Proporcionar de manera rápida y eficiente el servicio; y
 
 II.- Expedir copias mediante riguroso orden de solicitud, salvo que reciban instrucciones especiales del Presidente o de la persona por él designada.
 
-### CAPÍTULO VI. DE LA DIRECCIÓN DE CONTABILIDAD
+### CAPÍTULO V. DIRECCIÓN DE INFORMÁTICA
 
 ###### Artículo 119.
 
@@ -1021,7 +1169,7 @@ XIV.- Comunicarse con profesionales en otras áreas de la materia para conocer p
 
 XV.-Todas las demás que le encomienden el Pleno y el Presidente del Tribunal.
 
-### CAPÍTULO VII. DE LA COMISION DE GOBIERNO DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA
+### CAPÍTULO VI. DE LA DIRECCIÓN DE CONTABILIDAD
 
 ###### Artículo 121.
 
@@ -1060,6 +1208,8 @@ XIII.- Gestionar con proveedores de bienes y servicios los anticipos que requier
 XIV.-Realizar y promover actividades para la capacitación y superación del personal del Departamento de Contabilidad; y
 
 XV.-Todas las demás que le encomienden el Pleno y e l Presidente del Tribunal.
+
+### CAPÍTULO VII. DE LA COMISION DE GOBIERNO DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA
 
 ###### Artículo 123.
 
@@ -1123,7 +1273,7 @@ EL SECRETARIO GENERAL DE ACUERDOS DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL EDO.
 
 LIC. WALDO RINCON RINCON
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 25 DE JULIO DE 1994.
 
@@ -1136,3 +1286,9 @@ P.O. 22 DE AGOSTO DE 1995.
 Primero.- La presente reforma entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
 
 Segundo.- Con fundamento en los Artículos 3 y 4 del Código Civil vigente del Estado, publíquese este acuerdo en el Periódico Oficial del Gobierno Constitucional del Estado de Campeche, y hágase del conocimiento de los Organos del Poder Judicial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1996.
+
+PRIMERO:- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado, en lo que corresponde a sus puntos PRIMERO, SEGUNDO, TERCERO y CUARTO, y entrará en vigor el día 1° de Enero de 1997, en lo que corresponde a su punto QUINTO.
+
+SEGUNDO:- Con fundamento, en los artículos 3 y 4 del Código Civil vigente en el Estado, publíquese este acuerdo en el Periódico Oficial del Gobierno Constitucional del Estado de Campeche por una sola vez.- Cúmplase.- Así lo acordó el Pleno del H. Tribunal Superior de Justicia del Estado.-
