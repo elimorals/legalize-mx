@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1976-04-28"
+last_updated: "1976-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1976.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -992,37 +992,37 @@ VII.- Por los ingresos provenientes de empréstitos, y
 
 VIII.- Por los demás bienes e ingresos a que tenga derecho.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1970)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1976)</small>
 
 ###### Artículo 81.
 
 Los encargados directos de la planeación económica y del programa para obtener los ingresos y el manejo de la hacienda pública, serán:
 
-a).- El Secretario de Promoción Económica, tendrá las siguientes facultades:
+a).- El Secretario de Promoción Económica quien tendrá las siguientes atribuciones:
 
 I.- Proyectar el fomento y desarrollo económico del Estado.
 
-II.- Representar al Estado para que los capitales que le correspondan en organismos descentralizados y empresas de participación estatal, den mejores rendimientos.
+II.- Programar, coordinar y autorizar las inversiones públicas de acuerdo con los planes de desarrollo establecidos.
 
-III.- Programar y coordinar las inversiones públicas de acuerdo con los planes de desarrollo establecidos.
+III.- Representar al Estado para que los capitales que le correspondan en organismos descentralizados y empresas de participación estatal den mejores rendimientos.
 
-IV.- Realizar la inversión de los fondos públicos.
+IV.- La promoción económica en general.
 
-V.- Vigilar la aplicación de los fondos públicos.
+V.- Las demás que le asignen las leyes de la materia y las que le señale el Gobernador.
 
-VI.- Las adquisiciones de todas clases.
-
-VII.- La promoción económica en general.
-
-VIII.- Las demás que le asignen las leyes de la materia y las que le señale el Gobernador.
-
-b).- El Secretario de Finanzas tendrá las siguientes atribuciones:
+b).- El Secretario de Finanzas tendrá las siguientes facultades:
 
 I.- La recaudación de los fondos públicos, su control y vigilancia.
 
-II.- Las que le otorgue la Ley General de Hacienda, las Leyes Especiales de Impuestos y Contribuciones, la Ley de Ingresos para cada año, la Ley de lo Contencioso Administrativo cuando tenga aplicación en materia hacendaria, los reglamentos, circulares y demás disposiciones derivadas y conexas, así como la Legislación Presupuestaria.
+II.- Las que le otorgue la Ley General de Hacienda, las Leyes Especiales, de Impuestos y Contribuciones, la Ley de Ingresos para cada año; la Ley de lo Contencioso Administrativo cuando tenga aplicación en materia hacendaria, los reglamentos, circulares y demás disposiciones derivadas y conexas, así como la Legislación Presupuestaria.
 
-III.- Las demás que le señale el Gobernador.
+III.- Realizar la inversión de los Fondos públicos.
+
+IV.- Vigilar la aplicación de los Fondos públicos.
+
+V.- Las adquisiciones de todas clases.
+
+VI.- Las demás que le asignen las leyes de la materia y las que le señale el Gobernador.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1970)</small>
 
@@ -1679,3 +1679,17 @@ PRIMERO.- La presente reforma constitucional entrará en vigor el mismo día de 
 SEGUNDO.- Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
 
 TERCERO.- Remítase al Ejecutivo para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política Local.
+
+P.O. 15 DE DICIEMBRE DE 1976.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las prescripciones contenidas en el presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Remítase al Ejecutivo del Estado para los efectos a que se refiere el Artículo 70 Fracción XVII de la Constitución Política Local.
