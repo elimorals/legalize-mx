@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1985-05-20"
+last_updated: "1985-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 1985.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 1985.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -579,13 +579,15 @@ e).- Que la erección del nuevo Municipio sea aprobada por las dos terceras part
 
 II.- Cambiar la residencia de los poderes del Estado, pero sólo a iniciativa fundada del Poder Ejecutivo y por el voto de las dos terceras partes de los diputados presentes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 1983)</small>
 
 III.- Imponer las contribuciones que deban corresponder al Estado y a los Municipios, fijando anualmente los ingresos y egresos que fueren necesarios para cubrir los presupuestos que se sometan a su consideración y aprobación por el Ejecutivo; estableciendo los ingresos y egresos relativos a aquel y los ingresos que correspondan a éstos; determinar en los términos de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución, las participaciones que correspondan a los Municipios en los impuestos federales y estatales; legislar sobre la integración del patrimonio del Estado y de los Municipios; y legislar en todo lo concerniente a los diversos ramos de la Administración Pública del Estado;
 
-IV.- Expedir todas las leyes que sean necesarias para hacer efectivas las facultades otorgadas por esta Constitución a los Poderes del Estado;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1985)</small>
+
+IV.- Expedir leyes sobre planeación estatal del desarrollo económico y social y sobre programación, promoción, concertación y ejecución de acciones de orden económico.
+
+Expedir todas las leyes que sean necesarias para hacer efectivas las facultades otorgadas por esta Constitución a los Poderes del Estado;
 
 V.- Acordar las bases sobre las cuales el Ejecutivo puede celebrar empréstitos sobre el crédito del Estado, salvo los casos a que se refiere la fracción VIII del Artículo 117 de la Constitución Federal;
 
@@ -601,9 +603,13 @@ IX.- Expedir su reglamento interior;
 
 X.- Recibir la protesta del Gobernador, Magistrados y Diputados;
 
-XI.- Resolver acerca de las renuncias del Gobernador, los Magistrados y los Diputados, que deben ser fundadas en causa grave;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
-XII.- Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia, expedidos por el Gobernador del Estado;
+XI.- Resolver acerca de las renuncias del Gobernador y los Diputados, que deben ser fundadas en causa grave;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1985)</small>
+
+XII.- Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia, expedidos por el Gobernador del Estado; y resolver acerca de sus renuncias, mismas que nunca serán aceptadas en número y tiempos que propicien la desintegración de ese Tribunal;
 
 XIII.- Declarar justificadas o nó, por mayoría absoluta de votos, las solicitudes de destitución de autoridades judiciales que hiciere el Gobernador del Estado, en los términos del artículo 86 de este Ordenamiento;
 
@@ -631,7 +637,7 @@ XXII.- Revisar y aprobar las cuentas de los ingresos y egresos de cada Municipio
 
 XXIII.- Conocer como Jurado de Declaración en los delitos oficiales de que se acuse al Gobernador del Estado, a los Diputados y a los Secretarios de los diversos Ramos de la Administración Pública Estatal, y como Jurado de Declaraciones y de Sentencia, en los delitos oficiales cometidos por los Magistrados del Tribunal Superior de Justicia y el Procurador General de Justicia;
 
-XXIV.- Erigirse en Jurado para declarar si ha o no lugar a proceder contra los altos funcionarios públicos, en caso de delitos del orden común.
+XXIV.- Erigirse en Jurado para declarar si ha o no lugar a proceder contra los altos funcionarios públicos, en caso de delitos del orden común;
 
 XXV.- Dictar resoluciones económicas relativas a su régimen interior;
 
@@ -663,11 +669,9 @@ XXXII.- Autorizar la enajenación o gravamen de los bienes de los Municipios;
 
 XXXIII.- Nombrar, a propuesta del Gobernador, una Junta Municipal compuesta de tres personas, cuando debiendo renovarse un Ayuntamiento no se hubiese celebrado su elección en la fecha correspondiente, o habiendo sido elegido no se presentare oportunamente al ejercicio de sus funciones. Dicha Junta se encargará provisionalmente de las funciones del Ayuntamiento hasta en tanto se celebren elecciones extraordinarias que deberán efectuarse en un plazo no mayor de sesenta días. Las mismas facultades se entenderán conferidas al Congreso cuando las elecciones Municipales se declaren nulas o por cualquier causa desaparecieren los Poderes del Ayuntamiento, siempre que tales situaciones se presentaren dentro del primer año de su correspondiente ejercicio, pues de suceder durante los dos últimos años del período de Gobierno Municipal, el Congreso siempre a propuesta del Gobernador, nombrará un Comité Municipal, integrado por tres personas el que asumirá la administración municipal hasta la conclusión del período de Gobierno respectivo. Por cada integrante del Comité habrá un suplente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 1983)</small>
 
-XXXIV.- Por acuerdo de las dos terceras partes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna causa grave prevista por la Ley, siempre y cuando sus miembros hayan tenido oportunidad para rendir las pruebas y hacer los alegatos que a su juicio convengan;
+XXXIV.- Por acuerdo de las dos terceras partes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna causa grave prevista por la Ley, siempre y cuando sus miembros hayan tenido oportunidad para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
@@ -801,7 +805,9 @@ Si al comenzar un período constitucional no se presentase el gobernador electo 
 
 Cuando la falta del Gobernador fuere temporal excediendo de sesenta días, el Congreso del Estado si estuviere reunido o en su defecto la Diputación Permanente, designará un Gobernador Interino para que funcione durante el tiempo que dure dicha falta.
 
-Para suplir las ausencias temporales del Gobernador hasta por 60 días quedará como encargado del despacho, el Secretario de Gobierno o en su defecto los demás Secretarios en el orden que los enumera la Ley Orgánica del Poder Ejecutivo.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1985)</small>
+
+Para suplir las ausencias temporales del Gobernador hasta por sesenta días quedará encargado del despacho el Secretario de Gobierno o, en su defecto, el funcionario que el propio Gobernador designe de entre los titulares de las dependencias a que se contrae el artículo 8o. de la Ley Orgánica de la Administración Pública del Estado. La suplencia se comunicará, por escrito, para los efectos a que haya lugar, a los representantes de los otros dos poderes locales.
 
 Si la falta se convirtiere de temporal en absoluta, se procederá como disponen los artículos anteriores.
 
@@ -959,23 +965,25 @@ Los acuerdos, órdenes y disposiciones que dicte el Gobernador y que sean despac
 
 Las faltas de los Secretarios de los diversos ramos de la Administración Pública, serán suplidas en la forma que determine la Ley Orgánica del Poder Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 75.
 
-La Ley organizará el Ministerio Público en el Estado y sus funcionarios serán nombrados y removidos libremente por el Ejecutivo, teniendo como Jefe al Procurador General de Justicia, quien para serlo deberá reunir los mismos requisitos que para ser Magistrado.
+La Ley organizará el Ministerio Público del Estado cuyos funcionarios serán nombrados y removidos por el Ejecutivo, de acuerdo con la ley respectiva, y estará presidido por un Procurador General de Justicia, el que deberá tener las mismas cualidades requeridas para ser Magistrado del Tribunal Superior de Justicia.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
+Incumbe al Ministerio Público estatal la persecución, ante los tribunales locales, de todos los delitos del orden común; por lo mismo a él le corresponderá solicitar las órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita; pedir la aplicación de las penas e intervenir en todos los negocios que la ley determine.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 76.
 
-El Procurador General de Justicia intervendrá en todos los negocios en que el Estado sea parte. Tanto él como sus agentes se someterán estrictamente a las disposiciones de la Ley, siendo responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
+El Procurador General de Justicia será el consejero jurídico del gobierno. Intervendrá personalmente en las controversias que se susciten entre dos o más municipios del Estado o entre éste y dichos municipios. En los negocios en que el Estado fuese parte y en las que deba intervenir el Ministerio Público, el Procurador General lo hará por sí o por medio de sus agentes. Tanto él como sus agentes serán responsables de toda falta, omisión o violación a la ley, en que incurran con motivo de sus funciones.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
 ### CAPITULO XVI. Del Poder Judicial
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
 ### CAPITULO XVII. De las Responsabilidades de los Servidores Públicos
 
@@ -987,7 +995,7 @@ El Procurador General de Justicia intervendrá en todos los negocios en que el E
 
 ###### ARTICULO 77.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y en Juzgados de Primera Instancia, Menores y de Paz, que se establecerán y funcionarán en la forma que disponga la Ley Orgánica del Poder Judicial del Estado.
+Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y en juzgados de primera instancia y menores, que se establecerán y funcionarán en la forma que disponga la Ley Orgánica del Poder Judicial del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 1985)</small>
 
@@ -1031,11 +1039,11 @@ Presidente: "Si no lo hiciéreis así, la Nación o el Estado os lo demande".
 
 Los jueces de primera instancia, menores y de paz protestarán ante el Tribunal Superior de Justicia o ante la autoridad que determine la Ley.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 81.
 
-El cargo de Magistrado del Tribunal Superior de Justicia sólo es renunciable por causa grave calificada por el Congreso, ante el que se presentará la renuncia y en los recesos ante la Diputación Permanente, la que hará la calificación.
+La confirmación de los nombramientos de los Magistrados del Tribunal Superior de Justicia será hecha por el Gobernador y sometida a la aprobación del Congreso o, en su caso, de la Diputación Permanente. La de los jueces de primera instancia la hará el Tribunal Pleno.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1071,11 +1079,11 @@ III.- Gozar de buena reputación.
 
 Durarán en sus cargos seis años, a cuyo vencimiento, de ser confirmados sus nombramientos, serán inamovibles y sólo podrán ser removidos de sus cargos cuando falten al cumplimiento de sus deberes oficiales o violen notoriamente las buenas costumbres, de acuerdo con lo que dispone el artículo 86, o previo el juicio de responsabilidad correspondiente.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 85.
 
-Los jueces menores y de paz deberán ser ciudadanos mexicanos en ejercicio de sus derechos civiles y políticos; gozar de buena reputación y poseer, los primeramente nombrados, título profesional de abogado expedido por autoridad o corporación legalmente facultada para ello, y durarán en su cargo el tiempo que determine la Ley.
+Los jueces menores deberán ser ciudadanos mexicanos en el ejercicio de sus derechos civiles y políticos; gozar de buena reputación y poseer título profesional de abogado expedido por autoridad o corporación legalmente facultada para ello y durarán en su cargo el tiempo que determine la ley. Los jueces menores y sus secretarios quedan comprendidos en la prohibición contenida en el artículo 83.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1085,13 +1093,13 @@ El Gobernador podrá pedir ante el Congreso del Estado, o, ante la Diputación P
 
 El Gobernador del Estado, antes de pedir al Congreso la destitución de algún funcionario judicial, oirá a éste, en lo privado, a efecto de poder apreciar en conciencia la justificación de su solicitud. También será oído dicho funcionario por el Congreso o por la Diputación Permanente, en su caso.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 87.
 
-Será Presidente del Tribunal Superior de Justicia, el Magistrado Propietario que anualmente sea electo para ese efecto por dicho Cuerpo Colegiado, y sus faltas temporales suplidas por otro Magistrado Propietario designado en la misma forma que el anterior.
+Será Presidente del Tribunal Superior de Justicia el Magistrado numerario que anualmente sea electo para ese efecto por el Tribunal Pleno. En sus faltas temporales y accidentales será suplido por el Magistrado numerario que el Pleno designe.
 
-El Presidente del Tribunal Superior de Justicia, a más tardar el 31 de agosto rendirá ante la H. Representación Popular, un informe escrito acerca de la situación que guarde la Administración de Justicia en el Estado.
+El Presidente del Tribunal Superior rendirá anualmente al Pleno, en la sesión anterior a la de elección, un informe escrito acerca de la situación que guarde la administración de justicia en el Estado.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1103,21 +1111,31 @@ Corresponde al Tribunal Pleno:
 
 I.- Conocer como Jurado de Sentencia de los delitos oficiales que cometan el Gobernador del Estado, los Diputados al Congreso y los Secretarios de los diversos Ramos de la Administración Pública de la entidad.
 
-II.- Juzgar por los mismos delitos a los Presidentes de Ayuntamientos y concejales, y a los jueces de primera instancia, menores y de paz;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1985)</small>
+
+II.- Juzgar por los mismos delitos a los Presidentes de Ayuntamientos y concejales y a los jueces de primera instancia y menores;
 
 III.- Dirimir las competencias que se susciten entre los Tribunales inferiores del Estado, así como todas aquellas controversias y asuntos que determinen las leyes;
 
 IV.- Conocer de los conflictos entre los Ayuntamientos o entre éstos y el Ejecutivo, así como de aquellos en que el Estado fuese parte;
 
-V.- Suspender hasta por tres meses, por causa justificada, a los jueces de primera instancia y menores, empleados y dependientes de los juzgados de primera instancia, menores y de paz y a los jueces de paz;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
-VI.- Nombrar a los jueces de primera instancia, menores y de paz, a los empleados de los juzgados de primera instancia, menores y de paz, a propuesta en terna estos últimos de los jueces respectivos;
+V.- Suspender hasta por tres meses, por causa justificada, a los jueces de primera instancia y menores y a los empleados y dependientes de los juzgados de primera instancia y menores;
 
-VII.- Conceder licencias a los jueces de primera instancia, menores y de paz y a los empleados de los juzgados y aceptarles sus renuncias;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1985)</small>
+
+VI.- Nombrar a los jueces de primera instancia y menores y a los empleados de los juzgados de primera instancia y menores;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1985)</small>
+
+VII.- Conceder licencia a los jueces de primera instancia y menores y a los empleados de los juzgados de primera instancia y menores; y resolver acerca de sus renuncias;
 
 VIII.- Nombrar y remover a los empleados del Tribunal Superior de Justicia, aceptarles sus renuncias; y
 
-IX.- Remover a los empleados de los juzgados de primera instancia, menores y de paz.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1985)</small>
+
+IX.- Remover a los empleados de los juzgados de primera instancia y menores.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -1233,7 +1251,7 @@ I.- Cada Municipio será administrado por un Ayuntamiento de elección popular d
 
 II.- Los Ayuntamientos de los Municipios de la Entidad, tendrán tantos Regidores y Síndicos como determine la Ley Orgánica respectiva, electos por el principio de mayoría relativa y adicionalmente hasta dos Regidores y Síndicos electos por el sistema de representación proporcional.
 
-De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuído un Regidor, el partido político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los requisitos siguientes:
+De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuído un Regidor el partido político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los requisitos siguientes:
 
 a) Que hubiere registrado fórmula de candidatos en las elecciones municipales respectivas;
 
@@ -1732,3 +1750,11 @@ P.O. 20 DE MAYO DE 1985.
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 1985.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legislativas y reglamentarias que se opongan al presente decreto.
+
+TERCERO.- Queda facultado el Tribunal Pleno para emitir las disposiciones necesarias con motivo de la supresión de los juzgados de paz.
