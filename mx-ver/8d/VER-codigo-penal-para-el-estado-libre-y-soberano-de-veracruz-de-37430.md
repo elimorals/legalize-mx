@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2004-08-03"
+last_updated: "2004-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE AGOSTO DE 2004.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -403,9 +403,11 @@ VIII. Vigilancia de la autoridad.
 
 ### CAPÍTULO IV. PRISIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 48.
 
-La prisión consiste en la privación de la libertad corporal del sujeto activo del delito, hasta por cincuenta años, que será compurgada en el lugar que designe el órgano ejecutor de las sanciones.
+La prisión consiste en la privación de la libertad corporal del sujeto activo del delito, hasta por setenta años, que será compurgada en el lugar que designe el órgano ejecutor de las sanciones.
 
 En toda pena de prisión se computará el tiempo de detención y de prisión preventiva. Tratándose de dos o más penas de prisión, impuestas cada una en sentencias diferentes, se cumplirán invariablemente de manera sucesiva.
 
@@ -447,7 +449,9 @@ La reparación del daño tiene el carácter de pena pública. El sujeto pasivo o
 
 La obligación de pagar el importe de la reparación del daño es preferente respecto a la multa y se cubrirá primero que cualquiera otra de las obligaciones personales que se hubieren contraído por el sentenciado con anterioridad a la realización del delito, con excepción de las alimentarias y salariales.
 
-El importe de la reparación del daño se distribuirá entre aquellos que tienen derecho a recibirla, proporcionalmente a los daños que hubieren sufrido. Si uno o más de los que tienen derecho a recibir la indemnización renuncian a la parte proporcional que les corresponde, ésta se aplicará al Estado, siempre que los demás hubieren sido satisfechos.
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
+El importe de la reparación del daño se distribuirá entre aquellos que tienen derecho a recibirla, proporcionalmente a los daños que hubieren sufrido. Si uno o más de los que tienen derecho a recibir la indemnización renuncian a la parte proporcional que les corresponde, ésta se aplicará al Fondo Auxiliar para la Impartición de Justicia, siempre que los demás hubieren sido satisfechos.
 
 ###### Artículo 54.
 
@@ -461,7 +465,9 @@ Quien se considere con derecho a la reparación del daño y no pueda obtenerla a
 
 La reparación del daño comprende:
 
-I. La restitución de la cosa obtenida por el delito, sus frutos, accesiones existentes y, en su caso, el pago de los deterioros o menoscabos ocasionados. Si se trata de bienes fungibles, el juez podrá condenar a la entrega de un objeto similar al que fuese materia de delito, sin necesidad de recurrir a prueba pericial. Si la restitución fuere imposible, se pagará en numerario el precio de todo lo dañado;
+> <small>(REFORMADA, G.O. 24 DE AGOSTO DE 2004)</small>
+
+I. La restitución en los derechos de guarda y custodia del menor o incapaz, tratándose del delito de sustracción o retención de menores o incapaces; y en general la restitución de la cosa obtenida por el delito, sus frutos, accesiones existentes y, en su caso, el pago de los deterioros o menoscabos ocasionados. Si se trata de bienes fungibles, el juez podrá condenar a la entrega de un objeto similar al que fuese materia de delito, sin necesidad de recurrir a prueba pericial. Si la restitución fuere imposible, se pagará en numerario el precio de todo lo dañado;
 
 II. La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos que sean necesarios para la recuperación de la salud física y mental de la víctima. En los casos de delitos contra la libertad y seguridad sexual y de violencia familiar, además, el pago de los alimentos a la mujer y al hijo;
 
@@ -563,9 +569,11 @@ La suspensión comenzará desde que cause ejecutoria la sentencia respectiva y d
 
 Una vez que cause ejecutoria la sentencia, la autoridad jurisdiccional comunicará a las autoridades electorales competentes la suspensión de los derechos políticos impuesta al sentenciado.
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 69.
 
-La inhabilitación será de seis meses a diez años y se computará en los mismos términos que la suspensión.
+La inhabilitación será de seis meses a quince años y se computará en los mismos términos que la suspensión.
 
 ### CAPÍTULO IX. AMONESTACIÓN
 
@@ -643,11 +651,13 @@ Los instrumentos del delito, así como las cosas que sean objeto o producto de �
 
 Si lo decomisado consiste en sustancias nocivas o peligrosas, se destruirán a juicio de la autoridad que esté conociendo del caso, conforme a la ley; pero si lo estima conveniente y es posible, podrá determinar su conservación para fines de docencia o investigación.
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 80.
 
-Los objetos, incluyendo dinero o valores, que estén a disposición de las autoridades judiciales que no hayan sido ni puedan ser decomisados, y que en un lapso de un año a partir de la fecha en que fueron asegurados no sean solicitados por quien tenga derecho, se destinarán previo trámite incidental a la Hacienda del Estado.
+Los objetos, incluyendo dinero o valores, que estén a disposición de las autoridades judiciales que no hayan sido ni puedan ser decomisados, y que en un lapso de un año a partir de la fecha en que fueron asegurados no sean solicitados por quien tenga derecho, se destinarán previo trámite incidental al Fondo Auxiliar para la Impartición de Justicia.
 
-Cuando los bienes asegurados estén a disposición de la autoridad investigadora y no hayan sido solicitados en el lapso de un año por quien tenga derecho, previo trámite judicial se destinarán al Estado.
+Cuando los bienes asegurados estén a disposición de la autoridad investigadora y no hayan sido solicitados en el lapso de un año por quien tenga derecho, previo trámite judicial se destinarán al Fondo Auxiliar para la Impartición de Justicia.
 
 ### CAPÍTULO XVI. APERCIBIMIENTO Y CAUCIÓN DE NO OFENDER
 
@@ -683,31 +693,41 @@ Cuando el inculpado pertenezca a una comunidad indígena, se tomará en consider
 
 ### CAPÍTULO II. DELITOS CULPOSOS
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 85.
 
-Los delitos culposos serán sancionados con prisión de seis meses a diez años, multa hasta de doscientos días de salario y suspensión o privación del derecho para ejercer la profesión, oficio o actividad que dio origen a la conducta culposa, hasta por cinco años.
+Los delitos culposos serán sancionados, salvo disposición en contrario, con prisión de quince días a diez años, multa hasta de doscientos días de salario y privación o suspensión del derecho para ejercer la profesión, oficio o actividad que dio origen a la conducta culposa, hasta por cinco años.
 
 ### CAPÍTULO III. TENTATIVA
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 86.
 
-El responsable de tentativa será sancionado con prisión de seis meses a diez años y multa hasta de doscientos días de salario; para imponer la pena el juez tomará en cuenta, además de lo previsto por este código, el mayor o menor grado de aproximación al momento de consumación del delito.
+El responsable de tentativa será sancionado, salvo disposición en contrario, con prisión de quince días a diez años y multa hasta de doscientos días de salario; para imponer la pensa el juez tomará en cuenta, además de lo previsto por este código, el mayor o menor grado de aproximación al momento de consumación del delito.
 
 ### CAPÍTULO IV. REINCIDENCIA
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 87.
 
-Al reincidente se le aplicará la sanción que corresponda por el último delito cometido, la que podrá aumentarse hasta el máximo de cincuenta años de privación de libertad, según la peligrosidad del delincuente. En el caso, el sentenciado no podrá gozar de los beneficios o de los sustitutivos penales que este código prevé.
+Al reincidente se le aplicará la sanción que corresponda por el último delito cometido, la que podrá aumentarse hasta el máximo de setenta años de privación de libertad, según la peligrosidad del delincuente o la mayor o menor gravedad de la culpa en que se haya incurrido. En el caso, el sentenciado no podrá gozar de los beneficios o de los sustitutivos penales que este código prevé.
 
 ### CAPÍTULO V. CONCURSO DE DELITOS Y DELITO CONTINUADO
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 88.
 
-En caso de concurso real o material se impondrá la sanción correspondiente al delito que tenga prevista la mayor, a la cual podrán sumarse las sanciones de los demás ilícitos, sin que exceda de cincuenta años de prisión.
+En caso de concurso real o material se impondrá la sanción correspondiente al delito que tenga prevista la mayor, a la cual podrán sumarse las sanciones de los demás ilícitos, sin que exceda de setenta años de prisión.
+
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 89.
 
-Tratándose de concurso ideal se aplicará la sanción correspondiente al delito que merezca la mayor, la que podrá aumentarse hasta por la mitad del máximo correspondiente a dicho ilícito, sin que exceda de cincuenta años de prisión.
+Tratándose de concurso ideal se aplicará la sanción correspondiente al delito que merezca la mayor, la que podrá aumentarse hasta por la mitad del máximo correspondiente a dicho ilícito, sin que exceda de setenta años de prisión.
 
 ###### Artículo 90.
 
@@ -737,7 +757,9 @@ III. La prisión que no exceda de cinco años, por multa y tratamiento en libert
 
 Cada día de prisión o de salario será sustituido por una jornada de trabajo en favor de la comunidad, de la víctima o del ofendido.
 
-La equivalencia de la multa sustitutiva de la prisión se computará a razón de un día de salario por cada día de prisión.
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
+La equivalencia de la multa sustitutiva de la prisión se computará a partir de una cuarta parte de un día de salario por cada día de prisión.
 
 ###### Artículo 93.
 
@@ -983,17 +1005,21 @@ Comete el delito de homicidio quien priva de la vida a otra persona.
 
 Al responsable de homicidio doloso que no tenga señalada una sanción especial en este código se le impondrán de diez a veinte años de prisión y multa hasta de cien días de salario.
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 130.
 
-Al responsable de homicidio calificado se le impondrán de veinte a cincuenta años de prisión y multa hasta de mil días de salario.
+Al responsable de homicidio calificado se le impondrán de veinte a setenta años de prisión y multa hasta de mil días de salario.
 
 ###### Artículo 131.
 
 Cuando en la comisión de un homicidio intervengan dos o más sujetos y no constare quién o quiénes son los homicidas, a todos se les impondrán de diez a catorce años de prisión si el delito fuere simple; pero si se tratare de homicidio calificado, la sanción será de quince a treinta años de prisión y multa, en ambos casos, hasta de quinientos días de salario.
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 132.
 
-A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, sabiendo esa relación, se le impondrán de diez a cincuenta años de prisión y multa hasta de quinientos días de salario.
+A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, sabiendo esa relación, se le impondrán de diez a setenta años de prisión y multa hasta de quinientos días de salario.
 
 ###### Artículo 133.
 
@@ -1053,9 +1079,11 @@ Cuando en la comisión de las lesiones intervengan dos o más individuos y no co
 
 Los propietarios o poseedores de animales que causen lesiones o muerte a personas, serán responsables a título de culpa. Si fueren a consecuencia de su acción, el delito se considerará doloso.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 143.
 
-Las lesiones que se produzcan de manera culposa se perseguirán por querella, excepto las que se ocasionen por el conductor de un vehículo en movimiento que al conducir se hubiere hallado en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o cualquiera otra sustancia tóxica y haya abandonado a la víctima.
+Las lesiones que se produzcan de manera culposa se perseguirán por querella, excepto las que se ocasionen por el conductor de un vehículo en movimiento que al conducir se hubiere hallado en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o cualquiera otra sustancia tóxica o haya abandonado a la víctima.
 
 Si la víctima no estuviere en condiciones de formular querella y careciere de legítimo representante, el Ministerio Público actuará de oficio.
 
@@ -1157,7 +1185,9 @@ IV. A juicio de dos médicos, exista razón suficiente de que el producto padece
 
 A quien omita prestar el auxilio necesario a una persona que, en su presencia, estuviere lesionada o amenazada de un peligro actual e inminente, siendo aquél capaz de otorgarlo sin riesgo de su parte, o a quien, no estando en condiciones de proporcionarlo, no diere aviso inmediato a la autoridad, se le impondrán de un mes a tres años de prisión y multa hasta de veinticinco días de salario.
 
-A quien lesione a una persona, así sea culposa o fortuitamente, y no le preste el auxilio inmediato que fuere posible y adecuado o, si no pudiera hacerlo personalmente, omita solicitarlo a la institución o autoridad que pueda prestarlo y no permanezca en el lugar de los hechos hasta que el auxilio sea prestado, se le impondrán de nueve meses a cuatro años de prisión.
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
+A quien lesione a una persona, así sea culposa o fortuitamente, y no le preste el auxilio inmediato que fuere posible y adecuado o, si no pudiera hacerlo personalmente, omita solicitarlo a la institución o autoridad que pueda prestarlo y no permanezca en el lugar de los hechos hasta que el auxilio sea prestado, se le impondrán de nueve meses a cuatro años de prisión y multa hasta de veinticinco días de salario.
 
 ### CAPÍTULO IV. PELIGRO DE CONTAGIO
 
@@ -1166,6 +1196,8 @@ A quien lesione a una persona, así sea culposa o fortuitamente, y no le preste 
 A quien abandone a una persona incapaz de valerse por sí misma, exponiéndola a un peligro en su integridad física, siempre que tenga la obligación de cuidarla, se le impondrán de uno a tres años de prisión y multa hasta de cincuenta días de salario.
 
 ### CAPÍTULO V. MANIPULACIÓN GENÉTICA
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 157.
 
@@ -1185,7 +1217,7 @@ A quien padezca una enfermedad grave y dolosamente ponga en peligro de contagio 
 
 ###### Artículo 159.
 
-Se impondrán prisión de dos a seis años e inhabilitación hasta por el mismo tiempo para desempeñar empleo, cargo o comisión públicos, profesión u oficio, a quien:
+Se impondrán prisión de dos a seis años, inhabilitación hasta por el mismo tiempo para desempeñar empleo, cargo o comisión públicos, profesión u oficio y multa hasta de trescientos días de salario, a quien:
 
 I. Con finalidad distinta a la eliminación o disminución de enfermedades graves o taras, manipule genes humanos de manera que se altere el genotipo;
 
@@ -1203,7 +1235,9 @@ II. Sin consentimiento de una mujer mayor de dieciséis años o aun con el conse
 
 III. Implante a una mujer un óvulo fecundado, sin su consentimiento o sin el de los donantes o depositarios o con el consentimiento de una menor de edad o de una incapaz para comprender el hecho o para resistirlo.
 
-Este delito se perseguirá por querella. Si el delito se realiza con violencia o del mismo resultare un embarazo, la pena aplicable será de cinco a catorce años de prisión.
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
+Este delito se perseguirá por querella. Si el delito se realiza con violencia o del mismo resultare un embarazo, la pena aplicable será de cinco a catorce años de prisión y multa hasta de quinientos días de salario.
 
 Además de las penas previstas, se impondrá privación del derecho para ejercer la profesión por un tiempo igual al de la pena de prisión impuesta. Si se trata de servidores públicos, se impondrán también, en los mismos términos, la destitución y la inhabilitación para el desempeño de empleo, cargo o comisión públicos.
 
@@ -1239,9 +1273,19 @@ III. Causar daño o perjuicio a terceros relacionados con el secuestrado; o
 
 IV. Que la autoridad haga o deje de hacer un acto de cualquier índole.
 
-Si el secuestrador libera espontáneamente a la víctima dentro de los tres días siguientes a la consumación del delito, sin causarle daño, se le impondrán de dos a cinco años de prisión y multa hasta de cuarenta días de salario.
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
+A los sentenciados por el delito de secuestro previsto en este artículo no se les concederán los beneficios comprendidos en la Ley de Ejecución de Sanciones para el Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(ADICIONADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
+Cuando la víctima del delito sea un menor de edad la pena de prisión podrá ser hasta de setenta años.
+
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 164.
+
+Si el secuestrador libera espontáneamente a la víctima dentro de los tres días siguientes a la consumación del delito, sin causarle daño, se le impondrán de cuatro a ocho años de prisión y multa hasta de cuarenta días de salario.
 
 Cuando el inculpado proporcione datos que permitan localizar a la víctima con vida, la pena será de cinco a doce años de prisión y multa hasta de cien días de salario.
 
@@ -1329,6 +1373,8 @@ Este delito se perseguirá por querella.
 
 ### CAPÍTULO II. ESTUPRO
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 176.
 
 A quien mediante engaño o sin consentimiento de la persona que legítimamente pueda otorgarlo, se introduzca a un despacho, oficina o consultorio, o permanezca en ellos sin anuencia de quien está facultado para darla, se le aplicarán prisión de un mes a tres años y multa hasta de cincuenta días de salario.
@@ -1373,6 +1419,8 @@ A quien revele, divulgue o utilice indebidamente o en perjuicio de tercero, info
 
 ### CAPÍTULO III. DISCRIMINACIÓN DE LAS PERSONAS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 181.
 
 Comete delito informático quien, sin derecho y con perjuicio de tercero:
@@ -1393,15 +1441,23 @@ A quien por medio de la violencia física o moral tenga cópula con una persona 
 
 Se entiende por cópula la introducción del miembro viril, en el cuerpo de la víctima, por la vía vaginal, anal u oral.
 
-También se considera violación la introducción por vía vaginal o anal de cualquier objeto o parte del cuerpo humano distinto al miembro viril, mediando violencia física o moral, cualquiera que sea el sexo del ofendido.
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
+También se considera violación la introducción por vía vaginal o anal de cualquier objeto o parte del cuerpo humano distinto al miembro viril, mediando violencia física o moral, cualquiera que sea el sexo de la víctima.
 
 Si entre el activo y el pasivo de la violación existiere un vínculo matrimonial o de concubinato, el delito se perseguirá por querella.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 183.
 
-Se impondrán de diez a veinte años de prisión y multa hasta de cuatrocientos días de salario cuando la cópula sea con persona menor de catorce años de edad, no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistir.
+Se impondrán de diez a veinte años de prisión y multa hasta de cuatrocientos días de salario cuando el delito previsto en el artículo anterior se cometa en contra de persona menor de catorce años de edad, no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistir.
 
 Si se ejerciere violencia sobre la víctima, las penas se aumentarán hasta en una mitad.
+
+> <small>(ADICIONADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
+Cuando se tenga cópula con persona mayor de doce y menor de catorce años de edad, con su consentimiento y el responsable sea menor de veintiún años y contraiga matrimonio con la persona ofendida, previa autorización de sus padres o quien deba otorgarla, la sanción será de dos a ocho años de prisión y multa hasta cien días de salario mínimo.
 
 ### CAPÍTULO I. ROBO
 
@@ -1423,7 +1479,7 @@ En el caso previsto en la fracción IV, además de las sanciones arriba indicada
 
 ###### Artículo 185.
 
-A quien tenga cópula con una mujer mayor de catorce y menor de dieciséis años, obteniendo su consentimiento por medio de seducción o engaño, se le impondrán de seis meses a cuatro años de prisión y multa hasta de cuarenta días de salario. Este delito se perseguirá por querella.
+A quien tenga cópula con una mujer mayor de catorce y menor de dieciséis años, que viva honestamente, obteniendo su consentimiento por medio de seducción o engaño, se le impondrán de seis meses a cuatro años de prisión y multa hasta de cuarenta días de salario. Este delito se perseguirá por querella.
 
 ### CAPÍTULO II. ABIGEATO
 
@@ -1452,6 +1508,8 @@ El delito consignado en este capítulo se perseguirá por querella. Si la vícti
 Si quien comete este delito es servidor público o ejerce una profesión o empleo, y utiliza los medios o circunstancias derivados de ello, además se impondrán destitución, si procede, e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, o para ejercer profesión, hasta por cinco años.
 
 ### CAPÍTULO IV. RETENCIÓN INDEBIDA DE COSA MUEBLE
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 189.
 
@@ -1519,7 +1577,7 @@ Cuando esté pendiente el proceso que se instruya por el delito imputado, se sus
 
 ###### Artículo 196.
 
-Se impondrán de seis meses a dos años de prisión y hasta cien días de trabajo en favor de la comunidad a quien, por razón de edad, sexo, embarazo, estado civil, raza, idioma, religión, ideología, orientación sexual, color de la piel, nacionalidad, origen, posición social, trabajo, profesión, posición económica, carácter físico, discapacidad o estado de salud:
+Se impondrán de seis meses a dos años de prisión y hasta cien días de trabajo en favor de la comunidad a quien, injustificadamente, por razón de edad, sexo, embarazo, estado civil, raza, idioma, religión, ideología, orientación sexual, color de la piel, nacionalidad, origen, posición social, trabajo, profesión, posición económica, carácter físico, discapacidad o estado de salud:
 
 I. Provoque o incite al odio o a la violencia contra una o mas personas;
 
@@ -1558,6 +1616,8 @@ No servirá de excusa en los delitos contra el honor que el hecho imputado sea n
 ## TÍTULO VIII. DELITOS CONTRA LA FAMILIA
 
 ### CAPÍTULO II. INCUMPLIMIENTO DE LA OBLIGACIÓN DE DAR ALIMENTOS Y ABANDONO DE FAMILIARES
+
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 202.
 
@@ -1633,9 +1693,11 @@ A quien adquiera o comercie mercancías o bienes procedentes del robo a que se r
 
 Cuando el sujeto activo participe en más de una ocasión en la adquisición o comercialización de esas mercancías o bienes, se le impondrán prisión de cinco a quince años y multa hasta de quinientos días de salario.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 209.
 
-Se impondrán de cuatro a diez años de prisión y de ciento cincuenta a trescientas jornadas de trabajo en favor de la comunidad a quien:
+Se impondrán de cuatro a diez años de prisión y multa hasta de trescientos días de salario, a quien:
 
 I. Robe cualquier vehículo automotor. Si dentro del vehículo se hallare el conductor o algún pasajero, las penas aplicables se aumentarán hasta en una mitad;
 
@@ -1713,7 +1775,7 @@ Este delito se perseguirá por querella.
 
 ###### Artículo 215.
 
-Se sancionará con prisión de dos a cinco años a quien, teniendo la posesión derivada o la detentación subordinada de una cosa mueble ajena, con obligación de entregarla a quien tenga derecho a recibirla, en tiempo y lugar determinado, no lo hiciere habiendo sido legalmente requerido para ello.
+Se sancionará con prisión de dos a cinco años y multa hasta de quinientos días de salario, a quien, teniendo la posesión derivada o la detentación subordinada de una cosa mueble ajena, con obligación de entregarla a quien tenga derecho a recibirla, en tiempo y lugar determinado, no lo hiciere habiendo sido legalmente requerido para ello.
 
 Este delito se perseguirá por querella.
 
@@ -1823,7 +1885,9 @@ Las sanciones se impondrán aunque el derecho a la posesión sea dudoso o esté 
 
 Si el despojo se realiza por dos o más personas, además de las sanciones señaladas en el artículo precedente, se impondrán a los autores intelectuales o a quienes induzcan, organicen o dirijan invasiones, de tres a ocho años de prisión y multa hasta de quinientos días de salario.
 
-A quienes, en forma reiterada, se dediquen a promover despojo se les aumentará la sanción en una mitad de la señalada anteriormente.
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
+A quienes, en forma reiterada, se dediquen a promover despojo se les aumentarán las sanciones en una mitad de las señaladas anteriormente.
 
 ###### Artículo 224.
 
@@ -1841,9 +1905,11 @@ A quien, en perjuicio de tercero, por cualquier medio destruya o deteriore una c
 
 Este delito se perseguirá por querella.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 227.
 
-Si el daño se ocasiona con motivo del tránsito de vehículos y el conductor se hallare en estado de ebriedad o bajo el influjo de estupefacientes u otras sustancias tóxicas, se sancionará con prisión de tres a nueve años y multa hasta de trescientos días de salario.
+Si el daño se ocasiona con motivo del tránsito de vehículos y el conductor se hallare en estado de ebriedad o bajo el influjo de estupefacientes u otras sustancias tóxicas, se sancionará con prisión de tres a nueve años, multa hasta de trescientos días de salario y suspensión del derecho para conducir vehículos hasta por tres años.
 
 Esta conducta se perseguirá de oficio.
 
@@ -1917,13 +1983,17 @@ En todos los casos previstos en los dos artículos precedentes, el Ministerio P�
 
 ###### Artículo 236.
 
-A quien sin motivo justificado deje de cumplir con la obligación de proporcionar alimentos a las personas a las que deba suministrarlos por disposición de la ley, se le impondrán de uno a seis años de prisión y multa hasta de doscientos días de salario y, si el juez lo estima conveniente, suspensión o privación de sus derechos de familia.
+A quien sin motivo justificado deje de cumplir con la obligación de proporcionar alimentos a sus hijos, se le impondrán de uno a seis años de prisión y multa hasta de doscientos días de salario.
 
-Las sanciones anteriores se aumentarán hasta en tres años de prisión y multa hasta de cien días de salario, cuando el deudor alimentista se coloque dolosamente en estado de insolvencia, con el objeto de eludir sus obligaciones para con sus acreedores alimentarios, conforme a la ley correspondiente.
+La sanción será de tres meses a cuatro años de prisión y multa hasta de ciento cincuenta días de salario para quien abandone a persona, distinta de los hijos, a la que se tenga obligación legal de proporcionarle alimentos, dejándola sin recursos para atender sus necesidades de subsistencia.
+
+Si el juez lo estima conveniente impondrá la suspensión o privación de los derechos de familia.
+
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 237.
 
-A quien sin motivo justificado abandone a persona distinta de sus hijos, pero a quien tenga la obligación legal de proporcionarle alimentos, dejándolo sin recursos para atender sus necesidades de subsistencia, se le impondrán de tres meses a cuatro años de prisión, multa hasta de ciento cincuenta días de salario y, si el juez lo estima conveniente, suspensión o privación de sus derechos de familia.
+Las sanciones anteriores se aumentarán hasta en tres años de prisión y multa hasta de cien días de salario, cuando el deudor alimentista se coloque dolosamente en estado de insolvencia, con el objeto de eludir sus obligaciones para con sus acreedores alimentarios, conforme a la ley correspondiente.
 
 ###### Artículo 238.
 
@@ -2157,9 +2227,11 @@ A quien sin la debida autorización derribe o dañe uno o más árboles que se e
 
 A los propietarios, responsables o técnicos de centros de verificación de vehículos automotores, que manipulen o alteren los equipos con el fin de aprobar la verificación vehicular, se les impondrán de seis meses a tres años de prisión y multa hasta de trescientos días de salario.
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 263.
 
-Se impondrán de tres a siete años de prisión, destitución e inhabilitación de cinco a diez años para ocupar un empleo, cargo o comisión públicos, al servidor público que intervenga en la concesión, cambio del uso, desincorporación, afectación, desafectación, permuta, enajenación o usufructo, total o parcial, de una área verde propiedad o a cargo del Estado o de un Municipio.
+Se impondrán de tres a siete años de prisión, multa hasta de quinientos días de salario y destitución e inhabilitación de cinco a diez años para ocupar un empleo, cargo o comisión públicos, al servidor público que intervenga en la concesión, cambio del uso, desincorporación, afectación, desafectación, permuta, enajenación o usufructo, total o parcial, de una área verde propiedad o a cargo del Estado o de un Municipio.
 
 ###### Artículo 264.
 
@@ -2469,7 +2541,9 @@ II. Impedir la integración de las instituciones estatales o su funcionamiento; 
 
 III. Separar o impedir el desempeño de su cargo a algún servidor público estatal o municipal.
 
-A los extranjeros que cometan este delito se les impondrá de uno a veinte años de prisión.
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
+A los extranjeros que cometan este delito se les impondrá de uno a veinte años de prisión y multa hasta de quinientos días de salario.
 
 ###### Artículo 302.
 
@@ -2499,9 +2573,11 @@ A quienes violen la inmunidad de un parlamentario o de un salvoconducto se les i
 
 A quienes violen los deberes de humanidad respecto de prisioneros, rehenes de guerra o lesionados, se les impondrán de seis meses a cinco años de prisión y multa hasta de ochenta días de salario.
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 306.
 
-A los servidores públicos o a los rebeldes que dieren muerte a los prisioneros después de un combate se les impondrán de diez a cincuenta años de prisión y multa hasta de ciento cincuenta días de salario.
+A los servidores públicos o a los rebeldes que dieren muerte a los prisioneros después de un combate se les impondrán de diez a setenta años de prisión y multa hasta de ciento cincuenta días de salario.
 
 ###### Artículo 307.
 
@@ -2539,9 +2615,11 @@ A quien utilizando explosivos, substancias tóxicas, armas de fuego o por incend
 
 A quien, conociendo las actividades de un terrorista y su identidad, no lo haga saber a las autoridades se le impondrán de uno a nueve años de prisión y multa hasta de ciento cincuenta días de salario.
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 312.
 
-A quien administre dinero o bienes relacionados con terroristas se le impondrán de cinco a veinticinco años de prisión y hasta seiscientos días de salario.
+A quien administre dinero o bienes relacionados con terroristas se le impondrán de cinco a veinticinco años de prisión y multa de hasta seiscientos días de salario.
 
 ###### Artículo 313.
 
@@ -2606,6 +2684,8 @@ VI. Realice inversiones, enajenaciones, adquisiciones o cualquier otro acto que 
 ### CAPÍTULO III. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
 
 ### CAPÍTULO I. DE LOS DELITOS ELECTORALES
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 319.
 
@@ -2799,7 +2879,7 @@ Estos delitos se perseguirán por querella del particular afectado o de la autor
 
 ###### Artículo 352.
 
-Se impondrán de seis meses a cinco años de prisión o multa de diez a cien días de salario, a quien:
+Se impondrán de seis meses a cinco años de prisión y multa de diez a cien días de salario, a quien:
 
 I. Vote a sabiendas de que no cumple con los requisitos de la ley;
 
@@ -2883,9 +2963,11 @@ II. Condicione la prestación de un servicio público, el cumplimiento de progra
 
 III. Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, tales como vehículos, inmuebles y equipos, al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo, correspondiente a sus labores para que éstos presten servicio a un partido político o candidato. En la comisión de este delito no habrá el beneficio de la libertad condicional.
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 357.
 
-Se impondrá prisión de dos a nueve años, al funcionario partidista o al organizador de actos de campaña que, a sabiendas aproveche ilícitamente fondos, bienes o servicios, en los términos de la fracción III del artículo anterior.
+Se impondrá prisión de dos a nueve años y multa de doscientos a cuatrocientos días de salario, al funcionario partidista o al organizador de actos de campaña que, a sabiendas aproveche ilícitamente fondos, bienes o servicios, en los términos de la fracción III del artículo anterior.
 
 ###### Artículo 358.
 
@@ -2932,3 +3014,7 @@ G.O. 3 DE AGOSTO DE 2004.
 Primero.- El presente Decreto entrará en vigor a los quince días de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 24 DE AGOSTO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
