@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "1971-12-09"
+last_updated: "1975-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1975.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -131,11 +131,15 @@ ART. 27.- Se tiene derecho de designar un domicilio convencional para el cumplim
 
 ### CAPITULO I. Disposiciones Generales
 
-ART. 28.- Habrá en el Estado funcionarios que se llamarán "Oficiales del Registro Civil", a cuyo cargo estará autorizar los actos del estado civil y extender las actas relativas al nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación, habilitación de edad y muerte de todas las personas residentes en el Estado; así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, o que se ha perdido la capacidad legal para administrar bienes.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-ART. 29.- Los Oficiales del Registro Civil llevarán por duplicado seis libros que se denominarán "Registro Civil" y que contendrán: el primero, actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela, emancipación y habilitación de edad; el cuarto, actas de matrimonio y divorcio; el quinto, actas de fallecimiento y el sexto, las inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte o que alguien ha perdido la capacidad legal para administrar bienes.
+ART. 28.- Habrá en el Estado funcionarios que se llamarán "Oficiales del Registro Civil", a cuyo cargo estará autorizar los actos del Estado Civil y extender las actas relativas al nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, y muerte de todas las personas residentes en el Estado; así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, o que se ha perdido la capacidad legal para administrar bienes.
 
-Toda acta deberá asentarse en los dos ejemplares del registro.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+
+ART. 29.- Los Oficiales del Registro Civil, llevarán por duplicado seis libros que se denominarán "Registro Civil" y que contendrán: el primero, actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela; el cuarto, actas de matrimonio y divorcio; el quinto, actas de fallecimiento y el sexto, las inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte o que alguien ha perdido la capacidad legal para administrar bienes.
+
+Toda acta deberá asentarse en los dos ejemplares del Registro.
 
 ART. 30.- Las actas del registro civil sólo pueden asentarse en los libros de que habla el artículo anterior.
 
@@ -179,11 +183,13 @@ ART. 46.- La Secretaría de Gobierno por medio de los agentes del ministerio pú
 
 ART. 47.- Las declaraciones de nacimiento se harán presentando al niño ante el oficial del registro civil, en su oficina o en la casa donde aquél se encuentre.
 
-ART. 48.- Tienen obligación de declarar el nacimiento: el padre, dentro de los quince días de ocurrido aquél, y, en su defecto, la madre dentro de los cuarenta días.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-Los médicos, cirujanos y matronas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al oficial del registro civil, dentro de los tres días siguientes. La misma obligación tienen el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
+ART. 48.- Tienen obligación de declarar el nacimiento, los padres, dentro de los treinta días de ocurrido aquel.
 
-Recibido el aviso, el oficial del registro civil tomará las medidas legales que sean necesarias, a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
+Los médicos, cirujanos y matronas que hubieren asistido al parto tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil, dentro de los tres días siguientes.
+
+Recibido el aviso, el Oficial del Registro Civil tomará las medidas legales que sean necesarias, a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
 
 ART. 49.- Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigadas con una multa de cinco a cincuenta pesos, que impondrá la autoridad municipal del lugar donde se haya hecho la declaración extemporánea de nacimiento. En la misma pena incurrirán las personas que no cumplan la obligación de dar el aviso prevenido en el párrafo segundo del artículo anterior.
 
@@ -279,15 +285,17 @@ VI.- El nombre del juez que pronunció el auto de discernimiento y la fecha de �
 
 ART. 84.- Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, observándose para el caso de que no exista en la misma oficina del registro, lo prevenido en el artículo 75.
 
+> <small>(DEROGADO, P.O. 20 DE JULIO DE 1975)</small>
+
 ### CAPITULO VI. De las Actas de Emancipación
 
 ART. 85.- En los casos de emancipación por efecto del matrimonio no se formará acta separada; el oficial del registro civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio y citando la fecha en que éste se celebró, así como el número y la foja del acta relativa.
 
-ART. 86.- Las actas de emancipación por decreto judicial se formarán insertando a la letra la resolución del juez que autorizó la emancipación. Se anotará el acta de nacimiento, expresando al margen de ella haber quedado emancipado el menor, citando la fecha de la emancipación y el número y foja del acta respectiva.
+ART. 86.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-ART. 87.- Si en la oficina en que se registró la emancipación no existe el acta de nacimiento del emancipado, el oficial de registro civil remitirá copia del acta de emancipación al del lugar en que se registró el nacimiento, para que haga la anotación correspondiente.
+ART. 87.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-ART. 88.- La omisión del registro de emancipación no quita a éste sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 73.
+ART. 88.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
 ### CAPITULO VII. De las Actas de Matrimonio
 
@@ -341,7 +349,9 @@ VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimoni
 
 VII.- Los nombres, apellidos, edad, estado, ocupación y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes, y si lo son, en qué grado y en qué línea;
 
-VIII.- Que se cumplieron las formalidades exigidas por el artículo anterior.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
+
+VIII.- Cuando los contrayentes o alguno de ellos fuera menor de edad, el Oficial del Registro Civil anotará en las o la acta respectiva de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio y citando la fecha en que éste se celebró, así como el número y foja del acta relativa.
 
 El acta será firmada por el oficial del registro civil, los contrayentes, los testigos y las demás personas que hubieren intervenido, si supieren y pudieren hacerlo.
 
@@ -465,7 +475,9 @@ ART. 131.- Cualquiera condición contraria a la perpetuación de la especie o a 
 
 ART. 132.- Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. Los Presidentes Municipales pueden conceder dispensa de edad por causas graves y justificadas. La misma Autoridad podrá conceder la dispensa del impedimento de que se ocupa la parte final de la Fracción III del artículo 140 de este Código.
 
-ART. 133.- El hijo o la hija que no hayan cumplido veintiún años no pueden contraer matrimonio sin consentimiento de su padre o de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres; se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, se necesita el consentimiento de los maternos si ambos viven, o del que sobreviva.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+
+ART. 133.- Los hijos que no hayan cumplido 18 años no pueden contraer matrimonio sin el consentimiento de sus padres, si vivieren ambos, o del que sobreviva. Seguirán teniendo este derecho si el hijo vive a su lado, aunque hayan contraído nuevas nupcias. A falta o por imposibilidad de los padres, se necesita el consentimiento de los que les suceden en el derecho conforme a esta Ley.
 
 ART. 134.- Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, el juez de primera instancia de la residencia del menor suplirá el consentimiento.
 
@@ -521,39 +533,55 @@ ART. 146.- El matrimonio entre extranjeros, celebrado fuera de la República, v�
 
 ### CAPITULO II. De los derechos y obligaciones que nacen del Matrimonio
 
-ART. 147.- Los cónyuges están obligados a contribuir cada uno por su parte a los fines del matrimonio y a socorrerse mutuamente.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-ART. 148.- La mujer debe vivir al lado de su marido. Los tribunales, con conocimiento de causa, eximirán a la mujer de esta obligación cuando el marido traslade su domicilio a país extranjero, a no ser que lo haga en servicio de la Patria, o cuando se establezca en un lugar insalubre o indecoroso.
+ART. 147.- Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos. Por lo que toca al matrimonio, este derecho será ejercido de común acuerdo por los cónyuges.
 
-ART. 149.- El marido debe dar alimentos a la mujer y hacer todos los gastos necesarios para el sostenimiento del hogar; pero si la mujer tuviere bienes propios o desempeñare algún trabajo, o ejerciere alguna profesión, oficio o comercio, deberá también contribuír para los gastos de la familia, siempre que la parte que le corresponda no exceda de la mitad de dichos gastos, a no ser que el marido estuviere imposibilitado para trabajar y careciere de bienes propios, pues entonces todos los gastos serán de cuenta de la mujer y se cubrirán con bienes de ella.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-ART. 150.- La mujer tendrá siempre derecho preferente sobre los productos de los bienes del marido y sobre sus sueldos, salarios o emolumentos, por las cantidades que correspondan para la alimentación de ella y de sus hijos menores. También tendrá derecho preferente sobre los bienes propios del marido para la satisfacción del mismo objeto. La mujer puede pedir el aseguramiento de bienes para hacer efectivos estos derechos.
+ART. 148.- Los cónyuges vivirán juntos en el domicilio conyugal. Los Tribunales, con conocimiento de causa, podrán eximir de esta obligación a alguno de ellos, cuando el otro traslade su domicilio a País extranjero, a no ser que lo haga en servicio público o social, o se establezca en lugar insalubre o indecoroso.
 
-ART. 151.- El marido tendrá el derecho que a la mujer concede el artículo anterior, en los casos en que ésta tenga obligación de contribuír en todo o en parte para los gastos de la familia y del hogar.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-ART. 152.- El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, de común acuerdo arreglarán todo lo relativo a la educación y establecimiento de los hijos y a la administración de los bienes que a éstos pertenezcan.
+ART. 149.- La obligación de proporcionar los alimentos recaerá en aquel cónyuge que se encuentre en mejor posición económica y de trabajo, el otro contribuirá si tuviere medios para hacerlo, sólo en proporción a sus posibilidades.
 
-En caso de que el marido y la mujer no estuvieren conformes sobre alguno de los puntos indicados, el juez de lo civil correspondiente procurará avenirlos, y si no lo lograre, resolverá, sin forma de juicio, lo que fuere más conveniente a los intereses de los hijos.
+Solamente estando imposibilitado para trabajar y careciendo de bienes propios, se eximirá de esta obligación al que se encontrara en este caso.
+
+Quien dolosamente abandone su trabajo, y no teniéndolo, no procure conseguirlo, dilapide sus bienes o simule actos con el objeto de parecer insolvente, independientemente de las obligaciones que le impone esta Ley, se le aplicarán las penas a que refiere el delito de abandono de personas del Código Penal vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+
+ART. 150.- Los cónyuges y los hijos, en materia de alimentos, tendrán derecho preferente sobre los ingresos y bienes de quien tenga a su cargo el sostenimiento económico de la familia y podrán demandar el aseguramiento de los bienes para hacer efectivos estos derechos.
+
+ART. 151.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+
+ART. 152.- Los cónyuges resolverán de común acuerdo todo lo conducente al manejo del hogar, formación y educación de los hijos. En caso de desacuerdo el Juez de Primera Instancia del domicilio del hogar conyugal resolverá sobre la oposición de cualquiera de ellos.
 
 ART. 153.- Estará a cargo de la mujer la dirección y cuidado de los trabajos del hogar.
 
-ART. 154.- La mujer podrá desempeñar un empleo, ejercer una profesión, industria, oficio o comercio, cuando ello no perjudique a la misión que le impone el artículo anterior.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-ART. 155.- El marido podrá oponerse a que la mujer se dedique a las actividades a que se refiere el artículo anterior, siempre que subvenga a todas las necesidades del hogar y funde la oposición en causas graves y justificadas.
+ART. 154.- Los cónyuges podrán desempeñar cualquier actividad, excepto las que dañen la moral de la familia o la estructura de ésta. Cualquiera de ellos podrá oponerse a que el otro desempeñe la actividad de que se trate y el Juez de Primera Instancia del domicilio conyugal, resolverá sobre la oposición.
 
-ART. 156.- En caso de que la mujer insista en usar de los derechos que le concede el artículo 154, no obstante de que el marido se los rehuse apoyado en lo dispuesto en el artículo anterior, el juez respectivo resolverá lo que sea procedente.
+ART. 155.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
+
+ART. 156.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
 ART. 157.- El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
 
 ART. 158.- El marido y la mujer, menores de edad, tendrán la administración de sus bienes en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
 
-ART. 159.- La mujer necesita autorización judicial para contratar con su marido, excepto cuando el contrato que celebre sea el de mandato.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-ART. 160.- También se requiere autorización judicial para que la mujer sea fiadora de su marido o se obligue solidariamente con él, en asuntos que sean del interés exclusivo de éste.
+ART. 159.- Los cónyuges requieren autorización judicial para contratar entre ellos, excepto cuando el contrato sea el de mandato para pleitos y cobranzas o para actos de administración.
 
-La autorización, en los casos a que se refieren los dos artículos anteriores, no se concederá cuando notoriamente resulten perjudicados los intereses de la mujer.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-Esta no necesita autorización judicial para otorgar fianza a fin de que su esposo obtenga la libertad.
+ART. 160.- También se requiere autorización judicial para que el cónyuge sea fiador de su consorte o se obligue solidariamente con él, en asuntos que sean de interés exclusivo de éste, salvo cuando se trate de otorgar caución para que el otro obtenga su libertad.
+
+La autorización, en los casos a que se refieren los dos artículos anteriores, no se concederá cuando resulten perjudicados los intereses de la familia o de uno de los cónyuges.
 
 ART. 161.- El contrato de compra-venta sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
 
@@ -567,19 +595,23 @@ ART. 164.- Serán también propios de cada uno de los consortes los salarios, su
 
 ART. 165.- El hombre y la mujer, antes o después de contraer matrimonio, pueden convenir en que los productos de todos los bienes que poseen o de alguno o algunos de ellos, especificándolos en todo caso, serán comunes; pero entonces fijarán de una manera clara y precisa la fecha en que se ha de hacer la liquidación y presentar las cuentas correspondientes.
 
-ART. 166.- El hombre y la mujer, antes y después de celebrar el contrato de matrimonio, pueden convenir en que los productos de su trabajo, profesión, industria o comercio se dividirán entre ellos en determinada proporción, siempre que la mujer tenga en los productos del marido la misma representación que ella conceda a éste en lo suyos. Esto mismo se observará en el caso del artículo anterior. La infracción de este precepto será causa de nulidad del contrato.
+> <small>(REFORMADO, 20 DE JULIO DE 1975)</small>
 
-ART. 167.- El marido puede conceder a la mujer en los productos que obtuviere por su trabajo o con sus bienes, una representación mayor que la que la mujer conceda en los suyos.
+ART. 166.- El hombre y la mujer antes y después de contraer matrimonio, pueden convenir en que los productos de su trabajo, profesión, industria o comercio, se dividen entre ellos en la proporción y términos que convengan.
 
-El marido puede también conceder a la mujer una parte de los productos de su trabajo, profesión, comercio o industria o de sus bienes, aunque la mujer no preste ningún trabajo, ni ejerza alguna profesión, comercio o industria o no tenga bienes propios.
+ART. 167.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
 ART. 168.- Los pactos a que se refiere el artículo anterior, sólo surtirán efectos con relación a tercero, siempre que consten en escritura pública debidamente registrada si se tratare de bienes raíces y que no comprendan más de la mitad de los frutos o productos.
 
 ART. 169.- El cónyuge que faltare a lo convenido dará derecho al otro o para pedir el cumplimiento del contrato, o para pedir su rescisión para lo sucesivo y el cumplimiento de él hasta la fecha de la demanda.
 
-ART. 170.- La mujer tendrá siempre derecho preferente sobre los productos de los bienes del marido y sobre su sueldo, salarios u honorarios para pagarse de las cantidades que correspondan para alimentos de ella y de sus hijos menores. También tendrá derecho preferente para igual objeto sobre los mismos bienes propios del marido, después que se paguen con el valor de éstos los créditos hipotecarios o prendarios legalmente establecidos.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-ART. 171.- El marido tendrá el derecho que a la mujer confiere el artículo anterior, cuando ésta tenga que contribuír en todo o en parte para los gastos de la familia y del hogar.
+ART. 170.- Cuando se trate de alimentos, el cónyuge acreedor tendrá derecho preferente, sobre los bienes, sueldos, salarios u honorarios del otro cónyuge que tenga a su cargo la obligación de proporcionarlos, para pagarse con ellos las cantidades que correspondan al primero y a sus menores hijos.
+
+También tendrá derecho preferente, para igual objeto sobre los bienes del deudor alimentario, después de que se paguen con el valor de éstos, los créditos hipotecarios o prendarios legalmente establecidos.
+
+ART. 171.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
 ART. 172.- Los bienes que los cónyuges adquieren en común por donación, herencia, legado, por cualquier otro título gratuito u oneroso o por don de la fortuna, entre tanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en este caso, el que administre será considerado como mandatario del otro.
 
@@ -649,11 +681,13 @@ III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 8
 
 ART. 195.- La acción de nulidad que nace de error, sólo puede deducirse por el cónyuge engañado, pero si éste no denuncia el error inmediatamente que lo advierte, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
-ART. 196.- La menor edad de dieciseis años en el hombre y de catorce en la mujer dejará de ser causa de nulidad:
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-I.- Cuando haya habido hijos;
+ART. 196.- La menor de edad de 16 años en el hombre y de 14 en la mujer dejará de ser causa de nulidad:
 
-II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los veintiún años, y ni él ni el otro cónyuge hubieren intentado la nulidad.
+I.- Cuando haya habido hijos.
+
+II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los 18 años, y ni él ni el otro cónyuge hubieran intentado la nulidad.
 
 ART. 197.- La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquél o aquellos a quienes tocaba prestar dicho consentimiento, y dentro de 30 días contados desde que tengan conocimiento del matrimonio.
 
@@ -713,9 +747,13 @@ ART. 216.- La buena fe se presume; para destruir esta presunción se requiere pr
 
 ART. 217.- Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el artículo 243.
 
-ART. 218.- Luego que la sentencia sobre nulidad cause ejecutoria, los hijos varones mayores de cinco años, quedarán al cuidado del padre y las hijas al cuidado de la madre, si de parte de ambos cónyuges hubiere habido buena fe.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-ART. 219.- Si uno solo de los cónyuges ha procedido de buena fe, quedarán todos los hijos bajo su cuidado; pero siempre, y aun tratándose de divorcio, las hijas e hijos menores de cinco años, se mantendrán al cuidado de la madre hasta que cumplan esta edad, a menos que la madre se dedicare a la prostitución, al lenocinio, hubiere contraído el hábito de embriagarse, tuviere alguna enfermedad contagiosa, o por su conducta ofreciere peligro grave para la salud o la moralidad de sus hijos.
+ART. 218.- Luego que la sentencia sobre nulidad cause ejecutoria, el padre y la madre propondrán la forma y términos del cuidado y custodia de los hijos. En el caso de que no exista este acuerdo, el Juez con la intervención del Ministerio Público tomando en cuenta el beneficio de los menores, resolverá lo conducente.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+
+ART. 219.- El Juez en todo tiempo, podrá modificar la determinación a que se refiere el artículo anterior, atento a las nuevas circunstancias y a lo dispuesto en los artículos 382, 383, y 394 Fracción III de esta Ley.
 
 ART. 220.- Declarada la nulidad del matrimonio se procederá a la división de los bienes comunes, si los hubiere. Los productos repartibles, si los dos cónyuges hubieren procedido de buena fe, se dividirá entre ellos en la forma convenida en las capitulaciones matrimoniales; si sólo hubiere habido buena fe por parte de uno de los cónyuges, a éste se aplicarán íntegramente esos productos. Si ha habido mala fe de parte de ambos cónyuges, los productos se aplicarán a favor de los hijos.
 
@@ -767,7 +805,9 @@ X.- La declaración de ausencia legalmente hecha, o la de presunción de muerte,
 
 XI.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro;
 
-XII.- La negativa de los cónyuges de darse alimentos, de acuerdo con lo dispuesto en el artículo 149, siempre que no puedan hacer efectivos los derechos que les conceden los artículos 150 y 151;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
+
+XII.- La negativa injustificada de los cónyuges a cumplir las obligaciones señaladas en los Artículos 149 y 152;
 
 XIII.- La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
 
@@ -795,7 +835,9 @@ I.- Designación de la persona a quien sean confiados los hijos del matrimonio, 
 
 II.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
-III.- La casa que servirá de habitación a la mujer durante el procedimiento;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
+
+III.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento;
 
 IV.- La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento, la forma de hacer el pago y la garantía que debe darse para asegurarlo;
 
@@ -825,11 +867,15 @@ ART. 243.- Al admitirse la demanda de divorcio, o antes, si hubiere urgencia, se
 
 I.- Separar a los cónyuges en todo caso;
 
-II.- Depositar en casa de persona de buenas costumbres a la mujer, si se dice que ésta ha dado causa al divorcio, y el marido pidiere el depósito, oyéndose previamente a la mujer para decretar ésto. La casa que para ésto se destine será designada por el juez. Si la causa por la que se pide el divorcio no supone culpa en la mujer, ésta no se depositará sino a solicitud suya;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
+
+II.- Proceder a la separación de los cónyuges de conformidad con lo dispuesto para tal efecto en el Código de Procedimientos Civiles;
 
 III.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
 
-IV.- Dictar las medidas convenientes para que el marido no cause perjuicios en sus bienes a la mujer;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
+
+IV.- Dictar las medidas que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en lo de la sociedad conyugal, en su caso;
 
 V.- Dictar en su caso, las medidas precautorias que la Ley establece respecto a la mujer que quede encinta;
 
@@ -843,17 +889,21 @@ Segunda.- Cuando la causa del divorcio estuviere comprendida en las fracciones I
 
 Tercera.- En el caso de las fracciones VI y VII del artículo 226, los hijos quedarán en poder del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos.
 
-ART. 245.- Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, podrán acordar los tribunales, a petición de los abuelos, tíos o hermanos mayores, cualquiera providencia que se considere benéfica a los menores.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+
+ART. 245.- Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, el Juez podrá acordar, a petición de los abuelos, tíos o hermanos mayores, cualquier medida que se considere benéfica para los menores. El Juez podrá modificar esta decisión atento a lo dispuesto en los Artículos 382, 383 y 394 Fracción III de esta Ley.
 
 ART. 246.- El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
 
 ART. 247.- El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
 
-ART. 248.- Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes, se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges, o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuír, en proporción a sus bienes, a la subsistencia y educación de los hijos varones hasta que lleguen a la mayor edad, y de las hijas aunque sean mayores de edad, hasta que contraigan matrimonio, siempre que vivan honestamente.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-ART. 249.- En los casos de divorcio, la mujer inocente tendrá derecho a alimentos mientras no contraiga nuevas nupcias y viva honestamente. El marido inocente sólo tendrá derecho a alimentos cuando esté imposibilitado para trabajar y no tenga bienes propios para subsistir. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+ART. 248.- Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos, de acuerdo con lo dispuesto y en los términos del Artículo 149, subsistiendo esta obligación para estos últimos hasta que lleguen a la mayoría de edad.
 
-En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia, ni a la indemnización que concede este artículo.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+
+ART. 249.- En los casos de divorcio el cónyuge inocente tendrá derecho a alimentos mientras no contraiga nuevas nupcias y viva honestamente. Sólo gozará de este derecho cuando no cuente con recursos, esté imposibilitado para trabajar y no tenga bienes propios para subsistir.
 
 ART. 250.- En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
 
@@ -951,9 +1001,13 @@ V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abando
 
 ART. 282.- El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción.
 
-ART. 283.- Cuando el marido no estuviere presente, o estándolo rehusare entregar a la mujer lo necesario para los alimentos de ella y de los hijos, será responsable de las deudas que la esposa contraiga para cubrir esta exigencia; pero sólo en la cuantía estrictamente necesaria para ese objeto, y siempre que no se trate de gastos de lujo.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-ART. 284.- La esposa que, sin culpa suya, se vea obligada a vivir separada de su marido, podrá pedir al juez de primera instancia del lugar de su residencia, que obligue a su esposo a darle alimentos durante la separación, y a que le ministre todos los que haya dejado de darle desde que la abandonó. El juez, según las circunstancias del caso, fijará la suma que el marido debe ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el esposo pague los gastos que la mujer haya tenido que erogar con tal motivo.
+ART. 283.- Cuando el deudor alimentario no estuviere presente o estándolo rehusare entregar lo necesario para los alimentos de los miembros de su familia con derecho a recibirlos, se hará responsable de las deudas que éstos contraigan para cubrir esa exigencia, pero sólo en la cuantía estrictamente necesaria para ese objeto y siempre que no se trate de gastos de lujo.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+
+ART. 284.- El cónyuge que se haya amparado del otro, sigue obligado a cumplir con los gastos a que se refiere el Artículo 149. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al Juez de Primera Instancia del lugar de su residencia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de la separación, y que satisfaga los adeudos contraídos en los términos del Artículo anterior. Si dicha proporción no se pudiera determinar, el Juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
 
 ## TITULO SEXTO. Del Parentesco y de los Alimentos
 
@@ -1107,9 +1161,11 @@ ART. 330.- Cuando el padre y la madre reconocen separadamente a un hijo, no podr
 
 ART. 331.- El oficial del registro civil, el juez de primera instancia, en su caso, y el notario que consienta en la violación del artículo que precede serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro por un término que no baje de dos ni exceda de cinco años.
 
-ART. 332.- La mujer casada no podrá reconocer sin el consentimiento del marido a un hijo habido antes de su matrimonio.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-ART. 333.- El marido podrá reconocer a un hijo habido antes de su matrimonio o durante éste; pero no tendrá derecho de llevarlo a vivir a la habitación conyugal si no es con el consentimiento expreso de la esposa.
+ART. 332.- El cónyuge podrá reconocer el hijo habido antes de su matrimonio sin el consentimiento del otro cónyuge; pero no tendrá derecho a llevarlo a vivir a la habitación conyugal si no es con la anuencia expresa de éste.
+
+ART. 333.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
 ART. 334.- El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido y por sentencia ejecutoria se haya declarado que no es hijo suyo.
 
@@ -1253,7 +1309,9 @@ ART. 376.- En los casos previstos en los artículos 340 y 341, cuando por cualqu
 
 ART. 377.- Cuando los padres del hijo nacido fuera de matrimonio que vivían juntos, se separen, continuará ejerciendo la patria potestad en caso de que no se pongan de acuerdo sobre este punto, el progenitor que designe el juez, teniendo siempre en cuenta los intereses del hijo.
 
-ART. 378.- A falta de padres ejercerán la patria potestad sobre el hijo reconocido, los demás ascendientes a que se refieren las fracciones II y III del artículo 374.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+
+ART. 378.- A falta de padres ejercerán la patria potestad sobre los hijos, los demás ascendientes en el orden a que se refieren las Fracciones II y III del Artículo 374, mismo que puede ser alterado por el Juez de Primera Instancia cuando en su concepto traiga consigo un mayor beneficio para los menores.
 
 ART. 379.- La patria potestad sobre el hijo adoptivo la ejercerán únicamente las personas que lo adopten.
 
@@ -1265,9 +1323,11 @@ ART. 381.- Mientras estuviere el hijo en la patria potestad, no podrá dejar la 
 
 ART. 382.- A las personas que tienen al hijo bajo su patria potestad, incumbe la obligación de educarle convenientemente.
 
-ART. 383.- Los que ejercen la patria potestad tienen la facultad de corregir y castigar a sus hijos mesuradamente.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-Las autoridades en caso necesario auxiliarán a esas personas, haciendo uso de amonestaciones y correctivos que presten el apoyo suficiente a la autoridad paterna.
+ART. 383.- Para los efectos del Artículo anterior, los que ejerzan la patria potestad o tengan hijos bajo su custodia, tienen la facultad de corregirlos y castigarlos mesuradamente y la obligación de observar una conducta que sirva de buen ejemplo.
+
+Las autoridades en caso necesario, auxiliarán a esas personas haciendo uso de amonestaciones y correctivos que presten el apoyo suficiente a la autoridad de los padres.
 
 ART. 384.- El que está sujeto a la patria potestad no puede comparecer en juicio ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejercen igual derecho. En caso de irracional disenso, resolverá el juez.
 
@@ -1485,7 +1545,9 @@ ART. 447.- Cuando haya dos o más hijos, será preferido el que viva en compañ�
 
 ART. 448.- El padre y por muerte o incapacidad de éste, la madre, son de derecho tutores de sus hijos, solteros o viudos, cuando ellos no tengan hijos que puedan desempeñar la tutela.
 
-ART. 449.- A falta de tutor testamentario y de persona que, con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamados a ella, sucesivamente: el abuelo paterno, el materno, los hermanos del incapacitado y los demás colaterales a que se refiere la fracción II del artículo 442; observándose en su caso, lo que dispone el artículo 443.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+
+ART. 449.- A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamados a ella sucesivamente: los abuelos, los hermanos del incapacitado y los demás colaterales a que se refiere la Fracción II del Artículo 442; observándose en su caso lo que dispone el Artículo 443.
 
 ART. 450.- El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
@@ -1583,7 +1645,9 @@ VI.- Los que tengan sesenta años cumplidos;
 
 VII.- Los que tengan a su cargo otra tutela o curaduría.
 
-VIII.- Las mujeres, cuando por su falta de ilustración, por su inexperiencia en los negocios, por su timidez o por otra causa igualmente grave a juicio del juez, no estén en aptitud de desempeñar convenientemente la tutela.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
+
+VIII.- Los que por su inexperiencia en los negocios o por causa grave, a juicio del Juez, no estén en aptitud de desempeñar conveneintemente (sic) la tutela.
 
 ART. 465.- Si el que teniendo excusa legítima para ser tutor, acepta el cargo, renuncia por el mismo hecho a la excusa que le concede la Ley.
 
@@ -1741,7 +1805,9 @@ ART. 517.- El nombramiento de árbitros hecho por el tutor, deberá sujetarse a 
 
 ART. 518.- Para que el tutor transija, cuando el objeto de reclamación consista en bienes inmuebles, muebles preciosos o bien, en valores mercantiles o industriales cuya cuantía exceda de mil pesos, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
 
-ART. 519.- Ni con licencia judicial, ni en almoneda o fuera de ella, puede el tutor comprar o arrendar los bienes del incapacitado ni hacer contrato alguno respecto de ellos para sí, sus ascendientes, su mujer, hijos o hermanos por consaguinidad (sic) o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+
+ART. 519.- Ni con licencia judicial, ni en almoneda o fuera de ella puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno de ellos para sí, sus ascendientes, su mujer o marido, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
 
 ART. 520.- Cesa la prohibición del artículo anterior, respecto de la venta de bienes, en caso de que el tutor o parientes allí mencionados sean coherederos, partícipes o socios del incapacitado.
 
@@ -1765,13 +1831,17 @@ ART. 529.- El tutor tiene obligación de admitir las donaciones simples, legados
 
 ART. 530.- La expropiación por causa de utilidad pública de bienes de incapacitados no se sujetará a las reglas antes establecidas, sino a lo que dispongan las leyes de la materia.
 
-ART. 531.- Cuando sea tutor el marido, continuará ejerciendo respecto de su mujer incapacitada los derechos conyugales con las siguientes modificaciones:
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-I.- En los casos en que conforme a derecho fuere necesario el consentimiento de la mujer, se suplirá éste por el juez con audiencia del curador;
+ART. 531.- Cuando el tutor de un incapaz sea el cónyuge, continuará ejerciendo los derechos conyugales con las siguientes modificaciones:
 
-II.- La mujer en los casos en que pueda querellarse de su marido o demandarlo para asegurar sus derechos violados o amenazados, estará representada por un tutor interino que el juez le nombrará. Es obligación del curador promover este nombramiento y si no lo cumple será responsable de los perjuicios que se sigan al incapacitado.
+I.- Es (sic) los casos en que conforme a derecho se requiera del consentimiento del cónyuge, se suplirá éste por el Juez con audiencia del curador.
 
-ART. 532.- Cuando la tutela del incapacitado recayere en su mujer, ejercerá ésta la autoridad de aquél; pero no podrá gravar ni enajenar los bienes del marido que sean de la clase a que se refiere el artículo 518, sin previa autorización judicial y audiencia del curador, que se concederá de acuerdo con lo dispuesto en el artículo 511.
+II.- En los casos en que el cónyuge incapaz pueda querellarse del otro, denunciarlo o demasdarlo (sic) para asegurar sus deechos (sic) violados o amenazados, será representado por un tutor interino que el Juez le nombrará. Es obligación del curador promover este nombramiento y si no lo cumple, será responsable de los perjuicios que se causen al incapacitado.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+
+ART. 532.- Cuando la tutela del incapaz recaiga en el cónyuge, sólo podrá gravar o enajenar los bienes mencionados en el artículo 518, previa audiencia del curador y autorizción (sic) judicial, que se concederá de acuerdo con lo dispuesto por el Artículo 511.
 
 ART. 533.- Cuando la tutela recaiga en cualquiera otra persona, se ejercerá conforme a las reglas establecidas para la tutela de los menores.
 
@@ -1911,25 +1981,25 @@ ART. 586.- Tampoco pueden alegarla los menores, si han presentado certificados f
 
 ART. 587.- El matrimonio del menor produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
 
-ART. 588.- Los mayores de dieciocho años que estén sujetos a patria potestad o a tutela, tienen derecho a que se les emancipe, si demuestran su buena conducta y su aptitud para el manejo de sus intereses.
+ART. 588.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-Los padres o tutores pueden emancipar a sus hijos y pupilos que se encuentren en las condiciones mencionadas en el párrafo anterior, siempre que éstos consientan en su emancipación.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
 ART. 589.- El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
 
-I.- Del consentimiento del que lo emancipó para contraer matrimonio antes de llegar a la mayor edad. Si el que otorgó la emancipación ejercía la patria potestad y ha muerto, o está incapacitado legalmente al tiempo en que el emancipado intente casarse, necesita éste el consentimiento del ascendiente a quien corresponda darlo, y en su defecto, el del juez;
+I.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces.
 
-II.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
-
-III.- De un tutor para los negocios judiciales.
+II.- De un tutor para los negocios judiciales.
 
 ART. 590.- Hecha la emancipación, no puede ser revocada.
 
-ART. 591.- Fuera del caso a que se refiere el artículo 587, la emancipación siempre será decretada por el juez, y la resolución correspondiente se remitirá al oficial del registro civil para que levante el acta respectiva.
+ART. 591.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
 ### CAPITULO II. De la Mayor Edad
 
-ART. 592.- La mayor edad comienza a los veintiún años cumplidos.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+
+ART. 592.- La mayor edad comienza a los dieciocho años cumplidos.
 
 ART. 593.- El mayor de edad dispone libremente de su persona y de sus bienes.
 
@@ -3641,17 +3711,27 @@ ART. 1213.- Si el legado consistiere en prestación periódica, el legatario har
 
 ### CAPITULO V. De los bienes de que se puede disponer por Testamento y de los Testamentos Inoficiosos
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 1975)</small>
+
 ART. 1214.- El testador debe dejar alimentos a las personas que se mencionan en las fracciones siguientes:
 
-I.- A los descendientes varones menores de veintiún años;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
 
-II.- A los descendientes varones que estén imposibilitados de trabajar, y a las hijas que no hayan contraído matrimonio y vivan honestamente, unos y otras aun cuando fueren mayores de veintiún años;
+I.- A los descendientes menores de 18 años;
 
-III.- Al cónyuge supérstite, siempre que siendo varón esté impedido de trabajar, o que siendo mujer, permanezca viuda y viva honestamente;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
+
+II.- A los descesdientes (sic) que estén imposibilitados de trabajar, cualquiera que sea su edad;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
+
+III.- Al cónyuge supérstite cuando esté impedido de trabajar y no tenga bienes suficientes. Salvo otra disposición expresa del testador, este derecho subsistirá en tanto no contraiga matrimonio y viva hosestamente (sic);
 
 IV.- A los ascendientes;
 
-V.- A la mujer con quien el testador vivió como si fuera su marido, durante los cinco años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato. La concubina sólo tendrá derecho a alimentos mientras que observe buena conducta y no se case. Si fueren varias las concubinas, ninguna de ellas tendrá derecho a alimentos;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
+
+V.- A la persona con quien el testador vivió como si fuera su cónyuge durante los cinco años que precedieron a su muerte o con quien tuvo hijos durante ese tiempo, siempre que ambos hayan permanecido libres del matrimonio durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trate no contraiga nupcias y observe buena conducta. Si fueren varias las personas con quienes el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos;
 
 VI.- A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados o mientras que no cumplan los dieciocho años, si no tienen bienes para subvenir a sus necesidades.
 
@@ -4821,71 +4901,31 @@ ART. 1632.- Los contratos se perfeccionan por el mero consentimiento; excepto aq
 
 ART. 1633.- La validez y el cumplimiento de los contratos no puede dejarse al arbitrio de uno de los contratantes.
 
-Representación
+Vicios del Consentimiento
 
-ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
+ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
 
-ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
+ART. 1649.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
 
-ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
+ART. 1650.- El error de cálculo sólo da lugar a que se rectifique.
 
-Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
+ART. 1651.- Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes, y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
 
-División de los Contratos
+ART. 1652.- El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
 
-ART. 1671.- El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
+ART. 1653.- Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del acto o reclamarse indemnizaciones.
 
-ART. 1672.- El contrato es bilateral cuando las partes se obligan recíprocamente.
+ART. 1654.- Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
 
-ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
+ART. 1655.- Hay violencia cuando se emplea fuerza física o amenaza que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
 
-ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
+ART. 1656.- El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
 
-Interpretación
+ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente pueden resultar de la celebración o no celebración del contrato, y que no importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
 
-ART. 1687.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
+ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
 
-Si las palabras parecieren contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquéllas.
-
-ART. 1689 (SIC).- Cualquiera que se la generalidad de los términos de un contrato, no deberán entenderse comprendidos en él cosas distintas y casos diferentes de aquellos sobre los que los interesados se propusieron contratar.
-
-ART. 1689.- Si alguna cláusula de los contratos admitiere diversos sentidos, deberá entenderse en el más adecuado para que produzca efecto.
-
-ART. 1690.- Las cláusulas de los contratos deben interpretarse las unas por las otras, atribuyendo a las dudosas el sentido que resulte del conjunto de todas.
-
-ART. 1691.- Las palabras que pueden tener distintas aceptaciones serán entendidas en aquélla que sea más conforme a la naturaleza y objeto del contrato.
-
-ART. 1692.- El uso o la costumbre se tendrán en cuenta para interpretar las ambigüedades de los contratos.
-
-ART. 1693.- Cuando absolutamente fuere imposible resolver las dudas por las reglas establecidas en los artículos precedentes, si aquéllas recaen sobre circunstancias accidentales del contrato, y éste fuere gratuito, se resolverá en favor de la menor transmisión de derechos e intereses; si fuere oneroso se resolverá la duda en favor de la mayor reciprocidad de intereses.
-
-Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cual fue la intención o la voluntad de los contratantes, el contrato será nulo.
-
-Del Consentimiento
-
-ART. 1639.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por la Ley o por convenio la voluntad deba manifestarse expresamente.
-
-ART. 1640.- Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
-
-ART. 1641.- Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono.
-
-ART. 1642.- Cuando la oferta se haga sin fijación de plazo a una persona no presente, el autor de la oferta quedará ligado durante tres días, además del tiempo necesario para la ida y vuelta regular del correo público, o del que se juzgue bastante, no habiendo correo público, según las distancias y la facilidad o dificultad de las comunicaciones.
-
-ART. 1643.- El contrato se forma en el momento en que el proponente reciba la aceptación, estando ligado por su oferta según los artículos precedentes.
-
-ART. 1644.- La oferta se considerará como no hecha si la retira su autor y el destinatario recibe la retractación antes que la oferta. La misma regla se aplica al caso en que se refiere la aceptación.
-
-ART. 1645.- Si al tiempo de la aceptación hubiere fallecido el proponente, sin que el aceptante fuere sabedor de su muerte, quedarán los herederos de aquél obligados a sostener el contrato.
-
-ART. 1646.- El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
-
-ART. 1647.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
-
-Disposiciones Finales
-
-ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
-
-ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
+ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
 
 Del objeto y del motivo o fin de los Contratos
 
@@ -4913,47 +4953,57 @@ ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público 
 
 ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
 
-Vicios del Consentimiento
+División de los Contratos
 
-ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
+ART. 1671.- El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
 
-ART. 1649.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
+ART. 1672.- El contrato es bilateral cuando las partes se obligan recíprocamente.
 
-ART. 1650.- El error de cálculo sólo da lugar a que se rectifique.
+ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
 
-ART. 1651.- Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes, y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
+ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
 
-ART. 1652.- El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
+Disposiciones Finales
 
-ART. 1653.- Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del acto o reclamarse indemnizaciones.
+ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
 
-ART. 1654.- Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
-
-ART. 1655.- Hay violencia cuando se emplea fuerza física o amenaza que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
-
-ART. 1656.- El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
-
-ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente pueden resultar de la celebración o no celebración del contrato, y que no importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
-
-ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
-
-ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
-
-Forma
-
-ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
-
-ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
-
-ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
-
-Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
+ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
 
 De la Capacidad
 
 ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
 
 ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
+
+Representación
+
+ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
+
+ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
+
+ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
+
+Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
+
+Del Consentimiento
+
+ART. 1639.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por la Ley o por convenio la voluntad deba manifestarse expresamente.
+
+ART. 1640.- Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
+
+ART. 1641.- Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono.
+
+ART. 1642.- Cuando la oferta se haga sin fijación de plazo a una persona no presente, el autor de la oferta quedará ligado durante tres días, además del tiempo necesario para la ida y vuelta regular del correo público, o del que se juzgue bastante, no habiendo correo público, según las distancias y la facilidad o dificultad de las comunicaciones.
+
+ART. 1643.- El contrato se forma en el momento en que el proponente reciba la aceptación, estando ligado por su oferta según los artículos precedentes.
+
+ART. 1644.- La oferta se considerará como no hecha si la retira su autor y el destinatario recibe la retractación antes que la oferta. La misma regla se aplica al caso en que se refiere la aceptación.
+
+ART. 1645.- Si al tiempo de la aceptación hubiere fallecido el proponente, sin que el aceptante fuere sabedor de su muerte, quedarán los herederos de aquél obligados a sostener el contrato.
+
+ART. 1646.- El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
+
+ART. 1647.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
 
 Cláusulas que pueden contener los Contratos
 
@@ -4984,6 +5034,36 @@ ART. 1684.- En las obligaciones mancomunadas con cláusula penal, bastará la co
 ART. 1685.- En el caso del artículo anterior, cada uno de los herederos responderá de la parte de la pena que le corresponda, en proporción a su cuota hereditaria.
 
 ART. 1686.- Tratándose de obligaciones indivisibles, se observará lo dispuesto en el artículo 1840.
+
+Forma
+
+ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
+
+ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
+
+ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
+
+Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
+
+Interpretación
+
+ART. 1687.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
+
+Si las palabras parecieren contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquéllas.
+
+ART. 1689 (SIC).- Cualquiera que se la generalidad de los términos de un contrato, no deberán entenderse comprendidos en él cosas distintas y casos diferentes de aquellos sobre los que los interesados se propusieron contratar.
+
+ART. 1689.- Si alguna cláusula de los contratos admitiere diversos sentidos, deberá entenderse en el más adecuado para que produzca efecto.
+
+ART. 1690.- Las cláusulas de los contratos deben interpretarse las unas por las otras, atribuyendo a las dudosas el sentido que resulte del conjunto de todas.
+
+ART. 1691.- Las palabras que pueden tener distintas aceptaciones serán entendidas en aquélla que sea más conforme a la naturaleza y objeto del contrato.
+
+ART. 1692.- El uso o la costumbre se tendrán en cuenta para interpretar las ambigüedades de los contratos.
+
+ART. 1693.- Cuando absolutamente fuere imposible resolver las dudas por las reglas establecidas en los artículos precedentes, si aquéllas recaen sobre circunstancias accidentales del contrato, y éste fuere gratuito, se resolverá en favor de la menor transmisión de derechos e intereses; si fuere oneroso se resolverá la duda en favor de la mayor reciprocidad de intereses.
+
+Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cual fue la intención o la voluntad de los contratantes, el contrato será nulo.
 
 ### CAPITULO II. De la declaración unilateral de la voluntad
 
@@ -6043,7 +6123,7 @@ ART. 2104.- Tratándose de la venta de determinados bienes, como los pertencient
 
 ART. 2105.- Los extranjeros y las personas morales no pueden comprar bienes raíces, sino sujetándose a lo dispuesto en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y en sus leyes reglamentarias.
 
-ART. 2106.- Los consortes no pueden celebrar entre sí el contrato de compra-venta, sino de acuerdo con lo dispuesto en los artículos 159 y 160.
+ART. 2106.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
 ART. 2107.- Los magistrados, los jueces, el Ministerio Público, los defensores de oficio, los abogados, los procuradores y los peritos no pueden comprar los bienes que son objeto de los juicios en que intervengan. Tampoco podrán ser cesionarios de los derechos que se tengan sobre los citados bienes.
 
@@ -8598,3 +8678,9 @@ UNICO.- Este Decreto entrará en vigor el día de su publicación en el Periódi
 P.O. 9 DE DICIEMBRE DE 1971.
 
 UNICO.- El presente Decreto comenzará a surtir efectos diez días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JULIO DE 1975.
+
+PRIMERO.- El presente Decreto deroga los anteriores que se le opusieren.
+
+SEGUNDO.- Este Decreto entraráá (sic) en vigor treinta días después de la fecha de su pupublicación (sic).
