@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "1994-01-15"
+last_updated: "1994-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 1994.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -307,13 +307,23 @@ IV.- La Sección Municipal de Sihochac;
 
 V.- La Sección Municipal de Carrillo Puerto;
 
-VI.- Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la cabecera y Secciones Municipales en la forma siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 1994)</small>
+
+VI.- La Sección Municipal de Constitución.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 1994)</small>
+
+Las poblaciones, Ejidos, Rancherías y Heredades que constituyen la circunscripción jurisdiccional de la cabecera y Secciones Municipales en la forma siguiente:
 
 I.- A la ciudad de Champotón, Cabecera del Municipio, corresponden:
 
-a) Los pueblos de: Pustunich, Silvituc, Xbonil, Chan Laguna, Constitución (antes Chan Che), Conhuás y Concepción.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1994)</small>
 
-b) Los ejidos de: Paraíso, San Pablo Pixtún, Villa de Guadalupe, José María Morelos y Pavón, Ley Federal de Reforma Agraria, Dzacabuchén, Aquiles Serdán, (antes Chuiná), Xbacab, Revolución, Juan de la Barrera, Km. 67 (antes Venustiano Carranza), López Mateos, (antes La Desconfianza), San Antonio Yacasay, Buenaventura, San Miguel Ulumal, Moquel, San Juan Carpizo, Canasayab N.C.P.E., López Mateos, Centenario, Xbonil, López Portillo N.C.P.E., Altamira de Zinaparo, Las Maravillas, Santa Lucía, Pablo García, Km. 120, Emiliano Zapata, Eugenio Echeverría Castellot, y Puebla de Morelia.
+a) El pueblo de: Pustunich.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1994)</small>
+
+b) Ejidos de: Paraíso, San Pablo Pixtún, Villa de Guadalupe, José María Morelos y Pavón, Ley Federal de Reforma Agraria, Dzacabuchén, Aquiles Serdán, (antes Chuiná), Xbacab, Revolución, Juan de la Barrera, Km. 67 (antes Venustiano Carranza), López Mateos (antes La Desconfianza), San Antonio Yacasay, Buenaventura, San Miguel, Ulumal, Moguel, San Juan Carpizo, Canasayab y López Portillo No. 2, El Cañaveral, General Ortiz Avila, Ignacio López Rayón, San Miguel, Punta de Valle de Quetzalcoatl, Lázaro Cárdenas, Carlos Salinas de Gortari, N.C.P.E. Villamar, La Prudencia, San Antonio del Río, Nuevo Michoacán, Nayarit Castellot, Moch Cohuó, N.C.P.E. Ignacio Allende, N.C.P.E. Melchor Ocampo, Kukulcán, General Ignacio Gutiérrez, Profr. Graciano Sánchez, Dzitbalché Castellot, Chilam Balam, Ah-kim-pech y Coronel Ortiz Avila.
 
 c) Las Secciones Ejidales de: El Zapote y Vicente Guerrero.
 
@@ -368,6 +378,16 @@ a) El pueblo de Carrillo Puerto, Cabecera de la Sección.
 b) Los ejidos de Pixoyal, Cinco de Febrero, Miguel Colorado, Chac Chaito y Yohaltún.
 
 c) Las Secciones Ejidales de: Nuevo Paraíso y la Provincia.
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 1994)</small>
+
+VI.- A la Sección Municipal de Constitución corresponden:
+
+a) El pueblo de Constitución, Cabecera de la Sección.
+
+b) Los pueblos de: Silvituc, Xbonil, Chan Laguna, Conhuás y Concepción.
+
+c) Los ejidos de: Centenario, N.C.P.E. Altamira de Zináparo, N.C.P.E. López Mateos, N.C.P.E. Benito Juárez, N.C.P.E. El Porvenir, N.C.P.E. Valentín Gómez Farías, N.C.P.E. Felipe Angeles, Las Maravillas, Santa Lucía, Pablo García, Km. 120, Emiliano Zapata, Eugenio Echeverría Castellot, Puebla de Morelia, El Chichonal, El Jobal, La Flor de Chiapas, Laguna Grande, José López Portillo, Benito Juárez No. 3 y Plan de San Luis.
 
 ###### ARTICULO 17.
 
@@ -1978,3 +1998,7 @@ UNICO.- El presente Decreto entrará en vigor el día veinticinco de diciembre d
 P.O. 15 DE ENERO DE 1994.
 
 Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE MARZO DE 1994.
+
+Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
