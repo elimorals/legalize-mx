@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "1999-02-15"
+last_updated: "2000-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -1041,7 +1041,7 @@ II.- El Instituto de Estudios Jurídicos;
 
 III.- El Centro de Asistencia Jurídica;
 
-IV.- El Consejo Tutelar para Menores Infractores; y
+IV.- (DEROGADA POR ARTICULO SEXTO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO, P.O. 8 DE SEPTIEMBRE DE 2000)
 
 V.- La Contraloría Interna del Poder Judicial.
 
@@ -1181,15 +1181,15 @@ VII.- Las demás que señalen ésta y otras leyes.
 
 ###### Artículo 102.
 
-El Consejo Tutelar para Menores, es un órgano desconcentrado del Poder Judicial, con autonomía plena e independencia en sus determinaciones, encargado de la aplicación de medidas tutelares a los menores de 16 años que infrinjan disposiciones de carácter administrativo o penal, procurando su rehabilitación y readaptación social, así como de la vigilancia de sus medidas.
+(DEROGADO POR ARTICULO SEXTO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO, P.O. 8 DE SEPTIEMBRE DE 2000)
 
 ###### Artículo 103.
 
-La ley de la materia y sus reglamentos determinarán lo relativo a su integración y funcionamiento, los requisitos que deberán reunir sus funcionarios y empleados para su ingreso y permanencia, así como el establecimiento de sus centros de observación y designación de delegados.
+(DEROGADO POR ARTICULO SEXTO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO, P.O. 8 DE SEPTIEMBRE DE 2000)
 
 ###### Artículo 104.
 
-Los funcionarios y empleados del Consejo Tutelar para Menores Infractores y de sus Centros de Observación estarán sujetos en lo conducente a las responsabilidades y faltas administrativas, a lo previsto en la presente ley y en la Ley de Responsabilidades respectiva.
+(DEROGADO POR ARTICULO SEXTO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO, P.O. 8 DE SEPTIEMBRE DE 2000)
 
 ### CAPITULO III. DE LAS INCOMPATIBILIDADES
 
@@ -1483,7 +1483,7 @@ DIPUTADO SECRETARIO:
 
 ISRAEL BARBOSA HEREDIA.
 
-EN CUMPLIMIENTO DE LO DISPUESTO POR EL ARTICULO 91, FRACCION II DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIODICO OFICIAL DEL ESTADO, DADO EN LA RESIDENCIA DEL PODER EJECUTIVO EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS VEINTIOCHO DIAS DEL MES DE ENERO DE MIL NOVECIENTOS NOVENTA Y NUEVE.
+EN CUMPLIMIENTO DE LO DISPUESTO POR EL ARTICULO 91, FRACCION II DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIODICO OFICIAL DEL ESTADO, DADO EN LA RESIDENCIA DEL PODER EJECUTIVO EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, AL OS VEINTIOCHO DIAS DEL MES DE ENERO DE MIL NOVECIENTOS NOVENTA Y NUEVE.
 
 EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUINTANA ROO
 
@@ -1492,3 +1492,9 @@ ING. MARIO E. VILLANUEVA MADRID.
 EL C. SECRETARIO DE GOBIERNO.
 
 PROFR. RAUL O. SANTANA BASTARRACHEA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE SEPTIEMBRE DE 2000.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
