@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-direccion-del-patrimonio-y-valores-74705"
 country: "mx"
 rank: "reglamento"
 publication_date: "1979-04-03"
-last_updated: "1979-04-03"
+last_updated: "1983-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO DE LA DIRECCION DEL PATRIMONIO Y VALORES ARTISTICOS E HISTORICOS DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 1983.
 
 Reglamento publicado en el Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1979.
 
@@ -102,7 +102,9 @@ XX.- Practicar visitas de inspección en las distintas dependencias del Estado, 
 
 XXI.- Promover la titulación de los bienes del Estado, manteniendo en coordinación con la Tesorería General, el estado actualizado de sus valores.
 
-XXII.- Inventariar, registrar y controlar los vehículos del Estado, supervisando las condiciones de su uso oficial; y, archivar copia de las facturas de esos vehículos y de los demás bienes muebles del Estado, para los efectos legales consiguientes cuyo original se encuentra depositado en la Tesorería General.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 1983)</small>
+
+XXII.- Inventariar los vehículos del Estado y demás bienes muebles de su propiedad, archivar copia de las facturas de esos vehículos y de los demás bienes muebles del Estado para los efectos legales consiguientes cuyo original se encuentra depositado en la Tesorería General del Estado.
 
 ###### ARTICULO 4o.
 
@@ -118,7 +120,7 @@ b).- La Oficina de Control de Administración.
 
 III.- El Departamento de Bienes Muebles que comprende:
 
-a).- La Oficina de vehículos del Estado.
+a).- (DEROGADO, P.O. 26 DE JULIO DE 1983)
 
 b).- La Oficina de Mobiliario, Equipo, Bodegas y Almacén.
 
@@ -175,3 +177,9 @@ LIC. FLAVIO ROMERO DE VELASCO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ALFONSO DE ALBA MARTÍN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE JULIO DE 1983.
+
+Unico. Este reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
