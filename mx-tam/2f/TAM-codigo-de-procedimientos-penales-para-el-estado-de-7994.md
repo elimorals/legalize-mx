@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "1987-01-17"
+last_updated: "1988-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1988.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -43,21 +43,25 @@ CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
 ## TITULO PRELIMINAR
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 1.
 
 El presente Código establece los siguientes procedimientos:
 
-I.- El de averiguación previa a la consignación a los tribunales, que regula las diligencias necesarias para que el Ministerio Público pueda resolver si ejerce o no la acción penal;
+I.- El procedimiento para imputables que estará integrado por las siguientes etapas:
 
-II.- El de preinstrucción, que comprende desde el auto de radicación, hasta el de formal prisión, el de sujeción a proceso, el de libertad por falta de elementos para procesar, el de no sujeción a proceso o el de libertad absoluta, en su caso;
+a).- La de averiguación previa, hasta la consignación a los Tribunales, que regula las diligencias necesarias para que el Ministerio Público pueda resolver si ejercita o no la acción penal;
 
-III.- El de instrucción, que se desarrollará desde el auto de formal prisión o sujeción a proceso, hasta el cierre de la misma y durante la cual se propondrá y rendirán las pruebas necesarias, en los plazos y términos que correspondan;
+b).- La de preinstrucción, que comprende desde el auto de radicación, hasta el de formal prisión, el de sujeción a proceso, el de libertad por falta de elementos para procesar, el de no sujeción a proceso o el de libertad absoluta, en su caso;
 
-IV.- El de juicio, donde el Ministerio Público precisa su pretensión y el procesado su defensa, se celebra la audiencia de vista, el tribunal valora las pruebas, dicta la sentencia definitiva y causa ejecutoria;
+c).- La de instrucción que se desarrollará una vez dictado el auto de formal prisión o sujeción a proceso, hasta el cierre de la misma y durante la cual se propondrán y rendirán las pruebas necesarias en los plazos y términos que correspondan; y,
 
-V.- El de ejecución, que comprende el lapso entre el momento que cause ejecutoria la sentencia definitiva, hasta la extinción de las sanciones (penas y medidas de seguridad) impuestas en su caso, sin perjuicio de lo dispuesto en la Ley que persigue la readaptación social del delincuente; y
+d).- La de juicio, donde el Ministerio Público precisa su acción y el procesado su defensa, se celebra la audiencia de vista, el Tribunal valora las pruebas, dicta la sentencia definitiva y causa ejecutoria.
 
-VI.- Los relativos a inimputables, con excepción de los menores de 16 (dieciséis) años de edad, que se regirán por la Ley respectiva.
+II.- El procedimiento para inimputables, exceptuando a los menores de dieciséis años, el cual se regirá por la ley respectiva.
+
+III.- El procedimiento de ejecución de sanciones, sin perjuicio de lo dispuesto en la ley relativa a la readaptación social.
 
 ###### ARTICULO 2.
 
@@ -91,13 +95,21 @@ II.- Cuando hubiere alguna de las causas de extinción de la responsabilidad pen
 
 Corresponde a los tribunales penales la aplicación de penas y medidas de seguridad, cuando en su sentencia declaren la existencia del delito y la culpabilidad del acusado; o en su caso la necesidad de aplicar las segundas, sin perjuicio de que estas últimas sean aplicadas por el Ejecutivo de acuerdo a las leyes especiales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 6.
 
-En el procedimiento ante los tribunales, el Ministerio Público promoverá:
+En el procedimiento ante los Tribunales, el Ministerio Público promoverá:
 
 I.- La práctica de cuanta diligencia sea necesaria, para comprobar el delito y la responsabilidad del inculpado;
 
-II.- La libertad del inculpado en los términos establecidos en la Ley;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+II.- La libertad del inculpado, previa autorización del Procurador General de Justicia:
+
+a).- Cuando durante el procedimiento aparezca plenamente comprobado en autos que el inculpado no ha tenido participación en el delito que se persigue, y
+
+b).- Cuando por datos posteriores estime que ya no es procedente una orden de aprehensión no ejecutada aún; solicitará en este caso, se deje sin efecto, lo que se acordará de plano sin perjuicio de que se continúe la averiguación y de que posteriormente, vuelva a ejercitarse si procede;
 
 III.- La aplicación tanto de las penas como de las medidas de seguridad;
 
@@ -107,17 +119,21 @@ V.- La interposición de los recursos que la Ley señala; y,
 
 VI.- Lo que corresponda en los incidentes que se tramiten.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 7.
 
-En la segunda instancia el Ministerio Público sostendrá o no el recurso interpuesto ante el Juez; en el primer caso expresará sus agravios e intervendrá en todas las actuaciones e incidentes que corresponda, pudiendo promover pruebas en los casos previstos por la Ley.
+En la Segunda Instancia el Ministerio Público sostendrá o no el recurso interpuesto ante el Juez; en el primer caso expresará sus agravios e intervendrá en todas las actuaciones e incidentes que corresponda, pudiendo promover las pruebas en los casos previstos por la Ley; en el segundo, deberá proceder conforme a lo señalado por la Ley Orgánica de la Procuraduría General de Justicia y su Reglamento.
 
 ###### ARTICULO 8.
 
 En la averiguación previa y cuando no haya detenido, el Ministerio Público podrá solicitar el auxilio de los Tribunales del Estado para librar exhorto y practicar cateos, así como en aquellos casos en que la prueba requerida sólo pueda lograrse mediante orden judicial.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 9.
 
-En el procedimiento judicial, tanto la parte ofendida como la víctima o sus legítimos representantes podrán, a través del Ministerio Público, presentar datos y pruebas que justifiquen el delito, la responsabilidad del indiciado y lo correspondiente a la reparación del daño; esto último podrán hacerlo también directamente ante el Juez.
+En el procedimiento penal, tanto la parte ofendida como el sujeto pasivo de la reparación del año o sus legítimos representantes podrán, a través del Ministerio Público, presentar datos y pruebas que justifiquen el delito, la responsabilidad del indiciado y lo correspondiente a la reparación del daño; esto último podrán hacerlo también directamente ante el Juez.
 
 ###### ARTICULO 10.
 
@@ -147,9 +163,11 @@ Si se cometieron dos o más delitos en dos o más distritos dentro del Estado, s
 
 En caso de concurso de delitos del orden común, la competencia se fija atendiendo a la sanción del delito mayor, y a la privativa de libertad cuando se señalen varias de distinta naturaleza.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 16.
 
-Los jueces conciliadores a que se refiere la Constitución Política del Estado, conocerán de delitos que tengan como sanción caución de no ofender, amonestación, apercibimiento, prisión hasta de dos años o multa hasta de cuarenta días salario; también conocerán de los delitos que tengan pena alternativa. En los municipios que no sean cabecera de Distrito Judicial, en auxilio de los de Primera Instancia, en sus respectivas jurisdicciones, serán competentes para recibir la consignación del Ministerio Público; ordenar la aprehensión de los presuntos responsables; practicar las diligencias y dictar las resoluciones que correspondan en el período de preinstrucción.
+Los Jueces Menores a que se refiere la Constitución Política del Estado, conocerán de delitos que tengan como sanción caución de no ofender, amonestación, apercibimiento, prisión hasta de dos años o multa hasta de cuarenta días salario, también conocerán de los delitos que tengan pena alternativa. En los municipios que no sean cabecera de Distrito Judicial, en auxilio de los de Primera Instancia, en sus respectivas jurisdicciones, serán competentes para recibir la consignación del Ministerio Público; ordenar la aprehensión de los presuntos responsables; practicar las diligencias y dictar las resoluciones que correspondan en el período de preinstrucción.
 
 ###### ARTICULO 17.
 
@@ -215,6 +233,12 @@ Los secretarios deberán dar cuenta al Juez o Magistrado, en su caso, dentro del
 
 Para tal efecto, se hará constar en los expedientes el día y hora en que se presenten por escrito o se hagan las verbales.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+ARTICULO 26 bis.- La autoridad judicial por conducto de los Secretarios, los que hagan sus veces o en su caso los testigos de asistencia, cotejarán las copias o testimonios de constancias que mandaren expedir, autorizándolas con su firma y el sello correspondiente.
+
+El Ministerio Público en el período de averiguación previa, asistido de un Oficial Secretario o dos testigos de asistencia, cotejará las copias o testimonios de constancias que expidan y fueren solicitadas por el ofendido, el presunto responsable, sus representantes legales o personas facultadas para ese efecto.
+
 ### CAPITULO III. INTERPRETES
 
 ###### ARTICULO 27.
@@ -251,7 +275,7 @@ Cuando la corrección recaiga sobre persona que goce sueldo del erario estatal, 
 
 ###### ARTICULO 33.
 
-El Ministerio Público en la averiguación previa y los Jueces Conciliadores, sólo podrán imponer multa como corrección disciplinaria. Contra estas correcciones no se admite más recurso que el de responsabilidad.
+(DEROGADO, P.O. 22 DE JUNIO DE 1988)
 
 ###### ARTICULO 34.
 
@@ -307,9 +331,11 @@ IV.- Arresto hasta de 36 horas.
 
 La suspensión sólo se podrá aplicar a los funcionarios o empleados judiciales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 44.
 
-Los tribunales, para hacer cumplir sus determinaciones, podrán emplear cualquiera de los siguientes medios de apremio:
+El Ministerio Público en la averiguación previa y los Tribunales, podrán emplear para hacer cumplir sus determinaciones, cualquiera de los siguientes medios de apremio:
 
 I.- Multa de diez a treinta días salario;
 
@@ -317,13 +343,9 @@ II.- Auxilio de la fuerza pública; y
 
 III.- Arresto hasta de quince días.
 
-Los funcionarios a que se refiere el Artículo 33, podrán emplear como medios de apremio la multa y la fuerza pública.
-
 ###### ARTICULO 45.
 
-Cuando haya temor fundado que el obligado a la reparación del daño, oculte o enajene los bienes en que deba hacerse efectiva dicha reparación, el Ministerio Público, el ofendido o la víctima, en su caso, o sus representantes, podrán pedir al Juez el embargo precautorio de dichos bienes, observando lo dispuesto por la Ley Procesal Civil.
-
-Los tribunales, en todo lo que la Ley no prohiba o prevenga expresamente, podrán dictar en procesos sujetos a su conocimiento, los trámites y providencias necesarias para la pronta y eficaz administración de justicia.
+(DEROGADO, P.O. 22 DE JUNIO DE 1988)
 
 ###### ARTICULO 46.
 
@@ -357,13 +379,17 @@ Los exhortos y las requisitorias contendrán las insercciones necesarias, según
 
 Tratándose de solicitudes de orden de aprehensión, se cumplirá con lo previsto en el segundo párrafo del Artículo 50.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 52.
 
-En casos urgentes, se podrá usar el telégrafo; en el mensaje se expresará con toda claridad la diligencia de que se trate, el nombre de los interesados, el fundamento de la providencia y el aviso de que se mandará por correo el exhorto o requisitoria que ratifique el mensaje.
+En casos urgentes, se podrá usar el telégrafo, el teléfono, el telex, la radio telefónica o cualquier otro medio de comunicación que a juicio del Ministerio Público Investigador o del Juez se estimen convenientes, de lo que se dejará constancia en autos; en el mensaje se expresará con toda claridad la diligencia de que se trate, el nombre de los interesados, el fundamento de la providencia y el aviso de que se mandará por correo el exhorto o requisitoria que ratifique el mensaje.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 53.
 
-Los exhortos a los tribunales extranjeros se remitirán por la vía diplomática al lugar de su destino. Las firmas de las autoridades que los expidan, serán legalizados por el Gobernador del estado y las de éste por el Secretario de Relaciones Exteriores.
+Los exhortos a los Tribunales extranjeros se remitirán por la vía diplomática al lugar de su destino. Las firmas de las autoridades que los expidan, serán legalizadas por el Gobernador del Estado y las de éste por el Secretario de Gobernación.
 
 ###### ARTICULO 54.
 
@@ -395,13 +421,17 @@ Si el Tribunal exhortado o requerido, considerase que no debe cumplimentarse el 
 
 Será apelable la resolución dictada por el Juez exhortado o requerido, que niegue la práctica de la diligencia.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 61.
 
-Cuando un Tribunal no pudiere practicar por sí mismo, en todo o en parte, las diligencias que se le encarguen, por tener que verificarse éstas en población distinta pero dentro de su territorio, podrá encomendarlas al Juez Conciliador, remitiendo el exhorto original, o un oficio con las inserciones necesarias si aquél no pudiera mandarse.
+Cuando un Tribunal no pudiere practicar por sí mismo en todo o en parte, las diligencias que se le encarguen, por tener que verificarse éstas en población distinta pero dentro de su jurisdicción, podrá encomendarlas al Juez Menor, remitiendo el exhorto original, o un oficio con las inserciones necesarias si aquél no pudiera mandarse.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 62.
 
-Cuando el Juez Conciliador no pueda dar cumplimiento al exhorto o requisitoria, por hallarse en otro lugar las personas o los bienes que sean objeto de la diligencia, lo remitirá al Juez del lugar en que aquéllas o éstos se encuentren y lo hará saber al requirente.
+Cuando el Juez Menor no pueda dar cumplimiento al exhorto o requisitoria, por hallarse en otro lugar las personas o los bienes que sean objeto de la diligencia, lo remitirá al Juez del lugar en que aquéllas o éstos se encuentren y lo hará saber al requeriente.
 
 ###### ARTICULO 63.
 
@@ -437,9 +467,11 @@ Sin perjuicio de lo señalado en el segundo párrafo del Artículo anterior, los
 
 El cateo sólo podrá practicarse en virtud de orden escrita expedida por la autoridad judicial, en la que se expresen el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse o los objetos que se buscan, a lo que únicamente deberá limitarse la diligencia, levantándose al concluirla, acta circunstanciada en presencia de dos testigos propuestos por el ocupante del lugar cateado, o en su ausencia o negativa, por la autoridad que practique la diligencia.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 69.
 
-Cuando el Ministerio Público actúen como investigador de delitos, podrá pedir a la autoridad judicial que practique cateos, proporcionando a ésta los datos que justifiquen el registro.
+Cuando el Ministerio Público actúe como investigador de delitos, podrá pedir a la autoridad judicial que practique cateos proporcionando a ésta los datos que justifiquen el registro, precisando el motivo o motivos que acrediten la necesidad de la medida, que siempre deberá ser de notoria urgencia.
 
 ###### ARTICULO 70.
 
@@ -481,9 +513,11 @@ Todos los que asistan a la audiencia estarán con la cabeza descubierta, con res
 
 Si se resiste a salir o vuelve al lugar, se le expulsará por medio de la fuerza pública y se le impondrá una corrección disciplinaria.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 77.
 
-Cuando hubiere tumulto, el funcionario que presida la audiencia ordenará que la fuerza pública desaloje a los causantes, a quienes podrá imponerse además la corrección disciplinaria que se considere, continuándose la audiencia a puerta cerrada
+Cuando hubiere tumulto, el funcionario que presida la audiencia ordenará que la fuerza pública desaloje a los causantes, a quienes podrá imponerse la corrección disciplinaria que se considere, continuándose la audiencia a puerta cerrada; en su defecto, ordenará la suspensión de la misma hasta en tanto se logren las condiciones necesarias para su desahogo.
 
 Si el inculpado altera el orden en una audiencia, se le apercibirá de que si insiste en su actitud se tendrá por renunciado su derecho de estar presente; si no obstante esto continúa, se le mandará retirar del local y proseguirá la diligencia con su defensor. Todo esto sin perjuicio de aplicarle la corrección disciplinaria que el Tribunal estime pertinente.
 
@@ -551,7 +585,7 @@ Cuando se trate de resoluciones de la competencia del Tribunal Pleno, se dictar�
 
 ###### ARTICULO 87.
 
-En los casos del Artículo anterior, el Magistrado que no estuviere conforme con la decisión adoptada, extenderá y firmará su voto particular, expresando sucintamente los fundamentos esenciales de su opinión. Este voto se agregará al expediente.
+En los casos del Artículo anterior el Magistrado que no estuviere conforme con la decisión adoptada, extenderá y firmará su voto particular, expresando sucintamente los fundamentos esenciales de su opinión. Este voto se agregará al expediente.
 
 ###### ARTICULO 88.
 
@@ -637,19 +671,29 @@ El Ministerio Público y la Policía Judicial, están obligados a proceder de of
 
 Si el que inicia una investigación no tiene a su cargo la función de continuarla, dará cuenta inmediata al que corresponda legalmente practicarla.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 104.
 
 Sólo podrán perseguirse a petición de parte ofendida, los delitos que así determina el Código Penal o, en su caso, las leyes especiales.
+
+Las denuncias y las querellas podrán formularse verbalmente o por escrito.
+
+No se admitirá intervención de apoderado jurídico para la presentación de denuncias, salvo en el caso de personas morales, que podrán actuar por conducto de apoderado general para pleitos y cobranzas. Las querellas formuladas en representación de personas morales, se admitirán cuando el apoderado tenga un poder general para pleitos y cobranzas, con cláusula especial para formular querellas, sin que sean necesarios acuerdos o ratificación del consejo de administración o de la asamblea de socios o accionistas, poder especial para el caso determinado, ni instrucciones concretas del mandante.
+
+Cuando se trate de personas físicas, las querellas podrán presentarse por sí o por conducto de apoderado con cláusula especial o instrucciones concretas de sus mandantes para el caso específico.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 105.
 
 Cuando para la persecución de los delitos se haga necesaria la queja de la parte ofendida, bastará que ésta aunque sea menor de edad, la manifieste verbalmente para que se proceda en los términos del Capítulo siguiente.
 
-Si a nombre del menor ofendido comparece su legítimo representante, bastará para tener por legalmente formulada la queja si no hay oposición. Si se presentare controversia de criterios respecto a la formulación de la querella, entre el menor ofendido y su legítimo representante, resolverá el Juez Civil, en una sola audiencia el que deba prevalecer.
+Si a nombre del menor ofendido comparece su legítimo representante, bastará para tener por legalmente formulada la queja si no hay oposición; si la hubiera por parte del menor, prevalecerá la presentada por su representante legítimo.
 
-Si la ofendida es mayor de edad y la querella se presenta por otra persona, se tendrá por legalmente hecha si no hay oposición de aquélla, a quien deberá dársele conocimiento para tal efecto.
+Si la ofendida es mayor de edad se tendrá legalmente formulada cuando se haga directamente por ella o a través de apoderado legal, en los términos del Artículo anterior.
 
-Si el ofendido se encuentra inconsciente o imposibilitado para formular su querella, a virtud del delito, y no tuviere quien lo represente legal o convencionalmente, su cónyuge o los parientes más próximos en grado podrán formularla en su nombre.
+Si el ofendido se encuentra inconciente (sic) o imposibilitado para formular su querella, a consecuencia del delito, y no tuviere quien lo represente legal o convencionalmente, se entenderá que su deseo es el de querellarse.
 
 ###### ARTICULO 106.
 
@@ -681,15 +725,19 @@ Antes de trasladar al probable responsable, en los términos a que se refieren l
 
 Si el probable responsable o su defensor solicitaren la libertad caucional, los funcionarios mencionados se concretarán a recibir la petición relativa y agregarla a la averiguación para que el Juez resuelva sobre el particular, hecha excepción de lo previsto en el Artículo 169 de este Código.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 112.
 
-En la averiguación previa se procurará tomar declaración al indiciado y, si no estuviera detenido, podrá ofrecer las pruebas de descargo que a su interés convenga y el Ministerio Público deberá tomarlas en cuenta al momento de decidir el ejercicio o inejercicio de la acción penal.
+En la averiguación previa se procurará tomar declaración al indiciado y se le hará saber el derecho que tiene de abstenerse a declarar, así como nombrar persona de su confianza que lo defienda; si no estuviera detenido, podrá ofrecer las pruebas de descargo que a su interés convenga y el Ministerio Público deberá tomarlas en cuenta al momento de pronunciar su determinación.
 
 El Ministerio Público también recibirá las pruebas de descargo que el detenido o su defensor aporten dentro de la averiguación previa y que el tiempo permita y, de no ser así, se tendrán por ofrecidas para admitirse y recibirse, en su caso, dentro del período de preinstrucción, por el Juez de la causa, si se decidiera el ejercicio de la acción penal.
 
 Si de las diligencias practicadas no resultan elementos bastantes para hacer la consignación a los tribunales y no aparece que se puedan practicar otras, pero con posterioridad pudieran allegarse datos para proseguir la averiguación, se reservará el expediente hasta que aparezcan esos datos y, entre tanto, se ordenará a la policía que haga investigaciones tendientes a lograr el esclarecimiento de los hechos.
 
-En cualquier caso que el Ministerio Público determine que no es de ejercerse la acción penal, el denunciante, el querellante o el ofendido, dentro del término de 15 días, contados desde que se les haya hecho saber esa determinación, podrán ocurrir al Procurador General de Justicia para que decida en definitiva si debe o no ejercer la acción penal. La resolución del Procurador no admite recurso alguno, pero puede ser motivo de responsabilidad.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+En cualquier caso que el Ministerio Público determine que no es de ejercerse la acción penal, el denunciante, el querellante o el ofendido, dentro del término de 15 días, contados desde que se les haya hecho saber esa determinación, podrán ocurrir al Procurador General de Justicia para que decida en definitiva si es de confirmarse o modificarse la determinación del no ejercicio de la acción penal. La resolución del Procurador no admite recurso alguno, pero puede ser motivo de responsabilidad.
 
 ###### ARTICULO 113.
 
@@ -699,11 +747,11 @@ Toda mujer que sea detenida en prisión preventiva, lo será en lugar distinto y
 
 Cuando el probable responsable sea detenido, el Ministerio Público estará obligado bajo su más estricta responsabilidad, a ponerlo inmediatamente a disposición de la autoridad judicial, remitiéndole al efecto el acta correspondiente.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 115.
 
-Diariamente los Agentes del Ministerio Público enviarán a la Dirección General de Averiguaciones Previas, una relación de los expedientes en que recayeren acuerdos y determinaciones o se practicaron diligencias de prueba. Copia de esta relación se fijará en los tableros de la Agencia, sin identificar al indiciado.
-
-Tanto el Ministerio Público como la policía se sujetarán a las disposiciones del presente Código, a los reglamentos y leyes orgánicas respectivas, en lo que concierne a las diligencias que hayan de practicar antes de iniciarse el procedimiento judicial.
+Tanto el Ministerio Público como la Policía Judicial se sujetarán a las disposiciones del presente Código, a los Reglamentos y Leyes Orgánicas respectivas, en lo que concierne a las diligencias que hayan de practicar antes de iniciarse el procedimiento judicial.
 
 ### CAPITULO I. REGLAS PARA LA PRACTICA DE DILIGENCIAS Y LEVANTAMIENTO DE ACTAS DE POLICIA JUDICIAL
 
@@ -1005,6 +1053,24 @@ Si aquél no cumple con las obligaciones mencionadas, se procederá a la revocac
 
 La garantía se cancelará y, en su caso, se devolverá por el Ministerio Público, cuando resuelva el no ejercicio de la acción penal. Consignado el caso, la garantía seguirá operando hasta en tanto el juez decida su modificación o revocación.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 169 Bis.
+
+El Ministerio Público solamente puede desistirse de la acción penal:
+
+I.- Cuando apareciere plenamente comprobado en autos:
+
+a).- Que los hechos de que conozca no sean constitutivos de delito;
+
+b).- Que pudiendo serlo, resulte imposible la prueba de la existencia de los hechos; y
+
+c).- Que esté extinguida legalmente.
+
+II.- Cuando durante el procedimiento judicial aparezca plenamente comprobado en autos que el inculpado no ha tenido participación en el delito que se persigue, o que existe en su favor alguna circunstancia eximente de responsabilidad; pero solamente por lo que se refiere a quienes se encuentren en estas circunstancias.
+
+Las resoluciones que se dicten en los casos al que se refiere el presente Artículo, impedirán definitivamente el ejercicio de la acción penal respecto de los hechos que las motiven, debiendo formularse expresamente y de acuerdo con los requisitos fijados en este Código, en la Ley Orgánica de la Procuraduría General de Justicia y su Reglamento.
+
 ## TITULO TERCERO. DE LA PREINSTRUCCION O PREPARACION DEL PROCESO
 
 PRIMERA PARTE
@@ -1047,7 +1113,9 @@ Cuando no existan elementos bastantes conforme al Artículo 16 Constitucional pa
 
 En estos casos, operará lo previsto en el último párrafo del Artículo 191.
 
-La resolución que niegue la orden de aprehensión por inexistencia de prueba no es recurrible. Es apelable en ambos efectos la que lo niegue por considerar que, aunque probado el hecho, no operan los supuestos del Artículo 16 Constitucional.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+La resolución que niegue la orden de aprehensión, es apelable en el efecto devolutivo.
 
 ### CAPITULO III. DECLARACION PREPARATORIA Y NOMBRAMIENTO DE DEFENSOR
 
@@ -1091,7 +1159,7 @@ La declaración del inculpado se transcribirá con la mayor exactitud posible, s
 
 ###### ARTICULO 182.
 
-Recibida la declaración preparatoria o, en su caso, la manifestación del inculpado de que no desea declarar, el juez podrá carearlo con los testigos que depusieron en su contra, los que nuevamente declararán en su presencia, si ahí estuvieren, para que pueda hacerles todas las preguntas conducentes a su defensa. Lo dispuesto en este artículo no excluye lo previsto en el Artículo 283.
+Recibida la declaración preparatoria o, en su caso, la manifestación del inculpado de que no desea declarar, el juez podrá carearlo con los testigos que depusieron en su contra, los que nuevamente declararán en su presencia, si ahí estuvieren, para que pueda hacerles todas las preguntas conducentes a su defensa. Lo dispuesto en este Artículo no excluye lo previsto en el Artículo 283.
 
 ###### ARTICULO 183.
 
@@ -1170,6 +1238,14 @@ III.- Dictámenes de peritos;
 IV.- Inspección; y,
 
 V.- Declaración de testigos.
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+VI.- Confrontación; y
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+VII.- Careos.
 
 ###### ARTICULO 194.
 
@@ -1345,6 +1421,42 @@ Los peritos emitirán su dictamen por escrito y lo ratificarán en diligencia es
 
 Los peritos oficiales no necesitarán ratificar sus dictámenes, sino cuando el funcionario que practique las diligencias lo estime necesario.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+Los dictámenes contendrán:
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+I.- La descripción minuciosa de los objetos, lugares, indicios o personas examinadas y la de los hechos cuya explicación se pida;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+II.- La descripción exacta de las operaciones o experimentos ejecutados para la interpretación de los objetos, lugares, indicios, personas o hechos;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+III.- La explicación de porqué se efectuaron precisamente esas operaciones o experimentos y en esas condiciones y no otras;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+IV.- Las implicaciones materiales que llevan al perito a inferir las conclusiones de su dictamen;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+V.- Las conclusiones a las que haya llegado;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+VI.- El lugar y fecha de su elaboración; y
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+VII.- Nombre y firma del perito.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+El dictamen será claro, preciso, metódico y no deberá incluir consideraciones de tipo legal.
+
 ###### ARTICULO 230.
 
 Cuando el juicio pericial recaiga sobre objetos que se consuman al ser analizados, no se permitirá que se verifique el primer análisis sino sobre la mitad de las substancias a lo sumo, a no ser que su cantidad sea tan escasa que los peritos no puedan emitir su opinión sin consumirlas todas. Esto se hará constar en el acta.
@@ -1455,11 +1567,11 @@ No podrá dejar de examinarse a los testigos presentes, cuya declaración solici
 
 Podrá examinarse a los ausentes en la forma prevista por este Código, sin que esto demore la marcha de la averiguación o de la instrucción, o impida que una u otra se dé por terminada cuando se hayan reunido los elementos necesarios.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 248.
 
 Toda persona, cualquiera que sea su edad, sexo, condición social o antecedentes, deberá ser examinada como testigo, siempre que pueda proporcionar algún dato para la averiguación del delito y delincuente, y se estime necesario su examen.
-
-El valor probatorio de su testimonio se calificará en la sentencia.
 
 ###### ARTICULO 249.
 
@@ -1497,9 +1609,11 @@ La citación puede hacerse personalmente al testigo dondequiera que se encuentre
 
 Si el testigo fuere militar la citación se hará por conducto del superior jerárquico respectivo; lo mismo se observará cuando se trate de un servidor de la administración pública.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 255.
 
-Si el testigo se encontrare fuera del lugar del juicio, pero dentro de la jurisdicción del Juez, podrá examinarlo por conducto del Juez Conciliador del lugar donde reside, librando la requisitoria correspondiente.
+Si el testigo se encontrare fuera del lugar del juicio, pero dentro de la jurisdicción del Juez, podrá examinarlo por conducto del Juez Menor del lugar donde resida, librando la requisitoria correspondiente.
 
 ###### ARTICULO 256.
 
@@ -1511,11 +1625,11 @@ Si se ignora el paradero del testigo, se podrá encargar a la policía lo averig
 
 Si el testigo se hallare en el lugar del juicio pero tuviere imposibilidad física para presentarse, el funcionario que deba tomar la declaración se trasladará al lugar donde se encuentre para recibirla.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 258.
 
-Fuera el caso de enfermedad o imposibilidad física, toda persona está obligada a presentarse ante la autoridad cuando sea citada.
-
-Cuando haya que examinar a altos servidores públicos del Estado o de la Federación, o a militares de alto rango, se les recibirá su declaración por oficio, previo interrogatorio que se les envíe.
+Fuera del caso de enfermedad o imposibilidad física, toda persona está obligada a presentarse ante la autoridad cuando sea citada. Sin embargo, cuando se trate de examinar como testigos al Gobernador del Estado, Secretarios, Miembros de la Legislatura, Magistrados, Secretario General de Gobierno, Tesorero General del Estado, Procurador General de Justicia o Jueces de Primera Instancia, se les recibirá su declaración por oficio, previo interrogatorio que se les envíe.
 
 ###### ARTICULO 259.
 
@@ -1619,7 +1733,7 @@ III.- Que los individuos que acompañan a la persona que va a confrontarse, sean
 
 ###### ARTICULO 277.
 
-Si alguna de las partes pidiere que se tomaren mayores precauciones que las previstas en el Artículo anterior, podrá acordarlas la autoridad, siempre que no perjudiquen la verdad, ni aparezcan inútiles o maliciosas.
+Si alguna de las partes pidiere que se tomaren mayores precauciones que las previstas en el Artículo anterior podrá acordarlas la autoridad, siempre que no perjudiquen la verdad, ni aparezcan inútiles o maliciosas.
 
 ###### ARTICULO 278.
 
@@ -1659,11 +1773,13 @@ Conforme a lo dispuesto en la fracción IV del Artículo 20 Constitucional, los 
 
 El Tribunal, durante la instrucción celebrará cualquier otro careo que resulte en los términos del Artículo 282.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 284.
 
-En todo caso los careos serán únicamente de un testigo con otro, con el procesado o con el ofendido; a estas diligencias deberán concurrir las personas que deban carearse, asimismo podrán hacerlo las partes, sus representantes o defensores, y los intérpretes si fuere necesario.
+En todos los casos, los careos serán únicamente de un testigo con otro, con el procesado o con el ofendido; a estas diligencias deberán concurrir las personas que deban carearse, asimismo deberán hacerlo las partes, sus representantes o sus defensores y los intérpretes si fuere necesario.
 
-Queda prohibido la intervención de cualquier persona en los careos, distinta de los careados.
+Cualquier persona en los careos, distinta de los careados, estará impedida para intervenir en los mismos, pero el Ministerio Público y el Defensor podrán vigilar su desarrollo y hacer las observaciones pertinentes cuando en el acta no se registren con fidelidad los resultados de la discusión.
 
 ###### ARTICULO 285.
 
@@ -1703,7 +1819,7 @@ La autoridad judicial calificará el valor de la confesión, tomando en cuenta l
 
 ###### ARTICULO 293.
 
-La confesión hará prueba plena para la comprobación del cuerpo del delito en los casos de los Artículos 151, fracción II, y 153.
+La confesión hará prueba plena para la comprobación del cuerpo del delito en los casos de los Artículos 151 fracción II, y 153.
 
 ###### ARTICULO 294.
 
@@ -1801,21 +1917,27 @@ El término a que se refiere este Artículo, se contará a partir de la fecha de
 
 Cuando haya temor fundado de que el inculpado oculte o enajene los bienes en que pueda hacerse efectiva la reparación del daño, el Ministerio Público, de oficio o a instancia de quien tenga derecho a la reparación, podrá pedir al Tribunal el embargo precautorio de dichos bienes, el que se decretará con sólo esta petición y la prueba de la necesidad de la medida; pero si el inculpado otorga caución bastante, a juicio del Tribunal, no se decretará el embargo o se levantará el que se haya efectuado.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 311.
 
-La apertura del procedimiento de instrucción se decretará dentro del término de setenta y dos horas posterior a la fecha del auto de plazo constitucional.
+La apertura de la etapa de instrucción se decretará inmediatamente después de dictado el auto de plazo constitucional.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 312.
 
-Transcurrido o renunciado el plazo a que se refiere el Artículo 309, o si no se hubiere promovido prueba, el Juez declarará cerrada la instrucción y abrirá el período de juicio.
+Transcurrido o renunciado el plazo a que se refiere el Artículo 309, o si no se hubiere promovido prueba, el Juez declarará cerrada la instrucción y abrirá la etapa de juicio.
 
-Lo anterior se entiende sin perjuicio de que se reciba las pruebas al inculpado, que a juicio del Juez estime necesarias.
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 1988)</small>
 
-### CAPITULO II. PROCEDIMIENTO ANTE LOS JUECES CONCILIADORES
+### CAPITULO II. PROCEDIMIENTO ANTE LOS JUECES MENORES
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 313.
 
-Además de las reglas siguientes, en los procesos ante los Jueces Conciliadores se observarán las disposiciones del capítulo anterior y lo preceptuado en el presente Código.
+En los procesos ante los Jueces Menores se observarán las disposiciones de este Capítulo Especial, y los preceptos aplicables del presente Código.
 
 ###### ARTICULO 314.
 
@@ -1831,25 +1953,35 @@ En caso de no ponerse de acuerdo, el Juez nombrará perito tercero, que deberá 
 
 Si fueren varios los inculpados y la pena a imponerse a cualquiera de ellos excediera del término de dos años, la competencia corresponderá al Juez de Primera Instancia.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 317.
 
-Las resoluciones dictadas por los Jueces Conciliadores en el periodo de instrucción, no admiten recurso alguno.
+Las resoluciones dictadas por los Jueces Menores en la etapa de instrucción, no admiten recurso alguno.
 
-#### SECCION UNICA. DE LA PREINSTRUCCION ANTE LOS JUECES CONCILIADORES EN AUXILIO DE LOS JUECES DE PRIMERA INSTANCIA
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 1988)</small>
+
+#### SECCION UNICA. DE LA PREINSTRUCCION ANTE LOS JUECES MENORES EN AUXILIO DE LOS JUECES DE PRIMERA INSTANCIA
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 318.
 
-Siempre que un Juzgado Conciliador inicia diligencias en auxilio de algún Tribunal de Primera Instancia deberá darle aviso inmediato y éste a su vez, lo hará saber al Agente del Ministerio Público de su adscripción.
+Siempre que un Juzgado Menor inicie diligencias en auxilio de algún Tribunal de Primera Instancia, deberá darle aviso inmediato y éste a su vez, lo hará saber al Agente del Ministerio Público de su adscripción.
 
 ###### ARTICULO 319.
 
 El Tribunal, con vista del aviso a que se refiere el Artículo anterior, podrá dar a la autoridad que practique las diligencias, las instrucciones que juzgue necesarias; trasladarse al lugar para practicarlas personalmente; o bien pedir su envío desde luego o en su oportunidad, según lo estime conveniente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 320.
 
-Las diligencias practicadas por los Jueces Conciliadores en auxilio de los de Primera Instancia, no se repetirán por éstos para que tengan validez, sin perjuicio de que el Tribunal encargado de la instrucción disponga su repetición en su caso de estimarlo necesario.
+Las diligencias practicadas por los Jueces Menores en auxilio de los de Primera Instancia, no se repetirán por éstos para que tengan validez, sin perjuicio de que el Tribunal encargado de la instrucción disponga su repetición en caso de estimarlo necesario.
 
-Los autos de formal prisión, de sujeción o no sujeción a proceso o de libertad absoluta o por la falta de elementos para procesar, serán apelables ante el Supremo Tribunal de Justicia, al que se enviará testimonio de los autos. El original del expediente, con el detenido en su caso, se pondrá a disposición del Juez de Primera Instancia que deba conocer del asunto, notificando esta circunstancia al superior de ambos.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+Los autos de formal prisión, de sujeción o no sujeción a proceso o de libertad absoluta o por falta de elementos para procesar, serán apelables ante el Juez Menor, quien ordenará la substanciación ante el Supremo Tribunal de Justicia, al que se enviará testimonio de los autos. El original del expediente, con el detenido en su caso, se pondrá a disposición del Juez de Primera Instancia que deba conocer del asunto, notificando esta circunstancia al superior de ambos.
 
 Cuando el Juez de Primera Instancia observe que el inculpado no apeló a los autos de formal prisión o de sujeción a proceso, se notificará nuevamente éstos, y el término para recurrirlos empezará a correr de nueva cuenta para el inculpado.
 
@@ -1925,9 +2057,11 @@ Si la defensa no formula conclusiones en el plazo señalado en el Artículo 321 
 
 Recibidas las conclusiones acusatorias del Ministerio Público y las de la defensa, en su caso, el juez dictará auto fijando día y hora para la celebración de la vista dentro de los siguientes quince días. En los primeros tres días, las partes podrán ofrecer pruebas a efecto de que se reciban en la audiencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 334.
 
-La audiencia se verificará concurran o no las partes; el Ministerio Público no podrá dejar de asistir a ella.
+La audiencia se verificará concurran o no el acusado y su defensor. El Ministerio Público no podrá dejar de asistir a ella.
 
 Si el defensor fuere particular y no asistiere sin contar con la autorización expresa del inculpado, se le impondrá una corrección disciplinaria nombrándosele un defensor de oficio.
 
@@ -2001,7 +2135,13 @@ II.- Cuando posteriormente al auto constitucional, se compruebe en favor del inc
 
 III.- Cuando el Procurador General de Justicia formule o confirme conclusiones de no acusación; y,
 
-IV.- Cuando se este en el caso de los Artículo 454, fracción I, y 505 de este Código.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+IV.- Cuando se esté en el caso de los Artículos 454, fracción I y 505 de este Código; y
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+V.- Cuando el Procurador General de Justicia se desista de la acción penal intentada.
 
 ###### ARTICULO 348.
 
@@ -2091,15 +2231,19 @@ Son apelables:
 
 I.- Las sentencias definitivas, salvo los casos en que esta Ley determine expresamente lo contrario;
 
-II.- Los autos de formal prisión; de libertad absoluta o por falta de elementos; de sujeción o no sujeción a proceso; el que conceda o niegue la libertad caucional pero no respecto del monto de la caución; el que mande cerrar la instrucción y el que conceda o niegue el sobreseimiento;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+II.- Los autos de formal prisión; de libertad absoluta o por falta de elementos; de sujeción o no sujeción a proceso; el que conceda o niegue la libertad caucional, pero no respecto del monto de la caución y el que conceda o niegue el sobreseimiento;
 
 III.- Los autos que concedan o nieguen la acumulación cuando los procesos se conozcan por el mismo tribunal y los que decreten la separación de procesos; y
 
 IV.- Todas aquellas resoluciones contra las cuales se conceda expresamente el recurso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 364.
 
-El recurso de apelación procederá en el efecto devolutivo, salvo el caso de sentencias condenatorias en que se admitirá en ambos efectos, así como en los casos establecidos expresamente por esta Ley.
+Son apelables en ambos efectos solamente las sentencias definitivas en que se imponga alguna sanción, así como en los casos establecidos expresamente por la Ley. Las sentencias definitivas en que se imponga alguna sanción y de cuyo juicio hubiere conocido un Jurado Popular, serán apelables para el solo efecto de reponer el procedimiento en los casos previstos por el Artículo 381, fracciones de la VII a la XI, inclusive.
 
 El efecto devolutivo no suspende el procedimiento.
 
@@ -2109,7 +2253,7 @@ La sentencia definitiva se notificará inmediatamente a las partes. En el acto d
 
 ###### ARTICULO 366.
 
-La omisión del requisito exigido en el artículo anterior dará lugar a que el responsable sea puesto a disposición del Ministerio Público, para los efectos legales. La autoridad judicial tomará las medidas necesarias para subsanar inmediatamente esta omisión.
+La omisión del requisito exigido en el Artículo anterior dará lugar a que el responsable sea puesto a disposición del Ministerio Público, para los efectos legales. La autoridad judicial tomará las medidas necesarias para subsanar inmediatamente esta omisión.
 
 ###### ARTICULO 367.
 
@@ -2169,7 +2313,7 @@ Cuando por cualquier circunstancia no se hubiere verificado la audiencia de vist
 
 ###### ARTICULO 377.
 
-Declarado visto el proceso, quedará cerrado el debate y la Sala pronunciará su fallo dentro de quince días, excepto en el caso del artículo siguiente parte final, y en el diverso 384.
+Declarado visto el proceso, quedará cerrado el debate y la Sala pronunciará su fallo dentro de quince días, excepto en el caso del Artículo siguiente parte final, y en el diverso 384.
 
 ###### ARTICULO 378.
 
@@ -2215,15 +2359,45 @@ V.- Por haberse verificado la audiencia de vista sin que el acusado esté asisti
 
 VI.- Por no practicarse las diligencias pedidas por alguna de las partes;
 
-VII.- Por citar a las partes para la diligencia que este Código señala, en otra forma que la establecida en él, a menos de que la parte que se dice agraviada hubiere concurrido a la diligencia;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
 
-VIII.- Por no permitir al Ministerio Público, al acusado o al defensor, retirar o modificar sus conclusiones o establecer nuevas, en los casos del Artículo 326 si hubiere motivo superveniente y suficiente para ello;
+VII.- Por haberse hecho la insaculación de jurados en forma distinta de la prevenida por este Código;
 
-IX.- Por declarar en el caso del Artículo 332 que el acusado o su defensor habían alegado sólo la inculpabilidad, si no había transcurrido el plazo señalado en ese artículo;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
 
-X.- Por no haberse citado al inculpado para las diligencias que tuviera derecho a presenciar; y,
+VIII.- Por no haberse aceptado injustificadamente al acusado o a su defensor, la recusación de alguno o algunos de los jurados, hecha en la forma y términos legales;
 
-XI.- Por no habersele ministrado los datos que necesitare para su defensa y que constaren en el proceso.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+IX.- Por no haberse integrado el jurado por el número de personas que señala la Ley o por carecer alguna de ellas de algún requisito legal;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+X.- Por haberse sometido a la resolución del jurado cuestiones de distinta índole de las que la Ley señala;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+XI.- Por haber sido juzgado el acusado por un Tribunal de Derecho, debiendo haberlo sido por el jurado, o viceversa;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+XII.- Por citar a las partes para la diligencia que este Código señala, en otra forma que la establecida en él, a menos de que la parte que se dice agraviada hubiere concurrido a la diligencia;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+XIII.- Por no permitir al Ministerio Público, al acusado o al defensor, retirar o modificar sus conclusiones o establecer nuevas, en los casos del Artículo 326 si hubiere motivo superveniente y suficiente para ello;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+XIV.- Por declarar en el caso del Artículo 332 que el acusado o su defensor habían alegado sólo la inculpabilidad, si no había transcurrido el plazo señalado en ese artículo;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+XV.- Por no haberse citado al inculpado para las diligencias que tuviera derecho a presenciar; y,
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+XVI.- Por no habérsele ministrado los datos que necesitare para su defensa y que constaren en el proceso.
 
 ###### ARTICULO 382.
 
@@ -2237,7 +2411,7 @@ Si el defensor fuere de oficio, el Magistrado estará obligado a llamar la atenc
 
 ###### ARTICULO 384.
 
-Cuando la Sala, después de la vista, creyere necesario para ilustrar su criterio la práctica de alguna diligencia, podrá decretarla para mejor proveer y la desahogará dentro de diez días.
+Cuando la Sala, después de la vista; creyere necesario para ilustrar su criterio la práctica de alguna diligencia, podrá decretarla para mejor proveer y la desahogará dentro de diez días.
 
 ###### ARTICULO 385.
 
@@ -2547,15 +2721,19 @@ Lo actuado por un Tribunal incompetente será válido, pero el competente podrá
 
 En la substanciación de las cuestiones de competencia, una vez transcurridos los términos, se proveerá de oficio el trámite que corresponda.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 433.
 
-Las cuestiones de competencia suscitadas entre los Juzgados Conciliadores de un mismo Distrito Judicial, serán resueltas por el Juzgado de Primera Instancia del Distrito de que se trate; las que se susciten entre Juzgados Conciliadores pertenecientes a distintos Distritos Judiciales o Juzgados de Primera Instancia, se resolverán por el Supremo Tribunal de Justicia.
+Las cuestiones de competencia suscitadas entre los Juzgados Menores de un mismo Distrito Judicial, serán resueltas por el Juzgado de Primera Instancia del Distrito de que se trate; las que se susciten entre Juzgados Menores pertenecientes a distintos Distritos Judiciales o Juzgados de Primera Instancia, se resolverán por el Supremo Tribunal de Justicia.
 
 ### CAPITULO II. IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 434.
 
-Son causas de impedimento en materia penal para los Magistrados, Jueces, y Secretarios de los Tribunales, las que enseguida se expresan:
+Son causas de impedimento en materia penal para los Magistrados, Jueces, Jurados y Secretarios de los Tribunales, las que enseguida se expresan:
 
 I.- Tener notorias y estrechas relaciones de afecto o respeto con el procesado o alguno de ellos, si fueren varios los inculpados en el mismo proceso;
 
@@ -2585,9 +2763,11 @@ Cuando un Juez o Magistrado no se excuse, a pesar de tener algún impedimento, p
 
 No son admisibles las recusaciones sin causa. En todo caso se expresará concreta y claramente la que exista, y siendo varias, se propondrán al mismo tiempo, salvo que se trate de alguna superveniente, la que se propondrá cuando ocurra.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 438.
 
-Además de las causas señaladas en el Artículo 434, son motivo de recusación de los Magistrados, Jueces o Secretarios de los Tribunales, las siguientes:
+Además de las causas señaladas en el Artículo 434, son motivo de recusación de los Magistrados, Jueces, Jurados o Secretarios de los Tribunales, las siguientes:
 
 I.- Haber sido el querellante, si se trata de delitos que sólo pueden perseguirse a petición de parte o haberlo sido su cónyuge, ascendientes o descendientes sin limitación de grado, o parientes consanguíneos o afines dentro del segundo grado;
 
@@ -2653,13 +2833,17 @@ II.- En los incidentes de competencia; y,
 
 III.- En la calificación de los impedimentos o recusaciones.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 450.
 
-Las excusas y recusaciones de los Secretarios, serán resueltas por el funcionario de quien dependan. La de los Jueces Conciliadores por el Juez de Primera Instancia del correspondiente distrito judicial. Las de éstos y Magistrados por el Supremo Tribunal de Justicia en pleno.
+Las excusas y recusaciones de los Secretarios, serán resueltas por el funcionario de quien dependan. La de los Jueces Menores por el Juez de Primera Instancia del correspondiente Distrito Judicial. Las de éstos y Magistrados por el Supremo Tribunal de Justicia en Pleno.
 
 ###### ARTICULO 451.
 
 Las excusas y recusaciones de los funcionarios del Ministerio Público y de los Defensores de Oficio, serán calificadas por el funcionario que corresponda, según la Ley Reglamentaria respectiva.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 452.
 
@@ -2669,9 +2853,13 @@ I.- El Magistrado será substituido por el que le siga en número en la materia 
 
 II.- Los Jueces de Primera Instancia, cuando en el Distrito Judicial del impedido haya varios del mismo Ramo, por el que lo siga en número, en igual forma que los Magistrados; cuando no haya sino uno solo, por el que sea designado por el Pleno del Supremo Tribunal de Justicia.
 
-III.- Los Jueces Conciliadores, si hubiere otro u otros en la misma municipalidad, por cualquiera de éstos que designará el Juez de Primera Instancia del Distrito Judicial a que corresponda el impedido; si no los hubiere, el secretario del propio Juzgado y, en caso de no ser posible, la sustitución se hará con el Juez Conciliador del lugar más próximo.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
 
-IV.- Los Secretarios de las Salas del Tribunal, de los Juzgados de Primera Instancia y de los Juzgados Conciliadores, serán substituidos por la persona que designe el funcionario de quien dependan.
+III.- Los Jueces Menores, si hubiere otro u otros en la misma municipalidad, por cualquiera de éstos que designará el Juez de Primera Instancia del Distrito Judicial a que corresponda el impedido; si no los hubiere, el Secretario del propio Juzgado y, en caso de no ser posible, la substitución se hará con el Juez Menor del lugar más próximo;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+IV.- Los Secretarios de las Salas del Tribunal, de los Juzgados de Primera Instancia y de los Juzgados Menores, serán substituidos por la persona que designe el funcionario de quien dependan.
 
 ### CAPITULO III. LIBERTAD POR DESVANECIMIENTO DE DATOS
 
@@ -2721,7 +2909,7 @@ IV.- En los demás casos en que la Ley ordene expresamente la suspensión del pr
 
 ###### ARTICULO 460.
 
-Lo dispuesto en la fracción I del Artículo anterior, se entiende sin perjuicio de que se practiquen todas las diligencias que tiendan a comprobar la existencia del delito o la responsabilidad del prófugo y a lograr su captura.
+Lo dispuesto en la fracción I del Artículo anterior se entiende sin perjuicio de que se practiquen todas las diligencias que tiendan a comprobar la existencia del delito o la responsabilidad del prófugo y a lograr su captura.
 
 La sustracción de un inculpado a la acción de la justicia, no impedirá la continuación del proceso respecto de los demás inculpados que hubieren sido aprehendidos.
 
@@ -2731,7 +2919,7 @@ Lograda la captura del prófugo, el proceso continuará su curso, practicándose
 
 ###### ARTICULO 462.
 
-Cuando la suspensión se hubiere decretado conforme a la fracción II del Artículo 459, el procedimiento continuará tan luego como se llenen los requisitos a que dicha fracción se refiere.
+Cuando la suspensión se hubiere decretado conforme a la fracción II del Artículo 459 el procedimiento continuará tan luego como se llenen los requisitos a que dicha fracción se refiere.
 
 ###### ARTICULO 463.
 
@@ -2739,7 +2927,7 @@ Si durante el juicio enloqueciere el encausado, el juez en un plazo no mayor de 
 
 ###### ARTICULO 464.
 
-En el caso del Artículo anterior, el juez podrá disponer que el procesado sea tratado por todo el tiempo necesario para su curación, dictando las medidas que el caso amerite.
+En el caso del Artículo anterior el juez podrá disponer que el procesado sea tratado por todo el tiempo necesario para su curación, dictando las medidas que el caso amerite.
 
 ###### ARTICULO 465.
 
@@ -2747,7 +2935,7 @@ El Juez, a petición de los familiares del procesado o de oficio, ordenará sea 
 
 ###### ARTICULO 466.
 
-El Tribunal resolverá de oficio sobre la suspensión del procedimiento, o a petición de parte, fundado en cualquiera de las causas a que se refiere el Artículo 459, así como sobre la reanudación del procedimiento.
+El Tribunal resolverá de oficio sobre la suspensión del procedimiento, o a petición de parte, fundado en cualquiera de las causas a que se refiere el Artículo 459 así como sobre la reanudación del procedimiento.
 
 ### CAPITULO V. INCIDENTES CRIMINALES EN JUICIO CIVIL
 
@@ -2919,7 +3107,9 @@ Hecha la promoción, se dará vista de ella a la parte contraria para que contes
 
 Desahogada la vista a que se refiere el Artículo anterior o transcurrido el plazo señalado, si el Tribunal lo creyere conveniente, o alguna de las partes lo pidiere, citará a una audiencia que se verificará dentro de los tres días siguientes. Durante este plazo, así como en la audiencia, se recibirán las pruebas. Concurran o no las partes, el Tribunal fallará desde luego el incidente, siendo apelable el fallo en el efecto devolutivo.
 
-## TITULO NOVENO. PROCEDIMIENTO RELATIVO A LOS ENFERMOS MENTALES Y SORDOMUDOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 1988)</small>
+
+## TITULO NOVENO. PROCEDIMIENTO PARA INIMPUTABLES
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -2947,7 +3137,7 @@ Cuando la resolución es en el sentido de que el inculpado es imputable, cerrar�
 
 En el caso de que la resolución determine que se trata de un inimputable, el Juez dictará un auto en el que se declare la apertura de la segunda etapa del procedimiento especial, que se notificará a las partes y al tutor. En ese caso el Juez abrirá un período de pruebas, para precisar si el inculpado realizó o no la conducta que se le atribuye, decretando un período de ofrecimiento y desahogo de pruebas que será de diez comunes para las partes.
 
-Desahogadas las pruebas ofrecidas, el Juez dentro de un plazo de quince días, contados a partir del siguiente al desahogo de la última prueba, dicta la resolución que versará sobre la participación del inimputable en los hechos que se le atribuyen. En caso de que se compruebe que el inimputable participó en los hechos, procederá el Juez a imponerle la medida de seguridad que estime conducente, observando lo dispuesto por el Código Penal.
+Desahogadas las pruebas ofrecidas, el Juez dentro de un plazo de quince días, contados a partir del siguiente al desahogo de la última prueba, dictara resolución que versará sobre la participación del inimputable en los hechos que se le atribuyen. En caso de que se compruebe que el inimputable participó en los hechos, procederá el Juez a imponerle la medida de seguridad que estime conducente, observando lo dispuesto por el Código Penal.
 
 ###### ARTICULO 505.
 
@@ -2959,7 +3149,9 @@ Las resoluciones que concluyan las dos etapas del procedimiento especial serán 
 
 No procederá recurso alguno contra cualquier auto o resolución distinta a los anteriores, dictada en el procedimiento especial.
 
-## TITULO DECIMO. EJECUCION
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 1988)</small>
+
+## TITULO DECIMO. PROCEDIMIENTO DE EJECUCION
 
 ### CAPITULO II. CONDENA CONDICIONAL
 
@@ -3047,9 +3239,11 @@ El día fijado para la vista, dada cuenta por el Secretario, se recibirán las p
 
 A los cinco días de celebrada la vista, el Tribunal declarará si es o no procedente la solicitud del reo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 525.
 
-En el primer caso remitirá las diligencias originales con informe al Ejecutivo, para que éste sin más trámite otorgue el Reconocimiento de Inocencia.
+En el primer caso remitirá las diligencias originales con informe al Ejecutivo, para que éste sin más trámite otorgue el Reconocimiento de Inocencia, el que mandará publicarse en el Periódico Oficial del Estado y en los diarios de circulación mayor del lugar en que resida la persona cuya inocencia se reconozca.
 
 En el segundo caso, se mandarán archivar las diligencias.
 
@@ -3115,6 +3309,10 @@ Para que pueda operar la conmutación, es indispensable cubrir o garantizar prev
 
 ## TITULO DECIMO PRIMERO
 
+### CAPITULO UNICO. PROCEDIMIENTO RELATIVO AL JURADO POPULAR
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 538.
 
 Los tribunales penales del Estado conocerán, en los términos previstos por este Código, de los delitos del orden común definidos en el Código Penal y Leyes especiales de la Entidad, cometidos por los servidores públicos del Estado y Municipios, durante el desempeño de sus cargos.
@@ -3126,6 +3324,384 @@ Los servidores públicos del Estado, mencionados en el Artículo 152 de la Const
 ###### ARTICULO 540.
 
 Fuera de los servidores públicos a que se refiere el Artículo anterior ningún otro gozará de protección constitucional.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 1988)</small>
+
+TITULO ESPECIAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 541.
+
+Los delitos cometidos por medio de la prensa contra el Orden Público y la Seguridad del Estado, serán juzgados por Jurado Popular, observándose el procedimiento establecido en este Capítulo, pero la instrucción del proceso se efectuará por el Tribunal de Primera Instancia que corresponda.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 542.
+
+En los casos de la competencia del Jurado Popular, formuladas las conclusiones del Ministerio Público y de la defensa, el Tribunal que conozca del proceso señalará día y hora para la celebración del Juicio, dentro de los quince días siguientes y ordenará la insaculación y sorteo de los Jurados.
+
+En el mismo auto se mandará citar a todos los testigos y peritos no científicos que hubiesen sido examinados durante la instrucción. Los peritos científicos sólo podrán ser citados cuando lo solicite alguna de las partes, o cuando a juicio del Tribunal sea necesaria su presencia para el solo efecto de fijar hechos o esclarecerlos.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 543.
+
+La insaculación y sorteo de Jurados se hará en público el día anterior al en que deba celebrarse el juicio, debiendo estar presentes el Juez, su Secretario, el Ministerio Público, el acusado y su defensor. Estos dos últimos podrán dejar de asistir si así les conviniere.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 544.
+
+Reunidas las personas a que se refiere el Artículo anterior, el Juez introducirá en una ánfora los nombres de cien Jurados inscritos en los padrones respectivos y de ellos sacará treinta, debiendo estar representadas proporcionalmente las diversas categorías clasificadas como lo dispone el Artículo 65 de la Ley Orgánica del Poder Judicial.
+
+Al sacarse cada nombre, el Juez lo leerá en voz alta. En este acto el Ministerio Público y el acusado, por sí o por su defensor, podrán recusar sin expresión de causa, cada uno de ellos, hasta cinco de los Jurados designados por la suerte. Los recusados serán sustituídos inmediatamente en el mismo sorteo. Concluida la diligencia, se ordenará se cite a los Jurados designados.
+
+El acusado y su defensor podrán cerciorarse sobre la forma de llevar a cabo el sorteo de Jurados, objetando la insaculación que se haga de manera indebida. Las protestas sobre insaculación se formularán desde luego, y en caso de comprobarse los hechos en que se funden, el Supremo Tribunal de Justicia podrá ordenar la reposición del procedimiento si la sentencia del Jurado fuere recurrida en apelación, atendiendo a lo dispuesto por el Artículo 364.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 545.
+
+La citación a los Jurados se hará por medio de cédulas que serán entregadas a los interesados por conducto del Secretario del Tribunal, y contendrán:
+
+I.- El lugar y la fecha en que se expida la cita;
+
+II.- El objeto de ella con expresión del nombre y los apellidos del acusado, del delito por el cual deba ser juzgado y la designación de la institución contra quien fue cometido;
+
+III.- El lugar, día y hora en que deba instalarse el Jurado;
+
+IV.- La conminación de que si el citado no concurriere pagará una multa de cinco a diez días de salario mínimo vigente en la Capital del Estado o sufrirá arresto de uno a quince días; y
+
+V.- La firma del Secretario y el sello del Tribunal.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 546.
+
+El Secretario del Tribunal dará cuenta, por medio de informe en autos, del resultado de la entrega de las citas a que se refiere el Artículo anterior, antes de la hora señalada para la audiencia.
+
+La falta de cumplimiento de esta disposición será sancionada por el Tribunal con multa de hasta diez días de salario mínimo vigente en el lugar de que se trate.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 547.
+
+Durante la audiencia deberán estar presentes: El Presidente de Debates que lo será el Juez del proceso; su Secretario, el representante del Ministerio Público, el acusado, a no ser que renuncie expresamente su derecho de asistir, su defensor y los Jurados, insaculados. Si alguno faltare sin motivo justificado, el Tribunal impondrá al faltista una corrección disciplinaria.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 548.
+
+El día fijado para la audiencia, transcurrida media hora de la señalada, presentes el Presidente de Debates, su Secretario y el representante del Ministerio Público, se dará cuenta con los informes a que se refiere el Artículo 546 y se pasará lista a los Jurados citados.
+
+Si concurrieron doce Jurados por lo menos, se procederá a la insaculación y sorteo de los que deben conocer de la causa. En caso contrario, se mandará traer por medio de la policía a los ausentes que hubieren sido citados, según los informes rendidos, hasta completar el número de doce.
+
+Si transcurriere una hora sin haberse reunido el número requerido, no se efectuará la audiencia y se señalará nuevo día para la insaculación y sorteo de los Jurados y celebración de aquélla.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 549.
+
+A todos los Jurados que, habiendo sido citados, no concurrieren, se les impondrá de plano la corrección que menciona el Artículo 547, que se hará efectiva sin recurso alguno a menos que el faltista probare el impedimento justificado que le hubiere imposibilitado para asistir.
+
+No se considerará impedimento justificado, por no haber tenido conocimiento de la cita por encontrarse ausente o por haber cambiado de domicilio si hubiere omitido el faltista los avisos correspondientes.
+
+A los Jurados que se presentaren durante el sorteo, se les llamará públicamente la atención por su falta de puntualidad.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 550.
+
+Reunidos doce Jurados por lo menos, se introducirán sus nombres en una ánfora de la que el Presidente de Debates extraerá los de siete Propietarios y los de los supernumerarios que crea conveniente, de modo que el número total de los sorteados no iguale al número de los presentes. Los Jurados supernumerarios suplirán a los Propietarios en el orden en que hubiesen sido sorteados.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 551.
+
+Practicado el sorteo, el Presidente de Debates ordenará se dé lectura a las disposiciones de la Ley Orgánica del Poder Judicial que establezcan los requisitos para ser Jurado y sus causas de impedimento, y en seguida preguntará a los Jurados sorteados si tienen los requisitos y si no existen respecto a ellos algunas de esas causas. Si un Jurado manifiesta que reconoce no poder fungir por cualquiera de esos motivos, se oirá en el acto al Ministerio Público, y el Presidente de los Debates resolverá de plano, sin recurso alguno si admite o desecha el motivo alegado.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 552.
+
+Cuando un Jurado no manifestare el impedimento que crea tener, al hacérsele la pregunta a que se refiere el Artículo anterior, y apareciere en el acto o posteriormente que lo tiene, será consignado por el delito a que se refiere la fracción I del Artículo 254 del Código Penal.
+
+La misma consignación se hará si se alegare algún impedimento y después apareciere no ser cierto.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 553.
+
+Admitido el impedimento será sustituído por medio de sorteo el Jurado impedido y, con el que resulte designado, se observará lo dispuesto en el Artículo 551.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 554.
+
+En este acto las partes podrán pedir la exclusión de algún Jurado que tenga impedimento o sea recusable de acuerdo con los Artículos 434 y 438, procediendo el Presidente de Debates con arreglo a los artículos anteriores.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 555.
+
+Concluído el sorteo, se retirarán los Jurados que no hubieren sido designados y se pasará lista de los peritos y testigos citados.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 556.
+
+Si todos los peritos y testigos citados estuvieren presentes o se hubiere declarado que a pesar de la falta de alguno de ellos es de celebrarse la audiencia, estando completo el número de los Jurados, el Presidente de los Debates tomará a éstos la siguiente protesta:
+
+"¿Protestan ustedes desempeñar las funciones de Jurado sin odio ni temor y decidir según aprecien en conciencia y de acuerdo con su íntima convicción, los cargos y los medios de defensa, obrando en todo con imparcialidad y firmeza ?".
+
+Cada miembro del Jurado, llamado individualmente deberá contestar:
+
+" Si protesto ".
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 557.
+
+Si alguno de los Jurados se negare a protestar, el Presidente de los Debates le impondrá de plano, y sin recurso alguno, multa de cinco a diez días de salario mínimo vigente en la Capital del Estado y lo sustituirá desde luego por el Supernumerario correspondiente.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 558.
+
+Instalado el Jurado, el Presidente de los Debates ordenará al Secretario que dé lectura a las constancias que el mismo Presidente estime necesarias o que soliciten las partes.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 559.
+
+Terminada la lectura de constancias, el Presidente de Debates interrogará al acusado sobre los hechos motivo del Juicio.
+
+El Ministerio Público, la defensa y los Jurados podrán a continuación interrogarlo, por sí mismo, pidiendo la palabra al Presidente, o por medio de éste, y hacerle las preguntas conducentes al esclarecimiento de la verdad. Los Jurados evitarán cuidadosamente que se trasluzca su opinión.
+
+Se examinará a los testigos y peritos en la forma y por las personas que señala el párrafo anterior, así como por el acusado si lo pidiere.
+
+En los interrogatorios al acusado, testigos y peritos, se observarán en su caso, las reglas establecidas en los Artículos 180 y 263.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 560.
+
+Concluido el examen del acusado, de los testigos y peritos, practicados los careos y recibidas las demás pruebas, el Ministerio Público fundará verbalmente sus conclusiones.
+
+Su alegato se reducirá a una exposición clara y metódica de los hechos imputados al acusado y de las pruebas rendidas con el análisis que creyere conveniente hacer, pero sin referirse a las reglas sobre la prueba legal, ni hacer alusión a la sanción que deba imponerse al acusado; no podrán citarse leyes, ejecutorias, doctrinas, ni opiniones jurídicas de ninguna especie. El Presidente de los Debates llamará al orden al infractor de esta disposición, conminándolo con multa de diez a veinte días de salario mínimo vigente en la Capital del Estado, si reincidiere.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 561.
+
+El Ministerio Público deberá sostener las mismas conclusiones que hubiere formulado en el proceso, sin poder retirarlas, modificarlas o alegar otras, sino por causa superveniente y suficiente, bajo su más estricta responsabilidad y sin que sea necesaria la revisión del Procurador General de Justicia.
+
+En este caso, cuando le corresponda hacer uso de la palabra para formular sus conclusiones, expondrá verbalmente las razones que tenga para retirarlas, modificarlas o sostener otras.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 562.
+
+Concluído el alegato del Ministerio Público, el defensor hará la defensa sujetándose a las reglas que establezca el Artículo 560.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 563.
+
+Siempre que el Ministerio Público o la defensa citen o hagan referencia a alguna constancia del proceso que no exista, o no sea tal como se indica, el Presidente de los Debates tomará nota para hacer la rectificación correspondiente al concluir el orador.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 564.
+
+El defensor podrá cambiar o retirar libremente sus conclusiones.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 565.
+
+Al concluir de hablar el acusado, el Presidente declarará cerrados los debates.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 566.
+
+A continuación el Presidente de los Debates procederá a formular el interrogatorio, que deberá someter a deliberación del Jurado, sujetándose a las reglas siguientes:
+
+I.- Si en las conclusiones formuladas por el Ministerio Público se encontraren algunas contradicciones, el Presidente lo declarará así; si no obstante esta aclaración, aquél no retirare alguna de ellas para hacer desaparecer la contradicción, ninguna de las conclusiones contradictorias se pondrá en el interrogatorio;
+
+II.- Si existiere la contradicción en las conclusiones de la defensa, se procederá del mismo modo que respecto del Ministerio Público previene la fracción anterior;
+
+III.- Si el Ministerio Público retirase toda acusación, el Presidente declarará disuelto el Jurado y sobreseerá el proceso;
+
+IV.- Si la defensa, en sus conclusiones, estimare los hechos considerados por el Ministerio Público como constitutivos de delito diverso, se formará sobre esto otro interrogatorio, agregando a él las circunstancias alegadas por el Ministerio Público cuando no sean incompatibles;
+
+V.- Los hechos alegados en las conclusiones del Ministerio Público y de la defensa, que no constituyen una circunstancia determinada por la ley, o que por carecer de alguno de los elementos que en ella se exigen no puedan ser consideradas en la sentencia, no se incluirán en el interrogatorio;
+
+VI.- Cuando las conclusiones del Ministerio Público y las de la defensa sean contradictorias se pondrán en el interrogatorio las anotaciones necesarias para que el Jurado no incurra en contradicciones;
+
+VII.- Cuando los hechos contenidos en las conclusiones del Ministerio Público o de la defensa, sean complejos, se dividirán en el interrogatorio en tantas preguntas cuantas sean necesarias para que cada una contenga un solo hecho;
+
+VIII.- Si en las conclusiones de alguna de las partes se empleare un término técnico que, jurídicamente, contenga varios hechos o elementos, se procederá como previene la fracción anterior.
+
+Si sólo significare un hecho, se substituirá el término técnico por uno vulgar, hasta donde esto fuere posible; en caso contrario, se hará una anotación explicando el significado de dicho término;
+
+IX.- No se incluirán en el interrogatorio preguntas sobre la edad o sexo del acusado, o del ofendido, ni sobre hechos que consten o deban constar por juicio especial de peritos científicos.
+
+Tampoco se incluirán preguntas relativas a trámites o constancias que sean exclusivamente del procedimiento;
+
+X.- Tampoco se incluirán en el interrogatorio preguntas que envuelvan la negación de un hecho, pues sólo se someterán a los jurados las preguntas cuando el Ministerio Público o la defensa afirmen la existencia de ese hecho;
+
+XI.- La primera pregunta del interrogatorio se formulará en los términos siguientes: "al acusado N. N. le es imputable... (aquí se asentarán el hecho o hechos que constituyan los elementos materiales del delito imputado, sin darles denominación jurídica ni aplicar lo dispuesto en la fracción VII de este Artículo).
+
+En seguida se pondrán las preguntas sobre las circunstancias modificativas, observándose lo dispuesto en las fracciones VII y VIII de este Artículo; y
+
+XII.- En una columna del interrogatorio destinada a este efecto se pondrán delante de cada pregunta, las palabras "hecho constitutivo", "circunstancia modificativa", según el carácter de la pregunta.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 567.
+
+En el caso de la fracción IV del Artículo anterior el Jurado sujetará primero a votación, cuál de los dos interrogatorios es de votarse y votará aquel que decida la mayoría. Al calce de éste y antes de las firmas se asentará la razón de la votación, expresándose el número de votos que hubieren formado la mayoría.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 568.
+
+Los hechos a que se refiere la fracción X del Artículo 566 los estimará el Presidente de los Debates en su sentencia con sujeción a las reglas de la prueba legal, siempre que hubieren sido materia de las conclusiones de alguna de las partes.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 569.
+
+En los casos en que, conforme a la ley, para que se tome en consideración una circunstancia se requiere la no existencia de un hecho, se tendrá éste por no existente, siempre que el Jurado no hubiere votado su existencia, ya por no habérsele sometido, ya porque sometida en los términos de la fracción X del Artículo 566 la hubiere negado.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 570.
+
+Por cada acusado, si hubiere varios, se formará distinto interrogatorio, conforme a las reglas establecidas en el Artículo 566.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 571.
+
+El Ministerio Público y la defensa podrán objetar la redacción del interrogatorio. El Presidente de los Debates, resolverá, sin recurso alguno la oposición.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 572.
+
+A continuación, el Presidente de los Debates dirigirá a los Jurados la siguiente instrucción:
+
+" La Ley no toma en cuenta a los jurados los medios por los cuales formen su convicción, no les fija ninguna regla de la cual dependa la prueba plena y suficiente; sólo les manda interrogarse a sí mismos y examinar con la sinceridad de su conciencia, la impresión que sobre ella produzcan las pruebas rendidas en favor o en contra del acusado. La Ley se limita a hacerles esta pregunta, que resume todos sus deberes: ¿Tienen la íntima convicción de que el acusado cometió el hecho que se le imputa?. Los jurados faltan a su principal deber si toman en cuenta la suerte que, en virtud de su decisión, deba caber al acusado por lo que disponen las Leyes Penales ".
+
+En seguida el Presidente de los Debates entregará el proceso e interrogatorio al Jurado de más edad, quien hará de Presidente del Jurado, funcionando el más joven como Secretario.
+
+Suspendida la audiencia, los jurados pasaran a la Sala de Deliberaciones, sin poder salir de ella, ni tener comunicación alguna con las personas de fuera, sino hasta que el veredicto esté firmado.
+
+Los Jurados Supernumerarios, que no estuvieren supliendo algún Propietario, permanecerán en la Sala de Audiencia para cubrir cualquier falta que ocurra durante las deliberaciones.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 573.
+
+El Presidente del Jurado sujetará a la deliberación de los Jurados, una a una, las preguntas del interrogatorio, permitiéndoles, y aun exhortándolos, a discutirlas; sólo cuando la discusión estuviere agotada se procederá a votar.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 574.
+
+En la deliberación el Presidente del Jurado exhortará a los miembros del mismo a expresar su opinión y a discutir el caso. Agotada la discusión se procederá a votar.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 575.
+
+Para la votación, el Secretario entregará a cada uno de los Jurados dos fichas, una de las cuales contendrá la palabra " sí " y la otra palabra " no " y después se les presentará una ánfora para que en ella depositen las fichas que contengan su voto. Recogidas las fichas de todos los Jurados, el Secretario entregará el ánfora al Presidente del Jurado y presentará otra a los Jurados para que depositen en ella la ficha sobrante. El Presidente sacará de la ánfora de votación, una a una, las fichas que contenga y leerá en voz alta la palabra escrita en ella, haciendo el Secretario el cómputo de votos. Después se dará lectura a éste y el Presidente ordenará al Secretario que asiente el resultado de la votación en el pliego en que se formuló el interrogatorio.
+
+Si alguno de los jurados reclamare en este momento, por haber incurrido en error o equivocación al emitir su voto, se repetirá la votación.
+
+Una vez escrito el resultado de la votación ya no podrá repetirse.
+
+Además del ánfora donde depositen los Jurados las fichas de su votación, se pondrá otra en poder del defensor del acusado para que en ella se guarden las fichas sobrantes.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 576.
+
+Cuando alguno de los Jurados se negare a votar, el Presidente del Jurado llamará al de los Debates quien exhortará al renuente a que dé su voto, haciéndole ver las sanciones en que incurre por su negativa.
+
+Si el Jurado insistiere en no votar, el Presidente de los Debates le impondrá, de plano y sin recurso alguno, una multa de diez a veinte días de salario mínimo vigente en la Capital del Estado o el arresto correspondiente, y ordenará que el voto omitido se agregue a la mayoría o al más favorable para el acusado, si hubiere igual número en pro y en contra del mismo.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 577.
+
+Asentado el resultado de la votación, el Secretario del Jurado recogerá las firmas de todos los Jurados, certificará que han sido puestas por ellos y firmará la certificación.
+
+Si alguno de los Jurados no firmare por imposibilidad física, el Secretario lo certificará así. Esta certificación surtirá todos los efectos de la firma del impedido.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 578.
+
+Si algún Jurado rehusare a firmar, se procederá conforme al Artículo 576.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 579.
+
+Firmado el veredicto, pasarán los Jurados a la Sala de Audiencias y su Presidente lo entregará con el procesal de los Debates, quien dará lectura al veredicto en voz alta.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 580.
+
+Si hubiere dejado de votarse alguna pregunta o hubiere contradicción en la votación, a juicio del Presidente de los Debates, hará éste que los Jurados vuelvan a la Sala de Deliberaciones a votar la pregunta omitida, o las contradicciones en lo que sea necesario para decidir la contradicción.
+
+El Secretario pondrá la razón de la nueva votación, recogerá las firmas de los Jurados y las certificará.
+
+Si no hubiere necesidad de proceder como lo preceptúan los párrafos anteriores, sea absolutorio o condenatorio el veredicto, el Presidente de los Debates manifestará a los Jurados que habiendo concluído su misión pueden retirarse. Enseguida se abrirá la audiencia de Derecho.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 581.
+
+Abierta la audiencia de Derecho, se concederá la palabra al Ministerio Público y en seguida a la defensa, para que aleguen lo que creyeren pertinente, fundando su petición en las leyes, ejecutorias y doctrinas que estimen aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 582.
+
+Concluido el debate, el Juez dictará la sentencia que corresponda, la que solamente contendrá la parte resolutiva y que será leída por el Secretario.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 583.
+
+La lectura de la sentencia conforme al Artículo anterior surte los efectos de notificación en forma en cuanto a las partes que hubieren asistido a la audiencia, aun cuando no estuvieren presentes en los momentos de la lectura, siempre que la ausencia fuere voluntaria.
+
+A las que no hubieren asistido a la audiencia se les notificará el fallo en la forma y términos establecidos en el Capítulo X del Título Primero.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 584.
+
+Si la sentencia fuere absolutoria se pondrá en el acto en libertad al acusado, si no estuviere detenido por otro motivo.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 585.
+
+Dentro de los tres días siguientes el Secretario del Tribunal extenderá acta pormenorizada de la audiencia, en la que siempre se hará constar los nombres y apellidos de todas las personas que con cualquier carácter hubieren intervenido en ella.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 586.
+
+La sentencia se engrosará dentro de los cinco días siguientes al de la fecha del acta a que se refiere el Artículo anterior.
 
 TRANSITORIOS:
 
@@ -3160,3 +3736,11 @@ Cd. Victoria, Tam., a 26 de diciembre de 1986.- Diputada Presidente, LIC. MERCED
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los veintinueve días del mes de diciembre de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado, DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General de Gobierno, LIC. ROBERTO PERALES MELENDEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 22 DE JUNIO DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor treinta días después al de su publicación en el Periódico Oficial del Estado.
