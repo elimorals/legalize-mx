@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1993-11-17"
+last_updated: "1994-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 1994.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -267,9 +267,17 @@ Los partidos políticos con registro nacional o estatal tendrán derecho a parti
 
 Corresponde a los ciudadanos, Ayuntamientos, partidos y el Gobierno del Estado, la preparación, desarrollo y vigilancia de los procesos electorales.
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1994)</small>
 
-La Ley determinará los organismos que tentrán (sic) a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos; además establecerá los medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por etsa (sic) Constitución y las leyes que de ella emanen. Instituirá un Tribunal de lo contencioso electoral que endrá (sic) la competencia que determine la Ley; las resoluciones del Tribunal serán obligatorias y sólo podrán ser modificadas por el Colegio Electoral de la Cámara de Diputados, que será la última instancia de la calificación de las elecciones; sus resoluciones tendrán el carácter de definitivas.
+La Ley determinará los organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos; además establecerá los medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por esta Constitución y las leyes que de ella emanen. Instituirá un Tribunal de lo Contencioso Electoral que será un organismo autónomo e independiente y tendrá la competencia que determine la Ley; las resoluciones del Tribunal serán definitivas e inatacables.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 1994)</small>
+
+Para los procesos electorales de Gobernador, Diputados locales y Ayuntamientos que se lleven a cabo en la Entidad, dentro del Tribunal Estatal de lo Contencioso Electoral se integrará una Sala de Segunda Instancia, con el Presdente (sic) del propio Tribunal y con cuatro Magistrados miembros del Supremo Tribunal de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 1994)</small>
+
+Los cuatro miembros de la judicatura a que se refiere el párrafo anterior serán electos para cada proceso electoral por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado de entre los Magistrados que integren el Supremo Tribunal de Justicia de la Entidad. La ley señalará las reglas y procedimientos correspondientes. Durante los recesos del Congreso, la elección será realizada por la Diputación Permanente.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -391,9 +399,7 @@ La infracción de este artículo se castiga con la pérdida del carácter de dip
 
 ART. 26.- Los diputados son inviolables por las opiniones que manifiesten en el desempeño de su encargo, y jamás podrán ser reconvenidos ni procesados por ellas.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1992)</small>
-
-ART. 27.- Las elecciones de Diputados serán calificadas por un Colegio Electoral compuesto por cinco Diputados de mayoría y cuatro Diputados de representación proporcional de la Legislatura saliente. La Ley Orgánica del Poder Legislativo determinará la forma de seleccionar a los miembros del Colegio Electoral.
+ART. 27.- (DEROGADO, P.O. 4 DE OCTUBRE DE 1994)
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -453,9 +459,7 @@ I.- Dar y derogar las leyes;
 
 II.- Iniciar ante el Congreso Federal las leyes y decretos que sean de la competencia de la Legislatura Federal, así como la reforma y derogación de unas y de otros;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1958)</small>
-
-III.- Calificar la validez o nulidad de las elecciones de Gobernador, Diputados al Congreso Local, Ayuntamientos del Estado y Alcaldes Constitucionales, haciendo el cómputo de votos en los términos que prevenga la Ley;
+III.- (DEROGADA, P.O. 4 DE OCTUBRE DE 1994)
 
 IV.- Determinar sobre las excusas que expongan para no admitir esos cargos, los funcionarios de que habla la fracción anterior;
 
@@ -529,9 +533,7 @@ XXVIII.- Determinar, según las necesidades, el número de ministros de cultos e
 
 XXIX.- Dictar leyes encaminadas a combatir el alcoholismo;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1958)</small>
-
-XXX.- Hacer el cómputo de votos de la elección de Senadores, declarando electos a los que hubieren obtenido la mayoría de sufragios;
+XXX.- (DEROGADA, P.O. 4 DE OCTUBRE DE 1994)
 
 XXXI.- Expedir todas las leyes que sean necesarias para el efecto de hacer efectivas las atribuciones anteriores, y todas las otras concedidas por esta Constitución a los Poderes del Estado;
 
@@ -567,7 +569,7 @@ V.- Cuidar de que en los días fijados por las leyes, se hagan las elecciones po
 
 VI.- Convocar a la Legislatura cuando sea necesario para ejercer sus funciones fuera de la Capital;
 
-VII.- Recibir las actas de elección de los funcionarios del Estado, de cuya validez deba conocer el Congreso, y presentarlas a éste para su calificación;
+VII.- (DEROGADA, P.O. 4 DE OCTUBRE DE 1994)
 
 VIII.- Reservar, para dar cuenta al Congreso en su próxima reunión, todos los asuntos para cuya resolución no esté expresamente facultada;
 
@@ -1157,15 +1159,17 @@ ART. 85.- Para que una población pueda erigirse en cabecera de municipio, se ne
 
 ART. 86.- En las congregaciones municipales la autoridad será ejercida por un delegado municipal, que tendrá las atribuciones y responsabilidades que le fije la ley. El delegado municipal será nombrado por el ayuntamiento respectivo.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1994)</small>
 
-ART. 87.- Atendiendo a la ley secundaria, los Municipios en que se divide el Estado se integrarán hasta con once Regidores de elección mayoritaria y se complementarán hasta con cuatro Regidores de representación proporcional. Por cada Regidor y Síndico propietarios se elegirá un suplente.
+ART. 87.- Los Ayuntamientos se integrarán con un Presidente, con Regidores de mayoría relativa y de representación proporcional y hasta con dos Síndicos, conforme lo disponga la ley de la materia. El número de Regidores se fijará en la ley, tomando en cuenta el índice demográfico y las condiciones socioeconómicas de cada Municipio.
+
+Por cada Regidor y Síndico propietarios se elegirá un suplente.
 
 Los Ayuntamientos serán electos cada tres años.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1978)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1994)</small>
 
-ART. 88.- Los partidos políticos con derecho a participar en la Entidad, que no hubiesen logrado la mayoría en la elección municipal, podrán acreditar regidores en proporción a los votos recibidos, siempre que hayan obtenido por lo menos el uno y medio por ciento de la votación sufragada. En ningún caso se asignarán a un solo Partido, más de la mitad de estas regidurías. La nominación de regidores de representación proporcional atenderá siempre al orden en que hayan sido postulados por sus respectivos Partidos.
+ART. 88.- La nominación de Regidores de representación proporcional atenderá siempre al orden en que hayan sido postulados por sus respectivos Partidos Políticos.
 
 > <small>(REFORMADO, P.O. 4 DE JUNIO DE 1978)</small>
 
@@ -1588,3 +1592,7 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Hasta en tanto se reformen los preceptos correspondientes de las leyes secundarias, cuando en éstas se haga referencia a la Contaduría de Glosa, se entenderá que se refiere a la Contaduría Mayor de Hacienda.
+
+P.O. 4 DE OCTUBRE DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
