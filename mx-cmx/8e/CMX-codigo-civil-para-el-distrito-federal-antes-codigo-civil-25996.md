@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1948-01-14"
+last_updated: "1951-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ENERO DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE FEBRERO DE 1951.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -3847,15 +3847,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el muni
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
+> <small>(REFORMADO, D.O.F. 27 DE FEBRERO DE 1951)</small>
+
 ###### ARTICULO 730.
 
-El valor máximo de los bienes afectos al patrimonio de la familia será de:
-
-I.- Seis mil pesos para la Municipalidad de México;
-
-II.- Tres mil pesos para el resto del Distrito Federal y para el Distrito Norte de la Baja California;
-
-III.- Mil pesos para el Distrito Sur de la Baja California y para el Territorio de Quintana Roo.
+El valor máximo de los bienes afectos al patrimonio de familia será de veinticinco mil pesos para el Distrito y Territorios Federales.
 
 ###### ARTICULO 731.
 
@@ -8165,7 +8161,7 @@ ARTICULO 2,106.- La responsabilidad procedente de dolo es exigible en todas las 
 
 ARTICULO 2,107.- La responsabilidad de que se trata en este Título, además de importar la devolución de la cosa o su precio, o la de entrambos (sic), en su caso, importará la reparación de los daños y la indemnización de los perjuicios.
 
-ARTICULO 2,108.- Se entiende por daño la perdida o menoscabo sufrido en el patrimonio por la falta de cumplimiento de una obligación.
+ARTICULO 2,108.- Se entiende por daño la pérdida o menoscabo sufrido en el patrimonio por la falta de cumplimiento de una obligación.
 
 ARTICULO 2,109.- Se reputa perjuicio la privación de cualquiera ganancia lícita, que debiera haberse obtenido con el cumplimiento de la obligación.
 
@@ -9203,11 +9199,7 @@ ARTICULO 2,515.- El comodato termina por la muerte del comodatario.
 
 ### CAPITULO VII. Disposiciones especiales respecto de los arrendamientos por tiempo indeterminado
 
-N. DE E., SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR DISPOSICION DE LOS ARTICULOS CUARTO Y SEXTO DEL DECRETO DE 15 DE MAYO DE 1944, QUE PRORROGA LOS CONTRATOS DE ARRENDAMIENTO DE CASA HABITACION EN LOS TERRITORIOS FEDERALES EN BENEFICIO DE LOS INQUILINOS, MIENTRAS DURE EL ESTADO DE GUERRA, PUBLICADO EN EL D.O.F. 9 DE JUNIO DE 1944.
-
 ARTICULO 2,478.- Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte dado en forma indubitable con dos meses de anticipación si el predio es urbano, y con un año si es rústico.
-
-N. DE E., SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR DISPOSICION DE LOS ARTICULOS CUARTO Y SEXTO DEL DECRETO DE 15 DE MAYO DE 1944, QUE PRORROGA LOS CONTRATOS DE ARRENDAMIENTO DE CASA HABITACION EN LOS TERRITORIOS FEDERALES EN BENEFICIO DE LOS INQUILINOS, MIENTRAS DURE EL ESTADO DE GUERRA, PUBLICADO EN EL D.O.F. 9 DE JUNIO DE 1944.
 
 ARTICULO 2,479.- Dado el aviso a que se refiere el artículo anterior, el arrendatario del predio urbano está obligado a poner cédulas y a mostrar el interior de la casa a los que pretendan verla. Respecto de los predios rústicos, se observará lo dispuesto en los artículos 2,456, 2,457 y 2,458.
 
@@ -9227,8 +9219,6 @@ ARTICULO 2,482.- Si el arrendador aprueba expresamente el contrato especial de s
 
 ARTICULO 2,483.- El arrendamiento puede terminar:
 
-N. DE E., SE SUSPENDE LA VIGENCIA DE LA PRIMERA PARTE DE LA PRESENTE FRACCION POR DISPOSICION DE LOS ARTICULOS CUARTO Y SEXTO DEL DECRETO DE 15 DE MAYO DE 1944, QUE PRORROGA LOS CONTRATOS DE ARRENDAMIENTO DE CASA HABITACION EN LOS TERRITORIOS FEDERALES EN BENEFICIO DE LOS INQUILINOS, MIENTRAS DURE EL ESTADO DE GUERRA, PUBLICADO EN EL D.O.F. 9 DE JUNIO DE 1944.
-
 I.- Por haberse cumplido el plazo fijado en el contrato o por la ley, o por estar satisfecho el objeto para que la cosa fue arrendada;
 
 II.- Por convenio expreso;
@@ -9244,8 +9234,6 @@ VI.- Por pérdida o destrucción total de la cosa arrendada, por caso fortuito o
 VII.- Por expropiación de la cosa arrendada hecha por causa de utilidad pública;
 
 VIII.- Por evicción de la cosa dada en arrendamiento.
-
-N. DE E., SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR DISPOSICION DE LOS ARTICULOS CUARTO Y SEXTO DEL DECRETO DE 15 DE MAYO DE 1944, QUE PRORROGA LOS CONTRATOS DE ARRENDAMIENTO DE CASA HABITACION EN LOS TERRITORIOS FEDERALES EN BENEFICIO DE LOS INQUILINOS, MIENTRAS DURE EL ESTADO DE GUERRA, PUBLICADO EN EL D.O.F. 9 DE JUNIO DE 1944.
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
@@ -11101,7 +11089,7 @@ Sufragio Efectivo. No Reelección.
 
 México, a 30 de agosto de 1928.- El Secretario de Estado y del Despacho de Gobernación, Emilio Portes Gil.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
 D.O.F. 1 DE SEPTIEMBRE DE 1932.
 
@@ -11154,6 +11142,10 @@ Esta ley entrará en vigor a los quince días de su publicación en el "Diario O
 ###### ARTICULO SEGUNDO.
 
 Queda derogado el Título Octavo del Libro Segundo del Código Civil vigente y todas las disposiciones que se opongan a la presente Ley, excepto para regir las violaciones ocurridas antes de la vigencia de ésta.
+
+D.O.F. 27 DE FEBRERO DE 1951.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 ###### ARTICULO 1o.
 
