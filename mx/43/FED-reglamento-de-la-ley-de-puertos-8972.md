@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-puertos-8972"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-11-21"
-last_updated: "1994-11-21"
+last_updated: "1998-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8972&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-11-18"
 
 REGLAMENTO DE LA LEY DE PUERTOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE NOVIEMBRE DE 1998.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 21 de noviembre de 1994.
 
@@ -519,39 +519,7 @@ Las embarcaciones que se encuentren en una marina deberán contar con seguro vig
 
 ###### Artículo 55.
 
-El arribo y despacho de embarcaciones en marinas se sujetará a lo siguiente:
-
-I. Arribos:
-
-a. Para navegación de cabotaje sólo se requerirá del despacho de salida del puerto de origen, y
-
-b. Para navegación de altura se requerirá:
-
-1. Despacho de salida del puerto de origen, o documento oficial similar expedido por la autoridad competente que acredite la procedencia de la embarcación, y
-
-2. Declaración sanitaria, cuando así lo establezca la autoridad correspondiente, tomando en cuenta la procedencia de la embarcación.
-
-Lo anterior sin perjuicio de otros documentos exigibles por otras autoridades administrativas.
-
-II. Despachos:
-
-a. Para navegación interior del puerto sólo se requerirá de aviso al delegado honorario donde se proporcione la lista de pasajeros y tripulantes, así como la duración aproximada del viaje. Para tal efecto, la marina contará con un formato donde se vertirá dicha información.
-
-b. Para navegación de cabotaje se requerirá:
-
-1. Formato único para el despacho de embarcaciones, y
-
-2. Certificado de inspección o documento similar que acredite esta circunstancia, y
-
-c. Para navegación de altura se requerirá:
-
-1. Formato único para el despacho de embarcaciones;
-
-2. Certificado de inspección o documento similar que acredite esta circunstancia;
-
-3. Constancia de no adeudo extendido por la marina, y
-
-4. Patente de sanidad o documento similar.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE NAVEGACION, D.O.F. 16 DE NOVIEMBRE DE 1998)
 
 ## TITULO SEGUNDO. SERVICIOS PORTUARIOS
 
@@ -1044,3 +1012,31 @@ III. El Reglamento para el Servicio de Maniobras en Zonas Federales de los Puert
 IV. El Reglamento para el Servicio de Remolque en Aguas y Puertos Nacionales, publicado en el Diario Oficial de la Federación el 25 de julio de 1952.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de noviembre de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Emilio Gamboa Patrón.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 16 DE NOVIEMBRE DE 1998.
+
+PRIMERO. El presente Reglamento entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abrogan:
+
+I. El Reglamento para la Navegación Interior, publicado en el Diario Oficial de la Federación el 12 de septiembre de 1940;
+
+II. El Reglamento de Yates, publicado en el Diario Oficial de la Federación el 13 de septiembre de 1940;
+
+III. Reglamento para la Navegación de Cabotaje, publicado en el Diario Oficial de la Federación el 4 de septiembre de 1941;
+
+IV. Reglamento para el Abanderamiento y Matrícula de los Buques Mercantes Nacionales, publicado en el Diario Oficial de la Federación el 2 de agosto de 1946;
+
+V. Reglamento para los Servicios Públicos de Cabotaje entre los Puertos Mexicanos del Litoral del Golfo de México y Mar Caribe, publicado en el Diario Oficial de la Federación el 30 de julio de 1948;
+
+VI. Reglamento para el Servicio de Pilotaje, publicado en el Diario Oficial de la Federación el 19 de febrero de 1980;
+
+VII. Reglamento del Registro Público Marítimo Nacional, publicado en el Diario Oficial de la Federación el 29 de agosto de 1980;
+
+VIII. Reglamento de los capítulos III, IV y V de la Ley para el Desarrollo de la Marina Mercante Mexicana, publicado en el Diario Oficial de la Federación el 27 de octubre de 1981, y
+
+IX. Reglamento del Padrón de Abanderamiento Mexicano, publicado en el Diario Oficial de la Federación el 7 de marzo de 1986.
+
+Asimismo, se derogan el artículo 55 del Reglamento de la Ley de Puertos y todas las disposiciones reglamentarias y administrativas que se opongan al presente Reglamento.
