@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1924-11-13"
+last_updated: "1928-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 1924.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 1928.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -267,7 +267,9 @@ VI. Acordar las bases sobre las cuales el Ejecutivo puede celebrar empréstitos 
 
 VII. Crear y suprimir empleos públicos del Estado y señalar, aumentar o disminuir sus dotaciones;
 
-VIII. Nombrar y remover libremente a los empleados y dependientes de su secretaría;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 1928)</small>
+
+VIII. Nombrar y remover libremente a los empleados dependientes de su Secretaría, al Tesorero General del Estado y al Cajero de la Tesorería General del Estado, que será el Jefe de la Sección de Rentas de la ciudad de Campeche, y a los Inspectores de Hacienda en el Estado;
 
 IX. Conceder amnistía, por delitos cuyo conocimiento corresponda a los tribunales del Estado, e indulto, remisión o conmutación de penas impuestas por los mismos tribunales;
 
@@ -421,7 +423,9 @@ VI. Nombrar y remover libremente:
 
 A. Al Procurador General de Justicia y a los Agentes del Ministerio Público;
 
-B. Al Tesorero General del Estado y demás empleados del Ramo de Hacienda;
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 1928)</small>
+
+B. A los empleados de Hacienda cuyos nombramientos no estén reservados al Congreso;
 
 C. Al Secretario General del Despacho y demás empleados de la Administración pública, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las leyes;
 
@@ -924,3 +928,7 @@ P.O. 20 DE SEPTIEMBRE DE 1923.
 P.O. 13 DE NOVIEMBRE DE 1924.
 
 Unico. Las modificaciones a que se refieren los artículos anteriores surtirán sus efectos veinte y cuatro horas después de publicadas en el Periódico Oficial del Estado.
+
+P.O. 19 DE ABRIL DE 1928.
+
+Este Decreto comenzará a surtir sus efectos legales el mismo día de su publicación en el Periódico Oficial del Estado.
