@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "1996-05-23"
+last_updated: "1998-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE OCTUBRE DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 24 de diciembre de 1992.
 
@@ -1034,9 +1034,9 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 D.O.F. 21 DE JULIO DE 1993.
 
-> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 1998)</small>
 
-PRIMERO.- Las disposiciones contenidas en el presente decreto entrarán en vigor el 19 de octubre de 1998, salvo lo dispuesto por los transitorios siguientes.
+PRIMERO.- Las disposiciones contenidas en el presente decreto entrarán en vigor el 19 de abril del año 1999, salvo lo dispuesto por los transitorios siguientes.
 
 > <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 1993)</small>
 
@@ -1048,9 +1048,9 @@ II.- Se encuentren arrendados al 19 de octubre de 1993, siempre que sean para us
 
 III.- Su construcción sea nueva, siempre que el aviso de terminación sea posterior al 19 de octubre de 1993.
 
-> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 1998)</small>
 
-TERCERO.- Los juicios y procedimientos judiciales y administrativos actualmente en trámite, así como los que se inicien antes del 19 de octubre de 1998 derivados de contratos de arrendamiento de inmuebles para habitación y sus prórrogas que no se encuentren en los supuestos establecidos en el transitorio anterior, se regirán hasta su conclusión, por las disposiciones del Código de Procedimientos Civiles para el Distrito Federal y de la Ley Federal de Protección al Consumidor, vigentes con anterioridad al 19 de octubre de 1993.
+TERCERO.- Los juicios y procedimientos judiciales y administrativos actualmente en trámite, así como los que se inicien antes del 19 de abril de 1999 derivados de contratos de arrendamiento de inmuebles para habitación y sus prórrogas, que no se encuentren en los supuestos establecidos en el transitorio anterior, se regirán hasta su conclusión, por las disposiciones del Código de Procedimientos Civiles para el Distrito Federal y de la Ley Federal de Protección al Consumidor, vigentes con anterioridad al 19 de octubre de 1993.
 
 D.O.F. 23 DE SEPTIEMBRE DE 1993.
 
@@ -1085,3 +1085,7 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto el artículo 76 de la Ley de los Sistemas de Ahorro para el Retiro, que entrará en vigor el día primero de enero de 2001.
 
 ...
+
+D.O.F. 19 DE OCTUBRE DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
