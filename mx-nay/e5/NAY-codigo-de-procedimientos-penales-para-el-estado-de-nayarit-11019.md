@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "1977-05-14"
+last_updated: "1977-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1977.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -81,7 +81,7 @@ El Ministerio Público cuidará de que se cumplan debidamente las sentencias jud
 
 ## TITULO PRIMERO. REGLAS GENERALES PARA EL PROCEDIMIENTO PENAL
 
-### CAPITULO II. FORMALIDADES
+### CAPITULO I. COMPETENCIA
 
 ###### ARTICULO 5o.
 
@@ -125,7 +125,7 @@ Cuando los detenidos fueren reclamados por autoridades de dos o más partidos ju
 
 Cuando los detenidos o los inculpados sean reclamados por dos o más Juzgados del Estado, el tribunal de competencia resolverá lo procedente.
 
-### CAPITULO I. COMPETENCIA
+### CAPITULO II. FORMALIDADES
 
 ###### ARTICULO 12.
 
@@ -2539,7 +2539,7 @@ En el caso a que se refiere la fracción II del artículo 395, se remitirá al i
 
 ###### ARTICULO 445.
 
-La represión de las infracciones a la ley penal cometidas por menores de dieciséis años, se hará de acuerdo con lo establecido por la Ley de Tribunales para Menores e Incapacitados.
+(DEROGADO POR LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES INFRACTORES DEL ESTADO DE NAYARIT, P.O. 24 DE DICIEMBRE DE 1977)
 
 TITULO DECIMOTERCERO
 
@@ -2798,3 +2798,15 @@ Lic. Martín Espinosa Soto.- Rúb.
 P.O. 14 DE MAYO DE 1977
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 24 DE DICIEMBRE DE 1977
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CODIGO.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor diez días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO TERCERO.
+
+Se derogan los artículos 64 al 67 del Código Penal del Estado, 445 del Código de Procedimientos Penales para el Estado de Nayarit, y las demás disposiciones que se opongan a la aplicación de este Ordenamiento.
