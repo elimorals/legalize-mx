@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-9885"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-03-04"
-last_updated: "1994-09-03"
+last_updated: "1994-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO PENAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1994.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de marzo de 1987.
 
@@ -265,7 +265,11 @@ XI.- VIGILANCIA DE LA AUTORIDAD;
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 1992)</small>
 
-XII.- EL TRABAJO EN FAVOR DE LA COMUNIDAD.
+XII.- EL TRABAJO EN FAVOR DE LA COMUNIDAD;
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+
+EN EL ESTADO DE CHIHUAHUA NO PODRA ESTABLECERSE LA PENA DE MUERTE.
 
 ### CAPITULO II. PRISION
 
@@ -2316,3 +2320,9 @@ QUINTO.- LAS DISPOSICIONES APLICABLES A LA LIBERTAD PROVISIONAL BAJO CAUCION REG
 SEXTO.- LA LEY QUE REGULE LA RESPONSABILIDAD A QUE SE REFIERE (SIC) LOS ARTICULOS 159 BIS Y 388 DEL PRESENTE DECRETO DEBERA EXPEDIRSE EN UN TERMINO DE SESENTA DIAS NATURALES.
 
 SEPTIMO.- EN LA MEDIDA EN QUE ENTREN EN VIGOR LOS NUEVOS PRECEPTOS LEGALES, QUEDARAN DEROGADOS LOS QUE SE LES OPONGAN.
+
+P.O. 30 DE NOVIEMBRE DE 1994.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
