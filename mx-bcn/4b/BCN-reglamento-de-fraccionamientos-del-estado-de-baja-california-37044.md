@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-fraccionamientos-del-estado-de-baja-california-37
 country: "mx"
 rank: "reglamento"
 publication_date: "1971-04-10"
-last_updated: "1971-04-10"
+last_updated: "1978-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE FRACCIONAMIENTOS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1978.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el sábado 10 de abril de 1971.
 
@@ -421,7 +421,7 @@ Calles principales. 20.00 M.
 
 Calles secundarias. 15.00 M.
 
-Calles de un solo sentido. 12.00 M.
+Calles con un solo sentido. 12.00 M.
 
 Calles privadas con retorno. 12.00 M.
 
@@ -619,9 +619,11 @@ Alineamiento de Construcción de casas 3.00 M.
 
 En zona comercial se podrá construir en el límite de propiedad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 1978)</small>
+
 ###### ARTICULO 35.
 
-De los fraccionamientos Residenciales para promoción de construcción de viviendas de Interés Social.
+De los Fraccionamientos Residenciales para promoción de construcción de viviendas de Interés Social.
 
 Se consideran fraccionamientos Residenciales para promoción de construcción de vivienda de Interés Social, los que por exigencia del Plan Regulador, deben construirse con las obras necesarias, que exigen como mínimo las Instituciones Oficiales o privadas que atienden este tipo de promoción.
 
@@ -702,6 +704,14 @@ En zona comercial se podrá construir en el límite de propiedad.
 En zona comercial se podrá construir en el límite de propiedad. (sic)
 
 En zonas de edificios multifamiliares se exige dejar un estacionamiento de automóvil por cada departamento.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1978)</small>
+
+Cuando por exigencia de la ubicación del predio por fraccionar o de los planes de desarrollo y financiamiento aprobados por los organismos oficiales encargados de la promoción de construcción de viviendas de interés social, sea necesario un frente a la calle o una superficie menor que los mínimos que han quedado establecidos, estos podrán disminuirse, pero en ningún caso serán menores de 7.00 metros lineales el frente ni de 140.00 metros cuadrados la superficie.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1978)</small>
+
+El alineamiento de las construcciones en lotes que sean aprobados con un frente menor de 8.00 metros, será de 6.00 metros, dejando permanentemente esa área del lote libre de construcciones, a fin de permitir el almacenamiento de vehículos en el interior de los predios.
 
 ###### ARTICULO 36.
 
@@ -1379,19 +1389,31 @@ De la ejecución de las obras por parte del Gobierno del Estado.
 
 Si el fraccionador no ejecuta las obras de urbanización en el fraccionamiento o en las zonas autorizadas dentro del plazo que al efecto se estipule, el Gobierno del Estado las llevará a cabo con cargo a la garantía que se le haya exigido al fraccionador.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1978)</small>
+
 ###### ARTICULO 119.
 
 De las relotificaciones.
 
-Cuando no se alteren las condiciones básicas del fraccionamiento autorizado y siempre que se trate de manzanas completas, se podrán autorizar relotificaciones en ellos, siempre y cuando se comprometan a lo siguiente:
+Compete a la Secretaría de Asentamientos Humanos y Obras Públicas del Estado la planeación y aprobación de las modificaciones a los lotes de manzanas de Fraccionamiento autorizados, siempre y cuando:
 
-a.- Que todos y cada uno de los nuevos lotes queden con los servicios y obras de urbanización y que no tengan servicios mancomunados.
+a).- No se altere la localización de vías públicas.
 
-b.- Que no se hayan hecho operaciones de compra-venta en la manzana o manzanas que pretendan relotificar.
+b).- No se altere la forma de las manzanas disminuyendo el área de vías públicas.
 
-c.- Que todos los nuevos lotes conserven sus servidumbres de paso y que no afecten manzana o manzanas contiguas.
+c).- No se modifique el uso de la tierra en áreas de uso común.
 
-d.- Salvo que se altere la localización de las calles o la superficie de las mismas se les considerará como nuevo estudio, en otra forma solo se presentarán los planos de la nueva lotificación la que una vez aprobada se notificará a las dependencias que se han señalado anteriormente, tales como Catastro, Registro Público, Comisiones, Notarías Públicas y otros.
+d).- Todos y cada uno de los nuevos lotes queden con los servicios urbanos en forma individual.
+
+e).- El fraccionador no haya trasmitido la propiedad de los lotes que se pretenda modificar.
+
+f).- Todos los nuevos lotes cuenten con accesos libres a las vías públicas.
+
+Las servidumbres de paso o estacionamientos que en su caso se establezcan, serán entregados en copropiedad para su conservación a los compradores de los lotes que beneficien.
+
+De requerirse la apertura de nuevas calles, la superficie destinada a ese fin será donada a favor del Gobierno del Estado.
+
+Una vez aprobada la nueva lotificación, se notificará a la Secretaría de Finanzas, Dirección de Catastro, Dirección del Registro Público de la Propiedad y de Comercio, Comisiones Estatales de Servicios Públicos y a las Notarías Públicas.
 
 ### CAPITULO VIII. DE LAS RESCISIONES
 
@@ -1654,3 +1676,11 @@ EL DIRECTOR GENERAL DE OBRAS Y SERVICIOS PUBLICOS DEL ESTADO.
 ING. MARIO AMAYA BRONDO.
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE JULIO DE 1978.
+
+...
+
+TERCERO.- Estas reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
