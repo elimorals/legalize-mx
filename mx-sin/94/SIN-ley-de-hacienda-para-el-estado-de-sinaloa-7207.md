@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1987-07-27"
+last_updated: "1987-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1987.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -303,7 +303,9 @@ ART. 45.- La condonación, sin exceder los límites que establece la Fracción X
 
 La condonación que autoriza la Fracción XXV del artículo 43, de la propia Constitución, ya sea de parte de un adeudo o de la totalidad del mismo, se decretará siempre que se demuestre que de efectuarse el cobro, el causante quedará en notario (sic) estado de insolvencia, o cuando por causa de fuerza mayor o de calamidad pública ocurrida en el Estado o en alguna de sus regiones, los causantes de determinados impuestos de la zona afectada, hayan sufrido perjuicios que afecten seriamente su situación económica, a juicio del Congreso del Estado.
 
-ART. 46.- Además de los casos previstos en el Artículo anterior, tratándose de multas impuestas por resolución definitiva, por infracciones a las leyes administrativas o a las fiscales del Estado, se faculta al Gobernador del Estado para que por conducto de la Secretaría de Finanzas, las condone totalmente, siempre que mediante pruebas supervenientes se demuestre que no se cometió la infracción o que la persona sancionada no fue responsable de esa infracción. El interesado podrá solicitar la condonación dentro de los dos años siguientes a la fecha en que la resolución que impuso la multa causó estado.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1987)</small>
+
+ART. 46.- Las autoridades fiscales podrán cancelar o reducir las multas impuests (sic) por resolución definitiva, para lo cual apreciarán discrecionalmente las circunstancias y causas que motivaron la imposición de la sanción.
 
 ART. 47.- Las condonaciones de que tratan los Artículos 45 y 46 implicará que los gastos y honorarios de ejecución queden sin efecto.
 
@@ -1735,7 +1737,7 @@ ART. 162.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL
 
 ART. 163.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
-ART. 164.- Los pagaderos de sueldos y salarios de los empleados públicos y trabajadores al servicio de entidades públicas, tienen las obligaciones que establecen el Artículo 162 y les es aplicable lo preceptuado en el Artículo anterior.
+ART. 164.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
 ART. 165.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
@@ -2787,7 +2789,7 @@ VI.- Las cédulas hipotecarias pagarán el 50% de las cuotas de la fracción II,
 
 VII.- La inscripción de las demandas a que se refiere el Artículo 67 del Reglamento del Registro Público de la Propiedad se pagará el 35% de las cuotas de la fracción II;
 
-VIII.- Las cancelaciones en los casos a que se refieren las fracciones IV y VI, pagarán el 35% de las cuotas que señala la fracción II;
+VIII.- (DEROGADA, P.O. 2 DE NOVIEMBRE DE 1987)
 
 IX.- Los créditos hipotecarios y refaccionarios, así como los créditos de habilitación o avío, causarán sobre el importe de la operación el 0.25%;
 
@@ -2870,6 +2872,10 @@ c).- Por los informes que se soliciten para asuntos penales o para juicios de am
 d).- En los casos de las inscripciones preventivas a que se refiere el Art. 2899 del Código Civil.
 
 e).- Cuando se trate de reinscripciones relativas a bienes inmuebles y derechos reales, si la misma se efectúa en una nueva oficina del Registro Público.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1987)</small>
+
+f).- La cancelación del registro de gravámenes sobre créditos hipotecarios, refaccionarios o de habilitación o avío.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
 
@@ -3573,111 +3579,101 @@ Mientras se expide el Código Sanitario del Estado de Sinaloa, la inspección, v
 
 ### CAPITULO XIII. Carretera Costera Plan Mar de Cortez (sic)
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1985)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1987)</small>
 
-ART. 334 Bis.- El uso de la Carretera Costera Plan Mar de Cortez (sic), mediante el tránsito de vehículos, estará sujeto a las cuotas que a continuación se establecen:
+ART. 334 Bis.- Las cuotas, derechos y refrendos, así como sus correspondientes exenciones, relativas al uso o aprovechamiento de la carretera costera Plan Mar de Cortés, se sujetarán a lo dispuesto en este capítulo.
 
-I.- Automóviles, de hasta diez pasajeros, camiones sencillos de hasta una tonelada tipos pick-up y panel y motocicletas:
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1987)</small>
 
-a).- En el tramo comprendido entre Las Brisas y Alhuey o viceversa, la cantidad de: $ 100.00.
+ART. 334 Bis A.- El uso de la carretera costera Plan Mar de Cortés, mediante el tráfico de vehículos en el tramo comprendido entre el poblado Las Brisas y el entronque con la carretera a El dorado o viceversa, estará sujeto a las siguientes cuotas:
 
-b).- En el tramo comprendido entre Alhuey y La Reforma o viceversa, la cantidad de $ 300.00.
+Clase de Vehículo Tramo Completo Medio Tramo
 
-c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantidad de $ 250.00.
+I.- Motocicletas $ 1,000.00 $ 500.00
 
-d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 100.00.
+II.- Automóviles y camionetas tipo pick-up y panel, de hasta10 pasajeros:
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 1986)</small>
+a).- Sin remolque 2,000.00 1,000.00
 
-En el tramo comprendido entre La Curva y la Carretera a Eldorado o viceversa, la cantidad de $ 100.00.
+b.-) Con remolque 3,000.00 1,500.00
 
-> <small>(F. DE E., P.O. 19 DE JUNIO DE 1985)</small>
+III.- Autobuses de
 
-II.- Automóviles de hasta diez pasajeros con remolque y camiones sencillos de hasta una tonelada tipo pick-up y panel con remolque:
+pasajeros 3,000.00 1,500.00
 
-a).- En el tramo comprendido entre Las Brisas y Alhuey o viceversa, la cantidad de $ 150.00.
+IV.- Camiones de
 
-b).- En el tramo comprendido entre Alhuey y La Reforma o viceversa, la cantidad de: $ 400.00.
+carga de 2-Ejes 4,000.00 2,000.00
 
-c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantidad de $ 300.00.
+V.- Camiones de
 
-d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 150.00.
+carga o tractores
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 1986)</small>
+con semiremolque
 
-En el tramo comprendido entre La curva y la Carretera a Eldorado o Viceversa. La cantidad de $ 150.00.
+de 3 ejes 4,500.00 2,200.00
 
-III.- Omnibuses:
+VI.- Camiones de
 
-a).- En el tramo comprendido entre Las Brisas Alhuey o viceversa, la cantidad de $ 150.00.
+carga o tractores
 
-b).- En el tramo comprendido entre Alhuey y La Reforma o viceversa, la cantidad de $ 400.00.
+con remolque de
 
-c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantidad de $ 300.00.
+4 ejes 5,400.00 2,700.00
 
-d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 150.00.
+VII.- Camiones de
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 1986)</small>
+carga o tractores
 
-En el tramo comprendido entre La Curva y La Carretera a Eldorado o viceversa. La cantidad de $ 150.00.
+con remolque de
 
-IV.- Camiones de carga de dos ejes:
+5 ejes $ 6,300.00 3,000.00
 
-a).- En el tramo comprendido entre Las Brisas y Alhuey o viceversa, la cantidad de $ 150.00.
+En tratándose de camiones de carga o tractores con remolque, de más de 5 ejes, la cuota a que se refiere la fracción VII se incrementará en un 20% por cada eje excedente.
 
-b).- En el tramo comprendido entre Alhuey y La Reforma o viceversa, la cantidad de $ 500.00.
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1987)</small>
 
-c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantidad de $ 350.00.
+ART. 334 Bis B.- Estarán excentos (sic) del pago de cuotas los vehículos militares, policiales y de auxilio turístico, así como ambulancias y bomberos, siempre que por sus características o emblemas se identifiquen como tales.
 
-d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 200.00.
+Tampoco pagarán estas cuotas los vehículos en que transite el Presidente y Senadores de la República, Gobernador del Estado, Diputados Federales, Diputados Locales y Presidentes Municipales del Estado de Sinaloa.
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 1986)</small>
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1987)</small>
 
-En el tramo comprendido entre La Curva y La Carretera a Eldorado o viceversa. La cantidad de $ 200.00.
+ART. 334 Bis C.- Por el otorgamiento de autorización para la construcción de obras e instalaciones marginales que se realicen dentro del derecho de vía de la carretera costera Plan Mar de Cortés, o su refrendo anual, se pagarán los siguientes derechos:
 
-V.- Camiones de carga o tractores con semiremolque (sic) de tres ejes:
+Por la autorización Por el
 
-a).- En el tramo comprendido entre Las Brisas y Alhuey o viceversa, la cantidad de $ 200.00.
+Inicial Refrendo
 
-b).- En el tramo comprendido entre Alhuey y La Reforma o viceversa, la cantidad de $ 600.00.
+Anual
 
-c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantidad de $ 400.00.
+I.- Establecimientos
 
-d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 200.00.
+con venta de combustibles
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 1986)</small>
+y lubricantes $ 60,000.00 $ 30,000.00
 
-En el tramo comprendido entre La Curva y La Carretera a Eldorado o viceversa. La cantidad de $ 200.00.
+II.- Restaurante y
 
-VI.- Camiones de carga o tractores con remolque de cuatro ejes:
+similares 40,000.00 20,000.00
 
-a).- En el tramo comprendido entre Las Brisas y Alhuey o viceversa, la cantidad de $ 200.00.
+III.- Taller mecánico y
 
-b).- En el tramo comprendido entre Alhuey y La Reforma o viceversa, la cantidad de $ 650.00.
+eléctrico 20,000.00 15,000.00
 
-c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantidad de $ 450.00.
+IV.- Otros 15,000.00 10,000.00
 
-d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 250.00.
+La autorización será expedida por el organismo que tenga a su cargo la administración de la mencionada carretera, previa presentación de la solicitud correspondiente.
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 1986)</small>
+El pago del derecho por la autorización inicial se hará previamente a su otorgamiento. El refrendo se pagará durante el mes de Junio de cada año.
 
-En el tramo comprendido entre La Curva y la Carretera a Eldorado o viceversa, la cantidad de $ 250.00.
+Estos derechos se pagarán en las oficinas que al efecto señale la Secretaría de Hacienda y Tesorería (sic).
 
-VII.- Camiones de carga o tractores con remolque de cinco ejes:
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1987)</small>
 
-a).- En el tramo comprendido entre Las Brisas y Alhuey o viceversa, la cantidad de $ 250.00.
+ART. 334 Bis D.- Los ingresos que se recauden por concepto de las cuotas y los derechos que se establecen en este Capítulo, se destinarán al organismos que tenga a su cargo la administración de la referida carretera, para cubrir los gastos de operación, conservación y mantenimiento de la misma, hasta por el monto que señale el presupuesto de egresos que se hubiere autorizado para tal efecto.
 
-b).- En el tramo comprendido entre Alhuey y La Reforma o viceversa, la cantidad de $ 750.00.
-
-c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantidad de $ 550.00
-
-d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 250.00.
-
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 1986)</small>
-
-En el tramo comprendido entre La Curva y la Carretera a Eldorado o viceversa, la cantidad de $ 250.00.
-
-Por cada eje excedente, la cuota se incrementará en un 10%.
+La parte de los ingresos que exceda el límite señalado en el párrafo anterior, no tendrá fin específico.
 
 ### CAPITULO UNICO
 
@@ -5268,3 +5264,9 @@ P.O. 27 DE JULIO DE 1987.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 2 DE NOVIEMBRE DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
