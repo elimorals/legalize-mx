@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-la-comision-para-el-desarrollo-agropecuario-18036"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-18"
-last_updated: "1990-03-18"
+last_updated: "1996-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA LA COMISION PARA EL DESARROLLO AGROPECUARIO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 18 de marzo de 1990.
 
@@ -41,61 +41,121 @@ COMISION PARA EL DESARROLLO AGROPECUARIO DEL ESTADO DE AGUASCALIENTES
 
 ### CAPITULO PRIMERO. De la Naturaleza de la Comisión
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1996)</small>
+
 ###### ARTICULO 1o.
 
-La Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes, es un organismo público descentralizado por servicio, con personalidad jurídica y patrimonio propio.
+El presente Decreto es de orden público e interés social y tiene por objeto establecer las atribuciones, funciones y órganos de la Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes, así como las relaciones laborales con sus trabajadores.
+
+La Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes, es un organismo público descentralizado, con personalidad jurídica, patrimonio propio y tendrá su domicilio legal y ámbito de competencia en el Estado de Aguascalientes, de conformidad con el presente decreto, la Ley de Ganadería del Estado, el Reglamento Interno de la Comisión para el Desarrollo Agropecuario del Estado y demás disposiciones legales aplicables.
+
+Para los efectos del presente decreto, deberá entenderse por:
+
+COMISION.- La Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes.
 
 ### CAPITULO SEGUNDO. De las Atribuciones y Funciones
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 1996)</small>
+
 ###### ARTICULO 2o.
 
-La Comisión para el Desarrollo Agropecuario de Aguascalientes, tiene por objeto brindar asesoría y apoyo a los productores agropecuarios de la Entidad, con servicios de capacitación, crédito, asistencia técnica, ejecución de obras y la realización de programas especiales que contribuyan al incremento de la producción y productividad y al mejoramiento del nivel rural, en coordinación con las dependencias federales, estatales y municipales.
+La Comisión, tendrá por objeto brindar asesoría y apoyo a los productores agropecuarios y forestales de la Entidad, para lo cual fomentará en todo momento su organización, capacitación, crédito, asistencia técnica, estadística e información, investigación, ejecución de obras, la realización de programas especiales que contribuyan al incremento de la producción y productividad, el desarrollo de esquemas de comercialización e impulso a la industrialización agropecuaria.
 
-Para cumplir con el objetivo señalado tendrá las siguientes funciones:
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1996)</small>
 
-I.- Formular y ejecutar programas y proyectos de desarrollo agropecuario, conforme a la normatividad señalada por el Ejecutivo del Estado;
+Para el logro de sus objetivos, la comisión contará con las siguientes facultades:
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
+
+I.- Formular y ejecutar programas y proyectos de desarrollo agropecuario y forestal, conforme a la normatividad señalada por el Plan Estatal de Desarrollo y las directrices que establezca el Consejo de Administración;
 
 II.- Coordinarse en (sic) las autoridades federales, estatales y municipales y con los productores en todo lo relacionado con las actividades agropecuarias en el Estado;
 
-III.- Difundir técnicas y procedimientos eficaces que permitan el mejoramiento de la producción y la productividad agrícola, ganadera y forestal;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
 
-IV.- Apoyar las campañas permanentes de prevención, manejo, control y combate de plagas y enfermedades que atacan los cultivos y especies ganaderas y forestales;
+III.- Difundir las técnicas y procedimientos, así como los avances científicos, que coadyuven a que los sectores ganadero, agrícola y forestal en la Entidad puedan desenvolverse en un marco de mayor eficiencia y eficacia;
 
-V.- Operar y administrar, cuando así se requiera, ya sea por sí o conjuntamente con productores o empresarios relacionados con estas actividades agroindustriales, centros de acopio, predios agrícolas, viveros y demás unidades productivas que conlleven al desarrollo agropecuario del Estado;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
 
-VI.- Operar de la misma forma que en el inciso V, rastros frigoríficos y las instalaciones zootécnicas necesarias para el desarrollo e impulso de la ganadería en el Estado, incluyendo la producción de leche y carne de ganados: bovinos; porcinos; ovina y caprina, y las actividades relacionadas con la cunicultura, avicultura y apicultura;
+IV.- Apoyar y coordinar las campañas permanentes de prevención, manejo, control y combate de plagas y enfermedades que atacan a los cultivos y especies ganaderas y forestales;
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
+
+V.- Manejar y administrar, cuando así se le solicite, ya sea por sí o conjuntamente con productores o empresarios relacionados con estas actividades de industrialización agropecuaria, centros de acopio, predios agrícolas, viveros y demás unidades productivas que conlleven al desarrollo agropecuario del Estado;
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
+
+VI.- Manejar de la misma forma que en la fracción V, rastros frigoríficos y las instalaciones zootécnicas necesarias para el desarrollo e impulso de la ganadería en el Estado, incluyendo la producción de leche y carne de ganado: bovino, porcino, ovino y caprino, y las actividades relacionadas con la cunicultura, avicultura y apicultura;
 
 VII.- Operar la maquinaria agrícola y pesada que se utilice en los programas de apoyo a los productores así como intensificar la mecanización del campo en general;
 
-VIII.- Elaborar estudios técnicos y ejecutar obras de apoyo a la producción agropecuaria y al proceso de agroindustrialización y al proceso de conservación de suelos y agua;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
 
-IX.- Capacitar y formar sujetos de crédito, apoyándolos en su caso con financiamiento para la producción, distribución, industrialización y comercialización de productos agropecuarios;
+VIII.- Elaborar estudios técnicos y ejecutar obras de apoyo a la producción agropecuaria, al proceso de comercialización de industrialización agropecuaria y de conservación de suelos y agua;
 
-X.- Formular y llevar a cabo el programa de crédito conjuntamente con productores agropecuarios del Estado, dirigido al incremento en la producción agropecuaria de acuerdo con la política dictada por el ejecutivo local;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
 
-XI.- Gestionar ante las sociedades nacionales de crédito y organizaciones auxiliares los financiamientos necesarios, así como avales para el desarrollo de los productores para que éstos realicen sus actividades en mejores condiciones;
+IX.- Apoyar a productores agropecuarios sujetos de crédito, con proyectos viables en la obtención de financiamiento para la producción, distribución, industrialización y comercialización de productos agropecuarios, ante las instituciones crediticias y organizaciones auxiliares, así como gestionar avales para el desarrollo de los productores y que éstos realicen sus actividades en mejores condiciones.
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
+
+X.- Formular y ejecutar programas de financiamiento en apoyo a productores agropecuarios y forestales del Estado, dirigido al incremento en la producción agropecuaria de acuerdo con la política del Plan Estatal de Desarrollo y las directrices que juzgue convenientes el Consejo de Administración;
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
+
+XI.- Formular y desarrollar programas de capacitación dirigidos a los productores agropecuarios y forestales del Estado, con el fin de mejorar sus conocimientos técnicos y administrativos en el manejo de sus unidades de producción;
 
 XII.- Apoyar la constitución, organización y el debido funcionamiento de asociaciones, sociedades, grupos, uniones de ejidos, y otras modalidades de agrupaciones de productores agrícolas y ganaderos en el Estado, que les permita la defensa de sus intereses y su mejoramiento económico;
 
-XIII.- Celebrar convenios de cooperación o coordinación con dependencias y organismos del sector público y privado y con instituciones académicas y de investigación, nacionales e internacionales con el propósito de ampliar la disponibilidad de recursos técnicos y humanos para beneficio de los productores agrícolas y ganaderos y en general de la economía del Estado; y
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
 
-XIV.- Administrar los recursos en los términos que le señale su decreto constitutivo y los ordenamientos legales en vigor.
+XIII.- Apoyar los procesos de comercialización e industrialización de la producción agrícola, pecuaria y forestal del Estado encaminada a incrementar su valor agregado;
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
+
+XIV.- Celebrar convenios de cooperación y/o coordinación con dependencias y organismos del sector público y privado y con instituciones académicas y de investigación, con el propósito de ampliar la disponibilidad de recursos para beneficio de los productores agrícolas, ganaderos y forestales del Estado;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1996)</small>
+
+XV.- Desarrollar y ejecutar programas de investigación aplicada y transferencia de tecnología acordes a las condiciones del Estado, tendientes a incrementar los índices de producción y productividad, así como mejorar la sanidad de plantas y animales y la conservación de los recursos suelo y agua;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1996)</small>
+
+XVI.- Procesar y difundir la información estadística y geográfica referente a las actividades agrícolas, ganaderas y forestales del Estado; así como difundir todo tipo de información que impulse el desarrollo del Sector Agropecuario y forestal del Estado;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1996)</small>
+
+XVII.- Crear órganos auxiliares desconcentrados que fortalezcan el desarrollo de las actividades agrícolas, pecuarias y forestales del Estado;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1996)</small>
+
+XVIII.- Administrar los recursos en los términos que le señale su decreto constitutivo y los ordenamientos legales en vigor; y
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1996)</small>
+
+XIX.- Las demás que le fijen las Leyes y disposiciones aplicables.
 
 ### CAPITULO TERCERO. De la Organización
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1996)</small>
+
 ###### ARTICULO 3o.
 
-Los Organos de Dirección de la Comisión, en orden, serán los siguientes:
+Los Organos de Dirección de la Comisión en orden jerárquico, serán los siguientes:
 
 I.- Consejo de Administración;
 
-II.- La Dirección General, y
+II.- La Dirección General; y
 
-III.- El Comité Técnico Consultivo.
+III.- Consejo Consultivo.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1996)</small>
 
 ###### ARTICULO 4o.
 
-El Consejo de Administración, es la autoridad máxima de la Comisión, que se integrará por: un Presidente, que será el Gobernador del Estado; un Vicepresidente, que será el Secretario de Planeación y Desarrollo Estatal; cuatro vocales, que serán el Delegado Estatal de la Secretaría de Agricultura y Recursos Hidráulicos y tres productores agropecuarios; un Secretario y un Comisario, que serán designados por el Ejecutivo del Estado a propuesta, respectivamente, de los Secretarios de Planeación y Desarrollo Estatal y de la Contraloría General del Estado.
+El Consejo de Administración, es la máxima autoridad de la Comisión, ésta a su vez, se integrará por un Presidente, que será el Gobernador del Estado; un Vicepresidente que será el Coordinador General del Comité de Planeación para el Desarrollo del Estado; un Coordinador Ejecutivo que será el Director General de la Comisión para el Desarrollo Agropecuario del Estado; dos Vocales, que serán: el Delegado Estatal de la Secretaría de Agricultura, Ganadería y Desarrollo Rural, y el Secretario de Finanzas del Gobierno del Estado; así como de un Secretario y un Comisario, que serán designados por el Ejecutivo del Estado.
+
+El Consejo de Administración podrá contar con un Organo Auxiliar denominado Gabinete para el Desarrollo Agropecuario, cuyas funciones e integrantes serán designados por el propio Consejo.
 
 ###### ARTICULO 5o.
 
@@ -121,11 +181,15 @@ Todos los cargos dentro del Consejo de Administración serán honorarios.
 
 El director general del organismo, será nombrado por el Gobernador del Estado, y tendrá las facultades que le otorgue esta Ley, el reglamento interior y las demás disposiciones legales, contando con los auxiliares de tipo técnico y administrativo necesarios para la buena marcha del propio organismo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 1996)</small>
+
 ###### ARTICULO 8o.
 
-El Director General tendrá las atribuciones siguientes:
+El Director General de la Comisión, tendrá las atribuciones siguientes:
 
-I.- Representar legalmente a la Comisión con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas, actos de administración y de dominio con autorización para otorgar y suscribir títulos de crédito y celebrar toda clase de operaciones de crédito en los términos de la ley general de títulos y operaciones de crédito en vigor;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
+
+I.- Representar legalmente a la Comisión con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas, actos de administración y dominio con autorización para otorgar y suscribir títulos de crédito en los términos de la Ley General de Títulos y Operaciones de Crédito en vigor, y realizar toda clase de operaciones de crédito rindiendo cuentas al Consejo de Administración cuando éste así lo solicite;
 
 II.- Otorgar y revocar poderes generales y especiales; sustituir el mandato todo o en partes reservándose su ejercicio; enajenar o gravar los bienes que existen en el patrimonio de la Comisión, previo acuerdo del Consejo de Administración que autorizará concretamente la realización de éstos actos;
 
@@ -135,25 +199,55 @@ IV.- Someter a la aprobación del Consejo de Administración los estados financi
 
 V.- Formular y presentar al Consejo de Administración, para autorización dentro de los últimos noventa días de cada año, los planes y programas de trabajo de operación e inversiones para el siguiente ejercicio anual y su presupuesto de ingresos y egresos;
 
-VI.- Crear, con la aprobación del Consejo de Administración, Direcciones, Subdirecciones, Jefaturas de Programa y Jefaturas de Departamento y demás entes administrativos que se requieran para el buen funcionamiento de la Comisión;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
 
-VII.- Coordinar las funciones de todas las áreas de trabajo que integran la Comisión;
+VI.- Crear, con la aprobación del Consejo de Administración, Organos Desconcentrados, Direcciones, Subdirecciones, Jefaturas de Programa, Jefaturas de Departamento y demás entes administrativos que se requieran para el buen funcionamiento de la Comisión;
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
+
+VII.- Coordinar las funciones de todos los organismos y áreas de trabajo que integran la Comisión;
 
 VIII.- Designar y remover al personal de confianza, profesional, técnicos, administrativo y de campo, señalándoles sus atribuciones y remuneraciones que autorice el presupuesto, y
 
 IX.- Las demás que le señale el Consejo de Administración.
 
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1996)</small>
+
+X.- Las demás que le fijen las leyes y disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 1996)</small>
+
 ###### ARTICULO 9o.
 
-El Comité Técnico Consultivo será un organismo de auxilio a la dirección general y tendrá como objeto compaginar las políticas y programas de la comisión con los de la Federación y Municipios, estará formado por los titulares en el Estado de las dependencias federales y municipales del sector agropecuario, la Secretaría de Planeación y Desarrollo Estatal, así como por los representantes de los grupos organizados de productores más representativos de la Entidad. Este comité será presidido por el titular de la Secretaría de Planeación y Desarrollo Estatal y tendrá como secretarios al director general de la comisión y al delegado de la Secretaría de Agricultura y Recursos Hidráulicos en el Estado.
+El Consejo Consultivo será un organismo de auxilio a la Dirección General y tendrá como objeto proponer y apoyar las actividades de planeación, evaluación y seguimiento de los programas y proyectos, para obtener un alto índice de eficiencia y eficacia en el logro de los objetivos de la Comisión, en concordancia con las políticas y programas del Plan Estatal de Desarrollo y el Plan de Reactivación del Campo.
 
-El Comité Técnico tendrá además las siguientes funciones:
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1996)</small>
 
-I.- Coadyuvar con la Dirección General en la formulación, seguimiento y evaluación de los planes y programas de desarrollo agropecuario del Estado;
+El Consejo estará formado por el Director General de la Comisión; el Presidente de la Unión Ganadera Regional; el Presidente del Comité de Fomento y Protección Pecuaria del Estado; el Presidente del Colegio de Médicos Veterinarios Zootecnistas; el Presidente del Colegio de Ingenieros Agrónomos; el Presidente del Consejo Estatal Agropecuario; el Presidente del Comité de Fomento y Protección Agrícola; el Presidente de la Federación Estatal de Propietarios Rurales; el Decano del Centro Agropecuario de la Universidad Autónoma de Aguascalientes; el Rector de la Universidad Tecnológica de Aguascalientes; el Director del Instituto Tecnológico Agropecuario No. 20; el Representante Estatal del Consejo Nacional de la Fauna; el Presidente del Colegio de Biólogos.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1996)</small>
+
+El Coordinador Estatal de la Dirección General de Escuelas Tecnológicas Agropecuarias; así como los representantes de las organizaciones relacionadas con la actividad que juzgue conveniente el Consejo de Administración de la Comisión. Este Consejo será presidido por el Director General de la Comisión, tendrá un secretario que será designado por el mismo.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1996)</small>
+
+Para el logro de sus objetivos, el Consejo Consultivo contará con las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 1996)</small>
+
+I.- Coadyuvar con la Dirección General en la formulación, seguimiento y evaluación de los planes y programas de Desarrollo Agropecuario y Forestal del Estado;
 
 II.- Proponer las adecuaciones pertinentes a los planes y programas de la Comisión a fin de hacerlos compatibles con los programas, normas y políticas de los gobiernos federal y municipal, y
 
 III.- Adecuar las propuestas de los productores y dictaminar acerca de la viabilidad técnica de los mismos.
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1996)</small>
+
+IV.- Las demás que le fijen las leyes y disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1996)</small>
+
+Los integrantes del Consejo Consultivo prestarán sus servicios sin retribución alguna.
 
 ### CAPITULO CUARTO. Del Patrimonio y Recursos
 
@@ -175,13 +269,17 @@ El organismo gozará, respecto a su patrimonio y a los actos y contratos que cel
 
 públicas.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1996)</small>
+
 ###### ARTICULO 12.
 
-Las relaciones de trabajo entre la Comisión y su personal se regirán por el Estatuto de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalinetes y sus municipios.
+Las relaciones de trabajo entre la Comisión y su personal se regirán por el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado, sus Municipios y Organismos Públicos Descentralizados y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1996)</small>
 
 ###### ARTICULO 13.
 
-Será personal de confianza de la Comisión: el Director General, Directores, Subdirectores, Jefes de Programa, Jefes de Departamento, y aquéllos que realicen funciones de dirección, vigilancia y fiscalización.
+Será personal de confianza de la Comisión: el Director General, el Subdirector General, Directores, Subdirectores, Jefes de Programas, Jefes de Departamento y aquellos que realicen funciones de dirección, vigilancia y fiscalización de conformidad con lo dispuesto por el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado, sus Municipios y Organismos Descentralizados y demás disposiciones legales aplicables.
 
 ###### ARTICULO 14.
 
@@ -230,3 +328,9 @@ Miguel Angel Barberena Vega.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Guillermo G. G. Ballesteros Guerra.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE ENERO DE 1996.
+
+UNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
