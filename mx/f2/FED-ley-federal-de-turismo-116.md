@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-turismo-116"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-31"
-last_updated: "1999-05-19"
+last_updated: "2000-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-12-28"
 
 LEY FEDERAL DE TURISMO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1992.
 
@@ -33,7 +33,7 @@ Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente
 
 D E C R E T O
 
-"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
+"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA :
 
 LEY FEDERAL DE TURISMO
 
@@ -65,7 +65,11 @@ VII. Fomentar la inversión en esta materia, de capitales nacionales y extranjer
 
 VIII. Propiciar los mecanismos para la participación del sector privado y social en el cumplimiento de los objetivos de esta Ley; y
 
-IX. Promover el turismo social, así como fortalecer el patrimonio histórico y cultural de cada región del país.
+IX. Promover el turismo social, así como fortalecer el patrimonio histórico y cultural de cada región del país;
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2000)</small>
+
+X. Garantizar a las personas con discapacidad la igualdad de oportunidades dentro de los programas de desarrollo del sector turismo.
 
 ###### ARTICULO 3o.
 
@@ -119,21 +123,21 @@ La Secretaría elaborará el programa sectorial turístico, que se sujetará a l
 
 ### CAPITULO II. TURISMO SOCIAL
 
-###### ARTICULO 9o.
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2000)</small>
 
-El turismo social comprende todos aquellos instrumentos y medios, a través de los cuales se otorgan facilidades para que las personas de recursos limitados viajen con fines recreativos, en condiciones adecuadas de economía, seguridad y comodidad.
+###### ARTICULO 9.
 
-Las dependencias y las entidades de la administración pública federal, coordinarán y promoverán sus esfuerzos entre ellas y con las de los gobiernos estatales y municipales, y concertarán e inducirán la acción social y privada, para el desarrollo ordenado del turismo social.
-
-La Secretaría, la Secretaría de Desarrollo Social, el Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, la Comisión Nacional del Deporte y las demás entidades que tengan objetivos similares, elaborarán y ejecutarán programas tendientes a fomentar el turismo nacional, incentivar la inversión y facilitar la recreación de los miembros del sector social.
+El turismo social comprende todos aquellos instrumentos y medios, a través de los cuales se otorgan facilidades para que las personas de recursos limitados, y con discapacidad viajen con fines recreativos, deportivos y/o culturales en condiciones adecuadas de economía, accesibilidad, seguridad y comodidad.
 
 ###### ARTICULO 10.
 
 La Secretaría, con el apoyo y en coordinación con las dependencias y entidades competentes, promoverá la constitución y operación de empresas de miembros del sector social, que tengan por objeto la prestación de servicios turísticos accesibles a la población. Asimismo promoverá la conjunción de esfuerzos para mejorar la atención y desarrollo de aquellos lugares en que pueda ser susceptible elevar su nivel económico de vida, mediante la industria turística.
 
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 11.
 
-La Secretaría, con el concurso de las dependencias y entidades mencionadas en el artículo 9o, promoverán la suscripción de acuerdos con prestadores de servicios turísticos por medio de los cuales se determinen precios y condiciones adecuados, así como paquetes que hagan posible el cumplimiento de los objetivos de este capítulo, en beneficio de los grupos obreros, campesinos, infantiles, juveniles, burocráticos, magisteriales, de estudiantes, de trabajadores no asalariados y otros similares.
+La Secretaría, con el concurso de las dependencias y entidades mencionadas en el artículo 9o., promoverán la suscripción de acuerdos con prestadores de servicios turísticos por medio de los cuales se determinen precios y condiciones adecuados, así como paquetes que hagan posible el cumplimiento de los objetivos de este capítulo, en beneficio de grupos obreros, campesinos, infantiles, juveniles, burocráticos, magisteriales, de personas con discapacidad, de estudiantes, de trabajadores no asalariados y otros similares.
 
 ###### ARTICULO 12.
 
@@ -155,9 +159,11 @@ Podrán ser consideradas como zonas de desarrollo turístico prioritario aquéll
 
 La Secretaría fomentará la creación de empresas turísticas que realicen inversiones en las zonas de desarrollo turístico prioritario.
 
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 16.
 
-La Secretaría, en coordinación con las dependencias y entidades de la administración pública federal que corresponda, así como con gobiernos de las entidades federativas y de los municipios y con los sectores social y privado, impulsará la dotación de la infraestructura que requieran las zonas de desarrollo turístico prioritario.
+La Secretaría, en coordinación con las dependencias y entidades de la administración pública federal que corresponda, así como con gobiernos de las entidades federativas y de los municipios y con los sectores social y privado, impulsará la creación o adecuación de la infraestructura que requieran las zonas de desarrollo turístico prioritario, considerando también las necesidades de las personas con discapacidad.
 
 ## TITULO TERCERO. DE LA DESCENTRALIZACION DE FUNCIONES
 
@@ -201,7 +207,9 @@ DE LA PROMOCIÓN TURÍSTICA.
 
 Para efectos de esta ley, se entiende como promoción turística, la planeación y programación de la publicidad y difusión, por cualquier medio, de la información especializada, actividades, destinos, atractivos y servicios que el país ofrece en materia de turismo, dentro del marco de esta Ley, de la Ley de Planeación y de las disposiciones que al efecto determine el Ejecutivo Federal, así como las actividades de promoción derivadas de los convenios que se suscriban con los gobiernos de los Estados, de los municipios y del Distrito Federal, y con los particulares interesados en incrementar la afluencia turística a México.
 
-La política de promoción turística atenderá en todo momento al desarrollo integral del país.
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2000)</small>
+
+La política de promoción turística atenderá en todo momento al desarrollo integral del país, considerando a las personas con discapacidad.
 
 > <small>(REFORMADO, D.O.F. 19 DE MAYO DE 1999)</small>
 
@@ -315,11 +323,15 @@ El Fondo Nacional de Fomento al Turismo tendrá las siguientes funciones:
 
 I. Elaborar estudios y proyectos que permitan identificar las áreas territoriales y de servicios susceptibles de ser explotadas en proyectos turísticos;
 
-II. Crear y consolidar centros turísticos conforme a los planes maestros de desarrollo, en los que habrán de identificarse los diseños urbanos y arquitectónicos de la zona, preservando el equilibrio ecológico y garantizando la comercialización de los servicios turísticos, en congruencia con el desarrollo económico y social de la región;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2000)</small>
+
+II. Crear y consolidar centros turísticos conforme a los planes maestros de desarrollo, en los que habrán de identificarse los diseños urbanos y arquitectónicos de la zona, preservando el equilibrio ecológico y garantizando la comercialización de los servicios turísticos, en congruencia con el desarrollo económico y social de la región, tomando en cuenta la igualdad a que se refiere la fracción X del artículo 2o. de esta Ley;
 
 III. Coordinar con las autoridades federales, estatales y municipales, las gestiones necesarias para obtener y simplificar las autorizaciones, permisos o concesiones que permitan el desarrollo de proyectos turísticos, así como la prestación de servicios;
 
-IV. Ejecutar obras de infraestructura y urbanización, y realizar edificaciones e instalaciones en centros de desarrollo turístico que permitan una oferta masiva de servicios turísticos;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2000)</small>
+
+IV. Ejecutar obras de infraestructura y urbanización, y realizar edificaciones e instalaciones en centros de desarrollo turístico que permitan una oferta masiva de servicios turísticos; para dicho fin el Fondo deberá tomar en cuenta en la ejecución de dichas obras las necesidades de las personas con discapacidad;
 
 V. Adquirir, fraccionar, vender, arrendar, administrar y, en general, realizar cualquier tipo de enajenación de bienes muebles e inmuebles que contribuya al fomento del turismo;
 
@@ -363,9 +375,11 @@ El Comité Técnico será presidido por el titular de la Secretaría. La institu
 
 ### CAPITULO IV. CAPACITACION TURISTICA
 
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 30.
 
-La Secretaría participará en la elaboración de programas de capacitación turística y promoverá, en coordinación con las dependencias y entidades de la administración pública federal, gobiernos de las entidades federativas, municipios y organismos públicos, sociales y privados, nacionales e internacionales, el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la actividad turística.
+La Secretaría participará en la elaboración de programas de capacitación turística y promoverá en coordinación con las dependencias y entidades de la administración pública federal, gobiernos de las entidades federativas, municipios y organismos públicos, sociales y privados, nacionales e internacionales, el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la actividad turística. En los citados programas se deberá contemplar la capacitación respecto a la atención de las personas con discapacidad.
 
 ###### ARTICULO 31.
 
@@ -379,7 +393,9 @@ La Secretaría, a través de su órgano desconcentrado denominado Centro de Estu
 
 Las relaciones entre los prestadores de servicios turísticos y el turista se regirán por lo que las partes convengan, observándose la presente Ley y la Ley Federal de Protección al Consumidor.
 
-En la prestación de los servicios turísticos no habrá discriminación por razones de raza, sexo, credo político o religioso, nacionalidad o condición social.
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2000)</small>
+
+En la prestación de los servicios turísticos no habrá discriminación por razones de raza, sexo, discapacidad, credo político o religioso, nacionalidad o condición social.
 
 ###### ARTICULO 33.
 
@@ -421,10 +437,6 @@ IV. Contar con los formatos foliados y de porte pagado para el sistema de quejas
 
 ### CAPITULO II. DEL REGISTRO NACIONAL DE TURISMO
 
-> <small>(ADICIONADO, D.O.F. 19 DE MAYO DE 1999)</small>
-
-ARTICULO 36 BIS.- La Secretaría, con la participación del Consejo de Promoción Turística de México, de las demás dependencias del gobierno federal, de los gobiernos estatal y municipal y del Distrito Federal, así como de los sectores social y privado, elaborará el Catálogo Nacional Turístico que contendrá una relación de los servicios y de los prestadores de servicios turísticos registrados ante la Secretaría, así como de los bienes y recursos naturales, organismos y facilidades que constituyan, o puedan constituir factores para el desarrollo turístico.
-
 ###### ARTICULO 36.
 
 Corresponde a la Secretaría la operación del Registro Nacional de Turismo, el que tiene por objeto la inscripción voluntaria de los prestadores de servicios turísticos.
@@ -442,6 +454,10 @@ IV. La clase de los servicios que se prestarán y la categoría conforme a la no
 V. La demás información que el prestador estime necesaria para fines de difusión.
 
 Este Registro Nacional podrá ser consultado por las demás dependencias y entidades de la administración pública federal, estatal o municipal.
+
+> <small>(ADICIONADO, D.O.F. 19 DE MAYO DE 1999)</small>
+
+ARTICULO 36 BIS.- La Secretaría, con la participación del Consejo de Promoción Turística de México, de las demás dependencias del gobierno federal, de los gobiernos estatal y municipal y del Distrito Federal, así como de los sectores social y privado, elaborará el Catálogo Nacional Turístico que contendrá una relación de los servicios y de los prestadores de servicios turísticos registrados ante la Secretaría, así como de los bienes y recursos naturales, organismos y facilidades que constituyan, o puedan constituir factores para el desarrollo turístico.
 
 ### CAPITULO III. PROTECCION AL TURISTA
 
@@ -608,3 +624,7 @@ CUARTO.- Dentro de los 90 días contados a partir de la constitución del Consej
 QUINTO.- Se derogan todas aquellas disposiciones que se opongan o transgredan al presente decreto.
 
 SEXTO.- Una vez constituido, el Consejo de Promoción Turística de México se hará cargo de la administración de los recursos destinados al desempeño de sus objetivos.
+
+D.O.F. 6 DE JUNIO DE 2000.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
