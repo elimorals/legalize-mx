@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2000-12-23"
+last_updated: "2000-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE DICIEMBRE DE 2000 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CODIGO ADMINISTRATIVO DEL ESTADO
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2000.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE DICIEMBRE DE 2000 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 23 DE DICIEMBRE DE 2000.]</small>
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
