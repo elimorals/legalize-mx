@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transporte-y-sus-vias-de-comunicacion-4771"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-29"
-last_updated: "2000-11-29"
+last_updated: "2001-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,793 +21,805 @@ state: "CHH"
 ---
 # LEY DE TRANSPORTE Y SUS VIAS DE COMUNICACION
 
-LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE CAMPECHE
+LEY DE TRANSPORTE Y SUS VIAS DE COMUNICACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2001.
 
-Ley publicada en la Segunda Sección del Número 1313 del Periódico Oficial del Estado de Campeche, el martes 1 de diciembre de 2020.
+Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de enero de 1994.
 
-DECRETO
+EL CIUDADANO CONTADOR PUBLICO FRANCISCO JAVIER BARRIO TERRAZAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
 
-La LXIII Legislatura del Congreso del Estado de Campeche decreta:
+QUE EL HONORABLE CONGRESO DEL ESTADO SE HA SERVIDO EXPEDIR EL SIGUIENTE
 
-Número 168
+D E C R E T O :
 
-ÚNICO.- Se expide la Ley que, Regula la Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil en el Estado de Campeche, para quedar como sigue:
+LA QUINCUAGESIMA SEPTIMA H. LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, REUNIDA EN SU SEPTIMO PERIODO EXTRAORDINARIO DE SESIONES,
 
-Ley que Regula la Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil en el Estado de Campeche.
+D E C R E T A:
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+LEY DE TRANSPORTE Y SUS VIAS DE COMUNICACION
 
-###### ARTÍCULO 1.
+### CAPITULO I. DISPOSICIONES GENERALES
 
-La presente Ley es de orden público e interés social y tiene por objeto uniformar principios, criterios y estrategias en la prestación de servicios y desarrollo de actividades de los Centros de Atención Infantil en el Estado de Campeche, adecuando las disposiciones que para tal efecto contempla la Ley General de Prestación de Servicio para la Atención, Cuidado y Desarrollo Integral Infantil, al ámbito local, así como establecer la participación de los sectores privado y social en materia de prestación de servicios de los Centros de Atención Infantil, garantizando el acceso de niñas y niños a dichos servicios en condiciones de igualdad, calidad, calidez, seguridad y protección adecuadas que promuevan el ejercicio pleno de sus derechos.
+###### ARTICULO 1.
 
-El Estado velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios. El Estado otorgará las facilidades a los particulares para que coadyuven en el cumplimiento de los derechos de la niñez.
+ESTA LEY ES DE ORDEN PUBLICO; TIENE POR OBJETO REGULAR LAS VIAS Y SERVICIOS LOCALES DE COMUNICACION DE CUALQUIER CLASE, LAS RUTAS DE TRANSPORTE URBANO Y SEMIURBANO DE PASAJEROS Y DE CARGA EN LAS POBLACIONES DEL ESTADO, ASI COMO ORGANIZAR Y CONTROLAR DICHO TRANSPORTE.
 
-###### ARTÍCULO 2.
+EL SERVICIO LO PRESTARA EL ESTADO DIRECTAMENTE O A TRAVES DE LOS ORGANOS O ENTIDADES QUE PARA TAL EFECTO CREE O POR CONDUCTO DE PARTICULARES, PERSONAS FISICAS O MORALES, MEDIANTE EL OTORGAMIENTO DE CONCESIONES O PERMISOS, PROCURANDO EL USO ADECUADO Y EL MEJOR APROVECHAMIENTO DE LAS VIAS DE COMUNICACION EN BENEFICIO DE LA SOCIEDAD.
 
-La aplicación de esta Ley corresponde al Estado y a los Municipios, por conducto de sus dependencias y entidades, en el ámbito de sus respectivas competencias de conformidad con la legislación expedida al efecto.
+###### ARTICULO 2.
 
-###### ARTÍCULO 3.
+SON VIAS DE COMUNICACION SUJETAS A ESTA LEY Y SUS REGLAMENTOS:
 
-Las dependencias, entidades y demás organismos de seguridad social del Estado o de los Municipios, que presten los servicios para la atención, cuidado y desarrollo integral infantil, además de cumplir con sus leyes específicas y régimen interno, las cuales tendrán preeminencia, deberán observar lo dispuesto en esta Ley. Los derechos laborales, colectivos o individuales, consagrados en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos para las hijas e hijos de trabajadores y trabajadoras en materia de guarderías y prestaciones sociales reconocidos por sus leyes reglamentarias en materia de seguridad social, tienen preeminencia en esta Ley y serán respetados en la misma.
+I.- CAMINOS, AVENIDAS, CALZADAS, CALLES, PASEOS Y CARRETERAS PAVIMENTADAS O REVESTIDAS CON TERRACERIA, PARA TRANSITO DE VEHICULOS DE CUALQUIER CLASE, CON LAS EXCEPCIONES SIGUIENTES:
 
-###### ARTÍCULO 4.
+A).- LOS CAMINOS CONSTRUIDOS EXCLUSIVAMENTE POR PARTICULARES DENTRO DE SUS PROPIEDADES QUE NO COMUNIQUEN ALGUN CENTRO DE POBLACION;
 
-Las disposiciones relativas a la prestación de servicios para la atención, cuidado y desarrollo integral infantil que se emitan por parte de los Municipios, en el ámbito de sus respectivas competencias, deberán ajustarse a la presente Ley.
+B).- LAS CARRETERAS QUE COMUNIQUEN AL ESTADO CON OTRA U OTRAS ENTIDADES FEDERATIVAS O CON EL EXTRANJERO; Y
 
-###### ARTÍCULO 5.
+C).- LAS CARRETERAS CONSTRUIDAS EN SU TOTALIDAD O EN SU MAYOR PARTE POR LA FEDERACION, SIEMPRE QUE ESTAS NO HAYAN PASADO A LA JURISDICCION DEL ESTADO;
 
-Los prestadores de servicios de los Centros de Atención Infantil, en cualquiera de sus modalidades y tipos en el Estado de Campeche, que no sean del ámbito de competencia federal, se sujetarán a las disposiciones de esta Ley y, en su caso, a las demás disposiciones legales y administrativas aplicables.
+II.- LOS PUENTES YA CONSTRUIDOS O QUE SE CONSTRUYAN EN LOS CAMINOS A QUE SE REFIERE LA FRACCION ANTERIOR.
 
-Para el caso de los centros de modalidad mixta, en los cuales exista participación federal, deberá sujetarse a lo establecido en los convenios que para dichos efectos se lleven a cabo.
+###### ARTICULO 3.
 
-###### ARTÍCULO 6.
+SON PARTE INTEGRANTE DE LAS VIAS DE COMUNICACION: LOS SERVICIOS AUXILIARES, OBRAS, CONSTRUCCIONES Y DEMAS ACCESORIOS, Y EL DERECHO DE VIA PARA EL ESTABLECIMIENTO Y MANTENIMIENTO DE LOS SERVICIOS Y OBRAS MENCIONADOS. EL EJECUTIVO FIJARA LA EXTENSION DE LOS TERRENOS NECESARIOS PARA TAL OBJETO.
 
-Para los efectos de esta Ley se entenderá por:
+###### ARTICULO 4.
 
-I.- Centros de Atención Infantil: Espacios, cualquiera que sea su denominación de modalidad pública estatal, privada o mixta, donde se prestan servicios para la atención, cuidado y desarrollo integral infantil en un marco de ejercicio pleno de los derechos de niñas y niños desde los cuarenta y tres días de nacido;
+SON AUTORIDADES EN MATERIA DE TRANSPORTE Y SUS VIAS DE COMUNICACION:
 
-II.- Consejo Estatal: El Consejo Estatal de los Centros de Atención Infantil;
+I.- EL GOBERNADOR DEL ESTADO;
 
-III.- Desarrollo Integral Infantil: Es el derecho que tienen niñas y niños a formarse física, mental, emocional y socialmente en condiciones de igualdad;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-IV.- Ley: Ley que Regula la Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil en el Estado de Campeche;
+II.- SECRETARIA GENERAL DE GOBIERNO;
 
-V.- Ley General: Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-VI.- Medidas precautorias o correctivas: Aquellas que con motivo de la prestación de los servicios de los Centros de Atención Infantil, emitan las autoridades competentes, de conformidad con la presente Ley, así como los diversos ordenamientos aplicables en materia de protección civil o salud. Esto con el objetivo de salvaguardar y proteger la vida y la integridad de niñas y niños;
+III.- LA DIRECCION DE TRANSITO Y TRANSPORTES;
 
-VII.- Medidas de seguridad: Aquellas que por la existencia de un riesgo inminente, deban tomar las autoridades de protección civil o las autoridades sanitarias, en apego a las disposiciones establecidas en la Ley de la materia, así como aquellas por causas de caso fortuito o fuerza mayor no previsibles que no permitan la imposición de medidas correctivas;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-VIII.- Modalidades: Son aquellas a las que se refiere el artículo 31 de esta Ley;
+IV.- LOS JEFES DE LOS DEPARTAMENTOS DE TRANSPORTE Y SUS INSPECTORES;
 
-IX.- Política Estatal: Política Estatal de Servicios de los Centros de Atención Infantil;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-X.- Prestadores de Servicios de los Centros de Atención Infantil: Aquellas personas físicas o morales, instituciones gubernamentales estatales o municipales, que cuenten con permiso, licencia o autorización, emitidas por las autoridades competentes, para instalar y operar uno o varios Centros de Atención Infantil en cualquier modalidad y tipo;
+V.- LOS PRESIDENTES MUNICIPALES, CON CARACTER DE AUXILIARES, EJERCERAN FUNCIONES EN LA MATERIA QUE RIGE ESTA LEY, EN LOS TERMINOS DE LA DELEGACION EXPRESA QUE LES HAGA LA SECRETARIA GENERAL DE GOBIERNO;
 
-XI.- Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del Funcionamiento: Conjunto de acciones para lograr una vigilancia efectiva del cumplimiento de la presente Ley y garantizar el mejoramiento progresivo y fortalecimiento de los servicios de los Centros de Atención Infantil;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-XII.- Programa Interno de Protección Civil: Es aquel que se circunscribe a inmuebles determinados con el fin de establecer las acciones preventivas y de auxilio destinadas a salvaguardar la integridad física de las personas que concurren a ellos, así como proteger tanto a los propios inmuebles como los bienes muebles que contengan;
+VI.- AUTORIDADES DE TRANSITO DEL ESTADO Y DE LOS MUNICIPIOS, CON CARACTER DE AUXILIARES Y DENTRO DEL AMBITO Y TERMINOS DE LA DELEGACION EXPRESA QUE LES HAGA LA GENERAL DE GOBIERNO.
 
-XIII.- Programa Interno de Vigilancia Sanitaria: Consiste en establecer una autoevaluación periódica y permanente del Centro de Atención Infantil, a través de un grupo conformado por personal del Centro, usuarios y usuarias, con el objetivo de verificar si se cumple con los ordenamientos en materia de salubridad.
+###### ARTICULO 5.
 
-XIV.- Registro Estatal: Registro Estatal de los Centros de Atención Infantil;
+ESTAS AUTORIDADES, DENTRO DEL AMBITO DE SUS COMPETENCIAS, EXPEDIRAN LOS REGLAMENTOS Y ESTABLECERAN LAS MEDIDAS PARA LA COORDINACION, FUNCIONAMIENTO Y CONTROL DE LOS SISTEMAS Y MEDIOS DE TRANSPORTE.
 
-XV.- Reglamento: Reglamento de la Ley que Regula la Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil en el Estado de Campeche;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-XVI.- Secretaría: Secretaría de Salud del Estado de Campeche;
+###### ARTICULO 6.
 
-XVII.- Secretaría de Educación: Secretaría de Educación del Estado de Campeche;
+LA SECRETARIA GENERAL DE GOBIERNO ES EL ORGANO COMPETENTE PARA RESOLVER, EN ULTIMA INSTANCIA, LAS CONTROVERSIAS ADMINISTRATIVAS QUE SE SUSCITEN SOBRE LA INTERPRETACION O CUMPLIMIENTO DE LA LEY, Y PARA DICTAR TODA CLASE DE ACUERDOS, CIRCULARES O INSTRUCCIONES RELACIONADOS CON LAS VIAS DE COMUNICACION, EL SERVICIO DE TRANSPORTE Y LOS CONEXOS A ESTOS.
 
-XVIII.- Servicios para atención, cuidado y desarrollo integral infantil: Medidas dirigidas a niñas y niños usuarios de los Centros de Atención Infantil, consistentes en la atención y cuidado para su desarrollo integral infantil.
+SUS FACULTADES LAS PODRA EJERCER DIRECTAMENTE O POR DELEGACION QUE REALICE EN LA DIRECCION DE TRANSITO Y TRANSPORTE, O EN SUS DEPARTAMENTOS DE TRANSPORTE Y DEMAS PERSONAL DE DICHA DEPENDENCIA.
 
-###### ARTÍCULO 7.
+###### ARTICULO 7.
 
-Son sujetos de los servicios de los Centros de Atención Infantil, las niñas y niños sin discriminación de ningún tipo, en los términos de lo dispuesto por el artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos.
+EL SERVICIO PUBLICO DE TRANSPORTE PUEDE SER FORANEO DE PASAJEROS, DE CARGA O MIXTO; URBANO O SEMI-URBANO COLECTIVO DE PASAJEROS O EN AUTOMOVILES DE ALQUILER; Y URBANO O SEMI-URBANO DE CARGA.
 
-El ingreso de niñas y niños a los servicios de los Centros de Atención Infantil se hará de conformidad con los requisitos previstos en las disposiciones normativas aplicables a cada caso, observando en todo momento los principios de inclusión y diversidad reconocidos en la Constitución Política de los Estados Unidos Mexicanos.
+PARA LOS EFECTOS DE ESTA LEY, SE CONSIDERA SERVICIO PUBLICO DE TRANSPORTE DE PASAJEROS Y MIXTO DE PASAJEROS Y COSAS, EL QUE SE LLEVA A CABO DE MANERA CONTINUA, UNIFORME, REGULAR Y PERMANENTE EN LAS VIAS PUBLICAS DEL ESTADO, PARA SATISFACER UNA NECESIDAD COLECTIVA, MEDIANTE LA UTILIZACION DE VEHICULOS IDONEOS PARA CADA TIPO DE SERVICIO, Y EN EL CUAL LOS USUARIOS, COMO CONTRAPRESTACION, REALIZAN UN PAGO EN MONEDA DE CURSO LEGAL, DE ACUERDO CON LA TARIFA PREVIAMENTE APROBADA POR LA AUTORIDAD CORRESPONDIENTE. LA PRESTACION DE ESTE SERVICIO ES DE INTERES PUBLICO.
 
-###### ARTÍCULO 8.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-El Ejecutivo Estatal, por conducto de sus dependencias y entidades, así como los Municipios garantizarán, en el ámbito de sus competencias, que la prestación de los servicios de los Centros de Atención Infantil se oriente a lograr la observancia y ejercicio de los siguientes derechos de niñas y niños:
+###### ARTICULO 8.
 
-I.- A un entorno seguro, afectivo y libre de violencia;
+PARA QUE LOS PARTICULARES, PERSONAS FISICAS O MORALES, PRESTEN EL SERVICIO PUBLICO DE TRANSPORTE EN CUALQUIERA DE LAS MODALIDADES QUE SE INDICAN EN EL ARTICULO ANTERIOR, REQUERIRAN DE CONCESION O PERMISO DEL EJECUTIVO, QUE OTORGARA POR CONDUCTO DE LA SECRETARIA GENERAL DE GOBIERNO.
 
-II.- Al cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicológica;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-III.- A la atención y promoción de la salud;
+###### ARTICULO 9.
 
-IV.- A recibir la alimentación que les permita tener una nutrición adecuada;
+EL TRANSPORTE FORANEO DE PASAJEROS O MIXTO Y EL URBANO Y SEMI-URBANO COLECTIVO DE PASAJEROS SE PRESTARAN EN AUTOBUSES CERRADOS, SUJETOS A LOS ITINERARIOS, TARIFAS Y HORARIOS QUE DETERMINE LA SECRETARIA GENERAL DE GOBIERNO.
 
-V.- A recibir orientación y educación apropiada a su edad, considerando un programa educativo, previo al preescolar y orientado a lograr un desarrollo físico, cognitivo, afectivo y social, hasta el máximo de sus posibilidades, así como a la comprensión y el ejercicio de sus derechos;
+###### ARTICULO 10.
 
-VI.- Al descanso, al juego y al esparcimiento;
+SERVICIO DE TRANSPORTE DE PASAJEROS EN AUTOS DE ALQUILER ES EL QUE SE PRESTA EN AUTOMOVILES CERRADOS, CON TARIFA DETERMINADA, SIN ITINERARIO FIJO Y CON HORARIO DETERMINADO O NO.
 
-VII.- A la no discriminación;
+###### ARTICULO 11.
 
-VIII.- A recibir servicios de calidad y con calidez, por parte de personal apto, suficiente y que cuente con formación o capacidades desde un enfoque de los derechos de la niñez;
+SERVICIO DE TURISMO ES EL QUE SE PRESTA A PERSONAS QUE VIAJEN A LUGARES DE INTERES TURISTICO O DE RECREO DEL ESTADO, PUDIENDO O NO ESTAR SUJETO A ITINERARIO, TARIFA Y HORARIO DETERMINADOS.
 
-IX.- A participar, ser consultado, expresar libremente sus ideas y opiniones sobre los asuntos que les atañen y a que dichas opiniones sean tomadas en cuenta;
+###### ARTICULO 12.
 
-X.- A que el personal que esté encargado del cuidado y enseñanza en los Centros de Atención Infantil, cumplan con la capacidad académica y profesional, misma que deberán acreditar al momento de su contratación respectiva, para garantizar la eficiencia en el desarrollo y atención integral de niñas y niños;
+SERVICIO DE TRANSPORTE ESPECIAL PARA TRABAJADORES O ESCOLARES ES EL QUE SE PRESTA A QUIENES VIAJAN DE SUS DOMICILIOS A SUS CENTROS DE TRABAJO O ESTUDIO Y VICEVERSA, O CUANDO SU DESTINO DE TRANSPORTACION SE RELACIONE CON FINES LABORALES O EDUCATIVOS. ESTE TRANSPORTE SE PRESTARA EN VEHICULOS CERRADOS Y PODRA O NO ESTAR SUJETO A ITINERARIO, TARIFA Y HORARIO.
 
-###### ARTÍCULO 9.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2000)</small>
 
-Con el fin de garantizar el cumplimiento a que se refiere esta Ley, en los Centros de Atención Infantil deberán contemplarse las siguientes actividades:
+###### ARTICULO 13.
 
-I.- Protección y seguridad;
+SERVICIO DE CARGA EN GENERAL ES EL QUE SE PRESTA EN VEHICULOS CERRADOS O ABIERTOS DESTINADOS AL TRANSPORTE DE PRODUCTOS AGROPECUARIOS, MAQUINARIA, MATERIALES PARA LA CONSTRUCCION Y TODO TIPO DE MERCANCIAS Y OBJETOS. ESTE SERVICIO NO TENDRA ITINERARIO, HORARIO, NI TARIFA, EXCEPTO EN EL CASO DEL TRANSPORTE DE MATERIALES PARA LA CONSTRUCCION, EN DONDE EL EJECUTIVO DEL ESTADO, POR CONDUCTO DE LA DEPENDENCIA COMPETENTE, DEBERA EXPEDIR LAS TARIFAS CON CARACTER MERAMENTE REFERENCIAL QUE SIRVAN PARA DETERMINAR EL PRECIO DEL SERVICIO PRESTADO.
 
-II.- Supervisión e inspección efectiva en materia de protección civil, así como dar cumplimiento adecuado de las medidas correctivas y de seguridad que al efecto establezcan las leyes y autoridades competentes, en materia de protección civil en el Estado;
+###### ARTICULO 14.
 
-III.- Fomento al cuidado de la salud;
+NO SE REQUIERE PERMISO CUANDO LA CAPACIDAD DE CARGA DEL VEHICULO NO SEA MAYOR DE TRES TONELADAS.
 
-IV.- Atención médica en caso de urgencia, la cual podrá brindarse en el Centro de Atención Infantil o a través de instituciones de salud, públicas o privadas;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-V.- Capacitar a todo el personal de planta de los Centros de Atención Infantil, para prestar primeros auxilios en caso de emergencias dentro los mismos y, posteriormente, canalizar a la niña o niño, a la institución de salud pública o privada correspondiente;
+###### ARTICULO 15.
 
-VI.- Alimentación adecuada y suficiente para su nutrición;
+SERVICIO DE GRUAS O REMOLQUES ES EL QUE TIENE POR FINALIDAD TRANSPORTAR CUALQUIER CLASE DE OBJETOS U OTROS VEHICULOS, YA SEA EN PLATAFORMAS, POR ELEVACION O ARRASTRE, SIN SUJETARSE A ITINERARIO PERO SI A HORARIO Y TARIFA EN LOS CASOS QUE DETERMINE LA SECRETARIA.
 
-VII.- Fomento a la comprensión y ejercicio de los derechos de niñas y niños;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-VIII.- Descanso, esparcimiento, juego y actividades recreativas propias de su edad;
+###### ARTICULO 16.
 
-IX.- Apoyo al desarrollo biológico, cognoscitivo, psicomotriz y socio-afectivo;
+SERVICIO DE CARGA ESPECIAL ES EL QUE REQUIERE EQUIPO ADICIONAL AL VEHICULO EN VIRTUD DE LAS PRECAUCIONES QUE SEGUN EL TIPO DE CARGA DEBAN TOMARSE A JUICIO DE LA SECRETARIA. ESTE SERVICIO NO TENDRA ITINERARIO, HORARIO, NI TARIFA.
 
-X.- Enseñanza del lenguaje y comunicación;
+###### ARTICULO 17.
 
-XI.- Información y apoyo a los padres, tutores o quienes tengan la responsabilidad del cuidado o crianza, para fortalecer la comprensión de sus funciones en la educación de niñas y niños; y
+SERVICIO DE TRANSPORTE MIXTO SERA EL QUE SE PRESTE PARA TRANSPORTAR PERSONAS Y COSAS EN EL MISMO VEHICULO, EL CUAL DEBE ACONDICIONARSE CON COMPARTIMIENTO PARA LOS PASAJEROS, PARA EL EQUIPAJE Y LA CARGA. ESTE SERVICIO DEBERA TENER ITINERARIO Y HORARIO DETERMINADO, PERO TARIFA UNICAMENTE POR EL TRANSPORTE DE PASAJEROS.
 
-XII.- Implementar mecanismos de participación de los padres de familia o de quien ejerza la tutela de niñas y niños, respecto de su educación y atención.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 10.
+###### ARTICULO 18.
 
-La rectoría de los servicios de los Centros de Atención Infantil corresponde al Estado y a los Municipios, los cuales tendrán una responsabilidad indeclinable en la autorización, funcionamiento, monitoreo, supervisión y evaluación de dichos servicios en sus respectivos ámbitos de competencia, a excepción de los Centros de Atención Infantil operados por la federación dentro del territorio estatal, pudiendo las autoridades de protección civil en el Estado, celebrar convenios con las autoridades federales para ampliar su marco de facultades y estar en condiciones de ejercer funciones de inspección y supervisión de manera conjunta.
+EL SERVICIO DE TRANSPORTE DE AGUA EN PIPAS PARA CONSUMO HUMANO SE PRESTARA EN VEHICULOS QUE REUNAN LAS CONDICIONES DE HIGIENE Y SALUBRIDAD QUE DETERMINEN LAS AUTORIDADES DEL RAMO Y LA SECRETARIA; NO ESTARA SUJETO A ITINERARIO NI HORARIO DETERMINADO, PERO SI A TARIFA. EL TRANSPORTE DE AGUA PARA FINES DISTINTOS, NO ESTARA SUJETO A TARIFA.
 
-###### ARTÍCULO 11.
+EL SERVICIO DE TRANSPORTE DE PETROLEO Y SUS DERIVADOS PARA CONSUMO DOMESTICO SE PRESTARA EN VEHICULOS QUE GARANTICEN SEGURIDAD, ESTANDO SUJETO A TARIFA PERO NO A ITINERARIO NI HORARIO.
 
-La prestación de los servicios de los Centros de Atención Infantil, cuando estén a cargo de las dependencias y entidades del Estado o de los Municipios, podrán otorgarse por conducto propio, o a través de las personas del sector social o privado que cuenten con los requisitos y la autorización correspondientes. En todo caso, se deberá garantizar el cumplimiento efectivo de los derechos laborales y de las prestaciones de seguridad social que deriven de éstos, en materia de atención, cuidado y desarrollo integral infantil; asimismo, deberán respetarse los derechos de las niñas y niños consagrados en la Constitución Federal y en la Constitución Local.
+### CAPITULO II. DE LAS CONCESIONES Y PERMISOS
 
-###### ARTÍCULO 12.
+###### ARTICULO 19.
 
-Para la prestación de los servicios de los Centros de Atención Infantil, se deberá cumplir con lo dispuesto por esta Ley y su Reglamento, por la Ley General en la materia y por las disposiciones y ordenamientos jurídicos correspondientes en cuanto a salubridad, infraestructura, equipamiento, seguridad, protección civil y medidas de higiene de dichos establecimientos, en cualquiera de sus modalidades, las diversas licencias y permisos requeridos por los Municipios, así como de los servicios educativos, de descanso, juego y esparcimiento, y los relacionados con el objeto de esta Ley.
+SE REQUIERE CONCESION PARA LA PRESTACION DEL SERVICIO DE TRANSPORTE COLECTIVO URBANO, SEMI-URBANO Y FORANEO DE PASAJEROS, AUTOMOVILES DE ALQUILER Y SERVICIO MIXTO.
 
-###### ARTÍCULO 13.
+###### ARTICULO 20.
 
-La Política Estatal a la que se refiere el presente Capítulo será establecida por el Consejo Estatal, y deberá contener al menos los siguientes objetivos:
+SE NECESITA PERMISO PARA EL SERVICIO DE TURISMO, EL TRANSPORTE ESPECIAL PARA TRABAJADORES O ESCOLARES, EL TRANSPORTE DE CARGA EN GENERAL, EL TRANSPORTE DE AGUA, PETROLEO Y SUS DERIVADOS, EL SERVICIO DE GRUAS PARA EL ARRASTRE O TRANSPORTE DE VEHICULOS Y EL SERVICIO DE CARGA ESPECIALIZADA.
 
-I.- Garantizar el reconocimiento de la dignidad de niñas y niños, a partir de la creación de las condiciones necesarias de respeto, protección y ejercicio pleno de sus derechos;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-II.- Garantizar el acceso a todas las niñas y niños a los servicios que señala esta Ley sin importar sus condiciones físicas, intelectuales o sensoriales, acorde con los modelos de atención; incluyendo a quienes se encuentran en situaciones vulnerables tales como:
+EN LAS POBLACIONES CON MENOS DE CINCO MIL HABITANTES, A JUICIO DE LA SECRETARIA PODRAN OTORGARSE PERMISOS PARA EL TRANSPORTE DE PASAJEROS.
 
-a) Discapacidad;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-b) Situación de calle;
+###### ARTICULO 21.
 
-c) Que habiten en el medio rural;
+LAS CONCESIONES SOLO SE OTORGARAN A MEXICANOS O A PERSONAS MORALES CREADAS O CONSTITUIDAS CONFORME A LAS LEYES DEL PAIS Y QUE NO ADMITAN MIEMBROS O SOCIOS EXTRANJEROS. SU OTORGAMIENTO SE REALIZARA POR LA SECRETARIA MEDIANTE CONCURSO ENTRE LOS SOLICITANTES QUE EXISTAN CUANDO SE REQUIERA AUMENTAR EL SERVICIO.
 
-d) Que sean migrantes o jornaleros agrícolas;
+LAS CONCESIONES PARA LA PRESTACION DEL SERVICIO DE TRANSPORTE DE PASAJEROS EN AUTOMOVILES DE ALQUILER SOLO SE OTORGARAN A PERSONAS FISICAS.
 
-e) Que integren comunidades indígenas; y
+###### ARTICULO 22.
 
-f) Aquellos que habiten en zonas marginadas o de extrema pobreza.
+SE OTORGARAN HASTA DIEZ CONCESIONES O PERMISOS POR PERSONA, SIN QUE EN NINGUN CASO PUEDAN EXCEDER DE ESTE NUMERO CUANDO UNA SOLA RECIBA DE AMBOS.
 
-III.- Definir criterios estandarizados de calidad y seguridad en materia de prestación de servicios de los Centros de Atención Infantil;
+LAS PERSONAS MORALES TENDRAN LAS CONCESIONES O PERMISOS QUE REUNAN SUS SOCIOS CONFORME A ESTE PRECEPTO.
 
-IV.- Contribuir al mejoramiento progresivo y al fortalecimiento de los servicios de los Centros de Atención Infantil;
+EL INTEGRANTE DE UNA PERSONA MORAL NO PODRA REPRESENTAR EN ESTA UN INTERES MAYOR QUE EL QUE LE CORRESPONDA AL MAXIMO DE CONCESIONES O PERMISOS AQUI ESTABLECIDO. SI UNA PERSONA FISICA FUERE TITULAR DE CONCESIONES Y PERMISOS EN LO INDIVIDUAL Y AL MISMO TIEMPO FUERE INTEGRANTE DE UNA PERSONA MORAL, SE SUMARAN AQUELLOS CON LOS QUE PROPORCIONALMENTE LE CORRESPONDAN EN LA PERSONA MORAL.
 
-V.- Promover pautas de convivencia familiar y comunitaria fundadas en el respeto, protección y ejercicio de los derechos de niñas y niños;
+ESTAS LIMITACIONES SOLO SERAN APLICABLES AL TRANSPORTE PUBLICO DE PASAJEROS DE CUALQUIER CLASE.
 
-VI.- Fomentar la equidad de género;
+###### ARTICULO 23.
 
-VII.- Garantizar criterios cuantitativos y cualitativos de los servicios, de conformidad con las prioridades que defina el Consejo Estatal y de los requerimientos y características de los modelos de atención, lo anterior tomando en cuenta los derechos de las niñas y niños, así como su bienestar integral; y
+LAS PERSONAS A QUE SE REFIERE EL ARTICULO 21, SI FUEREN SOCIEDADES, PROCURARAN AGRUPAR A LOS CONCESIONARIOS O PERMISIONARIOS QUE PRESTEN LA MISMA CLASE DE SERVICIO EN UNA RUTA O TRAMO.
 
-VIII.- Implementar mecanismos de participación de padres de familia y de quienes ejercen la tutela de niñas y niños, para el diseño, implementación, monitoreo y evaluación de los servicios que presten los Centros de Atención Infantil.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 14.
+QUEDA RESERVADA A LA SECRETARIA LA FACULTAD DE VIGILAR LA FORMA Y BASES DE CONSTITUCION DE SOCIEDADES QUE SE ORGANICEN PARA LA PRESTACION DEL SERVICIO PUBLICO DE TRANSPORTE Y LOS GRAVAMENES QUE SE PRETENDAN CONSTITUIR SOBRE LOS BIENES QUE FORMAN EL PATRIMONIO DE DICHAS SOCIEDADES, PROCURANDO QUE TENGAN SU DOMICILIO SOCIAL EN EL ESTADO O REPRESENTANTE AMPLIAMENTE AUTORIZADO Y EXPENSADO PARA RESPONDER DE CUALQUIER ASUNTO QUE SE RELACIONE CON EL CUMPLIMIENTO DE ESTA LEY.
 
-En el diseño, implementación, monitoreo y evaluación de la política a que se refiere el presente capítulo y en la aplicación e interpretación de la presente Ley, se deberá atender a los siguientes principios:
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-I.- Se deberá considerar una visión de largo plazo y, en caso de ser necesario, la aplicación de presupuestos en forma plurianual, conforme a la normatividad correspondiente;
+LOS ESTATUTOS Y REFORMAS DE TALES SOCIEDADES, DEBERAN SER AUTORIZADOS PREVIAMENTE POR LA SECRETARIA.
 
-II.- Desarrollo de niñas y niños en todos los aspectos de su vida, ya sean físicos, emocionales, psicológicos, cognitivos, sociales, educativos o culturales;
+###### ARTICULO 24.
 
-III.- No discriminación e igualdad de derechos;
+LA SOCIEDAD CONSTITUIDA PARA EXPLOTAR EL SERVICIO DE QUE SE TRATE TENDRA LA OBLIGACION A LA VEZ QUE EL DERECHO DE AUMENTAR, PREVIO EL OTORGAMIENTO DE LA CONCESION CORRESPONDIENTE, EL NUMERO DE VEHICULOS QUE FUERE NECESARIO.
 
-IV.- El interés superior de la niñez;
+LA MISMA OBLIGACION TENDRAN LAS SOCIEDADES QUE EXPLOTEN DOS O MAS SERVICIOS CUANDO LA NECESIDAD SE PRESENTE EN RELACION CON CUALQUIERA DE LOS SERVICIOS QUE PROPORCIONEN.
 
-V.- Participación de niñas y niños en todos los asuntos que les atañen; y
+LAS SOCIEDADES QUE SE CONSTITUYAN CONFORME AL ARTICULO ANTERIOR SERAN SOLIDARIAMENTE RESPONSABLES CON LOS CONCESIONARIOS POR EL CUMPLIMIENTO DE SUS OBLIGACIONES Y EN NINGUN CASO PODRAN ELUDIR O LIMITAR ESTA RESPONSABILIDAD.
 
-VI.- Equidad de género.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 15.
+###### ARTICULO 25.
 
-El Ejecutivo Estatal a través de las dependencias que correspondan, en relación a la prestación de Servicios de los Centros de Atención Infantil, tendrán las atribuciones siguientes:
+LA SOLICITUD PARA OBTENER CONCESION O PERMISO PARA LA PRESTACION DE SERVICIO SE PRESENTARA POR TRIPLICADO ANTE LAS OFICINAS DEL DEPARTAMENTO DE TRANSPORTE Y DEBERA CONTENER:
 
-I.- Crear, ejecutar y evaluar el programa estatal de prestación de servicios de los Centros de Atención Infantil y coadyuvar con el Consejo Estatal;
+A).- NOMBRE, EDAD, LUGAR DE ORIGEN, ESTADO CIVIL, OCUPACION Y DOMICILIO DEL SOLICITANTE, Y TRATANDOSE DE PERSONAS MORALES, LOS INSTRUMENTOS QUE ACREDITEN LA LEGAL EXISTENCIA, CAPACIDAD Y REPRESENTACION DE LAS MISMAS;
 
-II.- Verificar e inspeccionar, en su ámbito de competencia, que la prestación de los servicios de los Centros de Atención Infantil cumplan con los estándares de calidad y seguridad que exige el principio de interés superior de la niñez;
+B).- DECLARACION BAJO PROTESTA RESPECTO DE SI ES O NO TITULAR DE CONCESIONES O PERMISOS VIGENTES, ESPECIFICANDO EN SU CASO LA CLASE DE SERVICIO PARA EL QUE SE LE OTORGARON;
 
-III.- Celebrar convenios de coordinación en la materia con los demás órdenes de gobierno, para alcanzar los fines de la presente Ley;
+C).- LA CLASE DE SERVICIO QUE DESEE PRESTAR Y LA LOCALIDAD DONDE PRETENDA HACERLO, Y TRATANDOSE DEL SERVICIO FORANEO, LA RUTA QUE QUIERA CUBRIR INDICANDO LOS PUNTOS O POBLADOS QUE LA COMPONGAN;
 
-IV.- Promover y celebrar convenios de concertación con los sectores privado y social, las acciones tendientes a favorecer la prestación de servicios de los Centros de Atención Infantil, en los términos de la presente Ley;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-V.- Fomentar, realizar y difundir estudios e investigaciones en la materia;
+D).- COMPROBACION DE LA SOLVENCIA ECONOMICA QUE LE PERMITA PRESTAR EL SERVICIO EN LAS CONDICIONES QUE FIJE LA SECRETARIA;
 
-VI.- Vigilar, en el ámbito de su competencia, el cumplimiento de esta Ley y de las disposiciones que se relacionen y deriven de la misma, por parte de los prestadores de servicios de los Centros de Atención Integral, en cualquiera de sus tipos y modalidades;
+E).- LUGAR, FECHA Y FIRMA DEL SOLICITANTE O SU REPRESENTANTE;
 
-VII.- Decretar, en el ámbito de su competencia, las medidas precautorias o correctivas necesarias a los Centros de Atención Infantil;
+F).- A LA SOLICITUD SE ACOMPAÑARAN ACTA DE NACIMIENTO Y DE MATRIMONIO EN SU CASO, LOS INSTRUMENTOS DE CONSTITUCION Y SUS MODIFICACIONES TRATANDOSE DE PERSONAS MORALES, Y EN AMBOS CASOS EL REGIMEN FISCAL A QUE ESTE SUJETO EL PETICIONARIO Y SUS COMPROBANTES.
 
-VIII.- Imponer, a través de sus dependencias las sanciones que correspondan a su ámbito de competencia por el incumplimiento a las disposiciones de esta Ley;
+###### ARTICULO 26.
 
-IX.- A través de sus dependencias hacer del conocimiento de la autoridad competente toda aquella información que pueda constituir un hecho ilícito;
+EN RELACION AL SERVICIO PUBLICO DE TRANSPORTE FORANEO, LOS INTERESADOS, ADEMAS DE CUMPLIR CON LO ESTABLECIDO EN EL ARTICULO ANTERIOR, DEBERAN ACOMPAÑAR A LA SOLICITUD ESTUDIOS TECNICOS SOBRE LOS SIGUIENTES PUNTOS:
 
-X.- Establecer a través de sus dependencias una unidad directa de comunicación y atención a las madres y padres de niñas y niños que estén registrados en los Centros de Atención Infantil; y
+I.- DISTANCIA ENTRE LA VIA QUE SE PROYECTA Y LAS YA ESTABLECIDAS;
 
-XI.- Las demás que le señalen esta Ley y otras disposiciones aplicables.
+II.- RECURSOS AGRICOLAS, GANADEROS, INDUSTRIALES, MINEROS Y OTROS, CUYO FOMENTO PUEDA RESULTAR DE LA CONCESION SOLICITADA; Y
 
-###### ARTÍCULO 16.
+III.- TERRENOS, MATERIALES O CUALESQUIERA OTROS BIENES QUE SEA NECESARIO OCUPAR, EXPROPIAR O LIMITAR EL DOMINIO.
 
-Corresponde a los Municipios en el ámbito de su competencia y de conformidad con lo dispuesto en esta Ley y la Ley General las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-I.- Formular, conducir y evaluar la política municipal en materia de prestación de servicios de los Centros de Atención Infantil en congruencia con la política estatal y federal en la materia;
+###### ARTICULO 27.
 
-II.- Elaborar, aprobar, ejecutar y evaluar el programa municipal en materia de prestación de servicios de los Centros de Atención Infantil, de conformidad con el objeto de la presente Ley, de la Ley General y los fines, objetivos y políticas del Consejo Estatal. Para tal efecto se considerarán las directrices previstas en el Plan Estatal de Desarrollo y el Programa Estatal de Prestación de Servicios de los Centros de Atención Infantil;
+SI LA SECRETARIA ESTIMARE PROCEDENTE OTORGAR NUEVAS CONCESIONES, CONVOCARA A UN CONCURSO ENTRE LOS SOLICITANTES QUE TENGA REGISTRADOS O QUE SE INSCRIBAN DENTRO DEL PLAZO QUE AL EFECTO SEÑALE, EL CUAL SE LLEVARA A CABO CONFORME A LAS SIGUIENTES BASES:
 
-III.- Coadyuvar con el sistema estatal de prestación de servicios de los Centros de Atención Infantil, así como en la integración del registro estatal, haciendo llegar la información correspondiente a cada Centro de Atención Infantil que se encuentre operando en el municipio;
+A).- SE OTORGARAN A QUIENES GARANTICEN LA PRESTACION DEL SERVICIO Y SE PREFERIRA A LOS QUE CON MAYOR ANTIGÜEDAD SE HAYAN DEDICADO, EN PRIMER LUGAR A LA CONDUCCION DE VEHICULOS DE TRANSPORTE PUBLICO, EN SEGUNDO A QUIENES TENGAN MAYOR ANTIGÜEDAD COMO CONCESIONARIOS EN LA CLASE DE TRANSPORTE DE QUE SE TRATE, EN TERCERO A LOS SOLICITANTES DOMICILIADOS EN EL LUGAR EN QUE HAYA DE PRESTARSE EL SERVICIO, Y POR ULTIMO A QUIENES TENGAN MAYOR ANTIGÜEDAD COMO SOLICITANTES;
 
-IV.- Verificar, en su ámbito de competencia, que la prestación de los servicios cumpla con los estándares de calidad y seguridad que exige el principio del interés superior de la niñez;
+B).- CUANDO SE TRATARE DE AMPLIACION DE RUTAS DE TRANSPORTE COLECTIVO, O BIEN DE SUSTITUCION O AUMENTO DE AUTOMOVILES DE ALQUILER EN LOS SITIOS EXISTENTES, TENDRAN PREFERENCIA EN PRIMER TERMINO A LAS PERSONAS QUE SE HAYAN DEDICADO A LA CONDUCCION DE VEHICULOS DE TRANSPORTE PUBLICO, Y EN SEGUNDO LUGAR LOS CONCESIONARIOS QUE PRESTEN EL SERVICIO EN LA RUTA O SITIO QUE CORRESPONDA, EN IGUALDAD DE CONDICIONES SE PREFERIRA, DE ENTRE ESTOS, EN PRIMER LUGAR A LOS QUE GARANTICEN UNA MEJOR PRESTACION DEL SERVICIO, Y EN SEGUNDO LUGAR A QUIENES TENGAN MAYOR ANTIGÜEDAD COMO CONCESIONARIOS EN LA MISMA RUTA O SITIO DE AUTOS DE ALQUILER QUE CORRESPONDA;
 
-V.- Determinar los indicadores que permitan evaluar la aplicación del programa a que se refiere la fracción II de este artículo;
+SI NINGUN CONCESIONARIO REUNE LOS REQUISITOS EXIGIDOS, LA CONCESION SE OTORGARA A LOS TERCEROS QUE HAYAN CONCURSADO EN EL ORDEN DE PREFERENCIA A QUE SE REFIERE EL INCISO ANTERIOR;
 
-VI.- Celebrar convenios de coordinación en la materia con los demás órdenes de gobierno, para alcanzar los fines de la presente Ley;
+C).- EN NINGUN CASO SE OTORGARAN A LOS QUE HABIENDO SIDO TITULARES DE CONCESION SE LES HAYAN CANCELADO POR CUALQUIERA DE LAS CAUSAS QUE SE SEÑALAN EN LA PRESENTE LEY.
 
-VII.- Promover y celebrar convenios de concertación y de colaboración con los sectores privado y social, así como con instituciones educativas, para implementar las acciones tendientes a favorecer la prestación de servicios de los Centros de Atención Infantil en los términos de la presente Ley;
+###### ARTICULO 28.
 
-VIII.- Fomentar, promover, realizar y difundir estudios e investigaciones en la materia;
+LOS CONCURSOS SE CELEBRARAN CONFORME A LAS SIGUIENTES BASES:
 
-IX.- Vigilar el cumplimiento de esta Ley y demás disposiciones aplicables en su ámbito de competencia, que se relacionen y deriven de la misma, por parte de los prestadores de servicios de los Centros de Atención Infantil;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-X.- Decretar las medidas precautorias necesarias a los Centros de Atención Infantil autorizados por el municipio correspondiente, en cualquiera de sus modalidades y tipos;
+A).- SE CONVOCARAN MEDIANTE UNA PUBLICACION EN EL PERIODICO OFICIAL Y EN UN DIARIO DE LOS DE MAYOR CIRCULACION EN LA LOCALIDAD DE QUE SE TRATE, O EN SU DEFECTO DE LA CAPITAL DEL ESTADO.
 
-XI.- Imponer las sanciones, en el ámbito de su competencia, por el incumplimiento a las disposiciones de esta Ley;
+DICHA PUBLICACION SE HARA POR LO MENOS CON TREINTA DIAS DE ANTICIPACION DE LA FECHA FIJADA PARA LA CELEBRACION DEL CONCURSO;
 
-XII.- Hacer del conocimiento de la autoridad competente toda aquella información que pueda constituir un hecho ilícito; y
+B).- LA CONVOCATORIA DEBERA CONTENER:
 
-XIII.- Las demás que les señale esta Ley y otras disposiciones jurídicas federales y estatales.
+1.- DATOS DEL SERVICIO A PRESTARSE;
 
-###### ARTÍCULO 17.
+2.- DEMAS PORMENORES DE LA CONCESION;
 
-El Consejo Estatal es una instancia normativa, de consulta y coordinación, a través de la cual se dará seguimiento continuo a las acciones que tengan por objeto promover mecanismos interinstitucionales que permitan establecer políticas públicas y estrategias de atención en la materia.
+3.- FECHA DE INICIACION DE SERVICIOS;
 
-###### ARTÍCULO 18.
+4.- PLAZO DE PRESENTACION DE LAS PROPUESTAS;
 
-El Consejo Estatal se integrará por los titulares de las siguientes dependencias, entidades u organismos, o por quienes éstos designen en representación:
+C).- EL DIA DE LA PRESENTACION DE LAS PROPUESTAS, ESTAS SE ACOMPAÑARAN DE LA SOLICITUD Y DEMAS DOCUMENTOS A QUE SE REFIEREN LOS ARTICULOS 25 Y 26 DE ESTA LEY.
 
-I.- La Secretaría General de Gobierno;
+LAS PROPUESTAS DEBERAN SEÑALAR LA CALIDAD DEL EQUIPO QUE OFREZCAN DESTINAR AL SERVICIO, Y EN SU CASO LA INSTALACION DE SERVICIOS ACCESORIOS TALES COMO: TERMINALES, BODEGAS, ESTACIONES INTERMEDIAS, TALLERES U OTRAS CIRCUNSTANCIAS SIMILARES RELATIVAS A LA CALIDAD EN LA PRESTACION DEL SERVICIO;
 
-II.- La Secretaría de Salud, que lo presidirá;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-III.- La Secretaría de Desarrollo Social y Humano;
+D).- LOS DEMAS REQUISITOS QUE SEÑALE LA SECRETARIA;
 
-IV.- La Secretaría de Educación;
+E).- UNA SEMANA DESPUES SE EMITIRA EL FALLO, QUE SERA IRRECURRIBLE.
 
-V.- La Secretaría de Trabajo y Previsión Social;
+###### ARTICULO 29.
 
-VI.- El Sistema para el Desarrollo Integral de la Familia del Estado de Campeche;
+LA PUBLICACION DE LA CONVOCATORIA SURTIRA EFECTOS DE NOTIFICACION A FIN DE QUE LOS TERCEROS QUE PUDIERAN RESULTAR AFECTADOS PRESENTEN SU OBJECION DENTRO DEL PLAZO QUE PARA LA PRESENTACION DE PROPUESTAS SE HUBIESE SEÑALADO EN LA PROPIA CONVOCATORIA.
 
-VII.- El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Campeche;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-VIII.- La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado;
+TRANSCURRIDO EL PLAZO MENCIONADO SIN QUE SE HAYAN PRESENTADO OBJECIONES, SE PROCEDERA A LA EMISION DEL FALLO RESPECTIVO. EN CASO DE PRESENTARSE OBJECIONES, SE CITARA DENTRO DE LOS SIGUIENTES QUINCE DIAS HABILES PARA UNA AUDIENCIA AL SOLICITANTE Y A LOS OPOSITORES ANTE LA SECRETARIA, EN LA QUE SE EXPONDRAN LAS RAZONES QUE MOTIVEN LA OPOSICION Y SE PRESENTARAN LAS PRUEBAS CONDUCENTES, DEBIENDO RESOLVER LA SECRETARIA UNA SEMANA DESPUES TANTO LA OPOSICION COMO EL RESULTADO DEL CONCURSO.
 
-IX.- La Secretaría de Protección Civil; que tendrá a su cargo la Secretaría Técnica.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-Podrán ser invitados a las sesiones del Consejo Estatal un representante de la Comisión de Derechos Humanos del Estado de Campeche y representantes de los Sistemas para el Desarrollo Integral de la Familia de los Municipios del Estado, quienes tendrán derecho a voz.
+EN LA TRAMITACION DE LA OPOSICION SOLO SE ADMITIRAN PRUEBAS DOCUMENTALES Y LA PERICIAL, EN CUYO CASO LA SECRETARIA FIJARA UN TERMINO PRUDENTE PARA SU DESAHOGO.
 
-Los nombramientos en el Consejo Estatal serán honoríficos e institucionales.
+LA RESOLUCION QUE SE EMITA CON MOTIVO DE LA OPOSICION TAMBIEN SERA IRRECURRIBLE.
 
-Los integrantes titulares podrán designar un suplente, el cual deberá tener, al menos, el nivel jerárquico de Director General o equivalente.
+###### ARTICULO 30.
 
-### Capítulo II. De los Sujetos de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil
+EN LA CONCESION SE INDICARA EL NOMBRE DEL TITULAR, LA CLASE DE SERVICIO PARA EL QUE SE OTORGA, LA RUTA PARA LA QUE SE EXPIDE, LA DESCRIPCION DEL VEHICULO CON EL QUE HA DE DESARROLLARSE, LAS CONDICIONES EN QUE DEBE PRESTAR EL SERVICIO Y LAS CAUSAS POR LAS QUE PROCEDA SU CANCELACION.
 
-###### ARTÍCULO 19.
+LAS UNIDADES DE TRANSPORTE QUE SE UTILICEN PARA EL SERVICIO COLECTIVO DE PASAJEROS SERAN DE MODELO NO ANTERIOR A DIEZ AÑOS Y LOS AUTOMOVILES DE ALQUILER A SIETE AÑOS, DE FABRICACION NACIONAL O INTERNADOS LEGALMENTE AL PAIS.
 
-El Ejecutivo del Estado, a través de la Secretaría, podrá invitar a los titulares de otras dependencias y entidades al Consejo Estatal, quienes tendrán derecho a voz.
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2000)</small>
 
-###### ARTÍCULO 20.
+LA DIRECCION PODRA MODIFICAR LA ANTIGUEDAD DE LOS MODELOS DE LOS VEHICULOS AFECTOS AL SERVICIO PUBLICO DE TRANSPORTE EN SU MODALIDAD DE AUTOS DE ALQUILER, PREVIO ESTUDIO TECNICO QUE ATIENDA LAS CONDICIONES GEOGRAFICAS Y ECONOMICAS DE LA ZONA.
 
-El Consejo Estatal contará con una Secretaría Técnica que será responsable de coordinar las acciones objeto del mismo y cuya designación estará sujeta a la normatividad interna de la Secretaría de Protección Civil del Estado.
+###### ARTICULO 31.
 
-###### ARTÍCULO 21.
+LAS CONCESIONES Y PERMISOS SE OTORGARAN POR EL TERMINO DE QUINCE AÑOS. EL ESTADO NO TENDRA EL DERECHO DE REVERSION EN LO QUE SE REFIERE A LOS VEHICULOS EN QUE SE PRESTE EL TRANSPORTE, PERO EN LO QUE RESPECTA A ESTACIONES Y TERMINALES DE PASAJEROS, ESTAS PASARAN AL ESTADO LIBRES DE GRAVAMENES Y SIN COSTO ALGUNO AL TERMINO DE CINCUENTA AÑOS DE EXPEDIDA LA CONCESION.
 
-La operación y funcionamiento del Consejo Estatal se regularán por las disposiciones de esta Ley y su normatividad interna.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 22.
+###### ARTICULO 32.
 
-El Consejo Estatal tendrá las siguientes atribuciones:
+ACORDADA LA CONCESION, SE SEÑALARA AL BENEFICIARIO UN TERMINO DE TREINTA DIAS PARA QUE OTORGUE UNA GARANTIA QUE CAUCIONE LOS DAÑOS Y PERJUICIOS QUE PUEDA OCASIONAR EN LA PRESTACION DEL SERVICIO, ASI COMO EL CUMPLIMIENTO A LOS ORDENAMIENTOS DE TRANSITO Y A LAS CONDICIONES FIJADAS EN LA CONCESION PARA LA PRESTACION DEL SERVICIO EN CUANTO A CONTINUIDAD, REGULARIDAD, PERMANENCIA, SEGURIDAD, COMODIDAD E HIGIENE DEL MEDIO DE TRANSPORTE QUE UTILIZA, GARANTIA QUE PODRA CONSISTIR EN DEPOSITO QUE ANTE LA RECAUDACION DE RENTAS QUE CORRESPONDA HAGA POR LA CANTIDAD QUE LA SECRETARIA FIJE TOMANDO EN CUENTA LA CLASE DE SERVICIO QUE SE LE AUTORICE, O MEDIANTE FIANZA DE COMPAÑIA AUTORIZADA; ADEMAS, EN DICHO PLAZO DEBERA CONTRATAR SEGURO DE VIAJERO CUANDO SE TRATE DE TRANSPORTE DE PASAJEROS.
 
-I.- Formular, conducir y evaluar la política estatal en materia de prestación de servicios de los Centros de Atención Infantil que permita la conjunción de esfuerzos de los distintos órdenes de gobierno y de los sectores público, privado y social en la promoción de condiciones favorables al cuidado y desarrollo integral de niñas y niños;
+LOS CONCESIONARIOS, PERSONAS FISICAS O MORALES, SERAN SOLIDARIAMENTE RESPONSABLES DE LOS DAÑOS QUE OCASIONEN SUS EMPLEADOS O SOCIOS EN LA PRESTACION DEL SERVICIO.
 
-II.- Elaborar, aprobar, ejecutar y evaluar el Programa Estatal de Prestación de Servicios de los Centros de Atención, de conformidad con el objeto de la presenta Ley, la Ley General y los fines del Consejo Estatal; asimismo, se considerarán las directrices previstas en el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y en el Programa Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-III.- Impulsar la coordinación interinstitucional a nivel federal, local, municipal, así como la concertación de acciones entre los sectores público, social y privado;
+###### ARTICULO 33.
 
-IV.- Solicitar a las autoridades verificadoras competentes que implementen recomendaciones y, de ser necesaria, dictar la suspensión total del Centro de Atención Infantil, por cuestiones graves que pongan en peligro a niñas y niños;
+OTORGADA LA ANTERIOR GARANTIA, CUYO MONTO FIJARA DISCRECIONALMENTE LA SECRETARIA DE CONFORMIDAD A LOS LIMITES QUE SEÑALE EL REGLAMENTO, ESTA DICTARA EL ACUERDO RESPECTIVO Y LO PUBLICARA A COSTA DEL INTERESADO EN EL PERIODICO OFICIAL DEL ESTADO.
 
-V.- Promover los mecanismos de corresponsabilidad y solidaridad entre la sociedad civil y el Consejo Estatal;
+###### ARTICULO 34.
 
-VI.- Impulsar programas conjuntos de capacitación y seguimiento para el personal que labore en los Centros de Atención Integral a cargo de las dependencias y entidades que conforman el Consejo Estatal. De igual forma, determinarán los tipos de exámenes a los que deberá someterse dicho personal, a fin de garantizar la salud, la educación, la seguridad y la integridad física y psicológica de niñas y niños;
+SERAN NULAS DE PLENO DERECHO LAS CONCESIONES OTORGADAS FUERA DEL PROCEDIMIENTO DE CONCURSO Y SIN CUMPLIR CON LOS REQUISITOS QUE SEÑALA ESTA LEY.
 
-VII.- Promover ante las instancias competentes, la certificación de competencias laborales para el personal que preste sus servicios en los Centros de Atención Infantil;
+EN CASO DE FALLECIMIENTO O INCAPACIDAD PERMANENTE TOTAL DE CONDUCTORES DE AUTOMOVILES DE ALQUILER CUYA MUERTE O INCAPACIDAD RESULTE EN LA PRESTACION DEL SERVICIO, SERA OTORGADA UNA CONCESION DE ESTA CLASE SIN SUJETARSE AL PROCEDIMIENTO DE CONCURSO SEÑALADO POR ESTA LEY, SIEMPRE Y CUANDO SE CUMPLA CON LOS DEMAS REQUISITOS EXIGIDOS.
 
-VIII.- Promover el diseño y uso de indicadores, así como la implementación de mecanismos de seguimiento y evaluación de la cobertura y calidad de los servicios que se ofrecen;
+EN CASO DE INCAPACIDAD PERMANENTE TOTAL, LA CONCESION SE OTORGARA AL PROPIO CONDUCTOR.
 
-IX.- Impulsar la investigación y la generación de estudios que contribuyan a la toma de decisiones y la planeación de políticas públicas vinculadas con el objeto de esta Ley;
+EN CASO DE FALLECIMIENTO, SERA OTORGADA EN EL SIGUIENTE ORDEN PREFERENTE:
 
-X.- Promover el monitoreo ciudadano y el acceso a la información de los programas de servicios de los Centros de Atención Infantil a fin de garantizar la transparencia y el uso eficiente de los recursos públicos;
+A).- VIUDA;
 
-XI.- Promover la ampliación de la cobertura y calidad de los servicios a través de esquemas diversificados y regionalizados;
+B).- DESCENDIENTES;
 
-XII.- Promover la generación, actualización y aplicación de normas oficiales mexicanas que permitan la regulación de los servicios de los Centros de Atención Infantil;
+C).- CONCUBINA;
 
-XIII.- Promover la participación de las familias, la sociedad civil y niñas y niños en la observación y acompañamiento de la política estatal y de los servicios; y
+D).- ASCENDIENTES.
 
-XIV.- Aprobar sus reglas internas de operación.
+EL FALLECIDO O INCAPACITADO DEBERA ESTAR INSCRITO EN EL REGISTRO DE CONDUCTORES A QUE SE REFIERE EL ARTICULO 92.
 
-###### ARTÍCULO 23.
+EL BENEFICIARIO O SU REPRESENTANTE DEBERA HACER USO DE ESTE DERECHO DENTRO DE LOS NOVENTA DIAS SIGUIENTES AL FALLECIMIENTO O FECHA DE EXPEDICION DEL CERTIFICADO DE INCAPACIDAD PERMANENTE TOTAL Y CUMPLIR CON LOS REQUISITOS EXIGIDOS PARA EL OTORGAMIENTO DE LA CONCESION DE QUE SE TRATE DENTRO DE LOS NOVENTA DIAS SIGUIENTES A LA PRESENTACION DE LA SOLICITUD.
 
-El Consejo Estatal tendrá los siguientes objetivos:
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-I.- Diseñar políticas públicas, estrategias y acciones coordinadas para asegurar la atención integral a niñas y niños;
+###### ARTICULO 35.
 
-II.- Coordinar esfuerzos de las dependencias y entidades que conforman el Consejo Estatal, para promover mecanismos que permitan mejorar la calidad de los servicios de los Centros de Atención Infantil;
+PARA EL OTORGAMIENTO DE PERMISOS SE EXIGIRAN LOS REQUISITOS QUE SEÑALEN LOS ARTICULOS ANTERIORES Y SERAN OTORGADOS POR LA DIRECCION DE TRANSITO Y TRANSPORTE SIN SUJETARSE A CONCURSO.
 
-III.- Impulsar acciones de gobierno para ofrecer servicios en los Centros de Atención Infantil con criterios comunes de calidad a través del fomento de actividades de capacitación, certificación, supervisión y seguimiento de tales servicios;
+###### ARTICULO 36.
 
-IV.- Asegurar la atención integral a niñas y niños.
+PARA LA PRESTACION DEL SERVICIO DE CARGA SE REQUIERE PERMISO, EL QUE SE OTORGARA A TODO EL QUE LO SOLICITE Y ACREDITE SU PROPIEDAD SOBRE UN VEHICULO NACIONAL O INTERNADO LEGALMENTE AL PAIS QUE REUNA LAS CONDICIONES NECESARIAS PARA EL RAMO DEL TRANSPORTE QUE DESEE EXPLOTAR. LOS PARTICULARES PODRAN LIBREMENTE TRANSPORTAR MATERIALES O CARGA DE SU PROPIEDAD PARA LOS FINES PROPIOS DE SUS NEGOCIOS.
 
-###### ARTÍCULO 24.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-Para el cumplimiento de sus fines el Consejo Estatal atenderé a lo siguiente:
+###### ARTICULO 37.
 
-I.- Los integrantes del Consejo Estatal se reunirán, en sesiones ordinarias, por lo menos cuatro veces al año, para dar seguimiento a las acciones acordadas entre sus integrantes;
+LAS CONCESIONES Y PERMISOS SERAN TRANSMISIBLES POR HERENCIA. LA SECRETARIA, A TRAVES DE LA DIRECCION DE TRANSITO Y TRANSPORTE, PODRA AUTORIZAR OTRAS FORMAS DE TRANSMISION SIEMPRE Y CUANDO EL TITULAR LA HAYA EXPLOTADO ADECUADAMENTE DURANTE UN AÑO Y EL ADQUIRENTE GARANTICE IGUAL O MEJOR PRESTACION DEL SERVICIO QUE EL TITULAR ANTERIOR.
 
-II.- Los integrantes del Consejo Estatal podrán reunirse en sesiones extraordinarias para atender asuntos que merezcan atención inmediata, las cuales serán convocadas por su presidente a propuesta de cualquiera de los integrantes;
+TAMBIEN SE PODRA AUTORIZAR EL GRAVAMEN DE CONCESIONES Y DE LOS BIENES AFECTOS A LA MISMA CUANDO SE GARANTICEN CREDITOS DESTINADOS A LA MEJORA DEL SERVICIO, PUDIENDO TAMBIEN UTILIZARSE LA FIGURA DEL ARRENDAMIENTO FINANCIERO, SIEMPRE QUE LAS PARTES EN EL MISMO CONVENGAN EN AFECTAR Y SOMETER LOS BIENES ARRENDADOS AL REGIMEN ESPECIAL DE LAS CONCESIONES.
 
-III.- Los integrantes del Consejo Estatal, intercambiarán y analizarán información y datos referentes a los temas de su competencia, con el fin de cumplir con los objetivos establecidos; y
+LAS CONCESIONES Y DEMAS BIENES AFECTOS A LA PRESTACION DEL SERVICIO SOLO PODRAN SER OBJETO DE INTERVENCION, SALVO QUE EL ADEUDO PROVENGA DE CREDITOS DESTINADOS A LA ADQUISICION DE TALES BIENES.
 
-IV.- Deberá entregar un informe semestral de actividades al Congreso del Estado quien, en todo momento y si así lo considera necesario, podrá llamar a comparecer a sus integrantes.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 25.
+EL ADJUDICATARIO DE UNA CONCESION NO PODRA EXPLOTARLA SI NO CUMPLE CON LOS REQUISITOS EXIGIDOS POR ESTA LEY Y OBTIENE LA AUTORIZACION DE LA DIRECCION DE TRANSITO Y TRANSPORTE.
 
-El Registro Estatal se organizará conforme a lo dispuesto por el Reglamento de esta Ley y tendrá por objeto:
+LAS CONCESIONES NO PODRAN TRANSMITIRSE O GRAVARSE POR SEPARADO DE LOS BIENES AFECTOS A ELLAS O VICEVERSA.
 
-I.- Coadyuvar al cumplimiento de los objetivos de la política estatal y del Consejo Estatal;
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2000)</small>
 
-II.- Concentrar la información de los Centros de Atención Infantil de los sectores público, social y privado que presten servicios para la atención, cuidado y desarrollo integral infantil en el Estado de Campeche;
+EN CASO DE FALLECIMIENTO DEL CONCESIONARIO O PERMISIONARIO, LA CONCESION O PERMISO, SEGUN SEA EL CASO, SERA TRANSMITIDO EN EL MISMO GRADO DE PRELACION AL ESTABLECIDO EN EL ARTICULO 34.
 
-III.- Identificar a los prestadores de servicios de los Centros de Atención Infantil, en cualquiera de sus modalidades y tipos, así como mantener actualizada la información que lo conforma;
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2000)</small>
 
-IV.- Contar con un control estadístico que contribuya a la definición de políticas públicas a que se refiere esta Ley; y
+EL BENEFICIARIO DEBERA PRESENTAR SU SOLICITUD DENTRO DE LOS NOVENTA DIAS NATURALES SIGUIENTES AL FALLECIMIENTO DEL CONCESIONARIO O PERMISIONARIO Y CUMPLIR CON LOS REQUISITOS EXIGIDOS PARA EL OTORGAMIENTO DE LA CONCESION O PERMISO DE QUE SE TRATE.
 
-V.- Facilitar la supervisión e inspección de los Centros de Atención Infantil.
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2000)</small>
 
-###### ARTÍCULO 26.
+EN EL CASO DE LA EXISTENCIA DE DOS O MAS BENEFICIARIOS, DEBERA PRESENTARSE LA RESOLUCION DEL JUICIO SUCESORIO CORRESPONDIENTE ANTE AUTORIDADES COMPETENTES.
 
-El Registro Estatal deberá orientarse por los principios de máxima publicidad, transparencia y legalidad, cumpliendo con las disposiciones en materia de rendición de cuentas.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 27.
+###### ARTICULO 38.
 
-Las autoridades estatales y municipales competentes para emitir la autorización a que se refiere el Capítulo X de esta Ley, procederán a inscribir a los prestadores de servicios de los Centros de Atención Infantil en el Registro Estatal.
+NINGUNA CONCESION O PERMISO SE OTORGARA SI EL INTERESADO EN OBTENERLA NO DISPONE DE LAS ESTACIONES O TERMINALES ADECUADAS, ENTENDIENDOSE POR ESTAS EL LUGAR O LUGARES DONDE HAYAN DE CONCENTRAR LAS UNIDADES AFECTAS AL INICIAR O CONCLUIR EL SERVICIO DICHAS ESTACIONES O TERMINALES NO SERAN AUTORIZADAS POR LA SECRETARIA SI CON ELLAS SE INVADE LA VIA PUBLICA. EL REGLAMENTO SEÑALARA LAS CONDICIONES Y REQUISITOS PARA EL FUNCIONAMIENTO DE LAS ESTACIONES O TERMINALES, ASI COMO LOS CASOS EN QUE NO SE REQUIERA HACER USO DE ELLAS, LO QUE DEPENDERA DEL LUGAR DONDE PRETENDAN ESTACIONARSE LOS VEHICULOS FUERA DEL HORARIO DE SERVICIO.
 
-###### ARTÍCULO 28.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-La operación, mantenimiento y actualización del Registro Estatal estará a cargo de la Secretaría Técnica del Consejo Estatal, en coordinación con la Secretaría y las autoridades municipales en materia de protección civil.
+###### ARTICULO 39.
 
-El registro deberá informar periódicamente a los integrantes del Consejo Estatal, para los fines legales aplicables.
+LOS ESTACIONAMIENTOS AUTORIZADOS PARA AUTOS DE ALQUILER SERAN UBICADOS POR LA SECRETARIA, PREVIA OPINION DEL AYUNTAMIENTO RESPECTIVO Y VECINOS AFECTADOS, FIJANDOLOS EN LUGARES DONDE NO SE ENTORPEZCA EL TRANSITO DE VEHICULOS.
 
-###### ARTÍCULO 29.
+###### ARTICULO 40.
 
-Las dependencias y entidades de la administración pública estatal y municipales, que brinden directamente servicios para la atención, cuidado y desarrollo integral infantil, deberán hacer la inscripción del Centro de Atención Infantil en el Registro Estatal, previa revisión del cumplimiento de requisitos, conforme a la modalidad y tipo que se trate y conforme a lo dispuesto en la presente Ley y demás ordenamientos legales aplicables en el Estado.
+NO SE PODRA HACER USO DE LA CONCESION O PERMISO OTORGADO SI EL SOLICITANTE NO DEMUESTRA PREVIAMENTE HABER OBTENIDO LAS PLACAS DE CIRCULACION PREVISTAS PARA ESTA CLASE DE VEHICULOS POR LAS LEYES Y REGLAMENTOS APLICABLES.
 
-###### ARTÍCULO 30.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-El Registro Estatal deberá contener y proporcionar al Registro Nacional de los Centros de Atención, la siguiente información:
+LAS PLACAS DE CIRCULACION SOLO SERAN EXPEDIDAS SI EL INTERESADO OBTIENE CONSTANCIA QUE EXPIDA EL DEPARTAMENTO DE TRANSPORTE DE QUE SE ENCUENTRA AL CORRIENTE EN EL CUMPLIMIENTO DE SUS OBLIGACIONES Y COMPRUEBA QUE SE ENCUENTRA INSCRITO EN EL PADRON PARA EL PAGO DEL IMPUESTO SOBRE NOMINAS DEL ESTADO Y COMO PATRON EN EL INSTITUTO MEXICANO DEL SEGURO SOCIAL, O MANIFIESTE POR ESCRITO Y BAJO PROTESTA QUE NO TIENE EMPLEADOS A SU SERVICIO.
 
-I.- Identificación del prestador del servicio sea persona física o moral;
+###### ARTICULO 41.
 
-II.- Identificación, en su caso, del representante legal;
+NINGUNA CONCESION SE OTORGARA SI CON ELLO SE ESTABLECE UNA COMPETENCIA RUINOSA EN DETRIMENTO DE LOS CONCESIONARIOS O SE CAUSA PERJUICIO AL INTERES PUBLICO.
 
-III.- Ubicación del Centro de Atención;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-IV.- Modalidad y modelo de atención bajo el cual opera;
+###### ARTICULO 42.
 
-V.- Fecha de inicio de operaciones;
+SE CONSIDERARA QUE EXISTE COMPETENCIA RUINOSA CUANDO SOBREPASEN LINEAS O RUTAS DE ITINERARIOS CON EL MISMO SENTIDO DE CIRCULACION, SIEMPRE QUE DE ACUERDO CON LOS ESTUDIOS TECNICOS REALIZADOS SE HAYA LLEGADO A LA CONCLUSION DE QUE LA DENSIDAD DEMOGRAFICA USUARIA ENCUENTRA SATISFECHAS SUS EXIGENCIAS CON EL SERVICIO PRESTADO POR LA O LAS RUTAS ESTABLECIDAS PREVIAMENTE, EN LA INTELIGENCIA DE QUE LA SECRETARIA, TENIENDO EN CUENTA EL INTERES DE LA COMUNIDAD, PODRA MODIFICAR LOS ITINERARIOS CORRESPONDIENTES A FIN DE MEJORAR EL SERVICIO Y EL DESARROLLO DE NUEVAS RUTAS.
 
-VI.- Capacidad instalada y, en su caso, ocupada; y
+###### ARTICULO 43.
 
-VII.- Constancia de capacitación de su personal.
+EL EJECUTIVO DEL ESTADO EXPROPIARA, OCUPARA TEMPORALMENTE O LIMITARA EL DOMINIO DE LOS BIENES DE PROPIEDAD PARTICULAR QUE SE REQUIERAN PARA EL ESTABLECIMIENTO, REPARACION Y MEJORAMIENTO DE LAS VIAS DE COMUNICACION, SUJETANDOSE A LO DISPUESTO EN LA LEY.
 
-###### ARTÍCULO 31.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-Los Centros de Atención Infantil podrán presentar sus servicios bajo alguna de las siguientes modalidades:
+###### ARTICULO 44.
 
-I.- Pública: Aquélla financiada y administrada por el Estado o los Municipios, o sus instituciones;
+LA SECRETARIA GENERAL DE GOBIERNO PODRA ESTABLECER MODALIDADES A LAS CONCESIONES Y PERMISOS, FIJANDO ITINERARIOS, TARIFAS, HORARIOS, SITIOS, TERMINALES, TIPO DE VEHICULOS Y CUALQUIER OTRA ESPECIFICACION DEL SERVICIO, ATENDIENDO EL INTERES PUBLICO. ASI MISMO, PODRA HACERSE CARGO, TEMPORAL O DEFINITIVAMENTE, DEL SERVICIO PUBLICO DE TRANSPORTE CUANDO ASI LO REQUIERA EL INTERES GENERAL.
 
-II.- Privada: Aquélla cuya creación, financiamiento, operación y administración sólo corresponde a particulares; y
+CUANDO LA MEDIDA SEA DEFINITIVA, PREVIAMENTE SE PEDIRA LA OPINION DEL CONSEJO CONSULTIVO DE TRANSPORTE.
 
-III.- Mixta: Aquélla en que el Estado o los Municipios participan en el financiamiento, instalación o administración con instituciones sociales o privadas, de manera individual o en su conjunto.
+### CAPITULO III. DE LAS OBLIGACIONES CONEXAS
 
-###### ARTÍCULO 32.
+###### ARTICULO 45.
 
-Los Centros de Atención Infantil se clasificarán en los tipos que establece la Ley General, atendiendo a las disposiciones que emita al efecto la Secretaría de Protección Civil del Estado.
+LOS CONCESIONARIOS Y PERMISIONARIOS QUE PRESTEN SERVICIO PUBLICO DE TRANSPORTE TENDRAN LAS OBLIGACIONES SIGUIENTES:
 
-###### ARTÍCULO 33.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-En los Centros de Atención Infantil, se admitirán a niñas y niños con discapacidad de conformidad con la modalidad, tipo y modelo de atención, que les resulte aplicable, en términos del reglamento de la presente Ley.
+I.- CUMPLIR CON LA PRESTACION DE LOS SERVICIOS PUBLICOS QUE FIJE LA CONCESION O PERMISO, LAS DISPOSICIONES QUE ESTABLEZCA SOBRE LA MATERIA LA SECRETARIA GENERAL DE GOBIERNO, ESTA LEY, SUS REGLAMENTOS Y LAS DISPOSICIONES DE TRANSITO;
 
-###### ARTÍCULO 34.
+II.- COADYUVAR CON EL ESTADO Y MUNICIPIOS EN EL MANTENIMIENTO Y CONSERVACION DE LAS VIAS DE COMUNICACION POR LAS QUE TRANSITEN, ASI COMO EN LA CAPACITACION DE LOS OPERADORES;
 
-El ingreso de las niñas y niños con discapacidad quedará sujeto a la disponibilidad de lugares con que cuenta cada Centro de Atención Infantil con respecto de la admisión general.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 35.
+III.- RESPONDER ANTE LA SECRETARIA O ANTE CUALQUIER AUTORIDAD ESTATAL O MUNICIPAL COMPETENTE DE LAS FALTAS EN QUE INCURRAN POR SI MISMOS O POR CONDUCTO DE LAS PERSONAS DE QUIENES SE SIRVAN COMO OPERADORES DE LOS VEHICULOS DESTINADOS A LA PRESTACION DEL SERVICIO PUBLICO;
 
-Los prestadores de servicios para la atención, cuidado y desarrollo infantil, que otorguen servicios a niñas y niños con discapacidad, deberán acreditar ante la autoridad competente, que cuentan con personal capacitado para atender a dichos usuarios.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 36.
+IV.- EN LOS CASOS QUE SEÑALE LA SECRETARIA, LOS VEHICULOS DEBERAN CONTAR CON EQUIPO DE RADIOCOMUNICACION Y LAS MEDIDAS DE SEGURIDAD QUE PARA LOS CONDUCTORES CONSIDERE CONVENIENTES;
 
-Los prestadores de servicios deberán implementar programas de sensibilización y capacitación continua para el personal encargado de los mismos, los que fomentarán el trato no discriminatorio y la convivencia en un ambiente de inclusión y respeto a sus derechos en condiciones de igualdad.
+V.- ADQUIRIR SEGURO QUE AMPARE AL PASAJERO O VIAJERO, EQUIPAJE O CARGA, A LA PROPIA UNIDAD Y LOS DAÑOS QUE SE PUDIERAN OCASIONAR A TERCEROS EN SUS PERSONAS O BIENES;
 
-###### ARTÍCULO 37.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-Los Centros de Atención Infantil deberán contar con la infraestructura adecuada que garanticen las medidas de seguridad y accesibilidad para la atención, cuidado y desarrollo de las niñas y niños con discapacidad, así como cumplir con las medidas preventivas establecidas por la Secretaría de Protección Civil del Estado.
+VI.- MANTENER LOS VEHICULOS EN BUEN ESTADO MECANICO, ELECTRICO, DE PINTURA Y PRESENTACION QUE PARA CADA CASO FIJE LA SECRETARIA, EVITANDO CONTAMINACION POR RUIDOS O HUMOS Y APLICANDO LOS AVANCES TECNOLOGICOS QUE DETERMINE LA SECRETARIA DE GOBIERNO;
 
-Además de cumplir con lo establecido en el párrafo anterior, los Centros deben cumplir con lo que considere la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Campeche.
+VII.- EL CONCESIONARIO O PERMISIONARIO SERA RESPONSABLE, ADEMAS, DE LA HIGIENICA Y CORRECTA PRESENTACION DEL OPERADOR Y DEL ASEO DEL VEHICULO EN EL CASO DE TRANSPORTE DE PASAJEROS Y MIXTO;
 
-###### ARTÍCULO 38.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-Los prestadores de servicios deberán acatar el resto de los lineamientos en materia de discapacidad, estipulados en la Ley de la materia, debiendo para ello, crear protocolos de atención que permitan garantizar el acceso al servicio.
+VIII.- SUJETARSE A LAS TARIFAS AUTORIZADAS Y RESPETAR LOS HORARIOS E ITINERARIOS, ASI COMO CIRCULAR POR LAS VIALIDADES QUE SEÑALEN LOS DEPARTAMENTOS DE TRANSPORTE Y LAS AUTORIDADES DE TRANSITO;
 
-###### ARTÍCULO 39.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-Son obligaciones de los Centros de Atención Infantil:
+IX.- NOTIFICAR A LA SECRETARIA EN CASO DE HABER SUFRIDO ALGUN ACCIDENTE EL VEHICULO AUTORIZADO;
 
-I.- Estar legalmente constituido y cumplir con los requisitos establecidas por Ley;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-II.- Llevar el registro de niñas y niños que tengan bajo su custodia;
+X.- USAR EN LOS VEHICULOS AUTORIZADOS LOS COLORES, LETREROS E IDENTIFICACION QUE DETERMINE LA SECRETARIA.
 
-III.- Acreditar la buena salud de las niñas y niños mediante certificado médico, previo a la inscripción al Centro, así como al momento de su ingreso, posterior a un ausentismo o por enfermedad;
+TRATANDOSE DE VEHICULOS PARA EL TRANSPORTE COLECTIVO DE PASAJEROS, DEBERA COLOCARSE EN LUGAR VISIBLE Y EN EL TAMAÑO APROPIADO, TANTO EN EL INTERIOR COMO EN EL EXTERIOR, LETREROS CON LOS NUMEROS TELEFONICOS DEL DEPARTAMENTO DE TRANSPORTE, DONDE EL USUARIO PUEDA EXPONER SUS QUEJAS RESPECTO AL SERVICIO; ASI MISMO, DEBERAN INCLUIRSE LOS NUMEROS TELEFONICOS DE LOS SERVICIOS DE EMERGENCIA MAS IMPORTANTES;
 
-IV.- Proteger y respetar los derechos y garantías, inclusión, diversidad cultural y dignidad de las niñas y niños que tengan bajo su custodia, cumpliendo con los lineamientos que marca esta Ley, así como las Normas Oficiales Mexicanas en la materia y los acuerdos internacionales;
+XI.- TRATAR CON RESPETO, CORTESIA Y ATENCION A LAS PERSONAS QUE UTILICEN SUS SERVICIOS Y A LA POBLACION EN GENERAL, SIENDO RESPONSABLES DEL COMPORTAMIENTO DEL PERSONAL DE OPERACION;
 
-V.- Permitir que las niñas y niños estén en contacto con sus familiares y recibir visitas de éstos, salvo que exista un mandato judicial contrario:
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-VI.- Ofrecer capacitaciones para los padres o tutores de los usuarios, sobre los funcionamientos de las medidas de seguridad de las instalaciones y los requisitos establecidos por la Secretaría de Protección Civil, la Secretaría de Salud y demás ordenamientos en la materia, con el objetivo de que estos se encuentren en posibilidad de detectar cualquier irregularidad en el Centro;
+XII.- CUIDAR BAJO SU ESTRICTA RESPONSABILIDAD QUE LOS VEHICULOS AUTORIZADOS SEAN MANEJADOS SOLO POR QUIENES TENGAN LICENCIA DE CHOFER DE SERVICIO PUBLICO VIGENTE;
 
-VII.- Los padres o tutores de los usuarios podrán proponer temáticas sobre las capacitaciones, lo cual deberá ser tomado en cuenta por los Centros de Atención Infantil para el diseño de las mismas;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-VIII.- Contar con el equipamiento que determine la autoridad competente para combatir cualquier contingencia que ponga en peligro la integridad física de las niñas y niños, así como vigilar el funcionamiento óptimo del equipo;
+XIII.- DAR AVISO PREVIO A LA SECRETARIA EN CASO DE CAMBIO DE DOMICILIO Y LAS RAZONES QUE ORIGINEN ESTE;
 
-IX.- Tener, en un lugar visible las autorizaciones que expidan las instancias correspondientes, así como el programa interno de protección civil;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-X.- Colaborar con las autoridades para facilitar las tareas de vigilancia e inspección y poner a disposición de los usuarios todos los informes y reportes con motivo de dichas actividades;
+XIV.- PROPORCIONAR A LA SECRETARIA LA INFORMACION TECNICA QUE SE LE SOLICITE; Y
 
-XI.- Informar oportunamente a la autoridad correspondiente cualquier situación que pueda poner en riesgo la integridad física, emocional, mental o la seguridad jurídica de las niñas y niños;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-XII.- Mantener una matrícula de reserva equivalente al diez por ciento del total de su capacidad, para efecto de cubrir las reubicaciones derivadas de la sanción a la que se refiere el artículo 72 de esta Ley; y
+XV.- OBSERVAR ESTA LEY EN LO RELATIVO A LAS CONDICIONES Y CARACTERISTICAS DE LAS TERMINALES Y SITIOS, ASI COMO A LOS SEÑALAMIENTOS DETERMINADOS POR LA SECRETARIA.
 
-XIII.- Las demás obligaciones que éste u otros ordenamientos legales establezcan.
+###### ARTICULO 46.
 
-###### ARTÍCULO 40.
+EN CASO DE QUE LOS CONCESIONARIOS O PERMISIONARIOS NO CUMPLAN CON LAS OBLIGACIONES ESTABLECIDAS EN EL ARTICULO ANTERIOR, SE HARAN ACREEDORES A LAS SANCIONES SEÑALADAS EN LA LEY.
 
-Los Centros de Atención Infantil deberán contar con un Programa Interno de Protección Civil, el cual deberá contener el ámbito de competencia y responsabilidad de los prestadores de servicio en cada una de las modalidades, así como cumplir con lo establecido en los términos de referencia que al efecto se emitan en la materia.
+### CAPITULO IV. DE LA CANCELACION DE LAS CONCESIONES Y PERMISOS
 
-El Programa Interno deberá ser dictaminado y autorizado por la Secretaría de Protección Civil o las autoridades municipales correspondientes, según sea el caso, y será sujeto a evaluación de manera periódica por las instancias correspondientes, apegado a los términos de referencia que se encuentren vigentes.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 41.
+###### ARTICULO 47.
 
-Los Centros de Atención Infantil deberán contar con instalaciones hidráulicas, eléctricas, equipos portátiles y fijos contra incendios, intercomunicación y especiales, de acuerdo con los requerimiento (sic) de la Secretaría de Protección Civil del Estado, observando en todo momento la clasificación de riesgos establecidos en las Normas Oficiales Mexicanas para tal efecto, de igual manera, deberán contar con dictamen de unidades verificadoras.
+LAS CONCESIONES Y PERMISOS SE CANCELARAN POR LA SECRETARIA CUANDO:
 
-Ningún establecimiento que por su naturaleza, giro o actividad, o por el material que maneja, ponga en riesgo la integridad física y emocional de niñas y niños y demás personas que concurran a los Centros de Atención Infantil, podrá estar ubicado a una distancia menor a cien metros a la redonda.
+A).- EL QUE LA OBTENGA NO PRESTE EL SERVICIO DIRECTAMENTE TRANSMITIENDO DE CUALQUIER FORMA SU USO, O QUE DEJE DE PRESTARLO SIN CAUSA JUSTIFICADA POR MAS DE NOVENTA DIAS EN UN AÑO. EN ESTOS NOVENTA DIAS SE ESTIMAN INCLUIDOS LOS NECESARIOS PARA EL MANTENIMIENTO DEL VEHICULO;
 
-Los Municipios del Estado deberán contemplar las distancias a que se refiere el presente artículo en la determinación de sus respectivos programas de desarrollo urbano y autorizaciones de licencias de funcionamiento o construcción que al efecto autoricen.
+B).- EL MEDIO DE TRANSPORTE QUE UTILICE NO CUMPLA CON LAS CONDICIONES QUE EL SERVICIO REQUIERA. PREVIAMENTE A LA APLICACION DE ESTA CAUSAL, SE PREVENDRA AL TITULAR PARA QUE EN EL TERMINO IMPRORROGABLE DE TRES MESES REPONGA O REPARE SU EQUIPO;
 
-###### ARTÍCULO 42.
+C).- SE PRESTE EL SERVICIO CON UNIDADES NO AUTORIZADAS;
 
-Para el funcionamiento y autorización de los Centros de Atención Infantil se deberán definir las rutas de evacuación, así como la señalización y avisos de protección civil según lo establezca la Ley de Protección Civil, Prevención y Atención de Desastres del Estado y demás ordenamientos en la materia.
+D).- EN EL LAPSO DE DOS AÑOS EL TITULAR O SUS OPERADORES HAYAN INCURRIDO EN LA PRESTACION DEL SERVICIO Y POR SU RESPONSABILIDAD EN ACCIDENTES VIALES DE GRAVEDAD, O EN OTROS HECHOS QUE RESULTEN DELICTUOSOS DEL OPERADOR CUANDO EL CONCESIONARIO HAYA PERMITIDO LAS CAUSAS QUE LES DIERON ORIGEN;
 
-###### ARTÍCULO 43.
+E).- EL TITULAR, POR SI O POR INTERPOSITA PERSONA, LO SEA DE MAS DE DIEZ CONCESIONES O PERMISOS PARA CUALQUIERA DE LAS MODALIDADES DE SERVICIO;
 
-Con relación a la evacuación del inmueble se estará a lo establecido en la Ley de Protección Civil, Prevención y Atención de Desastres del Estado de Campeche, su reglamento y disposiciones de referencia que al efecto emita la autoridad competente.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 44.
+F).- SE GRAVE O SE TRANSMITA LA CONCESION O PERMISO SIN AUTORIZACION DE LA DIRECCION DE TRANSITO Y TRANSPORTE;
 
-Periódicamente se deberá realizar un simulacro con la participación de todas las personas que ocupen regularmente el inmueble del Centro de Atención Infantil. Así mismo, deberán llevarse a cabo sesiones informativas en cada simulacro, con el objeto de transmitir a los ocupantes las instrucciones de comportamiento frente situaciones de emergencia, donde se deberá invitar como testigos a padres de familia.
+G).- LAS NECESIDADES DE SERVICIO IMPONGAN LA SUPRESION DE LA RUTA O VIA PARA LA QUE LE FUE OTORGADA LA CONCESION, EN CUYO CASO TENDRA PREFERENCIA PARA OBTENER LA QUE LA SUSTITUYA;
 
-### CAPÍTULO III. DE LA POLÍTICA ESTATAL EN MATERIA DE PRESTACIÓN DE SERVICIOS DE LOS CENTROS DE ATENCIÓN INFANTIL
+H).- SE UTILICE EL MEDIO DE TRANSPORTE PARA REALIZAR CUALQUIER ACTIVIDAD ILICITA CON CONOCIMIENTO, AUTORIZACION O TOLERANCIA DEL TITULAR DE LA CONCESION;
 
-###### ARTÍCULO 45.
+I).- SE SUSPENDA O ABANDONE EL SERVICIO, SE COMETAN ACTOS VANDALICOS POR CUALQUIER MOTIVO O SE INCURRA EN LA COMISION DEL ILICITO DE ATAQUES A LAS VIAS DE COMUNICACION, UTILIZANDO EL MEDIO DE TRANSPORTE;
 
-Cualquier modificación o reparación estructural del inmueble y obras de mantenimiento incluyendo servicios de fumigación, deberá realizarse por personal capacitado, fuera del horario en el que se prestan los servicios. Deberán hacerse del conocimiento de las autoridades de protección civil estatales o municipales, según sea el caso, quienes tendrán la obligación de llevar a cabo las revisiones correspondientes a través de su personal calificado.
+J).- SE EXPLOTEN RUTAS PARA LAS QUE NO FUERON AUTORIZADOS;
 
-###### ARTÍCULO 46.
+K).- SE MODIFIQUEN O ALTEREN LAS TARIFAS AUTORIZADAS; Y
 
-Las zonas de paso, patios y zonas de recreo no se podrán utilizar en ningún caso como zonas de almacenaje. Cuando por necesidad se tuvieran que utilizar estas zonas para depositar objetos, deberán ser siempre temporal y fuera del horario de servicio y, en todo caso, se tomarán todas las medidas necesarias para evitar accidentes e incidentes.
+L).- CUANDO SE PRESTE UN SERVICIO DIFERENTE AL AUTORIZADO.
 
-### CAPÍTULO IV. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PRESTACIÓN DE SERVICIOS DE LOS CENTROS DE ATENCIÓN INFANTIL
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 47.
+###### ARTICULO 48.
 
-El mobiliario y materiales que se utilicen en el inmueble deben mantenerse en buenas condiciones de uso, retirándose aquellos que puedan ser susceptibles de causar daños o lesiones debido a su mal estado. Los acabados interiores de los inmuebles serán adecuados a la edad de niñas y niños.
+ANTES DE PROCEDER A LA CANCELACION DE UNA CONCESION O PERMISO SE CITARA AL INTERESADO, HACIENDOLE SABER LA CAUSA O CAUSAS POR LAS QUE LA DIRECCION DE TRANSITO Y TRANSPORTE LA ESTIMA OPERANTE, PRECISANDOLE LOS ELEMENTOS DE PRUEBA QUE SE TENGAN PARA CONSIDERAR QUE HA INCURRIDO EN ALGUNA DE ELLAS, Y SE LE OTORGARA UN PLAZO DE QUINCE DIAS HABILES PARA QUE OFREZCA PRUEBAS Y ALEGUE EN SU DEFENSA.
 
-###### ARTÍCULO 48.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-El inmueble deberá acreditar para su funcionamiento, todos los requisitos establecidos en el programa interno de protección civil y las disposiciones sanitarias, sus respectivos reglamentos y demás ordenamientos en la materia.
+###### ARTICULO 49.
 
-###### ARTÍCULO 49.
+EN LA AUDIENCIA QUE PARA TAL EFECTO SE CELEBRE Y QUE DEBERA FIJARSE EL DIA QUE CONCLUYA EL PLAZO SEÑALADO, SE LE ADMITIRAN TODA CLASE DE PRUEBAS A EXCEPCION DE LA CONFESIONAL DE LAS AUTORIDADES DEL RAMO, Y RECIBIDAS QUE SEAN, LA SECRETARIA DICTARA LA RESOLUCION QUE PROCEDA.
 
-Los Centros de Atención Infantil podrán hacer uso de equipos o sistemas tecnológicos para la captación o grabación de imágenes o sonidos como una medida de seguridad adicional para prevenir cualquier riesgo o emergencia que se presente en las instalaciones, salvaguardando la integridad de los menores en términos de las disposiciones legales aplicables.
+###### ARTICULO 50.
 
-###### ARTÍCULO 50.
+NO SE PODRAN EXPEDIR PERMISOS NI AUTORIZACIONES PROVISIONALES PARA LA PRESTACION DEL SERVICIO PUBLICO DE TRANSPORTE, SINO EN LOS SIGUIENTES CASOS:
 
-El Gobierno del Estado y los Municipios, en el ámbito de sus respectivas competencias y conforme lo determine el Reglamento, otorgarán las autorizaciones respectivas a los Centros de Atención Infantil cuando los interesados cumplan las disposiciones que señala esta Ley y los requisitos siguientes:
+1).- EN CASO DE LA PRESTACION EVENTUAL DE UN SERVICIO ESPECIAL;
 
-I.- Presentar la solicitud en la se indique: la población por atender, los servicios que se proponen ofrecer, los horarios de funcionamiento, el nombre y datos generales del o los responsables, el personal con que se contará y su ubicación;
+2).- EN CASO DE SUSTITUCION TEMPORAL DE VEHICULOS EN CUALQUIER CLASE DE SERVICIOS;
 
-II.- Contar con una póliza de seguro ante eventualidades que pongan en riesgo la vida y la integridad física de niñas y niños durante su permanencia en los Centros de Atención Infantil. Dicha póliza deberá cubrir la responsabilidad civil y riesgos profesionales del prestador del servicio frente a terceros a consecuencia de un hecho que cause daño. Las condiciones de las pólizas deberán ajustarse a lo dispuesto por la Ley General de Instituciones y Sociedades Mutualistas de Seguros, así como a las disposiciones que al efecto se expidan;
+3).- EN CASOS DE EXTREMA URGENCIA Y HASTA POR UN PLAZO MAXIMO DE SIETE DIAS, RENOVABLE POR UNA SOLA VEZ, EN TODA CLASE DE SERVICIOS; Y
 
-III.- Contar con un Reglamento Interno;
+4).- CON EL OBJETO DE COMPROBAR LA NECESIDAD DE AUMENTAR EL SERVICIO O CAMBIAR ALGUN ITINERARIO, EN CUALQUIER CLASE DE SERVICIO.
 
-IV.- Contar con manuales técnico-administrativos, de operación y de seguridad;
+LA EXPEDICION DE AUTORIZACIONES PROVISIONALES FUERA DE LOS CASOS DE EXCEPCION ESTABLECIDOS EN ESTE PRECEPTO, SERA CAUSA DE DESTITUCION DEL FUNCIONARIO O EMPLEADO SIN PERJUICIO DE HACERSE ACREEDOR A LA RESPONSABILIDAD ADMINISTRATIVA Y A LAS PENAS EN QUE INCURRA QUIEN COMETA EL DELITO DE ABUSO DE AUTORIDAD.
 
-V.- Contar con manual para las madres, padres o quienes tenga la tutela, custodia o la responsabilidad de crianza y cuidado de la niña o niño;
+LO MISMO SE OBSERVARA CUANDO ALGUNA AUTORIDAD, SIN TENER FACULTADES PARA ELLO, EXPIDA CONCESIONES O PERMISOS, O CUANDO ESTANDO FACULTADA LOS EXPIDA SIN CUMPLIR CON LOS REQUISITOS EXIGIDOS POR ESTA LEY.
 
-VI.- Contar con un programa de trabajo que contenga las actividades que se desarrollarán en los Centros de Atención Infantil;
+### CAPITULO V. DE LAS FACULTADES DE LAS AUTORIDADES DE TRANSPORTE
 
-VII.- Contar con la infraestructura, instalaciones y equipamiento que garanticen la prestación del servicio en condiciones de seguridad para niñas, niños y el personal;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-VIII.- Contar con un Programa Interno de Protección Civil aprobado o revalidado según sea el caso de conformidad con las disposiciones contenidas en la Ley de Protección Civil, Prevención y Atención de Desastres del Estado y demás ordenamientos en la materia;
+###### ARTICULO 51.
 
-IX.- Cumplir con las licencias, permisos y demás autorizaciones en materia de protección civil, uso de suelo, funcionamiento, ocupación, seguridad y operaciones, seguridad estructural del inmueble y aspectos de carácter sanitario. En sus ámbitos de competencia, las autoridades mencionadas deberán atender, en tiempo y forma, las solicitudes presentadas en tal sentido;
+COMPETE A LA SECRETARIA PLANEAR, AUTORIZAR, VIGILAR, COORDINAR Y CONTROLAR LOS SERVICIOS DE TRANSPORTE, Y PARA ELLO TENDRA COMO ORGANOS AUXILIARES A LAS AUTORIDADES MUNICIPALES Y LAS MAS AMPLIAS FACULTADES PARA HACER CUMPLIR SUS DETERMINACIONES.
 
-X.- Cumplir con licencia sanitaria que para tal efecto expida la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Campeche;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-XI.- Contar con documentos que acrediten la aptitud y capacitación requerida de las personas que prestarán los servicios, expedidos por instituciones legalmente reconocidas y autorizadas para expedir dichas acreditaciones;
+###### ARTICULO 52.
 
-XII.- Contar con información de los recursos financieros;
+LA DETERMINACION, REVISION Y MODIFICACION DE LAS TARIFAS DEL SERVICIO, DE SUS ITINERARIOS Y HORARIOS, CORRESPONDE A LA DIRECCION DE TRANSITO Y TRANSPORTE CONFORME A LAS NECESIDADES DEL MISMO, PREVIO EL ESTUDIO TECNICO QUE REALICE, Y LA CONSULTA AL CONSEJO CONSULTIVO DEL TRANSPORTE.
 
-XIII.- Contar con información de mobiliario, equipo, material didáctico y de consumo para operar;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-XIV.- Contar con la autorización correspondiente, expedida por la Secretaría de Educación, para impartir educación inicial y preescolar; y
+###### ARTICULO 53.
 
-XV.- Cumplir con los requerimientos previstos para la modalidad y tipo correspondiente que establezca el Reglamento de esta Ley, las disposiciones normativas y técnicas de la Ley Federal sobre Metrología y Normalización y las Normas Oficiales Mexicanas aplicables, normas técnicas y términos de referencia.
+LA SECRETARIA GENERAL DE GOBIERNO INSPECCIONARA PERIODICAMENTE LAS VIAS DE COMUNICACION Y LOS MEDIOS DE TRANSPORTE, AUXILIANDOSE DE LAS AUTORIDADES MUNICIPALES EN SUS RESPECTIVAS CIRCUNSCRIPCIONES.
 
-### CAPÍTULO V. DEL CONSEJO ESTATAL DE LOS CENTROS DE ATENCIÓN INFANTIL
+LOS CONCESIONARIOS Y PERMISIONARIOS ESTAN OBLIGADOS A PROPORCIONAR CUALESQUIER DATO RELATIVO AL SERVICIO QUE LAS AUTORIDADES DEL TRANSPORTE LES REQUIERAN.
 
-###### ARTÍCULO 51.
+### CAPITULO VI. TARIFAS, HORARIOS E ITINERARIOS
 
-Las autorizaciones a que se refiere el artículo anterior tendrán una vigencia de por lo menos un año, sin perjuicio de lo dispuesto en las disposiciones legales y administrativas aplicables, teniéndose éstas que renovar por un periodo igual, siempre y cuando se cumplan con los requisitos establecidas en esta Ley y sus reglamentos.
+###### ARTICULO 54.
 
-Ningún Centro de Atención Infantil podrá prestar servicios para la atención, cuidado y desarrollo integral infantil sin contar con la autorización que corresponda en materia de protección civil.
+LA DETERMINACION DE ITINERARIOS, TARIFAS Y HORARIOS SE ESTABLECERA AL OTORGAR LA CONCESION O PERMISO CORRESPONDIENTE.
 
-###### ARTÍCULO 52.
+LOS AUTOMOVILES DE ALQUILER SOLO PODRAN ESTACIONARSE EN EL SITIO AUTORIZADO; SIN EMBARGO, PODRAN RECOGER PASAJE EN CUALQUIER PUNTO EN QUE LOS USUARIOS LO SOLICITEN.
 
-El programa de trabajo a que se refiere la fracción VI del artículo 50 de esta Ley deberá contener al menos la siguiente información:
+###### ARTICULO 55.
 
-I.- Los derechos de niñas y niños enumerados en el artículo 8 de la presente Ley;
+LOS ITINERARIOS SE FIJARAN DE ACUERDO AL NUMERO DE KILOMETROS POR RECORRERSE, NOMBRE DE POBLACIONES, REGIMEN DE DISTANCIA ENTRE MUNICIPIO O ENTRE LOS PUNTOS EXTREMOS QUE LE FIJE LA CONCESION O PERMISO, TOMANDO EN CUENTA LA LOCALIZACION DE PARADEROS OBLIGATORIOS EN LOS PUNTOS INTERMEDIOS.
 
-II.- Actividades formativas y educativas y los resultados esperados;
+###### ARTICULO 56.
 
-III.- La forma en que se dará cumplimiento a cada una de las actividades que señala el artículo 9 de la presente Ley;
+LAS TARIFAS POR LOS SERVICIOS QUE SE PROPORCIONEN COMPRENDERAN LAS CUOTAS Y CONDICIONES CONFORME A LAS CUALES DEBERAN APLICARSE, Y ESTARAN SUJETAS A LAS SIGUIENTES BASES GENERALES:
 
-IV.- El perfil de cada una de las personas que laborarán en el Centro de Atención Infantil va directamente vinculadas al trabajo con niñas y niños, así como las actividades concretas que se les encomendarán;
+I.- SERAN CONFORME AL ESTADO DE TRANSITABILIDAD DE LOS CAMINOS O CALLES A LOS QUE ESTE SUJETO EL ITINERARIO CORRESPONDIENTE;
 
-V.- Las formas y actividades de apoyo a los padres, las personas que ejerzan la tutela o custodia o quien sea responsable del cuidado y crianza, para fortalecer la comprensión de sus funciones en la atención, cuidado y desarrollo integral de la niña o niño;
+II.- SE TENDRAN EN CUENTA LAS NECESIDADES DE LA POBLACION O ZONAS EN LAS QUE SE PRESTARA EL SERVICIO PUBLICO, TOMANDO EN CONSIDERACION EL NIVEL MEDIO DE INGRESO DE LOS POSIBLES USUARIOS, EL COSTO EN LA OPERACION DE LA PRESTACION DEL SERVICIO Y EL PROMEDIO DE PASAJE QUE DEBERA SUJETARSE A TARIFAS ESPECIALES; EN TODOS LOS CASOS SE DEBERA CALCULAR QUE EL CONCESIONARIO O PERMISIONARIO OBTENGA UNA GANANCIA MODERADA;
 
-VI.- El mecanismo que garantice la confiabilidad y seguridad para la identificación o reconocimiento de las personas autorizadas para entregar y recibir a niñas y niños en los Centros de Atención Infantil;
+III.- EL AREA AFECTA A LA CIRCULACION DEL SERVICIO COLECTIVO Y DE AUTOS DE ALQUILER SE DIVIDIRA EN TANTOS SECTORES O CUADROS CUANTOS SE ESTIMEN PERTINENTES, ATENDIENDO A LAS DISTANCIAS POR RECORRER Y A LA DENSIDAD DEMOGRAFICA BENEFICIARIA DEL SERVICIO;
 
-VII.- Los procedimientos de recepción, procesamiento, resolución y seguimiento de quejas y sugerencias por parte de niñas, niños, la madre, el padre o quien ejerza la custodia legal; y
+IV.- SE FORMULARAN Y APLICARAN OBSERVANDO PERFECTA IGUALDAD DE TRATAMIENTO PARA TODOS LOS CONCESIONARIOS O PERMISIONARIOS;
 
-VIII.- El procedimiento para la entrega de información a los padres, las personas que ejerzan la tutela o custodia o quien sea responsable del cuidado y crianza, sobre el desempeño y desarrollo integral de niñas y niños.
+V.- COMENZARAN A REGIR TRES DIAS DESPUES DE SU APROBACION O DE SU MODIFICACION;
 
-La información y los documentos a que se refiere este artículo, estarán siempre a disposición, y se les deberá entregar copia de ella, a las personas que tengan la tutela o custodia o de quienes tengan la responsabilidad del cuidado y crianza de niñas y niños.
+VI.- SI PARA UN SERVICIO DETERMINADO FUERAN APLICABLES DIVERSAS TARIFAS, LOS CONCESIONARIOS O PERMISIONARIOS ESTARAN OBLIGADOS A COMBINARLAS SI DE ELLO RESULTA VENTAJA PARA LOS USUARIOS; Y
 
-### CAPÍTULO XI. DE LA CAPACITACIÓN Y CERTIFICACION DEL PERSONAL
+VII.- SE APLICARAN SIN VARIACION ALGUNA A TODOS LOS USUARIOS, SALVO LO DISPUESTO POR ESTA LEY.
 
-###### ARTÍCULO 53.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-El personal que labore en los Centros de Atención Infantil que presten servicios estará obligado a participar en los programas de formación, actualización, capacitación y certificación de competencias, así como de protección civil que establezcan las autoridades competentes.
+LOS AUTOMOVILES DE ALQUILER DEBERAN USAR TAXIMETRO PARA EL COBRO DE LAS TARIFAS AUTORIZADAS EN AQUELLAS POBLACIONES EN QUE ASI LO DETERMINE LA SECRETARIA DE ACUERDO A LOS ESTUDIOS TECNICOS QUE ESTA REALICE Y QUE RESULTE CONVENIENTE PARA LA MEJOR PRESTACION DEL SERVICIO. EN TODO CASO SERA OIDA LA OPINION DEL CONSEJO CONSULTIVO DE TRANSPORTE.
 
-El número de personal dependerá de la modalidad y tipo de las mismas conforme a lo dispuesto en el Reglamento de la presente Ley.
+###### ARTICULO 57.
 
-### CAPÍTULO VI. DEL REGISTRO ESTATAL DE LOS CENTROS DE ATENCIÓN INFANTIL
+CUANDO EL SERVICIO SEA FORANEO, SE TOMARAN COMO BASE LA DISTANCIA ENTRE LOS PUNTOS DEL ITINERARIO AUTORIZADO, LAS VELOCIDADES MAXIMAS PERMITIDAS, EL ESTADO DE TRANSITABILIDAD DEL CAMINO Y LA IMPORTANCIA DE LOS CENTROS DE POBLACION COMPRENDIDOS EN EL ITINERARIO.
 
-###### ARTÍCULO 54.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-Los prestadores de servicios de los Centros de Atención Infantil, promoverán la capacitación de su personal de acuerdo a la modalidad correspondiente y sin perjuicio de lo establecido por la legislación laboral.
+###### ARTICULO 58.
 
-###### ARTÍCULO 55.
+LA SECRETARIA PODRA FIJAR TARIFAS ESPECIALES PARA TRANSPORTE URBANO Y SEMI-URBANO DE PASAJEROS, MISMAS QUE BENEFICIARAN A ESTUDIANTES DE CUALQUIER GRADO Y SENECTOS, CON LA OBLIGACION DE JUSTIFICAR SU CALIDAD MEDIANTE LA EXHIBICION DE LA CREDENCIAL VIGENTE CORRESPONDIENTE.
 
-El Estado y los Municipios en sus respectivos ámbitos de competencia determinarán, conforme a la modalidad y tipo de atención, las competencias, capacitación y aptitudes con las que deberá contar el personal que pretenda laborar en los Centros de Atención Infantil.
+###### ARTICULO 59.
 
-###### ARTÍCULO 56.
+LOS NIÑOS MENORES DE CINCO AÑOS NO PAGARAN TARIFA ALGUNA; FUERA DE ESTE CASO, DE LAS TARIFAS ESPECIALES Y DE LO PREVISTO EN LOS ARTICULOS 60 Y 61, LAS TARIFAS SERAN APLICADAS UNIFORMEMENTE A TODAS LAS PERSONAS QUE HAGAN USO DE LOS VEHICULOS DESTINADOS AL SERVICIO PUBLICO DEL TRANSPORTE DE PERSONAS.
 
-El personal que labore en los Centros de Atención Infantil garantizará un ambiente de respeto en el marco de los derechos de niñas y niños.
+###### ARTICULO 60.
 
-###### ARTÍCULO 57.
+PODRAN VIAJAR EN CADA VEHICULO DESTINADO AL SERVICIO URBANO DE PASAJEROS, SIN COSTO ALGUNO, HASTA DOS PERSONAS DE LAS QUE DESEMPEÑAN LOS SIGUIENTES EMPLEOS:
 
-El Estado y los Municipios gestionarán, de manera permanentemente con las instancias correspondientes, acciones para capacitar o certificar, al personal que labora en los Centros de Atención Infantil.
+I.- CARTEROS;
 
-### CAPÍTULO XII. DE LA PARTICIPACIÓN DE LOS SECTORES SOCIAL Y PRIVADO
+II.- AGENTES DE LA POLICIA JUDICIAL;
 
-###### ARTÍCULO 58.
+III.- MENSAJEROS DE TELEGRAFOS;
 
-A través de las políticas públicas relacionadas con la prestación de servicio de los Centros de Atención Infantil se fomentará la participación de los sectores social y privado, en la consecución del objeto de esta Ley y de conformidad con la política estatal en la materia.
+IV.- AGENTES DE LA POLICIA PREVENTIVA UNIFORMADOS;
 
-###### ARTÍCULO 59.
+V.- AGENTES DE TRANSITO UNIFORMADOS;
 
-El Estado y los Municipios, dentro de sus respectivos ámbitos de competencia, garantizarán las acciones desarrolladas por los particulares en la consecución del objeto de la presente Ley.
+VI.- MILITARES UNIFORMADOS; Y
 
-### CAPÍTULO XIII. DE LA INSPECCIÓN Y VIGILANCIA
+VII.- BOMBEROS.
 
-###### ARTÍCULO 60.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-Las dependencias y entidades de la administración pública estatal y de los municipios, en el ámbito de sus respectivas competencias y conforme lo determine el Reglamento de la presente Ley, deberán efectuar, cuando menos cada seis meses, visitas de verificación administrativa a los Centros de Atención Infantil, de conformidad con la normatividad legal aplicable para la materia de su competencia, y en caso de que tales visitas no estén reguladas en su marco legal de actuación, se deberán aplicar las disposiciones de la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche.
+###### ARTICULO 61.
 
-###### ARTÍCULO 61.
+LOS CONCESIONARIOS ESTAN OBLIGADOS A TRANSPORTAR GRATUITAMENTE EN LOS VEHICULOS DESTINADOS AL SERVICIO PUBLICO A LOS INSPECTORES NOMBRADOS POR LA SECRETARIA, EN SERVICIO Y PREVIA IDENTIFICACION.
 
-Las dependencias y entidades de la administración pública estatal y los municipios, según corresponda a su ámbito de competencia, deberán contar con verificadores que tendrán a su cargo la inspección del debido cumplimiento de las disposiciones de la presente Ley.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 62.
+###### ARTICULO 62.
 
-Las visitas a que se refiere el artículo anterior, tendrán los siguientes objetivos:
+LA SECRETARIA PODRA EN CUALQUIER TIEMPO MODIFICAR LOS ITINERARIOS, TARIFAS Y HORARIOS POR RAZON DE INTERES PUBLICO.
 
-I.- Verificar el cumplimiento de los requisitos señalados por esta Ley y demás ordenamientos aplicables por parte de los prestadores de servicios de los Centros de Atención Infantil; y
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-II.- Informar a la autoridad responsable de la detección oportuna de cualquier riesgo para la integridad física o psicológica de niñas y niños y garantizar las acciones que conlleven a su oportuna actuación.
+###### ARTICULO 63.
 
-###### ARTÍCULO 63.
+EN LAS CLASES DE SERVICIO NO PREVISTO POR ESTA LEY, LA SECRETARIA PODRA FIJAR LOS ITINERARIOS, HORARIOS Y TARIFAS QUE ESTIME CONVENIENTES, DE CONFORMIDAD CON LOS PRINCIPIOS GENERALES AQUI ESTABLECIDOS.
 
-El Consejo Estatal, en coordinación con los Municipios, implementará el Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento, el cual tendrá los siguientes objetivos:
+### CAPITULO VII. INSPECCION Y VIGILANCIA
 
-I.- Garantizar el mejoramiento progresivo y el fortalecimiento de los servicios para la atención, cuidado y desarrollo integral infantil;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-II.- Establecer, en el marco de la coordinación entre dependencias y entidades estatales, con las autoridades competentes de los gobiernos municipales, los mecanismos de colaboración técnico-operativa para lograr una vigilancia efectiva del cumplimiento de la presente ley y de la normatividad que regula los servicios de los Centros de Atención Infantil;
+###### ARTICULO 64.
 
-III.- Contemplar las medidas que resulten necesarias y efectivas, en el ámbito de sus competencias, para evitar la discrecionalidad y la corrupción en la asignación de autorizaciones para prestar servicios de los Centros de Atención Infantil; y
+CORRESPONDE A LA SECRETARIA REALIZAR PERIODICAMENTE LA INSPECCION TECNICA DE LAS VIAS DE COMUNICACION Y MEDIOS DE TRANSPORTE A QUE SE REFIERE ESTA LEY, DEBIENDO AUXILIARSE DE LAS AUTORIDADES MUNICIPALES EN LO QUE CORRESPONDE A SUS RESPECTIVAS CIRCUNSCRIPCIONES TERRITORIALES.
 
-IV.- Garantizar la detección y corrección oportuna de cualquier riesgo para la integridad física o psicológica de niñas y niños.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-### CAPÍTULO VII. DE LAS MODALIDADES Y TIPOS DE LOS CENTROS DE ATENCIÓN INFANTIL
+###### ARTICULO 65.
 
-###### ARTÍCULO 64.
+LOS CONCESIONARIOS Y PERMISIONARIOS ESTAN OBLIGADOS A PROPORCIONAR A LOS INSPECTORES DE LA SECRETARIA, PREVIO ACREDITAMIENTO DE SU FUNCION, LOS INFORMES Y DATOS QUE SEAN NECESARIOS PARA SU COMETIDO, Y CUANDO MEDIE MANDAMIENTO ESCRITO, A MOSTRARLES LOS DOCUMENTOS QUE ACREDITEN QUE SE ESTA CUMPLIENDO EN DEBIDA FORMA CON LA CONCESION O PERMISO OTORGADO.
 
-La madre, el padre, tutor o la persona que tenga la responsabilidad de cuidado y crianza, podrá solicitar la intervención de la autoridad correspondiente para reportar cualquier irregularidad o incumplimiento a la normatividad que pueda constituir un riesgo en los Centros de Atención Infantil.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-Los Centros de Atención Infantil podrán diseñar reglamentos para la participación de los tutores en actividades de inspección y vigilancia, siempre y cuando no se vulneren los principios establecidos en la normatividad aplicable.
+###### ARTICULO 66.
 
-### CAPÍTULO XIV. DE LA EVALUACIÓN
+LA DIRECCION DE TRANSITO Y TRANSPORTE PODRA SOLICITAR A LAS ORGANIZACIONES DE TRANSPORTISTAS LOS DATOS TECNICOS Y ESTADISTICOS QUE CONSIDERE CONVENIENTES PARA EL MEJORAMIENTO DE LA PRESTACION DEL SERVICIO.
 
-###### ARTÍCULO 65.
+###### ARTICULO 67.
 
-La evaluación de la Política Estatal en Materia de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil estará a cargo del Consejo Estatal. Dicha evaluación permitirá conocer el grado de cumplimiento de los principios, objetivos, criterios, lineamientos y directrices a seguir por las dependencias y entidades del Estado y de los Municipios, competentes en la materia, así como medir el impacto de la prestación de los servicios en niñas y niños.
+ES INCOMPATIBLE EL CARGO DE INSPECTOR CON CUALQUIER COMISION O EMPLEO OTORGADO POR LOS CONCESIONARIOS O PERMISIONARIOS. LOS INSPECTORES TAMPOCO PODRAN CELEBRAR NINGUN CONTRATO CON LOS MISMOS NI RECIBIR SUELDOS, EMOLUMENTOS, GRATIFICACIONES O PAGOS DE CUALQUIER GENERO.
 
-###### ARTÍCULO 66.
+###### ARTICULO 68.
 
-El Consejo Estatal llevará a cabo la evaluación a través de uno o varios organismos independientes que podrán ser instituciones de educación superior y de investigación científica, sean estas gubernamentales, o no gubernamentales sin fines de lucro. La guía de evaluación se formulará por el Consejo Estatal de manera anual y formará parte integral del reglamento de la presente Ley.
+NO SE PODRAN OTORGAR CONCESIONES O PERMISOS NI SE APROBARA SU TRANSFERENCIA A LOS FUNCIONARIOS DE TRANSPORTE DURANTE EL TERMINO DE SU ENCARGO NI DURANTE UN AÑO POSTERIOR A SU CONCLUSION.
 
-### CAPÍTULO XV. DE LAS MEDIDAS PRECAUTORIAS
+### CAPITULO VIII. DEL CONSEJO CONSULTIVO DE TRANSPORTE
 
-###### ARTÍCULO 67.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-Las autoridades verificadoras estatales y municipales competentes, sin perjuicio de las medidas de seguridad o cautelares que la legislación aplicable a su ámbito de competencia les otorgue, deberán imponer medidas precautorias en los Centros de Atención Infantil cuando adviertan situaciones que pudieran poner en riesgo la integridad de los sujetos de atención, cuidado y desarrollo integral infantil. Estas medidas son:
+###### ARTICULO 69.
 
-I.- Recomendación escrita, en la que se mencionen las medidas temporales o acciones urgentes, según la gravedad del riesgo, fijando un plazo de hasta treinta días naturales para corregir la causa que le dio origen;
+EXISTIRA UN CONSEJO CONSULTIVO DE TRANSPORTE QUE SE INTEGRARA CON LOS FUNCIONARIOS Y REPRESENTANTES DE LOS ORGANISMOS QUE SE SEÑALAN Y EN EL NUMERO QUE A CONTINUACION SE INDICA:
 
-II.- Apercibimiento escrito, el cual procederá en caso de que no se atienda la recomendación en el plazo establecido, señalándose un término de hasta diez días naturales para corregir la causa que lo motivó, y
+I.- SECRETARIO GENERAL DE GOBIERNO, O EL REPRESENTANTE QUE ESTE DESIGNE;
 
-III.- Suspensión total o parcial de actividades en el Centro de Atención Infantil que se mantendrá hasta en tanto se corrija la situación que le dio origen. Cuando a juicio de la autoridad la causa lo amerite, esta medida podrá imponerse con independencia de las demás señaladas en este artículo.
+II.- (DEROGADO, P.O. 11 DE OCTUBRE DE 2000)
 
-###### ARTÍCULO 68.
+III.- SECRETARIO DE FINANZAS Y ADMINISTRACION O EL REPRESENTANTE QUE ESTE DESIGNE;
 
-Los plazos a que se refiere el artículo anterior podrán ampliarse siempre y cuando ello se justifique a partir de la situación específica que originó la medida.
+IV.- DIRECTOR DE TRANSITO Y TRANSPORTE;
 
-### CAPÍTULO XVI. DE LAS INFRACCIONES Y SANCIONES
+V.- JEFES DE LOS DEPARTAMENTOS DE TRANSPORTE EN EL ESTADO;
 
-### CAPÍTULO VII (SIC). DE LOS CENTROS DE ATENCIÓN PARA NIÑAS Y NIÑOS CON DISCAPACIDAD
+VI.- UN REPRESENTANTE DE CADA UNO DE LOS SIGUIENTES ORGANISMOS, INDUSTRIAS E INSTITUCIONES:
 
-###### ARTÍCULO 69.
+A).- FEDERACION ESTATAL DE CAMARAS DE COMERCIO, SERVICIOS Y TURISMO;
 
-Cuando se agoten los plazos contemplados en los artículos 67 y 68 de esta Ley y de persistir la situación que dio origen a sus causas, las autoridades estatales y municipales competentes para otorgar las autorizaciones a que se refiere el artículo 50 de esta Ley, estarán obligados a imponer, en su ámbito de competencia, las siguientes sanciones administrativas:
+B).- CONFEDERACION PATRONAL DE LA REPUBLICA MEXICANA;
 
-I.- Multa administrativa por un monto equivalente de 50 hasta 500 Unidades de Medida y Actualización; y
+C).- CAMARA NACIONAL DE LA INDUSTRIA DE TRANSFORMACION;
 
-II.- Suspensión temporal de la autorización a que se refiere esta Ley; y
+D).- EMPRESAS MAQUILADORAS;
 
-III.- Revocación de la autorización a que se refiere esta Ley y la cancelación del registro.
+E).- INSTITUCIONES OFICIALES DE EDUCACION MEDIA SUPERIOR Y SUPERIOR QUE CONSIDERE LA SECRETARIA;
 
-###### ARTÍCULO 70.
+F).- FEDERACION DE ESTUDIANTES EN EL ESTADO;
 
-La multa administrativa será impuesta de conformidad con lo dispuesto en la normatividad aplicable y en los siguientes casos:
+G).- SECCIONES MAGISTERIALES EN EL ESTADO;
 
-I.- Impedir total o parcialmente el desarrollo de la visita por parte de los verificadores correspondientes;
+H).- CONFEDERACION DE TRABAJADORES DE MEXICO EN EL ESTADO; Y CONFEDERACION NACIONAL CAMPESINA;
 
-II.- Elaborar alimentos ofrecidos a niñas y niños contrario al plan nutricional respectivo o incumplir con los requisitos de alimentación balanceada establecidos en la Norma Oficial correspondiente;
+VII.- HASTA TRES REPRESENTANTES DE LAS ORGANIZACIONES DE TRANSPORTISTAS DE MAYOR IMPORTANCIA EN EL ESTADO DE ACUERDO AL NUMERO DE SUS AGREMIADOS, QUE SERAN DESIGNADAS POR LA SECRETARIA. CADA ORGANIZACION DESIGNARA LIBREMENTE A SU REPRESENTANTE.
 
-III.- Modificar la estructura del inmueble y/o la distribución de los espacios sin contar con los permisos de la autoridad competente;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-IV.- Incumplir con las medidas de salud y atención médica en los términos que establezca la normatividad correspondiente;
+###### ARTICULO 70.
 
-V.- Realizar, por parte del personal de los Centros de Atención Infantil, algún acto de discriminación contra cualquiera de sus integrantes; o
+EL CONSEJO SERA PRESIDIDO POR EL SECRETARIO O SU REPRESENTANTE, Y EL DIRECTOR DE TRANSITO Y TRANSPORTE FUNGIRA COMO SECRETARIO.
 
-VI.- Incumplir con cualquier requisito que para el funcionamiento se prevé en la presente Ley y en su reglamento, de acuerdo a las modalidades y tipos de los Centros de Atención Infantil.
+###### ARTICULO 71.
 
-###### ARTÍCULO 71.
+PARA SER MIEMBRO DEL CONSEJO CONSULTIVO SE REQUIERE:
 
-Las sanciones consistentes en multa se harán efectivas por la Secretaría de Finanzas del Estado o la Tesorería Municipal, según corresponda, mediante el procedimiento administrativo de ejecución, en los términos previstos por la normatividad aplicable.
+I.- SER CIUDADANO MEXICANO EN PLENO EJERCICIO DE SUS DERECHOS;
 
-###### ARTÍCULO 72.
+II.- TENER SU DOMICILIO EN EL ESTADO CON UNA ANTIGÜEDAD MINIMA DE UN AÑO;
 
-La suspensión temporal del Centro de Atención Infantil será impuesta, de conformidad con lo dispuesto en la normatividad aplicable y en los siguientes casos:
+III.- HABER TENIDO Y TENER BUENA CONDUCTA; Y
 
-I.- No contar con el personal competente o suficiente para brindar los servicios de los Centros de Atención Infantil de acuerdo a la modalidad y tipo de éstas;
+IV.- NO SER FUNCIONARIO O EMPLEADO PUBLICO, SALVO LOS QUE SEÑALA EL ARTICULO 69.
 
-II.- No regularizar la situación que dio origen a la imposición de la multa, de tal forma que las causas que originaron a la misma sigan vigentes o reincidentes;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-III.- Realizar actividades con niñas y niños fuera de las instalaciones del Centro de Atención Infantil sin el previo consentimiento escrito de los padres, tutores o quienes tengan la responsabilidad de su atención, cuidado y crianza;
+###### ARTICULO 72.
 
-IV.- El incumplimiento de los estándares mínimos de calidad y seguridad;
+EL CONSEJO SESIONARA EN FORMA ORDINARIA CADA SEIS MESES Y EXTRAORDINARIAMENTE CUANDO LO CITE EL SECRETARIO GENERAL DE GOBIERNO O CUANDO SEA CONVOCADO POR LA MAYORIA DE LOS MIEMBROS.
 
-V.- El descuido por parte del personal que ponga en peligro la salud o la integridad física o psicológica de niñas y niños;
+HABRA QUORUM CON LA ASISTENCIA DE MAS DE LA MITAD DE SUS MIEMBROS Y LOS ACUERDOS SE TOMARAN POR MAYORIA DE LOS PRESENTES. EN CASO DE EMPATE, EL PRESIDENTE TENDRA VOTO DE CALIDAD.
 
-VI.- En caso de pérdida de la vida o la existencia de lesiones graves en una niña o niño, en tanto se deslinde la responsabilidad al Centro de Atención Infantil o personal relacionado con el mismo; o
+EL SECRETARIO LEVANTARA EL ACTA QUE CORRESPONDA A CADA SESION.
 
-VIII (SIC).- Cuando se presenten hechos o actos de violencia física o psicológica en una niña o niño por parte del personal del Centro de Atención Infantil.
+EL CARGO DE CONSEJERO Y DE FUNCIONARIO DEL MISMO CONSEJO, SON HONORARIOS.
 
-En el supuesto contemplado en este artículo, una vez agotados los procedimientos administrativos o judiciales a que hubiere lugar, si se determina que existe responsabilidad para el Centro de Atención Infantil que haya causado la suspensión de actividades, éste deberá responder por los gastos que, en su caso, hubieren erogado los padres de familia o tutores usuarios para la reubicación de los menores en otros centros.
+###### ARTICULO 73.
 
-###### ARTÍCULO 73.
+EL CONSEJO, COMO ORGANO DE CONSULTA, TENDRA LAS SIGUIENTES ATRIBUCIONES:
 
-La revocación de la autorización y cancelación del registro será impuesta, de conformidad con lo dispuesto en la normatividad aplicable y en los siguientes casos:
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-I.- La pérdida de la vida o la existencia de lesiones graves en una niña o niño, acreditadas mediante sentencia ejecutoria que haya causado estado y sean atribuibles al incumplimiento de las disposiciones contenidas en la presente Ley;
+I.- COADYUVAR AL MEJORAMIENTO DE LA FUNCION PUBLICA EN MATERIA DE TRANSPORTE, ENCOMENDADA A LA SECRETARIA GENERAL DE GOBIERNO;
 
-II.- La existencia de cualquier delito sexual, signo de violencia o abuso sexuales de cualquier tipo debidamente acreditado al personal del Centro de Atención Infantil mediante sentencia ejecutoria que haya causado estado, cuando esta esté ligada directamente a la prestación de los servicios del Centro de Atención; o
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-III.- La no regularización de la situación que dio origen a la imposición de una suspensión temporal de tal forma que las causas que originaron la misma sigan vigentes.
+II.- OPINAR EN RELACION CON LAS MEDIDAS ADMINISTRATIVAS Y DE SERVICIO ADOPTADAS EN RELACION CON EL TRANSPORTE, POR LA SECRETARIA;
 
-### CAPÍTULO VIII. DE LAS OBLIGACIONES DE LOS CENTROS DE ATENCIÓN INFANTIL
+III.- REALIZAR ESTUDIOS Y PROGRAMAS RELACIONADOS CON EL DESARROLLO DE LOS TRANSPORTES Y LOS SERVICIOS PUBLICOS CONEXOS A ELLOS PARA PROCURAR EL USO ADECUADO Y EL MEJOR APROVECHAMIENTO DE LAS VIAS DE COMUNICACION EN BENEFICIO DE LA SOCIEDAD;
 
-###### ARTÍCULO 74.
+IV.- OPINAR EN RELACION A LA PRESTACION DEL SERVICIO PUBLICO DE TRANSPORTE DE PERSONAS, DE CARGA O MIXTO, AL OTORGAMIENTO DE CONCESIONES Y PERMISOS, SISTEMAS, MEDIOS, LINEAS, SITIOS, VEHICULOS, ITINERARIOS, TARIFAS Y HORARIOS, PARA COADYUVAR A UNA EXPEDITA Y ADECUADA SATISFACCION DE LAS NECESIDADES DE LOS USUARIOS;
 
-Las violaciones a los preceptos de esta Ley, sus reglamentos y disposiciones que de ella emanen, por parte de los servidores públicos del Estado o de los Municipios, constituyen infracción y serán sancionados en los términos de la Ley General de Responsabilidades Administrativas, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-### CAPÍTULO XVII. DEL RECURSO
+V.- HACER DEL CONOCIMIENTO DE LA SECRETARIA LAS DEFICIENCIAS ADMINISTRATIVAS Y DE SERVICIO QUE EXISTAN EN EL TRAMITE DE LOS ASUNTOS, ASI COMO LA CONDUCTA INDEBIDA DE FUNCIONARIOS Y EMPLEADOS, PROPONIENDO LAS SOLUCIONES DE CADA CASO; Y
 
-###### ARTÍCULO 75.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-Tratándose de los actos o resoluciones emitidas por las autoridades competentes, procederá el recurso de revisión establecido en la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche.
+VI.- SUGERIR Y ELABORAR EL ESTABLECIMIENTO DE CURSOS PARA EL PERSONAL DE LA SECRETARIA EN MATERIA DE TRANSPORTES.
 
-## TRANSITORIOS
+### CAPITULO IX. DE LAS INFRACCIONES Y SANCIONES
 
-Primero.- La presente Ley entrará en vigor el día 1° de enero de 2021, previa su publicación en el Periódico Oficial del Estado.
+###### ARTICULO 74.
 
-Segundo.- Las disposiciones reglamentarias de esta Ley deberán ser expedidas por el Poder Ejecutivo Estatal dentro de los 180 días siguientes a la entrada en vigor del presente decreto.
+SON INFRACCIONES LAS SIGUIENTES:
 
-Tercero.- Los prestadores de servicios para la atención, cuidado y desarrollo integral infantil que se encuentren operando con anterioridad a la entrada en vigor de esta Ley, contarán con un plazo de un año a partir de la entrada en vigor del presente decreto para adecuar los Centros de Atención Infantil y su normatividad interna con base en lo dispuesto en la presente Ley.
+I.- EL QUE SIN CONCESION O PERMISO OTORGADO EN LOS TERMINOS DE ESTA LEY PRESTE SERVICIO PUBLICO DE TRANSPORTE;
 
-Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Francisco de Campeche, Campeche, a los once días del mes de noviembre del año dos mil veinte.
+II.- DAÑAR, PERJUDICAR, DESTRUIR U OBSTRUIR, LAS VIAS DE COMUNICACION O LOS MEDIOS DE TRANSPORTE;
 
-C. Carlos Cesar Jasso Rodríguez, Diputado Presidente.- C. Leonor Elena Piña Sabido, Diputada Secretaria.- C. Jorge Jesús Ortega Pérez, Diputado Secretario.- Rúbricas.-
+III.- CONTINUAR EJERCIENDO LOS DERECHOS DERIVADOS DE UN PERMISO O CONCESION HABIENDOSE CANCELADO;
 
-CARLOS MIGUEL AYSA GONZÁLEZ, Gobernador del Estado de Campeche, mediante el presente Decreto, se hace saber a los habitantes del Estado de Campeche:
+IV.- INVADIR Y EJECUTAR INDEBIDAMENTE OBRAS QUE PERJUDIQUEN UNA VIA DE COMUNICACION;
 
-Que la LXIII Legislatura del H. Congreso del Estado Libre y Soberano de Campeche me ha dirigido el Decreto número 168, por lo que, en cumplimiento de lo dispuesto por los artículos 48, 49 y 71, fracción XVIII, de la Constitución Política del Estado de Campeche, lo sanciono, mando se imprima, publique y circule para su debida observancia.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los veinte días del mes de noviembre del año dos mil veinte.
+V.- APLICAR LOS CONCESIONARIOS O PERMISIONARIOS ITINERARIOS, HORARIOS Y TARIFAS CUANDO NO HUBIEREN SIDO APROBADAS POR LA SECRETARIA;
 
-EL GOBERNADOR DEL ESTADO DE CAMPECHE, LIC. CARLOS MIGUEL AYSA GONZÁLEZ, EL SECRETARIO GENERAL DE GOBIERNO, LIC. PEDRO ARMENTÍA LÓPEZ.- RÚBRICAS.
+VI.- CUALQUIERA OTRA PREVISTA EN LA LEY.
+
+###### ARTICULO 75.
+
+LAS SANCIONES QUE SE APLIQUEN CON MOTIVO DE LAS INFRACCIONES MENCIONADAS SERAN:
+
+I.- AMONESTACION;
+
+II.- MULTA;
+
+III.- SUSPENSION EN LA PRESTACION DEL SERVICIO PARA LOS CONCESIONARIOS O PERMISIONARIOS Y LAS SANCIONES PECUNIARIAS QUE ENSEGUIDA SE ESTABLEZCAN; Y
+
+IV.- CANCELACION DE LA CONCESION O PERMISO.
 
 ###### ARTICULO 76.
 
@@ -885,7 +897,7 @@ LA SUSPENSION CONCEDIDA UNICAMENTE PRODUCIRA EL EFECTO DE QUE LAS COSAS SE MANTE
 
 EN LA TRAMITACION DE LOS RECURSOS QUE SE REGULAN EN ESTE CAPITULO SE APLICARA EN LO CONDUCENTE SUPLETORIAMENTE EL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO.
 
-### CAPÍTULO IX. DE LAS MEDIDAS DE SEGURIDAD Y DE PROTECCION CIVIL
+### CAPITULO X. PRESCRIPCION
 
 ###### ARTICULO 88.
 
@@ -903,7 +915,9 @@ LA PRESCRIPCION SE INTERRUMPIRA CON LA INICIACION DEL PROCEDIMIENTO ADMINISTRATI
 
 LOS INTERESADOS PODRAN HACER VALER LA PRESCRIPCION POR VIA DE EXCEPCION. LA AUTORIDAD DEBERA DECLARARLA DE OFICIO.
 
-### CAPÍTULO X. DE LAS AUTORIZACIONES
+### CAPITULO XI. DEL REGISTRO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 92.
 
@@ -951,9 +965,9 @@ SEGUNDO.- SE ABROGA LA LEY DE COMUNICACIONES Y TRANSPORTE DEL ESTADO PUBLICADA E
 
 TERCERO.- EL NUMERO MAXIMO DE CONCESIONES O PERMISOS A QUE SE REFIERE EL ARTICULO 22 DE ESTA LEY, A PARTIR DE QUE ENTRE EN VIGOR Y DURANTE EL AÑO DE 1997 SERA DE CUATRO; SEIS EN 1998 Y 1999, Y EL TOTAL DE DIEZ A PARTIR DEL AÑO 2000.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2000)</small>
 
-CUARTO.- LA ANTIGÜEDAD MAXIMA DE LAS UNIDADES QUE SE UTILICEN PARA EL TRANSPORTE COLECTIVO DE PASAJEROS A PARTIR DE QUE ESTA LEY ENTRE EN VIGOR Y DURANTE EL AÑO DE 1997 SERA DE CATORCE AÑOS; EN 1998 Y 1999 DE DOCE AÑOS Y A PARTIR DEL AÑO 2000 DE DIEZ AÑOS. LA ANTIGÜEDAD MAXIMA DE LOS VEHICULOS EN QUE SE PRESTA EL SERVICIO PUBLICO DE TRANSPORTE DE PASAJEROS EN AUTOMOVILES DE ALQUILER DURANTE 1997 SERA DE DIEZ AÑOS; EN 1998 Y 1999 SERA DE NUEVE AÑOS Y A PARTIR DEL AÑO 2000 DE SIETE AÑOS.
+CUARTO.- LA ANTIGÜEDAD DE LAS UNIDADES QUE SE UTILICEN PARA EL SERVICIO COLECTIVO DE PASAJEROS A PARTIR DE QUE ESTA LEY ENTRE EN VIGOR Y HASTA EL AÑO 2001, SERA DE 12 AÑOS Y EN EL CASO DE LOS VEHICULOS EN QUE SE PRESTA EL SERVICIO PUBLICO DE TRANSPORTE DE PASAJEROS EN AUTOS DE ALQUILER, SERA DE 9 AÑOS DURANTE ESTE MISMO PERIODO.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
@@ -963,15 +977,13 @@ DURANTE EL AÑO DE 1995 LOS PORCENTAJES ANTERIORES SERAN INVERTIDOS.
 
 A PARTIR DE 1996 TODAS LAS CONCESIONES SERAN OTORGADAS DE ACUERDO AL PROCEDIMIENTO SEÑALADO EN LOS ARTICULOS 27 Y SIGUIENTES DE ESTA LEY.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2000)</small>
 
-SEXTO.- LAS CONCESIONES OTORGADAS CONFORME A LA LEY ANTERIOR FENECERAN AL TERMINO SEÑALADO EN SU OTORGAMIENTO. AL CONCLUIR SU VIGENCIA, EL TITULAR PODRA SOLICITAR A LA SECRETARIA EL OTORGAMIENTO DE UNA NUEVA CONCESION SIN SUJETARSE AL PROCEDIMIENTO DE CONCURSO SEÑALADO POR ESTA LEY, SIEMPRE Y CUANDO CUMPLA CON LOS DEMAS REQUISITOS EXIGIDOS PARA SU EXPEDICION Y SU SOLICITUD SEA PRESENTADA DENTRO DE LOS SESENTA DIAS HABILES ANTERIORES A SU VENCIMIENTO. SI NO HACE USO DE ESTE DERECHO DENTRO DEL TERMINO ESTABLECIDO, LA CONCESION SERA CANCELADA DEFINITIVAMENTE.
+SEXTO.- LAS CONCESIONES OTORGADAS CONFORME A LA LEY ANTERIOR FENECERAN AL TERMINO SEÑALADO EN SU OTORGAMIENTO, AL CONCLUIR SU VIGENCIA, EL TITULAR PODRA SOLICITAR A LA SECRETARIA GENERAL DE GOBIERNO LA REVALIDACION DE SU PERMISO O CONCESION SIN SUJETARSE AL PROCEDIMIENTO DE CONCURSO SEÑALADO POR ESTA LEY, SIEMPRE Y CUANDO CUMPLA CON LOS DEMAS REQUISITOS EXIGIDOS PARA SU EXPEDICION Y SU SOLICITUD SEA PRESENTADA DENTRO DE LOS SESENTA DIAS HABILES ANTERIORES A SU VENCIMIENTO. SI NO HACE USO DE ESTE DERECHO DENTRO DEL TERMINO CONCEDIDO, LA CONCESION SERA CANCELADA DEFINITIVAMENTE.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-SEPTIMO.- LO DISPUESTO EN EL ARTICULO 13; 18, PRIMER PARRAFO; Y 36, UNICAMENTE POR LO QUE SE REFIERE AL OTORGAMIENTO DE PERMISOS PARA EL TRANSPORTE DE MATERIALES DE CONSTRUCCION, ENTRARA EN VIGOR HASTA EL PRIMERO DE DICIEMBRE DEL AÑO 2000; MIENTRAS TANTO, SOLO SE EXPEDIRAN NUEVOS PERMISOS SI ASI SE CONVIENE POR LA SECRETARIA, Y TODAS LAS ORGANIZACIONES INTERESADAS EN ESTE RAMO DE TRANSPORTE, EXCEPCION HECHA DE QUIENES EN VIGOR DE LA PRESENTE LEY HAYAN ESTADO PRESTANDO EL MENCIONADO SERVICIO AL PUBLICO, DE ACUERDO A LOS ANTECEDENTES QUE OBREN EN EL DEPARTAMENTO DE TRANSPORTE EN EL ESTADO Y QUE CUMPLAN ADEMAS CON LOS REQUISITOS EXIGIDOS POR ESTA LEY.
-
-HASTA EN TANTO ENTREN EN VIGOR LAS DISPOSICIONES DEL PRESENTE ARTICULO, EL EJECUTIVO DEL ESTADO, POR CONDUCTO DE LA DEPENDENCIA COMPETENTE, DEBERA EXPEDIR LAS TARIFAS CON CARACTER MERAMENTE REFERENCIAL QUE SERVIRAN PARA DETERMINAR EL PRECIO DEL SERVICIO PRESTADO.
+SEPTIMO.- LO DISPUESTO EN LOS ARTICULOS 13, 18, PRIMER PARRAFO Y 36, UNICAMENTE POR LO QUE SE REFIERE AL TRANSPORTE DE MATERIALES PARA LA CONSTRUCCION, ENTRARA EN VIGOR EL 1o. DE DICIEMBRE DEL AÑO 2002; MIENTRAS TANTO SOLO SE EXPEDIRAN NUEVOS PERMISOS, SI ASI SE CONVINIERE POR LA SECRETARIA GENERAL DE GOBIERNO Y TODAS LAS ORGANIZACIONES INTERESADAS EN ESTA RAMA DEL TRANSPORTE.
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1998)</small>
 
@@ -1034,3 +1046,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 11 DE OCTUBRE DE 2000.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE NOVIEMBRE DE 2000.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2001.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA.
