@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1991-12-24"
+last_updated: "1991-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1991.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -592,9 +592,11 @@ La vigilancia consistirá en ejercer sobre el sentenciado observación y orienta
 
 ### CAPITULO I. Reglas generales
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 51.
 
-Dentro de los límites fijados por la ley, los jueces y tribunales aplicarán las sanciones establecidas para cada delito, teniendo en cuenta las circunstancias exteriores de ejecución y las peculiares del delincuente.
+Dentro de los límites fijados por la ley, los jueces y tribunales aplicarán las sanciones establecidas para cada delito, teniendo en cuenta las circunstancias exteriores de ejecución y las peculiares del delincuente. Cuando se trate de punibilidad alternativa el juez podrá imponer, motivando su resolución, la sanción privativa de libertad cuando ello sea ineludible a los fines de justicia, prevención general y prevención especial.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE ENERO DE 1985)</small>
 
@@ -634,11 +636,11 @@ El aumento o la disminución de la pena, fundadas en las calidades, en las relac
 
 Son aplicables las que se funden en circunstancias objetivas, si los demás sujetos tienen conocimiento de ellas.
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 55.
 
-Cuando el agente hubiese sufrido consecuencias graves en su persona, que hicieren notoriamente innecesario e irracional la imposición de una pena privativa o restrictiva de libertad, el juez podrá prescindir de ella.
+Cuando por haber sufrido el sujeto activo consecuencias graves en su persona o por su senilidad o su precario estado de salud, fuere notoriamente innecesaria e irracional la imposición de una pena privativa o restrictiva de libertad, el juez, de oficio o a petición de parte motivando su resolución, podrá prescindir de ella o substituirla por una medida de seguridad. En los casos de senilidad o precario estado de salud, el juez se apoyará siempre en dictámenes de peritos.
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
@@ -752,6 +754,10 @@ ARTICULO 64 bis.- En el caso previsto por la fracción VIII del artículo 13, se
 
 A los reincidentes se les aplicará la sanción que debería imponérseles por el último delito cometido, aumentándola desde un tercio hasta dos tercios de su duración a juicio del Juez. Si la reincidencia fuera por delitos de la misma especie, el aumento será desde dos tercios hasta otro tanto de la duración de la pena. Cuando resulte una pena mayor que la suma de las correspondientes a la suma del primero y segundo delitos, se aplicará esta suma.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
+En aquellos delitos que tengan señalada pena alternativa, en todo caso se aplicará al reincidente la pena privativa de libertad.
+
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1948)</small>
 
 ###### ARTICULO 66.
@@ -792,17 +798,19 @@ En ningún caso la medida de tratamiento impuesta por el juez penal, excederá d
 
 ### CAPITULO VI. Substitución y conmutación de sanciones
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 70.
 
 La prisión podrá ser sustituida, a juicio del juzgador, apreciando lo dispuesto en los artículos 51 y 52 en los términos siguientes:
 
-I.- Cuando no exceda de un año, por multa o trabajo en favor de la comunidad;
+I.- Por trabajo en favor de la comunidad o semilibertad, cuando la pena impuesta no exceda de cinco años;
 
-II.- Cuando no exceda de tres años, por tratamiento en libertad o semilibertad.
+II.- Por tratamiento en libertad, si la prisión no excede de cuatro años o,
 
-Para los efectos de la sustitución se requerirá que el reo satisfaga los requisitos señalados en la fracción I incisos b) y c) del artículo 90.
+III.- Por multa, si la prisión no excede de tres años.
+
+Para efectos de la sustitución se requerirá que el reo satisfaga los requisitos señalados en la fracción I incisos b) y c) del artículo 90.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -833,6 +841,10 @@ II.- Si fuere la de confinamiento, se conmutará por multa, a razón de un día 
 ###### ARTICULO 74.
 
 El reo que considere que al dictarse sentencia reunía las condiciones para el disfrute de la sustitución o conmutación de la sanción y que por inadvertencia de su parte o del juzgador no le hubiera sido otorgada, podrá promover ante éste que se le conceda, abriéndose el incidente respectivo en los términos de la fracción X del artículo 90.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
+En todo caso en que proceda la substitución o la conmutación de la pena, al hacerse el cálculo de la sanción substitutiva se disminuirá además de lo establecido en el último párrafo del artículo 29 de este Código, el tiempo durante el cual el sentenciado sufrió prisión preventiva.
 
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
@@ -952,7 +964,9 @@ El otorgamiento y disfrute de los beneficios de la condena condicional, se sujet
 
 I.- El juez o Tribunal, en su caso, al dictar sentencia de condena o en la hipótesis que establece la fracción X de este artículo, suspenderán motivamadamente (sic) la ejecución de las penas, a petición de parte o de oficio, si concurren estas condiciones:
 
-a).- Que la condena se refiera a pena de prisión que no exceda de dos años;
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
+a).- Que la condena se refiera a pena de prisión que no exceda de cuatro años;
 
 b).- Que sea la primera vez que el sentenciado incurre en delito intencional y, además, que haya evidenciado buena conducta positiva, antes y después del hecho punible; y
 
@@ -984,11 +998,17 @@ IV.- A los delincuentes a quienes se haya suspendido la ejecución de la sentenc
 
 V.- Los sentenciados que disfruten de los beneficios de la condena condicional quedarán sujetos al cuidado y vigilancia de la Dirección General de Servicios Coordinados de Prevención y Readaptación Social.
 
-VI.- En caso de haberse nombrado fiador para el cumplimiento de las obligaciones contraídas en los términos de este artículo, la obligación de aquél concluirá seis meses después de transcurridos los tres años a que se refiere la fracción VII, siempre que el delincuente no diere lugar a nuevo proceso o cuando en éste se pronuncie sentencia absolutoria. Cuando el fiador tenga motivos fundados para no continuar desempeñando el cargo, los expondrá al juez a fin de que éste, si los estima justos, prevenga al sentenciado que presente nuevo fiador dentro del plazo que prudentemente deberá fijarle, apercibido de que se hará efectiva la sanción si no lo verifica. En caso de muerte o insolvencia del fiador, estará obligado el sentenciado a poner el hecho en conocimiento del juez para el efecto y bajo el apercibimiento que se expresan en el párrafo que precede.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
-VII.- Si durante el término de tres años, contados desde la fecha de la sentencia que cause ejecutoria, el condenado no diere lugar a nuevo proceso por delito intencional que concluya con sentencia condenatoria, se considerará extinguida la sanción fijada en aquélla. En caso contrario, se hará efectiva la primera sentencia, además de la segunda, en la que el reo será considerado como reincidente. Tratándose de delito imprudencial, la autoridad competente resolverá motivadamente si debe aplicarse o no la sanción suspendida.
+VI.- En caso de haberse nombrado fiador para el cumplimiento de las obligaciones contraídas en los términos de este artículo, la obligación de aquél concluirá seis meses después de transcurrido el término a que se refiere la fracción VII, siempre que el delincuente no diere lugar a nuevo proceso o cuando en éste se pronuncie sentencia absolutoria. Cuando el fiador tenga motivos fundados para no continuar desempeñando el cargo, los expondrá al juez a fin de que éste, si los estima justos, prevenga al sentenciado que presente nuevo fiador dentro del plazo que prudentemente deberá fijarle, apercibido de que se hará efectiva la sanción si no lo verifica. En caso de muerte o insolvencia del fiador, estará obligado el sentenciado a poner el hecho en conocimiento del juez para el efecto y bajo el apercibimiento que se expresa en el párrafo que precede.
 
-VIII.- Los hechos que originen el nuevo proceso interrumpen el plazo de tres años, tanto si se trata de delito intencional como imprudencial, hasta que se dicte sentencia firme.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
+VII.- Si durante el término de duración de la pena, contado desde la fecha de la sentencia que cause ejecutoria el condenado no diere lugar a nuevo proceso por delito intencional que concluya con sentencia condenatoria, se considerará extinguida la sanción fijada en aquélla. En caso contrario, se hará efectiva la primera sentencia, además de la segunda, en la que el reo será considerado como reincidente sin perjuicio de lo establecido en el artículo 20 de este Código. Tratándose de delito imprudencial, la autoridad competente resolverá motivadamente si debe aplicarse o no la sanción suspendida;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
+VIII.- Los hechos que originen el nuevo proceso interrumpen el término a que se refiere la fracción VII, tanto si se trata de delito intencional como imprudencial, hasta que se dicte sentencia firme;
 
 IX.- En caso de falta de cumplimiento de las obligaciones contraídas por el condenado, el juez podrá hacer efectiva la sanción suspendida o amonestarlo, con el apercibimiento de que, si vuelve a faltar a alguna de las condiciones fijadas, se hará efectiva dicha sanción.
 
@@ -1634,13 +1654,17 @@ El reo suspenso en su profesión u oficio, o inhabilitado para ejercerlos, que q
 
 ### CAPITULO III. Armas prohibidas
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 160.
 
-A quien porte, fabrique, importe o acopie sin un fin lícito instrumentos que sólo puedan ser utilizados para agredir y que no tengan aplicación en actividades laborales o recreativas, se le impondrá prisión de tres meses a tres años y hasta cien días multa y decomiso.
+A quien porte, fabrique, importe o acopie sin un fin lícito instrumentos que sólo puedan ser utilizados para agredir y que no tengan aplicación en actividades laborales o recreativas, se le impondrá prisión de tres meses a tres años o de 180 a 360 días multa y decomiso.
+
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
 Los servidores públicos podrán portar las armas necesarias para el ejercicio de su cargo, sujetándose a la reglamentación de las leyes respectivas.
+
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
 Estos delitos, cuyo conocimiento compete al fuero común, se sancionarán sin perjuicio de lo previsto por la Ley Federal de Armas de Fuego y Explosivos, de aplicación federal en lo que conciernen a estos objetos.
 
@@ -1648,11 +1672,11 @@ Estos delitos, cuyo conocimiento compete al fuero común, se sancionarán sin pe
 
 Se necesita licencia especial para portación o venta de las pistolas o revólveres.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 162.
 
-Se aplicarán de seis meses a tres años de prisión y multa de diez a dos mil pesos:
+Se aplicará de seis meses a tres años de prisión o de 180 a 360 días multa y decomiso:
 
 I.- Al que importe, fabrique o venda las armas enumeradas en el artículo 160; o las regale o trafique con ellas;
 
@@ -1772,7 +1796,7 @@ Asimismo se impondrá prisión de cinco a veinte años, sin perjuicio de la pena
 
 Se impondrán prisión hasta de seis meses, multa hasta de cien pesos y suspensión o pérdida del derecho a usar la licencia de manejador:
 
-I.- Al que viole dos o más veces los reglamentos o disposiciones sobre el tránsito y circulación de vehículos, en lo que se refiere a exceso de velocidad.
+I.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1991)
 
 II.- Al que en estado de ebriedad o bajo el influjo de drogas enervantes cometa alguna infracción a los reglamentos de tránsito y circulación al manejar vehículos de motor, independientemente de la sanción que le corresponda si causa daño a las personas o las cosas.
 
@@ -1790,13 +1814,19 @@ ARTICULO 172 bis.- Se aplicará prisión de uno a dos años, de cien a trescient
 
 ### CAPITULO II. Violación de correspondencia
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 173.
 
-Se aplicarán de tres días a seis meses de prisión y multa de cinco a cincuenta pesos:
+Se aplicarán de tres días a seis meses de prisión o de diez a treinta días multa:
 
 I.- Al que abra indebidamente una comunicación escrita que no esté dirigida a él, y
 
 II.- Al que indebidamente intercepte una comunicación escrita que no esté dirigida a él, aunque la conserve cerrada y no se imponga de su contenido.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
+Los delitos previstos en este artículo se perseguirán por querella.
 
 ###### ARTICULO 174.
 
@@ -1806,23 +1836,25 @@ No se considera que obren delictuosamente los padres que abran o intercepten las
 
 La disposición del artículo 173 no comprende la correspondencia que circule por la estafeta, respecto de la cual se observará lo dispuesto en la legislación postal.
 
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 176.
 
-Al empleado de un telégrafo, teléfono o estación inalámbrica que conscientemente dejare de transmitir un mensaje que se le entregue con ese objeto, o de comunicar al destinatario el que recibiere de otra oficina, se le impondrán de quince días a un año de prisión y multa de cincuenta a quinientos pesos, si no resultare perjuicio.
+Al empleado de telégrafo, estación telefónica o estación inalámbrica que conscientemente dejare de transmitir un mensaje que se le entregue con ese objeto, o de comunicar al destinatario el que recibiere de otra oficina, si causare daño, se le impondrá de quince días a un año de prisión o de 30 a 180 días multa.
 
 ###### ARTICULO 177.
 
-Si resultare daño, se duplicará la sanción fijada por el artículo anterior.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1991)
 
 ## TITULO SEXTO. Delitos contra la autoridad
 
 ### CAPITULO I. Desobediencia y resistencia de particulares
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 178.
 
-Al que, sin causa legítima, rehusare prestar un servicio de interés público a que la ley le obligue, o desobedeciere un mandato legítimo de la autoridad, se le aplicarán de quince días a un año de prisión y multa de diez a cien pesos.
+Al que, sin causa legítima, rehusare prestar un servicio de interés público a que la ley le obligue, o desobedeciere un mandato legítimo de la autoridad, se le aplicará de quince días a un año de prisión o de 30 a 180 días multa.
 
 ###### ARTICULO 179.
 
@@ -1838,9 +1870,11 @@ Se aplicarán de uno a dos años de prisión y multa de diez a mil pesos: al que
 
 Se equiparará a la resistencia y se sancionará con la misma pena que ésta, la coacción hecha a la autoridad pública por medio de la violencia física o de la moral, para obligarla a que ejecute un acto oficial, sin los requisitos legales u otro que no esté en sus atribuciones.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 182.
 
-El que, debiendo ser examinado en juicio y sin que le aprovechen las excepciones establecidas por este Código o por el de Procedimientos Penales, se niegue a otorgar la protesta de ley o a declarar, pagará una multa de diez a cien pesos. En caso de reincidencia, se impondrá prisión de uno a seis meses.
+El que debiendo ser examinado en juicio, sin que le aprovechen las excepciones establecidas por este Código o por el de Procedimientos Penales, y agotados sus medios de apremio, se niegue a otorgar la protesta de ley o a declarar, pagará de 10 a 30 días multa. En caso de reincidencia, se impondrá prisión de uno a seis meses o de 30 a 90 días multa.
 
 ###### ARTICULO 183.
 
@@ -1850,23 +1884,25 @@ Cuando la ley autorice el empleo del apremio para hacer efectivas las determinac
 
 ###### ARTICULO 184.
 
-El que procure con actos materiales impedir la ejecución de una obra o trabajo públicos, mandados hacer con los requisitos legales por la autoridad competente, o con su autorización, será castigado con prisión de ocho días a tres meses.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1991)
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 185.
 
-Cuando el delito se cometa por varias personas, de común acuerdo, la sanción será de tres meses a un año de prisión, si sólo se hiciere una simple oposición material sin violencia a las personas. Habiéndola, podrá extenderse la pena hasta dos años de prisión.
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+Cuando varias personas de común acuerdo procuren, con actos materiales, impedir la ejecución de una obra o trabajos públicos mandados a hacer con los requisitos legales por autoridad competente, o con su autorización, serán castigadas con tres meses a un año de prisión, si sólo se hiciere una simple oposición material sin violencia a las personas. Habiéndola, podrá extenderse la pena hasta dos años de prisión.
 
 ###### ARTICULO 186.
 
-A las sanciones de que hablan los dos artículos que preceden, se podrá agregar una multa de veinte a quinientos pesos, cuando no hubiere lugar a la reparación del daño.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1991)
 
 ### CAPITULO III. Quebrantamiento de sellos
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 187.
 
-Al que quebrante los sellos puestos por orden de la autoridad pública, se le aplicará de tres meses a tres años de prisión, a juicio del juez.
+Al que quebrante los sellos puestos por orden de la autoridad pública se le aplicará de tres meses a tres años de prisión o de 30 a 90 días multa. En caso de reincidencia se impondrá siempre pena privativa de libertad.
 
 ###### ARTICULO 188.
 
@@ -1880,11 +1916,9 @@ Cuando de común acuerdo, quebrantaren las partes interesadas en un negocio civi
 
 Al que cometa un delito en contra de un funcionario público o agente de la autoridad en el acto de ejercer sus funciones o con motivo de ellas, se le aplicará de tres días a tres años de prisión, además de la que le corresponda por el delito cometido.
 
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
-
 ###### ARTICULO 190.
 
-Los ultrajes hechos a una de las Cámaras, a un tribunal o a un jurado, o a un cuerpo colegiado de la administración de justicia o a cualquiera institución pública, se castigarán con tres días a seis meses de prisión y multa de cinco a doscientos pesos.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1991)
 
 ### CAPITULO V. Ultrajes a las insignias nacionales
 
@@ -1926,17 +1960,25 @@ Si a juicio del Ministerio Público o del Juez competentes, que deberán actuar 
 
 I.- Si la cantidad no excede de la necesaria para su propio e inmediato consumo, el adicto o habitual sólo será puesto a la disposición de las autoridades sanitarias para que bajo la responsabilidad de estas sea sometido al tratamiento y a las demás medidas que procedan.
 
-II.- Si la cantidad excede de la fijada conforme al inciso anterior, pero no de la requerida para satisfacer las necesidades del adicto o habitual durante un término máximo de tres días, la sanción aplicable será la de prisión de dos meses a dos años y multa de quinientos a quince mil pesos.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
+II.- Si la cantidad excede de la fijada conforme al inciso anterior, pero no de la requerida para satisfacer las necesidades del adicto o habitual durante un término máximo de tres días, la sanción aplicable será la prisión de dos meses a dos años o de 60 a 270 días multa.
 
 III.- Si la cantidad excede de la señalada en el inciso que antecede, se aplicarán las penas que correspondan conforme a este capítulo.
 
 IV.- Todo procesado o sentenciado que sea adicto o habitual quedará sujeto a tratamiento. Asimismo, para la concesión de la condena condicional o del beneficio de la libertad preparatoria, cuando procedan, no se considerará como antecedente de mala conducta el relativo al hábito o adición, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento adecuado para su curación, bajo la vigilancia de la autoridad ejecutora.
 
-Se impondrán prisión de seis meses a tres años y multa hasta de quince mil pesos al que no siendo adicto a cualquiera de las substancias comprendidas en el artículo 193, adquiera o posea alguna de éstas por una sola vez, para su uso personal y en cantidad que no exceda de la destinada para su propio e inmediato consumo.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
-Si alguno de los sujetos que se encuentran comprendidos en los casos a que se refieren los incisos I y II del primer párrafo de este Artículo, o en el párrafo anterior, suministra, además, gratuitamente, a un tercero, cualquiera de las substancias indicadas, para uso personal de este último y en cantidad que no exceda de la necesaria para su consumo personal e inmediato, será sancionado con prisión de dos a seis años y multa de dos mil a veinte mil pesos, siempre que su conducta no se encuentre comprendida en la fracción IV del Artículo 197.
+Se impondrá prisión de seis meses a tres años o de 180 a 360 días multa al que no siendo adicto a cualquiera de las substancias comprendidas en el artículo 193, adquiera o posea alguna de éstas por una sola vez, para su uso personal y en cantidad que no exceda de la destinada para su propio e inmediato consumo.
 
-La simple posesión de cannabis o mariguana, cuando tanto por la cantidad como por las demás circunstancias de ejecución del hecho, no pueda considerarse que está destinada a realizar alguno de los delitos a que se refieren los artículos 197 y 198 de este Código, se sancionará con prisión de dos a ocho años y multa de cinco mil a veinticinco mil pesos.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
+Si alguno de los sujetos que se encuentran comprendidos en los casos a que se refieren los incisos I y II del primer párrafo de este artículo, o en el párrafo anterior, suministra, además gratuitamente, a un tercero, cualquiera de las substancias indicadas, para uso personal de este último y en cantidad que no exceda de la necesaria para su consumo personal e inmediato, será sancionado con prisión de dos a seis años o de 180 a 360 días multa, siempre que su conducta no se encuentre comprendida en la fracción IV del artículo 197.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
+La simple posesión de cannabis o mariguana, cuando tanto por la cantidad como por las demás circunstancias de ejecución del hecho, no pueda considerarse que está destinada a realizar alguno de los delitos a que se refieren los artículo 197 y 198 de este Código, se sancionará con prisión de dos a ocho años o de 180 a 360 días multa.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
 
@@ -2520,11 +2562,11 @@ En todos los delitos previstos en este capítulo, además de la pena de prisión
 
 ### CAPITULO II. Ejercicio indebido del propio derecho
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 226.
 
-Al que para hacer efectivo un derecho o pretendido derecho que deba ejercitar, empleare violencia, se le aplicará prisión de tres meses a un año. En estos casos sólo se procederá por querella de la parte ofendida.
+Al que para hacer efectivo un derecho o pretendido derecho que deba ejercitar, empleare violencia, se le aplicará prisión de tres meses a un año o de 30 a 90 días multa. En estos casos sólo se procederá por querella de la parte ofendida.
 
 ###### ARTICULO 227.
 
@@ -2716,9 +2758,11 @@ ARTICULO 242 bis.- Se impondrá prisión de uno a cinco años y multa de doscien
 
 ### CAPITULO IV. Falsificación de documentos en general
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 243.
 
-El delito de falsificación de documentos públicos o privados se castigará con prisión de seis meses a tres años y multa de cincuenta a mil pesos.
+El delito de falsificación de documentos públicos o privados se castigará con prisión de seis meses a tres años o de 180 a 360 días multa.
 
 ###### ARTICULO 244.
 
@@ -2788,17 +2832,25 @@ VII.- El que a sabiendas hiciere uso de un documento falso o de copia, transcrip
 
 ### CAPITULO V. Falsedad en declaraciones judiciales y en informes dados a una autoridad
 
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 247.
 
-Se impondrán de dos meses a dos años de prisión y multa de diez a mil pesos:
+Se impondrá de dos meses a dos años de prisión o de 60 a 270 días multa:
+
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
 
 I.- Al que interrogado por alguna autoridad pública distinta de la judicial en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad.
 
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
+
 II.- Al que examinado por la autoridad judicial como testigo faltare a la verdad sobre el hecho que se trata de averiguar ya sea afirmando, negando u ocultado maliciosamente la existencia de alguna circunstancia que pueda servir de prueba de la verdad o falsedad del hecho principal o que aumente o disminuya su gravedad. La sanción podrá ser hasta por quince años de prisión para el testigo falso que fuera examinado en un juicio criminal, cuando al reo se le imponga una pena de más de veinte años de prisión por haber dado fuerza probatoria al testimonio falso;
 
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
+
 III.- Al que soborne a un testigo, a un perito o a un intérprete, para que se produzca con falsedad en juicio o los obligue o comprometa a ello intimándolos o de otro modo;
+
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
 
 IV.- Al que, con arreglo a derecho, con cualquier carácter excepto el de testigo, sea examinado bajo protesta de decir verdad y faltare a ella en perjuicio de otro, negando ser suya la firma con que hubiere suscrito un documento o afirmando un hecho falso o alterando o negando uno verdadero, o sus circunstancias substanciales.
 
@@ -2808,17 +2860,19 @@ Lo prevenido en esta fracción no comprende los casos en que la parte sea examin
 
 V.- Al que en juicio de amparo rinda informes como autoridad responsable, en los que afirmare una falsedad o negare la verdad en todo o en parte.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 248.
 
-El testigo perito o intérprete que retracte espontáneamente sus falsas declaraciones rendidas ante cualquiera autoridad administrativa o ante la judicial antes de que se pronuncie sentencia en la instancia en que las diere sólo pagará una multa de diez a doscientos cincuenta pesos, pero si faltare a la verdad al retractar sus declaraciones, se le aplicará la sanción que corresponda con arreglo a lo prevenido en este capítulo, considerándolo como reincidente.
+El testigo, perito o intérprete que retracte espontáneamente sus falsas declaraciones rendidas ante cualquier autoridad administrativa o ante la judicial antes de que se pronuncie sentencia en la instancia en que las diere, sólo pagará de 30 a 180 días multa, pero si faltare a la verdad al retractar sus declaraciones, se le aplicará la sanción que corresponda con arreglo a lo prevenido en este capítulo, considerándolo como reincidente.
 
 ### CAPITULO VI. Variación del nombre o del domicilio
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 249.
 
-Se castigará con prisión de tres días a seis meses y multa de dos a cincuenta pesos:
+Se castigará con prisión de tres días a seis meses o de 30 a 180 días multa:
 
 I.- Al que oculte su nombre o apellido y tome otro imaginario o el de otra persona, al declarar ante la autoridad judicial;
 
@@ -2946,19 +3000,23 @@ Si el que entregue los insumos referidos, fuere el productor que los recibió de
 
 VI.- A los funcionarios o empleados de cualquiera entidad o dependencia pública que entreguen estos insumos a quienes no tengan derecho a recibirlos; o que indebidamente nieguen o retarden la entrega a quienes tienen derecho a recibirlos, se harán acreedores a las sanciones del artículo 253.
 
-### CAPITULO II. Vagos y malvivientes
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+ARTICULO 254 bis.- Quienes de manera intencional capturen, dañen gravemente o priven de la vida a mamíferos o quelonios marinos, o recolecten o comercialicen en cualquier forma sus productos sin autorización, en su caso, de la autoridad competente, se les impondrá pena de seis meses a tres años de prisión.
+
+Se impondrá la misma pena señalada en el párrafo anterior, a quienes capturen intencionalmente especies acuáticas declaradas en veda, sin autorización, en su caso, de la autoridad competente.
+
+Lo anterior se aplicará sin perjuicio de las sanciones administrativas correspondientes.
+
+### CAPITULO II. Vagos y malvivientes
 
 ###### ARTICULO 255.
 
-Se aplicará sanción de dos a cinco años de prisión a quienes no se dediquen a un trabajo honesto sin causa justificada y tengan malos antecedentes.
-
-Se estimarán malos antecedentes para los efectos de este artículo: ser identificado como delincuente habitual o peligroso contra la propiedad o explotador de mujeres o traficante de drogas prohibidas, toxicómano o ebrio habitual, tahur o mendigo simulador o sin licencia.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 256.
 
-A los mendigos a quienes se aprehenda con un disfraz o con armas, ganzúas o cualquier otro instrumento que dé motivo para sospechar que tratan de cometer un delito, se les aplicará una sanción de tres días a seis meses de prisión, y quedarán sujetos durante el tiempo que el juez estime pertinente, a la vigilancia de la policía.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1991)
 
 ### CAPITULO III. Juegos prohibidos
 
@@ -3148,9 +3206,11 @@ V.- Al que usurpe el estado civil de otro con el fin de adquirir derechos de fam
 
 El que cometa alguno de los delitos expresados en el artículo anterior, perderá el derecho de heredar que tuviere respecto de las personas a quienes por la comisión del delito perjudique en sus derechos de familia.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 279.
 
-Se impondrán hasta cinco años de prisión y multa hasta de quinientos pesos al que estando unido con una persona en matrimonio no disuelto ni declarado nulo, contraiga otro matrimonio con las formalidades legales.
+Se impondrá hasta cinco años de prisión o de 180 a 360 días multa al que, estando unido con una persona en matrimonio no disuelto ni declarado nulo, contraiga otro matrimonio con las formalidades legales.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
 
@@ -3162,17 +3222,23 @@ Delitos en materia de inhumaciones y exhumaciones
 
 ### CAPITULO UNICO. Violación de las leyes sobre inhumaciones y exhumaciones
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 280.
 
-Se impondrán prisión de tres días a dos años y multa de cinco a dos mil pesos:
+Se impondrá prisión de tres días a dos años o de 30 a 90 días multa:
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1951)</small>
 
 I.- Al que oculte, destruya o sepulte un cadáver o un feto humano, sin la orden de la autoridad que deba darla o sin los requisitos que exijan los Códigos Civil y Sanitario o leyes especiales.
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1951)</small>
 
 II.- Al que oculte, destruya, o sin la licencia correspondiente sepulte el cadáver de una persona, siempre que la muerte haya sido a consecuencia de golpes, heridas u otras lesiones, si el reo sabía esa circunstancia.
 
 En este caso no se aplicará sanción a los ascendientes o descendientes, cónyuge o hermanos del responsable del homicidio, y
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1951)</small>
 
 III.- Al que exhume un cadáver sin los requisitos legales o con violación de derechos.
 
@@ -3192,15 +3258,21 @@ Delitos contra la paz y seguridad de las personas
 
 ### CAPITULO I. Amenazas
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
 ### CAPITULO II. Allanamiento de morada y asalto
 
 ###### ARTICULO 282.
 
-Se aplicará sanción de tres días a un año de prisión y multa de diez a cien pesos:
+Se aplicará sanción de tres días a un año de prisión o de 180 a 360 días multa:
 
 I.- Al que de cualquier modo amenace a otro con causarle un mal en su persona, en sus bienes, en su honor o en sus derechos, o en la persona, honor, bienes o derechos de alguien con quien esté ligado con algún vínculo, y
 
 II.- Al que por medio de amenazas de cualquier género trate de impedir que otro ejecute lo que tiene derecho a hacer.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
+Los delitos previstos en este artículo se perseguirán por querella.
 
 ###### ARTICULO 283.
 
@@ -3252,13 +3324,13 @@ Delitos contra la vida y la integridad corporal
 
 Bajo el nombre de lesión, se comprende no solamente las heridas, escoriaciones, contusiones, fracturas, dislocaciones, quemaduras, sino toda alteración en la salud y cualquier otro daño que deje huella material en el cuerpo humano, si esos efectos son producidos por una causa externa.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 289.
 
-Al que infiera una lesión que no ponga en peligro la vida del ofendido y tarde en sanar menos de quince días, se le impondrán de tres días a cuatro meses de prisión, o multa de cinco a cincuenta pesos, o ambas sanciones a juicio del juez. Si tardare en sanar más de quince días se le impondrán de cuatro meses a dos años de prisión y multa de cincuenta a cien pesos.
+Al que infiera una lesión que no ponga en peligro la vida del ofendido y tarde en sanar menos de quince días, se le impondrá de tres días a cuatro meses de prisión o de 10 a 30 días multa. Si tardare en sanar más de quince días se le impondrán de cuatro meses a dos años de prisión o de 60 a 270 días multa.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE ENERO DE 1984)</small>
-
-Las lesiones a las que se refiere la primera parte del párrafo anterior se perseguirán por querella.
+Los delitos previstos en este artículo se perseguirán por querella.
 
 ###### ARTICULO 290.
 
@@ -3352,17 +3424,9 @@ III.- Que fué a causa de la constitución física de la víctima, o de las circ
 
 No se tendrá como mortal una lesión, aunque muera el que la recibió: cuando la muerte sea resultado de una causa anterior a la lesión y sobre la cual ésta no haya influido, o cuando la lesión se hubiere agravado por causas posteriores, como la aplicación de medicamentos positivamente nocivos, operaciones quirúrgicas desgraciadas, excesos o imprudencias del paciente o de los que lo rodearon.
 
-> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
-
 ###### ARTICULO 306.
 
-Se aplicará sanción de tres días a tres años de prisión y multa de cinco a mil pesos:
-
-I.- Al que dispare a una persona o grupo de personas, una arma de fuego;
-
-II.- Al que ataque a alguien de tal manera que, en razón del medio empleado, el arma, la fuerza o destreza del agresor, o de cualquiera otra circunstancia semejante pueda producir como resultado la muerte.
-
-Las sanciones previstas en la fracción I de este artículo se aplicarán independientemente de las que correspondan por la comisión de cualquier otro delito.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1991)
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
 
@@ -3558,15 +3622,15 @@ No se aplicará sanción: cuando de no provocarse el aborto, la mujer embarazada
 
 Al que abandone a un niño incapaz de cuidarse a sí mismo o a una persona enferma, teniendo obligación de cuidarlos, se le aplicarán de un mes a cuatro años de prisión, sí no resultare daño alguno, privándolo, además, de la patria potestad o de la tutela, si el delincuente fuere ascendiente o tutor del ofendido.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 336.
 
-Al que sin motivo justificado abandone a sus hijos o a su cónyuge, sin recursos para atender a sus necesidades de subsistencia, le aplicarán de un mes a cinco años de prisión, privación de los derechos de familia, y pago, como reparación del daño, de las cantidades no suministradas oportunamente por el acusado.
+Al que sin motivo justificado abandone a sus hijos o a su cónyuge, sin recursos para atender a sus necesidades de subsistencia, se le aplicarán de un mes a cinco años de prisión o de 180 a 360 días multa; privación de los derechos de familia, y pago, como reparación del daño, de las cantidades no suministradas oportunamente por el acusado.
 
-> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
-ARTICULO 336 bis.- Al que intencionalmente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá pena de prisión de seis meses a tres años. El juez resolverá la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste.
+ARTICULO 336 bis.- Al que intencionalmente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá pena de prisión de seis meses a tres años o de 30 a 90 días multa. El juez resolverá la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1977)</small>
 
@@ -3588,11 +3652,13 @@ Si del abandono a que se refieren los artículos anteriores resultare alguna les
 
 Al que encuentre abandonado en cualquier sitio a un menor incapaz de cuidarse a sí mismo o a una persona herida, inválida o amenazada de un peligro cualquiera, se le aplicarán de uno a dos meses de prisión o multa de diez a cincuenta pesos, si no diere aviso inmediato a la autoridad u omitiera prestarles el auxilio necesario, cuando pudiere hacerlo sin riesgo personal.
 
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 341.
 
-El automovilista, o motorista, conductor de un vehículo cualquiera, ciclista o jinete que deje en estado de abandono, sin prestarle o facilitarle asistencia, a persona a quien atropelló por imprudencia o accidente será castigado con la pena de uno a dos meses de prisión.
+El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o jinete que deje en estado de abandono, sin prestarle o facilitarle asistencia, a persona a quien atropelló por imprudencia o accidente, será castigado con la pena de uno a dos meses de prisión o de 30 a 90 días multa.
+
+Los delitos previstos en este artículo se perseguirán por querella.
 
 > <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -3934,9 +4000,11 @@ En todo caso de robo, si el juez lo creyere justo, podrá suspender al delincuen
 
 No se castigará al que, sin emplear engaño ni medios violentos, se apodera una sola vez de los objetos estrictamente indispensables para satisfacer sus necesidades personales o familiares del momento.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 380.
 
-Al que se le imputare el hecho de haber tomado una cosa ajena sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicarán de uno a seis meses de prisión, siempre que justifique no haberse negado a devolverla, si se le requirió a ello. Además, pagará al ofendido, como reparación del daño, el doble del alquiler, arrendamiento o intereses de la cosa usada.
+Al que se le imputare el hecho de haber tomado una cosa ajena sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicarán de uno a seis meses de prisión o de 30 a 90 días multa, siempre que justifique no haberse negado a devolverla, si se le requirió a ello. Además, pagará al ofendido, como reparación del daño, el doble del alquiler, arrendamiento o intereses de la cosa usada.
 
 (REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
@@ -4048,7 +4116,9 @@ Comete el delito de fraude el que engañando a uno o aprovechándose del error e
 
 El delito de fraude se castigará con las penas siguientes:
 
-I.- Con prisión de tres días a seis meses y multa de tres a diez veces el salario, cuando el valor de lo defraudado no exceda de esta última cantidad.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+
+I.- Con prisión de 3 días a 6 meses o de 30 a 180 días multa, cuando el valor de lo defraudado no exceda de diez veces el salario;
 
 (F. DE E., D.O.F. 13 DE ENERO DE 1982) (F. DE E., D.O.F. 15 DE ENERO DE 1982)
 
@@ -4236,11 +4306,11 @@ Cuando por cualquier medio se causen daño, destrucción o deterioro de cosa aje
 
 ARTICULO 399 bis.- Los delitos previstos en este título se perseguirán por querella de la parte ofendida cuando sean cometidos por un ascendiente, descendiente, cónyuge, parientes por consanguinidad hasta el segundo grado, concubina o concubinario, adoptante o adoptado y parientes por afinidad asimismo hasta el segundo grado. Igualmente se requerirá querella para la persecución de terceros que hubiesen incurrido en la ejecución del delito con los sujetos a que se refiere el párrafo anterior. Si se cometiere algún otro hecho que por si solo constituya un delito, se aplicará la sanción que para éste señala la ley.
 
-Los delitos de abuso de confianza y daño en propiedad ajena siempre se perseguirán a petición de la parte ofendida.
+> <small>N. DE E. EL CONTENIDO DE LOS ANTIGUOS PARRAFOS SEGUNDO Y TERCERO SE ENCUENTRA COMPRENDIDO EN EL ACTUAL PARRAFO SEGUNDO.</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE ENERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
-Asimismo, se perseguirá a petición de la parte ofendida el fraude, cuando su monto no exceda del equivalente a quinientas veces el salario mínimo general vigente en el lugar y en el momento en que se cometió el delito y el ofendido sea un solo particular. Si hubiese varios particulares ofendidos, se procederá de oficio, pero el juez podrá prescindir de la imposición de pena cuando el agente haya reparado los daños y perjuicios causados a los ofendidos y no exista oposición de cualquiera de éstos.
+Se perseguirán por querella los delitos previstos en los artículos 380 y 382 a 399, salvo el artículo 390 y los casos a que se refieren los dos últimos párrafos del artículo 395.
 
 TITULO VIGESIMOTERCERO
 
@@ -4256,9 +4326,7 @@ I.- Con ánimo de lucro, después de la ejecución del delito y sin haber partic
 
 Si el que recibió la cosa en venta, prenda o bajo cualquier otro concepto, no tuvo conocimiento de la procedencia ilícita de aquélla, por no haber tomado las precauciones indispensables para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, la pena se disminuirá hasta en una mitad;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 23 DE DICIEMBRE DE 1985)</small>
-
-Para los efectos del párrafo anterior, los adquirentes de vehículos de motor deberán tramitar la transferencia o regularización de vehículo, cerciorándose de su legítima procedencia;
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 II.- Preste auxilio o cooperación de cualquier especie al autor de un delito, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución del citado delito;
 
@@ -4839,3 +4907,19 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON LA
 PRIMERO.- La presente Ley entrará en vigor a los sesenta días siguientes a su publicación en el Diario Oficial de la Federación.
 
 TERCERO.- Se derogan los artículos 119 a 122, del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; 73 a 78 de la Ley Orgánica del Poder Judicial de la Federación, y 503 del Código Federal de Procedimientos Penales; así como los artículos 673 y 674, fracciones II y X, del Código de Procedimientos Penales para el Distrito Federal, únicamente por lo que hace a menores infractores.
+
+D.O.F. 30 DE DICIEMBRE DE 1991.
+
+DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL, ...ETC.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- No será exigible el requisito de querella incorporado con motivo de las reformas a los artículos 173, 282, 341 y 399-Bis del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, en los procedimientos ya instaurados o resueltos al día en que entre en vigor el presente Decreto.
+
+TERCERO.- Para los efectos de los artículos 405 del Código Federal de Procedimientos Penales y 562 fracción III del Código de Procedimientos Penales para el Distrito Federal, los jueces y tribunales deberán empezar a aceptar la caución consistente en garantía prendaria, una vez que se cuente con los mecanismos administrativos que se hicieron necesarios.
+
+D.O.F. 30 DE DICIEMBRE DE 1991.
+
+DECRETO QUE ADICIONA UN ARTICULO 254 BIS AL CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DEL FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
