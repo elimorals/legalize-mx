@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-de-las-oficinas-del-registro-publico-de-la-4121"
 country: "mx"
 rank: "reglamento"
 publication_date: "1944-06-13"
-last_updated: "1944-06-13"
+last_updated: "1956-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO DE LAS OFICINAS DEL REGISTRO PUBLICO DE LA PROPIEDAD EN EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 1956.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de junio de 1944.
 
@@ -307,9 +307,23 @@ Si la finca radicare en territorio de dos o más demarcaciones, se hará la insc
 
 Cuando en un mismo título se enajenaren o gravaren diferentes fincas, se hará la correspondiente inscripción a cada una de ellas, indicando a cada inscripción las demás fincas, comprendidas en el título y el folio y número de las inscripciones a que aquéllas se refieran.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1956)</small>
+
 ###### Art. 37.
 
-Cuando se divida una finca, se inscribirá con número diferente la parte que se separe, a favor del nuevo dueño; pero haciéndose breve mención de esta circunstancia al margen de la inscripción antigua, y refiriéndose a la nueva.
+Cuando un predio sea motivo de segregación se observarán las reglas siguientes:
+
+a).- Se consignará en la escritura la totalidad de extensión y linderos del predio que se va a desmembrar.
+
+b).- Extensión y linderos de la parte desmembrada, objeto de la venta.
+
+c).- Extensión y linderos del resto del predio segregado, y cuando los casos lo requieran a juicio del Registrador, un plano a escala a manera demostrativa de la parte sobrante.
+
+d).- Al verificarse cualquier desmembración de un predio, la parte que quede después de hecha la desmembración, debe ser motivo de una nueva inscripción, a fin de que al expedirse el certificado de libertad de gravamen sólo conste la parte que le queda al propietario, dejándose la inscripción primitiva únicamente como referencia para la nueva inscripción.
+
+e).- En los casos en que sea motivo de hipoteca un predio que ha sido objeto de segregación, se hará constar en la escritura respectiva que sólo se afecta la parte restante con determinación precisa de medidas y linderos y en ningún caso con la expresión en términos generales de q. (sic) en el predio ha sido desmembrado.
+
+f).- Como complemento de estas reglas, en los certificados de libertad de gravamen que ya tienen al margen nota de que ha sido desmembrado, deberá expresarse Notario y fecha de la escritura, y cuando tenga el predio anotación de gravado al margen, se consignará igualmente Notario, fecha de la escritura, importe del gravamen y nombre del acreedor. En los casos de escritura privada se anotará al margen la fecha de la misma si se trata de segregación, y si se refiere a gravamen se anotará igualmente fecha de la escritura, importe del gravamen y nombre del acreedor.
 
 ###### Art. 38.
 
@@ -622,3 +636,9 @@ Dado en el Palacio del Poder Legislativo del Estado; en Campeche, a los diez dí
 Por tanto, mando se imprima, publique y circule para su debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo del Estado, en Campeche, Cam., a los doce días del mes de junio de un mil novecientos cuarenta y cuatro.- El Secretario General de Gobierno Encargado del Despacho del Poder Ejecutivo del Estado. Lic. Fernando Berrón Ramos.- El Oficial Mayor en funciones de Secretario General de Gobierno. Lic. Celso García Alvarez.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE OCTUBRE DE 1956.
+
+UNICO.- Esta reforma entrará en vigor al siguiente día de su publicación en EL ESPIRITU PUBLICO, Organo Oficial del Estado.
