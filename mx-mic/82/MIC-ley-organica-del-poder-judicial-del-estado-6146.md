@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-6146"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-08-02"
-last_updated: "2000-03-13"
+last_updated: "2003-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 2 de agosto de 1982.
 
@@ -99,19 +99,19 @@ Los auxiliares a que se refiere este artículo estarán obligados a desempeñar 
 
 ### CAPITULO I. INTEGRACION
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2003)</small>
 
 ###### ARTICULO 5o.
 
-El Supremo Tribunal de Justicia se integra por diecisiete magistrados propietarios y el mismo número de supernumerarios. De los propietarios, uno será Presidente y los demás formarán Salas Unitarias, designadas por número ordinal y conforme a la materia que les corresponda conocer.
+El Supremo Tribunal de Justicia se integra por dieciocho magistrados propietarios y el mismo número de supernumerarios. De los propietarios, uno será Presidente y los demás formarán Salas Unitarias, designadas por número ordinal y conforme a la materia que les corresponda conocer.
 
 ### CAPITULO II. TRIBUNAL PLENO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2003)</small>
 
 ###### ARTICULO 6o.
 
-El Supremo Tribunal de Justicia funcionará en Pleno con los diecisiete magistrados propietarios que lo integran, pero bastará la presencia de once para que pueda sesionar.
+El Supremo Tribunal de Justicia funcionará en Pleno con los dieciocho magistrados propietarios que lo integran, pero bastará la presencia de doce para que pueda sesionar.
 
 Los magistrados supernumerarios serán llamados para que integren el Pleno, en los casos y en la forma señalados por la Constitución Política del Estado y por esta Ley.
 
@@ -237,11 +237,11 @@ VIII. Las resoluciones serán firmadas dentro del término de quince días por e
 
 El recurso de reclamación a que se refiere la fracción I del artículo 8o., se substanciará y resolverá conforme a la Ley Electoral del Estado. Las excitativas de justicia a que alude la fracción VIII del propio artículo 8º., se tramitarán y resolverán conforme al Título Octavo, Capítulo I, de la presente ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2003)</small>
 
 ###### ARTICULO 11.
 
-Las resoluciones de que habla el artículo anterior se tomarán por mayoría de votos de los magistrados presentes, incluido el Presidente. Si el Pleno funciona con menos de diecisiete magistrados y no se obtuviere mayoría, el proyecto continuará discutiéndose en la siguiente sesión, a la que ningún magistrado dejará de asistir; llamándose oportunamente, en el caso de falta o impedimento de los propietarios, a los supernumerarios que los substituyan.
+Las resoluciones de que habla el artículo anterior se tomarán por mayoría de votos de los magistrados presentes, incluido el Presidente. Si el Pleno funciona con menos de dieciocho magistrados y no se obtuviere mayoría, el proyecto continuará discutiéndose en la siguiente sesión, a la que ningún magistrado dejará de asistir; llamándose oportunamente, en el caso de falta o impedimento de los propietarios, a los supernumerarios que los substituyan.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -329,11 +329,11 @@ En su informe anual de labores, el Presidente del Supremo Tribunal dará a conoc
 
 ### CAPITULO IV. SALAS DEL SUPREMO TRIBUNAL
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2003)</small>
 
 ###### ARTICULO 18.
 
-El Supremo Tribunal de Justicia funcionará, con ocho salas civiles y ocho penales.
+El Supremo Tribunal de Justicia funcionará con ocho salas civiles y nueve penales.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
@@ -379,11 +379,11 @@ Si se trata del magistrado de la Octava Sala Civil, conocerá el de la Primera S
 
 (DEROGADA, P.O. 29 DE DICIEMBRE DE 1986)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2003)</small>
 
 ###### ARTICULO 21.
 
-La Salas Penales Primeras, Segunda, Tercera, Cuarta, Quinta, Sexta, Séptima y Octava, conocerán por turno, conforme al orden en que se reciba cada expediente:
+La Salas Penales Primera, Segunda, Tercera, Cuarta, Quinta, Sexta, Séptima, Octava y Novena, conocerán por turno, conforme al orden en que se reciba cada expediente:
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
@@ -401,11 +401,11 @@ III. De las cuestiones de competencia, acumulación, excusas y recusaciones con 
 
 IV. De las quejas que por incumplimiento de exhortos en materia penal se formulen contra los jueces de primera instancia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2003)</small>
 
 ###### ARTICULO 22.
 
-Los ocho primeros magistrados supernumerarios conocerán de los asuntos de derecho civil, familiar y mercantil, en el orden de su designación, cuando todos los magistrados propietarios de las salas a que se refiere el artículo 19 de esta Ley, sean recusados o se encuentren impedidos. Si todos los magistrados de las salas penales, son recusados o se hallan impedidos, los otros ocho magistrados supernumerarios conocerán, en el orden de su designación de los asuntos correspondientes a esta materia.
+Los ocho primeros magistrados supernumerarios conocerán de los asuntos de derecho civil, familiar y mercantil, en el orden de su designación, cuando todos los magistrados propietarios de las salas a que se refiere el artículo 19 de esta Ley, sean recusados o se encuentren impedidos. Si todos los magistrados de las salas penales, son recusados o se hallan impedidos, los otros nueve magistrados supernumerarios conocerán, en el orden de su designación de los asuntos correspondientes a esta materia.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
@@ -1798,3 +1798,21 @@ PRIMERO.- El presente Decreto, iniciará su vigencia el día siguiente hábil al
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto en este Decreto.
 
 TERCERO.- El Supremo Tribunal de Justicia, dictará las reglas conforme a las cuales se distribuirán entre las ocho salas penales, los asuntos que obran en las siete ya existentes y/o los asuntos seguirán tramitándose y resolviéndose en las Salas a las que compete su conocimiento.
+
+P.O. 9 DE JULIO DE 2003.
+
+###### ARTÍCULO PRIMERO
+
+El presente Decreto iniciará su vigencia el día hábil siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto en este Decreto.
+
+###### ARTÍCULO TERCERO
+
+El Pleno del Supremo Tribunal de Justicia del Estado dispondrá oportunamente el día de inicio de actividades de la Novena Sala Penal.
+
+###### ARTÍCULO CUARTO
+
+El Supremo Tribunal de Justicia del Estado dictará las reglas conforme a las cuales se distribuirán entre las nueve salas penales los asuntos de nuevo ingreso; en tanto, los ya radicados seguirán tramitándose y resolviéndose en las Salas a las que compete su conocimiento.
