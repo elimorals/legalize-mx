@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2000-08-24"
+last_updated: "2002-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE NOVIEMBRE DE 2002.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -64,7 +64,9 @@ I. Pedir la aplicación de las sanciones establecidas en las leyes penales;
 
 II. Pedir la libertad de los procesados, en la forma y términos que previene la ley;
 
-III. Pedir la reparación del daño en los términos especificados en el Código Penal.
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+
+III. Pedir la reparación del daño, en los términos especificados en el Nuevo Código Penal para el Distrito Federal.
 
 ## TITULO PRIMERO. R e g l a s G e n e r a l e s
 
@@ -108,17 +110,13 @@ Cuando de la averiguación previa no aparezca detención de persona alguna, el M
 
 (DEROGADO, D.O.F. 10 DE ENERO DE 1994)
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+
+###### ARTICULO 6.
+
+El Ministerio Público pedirá al Juez la aplicación de la sanción correspondiente al caso concreto de que se trate o la libertad del procesado, sea por que el delito no haya existido, sea por que, existiendo, no sea imputable al procesado o por que exista a favor de éste alguna de las causas de exclusión del delito previstas en el Capítulo V, Título Segundo, Libro Primero del Nuevo Código Penal para el Distrito Federal o alguna de las circunstancias de extinción de la pretensión punitiva a que se refiere el Título Quinto del Libro Primero de dicho ordenamiento.
+
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
-
-###### ARTICULO 6º.
-
-El Ministerio Público pedirá al juez la aplicación de la sanción correspondiente al caso concreto de que se trate o la libertad del procesado, sea porque el delito no haya existido, sea porque, existiendo, no sea imputable al procesado, o porque existan en favor de éste alguna de las circunstancias excluyentes de responsabilidad a que se refiere el Capítulo IV, Título I, Libro Primero del Código Penal, o en los casos de amnistía, prescripción y perdón o consentimiento del ofendido.
-
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
-
-###### ARTICULO 6°.
-
-Los términos que para interponer algún recurso estén corriendo al comenzar a regir este Código, se computarán conforme al presente o al anterior, si fueren mayores los que en éste se concedan.
 
 ###### ARTICULO 7º.
 
@@ -234,19 +232,19 @@ XV.- Informar a la víctima o, en su caso, a su representante legal, sobre el si
 
 ### CAPITULO II. Competencia
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 10.
 
-Los Jueces de Paz conocerán en materia penal, el procedimiento sumario de los delitos que tengan como sanción apercibimiento, caución de no ofender, multa, independientemente de su monto, o prisión cuyo máximo sea de cuatro años. En caso de que se trate de varios delitos se estará a la pena del delito mayor.
+Los jueces de Paz conocerán en procedimiento sumario o especial de los delitos o infracciones penales que tengan sanción no privativa de libertad, prisión o medida de seguridad hasta de cuatro años. En caso de que se trate de varios delitos se estará a la pena o medida de seguridad del delito o infracción penal mayor.
 
 (REFORMADO, D.O.F. 19 DE MARZO DE 1971) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1984)
 
 Fuera de la competencia a que se refiere el párrafo anterior, los jueces penales conocerán tanto de los procedimientos ordinarios como de los sumarios.
 
-> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
-Cuando se trate de varios delitos, el Juez de Paz será competente para dictar la sentencia proceda, aunque ésta pueda ser mayor de cuatro años de prisión a virtud de las reglas contenidas en los artículos 64 y 65 del Código Penal.
+Cuando se trate de varios delitos, el Juez de Paz será competente para dictar la sentencia que proceda, aunque esta pueda ser mayor de cuatro años de prisión a virtud de las reglas contenidas en el artículo 79 del Nuevo Código Penal para el Distrito Federal.
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
 
@@ -302,11 +300,11 @@ No se entregarán los expedientes a las partes, las cuales podrán imponerse de 
 
 Cuando se dé vista de la causa al inculpado, la autoridad tomará las precauciones que crea convenientes para que no la destruya; pero no obstante estas precauciones, si temiere fundadamente que el inculpado cometa un abuso, no se le permitirá leer la causa por sí mismo, sino que le será leída por su defensor o por el secretario.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 17.
 
-Si se perdiere algún expediente, se repondrá a costa del responsable, el cual estará obligado a pagar los daños y perjuicios que se ocasionen por la pérdida, quedando, además, sujeto a las disposiciones del Código Penal, siempre que el acto fuere sancionado conforme a ellas.
+Si se perdiere algún expediente, se repondrá a costa del responsable, el cual estará obligado a pagar los daños y perjuicios que se ocasionen por la perdida, quedando, además, sujeto a las disposiciones del Nuevo Código Penal para el Distrito Federal, siempre que el acto fuere sancionado conforme a ellas.
 
 ### CAPITULO IV. Despacho de los negocios
 
@@ -338,11 +336,11 @@ Contra cualquiera providencia en que se impusiere alguna de las correcciones de 
 
 La audiencia tendrá lugar ante el tribunal, juez o Ministerio Público que haya impuesto la corrección, y se resolverá el negocio al día siguiente.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 22.
 
-Por ningún acto procedimental se pagarán costas. El empleado que las cobrare o recibiere alguna cantidad, aunque sea a título de gratificación, será de plano destituido de su empleo, sin perjuicio de las demás sanciones que imponga el Código Penal.
+Por ningún acto procedimental se pagarán costas. El empleado que las cobrare o recibiere alguna cantidad, aunque sea a título de gratificación, será de plano destituido de su empleo, sin perjuicio de las demás sanciones que imponga el Nuevo Código Penal para el Distrito Federal.
 
 > <small>(REFORMADO, G.O. 8 DE JUNIO DE 2000)</small>
 
@@ -942,7 +940,9 @@ Los vestidos se describirán minuciosamente en la causa, y se conservarán en de
 
 Cuando el cadáver no pueda ser encontrado, se comprobará su existencia por medio de testigos, quienes harán la descripción de aquél y expresarán el número de lesiones o huellas exteriores de violencia que presentaba, lugares en que estaban situadas, sus dimensiones y el arma con que crean que fueron causadas. También se les interrogará si lo conocieron en vida, sobre los hábitos y costumbres del difunto, y sobre las enfermedades que hubiere padecido.
 
-Estos datos se darán a los peritos para que emitan su dictamen sobre las causas de la muerte, bastando entonces la opinión de aquéllos, de que la muerte fue resultado de un delito, para que se tenga como existente el requisito que exige el artículo 303 del Código Penal.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+
+Estos datos se darán a los peritos para que emitan su dictamen sobre las causas de la muerte, bastando entonces la opinión de aquéllos, de que la muerte fue resultado de un delito, para que se tenga como existente el requisito que exige el artículo 124 del Nuevo Código Penal para el Distrito Federal.
 
 ###### ARTICULO 108.
 
@@ -990,11 +990,11 @@ En caso de muerte, practicarán, además, la autopsia del cadáver.
 
 En todos los casos de robo, se harán constar en la descripción todas aquellas señales que puedan servir para determinar si hubo escalamiento, horadación o fractura, o si se usaron llaves falsas, haciendo cuando fuere necesario, que peritos emitan su opinión sobre estas circunstancias.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 115.
 
-Para comprobar el cuerpo del delito de violencia familiar deberán acreditarse las calidades específicas y circunstancias de los sujetos señalados en los artículos 343 bis y 343 ter del Código Penal para el Distrito Federal, además de agregarse a la averiguación previa los dictámenes correspondientes de los peritos en el área de salud física y mental, según lo contemplan los artículos 95, 96 y 121 del presente Código.
+Para comprobar el cuerpo del delito de violencia familiar deberán acreditarse las calidades específicas y circunstancias de los sujetos señalados en los artículos 200 y 201 del Nuevo Código Penal para el Distrito Federal, además de agregarse a la averiguación previa los dictámenes correspondientes de los peritos en el área de salud física y mental, según lo señalan los artículos 95, 96 y 121 del presente Código.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
@@ -1094,25 +1094,41 @@ Los lesionados que ingresen para su curación a los hospitales públicos, tan lu
 
 Siempre que un lesionado internado en un hospital público, salga de él, los médicos del establecimiento rendirán dictamen haciendo la clasificación legal, señalando el tiempo que dilatare la curación o dando el certificado de sanidad, según el caso.
 
-> <small>(ADICIONADO, G.O. 24 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 131 Bis.
 
-El Ministerio Público autorizará en un término de veinticuatro horas, la interrupción del embarazo de acuerdo con lo previsto en el artículo 334, fracción I del Código Penal cuando concurran los siguientes requisitos:
+El Ministerio Público autorizara en un término de veinticuatro horas, contadas a partir de que la mujer presente la solicitud, la interrupción de embarazo de acuerdo con lo previsto en el artículo 148, fracción I del Nuevo Código Penal para el Distrito Federal cuando concurran los siguientes requisitos:
+
+> <small>(ADICIONADA, G.O. 24 DE AGOSTO DE 2000)</small>
 
 I.- Que exista denuncia por el delito de violación o inseminación artificial no consentida;
 
+> <small>(ADICIONADA, G.O. 24 DE AGOSTO DE 2000)</small>
+
 II.- Que la víctima declare la existencia del embarazo;
+
+> <small>(ADICIONADA, G.O. 24 DE AGOSTO DE 2000)</small>
 
 III.- Que se compruebe la existencia del embarazo en cualquier institución del sistema público o privado de salud;
 
-IV.- Que existan elementos que permitan al Ministerio Público suponer que el embarazo es producto de la violación; y
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+
+IV.- Que existan elementos que permitan al Ministerio Público suponer que el embarazo es producto de una violación o inseminación artificial en los supuestos de los artículos 150 y 151 del Nuevo Código Penal para el Distrito Federal; y
+
+> <small>(ADICIONADA, G.O. 24 DE AGOSTO DE 2000)</small>
 
 V.- Que exista solicitud de la mujer embarazada.
 
+> <small>(ADICIONADO, G.O. 24 DE AGOSTO DE 2000)</small>
+
 Las instituciones de salud pública del Distrito Federal deberán, a petición de la interesada, practicar el examen que compruebe la existencia del embarazo, así como su interrupción.
 
+> <small>(ADICIONADO, G.O. 24 DE AGOSTO DE 2000)</small>
+
 En todos los casos tendrán la obligación de proporcionar a la mujer información imparcial, objetiva, veraz y suficiente sobre los procedimientos, riesgos, consecuencias y efectos; así como de los apoyos y alternativas existentes; para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable. Esta información deberá ser proporcionada de manera inmediata y no deberá tener como objetivo, inducir o retrasar la decisión de la mujer.
+
+> <small>(ADICIONADO, G.O. 24 DE AGOSTO DE 2000)</small>
 
 De igual manera, en el periodo posterior ofrecerán la orientación y apoyos necesarios para propiciar su rehabilitación personal y familiar para evitar abortos subsecuentes.
 
@@ -1374,9 +1390,11 @@ Si la inspección tuviere que hacerse en la casa oficial de algún agente diplom
 
 Toda inspección domiciliaria se limitará a la comprobación del hecho que la motive, y de ningún modo se extenderá a indagar delitos o faltas en general.
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTICULO 158.
 
-En las casas que estén habitadas, la inspección se verificará sin causar a los habitantes más molestias que las que sean indispensables para el objeto de la diligencia. Toda vejación indebida que se cause a las personas, se castigará conforme al Código Penal.
+En las casas que estén habitadas, la inspección se verificará sin causar a los habitantes más molestias que las que sean indispensables para el objeto de la diligencia. Toda vejación indebida que se cause a las personas, se castigará conforme al Nuevo Código Penal para el Distrito Federal.
 
 ###### ARTICULO 159.
 
@@ -1442,7 +1460,9 @@ En casos urgentes, la protesta la harán al producir o ratificar el dictamen.
 
 El juez fijará a los peritos el tiempo en que deban desempeñar su cometido. Transcurrido éste, si no rinden su dictamen, serán apremiados por el juez del mismo modo que los testigos y con iguales sanciones.
 
-Si a pesar del primer apremio, el perito no presentare su dictamen, será procesado por los delitos previstos por el Código Penal para estos casos.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+
+Si a pesar del primer apremio, el perito no presentare su dictamen, será procesado por los delitos previstos en el Nuevo Código Penal para el Distrito Federal para estos casos..
 
 ###### ARTICULO 170.
 
@@ -1644,11 +1664,11 @@ III. Cuando ignore el idioma castellano.
 
 En el caso de la fracción I del artículo anterior, el Ministerio Público o el juez, designarán para que acompañe al testigo, a otra persona que firmará la declaración, después de que aquél la ratifique. En el caso de las fracciones II y III, se procederá conforme a los artículos 183, 187 y 188 de este código.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 205.
 
-Antes de que los testigos comiencen a declarar, el Ministerio Público o el juez los instruirá de las sanciones que impone el Código Penal a los que se producen con falsedad o se niegan a declarar o a otorgar la protesta de ley. Esto podrá hacerse hallándose reunidos todos los testigos.
+Antes de que los testigos comiencen a declarar, el Ministerio Público o el Juez los instruirá de las sanciones que impone el Nuevo Código Penal para el Distrito Federal a los que se conducen con falsedad o se niegan a declarar o a otorgar la protesta de ley. Esto podrá hacerse hallándose presentes todos los testigos.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -2028,13 +2048,15 @@ I. Hostigamiento sexual, estupro y privación ilegal de la libertad con propósi
 
 II. Difamación y calumnia; y
 
-III. Los demás que determine el Código Penal.
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+III. Los demás que determine el Nuevo Código Penal para el Distrito Federal.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 264.
 
-Cuando para la persecución de los delitos sea necesaria la querella de parte ofendida, bastará que ésta, aunque sea menor de edad, manifieste verbalmente su queja, para que se proceda en los términos de los artículos 275 y 276 de este código. Se reputará parte ofendida para tener por satisfecho el requisito de la querella necesaria, a la víctima o titular del bien jurídico lesionado o puesto en peligro por la conducta imputada al indiciado, y tratándose de incapaces, a los ascendientes y a falta de éstos, a los hermanos o a los que representen a aquéllos legalmente; cuando la víctima por cualquier motivo no se pueda expresar, el legitimado para presentar la querella serán las personas previstas por el artículo 30 bis del Código Penal.
+Cuando para la persecución de los delitos sea necesaria la querella de parte ofendida, bastara que ésta, aunque sea menor de edad, manifieste verbalmente su queja, para que se proceda en los términos de los artículos 275 y 276 de este Código. Se reputara parte ofendida por tener por satisfecho el requisito de la querella necesaria, a la victima o titular del bien jurídico lesionado o puesto en peligro por la conducta imputada al indiciado, y tratándose de incapaces, a los ascendientes y a falta de estos, a los hermanos o a los que representen a aquéllos legalmente; cuando la víctima por cualquier motivo no se pueda expresar, el legitimado para presentar la querella serán las personas previstas por el artículo 45 del Nuevo Código Penal para el Distrito Federal.
 
 > <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1965)</small>
 
@@ -2112,25 +2134,17 @@ Para calcular el término medio aritmético de la pena de prisión se tomarán e
 
 Cuando se señalen penas en proporción a las previstas para el delito doloso consumado, la punibilidad aplicable es, para todos los efectos legales, la que resulte de la elevación o disminución, según corresponda, de los términos mínimo y máximo de la pena prevista para aquél.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
-
-ARTICULO. 268 bis.- En los casos de delito flagrante y en los urgentes, ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en el que deberá ordenar su libertad o ponerlo a disposición de autoridad judicial. Este plazo podrá duplicarse en los casos de delincuencia organizada, que serán aquellos en los que tres o más personas se organizan bajo reglas de disciplina y jerarquía para cometer de modo violento y reiterado o con fines predominantemente lucrativos alguno de los delitos previstos en los siguientes artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal: terrorismo previsto en el artículo 139 párrafo primero; sabotaje previsto en el artículo 140 párrafo primero; evasión de presos previsto en los artículos 150 y 152; ataque a las vías de comunicación previsto en los artículos 168 y 170; trata de personas prevista en el artículo 205 segundo párrafo; explotación del cuerpo de un menor de edad por medio del comercio carnal previsto en el artículo 208; violación previsto en el artículo 265, 266, 266 bis; homicidio doloso previsto en el artículo 302 con relación al 307, 315 y 320; secuestro previsto en el artículo 366 fracciones I a VI, exceptuando los párrafos antepenúltimo y penúltimo; robo calificado previsto en el artículo 370 párrafos segundo y tercero, cuando se realice en cualquiera de las circunstancias señaladas en los artículos 372, 381 fracciones IX y X, 381 bis; extorsión previsto en el artículo 390; despojo previsto en el artículo 395 último párrafo; así como el de tortura previsto en los artículos 3o. y 5o. de la Ley Federal para Prevenir y Sancionar la Tortura.
-
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
-
-Si para integrar la averiguación previa fuese necesario mayor tiempo del señalado en el párrafo anterior, el detenido será puesto en libertad, sin perjuicio de que la indagación continúe sin detenido.
-
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
-
-El juez que reciba la consignación con detenido procederá de inmediato a determinar si la detención fue apegada a la Constitución Política de los Estados Unidos Mexicanos o no; en el primer caso ratificará la detención y en el segundo decretará la libertad con las reservas de ley.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 268 Bis.
 
-En los casos de delito flagrante y en los urgentes, ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en el que deberá ordenar su libertad o ponerlo a disposición de autoridad judicial. Este plazo podrá duplicarse en los casos de delincuencia organizada, que serán aquellos en los que tres o más personas se organizan bajo reglas de disciplina y jerarquía para cometer de modo violento o reiterado o con fines predominantemente lucrativos alguno de los delitos previstos en los siguientes artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal: terrorismo previsto en el artículo 139 párrafo primero; sabotaje previsto en el artículo 140 párrafo primero; evasión de presos previsto en el artículo 150, con excepción de la parte primera del párrafo primero y 152; ataque a las vías de comunicación previsto en los artículos 168 y 170; violación previsto en el artículo 265, 266, 266 bis; homicidio doloso previsto en el artículo 302 con relación al 307, 315 y 320; secuestro previsto en el artículo 366 fracciones I a VI, exceptuando los párrafos antepenúltimo y penúltimo; robo calificado previsto en el artículo 370 párrafos segundo y tercero, cuando se realice en cualquiera de las circunstancias señaladas en los artículos 372, 381 fracciones IX y X, 381 bis; y el de extorsión previsto en el artículo 390.
+En los casos de delito flagrante y en los urgentes, ningún indicado (sic) podrá ser retenido por el Ministerio Público por mas de cuarenta y ocho horas, plazo en el que deberá ordenar su libertad o ponerlo a disposición de la autoridad judicial. Este plazo podrá duplicarse en los casos de delincuencia organizada a que se refiere el artículo 254 del Nuevo Código Penal para el Distrito Federal.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 Si para integrar la averiguación previa fuese necesario mayor tiempo del señalado en el párrafo anterior, el detenido será puesto en libertad, sin perjuicio de que la indagación continúe sin detenido.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 El juez que reciba la consignación con detenido procederá de inmediato a determinar si la detención fue apegada a la Constitución Política de los Estados Unidos Mexicanos o no; en el primer caso ratificará la detención y en el segundo decretará la libertad con las reservas de ley.
 
@@ -2808,9 +2822,11 @@ Practicado el sorteo, el juez ordenará se dé lectura a los artículos 522, de 
 
 Nunca serán admitidas, en este caso, las de simple excusa señaladas en el artículo 515 de este Código.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTICULO 345.
 
-Cuando un jurado no manifestare el impedimento que crea tener al hacerle la pregunta a que se refiere el artículo anterior, y apareciere en el acto o posteriormente que lo tiene, será consignado al juez competente para que éste le imponga la sanción que señala el artículo 247 del Código Penal.
+Cuando un jurado no manifestare el impedimento que crea tener al hacerle la pregunta a que se refiere el artículo anterior, y apareciere en el acto o posteriormente que lo tiene, será consignado al juez competente para que éste le imponga la sanción que señala el artículo 311 del Nuevo Código Penal para el Distrito Federal.
 
 La misma consignación se hará si se alega algún impedimento, y después apareciere no ser cierto.
 
@@ -2836,9 +2852,11 @@ Cada miembro del Jurado, llamado individualmente por el juez, contestará con vo
 
 "Sí Protesto."
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTICULO 350.
 
-Si alguno de los jurados se negare a protestar, el juez, de acuerdo con lo que dispone el artículo 182 del Código Penal, le impondrá de plano la sanción que ese precepto señala, sin recurso alguno y será substituido desde luego por el supernumerario correspondiente.
+Si alguno de los jurados se negare a protestar, el Juez, de acuerdo con lo que dispone el segundo párrafo del artículo 281 del Nuevo Código Penal para el Distrito Federal, le impondrá de plano la sanción que ese precepto señala, sin recurso alguno, y será substituido desde luego por el supernumerario correspondiente.
 
 ###### ARTICULO 351.
 
@@ -3660,19 +3678,27 @@ I. Cuando el responsable se hubiere substraído a la acción de la justicia;
 
 II. Cuando, después de incoado el procedimiento, se descubriere que el delito es de aquellos respecto de los cuales, conforme a los artículos 263 y 264 no se puede proceder sin que sean llenados determinados requisitos y éstos no se hubieren llenado; y
 
-III. En el caso de la última parte del artículo 68 del Código Penal y en los demás en que la Ley ordene expresamente la suspensión del procedimiento.
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO[N. DE E. ADICIONADO], D.O.F. 4 DE ENERO DE 1984)</small>
+III.- Cuando el inculpado adquiera una enfermedad mental durante el procedimiento; y
 
-La suspensión fundada en los supuestos de las fracciones I y III, no impide que, a requerimiento del Ministerio Público o del ofendido o de sus representantes, adopte el juzgador medidas precautorias patrimoniales en los términos del artículo 35.
+> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+
+IV.- En los demás casos en que la ley ordene expresamente la suspensión del procedimiento.
+
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+
+La suspensión no impide que, a requerimiento del Ministerio Público o del ofendido o de sus representantes legales, el juzgador adopte medidas precautorias en los términos del artículo 28 de este Código.
 
 ###### ARTICULO 478.
 
 Lo dispuesto en la fracción I del artículo anterior, se entiende sin perjuicio de que se practiquen todas las diligencias que tiendan a comprobar la existencia del delito, o la responsabilidad del prófugo, y a lograr su captura. Nunca la fuga de un inculpado impedirá la continuación del proceso respecto de los demás responsables del delito que hubieren sido aprehendidos.
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTICULO 479.
 
-Una vez lograda la captura del prófugo, el proceso continuará su curso, practicándose las diligencias que por la fuga no hubieren podido tener lugar, sin repetir las prácticas sino cuando el juez lo estime necesario. Lo mismo se hará cuando desaparezcan las causas que motivaron la suspensión, en el caso del artículo 68 del Código Penal.
+Una vez lograda la captura del prófugo, el proceso continuará su curso, practicándose las diligencias que por la fuga no hubieren podido tener lugar, sin repetir las practicadas sino cuando el Juez lo estime necesario. El procedimiento continuará cuando desaparezcan las causas que motivaron la suspensión.
 
 ###### ARTICULO 480.
 
@@ -3806,7 +3832,9 @@ Cuando se trate de diligencias de las que sea antecedente una causa que se esté
 
 No procederá la acumulación de procesos que se sigan ante tribunales o jueces de distinto fuero. En estos casos, el acusado quedará a disposición del juez que conozca del delito más grave, sin que esto sea obstáculo para seguir el proceso por el delito menos grave.
 
-El juez o tribunal que primero pronuncie sentencia ejecutoria, la comunicará al otro. Este, para pronunciar su fallo, se sujetará a lo que dispone el Código Penal para la imposición de sanciones en casos de acumulación y reincidencia.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+
+El Juez o Tribunal que primero pronuncie sentencia ejecutoria, la comunicará al otro. Este, para pronunciar su fallo, se sujetará a lo que dispone el Nuevo Código Penal para el Distrito Federal para la imposición de sanciones en casos de acumulación.
 
 ### CAPITULO V. Separación de procesos
 
@@ -3838,9 +3866,11 @@ El incidente sobre separación de procesos se substanciará por separado y en la
 
 El auto en que se decrete la separación sólo es apelable en el efecto devolutivo, si el recurso se interpone en el acto de la notificación, o dentro de veinticuatro horas.
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTICULO 510.
 
-Cuando varios jueces o tribunales conocieren de procesos cuya separación se hubiere decretado, el que primero pronuncie sentencia ejecutoria la comunicará a los otros; éstos dictarán su fallo, de acuerdo con lo que dispone el Código Penal para la imposición de sanciones en casos de acumulación y de reincidencia.
+Cuando varios jueces o tribunales conocieren de procesos cuya separación se hubiere decretado, el que primero pronuncie sentencia ejecutoria la comunicará a los otros; éstos dictarán su fallo, de acuerdo con lo que dispone el Nuevo Código Penal para el Distrito Federal para la imposición de sanciones en casos de acumulación.
 
 ### CAPITULO VI. Impedimentos, excusas y recusaciones
 
@@ -3848,7 +3878,9 @@ Cuando varios jueces o tribunales conocieren de procesos cuya separación se hub
 
 Los Magistrados, Jueces y Secretarios del Ramo Penal estarán impedidos de conocer, y en la obligación de excusarse, en los casos expresados en el artículo 522 de este Código.
 
-La contravención a esta disposición; se castigará como lo previene el Código Penal.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+
+La contravención a esta disposición se castigará como lo previene el Nuevo Código Penal para el Distrito Federal.
 
 ###### ARTICULO 512.
 
@@ -4014,17 +4046,17 @@ De esta multa será solidariamente responsable el que hubiere patrocinado al rec
 
 ### CAPITULO VII. Incidente para resolver sobre la reparación del daño exigible a terceras personas
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 532.
 
-La reparación del daño que se exija a terceros, de acuerdo con el artículo 32 del Código Penal para el Distrito Federal en Materia del Fuero Común y para toda la República en Materia del Fuero Federal deberá promoverse ante el juez o tribunal que conoce la acción penal, en cualquier estado del proceso, y se tramitará y resolverá conforme a los artículos siguientes.
+La reparación del daño que se exija a terceros, de acuerdo con el artículo 46 del Nuevo Código Penal para el Distrito Federal deberá promoverse ante el Juez o Tribunal que conoce la acción penal, en cualquier estado del proceso, y se tramitará y resolverá conforme a los artículos siguientes.
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 533.
 
-La responsabilidad civil por reparación del daño no podrá declararse sino a instancia de la parte ofendida contra las personas que determina el Código Penal.
+La responsabilidad civil por reparación del daño, no podrá declararse sino a instancia de la parte ofendida contra las personas que determina el Nuevo Código Penal para el Distrito Federal.
 
 ###### ARTICULO 534.
 
@@ -4410,75 +4442,57 @@ El juez o tribunal están obligados a dictar de oficio, todas las providencias c
 
 Recibida por la Dirección General de Prevención y Readaptación Social la copia de la sentencia y puesto a su disposición el reo, destinará a éste al lugar en que deba extinguir la sanción privativa de libertad.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 582.
 
-Para la ejecución de las sanciones, la Dirección General de Prevención y Readaptación Social se sujetará a lo prevenido en el Código Penal, en éste y en las leyes y los reglamentos respectivos.
+Para la ejecución de las sanciones, la Dirección General de Prevención y Readaptación Social se sujetará a lo previsto en el Nuevo Código Penal para el Distrito Federal, en éste y en las leyes y los reglamentos respectivos.
 
 ### CAPITULO II. De la libertad preparatoria
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
-
 ###### ARTICULO 583.
 
-Cuando algún reo que esté compurgando una sanción privativa de libertad, crea tener derecho a la libertad preparatoria por haber cumplido con los requisitos que exigen los artículos 84 y siguientes del Código Penal, ocurrirá a la Dirección General de Prevención y Readaptación Social, solicitándola y acompañando los certificados y demás pruebas conducentes.
-
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+(DEROGADO, G.O. 11 DE NOVIEMBRE DE 2002)
 
 ###### ARTICULO 584.
 
-Recibida la solicitud se recabarán los datos e informes y se practicarán los estudios necesarios para acreditar los requisitos a que se refiere el Código Penal. Igualmente se pedirá informe pormenorizado al director del reclusorio, acerca de la vida del reo en el lugar de reclusión.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+(DEROGADO, G.O. 11 DE NOVIEMBRE DE 2002)
 
 ###### ARTICULO 585.
 
-La Dirección General de Prevención y Readaptación Social resolverá sobre la solicitud a que se refiere el artículo anterior.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+(DEROGADO, G.O. 11 DE NOVIEMBRE DE 2002)
 
 ###### ARTICULO 586.
 
-Cuando se conceda la libertad preparatoria, el Delegado de la Dirección General de Prevención y Readaptación Social investigará la solvencia e idoneidad del fiador propuesto. En vista de la información, la Dirección resolverá si es o no de admitirse el fiador.
-
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+(DEROGADO, G.O. 11 DE NOVIEMBRE DE 2002)
 
 ###### ARTICULO 587.
 
-Admitido el fiador, se otorgará la fianza respectiva en los términos del artículo 562, y se extenderá al reo un salvo-conducto para que pueda comenzar a disfrutar de libertad. Esta concesión se comunicará al director del establecimiento respectivo, a la autoridad administrativa y al juez de la causa.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+(DEROGADO, G.O. 11 DE NOVIEMBRE DE 2002)
 
 ###### ARTICULO 588.
 
-Cuando el reo incurriera en alguno de los casos previstos por el artículo 86 del Código Penal, la autoridad que tenga conocimiento, dará parte a la Dirección General de Prevención y Readaptación Social, para que resuelva si revoca o no la libertad preparatoria.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+(DEROGADO, G.O. 11 DE NOVIEMBRE DE 2002)
 
 ###### ARTICULO 589.
 
-Cuando el reo cometiere un nuevo delito, se estará lo dispuesto en el artículo 86 del Código Penal, y el juez de la causa lo comunicará a la Dirección General de Prevención y Readaptación Social, para los efectos legales correspondientes.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+(DEROGADO, G.O. 11 DE NOVIEMBRE DE 2002)
 
 ###### ARTICULO 590.
 
-El salvo conducto a que se refiere el artículo 587 será firmado por el Director General de Prevención y Readaptación Social.
+(DEROGADO, G.O. 11 DE NOVIEMBRE DE 2002)
 
 ###### ARTICULO 591.
 
-Cuando se revoque la libertad preparatoria, se recogerá e inutilizará el salvo-conducto.
+(DEROGADO, G.O. 11 DE NOVIEMBRE DE 2002)
 
 ###### ARTICULO 592.
 
-El portador del salvo-conducto lo presentará siempre que sea requerido para ello por un Magistrado, Juez o Agente de la Policía Judicial.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+(DEROGADO, G.O. 11 DE NOVIEMBRE DE 2002)
 
 ###### ARTICULO 593.
 
-Cuando hubiere expirado el término de la condena que debiera haberse compurgado, de no concederse la libertad preparatoria, el reo ocurrirá al Tribunal Superior de Justicia para que éste, en vista de la sentencia y de los informes de la Dirección General de Prevención y Readaptación Social, haga la declaración de quedar el reo en absoluta libertad.
+(DEROGADO, G.O. 11 DE NOVIEMBRE DE 2002)
 
 ### CAPITULO III. De la retención
 
@@ -4512,19 +4526,13 @@ Cuando hubiere expirado el término de la condena que debiera haberse compurgado
 
 ### CAPITULO IV. De la conmutación de sanciones
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
-
 ###### ARTICULO 601.
 
-El que hubiera sido condenado por sentencia ejecutoriada y se encontrare en el caso del artículo 73 del Código Penal, podrá ocurrir al Ejecutivo, por conducto de la Dirección General de Prevención y Readaptación Social solicitando la conmutación de la sanción que se le hubiere impuesto.
-
-El condenado acompañará a su solicitud, testimonio de la sentencia y, en su caso, las constancias que acrediten plenamente los motivos que tuviere para pedir la conmutación.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+(DEROGADO, G.O. 11 DE NOVIEMBRE DE 2002)
 
 ###### ARTICULO 602.
 
-Al otorgarse la conmutación se estará a lo dispuesto en el artículo 76 del Código Penal.
+(DEROGADO, G.O. 11 DE NOVIEMBRE DE 2002)
 
 ### CAPITULO V. De la rehabilitación
 
@@ -4576,11 +4584,11 @@ Al que una vez se le hubiere concedido la rehabilitación, nunca se le podrá co
 
 (DEROGADO, D.O.F. 31 DE OCTUBRE DE 1989)
 
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 1989)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 612.
 
-Cuando se trate del indulto a que se refiere la fracción III del artículo 97 del Código Penal, el solicitante ocurrirá al Ejecutivo Federal con su petición, por conducto del Departamento del Distrito Federal, debiendo acompañar los justificantes de los servicios prestados a la Nación por el sentenciado.
+Cuando se trate del indulto a que se refiere el artículo 103 del Nuevo Código Penal para el Distrito Federal, el solicitante ocurrirá al Ejecutivo Federal con su petición, por conducto del Jefe de Gobierno del Distrito Federal, debiendo acompañar los justificantes de los servicios prestados a la Nación por el sentenciado.
 
 ###### ARTICULO 613.
 
@@ -4936,9 +4944,11 @@ Las listas a que se refiere el artículo anterior se publicarán, a más tardar,
 
 (DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1974)
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTICULO 657.
 
-Cuando resulten falsas las manifestaciones o las declaraciones de testigos a que se refiere el artículo 651, los declarantes y los testigos serán consignados al Ministerio Público como autores del delito definido en el artículo 247 del Código Penal.
+Cuando resulten falsas las manifestaciones o las declaraciones de testigos a que se refiere el artículo 651 de este Código, los declarantes y los testigos serán consignados al Ministerio Público como autores del delito definido en el artículo el artículo (sic) 311 del Nuevo Código Penal para el Distrito Federal.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -4974,11 +4984,11 @@ V. Cuando esté plenamente comprobado que en favor del inculpado existe alguna c
 
 VI. Cuando existan pruebas que acrediten fehacientemente la inocencia del acusado, y (sic)
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
+(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002
 
-VII. Cuando se trate de delitos culposos que sólo produzcan daño en propiedad ajena y/o lesiones de las comprendidas en los artículos 289 o 290 del Código Penal, si se paga la reparación del daño a la víctima o al ofendido por el delito, si el inculpado no hubiese abandonado a aquélla, y no se encontrase el activo en estado de ebriedad, o bajo el influjo de estupefacientes, psicotrópicos o sustancias que produzcan efectos similares.
+VII. Cuando se trate de delitos culposos que sólo produzcan daño en propiedad ajena y/o lesiones de las comprendidas en el artículo 130, fracciones I, II, III o IV del Nuevo Código Penal para el Distrito Federal, si se paga la reparación del daño a la víctima o al ofendido por el delito, si el inculpado no hubiese abandonado a aquélla, y no se encontrase el activo en estado de ebriedad, o bajo el influjo de estupefacientes, psicotrópicos o sustancias que produzcan efectos similares.
 
-Lo anterior, no procederá cuando se trate de culpa calificada como grave, conforme a la parte conducente del artículo 60 del Código Penal;
+Lo anterior, no procederá cuando se trate de culpa calificada como grave, conforme a la parte conducente del artículo 77 del Nuevo Código Penal para el Distrito Federal;
 
 > <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -5034,11 +5044,9 @@ El auto de sobreseimiento que haya causado estado, surtirá los efectos de una s
 
 ### CAPITULO IX. De los delitos y faltas oficiales
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
-
 ###### ARTICULO 668.
 
-Son delitos o faltas oficiales los que cometan los miembros de la Administración de Justicia en relación con los capítulos I, II, III y IV del Título Décimo y con el Título Décimoprimero del Libro Segundo del Código Penal, cuando ameriten una sanción corporal mayor de quince días de prisión o destitución. Si sólo debe aplicarse una sanción menor se considerarán como infracciones que deberán ser castigadas con correcciones disciplinarias por las autoridades judiciales correspondientes.
+(DEROGADO, G.O. 11 DE NOVIEMBRE DE 2002)
 
 ###### ARTICULO 669.
 
@@ -5116,17 +5124,17 @@ VII. Crear, organizar y manejar el sistema de selección y formación del person
 
 VIII. Crear y organizar una o más sociedades que funjan como patronatos para liberados, o agencias de las mismas o procurarles corresponsales, sea por diversos partidos judiciales, sea por delegaciones, sea por municipios, así como una federación de dichas sociedades;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
-IX. Conceder y revocar la libertad preparatoria; así como aplicar la disminución de la pena privativa de libertad, en uno y en otro caso, en los términos previstos por el Código Penal, así como conceder la libertad en los casos previstos por el último párrafo del artículo 93 del Código Penal;
+IX. Conceder y revocar la libertad preparatoria; así como aplicar la disminución de la pena privativa de libertad, en uno y en otro caso, en los términos previstos por la Ley de Ejecución de Sanciones Penales para el Distrito Federal, así como conceder la libertad en los casos previstos por el artículo 100 del Nuevo Código Penal para el Distrito Federal;
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
 X. Ejercer orientación y vigilancia sobre los enfermos mentales sometidos a medidas de seguridad por la jurisdicción penal y los sujetos a libertad preparatoria o condena condicional;
 
-> <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
-XI. Resolver, en los casos del artículo 75 del Código Penal, sobre la modificación de las modalidades de ejecución de la sanción impuesta, cuando haya incompatibilidad entre esas modalidades y la edad, sexo, salud o constitución física del reo;
+XI. Resolver, en los casos del artículo del artículo (sic) 75 del Nuevo Código Penal para el Distrito Federal, sobre la modificación de las modalidades de ejecución de la sanción impuesta, cuando haya incompatibilidad entre esas modalidades y la edad, sexo, salud o constitución física del reo;
 
 > <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
 
@@ -5136,9 +5144,9 @@ XII. Resolver sobre la distribución y aplicación de los objetos e instrumentos
 
 XIII. Formar las listas de jurados para el Distrito Federal;
 
-> <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
-XIV. Formular los reglamentos interiores de la Dirección y de los establecimientos a que se refiere la fracción VI de este artículo, y someterlos al Secretario de Gobernación, para su aprobación;
+XIV. Formular los reglamentos interiores de la Dirección y de los establecimientos a que se refiere la fracción VI de este artículo, y someterlos a la Secretaría de Gobierno del Distrito Federal, para su aprobación; y
 
 > <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
 
@@ -5148,15 +5156,19 @@ XV. Las demás que fijen las leyes y los reglamentos.
 
 (DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1974)
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTICULO 676.
 
-Corresponde al Departamento del Distrito Federal:
+Corresponde al Gobierno del Distrito Federal:
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
-I. Disponer, en los casos del artículo 39, y demás relativos del Código Penal, la forma y términos, en que deban hacerse efectivas las multas impuestas por los tribunales;
+I. Disponer, en los casos del artículo 49 y demás relativos del Nuevo Código Penal para el Distrito Federal, la forma y términos en que deban hacerse efectivas las multas impuestas por los tribunales;
 
-II. Recabar las multas y hacer de su importe la distribución que previene el artículo 35 del Código Penal;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+
+II. Recabar las multas y hacer de su importe la distribución que previene el segundo párrafo del artículo 41, así como en los términos de lo dispuesto en los artículos 50 y 51, todos del Nuevo Código Penal para el Distrito Federal;
 
 III. Fijar el monto y recibir las fianzas que el multado debe otorgar para desempeñar un trabajo privado; y
 
@@ -5191,6 +5203,10 @@ Todas las causas y recursos que en cualquiera instancia estén pendientes al com
 ###### ARTICULO 5°.
 
 Los recursos interpuestos antes de la vigencia de este Código y que no se hubieren aún admitido o desechado, se admitirán siempre que en este mismo Código o en el anterior fueren procedentes, y se substanciarán conforme a lo determinado en el presente.
+
+###### ARTICULO 6°.
+
+Los términos que para interponer algún recurso estén corriendo al comenzar a regir este Código, se computarán conforme al presente o al anterior, si fueren mayores los que en éste se concedan.
 
 ###### ARTICULO 7°.
 
@@ -5425,3 +5441,15 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 G.O. 24 DE AGOSTO DE 2000.
 
 UNICO.- El presente decreto entrará en vigor treinta días después de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 11 DE NOVIEMBRE DE 2002.
+
+PRIMERO: Este decreto entrará en vigor en la misma fecha en que entre en vigor el Nuevo Código Penal para el Distrito Federal.
+
+SEGUNDO: Los procesos iniciados con anterioridad a la entrada en vigor de este Decreto, continuarán tramitándose en los términos del Código de Procedimientos Penales para el Distrito Federal vigente antes de la entrada de este Decreto, salvo en lo que beneficie al procesado.
+
+TERCERO: Lo dispuesto en las fracciones I y II del articulo 676 del Código de Procedimientos Penales para el Distrito Federal, estará vigente hasta en tanto la Asamblea Legislativa expida la Ley del Fondo para la Reparación del Daño a las Víctimas del Delito.
+
+CUARTO: Túrnese al C. Jefe de Gobierno del Distrito Federal para su debida promulgación y publicación.
+
+QUINTO: Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
