@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1998-12-30"
+last_updated: "1999-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -405,17 +405,17 @@ VII.- Los arrendatarios en contratos de arrendamiento financiero de predios en l
 
 La valuación catastral de los predios será practicada en la forma y términos que señalen esta Ley y la Ley de Catastro.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 21 Bis 3.
 
-Sobre el valor catastral de los predios que se fije en los términos de la Ley respectiva, la Secretaría de Finanzas y Tesorería General del Estado procederá a la determinación del Impuesto para efectos del artículo 21 bis-8.
+Sobre el valor catastral de los predios que se fije en los términos de la Ley respectiva, la Tesorería Municipal procederá a la determinación del Impuesto para efectos del artículo 21 bis-8.
 
-> <small>(ADICIONADO, P. O. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 21 Bis 4.
 
-Cuando el predio se encuentre edificado con diversos departamentos sujetos al régimen de propiedad en condominio, la Secretaría de Finanzas y Tesorería General del Estado fijará el impuesto de acuerdo con los valores catastrales, el cual entrará en vigor a partir del bimestre siguiente a la fecha en que se haya autorizado previamente la escritura de constitución del condominio. Si éste se constituye sin estar terminadas las construcciones, el impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron. En estos casos, la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del bimestre siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; cada predio, departamento, despacho o local se empadronará por separado, girándose a cada cual el documento para el pago correspondiente.
+Cuando el predio se encuentre edificado con diversos departamentos sujetos al régimen de propiedad en condominio, la Tesorería Municipal fijará el impuesto de acuerdo con los valores catastrales, el cual entrará en vigor a partir del bimestre siguiente a la fecha en que se haya autorizado previamente la escritura de constitución del condominio. Si éste se constituye sin estar terminadas las construcciones, el impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron. En estos casos, la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del bimestre siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; cada predio, departamento, despacho o local se empadronará por separado, girándose a cada cual el documento para el pago correspondiente.
 
 > <small>(ADICIONADO, P. O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -505,9 +505,9 @@ V.- Los predios Ejidales.
 
 VI.- Los predios afectados al patrimonio de familia, en los términos del Código Civil del Estado, siempre que no sean propietarios o poseedores de otro bien raíz en el Estado.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-VII.- Los inmuebles propiedad de instituciones de beneficencia privada o de asociaciones con Objetivos similares, siempre que dichos inmuebles estén destinados directamente a los fines de las mismas y que en los mismos no se realicen actividades lucrativas o de negocio.
+VII.- Los inmuebles propiedad de instituciones de beneficencia privada o de asociaciones con objetivos similares, siempre que dichos inmuebles estén destinados directamente a los fines de las mismas y que en los mismos no se realicen actividades lucrativas o de negocio. No se considerará actividad lucrativa o de negocio, los frutos o productos de los bienes inmuebles de las instituciones o asociaciones que se destinen a los fines de las mismas, siempre que sus informes hayan sido aprobados por la Junta de Beneficencia Privada del Estado.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -641,11 +641,11 @@ Tratándose de construcciones no manifestadas, si no se pudiera fijar con precis
 
 Corresponde a los contribuyentes determinar las diferencias de construcción a manifestar respecto a lo señalado en el párrafo anterior y en caso de no realizarlo, la autoridad fiscal lo determinará y aplicará directamente al predio de que se trate, dando aviso de este hecho al contribuyente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 21 Bis 17.
 
-Los documentos para pago de Impuesto Predial que expida la Secretaría de Finanzas y Tesorería General del Estado, sólo tendrán efectos en relación con este mismo impuesto.
+Los documentos para el pago del Impuesto Predial que expida la Secretaría de Finanzas y Tesorería General del Estado o la Tesorería Municipal, sólo tendrán efectos en relación con este mismo impuesto.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -731,11 +731,11 @@ Están obligados al pago del Impuesto Sobre Adquisición de Inmuebles, las perso
 
 Para los efectos de esta ley, se considera base del impuesto el valor gravable del inmueble, que será el que resulte mayor entre el de operación y el consignado en el certificado de valor actual real, que al efecto expida la Secretaría de Finanzas y Tesorería General del Estado.
 
-(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998) (F. DE E., P.O. 18 DE ENERO DE 1999)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 28 Bis 1.
 
-En la adquisición de viviendas cuyo valor más alto en los términos del artículo 28 bis-3, fracción I, no exceda de 25 cuotas elevadas al año y siempre que el adquirente sea persona física, cubrirá el impuesto aplicando la tasa del 2% del valor del inmueble, después de reducirlo en 15 cuotas elevadas al año.
+En la adquisición de viviendas cuyo valor más alto en los términos del artículo 28 bis-3, fracción I, no exceda de 25 cuotas elevadas al año y siempre que el adquirente sea persona física y no sea propietario o poseedor de otro bien inmueble en el Estado, cubrirá el impuesto aplicando la tasa del 2% al valor del inmueble, después de reducirlo en 15 cuotas elevadas al año.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -765,9 +765,11 @@ IV.- En las adquisiciones realizadas por partidos y asociaciones políticas, par
 
 V.- En las adquisiciones que hagan las Juntas de Mejoramiento Moral, Cívico y Material, previa autorización del Ayuntamiento respectivo.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-VI.- En las adquisiciones que realicen los trabajadores al servicio de la Federación, Estado o Municipio, independientemente que estén o no sindicalizados, siempre y cuando el inmueble objeto del impuesto vaya a destinarse o se destine a vivienda y no posean otro bien raíz en el Estado. En los casos de trabajadores casados bajo el régimen de sociedad conyugal, la exención también operará al 100 %.
+VI.- En las adquisiciones que realicen los trabajadores al servicio de la Federación, Estado o Municipio, independientemente que estén o no sindicalizados, siempre y cuando el inmueble objeto del impuesto vaya a destinarse o se destine a vivienda y no sea propietario o poseedor de otro bien inmueble en el Estado. En los casos de trabajadores casados bajo el régimen de sociedad conyugal, la tarifa especial también operará al 100%.
+
+En estos casos cubrirán la tarifa referida, en las adquisiciones de terrenos cuyo valor base del Impuesto sea inferior a 7,500 cuotas y en casos de vivienda hasta de 15,000 cuotas, en caso contrario por el valor excedente será cubierto conforme a lo dispuesto por el artículo 28 BIS.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -793,17 +795,17 @@ XI.- En las adquisiciones de bienes del dominio privado que realicen el Estado, 
 
 XII.- En las adquisiciones de viviendas cuyo valor más alto entre el valor de adquisición y el indicado en el certificado de valor actual real, no exceda de 15 cuotas elevadas al año, siempre que el adquirente sea persona física y no sea propietario o poseedor de otro bien inmueble en el Estado.
 
-(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998) (F. DE E., P.O. 18 DE ENERO DE 1999)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-También se cubrirá la tarifa especial en las adquisiciones de vivienda cuyo valor más alto entre el valor de adquisición y el indicado en el certificado de valor actual real, no exceda de 9,398 cuotas, siempre que el adquirente sea jubilado o pensionado.
+También se cubrirá la tarifa especial en las adquisiciones de vivienda cuyo valor más alto entre el valor de adquisición y el indicado en el certificado de valor actual real, no exceda de 9,398 cuotas, siempre que el adquirente sea jubilado o pensionado y que no sea propietario o poseedor de otro bien inmueble en el Estado.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 XIII.- En las adquisiciones que se realicen por causa de muerte.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-Cuando uno o más coherederos adquieran porciones mayores a la parte heredada consignada dentro del testamento o de la que le corresponda en los términos de Ley, cubrirán el impuesto sobre la parte excedente en los términos del Artículo 28 Bis.
+Cuando uno o más coherederos adquieran porciones mayores a la parte heredada consignada dentro del testamento o de la que le corresponda en los términos de Ley, cubrirán el impuesto sobre la parte excedente en los términos del Artículo 28 Bis. Para los efectos de esta disposición, por parte heredada se entiende la que corresponde únicamente a los inmuebles y no a la totalidad de la masa hereditaria.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
@@ -930,6 +932,14 @@ En caso de que no se realizaran estos trámites, las facultades de las autoridad
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 En el supuesto de que en la declaración del Impuesto Sobre Adquisición de Inmuebles, se hubiere omitido el pago correspondiente a la construcción, ya sea por causas imputables al enajenante o adquirente, se impondrá una multa al adquirente de tres cuotas hasta el 100% de la contribución omitida, determinando ésta sobre el valor de la construcción no declarada.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Los Notarios Públicos tendrán la obligación de presentar a las Tesorerías Municipales que correspondan, un informe detallado a más tardar durante los meses de enero de cada año, correspondiente al año anterior, sobre las escrituras públicas y cualquier otro documento en el que se transmita la propiedad de bienes inmuebles, en los que hubiesen intervenido y que por alguna razón, no fueron inscritos en el Registro Público de la Propiedad y del Comercio y que por consecuencia no estuviese cubierto el Impuesto Sobre Adquisición de Inmuebles.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+En caso de no cumplir con lo anterior o haber cumplido en forma parcial, con la obligación descrita en el párrafo anterior, se impondrá al Notario correspondiente una sanción de 100 a 200 cuotas.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -1279,41 +1289,77 @@ III.- Adoptar las medidas de control que para el pago del impuesto establezcan l
 
 ### CAPITULO VIII BIS (SIC). IMPUESTO SOBRE AUMENTO DE VALOR Y MEJORIA ESPECIFICA DE LA PROPIEDAD
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 41 Bis 9.
 
-Se establece por esta Ley el Impuesto sobre Aumento de Valor y Mejoría Específica de la Propiedad, que gravitará con carácter real sobre los predios que sean beneficiados por una obra de urbanización, por estimarse que su desarrollo y conclusión acrecentará necesariamente el valor de dichos predios, sin que ésto se deba al esfuerzo económico de sus propietarios o poseedores.
+El Impuesto sobre Aumento de Valor y Mejoría Específica de la Propiedad, gravitará con carácter real sobre los predios que sean beneficiados por una obra pública, por estimarse que su desarrollo y conclusión acrecentará el valor de dichos predios, sin que esto se deba al esfuerzo económico de sus propietarios o poseedores.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2000)</small>
+
+El impuesto se causa objetivamente sobre el predio y en consecuencia, sigue la suerte de éste, que responde preferentemente por el crédito fiscal cualesquiera que sea el propietario o poseedor sucesivo, al momento en que se cause el impuesto.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 41 Bis 10.
 
-Son sujetos del impuesto, con responsabilidad directa los propietarios de los predios, y los poseedores de éstos cuando no exista o no esté definido el propietario. Responsables solidarios; los promitentes compradores y los adquirientes, en las operaciones con reserva de dominio Responsable solidaria la Institución Fiduciaria si el predio está afectado en fideicomiso, cuya institución cubrirá el impuesto con cargo a quien quede como propietario del predio beneficiado, una vez ejecutado el fideicomiso.
+Son sujetos del impuesto:
 
-Cuando sean personas distintas el propietario de la tierra y el de las construcciones, el impuesto recaerá sobre el primero.
+I.- Con responsabilidad directa: los propietarios de los predios y los poseedores de éstos cuando no exista o no esté definido el propietario.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+II.- Con responsabilidad solidaria:
+
+a) Los promitentes compradores;
+
+b) Los adquirentes, en las operaciones con reserva de dominio;
+
+c) Las instituciones fiduciarias si el predio está afectado en fideicomiso. La institución fiduciaria pagará el impuesto con cargo a quien quede como propietario del predio beneficiado, una vez ejecutado el fideicomiso.
+
+Cuando sean personas distintas el propietario de la tierra y el de las construcciones, el impuesto recaerá sobre el primero con responsabilidad directa y sobre el segundo con responsabilidad solidaria.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 41 Bis 11.
 
-El monto total del impuesto, en cada caso de urbanización, no podrá exceder del costo de la obra de que se trate.
+El monto total del impuesto no podrá exceder del costo de la obra pública de que se trate.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 41 Bis 12.
 
-El costo por derramar de una obra de urbanización, estará constituído por lo siguiente:
+El costo por derramar de una obra pública estará constituido por lo siguiente:
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 I.- Importe del Anteproyecto y del Proyecto.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
 II.- Importe de las indemnizaciones.
 
-III.- Importe de la obra de urbanización.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+III.- Importe de la obra.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 IV.- Pago de intereses y gastos bancarios si se requiere financiamiento.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
 V.- Gastos generales para la realización del proyecto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+El anteproyecto que realice la autoridad competente deberá contener los estudios de preinversión que permitan determinar conceptualmente una obra pública, en los que se deberá considerar su factibilidad social, técnica, económica y jurídica, así como su impacto ambiental.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+El proyecto que realice la autoridad competente deberá contener los estudios arquitectónicos y de ingeniería definitivos que permitan garantizar la ejecutabilidad de las obras, mismos que tenderán al equilibrio sostenido del medio.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+El importe de las indemnizaciones se constituye por el monto que resulte de las afectaciones o en su caso, de las expropiaciones de inmuebles necesarios para el desarrollo de la obra.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -1327,11 +1373,13 @@ El costo a que se refiere el Artículo anterior disminuirá para los efectos de 
 
 Cuando un predio afectado por expropiación lo sea también por este impuesto, el monto de este último se abonará al costo de la primera en la medida de su respectiva compensación.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 41 Bis 15.
 
-El impuesto se causará al día siguiente de la publicación del decreto legislativo que lo declare aplicable y deberá ser pagado dentro de los cinco días siguientes de notificada la liquidación correspondiente, en la forma y términos que se establezcan en el propio decreto.
+El decreto legislativo autorizará, en su caso, la forma de financiamiento, determinará los factores aplicables del Impuesto sobre Aumento de Valor y Mejoría Específica de la Propiedad, señalándose al efecto el monto total del importe a derramar y el área de influencia o beneficio de la obra.
+
+El impuesto se causará al día siguiente de la publicación del decreto legislativo y deberá ser pagado dentro de los cinco días siguientes de notificada la liquidación correspondiente.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -1417,7 +1465,9 @@ h) El importe líquido total del impuesto.
 
 El causante podrá inconformarse con la liquidación del impuesto, si encontrare en ella errores o inexactitudes que, en su concepto, puedan modificarla. La tramitación de este Recurso se sujetará a las normas siguientes:
 
-I.- Se presentará, por escrito, ante la Oficina Recaudadora. En esta promoción se hará ofrecimiento de pruebas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+I.- Se presentará por escrito ante la Tesorería Municipal. En esta promoción se hará ofrecimiento de pruebas.
 
 II.- El escrito será presentado dentro de los diez días siguientes al en que surta efectos la notificación de la liquidación.
 
@@ -1445,11 +1495,11 @@ En lo no previsto por esta Ley, la aplicación y recaudación del impuesto sobre
 
 Los Notarios Públicos no autorizarán, ni los Registradores Públicos de la Propiedad inscribirán, actos o contratos que impliquen transmisión de dominio, desmembración del mismo o constitución voluntaria de servidumbres o garantías reales, que tengan relación con inmuebles afectados a este impuesto, si no se les demuestra que se está al corriente en el pago del mismo.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 41 Bis 26.
 
-En lo no previsto en este Capítulo, será de aplicación supletoria la Ley de Planificación y Urbanización del Estado de Nuevo León.
+En lo no previsto en este Capítulo, será de aplicación supletoria, en lo relativo, la Ley de Ordenamiento Territorial de los Asentamientos Humanos y Desarrollo Urbano del Estado, la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, la Ley del Catastro del Estado y la Ley de Expropiación del Estado.
 
 ## TITULO TERCERO. DERECHOS
 
@@ -1461,7 +1511,9 @@ Los propietarios o poseedores de predios, en su caso, pagarán los derechos de c
 
 I.- Tubería de distribución de agua potable.
 
-II.- Drenaje Sanitario.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+II.- Drenaje Sanitario o Pluvial.
 
 III.- Gas.
 
@@ -1475,13 +1527,41 @@ VII.- Alumbrado Público.
 
 VIII.- Tomas domiciliarias de servicios de agua potable, drenaje sanitario y de gas.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+IX.- Ornato y Forestación.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+X.- Electrificación.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+XI.- Obras de rehabilitación y Mantenimiento de las obras ya realizadas, a que se refieren las fracciones anteriores.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Se consideran como predios beneficiados por las obras a que se refiere este artículo, los localizados con frente o colindantes a ellas, así como los próximos o dentro de las zonas que en forma directa o indirecta se favorezcan con tales obras.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 43.
 
-Para que causen los derechos de cooperación indicados, será necesario que los predios se encuentren en las siguientes circunstancias:
+Para establecer los derechos de cooperación a que se refiere el artículo anterior, deberán satisfacerse los siguientes requisitos:
+
+I.- Que las obras relativas sean declaradas de específico interés público por parte del Ayuntamiento que corresponda, cuando exista acuerdo afirmativo de por lo menos el 70% de los beneficiarios, por lo que el 100% de los derechos de cooperación se declararán obligatorios.
+
+El Ayuntamiento correspondiente determinará respecto de cada obra la cantidad que deben pagar como cooperación los particulares beneficiados.
+
+II.- Que se formule el proyecto relativo y el presupuesto correspondiente.
+
+Para que se causen los derechos de cooperación indicados, será necesario que los predios se encuentren en las siguientes circunstancias:
 
 I.- Si son exteriores, tener frente a la calle donde se ejecuten las obras.
 
 II.- Si son interiores, tener acceso mediante servidumbre de paso a la calle en que se ejecuten las obras.
+
+III.- Estar dentro de las zonas que en forma directa o indirecta se favorezcan con tales obras.
 
 ###### ARTICULO 44.
 
@@ -1490,6 +1570,12 @@ SUJETOS.- Están obligados a cubrir derechos de cooperación:
 I.- Los propietarios de predios beneficiados.
 
 II.- Los poseedores de predios beneficiados, cuando no exista propietario.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+III.- Los fideicomitentes, mientras sean poseedores del predio objeto del fideicomiso o los fideicomisarios que estén en posesión del predio en cumplimiento del fideicomiso. En caso de inmuebles objeto de fideicomisos, en los cuales no exista poseedor, la institución fiduciaria cubrirá los derechos por cooperación, cuando el predio esté afectado en fideicomiso, con cargo a quien quede como propietario del predio beneficiado.
+
+El derecho se causa objetivamente, por el beneficio que recibe el predio y en consecuencia, sigue la suerte de éste, que responde preferentemente por el crédito fiscal cualesquiera que sea el propietario o poseedor sucesivo, al momento en que se cause los Derechos por Cooperación.
 
 ###### ARTICULO 45.
 
@@ -1503,7 +1589,9 @@ I.- Por metro lineal de frente cuando se trate de las siguientes obras:
 
 a) Instalaciós (sic) de tubería de distribución de agua potable.
 
-b) Instalación de tubería para drenajes sanitario.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+b) Instalación de tubería para drenaje sanitario o pluvial.
 
 c) Instalación de tubería para gas.
 
@@ -1511,9 +1599,21 @@ d) Construcción de guarnición de concreto hidráulico.
 
 e) Instalación de alambrado público.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-Cuando se trate de predios ubicados en esquinas, solo se cobrará en proporción a los metros lineales del frente mayor tratándose de las obras referidas en los incisos a), b), c) y e).
+f) Ornato y Forestación.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+g) Electrificación.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+h) Obras de rehabilitación y Mantenimiento de las obras ya realizadas, a que se refieren las fracciones anteriores.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Cuando se trate de predios ubicados en esquinas, sólo se cobrará en proporción a los metros lineales del frente mayor tratándose de las obras referidas en los incisos a), b), c), e), f), g) y h).
 
 II.- Por metro cuadrado en función del frente o frentes de los predios beneficiados cuando se trate de las siguientes obras:
 
@@ -1529,6 +1629,10 @@ b) Tomas domiciliarias de drenaje sanitario.
 
 c) Tomas domiciliarias de gas.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+No obstante lo previsto en las fracciones I y II de este Artículo, la Autoridad podrá combinar ambas bases, por unidad de frente y de área en la aplicación de los Derechos por Cooperación, cuando resulte de mayor beneficio para los obligados.
+
 ###### ARTICULO 47.
 
 El monto de los derechos que, en cada caso concreto deban pagarse, conforme a las reglas del Artículo anterior, se determinará distribuyendo el costo de la obra en forma proporcional entre los sujetos gravados.
@@ -1537,11 +1641,17 @@ El monto de los derechos que, en cada caso concreto deban pagarse, conforme a la
 
 Los derechos de cooperación se causarán cuando el Presidente Municipal acuerde realizar la obra mediante concurso público o de invitación, que estará sujeto a las reglamentaciones respectivas. Para los efectos de ese Título, cuando se trate de obras de pavimentación o repavimentación, su duración mínima será de diez años y, en consecuencia, no se podrá acordar una nueva realización de las mismas antes de ese plazo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 49.
 
-Los derechos deberán ser pagados al inicio de la obra o dentro del plazo que se establezca en los convenios que se celebren entre los sujetos obligados al pago, y la Tesorería Municipal.
+Los derechos deberán ser pagados al inicio de la obra o dentro del plazo que determine la Tesorería Municipal que corresponda.
 
 La Tesorería Municipal formulará y notificará oportunamente al causante, la liquidación de los Derechos de Cooperación que resulten a su cargo, de acuerdo con el proyecto aprobado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+La construcción de obras públicas y cooperación para una zona o sector podrá llevarse a efecto por un Comité de vecinos cuando éstos lo soliciten y así lo autorice la autoridad municipal, siempre que sus integrantes trabajen en forma honoraria; que las obras sean ejecutadas bajo la supervisión de la autoridad respectiva y que los fondos necesarios sean recaudados y administrados por la Tesorería Municipal que corresponda o en su caso, en colaboración y coordinación con la Secretaría de Finanzas y Tesorería General del Estado.
 
 ### CAPITULO II. POR SERVICIOS PUBLICOS
 
@@ -1669,33 +1779,37 @@ Cuando se trate de animales incompletos, se causarán los derechos que establece
 
 ### CAPITULO III. POR CONSTRUCCIONES Y URBANIZACIONES
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 52.
 
-Servicios prestados por las oficinas competentes en materia de Obras Públicas y Urbanización.
+Servicios prestados por las oficinas competentes en materia de Obras Públicas y Desarrollo Urbano.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 I.- Por examen y aprobación de planos de construcción se cobrará por metro cuadrado, en cada una de las plantas:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-a) PRIMERA CATEGORÍA:- Comprende residencias con más de 500 metros cuadrados de construcción cerrada, oficinas y comercios, incluyéndose, entre otros, hoteles, cines, restaurantes y en general todo establecimiento en el que se desarrolle una actividad comercial, $3.50 el metro cuadrado.
+a) PRIMERA CATEGORIA:- Comprende residencias con más de 500 metros cuadrados de construcción cerrada, oficinas y comercios, incluyéndose, entre otros, hoteles, cines, restaurantes y en general todo establecimiento en el que se desarrolle una actividad comercial, 0.109 cuotas el metro cuadrado.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-b) SEGUNDA CATEGORÍA:- Comprende construcciones industriales y todo tipo de construcción no incluida dentro de la primera, tercera o cuarta categoría, $2.35 el metro cuadrado.
+b) SEGUNDA CATEGORIA:- Comprende construcciones industriales y todo tipo de construcción no incluida dentro de la primera, tercera o cuarta categoría, 0.073 cuotas el metro cuadrado.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-c) TERCERA CATEGORÍA:- Comprende casa-habitación y edificios o conjuntos multifamiliares con superficie de construcción cerrada no mayor de 150 metros cuadrados por vivienda, $.95 el metro cuadrado y $.50 el metro cuadrado de construcción abierta.
+c) TERCERA CATEGORIA:- Comprende casa-habitación y edificios o conjuntos multifamiliares con superficie de construcción cerrada no mayor de 150 metros cuadrados por vivienda, 0.030 cuotas el metro cuadrado y 0.015 cuotas el metro cuadrado de construcción abierta.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-d) CUARTA CATEGORÍA:- Comprende construcciones de bardas en cualquiera de las anteriores categorías, $1.20 por metro lineal.
+d) CUARTA CATEGORIA:- Comprende construcciones de bardas en cualquiera de las anteriores categorías, 0.037 cuotas por metro lineal.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 Los derechos previstos en esta fracción, en ningún caso serán inferiores a 2.5 cuotas.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 II.- Construcción o reconstrucción de banquetas en el sector urbanizado de la ciudad, cuando el trabajo se realice por el Municipio en razón de no haberla efectuado el obligado dentro del plazo de un mes siguiente al día en que surta efectos la notificación del requerimiento para que efectúe dichas obras. En este caso se pagarán los derechos correspondientes en función del costo real de la obra.
 
@@ -1707,13 +1821,15 @@ En materia de construcciones y urbanizaciones, no se cobrará derecho alguno por
 
 Por los servicios prestados en tramitaciones urbanísticas que se realizan en el Municipio en materia de desarrollo urbano:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-I.- Por subdivisiones, fusiones y relotificaciones, por cada lote o fracción
+I.- Por subdivisiones, parcelaciones, fusiones y relotificaciones, por cada lote o fracción resultante 30 cuotas
 
-resultante 30 cuotas.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 Por los predios resultantes de hasta 250 metros cuadrados de superficie y los que se deriven de herencias, si el valor catastral de éstos no excede de 6,378 cuotas, siempre que el propietario sea persona física y no tenga otra propiedad raíz en el Estado o, teniendo una sola, su valor catastral no exceda de 12,755 cuotas, se pagarán por cada lote o fracción resultante 3 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 Por información de factibilidad y lineamientos de los usos de suelo urbanos y de las edificaciones 2 cuotas
 
@@ -1769,15 +1885,25 @@ e) Mayor de 1,000 m2 30 cuotas
 
 Adicionalmente se cubrirá una cantidad complementaria, por metro cuadrado de construcción, excluyendo estacionamientos, conforme a la siguiente tarifa:
 
-a) Hasta 100 M2 $2.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-b) Mayor de 100 M2 y hasta 250 M2$ 5.00
+a) Hasta 100 m2 0.08 cuotas
 
-c) Mayor de 250 M2 y hasta 500 M2 $7.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-d) Mayor de 500 M2 y hasta 1,000 M2. $10.00
+b) Mayor de 100 m2 y hasta 250 m2 0.16 cuotas
 
-e) Mayor de 1,000 M2 $12.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+c) Mayor de 250 m2 y hasta 500 m2 0.24 cuotas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+d) Mayor de 500 m2 y hasta 1000 m2 0.31 cuotas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+e) Mayor de 1000 m2 0.38 cuotas
 
 La cuota prevista en el párrafo anterior, no excederá de $8.00 por metro cuadrado, para las edificaciones habitacionales multifamiliares. Las casas-habitación estarán exentas del pago de este derecho.
 
@@ -1785,9 +1911,9 @@ La cuota prevista en el párrafo anterior, no excederá de $8.00 por metro cuadr
 
 IV.- Por factibilidad y autorización de regímenes en condominio:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-a) Vertical por metro cuadrado de construcción, excluyendo estacionamientos $3.75
+a) Vertical, por metro cuadrado de construcción, excluyendo estacionamientos 0.12 cuotas
 
 b) Horizontal, por metro cuadrado de terreno, conforme a la tarifa señalada en la fracción V.
 
@@ -1801,49 +1927,43 @@ V.- Por autorización de fraccionamientos:
 
 a) Por factibilidad y lineamientos $ 117.5 cuotas.
 
-b) Por proyecto urbanístico, por metro cuadrado de área vendible:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-1.- Habitacionales o industriales, exceptuando los predios reservado para equipamientos comerciales y de servicios, de acuerdo a lo siguiente:
+b) Por Proyecto Urbanístico 117.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A. Lotes con superficie hasta 150 metros cuadrados $3.75
+c) Por Proyecto Ejecutivo, por metro cuadrado de área vendible:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B. Lotes con superficie de más de 150 metros cuadra dos hasta 300 metros cuadrados $5.00
+1.- Habitacionales o industriales, exceptuando los predios reservados para equipamientos comerciales y de servicios, de acuerdo a lo siguiente:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+A.- Lotes con superficie hasta 150 m2 0.107 cuotas
 
-C.- Lotes con superficie mayor de 300 metros cuadrados $6.00
+B.- Lotes con superficie de más de 150 m2 hasta 300 m2 0.143 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+C.- Lotes con superficie mayor de 300 m2 0.172 cuotas
 
-2.- Industriales ubicados en los municipios de Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina $3.75
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+2.- Industriales ubicados en los municipios de Apodaca, Escobedo, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina 0.107 cuotas
 
-3.- Industriales ubicados en los municipios de Apodaca, Escobedo, Guadalupe y Juárez $1.95
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+3.- Campestres ubicados en los municipios de Apodaca, Guadalupe, Monterrey, San Pedro Garza García, Santa Catarina y Santiago 0.107 cuotas
 
-4.- Campestres ubicados en los Municipios de Monterrey, San Pedro Garza García, Santa Catarina y Santiago $3.75
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+4.- Campestres ubicados en el resto del Estado 0.007 cuotas
 
-5.- Campestres ubicados en el resto del Estado $.25
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+5.- Otros ubicados en los municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santiago y Santa Catarina 0.107 cuotas
 
-6. Otros ubicados en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santiago y Santa Catarina $3.75
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
-
-7. Otros ubicados en el resto del Estado $.25
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-c) Proyecto Ejecutivo $117.5 cuotas
+6.- Otros ubicados en el resto del Estado 0.007 cuotas
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -1881,6 +2001,10 @@ VIII.- Por la expedición de diversas constancias y certificaciones $2.5 cuotas
 
 IX.- Por información de alineamiento de la vialidad 1.5 cuotas
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+En los derechos a que se refieren las fracciones II y III, el término edificación se relaciona exclusivamente con el uso de suelo y no con la construcción en sí del inmueble respectivo, por lo que el pago de los derechos a que se refieren dichas fracciones, no excluye al contribuyente de pagar los derechos de construcción a que haya lugar.
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 53.
@@ -1905,11 +2029,11 @@ IV.- Los cobertizos de madera y las construcciones de tipo provisional.
 
 Quedan exentos de los Derechos señalados en el Artículo 52 de esta Ley, los entes u organismos creados por el Gobierno del Estado de Nuevo León, para solucionar el problema de la vivienda y de la tenencia legal de la tierra, así como de las personas que, sin fines de lucro, lleven a cabo programas concretos, con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey", respecto de los predios directamente destinados a esos programas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 55.
 
-Por la inscripción de nuevos fraccionamientos o ampliaciones a los ya existentes, que apruebe el Gobierno del Estado, se cubrirán los siguientes derechos por metro cuadrado del área vendible:
+Por la inscripción de nuevos fraccionamientos o ampliaciones a los ya existentes, que apruebe la Autoridad Municipal, se cubrirán los siguientes derechos por metro cuadrado del área vendible:
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -1943,25 +2067,17 @@ Cuando lo solicite directamente el propietario del predio, la asignación del n�
 
 En todo caso, la placa con el número oficial podrá adquirirse, a elección del contribuyente, en algún establecimiento comercial o ante la autoridad municipal, cubriendo en este último caso el costo de la placa que fije el Municipio.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)(F. DE E., P.O. 2 DE FEBRERO DE 2000)
 
 ###### ARTICULO 56.
 
-Los nuevos fraccionamientos cederán además al municipio el 15% de la superficie urbanizada o fraccionada, cuya ubicación dentro del mismo fraccionamiento se determinará por la autoridad competente. En dicha superficie no se computará la asignada a calles.
+Los nuevos fraccionamientos cederán suelo al municipio para destinos, en los mismos términos a que se refiere la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado, en los términos del artículo 151.
 
-La autoridad competente a solicitud del fraccionador y oyendo la opinión de la Autoridad Municipal, podrá autorizar que la cesión del 15% de la superficie urbanizada o fraccionada se sustituya por una superficie no urbanizada equivalente en valor, dentro del mismo fraccionamiento.
+Las construcciones para nuevas edificaciones en terrenos no comprendidos en fraccionamientos autorizados, deberán ceder la superficie o pagar al municipio, en los mismos términos a que se refiere el artículo 149 de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado.
 
-En caso de fraccionamientos de inmuebles para cementerios, se cederá una superficie urbanizada o no, fuera del fraccionamiento y dentro del mismo municipio, equivalente en valor al 15% de la superficie urbanizada o fraccionada, ubicada en el lugar que determine la autoridad competente.
+Los Fraccionamientos funerarios o cementerios cederán la superficie o pagarán al municipio en los mismos términos a que se refiere el Artículo 166 de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado.
 
-Por lo menos las dos terceras partes del 15% de la superficie urbanizada o fraccionada deberán destinarse exclusivamente para parques, jardines y áreas verdes en general; la superficie restante se destinará para escuelas, lugares recreativos o para otros usos de interés social.
-
-La superficie que ampare el 15% cedido o su equivalente, será inalienable e imprescriptible, no estará sujeta a acción reivindicatoria o de posesión definitiva o provisional, y su destino en ningún caso podrá ser distinto del mencionado en este artículo.
-
-La Dirección de Catastro de la Secretaría de Finanzas y Tesorería General del Estado será la autoridad competente para traducir en cantidad líquida el porcentaje de la superficie mencionada.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
-
-La transmisión del dominio de la superficie cedida no requerirá de escrituración ante fedatario público. Para tal efecto bastará que el fraccionamiento sea autorizado por la autoridad estatal competente y que el plano del fraccionamiento sea registrado ante el Municipio que corresponda. Como título de propiedad de la porción cedida bastará la certificación que en el cuerpo mismo de plano oficial del fraccionamiento levante el Registro Público de la Propiedad y del Comercio, en el sentido de que el plano ha quedado inscrito en esa dependencia y de que en el mismo aparece debidamente delimitada el área de la superficie cedida al Municipio.
+Las relotificaciones o subdivisiones, en su caso deberán complementar las áreas para equipamientos y fines públicos, cediendo o pagando al municipio en los mismos términos a que se refiere el Artículo 168 de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado.
 
 ### CAPITULO IV. POR CERTIFICACIONES, AUTORIZACIONES, CONSTANCIAS Y REGISTROS
 
@@ -1979,7 +2095,7 @@ I.- Por expedición de certificados y constancias, 1 cuota por cada uno.
 
 Tratándose de constancias de no infracciones, relativas a control vehícular, .25 cuotas.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 II.- Por registro de regularización que a juicio de los Municipios deban llevarse a cabo, de negocios señalados en los artículos 58 y 59 de esta Ley, se cobrará una cantidad cincuenta por ciento mayor que la máxima correspondiente señalada en dichos artículos.
 
@@ -1995,13 +2111,13 @@ Por inscripción al inicio de las actividades que se señalan, así como por el 
 
 I.- Estadios de futbol y beisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas, con capacidad de hasta 15 mil personas, 1,500 cuotas y con capacidad de más de 15 mil personas, 2,700 cuotas.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-II.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público no mayor de 120 metros cuadrados, 1,593 cuotas.
+II.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público no mayor de 120 metros cuadrados, 1,593 cuotas y con superficie de atención al público mayor a 120 metros cuadrados, 1,883 cuotas.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-III.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público mayor de 120 metros cuadrados, 1,883 cuotas.
+III.- Rodeos con capacidad de hasta 1,500 personas, 1,883 cuotas y con capacidad mayor de 1,500 personas, 2,500 cuotas.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2015,9 +2131,17 @@ V.- Establecimientos que expendan bebidas alcohólicas:
 
 a) Abarrotes con venta de cerveza, con un área de exposición al público, no mayor de 50 metros cuadrados, 15 cuotas.
 
-b) Depósitos con venta de cerveza, 40 cuotas.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-c) Depósitos con venta de cerveza, vinos y licores, 80 cuotas.
+Abarrotes con venta de cerveza, vinos y licores con un área de exposición al público no mayor de 50 metros cuadrados, 30 cuotas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+b) Depósitos con venta de cerveza, incluyendo los que tienen servicio de auto, 40 cuotas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+c) Depósitos con venta de cerveza, vinos y licores, incluyendo los que tienen servicio de auto, 80 cuotas.
 
 d) Licorerías, 80 cuotas.
 
@@ -2025,13 +2149,19 @@ e) Minisuper y tiendas de conveniencia con un área de exposición al público n
 
 f) Minisuper y tiendas de conveniencia con un área de exposición al público mayor a 120 metros cuadrados, 135 cuotas.
 
-g) Tiendas de autoservicio y supermercado con un área de exposición al público no mayor a 120 metros cuadrados, 190 cuotas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-h) Tiendas de autoservicio y supermercado con un área de exposición al público mayor a 120 metros cuadrados, 380 cuotas.
+g) Tiendas de autoservicio con un área de exposición al público mayor a 120 metros cuadrados, 190 cuotas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+h) Tiendas de autoservicio departamentales con un área de exposición al público mayor a 120 metros cuadrados, 380 cuotas.
 
 2.- Establecimientos que expendan al mayoreo y con servicio de distribución, cerveza o bebidas alcohólicas en botella cerrada, 340 cuotas.
 
-3.- Establecimientos que expendan bebidas alcohólicas en botella abierta o al copeo:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+3.- Establecimientos que expendan o en los que se consuman bebidas alcohólicas en botella abierta o al copeo.
 
 a) Cervecerías con expendio de cerveza, 85 cuotas.
 
@@ -2039,15 +2169,23 @@ b) Restaurantes, loncherías, fondas y similares, con expendio de cerveza, 85 cu
 
 c) Billares con expendio de cerveza, 85 cuotas.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Billares con expendio de cerveza, vinos y licores, 130 cuotas.
+
 d) Cantinas o bares, con expendio de cerveza, vinos y licores, 250 cuotas.
 
 e) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público de hasta 120 metros cuadrados, 150 cuotas.
 
 f) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público mayor a 120 metros cuadrados, 250 cuotas.
 
-g) Centros o clubes sociales, con expendio o consumo de cerveza, vinos y licores, con un área de hasta 200 metros cuadrados de superficie construida, 394 cuotas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-h) Centros o clubes sociales, con expendio o consumo de cerveza, vinos y licores, con un área mayor a 200 metros cuadrados de superficie construida, 426 cuotas.
+g) Centros o Clubes Sociales o Deportivos con expendio y consumo de cerveza, vinos y licores, pagarán 1 cuota por metro cuadrado de superficie de expendio o consumo. En ningún caso la cantidad a pagar será inferior a 100 cuotas.
+
+Centros o Clubes Sociales o Deportivos con consumo de cerveza, vinos y licores, pagarán 0.25 cuotas por metro cuadrado de superficie de consumo. En ningún caso la cantidad a pagar será inferior a 50 cuotas.
+
+h) (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -2061,71 +2199,73 @@ j) Hoteles con restaurante y bar, en los que se expendan o consuman cervezas, vi
 
 k) Hoteles con restaurante, bar y salones para evento, en los que se expendan o consuman cervezas, vinos o licores 1400 cuotas
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-Para la aplicación de los derechos previstos en el artículo anterior, cuando un establecimiento existan varios giros, se pagarán los derechos correspondientes para cada uno de ellos.
+Para la aplicación de los derechos previstos en este artículo, cuando en un establecimiento existan varios giros, se pagarán los derechos correspondientes para cada uno de ellos.
 
-Si algún expendio de bebidas alcohólicas no encuadra específicamente en la clasificación contenida en dichos artículos, se equiparará a la que por sus características le sea más semejante.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Si algún expendio de bebidas alcohólicas no encuadra específicamente en la clasificación contenida en este artículo, se equiparará a la que por sus características le sea más semejante.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 Se entiende por área de exposición al público, la totalidad de piso de venta a que tiene acceso el público, en un determinado establecimiento.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 VI.- Establecimientos donde se expenda o distribuya cualquier clase de carne, de N$35.00 a N$110.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 VII.- Fábricas de hielo, de N$40.00 a N$140.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 VIII.- Molinos de Nixtamal, de N$35.00 a N$110.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 IX.- Establecimientos donde se fabrique cualquier clase de tortillas y tostadas, de N$40.00 a N$130.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 X.- Peluquerías y salones de belleza, de N$35.00 a N$110.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XI.- Salones de masaje, excepto cuando el servicio sea prestado por quiroprácticos, de N$14,000.00 a N$36,000.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XII.- Baños públicos, de N$140.00 a N$360.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XIII.- Salas de cine, boliches, patinaderos y salones de fiestas infantiles, de N$70.00 a N$200.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XIV.- Terrazas de cine y autocinemas, de N$40.00 a N$120.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 XV.- Estacionamientos de vehículos en los que se cobre tarifa o pensión al usuario:
 
@@ -2145,19 +2285,19 @@ c) A la intemperie, de N$110.00 a N$360.00
 
 d) Con superficie abierta no mayor de 400 metros cuadrados, de N$40.00 a N$120.00
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XVI.- Salones de baile, de N$3,500.00 a N$8,000.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, N$55.00 por unidad.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2177,13 +2317,13 @@ Por inscripción al inicio de las actividades que señalan, así como por el ref
 
 I.- Estadios de futbol y beisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas, con capacidad de hasta 15 mil personas, 1,000 cuotas y con capacidad de más de 15 mil personas, 1800 cuotas.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-II.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público no mayor de 120 metros cuadrados, 772 cuotas.
+II.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público no mayor de 120 metros cuadrados, 772 cuotas y con superficie de atención al público mayor a 120 metros cuadrados, 872 cuotas.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-III.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público mayor de 120 metros cuadrados, 872 cuotas.
+III.- Rodeos con capacidad de hasta 1,500 personas, 872 cuotas y con capacidad mayor de 1,500 personas, 1,500 cuotas.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2197,9 +2337,17 @@ V.- Establecimientos que expendan bebidas alcohólicas:
 
 a) Abarrotes con venta de cerveza, con un área de exposición al público, no mayor de 50 metros cuadrados, 9 cuotas.
 
-b) Depósitos con venta de cerveza, 27 cuotas.
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)(F. DE E., P.O. 2 DE FEBRERO DE 2000)
 
-c) Depósitos con venta de cerveza, vinos y licores, 53 cuotas.
+Abarrotes con venta de cerveza, vinos y licores con un área de exposición al público no mayor de 50 metros cuadrados, 18 cuotas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+b) Depósitos con venta de cerveza, incluyendo los que tienen servicio de auto, 27 cuotas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+c) Depósitos con venta de cerveza, vinos y licores, incluyendo los que tienen servicio de auto, 53 cuotas.
 
 d) Licorerías, 53 cuotas.
 
@@ -2207,13 +2355,19 @@ e) Minisuper y tiendas de conveniencia con un área de exposición al público n
 
 f) Minisuper y tiendas de conveniencia con un área de exposición al público mayor a 120 metros cuadrados, 68 cuotas.
 
-g) Tiendas de autoservicio y supermercado con un área de exposición al público no mayor a 120 metros cuadrados, 118 cuotas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-h) Tiendas de autoservicio y supermercado con un área de exposición al público mayor a 120 metros cuadrados, 273 cuotas.
+g) Tiendas de autoservicio con un área de exposición al público mayor de 120 metros cuadrados, 118 cuotas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+h) Tiendas de autoservicio departamentales con un área de exposición al público mayor a 120 metros cuadrados, 273 cuotas.
 
 2.- Establecimientos que expendan al mayoreo y con servicio de distribución, cerveza o bebidas alcohólicas en botella cerrada, 136 cuotas.
 
-3.- Establecimientos que expendan bebidas alcohólicas en botella abierta o al copeo:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+3.- Establecimientos que expendan o en los que se consuman bebidas alcohólicas en botella abierta o al copeo:
 
 a) Cervecerías con expendio de cerveza, 60 cuotas.
 
@@ -2221,15 +2375,21 @@ b) Restaurantes, loncherías, fondas y similares, con expendio de cerveza, 53 cu
 
 c) Billares con expendio de cerveza, 60 cuotas.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Billares con expendio de cerveza, vinos y licores, 100 cuotas.
+
 d) Cantinas o bares, con expendio de cerveza, vinos y licores, 172 cuotas.
 
 e) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público de hasta 120 metros cuadrados, 38 cuotas.
 
 f) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público mayor a 120 metros cuadrados, 62.5 cuotas.
 
-g) Centros o clubes sociales, con expendio o consumo de cerveza, vinos y licores, con un área de hasta 200 metros cuadrados de superficie construida, 133 cuotas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-h) Centros o clubes sociales, con expendio o consumo de cerveza, vinos y licores, con un área mayor a 200 metros cuadrados de superficie construida, 150 cuotas.
+g) Centros o Clubes Sociales o Deportivos con expendio o consumo de cerveza, vinos y licores, pagarán 0.80 cuotas por metro cuadrado de superficie de expendio o consumo. En ningún caso la cantidad a pagar será inferior a 80 cuotas.
+
+h) (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -2243,71 +2403,53 @@ j) Hoteles con restaurante y bar, en los que se expendan o consuman cervezas, vi
 
 k) Hoteles con restaurante, bar y salones para evento, en los que se expendan o consuman cervezas, vinos o licores 1400 cuotas
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-Para la aplicación de los derechos previstos en el artículo anterior, cuando (sic) un establecimiento existan varios giros, se pagarán los derechos correspondientes para cada uno de ellos.
+Para la aplicación de los derechos previstos en este artículo, cuando en un establecimiento existan varios giros, se pagarán los derechos correspondientes para cada uno de ellos.
 
-Si algún expendio de bebidas alcohólicas no encuadra específicamente en la clasificación contenida en dichos artículos, se equiparará a la que por sus características le sea más semejante.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Si algún expendio de bebidas alcohólicas no encuadra específicamente en la clasificación contenida en este artículo, se equiparará a la que por sus características le sea más semejante.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 Se entiende por área de exposición al público, la totalidad de piso de venta a que tiene acceso el público, en un determinado establecimiento.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
-
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 VI.- Establecimientos en donde se expenda o distribuya cualquier clase de carne, de N$35.00 a N$110.00.
-
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 VII.- Fábricas de hielo, de N$40.00 a N$140.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
-
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 VIII.- Molinos de nixtamal, de N$35.00 a N$110.00.
-
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 IX.- Establecimientos donde se fabrique cualquier clase de tortillas y tostadas, de N$40.00 a N$130.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
-
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 X.- Peluquerías y salones de belleza, de N$35.00 a N$110.00.
-
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XI.- Salones de masaje, excepto cuando el servicio sea prestado por quiroprácticos, de N$6,000.00 a N$15,000.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
-
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XII.- Baños públicos, de N$70.00 a N$180.00.
-
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XIII.- Salas de cine, autocinemas, boliches, patinaderos y salones de fiestas infantiles, de N$40.00 a N$140.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
-
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XIV.- Terrazas de cine y autocinemas, de N$40.00 a N$120.00.
-
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
 
 XV.- Estacionamientos de vehículos en los que se cobre tarifa o pensión al usuario:
 
@@ -2327,19 +2469,13 @@ c) A la intemperie, de N$70.00 a N$200.00.
 
 d) Con superficie no mayor de 400.00 metros cuadrados, de N$40.00 a N$135.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
-
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XVI.- Salones de baile, de N$1,700.00 a N$4,000.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
-
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, N$35.00 por unidad.
-
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2397,29 +2533,33 @@ I.- Por servicios de examen médico, de pericia, de verificación de datos propo
 
 Esta autorización sólo se expedirá cuando se obtenga la licencia por primera vez y cuando el conductor sobrepase la edad prevista en el Reglamento de Tránsito.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+Permisos para transitar sin placas, 6 cuotas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Dichos permisos serán provisionales y únicamente se otorgarán en caso de baja en el padrón vehicular; siempre y cuando ésta se origine por traslado del vehículo a otra entidad federativa, así como en caso de pérdida o robo de las placas respectivas, previa denuncia del particular ante las autoridades competentes, debiendo otorgarse el permiso por una sola vez, sin exceder del término de 15 días, de acuerdo con el Reglamento respectivo. En circunstancias distintas a lo anterior, que estén debidamente establecidas en los reglamentos municipales, podrán ampliarse el término y la frecuencia en el otorgamiento del permiso, debiéndose cubrir en tal caso, los derechos a que se refiere el párrafo anterior.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 Por expedición de licencias para estacionamiento exclusivo para carga y descarga, 5 cuotas.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 II.- Por inspecciones que previenen los Reglamentos a nivel municipal, de N$20.00 a N$70.00, excepto por la inspección de polvorines, gasolineras, plantas y expendios de gas, en que la cuota será de N$330.00 a N$700.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 III.- Por servicios de inspección sanitaria de animales que se transporten en vehículos de cualquier índole: N$40.00 por cabeza de ganado vacuno, caballar, asnar, mular y porcino, y N$.25 por cabeza de ganado cabrío o lanar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-IV.- Por servicios de revisión de documentación en las operaciones de adquisición de inmuebles, 6 cuotas por cada inmueble.
+IV.- Por servicios de revisión de documentación en las operaciones de adquisición de inmuebles, 7 cuotas por cada inmueble.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -2439,7 +2579,7 @@ En los servicios que por razones de orden público se vea obligado a prestar el 
 
 Cualquier otro servicio no incluido en esta Ley, que se encuentre establecido en otro ordenamiento legal, se fijarán igualmente los derechos correspondientes en razón a su costo.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE PARRAFO, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE PARRAFO, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 Cuando el particular solicite algún servicio que no esté contemplado en esta ley o en algún otro ordenamiento legal, las partes fijarán su monto de común acuerdo.
 
@@ -2451,37 +2591,37 @@ Cuando el particular solicite algún servicio que no esté contemplado en esta l
 
 Por la expedición de licencias se cobrará:
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 I.- Para bailes, tertulias, cancioneros, variedades en casinos, clubes, restaurantes, centros sociales, terrazas, que se realicen en forma esporádica y se cobre derecho de admisión o se expida boletaje para la entrada, de N$65.00 a N$130.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 II.- Por cada corrida de toros y rodeo, N$1,650.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 III.- Por cada novillada, N$550.00.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 IV.- Por temporada de atracciones, circos y demás espectáculos públicos, de N$35.00 a N$130.00.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-V.- Por licencia y medio de identificación oficial para anuncios que deberá quedar adherido al mismo, se pagarán por metro cuadrado de exposición, 10 cuotas.
+V.- Por licencia y medio de identificación oficial para anuncios que deberá quedar adherido al mismo, se pagarán por metro cuadrado de exposición, 2.5 cuotas.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-En ningún caso la cantidad a pagar por anuncio será inferior a 10 cuotas, ni superior a 500 cuotas. En el caso de anuncios cuya superficie de exposición esté compuesta de elementos electrónicos, el monto máximo será la cantidad de 750 cuotas.
+En ningún caso la cantidad a pagar por anuncio será inferior a 2.5 cuotas, ni superior a 50 cuotas. En el caso de anuncios cuya superficie de exposición esté compuesta de elementos electrónicos, el monto máximo será la cantidad de 75 cuotas.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2517,7 +2657,9 @@ Monte.- Cuando existan arbustos de tallo leñoso, cuyo diámetro sea inferior a 
 
 Hierba.- Plantas de cualquier tipo con tallo herbáceo.
 
-Se entenderá que un lote baldío requiere limpieza, cuando el monte o hierba sobrepasen una altura de 30 centímetros o cuando exista basura, escombro, animales muertos, vehículos u objetos abandonados.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Se entenderá que un lote baldío requiere limpieza, cuando el monte o hierba sobrepase una altura de 30 cm. o cuando exista basura, escombro, animales muertos, vehículos u objetos abandonados, en caso de que en el predio en cuestión se dé uno o más de estos supuestos, se aplicará al propietario una sanción que podrá ser de 20 a 50 cuotas, dependiendo de la gravedad de la infracción, reincidencia y grado de daño ambiental generado.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -2581,9 +2723,11 @@ En el caso de los contribuyentes mencionados en los incisos a) y b), deberán ef
 
 Por ocupación de la vía pública:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-I.- Por ocupar la vía pública con sillas, mesas y toda clase de instalaciones fijas o semifijas, se pagarán .016 cuotas diarias por metro cuadrado completo.
+I.- Por ocupar la vía pública con sillas, mesas y toda clase de instalaciones fijas o semifijas, se pagarán 0.016 cuotas diarias por metro cuadrado completo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 Otras ocupaciones de la vía pública, se pagarán .081 cuotas diarias por metro cuadrado completo.
 
@@ -2608,6 +2752,8 @@ Se exceptúan de lo anterior, los lugares en donde se encuentren instalados parq
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 IV.- Por estacionamientos de vehículos en la vía pública, en aquellos lugares donde existen instalados parquímetros, por cada hora o fracción, $2.00.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -2727,7 +2873,9 @@ En los casos en que se requiera permiso previo para operar, deberá cumplirse es
 
 Para los efectos de esta Ley, se entiende como fecha de iniciación de operaciones de los contribuyentes, aquélla en que se efectúe la apertura del negocio o en la que se obtenga el primer ingreso o en la que se consigne en el registro de instancias hacendarias federales o estatales, cualquiera de los hechos anteriores que ocurra primero.
 
-No podrán iniciar operaciones sin autorización previa y por escrito de la Autoridad Municipal, los siguientes negocios: centros nocturnos, lugares públicos de reunión con variedad artística; establecimientos donde se expenda o distribuya cualquier clase de carne; fábricas de hielo; estacionamientos con cobro de tarifa o pensión; peluquerías; salones de belleza; salones de masaje que no sean atendidos por quiroprácticos; baños públicos; molinos de nixtamal; establecimientos donde se fabrique cualquier clase de tortillas y tostadas; cabarets; centros nocturnos; discotecas; lugares públicos de reunión con variedad artística y similares; hoteles de paso; cantinas; bares; cervecerías; restaurantes-bares; estadios de futbol; beisbol; arenas de box; lucha libre; plazas de toros y en general todo lugar donde se realicen actividades deportivas; "futbolitos", billares; cualquier establecimiento que venda cerveza, vinos de mesa y bebidas alcohólicas; salas de cine; terrazas de cine; boliches; patinaderos; salones de baile; juegos electrónicos; radiolas; sinfonolas y tocadiscos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+No podrán iniciar operaciones sin autorización previa y por escrito de la Autoridad Municipal, los siguientes negocios: establecimientos donde se expenda o distribuya cualquier clase de carne; fábricas de hielo; estacionamientos con cobro de tarifa o pensión; peluquerías; salones de belleza; salones de masaje que no sean atendidos por quiroprácticos; baños públicos; molinos de nixtamal; establecimientos donde se fabrique cualquier clase de tortillas y tostadas; cabarets; centros nocturnos; discotecas; rodeos; lugares públicos de reunión con variedad artística y similares; hoteles de paso; cantinas; bares; cervecerías; restaurantes-bares; estadios de futbol; beisbol; arenas de box; lucha libre; plazas de toros y en general todo lugar donde se realicen actividades deportivas; futbolitos; billares; cualquier establecimiento que venda cerveza, vinos de mesa y bebidas alcohólicas; salas de cine; terrazas de cine; boliches; patinaderos; salones de baile; juegos electrónicos; radiolas; sinfonolas y tocadiscos.
 
 Los negocios que requieran autorización, deberán solicitarla oportunamente por escrito dirigido al C. Presidente Municipal con las copias que se soliciten, pidiendo la autorización respectiva y una vez resuelta favorablemente su solicitud, se procederá a la inscripción del negocio, trámite que deberá realizar el interesado dentro del término de 30 días naturales.
 
@@ -2779,9 +2927,9 @@ Las infracciones a la presente Ley, que no estén consignadas en disposiciones e
 
 La morosidad en el pago de cualquier Impuesto, Derecho o Aprovechamiento, causará recargos en los términos fijados por la Ley de Ingresos para los Municipios del Estado, a partir de la fecha en que aquéllos sean exigibles.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-Los recargos no excederán del limite señalado en el Código Fiscal del Estado. Se considera que el pago es espontaneo cuando se realice sin haber mediado gestión de autoridad. Los créditos fiscales se actualizaran en los términos del Código Fiscal.
+Se considerará que el pago es espontáneo cuando se realice sin haber mediado gestión de autoridad. Los créditos fiscales se actualizarán en los términos del Código Fiscal.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
@@ -2821,7 +2969,7 @@ No causan impuestos los bienes del dominio público de los Municipios, del Estad
 
 El C. Presidente Municipal hará las declaraciones generales o especiales que correspondan y podrán asimismo eximir de impuestos en cualquier otro caso, en que el producto de una actividad se destine a fines de interés público debidamente comprobados.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA APLICACION DEL PRESENTE ARTICULO, P.O. 27 DE DICIEMBRE DE 1996.</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA APLICACION DEL PRESENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2831,11 +2979,17 @@ Para la aplicación de los derechos previstos en los artículos 58 y 59 de esta 
 
 Si algún expendio de bebidas alcohólicas no encuadra específicamente en la clasificación contenida en dichos artículos, se equiparará a la que por sus características le sea más semejante.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 92.
 
-Queda facultado el C. Presidente Municipal para disminuir o aún condonar los recargos y las sanciones que deban imponerse, así como el monto de la actualización que deba aplicarse conforme al Código Fiscal del Estado, informando trimestralmente al Ayuntamiento para su ratificación respecto de cada uno de los subsidios otorgados, mediante reporte escrito que deberá ser debidamente fundado y motivado.
+Queda facultado el Presidente Municipal para disminuir o aún condonar los recargos y las sanciones que deban imponerse, así como el monto de la actualización que deba aplicarse conforme al Código Fiscal del Estado, debiendo sujetarse a las siguientes reglas:
+
+I.- En los Municipios de Apodaca, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y García, los Ayuntamientos expedirán las bases generales para el ejercicio de esta facultad, debiendo establecer en las mismas el monto en cuotas a partir del cual se requerirá de la ratificación del Ayuntamiento para otorgar la disminución o condonación. El Ayuntamiento vigilará el estricto cumplimiento de las bases expedidas.
+
+II.- En los Municipios no enunciados en la fracción anterior, cada disminución o condonación otorgada se someterá a la ratificación del Ayuntamiento, siempre que su monto sea superior a 45 cuotas.
+
+III.- Las operaciones derivadas del ejercicio de esta facultad deberán ser registradas en las cuentas municipales, e informadas trimestralmente al Ayuntamiento mediante reporte escrito que deberá ser debidamente fundado y motivado.
 
 ## TRANSITORIOS
 
@@ -2950,6 +3104,12 @@ El cómputo de recargos y la imposición de multas que se mencionan en el artíc
 ###### ARTICULO 13o.
 
 Los derechos por servicio de limpia y recolección de desechos industriales y comerciales correspondientes a los meses de Enero y Febrero de 1990, podrán ser cubiertos hasta el día 15 de Marzo del mismo año, sin recargos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 14o.
+
+Se suspende la vigencia del Impuesto Sobre Diversiones y Espectáculos Públicos únicamente en materia de espectáculos cinematográficos por los que se cause el Impuesto al Valor Agregado, mientras permanezca en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado por el Estado de Nuevo León y la Secretaría de Hacienda y Crédito Público, el 29 de Octubre de 1979.
 
 Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -3216,3 +3376,17 @@ Esta tarifa sólo será aplicable siempre y cuando el inmueble se encuentre al c
 Tercero.- Tratándose de operaciones anteriores a 1994, podrá utilizarse para el cálculo del impuesto sobre adquisición de inmuebles, el certificado de valor actual real vigente, aplicándose la tasa vigente a la fecha de operación, con los recargos y demás accesorios, que se hubieren generado hasta la fecha de pago del impuesto.
 
 Cuarto.- La obligación de dar aviso a la Dirección de Catastro a que se refiere el Artículo 28 Bis-4, quinto párrafo, únicamente se aplicará a los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, Nuevo León.
+
+P.O. 31 DE DICIEMBRE DE 1999.
+
+DECRETO NUMERO 239.
+
+Único.- El presente Decreto entrará en vigor el primero de enero del año 2000.
+
+P.O. 31 DE DICIEMBRE DE 1999.
+
+DECRETO NUMERO 252.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día 1o. de Enero del año 2000.
