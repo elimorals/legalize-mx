@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1954-01-09"
+last_updated: "1964-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL Y TERRITORIOS FEDERALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ENERO DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE ENERO DE 1964.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -730,21 +730,19 @@ Cuando se trate de citar testigos o peritos o terceros que no constituyan parte,
 
 Cuando se haga por telegrama se enviará por duplicado a la oficina que haya de transmitirlo, la cual devolverá, con el correspondiente recibo, uno de los ejemplares que se agregará al expediente.
 
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 1964)</small>
+
 ARTICULO 122
 
 Procede la notificación por edictos:
 
-I.- Cuando se trate de personas inciertas;
+I.- Cuando se trate de personas inciertas.
 
-II.- Cuando se trate de personas cuyo domicilio se ignora.
+II.- Cuando se trate de personas cuyo domicilio se ignora; en este caso el juicio deberá seguirse con los trámites y solemnidades a que se refiere el título 9o.
 
-En este caso el juicio deberá seguirse con los trámites y solemnidades a que se refiere el título noveno.
+En los casos de las dos fracciones que preceden, los edictos se publicarán por tres veces, de tres en tres días, en el Boletín Judicial y otros periódicos de los de mayor circulación, haciéndose saber que debe presentarse el citado dentro de un término que no será inferior a 15 días ni excederá de 60 días.
 
-III.- En todos los demás casos previstos por la ley.
-
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
-
-En los casos de las fracciones I y II los edictos se publicarán por tres veces, de tres en tres días en el Boletín Judicial y otro periódico de los de mayor circulación haciéndose saber que debe de presentarse el citado dentro de un término que no bajará de quince ni excederá de sesenta días.
+III.- Cuando se trate de inmatricular un inmueble en el Registro Público de la Propiedad conforme al Art. 3023 del Código Civli (sic), para citar a las personas que puedan considerarse perjudicadas. Los edictos se publicarán por tres veces consecutivas, de diez en diez días, en el Boletín Judicial y en dos periódicos de los de mayor circulación, si se tratare de inmuebles urbanos situados en el Distrito Federal. Si los predios fueren rústicos se publicarán además en el "Diario Oficial" de la Federación en la misma forma y en términos indicados. Igualmente se publicarán en los periódicos locales y además en todo caso en el "Diario Oficial" de la Federación las peticiones de información de los bienes raíces ubicados en los Territorios Federales. Tanto en el Distrito como en los Territorios Federales los edictos se fijarán en lugares públicos. En la solicitud se mencionará el origen de la posesión, el nombre de la persona de quien en su caso la obtuviera el peticionario, del causahabiente de aquella si fuere conocido; la ubicación precisa del bien y sus colindancias; un plano autorizado por ingeniero titulado si fuere predio rústico o urbano sin construir; el nombre y domicilio de los colindantes. Terminada la publicación se correrá traslado de la solicitud a la persona de quien obtuviera la posesión o su causahabiente si fuera conocido, al Ministerio Público, a los colindantes, al registrador de la propiedad por el término de 9 días. Contesten o no y sin necesidad de acuse de rebeldía, el juez al vencerse el último término del traslado, abrirá una dilación probatoria por 30 días. Además de las pruebas que tuviere, el solicitante está en obligación de probar su posesión en concepto de dueño por medios legales y además por la información de tres testigos que tengan bienes raíces en el lugar de la ubicación del predio de que se trata. La sentencia se pronunciará después del término de alegar, dentro de ocho días. En este juicio no se entregarán los autos originales para formular alegatos. La sentencia es apelable en ambos efectos y el recurso se substancia como en los juicios ordinarios.
 
 ARTICULO 123
 
@@ -821,6 +819,36 @@ II.- Tres días para apelar de autos;
 III.- Tres días para la celebración de juntas, reconocimientos de firmas, exhibición de documentos, dictamen de peritos; a no ser que por circunstancias especiales creyere justo el juez, ampliar el término, lo cual podrá hacer por tres días más;
 
 IV.- Tres días para todos los demás casos.
+
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 1964)</small>
+
+ARTICULO 137 BIS
+
+La caducidad de la instancia operará de pleno derecho cualquiera que sea el estado del juicio desde el emplazamiento hasta la citación para sentencia en los juicios ordinarios si transcurridos 180 días hábiles contados a partir de la notificación de la última determinación judicial no hubiera promoción de cualquiera de las partes; o si tratándose de juicio oral o sumario las partes dejasen de concurrir a dos audiencias consecutivas cuando el juez estimara indispensable su presencia. Para los efectos de esta última parte del precepto, los jueces señalarán en la audiencia el día y la hora de la siguiente, salvo en aquella en que se declare la caducidad. Los efectos y formas de su declaración se sujetarán a las siguientes normas:
+
+I.- La caducidad de la instancia es de orden público, irrenunciable y no puede ser materia de convenios entre las partes. El juez la declarará de oficio o a petición de cualquiera de las partes cuando concurran las circunstancias a que se refiere el presente artículo.
+
+II.- La caducidad extingue el proceso pero no la acción; en consecuencia se puede iniciar un nuevo juicio, sin perjuicio de lo dispuesto en la fracción V de este artículo.
+
+III.- La caducidad de la primera instancia convierte en ineficaces las actuaciones del juicio y las cosas deben volver al estado que tenían antes de la presentación de la demanda y se levantarán los embargos preventivos y cautelares. Se exceptúan de la ineficacia susodicha las resoluciones firmes sobre competencia, litispendencia, conexidad, personalidad y capacidad de los litigantes, que regirán en el juicio ulterior si se promoviere. Las pruebas rendidas en el proceso extinguido por caducidad podrán ser invocadas en el nuevo si se promoviere siempre que se ofrezcan y precisen en la forma legal.
+
+IV.- La caducidad de la segunda instancia deja firmes las resoluciones apeladas. Así lo declarará el Tribunal de Apelación.
+
+V.- La caducidad de los incidentes se causa por la falta de asistencia de las partes a dos audiencias consecutivas, si el juez estimare necesaria su presencia; la declaración respectiva sólo afectará a las actuaciones del incidente sin abarcar las de la instancia principal aunque haya quedado en suspenso éste por la aprobación de aquel.
+
+VI.- Para los efectos del artículo 1168 fracción II del Código Civil se equipara a la desestimación de la demanda la declaración de caducidad del proceso.
+
+VII.- En los juicios ordinarios en que se decreten la forma oral de la recepción de pruebas, antes del decreto a que se refiere el artículo 299 de este Código de Procedimientos Civiles, se incurre en caducidad por falta de actividad de las partes por el término de 180 días hábiles; después de aquel decreto la inactividad se demuestra por la falta de asistencia a dos audiencias consecutivas de acuerdo con el preámbulo del presente artículo.
+
+VIII.- No tiene lugar la declaración de caducidad; a).- En los juicios universales de concursos y sucesiones, pero sí en los juicios con ellos relacionados que se tramiten independientemente, que de aquellos surjan o por ellos se motiven; b).- En las actuaciones de jurisdicción voluntaria; c).- En los juicios de alimentos y en los previstos por los artículos 322 y 323 del Código Civil; y d).- En los juicios seguidos ante la justicia de paz.
+
+IX.- El término de la caducidad sólo se interrumpirá por promociones de las partes o por actos de las mismas realizados ante autoridad judicial diversa siempre que tengan relación inmediata y directa con la instancia.
+
+X.- La suspensión del procedimiento produce la interrupción del término de la caducidad. La suspensión del proceso tiene lugar: a).- Cuando por fuerza mayor el juez o las partes no puedan actuar; b).- En los casos en que es necesario esperar la resolución de una cuestión previa o conexa por el mismo juez o por otras autoridades; c).- Cuando se pruebe ante el juez en incidente que se consumó la caducidad por maquinaciones dolosas de una de las partes en perjuicio de la otra; d).- En los demás casos previstos por la ley.
+
+XI.- Contra la declaración de caducidad se da sólo el recurso de revocación en los juicios que no admiten apelación se substanciará en la forma sumaria o sea con un escrito de cada parte en que se propongan pruebas y la audiencia de recepción de éstas, de alegatos y sentencias. En los juicios que admiten la alzada cabe la apelación en ambos efectos. Si la declaratoria se hace en segunda instancia se admitirá la reposición. Tanto en la apelación de la declaración como en la reposición la substanciación se reducirá a un escrito de cada parte en que se ofrezcan pruebas y una audiencia en que se reciban, se alegue y se pronuncie resolución.
+
+XII.- Las costas serán a cargo del actor; pero serán compensables con las que corran a cargo del demandado en los casos previstos por la ley y además en aquellos en que opusiere reconvención, compensación, nulidad y en general las excepciones que tienden a variar la situación jurídica que privaba entre las partes antes de la presentación de la demanda.
 
 ### CAPITULO VII. De las costas
 
@@ -966,7 +994,7 @@ a).- De las acciones de petición de herencia;
 
 b).- De las acciones contra la sucesión antes de la partición y adjudicación de los bienes;
 
-c).- De las acciones de nulidad, rescisión y evicción de la partición hereditaria;
+c).- De las acciones de nulidad, rescisión y evicción de la partición hereditaria.
 
 VII.- En los concursos de acreedores el juez del domicilio del deudor;
 
@@ -984,7 +1012,7 @@ ARTICULO 157
 
 Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demande el actor. Los réditos, daños o perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda, aun cuando se reclamen en ella.
 
-Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en uno (sic) año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
+Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
 
 ARTICULO 158
 
@@ -1098,7 +1126,7 @@ XIII.- Cuando el funcionario de que se trate, su cónyuge o alguno de sus expres
 
 XIV.- Si él, su cónyuge o alguno de sus expresados parientes, sigue algún proceso civil o criminal en que sea juez, agente del Ministerio Público, árbitro o arbitrador, alguno de los litigantes;
 
-XV. Si es tutor o curador de alguno de los interesados, o no han pasado tres años de haberlo sido.
+XV.- Si es tutor o curador de alguno de los interesados, o no han pasado tres años de haberlo sido.
 
 ARTICULO 171
 
@@ -6095,3 +6123,9 @@ D.O.F. 9 DE ENERO DE 1954.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor diez días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE ENERO DE 1964.
+
+###### ARTICULO TERCERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
