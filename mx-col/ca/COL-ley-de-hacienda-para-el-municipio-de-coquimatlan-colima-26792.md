@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-coquimatlan-colima-26792"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2004-10-16"
+last_updated: "2004-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COQUIMATLAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2004.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -529,9 +529,9 @@ I. Los giros que a continuación se mencionan se gravarán según el monto de su
 
 7.- Espectáculos deportivos 5
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
 
-8.- Palenques de gallos 8
+8.- Palenques de Gallos 1
 
 9.- Cualquier otro espectáculo público por el que se cobren derechos de admisión 5 a 8
 
@@ -2826,3 +2826,7 @@ SEGUNDO.- Se concede la ampliación del plazo, por única vez, para el pago del 
 P.O. 16 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+P.O. 30 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el periódico oficial "El Estado de Colima". El Gobernador del Estado dispondrá se publique circule y observe.
