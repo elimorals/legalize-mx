@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "1993-05-18"
+last_updated: "1993-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1993.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -1499,6 +1499,10 @@ Si la resolución ordena realizar un determinado acto o iniciar la reposición d
 
 Están obligados al pago de éste impuesto las personas físicas o morales que sean propietarias o poseedoras de inmuebles por cualquier título.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+Los inmuebles del régimen ejidal y comunal, cuyo derecho de propiedad se confiere a sus titulares dentro del programa de certificación de derechos ejidales y titulación de solares urbanos, seguirán tributando en los mismos términos en que lo venían haciendo antes de la incorporación a dicho programa, sujetándose al pago de este impuesto en los términos de esta Ley, a partir del primer acto traslativo de dominio.
+
 ###### ARTICULO 162.
 
 La base del Impuesto Predial será el valor fiscal de los inmuebles, el cual se determinará:
@@ -1669,9 +1673,9 @@ IV.- Existan inmuebles ocultos a la acción fiscal.
 
 Están obligados al pago de este Impuesto las personas físicas o morales que transmiten o adquieren por cualquier título o causa, bienes inmuebles ubicados en el Estado, así como los derechos reales vinculados a los mismos.
 
-(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992) (F. DE E., P.O. 26 DE MARZO DE 1993)
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
-No se causará este impuesto tratándose de adquisiciones de inmuebles que hayan realizado la Federación, el Estado o los Municipios que forman parte del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso; asimismo en las adquisiciones de inmuebles que hagan los arrendatarios al ejercer la opción de compra en los términos de los contratos de arrendamiento financiero, y de las asociaciones religiosas constituidas en los términos de la ley de la materia, siempre que, en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
+No se causará este impuesto tratándose de adquisiciones de inmuebles que hayan realizado la Federación, el Estado o los Municipios para formar parte del dominio público y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso; asimismo en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
 
 ###### ARTICULO 180.
 
@@ -2294,3 +2298,13 @@ P.O. 18 DE MAYO DE 1993.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE DICIEMBRE DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las asociaciones religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no casarán el impuesto sobre traslación de dominio que establece esta Ley, por las adquisiciones que realicen hasta el 31 de diciembre de 1994.
