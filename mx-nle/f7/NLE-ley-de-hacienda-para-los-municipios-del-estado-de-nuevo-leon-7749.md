@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2000-12-29"
+last_updated: "2001-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -399,11 +399,11 @@ VII.- Los arrendatarios en contratos de arrendamiento financiero de predios en l
 
 #### SECCION TERCERA. DETERMINACION DE LA BASE
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 21 Bis 2.
 
-La valuación catastral de los predios será practicada en la forma y términos que señalen esta Ley y la Ley de Catastro.
+El valor catastral de los predios será con base en las tablas de valores unitarios de suelo y construcción, que establezca el Congreso del Estado mediante Decreto a propuesta de los Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -423,7 +423,9 @@ Cuando el predio se encuentre edificado con diversos departamentos sujetos al r�
 
 La tasa del impuesto, cuando se trate del primer avalúo del predio, se aplicará a partir del bimestre siguiente a la fecha en que ocurrió el hecho o circunstancia que dió lugar a la práctica del avalúo conforme a las disposiciones de este Capítulo y de la Ley del Catastro.
 
-En los casos de reavalúos a que se refiere la Ley del Catastro, la cuota se aplicará a partir del bimestre siguiente a la fecha que ocurra el hecho o circunstancia que los motiven.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+En los casos de modificación del valor catastral, la tasa se aplicará a partir del bimestre siguiente a la fecha en que ocurra el hecho o circunstancia que motive la modificación.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -491,11 +493,11 @@ II.- Los predios propiedad de la Universidad Autónoma de Nuevo León, así como
 
 III.- Los predios que perteneciendo a particulares, estén destinados a un servicio público gratuito autorizado por el Estado o por el Gobierno Municipal, siempre que por los mismos sus propietarios no perciban renta.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-IV.- Las viviendas cuyo valor catastral no exceda de 5,041 cuotas, siempre que el propietario la habite y no tenga en propiedad o posesión otro bien raíz en el Estado.
+IV.- Las viviendas cuyo valor catastral no exceda de 6,049 cuotas, siempre que el propietario la habite y no tenga en propiedad o posesión otro bien raíz en el Estado.
 
-Si el valor catastral de la vivienda excede de 5,041 cuotas, pero no de 8,490 cuotas, se cubrirá el doble de la tarifa especial.
+Si el valor catastral de la vivienda excede de 6,049 cuotas, pero no de 10,188 cuotas, se cubrirá el doble de la tarifa especial.
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -509,13 +511,13 @@ VI.- Los predios afectados al patrimonio de familia, en los términos del Códig
 
 VII.- Los inmuebles propiedad de instituciones de beneficencia privada o de asociaciones con objetivos similares, siempre que dichos inmuebles estén destinados directamente a los fines de las mismas y que en los mismos no se realicen actividades lucrativas o de negocio. No se considerará actividad lucrativa o de negocio, los frutos o productos de los bienes inmuebles de las instituciones o asociaciones que se destinen a los fines de las mismas, siempre que sus informes hayan sido aprobados por la Junta de Beneficencia Privada del Estado.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-VIII.- Los predios pertenecientes a entes u organismos creados por el Gobierno del Estado para solucionar el problema de la vivienda y de la tenencia legal de la tierra; o a las personas que lleven a cabo programas concretos con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey", respecto de los predios directamente destinados a esos programas; y, predios cuyo valor catastral no exceda de 5,041 cuotas, adquiridos por las personas que resulten directamente beneficiadas con tales programas, siempre que habiten tal inmueble y no sean propietarios o poseedores de otro inmueble en el Estado y que la propiedad o posesión por la que se solicite, esté inscrita en el Registro Público de la Propiedad y del Comercio.
+VIII.- Los predios pertenecientes a entes u organismos creados por el Gobierno del Estado para solucionar el problema de la vivienda y de la tenencia legal de la tierra; o a las personas que lleven a cabo programas concretos con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey" respecto de los predios directamente destinados a esos programas; y, predios cuyo valor catastral no exceda de 6,049 cuotas, adquiridos por las personas que resulten directamente beneficiadas con tales programas, siempre que habiten tal inmueble y no sean propietarios o poseedores de otro inmueble en el Estado y que la propiedad o posesión por la que se solicite, esté inscrita en el Registro Público de la Propiedad y del Comercio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-IX.- Los predios cuyo valor catastral no exceda de 6,129 cuotas y pertenezcan a:
+IX.- Los predios cuyo valor catastral no exceda de 7,354 cuotas y pertenezcan a:
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -537,11 +539,9 @@ d) Personas incapacitadas físicamente para trabajar.
 
 e) Jubilados y pensionados con ingresos propios, cuyo monto diario no exceda de dos cuotas y media.
 
-f) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2000)
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)(F. DE E., P.O. 18 DE ENERO DE 1999)
-
-Si el valor catastral del predio excede de 6,129 cuotas y no de 12,257 cuotas, se pagará por concepto de impuesto predial anual el doble de la tarifa especial. Si el valor catastral de los predios excede de 12,257 cuotas, cubrirán el doble de la tarifa especial sobre dicha cantidad y el excedente se cubrirá conforme a lo establecido por el artículo 21 Bis-8.
+Si el valor catastral del predio excede de 7,354 cuotas y no de 14,708 cuotas, se pagará por concepto de impuesto predial anual el doble de tarifa especial.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -557,11 +557,11 @@ XI.- Los predios pertenecientes a las asociaciones religiosas, siempre que los m
 
 Los contribuyentes que soliciten la tarifa única especial a que se refiere este artículo, deberán estar al corriente en el pago del impuesto predial para ser considerados dentro de dicho beneficio. En los casos establecidos en las fracciones I, II, III, VII y IX, el Ayuntamiento, a propuesta del Presidente Municipal, podrá otorgar, si lo juzga conveniente, una bonificación de hasta un 50% en el monto del rezago de este impuesto, siempre y cuando el beneficiario acredite que tuvo derecho a gozar del citado beneficio durante el período del rezago.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 21 Bis 10.
 
-Los sujetos que se encuentren en las hipótesis previstas en el artículo anterior, deberán acreditar su situación jurídica ante la Tesorería Municipal, mediante los elementos de prueba que ésta exija.
+Los sujetos que se encuentren en las hipótesis previstas en el artículo anterior, deberán acreditar su situación jurídica ante la Tesorería Municipal, mediante los elementos de prueba que ésta exija. Para efectos de la no-propiedad de predios, bastará que el interesado manifieste bajo protesta de decir verdad que no es propietario o poseedor de otro bien inmueble en el Estado, conservando el Municipio sus facultades de comprobación.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -583,11 +583,11 @@ La Tesorería Municipal que corresponda, de acuerdo a los párrafos anteriores, 
 
 #### SECCION SEXTA. DEL PAGO DEL IMPUESTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 21 Bis 12.
 
-La tasa del impuesto es anual y su pago deberá hacerse por bimestres adelantados, que se cubrirán a más tardar el día 25 de los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre. El impuesto podrá pagarse por anualidad anticipada a más tardar el último día hábil del mes de Enero, en cuyo caso se gozará de una reducción del 15% de dicha anualidad y si lo cubre a más tardar el último día hábil del mes de Febrero, gozará de una reducción del 10% de la misma.
+El impuesto se causará anualmente y su pago deberá hacerse por bimestres adelantados, que se cubrirán a más tardar el día 1° de los meses de Febrero, Abril, Junio, Agosto, Octubre y Diciembre. El impuesto podrá pagarse por anualidad anticipada a más tardar el día 1° del mes de Marzo, sin recargos. En el caso de que se pague a más tardar el 1° del mes de Febrero, gozará de una reducción del 15% de dicha anualidad y si lo cubre a más tardar el día 1° del mes de Marzo, gozará de una reducción del 10% de la misma.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -723,15 +723,15 @@ Los sujetos del impuesto están obligados a manifestar a la Secretaría de Finan
 
 Están obligados al pago del Impuesto Sobre Adquisición de Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el territorio del Estado, así como los derechos relacionados con los mismos, a que este Impuesto se refiere. Salvo lo dispuesto en el artículo siguiente, el impuesto se calculará aplicando la tasa del 2% al valor gravable del inmueble.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-Para los efectos de esta ley, se considera base del impuesto el valor gravable del inmueble, que será el que resulte mayor entre el de operación y el consignado en el certificado de valor actual real, que al efecto expida la Secretaría de Finanzas y Tesorería General del Estado.
+Para los efectos de esta ley, se considera base del impuesto el valor gravable del inmueble, que será el que resulte mayor entre el de operación y el valor catastral.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 28 Bis 1.
 
-En la adquisición de viviendas cuyo valor más alto en los términos del Artículo 28 bis-3, fracción I, no exceda de 25 cuotas elevadas al año y siempre que el adquirente sea persona física y no posea otro bien raíz en el Estado, cubrirá el impuesto aplicando la tasa del 2% al valor del inmueble, después de reducirlo en 15 cuotas elevadas al año.
+En la adquisición de viviendas cuyo valor gravable no exceda de 25 cuotas elevadas al año y siempre que el adquirente sea persona física y no posea otro bien raíz en el Estado, cubrirá el impuesto aplicando la tasa del 2% al valor del inmueble, después de reducirlo en 15 cuotas elevadas al año. Para efectos de la no-propiedad de predios, bastará que el interesado manifieste bajo protesta de decir verdad que no es propietario o poseedor de otro bien inmueble en el Estado, conservando el Municipio sus facultades de comprobación.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -787,13 +787,11 @@ X.- En las adquisiciones, derechos o renta a perpetuidad de los lotes en los pan
 
 XI.- En las adquisiciones de bienes del dominio privado que realicen los Municipios y las entidades paraestatales de los Municipios.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-XII.- En las adquisiciones de viviendas cuyo valor más alto entre el valor de adquisición y el indicado en el certificado de valor actual real, no exceda de 15 cuotas elevadas al año, siempre que el adquirente sea persona física y no sea propietario o poseedor de otro bien inmueble en el Estado.
+XII.- En las adquisiciones de viviendas cuyo valor gravable, no exceda de 15 cuotas elevadas al año, siempre que el adquirente sea persona física.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-También se cubrirá la tarifa especial en las adquisiciones de vivienda cuyo valor más alto entre el valor de adquisición y el indicado en el certificado de valor actual real, no exceda de 9,398 cuotas, siempre que el adquirente sea jubilado o pensionado y que no sea propietario o poseedor de otro bien inmueble en el Estado.
+También se cubrirá la tarifa especial en las adquisiciones de vivienda cuyo valor más alto entre el valor de adquisición y el valor catastral, no exceda de 9,398 cuotas, siempre que el adquirente sea jubilado o pensionado y que no sea propietario o poseedor de otro bien inmueble en el Estado.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -807,6 +805,10 @@ Cuando uno o más coherederos adquieran porciones mayores a la parte heredada co
 
 XIV.- En las donaciones que se hagan entre ascendientes y descendientes en línea recta, así como en las que se hagan entre el adoptante y el adoptado, entre sus respectivos ascendientes y descendientes en línea recta, y entre éstos y aquéllos. En el caso de que el inmueble forme parte de la sociedad conyugal del ascendiente o del descendiente, la tarifa especial operará respecto de la totalidad de los derechos de la sociedad conyugal relacionados con el inmueble.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+Los predios a los que se les haya aplicado la tarifa especial que señala esta fracción únicamente se les podrá aplicar nuevamente este beneficio, cuando hayan transcurrido 2 años a partir de la fecha de escrituración de la anterior donación.
+
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 XV.- En las adquisiciones realizadas por asociaciones religiosas, respecto de bienes destinados exclusivamente a sus fines.
@@ -814,6 +816,10 @@ XV.- En las adquisiciones realizadas por asociaciones religiosas, respecto de bi
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 En cualquier tiempo en que la Tesorería Municipal advierta que los contribuyentes beneficiados en los términos de este Artículo, no hayan cumplido con cualesquiera de los requisitos que sirvieron de base para gozar de la tarifa especial, previa audiencia al interesado en la que se le otorgue un plazo no menor de 15 días hábiles para proporcionar pruebas y expresar alegatos, podrá revocar y cancelar las franquicias otorgadas. En este caso se procederá al cobro integro de las contribuciones no cubiertas bajo el amparo de la presente disposición, más sus respectivos accesorios.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+Para efectos de la no-propiedad de predios, bastará que el interesado manifieste bajo protesta de decir verdad que no es propietario o poseedor de otro bien inmueble en el Estado, conservando el Municipio sus facultades de comprobación.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -871,23 +877,23 @@ Si el arrendatario financiero se encuentra en los supuestos previstos en el art�
 
 En la determinación de este impuesto se deberán seguir las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-I.- Para efectos de este impuesto, se utilizará el salario mínimo general de la zona económica en donde se encuentre ubicado el inmueble, vigente al momento en que se expida el certificado de valor actual real.
+I.- Para efectos de este impuesto, se utilizará el salario mínimo general de la zona económica en donde se encuentre ubicado el inmueble, vigente al momento en que se pague el impuesto.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-Los certificados de valor actual real que expida la Secretaría de Finanzas y Tesorería General del Estado, caducarán en un plazo de doce meses. En caso de que durante el plazo mencionado se realicen dos o más adquisiciones sobre determinado inmueble, se podrá utilizar para efectos del cálculo del Impuesto, el mismo certificado de valor actual real expedido respecto de la primera de dichas operaciones.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-El certificado de valor actual real que se utilice para la determinación del impuesto, será el vigente al momento en que se protocolice la escritura, y en los casos en que no se requiera o se cumpla esta formalidad, se aplicará el que esté vigente al momento en que se pague el impuesto.
+El Valor Catastral que se utilice para la determinación del impuesto, será el vigente al momento en que se protocolice la escritura, y en los casos en que no se requiera o se cumpla esta formalidad, se aplicará el que esté vigente al momento en que se pague el impuesto. Cuando se trate de las operaciones a que se refieren las fracciones II, III y IV, del artículo 28 bis-2 se aplicará el factor de actualización a que se refiere el artículo 18 bis del Código Fiscal del Estado para referenciar el Valor Catastral a la fecha de firma del contrato, para tales efectos el Valor Catastral vigente se dividirá entre el factor de actualización mencionado y el resultado será el Valor Catastral vigente a la fecha de firma del contrato. Dicho valor referenciado servirá para determinar el valor gravable del inmueble, al cual se le aplicará la tasa vigente en aquella fecha, debiendo generarse los recargos y demás accesorios en los términos legales.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-El certificado de no propiedad deberá ser expedido dentro de los 30 días anteriores a la fecha de la protocolización de la escritura correspondiente.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
 II.- Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
 
-Cuando no se pacte precio, el impuesto se calculará con base en el valor que contenga el certificado de valor actual real que expida la Secretaría de Finanzas y Tesorería General del Estado. En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes de remate, no se tomará en cuenta el precio que se hubiere pactado sino el del avalúo a que se refiere este párrafo.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+Cuando no se pacte precio, el impuesto se calculará con base en el valor catastral. En la constitución, adquisición o extinción de usufructo o de la nuda propiedad y en la adquisición de bienes de remate, no se tomará en cuenta el precio que se hubiere pactado sino el del valor a que se refiere este párrafo.
 
 Para los fines del Impuesto Sobre Adquisición de Inmuebles, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
@@ -917,15 +923,9 @@ IV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1991)
 
 El enajenante responde solidariamente del impuesto que deba pagar el adquirente, cesando su responsabilidad desde el momento en que compruebe fehacientemente ante la Tesorería Municipal, mediante los elementos de prueba que ésta exija, que ha recibido el pago total del precio pactado en la operación de enajenación, siempre y cuando la operación se haya elevado a escritura pública.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-El plazo para computar la extinción de las facultades de las autoridades fiscales a que se refiere el artículo 67 del Código Fiscal del Estado se iniciara a partir de la fecha en que ocurran cualquiera de los siguientes supuestos:
-
-a) Se presente la declaración del impuesto ante la Tesorería Municipal;
-
-b) Se presente ante la Dirección de Catastro de la Secretaría de Finanzas y Tesorería General del Estado el Aviso de Enajenación respectivo;
-
-c) Se inscriba el título de adquisición de dominio del inmueble en el Registro Público de la Propiedad y del Comercio.
+El plazo para computar la extinción de las facultades de las autoridades fiscales a que se refiere el artículo 67 del Código Fiscal del Estado se iniciará a partir de la fecha en que se presente la declaración del impuesto ante la Tesorería Municipal.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -935,9 +935,9 @@ En caso de que no se realizaran estos trámites, las facultades de las autoridad
 
 En el supuesto de que en la declaración del Impuesto Sobre Adquisición de Inmuebles, se hubiere omitido el pago correspondiente a la construcción, ya sea por causas imputables al enajenante o adquirente, se impondrá una multa al adquirente de tres cuotas hasta el 100% de la contribución omitida, determinando ésta sobre el valor de la construcción no declarada.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-Los Notarios Públicos tendrán la obligación de presentar a las Tesorerías Municipales que correspondan, un informe detallado a más tardar durante los meses de enero de cada año, correspondiente al año anterior, sobre las escrituras públicas y cualquier otro documento en el que se transmita la propiedad de bienes inmuebles, en los que hubiesen intervenido y que por alguna razón, no fueron inscritos en el Registro Público de la Propiedad y del Comercio y que por consecuencia no estuviese cubierto el Impuesto Sobre Adquisición de Inmuebles.
+Los Notarios Públicos tendrán la obligación de presentar a las Tesorerías Municipales que correspondan, un informe detallado a más tardar durante los meses de enero de cada año, correspondiente al año anterior, sobre las escrituras públicas y cualquier otro documento en el que se transmita la propiedad de bienes inmuebles, en los que hubiesen intervenido y que por alguna razón, no fueron inscritos en el Registro Público de la Propiedad y del Comercio y que por consecuencia no estuviese cubierto el Impuesto Sobre Adquisición de Inmuebles. Cuando no se cumpla con la presentación del informe se entenderá para todos los efectos legales que no existen escrituras u otros documentos pendientes de pago del Impuesto.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -949,7 +949,9 @@ En caso de no cumplir con lo anterior o haber cumplido en forma parcial, con la 
 
 El pago del impuesto deberá hacerse:
 
-I.- Dentro de los 30 días naturales seguidos a aquel en que:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+I.- Dentro de los 60 días naturales seguidos a aquél en que:
 
 a) Se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
 
@@ -959,7 +961,9 @@ b) Se cedan los derechos hereditarios o al enajenarse bienes por la sucesión.
 
 c) Se realicen los supuestos de enajenación en los términos del Código Fiscal del Estado, tratándose de adquisiciones efectuadas a través de fideicomiso.
 
-d) Se protocolice o inscriba el reconocimiento judicial de la prescripción positiva.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+d) Cause ejecutoria la sentencia, en los casos de prescripción positiva, de adjudicaciones y daciones en pago. Cuando no se emita sentencia en los dos últimos casos, el término contará a partir de la fecha del convenio correspondiente.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -977,11 +981,11 @@ III.- Dentro de los treinta días siguientes al momento de efectuarse la cesión
 
 IV.- En los casos no previstos en las fracciones anteriores, dentro del mes siguiente a aquél en que los contratantes firmen la escritura pública correspondiente, y si no están sujetos a esta formalidad, a partir del momento en que se adquiera el dominio conforme a las leyes.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-La autoridad fiscal municipal por sí no podrá modificar el certificado de valor actual real que haya expedido la Secretaría de Finanzas y Tesorería General del Estado; sin perjuicio de los demás derechos de fiscalización que aquélla conserva.
+La autoridad fiscal municipal por sí no podrá modificar el valor catastral; sin perjuicio de los demás derechos de fiscalización que aquélla conserva.
 
-Cada una de las Tesorerías Municipales de la Entidad podrá, si lo estima conveniente, designar representante ante la Secretaría de Finanzas y Tesorería General del Estado, que se encargue de emitir opinión sobre los valores reales actuales de las diferentes regiones que compongan su circunscripción.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
 El impuesto se cubrirá en efectivo o mediante cheque certificado ante las oficinas receptoras de las Tesorerías Municipales donde se ubique el bien materia del impuesto o en las instituciones bancarias autorizadas por el Municipio correspondiente, localizadas en la circunscripción territorial del propio Municipio de que se trate. Cuando el pago se efectúe extemporáneamente, no podrá enterarse en instituciones bancarias.
 
@@ -1017,11 +1021,11 @@ Las autoridades judiciales que dicten resoluciones en las que se transmita el do
 
 Los funcionarios adscritos a la Dirección del Registro Público de la Propiedad y del Comercio, no inscribirán documento público o privado alguno en donde conste la trasmisión del dominio de un inmueble, si no se demuestra el pago de este impuesto y se haya hecho constar en el documento a inscribir, los datos del recibo oficial o declaración de pago del impuesto correspondiente.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 28 Bis 6.
 
-Cuando se adquieran derechos sobre un inmueble o una parte de la propiedad del mismo, la reducción a que se refiere el artículo 28 bis y el valor consignado en el certificado de valor actual real se disminuirán en la proporción que corresponda a la porción adquirida.
+Cuando se adquieran derechos sobre un inmueble o una parte de la propiedad del mismo, la reducción a que se refiere el artículo 28 bis-1, se aplicará en la proporción que corresponda a la porción adquirida.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -1101,15 +1105,17 @@ REGLAS:- En la determinación, liquidación y cobro de este impuesto se observar
 
 I.- Los sujetos expedirán el boletaje correspondiente. Cada boleto deberá ser numerado progresivamente y sellado por la Tesorería Municipal, y contener el nombre de la empresa o persona que organice la función, precio de entrada y categoría de la localidad a que de derecho.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-En caso de que los contribuyentes no expidan el boletaje con anterioridad al evento, por utilizar sistemas electrónicos u otros métodos modernos de emisión de los mismos, en el momento del evento se tomará como base para la determinación y liquidación del Impuesto, el aforo o capacidad ocupada del recinto en que se celebre el espectáculo público.
+En caso de que los contribuyentes no expidan el boletaje con anterioridad al evento y el organizador del evento utilice medios electrónicos de impresión y/o venta de boletos, se tomará como base para la determinación y liquidación del Impuesto el documento que contiene el reporte electrónico de la venta en las diferentes localidades, el costo de cada una de ellas y el acumulado correspondiente. Los emisores y vendedores de boletaje electrónico serán solidariamente responsables con los organizadores del evento ante el Municipio, de la presentación de toda la documentación necesaria para la determinación y liquidación del impuesto de espectáculos.
 
 II.- El impuesto se determinará, al terminar cada función, por los interventores que designe la Tesorería Municipal.
 
 III.- Los sujetos deberán garantizar, previamente, a la Autoridad Municipal, la recaudación y entrega puntual del rendimiento del impuesto a que se refiere este artículo.
 
-IV.- El impuesto deberá quedar liquidado dentro de las 72 -setenta y dos- horas siguientes a la terminación de la función.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+IV.- El impuesto deberá quedar liquidado dentro de los 10-diez días hábiles siguientes a la terminación de la función.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2563,9 +2569,29 @@ IV.- Por servicios de revisión de documentación en las operaciones de adquisic
 
 Este derecho se cubrirá únicamente en los casos en que no exista cantidad a pagar por concepto de Impuesto Sobre Adquisición de Inmuebles. En los casos en que el monto de impuesto sea menor a la cuota señalada en el párrafo que antecede, se cubrirá únicamente la diferencia que resulte entre el impuesto generado y el derecho de revisión.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-V.- Por servicios de examen médico que preste el Municipio, a las personas que lo soliciten, de conformidad con las disposiciones legales aplicables en materia de salud, 2 cuotas.
+V.- Por servicios de examen médico que preste el municipio, a las personas que lo soliciten, de conformidad con las disposiciones legales aplicables en materia de salud, como sigue:
+
+a) Exámenes médicos en General 2 cuotas
+
+b) Exámenes de laboratorio 3 cuotas
+
+c) Exámenes médicos de embarazo 1 cuota
+
+d) Duplicado de certificados médicos 1 cuota
+
+e) Consulta médica o dental general 0.50 cuotas
+
+f) Consulta médica por especialista 0.75 cuotas
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+VI.- Por servicios sanitarios que preste el municipio, a las personas que lo soliciten, de conformidad con las disposiciones legales aplicables en materia de salud, como sigue:
+
+a) Mantener animales en observación 0.50 cuotas
+
+b) Recoger animales domésticos enfermos 0.50 cuotas
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -2643,15 +2669,21 @@ Están exentos del pago, a que se refiere el párrafo anterior, los partidos pol
 
 ### CAPITULO IX. POR LIMPIEZA DE LOTES BALDIOS
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 65.
 
-Los propietarios de predios baldíos ubicados dentro del perímetro del área urbana de una ciudad, villa o congregación, deberán efectuar el desmonte, desherbe o limpieza de su inmueble, retirando la rama, basura o escombro, dos veces al año, la primera en el período comprendido en los meses de Noviembre, Diciembre y Enero; la segunda en el periodo que comprende los meses de Mayo, Junio y Julio.
+Los propietarios de predios baldíos ubicados dentro del perímetro del área urbana de una ciudad, villa o congregación, deberán efectuar el desmonte, desherbe o limpieza de su inmueble, retirando la rama, basura o escombro, dos veces al año a más tardar en los meses de Marzo y Septiembre respectivamente.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 De no cumplirse con lo dispuesto en el párrafo anterior, el Municipio podrá efectuar el servicio de desmonte, desherbe o limpieza del predio baldío, según sea el caso; circunstancias en las cuales el propietario estará obligado a pagar al Municipio la prestación del servicio. Así mismo la autoridad municipal competente le impondrá una multa de uno a tres tantos de los derechos que le correspondería pagar, dependiendo de la reincidencia.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
 El pago de la multa que se impusiere al infractor no lo exime de su obligación a que se refiere el primer párrafo de este artículo
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 Cuando el Municipio efectúe los servicios a los que se refiere el párrafo anterior, se causarán los derechos conforme a la siguiente tarifa por metro cuadrado:
 
@@ -2659,15 +2691,25 @@ a) Predios con superficie hasta 1,000 metros cuadrados 0.150 cuotas
 
 b) Por el excedente de 1,000 metros cuadrados, por cada metro cuadrado excedente 0.140 cuotas
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
 Para los efectos de este artículo deberá entenderse por:
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 Desmonte.- Es la acción de cortar y retirar del predio baldío aquellos arbustos de tallo leñoso, cuyo diámetro sea inferior a 5 centimetros.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
 Desherbe.- Es la acción de cortar y retirar del predio baldío aquellas plantas de tallo herbáceo que se encuentren en el mismo.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 Reincidencia.- Se considera que se presenta la reincidencia cuando no se cumpla en más de una ocasión con la obligación que establece el primer párrafo de este artículo, habiéndose requerido previamente por el Municipio.
 
-El propietario podrá solicitar al Municipio el servicio de recolección de basura producto de la limpieza de su predio, siendo el costo de este servicio la cantidad de 1.2 cuotas por metro cúbico o fracción de materia recolectada.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+El propietario podrá solicitar al Municipio el servicio de recolección de basura producto de la limpieza de su predio, siendo el costo de este servicio la cantidad de 2 cuotas por metro cúbico o fracción de materia recolectada.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -2679,39 +2721,37 @@ El propietario podrá solicitar al Municipio el servicio de recolección de basu
 
 Por el servicio de limpia y recolección de desechos industriales y comerciales, que preste el Municipio, se cobrará por cada inmueble ubicado en el Municipio, por mes:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-a) Inmuebles que en promedio generen hasta 5 kilogramos diarios de basura 0.5 cuotas
+a) Inmuebles que en promedio generen hasta 5 kilogramos diarios de basura 2 cuotas
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-b) Inmuebles que en promedio generen más de 5 kilogramos y hasta 10 kilogramos diarios de basura 2 cuotas
+b) Inmuebles que en promedio generen más de 5 Kilogramos y hasta 10 kilogramos diarios de basura 4 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-c) Inmuebles que en promedio generen mas de 10 kilogramos y hasta 25 kilogramos diarios de basura 4 cuotas
+c) Inmuebles que en promedio generen más de 10 kilogramos y hasta 25 kilogramos diarios de basura 6 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-d) Inmuebles que en promedio generen más de 25 kilogramos y hasta 50 kilogramos diarios de basura 10 cuotas
+d) Inmuebles que en promedio generen más de 25 kilogramos y hasta 50 kilogramos diarios de basura 14 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-e) Inmuebles que en promedio generen más de 50 kilogramos y hasta 100 kilogramos diarios de basura 20 cuotas
+e) Inmuebles que en promedio generen más de 50 kilogramos y hasta 100 kilogramos diarios de basura 25 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-f) Inmuebles que en promedio generen más de 100 kilogramos y hasta 200 kilogramos diarios de basura 40 cuotas
+f) Inmuebles que en promedio generen más de 100 kilogramos y hasta 200 kilogramos diarios de basura 48 cuotas
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-g) Inmuebles que en promedio generen más de 200 kilogramos de basura o el equivalente a tres metros cúbicos diarios, el cobro será fijado de común acuerdo entre el municipio y el particular, en función al costo que represente la prestación del servicio.
+g) Inmuebles que en promedio generen más de 200 kilogramos de basura o el equivalente a tres metros cúbicos diarios, se cobrarán 48 cuotas más 0.50 cuotas por cada 5 kilogramos adicionales de basura o fracción que se generen.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
-
-Estarán exentos del pago de esta contribución en los casos de casas-habitación, cuando en ellas no se realice algún acto de comercio, así como cuando el particular haya contratado este servicio con algún organismo público descentralizado o con un particular autorizado por el Municipio para la prestación de este servicio.
+Estarán exentos del pago de esta contribución en los casos de casas-habitación, excepto cuando se trate de basura y desechos de jardín que excedan de 3 metros cúbicos, en cuyo caso se cubrirán por el excedente 2 cuotas por cada metro cúbico o fracción de materia recolectada, cuando en ellas no se realice algún acto de comercio, así como cuando el particular haya contratado este servicio con algún organismo público descentralizado o con un particular autorizado por el Municipio para la prestación de este servicio.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2735,17 +2775,15 @@ En el caso de los contribuyentes mencionados en los incisos a) y b), deberán ef
 
 Por ocupación de la vía pública:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-I.- Por ocupar la vía pública con sillas, mesas y toda clase de instalaciones fijas o semifijas, se pagarán 0.016 cuotas diarias por metro cuadrado completo.
+I.- Por ocupar la vía pública con toda clase de instalaciones fijas o semifijas, se pagarán 0.016 cuotas diarias por metro cuadrado completo o fracción. En ningún caso la cantidad a pagar será inferior a lo que corresponda por un metro.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+Por otras ocupaciones de la vía pública, se pagarán 0.081 cuotas diarias por metro cuadrado completo o fracción. En ningún caso la cantidad a pagar será inferior a lo que corresponda por un metro.
 
-Otras ocupaciones de la vía pública, se pagarán .081 cuotas diarias por metro cuadrado completo.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-II.- Por ocupar la vía pública, los propietarios de sitios de automóviles, de camiones y camionetas de carga o de pasajeros destinados al servicio público, pagarán 2 cuotas por unidad trimestralmente.
+II.- Por ocupar la vía pública, los propietarios de sitios de automóviles, de camiones y camionetas de carga o de pasajeros destinados al servicio público, pagarán 5 cuotas por unidad trimestralmente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -2762,6 +2800,10 @@ b) Los particulares 1.5 cuotas por metro cuadrado.
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 Se exceptúan de lo anterior, los lugares en donde se encuentren instalados parquímetros, en cuyo caso se pagará una cuota adicional por metro cuadrado.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+Dicha tarifa deberá pagarse de manera proporcional conforme los meses completos del año que hayan transcurrido.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -2791,7 +2833,9 @@ Las construcciones para nuevas edificaciones en terrenos no comprendidos en frac
 
 Los fraccionamientos funerarios o cementerios cederán la superficie o pagarán al municipio en los términos a que se refiere el artículo 166 de la Ley de referencia.
 
-Las relotificaciones o subdivisiones, en su caso deberán complementar proporcionalmente las áreas para equipamientos y fines públicos, o pagarlas al Municipio en los términos a que se refiere el artículo 168 de la citada Ley.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+Las personas físicas o morales que soliciten el trámite de relotificaciones o subdivisiones, en su caso deberán complementar proporcionalmente las áreas para equipamientos y fines públicos, o pagarlas al Municipio en los términos a que se refiere el artículo 168 en correlación con el artículo 151 fracción II de la citada Ley; tratándose de inmuebles en el que los lotes resultantes cuenten o vayan a contar con el uso habitacional unifamiliar, se deberá pagar al Municipio el equivalente del porcentaje a ceder en efectivo, según valor catastral.
 
 ## TITULO QUINTO. PRODUCTOS
 
@@ -3428,3 +3472,35 @@ Los contribuyentes que hayan realizado el pago de los derechos por la autorizaci
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el 1o. de Enero del año 2001.
+
+P.O. 26 DE DICIEMBRE DE 2001.
+
+Artículo Primero.- El presente Decreto entrará en vigor el 1° de Enero del año 2002.
+
+Artículo Segundo.- Tratándose de operaciones de escrituración definitiva que se realicen durante el mes de Enero del año 2002, no se requerirá la constancia de pago del Impuesto predial correspondiente al mes de Enero del 2002, siempre que acrediten haber cubierto el Impuesto hasta Diciembre del 2001.
+
+Artículo Tercero.- Durante el año 2002, para efectos del artículo 21 bis-12, el impuesto predial podrá pagarse por anualidad anticipada a más tardar el día 15 del mes de Febrero, en cuyo caso se gozará de una reducción del 15% de dicha anualidad y si lo cubre a más tardar el día 15 del mes de Marzo, gozará de una reducción del 10% de la misma.
+
+Artículo Cuarto.- Los valores actuales reales emitidos antes del 31 de Diciembre del 2001, en los términos de lo dispuesto en el artículo 28 bis-3 de la Ley de Hacienda para los Municipios del Estado, caducarán en el plazo de 12 meses contados a partir de la fecha de su emisión, por lo que en caso de que la determinación de valores emitidos por el H. Congreso del Estado, resulte mayor a éstos, deberá aplicarse para la determinación del Impuesto Sobre Adquisición de Inmuebles, el valor actual real emitido hasta antes del 31 de Diciembre del 2001, por el período que resulte aplicable.
+
+Artículo Quinto.- En materia de impuesto predial se aplicará, para los años del 2002 al 2006, una desgravación parcial, temporal, a todos los predios, que hayan sufrido incremento en el impuesto a pagar del año 2001 al 2002.
+
+Dicha desgravación será la cantidad que resulte aplicar a la diferencia entre el impuesto causado en el año 2001 y el causado en el 2002, el factor que corresponda según el año, de acuerdo a lo siguiente:
+
+Año Factor
+
+2002 .60
+
+2003 .48
+
+2004 .36
+
+2005 .24
+
+2006 .12
+
+Para los efectos anteriores, se entenderá que el impuesto causado en el año 2002 será el que resulte de las tablas de valores vigentes en dicho año, antes de desgravación.
+
+Cuando el aumento de valor de un inmueble se deba a que se agregaron construcciones durante 2001, o el inmueble fue objeto de alguna modificación, ya sea por fusión, relotificaciones, rectificación de medidas entre otros, el cálculo de la desgravación se hará sin considerar el valor de dichas construcciones agregadas o modificaciones.
+
+Cuando los inmuebles a los que se les haya aplicado parcialmente la desgravación sean objeto de fraccionamiento, cesará la aplicación de la desgravación y deberá cubrirse el impuesto en los términos legales.
