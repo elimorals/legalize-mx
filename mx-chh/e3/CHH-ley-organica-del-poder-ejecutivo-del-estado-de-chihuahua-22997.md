@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "1998-10-03"
+last_updated: "1999-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1999.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -665,7 +665,13 @@ X.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relaci�
 
 XI.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
-XII.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 1999)</small>
+
+XII.- Realizar y promover estudios e investigaciones sobre ahorro y uso eficiente de energía eléctrica, difundir las políticas que el Gobierno Federal establezca en el sector, elaborar proyectos, programas, proporcionar asesorías, procedimientos, ejecutar acuerdos y demás aspectos relacionados con el sector que promuevan su desarrollo tecnológico, financiamiento y eficiencia, así como controlar y vigilar el debido cumplimiento de dichas atribuciones;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 1999)</small>
+
+XIII.- Las demás que le atribuyan expresamente las Leyes y sus Reglamentos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1134,3 +1140,13 @@ CUARTO.- Los asuntos que con motivo de este decreto deban pasar de una dependenc
 QUINTO.- Cuando en este decreto se dé una denominación nueva o distinta a alguna dependencia cuyas funciones estén establecidas por otra ley, dichas atribuciones se entenderán concedidas a la dependencia que determine el presente decreto.
 
 SEXTO.- Cuando en otra ley que haya sido expedida con anterioridad a la entrada en vigor del presente decreto, se haga referencia a una unidad administrativa con el nivel orgánico de departamento, adscrita a una dependencia de la administración pública centralizada se entenderá que dicha unidad corresponde al nivel orgánico de dirección de la dependencia relativa, en los términos del artículo 12 de este ordenamiento.
+
+P.O. 3 DE JULIO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para el cumplimiento de las nuevas facultades conferidas mediante el presente decreto, se faculta el Ejecutivo para reorganizar la estructura orgánica de la Secretaría de Comunicaciones y Obras Públicas y redistribuir las partidas del Presupuesto de Egresos, sin excederse del monto total autorizado para el presente ejercicio.
