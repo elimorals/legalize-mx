@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-salud-del-estado-de-mexico-25202"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-13"
-last_updated: "2002-03-13"
+last_updated: "2005-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE SALUD DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE ENERO DE 2005.
 
 Reglamento publicado en la Sección Séptima de la Gaceta del Gobierno del Estado de México, el miércoles 13 de marzo de 2002.
 
@@ -55,35 +55,35 @@ III. Secretaría, a la Secretaría de Salud del Estado de México.
 
 IV. Instituto, al Instituto de Salud del Estado de México.
 
-V. Alcantarillado, la red pública de conductos destinados a desalojar de las poblaciones los desechos líquidos resultantes de la actividad humana y pluvial.
+V. (DEROGADA, G.G. 31 DE ENERO DE 2005)
 
-VI. Apiario, al conjunto de colmenas destinadas a la cría, explotación y mejoramiento genético de abejas.
+VI. (DEROGADA, G.G. 31 DE ENERO DE 2005)
 
 VII. Atención médica, el conjunto de servicios que se proporcionan al individuo con el fin de proteger, promover y restaurar su salud.
 
 VIII. Autorización sanitaria, el acto administrativo mediante el cual la Autoridad Sanitaria del Estado permite a una persona física o moral, pública o privada, la realización de actividades relacionadas con la salud humana.
 
-IX. Baño publico, el establecimiento destinado a utilizar el agua para el aseo corporal, deporte o uso medicinal bajo la forma de baño, y que pueda concurrir el público. Quedan incluidos en la denominación de baños, los llamados de vapor y de aire caliente.
+IX. (DEROGADA, G.G. 31 DE ENERO DE 2005)
 
-X. Centros de reunión, todas aquellas edificaciones destinadas al agrupamiento de personas con fines recreativos, sociales, deportivos o culturales.
+X. (DEROGADA, G.G. 31 DE ENERO DE 2005)
 
-XI. Centro preventivo y de readaptación social, el edificio destinado a la internación de quienes se encuentran privados de su libertad corporal por una resolución judicial o administrativa, así como de los establecimientos destinados a la reclusión o custodia preventiva.
+XI. (DEROGADA, G.G. 31 DE ENERO DE 2005)
 
-XII. Centros de reunión y de espectáculos, los lugares o áreas destinadas a la realización de actividades sociales, deportivas o culturales, al servicio del público.
+XII. (DEROGADA, G.G. 31 DE ENERO DE 2005)
 
 XIII. Certificado, la constancia expedida en los términos que establezcan las Autoridades Sanitarias del Estado para la comprobación o información de determinados hechos.
 
-XIV. Comercio de alimentos y bebidas en la vía pública, la actividad comercial de alimentos y bebidas no alcohólicas que se realiza en forma ambulante o en puestos semifijos.
+XIV. (DEROGADA, G.G. 31 DE ENERO DE 2005)
 
-XV. Construcción, toda edificación o local que se destine a la habitación, comercio, enseñanza, recreatividad, trabajo o cualquier otro uso.
+XV. (DEROGADA, G.G. 31 DE ENERO DE 2005)
 
 XVI. Control sanitario, el conjunto de acciones de orientación, educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones que ejerce el Instituto.
 
-XVII. Crematorio, las instalaciones destinadas a la incineración de cadáveres y restos humanos.
+XVII. (DEROGADA, G.G. 31 DE ENERO DE 2005)
 
 XVIII. Establecimientos, los locales y sus instalaciones, dependencias y anexos, estén cubiertos o descubiertos, sean fijos o móviles, en los que se desarrolla el proceso de productos o las actividades y servicios a que se refiere este ordenamiento.
 
-XIX. Establecimientos de hospedaje, los hoteles, moteles, casas de huéspedes, así como cualquier inmueble que se destine a dar albergue a toda persona que paga por ello.
+XIX. (DEROGADA, G.G. 31 DE ENERO DE 2005)
 
 XX. Funeraria, el establecimiento destinado a la prestación del servicio velación, traslado o inhumación de cadáveres de seres humanos.
 
@@ -91,17 +91,17 @@ XXI, Granja avícola, el establecimiento dedicado a la cría y reproducción de 
 
 XXII. Granja porcícola, el establecimiento dedicado a la cría, reproducción, mejoramiento y explotación de cerdos.
 
-XXIII. Limpieza pública, el servicio de recolección y tratamiento de basura a cargo de los Ayuntamientos.
+XXIII. (DEROGADA, G.G. 31 DE ENERO DE 2005) (F. DE E., G.G. 24 DE MARZO DE 2005)
 
 XXIV. Medidas de seguridad, aquellas disposiciones de inmediata ejecución que dicte el Instituto de conformidad con los preceptos del libro de salud y demás disposiciones aplicables, para proteger la salud de la población.
 
 XXV. Norma técnica estatal, el conjunto de reglas científicas y tecnológicas de carácter obligatorio, emitidas por la entidad administrativa correspondiente, que establezcan los requisitos que deben satisfacerse en el desarrollo de actividades relacionadas con la salubridad local, con el objeto de uniformar principios, criterios, políticas y estrategias.
 
-XXVI. Panteón, el lugar destinado a la inhumación de cadáveres y restos de seres humanos, a cargo de los Ayuntamientos o concesionado por éstos.
+XXVI. (DEROGADA, G.G. 31 DE ENERO DE 2005)
 
-XXVII. Peluquerías y salones de belleza, los establecimientos dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas; arreglo estético de uñas de manos y pies o apliquen tratamientos capilares de belleza y similares al público.
+XXVII. (DEROGADA, G.G. 31 DE ENERO DE 2005)
 
-XXVIII. Puesto semifijo, entendiendo como tal al expendio de productos, instalado en cualquier forma en la vía pública, en terrenos baldíos o en las áreas descubiertas de cualquier establecimiento destinado a habitación, industria, comercio o servicio.
+XXVIII. (DEROGADA, G.G. 31 DE ENERO DE 2005)
 
 XXIX. Regulación sanitaria, el conjunto de disposiciones legales que fundamentan las acciones de control sanitario.
 
@@ -113,13 +113,13 @@ XXXII. Servicios de salud privados, los que presten personas físicas o morales 
 
 XXXIII Servicios públicos a la población en general, los que se presten en establecimientos públicos de salud a los habitantes del Estado que así lo requieran, regidos por criterios de universalidad y de cuotas de recuperación fundadas en las condiciones socioeconómicas de los usuarios.
 
-XXXIV. Sitios de cría y producción de animales domésticos, todas aquellas áreas destinadas a la cría, engorda o reproducción de animales domésticos, aún cuando no se destinen al consumo humano, mismos que deberán localizarse fuera de las zonas urbanas, así como los destinados al control de animales domésticos.
+XXXIV. (DEROGADA, G.G. 31 DE ENERO DE 2005)
 
-XXXV. Transporte público, todo aquel vehículo destinado al traslado de carga de alimentos o de pasajeros, sea cual fuere su medio de propulsión.
+XXXV. (DEROGADA, G.G. 31 DE ENERO DE 2005)
 
 XXXVI. Usuario de servicios de salud, toda persona que requiera y obtenga los que presten los sectores público, social y privado en las condiciones y conforme a las bases que para cada modalidad se establezcan en este Libro y demás disposiciones aplicables.
 
-XXXVII Vendedor ambulante, al expendedor de alimentos y bebidas no alcohólicas, que ejerce su actividad comercial deambulando por la vía pública, a pie o en cualquier otro medio de locomoción.
+XXXVII. (DEROGADA, G.G. 31 DE ENERO DE 2005)
 
 ###### Artículo 3.
 
@@ -133,7 +133,7 @@ El Instituto aplicará y respetará las Condiciones Generales de Trabajo de la S
 
 ###### Artículo 5.
 
-Para el debido cumplimiento de los actos de autoridad sanitaria que el Instituto realice, solicitará, en su caso, el apoyo de las autoridades estatales, quienes lo brindarán.
+(DEROGADO, G.G. 31 DE ENERO DE 2005)
 
 ### CAPITULO II. DEL CONSEJO DE SALUD DEL ESTADO
 
@@ -545,21 +545,29 @@ V. Las autoridades sanitarias correspondientes, efectuarán las diligencias que 
 
 La autoridad sanitaria deberá informar al denunciante de la atención que se le dé a la denuncia.
 
+> <small>(REFORMADO, G.G. 31 DE ENERO DE 2005)</small>
+
 ###### Artículo 72.
 
-El Instituto podrá expedir constancias de condiciones y prácticas sanitarias en los rubros que determine, con validez de un año, a las actividades, establecimientos, vehículos y servicios objeto del presente Reglamento. Dichas constancias podrán renovarse, de subsistir las condiciones y prácticas sanitarias que dieron origen a su expedición, lo que se acreditará, en su caso, con la verificación respectiva.
+El Instituto podrá expedir certificados de condiciones y prácticas sanitarias en los rubros que se determine por el Consejo Interno, con validez de un año, a las actividades, establecimientos, vehículos y servicios materia del presente reglamento.
+
+Dichos certificados podrán renovarse de subsistir las condiciones y prácticas sanitarias que dieron origen a su expedición, lo que deberá comprobarse por parte de el Instituto con la verificación respectiva.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE ENERO DE 2005)</small>
 
 ###### Artículo 73.
 
-Las constancias de condiciones y prácticas sanitarias podrán ser, atendiendo a los parámetros y requerimientos que determinen las normas técnicas estatales correspondientes:
+Los certificados de condiciones y prácticas sanitarias podrán ser, atendiendo a los parámetros y requerimientos que determine la normatividad sanitaria vigente:
 
 a) Superiores, condiciones y prácticas sanitarias.
 
 b) Buenas condiciones y prácticas sanitarias.
 
+> <small>(REFORMADO, G.G. 31 DE ENERO DE 2005)</small>
+
 ###### Artículo 74.
 
-La expedición de las constancias a que se refiere el artículo anterior tendrá como objetivo propiciar y dar reconocimiento a las mejores condiciones y prácticas sanitarias de las actividades, establecimientos, vehículos y servicios objeto del presente Reglamento y promover su difusión e identificación por parte de la población destinataria de los mismos.
+La expedición de los certificados a que se refiere el artículo anterior tendrá como objetivo propiciar y dar reconocimiento a las mejores condiciones y prácticas sanitarias de las actividades, establecimientos, vehículos y servicios materia del presente Reglamento y promover su difusión e identificación por parte de la población destinataria de los mismos.
 
 ###### Artículo 75.
 
@@ -577,11 +585,17 @@ El Instituto, en materia de riesgos sanitarios realizará las acciones descritas
 
 El Instituto, tendrá el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales.
 
+> <small>(ADICIONADO, G.G. 31 DE ENERO DE 2005)</small>
+
+Artículo 78 bis.- Las infracciones a las disposiciones de este Reglamento y demás ordenamientos que de éste emanen, serán sancionadas conforme a lo previsto en la Sección Tercera del Título Cuarto contenido en el Libro Segundo del Código, atendiendo a lo dispuesto en el artículo 137 del Código de Procedimientos Administrativos del Estado de México, y sin perjuicio de las penas que correspondan cuando sean constitutivas de delito.
+
 ### CAPITULO II. DE LOS ESTABLECIMIENTOS
+
+> <small>(REFORMADO, G.G. 31 DE ENERO DE 2005)</small>
 
 ###### Artículo 79.
 
-Los establecimientos que no requieran de autorización sanitaria expedida por el Instituto, deberán cumplir las disposiciones sanitarias aplicables a los mismos.
+Los establecimientos que realicen actividades o presten servicios sujetos a control sanitario, que no requieran autorización sanitaria, deberán presentar aviso de funcionamiento por escrito al Instituto, mediante el formato oficial, dentro de los diez días posteriores al inicio de operaciones y estarán sujetos al cumplimiento de las disposiciones sanitarias y a la obligación prevista en el articulo 107 de este Reglamento.
 
 ###### Artículo 80.
 
@@ -733,9 +747,11 @@ Los propietarios, el encargado o el responsable sanitario de los establecimiento
 
 Las autorizaciones sanitarias deberán solicitarse en las formas oficiales que al efecto proporcione la autoridad sanitaria. A la solicitud deberá acompañarse la información y documentación que se precise en dichas formas oficiales.
 
+> <small>(REFORMADO, G.G. 31 DE ENERO DE 2005)</small>
+
 ###### Artículo 104.
 
-El Instituto expedirá las autorizaciones sanitarias cuando el solicitante hubiere satisfecho los requisitos y condiciones que se señalan en este Reglamento, las normas técnicas y demás disposiciones legales.
+El Instituto previo análisis, dictamen de los documentos y verificación del debido acondicionamiento de los establecimientos para el uso a que se pretenden destinar, expedirá las autorizaciones sanitarias siempre y cuando el solicitante hubiere satisfecho los requisitos y condiciones que se señalan en este Reglamento, en las normas técnicas estatales y demás disposiciones legales.
 
 ###### Artículo 105.
 
@@ -761,9 +777,11 @@ Las autorizaciones sanitarias se otorgarán por tiempo indeterminado, a excepci�
 
 Para obtener permiso sanitario a que se refieren las fracciones I y II del artículo 2.46 del Código, deberá solicitarse en las formas oficiales dentro de los treinta días anteriores al día propuesto para el inicio de la actividad de que se trate.
 
+> <small>(REFORMADO, G.G. 31 DE ENERO DE 2005)</small>
+
 ###### Artículo 110.
 
-Los permisos sanitarios previstos por la fracción I del artículo 2.46 del Código se otorgarán por tiempo indeterminado, aunque sujetos al cumplimiento a lo dispuesto por este Reglamento, las normas técnicas estatales y demás disposiciones legales.
+Los permisos sanitarios previstos por la fracción I del artículo 2.46 del Código, se otorgarán por tiempo indeterminado, previo dictamen de factibilidad emitido por la autoridad sanitaria correspondiente, que acredite el cumplimiento de lo dispuesto por este Reglamento, las normas técnicas y demás disposiciones legales aplicables.
 
 ###### Artículo 111.
 
@@ -810,6 +828,10 @@ Los certificados de defunción y de muerte fetal serán expedidos, una vez compr
 Los certificados a que se refiere este capítulo, se extenderán en los modelos aprobados por la Secretaría de Salud y de conformidad con las normas técnicas que la misma emita.
 
 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
+
+> <small>(ADICIONADO, G.G. 31 DE ENERO DE 2005)</small>
+
+Artículo 118 bis.- El Consejo Interno del Instituto establecerá las cuotas de recuperación que deben cubrirse por los certificados que conforme a este Reglamento y demás disposiciones se expidan, así como por el análisis, dictamen de documentos y verificaciones que se realicen para efectos de la expedición de autorizaciones y recepción de avisos; por la capacitación que se imparta en materia de fomento sanitario; por los dictámenes de factibilidad para la expedición de autorizaciones de inicio de construcción y ocupación de obras, así como de panteones y por la revisión, para su autorización, de los libros de registro están obligados a llevar los administradores de los panteones.
 
 ## TITULO TERCERO. COMERCIO DE ALIMENTOS Y BEBIDAS EN LA VIA PUBLICA
 
@@ -2058,3 +2080,11 @@ EL SECRETARIO GENERAL DEL GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+G.G. 31 DE ENERO DE 2005.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrara en vigor el día de su publicación en el periódico oficial "Gaceta del Gobierno".
