@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "1995-12-29"
+last_updated: "1996-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 1996.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -181,21 +181,25 @@ VII.- El Subdirector Técnico de Ingresos.
 
 VIII.- El Subdirector de Recaudación.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 1996)</small>
 
-IX.- El Subdirector de Fiscalización.
+IX.- El Subdirector Técnico de Fiscalización.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
-X.- Los Jefes de las Oficinas Recaudadoras del Estado.
+X.- El Subdirector Operativo de Fiscalización.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
-XI.- El Director del Instituto de Catastro del Estado.
+XI.- Los Jefes de las Oficinas Recaudadoras del Estado.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
-XII.- El Secretario Técnico del Instituto de Catastro del Estado.
+XII.- El Director del Instituto de Catastro del Estado.
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+XIII.- El Secretario Técnico del Instituto de Catastro del Estado.
 
 Los demás servidores públicos a los que las Leyes y Convenios confieren facultades específicas en materia hacendaria y las que reciban por delegación expresa de las autoridades señaladas en este artículo.
 
@@ -447,9 +451,9 @@ I.- Inscribirse en los registros de contribuyentes que señalan las Leyes Fiscal
 
 II.- Presentar los avisos, declaraciones normales, complementarias y provisionales, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las Leyes Fiscales del Estado, en las formas autorizadas y con los requisitos que en las mismas se señalen.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1994)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 1996)</small>
 
-Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, las seguirán presentando aún cuando no haya pago a efectuar, en tanto no presenten los avisos que correspondan para efectos de los registros estatales respectivos.
+Los contribuyentes que en términos de las disposiciones fiscales federales hayan presentado dictamen formulado por Contador Público registrado, sobre estados financieros, tendrán la obligación de proporcionar, en la misma fecha en que hayan presentado el citado dictamen, un escrito a la Dirección de Fiscalización de la Secretaría de Finanzas del Estado, en el que señalen mes a mes las bases gravables de los impuestos estatales causados y no pagados, por los meses y ejercicios que se señalaron en dicho dictamen.
 
 III.- Pagar las contribuciones que les correspondan en los términos que dispongan las Leyes Fiscales del Estado.
 
@@ -489,13 +493,15 @@ Los avisos y documentos a que se refiere este artículo que se presenten en form
 
 ### CAPITULO IV. DE LAS PROMOCIONES
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 25.
 
-Los particulares podrán gestionar o promover ante las Autoridades Fiscales, por sí o a través de representante.
+Los particulares podrán gestionar o promover ante las Autoridades Fiscales, por sí o a través de representante. En ningún trámite administrativo se admitirá la gestión de negocios.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1989)</small>
+La representación de las personas físicas o morales, se hará mediante escritura pública o carta poder, firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las Autoridades Fiscales, Notario o Fedatario Público.
 
-La representación de las personas físicas o morales, se hará mediante escritura pública o carta poder, firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las Autoridades Fiscales o Notario.
+Quien promueva a nombre de otro deberá acreditar que la representación le fue otorgada a más tardar en la fecha de presentación de la promoción de que se trate.
 
 ###### ARTICULO 26.
 
@@ -503,7 +509,9 @@ Las gestiones o promociones que se formulen a las Autoridades Fiscales, deberán
 
 I.- Constar por escrito.
 
-II.- El nombre, la denominación o razón social y el domicilio fiscal.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+II.- El nombre, la denominación o razón social, domicilio fiscal y el número de Registro Estatal o Federal de Contribuyentes, según el caso.
 
 III.- Estar firmada por el promovente o su representante legal.
 
@@ -561,7 +569,9 @@ Corresponde a los contribuyentes la determinación de las contribuciones a su ca
 
 El Crédito Fiscal se pagará en la fecha que señalen las disposiciones fiscales y a falta de disposición legal expresa el pago deberá hacerse:
 
-I. Si es a las Autoridades a las que corresponde formular la liquidación, dentro de los 15 días siguientes a la fecha en que haya surtido efecto la notificación de la misma.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+I.- Si es a las autoridades a las que corresponde formular la liquidación, dentro de los 45 días siguientes a la fecha en que haya surtido efecto la notificación de la misma.
 
 II. Si es a los sujetos pasivos o responsables solidarios a quienes corresponde determinar en cantidad líquida la prestación, dentro de los 15 días siguientes al nacimiento de la obligación fiscal.
 
@@ -573,21 +583,29 @@ IV. Cuando el crédito se determine mediante convenio, en el término que éste 
 
 V.- Tratándose de actos de fiscalización dentro de los 45 días siguientes a la fecha en que surta efecto la notificación de la liquidación correspondiente.
 
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+VI.- Tratándose de las contribuciones que se determinen como consecuencia del escrito al que se refiere la fracción II del artículo 24 de este Código, dentro del mes siguiente en que presente o debió presentar dicho escrito.
+
 ###### ARTICULO 32.
 
 La falta de pago de un Crédito Fiscal en la fecha o plazo establecido en las disposiciones respectivas, determinan que el crédito sea exigible.
 
 ### CAPITULO II. DEL PAGO DE LOS CREDITOS FISCALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 33.
 
-Pago es el cumplimiento de una obligación fiscal determinada en cantidad líquida, que deberá cubrirse en moneda nacional y podrá hacerse en efectivo, giro postal, telegráfico o bancario, cheque certificado, cheque personal de la cuenta del contribuyente o en especie, en los casos en que así lo prevengan las Leyes Fiscales.
+Pago es el cumplimiento de una obligación fiscal determinada en cantidad líquida, que deberá cubrirse en moneda nacional y podrá hacerse en efectivo, giro postal, telegráfico o bancario, cheque certificado, cheque de caja, cheque personal de la cuenta del contribuyente, transferencias de fondos reguladas por el Banco de México, o en especie en los casos que así lo prevengan las Leyes Fiscales.
 
-El cheque recibido por las Autoridades Fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste y se exigirá independientemente de los accesorios legales originados.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
+El cheque recibido por las Autoridades Fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20 % del monto del valor de éste y se exigirá independientemente de los demás accesorios legales originados. Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro del plazo de tres días, efectúe el pago junto con la mencionada indemnización del 20 %, o bien, acredite fehacientemente, con las pruebas documentales procedentes, que se realizó el pago o que dicho pago no se realizó por causas exclusivamente imputables a la Institución de Crédito.
 
-La indemnización mencionada, el monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualquiera de los extremos antes señalados, la Autoridad Fiscal requerirá y cobrará el monto del cheque, la indemnización mencionada y los demás accesorios que correspondan, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad que en su caso procediere.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1994)</small>
 
@@ -597,9 +615,11 @@ En el caso de que se paguen contribuciones mediante cheque, éste solo podrá ap
 
 El cheque mediante el cual se paguen las contribuciones y sus accesorios deberá expedirse a nombre de la Secretaría de Finanzas del Gobierno del Estado de Puebla, además deberá tener la inscripción "para abono en cuenta". Dicho cheque no será negociable.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 34.
 
-El pago de las contribuciones y sus accesorios se pagarán en las oficinas recaudadoras del domicilio fiscal del contribuyente o en las que autorice para tal efecto la Secretaría de Finanzas.
+El pago de las contribuciones y sus accesorios se realizará en la Oficina Recaudadora que corresponda al domicilio fiscal del contribuyente o en las que autorice para tal efecto la Secretaría de Finanzas, mediante las formas oficiales que emita o apruebe dicha Dependencia.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -619,21 +639,35 @@ Cuando el contribuyente pague en forma espontánea los créditos omitidos y los 
 
 Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
 
-> <small>(F. DE E., P.O. 6 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
-Cuando el contribuyente deba pagar recargos o las Autoridades Fiscales intereses, la tasa aplicable en un mismo período mensual o fracción de éste, será siempre la que esté en vigor al primer día del mes o fracción de que se trate, independientemente de que dentro de dicho período las tasas de recargos o de interés varíen.
+Cuando el contribuyente deba pagar recargos o las Autoridades Fiscales intereses, la tasa aplicable en un mismo período mensual o fracción de éste, será siempre la que esté en vigor el primer día del mes o fracción de que se trate, calculada conforme a este artículo, independientemente de que dentro de dicho período las tasas de recargos o de interés varíen.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+En los casos en que la tasa de recargos que deba aplicarse en el mes no haya sido publicada se aplicará y tomará para el cálculo al que se refiere este artículo, la última tasa publicada por la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 35 A.- El monto de las contribuciones omitidas y las multas que participen de su naturaleza jurídica o de las devoluciones a cargo de las Autoridades Fiscales que no se realicen en término, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. Las contribuciones no se actualizarán por fracciones de mes.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-ARTICULO 35 A.- El monto de las contribuciones omitidas y las multas que participen de su naturaleza jurídica o de las devoluciones a cargo de las Autoridades Fiscales que no se realicen en término, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. Las contribuciones no se actualizarán por fracciones de mes.
-
 Para tales efectos la Autoridad Fiscal tomará en consideración el Indice Nacional de Precios al Consumidor como base del factor de actualización que será aplicado, índice que es calculado y publicado por el Banco de México en los términos de la Legislación Federal correspondiente.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 Para efectos de aplicación, el factor de actualización deberá calcularse hasta el diezmilésimo.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 En las contribuciones, la actualización se calculará de conformidad con lo dispuesto en este artículo sobre el total excluyendo los propios recargos, los gastos de ejecución y la indemnización a que se refiere el segundo párrafo del artículo 33 de este Código.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización.
 
@@ -711,7 +745,9 @@ AUTORIDADES FISCALES
 
 Son facultades de las Autoridades Fiscales:
 
-I.- Proporcionar orientación y asistencia gratuita a los contribuyentes.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+I.- Proporcionar orientación y asistencia gratuita a los contribuyentes con respecto a las disposiciones fiscales de su competencia.
 
 II.- Contestar las consultas que sobre situaciones reales y concretas les hagan los interesados individualmente; de su resolución favorable se derivan derechos para el particular, en los casos en que la consulta se haya referido a circunstancias reales y concretas y la resolución se haya emitido por escrito por Autoridad competente para ello.
 
@@ -751,13 +787,19 @@ d).- Practicar u ordenar que se practique avalúo o verificación física de tod
 
 e).- Allegarse las pruebas necesarias para formular la denuncia, querella o declaratoria al Ministerio Público para que ejercite la acción penal por la posible comisión de delitos fiscales.
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+f).- Practicar visitas de inspección a los contribuyentes a fin de verificar el número de trabajadores y el importe de las remuneraciones pagadas a los mismos.
+
 Las autoridades fiscales podrán ejercitar estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 VIII.- Determinar mediante resolución, la responsabilidad solidaria.
 
-IX.- (DEROGADO, P.O. 3 DE DICIEMBRE DE 1991)
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+IX.- Resolver los recursos administrativos que promuevan los contribuyentes en los términos de este Código y los demás ordenamientos aplicables.
 
 X.- (DEROGADO, P.O. 3 DE DICIEMBRE DE 1991)
 
@@ -779,9 +821,9 @@ XV.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 1991)
 
 XVI.- Elaborar los formularios de declaración en forma que puedan ser llenados fácilmente por los contribuyentes.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
-XVII.- Conocer y resolver de las solicitudes de condonación o exención total o parcial del pago de contribuciones y sus accesorios.
+XVII.- Conocer y resolver las solicitudes de condonación o exención total o parcial del pago de contribuciones, productos, aprovechamientos y sus accesorios.
 
 XVIII.- Conceder subsidios o estímulos fiscales.
 
@@ -863,6 +905,24 @@ Las personas designadas para efectuar la visita la podrán hacer conjunta o sepa
 
 V.- Se deberán indicar las contribuciones sujetas a revisión y en su caso los ejercicios o períodos a que deberá limitarse la visita.
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 42-A.
+
+Para los efectos a que se refiere el inciso f de la fracción VII del artículo 41 de este Código tratándose de visitas de inspección; se deberán observar las siguientes reglas:
+
+I.- Se llevarán a cabo en el domicilio fiscal, establecimientos o sucursales de los contribuyentes, en las que realicen sus actividades, con el objeto de verificar el número de trabajadores y el importe de las remuneraciones pagadas a los mismos.
+
+II.- Al presentarse los visitadores en el lugar en el que deba practicarse la diligencia, entregarán la orden al visitado, a su representante legal, al encargado o a quien se encuentre al frente del establecimiento indistintamente y con dicha persona se entenderá la diligencia.
+
+III.- Los visitadores se deberán identificar ante la persona con quien se entienda la diligencia requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la visita de inspección.
+
+IV.- En toda visita de inspección para verificar el número de trabajadores y el importe de las remuneraciones pagadas a los mismos, se levantará acta en la que se harán constar en forma circunstanciada los hechos conocidos por los visitadores relativos a la visita de inspección.
+
+V.- Si al cierre del acta de visita de inspección para verificar el número de trabajadores y el importe de las remuneraciones pagadas a los mismos, el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar el acta, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y el valor probatorio de la misma; dándose por concluida la visita de inspección.
+
+VI.- Sin con motivo de la visita de inspección para verificar el número de trabajadores y el importe de las remuneraciones pagadas a los mismos se conocieron incumplimientos a las disposiciones fiscales en materia del impuesto sobre erogaciones por remuneraciones al trabajo personal, la Autoridad Fiscal procederá a emitir resolución correspondiente.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 43.
@@ -881,9 +941,9 @@ Si el contribuyente presenta aviso de cambio de domicilio, después de recibida 
 
 La visita podrá llevarse a cabo en el lugar en que se encuentre el contribuyente cuando éste no ocupe el último domicilio fiscal manifestado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 1996)</small>
 
-Cuando a juicio del visitador o visitadores exista peligro de que el visitado se ausente o pueda realizar maniobras para impedir el desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la Contabilidad y demás documentación que acredite el cumplimiento de las disposiciones fiscales, fundando y motivando la necesidad del aseguramiento.
+En el caso de que al inicio de una visita domiciliaria el contribuyente manifieste que no podrá estar presente durante el desarrollo de la misma o haya mediado citatorio sin que esté presente el representante legal, se podrá proceder al aseguramiento de la contabilidad y demás documentación que acredite el cumplimiento de las disposiciones fiscales.
 
 II.- Al iniciarse la visita en el domicilio fiscal, los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta inicial que se levante, sin que esta circunstancia invalide los resultados de la visita.
 
@@ -929,9 +989,9 @@ La visita en el domicilio fiscal se desarrollará conforme a las reglas siguient
 
 I.- De toda visita en el domicilio fiscal se levantará acta en la que se harán constar de manera circunstanciada, los hechos u omisiones que se hubieren conocido por los visitadores. Asimismo, se determinarán las consecuencias legales de tales hechos u omisiones, los que podrán hacer constar en la misma acta o en documento por separado.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
-II.- El acta a que se refiere la fracción anterior, invariablemente deberá ser firmada por el visitado o por la persona con quien se haya entendido la visita, los testigos y los visitadores. Si el visitado o los testigos se niegan a firmar, así se hará constar, sin que esta circunstancia, afecte el valor probatorio de la misma.
+II.- El acta a que se refiere la fracción anterior, invariablemente deberá ser firmada por el visitado o por la persona con quien se haya entendido la visita, los testigos y los visitadores. Si el visitado, la persona con quien se haya entendido la visita o los testigos se niegan a firmar, así se hará constar, sin que esta circunstancia, afecte el valor probatorio del mismo.
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -1029,9 +1089,13 @@ IV.- Cuando la información que se obtenga de terceros ponga de manifiesto, que 
 
 En caso de que los contribuyentes se coloquen en alguna de las causales de estimativa y su base gravable sea el ingreso, se procederá de la manera siguiente:
 
-I.- Si con base en la contabilidad y documentación del contribuyente, información de terceros y cualquier otro medio, pudieran reconstruirse las operaciones correspondientes cuando menos a treinta días, el ingreso diario promedio que resulte se multiplicará por el número de días que corresponda al período, objeto de la revisión.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
-II.- Si la contabilidad y documentación del contribuyente no permite reconstruir las operaciones de treinta días, la Secretaría de Finanzas tomará como base los ingresos que observe durante cinco días cuando menos de operaciones normales y el promedio diario resultante se multiplicará por el número de días que comprenda el período, objeto de revisión.
+I.- Si con base en la contabilidad y documentación del contribuyente, información de terceros y cualquier otro medio probatorio, pudieran reconstruirse las operaciones correspondientes cuando menos treinta días, el ingreso diario promedio que resulte se multiplicará por el número de días que corresponda al período, objeto de la revisión, el resultado de esta operación será la base gravable.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+II.- Si la contabilidad y documentación del contribuyente no permite reconstruir las operaciones de treinta días, la Secretaría de Finanzas tomará como base los ingresos que observe durante cinco días, incluyendo los inhábiles cuando menos de operaciones normales y el promedio diario resultante se multiplicará por el número de días que comprenda cada mes correspondientes al período, objeto de revisión, el resultado de esta operación será la base gravable para cada uno de los meses.
 
 A la base gravable estimada por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa impositiva que corresponda.
 
@@ -1039,13 +1103,27 @@ A la base gravable estimada por alguno de los procedimientos anteriores, se le a
 
 En caso de que los contribuyentes se coloquen en alguna de las causales de estimativa y su base gravable sea diferente al ingreso, se procederá de la manera siguiente:
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
-I.- Tratándose del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo personal previsto en la Ley de Ingresos del Estado, se considerará que los omitidos son los que resultan de aplicar la tasa correspondiente a la cantidad equivalente a cuatro veces el salario mínimo general diario vigente en la zona económica, elevado al período que se revisa, por cada trabajador a su servicio.
+I.- Tratándose del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal previsto en la Ley de Ingresos y la Ley de Hacienda del Estado de Puebla, se considerará que los omitidos son los que resultan de aplicar la tasa correspondiente a la cantidad equivalente a cuatro veces el salario mínimo general diario vigente en el área geográfica en los meses o periodo que se revisa, elevado a dicho período, por cada trabajador a su servicio.
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+En el caso de que se demuestre que el contribuyente tuvo trabajadores cuando menos por un día del período revisado, sin que pueda determinarse la duración de la relación laboral, se entenderá, para efectos fiscales, que dicho trabajador laboró todo el período revisado.
 
-II.- Si en base a la contabilidad y documentación del contribuyente o información de terceros, no se pudiera determinar la base gravable de la contribución, la Autoridad Fiscal podrá tomarla del expediente o documentos que lleven o tengan en su poder cualquier Autoridad u Organismo Público.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+II.- Si en base a la contabilidad y documentación del contribuyente o información de terceros, no se pudiera determinar la base gravable de la contribución, la Autoridad Fiscal podrá establecerla tomando los datos del expediente o documentos que lleven o tengan en su poder cualquier autoridad u Organismo Público. Si de dicho expediente o documentos no se lograra identificar a qué meses corresponde la base gravable o el impuesto causado, la autoridad procederá a dividir la base o el impuesto según el caso, entre el número de meses del período revisado y el resultado será la base y el impuesto que corresponda a cada mes.
+
+En caso de que la documentación comprobatoria, información de terceros y expedientes que se tengan a nombre del contribuyente, en el que aparezcan cantidades relativas al Impuesto sobre Erogaciones por Erogaciones al Trabajo Personal y/o Impuesto Sobre Servicios de Hospedaje, se presumirán que las mismas fueron causadas en el Estado de Puebla y pertenecen al mismo.
+
+Si el contribuyente no manifiesta en alguna o varias declaraciones el número de trabajadores, se tomará para todos los meses el número de trabajadores mayor que se hubiera conocido ya sea de las declaraciones o de los manifestados ante otras autoridades u Organismos Públicos.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 50 A.- Tratándose de la visita de inspección señalada en el artículo 41 la fracción VII inciso f de este Código, se estará a lo siguiente:
+
+I.- Si la persona que atienda la visita de inspección no proporciona documentación comprobatoria vinculada a la relación laboral manifestada, que ampare las erogaciones efectuadas, se presumirá que éstas se realizaron conforme a una vez el salario mínimo general diario vigente en el área geográfica en el mes en que se efectuó la erogación.
+
+II.- Las manifestaciones hechas por la persona con quien se entienda la visita de inspección, se presumirán ciertas salvo prueba en contrario.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -1083,9 +1161,9 @@ Corresponde a las Autoridades Fiscales declarar que se ha cometido una infracci�
 
 La aplicación de las sanciones administrativas se hará sin perjuicio de que se exija el pago de las prestaciones fiscales respectivas, de recargos en su caso y de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 1996)</small>
 
-El monto de las sanciones que este capítulo establece, se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los términos del artículo 35-A de este Código.
+El monto de las sanciones que establece este capítulo en cantidades determinadas, se actualizará en forma semestral con el factor de actualización correspondiente al período comprendido desde el séptimo mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 35-A de este Código. La Secretaría de Finanzas publicará semestralmente las sanciones que resulten una vez actualizadas.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1117,6 +1195,10 @@ a) La omisión sea descubierta por las Autoridades Fiscales.
 
 b) La omisión haya sido corregida por el contribuyente después de que las Autoridades Fiscales hubieren notificado una orden de visita domiciliaria o de verificación, o haya mediado requerimiento o cualquier otra gestión notificada por las mismas, tendientes a la comprobación del cumplimiento de disposiciones fiscales.
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+c) Las obligaciones de pago que se desprendan del escrito al que se refiere la fracción II del artículo 24 de este Código, no se cumplan dentro del mes siguiente al que se presente o debió presentar dicho escrito.
+
 VII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
@@ -1137,7 +1219,9 @@ IV.- Utilizar interpósita persona para manifestar negociaciones propias.
 
 V.- No presentar las declaraciones, manifiestos y cualquier otro de naturaleza análoga que dispongan las Leyes Fiscales del Estado, salvo cuando la presentación sea espontánea.
 
-VI.- Presentar incorrectamente los avisos, declaraciones, manifiestos y cualquier otro de naturaleza análoga que dispongan las Leyes Fiscales del Estado.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+VI.- Presentar incorrectamente los avisos, declaraciones, manifiestos y cualquier otro de naturaleza análoga que dispongan las Leyes Fiscales del Estado, por cada obligación a que esté sujeto.
 
 VII.- Presentar en forma alterada o falsificada los avisos, declaraciones, manifiestos y cualquier otro de naturaleza análoga que dispongan las Leyes Fiscales del Estado.
 
@@ -1147,7 +1231,9 @@ VIII.- Falsear datos e información a las autoridades fiscales.
 
 IX.- No conservar la documentación comprobatoria de sus operaciones gravadas por las Leyes Fiscales del Estado.
 
-X.- No expedir la documentación comprobatoria de sus actividades gravadas por las Leyes Fiscales del Estado.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+X.- No expedir la documentación comprobatoria de sus actividades gravadas por las Leyes Fiscales del Estado, o en su caso, expedirlas sin los requisitos que establecen las mismas.
 
 XI.- No proporcionar información o documentación a las Autoridades Fiscales cuando éstas lo requieran, u obstaculizar la obtención de la misma.
 
@@ -1172,6 +1258,10 @@ XIX.- Adquirir por cualquier título, tarjeta de circulación, tarjetón de carg
 > <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 1992)</small>
 
 XX.- Adquirir por cualquier título, tarjeta de circulación, tarjetón de carga, placas metálicas de verificación vehicular o cualquier otro documento para ser utilizado en un vehículo de procedencia extranjera que sea distinta a aquel que haya sido manifestado ante las autoridades fiscales.
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+XXI.- No pagar los derechos por el uso de la autopista estatal Vía Atlixcáyotl por el tramo comprendido entre Puebla-Atlixco o Atlixco-Puebla.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1207,7 +1297,9 @@ IX.- De $ 272.00 a quien cometa las comprendidas en las fracciones IV y VII.
 
 X.- De $ 306.00 a quien cometa las comprendidas en la fracciones I, VIII, XII y XIII.
 
-XI.- De $ 340.00 a quien cometa las comprendida (sic) en la fracción XVII.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+XI.- De $ 340.00 a quien cometa las comprendidas en las fracciones XVII y XXI.
 
 XII.- De $ 849.00 a quien cometa las comprendidas en la fracciones XIX y XX.
 
@@ -2014,3 +2106,9 @@ PRIMERO.- El presente decreto entrará en vigor a partir del 1o. de Enero de 199
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 TERCERO.- Para los efectos de lo dispuesto en el artículo 35-A del Código Fiscal del Estado, para proceder a la actualización de contribuciones a partir del año de 1996 y que fueron exigibles con anterioridad a dicho año, se considerará como mes más antiguo del período el de Diciembre de 1995.
+
+P.O. 6 DE DICIEMBRE DE 1996.
+
+PRIMERO.- El presente Decreto entrará en vigor el primero de enero de mil novecientos noventa y siete.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
