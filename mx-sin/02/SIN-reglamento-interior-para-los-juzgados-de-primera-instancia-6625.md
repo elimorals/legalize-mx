@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-para-los-juzgados-de-primera-instancia-6625
 country: "mx"
 rank: "reglamento"
 publication_date: "1983-10-05"
-last_updated: "1998-04-17"
+last_updated: "2003-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR PARA LOS JUZGADOS DE PRIMERA INSTANCIA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2003.
 
 Reglamento publicado en el Bis del Periódico Oficial del Estado de Sinaloa, el miércoles 5 de octubre de 1983.
 
@@ -229,6 +229,10 @@ Los Jueces de Primera Instancia podrán amonestar verbalmente y en privado a los
 
 De considerar que esa conducta sea constitutiva de delito, la pondrá en conocimiento del Ministerio Público.
 
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2003)</small>
+
+Independientemente de lo anterior, si acompañada a la demanda recibe del Oficial de Partes un escrito señalando una posible acción tendiente a alterar el turno establecido en la Oficialía del caso, o si de la revisión de la demanda y los documentos anexos a ella se percata de esa acción, lo comunicará a los litigantes y abogados patronos para que en un plazo de tres días expresen lo que a su derecho convenga, concluido el cual, el juez examinará bajo su más estricta responsabilidad las manifestaciones y pruebas que se hubiesen presentado. De comprobarse dicha acción, podrá imponerles una multa que no será menor de quince ni mayor de noventa días de salario mínimo general vigente en el Estado.
+
 ### CAPITULO IV. DE LOS SECRETARIOS
 
 ###### ARTICULO 30.
@@ -432,3 +436,7 @@ Es dado en el Palacio del Poder Judicial del Estado, en la ciudad de Culiacán R
 P.O. 17 DE ABRIL DE 1998.
 
 ÚNICO.- El presente acuerdo entrará en vigor tres días después de su publicación en el periódico oficial "El Estado de Sinaloa".
+
+P.O. 12 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
