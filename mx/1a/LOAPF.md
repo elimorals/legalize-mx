@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "1980-12-31"
+last_updated: "1982-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1982.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -78,11 +78,13 @@ El Gobierno del Distrito Federal estará a cargo del Presidente de la República
 
 El Procurador General de Justicia del Distrito Federal dependerá directamente del Presidente de la República, y ejercerá las funciones que le asigne la Ley.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1982)</small>
+
 ###### ARTICULO 6o.
 
-Para los efectos del Artículo 29 de la Constitución Política de los Estados Unidos Mexicanos, el Consejo de Ministros se integrará con los Secretarios de Estado, los Jefes de Departamentos Administrativos, y el Procurador General de la República, presidido por el Presidente de los Estados Unidos Mexicanos.
+Para los efectos del artículo 29 de la Constitución Política de los Estados Unidos Mexicanos, el Presidente de la República acordará con todos los Secretarios de Estado, los Jefes de los Departamentos Administrativos y el Procurador General de la República.
 
-El Presidente de la República podrá convocar a reuniones de Secretarios de Estado y Jefes de Departamentos Administrativos que no incluyan a la totalidad de los miembros del Consejo, cuando se trate de definir o evaluar la política del Gobierno Federal en materias que sean de la competencia concurrente de varias dependencias o entidades de la Administración Pública.
+El Presidente de la República podrá convocar a reuniones a los Secretarios de Estado y Jefes de Departamentos Administrativos competentes, cuando se trate de definir o evaluar la política del gobierno federal en materias que sean de la competencia concurrente de varias dependencias o entidades de la Administración Pública.
 
 ###### ARTICULO 7o.
 
@@ -92,9 +94,11 @@ Para el ejercicio de sus atribuciones el Presidente de los Estados Unidos Mexica
 
 Para estudiar y dar forma a los acuerdos presidenciales, compilar las leyes y decretos promulgados, los reglamentos, acuerdos y resoluciones expedidos por el Presidente de la República; para estudiar y promover las modificaciones que deban hacerse a la Administración Pública y coordinar y evaluar su ejecución; así como para la atención de servicios de difusión y relaciones públicas, el Titular del Poder Ejecutivo Federal contará con las unidades respectivas, además de aquellas de asesoría y apoyo técnico y de coordinación en áreas prioritarias que el propio Ejecutivo determine, de acuerdo con el presupuesto asignado a la Presidencia de la República.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1982)</small>
+
 ###### ARTICULO 9o.
 
-Las dependencias y entidades de la administración pública centralizada y paraestatal conducirán sus actividades en forma programada y con base en las políticas, prioridades y restricciones que, para el logro de los objetivos y metas de los planes de gobierno establezca el Presidente de la República directamente o a través de las dependencias competentes.
+Las dependencias y entidades de la administración pública centralizada y paraestatal conducirán sus actividades en forma programada y con base en las políticas, prioridades y restricciones que, para el logro de los objetivos y metas de la planeación nacional, establezca el Presidente de la República, directamente o a través de las dependencias competentes. Para tal efecto, las dependencias elaborarán sus programas considerando, en su caso, las acciones de ámbito sectorial que les correspondan.
 
 ## TITULO SEGUNDO. De la Administración Pública Centralizada
 
@@ -112,9 +116,11 @@ Los titulares de las Secretarías de Estado y de los Departamentos Administrativ
 
 Cada Secretaría de Estado o Departamento Administrativo formulará, respecto de los asuntos de su competencia, los proyectos de leyes, reglamentos, decretos, acuerdos y órdenes del Presidente de la República.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1982)</small>
+
 ###### ARTICULO 13.
 
-Los reglamentos, decretos y acuerdos expedidos por el Presidente de la República deberán, para su validez y observancia constitucionales, ir firmados por el Secretario respectivo, y cuando se refieran a asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por todos los titulares de las mismas.
+Los Reglamentos, decretos y acuerdos expedidos por el Presidente de la República deberán, para su validez y observancia constitucionales ir firmados por el Secretario de Estado o el Jefe del Departamento Administrativo respectivo, y cuando se refieran a asuntos de la competencia de dos o más Secretarías o Departamentos, deberán ser refrendados por todos los titulares de los mismos.
 
 ###### ARTICULO 14.
 
@@ -172,9 +178,11 @@ Cuando alguna Secretaría de Estado o Departamento Administrativo necesite infor
 
 ### CAPITULO II. De la Competencia de las Secretarías de Estado y los Departamentos Administrativos
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1982)</small>
+
 ###### ARTICULO 26.
 
-Para el estudio, planeación y despacho de los negocios del orden administrativo, e (sic) Poder Ejecutivo de la Unión contará con las siguientes dependencias:
+Para el estudio, planeación y despacho de los negocios del orden administrativo, el poder Ejecutivo de la Unión contará con las siguientes dependencias:
 
 Secretaría de Gobernación.
 
@@ -208,7 +216,7 @@ Secretaría de la Reforma Agraria.
 
 Secretaría de Turismo.
 
-Departamento de Pesca.
+Secretaría de Pesca.
 
 Departamento del Distrito Federal.
 
@@ -268,7 +276,9 @@ XXIV.- Reglamentar y autorizar la portación de armas por empleados federales;
 
 XXV.- Formular y conducir la política demográfica, salvo lo relativo a colonización, asentamientos humanos y turismo;
 
-XXVI.- Organizar la defensa y prevención social contra la delincuencia, estableciendo en el Distrito Federal un Consejo Tutelar para menores infractores de más de seis años e instituciones auxiliares; creando colonias penales, cárceles y establecimientos penitenciarios en el Distrito Federal y en los Estados de la Federación, mediante acuerdo con sus Gobiernos, ejecutando y reduciendo las penas y aplicando la retención por delitos del orden federal o común en el Distrito Federal.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1982)</small>
+
+XXVI.- Organizar la Defensa y Prevensión (sic) Social contra la delincuencia, estableciendo en el Distrito Federal un Consejo Tutelar para menores infractores de más de seis años e instituciones auxiliares; creando colonias penales, cárceles y establecimientos penitenciarios en el Distrito Federal y en los Estados de la Federación, mediante acuerdo con sus Gobiernos, ejecutando y reduciendo las penas y aplicando la retención por delitos del orden federal o común en el Distrito Federal; así como intervenir conforme a los tratados relativos, en el traslado de los reos a que se refiere el quinto párrafo del Artículo 18 Constitucional.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1980)</small>
 
@@ -288,13 +298,17 @@ A la Secretaría de Relaciones Exteriores corresponde el despacho de los siguien
 
 I.- Manejar las relaciones internacionales y, por tanto, intervenir en la celebración de toda clase de tratados, acuerdos y convenciones en los que el país sea parte;
 
-II.- Dirigir el servicio exterior en sus aspectos diplomático y consular en los términos de la Ley del Servicio Exterior Mexicano y, por conducto de los agentes del mismo servicio, velar en el extranjero por el buen nombre de México; impartir protección a los mexicanos; cobrar derechos consulares y otros impuestos; ejercer funciones federales y de registro civil y adquirir, administrar y conservar las propiedades de la nación en el extranjero;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1982)</small>
+
+II.- Dirigir el servicio exterior en sus aspectos diplomático y consular en los términos de la Ley del Servicio Exterior Mexicano y, por conducto de los agentes del mismo servicio, velar en el extranjero por el buen nombre de México; impartir protección a los mexicanos; cobrar derechos consulares y otros impuestos; ejercer funciones notariales, de Registro Civil, de auxilio judicial y las demás funciones federales que señalan las Leyes, y adquirir, administrar y conservar las propiedades de la Nación en el extranjero;
 
 III.- Intervenir en lo relativo a comisiones, congresos, conferencias y exposiciones internacionales, y participar en los organismos e institutos internacionales de que el Gobierno mexicano forme parte;
 
 IV.- Intervenir en las cuestiones relacionadas con los límites territoriales del país y aguas internacionales;
 
-V.- Conceder a los extranjeros las licencias o autorizaciones que requieran conforme a las leyes para adquirir dominio de las tierras, aguas y sus accesiones, o para obtener concesiones de explotación de minas, aguas o combustibles minerales en la República Mexicana y para adquirir bienes inmuebles ubicados en el país, para intervenir en la explotación de recursos naturales, para hacer inversiones en empresas comerciales industriales especificadas, así como para formar parte de sociedades mexicanas civiles y mercantiles y a éstas para modificar o reformar sus escrituras y sus bases constitutivas y para aceptar socios extranjeros, o adquirir bienes inmuebles o derechos sobre ellos;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1982)</small>
+
+V.- Conceder a los extranjeros las licencias y autorizaciones que requieran conforme a las Leyes para adquirir el dominio de las Tierras, aguas y sus accesiones en la República Mexicana; obtener concesiones y celebrar contratos, intervenir en la explotación de Recursos Naturales o para invertir o participar en sociedades mexicanas civiles o mercantiles, así como conceder permisos para la contitución (sic) de éstas o reformar sus estatutos o adquirir bienes inmuebles o derechos sobre ellos;
 
 VI.- Llevar el registro de las operaciones realizadas conforme a la fracción anterior;
 
@@ -430,49 +444,47 @@ XIV.- Intervenir en la representación del interés de la Federación y del Depa
 
 XV.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1982)</small>
+
 ###### ARTICULO 32.
 
 A la Secretaría de Programación y Presupuesto corresponde el despacho de los siguientes asuntos:
 
-I.- Recabar los datos y elaborar con la participación en su caso de los grupos sociales interesados, los planes nacionales, sectoriales y regionales de desarrollo económico y social, el plan general del gasto público de la Administración Pública Federal y los programas especiales que fije el Presidente de la República;
+I.- Proyectar la planeación nacional de carácter global y elaborar, con la participación de los grupos sociales interesados, el plan nacional correspondiente;
 
-II.- Planear obras, sistemas y aprovechamiento de los mismos; proyectar el fomento y desarrollo de las regiones y localidades que le señale el Presidente de la República para el mayor provecho general;
+II.- Formular y coordinar la ejecución de los programas regionales y especiales que le señale el Presidente de la República;
 
-III.- Llevar y establecer los lineamientos generales de la estadística general del país;
+III.- Coordinar las actividades de planeación del desarrollo integral del país, así como procurar la congruencia entre las acciones de la administración Pública Federal y los objetivos, estrategias, políticas y metas del plan nacional;
 
-IV.- Proyectar y calcular los egresos del Gobierno Federal y los ingresos y egresos de la Administración Pública Paraestatal, y hacer la glosa preventiva de los ingresos y egresos del propio Gobierno Federal y del Departamento del Distrito Federal;
+IV.- Establecer la metodología y los procedimientos de participación y consulta a los sectores social y privado en las actividades de planeación, así como coordinar las acciones que el Ejecutivo Federal convenga con los ejecutivos locales para la ejecución de acciones coordinadas para el desarrollo integral de las diversas regiones del país;
 
-V.- Formular el programa del gasto público federal y el proyecto del presupuesto de egresos de la Federación y del Departamento del Distrito Federal;
+V.- Proyectar y calcular los egresos del Gobierno Federal y los ingresos y egresos de la Administración Pública Federal Paraestatal;
 
-VI.- Planear, autorizar, coordinar, vigilar y evaluar los programas de inversión pública de las dependencias de la administración pública centralizada y la de las entidades de la administración paraestatal;
+VI.- Formular el programa del gasto Público Federal y el proyecto de Presupuesto de Egresos de la Federación y presentarlos, junto con el del Departamento del Distrito Federal a la consideración del Presidente de la República;
 
-VII.- Llevar a cabo las tramitaciones y registros que requiera el control y la vigilancia y la evaluación del ejercicio del gasto público y de los presupuestos de egresos de la Federación y del Distrito Federal, de acuerdo con las leyes respectivas;
+VII.- Autorizar los programas de inversión pública de las dependencias y entidades de la Administración Pública Federal.
 
-VIII.- Cuidar que sea llevada y consolidar la contabilidad de la Federación y del Departamento del Distrito Federal, elaborar la Cuenta Pública y mantener las relaciones con la Contaduría Mayor de Hacienda;
+VIII.- Llevar a cabo las tramitaciones y registros que requiera el control, vigilancia y evaluación del ejercicio del gasto público federal y de los Presupuestos de Egresos;
 
-IX.- Autorizar los actos y contratos de los que resulten derechos y obligaciones para el Gobierno Federal y para el Departamento del Distrito Federal;
+IX.- Verificar que se efectúe en los términos establecidos, la inversión de los subsidios que otorgue la Federación, así como la aplicación de las transferencias de fondos en favor de estados, Municipios, Instituciones o particulares;
 
-X.- Dictar las medidas administrativas sobre responsabilidades que afecten a la Hacienda Pública Federal y al Departamento del Distrito Federal;
+X.- Establecer Normas, lineamientos y políticas en materia de administración, remuneraciones y desarrollo de personal de la Administración Pública Federal Centralizada;
 
-XI.- Ejercer las atribuciones que señalen las leyes de Pensiones Civiles y Militares;
+XI.- Fijar los lineamientos que se deben seguir en la elaboración de la Documentación necesaria para la formulación del Informe Presidencial e integrar dicha documentación;
 
-XII.- Controlar y vigilar financiera y administrativamente la operación de los organismos descentralizados, instituciones, corporaciones y empresas que manejen, posean o exploten bienes y recursos naturales de la nación, o las sociedades e instituciones en que la administración pública federal posea acciones o intereses patrimoniales, y que no estén expresamente encomendados o subordinados a otra dependencia;
+XII.- Intervenir en la planeación, programación, presupuestación, ejecución, control y evaluación de las obras públicas que realicen las dependencias y entidades de la Administración Pública Federal;
 
-XIII.- Disponer la práctica de auditorías externas a las entidades de la administración pública federal, en los casos que señale el Presidente de la República;
+XIII.- Emitir o autorizar, según el caso, los catálogos de cuentas para la contabilidad del gasto público federal; consolidar los estados financieros que emanen de las contabilidades de las entidades comprendidas en el Presupuesto de Egresos de la Federación, así como formular la Cuenta Anual de la Hacienda Pública Federal;
 
-XIV.- Dirigir y organizar estudios y exploraciones geográficas, y realizar estudios cartográficos de la República;
+XIV.- Dictar las medidas administrativas sobre las responsabilidades que afecten a la Hacienda Pública Federal, a las del Departamento del Distrito Federal y al Patrimonio de las entidades de la Administración Pública Paraestatal;
 
-XV.- (DEROGADA, D.O.F. 8 DE DICIEMBRE DE 1978)
+XV.- Establecer normas para la realización de auditorías en las dependencias y entidades de la Administración Pública Federal, así como realizar las auditorías especiales que se requieran a las dependencias y entidades de la Administración Pública Federal;
 
-XVI.- Intervenir en los actos o contratos relacionados con las obras de construcción, instalación y reparación que se realicen por cuenta de la Administración Pública Federal y vigilar la ejecución de los mismos;
+XVI.- Comprobar el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestación, control y evaluación;
 
-XVII.- Intervenir en la inversión de los subsidios que concede la Federación a los Gobiernos de los Estados, municipios, instituciones o particulares, cualesquiera que sean los fines a que se destine, con objeto de comprobar que se efectúa en los términos establecidos, y
+XVII.- Coordinar y desarrollar los Servicios Nacionales de Estadística y de Información Geográfica; establecer las normas y procedimientos para la organización, funcionamiento y coordinación de los sistemas Nacionales Estadístico y de Información Geográfica, así como normar y coordinar los servicios de informática de las dependencias y entidades de la Administración Pública Federal; y
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1980)</small>
-
-XVIII.- En materia de administración y desarrollo de personal de la Administración Pública Federal, intervenir en los tabuladores generales e institucionales de sueldos, catálogos general e institucionales de puestos, compactación de plazas, compatibilidad de empleos y control de comisionados, registro del personal civil del Gobierno Federal y procedimientos para el pago de remuneraciones, así como proyectar normas sobre la estructura presupuestal de las remuneraciones.
-
-XIX.- Los demás que le fijen expresamente las leyes y reglamentos.
+XVIII.- Los demás que le fijen expresamente las leyes y reglamentos.
 
 ###### ARTICULO 33.
 
@@ -532,7 +544,9 @@ I.- Formular y conducir las políticas generales de comercio del país;
 
 II.- Intervenir en la distribución y consumo, cuando afecten a la economía general del país;
 
-III.- Establecer la política de la distribución y el consumo de los productos agrícolas, ganaderos y forestales, escuchando la opinión de la Secretaría de Agricultura y Recursos Hidráulicos; y de los productos pesqueros, escuchando la opinión del Departamento de Pesca;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1982)</small>
+
+III.- Establecer la Política de la distribución y el consumo de los productos agrícolas, ganaderos y forestales, escuchando la opinión de la Secretaría de Agricultura y Recursos Hidráulicos; y de los productos pesqueros, escuchando la opinión de la Secretaría de Pesca;
 
 IV.- Fomentar el comercio exterior del país;
 
@@ -544,7 +558,9 @@ VII.- Establecer la política de precios y vigilar su estricto cumplimiento, par
 
 VIII.- Orientar y estimular los mecanismos de protección al consumidor;
 
-IX.- Coordinar y dirigir la acción estatal orientada a asegurar el abastecimiento de los consumos básicos de la población;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1982)</small>
+
+IX.- Coordinar y dirigir el Sistema Nacional para el Abasto, con el fin de asegurar la adecuada distribución y comercialización de productos y el abastecimiento de los consumos básicos de la población;
 
 X.- Intervenir en las ventas cuando los productores nacionales las hagan directamente a compradores radicados en el extranjero;
 
@@ -722,7 +738,9 @@ II.- Planear la distribución de la población y la ordenación del territorio n
 
 III.- Promover el desarrollo de la comunidad;
 
-IV.- Formular y conducir los programas de vivienda y de urbanismo;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1982)</small>
+
+IV.- Promover, formular y conducir los programas de vivienda y de urbanismo y establecer su normatividad técnica y administrativa;
 
 V.- Proyectar, construir, administrar, operar y conservar los sistemas de agua potable, drenaje y alcantarillado en los centros de población, a partir de los sitios convenidos con la Secretaría de Agricultura y Recursos Hidráulicos;
 
@@ -738,7 +756,9 @@ X.- Construir y conservar los caminos y puentes federales, incluso los internaci
 
 XI.- Construir y conservar caminos y puentes, en cooperación con los gobiernos de las entidades federativas, con los Municipios y los particulares;
 
-XII.- Organizar, reglamentar, controlar y vigilar las juntas de mejoras materiales de los puertos y fronteras, así como nombrar y substituir a los funcionarios de las mismas;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1982)</small>
+
+XII.- Prever a nivel nacional las necesidades de tierra para vivienda y para el desarrollo urbano, y administrar el sistema tendiente a satisfacer dichas necesidades;
 
 XIII.- Construir aeropuertos federales y cooperar con los gobiernos de los Estados y las autoridades municipales, en la construcción y conservación de obras de ese género;
 
@@ -748,9 +768,13 @@ XV.- Organizar y administrar los parques nacionales;
 
 XVI.- Proyectar las normas y, en su caso, celebrar los contratos relativos al mejor uso, explotación o aprovechamiento de los bienes federales, especialmente para fines de beneficio social;
 
-XVII.- Ejercer la posesión de la nación sobre la zona federal y administrarla en términos de Ley, siempre que no esté encomendada expresamente a otra dependencia;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1982)</small>
 
-XVIII.- Intervenir en la adquisición, enajenación, destino o afectación de los bienes inmuebles federales;
+XVII.- Ejercer la posesión de la nación en las playas y zona marítimo terrestre y administrarlas en los términos de Ley;
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1982)</small>
+
+XVIII.- Intervenir en la adquisición, enajenación, destino o afectación de los bienes inmuebles de la administración Pública Federal, Centralizada y Paraestatal; así como determinar normas y procedimientos para la formulación de inventarios y la realización de avalúos de dichos bienes;
 
 XIX.- Mantener al corriente el avalúo de los bienes inmuebles nacionales y reunir, revisar y determinar las normas y procedimientos para realizarlo;
 
@@ -1000,9 +1024,11 @@ XVIII.- Llevar la estadística en materia de turismo, de acuerdo con las disposi
 
 XIX.- Los demás que le fijen expresamente las leyes y reglamentos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1982)</small>
+
 ###### ARTICULO 43.
 
-Al Departamento de Pesca, corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Pesca corresponde el despacho de los siguientes asuntos:
 
 I.- Formular y conducir la política pesquera del país;
 
@@ -1044,7 +1070,9 @@ Dentro de la administración pública paraestatal serán considerados como organ
 
 Dentro de la administración pública paraestatal se consideran empresas de participación estatal mayoritaria, incluídas las instituciones nacionales de crédito y organizaciones auxiliares, y las instituciones nacionales de seguros y de fianzas, aquellas que satisfagan alguno de los siguientes requisitos:
 
-a) Que el Gobierno Federal, el Gobierno del Distrito Federal, uno o más organismos descentralizados, otra u otras empresas de participación estatal, una o más instituciones nacionales de crédito u organizaciones auxiliares nacionales de crédito, una o varias instituciones nacionales de seguros o de fianzas, o uno o más fideicomisos a que se refiere la fracción III del artículo 3o. de esta Ley, considerados conjunta o separadamente, aporten o sean propietarios del 50% o más del capital social;
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1982)</small>
+
+a) Que el Gobierno Federal, el Gobierno del Distrito Federal, uno o más organismos descentralizados, otra u otras empresas de participación estatal mayoritaria, una o más instituciones nacionales de crédito u organizaciones auxiliares nacionales de crédito; una o varias instituciones nacionales de seguros o de fianzas, o uno o más fideicomisos a que se refiere la fracción III del Artículo 3o. de esta Ley, considerando conjunta o separadamente, aporten o sean propietarios del 50% o más del capital social;
 
 b) Que en la constitución de su capital se hagan figurar acciones de serie especial que sólo puedan ser suscritas por el Gobierno Federal; o
 
@@ -1062,11 +1090,13 @@ La vigilancia de la participación estatal estará a cargo de un comisario desig
 
 Las relaciones de las empresas de participación estatal minoritaria con la administración pública federal, serán las que determine la ley.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1982)</small>
+
 ###### ARTICULO 49.
 
-Los fideicomisos a que se refiere esta Ley serán los que se establezcan por la Secretaría de Hacienda y Crédito Público como fideicomitente único de la administración pública centralizada, así como los que se creen con recursos de las entidades a que alude el artículo 3o. de este propio ordenamiento.
+Los fideicomisos a que se refiere esta Ley serán los establecidos por la Administración Pública Centralizada así como los que se creen con recursos de las entidades a que alude el artículo 3o. de este propio ordenamiento.
 
-El fideicomitente deberá recabar la autorización previa de la Secretaría de Estado o Departamento Administrativo encargado de la coordinación del sector correspondiente, para la integración de los comités técnicos. En todos los casos un representante del fideicomitente, cuando menos, formará parte del comité técnico.
+La Secretaría de Programación y Presupuesto representará como fideicomitente único a la Administración Pública Centralizada, en los fideicomisos que ésta constituya.
 
 ###### ARTICULO 50.
 
@@ -1123,3 +1153,15 @@ QUINTO.- Este decreto entrará en vigor el día siguiente al de su publicación 
 D.O.F. 31 DE DICIEMBRE DE 1980.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 4 DE ENERO DE 1982.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las atribuciones conferidas por otras disposiciones jurídicas al Departamento de Pesca o a su titular, se entenderán concedidas a la Secretaría de Pesca, o a su titular, respectivamente.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO.- Las Secretarías de Hacienda y Crédito Público y de Programación y Presupuesto, en la esfera de sus atribuciones, realizarán los actos que sean necesarios a efecto de que esta última represente, como fideicomitente, a la administración pública centralizada en los fideicomisos constituidos con anterioridad a la entrada en vigor del presente Decreto.
+
+Los recursos humanos, materiales y financieros, así como los archivos y, en general, el equipo que la Secretaría de Hacienda y Crédito Público haya venido utilizando en el desempeño de las funciones de fideicomitente único de la administración pública centralizada, pasarán a la Secretaría de Programación y Presupuesto, dentro del plazo de 60 días contados a partir de la fecha de entrada en vigor del presente Decreto. La propia Secretaría de Programación y Presupuesto tramitará las transferencias presupuestales procedentes, y proveerá lo necesario a fin de que el personal que sea transferido mantenga sus derechos adquiridos.
