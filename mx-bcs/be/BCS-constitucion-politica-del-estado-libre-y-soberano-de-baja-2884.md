@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1987-11-30"
+last_updated: "1987-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE NOVIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1987.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -313,9 +313,9 @@ III.- Tener residencia efectiva no menor de un año anterior al día de la elecc
 
 I.- El Gobernador en ejercicio, aun cuando se separe definitivamente de su puesto, cualesquiera que sea su calidad, el origen y la forma de su designación;
 
-> <small>(REFORMADA, B.O. 20 DE MAYO DE 1987)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
 
-II.- El Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Oficial Mayor, Procurador General de Justicia, Contralor General, los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquier otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo 60 días antes de la fecha de las elecciones.
+II.- El Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Secretario de Turismo; Oficial Mayor, Procurador General de Justicia, Contralor General, los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquier otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo 60 días antes de la fecha de las elecciones.
 
 III.- Los Presidentes Municipales o quienes ocupen cualquier cargo municipal, a menos que se separen de su cargo sesenta días antes de la elección;
 
@@ -579,9 +579,9 @@ IV.- No ser militar en servicio activo o ciudadano con mando en los cuerpos de s
 
 V.- No ser funcionario o empleado federal noventa días anteriores a la fecha de la elección;
 
-> <small>(REFORMADA, B.O. 20 DE MAYO DE 1987)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
 
-VI.- No ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Oficial Mayor, Procurador General de Justicia, Contralor General, Magistrado del Tribunal Superior de Justicia del Estado, Diputado Local, Presidente Municipal y cualquier otra persona que desempeñe cargo público estatal o municipal, 90 días anteriores a la fecha de la elección; y
+VI.- No ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Secretario de Turismo, Oficial Mayor, Procurador General de Justicia, Contralor General, Magistrado del Tribunal Superior de Justicia del Estado, Diputado Local, Presidente Municipal y cualquier otra persona que desempeñe cargo público estatal o municipal, 90 días anteriores a la fecha de la elección, y
 
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 78 de esta Constitución.
 
@@ -627,9 +627,9 @@ I.- Publicar, cumplir y hacer cumplir las leyes federales;
 
 II.- Publicar, cumplir y hacer cumplir las leyes decretadas por el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia;
 
-> <small>(REFORMADA, B.O. 20 DE MAYO DE 1987)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
 
-III.- Nombrar y remover libremente al Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Oficial Mayor, Procurador General de Justicia, Contralor General y demás funcionarios y empleados del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las Leyes.
+III.- Nombrar y remover libremente al Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Secretario de Turismo, Oficial Mayor, Procurador General de Justicia, Contralor General y demás funcionarios y empleados del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las Leyes.
 
 IV.- Nombrar a los Magistrados del Tribunal Superior de Justicia, con la aprobación del Congreso del Estado o la Diputación Permanente, en su caso;
 
@@ -727,23 +727,31 @@ XLIII.- Las demás que señalen esta Constitución y sus leyes.
 
 #### SECCION III. DE LAS DEPENDENCIAS DEL EJECUTIVO
 
-> <small>(REFORMADO, B.O. 20 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1987)</small>
 
-80.- La administración pública de Baja California Sur, será centralizada y paraestatal conforme a esta Constitución y a la Ley Orgánica que expida el Congreso del Estado, que distribuirá los asuntos del orden administrativo que estarán a cargo de un Secretario General de Gobierno, un Secretario de Finanzas, un Secretario de Desarrollo, un Secretario de Asentamientos Humanos y Obras Públicas, un Secretario de Bienestar Social, un Oficial Mayor, un Procurador General de Justicia y un Contralor General y definirá las bases generales de creación de las entidades paraestatales y la intervención del Ejecutivo Estatal en su operación.
+80.- La Administración Pública de Baja California Sur, será centralizada y paraestatal conforme a esta Constitución y a la Ley Orgánica que expida el Congreso del Estado, que distribuirá los asuntos del orden administrativo que estarán a cargo de un Secretario General de Gobierno, un Secretario de Finanzas, un Secretario de Desarrollo, un Secretario de Asentamientos Humanos y Obras Públicas, un Secretario de Bienestar Social, un Secretario de Turismo, un Oficial Mayor, un Procurador General de Justicia y un Contralor General, y definirá las bases generales de creación de las entidades paraestatales y la intervención del Ejecutivo Estatal en su operación.
 
-Las Leyes determinarán las relaciones entre las Entidades paraestatales y el Gobernador o entre éstas y las dependencias del Ejecutivo.
+Las Leyes determinarán las relaciones entre las Entidades Paraestatales y el Gobernador o entre éstas y las dependencias del Ejecutivo.
 
 81.- Toda ley o decreto será refrendada por el Secretario General de Gobierno y por el funcionario del ramo relativo.
 
-> <small>(REFORMADO, B.O. 20 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1987)</small>
 
-82.- Para ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Oficial Mayor, Contralor General se requiere:
+82.- Para ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Secretario de Turismo, Oficial Mayor, Contralor General se requiere:
+
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1987)</small>
 
 I.- Ser Ciudadano Sudcaliforniano.
 
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1987)</small>
+
 II.- Tener 25 años de edad como mínimo.
 
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1987)</small>
+
 III.- Tener modo honesto de vivir. Y
+
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1987)</small>
 
 IV.- No haber sido condenado por delitos intencionales y oficiales.
 
@@ -1649,7 +1657,7 @@ B.O. 16 DE DICIEMBRE DE 1983.
 
 ###### ARTICULO UNICO.
 
-EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
+El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 10 DE SEPTIEMBRE DE 1984.
 
@@ -1704,6 +1712,12 @@ B.O. 20 DE MAYO DE 1987.
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de B. C. S.
 
 B.O. 30 DE NOVIEMBRE DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE DICIEMBRE DE 1987.
 
 ###### ARTICULO UNICO.
 
