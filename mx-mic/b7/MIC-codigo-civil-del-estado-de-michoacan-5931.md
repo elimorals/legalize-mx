@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1970-08-31"
+last_updated: "1971-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 1971.
 
 Código publicado en el Suplemento 6 del Periódico Oficial Número 34, el Jueves 30 de Julio de 1936.
 
@@ -1457,6 +1457,8 @@ En la línea colateral los grados se cuentan por el número de generaciones, sub
 
 ### CAPITULO V. De la adopción
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1971)</small>
+
 ###### Artículo 259.
 
 La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de recibirlos.
@@ -1785,9 +1787,17 @@ El hijo puede ser reconocido por los dos padres a la vez o sólo por uno. Si el 
 
 El reconocimiento no puede revocarse y si se hizo en testamento, aunque éste se revoque, el reconocimiento queda firme.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1971)</small>
+
 ###### Artículo 324.
 
-Cualquier tercero interesado puede contradecir el reconocimiento. El heredero que resulte perjudicado tiene derecho de contradecir el reconocimiento dentro del año siguiente a la muerte del que lo hizo.
+El Ministerio Público tendrá acción contradictoria del reconocimiento de un menor de edad, cuando se hubiere efectuado en perjuicio del menor.
+
+La misma acción tendrá el progenitor que reclame para sí tal carácter con exclusión de quien hubiere hecho el reconocimiento indebidamente o para el solo efecto de la exclusión.
+
+El tercero afectado por obligaciones derivadas del reconocimiento ilegalmente efectuado podrá contradecirlo en vía de excepción.
+
+En ningún caso procede impugnar el reconocimiento por causa de herencia para privar de ella al menor reconocido.
 
 ###### Artículo 325.
 
@@ -1909,11 +1919,21 @@ III. A percibir la porción hereditaria y los alimentos que fije la ley.
 
 ###### Artículo 345.
 
-Los mayores de cuarenta años, en pleno ejercicio de sus derechos y que no tengan descendientes pueden adoptar a un menor o incapacitado, aún cuando éste sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que la adopción sea benéfica a él.
+El mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar uno o más menores o a un incapacitado, aún cuando éste sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que acredite además:
+
+I. Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trata de adoptar.
+
+II. Que la adopción es benéfica para la persona que trata de adoptarse; y
+
+III. Que el adoptante es persona de buenas costumbres.
+
+Cuando circunstancias especiales lo aconsejen, el juez puede autorizar la adopción de dos o más incapacitados o de menores e incapacitados simultáneamente.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1971)</small>
 
 ###### Artículo 346.
 
-El marido y la mujer podrán adoptar, cuando los dos están conformes en considerar al adoptado como hijo.
+El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo y aunque sólo uno de los cónyuges cumpla el requisito de la edad a que se refiere el artículo anterior, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de diecisiete años cuando menos.
 
 ###### Artículo 347.
 
@@ -1927,11 +1947,15 @@ El tutor sólo puede adoptar a su pupilo, después que hayan sido debidamente ap
 
 El menor o incapacitado que hayan sido adoptados tendrán derecho de impugnar la adopción dentro del año siguiente a la mayor edad o a la fecha en que haya desaparecido la incapacidad.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1971)</small>
+
 ###### Artículo 350.
 
 El adoptante tendrá los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos, para con el adoptado.
 
 A su vez el adoptado tendrá con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
+
+El adoptante podrá darle nombre y sus apellidos al adoptado, haciéndose las anotaciones correspondientes en el acta de adopción.
 
 ###### Artículo 351.
 
@@ -1947,9 +1971,11 @@ IV. El Ministerio Público del lugar del domicilio del adoptado, cuando no exist
 
 Si el adoptado es mayor de catorce años también se necesitará su consentimiento.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1971)</small>
+
 ###### Artículo 352.
 
-Cuando el Ministerio Público o el tutor, sin causa justificada no consientan en la adopción, el Presidente Municipal del lugar en que resida el incapacitado, podrá suplir dicho consentimiento si la adopción es notoriamente conveniente para los intereses morales y materiales del que se va a adoptar.
+Si el tutor o el Ministerio Público no consienten en la adopción, deberán expresar la causa en que se funden, la que el Juez calificará tomando en cuenta los intereses del menor o incapacitado.
 
 ###### Artículo 353.
 
@@ -1969,9 +1995,11 @@ El Juez que autorice una adopción enviará al Juez del Estado Civil copia certi
 
 Los derechos y obligaciones que nacen de la adopción, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos del matrimonio, en lo que se estará a lo dispuesto en el artículo 139.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1971)</small>
+
 ###### Artículo 357.
 
-La adopción no extingue los derechos y obligaciones que nacen del parentesco natural, excepto la patria potestad que será transferida al adoptante.
+Los derechos y obligaciones que resultan del parentesco natural no se extinguen por la adopción, excepto la patria potestad, que será transferida al adoptante, salvo que en su caso esté casado con alguno de los progenitores del adoptado, porque entonces se ejercerá por ambos cónyuges.
 
 ###### Artículo 358.
 
@@ -1981,7 +2009,9 @@ Aunque el adoptante tenga hijos después de la adopción, ésta producirá sus e
 
 La adopción puede revocarse:
 
-I. Si el adoptado es mayor de edad, por convenio entre él y el adoptante. Si fuere menor de edad el adoptado, será necesario que consientan en la revocación las personas a quienes corresponda dar su consentimiento conforme al artículo 351;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 1971)</small>
+
+I. Cuando las dos partes convengan en ello siempre que el adoptado sea mayor de edad. Si no lo fuere, se oirá a las personas que prestaron su consentimiento conforme al artículo 351, cuando fueren de domicilio conocido, y a falta de ellas, al representante del Ministerio Público;
 
 II. Por ingratitud del adoptado.
 
@@ -1989,9 +2019,13 @@ II. Por ingratitud del adoptado.
 
 El adoptado es ingrato para los efectos del artículo anterior:
 
-I. Si comete algún delito que merezca pena mayor de un año contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 1971)</small>
 
-II. Si el adoptado acusa judicialmente al adoptante de algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe a no ser que hubiere sido cometido contra el mismo adoptado, sus ascendientes o descendientes;
+I. Si comete algún delito intencional contra la persona, la honra o los bienes del adoptante de su cónyuge, de sus ascendientes o descendientes;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 1971)</small>
+
+II. Si el adoptado formula denuncia o querella contra el adoptante, por algún delito aunque se pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes;
 
 III. Si el adoptante ha caído en pobreza y el adoptado rehusara darle alimentos.
 
@@ -2527,7 +2561,9 @@ VI. Los que tengan sesenta años cumplidos;
 
 VII. Los que tengan a su cargo otra tutela o curatela;
 
-VIII. Las mujeres, cuando por su falta de ilustración, por su inexperiencia en los negocios, por su timidez o por otra causa igualmente grave a juicio del Juez, no estén en aptitud de desempeñar convenientemente la tutela.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 1971)</small>
+
+VIII. Los que por su inexperiencia en los negcios (sic) o por causa grave, a juicio del Juez, no estén en aptitud de desempeñar convenientemente la tutela.
 
 ###### Artículo 453.
 
@@ -7525,11 +7561,11 @@ Si al morir el autor de la herencia tenía varias concubinas en las condiciones 
 
 A falta de todos los herederos llamados en los capítulos anteriores, sucederá el Fisco del Estado.
 
-REFORMADO, P.O 12 DE FEBRERO DE 1948)
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1971)</small>
 
 ###### Artículo 1494.
 
-Cuando sea heredero el Fisco del Estado al causar estado la declaratoria de herederos, se venderán los bienes yacentes en los términos de los artículos 63, 64 y 65 del Código Fiscal.
+La resolución que declare heredero al fisco del Estado, hará mención de los bienes que adquiera y le servirá de título de dominio. La disposición de estos bienes se hará en los términos que señale la Ley de Hacienda.
 
 ## TITULO PRIMERO. Fuentes de las obligaciones
 
@@ -14315,7 +14351,7 @@ IV. Cuando se declare la nulidad de la inscripción;
 
 V. Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto por el artículo 2177;
 
-VI. (DEROGADA POR EL ARTICULO SEGUNDO TRANSITORIO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADA, P.O. 25 DE FEBRERO DE 1965)
+VI. (DEROGADA POR EL ARTICULO SEGUNDO TRANSITORIO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
 
 ###### Artículo 2857.
 
@@ -14532,3 +14568,7 @@ UNICO.- El presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 31 DE AGOSTO DE 1970.
 
 UNICO.- El presente Decreto entrará en vigor, desde la fecha de su publicación en el Periódico Oficial de la Entidad.
+
+P.O. 22 DE MARZO DE 1971.
+
+UNICO. El presente Decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial de la Entidad.
