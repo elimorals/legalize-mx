@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "1978-05-14"
+last_updated: "1980-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1980.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -3103,7 +3103,7 @@ Los tribunales pondrán al reo, de oficio, a disposición del Ejecutivo del Esta
 
 Libertad anticipada.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1980)</small>
 
 ###### Art. 496.
 
@@ -3133,33 +3133,35 @@ Retención.
 
 ###### Art. 500.
 
-Cuando algún reo que esté compurgando una pena privativa de libertad crea tener derecho a la libertad anticipada, la solicitará al Ejecutivo, a cuyo efecto acompañará los certificados y las demás pruebas que tuviere.
+Cuando algún reo que esté compurgando una pena privativa de libertad crea tener derecho a la libertad anticipada, la podrá solicitar, por sí o por persona de su confianza verbalmente o por escrito, ante el Juez de Primera Instancia que conoció del proceso, pudiendo aportar las pruebas que tuviere.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1980)</small>
 
 ###### Art. 501.
 
-Recibida la solicitud, se recabarán los datos necesarios acerca de la temibilidad del reo, de la conducta que haya observado durante su prisión, de las manifestaciones exteriores de arrepentimiento o de enmienda y sobre las inclinaciones que demuestre. Estos datos se pedirán a las comisiones unitarias integradas, respectivamente, por el Ministerio Público, por el Juez o Magistrado, y por el Jefe de la prisión que hubiere intervenido en el caso del solicitante.
+Recibida la solicitud, el Juez pedirá informes al Alcaide de la prisión donde se encuentre recluido el reo, sobre si ha observado buena conducta durante su reclusión y hará un análisis para determinar si en el caso se satisfacen los requisitos establecidos por las fracciones II y III del Artículo 106 del Código Penal.
 
-Los informes que rindan estas comisiones no serán obstáculo para que se obtengan los datos necesarios por cualquier otro medio; en vista de esos informes y datos, se resolverá sobre la procedencia de la libertad solicitada.
+El Juez remitirá su opinión, así como la documentación que la sustenta, al Ejecutivo del Estado, dando cuenta al Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+La opinión del Juez no impide que el reo aporte pruebas directamente al Ejecutivo del Estado para corroborar o desvirtuar aquélla.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1980)</small>
 
 ###### Art. 502.
 
-Cuando se conceda la libertad anticipada, se recibirá una información sobre la solvencia e idoneidad del fiador propuesto y, en vista de él, se resolverá si es de admitirse al fiador.
+Concedida la libertad anticipada por el Ejecutivo del Estado, este último determinará el monto de la garantía que debe otorgar el reo y enviará al Juez una comunicación autorizándolo para que, en su auxilio, califique y reciba la garantía y, en su caso, otorgue el salvoconducto.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1980)</small>
 
 ###### Art. 503.
 
-Admitida la garantía, se otorga la fianza en los términos que este Código establece para la libertad bajo caución, y se extenderá al reo un salvoconducto para que pueda comenzar a disfrutar de la libertad anticipada. Esta concesión se comunicará al Jefe de la prisión respectiva, a la Autoridad Municipal del lugar que se señale para la residencia del mismo reo y al Tribunal que haya conocido del proceso.
+Admitida la garantía, el Juez otorgará al reo un salvoconducto para que pueda comenzar a disfrutar de la libertad anticipada. Esta concesión se comunicará al Alcaide de la prisión respectiva y a la Autoridad Municipal del lugar que se señale para la residencia del mismo reo.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1980)</small>
 
 ###### Art. 504.
 
-El salvoconducto a que se refiere el artículo anterior será firmado por el Secretario del Gobierno y se remitirá al Jefe de la prisión para que lo entregue al reo al ponerlo en libertad, haciéndole suscribir un acta en que conste que recibió dicho salvoconducto y que se obliga a no separarse del lugar que se le haya señalado para su residencia, sin permiso de la autoridad que le concedió la libertad anticipada. En caso de que al que se le haya concedido la libertad anticipada obtenga permiso para cambiar de residencia, se presentará a la autoridad municipal del lugar a donde vaya a radicarse y exhibirá ante ella el documento que justifique haber dado aviso del cambio a la autoridad municipal de su anterior domicilio.
+El salvoconducto a que se refiere el artículo anterior será entregado al interesado por el Juez de Primera Instancia, quien deberá hacerle saber a aquél que no pueda separarse del lugar que se le haya señalado para su residencia sin permiso del Ejecutivo del Estado. En caso de aquél al que se le haya concedido la libertad anticipada obtenga permiso para cambiar de residencia, se presentará a la autoridad municipal del lugar a donde vaya a radicarse y exhibirá ante ella el documento que justifique haber dado aviso del cambio a la autoridad municipal de su anterior domicilio.
 
 ###### Art. 505.
 
@@ -3414,3 +3416,9 @@ P.O. 14 DE MAYO DE 1978.
 1º.- Estas reformas entrarán en vigor el día 3 de junio de 1978.
 
 2º.- En los casos previstos por el Artículo 4º Transitorio del Código Penal, la prescripción se declarará de plano por el Tribunal que dicte la sentencia ejecutoria.
+
+P.O. 17 DE ENERO DE 1980.
+
+###### ARTICULO UNICO.
+
+Este decreto surtirá efectos el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
