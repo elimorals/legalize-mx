@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1972-01-31"
+last_updated: "1980-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1980.
 
 Código publicado en el Suplemento 6 del Periódico Oficial Número 34, el Jueves 30 de Julio de 1936.
 
@@ -10817,17 +10817,17 @@ En la venta de que habla el artículo 2168, mientras que no pasa la propiedad de
 
 El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1972)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1980)</small>
 
 ###### Artículo 2173.
 
-La venta de un inmueble cuyo valor en el contrato y en el catastro, no exceda de veinte mil pesos podrá hacerse en instrumento privado o en los términos prevenidos por la Ley del Notariado.
+La venta de un inmueble cuyo valor en el contrato y en el catastro, no exceda de cincuenta mil pesos, podrá hacerse en instrumento privado, o en los términos prevenidos por la Ley del Notariado.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1972)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1980)</small>
 
 ###### Artículo 2174.
 
-Si el valor del inmueble, fiscal o en venta, excede de veinte mil pesos, deberá otorgarse escritura pública.
+Si el valor del inmueble, fiscal o en venta, excede de cincuenta mil pesos, deberá otorgarse en escritura pública.
 
 ### CAPITULO I. Del mutuo simple
 
@@ -11949,11 +11949,11 @@ II. Cuando el interés del negocio para que se confiere llegue a veinte mil peso
 
 III. Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1980)</small>
+
 ###### Artículo 2409.
 
-El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para que se confiere exceda de doscientos pesos y no llegue a cinco mil.
-
-Sólo puede ser verbal el mandato cuando el interés del negocio no exceda de doscientos pesos.
+El mandato podrá otorgarse en escrito privado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para que se confiere exceda de doscientos pesos y no llegue a veinte mil.
 
 ###### Artículo 2410.
 
@@ -13639,13 +13639,11 @@ El acreedor hipotecario puede adquirir la cosa hipotecada, en remate judicial, o
 
 Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituirse la hipoteca. Este convenio no puede perjudicar los derechos de tercero.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1970)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1980)</small>
 
 ###### Artículo 2743.
 
-Cuando el crédito hipotecario exceda de cinco mil pesos, la hipoteca deberá otorgarse en escritura pública; si no excede de esa cantidad podrá otorgarse en instrumento privado en los términos de la Ley Orgánica del Notariado.
-
-En las operaciones de crédito con garantía hipotecaria celebradas por la Federación, el Estado o los municipios entre sí, o con particulares, se observará lo dispuesto en el párrafo segundo del artículo 2173, con la salvedad de que uno de los ejemplares del documento servirá de título al acreedor hipotecario.
+Cuando el crédito hipotecario exceda de cincuenta mil pesos, la hipoteca deberá otorgarse en escritura pública; si no excede de esa cantidad podrá otorgarse en instrumento privado en los términos de la Ley del Notariado.
 
 ###### Artículo 2744.
 
@@ -14586,3 +14584,9 @@ UNICO.- El presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 31 DE ENERO DE 1972.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 1980.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado.
