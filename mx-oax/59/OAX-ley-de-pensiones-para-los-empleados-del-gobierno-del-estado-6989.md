@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-empleados-del-gobierno-del-estado-698
 country: "mx"
 rank: "ley"
 publication_date: "1958-06-07"
-last_updated: "1968-07-06"
+last_updated: "1972-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1972.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el sábado 7 de junio de 1958.
 
@@ -529,7 +529,9 @@ En el caso del inciso segundo del artículo anterior, se recuperará el derecho 
 
 El derecho a disfrutar de pensión concluye:
 
-I.- Para los hijos del trabajador que haya pasado a ser pensionista al cumplir veintiún años de edad; a menos que se trate de incapacitados.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 1972)</small>
+
+I.- Para los hijos de los trabajadores que hayan pasado a ser pensionista al cumplir dieciocho años de edad; a menos que se trate de incapacitados.
 
 II.- Para la viuda, si vuelve a contraer nupcias o viviera en concubinato.
 
@@ -932,3 +934,7 @@ Las pensiones otorgadas hasta la fecha serán revisables para ajustarlas a las d
 P.O. 6 DE JULIO DE 1968.
 
 Único.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE ENERO DE 1972.
+
+Único.- El presente Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
