@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-comunicaciones-y-transportes-para-el-estado-de-nuevo-745
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-14"
-last_updated: "1987-11-09"
+last_updated: "1997-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE COMUNICACIONES Y TRANSPORTES PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial, el viernes 14 de diciembre de 1984.
 
@@ -565,9 +565,11 @@ VII.- Se aplicarán sin variación alguna, a todos los usuarios, salvo lo dispue
 
 Cuando el servicio sea foráneo, se tomarán como base, la distancia entre los puntos del itinerario autorizado, las velocidades máximas permitidas, el estado de transitabilidad del camino y la importancia de los centros de población comprendidos en el itinerario.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1997)</small>
+
 ###### ARTICULO 76o.
 
-La Dirección de Comunicaciones y Transportes podrá fijar tarifas especiales para transporte urbano, mismas que beneficiarán a estudiantes de cualquier grado, con la obligación de justificar estos su calidad, mediante la exhibición de la credencial correspondiente.
+La Dirección de Comunicaciones y Transportes podrá fijar tarifas especiales para transporte urbano, mismas que beneficiarán a estudiantes de cualquier grado, a personas mayores de sesenta años, a discapacitados, así como a viudas, jubilados y pensionados, con la obligación de que los beneficiarios justifiquen su calidad mediante la exhibición de la credencial correspondiente.
 
 ###### ARTICULO 77o.
 
@@ -750,3 +752,7 @@ Se deroga el Artículo 67 de la Ley de Comunicaciones y Transportes para el Esta
 ###### ARTICULO CUARTO
 
 - Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 1997.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
