@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-12-2001-de-la-comision-de-creacion-de-nuevos-62898
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-09-27"
-last_updated: "2001-09-27"
+last_updated: "2001-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62898&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-09-20"
 
 ACUERDO CCNO/12/2001, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA EXTENSION DEL LAPSO EN EL QUE SE MODIFICA TEMPORALMENTE LA COMPETENCIA Y REGLAS DE TURNO DE LOS DOS TRIBUNALES COLEGIADOS EN MATERIAS ADMINISTRATIVA Y DE TRABAJO, ASI COMO DE LOS TRES TRIBUNALES COLEGIADOS EN MATERIA CIVIL DEL SEPTIMO CIRCUITO, CON RESIDENCIA EN BOCA DEL RIO Y XALAPA, VERACRUZ, RESPECTIVAMENTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE DICIEMBRE DE 2001.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de septiembre de 2001.
 
@@ -51,6 +51,8 @@ ACUERDO
 
 PRIMERO.- Se extiende el lapso en el que se modifica temporalmente la competencia del Primer y Segundo Tribunales Colegiados en Materias Administrativa y de Trabajo del Séptimo Circuito; así como del Primer, Segundo y Tercer Tribunales Colegiados en Materia Civil del propio Circuito, establecido en el punto SEGUNDO del Acuerdo General 20/2001 del Pleno del Consejo de la Judicatura Federal, que modifica de manera temporal la competencia y reglas de turno de los Tribunales Colegiados anteriormente referidos.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/15/2001, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 14 DE DICIEMBRE DE 2001, SE EXTIENDE EL TERMINO SEÑALADO EN EL PRESENTE PARRAFO DEL UNO DE ENERO AL TREINTA Y UNO DE MARZO DE DOS MIL DOS.</small>
+
 El término de la extensión señalada comprenderá del uno de octubre al treinta y uno de diciembre de dos mil uno; subsistiendo en sus términos los demás puntos del referido Acuerdo General 20/2001.
 
 SEGUNDO.- Al finalizar la extensión del lapso otorgada, los Presidentes de los Tribunales Colegiados de que se trata deberán informar sobre los movimientos estadísticos que hayan tenido dichos órganos jurisdiccionales a la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, la que resolverá cualquier cuestión administrativa que se suscite con motivo de la aplicación e interpretación del presente Acuerdo.
@@ -62,3 +64,11 @@ PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO CESAR THOME GONZALEZ, SECRETARIO EJECUTIVO DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/12/2001, de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, Relativo a la Extensión del Lapso en el que se Modifica Temporalmente la Competencia y Reglas de Turno de los Dos Tribunales Colegiados en Materias Administrativa y de Trabajo, así como de los Tres Tribunales Colegiados en Materia Civil del Séptimo Circuito, con Residencia en Boca del Río y Xalapa, Veracruz, respectivamente, fue aprobado por la propia Comisión en sesión privada ordinaria celebrada el veinte de septiembre de dos mil uno, por los señores Consejeros: Presidente Interino, José Guadalupe Torres Morales y Manuel Barquín Alvarez.- México, Distrito Federal, a veinte de septiembre de dos mil uno.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 14 DE DICIEMBRE DE 2001.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
