@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-municipal-del-estado-de-oaxaca-6934"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-01"
-last_updated: "1995-09-14"
+last_updated: "1996-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -105,27 +105,23 @@ IV Los propietarios o poseedores a que se refieren las fracciones V y VI del art
 
 V Los fideicomitentes, mientras sean poseedores del predio objeto del fideicomiso o los fideicomisarios que estén en posesión del predio, aún cuando todavía no se les transmita la propiedad.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
+
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
 ### CAPITULO I. DEL IMPUESTO PREDIAL
 
 ###### ARTICULO 7o.
 
-La base del impuesto es la siguiente:
+La base para fijar el impuesto predial será el mayor de los siguientes valores:
 
-I Tratándose de predios urbanos o rústicos, el mayor de los siguientes:
+I).- El valor catastral.
 
-a) El valor catastral.
+II).- El valor declarado por el contribuyente.
 
-b) El valor de la operación de transmisión de dominio o posesión.
+Para los efectos de esta Ley, se entiende por valor catastral el asignado por el Instituto Catastral del Estado, en los términos de la Ley de Catastro, conforme a las tablas de valores aprobadas por el Ejecutivo del Estado.
 
-c) En ausencia del valor catastral, el valor del avalúo que al efecto ordene y practique la Secretaría de Finanzas del Gobierno del Estado.
-
-d) El valor declarado por el contribuyente.
-
-Para los efectos de esta ley, se entiende por valor catastral el asignado por la Secretaría de Finanzas del Gobierno del Estado en los términos de la ley de catastro que corresponda conforme a las tablas de valores por unidad tipo aprobadas por la legislatura del Estado.
-
-II Cuando el predio se encuentre edificado con diversos departamentos propiedad de distintas personas, que a la vez sean copropietarios del terreno en que se encuentro (sic) construido el edificio así como de sus escaleras, pasillos, jardines, muros medianeros, pisos, y demás servicios e instalaciones, la Secretaría de Finanzas del Gobierno del Estado determinará el valor catastral que le corresponderá a cada uno, y éste entrará en vigor a partir del mes siguiente a la fecha en que se haya autorizado previamente la escritura de constitución del condominio. Si éste se constituye sin estar terminadas las construcciones, el impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron.
+Cuando el predio se encuentre edificado con diversos departamentos propiedad de distintas personas, que a la vez sean copropietarios del terreno en que se encuentre construido el edificio, así como sus escaleras, pasillos, jardines, muros medianeros, pisos y demás servicios e instalaciones, el Instituto Catastral del Estado de Oaxaca determinará el valor catastral que le corresponderá a cada uno, y este entrará en vigor a partir del mes siguiente a la fecha en que se haya autorizado previamente la escritura de constitución del condominio. Si este se constituye sin estar terminadas las construcciones, el impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron.
 
 En estos casos la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del mes siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado.
 
@@ -203,27 +199,29 @@ Los inmuebles responden preferentemente del pago de impuesto predial, aún cuand
 
 Solo los bienes del dominio público de la federación, del estado y municipios están exentos del pago del impuestos predial.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 19.
 
-Los notarios, jueces y demás funcionarios autorizados por la ley para dar fe pública, no autorizarán ningún contrato o acto que tenga por objeto la enajenación o gravamen de un inmueble o derechos reales sobre el mismo, mientras no se les compruebe con el certificado respectivo que están al corriente en el pago del impuesto predial. Si por causa no imputable al enajenante, las autoridades fiscales estatales respectivas no han empadronado o catastrado el predio, la Secretaría de Finanzas del Gobierno del Estado podrá permitir a los notarios que otorguen la mencionada autorización definitiva, sin que le sea exhibido el certificado a que se refiere este artículo.
+Los notarios, jueces y demás funcionarios autorizados por la Ley para dar fe pública, no autorizarán ningún contrato o acto que tenga por objeto la enajenación o gravamen de un inmueble o derechos reales sobre el mismo, mientras no se les compruebe con el certificado respectivo que están al corriente en el pago del impuesto predial. Si por causa no imputable al enajenante, el Instituto Catastral del Estado no ha empadronado o catastrado el predio, el propio Instituto podrá permitir a los notarios que otorguen la mencionada autorización definitiva, sin que les sea exhibido el certificado a que se refiere este artículo.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 20.
 
-Los notarios o las autoridades ante quienes se celebren contratos o actos por virtud de los cuales se transmita la propiedad o la posesión de un predio, están obligados a dar aviso a la Secretaría de Finanzas y a la Recaudación de Rentas del lugar de su ubicación, dentro del término de treinta días siguientes a la fecha de la celebración del acto o contrato respectivo.
+Los notarios o las autoridades ante quienes se celebren contratos o actos por virtud de los cuales se transmita la propiedad o la posesión de un predio, están obligados a dar aviso al Instituto de Catastro del Estado dentro del término de 30 días siguientes a la fecha de la celebración del acto o contrato respectivo.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 21.
 
-En el plazo de treinta días, los contribuyentes deberán manifestar a la Recaudación de Rentas de la Secretaría de Finanzas del Gobierno del Estado de la jurisdicción de los predios, la terminación de nuevas construcciones y de ampliaciones y de modificaciones a las construcciones que tengan cada predio, así como el valor de las mismas.
+En el caso de construcciones o de contratos no manifestados, se hará el cobro de diferencias resultantes del impuesto por los cinco años anteriores a la fecha del descubrimiento de la ocultación, salvo que el interesado pruebe que la omisión data de fecha posterior.
 
-Igualmente, en el mismo plazo, los contratantes deberán manifestar a la oficina de catastro que les corresponda, la celebración de cualquier contrato a cuya virtud, cambie el poseedor o propietario.
-
-Tratándose de construcciones o de contratos no manifestados, se hará el cobro de diferencias resultantes del impuesto por los cinco años anteriores a la fecha del descubrimiento de la ocultación, salvo que el interesado pruebe que la omisión data de fecha posterior.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 22.
 
-Para los efectos del impuesto predial, el contribuyente está obligado a manifestar su domicilio ante la Recaudación de Rentas de la Secretaría de Finanzas del Gobierno del Estado de la ubicación del predio, dentro de los treinta días siguientes a la fecha en que adquiera el carácter de contribuyente. En caso de no cumplir con esta obligación se tendrá como domicilio, para todos los efectos legales, el lugar donde se le localice y en defecto de este, el de la ubicación del predio si no es baldío; de serlo, será notificado por edictos publicado en el Periódico Oficial del Estado.
-
-Con la finalidad de dar cumplimiento a la normatividad establecida en la Ley de Coordinación Fiscal vigente. Los municipios informarán cuando sean requeridos por la Secretaría de Finanzas del Gobierno del Estado, las cantidades recaudadas por concepto del impuesto predial.
+Para los efectos del impuesto predial, el contribuyente está obligado a manifestar su domicilio ante el Instituto de Catastro del Estado, dentro de los 30 días siguientes a la fecha en que adquiera el carácter de contribuyentes. En caso de no cumplir con esta obligación se tendrá como domicilio, para todos los efectos legales, el lugar donde se le localice y en defecto de éste el de la ubicación del predio si no es baldío; de serlo, será notificado por edictos publicados en el Periódico Oficial del Estado.
 
 ### CAPITULO II. IMPUESTO SOBRE TRASLACION DE DOMINIO
 
@@ -245,7 +243,9 @@ III La promesa de adquirir, cuando se pacte que el futuro comprador entrará en 
 
 IV La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden, respectivamente.
 
-V Fusión de sociedades.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1996)</small>
+
+V Fusión y escisión de sociedades, incluso en los casos del artículo 14-A del Código Fiscal de la Federación.
 
 VI La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
 
@@ -275,11 +275,11 @@ Están obligadas al pago de este impuesto las personas físicas o morales que ad
 
 El enajenante responde solidariamente del impuesto que deba pagar el adquirirente (sic).
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 26.
 
-La Base para determinar el importe a pagar por concepto de este impuesto, será el valor que resulte mayor entre el precio pactado, el valor catastral y el avalúo que al efecto practique u ordene la Secretaría de Finanzas del Gobierno del Estado.
+La Base para determinar el importe a pagar por concepto de este impuesto será el valor que resulte mayor entre el valor catastral y el valor declarado por el contribuyente. El valor del inmueble podrá ser el valor de adquisición del mismo disminuido con el valor que se tomó como base para calcular el impuesto a que se refiere esta Ley en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 1992)</small>
 
@@ -1192,3 +1192,7 @@ P.O. 14 DE SEPTIEMBRE DE 1995.
 PRIMERO.- Durante el ejercicio fiscal de 1996, los Ayuntamientos del Estado podrán acordar un descuento hasta del 50% del Impuesto Predial, que cause la casa habitación de los Jubilados, Pensionados y Pensionistas, previa comprobación de tal calidad y siempre que habiten físicamente la propiedad objeto del impuesto, a satisfacción plena de los Ayuntamientos.
 
 SEGUNDO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE DICIEMBRE DE 1996.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
