@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-urbano-del-estado-de-jalisco-5817"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-13"
-last_updated: "2000-09-09"
+last_updated: "2000-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 13 de julio de 1993.
 
@@ -777,9 +777,13 @@ XLVI. Determinar la dependencia técnica y administrativa con competencia para e
 
 XLVII. Mantener disponibles para información y consulta del público los planes y programas de desarrollo urbano aplicables en su territorio y los planes parciales de urbanización, así como sus modificaciones o cancelaciones, en la dependencia a que se refiere la fracción anterior; y
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2000) (F. DE E., P.O. 20 DE MARZO DE 2001)
 
-XLVIII. Las demás que le atribuyan esta Ley, los reglamentos y disposiciones aplicables.
+XLVIII. Promover en los planes municipales de desarrollo, el establecimiento de usos, destinos y reservas territoriales para la construcción de espacios destinados al fomento de actividades artísticas, culturales y recreativas; la constitución de asociaciones para la conservación y mejoramiento de sitios y fincas afectos al patrimonio cultural del Estado, así como autorizar sus reglamentos y apoyarlas en sus actividades; y
+
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2000) (F. DE E., P.O. 20 DE MARZO DE 2001)
+
+XLIX. Las demás que le atribuyan esta Ley, los reglamentos y disposiciones aplicables.
 
 ###### Artículo 13.
 
@@ -2427,9 +2431,9 @@ VI. El análisis y síntesis de los elementos condicionantes a la urbanización;
 
 VII. La determinación de los usos y destinos específicos del área de aplicación, conforme a la propuesta del proyecto de urbanización o de la acción urbanística a realizarse definiendo las normas de control de densidad de la edificación, por cada tipo de zona;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2000)</small>
 
-VIII. La referencia a las normas de diseño urbano, relativas a la ingeniería de tránsito y a la ingeniería urbana que determinen, en su caso:
+VIII. La referencia a las normas de diseño urbano, relativas a la ingeniería de tránsito y a la ingeniería urbana que determinen:
 
 a) Los criterios de diseño de la vialidad, precisando las secciones mínimas y normas de trazo de las vialidades en función a su jerarquía;
 
@@ -2439,7 +2443,9 @@ c) Los criterios para la localización de infraestructura, incluyendo el trazo d
 
 d) Las obras mínimas de urbanización requeridas en cada tipo de zona;
 
-e) La determinación de las áreas de cesión para destinos, en función de las características de cada zona, así como de los criterios para su localización, en especial, las destinadas para áreas verdes y escuelas;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2000)</small>
+
+e) La determinación de las áreas de cesión para destinos, en función de las características de cada zona, de reserva de espacios para actividades de fomento y difusión del deporte y la cultura; así como de los criterios para su localización, en especial, las destinadas para áreas verdes y escuelas;
 
 f) Los (sic) obras mínimas de edificación para equipamiento urbano en las áreas de cesión para destinos requeridas en cada tipo de zona;
 
@@ -6264,3 +6270,15 @@ Décimo primero. Los ayuntamientos que hayan expedido registros de obra a efecto
 Décimo segundo. En tanto el Congreso del Estado expide la ley donde se regule la integración y funcionamiento de la Procuraduría de Desarrollo Urbano prevista como autoridad en la fracción VI del artículo 7 y con la naturaleza y fines que se indican en el artículo 15 de esta Ley, este organismo público dotado de plena autonomía y personalidad jurídica propia, operará conforme a las disposiciones de su reglamento, del Título Octavo y demás disposiciones de la Ley de Desarrollo Urbano.
 
 Décimo tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2000.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se abrogan las disposiciones legales y administrativas que contravengan o se opongan a este ordenamiento.
+
+TERCERO. El Titular del Poder Ejecutivo expedirá el Reglamento de la Ley de Fomento de la Cultura del Estado, dentro de los noventa días siguientes al primero de marzo del dos mil uno.
+
+CUARTO. El Consejo Estatal para la Cultura y las Artes deberá constituirse dentro de los cuarenta y cinco días siguientes al primero de marzo del dos mil uno.
+
+QUINTO.- El Fondo Estatal para la Cultura y las Artes, que se establezca en el Presupuesto de Egresos, deberá ser ejercido una vez creada la figura jurídica que acuerde el Ejecutivo.
