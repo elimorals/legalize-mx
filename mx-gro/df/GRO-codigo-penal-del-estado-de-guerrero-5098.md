@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2003-01-21"
+last_updated: "2003-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -1897,11 +1897,23 @@ Se aplicará la misma regla descrita en el segundo párrafo del artículo anteri
 
 199.- Las disposiciones de este Capítulo sólo tendrán aplicación, cuando se trate de delitos que no sean de la competencia de los tribunales federales, por estar comprendidos en la Ley de Vías Generales de Comunicación.
 
-200.- Para los efectos de este Código, son vías de comunicación las de tránsito destinados al uso público, excluyendo los tramos que se hallen dentro de los límites de las poblaciones.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2003)</small>
+
+200.- Para los efectos de este Código, son vías de comunicación las de tránsito destinados al uso público, incluyendo los tramos que se hallen dentro de los límites de las poblaciones.
 
 201.- Al que ilícitamente y de cualquier modo dañe, altere o destruya alguna vía o medio de comunicación o de transporte público, o modifique las señales correspondientes interrumpiendo o dificultando los servicios, se le aplicará prisión de uno a ocho años y de cincuenta a cuatrocientos días multa.
 
-202.- Al que dolosamente obstaculice una vía de comunicación o la prestación de un servicio público de comunicación o de transporte, se le impondrá prisión de tres meses a tres años y hasta ciento cincuenta días multa.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2003)</small>
+
+202.- Al que dolosamente obstaculice una vía de comunicación o la prestación de un servicio público de comunicación o de transporte, se le impondrá prisión de uno a ocho años y de cincuenta a cuatrocientos días multa.
+
+Cuando derivado de lo anterior:
+
+I.- Produzca el retraso de la atención médica de un enfermo, se impondrá de dos a diez años de prisión y de cien a quinientos días multa;
+
+II.- Exista una pérdida de la función de un órgano o parte de la economía corporal, se aplicará hasta una tercera parte más de la pena señalada en la fracción anterior; y
+
+III.- Cause pérdida de la vida del enfermo, se impondrá prisión de ocho a veinte años.
 
 203.- Si la ejecución de los hechos a que se refieren las disposiciones anteriores, se realiza por medio de explosivos o materias incendiarias, las penas se aumentarán hasta en una mitad más.
 
@@ -2878,3 +2890,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 21 DE ENERO DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE JULIO DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
