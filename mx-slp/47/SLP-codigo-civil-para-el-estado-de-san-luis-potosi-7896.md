@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "1988-04-19"
+last_updated: "1990-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1990.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -131,81 +131,101 @@ ART. 27.- Se tiene derecho de designar un domicilio convencional para el cumplim
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-ART. 28.- Habrá en el Estado funcionarios que se llamarán "Oficiales del Registro Civil", a cuyo cargo estará autorizar los actos del estado civil de las personas, y extender las actas relativas al nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, muerte, muerte fetal, de todas las personas que residan o hayan residido en el Estado, así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, o que se ha perdido la capacidad legal para administrar bienes, los actos del estado civil de mexicanos, que se hayan efectuado fuera de la República.
+ART. 28.- El Registro Civil es la Institución de carácter públiico (sic) y de interés social por el cual el Estado inscribe y da publicidad de los actos constitutivos o mdificativos (sic) del estado civil de las personas físicas en lo que corresponde a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, emancipación y muerte de los mexicanos y de los extranjeros residentes en el Territorio del Estado; de los actos del estado civil de los mexicanos efectuados en el extranjero; así como la inscripción de las sentencias ejecutorias que ordenen la rectificación de los asientos, declaren la ausencia, la presunción de muerte o pérdida de capacidad para administrar bienes, y los demás que así lo exijan las leyes.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-ART. 29.- Los Oficiales del Registro Civil, llevarán por duplicado seis libros que se denominarán "Registro Civil" y que contendrán: el primero, actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela; el cuarto, actas de matrimonio y divorcio; el quinto, actas de fallecimiento y el sexto, las inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte o que alguien ha perdido la capacidad legal para administrar bienes.
+ART. 29.- El Registro Civil, mediante la inscripción de los actos constitutivos o modificativos del estado civil de las personas, hará que surtan efectos contra terceros, o que hagan prueba plena en todo lo que el Oficial del Registro Civil, en el desempeño de sus funciones de fe de haber pasado en su presencia, sin perjuicio de las acciones que en contrario concedan las leyes.
 
-Toda acta deberá asentarse en los dos ejemplares del Registro.
+Las declaraciones de los comparecientes hechas en cumplimiento de lo establecido por este Código hacen fe hasta que se pruebe lo contrario.
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-Libro número 7º.- Para actas de muerte fetales.
+ART. 30.- El Registro Civil está constituído por la Dirección General del mismo, su Archivo Estatal y las Oficialías que determine el reglamento respectivo.
 
-Libro número 8º.- Para actas de ejecutorias que declaren la ausencia, presunción de muerte, o perdida de la capacidad legal para administrar bienes.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-Libro número 9º.- Para actas en que consten los actos del estado civil de los mexicanos, ocurridos fuera de la República.
+ART. 31.- En el Estado de San Luis Potosí, estará a cargo de los Oficiales del Registro Civil, o quienes ejerzan sus funciones, en su caso, autorizar los actos del estado civil y expedir constancias de las actas relativas a los casos a que se refiere el Artículo 28 de este Código.
 
-ART. 30.- Las actas del registro civil sólo pueden asentarse en los libros de que habla el artículo anterior.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-La infracción de este precepto producirá la nulidad del acta y se castigará con la destitución del oficial del registro civil.
+ART. 32.- Las actas a que se refiere el Artículo 28, se asentarán en formas especiales, que se denominarán "Formas de Registro Civil", las que una vez utilizadas se encuadernarán en volúmenes que correspondan al año a que se refieran.
 
-ART. 31.- Si se perdiere o destruyere alguno de los libros del registro, se sacará inmediatamente copia del otro ejemplar por el oficial respectivo, para que en todo caso las actas consten por duplicado. El Ministerio Público cuidará del cumplimiento estricto de este precepto y, a ese efecto, el oficial del registro o el encargado del archivo donde se encuentre el duplicado, le darán aviso de la pérdida o destrucción.
+Las inscripciones se harán mecanográficamente y por cuadruplicado.
 
-ART. 32.- El estado civil de las personas sólo se comprueba por las constancias relativas del registro. Ningún otro documento ni medio de prueba es admisible para comprobar el estado civil, salvo los casos expresamente exceptuados por la ley.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-ART. 33.- Cuando no hayan existido registros, se hayan perdido, estuvieren rotos o borrados, o faltaren las hojas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumentos o testigos; pero si uno solo de los registros se ha inutilizado y existe el otro ejemplar, de éste deberá tomarse la prueba sin admitirla de otra clase.
+ART. 33.- Los Oficiales del Registro Civil o quienes ejerzan sus funciones, tendrán fe pública en el desempeño de las labores propias de su cargo.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-ART. 34.- Todos los libros del Registro Civil serán visados en su primera y última hoja por la Dirección del Registro Civil y autorizados por el sello de esta oficina en todas las demás. Se renovarán cada año y un ejemplar quedará en el archivo de la Oficialía del Registro Civil, así como los documentos que le corresponden remitiéndose el otro ejemplar al Archivo General del Registro Civil, en el transcurso del primer mes del año siguiente. Al terminar cada año se inutilizarán con rayas transversales las fojas que hayan quedado en blanco certificándose en la última el número de actas que se contienen en el libro. Los libros terminarán con un índice alfabético de apellidos.
+ART. 34.- En las actas del Registro Civil intervendrán el Oficial del Registro Civil o funcionario que deba autorizarlas, los particulares interesados o sus representantes legales, en su caso, así como los testigos que deban concurrir; las actas deberán ser firmadas en el espacio correspondiente en las que además se imprimirá el sello de la Oficialía que corresponda.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-ART. 35.- El Oficial del Registro Civil que no cumpla la prevención de remitir oportunamente a la mencionada oficina el ejemplar de que habla el artículo anterior, será castigado por la Secretaría de Gobierno, previo informe de la Dirección del Registro Civil con una multa de un mil a cinco mil pesos, fijándosele un plazo perentorio para que haga la remisión. Si no lo hace dentro de este último plazo, será destituído de su cargo.
+ART. 35.- Las formas del Registro Civil serán suministradas por la Dirección del Registro Civil, de acuerdo con las necesidades que en número se requieran.
 
-ART. 36.- No podrá asentarse en las actas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y a lo que esté expresamente prevenido en la ley. En las actas se hará constar el año, día y hora en que se presenten los interesados; se tomará razón especificada de los documentos que presenten y de los nombres, edad, profesión, nacionalidad y domicilio de todos los nombrados en ellas, en cuanto fuere posible.
+De las actas que se levanten en las formas mencionadas, los Oficiales del Registro Civil, entregarán una copia de ellas al interesado, el original quedará en al (sic) archivo de la Oficialía, y dos se remitirán a la Dirección del Registro Civil para que conserve una y la otra la envíe a la Dirección General del Registro Nacional de Población de la Secretaría de Gobernación.
 
-ART. 37.- Cuando los interesados no puedan concurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos. En los casos de matrimonio, reconocimiento de hijos, adopción o divorcio, se necesita poder otorgado en escritura pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos y ratificadas las firmas ante notario público, juez de primera instancia, menor o alcalde.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-ART. 38.- Los testigos que intervengan en las actas del registro civil, serán mayores de edad, prefiriéndose los que designen los interesados, aun cuando sean sus parientes. Siempre que alguna de las personas que intervienen en una acta del registro civil no sepa firmar, pondrá las huellas digitales.
+ART. 36.- Las actas del Registro Civil se concretarán exclusivamente al acto o hecho que correspondan y en ellas se hará mención del parentesco de quienes intervienen en relación con los interesados o sujetos de las mismas, en su caso, de acuerdo con las formas impresas que al efecto se establezcan.
 
-ART. 39.- La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la Ley, causarán la destitución del oficial del registro civil, sin perjuicio de las penas que la ley señala para el delito de falsedad y de la indemnización de daños y perjuicios.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-ART. 40.- Los vicios o defectos que haya en las actas, sujetan al oficial del registro a las correcciones que señale el reglamento respectivo; pero cuando no sean substanciales no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
+ART. 37.- Si se perdiere o destruyere alguna de las formas del Registro Civil se sacará inmediatamente copia de alguno de los otros ejemplares, bajo la responsabilidad del Oficial y del Director del Registro Civil, para cuyo efecto, el funcionario titular de la Oficialía donde ocurra la pérdida, dará el aviso correspondiente a la Dirección, así como al Ministerio Público.
 
-ART. 41.- Toda persona puede pedir testimonio de las actas del registro civil, así como de los apuntes y documentos con ellas relacionados, y los oficiales registradores estarán obligados a darlo.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-ART. 42.- Los actos y actas del estado civil relativos al oficial del registro, a su consorte y a los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por el mismo oficial; pero se asentarán en los propios libros y se autorizarán por el Presidente Municipal del lugar.
+ART. 38.- En relación con las actas del Registro Civil, se formará un apéndice, constituído por los documentos a que se refieren aquéllas, toda persona puede solicitar certificación de las actas y de los documentos del apéndice.
 
-ART. 43.- Las actas del registro civil extendidas conforme a las disposiciones que preceden, hacen prueba plena en todo lo que el oficial del registro civil, en el desempeño de sus funciones, da testimonio de haber pasado en su presencia, sin perjuicio de que el acta pueda ser redargüida de falsa.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado por la Ley, hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor alguno.
+ART. 39.- El estado civil de las personas sólo se comprueba con las constancias relativas del Registro Civil. Ningún otro medio de prueba es admisible para comprobarlo, salvo los casos expresamente exceptuados por la Ley.
 
-ART. 44.- Para establecerse el estado civil, adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que estén conformes con las leyes del país donde se hayan verificado y se registren en la oficina respectiva del registro civil del último domicilio que en el Estado haya tenido el interesado.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-ART. 45.- Los oficiales del registro civil se suplirán unos a otros en los términos que fije el reglamento respectivo.
+ART. 40.- Los vicios o defectos que por error u omisión, existan en las actas y de ellos sean atribuibles al Oficial del Registro, se podrán corregir a petición de parte interesada, mediante procedimiento administrativo seguido en la Dirección del Registro Civil, conforme lo señale el reglamento respectivo; pero cuando no sean substanciales, no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1978)</small>
+La enmienda o corrección se hará mediante anotación marginal en el acta de que se trate.
 
-ART. 46.- La Secretaría General de Gobierno por conducto de la Dirección del Registro Civil y por medio de los Agentes del Ministerio Público, cuidará de la inspección y vigilancia de los Libros del Registro Civil. Cualquier falta administrativa cometida por los Oficiales del Registro Civil y que no esté especialmente penada, se castigará por la Secretaría General de Gobierno con multa de cien a un mil pesos.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 41.- Cuando no hayan existido registros, se hubieren perdido, estuvieren ilegibles o faltaren las actas en que se pueda suponer se encontraba la inscripción, se podrá recibir prueba del acto por instrumentos o testigos; pero si una sola de las actas del Registro se hubiere inutilizado y existan los otros ejemplares, de éstos deberá tomarse la prueba sin admitirla de otra clase.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 42.- Cuando los interesados no puedan concurrir personalmente ante el Oficial del Registro Civil, podrán solicitar que éste acuda al lugar donde se encuentren o podrán hacerse representar por mandatario especial con facultades expresas para el acto, mediante poder otorgado en escritura pública. El reconocimiento de hijos fuera de matrimonio sólo podrá hacerse personalmente.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 43.- Para acreditar el estado civil adquirido por los mexicanos fuera de la República, bastarán las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto por el Código Federal de Procedimientos Civiles, en cuanto a su legalización, debiendo inscribirse estos actos en la Oficialía correspondiente.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 44.- Los actos y actas del Registro Civil relativos al Oficial del Registro, a su cónyuge y a los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por el mismo Oficial; pero se asentarán en los mismos formatos, y se autorizarán por el Presidente Municipal del lugar.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 45.- Los Oficiales del Registro Civil se suplirán unos a otros en sus faltas temporales; cuando esto no fuere posible, suplirán dichas faltas los Presidentes Municipales del Lugar.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 46.- La Secretaría General de Gobierno, el órgano superior del Registro Civil, quien por medio de la Dirección del Registro Civil y de los Agentes del Ministerio Público, cuidará del funcionamiento del mismo. Cualquier falta administrativa cometida por los Oficiales del Registro Civil y de la Dirección del mismo, y que no estén penados especialmente, se castigará por la propia Secretaría, con multa hasta de 5 días de salario mínimo de la zona de la infracción, y podrá igualmente solicitar al Ejecutivo, el cese del funcionario infractor, en los casos que así proceda.
 
 ### CAPITULO II. De las Actas de Nacimiento
 
 ART. 47.- Las declaraciones de nacimiento se harán presentando al niño ante el oficial del registro civil, en su oficina o en la casa donde aquél se encuentre.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-ART. 48.- Tienen obligación de declarar el nacimiento, los padres, dentro de los treinta días de ocurrido aquel.
+ART. 48.- Tienen obligación de declarar el nacimiento, los padres, dentro del término de ciento ochenta días de ocurrido aquél.
 
-Los médicos, cirujanos y matronas que hubieren asistido al parto tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil, dentro de los tres días siguientes.
+(REFORMADO, P.O. 26 DE ENERO DE 1990) (F. DE E., P.O. 9 DE FEBRERO DE 1990)
 
-Recibido el aviso, el Oficial del Registro Civil tomará las medidas legales que sean necesarias, a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
-
-ART. 49.- Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigadas con una multa de cinco a cincuenta pesos, que impondrá la autoridad municipal del lugar donde se haya hecho la declaración extemporánea de nacimiento. En la misma pena incurrirán las personas que no cumplan la obligación de dar el aviso prevenido en el párrafo segundo del artículo anterior.
+ART. 49.- Los padres que estando obligados a declarar el nacimiento, lo hacen fuera del término fijado en el artículo anterior, serán sancionados con una multa correspondiente de hasta un día de salario mínimo, que impondrá la autoridad municipal del lugar donde se haga la declaración extemporánea de nacimiento.
 
 ART. 50.- En las poblaciones en que no haya oficial del registro civil, el niño será presentado a la persona que ejerza la autoridad municipal, y ésta dará las constancias respectivas que los interesados llevarán al oficial del registro que corresponda, para que asiente el acta.
 
@@ -4945,97 +4965,45 @@ ART. 1632.- Los contratos se perfeccionan por el mero consentimiento; excepto aq
 
 ART. 1633.- La validez y el cumplimiento de los contratos no puede dejarse al arbitrio de uno de los contratantes.
 
-Vicios del Consentimiento
+Interpretación
 
-ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
+ART. 1687.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
 
-ART. 1649.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
+Si las palabras parecieren contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquéllas.
 
-ART. 1650.- El error de cálculo sólo da lugar a que se rectifique.
+ART. 1689 (SIC).- Cualquiera que se la generalidad de los términos de un contrato, no deberán entenderse comprendidos en él cosas distintas y casos diferentes de aquellos sobre los que los interesados se propusieron contratar.
 
-ART. 1651.- Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes, y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
+ART. 1689.- Si alguna cláusula de los contratos admitiere diversos sentidos, deberá entenderse en el más adecuado para que produzca efecto.
 
-ART. 1652.- El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
+ART. 1690.- Las cláusulas de los contratos deben interpretarse las unas por las otras, atribuyendo a las dudosas el sentido que resulte del conjunto de todas.
 
-ART. 1653.- Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del acto o reclamarse indemnizaciones.
+ART. 1691.- Las palabras que pueden tener distintas aceptaciones serán entendidas en aquélla que sea más conforme a la naturaleza y objeto del contrato.
 
-ART. 1654.- Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
+ART. 1692.- El uso o la costumbre se tendrán en cuenta para interpretar las ambigüedades de los contratos.
 
-ART. 1655.- Hay violencia cuando se emplea fuerza física o amenaza que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
+ART. 1693.- Cuando absolutamente fuere imposible resolver las dudas por las reglas establecidas en los artículos precedentes, si aquéllas recaen sobre circunstancias accidentales del contrato, y éste fuere gratuito, se resolverá en favor de la menor transmisión de derechos e intereses; si fuere oneroso se resolverá la duda en favor de la mayor reciprocidad de intereses.
 
-ART. 1656.- El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
+Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cual fue la intención o la voluntad de los contratantes, el contrato será nulo.
 
-ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente pueden resultar de la celebración o no celebración del contrato, y que no importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
+Del Consentimiento
 
-ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
+ART. 1639.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por la Ley o por convenio la voluntad deba manifestarse expresamente.
 
-ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
+ART. 1640.- Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
 
-Del objeto y del motivo o fin de los Contratos
+ART. 1641.- Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono.
 
-ART. 1660.- Son objeto de los contratos:
+ART. 1642.- Cuando la oferta se haga sin fijación de plazo a una persona no presente, el autor de la oferta quedará ligado durante tres días, además del tiempo necesario para la ida y vuelta regular del correo público, o del que se juzgue bastante, no habiendo correo público, según las distancias y la facilidad o dificultad de las comunicaciones.
 
-I.- La cosa que el obligado debe dar;
+ART. 1643.- El contrato se forma en el momento en que el proponente reciba la aceptación, estando ligado por su oferta según los artículos precedentes.
 
-II.- El hecho que el obligado debe hacer o no hacer.
+ART. 1644.- La oferta se considerará como no hecha si la retira su autor y el destinatario recibe la retractación antes que la oferta. La misma regla se aplica al caso en que se refiere la aceptación.
 
-ART. 1661.- La cosa objeto del contrato debe: 1o. Existir en la naturaleza. 2o. Ser determinada o determinable en cuanto a su especie. 3o. Estar en el comercio.
+ART. 1645.- Si al tiempo de la aceptación hubiere fallecido el proponente, sin que el aceptante fuere sabedor de su muerte, quedarán los herederos de aquél obligados a sostener el contrato.
 
-ART. 1662.- Las cosas futuras pueden ser objeto de un contrato. Sin embargo, no puede serlo la herencia de una persona viva, aun cuando ésta preste su consentimiento.
+ART. 1646.- El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
 
-ART. 1663.- El hecho positivo o negativo, objeto del contrato, debe ser:
-
-I.- Posible;
-
-II.- Lícito.
-
-ART. 1664.- Es imposible el hecho que no puede existir porque es incompatible con una ley de la naturaleza o con una norma jurídica que debe regirlo necesariamente y que constituye un obstáculo insuperable para su realización.
-
-ART. 1665.- No se considerará imposible el hecho que no pueda ejecutarse por el obligado, pero sí por otra persona en lugar de él.
-
-ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público o a las buenas costumbres.
-
-ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
-
-Representación
-
-ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
-
-ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
-
-ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
-
-Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
-
-Cláusulas que pueden contener los Contratos
-
-ART. 1675.- Los contratantes pueden poner las cláusulas que crean convenientes; pero las que se refieren a requisitos esenciales del contrato o sean consecuencia de su naturaleza ordinaria, se tendrán por puestas aunque no se expresen, a no ser que las segundas sean renunciadas en los casos y términos permitidos por la Ley.
-
-ART. 1676.- Pueden los contratantes estipular cierta prestación como pena para el caso de que la obligación no se cumpla, o no se cumpla de la manera convenida. Si tal estipulación se hace, no podrá reclamarse, además, daños y perjuicios.
-
-ART. 1677.- La nulidad del contrato importa la de la cláusula penal; pero la nulidad de ésta no acarrea la de aquél.
-
-Sin embargo, cuando se promete por otra persona, imponiéndose una pena para el caso de no cumplirse por ésta lo prometido, valdrá la pena aunque el contrato no se lleve a efecto por falta del consentimiento de dicha persona.
-
-Lo mismo sucederá cuando se estipule con otro, a favor de un tercero, y la persona con quien se estipule se sujete a una pena para el caso de no cumplir lo prometido.
-
-ART. 1678.- Al pedir la pena, el acreedor no está obligado a probar que ha sufrido perjuicios, ni el deudor podrá eximirse de satisfacerla, probando que el acreedor no ha sufrido perjuicio alguno.
-
-ART. 1679.- La cláusula penal no puede exceder ni en valor ni en cuantía a la obligación principal.
-
-ART. 1680.- Si la obligación fuere cumplida en la parte, la pena se modificará en la misma proporción.
-
-ART. 1681.- Si la modificación no pudiere ser exactamente proporcional, el juez reducirá la pena de una manera equitativa, teniendo en cuenta la naturaleza y demás circunstancias de la obligación.
-
-ART. 1682.- El acreedor puede exigir el cumplimiento de la obligación o el pago de la pena, pero no ambos; a menos que aparezca haberse estipulado la pena por el simple retardo en el cumplimiento de la obligación, o porque ésta no se preste de la manera convenida.
-
-ART. 1683.- No podrá hacerse efectiva la pena cuando el obligado a ella no haya podido cumplir el contrato por hecho del acreedor, caso fortuito o fuerza insuperable.
-
-ART. 1684.- En las obligaciones mancomunadas con cláusula penal, bastará la contravención de uno de los herederos del deudor para que se incurra en la pena.
-
-ART. 1685.- En el caso del artículo anterior, cada uno de los herederos responderá de la parte de la pena que le corresponda, en proporción a su cuota hereditaria.
-
-ART. 1686.- Tratándose de obligaciones indivisibles, se observará lo dispuesto en el artículo 1840.
+ART. 1647.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
 
 ### CAPITULO II. De la declaración unilateral de la voluntad
 
@@ -5321,41 +5289,61 @@ De las Obligaciones en General
 
 ## TITULO PRIMERO. Fuentes de las Obligaciones
 
-Del Consentimiento
+Cláusulas que pueden contener los Contratos
 
-ART. 1639.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por la Ley o por convenio la voluntad deba manifestarse expresamente.
+ART. 1675.- Los contratantes pueden poner las cláusulas que crean convenientes; pero las que se refieren a requisitos esenciales del contrato o sean consecuencia de su naturaleza ordinaria, se tendrán por puestas aunque no se expresen, a no ser que las segundas sean renunciadas en los casos y términos permitidos por la Ley.
 
-ART. 1640.- Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
+ART. 1676.- Pueden los contratantes estipular cierta prestación como pena para el caso de que la obligación no se cumpla, o no se cumpla de la manera convenida. Si tal estipulación se hace, no podrá reclamarse, además, daños y perjuicios.
 
-ART. 1641.- Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono.
+ART. 1677.- La nulidad del contrato importa la de la cláusula penal; pero la nulidad de ésta no acarrea la de aquél.
 
-ART. 1642.- Cuando la oferta se haga sin fijación de plazo a una persona no presente, el autor de la oferta quedará ligado durante tres días, además del tiempo necesario para la ida y vuelta regular del correo público, o del que se juzgue bastante, no habiendo correo público, según las distancias y la facilidad o dificultad de las comunicaciones.
+Sin embargo, cuando se promete por otra persona, imponiéndose una pena para el caso de no cumplirse por ésta lo prometido, valdrá la pena aunque el contrato no se lleve a efecto por falta del consentimiento de dicha persona.
 
-ART. 1643.- El contrato se forma en el momento en que el proponente reciba la aceptación, estando ligado por su oferta según los artículos precedentes.
+Lo mismo sucederá cuando se estipule con otro, a favor de un tercero, y la persona con quien se estipule se sujete a una pena para el caso de no cumplir lo prometido.
 
-ART. 1644.- La oferta se considerará como no hecha si la retira su autor y el destinatario recibe la retractación antes que la oferta. La misma regla se aplica al caso en que se refiere la aceptación.
+ART. 1678.- Al pedir la pena, el acreedor no está obligado a probar que ha sufrido perjuicios, ni el deudor podrá eximirse de satisfacerla, probando que el acreedor no ha sufrido perjuicio alguno.
 
-ART. 1645.- Si al tiempo de la aceptación hubiere fallecido el proponente, sin que el aceptante fuere sabedor de su muerte, quedarán los herederos de aquél obligados a sostener el contrato.
+ART. 1679.- La cláusula penal no puede exceder ni en valor ni en cuantía a la obligación principal.
 
-ART. 1646.- El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
+ART. 1680.- Si la obligación fuere cumplida en la parte, la pena se modificará en la misma proporción.
 
-ART. 1647.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
+ART. 1681.- Si la modificación no pudiere ser exactamente proporcional, el juez reducirá la pena de una manera equitativa, teniendo en cuenta la naturaleza y demás circunstancias de la obligación.
 
-Disposiciones Finales
+ART. 1682.- El acreedor puede exigir el cumplimiento de la obligación o el pago de la pena, pero no ambos; a menos que aparezca haberse estipulado la pena por el simple retardo en el cumplimiento de la obligación, o porque ésta no se preste de la manera convenida.
 
-ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
+ART. 1683.- No podrá hacerse efectiva la pena cuando el obligado a ella no haya podido cumplir el contrato por hecho del acreedor, caso fortuito o fuerza insuperable.
 
-ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
+ART. 1684.- En las obligaciones mancomunadas con cláusula penal, bastará la contravención de uno de los herederos del deudor para que se incurra en la pena.
 
-Forma
+ART. 1685.- En el caso del artículo anterior, cada uno de los herederos responderá de la parte de la pena que le corresponda, en proporción a su cuota hereditaria.
 
-ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
+ART. 1686.- Tratándose de obligaciones indivisibles, se observará lo dispuesto en el artículo 1840.
 
-ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
+Del objeto y del motivo o fin de los Contratos
 
-ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
+ART. 1660.- Son objeto de los contratos:
 
-Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
+I.- La cosa que el obligado debe dar;
+
+II.- El hecho que el obligado debe hacer o no hacer.
+
+ART. 1661.- La cosa objeto del contrato debe: 1o. Existir en la naturaleza. 2o. Ser determinada o determinable en cuanto a su especie. 3o. Estar en el comercio.
+
+ART. 1662.- Las cosas futuras pueden ser objeto de un contrato. Sin embargo, no puede serlo la herencia de una persona viva, aun cuando ésta preste su consentimiento.
+
+ART. 1663.- El hecho positivo o negativo, objeto del contrato, debe ser:
+
+I.- Posible;
+
+II.- Lícito.
+
+ART. 1664.- Es imposible el hecho que no puede existir porque es incompatible con una ley de la naturaleza o con una norma jurídica que debe regirlo necesariamente y que constituye un obstáculo insuperable para su realización.
+
+ART. 1665.- No se considerará imposible el hecho que no pueda ejecutarse por el obligado, pero sí por otra persona en lugar de él.
+
+ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público o a las buenas costumbres.
+
+ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
 
 División de los Contratos
 
@@ -5367,31 +5355,63 @@ ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámen
 
 ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
 
+Disposiciones Finales
+
+ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
+
+ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
+
+Vicios del Consentimiento
+
+ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
+
+ART. 1649.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
+
+ART. 1650.- El error de cálculo sólo da lugar a que se rectifique.
+
+ART. 1651.- Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes, y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
+
+ART. 1652.- El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
+
+ART. 1653.- Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del acto o reclamarse indemnizaciones.
+
+ART. 1654.- Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
+
+ART. 1655.- Hay violencia cuando se emplea fuerza física o amenaza que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
+
+ART. 1656.- El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
+
+ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente pueden resultar de la celebración o no celebración del contrato, y que no importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
+
+ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
+
+ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
+
 De la Capacidad
 
 ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
 
 ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
 
-Interpretación
+Representación
 
-ART. 1687.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
+ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
 
-Si las palabras parecieren contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquéllas.
+ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
 
-ART. 1689 (SIC).- Cualquiera que se la generalidad de los términos de un contrato, no deberán entenderse comprendidos en él cosas distintas y casos diferentes de aquellos sobre los que los interesados se propusieron contratar.
+ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
 
-ART. 1689.- Si alguna cláusula de los contratos admitiere diversos sentidos, deberá entenderse en el más adecuado para que produzca efecto.
+Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
 
-ART. 1690.- Las cláusulas de los contratos deben interpretarse las unas por las otras, atribuyendo a las dudosas el sentido que resulte del conjunto de todas.
+Forma
 
-ART. 1691.- Las palabras que pueden tener distintas aceptaciones serán entendidas en aquélla que sea más conforme a la naturaleza y objeto del contrato.
+ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
 
-ART. 1692.- El uso o la costumbre se tendrán en cuenta para interpretar las ambigüedades de los contratos.
+ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
 
-ART. 1693.- Cuando absolutamente fuere imposible resolver las dudas por las reglas establecidas en los artículos precedentes, si aquéllas recaen sobre circunstancias accidentales del contrato, y éste fuere gratuito, se resolverá en favor de la menor transmisión de derechos e intereses; si fuere oneroso se resolverá la duda en favor de la mayor reciprocidad de intereses.
+ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
 
-Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cual fue la intención o la voluntad de los contratantes, el contrato será nulo.
+Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
 
 ### CAPITULO III. De las Obligaciones Conjuntivas y Alternativas
 
@@ -8788,3 +8808,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE ENERO DE 1990.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
