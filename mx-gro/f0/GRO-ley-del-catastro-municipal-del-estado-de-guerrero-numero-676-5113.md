@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-catastro-municipal-del-estado-de-guerrero-numero-676-51
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "1997-12-26"
+last_updated: "1999-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL CATASTRO MUNICIPAL DEL ESTADO DE GUERRERO NUMERO 676
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -731,29 +731,43 @@ El Tesorero Municipal autorizará los instructivos necesarios para llevar a cabo
 
 La Secretaría de Finanzas y Administración del Gobierno del Estado, podrá autorizar Peritos Valuadores de Bienes Inmuebles, mismos que deberán inscribirse en el Registro Estatal de Valuadores previo cumplimiento de los requisitos establecidos en el Artículo 65 de esta Ley.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 65.
 
-Para obtener el Registro como Perito Valuador ante la Secretaría de Finanzas y Administración, deberán cumplir los siguientes requisitos:
+Para obtener el Registro como Perito Valuador de bienes inmuebles ante la Secretaría de Finanzas y Administración del Gobierno del Estado, se deberá cumplir con los requisitos que se establecen en el Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero, y mediante el cual se sujetará el ejercicio de la actividad valuatoria en la Entidad.
+
+> <small>(DEROGADA, P.O. 21 DE DICIEMBRE DE 1999)</small>
 
 I.- Solicitud escrita dirigida al responsable del área; en donde además deberán señalar domicilio para oír y recibir notificaciones.
 
+> <small>(DEROGADA, P.O. 21 DE DICIEMBRE DE 1999)</small>
+
 II.- Oficio y cédula de Registro Estatal como Perito Valuador, o bien constancia del trámite de renovación del mismo, expedidas por la H. Comisión Nacional Bancaria y de Seguros.
+
+> <small>(DEROGADA, P.O. 21 DE DICIEMBRE DE 1999)</small>
 
 III.- Cédula profesional o constancia del grado máximo de estudios, que compruebe experiencia en la materia inmobiliaria.
 
+> <small>(DEROGADA, P.O. 21 DE DICIEMBRE DE 1999)</small>
+
 IV.- Recibo de pago de derechos por registro.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 66.
 
-Para obtener la revalidación de la autorización del registro como Perito Valuador se deberán cumplir los siguientes requisitos:
+Para obtener la revalidación de la autorización del registro como Perito Valuador de bienes inmuebles se deberán cumplir con los siguientes requisitos que se establecen en el Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero, y mediante el cual se sujetará el ejercicio de la actividad valuatoria en la Entidad.
+
+> <small>(DEROGADA, P.O. 21 DE DICIEMBRE DE 1999)</small>
 
 I.- Original del oficio y cédula del Registro Estatal expedidos por el Gobierno del Estado.
 
+> <small>(DEROGADA, P.O. 21 DE DICIEMBRE DE 1999)</small>
+
 II.- Oficio y credencial del registro como Perito Valuador o bien constancia de renovación del mismo.
+
+> <small>(DEROGADA, P.O. 21 DE DICIEMBRE DE 1999)</small>
 
 III.- Pago de derechos correspondientes al Registro Estatal del ejercicio fiscal en que se dé el hecho generador.
 
@@ -763,25 +777,13 @@ III.- Pago de derechos correspondientes al Registro Estatal del ejercicio fiscal
 
 Los trabajos de valuación inmobiliaria formulados por los Peritos Valuadores inscritos en el Registro Estatal, quedan sujetos al control y supervisión de la Secretaría de Finanzas y Administración del Gobierno del Estado, quien de oficio o a petición de los particulares, en cualquier tiempo podrá revisar los avalúos.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1999)</small>
 
-En los avalúos para fines fiscales se utilizarán los formatos que emplee el Gobierno del Estado, debiendo contener los datos que se establezcan en la reglamentación que la Secretaría de Finanzas y Administración expida para tal efecto.
+En los avalúos para fines fiscales que se elaboren se utilizarán los formatos que emplee el Gobierno del Estado, debiendo contener los datos que se establezcan en el Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero.
 
-I.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1997)
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1999)</small>
 
-II.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1997)
-
-III.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1997)
-
-IV.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1997)
-
-V.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1997)
-
-VI.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1997)
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
-
-La Secretaría de Finanzas y Administración asumirá la facultad de autorizar los avalúos para fines fiscales, elaborados por los peritos valuadores inscritos en el registro estatal, así mismo establecerá y emitirá los lineamientos, normas técnicas y reglamentación a las que se sujetarán sus trabajos de valuación inmobiliaria.
+La Secretaría de Finanzas y Administración asumirá la facultad de autorizar los avalúos para fines fiscales, elaborados por los Peritos Valuadores inscritos en el Registro Estatal.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
@@ -864,3 +866,13 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y ocho.
+
+P.O. 21 DE DICIEMBRE DE 1999.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día primero de enero del año 2000.
