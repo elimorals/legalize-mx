@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1930-04-09"
+last_updated: "1930-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1930.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 1930.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -39,23 +39,13 @@ Del Estado, su Soberanía y forma de Gobierno, y de la residencia de sus Poderes
 
 ###### Artículo 1°.
 
-El Estado de Guerrero, en su administración y gobierno anteriores, asegura y hará efectivos a favor de todos sus habitantes las garantías y derechos consignados en el Título I, Capítulo I de la Carta fundamental de la República y además los que le señala la presente Constitución.
+Cuando desaparezcan los Poderes Ejecutivo y Legislativo del Estado, o bien desaparezcan los tres Poderes del mismo, entrará a funcionar como Gobernador Provisional el Presidente del H. Tribunal Superior de Justicia, si reúne los requisitos Constitucionales para fungir como tal; y en defecto de éste, el último Presidente del Congreso desaparecido que llene estos requisitos.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE AGOSTO DE 1930)</small>
 
 ###### Artículo 2°.
 
-Son obligaciones de los habitantes del Estado:
-
-I. Hacer que sus hijos o pupilos, menores de quince años concurran a las escuelas públicas o privadas, para obtener la instrucción primaria elemental, durante el tiempo que marca la Ley de Instrucción Pública.
-
-II. Asistir en los días y horas designadas por el Ayuntamiento de la localidad en que residan, al lugar que se señale al efecto, para recibir instrucción cívica y militar, que los mantenga aptos en el ejercicio de sus derechos de ciudadano, diestros en el manejo de las armas, y conocedores de la disciplina militar.
-
-III. Contribuir para los gastos públicos, así de la Federación como del Estado y Municipio en que residan, de la manera proporcional y equitativa que dispongan las leyes.
-
-IV. Respetar y obedecer las leyes, y autoridades legítimamente constituidas.
-
-V. Inscribirse en los padrones cuya formación ordene la autoridad; los patrones cuidarán de que sus dependientes y subordinados cumplan con esta disposición.
-
-VI. Auxiliar a las autoridades para la conservación del orden público.
+El Gobernador Provisional, tan pronto, como las circunstancias lo permitan y en un término que no exceda de seis meses, convocará a elecciones de Gobernador y Diputados si la desaparición hubiere tenido lugar antes de concluidos los dos primeros años del período Constitucional del Gobernador. De lo contrario, observará lo prevenido en la primera parte del párrafo tercero del artículo 61 de esta Constitución, debiendo convocar a elecciones en los términos de Ley y sin que el Gobernador pueda ser electo para el período a que se convoque. El Gobernador Provisional que resulte rendirá la protesta de Ley, ante cualquier Ayuntamiento del Estado legalmente constituido.
 
 ## TITULO III.
 
@@ -415,9 +405,9 @@ VI. Hacer la división territorial del Estado, y crear o suprimir dentro del mis
 
 VII. Dictar las leyes necesarias en el ramo de Instrucción Pública, y promover por todos los medios posibles la instrucción de las masas populares.
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 1923)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1930)</small>
 
-VIII. Constituirse en Colegio Electoral, para nombrar a los Magistrados del Tribunal Superior de Justicia y al Tesorero General del Estado a propuesta en terna del Ejecutivo, este último.
+VIII. Nombrar dentro del período improrrogable de diez días, a los Magistrados Propietarios y Supernumerarios del H. Tribunal Superior de Justicia del Estado, a propuesta en ternas por el Ejecutivo. Si uno, dos, varios o todos los ciudadanos propuestos en las primeras ternas no fueren aprobados, el propio Ejecutivo propondrá una nueva terna excluyendo de ella a los Ciudadanos que fueren desechados. En caso de que en las dos ternas propuestas no quedasen nombrados todos los Ciudadanos Magistrados que deben integrar el H. Tribunal Superior de Justicia, el Ejecutivo nombrará provisionalmente a los Ciudadanos que deban cubrir las plazas vacantes, sometiendo estos nombramientos a la consideración del Congreso en el siguiente período ordinario de sesiones, quien resolverá dentro del mismo plazo improrrogable de diez días. En el caso de que no se resolviere dentro del plazo señalado, seguirán funcionando los nombrados provisionalmente con el carácter de definitivos; pero si fueren desechados, el Ejecutivo hará una nueva proposición sujetándose a los mismos trámites señalados al principio de este artículo.
 
 IX. Recibir al Gobernador, así como a los funcionarios a que se refiere la fracción anterior, la protesta de guardar y hacer guardar la Constitución General de la República, la particular del Estado y las leyes que de ambas emanen.
 
@@ -505,7 +495,7 @@ IV. Usurpar las facultades de los Poderes Ejecutivo y Judicial, ni mezclarse en 
 
 De la responsabilidad de los funcionarios públicos del Estado.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1922)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1930)</small>
 
 ###### Artículo 47.
 
@@ -599,9 +589,11 @@ IV. No ejercer cargo alguno de la Federación, ni ser Secretario General del Gob
 
 V. No estar en servicio activo en el Ejército Nacional, ni en las fuerzas del Estado, seis meses antes del día de la elección.
 
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1930)</small>
+
 ###### Artículo 59.
 
-Los requisitos señalados en las cuatro fracciones del artículo anterior, son indispensables en el Ciudadano que, con el carácter de interino o substituto, cubra las faltas del Gobernador Constitucional.
+Los requisitos señalados en el artículo anterior, son indispensables en el Ciudadano que, con el carácter de interino o substituto, cubra las faltas del Gobernador Constitucional.
 
 ###### Artículo 60.
 
@@ -741,7 +733,7 @@ El Secretario General de Gobierno, será responsable de las disposiciones que au
 
 De la reforma e inviolabilidad de la Constitución.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1922)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1930)</small>
 
 ### CAPITULO II.
 
@@ -937,9 +929,7 @@ Todos los funcionarios y empleados públicos del Estado y del Municipio, antes d
 
 ###### Artículo 104.
 
-Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, Procurador General y el Secretario de Gobierno, son responsables de los delitos comunes que cometan durante el tiempo de su encargo, y por los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones.
-
-El Gobernador, durante el período de su encargo, sólo podrá ser acusado, por violación expresa de la Constitución General o de la particular del Estado, y delitos graves del orden común.
+Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, el Secretario General de Gobierno y el Procurador General de Justicia, son responsables de los delitos, faltas u omisiones que cometan en el desempeño de su encargo así como de los delitos, faltas u omisiones del orden común en que incurran y para proceder en su contra, se observará el siguiente procedimiento: el Congreso, erigido en GRAN JURADO y oyendo al interesado, declarará por los dos tercios del número total de los miembros que lo formen, si ha o no lugar a proceder contra el acusado, en caso negativo no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que continúe la secuela del procedimiento criminal, cuando el acusado haya dejado de tener fuero, pues la negativa de Congreso no prejuzga en lo absoluto, los fundamentos de la acusación. En caso afirmativo el acusado, por el mismo hecho, quedará separado de su cargo y sujeto a la acción de los TRIBUNALES COMUNES. Si la sentencia de éstos fuere absolutoria, el funcionario quedará en aptitud de recobrarlo.
 
 > <small>(REFORMADO, P.O. 22 DE ENERO DE 1930)</small>
 
@@ -973,7 +963,11 @@ En demandas del orden civil, no hay fueros ni inmunidad alguna.
 
 ###### Artículo 111.
 
-Esta Constitución podrá ser reformada o adicionada en cualquier tiempo, pero las proposiciones que al efecto se presenten, deberán ser hechas cuando menos, por dos Diputados, por iniciativa del Gobierno o de cualquiera de los Cuerpos que tengan este derecho; y no se discutirán sin aprobación de las dos terceras partes de los Ayuntamientos del Estado. En ningún caso podrán alterarse los principios que establecen la independencia, soberanía y libertad del Estado; su forma de Gobierno y división de Poderes.
+La presente Constitución puede ser adicionada o reformada por el H. Congreso del Estado. Para que las adiciones o reformas lleguen a ser parte de la Constitución, deben llenarse los requisitos siguientes:
+
+I. Presentar una iniciativa, suscrita cuando menos por dos Diputados o por el Gobernador.
+
+IV (SIC). Discutir el dictamen y aprobado que sea por la mayoría absoluta de los Diputados que forman el H. Congreso, enviarlo a los Ayuntamientos para que manifiesten si aprueban o no las reformas, adiciones o supresiones propuestas. Es obligación de los Ayuntamientos manifestar su conformidad o inconformidad con las reformas o adiciones propuestas y se tendrán por conformes con ellas a los que, en el término de sesenta días, no contestaren en sentido afirmativo o en el negativo.
 
 ###### Artículo 112.
 
@@ -986,6 +980,8 @@ Esta Constitución no perderá su fuerza ni vigor, aún cuando por alguna rebeli
 ### CAPITULO I.
 
 De las garantías, derechos y obligaciones de los habitantes del Estado.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE AGOSTO DE 1930)</small>
 
 ### CAPITULO II.
 
@@ -1116,3 +1112,7 @@ Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicac
 P.O. 9 DE ABRIL DE 1930.
 
 Este Decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación.
+
+P.O. 13 DE AGOSTO DE 1930.
+
+Este decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación.
