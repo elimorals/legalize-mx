@@ -4,7 +4,7 @@ identifier: "VER-ley-del-registro-publico-de-la-propiedad-6790"
 country: "mx"
 rank: "ley"
 publication_date: "1979-12-29"
-last_updated: "1997-03-20"
+last_updated: "2003-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 29 de diciembre 1979.
 
@@ -255,9 +255,9 @@ OCTAVA ZONA REGISTRAL.- Que comprende los municipios de: Papantla (cabecera), Co
 
 NOVENA ZONA REGISTRAL.- Que comprende los Municipios de: Misantla (Cabecera), Colipa, Juchique de Ferrer, Nautla, Tenochtitlán, Vega de Alatorre y Yecuatla.
 
-> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
-DECIMA ZONA REGISTRAL.- Que comprende los municipios de: Jalacingo (cabecera), Altotonga, Atzalan, Martínez de la Torre, Las Minas, Perote, Tlapacoyan y Villa Aldama.
+DECIMA ZONA REGISTRAL.- Que comprende los municipios de: Jalacingo (cabecera), Altotonga, Atzalan, Martínez de la Torre, Las Minas, Perote, San Rafael, Tlapacoyan y Villa Aldama.
 
 > <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
 
@@ -287,9 +287,9 @@ DECIMASEXTA ZONA REGISTRAL.- Que comprende los municipios de: Zongolica (cabecer
 
 DECIMASEPTIMA ZONA REGISTRAL.- Que comprende los municipios de: Veracruz (cabecera), Alvarado, La Antigua, Boca del Río, Cotaxtla, Ignacio de la Llave, Jamapa, Manlio Fabio Altamirano, Medellín, Paso de Ovejas, Puente Nacional, Soledad de Doblado, Tierra Blanca, Tlalixcoyan, y Ursulo Galván.
 
-> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 1996)</small>
+(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003) (F. DE E., G.O. 15 DE ENERO DE 2004)
 
-DECIMOCTAVA ZONA REGISTRAL.- Que comprende los municipios de: Cosamaloapan (cabecera), Acula, Carlos A. Carrillo, Chacaltianguis, Isla, Ixmatlahuacan, José Azueta, Otatitlán, Playa Vicente, Tlacojalpan, Tres Valles y Tuxtilla.
+DECIMAOCTAVA ZONA REGISTRAL.- Que comprende los municipios de: Cosamaloapan (cabecera), Acula, Carlos A. Carrillo, Chacaltianguis, Isla, Ixmatlahuacan, José Azueta, Otatitlán, Playa Vicente, Santiago Sochiapan, Tlacojalpan, Tres Valles y Tuxtilla.
 
 > <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
 
@@ -314,6 +314,10 @@ VIGESIMATERCERA ZONA REGISTRAL.- Que comprende los municipios de: Tlacotalpan (c
 > <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 VIGESIMACUARTA ZONA REGISTRAL.- Que comprende los municipios de: Minatitlán (cabecera), Cosoleacaque, Chinameca, Hidalgotitlán, Jáltipan, Mecayapan, Oteapan, Soteapan, Tatahuicapan de Juárez, Uxpanapa y Zaragoza.
+
+(REFORMADO [N. DE E. ADICIONADO], G.O. 31 DE DICIEMBRE DE 2003) (F. DE E., G.O. 15 DE ENERO DE 2004)
+
+VIGESIMAQUINTA ZONA REGISTRAL.- Que comprende los municipios de: Martínez de la Torre (cabecera), Nautla, San Rafael, Tlapacoyan y Vega de Alatorre.
 
 ###### ARTICULO 20.
 
@@ -770,3 +774,9 @@ El Concejo de Administración Municipal, iniciará sus funciones una vez que sus
 ###### ARTICULO TERCERO.
 
 Se derogan cualesquiera disposiciones que contravengan el presente DECRETO.
+
+G.O. 31 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor el primero de enero de dos mil cuatro, previa publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
