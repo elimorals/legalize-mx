@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1961-05-31"
+last_updated: "1970-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1961.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1970.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -303,13 +303,13 @@ I.- Inscribirse en el padrón de su Municipio;
 
 II.- Hacer que sus hijos o pupilos menores de quince años, así como las demás personas que de ellos dependan por razón de trabajo o cualquiera otra, concurran a las escuelas públicas o privadas para obtener la instrucción primaria elemental, conforme a la ley respectiva.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1970)</small>
+
 ###### ARTICULO 5.
 
 Son ciudadanos chiapanecos:
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 1951)</small>
-
-I.- Los hijos de padres mexicanos, que habiendo nacido en Territorio Chiapaneco, tengan dieciocho años, siendo casados, o veintiuno si no lo son, y modo honesto de vivir;
+I.- Los hijos de padres mexicanos, que habiendo nacido en territorio chiapaneco, hayan cumplido 18 años de edad y tengan modo honesto de vivir.
 
 II.- Los ciudadanos mexicanos que tengan un año de residencia en el Estado.
 
@@ -1542,3 +1542,9 @@ Quedan derogadas todas las leyes, decretos y demás disposiciones que se opongan
 ###### Artículo 2o.
 
 Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JUNIO DE 1970.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
