@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1997-01-09"
+last_updated: "1997-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 1997.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -976,6 +976,10 @@ Tratándose de ejidos y comunidades agrarias, el pago del impuesto podrá efectu
 ###### Art. 104.
 
 Quedan exentos del pago de este impuesto, la Federación, el Estado y sus municipios, respecto de predios de su propiedad.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 1997)</small>
+
+Los predios propiedad de las Asociaciones Religiosas legalmente constituidas causarán este impuesto sobre la base del 50% de lo que resulte al aplicar la Ley de Ingresos que corresponda.
 
 > <small>(ADICIONADO, P.O. 9 DE ENERO DE 1997)</small>
 
@@ -2880,3 +2884,7 @@ P.O. 5 DE DICIEMBRE DE 1996.
 P.O. 9 DE ENERO DE 1997.
 
 Único. El presente decreto entrará en vigor el día 1º de enero de 1997, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE ENERO DE 1997.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
