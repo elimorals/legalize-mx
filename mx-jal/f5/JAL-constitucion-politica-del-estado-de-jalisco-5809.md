@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1972-08-05"
+last_updated: "1972-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 1972.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -806,3 +806,11 @@ UNICO.- Esta Ley entrará en vigor, al día siguiente de su publicación en el P
 P.O. 5 DE AGOSTO DE 1972.
 
 UNICO.- Las presentes reformas y adiciones, entrarán en vigor al día siguiente de que se publique en el Periódico Oficial del Estado, la Declaratoria de que forman parte de la Constitución Política del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 1972.
+
+> <small>N. DE E. POR LA IMPORTANCIA DEL CONTENIDO DEL ARTICULO UNICO DEL DECRETO, SE TRANSCRIBE INTEGRAMENTE EL MISMO.</small>
+
+DECRETO NUMERO 8890.
+
+Artículo Unico.- Se declara que forman parte de la Constitución Política del Estado de Jalisco, las Reformas a sus Artículos 9, 10, 23 y 25, publicados en el Periódico Oficial "El Estado de Jalisco", el día 5 de Agosto de 1972, en virtud de haber sido aprobadas por unanimidad de votos, por los Ayuntamiento de la Entidad.
