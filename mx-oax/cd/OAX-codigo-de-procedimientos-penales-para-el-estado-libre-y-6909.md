@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1995-09-14"
+last_updated: "1998-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 1998.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -147,9 +149,11 @@ Las denuncias y las querellas, pueden formularse verbalmente o por escrito. En e
 
 Cuando se presente la querella o la denuncia por escrito, deberá ser citado el que la formule para que la ratifique y proporcione los datos que se considere oportuno pedir.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ###### Art. 11.
 
-No se admitirá la intervención de apoderado jurídico para la presentación de denuncias. Para la de querellas, solo se admitirá cuando el apoderado tenga poder con cláusula especial.
+La intervención de apoderado jurídico para la presentación de querellas, sólo se admitirá cuando el apoderado tenga poder con cláusula especial para tal efecto.
 
 ###### Art. 12.
 
@@ -285,9 +289,9 @@ El Ministerio Público y la Policía Judicial a su mando están obligados a dete
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
 
-###### Art. 23 Bis
+###### Art. 23 Bis.
 
-- Se considera que hay delito flagrante cuando el indiciado es detenido en el momento de estarlo cometiendo, si inmediatamente después de ejecutado el hecho delictuoso:
+Se considera que hay delito flagrante cuando el indiciado es detenido en el momento de estarlo cometiendo, si inmediatamente después de ejecutado el hecho delictuoso:
 
 A) Aquél es perseguido materialmente; o
 
@@ -310,6 +314,14 @@ B) Que exista riesgo fundado de que el indiciado pueda sustraerse a la acción d
 C) Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda ocurrir ante autoridad judicial para solicitar la orden de aprehensión.
 
 La violación de esta disposición hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS INCISOS], P.O. 3 DE OCTUBRE DE 1998)</small>
+
+Son delitos graves para todos los efectos legales:
+
+a) Los perseguibles de oficio y merezcan ser sancionados con una punibilidad cuyo término medio aritmético sea de ocho años o más, incluyendo sus modalidades previstas por la ley; y
+
+b) Los cometidos por reincidentes, perseguibles de oficio y merezcan ser sancionados con una punibilidad cuyo término medio aritmético, sea de cuatro años, incluyendo modalidades previstas por la ley
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -785,9 +797,11 @@ Los incidentes sobre competencia se tramitarán siempre por separado y no interr
 
 El Tribunal de competencia en los casos de los Artículos 84 y 88, dará vista al Ministerio Público por el término de seis días y resolverá lo que corresponda dentro de los diez siguientes, remitiendo las actuaciones al Tribunal que declare competente.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ###### Art. 91.
 
-Lo actuado por un Tribunal incompetente, es válido, aún cuando se trata de Tribunal de distinto fuero. En éste último caso, en el primer auto que se dicte se declarará que quede abierta la instrucción para que las partes promuevan las diligencias de prueba que estimen convenientes, procediéndose enseguida conforme a las demás disposiciones de éste Código.
+Las actuaciones practicadas por juez incompetente serán válidas, si se tratase de los del fuero común del Estado. Si se trata de un Juez de distinto fuero o de otra entidad federativa, el Juez que reciba las actuaciones dará vista al Ministerio Público de su adscripción para que en veinticuatro horas, manifieste si ejercita o no acción penal, con arreglo a las leyes aplicables y con base en las actuaciones anteriores. En caso afirmativo y hubiere detenido o libre provisionalmente bajo caución, el Juez oirá en preparatoria al inculpado y, dentro del plazo legal, resolverá a su vez lo que proceda sobre la formal prisión o soltura y el asunto continuará con sujeción a las disposiciones de este Código En caso negativo, decretará la libertad del inculpado.
 
 ###### Art. 92.
 
@@ -1341,9 +1355,11 @@ IV.- Arresto hasta por 36 horas.
 
 La multa, tratándose de obreros y jornaleros, no podrá ser mayor del importe de su salario o jornal de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente de un día de su ingreso. Si se trata de un servidor público, la multa se calculará en días de sueldo, no debiéndose exceder de 5 días. Esto último también tendrá aplicación cuando se trate de empleados particulares.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ###### Art. 180.
 
-Las correcciones disciplinarias podrán imponerse de plano en el acto de cometerse la falta, o después en vista de lo consignado en el expediente o de la certificación que hubiere extendido el Secretario por orden del Tribunal.
+Se impondrá de plano la corrección que se juzgue eficaz en el acto de cometerse la falta o después en vista de lo consignado en el expediente o de la certificación que hubiere extendido el secretario por orden del tribunal.
 
 ###### Art. 181.
 
@@ -1625,9 +1641,11 @@ La instrucción deberá terminarse en el menor tiempo posible. Cuando exista aut
 
 Los plazos a que se refiere este artículo se contarán a partir de la fecha del auto de formal prisión o del de sujeción a proceso, en su caso. Dentro del mes anterior a que concluya cualquiera de los plazos antes señalados, si se hallare pendiente de resolver algún recurso, el Juez ordenará girar oficio a la Sala Penal que corresponda, solicitándole la resolución de aquél.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ###### Art. 225.
 
-Una vez que el Tribunal considere concluída la instrucción, o haya fenecido el término señalado en el artículo anterior, declarará agotada la averiguación y mandará poner el proceso a la vista del Ministerio Público por tres días y por otros tres a la del acusado y su defensor, para que promuevan las pruebas que estimen pertinentes, las cuales se mandarán recibir y desahogar dentro del menor tiempo posible, que no excederá de quince días.
+Concluido el periodo de desahogo de pruebas o fenecido el plazo señalado en el artículo anterior, el tribunal hará la declaración correspondiente y pondrá el proceso a la vista de las partes por cinco días comunes para que promuevan las pruebas que estimen pertinentes, las cuales se mandarán recibir y desahogar dentro de un plazo que no excederá de quince días.
 
 Transcurridos o renunciados los plazos a que se refiere este Artículo, o si no se hubiere promovido prueba o la ofrecida haya quedado desahogada, el Tribunal declara de oficio, cerrada la instrucción.
 
@@ -2203,6 +2221,10 @@ V.- Cuando esté plenamente comprobado que en favor del inculpado existe alguna 
 
 VI.- Cuando habiéndose decretado la libertad por desvanecimiento de datos, esté agotada la averiguación y no existan elementos posteriores para dictar nueva orden de aprehensión.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+En los casos de las fracciones III y VI se estará a lo dispuesto en el artículo 267.
+
 ###### Art. 301.
 
 Cuando se sigue el procedimiento por dos o más delitos y por lo que toca a alguno de ellos exista causa de sobreseimiento, éste se decretará por lo que al mismo se refiere y continuará el procedimiento en cuanto a las demás, siempre que no deba suspenderse.
@@ -2375,6 +2397,8 @@ II.- Pronunciada ésta, se remitirá testimonio a la autoridad respectiva, a la 
 
 DE LA REPARACION DEL DAÑO COMO SANCION PUBLICA.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ###### Art. 330.
 
 El Tribunal que conozca de los procesos acumulados desde su origen o por resolución posterior, puede ordenar su separación, siempre que concurran las circunstancias siguientes:
@@ -2409,6 +2433,8 @@ La separación de autos podrá decretarse de oficio cuando también de oficio se
 
 DE LA RESPONSABILIDAD EXIGIBLE A TERCEROS.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ###### Art. 335.
 
 Todas las cuestiones que se propongan durante la tramitación de un proceso y que no sean de las especificadas en los capítulos anteriores, se resolverán en la forma que establecen los artículos siguientes.
@@ -2439,17 +2465,15 @@ DOCUMENTOS.
 
 ###### Art. 340.
 
-La reparación del daño que debe ser hecha por el acusado, tiene el carácter de sanción pública y se exigirá de oficio por el Ministerio Público.
+El Ministerio Público exigirá de oficio la reparación del daño que debe ser hecha por el acusado y para ello proporcionará oportunamente al Tribunal las pruebas conducentes a establecer la naturaleza y cuantía del daño y, si se tratare de daño moral, las pruebas de la capacidad económica del obligado.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+La víctima o la persona ofendida podrán proporcionar las pruebas conducentes directamente al tribunal o a través del Ministerio Público.
 
-La persona ofendida por el delito o la víctima, o sus representantes, podrán proporcionar al Ministerio Público, todos los datos de prueba conducentes a establecer la naturaleza y cuantía del daño que se le causó con su ejecución, así como de la capacidad económica del obligado a satisfacerlo. La omisión o negligencias de aquéllos, no libera al Ministerio Público de la obligación de allegarse por los medios legales los datos y pruebas necesarios al objeto indicado, y ministrarlos oportunamente al Tribunal.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 341.
 
-Para todos los efectos legales, se considera víctima del delito, al titular del bien jurídico protegido; y ofendido por el delito, por muerte de la víctima, al cónyuge, a falta de éste, la persona con quien la víctima vivió como si fuera su cónyuge durante cinco años inmediatos anteriores a la muerte, o con la que tuvo hijos, siempre que ambos hubieren permanecidos libres de matrimonio; los descendientes, los ascendientes de la víctima y los parientes colaterales hasta el sexto grado.
+Se entiende por victima al titular del bien jurídico tutelado y por ofendido, en caso de muerte del sujeto pasivo, al beneficiario en los términos del artículo 30 inciso b) del Código Penal.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -2465,17 +2489,23 @@ INSPECCION OCULAR Y RECONSTRUCCION DE HECHOS.
 
 ###### Art. 343.
 
-La acción para exigir la reparación del daño a personas distintas del inculpado, de acuerdo a lo dispuesto por el Código Penal, debe ejercitarse por quien tenga derecho a ello ante el Tribunal que conozca de lo penal; pero deberá intentarse y seguirse ante los Tribunales Civiles, en el juicio que corresponda, cuando haya recaído sentencia irrevocable en el proceso sin haberse intentado dicha acción, siempre que el que la intente fuere un particular. Esto último se observará también cuando, concluída la instrucción, no hubiere lugar a juicio penal por falta de acusación del Ministerio Público, si se promueve posteriormente la acción civil.
+La acción para exigir la reparación del daño a personas distintas del inculpado, de acuerdo con el artículo 32 del Código Penal, debe ejercitarse por quien tenga derecho a ello ante el Juzgado que conozca de lo penal o en la vía civil.
 
-Cuando promovidas las dos acciones hubiere concluído el proceso sin que el incidente de reparación del daño esté en estado de sentencia, continuará conociendo de él el Tribunal ante quien se hayan iniciado.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 344.
 
-Todos los incidentes sobre reparación del daño exigible a terceras personas que se sigan ante los Tribunales Penales, se tramitarán y decidirán conforme a lo que dispone el Código de Procedimientos Civiles, para los juicios sumarios; tendrán todos los recursos que según su cuantía se concedan en estos juicios y se tramitarán por separado.
+Ante los Tribunales Penales, la acción de la reparación del daño se tramitará en vía incidental de conformidad con las reglas del juicio sumario del Código de Procedimientos Civiles y se tendrán los recursos que dicho juicio prevé
+
+Los Tribunales Civiles estarán expeditos para dar curso a la acción de reparación del daño derivada de delito, si la víctima o el ofendido por alguna causa no la promueve ante el Tribunal Penal.
 
 ###### Art. 345.
 
 Si el incidente llega al estado de alegar antes que concluya la instrucción, se suspenderá hasta que el proceso se encuentre en estado de sentencia, la que se pronunciará resolviendo a la vez sobre la acción penal y sobre la reparación del daño exigible a personas distintas del inculpado, produciéndose los alegatos en la audiencia del juicio penal.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+Cuando promovida la acción y hubiere concluido el proceso penal sin que el incidente de reparación del daño este en estado de sentencia el Juez penal continuará conociendo hasta fallar en definitiva.
 
 ###### Art. 346.
 
@@ -2881,7 +2911,7 @@ En el caso de que el testigo sea ciego, el funcionario que practique la diligenc
 
 ###### Art. 415.
 
-Después de tomarle la protesta de decir verdad, se preguntará al testigo su nombre, apellido, edad, lugar de nacimiento, habitación, estado civil, profesión u ocupación, si se halla obligado con el inculpado o el ofendido por vínculos de parentesco, amistad, o cualquiera otros (sic) y si tiene algún motivo de odio o rencor contra alguno de ellos, las respuestas del testigo sobre estas circunstancias se harán constar en el acta.
+Después de tomarle la protesta de decir verdad, se preguntará al testigo su nombre, apellido, edad, lugar de nacimiento, habitación, estado civil, profesión u ocupación, si se halla obligado con el inculpado o el ofendido por vínculos de parentesco, amistad, o cualquiera otros y si tiene algún motivo de odio o rencor contra alguno de ellos, las respuestas del testigo sobre estas circunstancias se harán constar en el acta.
 
 ###### Art. 416.
 
@@ -3181,7 +3211,7 @@ Al formular sus conclusiones el acusado o su defensor, si estiman procedente la 
 
 ###### Art. 472.
 
-Si el acusado o su defensor no hubieren solicitado en su conclusiones el otorgamiento del beneficio de la condena condicional y ésta no se concediere de oficio, podrán solicitarla y rendir las pruebas respectivas durante la tramitación de la segunda instancia.
+Si el acusado o su defensor no hubieren solicitado en sus conclusiones el otorgamiento del beneficio de la condena condicional y ésta no se concediere de oficio, podrán solicitarla y rendir las pruebas respectivas durante la tramitación de la segunda instancia.
 
 Después de dictada sentencia irrevocable sin que en ésta se otorgara la condena condicional, no procederá este beneficio.
 
@@ -3208,6 +3238,8 @@ En el caso de la primera parte del Artículo 104 del Código Penal, el fiador oc
 ### CAPITULO I
 
 PROCEDIMIENTO RELATIVO A LOS ENFERMOS MENTALES.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 477.
 
@@ -3349,23 +3381,39 @@ REGLAS GENERALES.
 
 ###### Art. 504.
 
-Tan pronto como se sospeche que el inculpado esté loco, idiota, imbécil, o sufra cualquiera otra debilidad, enfermedad o anomalías mentales, el Tribunal lo mandará examinar por peritos médicos, sin perjuicio de continuar el procedimiento en la forma ordinaria. Si existe motivo fundado, ordenará provisionalmente la reclusión del procesado en un manicomio o departamento especial.
+Cuando en el curso del procedimiento, tan pronto como se sospeche que el inculpado sufra alguna anomalía mental que pueda constituir causa de inimputabilidad, el Ministerio Público o el Tribunal lo mandará a examinar por Peritos Médicos sin perjuicio de continuar con el procedimiento o, si el caso pareciere grave, ordenará provisionalmente la reclusión del sujeto en un centro especial de salud mental.
+
+Los peritos expresarán, en el dictamen, si el acusado carece de consciencia o padece de alguna otra enfermedad mental o es sordomudo u oligofrénico.
+
+El dictamen expresará: a).- En caso de inconsciencia o de alguna otra enfermedad mental, si ésta es anterior o posterior a la presunta realización de la actividad o de la inactividad típicas; b).- En caso de sordomudez, si el sordomudo en el momento de la comisión de la actividad o de la inactividad, estaba, o no, educado y habilitado por la convivencia social; y c).- Si el sujeto es oligofrénico, el grado de la oligofrenia, el nivel educativo de aquél y su aptitud para la convivencia social.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 505.
 
-Inmediatamente que se compruebe que el inculpado está en alguno de los casos a que se refiere el artículo anterior, cesará el procedimiento ordinario y se abrirá el especial, en el que la ley deja al recto criterio y la prudencia del Tribunal la forma de investigar el delito imputado, la participación que en él tuviere del inculpado, y la de estudiar la personalidad de éste, sin necesidad de que el procedimiento que se emplee sea similar al judicial.
+Practicados los exámenes aludidos, si resultare que la enfermedad mental del inculpado es posterior al hecho típico, se suspenderá el procedimiento y se remitirá al sujeto al establecimiento adecuado para su tratamiento, bajo la vigilancia del Ministerio Público.
+
+Cuando el sujeto recupere la salud mental, de acuerdo con los certificados médicos respectivos, se reanudará el procedimiento en los términos del artículo 312. Si no recupera la salud mental, al término del máximo de la punibilidad aplicable, se sobreseera la causa; si entonces el sujeto todavía requiere de tratamiento, se estará a lo dispuesto en el artículo 56 del Código Penal.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 506.
 
-Si se comprueba la existencia de la infracción que se viene persiguiendo y que en ella tuvo participación el inculpado previa solicitud del Ministerio Público y con audiencia de éste, del defensor y del representante legal si los tuviere el procesado, el Tribunal resolverá el caso, ordenando la reclusión en los términos de los Artículos 81 y 82 del Código Penal. La resolución que se dicte será apelable en el efecto devolutivo.
+Inmediatamente que se compruebe que en el momento de la ejecución del hecho típico el sujeto se encontraba en estado de inimputabilidad se sobreseerá el procedimiento ordinario y se abrirá el procedimiento especial.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 507.
 
-Cuando en el curso del proceso el inculpado enloquezca, se suspenderá el procedimiento en los términos de la fracción III del Artículo 310 de este Código, remitiéndose al incapacitado al establecimiento adecuado a su tratamiento.
+En el procedimiento especial se investigará la existencia del hecho típico imputado, la actividad ejecutada por el activo, se determinará el grado de su peligrosidad y, de acuerdo con éste se fijará la medida de seguridad aplicable.
+
+El procedimiento especial continuará sin la intervención del acusado, dejando al recto criterio y prudencia del Tribunal la tramitación sin necesidad de que el procedimiento sea similar al ordinario.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 508.
 
-La vigilancia del recluído estará a cargo de la autoridad administrativa correspondiente.
+El sobreseimiento a que se refiere este Capítulo y la resolución que impone la medida de seguridad son apelables sólo en el efecto devolutivo.
 
 ### CAPITULO II
 
@@ -3619,13 +3667,15 @@ X.- Por haberse tenido en cuenta en la sentencia una diligencia que la ley decla
 
 Notificado el fallo a las partes, se remitirá desde luego la ejecutoria al Tribunal de Primera Instancia, devolviéndole el expediente en su caso.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ###### Art. 545.
 
-Siempre que el Tribunal de apelación encuentre que se retardó indebidamente el despacho del asunto o que se violó la ley durante el procedimiento judicial, si esas violaciones no ameritan que sea repuesto el procedimiento, ni que se revoque o modifique la resolución de que se trata, llamará la atención al inferior y podrá imponerle una corrección disciplinaria o consignarlo al Ministerio Público, si la violación constituye un delito.
+Si el Tribunal de apelación encuentra que se retardó indebidamente el despacho del asunto o que se violó la ley durante el procedimiento judicial, llamará la atención al inferior y podrá imponerle una corrección disciplinaria de plano o dar vista al Ministerio Público, si la violación constituye un delito.
 
-### CAPITULO II
+### CAPITULO II. RECONOCIMIENTO DE INOCENCIA E INDULTO DEL REO
 
-DEL INDULTO.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 546.
 
@@ -3703,6 +3753,10 @@ Para los efectos de la Estadística criminal y demás efectos legales a que hubi
 
 En toda pena de reclusión que imponga una sentencia, se computará todo el tiempo que haya durado detenido preventivamente el procesado.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+En ningún caso se compurgarán simultáneamente las penas que impliquen tiempo, por lo que el juzgador en sentencia hará el cómputo a que se refiere el artículo 464.
+
 ###### Art. 558.
 
 Toda sentencia ejecutoria que imponga una medida de suspensión o privación de cargo o empleo público, del ejercicio de alguna profesión o de derechos políticos, civiles o de familia, se publicarán en su parte resolutiva en el Periódico Oficial del Estado sin perjuicio de lo dispuesto en el Capítulo XIII del Título Segundo del Libro Primero del Código Penal.
@@ -3719,9 +3773,11 @@ Efectuado el pago de la sanción pecuniaria, en todo o en parte, la autoridad fi
 
 El Tribunal podrá aplicar a la Autoridad fiscal el medio de apremio que estime necesario para que dé cumplimiento a la obligación que le impone el artículo 559, si ante aquél ocurriere en queja el interesado.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ###### Art. 561.
 
-Cuando los Tribunales decreten el decomiso de instrumento u objeto de un delito, lo remitirán con los testimonios de la sentencia al Tesorero General del Estado, para los efectos de los Artículos 37 y 38 del Código Penal.
+Cuando los tribunales decreten el decomiso de instrumentos u objetos de delito los remitirán, con los testimonios de la sentencia, a la Dirección del Fondo para la Administración de Justicia para los efectos del artículo 38 del Código Penal.
 
 ###### Art. 562.
 
@@ -3731,63 +3787,75 @@ Cuando un sentenciado enloquezca después de dictarse en su contra sentencia irr
 
 El Ejecutivo del Estado, por medio del órgano que designa la Ley Reglamentaria respectiva determinará en su caso el lugar en que debe compurgar el sentenciado la sanción corporal pudiendo ser dentro o fuera del territorio del Estado; pero siempre dentro del Territorio Nacional, dictando, además todas las medidas que sean eficaces para la recta ejecución de aquellas medidas. El Ejecutivo podrá celebrar con los respectivos Ejecutivo Federal o de los otros Estados de la Unión, los convenios o arreglos que sean necesarios en los casos en que alguno o algunos sentenciados deban compurgar sus sanciones en el lugar de la comprensión Territorial correspondiente a aquellas jurisdicciones.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ###### Art. 564.
 
-El indulto de sanciones impuestas en las sentencias de los Tribunales, sólo podrá interponerse con relación a aquéllas que tengan el carácter de irrevocable, y en los casos en que la ley lo permita expresamente.
+El reconocimiento de la inocencia del reo se declarará en cualesquiera de los casos siguientes:
+
+I. Cuando aparezca prueba indubitable de que el reo no ejecutó el delito por el que se le juzgó y que, consecuentemente, invalide la prueba en que se fundó la sentencia condenatoria;
+
+II. Cuando el reo hubiere sido juzgado por la misma conducta en dos procesos distintos. En este caso, el reconocimiento de inocencia procederá respecto de la segunda sentencia; y
+
+III. Cuando dos reos hubieren sido condenados por el mismo delito y se demuestre la imposibilidad de que los dos lo hubieren cometido.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 565.
 
-De acuerdo con lo establecido en el artículo 111 del Código Penal, procederá el indulto cualquiera que sea la sanción:
+El reo que se considere con derecho para pedir el reconocimiento de inocencia ocurrirá por escrito, a la Sala Penal que resolvió la apelación de su sentencia, alegando la causa o causas de las enumeradas en el artículo anterior en que funde su petición y acompañará los medios probatorios que la acrediten y podrá nombrar defensor y si no lo tuviere la Sala le nombrará uno de oficio para que lo patrocine durante la substanciación del recurso. El sentenciado, cuando por alguna razón no hubiere hecho uso de la apelación contra la sentencia condenatoria, acudirá con su escrito a la Oficialía de Partes del Tribunal Superior, la cual lo mandará a la Sala Penal en turno.
 
-I.- Cuando la sentencia se funde exclusivamente en pruebas, que posteriormente se declaren falsas;
-
-II.- Cuando después de la sentencia aparezcan documentos públicos que invaliden la prueba en que se haya fundado aquella;
-
-III.- Cuando se dicte sentencia ejecutoria contra un menor de dieciséis años;
-
-IV.- Cuando condenada alguna persona por homicidio de otra que hubiere desaparecido se presentará esta o alguna prueba irrefutable de que vive;
-
-V.- Cuando dos sentenciados hayan sido condenados por el mismo delito y se demuestre la imposibilidad de que los dos lo hubieren cometido.
-
-VI.- Cuando el sentenciado haya sido juzgado por el mismo hecho a que la sentencia se refiere, en otro juicio anterior en que también haya recaído sentencia irrevocable. En éste caso el indulto se otorgará con relación a la sanción impuesta en la Segunda sentencia.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 566.
 
-El sentenciado que se crea con derecho a obtener el indulto en los casos a que se refiere el artículo anterior ocurrirá ante el Tribunal Superior de Justicia, y expondrá por escrito la causa en que funda su petición, acompañando las pruebas que corresponda o protestando exhibirlas oportunamente. Sólo será admitida la prueba documental, salvo que se trate del caso a que se refiere la fracción IV del mismo artículo anterior.
+Recibida la solicitud, la Sala Penal inmediatamente pedirá el proceso o procesos al archivo en que se encuentren y citará al Ministerio Público, al reo y a su Defensor para la audiencia de vista, que tendrá lugar dentro de los cinco días siguientes a la recepción del expediente, salvo el caso en que hubiera de rendirse prueba documental, cuya recepción exija un plazo mayor, que se fijará prudentemente, atentas las circunstancias.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 567.
 
-Al hacer su solicitud, el sentenciado podrá nombrar defensor, conforme a las disposiciones en éste Código, para que lo patrocine durante la substanciación del indulto, hasta su resolución definitiva.
+El día fijado para la vista, dada cuenta por el secretario, se recibirán los medios probatorios, alegará el reo por sí o por su defensor, y el Ministerio Público pedirá lo que en derecho corresponda.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 568.
 
-Recibida la solicitud, se pedirá inmediatamente el proceso o procesos al archivo en que se encuentren; y cuando conforme el (sic) Artículo 566 se haya protestado exhibir las pruebas, señalará un término prudente para recibirlas.
+A los cinco días de celebrada la vista, la Sala declarará si es o no fundada la solicitud del reo.
+
+En el primer caso, remitirá copia autorizada de la resolución a la Dirección de Prevención y Readaptación Social para que ésta sin más trámites, provea su cumplimiento.
+
+En el segundo caso, se mandarán archivar las diligencias.
 
 ###### Art. 569.
 
-Recibidos el proceso o los procesos, y en su caso las pruebas del promovente, se pasará el asunto al Ministerio Público por el término de cinco días para que pida lo que a su representación convenga.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 
 ###### Art. 570.
 
-Devuelto el expediente por el Ministerio Público, se pondrá a la vista del sentenciado y de su defensor, por el término de tres días, para que se impongan de él y formulen sus alegatos por escrito.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 
 ###### Art. 571.
 
-Transcurrido el término a que se refiere el artículo anterior se fallará el asunto declarando fundadas o no la solicitud, dentro de los diez días siguientes.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 
 ###### Art. 572.
 
-Si se declara fundada, se remitirá original del expediente al Ejecutivo del Estado para que, sin más trámites, otorgue el indulto; en caso contrario se mandará archivar el expediente haciéndolo saber a las partes.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 573.
 
-Cuando el indulto se solicite de acuerdo con lo establecido en el Artículo 65 del Código Penal, el interesado del órgano que designe la ley, con su instancia y, en su caso con los justificantes necesarios.
+Cuando el indulto se solicite de acuerdo con los artículos 3o. y 105 del Código Penal, el interesado acudirá ante el Ejecutivo, a través del órgano que designe la ley, con su instancia y, en su caso, con los justificantes necesarios.
 
-El Ejecutivo, en vista de la solicitud y de los comprobantes presentados, o si así conviniere a la tranquilidad pública tratándose de delitos políticos concederá el indulto, sin condición alguna o con las que estimare convenientes.
+El Ejecutivo, a la vista de la solicitud y de los comprobantes presentados, si se actualizare alguna de las causales legales concederá el indulto, en forma absoluta o condicionada según conviniere a la tranquilidad pública.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 574.
 
-Todas las resoluciones en que se conceda un indulto, se publicarán en el Periódico Oficial el Estado, y se comunicarán al Tribunal que hubiere pronunciado la sentencia para que se haga la anotación correspondiente en el proceso.
+Todo indulto se publicará en el Periódico Oficial del Estado y se comunicará al Tribunal que hubiere pronunciado sentencia condenatoria para que haga la anotación correspondiente en el proceso respectivo.
 
 ###### Art. 575.
 
@@ -3880,3 +3948,11 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 14 DE SEPTIEMBRE DE 1995.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE OCTUBRE DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor diez días después de su publicación en el Periódico Oficial.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
+
+TERCERO.- La exposición de motivos se publicará en el Periódico Oficial junto con el presente decreto.
