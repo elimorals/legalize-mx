@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1944-09-21"
+last_updated: "1945-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE SEPTIEMBRE DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ABRIL DE 1945.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -244,7 +244,9 @@ La Nación tendrá en todo tiempo el derecho de imponer a la propiedad privada l
 
 Corresponde a la Nación el dominio directo de todos los minerales o substancias que en vetas, mantos, masas o yacimientos, constituyan depósitos cuya naturaleza sea distinta de los componentes de los terrenos, tales como los minerales de los que se extraigan metales y metaloides utilizados en la industria; los yacimientos de piedras preciosas, de sal de gema y las salinas formadas directamente por las aguas marinas; los productos derivados de la descomposición de las rocas, cuando su explotación necesite trabajos subterráneos; los yacimientos minerales u orgánicos de materias susceptibles de ser utilizadas como fertilizantes; los combustibles minerales sólidos; el petróleo y todos los carburos de hidrógeno sólidos, líquidos o gaseosos.
 
-Son también propiedad de la Nación las aguas de los mares territoriales en la extensión y términos que fija el Derecho Internacional; las de las lagunas y esteros de las playas; las de los lagos interiores de formación natural, que estén ligados directamente a corrientes constantes, las de los ríos principales o arroyos afluentes desde el punto en que brota la primera agua permanente hasta su desembocadura, ya sea que corran al mar o que crucen dos o más Estados, las de las corrientes intermitentes que atraviesen dos o más Estados, en su rama principal; las aguas de los ríos, arroyos o barrancos, cuando sirvan de límite al territorio nacional o al de los Estados; las aguas que se extraigan de las minas; y los cauces, lechos o riberas de los lagos y corrientes interiores en la extensión que fije la ley. Cualquiera otra corriente de agua no incluída en la enumeración anterior, se considerará como parte integrante de la propiedad privada que atraviese; pero el aprovechamiento de las aguas, cuando su curso pase de una finca a otra se considerará como de utilidad pública y quedará sujeta a las disposiciones que dicten los Estados.
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 1945)</small>
+
+Son también propiedad de la Nación las aguas de los mares territoriales en la extensión y términos que fija el Derecho Internacional; las de las lagunas y esteros que se comuniquen permanente o intermitentemente con el mar; las de los lagos interiores de formación natural que estén ligados directamente a corrientes constantes; las de los ríos y sus afluentes directos o indirectos, desde el punto del cauce en que se inicien las primeras aguas permanentes, intermitentes o torrenciales, hasta su desembocadura en el mar, lagos, lagunas o esteros de propiedad nacional; las de las corrientes constantes o intermitentes y sus afluentes directos o indirectos, cuando el cauce de aquéllas, en toda su extensión o en parte de ella, sirva de límite al territorio nacional o a dos entidades federativas, o cuando pase de una entidad federativa a otra o cruce la línea divisoria de la República; la de los lagos, lagunas o esteros cuyos vasos, zonas o riberas estén cruzadas por líneas divisorias de dos o más entidades o entre la República y un país vecino, o cuando el límite de las riberas sirva de lindero entre dos entidades federativas o a la República con un país vecino; las de los manantiales que broten en las playas, zonas marítimas, cauces, vasos o riberas de los lagos, lagunas o esteros de propiedad nacional, y las que se extraigan de las minas. Las aguas del subsuelo pueden ser libremente alumbradas mediante obras artificiales, y apropiarse por el dueño del terreno, pero cuando lo exija el interés público, o se afecten otros aprovechamientos, el Ejecutivo Federal podrá reglamentar su extracción y utilización, y aún establecer zonas vedadas, al igual que para las demás aguas de propiedad nacional. Cualesquiera otras aguas no incluídas en la enumeración anterior, se considerarán como parte integrante de la propiedad de los terrenos por los que corran o en los que se encuentren sus depósitos, pero si se localizaren en dos o más predios, el aprovechamiento de estas aguas se considerará de utilidad pública, y quedará sujeto a las disposiciones que dicten los Estados.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 9 DE NOVIEMBRE DE 1940)</small>
 
@@ -2069,3 +2071,7 @@ Dentro de los treinta días siguientes al en que entre en vigor esta reforma con
 ###### ARTICULO SEGUNDO.
 
 La Suprema Corte y el Tribunal Superior de Justicia del Distrito y Territorios Federales harán, respectivamente, las designaciones de los funcionarios inamovibles a que se refiere esta ley, dentro del término de treinta días, que se contarán a partir de la fecha en que tales cuerpos judiciales queden constituídos con arreglo al artículo anterior.
+
+D.O.F. 21 DE ABRIL DE 1945.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
