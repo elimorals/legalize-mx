@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-civiles-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1966-03-02"
-last_updated: "2001-04-21"
+last_updated: "2003-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2003.
 
-Código Publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 2 de marzo de 1966.
+Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 2 de marzo de 1966.
 
 JOSE RODRIGUEZ ELIAS, Gobernador Constitucional del Estado libre y Soberano de Zacatecas, a sus habitantes hago saber:
 
@@ -789,7 +789,7 @@ Cuando un juez o magistrado se excuse sin causa legítima, cualquiera de las par
 
 Las excusas de los secretarios o actuarios serán calificadas por el superior jerárquico respectivo.
 
-### CAPITULO VIII. De la recusacion
+### CAPITULO VIII. De la recusación
 
 128.- Cuando los magistrados, jueces o secretarios o quienes hagan sus veces no se inhibieren, a pesar de existir alguno de los impedimentos expresados en el artículo 126, procederá la recusación, que se fundará precisamente en la existencia de ellos.
 
@@ -1627,7 +1627,7 @@ No procede citar para sentencia en caso de allanamiento de la demanda, si la cue
 
 244.- Hay conexidad entre dos juicios y procede la acumulación de autos en los siguientes casos:
 
-I.- Cuando las demandas respectivas provengan de una misma causa, aun cuando sean diferentes las persona que litigan y las cosas que sean objeto de las demandas;
+I.- Cuando las demandas respectivas provengan de una misma causa, aun cuando sean diferentes las personas que litigan y las cosas que sean objeto de las demandas;
 
 II.- Cuando las personas y las cosas sean idénticas, aunque las demandas sean diferentes;
 
@@ -1637,13 +1637,13 @@ IV.- Cuando por disposición de la ley, un juicio deba acumularse a otro de car�
 
 La excepción de conexidad tiene por objeto la remisión de los autos en que se opone, al juzgado que previno en el conocimiento de la causa conexa o al juicio atractivo según el caso. No será procedente ni se admitirá la excepción de conexidad:
 
-a)Cuando los pleitos estén en diversas instancias.
+a) Cuando los pleitos estén en diversas instancias.
 
-b)Cuando el juez ante quien se sigue el juicio sobre el cual deba hacerse la acumulación, no sea competente, en razón de la materia, para conocer del que se pretende acumular.
+b) Cuando el juez ante quien se sigue el juicio sobre el cual deba hacerse la acumulación, no sea competente, en razón de la materia, para conocer del que se pretende acumular.
 
-c)Cuando ambos pleitos tengan trámites incompatibles, y
+c) Cuando ambos pleitos tengan trámites incompatibles, y
 
-d)Cuando los juzgados que conozcan respectivamente de los juicios pertenezcan a tribunales de alzada diferentes.
+d) Cuando los juzgados que conozcan respectivamente de los juicios pertenezcan a tribunales de alzada diferentes.
 
 Si se declara procedente la excepción de conexidad, se mandará hacer la correspondiente acumulación de autos.
 
@@ -1675,11 +1675,11 @@ III.- Las diligencias en contra del rebelde podrán ejecutarse en los estrados d
 
 IV.- A petición del actor, podrá decretarse embargo precautorio para garantizar el importe de lo demandado y las costas, o en su caso, se mandará poner en depósito la cosa objeto del litigio. El embargo se practicará de acuerdo con las reglas de la ejecución forzosa, con las siguientes modalidades:
 
-a)Si se tratare de bienes muebles, el depositario deberá dar fianza a satisfacción del juez, para garantizar su manejo, prefiriéndose para el cargo a la persona que tenga a su disposición o bajo su custodia los bienes de que se trata, siempre que también otorgue la fianza;
+a) Si se tratare de bienes muebles, el depositario deberá dar fianza a satisfacción del juez, para garantizar su manejo, prefiriéndose para el cargo a la persona que tenga a su disposición o bajo su custodia los bienes de que se trata, siempre que también otorgue la fianza;
 
-b)Si se tratare de bienes inmuebles y no se embargaren las rentas, bastará que se expida mandamiento por duplicado para el registrador de la propiedad a quien corresponda, para que inscriba el secuestro. Una de las copias, después de cumplimiento el registro, se agregará al expediente;
+b) Si se tratare de bienes inmuebles y no se embargaren las rentas, bastará que se expida mandamiento por duplicado para el registrador de la propiedad a quien corresponda, para que inscriba el secuestro. Una de las copias, después de cumplimiento el registro, se agregará al expediente;
 
-c)Si se embargaren también las rentas que produzca el inmueble, el depositario deberá otorgar fianza para garantizar su manejo, siguiéndose las reglas del inciso a).
+c) Si se embargaren también las rentas que produzca el inmueble, el depositario deberá otorgar fianza para garantizar su manejo, siguiéndose las reglas del inciso a).
 
 El embargo practicado a consecuencia de la declaración de rebeldía continuará hasta la conclusión del juicio, y
 
@@ -2009,15 +2009,15 @@ II.- Si se impugnare expresamente la autenticidad o exactitud de un documento p�
 
 III.- Si se desconociere o se atacare de falsedad un documento privado, el que lo objete está obligado a negar formalmente y bajo protesta de decir verdad, el contenido o firmas del documento. Los herederos o causahabientes podrán limitarse a declarar que no conocen la letra o la firma de su causante. En este caso se observarán las reglas siguientes:
 
-a)El juez mandará poner en custodia el documento desconocido o redargüido de falso.
+a) El juez mandará poner en custodia el documento desconocido o redargüido de falso.
 
-b)Ordenará el cotejo del documento atacado de falsedad con uno indubitado, y designará un perito para que formule dictamen, sin perjuicio de hacer por sí mismo la comprobación correspondiente. Las partes, si lo desean, podrán también nombrar peritos. Para el efecto del cotejo, se considerarán como documentos indubitados los que las partes reconozcan como tales y los privados cuya letra o firma hayan sido reconocidas en juicio por aquél a quien se atribuya ésta, pudiendo ser el mismo escrito impugnado en la parte que reconozca la letra como suya aquél a quien perjudique, y las firmas que para el efecto se pongan en presencia del Secretario del Tribunal por la persona cuya letra o firma se trata de comprobar.
+b) Ordenará el cotejo del documento atacado de falsedad con uno indubitado, y designará un perito para que formule dictamen, sin perjuicio de hacer por sí mismo la comprobación correspondiente. Las partes, si lo desean, podrán también nombrar peritos. Para el efecto del cotejo, se considerarán como documentos indubitados los que las partes reconozcan como tales y los privados cuya letra o firma hayan sido reconocidas en juicio por aquél a quien se atribuya ésta, pudiendo ser el mismo escrito impugnado en la parte que reconozca la letra como suya aquél a quien perjudique, y las firmas que para el efecto se pongan en presencia del Secretario del Tribunal por la persona cuya letra o firma se trata de comprobar.
 
-c)El juez, después de oír a los peritos, apreciará el resultado de la prueba sin tener que sujetarse a su dictamen, pudiendo, si lo estima necesario, ordenar que se repita el cotejo por otros.
+c) El juez, después de oír a los peritos, apreciará el resultado de la prueba sin tener que sujetarse a su dictamen, pudiendo, si lo estima necesario, ordenar que se repita el cotejo por otros.
 
-d)Si apareciere que existe falsificación o alteración del documento, se hará la denuncia para la averiguación penal correspondiente, interpelándose a la parte que ha presentado el documento, para que manifieste si insiste en hacer uso del mismo. Si la contestación fuere negativa, el documento no será utilizado en el juicio. Si fuere afirmativa, de oficio o a petición de parte, se denunciarán los hechos al Ministerio Público, entregándole el documento original y testimonio de las constancias conducentes. Sólo se suspenderán los procedimientos del juicio civil, si lo pide el Ministerio Público y se llenan los requisitos relativos. En este caso, si el procedimiento penal concluye sin decidir sobre la falsedad o autenticidad del documento, o no se decreta la suspensión, el juez, después de oír a las partes, podrá estimar libremente el valor probatorio del mismo, reservándose la resolución para la sentencia definitiva.
+d) Si apareciere que existe falsificación o alteración del documento, se hará la denuncia para la averiguación penal correspondiente, interpelándose a la parte que ha presentado el documento, para que manifieste si insiste en hacer uso del mismo. Si la contestación fuere negativa, el documento no será utilizado en el juicio. Si fuere afirmativa, de oficio o a petición de parte, se denunciarán los hechos al Ministerio Público, entregándole el documento original y testimonio de las constancias conducentes. Sólo se suspenderán los procedimientos del juicio civil, si lo pide el Ministerio Público y se llenan los requisitos relativos. En este caso, si el procedimiento penal concluye sin decidir sobre la falsedad o autenticidad del documento, o no se decreta la suspensión, el juez, después de oír a las partes, podrá estimar libremente el valor probatorio del mismo, reservándose la resolución para la sentencia definitiva.
 
-e)Si apareciere que no existe falsificación, el juicio continuará en sus trámites y el juez podrá apreciar libremente el valor probatorio de la prueba.
+e) Si apareciere que no existe falsificación, el juicio continuará en sus trámites y el juez podrá apreciar libremente el valor probatorio de la prueba.
 
 IV.- Si se objetare la falsedad o alteración de documentos no firmados por las partes, como telegramas, copias simples de correspondencia, contraseñas, sellos o documentos similares, el juez mandará sustanciar la impugnación en incidente por cuerda separada, y sin suspensión del procedimiento. En este incidente se mandará hacer los cotejos, compulsar y recabar los informes, y en general se recibirán todas las pruebas que procedan para averiguar si existe o no falsedad, alteración o substitución de esta clase de documentos. Si al resolverse el incidente apareciere que existe o no falsedad, se seguirán las reglas establecidas en la fracción anterior y bastará que las partes expresen que se consideran dudosos los documentos, indicando los motivos en que se funden para iniciar el incidente respectivo.
 
@@ -2279,15 +2279,15 @@ VII.- Los telegramas, cablegramas, radiogramas, copias simples de correspondenci
 
 VIII.- Para graduar la fuerza probatoria de los libros de contabilidad se observarán las reglas siguientes:
 
-a)Los libros de los comerciantes probarán en contra del que los lleva sin admitirle prueba en contrario; pero el adversario quedará sujeto al resultado que arrojen en conjunto las pruebas, tomando en consideración todos los asientos de los libros que se refieran a la cuestión litigiosa.
+a) Los libros de los comerciantes probarán en contra del que los lleva sin admitirle prueba en contrario; pero el adversario quedará sujeto al resultado que arrojen en conjunto las pruebas, tomando en consideración todos los asientos de los libros que se refieran a la cuestión litigiosa.
 
-b)Si se ofrecieren como prueba los libros de contabilidad de dos comerciantes y los asientos fueren contradictorios, se tomarán en cuenta los comprobantes de contabilidad que justifiquen los asientos o cualquiera otros medios de prueba admisibles, apreciándose, conforme a las reglas generales, cuál de ellos debe prevalecer.
+b) Si se ofrecieren como prueba los libros de contabilidad de dos comerciantes y los asientos fueren contradictorios, se tomarán en cuenta los comprobantes de contabilidad que justifiquen los asientos o cualquiera otros medios de prueba admisibles, apreciándose, conforme a las reglas generales, cuál de ellos debe prevalecer.
 
-c)En el mismo caso de asientos contradictorios, si uno de los comerciantes lleva sus libros en regla, y los del otro adolecieren de cualquier defecto o carecieren de los requisitos exigidos por la ley, los asientos de los libros en regla harán fe contra los defectuosos; salvo prueba en contrario.
+c) En el mismo caso de asientos contradictorios, si uno de los comerciantes lleva sus libros en regla, y los del otro adolecieren de cualquier defecto o carecieren de los requisitos exigidos por la ley, los asientos de los libros en regla harán fe contra los defectuosos; salvo prueba en contrario.
 
-d)Si se tratare de un comerciante, y requerido para ello, no presentare sus libros o no los llevare teniendo obligación legal de hacerlo, este hecho se tomará como presunción legal en su contra, si no demuestra que la falta de presentación o carencia de libros procede de fuerza mayor.
+d) Si se tratare de un comerciante, y requerido para ello, no presentare sus libros o no los llevare teniendo obligación legal de hacerlo, este hecho se tomará como presunción legal en su contra, si no demuestra que la falta de presentación o carencia de libros procede de fuerza mayor.
 
-e)Los asientos en los libros de una sociedad serán prueba bastante para demostrar que un socio ha aportado en ella lo que le correspondía; pero los socios administradores, por lo que a ellos toca, deberán, además acreditar este hecho por otro medio de prueba suficiente.
+e) Los asientos en los libros de una sociedad serán prueba bastante para demostrar que un socio ha aportado en ella lo que le correspondía; pero los socios administradores, por lo que a ellos toca, deberán, además acreditar este hecho por otro medio de prueba suficiente.
 
 IX.- Cuando no hubiere otro medio de prueba disponible, se aceptarán como prueba documental, y harán fe, presuncionalmente, si no estuvieren contradichas por otras pruebas, las inscripciones en lápidas o monumentos, y
 
@@ -2633,15 +2633,15 @@ VIII.- Si hubiere informe en estrados, las partes podrán alegar verbalmente en 
 
 I.- Sólo podrán recibirse pruebas en segunda instancia en los siguientes casos:
 
-a)Cuando el que hubiere apelado preventivamente, insista en la recepción de pruebas rechazadas en primera instancia y el tribunal estime que son admisibles;
+a) Cuando el que hubiere apelado preventivamente, insista en la recepción de pruebas rechazadas en primera instancia y el tribunal estime que son admisibles;
 
-b)Cuando, por cualquier causa, no imputable al que solicitare la prueba, no hubieren podido practicarse en la primera instancia todas o parte de las que se hubieren propuesto;
+b) Cuando, por cualquier causa, no imputable al que solicitare la prueba, no hubieren podido practicarse en la primera instancia todas o parte de las que se hubieren propuesto;
 
-c)Cuando se trate de pruebas ofrecidas y desechadas en primera instancia por haberse estimado excesivas o superfluas, si a juicio del Tribunal fuere de alguna utilidad recibirlas para el esclarecimiento de los hechos materia del litigio;
+c) Cuando se trate de pruebas ofrecidas y desechadas en primera instancia por haberse estimado excesivas o superfluas, si a juicio del Tribunal fuere de alguna utilidad recibirlas para el esclarecimiento de los hechos materia del litigio;
 
-d)Cuando hubiere ocurrido algún hecho que importe excepción superveniente; y
+d) Cuando hubiere ocurrido algún hecho que importe excepción superveniente; y
 
-e)Cuando se pida la recepción de pruebas para destruir la presunción legal proveniente de confesión ficta.
+e) Cuando se pida la recepción de pruebas para destruir la presunción legal proveniente de confesión ficta.
 
 II.- Sin necesidad de recibir el recurso a prueba podrán pedir los litigantes, desde la notificación del auto que decida sobre su admisión, hasta la celebración de la vista, que la parte contraria rinda confesión judicial por una sola vez, con tal de que sea sobre hechos que, relacionados con los puntos controvertidos, no fueron objeto de posiciones en la primera instancia. También, sin necesidad de que se reciba el negocio a prueba, podrá aceptarse la prueba de documentos, que sean de fecha posterior o de anteriores, cuando protesten en este último caso no haber tenido antes conocimiento de su existencia, o que no les fue posible adquirirlos en otra oportunidad por causas que no les sean imputables, todo lo cual será apreciado prudencialmente por el tribunal;
 
@@ -2755,7 +2755,7 @@ IV.- La ejecución de las sentencias arbitrales se hará por el juez competente 
 
 V.- La ejecución en caso de títulos ejecutivos, corresponderá al juez que conozca de la demanda y de acuerdo con las reglas generales de competencia, y
 
-IV.- La ejecución de las sentencia extranjera corresponderá al juez que declaró su validez.
+VI.- La ejecución de la sentencia extranjera corresponderá al juez que declaró su validez.
 
 404.- Procederá la ejecución directa en los casos en que la ley o la resolución que se ejecute, lo determine, y, además, en los siguientes casos:
 
@@ -2931,11 +2931,11 @@ III.- El derecho para señalar los bienes que han de embargarse corresponde al d
 
 El ejecutante, podrá señalar los bienes que han de ser objeto del secuestro, sin sujetarse al orden establecido en este artículo en los siguientes casos:
 
-a)Si para hacerlo estuviere autorizado por el obligado en virtud de convenio expreso;
+a) Si para hacerlo estuviere autorizado por el obligado en virtud de convenio expreso;
 
-b)Si los bienes que señala el deudor no fueren bastantes o si no se sujeta al orden que se establece en este artículo;
+b) Si los bienes que señala el deudor no fueren bastantes o si no se sujeta al orden que se establece en este artículo;
 
-c)Si los señalados estuvieren en lugar diverso del en que se sigue el juicio, el ejecutante podrá señalar otros que se hallen en este lugar.
+c) Si los señalados estuvieren en lugar diverso del en que se sigue el juicio, el ejecutante podrá señalar otros que se hallen en este lugar.
 
 El ejecutor, sin que para ello se necesite ulterior determinación del juez, deberá realizar con la mayor diligencia los actos complementarios del embargo, como dar posesión al depositario de bienes, aunque no estén en el lugar donde se practica la diligencia, si se encuentran dentro de la jurisdicción; notificación a deudores o a bancos, si se han embargado créditos; dar aviso preventivo al Registro Público, si se trata de bienes registrados; expedir copias certificadas de la diligencia y en general, para tomar todas las medidas y realizar los actos que tiendan a hacer más efectivo el aseguramiento.
 
@@ -2963,7 +2963,7 @@ VIII.- Las mieses antes de ser cosechadas, pero no los derechos sobre las siembr
 
 IX.- Las servidumbres, a no ser que se embargue el fundo a cuyo favor estén constituidas, excepto la de aguas, que es embargable, independientemente;
 
-X.- La renta vitalicia, en los términos establecidos en los artículo 2736 y 2738 del Código Civil.
+X.- La renta vitalicia, en los términos establecidos en los artículos 2736 y 2738 del Código Civil.
 
 XI.- Los sueldos y el salario de los trabajadores en los términos en que lo establece la Ley Federal del Trabajo, siempre que no se trate de deudas alimenticias o responsabilidad proveniente de delito;
 
@@ -3081,7 +3081,7 @@ VIII.- Las autorizaciones a que se refiere este artículo se tramitarán citando
 
 IX.- Si sólo se embargare el inmueble sin sus rentas o productos, bastará que el embargo se haga inscribir en el Registro Público de la Propiedad, sin que se nombre depositario. Las contribuciones sobre el inmueble embargado continuarán a cargo del deudor, pero si éste no hiciere el pago, podrá hacerlo el acreedor por cuenta de éste, con derecho de que le sean reembolsadas por el deudor las cantidades que cubriere.
 
-443.- En los casos en que el secuestro se efectúe en una finca rústica o en una negociación mercantil o industrial se considerarán afectos al embargo todos los bienes que forman parte de la empresa, pero el depositario tendrá el carácter de mero interventor con cargo a la caja, vigilando la contabilidad, y tendrá las siguiente facultades y obligaciones:
+443.- En los casos en que el secuestro se efectúe en una finca rústica o en una negociación mercantil o industrial se considerarán afectos al embargo todos los bienes que forman parte de la empresa, pero el depositario tendrá el carácter de mero interventor con cargo a la caja, vigilando la contabilidad, y tendrá las siguientes facultades y obligaciones:
 
 I.- Inspeccionará el manejo de la negociación o finca rústica, en su caso, y las operaciones que en ellas se hagan, a fin de que produzcan el mejor rendimiento posible;
 
@@ -3115,13 +3115,13 @@ La declaración de levantamiento la hará el juez oyendo incidentalmente a las p
 
 No procederá el levantamiento del embargo aunque transcurra el plazo sin pedir la adjudicación o venta o sin hacer promoción en los siguientes casos:
 
-a)Si el juicio estuviere suspendido por causa legal;
+a) Si el juicio estuviere suspendido por causa legal;
 
-b)Si hubiere acuerdo de las partes, sin perjuicio de terceros, para no efectuar la venta o la adjudicación, y
+b) Si hubiere acuerdo de las partes, sin perjuicio de terceros, para no efectuar la venta o la adjudicación, y
 
-c)Si hubiere cualquier otra causa legal que impida la ejecución.
+c) Si hubiere cualquier otra causa legal que impida la ejecución.
 
-445.- Si los bienes materia del secuestro hubieren sido objeto de embargo anterior y salvo los casos de preferencia de derechos, se observará los siguiente:
+445.- Si los bienes materia del secuestro hubieren sido objeto de embargo anterior y salvo los casos de preferencia de derechos, se observará lo siguiente:
 
 I.- El reembargo producirá su efecto en lo que resulte líquido del precio del remate después de pagarse al primer embargante;
 
@@ -3237,11 +3237,11 @@ II.- Se citará a los acreedores que aparezcan del certificado de gravámenes pa
 
 III.- Los acreedores citados conforme a la fracción anterior tendrán derecho:
 
-a)A nombrar, a su costa, un perito que intervenga en el avalúo cuando se haga por peritos;
+a) A nombrar, a su costa, un perito que intervenga en el avalúo cuando se haga por peritos;
 
-b)Para intervenir en el acto del remate y hacer al juez las observaciones que estimen oportunas; y
+b) Para intervenir en el acto del remate y hacer al juez las observaciones que estimen oportunas; y
 
-c)Para recurrir el auto de aprobación de remate.
+c) Para recurrir el auto de aprobación de remate.
 
 IV.- Hecho el avalúo, se sacarán los bienes a pública subasta, convocándose postores por medio de la publicación de edictos por dos veces de siete en siete días, en el Periódico Oficial, y en uno de los periódicos de mayor circulación. A petición de cualquiera de las partes, y a su costa, el juez puede usar, además, algún otro medio de publicidad para convocar postores. Si el valor del inmueble no excede de cinco mil pesos, para anunciar el remate bastará que se fijen avisos en la puerta del juzgado y en el sitio que al efecto tengan las autoridades fiscales de la localidad;
 
@@ -3383,13 +3383,13 @@ I.- Si todos los acreedores intervinientes que justifiquen tener derecho sobre l
 
 II.- Si no hubiere acuerdo, salvo lo que dispongan en contrario otras leyes, la distribución se hará conforme al siguiente orden de prelación:
 
-a)Acreedores alimentistas;
+a) Acreedores alimentistas;
 
-b)Acreedores privilegiados con derechos reales de prenda o hipoteca en el orden de inscripción en los registros públicos o de fechas, si la inscripción no fuere necesaria;
+b) Acreedores privilegiados con derechos reales de prenda o hipoteca en el orden de inscripción en los registros públicos o de fechas, si la inscripción no fuere necesaria;
 
-c)Embargantes en el orden que corresponda por concepto de prioridad en tiempo en la fecha de los embargos; excepto cuando el embargo se deba inscribir en el Registro Público, pues entonces regirá el orden de fechas de la inscripción, y
+c) Embargantes en el orden que corresponda por concepto de prioridad en tiempo en la fecha de los embargos; excepto cuando el embargo se deba inscribir en el Registro Público, pues entonces regirá el orden de fechas de la inscripción, y
 
-d)Los demás acreedores no privilegiados intervinientes se sujetarán a concurso.
+d) Los demás acreedores no privilegiados intervinientes se sujetarán a concurso.
 
 474.- Si la distribución de la suma obtenida no alcanzare para cubrir el crédito del ejecutante, quedarán sus derechos expeditos para pedir nueva ejecución forzosa por el saldo insoluto.
 
@@ -3887,7 +3887,17 @@ El lanzamiento se ejecutará, no sólo contra el arrendatario o sus causahabient
 
 ### CAPITULO I. Disposiciones generales
 
-552.- En todos los asuntos de que trata este Título tendrá intervención el Ministerio Público.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
+
+552.- Todos los problemas inherentes a la familia son de orden público e interés social.
+
+En todos los asuntos de que trata este título tendrá intervención el Ministerio Público y se aplicará, en lo conducente, la Ley para prevenir y atender la violencia familiar.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
+
+552-A.- Por la vía de providencias cautelares, a petición de las víctimas de la violencia familiar, del Ministerio Público o de los titulares de las unidades de atención a la violencia familiar, el juez podrá librar las órdenes de protección consistentes en alimentos provisionales, separación de los cónyuges, y las demás que estime necesarias y autorice la ley, para velar por el interés superior de los menores de edad y de las víctimas de violencia familiar.
+
+El juez deberá exhortar a las partes a resolver sus conflictos mediante un convenio que dé por terminado el procedimiento, independientemente de las órdenes de protección que de conformidad con este ordenamiento y el Código Familiar, llegare a emitir.
 
 553.- El juez dispondrá de las más amplias facultades para la determinación de la verdad material, sin que quede vinculado a las reglas de la prueba legal para lograr este resultado.
 
@@ -4441,9 +4451,9 @@ La sentencia que declare la presunción de muerte de un ausente casado pone tér
 
 I.- Para que proceda, el actor deberá probar:
 
-a)Que se halla en posesión de la cosa o derecho objeto del interdicto,
+a) Que se halla en posesión de la cosa o derecho objeto del interdicto,
 
-b)Que se ha tratado de inquietarlo en la posesión.
+b) Que se ha tratado de inquietarlo en la posesión.
 
 II.- La demanda deberá redactarse conforme a las reglas generales y además deberá expresarse en ella con precisión en qué consisten el acto o actos que hagan temer al actor la perturbación en la posesión de que disfruta;
 
@@ -4455,9 +4465,9 @@ IV.- El objeto de esta acción será el de poner término a la perturbación, in
 
 I.- Para que proceda, el actor deberá probar lo siguiente:
 
-a)Que ha poseído la cosa por más de un año en nombre propio o en nombre ajeno y además, que ha sido despojado, o
+a) Que ha poseído la cosa por más de un año en nombre propio o en nombre ajeno y además, que ha sido despojado, o
 
-b)Que aunque haya poseído a nombre propio por menos de un año, ha sido despojado por violencia o vías de hecho.
+b) Que aunque haya poseído a nombre propio por menos de un año, ha sido despojado por violencia o vías de hecho.
 
 II.- La acción para recuperar la posesión procede en contra del despojador, en contra del que ha mandado el despojo, o en contra del que a sabiendas y directamente se aprovecha del despojo. También procede en contra del sucesor del despojante, y
 
@@ -4675,7 +4685,7 @@ Si el derecho a la partición o rescisión es cuestionado, se decidirá el litig
 
 685.- La partición de la cosa común se llevará a cabo cuando tenga que hacerse judicialmente y no haya acuerdo entre los interesados en la forma prescrita para la partición en la ejecución forzosa.
 
-686.- Siempre que fuere necesario proceder a la venta de bienes muebles o inmuebles, por no admitir éstos cómoda división, se llevará a cabo en la forma que determinen las partes, si hubiere acuerdo. En caso contrario, la venta se llevará a cabo con sujeción a las reglas de el ejecución forzosa.
+686.- Siempre que fuere necesario proceder a la venta de bienes muebles o inmuebles, por no admitir éstos cómoda división, se llevará a cabo en la forma que determinen las partes, si hubiere acuerdo. En caso contrario, la venta se llevará a cabo con sujeción a las reglas de la ejecución forzosa.
 
 ### CAPITULO VI. Apeo y deslinde
 
@@ -4831,7 +4841,7 @@ V.- Si se pidiere como acto prejudicial, y no se presente la demanda dentro del 
 
 711.- En casos de urgente necesidad podrán decretarse alimentos provisionales a quien tenga derecho de exigirlos y contra quien deba pagarlos. En este caso debe acreditarse el título en cuya virtud se piden, las posibilidades de quien deba darlos y la urgencia de la medida. Cuando se pidan por razón de parentesco, deberá acreditarse éste. Si se fundan en testamento, contrato o convenio, debe exhibirse el documento en que consten.
 
-712.- Rendida la justificación a que se refiere el artículo anterior, el juez la fijará suma en que deban consistir los alimentos, mandando abonarlos por meses o quincenas anticipados.
+712.- Rendida la justificación a que se refiere el artículo anterior, el juez fijará la suma en que deban consistir los alimentos, mandando abonarlos por meses o quincenas anticipados.
 
 Si se piden con medida provisional en un juicio de divorcio, se procederá en la forma prevista por el artículo 371 del Código Civil.
 
@@ -4939,7 +4949,7 @@ IV.- Cuando el deudor haga cesión de bienes en favor de sus acreedores.
 
 729.- La declaración de concurso necesario se hará a solicitud escrita de uno o varios acreedores del deudor o a solicitud del Ministerio Público. El concurso puede solicitarse, no sólo contra el deudor presente, sino contra el ausente y contra las sucesiones de uno y otro. Con la solicitud se acompañarán las pruebas que justifiquen que el deudor se encuentra en estado de suspensión de pagos, o se recibirán éstas en una audiencia que se verificará sin oír al deudor.
 
-730.- El deudor que quiera hacer cesión de su bienes deberá presentar un escrito, en el que se expresen los motivos que lo obligan a entregar sus bienes para pagar a sus acreedores, y hará todas las explicaciones conducentes para el mejor conocimiento de sus negocios, y con la solicitud acompañará lo siguiente:
+730.- El deudor que quiera hacer cesión de sus bienes deberá presentar un escrito, en el que se expresen los motivos que lo obligan a entregar sus bienes para pagar a sus acreedores, y hará todas las explicaciones conducentes para el mejor conocimiento de sus negocios, y con la solicitud acompañará lo siguiente:
 
 I.- Un inventario exacto de sus bienes, y
 
@@ -4967,11 +4977,11 @@ VIII.- Señalará día y hora para la junta de rectificación y graduación de c
 
 IX.- Mandará pedir a los jueces ante quienes se tramiten pleitos contra el concursado, los envíen para su acumulación al juicio universal. Quedan exceptuados de la acumulación:
 
-a)Los juicios hipotecarios que estén pendientes y los que se promuevan después;
+a) Los juicios hipotecarios que estén pendientes y los que se promuevan después;
 
-b)Los juicios que procedan de créditos prendarios, y los que no sean acumulables, por disposición expresa de la ley, y
+b) Los juicios que procedan de créditos prendarios, y los que no sean acumulables, por disposición expresa de la ley, y
 
-c)Los demás juicios que se hubieren fallado en primera instancia, mismos que se cancelarán una vez que se decidan definitivamente.
+c) Los demás juicios que se hubieren fallado en primera instancia, mismos que se cancelarán una vez que se decidan definitivamente.
 
 732.- El deudor puede oponerse al concurso necesario dentro del tercero día de su declaración. La oposición se substanciará en la vía incidental por cuerda separada sin suspender las medidas a que se refiere el artículo anterior. La resolución del incidente será apelable en el efecto devolutivo.
 
@@ -5197,11 +5207,11 @@ II.- Cuando, hecha la declaración de herederos en un juicio de intestado, siend
 
 Para que haya lugar a la tramitación notarial deben reunirse además los siguientes requisitos:
 
-a)Que todos los interesados sean mayores de edad;
+a) Que todos los interesados sean mayores de edad;
 
-b)Que lo pidan todos, y
+b) Que lo pidan todos, y
 
-c)Que no exista controversia alguna.
+c) Que no exista controversia alguna.
 
 En cualquier momento, antes de concluida, a solicitud de cualquiera de los interesados, cesará la tramitación extrajudicial. Lo mismo se observará cuando se suscite oposición o controversia.
 
@@ -5483,19 +5493,19 @@ III.- Los libros de cuentas y papeles del difunto se entregarán al albacea, y h
 
 IV.- El albacea será removido de plano en los siguientes casos:
 
-a)Si no caucionare su manejo dentro del término legal, en los casos en que esté obligado a hacerlo;
+a) Si no caucionare su manejo dentro del término legal, en los casos en que esté obligado a hacerlo;
 
-b)Si no se presentare el inventario dentro del término legal y su prórroga;
+b) Si no se presentare el inventario dentro del término legal y su prórroga;
 
-c)Si no presentare el proyecto de partición dentro del término legal o dentro de la prorroga que le concedan los interesados por mayoría de votos;
+c) Si no presentare el proyecto de partición dentro del término legal o dentro de la prorroga que le concedan los interesados por mayoría de votos;
 
-d)Cuando no haga la manifestación para que se nombre abogado o contador para que haga la partición, dentro de los cinco días que sigan a la aprobación del inventario;
+d) Cuando no haga la manifestación para que se nombre abogado o contador para que haga la partición, dentro de los cinco días que sigan a la aprobación del inventario;
 
-e)Si no presentare el proyecto de distribución provisional de los productos de los bienes hereditarios dentro de los quince días siguientes a la aprobación del inventario;
+e) Si no presentare el proyecto de distribución provisional de los productos de los bienes hereditarios dentro de los quince días siguientes a la aprobación del inventario;
 
-f)Cuando no rinda cuentas dentro de los primeros diez días de expirado cada trimestre, y
+f) Cuando no rinda cuentas dentro de los primeros diez días de expirado cada trimestre, y
 
-g)Cuando durante dos bimestres consecutivos, sin justa causa, deje de cubrir a los herederos o legatarios las porciones o frutos correspondientes.
+g) Cuando durante dos bimestres consecutivos, sin justa causa, deje de cubrir a los herederos o legatarios las porciones o frutos correspondientes.
 
 813.- Si nadie se hubiere presentado alegando derechos a la herencia o no hubieren sido reconocidos los que se hubieren presentado y se hubiere declarado heredero al Estado, se entregarán a éste los bienes y libros y papeles que tengan relación con ella. Los demás se archivarán con los autos de intestado en un pliego cerrado y sellado, cuya cubierta rubricarán el juez, el representante del Ministerio Público y el Secretario del juzgado.
 
@@ -5769,7 +5779,7 @@ IV.- Las cuestiones concernientes al estado civil de las personas con la excepci
 
 V.- Los negocios que versen sobre derechos no disponibles, y
 
-VI.- Los demás en que lo prohiba expresamente la ley.
+VI.- Los demás en que lo prohíba expresamente la ley.
 
 858.- El compromiso puede celebrarse antes de que haya juicio, durante éste y después de sentenciado, sea cual fuere el estado en que se encuentre. El compromiso posterior a la sentencia irrevocable sólo tendrá lugar si los interesados la conocieren.
 
@@ -6117,7 +6127,7 @@ Y para que llegue a conocimiento de todos y se le dé el debido cumplimiento, ma
 
 Dado en el Despacho del Poder Ejecutivo del Estado, a los doce días del mes de enero de mil novecientos sesenta y cinco.
 
-> <small>(F. DE E. P.O. 18 DE MARZO DE 1966)</small>
+> <small>(F. DE E., P.O. 18 DE MARZO DE 1966)</small>
 
 El Gobernador Constitucional del Estado.
 
@@ -6174,3 +6184,13 @@ P.O. 21 DE ABRIL DE 2001.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Las diligencias de jurisdicción voluntaria que se encuentren en trámite al inicio de vigencia de este Decreto, y en que tengan aplicación los artículos que se reforman, se tramitarán conforme a lo dispuesto por tales preceptos, antes de su reforma.
+
+P.O. 19 DE FEBRERO DE 2003
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
