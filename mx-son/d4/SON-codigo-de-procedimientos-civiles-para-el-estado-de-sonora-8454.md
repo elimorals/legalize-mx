@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "1949-08-24"
+last_updated: "1951-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE MAYO DE 1951.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -3397,13 +3397,19 @@ II.- Verbalmente en el acto de notificarse la resolución.
 
 La apelación que sólo afecte parte de la resolución de que se trate, no impide que ésta quede firme y se ejecute en lo que no fué materia de recurso.
 
+> <small>(REFORMADO, B.O. 26 DE MAYO DE 1951)</small>
+
 ###### Art. 378.
 
-Interpuesta en tiempo una apelación, el juez la admitirá sin substanciación alguna, si fuere procedente, expresando el efecto en que la admita. En el mismo auto el juez mandará que el recurrente se presente, si el Supremo Tribunal reside en el lugar del juicio, a continuar el curso dentro de los cinco días siguientes. Si reside en lugar distinto de aquel en que se pronunció la sentencia, a los cinco días de que se habla en el párrafo anterior, se agregarán los que fueren necesarios, atendida la distancia y las demás circunstancias de que se habla en el artículo 184. La presentación se hará ante el superior mediante la exhibición del escrito que contenga la expresión de los agravios que en su concepto le cause la resolución recurrida. Igualmente mandará dar vista a la contraparte para que ocurra ante el superior a defender sus derechos. El auto que niega la admisión del recurso es recurrible mediante queja.
+Interpuesta en tiempo una apelación, el Juez la admitirá sin substanciación alguna, si fuere procedente, expresando el efecto en que la admita. En el mismo auto el Juez emplazará a las partes para que se presenten ante el Supremo Tribunal de Justicia del Estado para substanciar el recurso dentro del término de cinco días si se trata de juicio radicado en el mismo lugar de residencia del Supremos Tribunal. En caso contrario al término anterior, el Juez agregará los días necesarios, tomando en cuenta la distancia y demás circunstancias de que se habla en el artículo 184. Entre tanto no transcurra el término del emplazamiento, no podrá iniciarse la substanciación del recurso.
+
+El auto que niegue la admisión del recurso es recurrible en queja.
+
+> <small>(REFORMADO, B.O. 26 DE MAYO DE 1951)</small>
 
 ###### Art. 379.
 
-La parte que venció puede adherirse a la apelación interpuesta al notificársele su admisión o dentro de los tres días siguientes a la notificación del auto en que se admita. En este caso, la adhesión se considerará como una apelación independiente, y el que la hizo valer queda obligado a ocurrir al superior dentro del término señalado en el artículo anterior, siguiente a la fecha de la interposición, presentando el escrito en el que exprese los agravios que en su concepto pueda ocasionarle la resolución recurrida. Los agravios podrán referirse exclusivamente a defectos en la forma o a los fundamentos de la sentencia.
+La parte que venció puede adherirse a la apelación interpuesta al notificársele su admisión o dentro de los tres días siguientes a la notificación del auto en que se admita. En este caso, la adhesión se considerará como una apelación independiente, la cual se tramitará en los términos establecidos en el artículo anterior.
 
 ###### Art. 380.
 
@@ -3417,7 +3423,9 @@ III.- En el efecto preventivo, cuando interpuesta la apelación se mande tenerla
 
 La admisión de la apelación en cualquiera de estos tres efectos, se sujetará a las reglas establecidas en los artículos siguientes.
 
-Si el apelante estima que la apelación fué mal admitida, puede ocurrir ante el superior reclamando la calificación del grado, en el mismo escrito en que exprese agravios.
+> <small>(REFORMADO, B.O. 26 DE MAYO DE 1951)</small>
+
+Si el apelante estima que la apelación fué mal admitida, puede ocurrir ante el superior reclamando la calificación del grado.
 
 ###### Art. 381.
 
@@ -3467,21 +3475,29 @@ III.- El superior, al conocer de la apelación en contra de la sentencia definit
 
 IV.- Las mismas reglas se observarán, en lo conducente, respecto de las apelaciones de autos o interlocutorias en las que el apelante haya preferido esperar la substanciación de la apelación en contra de la sentencia definitiva.
 
+> <small>(REFORMADO, B.O. 26 DE MAYO DE 1951)</small>
+
 ###### Art. 384.
 
-Dentro del término señalado en el artículo 378, siguiente al auto de admisión de la apelación, ya sea en el efecto devolutivo o en el suspensivo, la parte apelante tendrá la obligación de ocurrir ante el superior, formulando por escrito la expresión de los agravios que en su concepto le cause la resolución apelada. Igual obligación corresponderá al apelante adhesivo.
-
-El escrito de expresión de agravio deberá contener una relación clara y precisa de los puntos de la resolución recurrida, que en concepto del apelante le causen agravios, y las leyes, interpretación jurídica y principios generales de derecho que considere que han sido violados por aplicación inexacta o por falta de aplicación. Igualmente será motivo de agravio el hecho de que la sentencia haya dejado de estudiar algunos puntos litigiosos o pruebas rendidas y no sea congruente con la demanda y la contestación y las demás cuestiones debatidas en el juicio. Si hubiere apelación preventiva, deberán también expresarse los agravios que correspondan a la resolución apelada preventivamente, e igual regla se seguirá cuando exista otra apelación por resolución diversa que se haya dejado para decidirse junto con la apelación de la sentencia definitiva, en los casos autorizados por la ley. En el escrito de expresión de agravios deberá, además, indicarse si la parte apelante desea ofrecer prueba con expresión de los puntos sobre que deberá versar, que nunca serán extraños a la cuestión debatida.
+Dentro del término señalado en el artículo 378 para presentarse al Supremo Tribunal a continuar el recurso, podrán reclamar las partes la calificación del grado cuando estimen que la apelación fué mal admitida.
 
 ###### Art. 385.
 
 Para substanciar las apelaciones en segunda instancia, tendrán aplicación las siguientes prevenciones:
 
-I.- Llegados los autos o el testimonio, en su caso, al Supremo Tribunal, sin necesidad de vista o informe, dentro de los ocho días dictará resolución en la que se decidirá sobre la admisión del recurso y la calificación de grado hecha por el juez inferior, resolviendo simultáneamente las reclamaciones que hubiere por apelación mal admitida. Declarada inadmisible la apelación se devolverán los autos al inferior; revocada la calificación, se procederá en consecuencia;
+> <small>(REFORMADA, B.O. 26 DE MAYO DE 1951)</small>
 
-II.- Recibido el escrito de expresión de agravios, se correrá traslado a la contraparte por el término de seis días, durante los cuales estarán los autos a disposición de ésta para que se imponga de ellos;
+I.- Llegados los autos o el testimonio, en su caso, y transcurrido el término concedido a las partes para presentarse a la substanciación del recurso, el Supremo Tribunal, sin necesidad de vista o informe, dentro de los ocho días siguientes al vencimiento del término o a la llegada de los autos o el testimonio, cuando aquél se hubiere vencido antes de ésta, dictará resolución en la que, a petición de parte o de oficio, decidirá sobre la admisión del recurso y la calificación del grado hecha por el inferior. Si declara inadmisible la apelación, mandará devolver los autos al Inferior; revocada la calificación se procederá en consecuencia;
 
-III.- En caso del que el apelante omitiere en el término de ley expresar los agravios, se tendrá por desierto recurso, haciendo la declaración correspondiente al superior a petición de parte;
+> <small>(REFORMADA, B.O. 26 DE MAYO DE 1951)</small>
+
+II.- Admitido el recurso de apelación, a petición de parte serán puestos los autos o el testimonio a disposición del apelante para que exprese agravios por el término de seis días, si se tratare de sentencia definitiva y tres se tratare de interlocutoria o auto. Cuando sean varios los apelantes los autos o el testimonio serán puestos primero a disposición del principal recurrente y después de los demás. El escrito de expresión de agravios deberá contener una relación clara y precisa de los puntos de la resolución recurrida que en concepto del apelante le causen agravio y las leyes, interpretación jurídica y principios generales de derecho que considere han sido violados por aplicación inexacta o por falta de aplicación. Igualmente será motivo de agravio el hecho de que la sentencia haya dejado de estudiar algunos puntos litigiosos o pruebas rendidas y no sea congruente con la demanda y la contestación y las demás cuestiones debatidas en el juicio. Si hubiere habido apelación preventiva deberá también expresarse los agravios que correspondan a la resolución apelada preventivamente e igual regla se seguirá cuando exista otra apelación por resolución diversa que se haya dejado para decidirse junto con la apelación de la sentencia definitiva, en los casos autorizados por la Ley. En el escrito de expresión de agravios, deberá además, indicarse si el apelante desea ofrecer pruebas, expresando los puntos sobre que deberá versar, los que nunca serán extraños a la cuestión debatida.
+
+Del escrito de expresión de agravios deberá acompañarse copia con la que se correrá traslado a la contra-parte por el mismo término concedido al apelante a fin de que conteste lo que a su derecho convenga, quedando entre tanto los autos o el testimonio a su disposición;
+
+> <small>(REFORMADA, B.O. 26 DE MAYO DE 1951)</small>
+
+III.- Si el apelante omitiere expresar los agravios dentro del término concedido, a petición de parte, se tendrá por desierto el recurso, haciéndose la declaración correspondiente por el Supremo Tribunal. El que se desista después de haber expresado agravios será condenado en costas;
 
 IV.- En el escrito de contestación a los agravios, la contraparte se referirá a los expresados por el apelante, y tendrá, además, derecho de ofrecer pruebas, especificando los puntos sobre los que deberá versar, que nunca serán extraños a la cuestión debatida, u oponerse a la pretensión del apelante para que se reciba el pleito a prueba. Igualmente expresará si desea ser oída en estrados. La falta de presentación del escrito de contestación a los agravios, no implicará conformidad de la contraparte con éstos;
 
@@ -8186,3 +8202,9 @@ Lic. Guillermo Acedo Romero.
 Lic. Alberto Gaxiola G.
 
 Lic. Francisco Duarte Porchas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+B.O. 26 DE MAYO DE 1951.
+
+Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
