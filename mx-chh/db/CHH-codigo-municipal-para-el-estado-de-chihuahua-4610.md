@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2001-12-29"
+last_updated: "2002-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2002.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -35,7 +35,7 @@ DECRETO:
 
 DECRETO NO. 850/95 XVIII P.E.
 
-LA QUINCUAGESIMASEPTIMA H. LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, REUNIDA EN SU DECIMO OCTAVO PERIODO EXTRAORDINARIO DE SESIONES, DENTRO DEL TERCER AÑO DE EJERCICIO CONSTITUCIONAL
+LA QUINCUAGESIMA SEPTIMA H. LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, REUNIDA EN SU DECIMO OCTAVO PERIODO EXTRAORDINARIO DE SESIONES, DENTRO DEL TERCER AÑO DE EJERCICIO CONSTITUCIONAL
 
 DECRETA:
 
@@ -201,7 +201,9 @@ XXVI.- GUADALUPE, con cabecera en el pueblo del mismo nombre y las (sic) secció
 
 XXVII.- GUADALUPE Y CALVO.- Con cabecera en el pueblo del mismo nombre y las secciones municipales de Baborigame, Calabacillas, Dolores, Mesa de San Rafael, San Julián, San Juan Nepomuceno, San Simón, Tohayana, Atascaderos y Turuachi;
 
-XXVIII.- GUACHOCHI, con cabecera en el pueblo del mismo nombre y las secciones municipales de Tonachi, Rocheachi, Norogachi, Basiguare y la Ciénega;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+XXVIII.- GUACHOCHI, con cabecera en el pueblo del mismo nombre y las secciones municipales de Tónachi, Rocheachi, Norogachi, Basiguare, La Ciénega y Samachique;
 
 XXIX.- GUAZAPARES, con cabecera en el pueblo de Temoris y las secciones municipales de Guazapares, Monterde y Tepochique;
 
@@ -237,7 +239,9 @@ XLIV.- MATAMOROS; con cabecera en el pueblo denominado Mariano Matamoros;
 
 XLV.- MEOQUI; con cabecera en la ciudad denominada Pedro Meoqui y las secciones municipales de Guadalupe Victoria y Lázaro Cárdenas;
 
-XLVI.- MORELOS; con cabecera en el pueblo del mismo nombre;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+XLVI.- MORELOS, con cabecera en el pueblo del mismo nombre y la sección municipal de El tablón;
 
 XLVII.- MORIS; con cabecera en el pueblo del mismo nombre;
 
@@ -421,9 +425,11 @@ Una vez recibido el informe, el Ayuntamiento acordará la integración de una co
 
 El Presidente Municipal o quien lo sustituya legalmente, lo será del ayuntamiento y tendrá voto de calidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2002)</small>
+
 ###### ARTICULO 21.
 
-Las sesiones de los Ayuntamientos, se celebrarán en la Sala de Cabildo o cuando el caso lo requiera, en el recinto previamente declarado oficial por el propio Ayuntamiento para tal objeto.
+Las sesiones de los Ayuntamientos serán presididas por el Presidente Municipal o quien lo sustituya legalmente y se celebrarán en la sala de cabildo o, cuando el caso lo requiera, en el recinto previamente declarado oficial por el propio Ayuntamiento para tal objeto.
 
 El recinto del Ayuntamiento es inviolable. Toda fuerza pública, está impedida para tener acceso al mismo, salvo con el permiso del Presidente, en cuyo caso, estará a cargo de éste.
 
@@ -1163,7 +1169,9 @@ El Secretario de la Presidencia Municipal, lo será del Ayuntamiento.
 
 Son atribuciones del Secretario:
 
-I.- Concurrir a todas las sesiones del Ayuntamiento, con voz informativa y levantar las actas al terminar cada una de ellas;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+I.- Concurrir a todas las sesiones del Ayuntamiento, únicamente con voz informativa y levantar las actas al terminar cada una de ellas;
 
 II.- Expedir y certificar las copias de documentos oficiales del Municipio y suscribir aquéllos que contengan acuerdos y órdenes del Ayuntamiento y del Presidente Municipal;
 
@@ -1657,13 +1665,13 @@ Los servidores públicos municipales, necesitan licencia del Ayuntamiento para s
 
 Las faltas de los servidores públicos municipales podrán ser temporales o definitivas, siendo las primeras aquéllas que no excedan de quince días.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
+
 ###### ARTICULO 100.
 
-El Presidente Municipal no podrá ausentarse del territorio del Municipio por más de diez días sin permiso del Ayuntamiento; cuando deba ausentarse por un término de diez días o menos, bastará con que dé aviso de su salida a éste.
+El Presidente Municipal no podrá ausentarse del territorio del municipio por más de diez días sin permiso del Ayuntamiento; cuando deba ausentarse por un término de hasta diez días, bastará con que dé aviso de su salida, con el objeto de que el propio Ayuntamiento designe de entre sus regidores, al que deba atender los asuntos de carácter administrativo, hasta el regreso del Presidente Municipal.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 5 DE DICIEMBRE DE 1998)</small>
-
-Cuando el Presidente Municipal salga del territorio municipal dos días o menos tiempo o en días inhábiles para la Administración no es necesario dar aviso al Ayuntamiento, bastará con que dé aviso al Secretario del Ayuntamiento para que éste se encargue del despacho de los asuntos.
+Cuando el Presidente Municipal salga del territorio municipal dos días o menos o en días inhábiles para la administración, bastará con que dé aviso al Secretario para que éste se encargue de atender los asuntos de carácter administrativo, sujetándose a las atribuciones que le otorga la propia ley, sin invadir las facultades que le corresponden al Presidente Municipal. En caso de ser necesario, el Ayuntamiento designará al regidor que se encargue de presidir las sesiones de aquél.
 
 ###### ARTICULO 101.
 
@@ -3128,3 +3136,35 @@ SEGUNDO.- Para la elección de la Junta Municipal en la Sección Municipal de Ig
 P.O. 29 DE DICIEMBRE DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MAYO DE 2002.
+
+DECRETO No. 238/02 II P.O.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MAYO DE 2002.
+
+DECRETO No. 246/02 II P.O.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para la elección de la Junta Municipal en la Sección Municipal de El Tablón, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente y deberá llevarse a cabo la elección dentro de los 180 días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 22 DE MAYO DE 2002.
+
+DECRETO No. 247/02 II P.O.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para la elección de la Junta Municipal en la Sección Municipal de Samachique, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente; y deberá llevarse a cabo la elección dentro de los 180 días siguientes a la entrada en vigor del presente decreto.
