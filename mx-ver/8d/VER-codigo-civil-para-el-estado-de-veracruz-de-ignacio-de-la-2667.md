@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1976-01-01"
+last_updated: "1979-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE ENERO DE 1976.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 1979.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -4081,19 +4081,21 @@ ARTICULO 759
 
 Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Encargado del Registro Civil por el mismo interesado o por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
 
-### CAPITULO XI. De la rectificación de las actas del estado civil
+###### ARTICULO 760
 
-ARTICULO 760
+BIS
 
-La rectificación o modificación de un acta del estado civil, no pueda (sic) hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
+Cuando la rectificación tienda a enmendar yerros o defectos mecanográficos, ortográficos, numéricos y otros meramente accidentales del acta asentada, el que tenga derecho a pedir su corrección podrá acudir ante el Juez del Registro Civil que corresponda, quien oyendo al Ministerio Público acordará lo procedente. Si el acuerdo es negativo, el interesado deberá demandar la rectificación en juicio.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1979)</small>
 
 ARTICULO 761
 
-Ha lugar a pedir la rectificación:
+Ha lugar a demandar la rectificación:
 
-I.- Por falsedad, cuando se alegue que el suceso registrado no pasó;
+I.- Por falsedad, cuando se alegue que el suceso registrado no pasó; y
 
-II.- Por enmienda, cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental.
+II.- Por enmienda, cuando se solicite variar algún nombre u otra circunstancia esencial del acto registrado.
 
 ARTICULO 762
 
@@ -4256,6 +4258,16 @@ ARTICULO 787
 Se equipararán al patrimonio familiar, los solares y casas que sobre ellos se construyan, adquiridos en propiedad por los trabajadores en cumplimiento de las disposiciones contenidas en el Título Cuarto, Capítulo III, de la Ley Federal del Trabajo y por lo tanto, serán intransmisibles y no estarán sujetos a embargo ni gravamen alguno; salvo los gravámenes normales que ocasione el financiamiento respectivo; siempre y cuando los trabajadores voluntariamente y en forma individual soliciten al Ejecutivo del Estado, que su propiedad quede sujeta a este régimen y el gobernador lo autorice, debiendo comunicar oficiosamente su resolución al Registro Público de la Propiedad para su inscripción y anotación marginal de la inscripción del Título de Propiedad; la autorización surtirá efectos, aún cuando las casas se encuentren en proceso de construcción y dejará de surtirlos, si el contrato por el cual adquiere la propiedad el trabajador, es invalidado.
 
 A juicio del Ejecutivo y por causas de extrema necesidad plenamente justificadas, el Gobernador del Estado podrá autorizar la transmisión o gravamen de los inmuebles a que este precepto se refiere, teniendo preferencia para adquirirlos quien sea obrero sin casa-habitación, de la misma empresa en que preste o haya prestado servicios quien se sometió a este régimen y se obligue en los mismos términos.
+
+### CAPITULO XI. De la rectificación de las actas del estado civil
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1979)</small>
+
+ARTICULO 760
+
+La rectificación o modificación de un acta del estado civil, no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo lo dispuesto en el artículo siguiente y el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1979)</small>
 
 ### CAPITULO I. De los bienes inmuebles o raíces
 
@@ -4483,7 +4495,7 @@ La propiedad puede ser ocupada contra la voluntad de su dueño, por causa de uti
 
 ARTICULO 872
 
-Se considerará procedente la expropiación por causa de utilidad pública, siempre que sea indispensable para satisfacer alguna necesidad pública o social, semejante a las que enseguida (sic) se enumeran:
+Se considerará procedente la expropiación por causa de utilidad pública, siempre que sea indispensable para satisfacer alguna necesidad pública o social, semejante a las que en seguida (sic) se enumeran:
 
 I.- Fraccionamiento de latifundios propios para la agricultura o la ganadería;
 
@@ -11217,11 +11229,11 @@ ARTICULO 2251
 
 El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 1959)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1979)</small>
 
 ARTICULO 2252
 
-La venta de todo o parte de un inmueble, cuyo valor fiscal no exceda de cinco mil pesos, podrá hacerse en instrumento privado que firmarán el vendedor y el comprador, ante dos testigos.
+La venta de todo o parte de un inmueble, cuyo valor fiscal no exceda de diez mil pesos, podrá hacerse en instrumento privado que firmarán el vendedor, el comprador y dos testigos y ratificadas las firmas ante Notario Público o un juez municipal.
 
 ARTICULO 2253
 
@@ -11231,19 +11243,19 @@ ARTICULO 2254
 
 De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 1959)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1979)</small>
 
 ARTICULO 2255
 
-Si el valor fiscal del inmueble excede de cinco mil pesos, la venta de todo o parte de él, se hará siempre en escritura pública.
+Si el valor fiscal del inmueble excede de diez mil pesos, su venta se hará en escritura pública.
 
-> <small>(REFORMADO, G.O. 11 DE JUNIO DE 1940)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1979)</small>
 
 ARTICULO 2256
 
-Tratándose de bienes ya inscriptos en el Registro y cuyo valor no exceda de un mil pesos, cuando la venta sea al contado, puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor estén inscriptos los bienes.
+Tratándose de bienes ya inscritos en el Registro y cuyo valor no exceda de cinco mil pesos, cuando el precio se pague al contado, puede hacerse la transmisión del dominio por endoso puesto en el mismo documento que informe del derecho del vendedor a cuyo nombre esté inscrito el bien.
 
-El endoso será ratificado precisamente ante el registrador, quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compra-venta realizada en esta forma, hará una nueva inscripción de los bienes vendidos en favor del comprador.
+El endoso será ratificado precisamente ante el Registrador, quien tiene la obligación de cerciorarse de la identidad de las partes y de la autenticidad de sus firmas y previo pago de los impuestos correspondientes a la compraventa realizada en esta forma hará una nueva inscripción en favor del comprador.
 
 ARTICULO 2257
 
@@ -15180,3 +15192,19 @@ G.O. 1 DE ENERO DE 1976.
 ###### ARTICULO UNICO.
 
 Estas reformas y adiciones entrarán en vigor el día de su publicación, en la "Gaceta Oficial" del Estado.
+
+G.O. 29 DE DICIEMBRE DE 1979.
+
+LEY 618
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor tres días después de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 29 DE DICIEMBRE DE 1979.
+
+LEY 619
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor a partir del día siguiente de su publicación en la "Gaceta Oficial", órgano del Gobierno del Estado.
