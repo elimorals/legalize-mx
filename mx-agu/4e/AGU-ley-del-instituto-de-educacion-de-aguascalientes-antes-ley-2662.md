@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-educacion-de-aguascalientes-antes-ley-2662
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-07"
-last_updated: "2003-02-17"
+last_updated: "2004-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2004.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -61,7 +61,9 @@ El Instituto que se crea con la presente Ley, tendrá personalidad jurídica y p
 
 El objeto del Instituto será:
 
-I.- Asumir la responsabilidad política y la dirección relacionada con los servicios de educación básica, preescolar, primaria y secundaria, de educación normal y demás relativos para la formación y actualización de docentes, así como la educación especial, inicial, física y misiones culturales en el Estado de Aguascalientes, y los que en su oportunidad se decida sean incorporados, acatando lo dispuesto por el Artículo 5o. de la Ley Federal de Educación;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2004)</small>
+
+I.- Asumir la responsabilidad política y la dirección relacionada con los servicios de educación básica, preescolar, primaria y secundaria, de educación normal y demás relativos para la formación y actualización de docentes, así como la educación especial, inicial, física y misiones culturales en el Estado de Aguascalientes, y los que en su oportunidad se decida sean incorporados, acatando lo dispuesto por el Artículo 7o. de la Ley General de Educación;
 
 II.- Planear, programar, organizar, supervisar y evaluar las Instituciones de Educación Media, incluyendo todas aquellas modalidades propedéuticas, terminales o bivalentes cuya Dirección la Federación transfiera al Estado, con el objeto de que este nivel se integre eficazmente a los niveles de enseñanza básica y superior y, en su caso, al mercado de trabajo;
 
@@ -314,3 +316,7 @@ P.O. 17 DE FEBRERO DE 2003.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JUNIO DE 2004.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
