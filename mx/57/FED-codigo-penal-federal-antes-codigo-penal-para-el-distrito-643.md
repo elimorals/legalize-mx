@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1981-12-29"
+last_updated: "1982-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ENERO DE 1982.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -1213,7 +1213,7 @@ Cuando durante una rebelión se cometan los delitos de homicidio, robo, secuestr
 
 Los rebeldes no serán responsables de los homicidios ni de las lesiones inferidas en el acto de un combate, pero de los que se causen fuera del mismo, serán responsables tanto el que los mande como el que los permita y los que inmediatamente los ejecuten.
 
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 138.
 
@@ -1505,11 +1505,11 @@ Se llaman caminos públicos las vías de tránsito habitualmente destinadas al u
 
 Al que quite, corte o destruya las ataderas que detengan una embarcación u otro vehículo, o quite el obstáculo que impida o modere su movimiento, se le aplicará prisión de quince días a dos años si no resultare daño alguno; si se causare se aplicará además la sanción correspondiente por el delito que resulte.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1951) (F. DE E., D.O.F. 31 DE MAYO DE 1956)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE ENERO DE 1982)</small>
 
 ###### ARTICULO 167.
 
-Se impondrán de tres días a cuatro años de prisión y multa de cincuenta a quinientos pesos:
+Se impondrá de uno a cinco años de prisión y multa de quinientos a cincuenta mil pesos:
 
 I.- Por el solo hecho de quitar o modificar sin la debida autorización: uno o más durmientes, rieles, clavos, tornillos, planchas y demás objetos similares que los sujeten, o un cambiavías de ferrocarril de uso público;
 
@@ -1528,6 +1528,10 @@ VII.- Al que destruya en todo o en parte o paralice por otro medio de los especi
 > <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 1951)</small>
 
 VIII.- Al que con objeto de perjudicar o dificultar las comunicaciones, modifique o altere el mecanismo de un vehículo haciendo que pierda potencia, velocidad o seguridad.
+
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 1982)</small>
+
+IX.- Al que dolosa e indebidamente intervenga la comunicación telefónica de terceras personas.
 
 ###### ARTICULO 168.
 
@@ -3952,3 +3956,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO 2o.
 
 Respecto a las personas que se encuentren procesadas o sentenciadas el día que entre en vigor el presente Decreto se estará a lo dispuesto en el Artículo 56 del propio Código Penal para el Distrito Federal en Materia del Fuero Común y para toda la República en Materia del Fuero Federal.
+
+D.O.F. 11 DE ENERO DE 1982.
+
+UNICO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
