@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "1999-10-20"
+last_updated: "1999-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE DICIEMBRE DE 1999.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -709,7 +709,7 @@ Las comisiones jurisdiccionales serán las siguientes:
 
 Su integración, atribuciones y funcionamiento se regirán por lo previsto en la ley y en las disposiciones legales relativas.
 
-> <small>(REFORMADO, G.G. 9 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 76.
 
@@ -719,6 +719,8 @@ Administración;
 
 Biblioteca y Asuntos Editoriales;
 
+Gestoría y Quejas;
+
 Corrección de Estilo;
 
 Estudios Legislativos;
@@ -727,11 +729,17 @@ De la Mujer;
 
 De la Juventud y el Deporte;
 
-De Comunicación Social.
+De Comunicación Social;
+
+De información y Seguimiento Presupuestal.
 
 La Asamblea podrá integrar otros comités que considere necesarios con el carácter de permanentes o transitorios.
 
 Los comités se integrarán en forma similar a las comisiones de dictamen y sólo emitirán opiniones, proposiciones, informes y recomendaciones de los asuntos que les sean encomendados.
+
+> <small>(ADICIONADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+
+El Comité de Información y Seguimiento Presupuestal, se integrará por los presidentes de las comisiones de dictamen de Finanzas Públicas, de Planeación y Gasto Público y de Inspección de la Contaduría General de Glosa.
 
 ###### Artículo 77.
 
@@ -994,3 +1002,11 @@ Publíquese el presente decreto en la "Gaceta del Gobierno".
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 24 DE DICIEMBRE DE 1999.
+
+PRIMERO.- Procédase a la declaratoria de aprobación de las reformas.
+
+SEGUNDO.- Publíquese en la Gaceta del Gobierno.
+
+TERCERO.- Este decreto entrará en vigor al día siguiente de su publicación.
