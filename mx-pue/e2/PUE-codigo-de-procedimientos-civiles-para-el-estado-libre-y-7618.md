@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-7618"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-18"
-last_updated: "1986-11-18"
+last_updated: "1989-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 1989.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 18 de noviembre de 1986.
 
@@ -7443,11 +7443,15 @@ El juicio de rectificación a que se refieren los artículos 930 a 935 del Códi
 
 En el juicio de rectificación, además de citar a los interesados que sean conocidos, se emplazará también, mediante edictos, como dispone el artículo 50, a quienes tengan interés en contradecir la demanda.
 
-### CAPITULO VIGESIMO CUARTO. INSCRIPCION DEL NACIMIENTO DE UNA PERSONA DE MAS DE SIETE AÑOS DE EDAD
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE JULIO DE 1989)</small>
+
+### CAPITULO VIGESIMO CUARTO. INSCRIPCION DEL NACIMIENTO DE UNA PERSONA DE MAS (SIC) DIECIOCHO AÑOS
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 1989)</small>
 
 ###### Artículo 1300.
 
-Quien pretenda inscribir, en el Registro del Estado Civil el nacimiento de una persona mayor de siete años, promoverá ante el Juez de lo Familiar del lugar en que se haya efectuado el nacimiento, la autorización para hacer tal inscripción.
+Quien pretenda inscribir, en el Registro del Estado Civil el nacimiento de una persona mayor de dieciocho años, promoverá ante el Juez de lo Familiar del lugar en que se haya efectuado el nacimiento, la autorización para hacer tal inscripción.
 
 ###### Artículo 1301.
 
@@ -8510,3 +8514,11 @@ Los recursos interpuestos antes de la vigencia de este Código se admitirán y t
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los Cuatro días del mes de Septiembre de Mil Novecientos Ochenta y Seis.- Presidente.- Dip. Lic. Antonio Hernández y Genis.- Rúbrica.- Secretario.- Dip. Lic. Jesús Antonio Carlos Hernández.- Rúbrica.- Secretario.- Dip. Dr. Angel Ricaño Bustillos.- Rúbrica.
 
 Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los dos días del mes de octubre de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado.- Lic. Guillermo Jiménez Morales.- Rúbrica.- El Secretario de Gobernación.- Lic. Humberto Gutiérrez Manzano.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 28 DE JULIO DE 1989.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos judiciales que se hayan iniciado antes de la vigencia del presente, continuarán hasta su conclusión de acuerdo a la legislación bajo cuyo imperio se iniciaron.
