@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1975-03-24"
+last_updated: "1975-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 1975.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -277,9 +277,9 @@ I. El Gobernador del Estado.
 
 II. Los Ministros de cualquier culto.
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1948)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 1975)</small>
 
-III. El Secretario General, el Oficial Mayor, los Magistrados del Tribunal Superior, el Procurador de Justicia del Estado y los funcionarios de la Federación, residentes en el Estado, que no se hayan separado de sus respectivos cargos cuando menos noventa días antes de la elección.
+III. Los Secretarios de Despacho, los Magistrados del Tribunal Superior, el Procurador de Justicia del Estado y los Funcionarios de la Federación, residentes en el Estado, que no se hayan separado de sus respectivos cargos, cuando menos noventa días antes de la elección.
 
 IV. Los Jueces de Primera Instancia y los Administradores de Rentas, en la circunscripción en que ejerzan sus funciones; y los Presidentes Municipales, en el Distrito de que forme parte el Municipio de su jurisdicción: si no se han separado unos y otros de sus cargos, cuando menos noventa días antes de la elección.
 
@@ -545,9 +545,9 @@ I. Los Ministros de cualquier culto.
 
 II. El Gobernador Substituto Constitucional y el designado para concluir el período en caso de falta absoluta del Constitucional, aun cuando tenga distinta denominación, y el Gobernador Interino, el Provisional o el Ciudadano que, bajo cualquiera denominación, supla las faltas temporales del Gobernador siempre que desempeñe el cargo en los dos últimos años del período.
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 1975)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 1975)</small>
 
-III. El Oficial Mayor, los Magistrados del Tribunal Superior, el Procurador General de Justicia del Estado y los funcionarios de la Federación con residencia y funciones dentro del mismo Estado, que no se hayan separado de sus respectivos cargos, cuando menos seis meses antes de la elección.
+III. Los Secretarios de Despacho, los Magistrados del Tribunal Superior, el Procurador de Justicia del Estado y los Funcionarios de la Federación, con residencia y funciones dentro del mismo Estado, que no se hayan separado de sus respectivos cargos, cuando menos seis meses antes de la elección.
 
 > <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 1932)</small>
 
@@ -611,7 +611,9 @@ III. Cuidar de que se instruya la Guardia Nacional, de acuerdo con lo previsto e
 
 IV. Pedir al Congreso de la Unión el consentimiento a que se refiere la fracción II del Artículo 118 de la Constitución General;
 
-V. Informar al Congreso por conducto del Secretario General sobre cualquier ramo de la administración, cuando el mismo Congreso lo solicite;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 1975)</small>
+
+V. Informar al Congreso por escrito o verbalmente por conducto del Secretario del Ramo, sobre los asuntos de la Administración cuando el mismo Congreso lo solicite;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1973)</small>
 
@@ -629,7 +631,9 @@ XI. Nombrar y remover libremente al personal de la Policía Municipal del lugar 
 
 XII. Resolver las dudas que tuvieren los Agentes de la Administración Pública sobre la aplicación de las Leyes a casos particulares;
 
-XIII. Nombrar y remover libremente al Secretario General del Gobierno, al Oficial Mayor del mismo, al Procurador General de Justicia del Estado, a los Agentes del Ministerio Público y a todos los empleados que conforme a la Constitución y a las Leyes, no deban ser nombrados por otra autoridad;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 1975)</small>
+
+XIII. Nombrar y remover libremente a los Secretarios de Despacho y al Procurador General de Justicia del Estado, a los Agentes del Ministerio Público y a todos los empleados y Funcionarios que conforme a la Constitución y a las Leyes, no deban ser nombrados por otra autoridad;
 
 XIV. Nombrar a los Magistrados del Tribunal Superior de Justicia con la aprobación del Congreso o de la Diputación Permanente, en su caso y sin esa aprobación, a los magistrados provisionales del mismo Tribunal o magistrados supernumerarios, cuando a juicio de él y del Tribunal, así lo requiera la expedita administración de justicia, Los Magistrados supernumerarios, los podrá suprimir el Gobernador del Estado, cuando las circunstancias que los crearon hayan desaparecido, de acuerdo al propio Tribunal;
 
@@ -669,13 +673,23 @@ XXX. Tomar las medidas de carácter urgente que sean necesarias, cuando en el Es
 
 XXXI. Las demás que le confiera esta Constitución y la General de la República; (sic)
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE SEPTIEMBRE DE 1975)</small>
+
 ###### Artículo 54.
 
-Para el despacho de los negocios del Ejecutivo habrá un Funcionario que se denominará "Secretario General del Gobierno."
+Para el Despacho de los negocios del Ejecutivo, habrá tres funcionarios, que se denominarán:
+
+I. Secretario de Gobierno.
+
+II. Secretario de Administración y Finanzas
+
+III. Secretario de Desarrollo Económico y Social.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1975)</small>
 
 ###### Artículo 55.
 
-Para ser Secretario General del Gobierno, se requiere:
+Para ser Secretario de Despacho se requiere:
 
 I. Ser Mexicano por nacimiento.
 
@@ -683,27 +697,29 @@ II. Ser ciudadano del Estado en ejercicio de sus derechos políticos.
 
 III. Ser mayor de 25 años.
 
-IV. Ser Abogado con titulo legal.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1975)</small>
 
 ###### Artículo 56.
 
-No podrán ser Secretario General del Gobierno, los Ministros de cualquier culto.
+No podrán ser Secretario de Despacho, los Ministros de cualquier culto.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1975)</small>
 
 ###### Artículo 57.
 
-El Secretario General es el órgano de comunicación entre el Gobernador y las autoridades y empleados del Estado. Todas las leyes y decretos del Congreso, los reglamentos, acuerdos, órdenes y demás disposiciones del Gobernador del Estado, deberán ir firmados por el Secretario General. Sin este requisito no deberán ser obedecidos.
+Al Secretario de Gobierno, corresponde firmar todas las leyes y reglamentos expedidos por el Congreso que hayan sido sancionados por el Titular del Ejecutivo, así como los decretos que éste emita.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1975)</small>
 
 ###### Artículo 58.
 
-Además del Secretario General de Gobierno, habrá un Oficial Mayor para cuyo nombramiento son aplicables las disposiciones de los artículos 55 y 56 anteriores, excepto la consignada en la fracción IV del artículo 55. Para el despacho de los negocios del orden administrativo del Estado, habrá el número de dependencias que establezca el Congreso por una Ley, la que distribuirá los negocios que han de estar a cargo de cada Oficina. Las faltas temporales del Secretario General serán suplidas por el Oficial Mayor, que ejercerá además las funciones que determine al Ley.
+Las faltas temporales de los Secretarios de Despacho serán suplidas de conformidad a lo establecido por la Ley Orgánica del Poder Ejecutivo.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1945)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1975)</small>
 
 ###### Artículo 59.
 
-El Secretario General así como el Oficial Mayor, no pueden desempeñar los oficios de abogado o apoderado en negocios ajenos ante las autoridades del Estado.
+Los Secretarios de Despacho no podrán desempeñar las actividades de Abogado, de Apoderado o de Gestor en toda clase de negocios ante las Autoridades del Estado.
 
 > <small>(ADICIONADO [N. DE E. REUBICADO ANTES TITULO VI], P.O. 1 DE FEBRERO DE 1970)</small>
 
@@ -713,7 +729,9 @@ El Ministerio Público, como representante del interés social, es la instituci�
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
-### CAPITULO II. DEL SECRETARIO GENERAL
+### CAPITULO II. DE LOS SECRETARIOS DE DESPACHO
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1975)</small>
 
 ###### Artículo 61.
 
@@ -947,9 +965,11 @@ III. De las multas que conforme a las leyes deben ingresar al Estado.
 
 IV. De las donaciones, legados y herencias que se hagan al tesoro público.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1975)</small>
+
 ###### Artículo 84.
 
-En la Secretaría General habrá una Sección encargada de la Tesorería y a la que ingresaran real o virtualmente, todos los fondos del Estado.
+En la Secretaria de Administración y Finanzas, habrá una Sección encargada de la Hacienda Pública a la que ingresarán real o virtualmente todos los Fondos del Estado.
 
 ###### Artículo 85.
 
@@ -981,9 +1001,11 @@ Los funcionarios del Estado y los municipales, son responsables de los delitos c
 
 El Gobernador durante el periodo de su encargo, no podrá ser acusado, sino por violación expresa de esta Constitución, a las leyes electorales o por delitos graves del orden común.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1975)</small>
+
 ###### Artículo 91.
 
-En los delitos del orden común que cometiere el Gobernador, el Secretario General, los Diputados, los Magistrados y el Procurador General, el Congreso erigido en Gran Jurado, declarara por mayoría de votos del número total de sus miembros y en la forma y términos que determine la ley, si ha lugar a formación de causa. En caso negativo, cesara todo procedimiento contra el acusado; pero tal determinación no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución de la Cámara no prejuzga de los fundamentos de la acusación. En el afirmativo, quedara el funcionario suspenso en su encargo y sujeto a los Tribunales comunes.
+En los delitos del orden común que cometiere el Gobernador, los Secretarios de Despacho, los Diputados, los Magistrados y el Procurador General, el Congreso erigido en gran jurado, declarará por mayoría de votos del número total de sus miembros y en la forma y términos que determine la Ley, si ha lugar a formación de causa, en caso negativo, cesará todo procedimiento contra el acusado; pero tal determinación no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución de la Cámara no prejuzga los fundamentos de la acusación. En el afirmativo, quedará el funcionario suspendido en su cargo y sujeto a los tribunales comunes.
 
 ###### Artículo 92.
 
@@ -1150,6 +1172,10 @@ Se derogan todas las Leyes y disposiciones que estén en contradicción con las 
 ###### Artículo 2o.
 
 Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE SEPTIEMBRE DE 1975.
+
+Unico.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### Artículo 3o.
 
