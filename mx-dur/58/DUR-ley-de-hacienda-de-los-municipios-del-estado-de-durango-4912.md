@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "1988-03-06"
+last_updated: "1988-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1988.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -1003,9 +1003,11 @@ El objeto de este impuesto es la obtención del ingreso por el boleto o contra s
 
 Son sujetos de este impuesto las personas físicas, morales o unidades económicas que habitual, o accidentalmente organicen, exploten o patrocinen diversiones y espectáculos públicos, aún cuando no se tenga propósito de lucro.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE JULIO DE 1988)</small>
+
 ###### ARTICULO 85.
 
-Para los efectos de este impuesto, se entiende por diversión y espectáculos públicos, toda función teatral, cinematográfica deportiva o de cualquier otra índole, que se verifique en salones, teatro, plazas, calles, locales, abiertos o cerrados en donde se reúnan los asistentes con el propósito de esparcimiento. No se consideran espectáculos públicos los presentados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
+Para los efectos de este impuesto, se entiende por diversión y espectáculos públicos, toda función teatral, cinematográfica, deportiva o de cualquier otra índole que se verifique en salones, teatro, plazas, calles, locales, abiertos o cerrados en donde se reúnan los asistentes con el propósito de esparcimiento. En el caso de que estos eventos sean presentados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos sin un fin específico de lucro, no se considerarán como espectáculos públicos.
 
 ###### ARTICULO 86.
 
@@ -2811,7 +2813,7 @@ I.- Comercio e Industria.
 
 1.- Por ocupación de puestos o superficies de los mercados, de uno a veinte salarios mínimos.
 
-2.- Puestos fijos o semi-fijos fuera de los mercados, de 0.5 a 10 salarios mínimos.
+2.- Puestos fijos o semi–fijos fuera de los mercados, de 0.5 a 10 salarios mínimos.
 
 3.- Comerciantes ambulantes, de 0.25 a 1 salario mínimo.
 
@@ -3145,9 +3147,7 @@ Serán ingresos municipales de los denominados aprovechamientos:
 
 3.- Rezagos;
 
-4.- Fianzas que se hagan efectivas a favor del Municipio por resolución firme de Autoridad
-
-competente;
+4.- Fianzas que se hagan efectivas a favor del Municipio por resolución firme de Autoridad competente;
 
 5.- Donativos y Aportaciones;
 
@@ -3254,3 +3254,9 @@ Por tanto mando se imprima, publique circule y comuníquese a quienes correspond
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los cuatro días del mes de Febrero de mil novecientos ochenta y Ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSE RAMIREZ GAMERO. EL SECRETARIO GENERAL DE GOBIERNO. LIC. GUSTAVO RIVERA RAMOS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE JULIO DE 1988.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
