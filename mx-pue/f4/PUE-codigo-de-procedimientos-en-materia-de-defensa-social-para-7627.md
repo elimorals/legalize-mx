@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2002-09-04"
+last_updated: "2002-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2002.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1907,7 +1907,7 @@ El Agente del Ministerio Público y la Defensa, tendrán derecho de interrogar a
 
 ###### Artículo 208.
 
-En los casos en que el delito, por no merecer sanción corporal y por merecer sanción alternativa que incluya una no corporal, no dé lugar a detención, a pedimento del Ministerio Público se librará orden de comparencia (sic) en contra del indiciado para que rinda su declaración preparatoria, siempre que esté comprobado el cuerpo del delito y la probable responsabilidad del mismo.
+En los casos en que el delito, por no merecer sanción corporal y por merecer sanción alternativa que incluya una no corporal, no dé lugar a detención, a pedimento del Ministerio Público se librará orden de comparencia en contra del indiciado para que rinda su declaración preparatoria, siempre que esté comprobado el cuerpo del delito y la probable responsabilidad del mismo.
 
 ###### Artículo 209.
 
@@ -3159,6 +3159,10 @@ La resolución que conceda o niegue la libertad a que se refiere este Capítulo,
 
 ### CAPITULO QUINTO.- EJECUCION DE LA SENTENCIA
 
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 384.
 
 La ejecución de las sentencias irrevocables, en materia de Defensa Social, salvo los casos a que se refieren los dos artículos siguientes, corresponde al Poder Ejecutivo del Estado, de acuerdo con la Ley de Ejecución de Sanciones Privativas de la Libertad.
@@ -3200,6 +3204,10 @@ En las sentencias condenatorias, se prevendrá que se amoneste al reo para que n
 ###### Artículo 389.
 
 En la sanción de prisión que imponga una sentencia, se computará el tiempo de la prisión preventiva.
+
+#### SECCION SEGUNDA. PROCEDIMIENTO
+
+> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 390.
 
@@ -3246,6 +3254,166 @@ El aseguramiento de bienes para garantizar el pago de la responsabilidad civil p
 ###### Artículo 394.
 
 La apelación interpuesta por el ofendido o su representante en los casos establecidos en este Código de Procedimientos en Materia de Defensa Social, sólo puede versar sobre cuestiones relativas a la reparación del daño proveniente del delito.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+### CAPITULO SEPTIMO. MEDIACION
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+#### SECCION TERCERA. CONVENIO
+
+> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 395.
+
+La mediación tiene por objeto que el querellante y el inculpado, asistidos de una autoridad mediadora, encuentren formas alternativas de solución al conflicto de índole penal que diriman ante los órganos de procuración e impartición de justicia, con el fin de que logren un acuerdo que termine con la prosecución procesal.
+
+La mediación será procedente únicamente en delitos de querella necesaria.
+
+> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 396.
+
+Serán autoridades mediadoras:
+
+I.- Los Agentes del Ministerio Público Mediadores nombrados por la Procuraduría General de Justicia;
+
+II.- Los Agentes del Ministerio Público que integren Averiguaciones Previas, y
+
+III.- Los Jueces competentes en Materia de Defensa Social del Tribunal Superior de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 397.
+
+Son obligaciones de las autoridades mediadoras:
+
+I.- Guardar la confidencialidad de los asuntos y comentarios vertidos en el procedimiento de mediación y con motivo de éste;
+
+II.- Conservar una actitud neutral ante las partes, actuando con objetividad y sin favorecer especialmente a una de ellas;
+
+III.- Propiciar las condiciones idóneas para el diálogo directo entre las partes, tendientes a la solución del conflicto;
+
+IV.- Evitar el exceso de formalismo y la dilación de los asuntos;
+
+V.- Estar presentes en las audiencias del procedimiento en que intervenga;
+
+VI.- Vigilar que los términos y condiciones que pacten las partes sean claros, determinados y ciertos, dejando el menor espacio posible a la interpretacón;
+
+VII.- Procurar su capacitación y actualización constante en materia de mediación, y
+
+VIII.- Las demás que determinen las leyes.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 398.
+
+El Agente del Ministerio Público investigador recibirá la denuncia conforme los artículos 61, 62 y relativos de este Código, y si es que la conducta descrita pudiese encuadrar en la descripción de un delito perseguible únicamente a petición del ofendido, procederá como sigue;
+
+I.- Hará del conocimiento del querellante y del inculpado si lo hubiere, de la mecánica del procedimiento de mediación y que el mismo deberá ser agotado en forma previa a la investigación del ilícito;
+
+II.- Se remitirá una copia certificada de las actuaciones al Ministerio Público Mediador;
+
+III.- Podrán participar en la mediación personas con capacidad de ejercicio. En caso de que el inculpado no tenga esta capacidad se mediará con quien resulte ser legalmente su representante, sin que otros casos (sic) se admita la intervención de mandatarios, a menos que se trate de personas jurídicas; y,
+
+IV.- No se aplicará lo dispuesto por este artículo en los casos en que haya ocurrido detención en flagrancia del presunto responsable o cuando el agraviado esté inconsciente o no pueda declarar.
+
+> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 399.
+
+A la llegada de los autos, el Ministerio Público Mediador redicará el expediente y citará a una audiencia al querellante y al inculpado, haciéndoles saber claramente en el citatorio que se desahogará una diligencia de mediación, a la cual podrán asistir con o sin persona que los represente.
+
+El citatorio deberá indicar el día, hora y lugar determinado para la audiencia, el nombre y cargo de la autoridad mediadora, debiéndose hacer la entrega de este citatorio conforme a lo dispuesto en este Código con al menos cinco días hábiles de anticipación a la audiencia.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 400.
+
+El procedimiento que se seguirá en la primera audiencia de mediación será el siguiente:
+
+I.- Si sólo comparece el querellante o el inculpado, se suspenderá la audiencia, dejando razón de ello y se citará para una nueva fecha;
+
+II.- Si comparecen ambas partes, previa identificación de las mismas, se les hará saber los objetivos, los beneficios y la mecánica del procedimiento de mediación;
+
+III.- Si iniciada la audiencia algunos de los comparecientes manifestaren su deseo de no participar en el procedimiento de mediación, la autoridad mediadora los invitará a que reconsideren su posición y en caso de que persistan, se dará por concluida la audiencia en lo concerniente a ellos, levantándose constancia de este hecho. Asimismo se les informará que subsiste la posibilidad de reiniciar la mediación en las diversas etapas del procedimiento en materia de defensa social;
+
+IV.- Si dentro de los que accedieren a participar se encuentran al menos un querellante y el inculpado, o si fueran varios inculpados, todos ellos, se reanudará el procedimiento de mediación con los aceptantes, procediéndose a dar lectura de la síntesis del expediente del que se desprenda la mediación. En caso de no encontrarse presentes los interesados señalados se declarará desierta la mediación;
+
+V.- Las partes fijarán sus posiciones, procurando el mediador una comunicación directa y efectiva entre ellas, que les conduzca a establecer opciones, alternativas o acuerdos que tengan como finalidad la solución del conflicto;
+
+VI.- De no existir acuerdo en la primera audiencia, se señalará día y hora para una nueva, sin que exista un periodo mayor a quince días hábiles entre ellas, a menos que en forma expresa así lo soliciten las partes; y
+
+VII.- Se realizarán tantas sesiones como las partes consideren necesarias para llegar a una conclusión sobre la posibilidad de solucionar el conflicto vía la mediación.
+
+> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 401.
+
+La inasistencia de alguna de las partes a cualquiera de las citaciones dará lugar a que el mediador cite de oficio por segunda ocasión. Si el faltista nuevamente no asiste a la audiencia sin justificación y hubiera sido citado legalmente, se declarará desierta la mediación, salvo que la parte que sí asista solicite que se fije un nuevo día y hora para la audiencia.
+
+En caso de que se declare desierta la mediación o no haya sido posible lograr un acuerdo que termine con la prosecución procesal, se remitirá la indagatoria a la Agencia de origen para que se continúe con la integración de la misma.
+
+> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 402.
+
+Sobre las actuaciones que se realicen durante el procedimiento, recaerá un acta circunstanciada que levantará la autoridad mediadora, cumpliendo con los requisitos que señalan los artículos 20 y 21 de este Código.
+
+Se harán constar en el acta los resultados de la diligencia, siendo éstos solamente los puntos acordados entre las partes, la cita para una nueva audiencia, la suspensión del procedimiento o la declaración de mediación desierta y en su caso, el convenio al que lleguen para concluir el asunto.
+
+> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 403.
+
+Quedará bajo la responsabilidad del mediador evitar que durante el procedimiento de mediación, en las actuaciones o el convenio, se asienten frases relativas al reconocimiento de responsabilidad, de la participación, retractaciones o equivalentes. En caso de no cumplir con esta disposición dichas frases se tendrán por no puestas.
+
+> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+
+###### Articulo 404.
+
+El procedimiento de mediación no podrá exceder de tres meses, a menos que así lo acuerden expresamente las partes.
+
+La iniciación del procedimiento de mediación no interrumpe ni suspenden las prescripciones señaladas en este Código.
+
+> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 405.
+
+La autoridad encargada de la tramitación de la Averiguación Previa o el proceso, en la primera actuación con el querellante o el inculpado, hará de su conocimiento que está abierta la posibilidad de mediación durante todo el procedimiento.
+
+En el momento en que alguna de las partes manifestara su interés de mediar, la autoridad citará a una audiencia, actuando como ordenan los artículos 400, 401 primer párrafo, 402, 403 y 404 de este Código, pudiendo suspender la tramitación que se siguiere, si el querellante y el inculpado así lo acordaran.
+
+(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2002) (F. DE E., P.O. 24 DE MARZO DE 2003)
+
+###### Artículo 406.
+
+El convenio derivado del procedimiento de mediación, que pretenda terminar con las posibilidades de prosecución procesal, surtirá los siguientes efectos:
+
+I.- Al momento de la suscripción del convenio y hasta el día siguiente del plazo convenido para su cumplimiento, suspenderá la tramitación procesal;
+
+II.- Al total cumplimiento del mismo, tendrá los efectos de perdón del ofendido, y
+
+III.- En caso del incumplimiento o del cumplimento fuera del plazo y forma establecidos convencionalmente, se dictarán los acuerdos necesarios para la continuación de los procedimientos que se hubieran suspendido.
+
+> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 407.
+
+A efecto de verificar el cumplimiento de lo acordado, desde el convenio se citará a una audiencia que tendrá verificativo al día hábil siguiente del vencimiento del plazo, apercibiendo al querellante de no asistir o de no hacer manifestación alguna dentro de los tres días posteriores a la misma, se tendrá por cumplido en su totalidad el convenio.
+
+> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 408.
+
+En caso de que alguno de los contratantes alegue el incumplimiento de lo convenido, se citará a una nueva audiencia en la que se oirá a las partes, quienes podrán presentar las pruebas para acreditar su dicho, debiendo resolver la autoridad mediadora sobre el cumplimiento en esa misma sesión.
+
+> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 409.
+
+Cumplidos los acuerdos establecidos en el convenio, se dictará una resolución de archivo definitivo, y en el caso previsto en el artículo 398, se remitirán las actuaciones al Ministerio Público que recibió la querella, para este mismo efecto.
 
 TRANSITORIOS:
 
@@ -3356,3 +3524,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
