@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-reforma-agraria-582"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1971-04-16"
-last_updated: "1976-06-29"
+last_updated: "1981-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=582&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1971-03-22"
 
 LEY FEDERAL DE REFORMA AGRARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ENERO DE 1981.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 16 de abril de 1971.
 
@@ -1299,6 +1299,10 @@ Cuando la organización de la producción no se haya integrado en un sistema col
 
 Cuando en un ejido en el que las tierras agrícolas se trabajen en forma individual, dos o más ejidatarios acuerden trabajar en común sus unidades de dotación, estos mismos llevarán los controles y registros a que se refiere el artículo 141 a fin de que los interesados participen, en forma proporcional a su trabajo, de la producción que obtengan.
 
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 1981)</small>
+
+Cuando se trate del trabajo en común de terrenos con superficie menor al mínimo señalado por el Artículo 220, los Ejidatarios y Comuneros tendrán la preferencia de apoyo técnico y financiero de las instituciones oficiales correspondientes.
+
 ###### ARTICULO 137.
 
 El aprovechamiento de los bienes de uso común, en los ejidos deberá determinarse de acuerdo con las condiciones de los mismos y por las normas que dicte la Asamblea General, pero en todo caso quienes los aprovechen están obligados a aportar su trabajo personal para mantenerlos en buen estado productivo.
@@ -1324,6 +1328,10 @@ b) Tratándose de maderas vivas que deban utilizarse en la construcción de habi
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 c).- La explotación comercial de los montes o bosques propiedad de ejidos o comunidades agrícolas o forestales, así como la transformación industrial de sus productos, deberá hacerse directamente por el ejido o comunidad, previo acuerdo de la Asamblea General. Cuando las inversiones que se requieran rebasen la capacidad económica del ejido o comunidad, si alguna empresa oficial o de participación estatal, en primer lugar, o alguna empresa privada, ofreciere condiciones ventajosas para el ejido o comunidad, podrá la Asamblea acorda (sic) la explotación conforme a contratos debidamente autorizados por la Secretaría de la Reforma Agraria, siempre que garanticen plenamente los intereses de ejidatarios o comuneros.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 1981)</small>
+
+Los contratos a que se refiere el párrafo anterior podran celebrarse por el tiempo que en cada caso se autorice por la Secretaría de la Reforma Agraria, cuando se trate de explotaciones forestales que impliquen la siembra y cultivo del bosque para el incremento de la producción forestal, siempre que exista un mínimo de condiciones ventajosas por las que los ejidos o comunidades participen cuando menos con el 50% del capital social de las empresas, con derecho a designar los consejeros correspondientes y un representante, sin perjuicio de que reciban el pago por la entrega de materia prima a precios de mercado.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
 
@@ -1943,6 +1951,10 @@ En caso de que en los terrenos afectables pueda desarrollarse económicamente un
 
 Cuando las tierras de cultivo o cultivables no sean suficientes para satisfacer las necesidades del núcleo de población, ni haya tierras cuyos recursos puedan explotarse en los términos del párrafo anterior, los derechos de los individuos no beneficiados quedarán a salvo para ser satisfechos por los medios que esta Ley establece.
 
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 1981)</small>
+
+Los individuos con derechos a salvo no perderán esa calidad en los casos en que, de acuerdo con las disposiciones de la Ley de Fomento Agropecuario, sean preferidos para el aprovechamiento de tierras declaradas ociosas. En el caso de que el campesino se encuentre ocupado en el aprovechamiento de tierras ociosas y simultáneamente se le conceda una unidad de dotación, se incorporará al pleno ejercicio de sus derechos agrarios, una vez cumplido el contrato de aprovechamiento de tierras ociosas, pero podrá proceder entre tanto en los términos de la fracción IV del Artículo 76 de esta Ley.
+
 ###### ARTICULO 225.
 
 Para fijar el monto de la unidad de dotación en los ejidos ganaderos y forestales de acuerdo con el artículo anterior, en los primeros, ésta no será menor a la superficie necesaria para mantener 50 cabezas de ganado mayor o sus equivalentes y se determinará teniendo en cuenta la capacidad forrajera de los terrenos y los aguajes, aplicando, en lo conducente, lo establecido en el artículo 259; en los segundos, se calculará tomando en consideración la calidad y el valor de los recursos forestales.
@@ -2167,19 +2179,15 @@ Los certificados de inafectabilidad cesarán automáticamente en sus efectos, cu
 
 No se expedirán acuerdos ni certificados de inafectabilidad a los predios provenientes de fraccionamientos, a menos que el promovente pruebe que son legales y efectivos, y que las fracciones se explotan individualmente por cada uno de sus dueños.
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 258.
 
-El certificado de inafectabilidad, a petición del interesado, podrá ser agrícola, ganadero o agropecuario.
+El Certificado de Inafectabilidad a petición del interesado, podrá ser agrícola, ganadero o agropecuario.
 
-El último se otorgará a quienes integren unidades en que se combine la producción de plantas forrajeras con la ganadería, una vez que se hubiese fijado la extensión agrícola y la proporción correspondiente de tierras de agostadero, de conformidad con el artículo 260.
+El último se otorgará a quienes integren unidades en que se realicen, en el mismo predio, actividades agrícolas con propósitos de comercialización y actividades ganaderas, una vez que se hubiere fijado la extensión agrícola y la proporción correspondiente de la extensión ganadera en tierras de agostadero.
 
-Los titulares de inafectabilidades ganaderas cuyos predios comprendan total o parcialmente terrenos susceptibles de aprovechamiento agrícola y pretenden integrarlos a la producción de plantas forrajeras, podrán tramitar el certificado de inafectabilidad agropecuaria.
-
-Cuando se trate de terrenos de agostadero que por trabajos de sus propietarios hayan cambiado la calidad de los mismos y se dediquen en todo o en parte a la producción de forraje, conservarán su calidad inafectable.
-
-En todo caso la producción agrícola deberá destinarse exclusivamente para consumo del ganado de la finca; pero si llegara a demostrarse que se comercia con dicha producción en vez de aplicarla al fin señalado, la propiedad dejará de ser inafectable, se determinará la extensión de la pequeña propiedad exclusivamente agrícola y el resto se aplicará a la satisfacción de necesidades agrarias.
-
-No se considerará en este último caso, a quienes conservando el ganado que señala el certificado de inafectabilidad agropecuaria correspondiente, comercien con los excedentes agrícolas del predio.
+Para la expedición del certificado de inafectabilidad agropecuario, las tierras susceptibles de aprovechamiento agrícola y las de ganadería se determinarán conforme a lo dispuesto en los Artículos 250 y 259 de esta Ley, y nunca excederán en su conjunto, de las superficies que como inafectables señala el Artículo 249 de este ordenamiento.
 
 ###### ARTICULO 259.
 
@@ -2189,13 +2197,19 @@ El área de la pequeña propiedad ganadera inafectable se determinará por los e
 
 Los estudios señalados se confrontarán con lo que haya proporcionado el solicitante y con base en todo lo anterior la Secretaría de la Reforma Agraria formulará proyecto de acuerdo de inafectabilidad que someterá al C. Presidente de la República.
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 260.
 
-Se considerarán como terrenos de agostadero aquellos que por precipitación pluvial, topografía y calidad produzcan en forma natural o cultivada pastos que sirvan para alimento del ganado.
+Se considerarán como terrenos de agostadero, aquellos que por su precipitación pluvial, topografía y calidad, produzcan en forma natural o cultivada, pastos y forrajes que sirvan de alimento del ganado.
 
-Para los efectos de este artículo cuando una parte de la unidad ganadera se dedique o pueda dedicarse en términos costeables a la siembra de plantas forrajeras como maíz, sorgo, soya y demás que señale el reglamento, para el sostenimiento exclusivo del ganado de la finca, esa superficie se considerará como agrícola, en la proporción correspondiente, excepto en el caso de que se encuentre sembrada de pastos y el área total de la inafectabilidad se completará con terrenos de agostadero.
+Los propietarios de predios destinados a la Ganadería, cuya superficie no rebase la extensión necesaria para mantener hasta 500 cabezas de ganado mayor o su equivalente en ganado menor, en base a los coeficientes de agostadero determinados conforme al Reglamento respectivo, tendrán derecho a la expedición del certificado de inafectabilidad de pequeña propiedad ganadera
 
-Los terrenos agrícolas se computarán conforme a las equivalencias establecidas en el artículo 250 y el resto del porcentaje de inafectabilidad por cubrir se completará conforme a las normas establecidas para fijar la propiedad ganadera. En este caso se expedirá certificado de inafectabilidad agropecuaria.
+Conforme a lo dispuesto por el Artículo 256, los propietarios de predios ganaderos que cuenten con certificados de inafectabilidad, podrán mejorar la calidad de la tierra y aumentar la capacidad productiva de sus predios, mediante el trabajo y las inversiones que realicen, a fin de dedicar parte de los mismos, a la producción de forrajes, todo ello, con el propósito de aumentar el número y el peso del ganado, conservando la Pequeña Propiedad Ganadera, su carácter de inafectable.
+
+La producción de forrajes, deberá destinarse al consumo del ganado que se tenga en el predio. Si llegare a demostrarse que se comercia con esa producción, en vez de aplicarla al fin señalado, la propiedad dejará de ser inafectable, se determinará la extensión de la Pequeña Propiedad Agrícola y el resto se aplicará, a la satisfacción de necesidades agrarias.
+
+No se considerará en este último caso, a quienes manteniendo el número de cabezas que corresponda el coeficiente de agostadero aplicable conforme al reglamento respectivo, comercien con los excedentes de forrajes que lleguen a obtener. Los interesados, deberán obtener las autorizaciones correspondientes para el ejercicio de este derecho, ante la Secretaría de la Reforma Agraria, la que tendrá la obligación de extenderlas cubriéndose los supuestos a que se refiere este párrafo.
 
 ###### ARTICULO 261.
 
@@ -3295,6 +3309,10 @@ Cualquier ejidatario puede denunciar los hechos que ameriten la suspensión ante
 
 Para esta Asamblea, el Comisariado solicitará la presencia de un representante de la Delegación Agraria, el cual verificará el quórum legal, la votación mayoritaria que, en su caso, acuerde pedir la suspensión y el debido cumplimiento de todas las formalidades que esta Ley establece para el levantamiento de las actas. En esta asamblea deberá darse oportunidad a los posibles afectados para que se defiendan de los cargos que en su contra se formulen. Sin la presencia del representante antes mencionado, el acuerdo de suspensión no surtirá ningún efecto legal.
 
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 1981)</small>
+
+La Secretaría de Agricultura y Recursos Hidráulicos, en aplicación de la Ley de Fomento Agropecuario, denunciará ante la Secretaría de la Reforma Agraria la existencia de tierras ociosas, para los fines señalados en los Artículos 251, 420 y 426 de esta Ley.
+
 ###### ARTICULO 422.
 
 El procedimiento se iniciará con un escrito ante la Comisión Agraria Mixta en el que se pida la suspensión, al cual se acompañará el acta de la asamblea correspondiente.
@@ -3453,7 +3471,9 @@ VII.- Los certificados de inafectabilidad;
 
 VIII.- Los documentos y planos que comprueben la ejecución de trabajos u obras de mejoramiento mencionados en los artículos 71 y 256 de esta Ley;
 
-IX.- Todas las escrituras y documentos en general, que en cualquier forma afecten las propiedades nacidas o tituladas por virtud de la aplicación de esta Ley, incluyendo los contratos privados; y
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 1981)</small>
+
+IX.- Todas las escrituras y documentos en general, que en cualquier forma afecten las propiedades nacidas o tituladas por virtud de la aplicación de esta Ley, incluyendo las que se refieren a las Unidades de Producción de que habla la Ley de Fomento Agropecuario. Y,
 
 X.- Todos los demás documentos que dispongan esta Ley y sus reglamentos.
 
@@ -3872,3 +3892,17 @@ Se deroga el Artículo 167 Bis de la Ley Federal de Reforma Agraria, así como t
 ###### ARTICULO SEPTIMO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 2 DE ENERO DE 1981.
+
+DECRETO POR EL QUE SE AGREGA UN PARRAFO SEGUNDO AL ARTICULO 136, UN PARRAFO TERCERO AL ARTICULO 224 Y UN TERCER PARRAFO AL ARTICULO 421 DE LA LEY FEDERAL DE REFORMA AGRARIA.
+
+PRIMERO.- Este Decreto, entrará en vigor el mismo día en que se comience la vigencia de la Ley de Fomento Agropecuario.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+D.O.F. 2 DE ENERO DE 1981.
+
+DECRETO POR EL QUE SE ADICIONA EL ARTICULO 138 DE LA LEY FEDERAL DE REFORMA AGRARIA CON UN SEGUNDO PARRAFO AL INCISO C), DE LA FRACCION II.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
