@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-31792"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1990-11-22"
+last_updated: "1991-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -2609,6 +2609,8 @@ XIII.- Las acciones relativas a servidumbres legales o que consten en títulos p
 
 XIV.- Las rectificaciones y modificaciones de actas del Registro Civil, a que se refiere el artículo 130 del Código Civil.
 
+(EN SUSPENSO LA VIGENCIA, P.O. 21 DE NOVIEMBRE DE 1991)
+
 XV. Las solicitudes de inscripción en el Registro Civil, de los actos que no hubieran sido inscritos dentro de los plazos que el propio código señala para cada uno de ellos
 
 XVI.- La solicitud a que se refiere el artículo 57 del Código Civil;
@@ -2622,6 +2624,8 @@ XVIII.- En general, las cuestiones que por su naturaleza requieran celeridad a j
 En los casos de la Fracción XIV del artículo anterior se oirá al Ministerio Publico. Al escrito de demanda se acompañará copia certificada del acta de que se trate y se ofrecerán las pruebas en que se funde la impugnación. El juez emplazará al Director del Registro Civil, para que conteste la demanda y llamará a las personas de cuyo estado civil se trate o pueda ser afectado por la resolución definitiva y a las que en la demanda se mencionen como involucradas. Señalará una audiencia que tendrá lugar luego de transcurridos diez días del emplazamiento tomando en cuenta la distancia en los términos del artículo 130 de este código. En esa audiencia se recibirá la contestación de la demanda y se desahogarán las pruebas ofrecidas, salvo aquellas que el juez rechace o no sea posible recibir en ese mismo acto.
 
 Si el Director del Registro Civil no contestase la demanda, se tendrá por presuntivamente confesados los hechos en que se funda el pedimento de rectificación o de modificación y luego de recibidas las pruebas y oídos los alegatos de los interesados si los formulasen por escrito dentro de tres días se dictará la resolución correspondiente.
+
+(EN SUSPENSO LA VIGENCIA, P.O. 21 DE NOVIEMBRE DE 1991)
 
 ###### ARTICULO 433.
 
@@ -6100,3 +6104,19 @@ LIC. MARIANO PALACIOS ALCOCER
 EL C. SECRETARIO DE GOBIERNO
 
 LIC. JOSE MARIA HERNANDEZ SOLIS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE NOVIEMBRE DE 1991.
+
+###### ARTICULO PRIMERO.
+
+Las personas que al entrar en vigor esta ley estén tramitando juicio de registro extemporáneo podrán optar por concluir o por acudir ante el oficial del registro civil respectivo, en los términos de lo dispuesto en este ordenamiento para que se asiente su registro de nacimiento.
+
+###### ARTICULO SEGUNDO.
+
+La presente ley se publicará en el periódico oficial "La Sombra de Arteaga" y su vigencia será durante los meses de diciembre de 1991 y enero y junio de 1992.
+
+###### ARTICULO TERCERO.
+
+Las disposiciones jurídicas que se opongan a la presente quedan derogadas mientras dure la vigencia de ésta, a cuyo término recobrarán aquellas su pleno vigor en forma automática.
