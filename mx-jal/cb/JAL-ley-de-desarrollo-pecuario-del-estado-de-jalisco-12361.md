@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-pecuario-del-estado-de-jalisco-12361"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-04"
-last_updated: "1999-09-21"
+last_updated: "2000-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 1999
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2000
 
 Ley publicada en P.O. 4 de enero de 1994 Sección III
 
@@ -45,15 +45,21 @@ LEY DE DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
 La presente ley tiene por objeto regular la actividad pecuaria en el Estado de Jalisco y establecer las bases para promover su desarrollo mediante la planeación que integre las acciones de investigación, conservación y mejoramiento de la producción.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. MARZO 2 DEL 2000)</small>
+
 ###### Artículo 2.
 
 Se declaran actividades de interés público:
 
-I. La cría, reproducción, explotación, transportación, industrialización y comercialización de especies animales que sean susceptibles de aprovechamiento económico;
+(REFOMADA, P.O. MARZO 2 DEL 2000)
+
+I. La cría, reproducción, explotación, transportación, sacrificio, clasificación de la calidad de carnes en canal, industrialización y comercialización de especies animales que sean susceptibles de aprovechamiento económico;
 
 II. La investigación aplicada a las actividades pecuarias, así como las acciones de protección, clasificación y selección de especies y los productos que genere su explotación;
 
-III. La adopción de patrones y normas oficiales que regulen la producción, transporte y el comercio de especies, productos y subproductos pecuarios; y
+> <small>(REFORMADA, P.O. MARZO 2 DEL 2000)</small>
+
+III. La adopción de patrones y normas oficiales que regulen la producción, el sacrificio, transporte y el comercio de especies, productos y subproductos pecuarios, la clasificación de carnes en canal; y
 
 IV. La organización de los productores para promover el desarrollo pecuario en la entidad.
 
@@ -141,7 +147,7 @@ VI. Expedir los reglamentos que se deriven de esta ley, para su exacta aplicaci�
 
 VII. Las demás que le otorguen la presente ley y otros ordenamientos jurídicos estatales y federales que concurren en la regulación de las actividades pecuarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE SEPTIEMBRE 21 DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DEL 2000)</small>
 
 ###### Artículo 8.
 
@@ -171,13 +177,15 @@ XI. Establecer el Registro Estatal de Productores Pecuarios y expedir las tarjet
 
 XII. Llevar el registro de fierros, tatuajes y marcas que permitan identificar a los ganados y acreditar su propiedad;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 2 DE MARZO DEL 2000)</small>
 
-XIII. Autorizar a los propietarios el realeo de ganado, a través de los inspectores de rastros municipales.
+XIII. Autorizar a los propietarios el realeo de ganado, a través de los inspectores de ganadería;
 
 XIV. Expedir las guías de tránsito para controlar la movilización de ganado que se origine en el estado;
 
-XV. Nombrar los inspectores de rastros municipales y auxiliares,
+> <small>(REFORMADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+XV. Nombrar los inspectores de ganadería y auxiliares;
 
 XVI. Otorgar los permisos para el establecimiento de expendios de carne clasificada;
 
@@ -185,9 +193,13 @@ XVII. Aplicar las sanciones establecidas en la presente ley y sus reglamentos, c
 
 XVIII. Admitir y resolver el recurso administrativo previsto en esta ley; y
 
-XIX. Auxiliar al Ministerio Público en la persecución del delito de abigeato; y
+> <small>(REFORMADA, P.O. 2 DE MARZO DEL 2000)</small>
 
-XX. Las demás que definan la presente ley, sus reglamentos y los convenios que celebre el Titular del Poder Ejecutivo.
+XIX. Auxiliar al Ministerio Público en la persecución del delito de abigeato;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+XX. Las demás que establezca la presente ley. Su reglamento y los convenios que celebre el titular del Poder Ejecutivo.
 
 ###### Artículo 9.
 
@@ -203,15 +215,39 @@ La Secretaría General de Gobierno prestará apoyo y auxilio a las casetas de vi
 
 ###### Artículo 12.
 
-La Secretaría de Desarrollo Rural, nombrará a los inspectores de rastro y auxiliares a propuesta de los gobiernos municipales y los productores organizados.
+(DEROGADO, P.O. 2 DE MARZO DEL 2000)
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DEL 2000)</small>
 
 ###### Artículo 13.
 
-A los jefes de zona les corresponde vigilar el estricto cumplimiento y auxiliar en la supervisión de las funciones de los inspectores de rastro Municipales, informando a la Secretaría de Desarrollo Rural y a las autoridades municipales correspondientes, para lograr el cumplimiento de esta Ley.
+A los jefes de zona les corresponde vigilar el estricto cumplimiento de las funciones de los inspectores de ganadería y auxiliarlos en las mismas, informando a la secretaría de Desarrollo Rural y a las autoridades municipales correspondientes, para lograr el cumplimiento de los fines de la presente ley.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DEL 2000)</small>
 
 ###### Artículo 14.
 
-Los inspectores de rastro municipales y auxiliares, tendrán las atribuciones que determine el reglamento de esta Ley.
+Serán facultades y obligaciones de los inspectores de ganadería:
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+I. Realizar inspecciones periódicas en las tenerías con el objeto de revisar la documentación que ampare los productos que se procesen en el momento de la diligencia;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+II. Realizar inspecciones de la documentación que ampare la propiedad legal del ganado en lugares de cría, engorda, transporte y centros de sacrificio;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+III. En ningún caso deberán dedicarse a la compra venta de ganado mostrenco rematado dentro o fuera del municipio o zona de adscripción de sus labores oficiales, ni por medio de una tercera persona;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+IV. Expedir las ordenes de sacrificio a nombre de la persona indicada como propietario de los animales en la factura correspondiente; y
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+V. Las demás que determine el reglamento de la presente ley.
 
 ###### Artículo 15.
 
@@ -231,9 +267,11 @@ Los productores están obligados a manifestar por escrito, dentro del término d
 
 ### CAPITULO IV. DE LAS ASOCIACIONES PECUARIAS
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DEL 2000)</small>
+
 ###### Artículo 18.
 
-La Constitución, funcionamiento y disolución de las organizaciones pecuarias se regirán por la Ley Federal de Asociaciones Ganaderas y su reglamento.
+La constitución, funcionamiento y disolución de las organizaciones pecuarias, se regirán por la Ley de Organizaciones Ganaderas y su reglamento.
 
 ###### Artículo 19.
 
@@ -351,9 +389,19 @@ III. Para pieles, productos y subproductos en el caso de que provengan de otros 
 
 IV. Los dueños de saladeros, curtidurías, talabarterías, textiles y demás establecimientos dedicados a la industrialización de pieles y subproductos pecuarios, conservarán copia de la documentación mencionada en la fracción anterior y en caso de que admitan material sin documentar, se harán acreedores a las sanciones que determine esta Ley, sin perjuicio de las sanciones penales a que hubiese lugar.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DEL 2000)</small>
+
 ###### Artículo 28.
 
-La facturación y documentación de los animales, productos y subproductos deberá realizarse en su lugar de origen.
+Para efecto de tramitar la facturación y documentación de ganado, productos y subproductos se deberá:
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+I. Realizar en el lugar de origen de los productos o subproductos, y de la misma forma en el caso de animales para efectos de movilización; y
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+II. Presentar los certificados con los requisitos zoosanitarios vigentes.
 
 ### CAPITULO III. DE LOS ANIMALES MOSTRENCOS
 
@@ -377,9 +425,11 @@ Toda persona que encuentre en su agostadero, carreteras, caminos vecinales o ví
 
 Queda prohibido retener a los posibles mostrencos por cuenta propia, sin orden de autoridad competente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DEL 2000)</small>
+
 ###### Artículo 32.
 
-La autoridad municipal o el inspector del rastro municipal, al recibir reporte de uno o varios animales mostrencos realizará las siguientes acciones:
+La autoridad municipal o el inspector de ganadería, al recibir reporte de uno o varios animales mostrencos realizará las siguientes acciones:
 
 I. Mandará asegurar el animal en el corral destinado para estos casos o bien en el terreno en que fue encontrado, si en él está seguro y no representa peligro para personas, otros animales o exista riesgo de que el animal sufra un demérito considerable en su traslado;
 
@@ -405,19 +455,27 @@ II. Declarar mostrenco al animal que no haya sido reclamado, boletinándolo por 
 
 III. Elaborar el control de animales mostrencos, en donde se registren las ventas efectuadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DEL 2000)</small>
+
 ###### Artículo 34.
 
 El remate de los animales mostrencos se llevará a cabo cumpliendo las bases siguientes:
 
-I. Será presidido por el presidente municipal o su representante, debiendo estar presentes directivos de la Asociación Ganadera Local, el inspector de rastro municipal y el jefe de la oficina Recaudadora, dependiente de la Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 2 DE MARZO DEL 2000)</small>
 
-II. La postura legal será señalada por el inspector de rastro municipal correspondiente,, apoyándose en el tabulador de la Secretaría de Desarrollo Rural;
+I. Será presidido por el Presidente Municipal o su representante, debiendo estar presentes directivos de la Asociación Ganadera Local, el Inspector de Ganadería y el Jefe de la Oficina Recaudadora dependiente de la Secretaría de Finanzas;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+II. La postura legal será señalada por el inspector de ganadería correspondiente, apoyándose en el tabulador de la Secretaría de Desarrollo Rural.
 
 III. Se levantará el acta correspondiente de subasta, en la cual constará el lugar, día y hora del remate, nombre de la persona a quien haya sido adjudicado el semoviente, el precio pagado por él; dicha acta será firmada por los que intervinieron;
 
 IV. Al comprador, se entregará el original del acta, misma que le servirá de título de propiedad;
 
-V. Queda prohibida la adquisición de animales mostrencos, por autoridades que lleven a cabo la subasta, así como por parientes afines o consanguíneos hasta el segundo grado del servidor público que efectúa el remate, por sí o por interpósita persona; y
+> <small>(REFORMADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+V. Queda estrictamente prohibido a los administradores y empleados de rastros, o funcionarios municipales la compra-venta de ganado mostrenco rematado directa o indirectamente a través de parientes afines, consanguíneos hasta el segundo grado, o de terceras personas.
 
 VI. El producto de lo recaudado en las subastas, ingresará a la Tesorería Municipal.
 
@@ -427,15 +485,59 @@ Los animales considerados mostrencos que sufran una enfermedad contagiosa, previ
 
 ### CAPITULO IV. DE LA MOVILIZACION, CONTROL Y VIGILANCIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DEL 2000)</small>
+
 ###### Artículo 36.
 
-Toda persona que pretenda movilizar ganado en el territorio del Estado de Jalisco deberá ampararlos con un documento denominado guía de tránsito, que será expedido por la Secretaría de Desarrollo Rural y contendrá los siguientes datos:
+Toda persona que pretenda movilizar ganado en el territorio del Estado de Jalisco deberá observar lo siguiente:
 
-I. Nombre del propietario del ganado;
+> <small>(REFORMADA, P.O. 2 DE MARZO DEL 2000)</small>
 
-II. Lugar de procedencia del ganado;
+I.Obtener la guía de transito expedida por los inspectores de la Secretaría de Desarrollo Rural y contendrá los siguientes datos:
 
-III. Lugar de destino;
+> <small>(ADICIONADO, P.O. 2 DE MARZO DEL 2000)</small>
+
+a). Nombre y domicilio del propietario del ganado;
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DEL 2000)</small>
+
+b). Lugar de procedencia del ganado;
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DEL 2000)</small>
+
+c). Lugar de destino;
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DEL 2000)</small>
+
+d). Fines de la movilización;
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DEL 2000)</small>
+
+e). Datos del vehículo y su conductor, en su caso;
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DEL 2000)</small>
+
+f). Datos del ganado que se moviliza como: cantidad con numero y letra, especie, raza, sexo, fierro, marca, señal y color;
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DEL 2000)</small>
+
+g). Nombre del destinatario; y
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DEL 2000)</small>
+
+h). Fecha de caducidad.
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+II. Todos los animales que se introduzcan vivos al Estado de Jalisco, deberán cumplir con los requisitos sanitarios en vigor y deberán exhibirse los certificados correspondientes que los dictaminen libres de enfermedades establecidas en las campañas de erradicación en el Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DEL 2000)</small>
+
+Todos los productos cárnicos y subproductos, ya sean en canal, en piezas, empacados en cajas, en pastas o procesados, deberán pasar por los centros de verificación sanitaria y no se podrán comercializar sin los certificados de verificación; y
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+III. La movilización de ganado en dos o más unidades de transporte, requerirá guías por separado, cumpliendo los requisitos del Artículo 36 de la presente ley.
 
 IV. Fines de la movilización; y
 
@@ -443,15 +545,17 @@ V. Datos del ganado que se moviliza, cantidad con número y letra, especie, raza
 
 a) Nombre del destinatario; y
 
-b) Vigencia del documento
+b) Vigencia del documento.
 
 ###### Artículo 37.
 
 La carne, pieles, cuernos y demás productos o subproductos animales, sólo podrán ser transportados, con los documentos que acrediten la propiedad y amparada la carga, con la guía de tránsito y certificado zoosanitario.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DEL 2000)</small>
+
 ###### Artículo 38.
 
-El hecho de movilizar ganado o sus productos y subproductos, sin ampararlos con las guías de tránsito respectivas, será sancionado de conformidad a lo que se establece en el Título Séptimo de esta Ley.
+Cualquier persona que movilice ganado o sus productos y subproductos, con fines manifiestos de comercialización sin ampararlos con las guías de transito y o permisos respectivos, será sancionado de conformidad a lo que se establece en el Título séptimo de esta Ley.
 
 ###### Artículo 39.
 
@@ -475,13 +579,21 @@ Se prohibe el tránsito de animales enfermos; si alguno se enfermara durante su 
 
 ### CAPITULO V. DE LOS RECUENTOS Y REALEOS
 
+(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DEL 2000).
+
 ###### Artículo 42.
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Recuento.- La reunión que los productores hacen del ganado que agosta en terrenos de su propiedad o de los cuales tengan en posesión, con objeto de verificar la cantidad de semovientes que les pertenecen y eliminar animales ajenos; y
+> <small>(REFORMADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+I. Recuento. La reunión que los productores hacen del ganado que agosta en terrenos de su propiedad o de los cuales tengan en posesión, con objeto de verificar la cantidad de semovientes que les pertenecen.
 
 II. Realeo.- El desalojo del ganado que mediante el recuento realizado, resultó ser ajeno.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DEL 2000)</small>
+
+Artículo 42 bis.- Pueden efectuar el recuento las partes interesadas enterando al Inspector de Ganadería de la localidad, al Jefe de Zona o a la Secretaría de Desarrollo rural.
 
 (REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999).
 
@@ -577,9 +689,11 @@ VI. Ajustarse a las leyes federales y estatales en caso de decidir destinar los 
 
 Se declara de utilidad pública el mejoramiento genético de las especies bovino, equino, caprino, ovino, porcino, aves, conejos, abejas y otras especies.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DEL 2000)</small>
+
 ###### Artículo 53.
 
-El Gobierno del Estado, por conducto de la Secretaría de Desarrollo Rural, en coordinación con otras dependencias que concurran con la materia pecuaria, estructurará, elaborará, ejecutará y evaluará los programas de mejoramiento genético de las especies que se producen en el Estado de Jalisco.
+El Gobierno del Estado, por conducto de la Secretaría de Desarrollo Rural, en coordinación con otras dependencias que concurran con la materia pecuaria, estructurará, elaborará, ejecutará y dará seguimiento y evaluará los programas de mejoramiento genético de las especies que se producen en el Estado de Jalisco.
 
 ###### Artículo 54.
 
@@ -619,13 +733,17 @@ Corresponde al Ejecutivo del Estado, en los términos de este ordenamiento, la p
 
 En caso de muerte de animal ocasionada por enfermedad de las mencionadas en el reglamento de esta ley, el productor deberá apegarse estrictamente a lo determinado en el mismo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DEL 2000)</small>
+
 ###### Artículo 60.
 
 En apoyo a las medidas zoosanitarias de la Legislación Federal, quedan prohibidas las siguientes acciones:
 
 I. Introducir al estado, animales procedentes de zonas, en las que esté comprobada la existencia de una enfermedad contagiosa, contempladas en el reglamento;
 
-II. Sacar o introducir de la zona en que se encuentren o de la entidad, animales positivos de enfermedad infecciosa, transmisible o que presenten indicios de estarlo;
+> <small>(REFORMADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+II. Sacar o introducir del municipio o de la entidad en que se encuentren, animales que resultaron positivos a los muestreos de enfermedades infecciosas transmisibles al hombre o a los animales, o que presenten signos de estar enfermos, por lo que el inspector de ganaderías les negará definitivamente la guía de tránsito, debiéndose sacrificar el animal en el rastro de la municipalidad en forma inmediata.
 
 III. Arrojar a mares, ríos, arroyos, canales, presas, lagunas o cualquier depósito de agua, así como a la orilla de caminos, animales muertos o parte de ellos;
 
@@ -635,17 +753,21 @@ V. Comprar, vender, trasladar o realizar cualquier operación con un animal o su
 
 ### CAPITULO II. DE LAS CAMPAÑAS ZOOSANITARIAS
 
+> <small>(REFORMADO, P.O. 2 DE MARO DEL 2000)</small>
+
 ###### Artículo 61.
 
-Se declara obligatoria la vacunación de los animales contra las enfermedades infecto-contagiosas y las establecidas en el reglamento de este Ley.
+Se declara obligatoria la aplicación de medidas zoosanitarias normativas para el control y erradicación de enfermedades transmisibles a los animales y al hombre.
 
 ###### Artículo 62.
 
 La vacunación, deberá ser efectuada por médicos veterinarios y zootecnistas o personal competente, avalada por la autoridad, respectiva.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DEL 2000)</small>
+
 ###### Artículo 63.
 
-Es obligación para los médicos veterinarios y zootecnistas oficiales particulares, aprobados por la Secretaría de Agricultura y Recursos Hidráulicos, extender certificados de vacunación en los cuales se hará constar: el nombre y ubicación de la explotación pecuaria, especie y número de animales, enfermedad contra la que se haya vacunado y la fecha en que se efectuó.
+Es obligación para los médicos veterinarios y zootecnistas oficiales o particulares, aprobados por la Secretaría de Agricultura, Ganadería y Desarrollo Rural, , extender certificados de vacunación en los cuales se hará constar: el nombre y ubicación de la explotación pecuaria, especie y número de animales, enfermedad contra la que se haya vacunado y la fecha en que se efectuó.
 
 ###### Artículo 64.
 
@@ -673,11 +795,17 @@ Mientras dura la declaratoria de infección, no se expedirán certificados zoosa
 
 PECUARIOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DEL 2000)</small>
+
 ###### Artículo 68.
 
-Los productos y subproductos pecuarios serán clasificados conforme al reglamento que se expida para tal efecto, sin perjuicio de las normas que en clasificación de carnes o grados de calidad establezcan las Secretarías de Agricultura y Recursos Hidráulicos, de Comercio y de Fomento Industrial o cualesquier otra autoridad del orden federal.
+Los productos y subproductos pecuarios serán clasificados conforme al reglamento que se expida para tal efecto, sin perjuicio de las normas clasificación de carnes o grados de calidad establecidas por las Secretarias de Agricultura, Ganadería y Desarrollo Rural y la Secretaría de Comercio y Fomento Industrial o cualquier otra autoridad del orden federal..
 
 Las normas oficiales de clasificación y sus modificaciones, que se adopten para regular las actividades pecuarias como disposiciones reglamentarias de esta Ley, deberán ser publicadas en el Periódico Oficial "El Estado de Jalisco".
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DEL 2000)</small>
+
+Artículo 68 bis.- Las carnes de bovino en cortes empacadas introducidas al Estado serán consideradas como no clasificada.
 
 ###### Artículo 69.
 
@@ -689,13 +817,33 @@ La Secretaría de Desarrollo Rural otorgará los permisos para el establecimient
 
 ### CAPITULO II. DEL SACRIFICIO DE GANADO PARA CONSUMO HUMANO
 
+(REFORMADO, P.O. 2 DE MARZO DEL 2000).
+
 ###### Artículo 71.
 
-El sacrificio de ganado destinado al consumo humano, se realizará cumpliendo las disposiciones de esta Ley y el reglamento respectivo, así como los ordenamientos federales aplicables en la materia.
+Además de las disposiciones de esta ley, serán aplicables al sacrificio sanitario de ganado destinado al consumo humano, las contenidas en los siguientes ordenamientos:
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+I. Normas sanitarias oficiales federales;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+II. Reglamento de la Ley de Desarrollo Pecuario del Estado;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+III. Ley Estatal de Salud; y
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+IV. Reglamento de los rastros respectivos.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DEL 2000)</small>
 
 ###### Artículo 72.
 
-El sacrificio de ganado se hará mediante autorización por escrito del inspector del rastro municipal, en los términos que establezca el reglamento respectivo.
+El sacrificio de ganado se hará invariablemente previa revisión física del ganado, de sus marcas y autorización por escrito del inspector de ganadería, en los términos que establezca el reglamento de esta ley.
 
 ###### Artículo 73.
 
@@ -703,9 +851,17 @@ Los animales destinados a la matanza sólo podrán sacrificarse:
 
 I. En los rastros o centros debidamente autorizados, dando cumplimiento a los requisitos mencionados en la presente Ley y en los reglamentos respectivos;
 
-II. En los lugares donde no exista rastro o en caso de consumo doméstico, podrá hacerse en corrales particulares, para lo cual se acudirá a la oficina de inspección ganadera a recabar la orden de sacrificio correspondiente y será el delegado municipal o inspector de ganadería auxiliar, quien expida esta orden a efecto de verificar la propiedad y estado de salud de los animales que se pretende sacrificar; y
+II. En los lugares donde no exista rastro o en caso de consumo doméstico, podrá hacerse en corrales particulares, para lo cual se acudirá a la oficina de inspección ganadera a recabar la orden de sacrificio correspondiente y será el delegado municipal o inspector de ganadería auxiliar, quien expida esta orden a efecto de verificar la propiedad y estado de salud de los animales que se pretende sacrificar;
 
 III. En el campo o potreros donde se encuentren aquellos animales que representen un peligro de contagio, ataque a humanos o que fueron gravemente lesionados y exista necesidad de sacrificarlos, será indispensable la recabación del permiso ante la autoridad municipal.
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+IV. Solo podrán sacrificarse los animales sometidos a encierro 24 horas antes del mismo, o de acuerdo a lo previsto en la norma oficial respectiva, con el objeto de efectuar la inspección antemorten por los médicos veterinarios oficiales, dándoles un descanso adecuado, y después de realizar la revisión administrativa de la documentación y las marcas de herrar de los animales, por parte de los inspectores de ganadería y de las autoridades municipales.
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+V. Se prohibe el sacrificio de ganado en estado de gestación, así como en estado de desnutrición o acentuada flacura, a menos que la Secretaría de Desarrollo Rural lo autorice mediante justificación técnica debidamente fundamentada.
 
 ###### Artículo 74.
 
@@ -733,15 +889,29 @@ V. Denunciar los hechos que constituyan delitos relacionados con los animales qu
 
 El administrador del Rastro será responsable, en los términos del Código Penal, si por su omisión, contravención o alteración de registro, se sacrifica ilegalmente algún animal.
 
+> <small>(ADICIONADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+VI. Denunciar ante la Secretaría de Desarrollo Rural toda acción de falta de probidad, honestidad, corrupción e irregularidad en la que incurran los inspectores de ganadería en el cumplimiento de sus funciones;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+VII. El inspector de ganadería será responsable si autoriza el sacrificio de animales que presenten irregularidades en su documentación con respecto a los semovientes, por no haber realizado la inspección física, comparando los datos de las facturas con las características del ganado; y
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+VIII. Entregar en forma mensual, a la Sección de Abigeatos de la Agencia del Ministerio Público, una recopilación de las marcas de herrar de todo el ganado sacrificado por introductor, con el objeto de apoyarlos en el seguimiento de sus responsabilidades en el combate de este delito.
+
 ###### Artículo 77.
 
 En los rastros se dará información clara y oportuna a los interesados sobre los requisitos para hacer uso de los servicios que ahí se prestan y se facilitará la introducción y sacrificio de ganado a los productores, sin más trámite, que presentar su patente de fierro de herrar y haber cumplido las normas señaladas en la presente Ley y en el Reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DEL 2000)</small>
+
 ###### Artículo 78.
 
-Las personas que se dediquen a la compra venta e introducción de ganado en los rastros o centros de matanza, deberán gestionar y obtener credencial de identificación como introductor, expedida por la autoridad municipal.
+Las personas que se dediquen a la introducción de ganado a los rastros o centros de sacrificio, deberán gestionar y obtener credencial de identificación como introductor, expedida por la autoridad municipal, previo pago de las aportaciones fiscales correspondientes.
 
-La citada credencial, tendrá vigencia por el tiempo que dure la administración municipal y podrá suspenderse por infracciones graves a esta ley a juicio de la autoridad municipal correspondiente.
+La citada credencial, tendrá vigencia por un año y deberá renovarse al inicio de cada año, solo podrá suspenderse por infracciones graves a esta ley o a la reglamentación municipal del rastro respectivo a juicio de la autoridad municipal correspondiente bajo previa comprobación.
 
 ### CAPITULO III. DE LOS RASTROS CONCESIONADOS A PARTICULARES
 
@@ -768,6 +938,10 @@ Las organizaciones pecuarias, las autoridades municipales y la Secretaría de De
 ###### Artículo 83.
 
 La Secretaría de Desarrollo Rural, con participación de los Productores Pecuarios, promoverá acciones que apoyen su comercialización y mejore su competitividad frente a otros productores nacionales y extranjeros y su capacidad de concurrencia en el mercado nacional e internacional.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DEL 2000)</small>
+
+Cuando por cualquier circunstancia de emergencia se tenga la necesidad de sacrificar animales en el campo o en los rastros, se deberá dar aviso a las autoridades competentes sin que dicho sacrificio se considere fraudulento, y si se sacrifica algún animal sano y se compruebe que en el acto se procedió con dolo y mala fe, haciéndolo pasar por emergente, se aplicarán las sanciones correspondientes a un sacrificio clandestino.
 
 ### CAPITULO II. DE LOS CENTROS DE ACOPIO PECUARIO
 
@@ -832,6 +1006,46 @@ XI. Al que abandone animal o animales muertos por enfermedad infecto-contagiosa 
 XII. A quien infrinja lo dispuesto en el artículo 70 de esta Ley, se hará acreedor a una multa de mil a cinco mil días de salario; y
 
 XIII. En todos los casos no previstos en la presente Ley, serán sancionados con una multa de cien a mil salarios mínimos, tomando en consideración la falta en que se incurra.
+
+Para los efectos de lo dispuesto en el presente artículo, por salario mínimo, deberá entenderse al vigente en la capital del Estado al momento de cometerse la infracción.
+
+En caso de reincidencia en la comisión de infracciones o faltas a que alude el presente artículo, la sanción pecuniaria será aumentada en un 100 %.Artículo 88.- Las personas físicas o jurídicas que incumplan lo establecido en esta ley, serán sancionadas administrativa y pecuniariamente.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DEL 2000)</small>
+
+Se consideran sanciones pecuniarias:
+
+I. Al que no manifestare el ejercicio de la explotación pecuaria en los términos del artículo 17 de esta ley, se le impondrá multa equivalente a treinta días de salario mínimo;
+
+II. Al que falsifique o altere la factura tipo o guía de tránsito, se le impondrá una multa equivalente a mil días de salario mínimo;
+
+III. A los dueños de saladeros, curtidurías, talabarterías, textiles y demás establecimientos dedicados a la industrialización de pieles y subproductos pecuarios, que no presenten la documentación a que se refieren el artículo 27 de esta ley, se harán acreedores de una multa equivalente a quinientos días de salario mínimo;
+
+IV. Al transportador de ganado que no se detenga para revisión correspondiente en las casetas de inspección zoosanitaria, se le impondrá una multa equivalente a cien días de salario mínimo;
+
+V. A quien detenga animales mostrencos sin la autorización correspondiente, se hará acreedor a una multa equivalente a trescientos días de salario mínimo;
+
+VI. A quien transporte ganado menor sin ampararse con la guía de tránsito correspondiente, se hará acreedor a una multa equivalente de cincuenta días de salario mínimo; dicha multa se aumentará a doscientos días de salario mínimo en el aso de ganado mayor;
+
+VII. Al que transporte productos y subproductos de origen pecuario sin guía de tránsito, se le impondrá una multa equivalente a doscientos días de salario mínimo;
+
+VIII. Al propietario o usuario que no construya y no dé mantenimiento a las cercas de los terrenos utilizados como agostaderos, como lo dispone el artículo 50 de esta ley, se e impondrá una multa equivalente a treinta días de salario mínimo;
+
+IX. A la persona que ordene el transporte de animales afectados por enfermedad infecto-contagiosa contemplada en el Reglamento de esta ley, se le aplicará una multa equivalente a trescientos días de salario mínimo;
+
+X. Al que llevare a cabo cualquier compra-venta con animales atacados por enfermedad infecto-contagiosa, contemplada en el Reglamento de esta ley o en otras disposiciones legales aplicables se le aplicará una multa equivalente a trescientos días de salario mínimo;
+
+XI. Al que abandone animal o animales muertos por enfermedad infecto-contagiosa sin incinerarlos o enterrarlos, se le impondrá una multa equivalente a doscientos días de salario mínimo;
+
+XII. A quien infrinja lo dispuesto en el artículo 70 de esta Ley, se hará acreedor a una multa de mil a cinco mil días de salario; y
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+XIII. A los inspectores de ganadería al incurrir en otorgamiento ilícito de permisos de sacrificio para animales irregulares se les cesará definitivamente de sus funciones; y
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DEL 2000)</small>
+
+XIV. En todos los casos no previstos en la presente ley, serán sancionados con una multa de cien a mil salarios mínimos, tomando en consideración la falta en que se incurra.
 
 Para los efectos de lo dispuesto en el presente artículo, por salario mínimo, deberá entenderse al vigente en la capital del Estado al momento de cometerse la infracción.
 
@@ -938,5 +1152,9 @@ P.O. 18 DE NOVIEMBRE DE 1995
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
 
 P.O. 21 DE SEPTIEMBRE DE 1999
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 2 DE MARZO DEL 2000
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
