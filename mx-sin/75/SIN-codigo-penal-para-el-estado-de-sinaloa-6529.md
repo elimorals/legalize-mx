@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "1994-08-19"
+last_updated: "1995-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 1995.
 
 Código publicado en la Sección Primera del Periódico Oficial "El Estado de Sinaloa", el miércoles 28 de octubre de 1992.
 
@@ -2377,6 +2377,10 @@ Al servidor público que con motivo de su empleo, cargo o comisión en el servic
 
 Los bienes cuya legítima procedencia no se logre acreditar, serán decomisados en beneficio del Fondo Auxiliar para la Administración de Justicia del Estado.
 
+### CAPITULO UNICO. DE LOS DELITOS ELECTORALES
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 308.
 
 Se impondrán de seis meses a cuatro años de prisión y de treinta a doscientos cuarenta días multa, al servidor público que:
@@ -2468,6 +2472,10 @@ Al que indebidamente se atribuya y ejerza funciones propias de un servidor públ
 ###### ARTICULO 325.
 
 Al que usare uniformes oficiales, condecoraciones, grados jerárquicos, distintivos o insignias a que no tenga derecho, con el propósito de obtener un beneficio indebido o lesionar la dignidad o respeto de la corporación o de la investidura a que correspondan aquéllos, se le impondrá prisión de tres meses a tres años y de veinte a cincuenta días multa.
+
+## TÍTULO QUINTO. DE LOS DELITOS EN EL PROCESO ELECTORAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 326.
 
@@ -2693,6 +2701,142 @@ VII.- Abandone una defensa o negocio sin motivo justificado y causando daño.
 
 Al defensor de oficio que cometa alguno de los delitos a que se refiere el artículo anterior, podrá sancionársele, además, con privación del cargo e inhabilitación para ejercer otro cargo público hasta por dos años.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 354.
+
+Para los efectos de este Capítulo se entiende por:
+
+I.- Funcionarios Electorales, quienes en los términos de la Ley Estatal Electoral, integren los órganos que cumplen funciones públicas electorales;
+
+II.- Funcionarios Partidistas, los dirigentes de los partidos políticos nacionales y estatales, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales locales, los propios partidos les otorgan reconocimiento para actuar en su representación; y
+
+III.- Documentos públicos electorales, las actas oficiales de instalación, de escrutinio y cómputo de las mesas directivas de casilla, las de los cómputos distritales, municipales y estatales y en general, los documentos expedidos en el ejercicio de sus funciones por los órganos electorales previstos en la Ley Electoral del Esatdo (sic).
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 355.
+
+Se impondrá de cincuenta a doscientos días multa y prisión de dos a seis años, al funcionario electoral que:
+
+I.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al registro de electores;
+
+II.- Siendo funcionario del Registro de Electores no admita la solicitud de inscripción de alguna persona cuando fuere procedente, o se niegue a inscribirla; o la inscriba en otra sección electoral que no le corresponda, expida credencial para votar a quien no corresponda o no la expida oportunamente, sin causa justificada; o dolosamente oculte el equipo y material electoral necesario para la elaboración de la credencial para votar, con la finalidad de evitar su expedición;
+
+III.- No haga constar las violaciones de que haya tenido conocimiento en el desarrollo del proceso electoral;
+
+IV.- Obstruya, sin causa justificada, el desarrollo normal de la votación;
+
+V.- No entregue o impida la entrega oportuna de documentos oficiales necesarios para la elección, sin causa justificada;
+
+VI.- Instale o clausure dolosamente una casilla fuera de los tiempos y formas previstas por esta ley, la instale en lugar distinto al legalmente señalado o impida su instalación;
+
+VII.- Siendo funcionario de mesa directiva de casilla, consienta que la votación se lleve a cabo en forma ilegal o rehuse admitir el voto a quien conforme a esta ley tenga derecho al sufragio; retenga o no entregue al organismo electoral correspondiente los paquetes electorales;
+
+VIII.- Se niegue, sin causa justificada, a reconocer la personalidad de los representantes de los partidos políticos o les impida el ejercicio de las atribuciones que les corresponden;
+
+IX.- Altere los resultados electorales, sustraiga, destruya o haga un uso indebido de documentación pública electoral;
+
+X.- Se abstenga de cumplir con sus obligaciones electorales sin causa justificada y con perjuicio del proceso;
+
+XI.- En ejercicio de sus funciones induzca a los electores en el interior de la casilla o en la fila de votantes, a votar por un candidato o partido político;
+
+XII.- Altere los resultados electorales, sustraiga o destruya boletas o documentos electorlaes (sic) fuera de los casos previstos en la ley; o
+
+XIII.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 356.
+
+Se impondrán de cien a doscientos días multa y prisión de uno a cinco años al funcionario partidista que:
+
+I.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los electores se encuentren formados para votar;
+
+II.- Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
+
+III.- Sustraiga, destruya o altere o haga uso indebido de documentos oficiales de índole electoral;
+
+IV.- Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
+
+V.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral, o respecto de sus resultados;
+
+VI.- Impida con violencia la instalación, apertura o cierre de una casilla; o mediante violencia obligue a los funcionarios electorales a la apertura o cierre fuera de los tiempos previstos en la ley de la materia; o
+
+VII.- Prepare, organice, participe o induzca a sus partidarios a realizar, por motivos electorales, actos violentos que atenten contra el orden público y la paz social antes, durante y después de la jornada electoral.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 357.
+
+Se impondrán de doscientos a cuatrocientos días multa y prisión de uno a nueve años al servidor público que:
+
+I.- Obligue a sus subordinados a emitir sus votos en favor de determinado partido político o candidato;
+
+II.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio en favor de determinado partido político o candidato;
+
+III.- Destine fondos, bienes o servicios que tengan a su disposición en virtud de su cargo, tales como vehículos, inmuebles y equipos al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 358.
+
+Se impondrán de diez a cien días multa y prisión de seis meses a tres años, a quien:
+
+I.- Vote más de una vez en la misma elección local o suplante a un elector;
+
+II.- Vote en una elección estatal o municipal a sabiendas de que no cumple con los requisitos de la ley;
+
+III.- Vote o pretenda votar con una credencial de elector de la que no sea titular;
+
+IV.- Impida en forma violenta la instalación oportuna de una casilla electoral u obstaculice su funcionamiento o su clausura;
+
+V.- Instale ilegalmente una casilla o usurpe funciones electorales;
+
+VI.- Haga proselitismo o presione a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes;
+
+VII.- Ordene recolectar o recolecte paquetes electorales sin estar facultado para ello;
+
+VIII.- Solicite votos por paga, dádiva o promesa de dinero;
+
+IX.- Obstaculice o interfiera dolosamente el desarrollo normal de la votación, del escrutinio o del cómputo;
+
+X.- Recoja credenciales de elector de los ciudadanos sin causa prevista por la ley;
+
+XI.- Traslade votantes el día de la elección con el objeto de llevarlos a votar y de influir en el sentido de su voto;
+
+XII.- Sustraiga de las urnas o introduzca en ellas ilícitamente una o más boletas electorales;
+
+XIII.- Destruya ilícitamente o altere boletas o documentos electorales;
+
+XIV.- Destruya propaganda electoral de los partidos políticos en época de elecciones, sin causa justificada; y
+
+XV.- Obtenga o solicite declaración firmada de los electores para comprometer el sentido de su voto o que comprometa su voto mediante amenazas.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 359.
+
+Al que teniendo responsabilidad de tomar las medidas necesarias para el depósito y salvaguarda de toda la documentación electoral hasta que el Consejo Estatal Electoral acuerde su destrucción y no lo hiciere así, se le impondrán de tres a ocho años de prisión.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 360.
+
+Por la comisión de cualquier de los delitos comprendidos en el presente capítulo se podrá imponer además de la pena señalada, la inhabilitación de uno a cinco años y en su caso, la destitución del cargo.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 361.
+
+Los organismos electorales, a petición de los partidos políticos, formularán ante las autoridades correspondientes las denuncias a que se refiere este capítulo que procedan.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 362.
+
+Se impondrán de cien a doscientos días multa y prisión de dos a seis años al funcionario partidista que, a sabiendas, aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción III del artículo 357 de este Código.
+
 ## ARTICULOS TRANSITORIOS
 
 PRIMERO.- El presente Código se publicará en el Periódico Oficial "El Estado de Sinaloa" y entrará en vigor treinta días después de su publicación.
@@ -2745,10 +2889,16 @@ P.O. 10 DE AGOSTO DE 1994.
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1994)</small>
 
-###### ARTICULO UNICO.
+###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor el día 1o. de Septiembre de mil novecientos noventa y cuatro, previa publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 19 DE AGOSTO DE 1994.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SINALOA.
+
+P.O. 5 DE ABRIL DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Sinaloa".
