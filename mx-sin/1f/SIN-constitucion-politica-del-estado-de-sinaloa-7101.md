@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1943-06-22"
+last_updated: "1943-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 1943.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -205,13 +205,11 @@ El Poder Legislativo del Estado, se deposita en una asamblea que se denominará 
 
 #### SECCION I. DE LA ELECCION E INSTALACION DEL CONGRESO
 
-> <small>N. DE E. SE DEJA SIN EFECTO EL DECRETO No. 187 DE FECHA 29 DE JULIO DE 1937, POR DECRETO No. 413 DE FECHA 19 DE JULIO DE 1938, AMBOS PUBLICADOS EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO DE SINALOA.</small>
-
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 1930)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1943)</small>
 
 ###### Art. 23.
 
-El Congreso del Estado se compondrá de representantes electos popularmente cada cuatro años.
+El Congreso del Estado se compondrá de representantes electos popularmente cada tres años.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 1938)</small>
 
@@ -281,11 +279,11 @@ Ningún Diputado podrá ser procesado por delitos comunes u oficiales, sin que p
 
 Los Diputados propietarios, durante el período de su encargo y los Suplentes, cuando estuvieren en ejercicio, no podrán desempeñar, ni aun aceptar, ni en propiedad ni en suplencia, ninguna otra comisión o empleo de la Federación, del Estado o de los Municipios, por los que se disfrute sueldo o se reciban subsidios, sin licencia previa de la Cámara, pero entonces cesarán en sus funciones representativas, mientras dure la nueva ocupación. La infracción de este precepto será castigada, previo juicio de responsabilidad, con la pérdida del carácter de Diputado. Se exceptúan de las disposiciones de este artículo, los servicios prestados a las instituciones docentes o de beneficencia.
 
-> <small>N. DE E. SE DEJA SIN EFECTO EL DECRETO No. 187 DE FECHA 29 DE JULIO DE 1937, POR DECRETO No. 413 DE FECHA 19 DE JULIO DE 1938, AMBOS PUBLICADOS EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO DE SINALOA.</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1943)</small>
 
 ###### Art. 36.
 
-El Congreso tendrá cada año dos períodos ordinarios de sesiones, prorrogables a juicio de la Cámara, por el tiempo que fuere necesario; el primero, comenzará el día quince de septiembre y terminará el quince de enero siguiente, y el segundo principiará el quince de marzo y concluirá el quince de mayo inmediato.
+El Congreso tendrá cada año dos períodos ordinarios de sesiones, prorrogables a juicio de la Cámara, por el tiempo que fuere necesario; el primero, comenzará el día quince de noviembre y terminará el quince de febrero siguiente, y el segundo principiará el quince de abril y concluirá el quince de junio inmediato.
 
 > <small>N. DE E. SE DEJA SIN EFECTO EL DECRETO No. 187 DE FECHA 29 DE JULIO DE 1937, POR DECRETO No. 413 DE FECHA 19 DE JULIO DE 1938, AMBOS PUBLICADOS EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO DE SINALOA.</small>
 
@@ -1003,11 +1001,11 @@ Los Ayuntamientos tendrán personalidad jurídica para todos los efectos legales
 
 Compete a los Ayuntamientos el ejercicio del Poder Legislativo Municipal, con las limitaciones que las leyes señalen, correspondiendo al Presidente ejercer las funciones ejecutivas como Regidor comisionado, llevar la Jefatura política y administrativa de la Municipalidad, y presidir las sesiones de la Asamblea.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1943)</small>
 
 ###### Art. 113.
 
-La designación de Primer Regidor Presidente Municipal, Propietario y Suplente, y demás Regidores, se verificará cada dos años por elección directa y entrarán a funcionar el día primero de enero previa protesta que otorgarán ante el H. Ayuntamiento saliente. Por cada Regidor Propietario se elegirá un Suplente.
+La designación de Primer Regidor Presidente Municipal, Propietario y Suplente, y demás Regidores, se verificará cada tres años por elección directa y entrarán a funcionar el día primero de enero previa protesta que otorgarán ante el H. Ayuntamiento saliente. Por cada Regidor Propietario se elegirá un Suplente.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -1594,3 +1592,13 @@ Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicac
 P.O. 22 DE JUNIO DE 1943.
 
 Artículo Unico.- El presente Decreto comenzará a surtir sus efectos desde el día siguiente al de su publicación en el "Periódico Oficial del Gobierno del Estado."
+
+P.O. 23 DE SEPTIEMBRE DE 1943.
+
+###### Artículo 1o.
+
+El presente Decreto comenzará a surtir sus efectos legales, a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### Artículo 2o.
+
+Por esta sola vez, los ciudadanos Diputados que resultaren electos el primer domingo del julio de 1944 durarán en su cargo desde el día 15 de septiembre de 1944 al día 14 de noviembre de 1947.
