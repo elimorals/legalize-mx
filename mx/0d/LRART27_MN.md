@@ -4,7 +4,7 @@ identifier: "LRART27_MN"
 country: "mx"
 rank: "ley"
 publication_date: "1985-02-04"
-last_updated: "1985-02-04"
+last_updated: "1998-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=386&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRART27_MN"
 
 LEY REGLAMENTARIA DEL ARTICULO 27 CONSTITUCIONAL EN MATERIA NUCLEAR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ENERO DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 4 de febrero de 1985.
 
@@ -512,9 +512,11 @@ XVIII.- Las demás que se le confieran en esta Ley y en las disposiciones legale
 
 El Ejecutivo Federal, por conducto del titular de la Secretaría de Energía, Minas e Industria Paraestatal, podrá ejercer también las atribuciones contenidas en las fracciones anteriores.
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
 ###### Artículo 51.
 
-La Comisión Nacional de Seguridad Nuclear y Salvaguardias estará a cargo de un Director General, y contará con un Consejo Consultivo, así como con el personal necesario para ejercer las atribuciones que tiene encomendadas. El Director General será designado y removido por el Secretario de Energía, Minas e Industria Paraestatal. Para desempeñar dicho cargo se requiere ser mexicano por nacimiento y mayor de 30 años de edad; poseer título profesional, y contar con una experiencia mínima de cinco años en la materia.
+La Comisión Nacional de Seguridad Nuclear y Salvaguardias estará a cargo de un Director General, y contará con un Consejo Consultivo, así como con el personal necesario para ejercer las atribuciones que tiene encomendadas. El Director General será designado y removido por el Secretario de Energía. Para desempeñar dicho cargo se requiere ser mexicano por nacimiento que no adquiera otra nacionalidad, estar en pleno goce y ejercicio de sus derechos civiles y políticos; mayor de 30 años de edad; poseer título profesional, y contar con una experiencia mínima de cinco años en la materia.
 
 ###### Artículo 52.
 
@@ -559,3 +561,11 @@ El Ejecutivo Federal podrá autorizar a la Comisión Federal de Electricidad la 
 México, D. F., 27 de diciembre de 1984.- Enrique Soto Izquierdo, D.P.- Celso Humberto Delgado Ramírez, S.P.- Angélica Paulín Posada, D.S.- Rafael Armando Herrera Morales, S.S.- Rúbricas.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal a los veintiocho días del mes de diciembre de mil novecientos ochenta y cuatro.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D. Rúbrica.- El Secretario de Relaciones Exteriores, Bernardo Sepúlveda Amor.- Rúbrica.- El Secretario de la Defensa Nacional, Juan Arévalo Gardoqui.- Rúbrica.- El Secretario de Marina, Miguel Angel Gómez Ortega.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog Flores.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rúbrica.- El Secretario de la Contraloría General de la Federación, Francisco Rojas Gutiérrez.- Rúbrica.- El Secretario de Energía, Minas e Industria Paraestatal, Francisco Labastida Ochoa.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Héctor Hernández Cervantes.- Rúbrica.- El Secretario de Agricultura y Recursos Hidráulicos, Eduardo Pesqueira Olea.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Daniel Díaz Díaz.- Rúbrica.- El Secretario de Desarrollo Urbano y Ecología, Marcelo Javelly Girard.- Rúbrica.- El Secretario de Educación Pública, Jesús Reyes Heroles.- Rúbrica.- El Secretario de Salubridad y Asistencia, Guillermo Soberón Acevedo.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Arsenio Farell Cubillas.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS LEGALES”.]
+
+D.O.F. 23 DE ENERO DE 1998.
+
+ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
