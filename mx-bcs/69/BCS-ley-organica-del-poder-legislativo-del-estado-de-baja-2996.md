@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "1990-12-10"
+last_updated: "1995-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -45,9 +45,11 @@ DISPOSICIONES GENERALES.
 
 El Poder Legislativo se deposita en una asamblea que se denomina "CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR".
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 2o.
 
-El Congreso del Estado se integrará con Quince Diputados de Mayoría Relativa, electos en su totalidad cada tres años por votación directa y secreta, mediante el sistema de Distritos Electorales Uninominales y hasta con Cinco Diputados electos mediante el Principio de Representación Proporcional en los términos de la Constitución Política del Estado.
+El Congreso del Estado se intregrará (sic) con quince diputados de mayoría relativa, electos en su totalidad cada tres años por votación directa y secreta, mediante el sistema de distritos electorales uninominales y hasta con seis diputados electos mediante el principio de representación proporcional en los términos de la Constitución Política del Estado.
 
 ###### ARTICULO 3o.
 
@@ -107,95 +109,71 @@ EL COLEGIO ELECTORAL Y LA CALIFICACION DE LAS ELECCIONES.
 
 En la segunda quincena del mes de Febrero del año de renovación de los miembros del Congreso, y bajo la vigilancia de la Diputación Permanente, se abrirá por la Secretaría el libro destinado para el efecto del registro de las constancias de mayoría expedidas y debidamente requisitadas por las Autoridades Electorales, correspondientes a los presuntos Diputados propietarios y suplentes electos mediante el sistema de Distritos Electorales Uninominales, así como el de las constancias de asignación de los presuntos Diputados Propietarios y Suplentes electos mediante el principio de Representación Proporcional expedidas por el Organismo Electoral competente. En la solicitud de registro se especificará el domicilio de los presuntos, para los efectos de la Ley.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 14.
 
-A más tardar el día 2 de Marzo siguiente, la Diputación Permanente comunicará a los presuntos Diputados en su domicilio, el número de registro de su constancia de mayoría o de asignación, en su caso, o la negativa del registro, que procederá por: Falta de registro en el Organismo Estatal Electoral competente; cuando se hubiesen presentado para registro más de dos constancias de mayoría, correspondientes a candidatos propietarios y suplentes, procedentes de un mismo Distrito o que las constancias sean de dudosa autenticidad.
-
-En los casos de negativa de registro de las constancias, la Diputación Permanente entregará las solicitudes de registro a la Comisión calificadora del Colegio Electoral, quien decidirá sobre la autenticidad de las constancias o a quién corresponde el triunfo electoral.
+A más tardar el primer día hábil del mes de marzo, la Diputación Permanente comunicará a los presuntos diputados en su domicilio, el número de registro de su constancia de mayoría o de asignación.
 
 ###### ARTICULO 15.
 
-La Diputación Permanente del Congreso del Estado, convocará a Período Extraordinario de Sesiones diez días antes del que esté señalado para la instalación de la siguiente Legislatura, que tendrá como función específica calificar definitiva e irrevocablemente las Elecciones de los Diputados Locales que la habrán de integrar.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 16.
 
-El Período Extraordinario de Sesiones, será presidido por la Directiva que se elija, que procederá, con los expedientes enviados por el Organismo Estatal Electoral y Organismos Distritales, relativos al escrutinio general de votación recabada en el Proceso Electoral, a declarar erigido el Congreso en Colegio Electoral.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 17.
 
-El Colegio Electoral del Congreso del Estado calificará la elección de los presuntos Diputados y para tal efecto:
-
-a).- Resolverá la de aquellos que hubiesen obtenido Mayoría Relativa en cada uno de los Distritos Uninominales.
-
-b).- Resolverá la de aquellos que hayan obtenido la Representación Proporcional según listas estatales votadas en la circunscripción plurinominal.
-
-c).- En los casos que así proceda, resolverá sobre la nulidad de la elección de que se trate conforme a lo previsto por la Ley Electoral del Estado.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 18.
 
-El Colegio Electoral no podrá abrir sus sesiones ni ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus integrantes.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 19.
 
-Para el estudio y dictamen de los expedientes se formarán dos comisiones en el seno del Colegio Electoral, que contarán con un Presidente y dos Secretarios electos en forma individual por cédula, así como por un vocal por cada una de las fracciones parlamentarias que no hubieren quedado representadas al momento de su integración. Los representantes de las fracciones parlamentarias deberán ser acreditados ante cada Comisión y la Directiva del Congreso dentro de las 24 horas siguientes a la Sesión donde se elijan aquellas.
-
-La primera Comisión dictaminará el proceso para la elección de presuntos Diputados por el principio de Mayoría Relativa y la segunda dictaminará sobre las elecciones llevadas a cabo según el principio de Representación Proporcional.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 20.
 
-Los casos dictaminados serán tratados por el Colegio Electoral en Sesión Pública a que la directiva citará oportunamente.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 21.
 
-El conocimiento y la calificación de la elección de los Diputados deberán estar concluídos el 13 de Marzo del año de la elección.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 1995)
 
-Cualquier otro caso de conocimiento y calificación de elecciones de Diputados con posterioridad al plazo establecido en el párrafo anterior, se nombrará por el Congreso una Comisión Especial en los mismos términos señalados en el Artículo 19 de esta Ley, que presentará dictámenes para su discusión y aprobación por éste, constituído en Colegio Electoral.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 22.
 
-Cuando por alguna circunstancia hubiere desaparecido el Poder Legislativo del Estado, el registro de constancias de Mayoría se hará exclusivamente ante la Oficialía Mayor y la primera Junta Preparatoria será inicialmente dirigida por los tres presuntos Diputados que hayan registrado en primero, segundo y tercer lugar sus respectivos documentos. El del primer registro firmará como Presidente, el del segundo y tercer registro, como Secretarios Constituyentes en la Directiva hasta instalar el Colegio Electoral.
+Cuando por alguna circunstancia hubiere desaparecido el Poder Legislativo, el registro de constancias de los presuntos diputados propietarios y suplentes, electos por ambos principios, se hará exclusivamente ante la Oficialía Mayor.
 
 ###### ARTICULO 23.
 
-La Junta Preparatoria a que se refiere el Artículo 22, sujetará su desarrollo al siguiente orden:
-
-I.- La Junta Preparatoria, por conducto de su Presidente, hará la declaratoria de que existe Quórum, e iniciará los trabajos para que el Congreso se constituya en Colegio Electoral.
-
-II.- El Colegio Electoral estará compuesto de cinco Diputados de Mayoría Relativa, de acuerdo con las constancias que registre el Organismo Estatal Electoral que hayan obtenido el mayor número de votos en su Distrito y un presunto Diputado de Representación Proporcional, del Partido que haya obtenido el porcentaje más alto de votación en la entidad.
-
-III.- Los presuntos Diputados exhibirán ante la Junta Preparatoria, las constancias que registre el Organismo Electoral. Conforme a dichas constancias, se constituirá el Colegio Electoral, que se integrará en la forma ordenada por la Fracción anterior.
-
-El Presidente de la Junta Preparatoria hará el examen de las constancias respectivas y declarará que el Congreso del Estado se ha constituído en Colegio Electoral.
-
-IV.- Los seis presuntos Diputados integrantes del Colegio Electoral elegirán, por mayoría de votos y por medio de cédula secreta, un Presidente, un Vice-Presidente y dos Secretarios, dentro de ellos mismos.
-
-Esta Directiva fungirá durante todo el período del Colegio Electoral.
-
-V.- El escrutinio y la declaratoria correspondiente serán hechas por el Presidente de la primera Junta Preparatoria, quien desde luego hará entrega al Presidente de la Directiva del Colegio Electoral, de todos los documentos relativos a las elecciones de los presuntos Diputados.
-
-VI.- Habiendo tomado posesión la Directiva de la Junta Preparatoria del Colegio Electoral y recibida la documentación electoral, el Presidente designará tres comisiones, de tres miembros cada una, entre los presuntos Diputados que se encargarán de revisar los expedientes y de determinar sobre la legalidad del proceso y el resultado de la elección.
-
-La primera comisión dictaminará sobre la legitimidad del resto de los presuntos Diputados electos mediante el sistema de Mayoría Relativa; la segunda dictaminará sobre la elección de los presuntos Diputados de la primera comisión electos también por Mayoría Relativa y la tercera que dictaminará sobre la elección de presuntos Diputados de Representación Proporcional. El presunto Diputado electo por el Sistema de Representación Proporcional integrante del Colegio Electoral, no podrá pertenecer a la tercera comisión.
-
-VII.- Nombradas las comisiones a que hace referencia la Fracción anterior, los Secretarios darán lectura al inventario de los expedientes electorales recibidos, los que de inmediato se entregarán a las comisiones respectivas; quienes formularán el recibo de rigor y la Presidencia citará para nueva junta dentro del tercer día.
-
-VIII.- La intervención de la tercera comisión se iniciará tan pronto como fueren siendo calificados los dictámenes de las dos primeras, y una vez conocidos los resultados de la votación global del Estado, formularán los dictámenes correspondientes a los Diputados de Representación Proporcional con base en lo dispuesto en la Constitución del Estado y en la Ley de la materia.
-
-IX.- En la segunda Junta Preparatoria presentarán sus dictámenes las dos comisiones dictaminadoras, elaboradas unitariamente.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 1995)
 
 ### CAPITULO II
 
 DE LA INSTALACION DEL CONGRESO.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 24.
 
-Para la instalación del Congreso del Estado, la Directiva del Colegio Electoral convocará a los integrantes de la siguiente Legislatura para reunirse un día antes de la fecha señalada para el inicio del Primer Período Ordinario de Sesiones y con la presencia del Presidente de la Legislatura saliente o de la Diputación Permanente en su caso, se procederá en la siguiente forma:
+Para la instalación del Congreso del Estado, la Diputación Permanente convocará a los integrantes de la siguiente Legislatura para reunirse un día antes de la fecha señalada para el inicio del primer periódo ordinario de sesiones y con la presencia del presidente de la Diputación Permanente se procederá en la siguiente forma:
 
-a).- El Presidente de la Legislatura saliente o de la Diputación Permanente en su caso, pedirá al Secretario de la Mesa Directiva, proceda a dar lectura a la lista de los Diputados que hayan resultado electos y comprobar que se tiene el Quórum que señala el artículo 52 de la Constitución Política del Estado.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
 
-b).- Seguidamente el Presidente de la Legislatura saliente o de la Diputación Permanente en su caso, solicitará al Secretario de la Mesa Directiva dar lectura al Decreto en el cual se declaren válidas las elecciones relativas a los Diputados que integrarán la siguiente Legislatura.
+a).- El presidente de la Diputación Permanente pedirá al secretario de la mesa directiva, proceda a dar lectura a la lista de los diputados que hayan resultado electos y comprobar que se tiene quórum que señala el artículo 52 de la Constitución Política del Estado.
 
-c).- A continuación se procederá a elegir por cédula secreta la Directiva del Primer Período Ordinario de Sesiones de la nueva Legislatura, la que tomará posesión de sus cargos inmediatamente. Con lo anterior, concluirá la función de la Directiva de la Legislatura saliente o de la Diputación permanente en su caso, por lo cual se retirará del Presidium.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
+
+b).- Seguidamente el presidente de la Diputación Permanente solicitará al secretario de la mesa directiva dar lectura a la declaratoria de validez de las elecciones relativas a los diputados que integraran la siguiente Legislatura.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
+
+c).- A continuación se procederá a elegir por cédula secreta la directiva del Primer Periódo Ordinario de Sesiones de la nueva Legislatura, la que tomará posesión de sus cargos inmediatamente. Con lo anterior concluirá la función de la Diputación Permanente, por lo cual se retirará del presidium.
 
 d).- Instalada la Directiva, el Presidente rendirá su protesta en los siguientes términos:
 
@@ -215,9 +193,13 @@ f).- A continuación, el Presidente electo expresará:
 
 "EL CONGRESO DE BAJA CALIFORNIA SUR, SE DECLARA LEGITIMAMENTE INSTALADO, LO CUAL SE COMUNICARA A LOS OTROS DOS PODERES Y AYUNTAMIENTOS DE LA ENTIDAD, ASI COMO A LAS DEMAS AUTORIDADES DE LOS ESTADOS DE LA REPUBLICA".
 
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
+
+g).- Las (sic) sesión en que se instale el Congreso del Estado, será siempre solemne.
+
 ###### ARTICULO 25.
 
-En caso de proceder conforme a lo estipulado en el Artículo 22 de esta Ley, en la última Junta Preparatoria del Colegio Electoral, puestos de pie todos los presuntos Diputados y el Público asistente, el Presidente rendirá su protesta en los términos señalados en el Artículo 24 del presente ordenamiento.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 1995)
 
 ## TITULO TERCERO. DE LA ORGANIZACION DEL CONGRESO
 
@@ -1017,9 +999,11 @@ Son Sesiones Solemnes aquellas que determine la asamblea para la conmemoración 
 
 En estas Sesiones, siempre hará uso de la palabra, en representación del Congreso, alguno o algunos de los Diputados.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 95.
 
-Siempre serán Solemnes las Sesiones en que:
+Siempre serán solemnes las sesiones en que:
 
 I.- Concurra a ellas el Ciudadano Presidente Constitucional de los Estados Unidos Mexicanos;
 
@@ -1030,6 +1014,10 @@ III.- Rinda el mismo funcionario el Informe del Estado que guarda la Administrac
 IV.- Ocurran en visita, Delegaciones Parlamentarias del Congreso de la Unión, de las Entidades Federativas, o de otros Países;
 
 V.- Se inicie o concluya un Período Ordinario de Sesiones.
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 1995)</small>
+
+VI.- Rindan protesta Constitucional los Diputados.
 
 ###### ARTICULO 96.
 
@@ -1267,7 +1255,7 @@ Si en el curso de las discusiones, el orador, con el propósito de allegar más 
 
 ###### ARTICULO 133.
 
-Los integrantes de la Comisión Dictaminadora y él o los Diputados autores de la iniciativa, podrán hacer uso de la palabra en la discusión de un negocio, aún sin haberse inscrito y cuantas veces la soliciten.
+Los integrantes de la Comisión Dictaminadora y el o los Diputados autores de la iniciativa, podrán hacer uso de la palabra en la discusión de un negocio, aún sin haberse inscrito y cuantas veces la soliciten.
 
 ###### ARTICULO 134.
 
@@ -1613,6 +1601,8 @@ DE LA CALIFICACION DE LA ELECCION DE SENADORES.
 
 DE LA CALIFICACION DE LA ELECCION DE GOBERNADOR.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 193.
 
 Interpuesta una denuncia, querella, requerimiento del Ministerio Público o acusación ante el Congreso del Estado para instruir el Procedimiento relativo al Juicio Político o para la Declaración de Procedencia a que se refiere el Título II de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Baja California Sur, se discutirá y dictaminará en Sesión Secreta, turnándose el asunto si procediere a la Comisión Instructora en los términos del Artículo 12 de la Ley de Responsabilidades.
@@ -1711,17 +1701,19 @@ DEL NOMBRAMIENTO E INSTALACION DE LA DIPUTACION PERMANENTE.
 
 ###### ARTICULO 214.
 
-En las fechas previstas en la Legislación Electoral Federal, para la renovación de los miembros de la Cámara de Senadores, se dará cuenta, por la Secretaría o la Diputación Permanente en su caso con el expediente enviado por el Organismo Local Electoral y relativo al escrutinio general de la votación recabada en el Estado para la elección de Senadores de la República, correspondiente a esta Entidad. Acto continuo, el Presidente de la Diputación Permanente o el del Congreso en su caso, declarará erigido al Congreso en Colegio Electoral, designándose dentro de sus miembros una comisión que revisará el proceso electoral y formulará el dictamen correspondiente, integrada por un Presidente y dos Secretarios, así como por un vocal por cada una de las fracciones parlamentarias que no hubieren quedado representadas al momento de su integración, que deberán ser acreditados ante la Directiva y la Comisión dentro de las veinticuatro horas siguientes a la Sesión donde se elija aquélla.
-
-Aprobado el dictamen por la Asamblea, el Presidente de la Diputación Permanente o el del Congreso, hará la declaración de los nombres de los ciudadanos electos Senadores de la República por el Estado, disponiéndose a remitir la documentación respectiva a la Cámara de Senadores para los efectos del Artículo 60 de la Constitución Política de los Estados Unidos Mexicanos.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 1995)
 
 ### CAPITULO II
 
 DE LAS ATRIBUCIONES Y FUNCIONAMIENTO DE LA DIPUTACION PERMANENTE.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 215.
 
-Recibidos los paquetes de la elección de Gobernador remitidos por el Organismo Estatal Electoral, se procederá de conformidad con el Artículo 187 de la Ley Estatal Electoral, a calificar la elección de Gobernador del Estado, sea elección Ordinaria o Extraordinaria. El Congreso en Pleno se erigirá en Colegio Electoral designándose a continuación dentro de sus miembros, una Comisión que ha de elaborar el dictamen sobre la validez de las elecciones. El primero de los Diputados nombrados fungirá como Presidente de la Comisión y los dos siguientes como Secretarios, así como por un vocal por cada una de las Fracciones Parlamentarias que no hubieren quedado representadas al momento de su integración, que deberán ser acreditados ante la Directiva y la Comisión dentro de las veinticuatro horas siguientes a la Sesión donde se elija aquélla.
+Recibidos los paquetes de la elección de Gobernador remitidos por el organismo Estatal Electoral, se procederá de conformidad con el artículo 292 de la Ley Electoral del Estado de Baja California Sur, a calificar la elección de Gobernador del Estado, sea elección ordinaria o extraordinaria.
+
+El Congreso en pleno se erigirá en colegio electoral designándose a continuación dentro de sus miembros, una comisión que ha de elaborar el dictamen sobre la validez de las elecciones. El primero de los diputados nombrados fungirá como presidente de la comisión y los dos siguientes como secretarios, así como por un vocal por cada una de las fracciones parlamentarias que no hubieren quedado representadas al momento de su integración, que deberán ser acreditados ante la directiva y la comisión dentro de las veinticuatro horas siguientes a la sesión donde se elija aquella.
 
 ###### ARTICULO 216.
 
@@ -1733,19 +1725,19 @@ En caso de falta absoluta del Gobernador del Estado, se procederá de conformida
 
 ###### ARTICULO 218.
 
-Recibidos los paquetes electorales relativos a la elección de miembros de los Ayuntamientos que remitan los organismos Municipales Electorales respectivos, el Congreso procederá a la calificación de las elecciones, de conformidad a lo establecido en la Fracción VII del Artículo 64 de la Constitución Política del Estado. El Congreso en Pleno se erigirá en Colegio Electoral y eligirá (sic) de inmediato por mayoría de votos y por medio de cédula secreta, una Comisión que se encargará de revisar el Proceso Electoral de cada Ayuntamiento y de formular el dictamen correspondiente.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 219.
 
-La Comisión dictaminadora a que se refiere el Artículo anterior, estará integrada por un Presidente y dos Secretarios, así como por un vocal por cada una de las Fracciones Parlamentarias que no hubieren quedado representadas al momento de su integración, que deberán ser acreditados ante la Directiva y la Comisión dentro de las veinticuatro horas siguientes a la Sesión donde se elija aquélla. El Presidente recibirá la documentación electoral de cada Ayuntamiento, para su revisión exhaustiva.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 220.
 
-Dentro de los siguientes siete días hábiles, la Comisión formulará su dictamen, que desde luego se someterá a discusión y votación. Se presentará un dictamen por cada Ayuntamiento.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 221.
 
-Una vez aprobados los dictámenes respectivos, se publicarán los Decretos declarando electos a los ciudadanos que hayan obtenido el triunfo.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 222.
 
@@ -1765,11 +1757,15 @@ Las faltas del Presidente se cubrirán por el Secretario; en su defecto por el m
 
 ###### ARTICULO 226.
 
-Son facultades de la Diputación Permanente:
+Son facultades de la diputación permanente:
 
-I.- Acordar por si o a propuesta del Gobernador, la convocatoria a Periodo extraordinario de Sesiones;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1995)</small>
 
-II.- Recibir en su caso, los expedientes relativos a las elecciones de Gobernador, Senadores, Diputados locales y Ayuntamientos, convocando al Congreso del Estado para los efectos conducentes;
+I.- Acordar por si o a propuesta del Gobernador, la convocatoria a periódo extraordinario de sesiones;
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1995)</small>
+
+II.- Recibir en su caso los expedientes relativos a las elecciones de Gobernador, convocando al Congreso del Estado para los efectos conducentes;
 
 III.- Instalar y presidir la Primera Junta Preparatoria del nuevo Congreso del Estado;
 
@@ -1856,3 +1852,9 @@ LIC. VICTOR MANUEL LICEAGA RUIBAL.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. MARIO VARGAS AGUIAR.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 20 DE DICIEMBRE DE 1995.
+
+UNICO.- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
