@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "1983-12-31"
+last_updated: "1984-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1984.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1737,6 +1737,20 @@ El robo de infante lo comete el que se apodere de un menor de doce años de edad
 
 Si el menor es restituido a su familia o a la autoridad, espontáneamente, dentro de los quince días a partir de la fecha de la substracción y sin causarle perjuicio, solamente se aplicará al responsable la sanción de seis meses a cuatro años de prisión.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 1984)</small>
+
+###### Art. 179 Bis.
+
+Al ascendiente que ejerza la patria potestad o al que tenga a su cargo la custodia de un menor de 14 años, aunque ésta no haya sido declarada, que ilegítimamente lo entregue a otro para su custodia, a cambio de un beneficio económico, se le aplicará pena de prisión de 2 a 8 años y multa por el importe de 20 a 100 días de salario.
+
+La misma pena a que se refiere el párrafo anterior, se le impondrá a quien reciba al menor y también al tercero que lleve a cabo la entrega de éste a cambio de un beneficio económico. Si el tercero a que se hace mención tiene carácter de directivo de alguna institución a quien corresponda la custodia del menor, se le aplicará además la pena de destitución y la inhabilitación definitiva para ocupar un cargo similar.
+
+Si la entrega del menor se hace sin la finalidad de obtener un beneficio económico, la pena que se aplicará a los responsables, será de 1 a 3 años de prisión.
+
+Si se acredita que quien recibió al menor, lo hizo para incorporarlo a su núcleo familiar y otorgarle los beneficios propios de tal incorporación, la pena se le reducirá hasta la cuarta parte de la prevista en el párrafo anterior. Tal reducción beneficiará a todos los que participaron en la comisión del delito, si no actuaron con la finalidad de obtener un beneficio económico. En este caso, sólo se procederá por querella o denuncia de parte interesada.
+
+Además de las sanciones señaladas, se privará de los derechos de patria potestad, tutela o custodia, en su caso, a quienes teniendo el ejercicio de éstos con respecto al menor entregado, cometan el delito a que se refiere el presente artículo.
+
 ### CAPITULO VI. Delitos relacionados con la capacidad pecuniaria de las personas sujetas a concurso de acreedores
 
 ###### Art. 180.
@@ -2329,15 +2343,17 @@ III. El hecho de que una persona disponga, como suyo, del depósito que garantic
 
 Comete el delito de fraude, el que, engañando a alguno o aprovechándose del error en que éste se halle, se haga ilícitamente de una cosa o alcance un lucro o beneficio indebido, para sí o para otro.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1984)</small>
+
 ###### Art. 251.
 
-Al responsable del delito de fraude, se le sancionará conforme a las reglas siguientes:
+Al responsable del delito de fraude, se le sancionará conforme a las siguientes reglas:
 
-I. De seis meses a dos años de prisión y multa por el importe de dos a ocho días de salario, cuando el valor de lo defraudado no exceda del importe de ochenta días del salario;
+I. De 6 meses a 2 años de prisión y multa por el importe de 2 a 8 días de salario, cuando el valor de lo defraudado no exceda del importe de 450 días del salario mínimo, vigente en el lugar de la comisión del delito;
 
-II. Cuando el valor de lo defraudado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente, la sanción será de dos a siete años de prisión y multa por el importe de cuatro a cuarenta días de salario. La misma sanción se aplicará en el caso de la fracción siguiente cuando se restituya la cosa o su valor y se repare el daño hasta antes de formular conclusiones en el proceso; y
+II. Cuando el valor de lo defraudado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente, la sanción será de 2 a 7 años de prisión y multa por el importe de 4 a 40 días de salario. La misma sanción se aplicará en el caso de la fracción siguiente, cuando se restituya la cosa o su valor y se repare el daño, hasta antes de formular conclusiones en el proceso; y
 
-III. De cuatro a diez años de prisión y multa por el importe de veinte a ochenta días de salario, cuando el valor de lo defraudado exceda del importe de mil novecientos días de salario.
+III. De 4 a 10 años de prisión y multa por el importe de 20 a 80 días de salario, cuando el valor de lo defraudado exceda del importe de 2520 días de salario mínimo, que rija en el lugar de la comisión del delito.
 
 ###### Art. 252.
 
@@ -2347,7 +2363,9 @@ I. Al que obtenga dinero, valores o cualquiera otra cosa, ofreciendo encargarse 
 
 II. Al que por título oneroso enajene, arriende, hipoteque, empeñe o grave de cualquier modo alguna cosa, sin tener derecho para ello, con independencia de que haya o no recibido, total o parcialmente el precio, el alquiler o la cantidad materia del contrato;
 
-III. Al que obtenga de otro una cantidad de dinero o cualquier otro lucro, otorgándole o endosándole a nombre propio o de otro, un documento nominativo, a la orden, o al portador, que no sea cheque, contra una persona supuesto (sic), que el otorgante sabe que no ha de pagarlo;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1984)</small>
+
+III. Al que obtenga de otro una cantidad de dinero o cualquier otro lucro, otorgándole o endosándole, a nombre propio o de otro, un documento nominativo, a la orden, o al portador, expedido contra una persona física o moral, real o supuesta, que el otorgante sabe que no ha de pagarse a su vencimiento.
 
 IV. Al que se haga servir alguna cosa o admita un servicio en su establecimiento comercial de cualquier clase y no pague el importe;
 
@@ -2572,3 +2590,19 @@ DECRETO 11520
 Primero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Segundo. Este Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O 14 DE AGOSTO DE 1984.
+
+DECRETO 11601
+
+Artículo Primero. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Artículo Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 14 DE AGOSTO DE 1984.
+
+DECRETO 11602
+
+Primero. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
