@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-la-coordinacion-estatal-de-la-tarahumara-4567"
 country: "mx"
 rank: "ley"
 publication_date: "1987-08-08"
-last_updated: "1987-08-08"
+last_updated: "1988-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LA COORDINACION ESTATAL DE LA TARAHUMARA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 1988.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de agosto de 1987.
 
@@ -137,17 +137,23 @@ c).- DIRECCION GENERAL DE DESARROLLO SOCIAL;
 
 d).- DIRECCION GENERAL DE FOMENTO ECONOMICO;
 
-e).- DIRECCION GENERAL DE DESARROLLO URBANO Y VIVIENDA;
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1988)</small>
+
+e).- DIRECCION GENERAL DE DESARROLLO URBANO;
 
 f).- DIRECCION GENERAL DE COMUNICACIONES Y OBRAS PUBLICAS;
 
 g).- DIRECCION GENERAL DE ADMINISTRACION;
 
-h).- COORDINACION DE FORTALECIMIENTO MUNICIPAL;
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 1988)</small>
 
-i).- COORDINACION DE PLANEACION Y EVALUACION Y
+h).- DIRECCION GENERAL DE DESARROLLO RURAL;
 
-j).- JUNTA CENTRAL DE AGUA Y SANEAMIENTO.
+i).- COORDINACION DE FORTALECIMIENTO MUNICIPAL;
+
+j).- COORDINACION DE PLANEACION Y EVALUACION Y
+
+k).- JUNTA CENTRAL DE AGUA Y SANEAMIENTO.
 
 ###### ARTICULO 8.
 
@@ -264,3 +270,9 @@ LIC. FERNANDO BAEZA MELENDEZ.
 EL SECRETARIO DE GOBIERNO
 
 LIC. MARTHA I. LARA ALATORRE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE ENERO DE 1988.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
