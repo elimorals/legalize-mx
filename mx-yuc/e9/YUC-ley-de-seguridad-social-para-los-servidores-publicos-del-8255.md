@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-seguridad-social-para-los-servidores-publicos-del-8255"
 country: "mx"
 rank: "ley"
 publication_date: "1976-09-10"
-last_updated: "1982-10-13"
+last_updated: "1988-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE YUCATAN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARACTER ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE OCTUBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE ABRIL DE 1988.
 
 Ley publicada en el Diario Oficial el Viernes 10 de Septiembre de 1976.
 
@@ -335,11 +335,11 @@ Cuando un servidor público con quince o más años de servicios e igual tiempo 
 
 ### CAPITULO QUINTO. Seguro de Fallecimiento
 
-> <small>(REFORMADO, D.O. 22 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, D.O. 4 DE ABRIL DE 1988)</small>
 
 ###### Artículo 34.
 
-Se establece un seguro de $100,000.00 por fallecimiento del servidor público o del jubilado; sin perjuicio de las prestaciones a que tengan derecho sus familiares o dependientes económicos en otras Instituciones de carácter sindical, mutualista.
+Se establece un seguro por fallecimiento del servidor público o del jubilado, sin perjuicio de las prestaciones a que tengan derecho sus familiares o dependientes económicos en otras instituciones de carácter sindical, mutualista o de otra índole. El monto del seguro de que se trata será por una cantidad igual a cinco meses del salario mínimo general que rija en la capital del Estado, en la fecha del fallecimiento del trabajador o jubilado.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -1064,3 +1064,7 @@ UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación e
 D.O. 13 DE OCTUBRE DE 1982.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 4 DE ABRIL DE 1988.
+
+UNICO.- El Presente Decreto deroga las disposiciones legales que lo contravengan y entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
