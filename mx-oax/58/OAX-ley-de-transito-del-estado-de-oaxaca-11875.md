@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-del-estado-de-oaxaca-11875"
 country: "mx"
 rank: "ley"
 publication_date: "1969-07-05"
-last_updated: "1972-11-04"
+last_updated: "1975-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSITO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1975.
 
 Ley publicada en el Periódico Oficial Organo del Gobierno Constitucional del Estado Libre y Soberano de Oaxaca, el Sábado 5 de Julio de 1969.
 
@@ -403,19 +403,21 @@ Los derechos al establecimiento y explotación de los servicios públicos de tra
 
 SANCIONES.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
 ###### Artículo 30.
 
 Las violaciones a las disposiciones de esta Ley y sus reglamentos, se sancionarán con:
 
-I.- Multa de $10.00 a $500.00.
+I.- Multa de $25.00 a $1,000.00.
 
 II.- Suspención de licencias para el manejo y tránsito de vehículos.
 
-III.- Cancelación de licencias para el manejo y el tránsito de vehículos.
+III.- Cancelación de licencias para el manejo y tránsito de vehículos.
 
 IV.- Revocación de concesiones y permisos para la explotación de servicios públicos de transporte de pasajeros o de carga.
+
+V.- Arresto.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
@@ -492,3 +494,9 @@ La presente Ley entrará en vigor a los 15 días de su publicación en el Perió
 ###### Artículo 3o.
 
 Los servicios públicos de transporte de pasajeros o de carga se regularizarán dentro del plazo de 90 días a partir de la vigencia de esta Ley.
+
+P.O. 27 DE DICIEMBRE DE 1975.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
