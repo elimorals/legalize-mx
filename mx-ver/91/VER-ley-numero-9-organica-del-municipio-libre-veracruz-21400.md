@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2003-11-18"
+last_updated: "2003-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -95,9 +95,11 @@ Cuando dos o más municipios tengan graves dificultades para prestar los servici
 
 ### CAPÍTULO III. DEL TERRITORIO DE LOS MUNICIPIOS
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 9.
 
-El territorio del Estado se divide en 210 Municipios denominados como sigue: Acajete, Acatlán, Acayucan, Actopan, Acula, Acultzingo, Agua Dulce, Alpatláhuac, Alto Lucero, Altotonga, Alvarado, Amatitlán, Amatlán de los Reyes, Angel R. Cabada, La Antigua, Apazapan, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Atzalan, Ayahualulco, Banderilla, Benito Juárez, Boca del Río, Calcahualco, Camarón de Tejeda, Camerino Z. Mendoza, Carlos A. Carrillo, Carrillo Puerto, Castillo de Teayo, Catemaco, Cazones de Herrera, Cerro Azul, Citlaltépetl, Coacoatzintla, Coahuitlán, Coatepec, Coatzacoalcos, Coatzintla, Coetzala, Colipa, Comapa, Córdoba, Cosamaloapan, Cosautlán de Carvajal, Coscomatepec, Cosoleacaque, Cotaxtla, Coxquihui, Coyutla, Cuichapa, Cuitláhuac, Chacaltianguis, Chalma, Chiconamel, Chiconquiaco, Chicontepec, Chinameca, Chinampa de Gorostiza, Las Choapas, Chocamán, Chontla, Chumatlán, Emiliano Zapata, Espinal, Filomeno Mata, Fortín, Gutiérrez Zamora, Hidalgotitlán, El Higo, Huatusco, Huayacocotla, Hueyapan de Ocampo, Huiloapan de Cuauhtémoc, Ignacio de la Llave, Ilamatlán, Isla, Ixcatepec, Ixhuacán de los Reyes, Ixhuatlán de Madero, Ixhuatlán del Café, Ixhuatlán del Sureste, Ixhuatlancillo, Ixmatlahuacan, Ixtaczoquitlán, Jalacingo, Jalcomulco, Jáltipan, Jamapa, Jesús Carranza, Jilotepec, José Azueta, Juan Rodríguez Clara, Juchique de Ferrer, Landero y Coss, Lerdo de Tejada, Magdalena, Maltrata, Manlio Fabio Altamirano, Mariano Escobedo, Martínez de la Torre, Mecatlán, Mecayapan, Medellín, Miahuatlán, Las Minas, Minatitlán, Misantla, Mixtla de Altamirano, Moloacán, Nanchital de Lázaro Cárdenas del Río, Naolinco, Naranjal, Naranjos-Amatlán, Nautla, Nogales, Oluta, Omealca, Orizaba, Otatitlán, Oteapan, Ozuluama, Pajapan, Pánuco, Papantla, Paso de Ovejas, Paso del Macho, La Perla, Perote, Platón Sánchez, Playa Vicente, Poza Rica de Hidalgo, Pueblo Viejo, Puente Nacional, Rafael Delgado, Rafael Lucio, Los Reyes, Río Blanco, Saltabarranca, San Andrés Tenejapan, San Andrés Tuxtla, San Juan Evangelista, Santiago Tuxtla, Sayula de Alemán, Soconusco, Sochiapa, Soledad Atzompa, Soledad de Doblado, Soteapan, Tamalín, Tamiahua, Tampico Alto, Tancoco, Tantima, Tantoyuca, Tatahuicapan de Juárez, Tatatila, Tecolutla, Tehuipango, Temapache, Tempoal, Tenampa, Tenochtitlán, Teocelo, Tepatlaxco, Tepetlán, Tepetzintla, Tequila, Texcatepec, Texhuacán, Texistepec, Tezonapa, Tierra Blanca, Tihuatlán, Tlacojalpan, Tlacolulan, Tlacotalpan, Tlacotepec de Mejía, Tlachichilco, Tlalixcoyan, Tlaltetela, Tlalnelhuayocan, Tlapacoyan, Tlaquilpa, Tlilapan, Tomatlán, Tonayán, Totutla, Tres Valles, Tuxpan, Tuxtilla, Ursulo Galván, Uxpanapa, Vega de Alatorre, Veracruz, Las Vigas de Ramírez, Villa Aldama, Xalapa, Xico, Xoxocotla, Yanga, Yecuatla, Zacualpan, Zaragoza, Zentla, Zongolica, Zontecomatlán y Zozocolco de Hidalgo.
+El territorio del Estado se divide en 212 Municipios denominados como sigue: Acajete, Acatlán, Acayucan, Actopan, Acula, Acultzingo, Agua Dulce, Alpatláhuac, Alto Lucero, Altotonga, Alvarado, Amatitlán, Amatlán de los Reyes, Angel R. Cabada, La Antigua, Apazapan, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Atzalan, Ayahualulco, Banderilla, Benito Juárez, Boca del Río, Calcahualco, Camarón de Tejeda, Camerino Z. Mendoza, Carlos A. Carrillo, Carrillo Puerto, Castillo de Teayo, Catemaco, Cazones de Herrera, Cerro Azul, Citlaltépetl, Coacoatzintla, Coahuitlán, Coatepec, Coatzacoalcos, Coatzintla, Coetzala, Colipa, Comapa, Córdoba, Cosamaloapan, Cosautlán de Carvajal, Coscomatepec, Cosoleacaque, Cotaxtla, Coxquihui, Coyutla, Cuichapa, Cuitláhuac, Chacaltianguis, Chalma, Chiconamel, Chiconquiaco, Chicontepec, Chinameca, Chinampa de Gorostiza, Las Choapas, Chocamán, Chontla, Chumatlán, Emiliano Zapata, Espinal, Filomeno Mata, Fortín, Gutiérrez Zamora, Hidalgotitlán, El Higo, Huatusco, Huayacocotla, Hueyapan de Ocampo, Huiloapan de Cuauhtémoc, Ignacio de la Llave, Ilamatlán, Isla, Ixcatepec, Ixhuacán de los Reyes, Ixhuatlán de Madero, Ixhuatlán del Café, Ixhuatlán del Sureste, Ixhuatlancillo, Ixmatlahuacan, Ixtaczoquitlán, Jalacingo, Jalcomulco, Jáltipan, Jamapa, Jesús Carranza, Jilotepec, José Azueta, Juan Rodríguez Clara, Juchique de Ferrer, Landero y Coss, Lerdo de Tejada, Magdalena, Maltrata, Manlio Fabio Altamirano, Mariano Escobedo, Martínez de la Torre, Mecatlán, Mecayapan, Medellín, Miahuatlán, Las Minas, Minatitlán, Misantla, Mixtla de Altamirano, Moloacán, Nanchital de Lázaro Cárdenas del Río, Naolinco, Naranjal, Naranjos-Amatlán, Nautla, Nogales, Oluta, Omealca, Orizaba, Otatitlán, Oteapan, Ozuluama, Pajapan, Pánuco, Papantla, Paso de Ovejas, Paso del Macho, La Perla, Perote, Platón Sánchez, Playa Vicente, Poza Rica de Hidalgo, Pueblo Viejo, Puente Nacional, Rafael Delgado, Rafael Lucio, Los Reyes, Río Blanco, Saltabarranca, San Andrés Tenejapan, San Andrés Tuxtla, San Juan Evangelista, San Rafael, Santiago Sochiapan, Santiago Tuxtla, Sayula de Alemán, Soconusco, Sochiapa, Soledad Atzompa, Soledad de Doblado, Soteapan, Tamalín, Tamiahua, Tampico Alto, Tancoco, Tantima, Tantoyuca, Tatahuicapan de Juárez, Tatatila, Tecolutla, Tehuipango, Temapache, Tempoal, Tenampa, Tenochtitlán, Teocelo, Tepatlaxco, Tepetlán, Tepetzintla, Tequila, Texcatepec, Texhuacán, Texistepec, Tezonapa, Tierra Blanca, Tihuatlán, Tlacojalpan, Tlacolulan, Tlacotalpan, Tlacotepec de Mejía, Tlachichilco, Tlalixcoyan, Tlaltetela, Tlalnelhuayocan, Tlapacoyan, Tlaquilpa, Tlilapan, Tomatlán, Tonayán, Totutla, Tres Valles, Tuxpan, Tuxtilla, Ursulo Galván, Uxpanapa, Vega de Alatorre, Veracruz, Las Vigas de Ramírez, Villa Aldama, Xalapa, Xico, Xoxocotla, Yanga, Yecuatla, Zacualpan, Zaragoza, Zentla, Zongolica, Zontecomatlán y Zozocolco de Hidalgo.
 
 ###### Artículo 10.
 
@@ -2314,3 +2316,9 @@ G.O. 18 DE NOVIEMBRE DE 2003.
 Primero. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 31 DE DICIEMBRE DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor el primero de enero de dos mil cuatro, previa publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
