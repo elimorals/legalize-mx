@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-tenencia-o-uso-de-vehiculos-618"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1990-12-26"
+last_updated: "1991-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=618&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1980-12-19"
 
 LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE DICIEMBRE DE 1991.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 30 de diciembre de 1980.
 
@@ -63,9 +63,9 @@ Tratándose de motocicletas y automóviles nuevos cuya enajenación al público 
 
 Para los efectos de esta Ley, también se consideran automóviles, a los omnibuses, camiones y tractores no agrícolas tipo quinta rueda.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-En el caso de vehículos de años modelo o de años de fabricación anteriores al de aplicación de esta Ley, el impuesto será la cantidad que resulte de aplicar lo dispuesto en los artículos 5o., 12, 13 y 14 de esta Ley, según corresponda, disminuida en 10% por cada año de antigüedad del vehículo. En caso de que no pueda comprobarse los años de antigüedad del vehículo, el impuesto se pagará sin hacer las disminuciones a que se refiere el párrafo anterior.
+En el caso de vehículos de años modelo o de años de fabricación anteriores al de aplicación de esta Ley, el impuesto será la cantidad que resulte de aplicar lo dispuesto en los artículos 5o., 12, 13 y 14 de esta Ley, según corresponda, disminuida en 10% por cada uno de los primeros diez años de antigüedad del vehículo. Los vehículos cuyo año modelo sea anterior a diez años al de aplicación de esta Ley, estarán a lo dispuesto en los artículos 5o. fracción V y 14-A. En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto se pagará como si este fuese nuevo.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -103,17 +103,41 @@ I.- En el caso de vehículos del año modelo de aplicación de la Ley, destinado
 
 (VEASE TABLA)
 
-II.- Tratándose de vehículos de las categorías "A" o "B", a que se refiere la fracción anterior, que sean de año modelo anteriores al de aplicación de esta Ley, se multiplicará el precio promedio de enajenación del año modelo al que corresponda, aplicando el factor que proceda conforme a la Tabla de ajuste que anualmente establezca el Congreso de la Unión.
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+Los montos de las cantidades establecidas en la tabla a que se refiere esta fracción, se actualizarán trimestralmente, con el factor que se obtenga de dividir el Indice Nacional de Precios al Consumidor del mes inmediato anterior a aquél por el que se efectúa la actualización, entre el mencionado índice correspondiente al cuarto mes inmediato anterior a esa fecha. La Secretaría de Hacienda y Crédito Público hará las operaciones aritméticas previstas en este párrafo y publicará la tarifa actualizada en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+II.- Tratándose de vehículos de las categorías "A" o "B", a que se refiere la fracción anterior, que sean de año modelo anteriores al de aplicación de esta Ley, se multiplicará el precio promedio de enajenación del año modelo al que corresponda, por el factor que proceda conforme a la tabla de ajuste que anualmente establezca el Congreso de la Unión por 1.03% y al resultado se aplicará la tabla a que se refiere la fracción I de este artículo.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 El precio promedio de enajenación a que se refiere el párrafo anterior será el que se determine al 1o. de enero del año siguiente al del año modelo, dividiendo el importe total de las ventas de cada versión, del fabricante o sus distribuidores autorizados al consumidor, que se hubieren efectuado en el año modelo al que corresponda el vehículo, adicionado con el impuesto sobre automóviles nuevos y el impuesto al valor agregado, entre el total de unidades vendidas de dicha versión en el periodo mencionado. La Secretaría de Hacienda y Crédito Público dará a conocer a más tardar el 1o. de febrero de cada año el precio de enajenación a que se refiere este párrafo.
 
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
 Tratándose de vehículos importados que no aparezcan en las listas que para los efectos del pago de este impuesto publique la Secretaría de Hacienda y Crédito Público, el contribuyente solicitará a dicha dependencia que le determine el impuesto a su cargo, considerando el valor que se haya tomado en cuenta para efectos del impuesto general de importación, adicionado con el monto de este último y los demás gravámenes que se hayan pagado con motivo de la misma, incluyendo el impuesto al valor agregado.
 
-III.- Para vehículos que se ubiquen dentro de la categoría "C" de año modelo anteriores al de aplicación de la Ley, el impuesto será la cantidad que resulte de multiplicar el factor de 125, por la cantidad que anualmente establezca el Congreso de la Unión.
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-IV.- Para vehículos destinados al transporte de más de diez pasajeros o de efectos, el impuesto será la cantidad que resulte de aplicar el 1.25% al valor total del vehículo, que se determine de conformidad con lo dispuesto en la fracción I de este artículo.
+III.- Para vehículos importados al país, diferentes a los de fabricación nacional, de año modelo 1990 y anteriores, el impuesto será la cantidad que resulte de multiplicar el factor de 125, por la cantidad que anualmente establezca el Congreso de la Unión.
 
-Para los efectos del párrafo anterior se entiende por vehículos destinados al transporte de más de diez pasajeros o efectos, los camiones, vehículos Pick Up, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo, peso y capacidad de carga.
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+IV.- Para vehículos que se destinen al transporte de más de diez pasajeros, así como aquéllos que se destinen al transporte de efectos y que tengan en este último caso un peso vehicular de quince o más toneladas, calcularán el impuesto multiplicando la cantidad que resulte de aplicar el 1.45% al valor total del vehículo, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, el cual no podrá ser mayor de treinta, entre veinte. En el caso de que el peso sea mayor de treinta toneladas se tomará como peso bruto máximo vehicular treinta.
+
+El valor total del vehículo a que se refiere el párrafo anterior, será el precio promedio de enajenación de cada modelo de vehículo de que se trate, mismo que se determinará al 1o. de enero del año siguiente al del año modelo, dividiendo el importe total de las ventas de cada modelo de vehículo, del fabricante o sus distribuidores autorizados al consumidor, que se hubieren efectuado en el año modelo al que corresponda el vehículo, adicionado con el impuesto sobre automóviles nuevos y el impuesto al valor agregado, entre el total de unidades vendidas de dicha versión en el periodo mencionado. La Secretaría de Hacienda y Crédito Público dará a conocer a más tardar el 1o. de febrero de cada año el precio de enajenación a que se refiere este párrafo.
+
+Para efectos de esta fracción peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería y equipo y carga útil transportable.
+
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+V.- Tratándose de vehículos de más de diez años de fabricación anteriores a la aplicación de esta Ley, el impuesto se pagará a la tasa del 0%, para efectos de esta fracción se considerará también a las motocicletas.
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de diez pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo, peso y capacidad de carga.
 
 ###### ARTICULO 6o.
 
@@ -137,29 +161,35 @@ IV.- Versión, cada una de las distintas presentaciones comerciales que tiene un
 
 V.- Línea:
 
-a).- Automóviles con motor de gasolina hasta de 4 cilindros;
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-b).- Automóviles con motor de gasolina de 6 cilindros;
+a).- Automóviles con motor de gasolina o gas hasta de 4 cilindros.
 
-c).- Automóviles con motor de gasolina de 8 cilindros;
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-d).- Automóviles con motor diesel;
+b).- Automóviles con motor de gasolina o gas de 6 u 8 cilindros.
 
-e).- Camiones con motor de gasolina;
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-f).- Camiones con motor diesel;
+c).- Automóviles con motor diesel.
 
-g).- Tractores no agrícolas tipo quinta rueda, y
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-h).- Autobuses integrales.
+d).- Camiones con motor de gasolina, gas o diesel.
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+e).- Tractores no agrícolas tipo quinta rueda, y
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+f).- Autobuses integrales.
 
 ###### ARTICULO 8o.
 
 No se pagará el impuesto, en los términos de este Capítulo, por la tenencia o uso de los siguientes vehículos:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-I.- Los de año modelo anterior en diez años o más al de aplicación de esta Ley.
+I.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -193,11 +223,11 @@ Las oficinas de tránsito de la República Mexicana no autorizarán altas ni cam
 
 En este Capítulo se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor y motocicleta.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 12.
 
-Tratándose de aeronaves, el impuesto será la cantidad que resulte de multiplicar el peso de la aeronave adicionado con la carga máxima de despegue a nivel del mar, expresado en toneladas, por la cantidad que anualmente establezca el Congreso de la Unión. En ningún caso el impuesto excederá de $10'000,000.00. Esta última cantidad se incrementará aplicando el factor que anualmente establezca el Congreso de la Unión.
+Tratándose de aeronaves, el impuesto será la cantidad que resulte de multiplicar el peso de la aeronave adicionado con la carga máxima de despegue a nivel del mar, expresado en toneladas, por la cantidad que anualmente establezca el Congreso de la Unión.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -215,15 +245,17 @@ II.- Esquí acuático motorizado, motocicletas acuáticas y tablas de oleaje con
 
 III.- Embarcaciones distintas a las anteriores.
 
-a).- La cantidad que se obtenga de restar en 0.2 el factor que corresponda. El resultado se multiplicará por sí mismo.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+a).- La cantidad que se obtenga de restar en 0.2 el factor que corresponda. El resultado se multiplicará por sí mismo. El factor a que se refiere este inciso, se calculará multiplicando la longitud de la eslora en metros, por el cociente obtenido de dividir los caballos de fuerza entre mil.
 
 b).- La cantidad obtenida conforme al inciso anterior se multiplicará por la cantidad que anualmente establezca el Congreso de la Unión; el producto será el impuesto a pagar.
 
-El factor a que se refiere la fracción III de esta (sic) artículo, se calculará multiplicando la longitud de la eslora en metros, por el cociente obtenido de dividir los caballos de fuerza entre mil.
+(DEROGADO PENULTIMO PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-Tratándose de las embarcaciones a que se refieren las fracciones I y III de este artículo, el impuesto que resulte no podrá ser inferior a $6,000.00 ni superior a $2'000,000.00, salvo que tratándose de la fracción III, el factor sea igual o mayor a 0.2. Las cantidades a que se refiere este párrafo se incrementarán aplicando el factor que anualmente establezca el Congreso de la Unión.
+Tratándose de las embarcaciones a que se refieren las fracciones I y III de este artículo, el impuesto que resulte no podrá ser inferior a $6,000.00 ni superior a $6'000.000.00 salvo que tratándose de la fracción III, el factor sea igual o mayor a 0.2. Las cantidades a que se refiere este párrafo se incrementarán aplicando el factor que anualmente establezca el Congreso de la Unión.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -235,15 +267,63 @@ I.- La cantidad que se obtenga de dividir la cilindrada en centímetros cúbicos
 
 II.- La cantidad obtenida conforme al inciso anterior se multiplicará por la cantidad que anualmente establezca el Congreso de la Unión; el producto será el impuesto a pagar.
 
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 14-A.
+
+Tratándose de vehículos de más de diez años de fabricación anteriores al de aplicación de esta Ley, el impuesto se pagará conforme a la siguiente:
+
+TABLA
+
+TIPO DE VEHICULOS CUOTA
+
+AERONAVES:
+
+HELICE $ 325,000.00
+
+TURBOHELICE $ 1'800,000.00
+
+REACCION $ 2'600,000.00
+
+HELICOPTEROS $ 400,000.00
+
+VELEROS $ 50,000.00
+
+EMBARCACIONES:
+
+Con factor fiscal de hasta 0.500 $ 10,000.00
+
+DE 0.5001 A 1.0000 $ 30,000.00
+
+DE 1.0001 A 2.0000 $ 60,000.00
+
+DE 2.0001 A 3.0000 $ 90,000.00
+
+DE 3.0001 A 5.0000 $ 120,000.00
+
+DE 5.0001 A 10.0000 $ 200,000.00
+
+DE 10.0001 A 20.0000 $ 300,000.00
+
+DE 20.0001 A 30.0000 $ 600,000.00
+
+DE 30.0001 A 40.0000 $ 900,000.00
+
+DE 40.0001 A 60.0000 $ 1'200,000.00
+
+DE 60.0001 A 100.0000 $ 1'600,000 00
+
+DE 100.0001 En adelante $ 2'200,000.00
+
 ###### ARTICULO 15.
 
 No se pagará el impuesto en los términos de este Capítulo por la tenencia o uso de los siguientes vehículos:
 
 I.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-II.- Los importados temporalmente en los términos de la legislación aduanera.
+II.- Los importados temporalmente en los términos de la Ley Aduanera, salvo las aeronaves y embarcaciones turísticas a que se refiere dicha Ley.
 
 III.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
@@ -259,23 +339,23 @@ VI.- Las embarcaciones dedicadas al transporte mercante o a la pesca comercial.
 
 VII.- Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-VIII.- Los de año de fabricación anterior en diez años o más al de aplicación de esta Ley.
+VIII.- Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotransporte al público en general.
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 15-A.
 
-Las autoridades competentes para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones, se abstendrán de expedirlo cuando el tenedor o usuario del vehículo no compruebe el pago del impuesto a que se refiere esta Ley, a excepción de los casos en que se encuentre liberado de este pago. De no comprobarse que se ha cumplido con la obligación de pago, dichas oficinas lo harán del conocimiento de las autoridades fiscales.
+Las autoridades competentes para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, se abstendrán de expedirlos cuando el tenedor o usuario del vehículo no compruebe el pago del impuesto a que se refiere esta Ley, a excepción de los casos en que se encuentre liberado de ese pago. De no comprobarse que se ha cumplido con la obligación de pago, dichas oficinas lo harán del conocimiento de las autoridades fiscales.
 
 ### CAPITULO IV. Participaciones a las Entidades Federativas
 
 ### CAPITULO V. Obligaciones
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 16.
 
@@ -283,17 +363,33 @@ Los Estados adheridos al Sistema Nacional de Coordinación Fiscal no mantendrán
 
 El Distrito Federal no establecerá ni mantendrá en vigor los gravámenes a que se refiere este artículo.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+Lo dispuesto por este artículo no se aplicará a los vehículos a que se refiere la fracción V del artículo 5o. de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 16-A.
 
-Cuando las Entidades Federativas celebren convenio de colaboración administrativa en materia de este impuesto y como consecuencia de ello se secuestren vehículos por tenencia ilegal en el país de los mismos, participarán en una tercera parte del producto de su enajenación. En el caso de que la Secretaría de Hacienda y Crédito Público secuestre vehículos en las circunstancias anteriores que estén documentados por las autoridades de dichas entidades, se les hará un descuento de sus participaciones por un monto equivalente a diez veces el importe del impuesto sobre tenencia o uso de vehículos que correspondería a un vehículo nuevo de las mismas características.
+Cuando las Entidades Federativas celebren convenio de colaboración administrativa en materia de este impuesto, así como de registro y control estatal vehicular y como consecuencia de ello se embarguen precautoriamente vehículos por tenencia ilegal en el país de los mismos, participarán en una tercera parte del producto de su enajenación. En el caso de que la Secretaría de Hacienda y Crédito Público practique embargo precautorio de más de diez vehículos en las circunstancias anteriores que estén documentados por las autoridades de dichas Entidades, se les hará un descuento en sus incentivos por cada vehículo adicional al décimo embargado, por un monto equivalente al 1% de la recaudación promedio mensual del impuesto sobre tenencia o uso de vehículos del año inmediato anterior a aquél en que el incumplimiento sea descubierto por parte de la Secretaría.
+
+El registro estatal vehicular a que se refiere el párrafo anterior, se integrará con datos de los vehículos de los contribuyentes domiciliados dentro de la circunscripción territorial de cada entidad federativa y estará conectado por la Red Nacional del Sistema de Información Integral Tributaria. Para constituir dicho registro se procederá de acuerdo con las reglas que al efecto expida la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 17.
 
-Los fabricantes y sus distribuidores autorizados deberán proporcionar a la Secretaría de Hacienda y Crédito Público, a más tardar en el mes de diciembre de cada año, el número de unidades enajenadas y el importe total de las ventas al consumidor de cada versión, que hubieren efectuado entre el 1o. de noviembre del año anterior y el 31 de octubre del año en curso, a través de dispositivos electromagnéticos procesados en los términos que señale la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general.
+Los fabricantes y los distribuidores autorizados tendrán las siguientes obligaciones:
+
+I.- Proporcionar a la Secretaría de Hacienda y Crédito Público, a más tardar en el mes de diciembre de cada año, el número de unidades enajenadas y el importe total de las ventas al consumidor de cada versión, que hubieran efectuado entre el 1o. de noviembre del año anterior y el 31 de octubre del año en curso.
+
+II.- Los fabricantes de vehículos deberán proporcionar a la Secretaría de Hacienda y Crédito Público, con 15 días de anticipación a la enajenación al público, el precio de las diferentes versiones correspondientes a los vehículos año modelo siguiente al de aplicación de la Ley.
+
+III.- Los fabricantes de vehículos deberán proporcionar a la Secretaría de Hacienda y Crédito Público, en el último día del mes de noviembre los datos relativos a su parque vehicular para el año modelo siguiente al de aplicación de la Ley, así como, en los casos de los camiones, las características técnicas correspondientes al peso bruto vehicular.
+
+IV.- Los fabricantes de vehículos deberán proporcionar a la Secretaría de Hacienda y Crédito Público, los datos relativos a las unidades vendidas a cada uno de sus distribuidores autorizados en el ejercicio.
+
+La información a que se refieren las fracciones anteriores se proporcionará a través de dispositivos electromagnéticos, procesados en los términos que señale la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general.
 
 ## TRANSITORIOS
 
@@ -403,13 +499,13 @@ DISPOSICIONES DE VIGENCIA ANUAL
 
 Para los efectos del cálculo del impuesto sobre tenencia o uso de vehículos para el año de 1982, se dan a conocer las siguientes cantidades:
 
-I.- Vehículos a que se refiere el artículo 5o. de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, así como los veleros........................................................................$800.00
+I.- Vehículos a que se refiere el artículo 5o. de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, así como los veleros .......... $800.00
 
-II.- Las demás embarcaciones.........................................................................$3,600.00
+II.- Las demás embarcaciones .......... $3,600.00
 
-III.- Aeronaves..................................................................................................$23,000.00
+III.- Aeronaves .......... $23,000.00
 
-IV.- Motocicletas................................................................................................$5,000.00
+IV.- Motocicletas .......... $5,000.00
 
 SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
@@ -483,7 +579,7 @@ OTRAS DISPOSICIONES
 
 ARTICULO DECIMOQUINTO.- Para los efectos del cálculo del Impuesto sobre Tenencia o Uso de Vehículos para el año de 1983, se dan a conocer las siguientes cantidades:
 
-I.- Vehículos a que se refiere el artículo 5o. apartados A, fracción I, y B de la Ley del Impuesto sobre Tenencia o Uso de Vehículos.......... $ 3,100.00
+I.- Vehículos a que se refiere el artículo 5o. apartados A, fracción I, y B de la Ley del Impuesto sobre Tenencia o Uso de Vehículos .......... $ 3,100.00
 
 II.- Vehículos comprendidos en el artículo 5o. apartado A, fracciones II y III, así como los veleros .......... 4,000.00
 
@@ -683,7 +779,7 @@ b).- Vehículos a que se refiere el artículo 5o., Apartado B de la Ley de la ma
 
 c).- Veleros .......... 10,700.00
 
-d).- Embarcaciones.......... 48,300.00
+d).- Embarcaciones .......... 48,300.00
 
 e).- Aeronaves .......... 309,100.00
 
@@ -746,10 +842,6 @@ II.- El precio de la unidad típica de los vehículos del año modelo de aplicac
 1987 1.00
 
 1986 2.15
-
-1985 3.51
-
-1984 5.59
 
 1983 10.11
 
@@ -815,7 +907,7 @@ II.- El precio de la unidad típica de los vehículos del año modelo de aplicac
 
 1979 88.75
 
-III.- Después de aplicar lo dispuesto en el artículo 5o. Apartado A, fracción I de la Ley de la materia para vehículos de año modelo 1987 inclusive, y de año modelo anterior a dicho año, el monto del impuesto que corresponda conforme al citado precepto, se reducirá en un 20%. La reducción a que se refiere esta fracción, es independiente de la que se establece en el penúltimo párrafo del artículo 1o. de la Ley.
+Después de aplicar lo dispuesto en el artículo 5o. Apartado A, fracción I de la Ley de la materia para vehículos de año modelo 1987 inclusive, y de año modelo anterior a dicho año, el monto del impuesto que corresponda conforme al citado precepto, se reducirá en un 20%. La reducción a que se refiere esta fracción, es independiente de la que se establece en el penúltimo párrafo del artículo 1o. de la Ley.
 
 ## TRANSITORIO
 
@@ -891,7 +983,7 @@ b).- Vehículos a que se refiere el artículo 5o. Apartado B, de la Ley de la ma
 
 c).- Veleros .......... $ 80.300.00
 
-d).- Embarcaciones y los vehículos a que se refiere el artículo 13, fracciones II y III de la Ley de la materia .......... $ 362.400.00
+d).- Embarcaciones y los vehículos a que se refiere el artículo 13, fracciones II y III de la Ley de la materia........... $ 362.400.00
 
 e).- Aeronaves .......... $ 2'320,400.00
 
@@ -982,3 +1074,65 @@ V.- Durante el año de 1991, se aplicará el factor de 0.75, en lugar del establ
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991, ...
+
+D.O.F. 20 DE DICIEMBRE DE 1991.
+
+DISPOSICION DE VIGENCIA ANUAL
+
+###### ARTICULO DECIMO CUARTO.
+
+Durante el año de 1992 se aplicarán en materia del impuesto sobre tenencia o uso de vehículos, las siguientes disposiciones:
+
+I.- Para los efectos del cálculo del impuesto, se dan a conocer las siguientes cantidades:
+
+a).- Veleros .......... $ 167,000.00
+
+b).- Embarcaciones y los vehículos a que se refiere el artículo 13, fracciones II y III de la Ley de la materia .......... $ 754,000.00
+
+c).- Aeronaves .......... $ 5´304,400.00
+
+d).-Motocicletas .......... $ 1´310,000.00
+
+II.- Para los efectos del artículo 5o. de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, tratándose de vehículos de año modelo 1991, se aplicará el siguiente factor:
+
+1991 1.17
+
+III.- Tratándose de vehículos del año modelo 1990 y anteriores, que se encuentren en el país al 31 de diciembre de 1991 y que sean de los que se mencionan en el artículo 5o. de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, el impuesto será la cantidad que resulte de aplicar el 1.75 al precio de venta al público del vehículo, dicho precio se determinará conforme a lo previsto en la Ley vigente al 31 de diciembre de 1990. Para estos efectos:
+
+a).- En el caso de vehículos de fabricación nacional o importados equiparables o iguales, a los de fabricación nacional, el precio de la unidad típica de los vehículos del año modelo de aplicación de la Ley, vigente a la fecha antes citada, así como de los años modelos anteriores a que hace referencia al artículo 6o., apartado A, fracción I, inciso b) de la Ley vigente al 31 de diciembre de 1990, será el que resulte de aplicar los siguientes factores:
+
+1990 1.299
+
+1989 1.555
+
+1988 2.358
+
+1987 6.111
+
+1986 12.573
+
+1985 20.588
+
+1984 32.768
+
+1983 59.238
+
+b).- Tratándose de vehículos importados al país diferentes a los de fabricación nacional, la cantidad que se multiplicará por el factor a que se refiere la fracción III del artículo 5o. de la Ley citada será de $157,000.00.
+
+IV.- Para los efectos de lo dispuesto en el artículo 13 de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, el factor aplicable a las cantidades que en el mismo se señalan es de 8.0.
+
+DISPOSICIONES TRANSITORIAS
+
+###### ARTICULO DECIMO QUINTO.
+
+Para efectos de lo dispuesto por el artículo anterior, se aplicarán las siguientes disposiciones transitorias:
+
+I.- El descuento del incentivo y el registro estatal a que se refiere el artículo 16-A entrará en vigor el 1o. de octubre de 1992.
+
+II.- Para los efectos del tercer párrafo del artículo 1o. de esta Ley, los contribuyentes podrán pagar el impuesto correspondiente al año de 1992, durante los cuatro primeros meses del año.
+
+III.- Para los efectos de la fracción IV del artículo 5o., de la Ley del Impuesto sobre Tenencia o Uso de Vehículos se aplicará para los años de 1992 y 1993 los factores de 0.98% y 1.19% respectivamente.
+
+## TRANSITORIO
+
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1992.
