@@ -4,7 +4,7 @@ identifier: "HID-ley-de-adquisiciones-arrendamientos-y-prestacion-de-5398"
 country: "mx"
 rank: "ley"
 publication_date: "1988-07-25"
-last_updated: "1988-07-25"
+last_updated: "2003-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO DEL ESTADO DE HIDALGO, PUBLICADA EN EL PERIODICO OFICIAL EL 31 DE DICIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 25 de julio de 1988.
 
@@ -61,9 +63,7 @@ IV.- ENTIDADES: Los Organismos Descentralizados, las Empresas de participación 
 
 V.- SECTOR: el agrupamiento de Entidades coordinado por la Dependencia que en cada caso designe el Ejecutivo del Estado.
 
-VI.- DEPENDENCIAS COORDINADORAS DEL SECTOR: Las dependencias a que se refiere
-
-la fracción anterior.
+VI.- DEPENDENCIAS COORDINADORAS DEL SECTOR: Las dependencias a que se refiere la fracción anterior.
 
 En todos los casos en que esta Ley haga referencia a las adquisiciones, arrendamientos y servicios, salvo mención expresa, se entenderá que se trata, respectivamente de adquisiciones de bienes muebles, arrendamientos de bienes muebles y de prestación de servicios relacionados con dichos bienes.
 
@@ -606,3 +606,21 @@ Por lo tanto mando se imprima, publique y circule para su debido cumplimiento el
 Dado en el Palacio del Poder Ejecutivo, en la Ciudad de Pachuca de Soto, Estado de Hidalgo, a los veintiseis días del mes de mayo de mil novecientos ochenta y ocho.
 
 El Gobernador Constitucional del Estado.- LIC. ADOLFO LUGO VERDUZCO.- El Secretario de Gobernación.- LIC. ERNESTO GIL ELORDUY.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 2003.
+
+PRIMERO.- La presente Ley, entrará en vigor a los cuarenta días hábiles siguientes al de su publicación en el Periódico Oficial del Estado de Hidalgo, y a partir de esa fecha, se abroga la Ley de Adquisiciones, Arrendamientos y Prestación (sic) Servicios Relacionados con Bienes Muebles, publicada el 25 de julio de 1988.
+
+SEGUNDO.- Quedan derogadas todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO.- Las disposiciones administrativas expedidas en esta materia, que se encuentren vigentes al momento de publicación de la presente Ley, se seguirán aplicando en todo lo que no se opongan a la misma, en tanto se expiden el Reglamento, en un plazo de ciento veinte días naturales y las disposiciones que deban sustituirlas.
+
+CUARTO.- Los procedimientos de contratación, aplicación de sanciones y de inconformidades, así como los demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones legales y administrativas vigentes al momento en el que se iniciaron.
+
+Los contratos de adquisiciones, arrendamientos y prestación de servicios de cualquier naturaleza que se encuentren vigentes al entrar en vigor esta Ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron. Las rescisiones administrativas que por causas imputables al proveedor, se hayan determinado de acuerdo por lo dispuesto en la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles, se continuarán considerando para los efectos de los Artículos 71 fracción II y 77 de la presente Ley.
+
+QUINTO.- En cumplimiento a lo dispuesto por el Artículo 21 de esta Ley, el Gobernador del Estado, establecerá el Comité de Adquisiciones, Arrendamientos y Servicios del Poder Ejecutivo, en un plazo no mayor de cuarenta días hábiles, contados a partir del inicio de vigencia de la presente Ley.
+
+Hasta en tanto el Poder Ejecutivo Estatal no establezca el Comité a que se refiere el párrafo anterior, el Comité de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles, creado por Acuerdo publicado el 16 de octubre de 1991, continuará en operación, debiendo en su caso aplicar las disposiciones de la presente Ley, una vez que entre en vigor.
