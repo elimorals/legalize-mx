@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "1982-01-29"
+last_updated: "1983-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 1983.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -2421,7 +2421,7 @@ No obstante lo dispuesto en la parte final del artículo anterior, el hijo podr�
 
 ###### Art. 443.
 
-El hecho de dar alimentos no constituye por sí sólo prueba, ni aun presunción, de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
+El hecho de dar alimentos no constituye por sí solo prueba, ni aun presunción, de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
 
 ###### Art. 444.
 
@@ -5107,13 +5107,17 @@ V. Por testamento en el que el testador constituya el régimen, o fije las bases
 
 VI. En todos los demás casos comprendidos en el texto del artículo anterior.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1983)</small>
+
 ###### Art. 973.
 
-Para que un edificio pueda ser sometido al régimen que establece este capítulo es indispensable que conste cuando menos de dos plantas.
+Para que un edificio pueda ser sometido a régimen de condominio, bastará con que se dé cualesquiera de los supuestos del artículo anterior, independientemente del número de plantas que tenga.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 1983)</small>
 
 ###### Art. 974.
 
-Para constituir un régimen de este tipo el propietario o propietarios, deberán declarar su voluntad en una escritura pública en la cual forzosamente se hará constar:
+Para constituir régimen de condominio, el propietario o propietarios, deberán declarar su voluntad en escritura pública, que necesariamente incluirá:
 
 I. La situación, dimensiones y linderos del terreno así como una descripción general del edificio;
 
@@ -5127,9 +5131,23 @@ V. Los bienes de propiedad común, su destino, con la especificación y detalles
 
 VI. Constancia de las autoridades competentes en materias de construcciones urbana y de salubridad, de que el edificio construido reúne los requisitos que deben tener este tipo de construcciones. En el caso de edificios solamente proyectados, o que no se encuentren aun terminados, bastará con que en la escritura se haga constar la aprobación por las autoridades indicadas en este inciso, de los planos y proyectos del edificio, debiendo observarse, al ser terminado el inmueble, lo preceptuado por la segunda parte del artículo 977 de este Código. Lo prescrito en esta fracción deberá observarse en los casos de reformas a la escritura constitutiva del régimen de condominio, cuando la modificación implique alteración en la distribución del edificio;
 
-VII. En el plano general y los planos particulares correspondientes a cada uno de los pisos, departamentos, viviendas o locales y a los elementos comunes de conste el edificio;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1983)</small>
 
-VIII. El reglamento de condominio y administración en el que se detallarán los derechos y obligaciones de los diversos propietarios.
+VII. Constancia de que al Apéndice del Protocolo Notarial, así cmo (sic) al testimonio de la escritura constitutiva, se adjuntan:
+
+a).- Plano general del edificio, entendiéndose por ello los que correspondan a fachadas, planta baja y, en su caso, plantas tipo.
+
+b).- Planos particulares correspondientes a cada una de las plantas, en los que se especifiquen los departamentos, viviendas o locales de propiedad privada, así como las áreas de propiedad común.
+
+c).- Plano sanitario.
+
+d).- Plano de la instalación eléctrica.
+
+Todos los planos anteriores deberán estar aprobados por las autoridades respectivas.
+
+e).- El reglamento de condominio y administración, en el que se pormenorizarán los derechos y las obligaciones de los condóminos y administradores;
+
+VIII. (DEROGADA, P.O. 19 DE AGOSTO DE 1983)
 
 ###### Art. 975.
 
@@ -5139,9 +5157,11 @@ Solamente por acuerdo unánime de los propietarios se podrá modificar lo dispue
 
 La declaración de voluntad a que se refiere el artículo 974 de este Código se considerará irrevocable desde el momento en que se grave o enajene cualquiera de las partes del edificio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 1983)</small>
+
 ###### Art. 977.
 
-El título constitutivo del régimen de condominio en el edificio y sus modificaciones, deberá inscribirse en el Registro Público de la Propiedad para que produzca efectos con relación a terceros.
+La escritura constitutiva del régimen de condominio y las posteriores que contengan modificaciones, se inscribirán en el Registro Público de la Propiedad para que produzcan efectos con relación a terceros.
 
 En el caso de edificios solamente proyectados, o que no se encuentren aún terminados, deberá hacerse constar expresamente esta circunstancia en el Registro Público. Al ser concluido el edificio el propietario o propietarios deberán declarar este hecho ante notario público, presentándole las constancias administrativas que autoricen la ocupación del inmueble. El acta que levante el notario deberá inscribirse en el Registro Público de la Propiedad.
 
@@ -5801,15 +5821,15 @@ Los frutos civiles pertenecen al usufructuario en proporción del tiempo que dur
 
 ###### Art. 1090.
 
-En caso de que el uufructo (sic) comprendiera cosas que se deterioren por el uso, el usufructuario tendrá derecho a servirse de ellas, empleándolas según su destino; no estará obligado a restituirlas al concluir el usufructo, sino en el estado en que se encuentren; pero tiene obligación da (sic) indemnizar al propietario del deterioro que hubieren sufrido por dolo o negligencia.
+En caso de que el usufructo comprendiera cosas que se deterioren por el uso, el usufructuario tendrá derecho a servirse de ellas, empleándolas según su destino; no estará obligado a restituirlas al concluir el usufructo, sino en el estado en que se encuentren; pero tiene obligación da indemnizar al propietario del deterioro que hubieren sufrido por dolo o negligencia.
 
 ###### Art. 1091.
 
-Si el usufructo comprende cosas que no pueden usarse sin consumirse, el usufructuario tendrá el derecho de consumirlas, pero está obligado a restituirlas, al terminar el usufructo, en igual género, cantidad y calidad. No siendo posible hacer la restitución, está obligado a pagar su valor, si se hubiesen dado estimadas, o su precio corriente al tiempo de cesar el usufructo, si no fueren estimadas.
+Si el usufructo comprende cosas que no pueden usarse sin consumirse, el usufructuario tendrá el derecho de consumirlas, pero está obligado a restituirlas, al terminar el usufructo, en igual genero, cantidad y calidad. No siendo posible hacer la restitución, está obligado a pagar su valor, si se hubiesen dado estimadas, o su precio corriente al tiempo de cesar el usufructo, si no fueren estimadas.
 
 ###### Art. 1092.
 
-Si el usufructo se constituye sobre capitales impuestos a réditos, el usufructuario solo hace suyos éstos y no aquellos, y aun cuando el capital se redima; debe volverse a imponer a satisfacción del usufructuario y propietario.
+Si el usufructo se constituye sobre capitales impuestos a réditos, el usufructuario solo hace suyos éstos y no aquellos, y aun cuando el capital se redima, debe volverse a imponer a satisfacción del usufructuario y propietario.
 
 ###### Art. 1093.
 
@@ -5863,7 +5883,7 @@ II. A dar la correspondiente fianza de que disfrutará de las cosas con moderaci
 
 ###### Art. 1104.
 
-El donador que se reserve el usufructo de los bienes donados, está dispensado de dar la fianza referida, si no se ha obligado expresamente a ello.
+El donador que se reserve el usufructo de los bienes donados, está dispensado de dar la fianza referida, si no se ha obligado expresamente a ello
 
 ###### Art. 1105.
 
@@ -6027,7 +6047,7 @@ El usufructo concedido por el tiempo que tarde un tercero en llegar a cierta eda
 
 ###### Art. 1139.
 
-Si el usufructo está constituido sobre un edificio, y éste se arruina por incendio, por vetustez o por algún otro accidente, el usufructuario no tiene derecho de gozar el solar ni de los materiales; mas si estuviere constituido sobre una hacienda, quinta o rancho de que sólo forme parte el edificio arruinado, el usufructuario podrá continuar usufructuando el solar y los materiales.
+Si el usufructo está constituido sobre un edificio, y éste se arruina por incendio, por vetustez o por algún otro accidente, el usufructuario no tiene derecho de gozar el solar ni de los materiales; más si estuviere constituido sobre una hacienda, quinta o rancho de que solo forme parte el edificio arruinado, el usufructuario podrá continuar usufructuando el solar y los materiales.
 
 ###### Art. 1140.
 
@@ -6065,7 +6085,7 @@ La habitación da, a quien tiene este derecho, la facultad de ocupar gratuitamen
 
 ###### Art. 1148.
 
-El usuario y el que tiene derecho de habitación en un edificio no pueden enajenar, gravar ni arrendar en todo ni en parte su derecho a otro, ni estos derechos pueden ser embargados por sus acreedores.
+El usuario y el que tiene derecho de habitación en un edificio no pueden enajenar, gravar ni arrendar en todo ni en parte su derecho a otro, no estos derechos pueden ser embargados por sus acreedores.
 
 ###### Art. 1149.
 
@@ -6127,7 +6147,7 @@ Las servidumbres son inseparables del inmueble a que activa o pasivamente perten
 
 ###### Art. 1162.
 
-Si los inmuebles mudan de dueño la servidumbre continúa, ya activa, ya pasivamente, en el inmueble en que estaba constituída, hasta que legalmente se extinga.
+Si los inmuebles mudan de dueño la servidumbre continua, ya activa, ya pasivamente, en el inmueble en que estaba constituída, hasta que legalmente se extinga.
 
 ###### Art. 1163.
 
@@ -6197,7 +6217,7 @@ El que ejercite el derecho de hacer pasar las aguas de que trata el artículo 11
 
 ###### Art. 1178.
 
-El que tiene en su predio un canal o tubería para el curso de aguas que le pertenecen, puede impedir la apertura de otros, ofreciendo dar paso por aquéllos, con tal de que no cause perjuicio al dueño del predio dominante.
+El que tiene en su predio un canal o tubería para el curso de aguas que le pertenecen, puede impedir la apertura de otros, ofreciendo dar paso por aquellos, con tal de que no cause perjuicio al dueño del predio dominante.
 
 ###### Art. 1179.
 
@@ -6289,7 +6309,7 @@ Si este lugar es calificado de la misma manera que el primero, el Juez señalar�
 
 ###### Art. 1198.
 
-Si hubiere varios predios por donde pueda darse el paso a la vía pública, el obligado a la servidumbre será aquel por donde fuere más corta la distancia, siempre que no resulte muy incómodo y costoso el paso por ese lugar. Si la distancia fuere igual, el Juez designará cuál de los dos predios ha de dar el paso.
+Si hubiere varios predios por donde pueda darse el paso a la vía pública, el obligado a la servidumbre será aquél por donde fuere más corta la distancia, siempre que no resulte muy incómodo y costoso el paso por ese lugar. Si la distancia fuere igual, el Juez designará cual de los dos predios ha de dar el paso
 
 ###### Art. 1199.
 
@@ -6331,7 +6351,7 @@ Si fueran varios los propietarios de un inmueble no se podrán imponer servidumb
 
 ###### Art. 1208.
 
-Si siendo varios los propietarios, uno solo de ellos adquiere una servidumbre sobre otro predio, a favor del común, de ella podrán aprovecharse todos los propietarios, quedando obligados a los gravámenes naturales que traiga consigo y a los pactos con que se haya adquirido.
+Si siendo varios los propietarios, uno sólo de ellos adquiere una servidumbre sobre otro predio, a favor del común, de ella podrán aprovecharse todos los propietarios, quedando obligados a los gravámenes naturales que traiga consigo y a los pactos con que se haya adquirido.
 
 ### Capítulo lII. De la prescripción negativa
 
@@ -6353,7 +6373,7 @@ La existencia de un signo aparente de servidumbre entre dos fincas, establecida 
 
 ###### Art. 1213.
 
-Al constituirse una servidumbre se entienden concedidos todos los medios necesarios para su uso; y extinguida aquélla, cesan también estos derechos accesorios.
+Al constituirse una servidumbre se entienden concedidos todos los medios necesarios para su uso; y extinguida aquella, cesan también estos derechos accesorios.
 
 ### Capítulo IV. De la suspensión de la prescripción
 
@@ -6409,7 +6429,7 @@ II. Por el no uso.
 
 Cuando la servidumbre fuere continua y aparente, por el no uso de tres años, contados desde el día en que dejó de existir el signo aparente de la servidumbre.
 
-Cuando fuere discontinua o no aparente por el no uso de cinco años, contados desde el día en que dejó de usarse por haber ejecutado el dueño del fundo sirviente acto contrario a la servidumbre, o por haber prohibido que se usara de ella. Si no hubo acto contrario o prohibición, aunque no se haya usado de la servidumbre, o si hubo tales actos, pero continuare el uso, no corre el tiempo de la prescripción;
+Cuando fuere discontinua o no aparente por el no uso de cinco años, contados desde el día en que dejó de usarse por haber ejecutado el dueño del fundo sirviente acto contrario a la servidumbre, o por haber prohibido que se usará de ella. Si no hubo acto contrario o prohibición, aunque no se haya usado de la servidumbre, o si hubo tales actos, pero continuare el uso, no corre el tiempo de la prescripción;
 
 III. Cuando los predios lleguen sin culpa del dueño del predio sirviente a tal estado que no pueda usarse de la servidumbre. Si en lo sucesivo los predios se restablecen de manera que pueda usarse de la servidumbre, revivirá ésta, a no ser que desde el día en que pudo volverse a usar haya transcurrido el tiempo suficiente para la prescripción;
 
@@ -6419,7 +6439,7 @@ V. Cuando constituída en virtud de un derecho revocable, se venza el plazo, se 
 
 ###### Art. 1225.
 
-Si los predios entre los que está constituida una servidumbre legal pasan a poder de un mismo dueño, deja de existir la servidumbre, pero separadas nuevamente las propiedades, revive aquélla, aun cuando no se haya conservado ningún signo aparente.
+Si los predios entre los que está constituida una servidumbre legal pasan a poder de un mismo dueño, deja de existir la servidumbre, pero separadas nuevamente las propiedades, revive aquella, aun cuando no se haya conservado ningún signo aparente.
 
 ###### Art. 1226.
 
@@ -6435,15 +6455,15 @@ II. Si la servidumbre es de uso público, el convenio es nulo en todo caso;
 
 III. Si la servidumbre es de paso o desagüe, el convenio se entenderá celebrado con la condición de que lo aprueben los dueños de los predios circunvecinos, o por lo menos, el dueño del predio por donde nuevamente se constituya la servidumbre;
 
-IV. La renuncia de la servidumbre legal de desagüe, sólo será válida cuando no se oponga a los reglamentos respectivos.
+IV. La renuncia de la servidumbre legal de desagüe, solo será válida cuando no se oponga a los reglamentos respectivos.
 
 ###### Art. 1228.
 
-Si el predio dominante pertenece a varios dueños proindiviso, el uso que haga uno de ellos aprovecha a los demás para impedir la prescripción.
+Si el predio dominante pertenece a varios dueños proindiviso, el uso que haga uno de ellos aprovecha a los demás para impedir la prescripción
 
 ###### Art. 1229.
 
-Si entre los propietarios hubiere alguno contra quien por leyes especiales no puede correr la prescripción, esta no correrá contra los demás.
+Si entre los propietarios hubiere alguno contra quien por leyes especiales no puede correr la prescripción, ésta no correrá contra los demás.
 
 ###### Art. 1230.
 
@@ -6471,7 +6491,7 @@ Pueden adquirir por prescripción positiva todos los que son capaces de adquirir
 
 ###### Art. 1235.
 
-Para los efectos de los artículos 1074 y 1075, se dice legalmente cambiada la causa de la posesión, cuando el poseedor que no poseía a título de dueño comienza a poseer con este carácter, y en tal caso la prescripción no corre sino desde el día en que se haya cambiado la causa de la posesión.
+Para los efectos de los artículos 1074 y 1075, se dice legalmente cambiada la causa de la posesión, cuando el poseedor que no poseía a título de dueño comienza a poseer con este carácter, y en tal caso la prescripción no corre sino desde el día en que se haya cambiado la causa de la posesión
 
 ###### Art. 1236.
 
@@ -6491,7 +6511,7 @@ Los acreedores y todos los que tuvieren legítimo interés en que la prescripci�
 
 ###### Art. 1240.
 
-Si varias personas poseen en común alguna cosa no puede ninguna de ellas prescribir; contra sus copropietarios o coposeedores; pero sí puede prescribir contra un extraño y en este caso la prescripción aprovecha a todos los partícipes.
+Si varias personas poseen en común alguna cosa no puede ninguna de ellas prescribir; contra sus copropietarios o coposeedores; pero sí puede prescribir contra un extraño y en este caso la prescripción aprovecha a todos los participes.
 
 ###### Art. 1241.
 
@@ -6593,9 +6613,13 @@ II. La acción de cualquier comerciante para cobrar el precio de objetos vendido
 
 La prescripción corre desde el día en que fueron entregados los objetos, si la venta no se hizo a plazo;
 
-III. La acción de los dueños de hoteles y casas de huéspedes para cobrar el importe del hospedaje; y la de éstos y la de los fondistas para cobrar el precio de los alimentos que ministren. La prescripción corre desde el día en que debió ser pagado el hospedaje, o desde aquel en que se ministraron los alimentos;
+III. La acción de los dueños de hoteles y casas de huéspedes para cobrar el importe del hospedaje; y la de éstos y la de los fondistas para cobrar el precio de los alimentos que ministren.
 
-IV. La responsabilidad civil por injurias, ya sean hechas de palabra o por escrito, y la que nace del daño causado por personas o animales, y que la ley impone al representante de aquéllas o al dueño de éstos. La prescripción comienza a correr desde el día en que se recibió o fue conocida la injuria o desde aquel en que se causó el daño;
+La prescripción corre desde el día en que debió ser pagado el hospedaje, o desde aquél en que se ministraron los alimentos;
+
+IV. La responsabilidad civil por injurias, ya sean hechas de palabra o por escrito, y la que nace del daño causado por personas o animales, y que la ley impone al representante de aquéllas o al dueño de éstos.
+
+La prescripción comienza a correr desde el día en que se recibió o fue conocida la injuria o desde aquél en que se causó el daño;
 
 V. La responsabilidad civil proveniente de actos ilícitos que no constituyen delitos.
 
@@ -6701,7 +6725,7 @@ Cuando la prescripción se cuente por días, se entenderán éstos de veinticuat
 
 ###### Art. 1277.
 
-El día en que comienza la prescripción se cuenta siempre entero, aunque no lo sea; pero aquel en que la prescripción termina, debe ser completo.
+El día en que comienza la prescripción se cuenta siempre entero, aunque no lo sea; pero aquél en que la prescripción termina, debe ser completo.
 
 ###### Art. 1278.
 
@@ -6941,7 +6965,7 @@ El contrato es bilateral cuando las partes se obligan recíprocamente.
 
 ###### Art. 1324.
 
-Es contrato oneroso aquel en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
+Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
 
 ###### Art. 1325.
 
@@ -7067,7 +7091,7 @@ IV. El caso fortuito o fuerza mayor que hagan imposible el cumplimiento del cont
 
 ###### Art. 1350.
 
-El contrato se rescinde en los casos que de acuerdo con este Código sea procedente la rescisión.
+El contrato se rescinde en los casos que de acuerdo con este Código sea procedente la rescisión
 
 ###### Art. 1351.
 
@@ -7083,7 +7107,7 @@ Esta causa de resolución no surtirá efecto su la contraparte acepta modificar 
 
 ###### Art. 1352.
 
-En los casos de los artículos 1349, fracción IV, 1350 y 1351, fracciones II y lII, para que opere la terminación del contrato será necesaria la resolución judicial.
+En los casos de los artículos 1349, fracción IV, 1350 y 1351, fracciones II y lII, para que opere la terminación del contrato será necesaria la resolución judicial
 
 ###### Art. 1353.
 
@@ -7091,11 +7115,11 @@ La acción de rescisión o resolución de un contrato prescribe al año de haber
 
 ###### Art. 1354.
 
-En el caso a que se refiere el artículo 1350 los efectos de la rescisión serán retroactivos entre las partes, salvo el caso de contratos de ejecución continuada o periódica, respecto de los cuales el efecto de la rescisión no se extiende a las prestaciones ya efectuadas. Se aplicará esto último a los casos de resolución de los contratos previstos en el artículo 1351.
+En el caso a que se refiere el artículo 1350 los efectos de la rescisión serán retroactivos entre las partes, salvo el caso de contratos de ejecución continuada o periódica, respecto de los cuales el efecto de la rescisión no se extiende a las prestaciones ya efectuadas. Se aplicará esto último a los casos de resolución de los contratos previstos en el artículo 1351
 
 ###### Art. 1355.
 
-En los contratos con más de dos partes en los que las prestaciones de cada una de ellas van dirigidas a la consecución de un fin común, el incumplimiento de una de las partes no importa la rescisión del contrato respecto de las otras, salvo que la prestación incumplida haya de considerarse, de acuerdo con las circunstancias, como esencial para la realización del contrato.
+En los contratos con más de dos partes en los que las prestaciones de cada una de ellas van dirigidas a la consecución de un fin común, el incumplimiento de una de las partes no importa la rescisión del contrato respecto de las otras, salvo que la prestación incumplida haya de considerarse, de acuerdo con las circunstancias, como esencial para la realización del contrato
 
 Disposiciones finales
 
@@ -7149,7 +7173,7 @@ En los concursos en que haya promesa de recompensa para los que llenaren ciertas
 
 ###### Art. 1365.
 
-El promitente deberá, antes de la celebración del concurso, designar la persona o personas que decidirán a quién o a quiénes de los concursantes se otorga la recompensa.
+El promitente deberá, antes de la celebración del concurso, designar la persona o personas que decidirán a quien o a quienes de los concursantes se otorga la recompensa.
 
 ###### Art. 1366.
 
@@ -7199,7 +7223,7 @@ Si el tercero a quien se enajena la cosa la adquiere de buena fe, sólo podrá r
 
 ###### Art. 1376.
 
-El que de buena fe hubiere aceptado un pago indebido de cosa, cierta y determinada, sólo responderá de los menoscabos o pérdidas de ésta y de sus accesiones, en cuanto por ellos se hubiere enriquecido. Si la hubiere enajenado, restituirá el precio o cederá la acción para hacerlo efectivo.
+El que de buena fe hubiere aceptado un pago indebido de cosa, cierta y determinada, sólo responderá de los menoscabos o pérdidas de ésta y de sus accesiones, en cuanto por ellos se hubiere enriquecido. Si la hubiere enajenado, restituirá el precio o cederá la acción para hacerlo efectivo
 
 ###### Art. 1377.
 
@@ -7219,7 +7243,7 @@ La prueba del pago incumbe al que pretenda haberlo hecho. También corre a su ca
 
 ###### Art. 1381.
 
-Se presume que hubo error en el pago, cuando se entrega cosa que no se debía o que ya estaba pagada; pero aquel a quien se pide la devolución puede probar que la entrega se hizo a título de liberalidad o por cualquiera otra causa justa.
+Se presume que hubo error en el pago, cuando se entrega cosa que no se debía o que ya estaba pagada; pero aquél a quien se pide la devolución puede probar que la entrega se hizo a título de liberalidad o por cualquiera otra causa justa.
 
 ###### Art. 1382.
 
@@ -7289,7 +7313,7 @@ Cuando el dueño del negocio no ratifique la gestión, sólo responderá de los 
 
 ###### Art. 1397.
 
-Cuando sin consentimiento del obligado a prestar alimentos los diese un extraño, éste tendrá derecho a reclamar de aquél su importe, a no constar que los dio con ánimo de hacer un acto de beneficencia.
+Cuando sin consentimiento del obligado a prestar alimentos los diese un extraño, éste tendrá derecho a reclamar de aquél su importe, al no constar que los dio con ánimo de hacer un acto de beneficencia.
 
 ###### Art. 1398.
 
@@ -7333,7 +7357,7 @@ Las anteriores disposiciones se observarán en el caso del artículo 2166 de est
 
 ###### Art. 1406.
 
-Independientemente de los daños y perjuicios el Juez acordará en favor de la víctima de un hecho ilícito, o de su familia si aquélla muere, una indemnización equitativa, a título de reparación moral, que pagará el responsable del hecho. Para fijar la indemnización el Tribunal tomará en cuenta la naturaleza del hecho dañoso y la de la lesión moral sufrida por el ofendido, apreciará ésta según las circunstancias personales de éste, tales como su educación, sensibilidad, afectos, posición social, vínculos familiares, etc. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil.
+Independientemente de los daños y perjuicios el Juez acordará en favor de la víctima de un hecho ilícito, o de su familia si aquella muere, una indemnización equitativa, a título de reparación moral, que pagará el responsable del hecho. Para fijar la indemnización el Tribunal tomará en cuenta la naturaleza del hecho dañoso y la de la lesión moral sufrida por el ofendido, apreciará ésta según las circunstancias personales de éste, tales como su educación, sensibilidad, afectos, posición social, vínculos familiares, etc. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil.
 
 ###### Art. 1407.
 
@@ -7365,7 +7389,7 @@ Los maestros artesanos son responsables de los daños y perjuicios causados por 
 
 ###### Art. 1414.
 
-Los patronos están obligados a responder de los daños y perjuicios causados por sus trabajadores y aprendices o dependientes en el ejercicio de sus labores.
+Los patronos están obligados a responder de los daños y perjuicios causados por sus trabajadores y aprendices o dependientes en el ejercicio de sus labores
 
 ###### Art. 1415.
 
@@ -7465,7 +7489,7 @@ Cuando el cumplimiento de la condición dependa de la exclusiva voluntad del deu
 
 ###### Art. 1432.
 
-Se tendrá por cumplida la condición, cuando el obligado impidiese voluntariamente su cumplimiento.
+Se tendrá por cumplida la condición, cuando el obligado impidiese voluntariamente su cumplimiento
 
 ###### Art. 1433.
 
@@ -7569,7 +7593,7 @@ El que se ha obligado a diversas cosas o hechos conjuntamente, debe dar todas la
 
 ###### Art. 1450.
 
-Si el deudor se ha obligado a uno de dos hechos, o a una de dos cosas, o a un hecho o a una cosa, cumple prestando cualquiera de esos hechos o cosas; mas no puede, contra la voluntad del acreedor, prestar parte de una cosa y parte de otra, o ejecutar en parte un hecho.
+Si el deudor se ha obligado a uno de dos hechos, o a una de dos cosas, o a un hecho o a una cosa, cumple prestando cualquiera de esos hechos o cosas; más no puede, contra la voluntad del acreedor, prestar parte de una cosa y parte de otra, o ejecutar en parte un hecho.
 
 ###### Art. 1451.
 
@@ -7641,7 +7665,7 @@ Si el obligado a prestar una cosa o ejecutar un hecho se rehusare a hacer lo seg
 
 ###### Art. 1467.
 
-Si la cosa se pierde por culpa del deudor y la elección es del acreedor, éste podrá exigir el precio de la cosa, la prestación del hecho o la rescisión del contrato.
+Si la cosa se pierde por culpa del deudor y la elección es del acreedor, este podrá exigir el precio de la cosa, la prestación del hecho o la rescisión del contrato.
 
 ###### Art. 1468.
 
@@ -7679,7 +7703,7 @@ Además de la mancomunidad, habrá solidaridad activa cuando dos o más acreedor
 
 ###### Art. 1476.
 
-La solidaridad no se presume, resulta de la ley o de la voluntad de las partes.
+La solidaridad no se presume, resulta de la ley o de la voluntad de las partes
 
 ###### Art. 1477.
 
@@ -7725,7 +7749,7 @@ Si muere uno de los deudores solidarios dejando varios herederos, cada uno de é
 
 ###### Art. 1487.
 
-El deudor solidario que paga por entero la deuda, tiene derecho de exigir de los otros codeudores la parte que en ella les corresponda.
+El deudor solidario que paga por entero la deuda, tiene derecho de exigir de los otros codeudores la parte que en ellas les corresponda.
 
 Salvo convenio en contrario, los deudores solidarios están obligados entre sí por partes iguales.
 
@@ -7747,7 +7771,7 @@ Cuando por el no cumplimiento de la obligación se demanden daños y perjuicios,
 
 ###### Art. 1491.
 
-Las obligaciones son divisibles cuando tienen por objeto prestaciones susceptibles de cumplirse parcialmente. Son indivisibles si las prestaciones no pudiesen ser cumplidas sino por entero.
+Las obligaciones son divisibles cuando tienen por objeto prestaciones susceptibles de cumplirse parcialmente. Son indivisibles si las prestaciones no puidiesen (sic) ser cumplidas sino por entero.
 
 ###### Art. 1492.
 
@@ -7761,7 +7785,7 @@ Las obligaciones divisibles en que haya más de un deudor o acreedor se regirán
 
 Cada uno de los que han contraído conjuntamente una deuda indivisible, está obligado por el todo, aunque no se haya estipulado solidaridad.
 
-Lo mismo tiene lugar respecto de los herederos de aquel que haya contraído una obligación indivisible.
+Lo mismo tiene lugar respecto de los herederos de aquél que haya contaído una obligación indivisible.
 
 ###### Art. 1495.
 
@@ -7815,7 +7839,7 @@ En las enajenaciones de alguna especie indeterminada, la propiedad no se transfe
 
 ###### Art. 1504.
 
-En el caso del artículo que precede, si no se designa la calidad de la cosa, el deudor cumple entregando una de mediana calidad.
+En el caso del artículo que precede, si no se designa la calidad de la cosa, el deudor cumple entregando una de mediana calidad
 
 ###### Art. 1505.
 
@@ -7831,7 +7855,7 @@ IV. Si se deteriorare por culpa del acreedor, éste tiene obligación de recibir
 
 V. Si la cosa se perdiere por caso fortuito o fuerza mayor, la obligación queda sin efecto y el dueño sufre la pérdida, a menos que otra cosa se haya convenido;
 
-VI. Si la cosa se deteriorare por caso fortuito o fuerza mayor, el dueño sufre el deterioro a menos que otra cosa se haya convenido.
+VI. Si la cosa se deteriorare por caso fortuito o fuerza mayor, el dueño sufre el deterioro a menos que otra cosa cosa (sic) se haya convenido.
 
 ###### Art. 1506.
 
@@ -8021,11 +8045,11 @@ III. Si se hace al acreedor en pago de su deuda.
 
 ###### Art. 1541.
 
-Se considerará litigioso el derecho desde el secuestro, en el juicio ejecutivo; y en los demás desde la contestación de la demanda, hasta que se pronuncie la sentencia que cause ejecutoria.
+Se considerará litigioso el derecho desde el secuestro, en el juicio ejecutivo; y en los demás desde la contestación de la demanda, hasta que se pronuncie la sentencia que cause ejecutoria
 
 ###### Art. 1542.
 
-Si los derechos o créditos fueren litigiosos, no podrán ser cedidos en ninguna forma a las personas que desempeñen la judicatura, si esos derechos o créditos fueren disputados dentro de los límites a que se extienda la jurisdicción de los funcionarios referidos.
+Si los derechos o créditos fueren litigiosos, no podrán ser cedidos en ninguna forma a las personas que desempeñen la judicatura, si esos derechos o créditos fueren disputados dentro de los límites a que se extienda la jurisdicción de los funcionarios referidos
 
 ### Capítulo I. Consecuencias del incumplimiento de las obligaciones
 
@@ -8207,7 +8231,7 @@ Si el pago consiste en la tradición de un inmueble o en prestaciones relativas 
 
 ###### Art. 1576.
 
-Si el pago consistiere en una suma de dinero como precio de alguna cosa enajenada por el acreedor, deberá ser hecho en el lugar en que se entregó la cosa, salvo que se designe otro lugar.
+Si el pago consistiere en una suma de dinero como precio de alguna cosa enajenada por el acreedor, deberá ser hecho en el lugar en que se entregó la cosa, salvo que se designe otro lugar
 
 ###### Art. 1577.
 
@@ -8269,7 +8293,7 @@ Si el acreedor rehusare sin justa causa recibir la prestación debida, o dar el 
 
 ###### Art. 1591.
 
-Si el acreedor fuere conocido, pero dudosos sus derechos, podrá el deudor depositar la cosa debida, con citación del interesado, a fin de que justifique sus derechos por los medios legales.
+Si el acreedor fuere conocido, pero dudosos sus derechos, podrá el deudor depositar la cosa debida, con citación del interesado, a fin de que justifique sus derechos por los medios legales
 
 ###### Art. 1592.
 
@@ -8299,7 +8323,7 @@ I. Si la obligación fuere a plazo, comenzará la responsabilidad desde el venci
 
 II. Si la obligación no dependiere de plazo cierto, se observará lo dispuesto en el artículo 1572.
 
-El que contraviene una obligación de no hacer pagará daños y perjuicios por el solo hecho de la contravención.
+El que contraviene una obligación de no hacer pagará daños y perjuicios por el sólo hecho de la contravención.
 
 ###### Art. 1597.
 
@@ -8313,7 +8337,7 @@ La responsabilidad procedente de dolo es exigible en todas las obligaciones. La 
 
 ###### Art. 1599.
 
-La responsabilidad de que se trata en este Título, además de importar la devolución de la cosa o su precio, o la de entrambos, en su caso, importará la reparación de los daños y la indemnización de los perjuicios.
+La responsabilidad de que se trata en este Título, además de importar la devolución de la cosa o su precio, o la de entrambos, en su caso, importará la reparación de los daños y la indemnización de los perjuicios
 
 ###### Art. 1600.
 
@@ -8321,7 +8345,7 @@ Se entiende por daño la pérdida o menoscabo sufrido en el patrimonio por la fa
 
 ###### Art. 1601.
 
-Se reputa perjuicio la privación de cualquiera ganancia lícita, que debiera haberse obtenido con el cumplimiento de la obligación.
+Se reputa perjuicio la privación de cualquiera ganancia lícita, que debiera haberse obtenido con el cumplimiento de la obligación
 
 ###### Art. 1602.
 
@@ -8333,7 +8357,7 @@ Nadie está obligado al caso fortuito sino cuando ha dado causa o contribuido a 
 
 ###### Art. 1604.
 
-Si la cosa se ha perdido, o ha sufrido un detrimento tan grave que, a juicio de peritos, no pueda emplearse en el uso a que naturalmente está destinada, el dueño debe ser indemnizado de todo el valor legítimo de ella.
+Si la cosa se ha perdido, o ha sufrido un detrimento tan grave que, a juicio de peritos, no pueda emplearse en el uso a que naturalmente está destinada, el dueño debe ser indemnizado de todo el valor legítimo de ella
 
 ###### Art. 1605.
 
@@ -8471,7 +8495,7 @@ II. En el caso del artículo 1615;
 
 III. Si conociendo el que adquiere el derecho del que entabla la evicción la hubiere ocultado dolosamente al que enajena;
 
-IV. Si la evicción procede de una causa posterior al acto de enajenación, no imputable al que enajena, o de hecho del que adquiere, ya sea anterior o posterior al mismo acto;
+IV. Si la evicción procede de una causa posterior al acto de enajenación, no imputable al que enajena, o de hecho del que adquire (sic), ya sea anterior o posterior al mismo acto;
 
 V. Si el adquirente no cumple lo prevenido en el artículo 1616;
 
@@ -8545,7 +8569,7 @@ Los peritos declararán terminantemente si los vicios o defectos eran anteriores
 
 ###### Art. 1649.
 
-Las partes pueden restringir, renunciar o ampliar su responsabilidad por los vicios o defectos redhibitorios siempre que no haya mala fe.
+Las partes pueden restringir, renunciar o ampliar su responsabilidad por los vicios o defectos redhibitorios siempre que no haya mala fe
 
 ###### Art. 1650.
 
@@ -8597,7 +8621,7 @@ El que hubiere adquirido de mala fe las cosas enajenadas en fraude de los acreed
 
 ###### Art. 1661.
 
-La nulidad puede tener lugar, tanto en los actos en que el deudor enajena los bienes que efectivamente posee, como en aquellos en que renuncia derechos constituidos a su favor y cuyo goce no fuere exclusivamente personal.
+La nulidad puede tener lugar, tanto en los actos en que el deudor enajena los bienes que efectivamente posee, como en aquellos en que renuncia derechos constituidos a su favor y a cuyo goce no fuere exclusivamente personal.
 
 ###### Art. 1662.
 
@@ -8621,7 +8645,7 @@ La nulidad de los actos del deudor sólo será pronunciada en interés de los ac
 
 ###### Art. 1667.
 
-El tercero a quien hubiesen pasado los bienes del deudor, puede hacer cesar la acción de los acreedores satisfaciendo el crédito de los que se hubiesen presentado, o dando garantía suficiente sobre el pago íntegro de sus créditos, si los bienes del deudor no alcanzaren a satisfacerlos.
+El tercero a quien hubiesen pasado los bienes del deudor, puede hacer cesar la acción de los acreedores satisfaciendo al crédito de los que se hubiesen presentado, o dando garantía suficiente sobre el pago íntegro de sus créditos, si los bienes del deudor no alcanzaren a satisfacerlos.
 
 ###### Art. 1668.
 
@@ -8633,7 +8657,7 @@ Si el acreedor que pide nulidad, para acreditar la insolvencia del deudor, prueb
 
 ###### Art. 1670.
 
-Se presumen fraudulentas las enajenaciones a título oneroso hechas por aquellas personas contra quienes se hubiese pronunciado antes sentencia condenatoria en cualquiera instancia, o expedido mandamiento de embargo de bienes, cuando estas enajenaciones perjudican los derechos de sus acreedores.
+Se presumen fraudulentas las enajenaciones a título oneroso hechas por aquellas personas contra quienes se hubiese pronunciado antes sentencia condenatoria en cualquiera instancia, o expedido mandamiento de embargo de bienes, cuando estas enajenaciones perjudican los derechos de sus acreedores
 
 ### Capítulo I. Disposiciones generales
 
@@ -8777,7 +8801,7 @@ La confusión que se verifica en la persona del acreedor o deudor solidario, só
 
 ###### Art. 1699.
 
-Mientras se hace la partición de una herencia, no hay confusión, cuando el deudor hereda al acreedor o éste a aquél.
+Mientras se hace la partición de una herencia, no hay confusión, cuando el deudor hereda al acreedor o éste a aquél
 
 ### Capítulo IV. De las obligaciones del vendedor
 
@@ -8829,7 +8853,7 @@ Si la novación fuere nula, subsistirá la antigua obligación.
 
 ###### Art. 1711.
 
-La novación extingue la obligación principal y las obligaciones accesorias. El acreedor puede, por una reserva expresa, impedir la extinción de las obligaciones accesorias, que entonces pasan a la nueva.
+La novación extingue la obligación principal y las obligaciones accesorias. El acreedor puede, por una reserva expresa, impedir la extinción de las obligaciones accesorias, que entonces pasan a la nueva
 
 ###### Art. 1712.
 
@@ -8891,7 +8915,7 @@ El cumplimiento voluntario por medio del pago, novación o por cualquier otro mo
 
 ###### Art. 1726.
 
-La conformación se retrotrae el día en que se verificó el acto nulo, pero ese efecto retroactivo no perjudicará a los derechos de tercero.
+La confirmación se retrotrae el día en que se verificó el acto nulo, pero ese efecto retroactivo no perjudicará a los derechos de tercero.
 
 ###### Art. 1727.
 
@@ -8925,7 +8949,7 @@ Todos los derechos reales o personales transmitidos a tercero sobre un inmueble,
 
 Cuando alguno, explotando la suma ignorancia, notoria inexperiencia o extrema miseria de otro, obtiene un lucro excesivo que sea evidentemente desproporcionado a lo que él por su parte se obliga, el perjudicado tiene derecho a pedir la nulidad del contrato, y de ser esto imposible, la reducción equitativa de su obligación. También hay lesión en los contratos conmutativos cuando alguna de las partes da dos tantos más del valor de la contraprestación correspondiente.
 
-La lesión puede renunciarse salvo el caso de que la desproporción entre la prestación de una de las partes y la de la otra dependiere del estado de necesidad, inexperiencia o suma ignorancia de una de ellas, de la que se haya aprovechado la otra parte para obtener ventaja. La acción para invocar la existencia de la lesión en los casos citados en este precepto se extingue por el transcurso de dos años.
+La lesión puede renunciarse salvo el caso de que la desproporción entre la prestación de una de las partes y la de la otra dependiere del estado de necesidad, inexperiencia o suma ignorancia de una de ellas, de la que se haya aprovechado la otra parte para obtener ventaja. La acción para invocar la existencia de la lesión en los casos citados en este precepto se extingue por el transcurso de dos años
 
 # LIBRO TERCERO. Segunda Parte
 
@@ -8935,7 +8959,7 @@ De las diversas especies de contrato
 
 ###### Art. 1735.
 
-El contrato preparatorio o promesa de contrato, es aquel por virtud del cual una parte o ambas se obligan a celebrar dentro de cierto tiempo un contrato futuro determinado.
+El contrato preparatorio o promesa de contrato, es aquél por virtud del cual una parte o ambas se obligan a celebrar dentro de cierto tiempo un contrato futuro determinado.
 
 ###### Art. 1736.
 
@@ -9115,7 +9139,7 @@ La venta de cosa ajena surtirá sus efectos, si el propietario de la misma ratif
 
 ###### Art. 1769.
 
-La venta hecha por uno de los copropietarios de la totalidad de la cosa vendida, será nula, aun respecto de la porción del vendedor, debiendo este último restituir al comprador el precio, sus intereses, daños y perjuicios, siempre y cuando dicho adquirente hubiere ignorado que la cosa era objeto de copropiedad.
+La venta hecha por uno de los copropietarios de la totalidad de la cosa vendida, será nula, aun respecto de la porción del vendedor, debiendo este último restituir al comprador el precio, sus intereses, daños y perjuicios, siempre y cuando dicho adquirente hubiere ignorado que la cosa era objeto de copropiedad
 
 ###### Art. 1770.
 
@@ -9145,7 +9169,7 @@ Se exceptúa de lo dispuesto en el artículo anterior, la venta o cesión de acc
 
 ###### Art. 1776.
 
-Los hijos sujetos a patria potestad, pueden vender a sus padres solamente los bienes comprendidos en la primera clase de los mencionados en el artículo 481.
+Los hijos sujetos a patria potestad, pueden vender a sus padres solamente los bienes comprendidos en la primera clase de los mencionados en el artículo 481
 
 ###### Art. 1777.
 
@@ -9295,7 +9319,7 @@ Debe hacerse saber de una manera fehaciente, al que goza del derecho de preferen
 
 ###### Art. 1804.
 
-Si se ha concedido un plazo para pagar el precio, el que tiene el derecho de preferencia no puede prevalerce (sic) de este término, si no da las seguridades necesarias de que pagará el precio al expirar el plazo.
+Si se ha concedido un plazo para pagar el precio, el que tiene el derecho de preferencia no puede prevalerse de este término, si no da las seguridades necesarias de que pagará el precio al expirar el plazo
 
 ###### Art. 1805.
 
@@ -15502,3 +15526,9 @@ P.O. 29 DE ENERO DE 1982.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor cuatro días después al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE AGOSTO DE 1983.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor al tercer día de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
