@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "1995-11-20"
+last_updated: "1997-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1997.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -595,6 +595,10 @@ XIX.- De Honor y Justicia; e
 
 XX.- Instructora.
 
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 1997)</small>
+
+XXI.- De Biblioteca, Cultura Parlamentaria y Asuntos Editoriales;
+
 ###### ARTICULO 68.
 
 Las Comisiones Permanentes serán nombradas por la Gran Comisión en la tercera sesión del Primer Período Ordinario de Sesiones del Ejercicio Constitucional.
@@ -963,7 +967,9 @@ Habrá sesión secreta, cuando existan asuntos que lo ameriten y el Presidente d
 
 Las sesiones serán solemnes, cuando así lo requieran los asuntos a tratar en las mismas o cuando así lo determine la ley y podrán concurrir como invitados de honor las personas que para tal efecto acuerde invitar el Congreso.
 
-Siempre serán solemnes las sesiones que se celebren los días primero de diciembre y primero de junio de cada año.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1997)</small>
+
+Siempre serán solemnes las sesiones que se celebren los días primero de diciembre y primero de junio de cada año, al inicio de cada período ordinario de sesiones, en las que se rendirán honores a la Bandera Nacional.
 
 ###### ARTICULO 116.
 
@@ -1118,6 +1124,10 @@ Las iniciativas presentadas podrán ser leídas en dos sesiones diferentes; prim
 Cuando el texto de la iniciativa se haya distribuido con anticipación, podrá ser tramitada con una sola lectura con la aprobación de la Asamblea.
 
 Cuando se trate de iniciativas sumamente voluminosas, el Presidente puede someter al Pleno la determinación de sustituir la lectura, por la entrega de un tanto de la iniciativa impresa, para que cada legislador la estudie. La votación de este acuerdo será económica.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 1997)</small>
+
+En el caso de iniciativas de pensiones, serán tramitadas con una sola lectura y de tomarse en consideración se turnarán a la Comisión que corresponda.
 
 ###### ARTICULO 145.
 
@@ -1696,3 +1706,11 @@ DIPUTADO SECRETARIO
 Lic. Heriberto Arias Suárez
 
 DIPUTADO SECRETARIO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE MARZO DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
