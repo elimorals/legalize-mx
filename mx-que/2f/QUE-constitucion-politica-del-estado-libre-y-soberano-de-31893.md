@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1931-04-09"
+last_updated: "1931-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 1931.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 1931.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -90,6 +90,16 @@ N. DE. E. EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES
 P.O. 9 DE ABRIL DE 1931
 
 Artículo único.- Se deroga la Ley número 29 de fecha 22 de octubre de 1928, en la parte que reforma el artículo 107 de la Constitución Política del Estado, el que volverá a regir conforme al texto con que primitivamente figuró en la citada Constitución.
+
+P.O. 28 DE MAYO DE 1931
+
+###### ARTICULO 3°.
+
+Se derogan todas las disposiciones que se opongan a la presente.
+
+###### ARTICULO 4°.
+
+Esta ley comenzará a surtir sus efectos desde el 20 de mayo actual.
 
 ## TITULO SEGUNDO
 
@@ -1455,11 +1465,11 @@ Esta Constitución se publicará con la mayor solemnidad, y comenzará a regir e
 
 El Estado de Querétaro Arteaga es parte integrante de la Federación Mexicana. Es Libre y Soberano en lo que se refiere a su régimen interior, y sólo delega sus facultades en los Supremos Poderes Federales, para el bien procomunal de la Nación, en todos aquellos puntos que ha fijado o fije expresamente la Constitución Política de los Estado Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1929)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 1931)</small>
 
 ###### Art. 2º.
 
-El territorio del Estado se divide en siete Municipalidades que son: Amealco, Cadereyta de Montes, Colón, Jalpan, Querétaro, San Juan del Río y Tolimán.
+El territorio del Estado se divide en once Municipalidades que son: AMEALCO, CADEREYTA, COLON, CORREGIDORA, JALPAN, MARQUES, QUERETARO, SAN JUAN DEL RIO, SANTA ROSA, TEQUISQUIAPAN Y TOLIMAN.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1929)</small>
 
@@ -1473,7 +1483,7 @@ El Congreso del Estado, en la primera de sus sesiones ordinarias del próximo pe
 
 ###### Art. 4º.
 
-El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo el día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
+El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo en día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
 
 ###### Art. 5º.
 
@@ -1534,3 +1544,11 @@ P.O. 27 DE SEPTIEMBRE DE 1928
 ###### Art. 2º.
 
 El actual período constitucional comenzará a contarse para el Gobernador y los Magistrados del Tribunal, desde el día 1º de octubre de 1915, para terminar el 30 de septiembre de 1919. El período constitucional de la XXIII Legislatura terminará el 14 de septiembre de 1919.
+
+###### ARTICULO 1°.
+
+Los nuevos Municipios tendrán los mismos límites que actualmente tienen como Delegaciones Municipales y la cabecera de cada uno de ellos será la población en que actualmente residen los Delegados Municipales. La Delegación de Huimilpan tendrá los mismos límites que tuvo antes de la expedición de la Ley Número 50.
+
+###### ARTICULO 2°.
+
+El tercer domingo de noviembre de mil novecientos treinta y uno tendrá lugar las elecciones vara (sic) designar los miembros que integrarán los Ayuntamientos de los Municipios que crea esta ley, debiendo aquéllos tomar posesión el 1° de enero de 1932. Mientras tanto, el Gobernador del Estado dictará las medidas necesarias para la organización de la Hacienda de dichos Municipios y nombrará Juntas de Administración Civil para cada uno de ellos, las que tomarán posesión el 20 de mayo del año en curso, tendrán las mismas facultades que los Ayuntamientos y podrán ser removidas libremente por el mismo G. Gobernador debiendo estar integradas por un presidente municipal, dos regidores Propietarios y dos Suplentes.
