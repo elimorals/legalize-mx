@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-al-activo-antes-ley-del-impuesto-al-activo-258
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-31"
-last_updated: "1996-03-29"
+last_updated: "1996-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2587&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-12-30"
 
 LEY DEL IMPUESTO AL ACTIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MARZO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE MAYO DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1988.
 
@@ -49,15 +49,19 @@ Se establece un impuesto al activo de las empresas, de conformidad con las sigui
 
 LEY DEL IMPUESTO AL ACTIVO
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 1o.
 
-Las personas físicas que realicen actividades empresariales y las personas morales, residentes en México, están obligadas al pago del impuesto al activo, por el activo que tengan cualquiera que sea su ubicación. Las residentes en el extranjero que tengan un establecimiento permanente en el país, están obligadas al pago del impuesto por el activo atribuible a dicho establecimiento. Las personas distintas a las señaladas en este párrafo, que otorguen el uso o goce temporal de bienes que se utilicen en la actividad de otro contribuyente de los mencionados en este párrafo, están obligadas al pago del impuesto, únicamente por esos bienes.
+Las personas físicas que realicen actividades empresariales y las personas morales, residentes en México, están obligadas al pago del impuesto al activo, por el activo que tengan, cualquiera que sea su ubicación. Las residentes en el extranjero que tengan un establecimiento permanente en el país, están obligadas al pago del impuesto por el activo atribuible a dicho establecimiento. Las personas distintas a las señaladas en este párrafo, que otorguen el uso o goce temporal de bienes inmuebles que se utilicen en la actividad de otro contribuyente de los mencionados en este párrafo, están obligadas al pago del impuesto por su activo fijo y terrenos por los que obtengan ingresos a los que se refiere el Capítulo III del Título IV y los artículos 133, fracción XIII y 148-A de la Ley del Impuesto sobre la Renta.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 También están obligados al pago de este impuesto, los residentes en el extranjero por los inventarios que mantengan en territorio nacional para ser transformados o que ya hubieran sido transformados por algún contribuyente de este impuesto.
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+Las empresas que componen el sistema financiero están obligadas al pago del impuesto por su activo no afecto a su intermediación financiera.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -100,6 +104,28 @@ Los residentes en el extranjero a que se refiere el párrafo segundo del artícu
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 Para calcular el valor de los activos señalados en la fracción IV de este artículo, los contribuyentes a que se refiere el párrafo anterior considerarán el valor consignado a la entrada al país de dichos activos, adicionado del valor consignado cuando se retornen al extranjero y dividiendo el resultado entre dos. Este último resultado se dividirá entre 365 y el cociente se multiplicará por el número de días que permanecieron en territorio nacional. Los valores a que se refiere este párrafo serán los consignados en los pedimentos a que se refiere la legislación aduanera.
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+###### ARTICULO 2o.
+
+BIS.- Las personas físicas que otorguen el uso o goce temporal de inmuebles, que se utilicen por otro contribuyente del impuesto, para determinar el monto original de los mismos, estarán a lo siguiente:
+
+I.- Determinarán por separado el monto original de la inversión del terreno y de las construcciones, considerando el valor declarado en la escritura notarial en la que conste la adquisición. Cuando en dicha escritura no se hubiera hecho la separación de dicho monto para el terreno y las construcciones, los contribuyentes considerarán las proporciones que para el terreno y las construcciones, se hayan dado en el avalúo practicado a la fecha de la adquisición del bien de que se trate, o considerarán las proporciones que aparezcan en los valores catastrales que correspondan a la fecha de adquisición.
+
+En el caso de que no puedan determinarse las proporciones señaladas en el párrafo anterior, se considerará que del monto original de la inversión del bien de que se trate, el 80% corresponde a las construcciones y el 20% al terreno.
+
+II.- Cuando no se pueda determinar el monto original de la inversión de un inmueble, se considerará como dicho monto, el que resulte conforme a lo siguiente:
+
+a).- En el caso de las construcciones, mejoras o ampliaciones del inmueble, se considerará como monto el valor que se contenga en el aviso de terminación de obra. En caso de que no se consigne el valor correspondiente en el aviso de terminación de obra o de que no exista la obligación de dar dicho aviso, se considerará como monto original de la inversión de las construcciones, mejoras o ampliaciones del inmueble, el 80% del valor del avalúo que al efecto se practique por persona autorizada, por la Secretaría de Hacienda y Crédito Público, referido a la fecha en que las mismas se hayan terminado.
+
+b).- Tratándose de bienes adquiridos en rifa o sorteo antes del 1o. de enero de 1981, se considerará como monto el que haya servido para efectos del impuesto federal sobre loterías, rifas, sorteos y juegos permitidos. Tratándose de bienes adquiridos en rifa o sorteo a partir de la fecha antes citada, el que haya servido para efectos del impuesto sobre la renta. Si para determinar la base de los mencionados impuestos se practicó avalúo, éste se considerará el monto original de la inversión referido a la fecha de adquisición.
+
+c).- Tratándose de bienes adquiridos por herencia, legado o donación, incluyendo las donaciones efectuadas por la Federación, Estados, Distrito Federal, Municipios u organismos descentralizados, se considerará el monto original de la inversión que dicho bien haya tenido para el autor de la sucesión o para el donante, respectivamente. Si no pudiera determinarse dicho monto, se considerará como tal el 80% del valor del avalúo practicado al bien de que se trate referido al momento de la adjudicación o de la donación, según corresponda.
+
+d).- Tratándose de bienes adquiridos por prescripción, se determinará su monto original de la inversión conforme al avalúo que haya servido de base para el pago de impuestos con motivo de la adquisición. Si en la fecha en que se adquirió no procedió la realización del avalúo, se efectuará uno referido al momento en que la prescripción se hubiera consumado, independientemente de la fecha de la resolución que la declare. Cuando no pueda determinarse la fecha en que se consumó la prescripción adquisitiva, se tomará como tal aquélla en que se haya promovida (sic) ésta.
+
+Cuando para determinar el monto original de la inversión de un bien base de este impuesto, se deba realizar un avalúo en los términos de esta fracción, el contribuyente podrá acreditar el costo del avalúo contra los pagos provisionales del impuesto y el correspondiente al del ejercicio en que se efectuó dicho avalúo.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -185,9 +211,19 @@ Los contribuyentes podrán determinar el impuesto del ejercicio, considerando el
 
 El impuesto a que se refiere el párrafo anterior se actualizará por el periodo transcurrido desde el último mes de la primera mitad del cuarto ejercicio inmediato anterior, hasta el último mes de la primera mitad del ejercicio por el que se determine el impuesto.
 
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+Para los efectos de lo dispuesto en el primer párrafo de este artículo los contribuyentes actualizarán el impuesto que les hubiera correspondido de no haber ejercido la opción a que se refiere este precepto.
+
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 Una vez ejercida la opción que establece este artículo, el contribuyente deberá pagar el impuesto con base en la misma por los ejercicios subsecuentes, incluso cuando se deba pagar este impuesto en el periodo de liquidación.
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+###### ARTICULO 5o.- B.
+
+Las empresas que componen el sistema financiero considerarán como activo no afecto a su intermediación financiera, los activos fijos, los terrenos, los gastos y cargos diferidos, que no respalden obligaciones con terceros resultantes del desarrollo de su actividad de intermediación financiera de conformidad con la legislación aplicable. No se incluirán los activos que por disposición legal no puedan conservar en propiedad. Estos contribuyentes sólo podrán deducir del valor del activo, las deudas contratadas para la adquisición de los activos mencionados, siempre que reúnan los requisitos a que se refiere el artículo 5o. de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -197,17 +233,21 @@ No pagarán el impuesto al activo las siguientes personas:
 
 I.- Quienes no sean contribuyentes del impuesto sobre la renta.
 
-II.- Las empresas que componen el sistema financiero.
+II.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 III.- Las personas físicas que realicen actividades empresariales al menudeo en puestos fijos y semifijos en la vía pública o como vendedores ambulantes, cuando las mismas hayan optado por pagar el impuesto sobre la renta de conformidad con lo dispuesto por el Reglamento de la Ley del Impuesto sobre la Renta.
 
 IV.- Quienes otorguen el uso o goce temporal de bienes cuyos contratos de arrendamiento fueron prorrogados en forma indefinida por disposición legal (rentas congeladas), únicamente por dichos bienes.
 
-V.- Las personas físicas residentes en México que no realicen actividades empresariales y otorguen el uso o goce temporal de bienes a las personas a que se refieren las fracciones I y II de este artículo, únicamente por dichos bienes.
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
+
+V.- Las personas físicas residentes en México que no realicen actividades empresariales y otorguen el uso o goce temporal de bienes a las personas a que se refiere la fracción I de este artículo, únicamente por dichos bienes.
 
 VI.- Quienes utilicen bienes destinados sólo a actividades deportivas, cuando dicha utilización sea sin fines de lucro o únicamente por sus socios o miembros, así como quienes se dediquen a la enseñanza y cuenten con autorización o reconocimiento de validez oficial de estudios en los términos de la Ley Federal de Educación, únicamente por los bienes empleados en las actividades señaladas por esta fracción.
 
-Las personas a que se refieren las fracciones I y II de este artículo que mantengan los inventarios a que se refiere el párrafo segundo del artículo 1o. de esta Ley, o que otorguen el uso o goce temporal de bienes que se utilicen en la actividad de un contribuyente de los mencionados en el artículo 1o. de esta Ley, a excepción de las que estén autorizadas para recibir donativos deducibles para efectos de la Ley del Impuesto sobre la Renta en los términos de la fracción I del artículo 24 y fracción IV del artículo 140 de dicha Ley, pagarán el impuesto por dichos bienes.
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+Las personas a que se refiere la fracción I de este artículo que mantengan los inventarios a que se refiere el párrafo segundo del artículo 1o. de esta Ley, o que otorguen el uso o goce temporal de bienes que se utilicen en la actividad de un contribuyente de los mencionados en el artículo 1o. de esta Ley, a excepción de las que estén autorizadas para recibir donativos deducibles para efectos de la Ley del Impuesto sobre la Renta en los términos de la fracción I del artículo 24 y fracción IV del artículo 140 de dicha Ley, pagarán el impuesto por dichos bienes.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -465,9 +505,13 @@ Para efectos de este impuesto, la controladora y las controladas estarán a lo d
 
 En la escisión de sociedades, las sociedades escindentes y las escindidas estarán a lo siguiente:
 
-I.- Determinarán el monto de los pagos provisionales que les corresponda en el ejercicio en que se efectúe la escisión, considerando el pago provisional del periodo determinado conforme a los párrafos tercero y quinto del artículo 7o. de esta Ley en la proporción en que participe cada una de ellas del valor de su activo a que se refiere el artículo 2o. de la misma, después de disminuirle en la misma proporción las deudas deducibles en los términos del artículo 5o. de este ordenamiento, ambos referidos al ejercicio en que se efectúa la escisión.
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
 
-II.- Tendrán derecho a acreditar en el ejercicio, los pagos provisionales enterados con anterioridad a la escisión, los que se dividirán entre las sociedades en la misma proporción a que se refiere la fracción anterior.
+I.- En el ejercicio en que se efectúe la escisión y el siguiente, para efectos de los párrafos tercero y quinto del artículo 7o. de esta Ley, determinarán el monto de los pagos provisionales del período que corresponda, considerando el impuesto actualizado del último ejercicio de 12 meses de la sociedad antes de la escisión, en la proporción en que, a la fecha de la escisión, participe cada una de ellas del valor de su activo a que se refiere el artículo 2o. de la misma, después de disminuirle en la misma proporción las deudas deducibles, existentes a la misma fecha, en los términos del artículo 5o. de este ordenamiento. El impuesto del último ejercicio de 12 meses se actualizará por el periodo comprendido desde el último mes del ejercicio inmediato anterior al de 12 meses, hasta el último mes del ejercicio inmediato anterior a aquél por el cual se calcula el impuesto.
+
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
+
+II.- La sociedad escindente acreditará en el ejercicio de que se trate, la totalidad de los pagos provisionales enterados en dicho ejercicio, con anterioridad a la escisión, incluso cuando los pagos provisionales los hubiera efectuado de conformidad con lo dispuesto en el artículo 7o.-A de esta Ley. En ningún caso las sociedades escindidas podrán acreditar los pagos provisionales realizados por la escindente.
 
 III.- La sociedad escindente y las escindidas deberán continuar con la opción a que se refiere el artículo 5o-A de esta Ley, cuando la hubiera ejercido la escindente, en cuyo caso en el ejercicio en que se efectúa la escisión y el siguiente, deberán considerar ambas sociedades, el impuesto del penúltimo y último ejercicio inmediato anterior al de la escisión, en la proporción a que se refiere la fracción I de este artículo. A partir del tercer ejercicio en que se efectuó la escisión considerarán el impuesto que le hubiera correspondido a la sociedad en el penúltimo ejercicio inmediato anterior.
 
@@ -624,3 +668,23 @@ UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1995.
 D.O.F. 29 DE MARZO DE 1996.
 
 > <small>N. DE E. LAS ACTUALIZACIONES CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL.</small>
+
+D.O.F. 10 DE MAYO DE 1996.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL ACTIVO
+
+###### ARTICULO CUARTO.
+
+Para efectos de lo dispuesto por el Artículo Tercero de esta Ley, se aplicarán las siguientes disposiciones:
+
+I.- Las empresas que componen el sistema financiero podrán, a partir del ejercicio de 1996 y hasta el de 1998, realizar el acreditamiento a que se refiere el segundo párrafo del artículo 9o. de la Ley del Impuesto al Activo, considerando el impuesto sobre la renta y el impuesto al activo, causados en cada uno de los tres ejercicios anteriores al ejercicio de que se trate.
+
+El impuesto al activo que resulte después del acreditamiento a que se refiere el párrafo anterior y el primer párrafo del artículo 9o. de la Ley del Impuesto al Activo, será el impuesto a pagar en el ejercicio de que se trate, para efectos de dicha Ley.
+
+II.- Las empresas que componen el sistema financiero podrán determinar el impuesto al activo a partir del ejercicio de 1996 y hasta el de 1999, conforme a lo dispuesto por el artículo 5o.-A de la Ley del Impuesto al Activo.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
