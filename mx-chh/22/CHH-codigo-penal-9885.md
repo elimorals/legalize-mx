@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-9885"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-03-04"
-last_updated: "2002-05-22"
+last_updated: "2002-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO PENAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2002.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de marzo de 1987.
 
@@ -965,7 +965,7 @@ AL RESPONSABLE DE TENTATIVA SE LE APLICARAN HASTA LAS DOS TERCERAS PARTES DE LAS
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2001)</small>
 
-### CAPITULO V. SUBSTITUCION Y CONMUTACION DE SANCIONES
+### CAPITULO IV. CONCURSO DE DELITOS Y DELITO CONTINUADO
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2001)</small>
 
@@ -987,7 +987,7 @@ EN EL DELITO CONTINUADO LAS PENAS APLICADAS SE AUMENTARAN HASTA UNA TERCERA PART
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2001)</small>
 
-### CAPITULO IV. CONCURSO DE DELITOS Y DELITO CONTINUADO
+### CAPITULO V. SUBSTITUCION Y CONMUTACION DE SANCIONES
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2001)</small>
 
@@ -3317,6 +3317,10 @@ EL DEPOSITO SE ENTREGARA A SU PROPIETARIO O AL COMPRADOR, SEGUN EL CASO;
 
 VIII.- AL QUE SE COLOQUE EN EL SUPUESTO PREVISTO EN EL ARTICULO 126 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2002)</small>
+
+EN LOS CASOS DE LAS FRACCIONES II Y III DE ESTE ARTICULO, LAS PENAS SE AUMENTARAN HASTA UNA TERCERA PARTE DE LA QUE CORRESPONDA CONFORME AL SEGUNDO PARRAFO DEL ARTICULO 279 DEL PRESENTE ORDENAMIENTO.
+
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 281.
@@ -3840,3 +3844,9 @@ P.O. 22 DE MAYO DE 2002.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JUNIO DE 2002.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
