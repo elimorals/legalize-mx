@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1931-10-28"
+last_updated: "1931-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1931.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1931.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -173,9 +173,9 @@ La Capital del Estado es la Ciudad de Chilpancingo de los Bravos, donde deben re
 
 El territorio del Estado comprende el que le señaló la ley de su creación, con la modificación contenida en el Decreto número 1 de 23 de marzo de 1907, relativo al arreglo de límites con el vecino Estado de Michoacán.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1926)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1931)</small>
 
-Se divide en las siguientes Municipalidades: Ometepec, Igualapa, Xochixtlahuaca, Tlacoachixtlahuaca, Cuajinicuilapa, Taxco de Alarcón, Tetipac, Teloloapan, Cuetzala del Progreso, Ixcateopan, Pedro Ascencio Alquisiras, Ayutla de los Libres, Cuautepec, Copala, San Luis Acatlán, Azoyu, Florencio Villarreal, Chilapa, Atlixtac, Ahuacuotzingo, Zitlala, Copalillo, Atenango del Río, Chilpancingo de los Bravos, Zumpango del Río, Leonardo Bravo, Tlacotepec, Tecpan de Galeana, Atoyac de Alvarez, Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán, Quechultenango, Iguala, Tepecoacuilco de Trujano, Cocula, Huitzuco, Coyuca de Catalán, Zirándaro, Ajuchitlán del Progreso, San Miguel Totolapan, Pungarabato, Cutzamala de Pinzón, Tlalchapa, Arcelia, La Unión, Coahuayutla de Guerrero, Tlapa, Copanatoyac, Atlamajalcingo del Monte, San Vicente Zoyatlán, Totomixtlahuaca, Alcozauca de Guerrero, Metlatonoc, Zapotitlán, Xalpatlauhac, Malinaltepec, Tenango Tepexi, Acapulco de Juárez, Coyuca de Benítez, San Marcos, Tecoanapa, Huamuxtitlán, Alpoyeca, Xochihuehuetlán; Cualac y Olinalá.
+Se divide en las siguientes Municipalidades: Ometepec, Igualapa, Xochixtlahuaca, Tlacoachixtlahuaca, Cuajinicuilapa, Taxco de Alarcón, Tetipac, Teloloapan, Cuetzala del Progreso, Ixcateopan, Pedro Ascencio Alquisiras, Ayutla de los Libres, Cuautepec, Copala, San Luis Acatlán, Azoyu, Florencio Villarreal, Chilapa, Atlixtac, Ahuacuotzingo, Zitlala, Copalillo, Atenango del Río, Chilpancingo de los Bravos, Zumpango del Río, Leonardo Bravo, Tlacotepec, Tecpan de Galeana, Atoyac de Alvarez, Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán, Quechultenango, Iguala, Tepecoacuilco de Trujano, Cocula, Huitzuco, Coyuca de Catalán, Zirándaro, Ajuchitlán del Progreso, San Miguel Totolapan, Pungarabato, Cutzamala de Pinzón, Tlalchapa, Arcelia, La Unión, Coahuayutla de Guerrero, Tlapa, Copanatoyac, Atlamajalcingo del Monte, San Vicente Zoyatlán, Totomixtlahuaca, Alcozauca de Guerrero, Metlatonoc, Zapotitlán, Xalpatlauhac, Malinaltepec, Tenango Tepexi, Acapulco de Juárez, Coyuca de Benítez, San Marcos, Tecoanapa, Huamuxtitlán, Alpoyeca, Xochihuehuetlán; Cualac y Olinalá; Pilcaya.
 
 Las Municipalidades expresadas, conservan la integridad territorial que hasta ahora han reconocido, a reserva de ampliarla o reducirla y de suprimir las que no tengan viabilidad, según lo exijan los intereses generales del Estado.
 
@@ -187,13 +187,15 @@ El Estado adopta como base de su organización política y administrativa, el Mu
 
 Cada Municipio será administrado por un Ayuntamiento de elección popular directa, sin que haya ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1931)</small>
+
 #### SECCION III.
 
 Del Poder Judicial.
 
 ###### Artículo 19.
 
-Los Ayuntamientos estarán integrados por un número de miembros, que estará en relación con el censo de la Municipalidad, y que en ningún caso será menor de cinco, sin incluir los supernumerarios que se necesiten. El período de sus funciones será de un año y no podrán ser reelectos.
+El período de sus funciones será de dos años y no podrán ser reelectos para el período inmediato.
 
 ###### Artículo 20.
 
@@ -217,7 +219,9 @@ Con las Municipalidades que integran el Estado, se forman catorce Distritos, los
 
 Abasolo, que comprende las Municipalidades de Ometepec, Igualapa, Xochistlahuaca, Tlacoachixtlahuaca y Cuajinicuilapa; su Cabecera Ometepec.
 
-Alarcón, las de Taxco de Alarcón y Tetipac; su Cabecera Taxco de Alarcón.
+> <small>(REFORMADO, P. O. 23 DE DICIEMBRE DE 1931)</small>
+
+Alarcón, las de Taxco de Alarcón y Tetipac; Pilcaya; su Cabecera Taxco de Alarcón.
 
 Aldama, con las de Teloloapan, Cuetzala del Progreso, Arcelia, Ixcateopan y Pedro Ascencio Alquisiras; su Cabecera Teloloapan.
 
@@ -1150,3 +1154,15 @@ P.O. 28 DE OCTUBRE DE 1931.
 DECRETO NUMERO 21.
 
 Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación.
+
+P.O. 23 DE DICIEMBRE DE 1931.
+
+DECRETO NUMERO 27.
+
+Este Decreto comenzará a surtir sus efectos, a partir del día 1° de enero del año de 1932.
+
+P.O. 23 DE DICIEMBRE DE 1931.
+
+DECRETO NUMERO 29.
+
+Este Decreto comenzará a surtir sus efectos a partir del día 1° de enero del año de 1932.
