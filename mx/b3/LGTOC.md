@@ -4,7 +4,7 @@ identifier: "LGTOC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1932-08-27"
-last_updated: "1933-08-31"
+last_updated: "1935-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2348&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGTOC"
 
 LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 1933.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ABRIL DE 1935.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -2288,6 +2288,10 @@ Los créditos refaccionarios quedarán garantizados, simultánea o separadamente
 
 Los créditos refaccionarios y de habilitación o avío, podrán ser otorgados en los términos de la Sección 1a. de este Capítulo.
 
+> <small>(ADICIONADO, D.O.F. DE 17 DE ABRIL DE 1935)</small>
+
+El acreditado podrá otorgar a la orden del acreditante, pagarés que representen las disposiciones que haga del crédito concedido, siempre que los vencimientos no sean posteriores al del crédito, que se haga constar en tales documentos su procedencia de manera que queden suficientemente identificados y que revelen las anotaciones de registro del crédito original. La trasmisión de estos títulos implica, en todo caso, la responsabilidad solidaria de quien la efectúe y el traspaso de la parte correspondiente del principal del crédito representada por el pagaré, con las garantías y demás derechos accesorios, en la proporción que corresponda.
+
 ###### ARTICULO 326.
 
 Los contratos de crédito refaccionario o de habilitación o avío:
@@ -2296,7 +2300,9 @@ I.- Expresarán el objeto de la operación, la duración y la forma en que el be
 
 II.- Fijarán, con toda precisión, los bienes que se afecten en garantía, y señalarán los demás términos y condiciones del contrato;
 
-III.- Se consignarán en escritura pública o, cuando su cuantía no exceda de $5,000.00, en contrato privado que se firmará por duplicado ante dos testigos conocidos; y
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 1935)</small>
+
+III.- Se consignarán en contrato privado que se firmará por triplicado ante dos testigos conocidos y se ratificará ante el Encargado del Registro de que habla la fracción IV.
 
 IV.- Serán inscritos en el Registro de Hipotecas que corresponda, según la ubicación de los bienes afectos en garantía, o en el Registro de Comercio respectivo, cuando en la garantía no se incluya la de bienes inmuebles.
 
@@ -2309,6 +2315,10 @@ Los contratos de habilitación o refacción no surtirán efectos contra tercero,
 Quienes otorguen créditos de refacción o de habilitación o avío, deberán cuidar de que su importe se invierta precisamente en los objetos determinados en el contrato; si se probare que se le dió otra inversión a sabiendas del acreedor o por su negligencia, éste perderá el privilegio a que se refieren los artículos 322 y 324.
 
 El acreedor tendrá en todo tiempo el derecho de designar interventor que cuide del exacto cumplimiento de las obligaciones del acreditado. El sueldo y los gastos del interventor serán a cargo del acreedor, salvo pacto en contrario. El acreditado estará obligado a dar al interventor las facilidades necesarias para que éste cumpla su función. Si el acreditado emplea los fondos que se le suministren en fines distintos de los pactados o no atiende su negociación con la diligencia debida, el acreedor podrá rescindir el contrato, dar por vencida anticipadamente la obligación, y exigir el reembolso de las sumas que haya proporcionado, con sus intereses.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 1935)</small>
+
+Cuando el acreditante haya endosado los pagarés a que se refiere el artículo 325, conservará, salvo pacto en contrario, la obligación de vigilar la inversión que deba hacer el acreditado, así como la de cuidar y conservar las garantías concedidas, teniendo para estos fines el carácter de mandatario de los tenedores de los pagarés emitidos. El acreditante puede, con el mismo carácter, rescindir la obligación en los términos de la parte final del párrafo anterior y recibir el importe de los pagarés emitidos, que se darán por vencidos anticipadamente.
 
 > <small>(F. DE E., D.O.F. 8 DE SEPTIEMBRE DE 1932)</small>
 
@@ -2615,3 +2625,7 @@ Esta Ley entrará en vigor el día quince de septiembre de 1933.
 ###### ARTICULO 2°.
 
 Por ella se regirán los efectos jurídicos de los hechos anteriores a su vigencia, siempre que su aplicación no resulte retroactiva. En consecuencia, la aplicación de dicha Ley queda sujeta, en lo conducente, a las reglas contenidas en la segunda parte del artículo 2°. transitorio de la Ley General de Títulos y Operaciones de Crédito que por ésta se reforma.
+
+D.O.F. 17 DE ABRIL DE 1935.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
