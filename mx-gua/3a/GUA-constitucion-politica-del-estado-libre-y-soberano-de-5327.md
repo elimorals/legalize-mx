@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1943-03-28"
+last_updated: "1944-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 1944.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -597,7 +597,9 @@ No pueden ser Diputados a la Legislatura local:
 
 I. El Gobernador del Estado, cualquiera que sea su denominación, el origen y la forma de su designación.
 
-II. El Secretario General del Despacho, los Magistrados del Supremo Tribunal y el Procurador de Justicia, a no ser que se separen definitivamente de sus cargos, cuando menos ciento ochenta días antes de la fecha en que deban efectuarse las elecciones.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 1944)</small>
+
+II. El Secretario General del Despacho, los Magistrados del Supremo Tribunal y el Procurador de Justicia, a no ser que se separen definitivamente de sus cargos, cuando menos noventa días antes de la fecha en que deban efectuarse las elecciones.
 
 III. Los Militares en servicio activo en el Estado y los ciudadanos que tengan mando de fuerzas, regulares o irregulares, en el Distrito Electoral respectivo, dentro de los ciento ochenta días anteriores a la elección o cuando ésta se efectúe.
 
@@ -1162,5 +1164,9 @@ P.O. 30 DE MARZO DE 1941.
 Artículo Segundo: Este Decreto se publicará por bando solemne en todo el Estado.
 
 P.O. 28 DE MARZO DE 1943.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+
+P.O. 11 DE MAYO DE 1944.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
