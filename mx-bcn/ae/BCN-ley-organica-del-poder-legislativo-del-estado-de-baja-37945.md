@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2004-11-19"
+last_updated: "2005-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 2005.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -359,7 +359,9 @@ No se concederán licencias con goce de dietas, salvo el caso de incapacidad por
 
 Los Diputados con igual afiliación de partido, podrán organizarse en Grupos Parlamentarios para sostener los principios y lineamientos de sus respectivos partidos y para coadyuvar al mejor desarrollo del proceso legislativo por medio de la orientación de criterios comunes en las discusiones y deliberaciones.
 
-Los Diputados que no deseen o dejen de pertenecer a un Grupo Parlamentario o no puedan formar un Grupo Parlamentario por los requisitos establecidos en esta Ley, serán considerados como Diputados no coordinados debiéndoseles guardar las consideraciones que a los Diputados coordinados, y apoyándolos en lo individual, conforme a las posibilidades y presupuesto del Congreso del Estado, para que puedan desempeñar sus funciones de representación popular.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2005)</small>
+
+Los Diputados que no deseen o dejen de pertenecer a un Grupo Parlamentario o no puedan formar un Grupo Parlamentario por los requisitos establecidos en esta Ley, se les guardarán las consideraciones que a los Diputados coordinados, y apoyándolos en lo individual, conforme a las posibilidades y presupuesto del Congreso del Estado, para que puedan desempeñar sus funciones de representación popular.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
@@ -717,7 +719,9 @@ El Congreso podrá aumentar el número de las Comisiones Ordinarias, según lo e
 
 La Comisión de Régimen Interno y Prácticas Parlamentarias es la expresión de la pluralidad del Congreso; por lo tanto, es la instancia colegiada en donde se impulsan entendimientos y convergencias políticas, a fin de alcanzar acuerdos para que el Pleno esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden.
 
-La Comisión se integra por los Diputados Coordinadores de los Grupos Parlamentarios debidamente acreditados, así como por los Diputados pertenecientes a Partidos Políticos que cuenten con un solo escaño en el Congreso, los cuales serán considerados como Diputados no coordinados. La Comisión se conformará por un Presidente, un Secretario y Vocales. La Presidencia de esta Comisión y la Presidencia de la Mesa Directiva del Congreso no podrán coincidir en Diputados del mismo Grupo Parlamentario o en Diputados de partidos políticos que cuenten con un solo escaño en el Congreso.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2005)</small>
+
+La Comisión se integra por los Diputados Coordinadores de los Grupos Parlamentarios debidamente acreditados, así como por los Diputados pertenecientes a Partidos Políticos que cuenten con un solo escaño en el Congreso. La Comisión se conformará por un Presidente, un Secretario y Vocales. La Presidencia de esta Comisión y la Presidencia de la Mesa Directiva del Congreso no podrán coincidir en Diputados del mismo Grupo Parlamentario o en Diputados de partidos políticos que cuenten con un solo escaño en el Congreso.
 
 Atendiendo a su naturaleza, la Comisión tomará sus acuerdos y resoluciones mediante el consenso de todos sus integrantes. En caso contrario, el Presidente de la Comisión hará llegar al Pleno del Congreso las posiciones y propuestas tal y como fueron asumidas por sus autores o promotores, a efecto de que aquél se imponga de ellas y resuelva como corresponda.
 
@@ -725,7 +729,9 @@ A la Comisión de Régimen Interno y Prácticas Parlamentarias, le corresponde d
 
 I.- Auxiliar a la Mesa Directiva a organizar los trabajos del Congreso del Estado y elaborar el calendario de sesiones de cada período para ser presentado en la primera sesión del último mes del período a concluir;
 
-II.- Suscribir los acuerdos de los Grupos Parlamentarios relativos a los asuntos que se van a desahogar en las sesiones del Pleno del Congreso, dejando a salvo los derechos de los Diputados en lo individual, para que planteen cualquier asunto de su interés;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2005)</small>
+
+II.- Suscribir los acuerdos de los Grupos Parlamentarios y de los Diputados pertenecientes a Partidos Políticos que cuenten con un solo escaño en el Congreso, relativos a los asuntos que se van a desahogar en las sesiones del Pleno del Congreso, dejando a salvo los derechos de los Diputados en lo individual, para que planteen cualquier asunto de su interés;
 
 III.- Revisar y proponer al Pleno del Congreso las propuestas de nombramiento o remoción, en su caso, de los titulares de los Órganos Técnico-Administrativos, señalados en el artículo 40 de esta Ley y del Órgano de Fiscalización Superior, recibidas de las Comisiones correspondientes;
 
@@ -741,7 +747,9 @@ VIII.- Revisar los proyectos de Reglamentos que se deriven de esta Ley y sus ref
 
 IX.- Revisar el proyecto de Presupuesto Anual de Egresos del Congreso y ponerlo a consideración del Pleno para los efectos de la Ley de la Materia;
 
-X.- Resolver a propuesta de alguno de los Coordinadores de los Grupos Parlamentarios, la sustitución en las Comisiones de Diputados de partidos políticos que cuenten con un solo escaño en el Congreso; y,
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2005)</small>
+
+X.- Resolver a propuesta de cualquier integrante de la Comisión de Régimen Interno y Prácticas Parlamentarias, la sustitución en las Comisiones de Diputados de partidos políticos que cuenten con un solo escaño en el Congreso, si hubieren incurrido en alguna falta prevista en esta Ley; y,
 
 XI.- Las demás que le confieran esta Ley, sus Reglamentos y los Acuerdos del Pleno del Congreso del Estado.
 
@@ -1902,3 +1910,7 @@ TERCERO.- Dentro de los ciento ochenta días siguientes a la entrada en vigor de
 CUARTO.- A la entrada en vigor de estas reformas, y por única ocasión, el Congreso del Estado, mediante la mayoría absoluta de sus integrantes, podrá remover y nombrar a los titulares de los órganos Técnico-Administrativos, señalados en el artículo 40 de esta Ley. Efectuado lo anterior, en los casos subsecuentes y hasta el 30 de Septiembre del año 2007, el Congreso del Estado mediante mayoría calificada, podrá remover o nombrar a los titulares de los órganos Técnico-Administrativo.
 
 QUINTO.- Por única ocasión, a partir de la entrada en vigor de las presentes reformas y hasta el día 30 de Septiembre del año 2007, la Comisión de Legislación y Puntos Constitucionales se integrará por siete miembros.
+
+P.O. 28 DE ENERO DE 2005.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
