@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2000-09-21"
+last_updated: "2001-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE AGOSTO DE 2001.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -128,9 +128,75 @@ XXIII. Tesorero: El Titular de la Tesorería del Ayuntamiento.
 
 En los Estados Unidos Mexicanos todo individuo gozará de las garantías que otorga esta Constitución, las cuales no podrán restringirse ni suspenderse, sino en los casos y con las condiciones que ella misma establece.
 
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2001)</small>
+
+Está prohibida la esclavitud en los Estados Unidos Mexicanos. Los esclavos del extranjero que entren al territorio nacional alcanzarán, por este solo hecho, su libertad y la protección de las leyes.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2001)</small>
+
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2001)</small>
+
 ###### Art. 2o.
 
-Está prohibida la esclavitud en los Estados Unidos Mexicanos. Los esclavos del extranjero que entren al territorio nacional, alcanzarán, por ese sólo hecho, su libertad y la protección de las leyes.
+La Nación Mexicana es única e indivisible.
+
+La Nación tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas que son aquellos que descienden de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
+
+La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas.
+
+Son comunidades integrantes de un pueblo indígena, aquellas que formen una unidad social, económica y cultural, asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres.
+
+El derecho de los pueblos indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional. El reconocimiento de los pueblos y comunidades indígenas se hará en las constituciones y leyes de las entidades federativas, las que deberán tomar en cuenta, además de los principios generales establecidos en los párrafos anteriores de este artículo, criterios etnolingüísticos y de asentamiento físico.
+
+A. Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para:
+
+I. Decidir sus formas internas de convivencia y organización social, económica, política y cultural.
+
+II. Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de esta Constitución, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres. La ley establecerá los casos y procedimientos de validación por los jueces o tribunales correspondientes.
+
+III. Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de las mujeres en condiciones de equidad frente a los varones, en un marco que respete el pacto federal y la soberanía de los estados.
+
+IV. Preservar y enriquecer sus lenguas, conocimientos y todos los elementos que constituyan su cultura e identidad.
+
+V. Conservar y mejorar el hábitat y preservar la integridad de sus tierras en los términos establecidos en esta Constitución.
+
+VI. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en esta Constitución y a las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas, en términos de esta Constitución. Para estos efectos las comunidades podrán asociarse en términos de ley.
+
+VII. Elegir, en los municipios con población indígena, representantes ante los ayuntamientos.
+
+Las constituciones y leyes de las entidades federativas reconocerán y regularán estos derechos en los municipios, con el propósito de fortalecer la participación y representación política de conformidad con sus tradiciones y normas internas.
+
+VIII. Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales respetando los preceptos de esta Constitución. Los indígenas tienen en todo tiempo el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura.
+
+Las constituciones y leyes de las entidades federativas establecerán las características de libre determinación y autonomía que mejor expresen las situaciones y aspiraciones de los pueblos indígenas en cada entidad, así como las normas para el reconocimiento de las comunidades indígenas como entidades de interés público.
+
+B. La Federación, los Estados y los Municipios, para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, establecerán las instituciones y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
+
+Para abatir las carencias y rezagos que afectan a los pueblos y comunidades indígenas, dichas autoridades, tienen la obligación de:
+
+I. Impulsar el desarrollo regional de las zonas indígenas con el propósito de fortalecer las economías locales y mejorar las condiciones de vida de sus pueblos, mediante acciones coordinadas entre los tres órdenes de gobierno, con la participación de las comunidades. Las autoridades municipales determinarán equitativamente las asignaciones presupuestales que las comunidades administrarán directamente para fines específicos.
+
+II. Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior. Establecer un sistema de becas para los estudiantes indígenas en todos los niveles. Definir y desarrollar programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia y en consulta con las comunidades indígenas. Impulsar el respeto y conocimiento de las diversas culturas existentes en la nación.
+
+III. Asegurar el acceso efectivo a los servicios de salud mediante la ampliación de la cobertura del sistema nacional, aprovechando debidamente la medicina tradicional, así como apoyar la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil.
+
+IV. Mejorar las condiciones de las comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que faciliten el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos.
+
+V. Propiciar la incorporación de las mujeres indígenas al desarrollo, mediante el apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria.
+
+VI. Extender la red de comunicaciones que permita la integración de las comunidades, mediante la construcción y ampliación de vías de comunicación y telecomunicación. Establecer condiciones para que los pueblos y las comunidades indígenas puedan adquirir, operar y administrar medios de comunicación, en los términos que las leyes de la materia determinen.
+
+VII. Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la aplicación de estímulos para las inversiones públicas y privadas que propicien la creación de empleos, la incorporación de tecnologías para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización.
+
+VIII. Establecer políticas sociales para proteger a los migrantes de los pueblos indígenas, tanto en el territorio nacional como en el extranjero, mediante acciones para garantizar los derechos laborales de los jornaleros agrícolas; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas.
+
+IX. Consultar a los pueblos indígenas en la elaboración del Plan Nacional de Desarrollo y de los estatales y municipales y, en su caso, incorporar las recomendaciones y propuestas que realicen.
+
+Para garantizar el cumplimiento de las obligaciones señaladas en este apartado, la Cámara de Diputados del Congreso de la Unión, las legislaturas de las entidades federativas y los ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
+
+Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la ley.
 
 (REFORMADO, D.O.F. 5 DE MARZO DE 1993) (F. DE E., D.O.F. 9 DE MARZO DE 1993)
 
@@ -168,11 +234,9 @@ VII. Las universidades y las demás instituciones de educación superior a las q
 
 VIII. El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, los Estados y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan.
 
-> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 1992)</small>
-
 ###### Art. 4o.
 
-La Nación mexicana tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas. La Ley protegerá y promoverá el desarrollo de sus lenguas, culturas, usos, costumbres, recursos y formas específicas de organización social, y garantizará a sus integrantes el efectivo acceso a la jurisdicción del Estado. En los juicios y procedimientos agrarios en que aquellos sean parte, se tomarán en cuenta sus prácticas y costumbres jurídicas en los términos que establezca la ley.
+(DEROGADO PRIMER PARRAFO, D.O.F. 14 DE AGOSTO DE 2001)
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -365,6 +429,10 @@ La Federación y los Gobiernos de los Estados establecerán instituciones especi
 > <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 1977)</small>
 
 Los reos de nacionalidad mexicana que se encuentren compurgando penas en países extranjeros, podrán ser trasladados a la República para que cumplan sus condenas con base en los sistemas de readaptación social previstos en este artículo, y los reos de nacionalidad extranjera sentenciados por delitos del orden federal en toda la República, o del fuero común en el Distrito Federal, podrán ser trasladados al país de su origen o residencia, sujetándose a los Tratados Internacionales que se hayan celebrado para ese efecto. Los gobernadores de los Estados podrán solicitar al Ejecutivo Federal, con apoyo en las leyes locales respectivas, la inclusión de reos del orden común en dichos Tratados. El traslado de los reos sólo podrán (sic) efectuarse con su consentimiento expreso.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2001)</small>
+
+Los sentenciados, en los casos y condiciones que establezca la ley, podrán compurgar sus penas en los centros penitenciarios más cercanos a su domicilio, a fin de propiciar su reintegración a la comunidad como forma de readaptación social.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE MARZO DE 1999)</small>
 
@@ -716,7 +784,7 @@ XX.- El Estado promoverá las condiciones para el desarrollo rural integral, con
 
 ###### Art. 28.
 
-En los Estados Unidos Mexicanos quedan prohibidos los monopolios, la (sic) prácticas monopólicas, los estancos y las exenciones de impuestos en los términos y condiciones que fijan las leyes. El mismo tratamiento se dará a ls (sic) prohibiciones a título de protección a la industria.
+En los Estados Unidos Mexicanos quedan prohibidos los monopolios, la (sic) prácticas (sic) monopólicas, los estancos y las exenciones de impuestos en los términos y condiciones que fijan las leyes. El mismo tratamiento se dará a ls (sic) prohibiciones a título de protección a la industria.
 
 En consecuencia, la ley castigará severamente, y las autoridades perseguirán con eficacia, toda concentración o acaparamiento en una o pocas manos de artículos de consumo necesario y que tenga por objeto obtener el alza de los precios; todo acuerdo, procedimiento o combinación de los productores, industriales, comerciantes o empresarios de servicios, que de cualquier manera hagan, para evitar la libre concurrencia o la competencia entre sí y obligar a los consumidores a pagar precios exagerados y, en general, todo lo que constituya una ventaja exclusiva indebida a favor de una o varias personas determinadas y con perjuicio del público en general o de alguna clase social.
 
@@ -5170,6 +5238,10 @@ Sin perjuicio de su competencia constitucional, en el desempeño de las funcione
 
 Los Municipios, previo acuerdo entre sus ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de municipios de dos o más Estados, deberán contar con la aprobación de las legislaturas de los Estados respectivas. Así mismo cuando a juicio del ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio.
 
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2001)</small>
+
+Las comunidades indígenas, dentro del ámbito municipal, podrán coordinarse y asociarse en los términos y para los efectos que prevenga la ley.
+
 IV.- Los municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que las legislaturas establezcan a su favor, y en todo caso:
 
 a).- Percibirán las contribuciones, incluyendo tasas adicionales, que establezcan los Estados sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora así como las que tengan por base el cambio de valor de los inmuebles.
@@ -8675,6 +8747,24 @@ El presente Decreto entrará en vigor a los seis meses de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Las disposiciones legales vigentes continuarán aplicándose en lo que no se opongan al presente Decreto, en tanto se expiden las normas reglamentarias correspondientes.
+
+D.O.F. 14 DE AGOSTO DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Al entrar en vigor estas reformas, el Congreso de la Unión y las Legislaturas de las entidades federativas deberán realizar las adecuaciones a las leyes federales y constituciones locales que procedan y reglamenten lo aquí estipulado.
+
+###### ARTICULO TERCERO.
+
+Para establecer la demarcación territorial de los distritos electorales uninominales deberá tomarse en consideración, cuando sea factible, la ubicación de los pueblos y comunidades indígenas, a fin de propiciar su participación política.
+
+###### ARTICULO CUARTO.
+
+El titular del Poder Ejecutivo Federal dispondrá que el texto íntegro de la exposición de motivos y del cuerpo normativo del presente decreto, se traduzca a las lenguas de los pueblos indígenas del país y ordenará su difusión en sus comunidades.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA; VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
