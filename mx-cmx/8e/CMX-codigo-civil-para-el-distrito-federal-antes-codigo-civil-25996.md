@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1986-01-10"
+last_updated: "1988-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 1988.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -67,25 +67,55 @@ Contra la observancia de la ley no puede alegarse desuso, costumbre o práctica 
 
 Las leyes que establecen excepción a las reglas generales, no son aplicables a caso alguno que no esté expresamente especificado en las mismas leyes.
 
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 12.
 
-Las leyes mexicanas, incluyendo las que se refieran al estado y capacidad de las personas, se aplican a todos los habitantes de la República, ya sean nacionales o extranjeros, estén domiciliados en ella o sean transeuntes.
+Las leyes mexicanas rigen a todas las personas que se encuentren en la República, así como los actos y hechos ocurridos en su territorio o jurisdicción y aquéllos que se sometan a dichas leyes, salvo cuando éstas prevean la aplicación de un derecho extranjero y salvo, además, lo previsto en los tratados y convenciones de que México sea parte.
+
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 13.
 
-Los efectos jurídicos de actos y contratos celebrados en el extranjero, que deban ser ejecutados en el Territorio de la República, se regirán por las disposiciones de este Código.
+La determinación del derecho aplicable se hará conforme a las siguientes reglas:
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+I.- Las situaciones jurídicas válidamente creadas en las entidades de la República o en un Estado extranjero conforme a su derecho, deberán ser reconocidas;
+
+II.- El estado y capacidad de las personas físicas se rige (sic) por el derecho del lugar de su domicilio;
+
+III.- La constitución, régimen y extinción de los derechos reales sobre inmuebles, así como los contratos de arrendamiento y de uso temporal de tales bienes, y los bienes muebles, se regirán por el derecho del lugar de su ubicación, aunque sus titulares sean extranjeros;
+
+IV.- La forma de los actos jurídicos se regirá por el derecho del lugar en que se celebren. Sin embargo, podrán sujetarse a las formas prescritas en este Código cuando el acto haya de tener efectos en el Distrito Federal o en la República tratándose de materia federal; y
+
+V.- Salvo lo previsto en las fracciones anteriores, los efectos jurídicos de los actos y contratos se regirán por el derecho del lugar en donde deban ejecutarse, a menos de que las partes hubieran designado válidamente la aplicabilidad de otro derecho.
+
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 14.
 
-Los inmuebles sitos en el Distrito Federal y los bienes muebles que en el mismo se encuentren, se regirán por las disposiciones de este Código, aún cuando los dueños sean extranjeros.
+En la aplicación del derecho extranjero se observará lo siguiente:
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+I.- Se aplicará como lo haría el juez extranjero correspondiente, para lo cual el juez podrá allegarse la información necesaria acerca del texto, vigencia, sentido y alcance legal de dicho derecho;
+
+II.- Se aplicará el derecho sustantivo extranjero, salvo cuando dadas las especiales circunstancias del caso, deban tomarse en cuenta, con carácter excepcional, las normas conflictuales de ese derecho, que hagan aplicables las normas sustantivas mexicanas o de un tercer estado;
+
+III.- No será impedimento para la aplicación del derecho extranjero, que el derecho mexicano no prevea instituciones o procedimientos esenciales a la institución extranjera aplicable, si existen instituciones o procedimientos análogos;
+
+IV.- Las cuestiones previas, preliminares o incidentales que puedan surgir con motivo de una cuestión principal, no deberán resolverse necesariamente de acuerdo con el derecho que regule a esta última; y
+
+V.- Cuando diversos aspectos de una misma relación jurídica estén regulados por diversos derechos, éstos serán aplicados armónicamente, procurando realizar las finalidades perseguidas por cada uno de tales derechos. Las dificultades causadas por la aplicación simultánea de tales derechos se resolverán tomando en cuenta las exigencias de la equidad en el caso concreto.
+
+Lo dispuesto en el presente artículo se observará cuando resultare aplicable el derecho de otra entidad de la Federación.
+
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 15.
 
-Los actos jurídicos, en todo lo relativo a su forma, se regirán por las leyes del lugar donde pasen. Sin embargo, los mexicanos o extranjeros residentes fuera del Distrito Federal, quedan en libertad para sujetarse a las formas prescritas por este Código cuando el acto haya de tener ejecución en la mencionada demarcación.
+No se aplicará el derecho extranjero:
+
+I.- Cuando artificiosamente se hayan evadido principios fundamentales del derecho mexicano, debiendo el juez determinar la intención fraudulenta de tal evasión; y
+
+II.- Cuando las disposiciones del derecho extranjero o el resultado de su aplicación sean contrarios a principios o instituciones fundamentales del orden público mexicano.
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
@@ -145,6 +175,8 @@ El mayor de edad tiene la facultad de disponer libremente de su persona y de sus
 
 ## TITULO TERCERO. Del domicilio
 
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 25.
 
 Son personas morales:
@@ -161,6 +193,10 @@ V.- Las sociedades cooperativas y mutualistas;
 
 VI.- Las asociaciones distintas de las enumeradas que se propongan fines políticos, científicos, artísticos, de recreo o cualquiera otro fin lícito, siempre que no fueren desconocidas por la ley.
 
+> <small>(ADICIONADA, D.O.F. 7 DE ENERO DE 1988)</small>
+
+VII.- Las personas morales extranjeras de naturaleza privada, en los términos del artículo 2736.
+
 ###### ARTICULO 26.
 
 Las personas morales pueden ejercitar todos los derechos que sean necesarios para realizar el objeto de su institución.
@@ -173,33 +209,55 @@ Las personas morales obran y se obligan por medio de los órganos que las repres
 
 Las personas morales se regirán por las leyes correspondientes, por su escritura constitutiva y por sus estatutos.
 
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+###### ARTICULO 28 Bis.
+
+Las personas morales extranjeras de naturaleza privada no regidas por otras leyes, solamente podrán establecerse en el territorio de la República, cumpliendo con las disposiciones legales aplicables y previa autorización de la Secretaría de Relaciones Exteriores.
+
 ## TITULO CUARTO. Del Registro Civil
 
 ###### ARTICULO 29.
 
-El domicilio de una persona física es el lugar donde reside con el propósito de establecerse en él; a falta de éste, el lugar en que tiene el principal asiento de sus negocios; y a falta de uno y otro, el lugar en que se halle.
+El domicilio de las personas físicas es el lugar donde residen habitualmente, y a falta de éste, el lugar del centro principal de sus negocios; en ausencia de éstos, el lugar donde simplemente residan y, en su defecto, el lugar donde se encontraren.
+
+Se presume que una persona reside habitualmente en un lugar, cuando permanezca en él por más de seis meses.
+
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 30.
 
-Se presume el propósito de establecerse en un lugar, cuando se resida por más de seis meses en él. Transcurrido el mencionado tiempo el que no quiera que nazca la presunción de que se acaba de hablar, declarará dentro del término de quince días, tanto a la autoridad municipal de su anterior domicilio, como a la autoridad municipal de su nueva residencia, que no desea perder su antiguo domicilio y adquirir uno nuevo. La declaración no producirá efectos si se hace en perjuicio de tercero.
+El domicilio legal de una persona física es el lugar donde la ley le fija su residencia para el ejercicio de sus derechos y el cumplimiento de sus obligaciones, aunque de hecho no esté allí presente.
+
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 31.
-
-El domicilio legal de una persona es el lugar donde la ley le fija su residencia para el ejercicio de sus derechos y el cumplimiento de sus obligaciones, aunque de hecho no esté allí presente.
-
-###### ARTICULO 32.
 
 Se reputa domicilio legal:
 
 I.- Del menor de edad no emancipado, el de la persona a cuya patria potestad está sujeto;
 
-II.- Del menor que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
+II.- Del menor de edad que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
 
-III.- De los militares en servicio activo, el lugar en que están destinados;
+III.- En el caso de menores o incapaces abandonados, el que resulte conforme a las circunstancias previstas en el artículo 29;
 
-IV.- De los empleados públicos, el lugar donde desempeñan sus funciones por más de seis meses. Los que por tiempo menor desempeñen alguna comisión, no adquirirán domicilio en el lugar donde la cumplen, sino que conservarán su domicilio anterior;
+IV.- De los cónyuges, aquél en el cual éstos vivan de consuno, sin perjuicio del derecho de cada cónyuge de fijar su domicilio en la forma prevista en el artículo 29;
 
-V.- De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, la población en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido.
+V.- De los militares en servicio activo, el lugar en que están destinados;
+
+VI.- De los servidores públicos, el lugar donde desempeñan sus funciones por más de seis meses;
+
+VII.- De los funcionarios diplomáticos, el último que hayan tenido en el territorio del estado acreditante, salvo con respecto a las obligaciones contraídas localmente;
+
+VIII.- De las personas que residan temporalmente en el país en el desempeño de una comisión o empleo de su gobierno o de un organismo internacional, será el del estado que los haya designado o el que hubieren tenido antes de dicha designación respectivamente, salvo con respecto a obligaciones contraídas localmente; y
+
+IX.- De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, la población en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido.
+
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+###### ARTICULO 32.
+
+Cuando una persona tenga dos o más domicilios se le considerará domiciliada en el lugar en que simplemente resida, y si viviere en varios, aquél en que se encontrare.
 
 ###### ARTICULO 33.
 
@@ -4057,7 +4115,7 @@ Los herederos que no administren, podrán nombrar un interventor, que tendrá la
 
 ###### ARTICULO 686.
 
-El que éntre (sic) en la posesión provisional, tendrá, respecto de los bienes, las mismas obligaciones, facultades y restricciones que los tutores.
+El que éntre en la posesión provisional, tendrá, respecto de los bienes, las mismas obligaciones, facultades y restricciones que los tutores.
 
 ###### ARTICULO 687.
 
@@ -8915,7 +8973,7 @@ ARTICULO 2,225.- La ilicitud en el objeto, en el fin o en la condición del acto
 
 ARTICULO 2,226.- La nulidad absoluta por regla general no impide que el acto produzca provisionalmente sus efectos, los cuales serán destruídos retroactivamente cuando se pronuncie por el juez la nulidad. De ella puede prevalerse todo interesado y no desaparece por la confirmación o la prescripción.
 
-ARTICULO 2,227.- La nulidad es relativa cuando no reune odos los caracteres enumerados en el artículo anterior. Siempre permite que el acto produzca provisionalmente sus efectos.
+ARTICULO 2,227.- La nulidad es relativa cuando no reune todos los caracteres enumerados en el artículo anterior. Siempre permite que el acto produzca provisionalmente sus efectos.
 
 ARTICULO 2,228.- La falta de forma establecida por la ley, si no se trata de actos solemnes, así como el error, el dolo, la violencia, la lesión, y la incapacidad de cualquiera de los autores del acto, produce la nulidad relativa del mismo.
 
@@ -9209,25 +9267,35 @@ ARTICULO 2,315.- En la venta de que habla el artículo 2,312, mientras que no pa
 
 ARTICULO 2,316.- El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1966)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ENERO DE 1988)</small>
 
-ARTICULO 2,317.- Las enajenaciones de bienes inmuebles cuyo valor convencional no sea mayor de quinientos pesos y la constitución o transmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, juez de paz o Registro Público de la Propiedad.
+ARTICULO 2,317.- Las enajenaciones de bienes inmuebles cuyo valor de avalúo no exceda al equivalente a trescientas sesenta y cinco veces el salario mínimo general diario vigente en el Distrito Federal en el momento de la operación y la constitución o trasmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, Juez competente o Registro Público de la Propiedad.
 
 > <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
 
 Los contratos por los que el Departamento del Distrito Federal enajene terrenos o casas para la constitución del patrimonio familiar o para personas de escasos recursos económicos, hasta por el valor máximo a que se refiere el artículo 730, podrán otorgarse en documento privado, sin los requisitos de testigos o de ratificación de firmas.
 
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+En los programas de regularización de la tenencia de la tierra que realice el Departamento del Distrito Federal sobre inmuebles de propiedad particular, cuyo valor no rebase el que señala el artículo 730 de este Código, los contratos que se celebren entre las partes, podrán otorgarse en las mismas condiciones a que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+Los contratos a que se refiere el párrafo segundo, así como los que se otorguen con motivo de los programas de regularización de la tenencia de la tierra que realice el Departamento del Distrito Federal sobre inmuebles de propiedad particular, podrán también otorgarse en el protocolo abierto especial a cargo de los notarios del Distrito Federal, quienes en esos casos reducirán en un cincuenta por ciento las cuotas que correspondan conforme al arancel respectivo.
+
 ARTICULO 2,318.- Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el párrafo segundo del art. 1,834.
 
 ARTICULO 2,319.- De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1966)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
-ARTICULO 2,320.- Si el valor del inmueble excede de quinientos pesos, su venta se hará en escritura pública, salvo lo dispuesto por el artículo 2317.
+ARTICULO 2,320.- Si el valor de avalúo del inmueble excede de trescientos sesenta y cinco veces el salario mínimo general diario vigente en el Distrito Federal en el momento de la operación, su venta se hará en escritura pública, salvo lo dispuesto por el artículo 2317.
 
-ARTICULO 2,321.- Tratándose de bienes ya inscritos en el Registro y cuyo valor no exceda de cinco mil pesos, cuando la venta sea al contado puede hacerse trasmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
-El endoso será ratificado ante el registrador, quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compra-venta realizada en esta forma, hará una nueva inscripción de los bienes vendidos, en favor del comprador.
+ARTICULO 2,321.- Tratándose de bienes ya inscritos en el Registro y cuyo valor no exceda de trescientas sesenta y cinco veces el salario mínimo general diario vigente en el Distrito Federal en el momento de la operación, cuando la venta sea al contado podrá formalizarse, haciéndola constar por escrito en el certificado de inscripción de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
+
+La constancia de la venta será ratificada ante el registrador, quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compraventa realizada en esta forma, hará una nueva inscripción de los bienes vendidos en favor del comprador.
 
 ARTICULO 2,322.- La venta de bienes raíces no producirá efectos contra tercero sino después de registrada en los términos prescritos en este Código.
 
@@ -10571,19 +10639,29 @@ ARTICULO 2,734.- Si al terminar la sociedad en que hubiere socios capitalistas e
 
 ARTICULO 2,735.- Salvo pacto en contrario, los socios industriales no responderán de las pérdidas.
 
-### CAPITULO VI. De las asociaciones y de la sociedades extranjeras
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE ENERO DE 1988)</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+### CAPITULO VI. De las Personas Morales Extranjeras de Naturaleza Privada
 
-ARTICULO 2,736.- Para que las asociaciones y sociedades extranjeras de carácter civil, puedan ejercer sus actividades en el Distrito Federal, deberán estar autorizadas por la Secretaría de Relaciones Exteriores.
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
-ARTICULO 2,737.- La autorización no se concederá si no comprueban:
+ARTICULO 2,736.- La existencia, capacidad para ser titular de derechos y obligaciones, funcionamiento, transformación, disolución, liquidación y fusión de la (sic) personas morales extranjeras de naturaleza privada se regirán por el derecho de su constitución, entendiéndose por tal, aquél del estado en que se cumplan los requisitos de forma y fondo requeridos para la creación de dichas personas.
+
+En ningún caso el reconocimiento de la capacidad de una persona moral extranjera excederá a la que le otorgue el derecho conforme al cual se constituyó.
+
+Cuando alguna persona extranjera de naturaleza privada actúe por medio de algún representante, se considerará que tal representante, o quien lo substituya, está autorizado para responder a las reclamaciones y demandas que se intenten en contra de dicha persona con motivo de los actos en cuestión.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+ARTICULO 2,737.- La autorización a que se refiere el artículo 28 Bis no se concederá a menos de que las personas morales extranjeras prueben:
 
 I.- Que están constituídas con arreglo a leyes de su país y que sus estatutos nada contienen que sea contrario a las leyes mexicanas de orden público;
 
 II.- Que tienen representante domiciliado en el lugar en donde van a operar, suficientemente autorizado para responder de las obligaciones que contraigan las mencionadas personas morales.
 
-ARTICULO 2,738.- Concedida la autorización por la Secretaría de Relaciones Exteriores se inscribirán en el Registro los estatutos de las asociaciones y sociedades extranjeras.
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+ARTICULO 2,738.- Concedida la autorización por la Secretaría de Relaciones Exteriores, se inscribirán en el registro los estatutos de las personas morales extranjeras de naturaleza privada.
 
 ### CAPITULO VII. De la aparcería rural
 
@@ -11473,7 +11551,9 @@ I.- Los testimonios de escrituras o actas notariales u otros documentos auténti
 
 II.- Las resoluciones y providencias judiciales que consten de manera auténtica;
 
-III.- Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el Notario, el Registrador, el Corredor Público o el Juez de Paz, se cercioraron de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por los mencionados funcionarios y llevar impreso el sello respectivo.
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1988)</small>
+
+III.- Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el notario, el registrador, el corredor público o el Juez competente se cercioraron de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por los mencionados fedatarios y llevar impreso el sello respectivo.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -11541,7 +11621,9 @@ Una vez firmada la escritura que produzca cualquiera de las consecuencias mencio
 
 Si el testimonio respectivo se presentare al Registro Público dentro de cualquiera de los términos que señalan los dos párrafos anteriores, su inscripción surtirá efectos contra tercero desde la fecha de presentación del aviso y con arreglo a su número de entrada. Si el documento se presentare fenecidos los referidos plazos, su registro sólo surtirá efectos desde la fecha de presentación.
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo primero de este artículo fuere privado, deberán dar el aviso preventivo con vigencia por noventa días, el Notario, el Registrador o el Juez de Paz que se hayan cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo caso el mencionado aviso surtirá los mismos efectos que el dado por los Notarios en el caso de los instrumentos públicos.
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo primero de este artículo fuere privado, deberá dar el aviso preventivo, con vigencia por noventa días, el notario, o el Juez competente que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo caso el mencionado aviso surtirá los mismos efectos que el dado por los notarios en el caso de los instrumentos públicos. Si el contrato se ratificara ante el registrador, éste deberá practicar de inmediato el aviso preventivo a que este precepto se refiere.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -11775,107 +11857,147 @@ ARTICULO 3,045.- Salvo los casos en que la anotación cierre el registro, los bi
 
 De la inmatriculacion
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
-ARTICULO 3,046.- La inmatriculación se practicará:
+ARTICULO 3,046.- La inmatriculación es la inscripción de la propiedad o posesión de un inmueble en el Registro Público de la Propiedad, que carece de antecedentes registrales. Para cualquiera de los procedimientos de inmatriculación a que se refieren los artículos siguientes, es requisito previo que el Registro Público emita un certificado que acredite que el bien de que se trate no está inscrito, en los términos que se precisen en las disposiciones administrativas que para el efecto se expidan.
 
-I.- Mediante información de dominio;
+El Director del Registro Público podrá allegarse información de otras autoridades administrativas.
 
-II.- Mediante información posesoria;
+El interesado en la inmatriculación de la propiedad o posesión de un inmueble podrá optar por obtenerla mediante resolución judicial o mediante resolución administrativa, en los términos de las disposiciones siguientes:
 
-III.- Mediante resolución judicial que la ordene y que se haya dictado como consecuencia de la presentación de titulación fehaciente que abarque sin interrupción un período, por lo menos de cinco años;
+I.- La inmatriculación por resolución judicial se obtiene:
 
-IV.- Mediante la inscripción del decreto publicado en el "Diario Oficial" de la Federación que convierta en bien de dominio privado un inmueble que no tenga tal carácter, o del título o títulos que se expidan con fundamento en aquel decreto; y
+a) Mediante información de dominio, y
 
-V.- Mediante la inscripción del contrato privado de compraventa autenticado en los términos del artículo 3005, fracción III, acompañado del certificado de no inscripción de la finca y de un plano de la misma.
+b) Mediante información posesoria.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+II.- La inmatriculación por resolución administrativa se obtiene:
 
-ARTICULO 3,047.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1156, por no estar inscritos en el Registro Público los bienes en favor de persona alguna, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado del Registro Público que demuestre que los bienes no están inscritos y otro relativo al estado actual de la finca en el catastro y en los padrones de la Dirección de Catastro e Impuesto Predial.
+a) Mediante la inscripción del decreto por el que se incorpora al dominio público federal o local un inmueble;
 
-La información se recibirá con citación del Ministerio Público, del Registrador de la propiedad, de los colindantes y de la persona que tenga catastrada la finca a su favor o a cuyo nombre se expidan las boletas del impuesto predial.
+b) Mediante la inscripción del decreto por el que se desincorpore del dominio público un inmueble, o el título expedido con base en ese decreto;
 
-Los testigos deben ser, por lo menos tres, de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiere.
+c) Mediante la inscripción de un título fehaciente y suficiente para adquirir la propiedad de un inmueble, en los términos del artículo 3051 de este Código;
 
-No se recibirá la información sin que previamente se publique la solicitud del promovente, por tres veces, de tres en tres días en un periódico de amplia circulación y en el Boletín del Registro Público.
+d) Mediante la inscripción de la propiedad de un inmueble adquirido por prescripción positiva, en los términos del artículo 3052 del presente Código, y
 
-Comprobada debidamente la posesión, el Juez declarará que el poseedor se ha convertido en propietario, en virtud de la prescripción, y tal declaración se tendrá como título de propiedad y será protocolizada e inscrita en el Registro Público.
+e) Mediante la inscripción de la posesión de buena fe de un inmueble, que reúna los requisitos de aptitud para prescribir, en los términos del artículo 3053 de este Código.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 7 DE ENERO DE 1988)</small>
 
-ARTICULO 3,048.- El que tenga una posesión apta para prescribir, de bienes inmuebles no inscritos en el Registro Público en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el Juez competente, ante quien la acredite del modo que fije el Código de Procedimientos Civiles.
+Inmatriculación por resolución judicial
 
-A la solicitud acompañará los documentos que se mencionan en la parte final del párrafo primero del artículo anterior.
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
-La información que se rinda para demostrar la posesión se sujetará a lo dispuesto en los párrafos segundo, tercero y cuarto del artículo 3047.
+ARTICULO 3,047.- En el caso de la información de dominio a que se refiere el inciso a) de la fracción I del artículo anterior, el que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos establecidas en el Libro Segundo, Título Séptimo, Capítulo II del Código Civil, y no tenga título de propiedad o, teniéndolo no sea susceptible de inscripción por defectuoso, podrá ocurrir ante el Juez competente para acreditar la prescripción rindiendo la información respectiva, en los términos de las disposiciones aplicables del Código de Procedimientos Civiles.
 
-Las declaraciones de los testigos versarán sobre el hecho de la posesión, sobre los requisitos que debe tener para servir de base a la prescripción adquisitiva y sobre el origen de la posesión.
+Comprobados debidamente los requisitos de la prescripción, el Juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público de la Propiedad.
 
-El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción al concluir el plazo de cinco años contados desde la misma inscripción.
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+ARTICULO 3,048.- En el caso de información posesoria, a que se refiere el inciso b) de la fracción I del artículo 3046, el que tenga una posesión de buena fe apta para prescribir, de bienes inmuebles no inscritos en el Registro Público de la Propiedad en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el Juez competente.
+
+Para lo anterior, se deberá seguir el procedimiento que establece el Código de Procedimientos Civiles para las informaciones a que se refiere el artículo 3047.
+
+El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción, al concluir el plazo de cinco años, contados desde la fecha de la inscripción.
 
 Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones previstas en el Reglamento del Registro Público.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
-ARTICULO 3,049.- Cualquiera que se considere con derecho a los bienes cuya inscripción se solicita mediante información de dominio o de posesión, podrá alegarlo ante la autoridad judicial competente.
+ARTICULO 3,049.- Cualquiera que se considere con derecho a los bienes cuya propiedad o posesión se solicite inscribir por resolución judicial, podrá hacerlo valer ante el juez competente.
 
-La presentación del escrito de oposición, en la forma que establece el Código de Procedimientos Civiles suspenderá el curso del expediente de información; si éste estuviere ya concluído y aprobado, deberá el Juez poner la demanda en conocimiento del registrador para que suspenda la inscripción y si ya estuviese hecha, para que anote dicha demanda.
+La presentación del escrito de oposición suspenderá el curso del procedimiento de información; si éste estuviese ya concluido y aprobado, deberá el Juez poner la demanda en conocimiento del Director del Registro Público de la Propiedad para que suspenda la inscripción, y si ya estuviese hecha, para que anote dicha demanda.
 
-Si el opositor deja transcurrir seis meses sin promover en el procedimiento de oposición, quedará éste sin efecto, haciéndose, en su caso, la cancelación que proceda.
+Si el opositor deja transcurrir seis meses sin promover en el procedimiento de oposición quedará éste sin efecto, asentándose en su caso, la cancelación que proceda.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 7 DE ENERO DE 1988)</small>
 
-ARTICULO 3,050.- Transcurridos cinco años desde que se practicó la inscripción, sin que en el Registro Público aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo, a que el Juez competente declare que se ha convertido en propietario en virtud de la prescripción y ordene se haga en el Registro Público la inscripción de domino correspondiente.
+Inmatriculación por resolución administrativa
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
-ARTICULO 3,051.- No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, ni las discontinuas, sean o no aparentes, ni tampoco el derecho hipotecario.
+ARTICULO 3,050.- La inmatriculación administrativa se realizará por resolución del Director del Registro Público de la Propiedad, quien la ordenará de plano en los casos previstos por los incisos a) y b) de la fracción II del artículo 3046.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
-ARTICULO 3,052.- El que tenga justo título o título fehaciente que abarque cuando menos un período ininterrumpido de cinco años inmediatamente anteriores a su promoción, podrá inmatricular su predio mediante resolución judicial, siempre que satisfaga los siguientes requisitos:
+ARTICULO 3,051.- Quien se encuentre en el caso previsto por el inciso c) de la fracción II del artículo 3046, podrá ocurrir directamente ante el Registro Público de la Propiedad para solicitar la inmatriculación, la cual será ordenada si se satisfacen los siguientes requisitos:
 
-I.- Que acompañe a su promoción además de la titulación:
+I.- Que acredite la propiedad del inmueble mediante un título fehaciente y suficiente para adquirirla;
 
-a).- Certificado del Registro Público que acredite que el bien de que se trata no está inscrito;
+II.- Que acredite que su título tiene una antigüedad mayor de cinco años anteriores a la fecha de su solicitud, o que exhiba el o los títulos de sus causantes con la antigüedad citada, títulos que deberán ser fehacientes y suficientes para adquirir la propiedad;
 
-b).- Las boletas que comprueben que el predio está al corriente en el pago del impuesto predial;
+III.- Que manifieste bajo protesta de decir verdad si está poseyendo el predio o el nombre del poseedor en su caso; y
 
-II.- Que en tal promoción manifieste bajo protesta de decir verdad si está poseyendo el predio o el nombre del poseedor en su caso.
+IV.- Que acompañe las constancias relativas al estado catastral y predial del inmueble, si las hubiere.
 
-III.- Que se publique la solicitud de inscripción en el boletín del Registro Público y en uno de los periódicos de amplia circulación, por tres veces, en cada uno de ellos, con intervalos de diez días;
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
-IV.- Que se cite a los colindantes, a las personas que figuren en los patrones de la Dirección de Catastro e Impuesto Predial como causantes, así como el poseedor, cuando exista; y
+ARTICULO 3,052.- Quien se encuentre en el caso del inciso d), de la fracción II del artículo 3046, podrá ocurrir directamente ante el Registro Público de la Propiedad para acreditar que ha operado la prescripción conforme al siguiente procedimiento:
 
-V.- Que transcurra un plazo de treinta días a partir de la última publicación sin que haya oposición.
+I.- El interesado presentará solicitud que exprese:
 
-Si hubiere oposición se suspenderá el procedimiento; ésta se substanciará conforme al Código de Procedimientos Civiles.
+a) Su nombre completo y domicilio;
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+b) La ubicación precisa del bien, su superficie, colindancias y medidas;
 
-ARTICULO 3,053.- Para la inmatriculación de inmuebles que carezcan de antecedentes registrales, los interesados podrán ocurrir ante el Registro Público a solicitarla, mediante el procedimiento que establezca el reglamento respectivo.
+c) La fecha y causa de su posesión, que consiste en el hecho o acto generador de la misma;
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+d) Que la posesión que invoca es de buena fe;
 
-ARTICULO 3,054.- Los interesados en la inmatriculación, además de satisfacer los requisitos que señale el reglamento deberán acreditar, a juicio del Director del Registro Público, que les asiste derecho para obtenerla.
+e) El nombre y domicilio de la persona de quien la obtuvo el peticionario, en su caso, y los del causante de aquélla si fuere conocido; y
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+f) El nombre y domicilio de los colindantes.
 
-ARTICULO 3,055.- La inmatriculación de un inmueble por resolución del Director del Registro Público, nada prejuzga sobre los derechos de propiedad o posesión que puedan existir en favor de los solicitantes o de terceros.
+II.- A la solicitud a que se refiere la fracción anterior, el interesado deberá acompañar:
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+a) El documento con el que se acredita el origen de la posesión, si tal documento existe;
 
-ARTICULO 3,056.- La inmatriculación, una vez hecha, no podrá modificarse o cancelarse, sino mediante determinación judicial contenida en sentencia irrevocable, dictada en juicio en que haya sido parte el Director del Registro Público.
+b) Un plano autorizado por ingeniero titulado en el que se identifique en forma indubitable el inmueble; y
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+c) Constancias relativas al estado catastral y predial del inmueble, si existieren.
 
-ARTICULO 3,057.- La resolución del Director del Registro Público que ordena la inmatriculación además de expresar los fundamentos en que se apoye, deberá comprender la siguiente advertencia:
+III.- Recibida la solicitud el Director del Registro Público de la Propiedad la hará del conocimiento, por correo certificado y con acuse de recibo, de la persona de quien se obtuvo la posesión y de su causante, si fuere conocido, así como de los colindantes, señalándoles un plazo de nueve días hábiles para que manifiesten lo que a sus derechos convenga.
 
-"Esta resolución no prejuzga sobre derechos de propiedad o posesión a favor del solicitante o de terceros".
+El Director del Registro Público de la Propiedad, además, mandará publicar edictos para notificar a las personas que pudieren considerarse perjudicadas, a costa del interesado por una sola vez en la Gaceta Oficial del Departamento del Distrito Federal, y en un periódico de los de mayor circulación, si se tratare de bienes inmuebles urbanos. Si los predios fueren rústicos, se publicarán además por una sola vez en el Diario Oficial de la Federación;
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+IV.- Si existiere oposición de las personas mencionadas en la fracción anterior, el Director del Registro Público dará por terminado el procedimiento, a efecto de que la controversia sea resuelta por el Juez competente;
 
-ARTICULO 3,058.- Una vez ordenada la inmatriculación de un inmueble se hará, desde luego la inscripción en el folio correspondiente, previo el pago de los derechos que se deban cubrir.
+V.- Si no existiere oposición, el Director del Registro Público señalará día y hora para una audiencia, en la cual el solicitante deberá probar su posesión, en concepto de propietario y por el tiempo exigido por este Código para prescribir, por medios que le produzcan convicción, entre los cuales será indispensable el testimonio de tres testigos que sean vecinos del inmueble cuya inmatriculación se solicita.
+
+El Director del Registro Público podrá ampliar el examen de los testigos con las preguntas que estime pertinentes para asegurarse de la veracidad de su dicho; y
+
+VI.- La resolución administrativa del Director del Registro Público de la Propiedad será dictada dentro de los ocho días siguientes a la celebración de la audiencia a que se refiere la fracción anterior, concediendo o denegando la inmatriculación y declarando en el primer caso que el poseedor ha hecho constar los antecedentes y circunstancias que conforme a éste Código se requieren para adquirir por virtud de la prescripción; dicha resolución deberá expresar los fundamentos en que se apoya.
+
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+ARTICULO 3,053.- Quien se encuentre en el caso del inciso e) de la fracción II del artículo 3046, podrá ocurrir directamente ante el Registro Público de la Propiedad para acreditar la posesión de un inmueble, apta para prescribirlo, conforme al procedimiento establecido en el artículo anterior, con excepción de que en la audiencia a que se refiere su fracción V, el solicitante deberá probar su posesión presente, por los medios que produzcan convicción al Director del Registro Público, entre los cuales será indispensable el testimonio de tres testigos que sean vecinos del inmueble cuya inmatriculación se solicita.
+
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+ARTICULO 3,054.- Si la oposición a que se refiere la fracción IV del artículo 3052 se presentara una vez concluido el procedimiento y aprobada la inmatriculación, el Director del Registro Público de la Propiedad suspenderá la inscripción, si aún no la hubiese practicado, y si ya estuviese hecha, anotará la citada oposición en la inscripción respectiva.
+
+Si el opositor deja transcurrir seis meses sin promover el juicio que en su caso proceda, la oposición quedará sin efecto y se cancelará la anotación relativa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 7 DE ENERO DE 1988)</small>
+
+Disposiciones comunes
+
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+ARTICULO 3,055.- Quien haya obtenido judicial o administrativamente la inscripción de la posesión de un inmueble, una vez que hayan transcurrido cinco años, si la posesión es de buena fe, podrá ocurrir ante el Director del Registro Público de la Propiedad para que ordene la inscripción de la propiedad adquirida por prescripción positiva, en el folio correspondiente a la inscripción de la posesión, quien la ordenará siempre y cuando el interesado acredite fehacientemente haber continuado en la posesión del inmueble con las condiciones para prescribir, sin que exista asiento alguno que contradiga la poesesión (sic) inscrita.
+
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+ARTICULO 3,056.- Una vez ordenada judicial o administrativamente la inmatriculación de la propiedad o posesión de un inmueble y cubirta (sic) el pago de los derechos respectivos, se hará la inscripción en el folio correspondiente.
+
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+ARTICULO 3,057.- La inmatriculación realizada mediante resolución judicial o mediante resolución administrativa, no podrá modificarse o cancelarse, sino en virtud de mandato judicial contenido en sentencia irrevocable, dictada en juicio en que haya sido parte el Director del Registro Público de la Propiedad.
+
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+ARTICULO 3,058.- No se inscribirán las informaciones judiciales o administrativas de posesión, ni las de dominio cuando se violen los programas de desarrollo urbano o las declaratorias de usos, destinos o reservas de predios, expedidos por la autoridad competente, o no se hayan satisfecho las disposiciones legales aplicables en materia de división y ocupación de predios, a menos que se trate de programas de regularización de la tenencia de la tierra aprobados por la autoridad.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -12269,7 +12391,7 @@ SEGUNDO (sic).- Se derogan las disposiciones legales que se opongan al presente 
 
 D.O.F. 17 DE ENERO DE 1970.
 
-DECRETO QUE REFORMA LOS ARTICULOS 77, 78, 79, 363, 368, 390, 391, 397 FRACCION III, 398, 403, 405 FRACCION I Y 406 FRACCIONES I Y II DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+DECRETO QUE REFORMA LOS ARTICULOS 77, 78, 79, 363, 368, 390, 391, 397 FRACCION III, 398, 403, 405 FRACCION I Y 406 FRACCIONES I Y II DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 UNICO.- Este Decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
 
@@ -12400,3 +12522,35 @@ D.O.F. 10 DE ENERO DE 1986.
 ###### ARTICULO UNICO.
 
 Las presentes reformas al Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE ENERO DE 1988.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo Federal y el Jefe del Departamento del Distrito Federal dictarán las disposiciones administrativas para cumplimentar lo dispuesto en el presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO CUARTO.
+
+En las inmatriculaciones de inmuebles por resolución del Director del Registro Público de la Propiedad que se hayan realizado en un plazo mayor a cinco años de anterioridad a la entrada en vigor de las presentes reformas y adiciones, los interesados podrán solicitar la inscripción de dominio correspondiente, con sujeción a lo dispuesto por el artículo 3055 del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal.
+
+En aquellas en que aún no se cumpla el término establecido, los interesados podrán hacer la solicitud respectiva en el momento en que se satisfaga este requisito.
+
+###### ARTICULO QUINTO.
+
+Las solicitudes de inmatriculación por resolución del Director del Registro Público de la Propiedad que se encuentren en trámite a la entrada en vigor de estas reformas y adiciones, deberán ajustarse al procedimiento que establecen los artículos 3052 y 3053 que se reforman.
+
+D.O.F. 7 DE ENERO DE 1988.
+
+DECRETO POR EL QUE SE REFORMA Y ADICIONA EL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
