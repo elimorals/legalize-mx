@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1950-07-26"
+last_updated: "1953-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 1950.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1953.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -112,11 +112,11 @@ Lo dispuesto en este artículo y en la fracción segunda del Artículo anterior,
 
 Los morelenses en igualdad de circunstancias serán preferidos a quienes no lo sean para toda clase de concesiones, empleos o comisiones públicas del Estado y de los Municipios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 1953)</small>
 
 ###### Artículo 13.
 
-Son ciudadanos Morelenses los que además de tener la calidad de ciudadanos mexicanos, residan habitualmente en el territorio del Estado.
+Son ciudadanos morelenses los varones y mujeres que teniendo la calidad de ciudadanos mexicanos, reúnan además, los siguientes requisitos:
 
 I.- Haber cumplido 18 años siendo casados y 21 si no lo son.
 
@@ -1028,7 +1028,9 @@ I.- La circunscripción geográfica de cada uno de ellos debe establecerse de ta
 
 II.- Que la población componente de cada Municipio pueda llenar las condiciones a que se refiere la fracción XI del artículo 40 de esta Constitución.
 
-III.- Cada Municipio será administrado por un Ayuntamiento de elección popular directa, que se renovará en su totalidad cada dos años, siendo el número de sus componentes proporcional al de sus habitantes, siempre impares y nunca menores de tres, nombrándose por cada Regidor propietario, un suplente.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1953)</small>
+
+III.- Cada Municipio será administrado por un Ayuntamiento de elección popular directa que se renovará en su totalidad CADA TRES AÑOS, siendo el número de sus componentes proporcional al de sus habitantes, siempre impares y nunca menor de tres, nombrándose por cada Regidor Propietario un Suplente.
 
 IV.- La función municipal estará encomendada a un Presidente del Ayuntamiento que deberá ser electo por los miembros del mismo, con sujeción a las reglas que fije la Ley de la materia.
 
@@ -1317,3 +1319,21 @@ P.O. 14 DE JUNIO DE 1950.
 P.O. 26 DE JULIO DE 1950.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+
+P.O. 28 DE OCTUBRE DE 1953.
+
+DECRETO NÚMERO 9
+
+1o.- El presente Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### Art. 2.
+
+Remítase al Ejecutivo del Estado para los efectos a que se contrae la fracción I del Artículo 71 de la Constitución Política Local.
+
+P.O. 28 DE OCTUBRE DE 1953.
+
+DECRETO NUMERO 10
+
+PRIMERO.- El presente Decreto empezará a surtir sus efectos Constitucionales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Remítase al Ejecutivo del Estado para los efectos de la Fracción I del Artículo 71 de la Constitución Política Local.
