@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2002-12-30"
+last_updated: "2003-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUM. 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
+LEY NUM. 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -37,9 +37,11 @@ Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Esta
 
 LA HONORABLE QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE, EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTICULOS 33 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL; 44 DE LA LEY ORGANICA DEL PODER LEGISLATIVO; 103 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO Y EN NOMBRE DEL PUEBLO, EXPIDE LA SIGUIENTE:
 
+> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
 LEY Núm. 65
 
-ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
+ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -583,7 +585,7 @@ XXVI. Proponer al Pleno del Tribunal y al Consejo de la Judicatura las medidas i
 
 XXVII. Tomar la protesta a los Secretarios de Acuerdos de Sala en los casos en que deban ejercer las funciones de Magistrado; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA[N. DE E. ADICIONADA], G.O. 30 DE DICIEMBRE DE 2002)</small>
 
 XXVIII. Aceptar donaciones puras y simples en beneficio del patrimonio del Poder Judicial del Estado.
 
@@ -1393,7 +1395,7 @@ XII. Controlar, evaluar, inspeccionar y vigilar los ingresos, gastos, recursos y
 
 XIII. Expedir los reglamentos interiores en materia administrativa, de Contraloría Interna, defensoría de oficio, carrera judicial, escalafón, visitaduría judicial y régimen disciplinario del Poder Judicial del Estado;
 
-> <small>(REFORMADA, G.O.30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
 XIV. Celebrar contratos para atender las necesidades administrativas del Poder Judicial del Estado, en los términos señalados por esta ley y las leyes del Estado;
 
@@ -1755,7 +1757,7 @@ V. No muestren a las partes, sin causa justificada, cuando lo soliciten, los exp
 
 > <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
-VI. Sin causa justificada, no dicten resolución dentro de los términos de ley;
+VI. Sin causa justificada, no dicten resolución dentro de los términos de la ley;
 
 VII. No expresen el concepto y el fundamento legal de las excusas;
 
@@ -1855,7 +1857,7 @@ Las pruebas deberán ofrecerse y acompañarse, en su caso, con el escrito de que
 
 > <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
-La admisión, desahogo, recepción y valoración de las pruebas, se sujetarán a las reglas establecidas en el Código de Procedimientos Civiles del Estado.
+La admisión, desahogo, recepción y valoración de las pruebas, si sujetarán a las reglas establecidas en el Código de Procedimientos Civiles del Estado.
 
 ###### Artículo 141.
 
@@ -2078,3 +2080,21 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO CUARTO.
 
 Todos los procedimientos que se encuentren en trámite al momento de entrar en vigor este Decreto se ajustarán, en lo conducente, a sus disposiciones.
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Veracruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
