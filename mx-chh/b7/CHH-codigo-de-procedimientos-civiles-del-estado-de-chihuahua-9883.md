@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1974-03-23"
+last_updated: "1974-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 1974.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -93,7 +93,9 @@ La acción a que se refiere este artículo, se da contra quien mandó construir 
 
 20.- La acción de obra peligrosa se da al poseedor jurídico o derivado de una propiedad contigua o cercana que pueda resentirse o padecer por la ruina o derrumbe de la otra, caída de un árbol u otro objeto análogo, y su finalidad es la de adoptar medidas urgentes para evitar los riesgos que ofrezca el mal estado de los objetos referidos, obtener la demolición total o parcial de la obra, o la destrucción del objeto peligroso. Compete la misma acción a quienes tengan derecho privado o público de paso por las inmediaciones de la obra, árbol u otro objeto peligroso.
 
-21.- Compete acción a un tercero para coadyuvar en el juicio seguido contra su codeudor solidario. Igual facultad corresponde al tercero de cuyo derecho depende la subsistencia del derecho del demandado o actor. El deudor de obligación indivisible, que sea demandado por la totalidad de la prestación, puede hacer concurrir al juicio a sus codeudores, siempre y cuando el cumplimiento de la obligación no sea de tal naturaleza que sólo pueda ser satisfecha por el demandado.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1974)</small>
+
+21.- Compete acción a un tercero para coadyuvar en el juicio seguido contra su codeudor solidario. Igual facultad corresponde al tercero de cuyo derecho depende de la subsistencia del derecho del demandado o actor. El deudor de obligación indivisible, que sea demandado por la totalidad de la prestación, puede hacer concurrir al juicio a sus codeudores, siempre y cuando el cumplimiento de la obligación no sea de tal naturaleza que sólo pueda ser satisfecha por el demandado.
 
 22.- El tercero obligado a la evicción deberá ser citado a juicio oportunamente para que la sentencia que se dicte pueda pararle perjuicio.
 
@@ -3047,9 +3049,11 @@ c).- La fianza otorgada por el actor, comprenderá la devolución de la cosa o c
 
 d).- El monto probable de los daños y perjuicios que debe asegurar la fianza, se fijará por el juez al resolver sobre la cuantía de ésta. Si el superior revoca el fallo apelado, la liquidación de ellos se practicará en la vía de ejecución de sentencia.
 
-830.- El apelante podrá, mientras no se pronuncie la sentencia de segunda instancia, desistirse de la apelación; pero en el auto en que se le dé por desistido se le condenará al pago de las costas que por la interposición del recurso se hubieren irrogado a su contraparte, a menos que éste haya apelado también, o se hubiese adherido a la apelación. El adherente tendrá el mismo derecho de desistimiento.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1974)</small>
 
-El desistimiento se hará valer ante el juez de primera instancia, si no se hubieren remitido aún los autos originales o el testimonio de apelación al Tribunal de alzada; en caso contrario, se formulará ante el superior respectivo.
+830.- El apelante podrá, mientras no se pronuncie la sentencia de segunda instancia desistirse de la apelación; pero en el auto en que se le dé por desistido se le condenará el pago de las costas que por la interposición del recurso se hubieren irrogado a su contraparte, a menos que éste haya apelado también.
+
+El desistimiento se hará valer ante el Juez de Primera Instancia, si no se hubieren remitido aún los autos originales o el testimonio de apelación al Tribunal de alzada; en caso contrario, se formulará ante el superior respectivo.
 
 831.- En toda sentencia de segunda instancia, se declarará expresamente si hay condenación en costas y quien debe pagarlas.
 
@@ -3067,11 +3071,15 @@ En el caso de que el apelante omitiera, en el término fijado por este artículo
 
 836.- Del escrito de expresión de agravios se correrá traslado a la parte contraria por el término de seis días, durante los cuales estarán los autos a su disposición para que se imponga de ellos en la secretaría del Tribunal.
 
-837.- En los escritos de expresión de agravios y contestación las partes deberán ofrecer las pruebas a que se refiere el artículo 834, las que nunca serán extrañas a la cuestión debatida.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1974)</small>
+
+837.- En los escritos de expresión de agravios y contestación las partes deberán ofrecer las pruebas a que se refiere el artículo 833, las que nunca serán extrañas a la cuestión debatida.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1974)</small>
 
 838.- Evacuado el traslado por la parte apelada o concluido el plazo fijado para hacerlo, de oficio o a instancia de parte, se citará para sentencia.
 
-En el caso de que se hubiere rendido prueba con arreglo a lo dispuesto en los artículos 834 y 838, con posterioridad a los traslados a que se refieren los artículos 836 y 837, se citará a las partes a una audiencia para que aleguen sobre ella. En este caso, la citación para la audiencia produce los efectos de la citación para sentencia.
+En el caso de que se hubiere rendido prueba con arreglo a lo dispuesto en los artículos 833 y 838, con posterioridad a los traslados a que se refieren los artículos 836 y 837, se citará a las partes a una audiencia para que aleguen sobre ella. En este caso, la citación para la audiencia produce los efectos de la citación para sentencia.
 
 La sentencia de segunda instancia, tratándose de juicios sumarios, se dictará dentro de ocho días.
 
@@ -3826,3 +3834,9 @@ DE LA ADMINISTRACION DE JUSTICIA POR LOS JUZGADOS DE PAZ
 ### CAPITULO VI.- De la ejecución de sentencias 106
 
 ### CAPITULO VII.- De los incidentes 107. ARTICULOS TRANSITORIOS 108
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 2 DE OCTUBRE DE 1974.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
