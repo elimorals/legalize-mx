@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-organiza-la-comision-estatal-de-turismo-12488"
 country: "mx"
 rank: "ley"
 publication_date: "1950-06-24"
-last_updated: "1950-06-24"
+last_updated: "1984-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE ORGANIZA LA COMISION ESTATAL DE TURISMO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1984.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 24 de junio de 1950.
 
@@ -35,9 +35,11 @@ DECRETO NUMERO 42
 
 LEY QUE ORGANIZA LA COMISION ESTATAL DE TURISMO
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1984)</small>
+
 ###### Artículo 1o.
 
-Se crea y organiza por esta Ley la Comisión Estatal de Turismo del Estado de Nuevo León como institución pública descentralizada, con personalidad jurídica y patrimonio propio para realizar por sí y en colaboración con la Dirección Nacional de Turismo y sus órganos auxiliares, las atribuciones que le confiere esta Ley.
+Se crea y organiza por esta Ley la Comisión Estatal de Turismo del Estado de Nuevo León como Institución Pública Descentralizada, con personalidad jurídica y patrimonio propio para realizar por sí y en colaboración con Secretaría de Turismo y sus órganos auxiliares, las atribuciones que le confiere esta Ley.
 
 ###### Artículo 2o.
 
@@ -61,7 +63,9 @@ VIII.- Procurar toda clase de facilidades e información para los turistas, esta
 
 IX.- Celebrar fiestas y ferias regionales y cooperar con las autoridades del Estado, Municipales o Federales, o con particulares, para la organización y mejor éxito de toda clase de festividades que puedan ser motivo de atracción para el turismo nacional y extranjero.
 
-X.- Colaborar, como organismo auxiliar, con la Dirección Nacional de Turismo y demás órganos que la Ley establece, para la realización de las atribuciones de dicha Institución.
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 1984)</small>
+
+X.- Colaborar, como organismo auxiliar, con la Secretaría de Turismo y demás órganos que la Ley establece, para la realización de las atribuciones de dicha Institución.
 
 XI.- Designación de su personal subalterno.
 
@@ -118,3 +122,9 @@ DR. IGNACIO MORONES PRIETO.
 El Secretario Gral. de Gobierno,
 
 ALFREDO GARZA RIOS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE NOVIEMBRE DE 1984.
+
+UNICO:- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
