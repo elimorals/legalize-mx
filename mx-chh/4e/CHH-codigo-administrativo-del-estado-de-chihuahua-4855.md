@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1988-06-25"
+last_updated: "1988-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 1988.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -2671,7 +2671,7 @@ El notario, en relación con los libros del protocolo llevará una carpeta por c
 
 Los documentos del apéndice, se arreglarán por legajos, poniéndose en cada uno de ellos el número que corresponde a la escritura o acta a que se refieren y en cada no de los documentos se pondrá una letra que lo señale y distinga de los otros que forman el legajo.
 
-De los expedientes que se protocolicen por mandato judicial, se agregará una copia certificada al apéndice del volumen respectivo y se considerarán como un solo documento.
+De los expediente que se protocolicen por mandato judicial, se agregará una copia certificada al apéndice del volumen respectivo y se considerarán como un solo documento.
 
 ###### ARTICULO 406.
 
@@ -2831,11 +2831,11 @@ Sin perjuicio de la responsabilidad civil en que incurre el notario, la omisión
 
 Los funcionarios que falsamente hagan aparecer en el Libro de Registros de Actos fuera de Protocolo, que ante ellos se celebró un acto sin que el mismo haya tenido lugar, que hagan aparecer alguno en fecha distinta a la que realmente corresponde, o bien, que falsamente hagan constar dichos actos en un documento, serán separados de su cargo y consignados a las autoridades competentes.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 1988)</small>
 
 ###### ARTICULO 430.
 
-Las enajenaciones de bienes inmuebles y la constitución o transmisión de derechos reales, cuyo precio, valor de avalúo o valor catastral sea mayor de setenta y cinco mil pesos, para su validez deberá constar en escritura pública, de acuerdo con lo establecido en los artículos 2195 y 2198 del Código Civil.
+Las enajenaciones de bienes inmuebles y la constitución o transmisión de derechos reales, cuyo precio, valor de avalúo o valor catastral sea mayor al equivalente a 365 veces el salario mínimo general diario de la capital del Estado en el momento de la operación, para su validez deberá constar en escritura pública, del (sic) acuerdo con lo establecido en los Artículos 2195 y 2198 del Código Civil.
 
 ###### ARTICULO 431.
 
@@ -4767,7 +4767,7 @@ XI.- Al que sin llenar los requisitos establecidos por este Código, use para un
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
-XII.- Ilícitamente obtenga la inscripción o cancelación de un tercero en el Registro Nacional o Estatal de Electores;
+XII.- Ilícitamente obtenga la inscripción o cancelación de un tercero en el Registro Nacional o Estatal de Electores;;
 
 XIII.- Instale ilegalmente una casilla o usurpe funciones electorales.
 
@@ -10517,7 +10517,7 @@ IX.- Las demás que les otorguen las disposiciones legales relativas.
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10643,13 +10643,9 @@ IV.- La duración.
 
 Los predios de las zonas incluidas en los artículos 1495 y 1500 de este Título, se podrán utilizar en forma compatible con su destino o uso previsto, hasta la fecha señalada en que deberán aplicarse dichos predios a los usos y destinos que la autoridad haya determinado.
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-DECIMA PRIMERA PARTE
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10665,9 +10661,9 @@ En todo lo relativo a la estructura vial y sistema de transporte en el Estado, s
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1504.
 
@@ -10765,9 +10761,9 @@ En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 1984)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 1515.
 
@@ -10817,7 +10813,9 @@ Una vez determinados los jefes de familia beneficiados y cubierto el precio, la 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION QUINTA. DE LA VIVIENDA
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1521.
 
@@ -10861,9 +10859,7 @@ Para la construcción de viviendas deberá mediar solicitud del interesado ante 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1525.
 
@@ -10905,7 +10901,7 @@ En el caso de que los propietarios o poseedores no cumplan con las obligaciones 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11077,7 +11073,11 @@ Cuando el Gobernador del Estado haya hecho una declaratoria de conurbación, dis
 
 Las declaratorias de conurbación para que surtan sus efectos serán publicadas por una sola vez en el Periódico Oficial del Estado y en dos periódicos de mayor circulación en la localidad que corresponda, debiendo inscribirse en la Oficina del Registro Público de la Propiedad respectiva.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
 # LIBRO UNICO. SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO
 
@@ -12914,3 +12914,9 @@ P.O. 25 DE JUNIO DE 1988.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Todas las atribuciones otorgadas por la Ley, a la Oficina Central del Registro Público de la Propiedad o de la Dirección General del Notariado, se entenderán propias del Departamento del Registro Público de la Propiedad y del Notariado.
+
+P.O. 5 DE OCTUBRE DE 1988.
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 1988)</small>
+
+ARTICULO TRANSITORIO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial en la Capital del Estado y 20 días después de su publicación en las demás poblaciones de la entidad.
