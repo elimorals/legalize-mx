@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-y-desarrollo-pecuario-del-estado-de-jalisco-3209
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-24"
-last_updated: "2003-06-24"
+last_updated: "2004-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2004.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 24 de junio de 2003.
 
@@ -77,7 +77,15 @@ VII. El control de la producción, comercialización y transporte de alimentos, 
 
 VIII. El control y regulación de los productos biológicos, químicos, aditivos alimenticios o no alimenticios y farmacéuticos para uso animal o para el consumo de estos, que puedan afectar la salud animal y/o humana, y
 
-IX. Cualquier otra que se derive o que sea necesaria para la realización de las actividades señaladas en las fracciones anteriores.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2004)</small>
+
+VIII. El control y regulación de los productos biológicos, químicos, aditivos alimenticios o no alimenticios y farmacéuticos para el uso animal o para el consumo de éstos, que puedan afectar la salud animal y/o humana;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2004)</small>
+
+IX. El apoyo y fomento a las cooperativas, dentro de las actividades pecuarias; y
+
+X. Cualquier otra que se derive o que sea necesaria para la realización de las actividades señaladas en las fracciones anteriores.
 
 ###### Artículo 4.
 
@@ -203,7 +211,9 @@ X. Llevar las estadísticas de la producción pecuaria, de sus explotaciones, el
 
 XI. Promover la formación de industrias y rastros Tipo Inspección Federal, la transformación de productos y subproductos pecuarios, así como el fomento de su consumo, mediante campañas de difusión constante y permanente, con el apoyo de las organizaciones pecuarias y organismos auxiliares de cooperación;
 
-XII. Proponer al Gobernador del Estado, la celebración de convenios con la federación, los municipios y otras entidades federativas, así como con las organizaciones pecuarias y organismos auxiliares de cooperación, para el mejor cumplimiento de las actividades a que se refiere la presente ley;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2004)</small>
+
+XII. Proponer al Titular del Poder Ejecutivo del Estado, la celebración de convenios con la federación, los municipios y otras entidades federativas, así como con las organizaciones pecuarias y organismos auxiliares de cooperación, para el mejor cumplimiento de las actividades a que se refiere la presente ley;
 
 XIII. Designar a los supervisores regionales pecuarios;
 
@@ -257,9 +267,15 @@ XXXV. Autorizar el ingreso o restricción al Estado de animales, productos y sub
 
 XXXVI. Aplicar las sanciones económicas establecidas en la presente ley, su reglamento y demás normatividad vigente, comunicando las mismas a la Secretaría de Finanzas para que, por conducto de sus recaudadoras municipales se hagan efectivas;
 
-XXXVII. Resolver el recurso administrativo previsto en la presente ley y su reglamento; y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2004)</small>
 
-XXXVIII. Las demás que establezca la presente ley, su reglamento, los convenios que celebre el Titular del Poder Ejecutivo del Estado y demás normatividad aplicable.
+XXXVII. Resolver el recurso administrativo previsto en la presente ley y su reglamento;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2004)</small>
+
+XXXVIII. Promover la constitución de sociedades cooperativas; y
+
+XXXIX. Las demás que establezca la presente ley, su reglamento, los convenios que celebre el Titular del Poder Ejecutivo del Estado y demás normatividad aplicable.
 
 (F. DE. E., P.O. 16 DE DICIEMBRE DE 2003)
 
@@ -1428,3 +1444,11 @@ El Secretario General de Gobierno
 LIC. HÉCTOR PÉREZ PLAZOLA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE OCTUBRE DE 2004.
+
+PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Publíquese el presente decreto en uno de los diarios de mayor circulación en el Estado, de conformidad con lo previsto por el artículo 15 de la Ley para la Divulgación de la Legislación del Estado de Jalisco.
