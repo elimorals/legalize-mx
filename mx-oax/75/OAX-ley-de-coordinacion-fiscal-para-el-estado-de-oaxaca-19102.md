@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2000-12-30"
+last_updated: "2001-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE COORDINACION FISCAL PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2001.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -213,6 +213,10 @@ El Estado, a través de la Secretaría independientemente de la publicación a q
 
 Asimismo el Gobierno del Estado publicará en el Periódico Oficial y en uno de los periódicos de mayor circulación en la entidad, las Participaciones definitivas pagadas a los Municipios en el ejercicio de que se trate, dentro de los tres primeros meses del ejercicio inmediato posterior.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2001)</small>
+
+Tratándose de los montos de las participaciones a que se refiere este artículo, el Estado deberá publicarlos mediante Decreto en el Periódico Oficial del Gobierno del Estado, quince días después de que la Secretaría de Hacienda y Crédito Público, en términos del artículo 6°, tercer párrafo de la Ley de Coordinación Fiscal, publique en el Diario Oficial de la Federación, las participaciones estimadas que le correspondan al Estado y de las que éste debe participar a los municipios que lo conforman.
+
 ###### ARTICULO 12.
 
 Los factores de participación que conforme a las bases de los artículos 6 y 7 de la presente Ley resulten, se revisarán y modificarán anualmente. En tanto que dichos factores no se actualicen, se aplicarán provisionalmente los que correspondan al año inmediato anterior.
@@ -371,17 +375,19 @@ SEGUNDO.- Para los efectos de lo dispuesto en los artículos 6 y 7 de esta Ley, 
 
 DEL DECRETO NUM. 242. (sic)
 
-Durante los años 2001, 2002 y 2003 los factores a que se refieren los artículos arriba citados, se calcularán conforme a las proporciones que se señalan a continuación:
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE DICIEMBRE DE 2001)</small>
+
+Durante los años 2002, 2003 y 2004 los factores a que se refieren los artículos arriba citados, se calcularán conforme a las proporciones que se señalan a continuación:
 
 FACTORES FACTORES
 
 AÑO 1999 LEY
 
-2001 70% 30%
+2002 70% 30%
 
-2002 50% 50%
+2003 50% 50%
 
-2003 25% 75%
+2004 25% 75%
 
 El factor de distribución del Fondo Municipal de Participaciones y el del Fondo de Fomento Municipal que corresponda a cada Municipio será el que resulte de sumar el factor de distribución aplicado en 1999 multiplicado por el porcentaje arriba señalado para cada año, más el factor resultante del procedimiento establecido en la presente Ley para cada uno de los fondos multiplicado por el porcentaje arriba señalado.
 
@@ -430,3 +436,11 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HECTOR ANUAR MAFUD MAFUD.
 
 Al C....
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día 1° enero de del año 2002, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a este Decreto.
