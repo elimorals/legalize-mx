@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ordenamiento-territorial-de-los-asentamientos-14047"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-03"
-last_updated: "1999-12-31"
+last_updated: "2000-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS Y DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 3 de marzo de 1999.
 
@@ -357,11 +357,15 @@ XXVIII.- Formular la normatividad que corresponda para las especificaciones y ac
 
 XXIX.- Las demás que le señalen esta Ley, otras normas y reglamentos aplicables.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+El Ayuntamiento deberá sujetarse a lo que dispone la presente Ley, la Ley de Protección contra Incendios y Materiales Peligrosos del Estado y la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado, así como a los diversos planes aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 13.
 
-El Presidente Municipal por sí o a través de los titulares de las áreas de desarrollo urbano en las dependencias municipales que correspondan ejercerá las siguientes atribuciones:
-
-I.- Ejecutar directamente o a través del personal habilitado en los términos de esta Ley, del reglamento orgánico del ayuntamiento correspondiente y demás disposiciones legales aplicables, las atribuciones que le sean conferidas en materia de desarrollo urbano, asentamientos humanos y ordenamiento territorial.
+El Presidente Municipal por sí o a través de los titulares de las áreas de desarrollo urbano en las dependencias municipales que correspondan, ejecutará directamente o a través del personal habilitado en los términos de esta Ley, del reglamento orgánico del ayuntamiento correspondiente y demás disposiciones legales aplicables, las atribuciones que le sean conferidas en materia de desarrollo urbano, asentamientos humanos y ordenamiento territorial; sujetándose a lo que dispone la presente Ley, la Ley de Protección contra Incendios y Materiales Peligrosos del Estado y la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado, así como a los diversos planes aplicables en la materia.
 
 ### CAPÍTULO II. De la comisión estatal de desarrollo urbano
 
@@ -1549,7 +1553,9 @@ El ayuntamiento o la autoridad municipal correspondiente, para los efectos de lo
 
 Los centros de equipamiento son elementos estructuradores fundamentales de las áreas urbanas de los centros de población cuya función es proporcionar servicios diversos a la población de un barrio, un conjunto de barrios o todo el centro de población.
 
-Los servicios diversos, a que se refiere el párrafo anterior, podrán consistir en guardería, jardín de niños, escuela primaria o secundaria, plaza cívica, caseta de vigilancia, templo, edificios culturales, gasolineras, servicios de salud, y otros.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+Los servicios diversos, a que se refiere el párrafo anterior, podrán consistir en guarderías, jardines de niños, escuelas primarias o secundarias, plazas cívicas, casetas de vigilancia. Templos, edificios culturales, estaciones de servicio denominadas gasolineras, servicios de salud, establecimientos de almacenamiento, expendio o distribución de gas; entre otros.
 
 ###### Artículo 117.
 
@@ -1566,6 +1572,22 @@ Las dependencias y organismos del sector público responsable de la salud y educ
 ###### Artículo 120.
 
 El Estado y los municipios propiciarán la constitución de grandes parques urbanos municipales o metropolitanos, en terrenos adquiridos y desarrollados mediante un fideicomiso constituido para ese fin con aportaciones de empresas de la localidad para el mejoramiento ambiental.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 120 Bis.
+
+Las licencias de uso de suelo para la ubicación de las estaciones de servicio denominadas gasolineras y de establecimientos dedicados al almacenamiento, expendio o distribución de gas, sólo podrán otorgarse en predios localizados sobre carreteras, autopistas o libramientos, así como sobre aquéllas vialidades que constituyan las vías principales, vías colectoras, avenidas principales y vías subcolectoras. Quedando estrictamente prohibido ubicarlas tanto en las vías locales como en las vías cerradas.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+Artículo 120 Bis I.- Las licencias para la ubicación de estaciones de servicio denominadas gasolineras y de establecimientos dedicados al almacenamiento, expendio o distribución de gas, sólo podrán ser concedidas cuando concurran los siguientes supuestos:
+
+I.- Que se ubiquen a una distancia de resguardo mínima de cincuenta metros contados a partir de los límites de propiedad del predio en cuestión de viviendas multifamiliares, hoteles, moteles, hospitales, escuelas, guarderías, instalaciones de culto religioso, cines, teatros y cualquier otra en la que exista alta concentración de personas, líneas de alta tensión, vías férreas y ductos para productos derivados de petróleo;
+
+II.- Que se ubiquen a una distancia de resguardo de ciento cincuenta metros contados a partir de los límites de propiedad del predio en cuestión de la industria de alto riesgo que emplee productos químicos, soldadura o gas, se dedique a la fundición o utilice fuego o combustión; y
+
+III.- Que previa determinación de la autoridad competente en materia de protección civil, no representen impacto grave en el ámbito urbanístico, vial, ecológico y de seguridad.
 
 ### CAPÍTULO IV. De la vía pública
 
@@ -2089,13 +2111,11 @@ I.- En las zonas urbanizadas, los predios no podrán subdividirse en lotes menor
 
 II.- Los predios sólo podrán subdividirse si los lotes resultantes cuentan con acceso a una vía pública.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 168.
 
-Cuando la relotificación o la subdivisión incremente el número de lotes, solamente se autorizará si se cumplen las previsiones y normas de zonificación, se complementen proporcionalmente las cesiones de áreas para equipamientos y fines públicos establecidos en la ley y se efectúen a costa del promovente las adecuaciones en las infraestructuras o redes de servicios públicos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-Si el área de cesión complementaria no puede otorgarse dentro del predio o fraccionamiento autorizado, o cuando la superficie a ceder sea igual o menor al lote tipo del fraccionamiento de que se trate se podrá pagar en efectivo, según avalúo comercial que determine la Secretaría de Finanzas y Tesorería General del Estado, el cual tendrá una vigencia de tres meses.
+Cuando la relotificación o la subdivisión incremente el número de lotes, solamente se autorizará si se cumplen las previsiones y normas de zonificación y se efectúen a costa del promovente las adecuaciones en las infraestructuras o redes de servicios públicos. Cuando el lote sujeto a subdivisión o relotificación se encuentre dentro de un fraccionamiento previamente autorizado no se exigirán nuevas cesiones de áreas para equipamientos y fines públicos establecidos en la Ley.
 
 ###### Artículo 169.
 
@@ -3720,3 +3740,9 @@ ARQ. OSCAR BULNES VALERO
 P.O. 31 DE DICIEMBRE DE 1999.
 
 Artículo Unico.- El presente Decreto entrará en vigor el día 1o. de Enero del año 2000.
+
+P.O. 8 DE DICIEMBRE DE 2000.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
