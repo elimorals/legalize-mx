@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1973-06-30"
+last_updated: "1974-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1974.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -65,6 +65,8 @@ En este último caso, la exigibilidad o cumplimiento de las obligaciones fiscale
 
 ### CAPITULO I. Impuesto Predial
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1974)</small>
+
 ###### ARTICULO 5.
 
 Es objeto del Impuesto Predial:
@@ -73,59 +75,73 @@ I.- La propiedad de predios urbanos.
 
 II.- La propiedad de predios rústicos.
 
-III.- La propiedad de predios industriales.
+III.- La posesión ejidal.
 
-IV.- La posesión ejidal.
-
-V.- La posesión de predios urbanos, rústicos o industriales en los casos siguientes:
+IV.- La posesión de predios urbanos y rústicos en los casos siguientes:
 
 a).- Cuando no exista propietario.
 
-b).- Cuando el propietario no éste definido.
+b).- Cuando el propietario no esté definido.
 
-c).- Cuando el predio estuviere substraído a la posesión del propietario, por causas ajenas a su voluntad.
+c).- Cuando el predio estuviera substraído a la posesión del propietario, por causa ajena a su voluntad.
 
-d).- Cuando se derive de contratos de promesa de venta, con reserva de dominio y de promesa de venta o venta de certificados de participación inmobiliaria, de vivienda de simple uso o de cualquier otro título similar que autorice la ocupación material del inmueble y que origine algún derecho posesorio, aún cuando los mencionados contratos, certificados o títulos, se hayan celebrado u obtenido con motivo de operaciones de fideicomiso.
+d).- Cuando se deriva de contratos de promesa de venta, con reserva de dominio y promesa de venta o venta de certificados de participación inmobiliaria, de vivienda de simple uso o de cualquier otro título similar que autorice la ocupación material del inmueble y que origine algún derecho posesorio, aún cuando los mencionados contratos, certificados o títulos, se hayan celebrado u obtenido con motivo de operaciones de fideicomiso.
 
 e).- Cuando exista desmembración de la propiedad de manera que una persona tenga la nuda propiedad y otra el usufructo.
 
-f).- Cuando la ejerzan los particulares sobre inmuebles propiedad de la Federación, Estado, Municipios u Organismos descentralizados y sujetos a exención.
+f).- Cuando la ejerzan los particulares sobre inmuebles propiedad de la Federación, Estado, Municipios u organismos descentralizados y sujetos a exención.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 1974)</small>
 
 ###### ARTICULO 6.
 
-Son sujetos de este Impuesto:
+Son sujetos de este impuesto:
 
-I.- Los propietarios de predios urbanos, industriales o rústicos.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1974)</small>
 
-II.- Los poseedores de predios urbanos, rústicos o industriales, en el caso a que se refiere la Fracción V del Artículo 5 de esta Ley.
+I.- Los propietarios de predios urbanos o rústicos.
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1974)</small>
+
+II.- Los poseedores de predios urbanos o rústicos en el caso a que se refiere la Fracción V del artículo 5 de esta Ley.
 
 III.- Los fideicomitentes, mientras sean poseedores del predio objeto del fideicomiso o los fideicomisarios que estén en posesión del predio, aún cuando todavía no se les transmita la propiedad.
 
 IV.- Tratándose de predios ejidales, quien posea provisional o definitivamente el predio o en su caso, al núcleo de ejidatarios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 1974)</small>
+
 ###### ARTICULO 7.
 
-La base del Impuesto es la siguiente:
+La base del impuesto es la siguiente:
 
-I.- El valor catastral de los predios, tratándose de urbanos, rústicos o industriales.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1974)</small>
 
-En aquellos casos en que los predios no tengan valores catastrales, servirá de base el valor con que se encuentren fiscalmente empadronados, el valor de operación de transmisión de dominio que se registre, o el valor de capitalización, si alguno de éstos fuere mayor que aquél.
+I.- El valor catastral de los predios, tratándose de urbanos o rústicos.
+
+En aquellos casos en que los predios no tengan valor catastral, servirá de base el valor de la operación de transmisión de dominio que se registre, o el valor de capitalización, si alguno de éstos fuere mayor que aquél.
 
 II.- El valor a precio de venta de la producción agrícola, avícola o ganadera, natural o de cultivo, que se obtenga durante el año, de los predios ejidales ya sea que se explote individual o colectivamente.
 
 En aquellos casos que se desconozca el precio de venta, el Ejecutivo del Estado fijará el precio oficial de los diferentes productos en atención a sus calidades, el que servirá de base para los efectos de este Impuesto.
 
-III.- Cuando el predio se encuentre edificado con diversos departamentos propiedad de distintas personas, que a la vez sean copropietarios del terreno en que se encuentre construído el edificio, así como de sus escaleras, pasillos, jardines, muros medianeros, pisos y demás servicios e instalaciones, la Secretaría de Finanzas fijará el Impuesto de acuerdo con los valores catastrales, y entrará en vigor a partir del bimestre siguiente a la fecha en que haya autorizado previamente la escritura de constitución del condominio. Si éste se constituye sin estar terminadas las construcciones, el Impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron. En estos casos, la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del bimestre siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado, girándose a cada cual el recibo de pago correspondiente.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1974)</small>
+
+III.- Cuando se dediquen a actividades distintas a la explotación agropecuaria será aplicable lo señalado en la fracción I de este artículo.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1974)</small>
 
 ###### ARTICULO 8.
 
-La tasa del impuesto que corresponde pagar a los propietarios o poseedores de predios urbanos no edificados con servicio de agua, electricidad y drenaje, será ascendente partiendo de la tasa fijada por la Ley de Ingresos; entre tanto no se construya o enajene aumentará automáticamente el 25% sobre dicha tasa cada año hasta completar 10 años al final de los cuales se interrumpe.
+La tasa inicial del impuesto que corresponde pagar a los propietarios o poseedores de predios urbanos que la Ley de Catastro Inmobiliario del Estado clasifica como no edificados o baldíos con servicios de agua, electricidad y drenaje, entre tanto conserven esa calidad, se anejenen (sic) o establezca en ella alguna industria o comercio, será ascendente y aumenttará (sic) automáticamente el 25% cada año hasta completar diez años, al final de los cuales se interrumpe.
 
-Los efectos de este Artículo no serán aplicables a los fraccionamientos debidamente autorizados, ni a los predios no edificados que formen parte de una unidad comercial o industrial.
+Los efectos de este artículo no serán aplicables a los predios destinados para su venta de los fraccionamientos debidamente autorizados ni a los predios no edificados que formen parte de una unidad comercial o industrial.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1974)</small>
 
 ###### ARTICULO 9.
 
-La cuota del Impuesto que se fije con base en el primer avalúo catastral, reavalúos y modificaciones, entrará en vigor a partir del bimestre siguiente a la fecha en que se haya notificado.
+La cuota del impuesto que se fija con base en los reavalúos y modificaciones entrará en vigor a partir del bimestre siguiente a la fecha en que se haya notificado. Tratándose de predios en proceso de traslación de dominio los reavalúos y modificaciones entrarán en vigor a partir del bimestre siguiente a la fecha de la escritura.
 
 ###### ARTICULO 10.
 
@@ -153,11 +169,15 @@ IV.- La Ley de Ingresos fijará los casos en que el pago del Impuesto sea anual 
 
 El pago anticipado del Impuesto, no impide el cobro de diferencias que debe hacer la Secretaría de Finanzas por cambios en las bases gravables o variación de las cuotas del Impuesto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 1974)</small>
+
 ###### ARTICULO 14.
 
-Son solidariamente responsables del pago del Impuesto Predial:
+Son solidariamente responsables del pago del impuesto predial:
 
-I.- Los adquirentes por cualquier título de predios urbanos, rústicos o industriales, por los créditos originados con anterioridad a su adquisición.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1974)</small>
+
+I.- Los adquirentes por cualquier título de predios urbanos o rústicos por los créditos originados con anterioridad a su adquisición.
 
 II.- Los propietarios de los predios mencionados en el inciso anterior, cuando hayan otorgado la posesión en virtud de un contrato de promesa de venta, de compra-venta con reserva de dominio o cualquier otro por el cual no se transmita el dominio.
 
@@ -243,11 +263,13 @@ Son sujetos de este impuesto las personas físicas, morales o unidades económic
 
 Así mismo son sujetos de este impuesto los fideicomitentes cuando la fiduciaria transmita la posesión o el dominio de los bienes o derechos reales sobre ellos constituídos objeto del fideicomiso.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1974)</small>
+
 ###### ARTICULO 30.
 
-Para los efectos de este impuesto, la base gravable tratándose de bienes inmuebles urbanos será el valor que resulte más elevado de los valores fiscal, contractual y de avalúo comercial que practique una Institución de Crédito autorizada, avalúo que no podrá tener antigüedad mayor a un año a partir de la fecha en que se practique. En el caso de inmuebles rústicos la base gravable será el valor que resulte más elevado entre el fiscal y el contractual.
+Para los efectos de éste impuesto, la base gravable tratándose de bienes inmuebles urbanos y rústicos será el valor que resulte más elevado de los valores fiscal, contractual y de avalúo comercial que practique una Institución de Crédito autorizada, avalúo que no podrá tener antigüedad mayor de un año a partir de la fecha en que se practique.
 
-Tratándose de remates practicados por las autoridades judiciales, del trabajo o administrativas, la base gravable será el valor que resulte más elevado entre el fiscal y el pericial.
+Tratándose de remates practicados por las autoridades judiciales del Trabajo o administrativas, la base gravable será el valor que resulte más elevado entre el fiscal y el pericial.
 
 ###### ARTICULO 31.
 
@@ -293,11 +315,15 @@ Para los efectos del pago del Impuesto en caso de escrituras, adjudicaciones o c
 
 Las autoridades Judiciales, del Trabajo o Administrativas, están obligadas a dar aviso por anticipado, a la autoridad fiscal del Estado que se verificará remate de inmuebles y practicado éste enviarán copia certificada de la diligencia o acto del remate.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1974)</small>
+
 ###### ARTICULO 38.
 
-Los Notarios y Jueces no autorizarán escrituras, acto o contrato de transmisión o adquisición de propiedad o derechos reales y posesorios, ni los encargados el Registro Público de la Propiedad y del Comercio inscribirán las escrituras, actos o contratos que se otorguen, sin que previamente se acredite haber pagado el Impuesto a que se refiere el Artículo 28 de esta Ley. Además el inmueble objeto de la operación deberá estar al corriente en el pago de todas las obligaciones fiscales, lo cual se justificará únicamente con el certificado que expidan las autoridades respectivas.
+Los Notarios y Jueces no autorizarán escrituras, actos o contratos de transmisión o adquisición de propiedad o derechos reales y posesorios, ni los encargados del Registro Público de la Propiedad y del Comercio inscribirán las escrituras, actos o contratos que se otorguen sin que previamente se acredite haber pagado el impuesto a que se refiere el artículo 28 de esta Ley, y efectuado el deslinde del inmueble por la Dirección General de Catastro del Estado.
 
-Estos comprobantes y justificaciones deberán comprender hasta el mes en que los jueces y notarios autoricen la escritura, acto o contrato.
+Además el inmueble objeto de la operación deberá estar al corriente en el pago de todas las obligaciones fiscales, lo cual se justificará únicamente con el certificado que expidan las autoridades respectivas.
+
+Estos comprobantes y justificaciones deberán comprender hasta el mes en que los Jueces y Notarios autoricen la escritura, actos o contratos.
 
 ###### ARTICULO 39.
 
@@ -1298,3 +1324,7 @@ UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación e
 P.O. 30 DE JUNIO DE 1973.
 
 UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 28 DE FEBRERO DE 1974.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
