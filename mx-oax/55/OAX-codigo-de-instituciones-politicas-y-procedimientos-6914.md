@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-instituciones-politicas-y-procedimientos-6914"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-12"
-last_updated: "1995-05-13"
+last_updated: "1995-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE INSTITUCIONES POLITICAS Y PROCEDIMIENTOS ELECTORALES DE OAXACA (CIPPEO)
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1995.
 
 Código publicado en el Periódico Oficial del Estado de Oaxaca, el miércoles 12 de febrero de 1992.
 
@@ -99,11 +99,13 @@ El Estado libre y soberano de oaxaca adopta para su régimen interno la forma de
 
 Para el desempeño de sus funciones las autoridades electorales establecidas por la Constitución Particular y éste Código, contarán con el apoyo y colaboración de las autoridades estatales y municipales. Podrán también celebrar convenios o acuerdos con Autoridades u Organismos Federales para el mejor cumplimiento de su cometido.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 5.
 
-La aplicación de este Código corresponde al Instituto Estatal Electoral y al Tribunal Estatal Electoral, en sus respectivos ámbitos de competencia, de acuerdo a lo establecido en la Constitución Particular y en este Código.
+1.- La aplicación de este Código corresponde al Instituto Estatal Electoral, al Tribunal Estatal Electoral y al Congreso del Estado erigido en Colegio Electoral para la calificación de las elecciones de gobernador y concejales de los ayuntamientos en sus respectivos ámbitos de competencia, de acuerdo a lo establecido en la Constitución particular y en este Código.
+
+2.- La interpretación de este Código se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución Federal.
 
 # LIBRO PRIMERO. DE LA INTEGRACION DE LOS PODERES LEGISLATIVO Y EJECUTIVO DEL ESTADO Y DE LOS AYUNTAMIENTOS
 
@@ -197,7 +199,9 @@ b).- Contar con la credencial para votar correspondiente.
 
 2.- Previo acuerdo o convenio que se celebre entre el Registro Federal de Electores y el Instituto, las credenciales con fotografía para votar que expida aquel organismo, serán utilizadas en las elecciones locales.
 
-3.- En cada Municipio o distrito local electoral el sufragio se emitirá en la casilla electoral que comprenda al domicilio del ciudadano, la que deberá corresponder a su sección electoral, salvo en los casos de excepción expresamente señalados por éste Código.
+> <small>(ADICIONADO [N. DE E, REFORMADO], P.O. 24 DE MAYO DE 1995)</small>
+
+3.- En cada municipio o distrito local el sufragio se emitirá en la casilla electoral que comprenda al domicilio del ciudadano, la que deberá corresponder a su sección electoral, salvo en los casos de excepción expresamente señalados por este Código.
 
 ###### ARTICULO 9.
 
@@ -255,9 +259,9 @@ f).- No ser funcionario federal o estatal con poder ejecutivo, salvo que se sepa
 
 1.- A ninguna persona deberá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-2.- Los Partidos Políticos no podrán registrar simultáneamente en un mismo proceso electoral, más de ocho candidatos a diputados por mayoría relativa y por representación proporcional.
+2.- Los partidos políticos podrán registrar simultáneamente candidatos a diputados por mayoría relativa y por representación proporcional, de acuerdo a las bases establecidas en el artículo 136 de este Código.
 
 ## TITULO SEGUNDO. DE LA RENOVACION DE LOS PODERES LEGISLATIVO Y EJECUTIVO DEL ESTADO Y DE LOS AYUNTAMIENTOS
 
@@ -403,7 +407,9 @@ Los partidos políticos, para el logro de los fines establecidos en las Constitu
 
 a).- Formular una declaración de principios y, en congruencia con ellos, un programa de acción y los estatutos que como partido normen sus actividades, los cuales se deben ajustar a las bases constitucionales y a las disposiciones legales aplicables;
 
-b).- Contar con un número de afiliados por distrito que represente como mínimo el 3% sobre el total de los ciudadanos que estén inscritos en el padrón electoral y que acrediten tener su domicilio dentro de la circunscripción uninominal de que se trate, en por lo menos la mitad de los distritos en que se divida el Estado; en ningún caso, el número total de afiliados deberá ser inferior al 1.5 % del padrón estatal;
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+b).- Contar con un número de afiliados por distrito que represente como mínimo el 3% sobre el total de los ciudadanos que estén inscritos en la lista nominal de electores y que acrediten tener su domicilio dentro de la circunscripción uninominal de que se trate, en por lo menos la mitad de los distritos en que se divida el Estado; en ningún caso, el número total de afiliados deberá ser inferior al 1.5% de la lista nominal de electores a nivel estatal.
 
 c).- Haber realizado permanentemente actividades políticas propias y en forma independiente de cualquier otra organización o partido político, por lo menos durante los dos años anteriores a la fecha en que presente la solicitud de registro ante el Instituto.
 
@@ -847,6 +853,8 @@ h).- El señalamiento, por cada distrito electoral uninominal, o por la circunsc
 
 2.- El Consejo resolverá sobre la procedencia del registro dentro de los tres días siguientes a su presentación, en forma debidamente fundada y motivada. En caso de controversia, la solución de la misma corresponderá al Tribunal Estatal Electoral mediante resolución que deberá dictar en el plazo de diez días hábiles.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE MAYO DE 1995)</small>
+
 3.- Una vez registrado un convenio de coalición, el Consejo dispondrá su publicación en el Periódico Oficial.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 1995)</small>
@@ -871,27 +879,11 @@ h).- El señalamiento, por cada distrito electoral uninominal, o por la circunsc
 
 ###### ARTICULO 55.
 
-Son causa de pérdida del registro de un partido local las siguientes:
-
-a).- No obtener el 1.5% de la votación total emitida, en las elecciones estatales en que haya participado;
-
-b).- Haber dejado de cumplir con los requisitos necesarios para obtener el registro;
-
-c).- Incumplir de manera grave y sistemática, a juicio del Consejo las obligaciones que le señala éste Código;
-
-d).- Haber sido declarado disuelto por acuerdo de sus miembros, conforme a lo que establezcan sus estatutos; y
-
-e).- Haberse fusionado con otro partido local, en los términos del artículo anterior.
+(DEROGADO, P.O. 24 DE MAYO DE 1995)
 
 ###### ARTICULO 56.
 
-1.- Para la pérdida del registro por la causa a que se refiere el inciso a) del artículo anterior, el Consejo emitirá la declaratoria correspondiente, misma que deberá fundarse en los resultados que determine el Colegio Electoral respectivo, una vez calificadas las elecciones, y solicitará su publicación en el Periódico Oficial del Estado.
-
-2.- Tratándose de partidos nacionales, la cancelación del registro se hará tan pronto como se conozca la publicación que haga el Instituto Federal Electoral en el Diario Oficial de la Federación.
-
-3.- En los casos a que se refiere el inciso b) al e) del artículo anterior, la resolución del Consejo sobre la pérdida del registro de un partido local, se pronunciará, previa audiencia del partido que se trate, el que podrá aportar las pruebas en contrario que juzgue pertinentes y se publicará dicha resolución en el Periódico Oficial.
-
-4.- La pérdida del registro de un partido local no afecta los triunfos que sus candidatos hayan obtenido en las elecciones, según el principio de mayoría relativa.
+(DEROGADO, P.O. 24 DE MAYO DE 1995)
 
 # LIBRO TERCERO. DEL INSTITUTO ESTATAL ELECTORAL
 
@@ -965,21 +957,27 @@ c).- La Dirección General.
 
 1.- El Consejo General del Instituto es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque los principios de certeza, legalidad, imparcialidad y objetividad guíen todas las actividades del Instituto.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 63.
 
-1.- El Consejo General del Instituto se integrará por un Consejero Presidente, dos representantes del Poder Legislativo, seis Consejeros Ciudadanos y representantes de partidos políticos.
+El Consejo General del Instituto se integrará de la siguiente manera:
 
-2.- Un Presidente con derecho a voz y voto, que será electo por el voto de las dos terceras partes del Congreso del Estado, a propuesta de las fracciones parlamentarias de los partidos representados en la Cámara de Diputados, quien deberá satisfacer los mismos requisitos establecidos para los Consejeros Ciudadanos del Consejo General del Instituto Estatal Electoral en el artículo 65 de este Código.
+a).- Un Consejero Presidente con derecho a voz y voto, que será electo por el voto de las dos terceras partes del Congreso del Estado, a propuesta de las fracciones parlamentarias de los partidos representados en la Cámara de Diputados, quien deberá satisfacer los mismos requisitos establecidos para los consejeros ciudadanos del consejo general del instituto estatal electoral en el artículo 65 de este Código;
 
-3.- Seis Consejeros Ciudadanos, con derecho a voz y voto, que serán seleccionados y acreditados por el Congreso del Estado, conforme a las reglas establecidas en el artículo 64 de este Código.
+b).- Un Secretario General con derecho a voz, pero sin voto, elegido por el Consejo General de acuerdo al procedimiento establecido en el articulo 71 fracción II.
 
-4.- Dos representantes, con derecho a voz y voto, del Congreso Local, uno de la fracción parlamentaria mayoritaria y uno de la fracción parlamentaria que constituya la primera minoría.
+c).- Seis Consejeros Ciudadanos, con derecho a voz y voto, que serán seleccionados y acreditados por el Congreso del Estado, conforme a las reglas establecidas en el artículo 64 de este Código.
 
-5.- Un representante, con derecho a voz y voto, de cada uno de los partidos políticos nacionales con registro y de cada uno de los partidos políticos locales que en la elección inmediata anterior para diputados de mayoría relativa hayan obtenido por lo menos el 1.5% de la votación estatal.
+d).- Dos representantes, con derecho a voz y voto, del Congreso local, uno de la fracción parlamentaria mayoritaria y uno de la fracción parlamentaria que constituya la primera minoría.
 
-Los partidos políticos podrán sustituir en todo tiempo a su representante, dando con oportunidad el aviso correspondiente al Presidente del Consejo General. Por cada representante propietario habrá un suplente.
+En caso de vacante de los representantes del Congreso local, el Presidente del Consejo General se dirigirá a la Cámara de Diputados a fin de que haga las designaciones correspondientes;
+
+e).- Un representante, con derecho a voz y voto, de cada uno de los partidos políticos nacionales con registro y de cada uno de los partidos políticos locales que en la elección inmediata anterior para diputados de mayoría relativa hayan obtenido por lo menos el 1.5% de la votación estatal. Los partidos políticos podrán sustituir en todo tiempo a su representante, dando con oportunidad el aviso correspondiente al Presidente del Consejo General, por cada representante propietario habrá un suplente;
+
+f).- El vocal estatal del Registro Federal Electoral, con derecho a voz pero sin voto;
+
+g).- El Director General del Instituto, con derecho a voz pero sin voto.
 
 > <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
@@ -1097,7 +1095,9 @@ IV.- Designar, por mayoría absoluta, de entre las propuestas que al efecto haga
 
 V.- Designar en enero del año de la elección, por el voto de las dos terceras partes de sus miembros a los consejeros ciudadanos de los Consejos Distritales y Municipales Electorales, de entre las propuestas que al efecto realice la Junta General Ejecutiva. Por cada consejero ciudadano propietario habrá un suplente.
 
-VI.- Resolver en los términos de éste Código el otorgamiento del registro, así como la pérdida del mismo, de los partidos políticos, en los casos previstos en los artículos 32 y 55, emitir la declaratoria correspondiente y solicitar su publicación en el Periódico Oficial.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1995)</small>
+
+VI.- Resolver en los términos de este Código el otorgamiento del registro, así como la pérdida del mismo, de los partidos políticos, en los casos previstos en los artículos 33 y 34, emitir la declaratoria correspondiente y solicitar su publicación en el Periódico Oficial.
 
 > <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
 
@@ -1209,11 +1209,13 @@ e).- Proponer al Consejo General el nombramiento del Director General del Instit
 
 f).- Proponer al Consejo General el nombramiento del Secretario General del Instituto.
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-g).- Vigilar la instalación de los Consejos Distritales y Municipales.
+g) Someter oportunamente a la consideración del Poder Ejecutivo el proyecto de presupuesto del Instituto, una vez aprobado por el Consejo General.
 
-h).- Vigilar la Instalación de los Comités Distritales y Municipales.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+h) Vigilar la instalación de los Consejos Distritales y Municipales;
 
 i).- Las demás que le confieran éste Código y las disposiciones relativas.
 
@@ -1271,9 +1273,13 @@ e).- Seleccionar, a los candidatos Presidentes y Secretarios de los Consejos Dis
 
 f).- Elaborar las listas de candidatos a Consejeros Ciudadanos de los Consejos Distritales y Consejos Municipales Electorales, y someterla a la consideración del Consejo General para que éste proceda a su designación en los términos señalados en la fracción V del artículo 71 de este Código.
 
-g).- Resolver los recursos de revisión que se presenten en contra de los actos o resoluciones de los órganos del Instituto en los términos de éste Código y
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-h).- Las demás que le encomienden éste Código el Consejo General o su Presidente.
+g).- Sustanciar el procedimiento de pérdida de registro del partido político que se encuentre en los supuestos del artículo 34 de este Código, hasta dejarlo en estado de resolución, la cual será dictada por el Consejo General del Instituto en los términos del artículo 71 fracción VI de este Código;
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+h).- Las demás que le encomienden este Código, el Consejo General o su Presidente.
 
 ### CAPITULO QUINTO. DEL DIRECTOR GENERAL Y DEL SECRETARIO GENERAL DEL INSTITUTO
 
@@ -1327,7 +1333,9 @@ c).- Cumplir los acuerdos del Consejo General.
 
 d).- Someter al conocimiento y, en su caso, a la aprobación del Consejo General los asuntos de su competencia.
 
-e).- Orientar y coordinar las acciones de los Comités Distritales y Municipales del Instituto.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+e).- Orientar y coordinar las acciones de los Consejos Distritales y Municipales del Instituto;
 
 f).- Presentar el proyecto de convenio que el Presidente del Consejo celebrará con las autoridades competentes, sobre la información y documentos que habrá de aportar el Registro Federal de Electores, para los procesos electorales locales.
 
@@ -1337,7 +1345,9 @@ g).- Integrar los expedientes con las actas de escrutinio de la elección de Gob
 
 h).- Integrar los expedientes con las actas de cómputo de la elección plurinominal y presentarlas oportunamente al Consejo General.
 
-i).- Aprobar las estructuras de las Vocalías y demás órganos del Instituto conforme a las necesidades del servicio y los recursos presupuestales autorizados.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+i). Aprobar las estructuras de las direcciones ejecutivas y demás órganos del Instituto conforme a las necesidades del servicio y los recursos presupuestales autorizados;
 
 j).- Proveer a los órganos del Instituto de los elementos necesarios para el cumplimiento de sus funciones.
 
@@ -1351,9 +1361,9 @@ m).- Dar cuenta al Consejo General con los informes que sobre las elecciones rec
 
 n).- Elaborar anualmente el anteproyecto de presupuesto del Instituto para someterlo a la consideración del Presidente del Consejo General.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-o).- Celebrar con el Instituto Federal Electoral, los convenios a que se refiere la fracción XXV del artículo 71 de este Código.
+o).- Celebrar con el Instituto Federal Electoral, los convenios a que se refiere la fracción XXX del artículo 71 de este Código.
 
 p).- Las demás que disponga éste Código.
 
@@ -1507,7 +1517,9 @@ j).- Las demás que le confiera este Código.
 
 I.- Un Consejero presidente, con derecho a voz y voto; un consejero secretario del Consejo, con voz, pero sin voto, electos por el Consejo General de acuerdo al procedimiento establecido en la fracción IV del artículo 71.
 
-II.- Tres Consejeros Ciudadanos electos en los términos señalados en la fracción V del artículo 71 de este Código. Por cada consejero ciudadano propietario habrá un suplente.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1995)</small>
+
+II.- Tres consejeros ciudadanos electos en los términos señalados en la fracción V del artículo 71 de este Código, con derecho a voz y voto. Por cada consejero ciudadano propietario habrá un suplente.
 
 III.- Un representante de cada uno de los partidos políticos con registro, quienes tendrán derecho a voz pero sin voto.
 
@@ -1633,7 +1645,9 @@ Los Consejos Municipales Electorales funcionarán durante el proceso para la ele
 
 1.- Un consejero presidente, con derecho a voz y voto; y un consejero secretario del Consejo, con voz, pero sin voto, electos por el Consejo General de acuerdo al procedimiento establecido en la fracción IV del artículo 71;
 
-2.- Tres consejeros ciudadanos, electos conforme a lo dispuesto en la fracción V del artículo 71 de este código. Por cada consejero propietario habrá un consejeo (sic) suplente;
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+2.- Tres consejeros ciudadanos, con derecho a voz y voto, electos conforme a lo dispuesto en la fracción V del artículo 71 de este Código. Por cada consejero propietario habrá un suplente;
 
 3.- Un representante por cada uno de los partidos políticos nacionales o locales con registro, con voz pero sin voto.
 
@@ -2029,7 +2043,7 @@ El proceso electoral es el conjunto de actos ordenados por la Constitución Part
 
 1.- El proceso electoral ordinario para la elección de diputados, de Gobernador del Estado y de los ayuntamientos se inicia en enero del año en que deban realizarse las elecciones y concluye en diciembre del mismo año.
 
-2.- El proceso electoral ordinario para la renovación de los ayuntamientos se inicia en el mes de abril del año de la elección y concluye en el mes de diciembre del mismo año.
+2.- (DEROGADO, P.O. 24 DE MAYO DE 1995)
 
 3.- Para los efectos de éste Código, el proceso electoral ordinario comprende las etapas siguientes:
 
@@ -2045,17 +2059,17 @@ c).- Resultados y declaraciones de validez de las elecciones.
 
 d).- Calificación de las elecciones de Gobernador y Ayuntamientos.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-4.- La etapa de la jornada electoral se inicia a las 8:00 horas del primer domingo de agosto, para la elección del gobernador, diputados y el segundo domingo de noviembre para la elección de concejales, y concluye con la clausura de la casilla.
+4.- La etapa de la preparación de la elección se inicia con la primera sesión que el Consejo General del Instituto celebre durante la primera semana del mes de enero del año en que deban realizarse las elecciones estatales ordinarias y concluye al iniciarse la jornada electoral.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-5.- La etapa de resultado y declaraciones de validez de las elecciones se inicia con la remisión de la documentación y expedientes electorales a los Consejos Distritales y Municipales y concluye con los cómputos y declaraciones que realicen los Concejos del Instituto Estatal Electoral, o las resoluciones que en su caso emita en última instancia el Tribunal Estatal Electoral.
+5.- La etapa de la jornada electoral se inicia a las 8:00 horas del primer domingo de agosto, para la elección del Gobernador y Diputados, y del segundo domingo de noviembre para la elección de concejales, y concluye con la publicación de los resultados electorales en el exterior del local de la casilla y remisión de la documentación y los expedientes electorales a los respectivos comités distritales y municipales.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-6.- La etapa de calificación de las elecciones de Gobernador y Ayuntamientos, se inicia al erigirse la Cámara de Diputados en Colegio Electoral, y concluye cuando ésta declara la validez de las elecciones.
+6.- La etapa de resultado y declaraciones de validez de las elecciones se inicia con la remisión de la documentación y expedientes electorales a los consejos distritales y municipales y concluye con los cómputos y declaraciones que realicen los Concejos del Instituto Estatal Electoral, o las resoluciones que en su caso emita en última instancia el Tribunal Estatal Electoral.
 
 7.- (DEROGADO, P.O. 13 DE MAYO DE 1995)
 
@@ -2071,13 +2085,15 @@ d).- Calificación de las elecciones de Gobernador y Ayuntamientos.
 
 2.- Las candidaturas a diputados a elegirse por el principio de mayoría relativa y por el principio de representación proporcional, se registrarán por fórmulas compuestas cada una por un propietario y un suplente, para los ayuntamientos las candidaturas se registrarán por planillas integradas por propietarios y suplentes. Ninguna persona podrá ser registrada como candidato a distintos cargos en el mismo proceso electoral.
 
-> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-3.- Para el registro de las listas de los candidatos a diputados de representación proporcional, los partidos políticos tendrán dos opciones:
+3.- El registro de los candidatos a diputados por presentación proporcional se realizará de acuerdo a las bases siguientes:
 
-a) Presentar una lista definitiva de candidatos.
+a) Las listas de 17 candidatos a diputados por el principio de representación proporcional;
 
-b) Notificar al Consejo General que la lista de candidatos a diputados de representación proporcional será integrada con los candidatos a diputados de mayoría relativa que no habiendo resultado triunfantes, hayan obtenido el mayor número de votos para su partido. Dicha notificación deberá hacerse en los plazos establecidos para el registro de candidatos a diputados de representación proporcional.
+b) Por relaciones de hasta 25 candidatos a diputados por el principio de representación proporcional conformadas con los mismos candidatos de mayoría relativa.
+
+Al momento del registro de las listas de candidatos a diputados por el principio de representación proporcional, los partidos políticos precisaran por cual de las dos opciones registran dichas listas. En caso de no precisar cualquiera de las dos opciones se entenderá que eligió la opción contenida en el inciso a) de esta fracción.
 
 ###### ARTICULO 137.
 
@@ -2381,9 +2397,13 @@ d).- No ser establecimientos fabriles, sindicatos, templos o locales de partidos
 
 a).- En los meses de febrero y agosto del año de la elección correspondiente, los miembros de las Juntas Distritales o municipales Ejecutivas recorrerán las secciones de los distritos o municipios respectivos con el propósito de localizar lugares que cumplan con los requisitos señalados en el artículo anterior;
 
-b).- En marzo y septiembre del año de la elección correspondiente, las Juntas Distritales o los presidentes de los consejos municipales presentarán a los Consejos Distritales o Municipales Electorales respectivos, una lista proponiendo los lugares en que habrán de ubicarse las casillas;
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-c).- Recibidas las listas, los Consejeros examinarán que los lugares propuestos cumplan con los requisitos señalados en este Código, en la sesión a que se refiere el Artículo 158 de este Código, y
+b).- En marzo y septiembre del año de la elección correspondiente, los Presidentes de los Consejos Distritales o los Presidentes de los Consejos Municipales presentarán a los Consejos Distritales o Municipales Electorales respectivos, una lista proponiendo los lugares en que habrán de ubicarse las casillas;
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+c). Recibidas las listas, los consejeros examinarán que los lugares propuestos cumplan con los requisitos señalados; en la sesión a que se refiere el artículo 158 de este Código, y
 
 d).- Dentro de los cinco días siguientes a partir de la sesión a que se refiere la fracción anterior, los miembros de los Consejos Distritales o Municipales correspondientes podrán presentar las objeciones respecto de los lugares propuestos.
 
@@ -2493,9 +2513,11 @@ b).- Los Consejos distritales devolverán a los partidos políticos el original 
 
 c).- Los partidos políticos podrán sustituir a sus representantes hasta con diez días de anterioridad a la fecha de la elección, devolviendo con el nuevo nombramiento el original.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1995)</small>
+
 ###### ARTICULO 168.
 
-La devolución al Comité Distrital o Municipal Electoral de los nombramientos por los representantes de los partidos políticos, se sujetará a las reglas siguientes:
+La devolución al Consejo Distrital o Municipal Electoral de los nombramientos de los representantes de los partidos políticos se sujetará a las reglas siguientes:
 
 a).- Se hará mediante escrito por el funcionario del partido político que haga el nombramiento;
 
@@ -2609,15 +2631,19 @@ f).- La documentación, formas aprobadas, útiles de escritorio y demás element
 
 1.- Para garantizar el secreto del voto, se colocaran mamparas y las urnas en que los electores depositen las boletas, deberán construirse de un material transparente y de preferencia plegable y armable. Los funcionarios de las casillas cuidaran que al depositarse la boleta, esta esté doblada de manera que impida conocer el sentido del voto, antes del escrutinio y cómputo. En el exterior y en lugar visible, las urnas llevarán la denominación de la elección de que se trate.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-2.- A los Presidentes de mesas directivas especiales les será entregada la documentación y materiales a que se refiere el artículo anterior con excepción de la lista nominal de electores, en lugar de la cual recibirán las formas especiales para anotar los datos de los electores, que estando transitoriamente fuera de su sección, voten en la casilla especial. El número de boletas que reciban será de 750.
+2.- A los presidentes de mesas directivas especiales les será entregada la documentación y materiales a que se refiere el artículo anterior con excepción de la lista nominal de electores, en lugar de la cual recibirán las formas especiales para anotar los datos de los electores, que estando transitoriamente fuera de su municipio, voten en la casilla especial. El número de boletas que reciban será de 750.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 178.
 
-Los nombramientos de los comisionados electorales estarán sujetos a las reglas siguientes:
+Los nombramientos de los asistentes electorales estarán sujetos a las reglas siguientes:
 
-a).- Serán nombrados por el pleno del Consejo General o del Comité Distrital o Municipal Electoral, según corresponda, 10 días antes de la elección;
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+a). Serán nombrados por el pleno del Consejo General o del consejo distrital o municipal electoral, según corresponda, diez días antes de la elección;
 
 > <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
@@ -2659,7 +2685,9 @@ Los comisionados electorales del Instituto serán nombrados por el Consejo Gener
 
 3.- Acto continuo se iniciará el levantamiento del acta de la jornada electoral llenándose y firmándose el apartado correspondiente a la instalación de la casilla
 
-4.- El acta de la jornada electoral costará (sic) de los siguientes apartados:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1995)</small>
+
+4.- El acta de la jornada electoral constará de los siguientes apartados:
 
 a).- El de instalación; y
 
@@ -2745,13 +2773,19 @@ En los casos de cambios de casilla por causa justificada, el nuevo sitio deberá
 
 4.- Recibida la comunicación que antecede, el Consejo Distrital o Municipal, según sea el caso, tomará las medidas necesarias para que se reanude la votación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1995)</small>
+
 ###### ARTICULO 187.
 
-En las casillas especiales para recibir la votación de los electores que transitoriamente se encuentren fuera de su sección se aplicaran en lo procedente, las reglas establecidas en el artículo anterior y las siguientes:
+Los electores votarán en el orden en que se presenten ante la mesa directiva de casilla debiendo cumplir los siguientes requisitos:
 
-a).- Las casillas especiales se ubicaran e instalarán, de conformidad al acuerdo que, al respecto tome el Consejo General y a lo dispuesto por éste Código.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-b).- El elector además de exhibir su Credencial para Votar, a requerimiento del presidente de la mesa directiva, deberá mostrar el pulgar derecho para constatar que no ha votado en otra casilla.
+a).- Exhibir su credencial de elector;
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+b).- Figurar en la lista nominal de electores;
 
 > <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
@@ -2763,11 +2797,21 @@ d).- En el caso referido en el párrafo anterior los Presidentes de casilla, ade
 
 e).- Si el elector se encuentra fuera de su distrito, pero dentro de su entidad, podrá votar por diputados por el principio de representación proporcional y por Gobernador. El Presidente de la mesa entregará la boleta única para la elección de diputados, asentando la leyenda "Representación Proporcional" o la abreviatura R. P.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1995)</small>
+
+El Presidente de la casilla recogerá las credenciales para votar que tengan muestras de alteración o no pertenezcan al elector, poniendo a disposición de las autoridades a quienes la presenten. El Secretario de la mesa anotará el incidente en el acta respectiva, con mención expresa del nombre del ciudadano o ciudadanos presuntamente responsables.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 188.
 
-En las casillas especiales para recibir la votación de los electores que transitoriamente se encuentren fuera de su sección se aplicarán en lo procedente, las reglas establecidas en el artículo anterior y las siguientes:
+En las casillas especiales para recibir la votación de los electores que transitoriamente se encuentren fuera de su municipio se aplicarán en lo procedente, las reglas establecidas en el artículo anterior y las siguientes:
+
+a).- El Secretario de la mesa directiva procederá a asentar en el acta de electores en tránsito, los datos de la credencial para votar del elector.
+
+b).- Si el elector se encuentra fuera de su municipio, pero dentro de su distrito, podrá votar por diputados por ambos principios y para gobernador.
+
+c).- Si el elector se encuentra fuera de su distrito, podrá votar por diputados por el principio de representación proporcional y por gobernador, el presidente de la mesa entregará la boleta única para la elección de Diputados, asentando la leyenda representación proporcional o la abreviatura R.P.
 
 ###### ARTICULO 189.
 
@@ -2955,11 +2999,11 @@ Invariablemente se asentarán los datos anteriores en las formas aprobadas por e
 
 En ningún caso se sumarán a las boletas sobrantes que fueron inutilizadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 204.
 
-1.- Concluidos el escrutinio y el cómputo en cada una de las votaciones, se levantarán las actas correspondientes a cada elección a la que firmarán, sin excepción, todos los funcionarios y representantes de partidos, que actuaron en la casilla.
+1.- Concluidos el escrutinio y el cómputo en cada una de las votaciones, se levantarán las actas correspondientes a cada elección, la que firmarán, sin excepción, todos los funcionarios y representantes de partidos, que actuaron en la casilla.
 
 2.- La negativa de representantes a firmar esta acta, dejará sin materia los escritos de protesta que presenten.
 
@@ -2987,9 +3031,11 @@ Los Presidentes de las mesas directivas de casilla, conservaran un ejemplar de c
 
 ### CAPITULO CUARTO. DE LA CLAUSURA DE LA CASILLA Y DE LA REMISION DEL PAQUETE ELECTORAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1995)</small>
+
 ###### ARTICULO 207.
 
-1.- Los Presidentes de las mesas directivas bajo su responsabilidad, harán llegar al Comité Municipal o Distrital Electoral que corresponda los paquetes electorales y las copias de las actas a que se refiere el artículo anterior, lo más pronto posible, y a más tardar dentro de los términos siguientes, contados a partir de la clausura de las casillas.
+1.- Los presidentes de las mesas directivas bajo su responsabilidad, harán llegar al Consejo Municipal o distrital electoral que corresponda los paquetes electorales y las copias de las actas a que se refiere el artículo anterior, lo más pronto posible, y a más tardar dentro de los términos siguientes, contados a partir de la hora de clausura de las casillas.
 
 a).- Inmediatamente cuando se trate de casillas urbanas, ubicadas en la cabecera del distrito o municipio.
 
@@ -2997,13 +3043,13 @@ b).- Hasta doce horas cuando se trate de casillas urbanas, ubicadas fuera de cab
 
 c).- Hasta veinticuatro horas cuando se trate de casillas rurales. Los Comités Distritales o Municipales, previamente al día de la elección, podrán determinar la ampliación de los plazos anteriores para aquellas casillas que lo justifiquen. Los Comités Distritales y Municipales electorales tomarán previamente al día de la elección las previsiones necesarias para que los paquetes electorales sean entregados dentro de los términos señalados anteriormente.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-2.- Una vez clausurada la casilla los presidentes de las mesas directivas bajo su responsabilidad, harán llegar al Consejo Distrital o Municipal Electoral que corresponda los paquetes electorales y las copias de las actas a que se refiere el artículo anterior, lo más pronto posible, y a más tardar dentro de los términos siguientes: contados a partir de la clausura de las casillas.
+2.- Los consejos distritales y municipales electorales tomarán previamente al día de la elección las previsiones necesarias para que los paquetes electorales sean entregados dentro de los términos señalados anteriormente;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-3.- Los Consejos Distritales y Municipales Electorales tomarán previamente al día de la elección las previsiones necesarias para que los paquetes electorales sean entregados dentro de los términos señalados anteriormente.
+3.- Los consejos distritales podrán acordar que se establezca un mecanismo para la recolección de la documentación de las casillas cuando fuere necesario en los términos de este Código. Lo anterior se realizará bajo la vigilancia de los partidos políticos que así desearen hacerlo.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 1995)</small>
 
@@ -3013,11 +3059,11 @@ c).- Hasta veinticuatro horas cuando se trate de casillas rurales. Los Comités 
 
 1.- Se considerará, que existe causa justificada para que el paquete electoral sea entregado al Comité Municipal o Distrital Electoral fuera de los plazos que éste Código establece cuando medie caso fortuito o fuerza mayor.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 209.
 
-El consejo distrital hará constar en el acta circunstanciada de recepción de los paquetes a que se refiere el artículo 213 de este código, las acudas (sic) que se invoquen para el retraso en la entrega de los paquetes.
+El Consejo Distrital hará constar en el acta circunstanciada de recepción de los paquetes a que se refiere el artículo 213 de este Código, las causas que se invoquen para el retraso en la entrega de los paquetes.
 
 ### CAPITULO QUINTO. DISPOSICIONES COMPLEMENTARIAS
 
@@ -3079,17 +3125,25 @@ d).- El Presidente del Consejo Distrital o Municipal, bajo su responsabilidad, l
 
 ### CAPITULO SEGUNDO. DE LA INFORMACION PRELIMINAR DE LOS RESULTADOS
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 214.
 
-Los Consejos Distritales o municipal harán las sumas de las actas y de escrutinio y cómputo de las casillas conforme éstas se vayan recibiendo y hasta el vencimiento del plazo legal para la entrega de los paquetes que contengan los expedientes electorales conforme a las siguientes reglas:
+Los consejos distrital o municipal harán las sumas de las actas y de escrutinio y cómputo de las casillas conforme éstas se vayan recibiendo y hasta el vencimiento del plazo legal para la entrega de los paquetes que contengan los expedientes electorales conforme a las siguientes reglas:
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 a).- El consejos distrital o municipal autorizará al personal necesario para la recepción continua y simultanea de los paquetes electorales. Los partidos políticos podrán acreditar a sus representantes suplentes para que estén presentes durante dicha recepción;
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
 b).- Los funcionarios electorales designados, recibirán las actas de escrutinio y cómputo, y de inmediato darán lectura en voz alta del resultado de las votaciones que aparezcan en ellas procediendo a realizar la suma correspondiente para informar inmediatamente a la dirección general del instituto;
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
 c).- El secretario, o el funcionario autorizado para ello anotará esos resultados en el lugar que les corresponda en la forma destinada para ello, conforme al orden numérico de las casillas; y
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 d).- Los representantes de los partidos políticos acreditados ante el Consejo contarán con los formatos adecuados para anotar en ellas los resultados de la votación en las casillas.
 
@@ -3105,11 +3159,11 @@ d).- Los representantes de los partidos políticos acreditados ante el Consejo c
 
 ### CAPITULO TERCERO. DE LOS COMPUTOS DISTRITALES PARA LAS ELECCIONES DE DIPUTADOS DE MAYORIA RELATIVA Y DE GOBERNADOR DEL ESTADO
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 216.
 
-El cómputo distrital de una elección es la suma que realiza el Consejo Distrital Electoral, de los resultados anotados en las actas de escrutinio y cómputo de la casilla en los (sic) distrito electoral.
+El cómputo distrital de una elección es la suma que realiza el Consejo Distrital Electoral, de los resultados anotados en las actas de escrutinio y cómputo de las casillas en el distrito electoral.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
@@ -3159,11 +3213,11 @@ h).- Se harán constar en el acta circunstanciada de la sesión los resultados d
 
 Concluido el cómputo y emitida la declaración de validez de la elección de diputados, el presidente del Consejo Distrital expedirá la constancia de mayoría y validez a la fórmula de candidatos que haya obtenido el mayor número de votos.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 220.
 
-Los presidentes de los comités distritales fijarán en el exterior de sus locales al término de la sesión de cómputo distrital, los resultados de las elecciones.
+Los Presidentes de los Consejos Distritales fijarán en el exterior de sus locales al término de la sesión de cómputo distrital, los resultados de las elecciones.
 
 > <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
@@ -3203,11 +3257,13 @@ b).- Remitir al Consejo General del Instituto, una vez cumplido el plazo para la
 
 ### CAPITULO CUARTO. DEL COMPUTO PARA LA ELECCION DE GOBERNADOR
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 224.
 
-1.- Los Presidentes de los Comités Distritales y Municipal conservarán en su poder una copia certificada de todas las actas y documentación de cada uno de los expedientes de los cómputos distritales y municipales.
+1.- Los presidentes de los consejos distritales y municipales conservarán en su poder una copia certificada de todas las actas y documentación de cada uno de los expedientes de los cómputos distritales y municipales.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 2.- Así mismo, los presidentes tomarán las medias necesarias para el depósito, en el lugar señalado para tal efecto, de los sobres que contienen la documentación a que se refiere el artículo 218 de este Código hasta la calificación de todas las elecciones. Una vez realizada la calificación se procederá a su destrucción.
 
@@ -3319,7 +3375,13 @@ g).- Se asignará a cada partido político, tantas diputaciones como veces conte
 
 h).- Si quedaren diputaciones por repartir, se asignará una a cada partido, en el orden decreciente de los restos de votos no utilizados por cada uno de ellos, en el procedimiento anterior;
 
-i).- Las diputaciones obtenidas por cada uno de los Partidos, se asignarán a los candidatos según el orden en que aparezcan en sus respectivas listas registradas ante el Instituto Estatal Electoral;
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+i).- Las diputaciones obtenidas por cada uno de los partidos políticos se asignarán en la forma siguiente:
+
+I.- Según el orden en que aparezcan en sus respectivas listas registradas ante el Instituto Estatal Electoral, si optaron por el procedimiento establecido en el artículo 136 fracción 3 inciso a) de este Código.
+
+II.- Según el orden decreciente de la votación obtenida por sus candidatos en la elección por el principio de mayoría relativa, si optaron por el procedimiento establecido en el artículo 136 fracción 3 inciso b) de este Código;
 
 j).- La asignación de diputaciones por representación proporcional, se hará en primer término el partido que haya obtenido el mayor número de votos, y en el orden decreciente a los demás; y
 
@@ -3463,7 +3525,7 @@ El Tribunal funcionará siempre en pleno y sus resoluciones se tomarán por mayo
 
 Las sesiones del Tribunal serán públicas.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 248.
 
@@ -3475,7 +3537,7 @@ b).- Resolver en forma colegiada los asuntos de su competencia;
 
 c).- Formular los proyectos de resolución de los expedientes que le sean turnados para tal efecto;
 
-d).- Exponer en sesión pública, personalmente sus proyectos de resolución, señalando las consideraciones jurídicas y los preceptos en que se funde;
+d).- Exponer en sesión publica, personalmente sus proyectos de resolución, señalando las consideraciones jurídicas y los preceptos en que se funde;
 
 e).- Discutir y votar los proyectos de resolución que sean sometidos a su consideración;
 
@@ -3483,7 +3545,7 @@ f).- Formular voto particular razonado en caso de disentir de un proyecto de res
 
 g).- Solicitar al pleno que sus proyectos de resolución se agreguen a los expedientes como votos particulares cuando no sean aprobados por la mayoría;
 
-h).- Realizar los engroses de los fallos aprobados, cuando sean designados para tal efecto;
+h).- Realizar los engroses de los fallos aprobados, cuando sean designados para tal efecto; e
 
 i).- Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
 
@@ -3657,7 +3719,9 @@ b).- Tratándose de la elección de concejales se afecten las casillas en los po
 
 4.- El 20% en aquellos que tengan más de 30 secciones,
 
-Esto siempre cuando los motivos de nulidad sean determinantes para el resultado de la elección.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+Esto siempre y cuando los motivos de nulidad sean determinantes para el resultado de la elección.
 
 II.- Cuando exista violencia generalizada en un distrito electoral o municipio; y
 
@@ -3665,7 +3729,9 @@ III.- Cuando se hayan cometido violaciones substanciales en la jornada de la ele
 
 Se entiende por violaciones substanciales:
 
-a).- La realización de los escrutinios y cómputos en lugar que no llenen las condiciones (sic) por este código, o en lugar distinto al determinado previamente por el órgano electoral competente.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+a).- La realización de los escrutinios y cómputos en lugar (sic) que no llenen las condiciones señaladas por este Código, o en lugar distinto al determinado previamente por el órgano electoral competente.
 
 b).- La recepción de la votación se realice con una fecha distinta a la fecha señalada para la celebración de la elección; y
 
@@ -3747,7 +3813,9 @@ c).- Aquellos que estén autorizados para representarlos mediante mandato otorga
 
 3.- El escrito de protesta deberá contener:
 
-a).- El partido político que lo representa.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+a).- El partido político que lo presenta;
 
 b).- La mesa directiva de casilla ante la que se presenta.
 
@@ -3911,7 +3979,13 @@ g).- No se hayan presentado en tiempo los escritos de protesta o no reúnan los 
 
 h).- Se impugne más de una elección con un mismo recurso.
 
-2.- Procede el sobreseimiento de los recursos:
+2.- (DEROGADO, P.O. 24 DE MAYO DE 1995)
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1995)</small>
+
+###### ARTICULO 278-A.
+
+Procede el sobreseimiento de los recursos:
 
 a).- Cuando el promovente se desista expresamente;
 
@@ -3919,7 +3993,7 @@ b).- Cuando durante el procedimiento de un recurso de apelación el ciudadano re
 
 c).- Cuando la autoridad electoral modifique o revoque el acto o resolución impugnados, de tal manera que quede sin materia el recurso; y
 
-d).- Cuando durante el procedimiento sobrevenga alguna de las causas de improcedencia previstas en el párrafo primero de éste mismo artículo.
+d).- Cuando durante el procedimiento sobrevenga algunas de las causas de improcedencia previstas en el párrafo primero del artículo anterior.
 
 ### CAPITULO QUINTO. DE LA ACUMULACION
 
@@ -4378,3 +4452,11 @@ Quinto.- La LVI Legislatura de la Cámara de diputados procederá a ratificar o 
 Sexto.- Las disposiciones del artículo 10 inciso d), e) y f), entrarán en vigor a partir del proceso electoral de 1998.
 
 Séptimo.- Las disposiciones contenidas en la fracción 2 del artículo 63 entrarán en vigor a partir del proceso electoral de 1998; por lo que para el proceso electoral de 1995, el Presidente del Consejo General del Instituto Estatal Electoral será electo por las dos terceras partes de Congreso en base a una terna presentada por el Titular del Ejecutivo.
+
+P.O. 24 DE MAYO DE 1995.
+
+Primero.- El presente decreto entrara en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- La designación de los Magistrados del Tribunal Estatal Electoral que deberán actuar en el proceso electoral de 1995, se efectuará a más tardar en julio de 1995. Hasta en tanto el Congreso del Estado no designe a los integrantes del Tribunal Estatal Electoral en términos de las fracciones 2 y 3 del artículo 246 seguirán en funciones los integrantes de dicho tribunal designados hasta antes de la entrada en vigor de este decreto.
+
+Tercero.- Las disposiciones contenidas en el inciso a) del artículo 63, entrarán en vigor a partir del proceso electoral de 1998; por lo que para el proceso electoral de 1995 el Presidente del Consejo General del Instituto Estatal Electoral, será electo por las dos terceras partes del Congreso, en base a una terna presentada por el Titular del Ejecutivo, hasta en tanto el Consejo General seguirá funcionando con el Presidente del Consejo y Consejeros Magistrados designados hasta antes de la entrada en vigor de este decreto.
