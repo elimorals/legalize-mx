@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-para-el-desarrollo-integral-de-la-familia-6962"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-04"
-last_updated: "1993-02-04"
+last_updated: "1994-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de febrero de 1993.
 
@@ -243,7 +243,7 @@ El DIF emitirá opinión sobre el otorgamiento de subsidios a instituciones púb
 
 ###### ARTICULO 21.
 
-Las relaciones laborales entre el DIF y sus trabajadores, se sujetarán a la Ley del Servicio Civil para Empleados del Gobierno del Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1994)
 
 ### CAPITULO II
 
@@ -447,6 +447,10 @@ El Gobierno del Estado, a través del DIF, promoverá la organización y partici
 
 El Gobierno del Estado a través del DIF, pondrá especial atención en la promoción de acciones en beneficio de menores en estado de abandono, minusválidos, inválidos e incapaces física y mentalmente, para beneficiar a la comunidad.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 42 BIS.- El Sistema promoverá la constitución de Comisiones o Consejos con la participación de instituciones y unidades del gobierno federal, estatal y municipal, así como de carácter privado, que tendrán por objeto la investigación y el análisis de problemas relativos a la asistencia social que presta el Sistema que posibilite la emisión de opiniones sobre medidas de mayor beneficio tanto para los sujetos de la asistencia social como para la comunidad.
+
 ###### ARTICULO 43.
 
 El Gobierno del Estado a través del DIF, promoverá la organización y participación de la comunidad, para que, en base al apoyo y solidaridad social, coadyuven en la prestación de servicios asistenciales para el Desarrollo Integral de la Familia.
@@ -566,3 +570,9 @@ Oaxaca de Juárez, Oax., febrero 4 de 1993.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. AGUSTIN MARQUEZ URIBE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 1994.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
