@@ -4,7 +4,7 @@ identifier: "VER-ley-del-ejercicio-profesional-para-el-estado-de-veracruz-de-910
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-24"
-last_updated: "1970-03-03"
+last_updated: "1974-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE MARZO DE 1970.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE AGOSTO DE 1974.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 24 de diciembre de 1963.
 
@@ -234,6 +234,18 @@ II.- Poseer título legalmente expedido y debidamente registrado de acuerdo con 
 III.- Obtener en el Departamento de Profesiones patente de ejercicio.
 
 IV.- Para los profesionales no avecindados en el Estado, sólo se requiere la presentación de su patente de ejercicio expedida por la Dirección General de Profesiones, o por la correspondiente Dependencia, de otra Entidad.
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 1974)</small>
+
+V.- El Ejecutivo del Estado podrá celebrar convenios de coordinación con el Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, para unificar el registro profesional entre esta Entidad y el Distrito y Territorios Federales, conforme a las siguientes bases:
+
+a).- Instituir un sólo servicio de registro de títulos profesionales y grados académicos para la expedición de cédulas personales con efectos de patente para el ejercicio profesional y de identidad en las actividades profesionales.
+
+b).- Reconocer para el ejercicio profesional en el Estado, la cédula expedida por la Secretaría de Educación Pública, la cual no perderá su validez aunque se den por terminados los convenios.
+
+c).- Intercambiar la información que se requiera y
+
+d).- Las demás que tiendan al debido cumplimiento del objeto de los convenios.
 
 ###### ARTICULO 20.
 
@@ -562,3 +574,9 @@ La presente Ley surtirá sus efectos legales a partir de la fecha de su publicac
 G.O. 3 DE MARZO DE 1970.
 
 UNICO.- La presente Ley entrará en vigor a los tres días de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 31 DE AGOSTO DE 1974.
+
+PRIMERO.- Esta Ley entrará en vigor tres días después de su publicación, en la "Gaceta Oficial", órgano del Gobierno del Estado.
+
+SEGUNDO.- Mientras surtan efectos los convenios a que se refiere la fracción V que se adiciona al artículo 19, quedará en suspenso la vigencia de las facultades y obligaciones que conceden al Departamento de Profesiones las fracciones I, IV y VII del artículo 17, el requisito a que se contrae la fracción III del artículo 19 y demás disposiciones de esta Ley que se le opongan.
