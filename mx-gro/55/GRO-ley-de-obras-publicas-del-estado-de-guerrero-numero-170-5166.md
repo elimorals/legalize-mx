@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-obras-publicas-del-estado-de-guerrero-numero-170-5166"
 country: "mx"
 rank: "ley"
 publication_date: "1985-03-26"
-last_updated: "1985-03-26"
+last_updated: "2004-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE GUERRERO NUMERO 170
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE OBRAS PUBLICAS Y SUS SERVICIOS DEL ESTADO DE GUERRERO NUMERO 266, PUBLICADA EN EL P.O. DE 23 DE JULIO DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 26 de marzo de 1985.
 
@@ -684,3 +686,23 @@ PROFR. Y LIC. ALEJANDRO CERVANTES DELGADO.
 EL SECRETARIO DE GOBIERNO
 
 LIC. HUMBERTO SALGADO GOMEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE JULIO DE 2004.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del día 1o. de enero del 2005.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se abroga la Ley de Obras Públicas del Estado de Guerrero, Número 170, publicada en el Periódico Oficial del Gobierno del Estado el 26 de marzo de 1985 y se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+CUARTO.- Las disposiciones administrativas expedidas en materia de transmisión electrónica de datos se seguirá aplicando, en todo lo que no se oponga a la presente Ley.
+
+QUINTO.- Los procedimientos de contratación; de aplicación de sanciones y de inconformidades, así como los demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en que se iniciaron.
+
+Los contratos de obras públicas y sus servicios que se encuentren vigentes al entrar en vigor esta Ley, continuarán rigiéndose con las disposiciones vigentes en el momento en que se celebraron.
+
+SEXTO.- A partir de que entre en vigor la presente Ley, la contratación de la obra pública se hará con apego a lo estipulado en este ordenamiento.
+
+SEPTIMO.- En tanto se expide el Reglamento de esta Ley, supletoriamente y en lo que no se oponga a la misma se aplicará el Reglamento de la Ley de Obras Públicas y Servicios relacionados con las mismas, publicado en el Diario Oficial de la Federación el 20 de agosto de 2001.
