@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-11765"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-08"
-last_updated: "1998-02-08"
+last_updated: "2004-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ESTATAL DEL DEPORTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2004.
 
 Ley publicada en el Suplemento al Número 6 del Periódico Oficial del Estado de Aguascalientes, el domingo 8 de febrero de 1998.
 
@@ -61,19 +61,31 @@ La participación en el Sistema Estatal del Deporte será obligatoria para las d
 
 Las autoridades, organismos e instituciones deportivas del Estado y los Municipios deberán observar que sus planes, programas y acciones, atiendan a los siguientes principios:
 
-I.- El deporte constituye un derecho del ser humano, por lo que debe fomentarse el ejercicio de la actividad física y recreativa, de manera ordenada y regulada;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2004)</small>
 
-II.- El deporte es formativo y coadyuva al desarrollo integral del ser humano, en lo individual, familiar y social;
+I.- Fomento y desarrollo de la Cultura Física en todas sus manifestaciones y expresiones para elevar el nivel de vida social y cultural de los habitantes del Estado, y sus municipios, motivar la recreación, la vida en la naturaleza, la disciplina, organización y competitividad para generar ciudadanos sanos que respeten las leyes y actúen solidariamente con los demás para lograr una convivencia pacífica;
 
-III.- El deporte constituye una alternativa para fortalecer los planes y programas educativos, de salud, de productividad y de formación personal;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2004)</small>
 
-IV.- Promover y fomentar el deporte, así como su difusión e investigación;
+II.- El deporte constituye un derecho del ser humano, por lo que debe fomentarse el ejercicio de la actividad física y recreativa, de manera ordenada y regulada, incluyendo el deporte adaptado para personas con capacidades diferentes;
 
-V.- Respetar las manifestaciones deportivas que se desarrollen lícitamente;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2004)</small>
 
-VI.- Establecer los mecanismos que faciliten el acceso a las actividades deportivas, para que éstas lleguen a todos los miembros de la comunidad; y
+III.- El deporte es formativo y coadyuva al desarrollo integral del ser humano, en lo individual, familiar y social;
 
-VII.- Fomentar el alto rendimiento deportivo, estableciendo apoyos, estímulos, becas o recompensas, en favor de las personas y organismos que lo ameriten por su trayectoria y resultados.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2004)</small>
+
+IV.- El deporte constituye una alternativa para fortalecer los planes y programas educativos, de salud, de productividad y de formación personal;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2004)</small>
+
+V.- Promover y fomentar el deporte en todos sus ámbitos incluido el deporte adaptado, así como su difusión, e investigación;
+
+VI.- Respetar las manifestaciones deportivas que se desarrollen lícitamente;
+
+VII.- Establecer los mecanismos que faciliten el acceso a las actividades deportivas, para que éstas lleguen a todos los miembros de la comunidad; y
+
+VIII.- Fomentar el alto rendimiento deportivo, estableciendo apoyos, estímulos, becas o recompensas, en favor de las personas y organismos que lo ameriten por su trayectoria y resultados.
 
 ###### ARTICULO 5o.
 
@@ -103,17 +115,21 @@ II.- Ser el órgano rector de la política deportiva estatal;
 
 III.- Crear y mantener actualizado el Registro del Sistema Estatal del Deporte;
 
-IV:- Representar al deporte estatal ante las autoridades e instancias que sea necesario;
+IV.- Representar al deporte estatal ante las autoridades e instancias que sea necesario;
 
 V.- Determinar el uso de los espacios de carácter público estatal destinados a las áreas deportivas, así como intervenir y emitir su opinión en la creación de nuevos espacios destinados al deporte;
 
-VI.- Planear, fomentar, promover, desarrollar, estimular, fijar lineamientos y vigilar la práctica y enseñanza del deporte, la cultura física y el desarrollo integral de la juventud entre la población en general;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2004)</small>
+
+VI.- Planear, fomentar, promover, desarrollar, estimular, fijar lineamientos y vigilar la práctica y enseñanza del deporte, la cultura física y el desarrollo integral de la juventud entre la población en general; así como de las personas con capacidades diferentes;
 
 VII.- Planear, fomentar, promover, desarrollar, estimular, fijar lineamientos y vigilar la práctica y enseñanza del deporte, la cultura física y el desarrollo integral de las personas con discapacidad, cuidando, vigilando y exigiendo que las instalaciones deportivas sean adecuadas para su libre acceso, desarrollo y práctica del deporte, pudiendo asimismo operar establecimientos que coadyuven a la rehabilitación integral de jóvenes con problemas de carácter físico, mental y de adaptación social;
 
 VIII.- Poner en marcha acciones, con base en las opiniones del Consejo del Sistema Estatal del Deporte;
 
-IX.- Otorgar reconocimientos y estímulos a las personas, entidades y organizaciones sociales que se hayan destinguido (sic) o se distingan por sus actividades en el fomento, difusión, promoción e investigación deportiva y de cultura física; así como a las personas que en lo individual o colectivo, hayan sobresalido en materia deportiva, en eventos estatales, nacionales o internacionales;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2004)</small>
+
+IX.- Otorgar reconocimientos y estímulos a las personas, y organizaciones sociales que se hayan distinguido o se distingan por sus actividades en el fomento, difusión, promoción e investigación deportiva y de cultura física; así como a las personas que en lo individual o colectivo, hayan sobresalido en materia deportiva, en eventos estatales, nacionales o internacionales, incluyendo a las personas que practican el deporte adaptado para capacidades diferentes;
 
 X.- Establecer acuerdos y convenios para la consecución de sus fines, de conformidad con la Ley;
 
@@ -143,13 +159,17 @@ Los Ayuntamientos que se integren al Sistema Estatal del Deporte tendrán las si
 
 I.- Planear, programar y determinar sus necesidades en materia deportiva, y los medios para satisfacerlos, de acuerdo con el Sistema Estatal del Deporte;
 
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2004)</small>
+
 II.- Determinar y otorgar los estímulos y apoyos para la organización, difusión, desarrollo y fomento de las actividades deportivas en el área de su jurisdicción, así como de la cultura física;
 
 III.- Promover la creación, mantenimiento y preservación de instalaciones, unidades y espacios deportivos;
 
 IV.- Promover la creación y apoyar a los organismos locales, para que desarrollen actividades deportivas e incorporarlos al Sistema Estatal del Deporte;
 
-V.- Prever que las personas con discapacidad tengan las facilidades e instalaciones deportivas adecuadas para su libre acceso, desarrollo y práctica del deporte;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2004)</small>
+
+V.- Prever que, además de fomentar, estimular y difundir y organizar el deporte de las personas con capacidades diferentes, tengan las facilidades de instalaciones deportivas adecuadas para su acceso, desarrollo y práctica del deporte;
 
 VI.- Destinar los recursos considerados en su presupuesto de egresos para el fomento, difusión, promoción e investigación del deporte y la cultura física.
 
@@ -171,7 +191,9 @@ V.- Emitir los Reglamentos y disposiciones de observancia general para regular l
 
 VI.- Editar libros, revistas, folletos, reglamentos y cualquier documento que promueva el deporte y la cultura física;
 
-VII.- Otorgar reconocimientos y estímulos a deportistas, personas y organizaciones públicas y privadas, de destacada trayectoria en materia deportiva.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2004)</small>
+
+VII.- Otorgar reconocimientos y estímulos a deportistas, personas con capacidades diferentes y organizaciones públicas y privadas, de destacada trayectoria en materia deportiva.
 
 ###### ARTICULO 12.
 
@@ -201,13 +223,21 @@ II.- Deporte para todos;
 
 III.- Deporte estudiantil;
 
-IV.- Deporte asociado;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2004)</small>
 
-V.- Deporte de alto rendimiento;
+IV.- Deporte para personas con capacidades diferentes;
 
-VI.- Deporte adaptado;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2004)</small>
 
-VII.- La capacitación y formación de entrenadores deportivos; y
+V.- Deporte asociado;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2004)</small>
+
+VI.- Deporte de alto rendimiento;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2004)</small>
+
+VII.- La capacitación y formación de entrenadores deportivos; e
 
 VIII.- Instalaciones deportivas.
 
@@ -221,11 +251,17 @@ b).- Deporte para todos, al que tiene como objetivo contribuir al bienestar indi
 
 c).- Deporte estudiantil, aquél que agrupa a los deportistas que pertenecen al Sistema Educativo Estatal, de conformidad a la Ley de Educación del Estado.
 
-d).- Deporte asociado, aquél que está formado por ligas estatales, regionales o filiales de la misma disciplina deportiva, clubes, equipos o deportistas, que se integran de manera legal con el objetivo de realizar competencias entre sí o bien, para seleccionar deportistas o equipos representativos del Estado y que se rigen por estatutos o reglamentos propios.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2004)</small>
 
-e).- Deporte de alto rendimiento, el que se lleva a cabo en competencias nacionales, internacionales, mundiales u olímpicas.
+d).- Deporte para personas con capacidadades diferentes; aquél que promueve y fomenta la participación de personas con alguna capacidad motora, auditiva, visual, de lenguaje o mental diferente, para lograr el bienestar y su desarrollo personal con la práctica de actividades físicas y deportivas;
 
-f).- Deporte adaptado, aquél que es practicado por personas con discapacidad de carácter físico o mental y que requieren de instalaciones deportivas especiales, rigiéndose por estatutos y reglamentos particulares.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2004)</small>
+
+e).- Deporte asociado, aquél que está formado por ligas estatales, regionales o filiales de la misma disciplina deportiva, clubés, equipos o deportistas, que se integran de manera legal con el objetivo de realizar competencias entre sí o bien, para seleccionar deportistas o equipos representativos del Estado y que se rigen por estatutos o reglamentos propios y que requieren de instalaciones deportivas especiales, rigiéndose por estatutos y reglamentos particulares;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2004)</small>
+
+f).- Deporte de alto rendimiento, el que se lleva a cabo en competencias nacionales, internacionales, mundiales u olímpicas.
 
 ###### ARTICULO 17.
 
@@ -243,9 +279,13 @@ El organismo público rector del deporte y el Instituto de Educación de Aguasca
 
 El Programa Estatal del Deporte deberá establecer los mecanismos necesarios de coordinación con las asociaciones e instituciones que realicen actividades deportivas para que, en forma corresponsable, los instructores, entrenadores y técnicos dedicados a la actividad deportiva que se encuentren dados de alta en el Registro Estatal del Deporte reciban los beneficios académicos y de capacitación que se impartan y cuenten con el reconocimiento oficial.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 21.
 
-Corresponde al organismo público rector del deporte implementar cursos de formación, capacitación y actualización para entrenadores e instructores deportivos, y coordinar las actividades competentes al desarrollo del deporte para personas con discapacidad y senectos.
+Corresponde al organismo público rector del deporte implementar cursos de formación, capacitación y actualización para entrenadores e instructores deportivos, y coordinar las actividades competentes al desarrollo del deporte para personas con discapacidades diferentes y senectos.
+
+Asimismo, integrar el padrón de deportistas con Capacidades diferentes, a efecto de que, el organismo público rector del deporte, distribuya el presupuesto asignado en forma proporcional al porcentaje que le corresponde en relación con los demás deportistas del Estado.
 
 ### CAPITULO II. De la Participación del Sector Privado
 
@@ -580,3 +620,11 @@ Otto Granados Roldán.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jesús Orozco Castellanos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE OCTUBRE DE 2004.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto enbará (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
