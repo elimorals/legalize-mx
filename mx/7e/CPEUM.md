@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1947-02-12"
+last_updated: "1947-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,97 +20,69 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE FEBRERO DE 1947.
+CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN
 
-Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
 
-El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
+Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
-VENUSTIANO CARRANZA, Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de los Estados Unidos Mexicanos, hago saber:
+EL CIUDADANO ALFONSO MARTINEZ DOMINGUEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
 
-Que el Congreso Constituyente reunido en esta ciudad el 1o. de diciembre de 1916, en virtud del decreto de convocatoria de 19 de septiembre del mismo año, expedido por la Primera Jefatura, de conformidad con lo prevenido en el artículo 4o. de las modificaciones que el 14 del citado mes se hicieron al decreto de 12 de diciembre de 1914, dado en la H. Veracruz, adicionando el Plan de Guadalupe, de 26 de marzo de 1913, ha tenido a bien expedir la siguiente:
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
-CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, QUE REFORMA LA DE 5 DE FEBRERO DE 1857.
+D E C R E T O N U M. 2 1 3
+
+CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
-## TITULO PRIMERO.
+## TITULO I. Disposiciones Generales
 
-### CAPITULO I.
+### CAPITULO UNICO
 
-DE LAS GARANTIAS INDIVIDUALES.
+###### ARTICULO 1.
 
-###### Artículo 1.
+Las personas físicas y las morales están obligadas a contribuir para el gasto público del Estado conforme a las leyes fiscales respectivas. Las disposiciones de este Código se aplicarán en su defecto.
 
-Las disposiciones de este Código son de orden público, interés general y observancia obligatoria en los Municipios del Estado de Veracruz-Llave, excepto en aquellos a quienes el Congreso les hubiere aprobado un Código Hacendario propio, y tienen por objeto regular:
+El Estado, los Municipios y sus organismos descentralizados quedan obligados a pagar contribuciones únicamente cuando las leyes lo señalen expresamente.
 
-I. La planeación, programación y presupuestación del gasto público;
+Las personas que de conformidad con las leyes fiscales no estén obligadas a pagar contribuciones, únicamente tendrán las otras obligaciones que establezcan en forma expresa las propias leyes.
 
-II. La administración financiera y tributaria de la Hacienda Municipal;
+###### ARTICULO 2.
 
-III. Las normas que regulan las contribuciones, aprovechamientos y productos;
+Son leyes fiscales locales, además del presente Código:
 
-IV. La administración de los recursos humanos, financieros y materiales;
+I.- La Ley de Ingresos del Estado y de los Municipios.
 
-V. La integración de la cuenta pública municipal;
+II.- La Ley de Hacienda del Estado y de los Municipios.
 
-VI. La administración y contratación de su deuda pública; y
+III.- Las que autoricen ingresos extraordinarios.
 
-VII. El dominio y la administración de sus bienes.
+IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-###### Artículo 2.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-Para los efectos de este Código se entenderá por:
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-I. Administración Pública Municipal: El conjunto de instituciones gubernamentales que aplican políticas, normas, técnicas, sistemas y procedimientos, a través de los cuales se prestan servicios que demanda la sociedad, en cumplimiento a las atribuciones que las Constituciones Federal y Estatal confieren al Ayuntamiento;
+V.- La Ley de Desarrollo Urbano del Estado.
 
-II. Autoridades fiscales: Aquellas a las que se refiere el artículo 14 de este Código;
+VI.- Las que organicen los servicios administrativos para la recaudación, distribución y control de los ingresos.
 
-III. Ayuntamiento: El Cuerpo Colegiado integrado por el Presidente Municipal, Síndico y Regidores, elegidos en términos de la legislación aplicable.
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
-En los casos en que el órgano de gobierno sea un Concejo Municipal, le serán aplicables las disposiciones de este Código referidas al Ayuntamiento.
+VII.- Las demás leyes de carácter fiscal.
 
-IV. Cabildo: El órgano deliberativo del Ayuntamiento de cada uno de los Municipios del Estado, conformado por la reunión de Ediles y del Secretario que da fe, y que resuelve, de manera colegiada, los asuntos relativos al ejercicio de sus atribuciones de gobierno, políticas y administrativas;
+Los reglamentos de las leyes fiscales citadas participarán de la misma naturaleza de éstas.
 
-V. Código de Procedimientos Administrativos: El Código de Procedimientos Administrativos para el Estado de Veracruz-Llave;
+Las Leyes de Egresos del Estado y de los Municipios regularán el gasto público.
 
-VI. Comisión de Hacienda: La Comisión de Hacienda y Patrimonio Municipal del Ayuntamiento;
+El presente Código que regula la actividad fiscal del Estado, tendrá aplicación para normar la relativa a los Municipios, salvo que dicha actividad municipal por su naturaleza le resulte oponible.
 
-VII. Congreso: El Congreso del Estado de Veracruz-Llave;
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-VIII. Contribuyente: Persona física o moral obligada al pago de las contribuciones municipales, al haber actualizado el supuesto previsto por las leyes fiscales;
-
-IX. Dependencias: Los órganos de la Administración Pública Centralizada del Ayuntamiento;
-
-X. Entidades: Los organismos públicos descentralizados, los fideicomisos públicos municipales y las empresas de participación municipal mayoritaria, de la administración pública paramunicipal;
-
-XI. Erario: Conjunto de recursos monetarios y medios de pago que tiene el Municipio, para el cumplimiento de sus fines;
-
-XII. Fisco: La autoridad fiscal u organismo encargado de recaudar o realizar el cobro coactivo de los ingresos del Municipio;
-
-XIII. Gaceta Oficial: El órgano informativo oficial del Gobierno del Estado de Veracruz-Llave;
-
-XIV. Gobierno del Estado: El Gobierno del Estado de Veracruz-Llave;
-
-XV. Ley de Catastro: La Ley de Catastro del Estado de Veracruz-Llave;
-
-XVI. Ley de Coordinación Fiscal: La Ley de Coordinación Fiscal en el ámbito federal;
-
-XVII. Municipio: Cualquiera de los Municipios del Estado de Veracruz-Llave;
-
-XVIII. Oficina Ejecutora: La oficina de Ejecución Fiscal de la Tesorería o su equivalente, encargada del cobro coactivo de un crédito fiscal;
-
-XIX. Presidente: El Presidente Municipal del Ayuntamiento;
-
-XX. Reglas, normas o disposiciones de carácter general: Aquellas que el Cabildo apruebe y publique, de conformidad por lo establecido por este Código, para conceder derechos o imponer obligaciones a los sujetos pasivos de la relación tributaria;
-
-XXI. Síndico: El Síndico del Ayuntamiento;
-
-XXII. Tesorería: La Tesorería del Ayuntamiento; y
-
-XXIII. Tesorero: El Titular de la Tesorería del Ayuntamiento.
+De acuerdo con lo anterior, tratándose de la actividad fiscal del Municipio, en todos los casos que este Código se refiera al Secretario de Finanzas y Tesorero General del Estado o la Secretaría de Finanzas y Tesorería General del Estado, se entenderá referido al Tesorero Municipal o a la Tesorería Municipal, del Municipio de que se trate.
 
 ###### Art. 1o.
 
@@ -452,33 +424,57 @@ Tampoco constituyen monopolios las asociaciones o sociedades cooperativas de pro
 
 En los casos de invasión, perturbación grave de la paz pública, o de cualquiera otro que ponga a la sociedad en grande peligro o conflicto, solamente el Presidente de la República Mexicana, de acuerdo con el Consejo de Ministros, y con aprobación del Congreso de la Unión, y en los recesos de éste, de la Comisión Permanente, podrá suspender en todo el país, o en lugar determinado las garantías que fuesen obstáculo para hacer frente, rápida y fácilmente, a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la suspensión se contraiga a determinado individuo. Si la suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación. Si la suspensión se verificase en tiempo de receso, se convocará sin demora al Congreso para que las acuerde.
 
-### CAPITULO II.
+### CAPITULO UNICO. De los Derechos y Obligaciones de los Contribuyentes
 
-DE LOS MEXICANOS.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1934)</small>
+###### ARTICULO 3.
 
-###### Artículo 3.
+Las contribuciones se clasifican en impuestos, derechos y contribuciones especiales, los que se definen de la siguiente manera:
 
-La Hacienda Pública Municipal se formará por los bienes del dominio público municipal y por los rendimientos de los bienes que le pertenezcan, de conformidad con la legislación aplicable; así como por las aportaciones voluntarias, los impuestos, derechos, productos, aprovechamientos, participaciones, tasas adicionales establecidas por el Congreso sobre la propiedad inmobiliaria, la de su fraccionamiento, división, consolidación, traslación y mejoras, las que tengan por base el cambio de valor de los inmuebles y todos los demás ingresos fiscales que aquél establezca a su favor, en términos de las disposiciones legales aplicables.
+I.- Impuestos son las prestaciones establecidas en ley que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hecho prevista por la misma y que sean distintas de las señaladas en las fracciones II y III de este artículo.
 
-###### Artículo 4.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-Todos los recursos públicos pertenecientes al Municipio ingresarán a la Tesorería, con excepción de los casos expresamente señalados en el presente ordenamiento y demás disposiciones legales aplicables. El Ayuntamiento, previo convenio que al respecto celebre, podrá autorizar a instituciones bancarias, crediticias o comerciales a recibir el pago de las contribuciones y otros ingresos fiscales previstos en este Código.
+II.- Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público.
 
-###### Artículo 5.
+III.- Contribuciones especiales son las prestaciones cuyo presupuesto de hecho se caracteriza por un beneficio económico particular proporcionado al contribuyente por la realización de obras públicas o de tareas estatales o municipales provocadas por las actividades del contribuyente. Su rendimiento no debe tener un destino ajeno al financiamiento de las obras o actividades correspondientes.
 
-La Tesorería ejercerá los recursos públicos de acuerdo con las disposiciones de la Ley Orgánica del Municipio Libre y de este Código y con base en el presupuesto de egresos aprobado por el Cabildo.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2006)</small>
 
-###### Artículo 6.
+Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el penúltimo párrafo del artículo 22 de este Código, son accesorios de las contribuciones y participan de la naturaleza de éstas.
 
-Las finanzas públicas municipales estarán apegadas a criterios de racionalidad y de estricta disciplina fiscal, de manera que para cada año el nivel de gasto que se establezca, aprobado por el Cabildo, sea igual o inferior a los ingresos previstos para el mismo ejercicio fiscal.
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
-El incumplimiento de lo dispuesto en el párrafo anterior será sancionado por la autoridad competente, en los términos de la Ley Orgánica del Municipio Libre.
+###### ARTICULO 4.
 
-###### Artículo 7.
+Son aprovechamientos los ingresos distintos de las contribuciones que percibe el Estado por funciones de derecho público, los ingresos derivados de financiamientos y los que obtengan los organismos descentralizados que no tengan la naturaleza de derechos.
 
-El Ayuntamiento, para casos excepcionales, podrá recurrir al endeudamiento directo como fuente de recursos, previa autorización del Congreso y en los términos establecidos en el presente Código.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2006)</small>
+
+Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el penúltimo párrafo del artículo 22 de este Código, que se aplican en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
+
+Son productos, las contraprestaciones por los servicios que preste el Estado en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado.
+
+###### ARTICULO 5.
+
+Son participaciones los ingresos provenientes de contribuciones y aprovechamientos federales o municipales que tiene derecho a percibir el estado por Disposición Constitucional, por virtud de su adhesión al sistema nacional de coordinación fiscal, o por las leyes fiscales respectivas.
+
+###### ARTICULO 6.
+
+Son créditos fiscales los que tenga derecho a percibir el Estado o sus organismos descentralizados que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo, los que deriven de responsabilidades que el Estado tenga derecho a exigir de sus funcionarios o empleados o de los particulares, así como aquéllos a los que las leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
+
+La recaudación proveniente de todos los ingresos del Estado, aún cuando se destinen a un fin específico, se hará a través de la Secretaría de Finanzas y Tesorería General del Estado, la cual podrá ser auxiliada por otras dependencias oficiales o por organismos públicos o privados, por disposición de la ley o por autorización de dicha Secretaría.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Para efectos del párrafo anterior, las autoridades que remitan créditos fiscales a la Secretaría de Finanzas y Tesorería General del Estado para su cobro, deberán cumplir con los requisitos que mediante reglas de carácter general establezca dicha autoridad.
+
+###### ARTICULO 7.
+
+Las disposiciones fiscales que establezcan cargas a los particulares y las que señalan excepciones a las mismas, así como las que fijan las infracciones y sanciones, son de aplicación estricta. Se considera que establecen cargas a los particulares las normas que se refieren al sujeto, objeto, base, tasa o tarifa.
+
+Las otras disposiciones fiscales se interpretarán de acuerdo con los fines para los cuales fueron establecidas, pudiendo aplicarse cualquier método de interpretación jurídica. A falta de norma fiscal expresa, la aplicación podrá integrarse considerando disposiciones de derecho común, cuando su aplicación no sea contraria a la naturaleza del derecho fiscal.
 
 ###### Art. 30.
 
@@ -520,21 +516,47 @@ Los mexicanos serán preferidos a los extranjeros en igualdad de circunstancias,
 
 Para pertenecer a la Marina Nacional de Guerra o a la Fuerza Aérea, y desempeñar cualquier cargo o comisión en ellas, se requiere ser mexicano por nacimiento. Esta misma calidad será indispensable en Capitanes, Pilotos, Patrones, Maquinistas, Mecánicos y, de una manera general, para todo el personal que tripule cualquier embarcación o aeronave que se ampare con la bandera o insignia mercante mexicana. Será también necesaria la calidad de mexicano por nacimiento para desempeñar los cargos de Capitán de Puerto, y todos los servicios de practicaje y Comandante de Aeródromo, así como todas las funciones de Agente Aduanal en la República.
 
-### CAPITULO III.
+### CAPITULO UNICO
 
-DE LOS EXTRANJEROS.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-###### Artículo 8.
+###### ARTICULO 8.
 
-Para los efectos de este Código, los plazos se computarán por días hábiles, excepto los establecidos en los Libros Cuarto y Quinto, así como en disposiciones expresas en contrario.
+Las contribuciones se causan conforme se realizan las situaciones jurídicas o de hecho, previstas en las leyes fiscales.
 
-###### Artículo 9.
+Dichas contribuciones se determinarán conforme a las disposiciones vigentes en el momento de su causación, pero les serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
 
-Las disposiciones de este Libro regulan las relaciones jurídicas entre las autoridades fiscales, los sujetos pasivos de la relación tributaria y los responsables solidarios de éstos, con motivo del nacimiento, extinción, cumplimiento o incumplimiento de las obligaciones fiscales, así como los procedimientos administrativos correspondientes.
+Corresponde a los contribuyentes la determinación de las contribuciones a su cargo, salvo disposición expresa en contrario. Si las autoridades fiscales deben hacer la determinación, los contribuyentes les proporcionarán la información necesaria dentro de los 15 días siguientes a la fecha de su causación.
 
-###### Artículo 10.
+Las contribuciones se pagan en la fecha o dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa el pago deberá hacerse mediante declaración que se presentará ante las oficinas autorizadas a más tardar el día 15 del mes de calendario inmediato posterior al de su causación, retención o recaudación.
 
-La aplicación de las disposiciones de este Libro corresponde al Ayuntamiento, por conducto de las autoridades fiscales Municipales.
+En el caso de contribuciones que se deben pagar mediante retención, aún cuando quien deba efectuarla no la retenga, estará obligado a enterar una cantidad equivalente a la que debió haber retenido.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+Quien haga pago de créditos fiscales deberá obtener de la oficina recaudadora, el recibo oficial en la forma valorada, expedidos y controlados exclusivamente por la Secretaría de Finanzas y Tesorería General del Estado, o la documentación que en las disposiciones respectivas se establezca, en la que conste la impresión original de la máquina registradora o en su caso, el señalamiento de que se realizó el pago mediante transferencia electrónica de fondos, de acuerdo a las reglas generales que emita dicha Secretaría.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+
+###### ARTICULO 9.
+
+El cumplimiento de las leyes fiscales, no podrá eludirse por la simulación de actos jurídicos regidos por disposiciones de derecho privado que signifiquen el desconocimiento de una obligación de carácter fiscal. En tales casos la obligación con todo y sus accesorios, que se pretende eludir, deberá cumplirse plenamente aplicando además las sanciones respectivas por las infracciones en que se hubiere incurrido.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Los actos jurídicos que carezcan de una razón de negocios y que generen un beneficio fiscal directo o indirecto, tendrán los efectos fiscales que correspondan a los que se habrían realizado para la obtención del beneficio económico razonablemente esperado por el contribuyente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+En el ejercicio de sus facultades de comprobación, la autoridad fiscal podrá presumir que los actos jurídicos carecen de una razón de negocios con base en los hechos y circunstancias del contribuyente conocidos al amparo de dichas facultades, así como de la valoración de los elementos, la información y documentación obtenidos durante las mismas. No obstante lo anterior, dicha autoridad fiscal no podrá desconocer para efectos fiscales los actos jurídicos referidos, sin que antes se dé a conocer dicha situación en la última acta parcial a que se refiere la fracción IV del artículo 48 de este Código, en el oficio de observaciones a que se refiere la fracción IV del artículo 50 de este Código, y que hayan transcurrido los plazos a que se refieren los artículos anteriores, para que el contribuyente manifieste lo que a su derecho convenga y aporte la información y documentación tendiente a desvirtuar la referida presunción.
+
+###### ARTICULO 10.
+
+Las leyes fiscales, sus reglamentos y las disposiciones fiscales de carácter general, entrarán en vigor en el Estado, el día siguiente al de su publicación en el Periódico Oficial, salvo que en ellas se establezca una fecha posterior.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Cuando en este Código o en otras leyes fiscales del Estado se haga referencia a una cuota, se entiende la Unidad de Medida y Actualización vigente.
 
 ###### Art. 33.
 
@@ -542,27 +564,59 @@ Son extranjeros los que no posean las calidades determinadas en el artículo 30.
 
 Los extranjeros no podrán de ninguna manera inmiscuirse en los asuntos políticos del país.
 
-### CAPITULO IV.
+### CAPITULO I. De las Infracciones
 
-DE LOS CIUDADANOS MEXICANOS.
+###### ARTICULO 11.
 
-###### Artículo 11.
+Se considera domicilio fiscal:
 
-Para los efectos de este Código se consideran leyes fiscales municipales:
+I.- Tratándose de personas físicas:
 
-I. El presente Código;
+A).- El local en que se encuentre el principal asiento de sus negocios, cuando realizan actividades empresariales.
 
-II. La Ley de Ingresos del Municipio; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
 
-III. Los demás ordenamientos de naturaleza fiscal, que aplique el Municipio, por prever disposiciones de su competencia, o las que deba ejercer como consecuencia de la suscripción de convenios.
+B).- El lugar que utilicen como base para el desempeño de sus actividades, cuando no realicen las actividades señaladas en el inciso anterior.
 
-La aplicación de los ordenamientos a que se refiere este artículo corresponde a las autoridades fiscales.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
 
-###### Artículo 12.
+C).- En los demás casos, el lugar que ocupen como casa habitación.
 
-El Ayuntamiento podrá dictar reglas de carácter general, para modificar o adicionar el control y forma de pago, siempre que no varíe en forma alguna el sujeto, objeto, base, cuota, tasa o tarifa de las contribuciones y sus accesorios, infracciones y sanciones, de acuerdo a lo dispuesto en este Código.
+II.- En el caso de personas morales:
 
-Por conducto del Presidente y del Síndico, el Municipio podrá celebrar los convenios de colaboración administrativa a que se refiere el artículo 295 de este Código.
+A).- El local en donde se encuentre la administración principal del negocio, cuando sean residentes en la Entidad; en su defecto, donde se encuentre el principal establecimiento.
+
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2007)</small>
+
+B).- El lugar donde se establezcan, si se trata de sucursales o agencias de empresas establecidas fuera del Estado o de negociaciones extranjeras. En el caso de existir varios establecimientos, el local en donde se encuentre la administración principal del negocio en la Entidad, o en su defecto el que designen.
+
+III.- Tratándose de personas físicas o morales:
+
+A).- Si se trata de créditos fiscales que tengan relación con bienes inmuebles, se considerará como domicilio del deudor el predio edificado y si no lo hubiere, el último domicilio que se hubiere comunicado por escrito a la Secretaría de Finanzas y Tesorería General del Estado, o a sus oficinas recaudadoras.
+
+B).- Si residen fuera del Estado, pero realizan actividades gravadas en éste a través de representantes, se considerará como domicilio el de dichos representantes.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligados a ello, o hubieran designado como domicilio fiscal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto o cuando a juicio de la autoridad, hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar en el que realicen sus actividades o en el lugar que conforme a este artículo se considere su domicilio, indistintamente.
+
+###### ARTICULO 12.
+
+Cuando las leyes fiscales establezcan que las contribuciones se calcularán por ejercicios fiscales, se aplicarán a estos las siguientes reglas:
+
+I.- El ejercicio fiscal de las personas morales que no tengan ejercicio social y el de las personas físicas, coincidirá con el año de calendario.
+
+II.- Las personas morales que tengan ejercicio social, su ejercicio fiscal coincidirá con éste, salvo en el caso del ejercicio de liquidación, y deberá reunir los siguientes requisitos:
+
+A).- El ejercicio regular abarcará siempre doce meses y el irregular un período menor.
+
+B).- Los ejercicios terminarán el día último del mes de calendario que el contribuyente elija.
+
+En los casos en que una sociedad entre en liquidación o sea fusionada, el ejercicio fiscal terminará anticipadamente, en su caso, en la fecha en que entre en liquidación o se fusione. En el primer caso, simultáneamente con la presentación de la declaración del ejercicio se deberá garantizar el interés fiscal y se considerará que habrá un ejercicio durante todo el tiempo en que la sociedad esté en liquidación. En el caso de fusión, la sociedad que subsista o surja presentará las declaraciones del ejercicio de la sociedad que desaparece.
+
+Cuando una sociedad no se encuentre en los supuestos del párrafo anterior y desee anticipar la fecha de terminación de sus ejercicios deberá presentar aviso ante las autoridades fiscales. Tratándose de la segunda y posteriores ocasiones en que se desee efectuar dicho cambio, deberán haber transcurrido cuando menos cinco años desde el último cambio, para que éste se pueda efectuar con la simple presentación de un aviso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, 31 DE DICIEMBRE DE 2006)</small>
 
 ###### Art. 34.
 
@@ -646,33 +700,35 @@ VI.- Por sentencia ejecutoria que imponga como pena esa suspensión.
 
 La ley fijará los casos en que se pierden, y los demás en que se suspenden los derechos de ciudadano, y la manera de hacer la rehabilitación.
 
-## TITULO SEGUNDO.
+## TITULO II
 
-### CAPITULO I.
+### CAPITULO II. De los Delitos Fiscales
 
-DE LA SOBERANIA NACIONAL Y DE LA FORMA DE GOBIERNO.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-###### Artículo 13.
+###### ARTICULO 13.
 
-Cuando las leyes fiscales establezcan que las contribuciones se calcularán por ejercicios, éstos se entenderán del primero de enero al treinta y uno de diciembre del año de que se trate.
+En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1o. y 5 de mayo; el 3 de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Local; el 16 de septiembre; el 12 de octubre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre.
 
-###### Artículo 14.
+Tampoco se contará en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales estatales. No son vacaciones generales si se llegan a otorgar en forma escalonada.
 
-En el Municipio son autoridades fiscales:
+En los plazos establecidos por períodos y aquéllos en que se señale una fecha determinada para su extinción se computarán todos los días.
 
-I. El Ayuntamiento;
+Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario, se entenderá que en el primer caso el plazo concluye el mismo día del mes de calendario posterior a aquél en que se inició y en el segundo, el término vencerá el mismo día del siguiente año de calendario a aquél en que se inició. En los plazos que se fijen por mes o por año cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
 
-II. El Presidente;
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
-III. El Tesorero y, en su caso, quien ejerza la función de ejecución fiscal;
+No obstante lo dispuesto en los párrafos anteriores, si el último día del plazo o en la fecha determinada, las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores, o se trate de un día inhábil, se prorrogará el plazo hasta el siguiente día hábil. Lo dispuesto en este artículo es aplicable, inclusive cuando se autorice a las instituciones de crédito para recibir declaraciones o pagos.
 
-IV. Los titulares de organismos públicos descentralizados o de empresas de participación municipal, que tengan bajo su responsabilidad la prestación de servicios públicos, cuando realicen funciones de recaudación de ingresos municipales;
+Las autoridades fiscales podrán habilitar los días inhábiles. Esta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos.
 
-V. Los demás servidores públicos que auxilien a la Tesorería en el ejercicio de sus atribuciones, a los que las leyes y convenios confieren facultades específicas en materia de hacienda municipal o las reciban por delegación expresa de las autoridades señaladas en este artículo; y
+###### ARTICULO 14.
 
-VI. Las que así considera el Código Financiero para el Estado de Veracruz-Llave, cuando actúen en términos de los convenios que, al efecto, celebren el Gobierno del Estado y el Municipio.
+La práctica de diligencias por las autoridades fiscales deberá efectuarse en días y horas hábiles, que son las comprendidas entre las 8:00 y las 19:00 horas. Una diligencia de notificación iniciada en horas hábiles podrá concluirse en hora inhábil sin afectar su validez. Tratándose de la verificación de bienes y de mercancías en transporte, se considerarán hábiles todos los días del año y las veinticuatro horas del día.
 
-Las autoridades fiscales ejercerán sus facultades en la forma y los términos señalados en las disposiciones legales y reglamentarias, decretos o acuerdos delegatorios específicos.
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+
+Las autoridades fiscales para la práctica de visitas domiciliarias, del procedimiento administrativo de ejecución y de notificaciones, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que debe pagar contribuciones en días y horas inhábiles. También se podrá efectuar la habilitación a que se refiere este párrafo, para la continuación de una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de la contabilidad o de los bienes del particular, siempre que exista la sospecha de su alteración u ocultamiento en caso de suspenderse la diligencia sin haberlos asegurado.
 
 ###### Art. 39.
 
@@ -686,15 +742,77 @@ Es voluntad del pueblo mexicano constituirse en una República representativa, d
 
 El pueblo ejerce su soberanía por medio de los Poderes de la Unión, en los casos de la competencia de éstos, y por los de los Estados, en lo que toca a sus regímenes interiores, en los términos respectivamente establecidos por la presente Constitución Federal y las particulares de los Estados, las que en ningún caso podrán contravenir las estipulaciones del Pacto Federal.
 
-### CAPITULO II.
+### CAPITULO I. De los Recursos Administrativos
 
-DE LAS PARTES INTEGRANTES DE LA FEDERACION Y DEL TERRITORIO NACIONAL.
+###### ARTICULO 15.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1934)</small>
+Se entiende enajenación de bienes:
 
-###### Artículo 15.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-Sólo las autoridades fiscales, facultadas al efecto, podrán aplicar el procedimiento administrativo de ejecución, con la finalidad de recuperar créditos fiscales insolutos, de conformidad con el Código de la materia.
+I.- Toda transmisión de propiedad, aún en la que el enajenante se reserva el dominio del bien enajenado, con excepción de los actos de fusión y escisión a que se refiere el artículo 15 bis.
+
+II.- Las adjudicaciones, aún cuando se realicen a favor del acreedor.
+
+III.- La aportación a una sociedad o asociación.
+
+IV.- La que se realiza mediante el arrendamiento financiero.
+
+V.- La que se realiza a través del fideicomiso, en los siguientes casos:
+
+A).- En el acto en el que el fideicomitente designa o se obliga a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir del fiduciario los bienes.
+
+B).- En el acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Cuando el fideicomitente reciba certificados de participación por los bienes que afecte en fideicomiso, se considerarán enajenados esos bienes al momento en que el fideicomitente reciba los certificados, salvo que se trate de acciones.
+
+VI.- La cesión de los derechos que se tenga sobre los bienes afectos al fideicomiso, en cualquiera de los siguientes momentos:
+
+A).- En el acto en el que el fideicomisario designado ceda sus derechos o de instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
+
+B).- En el acto en el que el fideicomitente ceda sus derechos si entre estos se incluye el de que los bienes se transmitan a su favor.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Cuando se emitan certificados de participación por los bienes afectos al fideicomiso y se coloquen entre el gran público inversionista, no se considerarán enajenados dichos bienes al enajenarse esos certificados, salvo que estos les den a sus tenedores derechos de aprovechamiento directo de esos bienes, o se trate de acciones. La enajenación de los certificados de participación se considerará como una enajenación de títulos de crédito que no representan la propiedad de bienes y tendrán las consecuencias fiscales que establecen las Leyes fiscales para la enajenación de tales títulos.
+
+VII.- La transmisión de dominio de un bien tangible o del derecho para adquirirlo que se efectúe a través de enajenación de títulos de crédito o de la cesión de derechos que los representen. Lo dispuesto en esta fracción no es aplicable a las acciones o partes sociales.
+
+Se entiende que se efectúan enajenaciones a plazo con pago diferido o en parcialidades, cuando el plazo exceda de doce meses y se difiera más de la mitad del precio para después del sexto mes.
+
+Se considera que la enajenación se efectúa en el Estado, entre otros casos, si el bien se encuentra en su territorio al efectuarse el envío al adquirente o cuando no habiendo envío, en el Estado se realiza la entrega material del bien por el enajenante.
+
+Cuando de conformidad con este artículo se entienda que hay enajenación, el adquirente se considerará propietario de los bienes para efectos fiscales.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 15 Bis.
+
+Se entiende que no hay enajenación en los siguientes casos:
+
+I.- En escisión, siempre que se cumpla con los requisitos siguientes:
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+A).- Que los accionistas propietarios de por lo menos el 51% de las acciones con derecho a voto, de la sociedad escindente y de las escindidas, sean los mismos durante un período de dos años contados a partir del año inmediato anterior a la fecha en que se realice la escisión; siempre y cuando se protocolice la escisión de que se trate, dentro de un período de un año a partir de la fecha en que se llevó a cabo.
+
+Para determinar el porcentaje del 51% se deberá considerar el total de las acciones con derecho a voto emitidas por la sociedad a la fecha de inicio del periodo, excluyendo las que se consideran colocadas entre el gran público inversionista y que hayan sido enajenadas a través de bolsa de valores autorizada o mercados reconocidos. No se consideran como acciones con derecho a voto, aquéllas que lo tengan limitado y las que en los términos de la Legislación Mercantil se denominen acciones de goce; tratándose de sociedades que no sean por acciones se considerarán las partes sociales en vez de las acciones con derecho a voto, siempre que no lo tengan limitado.
+
+B).- Que cuando desaparezca una sociedad con motivo de escisión, la sociedad escindente designe a la sociedad que asuma la obligación de registrarse en los padrones de la Secretaría de Finanzas y Tesorería General del Estado.
+
+Cuando no se cumpla con el requisito a que se refiere el inciso B) que antecede, los fedatarios públicos, dentro del mes siguiente a la fecha de autorización de la escritura correspondiente, deberán informar de esta circunstancia a la Secretaría de Finanzas y Tesorería General del Estado. En estos casos, la autoridad podrá exigir el registro correspondiente a cualquiera de las sociedades escindidas.
+
+No se incumple con el requisito de permanencia accionaria previsto en esta fracción, cuando la transmisión de propiedad de acciones sea por causa de muerte, liquidación, adjudicación judicial o donación.
+
+II.- En fusión, siempre que la sociedad que subsista o la que surja con motivo de la fusión, se encuentre al corriente en el pago de los impuestos estatales en el ejercicio que terminó por fusión.
+
+III.- En las operaciones de préstamos de títulos o valores por la entrega de los bienes prestados al prestatario y por la restitución de los mismos al prestamista, siempre que efectivamente se restituyan los bienes a más tardar al vencimiento de la operación.
+
+En los casos de fusión o escisión de sociedades, cuando la sociedad escindente desaparezca, la sociedad que subsista, la que surja con motivo de la fusión o la escindida que se designe, deberá encontrarse al corriente en el pago de los impuestos estatales en el ejercicio que terminó por fusión o escisión, o en su defecto enterar los impuestos correspondientes o, en su caso, solicitar por la empresa que desaparezca la devolución de los saldos a favor de esta última que resulten.
+
+En los pagos a que se refieren la fracción II y el párrafo anterior, correspondiente a la fusionada o a la escindente que desaparezcan, se deberán considerar todos los ingresos acumulables y las deducciones autorizadas, el importe total de los actos o actividades gravados y exentos y de los acreditamientos, el valor de todos sus activos o deudas, según corresponda, que la misma tuvo desde el inicio del ejercicio y hasta el día de su desaparición. En este caso, se considerará como fecha de terminación del ejercicio aquélla que corresponda a la fusión o escisión.
 
 ###### Art. 42.
 
@@ -730,19 +848,25 @@ El Estado del (sic) Nayarit tendrá la extensión territorial y límites que com
 
 Las islas de ambos mares que pertenezcan al Territorio Nacional, dependerán directamente del Gobierno de la Federación, con excepción de aquellas sobre las que hasta la fecha hayan ejercido jurisdicción los Estados.
 
-## TITULO TERCERO.
+## TITULO III. De las Facultades de las Autoridades Fiscales
 
-### CAPITULO I.
+### CAPITULO II. De las Notificaciones y la Garantía del Interés Fiscal
 
-DE LA DIVISION DE PODERES.
+###### ARTICULO 16.
 
-> <small>(REFORMADO, D.O.F. 12 DE AGOSTO DE 1938)</small>
+Arrendamiento financiero es el contrato por el cual se otorga el uso o goce temporal de bienes tangibles, siempre que se cumpla con los siguientes requisitos:
 
-###### Artículo 16.
+I.- Que se establezca un plazo forzoso que sea igual o superior al mínimo para deducir la inversión en los términos de las disposiciones fiscales o cuando el plazo sea menor, se permita a quien recibe el bien, que al término del plazo ejerza cualquiera de las siguientes opciones:
 
-Las disposiciones tributarias que establezcan cargas fiscales y las que señalen excepciones a las mismas, así como las que fijen las infracciones, delitos y sanciones, son de aplicación estricta. Se considera que establecen cargas fiscales las normas que se refieren al sujeto, objeto, base, tasa, cuota o tarifa.
+A).- Transferir la propiedad del bien objeto del contrato mediante el pago de una cantidad determinada, que deberá ser inferior al valor del mercado del bien al momento de ejercer la opción.
 
-A falta de norma fiscal expresa, se aplicará supletoriamente la legislación civil estatal, cuando sus disposiciones no sea (sic) contrarias a la naturaleza propia del derecho fiscal.
+B).- Prorrogar el contrato por un plazo cierto durante el cual los pagos serán por un monto inferior al que se fijó durante el plazo inicial del contrato.
+
+C).- Obtener parte del precio por la enajenación a un tercero del bien objeto del contrato.
+
+II.- Que la contraprestación sea equivalente o superior al valor del bien al momento de otorgar su uso o goce.
+
+III.- Que se establezca una tasa de interés aplicable para determinar los pagos y el contrato se celebre por escrito.
 
 ###### Art. 49.
 
@@ -750,31 +874,63 @@ El Supremo Poder de la Federación se divide para su ejercicio, en Legislativo, 
 
 No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo, salvo el caso de Facultades Extraordinarias al Ejecutivo de la Unión, conforme a lo dispuesto en el artículo 29.- En ningún otro caso se otorgarán al Ejecutivo facultades extraordinarias para legislar.
 
-### CAPITULO II.
+### CAPITULO III. Del Procedimiento Administrativo de Ejecución
 
-DEL PODER LEGISLATIVO.
+###### ARTICULO 18.
 
-###### Artículo 18.
+Cuando con motivo de la prestación de un servicio se proporcionen bienes o se otorgue su uso o goce temporal al prestatario, se considerará como ingreso por el servicio o como valor de éste, el importe total de la contraprestación a cargo del prestatario, siempre que sean bienes que normalmente se proporcionen o se conceda su uso o goce con el servicio de que se trate.
 
-La Hacienda Municipal percibirá en cada ejercicio fiscal los ingresos provenientes de:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. La recaudación de contribuciones municipales;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-II. Los productos y aprovechamientos;
+ARTICULO 18 BIS.- El monto de las contribuciones, de los aprovechamientos y de las devoluciones a cargo del fisco se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Tal factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. Las contribuciones, los aprovechamientos, así como las devoluciones a cargo del fisco estatal, no se actualizarán por fracciones de mes.
 
-III. Las transferencias de recursos por concepto de participaciones y aportaciones federales; y
+En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Instituto Nacional de Estadística y Geografía, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
-IV. Los demás que establezca el presente Código, las leyes aplicables y los convenios celebrados con la Federación, el Estado, otras Entidades Federativas, Municipios y los particulares.
+Los valores de bienes u operaciones se actualizarán conforme a lo dispuesto por este artículo, cuando las leyes fiscales así lo determinen. Las disposiciones legales señalarán en cada caso el período de actualización de que se trate.
 
-La Ley de Ingresos estimará, en lo procedente, el monto global de los ingresos que, por cada uno de estos conceptos, obtendrá el Municipio durante el ejercicio fiscal de que se trate.
+Las cantidades actualizadas conservan la naturaleza jurídica que poseían antes de la actualización. El monto de ésta, determinado en las declaraciones mensuales, no será deducible ni tampoco acreditable en relación con las contribuciones estatales y municipales.
 
-###### Artículo 19.
+Para los efectos de este artículo se aplicará el Índice Nacional de Precios al Consumidor, calculado por el Instituto Nacional de Estadística y Geografía, que se publica en el Diario Oficial de la Federación.
 
-Los ingresos públicos del Municipio se dividen en:
+###### ARTICULO 19.
 
-I. Ordinarios: los previstos en la Ley de Ingresos; y
+Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital, y en el caso de que se presente en documento digital, este deberá contener la firma electrónica avanzada.
 
-II. Extraordinarios: los aprobados por el Congreso o los derivados de disposiciones administrativas, para atender erogaciones imprevistas o por derivarse de normas o actos posteriores al inicio de un ejercicio fiscal.
+Las promociones deberán presentarse en las formas que al efecto apruebe la Secretaría de Finanzas y Tesorería General del Estado, en el número de Ejemplares que establezca la forma oficial y acompañar los anexos que en su caso ésta requiera. Cuando no existan formas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos:
+
+I.- Constar por escrito.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II.- El nombre, la denominación o razón social y el domicilio fiscal manifestado al registro estatal de contribuyentes, y la clave que le correspondió en dicho registro, así como la clave del registro federal de contribuyentes.
+
+III.- El número de cuenta estatal que le sea asignado.
+
+IV.- Señalar la autoridad a la que se dirige, el propósito de la promoción y el fundamento de la misma.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+V.- En su caso, el domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas, cuando así proceda la dirección de correo electrónico para recibir notificaciones.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Cuando no se cumpla alguno de los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de cinco días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada.
+
+Si la omisión consiste en no haber usado la forma oficial aprobada, las autoridades fiscales deberán acompañar al requerimiento la forma respectiva en el número de ejemplares que sea necesario.
+
+Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes de inscripción o avisos a que se refiere el artículo 32 de este Código.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Para los efectos de lo dispuesto en este artículo, las autoridades fiscales podrán aceptar el uso de la firma electrónica avanzada, que el contribuyente tramitó ante el Servicio de Administración Tributaria del Gobierno Federal y le será aplicable lo dispuesto en el Capítulo II "De los Medios Electrónicos" del Código Fiscal de la Federación.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Para efectos de este Código, la firma electrónica a que se refiere el párrafo anterior, producirá los mismos efectos que la firma electrónica avanzada a que se refiere la Ley Sobre Gobierno Electrónico y Fomento al Uso de las Tecnologías de la Información del Estado, por lo que las disposiciones de dicha Ley resultarán aplicables en lo conducente para las actuaciones que se realicen conforme a este Código por medios electrónicos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 # LIBRO SEGUNDO. DE LAS RELACIONES JURÍDICAS TRIBUTARIAS
 
@@ -782,15 +938,29 @@ II. Extraordinarios: los aprobados por el Congreso o los derivados de disposicio
 
 El poder legislativo de los Estados Unidos Mexicanos se deposita en un Congreso general, que se dividirá en dos Cámaras, una de diputados y otra de senadores.
 
-#### SECCION I.
+#### SECCION PRIMERA. Disposiciones Generales
 
-DE LA ELECCION E INSTALACION DEL CONGRESO.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
-###### Artículo 17.
+###### ARTICULO 17.
 
-Los ingresos del Municipio son las percepciones en dinero, especie, crédito, servicios o cualquier otra forma que incremente la Hacienda Municipal y que se destine al gasto público.
+Se entenderá por actividades empresariales las siguientes:
+
+I.- Las comerciales que son las que de conformidad con las leyes federales tienen ese carácter y no están comprendidas en las fracciones siguientes.
+
+II.- Las industriales entendidas como la extracción, conservación o transformación de materias primas, acabado de productos y la elaboración de satisfactores.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+
+III.- Las agrícolas que comprenden las actividades de siembra, cultivo, cosecha y la primera enajenación de los productos obtenidos, que no hayan sido objeto de transformación industrial.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+
+IV.- Las ganaderas que son las consistentes en la cría y engorda de ganado, aves de corral y animales, así como la primera enajenación de sus productos, que no hayan sido objeto de transformación industrial.
+
+Se considerará empresa la persona física o moral que realice las actividades a que se refiere este artículo y por establecimiento se entenderá cualquier lugar de negocio en el que se desarrollen parcial o totalmente, las citadas actividades empresariales.
 
 ###### Art. 51.
 
@@ -926,13 +1096,31 @@ A la apertura de sesiones ordinarias del Congreso asistirá el Presidente de la 
 
 Toda resolución del Congreso tendrá el carácter de ley o decreto. Las leyes o decretos se comunicarán al Ejecutivo firmados por los presidentes de ambas Cámaras y por un secretario de cada una de ellas, y se promulgarán en esta forma: "El Congreso de los Estados Unidos Mexicanos decreta: (texto de la ley o decreto)".
 
-#### SECCION II.
+#### SECCION SEGUNDA. Del Recurso de Revocación
 
-DE LA INICIATIVA Y FORMACION DE LAS LEYES.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-###### Artículo 132.
+###### ARTICULO 132.
 
-Son sujetos de este impuesto, las personas físicas o morales que adquieran inmuebles ubicados dentro del territorio del Municipio, por alguna de las formas señaladas en el artículo anterior.
+La resolución que ponga fin al recurso podrá:
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+I.- Desecharlo por improcedente, tenerlo por no interpuesto o sobreseerlo, en su caso.
+
+II.- Confirmar el acto impugnado.
+
+III.- Mandar reponer el procedimiento administrativo.
+
+IV.- Dejar sin efecto el acto impugnado.
+
+V.- Modificar el acto impugnado o dictar uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de cuatro meses, contado a partir del día hábil siguiente a aquel en que haya quedado firme dicha resolución, aun cuando haya transcurrido el plazo que señala el artículo 67 de este Código.
+
+ARTICULO 132 BIS.- (DEROGADO, P.O. 3 DE FEBRERO DE 2017)
 
 ###### Art. 71.
 
@@ -976,25 +1164,25 @@ I (sic).- El Ejecutivo de la Unión no puede hacer observaciones a las resolucio
 
 Tampoco podrá hacerlas al Decreto de convocatoria a sesiones extraordinarias que expida la Comisión Permanente.
 
-#### SECCION III.
+#### SECCION TERCERA. Del Recurso en caso del Procedimiento Administrativo de Ejecución
 
-DE LAS FACULTADES DEL CONGRESO.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE FEBRERO DE 1944)</small>
+###### ARTICULO 133.
 
-###### Artículo 133.
+Las notificaciones de los actos administrativos se harán:
 
-Será base gravable del Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, el valor que resulte más alto entre el de operación y el valor catastral o catastral provisional.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-Para los efectos de este impuesto se considera, salvo prueba en contrario, que se transmiten, bajo cualquier título, terreno y construcción, si ésta se ha iniciado antes de la celebración del contrato respectivo, aun cuando con anterioridad se hubiese celebrado promesa de venta del terreno.
+I.- Personalmente, por correo certificado, o por medios electrónicos mediante documentos digitales y con la firma electrónica avanzada, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
 
-Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de condonarlas, el importe de ellas se considerará como parte del precio pactado.
+Las notificaciones efectuadas mediante documentos digitales se harán por medios electrónicos y con la firma electrónica avanzada, en los términos que establece la Ley Sobre Gobierno Electrónico y Fomento al Uso de las Tecnologías de la Información del Estado.
 
-Para los efectos de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del cincuenta por ciento del valor de la propiedad.
+II.- Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior.
 
-En los inmuebles adquiridos durante el período de tres años anteriores, contado a partir de la fecha de la operación actual, el impuesto se calculará sobre el valor que resulte de disminuir del valor mayor, a que se refiere el párrafo primero, aquel valor que se tomó como base para el cálculo del impuesto en la última adquisición.
+III.- Por estrados, en los casos que señalen las leyes fiscales y este Código.
 
-En la adquisición por prescripción positiva, la base del impuesto se determinará con valores referidos a la fecha en que cause ejecutoria la resolución judicial; en la adquisición por herencia, a la fecha de la adjudicación; y en la información ad perpetuam, a la fecha de la resolución judicial.
+IV.- Por edictos, únicamente en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión, hubiese desaparecido, se ignore su domicilio o que éste o el de su representante no se encuentren en el Estado.
 
 ###### Art. 73.
 
@@ -1244,167 +1432,235 @@ III.- Nombrar los empleados de su secretaría y hacer el reglamento interior de 
 
 IV.- Expedir convocatoria para elecciones extraordinarias, con el fin de cubrir las vacantes de sus respectivos miembros.
 
-#### SECCION IV.
+#### SECCION CUARTA. De la Impugnación de Notificaciones
 
-DE LA COMISION PERMANENTE.
+###### ARTICULO 134.
 
-###### Artículo 134.
+Las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que fueron hechas y al practicarlas deberá proporcionarse al interesado copia del acto administrativo que se notifique. Cuando la notificación la hagan personalmente las autoridades fiscales, deberá señalarse la fecha en que ésta se efectúe, recabando el nombre y la firma de la persona con quien se entienda la diligencia. Si ésta se niega a una u otra cosa, se hará constar en el acta de notificación.
 
-Para determinar la base del impuesto los contribuyentes o los fedatarios ante quienes se hagan constar los actos objeto del mismo, deberán contar con el Certificado de Valor Catastral o Catastral Provisional, actualizado a la fecha en que se hubiere realizado el acto generador del impuesto.
+La manifestación que haga el interesado o su representante legal de conocer el acto administrativo, surtirá efectos de notificación en forma desde la fecha en que se manifieste haber tenido tal conocimiento, si esta es anterior a aquélla en que debiera surtir efectos la notificación de acuerdo con el párrafo anterior.
 
 ###### Art. 78.
 
 Durante el receso del Congreso habrá una Comisión Permanente compuesta de veintinueve miembros, de los que quince serán Diputados, y catorce Senadores, nombrados por sus respectivas Cámaras la víspera de la clausura de las sesiones.
 
-#### SECCIÓN ÚNICA. DEL EJERCICIO DEL GASTO PÚBLICO MUNICIPAL
+#### SECCION QUINTA. Del Trámite y Resolución de los Recursos
 
-###### Artículo 135.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-Además de los documentos a que se refiere el artículo anterior, los contribuyentes de este impuesto presentarán, ante quien se haga constar el acto objeto del impuesto, la constancia de no adeudo expedida por las autoridades municipales en la forma oficial autorizada y la última boleta del pago del impuesto predial que acredite estar al corriente. El Notario dará fe de haber tenido a la vista dichos comprobantes y los agregará al apéndice del protocolo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
-Las constancias de no adeudo en el pago de contribuciones municipales se expedirán por la Tesorería, si procedieren, dentro de los siete días siguientes al de la fecha de solicitud por escrito del interesado. Transcurrido dicho plazo, si la Tesorería no expidiere las constancias solicitadas ni diere respuesta negativa por escrito, motivada y fundada, se tendrá como reconocido el no adeudo.
+###### ARTICULO 135.
 
-Las constancias de no adeudo que, en su caso, expida la Tesorería estarán vigentes durante sesenta días a partir de la fecha de su expedición o hasta la fecha de firma de la escritura, si ésta ocurriere antes.
+Las notificaciones se podrán hacer en las oficinas de las autoridades fiscales, si las personas a quienes deba notificarse se presentan en las mismas.
 
-Si existiere algún crédito por concepto de contribuciones por mejoras a favor del Estado o el Municipio, con fecha de vencimiento para el pago posterior a la fecha de la firma de la escritura, y el adquirente acepta o consiente dicho crédito los Notarios lo harán constar en el instrumento público.
+También se podrán efectuar en el último domicilio que el interesado haya señalado para efectos del registro estatal de contribuyentes, salvo que hubiera designado otro para recibir notificaciones al iniciar alguna instancia o en el curso de un procedimiento administrativo, tratándose de las actuaciones relacionadas con el trámite o la resolución de los mismos.
 
-#### SECCIÓN I. DISPOSICIONES GENERALES EN MATERIA DE ADMINISTRACIÓN DE RECURSOS PÚBLICOS
+Toda notificación personal, realizada con quien deba entenderse, será legalmente válida aún cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales.
 
-###### Artículo 136.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-El impuesto al que se refiere el presente Capítulo se causará, liquidará y pagará aplicando a la base gravable determinada, la tasa de cinco al millar.
+Las notificaciones personales por correo certificado con acuse de recibo, podrán realizarse aún cuando el domicilio del contribuyente se encuentre fuera de la circunscripción territorial de la autoridad.
 
-#### SECCIÓN II. DE LA ADMINISTRACIÓN DE LOS RECURSOS FINANCIEROS
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-###### Artículo 137.
+Tratándose de procedimientos instaurados por las Autoridades Fiscales de los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, cuando el domicilio del interesado se encuentre en cualesquiera de los citados Municipios, la diligencia se practicará directamente por la Autoridad Instructora. En los demás casos, tratándose del resto de los municipios del Estado, las diligencias se practicarán vía exhorto, y en el caso de Municipios de otro Estado, el exhorto se remitirá previa certificación de firmas por parte de la Secretaría General de Gobierno.
 
-En las adquisiciones que se hagan constar en escritura pública, los Notarios calcularán el impuesto bajo su responsabilidad, lo enterarán una vez expensados para ello, mediante declaración que presentarán ante la Tesorería en la forma oficial autorizada y lo harán constar en el testimonio. En los demás casos, los contribuyentes enterarán el impuesto mediante la forma oficial autorizada ante dicha Tesorería.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-Se presentará declaración por todas las operaciones, aun cuando no proceda el pago del impuesto.
+#### SECCION PRIMERA. Disposiciones Generales
 
-Con la forma oficial de declaración deberán acompañarse:
+###### ARTICULO 136.
 
-I. Certificado de Valor Catastral o Catastral Provisional; y
+Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, para que espere a una hora fija del día hábil posterior, y en caso de que tampoco sea posible dejar el citatorio debido a que la persona que atiende se niega a recibirlo, o bien, nadie atendió la diligencia en el domicilio, la notificación se realizará conforme a lo señalado en el artículo 133, fracción III de este Código.
 
-II. Copia de la constancia de no adeudo y de la boleta de pago del impuesto predial correspondiente al ejercicio en que se realice la operación.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+El citatorio a que se refiere este artículo será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino debidamente identificados. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará conforme a lo señalado en el artículo 133, fracción III de este Código.
+
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán los gastos de ejecución a cargo de quien incurrió en el incumplimiento.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+#### SECCION SEGUNDA. Del Embargo
+
+###### ARTICULO 137.
+
+Cuando las personas a quienes se haya de notificar, omitan señalar domicilio en su primer escrito o hayan variado su domicilio fiscal para el caso de que lo hubieren manifestado ante la propia autoridad y no hubieren notificado esta situación, o bien se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación o cuando habiéndose efectuado la notificación a través de edictos, el notificado no compareciere, las notificaciones que deban efectuarse, aún las de carácter personal, se efectuarán por estrados a través de instructivo que deberá contener el texto íntegro del acto de autoridad que se pretenda notificar y que se fijará durante cinco días en un sitio abierto al público de las oficinas de la autoridad y del cual se dejará constancia en el expediente respectivo y publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales. En estos casos se tendrá como fecha de notificación la del sexto día, contado a partir del siguiente a aquél en que se hubiera fijado y publicado el documento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 ### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
 
-###### Artículo 138.
+###### ARTICULO 138.
 
-Los adquirentes que celebren operaciones de constitución de usufructo, transmisión de éste o de la nuda propiedad, podrán optar por pagar el impuesto, considerando el cien por ciento de la base gravable.
+Las notificaciones por edictos se harán mediante publicaciones durante dos días consecutivos en el Periódico Oficial del Estado, en uno de los periódicos de mayor circulación en el Estado y durante quince días en la página electrónica que al efecto establezca la Secretaría de Finanzas y Tesorería General del Estado o las autoridades fiscales, y contendrá un resumen de los actos que se notifican.
 
-En este caso, cuando se consolide la propiedad, no se efectuará pago alguno por este concepto, pero se presentará declaración relacionándola con la anterior.
+En este caso se tendrá como fecha de notificación la de la última publicación.
 
-###### Artículo 139.
+###### ARTICULO 139.
 
-La Tesorería, en ejercicio de sus facultades de comprobación respecto de contribuyentes de este impuesto, cuando lo estime necesario, podrá solicitar de los contribuyentes que presenten el testimonio respectivo en original, para obtener una copia del mismo.
+Los contribuyentes podrán garantizar el interés fiscal en alguna de las formas siguientes:
 
-Si en la declaración se oculta superficie de terreno o de las construcciones consignadas en el antecedente de propiedad, independientemente de la diferencia de impuesto que resulte, se aplicará la sanción que corresponda.
+I.- Depósito de dinero mediante certificado expedido por la Secretaría de Finanzas y Tesorería General del Estado o en las instituciones de crédito autorizadas para tal efecto.
 
-###### Artículo 140.
+II.- Prenda o Hipoteca.
 
-El pago de este impuesto se realizará dentro de los treinta días siguientes a la fecha en que sean firmadas las escrituras públicas correspondientes o, cuando se trate de resoluciones administrativas o judiciales o de documentos otorgados fuera del Estado, dentro de los treinta días siguientes a la fecha en que causen ejecutoria o sean autorizados.
+III.- Fianza otorgada por institución autorizada, la que no gozará de los beneficios de orden y excusión.
 
-###### Artículo 141.
+IV.- Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia.
 
-No se causará este impuesto, en las adquisiciones de bienes inmuebles que realicen la Federación, los Estados y los Municipios, para formar parte del dominio público.
+V.- Embargo en la vía administrativa.
 
-No causarán este impuesto las adquisiciones de inmuebles que se realicen en los siguientes casos:
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-I. Por los Partidos Políticos nacionales, siempre y cuando dichos inmuebles sean para el cumplimiento de sus fines;
+La garantía deberá comprender, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes y así sucesivamente.
 
-II. La constitución, disolución o liquidación de la sociedad conyugal;
+La Secretaría de Finanzas y Tesorería General del Estado vigilará que las garantías sean suficientes tanto en el momento de su aceptación como con posterioridad, y si no lo fueren, exigirá su ampliación o procederá al secuestro de otros bienes, previo requerimiento al particular para que mejore la garantía otorgada.
 
-III. La devolución de los bienes inmuebles del enajenante, por la revocación, rescisión o anulación del contrato respectivo que consten en resolución judicial;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-IV. La división de la cosa común entre los copropietarios siempre que los valores de las partes adjudicadas a los partícipes no excedan de los valores de sus respectivas porciones y que no existan compensaciones en efectivo entre ellos;
+Para garantizar el interés fiscal en cualesquiera de las formas a que se refiere este artículo, se deberá cumplir con los requisitos que mediante reglas de carácter general establezca la Secretaría de Finanzas y Tesorería General del Estado.
 
-V. Los actos constitutivos de fideicomiso de garantía, salvo que se realicen en cumplimiento de los fines de estos fideicomisos. Asimismo, no causarán este impuesto los actos constitutivos de fideicomisos estatales y bursátiles, así como las operaciones que los fideicomisos estatales realicen, cuando precisen la traslación del dominio de bienes inmuebles, con el fin de cumplir con su objeto público o de incorporarlos al dominio público;
+###### ARTICULO 140.
 
-VI. Por los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero; y
+Procede garantizar el interés fiscal, cuando:
 
-VII. Por las asociaciones religiosas constituidas en los términos de la ley de la materia, siempre que en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
+I.- Se solicite la suspensión del procedimiento administrativo de ejecución.
 
-En la enajenación de predios derivada de programas de regularización de la tenencia de la tierra, que realicen organismos federales, estatales o municipales, se pagará este impuesto con una cuota fija equivalente al cincuenta por ciento de un salario mínimo diario.
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
-###### Artículo 142.
+II.- Se solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades.
 
-Los fedatarios son responsables solidarios con el contribuyente por el incumplimiento de las obligaciones que les imponen los artículos 129 y 137 de este Código. Además, deberán:
+III.- Se solicite la aplicación del producto en los términos del último párrafo del Artículo 153 de este Código.
 
-I. Comprobar que el inmueble motivo de la operación se encuentre al corriente en el pago del Impuesto Predial;
+IV.- En los demás casos que señalen este ordenamiento y las Leyes Fiscales.
 
-II. Hacer constar en la declaración a que se refiere el artículo 137 los datos solicitados para la identificación de los predios que permitan su regularización fiscal;
+No se otorgará garantía respecto de gastos de ejecución.
 
-III. Insertar en las escrituras o documentos que otorguen, los datos relativos al pago de este impuesto; y
+###### ARTICULO 141.
 
-IV. Abstenerse de autorizar escritura pública alguna, en la que hagan constar operaciones de traslado de dominio de bienes inmuebles, así como la constitución o transmisión de derechos reales sobre los mismos, si no han obtenido la constancia de no adeudo.
+Las garantías constituidas para asegurar el interés fiscal a que se refieren las fracciones II, IV y V del Artículo 139 de este Código, se harán efectivas a través del procedimiento administrativo de ejecución.
 
-###### Artículo 143.
+Si la garantía consiste en depósito de dinero en institución nacional de crédito autorizada, una vez que el crédito fiscal quede firme se ordenará su aplicación por la Secretaría de Finanzas y Tesorería General del Estado.
 
-Es objeto del Impuesto Sobre Espectáculos Públicos, la explotación de cualquier diversión o espectáculo público que se realice en forma eventual o habitual en el Municipio.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-Por diversión o espectáculo público debe entenderse toda función de esparcimiento, sea teatral, deportiva o de cualquier otra naturaleza semejante, que se verifique en salones, teatros, estadios, carpas, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas, pagando el importe del boleto de entrada o de cualquier otro derecho de admisión, excepto cines.
+###### ARTICULO 142.
 
-Quedan incluidas en el concepto de diversión o espectáculo público, las ferias, muestras, exposiciones y eventos similares, si para el acceso a ellos se paga alguna cantidad en dinero.
+No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de treinta días siguientes a la fecha en que surta efectos su notificación. Cuando el contribuyente hubiere interpuesto en tiempo y forma recurso de revocación en contra de un acto, el procedimiento administrativo de ejecución quedará suspendido sin necesidad de garantía alguna, hasta que se notifique la resolución definitiva que hubiere recaído sobre el mismo. El contribuyente contará con un plazo de diez días siguientes a aquél en que haya surtido efectos la notificación de la resolución que recaiga al recurso de revocación; para pagar o garantizar los créditos fiscales en términos de lo dispuesto en este Código.
 
-Cuando los promotores que organicen espectáculos públicos, expidan pases u otorguen cortesías, causarán el Impuesto Sobre Espectáculos Públicos correspondiente, como si se hubiere cubierto el importe del boleto o cuota respectiva.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
-###### Artículo 144.
+En el caso de que en el juicio contencioso administrativo o en el recurso de revocación, no se impugne la totalidad de los créditos que derivan del acto administrativo cuya ejecución haya sido suspendida, deberán pagarse los créditos no impugnados con los accesorios correspondientes.
 
-Son sujetos del Impuesto Sobre Espectáculos Públicos, las personas físicas o morales que habitual o eventualmente promuevan, organicen o exploten las actividades señaladas en el artículo anterior.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
-###### Artículo 145.
+No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal. En todo caso, se observará lo dispuesto en el penúltimo párrafo del artículo 139 de este Código. Asimismo, no se exigirá garantía adicional respecto a los adeudos impugnados derivados de los impuestos predial, sobre adquisición de inmuebles y sobre aumento de valor y mejoría específica de la propiedad, cuando el crédito fiscal se haya determinado a cargo del propietario del bien inmueble, excepto cuando dicho bien inmueble deje de formar parte de su patrimonio.
 
-Es base gravable del Impuesto Sobre Espectáculos Públicos, el monto total del importe de los boletos de entrada o derechos de admisión vendidos, y el equivalente a los pases o cortesías.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-Cuando en un mismo local, se celebren diversos espectáculos explotados por una misma persona, que causen el impuesto a que se refiere este capítulo con tasas distintas, para determinar la base sobre la que deba pagarse, se aplicará la más alta.
+En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir al superior jerárquico de la autoridad ejecutora si se está tramitando recurso o ante el Tribunal de Justicia Administrativa del Estado que conozca del juicio respectivo, acompañando los documentos en que conste el medio de defensa hecho valer y la garantía del interés fiscal. El superior o el tribunal ordenará a la autoridad ejecutora que suspenda provisionalmente el procedimiento administrativo de ejecución y rinda informe en un plazo de tres días, debiendo resolver la cuestión dentro de los cinco días siguientes a su recepción.
 
-###### Artículo 146.
+###### ARTICULO 143.
 
-El Impuesto Sobre Espectáculos Públicos se causará, liquidará y pagará sobre la base que en cada caso corresponda, las tarifas o tasas siguientes:
+Las autoridades fiscales exigirán el pago de los créditos fiscales que no hubieren sido cubiertos o garantizados dentro de los plazos señalados por la Ley, mediante el procedimiento administrativo de ejecución.
 
-I. Carpas de representaciones teatrales, de fantoches, títeres, óptica, fenómenos animales, enanos, bufos, etc., el tres por ciento sobre la entrada bruta;
+El vencimiento que ocurra durante éste, incluso liquidaciones, recargos, gastos de ejecución y cualesquiera otros, se harán efectivos conjuntamente con el crédito inicial, sin necesidad de nuevo requerimiento, ni de otras formalidades, salvo las necesarias en su caso, para garantizar el interés fiscal y la formulación de las liquidaciones respectivas.
 
-II. Circos, el tres por ciento sobre la entrada bruta;
+Se podrá practicar embargo precautorio para garantizar el interés fiscal, antes de la fecha en que el crédito fiscal esté determinado o sea exigible, cuando a juicio de la autoridad hubiera peligro de que el obligado se ausente, enajene u oculte sus bienes, o realice cualquier maniobra tendiente a evadir el cumplimiento. Si el pago se hiciere dentro de los plazos legales, el contribuyente no estará obligado a cubrir los gastos que origine la diligencia y se levantará el embargo.
 
-III. Espectáculos deportivos:
+El embargo quedará sin efecto si la autoridad no emite, dentro del plazo de tres meses contados desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro del plazo señalado la autoridad los determina, el embargo precautorio se convertirá en definitivo y se proseguirá procedimiento administrativo de ejecución conforme a las disposiciones de este Capítulo, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de ejecución. Si el particular garantiza el interés fiscal en los términos del artículo 139, se levantará el embargo.
 
-a) Box, lucha libre y otros similares, el diez por ciento sobre la entrada bruta;
+En ningún caso se aplicará el procedimiento administrativo de ejecución para cobrar créditos derivados de productos.
 
-b) Carreras de automóviles, caballos, perros, bicicletas y motocicletas, el diez por ciento sobre la entrada bruta;
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
 
-c) Béisbol, fútbol, básquetbol, tenis, pelota vasca y otros juegos de pelota, el ocho por ciento sobre la entrada bruta.
+La Secretaría de Finanzas y Tesorería General del Estado podrá habilitar a terceros para que realicen las notificaciones que se requieran para el cobro de los créditos fiscales cumpliendo con las formalidades previstas en este Código y conforme a las reglas generales que establezca al efecto.
 
-IV. Corridas de toros, becerradas, novilladas, jaripeos, peleas de gallos y otros espectáculos similares, el diez por ciento sobre los ingresos brutos obtenidos;
+###### ARTICULO 144.
 
-V. Representaciones teatrales de comedias, drama, ópera, opereta, zarzuela, revista, vodevil, variedades, ballet o revistas sobre hielo o acuáticas, conciertos y conferencias, el tres por ciento sobre el precio de cada boleto, ficha o pase de cualquier tipo que permita el ingreso al espectáculo;
+El crédito fiscal se extingue por prescripción en el término de cinco años.
 
-VI. Exhibiciones y concursos, el cinco por ciento sobre el precio de cada boleto, ficha o pase de cualquier tipo que permita el ingreso al espectáculo;
+El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos. El término para que se consuma la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o hagar (sic) saber al deudor o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
 
-VII. Espectáculos nocturnos diferentes a los anteriores, el diez por ciento sobre la entrada bruta; y
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-VIII. Los no previstos en las fracciones anteriores, el diez por ciento sobre el precio de cada boleto, ficha o pase de cualquier tipo que permita el ingreso al espectáculo.
+Cuando se suspenda el procedimiento administrativo de ejecución en los términos del artículo 142 de este Código, también se suspenderá el plazo de la prescripción.
 
-Cuando el espectáculo se realice en beneficio de instituciones de asistencia pública legalmente constituidas, se aplicará la tasa del tres por ciento sobre el precio del boleto.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-###### Artículo 147.
+Asimismo, se suspenderá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
 
-El pago del Impuesto Sobre Espectáculos Públicos, se realizará en la forma siguiente:
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-I. Previo a la realización de la diversión o espectáculo público, en el caso de que se pueda determinar anticipadamente el monto del mismo. En este caso el pago es requisito para que se pueda celebrar el evento;
+El plazo para que se configure la prescripción, en ningún caso, incluyendo cuando este se haya interrumpido, podrá exceder de diez años contados a partir de que el crédito fiscal pudo ser legalmente exigido. En dicho plazo no se computarán los periodos en los que se encontraba suspendido por las causas previstas en este artículo.
 
-II. Cuando el monto del Impuesto no pueda determinarse anticipadamente o cuando se cause sobre el importe, de los boletos vendidos o cuotas de admisión recaudadas, diariamente, al finalizar el espectáculo, los interventores fiscales, designados por la autoridad municipal para vigilar la entrada a los mismos, harán la liquidación correspondiente y levantarán acta por duplicado, en la que se hará constar dicha liquidación. Un ejemplar del acta lo entregarán al causante y otro a la Tesorería. Con base en dicha liquidación, el contribuyente pagará el impuesto en la Tesorería que corresponda a los interventores fiscales;
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-III. Si en la liquidación del impuesto hubiere error, la Tesorería determinará el impuesto causado, procediendo al cobro de la diferencia o a la devolución. En caso de que se hubiese pagado de menos, el contribuyente cubrirá la diferencia dentro de las veinticuatro horas siguientes a la notificación de la liquidación respectiva;
+La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por la autoridad recaudadora o a petición del contribuyente.
 
-IV. Si el impuesto se causa conforme a cuotas correspondientes a períodos determinados, deberán pagarse:
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-a) Si es mensual, dentro de los primeros diez días de cada mes; o
+###### ARTICULO 144 Bis.
 
-b) Si es bimestral o por un período mayor, dentro de los quince primeros días del término; y
+La Secretaría de Finanzas y Tesorería General del Estado podrá cancelar créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
 
-V. Si el espectáculo se clausura antes de la conclusión del término por el que se hubiere cubierto la cuota respectiva, quien haya hecho el pago tendrá derecho a que se le devuelva la parte proporcional que, de la cuota pagada, corresponda al tiempo comprendido entre la fecha de terminación de sus actividades gravables y la de la conclusión del plazo que haya cubierto con dicha cuota.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+Se consideran créditos de cobro incosteable, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 25 cuotas, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 100 cuotas y cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquellos cuyo costo de recuperación sea igual o mayor a su importe.
+
+Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
+
+Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados.
+
+La Secretaría de Finanzas y Tesorería General del Estado dará a conocer las reglas de carácter general para la aplicación de este artículo.
+
+La cancelación de los créditos a que se refiere este artículo no libera de su pago.
+
+###### ARTICULO 145.
+
+Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y las morales estarán obligadas a pagar los gastos de ejecución.
+
+Por concepto de gastos de ejecución se cubrirá hasta un 10% del valor del crédito fiscal a excepción de los recargos, sobre los cuales no se causarán gastos de ejecución.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+En ningún caso, los gastos de ejecución, incluyendo las erogaciones extraordinarias de gastos de transporte de los bienes embargados, de avalúo, de impresión y publicación de convocatoria y edictos, de inscripción o cancelación de gravámenes en el Registro Público, los erogados por la obtención del certificado de libertad de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, podrá exceder de la cantidad equivalente a una cuota elevada a dos años.
+
+Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales.
+
+Los ingresos recaudados por concepto de gastos de ejecución, se destinarán a las autoridades fiscales para el establecimiento de fondos de productividad y para financiar los programas de formación de funcionarios fiscales, salvo que por Ley estén destinados a otros fines.
+
+###### ARTICULO 146.
+
+Las autoridades fiscales, para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán de pago al deudor y, tratándose de adeudos provenientes de créditos fiscales sobre bienes inmuebles, el requerimiento se hará a quien aparezca como propietario o detentador del mismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+Si el contribuyente no cubre lo que se le reclama y sus accesorios legales en el acto del requerimiento, se procederá como sigue:
+
+I.- A embargar bienes suficientes para, en su caso, rematarlos enajenarlos fuera de subasta o adjudicarlos en favor del fisco.
+
+II.- A embargar negociaciones con todo lo que de hecho y por derecho les corresponda, a fin de obtener, mediante la intervención de ellas, los ingresos necesarios que permitan satisfacer el crédito fiscal y los accesorios legales.
+
+El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier género se inscribirá en el Registro Público que corresponda en atención a la naturaleza de los bienes o derechos de que se trate.
+
+Cuando los bienes raíces, derechos reales o negociaciones queden comprendidas en la jurisdicción de dos o más oficinas del Registro Público que corresponda, en todas ellas se inscribirá el embargo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Si la exigibilidad se origina por cese de la prórroga o de la autorización para pagar en parcialidades o por error aritmético en las declaraciones, el deudor podrá efectuar el pago dentro de los seis días siguientes a la fecha en que surta sus efectos la notificación del requerimiento.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+
+###### ARTICULO 147.
+
+El ejecutor designado por el jefe de la oficina exactora se constituirá en el domicilio del deudor y practicará la diligencia de requerimiento de pago y de embargo de bienes, con intervención de la negociación en su caso, cumpliendo las formalidades que se señalan para las notificaciones personales en el artículo 136 de este Código. De esta diligencia se levantará acta pormenorizada de la que se entregará copia a la persona con quien se entienda la misma.
+
+Si la notificación del crédito fiscal adeudado o del requerimiento, en su caso, se hizo por edictos, la diligencia se entenderá con el Juez auxiliar de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciere el deudor, en cuyo caso se entenderá con él.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
@@ -1552,83 +1808,117 @@ Si, como resultado de las auditorías, se advirtieren irregularidades que afecte
 
 La Contraloría tendrá a su cargo un control de las observaciones y recomendaciones derivadas de la auditoría, y hará el seguimiento sobre el cumplimiento de las medidas correctivas que se hubieren acordado.
 
-###### Artículo 148.
+###### ARTICULO 148.
 
-Son solidariamente responsables del pago del Impuesto Sobre Espectáculos Públicos, los propietarios o poseedores de inmuebles o establecimientos, en los que en forma permanente u ocasional, por cualquier acto o contrato se autorice a personas sujetas al pago de este impuesto, para que exploten diversiones o espectáculos públicos, si el propietario o poseedor no manifiesta a la Tesorería la celebración del acto o contrato formulado, por lo menos un día hábil antes de la iniciación de dichos eventos.
+Los bienes o negociaciones embargados se dejarán bajo la guarda del o los depositarios que se hicieren necesarios. Los jefes de las oficinas ejecutoras bajo su responsabilidad nombrarán y removerán libremente a los depositarios, quienes desempeñarán su cargo conforme a las disposiciones legales. Cuando el depositario designado no sea el deudor, éste estará obligado a entregar los bienes embargados a la persona que el ejecutor designe como depositario, en el momento de la designación, apercibiéndosele que de oponerse a la entrega se hará uso de las facultades que se establecen en el artículo 42 de este Código.
 
-###### Artículo 149.
+En los embargos de bienes raíces o de negociaciones, los depositarios tendrán el carácter de administradores o de interventores con cargo a la caja, según el caso, con las facultades y obligaciones señaladas en los Artículos 159, 160 y 161 de este Código.
 
-Los sujetos del Impuesto Sobre Espectáculos Públicos tendrán las obligaciones siguientes:
+La responsabilidad de los depositarios cesará con la entrega de los bienes embargados a satisfacción de las autoridades fiscales.
 
-I. Al solicitar la autorización, lo harán cuando menos siete días antes de la celebración o inicio del espectáculo, indicando en las formas aprobadas oficialmente:
+El depositario será designado por el ejecutor cuando no lo hubiere hecho el jefe de la oficina exactora, pudiendo recaer el nombramiento en el ejecutado.
 
-a) Su nombre y domicilio;
+###### ARTICULO 149.
 
-b) El tipo de evento a celebrarse;
+El embargo podrá ampliarse en cualquier momento del procedimiento administrativo de ejecución, cuando la oficina ejecutora estime que los bienes embargados son insuficientes para cubrir los créditos fiscales, previo requerimiento que se haga al contribuyente para que mejore la garantía del interés fiscal.
 
-c) La ubicación del local en que vaya a celebrarse;
+###### ARTICULO 150.
 
-d) El día o días en que se celebrarán las funciones y la fecha y hora en que deberán dar inicio; y
+La persona con quien se entienda la diligencia de embargo, tendrá derecho a señalar los bienes en que éste se deba trabar, sujetándose al orden siguiente:
 
-e) El número de cada clase de localidades de que conste el local donde vaya a celebrarse el espectáculo.
+I.- Dinero, metales preciosos y depósitos bancarios.
 
-II. Al serles concedida la autorización:
+II.- Acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créditos de inmediato y fácil cobro a cargo de instituciones o empresas particulares de reconocida solvencia.
 
-a) Presentar a la Tesorería la emisión total del boletaje de entrada a la diversión o espectáculo público, cuando menos cuatro días hábiles anteriores a aquél en que dé comienzo la función, con el propósito de que sean autorizados con el sello correspondiente;
+III.- Bienes muebles no comprendidos en las fracciones anteriores.
 
-b) Cada boleto deberá estar numerado progresivamente y contener el nombre de la empresa o persona que realice la función, precio de entrada o admisión, la identificación de la localidad a que de derecho, lugar, fecha y hora de la función;
+IV.- Bienes inmuebles.
 
-c) Entregar a la Tesorería por duplicado y dentro del término a que se refiere la fracción anterior, el programa de la diversión o espectáculo público, los precios y horarios correspondientes, los cuales una vez autorizados, no podrán ser modificados;
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-d) Dar aviso del cambio en los datos proporcionados en la fracción I de este artículo;
+La persona con quien se entienda la diligencia de embargo, podrá designar dos testigos y si no lo hiciere o al terminar la diligencia los testigos designados se negaren a firmar, así lo hará constar el ejecutor en el acta, sin que tales circunstancias afecten la legalidad del embargo.
 
-e) Dar aviso de la terminación o clausura de los espectáculos, cuando éstos se celebren por un periodo indefinido, por lo menos tres días antes de la terminación, que en su momento deberá comprobar a la Tesorería;
+###### ARTICULO 151.
 
-f) Los sujetos al pago de este impuesto, deberán otorgar toda clase de facilidades a los inspectores o interventores comisionados por la Tesorería, para que desempeñen su cometido proporcionándoles los documentos, datos e informes que se requieran para la determinación de este impuesto, la cual se efectuará al terminar cada función, elaborándose el acta respectiva por duplicado, cuya copia conservará el contribuyente;
+El ejecutor podrá señalar bienes sin sujetarse al orden establecido en el artículo anterior, cuando el deudor o la persona con quien se entienda la diligencia:
 
-g) Otorgar garantía suficiente en términos del presente Código; y
+I.- No señale bienes suficientes a juicio del ejecutor o no haya seguido dicho orden al hacer el señalamiento.
 
-h) Pagar los derechos por servicio de limpia, en caso necesario.
+II.- Cuando teniendo el deudor otros bienes susceptibles de embargo, señale:
 
-El pago de este impuesto no libera a las personas físicas o morales que exploten o realicen diversiones o espectáculos públicos, de la obligación de tramitar y obtener cuando otros ordenamientos jurídicos lo determinen, las licencias o autorizaciones que se requieran para el desarrollo de las actividades a que se refiere este capítulo o para la prestación de servicios de otra naturaleza dentro del mismo local.
+A).- Bienes ubicados fuera de la circunscripción de la oficina ejecutora.
 
-###### Artículo 150.
+B).- Bienes que ya reporten cualquier gravamen real o algún embargo anterior.
 
-Los representantes de la Tesorería, nombrados como inspectores o interventores y facultados para tal efecto, previa autorización por escrito, podrán intervenir la taquilla, suspender o clausurar cualquier diversión o espectáculo público, cuando los sujetos de este impuesto se nieguen a permitir que éstos cumplan con su comisión o cuando no se cumplan o se violen las disposiciones que establece el presente Capítulo.
+C).- Bienes de fácil descomposición o deterioro o materias inflamables.
 
-El Cabildo podrá autorizar el pago de cuotas fijas como impuesto, cuando no sea posible su determinación y pago en la forma y términos establecidos en este Capítulo o cuando no se compense el sostenimiento de su interventor.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-###### Artículo 151.
+###### ARTICULO 151 Bis.
 
-Quedan preferentemente afectos en garantía de este impuesto:
+En el caso de embargo de depósitos bancarios en términos del artículo 150, fracción I, del presente Código, la autoridad que haya ordenado el embargo girará oficio al gerente de la sucursal bancaria a la que corresponda la cuenta, a efecto de que la inmovilice y conserve los fondos depositados.
 
-I. Los bienes inmuebles en los que se exploten o realicen diversiones o espectáculos públicos, cuando sean propiedad del sujeto obligado al pago de este impuesto; y
+La institución bancaria deberá informar a la autoridad a que se refiere el párrafo anterior, el incremento de los depósitos bancarios por los intereses que se generen, en el mismo período y frecuencia con que lo haga al cuentahabiente.
 
-II. El equipo y las instalaciones que se utilicen en la diversión o espectáculo público.
+Los fondos únicamente podrán transferirse al fisco una vez que el crédito fiscal relacionado quede firme, y hasta por el importe necesario para cubrirlo.
 
-###### Artículo 152.
+En tanto el crédito fiscal garantizado no quede firme, el contribuyente titular de las cuentas bancarias embargadas podrá ofrecer otra forma de garantía de acuerdo con el artículo 139 de este Código, en sustitución del embargo de las cuentas. La autoridad deberá resolver y notificar al contribuyente sobre la admisión o rechazo de la garantía ofrecida, o el requerimiento de requisitos adicionales, dentro de un plazo máximo de 10 días. La autoridad tendrá la obligación de comunicar a la institución bancaria el sentido de la resolución enviándole copia de la misma, dentro del plazo de 15 días siguientes al en que haya notificado dicha resolución al contribuyente, si no lo hace durante el plazo señalado, la institución bancaria levantará el embargo de la cuenta.
 
-Es objeto de este impuesto, la percepción de ingresos por la venta de boletos para la realización de loterías, rifas, sorteos y concursos dentro del Municipio, así como la obtención de los premios correspondientes.
+###### ARTICULO 152.
 
-###### Artículo 153.
+Quedan exceptuados de embargo:
 
-Son sujetos de este impuesto, las personas físicas o morales, que promuevan u organicen los eventos, así como quienes obtengan los premios a que se refiere el artículo anterior.
+I.- El lecho cotidiano y los vestidos del deudor y de sus familiares.
 
-###### Artículo 154.
+II.- Los muebles de uso común del deudor y de sus familiares, no siendo de lujo a juicio del ejecutor.
 
-Es base gravable de este impuesto:
+III.- Los libros, instrumentos, útiles y mobiliario indispensable para el ejercicio de la profesión, arte y oficio a que se dedique el deudor.
 
-I. El importe total de los boletos o billetes de participación vendidos;
+IV.- La maquinaria, enseres y semovientes de las negociaciones en cuanto fueren necesarios para su actividad ordinaria a juicio del ejecutor, pero podrán ser objeto de embargo con la negociación en su totalidad si a ella están destinados.
 
-II. El importe total de los premios ofrecidos, en rifas o sorteos en que no se emitan billetes o que no tengan valor nominal; y
+V.- Los granos, mientras éstos no hayan sido cosechados, pero no los derechos sobre las siembras.
 
-III. El importe total del premio obtenido, si éste consiste en una cantidad determinada de dinero.
+VI.- El derecho de usufructo, pero no los frutos de éste.
 
-Si los premios consisten en bienes distintos al dinero, se tendrá como base del impuesto, el valor que señalen a dichos bienes los organizadores.
+VII.- Los derechos de uso o de habitación.
 
-Si la Tesorería considera que el valor a que se refiere el párrafo anterior, no es el que realmente le corresponde, ordenará que se valúen los bienes en cuestión, por medio de peritos y el valor así determinado será la base gravable.
+VIII.- El patrimonio de familia en los términos que establezcan las leyes, desde su inscripción en el Registro Público de la Propiedad.
 
-Quienes promuevan u organicen los eventos a que se refiere este capítulo serán responsables de retener el impuesto que le corresponde pagar al ganador del premio y enterarlo a la Tesorería.
+IX.- Los sueldos y salarios.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+
+X.- Las pensiones de cualquier tipo.
+
+XI.- Los Ejidos.
+
+###### ARTICULO 153.
+
+Si al designarse bienes para el embargo se opusiere un tercero fundándose en el dominio de ellos, no se practicará el embargo si se demuestra en el mismo acto la propiedad con prueba documental suficiente a juicio del ejecutor. La resolución dictada tendrá el carácter de provisional y deberá ser sometida a ratificación, en todos los casos por la oficina ejecutora, a la que deberán allegarse los documentos exhibidos en el momento de la oposición. Si a juicio de la ejecutora las pruebas no son suficientes, ordenará al ejecutor que continúe con la diligencia y, de embargarse los bienes, notificará al interesado que puede hacer valer el recurso de oposición al procedimiento administrativo de ejecución en los términos de este Código.
+
+Cuando los bienes señalados para la traba estuvieren ya embargados por otras autoridades no fiscales, se practicará no obstante la diligencia. Dichos bienes se entregarán al depositario designado por la oficina ejecutora o por el ejecutor y se dará aviso a la autoridad correspondiente para que el o los interesados puedan demostrar su derecho de prelación en el cobro.
+
+Las controversias que surjan entre el fisco local y el fisco federal sobre preferencia en el cobro de los créditos a que este código se refiere, se decidirán tomando en cuenta las garantías constituidas y conforme a las siguientes reglas:
+
+I.- Los créditos fiscales por impuestos sobre la propiedad raíz serán preferentes tratándose de los frutos de los bienes inmuebles respectivos o del producto de la venta de éstos, y
+
+II.- En los demás casos, la preferencia corresponderá al fisco que tenga el carácter de primer embargante.
+
+Para determinar la preferencia respecto de los créditos fiscales, en casos diversos de los anteriores, se estará a las siguientes reglas:
+
+I.- Los créditos del gobierno estatal provenientes de impuestos, derechos, productos o aprovechamientos, son preferentes a cualesquiera otros, con excepción de los créditos con garantía hipotecaria o prendaria, de alimentos, de salarios o sueldos devengados en el último año o de indemnizaciones a los obreros de acuerdo con la Ley Federal del Trabajo.
+
+II.- Para que sea aplicable la excepción a que se refiere la fracción anterior, será requisito indispensable que las garantías hipotecarias y, en su caso, las prendarias, se encuentren debidamente inscritas en el Registro Público que corresponda.
+
+III.- La vigencia y exigibilidad por cantidad líquida del derecho del crédito cuya preferencia se invoque, deberá comprobarse en forma fehaciente al hacerse valer el recurso administrativo de reclamación de preferencia.
+
+###### ARTICULO 154.
+
+El embargo de créditos será notificado directamente por la oficina ejecutora a los deudores del crédito embargado, para que no hagan el pago de las cantidades respectivas a éste sino en la caja de la citada oficina, apercibidos de doble pago en caso de desobediencia.
+
+Si en cumplimiento de lo dispuesto en el primer párrafo de este artículo, se paga un crédito cuya cancelación deba anotarse en el Registro Público que corresponda, la oficina ejecutora requerirá al titular de los créditos embargados para que, dentro de los cinco días siguientes a la notificación, firme la escritura de pago y cancelación o el documento en que deba constar el finiquito.
+
+En caso de abstención del titular de los créditos embargados, transcurrido el plazo indicado, el Secretario de Finanzas y Tesorero General del Estado firmará la escritura o documentos relativos en rebeldía de aquél y lo hará del conocimiento del registro público que corresponda, para los efectos procedentes.
 
 ### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
 
@@ -1688,51 +1978,55 @@ Las operaciones de endeudamiento que, previo cumplimiento de los requisitos deta
 
 Cuando las condiciones financieras del Ayuntamiento así lo hagan necesario, previo acuerdo del Cabildo, y cumpliendo con las disposiciones de la ley, se podrán contraer nuevas obligaciones, para la reestructuración de los créditos ya adquiridos.
 
-###### Artículo 155.
+###### ARTICULO 155.
 
-Este impuesto se causará, liquidará y pagará, aplicando a la base gravable determinada, la tasa del veinte por ciento sobre el valor nominal total de los boletos o billetes vendidos o, cuando el mismo no pueda determinarse, sobre el valor total de los premios ofrecidos.
+El dinero, metales preciosos, alhajas y valores mobiliarios embargados, se entregarán por el depositario a la oficina ejecutora, previo inventario, dentro de un plazo que no excederá de veinticuatro horas.
 
-Las personas que obtengan premios por participar en loterías, rifas, sorteos o concursos pagarán una tasa del seis por ciento sobre el monto total del ingreso obtenido.
+Las sumas de dinero objeto del embargo, así como la cantidad que señale el propio ejecutado, se aplicarán a cubrir el crédito fiscal al recibirse en la caja de la oficina ejecutora.
 
-###### Artículo 156.
+###### ARTICULO 156.
 
-Este impuesto se deberá pagar en la Tesorería, a más tardar el día hábil siguiente a aquél en que se efectúen los eventos a que se refiere el presente capítulo.
+Si el deudor o cualquiera otra persona impidiera materialmente al ejecutor el acceso al domicilio de aquél o al lugar en que se encuentren bienes, siempre y cuando se haya dado orden de cateo, el ejecutor solicitará el auxilio de la policía o de otra fuerza pública para llevar adelante el procedimiento de ejecución.
 
-###### Artículo 157.
+###### ARTICULO 157.
 
-Son responsables solidarios del pago de este impuesto, las personas físicas o morales, que promuevan u organicen loterías, rifas y sorteos de toda clase, respecto de la obligación de retener y enterar el impuesto que corresponda a cargo de quienes obtienen premios derivados de dichos eventos.
+Si durante el embargo, la persona con quien se entienda la diligencia no abriera las puertas de las construcciones, edificios o casas señalados para la traba, o en los que se presuma que existen bienes muebles embargables, el ejecutor previo acuerdo de cateo del jefe de la oficina ejecutora, hará que ante dos testigos sean rotas las cerraduras que fueren necesarias, para que el depositario tome posesión del inmueble o para que siga adelante la diligencia.
 
-###### Artículo 158.
+En igual forma procederá el ejecutor cuando la persona con quien se entienda la diligencia no abriere los muebles en los que aquél suponga se guardan dinero, alhajas, objetos de arte u otros bienes embargables. Si no fuere factible romper o forzar las cerraduras el mismo ejecutor trabará embargo en los muebles cerrados y en su contenido, y los sellará y enviará en depósito a la oficina exactora, donde serán abiertos en el término de tres días por el deudor o por su representante legal y, en caso contrario por un experto designado por la propia oficina.
 
-Las personas a quienes se conceda autorización para celebrar los eventos a que se refiere este capítulo, tendrán las siguientes obligaciones:
+Si no fuere factible romper o forzar las cerraduras de las cajas u otros objetos unidos a un inmueble o si fueren de difícil transportación, el ejecutor trabará embargo sobre ellos y su contenido y los sellará; para su apertura se seguirá el procedimiento mencionado en el párrafo anterior.
 
-I. Presentar a la Tesorería la emisión total del boletaje o billetes de participación, cuando menos quince días hábiles anteriores a aquél en que se realizará el evento de que se trate, con el propósito de que sean autorizados con el sello correspondiente;
+###### ARTICULO 158.
 
-II. Numerar progresivamente cada boleto o billete, que contendrá el nombre de la persona o institución que organice el evento, el importe del boleto, la identificación del o los números claves de participación, lugar y fecha de celebración del evento, así como la descripción de los premios a ganar;
+Cuando las autoridades fiscales embarguen negociaciones, el depositario designado tendrá el carácter de interventor con cargo a la caja, o de administrador.
 
-III. Presentar a favor de la Tesorería dentro del plazo señalado en la fracción anterior alguna de las siguientes garantías: Depósito en efectivo, fianza de institución afianzadora autorizada u obligación solidaria asumida por tercero que compruebe su solvencia.
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
-Dicha garantía deberá ser al menos, por un importe igual al total de la emisión de boletos o billetes de participación;
+###### ARTICULO 159.
 
-IV. Dar aviso a la Tesorería por escrito, a más tardar dos días hábiles anteriores a aquél señalado para efectuar los eventos de referencia, de cualquier modificación que se haga a los términos establecidos para la realización de los mismos;
+El interventor encargado de la caja deberá retirar el 10% de los ingresos netos de la negociación intervenida y entregarlos en la caja de la oficina ejecutora diariamente o a medida que se efectúe la recaudación.
 
-V. Otorgar toda clase de facilidades a los inspectores o interventores comisionados por la Tesorería para que desempeñen adecuadamente su cometido, proporcionándoles los documentos, datos e informes que se requieran para la determinación de este impuesto;
+Cuando el interventor tenga conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro los intereses del fisco del Estado, dictará las medidas provisionales urgentes que estime necesarias para proteger dichos intereses y dará cuenta a la oficina ejecutora, la que podrá ratificarlas o modificarlas.
 
-VI. Retener y enterar el impuesto que corresponda, conforme a los artículos 154 y 156 de este Código, el día hábil siguiente al de la entrega de los premios, entretanto no se cancelarán las garantías otorgadas; y
+Si las medidas a que se refiere el párrafo anterior no fueren acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en administración, o bien se procederá a enajenar la negociación, conforme a este Código y las demás disposiciones legales aplicables.
 
-VII. Proporcionar constancia de retención de impuestos a la persona que obtenga el premio.
+###### ARTICULO 160.
 
-###### Artículo 159.
+El interventor-administrador tendrá todas las facultades que normalmente correspondan a la administración de la sociedad y plenos poderes con las facultades que requiera cláusula especial conforme a la Ley, para ejercer actos de administración, para pleitos y cobranzas, para otorgar y suscribir títulos de crédito, y para presentar denuncias y querellas y desistirse de las mismas previo acuerdo del Secretario de Finanzas y Tesorero General del Estado.
 
-No causarán este impuesto la Federación, los Estados, los Municipios, los Partidos Políticos en los términos de la legislación electoral correspondiente, los organismos públicos descentralizados de la Administración Pública Estatal y Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, y las asociaciones de asistencia y beneficencia pública legalmente constituidas, así como las asociaciones religiosas. Tampoco se causará este impuesto cuando los premios en forma global no superen el valor equivalente a los cuatrocientos salarios mínimos en el Municipio.
+El interventor administrador no quedará supeditado en su actuación al consejo de administración, asamblea de accionistas, socios o partícipes.
 
-###### Artículo 160.
+Tratándose de negociaciones que no constituyan una sociedad, el interventor administrador tendrá todas las facultades de dueño para la conservación y buena marcha del negocio.
 
-El Cabildo podrá autorizar el pago de cuotas fijas como impuesto, cuando no sea posible su determinación y pago en la forma y términos establecidos en este Capítulo o cuando no se compense el sostenimiento de su interventor.
+###### ARTICULO 161.
 
-###### Artículo 161.
+El interventor-administrador tendrá las siguientes obligaciones:
 
-Es objeto de este impuesto, la explotación comercial de los juegos siguientes: billar, dominó, dados, ajedrez, damas y juegos electrónicos, excepto cuando se trate de torneos gratuitos, lo cual se notificará y comprobará previamente ante la Tesorería Municipal.
+I.- Rendir cuentas mensuales comprobadas a la oficina ejecutora.
+
+II.- Recaudar el 10% de las ventas o ingresos diarios en la negociación intervenida y entregar su importe en la caja de la oficina ejecutora a medida que se efectúe la recaudación.
+
+Cuando se den los supuestos de enajenación de la negociación intervenida a que se refiere el Artículo 166 de este Código, se procederá al remate de conformidad con las disposiciones contenidas en la siguiente sección de este capítulo.
 
 ### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
 
@@ -1800,41 +2094,47 @@ VIII. Operar el Registro de Deuda Pública Municipal; y
 
 IX. Las demás que le confieran este Código y otras leyes.
 
-###### Artículo 162.
+###### ARTICULO 162.
 
-Son sujetos de este impuesto, las personas físicas o morales, ya sean propietarias o arrendatarias de los establecimientos donde tenga acceso el público, en que se practiquen los juegos a que se refiere este capítulo.
+El nombramiento de interventor-administrador deberá anotarse en el Registro Público que corresponda al domicilio de la negociación intervenida.
 
-###### Artículo 163.
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
-Este impuesto se causará mensualmente por cada establecimiento en que se celebren juegos permitidos.
+###### ARTICULO 163.
 
-###### Artículo 164.
+Sin perjuicio de lo dispuesto por el Artículo 160 de este Código, la Asamblea y Administración de la sociedad podrán continuar reuniéndose regularmente para conocer los asuntos que les competen y de los informes que formule el interventor administrador sobre el funcionamiento y las operaciones de la negociación, así como para opinar sobre los asuntos que les someta a su consideración. El interventor podrá convocar a asamblea de accionistas, socios o partícipes y citar a la administración de la sociedad con los propósitos que considere necesarios o convenientes, previa autorización del Secretario de Finanzas y Tesorero General del Estado.
 
-Este impuesto se causará y pagará conforme a la tarifa mensual de 0.25 salarios mínimos por mesa o máquina de juego.
+###### ARTICULO 164.
 
-###### Artículo 165.
+En caso de que la negociación que se pretenda intervenir ya lo estuviera por mandato de otra autoridad, se nombrará, no obstante, el nuevo interventor, que también lo será para las otras intervenciones mientras subsista la efectuada por las autoridades fiscales. La designación o cambio de interventor se pondrá en conocimiento de las autoridades que ordenaron las anteriores o posteriores intervenciones.
 
-Este impuesto se pagará en la Tesorería, los primeros cinco días de cada mes.
+###### ARTICULO 165.
 
-###### Artículo 166.
+La intervención se levantará cuando el crédito fiscal se hubiera satisfecho o cuando de conformidad con este Código se haya enajenado la negociación. En estos casos la oficina ejecutora comunicará el hecho al Registro Público que corresponda para que se cancele la inscripción respectiva.
 
-Las personas a quienes se conceda autorización para celebrar los eventos a que se refiere este capítulo, tendrán las siguientes obligaciones:
+###### ARTICULO 166.
 
-I. Solicitar previamente la licencia para celebrar los juegos a la autoridad competente;
+El Secretario de Finanzas y Tesorero General del Estado podrá proceder a la enajenación de la negociación intervenida cuando lo recaudado en tres meses no alcance a cubrir por lo menos el 30% del crédito fiscal, salvo que se trate de negociaciones que obtengan sus ingresos en un determinado período del año, en cuyo caso el porciento será el que corresponda al número de meses transcurridos a razón del 8% mensual y siempre que lo recaudado no alcance para cubrir el porciento del crédito que resulte.
 
-II. Dar aviso a la Tesorería de la iniciación de sus actividades, con cinco días de antelación cuando menos, indicando el número y fecha de oficio en que conste la licencia que se le haya concedido y la autoridad que la haya otorgado;
+###### ARTICULO 167.
 
-III. Dar aviso a la Tesorería del traspaso o traslado del negocio y de la terminación de las actividades gravadas, antes de que estos hechos ocurran; y
+Procederá la iniciación del procedimiento de remate y enajenación de los bienes embargados:
 
-IV. Otorgar toda clase de facilidades a los inspectores o interventores comisionados por la Tesorería para que desempeñen adecuadamente su cometido.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-###### Artículo 167.
+I.- A partir del día siguiente a aquél en que se hubiese fijado la base en los términos del Artículo 169 de este Código.
 
-La Tesorería podrá impedir la celebración de los juegos a que se refiere este capítulo cuando se carezca de la licencia respectiva, cuando no se pague el impuesto en términos de ley o cuando se impida a las autoridades fiscales cumplir su cometido.
+II.- En los casos de embargo precautorio a que se refiere el artículo 143 de este Código, cuando los créditos se hagan exigibles y no se paguen al momento del requerimiento.
 
-###### Artículo 168.
+III.- Cuando el embargado no proponga comprador dentro del plazo a que se refiere la Fracción I del Artículo 186 de este Código.
 
-La Tesorería podrá nombrar interventores para vigilar el cumplimiento de las obligaciones fiscales, a cargo de los sujetos del impuesto.
+IV.- Al quedar firme la resolución confirmatoria del acto impugnado, recaída en los medios de defensa que se hubieren hecho valer.
+
+###### ARTICULO 168.
+
+Salvo los casos que este Código autoriza, toda enajenación se hará en subasta pública que se celebrará en el local de la oficina ejecutora.
+
+La autoridad podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes o piezas sueltas.
 
 ### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
 
@@ -1858,27 +2158,31 @@ VI. Las demás que le confieran este Código y otras leyes.
 
 A fin de que las entidades a que refieren las fracciones II a IV del artículo 400 de este Código, puedan obtener autorización del Ayuntamiento para la contratación de financiamientos en el caso previsto en la fracción II del artículo 406, deberán proporcionar a la Tesorería sus programas financieros y la información que arroje su capacidad de pago, así como toda aquella que se les solicite, a fin de determinar sus necesidades de crédito y la viabilidad de su pago.
 
-###### Artículo 169.
+###### ARTICULO 169.
 
-Es objeto de esta contribución, la realización de pagos por concepto de impuestos, derechos y productos que establece este Código, excepto el relativo al Impuesto sobre Traslación de Dominio de Bienes Inmuebles.
+La base para la enajenación de los bienes inmuebles embargados será el avalúo que formule la dependencia administrativa competente de la Secretaría de Finanzas y Tesorería General del Estado, en negociaciones será el avalúo pericial que formule institución nacional de crédito autorizada para tal efecto, y en los demás casos la que fijen de común acuerdo la autoridad y el embargado en un plazo de seis días. A falta de acuerdo, la Secretaría de Finanzas y Tesorería General del Estado practicará avalúo pericial. En todo caso se notificará personalmente al embargado el resultado de la valuación.
 
-###### Artículo 170.
+Si dentro de los seis días siguientes a aquél en que surta efectos la notificación a que se refiere el párrafo anterior, el embargado se inconforma con la valuación de los inmuebles o negociaciones embargados, la autoridad exactora, nombrará como perito a alguna institución nacional de crédito autorizada. El avalúo que emita dicha institución será la base para la enajenación de los bienes.
 
-Son sujetos de esta contribución, quienes realicen los pagos a que se refiere el artículo anterior.
+###### ARTICULO 170.
 
-###### Artículo 171.
+El remate deberá ser convocado para una fecha fijada dentro de los treinta días siguientes a aquélla en que se haya determinado el precio que sirva de base. La publicación de la convocatoria se hará cuando menos diez días antes del remate.
 
-Es base de esta contribución el importe de los pagos por concepto de los impuestos, derechos y productos municipales.
+La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente.
 
-###### Artículo 172.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-Esta contribución se causará y pagará, aplicando a la base que corresponda, las tarifas o tasas siguientes:
+En el caso de que el valor de los bienes exceda de una cantidad equivalente a cinco cuotas elevadas al año, la convocatoria se publicará en el órgano oficial de la entidad y en uno de los periódicos de mayor circulación.
 
-I. Siete y medio por ciento adicional sobre el impuesto predial;
+###### ARTICULO 171.
 
-II. Diez por ciento adicional sobre los impuestos sobre espectáculos públicos; sobre loterías, rifas, sorteos y concursos; sobre juegos permitidos; y sobre fraccionamientos; y
+Los acreedores que aparezcan del certificado de gravámenes correspondientes a los últimos diez años, serán citados para el acto de remate y, en caso de no ser factible hacerlo por alguna de las causas a que se refiere la Fracción IV del Artículo 133 de este Código, se tendrá como citación la que se haga en las convocatorias en que se anuncie el remate, en las que deberá expresarse el nombre de dichos acreedores.
 
-III. Diez por ciento adicional sobre los derechos y productos que establece el presente Código.
+Los acreedores a que alude el párrafo anterior podrán concurrir al remate y hacer las observaciones que estimen del caso, las cuales serán resueltas por la autoridad ejecutora en el acto de la diligencia.
+
+###### ARTICULO 172.
+
+Mientras no se finque el remate, el embargado puede proponer comprador que ofrezca de contado la cantidad suficiente para cubrir el crédito fiscal.
 
 ## TÍTULO SEXTO. DE LAS PARTICIPACIONES FEDERALES
 
@@ -1968,13 +2272,17 @@ El Municipio y las entidades podrán contratar montos adicionales de financiamie
 
 En la contratación de deuda se deberá buscar que se mantenga un correcto equilibrio financiero y que se cuente con los elementos económicos suficientes para hacer frente a las obligaciones contraídas.
 
-###### Artículo 173.
+###### ARTICULO 173.
 
-Esta contribución se liquidará y pagará junto con los impuestos, derechos o productos sobre los que recae y su pago se hará en el momento en que se haga el entero de estos últimos.
+Es postura legal la que cubra las dos terceras partes del valor señalado como base para el remate.
 
-###### Artículo 174.
+###### ARTICULO 174.
 
-Es objeto de este impuesto la percepción de ingresos que obtengan los fraccionadores por la enajenación de lotes de terreno.
+En toda postura deberá ofrecerse de contado, cuando menos la parte suficiente para cubrir el interés fiscal, si éste es superado por la base fijada para el remate, la diferencia podrá reconocerse en favor del ejecutado.
+
+Si el importe de la postura es menor al interés fiscal, se rematarán de contado los bienes embargados.
+
+La autoridad exactora podrá enajenar a plazos los bienes embargados. En este supuesto quedará liberado de la obligación de pago el embargado.
 
 ### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
 
@@ -1994,17 +2302,29 @@ El Ayuntamiento podrá comprometer hasta el treinta por ciento de los ingresos m
 
 El Municipio y las entidades podrán otorgar en garantía ingresos hacendarios presentes y futuros, sin exceder el término de su administración, salvo autorización expresa del Congreso.
 
-###### Artículo 175.
+###### ARTICULO 175.
 
-Son sujetos de este impuesto las personas físicas o morales que obtengan ingresos de acuerdo a lo establecido en el artículo anterior, siempre que el fraccionamiento se realice o surta sus efectos dentro del territorio del Municipio.
+Al escrito en que se haga la postura se acompañará necesariamente un certificado de depósito por el diez por ciento, cuando menos, del valor fijado a los bienes en la convocatoria, expedido por la Secretaría de Finanzas y Tesorería General del Estado.
 
-###### Artículo 176.
+El importe de los depósitos que se constituyen de acuerdo con lo que establece el presente artículo, servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados. Inmediatamente después de fincado el remate, previa orden de la autoridad ejecutora, se devolverán los certificados de depósito a los postores, o las cantidades depositadas en la propia oficina, excepto el que corresponda al admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de venta.
 
-La base de este impuesto será el valor catastral del inmueble o el valor de operación consignado en escritura pública, si este último es mayor.
+###### ARTICULO 176.
 
-###### Artículo 177.
+El escrito en que se haga la postura deberá contener:
 
-Este impuesto se causará, liquidará y pagará aplicando a la base gravable determinada la tasa de uno al millar.
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+
+I.- Cuando se trate de personas físicas, el nombre, la nacionalidad y el domicilio del postor, y en su caso, la clave del Registro Federal de Contribuyentes; tratándose de sociedades, el nombre o razón social, la fecha de constitución, la clave del Registro Federal de Contribuyentes y el domicilio social.
+
+II.- La cantidad que se ofrezca y la forma de pago.
+
+###### ARTICULO 177.
+
+El día y hora señalados en la convocatoria, el jefe de la oficina ejecutora hará saber a los presentes que posturas fueron calificadas como legales y cuál es la mejor de ellas, concediendo plazos sucesivos de cinco minutos cada uno, hasta que la última postura no sea mejorada.
+
+El jefe de la oficina ejecutora fincará el remate en favor de quien hubiere hecho la mejor postura.
+
+Si en la última postura se ofrece igual suma de contado, por dos o más licitantes, se designará por suerte la que deba aceptarse.
 
 ### CAPÍTULO VII. DE LA AFECTACIÓN DE PARTICIPACIONES FEDERALES
 
@@ -2104,43 +2424,67 @@ II. Comunicar al Ejecutivo del Estado, cuando éste actúe como aval, todos los 
 
 III. Comunicar al Congreso el pago total o parcial de las obligaciones, para efectos de su inscripción en el Registro de Deuda Pública Municipal.
 
-###### Artículo 178.
+###### ARTICULO 178.
 
-El pago de este impuesto deberá efectuarse en la Tesorería correspondiente al domicilio del bien a fraccionar, dentro de los veinte días siguientes a la fecha en que se hubiere causado.
+Cuando el postor en cuyo favor se hubiera fincado un remate no cumpla con las obligaciones contraídas y las que este Código señala, perderá el importe del depósito que hubiere constituido y la autoridad ejecutora lo aplicará de inmediato en favor del fisco del Estado. En este caso se reanudarán las almonedas en la forma y plazos que señalan los artículos respectivos.
 
-###### Artículo 179.
+###### ARTICULO 179.
 
-Las disposiciones de este Capítulo afectarán exclusivamente a aquellas operaciones que se encuentren comprendidas en la fracción I del artículo 9 de la Ley del Impuesto al Valor Agregado.
+Fincado el remate de bienes muebles se aplicará el depósito constituido. Dentro de los tres días siguientes a la fecha del remate, el postor enterará en la caja de la oficina ejecutora el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
 
-###### Artículo 180.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-Los sujetos de este impuesto deberán inscribirse en el registro municipal, dentro del plazo de los treinta días siguientes a la fecha en que hayan iniciado sus actividades, en la Tesorería, acompañando plano autorizado del fraccionamiento, en el que se señalará el área y número de lotes a enajenar.
+Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, se citará al contribuyente para que, dentro de un plazo de tres días hábiles, entregue las facturas o documentación comprobatoria de la enajenación de los mismos, la cual deberá expedirla cumpliendo, en lo conducente, con los requisitos a que se refiere el artículo 30 de este Código, apercibido de que si no lo hace, la autoridad ejecutora emitirá el documento correspondiente en su rebeldía.
 
-Cuando un mismo contribuyente realice más de un fraccionamiento deberá registrarlos por separado, con observancia de lo dispuesto en el párrafo anterior.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-###### Artículo 181.
+Posteriormente, la autoridad deberá entregar al adquirente, conjuntamente con estos documentos, los bienes que le hubiere adjudicado.
 
-Lo previsto en este Capitulo se aplicará sin perjuicio de las obligaciones que se deriven de la Ley de Catastro y de la Ley de Desarrollo Regional y Urbano del Estado de Veracruz-Llave.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-###### Artículo 182.
+Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la autoridad los ponga a su disposición, en caso de no hacerlo se causarán derechos por el almacenaje a partir del día siguiente.
 
-Para los efectos de este impuesto se entenderá por:
+###### ARTICULO 180.
 
-I. Fraccionador: la persona física o moral que realice un fraccionamiento con fines de lucro;
+Fincado el remate de bienes inmuebles o negociaciones se aplicará el depósito constituido. Dentro de los diez días siguientes a la fecha del remate, el postor enterará en la caja de la oficina ejecutora el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
 
-II. Fraccionamiento: división, aprobada por la autoridad competente, de un terreno en lotes, con servicios de infraestructura y equipamiento;
+Hecho el pago a que se refiere el párrafo anterior y designado en su caso el notario por el postor, se citará al ejecutado para que, dentro del plazo de diez días, otorgue y firme la escritura de venta correspondiente, apercibido de que, si no lo hace, el Secretario de Finanzas y Tesorero General del Estado lo hará en su rebeldía.
 
-III. Valor Catastral: valor de un bien inmueble, que se obtiene al aplicar las técnicas de valuación establecidas en el Capitulo IV de la Ley de Catastro; y
+El ejecutado, aún en el caso de rebeldía, responde por la evicción.
 
-IV. Enajenación: toda transmisión de propiedad, aun en la que el enajenante se reserve el dominio del bien enajenado.
+###### ARTICULO 181.
 
-###### Artículo 183.
+Los bienes pasarán a ser propiedad del adquirente libres de gravámenes y a fin de que éstos se cancelen, tratándose de inmuebles, la autoridad ejecutora lo comunicará al Registro Público que corresponda, en un plazo que no excederá de quince días.
 
-Es objeto de estos derechos la prestación de servicios por parte del Municipio, a través de sus dependencias o entidades, en sus funciones de derecho público.
+###### ARTICULO 182.
 
-###### Artículo 184.
+Una vez que se hubiera otorgado y firmado la escritura en que conste la adjudicación de un inmueble, el Secretario de Finanzas y Tesorero General del Estado dispondrá que se entregue al adquiriente, girando las órdenes necesarias, aún las de desocupación, si estuviere habitado por el ejecutado o por terceros que no pudieren acreditar legalmente el uso.
 
-Son sujetos del pago de derechos las personas físicas o morales que reciban servicios prestados por el Municipio o por sus entidades, en funciones de derecho público.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 182 Bis.
+
+En el caso en que los bienes rematados no puedan ser entregados al postor a cuyo favor se hubiera fincado el remate en la fecha en que éste lo solicite, por existir impedimento jurídico debidamente fundado para ello, aquél podrá, en un plazo de seis meses contado a partir de la fecha en que solicite la entrega de los bienes, solicitar a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes. La autoridad entregará la cantidad respectiva en un plazo de dos meses contado a partir de la fecha en que se efectúe la solicitud. Si dentro de este último plazo cesa la causa por la cual la autoridad fiscal se vio imposibilitada para efectuar la entrega de los bienes rematados, se procederá a la entrega de los mismos en lugar de entregar al postor las cantidades pagadas por esos bienes.
+
+Transcurrido el plazo de seis meses a que se refiere el párrafo anterior, sin que el postor solicite a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes, el importe de la postura causará abandono a favor del fisco estatal dentro de dos meses contados a partir de la fecha en que concluya el plazo antes citado y se estará a lo dispuesto en el artículo 191 de este Código.
+
+En el caso en que la autoridad fiscal entregue las cantidades pagadas por la adquisición de los bienes rematados, se dejará sin efectos el remate efectuado. Si con posterioridad a la entrega de las cantidades señaladas anteriormente cesa la causa por la cual la autoridad fiscal se vio imposibilitada jurídicamente para efectuar la entrega de los bienes rematados, ésta deberá iniciar nuevamente el procedimiento establecido en esta Sección para enajenar los mismos, dentro de los quince días siguientes a aquél en que haya cesado el impedimento o se cuente con resolución firme que permita hacerlo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 183.
+
+Queda estrictamente prohibido adquirir los bienes objeto de remate, por sí o por medio de interpósita persona, a los jefes y demás empleados de las oficinas ejecutoras, así como a todos aquellos que hubieren intervenido por parte del Fisco en el procedimiento administrativo de ejecución. El remate efectuado con infracción a este precepto será nulo y los infractores serán sancionados conforme a este Código.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+
+###### ARTICULO 184.
+
+El Fisco Estatal tendrá preferencia para adjudicarse en cualquier almoneda, los bienes ofrecidos en remate, en los siguientes casos:
+
+I.- A falta de postores, por la base de la postura legal que habría de servir para la almoneda siguiente.
+
+II.- Hasta por el monto del crédito, si éste no excede de la cantidad en que deba fincarse el remate en la segunda almoneda, de acuerdo con lo estipulado en la parte final del artículo siguiente.
 
 # LIBRO CUARTO. DE LA ADMINISTRACIÓN FINANCIERA MUNICIPAL
 
@@ -2156,21 +2500,29 @@ La inscripción en el Registro de Deuda Pública Municipal de las obligaciones a
 
 Las operaciones de crédito autorizadas, sólo podrán modificarse con los mismos requisitos y formalidades relativos a su autorización.
 
-###### Artículo 185.
+###### ARTICULO 185.
 
-Los derechos por la prestación de servicios deberán ser congruentes con el costo total del servicio, incluso el financiero, excepto cuando dichos costos tengan un carácter de administración del servicio.
+Cuando no se hubiere fincado el remate en la primera almoneda, se fijará nueva fecha y hora para que, dentro de los veinte días siguientes, se lleve a cabo una segunda y última almoneda, cuya convocatoria se hará en los términos del artículo 170 de este Código.
 
-###### Artículo 186.
+La base para el remate en la segunda almoneda se determinará deduciendo un 20% de la señalada para la primera.
 
-Los derechos por los servicios prestados por la administración pública municipal se causarán y pagarán conforme a las tasas, cuotas o tarifas que para cada caso señale este Código.
+###### ARTICULO 186.
 
-###### Artículo 187.
+Los bienes embargados podrán enajenarse fuera de remate, cuando:
 
-Los derechos que, en su caso, se recauden por el otorgamiento de la concesión de bienes o servicios municipales, se ingresarán con arreglo a lo previsto en cada título de concesión.
+I.- El embargado proponga comprador antes del día en que se finque el remate, se enajenen, o adjudiquen los bienes a favor del fisco, siempre que el precio en que se vendan cubra el valor que se haya señalado a los bienes embargados.
 
-###### Artículo 188.
+II.- Se trate de bienes de fácil descomposición o deterioro, o de materiales inflamables, siempre que en la localidad no se puedan guardar o depositar en lugares apropiados para su conservación.
 
-Cuando se concesione total o parcialmente un servicio público gravado por ley, el Ayuntamiento revisará que la tarifa que se cobre sea proporcional a la participación del concesionario en la prestación del servicio.
+III.- Se trate de bienes que habiendo salido a remate no se hubieren presentado postores en ninguna de las dos almonedas.
+
+###### ARTICULO 187.
+
+En el supuesto señalado en la Fracción III del artículo anterior, las autoridades fiscales podrán hacer la enajenación directamente o encomendarla a empresas o instituciones dedicadas a la compraventa o subasta de bienes, considerando el precio que se haya determinado como postura legal en la segunda almoneda.
+
+###### ARTICULO 188.
+
+El producto obtenido del remate, enajenación o adjudicación de los bienes al fisco, se aplicará a cubrir el crédito fiscal en el orden que establece el Artículo 21 de este Código.
 
 ## TÍTULO OCTAVO. DE LOS INGRESOS EXTRAORDINARIOS
 
@@ -2252,45 +2604,73 @@ Los bienes del dominio privado del Municipio son susceptibles de enajenación, u
 
 Sólo en casos excepcionales, por razones debidamente fundadas y motivadas, el Ayuntamiento podrá, con el voto de las dos terceras partes de sus integrantes, desincorporar los bienes de uso común o los afectos o destinados a un servicio público para convertirlos en bienes de dominio privado, previa autorización del Congreso o, en su caso, de la Diputación Permanente.
 
-###### Artículo 189.
+###### ARTICULO 189.
 
-En el caso de servicios concesionados, el concesionario podrá convenir con las dependencias o entidades de que se trate, el mecanismo que permita el cobro oportuno del servicio.
+En tanto no se hubieran rematado, enajenado o adjudicado los bienes, el embargado podrá pagar el crédito total o parcialmente y recuperarlos inmediatamente en la proporción del pago, tomándose en cuenta el precio del avalúo.
 
-###### Artículo 190.
+###### ARTICULO 190.
 
-Salvo disposición expresa en contrario, los derechos se pagarán ante la Tesorería o la entidad de que se trate, o en las oficinas que éstas autoricen para tal efecto.
+Cuando existan excedentes después de haberse cubierto el crédito, se entregarán al deudor, salvo que medie orden de autoridad competente o que el propio deudor acepte por escrito que se haga entrega total o parcial del saldo a un tercero.
 
-###### Artículo 191.
+En caso de conflicto, el remanente se depositará en institución de crédito autorizada, en tanto resuelven las autoridades competentes.
 
-El pago de derechos deberá hacerse por el contribuyente, salvo disposición expresa en contrario, antes de que le sean prestados los servicios que solicite.
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
-###### Artículo 192.
+###### ARTICULO 191.
 
-Los administradores de bienes o servicios concesionados serán solidariamente responsables de que los concesionarios enteren con oportunidad y en los términos previstos en el título de concesión, los derechos respectivos.
+Causarán abandono en favor del Fisco los bienes a disposición de las Autoridades Fiscales, Administrativas o Judiciales, en los siguientes casos:
 
-###### Artículo 193.
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
-Son facultades de las autoridades fiscales, en materia de derechos:
+I.- Cuando habiendo sido enajenados o adjudicados los bienes al adquiriente no se retiren del lugar en que se encuentren, dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
 
-I. Verificar su pago, así como la obtención oportuna por parte de los contribuyentes de la cédula de empadronamiento y la autorización, en su caso;
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
-II. Auxiliar a los concesionarios de servicios en el cobro de tarifas; y
+II.- Cuando el embargado efectúe el pago del crédito fiscal u obtenga resolución o sentencia favorable que ordene su devolución derivada de la interposición de algún medio de defensa antes de que se hubieren rematado, enajenado o adjudicado los bienes y no los retire del lugar en que se encuentren dentro de dos meses contados a partir de la fecha en que se pongan a disposición del interesado.
 
-III. Las demás que prevén este ordenamiento, la legislación aplicable y los reglamentos administrativos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-###### Artículo 194.
+III.- Se trate de bienes muebles que no hubieren sido rematados después de transcurridos dieciocho meses de practicado el embargo y respecto de los cuales no se hubiere interpuesto ningún medio de defensa;
 
-Las cuotas señaladas en este Título para certificados o copias certificadas se refieren a documentos expedidos en hojas de papel que no excedan de treinta y cinco centímetros de largo por veinticuatro centímetros de ancho y que no deberán contener más de ochenta renglones, por ambos lados; los certificados o copias certificadas en hojas de mayor dimensión o mayor número de renglones causarán doble cuota.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
-La dependencia, funcionario o empleado que preste el servicio por el cual se paguen los derechos, procederá a la prestación del mismo, al presentar el interesado el recibo que acredite su pago ante la Tesorería, o bien en las instituciones bancarias previamente autorizadas en los términos de este Código; ningún otro comprobante justificará el pago correspondiente.
+IV.- Se trate de bienes que por cualquier circunstancia se encuentren en depósito o en poder de las autoridades fiscales, administrativas o judiciales o hayan sido retenidos o asegurados por las mismas y los propietarios de los mismos no los retiren dentro de sesenta días naturales contados a partir de la fecha en que se ponga a su disposición.
 
-El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto anteriormente, será responsable de su pago.
+> <small>(ADICIONADO [N. DE E. ANTES SEGUNDO PÁRRAFO DE LA FRACCIÓN III], P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-La recepción del pago de derechos por parte de las autoridades fiscales, en el caso de solicitarse el otorgamiento de permisos, licencias o autorizaciones, sus ampliaciones o refrendos, no obliga a la autoridad a emitir una respuesta favorable, pero sí a devolver lo pagado en caso de negativa.
+Se entenderá que los bienes se encuentran a disposición del interesado, a partir del día siguiente a aquel en que se le notifique la resolución correspondiente.
 
-La falta de pago, por sí misma, justifica la no prestación del servicio o la no expedición de la licencia, permiso o autorización de que se trate.
+> <small>(ADICIONADO [N. DE E. ANTES TERCER PÁRRAFO DE LA FRACCIÓN III], P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-Cuando la ley establezca la obligación de pago de un refrendo de permisos, licencias o autorizaciones, sin especificar el plazo dentro del que debe solicitarse, se estará a lo que mediante disposiciones generales dé a conocer el Cabildo.
+Cuando los bienes embargados hubieren causado abandono, las Autoridades Fiscales notificarán personalmente o por correo certificado con acuse de recibo a los propietarios de los mismos, que ha transcurrido el plazo de abandono y que cuentan con quince días para retirar los bienes, previo pago del costo de almacenaje causado. En los casos en que no se hubiere señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través de estrados.
+
+> <small>(ADICIONADO [N. DE E. ANTES CUARTO PÁRRAFO DE LA FRACCIÓN III], P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+Los bienes que pasen a propiedad del fisco estatal o municipal conforme a este Artículo, podrán ser enajenados en los términos del Artículo 187 de este Código o donarse para obras o servicios públicos, o a instituciones asistenciales o de beneficencia autorizadas conforme a las Leyes de la materia.
+
+> <small>(ADICIONADO [N. DE E. ANTES QUINTO PÁRRAFO DE LA FRACCIÓN III], P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+El producto de la venta se destinará a pagar los cargos originados por el manejo, almacenaje, custodia y gastos de venta de los citados bienes en los términos que mediante reglas establezca la Secretaría de Finanzas y Tesorería General del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 192.
+
+Los plazos de abandono a que se refiere el Artículo anterior se interrumpirán:
+
+I.- Por la interposición del recurso administrativo o la presentación de la demanda en el juicio que proceda.
+
+El recurso o la demanda sólo interrumpirán los plazos de que se trata, cuando la resolución definitiva que recaiga no confirme, en todo o en parte, la que se impugnó.
+
+II.- Por consulta entre autoridades, si de dicha consulta depende la entrega de los bienes a los interesados.
+
+###### ARTICULO 193.
+
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+
+###### ARTICULO 194.
+
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ### CAPÍTULO III. DEL INVENTARIO
 
@@ -2298,175 +2678,57 @@ Cuando la ley establezca la obligación de pago de un refrendo de permisos, lice
 
 Los actos de adquisición, administración, uso, aprovechamiento, explotación o enajenación de los inmuebles municipales, así como la ejecución de obras de construcción, reconstrucción, modificación, adaptación, conservación, mantenimiento y demolición en los mismos, se sujetarán a las disposiciones del presente Libro y demás leyes y reglamentos aplicables.
 
-###### Artículo 195.
+###### ARTICULO 195.
 
-Es objeto de este derecho el otorgamiento de la licencia de funcionamiento, permiso o autorización, registro o refrendo a negociaciones, giros o actividades económicas, cuya reglamentación y vigilancia corresponda a la autoridad municipal.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-###### Artículo 196.
+###### ARTICULO 196.
 
-Los propietarios de negociaciones comerciales, industriales, de prestación de servicios, de comisión y, en general, de toda actividad económica, deberán empadronarse en la Tesorería y obtener la cédula respectiva y, en su caso, la licencia o autorización de funcionamiento que corresponda, ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar. Dicha cédula de empadronamiento se mantendrá vigente, hasta en tanto no se realice baja, cambio de giro o de domicilio, excepto para los giros que implican la enajenación o expendio de bebidas alcohólicas, en cuyo caso la vigencia de la cédula de empadronamiento de la licencia será de un año.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-###### Artículo 197.
+###### ARTICULO 197.
 
-El inicio de actividades, la ampliación o el cambio de giro de los establecimientos o locales a los que se refiere el artículo anterior, serán autorizados por la Tesorería, de conformidad con los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-###### Artículo 198.
+###### ARTICULO 198.
 
-Son sujetos de este derecho las personas físicas o morales que soliciten del Ayuntamiento la autorización de funcionamiento, registro o refrendo señalados en el artículo 195 de este Código o la licencia correspondiente.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-###### Artículo 199.
+###### ARTICULO 199.
 
-El Municipio, en términos de lo dispuesto por la Ley de Coordinación Fiscal y demás normatividad aplicable, ejercerá facultades operativas de verificación al momento de expedir las licencias a que se refiere este Código y deberá solicitar a los interesados la exhibición de su cédula de inscripción al Registro Federal de Contribuyentes.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2003)</small>
+###### ARTICULO 200.
 
-En términos de la normatividad aludida en el párrafo anterior, la licencia, permiso o autorización de funcionamiento, o el registro o refrendo anual en su caso, no causarán cuota alguna, pero sus propietarios cumplirán los requisitos que para el otorgamiento de aquéllos señalen los reglamentos municipales y cubrirán, en su caso, el pago de las formas valoradas que correspondan, que no podrá exceder de un salario mínimo.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-Se exceptúan de la no causación los giros comerciales que enajenen o expendan bebidas alcohólicas en forma total o parcial al público en general, en cuyo caso deberán cubrir la cuota o tarifa establecida en el presente Código por el otorgamiento o refrendo de cada licencia, pero la omisión a dicha obligación se sancionará con multa equivalente a la cuota o tarifa señalada para el refrendo, según el caso y, de persistir la omisión dentro del término de quince días, se procederá a la clausura.
+###### ARTICULO 201.
 
-###### Artículo 200.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-Las licencias, o permisos o autorizaciones son intransferibles, otorgados para una persona física o moral y para un lugar determinado, por lo que no podrá cambiarse el domicilio señalado en los mismos sin la autorización previa del cabildo, en términos de las disposiciones reglamentarias correspondientes.
+###### ARTICULO 202.
 
-###### Artículo 201.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-Los permisos o autorizaciones de carácter temporal, para giros comerciales que enajenen o expendan bebidas alcohólicas, tendrán un costo proporcional al número de días para el cual se expidan, en relación con la cuota que corresponda de acuerdo a su giro. En ningún caso el costo será menor al que corresponda a quince días.
+###### ARTICULO 203.
 
-###### Artículo 202.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-La expedición de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, estará sujeta a los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo, mediante reglas o disposiciones de carácter general.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
-> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2003)</small>
+###### ARTICULO 204.
 
-Por la expedición de licencias a que este artículo se refiere se pagarán las cuotas siguientes:
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-Giro: Costo de la licencia
+###### ARTICULO 205.
 
-en número de
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-salarios mínimos:
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
-Abarrotes con venta de cerveza 35
+###### ARTICULO 206.
 
-Abarrotes con venta de cerveza,
-
-vinos y licores 100
-
-Agencias 250
-
-Almacenes o Distribuidores 250
-
-Billares 200
-
-Cantinas o bares 200
-
-Centros de eventos sociales 250
-
-Centros deportivos o recreativos 250
-
-Centros nocturnos y cabarets 1,000
-
-Cervecerías 100
-
-Clubes sociales 175
-
-Depósitos 75
-
-Discotecas 625
-
-Hoteles y moteles 200
-
-Kermeses, ferias y bailes públicos 125
-
-Licorerías 115
-
-Loncherías, taquerías, marisquerías,
-
-fondas,coctelerías, torterías,
-
-pizzerías y similares 75
-
-Minisúper 150
-
-Peñas, canta bar, café bar, video
-
-bar y café cantante 150
-
-Restaurante 150
-
-Restaurante-bar 200
-
-Servicar 150
-
-Supermercados 250
-
-Los derechos por refrendos anuales se calcularán a razón del diez por ciento del costo de la licencia.
-
-###### Artículo 203.
-
-Es objeto de estos derechos la autorización que otorgue la autoridad municipal para la colocación de anuncios comerciales, en forma temporal o permanente, o para la realización de publicidad mediante altavoz móvil en la vía pública.
-
-También es objeto de estos derechos la colocación de anuncios comerciales en el interior o exterior de los vehículos en los que se preste el servicio público de pasajeros.
-
-Para efectos de este derecho se entiende por anuncios comerciales o publicidad todo medio que proporcione información, orientación o identifique un servicio profesional, marca, producto o establecimiento con fines de venta de bienes o servicios, en tanto se realice, ubique o desarrolle en la vía pública del Municipio o tenga efectos sobre ésta repercutiendo en la imagen urbana.
-
-La expedición de licencias, permisos o autorizaciones a que se refiere esta Sección será anual o eventual.
-
-###### Artículo 204.
-
-Son sujetos de este derecho, las personas físicas o morales que utilicen para anunciarse la vía pública del Municipio, los propietarios o usuarios de un inmueble que se utilice para colocar anuncios ajenos al mismo, los propietarios de los vehículos en los que se preste el servicio público de pasajeros, así como los promotores de cualquier empresa que soliciten anunciar y hacer publicidad en las modalidades que señala el primer párrafo del artículo anterior, debiendo solicitar en todos los casos la autorización correspondiente.
-
-Son responsables solidarios en el pago de los derechos a que se refiere esta Sección, los propietarios o poseedores de predios, fincas o construcciones y lugares de espectáculos en los que se realicen los actos publicitarios, así como los promotores de eventos, propietarios o administradores de marcas o negocios anunciados. En el caso de la publicidad móvil en altavoz, será responsable solidario aquel que preste dicho servicio de publicidad.
-
-Las autoridades municipales establecerán en sus reglamentos respectivos, o mediante disposiciones de carácter general, los requisitos para el otorgamiento de licencias, permisos o autorizaciones en su caso, para colocar anuncios, el plazo de su vigencia, así como sus características, dimensiones y espacios en que se fijen o instalen, el procedimiento para su colocación y los materiales, estructuras, soportes y sistemas de iluminación que se utilicen en su construcción. Asimismo establecerán las condiciones en que se autorice la publicidad móvil por medio de altavoz y en los vehículos en los que se preste el servicio de transporte público de pasajeros.
-
-###### Artículo 205.
-
-Los derechos a que se refiere esta Sección, se cobrarán por la autorización respectiva, de acuerdo a las cuotas siguientes:
-
-I. Por la colocación de anuncios comerciales en la vía pública o tenga efectos sobre ésta, repercutiendo en la imagen urbana, de cuatro a ocho salarios mínimos, anualmente;
-
-II. Por la colocación eventual de anuncios comerciales en la vía pública o tenga efectos sobre ésta, repercutiendo en la imagen urbana, dos salarios mínimos por evento;
-
-III. Por el anuncio de eventos en altavoz móvil, dos salarios mínimos por evento; y
-
-IV. Por la colocación de anuncios comerciales en el interior o exterior de vehículos en los que se preste el servicio de transporte público de pasajeros, tres salarios mínimos, anualmente.
-
-No causarán los derechos previstos en esta Sección, la colocación de anuncios, o cualquier acto publicitario, realizado con fines de asistencia o beneficencia pública; la publicidad de partidos políticos y de asociaciones religiosas; la publicidad de la Federación, del Estado, o del Municipio; y la publicidad que se realice con fines nominativos para la identificación de la negociación, siempre y cuando se realice en el propio establecimiento.
-
-###### Artículo 206.
-
-Son objeto de este derecho los servicios que el Ayuntamiento preste, a solicitud o en rebeldía del usuario, por los conceptos siguientes:
-
-I. Alineamiento de predios, en términos de la Ley de Desarrollo Regional y Urbano y sus Reglamentos;
-
-II. Por asignación de número oficial e inspección de predios;
-
-III. Por licencias:
-
-a) De construcción de bardas, con excepción de las colindantes con la vía pública;
-
-b) De construcción o ampliación;
-
-c) Para fusionar, subdividir o relotificar, en términos de la Ley de Desarrollo Regional y Urbano y el Reglamento de la materia;
-
-d) Para fraccionamientos, en términos de la Ley de Desarrollo Regional y Urbano y sus Reglamentos;
-
-e) Por demoliciones;
-
-f) Por la construcción de albercas y depósitos de agua;
-
-g) Por la construcción de tanques subterráneos para almacenamiento de material peligroso;
-
-h) Para la conversión al régimen de propiedad en condominio;
-
-i) De uso de suelo; y
-
-j) De cambio de uso de suelo, en caso de que el Municipio contare con un Programa de Ordenamiento Urbano, en términos de la normatividad aplicable
-
-IV. Por deslinde de predios; y
-
-V. Por registro, estudio y aprobación de planos y proyectos de construcción, remodelación o ampliación;
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ### CAPÍTULO I. DE LOS BIENES MUEBLES
 
@@ -2526,1367 +2788,33 @@ VI. Semovientes;
 
 Los documentos que por su naturaleza tengan incorporados valores o derechos estarán a cargo de la Tesorería para su custodia.
 
-###### Artículo 207.
+###### ARTICULO 207.
 
-En el caso de la asignación de número oficial, una vez asignado éste y pagados los derechos, no se estará obligado a pagar nuevos derechos cuando se hagan cambios ordenados por el Ayuntamiento, en un plazo de cinco años, contado a partir de su otorgamiento.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-###### Artículo 208.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
-Por lo que hace a las licencias de construcción o ampliación, se tomará como base la superficie total de las sumas de las superficies parciales cubiertas por construcciones correspondientes a cada uno de los pisos de que conste la construcción.
+###### ARTICULO 208.
 
-###### Artículo 209.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-Los derechos por la licencia de demolición tendrán como base la superficie horizontal total, que resulte de sumar las superficies horizontales parciales correspondientes a cada uno de los pisos que cubran las construcciones a demolerse.
+###### ARTICULO 209.
 
-###### Artículo 210.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-En el caso de que el servicio se preste en rebeldía del usuario, se notificará a éste el costo del mismo, para que, en un plazo de quince días hábiles, realice el pago correspondiente.
+###### ARTICULO 210.
 
-###### Artículo 211.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-Los servicios de deslinde de predios tendrán como base la superficie del predio y se realizarán por peritos designados por el Ayuntamiento. Si practicado el deslinde resulta una diferencia en la superficie del predio, superior o inferior, sobre la que se utilizó como base para el pago de los derechos, se hará el ajuste correspondiente, procediendo al cobro o devolución, según el caso.
+###### ARTICULO 211.
 
-###### Artículo 212.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-Los derechos por obras materiales se causarán y pagarán, en salarios mínimos, conforme a las siguientes cuotas:
+###### ARTICULO 212.
 
-I. Por derechos de alineamiento de predios, calculados sobre el total de metros lineales que tenga el terreno frente a la vía pública, en términos de la normatividad aplicable:
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-Si el terreno es de uso:
-
-Habitacional, de categoría
-
-De 1 a 10 ML
-
-Salarios Mínimos
-
-Residencial 3
-
-Medio 2
-
-Interés Social 1.5
-
-Popular 1
-
-De más de 10 a 50 ML
-
-Salarios Mínimos
-
-Residencial 3.5
-
-Medio 3
-
-Interés Social 2.5
-
-Popular 2
-
-De más de 50 ML
-
-Salarios Mínimos
-
-Residencial 4
-
-Medio 3.5
-
-Interés Social 2.5
-
-Popular 2
-
-Si el terreno es de uso:
-
-De 1 a 10 ML.
-
-Salarios Mínimos
-
-Comercial 4
-
-Industrial 4
-
-Agropecuario 3
-
-De servicio 2
-
-De más de 10 a 50 ML
-
-Salarios Mínimos
-
-Comercial 5
-
-Industrial 5
-
-Agropecuario 4
-
-De servicio 2.5
-
-De más de 50 ML.
-
-Salarios Mínimos
-
-Comercial 6
-
-Industrial 6
-
-Agropecuario 5
-
-Servicio 3
-
-II. Por asignación de número oficial e inspección de predios, cada uno:
-
-Si el terreno es de uso:
-
-Habitacional, de categoría
-
-Salarios Mínimos
-
-Residencial 2
-
-Medio 1.5
-
-Interés Social 1
-
-Popular 0.5
-
-Si el terreno es de uso:
-
-Comercial 2
-
-Industrial 2
-
-Agropecuario 1
-
-De servicio 1
-
-III. Por licencias:
-
-a) De construcción de bardas, con excepción de las colindantes en la vía pública, por metro lineal o fracción:
-
-Si el terreno es de uso:
-
-Habitacional, de categoría
-
-De 1 a 20 ML.
-
-Salarios Mínimos
-
-Residencial 4
-
-Medio 3
-
-Interés Social 1
-
-Popular 1
-
-De más de 20 a 50 ML.
-
-Salarios Mínimos
-
-Residencial 5
-
-Medio 4
-
-Interés Social 3
-
-Popular 1.5
-
-De más de 50 a 100 ML.
-
-Salarios Mínimos
-
-Residencial 6
-
-Medio 5
-
-Interés Social 4
-
-Popular 2
-
-De más de 100 a 200 ML.
-
-Salarios Mínimos
-
-Residencial 7
-
-Medio 6
-
-Interés Social 5
-
-Popular 3
-
-De más de 200 a 500 ML
-
-Salarios Mínimos
-
-Residencial 8
-
-Medio 7
-
-Interés Social 6
-
-Popular 4
-
-De más de 500 ML
-
-Salarios Mínimos
-
-Residencial 9
-
-Medio 8
-
-Interés Social 7
-
-Popular 5
-
-Si el terreno es de uso:
-
-De 1 a 20 ML
-
-Salarios Mínimos
-
-Comercial 5
-
-Industrial 5
-
-Agropecuario 1
-
-De servicio 3
-
-De más de 20 a 50 ML
-
-Salarios Mínimos
-
-Comercial 6
-
-Industrial 6
-
-Agropecuario 1.5
-
-Servicio 4
-
-De más de 50 a 100 ML
-
-Salarios Mínimos
-
-Comercial 7
-
-Industrial 7
-
-Agropecuario 2
-
-De servicio 5
-
-De más de 100 a 200 ML
-
-Salarios Mínimos
-
-Comercial 8
-
-Industrial 8
-
-Agropecuario 3
-
-De servicio 6
-
-De más de 200 a 500 ML
-
-Salarios Mínimos
-
-Comercial 10
-
-Industrial 10
-
-Agropecuario 4
-
-De Servicio 7
-
-De más de 500 ML
-
-Salarios Mínimos
-
-Comercial 15
-
-Industrial 15
-
-Agropecuario 5
-
-De servicio 8
-
-b) De construcción o ampliación, por metro cuadrado o fracción:
-
-Si el terreno es de uso:
-
-De 1 a 40 M2.
-
-Salarios Mínimos
-
-Residencial 6
-
-Medio 4
-
-Interés Social 0
-
-Popular 0
-
-De más de 40 a 60 M2.
-
-Salarios Mínimos
-
-Residencial 8
-
-Medio 6
-
-Interés Social 0
-
-Popular 0
-
-De más de 60 a 80 M2.
-
-Salarios Mínimos
-
-Residencial 10
-
-Medio 8
-
-Interés Social 3
-
-Popular 2
-
-De más de 80 a 100 M2.
-
-Salarios Mínimos
-
-Residencial 12
-
-Medio 10
-
-Interés Social 4
-
-Popular 3
-
-De más de 100 a 150 M2.
-
-Salarios Mínimos
-
-Residencial 14
-
-Medio 12
-
-Interés Social 5
-
-Popular 4
-
-De más de 150 a 200 M2.
-
-Salarios Mínimos
-
-Residencial 16
-
-Medio 14
-
-Interés Social 6
-
-Popular 5
-
-De más de 200 a 300 M2.
-
-Salarios Mínimos
-
-Residencial 20
-
-Medio 18
-
-Interés Social 0
-
-Popular 0
-
-De más de 300 a 500 M2.
-
-Salarios Mínimos
-
-Residencial 25
-
-Medio 20
-
-Interés Social 0
-
-Popular 0
-
-De más de 500 a 1,000 M2.
-
-Salarios Mínimos
-
-Residencial 30
-
-Medio 22
-
-Interés Social 0
-
-Popular 0
-
-De más de 1,000 M2.
-
-Salarios Mínimos
-
-Residencial 40
-
-Medio 24
-
-Interés Social 0
-
-Popular 0
-
-Si el terreno es de uso:
-
-De 1 a 40 M2.
-
-Salarios Mínimos
-
-Comercial 9
-
-Industrial 8
-
-Agropecuario 2
-
-De servicio 3
-
-De más de 40 a 60 M2
-
-Salarios Mínimos
-
-Comercial 10
-
-Industrial 10
-
-Agropecuario 3
-
-Servicio 4
-
-De más de 60 a 80 M2
-
-Salarios Mínimos
-
-Comercial 12
-
-Industrial 12
-
-Agropecuario 4
-
-De servicio 5
-
-De más de 80 a 100 M2
-
-Salarios Mínimos
-
-Comercial 14
-
-Industrial 14
-
-Agropecuario 5
-
-De servicio 6
-
-De más de 100 a 150 M2
-
-Salarios Mínimos
-
-Comercial 16
-
-Industrial 16
-
-Agropecuario 10
-
-De Servicio 7
-
-De más de 150 a 200 M2.
-
-Salarios Mínimos
-
-Comercial 18
-
-Industrial 18
-
-Agropecuario 15
-
-De servicio 8
-
-De más de 200 a 300 M2
-
-Salarios Mínimos
-
-Comercial 20
-
-Industrial 20
-
-Agropecuario 10
-
-De Servicio 10
-
-De más de 300 a 500 M2
-
-Salarios Mínimos
-
-Comercial 25
-
-Industrial 25
-
-Agropecuario 20
-
-De servicio 15
-
-De más de 500 a 1,000 M2
-
-Salarios Mínimos
-
-Comercial 30
-
-Industrial 30
-
-Agropecuario 20
-
-De Servicio 20
-
-De más de 1,000 M2.
-
-Salarios Mínimos
-
-Comercial 50
-
-Industrial 50
-
-Agropecuario 40
-
-De servicio 30
-
-c) Para fusionar, subdividir o relotificar, en términos de la normatividad aplicable, por metro cuadrado o fracción sobre el total de la superficie:
-
-Si el terreno es de uso:
-
-Habitacional, de categoría:
-
-De 1 a 500 m2.
-
-Salarios Mínimos
-
-Residencial 4
-
-Medio 2
-
-Interés Social 1.5
-
-Popular 1
-
-De más de 500 a 1,000 M2.
-
-Salarios Mínimos
-
-Residencial 6
-
-Medio 4
-
-Interés Social 3
-
-Popular 2
-
-De más de 1,000 a 3,000 M2.
-
-Salarios Mínimos
-
-Residencial 10
-
-Medio 8
-
-Interés Social 6
-
-Popular 4
-
-De más de 3,000 a 5,000 M2.
-
-Salarios Mínimos
-
-Residencial 20
-
-Medio 15
-
-Interés Social 10
-
-Popular 6
-
-De más de 5,000 a 10,000 M2.
-
-Salarios Mínimos
-
-Residencial 25
-
-Medio 20
-
-Interés Social 15
-
-Popular 10
-
-De más de 10,000 M2.
-
-Salarios Mínimos
-
-Residencial 30
-
-Medio 25
-
-Interés Social 20
-
-Popular 15
-
-Si el terreno es de uso:
-
-De 1 a 500 M2
-
-Salarios Mínimos
-
-Comercial 5
-
-Industrial 5
-
-Agropecuario 1
-
-De servicio 2
-
-De más de 500 a 1,000 M2
-
-Salarios Mínimos
-
-Comercial 8
-
-Industrial 8
-
-Agropecuario 2
-
-Servicio 4
-
-De más de 1,000 a 3,000 M2
-
-Salarios Mínimos
-
-Comercial 15
-
-Industrial 15
-
-Agropecuario 4
-
-De servicio 8
-
-De más de 3,000 a 5,000 M2
-
-Salarios Mínimos
-
-Comercial 20
-
-Industrial 20
-
-Agropecuario 6
-
-De servicio 15
-
-De más de 5,000 a 10,000 M2
-
-Salarios Mínimos
-
-Comercial 30
-
-Industrial 30
-
-Agropecuario 10
-
-De Servicio 20
-
-De más de 10,000 M2.
-
-Salarios Mínimos
-
-Comercial 40
-
-Industrial 40
-
-Agropecuario 15
-
-De servicio 25
-
-d) Para fraccionamientos de terrenos, en términos de la normatividad aplicable, sobre el área total a fraccionar o lotificar, por metro cuadrado o fracción:
-
-Si el terreno es de uso:
-
-Habitacional de categoría
-
-De 1 a 500 M2
-
-Salarios Mínimos
-
-Residencial 4
-
-Medio 2
-
-Interés Social 1.5
-
-Popular 1
-
-De más de 500 a 1,000 M2.
-
-Salarios Mínimos
-
-Residencial 6
-
-Medio 4
-
-Interés Social 3
-
-Popular 2
-
-De más de 1,000 a 3,000 M2.
-
-Salarios Mínimos
-
-Residencial 10
-
-Medio 8
-
-Interés Social 6
-
-Popular 4
-
-De más de 3,000 a 5,000 M2.
-
-Salarios Mínimos
-
-Residencial 20
-
-Medio 15
-
-Interés Social 10
-
-Popular 6
-
-De más de 5,000 a 10,000 M2.
-
-Salarios Mínimos
-
-Residencial 25
-
-Medio 20
-
-Interés Social 15
-
-Popular 10
-
-De más de 10,000 M2.
-
-Salarios Mínimos
-
-Residencial 30
-
-Medio 25
-
-Interés Social 20
-
-Popular 15
-
-Si el terreno es de uso:
-
-De 1 a 500 M2.
-
-Salarios Mínimos
-
-Comercial 5
-
-Industrial 5
-
-Agropecuario 1
-
-De servicio 2
-
-De más de 500 a 1,000 M2
-
-Salarios Mínimos
-
-Comercial 8
-
-Industrial 8
-
-Agropecuario 2
-
-Servicio 4
-
-De más de 1,000 a 3,000 M2
-
-Salarios Mínimos
-
-Comercial 15
-
-Industrial 15
-
-Agropecuario 4
-
-De servicio 8
-
-De más de 3,000 a 5,000 M2
-
-Salarios Mínimos
-
-Comercial 20
-
-Industrial 20
-
-Agropecuario 6
-
-De servicio 15
-
-De más de 5,000 a 10,000 M2
-
-Salarios Mínimos
-
-Comercial 30
-
-Industrial 30
-
-Agropecuario 10
-
-De Servicio 20
-
-De más de 10,000 M2
-
-Salarios Mínimos
-
-Comercial 40
-
-Industrial 40
-
-Agropecuario 15
-
-De servicio 25
-
-e) Por demoliciones, por metro cuadrado:
-
-Si el terreno es de uso:
-
-Habitacional, de categoría
-
-De 1 a 50 M2
-
-Salarios Mínimos
-
-Residencial 8
-
-Medio 6
-
-Interés Social 5
-
-Popular 4
-
-De más de 50 a 100 M2
-
-Salarios Mínimos
-
-Residencial 10
-
-Medio 8
-
-Interés Social 6
-
-Popular 5
-
-De más de 100 a 200 M2
-
-Salarios Mínimos
-
-Residencial 12
-
-Medio 10
-
-Interés Social 8
-
-Popular 6
-
-De más de 200 M2
-
-Salarios Mínimos
-
-Residencial 15
-
-Medio 12
-
-Interés Social 8
-
-Popular 6
-
-Si el terreno es de uso:
-
-De 1 a 50 M2
-
-Salarios Mínimos
-
-Comercial 10
-
-Industrial 10
-
-Agropecuario 4
-
-De servicio 8
-
-De más de 50 a 100 M2
-
-Salarios Mínimos
-
-Comercial 15
-
-Industrial 15
-
-Agropecuario 5
-
-Servicio 10
-
-De más de 100 a 200 M2
-
-Salarios Mínimos
-
-Comercial 20
-
-Industrial 20
-
-Agropecuario 10
-
-De servicio 12
-
-De más de 200 M2
-
-Salarios Mínimos
-
-Comercial 25
-
-Industrial 25
-
-Agropecuario 20
-
-De servicio 15
-
-f) Por la construcción de albercas y depósitos de agua, por metro cúbico o fracción, 0.25 salarios mínimos.
-
-g) Por la construcción de tanques subterráneos para almacenamiento de material peligroso, por metro cúbico o fracción, 0.50 salarios mínimos.
-
-h) Para la conversión al régimen de propiedad en condominio, por metro cuadrado:
-
-Si el terreno es de uso:
-
-Habitacional de categoría:
-
-De 1 a 100 m2.
-
-Salarios Mínimos
-
-Residencial 8
-
-Medio 5
-
-Interés Social 3
-
-Popular 2
-
-De más de 100 a 200 M2.
-
-Salarios Mínimos
-
-Residencial 12
-
-Medio 8
-
-Interés Social 5
-
-Popular 3
-
-De más de 200 a 300 M2.
-
-Salarios Mínimos
-
-Residencial 15
-
-Medio 12
-
-Interés Social 8
-
-Popular 5
-
-De más de 300 a 400 M2.
-
-Salarios Mínimos
-
-Residencial 20
-
-Medio 15
-
-Interés Social 12
-
-Popular 8
-
-De más de 400 a 500 M2.
-
-Salarios Mínimos
-
-Residencial 25
-
-Medio 20
-
-Interés Social 15
-
-Popular 12
-
-De más de 500 a 1,000 M2.
-
-Salarios Mínimos
-
-Residencial 30
-
-Medio 25
-
-Interés Social 20
-
-Popular 15
-
-De más de 1000 M2.
-
-Salarios Mínimos
-
-Residencial 35
-
-Medio 30
-
-Interés Social 25
-
-Popular 20
-
-Si el terreno es de uso:
-
-De 1 a 100 M2
-
-Salarios Mínimos
-
-Comercial 10
-
-Industrial 10
-
-Agropecuario 2
-
-De servicio 5
-
-De más de 100 a 200 M2
-
-Salarios Mínimos
-
-Comercial 15
-
-Industrial 15
-
-Agropecuario 3
-
-Servicio 8
-
-De más de 200 a 300 M2
-
-Salarios Mínimos
-
-Comercial 20
-
-Industrial 20
-
-Agropecuario 5
-
-De servicio 12
-
-De más de 300 a 400 M2
-
-Salarios Mínimos
-
-Comercial 25
-
-Industrial 25
-
-Agropecuario 8
-
-De servicio 15
-
-De más de 400 a 500 M2
-
-Salarios Mínimos
-
-Comercial 30
-
-Industrial 30
-
-Agropecuario 12
-
-De Servicio 20
-
-De más de 500 a 1000 M2
-
-Salarios Mínimos
-
-Comercial 35
-
-Industrial 35
-
-Agropecuario 15
-
-De Servicio 25
-
-De más de 1000 M2
-
-Salarios Mínimos
-
-Comercial 40
-
-Industrial 40
-
-Agropecuario 20
-
-De servicio 30
-
-i) De uso de suelo, según clasificación, por metro cuadrado o fracción
-
-Salarios mínimos
-
-Vivienda 0.05
-
-Industria 0.10
-
-Comercio 0.30
-
-Servicios 20
-
-j) De cambio de uso de suelo, cuando el Municipio contare con un Programa de Ordenamiento Urbano, en términos de la normatividad aplicable, se pagará el cincuenta por ciento de la cuota establecida para una licencia de uso de suelo.
-
-IV. Por deslinde de predios, por metro cuadrado o fracción:
-
-Si el terreno es de uso
-
-Habitacional, de categoría:
-
-De 1 a 200 M2.
-
-Salarios Mínimos
-
-Residencial 3
-
-Medio 3
-
-Interés Social 2
-
-Popular 1.5
-
-De más de 200 a 300 M2.
-
-Salarios Mínimos
-
-Residencial 4
-
-Medio 4
-
-Interés Social 3
-
-Popular 2
-
-De más de 300 a 500 M2.
-
-Salarios Mínimos
-
-Residencial 8
-
-Medio 8
-
-Interés Social 5
-
-Popular 3
-
-De más de 500 a 1000 M2.
-
-Salarios Mínimos
-
-Residencial 12
-
-Medio 10
-
-Interés Social 8
-
-Popular 6
-
-De más de 1,000 a 3,000 M2.
-
-Salarios Mínimos
-
-Residencial 25
-
-Medio 20
-
-Interés Social 12
-
-Popular 8
-
-De más de 3,000 a 5,000 M2.
-
-Salarios Mínimos
-
-Residencial 50
-
-Medio 40
-
-Interés Social 15
-
-Popular 12
-
-De más de 5,000 a 10,000 M2.
-
-Salarios Mínimos
-
-Residencial 80
-
-Medio 70
-
-Interés Social 20
-
-Popular 15
-
-De más de 10,000 M2.
-
-Salarios Mínimos
-
-Residencial 100
-
-Medio 90
-
-Interés Social 25
-
-Popular 20
-
-Si el terreno es de uso:
-
-De 1 a 200 M2
-
-Salarios Mínimos
-
-Comercial 4
-
-Industrial 4
-
-Agropecuario 1.5
-
-De servicio 3
-
-De más de 200 a 300 M2
-
-Salarios Mínimos
-
-Comercial 6
-
-Industrial 6
-
-Agropecuario 2
-
-Servicio 4
-
-De más de 300 a 500 M2
-
-Salarios Mínimos
-
-Comercial 8
-
-Industrial 8
-
-Agropecuario 3
-
-De servicio 8
-
-De más de 500 a 1,000 M2
-
-Salarios Mínimos
-
-Comercial 12
-
-Industrial 12
-
-Agropecuario 6
-
-De servicio 10
-
-De más de 1,000 a 3,000 M2
-
-Salarios Mínimos
-
-Comercial 15
-
-Industrial 15
-
-Agropecuario 8
-
-De Servicio 20
-
-De más de 3,000 a 5,000 M2
-
-Salarios Mínimos
-
-Comercial 30
-
-Industrial 50
-
-Agropecuario 12
-
-De Servicio 40
-
-De más de 5,000 a 10,000 M2
-
-Salarios Mínimos
-
-Comercial 60
-
-Industrial 60
-
-Agropecuario 15
-
-De Servicio 70
-
-De más de 10,000 M2.
-
-Salarios Mínimos
-
-Comercial 120
-
-Industrial 120
-
-Agropecuario 20
-
-De servicio 90
-
-V. Por registro, estudio y aprobación de planos y proyectos de construcción, remodelación o ampliación.
-
-Si el terreno es de uso:
-
-Habitacional de categoría
-
-Salarios Mínimos
-
-Residencial 2
-
-Medio 1.5
-
-Interés Social 1
-
-Popular 0.50
-
-Si el terreno es de uso:
-
-Salarios Mínimos
-
-Comercial 2
-
-Industrial 2
-
-Agropecuario 1
-
-De servicio 1
-
-La modificación de proyectos también causará derechos, a razón de un cincuenta por ciento sobre las cuotas que correspondan.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
 ### CAPITULO II. DE LOS BIENES INMUEBLES
 
@@ -3900,25 +2828,27 @@ Lo anterior, sin perjuicio de la integración y actualización de los propios ca
 
 La Comisión de Hacienda, de conformidad con lo establecido en la Ley Orgánica del Municipio Libre, ejercerá sus atribuciones para el establecimiento de los procedimientos de integración y recepción de la información para el funcionamiento y actualización del inventario; la comprobación del cumplimiento de las normas a que se refiere este capítulo, así como para verificar la existencia en almacenes de los documentos o bienes que constituyan el inventario y el destino o afectación final de éstos.
 
-###### Artículo 213.
+###### ARTICULO 213.
 
-Es objeto de los derechos a que se refiere este Capítulo la prestación de los servicios de distribución de agua potable, así como de conexión a los sistemas de drenaje y de distribución, realizada directamente por el Ayuntamiento.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-###### Artículo 214.
+###### ARTICULO 214.
 
-Es sujeto de estos derechos el propietario o poseedor del predio que solicite su conexión al sistema de distribución de agua potable o de drenaje, así como quien, con un carácter distinto, haga uso de estos servicios.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-###### Artículo 215.
+###### ARTICULO 215.
 
-Por los servicios que preste directamente el Ayuntamiento, en términos de este capítulo, se causarán los derechos correspondientes, determinados y actualizados por el Cabildo, en acatamiento a las metodologías que al efecto expida el Consejo del Sistema Veracruzano del Agua y en términos de lo dispuesto por el Capítulo VI del Título Cuarto de la Ley de Aguas del Estado de Veracruz-Llave.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-###### Artículo 216.
+###### ARTICULO 216.
 
-El pago de los derechos previstos en este Capítulo se realizará sin perjuicio de cubrir las reparaciones necesarias al pavimento, cuyo costo será equivalente al de los materiales empleados y los de mano de obra, debiendo pagarse ambos conceptos antes de que se preste el servicio.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-###### Artículo 217.
+###### ARTICULO 217.
 
-Los predios responderán preferentemente del pago de los derechos por el servicio de agua. En consecuencia, el Ayuntamiento tendrá acción real que podrá ejercitar contra el propietario o poseedor del inmueble.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
 ## TÍTULO PRIMERO. DE LOS SERVICIOS DE TESORERÍA
 
@@ -4100,31 +3030,25 @@ III. En caso de que el precio se pague a plazos, estos no excederán de tres añ
 
 IV. En ningún caso podrán enajenarse a particulares, áreas de equipamiento urbano de las unidades habitacionales.
 
-###### Artículo 218.
+###### ARTICULO 218.
 
-Estarán exentos de pago de los derechos por servicio de agua potable los gobiernos Federal, Estatal y Municipal, cuando dicho servicio se preste en locales o edificios pertenecientes a los mismos, que estén destinados a servicios públicos.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-###### Artículo 219.
+###### ARTICULO 219.
 
-Las instituciones que tengan derecho a gozar de exención de pago de la contribución por el servicio de agua deberán solicitarla al Ayuntamiento.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-Las mismas instituciones darán aviso al Ayuntamiento, en un plazo de diez días, cuando dejaren de existir las circunstancias que motivaron la exención para que, a partir de esa fecha, se cobre la contribución correspondiente.
+###### ARTICULO 220.
 
-###### Artículo 220.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-Los Notarios y demás fedatarios públicos, salvo mandamiento judicial, no autorizarán los testimonios que contengan los actos traslativos de dominio de bienes inmuebles, cuando no se acredite estar al corriente en el pago de los derechos previstos en este Capítulo.
+###### ARTICULO 221.
 
-###### Artículo 221.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-Las autoridades municipales no autorizarán el traspaso o traslado de un giro mercantil o industrial o el cambio de giro, mientras no se les acredite estar al corriente en el pago de derechos previstos en este Capítulo.
+###### ARTICULO 222.
 
-###### Artículo 222.
-
-Son objeto de estos derechos:
-
-I. La expedición de certificados, constancias y copias certificadas de documentos que obren en los archivos municipales; y
-
-II. La evaluación de impacto ambiental.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ###### Artículo 478.
 
@@ -4186,299 +3110,133 @@ Cuando no se haya hecho valer el recurso de revocación o haciéndolo, se confir
 
 El Ayuntamiento, para recuperar los inmuebles como consecuencia de la rescisión administrativa prevista en este Título, se sujetará a las disposiciones del Código de Procedimientos Administrativos.
 
-###### Artículo 223.
+###### ARTICULO 223.
 
-Son sujetos de este derecho, las personas físicas o morales que soliciten los servicios a que se refiere el artículo anterior.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-###### Artículo 224.
+###### ARTICULO 224.
 
-Los funcionarios facultados para prestar los servicios a que se refiere este Capítulo verificarán que previamente se hayan cubierto los derechos correspondientes.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-Los derechos por expedición de certificaciones y otros servicios, se causarán y pagarán conforme a las cuotas siguientes:
+###### ARTICULO 225.
 
-I. Certificado o certificaciones expedidos por funcionarios o empleados municipales, incluyendo la búsqueda de datos para expedirlos, por cada certificado, de 0.50 a 1 salario mínimo.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-II. Copias de documentos que obren en los archivos de oficinas municipales:
+###### ARTICULO 226.
 
-a) Por hoja escrita a doble espacio en ambas caras, 0.25 salarios mínimos.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-b) Por hoja que indica el inciso anterior, escrita a un espacio por ambas caras, 0.30 salarios mínimos.
+###### ARTICULO 227.
 
-c) En los casos a que se refieren las fracciones anteriores, cuando se escriba por una sola cara de la hoja, 0.25 salarios mínimos.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-En el caso a que se refiere esta fracción además de los derechos que establecen los incisos que anteceden, se cobrará por la búsqueda de los documentos de los que deba sacarse copia cuando el interesado no proporcione los datos exactos para su localización, por cada año que comprenda la busca, 0.25 salarios mínimos.
+###### ARTICULO 228.
 
-III. Evaluación de impacto ambiental, veinte salarios mínimos.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-###### Artículo 225.
+###### ARTICULO 229.
 
-Son objeto de estos derechos los servicios que se presten en el Rastro Municipal o en los lugares autorizados, relativos al sacrificio de animales para el consumo humano, así como por el uso de los espacios e instalaciones del Rastro Municipal.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-###### Artículo 226.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
-Son sujetos de este derecho, las personas físicas o morales que hagan uso de los servicios descritos en el artículo anterior, sin perjuicio del cumplimiento de los requisitos sanitarios.
+###### ARTICULO 230.
 
-###### Artículo 227.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-Es base de este derecho, cada animal en pie considerado por cabeza y por tipo; en el caso del uso de instalaciones como frigoríficos y corrales, se pagará por el tiempo utilizado de acuerdo a las cuotas que se establecen en el artículo siguiente.
+###### ARTICULO 231.
 
-El Rastro Municipal no será responsable por la suspensión o el retraso de los servicios que presta, cuando obedezcan a fallas mecánicas, falta de energía eléctrica, captación de agua o circunstancias fortuitas no imputables al Rastro. Tampoco será responsable por mermas, utilidades o pérdidas comerciales supuestas, ni por las acciones que ejerza autoridad diferente en demérito de la prestación del servicio.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-###### Artículo 228.
+###### ARTICULO 232.
 
-El pago de este derecho se efectuará previamente a la prestación del servicio, en la Tesorería o ante la oficina de ésta en el Rastro. Los funcionarios encargados del Rastro Municipal no prestarán servicio alguno, si previamente no se comprueba que se pagaron los derechos correspondientes.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-Por la prestación de servicios que se proporcionan en los rastros públicos municipales se causarán derechos conforme a las cuotas siguientes:
+###### ARTICULO 233.
 
-I. Bovino, por cada animal: 1.5 a 3.0 salarios mínimos;
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-II. Porcino y equino, por cada animal: 0.5 a 1.0 salarios mínimos;
+###### ARTICULO 234.
 
-III. Ovino y caprino, por cada animal: 0.2 a 0.4 salarios mínimos;
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-IV. Aves y otras especies menores, por cada animal: 0.01 a 0.02 salarios mínimos;
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
-V. Por uso de corrales después de transcurridas cuarenta y ocho horas del ingreso del animal, por día o fracción se pagará el diez por ciento de las cantidades señaladas en las fracciones anteriores; y
+###### ARTICULO 235.
 
-VI. Por uso de frigoríficos, después de transcurridas veinticuatro horas del ingreso del animal, por día o fracción se pagará el diez por ciento de las cantidades señaladas en las fracciones anteriores.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-###### Artículo 229.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
-Son objeto de estos derechos, los servicios de inhumación, cremación y exhumación de cadáveres o restos humanos, apertura y cierre de gavetas, depósito de restos en osario, construcción, reconstrucción y ampliación de monumentos, criptas o fosas.
+###### ARTICULO 236.
 
-###### Artículo 230.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
-Son sujetos de estos derechos, las personas físicas o morales que soliciten la prestación de los servicios que señala el artículo anterior, quienes pagarán, en salarios mínimos, las cuotas siguientes:
+###### ARTICULO 237.
 
-I. Inhumaciones por siete años y refrendo de fosas 1
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-II. Inhumaciones en fosas a perpetuidad 3
+###### ARTICULO 238.
 
-III. Depósito de restos en osario por una temporalidad de 7 años 1
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-IV. Depósito de restos en el osario a perpetuidad 3
+###### ARTICULO 239.
 
-V. Construcción, reconstrucción, ampliación o modificación de monumentos, criptas o fosas 1
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-VI. Inhumación de restos, apertura o cierre de gavetas y demás operaciones semejantes 1
+> <small>(DEROGADO CON EL SUBTÍTULO Y ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
-VII. Exhumaciones 1
+###### ARTICULO 240.
 
-VIII. Reinhumaciones 1
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-IX. Cremaciones 35
+###### ARTICULO 241.
 
-###### Artículo 231.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-Son objeto de estos derechos los servicios de recolección, transporte y disposición final de los residuos sólidos que preste el Ayuntamiento a casa habitación, condominios, departamentos, unidades habitacionales o a sus similares; así como a comercios, industrias, prestadores de servicios o empresas de espectáculos públicos.
+###### ARTICULO 242.
 
-###### Artículo 232.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-Son sujetos de estos derechos las personas físicas o morales que sean propietarias, poseedoras o usufructuarias de los predios en que se presten los servicios a que se refiere este capítulo.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
-El Ayuntamiento o los concesionarios podrán rechazar el manejo de residuos cuyas características los hagan de manejo especial, en tanto no se adopten las medidas necesarias para su manejo. Los residuos considerados como peligrosos por la legislación federal en ningún caso deberán ser manejados por los Ayuntamientos.
+###### ARTICULO 243.
 
-###### Artículo 233.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-La base gravable se determinará de la siguiente manera:
+###### ARTICULO 244.
 
-I. Por el servicio prestado a los propietarios, poseedores o usufructuarios de inmuebles destinados a uso habitacional, se aplicará una cuota mensual, en términos del presente Capítulo; y
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-II. En los casos de establecimientos comerciales, industriales, prestadores de servicios y empresas de espectáculos públicos, se fijará una cuota por kilogramo o por metro cúbico, en razón del peso del volumen de los desechos.
+###### ARTICULO 245.
 
-En caso de que se concesione el servicio, las tarifas que cobren los concesionarios, se establecerán en el título de concesión respectivo.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-###### Artículo 234.
+###### ARTICULO 246.
 
-El pago de derechos a que este Capítulo se refiere, deberá efectuarse:
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-I. Tratándose de los sujetos señalados en la fracción I del artículo anterior, durante los primeros diez días de cada mes, pudiéndose optar por efectuar el pago de manera anual, durante los primeros dos meses del ejercicio fiscal;
+###### ARTICULO 247.
 
-II. Tratándose de establecimientos comerciales, industriales o prestadores de servicios, el pago deberá realizarse dentro de los primeros quince días del mes siguiente a aquél en que se prestó el servicio; y
-
-III. Tratándose de empresas de espectáculos públicos, el pago se hará conforme a lo dispuesto por el artículo 149, fracción II, inciso h).
-
-###### Artículo 235.
-
-Los derechos a que este Capítulo se refiere, se causarán y pagarán mensualmente de conformidad con las cuotas siguientes:
-
-I. Por cada inmueble destinado a uso habitacional, de tipo:
-
-Salarios mínimos
-
-Residencial 0.5
-
-Medio 0.4
-
-Interés social 0.3
-
-Popular 0.2
-
-II. Por cada industria o comercio, así como empresas que presenten espectáculos públicos, 0.008 salarios mínimos por kilogramo o 0.010 salarios mínimos por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
-
-Aquellos contribuyentes que opten por el pago anual recibirán un descuento del veinte por ciento.
-
-###### Artículo 236.
-
-Son objeto de estos derechos, los servicios de limpieza que el Ayuntamiento efectúe en predios no edificados, a solicitud o en rebeldía de sus propietarios o poseedores.
-
-###### Artículo 237.
-
-Son sujetos de estos derechos las personas físicas o morales que sean propietarias o poseedoras de predios, en los cuales el Ayuntamiento haya prestado los servicios a que se refiere este Capítulo.
-
-###### Artículo 238.
-
-El pago de estos derechos se enterará a la Tesorería, dentro del plazo de quince días siguientes a aquél en que se haya efectuado la limpieza.
-
-Los derechos por limpieza de predios no edificados se causarán y pagarán de acuerdo al costo del arrendamiento de la maquinaria y la mano de obra utilizada para llevar a cabo el servicio.
-
-Los propietarios o poseedores de predios están obligados a realizar la limpieza de los mismos, para mantener la buena imagen del Municipio y evitar la proliferación de focos de infección y, en caso de no hacerlo, el servicio será prestado por el Ayuntamiento, a costa del propietario o poseedor.
-
-###### Artículo 239.
-
-Es objeto de este derecho, la prestación de los servicios de supervisión técnica sobre la explotación de bancos de material ubicados en el territorio del Municipio.
-
-###### Artículo 240.
-
-Son sujetos de este derecho, las personas físicas o morales que sean propietarias, poseedoras, usufructuarias, concesionarias y, en general, quienes bajo cualquier título realicen la extracción del material a que se refiere este Capítulo.
-
-###### Artículo 241.
-
-Es base gravable el volumen de material extraído cuantificado en metros cúbicos o, en su defecto, por el lapso de explotación del banco de material.
-
-Por los derechos a que se refiere este Capítulo se pagará, por metro cúbico o fracción de material extraído, la cuota de 0.01 salarios mínimos.
-
-En el caso de que no sea posible determinar el volumen de material extraído, este derecho se pagará a razón de un salario mínimo diario.
-
-###### Artículo 242.
-
-Son objeto de estos derechos los servicios siguientes, que se causarán y pagarán de conformidad con las cuotas que en cada caso se señalan:
-
-I. Rectificación o cancelación de los datos asentados en la declaración inicial de traslado de dominio, a solicitud del interesado, 1 salario mínimo.
-
-II. Expedición de una constancia de datos catastrales, 3 salarios mínimos;
-
-III. Expedición de cartografía catastral propiedad del Municipio:
-
-a) Copias en papel heliográfico o bond por plano general de localidad, con curvas de nivel al metro y cuotas de crucero, en escala 1:2,000, por hoja, 4.5 salarios mínimos.
-
-b) Copias en papel heliográfico o bond por plano general de localidad, en escalas aproximadas 1:4,000, 1:5,000, 1:7,500 y 1:10,000, 3 salarios mínimos.
-
-c) Copias en papel heliográfico o bond por plano manzanero de localidades catastradas, en escala 1:500 ó 1:1,000:
-
-1.- De 1 hasta 100 planos, por plano, 4.5 salarios mínimos.
-
-2.- De 101 planos en adelante por plano, 3 salarios mínimos.
-
-d) Copias del plano de región catastral, sin escala, con nomenclatura y valores catastrales del suelo urbano, por hoja, 3 salarios mínimos.
-
-e) Copias del plano perimetral tamaño carta de un predio registrado en la cartografía catastral urbana, en escala 1:500, por plano. 3 salarios mínimos.
-
-f) Cartografía digital en escala 1:1,000 en formatos DXF., DWG. y ARC/INFO., por km2:
-
-1.- Cobertura de manzanas, 22 salarios mínimos.
-
-2.- Cobertura de predios, 64 salarios mínimos.
-
-3.- Cobertura de construcciones, 64 salarios mínimos.
-
-4.- Cobertura de curvas de nivel a cada metro, 10 salarios mínimos.
-
-g) Copias de contacto de fotografías aéreas, en escalas 1:4,500 1:10,000 y 1:20,000:
-
-1.- En papel bond, imagen blanco y negro, en formato 23 x 23 cm., por copia, 1 salario mínimo.
-
-2.- Grabada con escáner e impresión en papel bond, blanco y negro, en formato 23 x 23 cm., por copia. 1.1 salario mínimo.
-
-3.- Grabada en diskette de 3.5" o disco compacto, por copia, 3.8 salarios mínimo.
-
-IV. Por la certificación de cada plano catastral propiedad del Municipio, 3 salarios mínimos.
-
-Se exceptúan del pago de derechos por la expedición de cartografía catastral y copias de contacto de fotografías aéreas, las dependencias y organismos Federales, Estatales y Municipales, en los términos de los convenios de colaboración que se suscriban, previo cumplimiento de las disposiciones legales aplicables.
-
-V. La certificación de documentos públicos que obran en el archivo de la tesorería, 1 salario mínimo.
-
-###### Artículo 243.
-
-Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios a que se refiere este Capítulo.
-
-###### Artículo 244.
-
-Son objeto de estos derechos los servicios de inscripción de actos del estado civil y la expedición de copias de las actas respectivas, así como los servicios extraordinarios de celebración de matrimonios a domicilio y los demás que señale la legislación en la materia.
-
-###### Artículo 245.
-
-Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios a que se refiere el artículo anterior.
-
-###### Artículo 246.
-
-Los derechos a que se refiere este Capítulo se causarán y pagarán, en salarios mínimos, de acuerdo a las cuotas siguientes:
-
-I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, uno;
-
-II. Registro de nacimientos ordinarios y extemporáneos, uno;
-
-III. Reconocimiento de hijos, uno;
-
-IV. Adopciones, uno;
-
-V. Celebración de matrimonios en oficina, uno;
-
-VI. Celebración de matrimonios a domicilio, veinte;
-
-VII. Inscripción de sentencias, diez; y
-
-VIII. Divorcios, quince.
-
-###### Artículo 247.
-
-Es objeto de estos derechos la ocupación de inmuebles del dominio público del Municipio y sujetos de aquéllos las personas físicas o morales que reciban los servicios correspondientes.
-
-Las personas que utilicen espacios en mercados, así como en tianguis, deberán acreditar ante el Ayuntamiento, el permiso correspondiente al área que ocupen, a efecto de conformarse un padrón por cada mercado, debiendo el Ayuntamiento expedir una Cédula de Registro, previo el pago de derechos correspondientes.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
 ## TÍTULO SEGUNDO. DEL PRESUPUESTO DE EGRESOS Y GASTO PÚBLICO
 
-###### Artículo 248.
+###### ARTICULO 248.
 
-Los derechos por la ocupación de espacios, se calcularán y pagarán de conformidad con las cuotas siguientes:
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE FEBRERO DE 2003)</small>
+###### ARTICULO 249.
 
-I. La ocupación de espacios en mercados municipales se pagará diariamente por metro cuadrado, de 0.01 a 0.05 salarios mínimos;
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-Las altas, traspasos, cambios, ampliaciones de giro y arreglo o modificaciones de locales o áreas que ocupen, se efectuarán de conformidad con la normatividad aplicable, previa autorización del Ayuntamiento;
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
-> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2003)</small>
+###### ARTICULO 250.
 
-II. La ocupación de espacios en vía pública o áreas municipales, exceptuando las áreas verdes, se pagará diariamente, por metro cuadrado o fracción, previa autorización correspondiente, a razón de 0.01 a 0.05 salarios mínimos;
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
 
-> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2003)</small>
-
-III. La ocupación temporal de la vía pública o áreas municipales, exceptuando las áreas verdes, por vehículos, aparatos mecánicos o electromecánicos, por tianguis, ferias o similares, se pagará diariamente, por metro cuadrado o fracción de 0.05 a 0.125 salarios mínimos; y
-
-IV. El estacionamiento en la vía pública se pagará, mediante utilización de parquímetros, a razón de 0.125 salarios mínimos por hora o fracción.
-
-###### Artículo 249.
-
-Es objeto de estas contribuciones la mejora o beneficio particular que tengan los bienes inmuebles, por la realización de las obras públicas de urbanización siguientes:
-
-I. Las de captación de agua;
-
-II. Las de instalación de tuberías de distribución de agua;
-
-III. Las de construcción o reconstrucción de alcantarillado, drenaje, desagüe, entubamiento de aguas de ríos, arroyos y canales;
-
-IV. Las de pavimentación de calles y avenidas;
-
-V. Las de apertura, ampliación y prolongación de calles y avenidas;
-
-VI. Las de construcción y reconstrucción de banquetas; y
-
-VII. Las de instalación de alumbrado público.
-
-###### Artículo 250.
-
-Son sujetos de las Contribuciones por Mejoras y están obligados a pagarlas, las personas físicas o morales propietarias o poseedoras de los bienes inmuebles que tengan una mejora o beneficio particular por la realización de obras públicas.
+T R A N S I T O R I O S :
 
 ###### Artículo 251.
 
@@ -4540,7 +3298,7 @@ b) Cuando las obras se realicen con recursos propios, en un plazo máximo de tre
 
 El importe de la contribución que resulte, se dividirá entre el número de bimestres que comprenda el plazo que corresponda, cubriéndose en los meses de febrero, abril, junio, agosto, octubre y diciembre, debiéndose hacer el primer pago en el bimestre siguiente al en que se haya notificado dicho importe.
 
-#### SECCIÓN III. DE LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS
+#### SECCION TERCERA. De la Intervención
 
 ###### Artículo 345.
 
@@ -4660,7 +3418,7 @@ Los notarios y funcionarios con fe pública no autorizarán contrato alguno de c
 
 Sólo los bienes del dominio público de la Federación, de los Estados o de los Municipios estarán exentos del pago de las contribuciones por mejoras.
 
-#### SECCIÓN I. DE LA CONTABILIDAD GUBERNAMENTAL
+#### SECCION CUARTA. Del Remate
 
 ###### Artículo 353.
 
@@ -5418,29 +4176,59 @@ V.- Otorgar o negar su aprobación a los nombramientos de Ministros de la Suprem
 
 VI.- Conceder licencia hasta por treinta días al Presidente de la República y nombrar el interino que supla esa falta.
 
-### CAPITULO III.
+### CAPITULO I
 
-DEL PODER EJECUTIVO.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-###### Artículo 20.
+###### ARTICULO 20.
 
-Las contribuciones se clasifican en:
+En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales, se hará mediante escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales o notario, acompañando copia de la identificación del contribuyente o representante legal, previo cotejo con su original.
 
-I. Impuestos: Son las contribuciones establecidas en ley que deben pagar las personas físicas o morales que se encuentren en la situación jurídica o de hecho prevista por la misma, y que sean distintas de las señaladas en las fracciones II y III de este artículo;
+Los particulares o sus representantes podrán autorizar por escrito a personas que a su nombre reciban notificaciones. La persona así autorizada podrá ofrecer y rendir pruebas y presentar todo tipo de instancias o promociones dentro del procedimiento administrativo que se relacione con estos propósitos.
 
-II. Derechos: Son las contribuciones establecidas en ley por recibir servicios que prestan las dependencias y entidades de la Administración Pública Municipal, en sus funciones de derecho público, así como por el uso o disfrute de los bienes del dominio público del Municipio, salvo en los casos que dichos bienes o servicios se encuentren concesionados a particulares para su explotación; y
+Quien promueva a nombre de otro deberá acreditar que la representación le fue otorgada a más tardar en la fecha en que se presenta la promoción inicial.
 
-III. Contribuciones por mejoras: Son las establecidas en este Código, a cargo de las personas físicas o morales que, con independencia de la utilidad general, obtengan un beneficio diferencial particular derivado de la realización de obras públicas.
+###### ARTICULO 21.
 
-###### Artículo 21.
+Los créditos fiscales y sus accesorios se causarán y pagarán en moneda nacional. De provenir su pago por situaciones pactadas en moneda extranjera, el tipo de cambio se determinará de acuerdo al valor en que se haya adquirido ésta y de no haber existido tal adquisición, conforme al valor que rija de acuerdo a la determinación del tipo de cambio que publica el Banco de México, en el Diario Oficial de la Federación.
 
-Los aprovechamientos son ingresos que percibe el Municipio en sus funciones de derecho público, distintos de las contribuciones, de los ingresos derivados de financiamientos, de las participaciones federales, de las aportaciones federales e ingresos federales coordinados, así como los que obtengan los organismos de la administración pública paramunicipal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-###### Artículo 22.
+Se aceptarán como medios de pago, los cheques certificados y los giros postales, telegráficos o bancarios; los cheques personales no certificados y las tarjetas electrónicas bancarias de crédito o de débito, así como las transferencias electrónicas de fondos reguladas por el Banco de México. Las tarjetas electrónicas bancarias de crédito o débito, únicamente se aceptarán en los lugares y operaciones que así autorice la Secretaría de Finanzas y Tesorería General del Estado. Las transferencias electrónicas de fondos reguladas por el Banco de México, solamente se aceptarán de acuerdo a las reglas generales que fije la Secretaría de Finanzas y Tesorería General del Estado. Los créditos fiscales podrán ser cubiertos en especie, previa autorización por escrito del Secretario de Finanzas y Tesorero General del Estado, debiendo sujetarse para su valuación en lo conducente al procedimiento de remate previsto en el presente Código.
 
-Los productos son contraprestaciones por los servicios que preste el Municipio en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de sus bienes de dominio privado.
+Los pagos que se hagan se aplicarán a los créditos más antiguos siempre que se trate de la misma contribución y antes de acreditarse al adeudo principal, se hará a los accesorios en el siguiente orden:
 
-También se consideran productos los ingresos provenientes de la venta de primera mano que, por la explotación de sus bienes de dominio privado, hagan los Ayuntamientos al realizar actividades agrícolas, ganaderas, pesqueras, silvícolas o cualesquiera otras de naturaleza similar.
+I.- Gastos de Ejecución.
+
+II.- Recargos.
+
+III.- Multas.
+
+IV.- La indemnización a que se refiere el penúltimo párrafo del artículo 22 de este Código.
+
+Cuando el contribuyente interponga algún medio de defensa legal impugnando alguno de los conceptos señalados en el párrafo anterior, el orden señalado en el mismo no será aplicable respecto del concepto impugnado y garantizado.
+
+Para determinar las contribuciones cuyo importe sea o comprenda fracciones en pesos, se efectuarán ajustando su monto a la unidad más próxima. Tratándose de cantidades terminadas en cincuenta centavos, el ajuste se hará a la unidad inmediata inferior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 22.
+
+Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago hasta que el mismo se efectúe; además deberán pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Los recargos se causarán hasta por cinco años, salvo en los casos a que se refiere el artículo 67 de este Código, supuestos en los cuales los recargos se causarán hasta en tanto no se extingan las facultades de las autoridades fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, y se calcularán sobre el total del crédito fiscal y mientras subsistan las facultades de la autoridad para determinar el crédito fiscal o para obtener su cobro mediante el procedimiento administrativo de ejecución o en su caso, mientras no se haya extinguido el derecho del particular para solicitar la devolución de cantidades pagadas indebidamente o de saldos a favor. En su cálculo se excluirán los propios recargos, la indemnización a que se refiere el cuarto párrafo de este artículo, los gastos de ejecución y las multas. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se calcularán aplicando al monto de las cantidades actualizadas la tasa que fije la Ley respectiva por todo el mes, independientemente de que no se haya vencido por completo, a partir del día siguiente al en que debió hacerse el pago y hasta que el mismo se efectúe.
+
+Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste y se exigirá independientemente de los conceptos a que se refiere el artículo anterior. Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de tres días hábiles, efectúe el pago junto con la mencionada indemnización del 20%, o bien, acredite fehacientemente, con las pruebas documentales procedentes, que se realizó el pago o que dicho pago no se realizó por causas exclusivamente imputables a la institución de crédito. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad fiscal requerirá y cobrará el monto del cheque, la indemnización mencionada y los demás accesorios que correspondan, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad que en su caso procediere.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+
+En el caso de aprovechamientos, los recargos se calcularán de conformidad con lo dispuesto en el segundo párrafo de este artículo.
 
 ###### Art. 80.
 
@@ -5590,175 +4378,253 @@ Todos los reglamentos, decretos y órdenes del Presidente deberán estar firmado
 
 Los secretarios del Despacho, luego que esté abierto el período de sesiones ordinarias, darán cuenta al Congreso, del estado que guarden sus respectivos ramos. Cualquiera de las Cámaras podrá citar a los secretarios de Estado para que informen, cuando se discuta una ley o se estudie un negocio relativo a su secretaría.
 
-### CAPITULO IV.
+### CAPITULO II
 
-DEL PODER JUDICIAL.
+###### ARTICULO 23.
 
-> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 1944)</small>
+Las autoridades fiscales están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con las leyes fiscales. La devolución podrá hacerse de oficio o a petición del interesado. Los retenedores podrán solicitar la devolución siempre que ésta se haga directamente a los contribuyentes. Cuando la contribución se calcule por ejercicios, únicamente podrá solicitar la devolución del saldo a favor quien presentó la declaración de su ejercicio, salvo que se trate del cumplimiento de resolución o sentencia firme de autoridad competente, en cuyo caso podrá solicitarse la devolución independientemente de la presentación de la declaración.
 
-###### Artículo 23.
+Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente. Lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del último párrafo de este artículo.
 
-Las participaciones federales son fondos constituidos en beneficio del Municipio, con cargo a recursos que la Federación transfiere al Estado, como consecuencia de su adhesión al Sistema Nacional de Coordinación Fiscal, o en los términos previstos en el artículo 73 fracción XXIX de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-###### Artículo 24.
+Cuando se solicite la devolución de una contribución estatal, deberá efectuarse dentro del plazo de dos meses contados a la fecha en que se presentó la solicitud ante la autoridad fiscal competente, con todos los datos, informes y documentos que señale la forma oficial respectiva, así como cualesquier otro dato o constancia que se solicite en forma particular. El fisco estatal deberá pagar la devolución que proceda actualizada conforme a lo previsto en el artículo 18 Bis de este Código, desde el mes en que se realizó el pago de lo indebido o se presentó la declaración que contenga el saldo a favor hasta aquél en que se pongan las cantidades a disposición del interesado. Si dentro de dicho plazo no se efectúa la devolución, el fisco deberá pagar intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 22 de este Código. Los intereses se calcularán sobre las cantidades actualizadas que proceda devolver, excluyendo los propios intereses y se computarán dichos intereses desde que venció el plazo hasta la fecha en que se efectúe la devolución o se pongan las cantidades a disposición del interesado.
 
-Las aportaciones federales son ingresos que percibe el Municipio, derivados de los fondos establecidos en el Capítulo V de la Ley de Coordinación Fiscal.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-###### Artículo 25.
+El contribuyente que habiendo efectuado el pago de una contribución determinada por la autoridad, interponga oportunamente los medios de defensa que las leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a obtener del fisco estatal el pago de intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 22 de este Código, sobre las cantidades actualizadas que se hayan pagado indebidamente y a partir de que se efectuó el pago. En caso de que en el medio de defensa interpuesto no hayan sido parte las autoridades fiscales del Estado, o no hayan sido vinculadas por la autoridad jurisdiccional, sólo se pagarán intereses en caso de que la devolución no se efectúe dentro del plazo de dos meses contados a partir de que se presentó la solicitud o se giró la orden por la autoridad jurisdiccional, únicamente por el tiempo que transcurra después del citado plazo de dos meses. En los casos a que se refiere este párrafo el contribuyente podrá compensar las cantidades a su favor, incluyendo los intereses, contra cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. Tratándose de contribuciones que tengan un fin específico sólo podrán compensarse contra la misma contribución.
 
-Son accesorios de las contribuciones y de los aprovechamientos, los recargos, las sanciones, los gastos de ejecución y la indemnización por devolución de cheques presentados a tiempo y que no sean pagados, y participan de la naturaleza de la suerte principal, cuando se encuentren vinculados directamente a la misma.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-En los demás artículos de este Código en que se haga referencia únicamente a las contribuciones no se entenderán incluidos los accesorios.
+Las autoridades fiscales, para verificar la procedencia de la devolución, podrán requerir al contribuyente, en un plazo no mayor de quince días posteriores a la presentación de la solicitud de devolución, los datos, informes o documentos adicionales que considere necesarios y que estén relacionados con la misma. Para tal efecto, las autoridades fiscales requerirán al promovente a fin de que en un plazo máximo de quince días cumpla con lo solicitado, apercibido que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente. Cuando la autoridad requiera al contribuyente los datos, informes o documentos antes señalados, el período transcurrido entre la fecha en que se hubiera notificado el requerimiento de los mismos y la fecha en que éstos sean proporcionados en su totalidad por el contribuyente, no se computará en la determinación de los plazos para la devolución antes mencionados. No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando soliciten los datos, informes y documentos a que se refiere este párrafo, pudiendo ejercerlas en cualquier momento.
 
-Las contribuciones y los aprovechamientos se regirán por este Código y, supletoriamente, por el derecho común; los demás ingresos se regirán por las leyes y convenios respectivos.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-###### Artículo 26.
+Cuando las autoridades fiscales procedan a la devolución de cantidades señaladas como saldo a favor en las declaraciones presentadas por los contribuyentes, sin que medie más trámite que la simple comprobación de que se efectuaron los pagos de contribuciones que el contribuyente declara haber hecho, la orden de devolución no implicará resolución favorable al contribuyente. Si la devolución se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 22 de este Código, sobre las cantidades actualizadas devueltas indebidamente y los posibles intereses pagados por las autoridades fiscales, a partir de la fecha de la devolución.
 
-Sólo podrá afectarse un ingreso fiscal a un fin especial, cuando así lo dispongan expresamente este Código y las demás leyes aplicables.
+La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
 
-###### Artículo 27.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-El cobro de las contribuciones, productos o aprovechamientos se realizará en días y horas hábiles, en las oficinas de la Tesorería o en los lugares que ésta designe.
+###### ARTICULO 24.
 
-La ampliación de horarios y autorización de días inhábiles para el pago de dichos ingresos se publicará en la Tabla de Avisos del Ayuntamiento, misma que deberá ubicarse en el recinto oficial de éste y, de ser posible, se difundirá a través del medio de comunicación de mayor cobertura en el Municipio.
+Los contribuyentes obligados a pagar mediante declaración podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución, incluyendo sus accesorios. Al efecto, bastará que efectúen la compensación en la declaración respectiva. Si las cantidades que tengan a su favor los contribuyentes derivan de contribuciones distintas o de otros créditos, sólo se podrán compensar previa autorización expresa de las autoridades fiscales.
 
-Si el último día del plazo o fecha determinada fuera inhábil o viernes, o permanecieren cerradas las oficinas recaudadoras durante el horario normal de labores, se prorrogará el plazo para el día hábil siguiente.
+Si la compensación se hubiera efectuado y no procediera, se causarán recargos en los términos del Artículo 22 de este Código, sobre las cantidades compensadas indebidamente y a partir de la fecha de la compensación.
 
-Para los efectos de pago de contribuciones, aprovechamientos, productos o cualquier ingreso en favor del Municipio se considerarán como días inhábiles los sábados, domingos y días festivos señalados por ley. En los plazos establecidos por períodos y aquellos en que se señale una fecha determinada para su extinción se computarán todos sus días. Cuando las autoridades fiscales habiliten días inhábiles no se alterará el cálculo de los plazos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-###### Artículo 28.
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-Las contribuciones se pagarán en la fecha o dentro del plazo señalado en las disposiciones respectivas.
+Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes tengan derecho a recibir de las autoridades fiscales por cualquier concepto, en los términos de lo dispuesto en el artículo 23 de este Código, aún en el caso de que la devolución hubiera sido o no solicitada, contra las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros cuando estos hayan quedado firmes por cualquier causa o cuando el derecho a la devolución provenga de sentencia ejecutoriada que no extinga el adeudo fiscal a cargo del contribuyente. La compensación también se podrá aplicar contra créditos fiscales cuyo pago se haya autorizado a plazos; en este último caso, la compensación deberá realizarse sobre el saldo insoluto al momento de efectuarse dicha compensación. Las autoridades fiscales notificarán personalmente al contribuyente la resolución que determine la compensación.
 
-Tratándose de contribuciones que se deban pagar mediante retención, aun cuando quien deba efectuarlas no retenga o no haga pago de la contraprestación relativa, el retenedor estará obligado a enterar al fisco una cantidad equivalente a la que debió retener.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-Quien haga pago de créditos fiscales obtendrá, de la oficina recaudadora, la forma oficial, el recibo oficial o la forma valorada, expedidos y controlados por la autoridad fiscal, o la documentación que en las disposiciones respectivas se establezca, en la que conste la impresión original de la máquina registradora, por toda cantidad que ingrese al erario, cualquiera que sea su naturaleza. Tratándose de los pagos efectuados en las oficinas de las instituciones bancarias, crediticias o comerciales, obtendrá la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo correspondiente.
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-Cuando las disposiciones tributarias establezcan opciones a los contribuyentes para el cumplimiento de sus obligaciones fiscales o para determinar las contribuciones a su cargo, la opción elegida no podrá variar respecto al mismo ejercicio.
+Cuando el Estado y los particulares reúnan la calidad de acreedores y deudores recíprocos, mediante convenio, se podrán compensar créditos fiscales con adeudos de carácter civil, mercantil o de otra naturaleza.
 
-###### Artículo 29.
+No se podrán compensar las cantidades cuya devolución se haya solicitado o cuando haya prescrito la obligación para devolverlas.
 
-En los plazos no se computarán los días en que tengan vacaciones generales las autoridades fiscales. No son vacaciones generales las que se otorguen en forma escalonada.
+Para los efectos de este Código se entenderá como una misma contribución cuando se trata del mismo impuesto, derecho o contribución especial.
 
-Lo previsto en el párrafo anterior no será aplicable cuando se trate de plazos para el pago de contribuciones, en cuyo caso esos días se considerarán hábiles, por lo que quedará en funcionamiento una guardia de la oficina recaudadora que para tal efecto se designe.
+###### ARTICULO 25.
 
-En los plazos establecidos por períodos se computarán todos los días. Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario, se entenderá que, en el primer caso, el plazo concluye el mismo día del mes de calendario de que se trate y, en el segundo, vencerá el mismo día del año que corresponda. En los plazos que se fijen por mes o por año, cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
+La compensación entre el Estado por una parte y la Federación, demás Entidades federativas o municipios, así como organismos descentralizados o empresas de participación estatal por la otra, podrá operar respecto a cualquier clase de créditos o deudas, previo acuerdo que celebren.
 
-###### Artículo 30.
+###### ARTICULO 26.
 
-Las autoridades fiscales municipales tendrán las atribuciones que establece el Código de Procedimientos Administrativos en materia de:
+Los contribuyentes obligados a pagar mediante declaración periódica podrán acreditar el importe de los estímulos fiscales a que tengan derecho, contra las cantidades que están obligados a pagar, siempre que presenten aviso ante las autoridades competentes en materia de estímulos fiscales y, en su caso, cumplan con los demás requisitos formales que se establezcan en las disposiciones que otorguen los estímulos.
 
-I. Requisitos de los actos y procedimientos administrativos;
+Los contribuyentes podrán acreditar el importe de los estímulos a que tengan derecho, a más tardar en un plazo de cinco años contados a partir del último día en que venza el plazo para presentar la declaración del ejercicio en que nació el derecho a obtener el estímulo; si el contribuyente no tiene obligación de presentar declaración del ejercicio, el plazo contará a partir del día siguiente a aquel en que nazca el derecho a obtener el estímulo.
 
-II. Procedimiento administrativo ordinario;
+En los casos en que las disposiciones que otorguen los estímulos establezcan la obligación de cumplir con requisitos formales adicionales al aviso a que se refiere el primer párrafo de este artículo, se entenderá que nace el derecho para obtener el estímulo, a partir del día en que se obtenga la autorización o el documento respectivo.
 
-III. Procedimientos administrativos especiales de visitas de verificación, visitas domiciliarias, control de obligaciones y determinación presuntiva;
+Cuando los contribuyentes acrediten cantidades por concepto de estímulos fiscales a los que no tuvieran derecho, se causarán recargos en los términos del Artículo 22 de este Código, sobre las cantidades acreditadas indebidamente y a partir de la fecha del acreditamiento.
 
-IV. Procedimiento administrativo de ejecución; y
+###### ARTICULO 27.
 
-V. Recurso de revocación y demás medios de impugnación.
+Son responsables solidarios con los contribuyentes:
 
-###### Artículo 31.
+I.- Los retenedores y las personas a quienes las leyes impongan la obligación de recaudar contribuciones a cargo de los contribuyentes, hasta por el monto de dichas contribuciones.
 
-Sujeto pasivo es la persona física o moral, mexicana o extranjera que, de acuerdo con las leyes fiscales, está obligada al pago de un crédito fiscal determinado a favor del erario municipal.
+II.- Las personas que estén obligadas a efectuar pagos provisionales por cuenta del contribuyente, hasta por el monto de estos pagos.
 
-Es tercero, en una relación jurídico tributaria, toda persona que no interviene directamente en ella, pero que por estar vinculado con el sujeto pasivo asume las obligaciones que le impone la ley.
+> <small>(REFORMADA [N. DE. E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-###### Artículo 32.
+III.- Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquellas que se causaron durante su gestión.
 
-Son responsables solidarios con los sujetos pasivos:
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-I. Quienes manifiesten su voluntad de asumir responsabilidad solidaria;
+La persona o personas, cualquiera que sea el nombre con que se les designe, que tengan conferida la dirección general, la gerencia general, o la administración única de las sociedades mercantiles, serán responsables solidarios por las contribuciones causadas o no retenidas por dichas sociedades durante su gestión, así como por las que debieron pagarse o enterarse durante la misma, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la sociedad que dirigen, cuando dicha sociedad incurra en cualesquiera de los siguientes supuestos:
 
-II. Los copropietarios, coposeedores o los participantes en derechos mancomunados, respecto de los créditos fiscales, derivados del bien o derecho en común y hasta por el monto del valor de éste. Se exceptúa de esta responsabilidad a los condóminos.
+A).- No solicite su inscripción en el registro estatal de contribuyentes.
 
-Por el excedente de los créditos fiscales, cada uno quedará obligado en la proporción que le corresponda en el bien o derecho mancomunado;
+B).- Cambie su domicilio sin presentar el aviso correspondiente en los términos de este Código, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio de una visita y antes de que se haya notificado la resolución que se dicte respecto de la misma, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya cubierto o hubiera quedado sin efectos.
 
-III. Las personas a quienes se imponga la obligación de retener o recaudar créditos fiscales a cargo de contribuyentes, hasta por el monto total de las contribuciones;
+C).- No lleve contabilidad o la lleve en forma incompleta, la oculte o la destruya, parcial o totalmente.
 
-IV. Los legatarios, donatarios y herederos a título particular, respecto de los créditos fiscales causados en relación con los bienes o negociaciones que se les hubieren transferido, hasta por el monto de éstos;
+D).- No cubra los créditos fiscales dentro de los términos legales, tratándose de sociedades que no tengan las obligaciones a que se refieren los incisos A), B) y C), respecto del crédito que se adeuda.
 
-V. Los terceros que, para garantizar créditos fiscales a cargo de los contribuyentes, constituyan depósito, prenda o hipoteca o permitan el embargo de bienes de su propiedad, hasta por el valor de los otorgados en garantía;
+IV.- Los adquirentes de negociaciones, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas en la negociación, cuando pertenecía a otra persona, sin que la responsabilidad exceda del valor de la misma.
 
-VI. Las personas físicas o morales que adquieran bienes o negociaciones que reporten créditos exigibles a favor del erario municipal y que correspondan a períodos anteriores a la fecha de adquisición, hasta por el valor de la negociación;
+V.- Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el Estado, con cuya intervención éstas efectúen actividades en el Estado, por las que deban pagarse contribuciones hasta por el monto de dichas contribuciones.
 
-VII. Los servidores públicos, Notarios, Corredores y demás fedatarios públicos que autoricen algún acto jurídico, expidan testimonios o den trámite a algún documento generador de obligaciones fiscales de pago, si no se cercioran de que se han cubierto los impuestos, derechos y productos respectivos, o no den cumplimiento a las disposiciones correspondientes que regulan el pago de la contribución respectiva;
+VI.- Quienes ejerzan, la patria potestad o la tutela, por las contribuciones a cargo de su representado.
 
-VIII. Las instituciones de crédito autorizadas para llevar a cabo operaciones fiduciarias, respecto de los créditos fiscales que se hubieran causado, derivados de la actividad objeto del contrato de fideicomiso, hasta donde alcance el patrimonio fideicomitido, así como por los avisos y declaraciones que deban presentar los contribuyentes con quienes operen, en relación con dicho patrimonio;
+VII.- Los legatarios y los donatarios a título particular respecto de las obligaciones fiscales que se hubieren causado en relación con los bienes legados o donados, hasta por el monto de éstos.
 
-IX. Los representantes de los contribuyentes que, para cubrir créditos fiscales, hayan librado cheques sin tener fondos disponibles o que, teniéndolos, dispongan de ellos antes de que venza el plazo de su presentación;
+VIII.- Quienes manifiesten su voluntad de asumir responsabilidad solidaria.
 
-X. Los servidores públicos municipales que acepten cheques en pago de créditos fiscales que no cumplan los requisitos a que se refiere el artículo 43 de este ordenamiento;
+IX.- Los terceros que para garantizar el interés fiscal constituyan depósito, prenda o hipoteca o permitan el secuestro de bienes, hasta por el valor de los dados en garantía, sin que en ningún caso su responsabilidad exceda del monto del interés garantizado.
 
-XI. La persona o personas que tengan conferida la dirección general, la gerencia general o la administración única, o cualquiera que sea el nombre con que se le designe, de las personas morales, por las contribuciones causadas o no retenidas por las mismas durante su gestión, así como por las que debieron pagarse o enterarse durante ésta, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la persona moral que dirigen.
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-Los representantes de personas físicas serán responsables solidarios en los mismos términos a que se refiere esta fracción;
+X.- Las sociedades escindidas, por las contribuciones causadas en relación con la transmisión de los activos, pasivos y de capitales transmitidos por la escindente, así como por las contribuciones causadas por esta última con anterioridad a la escisión, sin que la responsabilidad exceda del valor del capital de cada una de ellas al momento de la escisión.
 
-XII. Los socios o accionistas, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la persona moral, cuando tenían tal calidad, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la misma, sin que la responsabilidad exceda de la participación que tenían en el capital o patrimonio de la persona moral durante el período o a la fecha de que se trate;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-XIII. Los liquidadores o síndicos, por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquellas que se causaron durante su gestión;
+La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas. Lo dispuesto en este párrafo no impide que los responsables solidarios puedan ser sancionados por actos u omisiones propios.
 
-XIV. Los representantes, sea cual fuere el nombre con el que se les designe, de personas no residentes en el país, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, hasta por el monto de éstas;
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XV. Quienes ejerzan la patria potestad o tutela, por las contribuciones a cargo de sus representados;
+Para efectos del impuesto sobre nóminas a que se refiere la Ley de Hacienda del Estado, son responsables solidarios del pago de dicho impuesto quienes contraten o reciban la prestación del trabajo personal subordinado, no obstante que el pago de las remuneraciones se realice por conducto de terceros.
 
-XVI. Los propietarios o poseedores de bienes inmuebles, por el importe de los créditos fiscales a cargo del propietario o poseedor anterior, así como los propietarios de bienes inmuebles que hubieren vendido con reserva de dominio;
+###### ARTICULO 28.
 
-XVII. Las personas morales o físicas que administren o sean propietarios de bienes inmuebles afectos al servicio turístico de tiempo compartido;
+Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas, deberán solicitar si procediere, su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas y Tesorería General del Estado y dar, en su caso, los siguientes avisos:
 
-XVIII. El personal de la Tesorería que formule constancias de no adeudo con datos falsos;
+I.- Cambio de nombre, denominación o razón social.
 
-XIX. Las instituciones bancarias que, sin culpa del librador, no cubran el importe de un cheque girado a favor del fisco municipal, hasta por el importe del cheque con sus accesorios; y
+II.- Cambio de domicilio.
 
-XX. Las demás personas que señalen las leyes fiscales.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-La responsabilidad solidaria comprenderá la totalidad de los créditos fiscales, con excepción de las multas, por tanto, el fisco podrá exigir de cualquiera de ellos, simultánea o separadamente, el cumplimiento de las obligaciones fiscales. Lo dispuesto en este párrafo no impedirá que los responsables solidarios sean sancionados por actos u omisiones propios.
+III.- Alta, cambio, suspensión o baja de obligaciones fiscales.
 
-###### Artículo 33.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-Para efectos fiscales se considera domicilio fiscal:
+IV.- Liquidación, fusión o escisión.
 
-I. Tratándose de personas físicas:
+V.- Cancelación en el Registro de Contribuyentes.
 
-a) El que declaren a la autoridad fiscal.
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-b) El lugar en que se realicen los actos o actividades gravadas o se generen obligaciones fiscales.
+VI.- Aumento o disminución de obligaciones fiscales.
 
-c) Cuando realicen actividades comerciales, industriales, de prestación de servicios, agrícolas, ganaderas o silvícolas, el local en que se encuentre el principal asiento de sus negocios o aquel que hubiesen señalado en el padrón municipal de contribuyentes que les corresponda.
+Asimismo, presentarán aviso de cambio de la actividad preponderante o sobre la apertura o cierre de establecimientos o de locales que se utilicen como base tipo para el desempeño de sus servicios.
 
-d) Cuando presten servicios personales independientes, el local que utilicen como base fija para el desempeño de sus actividades.
+Los fedatarios públicos exigirán a los otorgantes de las escrituras públicas en que se haga constar actas constitutivas, de fusión o de liquidación, de personas morales, que comprueben dentro del mes siguiente a la firma que han presentado solicitud de inscripción, o aviso de liquidación o de cancelación, según sea el caso, en el Registro de Contribuyentes, de la persona moral de que se trate, debiendo asentar en su protocolo la fecha de su presentación; en caso contrario, el fedatario deberá informar de dicha omisión a la Secretaría de Finanzas y Tesorería General del Estado dentro del mes siguiente a la autorización de la Escritura.
 
-e) A falta de domicilio en los términos indicados en los incisos anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal.
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
-II Tratándose de personas morales:
+La Secretaría de Finanzas y Tesorería General del Estado llevará registros de contribuyentes basándose en los datos que las personas le proporcionen de conformidad con este artículo y en los que la propia Secretaría obtenga por cualquier otro medio; asimismo asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales y jurisdiccionales, cuando en este último caso se trate de asuntos en que la Secretaría de Finanzas y Tesorería General del Estado sea parte. Las personas inscritas deberán conservar en su domicilio fiscal la documentación comprobatoria de haber cumplido con las obligaciones que establece este artículo, hasta por el término de cinco años posteriores a la fecha en que hubiere ocurrido la baja o la extinción de la obligación fiscal correspondiente.
 
-a) El manifestado a la autoridad fiscal.
+###### ARTICULO 29.
 
-b) El lugar en que esté ubicado el negocio o donde se encuentre establecida la administración del mismo.
+Las personas que de acuerdo con las disposiciones fiscales estén obligadas a llevar contabilidad, deberán observar las siguientes reglas:
 
-c) Si existen varios establecimientos, aquel en donde se encuentre la administración principal del negocio.
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
-d) A falta de los anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal.
+I.- Llevarán los sistemas y registros contables que se requieran conforme a la naturaleza de la contribución a pagar.
 
-III. Tratándose de personas físicas o morales residentes fuera del territorio del Municipio y que realicen actividades gravadas en el mismo, el de su representante, y a falta de éste, el lugar en que se haya realizado el hecho generador de la obligación fiscal; y
+II.- Los asientos en la contabilidad serán analíticos y deberán efectuarse dentro de los dos meses siguientes a la fecha en que se realicen las actividades respectivas.
 
-IV. Tratándose de personas físicas o morales sujetas al pago de contribuciones sobre la propiedad inmobiliaria y sólo en caso de que no señalen su domicilio fiscal, se considerará como tal el de la ubicación del inmueble que origine la obligación fiscal.
+III.- Llevarán la contabilidad en el domicilio que para efectos fiscales señale, en los términos del Artículo 11 de este Código.
 
-Las personas domiciliadas fuera del Municipio, que generen créditos fiscales a favor del Erario Municipal, cumplirán con las obligaciones establecidas en las leyes fiscales municipales.
+Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación mantengan en su poder la contabilidad de la persona por un plazo mayor de un mes, ésta deberá continuar llevando su contabilidad cumpliendo con los requisitos respectivos.
 
-Se considerará que hay cambio de domicilio fiscal, cuando el contribuyente lo establezca en lugar distinto al que se tiene manifestado o cuando deba considerarse un nuevo domicilio en los términos de este Código; en todo caso, el contribuyente tendrá la obligación de comunicar por escrito a la autoridad fiscal su nuevo domicilio, de no ser así y con independencia de las sanciones a que se hiciere acreedor, la autoridad fiscal podrá válidamente efectuar la notificación en el domicilio en que tenga su negociación.
+Quedan incluidos en la contabilidad los registros y cuentas especiales a que obliguen las disposiciones fiscales, los que lleven los contribuyentes aún cuando no sean obligatorios y los libros y registros sociales a que obliguen otras leyes.
 
-El aviso de cambio de domicilio fiscal se presentará a la Tesorería dentro de los treinta días siguientes al en que tenga lugar la situación jurídica o de hecho que corresponda.
+En los casos en que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables a que se refiere la Fracción I de este artículo, por los registros, cuentas especiales, libros y registros sociales, señalados en el párrafo precedente, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
 
-En caso de cambio de nomenclatura o numeración oficial, la autoridad fiscal actualizará los datos correspondientes, sin que el contribuyente deba presentar el aviso de cambio de domicilio fiscal.
+###### ARTICULO 30.
 
-### CAPÍTULO ÚNICO
+Los comprobantes que se deben extender a las personas que adquieran bienes o usen servicios contendrán el nombre, denominación o razón social, domicilio fiscal y clave de registro de contribuyentes de quien lo expida; folio, lugar, valor y fecha de expedición; cantidad y clase de mercancía o descripción del servicio.
 
-###### Artículo 34.
+###### ARTICULO 31.
 
-La obligación fiscal nace cuando se realizan las situaciones jurídicas o de hecho, previstas en las leyes fiscales vigentes durante el lapso en que ocurran.
+Las personas obligadas a llevar contabilidad deberán conservarlas en el lugar a que se refiere la Fracción III del Artículo 29 de este Código a disposición de las autoridades fiscales.
 
-Las contribuciones se determinarán y liquidarán conforme a las disposiciones vigentes en el momento de su causación, pero le serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
+Las personas que no estén obligadas a llevar contabilidad deberán conservar en su domicilio a disposición de las autoridades, toda documentación relacionada con el cumplimiento de las disposiciones fiscales.
+
+La documentación a que se refiere el párrafo anterior de este artículo y la contabilidad, deberán conservarse durante cinco años contados a partir de la fecha en que se presentaron o debieron presentarse las declaraciones con ellas relacionadas. Tratándose de documentación correspondiente a actos cuyos efectos fiscales se prolonguen en el tiempo, el plazo de cinco años comenzará a computarse a partir del día en que se presente la declaración del último ejercicio en que se hayan producido dichos efectos. La documentación correspondiente a aquellos conceptos respecto de los cuales se hubiera promovido algún recurso o juicio, se conservarán durante un plazo de cinco años computado a partir de la fecha en que quede firme la resolución que les ponga fin.
+
+Cuando al inicio de una visita domiciliaria los contribuyentes hubieran omitido asentar registros en su contabilidad dentro de los plazos establecidos en las disposiciones fiscales, dichos registros sólo podrán efectuarse después de que la omisión correspondiente haya sido asentada en acta parcial; ésta obligación subsiste inclusive cuando las autoridades hubieran designado un depositario distinto del contribuyente, siempre que la contabilidad permanezca en alguno de sus establecimientos. El contribuyente deberá seguir llevando su contabilidad independientemente de lo dispuesto en este párrafo.
+
+###### ARTICULO 32.
+
+Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes, declaraciones o avisos, ante las autoridades fiscales, así como de expedir constancias o documentos, lo harán en las formas que al efecto apruebe la Secretaría de Finanzas y Tesorería General del Estado, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos, que dichas formas requieran.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+
+En los casos en que las formas para la presentación de las declaraciones o avisos y expedición de constancias, que prevengan las disposiciones fiscales, no hubieran sido aprobadas por la Secretaría de Finanzas y Tesorería General del Estado, los obligados a presentarlas las formularán en escrito por cuadruplicado que contenga su nombre, domicilio y clave de registro de contribuyentes, así como el ejercicio y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
+
+Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, las seguirán presentando aún cuando no haya pago a efectuar.
+
+Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el Estado, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones en el Estado, están obligados a formular y presentar a nombre de sus representadas, las declaraciones, avisos y demás documentos que señalen las disposiciones fiscales.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+
+Las declaraciones, avisos, solicitudes de inscripción en el registro de contribuyentes y demás documentos que exijan las disposiciones fiscales, se presentarán en las oficinas que al efecto autorice la Secretaría de Finanzas y Tesorería General del Estado. También podrán enviarse por medio del servicio postal en pieza certificada en los casos en que la propia Secretaría lo autorice, conforme a las reglas generales que al efecto expida; en este último caso se tendrá como fecha de presentación la del día en que se haga la entrega a las oficinas de correos.
+
+Las oficinas a que se refiere el párrafo anterior, recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverán copia sellada a quien los presente. Unicamente se podrá rechazar la presentación cuando no contengan el nombre del contribuyente, su clave de registro federal de contribuyentes, su número de registro estatal, su domicilio fiscal o no aparezcan debidamente firmados, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
+
+###### ARTICULO 33.
+
+Las personas obligadas a presentar declaraciones tienen el derecho de presentar declaraciones complementarias sustituyendo los datos de la original. Este derecho puede ser ejercido dentro de los cinco años siguientes a la fecha en que se hubiera presentado la original.
+
+Cuando se inicie el ejercicio de facultades de comprobación, únicamente se podrá presentar declaración complementaria en las formas especiales a que se refieren los artículos 58 y 76 de este Código, según proceda, debiéndose pagar las multas que establece el citado Artículo 76.
+
+Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del Artículo 22 de este Código, a partir de la fecha en que se debió hacer el pago.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 33 Bis.
+
+La Administración Pública Estatal, Central y Paraestatal, en ningún caso contratará adquisiciones, arrendamientos, servicios u obra pública con proveedores que:
+
+I.- Tengan a su cargo créditos fiscales firmes, determinados, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código.
+
+II.- No se encuentren inscritos en el Registro Estatal o Federal de Contribuyentes, según se trate de impuestos estatales o federales, respectivamente.
+
+III.- Habiendo vencido el plazo para presentar alguna declaración, provisional o no, y con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada.
+
+La prohibición establecida en este dispositivo no será aplicable a quienes se encuentren en el supuesto de la fracción I de este Artículo, siempre que se obtenga la autorización de las autoridades fiscales en los términos que este Código establece para cubrir los pagos a plazo, ya sea diferidos o en parcialidades.
+
+Quienes se ubiquen en los supuestos de las fracciones II y III de este Artículo contarán, previo a su contratación, con un plazo de quince días para corregir su situación fiscal, a partir del día siguiente a aquél en que surta efectos las (sic) notificación que realice la autoridad respecto de la irregularidad detectada.
+
+Para estos efectos, en los contratos de adquisiciones, arrendamientos, servicios u obra pública se establecerá cláusula de retención, respecto de las contraprestaciones a favor de los contratistas o proveedores, a efecto de garantizar el pago de las contribuciones omitidas.
+
+### CAPITULO III
+
+###### ARTICULO 34.
+
+Son autoridades fiscales del Estado para los efectos de este Código y demás leyes fiscales vigentes:
+
+I.- El Gobernador del Estado.
+
+II.- El Secretario de Finanzas y Tesorero General del Estado.
+
+III.- Los titulares de las dependencias administrativas de la Secretaría de Finanzas y Tesorería General del Estado.
+
+IV.- Los jefes o encargados de las oficinas recaudadoras.
+
+V.- Los Presidentes y Tesoreros Municipales, así como los Directores, Jefes o Recaudadores de las Tesorerías Municipales.
+
+VI.- Los funcionarios federales, estatales y municipales, cuando los convenios celebrados así lo establezcan.
+
+VII.- Quienes conforme a las disposiciones Estatales o Municipales, tengan facultades para administrar contribuciones.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2006)</small>
+
+VIII.- El Director del Instituto de Control Vehicular, así como los titulares de las unidades administrativas y los jefes o encargados de las oficinas recaudadoras del propio Instituto.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Para el ejercicio de sus facultades, las autoridades fiscales del Estado tendrán competencia en todo el territorio del Estado de Nuevo León y tratándose de autoridades municipales en su respectiva circunscripción territorial y en su caso en los términos de los convenios de coordinación fiscal que tengan celebrados.
 
 ###### Art. 94.
 
@@ -5932,9 +4798,7 @@ También será consignado a la autoridad o agente de ella, el que, verificada un
 
 Si la detención se verificare fuera del lugar en que resida el juez, al término mencionado se agregará el suficiente para recorrer la distancia que hubiere entre dicho lugar y el en que se verificó la detención.
 
-## TITULO CUARTO.
-
-DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS PUBLICOS.
+## TITULO IV. De las Infracciones y Delitos Fiscales
 
 ###### Art. 108.
 
@@ -5986,11 +4850,7 @@ La responsabilidad por delitos y faltas oficiales, sólo podrá exigirse durante
 
 En demandas del orden civil, no hay fuero ni inmunidad para ningún funcionario público.
 
-## TITULO QUINTO.
-
-DE LOS ESTADOS DE LA FEDERACION.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE FEBRERO DE 1947)</small>
+## TITULO V. De los Procedimientos Administrativos
 
 ###### Art. 115.
 
@@ -6126,191 +4986,309 @@ V.- Los títulos profesionales expedidos por las autoridades de un Estado, con s
 
 Los Poderes de la Unión, tienen el deber de proteger a los Estados contra toda invasión o violencia exterior. En cada caso de sublevación o trastorno interior, les prestarán igual protección, siempre que sean excitados por la Legislatura del Estado o por su Ejecutivo, si aquélla no estuviere reunida.
 
-## TITULO SEXTO.
+## TITULO VI
 
-DEL TRABAJO Y DE LA PREVISION SOCIAL.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE SEPTIEMBRE DE 1929)</small>
+### CAPITULO IV
 
-### CAPÍTULO I. DEL IMPUESTO PREDIAL
+###### ARTICULO 35.
 
-###### Artículo 35.
+Las autoridades fiscales proporcionarán asistencia gratuita a los contribuyentes y para ello procurarán:
 
-La determinación de los créditos fiscales corresponde a los sujetos pasivos, salvo disposición expresa en contrario.
+I.- Explicar las disposiciones fiscales utilizando en lo posible un lenguaje llano alejado de tecnisismos (sic) y en los casos en que sean de naturaleza compleja, elaborar y distribuir folletos a los contribuyentes.
 
-Cuando las leyes establezcan que la determinación deba ser hecha por la autoridad fiscal, los sujetos pasivos informarán a ésta de la realización de los hechos que hubieren dado nacimiento a la obligación fiscal y los que sean pertinentes para la liquidación del crédito en los términos que establezca este Código y, en su defecto, por escrito, dentro de los quince días siguientes al nacimiento de la obligación fiscal.
+II.- Mantener oficinas en diversos lugares del Estado que se ocuparán de orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones.
 
-Los responsables solidarios, excepto los fedatarios públicos, proporcionarán, a solicitud de las autoridades, la información que tengan a su disposición.
+III.- Elaborar los formularios de declaración en forma que puedan ser llenados fácilmente por los contribuyentes y en su caso distribuirlos con oportunidad, e informar de las fechas y lugares de presentación de los que se consideren de mayor importancia.
 
-###### Artículo 36.
+IV.- Difundir entre los contribuyentes los derechos y medios de defensa que se pueden hacer valer contra las resoluciones de las autoridades fiscales.
 
-Son créditos fiscales los que tenga derecho a percibir el Municipio o sus entidades, que deriven de contribuciones, aprovechamientos, accesorios y de responsabilidades administrativas, así como aquellos a los que las leyes les den ese carácter.
+V.- Efectuar en distintas partes del Estado reuniones de información con los contribuyentes y recaudadores, especialmente cuando se modifiquen las disposiciones fiscales y durante los principales períodos de presentación de declaraciones.
 
-A falta de señalamiento expreso, el pago se hará:
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
-I. Si es a los sujetos pasivos o responsables solidarios a quienes corresponde determinar en cantidad líquida la prestación, dentro de los quince días siguientes a la fecha del nacimiento de la obligación fiscal;
+VI.- Publicar las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes; se podrán publicar aisladamente aquellas disposiciones cuyos efectos se limitan a períodos inferiores a un año.
 
-II. Si es a las autoridades a las que corresponde formular la liquidación, dentro de los quince días siguientes a la fecha en que haya surtido efecto la notificación de la misma;
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
-III. Si se trata de obligaciones derivadas de contratos o concesiones que no señalen fecha de pago, éste se hará dentro de los quince días siguientes a la fecha de su celebración u otorgamiento;
+###### ARTICULO 36.
 
-IV. Si el crédito se determina mediante un convenio, en la fecha que éste señale; y
+Las autoridades fiscales sólo están obligadas a contestar las consultas que sobre situaciones reales y concretas les hagan los interesados individualmente; de su resolución favorable se derivan derechos para el particular, en los casos en que la consulta se haya referido a circunstancias reales y concretas y la resolución se haya emitido por escrito por autoridad competente para ello.
 
-V. Tratándose de actos de fiscalización, dentro de los quince días siguientes a la fecha en que surta efectos la notificación de la liquidación correspondiente.
+###### ARTICULO 37.
 
-###### Artículo 37.
+Los funcionarios fiscales facultados debidamente, podrán dar a conocer a las diversas dependencias el criterio que deberán seguir en cuanto a la aplicación de las disposiciones fiscales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando se publiquen en el Periódico Oficial del Estado.
 
-El pago de los créditos fiscales y cualquier ingreso en favor del Municipio se hará en efectivo con moneda de curso legal, salvo los casos que este Código autorice que se efectúen en especie.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-Los giros postales, telegráficos o bancarios y los cheques de cuenta personal del contribuyente se admitirán salvo buen cobro.
+###### ARTICULO 38.
 
-El pago también podrá efectuarse por medio de cheques certificados o cheques de caja; tratándose de cheques no certificados de cuentas personales, de pago con tarjetas de crédito, tarjetas de débito y de transferencias de fondos de cuentas bancarias de los contribuyentes, únicamente se aceptarán cuando lo autorice la Tesorería. Queda prohibido a la Autoridad Fiscal recibir en pago cheques postdatados.
+Las resoluciones administrativas de carácter individual favorables a un particular, sólo podrán ser modificadas por el Tribunal de Justicia Administrativa del Estado mediante juicio iniciado por las autoridades fiscales.
 
-La Tesorería podrá autorizar expresamente la aceptación de otros instrumentos de pago.
+Cuando la Secretaría de Finanzas y Tesorería General del Estado modifique las resoluciones administrativas de carácter general, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
 
-###### Artículo 38.
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-Para determinar las contribuciones se considerarán las fracciones del peso; para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de uno hasta cincuenta centavos se ajusten a la unidad del peso inmediata inferior, y las que contengan cantidades de cincuenta y uno a noventa y nueve centavos, se ajusten a la unidad del peso inmediata superior.
+Las autoridades fiscales podrán, discrecionalmente, revisar las resoluciones administrativas de carácter individual no favorables a un particular, en el supuesto de que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, y podrán, por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, y sin que haya prescrito el crédito fiscal.
 
-Para los efectos de este Código, se entenderá por salario mínimo el establecido como tal para el Municipio en las disposiciones legales respectivas de orden federal.
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-Cuando no se cubra la contribución, producto o aprovechamiento en la fecha o época establecidas en este Código, y los mismos se fijen en salarios mínimos, el cobro se realizará conforme al vigente al momento de su incumplimiento.
+Lo señalado en el párrafo anterior, no constituirá instancia y las resoluciones que dicten las autoridades fiscales al respecto no podrán ser impugnadas por los contribuyentes.
 
-### CAPÍTULO II. DEL IMPUESTO SOBRE TRASLACIÓN DE DOMINIO DE BIENES INMUEBLES
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
-###### Artículo 39.
+### CAPITULO V
 
-La falta de pago de un crédito fiscal en la fecha o dentro del plazo establecido en las disposiciones respectivas determina que el crédito sea exigible.
+###### ARTICULO 39.
 
-Las contribuciones o aprovechamientos cuyo pago se haya omitido y que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como de los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro de los quince días siguientes a aquél en que haya surtido efectos su notificación.
+Las instancias o peticiones que se formulen a las autoridades fiscales deberán ser resueltas en un plazo de sesenta días; transcurrido dicho plazo sin que se notifique la resolución, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a dicho plazo, mientras no se notifique la resolución, o bien, esperar a que ésta se notifique.
 
-###### Artículo 40.
+###### ARTICULO 40.
 
-Los adeudos por contribuciones o accesorios podrán pagarse a plazos, en una sola exhibición o en parcialidades, previa autorización del Tesorero, a solicitud por escrito de los obligados. El plazo que al efecto se autorice no podrá ser mayor de veinticuatro meses.
+Los actos administrativos que se deban notificar deberán tener por lo menos los siguientes requisitos:
 
-La solicitud de pago en parcialidades sólo podrá referirse a adeudos de contribuciones o accesorios de ejercicios fiscales anteriores al de la solicitud.
+> <small>(REFORMADO [N. DE. E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-La primera parcialidad a pagar será el resultado de dividir el saldo del adeudo inicial a la fecha de la autorización, entre el número de parcialidades solicitadas.
+I.- Constar por escrito en documento impreso o digital.
 
-El saldo del adeudo inicial a la fecha de autorización se integrará por la suma de:
+> <small>(ADICIONADO P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-a) El monto de las contribuciones omitidas;
+Tratándose de actos administrativos que consten en documentos digitales la notificación personal se hará por medios electrónicos y con la firma electrónica avanzada del funcionario competente.
 
-b) Las multas; y
+II.- Señalar la autoridad que lo emite.
 
-c) Los accesorios distintos de las multas que tenga a su cargo el contribuyente.
+III.- Estar fundado y motivado y expresar la resolución, objeto o propósito de que se trate;
 
-Durante los plazos concedidos se causarán recargos por prórroga sobre el saldo insoluto, incluyendo los accesorios a la tasa que fije anualmente la Ley de Ingresos del Municipio.
+IV.- Ostentar la firma del funcionario competente y, en su caso, el nombre o nombres de las personas a las que se envíe. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación.
 
-El Tesorero, al autorizar el pago a plazos, ya sea en una sola exhibición o en parcialidades, exigirá que se garantice el interés fiscal dentro de los quince días siguientes a la fecha en que se hubiere notificado la autorización.
+Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria, se señalará, además la causa legal de la responsabilidad.
 
-###### Artículo 41.
+> <small>(ADICIONADO P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-Cesará la prórroga o la autorización para pagar a plazos y el crédito fiscal será inmediatamente exigible cuando el deudor:
+Para la emisión y regulación de los documentos digitales, de la firma electrónica avanzada de los funcionarios pertenecientes a la Secretaría de Finanzas y Tesorería General del Estado y demás autoridades fiscales y, para la notificación por medios electrónicos serán aplicables las disposiciones previstas en la Ley Sobre Gobierno Electrónico y Fomento al Uso de las Tecnologías de la Información del Estado y demás leyes aplicables.
 
-I. No otorgue en el plazo establecido en este Código, desaparezca o resulte insuficiente la garantía del interés fiscal;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-II. Sea declarado en quiebra o solicite su liquidación judicial;
+###### ARTICULO 41.
 
-III. Deje de cubrir tres parcialidades sucesivas; o
+El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Tesorería General del Estado, mediante resolución podrá:
 
-IV. Cambie de domicilio sin dar aviso de dicho cambio a la autoridad fiscal, dentro del plazo de treinta días.
+I.- Condonar o eximir, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del Estado, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias.
 
-Los contribuyentes que se encuentren en cualquiera de los supuestos mencionados no podrán solicitar nuevamente autorización por los mismos conceptos que fueron objeto del cese de prórroga.
+II.- Dictar las medidas relacionadas con la administración, control, forma de pago y procedimientos señalados en las leyes fiscales, sin variar las disposiciones relacionadas con el sujeto, objeto, la base, la cuota, la tasa o la tarifa de los gravámenes, las infracciones o las sanciones de las mismas, a fin de facilitar el cumplimiento de las obligaciones de los contribuyentes.
 
-En los supuestos a que se refiere este artículo, el saldo será exigible inmediatamente, por lo que las autoridades fiscales lo requerirán y lo harán exigible mediante el procedimiento administrativo de ejecución.
+III.- Conceder subsidios o estímulos fiscales.
 
-### CAPÍTULO III. DEL IMPUESTO SOBRE ESPECTÁCULOS PÚBLICOS
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-###### Artículo 42.
+Las resoluciones que conforme a este artículo se dicten, deberán señalar las contribuciones a que se refieren, salvo que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
 
-Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo señalado en las disposiciones respectivas, se pagarán recargos por mora en concepto de indemnización al fisco municipal por falta de pago oportuno, conforme a la tasa que anualmente se fije en la Ley de Ingresos del Municipio.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 2017)</small>
 
-Los recargos por mora se causarán por cada mes o fracción de éste que transcurra, a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe. Dichos recargos se calcularán aplicando al monto de las contribuciones o de los aprovechamientos por el período a que se refiere el párrafo anterior, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de la contribución o aprovechamiento de que se trate.
+### CAPITULO VI
 
-Los recargos se causarán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización por cheque no pagado a que se refiere el artículo siguiente, los gastos de ejecución y las multas por infracción a disposiciones fiscales.
+###### ARTICULO 42.
 
-Los recargos se causarán hasta por cinco años, salvo en los casos en los que no se haya extinguido por prescripción la facultad de la autoridad fiscal para el cobro de las contribuciones o aprovechamientos omitidos y sus accesorios, de acuerdo a las disposiciones de este Código.
+Cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales, éstas podrán indistinta o conjuntamente:
 
-Al garantizarse las obligaciones fiscales por terceros, los recargos se causarán sobre el monto de lo requerido y hasta el límite de lo garantizado, cuando no se pague dentro del plazo legal.
+I.- Solicitar el auxilio de la fuerza pública.
 
-Si el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia.
+II.- Imponer la multa que corresponda en los términos de este Código.
 
-Si los recargos determinados por el contribuyente son inferiores a los que calcule la autoridad fiscal, ésta aceptará el pago y procederá a exigir el remanente.
+III.- (DEROGADA, P.O. 3 DE FEBRERO DE 2017)
 
-En caso de aprovechamientos, los recargos se calcularán, de conformidad con lo dispuesto en este artículo, sobre el total del crédito fiscal, excluyendo los recargos, los gastos de ejecución y la indemnización por cheque no pagado.
+IV.- Solicitar a la autoridad competente se proceda por desobediencia a un mandato legítimo de autoridad competente.
 
-Las autoridades fiscales no liberarán ni condonarán, total o parcialmente, el pago de las contribuciones y de los recargos correspondientes, salvo en los casos que prevé este mismo Código.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 3 DE FEBRERO DE 2017)</small>
 
-###### Artículo 43.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-El cheque recibido por las autoridades fiscales, que sea librado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización del veinte por ciento del valor de éste, así como a la comisión bancaria que resulte de su devolución, sin perjuicio de que se tenga por no cumplida la obligación fiscal y se cobren los créditos, recargos y sanciones procedentes por el falso pago.
+No se aplicarán medidas de apremio cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos, manifiesten por escrito a la autoridad, que se encuentran impedidos de atender completa o parcialmente la solicitud realizada por causa de fuerza mayor o caso fortuito, y lo acrediten exhibiendo las pruebas correspondientes.
 
-La autoridad fiscal correspondiente requerirá al librador del cheque para que, dentro del plazo de tres días, efectúe el pago junto con la indemnización del veinte por ciento, la comisión bancaria por cheque devuelto y los demás accesorios, o bien, acredite fehacientemente, con las pruebas documentales procedentes, que realizó el pago o que éste no se efectuó por causas imputables a la librada.
+ARTICULO 42 BIS.- (DEROGADO, P.O. 3 DE FEBRERO DE 2017)
 
-Transcurrido el plazo anteriormente señalado sin que el contribuyente o librador del cheque efectúe el pago o demuestre cualesquiera de los supuestos mencionados, la autoridad fiscal procederá a hacer efectivo el crédito fiscal en los términos previstos en el párrafo primero de este artículo, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
+###### ARTICULO 43.
 
-Si el cheque no se paga por responsabilidad del librado se estará a lo dispuesto por la Ley General de Títulos y Operaciones de Crédito.
+Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, las autoridades fiscales exigirán la presentación del documento respectivo ante las oficinas correspondientes, procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
 
-###### Artículo 44.
+I.- Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones, ya sea provisional o del ejercicio, podrán hacer efectiva al contribuyente o responsable solidario que haya incurrido en la omisión, una cantidad igual a la contribución que hubiera determinado en la última o cualquiera de las seis últimas declaraciones de que se trate. Esta cantidad a pagar tendrá el carácter de pago provisional y no libera a los obligados de presentar la declaración omitida.
 
-Los pagos que se hagan se aplicarán a los créditos más antiguos, siempre que se trate de la misma contribución y antes del adeudo principal a los accesorios, en el orden siguiente:
+Cuando la omisión sea de una declaración de las que se conozca de manera fehaciente la cantidad a la que le es aplicable la tasa o cuota respectiva, la propia autoridad fiscal podrá hacer efectiva al contribuyente, con carácter provisional, una cantidad igual a la contribución que a éste corresponda determinar, sin que el pago lo libere de presentar la declaración omitida.
 
-I. Gastos de ejecución;
+Si el contribuyente o responsable solidario presenta la declaración omitida antes de que se le haga efectiva la cantidad resultante conforme a lo previsto en esta fracción, queda liberado de hacer el pago determinado provisionalmente. Si la declaración se presenta después de haberse efectuado el pago provisional determinado por la autoridad, éste se ajustará conforme al importe que se tenga que pagar con la declaración que se presente.
 
-II. Recargos;
+II.- Embargar precautoriamente los bienes o la negociación cuando el contribuyente haya omitido presentar declaraciones en los últimos tres ejercicios o cuando no atienda tres requerimientos de la autoridad en los términos de la fracción III de este Artículo por una misma omisión. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento o dos meses después de practicado si no obstante el incumplimiento, las autoridades fiscales no inician el ejercicio de sus facultades de comprobación.
 
-III. Multas; y
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
-IV. La indemnización y la comisión bancaria, relativas a cheques recibidos por la autoridad fiscal, no pagados y devueltos por instituciones bancarias.
+III.- Imponer la multa que corresponda en los términos de este código y requerir la presentación del documento omitido en un plazo de seis días. Si no se atiende el requerimiento se impondrá multa por cada requerimiento no atendido. La autoridad en ningún caso formulará más de tres requerimientos por una misma omisión.
 
-Cuando el contribuyente interponga algún medio de defensa que impugne alguno de los conceptos previstos en las fracciones anteriores, el orden señalado no será aplicable respecto del concepto impugnado y garantizado.
+En el caso de la fracción III y agotados los actos señalados en la misma, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
 
-###### Artículo 45.
+###### ARTICULO 44.
 
-Cuando de oficio o por escrito del contribuyente se solicite la devolución de cantidades pagadas indebidamente y las que procedan de conformidad con este Código, la autoridad fiscal deberá reintegrarlas mediante cheque nominativo.
+La Secretaría de Finanzas y Tesorería General del Estado a fin de comprobar que los contribuyentes o responsables solidarios han cumplido con las disposiciones fiscales y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales, estará facultada para:
 
-La devolución procederá cuando no haya créditos fiscales exigibles, de lo contrario, cualquier excedente se aplicará en cuenta, de oficio. Los retenedores podrán solicitar la devolución, siempre que ésta se haga directamente a los contribuyentes.
+I.- Rectificar los errores aritméticos que aparezcan en las declaraciones.
 
-Si el pago de lo indebido se hubiere efectuado en cumplimiento de un acto de autoridad, el derecho a la devolución nacerá cuando dicho acto quede insubsistente.
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
-Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de treinta días siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal, con los datos, informes y documentos en que se sustente el derecho. En caso de omisiones, la autoridad requerirá al promovente, dentro de un plazo de cinco días, para que las subsane, dentro los diez días siguientes, en cuyo defecto, la solicitud se tendrá por no presentada. Cuando exista requerimiento, el plazo de treinta días se contará a partir de que se subsane la omisión.
+II.- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimientos o en las oficinas de las propias autoridades, su contabilidad para efectos de su revisión, así como proporcionar los datos, documentos o informes que se les requieran.
 
-Si la devolución no se efectúa en el plazo de treinta días, la autoridad fiscal pagará intereses que se calcularán a partir del día siguiente al del vencimiento, conforme a una tasa que será igual a la prevista para los recargos por pago extemporáneo.
+III.- Practicar visitas a los contribuyentes, los responsables solidarios o terceros relacionados con ellos y revisar su contabilidad, bienes y mercancías.
 
-El pago de intereses se incluirá de oficio en la liquidación correspondiente.
+IV.- Revisar los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes y su relación con el cumplimiento de disposiciones fiscales.
 
-El contribuyente que haya pagado un crédito fiscal, interponga oportunamente los medios de defensa y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a recibir intereses sobre las cantidades pagadas indebidamente, a partir de la fecha de pago. En estos casos, podrá compensar las cantidades a su favor, incluidos los intereses contra la misma contribución que se pague, ya sea a su cargo o que deba enterar en su carácter de retenedor.
+V.- Practicar u ordenar se practique avalúo o verificación física de toda clase de bienes, incluso durante su transporte.
 
-En ningún caso los intereses excederán del cien por ciento del monto de las contribuciones. La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
+VI.- Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones.
 
-###### Artículo 46.
+VII.- Allegarse las pruebas necesarias para formular la denuncia, querella o declaratoria al ministerio público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practique la Secretaría de Finanzas y Tesorería General del Estado tendrán el mismo valor probatorio que la Ley relativa concede a las actas de la policía judicial; y la propia Secretaría, a través de los abogados que designe, será coadyuvante del ministerio público, en los términos del Código de Procedimientos Penales vigente en el Estado.
 
-Los contribuyentes obligados a pagar mediante declaraciones podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución, incluyendo sus accesorios. Si las cantidades que tengan a su favor los contribuyentes no derivan de la misma contribución, sólo se podrán compensar en los casos en que así lo acuerde el Cabildo.
+VIII.- (DEROGADA, P.O. 3 DE FEBRERO DE 2017)
 
-No se causarán recargos cuando el contribuyente compense el saldo a su favor, hasta por el monto de dicho saldo, siempre que éste se haya originado con anterioridad a la fecha en que debió pagarse la contribución de que se trate.
+Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
-Sólo se causarán recargos por el periodo comprendido entre la fecha en que debió pagarse la contribución y la fecha en que se originó el saldo a compensar, cuando el saldo a favor del contribuyente se hubiere originado con posterioridad a la fecha en que se causó la contribución a pagar.
+###### ARTICULO 45.
 
-Las autoridades fiscales podrán compensar de oficio o a petición de los contribuyentes las cantidades que tengan a su favor por cualquier concepto, contra las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros y que hayan quedado firmes por cualquier causa. No se podrán compensar las cantidades cuya devolución se haya solicitado o cuando haya prescrito la obligación para devolverlos.
+En la orden de visita, además de los requisitos a que se refiere el artículo 40 de este Código, se deberá indicar:
 
-En el caso de que la compensación se realice de oficio, la autoridad lo notificará personalmente al interesado.
+I.- El lugar o lugares donde debe efectuarse la visita.
 
-###### Artículo 47.
+II.- El nombre de la persona o personas que deban efectuar la visita las cuales podrán ser sustituidas, aumentadas o reducidas en su número, en cualquier tiempo por la autoridad competente. La sustitución o aumento de las personas que deban efectuar la visita se notificará al visitado.
 
-La compensación entre particulares y el fisco municipal, podrá ser realizada respecto de cualquier clase de contribuciones, aprovechamientos, créditos o deudas, si unos y otros son líquidos.
+Las personas designadas para efectuar la visita la podrán hacer conjunta o separadamente.
 
-###### Artículo 48.
+###### ARTICULO 46.
 
-Las contribuciones, aprovechamientos, créditos y deudas en favor del Fisco Municipal, únicamente podrán compensarse cuando provengan de la aplicación de las disposiciones de este Código y se satisfagan los requisitos que para esta forma de extinción señala el derecho común.
+En los casos de visita en el domicilio fiscal, las autoridades fiscales, los visitados, responsables solidarios y los terceros estarán a lo siguiente:
 
-La compensación será autorizada por el Tesorero, a petición del interesado.
+I.- La visita se realizará en el lugar o lugares señalados en la orden de visita.
 
-La misma autoridad fiscal, al tener conocimiento de que se han satisfecho los requisitos para la compensación, podrá autorizarla mediante resolución particular.
+II.- Si al presentarse los visitadores al lugar en donde debe practicarse la diligencia, no estuviere el visitado o su representante dejarán citatorio con la persona que se encuentre en dicho lugar para que el mencionado visitado o su representante los esperen a hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la vista se iniciará con quien se encuentre en el lugar visitado.
 
-###### Artículo 49.
+En este caso, los visitadores al dejar dicho citatorio, podrán hacer una relación de los libros y documentos que integren la contabilidad.
 
-El derecho de los particulares a la compensación o devolución de las cantidades pagadas indebidamente o en cantidad mayor a la debida, prescribe en los mismos términos que el crédito fiscal.
+Cuando exista peligro de que el visitado se ausente o pueda realizar maniobras para impedir el inicio o desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la contabilidad.
+
+III.- Al iniciarse la visita en el domicilio fiscal, los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la visita.
+
+Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lugar donde se esté llevando a cabo la visita, porque se ausenten antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigo, en tales circunstancias la persona con la que se entienda la visita deberá designar de inmediato otros y ante su negativa o impedimento de los designados, los visitadores podrán designar a quienes deban sustituirlos. La sustitución de los testigos no invalida los resultados de la visita.
+
+IV.- Las autoridades fiscales podrán solicitar el auxilio de otras autoridades fiscales que sean competentes, para que continúen una visita iniciada por aquéllas notificando al visitado la sustitución de autoridad y de visitadores. Podrán también solicitarles practiquen otras visitas para comprobar hechos relacionados con la que estén practicando.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 47.
+
+Los visitados, sus representantes, o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores, el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás medios que acrediten el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copias para que previo cotejo con sus originales, se certifiquen por éstos, estando obligados también a permitir la verificación de bienes y mercancías, relacionadas con la visita.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+Cuando se dé alguno de los supuestos que a continuación se enumeran, los visitadores podrán asegurar la contabilidad y demás datos, documentos o registros, papeles, discos, cintas o cualquier otro medio procesable de almacenamiento de datos, relacionados con el cumplimiento de las disposiciones fiscales:
+
+I.- El visitado, su representante o quien se encuentre en el lugar de la visita se niegue a recibir la orden.
+
+II.- Existan sistemas de contabilidad, registros o libros sociales, que no estén sellados, cuando deban estarlo conforme a las disposiciones fiscales.
+
+III.- Existan dos o más sistemas de contabilidad con distinto contenido, sin que se puedan conciliar con los datos que requieren los avisos o declaraciones presentados.
+
+IV.- Se lleven dos o más libros sociales similares con distinto contenido.
+
+V.- No se hayan presentado todas las declaraciones periódicas a que obligan las disposiciones fiscales, por el período al que se refiere la visita.
+
+VI.- Los datos anotados en la contabilidad no coincidan o no se puedan conciliar con los asentados en las declaraciones o avisos presentados o cuando los documentos que amparen los actos o actividades del visitado no aparezcan asentados en dicha contabilidad, dentro del plazo que señalen las disposiciones fiscales, o cuando sean falsos o amparen operaciones inexistentes.
+
+VII.- Se desprendan, alteren o destruyan parcial o totalmente, sin autorización legal, los sellos o marcas oficiales colocados por los visitadores o se impida por medio de cualquier maniobra que se logre el propósito para el que fueron colocados.
+
+VIII.- Cuando el visitado sea emplazado a huelga o suspensión de labores, en cuyo caso la contabilidad sólo podrá recogerse dentro de las cuarenta y ocho horas anteriores a la fecha señalada para el inicio de la huelga o suspensión de labores.
+
+IX.- Si el visitado, su representante o la persona con quien se entienda la visita se niega a permitir a los visitadores el acceso a los lugares donde se realiza la visita; así como a mantener a su disposición la contabilidad, correspondencia o contenido de cajas de valores.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+En los supuestos a que se refieren las fracciones anteriores, se entenderá que la contabilidad incluye, entre otros, los papeles, discos y cintas, así como cualquier otro medio procesable de almacenamiento de datos.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+En el caso de que los visitadores aseguren la contabilidad por encontrarse el visitado en cualquiera de los supuestos previstos por el segundo párrafo de este artículo, deberán levantar acta parcial al respecto, la cual deberá reunir los requisitos que establece el Artículo 48 de este Código.
+
+###### ARTICULO 48.
+
+La visita en el domicilio fiscal se desarrollará conforme a las siguientes reglas:
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+
+I.- De toda visita en el domicilio fiscal se levantará acta en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubieran conocido por los visitadores. Los hechos u omisiones consignados por los visitadores en las actas hacen prueba plena de la existencia de tales hechos o de las omisiones encontradas, para efectos de cualquiera de las contribuciones a cargo del visitado en el período revisado, aunque dichos efectos no se consignen en forma expresa. Las opiniones de los visitadores sobre el cumplimiento o incumplimiento de las disposiciones fiscales o sobre la situación financiera del visitado, no constituyen resolución fiscal.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+
+II.- Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos se deberán levantar actas parciales, mismas que se agregarán al acta final que de la visita se haga, la cual puede ser levantada en cualquiera de dichos lugares. En los casos a que se refiere esta fracción, se requerirá la presencia de dos testigos en cada establecimiento visitado en donde se levante acta parcial, cumpliendo al respecto con lo previsto en la fracción III del artículo 46 de este Código.
+
+III.- Durante el desarrollo de la visita los visitadores a fin de asegurar la contabilidad, correspondencia o bienes que no estén registrados en la contabilidad, podrán, indistintamente, sellar o colocar marcas en dichos documentos, bienes o en muebles, archiveros, oficinas donde se encuentren, así como dejarlos en calidad de depósito al visitado o a la persona con quien se entienda la diligencia previo inventario que al efecto formulen. En el caso de que algún documento que se encuentre en los muebles, archiveros u oficinas que se sellen, sea necesario al visitado para realizar sus actividades, se le permitirá extraerlo ante la presencia de los visitadores, quienes podrán sacar copia del mismo.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+IV.- Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita. Una vez levantada el acta final, no se podrán levantar actas complementarias sin que exista una nueva orden de visita.
+
+Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir cuando menos veinte días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones, así como optar por corregir su situación fiscal. Cuando se trate de más de un ejercicio revisado o fracción de éste, se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días.
+
+Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señale el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad o no prueba que éstos se encuentran en poder de una autoridad.
+
+V.- Cuando no resulte posible continuar o concluir el ejercicio de las facultades de comprobación en los establecimientos del visitado, las actas en las que se haga constar el desarrollo de una visita en el domicilio fiscal podrán levantarse en las oficinas de las autoridades fiscales. En este caso se deberá notificar previamente esta circunstancia a la persona con quien se entiende la diligencia.
+
+VI.- Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente, si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez y valor probatorio de la misma.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+VII.- Cuando de la revisión de las actas de visita y demás documentación vinculada a éstas, se observe que el procedimiento no se ajustó a las normas aplicables, que pudieran afectar la legalidad de la determinación del crédito fiscal, la autoridad podrá de oficio, por una sola vez, reponer el procedimiento, a partir de la violación formal cometida.
+
+Lo señalado en el párrafo anterior, será sin perjuicio de la responsabilidad en que pueda incurrir el servidor público que motivó la violación.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden, inclusive cuando las facultades de comprobación sean para el mismo ejercicio y por las mismas contribuciones.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 48 Bis.
+
+Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes o la revisión de la contabilidad y los informes, datos, documentos o registros de los mismos, que se efectúe en las oficinas de las propias autoridades, dentro de un plazo máximo de doce meses contados a partir de que surta efectos la notificación del inicio de las facultades de comprobación.
+
+El plazo a que se refiere el párrafo anterior, podrá ampliarse por doce meses, siempre que el oficio mediante el cual se notifique dicha ampliación, haya sido expedido por el superior jerárquico de la autoridad fiscalizadora.
+
+Los plazos para concluir las visitas domiciliarias o las revisiones a que se refiere el párrafo anterior y su prórroga, se suspenderán en los casos de:
+
+I.- Huelga, a partir de su estallamiento y hasta su levantamiento.
+
+II.- Fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión.
+
+III.- Cuando el contribuyente cambie su domicilio fiscal sin haber presentado el aviso correspondiente, o cuando no se le localice en el que haya señalado.
+
+IV.- Interposición de algún medio de defensa contra los actos o actividades motivo de la revisión, dichos plazos se suspenderán desde la fecha en que se interponga el medio de defensa hasta que se dicte su resolución definitiva.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+V.- Cuando el contribuyente no atienda el requerimiento de datos, informes o documentos solicitados por las autoridades fiscales para verificar el cumplimiento de sus obligaciones fiscales, durante el periodo que transcurra entre el día del vencimiento del plazo otorgado en el requerimiento y hasta el día en que conteste o atienda el requerimiento, sin que la suspensión pueda exceder de seis meses. En el caso de dos o más solicitudes de información, se sumarán los distintos periodos de suspensión y en ningún caso el periodo de suspensión podrá exceder de un año.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+VI.- Tratándose de la fracción VII del artículo anterior, el plazo se suspenderá a partir de que la autoridad informe al contribuyente la reposición del procedimiento.
+
+Dicha suspensión no podrá exceder de un plazo de dos meses contados a partir de que la autoridad notifique al contribuyente la reposición del procedimiento.
+
+Cuando las autoridades no concluyan la visita o revisión dentro de los plazos autorizados, las facultades de comprobación se entenderán concluidas a su vencimiento, quedando a salvo las facultades de las autoridades para determinar la situación fiscal del contribuyente o responsable solidario con base en la verificación realizada dentro del plazo autorizado.
+
+###### ARTICULO 49.
+
+Las visitas en los domicilios fiscales ordenadas por las autoridades fiscales podrán concluirse anticipadamente en los siguientes casos:
+
+I.- Cuando el visitado antes del inicio de la visita hubiera presentado aviso ante la Secretaría de Finanzas y Tesorería General del Estado manifestando su deseo de presentar sus estados financieros dictaminados por contador público autorizado, siempre que dicho aviso se haya presentado dentro de los tres meses siguientes a la fecha de terminación del ejercicio fiscal y cumpla con los requisitos indicados en el Artículo 52.
+
+II.- En los casos a que se refiere el artículo 58 de este Código.
+
+En el caso de conclusión anticipada a que se refiere la fracción I de este artículo se deberá levantar acta en la que se señale esta situación.
 
 ###### Art. 123.
 
@@ -6406,243 +5384,315 @@ XXXI.- La aplicación de las leyes del trabajo corresponde a las autoridades de 
 
 PREVENCIONES GENERALES.
 
-### CAPÍTULO IV. DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS Y CONCURSOS
+### CAPITULO VII
 
-###### Artículo 50.
+###### ARTICULO 50.
 
-La cancelación de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del sujeto pasivo o de los responsables solidarios, no libera, mientras no prescriba el crédito fiscal, a uno y a otros de su obligación. Procederá la cancelación de los créditos fiscales cuando:
+Cuando las autoridades fiscales soliciten de los contribuyentes, responsables solidarios o terceros, informes, datos o documentos o pidan la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de comprobación, fuera de una visita domiciliaria, se estará a lo siguiente:
 
-I. Resulte imposible localizar al contribuyente o responsables solidarios y ni uno, ni los otros, cuenten con bienes sobre los cuales se pueda trabar embargo;
+I.- La solicitud se notificará en el domicilio manifestado ante el registro estatal o federal de contribuyentes por la persona a quien va dirigida y en su defecto, tratándose de personas físicas, también podrá notificarse en su casa habitación o lugar donde éstas se encuentren.
 
-II. Por insolvencia de los deudores; y
+II.- En la solicitud se indicará el lugar y el plazo en el cual se debe proporcionar los informes o documentos.
 
-III. Por incosteabilidad en el cobro.
+III.- Los informes, libros o documentos requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante.
 
-Las disposiciones reglamentarias que expida el Ayuntamiento deberán indicar los requisitos que habrá de observar la autoridad fiscal para la cancelación de créditos fiscales a que se refiere este artículo.
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-### CAPÍTULO V. DEL IMPUESTO SOBRE JUEGOS PERMITIDOS
+IV.- Como consecuencia de la revisión de la contabilidad y los informes, datos, documentos o registros requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar los hechos u omisiones que se hubiesen conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario.
 
-> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2003)</small>
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-###### Artículo 51.
+V.- El contribuyente o responsable solidario contará con un plazo de veinte días, contados a partir del día siguiente a aquél en el que se le notificó el oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, u optar por corregir su situación fiscal en las formas oficiales establecidas por la autoridad. Cuando se trate de más de un ejercicio revisado, se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días.
 
-Las facultades de las autoridades para determinar la existencia de obligaciones fiscales, señalar las bases de su liquidación o fijarlas en cantidad líquida, para imponer sanciones por infracciones a las disposiciones fiscales, así como las facultades para verificar el cumplimiento o incumplimiento de dichas disposiciones, se extinguen por caducidad en el término de cinco años, no sujeta a interrupción ni suspensión. Dicho término empezará a correr a partir:
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-I. Del día siguiente a aquél en que hubiere vencido el plazo establecido por las disposiciones fiscales para presentar declaraciones, manifestaciones o avisos;
+Se tendrán por consentidos los hechos u omisiones consignados en el oficio de observaciones, si en el plazo señalado el contribuyente no presenta elementos comprobatorios que los desvirtúen y en tal caso, se emitirá la resolución que determine las contribuciones omitidas.
 
-II. Del día siguiente a aquél en que se produjo el hecho generador del crédito fiscal, si no existiera obligación de presentar declaraciones, manifestaciones o avisos; y
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-III. Del día siguiente a aquél en que se hubiere cometido la infracción a las disposiciones fiscales municipales, pero si la infracción fuere de carácter continuo, el término correrá a partir del día siguiente al en que hubiere cesado la continuidad.
+### CAPITULO VIII
 
-###### Artículo 52.
+###### ARTICULO 51.
 
-La facultad de las autoridades para cobrar un crédito fiscal se extingue por prescripción en el término de cinco años.
+Las autoridades fiscales que al ejercer las facultades de comprobación conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se emitirá dentro de un plazo máximo de seis meses contados a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad y los informes, datos, documentos o registros de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluyan los plazos a que se refiere la fracción V del Artículo 50 de este Código.
 
-El término de la prescripción se inicia a partir de la fecha en que el pago debió ser legalmente exigido y se podrá oponer como excepción en el recurso administrativo que al efecto se interponga.
+El plazo para emitir la resolución a que se refiere este Artículo se suspenderá en los casos previstos en el Artículo 48 Bis de este Código. Si durante el plazo para emitir la resolución de que se trate, los contribuyentes interponen algún medio de defensa, dicho plazo se suspenderá desde la fecha en que se interponga el citado medio de defensa y hasta que se dicte resolución definitiva del mismo.
 
-El término para que opere la prescripción se interrumpe con cada gestión de cobro que la autoridad fiscal notifique o haga saber al sujeto pasivo, o por el reconocimiento expreso o tácito de éste, respecto de la existencia del crédito. Se considera gestión de cobro, cualquier actuación de la autoridad fiscal dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del sujeto pasivo.
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-Los obligados podrán solicitar a la autoridad fiscal, con las formalidades a que se refiere el Código de Procedimientos Administrativos, la declaratoria de que ha operado la prescripción de los créditos fiscales.
+###### ARTICULO 51 Bis.
 
-###### Artículo 53.
+Las autoridades fiscales podrán, como resultado del ejercicio de las facultades de comprobación, determinar la simulación de los actos jurídicos exclusivamente para efectos fiscales, la cual tendrá que quedar debidamente fundada y motivada dentro del procedimiento de comprobación y declarada su existencia en el propio acto de determinación de su situación fiscal a que se refiere el artículo anterior.
 
-Los contribuyentes podrán garantizar el interés fiscal mediante alguna de las formas siguientes:
+En los actos jurídicos en los que exista simulación, el hecho imponible gravado será el efectivamente realizado por las partes.
 
-I. Depósito en efectivo en la Tesorería;
+La resolución en que la autoridad determine la simulación deberá incluir lo siguiente:
 
-II. Prenda o hipoteca;
+I. Identificar el acto simulado y el realmente celebrado.
 
-III. Fianza otorgada por institución afianzadora autorizada, la que no gozará de los beneficios de orden y excusión;
+II. Cuantificar el beneficio fiscal obtenido por virtud de la simulación.
 
-IV. Obligación solidaria asumida por tercero, que compruebe su idoneidad y solvencia suficiente a juicio de la autoridad fiscal; o
+III. Señalar los elementos por los cuales se determinó la existencia de dicha simulación, incluyendo la intención de las partes de simular el acto.
 
-V. Embargo en la vía administrativa.
+Para efectos de probar la simulación, la autoridad podrá basarse, entre otros, en elementos presuncionales.
 
-La garantía comprenderá, además de las contribuciones adeudadas, los accesorios causados, así como los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá renovarse y ampliarse la garantía que cubra el crédito garantizado y el importe de los recargos correspondientes a los doce meses siguientes.
+###### ARTICULO 52.
 
-La Tesorería vigilará que sean garantizadas las prestaciones a favor de la Hacienda Municipal, conforme a las disposiciones legales en vigor. Mediante reglas generales emitidas por el Cabildo, se establecerán los requisitos que deberán reunir las garantías. La autoridad fiscal hará la calificación correspondiente de las que se ofrezcan, vigilando periódicamente, o cuando lo estime oportuno, que tales garantías conserven su eficacia y, en caso contrario, exigirá su ampliación o procederá a tomar las medidas necesarias para asegurar los intereses del fisco.
+Los hechos afirmados en los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes y su relación con el cumplimiento de las disposiciones fiscales así como en las aclaraciones que dichos contadores formulen respecto de sus dictámenes, se presumirán ciertos, salvo prueba en contrario, siempre que se reúnan los siguientes requisitos:
 
-Se podrá dispensar el otorgamiento de la garantía del interés fiscal, mediante acuerdo que emita el Cabildo, cuando en relación con el monto del crédito respectivo, sea notoria la insuficiencia de la capacidad económica del deudor.
+I.- Que el contador público que dictamine esté registrado ante las autoridades fiscales federales para estos efectos. Este registro lo podrán obtener únicamente las personas de nacionalidad mexicana que tengan título de contador público registrado en la Secretaría de Educación Pública Federal y que sean miembros de un Colegio de Contadores reconocido por la misma Secretaría.
 
-###### Artículo 54.
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
-Procede garantizar el interés fiscal, cuando:
+II.- Que el dictamen se refiera invariablemente a los estados financieros del último ejercicio fiscal y esté suscrito, tanto por el contribuyente como por el contador público que vaya a dictaminar, de conformidad con las disposiciones fiscales y las normas de auditoría que regulan la capacidad, independencia e imparcialidad profesional del contador público, el trabajo que desempeña y la información que rinda como resultado del mismo.
 
-I. Se solicite la suspensión del procedimiento administrativo de ejecución, en términos del Código de la materia;
+El dictamen deberá contener:
 
-II. Se solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades, si dichas facilidades se conceden individualmente; o
+A).- La verificación documental realizada.
 
-III. En los demás casos que señalen este ordenamiento.
+B).- La revisión de bases, cálculo y entero de los impuestos correspondientes.
 
-No se otorgará garantía respecto de gastos de ejecución, salvo que el interés fiscal esté constituido únicamente por éstos.
+C).- La revisión de la información complementaria incluida en los anexos.
 
-###### Artículo 55.
+D).- La declaración, bajo protesta de decir verdad, del apego del dictamen a lo ordenado en las disposiciones fiscales, así como la opinión acerca del cumplimiento de las obligaciones fiscales del contribuyente, indicando, en su caso, las omisiones observadas, independientemente de su importancia relativa.
 
-Las garantías constituidas para asegurar el interés fiscal a que se refiere el artículo anterior, se harán efectivas a través del procedimiento administrativo de ejecución.
+Las opiniones o interpretaciones contenidas en los dictámenes no obligan a las autoridades fiscales. La revisión de los dictámenes y demás documentos relativos a los mismos se podrá efectuar en forma previa o simultánea al ejercicio de las otras facultades de comprobación respecto de los contribuyentes o responsables solidarios.
 
-###### Artículo 56.
+Cuando el contador público no de cumplimiento a las disposiciones referidas en este artículo, la autoridad fiscal, previa audiencia, dará a conocer esta circunstancia a la Dirección de Profesiones del Estado.
 
-Tratándose de fianza a favor de la Tesorería, esta dependencia ejercerá los procedimientos establecidos en la legislación federal aplicable.
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
-###### Artículo 57.
+###### ARTICULO 53.
 
-Las pólizas de fianza que se otorguen ante la Tesorería para garantizar obligaciones fiscales a cargo de terceros deberán expedirse por institución nacional autorizada, en favor del Municipio, y establecerán, en su texto, lo siguiente:
+En el caso de que con motivo del ejercicio de sus facultades de comprobación, las autoridades fiscales soliciten datos, informes o documentos del contribuyente, responsable solidario o tercero, éstos tendrán los siguientes plazos para su presentación:
 
-I. El nombre completo de la persona física o moral afianzada, el importe de la póliza y su vigencia, la mención expresa de que se garantiza el debido cumplimiento de las obligaciones fiscales que correspondan al fiado, así como todos y cada uno de sus accesorios legales;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-II. La anuencia de la compañía afianzadora para pagar hasta el importe total de la suma afianzada, en caso de que se actualice el incumplimiento de su afianzado a las obligaciones fiscales adquiridas ante la Tesorería, sin reservarse los beneficios de orden y excusión; y
+I.- Los libros y registros que formen parte de su contabilidad, solicitados en el curso de una visita, deberán presentarse de inmediato, así como los diagramas y el diseño del sistema de registro electrónico, en su caso.
 
-III. La aceptación expresa de la afianzadora de someterse a los procedimientos de ejecución reservados para fianzas que garantizan obligaciones fiscales, así como la aceptación de la afianzadora para seguir garantizando las obligaciones adquiridas por su afianzado, aun cuando la Tesorería le otorgue prórrogas o esperas, sin necesidad de aviso por escrito.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-La fianza solamente podrá cancelarse mediante autorización escrita de la Tesorería.
+II.- Seis días contados a partir del día siguiente a aquél en que surta efectos la notificación de la solicitud respectiva, cuando los documentos sean de los que deba tener en su poder el contribuyente y se los soliciten durante el desarrollo de una visita.
 
-### CAPÍTULO VI. DE LA CONTRIBUCIÓN ADICIONAL SOBRE INGRESOS MUNICIPALES
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-###### Artículo 58.
+III.- Quince días contados a partir del día siguiente a aquél en que surta efectos la notificación de la solicitud respectiva, en los demás casos.
 
-Para que se conceda la suspensión del procedimiento administrativo de ejecución, el contribuyente o interesado deberá impugnar el crédito fiscal mediante el recurso de revocación o el juicio contencioso, garantizar el interés fiscal en cualquiera de las formas previstas por este Código y solicitar por escrito dicha suspensión ante la autoridad fiscal.
+Los plazos a que se refiere este Artículo se podrán ampliar por las autoridades fiscales hasta veinte días más cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención.
 
-Cuando en el recurso de revocación o juicio contencioso se impugnen únicamente algunos de los créditos determinados por el acto administrativo, cuya ejecución haya sido suspendida, se pagarán los créditos fiscales no impugnados con los recargos correspondientes.
+###### ARTICULO 54.
 
-Si se controvierten sólo determinados conceptos de la resolución administrativa que determinó el crédito fiscal, el particular pagará la parte consentida del crédito y los recargos correspondientes, mediante declaración complementaria y garantizará la parte controvertida y sus recargos.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2017)
 
-En el supuesto del párrafo anterior, si el particular no presenta declaración complementaria, la autoridad exigirá la cantidad que corresponda a la parte consentida, sin necesidad de emitir otra resolución. Si se confirma en forma definitiva la validez de la resolución impugnada, la autoridad procederá a exigir la diferencia no cubierta, con los recargos causados.
+###### ARTICULO 55.
 
-###### Artículo 59.
+Las autoridades fiscales podrán determinar presuntivamente el valor de los actos o actividades por los que deban pagar contribuciones, cuando:
 
-La autoridad fiscal no exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieren embargado bienes suficientes para garantizar el interés fiscal o cuando el contribuyente declare, bajo protesta de decir verdad, que son los únicos que posee. En caso de que la autoridad compruebe, por cualquier medio, que esta declaración es falsa podrá exigir garantía adicional, sin perjuicio de la responsabilidad que le resulte al contribuyente.
+I.- Se opongan u obstaculicen la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales, o hayan omitido presentar cualquier declaración, hasta el momento en que se inicie el ejercicio de dichas facultades y siempre que haya transcurrido más de tres meses desde el día en que venció el plazo para la presentación de la declaración de que se trate.
 
-###### Artículo 60.
+II.- No presenten los libros y registros de contabilidad, la documentación comprobatoria de más del 3% de alguno de los conceptos de las declaraciones, o no proporcionen los informes relativos al cumplimiento de las disposiciones fiscales.
 
-La cancelación de las garantías otorgadas a favor del Fisco Municipal en los términos de este Código, procederá cuando:
+III.- Se dé alguna de las siguientes irregularidades:
 
-I. Se otorgue una nueva garantía que sustituya a otra, previa su calificación por parte de las autoridades fiscales;
+A).- Omisión del registro de operaciones, ingresos o compras, así como alteración del costo, por más del 3% sobre los declarados en ejercicio.
 
-II. Se cubra la totalidad del crédito fiscal garantizado, a satisfacción de la autoridad fiscal y se emita el comprobante de pago correspondiente; o
+B).- Registro de compras, gastos o servicios no realizados o no recibidos.
 
-III. En definitiva, quede sin efecto la resolución que dio origen al otorgamiento de la garantía.
+C).- Omisión o alteración en el registro de existencias que deban figurar en los inventarios, o registren dichas existencias a precios distintos de los de costo, siempre que en ambos casos, el importe exceda del 3% del costo de los inventarios.
 
-Para que proceda la cancelación de la garantía, el interesado presentará solicitud por escrito ante la Tesorería, acompañando los documentos que demuestren la procedencia de la cancelación, de conformidad con lo previsto en el presente Código.
+IV.- Por otras irregularidades en la contabilidad que imposibiliten el conocimiento de sus operaciones.
 
-Procederá la cancelación, por parte de la autoridad, aun cuando no medie solicitud del particular, en aquellos casos en que, de las constancias que obren en los archivos en su poder, se desprenda que se han dado uno o varios de los supuestos señalados en el presente artículo.
+La determinación presuntiva a que se refiere este artículo, procederá independientemente de las sanciones a que haya lugar.
 
-Cuando con motivo de la garantía otorgada se haya procedido a su inscripción en el Registro Público de la Propiedad, una vez hecha la cancelación de la misma se comunicará ese acto a la oficina registral.
+###### ARTICULO 56.
 
-###### Artículo 61.
+Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales calcularán los ingresos brutos de los contribuyentes y el valor de los actos o actividades sobre los que proceda el pago de contribuciones, para el ejercicio de que se trate, indistintamente con cualquiera de los siguientes procedimientos:
 
-Son obligaciones de los contribuyentes:
+I.- Utilizando los datos de la contabilidad del contribuyente.
 
-I. Inscribirse en el padrón municipal que les corresponda, dentro de los treinta días siguientes a aquél en que se realice la situación jurídica o de hecho de la cual se deriven obligaciones fiscales municipales y durante el mes de enero de cada ejercicio para los refrendos ante la Tesorería;
+II.- Tomando como base los datos contenidos en las declaraciones del ejercicio correspondiente a cualquier contribución, sea del mismo ejercicio o de cualquier otro, con las modificaciones que, en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación.
 
-II. Señalar domicilio fiscal en el Municipio que les corresponda y, en su caso, domicilio para recibir notificaciones;
+III.- A partir de la información que proporcionen terceros a solicitud de las autoridades fiscales, cuando tengan relación de negocios con el contribuyente.
 
-III. Pagar los créditos fiscales en los términos que dispongan las leyes fiscales municipales;
+IV.- Con información obtenida por otras autoridades fiscales.
 
-IV. Presentar los avisos, declaraciones y cualquier otro documento de naturaleza análoga que dispongan las leyes, en las formas oficiales autorizadas por la Tesorería, o bien, previa autorización de la misma dependencia, cumpliendo con los requisitos legales;
+V.- Tomando como base los tributos cubiertos o datos proporcionados por otros contribuyentes de características o giros similares.
 
-V. Firmar todos los documentos dirigidos a las autoridades fiscales municipales;
+VI.- Utilizando medios indirectos de la investigación económica o de cualquier otra clase.
 
-VI. Mantener actualizados los documentos de control y cumplimiento de sus obligaciones fiscales, que deberán ser proporcionados, en copia fotostática, a la autoridad fiscal cuando sean requeridos;
+###### ARTICULO 57.
 
-VII. Conservar toda la documentación fiscal o la relacionada con ésta, así como los elementos contables y comprobatorios del cumplimiento de las obligaciones en dicha materia, en el domicilio fiscal ubicado en el Municipio, durante un término no menor de cinco años;
+Las autoridades fiscales podrán determinar presuntivamente las contribuciones que se debieron haber retenido, cuando aparezca omisión en la retención o en el entero, por más del 3% sobre las retenciones enteradas.
 
-VIII. Proporcionar a las autoridades fiscales los datos o informes que les soliciten, dentro del plazo fijado para ello;
+Para efectos de la determinación presuntiva a que se refiere este artículo, las autoridades fiscales podrán utilizar indistintamente cualquiera de los procedimientos previstos en las fracciones I a VI inclusive del Artículo 56 de este Código.
 
-IX. Mostrar, a solicitud de la autoridad municipal, la cédula de empadronamiento, las licencias, permisos o autorizaciones originales, así como otros documentos diversos de la misma naturaleza de los anteriores que les sean requeridos;
+### CAPITULO IX
 
-X. Devolver para su cancelación la cédula o documento de empadronamiento en caso de clausura, cese de actividades, cambio de giro, de nombre o razón social, de domicilio o traspaso, en el momento en que dichas circunstancias sean comunicadas a la autoridad municipal;
+###### ARTICULO 58.
 
-XI. Dar aviso a la Tesorería, en el término de treinta días hábiles posteriores, respecto del cese de actividades o de funcionamiento definitivo de su negociación, para su anotación correspondiente en el padrón fiscal del Municipio;
+Cuando en el desarrollo de una visita en el domicilio fiscal las autoridades fiscales se den cuenta de que el visitado se encuentra en alguna de las causales de determinación presuntiva señalada en el Artículo 55 de este Código, siempre que tengan elementos suficientes para apreciar en lo fundamental la situación fiscal del visitado, dichas autoridades podrán proceder conforme a lo siguiente:
 
-XI. Liquidar, retener y enterar ingresos municipales, en los casos previstos en las leyes fiscales; y
+I.- En un plazo que no excederá de tres meses después de iniciada una visita en el domicilio fiscal, notificará al contribuyente mediante acta parcial, que se encuentra en posibilidad de que se le aplique la determinación presuntiva a que se refiere el Artículo 55 de este Código.
 
-XII. Las demás que dispongan este Código, las leyes, reglamentos y ordenamientos aplicables.
+II.- Dentro de los quince días siguientes a la fecha de notificación del acta parcial, el visitador podrá corregir su situación fiscal, mediante la presentación de la forma de corrección, de la que proporcionará copia a los visitadores. Dicho plazo podrá prorrogarse por una sola vez por quince días más.
 
-###### Artículo 62.
+III.- Las autoridades podrán concluir la visita o continuarla. En el primer caso levantarán el acta final haciendo constar sólo el hecho de que el contribuyente corrigió su situación fiscal. En el caso de que las autoridades continúen la visita, deberán hacer constar en el acta final todas las irregularidades que hubieren encontrado y señalarán aquéllas que hubiera corregido el visitado.
 
-Toda persona física o moral que, conforme a las leyes, esté en el ejercicio de sus derechos, podrá comparecer ante las autoridades fiscales, ya sea por sí o por quien legalmente la represente.
+Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden, inclusive cuando las facultades de comprobación sean para el mismo ejercicio y por las mismas contribuciones.
 
-La autoridad fiscal recibirá las declaraciones, avisos, solicitudes, manifiestos y demás documentos tal y como se exhiban, sin hacer observaciones, ni objeciones y devolverá copia sellada y comprobante de pago, en su caso, a quien lo presente.
+Lo dispuesto en este artículo no es aplicable cuando se esté en los supuestos de agravante señalados en el Artículo 75 Fracción II de este Código.
 
-Además de los casos que señalen las leyes fiscales y el Código de Procedimientos Administrativos, se podrá rechazar la presentación de promociones de los particulares, cuando no contengan o se anote de manera incorrecta el nombre del contribuyente; el número de cuenta y de licencia, o cualquier otro que lo identifique en los registros municipales de la contribución de que se trate; su domicilio fiscal; no aparezcan debidamente firmados; no se acompañen los anexos; o, tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso, la autoridad fiscal podrá cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
+###### ARTICULO 59.
 
-En los casos en que las formas para la presentación de avisos, declaraciones, manifestaciones y cualquier otra de naturaleza análoga que prevengan las disposiciones fiscales no se hubieren aprobado y publicado por la Tesorería, los obligados a presentarlas las formularán en escrito libre por triplicado, incluyendo los datos señalados en el artículo siguiente. En caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
+Para la comprobación de los ingresos o del valor de los actos o actividades por los que se deban pagar contribuciones, las autoridades fiscales presumirán, salvo prueba en contrario:
 
-Los contribuyentes podrán presentar las declaraciones respectivas a través de medios electrónicos, cuando el Cabildo hubiere aprobado esta modalidad.
+I.- Que la información contenida en la contabilidad, documentación comprobatoria y correspondencia que se encuentren en poder del contribuyente, corresponde a operaciones celebradas por él, aun cuando aparezcan sin su nombre o a nombre de otra persona, siempre que se logre demostrar que al menos una de las operaciones o actividades contenidas en tales elementos, fue realizada por el contribuyente.
 
-En los casos de personas que se encuentren incapacitadas, las concursadas, las ausentes, y en el de las sucesiones, comparecerán sus representantes legales.
+II.- Que la información contenida en los sistemas de contabilidad, a nombre del contribuyente, localizados en poder de personas a su servicio, o de accionistas o propietarios de la empresa, corresponde a operaciones del contribuyente.
 
-###### Artículo 63.
+###### ARTICULO 60.
 
-Las instancias o peticiones que se formulen a las autoridades fiscales se resolverán dentro de un plazo de cuarenta y cinco días hábiles, salvo disposición expresa en contrario.
+Cuando el contribuyente omita registrar adquisiciones en su contabilidad y éstas fueran determinadas por las autoridades fiscales, se presumirá que los bienes adquiridos y no registrados, fueron enajenados y que el importe de la enajenación fue el que resulta de las siguientes operaciones:
 
-Dicho plazo comenzará a partir del día siguiente a aquél en que el promovente haya presentado su solicitud requisitada o haya proporcionada a la autoridad fiscal la información requerida por ésta.
+I.- El importe determinado de adquisición, incluyendo el precio pactado y las contribuciones, intereses, normales o moratorios, penas convencionales y cualquier otro concepto que se hubiera pagado con motivo de la adquisición, se multiplicará por el por ciento de utilidad bruta con que opera el contribuyente.
 
-En materia fiscal, el silencio de las autoridades fiscales no se considerará como afirmativa ficta de las solicitudes, salvo disposición expresa en contrario, y dará lugar a la interposición de los recursos legales procedentes cuando no se dé respuesta en el término que corresponda.
+II.- La cantidad resultante se sumará al importe determinado de adquisición y la suma será el valor de la enajenación.
 
-###### Artículo 64.
+La presunción establecida en este artículo no se aplicará cuando el contribuyente demuestre que la falta de registro de las adquisiciones fue motivada por caso fortuito o fuerza mayor.
 
-Las autoridades fiscales están obligadas a contestar las consultas que sobre situaciones reales y concretas les formulen por escrito los interesados.
+Igual procedimiento se seguirá para determinar el valor por enajenación de bienes faltantes en inventarios. En este caso, si no pudiera determinarse el monto de la adquisición se considerará el que corresponda a bienes de la misma especie adquiridos por el contribuyente en el ejercicio de que se trate y en su defecto, el de mercado o el de avalúo.
 
-### CAPÍTULO VII. DEL IMPUESTO SOBRE FRACCIONAMIENTOS
+###### ARTICULO 61.
 
-###### Artículo 65.
+Siempre que los contribuyentes se coloquen en alguna de las causales de determinación presuntiva a que se refiere el Artículo 55 de este código y no puedan comprobar por el período objeto de revisión el valor de los actos o actividades por los que deban pagar contribuciones, se presumirá que son iguales al resultado de alguna de las siguientes operaciones:
 
-Los sujetos pasivos y los retenedores darán aviso a la Tesorería de cualquiera de los siguientes cambios:
+I.- Si con base en la contabilidad y documentación del contribuyente o información de terceros pudieran reconstruirse las operaciones correspondientes cuando menos a treinta días lo más cercano posible al cierre del ejercicio, el valor de los actos o actividades se determinará con base en el promedio diario del período reconstruido, el que se multiplicará por el número de días que correspondan al período objeto de revisión.
 
-I. De domicilio;
+II.- Si la contabilidad del contribuyente no permite reconstruir las operaciones del período de treinta días a que se refiere la fracción anterior, las autoridades fiscales tomarán como base la totalidad del valor de los actos o actividades que observen durante siete días incluyendo los inhábiles, cuando menos, y el promedio diario resultante se multiplicará por el número de días que comprende el período objeto de revisión.
 
-II. De razón o denominación social, a la que acompañarán copia de la escritura correspondiente;
+Al valor de los actos o actividades estimados presuntivamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa que corresponda.
 
-III. De sus actividades, cuando aumenten o disminuyan sus obligaciones fiscales;
+###### ARTICULO 62.
 
-IV. De traspaso de la negociación, clausura definitiva, cese definitivo de actividades o suspensión de operaciones; o
+Para el valor de los actos o actividades de los contribuyentes, las autoridades fiscales presumirán, salvo prueba en contrario, que la información o documentos de terceros relacionados con el contribuyente corresponden a operaciones realizadas por éste, cuando:
 
-V. En los casos de fusión o escisión.
+I.- Se refieran al contribuyente designado por su nombre, denominación o razón social.
 
-Los sujetos pasivos y los retenedores a que se refiere este artículo citarán el número de registro que les sea asignado por la Tesorería en las declaraciones, manifestaciones, promociones, solicitudes o gestión que realicen ante la autoridad fiscal competente. Cuando la autoridad fiscal ordene su verificación, exhibirán el documento que acredite su inscripción al citado registro.
+II.- Señalen como lugar para la entrega o recibo de bienes o prestación de servicios relacionados con las actividades del contribuyente, cualquiera de sus establecimientos, aún cuando exprese el nombre, denominación o razón social de un tercero, real o ficticio.
 
-###### Artículo 66.
+III.- Señalen el nombre o domicilio de un tercero, real o ficticio, si se comprueba que el contribuyente entrega o recibe bienes o servicios a ese nombre o en ese domicilio.
 
-Son atribuciones de las autoridades fiscales, además de las previstas en el Código de Procedimientos Administrativos, las siguientes:
+IV.- Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
 
-I. Proporcionar orientación y asistencia gratuita a los contribuyentes, con respecto a las disposiciones fiscales de su competencia;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-II. Contestar las consultas que sobre situaciones reales y concretas le hagan los interesados individualmente. De su resolución favorable se derivarán derechos para el particular, en los casos en que la consulta se haya referido a circunstancias reales y concretas y la resolución se haya emitido mediante escrito de la autoridad competente para ello;
+###### ARTICULO 63.
 
-III. Expedir circulares para dar a conocer a las diversas dependencias o unidades administrativas el criterio que deberán seguir en cuanto a la aplicación de las normas tributarias. De dichas circulares no nacerán obligaciones ni derechos para los particulares. Únicamente se derivarán derechos de las mismas cuando sean publicadas en la Gaceta Oficial y en la Tabla de Avisos del Ayuntamiento;
+Los hechos y omisiones que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien, que consten en la documentación o expedientes o bases de datos que lleven, tengan acceso o en su poder las autoridades fiscales, así como aquéllos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de la Secretaría de Finanzas y Tesorería General del Estado y de cualquier autoridad u organismo descentralizado que sea competente en materia de contribuciones de carácter estatal.
 
-IV. Solicitar el auxilio de la fuerza pública cuando los contribuyentes, responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales, así como imponer sanciones que señalen este Código y los demás ordenamientos fiscales;
+Las copias o reproducciones de microfilm de documentos que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias o reproducciones sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
 
-V. Expedir los oficios de designación, credenciales o constancias de identificación del personal que se autorice para la práctica de notificaciones, visitas domiciliarias, auditorías, inspecciones, vigilancia, verificaciones, requerimientos y demás actos que se deriven de las disposiciones fiscales municipales;
+###### ARTICULO 64.
 
-VI. Reconocer la anulabilidad, declarar la nulidad o revocar de oficio los actos administrativos que sean emitidos en contravención a las disposiciones legales aplicables;
+Las autoridades fiscales, con motivo del ejercicio de sus facultades de comprobación respecto de contribuciones que se pagan mediante declaración periódica formulada por los contribuyentes, procederán como sigue para determinar contribuciones omitidas:
 
-VII. Contestar las demandas e intervenir como parte en los juicios que se susciten con motivo del ejercicio de las facultades conferidas en este ordenamiento al Ayuntamiento;
+I.- Determinarán si procede, en primer lugar, la omisión en el pago de contribuciones del último ejercicio de doce meses por el que se hubiera presentado o debió presentarse declaración antes de ejercer las facultades de comprobación, así como las omisiones que pudieran corresponder al período transcurrido entre la fecha de determinación de dicho ejercicio y el momento de iniciación de aplicación de las citadas facultades.
 
-VIII. Designar abogados con el carácter de delegados o autorizados para oír y recibir notificaciones en su nombre y representación en los juicios en que intervenga;
+Tratándose de contribuyentes que hayan hecho dictaminar por contador público autorizado sus estados financieros, lo dispuesto en el párrafo anterior se aplicará a un ejercicio irregular, siempre que el ejercicio regular inmediato anterior también esté dictaminado.
 
-IX. Emitir o, en su caso, ordenar la publicación de los edictos que procedan en los asuntos de su competencia;
+II.- Al comprobarse que durante el período a que se refiere la fracción anterior se omitió la presentación de la declaración del ejercicio de alguna contribución, o que el contribuyente incurrió en alguna irregularidad, se podrán determinar, en el mismo acto o con posterioridad, contribuciones omitidas correspondientes a ejercicios anteriores, sin más limitación que lo dispuesto en el Artículo 67 de este código, inclusive las que no se pudieron determinar con anterioridad, por la aplicación de este artículo.
 
-X. Elaborar, integrar y mantener actualizados los padrones de contribuyentes, así como los demás registros que establezcan las leyes fiscales; y
+Las irregularidades a que se refiere esta fracción son las siguientes:
 
-XI. Determinar, mediante resolución, la responsabilidad solidaria.
+A).- Omisión en el pago de contribuciones por más del 3% sobre el total de las declaradas por adeudo propio.
 
-###### Artículo 67.
+B).- Omisión por más de 3% sobre el total de las contribuciones retenidas o que debieron retenerse.
 
-Para los efectos de notificación de actos administrativos a los interesados, las autoridades fiscales deberán cubrir los requisitos previstos en el Código de Procedimientos Administrativos.
+C).- Cuando se dé alguno de los supuestos a que se refiere el Artículo 55 de este Código.
 
-###### Artículo 68.
+Siempre se podrá volver a determinar contribuciones omitidas correspondientes al mismo ejercicio, cuando se comprueben hechos diferentes.
 
-El Cabildo podrá condonar o reducir los créditos fiscales municipales, cuando por causa de algún siniestro se afecte la situación económica de alguna región del territorio municipal. Lo anterior, previa declaratoria de desastre por parte de la autoridad competente.
+Si se incurre en alguna de las irregularidades señaladas en esta fracción, se podrá incluso, determinar contribuciones omitidas distintas a aquellas en que se cometió la irregularidad, aún cuando correspondan a ejercicios anteriores.
 
-Para efectos del párrafo anterior, el Cabildo dictará, mediante disposiciones casuísticas, las contribuciones, productos o aprovechamientos materia de la condonación o reducción, señalando las regiones del Municipio en las que se disfrutará de la misma.
+Cuando las autoridades fiscales que ejerzan sus facultades de comprobación sean competentes para revisar a los contribuyentes exclusivamente respecto de determinadas contribuciones, se considerarán cometidas las irregularidades a que se refieren los incisos A), B) y C), de esta fracción, aún cuando los porcientos señalados en dichas fracciones se refieran solamente a las contribuciones en relación a las cuales tenga competencia la autoridad fiscal de que se trate.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+III.- Aún cuando se presenten declaraciones complementarias después de que se inicie el ejercicio de las facultades de comprobación por las autoridades fiscales, o las formas de corrección de la situación fiscal a que se refieren los Artículos 58 y 76, se podrán determinar contribuciones omitidas por los ejercicios anteriores.
 
-###### Artículo 69.
+IV.- Las declaraciones complementarias o las formas de corrección de la situación fiscal a que se refieren los Artículos 58 y 76 correspondientes a períodos anteriores a los señalados en la Fracción I, podrán ser motivo de determinación de contribuciones en cualquier tiempo por lo que hace a los conceptos que hubieren modificado.
 
-Cuando la situación económica de los contribuyentes sea insuficiente para cubrir en su totalidad los créditos fiscales que adeuden, el Tesorero podrá conceder prórrogas adicionales a las previstas en el artículo 40 de este Código para el pago de créditos fiscales, mismas que no podrán exceder de seis meses, pero si a juicio del propio Tesorero se trata de créditos fiscales cuantiosos o situaciones excepcionales, podrá ampliar el plazo hasta por seis meses más; dicho plazo, en ningún caso, podrá rebasar el período constitucional del Ayuntamiento. El Tesorero fijará el monto de la garantía que deberá otorgar el deudor de la prestación fiscal, en su caso.
+V.- Las contribuciones retenidas o que debieron retenerse podrán ser determinadas en cualquier tiempo, aún cuando en el último ejercicio sujeto a fiscalización no se determinen contribuciones o no se encuentren irregularidades a que se hace referencia en la Fracción II de este artículo.
+
+VI.- Si en el período a que se refiere la Fracción I, el contribuyente hubiera incurrido en las irregularidades a que se hace referencia en la Fracción II, se podrán hacer las modificaciones a que haya lugar por los ejercicios anteriores, aún cuando las mismas no den lugar al pago de contribuciones.
+
+VII.- No obstante lo dispuesto en la fracción I de este artículo, las autoridades fiscales siempre podrán determinar contribuciones por un período menor del que se señala en dicha fracción.
+
+No se impondrán multas por omisión en el pago de contribuciones, cuando éstas no puedan determinarse.
+
+Lo establecido en este Artículo no limita el ejercicio de las facultades de comprobación de las autoridades fiscales.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+### CAPITULO X
+
+> <small>(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
+
+De la Reclamación
+
+###### ARTICULO 65.
+
+Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro del término de treinta días siguientes a la fecha en que surta efectos su notificación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### ARTICULO 66.
+
+Las autoridades fiscales, a petición de los contribuyentes, podrán discrecionalmente autorizar el pago a plazo, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios, sin que dicho plazo exceda de veinticuatro meses. Al momento de la solicitud deberá pagarse por lo menos el 20% del monto total del crédito fiscal. Durante el plazo concedido se causarán intereses sobre el saldo insoluto actualizado, incluyendo los accesorios, a la tasa establecida en la Ley de Ingresos del Estado de los ejercicios de que se trate.
+
+Las autoridades fiscales al autorizar el pago a plazo exigirán se garantice el interés fiscal, a excepción de los casos en los que dichas autoridades discrecionalmente dispensen el otorgamiento de la garantía.
+
+Cesará la autorización para pagar a plazo en forma diferida o en parcialidades, cuando:
+
+I.- Desaparezca o resulte insuficiente la garantía del interés fiscal, sin que el contribuyente dé nueva garantía o amplíe la que resulte insuficiente.
+
+II.- El contribuyente sea declarado en quiebra, concurso, suspensión o solicite su liquidación judicial.
+
+III.- El contribuyente no pague alguna de las parcialidades, con sus recargos, a más tardar dentro de los quince días siguientes a aquel en que vence la parcialidad.
+
+###### ARTICULO 67.
+
+Las facultades de las autoridades fiscales para comprobar el cumplimiento de las disposiciones fiscales, determinar las contribuciones omitidas y sus accesorios, así como para imponer sanciones por infracciones a dichas disposiciones, se extinguen en el plazo de cinco años contados a partir del día siguiente a aquél en que:
+
+I.- Se presentó o debió presentarse la declaración del ejercicio, cuando se tenga la obligación de hacerlo. En estos casos las facultades se extinguirán por ejercicios completos, incluyendo aquéllas facultades relacionadas con la exigibilidad de obligaciones distintas de la de presentar la declaración del ejercicio. No obstante lo anterior, cuando se presenten declaraciones complementarias, el plazo empezará a computarse a partir del día siguiente a aquél en que se presenten, por lo que hace a los conceptos modificados.
+
+II.- Se presentó o debió haberse presentado la declaración o aviso que corresponda a una contribución que no se calcule por ejercicios, o a partir de que se causaron las contribuciones cuando no exista la obligación de pagarlas mediante declaración.
+
+III.- Se hubiere cometido la infracción a las disposiciones fiscales, pero si la infracción fuese de carácter continuo o continuado, el término correrá a partir del día siguiente al en que hubiese cesado la consumación o se hubiese realizado la última conducta o hecho, respectivamente.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya presentado su solicitud en el Registro Estatal de Contribuyentes, no lleve contabilidad o no la conserve durante el plazo que establece este Código, así como por los ejercicios en que no presente alguna declaración del ejercicio, estando obligado a presentarlas. En los casos en los que posteriormente el contribuyente en forma espontánea presente la declaración omitida y cuando ésta no sea requerida, el plazo será de cinco años, sin que en ningún caso este plazo de cinco años, sumado al tiempo transcurrido entre la fecha en la que debió presentarse la declaración omitida y la fecha en la que se presentó espontáneamente, exceda de diez años.
+
+> <small>(ADICIONADO P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+El plazo señalado en este artículo no está sujeto a interrupción y sólo se suspenderá cuando se ejerzan las facultades de comprobación de las autoridades fiscales a que se refieren las fracciones II, III y IV del artículo 44 de este Código; cuando se interponga algún recurso administrativo o juicio; o cuando las autoridades fiscales no puedan iniciar el ejercicio de sus facultades de comprobación en virtud de que el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal. En estos dos últimos casos, se reiniciará el cómputo del plazo de caducidad a partir de la fecha en la que se localice al contribuyente. Asimismo, el plazo a que hace referencia este artículo se suspenderá en los casos de huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la huelga y en el de fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión.
+
+Las facultades de las autoridades fiscales para investigar hechos constitutivos de delitos en materia fiscal, no se extinguirán conforme a este artículo.
+
+Los contribuyentes, transcurridos los plazos a que se refiere este artículo, podrán solicitar se declare que se han extinguido las facultades de las autoridades fiscales.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+
+###### ARTICULO 68.
+
+Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos que la negativa Implique la afirmación de otro hecho.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+### CAPITULO XI
+
+###### ARTICULO 69.
+
+El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las Leyes Fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la Administración y de la Defensa de los Intereses Fiscales Estatales, a los Tribunales Judiciales o Administrativos, a las Autoridades Fiscales Federales o Municipales, o en el supuesto previsto en el Artículo 63 de este Código. Dicha reserva tampoco comprenderá la información que se proporcione a Instituciones de Crédito autorizadas por el Estado o los Municipios para recibir el pago de contribuciones. Dicha reserva tampoco comprenderá la información relativa a los créditos fiscales de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público de conformidad con la Ley para Regular las Sociedades de Información Crediticia, ni la que se proporcione para efectos de la notificación por terceros en términos de la legislación aplicable.
 
 ###### Art. 124.
 
@@ -6726,319 +5776,325 @@ Todos los contratos que el Gobierno tenga que celebrar para la ejecución de obr
 
 DE LAS REFORMAS DE LA CONSTITUCION.
 
-### CAPÍTULO II. DE LOS DERECHOS POR REGISTRO Y REFRENDO ANUAL DE TODA ACTIVIDAD ECONÓMICA
+### CAPITULO XII
 
-###### Artículo 70.
+###### ARTICULO 70.
 
-Las autoridades fiscales, a fin de determinar la existencia del crédito fiscal, dar las bases de su liquidación, fijarlo en cantidad líquida, cerciorarse del cumplimiento a las disposiciones fiscales o comprobar la comisión de infracciones a dichas disposiciones, estarán facultadas para realizar conjunta o separadamente, los siguientes actos:
+La aplicación de las multas, por infracciones a las disposiciones fiscales, se hará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
-I. Revisar las bases de datos y los padrones fiscales;
+###### ARTICULO 71.
 
-II. Autorizar la verificación o comprobación del cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y terceros relacionados con ellos, conforme a las disposiciones fiscales;
+Son responsables en la comisión de las infracciones previstas en este Código las personas que realicen los supuestos que en este capítulo se consideran como tales, así como las que omitan el cumplimiento de obligaciones previstas por las disposiciones fiscales, incluyendo a aquéllas que lo hagan fuera de los plazos establecidos.
 
-III. Revisar las declaraciones de los contribuyentes, responsables solidarios y demás obligados, así como comprobar el cumplimiento de sus obligaciones, de conformidad con las disposiciones fiscales municipales;
-
-IV. Determinar y ordenar el cobro a los contribuyentes, responsables solidarios y demás obligados, de las diferencias por errores aritméticos en las declaraciones y por el pago en parcialidades de las contribuciones, tanto de las derivadas de la aplicación de disposiciones fiscales previstas en este ordenamiento, como las de naturaleza federal cuando actúen en los términos de los convenios de coordinación fiscal federal;
-
-V. Calificar, para su aceptación, las garantías del interés fiscal que deban ser otorgadas en favor del Ayuntamiento; hacerlas efectivas y resolver sobre la dispensa o el otorgamiento de las mismas; vigilar que sean suficientes y exigir su ampliación, así como ordenar el secuestro de otros bienes;
-
-VI. Practicar, de conformidad con el procedimiento previsto en Código de la materia, visitas en el domicilio fiscal o negociaciones de los sujetos pasivos, de los responsables solidarios o de los terceros relacionados con ellos, con el fin de verificar el cumplimiento de obligaciones fiscales derivadas de disposiciones legales y reglamentarias, así como de la presentación de documentos e informes relacionados con el cumplimiento de las obligaciones fiscales; revisar sus bienes, mercancías y, en general, la documentación que tenga relación con las obligaciones fiscales y, en su caso, asegurarlos, dejando en calidad de depositario al visitado, previo inventario que al efecto se formule;
-
-VII. Proceder a la inspección, verificación física, clasificación, valuación o comprobación de toda clase de bienes;
-
-VIII. Solicitar de los sujetos pasivos, responsables solidarios o terceros con ellos relacionados, toda clase de datos, documentos e informes relacionados con el cumplimiento de las disposiciones fiscales;
-
-IX. Practicar las inspecciones y verificaciones de los lugares, inmuebles, bienes o mercancías, en la forma que para el control de las obligaciones fiscales determine la Tesorería, de conformidad con el Código de Procedimientos Administrativos;
-
-X. Ordenar la clausura provisional o definitiva de establecimientos comerciales por incumplimiento o infracción a las disposiciones fiscales;
-
-XI. Practicar avalúos de bienes inmuebles, de acuerdo a la legislación aplicable;
-
-XII. Designar personal que supervise y verifique el número de personas que ingresen a los espectáculos públicos, así como los ingresos que perciban;
-
-XIII. Autorizar y verificar el manejo de los boletos o documentos que otorguen el derecho de admisión a una diversión o espectáculo público;
-
-XIV. Designar personal para presenciar la celebración de loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase y verificar los ingresos que se perciban;
-
-XV. Ordenar la práctica de la notificación de los actos relacionados con el ejercicio de las facultades de comprobación, así como las resoluciones que determinen créditos fiscales, citatorios, requerimientos, solicitud de informes y los demás actos administrativos que se generen con motivo de sus facultades de comprobación del cumplimiento de las disposiciones fiscales municipales;
-
-XVI. Rectificar los errores aritméticos que aparezcan en las declaraciones, manifestaciones o avalúos;
-
-XVII. Ordenar la práctica de embargo precautorio para asegurar el interés fiscal, cuando el crédito fiscal no sea exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, si, a juicio de ésta, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales, así como levantarlo cuando proceda;
-
-XVIII. Allegarse las pruebas necesarias para presentar denuncia ante el Ministerio Público, sobre la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva; y
-
-XIX. Cuando los sujetos pasivos, los responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de comprobación de las autoridades fiscales, éstas podrán indistintamente:
-
-a) Imponer la multa que corresponda en los términos de este Código;
-
-b) Solicitar el auxilio de la fuerza pública; o
-
-c) Solicitar a la autoridad correspondiente que se proceda por desobediencia a un mandato legítimo de autoridad competente.
-
-Las facultades señaladas en las fracciones VI, VII, IX, XII, XIII y XIV de este artículo, se podrán llevar a cabo en los lugares donde se encuentren los inmuebles, tratándose de contribuciones relacionadas con los mismos, o en el lugar donde se presenten las diversiones o espectáculos públicos o se celebren loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase.
-
-###### Artículo 71.
-
-Las visitas domiciliarias deberán cumplir con las formalidades que señala el Código de Procedimientos Administrativos.
+Cuando sean varios los responsables, cada uno deberá pagar el total de la multa que se imponga.
 
 ### CAPÍTULO III. DE LOS DERECHOS POR OBRAS MATERIALES
 
-###### Artículo 72.
+###### ARTICULO 72.
 
-Las autoridades fiscales podrán determinar presuntivamente la base gravable de las contribuciones a cargo de los sujetos pasivos, cuando:
+Los funcionarios y empleados públicos que en ejercicio de sus funciones conozcan de hechos u omisiones que entrañen o puedan entrañar infracción a las disposiciones fiscales, lo comunicarán a la autoridad fiscal competente para no incurrir en responsabilidad, dentro de los quince días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
 
-I. Se resistan u obstaculicen por cualquier medio, la iniciación o desarrollo de las visitas domiciliarias, o se nieguen a recibir la orden respectiva;
+Tratándose de funcionarios y empleados fiscales, la comunicación a que se refiere el párrafo anterior la harán en los plazos y forma establecidos en los procedimientos a que estén sujetas sus actuaciones.
 
-II. No proporcionen la documentación, informes o datos que les soliciten, o los presenten alterados, falsificados o existan vicios o irregularidades en los mismos;
+Se libera de la obligación establecida en este Artículo a los siguientes funcionarios y empleados públicos:
 
-III. No tengan la documentación a que estén obligados;
+I.- Aquellos que de conformidad con otras Leyes tengan obligación de guardar reserva acerca de los datos o información que conozcan con motivo de sus funciones.
 
-IV. La información que se obtenga de terceros ponga de manifiesto discrepancias con sus datos o informes manifestados o declarados;
+II.- Los que participen en las tareas de asistencia al contribuyente previstas por las disposiciones fiscales.
 
-VI. No manifiesten a la autoridad fiscal, en las formas y plazos establecidos, que se ha modificado el valor de un inmueble, se transmitió la propiedad o posesión del mismo, variaron sus características físicas, o se realizó cualquier otro hecho que sea relevante para la determinación de las contribuciones relacionadas con éstos;
+###### ARTICULO 73.
 
-VI. Nieguen u obstaculicen, por cualquier medio, el acceso a los lugares en donde se presenten los espectáculos públicos o se celebren loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase, al personal designado por las autoridades fiscales para verificar el cumplimiento de las obligaciones del contribuyente;
+No se impondrán multas cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por las disposiciones fiscales, o cuando se haya incurrido en infracción a causa de fuerza mayor o de caso fortuito. Se considerará que el cumplimiento no es espontáneo en el caso que:
 
-VII. Nieguen u obstaculicen el acceso a los predios, inmuebles e instalaciones al personal designado por las autoridades fiscales para la práctica de avalúos de los mismos. Se considerará que hay negativa u obstaculización, cuando habiéndose avisado al propietario o poseedor la fecha y hora de la diligencia por medio de citatorio entregado por lo menos con tres días de anticipación, ésta no pueda realizarse por causas imputables a dicho propietario o poseedor;
+I.- La omisión sea descubierta por las autoridades fiscales.
 
-VIII. No obstante tener la obligación de contar con el permiso o autorización de la autoridad municipal competente, realicen u organicen actos o eventos con omisión de los requisitos legales establecidos; y
+II.- La omisión haya sido corregida por el contribuyente después de que las autoridades fiscales hubieren notificado una orden de visita domiciliaria, o haya mediado requerimiento o cualquier otra gestión notificada por las mismas.
 
-IX. Incurran en cualquier otro supuesto que señale el Código de Procedimientos Administrativos.
+Siempre que se omita el pago de una contribución cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
 
-###### Artículo 73.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales procederán de la manera siguiente:
+###### ARTICULO 74.
 
-I. Tratándose de diversiones o espectáculos públicos, el número total de localidades, asientos, lugares o aforo con que cuente el local en donde se desarrolló el espectáculo público, se multiplicará por el precio de la localidad más alta que para dicho espectáculo se hubiere dado, y el resultado obtenido será considerado como base gravable, la cual no será objeto de deducción o reducción alguna;
+La Secretaría de Finanzas y Tesorería General del Estado, podrá condonar total o parcialmente las multas por infracción a las disposiciones fiscales o administrativas no fiscales, inclusive las determinadas por el propio contribuyente, para lo cual la Secretaría de Finanzas y Tesorería General del Estado establecerá, mediante reglas de carácter general, los requisitos y supuestos por los cuales procederá la condonación, así como la forma y plazos para el pago de la parte no condonada.
 
-II. Con relación a loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase, el número total de boletos o billetes de participación emitidos se multiplicará por el precio de venta de los mismos y el resultado obtenido será considerado como base gravable, la cual no será objeto de deducción o reducción alguna; si no se contare con los elementos suficientes para realizar el procedimiento antes descrito, se considerará como base gravable el triple del valor que en la publicidad o boletos correspondientes se le haya asignado al o a los premios a otorgar; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-III. Para el caso de oposición de los propietarios, poseedores o detentadores de predios, a la práctica de las operaciones catastrales de valuación, tratándose de contribuciones relacionadas con bienes inmuebles, la autoridad fiscal procederá a determinar el valor de dichos bienes, de acuerdo con lo previsto en la Ley de Catastro.
+La solicitud de condonación de multas en los términos de este artículo no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas y Tesorería General del Estado al respecto no podrán ser impugnadas por los medios de defensa que establece este Código y en todo caso se podrá autorizar la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
 
-Todo esto sin perjuicio de las formalidades y facultades de las autoridades fiscales que señala el Código de Procedimientos Administrativos.
+Sólo procederá la condonación de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
 
-###### Artículo 74.
+###### ARTICULO 75.
 
-Para la comprobación del pago y de la base gravable de las contribuciones, salvo prueba en contrario, se presumirán los supuestos a que se refiere el Código de Procedimientos Administrativos.
+Dentro de los límites fijados por este Código, las autoridades fiscales al imponer multas por la comisión de las infracciones señaladas en las leyes fiscales, deberán fundar y motivar su resolución y tener en cuenta lo siguiente:
 
-###### Artículo 75.
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
-Los servidores públicos que, en el ejercicio de sus funciones, conozcan de acciones u omisiones que puedan entrañar infracción a las disposiciones fiscales, las comunicarán a la autoridad fiscal dentro de los cinco días siguientes a la fecha en que tengan conocimiento de aquéllas.
+I.- Se considerará como agravante el hecho de que el infractor sea reincidente. Se da la reincidencia:
 
-###### Artículo 76.
+A).- La segunda o posteriores veces que se sancione al infractor por la comisión de una infracción que tenga como consecuencia la omisión en el pago de contribuciones.
 
-Los servidores públicos que intervengan en los diversos trámites relativos a la aplicación de las disposiciones tributarias estarán obligados a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados. Dicha reserva no comprenderá los casos que señalen las disposiciones fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales o municipales, y a las autoridades judiciales cuando la ley impone tal obligación.
+B).- La segunda o posteriores veces que se sancione al infractor por la comisión de una infracción establecida en el mismo Artículo de este código, tratándose de infracciones que no impliquen omisión en el pago de contribuciones.
+
+II.- También será agravante en la comisión de una infracción, cuando se dé cualesquiera de los siguientes supuestos:
+
+A).- Que se haga uso de documentos falsos o en los que se hagan constar operaciones inexistentes.
+
+B).- Que se utilicen, sin derecho a ello, documentos expedidos a nombre de un tercero para deducir su importe al calcular contribuciones o para acreditar cantidades trasladadas por concepto de contribuciones.
+
+C).- Que se lleven dos o más sistemas de contabilidad con distinto contenido.
+
+D).- Se lleven dos o más libros sociales similares con distinto contenido.
+
+E).- Que se destruya, ordene o permita la destrucción total o parcial de la contabilidad.
+
+III.- Se considera también agravante, la omisión en el entero de contribuciones que se hayan retenido o recaudado de los contribuyentes.
+
+IV.- Igualmente es agravante, el que la comisión de la infracción sea en forma continuada.
+
+Cuando por un acto o una omisión se infrinjan diversas disposiciones fiscales a las que correspondan varias multas, sólo se aplicará la que corresponda a la infracción cuya multa sea mayor.
+
+En el caso de que la multa se pague dentro del mes siguiente a la fecha en que se le notifique al infractor la resolución por la cual se le imponga la sanción, la multa se reducirá en un 25% de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 76.
+
+Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones incluyendo las retenidas o recaudadas, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación, se aplicará una multa del 75% al 100% de las contribuciones omitidas.
+
+Si el infractor paga las contribuciones omitidas junto con sus accesorios después de que se inicie el ejercicio de las facultades de comprobación y hasta antes de que se le notifique el acta final o el oficio de observaciones, según sea el caso pagará una multa equivalente al 20% de las contribuciones omitidas. Si el pago se realiza antes de la notificación de la resolución que determine el monto de las contribuciones omitidas pagará una multa equivalente al 30% de las contribuciones omitidas.
 
 ### CAPÍTULO IV. DE LOS DERECHOS POR LOS SERVICIOS DE AGUA POTABLE Y DRENAJE DEL MUNICIPIO
 
-###### Artículo 77.
+###### ARTICULO 77.
 
-Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que los motiven, cuando el afectado los niegue lisa y llanamente, excepto que la negativa implique la afirmación de otro hecho.
+En los casos a que se refiere el artículo 76 de este Código, las multas se aumentarán o disminuirán conforme a las siguientes reglas:
 
-###### Artículo 78.
+I.- Se aumentarán:
 
-Corresponde a las autoridades fiscales declarar que una acción o una omisión constituye una infracción a las disposiciones fiscales.
+A).- En un 20% del monto de las contribuciones omitidas o del beneficio indebido, cada vez que el infractor haya reincidido.
+
+B).- En un 60% del monto de las contribuciones omitidas o del beneficio indebido, cuando en la comisión de la infracción se dé alguno de los agravantes señalados en la fracción II del artículo 75 de este Código.
+
+C).- En una cantidad igual al 50% del importe de las contribuciones retenidas o recaudadas y no enteradas, cuando se incurra en la agravante a que se refiere la fracción III del artículo 75 de este Código.
+
+Tratándose del caso comprendido en la fracción I del artículo anterior, el aumento de multas a que se refiere esta fracción, se determinará por la autoridad fiscal correspondiente, aún después de que el infractor hubiera pagado las multas en los términos del artículo precedente.
+
+II.- Se disminuirán:
+
+A).- En un 25% del monto de las contribuciones omitidas o del beneficio indebido, si el infractor ha hecho dictaminar por contador público autorizado sus estados financieros correspondientes al ejercicio fiscal en el cual incurrió en la infracción. Para la aplicación de la reducción contenida en este inciso en los casos de la fracción I del artículo anterior, el infractor deberá efectuar el pago en los términos de dicha fracción y solicitar la devolución del monto de la reducción, acreditando los impuestos de este inciso. No se aplicará lo dispuesto en este inciso cuando exista alguno de los agravantes señalados en la fracción II del artículo 75 de este Código.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+B).- En un 20% del monto de las contribuciones omitidas, o del beneficio indebido, en el caso de la fracción II del artículo 76 y siempre que el infractor pague o devuelva las contribuciones omitidas o el beneficio indebido con sus accesorios, dentro del mes siguiente a la fecha en que venza el plazo a que se refiere la fracción I del artículo 76.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 78.
+
+Tratándose de la omisión de contribuciones que hayan derivado de un error aritmético en las declaraciones, se impondrá una multa que será el 20% de las contribuciones omitidas y, en caso de que dichas contribuciones se paguen junto con sus accesorios dentro de los treinta días siguientes a la fecha en que se notificó su determinación, la multa se reducirá a la mitad.
 
 ### CAPÍTULO V. DE LOS DERECHOS POR EXPEDICIÓN DE CERTIFICADOS Y CONSTANCIAS
 
-###### Artículo 79.
+###### ARTICULO 79.
 
-La aplicación de multas, por infracción a las disposiciones fiscales, se hará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+Son infracciones relacionadas con el registro estatal de contribuyentes, las siguientes:
 
-###### Artículo 80.
+I.- No solicitar la inscripción cuando se esté obligado a ello, o hacerlo extemporáneamente.
 
-Son responsables en la comisión de las infracciones previstas en este Código, las personas que se encuentren en las hipótesis normativas de este Capítulo. Se consideran como tales las que omitan el cumplimiento de obligaciones previstas por las disposiciones fiscales.
+II.- No presentar los avisos al registro o hacerlo extemporáneamente.
 
-###### Artículo 81.
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-Se libera de la obligación establecida en el artículo 75 a los siguientes servidores públicos:
+III.- No presentar las solicitudes de empadronamiento, presentarlas extemporáneamente, no efectuar el refrendo de sus actividades, así como iniciar actividades sin haber solicitado y obtenido la autorización correspondiente cuando las Leyes Fiscales así lo estipulen, en caso de establecimientos por cuya inscripción y refrendo deban pagarse derechos, aún cuando los derechos correspondientes se encuentren suspendidos.
 
-I. Aquellos que, de conformidad con otras leyes, tengan obligación de guardar reserva acerca de los datos o información que conozcan con motivo de sus funciones; y
+###### ARTICULO 80.
 
-II. Los que participen en tareas de asistencia al contribuyente previstas por las disposiciones fiscales.
+A quien cometa las infracciones relacionadas con el registro estatal de contribuyentes a que se refiere el artículo 79 se impondrán las siguientes multas:
 
-###### Artículo 82.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-No se impondrán multas cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por las disposiciones de esa naturaleza o cuando se haya incurrido en infracción a causa de fuerza mayor o de caso fortuito por hechos ajenos a la voluntad del infractor, circunstancia que éste deberá probar a satisfacción de las autoridades.
+I.- De 8.5 cuotas a la comprendida en la fracción I.
 
-Se considerará que el cumplimiento no es espontáneo en el caso de que:
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-I. La omisión sea descubierta y notificada por las autoridades fiscales; y
+II.- De 4.5 cuotas a la comprendida en la fracción II.
 
-II. La omisión haya sido corregida por el contribuyente después de que las autoridades fiscales hubieren notificado una orden de visita domiciliaria, o haya mediado requerimiento o cualquier otra gestión notificada por las mismas, tendientes a la comprobación del cumplimiento de disposiciones fiscales.
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+III.- De 1 a 3 tantos de los derechos a cubrir, a la comprendida en la fracción III.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 81.
+
+Son infracciones relacionadas con la obligación de pago de contribuciones, con la presentación de declaraciones, solicitudes o avisos, o con la expedición de constancias incompletas o con errores:
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+I.- No presentar declaraciones, solicitudes, avisos, constancias, manifestaciones o demás documentos que exigen las disposiciones fiscales o presentarlos a requerimiento de las autoridades fiscales o presentarlos incompletos, con errores o en una forma distinta a la señalada en las disposiciones fiscales. No cumplir requerimientos de las autoridades fiscales para presentar alguno de los documentos a que se refiere esta fracción o cumplirlos fuera de los plazos señalados en los mismos.
+
+II.- No pagar contribuciones dentro del plazo que establecen las disposiciones fiscales.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+III.- Incumplir las disposiciones fiscales relativas a la obligación de terceros de cerciorarse del pago de contribuciones o del cumplimiento de las diversas obligaciones por parte de los contribuyentes.
+
+IV.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2005)
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 82.
+
+A quien cometa las infracciones relacionadas con la obligación de pago de contribuciones, con la presentación de declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo 81, se impondrán las siguientes multas:
+
+I.- Para la señalada en la fracción I:
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+A).- Tratándose de declaraciones, la mayor que resulte entre 1.5 cuotas o hasta el 100% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre la misma se aplicará también la multa hasta del 100% a que se refiere este inciso.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+B).- Tratándose de solicitudes, avisos, constancias, manifestaciones o demás documentos, de 1.5 a 20 cuotas.
+
+C).- Por el incumplimiento de los requerimientos o por su cumplimiento fuera de los plazos señalados en los mismos, respecto de una misma declaración, solicitud, aviso o constancia, además de las multas a que se refieren los incisos A) y B):
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+1.- De 3.5 cuotas para el primer requerimiento.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+2.- De 8.5 cuotas para el segundo requerimiento.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+3.- De 20.5 cuotas para el tercer requerimiento.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+D).- Tratándose de la presentación de declaraciones, solicitudes, avisos, constancias, manifestaciones o demás documentos incompletos, con errores o en una forma distinta a la señalada en las disposiciones fiscales, de 3 a 30 cuotas.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+II.- Tratándose de la señalada en la fracción II, la que resulte mayor entre 1.5 cuotas o hasta el 100% de las contribuciones no pagadas.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+III.- Para la señalada en la fracción III, del 50% al 100% de las contribuciones omitidas, por cada una de ellas.
+
+IV.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2005)
+
+La sanción prevista en este párrafo se aumentará en un 50% en caso de que el infractor sea servidor público al servicio de la Federación, del Estado o del Municipio y en un 100% en caso de que se trate de un vehículo que no acredite su legal estancia en el país.
 
 ### CAPÍTULO VI. DE LOS DERECHOS POR SERVICIOS DE RASTRO O LUGARES AUTORIZADOS
 
-###### Artículo 83.
+###### ARTICULO 83.
 
-Siempre que se omita el pago de una contribución cuya determinación corresponda a los servidores públicos municipales, a los notarios o corredores públicos titulados, los accesorios serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes, los accesorios serán a cargo de éstos.
+Son infracciones relacionadas con la obligación de llevar contabilidad, siempre que sean descubiertas en el ejercicio de las facultades de comprobación, las siguientes:
 
-###### Artículo 84.
+I.- No llevar contabilidad.
 
-Las autoridades fiscales, al imponer multas por la comisión de infracciones señaladas en este Código y demás disposiciones fiscales, deberán:
+II.- No llevar algún libro o registro especial a que obliguen las leyes fiscales.
 
-I. Fundar y motivar debidamente su resolución;
+III.- Llevar la contabilidad en forma distinta a como las disposiciones de este Código o de otras leyes señalan; así como llevarla en lugares distintos a los señalados en dichas disposiciones.
 
-II. Tomar en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de combatir prácticas tendientes a evadir la prestación fiscal o a infringir en cualquier otra forma las disposiciones legales o reglamentarias;
+IV.- No hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos, inexactos o fuera de los plazos respectivos.
 
-III. Considerar como agravante a la infracción fiscal, el hecho de que el infractor sea reincidente. Se da la reincidencia:
+V.- No presentar para sellarse los libros o sistemas de contabilidad, cuando lo exijan las disposiciones fiscales.
 
-a) Tratándose de infracciones que tengan como consecuencia la omisión en el pago de contribuciones, la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción que tenga esa consecuencia.
+VI.- No conservar la contabilidad a disposición de las autoridades por el plazo que establezcan las disposiciones fiscales.
 
-b) Tratándose de infracciones que no impliquen omisión en el pago de contribuciones, la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción establecida en el mismo artículo y fracción de este Código.
+VII.- No expedir comprobante de sus actividades, cuando las disposiciones fiscales lo establezcan o expedirlos sin requisitos fiscales.
 
-Para determinar la reincidencia, se considerarán únicamente las infracciones cometidas dentro de los últimos tres años.
+###### ARTICULO 84.
 
-IV. Considerar como agravante en la comisión de una infracción fiscal, cuando se dé cualquiera de los siguientes supuestos:
+A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el artículo 83 se impondrán las siguientes multas:
 
-a) Que la infracción sea en forma continua.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-b) Cuando por un acto o una omisión se infrinjan diversas disposiciones fiscales a las que correspondan varias multas.
+I.- De 4.5 a 41 cuotas a la comprendida en la fracción I.
 
-Cuando los responsables de una infracción sean varios, se les aplicará en forma individual la sanción que le corresponda, independientemente de la que se imponga a los demás infractores.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-###### Artículo 85.
+II.- De 2.5 a 20.5 cuotas a las establecidas en las fracciones II y III.
 
-Cuando por diferentes contribuciones se deba presentar una misma declaración o aviso en un formato oficial y se omita hacerlo por alguna de ellas, se aplicará una multa por cada contribución no declarada u obligación no cumplida.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+III.- De 4.5 a 24.5 cuotas a la comprendida en la fracción IV.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+IV.- De 2.5 a 16.5 cuotas a la señalada en la fracción V.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+V.- De 4.5 a 33 cuotas a la señalada en la fracción VI.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+VI.- De 4.5 a 20.5 cuotas a la comprendida en la fracción VII.
+
+###### ARTICULO 85.
+
+Son infracciones relacionadas con el ejercicio de la facultad de comprobación, las siguientes:
+
+> <small>(REFORMADO, P.O. 31 DICIEMBRE DE 1999)</small>
+
+I.- Oponerse a que se practique la visita en el domicilio fiscal. No suministrar los datos e informes que legalmente exijan las autoridades fiscales o suministrarlos fuera de los plazos legales o en forma incompleta; no proporcionar la contabilidad o parte de ella, el contenido de las cajas de valores y en general, los elementos que se requieran para comprobar el cumplimiento de obligaciones propias o de terceros.
+
+II.- No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 86.
 
-Cuando se incurra en agravantes en la comisión de infracciones fiscales, las multas se aumentarán en una cantidad igual al importe de las contribuciones o ingresos retenidos o recaudados y no enterados.
+Se impondrá una multa de 41 a 82 cuotas a quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el Artículo 85.
 
 ### CAPÍTULO VII. DE LOS DERECHOS POR SERVICIOS DE PANTEONES
 
-###### Artículo 87.
+###### ARTICULO 87.
 
-Tratándose de la omisión parcial de contribuciones por error aritmético en las declaraciones, se impondrá una multa del diez al veinte por ciento de las contribuciones omitidas. En caso de que dichas contribuciones se paguen junto con sus accesorios, dentro de los cinco días hábiles siguientes a la fecha en que surta sus efectos la notificación de la diferencia respectiva, la multa se reducirá a la mitad, sin que para ello se requiera resolución administrativa.
+Son infracciones a las disposiciones fiscales, en que pueden incurrir los funcionarios o empleados públicos en el ejercicio de sus funciones:
 
-###### Artículo 88.
+I.- No exigir el pago total de las contribuciones y sus accesorios; recaudar, permitir u ordenar que se reciba el pago en forma diversa a la prevista en las disposiciones fiscales.
 
-Son infracciones cuya responsabilidad recae sobre los sujetos pasivos de una prestación fiscal:
+II.- Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se practicaron visitas en el domicilio fiscal o incluir en las actas relativas datos falsos.
 
-I. No inscribirse en el padrón municipal o hacerlo fuera de los plazos legales, salvo cuando la solicitud se presente de manera espontánea;
+III.- Exigir una prestación que no esté prevista en las disposiciones fiscales, aún cuando se aplique a la realización de las funciones públicas.
 
-II. No incluir, en las manifestaciones para su inscripción, las actividades por las que sea contribuyente habitual;
+###### ARTICULO 88.
 
-III. Falsear datos o información a las autoridades fiscales;
+A quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 87, se impondrán las siguientes multas:
 
-IV. No refrendar su inscripción o registro en el padrón municipal o hacerlo fuera de los plazos legales establecidos;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-V. Obtener o usar más de una clave de registro que corresponda para el cumplimiento de las obligaciones fiscales municipales;
+I.- De 2.5 a 41 cuotas a la comprendida en la fracción I.
 
-VI. Manifestar negociaciones propias o realizar actividades gravables a través de terceros, sin pagar las contribuciones correspondientes;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-VII. No tener los permisos, cédulas, boletas de registro o cualquier otro documento exigido por las disposiciones fiscales, en los lugares que para el efecto se señalen; no citar su clave de registro o cuenta, según el caso, en las declaraciones, manifestaciones, solicitudes y gestiones que hagan ante cualquier dependencia;
+II.- De 4.5 a 82 cuotas a las establecidas en las fracciones II y III.
 
-VIII. Abrir una negociación o establecimiento comercial, industrial o de prestación de servicios sin solicitar previamente la cédula de empadronamiento y, en su caso, la licencia correspondiente o sin llenar los requisitos exigidos por los ordenamientos fiscales;
+###### ARTICULO 89.
 
-IX. Tener en las negociaciones o establecimientos comerciales, industriales o de prestación de servicios, instalaciones diversas de las aprobadas por el Ayuntamiento, cuando las disposiciones legales exijan tal aprobación, o modificarlas sin el correspondiente aviso o permiso;
+Son infracciones cuya responsabilidad recae sobre terceros, las siguientes:
 
-X. No entregar oportunamente a las autoridades fiscales los comprobantes de pago de las prestaciones fiscales, cuando lo exijan las disposiciones relativas;
+I.- Asesorar a los contribuyentes para omitir ilegalmente el pago de una contribución; colaborar a la alteración, inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que se expidan.
 
-XI. Faltar a la obligación de extender comprobantes, facturas o cualesquiera otros documentos que señalen las leyes fiscales; no exigirlos cuando tengan obligación de hacerlo; o no consignar por escrito los actos, convenios o contratos que, de acuerdo con las disposiciones fiscales, deben constar en esa forma;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-XII. No presentar, no proporcionar o hacerlo extemporáneamente los avisos, declaraciones, solicitudes, datos, informes, copias o documentos que exijan las disposiciones fiscales; no comprobarlos o no aclararlos, cuando las autoridades fiscales lo soliciten;
+###### ARTICULO 90.
 
-XIII. Presentar los avisos, declaraciones, solicitudes, datos, informes, copias o documentos a que se refiere la fracción anterior, incompletos, inexactos o con errores que traigan consigo la evasión de una prestación fiscal;
+A quien cometa las infracciones señaladas en el artículo 89 de este Código, se le impondrá una multa de 4.5 a 41 cuotas.
 
-XIV. Presentar los avisos, declaraciones, solicitudes, datos, informes, copias y documentos a que se refieren las dos fracciones anteriores, alterados o falsificados;
-
-XV. No pagar, en forma total o parcial, las contribuciones y productos dentro de los plazos señalados por las leyes fiscales;
-
-XVI. Evadir el pago de las prestaciones fiscales como consecuencia de inexactitudes, simulaciones, falsificaciones u otras maniobras similares;
-
-XVII. Ostentar en forma no idónea o diversa de lo que señalen las disposiciones fiscales la comprobación del pago de una prestación fiscal;
-
-XVIII. Traficar con los documentos o comprobantes del pago de prestaciones fiscales o hacer uso ilegal de ellos;
-
-XIX. Resistirse por cualquier medio no jurídico al desarrollo de cualquier acto relativo al procedimiento administrativo de ejecución o de las visitas domiciliarias practicadas por las autoridades fiscales; no suministrar los datos e informes que legalmente puedan exigir los visitadores; no mostrar los documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquier otra instalación y, en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado en relación con el objeto de la visita;
-
-XX. No conservar la documentación comprobatoria durante el plazo que establece la fracción VII del artículo 61 de este Código. Asimismo, no conservar la documentación o bienes que les sean dejados en depósito en virtud de una visita domiciliaria o de la aplicación del procedimiento administrativo de ejecución;
-
-XXI. Omitir total o parcialmente el pago de contribuciones o créditos fiscales de cualquier tipo y que sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación;
-
-XXII. No dar aviso a la Tesorería, o hacerlo extemporáneamente respecto del cese de actividades definitivo; y
-
-XXIII. Incurrir en cualquier otro acto u omisión distinto de los enumerados en las fracciones anteriores que, en alguna forma, infrinja las disposiciones fiscales.
-
-###### Artículo 89.
-
-Son infracciones cuya responsabilidad corresponde a los encargados del Registro Público de la Propiedad, Notarios Públicos, Corredores Públicos, autoridades judiciales y, en general, de los fedatarios públicos:
-
-I. No proporcionar los avisos, datos, informes o documentos que establecen las disposiciones legales o incurrir, al hacerlo, en falsedad o error;
-
-II. Autorizar actos o contratos, cualesquiera que sean, relacionados con fuentes de ingresos establecidos en la legislación municipal, sin cerciorarse previamente de que los contratantes están al corriente en el cumplimiento de sus obligaciones fiscales y en el pago de los impuestos o derechos a su cargo;
-
-III. No proporcionar los avisos, informes o datos, o no exhibir los documentos en el plazo que fijen las disposiciones legales aplicables, o cuando lo pidan las autoridades competentes, presentarlos incompletos o inexactos y, en su caso, no aclararlos cuando las mismas autoridades lo soliciten;
-
-IV. Proporcionar los informes o documentos a que se refiere la fracción anterior alterados o falsificados;
-
-V. No declarar o enterar las contribuciones municipales a la Tesorería en los términos que establecen las leyes fiscales, cuando les corresponda hacerlo por cuenta de los sujetos pasivos, de obligaciones fiscales que requieran de sus servicios; y
-
-VI. Coadyuvar con los infractores, en cualquier forma, en la evasión total o parcial del pago de las contribuciones, mediante alteraciones, simulaciones, ocultación u otras acciones u omisiones.
-
-###### Artículo 90.
-
-Son infracciones cuya responsabilidad recae en los servidores públicos, las siguientes:
-
-I. Extender actas, expedir certificados, legalizar firmas, autorizar documentos, inscribirlos o registrarlos, sin que exista constancia de que se pagó la contribución correspondiente;
-
-II. Recibir el pago de una prestación fiscal y no enterar su importe de inmediato;
-
-III. No exigir el pago total de las prestaciones fiscales o recaudar, permitir u ordenar que se recaude alguna prestación fiscal, sin cumplir con los requisitos establecidos por las disposiciones aplicables y en perjuicio del control e interés fiscal;
-
-IV. No presentar ni proporcionar o hacerlo extemporáneamente, los informes, avisos, datos o documentos que exijan las disposiciones fiscales o presentarlos incompletos o inexactos; o no prestar auxilio a las autoridades fiscales para la determinación y cobro de las prestaciones tributarias;
-
-V. Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados;
-
-VI. Asentar falsamente que se ha dado cumplimiento a las disposiciones legales o que se practicaron visitas domiciliarias o incluir datos falsos en las actas relativas;
-
-VII. No practicar las inspecciones, verificaciones o avalúos cuando tengan obligación de hacerlo;
-
-VIII. Intervenir, durante el ejercicio de sus funciones, en la tramitación o resolución de algún asunto en el que el servidor público tenga interés y del que se derive algún beneficio personal o de terceros con los que tenga relación familiar, laboral o de negocios, cuando estuviere impedido para hacerlo de acuerdo a las disposiciones legales;
-
-IX. Faltar a la obligación de guardar absoluta reserva respecto de los asuntos que conozcan, revelar los datos declarados por los contribuyentes o aprovecharse de ellos. Para los efectos de esta fracción, los representantes de los contribuyentes que intervengan en las juntas o reuniones que califiquen, tabulen o aprueben, en su caso, determinaciones para efectos fiscales, se asimilan a los servidores públicos;
-
-X. Facilitar o permitir la alteración de declaraciones, avisos o cualquier otro documento o coadyuvar en cualquier forma para que se evadan las prestaciones fiscales;
-
-XI. Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos;
-
-XII. Exigir cualquier prestación que no esté expresamente prevista en la ley, aun cuando se aplique a la realización de las funciones propias de su cargo; y
-
-XIII. Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ### CAPÍTULO VIII. DE LOS DERECHOS POR SERVICIOS DE RECOLECCIÓN, TRANSPORTE Y DISPOSICIÓN FINAL DE DESECHOS SÓLIDOS
 
-###### Artículo 91.
+###### ARTICULO 91.
 
-Son infracciones cuya responsabilidad recae sobre terceros:
-
-I. Consentir o tolerar que se inscriban a su nombre en el padrón municipal negociaciones o establecimientos ajenos, así como realizar a nombre propio actividades gravables que correspondan a otra persona, cuando esto último traiga como consecuencia la omisión en el pago de contribuciones;
-
-II. No proporcionar avisos, informes, datos, documentos o no exhibirlos en el plazo fijado por las disposiciones fiscales o cuando las autoridades lo exijan con apoyo en sus facultades legales y, en su caso, no aclararlos cuando las mismas autoridades lo soliciten;
-
-III. Presentar los avisos, informes, datos o documentos a que se refiere la fracción anterior incompletos, inexactos, alterados o falsificados;
-
-IV. Autorizar o hacer constar documentos, inventarios, balances, asientos, valores o datos falsos o inexactos cuando actúen como contadores, peritos, valuadores o testigos;
-
-V. Asesorar o aconsejar a los contribuyentes para evadir el pago de una prestación fiscal o para infringir las disposiciones fiscales;
-
-VI. Ser cómplice, en cualquier forma, en la comisión de infracciones fiscales;
-
-VII. No enterar total o parcialmente, dentro de los plazos que establezcan las disposiciones fiscales, el importe de las prestaciones fiscales retenidas, recaudadas o que debieron retener o recaudar;
-
-VIII. Presentar los documentos relativos al pago de las prestaciones retenidas, alterados, falsificados, incompletos o con errores que traigan consigo la evasión parcial o total de las mismas prestaciones;
-
-IX. Adquirir, ocultar, retener o enajenar productos, mercancías, artículos y, en general, toda clase de bienes, a sabiendas de que no se cubrieron las contribuciones que en relación con aquellos se hubieran debido pagar;
-
-X. Aceptar documentos con los que pretenda comprobarse el cumplimiento de las obligaciones de las disposiciones fiscales, cuando no se haya cumplido con el pago de la prestación fiscal o no se acredite su cumplimiento de acuerdo con las disposiciones fiscales;
-
-XI. No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que tengan obligación de hacerlo, de acuerdo con las disposiciones fiscales;
-
-XII. Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos; y
-
-XIII. Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes.
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de 1.5 a 4.5 cuotas.
 
 ###### Art. 135.
 
@@ -7050,241 +6106,173 @@ DE LA INVIOLABILIDAD DE LA CONSTITUCION.
 
 ### CAPÍTULO IX. DE LOS DERECHOS POR LIMPIEZA DE PREDIOS NO EDIFICADOS
 
-###### Artículo 92.
+###### ARTICULO 92.
 
-Las autoridades fiscales impondrán las sanciones administrativas por infracción a las disposiciones de este Capítulo, de acuerdo a lo siguiente:
+Para proceder penalmente por los delitos fiscales previstos en este capítulo, será necesario que previamente el Secretario de Finanzas y Tesorero General del Estado o el funcionario que éste designe, así como la Tesorería Municipal en su respectivo ámbito de competencia, formule querella tratándose de los delitos previstos en los artículos 102, 103, 104, 105, 106 y demuestre que el fisco sufrió o se le pudo producir perjuicio económico. En los demás casos, bastará la denuncia de los hechos ante el Ministerio Público del Estado.
 
-I. Las infracciones que establece el artículo 88 de este Código serán sancionadas con multa equivalente a los montos que a continuación se señalan:
+Los procesos por los delitos fiscales a que se refieren los artículos invocados en este precepto, se sobreseerán a petición del Secretario de Finanzas y Tesorero General del Estado o el funcionario que éste designe, así como la Tesorería Municipal en su respectivo ámbito de competencia, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público del Estado formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
 
-a) De cinco a quince días de salario mínimo, por infracción a las fracciones I, IV, VII, VIII, X, XII y XV.
-
-b) De quince a treinta días de salario mínimo, por infracción a las fracciones XX, XXII y XXIII.
-
-c) De treinta a cincuenta días de salario mínimo, por infracción a las fracciones II, III, V, VI, IX, XI, XIII, XIV, XVI, XVII, XVIII y XIX;
-
-II. La infracción que establece la fracción XXI del artículo 88 de este Código, se sancionará con multa de cien a ciento cincuenta por ciento del crédito omitido;
-
-III. Las infracciones comprendidas en el artículo 89 de este Código, se sancionarán con multa de cincuenta a cien días de salario mínimo;
-
-IV. Las infracciones comprendidas en el artículo 90 de este Código, se sancionarán con multa de setenta y cinco a cien días de salario mínimo; y
-
-V. Las infracciones comprendidas en el artículo 91 de este Código, se sancionarán con multa de cuarenta y cinco a noventa días de salario mínimo.
-
-Cuando por un acto o una omisión se incurra en varias infracciones a las que correspondan diversas multas, sólo se impondrá la multa mayor.
-
-Los ingresos que el Municipio obtenga por la aplicación de multas y sanciones establecidas en disposiciones reglamentarias, así como en otros ordenamientos de carácter hacendario, se enterarán de conformidad con los montos que establezcan los ordenamientos que las contengan.
+En los delitos fiscales en que sea necesaria querella o declaratoria de perjuicio y el daño o el perjuicio sea cuantificable, el Secretario de Finanzas y Tesorero General del Estado o el funcionario que éste designe, así como la Tesorería Municipal en su respectivo ámbito de competencia, hará la cuantificación correspondiente en la propia querella o declaratoria, o la presentará durante la tramitación del proceso respectivo antes de que el Ministerio Público en el Estado formule conclusiones. La citada cuantificación sólo surtirá efectos en el procedimiento penal.
 
 ### CAPÍTULO X. DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS DE SUPERVISIÓN TÉCNICA SOBRE LA EXPLOTACIÓN DE BANCOS DE MATERIAL
 
-###### Artículo 93.
+###### ARTICULO 93.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de cinco a cien días de salario mínimo.
+Cuando una autoridad fiscal tenga conocimiento de la probable existencia de un delito de los previstos en este Código y sea perseguible de oficio, de inmediato lo hará del conocimiento del ministerio público en el Estado para los efectos legales que procedan, aportándole las actuaciones y pruebas que se hubiere allegado.
 
-###### Artículo 94.
+###### ARTICULO 94.
 
-Los delitos fiscales son de comisión intencional, dirigidos a causar un daño patrimonial al erario municipal y sancionados por este Código.
+En los delitos fiscales la autoridad judicial no impondrá sanción pecuniaria; las autoridades administrativas, con arreglo a las leyes fiscales, harán efectivas las contribuciones omitidas, los recargos y las sanciones administrativas correspondientes, sin que ello afecte al procedimiento penal.
 
-###### Artículo 95.
+###### ARTICULO 95.
 
-Para proceder penalmente por los delitos previstos en este Título, será necesario que el Síndico formule la querella respectiva; en los casos previstos por el artículo 111 de este Código, cualquier persona podrá denunciar los hechos ante el Ministerio Público.
+Son responsables de los delitos fiscales quienes:
 
-El derecho para formular la querella por delitos fiscales prescribirá en un año, a partir del día en que se tenga conocimiento del delito; y en tres años, independientemente de esta circunstancia.
+I.- Concierten la realización del delito.
+
+II.- Realicen la conducta o el hecho descritos en la ley.
+
+III.- Se sirvan de otra persona como instrumento para ejecutarlo.
+
+IV.- Induzcan dolosamente a otro a cometerlo.
+
+V.- Ayuden dolosamente a otro para su comisión.
+
+VI.- Auxilien a otro después de su ejecución, cumpliendo una promesa anterior.
 
 ### CAPÍTULO XI. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA TESORERÍA
 
-###### Artículo 96.
+###### ARTICULO 96.
 
-El que tenga conocimiento de un delito procederá a comunicarlo por escrito a la autoridad fiscal, precisando los hechos que lo constituyen. Lo anterior tendrá el carácter de confidencial y, si un servidor público violare esta disposición, se le aplicará la sanción prevista en el artículo 111, fracción I, inciso b) de este Código. Si se tratare de un particular, se le impondrá la sanción que corresponda.
+Es responsable de encubrimiento en los delitos fiscales, quien, sin previo acuerdo y sin haber participado en él, después de la ejecución del delito:
 
-###### Artículo 97.
+I.- Con ánimo de lucro adquiera, reciba, traslade u oculte el objeto del delito a sabiendas de que provenía de éste, o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, o ayude a otro a los mismos fines.
 
-Serán responsables de la comisión de delitos fiscales, quienes:
+II.- Ayude en cualquier forma al inculpado a eludir las investigaciones de la autoridad o a sustraerse de la acción de ésta, u oculte, altere, destruya o haga desaparecer las huellas, pruebas o instrumentos del delito, o asegure para el inculpado el objeto o provecho del mismo.
 
-I. Realicen la conducta o hecho, tipificado y legalmente descrito en el Código;
+El encubrimiento a que se refiere este artículo se sancionará con prisión de tres meses a seis años.
 
-II. Concierten, maquinen o asesoren en su ejecución;
+###### ARTICULO 97.
 
-III. Concreten su realización;
+Si un funcionario o empleado público comete o en cualquier forma participa en la comisión de un delito fiscal, la pena aplicable por el delito que resulte se aumentará de tres meses a tres años de prisión.
 
-IV. Lo realicen conjuntamente;
+###### ARTICULO 98.
 
-V. Presten dolosamente ayuda en su realización; o
+La tentativa de los delitos previstos en este Código es punible, cuando la resolución de cometer un hecho delictivo se traduce en un principio de su ejecución o en la realización total de los actos que debieran producirlo, si la interrupción de éstos o la no producción del resultado se debe a causas ajenas a la voluntad del agente.
 
-VI. Encubran su ejecución.
+La tentativa se sancionará con prisión de hasta las dos terceras partes de la sanción que corresponda por el delito de que se trate, si éste se hubiere consumado.
 
-Cuando el delito se cometa por medio de persona moral, el responsable será el representante legal de ésta, independientemente de la responsabilidad que los socios tengan en la comisión del ilícito.
+Si el autor desistiera de la ejecución o impidiere la consumación del delito, no se impondrá sanción alguna, a no ser que los actos ejecutados constituyan por sí mismos delito.
 
-###### Artículo 98.
+###### ARTICULO 99.
 
-Serán responsables de encubrimiento en los delitos fiscales quienes, sin previo acuerdo y sin haber participado en ellos, después de su ejecución:
+En el caso de delito continuado, la pena podrá aumentarse hasta por una mitad más de la que resulte aplicable.
 
-I. Con ánimo de dominio, lucro o uso, adquieran, trasladen, reciban u oculten el producto u objeto del delito, a sabiendas de que provenía de éste, o sin tomar las debidas precauciones para cerciorarse de su legítima procedencia o que, de acuerdo a las circunstancias, debían presumir su ilegitimidad o ayuden a otro para los mismos fines; o
+Para los efectos de este código, el delito es continuado cuando se ejecuta con pluralidad de conductas o hechos, con unidad de intención delictuosa e identidad de disposición legal, incluso de diversa gravedad.
 
-II. Ayuden en cualquier forma al inculpado a eludir las investigaciones de la autoridad con el propósito de evadirse de la acción de la justicia, o bien oculten, alteren, destruyan o hagan desaparecer las huellas, vestigios, pruebas o instrumentos del delito o aseguren para el inculpado el objeto o provecho del mismo.
+###### ARTICULO 100.
 
-En los casos previstos por la fracción I de este artículo, si el delito se comete con ánimo de dominio o uso se sancionará a los responsables con prisión de tres meses a dos años; si es con ánimo de lucro, con prisión de un año a cuatro años.
+La acción penal en los delitos fiscales perseguibles por querella del Secretario de Finanzas y Tesorero General del Estado, prescribirá en tres años contados a partir del día en que dicho Secretario tenga conocimiento del delito y del delincuente; y si no tiene conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito. En los demás casos, se estará a las reglas del Código Penal del Estado.
 
-En los supuestos de la fracción II, se impondrá sanción de seis meses a tres años de prisión.
+###### ARTICULO 101.
 
-###### Artículo 99.
+Para que proceda la condena condicional cuando se incurra en delitos fiscales, además de los requisitos señalados en el Código Penal vigente en el Estado, será necesario comprobar que el interés fiscal está satisfecho o garantizado.
 
-En los procesos penales instaurados por la comisión de delitos fiscales, la acción penal se extinguirá cuando el perdón judicial se otorgue:
+###### ARTICULO 102.
 
-I. Expresamente por el Síndico;
+Comete el delito de defraudación fiscal quien con uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución u obtenga un beneficio indebido con perjuicio del fisco del Estado.
 
-II. Una vez que el inculpado haya pagado el crédito fiscal y todos sus accesorios legales, originados por la comisión del ilícito de que se trate o, en su caso, que a juicio de la autoridad fiscal quede debidamente garantizado el interés del erario municipal; y
+El delito de defraudación fiscal se sancionará con prisión de uno a seis meses si el monto de lo defraudado no excede de $500,000.00; cuando exceda de esta cantidad la pena será de seis meses a tres años de prisión.
 
-III. Antes de que se dicte sentencia definitiva.
+Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a tres años de prisión.
 
-El perdón judicial que se otorgue a uno de los inculpados beneficiará a los demás copartícipes o encubridores.
+No se formulará querella si quien hubiere omitido el pago de la contribución u obtenido el beneficio indebido conforme a este artículo, lo entera con sus accesorios.
 
-No se podrá otorgar perdón, en ningún caso, al inculpado que durante los cinco años anteriores se le haya concedido el mismo beneficio por la comisión de delitos fiscales.
+###### ARTICULO 103.
 
-###### Artículo 100.
+Será sancionado con las mismas penas del delito de defraudación fiscal, quien:
 
-La persona condenada por delitos fiscales gozará de los beneficios que establece el Código Penal para el Estado, siempre y cuando se acredite que el interés fiscal ha quedado resarcido o garantizado plenamente.
+I.- Omita enterar a las autoridades fiscales, dentro del plazo que la ley establezca, las cantidades que por concepto de contribuciones hubiere retenido o recaudado.
 
-###### Artículo 101.
+II.- Se beneficie sin derecho de un subsidio o estímulo fiscal.
 
-Cuando en la comisión de delitos fiscales intervengan o participen auditores, notificadores, técnicos fiscales, contadores, economistas, abogados o peritos, o de alguna otra profesión, o personas que tengan el carácter de autoridad fiscal, independientemente de las penas que les correspondan conforme al delito de que se trate en este Código, se les inhabilitará para ejercer su profesión o actividad, hasta por tres años, o definitivamente, según lo resuelva el Juez, conforme a las reglas generales establecidas en el Código Penal para el Estado de Veracruz.
+###### ARTICULO 104.
 
-###### Artículo 102.
+Se impondrá sanción de tres meses a tres años de prisión, a quien:
 
-Los servidores públicos a quienes se impute la comisión de un delito fiscal y estén sujetos a proceso, serán suspendidos en sus derechos laborales, a partir del momento en que se les dicte auto de formal prisión. Emitida la resolución del proceso penal y que haya causado estado, el superior jerárquico del inculpado procederá a:
+I.- Se atribuya como propias actividades ajenas ante el registro estatal de contribuyentes.
 
-I. Si resultare inocente, ordenar la restitución de sus derechos; o
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-II. Si resultare culpable, ordenar el cese definitivo y turnar el expediente a la autoridad competente para que determine su inhabilitación.
+II.- Expida, adquiera o enajene comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.
 
-###### Artículo 103.
+III.- (DEROGADA, P.O. 3 DE FEBRERO DE 2017)
 
-Se considera que hay tentativa en los delitos fiscales, cuando exista en el sujeto activo del delito intención dirigida a cometerlos y se exteriorice en un principio de ejecución o en la realización de actos que debieran producirlos, si no se consuma por causas ajenas a su voluntad.
-
-La tentativa se sancionará con prisión de hasta las dos terceras partes de la que corresponda por el delito de que se trate, si éste se hubiese consumado.
-
-Si el autor desistiere de la ejecución o impidiere la consumación del delito, no se le impondrá sanción alguna, a no ser que los actos ejecutados constituyan por sí mismos delito.
-
-###### Artículo 104.
-
-Para los efectos de este Código, se entenderá por delito continuado, aquel cuya acción se prolonga en el tiempo, con unidad de resolución, pluralidad de acciones y unidad de violación al bien jurídico tutelado.
-
-En el delito continuado, la sanción podrá aumentarse hasta por una mitad más de la que resulte aplicable al delito de que se trate.
+No se formulará querella, si quien encontrándose en el supuesto anterior informa del hecho a la autoridad fiscal.
 
 ### CAPÍTULO XII. DE LOS DERECHOS POR LOS SERVICIOS DEL REGISTRO CIVIL
 
-###### Artículo 105.
+###### ARTICULO 105.
 
-Existe reincidencia, cuando el sancionado por sentencia ejecutoria comete otro delito en materia fiscal municipal.
+Se impondrá sanción de tres meses a tres años de prisión, a quien:
 
-Al reincidente se le aplicará la sanción privativa de libertad que corresponda por el último delito cometido, la que podrá aumentarse hasta en tres años.
+I.- Registre sus operaciones contables, fiscales o sociales en dos o más libros o en dos o más sistemas de contabilidad con diferentes contenidos.
 
-###### Artículo 106.
+II.- Oculte, altere o destruya, total o parcialmente los sistemas y registros contables, así como la documentación relativa de los asientos respectivos, que conforme a las leyes fiscales esté obligado a llevar.
 
-Para los delitos señalados en este Título se aplicarán supletoriamente las disposiciones de los Códigos Penal y de Procedimientos Penales para el Estado de Veracruz.
+###### ARTICULO 106.
 
-###### Artículo 107.
+Se impondrá sanción de un mes a seis meses de prisión, al depositario o interventor designado por las autoridades fiscales, que con perjuicio del fisco disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de $500,000.00; cuando exceda de esa cantidad, la sanción será de seis meses a tres años de prisión.
 
-Las actas administrativas harán prueba plena en materia fiscal municipal, siempre que:
+###### ARTICULO 107.
 
-I. Sean elaboradas por autoridad fiscal competente;
+Se impondrá sanción de tres meses a tres años de prisión, al que dolosamente altere o destruya los aparatos de control, sellos o marcas oficiales colocados con fines fiscales o impida que se logre el propósito para el que fueron colocados.
 
-II. Intervengan, por lo menos, dos testigos de asistencia; y
-
-III. Se asiente la firma del interesado o se haga constar el motivo o la causa de su negativa a firmar; pero cuando resulte imposible localizar al interesado, se asentarán las razones y circunstancias que justifiquen la ausencia.
+Igual sanción se aplicará al que dolosamente altere o destruya las máquinas registradoras de operación de caja en las oficinas recaudadoras.
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
 ### CAPÍTULO XIII. DE LOS DERECHOS POR OCUPACIÓN DE INMUEBLES DEL DOMINIO PÚBLICO
 
-###### Artículo 108.
+###### ARTICULO 108.
 
-Los bienes muebles asegurados por la comisión de un delito fiscal, cuyo proceso hubiere concluido, se adjudicarán en forma definitiva a la Hacienda Pública Municipal, mediante resolución judicial, si después de un año, contado a partir del aseguramiento, no se reclamaren por quien tenga derecho para hacerlo.
+Se impondrá sanción de tres meses a tres años de prisión, a quien sin autorización de la Secretaría de Finanzas y Tesorería General del Estado:
 
-###### Artículo 109.
+I.- Grabe o manufacture matrices, punzones, dados, clichés o negativos, semejantes a los que la propia Secretaría use para imprimir, grabar o troquelar calcomanías, formas valoradas o numeradas, placas o tarjetones.
 
-Comete el delito de falsificación fiscal quien, con el fin de obtener un lucro o provecho, o para causar daño o perjuicio al erario municipal, falsifique o altere documentación oficial; en este caso, se le impondrán las sanciones siguientes:
+II.- Imprima, grabe o troquele calcomanías, formas valoradas o numeradas, placas o tarjetones semejantes a los que use la Secretaría de Finanzas y Tesorería General del Estado.
 
-I. De nueve meses a cuatro años de prisión, a quien falsifique sellos, contraseñas o marcas oficiales, firmas, rúbricas en forma total o parcial, grabe o manufacture, sin autorización de la autoridad fiscal, matrices, punzones, dados, clichés o negativos, semejantes a los que la propia autoridad usa para imprimir, grabar o troquelar comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medios de control fiscal;
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-II. De nueve meses a cuatro años de prisión, al que imprima, grabe o troquele, sin autorización de la autoridad fiscal, cédulas, licencias o comprobantes de pago de prestaciones fiscales u objetos que se utilicen como medios de control fiscal;
+III.- Utilice para beneficio propio o de terceros las calcomanías, formas valoradas o numeradas y tarjetones a que se refiere la fracción anterior.
 
-III. De nueve meses a tres años de prisión, al que altere en sus características las cédulas, licencias o comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medio de control fiscal; y
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-De seis meses a dos años de prisión y una multa de treinta a quinientos días de salario mínimo, a quien forme las cosas y objetos señalados en los incisos anteriores con los fragmentos de otros recortados o mutilados.
+IV.- Utilice las calcomanías, formas valoradas o numeradas, tarjetones u otros documentos emitidos o autorizados por la Secretaría de Finanzas y Tesorería General del Estado, para comprobar el cumplimiento de obligaciones que en realidad no fueron cumplidas.
 
-###### Artículo 110.
+###### ARTICULO 109.
 
-Comete el delito de defraudación fiscal quien, mediante engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución u obtenga o contribuya a obtener un beneficio indebido, en perjuicio del erario municipal, por alguno de los supuestos siguientes:
+Se impondrá sanción de tres meses a tres años de prisión, al que altere en su valor, en el año de emisión, en el resello, leyenda, o clase, calcomanías, permisos y autorizaciones, formas valoradas o numeradas, placas o tarjetones legalmente emitidos.
 
-I. Realizar actos simulados que tengan por objeto defraudar a la Hacienda Pública Municipal;
+###### ARTICULO 110.
 
-II. Consignar en las declaraciones ingresos o utilidades menores que los realmente obtenidos, o aplicar deducciones falsas;
-
-III. Proporcionar con falsedad a las autoridades fiscales, los datos que obren en su poder y que sean necesarios para determinar la producción, el ingreso gravable o las contribuciones que cause;
-
-IV. Ocultar a las autoridades fiscales, total o parcialmente, la producción sujeta a impuestos o el monto de las ventas;
-
-V. No expedir los documentos o comprobantes fiscales con los requisitos establecidos por las disposiciones aplicables para acreditar el pago de una contribución de esa naturaleza;
-
-VI. No enterar en tiempo y forma a las autoridades fiscales, las cantidades que hubiere retenido o recaudado de los contribuyentes, por concepto de contribuciones;
-
-VII. No mantener los registros de las operaciones contables, fiscales o sociales, conforme a las disposiciones legales aplicables;
-
-VIII. Destruir, ordenar o permitir la destrucción total o parcial de los registros contables que prevengan las leyes aplicables; y
-
-IX. Certificar hechos falsos o participar en cualquier forma en actos, manifestaciones o simulaciones que tengan por objeto engañar al Fisco Municipal.
-
-X. Utilizar sellos, documentación u otro medio de control fiscal falsificados o alterados; y
-
-XI. Permitir el uso de su nombre para manifestar negociaciones ajenas.
-
-El delito de defraudación fiscal se sancionará con pena de tres meses a cuatro años de prisión, si el monto de la prestación fiscal defraudada no excede de mil días de salario mínimo, y con prisión de un año a seis años, si dicho monto excede de esa cantidad.
-
-Cuando no se pueda determinar la cuantía del impuesto que se defraudó, la pena será de tres meses a seis años de prisión.
-
-No se procederá legalmente si quien hubiere cometido el delito entera espontáneamente la contribución omitida, con sus accesorios, antes de que la autoridad fiscal lo descubra.
-
-Para la aplicación de sanciones se tomará en cuenta el monto de las contribuciones defraudadas dentro de un mismo período fiscal, aun cuando se trate de contribuciones diferentes y de diversas acciones u omisiones.
+Las sanciones previstas en los dos artículos que preceden, se aplicarán aún cuando el autor del delito no se haya propuesto obtener algún beneficio.
 
 ### CAPÍTULO ÚNICO
 
-###### Artículo 111.
+###### ARTICULO 111.
 
-Comete el delito de ejercicio indebido de la función pública en materia fiscal, el servidor público que ordene o realice cualquier acto ilegal o deje de cumplir con los deberes de su encargo o función, en perjuicio del erario municipal, de los derechos de una persona física o moral o en beneficio propio o ajeno. Se impondrá prisión de:
-
-I. De tres meses a dos años, a quien:
-
-a) Practique visitas domiciliarias o embargos sin mandamiento escrito de autoridad fiscal competente.
-
-b) Al que proporcione información confidencial, o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión en perjuicio del erario municipal, con el propósito de obtener un lucro indebido en beneficio propio o ajeno.
-
-II. De dos años a seis años, a quien:
-
-a) Acepte como legales, documentos que presenten evidentes indicios de falsificación, con el propósito de realizar cualquier tipo de trámite del orden fiscal, incluso el de ostentar el pago de alguna prestación de ese carácter, sin que sea cierto.
-
-b) Reciba dádivas, exija gratificaciones, extorsione a los contribuyentes u obtenga otros lucros indebidos, con objeto de realizar algún trámite de carácter fiscal, en razón de su encargo o comisión.
-
-c) Imprima u ordene imprimir formas de control fiscal o emita u ordene la emisión de sellos o grabados, sin la debida autorización; o bien los posea, proporcione, utilice o comercie con ellos.
-
-Altere documentación oficial o expida una falsa en cualquier tipo de trámite del orden fiscal.
+Se impondrá sanción de tres meses a tres años de prisión, al particular o empleado público que, a sabiendas de que una forma valorada o numerada, una placa, tarjetón o cualquier otro medio de control fiscal fue falsificado, lo posea, venda, ponga en circulación, en su caso, adhiera en documentos, objetos o libros, para ostentar el pago de alguna prestación fiscal.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
 
-###### Artículo 112.
+###### ARTICULO 112.
 
-Se impondrá prisión de seis meses a tres años y se impondrá multa de treinta a quinientos días de salario mínimo, a quien entregue u ofrezca dinero o dádivas a los servidores públicos municipales, para incurrir en alguno de los delitos previstos por este Título.
+Se impondrá sanción de tres meses a tres años de prisión, a quien para pagar alguna prestación fiscal utilice una forma valorada o numerada, una placa, tarjetón o cualquier otro medio de control fiscal, a sabiendas de que fue manufacturado con fragmentos o recortes de otros o que sea falso.
 
-###### Artículo 113.
+###### ARTICULO 113.
 
-Es objeto del Impuesto Predial:
-
-I. La propiedad de predios urbanos, suburbanos o rurales ubicados en el Municipio;
-
-II. La posesión de predios urbanos, suburbanos o rurales ubicados en el Municipio, en términos del derecho común, la Ley de Catastro y su Reglamento; y
-
-III. La propiedad o posesión ejidal o comunal.
-
-El objeto del impuesto a que se refiere este artículo incluye la propiedad o posesión de las construcciones permanentes edificadas sobre los predios; tratándose de predios rurales, el objeto del impuesto incluye solamente la propiedad o posesión de las construcciones permanentes que no sean utilizadas directamente con fines agrícolas, ganaderos o forestales.
+Se impondrá sanción de tres meses a tres años de prisión, a quien para pagar alguna prestación fiscal utilice una forma valorada o numerada, una placa, tarjetón o cualquier otro medio de control fiscal, a sabiendas que es falso.
 
 # LIBRO TERCERO. DE LOS INGRESOS MUNICIPALES
 
@@ -7292,189 +6280,229 @@ El objeto del impuesto a que se refiere este artículo incluye la propiedad o po
 
 ### CAPÍTULO II. DE LOS PAGOS Y MINISTRACIONES
 
-###### Artículo 114.
+###### ARTICULO 114.
 
-Son sujetos del Impuesto Predial:
+Se impondrá la misma sanción prevista en el artículo anterior, a quien manufacture, venda, ponga en circulación o en alguna otra forma comercie con los objetos descritos en el numeral anterior.
 
-I. Los propietarios o poseedores de predios urbanos, suburbanos o rurales;
+###### ARTICULO 115.
 
-II. Los propietarios o poseedores de predios ejidales o comunales;
+Contra los actos administrativos dictados en materia fiscal, se podrá interponer el recurso de revocación.
 
-III. Los copropietarios y los coposeedores;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-IV. Los nudopropietarios, los titulares de certificados de vivienda y de participación inmobiliaria; y
-
-El fideicomitente y, en su caso, el fiduciario, en tanto no le transmitan la propiedad del predio al fideicomisario o a otras personas, en cumplimiento al contrato de fideicomiso.
-
-###### Artículo 115.
-
-Son sujetos con responsabilidad solidaria los siguientes:
-
-I. La persona o personas, cualquiera que sea el nombre con que se les designe, que tengan conferida la dirección general, la gerencia general, o la administración única, interventor o liquidador de una persona moral;
-
-II. Los integrantes de los órganos de representación ejidal o comunal;
-
-III. Tratándose de copropietarios, coposeedores y nudopropietarios, cualquiera de ellos responderá del monto total del adeudo del crédito fiscal y sus accesorios.
-
-Lo dispuesto en esta fracción no es aplicable a los condóminos ni a los usuarios de tiempos compartidos;
-
-IV. Los representantes legales de sociedades, asociaciones civiles y comunidades, respecto de los impuestos a cargo de sus representadas, cuando tengan facultades para actos de administración;
-
-V. Los albaceas de la sucesión, hasta en tanto no se adjudiquen los bienes a los herederos;
-
-VI. Las instituciones fiduciarias, en los casos de la fracción V del artículo anterior de este Código; y
-
-VII. Los usufructuarios.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
 
-###### Artículo 116.
+###### ARTICULO 116.
 
-Son base del Impuesto Predial, los valores catastrales o catastrales provisionales que se determinen conforme a la Ley de Catastro.
+El recurso de revocación procederá contra:
 
-Dichos valores se modificarán cuando se dé cualquiera de los supuestos que señala el artículo 38 de la Ley de Catastro.
+I.- Las resoluciones definitivas dictadas por autoridades fiscales que:
 
-Cuando se determine o modifique el monto de la base gravable en términos de la Ley de Catastro, esta base surtirá sus efectos para cálculo del impuesto a partir del mes siguiente a aquel en que ocurran estos supuestos. En este caso, la Tesorería formulará y notificará al contribuyente las liquidaciones de las diferencias del impuesto a enterar que resulten del cambio de base, proporcionalmente a los meses que falten por transcurrir hasta el fin del ejercicio fiscal.
+a) Determinen contribuciones, accesorios o aprovechamientos;
 
-Para los efectos de aplicación de este impuesto se estará a la clasificación de predios y construcciones que establece la Ley de Catastro, su Reglamento y las Tablas de Valores Unitarios autorizadas.
+b) Nieguen la devolución de cantidades que procedan conforme a la Ley; y
 
-Los valores que sirven de base gravable del impuesto se actualizarán para cada ejercicio fiscal, de acuerdo a la tabla de valores unitarios de suelo y construcciones que autorice el Congreso. Las tasas o tarifas para el cobro de este impuesto se aplicarán a los valores mencionados.
+c) Cualquier resolución de carácter definitivo que cause agravio al particular en materia fiscal, salvo aquella a que se refiere el artículo 74 de este Código.
 
-Cuando se hubieren establecido bases provisionales para determinar el monto del impuesto, al aplicar la base definitiva se cobrarán o reintegrarán las diferencias que resulten.
+II.- Los actos de autoridades fiscales que:
 
-En los casos de predios que no hubieren tenido modificaciones físicas no procederá el cobro de diferencias de años anteriores, cuando éstas sean consecuencia de la actualización del valor catastral o catastral provisional, que resulte de la valuación en que se utilicen sistemas fotogramétricos digitales para elaborar la cartografía. El nuevo valor surtirá efectos a partir del mes siguiente al de su notificación.
+a) Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la oficina ejecutora o se refiera a recargos, gastos de ejecución o a la indemnización a que se refiere el artículo 22 de este Código.
 
-Para efectos de este impuesto, en los predios objeto de fraccionamiento, el nuevo valor generado por la introducción de obras de urbanización se considerará a partir de la conclusión de éstas.
+b) Se dicten en el procedimiento administrativo de ejecución, cuando se alegue, que éste no se ha ajustado a la ley.
+
+c) Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 127 de este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ### CAPÍTULO IV. DE LAS GARANTÍAS A FAVOR O A CARGO DEL MUNICIPIO
 
-###### Artículo 117.
+###### ARTICULO 117.
 
-El Impuesto Predial se causará anualmente y se liquidará y pagará conforme a la tasa que sobre la base gravable autorice el Congreso en la Ley de Ingresos del Municipio para el ejercicio fiscal de que se trate.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2009)
 
-###### Artículo 118.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-El pago del Impuesto Predial será semestral y se realizará dentro de los meses de enero y julio de cada año, en la Tesorería u oficinas autorizadas.
+###### ARTICULO 118.
 
-Los sujetos de este impuesto que opten por el pago anual podrán efectuarlo en el mes de enero, en una sola exhibición y, en este caso, obtendrán un descuento del veinte por ciento, incluidos quienes paguen la cuota mínima. Este plazo podrá prorrogarse hasta el día último del mes de febrero, por acuerdo del Cabildo, el que se comunicará al Congreso.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2009)
 
-###### Artículo 119.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-Están exentos del pago del Impuesto Predial, los bienes del dominio público de la Federación, del Estado y de los Municipios.
+###### ARTICULO 119.
 
-###### Artículo 120.
+La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal de Justicia Administrativa del Estado. Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que corresponda.
 
-Cuando la Tesorería advierta que un inmueble ha salido del dominio público de la Federación, del Estado o de los Municipios, ordenará el cobro de los impuestos cuyo pago se hubiese omitido, incluidos los recargos, multas y accesorios que procedan.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-###### Artículo 121.
+###### ARTICULO 120.
 
-Los contribuyentes del impuesto predial que sean pensionados o jubilados y, en caso de fallecimiento de éstos, la viuda o concubina legalmente reconocida, tendrán derecho a un descuento del cincuenta por ciento del importe anual a pagar, previa acreditación fehaciente de los supuestos respectivos y de encontrarse al corriente en el pago de este impuesto. Esta prerrogativa se aplicará únicamente a un inmueble, siempre que se trate de la casa habitación del contribuyente y el pago se realice durante los meses de enero o febrero del ejercicio correspondiente.
+El escrito de interposición del recurso deberá presentarse ante la autoridad que emitió o ejecutó el acto impugnado, dentro de los treinta días siguientes a aquel en que haya surtido efectos su notificación.
 
-Las personas mayores de sesenta años, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de seis mil salarios mínimos.
+Si el particular tiene su domicilio fuera de la población en que radique la autoridad que emitió o ejecutó el acto impugnado, el escrito de interposición del recurso podrá presentarse en la oficina exactora más cercana a dicho domicilio.
 
-A este descuento no se podrá adicionar el previsto en el artículo 118 de este Código.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-###### Artículo 122.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
-El impuesto anual a pagar no podrá ser menor a tres salarios mínimos, excepto lo dispuesto por el artículo 118 de este Código.
+Si el particular afectado por un acto o resolución administrativa fallece durante el plazo a que se refiere este artículo, se suspenderá hasta por un año, si antes no se hubiere aceptado el cargo de representante de la sucesión.
 
-El pago de este impuesto se considerará definitivo, salvo prueba en contrario.
+###### ARTICULO 121.
 
-###### Artículo 123.
+El escrito de interposición del recurso deberá satisfacer los requisitos del artículo 19 de este Código y señalar además:
 
-En los casos de predios no registrados en el padrón factura de la Tesorería, por causa imputable al sujeto del Impuesto, se fincará liquidación presuntiva y se requerirá su pago por los cinco años anteriores a la fecha de la detección de la omisión y la tasa que se aplicará será la vigente en cada uno de los ejercicios omitidos. Tratándose de construcciones no manifestadas, si no se pudiera fijar con precisión la fecha desde la cual se omitió el aviso correspondiente, se hará el cobro del impuesto por los cinco años anteriores a la fecha del descubrimiento de la ocultación, salvo prueba en contrario.
+I.- El acto que se impugna.
 
-###### Artículo 124.
+II.- Los agravios que le cause el acto impugnado.
 
-Las manifestaciones y avisos que los particulares y Notarios Públicos, éstos en el ejercicio de sus funciones, deban realizar para efectos de este impuesto, se harán en las formas oficiales autorizadas y se presentarán acompañando los documentos o planos que en la misma se exijan ante la Tesorería.
+III.- Las pruebas y los hechos controvertidos de que se trate.
+
+Cuando no se haga alguno de los señalamientos anteriores, la autoridad fiscal requerirá al promovente para que en el plazo de cinco días los indique. En caso de incumplimiento, se tendrá por no presentado el recurso.
+
+Cuando no se gestione en nombre propio, la representación de los interesados deberá recaer en licenciado en derecho. No será aplicable lo dispuesto en este párrafo si la gestión se realiza en nombre de una persona moral en los términos de la ley que la regula y conforme a sus estatutos, sin perjuicio de lo que disponga la legislación de profesiones.
+
+###### ARTICULO 122.
+
+El promovente deberá acompañar al escrito en que se interponga el recurso:
+
+I.- Los documentos que acrediten su personalidad cuando actúe en nombre de otro o de personas morales.
+
+II.- El documento en que conste el acto impugnado.
+
+III.- Constancia de notificación del acto impugnado, excepto cuando el promovente declare bajo protesta de decir verdad que no recibió constancia o cuando la notificación se haya practicado por correo certificado con acuse de recibo o se trate de negativa ficta. Si la notificación fue por edictos, deberá señalar la fecha de la última publicación y el órgano en que ésta se hizo.
+
+IV.- Las pruebas documentales que ofrezca y el dictamen pericial, en su caso.
+
+Cuando las pruebas documentales no obren en poder del recurrente, si éste no hubiere podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la autoridad fiscal requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos, y, tratándose de los que pueda tener a su disposición, bastará con que acompañe la copia sellada de la solicitud de los mismos. Se entiende que el recurrente tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias de éstos.
+
+La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren en el expediente en que se haya originado el acto impugnado, siempre que el interesado no hubiere tenido oportunidad de obtenerlas.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+
+En el caso de que no se acompañen al escrito de interposición del recurso los documentos a que se refiere la fracción IV de este artículo, se tendrán por no ofrecidas las pruebas respectivas. Cuando no se acompañen alguno de los documentos a que se refieren las demás fracciones de este precepto, la autoridad fiscal requerirá al promovente para que en el plazo de cinco días los presente, su falta de presentación dará lugar a que se tenga por no interpuesto el recurso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+Los documentos a que se refieren las fracciones anteriores, podrán presentarse en fotocopia simple, siempre que obren en poder del recurrente los originales. En caso de que presentándolos en esta forma la autoridad tenga indicios de que no existen o son falsos, podrá exigir al contribuyente la presentación del original o copia certificada.
+
+###### ARTICULO 123.
+
+Es improcedente el recurso cuando se haga valer contra actos administrativos:
+
+I.- Que no afecten el interés jurídico del recurrente.
+
+II.- Que sean resoluciones dictadas en recursos administrativos o en cumplimiento de éstos o de sentencias.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+III.- Que hayan sido impugnados ante el Tribunal de Justicia Administrativa del Estado.
+
+IV.- Que se hayan consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto.
+
+V.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+VI.- Si son revocados los actos por la autoridad.
+
+VII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2017)
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 123 Bis.
+
+Procede el sobreseimiento del recurso en los casos siguientes:
+
+I.- Cuando el promovente se desista expresamente de su recurso.
+
+II.- Cuando durante el procedimiento en que se substancie el recurso administrativo, sobrevenga alguna de las causas de improcedencia a que se refiere el artículo 123 de este Código.
+
+III.- Cuando de las constancias que obran en el expediente administrativo quede demostrado que no existe el acto o resolución impugnada.
+
+IV.- Cuando hayan cesado los efectos del acto o resolución impugnada.
+
+###### ARTICULO 124.
+
+El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Tribunal de Justicia Administrativa del Estado. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro, a excepción de las resoluciones dictadas en cumplimiento de las emitidas en el recurso de revocación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO V. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
 
-###### Artículo 125.
+###### ARTICULO 125.
 
-Cuando en las manifestaciones o avisos, que deban presentarse conforme a lo dispuesto en este capítulo, no se expresen los datos o no se acompañen los documentos o planos, las autoridades fiscales requerirán al contribuyente para que, en un plazo de cinco días, corrija la omisión, apercibiéndolo que de no hacerlo se le impondrán las sanciones que procedan.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2009)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO VI. DE LA COLABORACIÓN ADMINISTRATIVA
 
-###### Artículo 126.
+###### ARTÍCULO 126.
 
-Para efectuar por primera vez el pago de este impuesto o cuando exista modificación del valor con motivo de la revaluación del predio, los interesados deberán presentar en la Tesorería, la cédula catastral o, en su caso, la notificación correspondiente.
+Cuando el recurso de revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la Ley, las violaciones cometidas antes del remate, sólo podrán hacerse valer ante la autoridad recaudadora hasta el momento de la publicación de la convocatoria de remate, y dentro de los diez días siguientes a la fecha de publicación de la citada convocatoria, salvo que se trate de actos de ejecución sobre dinero en efectivo, depósitos en cuenta abierta en instituciones de crédito, organizaciones auxiliares de crédito o sociedades cooperativas de ahorro y préstamo, así como de bienes legalmente inembargables o de actos de imposible reparación material, casos en que el plazo para interponer el recurso se computará a partir del día hábil siguiente al en que surta efectos la notificación del requerimiento de pago o del día hábil siguiente al de la diligencia de embargo.
+
+Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria o se trate de venta de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
 ### CAPÍTULO I. DEL PRESUPUESTO DE EGRESOS
 
-###### Artículo 127.
+###### ARTICULO 127.
 
-Los sujetos del impuesto están obligados a manifestar a la Tesorería los cambios de domicilio, dentro de los treinta días siguientes al en que se efectúen. Si no lo hicieren, se tendrá como domicilio, para todos los efectos legales, el que hubieren señalado anteriormente o, en su defecto, el predio mismo.
+El tercero que afirme ser propietario de los bienes o negociaciones, o titular de los derechos embargados, podrá hacer valer el recurso de oposición al procedimiento administrativo de ejecución en cualquier tiempo antes de que se finque el remate, se enajenen fuera del remate o se adjudiquen los bienes a favor del fisco estatal. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales estatales, lo hará valer en cualquier tiempo antes de que se haya aplicado el importe del remate a cubrir el crédito fiscal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 ### CAPÍTULO II. DEL GASTO PÚBLICO
 
-###### Artículo 128.
+###### ARTICULO 128.
 
-La Tesorería tendrá acción real para el cobro del impuesto predial y de las prestaciones accesorias a éste.
-
-En consecuencia, el procedimiento administrativo de ejecución, que establece el Código de la materia, afectará directamente los predios y a quien resulte ser el propietario, nudopropietario, copropietario, poseedor o coposeedor.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2017)
 
 ### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LOS RECURSOS
 
-###### Artículo 129.
+###### ARTICULO 129.
 
-Los Notarios Públicos, para autorizar la expedición del título en forma definitiva, en que se hagan constar contratos y resoluciones judiciales o administrativas, cuyo objeto sean predios ubicados en el Municipio, exigirán la constancia de no adeudo en el pago de este impuesto y la última boleta o recibo de pago, correspondiente al ejercicio fiscal en que se efectúe la operación.
+En el recurso de revocación se admitirán toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades fiscales, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
 
-###### Artículo 130.
+Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
 
-Es objeto de este Impuesto, la adquisición de bienes inmuebles, que consistan en el suelo o en éste y las construcciones adheridas al mismo, ubicados en el Municipio.
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+
+Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos; pero si en estos últimos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
+
+Las demás pruebas quedarán a la prudente apreciación de la autoridad.
+
+Si por el enlace de las pruebas rendidas y de las presunciones formadas, la autoridad adquiere convicción distinta acerca de los hechos materia del recurso, podrá valorar las pruebas sin sujetarse a lo dispuesto en este artículo, debiendo en ese caso fundar razonadamente esta parte de su resolución.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 130.
+
+La autoridad deberá dictar resolución y notificarla en un término que no excederá de tres meses contados a partir de la fecha de interposición del recurso o de la fecha en que se haya satisfecho la prevención para que se corrija o complete el recurso intentado. El silencio de la autoridad significará que se ha confirmado el acto impugnado.
+
+El recurrente podrá decidir esperar la resolución expresa o impugnar hasta antes de su notificación la presunta confirmación del acto impugnado.
 
 ### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
 
-###### Artículo 131.
+###### ARTICULO 131.
 
-Para los efectos de este capítulo se entiende por adquisición de bienes inmuebles, la que se derive de:
+La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios; pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto.
 
-I. Todo acto por el que se transmita la propiedad de bienes inmuebles, la que ocurra por causa de fallecimiento y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, así como al cambiar las capitulaciones matrimoniales, siempre que sean inmuebles de los copropietarios o de los cónyuges;
+La resolución expresará con claridad los actos que se modifiquen y si la modificación es parcial, se indicará el monto del crédito fiscal correspondiente.
 
-II. La compraventa de bienes inmuebles, incluso, hecha con reserva de dominio o sujeta a condición;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-III. La cesión de derechos de bienes inmuebles;
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
-IV. La constitución, fusión y escisión de las sociedades, cuando a través de ellas se realice la transmisión de dominio de bienes inmuebles, incluso en los casos siguientes:
-
-a) En escisión aun cuando los accionistas propietarios de las acciones con derecho a voto, de la sociedad escindente y de las escindidas, sean los mismos.
-
-b) En fusión aun cuando los accionistas propietarios de las acciones con derecho a voto de la sociedad que surge con motivo de la misma, no las enajenen.
-
-Para los efectos de esta fracción no se considerarán como acciones con derecho a voto, aquellas que lo tengan limitado y las que en los términos de la legislación mercantil se denominen como acciones de goce; tratándose de sociedades que no sean por acciones, se considerarán las partes sociales en vez de las acciones con derecho a voto, siempre que lo tengan limitado;
-
-V. Las aportaciones en especie para la constitución, aumento o disminución de capital, pago en especie de remanentes, utilidades o dividendos y la adjudicación por liquidación de asociaciones o sociedades civiles o mercantiles, cuando a través de ellas se realice transmisión de dominio de bienes inmuebles y sobre el valor de éstos;
-
-VI. La constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción de usufructo temporal;
-
-VII. La prescripción positiva y la información ad perpetuam, en los términos que establecen los Códigos Civil y de Procedimientos Civiles para el Estado de Veracruz;
-
-VIII. La adjudicación de bienes inmuebles, derivada de remate judicial o administrativo, excepto la adjudicación en materia laboral;
-
-IX. La readquisición de la propiedad de bienes inmuebles, a consecuencia de la extinción o la rescisión voluntaria del contrato;
-
-X. La adjudicación por cesión, aportación o cualesquiera otra forma de transmisión de derechos hereditarios sobre bienes inmuebles;
-
-XI. La permuta de bienes inmuebles;
-
-XII. La donación de bienes inmuebles;
-
-XIII. La transmisión de la propiedad a través de fideicomiso.
-
-Para los efectos de este impuesto, se considera que existe transmisión de la propiedad de bienes inmuebles a través de fideicomiso:
-
-a) En el acto de la constitución del fideicomiso si se designa fideicomisario diverso del fideicomitente y siempre que éste no tenga derecho a readquirir del fiduciario los bienes;
-
-b) En el acto en que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si al constituirse el fideicomiso, se hubiera establecido tal derecho; y
-
-c) En el acto de designar fideicomisario, si éste no se designó al constituirse el fideicomiso, siempre que dicha designación no recaiga en el propio fideicomitente;
-
-XIV. La cesión de derechos de fideicomitentes o fideicomisarios cuando se hayan afectado bienes inmuebles. Se considera que existe ésta cuando haya substitución de un fideicomitente o de un fideicomisario, por cualquier motivo; y
-
-XV. La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía de la porción que correspondía al copropietario o cónyuge.
-
-El Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, se causará en toda operación traslativa de dominio, aun cuando ésta no se inscriba en el Registro Público de la Propiedad.
+La autoridad podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso. Igualmente podrá revocar los actos administrativos cuando advierta una ilegalidad manifiesta y los agravios sean insuficientes, pero deberá fundar cuidadosamente los motivos por los que consideró ilegal el acto y precisar el alcance de su resolución.
 
 ###### Art. 136.
 
@@ -7640,43 +6668,65 @@ D.O.F. 27 DE ABRIL DE 1933.
 
 ###### ARTICULO UNICO.
 
-Esta Ley comenzará a regir desde la fecha de su publicación en el "Diario Oficial."
+El presente Decreto entrará en vigor el día 1o. de Enero de 1999.
 
-D.O.F. 29 DE ABRIL DE 1933.
+P.O. 31 DE DICIEMBRE DE 1999.
 
-###### ARTICULO UNICO.
+Artículo Único.- El presente Decreto entrará en vigor el día 1o. de Enero del año 2000.
 
-En las próximas elecciones ordinarias de Poderes Federales, se elegirán Senadores de número par por un período de seis años; en el año de 1936 deberán verificarse elecciones extraordinarias de Senadores de número impar, para un período de cuatro años, y en el año de 1940 se verificarán elecciones ordinarias de la totalidad de los miembros del Senado de la República.
+P.O. 29 DE DICIEMBRE DE 2000.
 
-D.O.F. 4 DE NOVIEMBRE DE 1933.
+###### ARTÍCULO ÚNICO.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+El presente Decreto entrará en vigor el 1o. de Enero del año 2001.
 
-D.O.F. 10 DE ENERO DE 1934.
+P.O. 27 DE DICIEMBRE DE 2001
 
-UNICO.- Se abroga la Ley de 6 de enero de 1915, sus reformas y demás disposiciones legales que se opongan a la vigencia de la presente reforma.
+Artículo Único.- El presente Decreto entrará en vigor el 1° de enero del año 2002.
 
-D.O.F. 18 DE ENERO DE 1934.
+P.O. 27 DE DICIEMBRE DE 2002.
 
-DECRETO QUE REFORMA EL ARTICULO 42.
+Artículo Único.- El presente Decreto entrará en vigor el día 1° de Enero del año 2003.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+P.O. 26 DE DICIEMBRE DE 2003.
 
-D.O.F. 18 DE ENERO DE 1934.
+Artículo Único.- El presente Decreto entrará en vigor el 1° de enero del año 2004.
 
-DECRETO QUE REFORMA LOS ARTICULOS 30, 37, 73, FRACCION XVI Y 133.
+P.O. 27 DE DICIEMBRE DE 2005.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+Artículo Primero.- El presente Decreto entrará en vigor el 1º de enero del año 2006.
 
-D.O.F. 18 DE ENERO DE 1934.
+Artículo Segundo.- Los procedimientos promovidos con anterioridad al inicio de la vigencia del presente Decreto se regirán por la legislación que se encontraba en vigor a la fecha de su promoción.
 
-DECRETO QUE REFORMA LA FRACCION X DEL ARTICULO 73.
+P.O. 16 DE OCTUBRE DE 2006.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-D.O.F. 18 DE ENERO DE 1934.
+P.O. 31 DE DICIEMBRE DE 2006.
 
-DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 104.
+Artículo Único.- El presente Decreto entrará en vigor el 1º de enero del año 2007.
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2008.
+
+P.O. 25 DE SEPTIEMBRE DE 2009.
+
+Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2009.
+
+Único.- El presente Decreto entrará en vigor el día 1° de enero de 2010.
+
+P.O. 17 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor el 1° de Enero del año 2011.
+
+P.O. 31 DE DICIEMBRE DE 2012.
+
+Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2013.
+
+P.O. 30 DE DICIEMBRE DE 2015.
 
 ###### ARTICULO UNICO.
 
@@ -7696,25 +6746,21 @@ D.O.F. 15 DE DICIEMBRE DE 1934.
 
 DECRETO QUE REFORMA EL ULTIMO PARRAFO DE LA BASE 4ª DE LA FRACCION VI DEL ARTICULO 73, EL ARTICULO 94 Y LAS FRACCIONES II Y III DEL ARTICULO 95.
 
-###### ARTICULO PRIMERO.
+###### ARTICULO PRIMERO
 
-La presente reforma entrará en vigor el día 15 de diciembre del año en curso.
+- Este código entrará en vigor el día 1o. de Enero de 1985, previa su publicación en el Periódico Oficial del Estado.
 
-###### ARTICULO SEGUNDO.
+###### ARTICULO SEGUNDO
 
-Los ministros de la Suprema Corte de la Nación y los magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales, actualmente en ejercicio, cesarán en sus encargos el día 31 de diciembre del año en curso.
+- A partir de la entrada en vigor de este código, se abroga el Código Fiscal del Estado de fecha 1o. de Enero de 1956.
 
-###### ARTICULO TERCERO.
+###### ARTICULO TERCERO
 
-Los ministros de la Suprema Corte de Justicia y los magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales que sean designados de acuerdo con la presente reforma, tomarán posesión el día 1º de enero del próximo año de 1935.
+- Las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieren otorgado a título particular, que contravengan o se opongan a lo preceptuado en este Código, quedan sin efectos.
 
-###### ARTICULO CUARTO.
+###### ARTICULO CUARTO
 
-La Suprema Corte de Justicia de la Nación designará a los nuevos magistrados de Circuito y jueces de Distrito, dentro de los diez primero días del mes de enero de 1935. Asimismo, el Tribunal Superior de Justicia del Distrito y Territorios Federales designará a los nuevos jueces del fuero común del Distrito y Territorios Federales dentro del mismo plazo.
-
-D.O.F. 15 DE DICIEMBRE DE 1934.
-
-DECRETO QUE REFORMA EL ARTICULO 32.
+- Las solicitudes de devolución formuladas con anterioridad a la vigencia de este Código, causarán por las cantidades correspondientes, de ser procedente su devolución, a partir de la entrada en vigor del presente ordenamiento, los intereses que el mismo señala.
 
 ###### ARTICULO 1o.
 
@@ -7812,19 +6858,13 @@ D.O.F. 21 DE SEPTIEMBRE DE 1944.
 
 ###### ARTICULO PRIMERO.
 
-Dentro de los treinta días siguientes al en que entre en vigor esta reforma constitucional, el C. Presidente de la República hará, en los términos de la misma reforma, el nombramiento de los Ministros y Magistrados que deberán integrar la Suprema Corte de Justicia y el Tribunal Superior de Justicia del Distrito y Territorios Federales.
+El presente Decreto entrará en vigor el día 1o. de Enero de 1987.
 
 ###### ARTICULO SEGUNDO.
 
-La Suprema Corte y el Tribunal Superior de Justicia del Distrito y Territorios Federales harán, respectivamente, las designaciones de los funcionarios inamovibles a que se refiere esta ley, dentro del término de treinta días, que se contarán a partir de la fecha en que tales cuerpos judiciales queden constituídos con arreglo al artículo anterior.
+Se derogan todas las disposiciones que contravengan a lo preceptuado en el presente Decreto.
 
-D.O.F. 21 DE ABRIL DE 1945.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 30 DE DICIEMBRE DE 1946.
-
-DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 104.
+P.O. 30 DE DICIEMBRE DE 1987.
 
 ###### ARTICULO UNICO.
 
@@ -7853,3 +6893,175 @@ D.O.F. 12 DE FEBRERO DE 1947.
 DECRETO QUE ADICIONA EL PARRAFO PRIMERO DE LA FRACCION I DEL ARTICULO 115.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor el 1o. de Enero de 1988.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan todas las disposiciones, leyes y reglamentos que se opongan al contenido del presente Decreto.
+
+###### ARTICULO TERCERO
+
+- Con motivo de la reforma efectuada al artículo 28 de la Constitución Política del Estado, deberá entenderse que las disposiciones fiscales y administrativas de la Entidad que mencionan al Municipio de Garza García, se refieren al Municipio de San Pedro Garza García.
+
+P.O. 29 DE DICIEMBRE DE 1989.
+
+UNICO.- La presente Ley entrará en vigor el día 1º de Enero de 1990.
+
+P.O. 5 DE JULIO DE 1991.
+
+###### ARTICULO CUARTO
+
+- Todos los juicios en trámite en el Tribunal Fiscal del Estado se resolverán de acuerdo con el Código Fiscal del Estado o de este Código si las partes interesadas se someten al mismo.
+
+P.O. 30 DE DICIEMBRE DE 1992.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1º de Enero de 1993.
+
+SEGUNDO:- Cuando con anterioridad al primero de Enero de 1993 se hubieran causado recargos sobre créditos fiscales no pagados o intereses a cargo del fisco estatal o municipal sobre cantidades que se deban devolver, que hubieren alcanzado el 100% o el 200% del importe de dichas contribuciones o cantidades a devolver, según sea el caso, para los efectos de la aplicación del segundo párrafo del artículo 22, a partir de la fecha mencionada se reanudará la causación de recargos o intereses sobre las mismas conforme al Código Fiscal del Estado, aún cuando excedan del porcentaje mencionado.
+
+P.O. 31 DE DICIEMBRE DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor el día 1º de Enero de 1994.
+
+P.O. 30 DE DICIEMBRE DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de Enero de 1995.
+
+P.O. 29 DE DICIEMBRE DE 1995.
+
+###### ARTICULO QUINTO
+
+- Las infracciones cometidas durante la vigencia del Código que se abroga, se sancionarán en los términos preceptuados por el mismo, a menos que el interesado manifieste su voluntad de acogerse al presente Código por estimarlo más favorable a sus intereses.
+
+###### ARTICULO SEXTO
+
+- La interposición de los recursos administrativos o del juicio contencioso administrativo a que se refiere este código, en contra de los actos que hubieren sido notificados con anterioridad al 31 de Diciembre de 1984, podrán hacerse valer conforme los plazos señalados en este ordenamiento, a partir de la fecha en que surtió efectos la notificación respectiva, siempre y cuando no hubiere vencido el plazo para su interposición de acuerdo a lo previsto en el ordenamiento que se abroga.
+
+###### ARTICULO SEPTIMO
+
+- Los recursos administrativos interpuestos hasta el 31 de Diciembre de 1984, se tramitarán y resolverán de conformidad con lo dispuesto por el Código del 1o. de Enero de 1956.
+
+###### ARTICULO OCTAVO
+
+- Los juicios contenciosos administrativos que se hubieren interpuesto antes de la entrada en vigor de este Código, se tramitarán y resolverán de conformidad con las disposiciones del Código anterior.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO NOVENO
+
+- Cuando hasta el 31 de diciembre de 1986 se hubieren generado recargos sobre contribuciones o productos estatales o municipales insolutos, o sobre obligaciones a cargo del fisco, y dichos recargos hayan alcanzado el 100% o menos del importe de la obligación principal; a partir del 1o. de enero de 1987 se reanudará o continuará la causación de los mismos, en los términos y condiciones previstos en las leyes vigentes en la Entidad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+
+###### ARTICULO PRIMERO
+
+- El presente Código entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Se deroga el Título Sexto del Código Fiscal del Estado, así como las demás disposiciones legales que se opongan al presente Código.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1o. de Enero de 1996.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de lo dispuesto en el artículo 18 Bis del Código Fiscal del Estado, a fin de proceder a la actualización de contribuciones y devoluciones a partir del año de 1996 y que fueron exigibles con anterioridad a dicho año, se considerará como mes más antiguo del período el de enero de 1996.
+
+P.O. 27 DE DICIEMBRE DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de Enero de 1997.
+
+P.O. 29 DE DICIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de Enero de 1998.
+
+P.O. 30 DE DICIEMBRE DE 1998.
+
+###### ARTICULO TERCERO
+
+- Se dejan a salvo los derechos laborales del personal que trabaja en el Tribunal Fiscal del Estado. En lo que hace al mobiliario y demás activo del Tribunal de referencia, pasará a disposición del Tribunal de lo Contencioso Administrativo que se está creando.
+
+###### ARTICULO DECIMO
+
+- Los contribuyentes que a partir de 1988 cubran espontáneamente adeudos fiscales cuyos recargos hubieren excedido del límite previsto en el último párrafo del artículo 22 de este Código, les será aplicable lo dispuesto en dicho párrafo y, por lo tanto, los recargos no excederán del 100% de las contribuciones omitidas.
+
+Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
+
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital a los veintiséis días del mes de noviembre de mil novecientos ochenta y cuatro.- PRESIDENTE: DIP. VALENTIN TAMEZ ENRIQUEZ; DIP. SECRETARIO: RENE ALVAREZ MENDOZA; DIP. SECRETARIO: Por M. de Ley: ELIAS ZUÑIGA GUTIERREZ.- RUBRICAS.
+
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo, en Monterrey Capital del Estado de Nuevo León, a los veintisiete días del mes de noviembre de mil novecientos ochenta y cuatro.
+
+EL GOBERNADOR DEL ESTADO
+
+ALFONSO MARTINEZ DOMINGUEZ
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+GRACIANO BORTONI URTEAGA
+
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+
+EL SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
+
+VICTOR GOMEZ GARZA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 1986.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 038. SE REFORMAN LOS ARTÍCULOS 126, PRIMER PÁRRAFO, Y 137, Y SE ADICIONA LOS ARTÍCULOS 27, CON UN TERCER PÁRRAFO, 48, CON UNA FRACCIÓN VII, 48 BIS, CON LAS FRACCIONES V Y VI Y 104, CON LA FRACCIÓN II; TODOS DEL CÓDIGO FISCAL DEL ESTADO”.]
+
+Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2016.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 184. SE REFORMA EL CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN, EN SUS ARTÍCULOS 10, SEGUNDO PÁRRAFO, 34, PRIMER PÁRRAFO, 42, PRIMER PÁRRAFO; SE ADICIONA EN SUS ARTÍCULOS 34, CON UN SEGUNDO PÁRRAFO, 42, CON UNA FRACCIÓN III, PASANDO LA ACTUAL III A SER IV, Y CON LOS PÁRRAFOS SEGUNDO Y TERCERO, CON UN ARTÍCULO 42 BIS, Y 44, CON UNA FRACCIÓN VIII, CON UN ARTÍCULO 51 BIS, CON UN ARTÍCULO 54, 104, CON UNA FRACCIÓN III Y CON UN ARTÍCULO 132 BIS; Y SE DEROGA EN SUS ARTÍCULOS 123, FRACCIÓN VII Y 128".]
+
+Primero.- El presente Decreto entrara en vigor el día 1° de enero del año 2017.
+
+> <small>(F. DE E., P.O. 25 DE ENERO DE 2017)</small>
+
+Segundo.- La Secretaria de Finanzas y Tesorería General del Estado contará con un plazo de un año para emitir las Reglas Generales a que se refiere el artículo 132 BIS del Código Fiscal del Estado.
+
+P.O. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 230. SE REFORMA EL ARTÍCULO 128; SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 123; SE DEROGAN, LA FRACCIÓN III Y EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 42; EL ARTÍCULO 42 BIS; LA FRACCIÓN VIII DEL ARTÍCULO 44; EL ARTÍCULO 51 BIS; EL ARTÍCULO 54; LA FRACCIÓN III DEL ARTÍCULO 104 Y EL ARTÍCULO 132 BIS TODOS DEL CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 330. SE MODIFICAN LOS ARTÍCULOS 19 FRACCIONES II Y V, TERCER PÁRRAFO; 20, PRIMER PÁRRAFO; 23, CUARTO PÁRRAFO; 38, PRIMER PÁRRAFO; 119; 123, FRACCIÓN III; 124; 132, SEGUNDO PÁRRAFO; 133, FRACCIÓN I; 142, CUARTO PÁRRAFO; 144, PÁRRAFOS TERCERO Y CUARTO; 145, TERCER PÁRRAFO Y 170, TERCER PÁRRAFO; SE ADICIONA EN SUS ARTÍCULOS 6, CON UN TERCER PÁRRAFO; 38, CON LOS PÁRRAFOS TERCERO Y CUARTO; Y CON UN ARTÍCULO 51 BIS; 133, FRACCIÓN I SEGUNDO PÁRRAFO, 144, CON LOS PÁRRAFOS QUINTO Y SEXTO; Y 146, CON UN QUINTO PÁRRAFO; Y SE DEROGAN LOS ARTÍCULOS 123, FRACCIÓN VII Y 128; TODOS DEL CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor el día 1º de enero del año 2018.
+
+Segundo.- Las notificaciones de los actos administrativos propios o derivados de colaboración con el Gobierno Federal, se podrán realizar a través de buzón tributario u otros medios electrónicos que sean compartidos mediante estos convenios de colaboración entre las autoridades Federales.
+
+Tercero.- La Secretaría de Finanzas y Tesorería General del Estado contará con un plazo de un año para emitir las Reglas Generales a que se refiere el artículo 133, fracción I, del Código Fiscal del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 067. SE REFORMA LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN, SE REFORMA EL CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN SE ADICIONA LA LEY QUE CREA AL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN, CON UN ARTÍCULO DÉCIMO NOVENO TRANSITORIO; Y SE REFORMA LA LEY DE ADMINISTRACIÓN FINANCIERA PARA EL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor el 1° de enero del año 2019.
+
+Segundo.- A la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
+
+Tercero.- La Secretaría de Finanzas y Tesorería General del Estado contará con un plazo de 30 días hábiles a partir de la entrada en vigor del presente Decreto, para emitir las Reglas Generales a que se refieren los artículos 74, primer párrafo y 139, cuarto párrafo, del Código Fiscal del Estado.
+
+Cuarto.- Se prorroga por un año adicional el plazo para emitir las Reglas Generales a que se refiere el artículo Tercero Transitorio del Decreto Número 330, publicado en el Periódico Oficial del Estado el 29 de diciembre de 2017.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO NÚM. 215. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN, TAMBIÉN REFORMA EL CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN; Y SE ADICIONA A LA LEY QUE CREA AL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN, CON UN ARTÍCULO VIGÉSIMO TRANSITORIO”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el 1° de enero del año 2020.
+
+Artículo Segundo.- A la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
