@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-administracion-de-las-aportaciones-federales-13886"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-04"
-last_updated: "1999-03-04"
+last_updated: "2000-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA ADMINISTRACION DE LAS APORTACIONES FEDERALES TRANSFERIDAS AL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 4 de marzo de 1999.
 
@@ -111,23 +111,39 @@ Las aportaciones federales a que se refiere el artículo anterior, para efectos 
 
 Los recursos a los que se refiere el artículo anterior, se registrarán como ingresos propios en las Leyes de Ingresos y de Egresos del Estado, y en las Leyes de Ingresos y Presupuestos de Egresos de los Municipios, en su caso, distribuyéndolos en los Fondos considerados en el artículo primero de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 7.
 
 La administración de los fondos estatales corresponderá, de manera respectiva:
 
-a) Fondo para la Educación Básica y Normal, a la Secretaría de Finanzas y de Administración, en coordinación con la Secretaría de Educación, Cultura y Deporte;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
-b) Fondo para la Educación Tecnológica y de Adultos, a la Secretaría de Educación, Cultura y Deporte;
+a) Fondo para la Educación Básica y Normal, a la Secretaría de Finanzas y Administración en coordinación con la Secretaría de Educación;
 
-c) Fondo para los Servicios de Salud, a la Secretaría de Salud del Estado;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
-d) Fondo de Aportaciones Múltiples, al Sistema Estatal de Desarrollo Integral de la Familia, en coordinación con la Secretaría de Educación, Cultura y Deporte;
+b) Fondo para la Educación Tecnológica y de Adultos, a la Secretaría de Finanzas y de Administración, en coordinación con la Secretaría de Educación;
 
-e) Fondo para la Seguridad Pública, a la Secretaría General de Gobierno;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
+
+c) Fondo para los Servicios de Salud, a la Secretaría de Finanzas y de Administración, en coordinación con la Secretaría de Salud del Estado;
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
+
+d) Fondo de Aportaciones Múltiples, a la Secretaría de Finanzas y de Administración, en coordinación con el Sistema Estatal de Desarrollo Integral de la Familia y Secretaría de Educación;
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
+
+e) Fondo para la Seguridad Pública, a la Secretaría de Finanzas y de Administración, en coordinación con la Secretaría General de Gobierno;
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 f) Fondo para la Infraestructura Social;
 
-1.- Fondo para la Infraestructura Social Estatal, al Gobierno del Estado, por conducto de la Secretaría de Comunicaciones y Obras Públicas.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
+
+1.- Fondo para la Infraestructura Social Estatal, al Gobierno del Estado, por conducto de la Secretaría de Finanzas y de Administración, en coordinación con la Secretaría de Comunicaciones y Obras Públicas.
 
 2.- Fondo para la Infraestructura Social Municipal, a los Ayuntamientos.
 
@@ -465,9 +481,7 @@ Los Ayuntamientos notificarán a la Secretaría de la Contraloría del Estado, a
 
 Para la entrega-recepción de las obras a las dependencias u organismos que las administren, o en su caso, a los Ayuntamientos, la instancia ejecutora formalizará dicho acto mediante el acta correspondiente, con la participación que a la Secretaría de la Contraloría del Estado, a la Autoridad de Control y Supervisión Interna del Municipio y a la dependencia normativa que corresponda.
 
-### Capítulo II
-
-De la Participación Social en la decisión del ejercicio de recursos de los Fondos Estatales para la Infraestructura Social Municipal.
+### Capítulo II. De la Participación Social en la decisión del ejercicio de recursos de los Fondos Estatales para la Infraestructura Social Municipal
 
 ###### Artículo 62.
 
@@ -696,3 +710,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. JESÚS FLORES LÓPEZ.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE DICIEMBRE DE 2000.
+
+ÚNICO.- El presente Decreto entrara en vigor el día siguiente al de su publicación, en el Periódico Oficial del Gobierno del Estado.
