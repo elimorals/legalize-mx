@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-comision-de-fiscalizacion-de-los-3576
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-12"
-last_updated: "2004-01-12"
+last_updated: "2004-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA COMISION DE FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2004.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de enero de 2004.
 
@@ -143,9 +143,19 @@ La Comisión tomará sus determinaciones por mayoría de sus miembros, quienes t
 
 La Comisión podrá proponer al Consejo en base a la experiencia de las Fiscalizaciones realizadas, las modificaciones, adecuaciones o reformas pertinentes a los Lineamientos para el Control y Vigilancia del Origen, Uso y Destino de los Recursos de los Partidos Políticos y Asociaciones Políticas del Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 11.
 
-La Comisión a fin de desempeñar sus funciones, contará con un auditor interno y el personal técnico necesario, así como con el auxilio de Auditores Externos, los cuales se elegirán en los términos señalados en la Ley Patrimonial del Estado.
+La Comisión a fin de desempeñar sus funciones, contará con los siguientes órganos técnicos:
+
+I. Un Auditor Interno; y
+
+II. Jefatura de Monitoreo.
+
+Estos órganos técnicos serán parte integrante del Servicio Profesional Estatal Electoral.
+
+De igual forma, contará con el personal necesario, así como con el auxilio de Auditores Externos, los cuales se designarán en los términos establecidos por la Ley Patrimonial para el Estado de Aguascalientes.
 
 ### CAPITULO III. De los Integrantes de la Comisión
 
@@ -207,7 +217,9 @@ El Vocal coadyuvará con las funciones del Presidente y del Secretario, firmando
 
 Todos los integrantes de la Comisión deberán desempeñar sus actividades con eficiencia, probidad y profesionalismo. No deberán utilizar en beneficio propio o de terceros la información confidencial de que dispongan en razón de su cargo, ni la divulgarán sin autorización de la Comisión o del propio Consejo.
 
-### CAPITULO IV. Del Auditor Interno de la Comisión
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 2004)</small>
+
+### CAPITULO IV. De los Organos Técnicos de la Comisión
 
 ###### ARTICULO 16.
 
@@ -234,6 +246,20 @@ IX. Registrar y llevar control de las Investigaciones que realice la Comisión s
 X. Elaborar los proyectos de dictamen, a efecto de que la Comisión los apruebe; y
 
 XI. Todas aquellas que le sean encomendadas por el Presidente o el Secretario de la Comisión.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2004)</small>
+
+###### ARTICULO 16 Bis.
+
+La Jefatura de monitoreo realizará sus actividades orientándolas básicamente al registro y verificación, de la transmisión y publicación de la propaganda y publicidad' en los medios de comunicación de los Partidos Políticos de manera permanente y tendrá las siguientes funciones:
+
+I. Realizar los monitoreos de los tiempos de transmisiones de la propaganda y publicidad de los diversos Partidos Políticos y Coaliciones, en su caso, en radio, televisión, internet y prensa escrita, tanto en año electoral como en año no electoral;
+
+II. Elaborar reportes semanales de los monitoreos y remitirlos al auditor interno de la comisión;
+
+III. Instrumentar los proyectos de programas anuales de monitoreo, para su aprobación por la Comisión; y
+
+IV. Todas aquellas que le sean encomendadas por el presidente de la Comisión o el secretario de la misma.
 
 ### CAPITULO V. De los Auditores Externos de la Comisión
 
@@ -322,3 +348,17 @@ Se tendrán formalmente convocados los integrantes de la Comisión, cuando la co
 TRANSITORIOS (SIC)
 
 PRIMERO. El presente Reglamento entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE JULIO DE 2004.
+
+POR SU TRASCENDENCIA, SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE MODIFICA EL PRESENTE ORDENAMIENTO.
+
+PRIMERO. Se aprueban las reformas y adiciones al Reglamento Interior de la Comisión de Fiscalización de los Recursos de los Partidos Políticos, en los términos del considerando tercero del presente Acuerdo.
+
+SEGUNDO El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en los estrados de este Instituto Estatal Electoral, de conformidad con lo establecido por el párrafo tercero del artículo 38 del Reglamento de Sesiones del Consejo General del Instituto Estatal Electoral.
+
+TERCERO. Notifíquese el presente Acuerdo en términos de lo establecido por los artículos 268 Fracción III, 271 y 273 del Código Electoral vigente en el Estado.
+
+CUARTO. Ordénese la publicación del presente Acuerdo en el Periódico Oficial del Estado de Aguascalientes, conforme a lo establecido en la fracción VII del artículo 73.
