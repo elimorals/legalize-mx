@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1993-del-tribunal-pleno-de-la-suprema-63013"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1993-01-27"
-last_updated: "1995-11-22"
+last_updated: "1996-03-12"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63013&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-01-13"
 
 ACUERDO No. 1/1993, DEL TRIBUNAL EN PLENO DEL DIA TRECE DE ENERO DE MIL NOVECIENTOS NOVENTA Y TRES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MARZO DE 1996.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 27 de enero de 1993.
 
@@ -247,6 +247,10 @@ XVI.- DECIMO SEXTO CIRCUITO:
 
 3.- Juzgados Tercero y Cuarto de Distrito en el Estado de Guanajuato, con residencia en la ciudad de León.
 
+> <small>(ADICIONADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 16/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MARZO DE 1996)</small>
+
+4.- Juzgado Quinto de Distrito en el Estado de Guanajuato, con residencia en la ciudad de Celaya.
+
 XVII.- DECIMO SEPTIMO CIRCUITO:
 
 1.- Dos tribunales colegiados y tres tribunales unitarios, con residencia en la ciudad de Chihuahua, Chihuahua;
@@ -441,11 +445,17 @@ XXVII.- Los Juzgados Cuarto, Quinto, Sexto y Séptimo de Distrito en el Estado d
 
 XXVII Bis.- El Juzgado octavo de distrito en el estado de Baja California, con residencia en la ciudad de Ensenada, ejercerá jurisdicción en el municipio del mismo nombre;
 
-XXVIII.- Los Juzgados Primero y Segundo de Distrito en el estado de Guanajuato, con residencia en la ciudad de Guanajuato, ejercerán jurisdicción en el territorio del estado, excepto en los municipios de León, ciudad Manuel Doblado, San Francisco del Rincón, Purísima de Bustos, San Felipe y Ocampo;
+> <small>(REFORMADA POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 16/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MARZO DE 1996)</small>
 
-> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+XXVIII.- Los Juzgados Primero y Segundo de Distrito en el Estado de Guanajuato, con residencia en la ciudad de Guanajuato, ejercerán jurisdicción en los municipios de San Diego de la Unión, San Luis de la Paz, Victoria, Xichú, Atarjea, Santa Catarina, Villa Dr. Mora, Tierra Blanca, San José de Iturbide, Dolores Hidalgo, San Miguel de Allende, Guanajuato, Silao, Romita, Irapuato, Salamanca, Pueblo Nuevo, Cuerámaro, Abasolo, Pénjamo y Huanímaro.
 
-XXIX.- Los Juzgados Tercero y Cuarto de Distrito en el Estado de Guanajuato, con residencia en la ciudad de León, ejercerán jurisdicción en los municipios mencionados en la fracción XXVIII;
+> <small>(REFORMADA POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 16/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MARZO DE 1996)</small>
+
+XXIX.- El Juzgado Tercero de Distrito en el Estado de Guanajuato, con residencia en la ciudad de León, ejercerá jurisdicción en los municipios de León, Ciudad Manuel Doblado, San Francisco del Rincón, Purísima de Bustos, San Felipe y Ocampo.
+
+> <small>(ADICIONADA POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 16/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MARZO DE 1996)</small>
+
+XXIX Bis.- El Juzgado Quinto de Distrito en el Estado de Guanajuato, con residencia en la ciudad de Celaya, ejercerá jurisdicción en los municipios de Apaseo El Grande, Apaseo el Alto, Acámbaro, Celaya, Tarimoro, Cortazar, Coroneo, Jaral del Progreso, Jerécuaro, Moroleón, Salvatierra, Santiago Maravatío, Tarandacuao, Uriangato, Yuriria, Juventino Rosas, Comonfort, Villagrán y Valle de Santiago.
 
 XXX.- Los Juzgados Primero, Segundo y Tercero de Distrito en el estado de Chihuahua, con residencia en la ciudad de Chihuahua, ejercerán jurisdicción en los municipios de Chihuahua, Aldama, Allende, Aquiles Serdán, Bachíniva, Balleza, Batopilas, Bocoyna, Camargo, Caprichi, Coronado, Coyame, Cuauhtémoc, Cosihuiriachi, Chínipas, Delicias, Doctor Belisario Domínguez, El Tule, General Trías, Gómez Farías, Gran Morelos, Guadalupe y Calvo, Guachochi, Guazapares, Guerrero, Hidalgo del Parral, Huejotitán, Jiménez, Julimes, La Cruz, López, Madera, Maguarichi, Manuel Benavides, Matachi, Matamoros, Meoqui, Morelos, Moris, Namiquipa, Nonoava, Ocampo, Ojinaga, Riva Palacio, Rosales, Rosario, San Francisco de Borja, San Francisco de Conchos, San Francisco del Oro, Santa Bárbara, Satevó, Saucillo, Temósachi, Urique, Uruachi, Valle Zaragoza;
 
@@ -546,3 +556,15 @@ TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo q
 CUARTO.- El Pleno del Consejo de la Judicatura Federal resolverá cualquier problema administrativo que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
 
 QUINTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
+
+D.O.F. 12 DE MARZO DE 1996.
+
+PRIMERO.- Este Acuerdo entrará en vigor el veintisiete de marzo de mil novecientos noventa y seis.
+
+SEGUNDO.- Se modifican y adicionan los Acuerdos 1/1993 y 1/1994, ambos del Pleno de la Suprema Corte de Justicia de la Nación, de fechas trece de enero de mil novecientos noventa y tres y primero de febrero de mil novecientos noventa y cuatro, respectivamente, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- El Pleno del Consejo de la Judicatura Federal resolverá cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
+
+QUINTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
