@@ -4,7 +4,7 @@ identifier: "JAL-ley-electoral-del-estado-de-jalisco-15428"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-29"
-last_updated: "1999-12-28"
+last_updated: "2000-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 29 de abril de 1997.
 
@@ -325,7 +325,9 @@ Son requisitos para ser Presidente, Vicepresidente o Regidor de los ayuntamiento
 
 I. Ser ciudadano mexicano, estar en pleno ejercicio de sus derechos, estar inscrito en el Registro Estatal de Electores y contar con credencial para votar con fotografía;
 
-II. Ser nativo de Jalisco o avecindado legalmente en el municipio zona conurbada correspondiente, cuando menos tres años inmediatos anteriores al día de la elección;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2000)</small>
+
+II. Ser nativo del municipio o zona conurbada correspondiente, o acreditar ser vecino de aquellos, cuando menos tres años inmediatos anteriores al día de la elección;
 
 III. No ser Magistrado del Tribunal Electoral, Presidente, Consejero con derecho a voto o Secretario del Consejo Electoral del Estado, a menos que se separe de sus funciones dos años antes del día de la elección;
 
@@ -4706,3 +4708,9 @@ P.O. 5 DE JUNIO DE 1999.
 P.O. 28 DE DICIEMBRE DE 1999.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 1 DE ABRIL DE 2000.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
