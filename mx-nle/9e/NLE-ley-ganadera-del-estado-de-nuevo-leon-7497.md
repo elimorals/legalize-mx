@@ -4,7 +4,7 @@ identifier: "NLE-ley-ganadera-del-estado-de-nuevo-leon-7497"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-16"
-last_updated: "1994-05-16"
+last_updated: "1994-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY GANADERA DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de mayo de 1994.
 
@@ -79,13 +79,13 @@ XIV.- Mula: Cuadrúpedo híbrido resultante de la cruza del asno y de la yegua.
 
 XV.- Cerdo: Animal doméstico mamífero de la familia de los suidos.
 
-XVI.- Cabra: Mamífero rumiante de la familia de los cavicornios.
+XVI.- Cabra: Mamifero rumiante de la familia de los cavicornios.
 
 XVII.- Conejo: mamífero roedor de la familia de los leporidos, género liebre.
 
 XVIII.- Abeja: Pertenece al orden de los himenópteros, de la familia de los ápidos; vive en las colmenas donde produce cera y miel.
 
-XIX.- Chinchilla: Mamífero del orden de los roedores.
+XIX.- Chinchilla: Mamifero del orden de los roedores.
 
 XX.- Oveja: Pequeño rumiante ovino, hembra del carnero.
 
@@ -539,9 +539,11 @@ Nadie tiene derecho a pastar ganado en terrenos ajenos. La autoridad municipal p
 
 ### CAPITULO CUARTO. DE LA POLICIA RURAL
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1994)</small>
+
 ###### Artículo 78.
 
-La Policía Rural depende de la Procuraduría General de Justicia, y su organización y funciones, salvo lo que establece esta Ley, se sujetará a lo previsto por el reglamento de Policía Judicial del Estado.
+La Policía Rural depende de la Secretaría General de Gobierno, y su organización y funciones se sujetaran a lo previsto por el Capitulo X, Artículos 52 al 56 de la Ley Orgánica de los Cuerpos de Seguridad Pública del Estado.
 
 ###### Artículo 79.
 
@@ -757,7 +759,7 @@ I.- El manejo racional, la adecuada utilización y la conservación de los recur
 
 II.- El cumplimiento con la carga animal óptima.
 
-III.- La evaluación y certificación de la condición del pastizal;
+III.- La evaluación y certificación de la condición del pastizal.
 
 IV.- El mejoramiento de los pastizales deteriorados, incluyendo el control de las especies nocivas e introducidas y la realización de la infraestructura necesaria.
 
@@ -1206,3 +1208,9 @@ LIC. SOCRATES CUAUHTEMOC RIZZO GARCIA
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 ING. LEOPOLDO ESPINOSA BENAVIDES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE MAYO DE 1994.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
