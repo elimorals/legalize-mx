@@ -4,7 +4,7 @@ identifier: "LCCAIF"
 country: "mx"
 rank: "ley"
 publication_date: "1960-12-31"
-last_updated: "1988-01-19"
+last_updated: "1990-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=460&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCCAIF"
 
 LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DE LA ASOCIACION INTERNACIONAL DE FOMENTO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JULIO DE 1990.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1960.
 
@@ -42,11 +42,11 @@ LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDE
 
 Se aprueba el Convenio Constitutivo de la Asociación Internacional de Fomento, para los efectos de la fracción VIII del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 26 de enero de 1960.
 
-> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 1990)</small>
 
 ###### ARTICULO 2o.
 
-El Banco de México hará la aportación de México, correspondiente a la Octava Reposición de Capital de la Asociación Internacional de Fomento, hasta por la suma de 19'550,000 (diecinueve millones quinientos cincuenta mil) dólares de los Estados Unidos de América, la cual se adicionará a las suscripciones anteriores efectuadas por nuestro país, hasta por el equivalente de 50'539,291 (cincuenta millones quinientos treinta y nueve mil doscientos noventa y un) dólares de los Estados Unidos de América.
+El Banco de México hará la aportación de México, correspondiente a la Novena Reposición de Capital de la Asociación Internacional de Fomento, hasta por 20'000,000 (Veinte Millones) de Derechos Especiales de Giro (DEG), equivalente a 25'200,000 (Veinticinco Millones Doscientos Mil) dólares de los Estados Unidos de América, al tipo de cambio promedio entre el 1o. de mayo y el 31 de octubre de 1989, la cual se adicionará a las suscripciones anteriores efectuadas por nuestro país, para hacer un total equivalente a 95'289,291 (Noventa y Cinco Millones Doscientos Ochenta y Nueve Mil Doscientos Noventa y Uno) dólares de los Estados Unidos de América, considerados a los distintos tipos de cambio autorizados.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
@@ -147,3 +147,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 La aportación de México, que le corresponde en la Asociación Internacional de Fomento a que se refiere el presente Decreto, se realizará de acuerdo a la Resolución 142 adoptada por la Asamblea de Gobernadores de la Asociación Internacional de Fomento el 26 de junio de 1987.
+
+D.O.F. 26 DE JULIO DE 1990.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
