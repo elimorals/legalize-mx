@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-funcionamiento-de-establecimientos-mercantiles-2358
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-28"
-last_updated: "2002-02-28"
+last_updated: "2002-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23584&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-02-22"
 
 LEY PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MAYO DE 2002.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 28 de febrero de 2002.
 
@@ -258,7 +258,9 @@ IV. Autorizar el funcionamiento del Servicio de Acomodadores de Vehículos, con 
 
 V. Elaborar, digitalizar y mantener actualizado el padrón de los Establecimientos Mercantiles que operen en sus demarcaciones;
 
-VI. Vigilar el cumplimiento de lo dispuesto por la Ley, llevando a cabo las verificaciones, aseguramiento y visitas a que haya lugar, de conformidad con la Ley de Procedimiento Administrativo del Distrito Federal y sus disposiciones reglamentarias;
+> <small>(REFORMADA, G.O. 14 DE MAYO DE 2002)</small>
+
+VI. Llevar a cabo verificaciones ordinarias y extraordinarias, aseguramientos, visitas y tomar en cuenta las resoluciones que le sean entregados por la Procuraduría Federal del Consumidor cuando se desprenda que dentro de algún establecimiento se efectúan prácticas que lesionen la salud, los intereses o derechos de los consumidores; de conformidad con la Ley de Procedimiento Administrativo del Distrito Federal y sus disposiciones reglamentarias;
 
 VII. Aplicar las sanciones previstas en la Ley;
 
@@ -324,9 +326,11 @@ VIII. Evitar aglomeraciones en la entrada principal del Establecimiento Mercanti
 
 IX. Permitir el acceso a las instalaciones a todo usuario que lo solicite, respetando el orden de llegada con excepción de aquellos que requieran una membresía;
 
-X. Prestar el servicio de que se trate a toda persona que lo solicite, sin discriminación alguna, salvo los casos de personas en evidente estado de ebriedad, bajo el influjo de estupefacientes, o que porten armas, así como a los menores de edad, en términos del artículo 78 fracción I en cuyos casos se deberán negar los servicios solicitados. Para cerciorarse de la mayoría de edad, el titular del Establecimiento Mercantil está obligado a pedir identificación oficial con fotografía que acredite la mayoría de edad de los concurrentes;
+X. Prestar el servicio de que se trate a toda persona que lo solicite, sin discriminación alguna, salvo los casos de personas en evidente estado de ebriedad, bajo el influjo de estupefacientes, o que porten armas, así como a los menores de edad, en términos del artículo 78 fracción I en cuyos casos se deberán negar los servicios solicitados.
 
-XI. Los titulares de las Licencias de Funcionamiento Tipo B deberán colocar en el exterior del Establecimiento Mercantil, un letrero visible que señale “en este establecimiento no se discrimina por motivos de raza, religión, orientación sexual, condición física o socioeconómica ni por ningún otro motivo” incluyendo para quejas, los teléfonos de emergencia y dirección de la Procuraduría General de Justicia del Distrito Federal;
+Para cerciorarse de la mayoría de edad, el titular del Establecimiento Mercantil está obligado a pedir identificación oficial con fotografía que acredite la mayoría de edad de los concurrentes;
+
+XI. Los titulares de las Licencias de Funcionamiento Tipo B deberán colocar en el exterior del Establecimiento Mercantil, un letrero visible que señale "en este establecimiento no se discrimina por motivos de raza, religión, orientación sexual, condición física o socioeconómica ni por ningún otro motivo" incluyendo para quejas, los teléfonos de emergencia y dirección de la Procuraduría General de Justicia del Distrito Federal;
 
 XII. Contar con un botiquín equipado con medicinas, material e instrumentos de curación necesarios para brindar primeros auxilios. En caso de reunir a más de 50 personas, entre clientes y empleados, contar con el personal capacitado para brindar dichos auxilios.
 
@@ -336,7 +340,11 @@ XIV. Contar con un programa interno de protección civil, de conformidad con la 
 
 XV. Fijar en un lugar visible del establecimiento un croquis que ubique claramente las rutas de evacuación. En el interior deberá tener a la vista del público las salidas de emergencias debidamente señaladas, así como la localización de extintores, hidrantes, tomas siamesas y otros dispositivos para el control de siniestros, los cuales deberán contar con libre acceso;
 
-XVI. Vigilar que se conserve la seguridad de los asistentes y de los empleados dentro del Establecimiento Mercantil, así como coadyuvar a que con su funcionamiento no se altere el orden público de las zonas inmediatas al mismo;
+(REFORMADA, G.O. 14 DE MAYO DE 2002) (F. DE E., G.O. 6 DE JUNIO DE 2002)
+
+XVI. Vigilar que se conserve la seguridad de los asistentes y de los empleados dentro del establecimiento mercantil, así como coadyuvar a que con su funcionamiento no se altere el orden publico de las zonas inmediatas al mismo.
+
+En los casos de establecimientos mercantiles que operen como Sucursales de Instituciones de Banca Múltiple, además deberán cumplir con las medidas de seguridad establecidas por esta Ley, su Reglamento y la autoridad competente;
 
 XVII. Dar aviso inmediato a las autoridades competentes, en caso de que se altere el orden y la seguridad dentro del Establecimiento Mercantil o en la parte exterior inmediatamente adyacente del lugar donde se encuentre ubicado;
 
@@ -344,7 +352,9 @@ XVIII. Contar con un Seguro de Responsabilidad Civil para cubrir a los usuarios 
 
 XIX. Contar con los cajones de estacionamiento que se instruyen para cada uso en los Programas Delegacionales o Parciales de Desarrollo Urbano y el Reglamento de Construcciones;
 
-XX. Instalar aislantes de sonido en los Establecimientos Mercantiles, para no generar ruido en el medio ambiente, o contaminación, que afecte el derecho de terceros, por encima de niveles permitidos por la normatividad ambiental. Queda estrictamente prohibido el uso de aislantes de sonido que pongan en riesgo la seguridad de los usuarios;
+XX. Instalar aislantes de sonido en los Establecimientos Mercantiles, para no generar ruido en el medio ambiente, o contaminación, que afecte el derecho de terceros, por encima de niveles permitidos por la normatividad ambiental.
+
+Queda estrictamente prohibido el uso de aislantes de sonido que pongan en riesgo la seguridad de los usuarios;
 
 XXI. Los titulares de aquellos establecimientos en donde se preste al público el servicio de acceso a la red de internet, en los cuales se permita el acceso a menores, deberán contar con sistemas de bloqueo a páginas o sitios que contengan información pornográfica o imágenes violentas. Las computadoras que contengan dichos sistemas de bloqueos, deberán estar separadas de aquellas que tengan acceso abierto a cualquier información y queda prohibido que los menores tengan acceso a estas últimas;
 
@@ -406,7 +416,11 @@ IV. Que su instalación no impida la operación de comercio preexistente;
 
 V. Que los enseres o instalaciones no se utilicen para preparar o elaborar bebidas o alimentos, y
 
-VI. Que no se instalen en zonas preponderantemente destinadas al uso habitacional.
+VI. Que no se instalen en zonas preponderantemente destinadas al uso habitacional;
+
+> <small>(ADICIONADA, G.O. 14 DE MAYO DE 2002)</small>
+
+VII. No se otorgará permiso cuando los enseres abarquen una superficie mayor al 50% de la superficie total del Establecimiento Mercantil.
 
 Se declara de interés público el retiro de estos enseres o instalaciones, cuando su colocación viole lo dispuesto por la Ley.
 
@@ -428,7 +442,9 @@ La Delegación podrá negar en todo momento la solicitud del Permiso a que se re
 
 El Permiso para la ocupación o colocación en la vía pública de los enseres o instalaciones que menciona el artículo anterior, no podrá exceder de 180 días naturales, mismo que podrá ser renovado en los términos de la Ley de Procedimiento Administrativo del Distrito Federal.
 
-En caso de vencimiento del Permiso, el Titular estará obligado a retirar los enseres o instalaciones por su propia cuenta. En caso contrario, la Delegación retirará las que ocupen la vía pública, corriendo a cargo del particular los gastos de ejecución de los trabajos, en los términos de la Ley de Procedimiento Administrativo del Distrito Federal.
+> <small>(REFORMADO, G.O. 14 DE MAYO DE 2002)</small>
+
+En caso de vencimiento del Permiso o violación a lo dispuesto por esta Ley, el Titular estará obligado a retirar los enseres o instalaciones por su propia cuenta. En caso contrario, la Delegación retirará las que ocupen la vía pública, corriendo a cargo del particular los gastos de ejecución de los trabajos, en los términos de la Ley de Procedimiento Administrativo del Distrito Federal.
 
 Cuando se viole alguna de las obligaciones consignadas en el artículo 12 de la Ley, se procederá a la Revocación de oficio de Permiso conforme a lo señalado en el Título V Capítulo IV de esta Ley.
 
@@ -588,7 +604,9 @@ VII. Visto bueno de seguridad y operación expedido por un Director Responsable 
 
 VIII. Documento que acredite que el establecimiento cuenta con los cajones de estacionamiento que instruyen para cada uso los Programas Delegacionales o Parciales de Desarrollo Urbano y el Reglamento de Construcciones;
 
-IX. Presentar un estudio de impacto ambiental o riesgo ambiental, expedido por la autoridad competente, cuando sea necesaria su presentación;
+> <small>(REFORMADA, G.O. 14 DE MAYO DE 2002)</small>
+
+IX. Presentar un estudio de impacto ambiental o riesgo, expedido por la autoridad competente cuando sea necesaria su presentación de conformidad con lo establecido por la Ley Ambiental y los demás ordenamientos jurídicos aplicables;
 
 X. Para la expedición de Licencia de Funcionamiento Tipo B la Demarcación Territorial a través de notificación, dará vista al Comité Vecinal y demás vecinos interesados de la unidad territorial correspondiente dentro de los tres días hábiles siguientes en que recibió la solicitud, misma que deberá ser atendida y desahogada dentro de los quince días hábiles siguientes a aquél en que se haya notificado. La notificación y el desahogo se hará a través de los mecanismos establecidos en el Reglamento de esta Ley, los cuales no podrán ser excluyentes ni limitativos, y
 
@@ -612,9 +630,7 @@ En caso de que transcurrido el plazo a que se refiere el artículo anterior no e
 
 ###### Artículo 28.
 
-Cuando a la solicitud no se acompañen todos los documentos, no se satisfagan los requisitos a que se refiere el artículo 25 de la Ley, o en la visita a que se refiere el artículo 26 de la Ley, se acredite que no se cumplieron las condiciones manifestadas en la solicitud respectiva, la Delegación deberá proceder a prevenir por escrito y por una sola vez al interesado para que subsane la irregularidad, en los términos señalados por la Ley de Procedimiento Administrativo del
-
-Distrito Federal.
+Cuando a la solicitud no se acompañen todos los documentos, no se satisfagan los requisitos a que se refiere el artículo 25 de la Ley, o en la visita a que se refiere el artículo 26 de la Ley, se acredite que no se cumplieron las condiciones manifestadas en la solicitud respectiva, la Delegación deberá proceder a prevenir por escrito y por una sola vez al interesado para que subsane la irregularidad, en los términos señalados por la Ley de Procedimiento Administrativo del Distrito Federal.
 
 Si transcurrido el plazo correspondiente no fuera subsanada la irregularidad que generó la prevención, se desechará la solicitud respectiva.
 
@@ -666,7 +682,7 @@ Los giros con Licencia Tipo B, considerados de Impacto Zonal, para la prestació
 
 De domingo a miércoles el horario de funcionamiento y de venta de bebidas alcohólicas será de una hora menos al especificado en la tabla anterior.
 
-### CAPÍTULO VI (SIC). DISPOSICIONES COMPLEMENTARIAS
+### CAPÍTULO VI. DISPOSICIONES COMPLEMENTARIAS
 
 ###### Artículo 34.
 
@@ -704,15 +720,15 @@ Para efectos de la obtención de la Licencia de Funcionamiento Tipo A de aquello
 
 Queda prohibida la modalidad de Club Privado a todos los Establecimientos Mercantiles que requieran Licencia de Funcionamiento Tipo B.
 
+> <small>(REFORMADO, G.O. 14 DE MAYO DE 2002)</small>
+
 ###### Artículo 37.
 
 En todos los giros en los que se vendan bebidas alcohólicas, queda estrictamente prohibido la modalidad de Barra Libre o cualquier promoción similar. Asimismo, en los lugares donde exista cuota de admisión general o se cobre el pago por derecho de admisión o entrada no se podrá exentar el pago del mismo ni hacer distinción en el precio, en atención al género.
 
-Para efectos de esta Ley, se entenderá por Barra Libre a la modalidad comercial a través de la cual los usuarios, por medio de un pago único, tienen el derecho al consumo ilimitado de bebidas alcohólicas.
+Para efectos de esta Ley, se entenderá por Barra Libre a la modalidad comercial a través de la cual los usuarios, por medio de un pago único, tienen derecho al consumo limitado o ilimitado de bebidas alcohólicas y por modalidades similares a aquellas que se realicen a través de la venta o distribución de bebidas alcohólicas a un precio notoriamente inferior al de mercado, de acuerdo a las tablas expedidas por la Procuraduría Federal del Consumidor y las demás que señale el Reglamento de la Ley.
 
-En los Establecimientos Mercantiles donde se sirvan bebidas alcohólicas en envase abierto deberán acatar lo establecido en esta Ley y su Reglamento, así como lo establecido en la Ley General de Salud y la Ley de Salud para el Distrito Federal, con el fin de combatir la venta, distribución y consumo de bebidas adulteradas, de baja calidad o de origen desconocido.
-
-Los Establecimientos Mercantiles con Licencia de Funcionamiento Tipo B no podrán ubicarse a menos de trescientos metros de algún centro de educación.
+Donde se realice la venta de bebidas alcohólicas al copeo, deberán colocar a la vista del público las marcas genéricas y los distintos tipos de bebidas alcohólicas que se ofrezcan.
 
 ## TÍTULO CUARTO. DE LOS ESTABLECIMIENTOS MERCANTILES QUE REQUIEREN DE DECLARACION DE APERTURA
 
@@ -986,9 +1002,11 @@ En cualquier caso, la distancia que deba existir entre el Establecimiento Mercan
 
 #### SECCIÓN TERCERA. DE LOS ESTACIONAMIENTOS PÚBLICOS VINCULADOS A UN ESTABLECIMIENTO MERCANTIL
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE MAYO DE 2002)</small>
+
 ###### Artículo 61.
 
-Los titulares o los operadores de los estacionamientos construidos como parte de una licencia de construcción otorgada para un inmueble de cualquier uso distinto al habitacional, podrán utilizarlos como estacionamiento público. En los casos que existan tarifas deberán ser preferenciales para los usuarios de los Establecimientos Mercantiles con comprobante de consumo durante las dos primeras horas de la prestación del servicio, a menos que algún establecimiento quiera otorgar un número mayor de horas con el carácter de preferencial.
+Los titulares o los operadores de los estacionamientos construidos como parte de una licencia de construcción otorgada para un inmueble de cualquier uso distinto al habitacional, podrán utilizarlos como estacionamiento público, salvo en los establecimientos a que se refiere el Capítulo VIII del Título Cuarto de esta Ley en los que sólo pueden dar servicio mientras esté abierto el Establecimiento Mercantil. Los Titulares estarán obligados a fraccionar el cobro de las tarifas por cada 15 minutos desde la primera hora, debiendo ser el mismo precio para cada fracción y otorgar tolerancia gratuita de al menos 15 minutos y en los casos que existan tarifas deberán ser preferenciales para los usuarios de los Establecimientos Mercantiles con comprobante de consumo por cada hora o fracción, durante las dos primeras horas de la prestación del servicio, a menos que algún establecimiento quiera otorgar un número mayor de horas con el carácter de preferencial.
 
 Para los efectos de esta Ley, se entenderá por Tarifa Preferencial, aquella que otorgue a los clientes de los Establecimientos Mercantiles un descuento sobre la tarifa al público en general; en todo caso, el descuento que se otorgue no podrá ser menor al 50% de la tarifa autorizada.
 
@@ -1054,7 +1072,27 @@ La venta de bebidas alcohólicas en envase cerrado sólo se podrá realizar de l
 
 Las vinaterías no podrán instalarse, en ningún caso, a menos de trescientos metros lineales de un centro de educación básica.
 
-### CAPÍTULO I. DE LA VERIFICACIÓN
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 14 DE MAYO DE 2002)</small>
+
+### CAPÍTULO VIII
+
+DE LOS ESTABLECIMIENTOS MERCANTILES QUE PRESTAN EL SERVICIO DE BANCA MÚLTIPLE.
+
+> <small>(ADICIONADO, G.O. 14 DE MAYO DE 2002)</small>
+
+###### Artículo 67 Bis.
+
+El funcionamiento de los establecimientos mercantiles que operen servicios como sucursales de Instituciones de Banca Múltiple se sujetará a las siguientes disposiciones:
+
+I. Contar con sistemas de grabación de imágenes en el interior, exterior del establecimiento mercantil y en cajeros automáticos; debiendo encontrarse en operación y disponer de bitácoras de mantenimiento, manuales de operación y controles establecidos para el acceso, guarda y custodia de las imágenes obtenidas y su destrucción de acuerdo a lo establecido por las autoridades competentes;
+
+II. Contar con personal de vigilancia;
+
+III. Contar con un seguro de responsabilidad civil que garantice a los usuarios y empleados el pago de los daños que pudieran sufrir en su persona o bienes en el interior del establecimiento, y
+
+IV. Las demás que señalen las autoridades competentes.
+
+En el interior de los Establecimientos Mercantiles señalados en este capítulo queda prohibido el uso de telefonía celular, radios, aparatos de transmisión de mensajes y de cualquier otro aparato de comunicación móvil o inalámbrica.
 
 ## TÍTULO QUINTO. VERIFICACIÓN, MEDIDAS DE SEGURIDAD, SANCIONES Y RECURSO
 
@@ -1062,15 +1100,15 @@ Las vinaterías no podrán instalarse, en ningún caso, a menos de trescientos m
 
 Para los efectos de este título se observará la Ley de Procedimiento Administrativo del Distrito Federal, el Reglamento de Verificación Administrativa del Distrito Federal y los Reglamentos correspondientes.
 
-### CAPÍTULO II
-
-DE LAS MEDIDAS DE SEGURIDAD Y SANCIONES.
+### CAPÍTULO I. DE LA VERIFICACIÓN
 
 ###### Artículo 69.
 
 La Delegación vigilará que los Establecimientos Mercantiles cumplan con las obligaciones contenidas en la presente Ley, para lo cual realizará verificaciones conforme a la Ley de Procedimiento Administrativo, Reglamento de Verificación Administrativa del Distrito Federal y aplicará las sanciones que se establecen en este ordenamiento, sin perjuicio de las demás sanciones que resulten aplicables.
 
-### CAPÍTULO III. DEL RETIRO DE SELLOS DE CLAUSURA
+### CAPÍTULO II
+
+DE LAS MEDIDAS DE SEGURIDAD Y SANCIONES.
 
 ###### Artículo 70.
 
@@ -1092,17 +1130,23 @@ Cuando se detecte que en alguno de los eventos a que se refiere el artículo 16 
 
 El aseguramiento de bebidas se llevará a cabo con el traslado de las mismas al sitio de almacenaje destinado por la Delegación, previo inventario del aseguramiento, del cual se entregará de manera inmediata copia al responsable del evento del que se trate.
 
+> <small>(REFORMADO, G.O. 14 DE MAYO DE 2002)</small>
+
 ###### Artículo 73.
 
-Se sancionará con el equivalente de 25 a 125 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 9 fracciones IV, X, XII, XIII, XVII y XXII; 10 fracción II; 34 párrafos primero y segundo; 35 fracciones I, II III y VI; 42 fracciones I y III; 46 fracción II; 65 fracciones IV y V y 66 de la Ley.
+Se sancionará con el equivalente de 25 a 125 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 9 fracciones IV, XII, XIII, XVII y XXII; 10 fracción II; 34 párrafos primero y segundo; 35 fracciones I, II III y VI; 42 fracciones I y III; 46 fracción II; 65 fracciones IV y V y 66 de la Ley.
+
+> <small>(REFORMADO, G.O. 14 DE MAYO DE 2002)</small>
 
 ###### Artículo 74.
 
-Se sancionará con el equivalente de 126 a 350 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 9 fracciones II, III, VIII, IX, XI, XII, XIV, XV, XVI, XIX, XX y XXI, 10 fracciones IV, VI, VII, VIII y XIII; 12; 22; 35 fracciones IV y V; 40 segundo párrafo; 42 fracciones II y IV; 46 fracciones I y III; 50; 54 ; 55 fracción V; 58; 59 fracciones I, II y V; 60; 62; 65 fracciones II, III, VI y VII y 67 de la Ley.
+Se sancionará con el equivalente de 126 a 350 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 9 fracciones II, III, VIII, XI, XII, XIV, XV, XVI primer párrafo, XIX, XX y XXI; 10 fracciones IV, VI, VII y XIII; 12; 22; 35 fracciones IV y V; 40 segundo párrafo; 42 fracciones II y IV; 46 fracciones I y III; 50; 54 ; 55 fracción V; 58; 59 fracciones I, II y V; 60; 62; 65 fracciones II, III, VI y VII, 67; de la Ley.
+
+> <small>(REFORMADO, G.O. 14 DE MAYO DE 2002)</small>
 
 ###### Artículo 75.
 
-Se sancionará con el equivalente de 351 a 2500 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 9 fracciones I, , V, VI, VII, y XVIII; 10 fracciones I, III, V, IX, X y XI; 15; 16; 32 ; 33 ; ; 34 tercer y cuarto párrafos; 37, 43 , 44 , 52 , 55 fracciones I, II, III y IV; 59 fracciones III y IV y 65 fracción I de la ley.
+Se sancionará con el equivalente de 351 a 2500 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 9 fracciones I, V, VI, VII, IX, X, XVI segundo párrafo y XVIII; 10 fracciones I, III, V, VIII, IX, X y XI; 15; 16; 32 ; 33; 34 tercer y cuarto párrafos; 37, 43, 44, 52, 55 fracciones I, II, III y IV; 57; 59 fracciones III y IV; 61; 65 fracción I, 67-Bis fracciones I, II y III de la ley.
 
 ###### Artículo 76.
 
@@ -1130,13 +1174,23 @@ VII. Por haber obtenido la Licencia de Funcionamiento, la Declaración de Apertu
 
 VIII. Cuando se manifiesten datos falsos en el aviso de revalidación de Licencia de Funcionamiento o cuando se hayan detectado en verificación, modificaciones a las condiciones de funcionamiento del Establecimiento Mercantil por el que se otorgó la Licencia de Funcionamiento original;
 
-IX. Cuando con motivo de la operación de algún giro mercantil, se ponga en peligro el orden público, la salud de los ciudadanos o interfiera la protección civil;
+> <small>(REFORMADA, G.O. 14 DE MAYO DE 2002)</small>
 
-X. Cuando sea falso el documento con el que se acredite que el establecimiento cuenta con los cajones de estacionamiento que instruyen para cada uso los programas delegacionales o parciales de desarrollo urbano y el reglamento de construcciones ;
+IX. Cuando con motivo de la operación de algún giro mercantil, se ponga en peligro el orden público, la salud, la seguridad de la personas o interfiera la protección civil;
+
+X. Cuando sea falso el documento con el que se acredite que el establecimiento cuenta con los cajones de estacionamiento que instruyen para cada uso los programas delegacionales o parciales de desarrollo urbano y el reglamento de construcciones;
 
 XI. Cuando no se permita el acceso a las instalaciones a todo usuario respetando el orden de llegada; y
 
 XII. Por utilizar aislantes de sonido que pongan en riesgo la seguridad de los usuarios.
+
+> <small>(ADICIONADA, G.O. 14 DE MAYO DE 2002)</small>
+
+XIII. Cuando se exceda con los enseres la superficie marcada por el artículo 12, y
+
+> <small>(ADICIONADA, G.O. 14 DE MAYO DE 2002)</small>
+
+XIV. Cuando no se cumplan las disposiciones a que hacen referencia los artículos 9 fracción XVI párrafo segundo y 67-Bis fracciones I, II y III.
 
 ###### Artículo 78.
 
@@ -1150,9 +1204,11 @@ Cuando exista oposición a la ejecución de la clausura, la Delegación podrá h
 
 III. Los que expendan bebidas adulteradas, o con substancias químicas que puedan afectar la salud del consumidor.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE MAYO DE 2002)</small>
+
 ###### Artículo 79.
 
-El estado de clausura impuesto con motivo de alguna de las causales señaladas en las fracciones I, II, III, V y VI, del artículo 77 , así como por la violación a lo contenido en los artículos 55 , 60 y 61 , será temporal y en su caso parcial y sólo podrá ser levantado cuando haya cesado la falta o violación que hubiera dado lugar a su imposición.
+El estado de clausura impuesto con motivo de alguna de las causales señaladas en las fracciones I, II, III, V, VI XIII y XIV del artículo 77, así como por la violación a lo contenido en los artículos 55, 60 y 61, será temporal y en su caso parcial y sólo podrá ser levantado cuando haya cesado la falta o violación que hubiera dado lugar a su imposición.
 
 Procederá la clausura parcial cuando las condiciones especiales de cada giro permitan el funcionamiento de los mismos con total independencia uno de otro.
 
@@ -1166,7 +1222,7 @@ Procederá el estado de clausura temporal por 15 días y en su caso parcial, ind
 
 Procederá la clausura inmediata y permanente solo en los casos señalados en los artículos 10 fracción III, 37, 52, 76 segundo párrafo y 77 fracciones VII, VIII, IX, X y XI. En estos casos se iniciará de oficio el procedimiento de revocación de la Licencia, Permiso o Declaración de Apertura.
 
-### CAPÍTULO IV. PROCEDIMIENTO PARA LA REVOCACIÓN DE OFICIO
+### CAPÍTULO III. DEL RETIRO DE SELLOS DE CLAUSURA
 
 ###### Artículo 82.
 
@@ -1190,7 +1246,7 @@ En caso de que exista impedimento por parte de la autoridad para autorizar el re
 
 Para el retiro de sellos de clausura, el verificador entregará al titular del establecimiento copia legible de la orden de levantamiento y del acta circunstanciada que se levante ante dos testigos, en la que constará su ejecución.
 
-### CAPÍTULO V. DE LAS NOTIFICACIONES
+### CAPÍTULO IV. PROCEDIMIENTO PARA LA REVOCACIÓN DE OFICIO
 
 ###### Artículo 85.
 
@@ -1220,7 +1276,7 @@ Son admisibles todas las pruebas, a excepción de la confesional de la autoridad
 
 ###### Artículo 89.
 
-En la audiencia a que se refiere los artículos anteriores, se desahogarán las pruebas ofrecidas; una vez concluido el desahogo, e l Titular alegará lo que a su derecho convenga.
+En la audiencia a que se refiere los artículos anteriores, se desahogarán las pruebas ofrecidas; una vez concluido el desahogo, el Titular alegará lo que a su derecho convenga.
 
 ###### Artículo 90.
 
@@ -1240,11 +1296,13 @@ La Delegación tendrá en todo momento la facultad de corroborar que el estado d
 
 Cuando se detecte por medio de verificación ocular o queja, que el local clausurado no tiene sellos, se ordenará por oficio se repongan estos, y se dará parte a la autoridad correspondiente.
 
-### CAPÍTULO VI. DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO V. DE LAS NOTIFICACIONES
 
 ###### Artículo 94.
 
 Las notificaciones a las que alude la Ley, se realizaran conforme lo establece la Ley de Procedimiento Administrativo del Distrito Federal.
+
+### CAPÍTULO VI. DEL RECURSO DE INCONFORMIDAD
 
 ###### Artículo 95.
 
@@ -1256,7 +1314,7 @@ PRIMERO.- Se abroga la Ley para el Funcionamiento de Establecimientos Mercantile
 
 SEGUNDO.- Publíquese en la Gaceta Oficial para el Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
-TERCERO. - Esta ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+TERCERO.- Esta ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 CUARTO.- El Jefe de Gobierno contará con un plazo de 90 días a partir de la entrada en vigor de esta Ley, para la publicación del Reglamento de la misma.
 
@@ -1285,3 +1343,13 @@ Recinto Legislativo, a 12 de febrero de 2002.
 POR LA MESA DIRECTIVA.- DIP. CAMILO CAMPOS LÓPEZ, PRESIDENTE.- SECRETARIA, DIP. ANA LAURA LUNA CORIA.- SECRETARIO, DIP. CARLOS ORTIZ CHÁVEZ.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintidós días del mes de febrero del dos mil dos.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR. - FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ AGUSTÍN ORTIZ PINCHETTI.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 14 DE MAYO DE 2002.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Estas Reformas y Adiciones entrarán en vigor al día siguiente de su Publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Los establecimientos mercantiles a los que se refieren los artículos 9 fracción XVI párrafo segundo y 67-Bis, deberán ajustarse a las disposiciones que el mismo artículo establece dentro de los 60 días hábiles siguientes a la fecha de entrada en vigor de este Decreto.
