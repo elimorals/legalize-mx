@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1952-09-17"
+last_updated: "1954-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 1952.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1954.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -133,11 +133,13 @@ Los mexicanos por nacimiento o por naturalización que, siendo vecinos, manifies
 
 ### CAPITULO VI.. De los ciudadanos tlaxcaltecas
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 1954)</small>
+
 ###### Art. 12.
 
-Son ciudadanos del Estado todos los que teniendo la calidad de tlaxcaltecas, reúnan además los siguientes requisitos:
+Son ciudadanos del Estado todos los varones y las mujeres que teniendo la calidad de tlaxcalteca, reúnan además los siguientes requisitos:
 
-I. Haber cumplido diez y ocho años, siendo casados, o veintiuno si no lo son, y
+I. Haber cumplido dieciocho años, siendo casados, o veintiuno si no lo son, y
 
 II. Tener un modo honesto de vivir.
 
@@ -777,13 +779,11 @@ La Ley organizará el Ministerio Público, fijará las atribuciones de los funci
 
 De los Municipios.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1949)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 1954)</small>
 
 ###### Art. 72.
 
-Cada Municipio será Administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
-
-En las elecciones Municipales, participarán las mujeres en igualdad de condiciones que los varones, con el derecho de votar y ser votadas.
+Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1946)</small>
 
@@ -1088,3 +1088,7 @@ La presente reforma surtirá sus efectos a partir de su publicación en el Peri�
 P.O. 17 DE SEPTIEMBRE DE 1952.
 
 La presente reforma surtirá sus efectos a partir del día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MARZO DE 1954.
+
+El presente Decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
