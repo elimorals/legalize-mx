@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-de-centros-poblados-del-estado-de-sinaloa-983
 country: "mx"
 rank: "ley"
 publication_date: "1970-10-01"
-last_updated: "2001-12-21"
+last_updated: "2004-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 LEY DE DESARROLLO DE CENTROS POBLADOS DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL "EL ESTADO DE SINALOA": 21 DE DICIEMBRE DE 2001.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE SINALOA, PUBLICADA EN EL PERIODICO OFICIAL EL 1 DE SEPTIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL "EL ESTADO DE SINALOA": ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa" el 1o. de octubre de 1970.
 
@@ -1922,3 +1924,15 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 21 DE DICIEMBRE DE 2001.
 
 UNICO.- El presente decreto se publicará en el Periódico Oficial "El Estado de Sinaloa" e iniciará su vigencia el primero de enero del año 2002.
+
+P.O. 1 DE SEPTIEMBRE DE 2004.
+
+LEY DE DESARROLLO URBANO DEL ESTADO DE SINALOA.
+
+###### ARTICULO PRIMERO.
+
+ESTA LEY ENTRARA EN VIGOR A LOS NOVENTA DIAS SIGUIENTES A SU PUBLICACION EN EL PERIODICO OFICIAL "EL ESTADO DE SINALOA".
+
+###### ARTICULO SEGUNDO.
+
+SE ABROGAN LA LEY DE DESARROLLO URBANO DEL ESTADO DE SINALOA, PUBLICADA EN EL PERIODICO OFICIAL "EL ESTADO DE SINALOA" No. 14, EL DIA 2° DE FEBRERO DE 1977 Y LA LEY DE DESARROLLO DE CENTROS POBLADOS DEL ESTADO DE SINALOA, PUBLICADA EN EL PERIODICO OFICIAL "EL ESTADO DE SINALOA" No. 118, EL DIA 1° DE OCTUBRE DE 1970, ASI COMO TODAS SUS MODIFICACIONES PUBLICADAS EN ESE MISMO MEDIO.
