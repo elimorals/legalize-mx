@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2003-03-09"
+last_updated: "2004-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2004.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -61,13 +61,57 @@ CONSTITUCION POLITICA DEL ESTADO DE DURANGO
 
 En el Estado de Durango todas las personas gozan de los derechos públicos individuales y de los derechos públicos sociales que la Constitución Federal les otorga, los que no podrán suspenderse ni restringirse si no en los casos y condiciones previstos en la misma. Disfrutan además de las garantías que esta Constitución establece.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 2.
 
-En el Estado de Durango, queda prohibida toda clase de servidumbre, que implique la explotación o menoscabo de la dignidad de los trabajadores; las leyes reconocerán la diversidad cultural y protegerán y promoverán el desarrollo de las etnias duranguenses, de sus lenguas, valores culturales, usos, costumbres, recursos y formas de organización social.
+En el Estado de Durango, queda prohibida toda clase de servidumbre que implique la explotación o menoscabo de la dignidad de los trabajadores; igualmente queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad capacidades diferentes, condición social, condición de salud, religión, opinión, estado civil, o cualquier otra que atenta contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-El uso y disfrute colectivo de los recursos naturales, por las comunidades indígenas, se realizará de acuerdo con las formas y modalidades de propiedad, previstas por la Constitución Federal.
+El Estado tiene una composición pluricultural sustentada originalmente en los pueblos y comunidades indígenas; las leyes reconocerán la diversidad cultural, protegerán y promoverán el desarrollo de los pueblos indígenas existentes en el Estado, sus lenguas, valores culturales, usos, costumbres, recursos y formas de organización social; así como el derecho de los pueblos y comunidades indígenas para elegir a sus autoridades de acuerdo a sus usos, costumbres y tradiciones.
+
+La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas.
+
+El derecho de los pueblos indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad duranguense.
+
+A. Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para:
+
+I. Decidir sus formas internas de convivencia y organización social, económica, política y cultural.
+
+II. Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de esta Constitución, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres.
+
+III. Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de las mujeres en condiciones de equidad frente a los varones, en un marco que respete el pacto federal y la soberanía de la entidad.
+
+IV. Preservar y enriquecer sus lenguas, conocimientos y todos los elementos que constituyan su cultura e identidad.
+
+V. Conservar y mejorar el hábitat y preservar la integridad de sus tierras en los términos establecidos en esta Constitución.
+
+VI. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en la Constitución General de la Republica y leyes de la materia.
+
+VII. Elegir, en los municipios con población indígena, representantes ante los ayuntamientos, con el propósito de fortalecer la participación y representación política de conformidad con sus tradiciones y normas internas.
+
+VIII. Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales respetando los preceptos de esta Constitución. Los indígenas tienen en todo tiempo el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura.
+
+B. El Estado y los Municipios, para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, establecerán las instituciones y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
+
+Para abatir las carencias y rezagos que afectan a los pueblos y comunidades indígenas, dichas autoridades, tienen la obligación de:
+
+I. Impulsar el desarrollo regional de las zonas indígenas con el propósito de fortalecer las economías locales y mejorar las condiciones de vida de sus pueblos, mediante acciones coordinadas entre el Gobierno del Estado y los Municipios, con la participación de las comunidades. Las autoridades municipales determinarán, equitativamente las asignaciones presupuestales que las comunidades administrarán directamente para fines específicos, de conformidad con las leyes de la materia.
+
+II. Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior. Establecer un sistema de becas para los estudiantes indígenas en todos los niveles. Definir y desarrollar programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia y en consulta con las comunidades indígenas. Impulsar el respeto y conocimiento de las diversas culturas existentes en la nación y el Estado.
+
+III. Asegurar el acceso efectivo a los servicios de salud mediante la ampliación de la cobertura del sistema nacional, aprovechando debidamente la medicina tradicional, así como apoyar la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil.
+
+IV. Mejorar las condiciones de las comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que faciliten el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos.
+
+V. Propiciar la incorporación de las mujeres indígenas al desarrollo, mediante el apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria.
+
+VI. Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la aplicación de estímulos para las inversiones públicas y privadas que propicien la creación de empleos, la incorporación de tecnologías para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización.
+
+VII. Establecer políticas sociales para proteger a los migrantes de los pueblos indígenas, tanto en el territorio del Estado, mediante acciones para garantizar los derechos laborales de los jornaleros agrícolas; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas.
+
+VIII. Consultar a los pueblos indígenas en la elaboración del (sic) Planes Estatal y Municipales de Desarrollo y, en su caso, incorporar las recomendaciones y propuestas que realicen.
+
+Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la ley.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -178,6 +222,10 @@ Sólo en casos urgentes, cuando se trate de delito grave así calificado por la 
 En casos de urgencia o flagrancia, el juez que reciba la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley.
 
 Ningún indiciado podrá ser retenido por el Ministerio Público por mas de cuarenta y ocho horas, plazo en que deberá ordenar su libertad o ponérsele a disposición de la autoridad judicial; este plazo podrá duplicarse en aquellos casos que la Ley prevea como delincuencia organizada. Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal. En toda orden de cateo, que solo la autoridad judicial podrá expedir y que será escrita, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan, a lo que únicamente debe limitarse la diligencia, levantándose al concluirla un acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa, por la autoridad que practique la diligencia. La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de los libros y papeles indispensables para comprobar que se han acatado las disposiciones fiscales, sujetándose en estos casos a las leyes respectivas y a las formalidades prescritas para los cateos. Ningún juicio podrá tener más de tres instancias.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2004)</small>
+
+Los sentenciados, en los casos y condiciones que establezca la ley, podrán compurgar sus penas en los centros penitenciarios más cercanos a su domicilio, a fin de propiciar su reintegración a la comunidad como forma de readaptación social.
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -539,10 +587,6 @@ Los fallos del Tribunal Estatal Electoral serán definitivos y firmes. La ley es
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
 ###### ARTICULO 38.
 
 El asiento del Congreso es la Capital del Estado. Podrá trasladarse provisionalmente a otro lugar cuando se presenten circunstancias que lo ameriten y así lo acuerden cuando menos las dos terceras partes de los diputados presentes en la sesión en que se trate.
@@ -639,6 +683,10 @@ A efecto de garantizar la libre expresión de las corrientes ideológicas, repre
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
+SECCION D.- DE LAS FACULTADES DEL CONGRESO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ## TITULO TERCERO
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
@@ -705,11 +753,11 @@ SECCION A.- DE LA ORGANIZACION DEL CONGRESO
 
 Ninguna iniciativa que sea desechada por el Congreso podrá ser presentada de nuevo en el mismo período de sesiones.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
-SECCION E.- DE LA COMISION PERMANENTE
+SECCION F.- DE LA ENTIDAD DE AUDITORIA SUPERIOR DEL ESTADO
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 55.
 
@@ -893,7 +941,11 @@ XXXVIII.- Expedir leyes para la conservación, educación e instrucción de los 
 
 XXXIX.- Las demás que le confiera expresamente esta Constitución.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCION E.- DE LA COMISION PERMANENTE
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 56.
 
@@ -929,11 +981,7 @@ VI.- Recibir las iniciativas de ley y turnarlas para su estudio y dictamen, a la
 
 VII.- Las demás que le confiere esta Constitución.
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
-
-SECCION F.- DE LA ENTIDAD DE AUDITORIA SUPERIOR DEL ESTADO
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 58.
 
@@ -961,9 +1009,9 @@ El Poder Ejecutivo del Estado, aplicará el procedimiento administrativo de ejec
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION D.- DE LAS FACULTADES DEL CONGRESO
+SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ### CAPITULO TERCERO. DEL PODER EJECUTIVO
 
@@ -1119,7 +1167,7 @@ Cuando las faltas temporales sean de más de tres meses continuos, el Congreso d
 
 El cargo de Gobernador no es renunciable y solo por causa justificada el Congreso podrá concederle licencia hasta la terminación del período respectivo.
 
-En este caso se procederá en los términos que señala el Articulo 63 de esta Constitución.
+En este caso se procederá en los términos que señala el Artículo 63 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
 
@@ -1453,13 +1501,13 @@ El Poder Judicial del Estado, es autónomo y en el ejercicio de sus funciones, a
 
 El ejercicio del Poder Judicial del Estado, se deposita en un Tribunal Superior de Justicia, en un Tribunal Estatal Electoral, en Juzgados de Primera Instancia y en Juzgados Municipales.
 
-En el desempeño de sus funciones resolverá las contiendas o controversias de naturaleza jurídica, que se sometan a su conocimiento, aplicando la normatividad establecida en la legislación común en vigor y en el área territorial de nuestra entidad política. Además, conocerá de aquellas cuestiones que le sean planteadas en aplicación del principio de la jurisdicción concurrente a que se refiere la fracción I del articulo 104 de la Constitución Política de los Estados Unidos Mexicanos
+En el desempeño de sus funciones resolverá las contiendas o controversias de naturaleza jurídica, que se sometan a su conocimiento, aplicando la normatividad establecida en la legislación común en vigor y en el área territorial de nuestra entidad política. Además, conocerá de aquellas cuestiones que le sean planteadas en aplicación del principio de la jurisdicción concurrente a que se refiere la fracción I del artículo 104 de la Constitución Política de los Estados Unidos Mexicanos
 
 Los tribunales locales, en el ámbito de sus particulares atribuciones, intervendrán igualmente en el conocimiento de asuntos de jurisdicción voluntaria, siguiendo el trámite procesal que señale la ley.
 
 La competencia del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, el funcionamiento del Pleno y de las Salas, y la competencia de estas, las atribuciones de los Magistrados, el número y competencia de los jueces, la división del Estado en Distritos Judiciales, las responsabilidades en que incurran aquellos, así como los demás funcionarios y empleados del Poder Judicial, se regirán por lo que dispone esta Constitución y las leyes relativas.
 
-Se crea un órgano desconcentrado del Tribunal Superior de Justicia que intervendrá como entidad de apoyo administrativo, con las atribuciones y facultades a que se refiere el articulo 102 de esta Constitución.
+Se crea un órgano desconcentrado del Tribunal Superior de Justicia que intervendrá como entidad de apoyo administrativo, con las atribuciones y facultades a que se refiere el artículo 102 de esta Constitución.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -1491,7 +1539,7 @@ En caso de que, transcurrido el plazo de cinco días, el Congreso no acepte a la
 
 Si presentada la segunda propuesta, el congreso no la acepta, o no obtenga los votos requeridos dentro de los plazos señalados, en ese mismo acto, la aprobación se llevará a cabo mediante el voto secreto de cuando menos la mitad más uno de los Diputados asistentes a la sesión; de no reunirse esa votación, el Ejecutivo, dentro de los diez días posteriores a la celebración de la sesión, realizará la designación que tendrá carácter definitiva. Para el efecto de tener integrado el Pleno del Tribunal Superior de Justicia, los Magistrados que vayan a concluir su encargo continuarán en el desempeño de esa responsabilidad hasta en tanto se haga la designación.
 
-La renuncia de los Magistrados se presentará ante el titular del Ejecutivo, el qué, de encontrarla procedente, la turnará con su opinión al Congreso para la aceptación definitiva. En este caso, se observará el procedimiento señalado en el presente articulo, para los efectos de la nueva designación.
+La renuncia de los Magistrados se presentará ante el titular del Ejecutivo, el qué, de encontrarla procedente, la turnará con su opinión al Congreso para la aceptación definitiva. En este caso, se observará el procedimiento señalado en el presente artículo, para los efectos de la nueva designación.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -1639,7 +1687,7 @@ El Consejo de la Judicatura, es un órgano desconcentrado del Tribunal Superior 
 
 El Consejo se integrará con cinco miembros, de los cuales uno será, en representación del Pleno del Tribunal Superior de Justicia, el presidente de ese organismo que también lo será del Consejo; con dos Jueces de Primera Instancia y bajo el procedimiento que establezca la Ley Orgánica del Poder Judicial, y con una persona propuesta por el Gobernador del Estado y por una persona propuesta por el Congreso del Estado; en los casos que corresponda, la designación se realizará mediante el procedimiento de presentación de ternas, por lo que en lo que respecta a los jueces, el Tribunal Pleno hará la integración respectiva siguiendo criterios; de honestidad, eficiencia, capacidad y espíritu de servicio y tomando en consideración que no existirá limitante alguna, que acote su libertad de investigación y análisis para sustentar la propuesta.
 
-Los Consejeros designados, deberán reunir los requisitos señalados en el articulo 99 de esta constitución y sólo podrán ser removidos en los términos del Título Quinto de la misma.
+Los Consejeros designados, deberán reunir los requisitos señalados en el artículo 99 de esta constitución y sólo podrán ser removidos en los términos del Título Quinto de la misma.
 
 Se exceptúan del requisito del título de Licenciado en Derecho, a los consejeros que proponga y designe, respectivamente, el Titular del Ejecutivo y el Congreso del Estado, los que en todo caso, deberán poseer título a nivel licenciatura, en cualquier rama afín a las funciones propias del Consejo, con la antigüedad señalada.
 
@@ -1786,6 +1834,10 @@ e) Otorgar licencias y permisos para construcciones;
 f) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia; y
 
 g) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando aquellos afecten su ámbito territorial.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2004)</small>
+
+Las comunidades indígenas, dentro del ámbito municipal, podrán coordinarse y asociarse en los términos y para los efectos que prevenga la ley.
 
 En lo conducente y de conformidad a los fines señalados en el párrafo tercero, del artículo 27 de la Constitución Federal, expedirá los reglamentos y disposiciones administrativas que fueren necesarios.
 
@@ -2606,3 +2658,9 @@ Se deroga el artículo décimo primero transitorio del decreto 308 expedido por 
 ###### ARTÍCULO CUARTO.
 
 En tanto se expida el Decreto a que se refiere el artículo primero transitorio, los asuntos que se encuentran pendientes de resolución, seguirán su tramitación en las instancias y dependencias en las que actualmente se ventilan, atendiendo el procedimiento con el que dieron inicio.
+
+P.O. 22 DE FEBRERO DE 2004.
+
+PRIMERO: El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: Se derogan todas las disposiciones que se opongan al presente Decreto.
