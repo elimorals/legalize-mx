@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1948-02-12"
+last_updated: "1950-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 1950.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el jueves 30 de julio de 1936.
 
@@ -7277,9 +7277,11 @@ II.- A falta de los anteriores, el Fisco del Estado.
 
 El parentesco de afinidad no da derecho a heredar.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1950)</small>
+
 ###### Artículo 1462.
 
-Los parientes más próximos excluyen a los más remotos, salvo lo dispuesto en el artículo 1467.
+Los parientes más próximos excluyen a los más remotos, salvo lo dispuesto en los artículos 1467 y 1490, segundo párrafo.
 
 ###### Artículo 1463.
 
@@ -14350,3 +14352,9 @@ P.O. 12 DE FEBRERO DE 1948.
 ###### ARTICULO UNICO.
 
 La presente Ley empezará a regir a partir del día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 21 DE SEPTIEMBRE DE 1950.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
