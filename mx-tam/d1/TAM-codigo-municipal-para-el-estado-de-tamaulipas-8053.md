@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2002-12-02"
+last_updated: "2003-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -251,9 +251,9 @@ Para ser miembro de un Ayuntamiento se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2003)</small>
 
-II.- Tener una residencia no menor de cinco años en el Estado, y ser vecino del municipio por un período no menor de tres años inmediatos anteriores al día de la elección.
+II.- Ser originario del municipio o tener una residencia en el mismo por un periodo no menor de tres años inmediatos anteriores al día de la elección.
 
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
 
@@ -2561,7 +2561,7 @@ En caso de no llegar a un acuerdo, los trabajadores podrán suspender las labore
 
 ###### ARTICULO 257.
 
-Si la suspensión de labores se lleva a cabo antes de haberse satisfecho los requisitos señalados en el primer párrafo del artículo anterior,el Tribunal declarará que no existe el estado de huelga y fijará a los trabajadores un plazo de veinticuatro horas para que reanuden sus labores, apercibiéndolos de que si no lo hacen quedarán cesados sin responsabilidad para el Ayuntamiento considerándose como abandono de empleo.
+Si la suspensión de labores se lleva a cabo antes de haberse satisfecho los requisitos señalados en el primer párrafo del artículo anterior, el Tribunal declarará que no existe el estado de huelga y fijará a los trabajadores un plazo de veinticuatro horas para que reanuden sus labores, apercibiéndolos de que si no lo hacen quedarán cesados sin responsabilidad para el Ayuntamiento considerándose como abandono de empleo.
 
 ###### ARTICULO 258.
 
@@ -3016,3 +3016,7 @@ P.O. 2 DE DICIEMBRE DE 2002.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 99, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 55, FRACCIÓN XIX, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE OCTUBRE DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
