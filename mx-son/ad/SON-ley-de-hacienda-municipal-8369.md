@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "1993-07-19"
+last_updated: "1994-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE JULIO DE 1994.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -579,6 +579,24 @@ II.- Los poseedores de predios a que se refiere la Fracción II del Artículo 51
 
 III.- Los fideicomitentes, mientras sean poseedores del predio objeto del fideicomiso o los fideicomisarios que estén en posesión del predio, aún cuando todavía no se les transmita la propiedad o los terceros adquirentes por cualquier acto derivado de un fideicomiso.
 
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 1994)</small>
+
+Cuando el sujeto del impuesto predial, acredite su calidad de jubilado o pensionado, se aplicará el crédito fiscal correspondiente reducido en un 50%. Otorgándose este beneficio a una sola vivienda de su propiedad o profesión.
+
+(ADICIONADO, B.O. 7 DE JULIO DE 1994
+
+Para los efectos anteriores, se consideran jubilados o pensionados aquellas personas que acrediten la calidad correspondiente mediante la documentación oficial expedida por las Instituciones Públicas de Seguridad Social que a continuación se señalan:
+
+I.- Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado de Sonora.
+
+II.- Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado.
+
+III.- Instituto Mexicano del Seguro Social.
+
+IV.- Instituto de Seguridad y Servicios Sociales de las Fuerzas Armadas Mexicanas, de Petróleos Mexicanos, de la Comisión Federal de Electricidad y de Ferrocarriles Nacionales de México.
+
+V.- Otras Instituciones de Seguridad Social de la Federación, Estados o Municipios que presten éstos servicios.
+
 ###### ARTICULO 54.
 
 Son responsables solidarios en el pago del Impuesto:
@@ -745,9 +763,9 @@ En las permutas se considerará que se efectúan dos adquisiciones.
 
 Son sujetos de este impuesto, los adquirentes de bienes inmuebles, en los términos del Artículo anterior.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 7 DE JULIO DE 1994)</small>
 
-No se pagará el impuesto además de los casos señalados en el primer párrafo, después de la fracción II del artículo 24 de esta Ley, en la adquisición de inmuebles que hagan los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso, en las adquisiciones de inmuebles que hagan los arrendamientos financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero, así como en las adquisiciones que realicen las asociaciones religiosa (sic) constituidas en los términos de la Ley de la materia, siempre que en este último caso la adquisición se realice dentro de los seis meses siguientes a su Constitución.
+No se pagará el impuesto además de los casos señalados en el primer párrafo, después de la fracción II del Artículo 24 de esta Ley, en la adquisición de inmuebles que hagan los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso, así como en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
 
 ###### ARTICULO 74.
 
@@ -1359,11 +1377,11 @@ Por los servicios en materia de control sanitario de animales domésticos, que s
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO CUARTO. Recursos
+### CAPITULO TERCERO. Forma de Pago
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
-### CAPITULO TERCERO. Forma de Pago
+### CAPITULO CUARTO. Recursos
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
@@ -1958,3 +1976,43 @@ B.O. 19 DE JULIO DE 1993.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 7 DE JULIO DE 1994.
+
+Artículo Primero.- La presente Ley entrará en vigor en todo el Estado al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Las asociaciones religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el impuesto sobre traslación de dominio de bienes inmuebles establecido en la Ley de Hacienda Municipal, por las adquisiciones que realicen hasta el 31 de diciembre de 1994.
+
+Artículo Tercero.- Durante el período comprendido de la fecha de entrada en vigor de la presente Ley hasta el 31 de diciembre de 1994, se aplicarán las siguientes disposiciones transitorias:
+
+I.- Tratándose de adquisiciones de vivienda de interés social y popular cuyo valor al momento de la operación no exceda de la suma que resulte de multiplicar por 25 el salario mínimo general elevado al año vigente en el área geográfica de que se trate, la base determinada para la aplicación de la tasa del Impuesto Sobre Traslación de Dominio de Bienes Inmuebles establecida en el Artículo 75 de la Ley de Hacienda Municipal, se reducirá en un monto equivalente a 15 veces el salario mínimo general elevado al año vigente en el área geográfica de que se trate.
+
+En la adquisición de terrenos destinados a edificación de vivienda de interés social y popular cuyo valor al término de su edificación no exceda de la suma que resulte de multiplicar por 25 el salario mínimo general elevado al año, vigente en el área geográfica de que se trate, el Impuesto Sobre Traslación de Dominio de Bienes Inmuebles se aplicará reducido a un 50%.
+
+Para la aplicación de la reducción a que se refiere el párrafo anterior, deberá presentarse copia de la licencia de uso del suelo correspondiente, teniendo el sujeto del Impuesto el plazo de un año contado a partir de la fecha de la adquisición, para edificar o desarrollar el predio, caso contrario deberá cubrir la diferencia que resulte de aplicar la tasa establecida en el Artículo 75 de la Ley de Hacienda Municipal.
+
+II.- Se otorga a los organismos descentralizados y fideicomisos públicos, así como a los promotores sociales y privados, que tengan por objeto desarrollar proyectos de vivienda nueva popular, o de rehabilitación y reparación de vivienda, una reducción del 50% de los créditos fiscales por concepto de los Derechos por los servicios en materia de desarrollo urbano a que se refieren los Artículos 131 fracciones I, II inciso a) y III; 132 Fracción I incisos a), b), c), d) y e) y 133 fracciones I, II, III y V, de la Ley de Hacienda Municipal, que resulten a su cargo con motivo de la construcción o rehabilitación y reparación de inmuebles para vivienda popular.
+
+Los pagos por concepto de los derechos establecidos en la Fracción anterior, no serán objeto de los impuestos adicionales a que se refiere el Capítulo Quinto del Título Segundo de la Ley de Hacienda Municipal.
+
+III.- Los promotores privados de vivienda, para ser considerados como beneficiarios de la presente disposición Transitoria contenida en la Fracción II anterior, deberán acreditar ante la autoridad municipal correspondiente lo siguiente:
+
+A) Que se desarrollan proyectos de vivienda, con valores de hasta 25 veces el salario mínimo general elevado al año vigente en el área geográfica de que se trate, debiendo presentar solicitud por escrito acompañando proyecto de sembrado, planta y tipo de vivienda con croquis de localización.
+
+B) Que especifiquen a demás en dicha solicitud el precio de venta de las viviendas, haciendo constar en forma desglosada el monto de la reducción al mismo, derivada de los beneficios a que se refieren estas disposiciones transitorias, así como su precio definitivo.
+
+C) Que se encuentren inscritos en el Registro de Promotores que para el efecto lleve a cabo la Coordinación para la Promoción de Viviendas del Estado de Sonora.
+
+D) Que una vez autorizadas las reducciones a que se refieren las presentes disposiciones transitorias, publique en los medios de comunicación el precio definitivo de venta de las viviendas, así como la relación de las contribuciones y porcentajes reducidos.
+
+IV.- Los promotores de vivienda del sector social, para ser considerados beneficiarios de la presente disposición transitoria contenida en la Fracción II anterior, deberán:
+
+A) Reunir los requisitos a que se refieren los incisos A) y C) de la fracción III anterior.
+
+B) Que el proyecto de vivienda de que se trate lo realice por sí o a través de un organismo o fideicomiso público dedicado a la vivienda.
+
+V.- Los organismos descentralizados y fideicomisos públicos, para la obtención del beneficio fiscal, establecido en la Fracción II de las presentes disposiciones Transitorias, deberán cumplir con los requisitos señalados en los incisos A) y C) de la Fracción III de estas disposiciones Transitorias.
+
+VI.- Una vez que reúnan los requisitos que establecen las Fracciones anteriores, los organismos y organizaciones de los sectores públicos, social y privado a que se refieren las presentes disposiciones Transitorias, solicitarán por escrito ante la autoridad municipal correspondiente, la autorización de la reducción de que se trate.
+
+VII.- las reducciones que se otorguen a las entidades y promotores a que se refieren las fracciones I, segundo párrafo y II, de estas disposiciones Transitorias, se condicionará a que en la realización de las obras se cumpla con lo estipulado en la Ley 101 de Desarrollo Urbano para el Estado de Sonora, y Reglamento de Construcción, aplicable, así como a las especificaciones técnicas, lineamientos y plazos que al efecto se establezcan en el proyecto y calendario de obras definitivos aprobados.
