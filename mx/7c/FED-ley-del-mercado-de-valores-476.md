@@ -4,7 +4,7 @@ identifier: "FED-ley-del-mercado-de-valores-476"
 country: "mx"
 rank: "ley"
 publication_date: "1975-01-02"
-last_updated: "2003-06-13"
+last_updated: "2004-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=476&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 2 de enero de 1975.
 
@@ -1058,15 +1058,15 @@ Las casas de bolsa sólo podrán realizar las actividades siguientes:
 
 > <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-I.- Actuar como intermediarios en el mercado de valores, en los términos de la presente Ley, sujetándose a las disposiciones de carácter general que dicte la Comisión Nacional Bancaria y de Valores;
+I.- Actuar como intermediarios en el mercado de valores, en los términos de la presente Ley, sujetándose a las disposiciones de carácter general que dicte la Comisión Nacional Bancaria y de Valores.
 
 > <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-II.- Recibir fondos por concepto de las operaciones con valores que se les encomienden. Cuando por cualquier circunstancia no puedan aplicar esos fondos al fin correspondiente, el mismo día de su recibo deberán, si persiste impedimento para su aplicación, depositarlos en institución de crédito a más tardar el día hábil siguiente, o bien adquirir acciones representativas del capital de alguna sociedad de inversión de renta fija, depositándolas en la cuenta del cliente respectivo. En ambos casos los fondos se registrarán en cuenta distinta de las que forman parte del activo de la casa de bolsa;
+II.- Recibir fondos por concepto de las operaciones con valores que se les encomienden. Cuando por cualquier circunstancia no puedan aplicar esos fondos al fin correspondiente, el mismo día de su recibo deberán, si persiste impedimento para su aplicación, depositarlos en institución de crédito a más tardar el día hábil siguiente, o bien adquirir acciones representativas del capital de alguna sociedad de inversión de renta fija, depositándolas en la cuenta del cliente respectivo. En ambos casos los fondos se registrarán en cuenta distinta de las que forman parte del activo de la casa de bolsa.
 
 > <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-III.- Prestar asesoría en materia de valores en forma directa o a través de empresas subsidiarias, ajustándose a lo previsto en el artículo 12 Bis, fracciones II a VIII de esta Ley;
+III.- Prestar asesoría en materia de valores en forma directa o a través de empresas subsidiarias, ajustándose a lo previsto en el artículo 12 Bis, fracciones II a VIII de esta Ley.
 
 IV.- Con sujeción a las disposiciones de carácter general que dicte el Banco de México:
 
@@ -1140,21 +1140,21 @@ Las operaciones e inversiones a que se refieren los incisos a) y c) anteriores, 
 
 > <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
 
-VI.- Actuar como representantes comunes de obligacionistas y tenedores de otros valores, títulos o documentos a que sea aplicable el régimen de la presente Ley;
+VI.- Actuar como representantes comunes de obligacionistas y tenedores de otros valores, títulos o documentos a que sea aplicable el régimen de la presente Ley.
 
-VII.- Administrar las reservas para fondos de pensiones o jubilaciones de personal, complementarias a las que establece la Ley del Seguro Social y de primas de antigüedad, conforme a lo dispuesto por la Ley del Impuesto sobre la Renta;
+VII.- Administrar las reservas para fondos de pensiones o jubilaciones de personal, complementarias a las que establece la Ley del Seguro Social y de primas de antigüedad, conforme a lo dispuesto por la Ley del Impuesto sobre la Renta.
 
 > <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-VIII.- Adquirir las acciones representativas de su capital social, de conformidad con lo dispuesto por el artículo 14 Bis 3, fracción I de esta Ley;
+VIII.- Adquirir las acciones representativas de su capital social, de conformidad con lo dispuesto por el artículo 14 Bis 3, fracción I de esta Ley.
 
 > <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 1993)</small>
 
-IX.- Invertir en títulos representativos del capital social de entidades financieras del exterior, con arreglo a lo señalado por el artículo 22 Bis 2 de la presente Ley;
+IX.- Invertir en títulos representativos del capital social de entidades financieras del exterior, con arreglo a lo señalado por el artículo 22 Bis 2 de la presente Ley.
 
 > <small>(ADICIONADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
-X.- Emitir obligaciones subordinadas de conversión obligatoria a títulos representativos de su capital social, computables dentro de su capital global, quedando sujeta la emisión de dichas obligaciones a lo dispuesto en el artículo 64 de la Ley de Instituciones de Crédito;
+X.- Emitir obligaciones subordinadas de conversión obligatoria a títulos representativos de su capital social, computables dentro de su capital global, quedando sujeta la emisión de dichas obligaciones a lo dispuesto en el artículo 64 de la Ley de Instituciones de Crédito.
 
 > <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 1996)</small>
 
@@ -1650,19 +1650,19 @@ Las Instituciones Financieras del Exterior podrán establecer las sociedades a q
 
 Las bolsas de valores tienen por objeto facilitar las transacciones con valores y procurar el desarrollo del mercado respectivo, a través de las actividades siguientes:
 
-I.- Establecer locales, instalaciones y mecanismos, que faciliten las relaciones y operaciones entre la oferta y la demanda de valores;
+I.- Establecer locales, instalaciones y mecanismos, que faciliten las relaciones y operaciones entre la oferta y la demanda de valores.
 
 > <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
 
-II.- Proporcionar y mantener a disposición del público información sobre los valores inscritos en bolsa y los listados en el sistema internacional de cotizaciones de la propia bolsa, sobre sus emisores y las operaciones que en ella se realicen;
+II.- Proporcionar y mantener a disposición del público información sobre los valores inscritos en bolsa y los listados en el sistema internacional de cotizaciones de la propia bolsa, sobre sus emisores y las operaciones que en ella se realicen.
 
-III.- Hacer publicaciones sobre las materias señaladas en el inciso inmediato anterior;
+III.- Hacer publicaciones sobre las materias señaladas en el inciso inmediato anterior.
 
 > <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-IV.- Establecer las medidas necesarias para que las operaciones que se realicen en ellas por las casas de bolsa o especialistas bursátiles, se sujeten a las disposiciones que les sean aplicables;
+IV.- Establecer las medidas necesarias para que las operaciones que se realicen en ellas por las casas de bolsa o especialistas bursátiles, se sujeten a las disposiciones que les sean aplicables.
 
-V.- Certificar las cotizaciones en bolsa;
+V.- Certificar las cotizaciones en bolsa.
 
 > <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
@@ -2054,7 +2054,7 @@ Las infracciones a esta Ley o a las disposiciones de carácter general que de el
 
 > <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
-I.- Multa de 2,000 a 4,000 días de salario, a las personas que empleen las expresiones a que se refiere el artículo 9o. de esta Ley, sin gozar de la autorización o concesión correspondiente;
+I.- Multa de 2,000 a 4,000 días de salario, a las personas que empleen las expresiones a que se refiere el artículo 9o. de esta Ley, sin gozar de la autorización o concesión correspondiente.
 
 > <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
@@ -2064,15 +2064,15 @@ En el caso de sociedades que adquieran acciones representativas de su capital so
 
 > <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
 
-III.- Multa de 8,000 a 10,000 días de salario, a las casas de bolsa y especialistas bursátiles que den noticia de las operaciones que realicen o en las que intervengan, en contravención a lo dispuesto en el artículo 25, así como a los oferentes de valores en el extranjero que no obtengan previamente la inscripción prevista por el artículo 11, primer párrafo de esta Ley;
+III.- Multa de 8,000 a 10,000 días de salario, a las casas de bolsa y especialistas bursátiles que den noticia de las operaciones que realicen o en las que intervengan, en contravención a lo dispuesto en el artículo 25, así como a los oferentes de valores en el extranjero que no obtengan previamente la inscripción prevista por el artículo 11, primer párrafo de esta Ley.
 
 > <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-IV.- Multa de 400 a 10,000 días de salario, a las casas de bolsa o especialistas bursátiles que no cumplan con las obligaciones previstas en los artículos 27, fracciones I y II o que incurran en alguno de los supuestos a que se refieren las fracciones II, III, V, VI, VII y IX del artículo 20 de la presente Ley;
+IV.- Multa de 400 a 10,000 días de salario, a las casas de bolsa o especialistas bursátiles que no cumplan con las obligaciones previstas en los artículos 27, fracciones I y II o que incurran en alguno de los supuestos a que se refieren las fracciones II, III, V, VI, VII y IX del artículo 20 de la presente Ley.
 
 > <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-V.- Multa de 1,000 a 4,000 días de salario, a las personas que dirijan propaganda o información al público sobre valores, o sobre los servicios u operaciones de las casas de bolsa, especialistas bursátiles, instituciones calificadoras de valores, bolsas de valores, instituciones para el depósito de valores y contrapartes centrales, en contravención a lo dispuesto por el artículo 5 de esta Ley, así como a los miembros del consejo de administración o directivos de casas de bolsa y especialistas bursátiles que hayan pagado dividendos en contravención a lo ordenado por el artículo 26 Bis 6 del mismo ordenamiento;
+V.- Multa de 1,000 a 4,000 días de salario, a las personas que dirijan propaganda o información al público sobre valores, o sobre los servicios u operaciones de las casas de bolsa, especialistas bursátiles, instituciones calificadoras de valores, bolsas de valores, instituciones para el depósito de valores y contrapartes centrales, en contravención a lo dispuesto por el artículo 5 de esta Ley, así como a los miembros del consejo de administración o directivos de casas de bolsa y especialistas bursátiles que hayan pagado dividendos en contravención a lo ordenado por el artículo 26 Bis 6 del mismo ordenamiento.
 
 VI.- (DEROGADA, D.O.F. 1 DE JUNIO DE 2001)
 
@@ -2102,49 +2102,49 @@ El importe de estas multas se determinará con base en las cifras que arroje el 
 
 > <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-X.- Multa de 500 a 10,000 días de salario, a las personas que infrinjan lo dispuesto en los artículos 41, fracción IX o a aquellas que obstaculicen, no colaboren o hagan caso omiso a los requerimientos realizados por la citada Comisión en ejercicio de las facultades que le confiere el artículo 43, de la presente Ley;
+X.- Multa de 500 a 10,000 días de salario, a las personas que infrinjan lo dispuesto en los artículos 41, fracción IX o a aquellas que obstaculicen, no colaboren o hagan caso omiso a los requerimientos realizados por la citada Comisión en ejercicio de las facultades que le confiere el artículo 43, de la presente Ley.
 
 > <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
 
-XI.- Multa de 800 a 15,000 días de salario, a quienes infrinjan lo dispuesto en el artículo 12 Bis de esta Ley;
+XI.- Multa de 800 a 15,000 días de salario, a quienes infrinjan lo dispuesto en el artículo 12 Bis de esta Ley.
 
 > <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 1993)</small>
 
-XII.- Multa de 200 a 4,000 días de salario, a las casas de bolsa y los especialistas bursátiles que infrinjan lo previsto en los artículos 91, 94, 95, 97, 98, segundo párrafo, 99, primero y último párrafos y 100, segundo párrafo de esta Ley, así como a las casas de bolsa, especialistas bursátiles e instituciones para el depósito de valores que omitan presentar o presenten extemporáneamente los avisos a que se refieren los artículos 27, fracción III y 59 de la misma;
+XII.- Multa de 200 a 4,000 días de salario, a las casas de bolsa y los especialistas bursátiles que infrinjan lo previsto en los artículos 91, 94, 95, 97, 98, segundo párrafo, 99, primero y último párrafos y 100, segundo párrafo de esta Ley, así como a las casas de bolsa, especialistas bursátiles e instituciones para el depósito de valores que omitan presentar o presenten extemporáneamente los avisos a que se refieren los artículos 27, fracción III y 59 de la misma.
 
 > <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 1993)</small>
 
-XIII.- Multa de 500 a 5,000 días de salario, a los depositantes y, según el caso, emisores que incumplan con la entrega de los valores materia de depósito en alguna institución para el depósito de valores, en los términos del artículo 76, fracción I, último párrafo de esta Ley;
+XIII.- Multa de 500 a 5,000 días de salario, a los depositantes y, según el caso, emisores que incumplan con la entrega de los valores materia de depósito en alguna institución para el depósito de valores, en los términos del artículo 76, fracción I, último párrafo de esta Ley.
 
 > <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 1993)</small>
 
-XIV.- Multa de 600 a 6,000 días de salario, a las personas que infrinjan lo ordenado por los artículos 112 y 114, penúltimo párrafo de la presente Ley;
+XIV.- Multa de 600 a 6,000 días de salario, a las personas que infrinjan lo ordenado por los artículos 112 y 114, penúltimo párrafo de la presente Ley.
 
 > <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 XV.- Multa de 200 a 10,000 días de salario, cuando el beneficio obtenido no sea cuantificable, o el mismo sea inferior a 5,000 días de salario, a todo aquel que participe de manera directa o indirecta en cualquiera de los actos mencionados en el artículo 124, fracción I de esta Ley. Si el beneficio obtenido es superior a 5,000 días de salario, la multa a imponer podrá ser de una a dos veces el mismo, más la cantidad que resulte de aplicar a dicho beneficio una tasa igual al promedio aritmético de los rendimientos que hayan generado las diez sociedades de inversión en instrumentos de deuda con mayor rentabilidad durante los seis meses anteriores a la fecha de la operación.
 
-Por beneficio no cuantificable se entiende todo privilegio, ventaja, provecho, prerrogativa o exención, presente o futuro, que se obtenga como resultado de la manipulación en actos conexos o relacionados que involucren los mismos valores y que no pueda ser determinado en dinero;
+Por beneficio no cuantificable se entiende todo privilegio, ventaja, provecho, prerrogativa o exención, presente o futuro, que se obtenga como resultado de la manipulación en actos conexos o relacionados que involucren los mismos valores y que no pueda ser determinado en dinero.
 
 > <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-XVI.- Las personas que realicen actos u operaciones en contravención de lo dispuesto en los artículos 96, 123 o 124, fracciones II a IV y VI de esta Ley, serán sancionados con multa de 200 a 10,000 días de salario;
+XVI.- Las personas que realicen actos u operaciones en contravención de lo dispuesto en los artículos 96, 123 o 124, fracciones II a IV y VI de esta Ley, serán sancionados con multa de 200 a 10,000 días de salario.
 
 > <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-XVII.- Las personas que realicen actos u operaciones en contravención de lo dispuesto en los artículos 16 Bis 3 o 124, fracción V de esta Ley, serán sancionados con multa entre el diez y cincuenta por ciento del importe de la operación u operaciones correspondientes;
+XVII.- Las personas que realicen actos u operaciones en contravención de lo dispuesto en los artículos 16 Bis 3 o 124, fracción V de esta Ley, serán sancionados con multa entre el diez y cincuenta por ciento del importe de la operación u operaciones correspondientes.
 
 > <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-XVIII.- Las personas que emitan o suscriban la opinión legal a que se refiere el artículo 14, fracción I, inciso b), de esta Ley, sin apegarse a dicho precepto o cuando el contenido del citado dictamen sea inexacto por causa de negligencia o dolo, serán sancionados con multa de 200 a 10,000 días de salario;
+XVIII.- Las personas que emitan o suscriban la opinión legal a que se refiere el artículo 14, fracción I, inciso b), de esta Ley, sin apegarse a dicho precepto o cuando el contenido del citado dictamen sea inexacto por causa de negligencia o dolo, serán sancionados con multa de 200 a 10,000 días de salario.
 
 > <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-XIX.- Multa de 10,000 a 100,000 días de salario, a las personas que sin ser casa de bolsa o especialista bursátil, realicen actos de los reservados a éstas por la presente Ley, o bien, hagan oferta pública de valores en contravención de lo dispuesto en esta Ley;
+XIX.- Multa de 10,000 a 100,000 días de salario, a las personas que sin ser casa de bolsa o especialista bursátil, realicen actos de los reservados a éstas por la presente Ley, o bien, hagan oferta pública de valores en contravención de lo dispuesto en esta Ley.
 
 > <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-XX.- Multa de 1,000 a 50,000 días de salario, a las personas que desempeñen funciones directivas, empleos, cargos o comisiones en una casa de bolsa o especialista bursátil, que dispongan de los recursos o valores recibidos de la clientela, aplicándolos a fines distintos a los contratados por dicha clientela;
+XX.- Multa de 1,000 a 50,000 días de salario, a las personas que desempeñen funciones directivas, empleos, cargos o comisiones en una casa de bolsa o especialista bursátil, que dispongan de los recursos o valores recibidos de la clientela, aplicándolos a fines distintos a los contratados por dicha clientela.
 
 > <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
@@ -2278,13 +2278,13 @@ Las mencionadas multas podrán ser impuestas tanto a las casas de bolsa y especi
 
 Las casas de bolsa, especialistas bursátiles, servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Valores, y los miembros de los consejos de administración, comisarios, auditores externos, directivos, apoderados para celebrar operaciones con el público y empleados de los intermediarios a que se refiere este artículo, deberán abstenerse de dar noticia o información de las operaciones previstas en el mismo a personas, dependencias o entidades, distintas de las autoridades competentes expresamente previstas. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 52 Bis 6.
 
 Los accionistas, consejeros y directivos que ordenen o insten a directivos o empleados de una casa de bolsa o especialista bursátil a la comisión de los delitos contenidos en los artículos 52 Bis, 52 Bis 1, 52 Bis 2 y 52 Bis 5 de esta Ley, serán sancionados hasta en una mitad más de las penas previstas en los artículos respectivos.
 
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 52 Bis 5.
 
@@ -2388,11 +2388,11 @@ a) Las acciones deberán mantenerse depositadas en la propia institución;
 
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-b) El consejo de administración deberá reunirse por lo menos una vez cada tres meses y de manera adicional, cuando sea convocado por el presidente del consejo, por al menos el veinticinco por ciento de los consejeros o por cualquiera de los comisarios de la sociedad. Para la celebración de las sesiones del consejo de administración, se deberá contar con la asistencia de cuando menos el cincuenta y uno por ciento de los consejeros, de los cuales por lo menos el veinticinco por ciento deberán ser consejeros independientes.
+b) El consejo de administración deberá reunirse por lo menos una vez cada tres meses y de manera adicional, cuando sea convocado por el presidente del consejo, por al menos el veinticinco por ciento de los consejeros o por cualquiera de los comisarios de la sociedad. Para la celebración de las sesiones del consejo de administración, se deberá contar con la asistencia de cuando menos el cincuenta y uno por ciento de los consejeros, de los cuales por lo menos el veinticinco por ciento deberán ser consejeros independientes;
 
 c) La transmisión de sus acciones sólo podrá efectuarse a persona que reúna los requisitos señalados en esta ley para ser accionista. Cuando por cualquier circunstancia un accionista deje de satisfacer los requisitos que para ello establece esta ley, la acción correspondiente deberá ser reembolsada por la sociedad; si este reembolso reduce el capital sin derecho a retiro, el resto de los accionistas deberán aportar proporcionalmente la cantidad necesaria para que el capital no sea inferior al establecido en la concesión correspondiente;
 
-d) Los tenedores de las acciones que sean reembolsadas tendrán derecho a recibir el valor contable de la acción, el que se determinará con el balance anual del último ejercicio, aprobado en la asamblea general ordinaria de accionistas. Las acciones reembolsadas se considerarán en tesorería.
+d) Los tenedores de las acciones que sean reembolsadas tendrán derecho a recibir el valor contable de la acción, el que se determinará con el balance anual del último ejercicio, aprobado en la asamblea general ordinaria de accionistas. Las acciones reembolsadas se considerarán en tesorería;
 
 > <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
@@ -4110,6 +4110,14 @@ DECIMO.- Lo dispuesto en los artículos 127 a 130 entrará en vigor el 1 de ener
 
 DECIMO PRIMERO.- Lo previsto en el artículo 14 Bis 3, fracción II, segundo párrafo de la Ley del Mercado de Valores, no será aplicable tratándose de ofertas públicas secundarias de venta de acciones que realicen accionistas de emisoras con valores inscritos en el Registro Nacional de Valores o a la adquisición o colocación de acciones propias que realicen las emisoras, cuyas acciones estuvieren inscritas con anterioridad a la fecha de entrada en vigor del presente Decreto.
 
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2004)</small>
+
+No estarán sujetas a las restricciones establecidas en la fracción II, segundo y tercer párrafos del propio artículo 14 Bis 3, las emisoras que hayan emitido las acciones o instrumentado los mecanismos a que dichos párrafos se refieren, con anterioridad al inicio de vigencia del mismo precepto, siempre que para ello se hayan ajustado a las disposiciones legales correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2004)</small>
+
+En caso de modificaciones al capital social, las excepciones antes señaladas serán aplicables en tanto tienda a incrementarse la proporción de acciones ordinarias original o, cuando la situación de la emisora lo justifique, se mantenga dicha proporción, siempre que se revele al público inversionista que con la modificación al capital, éste aún no se ajusta al régimen vigente. En ambos casos se requerirá la previa autorización de la Comisión Nacional Bancaria y de Valores, la cual procederá cuando a su juicio se acredite que no se afectan los intereses del público inversionista.
+
 DECIMO SEGUNDO.- Las sociedades emisoras que a la fecha de entrada en vigor del presente Decreto mantengan acciones inscritas en el Registro Nacional de Valores, no podrán prever en sus estatutos sociales las cláusulas adicionales a que se refiere el artículo 14 Bis 3, fracción VII de la Ley del Mercado de Valores, hasta en tanto no se ajusten estrictamente a lo previsto en las fracciones II a VI, del citado artículo 14 Bis 3.
 
 DECIMO TERCERO.- El artículo 43 reformado entrará en vigor seis meses después de que entre en vigor el resto del presente Decreto.
@@ -4129,3 +4137,7 @@ D.O.F. 13 DE JUNIO DE 2003.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Las disposiciones de este Decreto no serán aplicables a los créditos contratados con anterioridad a la fecha de entrada en vigor del mismo, ni aun tratándose de novación o reestructuración de créditos.
+
+D.O.F. 23 DE ENERO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
