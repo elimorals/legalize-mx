@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-ministerio-publico-del-estado-de-baja-3320"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1999-04-06"
+last_updated: "2004-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE NOVIEMBRE DE 2004.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1976.
 
@@ -95,11 +95,11 @@ XI. Intervenir, en los demás asuntos que las leyes del Estado determinen.
 
 Toda denuncia, acusación o querella que se presente por delitos, que sean competencia de los Tribunales del Fuero Común, podrán hacerse ante los Agentes del Ministerio Público o Policía Judicial, quienes observarán las disposiciones que al efecto establece el Código de Procedimientos Penales.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 7o.
 
-El Ministerio Público tendrá bajo sus órdenes inmediatas a la Policía Judicial, en las investigaciones que ésta realice para comprobar el cuerpo del delito y la presunta responsabilidad, ordenándose la práctica de las diligencias que, a su juicio, estime necesarias para cumplir debidamente con su cometido; pudiendo utilizar, cuando sea necesario, los servicios de la Policía Municipal, que es su auxiliar.
+El Ministerio Público tendrá bajo sus órdenes inmediatas a la Policía Judicial, en las investigaciones que ésta realice para comprobar el cuerpo del delito y la presunta responsabilidad, ordenándose la práctica de las diligencias que, a su juicio, estime necesarias para cumplir debidamente con su cometido; pudiendo utilizar, cuando sea necesario, los servicios de la Policía Preventiva Municipal, que es su auxiliar.
 
 > <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
@@ -131,7 +131,9 @@ VI. Un Director de Control de Procesos, Agente del Ministerio Público.
 
 VII. Un Director de Servicios Periciales.
 
-VIII. Un Director de la Policía Judicial.
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2004)</small>
+
+VIII. Un Director de la Policía Ministerial.
 
 IX. Los Agentes del Ministerio Público Investigadores y Adscritos a los Juzgados y al Tribunal Superior de Justicia.
 
@@ -255,9 +257,11 @@ III. Tener título legalmente expedido y registrado en la dependencia correspond
 
 En caso de tratarse de actividades o profesiones no reglamentadas por la ley, se acreditarán los conocimientos por cualquier medio y deberá tenerse una práctica no menor de un año.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 22.
 
-Para ser Agente de la Policía Judicial se requiere:
+Para ser Agente de la Policía Ministerial se requiere:
 
 I. Ser ciudadano mexicano por nacimiento, mayor de veintiún años, y en pleno ejercicio de sus derechos.
 
@@ -787,11 +791,11 @@ V. Todas las facultades y obligaciones fijadas en este artículo a los adscritos
 
 En los lugares que haya un solo Agente del Ministerio Público, éste fungirá como Agente Investigador y adscrito al Juzgado correspondiente, teniendo las atribuciones y obligaciones que para ambos establece esta ley.
 
-> <small>(ADICIONADO, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(REFORMADA SU DENOMINACION, B.O. 30 DE NOVIEMBRE DE 2004)</small>
 
-### CAPITULO SEPTIMO. DIRECCION DE SERVICIOS PERICIALES
+### CAPITULO OCTAVO. DE LA DIRECCION DE LA POLICIA MINISTERIAL
 
-> <small>(REFORMADO Y REUBICADO, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 42.
 
@@ -835,23 +839,25 @@ Los servicios periciales se prestarán a pedimento de las autoridades judiciales
 
 En caso de que se solicite el servicio por otra autoridad o institución, se prestará cuando lo acuerde el Procurador.
 
-> <small>(ADICIONADO, B.O. 10 DE JULIO DE 1981)</small>
+### CAPITULO SEPTIMO. DIRECCION DE SERVICIOS PERICIALES
 
-### CAPITULO OCTAVO. DIRECCION DE POLICIA JUDICIAL
-
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(REFORMADO Y REUBICADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ###### ARTICULO 46.
 
-La Policía Judicial estará a cargo de un Director y un Subdirector, de los Comandantes, Jefes de Grupo, Agentes y Personal Administrativo, que el Procurador General de Justicia del Estado designe y determine el presupuesto.
+La Policía Ministerial estará a cargo de un Director y un Subdirector, de los Comandantes, Jefes de Grupo, Agentes y Personal Administrativo, que el Procurador General de Justicia del Estado designe y determine el presupuesto.
+
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 47.
 
-La Policía Judicial, de acuerdo con el artículo 21 de la Constitución General de la República, es el órgano auxiliar del Ministerio Público, para la persecución de los delitos y ejecución de los mandamientos judiciales correspondientes.
+La Policía Ministerial, de acuerdo con el artículo 21 de la Constitución General de la República, es el órgano auxiliar del Ministerio Público, para la persecución de los delitos y ejecución de los mandamientos Judiciales correspondientes.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 48.
 
-Son facultades y obligaciones de la Policía Judicial, como órgano auxiliar del Ministerio Público:
+Son facultades y obligaciones de la Policía Ministerial, como auxiliar del Ministerio Público:
 
 I. Investigar los hechos delictuosos de que tenga conocimiento acatando instrucciones del Ministerio Público, y procediendo de acuerdo a lo dispuesto en el artículo sexto de esta ley.
 
@@ -865,21 +871,23 @@ IV. Cumplir las órdenes o instrucciones que reciban de sus superiores.
 
 V. Las demás que le señalen las leyes, los reglamentos y el Procurador.
 
-> <small>(REFORMADO, B.O. 20 DE MAYO DE 1992)</small>
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 49.
 
-La Policía Judicial ejercitará sus atribuciones cumpliendo ordenes expresas de los servidores públicos Agentes del Ministerio Público, excepto en los casos de urgencia en que actuará desde luego, dando cuenta inmediata a la superioridad.
+La Policía Ministerial ejercitará sus atribuciones cumpliendo ordenes expresas de los servidores públicos Agentes del Ministerio Público, excepto en los casos de urgencia en que actuará desde luego, dando cuenta inmediata a la superioridad.
+
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 50.
 
-El Reglamento Interior de la Policía Judicial, fijará las labores que deban desempeñarse en cada dependencia de la misma.
+El Reglamento Interior de la Policía Ministerial, fijará las labores que deban desempeñarse en cada dependencia de la misma.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 51.
 
-Los Agentes de Seguridad y Tránsito son auxiliares de la Policía Judicial y por tanto, tendrán la obligación de colaborar con ésta para el buen desempeño de sus funciones.
+Los Agentes de Seguridad y Tránsito son auxiliares de la Policía Ministerial y por tanto, tendrán la obligación de colaborar con ésta para el buen desempeño de sus funciones.
 
 ###### ARTICULO 52.
 
@@ -891,9 +899,13 @@ Queda estrictamente prohibida las (sic) existencia de "separos" o lugares de det
 
 De igual forma, queda terminantemente prohibido a la Policía, en el desempeño de sus funciones, aplicar métodos de tortura u otros que ofendan la dignidad humana, la violación de esta disposición será causa de cese inmediato, sin perjuicio de que se ejercite la acción penal correspondiente; igual sanción se aplicará al servidor público del Ministerio Público que ordene o consienta tal violación.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 54.
 
-Ningún miembro de la Policía Judicial podrá hacer uso de vehículos o cualquier otro objeto recogido o detenido con motivo de la comisión de delitos. La misma prohibición se establece para cualquier funcionario del Ministerio Público; la violación de esta disposición será causa de cese inmediato, sin perjuicio de que se ejercite en contra del responsable las acciones pertinentes.
+Ningún miembro de la Policía Ministerial podrá hacer uso de vehículos o cualquier otro objeto recogido o detenido con motivo de la comisión de delitos. La misma prohibición se establece para cualquier funcionario del Ministerio Público; la violación de esta disposición será causa de cese inmediato, sin perjuicio de que se ejercite en contra del responsable las acciones pertinentes.
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ## TITULO CUARTO. DISPOSICIONES GENERALES
 
@@ -1052,3 +1064,7 @@ B.O. 6 DE ABRIL DE 1999.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 30 DE NOVIEMBRE DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
