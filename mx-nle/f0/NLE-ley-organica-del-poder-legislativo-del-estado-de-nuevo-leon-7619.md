@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2003-10-01"
+last_updated: "2003-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -247,11 +247,11 @@ La directiva comunicará la instalación del Congreso a los Poderes Ejecutivo y 
 
 Con la elección de la Directiva a que se refiere el Artículo 33 de esta Ley, el nuevo Congreso se tendrá por legalmente constituido a partir del día 20 de Septiembre, fecha en que se formulará el Decreto correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 36.
 
-El día 20 de Septiembre de cada tres años a la hora que comunique la Directiva, se reunirán los Diputados en el Recinto Oficial en Sesión Solemne presidida por la Diputación Permanente de la Legislatura saliente en la cual, ésta, rendirá el informe correspondiente ante los Diputados de la Legislatura entrante. Terminado el informe por el Presidente de la Diputación Permanente, tomará posesión la Directiva de la nueva legislatura para que su Presidente haga la declaración solemne de apertura, pronunciando las siguientes palabras en voz alta: ("La (número) Legislatura del H. Congreso del Estado, abre hoy 20 de Septiembre de (año), el Primer Período Ordinario de Sesiones correspondiente al Primer Año de Ejercicio Constitucional".)
+El día 20 de Septiembre de cada tres años, a las 11:00 horas, se reunirán los Diputados en el Recinto Oficial en Sesión Solemne en la que una vez que tome posesión la Directiva de la nueva Legislatura, el Presidente hará la declaración solemne de apertura, pronunciando las siguientes palabras en voz alta: ("La (número) Legislatura del H. Congreso del Estado, abre hoy 20 de Septiembre de (año), el Primer Período Ordinario de Sesiones correspondiente al Primer Año de Ejercicio Constitucional").
 
 La misma declaratoria se hará en la apertura del segundo y tercer año.
 
@@ -1061,6 +1061,10 @@ Artículo 86 BIS.- Durante los períodos de receso, el Presidente de la Diputaci
 
 Al concluír el Período de Receso, de conformidad con lo establecido por el Artículo 66 fracción III de la Constitución Política local, el Presidente de la Diputación Permanente rendirá a la Asamblea, en la primera sesión del período que corresponda, un informe circunstanciado de los expedientes que hayan sido integrados durante ese período y de los que debe conocer el Pleno, absteniéndose en ese informe de emitir opinión alguna sobre los asuntos mencionados.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+En el caso del año de la elección, el Presidente de la Diputación Permanente deberá rendir su último informe el día 19 de septiembre, en sesión que se cite para tal efecto cuando no se encuentre reunido el Pleno.
+
 ###### Artículo 88.
 
 Cuando deba convocarse a Período Extraordinario de Sesiones del Congreso, en los términos del Artículo 66 fracción IV de la Constitución Política del Estado, la Diputación Permanente librará con toda oportunidad oficio a los integrantes del mismo, para ese efecto, y, además mandará se publique la Convocatoria en el Periódico Oficial y en el estrado del Congreso.
@@ -1222,3 +1226,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de
 P.O. 1 DE OCTUBRE DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2003.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
