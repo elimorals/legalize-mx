@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1985-12-07"
+last_updated: "1988-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1985.
-
-> <small>N. DE E. SE REPUBLICA EN FORMA INTEGRA EL TEXTO DE LA PRESENTE CONSTITUCION EN EL D.O.F. DEL 11 DE AGOSTO DE 1986, CON TODAS SUS REFORMAS HASTA LA CORRESPONDIENTE AL 7 DE DICIEMBRE DE 1985.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 1988.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -1249,9 +1247,11 @@ No pueden ser electos miembros de los Ayuntamientos: los militares en servicio a
 
 Los Ayuntamientos desempeñarán dos clases de funciones: las de legislación para el régimen, gobierno y administración del Municipio, y las de inspección, concernientes al cumplimiento de las disposiciones que dicten.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1988)</small>
+
 ###### ARTICULO 104.
 
-Los Ayuntamientos tendrán dos períodos legislativos; el primero se efectuará durante el mes de enero de cada año y estará destinado a expedir la ordenanza municipal que deberá contener todas las disposiciones que requieren el régimen, el gobierno y la administración del Municipio. El segundo período se efectuará en el mes de agosto de cada año y se destinará a formular y votar el Presupuesto de Egresos Municipales que deberá regir durante el año inmediato siguiente y a formular la iniciativa para impuestos especiales que presentarán ante la Legislatura del Estado, cuando la Ley General de Ingresos Municipales no comprenda algunos ramos peculiares del Municipio, que deban pagar impuestos.
+Los Ayuntamientos tendrán dos períodos Legislativos, el primero se iniciará durante el primer mes de su administración y estará destinado a expedir las ordenanzas municipales que deberán contener todas las disposiciones que requiere el régimen, el Gobierno y la administración municipal. El segundo período se iniciará en el mes de junio de cada año y destinará a formular y votar el Presupuesto de Egresos Municipales que deberá regir durante el año fiscal inmediato siguiente; y a formular la iniciativa para impuestos especiales que presentarán ante la Legislatura del Estado, cuando la Ley General de Ingresos Municipales no comprenda algunos ramos peculiares del Municipio, que deban pagar impuestos.
 
 ###### ARTICULO 105.
 
@@ -2080,3 +2080,9 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 7 DE DICIEMBRE DE 1985.
 
 UNICO.- Estas reformas constitucionales surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado. Los Artículos en donde aparezcan las palabras Contaduría Mayor de Glosa, deberán cambiarse por Contaduría Mayor de Hacienda.
+
+P.O. 2 DE JULIO DE 1988.
+
+PRIMERO.- Se derogan todas las disposiciones que se le opongan.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
