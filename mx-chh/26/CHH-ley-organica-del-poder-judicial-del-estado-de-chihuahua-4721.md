@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2003-06-07"
+last_updated: "2003-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2003.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -1379,7 +1379,9 @@ I.- Patrocinar a las personas a que se refiere el primero de los artículos de e
 
 II.- Desempeñar activamente sus funciones ante los Tribunales de sus respectivas adscripciones;
 
-III.- Promover todas las pruebas necesarias, solicitando la práctica de las diligencias pertinentes para el éxito de la defensa;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2003)</small>
+
+III.- Promover todas las pruebas necesarias, solicitando la práctica de las diligencias pertinentes para el éxito de la defensa. Las pruebas periciales solicitadas por los defensores de oficio, serán practicadas de manera gratuita por los peritos adscritos a la Procuraduría General de Justicia del Estado, en los casos en que el procesado carezca de recursos económicos para ello, siempre y cuando la Procuraduría cuente con los elementos técnicos y humanos necesarios para llevarlas a cabo;
 
 IV.- Tramitar los recursos que favorezcan a sus patrocinados solicitando, cuando proceda, los beneficios que concedan las leyes y en general, hacer todas las gestiones que favorezcan a quienes prestan sus servicios, incluyendo la interposición del juicio de amparo cuando se requiera;
 
@@ -2838,3 +2840,9 @@ P.O. 7 DE JUNIO DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrarán (sic) en vigor el día primero de julio del año 2003.
+
+P.O. 19 DE JULIO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
