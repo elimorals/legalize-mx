@@ -4,7 +4,7 @@ identifier: "CHH-ley-sobre-el-sistema-estatal-de-seguridad-publica-11848"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-27"
-last_updated: "1998-06-27"
+last_updated: "1998-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de junio de 1998.
 
@@ -1123,6 +1123,34 @@ Esta información servirá para lograr los propósitos que refiere el artículo 
 
 Dicha información se dará de baja de esta base de datos, por resoluciones firmes de libertad por desvanecimiento de datos o falta de elementos para procesar, así como por sentencias absolutorias.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 124-A.
+
+Se conformará el Padrón de Propietarios y Poseedores de Vehículos Extranjeros, en el que están obligados a inscribirse todas las personas que sean poseedores o propietarias de vehículos automotores de procedencia extranjera, sin importar su marca, modelo o destino que se les otorgue, que no acrediten que la internación y estancia en el Estado de dichos vehículos hayan sido facultadas por las autoridades correspondientes.
+
+En este padrón se registrará el nombre, edad, nacionalidad, domicilio, número telefónico y ocupación del poseedor o propietario de uno o más vehículos extranjeros, así como las características físicas y de identidad de los mismos, tales como la marca, tipo, modelo, número de motor y serie. A cada individuo empadronado se le otorgará una cédula de identificación por cada vehículo registrado, la cual se fijará en un lugar visible del automóvil.
+
+Las personas registradas en el Padrón de Propietarios y Poseedores de Vehículos Extranjeros deberán notificar en el término que señale el Reglamento respectivo, cuando transmitan la prorpiedad (sic) de los automóviles que motivan su inscripción en el mismo, a efecto de actualizar la información con los datos personales del nuevo propietario o poseedor en virtud de que este último no se considerará incluido en dicho padrón.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 124-B.
+
+El registro existente en el Padrón de Propietarios y Poseedores de Vehículos Extranjeros se mantendrá al corriente y permanecerá vigente hasta en tanto no se acredite el cumplimiento de los requisitos existentes para la estancia legal de vehículos automotores en el territorio nacional, al tenor de las leyes vigentes.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 124-C.
+
+El incumplimiento a cualquiera de las obligaciones contenidas en los artículos 124-A y 124-B, motivará la imposición de las sanciones correspondientes contenidas en la Sección Segunda Título Sexto de la presente ley.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 124-D.
+
+La Procuraduría General de Justicia en el Estado, en coordinación con las respectivas Direcciones Generales de Tránsito, será la autoridad responsable de elaborar y actualizar el Padrón de Propietarios y Poseedores de Vehículos Extranjeros, así como de vigilar el exacto cumplimiento de las disposiciones vigentes en esta materia e imponer las sanciones correspondientes.
+
 ###### Artículo 125.
 
 La Institución del Ministerio Público sólo podrá reservarse la información que ponga en riesgo alguna investigación, pero la proporcionará inmediatamente después de que deje de existir tal condición.
@@ -1408,3 +1436,13 @@ C.P. FRANCISCO JAVIER BARRIO TERRAZAS
 EL SECRETARIO DE GOBIERNO
 
 LIC. FRANCISCO HUGO GUTIERREZ DAVILA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor el día primero de enero del año mil novecientos noventa y nueve.
+
+SEGUNDO.- El Ejecutivo Estatal, dentro del término de diez días contados a partir de que entre en vigor el presente decreto, expedirá el Reglamento respectivo a los artículos 124-A, 124-B, 124-C y 124-D para proveer al exacto cumplimiento de los mismos.
+
+TERCERO.- Los propietarios o poseedores de vehículos extranjeros deberán inscribirse en el padrón a que el presente decreto se refiere, dentro del término de tres meses contados a partir de la fecha en que entre en vigor el reglamento respectivo a los artículos 124-A, 124-B, 124-C y 124-D de la Ley sobre el Sistema Estatal de Seguridad Pública.
