@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2000-09-28"
+last_updated: "2000-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2000.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -215,7 +215,9 @@ II.- Poder ser votados en dichas elecciones y nombrados para cualquier cargo o c
 
 III.- Petición y de asociación individual, libre y pacífica en los asuntos políticos del Estado; y
 
-IV.- (DEROGADA, P.O. 17 DE JUNIO DE 1999)
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2000)</small>
+
+IV.- Participar en las decisiones transcendentes (sic) del Poder Ejecutivo mediante el plebiscito, e iniciar leyes ante el Congreso del Estado, en los términos que establezca la presente Constitución y la Ley Reglamentaria que al efecto se expida.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -321,17 +323,21 @@ Los Diputados Propietarios no podrán ser reelectos para el período inmediato, 
 
 El Congreso del Estado, se integrará con veinticuatro diputados electos según el principio de mayoría relativa, mediante el sistema de distritos uninominales y hasta por dieciséis diputados electos según el principio de representación proporcional, de acuerdo al sistema de listas votadas en una circunscripción plurinominal, conforme lo determine la Legislación Electoral.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-Tendrán derecho a la asignación de Diputados de Representación Proporcional aquellos partidos políticos que hayan alcanzado el 1.5% uno punto cinco por ciento de la votación total del Estado.
+Tendrá derecho a la asignación de Diputados de Representación proporcional el partido político:
+
+I.- Que haya registrado candidatos a diputados de mayoría relativa en cuando menos la mitad de los distritos uninominales; y
+
+II.- Que haya obtenido por lo menos el dos por ciento de la votación total válida de diputados en el Estado.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 1995)</small>
 
 La legislación respectiva determinará las reglas y el procedimiento a que se sujetará la asignación de Diputados de Representación Proporcional, en los que invariablemente deberá asegurarse que se mantenga la representación del partido que haya resultado favorecido en la asignación de Diputaciones Plurinominales.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-Ningún partido tendrá derecho a que le sean reconocidos mas de veintiséis diputados, por ambos principios aún cuando hubiere obtenido un porcentaje de votos superior.
+Ningún partido tendrá derecho a que le sean reconocidos más de veinticuatro diputados por ambos principios, aún cuando hubiere obtenido un porcentaje de votos superior.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -393,25 +399,35 @@ D) Los funcionarios federales; y
 
 E) Los militares en servicio activo y quienes tengan mando de la Policía en el Distrito donde se efectúe la elección.
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 19.
 
-La preparación, organización, desarrollo y vigilancia de los procesos electorales, es una función estatal que se realiza a través de un organismo público denominado Consejo Estatal Electoral y un Tribunal Electoral, de cuya integración son corresponsables, el Poder Legislativo, los Partidos Políticos y los ciudadanos, en los términos que ordene la Legislación Electoral. Ambos con personalidad jurídica y patrimonio propios, con plena autonomía en su funcionamiento e independencia en sus decisiones y con carácter de permanentes que serán además encargados de la calificación de las elecciones en el ámbito de sus respectivas competencias.
+La preparación, organización, desarrollo y vigilancia de los procesos electorales, es una función estatal que se realiza a través de un organismo público denominado Instituto Estatal Electoral y un Tribunal Electoral del Estado, de cuya integración son corresponsables, el Poder Legislativo y los ciudadanos en los términos que ordene esta Constitución. Ambos con personalidad jurídica y patrimonio propios, con plena autonomía en su funcionamiento e independencia en sus decisiones y con carácter de Permanentes que serán además encargados de la calificación de las elecciones en el ámbito de sus respectivas competencias.
 
-La certeza, legalidad, independencia, objetividad, imparcialidad y profesionalismo serán principios rectores en el ejercicio de la función electoral a cargo de las autoridades electorales.
+La certeza, legalidad, independencia, objetividad, imparcialidad, serán principios rectores en el ejercicio de la función electoral.
 
-La legislación electoral establecerá un sistema de medios de impugnación, para garantizar que los actos de los organismos electorales, se ajusten invariablemente al principio de legalidad y a lo dispuesto por esta Constitución y en las leyes que de ella emanen. Dicho sistema fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el Principio de Definitividad de las etapas de los procesos electorales. De las impugnaciones conocerán el Consejo Estatal Electoral y el Tribunal Electoral del Estado. En materia electoral la interposición de los medios de impugnación legales no producirán efectos suspensivos sobre la resolución o el acto impugnado.
+El Instituto Estatal Electoral de Chiapas será autoridad en la materia y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos y técnicos. El Consejo General será su órgano máximo de dirección y responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar por que las actividades del instituto se guíen por los principios rectores de la función estatal electoral, se integrará por un Consejero Presidente y ocho Consejeros Electorales con voz y voto, y concurrirán, además, con voz pero sin voto, los representantes de los partidos políticos y un Secretario Ejecutivo. Así mismo habrá seis consejeros electorales suplentes en orden de prelación. La Ley determinará las reglas para la organización y funcionamiento de sus órganos, así como las relaciones de mando entre éstos. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral.
 
-El Tribunal tendrá competencia y organización para funcionar en pleno y en salas. Sus sesiones serán públicas. Estará integrado por cinco magistrados numerarios. Uno de los cuales fungirá como Presidente y por dos Magistrados supernumerarios que harán las veces de Jueces Instructores, los que serán nombrados por el Congreso del Estado o por la Comisión Permanente, en los recesos de éste, a más tardar el 25 de octubre del año anterior al de la elección, a propuesta consensada (sic) de la mayoría de los Partidos Políticos. Las resoluciones del Tribunal serán emitidas con plenitud de jurisdicción; sus fallos serán definitivos.
+El Tribunal Electoral del Estado de Chiapas será máxima autoridad jurisdiccional en la materia; tendrá competencia y organización para funcionar en pleno y en salas, y sus sesiones serán públicas. Las resoluciones del Tribunal serán emitidas con plenitud de jurisdicción; y sus fallos serán definitivos. Estará integrado por cinco magistrados numerarios, uno de los cuales fungirá como Presidente y por dos Magistrados Supernumerarios que harán las veces de Jueces Instructores.
 
-La Ley Electoral establecerá, de acuerdo con las disponibilidades presupuestales, las reglas a que se sujetará el financiamiento público de los partidos políticos, garantizando que reciban en forma equitativa financiamiento público para su sostenimiento y sus actividades tendientes a la obtención del sufragio universal durante los procesos electorales.
+El Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, así como los Magistrados del Tribunal Electoral serán elegidos por el Congreso del Estado o por la Comisión Permanente, en los recesos de éste, por el voto de las dos terceras partes de sus miembros presentes, de entre las propuestas que formulen las fracciones parlamentarias. Durarán en el cargo siete años, pudiendo ser reelectos para otro período y no podrán tener otro empleo, cargo o comisión, con excepción de aquellos que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia pública, no remunerados. El Secretario Ejecutivo del Instituto será nombrado por el voto de las dos terceras partes del Consejo General a propuesta de su Presidente.
 
-La legislación electoral establecerá las reglas a que se sujetará el financiamiento de los partidos políticos; los criterios para determinar los límites a las erogaciones en sus campañas electorales, los montos máximos que tengan las aportaciones de sus simpatizantes, debiendo garantizar que el financiamiento público prevalezca sobre el de carácter privado. Los procedimientos de control y vigilancia del origen, uso y destino de todos los recursos con que cuentan los partidos políticos y, señalará las sanciones por el incumplimiento a las disposiciones expedidas en la materia.
+La legislación electoral establecerá los requisitos que deberán reunir para su designación el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, así como los Magistrados del Tribunal Electoral, los que estarán sujetos al régimen de responsabilidades establecido en el Título Noveno de esta Constitución.
 
-La legislación electoral garantizará el derecho de los Partidos Políticos al acceso permanente en forma equitativa a los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la misma.
+El Instituto Estatal Electoral tendrá a su cargo en forma integral y directa, además de las que determine la legislación electoral, las actividades relativas a la capacitación y educación cívica, los derechos y prerrogativas de las asociaciones y partidos políticos, impresión de materiales electorales, preparación de la jornada electoral, la calificación de las elecciones y entrega de las constancias de mayoría o asignación respectivas en los términos que señale la Ley, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales.
 
-La ley respectiva tipificará los delitos y determinará las faltas en materia electoral, así como las sanciones que por ellos deban imponerse.
+Los partidos políticos son entidades de interés público; la Ley determinará los fines, derechos, prerrogativas, obligaciones y responsabilidades que con tal carácter les correspondan, así como las formas específicas de su intervención en los procesos electorales estatales. Los partidos políticos nacionales derivado de su participación en las elecciones estatales o municipales gozarán de los mismos derechos y prerrogativas, y tendrán las mismas obligaciones y responsabilidades dispuestos en la ley para los partidos políticos estatales.
+
+La Ley Electoral establecerá, de acuerdo con las disponibilidades presupuestales, las reglas y criterios a que se sujetará la determinación y distribución del financiamiento público de los partidos políticos, garantizando que reciban en forma equitativa financiamiento público para su sostenimiento y sus actividades tendientes a la obtención del voto durante los procesos electorales.
+
+La legislación electoral establecerá las reglas a que se sujetará el financiamiento de los partidos políticos que no provenga del erario público; los criterios para determinar los límites a las erogaciones en sus campañas electorales, los montos máximos que tengan las aportaciones de sus simpatizantes, debiendo garantizar que el financiamiento público prevalezca sobre el de carácter privado; los procedimientos de control y vigilancia del origen, uso y destino de todos los recursos con que cuentan los partidos políticos; y señalará las sanciones por el incumplimiento a las disposiciones expedidas en la materia.
+
+La legislación electoral garantizará el acceso permanente de los partidos políticos, en forma equitativa, a los medios de comunicación social, de acuerdo con las formas y términos que establezca la misma.
+
+La ley electoral establecerá un sistema de medios de impugnación, para garantizar que los actos de los organismos electorales, se ajusten invariablemente al principio de legalidad y a lo dispuesto por esta Constitución y en las leyes que de ella emanen. Dicho sistema fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el Principio de Definitividad de las etapas de los procesos electorales. De las impugnaciones conocerán el Instituto Estatal Electoral y el Tribunal Electoral del Estado. En materia electoral la interposición de los medios de impugnación legales no producirán efectos suspensivos sobre la resolución o el acto impugnado.
+
+La ley respectiva tipificará los delitos y determinará las faltas y responsabilidades en materia electoral, así como las sanciones que por ellos deban imponerse.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -492,6 +508,10 @@ II.- A los Diputados;
 III.- Al Supremo Tribunal de Justicia del Estado en materia de su ramo; y
 
 IV.- A los Ayuntamientos en asuntos municipales.
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2000)</small>
+
+V.- A los ciudadanos del Estado, en los términos que disponga la Ley, la cual establecerá los requisitos, alcances, términos y procedimientos para su ejercicio.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -633,9 +653,13 @@ XLV.- Sancionar las licencias mayores de quince días que soliciten los integran
 
 XLVI.- Expedir todas las leyes que sean necesarias con objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los otros Poderes del Estado.
 
-> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-XLVII.- Instituir el Tribunal Electoral del Estado, en los términos de lo dispuesto por esta Constitución y el Código Electoral.
+XLVII.- Instituir el Tribunal Electoral del Estado, así como el Instituto Estatal Electoral, en los términos de lo dispuesto por esta Constitución y el Código Electoral.
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2000)</small>
+
+XLVIII.- Legislar en materia de plebiscito e iniciativa popular.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -861,7 +885,13 @@ XXV.- Pedir la destitución por mala conducta de los funcionarios judiciales a q
 
 XXVI.- Crear Patronatos en los cuales participe la ciudadanía como coadyuvante de la Administración Pública en actividad de interés social, dotándolos de los recursos necesarios para el mejor logro de sus fines, así como vigilar la correcta aplicación de dichos recursos por medio de supervisiones o auditorías;
 
-XXVII.- Las demás que le confiera expresamente esta Constitución.
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2000)</small>
+
+XXVII.- Convocar a plebiscito en los términos que establezca esta Constitución y la ley de la materia, la cual dispondrá los requisitos, alcances, términos y procedimientos, a los que estará sujeto el ejercicio de esta facultad.
+
+A través del plebiscito, el titular del Poder Ejecutivo del Estado, podrá consultar a la ciudadanía para que expresen su aprobación o rechazo previo a actos o decisiones del mismo que no interfieran o impliquen actos o resoluciones de los Poderes Legislativo y Judicial.
+
+XXVIII.- Las demás que le confiera expresamente esta Constitución.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1287,7 +1317,7 @@ Todo empleado de Hacienda que maneje caudales públicos otorgará fianza en los 
 
 ###### ARTICULO 69.
 
-Para los efectos de este título, tendrán el carácter de servidores públicos, los representantes de elección popular, los miembros del Poder Judicial, los funcionarios, los empleados y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, paraestatal y municipal así como los servidores de los organismos electorales del Estado, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de este Título, tendrán el carácter de servidores públicos, los representantes de elección popular, los miembros del Poder Judicial, los funcionarios, los empleados y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal, paraestatal y municipal, así como del Instituto Estatal Electoral y del Tribunal Electoral del Estado, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -1313,11 +1343,11 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refiere este Artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 71.
 
-Podrán ser sujetos de juicio político el Gobernador del Estado, los diputados estatales, los magistrados del Supremo Tribunal de Justicia y los magistrados del Tribunal Electoral del Estado, los Secretarios de Despacho, el Procurador General de Justicia, el Oficial Mayor de Gobierno, el Contralor General de Gobierno, los Vocales Ejecutivos, los Coordinadores Generales, los Presidentes Municipales, los Consejeros ciudadanos del Consejo Estatal Electoral, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal y de fideicomisos públicos. Cuando el Gobernador del Estado, los Diputados al Congreso del Estado y los magistrados del Supremo Tribunal de Justicia del Estado, incurran en violaciones graves a la Constitución General de la República y a las leyes que de ella emanen, así como el manejo indebido de fondos y recursos federales, recibida que sea la declaratoria a que se contrae el artículo 110 de esa propia Constitución, el Congreso del Estado como jurado de acusación turnará al Pleno del Supremo Tribunal de Justicia del Estado el que erigido en Tribunal de Sentencia substanciará el procedimiento señalado en este Artículo.
+Podrán ser sujetos de juicio político el Gobernador del Estado, los Diputados Estatales, los Magistrados del Supremo Tribunal de Justicia, los Magistrados del Tribunal electoral del Estado y los magistrados del Tribunal del Servicio Civil, los Secretarios de Despacho, el Procurador General de Justicia, el Oficial Mayor de Gobierno, el Contralor General de Gobierno, los Vocales Ejecutivos, los Coordinadores Generales, los Presidentes Municipales, el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal y de fideicomisos públicos. Cuando el Gobernador del Estado, los Diputados al Congreso del Estado y los magistrados del Supremo Tribunal de Justicia del Estado, incurran en violaciones graves a la Constitución General de la República y a las leyes que de ella emanen, así como el manejo indebido de fondos y recursos federales, recibida que sea la declaratoria a que se contrae el artículo 110 de esa propia Constitución, el Congreso del Estado como jurado de acusación turnará al Pleno del Supremo Tribunal de Justicia del Estado el que erigido en Tribunal de Sentencia substanciará el procedimiento señalado en este artículo.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
@@ -1335,7 +1365,7 @@ Conociendo de la acusación el Supremo Tribunal de Justicia del Estado erigido e
 
 Las sanciones consistirán en la destitución del Servidor Público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 1997)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2000).
 
 ## TITULO OCTAVO. DEL PATRIMONIO Y DE LA HACIENDA PUBLICA
 
@@ -1343,7 +1373,7 @@ Las sanciones consistirán en la destitución del Servidor Público y en su inha
 
 ###### ARTICULO 72.
 
-Cuando se trate de actos u omisiones sancionados por la ley penal cometidos por el Gobernador del Estado, por los Diputados Estatales, por los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Estado, por los Secretarios y Subsecretarios de despacho, por el Procurador General y Subprocuradores de Justicia, el Oficial Mayor de Gobierno, el Contralor General de Gobierno, los Vocales Ejecutivos, los Coordinadores Generales, los Presidentes, Síndicos y Regidores Municipales, el Consejero ciudadano Presidente del Consejo Estatal Electoral, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal y de fideicomisos públicos, el Congreso del Estado o en su caso la Comisión Permanente, erigidos en jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese sólo hecho, separado de su encargo y sujeto a la acción de los tribunales del orden común; si esta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+Cuando se trate de actos u omisiones sancionados por la ley penal cometido por el Gobernador del Estado, por los Diputados Estatales, por los Magistrados del Supremo Tribunal de Justicia, del Tribunal Electoral del Estado y del Tribunal del Servicio Civil, por los Secretarios y Subsecretarios de Despacho, por el Procurador General y Subprocuradores de Justicia, el Oficial Mayor de Gobierno, el Contralor General de Gobierno, los Vocales Ejecutivos, los Coordinadores Generales, los Presidentes, Síndicos y Regidores Municipales, el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal y de fideicomisos públicos, el Congreso del Estado o en su caso la Comisión Permanente, erigidos en jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese solo hecho, separado de su encargo y sujeto a la acción de los Tribunales del Orden Común; si esta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -1413,11 +1443,11 @@ Todos los funcionarios públicos del Estado percibirán una compensación por su
 
 Todos los funcionarios y empleados del Estado y de los Municipios, al tomar posesión de sus cargos, harán protesta formal de respetar y cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ambas emanen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 79.
 
-El Gobernador, los Magistrados, el Procurador General, Subprocuradores, los Agentes del Ministerio Público, los Jueces de Primera Instancia, los Presidentes Municipales, los Secretarios y Subsecretarios del Despacho, el Oficial Mayor de Gobierno, los Secretarios del Supremo Tribunal de Justicia, los Actuarios, Funcionarios y Delegados del Registro Público de la Propiedad, así como los Consejeros Ciudadanos del Consejo Estatal Electoral, no podrán fungir como arbitradores, ni ejercer la abogacía, ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a personas que estén bajo su patria potestad o vínculo matrimonial. Tampoco podrán ejercer el notariado, ni ser albaceas, depositarios judiciales, síndicos, administradores, interventores de concursos, testamentarios o intestados. La infracción de este artículo será causa de responsabilidad. Esta prohibición comprende a funcionarios y empleados que no estén en ejercicio de sus funciones por hallarse, disfrutando de licencia.
+El Gobernador, los Magistrados, el Procurador General, Subprocuradores, los Agentes del Ministerio Público, los Jueces de Primera Instancia, los Presidentes Municipales, los Secretarios y Subsecretarios del Despacho, el Oficial Mayor de Gobierno, los Secretarios del Supremo Tribunal de Justicia, los Actuarios, Funcionarios y Delegados del Registro Público de la Propiedad, así como el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, no podrán fungir como arbitradores, ni ejercer la abogacía, ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a personas que estén bajo su patria potestad o vínculo matrimonial. Tampoco podrán ejercer el notariado, ni ser albaceas, depositarios judiciales, síndicos, administradores, interventores de concursos, testamentarios o intestados. La infracción de este artículo será causa de responsabilidad. Esta prohibición comprende a funcionarios y empleados, de los enumerados, que no estén en ejercicio de sus funciones por hallarse disfrutando de licencia.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1427,7 +1457,7 @@ Cuando en un Distrito Judicial no exista Notario Público, los Jueces Civiles o 
 
 ## TITULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 80.
 
@@ -2274,3 +2304,71 @@ P.O. 28 DE SEPTIEMBRE DE 2000.
 ###### ARTICULO UNICO.
 
 El Presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE OCTUBRE DE 2000.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto de reformas y adiciones a la Constitución Política del Estado de Chiapas, iniciará su vigencia el día de su publicación en el Periódico Oficial.
+
+###### ARTICULO SEGUNDO.
+
+El organismo público denominado Consejo Estatal Electoral quedará, como consecuencia de las presentes reformas y adiciones, extinguido en la fecha establecida en este decreto para la entrada en funciones del Consejo General del Instituto Estatal Electoral.
+
+###### ARTÍCULO TERCERO.
+
+Los archivos, bienes y recursos que integran el patrimonio del Consejo Estatal Electoral, pasarán al Instituto Estatal Electoral para todos los efectos legales correspondientes.
+
+El Consejero Presidente del Instituto Estatal Electoral, tan luego sea nombrado procederá a recibir los archivos, bienes y recursos a que se refiere el párrafo anterior. Asimismo adoptará las medidas necesarias para iniciar la puesta en funcionamiento del instituto en los términos establecidos en el presente decreto.
+
+###### ARTICULO CUARTO.
+
+Los Consejeros ciudadanos que actualmente integran el Consejo Estatal Electoral continuarán en el cargo, hasta en tanto no sean elegidos los consejeros electorales que habrán de integrar el Consejo General del Instituto Estatal Electoral.
+
+###### ARTICULO QUINTO.
+
+Los Consejeros Ciudadanos del Consejo Estatal Electoral que fungieron durante el proceso electoral del año 2000, y que no cuenten con más de dos procesos electorales consecutivos, podrán ser elegidos como Consejeros Electorales para integrar el Consejo General del Instituto Estatal Electoral, en caso de resultar elegidos fungirán durante el proceso electoral del año 2001, pudiendo ser designados para otro proceso electoral.
+
+###### ARTICULO SEXTO.
+
+El personal administrativo que actualmente labora en el Consejo Estatal Electoral se incorporará al Instituto Estatal Electoral.
+
+###### ARTICULO SEPTIMO.
+
+Por esta única vez, la elección del Consejero Presidente y de los Consejeros Electorales que integrarán el Consejo General del Instituto Estatal Electoral, se hará sucesivamente, a más tardar el día dos del mes de noviembre del año 2000; y deberá quedar instalado el día primero de diciembre de ese mismo año, conforme al procedimiento siguiente:
+
+A).- A más tardar el día 28 del mes de octubre del año 2000, las fracciones parlamentarias deberán presentar ante la Comisión Permanente del Congreso del Estado una relación con el nombre de las personas propuestas, hasta en número igual al de los Consejeros Electorales propietarios a elegir;
+
+B).- Recibidas las propuestas, que en su caso se presenten, la Comisión Permanente convocará a un período extraordinario de sesiones del Congreso del Estado, con el único objeto de elegir de entre las propuestas formuladas al Consejero Presidente y a los Consejeros Electorales que habrán de integrar el Consejo General del Instituto Estatal Electoral;
+
+C).- En la fecha prevista por la convocatoria que se refiere el inciso anterior, el Congreso del Estado previa lectura de las propuestas recibidas, las turnará a la Comisión de Gobernación y puntos Constitucionales, a efecto de que verifique el cumplimiento de los requisitos establecidos en el Código Electoral así como para evaluar y calificar los merecimientos, capacidad, idoneidad, estudios y experiencia en la materia de las personas propuestas. La verificación se circunscribirá a los elementos objetivos, por lo que los requisitos exigidos se acreditarán con las constancias respectivas emitidas por las instancias competentes;
+
+D).- Hecha la verificación, evaluación y calificación a que se refiere el inciso anterior, la Comisión de Gobernación y puntos Constitucionales emitirá y presentará dictamen para someterlo a la consideración del Congreso del Estado;
+
+E).- El Congreso del Estado, con base en el dictamen que formule la Comisión de Gobernación y puntos constitucionales, procederá a elegir sucesivamente, por el voto de las dos terceras partes de sus miembros presentes, al Consejero Presidente y a los consejeros electorales propietarios y suplentes del Consejo General del Instituto Estatal Electoral; y
+
+F).- El Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, elegidos conforme a las disposiciones del presente decreto durarán en funciones hasta el 15 de diciembre del año 2007, salvo aquellos que se hayan nombrado de conformidad con lo dispuesto por el artículo quinto transitorio de este decreto.
+
+###### ARTICULO OCTAVO.
+
+Los asuntos competencia del Consejo Estatal Electoral, que se encuentren en trámite o pendientes de resolución, al momento de la instalación del Consejo General del Instituto Estatal Electoral, serán continuados por éste hasta su conclusión. En todo caso, la resolución se emitirá conforme a las disposiciones legales vigentes al momento de su presentación.
+
+###### ARTICULO NOVENO.
+
+En razón de las presentes reformas y modificaciones, el Congreso del Estado a más tardar el día dos del mes de noviembre del año 2000, deberá elegir, por el voto de las dos terceras partes de sus miembros presentes a los Magistrados del Tribunal Electoral del Estado, para cubrir las vacantes que por Ley se generan, siguiendo el procedimiento establecido en el Artículo séptimo transitorio de este decreto para la elección de Consejeros Electorales.
+
+###### ARTICULO DECIMO.
+
+Los Magistrados del Tribunal Electoral del Estado que sean elegidos conforme a lo dispuesto en el Artículo transitorio anterior, durarán en funciones hasta el 15 de diciembre del año 2007. Los Magistrados que fueron designados mediante decreto número 229, publicado en el periódico oficial del Estado número 057, de fecha 27 de octubre del año de 1999, fungirán durante el proceso electoral del año 2001, pudiendo ser designados para un Proceso Electoral más.
+
+###### ARTICULO DECIMO PRIMERO.
+
+El Congreso del Estado deberá expedir las modificaciones necesarias a la legislación secundaria derivadas del presente decreto de reformas y adiciones.
+
+###### ARTÍCULO DECIMO SEGUNDO.
+
+Las modificaciones previstas en el último párrafo del Artículo 16 reformado por este decreto, relativas a la conformación del Congreso del Estado, serán aplicables a partir de la sexagésima primera Legislatura del Estado.
+
+###### ARTÍCULO DECIMO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
