@@ -4,7 +4,7 @@ identifier: "MEX-ley-sobre-el-escudo-y-el-himno-del-estado-de-mexico-6008"
 country: "mx"
 rank: "ley"
 publication_date: "1995-01-09"
-last_updated: "1995-01-09"
+last_updated: "2003-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY SOBRE EL ESCUDO Y EL HIMNO DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL LA GACETA DEL GOBIERNO: 16 DE JUNIO DEL 2003.
 
 Ley publicada en la Gaceta del Gobierno, el 9 de enero de 1995.
 
@@ -55,11 +55,13 @@ Patria: Aguila Nacional en el copete del Escudo, conforme a la Ley sobre el Escu
 
 Libertad: Representada en el segundo cuartel superior derecho por un cañón de la época, sobre el lugar donde se desarrolló la Batalla del Monte de las Cruces el 30 de octubre de 1810.
 
-Trabajo y Cultura: Representados en el tercero y cuarto cuarteles, juntos, abajo de los anteriores, conteniendo el topónimo de México, que le dio nombre a la Patria y al Estado; los surcos de la agricultura produciendo plantas de maíz y el libro abierto del saber, sobre de éste un engrane fabril, una hoz, un zapapico, una pala y un matraz, herramientas del trabajo humano. Contiene además dieciséis abejas que representan el número de los distritos judiciales del Estado.
+> <small>(REFORMADO, P.O.16 DE JUNIO DE 2003)</small>
+
+Trabajo y Cultura: Representados en el tercero y cuarto cuarteles, juntos, debajo de los anteriores, conteniendo el topónimo de México, que le dio nombre a la Patria y al Estado; los surcos de la agricultura produciendo plantas de maíz y el libro abierto del saber, sobre de éste un engrane fabril, una hoz, un zapapico, una pala y un matraz, herramientas del trabajo humano. Contiene además dieciocho abejas que representan el número de los Distritos Judiciales del Estado.
 
 ###### Artículo 3.
 
-En el Escudo del Estado de México sólo podrán figurar adicionalmente por disposición de la Ley o de la autoridad, las palabras "Estado de México", que formarán una línea recta en la parte inferior.
+En el Escudo del Estado de México sólo podrán figurar adicionalmente por disposición de la Ley o de la autoridad, las palabras «Estado de México», que formarán una línea recta en la parte inferior.
 
 ###### Artículo 4.
 
@@ -207,11 +209,17 @@ Las contravenciones a la presente Ley que no constituyan delito conforme a lo pr
 
 T R A N S I T O R I O S
 
-PRIMERO.- Publíquese la presente Ley en la Gaceta del Gobierno .
+###### ARTICULO PRIMERO.
 
-SEGUNDO.- La presente Ley entrará en vigor el 2 de marzo de 1995.
+Publíquese la presente Ley en la Gaceta del Gobierno .
 
-TERCERO.- En los términos del artículo 16 de la presente Ley, los modelos del Escudo y la letra y música del Himno del Estado de México serán autenticados con su firma por el Gobernador del Estado, el Presidente de la Legislatura y el Presidente del Tribunal Superior de Justicia y se depositarán en las instalaciones señaladas por esta Ley, en ceremonia solemne.
+###### ARTICULO SEGUNDO.
+
+La presente Ley entrará en vigor el 2 de marzo de 1995.
+
+###### ARTICULO TERCERO.
+
+En los términos del artículo 16 de la presente Ley, los modelos del Escudo y la letra y música del Himno del Estado de México serán autenticados con su firma por el Gobernador del Estado, el Presidente de la Legislatura y el Presidente del Tribunal Superior de Justicia y se depositarán en las instalaciones señaladas por esta Ley, en ceremonia solemne.
 
 LO TENDRA ENTENDIDO EL GOBERNADOR DEL ESTADO, HACIENDO QUE SE PUBLIQUE Y SE CUMPLA.
 
@@ -229,6 +237,16 @@ LIC. EMILIO CHUAYFFET CHEMOR
 
 EL SECRETARIO GENERAL DE GOBIERNO
 
-LIC. CESAR CAMACHO QUIROZ.
+LIC. CESAR CAMACHO QUIROZ
 
-(Rúbrica)
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE JUNIO DE 2003.
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrara en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+TERCERO.- En lo sucesivo cuando se determine la creación de nuevos Distritos Judiciales, se actualizará el Escudo con la integración del emblema simbólico de una o mas abejas que son su representación, según corresponda.
+
+CUARTO.- Las autoridades estatales y municipales, dispondrán de ciento ochenta días naturales, contados a partir de la vigencia del presente decreto, para hacer las adecuaciones correspondientes de acuerdo con lo aprobado.
