@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2000-12-31"
+last_updated: "2001-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -2027,7 +2027,9 @@ Tratándose de organismos descentralizados de la Federación, del Estado de Sono
 
 II.- Los pagos por cualquier concepto de indemnización;
 
-III.- Los pagos por concepto de jubilaciones o pensiones, siempre que no excedan de cinco veces el salario mínimo general de la zona en que resida el preceptor de dichos conceptos;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+III.- Los pagos por concepto de jubilaciones o pensiones, siempre que no excedan de cinco veces el salario mínimo general elevado al mes, vigente en la zona en que resida el preceptor de dichos conceptos;
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2037,9 +2039,7 @@ IV.- Contraprestaciones cubiertas por instituciones o asociaciones con fines no 
 
 V.- Contraprestaciones cubiertas por contribuyentes que tengan contratados un máximo de 20 trabajadores, a quienes se les exentará del pago de este impuesto por el monto equivalente a un salario mínimo elevado al mes por cada trabajador hasta un máximo de cinco trabajadores. Por el excedente se pagará el impuesto en los términos del Artículo 216 de este Capítulo. Para acogerse a este beneficio se deberá considerar la suma total de empleados contratados en cada una de las sucursales, en caso de que los hubiere.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
-
-Los contribuyentes a que se refiere el párrafo anterior, deberán inscribirse en el Registro Estatal de Contribuyentes y presentar anualmente, durante el mes de enero, la declaración correspondiente sin impuesto a cargo.
+(DEROGADO SEGUNDO PARRAFO, B.O. 31 DE DICIEMBRE DE 2001)(F. DE E., B.O. 21 DE ENERO DE 2002)
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -3153,13 +3153,21 @@ III.- Cerfificación de licencias
 
 de alcohóles $257.00 $289.00
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-IV.- Por los servicios de expedición de licencia a favor del o de los herederos por fallecimiento del titular de la licencia respectiva, por reposición de la licencia, por cambio de domicilio, por cambio del nombre del establecimiento sin que implique cambio de propietario, así como cualquier otra modificación previamente autorizada, se causarán los derechos establecidos en la fracción I de éste artículo. La cuota que se determine podrá reducirse hasta en un 75% de acuerdo al giro de que se trate.
+IV.- Certificación de documento en que conste
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+la revalidación $100.00 a $290.00
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+V.- Por los servicios de expedición de licencia a favor del o de los herederos por fallecimiento del titular de la licencia respectiva, por reposición de la licencia, por cambio de domicilio, por cambio del nombre del establecimiento sin que implique cambio de propietario, así como cualquier otra modificación previamente autorizada, se causarán los derechos establecidos en la fracción I de éste artículo. La cuota que se determine podrá reducirse hasta en un 75% de acuerdo al giro de que se trate.
 
 Cuando en un solo trámite se realicen simultáneamente los cambios de domicilio y del nombre del establecimiento sin que implique cambio de propietario, se causará el pago de los derechos correspondientes por un solo concepto, pudiendo aplicarse la reducción a que se refiere el párrafo anterior.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+VI.- Por los servicios de ampliación provicional de horario, se causarán los derechos establecidos en la fracción II de este artículo. La cuota que se determine podrá reducirse hasta en un 50% de acuerdo al giro de que se trate.
 
 ###### Artículo 303.
 
@@ -3447,6 +3455,18 @@ servicios urgentes cuando se proporcionen dentro
 
 de las veinticuatro horas siguientes.
 
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+XIV.- Por presentación de examen de aspirante
+
+de notario $5,000.00
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+XV.- Por presentación de examen de oposición
+
+para ser titular de una notaría pública $10,000.00
+
 > <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ### Capítulo Décimo Segundo. Inspección Sanitaria
@@ -3527,11 +3547,13 @@ VI.- Por la legalización de firmas de Notarios. N$ 50.00
 
 VII.- Por la legalización de exhortos. N$ 150.00
 
-VIII.- Por la expedición de certificados de
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-necesidad para la adquisición de bienes
+VIII.- Por apostillar documentos públicos para
 
-inmuebles. N$ 150.00
+presentarse en países firmantes de la
+
+Convención de la Haya. $350.00
 
 IX.- Por la copia simple de documentos del
 
@@ -3559,13 +3581,13 @@ los vehículos de propulsión mecánica para uso
 
 particular.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-A).- Por expedición, transferencia o canje. 250.00
+a).- Por expedición, transferencia o canje. $350.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-B).- Por revalidación anual. 200.00
+b).- Por revalidación anual. $258.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -3577,9 +3599,13 @@ para prestar servicios de transporte de personas o
 
 cosas dentro del Estado.
 
-A) Por expedición, transferencia o canje. N$ 120.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-B) Por revalidación anual. N$ 60.00
+a) Por expedición, transferencia o canje. $350.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+b) Por revalidación anual. $61.00
 
 3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1977)
 
@@ -3645,57 +3671,63 @@ La reposición de una placa implicará un juego completo y causará derechos com
 
 La expedición de licencias para conducir, así como los permisos para manejar sin licencia, causarán el pago de derechos, conforme a la siguiente tarifa:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 1.- Licencias:
 
-A).- De automovilista de acuerdo a su vigencia, como siguen:
+a).- De automovilista de acuerdo a su vigencia,
 
-Por dos años N$ 70.00
+como sigue:
 
-Por tres años N$ 90.00
+Por dos años $174.00
 
-B).- De chofer:
+Por tres años $229.00
 
-Por dos años N$ 70.00
+b).- De chofer de acuerdo a su vigencia, como sigue:
 
-Por tres años N$ 90.00
+Por dos años $174.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+Por tres años $229.00
 
-C).- De operador público de transporte.
+c).- De operador de servicio público de transporte.
 
-(Categoría única por tres años). N$ 90.00
+(categoría única por tres años) $229.00
 
-D).- De motociclistas:
+d).- De motociclistas:
 
-Por dos años N$ 40.00
+Por dos años $105.00
 
-Por tres años N$ 50.00
+Por tres años $124.00
 
 2.- (DEROGADO, B.O. 30 DE DICIEMBRE DE 1982)
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 3.- Permisos para manejar sin licencia
 
 por cada diez días o fracción:
 
-A).- De automovilista N$ 25.00
+a).- De automovilista $53.00
 
-B).- De chofer N$ 25.00
+b).- De chofer $53.00
 
-C).- De motociclista N$ 25.00
+c).- De motociclista $53.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
+d).- Para conducir vehículos de propulsión automotriz
 
-D).- Para conducir vehículos de propulsión automotriz en los casos previstos en el Artículo 23 de la Ley de Tránsito del Estado de Sonora. En este supuesto se podrán otorgar permisos con vigencia de 6 meses, 1 año y 2 años.
+en los casos previstos en el Artículo 23 de la Ley de
 
-Por 6 meses N$152.00
+Tránsito del Estado de Sonora. En este supuesto se
 
-Por 1 año N$274.00
+podrán otorgar permisos con vigencia de 6 meses,
 
-Por 2 años N$438.00
+1 año y 2 años.
+
+Por 6 meses $253.00
+
+Por 1 año $454.00
+
+Por 2 años $726.00
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -3759,9 +3791,13 @@ A las reposiciones de licencias se les aplicará el mismo importe de los derecho
 
 Los servicios que la Dirección General de Transporte del Estado, preste a los particulares, causarán el pago de derechos conforme a las especificaciones y tarifas siguientes:
 
-1.- Por la expedición de concesión para la explotación
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-del servicio público de transporte, por unidad.
+1.- Por la expedición o adjudicación de concesión
+
+para la explotación del servicio público de transporte,
+
+por unidad:
 
 I.- De jurisdicción estatal:
 
@@ -3787,13 +3823,13 @@ A).- Pasaje N$ 75.00
 
 B).- Carga N$ 45.00
 
-3.- Por la expedición de concesiones temporales
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-para la explotación del servicio público de
+3.- Por la expedición de permisos eventuales para
 
-transporte de jurisdicción estatal y municipal
+la explotación del servicio público de transporte
 
-por unidad.
+de jurisdicción estatal y municipal, por unidad:
 
 A).- Pasaje N$ 75.00
 
@@ -3947,7 +3983,9 @@ de explotación de concesión Estatal o Municipal, por
 
 unidad:
 
-a). Pasaje N$200.00 por cada período hasta 30 días.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+a). Pasaje $148.00 por cada período hasta 30 días.
 
 b). Carga N$100.00 por cada período hasta 30 días.
 
@@ -4039,9 +4077,9 @@ i) Adjudicaciones judiciales de bienes inmuebles, excepto en las resoluciones de
 
 j) Disolución de sociedades conyugales sobre inmuebles y protocolización de convenios de separación de bienes, cuando haya bienes inmuebles inscritos.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-k) Por inscripción de embargos judiciales y administrativos.
+k) Por la inscripción de embargos judiciales, administrativos y laborales.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -4077,11 +4115,13 @@ correspondiente al área geográfica "A".
 
 4.- Por capitulaciones matrimoniales. N$ 100.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-5.- Fideicomiso en administración de bienes y
+5.- Fideicomiso en administración de bienes, en los
 
-cualquier otro tipo de fideicomiso no previsto. N$ 200.00
+casos de fideicomisos irrevocables de garantía y
+
+cualquier otro tipo de fideicomiso no previsto. $250.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -4183,19 +4223,19 @@ a 1000 veces el salario mínimo general vigente
 
 correspondiente al área geográfica "A".
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 10.- Por cualquier modificación de escrituras
 
 constitutivas de sociedades mercantiles
 
-exceptuando el aumento de capital; por
+exceptuando el aumento de capital; por la
 
 inscripción de poderes, substitución de los
 
 mismos y cualquier otra inscripción en la
 
-Sección de Comercio. N$ 120.00
+sección de comercio. $250.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -4213,9 +4253,9 @@ que no señalen capital social y cualquier modificación
 
 a las mismas, pagarán. $193.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-13.- Por depósito de tratamiento Holográfico. N$ 120.00
+13.- Por depósito de tratamiento ológrafo. $250.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -4241,13 +4281,7 @@ equivalente a 1000 veces el salario mínimo general
 
 vigente correspondiente al área geográfica "A".
 
-b) En los casos en que se haga reacomodos de
-
-pasivos o se otorguen facilidades de pago,
-
-tratándose de créditos ya inscritos del mismo
-
-acreedor, se pagará. $120.00
+b) (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
 c) Tratándose de créditos hipotecarios para la
 
@@ -4287,11 +4321,7 @@ contrario deberá cubrir la diferencia que resulte de aplicar
 
 la tasa establecida en el primer párrafo de este apartado.
 
-d) En los casos de fideicomiso irrevocables de garantía
-
-en donde el fideicomitente se reserve el derecho a
-
-readquirir los bienes del fiduciario, se pagará. $323.00
+d) (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
 > <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
 
@@ -4299,9 +4329,9 @@ readquirir los bienes del fiduciario, se pagará. $323.00
 
 de becas, N$ 10.00.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-16.- Certificados de no propiedad. N$ 40.00
+16.- Certificados de no propiedad. $47.00
 
 > <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
 
@@ -4309,19 +4339,21 @@ de becas, N$ 10.00.
 
 registrales, por persona N$ 15.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 18.- Por la expedición de copias fotostáticas:
 
-a).- Simples, hasta las primeras cinco páginas. N$ 15.00
+a).- Simples, hasta las primeras cinco hojas N$ 15.00
 
-b).- Simples, por cada una de la páginas
+b).- Simples, por cada una de la hojas
 
 subsecuentes. N$ 2.00
 
-c).- Certificadas, hasta las primeras cinco páginas. N$ 83.00
+c).- Certificadas, hasta las primeras cinco hojas N$ 83.00
 
-d).- Certificadas, por cada una de las páginas
+> <small>(F. DE E., B.O. 21 DE ENERO DE 2002)</small>
+
+e) (sic).- Certificadas, por cada una de las hojas
 
 subsecuentes. N$ 10.00
 
@@ -4359,17 +4391,17 @@ público o privado para su registro. N$ 20.00
 
 sea simultánea la inscripción del primer ejemplar. N$ 40.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-23.- Por registro de cédula hipotecaria se cobrará. $243.00
+23.- Por registro de cédula hipotecaria se cobrará $300.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 24.- Ratificación de firmas por contratos privados
 
-de prenda, habilitación o avío y refaccionarias y sus
+de prenda, habilitación o avío y refaccionarios y sus
 
-convenios modificatorios. N$ 40.00
+convenios modificatorios $100.00
 
 > <small>(ADICIONADO, B.O. 8 DE JULIO DE 1993)</small>
 
@@ -4671,11 +4703,31 @@ desarrollo, para uso particular, urbanas turísticas
 
 y de uso de suelo, por cada variante de información N$ 50.00
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+16.- Por consulta de información catastral, por predio $28.00
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+17.- Por expedición de cédula de registro catastral $86.00
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+18.- Por certificación del valor catastral en la
+
+manifestación de traslación de dominio para
+
+dependencias oficiales, por certificación $26.00
+
 El importe de las cuotas por la prestación de los anteriores servicios se reducirán en un 50 % cuando éstos sean solicitados por construcción o adquisición de vivienda.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 El importe de las cuotas por la prestación de los anteriores servicios se reducirá en un 75%, cuando estos sean solicitados para construcción o adquisición de vivienda de interés social y popular, cuyo valor al momento de la operación no exceda de la suma que resulte de multiplicar por 25 veces el salario mínimo general elevado al año, vigente en el área geográfica de que se trate. En el caso se de que el valor de las viviendas sea mayor a 25 veces el salario mínimo general elevado al año, vigente en el área geográfica de que se trate, el importe de las cuotas por la prestación de los anteriores servicios se reducirá en un 50%.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+El Estado procederá a cobrar los derechos enunciados en esta fracción, siempre que exista convenio expreso con el Municipio respectivo.
 
 II.- Servicios Prestados por la Secretaría de Infraestructura Urbana y Ecología.
 
@@ -4695,79 +4747,93 @@ el presupuesto de
 
 urbanización.
 
-3.- Por subdivisión, fusión y relotificación de terrenos
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-con uso industrial, turísticos o campestre familiar:
+3.- Por subdivisión de terrenos con uso industrial, turísticos o campestre por lote:
 
-A).- Para lotes hasta 1000 M2 N$ 100.00
+a).- Para lotes hasta 1000 m2 $210.00
 
-B).- Para lotes mayores de 1001 M2 hasta
+b).- Para lotes mayores de 1001 m2 hasta
 
-10,000 M2. 2.5 al millar sobre el
+10,000 m2. $280.00
 
-valor del terreno
+c).- Para los lotes mayores de 10,001 m2. $350.00, por el
 
-consignado en el
+número de lotes
 
-avalúo por Institución
-
-de Crédito.
-
-C).- Para los lotes mayores de 10,001 M2. 2 al millar sobre el
-
-valor del terreno
-
-consignado en avalúo
-
-por Institución de
-
-Crédito pero que
+resultantes, pero
 
 nunca será mayor
 
-de: N$ 3,500.00
+de $2,000.00
 
-4.- Por modificaciones que se solicitan a
+(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001) (F. DE E., B.O. 22 DE ENERO DE 2002)
 
-desarrollos ya autorizados, causarán 1.5 al
+4.- Por fusión de terrenos con uso industrial,
 
-millar sobre el presupuesto de urbanización
+turístico o campestre
 
-actualizado en forma directamente proporcional
+a).- Por lotes con superficie total a fusionar de
 
-al área modificada, pero que nunca será inferior
+1 m2 hasta 1000m2. $210.00
 
-a N$ 1,500.00.
+b).- Para lotes con superficie total a fusionar de
 
-5.- Por la expedición de licencias de uso de suelo
+1001 m2 hasta 100,000 m2 $455.00
 
-de terrenos en que se pretenda realizar un desarrollo,
+c).- Para lotes con superficie total a fusionar de
 
-fuera del límite del centro de población, se cobrará
+100,001 m2 en adelante $700.00
 
-previo a la presentación de la documentación
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-señalada en el Reglamento para Desarrollos
+5.- Por reoltificación a desarrollos industriales,
 
-Industriales, Turísticos y Campestres. N$ 600.00
+turísticos o campestres ya autorizados por la
 
-6.- Por la aprobación por parte de la Secretaría
+Secretaría de Infraestructura Urbana y Ecológica,
 
-de Infraestructura Urbana y Ecología, de la
+por lote.
 
-publicidad destinada a promover un desarrollo
+a) Por el proceso de relotificación donde intervengan
 
-autorizado, se cubrirá una cuota equivalente a N$ 220.00
+de 1 lote hasta 5 lotes. $350.00
 
-7.- Por revisión y aprobación, si procede, de los
+b) Por el proceso de relotificación donde intervengan
 
-proyectos de agua potable y alcantarillado de
+de 6 lotes hasta 12 lotes. $175.00
 
-fraccionamientos, por cada revisión, se cobrará
+c) Por el proceso de relotificación donde intervengan
 
-una cuota equivalente a N$ 600.00 por los primeros
+12 (sic) lotes en adelante. $70.00
 
-200 lotes y N$ 25.00 por cada 7 lotes adicionales.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+6.- Por la aprobación por parte de la Secretaría de
+
+Infraestructura Urbana y Ecología, de la publicidad
+
+destinada a promover un desarrollo industrial,
+
+turístico o campestre, autorizado. $525.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+7.- Por cada revisión y aprobación, si procede, de
+
+los proyectos de agua potable y alcantarillado, de
+
+fraccionamientos, cuando el organismo operador de
+
+agua potable, drenaje, alcantarillado, tratamiento
+
+y disposición de aguas residuales lo solicite, se
+
+cobrará una cuota equivalente a $683.00 por los
+
+primeros 200 lotes y $27.00 por cada siete lotes
+
+adicionales.
 
 8.- Por la expedición de autorización para el
 
@@ -4789,11 +4855,11 @@ vehículos destinados al servicio público de
 
 transporte concesionado por el Estado. N$ 3,000.00
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-10.- Por análisis y dictamen sobre aspectos de
+10.- Por análisis y expedición de dictamen sobre
 
-desarrollo urbano y usos de suelo 122.00
+aspectos de desarrollo urbano $122.00
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -4859,29 +4925,43 @@ b) Ruido y/o vibraciones de fuentes fijas. 2,300.00
 
 c) Contaminantes en aguas residuales. 750.00
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+16.- Por la expedición del permiso de venta para
+
+la enajenación de los lotes que conforman un
+
+desarrollo turístico, industrial o campestre $1,050.00
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+17.- Por la expedición de dictámenes de uso de
+
+suelo de terrenos en que se pretendan realizar
+
+desarrollos turísticos, industriales o campestres,
+
+fuera del límite del centro de población $3,500.00
+
 III.- Servicios Prestados por la Secretaría de Salud Pública del Estado.
 
-1.- Autorización de responsable en farmacia. N$ 80.00
+1.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
-2.- Autorización para práctico en farmacia. N$ 80.00
+2.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
-3.- Autorización para auxiliar en farmacia. N$ 80.00
+3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
-4.- Permisos sanitarios para construcción por M2. N$ 0.45
+4.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
-5.- Permisos sanitarios para reconstrucción, por M2. N$ 0.30
+5.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
-6.- Permiso sanitario para modificación o ampliación
+6.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
-por M2. N$ 0.45
+7.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
-7.- Permiso sanitario para adaptación por M2. N$ 0.30
+8.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
-8.- Permiso sanitario para demolición por M2. N$ 0.20
-
-9.- Autorización para técnico en fumigaciones
-
-domésticas, comerciales e industriales. N$ 160.00
+9.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
 10.- Autorización para técnico en embalsamamiento. N$ 160.00
 
@@ -4925,13 +5005,11 @@ J).- Agua N$ 105.00
 
 K).- Otros N$ 160.00
 
-17.- Autorización de responsable en ópticas. N$ 105.00
+17.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
-18.- Autorización de responsable de laboratorio de
+18.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
-análisis clínicos. N$ 105.00
-
-Tratándose de permisos sanitarios para construcción de vivienda por M2, la cuota correspondiente se aplicará reducida en un 50 %.
+> <small>(DEROGADO ULTIMO PARRAFO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -4943,7 +5021,7 @@ A).- Para la exhumación de restos áridos para ser
 
 reinhumados en el mismo panteón $138.00
 
-B).- Para la exhumación de restos áridos para ser
+B).- Por la exhumación de restos áridos para ser
 
 reinhumados en otro panteón dentro de la jurisdicción
 
@@ -4971,15 +5049,29 @@ IV.- Servicios Prestados por la Secretaría de Educación y Cultura del Estado.
 
 1.- Revisión de documentos por hoja. N$ 3.00
 
-2.- Revalidación de estudios de primaria. N$ 15.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-3.- Revalidación de estudios de tipo medio y
+2.- Por constancia de estudios de educación básica. N$ 15.00
 
-superior, por materia. N$ 2.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-4.- Equivalencia de estudios de tipo medio y
+3.- Por solicitud de revalidación de estudios:
 
-superior, por materia. N$ 2.00
+a).- De educación básica. $29.00
+
+b).- De educación media superior. $140.00
+
+c).- De educación superior. $210.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+4.- Por solicitud de equivalencia de estudios:
+
+a).- de educación básica. $29.00
+
+b).- De educación media superior. $140.00
+
+c).- De educación superior. $210.00
 
 5.- Expedición de duplicado de certificados de
 
@@ -5384,3 +5476,13 @@ La presente Ley entrará en vigor, previa su publicación en el Boletín Oficial
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+B.O. 31 DE DICIEMBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1° de enero de 2002, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la aplicación de la presente Ley.
