@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-415"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-27"
-last_updated: "1987-02-19"
+last_updated: "1992-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=415&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1986.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 19 DE FEBRERO DE 1987.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 1992.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 27 de diciembre de 1983.
 
@@ -370,17 +368,15 @@ A) Que el trabajador o el pensionista tengan derecho a las prestaciones señalad
 
 B) Que dichos familiares no tengan por sí mismos derechos propios a las prestaciones señaladas en la fracción I del artículo 23 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1992)</small>
+
 ###### Artículo 25.
 
 La cotización del seguro de enfermedades, de maternidad y medicina preventiva que establece este capítulo en favor de pensionistas y sus familiares derechohabientes, se cubrirá en la siguiente forma:
 
-I. 4% a cargo del pensionista, sobre la pensión que disfrute, cuyo descuento será hecho por el Instituto;
+I. 4% a cargo del Instituto, sobre la pensión que disfrute el pensionista; y
 
-II. 2% de la misma pensión, a cargo de la dependencia o entidad; y
-
-III. 2% de la pensión a cargo del Instituto.
-
-En el caso de que se trate de las pensiones mínimas, el pago de la cotización íntegra del 8% se distribuirá por partes iguales entre la dependencia o entidad correspondiente y el Instituto.
+II. 4% de la misma pensión, a cargo de la dependencia o entidad.
 
 ###### Artículo 26.
 
@@ -2001,3 +1997,19 @@ Las operaciones que se originen por las transferencias indicadas estarán sujeta
 ###### ARTICULO SEXTO.
 
 Las designaciones de beneficiarios hechas con antelación ante el Fondo de la Vivienda surtirán los efectos legales consignados en las presentes reformas.
+
+D.O.F. 23 DE JULIO DE 1992.
+
+PRIMERO.- El presente Decreto entrará en vigor al primer día del mes siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La distribución de porcentajes de cotización a que se refiere la reforma del artículo 25 se aplicará a partir del 1º de enero de 1993.
+
+De la fecha de entrada en vigor del presente Decreto, al 31 de diciembre de 1992, la cotización respectiva, se cubrirá en la siguiente forma:
+
+I. 6% a cargo del Instituto, sobre la pensión que disfrute el pensionista, con recursos propios; y
+
+II. 2% de la misma pensión, a cargo de la dependencia o entidad.
+
+En el caso de que se trate de las pensiones mínimas, el pago de la cotización íntegra del 8% se distribuirá por partes iguales entre la dependencia o entidad correspondiente y el Instituto.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
