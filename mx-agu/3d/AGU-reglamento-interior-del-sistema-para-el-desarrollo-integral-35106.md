@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-sistema-para-el-desarrollo-integral-351
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-24"
-last_updated: "2003-11-24"
+last_updated: "2004-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 24 de noviembre de 2003.
 
@@ -743,7 +743,9 @@ a) Departamento Administrativo;
 
 3. Unidad de Oficialía de Partes;
 
-4. Unidad de Almacén;
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2004)</small>
+
+4. Unidad de Almacén General;
 
 5 Unidad de Servicios Generales;
 
@@ -763,11 +765,13 @@ b) Departamento de Finanzas;
 
 7. Unidad de Informática.
 
-III- DIRECCION DE DESARROLLO FAMILIAR:
+III.- DIRECCION DE DESARROLLO FAMILIAR:
 
 a) Departamento de Atención a la Infancia;
 
-1. Unidad del Programa de Atención a Menores y Adolescentes en Riesgo (PAMAR);
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2004)</small>
+
+1. Unidad del Programa para la Prevención, Desaliento y Erradicación del Trabajo Infantil Urbano Marginal (PROPADETIUM);
 
 2. Unidad Casa Club;
 
@@ -785,17 +789,49 @@ a) Departamento de Atención y Mejoramiento Nutricional;
 
 1. Unidad del Programa Raciones Alimentarias;
 
-2. Unidad del Programa Cocinas Populares y Unidades de Servicio Integrales;
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2004)</small>
 
-3. Unidad de PASAF;
+2. Unidad de Desayunos Escolares Modalidad Calientes;
 
-4. Unidad del Programa Red Móvil:
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2004)</small>
 
-5. Unidad de Almacén;
+3. Unidad del Programa Alimentario a Familias y Sujetos Vulnerables;
 
-b) Departamento de los Centros de Desarrollo de la Comunidad;
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2004)</small>
 
-c) Departamento de Atención a las Personas Adultas.
+4. Unidad de Orientación Alimentaría;
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2004)</small>
+
+5. Unidad de Almacén de Alimentos;
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2004)</small>
+
+b) Departamento de los Centros de Desarrollo Comunitarios;
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2004)</small>
+
+c) Departamento de Atención a las Personas Adultas Mayores;
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2004)</small>
+
+d) Departamento de la Estancia de Día;
+
+1. Unidad de Trabajo Social Estancia de Día;
+
+2. Unidad Médico-Nutricional Estancia de Día;
+
+3. Unidad de Psicología Estancia de Día;
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2004)</small>
+
+e) Departamento de Villas del Abuelo;
+
+1.- Unidad de Trabajo Social Villas del Abuelo;
+
+2.- Unidad Médico-Nutricional Villas del Abuelo;
+
+3. Unidad de Psicología Villas del Abuelo.
 
 V.- DIRECCION DE PLANEACION, INFORMACION Y DESARROLLO:
 
@@ -823,7 +859,23 @@ c) Departamento de Programas de Salud;
 
 d) Departamento de Rehabilitación e Integración Social;
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2004)</small>
+
+1. Unidad de Atención Integral Pediátrica;
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2004)</small>
+
+2. Unidad de Tratamiento;
+
 e) Departamento del Centro de Atención Integral al Adulto Mayor.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2004)</small>
+
+1. Unidad del Centro de Atención Integral al Adulto Mayor;
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2004)</small>
+
+f) Unidad de Cómputo;
 
 VII.- COORDINACION DE GESTION SOCIAL GIRAS Y EVENTOS ESPECIALES:
 
@@ -1430,3 +1482,9 @@ C. Lic. Abelardo Reyes Sahagún.
 EL DIRECTOR GENERAL DEL DIF ESTATAL,
 
 C. Lic. Carlos Antonio Ramírez Vidal.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE JULIO DE 2004.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
