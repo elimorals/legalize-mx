@@ -4,7 +4,7 @@ identifier: "CHH-ley-sobre-el-sistema-estatal-de-asistencia-social-14561"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-21"
-last_updated: "2000-05-31"
+last_updated: "2001-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2001.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 21 de marzo de 1987.
 
@@ -173,7 +173,7 @@ VII.- El apoyo a la educación y capacitación para el trabajo de personas con c
 
 VIII.- La prestación de servicios funerarios;
 
-IX.- La prevención de invalidez, minusvalía o incapacidad y su rehabilitación en centros especializados;
+IX.- La prevención de invalidez, minusvalía o incapacidad y su rehabilitación en centros especializados.
 
 X.- La orientación nutricional y la alimentación complementaria a personas de escasos recursos y a población de zonas marginadas;
 
@@ -391,7 +391,9 @@ V.- Conocer y aprobar los informes, dictámenes y recomendaciones del comisario 
 
 VI.- Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades;
 
-VII.- Estudiar y aprobar los proyectos de inversión;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2001)</small>
+
+VII.- Conocer y aprobar los convenios de coordinación que hayan de celebrarse con dependencias y entidades públicas atendiendo en todo, a la exacta observancia de los mismos, por parte de las dependencias y entidades de la Administración Pública Estatal.
 
 VIII.- Conocer y aprobar los convenios de coordinación que hayan de celebrarse con dependencias y entidades públicas;
 
@@ -569,6 +571,10 @@ IV.- Coordinar y proponer programas para el establecimiento y apoyo de la benefi
 
 V.- Fortalecer el patrimonio de los Sistemas Municipales para el Desarrollo Integral de la Familia.
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2001)</small>
+
+Los actos que se realicen por las autoridades que suscriban los convenios a que se refiere este artículo, en contravención al contenido de los mismos, serán nulos de pleno derecho.
+
 ###### ARTICULO 43.
 
 La participación de la comunidad a que se refieren las Fracciones XXIX y XXX del Artículo 15 de esta Ley, tiene por objeto fortalecer su estructura, propiciando la solidaridad ante las necesidades reales de la población.
@@ -718,3 +724,7 @@ P.O. 31 DE MAYO DE 2000.
 ###### ARTICULO PRIMERO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE SEPTIEMBRE DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
