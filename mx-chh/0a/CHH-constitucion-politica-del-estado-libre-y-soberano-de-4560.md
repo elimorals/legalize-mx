@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2004-08-28"
+last_updated: "2004-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2004.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -843,15 +843,17 @@ XIII.- Disponer la resistencia a una invasión extranjera, en caso de que el pel
 
 XIV.- Asignar para sus gastos a cada Municipio, cuando lo crea conveniente, un tanto por ciento del monto de las rentas del Estado que se recauden en su respectivo territorio, y concederles subsidios extraordinarios cuando lo considere necesario.
 
-XV.- Constituído en colegio electoral:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+
+XV.- Constituido en Colegio Electoral.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 A.- Elegir Gobernador interino, provisional o sustituto en los casos que establezca esta Constitución.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
 
-B.- Nombrar los magistrados que deban integrar el Supremo Tribunal de Justicia y el Tribunal de lo Contencioso Administrativo.
+B.- Nombrar los magistrados que deban integrar el Supremo Tribunal de Justicia y el Tribunal de lo Contencioso Administrativo; así como designar al Procurador General de Justicia, de la terna que para tal efecto envíe el Gobernador.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
@@ -1243,7 +1245,7 @@ DEL PODER EJECUTIVO.
 
 DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Art. 84.
 
@@ -1349,7 +1351,7 @@ DEL DESPACHO DEL EJECUTIVO.
 
 ###### Art. 93.
 
-Son Facultades y obligaciones del Gobernador:
+Son facultades y obligaciones del Gobernador:
 
 I.- Publicar y hacer cumplir las leyes federales.
 
@@ -1417,11 +1419,15 @@ XX.- Proponer al Congreso los candidatos a magistrados del Tribunal de lo Conten
 
 XXI.- Pedir informes al Congreso y al Supremo Tribunal de Justicia sobre asuntos de los ramos de su incumbencia, respectivamente, y darlos cuando dichos Poderes los pidan acerca de los que competen al Ejecutivo.
 
-> <small>(REFORMADO PRIMERA PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
 
-XXII.- Nombrar y remover libremente al Secretario General de Gobierno, Procurador General de Justicia, Secretarios, Coordinadores, Subprocuradores y Directores y recibirles la protesta de ley, pudiendo recabar la opinión del Congreso del Estado, si lo estimare conducente.
+XXII.- Nombrar y remover libremente al Secretario General de Gobierno, Secretarios, Coordinadores, Subprocuradores y Directores y recibirles la protesta de ley, pudiendo recabar la opinión del Congreso del Estado, si lo estimare conducente.
 
-Asimismo nombrar y remover libremente a los demás funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las Leyes.
+En acatamiento al decreto que expida el Congreso, el Gobernador extenderá el nombramiento al Procurador General de Justicia y procederá a tomarle la protesta de Ley.
+
+El Gobernador removerá libremente del cargo al Procurador General de Justicia.
+
+Asimismo, nombrar y remover libremente a los demás funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en está Constitución o en las leyes.
 
 > <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1469,9 +1475,17 @@ XXXVII.- Delegar en las Autoridades Municipales, en los casos en que lo consider
 
 XXXVIII.- Sujetándose a lo que establezcan las leyes respectivas, celebrar con la Federación convenios de carácter general para que los reos sentenciados por delitos del orden común extingan su condena en establecimientos dependientes del Ejecutivo Federal y solicitar a éste la inclusión de reos de nacionalidad extranjera sentenciados por delitos del orden común del Estado, en los tratados internacionales que se celebren para el efecto de que puedan ser trasladados al país de su origen o residencia.
 
-> <small>(ADICIONADA, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
 
-XXXIX.- Las demás que le asignen las leyes, ya sean federales o del Estado.
+XXXIX.- Enviar al Congreso la terna para ocupar el puesto de Procurador General de Justicia, dentro de los quince días hábiles a que quede vacante el puesto. Si transcurridos quince días hábiles a la recepción de la terna éste no ha sido nombrado, o ninguna de las personas propuestas obtuviera la votación requerida, será designado libremente por el Gobernador.
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+
+XL.- Designar libre y directamente a quien deba encargarse del despacho del procurador por el tiempo que dure el procedimiento que se establece en esta Constitución para nombrar al Procurador General de Justicia.
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+
+XLI.- Las demás que le asignen las leyes, ya sean Federales o del Estado.
 
 ### CAPITULO I.
 
@@ -1522,6 +1536,10 @@ En los casos del Secretario General de Gobierno y del Procurador General de Just
 Las relaciones entre el Poder Ejecutivo y los Poderes Legislativo y Judicial, se establecerán entre el Gobernador o el Secretario General de Gobierno en su caso, y los titulares de dichos Poderes.
 
 El Secretario General de Gobierno, el Procurador General de Justicia, los Secretarios y los Coordinadores, luego que esté abierto el segundo período ordinario de sesiones, presentarán al Congreso un informe por escrito del estado que guardan los asuntos de sus respectivos ramos. Asimismo, podrán ser llamados para asesorar y explicar al Congreso, cuando se vaya a discutir un proyecto de ley o a estudiar un negocio relacionado con las funciones de su cargo.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+
+El Procurador General de Justicia concurrirá al Congreso a través de la Junta de Coordinación Parlamentaria, cuando menos una vez al año, para analizar el estado que guarda su gestión.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1615,7 +1633,7 @@ Su Presidente rendirá en el mes de enero de cada año, un informe ante el Pleno
 
 DE LA EDUCACION PUBLICA.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Art. 106.
 
@@ -1789,15 +1807,25 @@ III.- Intervenir en los juicios y diligencias que se relacionen con ausentes, me
 
 IV.- Rendir a los Poderes del Estado y a la Comisión Estatal de Derechos Humanos, los informes que le soliciten sobre asuntos relativos a su ramo, en el caso de esta última, únicamente en asuntos de su competencia.
 
-V.- Dictar órdenes, en el ejercicio de sus funciones a la policía judicial.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+
+V.- Dictar órdenes, en ejercicio de sus funciones a la Policía que esté bajo su autoridad y mando inmediato.
 
 ###### Art. 120.
 
 Siempre que el Ministerio Público intervenga en cualesquiera juicios o diligencias, lo hará como parte, debiendo sujetarse a las leyes de procedimientos.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Art. 121.
 
-El Ministerio Público estará a cargo de un Procurador General de Justicia, como Jefe de la Institución, y de los Agentes que determine la ley.
+El Ministerio Público estará a cargo de un Procurador General de Justicia, como jefe de la Institución, y de los agentes que determine la ley.
+
+El Procurador General de Justicia será designado por el Congreso, mediante el voto de las dos terceras partes de la totalidad de los diputados integrantes, en escrutinio secreto. Los integrantes de la terna que para tal efecto envíe el Gobernador, comparecerán previamente ante la Junta de Coordinación Parlamentaria.
+
+Si ninguna de las personas propuestas obtiene las dos terceras partes de los votos, se realizará una segunda votación, únicamente respecto de los dos que hayan alcanzado mayor número de votos, designándose a quien obtenga las dos terceras partes de los votos de los diputados integrantes, en escrutinio secreto.
+
+Si en la segunda votación, ninguno obtuviera las dos terceras partes de los votos, o bien, transcurren quince días hábiles a la recepción de la terna y no ha sido nombrado el Procurador General de Justicia, éste será designado libremente por el Gobernador, pudiendo nombrar a uno distinto a los que integraron la terna enviada al Congreso.
 
 ###### Art. 122.
 
@@ -1809,11 +1837,11 @@ El Ministerio Público estará a cargo de un Procurador General de Justicia, com
 
 Las ausencias temporales de los agentes del ministerio público serán cubiertas en los términos que señale la ley orgánica.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Art. 124.
 
-Los Agentes del Ministerio Público protestarán ante el Ejecutivo cuando, al recibir su nombramiento, se encuentren en la Capital; y en los demás casos, ante el Presidente de la Municipalidad en que se hallen establecidos el Juzgado o Juzgados de Primera Instancia del Distrito Judicial donde vayan a ejercer sus funciones.
-
-La Ley determinará todo lo demás referente al Ministerio Público.
+Los Agentes del Ministerio Público protestarán ante el Procurador General de Justicia cuando, al recibir su nombramiento, se encuentren en la capital; y en los demás casos, ante el Subprocurador de la Zona en que se hallen establecidos el Juzgado o los Juzgados de Primera Instancia del Distrito Judicial conde (sic) vayan a ejercer sus funciones.
 
 ## TITULO XI.
 
@@ -2261,7 +2289,7 @@ DE LA HACIENDA PUBLICA.
 
 ###### Art. 143.
 
-Todo habitante del Estado en edad escolar, tiene derecho a recibir la educación primaria y secundaria, las cuales tendrán el carácter de obligatorias y se impartirán gratuitamente en los planteles oficiales, de acuerdo con la ley de la materia.
+Todo habitante del Estado en edad escolar, tiene derecho a recibir la educación preescolar, primaria y secundaria, las cuales tendrán carácter de obligatorias y se impartirán gratuitamente en los planteles Oficiales, de acuerdo con la ley de la materia.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2769,7 +2797,7 @@ DECRETO No. 263
 
 PRIMERO.- Las reformas a que se refiere esta Ley, entrarán en vigor en todo el Estado, el día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- Los Ayuntamientos que vienen funcionando, con arreglo a la Constitución del Estado en su términos vigentes hasta antes de estas reformas y a sus respectivas representaciones, concluirán su periódo el treinta y uno de diciembre de mil novecientos cincuenta y cinco.
+SEGUNDO.- Los Ayuntamientos que vienen funcionando, con arreglo a la Constitución del Estado en sus términos vigentes hasta antes de estas reformas y a sus respectivas representaciones, concluirán su período el treinta y uno de diciembre de mil novecientos cincuenta y cinco.
 
 TERCERO.- Las próximas elecciones para Ayuntamiento, se verificarán en el mes de julio de mil novecientos cincuenta y seis. En tal virtud para el lapso de tiempo comprendido del primero de enero de mil novecientos cincuenta y seis al nueve de octubre del mismo año, conforme está previsto en la Constitución del Estado, el Congreso Constitucional procederá a integrar provisionalmente los Ayuntamientos respectivos, seleccionando las personas que han de ocupar los cargos a propuesta en ternas que presentará el Ejecutivo del Estado, antes del quince de diciembre de mil novecientos cincuenta y cinco.
 
@@ -3070,3 +3098,29 @@ El presente decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso a los ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+P.O. 18 DE SEPTIEMBRE DE 2004.
+
+DECRETO No. 761/03 VIII P.E.
+
+PRIMERO.- Por lo que toca a la reforma constitucional, conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete municipios que integran la Entidad y en su oportunidad, hágase por el Congreso del Estado, el computo de votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitucional Local realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+SEGUNDO.- La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año ciclo 2008-2009.
+
+En los plazos señalados, el Estado mexicano habrá de universalizar en todo el país, con calidad, la oferta de este servicio educativo.
+
+TERCERO.- Una vez aprobado (sic) la reforma constitucional, en su caso, remítase al Ejecutivo Estatal el presente Decreto para su promulgación y publicación en el Periódico Oficial.
+
+P.O. 18 DE SEPTIEMBRE DE 2004.
+
+DECRETO No. 1133/04 XV P.E.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos del artículo 202 de la Constitución Política del Estado, envíese oportunamente a los H. Ayuntamientos del Estado copia de la Iniciativa y de los debates del Congreso.
+
+Realizado el cómputo a que el mismo se refiere, hágase la declaración correspondiente a su aprobación y envíese al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado.
