@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2003-02-21"
+last_updated: "2003-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -979,11 +979,11 @@ Cuando el Congreso otorgue al Gobernador Licencia para ausentarse del Estado por
 
 Si la licencia fuere por más de treinta días o en caso de impedimento del Gobernador debidamente comprobado, el Congreso o la Diputación Permanente, en su caso, nombrará al ciudadano que se encargue interinamente del Poder Ejecutivo.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
 ###### Art. 90.
 
-En caso de falta absoluta o imposibilidad perpetua del gobernador dentro de los tres primeros años del período respectivo, si el Congreso estuviere reunido, será este Cuerpo quien nombre, por escrutinio secreto y a mayoría absoluta de votos, un Gobernador Interino. El mismo Congreso lanzará la convocatoria para elecciones de Gobernador Substituto, procurando que la fecha señalada para dichas elecciones coincida con aquella en que deban tener verificativo las de diputados a la Cámara Local siempre que estén próximas. Pero si el Legislativo estuviere en receso, la Diputación Permanente nombrará un Gobernador Interino, y convocará inmediatamente al Congreso a sesiones extraordinarias para que lance la convocatoria respectiva.
+En caso de falta absoluta o imposibilidad perpetua del Gobernador dentro de los tres primeros años del período respectivo, si el Congreso estuviere reunido, será este cuerpo quien nombre, por escrutinio secreto y a mayoría absoluta de votos, un Gobernador Interino. El mismo Congreso lanzará la convocatoria para elecciones de Gobernador substituto, procurando que la fecha señalada para dichas elecciones coincida con aquella en que deban tener verificativo las de diputados a dicho Congreso, siempre que estén próximas. Pero si el Legislativo estuviere en receso, la Diputación permanente nombrará un Gobernador Interino, y convocará inmediatamente al Congreso a sesiones extraordinarias para que lance la convocatoria respectiva.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
@@ -1275,11 +1275,11 @@ IV.- La jurisdicción administrativa conocerá de las controversias en que se re
 
 La Ley determinará los casos y las circunstancias en los que se deba sancionar penalmente a los servidores públicos que durante el tiempo de su encargo, hubieren incurrido en delitos.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
 ###### Art. 109.
 
-Se concede acción popular para formular denuncias ante la Cámara de Diputados, respecto de las conductas a que se refiere el artículo que antecede, debiendo presentarse por escrito y fundarse en elementos de prueba que hagan presumir fehacientemente la ilicitud de la conducta del servidor público, estando sujetos a responsabilidad en los términos que lo prevengan las leyes respectivas, si la referida denuncia es infundida.
+Se concede acción popular para formular denuncias ante el Congreso del Estado, respecto de las conductas a que se refiere el artículo que antecede, debiendo presentarse por escrito y fundarse con elementos de prueba que hagan presumir la ilicitud de la conducta del servidor público.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -1287,13 +1287,17 @@ Se concede acción popular para formular denuncias ante la Cámara de Diputados,
 
 Podrán ser sujetos de Juicio Político los Diputados al Congreso del Estado, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, los Magistrados del Tribunal Superior de Justicia, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, los Jueces, el Procurador General de Justicia, los Secretarios del Despacho del Ejecutivo, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; así como los Presidentes Municipales, Regidores y Síndicos.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
 ###### Art. 111.
 
-Para la aplicación de las sanciones a que se refiere este precepto, la Cámara de Diputados declarará por no menos de dos terceras partes de los miembros que la forman y previa audiencia del acusado, si ha lugar a procedimiento ulterior; en el afirmativo, el acusado queda por ese sólo hecho separado de su cargo y será puesto a disposición del Tribunal Superior de Justicia. Este en Tribunal Pleno y erigido en Jurado de Sentencia, procederá a aplicar a mayoría absoluta de votos la sanción que en el caso a discusión proceda, una vez desahogadas las diligencias correspondientes.
+Para la aplicación de las sanciones a que se refiere este precepto, el Congreso del Estado declarará por no menos de dos terceras partes de los miembros que lo forman y previa audiencia del acusado, si ha lugar a procedimiento ulterior; en caso afirmativo, el acusado queda por ese sólo hecho separado de su cargo y será puesto a disposición del Tribunal Superior de Justicia. Éste, reunido en Pleno y erigido en Jurado de sentencia, procederá a aplicar, a mayoría absoluta de votos, la sanción que en el caso a discusión proceda, una vez desahogadas las diligencias correspondientes.
 
-Las declaraciones y resoluciones tanto de la Cámara de Diputados como del Tribunal Superior de Justicia son inatacables.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2003)</small>
+
+Las declaraciones y resoluciones tanto del Congreso como del Tribunal Superior de Justicia, son inatacables.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 Las sanciones consistirán en la destitución del servidor público y en su caso la inhabilitación temporal para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
@@ -1303,13 +1307,13 @@ Las sanciones consistirán en la destitución del servidor público y en su caso
 
 Para proceder penalmente contra el Gobernador del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, el Presidente de la Comisión Estatal de Derechos Humanos, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, los Consejeros de la Judicatura, el Procurador General de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, los Secretarios del Despacho del Ejecutivo, así como los Presidentes Municipales, Regidores y Síndicos por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta de sus integrantes y previa audiencia del indiciado, si ha o no lugar a proceder contra él.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
-Si la resolución de la Cámara fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluído el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+Si la resolución del Congreso fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continué su curso cuando el inculpado haya concluido el ejercicio de su cargo, pues la misma no prejuzga sobre los fundamentos de la imputación.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
-Si la Cámara declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la Ley.
+Si el Congreso declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la ley.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
@@ -1329,9 +1333,11 @@ En demanda del orden civil que se entable contra cualquier servidor público no 
 
 Si el delito que se impute a algún funcionario se hubiere cometido antes de que ejerza el cargo, se estará al procedimiento establecido en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
-Art.- 114.-No se requerirá declaración de procedencia de la Cámara de Diputados, cuando alguno de los servidores públicos a que hace referencia el Artículo 112 cometa un delito durante el tiempo en que se encuentre separado de su cargo.
+Art.- 114.-No se requerirá declaración de procedencia del Congreso, cuando alguno de los servidores públicos a que hace referencia el Artículo 112 cometa un delito durante el tiempo en que se encuentre separado de su cargo.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados por el artículo 112, se procederá de acuerdo con lo dispuesto en dicho precepto.
 
@@ -1623,6 +1629,8 @@ Una ley determinará la organización y funcionamiento de todas las Oficinas de 
 
 De la Reforma de la Constitución.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2003)</small>
+
 ###### Art. 141.
 
 Queda prohibido desempeñar a la vez dos o más cargos o empleos remunerados del Estado, de los Municipios, o de uno y otros, sean o no de elección popular, con excepción de los relativos a Instrucción Pública y Beneficencia.
@@ -1665,7 +1673,7 @@ De la Inviolabilidad de la Constitución.
 
 ###### Art. 148.
 
-En cualquier tiempo puede ser reformada esta Constitución; mas las reformas que se propongan, para ser admitidas a discusión, necesitarán el voto de la mayoría de los miembros presentes de la Cámara.
+En cualquier tiempo puede ser reformada esta Constitución, mas las reformas que se propongan, para ser admitidas a discusión, necesitarán el voto de la mayoría de los miembros presentes del Congreso.
 
 ###### Art. 149.
 
@@ -2750,3 +2758,7 @@ Artículo Segundo.- El Congreso, el Ejecutivo y los Ayuntamientos del Estado deb
 a) El pago de la indemnización se efectuará después de seguir los procedimientos para determinar que al particular efectivamente le corresponde dicha indemnización; y
 
 b) El pago de la indemnización estará sujeto a la disponibilidad presupuestaria del Ejercicio Fiscal de que se trate.
+
+P.O. 2 DE OCTUBRE DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
