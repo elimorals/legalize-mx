@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-medio-ambiente-y-27682"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-21"
-last_updated: "2003-01-21"
+last_updated: "2004-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27682&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-01-17"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE NOVIEMBRE DE 2004.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el martes 21 de enero de 2003.
 
@@ -257,43 +257,77 @@ XIX. Las demás que les confiera el titular de la Secretaría, las que les seña
 
 El Subsecretario de Planeación y Política Ambiental tendrá las siguientes atribuciones:
 
-I. Planear, coordinar e instrumentar las políticas, procesos, instrumentos y acciones que se requieran para la gestión de la Secretaría en materia de financiamiento estratégico, con base en los objetivos y directrices del Plan Nacional de Desarrollo, el programa sectorial y los programas correspondientes, con la participación de las demás unidades administrativas en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-II. Proponer al Secretario, la suscripción de acuerdos y convenios de cooperación sobre donativos y financiamiento internacional;
+I.- Formular e instrumentar, con la participación de las unidades administrativas competentes, las directrices y metas de planeación del Sector Medio Ambiente y Recursos Naturales, así como las acciones y los programas que en el marco del Sistema Nacional de Planeación Democrática corresponda realizar a la Secretaría;
 
-III. Ser el conducto formal de la Secretaría para la aprobación de programas, definición de actividades, tramitación y, en general, para la realización de acciones de gestión y seguimiento de los financiamientos, así como para la suscripción de acuerdos ante los organismos financieros internacionales y la Secretaría de Hacienda y Crédito Público;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-IV. Definir, en coordinación con las áreas competentes de la Secretaría, los criterios y lineamientos que deberán seguirse para la correcta aplicación de los fondos internacionales;
+II.- Proponer al Secretario las acciones y estrategias que se requieran para la formulación, ejecución y evaluación de los instrumentos de planeación del Sector Medio Ambiente y Recursos Naturales, con la participación que corresponda a las demás unidades administrativas del Sector;
 
-V. Dar seguimiento a las acciones realizadas con base en los financiamientos provenientes de organismos financieros internacionales;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-VI. Promover la constitución de empresas con capital nacional y extranjero, dedicadas a la conservación o aprovechamiento sustentable de los recursos naturales, provisión de bienes y servicios de competencia del Sector;
+III.- Formular, coordinar, conducir y evaluar, con la participación de las unidades administrativas competentes, la política ambiental nacional en las materias de competencia del Sector Medio Ambiente y Recursos Naturales;
 
-VII. Asesorar a las unidades administrativas de la Secretaría y sus órganos desconcentrados en materia de financiamiento estratégico;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-VIII. Poner a disposición del público en general, a través de medios remotos o locales de comunicación electrónica, la información que generen las unidades administrativas de su adscripción, en los términos de la legislación aplicable;
+IV.- Formular y coordinar la política nacional de cambio climático con la participación que corresponda a las dependencias y entidades de la Administración Pública Federal y las unidades administrativas del Sector Medio Ambiente y Recursos Naturales competentes;
 
-IX. Proponer al Secretario, con la participación que corresponda a las Subsecretarías de Fomento y Normatividad Ambiental, y de Gestión para la Protección al Ambiente, las políticas y lineamientos de carácter integral, que permitan realizar la planeación regional que podrá establecerse por regiones hidrogeográficas determinadas por la existencia de uno o varios ecosistemas o cuencas;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-X. Establecer mecanismos para promover inversiones extranjeras públicas y privadas en proyectos de desarrollo sustentable;
+V.- Participar en la planeación, evaluación y, en su caso, conducción de las políticas, procesos, instrumentos y acciones que se requieran para la gestión de la Secretaría en materia de financiamiento estratégico, con base en los objetivos y directrices del Plan Nacional de Desarrollo, el programa sectorial y los programas correspondientes, con la participación de las demás unidades administrativas en el ámbito de su competencia;
 
-XI. Someter a la consideración del Secretario, los proyectos, instrumentos y las medidas necesarias para asegurar que las dependencias y entidades de la Administración Pública Federal, incluyan respecto de las materias que les competan, las variables ambientales en la elaboración del Plan Nacional de Desarrollo y en sus programas sectoriales, regionales, especiales e institucionales que correspondan;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XII. Opinar con la Oficialía Mayor sobre la priorización para la integración del anteproyecto de presupuesto del Sector que se someterá a la consideración del titular del Ramo;
+VI.- Definir, en coordinación con las áreas competentes de la Secretaría, los criterios y lineamientos que deberán seguirse para la correcta aplicación de los fondos internacionales;
 
-XIII. Proponer al Secretario, la política del Sector en materia de informática y telecomunicaciones;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XIV. Opinar con la Oficialía Mayor sobre la priorización en la programación de la distribución del presupuesto asignado a la Secretaría, tomando en consideración dentro de éste, los instrumentos de planeación regional que podrán establecerse por regiones hidrogeográficas determinadas por la existencia de uno o varios ecosistemas o cuencas, y
+VII.- Dar seguimiento a las acciones realizadas con base en los financiamientos provenientes de organismos financieros internacionales;
 
-XV. Participar en el comité de información que en materia de transparencia y acceso a la información se constituya en la Secretaría, en los términos de la legislación aplicable.
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+VIII.- Asesorar a las unidades administrativas de la Secretaría y sus órganos desconcentrados en materia de financiamiento estratégico;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+IX.- Poner a disposición del público en general, a través de medios remotos o locales de comunicación electrónica, la información que generen las unidades administrativas de su adscripción, en los términos de la legislación aplicable;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+X.- Proponer al Secretario, con la participación que corresponda a las Subsecretarías de Fomento y Normatividad Ambiental, y de Gestión para la Protección al Ambiente, las políticas y lineamientos de carácter integral, que permitan realizar la planeación regional;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XI.- Establecer mecanismos para promover inversiones extranjeras públicas y privadas en proyectos de desarrollo sustentable;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XII.- Someter a la consideración del Secretario los proyectos, instrumentos y las medidas necesarias para asegurar que las dependencias y entidades de la Administración Pública Federal incluyan, respecto de las materias que les competan, las variables ambientales en la elaboración del Plan Nacional de Desarrollo y en sus programas sectoriales, regionales, especiales e institucionales que correspondan;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XIII.- Opinar con la Oficialía Mayor sobre la priorización para la integración del anteproyecto de presupuesto del Sector, que se someterá a la consideración del Titular del Ramo;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XIV.- Opinar con la Oficialía Mayor sobre la priorización en la programación de la distribución del presupuesto asignado a la Secretaría, tomando en consideración dentro de éste los instrumentos de planeación regional, y
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XV.- Coordinar el comité de información que en materia de transparencia y acceso a la información se constituya en la Secretaría, en los términos de la legislación aplicable.
 
 ###### ARTÍCULO 8.
 
 El Subsecretario de Fomento y Normatividad Ambiental tendrá las siguientes atribuciones:
 
-I. Proponer al Secretario, los procesos de mejora regulatoria a cargo de la Secretaría;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-II. Coordinar, con la participación que corresponda a las unidades administrativas centrales de la Secretaría, la integración de un sistema normativo en materia ambiental;
+I.- Proponer al Secretario y coordinar la ejecución de los programas de mejora regulatoria a cargo de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+II.- Impulsar y coordinar, con la participación que corresponda a las unidades administrativas centrales de la Secretaría, la integración de un sistema normativo y de fomento ambiental;
 
 III. Participar, en el ámbito de su competencia, en la formulación de proyectos legislativos y reglamentarios competencia de la Secretaría;
 
@@ -303,11 +337,33 @@ V. Expedir, con la participación que corresponda a las unidades administrativas
 
 VI. Participar o presidir los comités, subcomités y grupos de trabajo en los que se analicen y elaboren normas oficiales mexicanas competencia de la Secretaría;
 
-VII. Presidir y coordinar el Comité Interno de Regulación Ambiental;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-VIII. Poner a disposición del público en general, a través de medios remotos o locales de comunicación electrónica, la información que generen las unidades administrativas de su adscripción, en los términos de la legislación aplicable, y
+VII.- Poner a disposición del público en general, a través de medios remotos o locales de comunicación electrónica, la información que generen las unidades administrativas de su adscripción, en los términos de la legislación aplicable;
 
-IX. Expedir lineamientos y procedimientos de evaluación de la conformidad de las normas oficiales mexicanas, de conformidad con la Ley Federal sobre Metrología y Normalización.
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+VIII.- Expedir lineamientos y procedimientos de evaluación de la conformidad de las normas oficiales mexicanas, de conformidad con la Ley Federal sobre Metrología y Normalización;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+IX.- Elaborar y expedir, con la participación que corresponda a las unidades administrativas centrales de la Secretaría y sus órganos desconcentrados, los criterios, lineamientos y procedimientos de certificación de calidad ambiental, de conformidad con la Ley Federal sobre Metrología y Normalización;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+X.- Diseñar e impulsar la creación de los instrumentos económicos a que se refiere la Legislación Ambiental con apoyo de la Coordinación General Jurídica;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XI.- Evaluar y, en su caso apoyar, las manifestaciones de impacto regulatorio que elaboren las distintas áreas de la Secretaría, y emitir las observaciones necesarias para garantizar que los beneficios sean mayores que los costos;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XII.- Coordinar la inscripción de trámites y servicios a cargo de la Secretaría y sus órganos desconcentrados y elaborar y proponer los instrumentos jurídicos necesarios para tal efecto, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XIII.- Promover y fomentar la constitución de empresas con capital nacional y extranjero, dedicadas a la conservación o al aprovechamiento sustentable de los recursos naturales que sean competencia de la Secretaría o a la provisión de bienes y servicios del o para el Sector.
 
 ###### ARTÍCULO 9.
 
@@ -399,9 +455,17 @@ XXVII. Programar la distribución del presupuesto asignado a la Secretaría, tom
 
 XXVIII. Poner a disposición del público en general, a través de medios remotos o locales de comunicación electrónica, la información que generen las unidades administrativas de su adscripción, en los términos de la legislación aplicable;
 
-XXIX. Establecer los mecanismos necesarios para que las unidades administrativas de la Secretaría, cuenten con los recursos humanos y materiales que se requieran para atender lo relacionado con la materia de transparencia y acceso a la información, y
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XXX. Las demás que le señalen las disposiciones legales y reglamentarias relativas, y las que correspondan a las unidades administrativas a su cargo.
+XXIX.- Establecer los mecanismos necesarios para que las unidades administrativas de la Secretaría, cuenten con los recursos humanos y materiales que se requieran para atender lo relacionado con la materia de transparencia y acceso a la información;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXX.- Proponer al Secretario la política del Sector en materia de informática y telecomunicaciones, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXXI.- Las demás que le señalen las disposiciones legales y reglamentarias y las que correspondan a las unidades administrativas a su cargo.
 
 ### CAPÍTULO QUINTO. DE LAS ATRIBUCIONES DE LAS UNIDADES COORDINADORAS, COORDINACIONES GENERALES, Y CENTRO DE EDUCACIÓN Y CAPACITACIÓN PARA EL DESARROLLO SUSTENTABLE
 
@@ -457,13 +521,17 @@ III. Formular, en coordinación con la Subsecretaría de Planeación y Política
 
 IV. Integrar y evaluar los programas y actividades que en materia internacional propongan las unidades administrativas de la Secretaría y, en su caso, someterlas a la aprobación del Secretario, así como coordinarlos, dar seguimiento y evaluar su ejecución, con la participación de las unidades administrativas competentes de la dependencia;
 
-V. Participar en la negociación de los recursos de cooperación internacional, así como apoyar a las unidades administrativas competentes de la Secretaría en el proceso de negociación para su obtención, en coordinación con la Subsecretaría de Planeación y Política Ambiental;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-VI. Coordinar y supervisar las políticas de la Secretaría en materia internacional, con el apoyo de las unidades administrativas competentes de la misma, y constituirse en depositario y custodio de los acuerdos interinstitucionales en que la dependencia sea parte, de conformidad con la legislación aplicable;
+V.- Promover y dar seguimiento a la negociación de recursos financieros provenientes de agencias, instituciones u organizaciones de cooperación, a excepción de los organismos financieros internacionales, con la participación que corresponda a las unidades administrativas de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+VI.- Coordinar y supervisar las políticas de la Secretaría en materia internacional, con el apoyo de las unidades administrativas competentes de la misma;
 
 VII. Coordinar y supervisar, con apego a lo dispuesto por la Ley del Servicio Exterior Mexicano, el funcionamiento de las representaciones de la Secretaría en el extranjero, y ser el conducto formal de comunicación mediante el cual se les transmitan los acuerdos, órdenes y disposiciones que dicten las unidades administrativas de la dependencia y sus órganos desconcentrados, evaluar su establecimiento o supresión y aprobar sus programas y presupuestos de operación, conforme a las disposiciones aplicables;
 
-VIII. Promover la constitución de empresas con capital nacional y extranjero, dedicadas a la conservación o al aprovechamiento sustentable de los recursos naturales que sean competencia de la Secretaría o a la provisión de bienes y servicios del o para el Sector, y dar seguimiento al otorgamiento de permisos y autorizaciones a extranjeros, así como sobre la certificación ambiental de dichos bienes y servicios por origen, proceso o especificaciones de producto;
+VIII. (DEROGADA, D.O.F. 22 DE NOVIEMBRE DE 2004)
 
 IX. Proponer al Secretario, las políticas de promoción internacional de la dependencia relativas a la capacitación, desarrollo tecnológico y científico, y coordinar las actividades de intercambio y cooperación económica, científica y tecnológica de la misma, así como coadyuvar con la Coordinación General de Comunicación Social en la difusión de dicha información al interior del Sector;
 
@@ -479,11 +547,13 @@ XIV. Participar en la promoción y difusión de las actividades internacionales 
 
 XV. Integrar y difundir en el Sector, en coordinación con las unidades administrativas competentes de la Secretaría, la oferta relativa a becas, cursos y seminarios provenientes de la Secretaría de Relaciones Exteriores, gobiernos e instituciones extranjeras y organismos regionales e internacionales, así como, coadyuvar en su gestión y llevar un registro actualizado de los participantes nacionales;
 
-XVI. Dar seguimiento a los compromisos internacionales en materia de áreas naturales protegidas competencia de la Federación, y difundir su importancia en el ámbito internacional;
+XVI. (DEROGADA, D.O.F. 22 DE NOVIEMBRE DE 2004)
 
-XVII. Establecer mecanismos para la promoción de inversiones extranjeras públicas y privadas en proyectos de desarrollo sustentable, de acuerdo a las disposiciones legales aplicables;
+XVII. (DEROGADA, D.O.F. 22 DE NOVIEMBRE DE 2004)
 
-XVIII. Promover la coordinación entre las unidades administrativas competentes de la Secretaría para el cumplimiento de las disposiciones derivadas de los compromisos internacionales en materia ambiental;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XVIII.- Promover la coordinación entre las unidades administrativas y organismos descentralizados competentes de la Secretaría, para el cumplimiento de los compromisos en materia ambiental derivados de convenios y acuerdos internacionales, y dar seguimiento a los mismos;
 
 XIX. Aplicar las políticas y disposiciones emitidas en materia de transparencia y acceso a la información, en los términos de la legislación aplicable, y
 
@@ -495,7 +565,9 @@ La Coordinación General Jurídica tendrá las atribuciones siguientes:
 
 I. Fijar, sistematizar, unificar y difundir, para efectos administrativos, los lineamientos y criterios de interpretación y aplicación de las leyes y otras disposiciones jurídicas que normen el funcionamiento y actividades de la Secretaría y de sus órganos desconcentrados, con excepción de aquellos que la legislación aplicable reserve a los mismos;
 
-II. Atender y dirigir los asuntos jurídicos de la Secretaría, coordinar y evaluar los de sus órganos desconcentrados, conocer e intervenir en los que le sean encomendados por el Secretario, así como participar en los Consejos o Comités Consultivos o Técnicos, con el carácter que determinen las disposiciones jurídicas aplicables y el titular del Ramo;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+II.- Atender y dirigir los asuntos de la Secretaría, coordinar y evaluar los de sus órganos desconcentrados, conocer e intervenir en los que sean encomendados por el Secretario, así como ser Secretario Técnico del Comité de Información, de las Juntas de Gobierno de los órganos descentralizados, Consejos Técnicos o equivalentes en los que el Secretario sea Presidente y, además, será el encargado de dictar los lineamientos para el seguimiento de las reuniones, de conformidad con las disposiciones jurídicas aplicables;
 
 III. Validar los actos de naturaleza jurídica que en uso de sus facultades indelegables deba emitir el Secretario, y someterlos a su consideración y, en su caso, aprobación;
 
@@ -505,11 +577,15 @@ V. Revisar y, en su caso, formular los proyectos de iniciativas de leyes, reglam
 
 VI. Realizar investigaciones jurídicas y de derecho comparado en materia ambiental;
 
-VII. Dictaminar jurídicamente los proyectos de normas oficiales mexicanas en el ámbito de competencia de la Secretaría, y gestionar su publicación en el Diario Oficial de la Federación;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+VII.- Dictaminar jurídicamente, previo a su presentación ante el Comité Consultivo Nacional de Normalización correspondiente, los proyectos de normas oficiales mexicanas y las normas oficiales mexicanas definitivas que en el ámbito de su competencia expida la Secretaría, así como gestionar la publicación correspondiente en el Diario Oficial de la Federación;
 
 VIII. Coadyuvar, en el ámbito de su competencia, con la Unidad Coordinadora de Participación Social y Transparencia, en materia de transparencia y acceso a la información;
 
-IX. Resolver los recursos administrativos de su competencia y de la del Secretario, en su caso, y representar legalmente a éste y a la Secretaría en los procedimientos administrativos, de responsabilidades y jurisdiccionales en que se requiera su intervención, con excepción de aquellos que estén expresamente encomendados a las unidades jurídicas de los órganos desconcentrados y a las delegaciones federales y coordinaciones regionales de la Secretaría;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+IX.- Resolver los recursos administrativos de su competencia y del Secretario, en su caso, y representar legalmente a éste, a la Secretaría y a sus unidades administrativas en los procedimientos administrativos, de responsabilidades y jurisdiccionales en que se requiera su intervención, con excepción de aquellos que estén expresamente encomendados a las unidades jurídicas de los órganos desconcentrados y a las delegaciones federales de la Secretaría por este Reglamento o por disposición del Secretario;
 
 X. Solicitar la intervención del Procurador General de la República en los asuntos contenciosos que le competan en los términos del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos, proporcionándole opinión jurídica y elementos de juicio en cada caso;
 
@@ -519,7 +595,9 @@ XII. Compilar y promover la difusión de las normas jurídicas relacionadas con 
 
 XIII. Expedir, cuando proceda, certificaciones de documentos que obren en los archivos de la Secretaría;
 
-XIV. Designar, dentro de los notarios autorizados por la Secretaría de Contraloría y Desarrollo Administrativo, a los que deban intervenir en las operaciones inmobiliarias competencia de la Secretaría;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XIV.- Designar, dentro de los notarios autorizados por la dependencia competente para ello, a los que deben intervenir en las operaciones inmobiliarias o de otra índole competencia de la Secretaría;
 
 XV. Dictaminar la procedencia jurídica de los convenios, contratos y demás actos jurídicos de las unidades administrativas de la Secretaría que deriven en obligaciones para la dependencia, así como llevar el control y registro de los mismos y de los que celebren los órganos desconcentrados;
 
@@ -529,13 +607,21 @@ XVII. Iniciar, a petición de las unidades administrativas de la Secretaría, el
 
 XVIII. Establecer criterios en la resolución de los recursos administrativos de su competencia, y de aquellos que correspondan a otras unidades administrativas de la Secretaría y, cuando proceda, de sus órganos desconcentrados;
 
-XIX. Elaborar y proponer los informes previos y justificados que, en materia de amparo, deban rendir el Presidente de la República, en los casos en los que se hubiere conferido la representación presidencial, y el Secretario, así como los relativos a los demás servidores públicos que sean señalados como autoridades responsables; los escritos de demanda o contestación, según proceda, en las controversias constitucionales o acciones de inconstitucionalidad; intervenir cuando la Secretaría tenga el carácter de tercero perjudicado en los juicios de amparo, y formular, en general, los incidentes, recursos y demás promociones que a dichos juicios se refieran;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XX. Representar al Secretario ante el Tribunal Federal de Conciliación y Arbitraje y, en su caso, ante otras autoridades laborales, en los conflictos que se susciten con motivo de la aplicación de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; formular dictámenes, demandas de cese de los empleados de la Secretaría, contestación de demandas laborales, formulación y absolución de posiciones, desistimientos o allanamientos y, en general, las promociones que se requieran en el curso del procedimiento;
+XIX.- Elaborar, proponer y en su caso rendir los informes previos y justificados que, en materia de amparo, deban rendir el Presidente de la República, en los casos en los que se hubiere conferido la representación presidencial, y el Secretario, así como los relativos a los demás servidores públicos que sean señalados como responsables; los escritos de demanda o contestación según proceda, en las controversias constitucionales o acciones de inconstitucionalidad; intervenir cuando la Secretaría tenga el carácter tercero en los juicios de amparo, y formular, en general, los incidentes, recursos y demás promociones que a dichos juicios se refieran;
 
-XXI. Formular, a nombre de la Secretaría, las denuncias y querellas que a su juicio correspondan, y otorgar discrecionalmente el perdón, así como aprobar el otorgamiento de éste, solicitado por los jefes de las unidades jurídicas de los órganos desconcentrados, delegados federales y coordinadores regionales de la Secretaría;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XXII. Solicitar a la Secretaría de Contraloría y Desarrollo Administrativo, en lo que corresponda a su competencia, la reivindicación de la propiedad federal administrada por la Secretaría, así como la destinada a ésta;
+XX.- Representar al Secretario ante el Tribunal Federal de Conciliación y Arbitraje y, en su caso, ante otras autoridades laborales, en los conflictos que se susciten con motivo de la aplicación de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del Artículo 123 Constitucional; emitir dictámenes, promover demandas de cese de los empleados de base de la Secretaría, contestar demandas laborales, formular y absolver posiciones, desistirse o allanarse y, en general, presentar las promociones que se requieran en el curso del procedimiento;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXI.- Formular, a nombre de la Secretaría, las denuncias y querellas que a su juicio correspondan, y otorgar discrecionalmente el perdón, así como aprobar el otorgamiento de éste, solicitado por los delegados federales de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXII.- Solicitar a la dependencia competente la reivindicación de la propiedad federal administrada por la Secretaría, así como la destinada a ésta;
 
 XXIII. Participar con las unidades administrativas competentes de la Secretaría en la aplicación de las disposiciones jurídicas en materia laboral, y de responsabilidades de los servidores públicos;
 
@@ -543,15 +629,23 @@ XXIV. Tramitar y someter a la consideración del Secretario, los expedientes rel
 
 XXV. Gestionar ante el Diario Oficial de la Federación, las publicaciones de los instrumentos legales que emita la Secretaría y sus órganos desconcentrados;
 
-XXVI. Apoyar jurídicamente a las unidades administrativas competentes de la Secretaría, en los trámites legales que deban realizar para la adquisición, regularización y protección jurídica de los bienes inmuebles administrados por la dependencia o destinados a ésta;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XXVII. Coordinar y establecer los lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos para el mejor desempeño de las unidades jurídicas de las delegaciones federales y coordinaciones regionales de la Secretaría y de los órganos desconcentrados, a fin de que su actuación se realice en forma coordinada y dentro de la estricta legalidad;
+XXVI.- Tramitar la regulación jurídica de los bienes inmuebles que bajo cualquier título ocupe la Secretaría en territorio nacional, así como asesorar jurídicamente a las unidades administrativas de la Secretaría para la adquisición y protección jurídica de los mismos;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXVII.- Coordinar y establecer los lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos, así como solicitar informes jurídicos para el mejor desempeño de las unidades jurídicas de las delegaciones federales de la Secretaría, de los órganos desconcentrados y de los servidores públicos que desempeñen funciones jurídicas y que se encuentren adscritos a las unidades administrativas de la Secretaría, a fin de que su actuación se realice en forma coordinada y dentro de la estricta legalidad;
 
 XXVIII. Convocar, conducir y coordinar la integración y funcionamiento del Comité Jurídico Ambiental, que se integrará con los titulares de las unidades jurídicas de los órganos desconcentrados, de las delegaciones federales y coordinaciones regionales de la Secretaría y de las entidades del Sector, así como por los servidores públicos que asesoren jurídicamente a las unidades administrativas de la dependencia;
 
-XXIX. Designar, autorizar y delegar en los servidores públicos adscritos a la Coordinación, facultades para ejercer las atribuciones previstas en este artículo, así como para representar, contestar demandas, denunciar, querellarse, comparecer a audiencias y a todo tipo de diligencias y actuaciones jurisdiccionales, ofrecer pruebas, interponer recursos y, en general, realizar todo tipo de actos tendientes a la defensa de los intereses de la Secretaría;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XXX. Opinar sobre la designación y remoción de los titulares de las unidades jurídicas de los órganos desconcentrados, de las delegaciones federales y de las coordinaciones regionales de la Secretaría;
+XXIX.- Designar, autorizar y delegar tanto a los servidores públicos adscritos a la Coordinación como a los servidores públicos que detenten puestos en los que se desempeñen funciones internas de asesoría, dictaminación y defensa jurídica, adscritos a las unidades administrativas de la Secretaría, facultades para ejercer las atribuciones previstas en este artículo, así como para representar, contestar demandas, denunciar, querellarse, comparecer a audiencias e intervenir en todo tipo de diligencias y actuaciones jurisdiccionales, ofrecer pruebas, interponer recursos y, en general, realizar todo tipo de actos tendientes a la defensa de los intereses de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXX.- Opinar sobre la designación y remoción de los titulares de las unidades jurídicas de los órganos desconcentrados, de las delegaciones federales, así como de los servidores públicos adscritos a las unidades administrativas de la Secretaría que detenten puestos en los que se desempeñen funciones internas de asesoría, dictaminación y defensa jurídica;
 
 XXXI. Validar las consultas y los criterios de carácter jurídico planteados por las unidades administrativas de la Secretaría;
 
@@ -559,9 +653,41 @@ XXXII. Coadyuvar, en el ámbito de su competencia, en las actividades que corres
 
 XXXIII. Realizar estudios que permitan desarrollar la investigación y el análisis legislativo en materia ambiental, de acuerdo con la técnica jurídica;
 
-XXXIV. Auxiliarse, para el ejercicio de las atribuciones previstas en este artículo, de los Directores Generales Adjuntos de lo Contencioso Administrativo y Judicial; de Legislación y Consulta, y de Legalidad Ambiental, en los términos de este Reglamento, y
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XXXV. Las demás que le confiera el titular de la Secretaría y las que le señalen las disposiciones legales y reglamentarias relativas.
+XXXIV.- Auxiliarse, para el ejercicio de las atribuciones previstas en este artículo, de los directores generales adjuntos de lo contencioso administrativo y judicial; de legislación y consulta, y de legalidad ambiental, en los términos de este Reglamento;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXXV.- Constituirse como depositario y custodio de acuerdos interinstitucionales en que la dependencia sea parte, de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXXVI.- Interpretar las normas administrativas y en su caso asesorar a las áreas administrativas para que lleven a cabo el cumplimiento de las mismas;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXXVII.- Realizar auditorías legales a delegaciones federales y unidades administrativas y órganos desconcentrados de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXXVIII.- Participar, en coordinación con la Unidad Coordinadora de Asuntos Internacionales, en la atención de peticiones ciudadanas en el marco del Acuerdo de Cooperación Ambiental de América del Norte, así como en la negociación de instrumentos jurídicos internacionales, reuniones y talleres de trabajo de los tratados en materia ambiental;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXXIX.- Revisar y en su caso, opinar instrumentos jurídicos internacionales que propongan las unidades administrativas de la Secretaría, así como participar en reuniones de seguimiento y evaluación de compromisos en materia internacional que sean competencia de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XL.- Resolver y en su caso, inscribir en el registro de personas acreditadas las solicitudes de las personas físicas y morales interesadas en realizar trámites ante la Secretaría, en los que se regula el acreditamiento de personalidad y otorgar las constancias respectivas, de conformidad con las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XLI.- Dar seguimiento a los proyectos de iniciativas de leyes, que sean de interés de la Secretaría y dictámenes en los que se solicite la opinión jurídica de la Secretaría ante el Congreso de la Unión, en coordinación con la Secretaría de Gobernación, así como llevar a cabo los trámites ante las instancias correspondientes del Ejecutivo Federal sobre iniciativas de leyes, decretos, reglamentos y acuerdos competencia de esta Secretaría que se sometan a su consideración, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XLII.- Coadyuvar con las unidades administrativas competentes para presentar denuncias penales por ocupaciones ilegales de los inmuebles federales a su cargo.
 
 ###### ARTÍCULO 15.
 
@@ -595,51 +721,97 @@ XIII. Controlar y asignar el Número Internacional Normalizado del Libro, para e
 
 XIV. Las demás que le confiera el titular de la Secretaría, las que le señalen las disposiciones legales y reglamentarias relativas, y las que correspondan a las unidades administrativas a su cargo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 16.
 
-La Coordinación General de Delegaciones y Coordinaciones Regionales tendrá las atribuciones siguientes:
+La Coordinación General de Delegaciones tendrá las atribuciones siguientes:
 
-I. Coordinar, en los términos que instruya el Secretario, las acciones operativas de la dependencia en las entidades federativas, a través de sus delegaciones federales y coordinaciones regionales, con la participación que corresponda a las subsecretarías, Oficialía Mayor y Coordinación General Jurídica;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-II. Establecer criterios para conducir las relaciones entre las unidades administrativas de la Secretaría, las delegaciones federales y las coordinaciones regionales, así como fijar los criterios y operar los mecanismos y lineamientos que se establezcan dentro del Sector en el ámbito territorial;
+I.- Coordinar en los términos que instruya el Secretario, las acciones operativas de la dependencia en las entidades federativas, a través de sus delegaciones federales, con la participación que corresponda a las Subsecretarías, Oficialía Mayor, Coordinación General Jurídica y las demás unidades y coordinaciones de la Secretaría;
 
-III. Fijar criterios y lineamientos, con base en las políticas que determine el Secretario, respecto de la concertación de las delegaciones federales y coordinaciones regionales con los sectores social y privado;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+II.- Establecer criterios para conducir las relaciones entre las unidades administrativas de la Secretaría y las delegaciones federales, así como fijar los criterios y operar los mecanismos y lineamientos que se establezcan dentro del Sector en el ámbito territorial;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+III.- Fijar criterios y lineamientos, con base en las políticas que determine el Secretario, respecto de la concertación de las delegaciones federales con los sectores social y privado, para su participación en los diversos planes y programas;
 
 IV. Participar en la celebración de acuerdos de coordinación y convenios de concertación, según corresponda, conjuntamente con las unidades administrativas y órganos desconcentrados de la Secretaría, con los gobiernos estatales y municipales, así como con organizaciones de los sectores social y privado, para promover el ejercicio de las atribuciones asignadas a la dependencia;
 
-V. Proponer al Secretario, y participar en el diseño, instrumentación y seguimiento de normas, programas y disposiciones de observancia general que corresponda aplicar a las delegaciones federales y coordinaciones regionales;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-VI. Elaborar y organizar un sistema de información para la toma de decisiones de las unidades administrativas de la Secretaría en la adecuación y desarrollo eficiente de los programas a cargo de las delegaciones federales y coordinaciones regionales;
+V.- Proponer al Secretario y participar en el diseño, instrumentación y seguimiento de normas, programas y disposiciones de observancia general que corresponda aplicar a las delegaciones federales y emitir, en su caso, las recomendaciones respectivas;
 
-VII. Coadyuvar con la Oficialía Mayor, en la formulación y actualización de los manuales de organización de las delegaciones federales y coordinaciones regionales, así como revisar y proponer las modificaciones a la estructura y funciones de las mismas;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-VIII. Coordinar el programa de desconcentración y simplificación administrativa de los servicios que prestan las delegaciones federales y coordinaciones regionales de la Secretaría, así como promover y participar en el programa de descentralización, en colaboración con las unidades administrativas adscritas a la Subsecretaría de Planeación y Política Ambiental y a la Oficialía Mayor, según corresponda;
+VI.- Elaborar, organizar y mantener actualizado un sistema de información para la toma de decisiones de las unidades administrativas de la Secretaría en la adecuación y desarrollo eficiente de los programas a cargo de las delegaciones federales;
 
-IX. Participar en el sistema de información y estadística de los servicios que prestan las delegaciones federales y coordinaciones regionales, sin perjuicio de las atribuciones de la Dirección General de Estadística e Información Ambiental;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-X. Promover y coordinar la realización de estudios en las delegaciones federales y coordinaciones regionales sobre asuntos que competen a la Secretaría;
+VII.- Coadyuvar con la Oficialía Mayor en la formulación y actualización de los manuales de organización de las delegaciones federales, así como revisar y proponer las modificaciones a la estructura y funciones de las mismas, así como cambios de adscripción y comisiones;
 
-XI. Coordinar la integración y supervisar la operación de los programas operativos anuales y los presupuestos respectivos de las delegaciones federales y coordinaciones regionales;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XII. Promover, a través de las delegaciones federales y coordinaciones regionales, la realización de eventos orientados al estudio, difusión y comprensión de la política ambiental y ecológica del país;
+VIII.- Coordinar el programa de desconcentración y simplificación administrativa de los servicios que prestan las delegaciones federales de la Secretaría, así como participar en el programa de descentralización, en colaboración con las unidades administrativas responsables de la Secretaría;
 
-XIII. Diseñar y operar un sistema de mejora continua en la organización, estructura y funcionamiento en las delegaciones federales y coordinaciones regionales de la Secretaría;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+IX.- Participar en el sistema de información y estadística de los servicios que prestan las delegaciones federales, sin perjuicio de las atribuciones de la Dirección General de Estadística e Información Ambiental;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+X.- Promover y coordinar la realización de asesorías, estudios e investigaciones en las delegaciones federales sobre asuntos que competen a la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XI.- Coordinar la integración y supervisar la operación del cronograma anual de trabajo y los presupuestos respectivos de las delegaciones federales;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XII.- Promover, a través de las delegaciones federales, la realización de eventos orientados al estudio, difusión y comprensión de la política ambiental y ecológica del país, así como de reuniones para la actualización e intercambio de información entre funcionarios delegacionales;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XIII.- Diseñar y operar un sistema de mejora continua en la organización, estructura y funcionamiento en las delegaciones federales de la Secretaría;
 
 XIV. Proponer al Secretario la modificación o creación de delegaciones federales o coordinaciones regionales de la Secretaría, a efecto de atender los asuntos cuyo tratamiento involucre a una o varias regiones geográficas, que podrán establecerse por regiones hidrogeográficas determinadas por la existencia de uno o varios ecosistemas o cuencas;
 
 XV. Recabar información respecto a la imagen y operación de las delegaciones federales de la Secretaría en cada entidad federativa, y de las coordinaciones regionales que podrán establecerse por regiones hidrogeográficas determinadas por la existencia de uno o varios ecosistemas o cuencas del país, con base en los lineamientos que emita la Coordinación General de Comunicación Social;
 
-XVI. Supervisar y evaluar el funcionamiento y operación de las delegaciones federales y coordinaciones regionales respecto al manejo integral de cuencas;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XVII. Coordinar y administrar un sistema de gestión de calidad y rendición de cuentas en cada una de las delegaciones federales y coordinaciones regionales;
+XVI.- Supervisar y evaluar el funcionamiento y operación de las delegaciones federales respecto al manejo integral de cuencas y a los respectivos instrumentos de política ambiental;
 
-XVIII. Proporcionar a las delegaciones federales y coordinaciones regionales de la Secretaría las políticas y normatividad que emitan las unidades administrativas centrales;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XIX. Promover y gestionar ante las unidades administrativas correspondientes de la Secretaría, el suministro a las delegaciones federales y coordinaciones regionales de los recursos humanos, materiales, financieros e informáticos requeridos para el ejercicio de sus atribuciones;
+XVII.- Coordinar y administrar un sistema de gestión de calidad y rendición de cuentas en cada una de las delegaciones federales, promoviendo la aplicación de las estrategias del modelo de innovación y calidad del gobierno federal;
 
-XX. Apoyar y proponer, en su caso, las giras que el Secretario y otros servidores públicos de la dependencia realicen en las entidades federativas, y
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XXI. Las demás que le confiera el titular de la Secretaría, las que le señalen las disposiciones legales y reglamentarias relativas, y las que competen a las unidades administrativas a su cargo.
+XVIII.- Proporcionar a las delegaciones federales de la Secretaría las políticas y normatividad que emitan las unidades administrativas centrales;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XIX.- Promover y gestionar ante las unidades administrativas correspondientes de la Secretaría, el suministro a las delegaciones federales de los recursos humanos, materiales, financieros e informáticos requeridos para el ejercicio de sus atribuciones;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XX.- Apoyar y proponer, en su caso, las giras que el Secretario y otros servidores públicos de la dependencia realizan en las entidades federativas;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXI.- Promover con los delegados el desarrollo de la infraestructura ambiental, implementando proyectos con la participación del sector privado y de los gobiernos estatales y municipales, de conformidad con los criterios y lineamientos que establezcan las unidades administrativas respectivas;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXII.- Apoyar la supervisión en las delegaciones federales, de la aplicación de los recursos y el cumplimiento de las metas de los programas sujetos a reglas de operación de los programas del Sector, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXIII.- Las demás que le confiera el Titular de la Secretaría, las que le señalen las disposiciones legales y reglamentarias y las que competen a las unidades administrativas a su cargo.
 
 ###### ARTÍCULO 17.
 
@@ -825,7 +997,9 @@ XVII. Integrar y administrar el acervo de información geomática de la Secretar
 
 La Dirección General de Política Ambiental e Integración Regional y Sectorial tendrá las atribuciones siguientes:
 
-I. Formular, con la colaboración de las unidades administrativas de la Secretaría, sus órganos desconcentrados y entidades del Sector, la política ambiental, sus instrumentos y modelos regionales de planeación y gestión participativa encaminados a propiciar el desarrollo sustentable, que podrán establecerse por regiones hidrogeográficas determinadas por la existencia de uno o varios ecosistemas o cuencas;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+I.- Participar con las unidades administrativas de la Secretaría, sus órganos desconcentrados y entidades del Sector en la formulación de la política ambiental, sus instrumentos y modelos regionales de planeación y gestión participativa encaminados a propiciar el desarrollo sustentable;
 
 II. Promover, a través de instrumentos de política y de gestión ambiental y de la coordinación con los diferentes órdenes de gobierno, la incorporación de las consideraciones ambientales en la toma de decisiones de los sectores productivos;
 
@@ -857,9 +1031,17 @@ XV. Participar, con las unidades administrativas competentes de la Secretaría, 
 
 XVI. Emitir, en el ámbito de su competencia y previa solicitud de la unidad administrativa correspondiente de la Secretaría, opinión de congruencia sobre la realización de obras y actividades sujetas al procedimiento de evaluación de impacto ambiental, así como de la implementación de proyectos y programas de aprovechamiento sustentable de los recursos naturales, cuando se ubiquen en zonas reguladas por programas de ordenamiento ecológico del territorio vigentes;
 
-XVII. Promover la aplicación de las inversiones públicas y privadas para el cumplimiento de los programas de la Secretaría, y
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XVIII. Diseñar, establecer, promover y evaluar políticas, lineamientos y modelos de actuación sobre manejo de riesgo ambiental a nivel nacional, con la participación que corresponda a las unidades administrativas, órganos desconcentrados, delegaciones federales y coordinaciones regionales de la Secretaría, en coordinación con otras dependencias federales y en colaboración con los gobiernos de las entidades federativas y municipales.
+XVII.- Promover la aplicación de las inversiones públicas y privadas para el cumplimiento de los programas de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XVIII.- Diseñar, establecer, promover y evaluar políticas, lineamientos y modelos de actuación sobre manejo de riesgo ambiental a nivel nacional, con la participación que corresponda a las unidades administrativas, órganos desconcentrados y delegaciones federales de la Secretaría, en coordinación con otras dependencias federales y en colaboración con los gobiernos de las entidades federativas y municipales, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XIX.- Promover la integración de las políticas ambientales con las demás políticas sectoriales en el contexto regional, y realizar las acciones y estrategias necesarias para su ejecución territorial con la participación de las autoridades federales, de las entidades federativas y de los municipios competentes.
 
 ###### ARTÍCULO 23.
 
@@ -1007,7 +1189,9 @@ XV. Definir, a través de la coordinación con autoridades federales, estatales 
 
 XVI. Promover, en coordinación con otras unidades administrativas de la Secretaría, la celebración de contratos, convenios y acuerdos de cooperación y asistencia técnica con organismos internacionales y nacionales, públicos o privados, en apoyo de las actividades de los sectores a que se refiere la fracción I de este artículo, así como para el aprovechamiento sustentable y la protección de los recursos naturales y ecosistemas de la contaminación y residuos generados en dichas actividades, en su caso, bajo las políticas y lineamientos que emitan la Subsecretaría de Planeación y Política Ambiental y la Unidad Coordinadora de Asuntos Internacionales;
 
-XVII. Proponer, ante las autoridades competentes, la expedición de declaratorias y programas para situaciones de emergencia o extraordinarias respecto del desarrollo sustentable de las actividades de los sectores a que se refiere la fracción I de este artículo, así como para el aprovechamiento sustentable y la protección de los recursos naturales y ecosistemas de la contaminación y residuos generados en dichas actividades, conforme a las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XVII.- Proponer, ante las autoridades competentes, la expedición de declaratorias y programas para situaciones de emergencia o extraordinarias, respecto del desarrollo sustentable de las actividades de los sectores a que se refiere la fracción I de este artículo, así como para el aprovechamiento sustentable y la protección de los recursos naturales y ecosistemas de la contaminación y residuos generados en dichas actividades, conforme a las disposiciones jurídicas aplicables; asimismo, integrar los expedientes y proponer la expedición de zonas intermedias de salvaguarda y las declaratorias a que se refiere el artículo 148 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
 XVIII. Organizar y coadyuvar con las unidades administrativas competentes de la Secretaría, en la celebración de congresos, ferias, seminarios, foros, exposiciones, certámenes nacionales e internacionales que fomenten la cultura del desarrollo sustentable de las actividades de los sectores a que se refiere la fracción I de este artículo, así como del aprovechamiento sustentable y la protección de los recursos naturales y ecosistemas de la contaminación y residuos generados en dichas actividades;
 
@@ -1273,9 +1457,17 @@ XXII. Participar, como miembro permanente, en los comités consultivos nacionale
 
 XXIII. Proponer a la Subsecretaría de Gestión para la Protección Ambiental, la formulación y ejecución de programas de restauración ecológica y, en su caso, de proyectos de declaratoria de zonas de restauración en aquellas áreas que presenten procesos de degradación, desertificación o graves desequilibrios ecológicos;
 
-XXIV. Informar periódicamente al Subsecretario de Gestión para la Protección Ambiental, y cuando éste lo requiera, sobre las concesiones que emita en el ámbito de su competencia, y
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XXV. Expedir, en el ámbito de su competencia, las autorizaciones a que se refiere el artículo 49 de la Ley Federal sobre Metrología y Normalización.
+XXIV.- Informar periódicamente al Subsecretario de Gestión para la Protección Ambiental, y cuando éste lo requiera, sobre las concesiones que emita en el ámbito de su competencia;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXV.- Expedir, en el ámbito de su competencia, las autorizaciones a que se refiere el artículo 49 de la Ley Federal sobre Metrología y Normalización, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXVI.- Emitir los lineamientos a que se refiere el Artículo 62 de la Ley General de Bienes Nacionales, así como los requisitos, plazos, catálogos de usos, densidad de ocupación y demás especificaciones para el destino de los inmuebles federales que sean competencia de la Secretaría.
 
 ###### ARTÍCULO 31.
 
@@ -1345,21 +1537,29 @@ II. Operar mecanismos de coordinación entre la Federación y las entidades fede
 
 III. Apoyar a las unidades administrativas de la Secretaría y a las entidades del Sector, en la consolidación del proceso de descentralización a los estados, en materia forestal y de suelos, así como coadyuvar en el seguimiento de las acciones derivadas de dicho proceso;
 
-IV. Formular y evaluar los programas de restauración para el rescate de suelos en zonas degradadas no forestales, así como evaluar los resultados de los programas de reforestación que ejecuten otras dependencias y entidades de la Administración Pública Federal;
+IV. (DEROGADA, D.O.F. 22 DE NOVIEMBRE DE 2004)
 
-V. Formular y coordinar la aplicación de los criterios ambientales para la preservación y aprovechamiento sustentable del suelo, de conformidad con las disposiciones jurídicas aplicables, con la participación que corresponda a otras unidades administrativas competentes, a las entidades del Sector y a los gobiernos de las entidades federativas y municipales;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-VI. Autorizar, suspender, revocar, anular y nulificar el cambio de utilización de terrenos forestales, de acuerdo con las disposiciones jurídicas aplicables;
+V.- Formular y coordinar la aplicación de los criterios ambientales para la preservación y aprovechamiento sustentable de los recursos forestales y del suelo, de conformidad con las disposiciones jurídicas aplicables, con la participación que corresponda a otras unidades administrativas competentes, a las entidades del Sector y a los gobiernos de las entidades federativas y de los municipios;
 
-VII. Realizar, integrar y mantener actualizado el inventario en materia de suelos, en coordinación con las autoridades competentes y entidades del Sector, así como establecer y operar el sistema de monitoreo de la calidad del suelo; información que hará del conocimiento de la Dirección General de Estadística e Información Ambiental;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+VI.- Autorizar, suspender, revocar, anular y nulificar el cambio de uso de suelo en terrenos forestales, siempre que lo soliciten entidades o dependencias de la administración pública, de acuerdo con las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+VII.- Regular la integración, monitoreo y actualización del Inventario Nacional Forestal y de Suelos y coordinar el diseño del mismo;
 
 VIII. Apoyar técnicamente la realización de los programas sectoriales en materia forestal y de suelos, en coordinación con las dependencias y entidades competentes de la Administración Pública Federal y con los gobiernos estatales y municipales participantes;
 
 IX. Proponer a la Subsecretaría de Gestión para la Protección Ambiental, la formulación y ejecución de programas de restauración ecológica y, en su caso, de proyectos de declaratoria de zonas de restauración en aquellas áreas que presenten procesos de degradación, desertificación o graves desequilibrios ecológicos;
 
-X. Evaluar la prestación eficiente de los servicios técnicos forestales de conformidad con las disposiciones jurídicas aplicables;
+X. (DEROGADA, D.O.F. 22 DE NOVIEMBRE DE 2004)
 
-XI. Otorgar, modificar, suspender, revocar, anular, nulificar y cancelar las autorizaciones relativas a la forestación y al aprovechamiento de recursos forestales maderables, así como elaborar los criterios y lineamientos para el establecimiento de unidades de manejo forestal;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XI.- Autorizar por excepción el cambio de uso de suelo en terrenos forestales cuando así lo soliciten las entidades y organismos públicos federales, estatales y municipales;
 
 XII. Otorgar, suspender, anular, nulificar y revocar, total o parcialmente, las autorizaciones en materia de sanidad forestal, y expedir la documentación fitosanitaria que se requiera para la movilización, importación y exportación de productos y subproductos forestales, en coordinación con las dependencias competentes de la Administración Pública Federal, así como efectuar las notificaciones para llevar a cabo los trabajos de saneamiento forestal a que están obligados los propietarios o poseedores de terrenos forestales o de aptitud preferentemente forestal;
 
@@ -1369,21 +1569,31 @@ XIV. Proponer a la Subsecretaría de Gestión para la Protección Ambiental, el 
 
 XV. Evaluar y dar seguimiento al establecimiento o levantamiento de vedas forestales, en los términos de las disposiciones aplicables;
 
-XVI. Coordinar y evaluar programas de prevención y combate contra incendios forestales, así como constituirse en enlace con otras dependencias y entidades de la Administración Pública Federal, y con los gobiernos de las entidades federativas, del Distrito Federal y de los municipios, para la ejecución de programas de combate de incendios forestales;
+XVI. (DEROGADA, D.O.F. 22 DE NOVIEMBRE DE 2004)
 
 XVII. Participar con las unidades administrativas competentes de la Secretaría, en la realización de estudios y propuestas para el establecimiento y manejo de áreas naturales protegidas en terrenos forestales;
 
-XVIII. Autorizar y validar la documentación y los sistemas de control previstos en las disposiciones jurídicas aplicables, para acreditar la legal procedencia de las materias primas forestales;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XIX. Realizar los actos de autoridad que correspondan conforme a las disposiciones jurídicas aplicables, para la protección y conservación de los recursos genéticos forestales, así como recibir los avisos para realizar actividades de recolección, producción, almacenamiento y distribución de germoplasma forestal, con fines comerciales o de investigación;
+XVIII.- Participar en coordinación con la Comisión Nacional de Áreas Naturales Protegidas, en la realización de estudios y propuestas para el manejo de terrenos forestales y preferentemente forestales en áreas naturales protegidas;
 
-XX. Administrar los terrenos nacionales forestales, cuya administración no corresponda a otra dependencia;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XXI. Realizar, integrar y mantener actualizado el inventario forestal nacional, y elaborar la zonificación de los terrenos forestales y de aptitud preferentemente forestal, con base en el ordenamiento ecológico del territorio;
+XIX.- Expedir las autorizaciones que correspondan de conformidad con las disposiciones jurídicas aplicables, para la colecta y uso de los recursos biológicos forestales con fines científicos, comerciales, de investigación y biotecnología; asimismo, dictaminar y, en su caso, autorizar la manipulación o modificación genética de germoplasma, para la obtención de organismos vivos genéticamente modificados con fines comerciales;
 
-XXII. Elaborar, bajo los lineamientos de la Dirección General de Estadística e Información Ambiental, el Subsistema Nacional de Información del Sector Forestal, para incorporarlo en el Sistema Nacional de Información Ambiental y de Recursos Naturales, y a los sistemas de información estadísticos y de información geográfica y documental;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XXIII. Establecer, integrar, operar y mantener actualizado el Registro Forestal Nacional, conforme a la información que reciba de las delegaciones federales y coordinaciones regionales de la Secretaría, así como expedir los certificados de inscripción previstos en las disposiciones jurídicas aplicables;
+XX.- Deslindar y administrar los terrenos nacionales forestales;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXI.- Establecer los criterios, metodología y procedimientos para la integración, organización y actualización de la zonificación forestal;
+
+XXII. (DEROGADA, D.O.F. 22 DE NOVIEMBRE DE 2004)
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXIII.- Establecer, integrar, operar y mantener actualizado el Registro Forestal Nacional, conforme a la información que reciba de las delegaciones federales y del Distrito Federal, así como expedir los certificados de inscripción previstos en las disposiciones jurídicas aplicables para el Distrito Federal;
 
 XXIV. Autorizar, de conformidad con las disposiciones jurídicas aplicables, los programas de manejo para la reforestación y los avisos para el aprovechamiento de recursos forestales no maderables para fines comerciales, así como realizar su control y evaluación y, en su caso, aprobar sus modificaciones;
 
@@ -1391,9 +1601,21 @@ XXV. Supervisar y evaluar el desarrollo y conservación de las obras de infraest
 
 XXVI. Participar, como miembro permanente, en los comités consultivos nacionales de normalización que se constituyan en la Secretaría, en las materias a que se refiere el presente artículo;
 
-XXVII. Dar cumplimiento en lo que corresponda a sus atribuciones, a los compromisos y proyectos internacionales en materia forestal y de manejo sustentable de recursos forestales y del suelo, conforme a los lineamientos de la Unidad Coordinadora de Asuntos Internacionales, y
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XXVIII. Expedir, en el ámbito de su competencia, las autorizaciones a que se refiere el artículo 49 de la Ley Federal sobre Metrología y Normalización.
+XXVII.- Dar cumplimiento en lo que corresponda a sus atribuciones, a los compromisos y proyectos internacionales en materia forestal y de manejo sustentable de recursos forestales y del suelo, conforme a los lineamientos de la Unidad Coordinadora de Asuntos Internacionales;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXVIII.- Expedir, en el ámbito de su competencia, las autorizaciones a que se refiere el artículo 49 de la Ley Federal sobre Metrología y Normalización;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXIX.- Integrar y llevar el control de la información estadística sobre aprovechamientos forestales maderables, no maderables, plantaciones forestales comerciales, centro de almacenamiento y transformación, prestadores de servicios técnicos y el uso de documentación para acreditar la legal procedencia de materias primas, productos y subproductos forestales, conforme a la información que reciba de las delegaciones federales de la Secretaría, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXX.- Integrar el Sistema Nacional de Gestión Forestal.
 
 ###### ARTÍCULO 33.
 
@@ -1511,7 +1733,9 @@ XIII. Desarrollar, una vez terminado el destino final de bienes y para efectos d
 
 XIV. Proponer a las unidades administrativas competentes de la Secretaría, lineamientos para la definición de las políticas de adquisición, arrendamiento, ocupación, mantenimiento y conservación de inmuebles por parte de la Secretaría, incluidos sus órganos desconcentrados, y difundir las normas que al respecto emitan las dependencias globalizadoras;
 
-XV. Registrar y controlar los bienes inmuebles que bajo cualquier título ocupe la Secretaría en territorio nacional, y tramitar la regularización jurídica de dicha ocupación;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XV.- Registrar los bienes inmuebles que bajo cualquier título ocupe la Secretaría en territorio nacional;
 
 XVI. Mantener actualizado el censo y registro de los bienes inmuebles del dominio público de la Federación, destinados a favor de la Secretaría u ocupados por ésta, de conformidad con los lineamientos dictados por la Secretaría de Contraloría y Desarrollo Administrativo;
 
@@ -1533,9 +1757,21 @@ XXIV. Operar el sistema central de correspondencia y archivo de la Secretaría, 
 
 XXV. Coordinar los servicios de seguridad y vigilancia que se proporcionan en relación con el personal y con los bienes muebles e inmuebles de la Secretaría, así como con los que tenga a su servicio o bajo su resguardo, y dirigir el control de acceso de personas y bienes a dichos inmuebles;
 
-XXVI. Diseñar, aplicar y dar seguimiento al Programa Interno de Protección Civil en los inmuebles que ocupa la Secretaría, en términos de las previsiones del Sistema Nacional de Protección Civil, y
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XXVII. Participar, en los términos de las disposiciones aplicables, en los Comités de Adquisiciones, Arrendamientos y Servicios, de Bienes Muebles, y Técnico Interno de Administración de Documentos, entre otros, así como de unidades internas de protección civil de la Secretaría.
+XXVI.- Diseñar, aplicar y dar seguimiento al Programa Interno de Protección Civil en los inmuebles que ocupa la Secretaría, en términos de las previsiones del Sistema Nacional de Protección Civil;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXVII.- Participar, en los términos de las disposiciones aplicables, en los Comités de Adquisiciones, Arrendamientos y Servicios, de Bienes Muebles, y Técnico Interno de Administración de Documentos, entre otros, así como de unidades internas de protección civil de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXVIII.- Constituirse como coordinador de las unidades administrativas de la Secretaría y ser el enlace ante el Sistema de Administración Inmobiliario Federal y Paraestatal en los términos dispuestos en la Ley General de Bienes Nacionales, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXIX.- Presentar denuncias de carácter penal por ocupaciones ilegales de los inmuebles federales a su cargo y dar el aviso a que se refiere la Ley General de Bienes Nacionales.
 
 Las atribuciones señaladas en este artículo podrán ser ejercidas por las delegaciones federales, coordinaciones regionales y órganos desconcentrados, en los términos del acuerdo delegatorio que para tal efecto emita el Secretario.
 
@@ -1581,23 +1817,23 @@ XVIII. Establecer los procedimientos necesarios para poner a disposición del p�
 
 ### CAPÍTULO SÉPTIMO. DE LAS ATRIBUCIONES DE LAS DELEGACIONES FEDERALES Y COORDINACIONES REGIONALES
 
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 37.
 
-La Secretaría, para el ejercicio de las atribuciones que le han sido conferidas, contará con delegaciones federales en las entidades federativas con la circunscripción territorial que a cada una de ellas corresponde o con la que se determine mediante acuerdo del Secretario que se publicará en el Diario Oficial de la Federación, así como con las coordinaciones regionales que se constituyan con la circunscripción territorial que señale el acuerdo correspondiente.
+La Secretaría, para el ejercicio de las atribuciones que le han sido conferidas, contará con delegaciones federales en las entidades federativas, con la circunscripción territorial que a cada una de ellas corresponde o con la que se determine mediante acuerdo del Secretario que se publicará en el Diario Oficial de la Federación.
 
-Las delegaciones federales y coordinaciones regionales, para la realización de sus actividades, tendrán la estructura administrativa que el Secretario determine.
+Las delegaciones federales, para la realización de sus actividades, tendrán la estructura administrativa que el Secretario determine.
 
-Las coordinaciones regionales podrán contar con las representaciones territoriales que se requieran para el ejercicio de sus funciones, en los términos y condiciones que se determinen en el acuerdo correspondiente que emita el Secretario.
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 38.
 
-Al frente de cada delegación federal y coordinación regional habrá un delegado y un coordinador, respectivamente, quienes serán nombrados y removidos por el Secretario, y serán auxiliados por el personal que las necesidades del servicio requieran, con base en el presupuesto correspondiente.
+Al frente de cada delegación habrá un delegado, quien será nombrado y removido por el Secretario, y será auxiliado por el personal que las necesidades del servicio requieran, con base en el presupuesto correspondiente.
 
-El delegado federal y el coordinador regional tendrán la representación de la Secretaría para desempeñar las funciones que directamente les encomiende el Secretario, respecto de su ámbito territorial de competencia.
+El delegado federal tendrá la representación de la Secretaría para desempeñar las funciones que directamente le encomiende el Secretario, respecto de su ámbito territorial de competencia.
 
-Los delegados federales y los coordinadores regionales tendrán, respecto de la unidad administrativa a su cargo, las facultades que se señalan en el artículo 19 de este Reglamento.
-
-Los coordinadores regionales tendrán, además, respecto de la unidad administrativa a su cargo, las atribuciones previstas en el artículo 39 de este Reglamento y las que les confieran las disposiciones jurídicas aplicables, así como las que les delegue el Secretario mediante el acuerdo correspondiente.
+Los delegados federales tendrán, respecto de la unidad administrativa a su cargo, las facultades que se señalan en el artículo 19 de este Reglamento.
 
 ###### ARTÍCULO 39.
 
@@ -1677,9 +1913,33 @@ XXVII. Suscribir los instrumentos jurídicos de concertación para el otorgamien
 
 XXVIII. Otorgar permisos para ejercer el comercio ambulante en las playas y la zona federal marítimo terrestre, en los términos de la legislación aplicable;
 
-XXIX. Participar en el fomento de los programas de desarrollo forestal a cargo de la Comisión Nacional Forestal, y
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XXX. Las demás que les señalen las disposiciones legales aplicables, y las que expresamente les encomiende el Secretario.
+XXIX.- Participar en el fomento de los programas de desarrollo forestal a cargo de la Comisión Nacional Forestal;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXX.- Autorizar, suspender, revocar y nulificar el cambio de uso de suelo de terrenos forestales, siempre que sea solicitado por particulares de acuerdo con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXXI.- Expedir las certificaciones de inscripción de los actos materia del Registro Forestal Nacional;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXXII.- Realizar la evaluación de los aprovechamientos de recursos forestales maderables y no maderables, plantaciones forestales comerciales y centro de almacenamiento y transformación de materias primas forestales, cambio de uso de suelo solicitado por particulares; modificaciones o cancelaciones de los programas de manejo forestal, refrendos y autorizaciones automáticas de aprovechamiento, medios de marqueo para señalamiento de la madera en rollo, y efectuar las notificaciones en los terrenos forestales o de aptitud preferentemente forestal relativas a la sanidad forestal;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXXIII.- Recibir los avisos para el aprovechamiento de recursos forestales no maderables y los de plantaciones forestales comerciales en los predios de menos o iguales a 800 hectáreas, así como expedir las constancias respectivas;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXXIV.- Expedir la documentación con la que se acredite la legal procedencia de las materias primas y productos forestales, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXXV.- Las demás que le señalen las disposiciones legales aplicables y las que expresamente le encomiende el Secretario.
 
 Las delegaciones federales y coordinaciones regionales de la Secretaría podrán contar, de acuerdo con su presupuesto autorizado, con una unidad jurídica, la que ejercerá, en el ámbito de la circunscripción territorial correspondiente, las atribuciones mencionadas en el artículo 14, fracciones VI, VIII a XI, XIII a XVII, XIX a XXIII, XXVI y XXXIII de este Reglamento, siguiendo los lineamientos que, en su caso, determine la Coordinación General Jurídica.
 
@@ -3705,9 +3965,17 @@ XL. Diseñar, instrumentar y desarrollar, en coordinación con las Direcciones G
 
 XLI. Aplicar las políticas y disposiciones emitidas en materia de transparencia y acceso a la información;
 
-XLII. Administrar la biblioteca y hemeroteca de la Secretaría, así como establecer las normas y procedimientos de funcionamiento de los demás centros de información de la dependencia y sus órganos desconcentrados, y
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XLIII. Las demás que le confiera el titular de la Secretaría, las que les señalen las disposiciones legales y reglamentarias relativas, y las que correspondan a las unidades administrativas a su cargo.
+XLII.- Administrar la biblioteca y hemeroteca de la Secretaría, así como establecer las normas y procedimientos de funcionamiento de los demás centros de información de la dependencia y sus órganos desconcentrados;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XLIII.- Formular, implementar, aplicar, ejecutar, gestionar, evaluar y supervisar los programas y los presupuestos para apoyar la formación de recursos humanos de alto nivel de especialización, incluyendo programas de posgrado en el extranjero en el sector ambiental y, en general, en los distintos órdenes de gobierno, así como en los sectores social y privado en las materias de su competencia, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XLIV.- Las demás que le confiera el Titular de la Secretaría, las que señalen las disposiciones legales y reglamentarias relativas, y las que correspondan a las unidades administrativas a su cargo.
 
 ###### ARTÍCULO 111.
 
@@ -5101,11 +5369,15 @@ En las ausencias de los subsecretarios y del Oficial Mayor, éstos serán suplid
 
 Las ausencias de los titulares de los órganos desconcentrados y de las unidades administrativas que los integran, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependa en los asuntos de su respectiva competencia.
 
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 154.
 
-Durante las ausencias de los titulares de las unidades coordinadoras, coordinadores generales, jefes de unidad, directores generales, subdirectores generales, gerentes nacionales, gerentes regionales, gerentes estatales, directores generales adjuntos, delegados, coordinadores de proyectos especiales, directores ejecutivos, subgerentes, directores de área, subdirectores, subdelegados, jefes de proyecto y jefes de departamento, éstos serán sustituidos por los servidores públicos de la jerarquía inmediata inferior que designen los correspondientes titulares de las unidades administrativas antes mencionadas.
+Las ausencias temporales o definitivas de los titulares de las unidades coordinadoras, coordinaciones generales, jefes de unidad y directores generales, serán suplidas por los servidores públicos de la jerarquía inmediata inferior que designen los correspondientes titulares de las unidades administrativas antes mencionadas.
 
-En el caso de la Coordinación General Jurídica y para los efectos de representación legal de la Secretaría ante los órganos jurisdiccionales, autoridades laborales y administrativas, y Tribunal Federal de Conciliación y Arbitraje, su titular será suplido en sus ausencias por los Directores Generales Adjuntos de lo Contencioso Administrativo y Judicial; de Legislación y Consulta, y de Legalidad Ambiental, en el orden mencionado.
+En caso de que el titular no hubiere hecho ninguna designación ésta la realizará el Secretario.
+
+Las ausencias de subdirectores generales, gerentes nacionales, gerentes regionales, gerentes estatales, directores generales adjuntos, delegados, coordinadores de proyectos especiales, directores ejecutivos, subgerentes, directores de área, subdirectores, subdelegados, jefes de proyecto y jefes de departamento, serán suplidas por los servidores públicos de la jerarquía inmediata inferior que designen los correspondientes titulares de las unidades administrativas.
 
 ###### ARTÍCULO 155.
 
@@ -5136,3 +5408,13 @@ CUARTO.- Los asuntos pendientes de resolución a la entrada en vigor de este Dec
 QUINTO.- Los acuerdos secretariales sobre delegación de atribuciones que se hayan expedido con anterioridad a la entrada en vigor del presente Decreto, seguirán vigentes en lo que no se opongan al mismo.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecisiete días del mes de enero de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Víctor Lichtinger Waisman.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 22 DE NOVIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos pendientes de resolución a la entrada en vigor de este Decreto que conforme al mismo deban pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquélla a la que se le atribuya la competencia en el propio instrumento jurídico.
+
+TERCERO.- Los Acuerdos Secretariales sobre delegación de atribuciones que se hayan expedido con anterioridad a la entrada en vigor del presente Decreto seguirán surtiendo sus efectos legales en cuanto no se opongan al mismo.
