@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "1955-06-01"
+last_updated: "1963-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1955.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 1963.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -917,7 +917,13 @@ XXXV.- Convocar a elecciones de Ayuntamientos, cuando por cualquier motivo desap
 
 XXXVI.- Presidir el Jurado de Responsabilidades a que se refiere la fracción II del artículo 180.
 
-XXXVII.- Las demás que le asignen las leyes, ya sean federales o del Estado.
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 1963)</small>
+
+XXXVII.- Delegar en las Autoridades Municipales, en los casos en que lo considere conveniente o necesario, la prestación de Servicios Públicos que correspondan al Estado, fijando las bases para ello y destinando al efecto los arbitrios necesarios, los que se tomarán de la Partida Presupuestal correspondiente.
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 1963)</small>
+
+XXXVIII.- Las demás que le asignen las Leyes, ya sean Federales o del Estado.
 
 ### CAPITULO II.
 
@@ -1690,3 +1696,7 @@ P.O. 1 DE JUNIO DE 1955.
 DECRETO No. 265
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE JULIO DE 1963.
+
+ARTICULO TRANSITORIO.- El presente decreto entrará en vigor en todo el Estado, al día siguiente de su publicación en el Periódico Oficial.
