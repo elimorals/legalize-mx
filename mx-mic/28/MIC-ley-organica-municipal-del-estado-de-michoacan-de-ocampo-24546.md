@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2003-03-13"
+last_updated: "2003-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -2007,9 +2007,11 @@ En lo no previsto en esta Ley, se aplicará supletoriamente lo establecido en la
 
 La Hacienda Pública Municipal se constituirá por los ingresos que señale la Ley de Hacienda Municipal y la Ley de Ingresos que apruebe el Congreso del Estado. Además, con aquellos ingresos que determinen las Leyes y decretos federales y estatales y los convenios respectivos.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 142.
 
-Las iniciativas de Ley de ingresos municipales deberán presentarse para su aprobación, en su caso, ante el Congreso del Estado antes del inicio del tercer periodo ordinario de sesiones. Estas leyes tendrán vigencia anual y regirán el ejercicio fiscal de que se trate, a partir del 1o. de enero y hasta el 31 de diciembre del año que corresponda.
+Las iniciativas de Ley de ingresos municipales deberán presentarse para su aprobación, en su caso, ante el Congreso del Estado, a más tardar el treinta y uno de agosto del año anterior al que correspondan. Estas leyes tendrán vigencia anual y regirán el ejercicio fiscal de que se trate, a partir del uno de enero y hasta el treinta y uno de diciembre del año al que correspondan.
 
 ###### Artículo 143.
 
@@ -2288,3 +2290,13 @@ P.O. 13 DE MARZO DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 1 DE SEPTIEMBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Las iniciativas de ley de ingresos municipales para el ejercicio fiscal 2004, deberán presentarse, por esta única vez, ante el Congreso del Estado, a más tardar el catorce de septiembre del presente año.
