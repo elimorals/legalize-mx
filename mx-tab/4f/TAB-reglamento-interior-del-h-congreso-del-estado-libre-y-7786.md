@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-h-congreso-del-estado-libre-y-7786"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-28"
-last_updated: "1993-08-28"
+last_updated: "1995-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 1995.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 28 de agosto de 1993.
 
@@ -53,57 +53,101 @@ Este reglamento y sus reformas o adiciones no podrán ser objeto de veto por el 
 
 ### CAPITULO II. COLEGIO ELECTORAL
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1995)</small>
+
 ###### ARTICULO 3.
 
-El día, hora y lugar indicados en el artículo 11 de la Ley Orgánica del Poder Legislativo, la Comisión Instaladora, que será la Mesa Directiva de la Legislatura saliente, y los presuntos Diputados, procederán a la Constitución del Colegio Electoral, para tal efecto:
+La Comisión Instaladora de la Cámara de Diputados tendrá a su cargo:
 
-a) La Comisión Instaladora, por conducto de su Secretario, dará lectura a la lista de presuntos Diputados enviados por el organismo electoral correspondiente; y
+I).- Recibir de la Oficialía Mayor de la propia Cámara, los expediente provenientes de los Concejos Distritales relativos a cada cómputo Distritales, en los que contengan las actas originales y cualquier otra documentación; además de la copia certificada de la constancia de mayoría y validez de la fórmula de candidatos a Diputados de mayoría relativa que la hubiesen obtenido, así como un informe de los recursos que se hubieren interpuesto para (sic) una de las elecciones, de conformidad con lo prescrito en el Código de Instituciones y Procedimientos Electorales del Estado (COIPET);
 
-b) Acto continuo el Presidente de la Mesa Directiva de la Comisión Instaladora, exhortará a los presuntos Diputados a que en escrutinio secreto y por mayoría de votos, elijan la Mesa Directiva del Colegio Electoral, que se integrará con un Presidente, un Secretario y dos Vocales.
+II).- Recibir de la Oficialía Mayor de la Cámara, el informe de las constancias de asignación proporcional que el Consejo del Instituto Estatal Electoral hubiese entregado a cada partido político de acuerdo con lo establecido en el Código de Instituciones y Procedimientos Electorales del Estado;
 
-###### ARTICULO 4.
+III).- Recibir de la Oficialía Mayor de la Cámara, la notificación de las resoluciones del Tribunal Estatal Electoral, recaidas a los recursos que haya conocido conforme lo establece el Código de la materia;
 
-Después de la elección de la Mesa Directiva del Colegio Electoral y anunciado (sic) los resultados por la Comisión Instaladora, el Presidente de ésta invitará a los integrantes de aquélla a tomar su lugar en el Presidium, hará la entrega por inventario de los paquetes electorales, informes y constancias en su poder y dará por concluidas las funciones de la Comisión.
+IV).- Citar a los Diputados electos a junta preparatoria, 25 días antes del inicio del primer período de sesiones ordinaria de la legislatura entrante.
+
+V).- Entregar por inventario a la primera mesa directiva de la Legislatura entrante, la totalidad de los documentos electorales a que se refieren las fracciones I, II y III de este artículo;
+
+VI).- Dar cumplimiento en lo que corresponde al procedimiento establecido en el artículo siguiente.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1995)</small>
+
+###### ARTÍCULO 4.
+
+En la fecha y hora en que hubieren sido convocados conforme lo previsto en la fracción IV del Artículo anterior, presente en el salón de sesiones, la Comisión Instaladora y los Diputados Electos, éstos últimos procederán a la Elección de su Primer Mesa Directiva al efecto.
+
+A).- La Comisión Instaladora por conducto de unos de sus secretarios, dará cuenta del ejercicio de las atribuciones establecidas en el artículo anterior, reservando la entrega de los documentos electorales a que se refiere la fracción VI de dicho artículo, a la Mesa Directiva que habrá de elegirse;
+
+B).- Enseguida se pasará lista de presentes de los Diputados miembros de la nueva legislatura para, en su caso, declarar debidamente instalada la Cámara, los Diputados electos ausentes serán llamados en los términos del artículo 21 Constitucional.
+
+C).- Acto continuo el Presidente de la Comisión Instaladora exhortará a los Diputados Electos a que en escrutinio secreto y por mayoría de votos elijan la primera Mesa Directiva de la nueva Legislatura, misma que se integrará conforme a lo dispuesto en la Ley Orgánica del Poder Legislativo.
+
+D).- Realizada la elección de la primera Mesa Directiva de la Legislatura entrante, conforme a los correspondientes resultados que serán anunciados por los Secretarios de la Comisión Instaladora, el Presidente de esta invitará a los recién nombrados a tomar su lugar en el presidium. Antes de retirarse, hará la entrega por inventario de la totalidad de los documentos y constancias electorales que obren en su poder y declarará concluidas sus funciones.
+
+E).- El Presidente de la primera Mesa Directiva de la Legislatura entrante protestará su cargo, pidiendo a los Diputados asistentes que se pongan de pie y dirán: “PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS Y LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE ELLAS EMANEN, DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE DIPUTADO A LA (NUMERO) LEGISLATURA DE LA CAMARA DE DIPUTADOS DEL H. CONGRESO DEL ESTADO, QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA UNION Y EL ESTADO SI ASI NO LO HICIERE QUE LA NACION Y EL ESTADO, ME LO DEMANDE”.
+
+F).- El Presidente tomará la protesta a los demás miembros integrantes de la Cámara en los siguientes términos:
+
+“¿PROTESTAIS GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO, LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE DIPUTADO A LA (NUMERO) LEGISLATURA DEL H. CONGRESO DEL ESTADO, QUE EL PUEBLO OS HA CONFERIDO MIRANDO TODO POR EL BIEN Y LA PROSPERIDAD DE LA UNION Y DEL ESTADO?”.
+
+Los Diputados Electos responderán:
+
+“SI PROTESTO”.
+
+El Presidente proseguirá:
+
+“SI ASI NO LO HICIEREIS, QUE LA NACION Y EL ESTADO, OS LO DEMANDE”.
+
+Enseguida, el Presidente de la Mesa Directiva dirá en voz alta:
+
+“LA (NUMERO) LEGISLATURA DE LA CAMARA DE DIPUTADOS DEL H. CONGRESO DEL ESTADO, SE DECLARA LEGALMENTE CONSTITUIDA”.
+
+Por último, la Mesa Directiva de la Cámara nombrará comisiones de cortesía, cuya integración y procedimientos se regirán por las disposiciones reglamentarias y citará a sesiones de congreso para la apertura de los trabajos de la nueva Legislatura.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1995)</small>
 
 ###### ARTICULO 5.
 
-El Presidente de la Mesa Directiva del Colegio Electoral, rendirá por sí la protesta de ley, y a su vez la tomará a los demás presuntos Diputados miembros de la misma.
+Conservarán su validez los Acuerdos y Resoluciones de la Cámara o de los órganos que forman parte de la misma, en que hubiesen participado Diputados cuya elección se anulase con posterioridad.
 
 ###### ARTICULO 6.
 
-El Presidente será suplido por el Secretario en los casos en que desee tomar parte en los debates, pues no podrá participar en ellos mientras esté presidiendo.
+(DEROGADO, P.O. 11 DE ENERO DE 1995)
 
 ###### ARTICULO 7.
 
-Los trabajos del Colegio Electoral serán dirigidos por el Presidente de la Mesa Directiva, quien será auxiliado por el Secretario; los Vocales en su orden suplirán las faltas de aquellos.
+(DEROGADO, P.O. 11 DE ENERO DE 1995)
 
 ###### ARTICULO 8.
 
-Integrado el quórum requerido, los presuntos Diputados se constituirán en Junta Preparatoria, en la que se nombrarán por mayoría de votos: Una Comisión Integrada por tres miembros para que examinen las constancias de los presuntos Diputados electos por el principio de mayoría relativa, otra compuesta de igual número, para que examinen la de los integrantes de la primera comisión y, otra, para que examine las de los presuntos Diputados de representación proporcional. Estas Comisiones se denominarán Primera, Segunda y Tercera de Poderes, respectivamente.
+(DEROGADO, P.O. 11 DE ENERO DE 1995)
 
 ###### ARTICULO 9.
 
-Las Comisiones de Poderes se integrarán por presuntos Diputados electos por el principio de mayoría relativa. Inmediatamente después el Secretario dará lectura al inventario de los expedientes que se hayan recibido de los órganos electorales competentes; los que, acto continuo pasarán a la Comisión respectiva, haciéndose constar la entrega en documento que firmarán los integrantes de cada comisión.
+(DEROGADO, P.O. 11 DE ENERO DE 1995)
 
 ###### ARTICULO 10.
 
-Una vez recibida la documentación de las elecciones, la Comisión respectiva revisará si existe resolución pronunciada por el Tribunal Electoral competente, en tal caso, con la copia certificada de la determinación y actuaciones del caso, emitirá el dictamen correspondiente; pudiendo el Colegio Electoral o sus comisiones solicitar, si lo juzgan conveniente, mayores datos al Tribunal Electoral, que permitan resolver las dudas o controversias que se presenten.
+(DEROGADO, P.O. 11 DE ENERO DE 1995)
 
 ###### ARTICULO 11.
 
-Dentro de los cuatro días siguientes a la primera Junta Preparatoria, se celebrará la segunda, en la que las Comisiones de Poderes presentarán sus dictámenes, en ésta o en las demás que a juicio de la asamblea fueren necesarias, se calificará la pluralidad absoluta de votos, la legalidad de la elección de cada uno de sus miembros y se resolverán las dudas o controversias que se presenten, teniendo los interesados el derecho de defenderse desde la tribuna.
+(DEROGADO, P.O. 11 DE ENERO DE 1995)
 
 ###### ARTICULO 12.
 
-El colegio Electoral podrá aprobar o declarar la nulidad de las elecciones de uno o más Distritos Electorales, de acuerdo con las disposiciones de la legislación electoral.
+(DEROGADO, P.O. 11 DE ENERO DE 1995)
 
 ###### ARTICULO 13.
 
-Aprobadas las elecciones, el Presidente tomará la protesta de Ley a los demás Diputados. Seguidamente, se eligirá (sic) la Mesa Directiva del Congreso para el mes de Enero; el Presidente del Colegio Electoral declarará legalmente constituida la nueva Legislatura y concluida (sic) las funciones del Colegio Electoral.
+(DEROGADO, P.O. 11 DE ENERO DE 1995)
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1995)</small>
 
 ###### ARTICULO 14.
 
-La legislatura en funciones se erigirá en Colegio Electoral, para hacer la declaración sobre elecciones de Gobernador del Estado, Regidores de los Ayuntamientos y de Senadores de la República; asimismo, para designar Gobernador del Estado y calificar las elecciones extraordinarias, en su caso.
+La Legislatura en funciones se erigirá en Colegio Electoral, para hacer la calificación de la elección de Gobernador del Estado; asimismo para designar Gobernador en los términos que establece la Constitución del Estado.
 
 ###### ARTICULO 15.
 
@@ -369,6 +413,10 @@ c) Las denuncias o querellas a que hace alusión la Ley de Responsabilidades de 
 
 d) Las recompensas y honores que deban otorgarse a quienes presten servicios importantes a la Patria, Estado, Municipios o a la Humanidad;
 
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 1995)</small>
+
+e) La integración de la terna que el Honorable Congreso, propondrá al Ejecutivo local, para que éste nombre al Procurador General de Justicia del Estado, pudiendo para ello, consultar mediante convocatoria pública a la sociedad.
+
 V. Hacienda y Presupuesto, dictaminará sobre:
 
 a) Las iniciativas de Ley de Ingresos y de las propuestas de presupuestos de egresos del Estado y de los Municipios, así como de todo lo relacionado al patrimonio de los mismos;
@@ -559,9 +607,11 @@ Podrá darse por terminada la sesión permanente, cuando así lo acuerde el Cong
 
 En las sesiones privadas se antepondrá el principio de discrecionalidad y se exhortará a que con base en él se desahogue la sesión.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1995)</small>
+
 ###### ARTICULO 68.
 
-En la sesión inaugural de cada período se dará lectura a las actas levantadas, en la última sesión celebrada por la Comisión Permanente, en la Junta Previa en que se eligió la Mesa Directiva o por el Congreso en el período inmediato anterior, las que deberán ser discutidas y aprobadas, en su caso, por mayoría de votos de los Diputados que integren el quórum. Si se trata de instalación de una nueva legislatura deberá hacerse lo mismo con la última acta de la Junta Preparatoria del Colegio Electoral, igualmente deberá darse cuenta con la correspondencia dirigida al Congreso que no hubiere sido acordada para trámites por la Comisión Permanente, ordenándose lo que corresponda.
+En la sesión inaugural de cada período se dará lectura a las actas levantadas, en la última sesión celebrada por la Comisión Permanente, en la junta previa en que se eligió la Mesa Directiva o por el Congreso en el período inmediato anterior, las que deberán ser discutidas y aprobadas, en su caso, por mayoría de votos de los Diputados que integren el quórum. Si se trata de instalación de una nueva Legislatura deberá hacerse lo mismo con la última acta de la junta preparatoria; igualmente deberá darse cuenta con la correspondencia dirigida al Congreso que no hubiere sido acordada para trámites por la Comisión Permanente, ordenándose lo que corresponda.
 
 ###### ARTICULO 69.
 
@@ -924,3 +974,25 @@ DIPUTADO PRESIDENTE.
 LIC. ARNULEO CUEVA AGUIRRE.
 
 DIPUTADO SECRETARIO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE ENERO DE 1995.
+
+DECRETO No. 0771
+
+###### ARTICULO UNICO.
+
+SE DEROGAN LOS ARTICULOS 6, 7, 8, 9, 10, 11, 12 Y 13 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL H. CONGRESO DEL ESTADO, Y SE REFORMAN LOS ARTICULOS 3, 4, 5, 14 Y 68.
+
+UNICO: Este Decreto entrará en vigor inmediatamente después de su aprobación.
+
+P.O. 11 DE ENERO DE 1995.
+
+DECRETO 004
+
+###### ARTICULO UNICO.
+
+SE ADICIONA LA FRACCION IV DEL ARTICULO 63 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE TABASCO.
+
+UNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado.
