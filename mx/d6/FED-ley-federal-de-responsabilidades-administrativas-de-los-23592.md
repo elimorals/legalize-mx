@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-responsabilidades-administrativas-de-los-23592"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2002-03-13"
-last_updated: "2002-03-13"
+last_updated: "2004-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23592&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-03-12"
 
 LEY FEDERAL DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 13 de marzo de 2002.
 
@@ -417,15 +417,7 @@ Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que
 
 ###### ARTICULO 33.
 
-Cuando en el procedimiento administrativo disciplinario se haya determinado la responsabilidad del servidor público y ésta haya causado daños o perjuicios a los particulares, éstos podrán acudir ante la Secretaría o el contralor interno respectivo para que elaboren el dictamen correspondiente que comunicarán a la dependencia o entidad en la que el infractor se encuentre adscrito, para que éstas, si así lo determinan, reconozcan la responsabilidad de indemnizar la reparación de los daños y perjuicios en cantidad líquida y ordenen su pago, sin necesidad de que acudan a la instancia judicial o a cualquier otra.
-
-Lo anterior, sin perjuicio de que el particular acuda directamente ante la dependencia o entidad en la que el servidor público desempeñe su empleo, cargo o comisión para que éstas resuelvan lo conducente.
-
-Si la dependencia o entidad determina que no ha lugar a indemnizar o si el monto no satisface al reclamante, se tendrán expeditas, a su elección, las vías jurisdiccionales correspondientes.
-
-Cuando se haya aceptado una recomendación de la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, en la que se proponga la reparación de daños o perjuicios, la dependencia o entidad se limitará a su determinación en cantidad líquida y a emitir la orden de pago respectiva.
-
-El Estado podrá repetir de los servidores públicos el pago de la indemnización hecha a los particulares.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 34.
 
@@ -435,7 +427,7 @@ En tratándose de infracciones graves el plazo de prescripción será de cinco a
 
 La prescripción se interrumpirá al iniciarse los procedimientos previstos por la Ley. Si se dejare de actuar en ellos, la prescripción empezará a correr nuevamente desde el día siguiente al en que se hubiere practicado el último acto procedimental o realizado la última promoción.
 
-El derecho de los particulares a solicitar la indemnización de daños o perjuicios prescribirá en dos años, contados a partir de la notificación de la resolución administrativa que haya declarado cometida la falta administrativa.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2004)</small>
 
 ## TITULO TERCERO
 
@@ -640,3 +632,11 @@ Artículo Noveno.- Las menciones que en otras leyes, reglamentos y demás dispos
 México, D.F., a 15 de diciembre de 2001.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. María Lucero Saldaña Pérez, Secretaria.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de marzo de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 31 DE DICIEMBRE DE 2004.
+
+PRIMERO.- La presente Ley entrará en vigor el 1o. de enero del año 2005.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite en los entes públicos federales, relacionados con la indemnización a los particulares derivada de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo con las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
