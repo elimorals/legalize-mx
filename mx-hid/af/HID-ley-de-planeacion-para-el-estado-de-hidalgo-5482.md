@@ -4,7 +4,7 @@ identifier: "HID-ley-de-planeacion-para-el-estado-de-hidalgo-5482"
 country: "mx"
 rank: "ley"
 publication_date: "1987-08-10"
-last_updated: "1987-08-10"
+last_updated: "2003-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY ESTATAL DE PLANEACION DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE HIDALGO PUBLICADO EN EL PERIODICO OFICIAL EL 24 DE NOVIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 10 de agosto de 1987.
 
@@ -438,3 +440,13 @@ Por lo tanto mando se imprima publique y circule para su debido cumplimiento el 
 Dado en el Palacio del Poder Ejecutivo de la Ciudad de Pachuca de Soto, Hidalgo, a los veinticuatro días del mes de julio de mil novecientos ochenta y siete.
 
 El Gobernador Constitucional Del Estado, LIC. ADOLFO LUGO VERDUZCO.- El Secretario De Gobernación, LIC, ERNESTO GIL ELORDUY.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE NOVIEMBRE DE 2003.
+
+PRIMERO.- La presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- En tanto se expidan las disposiciones reglamentarias de esta Ley, continuarán aplicándose las que sobre la materia hubiere, en lo que no se oponga a este Ordenamiento.
+
+TERCERO.- Se abroga la Ley de Planeación del Estado de Hidalgo, publicada el 10 de agosto de 1987 y se derogan las demás disposiciones legales que se opongan a la presente.
