@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2002-04-17"
+last_updated: "2002-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ABRIL DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2002.
 
 Ley publicada de la Segunda a Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
@@ -4579,3 +4579,7 @@ SEGUNDO.- El arancel establecido en el artículo 1o. de este Decreto para las fr
 TERCERO.- El arancel establecido en el artículo 1o. de este Decreto para las fracciones arancelarias 7207.11.01, 7208.27.01, 7208.36.01, 7208.37.01, 7208.38.01, 7208.39.01, 7208.51.01, 7208.52.01, 7209.16.01, 7209.17.01, 7209.18.01, 7210.49.01, 7210.61.01, 7210.70.01, 7213.91.01, 7214.20.01, 7214.91.01, 7214.99.01, 7214.99.02, 7216.10.01, 7216.21.01, 7216.31.01, 7216.32.01, 7216.32.02, 7216.32.99, 7216.40.01, 7217.20.99, 7225.19.99, 7225.92.01, 7228.30.99, 7304.39.04, 7304.59.01, 7306.30.99, 7306.60.99, 7307.93.01, 7313.00.01, 7314.41.01, 7315.82.02 y 7317.00.99, estará vigente hasta el 5 de septiembre de 2002.
 
 CUARTO.- El arancel establecido en el artículo 1o. de este Decreto para las fracciones arancelarias 8471.60.03, 8471.60.05 y 8471.60.08, estará vigente hasta el 31 de diciembre de 2002. A partir del 1o. de enero de 2003, dichas fracciones arancelarias estarán sujetas al pago de un arancel de 4%.
+
+D.O.F. 16 DE AGOSTO DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
