@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1935-03-06"
+last_updated: "1935-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MARZO DE 1935.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ABRIL DE 1935.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -46,17 +46,19 @@ LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
 La unidad del sistema monetario de los Estados Unidos Mexicanos es el "peso", con equivalencia de 75 (setenta y cinco centigramos de oro puro).
 
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 1935)</small>
+
 ###### ARTICULO 2°.
 
-Las monedas circulantes, serán:
+Las monedas circulantes serán:
 
-a). Los billetes que legalmente emita el Banco de México;
+a). Los billetes del Banco de México, con las siguientes denominaciones: uno, cinco, diez, veinte, cincuenta, cien, quinientos y mil pesos;
 
-b). Las monedas de plata de un peso, del cuño creado por la Ley de 27 de octubre de 1919;
+b). Las monedas fraccionarias de cincuenta centavos, del cuño y ley que establezca el decreto respectivo;
 
-> <small>(F. DE E., D.O.F. 28 DE JULIO DE 1931)</small>
+c). Las monedas fraccionarias de uno, dos, cinco, diez y veinte centavos, de las ligas y cuños creados por la ley de 25 de marzo de 1905, el decreto de 15 de octubre de 1914, y los que se establecen por el decreto de esta fecha.
 
-c). Las monedas fraccionarias de plata de diez , veinte y cincuenta centavos, y las de bronce de uno, dos y cinco centavos, de los cuños creados por las Leyes de 25 de marzo de 1905, de 15 de octubre de 1914, de 27 de octubre de 1919 y de 29 de abril de 1925.
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 1935)</small>
 
 ###### ARTICULO 2o.
 
@@ -66,17 +68,19 @@ D.O.F. 6 DE MARZO DE 1935.
 
 ARTICULO TRANSITORIO.- El presente Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el "Diario Oficial".
 
+D.O.F. 27 DE ABRIL DE 1935.
+
 ###### ARTICULO 5°.
 
-Subsistirán con el carácter de monedas fraccionarias y con poder liberatorio limitado a veinte pesos en un mismo pago, las monedas de plata de diez, veinte y cincuenta centavos, de los cuños creados, respectivamente, por las Leyes de 29 de abril de 1925 y de 27 de octubre de 1919.
+Las monedas fraccionarias de diez, veinte y cincuenta centavos, tendrán poder liberatorio limitado a veinte pesos en un mismo pago.
 
-> <small>(F. DE E., D.O.F. 28 DE JULIO DE 1931)</small>
-
-Subsistirán igualmente con el carácter de fraccionarias, las monedas de bronce de cinco centavos, creadas por el Decreto de 15 de octubre de 1914 y las de uno y dos centavos, creadas por la Ley de 25 de marzo de 1905. Estas monedas tendrán un poder liberatorio limitado a dos pesos en un mismo pago.
+Las monedas de uno, dos y cinco centavos, tendrán poder liberatorio limitado a dos pesos en un mismo pago.
 
 ###### ARTICULO 6°.
 
 Las oficinas públicas de la Federación, de los Estados y de los Municipios, estarán obligadas a recibir las monedas a que se refiere el artículo que antecede, sin limitación alguna, en pago de toda clase de impuestos, servicios o derechos.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 1935)</small>
 
 ###### ARTICULO 8°.
 
@@ -92,11 +96,11 @@ Las piezas perforadas o recortadas, las que tengan marcas o contraseñas y las q
 
 ### CAPITULO II. De la Emisión de Moneda
 
-> <small>(F. DE E., D.O.F. 28 DE JULIO DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 1935)</small>
 
 ###### ARTICULO 11.
 
-La emisión de billetes del Banco de México se ajustará a lo dispuesto en la Ley de 25 de agosto de 1925 y en sus reformas y adiciones.
+La emisión de billetes del Banco de México se ajustará a lo dispuesto en esta ley y en la Constitutiva de dicha institución.
 
 > <small>(REFORMADO, D.O.F. 10 DE MARZO DE 1932)</small>
 
@@ -114,37 +118,37 @@ La acuñación que se haga en forma distinta a la prevenida en esta Ley, será c
 
 ### CAPITULO III. De la Reserva Monetaria
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 1933)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 1935)</small>
 
 ###### ARTICULO 14.
 
-Se establece una Reserva Monetaria que estará formada por los siguientes recursos:
+La Reserva Monetaria estará formada por los siguientes recursos:
 
-a). Los valores adquiridos por el Banco de México en virtud de las operaciones a que se refieren los artículos 2, fracción II, y 10, fracción II de su Ley Constitutiva.
+a). Los que la integran al ser expedida esta ley.
 
-b). Las sumas que en efectivo reciba el Banco de México en pago de los documentos redescontados o por la venta del oro o efectos cuya adquisición proceda de alguna de las operaciones de emisión de billetes previstas por el artículo 2o., reformado, de su Ley Constitutiva.
+b). La plata contenida en las antiguas monedas de un peso y de cincuenta, veinte y diez centavos, retiradas de la circulación en ejecución de esta ley.
 
-c). La parte de las utilidades del Banco de México que la ley respectiva señale al efecto.
+c). La parte de las utilidades del Banco de México que la ley respectiva señala.
 
-d). La diferencia que resulte entre el costo y el valor monetario de las monedas que sean acuñadas.
+d). La diferencia que resulte entre el costo y el valor monetario de las monedas fraccionarias que se acuñen.
 
 e). El producto de los préstamos que se contraten para el aumento de la Reserva.
 
-f). La suma que anualmente asigne el Presupuesto de Egresos para ese objeto, y el producto de los impuestos y arbitrios que se afecten al mismo fin.
+f). La suma que anualmente asigne el Presupuesto de Egresos de la Federación para ese objeto.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 1933)</small>
+Igualmente corresponderán a la Reserva Monetaria todos los incrementos que tenga, sea por el aumento del valor de sus bienes, sea por los provechos que alcance en las operaciones que por su cuenta se practiquen.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 1935)</small>
 
 ###### ARTICULO 15.
 
-La Reserva Monetaria se destinará íntegramente a sostener el valor de la moneda nacional, regulando su circulación y los cambios sobre el exterior, y a garantizar la emisión de billetes que el Banco de México haga en los términos del artículo 2o. de su Ley Constitutiva, esto último en unión de la Reserva de Circulación prevista por el artículo 3o. de la misma ley.
+La Reserva Monetaria se destinará exclusivamente a sostener el valor de la moneda nacional, y a regular su circulación y los cambios sobre el exterior.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 1933)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 1935)</small>
 
 ###### ARTICULO 16.
 
-Los metales amonedables que ingresen a la Reserva Monetaria en los términos del inciso a) del artículo decimocuarto, serán considerados por su valor comercial en los estados y balances que el Banco de México publique conforme a su Ley Constitutiva.
-
-Las sumas que en efectivo reciba el Banco de México por la venta del oro o divisas adquiridos en los términos de la fracción II del artículo 2o. reformado de su Ley Constitutiva, serán empleadas de toda preferencia en retirar de la circulación los billetes emitidos a cambio de aquéllos, debiendo estarse en todo caso a lo dispuesto por el párrafo final de dicho artículo 2o. reformado.
+Los recursos que constituyen la Reserva Monetaria, en los términos del artículo 14 de esta ley, serán considerados por su valor comercial en los estados y balances que el Banco de México publique conforme a su Ley Constitutiva.
 
 ###### ARTICULO 17.
 
@@ -164,11 +168,13 @@ Se declaran libres la exportación y la importación de oro acuñado o en pasta,
 
 ###### ARTICULO 3°.
 
-Los billetes del Banco de México serán de circulación voluntaria y en ningún caso podrá hacerse forzosa su admisión, quedando sin embargo obligadas las oficinas públicas federales y las de los Estados y Municipios, a recibir estos billetes, sin limitación alguna, en pago de toda clase de impuestos, servicios o derechos.
+Los billetes del Banco de México tendrán poder liberatorio ilimitado.
 
 ###### ARTICULO 4°.
 
-Las monedas de plata de un peso, del cuño creado por la Ley de 27 de octubre de 1919, tendrán poder liberatorio ilimitado.
+(DEROGADO, D.O.F. 27 DE ABRIL DE 1935)
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 1935)</small>
 
 ###### ARTICULO 5°.
 
@@ -186,7 +192,7 @@ Las demás monedas de plata y fraccionarias retiradas de la circulación, serán
 
 ###### ARTICULO 7°.
 
-La obligación de pagar cualquier suma en moneda mexicana, se solventará entregando, por su valor nominal y hasta el límite de su respectivo poder liberatorio, monedas de plata o de bronce del cuño que en esta ley se conserva.
+La obligación de pagar cualquier suma en moneda mexicana, se solventará entregando por su valor nominal y hasta el límite de su respectivo poder liberatorio, billetes del Banco de México o monedas fraccionarias de curso legal.
 
 > <small>(REFORMADO, D.O.F. 6 DE MARZO DE 1935)</small>
 
@@ -270,6 +276,20 @@ D.O.F. 22 DE MARZO DE 1933.
 
 Se deroga el artículo 17 de la Ley Monetaria de 25 de julio de 1931, y los artículos 3o. y 4o. transitorios de la Ley de 9 de marzo de 1932, que reformó dicha Ley Monetaria.
 
+###### ARTICULO 1°.
+
+A partir de la vigencia de esta ley quedarán privadas de su carácter de monedas y por consecuencia, de todo poder liberatorio, las piezas de plata de un peso y de cincuenta, veinte y diez centavos que han estado en circulación hasta la fecha.
+
+Sin embargo, durante los treinta días siguientes a la fecha de publicación de esta ley, las piezas de plata mencionadas, conservarán poder liberatorio limitado a veinte pesos en cada pago.
+
+###### ARTICULO 2°.
+
+El Banco de México y sus sucursales, las Oficinas Federales de Hacienda y las de Correos y Telégrafos, canjearán sin limitación alguna, a la par, las antiguas monedas, por las que en substitución de ellas establece esta ley.
+
+Al efecto, las oficinas públicas y las instituciones de crédito, entregarán desde luego, al Banco de México, no obstante el plazo de un mes señalado en el párrafo segundo del artículo 1°. transitorio, todas sus existencias en antiguas monedas de plata, recibiendo en cambio los billetes y monedas fraccionarias respectivas. Los depósitos constituídos en las instituciones de crédito, en caja, saco o sobre cerrado, con posterioridad al día quince de febrero del presente año, quedarán sujetos a la obligación de canje establecida en este precepto.
+
+Todas las antiguas monedas que dentro del plazo de treinta días citado reciban las oficinas públicas y las instituciones de crédito, las entregarán desde luego, en canje, al Banco de México.
+
 ###### ARTICULO 3°.
 
 Todas las obligaciones contraídas hasta la fecha de esta ley en moneda nacional de cualquier especie, se solventarán entregando monedas de los cuños que esta ley conserva, dentro de los límites respectivos de su poder liberatorio.
@@ -280,6 +300,50 @@ No obstante lo prevenido en el párrafo anterior, deberán entregar monedas de o
 
 Las obligaciones de pago en moneda extranjera contraídas dentro de la República para ser cumplidas en ésta, se solventarán en los términos del artículo octavo de esta ley, a menos que el deudor demuestre, tratándose de operaciones de préstamo, que la moneda recibida del acreedor fue moneda nacional de cualquier clase, o que, tratándose de otras operaciones, la moneda en que se contrajo originalmente la obligación fue moneda nacional de cualquier clase; en estos casos, las obligaciones de referencia se solventarán en monedas nacionales, en los términos de los artículos cuarto y quinto de esta ley, respectivamente, al tipo que se hubiere tomado en cuenta al efectuarse la operación para hacer la conversión de la moneda nacional recibida a la moneda extranjera o, si no es posible fijar ese tipo, a la paridad legal.
 
+###### ARTICULO 5°.
+
+Las prevenciones de los dos artículos anteriores no son aplicables al Banco de México cuando actúe como fiduciario de la Reserva Monetaria.
+
+###### ARTICULO 6°.
+
+Queda prohibido cualquier acto u operación que tenga por objeto directa o indirectamente, el comercio o uso de las monedas de plata que esta ley retira de la circulación, o del metal contenido en ellas.
+
+Queda prohibido también, cualquier acto u operación que directa o indirectamente tienda a utilizar como monedas, las piezas de plata que esta ley retira de la circulación.
+
+Se exceptúan únicamente, los actos u operaciones que dentro de los treinta días señalados por el párrafo segundo del artículo 1°. transitorio de esta ley, se practiquen utilizando como moneda dichas piezas de plata.
+
+###### ARTICULO 7°.
+
+Las violaciones a los artículos 2°., 3°., 4°. y 6°. transitorios de esta ley, se castigarán con pena de prisión, de tres meses a tres años, más el comiso de las piezas de plata motivo del delito.
+
 ###### ARTICULO 7°.
 
 (DEROGADO, D.O.F. 10 DE MARZO DE 1932)
+
+###### ARTICULO 8°.
+
+Todas las obligaciones contraídas en moneda nacional, antes de la vigencia de esta ley, se solventarán entregando monedas del curso legal, dentro de los límites de su poder liberatorio.
+
+###### ARTICULO 9°.
+
+Las obligaciones de pago en moneda extranjera contraídas dentro de la República para ser cumplidas en ésta, se solventarán en los términos del artículo octavo de esta ley, a menos que el deudor demuestre, tratándose de operaciones de préstamo, que la moneda recibida del acreedor fue moneda nacional de cualquier clase, o que, tratándose de otras operaciones, la moneda en que se contrajo originalmente la obligación fue moneda nacional de cualquier clase; en estos casos, las obligaciones de referencia se solventarán en monedas nacionales, en los términos de esta ley, al tipo que se hubiere tomado en cuenta al efectuarse la operación para hacer la conversión de la moneda nacional recibida, a la moneda extranjera, o si no es posible fijar ese tipo, al que haya regido el día en que se contrajo la obligación.
+
+###### ARTICULO 10.
+
+Queda facultada la Secretaría de Hacienda y Crédito Público para proveer en la esfera administrativa, a la ejecución de las disposiciones de esta ley.
+
+> <small>(F. DE E., D.O.F. 29 DE ABRIL DE 1935)</small>
+
+###### ARTICULO 11.
+
+Esta Ley entrará en vigor desde la fecha de su publicación.
+
+###### ARTICULO 3°.
+
+Queda prohibida, en lo absoluto, la exportación de las antiguas monedas de plata que esta ley retira de la circulación, así como la del metal que contienen ya sea fundido o afinado.
+
+Al efecto, los exportadores estarán obligados a comprobar ante las Aduanas respectivas, el origen de la plata que intenten exportar.
+
+###### ARTICULO 4°.
+
+Se prohibe igualmente, la fundición y afinación de las monedas que se retiran de la circulación por esta ley.
