@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1941-04-15"
+last_updated: "1941-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 1941.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1941.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -621,9 +621,11 @@ I. Sancionar, promulgar y ejecutar las leyes y decretos que expida el Congreso d
 
 II. Nombrar y remover a los empleados de su dependencia cuyo nombramiento y remoción no estén determinados de otro modo en la Constitución y demás leyes, así como conceder licencias y admitirles sus renuncias.
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1941)</small>
 
-III. Tener el mando de la fuerza pública en el Estado y en los Municipios donde residiera habitual o transitoriamente; pudiendo en estos casos remover y nombrar Inspectores y demás miembros de la policía.
+III. Tener el mando de la fuerza pública en el Estado y en los Municipios donde residiera habitual o transitoriamente, pudiendo en estos casos remover y nombrar Inspectores y demás miembros de la Policía.
+
+En los casos de perturbación grave de la tranquilidad pública en alguno o varios lugares de uno o más Municipios, el Gobernador del Estado nombrará y removerá libremente al Inspector y demás miembros de la Policía del Municipio o Municipios donde hubiere causas de intranquilidad.
 
 IV. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputación Permanente, y pedir al mismo la prórroga del período de sesiones por el tiempo que estime necesario.
 
@@ -1576,3 +1578,9 @@ Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su
 P.O. 15 DE ABRIL DE 1941.
 
 UNICO.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial.
+
+P.O. 16 DE DICIEMBRE DE 1941.
+
+###### ARTICULO UNICO.
+
+Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el "Periódico Oficial del Gobierno del Estado".
