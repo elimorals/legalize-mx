@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-1322
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-03"
-last_updated: "1998-12-03"
+last_updated: "2003-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN EL PERIODICO OFICIAL EL 3 DE OCTUBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial, el jueves 3 de diciembre de 1998.
 
@@ -316,3 +318,33 @@ DIPUTADO PRESIDENTE.- MAURO CISNEROS FONSECA.- DIPUTADO SECRETARIO.- VICTOR CORO
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 18 dieciocho días del mes de Noviembre de 1998, mil novecientos noventa y ocho.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES.- (Firmados).
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 3 DE OCTUBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Michoacán de Ocampo, publicada en la Cuarta Sección del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, Tomo CXXIII, Número 15, del día 3 de diciembre de 1998.
+
+###### ARTÍCULO TERCERO.
+
+El presupuesto, contabilidad y Gasto Público del ejercicio 2003, deberá ejercerse conforme a las disposiciones legales y administrativas de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Michoacán de Ocampo, publicada en la Cuarta Sección del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, Tomo CXXIII, Número 15, del día 3 de diciembre de 1998.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos de lo dispuesto en los artículos 13, 18 y 19 de esta Ley, las asignaciones por servicios personales y las plantillas de personal, para el ejercicio fiscal 2004, se presentarán y publicarán únicamente a nivel de unidad programática presupuestaria.
+
+###### ARTÍCULO QUINTO.
+
+La normatividad emitida por la Contaduría General de Glosa, en relación con la materia de ésta Ley, se entenderá emitida por la Auditoria Superior de Michoacán.
+
+###### ARTÍCULO SEXTO.
+
+El Gobernador del Estado, deberá expedir, los reglamentos y manuales que se deriven de la presente Ley, dentro de los seis meses siguientes a su entrada en vigor.
+
+El titular del Poder Ejecutivo del Estado dispondrá se publique y observe.
