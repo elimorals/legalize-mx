@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-ciencia-y-8636"
 country: "mx"
 rank: "estatuto"
 publication_date: "1994-09-07"
-last_updated: "1995-11-23"
+last_updated: "2002-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1994-06-17"
 
 ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE NOVIEMBRE DE 1995.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA, PUBLICADO EN EL D.O.F. DE 9 DE DICIEMBRE DE 2002, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 7 de septiembre de 1994.
 
@@ -982,3 +984,29 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente Acuerdo.
 TERCERO.- El Director General expedirá en un plazo no mayor de 90 días hábiles, contados a partir de la fecha en que entre en vigor el presente Acuerdo, la actualización del Manual de Organización del Consejo Nacional de Ciencia y Tecnología. En tanto, las atribuciones conferidas anteriormente a las presentes modificaciones se irán transfiriendo de manera paulatina a las Direcciones Adjuntas correspondientes en los términos del presente Acuerdo.
 
 CUARTO.- Se ordena la impresión y difusión del Estatuto Orgánico del CONACYT, con las reformas y adiciones contenidas en el presente Acuerdo por conducto de la Dirección de Comunicación Científica y Tecnológica.
+
+D.O.F. 9 DE DICIEMBRE DE 2002.
+
+PRIMERO.- El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Director General deberá expedir en un plazo no mayor de seis meses, contados a partir de la fecha en que entre en vigor este Estatuto, el Manual de Organización del Consejo Nacional de Ciencia y Tecnología. En tanto, las atribuciones conferidas a las Direcciones Adjuntas o Areas equivalentes del Estatuto Orgánico anterior, se entenderán conferidas a las actuales Direcciones Adjuntas y Direcciones de Area que dependen de la Dirección General.
+
+TERCERO.- Los asuntos pendientes de resolución a la entrada en vigor del presente Estatuto, se seguirán sustanciando por las unidades administrativas que conforme a este ordenamiento les competa y de conformidad con la regulación vigente en su momento.
+
+CUARTO.- Las modificaciones al presente Estatuto sólo tendrán lugar a iniciativa del Director General o del Presidente de la H. Junta de Gobierno del CONACYT y mediante aprobación de ésta.
+
+QUINTO.- Se abroga el Estatuto Orgánico aprobado por la H. Junta Directiva en su XXXII Sesión Ordinaria celebrada el 19 de septiembre de 1995, las modificaciones al mismo, aprobadas mediante acuerdo RLVIII-23/02, en la sesión de la H. Junta de Gobierno del CONACYT, celebrada el 18 de marzo de 2002, así como, las disposiciones administrativas internas que se opongan al presente Estatuto.
+
+SEXTO.- La Dirección Adjunta de Tecnología, expedirá dentro de los tres meses siguientes a la fecha de publicación en el Diario Oficial de la Federación, del presente Estatuto, las Bases de Organización y Funcionamiento del Registro de Consultores Tecnológicos.
+
+SEPTIMO.- La Dirección Adjunta de Desarrollo Regional y Sectorial, expedirá dentro de los tres meses siguientes a la fecha de publicación en el Diario Oficial de la Federación, del presente Estatuto, las Bases de Organización y Funcionamiento del Sistema Nacional de Evaluación Científica y Tecnológica.
+
+OCTAVO.- La Dirección Adjunta de Administración y Finanzas, en Coordinación con la Dirección de Comunicación Social, expedirá dentro de los tres meses siguientes a la fecha de publicación en el Diario Oficial de la Federación, del presente Estatuto, las Bases de Organización y Funcionamiento del Comité de Apoyos Especiales.
+
+NOVENO.- La Dirección Adjunta de Administración y Finanzas, expedirá con el apoyo de la Dirección Adjunta de Servicios Jurídicos, dentro de los tres meses siguientes a la fecha de publicación en el Diario Oficial de la Federación del presente Estatuto, las Bases de Organización y Funcionamiento del Comité de Cancelación de Adeudos.
+
+DECIMO.- La Dirección de Comunicación Social, expedirá dentro de los tres meses siguientes a la fecha de publicación en el Diario Oficial de la Federación, en el presente Estatuto, las Bases de Organización y Funcionamiento del Comité de Información.
+
+DECIMO PRIMERO.- La Dirección Adjunta de Coordinación de Grupos y Centros de Investigación, dispondrá lo conducente a fin de incorporar al documento identificado como "Marco de Operación" de los Comités de Evaluación Externos de los Centros del Sistema CONACYT, la facultad para que a solicitud del propio Consejo y previo proceso de auscultación interna y externa se proponga una lista de candidatos para ocupar el cargo de Titular de los Centros CONACYT, facultad que se incorporará en la actualización de los instrumentos de creación de los Centros del Sistema CONACYT, dispuesta en el Artículo Décimo Transitorio de la Ley de Ciencia y Tecnología; asimismo, dispondrá lo conducente para incorporar en la actualización de los instrumentos de creación de las entidades coordinadas sectorialmente, la atribución para que la Dirección Adjunta de Servicios Jurídicos, valide y sancione la reglamentación interna y las reglas de operación de cada Centro de Investigación.
+
+DECIMO SEGUNDO.- La Dirección Adjunta de Coordinación de Grupos y Centros de Investigación, en coordinación con la Secretaría de Contraloría y Desarrollo Administrativo, emitirá los lineamientos para la celebración, desarrollo y seguimiento de las sesiones de los Organos de Gobierno de las Entidades coordinadas por el CONACYT, en un plazo que no excederá del 31 de diciembre de 2002.
