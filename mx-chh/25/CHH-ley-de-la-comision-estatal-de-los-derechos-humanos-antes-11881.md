@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-la-comision-estatal-de-los-derechos-humanos-antes-11881"
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-26"
-last_updated: "1994-11-30"
+last_updated: "2002-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2002.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 26 de septiembre de 1992.
 
@@ -511,6 +511,10 @@ QUINTO.- EL REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE DERECHOS HUMANOS SERA 
 
 SEXTO.- EL GOBERNADOR DEL ESTADO ENVIARA AL CONGRESO LOCAL PARA SU APROBACION, EL NOMBRAMIENTO DE PRESIDENTE DE LA COMISION ESTATAL DE DERECHOS HUMANOS, DENTRO DE LOS 90 DIAS SIGUIENTES A AQUEL EN QUE ESTA LEY ENTRE EN VIGOR.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+
+SEPTIMO.- EL PRESIDENTE DE LA COMISION ESTATAL DE DERECHOS HUMANOS PARA EL PERIODO 2005-2008, SERA NOMBRADO A MAS TARDAR EL MES DE MARZO DEL AÑO DOS MIL CINCO. EN LOS SUBSECUENTES PERIODOS, LA DESIGNACION SE HARA EN EL MES DE MARZO DE QUE SE TRATE, ANTES DE CUMPLIRSE EL PLAZO PARA EL QUE SE NOMBRO A QUIEN FUNGE CON TAL CARGO.
+
 DADO EN EL PALACIO DEL PODER LEGISLATIVO EN LA CIUDAD DE CHIHUAHUA, CHIH., AL OCTAVO DIA DEL MES DE SEPTIEMBRE DE MIL NOVECIENTOS NOVENTA Y DOS.
 
 DIPUTADO PRESIDENTE
@@ -542,3 +546,13 @@ P.O. 30 DE NOVIEMBRE DE 1994.
 PRIMERO.- Este decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los Debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado, y hecho que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
