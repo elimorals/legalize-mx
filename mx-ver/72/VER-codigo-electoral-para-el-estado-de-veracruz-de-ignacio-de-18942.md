@@ -4,7 +4,7 @@ identifier: "VER-codigo-electoral-para-el-estado-de-veracruz-de-ignacio-de-18942
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-19"
-last_updated: "2003-07-22"
+last_updated: "2004-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18942&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 19 de octubre de 2000.
 
@@ -1075,6 +1075,10 @@ II. Un representante por cada uno de los partidos políticos que hubieren obteni
 
 Por cada Consejero Electoral propietario, se designará un suplente. De igual manera, por cada representante propietario de partido político, se acreditará un suplente.
 
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2004)</small>
+
+En los años en que no se celebren procesos electorales, el Consejo General se integrará con los representantes de los partidos políticos registrados y será presidido por el Secretario Ejecutivo, todos con derecho a voz y voto, a efecto de ejercer exclusivamente las atribuciones señaladas en las fracciones I, VI en lo referente al otorgamiento del registro de los partidos, agrupaciones y asociaciones políticas; las de las fracciones VIII, XII, XIV en lo relativo a los trabajos técnicos para la preparación, organización y desarrollo de los plebiscitos y referendos, y de las fracciones XXIX, XXXII, XXXIII, todas del artículo 89 de este Código.
+
 ###### Artículo 84.
 
 Los Consejeros Electorales, propietarios y suplentes, serán electos por el voto de las dos terceras partes de los integrantes del Congreso del Estado, a partir de las propuestas que formulen los órganos directivos estatales o los Grupos Legislativos de los partidos políticos, y bajo el procedimiento siguiente:
@@ -1131,9 +1135,11 @@ II. Desempeñar cargos de dirigencia nacional, estatal o municipal, o equivalent
 
 III. Utilizar en beneficio propio o de terceros la información confidencial de que dispongan en razón de su cargo; ni divulgarla sin autorización del Consejo General.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 88.
 
-Los Consejeros Electorales durarán en su encargo tres años y podrán ser reelectos, por una sola vez, para el período inmediato. En caso de ausencia definitiva, será llamado el suplente que corresponda.
+Los Consejeros Electorales durarán en su encargo el período que comprenda el proceso electoral para el cual fueron designados. En caso de ausencia definitiva será llamado el suplente que corresponda.
 
 Los Consejeros Electorales estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en el Título Quinto de la Constitución del Estado. Asimismo, el Congreso del Estado podrá, por el voto de las dos terceras partes de sus integrantes, revocar el nombramiento del Consejero Electoral que actualice alguno de los supuestos contenidos en el artículo anterior.
 
@@ -3710,3 +3716,9 @@ Primero. Como consecuencia de la ejecutoria dictada por el Pleno de la Suprema C
 Segundo. Notifíquese el presente Decreto a la Suprema Corte de Justicia de la Nación, para su conocimiento y efectos legales a que haya lugar.
 
 Tercero. Publíquese en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 31 DE DICIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial. Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
