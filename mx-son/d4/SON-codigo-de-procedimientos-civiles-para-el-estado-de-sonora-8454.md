@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2001-12-13"
+last_updated: "2004-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 13 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE ABRIL DE 2004.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -928,6 +928,10 @@ VII.- En los concursos de acreedores, el juez del domicilio del deudor;
 VIII.- En los negocios relativos a la tutela de los menores e incapacitados, el juez de la residencia de éstos, para la designación de tutor, y en los demás casos, el del domicilio de éste;
 
 IX.- En los negocios relativos a suplir el consentimiento de quien ejerza la patria potestad o en los casos de impedimentos para contraer matrimonio, el del lugar en donde se hayan presentado los pretendientes;
+
+> <small>(ADICIONADA, B.O. 29 DE ABRIL DE 2004)</small>
+
+IX BIS.- En los juicios especiales sobre pérdida de la patria potestad, el Juez del domicilio de la institución pública de asistencia social que haya acogido al menor;
 
 X.- Para decidir las diferencias conyugales y los juicios de nulidad de matrimonio, el del domicilio conyugal;
 
@@ -5463,9 +5467,11 @@ Ejecutoriado el divorcio, el juez remitirá copia al Oficial del Registro Civil 
 
 La sentencia definitiva es apelable en el efecto suspensivo y no podrá ejecutarse hasta que la apelación se decida, excepto en lo que se refiera a pensión alimenticia.
 
+> <small>(REFORMADA SU DENOMINACION, B.O. 29 DE ABRIL DE 2004)</small>
+
 ### CAPITULO SEXTO.
 
-Juicios sobre paternidad, filiación y patria potestad.
+De la paternidad y filiación.
 
 ###### Art. 587.
 
@@ -5531,11 +5537,9 @@ IX.- El tribunal podrá dictar de oficio o petición de parte, en cualquier esta
 
 Las sentencias recaídas en el juicio sobre paternidad y filiación, serán revisables de oficio, abriéndose la segunda instancia, aunque las partes no apelen ni expresen agravios. El tribunal examinará la legalidad de la sentencia de primera instancia, quedando entre tanto sin ejecutarse ésta.
 
-### CAPITULO SEPTIMO.
+> <small>(ADICIONADO, B.O. 29 DE ABRIL DE 2004)</small>
 
-De la adopción.
-
-> <small>(REFORMADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
+### CAPITULO SEXTO BIS. De la Patria Potestad
 
 ###### Art. 594.
 
@@ -5553,11 +5557,29 @@ Los asuntos que versen sobre posesión de la patria potestad y calificación de 
 
 La resolución que se dicte no es apelable.
 
-### CAPITULO OCTAVO.
+> <small>(ADICIONADO, B.O. 29 DE ABRIL DE 2004)</small>
 
-Rectificación de actas del estado civil.
+Art. 595 BIS.- Tratándose de menores que sean acogidos por una institución pública de asistencia social, la pérdida de la patria potestad en los casos a que se refieren las fracciones III y VII del artículo 611 del Código Civil para el Estado de Sonora, se tramitará en juicio especial de acuerdo a las reglas de la vía sumaria, con las siguientes modalidades:
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1998)</small>
+I.- Se correrá traslado de la demanda a quienes ejerzan la patria potestad y a las personas a que se refiere el artículo 581 del Código Civil para el Estado de Sonora.
+
+II. En el caso de que las notificaciones se realicen mediante edictos, éstos deberán ser publicados por tres veces consecutivas en el Boletín Oficial del Gobierno del Estado y en un periódico de los que tengan mayor circulación en el Estado. Las notificaciones mediante edictos surtirán sus efectos a los tres días siguientes al de la última publicación.
+
+III.- Todas las excepciones deberán hacerse valer en la contestación. Si la parte demandada no formula su contestación, se le tendrá por contestado en sentido negativo.
+
+IV.- Los incidentes no suspenderán el procedimiento. Las excepciones y recursos que se interpongan se resolverán en la sentencia definitiva.
+
+V.- Las pruebas deberán ofrecerse en los escritos de demanda o contestación. Las pruebas supervenientes se regirán por las reglas generales previstas en este Código.
+
+VI.- Transcurrido el periodo de emplazamiento, dentro de los tres días siguientes se celebrará una audiencia de pruebas y alegatos, citándose a las partes conforme a las reglas de las notificaciones personales, con las prevenciones y apercibimientos que legalmente se requieran. Si no fuere posible desahogar todas las pruebas, la audiencia podrá diferirse por una sola vez por un término no mayor de cinco días.
+
+El ejercicio de la acción corresponderá al Ministerio úblñi9co y será juez competente el del lugar donde esté el domicilio de la Institución de Beneficencia o Asistencia Social que haya acogido al menor.
+
+### CAPITULO SEPTIMO.
+
+De la adopción.
+
+> <small>(REFORMADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 596.
 
@@ -5633,9 +5655,11 @@ En todo procedimiento de adopción se dará intervención al Ministerio Público
 
 Art. 600 QUATER (SIC).- El Juez que autorizó la adopción plena tiene competencia para ordenar al Oficial del Registro Civil que informe al adoptado sobre sus antecedentes registrales, cuando éste o sus adoptantes lo soliciten para determinar impedimentos matrimoniales o por cualquier causa grave y fundada, así como a solicitud del Ministerio Público en los casos de investigación criminal.
 
-### CAPITULO NOVENO.
+### CAPITULO OCTAVO.
 
-Interdicción e inhabilitación.
+Rectificación de actas del estado civil.
+
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 601.
 
@@ -5671,9 +5695,9 @@ Una vez ejecutoriada la sentencia, se comunicará al Oficial del Registro Civil 
 
 Art. 604 BIS.- (DEROGADO, B.O. 24 DE DICIEMBRE DE 1998)
 
-### CAPITULO DECIMO.
+### CAPITULO NOVENO.
 
-Nombramientos de tutores y curadores y discernimiento de estos cargos.
+Interdicción e inhabilitación.
 
 ###### Art. 605.
 
@@ -5759,9 +5783,9 @@ Los gastos que ocasione el procedimiento serán pagados con cargo al patrimonio 
 
 Si el juez considera que la demanda se ha formulado sin motivo o con propósitos dolosos, los gastos serán a cargo del demandante.
 
-### CAPITULO UNDECIMO.
+### CAPITULO DECIMO.
 
-Enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos.
+Nombramientos de tutores y curadores y discernimiento de estos cargos.
 
 ###### Art. 617.
 
@@ -5861,9 +5885,9 @@ Los tutores y curadores no pueden ser removidos sin que se siga el juicio contra
 
 La designación de tutor especial para que represente a un menor en un juicio determinado, siempre que las funciones del tutor se circunscriban al de que se trata, se hará por el juez del conocimiento.
 
-### CAPITULO DUODECIMO.
+### CAPITULO UNDECIMO.
 
-Emancipación, habilitación de edad y autorizaciones.
+Enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos.
 
 ###### Art. 629.
 
@@ -5919,9 +5943,9 @@ En igual forma se procederá para llevar a cabo transacciones sobre bienes o der
 
 Las reglas de este Capítulo serán aplicables en lo conducente para el gravamen, enajenación, transacción, arrendamiento por más de cinco años, de bienes pertenecientes a ausentes.
 
-### CAPITULO PRIMERO.
+### CAPITULO DUODECIMO.
 
-De los interdictos.
+Emancipación, habilitación de edad y autorizaciones.
 
 ###### Art. 636.
 
@@ -6001,9 +6025,9 @@ El Ministerio Público velará por los intereses del ausente; será oído en tod
 
 Juicio sobre posesión y propiedad.
 
-### CAPITULO SEGUNDO.
+### CAPITULO PRIMERO.
 
-Juicio sobre posesión definitiva.
+De los interdictos.
 
 ###### Art. 647.
 
@@ -6075,9 +6099,9 @@ Para los efectos legales se considerará violencia cualquier acto por el cual un
 
 Si la parte a quien el juez conminare para no ejecutar algún acto perjudicial o para conservar alguna situación de hecho no acata la orden, se aplicará la multa o arresto con que fué conminado, y además, el juez hará que las cosas vuelvan al estado anterior a costa del infractor, sin que para ello se necesite la promoción de nuevo interdicto.
 
-### CAPITULO TERCERO.
+### CAPITULO SEGUNDO.
 
-Juicios declarativos de propiedad y reivindicatorios.
+Juicio sobre posesión definitiva.
 
 ###### Art. 653.
 
@@ -6153,9 +6177,9 @@ Para que se suspenda la tramitación de la inscripción, así como para que se h
 
 La oposición se tramitará en la vía ordinaria y si el poseedor deja transcurrir seis meses sin promover en el juicio, quedará sin efecto su oposición, haciéndose en su caso la cancelación que proceda.
 
-### CAPITULO CUARTO.
+### CAPITULO TERCERO.
 
-Juicio sobre servidumbres.
+Juicios declarativos de propiedad y reivindicatorios.
 
 ###### Art. 663.
 
@@ -6263,9 +6287,9 @@ Los juicios sobre reivindicación se ventilarán en la vía ordinaria, teniendo 
 
 Por virtud de la sentencia que se dicte en los juicios reivindicatorios, se pierde la propiedad y la posesión del que resulte vencido, en favor del vencedor.
 
-### CAPITULO QUINTO.
+### CAPITULO CUARTO.
 
-División de la cosa común.
+Juicio sobre servidumbres.
 
 ###### Art. 673.
 
@@ -6319,9 +6343,9 @@ Si la sentencia fuera condenatoria, el actor puede exigir del reo que afiance el
 
 Las perturbaciones o despojos mediante violencia o que impliquen un daño grave e inmediato, pueden corregirse mediante interdicto, a reserva de que la decisión definitiva de los derechos de servidumbre se trámite posteriormente de acuerdo con las reglas de los artículos anteriores de este Capítulo.
 
-### CAPITULO SEXTO.
+### CAPITULO QUINTO.
 
-Apeo y deslinde.
+División de la cosa común.
 
 ###### Art. 683.
 
@@ -6341,9 +6365,9 @@ La partición de la cosa común se llevará a cabo cuando tenga que hacerse judi
 
 Siempre que fuere necesario proceder a la venta de bienes muebles o inmuebles, por no admitir éstos cómoda división, se llevará a cabo en la forma que determinen las partes, si hubiere acuerdo. En caso contrario, la venta se llevará a cabo con sujeción a las reglas de la ejecución forzosa.
 
-### CAPITULO PRIMERO.
+### CAPITULO SEXTO.
 
-Disposiciones generales.
+Apeo y deslinde.
 
 ###### Art. 687.
 
@@ -6407,9 +6431,9 @@ Los gastos generales del apeo y deslinde se harán por el que lo promueva. Los q
 
 Providencias cautelares.
 
-### CAPITULO SEGUNDO.
+### CAPITULO PRIMERO.
 
-Aseguramiento de la ejecución forzosa de sentencia definitiva.
+Disposiciones generales.
 
 ###### Art. 693.
 
@@ -6463,9 +6487,9 @@ En la ejecución de la precautoria no se admitirán recursos ni excepciones.
 
 Será competente para decretar las providencias cautelares el juez que lo sea para conocer de la demanda principal. En casos de urgencia también podrá decretarlas el juez del lugar en que deban efectuarse. En este último caso, una vez ejecutada y resuelta la reclamación, si se hubiere formulado, se remitirán las actuaciones al juez competente y los plazos para la presentación de la demanda se aumentarán en el número de días que corresponda por razón de la distancia.
 
-### CAPITULO TERCERO.
+### CAPITULO SEGUNDO.
 
-Providencias que anticipen interinamente la ejecución de la decisión definitiva.
+Aseguramiento de la ejecución forzosa de sentencia definitiva.
 
 #### SECCION PRIMERA.
 
@@ -6549,9 +6573,9 @@ IV.- Cuando se cumpla o ejecute la sentencia definitiva, y
 
 V.- Si se pidiere como acto perjudicial, y no se presenta la demanda dentro del término fijado por el juez.
 
-### CAPITULO CUARTO.
+### CAPITULO TERCERO.
 
-Providencias para la conservación o aseguramiento de pruebas.
+Providencias que anticipen interinamente la ejecución de la decisión definitiva.
 
 #### SECCION PRIMERA.
 
@@ -6627,9 +6651,9 @@ IV.- Si se prohibiere a alguna parte ejecutar un acto perjudicial o cambiar la s
 
 V.- La providencia cautelar quedará sujeta a la decisión final que se dicte en juicio sumario subsiguiente.
 
-### CAPITULO QUINTO.
+### CAPITULO CUARTO.
 
-Otras providencias urgentes.
+Providencias para la conservación o aseguramiento de pruebas.
 
 ###### Art. 718.
 
@@ -6655,9 +6679,9 @@ En casos de urgencia excepcional podrán recibirse las pruebas sin notificación
 
 La recepción de las pruebas preventivas no afecta la cuestión que atañe a su admisión y valor en el juicio posterior ni impide que las mismas se reiteren en el juicio sobre el fondo.
 
-### CAPITULO PRIMERO.
+### CAPITULO QUINTO.
 
-De los concursos.
+Otras providencias urgentes.
 
 ###### Art. 722.
 
@@ -6673,9 +6697,9 @@ En la providencia, el juez fijará un término perentorio dentro del cual el sol
 
 Procedimientos especiales para los concursos.
 
-### CAPITULO SEGUNDO.
+### CAPITULO PRIMERO.
 
-Disposiciones generales de los concursos.
+De los concursos.
 
 ###### Art. 724.
 
@@ -6683,9 +6707,9 @@ Las disposiciones de este título se aplican exclusivamente a los deudores no co
 
 En lo no previsto, se aplicarán supletoriamente las leyes mercantiles en materia de quiebras; pero sólo en lo que fuere indispensable para complementarlas y siempre que no se opongan directa o indirectamente a las disposiciones de este Título.
 
-### CAPITULO TERCERO.
+### CAPITULO SEGUNDO.
 
-Rectificación y graduación de créditos.
+Disposiciones generales de los concursos.
 
 ###### Art. 725.
 
@@ -6777,9 +6801,9 @@ II.- Presentar dentro de los cinco días de la notificación del auto que declar
 
 III.- Se abstendrá de seguir administrando sus bienes, así como de continuar cualquier otra administración que por ley le corresponda.
 
-### CAPITULO CUARTO.
+### CAPITULO TERCERO.
 
-De la administración del concurso.
+Rectificación y graduación de créditos.
 
 ###### Art. 735.
 
@@ -6841,9 +6865,9 @@ Si hubiere algún remanente, se entregará al concursado.
 
 Si hubiere varios acreedores hipotecarios garantizados con los mismos bienes, pueden formar un concurso especial entre ellos, y serán pagados por el orden de fechas en que se otorgaron las hipotecas, si éstas se registraron dentro del término legal, o según el orden en que se hayan registrado los gravámenes, si la inscripción se hizo fuera del término de ley. Cuando en el concurso sólo hubiere acreedores hipotecarios, se nombrará Síndico al acreedor hipotecario primero en tiempo, quien litigará en representación de los demás, observándose lo dispuesto en los artículos precedentes.
 
-### CAPITULO QUINTO.
+### CAPITULO CUARTO.
 
-Del deudor común.
+De la administración del concurso.
 
 ###### Art. 743.
 
@@ -6879,9 +6903,9 @@ El Síndico deberá presentar, dentro de los primeros diez días de cada mes, un
 
 El Síndico será removido de plano si dejare de rendir la cuenta mensual, o de caucionar su manejo. En los demás casos, la remoción se tramitará incidentalmente.
 
-### CAPITULO PRIMERO.
+### CAPITULO QUINTO.
 
-Disposiciones generales.
+Del deudor común.
 
 ###### Art. 750.
 
@@ -6911,9 +6935,9 @@ La demanda de rehabilitación se presentará ante el mismo juez que conoció del
 
 Procedimientos sucesorios.
 
-### CAPITULO SEGUNDO.
+### CAPITULO PRIMERO.
 
-De las testamentarías.
+Disposiciones generales.
 
 ###### Art. 752.
 
@@ -7099,9 +7123,9 @@ Las secciones tercera y cuarta podrán omitirse cuando el heredero sea único y 
 
 Una vez radicado el juicio sucesorio, sea testamentario o intestado, se publicarán edictos por dos veces, de diez en diez días, convocando a todos los que se consideren con derecho a la herencia y a los acreedores, para que se presenten en el juicio a deducirlos. Los edictos se publicarán en el periódico oficial y en uno de los de mayor circulación. Si el juicio no se radicó en el lugar del último domicilio del finado, también se publicarán en él los edictos. Si el valor del activo de la sucesión no excede de doscientas veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se ordene la citada convocatoria, no se hará publicación de edictos y sólo se fijarán éstos en la puerta del juzgado.
 
-### CAPITULO TERCERO.
+### CAPITULO SEGUNDO.
 
-De los intestados.
+De las testamentarías.
 
 ###### Art. 772.
 
@@ -7199,9 +7223,9 @@ Las cuestiones que no afecten la validez del testamento o la capacidad para here
 
 Una vez celebrada la audiencia a que se refiere el artículo anterior y dictadas las resoluciones que correspondan, los trámites de juicio testamentario serán los mismos que los establecidos por los artículos siguientes, respecto a las secciones de inventarios, administraciones y partición.
 
-### CAPITULO CUARTO.
+### CAPITULO TERCERO.
 
-Del inventario.
+De los intestados.
 
 ###### Art. 784.
 
@@ -7283,9 +7307,9 @@ La declaración de herederos de un intestado surte el efecto de tener por legít
 
 Cuando todos los interesados estén conformes o el heredero sea único, podrán renunciar a la junta y hacer por escrito la designación de albacea. El heredero único será siempre nombrado albacea.
 
-### CAPITULO QUINTO.
+### CAPITULO CUARTO.
 
-Avalúo.
+Del inventario.
 
 ###### Art. 793.
 
@@ -7359,9 +7383,9 @@ El representante del Fisco tendrá la intervención que le asignen las leyes fis
 
 Si pasado el término que señala el artículo 796 de este Código, o la prórroga en su caso, el albacea no concluye y presenta el inventario, se estará a lo dispuesto por los artículos 1837 y 1838 del Código Civil. La remoción a que se refiere el último precepto, será de plano.
 
-### CAPITULO SEXTO.
+### CAPITULO QUINTO.
 
-De la administración.
+Avalúo.
 
 ###### Art. 804.
 
@@ -7405,9 +7429,9 @@ El inventario y avaluó se harán simultáneamente, excepto cuando sea urgente p
 
 La oposición a los avalúos se tramitará de acuerdo con las reglas establecidas en el Capítulo anterior.
 
-### CAPITULO SEPTIMO.
+### CAPITULO SEXTO.
 
-De la liquidación y partición de la herencia.
+De la administración.
 
 ###### Art. 809.
 
@@ -7495,9 +7519,9 @@ VIII.- Si todos los interesados aprobaren la cuenta, o no la impugnaren, el juez
 
 IX.- El auto que apruebe o repruebe la cuenta será apelable en el efecto devolutivo.
 
-### CAPITULO OCTAVO.
+### CAPITULO SEPTIMO.
 
-De la transmisión hereditaria del patrimonio familiar.
+De la liquidación y partición de la herencia.
 
 ###### Art. 815.
 
@@ -7611,11 +7635,9 @@ Respecto a la partición y sus efectos, será aplicable lo dispuesto por los art
 
 La sentencia que apruebe o repruebe la partición es apelable en el efecto suspensivo, cuando el monto del caudal exceda de doscientas veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se emita la resolución de que se trate.
 
-### CAPITULO NOVENO.
+### CAPITULO OCTAVO.
 
-De la tramitación ante Notarios.
-
-> <small>(F. DE E., B.O. 6 DE OCTUBRE DE 1980)</small>
+De la transmisión hereditaria del patrimonio familiar.
 
 ###### Art. 827.
 
@@ -7641,9 +7663,11 @@ VII.- El acta o actas en que consten las adjudicaciones servirán de título a l
 
 VIII.- La transmisión de los bienes del patrimonio familiar estará exenta de impuestos, cualquiera que sea su naturaleza.
 
-### CAPITULO PRIMERO.
+### CAPITULO NOVENO.
 
-Disposiciones generales.
+De la tramitación ante Notarios.
+
+> <small>(F. DE E., B.O. 6 DE OCTUBRE DE 1980)</small>
 
 ###### Art. 829.
 
@@ -7699,9 +7723,9 @@ V.- En el instrumento a que se refiere la fracción anterior, los legatarios pod
 
 Jurisdicción voluntaria.
 
-### CAPITULO SEGUNDO.
+### CAPITULO PRIMERO.
 
-De las informaciones ad perpétuam.
+Disposiciones generales.
 
 ###### Art. 836.
 
@@ -7775,9 +7799,9 @@ Los gastos y costas de la jurisdicción voluntaria son a cargo del promovente. M
 
 En los negocios sobre cuestiones familiares, de propiedad y posesión, concursos y sucesiones en que no medie contención entre partes determinadas y que por su naturaleza participen de la jurisdicción voluntaria, se aplicarán las reglas de los capítulos respectivos, y en lo no previsto, se tramitarán conforme a las reglas de este Título.
 
-### CAPITULO TERCERO.
+### CAPITULO SEGUNDO.
 
-Jurisdicción voluntaria en otros negocios.
+De las informaciones ad perpétuam.
 
 ###### Art. 848.
 
@@ -7839,7 +7863,9 @@ La interposición de la oposición suspenderá el curso del expediente de inform
 
 Si el opositor deja transcurrir seis meses sin promover en el juicio de oposición, quedará ésta sin efecto, haciéndose, en su caso, la cancelación que proceda.
 
-### CAPITULO UNICO.
+### CAPITULO TERCERO.
+
+Jurisdicción voluntaria en otros negocios.
 
 ###### Art. 853.
 
@@ -7861,9 +7887,7 @@ Para tramitar los asuntos a que se refiere este Capítulo, se estará a lo que p
 
 Del juicio arbitral.
 
-### CAPITULO PRIMERO.
-
-Demanda y emplazamiento.
+### CAPITULO UNICO.
 
 ###### Art. 856.
 
@@ -8023,11 +8047,9 @@ Los jueces ordinarios están obligados a impartir el auxilio de su jurisdicción
 
 Del procedimiento en los negocios de la competencia de los Juzgados Locales y Menores.
 
-### CAPITULO SEGUNDO.
+### CAPITULO PRIMERO.
 
-Del juicio.
-
-> <small>(REFORMADO, B.O. 21 DE ENERO DE 1988)</small>
+Demanda y emplazamiento.
 
 ###### Art. 874.
 
@@ -8115,9 +8137,11 @@ No será necesaria la identificación, aunque se trate de personas desconocidas,
 
 El que se presente como actor o como reo, usando el nombre de otro para hacerse pasar por él, se considerará como falsario y quedará sujeto a las sanciones que determine el Código Penal.
 
-### CAPITULO TERCERO.
+### CAPITULO SEGUNDO.
 
-Ejecución de las sentencias.
+Del juicio.
+
+> <small>(REFORMADO, B.O. 21 DE ENERO DE 1988)</small>
 
 ###### Art. 882.
 
@@ -8187,9 +8211,9 @@ Las quejas en contra del secretario o testigo de asistencia notificador se hará
 
 Cuando la cuantía de la reconvención que se haga valer sea mayor que la competencia del juzgado por razón del interés, serán aplicables a este respecto las reglas del artículo 116.
 
-### CAPITULO CUARTO.
+### CAPITULO TERCERO.
 
-Incidentes.
+Ejecución de las sentencias.
 
 ###### Art. 892.
 
@@ -8257,9 +8281,9 @@ El tercero que considere perjudicados sus derechos al ejecutarse la sentencia, o
 
 Cuando el interés de la tercería exceda del que la ley someta a la jurisdicción de los jueces locales o menores, será aplicable lo que a este respecto disponen los artículos 67, fracción IV, 113 y 116.
 
-### CAPITULO QUINTO.
+### CAPITULO CUARTO.
 
-Reglas generales.
+Incidentes.
 
 ###### Art. 902.
 
@@ -8272,6 +8296,10 @@ La conexidad sólo procede cuando se trate de juicios que se sigan ante el mismo
 ###### Art. 904.
 
 Las promociones de nulidad de actuaciones por falta o defecto de citación o notificación, o por otros defectos u omisiones procesales, serán resueltas de plano por el Juez, sin formar artículo ni suspender el procedimiento.
+
+### CAPITULO QUINTO.
+
+Reglas generales.
 
 ###### Art. 905.
 
@@ -8494,3 +8522,9 @@ B.O. 13 DE DICIEMBRE DE 2001.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 SEGUNDO.- Las adopciones realizadas con anterioridad a la entrada en vigor del presente decreto, podrán convertirse en adopciones plenas mediante sentencia judicial conforme al procedimiento señalado en las disposiciones materia del presente decreto.
+
+B.O. 29 DE ABRIL DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
