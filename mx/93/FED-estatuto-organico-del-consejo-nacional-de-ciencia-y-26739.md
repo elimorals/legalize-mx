@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-ciencia-y-26739"
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-12-09"
-last_updated: "2003-05-09"
+last_updated: "2004-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26739&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-09-12"
 
 ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE MARZO DE 2004.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 9 de diciembre de 2002.
 
@@ -197,9 +197,11 @@ XXI. Fondos de Investigación, a los Fondos de Investigación Científica y Desa
 
 ### CAPITULO SEGUNDO. Estructura Orgánica
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE MARZO DE 2004)</small>
+
 ###### Artículo 6.
 
-El desarrollo de las funciones a cargo del CONACYT para el cumplimiento de su objeto, se llevarán a cabo mediante la estructura orgánica siguiente:
+El desarrollo de las funciones a cargo del CONACYT, para el cumplimiento de su objeto, se llevará a cabo mediante la estructura orgánica siguiente:
 
 I. Junta de Gobierno;
 
@@ -207,7 +209,9 @@ II. Director General;
 
 III. Direcciones Adjuntas:
 
-a) de Planeación
+> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2004)</small>
+
+a) de Información, Sistemas y Normatividad
 
 b) de Ciencia
 
@@ -799,9 +803,11 @@ XXXIII. Las demás que les confieran las disposiciones legales vigentes, el Dire
 
 Dirección Adjunta de Planeación
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE MARZO DE 2004)</small>
+
 ###### Artículo 20.
 
-A la Dirección Adjunta de Planeación corresponde:
+A la Dirección Adjunta de Información, Sistemas y Normatividad corresponde:
 
 I. Coordinar la formulación e integración del Programa Especial de Ciencia y Tecnología, cuidando su congruencia sustantiva y financiera con la Secretaría de Hacienda y Crédito Público, de acuerdo con lo dispuesto por la Ley de Ciencia y Tecnología y demás leyes aplicables, y proponer a la Dirección General su presentación al Consejo General de Investigación Científica y Desarrollo Tecnológico;
 
@@ -1723,7 +1729,7 @@ g) Instituto Nacional de Estadística, Geografía e Informática (INEGI);
 
 h) Instituto Politécnico Nacional (IPN);
 
-i) Secretaría de Economía (SECONOMIA)
+i) Secretaría de Economía (SECONOMIA);
 
 j) Secretaría de Comunicaciones y Transportes (SCT);
 
@@ -1767,7 +1773,7 @@ VI. Realizar las demás que sean afines con las anteriores y que le confiera el 
 
 El Consejo Técnico Asesor del SIICYT está formado por:
 
-a) Dos funcionarios del CONACYT, representantes de la Dirección Adjunta de Administración y Finanzas y de la de la Dirección Adjunta de Planeación, quien lo presidirá y designará al Secretario Técnico.
+a) Dos funcionarios del CONACYT, representantes de la Dirección Adjunta de Administración y Finanzas y de la de la Dirección Adjunta de Planeación, quien lo presidirá y designará al Secretario Técnico;
 
 b) Un representante del Foro;
 
@@ -1924,3 +1930,9 @@ El presente Estatuto Orgánico del Consejo Nacional de Ciencia y Tecnología, se
 D.O.F. 9 DE MAYO DE 2003.
 
 > <small>N. DE E. EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA ENTRADA EN VIGOR DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL.</small>
+
+D.O.F. 2 DE MARZO DE 2004.
+
+Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En todos los demás artículos del Estatuto Orgánico del Consejo Nacional de Ciencia y Tecnología, así como en las demás disposiciones administrativas en las que se haga mención de la Dirección Adjunta de Planeación, se entenderán referidas a la Dirección Adjunta de Información, Sistemas y Normatividad.
