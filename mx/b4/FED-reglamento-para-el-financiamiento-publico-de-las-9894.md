@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-financiamiento-publico-de-las-9894"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-02-24"
-last_updated: "2000-01-07"
+last_updated: "2000-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9894&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1997-02-21"
 
 REGLAMENTO PARA EL FINANCIAMIENTO PUBLICO A LAS AGRUPACIONES POLITICAS NACIONALES POR SUS ACTIVIDADES EDITORIALES, DE EDUCACION Y CAPACITACION POLITICA Y DE INVESTIGACION SOCIOECONOMICA Y POLITICA.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 2000.
-
-> <small>N. DE E. SE REFORMA EN FORMA INTEGRA EL PRESENTE REGLAMENTO, POR ACUERDO No. CG180/99 DEL CONSEJO GENERAL DEL I.F.E., PUBLICADO EN EL D.O.F. DEL 7 DE ENERO DE 2000.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE MARZO DE 2000.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de febrero de 1997.
 
@@ -279,197 +277,215 @@ TERCERO.- EL REGLAMENTO MATERIA DE ESTE ACUERDO ENTRARA EN VIGOR AL DIA SIGUIENT
 
 EL PRESENTE ACUERDO FUE APROBADO POR EL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, EN SESION EXTRAORDINARIA, CELEBRADA EL 21 DE FEBRERO DE 1997.- EL CONSEJERO PRESIDENTE DEL CONSEJO GENERAL, JOSE WOLDENBERG KARAKOWSKY.- RUBRICA.- EL SECRETARIO DEL CONSEJO GENERAL, FELIPE SOLIS ACERO.- RUBRICA.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2000)</small>
 
-H. FORMATO "IA-APN" - INFORME ANUAL
+FUC-APN'S
 
-INFORME ANUAL SOBRE EL ORIGEN Y DESTINO DE LOS RECURSOS
+CONTROL DE EVENTOS
 
-DE LA AGRUPACION POLITICA NACIONAL ____________
+(1) EVENTO
 
-CORRESPONDIENTE AL EJERCICIO DE ______________ (1)
+LOGOTIPO DE LA AGRUPACION No. ________ (2)
 
-I. INGRESOS
+FECHA _____(3)
 
-MONTO ($)
+(4) FORMATO UNICO PARA LA
 
-1 Saldo Inicial ___________ (2)
+COMPROBACION DE GASTOS DE
 
-2. Financiamiento Público ___________ (3)
+AGRUPACIONES POLITICAS NACIONALES
 
-3. Financiamiento por los asociados y
+(5) NOMBRE DEL EVENTO _______________________________________
 
-simpatizantes ___________ (4)
+I. ACTIVIDAD REALIZADA
 
-Efectivo ______________
+(6) EDUCACION Y CAPACITACION POLITICA
 
-Especie ______________
+(7) INVESTIGACION SOCIOECONOMICA Y POLITICA
 
-4. Autofinanciamiento* ___________ (5)
+(8) ACTIVIDADES EDITORIALES
 
-5. Financiamiento por rendimientos
+II. GASTOS DIRECTOS
 
-financieros, fondos y fideicomisos* ___________ (6)
+a) GASTOS DIRECTOS DE ACTIVIDADES DE EDUCACION Y CAPACITACION POLITICA
 
-TOTAL ___________ (7)
+(9) (10) (11) (12) (13) (14)
 
-* Anexar en el formato correspondiente, la información detallada por estos conceptos.
+IDENTIFICACION POLIZA Y PROVEEDOR No. FACT. IMPORTE CONCEPTO
 
-II. EGRESOS
+CONTABLE FECHA (DESCRIBIR
 
-MONTO ($)
+PORMENO-
 
-A) GASTOS EN ACTIVIDADES
+RIZADAMENTE)
 
-ORDINARIAS PERMANENTES** ___________ (8)
+b) GASTOS DIRECTOS DE ACTIVIDADES DE INVESTIGACION SOCIOECONOMICA
 
-B) GASTOS POR ACTIVIDADES
+(9) (10) (11) (12) (13) (14)
 
-ESPECIFICAS ** ___________ (9)
+IDENTIFICACION POLIZA Y PROVEEDOR No. FACT. IMPORTE CONCEPTO
 
-EDUCACION Y CAPACITACION
+CONTABLE FECHA (DESCRIBIR
 
-POLITICA ___________
+PORMENO-
 
-INVESTIGACION
+RIZADAMENTE)
 
-SOCIOECONOMICA Y
+c) GASTOS DIRECTOS DE ACTIVIDADES EDITORIALES
 
-POLITICA ___________
+(9) (10) (11) (12) (13) (14)
 
-TAREAS EDITORIALES ___________
+IDENTIFICACION POLIZA Y PROVEEDOR No. FACT. IMPORTE CONCEPTO
 
-C) APORTACIONES A CAMPAÑAS
+CONTABLE FECHA (DESCRIBIR
 
-POLITICAS ___________ (10)
+PORMENO-
 
-TOTAL ___________ (11)
+RIZADAMENTE)
 
-** Anexar detalle de estos egresos.
+III. GASTOS INDIRECTOS
 
-III. RESUMEN
+a) ACTIVIDADES DE EDUCACION Y CAPACITACION POLITICA
 
-INGRESOS $ __________ (12)
+b) ACTIVIDADES DE INVESTIGACION SOCIOECONOMICA Y POLITICA
 
-EGRESOS $ __________ (13)
+c) ACTIVIDADES EDITORIALES
 
-SALDO $ __________ (14)
+(15) (16) (17) (18) (19) (20)
 
-***Anexar detalle de la integración del saldo final.
+IDENTIFICACION POLIZA Y PROVEEDOR No. FACT. IMPORTE CONCEPTO
 
-IV. RESPONSABLE DE LA INFORMACION
+CONTABLE FECHA (DESCRIBIR
 
-NOMBRE DEL TITULAR DEL ORGANO RESPONSABLE DEL FINANCIAMIENTO
+PORMENO-
 
-________________________________________________________ (15)
+RIZADAMENTE)
 
-FIRMA ______________ (16) FECHA _________________ (17)
+(21) MUESTRA O PRODUCTO OBTENIDO _________________________________
 
-INSTRUCTIVO DEL FORMATO "IA-APN"
+___________________________________________________________________
 
-(1) EJERCICIO Año de ejercicio que se reporta en el informe.
+(22) TIEMPO UTILIZADO (PERIODO) ______________________________________
 
-APARTADO I. INGRESOS
+___________________________________________________________________
 
-(2) SALDO INICIAL Anotar el monto total de los recursos con
+(23) No. DE PERSONAS CAPACITADAS __________________________________
 
-que se inicia el año que comprende el informe.
+(24) LISTA DE ASISTENCIA SI __ NO __
 
-(3) FINANCIAMIENTO PUBLICO Anotar los fondos recibidos por Financiamiento
+(25) LUGAR DE CELEBRACION DEL EVENTO ______________________________
 
-Público durante el año que comprende el informe.
+IV. TAREAS EDITORIALES
 
-(4) FINANCIAMIENTO POR LOS Monto total de los ingresos obtenidos por concepto
+(26) NOTA DE ENTRADA AL ALMACEN (27) NUMERO DE NOTA ____ (28) FECHA _____
 
-ASOCIADOS Y SIMPATIZANTES de aportaciones en dinero y en especie recibidas
+SI __ NO __
 
-por el partido político, de parte de sus asociados y
+V. RESUMEN
 
-simpatizantes, separando efectivo y especie.
+(29) TOTAL GASTOS DIRECTOS $ _________
 
-(5) AUTOFINANCIAMIENTO Monto total de los ingresos obtenidos por la
+(30) TOTAL GASTOS INDIRECTOS $ _________
 
-agrupación política derivado de sus actividades
+(31) TOTAL GASTOS EVENTO $ _________
 
-promocionales: conferencias, espectáculos,
+VI. RESPONSABLE DE LA INFORMACION
 
-juegos, sorteos, eventos culturales, ventas
+___________________________________________________
 
-editoriales, venta de bienes y de propaganda
+(32) NOMBRE (TITULAR DEL ORGANO RESPONSABLE)
 
-utilitaria.
+____________________ __________________
 
-(6) FINANCIAMIENTO POR Monto total de los ingresos obtenidos por los
+(33) FIRMA (34) FECHA
 
-RENDIMIENTOS rendimientos de los fondos o fideicomisos creados
+INSTRUCTIVO DE LLENADO
 
-FINANCIEROS, FONDOS Y con su patrimonio o con las aportaciones que
+"CONTROL DE EVENTOS"
 
-FIDEICOMISOS reciban, así como los derivados de otras
+ANEXO DEL FORMATO TRIM-ART 35/7o.
 
-operaciones con instituciones financieras.
+(1) Logotipo de la Agrupación Política Nacional.
 
-(7) TOTAL Suma total de los ingresos obtenidos por la
+(2) Número consecutivo del evento.
 
-agrupación política en el periodo que se informa.
+(3) Fecha en la que se llevó a cabo el evento.
 
-APARTADO II. EGRESOS
+(4) Nombre de la agrupación política que corresponda.
 
-(8) GASTOS EN ACTIVIDADES Montos totales de los egresos efectuados por la
+(5) Nombre del evento realizado.
 
-ORDINARIAS PERMANENTES agrupación política por cada uno de los conceptos
+I. Se deberá marcar con una "X" el tipo de actividad realizada en el evento.
 
-involucrados en su operación ordinaria.
+(6) Marcar "X" si la actividad realizada en el evento se relacionó con el rubro de educación y capacitación política.
 
-(9) GASTOS EFECTUADOS EN El total de gastos que por concepto de actividades
+(7) Marcar "X" si la actividad realizada en el evento se relacionó con el rubro de investigación socioeconómica y política.
 
-ACTIVIDADES ESPECIFICAS especificas hayan erogado en el año de que se trate
+(8) Marcar "X" si la actividad realizada en el evento se relacionó con el rubro de actividades editoriales.
 
-y su desagregación de acuerdo con los tres rubros
+II. Detallar los gastos directos con requisitos fiscales.
 
-señalados en la ley.
+(9) Identificación contable: Número de cuenta (500 al 502), subcuenta (01 en adelante) o subsubcuenta (01 en adelante) que corresponda al gasto efectuado.
 
-(10) APORTACIONES A Monto total de los recursos asignados por la
+(10) Póliza y Fecha: La fecha en que se erogó el gasto, y la póliza contable.
 
-CAMPAÑAS ELECTORALES agrupación política para la realización de las
+(11) Proveedor: Nombre del proveedor con el que se realizó la operación de compra-venta sin importar el monto de la misma.
 
-campañas electorales del partido político con el
+(12) No. factura: El número de la factura.
 
-que hayan firmado acuerdo.
+(13) Importe: Monto total del gasto realizado.
 
-(11) TOTAL La suma de los montos anteriores.
+(14) Concepto: Concepto del gasto erogado, incluyendo una descripción lo más amplia posible.
 
-APARTADO III. RESUMEN
+III. Detallar los gastos indirectos con requisitos fiscales (vinculados con la actividad).
 
-(12) INGRESOS Suma total de los ingresos obtenidos por la
+(15) Identificación contable: Número de cuenta (500 al 502), subcuenta (01 en adelante) o subsubcuenta (01 en adelante) que corresponda al gasto efectuado.
 
-agrupación política durante el periodo que se
+(16) Fecha: La fecha en que se erogó el gasto.
 
-informa.
+(17) Proveedor: Nombre del proveedor con el que se realizó la operación de compra-venta sin importar el monto de la misma.
 
-(13) EGRESOS Suma total de los egresos efectuados por la
+(18) No. factura: El número de la factura.
 
-agrupación política durante el periodo que se
+(19) Importe: Monto total del gasto realizado.
 
-informa.
+(20) Concepto: Concepto del gasto erogado incluyendo una descripción lo más amplia posible.
 
-(14) SALDO El balance de los rubros anteriores o el neto
+(21) Muestra o producto obtenido: Describir pormenorizadamente el resultado obtenido así como proporcionar una muestra de la actividad realizada.
 
-incluyendo los pasivos, los que se relacionarán por
+(22) Tiempo utilizado (periodo): Periodo que comprendió el evento realizado.
 
-separado.
+(23) No. de personas capacitadas: Hacer mención del número de personas capacitadas.
 
-APARTADO IV. RESPONSABLE DE LA INFORMACION
+(24) Lista de asistencia: Marcar si existió o no una lista de las personas que asistieron al evento (enviar la lista).
 
-(15) NOMBRE Nombre del titular del órgano responsable del
+(25) Lugar de celebración del evento: Lugar donde se efectuó el evento.
 
-financiamiento en la agrupación política.
+IV. Apartado Tareas Editoriales.
 
-(16) FIRMA Firma del titular del órgano responsable del
+(26) Nota de entrada al almacén: Mencionar la utilización de kardex.
 
-financiamiento en la agrupación política.
+(27) Número de nota: Anotar el número consecutivo de la nota de entrada al almacén.
 
-(17) FECHA Fecha (día, mes y año) de presentación del informe.
+(28) Fecha: Correspondiente a su ingreso al almacén.
+
+V. Resumen
+
+(29) Total de gastos directos: Monto de los gastos directos.
+
+(30) Total de gastos indirectos: Monto total de los gastos indirectos.
+
+(31) Total gastos del evento: Monto total de los gastos del evento.
+
+Apartado VI. Responsable de la información
+
+(32) Nombre: Nombre del titular responsable de la administración del patrimonio, recursos financieros y de la presentación de los informes de la agrupación política nacional.
+
+(33) Firma: Firma del titular de dicho órgano.
+
+(34) Fecha: Fecha (día, mes y año) en que se requisitó este formato.
+
+Nota. En caso de que los espacios para el detalle de la información sea insuficiente, podrán llenarse las hojas que sean necesarias.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
@@ -485,18 +501,20 @@ CUARTO.- PUBLIQUESE EL PRESENTE ACUERDO EN EL DIARIO OFICIAL DE LA FEDERACION.
 
 D.O.F. 28 DE DICIEMBRE DE 1998.
 
-> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTICULOS DEL ACUERDO.</small>
-
 PRIMERO. LAS REFORMAS Y ADICIONES OBJETO DEL PRESENTE ACUERDO ENTRARAN EN VIGOR A PARTIR DEL 1 DE ENERO DE 1999.
 
 SEGUNDO. EL FINANCIAMIENTO PUBLICO QUE SE ASIGNE A LAS AGRUPACIONES POLITICAS NACIONALES CORRESPONDIENTE A 1999 SE DIVIDIRA EN DOCE MENSUALIDADES. LA PRIMERA MINISTRACION EQUIVALENTE A SIETE MENSUALIDADES SE ENTREGARA UNA VEZ QUE EL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL DETERMINE EL FONDO DE FINANCIAMIENTO PARA LAS AGRUPACIONES POLITICAS NACIONALES PARA 1999, EQUIVALENTE AL 2% DEL MONTO QUE ANUALMENTE RECIBAN LOS PARTIDOS PARA EL FINANCIAMIENTO DE SUS ACTIVIDADES ORDINARIAS PERMANENTES, LA SEGUNDA MINISTRACION SE ENTREGARA EN EL MES DE AGOSTO Y SERA EQUIVALENTE A CINCO MENSUALIDADES. EN AMBOS CASOS, EL MONTO SEÑALADO SE DISTRIBUIRA DE MANERA IGUALITARIA ENTRE LAS AGRUPACIONES POLITICAS NACIONALES QUE EN EL MOMENTO DE LAS MINISTRACIONES CUENTEN CON REGISTRO.
 
 TERCERO. SE ORDENA LA PUBLICACION DEL PRESENTE ACUERDO EN EL DIARIO OFICIAL DE LA FEDERACION.
 
-D.O.F. 7 DE ENERO DEL 2000.
+D.O.F. 7 DE ENERO DE 2000.
 
 > <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTICULOS DEL ACUERDO.</small>
 
 SEGUNDO.- LAS MODIFICACIONES AL REGLAMENTO PARA EL FINANCIAMIENTO PUBLICO DE LAS AGRUPACIONES POLITICAS NACIONALES PARA SUS ACTIVIDADES EDITORIALES, DE EDUCACION Y CAPACITACION POLITICA Y DE INVESTIGACION SOCIOECONOMICA Y POLITICA ENTRARAN EN VIGOR EL PRIMERO DE ENERO DEL AÑO DOS MIL, EN TANTO NO SE CONTRAVENGA LO DISPUESTO EN EL ARTICULO 14 DE LA CONSTITUCION POLITICA DE LOS ESTADOS MEXICANOS.
 
 TERCERO.- PUBLIQUESE EN EL DIARIO OFICIAL DE LA FEDERACION.
+
+D.O.F. 2 DE MARZO DE 2000.
+
+EL ANEXO DE REFORMAS CON ANTELACION CITADO NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL.
