@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2003-02-22"
+last_updated: "2003-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2003.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -275,11 +275,11 @@ V.- Formular preguntas por escrito al Secretario de Gobierno, Procurador General
 
 VI.- Representar al Congreso en los foros, audiencias públicas y reuniones nacionales o internacionales para los que sean designados por el Pleno, el Presidente del Congreso o de la Diputación Permanente en su caso.
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2003)</small>
 
 ###### Art. 22.
 
-Son deberes de los diputados, además de los otorgados por la Constitución Política del Estado y otros ordenamientos legales aplicables, los siguientes:
+Son deberes de los Diputados, además de los otorgados en la Constitución Política del Estado y otros ordenamientos legales aplicables, los siguientes:
 
 I.- Rendir la protesta al tomar posesión de su cargo y asistir a las sesiones del Congreso;
 
@@ -295,7 +295,11 @@ VI.- Informar al Congreso, cuando se les requiera, acerca del cumplimiento de su
 
 VII.- Acatar las disposiciones del Pleno y de la Mesa Directiva del Congreso, y
 
-VIII.- Presentar su declaración de situación patrimonial en los términos de la presente ley y demás disposiciones previstas en otros ordenamientos.
+VIII.- Presentar su declaración de situación patrimonial en los términos de la presente ley y demás disposiciones previstas en otros ordenamientos;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2003)</small>
+
+IX.- Una vez recibida la constancia que los acredite como tales, por parte del Instituto Estatal Electoral, asistir a los cursos de capacitación y formación parlamentaria que instrumente el H. Congreso del Estado.
 
 ### CAPITULO III. DE LA SUSPENSION Y PERDIDA DEL CARACTER DE DIPUTADO
 
@@ -447,7 +451,7 @@ El Presidente de la Mesa Directiva podrá ser removido por el Pleno cuando de ma
 
 ### CAPITULO III. DE LOS SECRETARIOS
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2003)</small>
 
 ###### Art. 33.
 
@@ -465,7 +469,9 @@ V.- Leer los documentos listados en el orden del día y los que ordene el Presid
 
 VI.- Dar trámite a los acuerdos del Presidente;
 
-VII.- Recoger y computar las votaciones y comunicar al Presidente sus resultados;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2003)</small>
+
+VII.- Recoger y computar las votaciones y comunicar al Presidente sus resultados, así como levantar un registro de oradores a la presentación de Iniciativas y de Asuntos Generales;
 
 VIII.- Expedir y certificar las copias de documentos oficiales del Congreso;
 
@@ -1171,15 +1177,17 @@ El Presidente del Congreso abrirá y cerrará las sesiones, respectivamente, con
 
 ### CAPITULO II. DEL ORDEN DEL DIA
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2003)</small>
 
 ###### Art. 96.
 
-El orden del día de las sesiones ordinarias contendrá, por regla general, los asuntos que a continuación se indican:
+El orden del día de las sesiones contendrá, por regla general, los asuntos que a continuación se indican:
 
 I.- Lista de presentes y, en su caso, declaración de quórum;
 
-II.- Lectura y aprobación en su caso del acta de la sesión anterior;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2003)</small>
+
+II.- Lectura y aprobación en su caso del acta de la sesión anterior. En caso de discrepancia con el contenido del acta, se aclarará con el Secretario y de subsistir aquélla, podrán hacer uso de la palabra dos diputados en pro y dos en contra, después de lo cual se someterá a decisión del pleno;
 
 III.- Comunicaciones de los Poderes de la Unión, de los poderes Ejecutivo y Judicial del Estado, de los ayuntamientos del mismo, así como de las legislaturas de los estados;
 
@@ -1852,5 +1860,23 @@ P.O. 15 DE FEBRERO DE 2003.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 22 DE FEBRERO DE 2003.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE MARZO DE 2003.
+
+DECRETO No. 585/03 VI P.E.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE MARZO DE 2003.
+
+DECRETO No. 586/03 VI P.E.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE MARZO DE 2003.
+
+DECRETO No. 587/03 VI P.E.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
