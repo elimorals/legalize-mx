@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1983-04-20"
+last_updated: "1983-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1983.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -295,33 +295,47 @@ Para los efectos de este Impuesto se tomarán en cuenta las definiciones que sob
 
 ### CAPITULO II. Impuesto Sobre Adquisición de Inmuebles y Transmisión de Dominio
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 28.
 
-Están obligados al pago de este impuesto las personas físicas, morales o unidades económicas que adquieren o enajenen inmuebles que consistan en el suelo y en las construcciones adheridas a él, ubicados en el Territorio del Estado, así como los derechos reales o posesorios sobre los mismos, independientemente del nombre que le asigne la Ley que regule el acto que les de origen.
+Están obligados al pago de este Impuesto las personas físicas o morales que adquieran o enajenen inmuebles que consistan en el suelo o en el suelo y las construcciones adheridas a él, ubicados en el Territorio del Estado, así como los derechos reales o posesorios sobre los mismos, independientemente del nombre que le asigne la Ley que regule el acto que les dé origen.
 
-Para efectos de este artículo el objeto principal de este impuesto es la adquisición de inmuebles y los derechos sobre los mismos y secundariamente se gravará la Transmisión de Dominio y los derechos sobre inmuebles, cuando por acuerdo expreso o tácito de las partes el enajenante asuma la responsabilidad de pagarlo y cuando por determinación de la Ley o por resolución de las autoridades del trabajo, judiciales o administrativas éste se vea obligado al pago.
+El objeto de este Impuesto es la adquisición de inmuebles y los derechos sobre los mismos. Cuando por acuerdo expreso o tácito de las partes, por determinación de la Ley o por resolución de las Autoridades del Trabajo, Judiciales o Administrativas, el enajenante se vea obligado al pago, el objeto de este Impuesto será la transmisión de dominio.
 
-En ningún caso se gravará dos veces una misma operación con el impuesto a que se refiere el presente capítulo, por lo que si se paga por la adquisición no se gravará la transmisión o a la inversa, a excepción del contrato de permuta, en virtud de que mediante el se realizan dos adquisiciones.
+En ningún caso se gravará dos veces una misma operación con el Impuesto a que se refiere el presente Capítulo, por lo que si se paga por la adquisición no se gravará la transmisión o a la inversa, a excepción del contrato de permuta, en virtud de que mediante él se realizan dos adquisiciones.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 29.
 
-No causan este impuesto:
+No causan este Impuesto:
 
-I.- La adquisición o enajenación que efectúen las instituciones de asistencia y beneficencia pública y privadas, que operen bajo la protección de la Ley de la materia.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1983)</small>
 
-II.- Las adquisiciones o enajenaciones que realicen las instituciones públicas de enseñanza y de establecimientos propiedad de los particulares que cuenten con autorización o reconocimiento oficial de estudios en los términos de la Ley Federal de Educación, por los bienes que sean destinados exclusivamente para sus fines educativos.
+I.- Las adquisiciones que efectúen las Instituciones de Asistencia y Beneficencia Pública y Privadas, autorizadas por la Ley de la materia.
 
-III.- Las adquisiciones que se realicen para constituir o al liquidar la sociedad conyugal, así como el acto mediante el cual se cambian las capitulaciones matrimoniales. No queda incluida en esta fracción, la trasmisión hereditaria de la parte correspondiente a cada cónyuge en la sociedad conyugal.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1983)</small>
 
-IV.- Las adquisiciones o enajenaciones efectuadas por la Federación los Estados, incluyendo al Distrito Federal y los Municipios, así como los organismos descentralizados de los mismos, estos últimos únicamente estarán exentos sobre los inmuebles destinados a promover la vivienda de interés social.
+II.- Las adquisiciones que realicen las Instituciones Públicas de Enseñanza y de establecimientos propiedad de los particulares que cuenten con autorización o reconocimiento oficial de estudios en los términos de las Leyes Federal y Estatal de Educación, por los bienes destinados exclusivamente para fines educativos.
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1983)</small>
+
+III.- Las adquisiciones que se realicen al constituir o al liquidar la sociedad conyugal, así como en el acto mediante el cual se cambien las capitulaciones matrimoniales. No queda incluida en esta Fracción, la transmisión hereditaria de la parte correspondiente a cada cónyuge en la sociedad conyugal.
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1983)</small>
+
+IV.- Las adquisiciones efectuadas por la Federación, los Estados incluyendo el Distrito Federal y los Municipios, así como los Organismos Descentralizados de los mismos, éstos últimos únicamente estarán exentos sobre los inmuebles destinados a promover la vivienda de interés social.
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
 
 V.- Las adquisiciones realizadas por las asociaciones y partidos políticos, para el uso exclusivo de sus fines. No quedan incluidas en esta fracción las enajenaciones en caso de disolución definitiva de dichas sociedades, aún cuando los adquirentes sean miembros de las mismas, excepto cuando el que adquiera haya aportado el inmueble a la asociación en liquidación.
 
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
+
 VI.- Las Naciones Extranjeras en caso de reciprocidad.
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
 
 VII.- Las adquisiciones realizadas en los términos de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 
@@ -371,39 +385,59 @@ La falta de formas oficiales no exime al contribuyente de la obligación de ente
 
 Los contribuyentes que estén obligados al pago de este impuesto no podrán ser sujetos de impuestos adicionales estatales, ni municipales, por lo que respecta al pago de dicho impuesto.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 34.
 
-Esta ley reconoce como fuentes que originan la adquisición de inmuebles o transmisión de dominio así como derechos sobre los mismos, los siguientes actos:
+Esta Ley reconoce como fuentes que originan la adquisición de inmuebles o transmisión de dominio, así como derechos sobre los mismos los siguientes actos:
 
-I.- Todo acto por el que se transmita la propiedad incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1983)</small>
+
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de sociedades y asociaciones.
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
 
 II.- La compraventa en la que el vendedor se reserve la propiedad aún cuando la transferencia de ésta opere con posterioridad.
 
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
+
 III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido.
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
 
 IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden, respectivamente.
 
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
+
 V.- Fusión de Sociedades.
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
 
 VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
 
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
+
 VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal.
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
 
 VIII.- Prescripción positiva.
 
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
+
 IX.- La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción a éstos.
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
 
 X.- Enajenación a través de fideicomisos, en los términos del Código Fiscal de la Federación.
 
-XI.- Cualesquiera otro de naturaleza análoga a las anteriores.
+XI.- (DEROGADA, P.O. 20 DE JULIO DE 1983)
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 35.
 
-Las partes que celebren alguno de los actos a que se refiere el Artículo anterior son recíprocamente responsables solidarios del pago de este Impuesto, según sea el caso en los términos del artículo 28 de la presente ley, y el bien quedará afecto preferentemente a este fin.
+Las partes que celebren alguno de los actos a que se refiere el Artículo anterior son responsables solidarios del pago de este Impuesto, según sea el caso en los términos del Artículo 28 de la presente Ley.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
 
@@ -431,19 +465,27 @@ El contribuyente podrá pagar el impuesto por anticipado.
 
 Las Autoridades Judiciales, del Trabajo o Administrativas, están obligadas a dar aviso anticipado a la Secretaría de Finanzas del Estado, que se verificará remate de inmuebles y practicado éste, deberán remitirle copia certificada de la Diligencia de Remate y Adjudicación.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 38.
 
-Los Notarios, Jueces, y toda persona que se encuentre investida de fé pública, así como los funcionarios y empleados del Registro Público de la Propiedad y del Comercio, no autorizarán actos o contratos de transmisión de dominio o adquisición de la propiedad raíz o de derechos reales o posesorios de los mismos ni harán inscripción o anotación alguna de escrituras, actos o contratos sin que el solicitante compruebe lo siguiente:
+Los Notarios, Jueces y toda persona que se encuentre investida de fé pública, así como los Funcionarios del Registro Público de la Propiedad y de Comercio, no autorizarán actos o contratos de transmisión de dominio o adquisición de la propiedad raíz o de derechos reales o posesorios sobre los mismos, ni harán inscripción o anotación alguna de escrituras, actos o contratos sin que el solicitante compruebe lo siguiente:
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
 
 I.- Que se ha pagado el Impuesto a que se refiere el Artículo 28 de esta Ley.
 
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1983)</small>
+
 II.- Que está al corriente en el pago de todas las obligaciones fiscales a que se encuentre sujeto el inmueble objeto de la operación, hasta el mes en que realice la autorización o registro.
 
-III.- Que las comprobaciones a que se refieren las fracciones anteriores, se hagan mediante la presentación de los recibos oficiales y el Certificado de Libertad de Gravámenes, los que deberán contener el sello de la máquina registradora y las firmas de los funcionarios correspondientes, y
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1983)</small>
 
-IV.- Que se ha efectuado el deslinde del predio, por la Dirección de Catastro o por la Dependencia y organismo descentralizado del Estado que legalmente la substituya.
+III.- Que se ha efectuado el deslinde del predio.
+
+Las comprobaciones a que se refiere este Artículo se harán, respecto de la primera Fracción, mediante la presentación de las declaraciones o recibos oficiales que las substituyan, mismos que deberán contener la impresión de la máquina registradora; en cuanto a la segunda por medio de certificado de libertad de gravámenes fiscales debidamente firmado por el Titular y Sello de la Dependencia correspondiente; en lo que se refiere a la tercera con el acta o plano expedido por la Dirección de Catastro y Control Urbano o por la Dependencia u Organismo descentralizado que legalmente la substituya.
+
+IV.- (DEROGADA, P.O. 20 DE JULIO DE 1983)
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
 
@@ -2106,3 +2148,11 @@ P.O. 20 DE ABRIL DE 1983.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JULIO DE 1983.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Cuando con posterioridad a la vigencia del Impuesto Sobre Adquisición de Inmuebles y Transmisión de Dominio, se protocolice o inscriba el reconocimiento judicial de una prescripción positiva, la adjudicación de inmuebles en sucesión, remate judicial, administrativo o laboral, que se hubieren efectuado con anterioridad a esa fecha, los contribuyentes podrán determinar y pagar el Impuesto correspondiente en los términos de las disposiciones fiscales vigentes o conforme a las que regían en la fecha en que se realizaron los actos a que se refiere este Artículo.
+
+TERCERO.- Tratándose de los contratos a que se refiere la Fracción III del Artículo 34 de la Ley de Hacienda del Estado, celebrados con anterioridad a la vigencia del Impuesto Sobre Adquisición de Inmuebles y Transmisión de Dominio, se causará este Impuesto al celebrarse el contrato prometido, a menos que se hubiere pagado con anticipación el Impuesto Federal Sobre Adquisición de inmuebles.
