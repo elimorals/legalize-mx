@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ingresos-del-estado-de-mexico-para-el-ejercicio-27857"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2002-12-06"
-last_updated: "2002-12-06"
+last_updated: "2003-08-06"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE INGRESOS DEL ESTADO DE MEXICO
 
 PARA EL EJERCICIO FISCAL DE 2003
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DEL 2003.
 
 Ley publicada en la Gaceta del Gobierno, el 6 de diciembre del 2002.
 
@@ -137,9 +137,13 @@ Por los servicios prestados por las autoridades:
 
 5.9 Aprovechamientos diversos que se derivan de la aplicación del Código Administrativo del Estado de México y del Código Financiero del Estado de México y Municipios. 22,086
 
-6. INGRESOS ESTATALES DERIVADOS DEL SISTEMA NACIONAL DE COORDINACION FISCAL Y DE OTROS APOYOS FEDERALES: 48,383,330
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DEL 2003)</small>
 
-6.1 Los derivados de las participaciones en los ingresos federales. 23,085,676
+6. INGRESOS ESTATALES DERIVADOS DEL SISTEMA NACIONAL DE COORDINACION FISCAL Y DE OTROS APOYOS FEDERALES: 49,770,130
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DEL 2003)</small>
+
+6.1 Los derivados de las participaciones en los ingresos federales. 24,472,476
 
 6.2 Los derivados del fondo de aportaciones para la educación básica y normal (FAEB).13,397,732
 
@@ -175,11 +179,15 @@ Por los servicios prestados por las autoridades:
 
 1,291,132
 
-T O T A L 63,317,712
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DEL 2003)</small>
+
+T O T A L 64,704,512
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DEL 2003)</small>
 
 ###### Artículo 2.
 
-Se autoriza al Ejecutivo del Estado para que obtenga un endeudamiento neto autorizado, contratado en términos del Título Octavo del Código Financiero del Estado de México y Municipios, hasta por un monto equivalente al 5% del total de los ingresos ordinarios que ascienden a la cantidad de $61,885'923 mil pesos, que se obtengan en el ejercicio fiscal de 2003, por lo que se tiene un endeudamiento neto autorizado hasta por la cantidad de $3,094'296 mil pesos, que serán destinados exclusivamente para obras o acciones que produzcan beneficios a la población.
+Se autoriza al Ejecutivo del Estado para que obtenga un endeudamiento neto autorizado, contratado en términos del Título Octavo del Código Financiero del Estado de México y Municipios, hasta por un monto equivalente al 5% del total de los ingresos ordinarios que ascienden a la cantidad de $63,272'723 mil pesos, que se obtengan en el ejercicio fiscal de 2003, por lo que se tiene un endeudamiento neto autorizado hasta por la cantidad de $3,163'636 mil pesos, que serán destinados exclusivamente para obras o acciones que produzcan beneficios a la población.
 
 El Gobernador del Estado por conducto de la Secretaría de Finanzas y Planeación, podrá emitir valores durante el ejercicio fiscal de 2003, en términos de lo establecido en el decreto número 85, aprobado por esta Legislatura, publicado en el periódico oficial "Gaceta del Gobierno" del 31 de julio de 2002, hasta por 3 mil millones de pesos, monto que se incluye dentro del porcentaje de endeudamiento neto autorizado.
 
@@ -302,3 +310,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 6 DE AGOSTO DEL 2003
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- La Secretaría de Finanzas y Planeación del Gobierno del Estado de México, en el ámbito de su competencia, proveerá lo necesario para el cumplimiento del presente decreto y las
+
+obligaciones que del mismo se deriven.
