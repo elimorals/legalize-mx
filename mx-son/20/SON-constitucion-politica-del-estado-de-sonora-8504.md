@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1990-08-23"
+last_updated: "1990-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 23 DE AGOSTO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE AGOSTO DE 1990.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -139,7 +139,9 @@ VI. Ayudar, en el lugar en donde se encuentren, a las autoridades del Estado a l
 
 VII. Tomar las armas en defensa de la soberanía, leyes, instituciones y autoridades legítimas del Estado, cuando éstas lo requieran en los términos de la Ley.
 
-VIII. Inscribirse de acuerdo con las leyes relativas en el padrón y catastro del municipio donde residan.
+> <small>(REFORMADA, B.O. 30 DE AGOSTO DE 1990)</small>
+
+VIII. Inscribirse de acuerdo con las leyes relativas en el Registro Estatal de Electores y Catastro del Municipio donde residan.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -175,13 +177,17 @@ IV. Inscribirse de acuerdo con las leyes relativas en el catastro del municipio 
 
 Los mexicanos no sonorenses tienen las mismas obligaciones que los sonorenses. No podrán inmiscuirse en los asuntos políticos que se refieran al Estado o a los Municipios, mientras no adquieran la calidad de sonorenses.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE AGOSTO DE 1990)</small>
 
 ###### Artículo 16.
 
-Son derechos o prerrogativas del ciudadano sonorense:
+Son derechos y prerrogativas del ciudadano sonorense:
+
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
 
 I. Votar en las elecciones populares del Estado.
+
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
 
 II. Poder ser votado para los cargos de elección popular en el Estado y nombrado para cualquier otro empleo o comisión.
 
@@ -189,7 +195,11 @@ II. Poder ser votado para los cargos de elección popular en el Estado y nombrad
 
 III. Asociarse para tratar los asuntos políticos del Estado y formar partidos políticos en los términos que prevenga la Ley Electoral correspondiente.
 
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
+
 IV. Tomar las armas en el Ejército o Guardia Nacional para la defensa de la República, del Estado y de sus instituciones.
+
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
 
 V. Ejercer en toda clase de asuntos políticos el derecho de petición.
 
@@ -255,9 +265,13 @@ La soberanía reside esencial y originariamente en el pueblo sonorense y se ejer
 
 Los Partidos Políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
 
-> <small>(ADICIONADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 30 DE AGOSTO DE 1990)</small>
 
-Corresponde al Gobierno del Estado la preparación, desarrollo y vigilancia de los procesos electorales. La Ley determinará los organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos. Además, establecerá los medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por esta Constitución y por las Leyes que de ella emanen e instituirá un Tribunal Electoral que tendrá la competencia que determine la Ley.
+La organización de las elecciones es una función estatal que se ejerce por los poderes Legislativo y Ejecutivo del Estado, así como por los Ayuntamientos, con la participación de los Partidos Políticos y de los ciudadanos según lo disponga la Ley, para lo cual se integrarán los organismos electorales correspondientes. La certeza, legalidad, imparcialidad y objetividad serán principios rectores en el ejercicio de la función estatal, las sesiones de los organismos electorales serán públicas en los términos que disponga la Ley.
+
+> <small>(ADICIONADO, B.O. 30 DE AGOSTO DE 1990)</small>
+
+La Ley establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y un Tribunal Electoral que tendrá la competencia y organización que determine la Ley.
 
 ###### Artículo 23.
 
@@ -373,9 +387,15 @@ La asignación de Diputados, por el principio de representación proporcional, m
 
 I. Tendrá derecho a que le sean asignados Diputados por el principio de representación proporcional, todo aquel partido político que obtenga el uno punto cinco por ciento o más de la votación total emitida en el Estado, para las listas plurinominales.
 
-II. El partido que hubiere obtenido el mayor número de diputaciones de mayoría relativa, participará de la asignación de la representación proporcional hasta completar un máximo de diecinueve Diputados.
+> <small>(REFORMADA, B.O. 30 DE AGOSTO DE 1990)</small>
+
+II. El partido que hubiere obtenido el mayor número de diputaciones de mayoría relativa, participará de la asignación de la representación proporcional hasta completar un máximo de dos terceras partes.
 
 III. El número de diputaciones de representación proporcional que corresponda a cada partido político, se determinará de acuerdo con el porcentaje de votos que haya obtenido para sus listas en la circunscripción. La Ley establecerá la fórmula electoral y los procedimientos que se observarán para la asignación respectiva; en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 30 DE AGOSTO DE 1990)</small>
+
+IV. Sólo tendrán derecho a Diputados de Representación Proporcional, los partidos políticos que hayan registrado candidatos a diputados de mayoría relativa en, cuando menos, nueve distritos electorales.
 
 > <small>(REFORMADO, B.O. 19 DE FEBRERO DE 1977)</small>
 
@@ -475,7 +495,9 @@ Si al comenzar un período de sesiones ordinarias el Congreso estuviere celebran
 
 El veintidós de octubre de cada año, asistirá el Gobernador a la sesión especial que en ese día deberá celebrar el Congreso, ante quien rendirá un informe sobre el estado que guarde la administración pública en sus diversos ramos.
 
-El último año de su ejercicio constitucional, el Gobernador rendirá el informe a que este precepto se refiere, el primero de octubre.
+> <small>(REFORMADO, B.O. 30 DE AGOSTO DE 1990)</small>
+
+El último año de su ejercicio constitucional, el Gobernador rendirá el informe a que este precepto se refiere, el primero de Agosto.
 
 ###### Artículo 47.
 
@@ -2387,7 +2409,7 @@ La LI y LII, Legislaturas del Congreso del Estado, tendrán dos períodos de ses
 
 ###### ARTICULO SEPTIMO.
 
-Para el período gubernamental comprendido del 13 de septiembre de 1985 y que terminará el día 12 de septiembre de 1991, el Gobernador rendirá su último informe de Gobierno, ante el Congreso del Estado, el día 26 de agosto.
+(DEROGADO, B.O. 30 DE AGOSTO DE 1990)
 
 B.O. 17 DE MARZO DE 1988.
 
@@ -2402,6 +2424,16 @@ Se derogan todas las disposiciones que se opongan a la aplicación de esta Ley.
 B.O. 23 DE AGOSTO DE 1990.
 
 UNICO.- En tanto se instale la Segunda Sala Civil, el Supremo Tribunal de Justicia seguirá funcionando como hasta la fecha lo viene haciendo.
+
+B.O. 30 DE AGOSTO DE 1990.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga el Artículo séptimo transitorio de la Ley Número 109 que adiciona y reforma diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Sonora, publicada el 17 de Septiembre de 1987, en el Boletín Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
