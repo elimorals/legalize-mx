@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1964-08-22"
+last_updated: "1966-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 1964.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1966.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -865,21 +865,21 @@ Los Magistrados y los Jueces son responsables de los delitos y faltas en que inc
 
 El Ministerio Público es una Magistratura instituida para velar por la exacta observancia de las leyes de interés general. A ese fin deberá ejercitar las acciones que corresponda contra los violadores de dichas leyes, hacer efectivos los derechos concedidos al Estado, e intervenir en los juicios que afecten a las personas a quienes la ley otorgue especial protección.
 
-(REFORMADO, P.O. 6 DE JULIO DE 1935) (REPUBLICADO, P.O. 12 DE DICIEMBRE DE 1936)
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 1966)</small>
 
 ###### Artículo 81.
 
-Desempeñarán la expresada Magistratura en el Estado: un Procurador General de Justicia y los Agentes del Ministerio Público que señale la Ley Reglamentaria.
+Desempeñarán la expresada Magistratura en el Estado: un Procurador General de Justicia, un Sub-Procurador y los Agentes del Ministerio Público que señale la Ley Reglamentaria.
 
 ###### Artículo 82.
 
 Los funcionarios de que trata el artículo anterior serán considerados como parte en los juicios en que hayan de intervenir, sin gozar de prerrogativa alguna y se sujetarán en todo a las leyes relativas.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 1966)</small>
 
 ###### Artículo 83.
 
-Para ser Procurador General de Justicia se requieren las mismas condiciones que para ser Magistrado del Supremo Tribunal de Justicia; y para ser Agente del Ministerio Público se requieren las mismas condiciones que fija el artículo 71 de esta Constitución; pudiendo recaer el nombramiento de Agente del Ministerio Público en persona que carezca de título de Abogado, cuando así lo requieran las circunstancias.
+Para ser Procurador General de Justicia y Sub-Procurador se requieren las mismas condiciones que para ser Magistrado del Supremo Tribunal de Justicia; y para ser Agente del Ministerio Público se requieren las mismas condiciones que fija el artículo 71 de esta Constitución, pudiendo recaer el nombramiento de Agente del Ministerio Público en persona que carezca del título de Abogado cuando así lo requieran las circunstancias.
 
 ###### Artículo 84.
 
@@ -1125,7 +1125,9 @@ Todo funcionario y empleado público es responsable por los delitos del orden co
 
 Se concede acción popular para exigir la responsabilidad de los funcionarios y empleados públicos, a excepción de la que provenga de delitos en que se requiera la querella necesaria.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 1966)</small>
+
+Artículo 21 (sic).- Siempre que se trate de un delito de orden común cometido por los diputados, el Gobernador, los Magistrados, el Secretario General de Gobierno, el Procurador General de Justicia, el Sub-Procurador, el Tesorero General o los Munícipes, el Congreso erigido en Gran Jurado declarará a mayoría absoluta de votos si ha o no lugar a proceder contra el acusado. En caso negativo no habrá lugar a procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado haya dejado de tener fuero, comenzando entonces la prescripción. En el caso afirmativo el acusado quedará por el mismo hecho separado de su cargo y sujeto a la acción de los tribunales comunes.
 
 ###### Artículo 121.
 
@@ -1225,13 +1227,11 @@ Se prohibe ejercer simultáneamente dos o más cargos de elección popular; pero
 
 Todo cargo o empleo público es incompatible con cualquiera otro de la Federación, del Estado o de los Municipios, cuando por ellos se perciba sueldo, exceptuándose los de los Ramos de Instrucción, de Beneficencia Pública o los honoríficos en asociaciones científicas o literarias.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 1966)</small>
 
 ###### Artículo 139.
 
-Los Diputados, el Gobernados (sic), los Magistrados del Supremo Tribunal de Justicia, el Secretario General de Gobierno, el Procurador General de Justicia; el Tesorero General del Estado y los Munícipes, gozan de fuero desde el día de su elección o nombramiento en su caso.
-
-La Ley castigará severamente a la autoridad que viole el fuero que otorga esta Constitución a los Funcionarios citados.
+Los Diputados, el Gobernador, los Magistrados del Supremo Tribunal de Justicia, el Secretario General de Gobierno, el Procurador General de Justicia, el Sub-Procurador, el Tesorero General del Estado y los Munícipes gozan de fuero desde el día de su elección o nombramiento en su caso.
 
 (REFORMADO, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
 
@@ -1698,3 +1698,9 @@ Este Decreto surtirá sus efectos legales a partir de la fecha de su publicació
 P.O. 22 DE AGOSTO DE 1964.
 
 Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE ENERO DE 1966.
+
+###### ARTICULO UNICO.
+
+Este Decreto empezará a surtir sus efectos a partir de la fecha de su expedición.
