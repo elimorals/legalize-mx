@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2003-03-19"
+last_updated: "2003-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -743,9 +743,9 @@ a) Las que designe el Pleno del Congreso para la resolución de un asunto espec�
 
 Ningún Diputado presidirá, a la vez, dos o más de las Comisiones señaladas en la fracción I del presente artículo, ni tampoco una de estas Comisiones y uno de los Comités establecidos en el Artículo 77 de esta Ley.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
-Cada Diputado formará parte de hasta cinco Comisiones de Dictamen Legislativo.
+Cada Diputado formará parte de hasta seis Comisiones de Dictamen Legislativo.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
@@ -781,7 +781,9 @@ II.- Legislación y Puntos Constitucionales;
 
 III.- Justicia y Seguridad Pública;
 
-IV.- Desarrollo Humano;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+
+IV.- Desarrollo Social y Derechos Humanos;
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
@@ -793,23 +795,43 @@ VII.- Ecología;
 
 VIII.- Desarrollo Urbano y Transporte;
 
-IX.- Fomento Económico
+IX.- Fomento Económico;
 
-X.- Hacienda del Estado;
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2003)</small>
 
-XI.- Primera de Hacienda y Desarrollo Municipal;
+X.- Comisión de Desarrollo Sustentable;
 
-XII.- Segunda de Hacienda y desarrollo Municipal; y
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2003)</small>
 
-XIII.- Tercera de Hacienda y Desarrollo Municipal;
+XI.- Comisión de Juventud;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE OCTUBRE DE 2001)</small>
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2003)</small>
 
-XIV.- Cuarta de Hacienda y Desarrollo Municipal; y
+XII.- Comisión de Atención a Grupos Vulnerables;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
 
-XV.- Quinta de Hacienda y Desarrollo Municipal.
+XIII.- Comisión de Hacienda del Estado;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+
+XIV.- Comisión Primera de Hacienda y Desarrollo Municipal;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+
+XV.- Comisión Segunda y Desarrollo Municipal;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+
+XVI.- Comisión Tercera de Hacienda y Desarrollo Municipal;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+
+XVII.- Comisión Cuarta de Hacienda y Desarrollo Municipal; y
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+
+XVIII.- Comisión Quinta de Hacienda y Desarrollo Municipal.
 
 ###### Artículo 71.
 
@@ -1196,3 +1218,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 19 DE MARZO DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE OCTUBRE DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
