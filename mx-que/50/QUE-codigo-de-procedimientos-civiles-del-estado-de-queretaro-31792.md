@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-31792"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1999-05-07"
+last_updated: "1999-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -2659,7 +2659,7 @@ XII.- La consignación en pago;
 
 XIII.- Las acciones relativas a servidumbres legales o que consten en títulos públicos;
 
-(EN SUSPENSO LA VIGENCIA, P.O. 9 DE JUNIO DE 1994)
+(EN SUSPENSO LA VIGENCIA, P.O. 12 DE NOVIEMBRE DE 1999)
 
 XIV.- Las rectificaciones y modificaciones de actas del Registro Civil, a que se refiere el artículo 130 del Código Civil.
 
@@ -2673,7 +2673,7 @@ XVII.- En los casos a que se refiere el artículo 58 del Código Civil; y
 
 XVIII.- En general, las cuestiones que por su naturaleza requieran celeridad a juicio del juez, o porque así lo determine la ley.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 9 DE JUNIO DE 1994)
+(EN SUSPENSO LA VIGENCIA, P.O. 12 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 432.
 
@@ -2681,7 +2681,7 @@ En los casos de la Fracción XIV del artículo anterior se oirá al Ministerio P
 
 Si el Director del Registro Civil no contestase la demanda, se tendrá por presuntivamente confesados los hechos en que se funda el pedimento de rectificación o de modificación y luego de recibidas las pruebas y oídos los alegatos de los interesados si los formulasen por escrito dentro de tres días se dictará la resolución correspondiente.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 7 DE MAYO DE 1999)
+(EN SUSPENSO LA VIGENCIA, P.O. 12 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 433.
 
@@ -2690,6 +2690,8 @@ En los casos de la fracción XIV, del artículo 431, se oirá al Ministerio Púb
 ###### ARTÍCULO 434.
 
 En los casos de la fracción XVI del artículo 431, presentada la demanda, el juez de primera instancia llamará a los interesados a una audiencia, a la vez que solicitará informe del Director del Registro Civil en el sentido de que es cierta la existencia de los documentos cuya copia se pretende obtener. Si no hubiere oposición de parte interesada, concederá la expedición de las copias. Si la hubiere, resolverá lo que proceda.
+
+(EN SUSPENSO LA VIGENCIA, P.O. 12 DE NOVIEMBRE DE 1999)
 
 ###### ARTÍCULO 435.
 
@@ -5763,7 +5765,7 @@ La jurisdicción voluntaria comprende todos los actos en que, por disposición d
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-ARTICULO 922 bis.- A solicitud de parte legitima o de autoridad exhortante, podrá practicarse en esta vía, las notificaciones, recepción de pruebas o diligencias similares necesarias para procesos extranjeros.
+ARTICULO 922 bis.- A solicitud de parte legítima o de autoridad exhortante, podrá practicarse en esta vía, las notificaciones, recepción de pruebas o diligencias similares necesarias para procesos extranjeros.
 
 ###### ARTÍCULO 923.
 
@@ -6606,3 +6608,25 @@ Artículo segundo.- Las demás disposiciones que se opongan a la presente Ley y 
 Artículo tercero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo cuarto.- Una vez concluidos los plazos durante los cuales estará vigente la presente Ley, recobrarán su vigencia los artículos dejados en suspenso.
+
+P.O. 12 DE NOVIEMBRE DE 1999
+
+###### ARTICULO PRIMERO.
+
+Las personas, que por sí o a través de sus representantes, al entrar en vigor esta Ley, estén tramitando juicio para la rectificación de su acta de nacimiento, en cuanto a su nombre o apellidos, podrán optar por concluir ese procedimiento o acudir ante el Oficial del Registro Civil respectivo, en los términos de lo dispuesto en esta Ley.
+
+###### ARTICULO SEGUNDO.
+
+Las demás disposiciones que se opongan a la presente y que impidan su aplicación, quedarán en suspenso en cuanto a su observancia durante la vigencia de esta Ley.
+
+###### ARTICULO TERCERO.
+
+La presente Ley tendrá una vigencia de seis meses contados a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La sombra de Arteaga".
+
+###### ARTICULO CUARTO.
+
+Una vez concluida la vigencia de esta Ley, los artículos suspendidos, nuevamente entrarán en vigor.
+
+###### ARTICULO QUINTO.
+
+La Dirección General del Registro Civil, instrumentará una campaña de información amplia, a fin de que las persona que puedan beneficiarse con esta Ley, la instrumenten.
