@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-deuda-publica-municipal-del-estado-de-mexico-5977"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-31"
-last_updated: "1987-03-12"
+last_updated: "1999-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE DEUDA PUBLICA MUNICIPAL DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO QUINTO DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADO EN LA G.G. DE 9 DE MARZO DE 1999, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DEUDA PUBLICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 12 DE MARZO DE 1987.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MARZO DE 1999 (ABROGADO).
 
 Ley publicada en el Número 129 de la Gaceta del Gobierno del Estado de México, el miércoles 31 de diciembre de 1986.
 
@@ -374,3 +374,45 @@ EL SECRETARIO DE FINANZAS
 C.P. José Merino Mañón.
 
 (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. DE 9 DE MARZO DE 1999.
+
+## [N. DE E. TRANSITORIOS DEL “CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS”.]
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este Código entrará en vigor a los 30 días naturales siguientes al de su publicación en la "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+La fracción IV del artículo 108 en lo que se refiere a los inmuebles ubicados dentro de las áreas de interés catastral en donde se realicen actividades agropecuarias y forestales, entrará en vigor el primero de enero del año 2000.
+
+###### ARTICULO CUARTO.
+
+La aplicación del factor de topografía referido en el artículo 199, se hará a partir del primero de enero del año 2000.
+
+###### ARTICULO QUINTO.
+
+Se abrogan el Código Fiscal del Estado de México, el Código Fiscal Municipal del Estado de México, la Ley de Hacienda del Estado de México, la Ley de Hacienda Municipal del Estado de México, la Ley de Deuda Pública del Estado de México, la Ley de Deuda Pública Municipal del Estado de México, la Ley de Coordinación Fiscal del Estado de México, la Ley de Aportaciones de Mejoras del Estado de México, la Ley de Planeación del Estado de México, la Ley Orgánica del Presupuesto de Egresos del Estado de México y la Ley de Catastro del Estado de México, publicadas en la "Gaceta del Gobierno" en fechas 29 de diciembre de 1979, 29 de diciembre de 1979, 30 de diciembre de 1983, 6 de abril de 1998, 12 de julio de 1980, 31 de diciembre de 1986, 31 de diciembre de 1986, 28 de diciembre de 1992, 17 de enero de 1984, 29 de diciembre de 1971 y 11 de diciembre de 1997 respectivamente, así como sus posteriores reformas y adiciones.
+
+###### ARTICULO SEXTO.
+
+En todas aquellas disposiciones jurídicas en las que se haga referencia a cualquiera de los ordenamientos abrogados por el artículo anterior, se entenderán referidos al Título correspondiente de este Código.
+
+###### ARTICULO SEPTIMO.
+
+Se derogan las normas legales y reglamentarias de igual o menor jerarquía que sean contrarias a las disposiciones de este Código.
+
+###### ARTICULO OCTAVO.
+
+Los actos y procedimientos que con base en los códigos y leyes que se abrogan o en las disposiciones que se derogan, que se encuentren en trámite al entrar en vigor este Código se resolverán conforme a las disposiciones legales anteriores al mismo.
+
+###### ARTICULO NOVENO.
+
+En tanto se expida el Reglamento del Catastro, seguirá en vigor el actual Reglamento de la Ley de Catastro del Estado de México
