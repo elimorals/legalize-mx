@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-2691"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-01-15"
-last_updated: "1999-12-31"
+last_updated: "2000-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 2000.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 15 de enero de 1991.
 
@@ -185,7 +185,9 @@ ARTICULO 19 A.- Para todos los efectos legales y por afectar de manera important
 
 I.- Homicidio previsto en el artículo 139 en relación con los artículos 140, 141, 151 fracciones I, II y III, 152, 156 solo por lo que respecta a la modalidad de riña, 157 primer párrafo y 159 en sus grados de preterintencionalidad y de tentativa; por lo que se refiere al tipo descrito en el artículo 159, sólo se considerará grave el homicidio si fuere doloso.
 
-II.- Lesiones, previsto en el artículo 142, siempre que se cometa en la hipótesis señalada en el segundo párrafo del artículo 144.
+> <small>(REFORMADA, B.O. 20 DE JUNIO DE 2000)</small>
+
+II.- Lesiones, previsto en los artículos 142 y 152, siempre que se cometan en la hipótesis señalada en el segundo párrafo del artículo 144.
 
 III.- Instigación o ayuda al suicidio, en términos de lo previsto en el segundo párrafo del artículo 160.
 
@@ -217,9 +219,13 @@ XV.- Incesto, previsto y sancionado por el artículo 250.
 
 XVI.- Tráfico de menores, previsto y sancionado por el artículo 254.
 
-XVII.- Corrupción de menores, previsto en el primer párrafo del artículo 256, siempre y cuando se cometa en las hipótesis previstas en el tercer párrafo del propio artículo. Asimismo, cuando se cometa en términos de lo dispuesto por el artículo 258, excepto en las hipótesis referidas en el artículo 257.
+> <small>(REFORMADA, B.O. 20 DE JUNIO DE 2000)</small>
 
-XVIII.- Lenocinio, previsto en el artículo 260; siempre que se cometa en los supuestos señalados por los artículos 262 o 263.
+XVII.- Corrupción de Menores e Incapaces previsto en el artículo 256; pornografía infantil previsto en el artículo 256 Bis, asimismo, cuando se cometan en términos de los (sic) dispuesto en el artículo 258 excepto en la hipótesis referida en el artículo 257.
+
+> <small>(REFORMADA, B.O. 20 DE JUNIO DE 2000)</small>
+
+XVIII.- Lenocinio previsto en el artículo 260 fracción IV y en los supuestos señalados por los artículos 262 ó 263.
 
 XIX.- Ataques a las vías de comunicación, siempre que se cometa en las hipótesis señaladas en el artículo 278.
 
@@ -1227,6 +1233,10 @@ III.- A los copartícipes en el delito de lesiones u homicidio, que no se encuen
 
 Cuando el homicidio o las lesiones sean calificadas, se aumentará hasta otro tanto de la pena que correspondería si el delito fuera simple.
 
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 2000)</small>
+
+Cuando el homicidio o las lesiones sean causadas con motivo de la conducción de vehículos bajo el efecto de bebidas Alcohólicas, drogas, enervantes, estupefacientes, psicotrópicos o cualquier otra sustancia que cauce efectos similares, la pena corporal se aumentará en dos terceras partes.
+
 ###### ARTICULO 153.
 
 Se entiende que las lesiones y el homicidio son calificados, cuando se cometan con premeditación, con ventaja, o a traición.
@@ -2085,17 +2095,29 @@ II.- Publique por cualquier medio, ejecute o haga ejecutar por otro exhibiciones
 
 III.- De modo escandaloso invite a otro al comercio carnal.
 
+> <small>(REFORMADA SU DENOMINACION, B.O. 20 DE JUNIO DE 2000)</small>
+
 ### CAPITULO II
 
-CORRUPCION DE MENORES.
+CORRUPCION DE MENORES E INCAPACES Y PORNOGRAFIA INFANTIL.
+
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 256.
 
-Comete el delito de corrupción de menores el que procure o facilite su depravación sexual, si es púber, la iniciación en la vida sexual o la depravación de un impúber, o los hábitos viciosos, a la ebriedad, a formar parte de una asociación delictuosa, o a cometer cualquier delito.
+Al que procure, facilite, induzca o propicie la corrupción de una persona menor de dieciocho años o de quien estuviere de hecho incapacitado civilmente por otra causa, induciéndolo a la ebriedad o a vivir de la caridad pública sin justificación, se le aplicarán de dos a seis años de prisión y hasta cien días de multa.
 
-Se aplicará prisión de dos a seis años y hasta cien días multa, al que facilite o procure la corrupción de un menor de dieciocho años de edad.
+Cuando la conducta encaminada a corromper consista en la realización de actos sexuales o a inducirlo a la práctica de la prostitución, al uso de drogas señaladas en la Ley General de Salud u otras sustancias que produzcan efectos similares, o a formar parte de una asociación delictuosa o a cometer algún delito, la pena será de cinco a diez años de prisión y de hasta doscientos días multa.
 
-Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor y debido a ellos, éste adquiere los hábitos de alcoholismo, uso de sustancia (sic) tóxicas u otras que produzcan efectos similares, induzca a la mendicidad, se dedique a la prostitución o a prácticas homosexuales, o forme parte de una asociación delictuosa, la pena de prisión será de cinco a diez años y hasta doscientos días multa.
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 2000)</small>
+
+ARTICULO 256 BIS.- Al que procure, facilite, induzca, propicie u obligue a menores de edad o incapaces civilmente a realizar actos de desnudo corporal con fines lascivos o sexuales, o de exhibirlos de cualquier forma, filmarlos, videograbarlos o fotografiarlos, con o sin ánimo de obtener un lucro, se le aplicará de cinco a diez años de prisión y de mil a dos mil días multa.
+
+Se impondrá la misma pena al que por cualquier medio elabore, reproduzca, venda, arriende, exponga, publicite, transmita, fije, grabe, imprima o distribuya anuncios, impresos, videos, películas o fotografía, con o sin ánimo de lucro, en cuyo contenido aparezcan menores de edad o incapaces civilmente realizando actos o desnudos con fines lascivos o sexuales.
+
+Se impondrá prisión de seis a doce años y de dos mil a ocho mil días de multa, a quien por si o a través de terceros, dirija, administre o supervise cualquier tipo de asociación delictuosa con el propósito de que se realicen las conductas previstas en los párrafos anteriores.
+
+En todos los casos previstos en este artículo se decomisarán los objetos, instrumentos y productos de los delitos.
 
 ###### ARTICULO 257.
 
@@ -2103,9 +2125,13 @@ A quien emplee a menores de dieciséis años en cantinas, y centros de vicio, se
 
 Para los efectos de este precepto se considera como empleado en la cantina, y centro de vicio al menor de dieciocho años que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje o emolumento, o gratuitamente, preste sus servicios en tal lugar.
 
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 258.
 
-Las penas que señalan los Artículos anteriores se duplicarán cuando el delincuente sea, ascendiente, padrastro o madrastra del menor, privando al reo de todo derecho a los bienes del ofendido y de la patria potestad sobre todos sus descendientes.
+Las penas previstas en los artículos anteriores se duplicarán, cuando el agente sea ascendiente, padrastro o madrastra del menor; además se le privará de todo derecho a los bienes del ofendido y del ejercicio de la patria potestad de éste.
+
+Si se emplease violencia en la comisión de los delitos previstos en este capítulo, o el agente se valiese de la función pública que desempeñe, o ejerza una profesión, oficio o cargo y aproveche los medios o circunstancias que ello le proporciona, la pena se agravará en una mitad más; y se le destituirá del empleo, cargo o comisión pública y se le inhabilitará para ocupar otro similar según sea el caso o se le suspenderá en el ejercicio de la profesión.
 
 ###### ARTICULO 259.
 
@@ -2125,9 +2151,17 @@ II.- Al que induzca o solicite a una persona para que con otra comercie sexualme
 
 III.- Al que regentee, administre o sostenga directa o indirectamente prostíbulos, casas de citas o lugares de concurrencia expresamente dedicados a explotar la prostitución, u obtenga cualquier beneficio con sus productos.
 
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 2000)</small>
+
+IV.- El que promueva, publicite, invite, facilite o propicie por cualquier medio para que una persona o personas tengan relaciones sexuales con menores de edad o incapaces civilmente.
+
 ###### ARTICULO 261.
 
 El lenocinio se penará con prisión de dos a ocho años y hasta doscientos cincuenta días multa.
+
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 2000)</small>
+
+Cuando el sujeto pasivo del delito sea menor de edad o incapaz, la pena será de siete a doce años de prisión y de trescientos a setecientos días de multa.
 
 ###### ARTICULO 262.
 
@@ -2689,7 +2723,13 @@ III.- Teniendo conocimiento por razón de su empleo, cargo o comisión de que pu
 
 IV.- Por si o por interpósita persona, sustraiga, destruya, oculte, utilice, o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión.
 
-Al que cometa alguno de los delitos a que se refieren las Fracciones I y II de este Artículo, se le impondrán de seis meses a dos años de prisión y hasta doscientos días multa, o destitución en su caso e inhabilitación de un mes a dos años para desempeñar otro empleo, cargo o comisión públicos. Al infractor de las fracciones III y IV, se impondrán de dos a siete años de prisión y hasta doscientos días multa, destitución e inhabilitación de dos a siete años para desempeñar otro empleo, cargo o comisión públicos.
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 2000)</small>
+
+V.- Sin causa justificada y sin haber intervenido en la comisión del delito, altere, modifique, cambie, obstruya, mueve, sustraiga, destruya o manipule de cualquier forma las huellas o vestigios del hecho delictuoso, los instrumentos, cadáveres o cosas, objetos o efectos del mismo, si con alguna de estas conductas se retarda, dificulta o entorpece la procuración de justicia.
+
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 2000)</small>
+
+Al que cometa alguno de los delitos a los que se refieren las fracciones I y II de este artículo, se le impondrán de seis meses a dos años de prisión y hasta doscientos días de multa, o destitución, en su caso, e inhabilitación de un mes a dos años para desempeñar otro empleo, cargo o comisión públicos. Al infractor de las fracciones III, IV y V, se le impondrán de dos a siete años de prisión y hasta doscientos días de multa, destitución e inhabilitación de dos a siete años para desempeñar otro empleo, cargo o comisión públicos.
 
 ### CAPITULO III
 
@@ -3037,9 +3077,11 @@ Al sentenciado a confinamiento que salga del lugar que se le haya fijado para lu
 
 ENCUBRIMIENTO.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 341.
 
-Se aplicará de seis meses a tres años de prisión y hasta sesenta días de multa al que:
+Se aplicarán de seis meses a tres años de prisión y hasta sesenta días de multa, al que:
 
 I.- No procure por los medios lícitos que tenga a su alcance, impedir la consumación de los delitos que sabe van a cometerse, o se están cometiendo, si son de los que se persiguen de oficio.
 
@@ -3054,6 +3096,10 @@ V.- Oculte al responsable de un delito, o los efectos, objetos o instrumentos de
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1997)</small>
 
 VI.- Al que con ánimo de lucro después de la ejecución de un delito y sin haber participado de éste, posea, enajene o trafique de cualquier manera, adquiera o reciba los instrumentos, objetos o productos del delito, a sabiendas de su ilegítima procedencia, o al que ayude a otros para los mismos fines.
+
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 2000)</small>
+
+VII.- Sin haber intervenido en la comisión del delito y sin estar autorizado por la Ley, altere, modifique, cambie, obstruya, mueva, sustraiga, destruya o manipule de cualquier forma las huellas o vestigios del hecho delictuoso, los instrumentos, cadáveres o cosas, objetos o efectos del mismo, si con alguna de estas conductas se retarda, dificulta o entorpece la procuración de justicia.
 
 ###### ARTICULO 342.
 
@@ -3159,13 +3205,13 @@ Es ultraje el uso indebido de las insignias del Estado o de los Municipios, o la
 
 Al responsable de ultraje se impondrá de tres días a seis meses de prisión y multa hasta de noventa días salario.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
 
 ## TITULO VIGESIMO
 
 DE LOS DELITOS ELECTORALES.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
+T R A N S I T O R I O S :
 
 ### CAPITULO UNICO
 
@@ -3311,7 +3357,7 @@ II.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido de la
 
 La pena a que se refiere este Artículo se podrá incrementar en una cuarta parte si las conductas son cometidas por personal del órgano que tenga a su cargo el servicio del Registro Estatal de Electores.
 
-T R A N S I T O R I O S :
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO PRIMERO.
 
@@ -3386,3 +3432,13 @@ SEPTIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 B.O. 31 DE DICIEMBRE DE 1999.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE JUNIO DE 2000.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, a excepción de lo dispuesto en el artículo siguiente.
+
+###### ARTICULO SEGUNDO.
+
+Las adiciones a los artículos 317 fracción V y 341 fracción VII del Código Penal para el Estado de Baja California Sur, entrarán en vigor a los 90 días siguientes de su publicación en el Boletín Oficial del Gobierno del Estado, para que en ese lapso de tiempo se informe ampliamente al personal de los servicios de emergencia, a los auxiliares indirectos del Ministerio Público y a los medios de comunicación sobre el contenido de los mismos.
